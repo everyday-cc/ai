@@ -191,24 +191,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "This week in data: The real cost of generative AI"
-    excerpt: "Register Here How much will your generative AI use case actually cost your business, and how can you make that investment meaningful in the long term? Watch the video below to explore research from McKinsey & Company and discover three archetypes and a ..."
-    publishedDateTime: 2023-08-28T18:07:00Z
-    webUrl: "https://venturebeat.com/business/this-week-in-data-the-real-cost-of-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
-  - title: "Generative AI Is Coming To Mobile Devices"
-    excerpt: "The new Snapdragon chips aim to transition generative AI capabilities, such as those found in ChatGPT and Midjourney, from desktops to mobile devices."
-    publishedDateTime: 2023-08-28T18:59:00Z
-    webUrl: "https://www.forbes.com/sites/amirhusain/2023/08/28/generative-ai-is-coming-to-mobile-devices/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Bringing AI to work? Better have policies in place"
     excerpt: "Conversica found this to be troubling. In its white paper, “AI Ethics and Corporate Responsibility,” Conversica basically says the uptake of AI in the workplace is running ahead of guidelines around how to govern its use. Although less than half the ..."
     publishedDateTime: 2023-08-30T13:30:00Z

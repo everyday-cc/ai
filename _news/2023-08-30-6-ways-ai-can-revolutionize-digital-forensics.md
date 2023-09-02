@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Generative AI Revolution: A Paradigm Shift In Work Culture"
+    excerpt: "It carefully chooses the language, tone and style best suited for the intended ... With this as a starting point, generative AI becomes a skilled translator, converting these objectives into discernable search criteria and detailed role definitions."
+    publishedDateTime: 2023-08-30T11:32:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/30/the-generative-ai-revolution-a-paradigm-shift-in-work-culture/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/30/the-generative-ai-revolution-a-paradigm-shift-in-work-culture/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/30/the-generative-ai-revolution-a-paradigm-shift-in-work-culture/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64de2670c0104c27ef8801c6/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How the AI Revolution Will Reshape the World"
     excerpt: "We are now facing a new wave of technology, centered around AI but including synthetic biology, quantum computing, and abundant new sources of energy. In many respects it will repeat this pattern. Yet it will also depart from it in crucial ways only now becoming clear."
     publishedDateTime: 2023-09-01T11:05:00Z
@@ -39,24 +55,6 @@ related:
         width: 2121
         height: 1414
         isCached: true
-  - title: "Unveiling HomeDesigns AI: Revolutionizing Real Estate and Design with AI-Powered Innovation"
-    excerpt: "Unlock a new era of real estate and design with HomeDesigns AI. Explore how this cutting-edge technology is pushing boundaries and redefining"
-    publishedDateTime: 2023-09-01T08:28:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/unveiling-homedesigns-ai-revolutionizing-real-estate-and-design-with-ai-powered-innovation-1032598048"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
-  - title: "How artificial intelligence will help, or hinder, your workforce"
-    excerpt: "The authors' theory is that higher-skilled workers benefit far less from AI assistance because the AI is reflecting behaviors and skills it learned from the skilled work, making it more beneficial to reduce the learning curve and help out new customer-service workers instead."
-    publishedDateTime: 2023-09-01T12:00:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/09/01/ai-chatgpt-tools-workers-manager-risk.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
   - title: "The Fintech Revolution: Unraveling the Forces Reshaping Finance"
     excerpt: "Step into the dynamic world of fintech, where disruptive innovations are reshaping the financial landscape as we know it. In a society constantly craving innovation and convenience, the rapid ascent of top fintech companies comes as no surprise."
     publishedDateTime: 2023-09-01T17:56:00Z

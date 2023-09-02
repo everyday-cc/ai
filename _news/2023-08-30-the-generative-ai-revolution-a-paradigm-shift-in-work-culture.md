@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/30/the-genera
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/30/the-generative-ai-revolution-a-paradigm-shift-in-work-culture/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 139
+published: true
 
 provider:
   name: Forbes
@@ -31,31 +31,61 @@ images:
     isCached: true
 
 related:
-  - title: "Nutanix Introduces A Turnkey Generative AI Solution Stack"
-    excerpt: "Nutanix's new GPT-in-a-Box brings together the elements necessary to deploy a large language model (LLM) into production."
-    publishedDateTime: 2023-08-28T18:53:00Z
-    webUrl: "https://www.forbes.com/sites/stevemcdowell/2023/08/28/nutanix-introduces-a-turnkey-generative-ai-solution-stack/"
-    ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/08/28/nutanix-introduces-a-turnkey-generative-ai-solution-stack/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/08/28/nutanix-introduces-a-turnkey-generative-ai-solution-stack/amp/"
+  - title: "How the AI Revolution Will Reshape the World"
+    excerpt: "We are now facing a new wave of technology, centered around AI but including synthetic biology, quantum computing, and abundant new sources of energy. In many respects it will repeat this pattern. Yet it will also depart from it in crucial ways only now becoming clear."
+    publishedDateTime: 2023-09-01T11:05:00Z
+    webUrl: "https://time.com/6310115/ai-revolution-reshape-the-world/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
+      name: Time
+      domain: time.com
+    quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64ececc62874c313484af6bb/0x0.jpg?format=jpg&width=1200"
-        width: 787
-        height: 1037
+      - url: "https://api.time.com/wp-content/uploads/2023/09/GettyImages-1405750746.jpg?quality&#x3D;85"
+        width: 2121
+        height: 1414
         isCached: true
-  - title: "Generative AI Report: Nutanix Simplifies Adoption of Generative AI with New Nutanix GPT-in-a-Box Solution"
-    excerpt: "Nutanix (NASDAQ: NTNX), a leader in hybrid multicloud computing, announced the Nutanix GPT-in-a-Box™ solution for customers looking to jump-start their artificial intelligence (AI) and machine learning (ML) innovation,"
-    publishedDateTime: 2023-08-28T19:07:00Z
-    webUrl: "https://insidebigdata.com/2023/08/28/generative-ai-report-nutanix-simplifies-adoption-of-generative-ai-with-new-nutanix-gpt-in-a-box-solution/"
+  - title: "6 Ways AI Can Revolutionize Digital Forensics"
+    excerpt: "Artificial intelligence tools can automate the analysis of logs, video, and other important but tedious aspects of investigations."
+    publishedDateTime: 2023-08-29T22:57:00Z
+    webUrl: "https://www.darkreading.com/dr-tech/6-ways-ai-can-revolutionize-digital-forensics"
     type: article
     provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 2
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 39
+    images:
+      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltc95e39a2bb031549/64ee7720367256112eaccd06/forensicsclass-dpa_picture_alliance-alamy.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "The Fintech Revolution: Unraveling the Forces Reshaping Finance"
+    excerpt: "Step into the dynamic world of fintech, where disruptive innovations are reshaping the financial landscape as we know it. In a society constantly craving innovation and convenience, the rapid ascent of top fintech companies comes as no surprise."
+    publishedDateTime: 2023-09-01T17:56:00Z
+    webUrl: "https://techbullion.com/the-fintech-revolution-unraveling-the-forces-reshaping-finance/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 19
+  - title: "Is Corporate America ready for the AI revolution?"
+    excerpt: "Artificial intelligence is transforming the way we live, but despite its rapid progression into the mainstream, according to a new report from the New York Times, most of corporate America isn't prepared to fully embrace or adopt the powerful new technology."
+    publishedDateTime: 2023-08-30T14:57:00Z
+    webUrl: "https://www.cbsnews.com/video/corporate-america-not-ready-for-ai-revolution/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 17
+  - title: "The evolution of photography in the age of artificial intelligence"
+    excerpt: "Photography only dates back to the early 19th century. Since it’s so closely tied to technology, photography has gone through countless transformations."
+    publishedDateTime: 2023-08-29T19:15:00Z
+    webUrl: "https://www.chron.com/marketplace/article/evolution-photography-age-artificial-intelligence-18336767.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 17
 
 secured: "VRj9qqvYaYAn5DZ92fI7txqOIX9ZMjIz5f71laISi/H+l9U4c8GVpr81UG2NqIhLZFPxaV73KcuBkVvcC5Aw8xayW+La1636Pt1StR5bSOrnNRk3Vv34a5OVLNNzSPF2Gp4KpdSSf0dy4h9SGeVtk4onSAbbGnx1Ro3Fc3RBsLDjKQNksJykYM78WMwpxziHUW0XB/sUasUudpLpdPzN+dO/0TtK9AsqlLMTUC/J1xiavjQhHyPMTEOPTWDUaVwteCF/XF11PmMkGo9kpqSTIZB0ZPRjhXkhgcQBUu0503yOxBatQlfhjtUjwzMzjBg9HVmmEP971IJByIfNCLQEuwxXIh4g97BtD80ucDNRmRg=;5ViuSfsQ1tAnYLK2kE4yVg=="
 ---

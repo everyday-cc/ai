@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How the Medical Industry Could Produce the Biggest AI Stock Winners"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence could change our society significantly over the next"
+    publishedDateTime: 2023-09-02T10:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/how-the-medical-industry-could-produce-the-biggest-ai-stock-winners-1032600921"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://investorplace.com/wp-content/uploads/2023/05/chromosome-dna-gcats.png"
+        width: 1165
+        height: 435
+        isCached: true
   - title: "Artificial intelligence in the pharmaceutical industry: analyzing innovation, investment and hiring trends"
     excerpt: "GlobalData’s artificial intelligence (AI) market report helps keep abreast of the latest trends in AI, market opportunity forecast and the competitive landscape. Buy the report here. Pharma companies are leveraging artificial intelligence (AI) technologies to innovate and improve their businesses,"
     publishedDateTime: 2023-09-01T07:27:00Z

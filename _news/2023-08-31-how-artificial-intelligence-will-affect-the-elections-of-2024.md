@@ -84,6 +84,22 @@ related:
         width: 764
         height: 563
         isCached: true
+  - title: "Crossing the chasm in AI-led marketing transformation"
+    excerpt: "And that is why it should be among the top priorities for any chief marketing officer (CMO) to unravel the possibilities of AI. Customer-centric sectors such as fintech, and e-commerce have already started piloting AI strategies while many other sectors ..."
+    publishedDateTime: 2023-09-02T11:06:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-crossing-the-chasm-in-ai-led-marketing-transformation-3230292/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-crossing-the-chasm-in-ai-led-marketing-transformation-3230292/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-crossing-the-chasm-in-ai-led-marketing-transformation-3230292/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 76
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-01T181533.194.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI's Impact On The Future Of Consumer Behavior And Expectations"
     excerpt: "With increasing awareness about data’s value, businesses need to handle customer information responsibly and transparently."
     publishedDateTime: 2023-08-31T14:00:00Z

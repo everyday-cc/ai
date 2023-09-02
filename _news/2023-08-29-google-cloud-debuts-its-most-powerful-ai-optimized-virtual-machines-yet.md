@@ -191,15 +191,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 30
-  - title: "New IBM campaign promotes tailored use of AI for businesses"
-    excerpt: "IBM was an early pioneer in the field of AI. In 1997, the brand’s Deep Blue AI system defeated chess grandmaster Garry Kasparov, a moment which many AI experts regard as being pivotal for their field. Thirteen years later, the brand unveiled Watson ..."
-    publishedDateTime: 2023-08-28T18:55:00Z
-    webUrl: "https://www.thedrum.com/news/2023/08/28/ibm-seeks-strengthen-ai-foothold-with-watsonx-your-business"
-    type: article
-    provider:
-      name: The Drum
-      domain: thedrum.com
-    quality: 19
   - title: "Domo Announces Domo.AI to Revolutionize the Way Businesses Manage and Deploy Artificial Intelligence"
     excerpt: "The Domo platform -- and our architectural approach to Domo.AI -- is purpose-built to deliver on this need for unique data experiences that help businesses overcome real-world challenges and accelerate innovation and growth."
     publishedDateTime: 2023-08-29T22:02:00Z

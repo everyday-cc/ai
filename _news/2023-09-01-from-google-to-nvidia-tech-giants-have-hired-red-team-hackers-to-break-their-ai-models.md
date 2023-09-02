@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/rashishrivastava/2023/09/01/ai-red-te
 webUrl: "https://www.forbes.com/sites/rashishrivastava/2023/09/01/ai-red-teams-google-nvidia-microsoft-meta/"
 type: article
 quality: 63
-heat: 74
+heat: 75
 published: true
 
 provider:

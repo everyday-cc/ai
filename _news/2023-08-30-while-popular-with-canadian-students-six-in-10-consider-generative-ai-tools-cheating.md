@@ -19,38 +19,26 @@ topics:
   - AI
 
 related:
-  - title: "Generative AI Makes Grammarly An Essential Student Learning Tool"
-    excerpt: "With the release of a host of generative AI features for Grammarly, students now have a rich set of tools available to help them with every aspect of their writing."
-    publishedDateTime: 2023-08-28T17:47:00Z
-    webUrl: "https://www.forbes.com/sites/rayravaglia/2023/08/28/generative-ai-makes-grammarly-an-essential-student-learning-tool/"
-    ampWebUrl: "https://www.forbes.com/sites/rayravaglia/2023/08/28/generative-ai-makes-grammarly-an-essential-student-learning-tool/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rayravaglia/2023/08/28/generative-ai-makes-grammarly-an-essential-student-learning-tool/amp/"
+  - title: "Popular AI Tools Can Hurt Your Mental Health, New Study Finds"
+    excerpt: "According to a new study, AI tools generate harmful content that can trigger eating disorders and other mental health conditions. Taylor Leamey Senior Writer Taylor Leamey writes about all things wellness, specializing in mental health, sleep and nutrition ..."
+    publishedDateTime: 2023-08-29T13:00:00Z
+    webUrl: "https://www.cnet.com/health/mental/popular-ai-tools-can-hurt-your-mental-health-new-study-finds/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64ecdaa5bfa770a03fd8ae25/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 632
-        isCached: true
-  - title: "Watch out, Grammarly — Google Docs gets AI proofreading"
-    excerpt: "For the $30 monthly fee, enterprise users get advanced AI features in many Workspace apps, including Google Docs, Sheets, Slides, Gmail, Meet, and more. After a slow start, Google is moving quickly with its AI rollout. Google Duet with Proofread launched ..."
-    publishedDateTime: 2023-08-30T16:48:00Z
-    webUrl: "https://www.digitaltrends.com/computing/google-docs-gets-ai-proofreading-via-duet/"
-    ampWebUrl: "https://www.digitaltrends.com/computing/google-docs-gets-ai-proofreading-via-duet/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/google-docs-gets-ai-proofreading-via-duet/?amp"
+      name: CNET
+      domain: cnet.com
+    quality: 47
+  - title: "More than half of Canadian students over 18 use AI tools: survey"
+    excerpt: "More than half of students over 18 have used generative AI to complete their school work or pass an exam, despite 60 per cent feeling that it constitutes cheating, according to a recent survey by business consulting firm KPMG."
+    publishedDateTime: 2023-08-31T20:49:00Z
+    webUrl: "https://www.ctvnews.ca/sci-tech/more-than-half-of-canadian-students-over-18-use-ai-tools-survey-1.6543380"
+    ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2023/8/31/1_6543380.amp.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/8/31/1_6543380.amp.html"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 87
-    images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2022/05/google-docs-smart-features-2.jpeg?resize=1200%2C630&p=1"
-        width: 1200
-        height: 630
-        isCached: true
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 39
 
 secured: "cjOeVS8cmOIaDuwHpSRzEzkouoh1c5UV2LSCTIX0PNz4s3lOWK08I+ecOeIgj0GFLj6uxe/w8mtHW2ehDMpy99dOnYyI+dXWTP0ndyUpCsplMk0gxHeZVOghnBxi2UFIvvEvGxdkngoNHgVeu8dmoFGiOELXiLqYEWdzWbMlD4GW/bz02XGLC+MOnytMCNs6PZkukOIFMsEDpGdfkLAHQenBf9AeXj4iXc1eAxf/kHxICgE0Lgi4tIP3aB7fVJwLIgvWJcK2OPC3ctyEVEgtTeBWyUfy9bD23QiO9129Us+vaskNoIC6DoQx0/IDI2yzx+kujpkmiEExmadRLYFXDAEY38ZV9Wrvty9QNAR5MAI=;UoevhQe2gm0M7ykvlQHbRQ=="
 ---

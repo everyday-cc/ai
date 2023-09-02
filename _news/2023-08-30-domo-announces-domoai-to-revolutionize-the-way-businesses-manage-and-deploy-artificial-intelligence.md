@@ -197,15 +197,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 30
-  - title: "New IBM campaign promotes tailored use of AI for businesses"
-    excerpt: "IBM was an early pioneer in the field of AI. In 1997, the brand’s Deep Blue AI system defeated chess grandmaster Garry Kasparov, a moment which many AI experts regard as being pivotal for their field. Thirteen years later, the brand unveiled Watson ..."
-    publishedDateTime: 2023-08-28T18:55:00Z
-    webUrl: "https://www.thedrum.com/news/2023/08/28/ibm-seeks-strengthen-ai-foothold-with-watsonx-your-business"
-    type: article
-    provider:
-      name: The Drum
-      domain: thedrum.com
-    quality: 19
   - title: "Google Says Over Half of Generative AI Startups Use Its Cloud"
     excerpt: "Google Cloud's general manager for startups and AI, James Lee, said the company is becoming the \"preferred choice\" for generative AI startups due to its flexibility in offering AI models from various companies."
     publishedDateTime: 2023-08-30T13:58:00Z

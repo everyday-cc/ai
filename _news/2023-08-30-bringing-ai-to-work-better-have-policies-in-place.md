@@ -198,24 +198,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "This week in data: The real cost of generative AI"
-    excerpt: "Register Here How much will your generative AI use case actually cost your business, and how can you make that investment meaningful in the long term? Watch the video below to explore research from McKinsey & Company and discover three archetypes and a ..."
-    publishedDateTime: 2023-08-28T18:07:00Z
-    webUrl: "https://venturebeat.com/business/this-week-in-data-the-real-cost-of-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
-  - title: "Generative AI Is Coming To Mobile Devices"
-    excerpt: "The new Snapdragon chips aim to transition generative AI capabilities, such as those found in ChatGPT and Midjourney, from desktops to mobile devices."
-    publishedDateTime: 2023-08-28T18:59:00Z
-    webUrl: "https://www.forbes.com/sites/amirhusain/2023/08/28/generative-ai-is-coming-to-mobile-devices/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Confirm raises $6.2 million to bring generative AI and network analysis to performance reviews"
     excerpt: "incorporating “Organizational Network Analysis (ONA),” an approach the consulting giant Deloitte describes as “ visualizing and analyzing formal and informal relationships in your organization,” as well as generative AI in the form of OpenAI’s ..."
     publishedDateTime: 2023-08-30T12:00:00Z

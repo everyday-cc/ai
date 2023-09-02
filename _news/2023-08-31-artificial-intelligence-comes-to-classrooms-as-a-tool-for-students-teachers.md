@@ -21,17 +21,6 @@ topics:
   - AI in Healthcare
   - AI in Autos
 
-related:
-  - title: "Denver-based startup raises $2.4M for AI tools that save K-12 teachers' time"
-    excerpt: "Launched by a former teacher and principal, MagicSchool offers K-12 educators more than 50 generative AI tools to help them with lesson planning, diagnostic assessments, quiz generation, text translation,"
-    publishedDateTime: 2023-08-28T19:01:00Z
-    webUrl: "https://www.bizjournals.com/denver/inno/stories/news/2023/08/28/magicschool-raises-pre-seed-ai-education.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 14
-
 secured: "qhH8rwW7SmMrfaarS+8DsixXcWnkLwjVnWC1Iedvo/vqFxFmrYEWC1spxww01ON149IGDl97pxskKbfHRMjsqjNHljA/YQ7GWmp/FLe3peOgx5HFg4SLZUYEpXlvaxsiHKZJwxD67+XHQ1UwBbNJrOrpui1DvA5HUfKwONpflmpkTaGm8FYSy0/1Qb2OcQ/jQFeYtwVhZYP+OZoH/lgt46iuxIjLaDBMlWTh00AHsodPr24VzL6/RNrgTzc3qrrodk1SdpSCYovmLpInxDAgwCx2sNjcmZDsQvuf8/OYFsSwv4mVCtDbipvZO19TdByfoHYLazwF6+R6jokSoCNo7kK0sxYVcMxaRXBldcAjPHOSvV01Md8fNz/OEXyHfEZxQZiMiNHkni1nM3HUCik48/BlUNZ+Ib1E1VHPl6qnGW9aIqfJsk/KLo96fuFTOstU3KdnX96mn29KR5G8BfeaZ3me5kiKCBSSVVYTdkYxHex2O8bapaGTne1LAEtkkyIgZimfiQcHF0vRtBCLgufWyQ==;X8mK4wbm9M6JrZ/BsKkkhA=="
 ---
 

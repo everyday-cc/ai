@@ -2,6 +2,40 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2023-07-16-supercomputing-provider-introduces-32-gpu-single-node-for-ai-and-accelerated-computing.md",
+      "title": "Supercomputing provider introduces 32-GPU single-node for AI and accelerated computing",
+      "excerpt": "GigaIO, a provider of workload-defined infrastructure for AI and technical computing, has announced that it successfully configured 32 AMD Instinct MI210 accelerators to a single-node server utilising the company’s transformative FabreX ultra-low latency PCIe memory fabric.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scientific-computing.com/press-releases/supercomputing-provider-introduces-32-gpu-single-node-ai-and-accelerated-computing",
+      "originalUrl": "https://www.scientific-computing.com/press-releases/supercomputing-provider-introduces-32-gpu-single-node-ai-and-accelerated-computing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-16T05:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scientific-computing",
+        "domain": "scientific-computing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-16-3-leaders-share-how-theyre-approaching-the-ai-revolution.md",
       "title": "3 Leaders Share How They’re Approaching The AI Revolution",
       "excerpt": "The artificial intelligence revolution is both exciting and intimidating. Luckily, leaders don’t have to navigate it on their own. Instead of reinventing the wheel, follow these three leaders’ advice.",
@@ -1091,50 +1125,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-exploring-how-soft-robotics-can-revolutionize-minimally-invasive-surgery.md",
-      "title": "Exploring how soft robotics can revolutionize minimally invasive surgery",
-      "excerpt": "An overview paper published in the journal Science explores artificial intelligence (AI) applications in medical robots, including Professor Kaspar Althoefer's scientific research unlocking the potential of flexible and adaptable surgical robots to revolutionize surgical procedures.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-07-exploring-soft-robotics-revolutionize-minimally.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-07-exploring-soft-robotics-revolutionize-minimally.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/soft-robotics-revoluti.jpg",
-          "width": 640,
-          "height": 346,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-07-exploring-soft-robotics-revolutionize-minimally.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-exploring-soft-robotics-revolutionize-minimally.amp",
-      "publishedDateTime": "2023-07-14T08:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

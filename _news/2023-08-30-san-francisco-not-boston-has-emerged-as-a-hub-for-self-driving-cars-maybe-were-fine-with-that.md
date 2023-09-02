@@ -41,15 +41,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "University of San Francisco Data Science Conference 2023 Datathon in partnership with AWS and Amazon SageMaker Studio Lab"
-    excerpt: "As part of the 2023 Data Science Conference (DSCO 23), AWS partnered with the Data Institute at the University of San Francisco (USF) to conduct a datathon. Participants, both high school and undergraduate students, competed on a data science project that focused on air quality and sustainability. The"
-    publishedDateTime: 2023-08-28T18:10:34Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/university-of-san-francisco-data-science-conference-2023-datathon-in-partnership-with-aws-and-amazon-sagemaker-studio-lab/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 59
 
 secured: "ESpzeRazPOP6mQRPQd9FvwIOvwcdkcuDOQhtYdbzyDFHzXo++ojW50zhZawtZXHNAZ2578hj5Lwi1BBMwfCwhITF5nDQrUOVJGf37MOdeBBbj2A0QUg78TZR0lcviNVMdsbXeNTORPT7XGI0ukDL74k0uOMU0AgQZAlYKx3UjHVxuddVw7x3I+1D3pCdHBVmiILSPGxHp9bVrOozZaS27bq1Si1Z7HVfD8kPJnX7JC1TQTiiXaBA2XBeTw+TA/ooJlB8M5frjYkL9BLADP0Pqhia+MvLm19iyNutEkPXJOV5UCNC8ju+oX/e37zrDs0v8h+aDUngAaFpB5EfPwTyPVNxmCWz2JPMpaJqLAnENFk=;h5UbK7GspoZqkbXjG7f4Hg=="
 ---

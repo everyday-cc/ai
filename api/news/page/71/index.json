@@ -2,6 +2,49 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2023-07-14-ai-speed-boost-coming-with-intels-meteor-lake-chip-for-pcs-this-year.md",
+      "title": "AI Speed Boost Coming With Intel’s Meteor Lake Chip for PCs This Year",
+      "excerpt": "Spread the loveArtificial intelligence continues to make incredible strides in all sectors, and the rapid advancements in technology are a testament to the significant contributions that AI has to offer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thetechedvocate.org/ai-speed-boost-coming-with-intels-meteor-lake-chip-for-pcs-this-year/",
+      "originalUrl": "https://www.thetechedvocate.org/ai-speed-boost-coming-with-intels-meteor-lake-chip-for-pcs-this-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thetechedvocate.org/wp-content/uploads/2023/07/Intel-Meteor-Lake-CPUs-g-low_res-scale-2_00x-Custom-Custom.jpg",
+          "width": 2560,
+          "height": 1438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T21:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thetechedvocate.org",
+        "domain": "thetechedvocate.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-indian-tech-giant-wipro-will-invest-1-billion-in-ai-including-training-all-staff.md",
       "title": "Indian tech giant Wipro will invest $1 billion in AI, including training all staff",
       "excerpt": "Wipro, one of India's top providers of software services, wants everyone on staff to know how to use artificial intelligence.",
@@ -1104,58 +1147,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-how-ai-startup-runway-is-trying-to-make-content-creation-faster-and-easier-according-to-its-cofounder.md",
-      "title": "How AI startup Runway is trying to make content creation faster and easier, according to its cofounder",
-      "excerpt": "Filmmakers and creators have been using the startup Runway to make video editing more efficient.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/how-runway-can-make-content-creation-faster-and-better-2023-7",
-      "originalUrl": "https://www.businessinsider.com/how-runway-can-make-content-creation-faster-and-better-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64ae71ff8ed31300199e8f90?width=1200&format=jpeg",
-          "width": 480,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T11:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

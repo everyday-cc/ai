@@ -2,6 +2,58 @@
   "page": 165,
   "value": [
     {
+      "path": "_news/2023-05-16-deep-learning-in-manufacturing-market-2023-2030.md",
+      "title": "Deep Learning in Manufacturing Market 2023-2030",
+      "excerpt": "The major players covered in the Deep Learning in Manufacturing market report are: Get a sample copy of the Deep Learning in Manufacturing Market report 2023 Market Overview of Global Deep Learning in Manufacturing market: According to our latest research,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-in-manufacturing-market-2023-2030-2023-05-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-in-manufacturing-market-2023-2030-2023-05-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-15T23:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-16-2023-face-recognition-systems-market-global-industry-analysis-till-2030.md",
       "title": "2023, Face Recognition Systems Market | Global Industry Analysis Till 2030",
       "excerpt": "Face Recognition Systems Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information |",
@@ -1146,49 +1198,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-nasa-and-ethical-ai-a-conversation-with-caroline-coward.md",
-      "title": "NASA and ethical AI: A conversation with Caroline Coward",
-      "excerpt": "From cloud chaos to clarity.” Watch Bonnie Holub, Infosys AI evangelist, speak with Caroline Coward, information science manager and library group supervisor at NASA Jet Propulsion Laboratory, about infusing an ethical foundation in AI algorithm development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/05/15/1073074/nasa-and-ethical-ai-a-conversation-with-caroline-coward/",
-      "originalUrl": "https://www.technologyreview.com/2023/05/15/1073074/nasa-and-ethical-ai-a-conversation-with-caroline-coward/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/05/MIT-Caroline-I-Bonnie.jpg?w=1800",
-          "width": 1800,
-          "height": 1013,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/05/15/1073074/nasa-and-ethical-ai-a-conversation-with-caroline-coward/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/15/1073074/nasa-and-ethical-ai-a-conversation-with-caroline-coward/amp/",
-      "publishedDateTime": "2023-05-15T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

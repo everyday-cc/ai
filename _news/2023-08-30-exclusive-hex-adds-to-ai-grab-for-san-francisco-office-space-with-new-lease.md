@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/exclusive-hex-adds-to-ai-grab-
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/exclusive-hex-adds-to-ai-grab-for-san-francisco-office-space-with-new-lease-3fe0e3ca"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "University of San Francisco Data Science Conference 2023 Datathon in partnership with AWS and Amazon SageMaker Studio Lab"
-    excerpt: "As part of the 2023 Data Science Conference (DSCO 23), AWS partnered with the Data Institute at the University of San Francisco (USF) to conduct a datathon. Participants, both high school and undergraduate students, competed on a data science project that focused on air quality and sustainability. The"
-    publishedDateTime: 2023-08-28T18:10:34Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/university-of-san-francisco-data-science-conference-2023-datathon-in-partnership-with-aws-and-amazon-sagemaker-studio-lab/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 59
   - title: "San Francisco, not Boston, has emerged as a hub for self-driving cars. Maybe we’re fine with that."
     excerpt: "“They’re flooding the streets now,” she said. She figures every fifth car she sees in San Francisco lately is self-driving. It’s quite different here in Boston. Waymo autonomous vehicles sat parked in a staging area in San Francisco. (Justin ..."
     publishedDateTime: 2023-08-29T17:01:00Z
