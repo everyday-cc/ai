@@ -3,10 +3,10 @@ category: news
 title: "AI: Friend or Foe?"
 excerpt: "Dr. Michele Leno is interviewed about artificial intelligence."
 publishedDateTime: 2023-09-02T15:26:00Z
-originalUrl: "https://www.psychologytoday.com/za/blog/from-margin-to-mainstream/202309/ai-friend-or-foe"
-webUrl: "https://www.psychologytoday.com/za/blog/from-margin-to-mainstream/202309/ai-friend-or-foe"
-ampWebUrl: "https://www.psychologytoday.com/za/blog/from-margin-to-mainstream/202309/ai-friend-or-foe?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/from-margin-to-mainstream/202309/ai-friend-or-foe?amp"
+originalUrl: "https://www.psychologytoday.com/intl/blog/from-margin-to-mainstream/202309/ai-friend-or-foe"
+webUrl: "https://www.psychologytoday.com/intl/blog/from-margin-to-mainstream/202309/ai-friend-or-foe"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/from-margin-to-mainstream/202309/ai-friend-or-foe?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/from-margin-to-mainstream/202309/ai-friend-or-foe?amp"
 type: article
 quality: 59
 heat: 69
@@ -37,6 +37,6 @@ related:
       domain: psychologytoday.com
     quality: 21
 
-secured: "8xre0jko/t/fRdPRXGod64rm5tVLcwY/NA9ULlwxPtDNXS+LL7hs7YndSct+48n+9p8NNzeBjQD9DKn9erxjyq3GBEvihbZifMVU3n794g9zWfDbqPmCCr6rhfZjmgXoo6z9siAKFehUpcVYvhxEJ+Z8EfHZim4uqsAtVmk2AI8yi5t6+Gz52POSXpqpKciFpR+hNIazOS52ebf6uzvCjzP7WsBEOh9scX1XJkVdZuJbpgnggar9zab5FnLhPP2EQL3B62KmUrQNawwscf8G/LqoE65irLTmy3srpDbrl4OKmaKOFzOkOP3GHRZeSiYYblLDMXKF0uNvOAmpVhB9vqz9pKQXtfc0LQe/Bsbk6gw=;8HLtE7YCduEow0yBmKsnpw=="
+secured: "YVZFyn9VU9nYDbjVqaoBxxD99TWwfD7RMjnO2tnjbsKU01FYg2CtY1QkfaoMck07wrS3yMSdWCDsiaR+Mi07SiZRsmT61JuBKiiGqzXStr35rWiZLvhshkG+Zv38ubHnXBmLTgDWFN7+SnbVahNiVUNN6NJvrrIui8D4/XaDEj5S4WTgOwhg33ie7xu7qpnWrQUb517LtmQTs0iPba94P66x5PBTaWT0rHxVsVWROiE7SX/AN9typJ7trJhRow9D5P16Cr9WbBenNVQ4eqB50TM+EAWzGY87qDpUoxrmZQ+bR63VIdayaB2Ea/G6Fe9VVg8+m1amN2mMD+d35CTk6ZRoBDV4JeppYRU38Odsi/s=;FaUhT6WKUMHV9PRGUcIBtQ=="
 ---
 

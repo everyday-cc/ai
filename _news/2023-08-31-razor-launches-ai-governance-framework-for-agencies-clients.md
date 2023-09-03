@@ -33,15 +33,6 @@ related:
         width: 799
         height: 415
         isCached: true
-  - title: "PM Narendra Modi calls for global framework for artificial intelligence"
-    excerpt: "What’s the news: “Global business communities and governments must collaborate to ensure the expansion of Ethical AI [Artificial Intelligence]… This challenge requires a solution under a global framework,” said Prime Minister Narendra Modi on Augus ..."
-    publishedDateTime: 2023-08-29T23:39:00Z
-    webUrl: "https://www.medianama.com/2023/08/223-pm-modi-calls-for-global-framework-for-ai/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 17
 
 secured: "7e5v3Dgl19q+OmBEICYMU5toO1ew7YfVWJd96cvFugon0IteuruvMjgtTMVzqJqyf2xmXN6V40xjj3WZOZD+2fspj7qzvHvrbYCpn9h6FedZXoHDfFYEO6ZBenalz1epeHUYQHZPUKgvktlzyk1qLJ2BVRxesTCZZ45/SSgYrU5AaeXil25RTal4967FFjetcE53YJCxEaJ9NMrYbTp254gA6B6laR8N97S+xErD1+E4dCJtAmp7FzSKbRJ6F4fCLFhizT3McdQPh1//R68d3bdwcxw/H1vipYDhIJeqdGGFkF7x2qKbcjT6ndvkFfZQsXwnD2hVENOlHOvIvvpAgciyPwkRZnfGtkN0RKqq/tVff2yIOJBfJ/TR6926CtdjO9IbTepsOR+3ix67egHsyqEtc5NKM3UwXZpyTfkGpIkV9AhKggzXVNK+F97HPjs4yVrE+/llW1MY1LwME0SvVonmNYZ0NfKQzD6lF6jNqmCAy9xzjmEyGdjPS51zDiP9v9m8DsAe8iCk/u6gQHJB1A==;R6koxKYV7m8r2J7C6Cw1rA=="
 ---

@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 834
         isCached: true
-  - title: "Alfred Jones Talks About The Challenges Of Designing Fully Self-Driving Vehicles"
-    excerpt: "The leap to self-driving cars could be as game-changing as the one from horse power to engine power. If cars prove able to drive themselves better than humans do, the safety gains could be ..."
-    publishedDateTime: 2023-08-30T00:00:00Z
-    webUrl: "https://hackaday.com/2020/11/24/alfred-jones-talks-about-the-challenges-of-designing-fully-self-driving-vehicles/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 0
 
 secured: "HuUGa7sCFiDo6v6kX4XMPV/7IO9yOCtX2eWXyhNIJGoOS00VXUWUF4ri9YZi/FGlu/odQTwEVUzyvYo0YRm0Ij3xPRWdF7H21hdXtM/SgUGe8jAPW/XvfcaHlbclgTz7V/gbIayCDtq2q7RVEHm+Ulu7H7PIDezqKvU7Ni/4DhyEmLwrnGYZ3lLwijQ4r8jGhkLj3sMzJgshbbVCtfEjc+ksZ+BKGujRhLY3wKwCPFgWd3sZGtDm5X19nbISH3Fg9yQWcJCIHKzIfF0L+XI9qCPecve8fa51fcPRjDWzgEki+ZpjXQxmFioa+OlwdVwQdfNoES8F9cEHBlPcwJ4/ZLh0okEmEySw50jxGofnrwk=;Oy7IjINXLd5+dfEx5bQ31Q=="
 ---

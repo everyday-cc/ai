@@ -77,6 +77,17 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Gov’t digitalization push to sustain demand for fintech services"
+    excerpt: "DEMAND for financial technology (fintech) services is expected to be sustained following the increase seen during the coronavirus pandemic, driven by the government’s digitalization initiatives. “With the Philippine government prioritizing the digitalization of financial transactions and showing strong support for the fintech industry,"
+    publishedDateTime: 2023-09-03T15:24:00Z
+    webUrl: "https://www.bworldonline.com/special-reports/2023/09/04/542941/govt-digitalization-push-to-sustain-demand-for-fintech-services/"
+    ampWebUrl: "https://www.bworldonline.com/special-reports/2023/09/04/542941/govt-digitalization-push-to-sustain-demand-for-fintech-services/?amp"
+    cdnAmpWebUrl: "https://www-bworldonline-com.cdn.ampproject.org/c/s/www.bworldonline.com/special-reports/2023/09/04/542941/govt-digitalization-push-to-sustain-demand-for-fintech-services/?amp"
+    type: article
+    provider:
+      name: BusinessWorld
+      domain: bworldonline.com
+    quality: 39
   - title: "AI in Fintech Has Been Slow to Start, But Look for a Second Phase of Investment Opportunities"
     excerpt: "The emergence of generative AI could yield the largest transformation the financial services market has seen in decades. From Microsoft to Google to Amex, everyone seems to be betting big on AI."
     publishedDateTime: 2023-08-31T18:24:00Z

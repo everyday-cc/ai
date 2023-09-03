@@ -23,9 +23,9 @@ related:
   - title: "AI: Friend or Foe?"
     excerpt: "Dr. Michele Leno is interviewed about artificial intelligence."
     publishedDateTime: 2023-09-02T15:26:00Z
-    webUrl: "https://www.psychologytoday.com/za/blog/from-margin-to-mainstream/202309/ai-friend-or-foe"
-    ampWebUrl: "https://www.psychologytoday.com/za/blog/from-margin-to-mainstream/202309/ai-friend-or-foe?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/from-margin-to-mainstream/202309/ai-friend-or-foe?amp"
+    webUrl: "https://www.psychologytoday.com/intl/blog/from-margin-to-mainstream/202309/ai-friend-or-foe"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/from-margin-to-mainstream/202309/ai-friend-or-foe?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/from-margin-to-mainstream/202309/ai-friend-or-foe?amp"
     type: article
     provider:
       name: Psychology Today

@@ -1,20 +1,24 @@
 ---
 category: news
 title: "Is Baidu Stock a Buy Now?"
-excerpt: "Baidu (NASDAQ: BIDU) posted its second-quarter report on Aug. 22. The Chinese tech giant's revenue rose 15% year over year to 34.1 billion yuan ($4.7 billion), which beat analysts' estimates by $ ..."
-publishedDateTime: 2023-08-25T16:46:00Z
-originalUrl: "https://www.nasdaq.com/articles/is-baidu-stock-a-buy-now-0"
-webUrl: "https://www.nasdaq.com/articles/is-baidu-stock-a-buy-now-0"
+excerpt: "Baidu’s Q2 numbers easily beat analysts’ expectations. Its revenue growth is accelerating and its margins are expanding. The stock still looks cheap relative to its growth potential. Baidu's ..."
+publishedDateTime: 2023-08-25T09:53:00Z
+originalUrl: "https://www.fool.com/investing/2023/08/25/is-baidu-stock-a-buy-now/"
+webUrl: "https://www.fool.com/investing/2023/08/25/is-baidu-stock-a-buy-now/"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-secured: "ICyF32ai+XpJH+fAR3evBEgZ8NjSxFkNVq2b7qoZqhR77e/wxmMYjmnNscVNtaZeaq35D2h0lKGFtxIE0OOPClabLtvl8lVkcfa+7XQWIkdmWhxzE6alTjKnlz7URFk8Lb3qALGaUtA5xJMuefBwgY7eGsPabgml9lNNnKTJsdKdfGiMvXTpAkaMn8f7XbJw7NGP4MPuhdCLtweH1RFCrJ3Wd07ljvsv7rSaPqVlZh7GUkRFJRXtgrbwnWmWe5vwywQ5AyqMHt2UDvE8YYq4u627EZEJSysV2N+Z3Qht2i6UmD96H0iHeL9GE8HBGyH6yICA1FJaonJ7n5YS2f5B9LJy9Infzs3hu+j6jqxl/HM=;/CK4GLEf+lyLyJnsLRX3fg=="
+secured: "QXXgXvcJYKUg2UTXwsUxsLmZpou8U/V2L3r6aS4HYLhdT7FBFfqMzEh+HBM76Il3v7vaq6tDdmRv5zfbWt9QLJFTkgjkmVnuDSVDZzv2TxpoipeVfSjmioETSmIEOk7v+tVanol2QfFmUuvMyQaMAWoUYysmGl+6kZBbRZ/jKfFDcS3PZpDDX/UgAKVqEmmRYDYXPI/kcHwjz+aZ+r9C1ehe0zUGfp3jfNchGK3yoR43vA/LMdJdR5L3+Ue4nlPoaLujWPQrsuhAtlW7GR3K40a9nVDG7ZSg28U024LDgv3a6aXA/16dEu21hWaQ52pmtP8N7K9IlK/ROZTEsMx5gLQRgUH/N8dX0W+8P7pyeV8=;8hXEGJZhvFfCPzgPLPGJAA=="
 ---
 

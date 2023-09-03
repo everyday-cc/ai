@@ -47,34 +47,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "Ericsson demos 5G capabilities at US EV factory with AWS, Hitachi America"
-    excerpt: "The real-time video was fed across Ericsson’s 5G platform to an AWS Snowball Edge device running Hitachi video analytics software infused with ML and artificial intelligence. According to reports, the three companies were able to inspect 24 assemble ..."
-    publishedDateTime: 2023-08-29T23:50:00Z
-    webUrl: "https://itwire.com/your-it-news/5g/ericsson-demos-5g-capabilities-at-us-ev-factory-with-aws,-hitachi-america.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 38
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/9b688e14dbdeff21a5dcbf08b420f837_L.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Ericsson Works with AWS and Hitachi America R&D to Showcase Smart Factory Potential"
-    excerpt: "Three of the biggest names in global technology have joined forces to highlight the ability of already-available 5G, artificial intelligence (AI) and automation solutions to transform manufacturing and improve productivity,"
-    publishedDateTime: 2023-08-30T00:00:00Z
-    webUrl: "https://www.automation.com/en-us/articles/august-2023/ericsson-aws-hitachi-america-r-d-smart-factory"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 33
-    images:
-      - url: "https://www.automation.com/getmedia/b63fa3a7-54cb-4b30-a5ea-a3444af636d1/smart-factory-news-Aug-30-2023-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
 
 secured: "e4iuOYXG4JfJsR7fc3qPdNh8U5o8KY2DF1SYeC0j52vDU43B92XGDP2+9A+ALdSA6ZXMbryQcWGzaLrrgaDR5ZNoyLjYIlLMN3ENnlJMJcKlNC7kL6m0YRtX1mbs4te041uiCSbO8zWd26XbV0RxJoCBTHQkFJwHJ2WuYdFGm3oVDR/MYN/6VQVTfLc6DN8bqPdbWHN6AH6f4QfEVsrRxN4rsffO/2XdiJaM96FmKbjFKIiz1+C1ESAKVJYR74xFtUHk6fZFny4apx6IzEayMhdphQCU91YAgM3ZXihmKMCYWa97QmgNtY77Jg0uQNXcYm0hnKzS6rAgbFKQPn6EpXe9zQsTABJg6smrUhfzUOvRjAFQ2TTN1h8xQl2CQn2OTptfkY0Dg3ryq8N5SnrVeJb0CIITTcp8nXaHVI1CH2wUaXz16zP0LYHpn5Rx/srotwZMYIwaP7SR+aCxEYCtzEUohONQiAFRiISylwZob1i5UhDQNYD4vKFwvh8Oxj1GhIjuhpLnqL7gD6j6SJRvhQ==;THaHTZPGB464SE8ja43zDA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2023/08/31/elon-mode-fsd-secret-ful
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/08/31/elon-mode-fsd-secret-full-self-driving-mode-leaves-authorities-despairing/amp/"
 type: article
 quality: 102
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 830
         height: 553
         isCached: true
-  - title: "Alfred Jones Talks About The Challenges Of Designing Fully Self-Driving Vehicles"
-    excerpt: "The leap to self-driving cars could be as game-changing as the one from horse power to engine power. If cars prove able to drive themselves better than humans do, the safety gains could be ..."
-    publishedDateTime: 2023-08-30T00:00:00Z
-    webUrl: "https://hackaday.com/2020/11/24/alfred-jones-talks-about-the-challenges-of-designing-fully-self-driving-vehicles/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 0
 
 secured: "TWMCovhOXyoAnXAAr7CshfvBR8Tul54N3ezRGmHXxG8JtrzCFnA4IDCU8rZK0v4TDNcNKPIofaO5BIxftyjOjojlKkUtOIKsjEXsSkTDpttAWKtYMUDytREhZE/db7MdhmtlNaupf2NtE8eQ2cB4vxGhpCASJ42zAcG8Slo0eO3hHIJTPMsgWtssGLYfBf1meiGmeO+Q+qaTKqwTTA2Qd8U+1syzAlnqwfv41W5nIbFr35ZUPxAeIIpUI3+3WmABj341i5Q+iNT77+AIpfJA1JXDn5RGNKt6tNikafwsEExaDVGkMacPf+8gOU7SqPx5gChijV2GlTXV9l+X1dQF6RCnDpTTppb7mqF4uawhf9kuofT6jgmebaQ7neIb85raVL45+LQRZLVXZkuwRig7WK624K33aBRCziNh549zFLym+CwT2FEPjm29rHpcjniWUvq3kIF2Ds65s80YJz1NObumIw+9CU+EfixjSY01tkawJSXiYYlrbRzKDkN4Gdp2zudToAuGoLF6trX3YwHHHQ==;iotnGTALM2J61Ai5TgAHNA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.cbsnews.com/detroit/video/tech-talk-artificial-intelli
 webUrl: "https://www.cbsnews.com/detroit/video/tech-talk-artificial-intelligence-in-the-classroom/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Classroom Conversations: The discussions of AI in classrooms"
-    excerpt: "GREENVILLE, N.C. (WNCT) — It’s a hot topic of discussion lately, artificial intelligence in the classrooms. How can it automate tasks like grading assignments and offering personalized learning? Also, the ethics surrounding it like privacy with ..."
-    publishedDateTime: 2023-08-29T23:43:00Z
-    webUrl: "https://www.wnct.com/on-your-side/school-watch/classroom-conversations-the-discussions-of-ai-in-classrooms/"
-    ampWebUrl: "https://www.wnct.com/on-your-side/school-watch/classroom-conversations-the-discussions-of-ai-in-classrooms/amp/"
-    cdnAmpWebUrl: "https://www-wnct-com.cdn.ampproject.org/c/s/www.wnct.com/on-your-side/school-watch/classroom-conversations-the-discussions-of-ai-in-classrooms/amp/"
-    type: article
-    provider:
-      name: WNCT
-      domain: wnct.com
-    quality: 59
-    images:
-      - url: "https://www.wnct.com/wp-content/uploads/sites/99/2023/08/Open-AI-WNCT-photo.jpg?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "TDDBYq6HqhW0l4SQj7Bkb9urH/iF2lg2X3XAZxtpJjZVVpan5BqOZFZescDhNSJFVQ+hlBpNRgopVAXJKYMwkHjcnlghmbP3rMCx9/CmatAouxii4Wx+pe0eOTapmeQ+CJNk2Y7PwTzrlJmapsP0NTrRJMGBjsj24/gzvkaQpu7+HL6JrmbDxfgPTTNvI8BHKbiqDMCrBcL3tyjt1dkB5aJft4us59oTGsiBI/b33qiIXhEY7LQx0nV6V27HdWrCqv01EbyJHzNyBmBWv95YBoKcSPXGVoxSifl71rvqgzn7AFQDyofMTk3b5nlpC39nTY5cv0hud3uwky7SLdT7DQ2AcDO6VB4wqgmmUbU8l9M4PuUE8W+7rHDjYKmsS5ILIJ/AGa/VgVqLFLBlRAM7Q/x6YwAaLkRbEI1QcGbZ/2saI5wm9sef8t51aM1Y/te4+x3DN53ungzL9EDaqg1do3sjRZlfkIwpbxv2lKzq8fzoz5NwjXhpSn8AH8gMddmuPo85hxrWPVPg5gEa4/y4yA==;6MWzOVb3fAXXPI7goyDc8Q=="
 ---

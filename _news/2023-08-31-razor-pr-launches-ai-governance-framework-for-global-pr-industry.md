@@ -34,15 +34,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 19
-  - title: "PM Narendra Modi calls for global framework for artificial intelligence"
-    excerpt: "What’s the news: “Global business communities and governments must collaborate to ensure the expansion of Ethical AI [Artificial Intelligence]… This challenge requires a solution under a global framework,” said Prime Minister Narendra Modi on Augus ..."
-    publishedDateTime: 2023-08-29T23:39:00Z
-    webUrl: "https://www.medianama.com/2023/08/223-pm-modi-calls-for-global-framework-for-ai/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 17
 
 secured: "X946nGGry4VHePtzL5CqijeDPpp/TrGJ+j4nur2M5IBV1aUnmkWhTPIh4M1IoO4w5ixnRs8LVbvQe/regAEg2IIfHxLaxHFQz1B9q1+vU1Ztctp67RomVLsRH2nwbUZgt/TOca5V1y09RBk7WV2Fa6Jk954oo82ZGvdmd2aB2KFcKOKdhoeTZ4lZt0rcuKKBhS/D2gAjO6lT+aYA0F593htfk2QzREz4aWqt4mi1PlOwHymtPS21i3V9ND5ITR8DAZy8G6VseLMux+H1c3/PnLOK9g1nsgpEW0sPezBplqlRxrSVu1FGpcG63Xma1et2eW5PKbjVy6VtJNwqC6WwmUnkRvQkK23lttk7Yw80GMQ=;YL0qcqYm0LZr2MDCQeuNGA=="
 ---

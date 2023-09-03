@@ -3,8 +3,8 @@ category: news
 title: "Artificial intelligence may influence whether you can get pain medication"
 excerpt: "Artificial intelligence is working its way into more parts of American life. As AI spreads within the health care landscape, it brings familiar concerns of bias and accuracy and whether government regulation can keep up with rapidly advancing technology."
 publishedDateTime: 2023-09-03T09:30:00Z
-originalUrl: "https://www.salon.com/2023/09/03/artificial-intelligence-may-influence-whether-you-can-get-pain-medication_partner/?ref=upstract.com"
-webUrl: "https://www.salon.com/2023/09/03/artificial-intelligence-may-influence-whether-you-can-get-pain-medication_partner/?ref=upstract.com"
+originalUrl: "https://www.salon.com/2023/09/03/artificial-intelligence-may-influence-whether-you-can-get-pain-medication_partner/"
+webUrl: "https://www.salon.com/2023/09/03/artificial-intelligence-may-influence-whether-you-can-get-pain-medication_partner/"
 type: article
 quality: 53
 heat: -1
@@ -69,6 +69,6 @@ related:
       domain: phillyvoice.com
     quality: 33
 
-secured: "Y8a1MG/n8fo5/d/KOaHyzZU2NzXGqOs6mB4zdJ86Ibr3mFeZKaGVCWoPncnXxkjb990dM4kQy+gmaUm0ybg4Dskdh8p+Aq+3fZsxqYpvbuNQGk+vQnvdCb14FEQBeg/I4iUY3DoBKFSvo2sp7cPK7myDfnpz20RjEL1ytZ47XlsM4qvMsGRzHvwcMO8YPHPrmFdhCC6z1CRah7su/heaTMwUjYSxjoEYU/vv24JPRWxf9BS+d2vSCJUu9ctGA0RrMIZl2YmgKfjwCnnGN9fydsj0uhX2JO+ggOfp+kCyp0KG66juI4yF1hLEuVPPUyWkFNCqMGCoSdEBkb4YGg9m0ll5aI1wVWnwOS55fq6r0a8=;NreCQ4hg7Zg4MC6R9aavOw=="
+secured: "RPeiZU3EzCMtbN8EVwupcwpmSLSmDhyKjoaiRKiUKrvvSM7QOZkbWNLN9GIz5xoShWbIT1Qt4D51GsGnfra3QEANzF6iaoqDsIN+XxvA26Ay1uO3k0s9pm/eYGPPRNHXCNPf1y1aU6Tt0r2PFStWnKojq1UDmxRYqasByePWl/3+jyXXfWy8sg939RwalfAPZPhzr2ECOBK8Z83qtZNd/5FAVFod3DZTCdAdTCe0N/N6bAS8v0AwAlRhPNRRBiPv7wMCDb4j83OkN5XwjGsS/kvQM+sBAuxbM/sq8kLJYc2KMyOT+VnL3B2Qbd/di8EXp0l2EDk5x1yFgxj+w5JNUfl39QvO1PkX/vHmO+4ZF5I=;JWxgeTFHPuNtFTsfqcoO9g=="
 ---
 
