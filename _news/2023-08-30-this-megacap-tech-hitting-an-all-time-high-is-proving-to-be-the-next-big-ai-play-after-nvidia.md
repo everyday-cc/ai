@@ -144,15 +144,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "UBS Analyst Eyes GPU Bottlenecks for Microsoft's AI Push, Nvidia's Supply Chain in the Spotlight"
-    excerpt: "The AI opportunity that has powered the material out-performance in technology stocks this year primarily comes from one supplier – Nvidia, the dominant provider of GPUs. There is plenty of evidence that GPU demand is out-stripping supply; Microsoft's ..."
-    publishedDateTime: 2023-08-29T19:35:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ubs-analyst-eyes-gpu-bottlenecks-for-microsoft-s-ai-push-nvidia-s-supply-chain-in-the-spotlight-1032590452"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
   - title: "Is Nvidia an AI Value Stock?"
     excerpt: "Some on Wall Street would argue that a stock that has tripled in a calendar year can't be cheap. One analyst who covers Nvidia says just the opposite. The chipmaker's stock is up 239% so far this year,"
     publishedDateTime: 2023-08-30T22:45:00Z
@@ -356,15 +347,6 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 27
-  - title: "Google Cloud and NVIDIA Expand Partnership to Advance AI Computing, Software and Services"
-    excerpt: "Google Cloud to gain access to NVIDIA DGX™ GH200 — Google Cloud will be one of the first companies in the world to have access to the NVIDIA DGX GH200 AI supercomputer — powered by the NVIDIA Grace Hopper™ Superchip — to explore its capabilities for generative AI workloads."
-    publishedDateTime: 2023-08-29T19:46:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/29/9871926.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 10
 
 secured: "Km6rFL/rVieSkwA2d++yq/5bZvZqVjo2vcyKTp03HwaG2hCSrH2YQ0fzi4mmkcJAiVCW3ftFZ9NRCw8vofa0Np8i91mxHB3bKxpMuiy87VKzqWssglb4upoJLU/FqonVCZ7QTApa0Fv9ULbTSle/ytlt2bWgu2L22QPrer1z9qX3SDcCT/Rkbpg8fTXwfhrHnpnRuQYL+HcEKCU29vzhOcM6PODazinXjcwWPjkGwqBkrktoTlGW68hTeappHl75vkFB3VF1UgxaUfvp/gEDcCjyE7SSGnzUXRz2TBw9t9NSXnSp7VXdLt5jbVmr9h585aro8cdBAtI5XMHaU8uyUjCYJpVW0fog6wu7g6o3S1A=;uqEf0MU1QzF/k6IFJvX35g=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://financialit.net/news/artificial-intelligence/ai-and-ml-are
 webUrl: "https://financialit.net/news/artificial-intelligence/ai-and-ml-are-playing-defining-role-driving-fintech-automation-says-stx"
 type: article
 quality: 51
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -92,20 +92,6 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/09/new-blog-.jpg"
         width: 780
         height: 520
-        isCached: true
-  - title: "Banking Revolution In Action: Kimberly Rosales Delves Into How Fintech Is Reshaping The Financial Landscape"
-    excerpt: "Rosales underscores how FinTech is placing customer experiences at the forefront. Innovative digital interfaces, personalized services and AI-driven chatbots are enhancing interactions and providing customers with convenient and user-friendly banking ..."
-    publishedDateTime: 2023-08-29T21:41:00Z
-    webUrl: "https://menafn.com/1106982515/Banking-Revolution-In-Action-Kimberly-Rosales-Delves-Into-How-Fintech-Is-Reshaping-The-Financial-Landscape"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 21
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?708748"
-        width: 429
-        height: 250
         isCached: true
   - title: "Leaders in Lending | Ep. 122: Combating financial fraud – Fintech’s game-changing role"
     excerpt: "For so long, new tech has been utilized by fraud artists, costing many unsuspecting victims countless dollars. Now, AI tools and strong fintech"

@@ -57,20 +57,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "6 Ways AI Can Revolutionize Digital Forensics"
-    excerpt: "Artificial intelligence tools can automate the analysis of logs, video, and other important but tedious aspects of investigations."
-    publishedDateTime: 2023-08-29T22:57:00Z
-    webUrl: "https://www.darkreading.com/dr-tech/6-ways-ai-can-revolutionize-digital-forensics"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 39
-    images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltc95e39a2bb031549/64ee7720367256112eaccd06/forensicsclass-dpa_picture_alliance-alamy.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "The Fintech Revolution: Unraveling the Forces Reshaping Finance"
     excerpt: "Step into the dynamic world of fintech, where disruptive innovations are reshaping the financial landscape as we know it. In a society constantly craving innovation and convenience, the rapid ascent of top fintech companies comes as no surprise."
     publishedDateTime: 2023-09-01T17:56:00Z
@@ -80,15 +66,15 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 19
-  - title: "The evolution of photography in the age of artificial intelligence"
-    excerpt: "Photography only dates back to the early 19th century. Since it’s so closely tied to technology, photography has gone through countless transformations."
-    publishedDateTime: 2023-08-29T19:15:00Z
-    webUrl: "https://www.chron.com/marketplace/article/evolution-photography-age-artificial-intelligence-18336767.php"
+  - title: "How the rise of AI is revolutionising the FinTech industry"
+    excerpt: "In that sense, the role of AI in revolutionizing how financial institutions like non-banking financial companies (NBFCs) are offering banking-like services is proving to be extremely important. Not only is AI helping new-age financial institutions in automating manual processes such as data entry and customer request management,"
+    publishedDateTime: 2023-09-03T12:30:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-how-the-rise-of-ai-is-revolutionising-the-fintech-industry-3231450/"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 17
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 19
 
 secured: "/xO86jO39fEoLdJ21nZBrJj9Ujdwjx4M+S3BQWJt8aVMJYwe3AVDxYeGFAglzH6bBLqy0K0PQoU650/SFTLlyv6xYBVo/vyocmHbfBJcs3ZRtYxV5DUYVZemTu4/Ebp3M5At2bp5mpb3WNSY9EnErgkxqzrZxKOuBfaFCQcmdxAvWmGUEHWRg2oGODQwknPCRSpw3DhQ1s0k6hUqkjCdKBCUkNtGzC/3qMibch32sqK6IKOtovEW/1LTd9Ijy4p9CIdYRhKPXG0AyhcEzWmkbdbmaN+V4YZstiYiL4l9eIaBnFe8oS84GCe/hlUEXztXp+04TYlxf0ZRdzqMFke3qpWmcbJHhTRYMkXOn2MuMr6fAsTeWCswbEFK1Qmdxyo+S1MtTiOdELS5YwynKMps8oBEn/mTRGXFUg91H8qPO0ljQes+1tvQE83dHLTkoviPkazI5Z0I5+SRfb9+xAOQ8E+dzpllBLaCrsoz6pZW4QyXbUzJUL8bMN5VX7/n+JjXgOJ7cSZImU0QZYJLfyHYPw==;bINSdqiXkXfBPh4CCqzHbA=="
 ---

@@ -43,21 +43,21 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 80
-  - title: "Google courts businesses with ramped up cloud AI"
-    excerpt: "Google on Tuesday said it was weaving artificial intelligence (AI) deeper into its cloud offerings as it vies for the business of firms keen to capitalize on the technology."
-    publishedDateTime: 2023-08-29T20:14:00Z
-    webUrl: "https://techxplore.com/news/2023-08-google-courts-businesses-ramped-cloud.html"
-    ampWebUrl: "https://techxplore.com/news/2023-08-google-courts-businesses-ramped-cloud.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-google-courts-businesses-ramped-cloud.amp"
+  - title: "Why artificial intelligence is set to be a game changer for businesses in 2023, according to 7 founders"
+    excerpt: "It indicates the ability to send an email. An curved arrow pointing right. If you've seen artificial-intelligence-generated selfies of your friends and colleagues on social media in the past month ..."
+    publishedDateTime: 2023-08-30T23:59:00Z
+    webUrl: "https://www.businessinsider.com/artificial-intelligence-trends-2023-business-healthcare-2023-1"
+    ampWebUrl: "https://www.businessinsider.com/artificial-intelligence-trends-2023-business-healthcare-2023-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/artificial-intelligence-trends-2023-business-healthcare-2023-1?amp"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 73
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/google-says-that-its-c.jpg"
-        width: 1280
-        height: 852
+      - url: "https://i.insider.com/63b895d0fd2a2700180838c7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Scientists are using AI to track coal train dust"
     excerpt: "Across the United States, around 70 percent of coal travels by rail, transiting from dozens of mines to power plants and shipping terminals. Last year, the U.S.—which holds the world’s largest supplies of coal—used about 513 million tons of coal and exported about another 85 million tons to countries including India and the Netherlands."
@@ -156,24 +156,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 35
-  - title: "Google to sell cloud-based AI tools to businesses in challenge to Microsoft, OpenAI"
-    excerpt: "Corporate Gmail users will be able to pay $30 a month per person to be able to use Google's AI tools for their businesses."
-    publishedDateTime: 2023-08-29T19:11:00Z
-    webUrl: "https://www.bizjournals.com/seattle/news/2023/08/29/google-cloud-ai-microsoft-openai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 30
-  - title: "Domo Announces Domo.AI to Revolutionize the Way Businesses Manage and Deploy Artificial Intelligence"
-    excerpt: "The Domo platform -- and our architectural approach to Domo.AI -- is purpose-built to deliver on this need for unique data experiences that help businesses overcome real-world challenges and accelerate innovation and growth."
-    publishedDateTime: 2023-08-29T22:02:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/29/9871996.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
 
 secured: "YVFQ5sl5URvD1IcleQLqnwihEvPH7ACwHcdtlUt0VQpo4pHjggkbXMT2U01YF4vJRxpCFYfHxJvNojmZigz4V1VRNG+zNiI9X+8Sudg93YRWhkWORKP8MEri4UGuoQePA2RBgXJaoZKyZjLdphsNBWXGS9OHR/dVHZiP+G5p2pvMR4CjDM4TIAZDNLKGnt12dg3lY5R50LGnAI0oCmG78YFjo4a11yzednHu1vkgaVskgXoyf0IWP1pFHJQkDAig2vBHJZchcYFRo1bMWmLTkvmKI0DJtx+DJVEPUYQJvnNCq13JF9af6vwNPLaoQDhKzeiXSuvHx9m2zetIAY0on4dglDeZzDQPBL8gpQlSGBzUnZ2H+4RGDhgwHRJwNPDD5Q7wHAwcCMCtkZGbtbl0Li/onqOU7uvvSW83ZJ9JCLQ4fJVwX32UZyiP0Bw4LVz7bPB1tK6us9W4+HeD+2XRer+mBpshY+3xL7XrzxnSspH/1daRHUhNiNbOVNNWEYXCY9QgP/sA2Ojbrb6uUdzreQ==;ns2X7H4U89U9HJcVQy2Fkw=="
 ---

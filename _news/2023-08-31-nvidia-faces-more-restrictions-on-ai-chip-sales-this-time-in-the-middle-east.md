@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/nvidia-faces-more-restrictions-on-ai-ch
 webUrl: "https://www.pcmag.com/news/nvidia-faces-more-restrictions-on-ai-chip-sales-this-time-in-the-middle"
 type: article
 quality: 98
-heat: 358
+heat: 338
 published: true
 
 provider:
@@ -132,15 +132,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "UBS Analyst Eyes GPU Bottlenecks for Microsoft's AI Push, Nvidia's Supply Chain in the Spotlight"
-    excerpt: "The AI opportunity that has powered the material out-performance in technology stocks this year primarily comes from one supplier – Nvidia, the dominant provider of GPUs. There is plenty of evidence that GPU demand is out-stripping supply; Microsoft's ..."
-    publishedDateTime: 2023-08-29T19:35:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ubs-analyst-eyes-gpu-bottlenecks-for-microsoft-s-ai-push-nvidia-s-supply-chain-in-the-spotlight-1032590452"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
   - title: "Is Nvidia an AI Value Stock?"
     excerpt: "Some on Wall Street would argue that a stock that has tripled in a calendar year can't be cheap. One analyst who covers Nvidia says just the opposite. The chipmaker's stock is up 239% so far this year,"
     publishedDateTime: 2023-08-30T22:45:00Z
@@ -358,15 +349,6 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 27
-  - title: "Google Cloud and NVIDIA Expand Partnership to Advance AI Computing, Software and Services"
-    excerpt: "Google Cloud to gain access to NVIDIA DGX™ GH200 — Google Cloud will be one of the first companies in the world to have access to the NVIDIA DGX GH200 AI supercomputer — powered by the NVIDIA Grace Hopper™ Superchip — to explore its capabilities for generative AI workloads."
-    publishedDateTime: 2023-08-29T19:46:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/29/9871926.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 10
 
 secured: "fGX7b9FBLVrLNBXVFjPi1G5KO6017XzKMFyZq8BVYicWyZFIGrbwfO7xjpC/DAKWXPg0E6VoNEkvEspvwHEsmHmYnx+Tt5x9lwRBjSj5vTCaFot+bZPgiA7T36nJFxBb/z09WBjFi3ciZapQY0r/3yYCbHePxJgNG7FEd6trNsWexn6t7PG33Ziux5ZT59rpHvUXKNq8r543MTeSDeHARd2CmZkjJBRkH9EctglWzUn46v5uT1ztxWwvsjZ5rGJtofmC8/kKBOyH3D5ealkN6KOyMS/L1AQMObUN9yiFUAITe2dhTn1uiPYtTTSXiXvGLSrB7LVyS3+HUEPp2K80Wx90WI+UT3NOD5M5C8i7Vd9qTzYvBL0dl4KujQRQXM3f0UAt8o/2SFz6rBzyREPzJOQmogRk6XKYf3+RUljZTPv0J+BqnzqW6Hewfb08IGd27w4F6BeNc7Q6EtVSOVjCPD599wQBFauHpZfYb8D3AXZGJ9BdpiKFD/H08nDIcVnyZc+uwHxKWsCyOiMaI47CSg==;m9m4VrCXBgr7xcleU5xusw=="
 ---

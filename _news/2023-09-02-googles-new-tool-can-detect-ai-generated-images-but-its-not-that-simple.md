@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/googles-new-tool-can-detect
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-new-tool-can-detect-ai-generated-images-but-its-not-that-simple/"
 type: article
 quality: 85
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Google may have found a way to identify some AI-generated images"
-    excerpt: "The process relies heavily on Google DeepMind, but Google says it isn’t a “foolproof” tool that can identify “extreme image manipulation.” The reason it isn’t a foolproof system, though, is because it relies on the use of Google’s own Imagen ..."
-    publishedDateTime: 2023-08-29T19:29:00Z
-    webUrl: "https://bgr.com/tech/google-may-have-found-a-way-to-identify-some-ai-generated-images/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 39
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2022/11/rsz_gettyimages-1173782216.jpg?quality=82&strip=all"
-        width: 3120
-        height: 2080
-        isCached: true
   - title: "Google will put invisible watermarks on AI-generated images"
     excerpt: "Google DeepMind created SynthID, an AI image detector tool that can spot manipulated images and add imperceptible watermarks to AI-generated ones."
     publishedDateTime: 2023-08-30T11:12:00Z

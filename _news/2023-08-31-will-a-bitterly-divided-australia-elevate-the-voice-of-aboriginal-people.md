@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2023/08/29/world/australia/voice-aborigina
 webUrl: "https://www.nytimes.com/2023/08/29/world/australia/voice-aboriginal-indigenous.html"
 type: article
 quality: 53
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -112,6 +112,15 @@ related:
         width: 1356
         height: 668
         isCached: true
+  - title: "The Voice key for Indigenous Australian's health"
+    excerpt: "Australia will soon vote on constitutional recognition of its Indigenous people, and to give them a direct voice to Parliament. Health will be high on the agenda. Chris McCall reports."
+    publishedDateTime: 2023-09-03T15:47:00Z
+    webUrl: "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)01840-8/fulltext"
+    type: article
+    provider:
+      name: The Lancet
+      domain: thelancet.com
+    quality: 4
   - title: "Australia to vote on Indigenous Voice to Parliament referendum on October 14"
     excerpt: "Australian Prime Minister Anthony Albanese announced Wednesday that Australians will vote on October 14 on whether to alter the Australian Constitution to recognize First Nations people by"
     publishedDateTime: 2023-09-01T15:20:00Z

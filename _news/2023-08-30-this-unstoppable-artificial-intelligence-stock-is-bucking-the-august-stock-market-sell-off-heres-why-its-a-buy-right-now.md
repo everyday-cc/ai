@@ -42,24 +42,6 @@ related:
         width: 600
         height: 800
         isCached: true
-  - title: "Embuing AI with Ethics"
-    excerpt: "In lieu of regulations, companies are starting to develop their own guidelines to control the use of artificial intelligence."
-    publishedDateTime: 2023-08-29T19:32:00Z
-    webUrl: "https://cacm.acm.org/news/275869-embuing-ai-with-ethics/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 36
-  - title: "Money Is Pouring Into AI."
-    excerpt: "All told, generative AI and machine learning start-ups raised about $39.4 billion this year, with $19.4 billion of that in the second quarter, according to PitchBook’s second-quarter Artificial Intelligence & Machine Learning Report. Though money has ..."
-    publishedDateTime: 2023-08-29T19:34:00Z
-    webUrl: "https://www.institutionalinvestor.com/article/2c4fad0w6irk838pca3gg/portfolio/money-is-pouring-into-ai-skeptics-say-its-a-grift-shift"
-    type: article
-    provider:
-      name: Institutional Investor
-      domain: institutionalinvestor.com
-    quality: 17
 
 secured: "3RRzU2ebthEpeUS3Bl9/oizYn+hqY6yqw0JTwmPcnBJDq+zBlUMn4S4p3V/A4P5P/mOg5IUGPyRKX0RHSeiKKgHTfWhRSnMsEkJmhSk7bFPd77/z5D61+bsiXrx4QIcUnJL7UzPfUTuQmEOd7Fg2ZqeXol8AlquuZ2GihhmBZPhCGrYPVqMsADX5QXGbVcf7vYxNugbZi8rNFdWig/PCSWmTXOLDsaZumGWKk/Lz8Mc0VB7dCWTDYSD3lbzdmSxQ/QjhTrjfRXuQ40/JkMqnNuzf9hSCJntBaGSveypv4+4Xd3gwQeHR1OE67gOe1W9RqhLiPVHPm0I3BaWc+gL+muPFKzEFatcwCYR/8qpY5Q63ylPpNQHxZoNFIquZzfLm81oeW3j0gN2uHzxBlBouFEf51PUqxOkg1LIN5fnnoT0qXmVbSrWVplb+Clk5ZRCBVAWXI/0rko/eDYbreevYUbSWiKiqETkdh4rEvI3A/aluVtlx6pmdpgD97DxFlpqrLGBrtkpyHNYVxPUul4wyeA==;Rph157whVu7ZJko9iXkEDw=="
 ---

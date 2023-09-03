@@ -135,15 +135,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "UBS Analyst Eyes GPU Bottlenecks for Microsoft's AI Push, Nvidia's Supply Chain in the Spotlight"
-    excerpt: "The AI opportunity that has powered the material out-performance in technology stocks this year primarily comes from one supplier – Nvidia, the dominant provider of GPUs. There is plenty of evidence that GPU demand is out-stripping supply; Microsoft's ..."
-    publishedDateTime: 2023-08-29T19:35:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ubs-analyst-eyes-gpu-bottlenecks-for-microsoft-s-ai-push-nvidia-s-supply-chain-in-the-spotlight-1032590452"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
   - title: "Is Nvidia an AI Value Stock?"
     excerpt: "Some on Wall Street would argue that a stock that has tripled in a calendar year can't be cheap. One analyst who covers Nvidia says just the opposite. The chipmaker's stock is up 239% so far this year,"
     publishedDateTime: 2023-08-30T22:45:00Z
@@ -352,15 +343,6 @@ related:
       name: devdiscourse
       domain: devdiscourse.com
     quality: 28
-  - title: "Google Cloud and NVIDIA Expand Partnership to Advance AI Computing, Software and Services"
-    excerpt: "Google Cloud to gain access to NVIDIA DGX™ GH200 — Google Cloud will be one of the first companies in the world to have access to the NVIDIA DGX GH200 AI supercomputer — powered by the NVIDIA Grace Hopper™ Superchip — to explore its capabilities for generative AI workloads."
-    publishedDateTime: 2023-08-29T19:46:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/29/9871926.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 10
 
 secured: "K0OOQFyZl6q7MTxj1Oy8y9+LasTWQlUjTIPnTPvy/EiTPlbYkAC1RcKt5fQ3+Ci+bESlZ4QZwZ0SqubzmuLxVPMCCRzpXvzKPagZjfKvzkz/VaQjnJHo7x/ZmABUuE1GzzVmq/ExDWnSuza41l/vsy6Wr6FiNWRZ3HR7LCyrGpFkewdqx0oSDy1Uq7Ep+FNXNJa96JDBZFDj9O74rN2RXmCekIDSgnpC7D1L67uxAUepT1SSRMfqhvNK8RKWrJ0McCUsTQ2O2VX9epSLcYFbBQaUHE6raqAxJyo5pr/mN9gCpNV77TOsdeKTYxRwBXIPABo0RYVHRkEie9aQ43MWv/Nlezjira0SoYzAFK+SRnoJf+8vcf/AjoGieC5cDpOo6oUUk93jhb8Mvu5AKsUeh038obMm+7QEofn5ds/W/wNWby1TUrMjYZ/7Fb+pdok3AzeUyqXVaqLa5j4RaDtMW73UU5BXgMl6j8HPK6tsHUl7YH8Z5dd3krL11HIPkn7i+zJnCuKq05yCHsA3Fe4AKQ==;v+WFzL1VVkXMXcyaUdQBkg=="
 ---

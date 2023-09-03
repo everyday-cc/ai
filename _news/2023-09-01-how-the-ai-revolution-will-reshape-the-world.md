@@ -53,20 +53,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "6 Ways AI Can Revolutionize Digital Forensics"
-    excerpt: "Artificial intelligence tools can automate the analysis of logs, video, and other important but tedious aspects of investigations."
-    publishedDateTime: 2023-08-29T22:57:00Z
-    webUrl: "https://www.darkreading.com/dr-tech/6-ways-ai-can-revolutionize-digital-forensics"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 39
-    images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltc95e39a2bb031549/64ee7720367256112eaccd06/forensicsclass-dpa_picture_alliance-alamy.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "The Fintech Revolution: Unraveling the Forces Reshaping Finance"
     excerpt: "Step into the dynamic world of fintech, where disruptive innovations are reshaping the financial landscape as we know it. In a society constantly craving innovation and convenience, the rapid ascent of top fintech companies comes as no surprise."
     publishedDateTime: 2023-09-01T17:56:00Z
@@ -76,6 +62,15 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 19
+  - title: "How the rise of AI is revolutionising the FinTech industry"
+    excerpt: "In that sense, the role of AI in revolutionizing how financial institutions like non-banking financial companies (NBFCs) are offering banking-like services is proving to be extremely important. Not only is AI helping new-age financial institutions in automating manual processes such as data entry and customer request management,"
+    publishedDateTime: 2023-09-03T12:30:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-how-the-rise-of-ai-is-revolutionising-the-fintech-industry-3231450/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 19
   - title: "Is Corporate America ready for the AI revolution?"
     excerpt: "Artificial intelligence is transforming the way we live, but despite its rapid progression into the mainstream, according to a new report from the New York Times, most of corporate America isn't prepared to fully embrace or adopt the powerful new technology."
     publishedDateTime: 2023-08-30T14:57:00Z
@@ -84,15 +79,6 @@ related:
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 17
-  - title: "The evolution of photography in the age of artificial intelligence"
-    excerpt: "Photography only dates back to the early 19th century. Since it’s so closely tied to technology, photography has gone through countless transformations."
-    publishedDateTime: 2023-08-29T19:15:00Z
-    webUrl: "https://www.chron.com/marketplace/article/evolution-photography-age-artificial-intelligence-18336767.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
     quality: 17
 
 secured: "OkavySin8uNMlNCE4+yA4XeKe4fZY8gyGmbHrJI/+XojSFAEZE0FvdjTJhxQuxloqMDIH+2AaG1+BD6A0xBf3UklnObDtG49HJW1n80EOUFp/Xf0xifQ4R0F6wg+0jL/fCWkCUjCfyi4N1eTnqZ6vR7aDhBdBGRZr4hUTX/HU9TzrY7vkLN8Ri9s+IAoimlKpX7iXemHl59e8cI0Grr3llEHVANyneM9txLQnLk/EmkVYk17jhw86qI+FN3D3txjuGJTu7DFpt/KSmQAo7WNy4pUvF917t3H8ZDVsJGdevkA0Id9q3ad5T7n9mvDViI2UEqnh0G32zq7w7ztfJTvWS6LnUc2vzuTFzGTbnEwHdDCKhKWXlHCy9vaHNF9arEzzRrq8yLaDq5SBCe0KQ8ODTEMIPw2vno4b/mQvpCP/IfhczUCfzC9ClN7yLWikcCupLiC61h1bq+5iJrD5T4ciXOb4C+7f1HMRY7q7NS8n6ZiFuREqro5nPP3z3IasPHZ2Cxhhy5M41ipd1LacJygDA==;fqZZaOR3rquKPMcoy5d1KQ=="

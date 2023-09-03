@@ -116,6 +116,15 @@ related:
         width: 1356
         height: 668
         isCached: true
+  - title: "The Voice key for Indigenous Australian's health"
+    excerpt: "Australia will soon vote on constitutional recognition of its Indigenous people, and to give them a direct voice to Parliament. Health will be high on the agenda. Chris McCall reports."
+    publishedDateTime: 2023-09-03T15:47:00Z
+    webUrl: "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)01840-8/fulltext"
+    type: article
+    provider:
+      name: The Lancet
+      domain: thelancet.com
+    quality: 4
   - title: "Australians to vote in a referendum on Indigenous Voice to Parliament on Oct. 14"
     excerpt: "Australians will vote on Oct. 14 on a proposed law to create a so-called Indigenous Voice to Parliament in the nation’s first referendum in a generation. Prime Minister Anthony Albanese on Wednesday announced the referendum date,"
     publishedDateTime: 2023-08-30T08:48:00Z

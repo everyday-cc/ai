@@ -115,6 +115,20 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "How businesses can achieve greener generative AI with more sustainable inference"
+    excerpt: "Why a server-on-a-chip operating on far less power and GPUs can create cost-conscious, environmentally-sound, democratized generative AI."
+    publishedDateTime: 2023-09-03T15:20:00Z
+    webUrl: "https://venturebeat.com/ai/how-businesses-can-achieve-greener-generative-ai-with-more-sustainable-inference/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 66
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/annevb_a_computer_with_green_plants_growing_out_of_it_or_aroun_34756494-fc43-4af9-aa33-3ded589fabc9.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Google’s AI-powered search comes to India: How to sign-up and start using"
     excerpt: "Google is expanding its AI-powered search feature, known as SGE (Search Generative Experience), to India and Japan. SGE allows users to ask conversational questions and receive AI-generated answers. It is available as an opt-in experiment in Google's Search Labs and can be accessed through the Google app and Chrome desktop."
     publishedDateTime: 2023-08-31T04:40:00Z
@@ -217,7 +231,7 @@ related:
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 17
+    quality: 19
 
 secured: "rxUamx0qwnmVA3zf8dODwOUTD2W1S6eGffnojIQiGP8Pjt+cJ++8BMEudb1jBsR9RsW8vFrQ4BF1f1kDGs7AlZ8EslrZrk/ponwWRHtMhIu878ugMA6S9buMuG44jAPwe+7WKT/3ezOOievZ7hq4anNX6u9Y8v9Bo3SKwJozJFIPQu8rR6NLGWG6pX2H+jnJVdn0j/5atER/56mmBqEjol05wG79fJb02xN1ORYAtkhxc38/hNqiWySRak0M8Z1pWUMYNkJhzScxM4cgnrbfqplp5JodzRYThF9o2T+9ycJJnJyDgpt8gXqq1JBMKqUhG3h05PQa9fmgL+Gk4GqFAwvR+1bDdNjm5YP4plHmpYESe9762dxArlNr6rzT6Z7OmirT+ox1jfdi3+LdibHP9zlK/qb3g7TmJC0pVNbOfXdypdefeDUNX/TYqMaRYbWzPKfnZlPjpkhD47PJAG9LszWe2tLoc40JB4JVzNR6/8M2nb5RfCeOPyBCm31gM18uDA4nTRmNuEILyC3elXeWdQ==;qSpwyeZv15yEDWgjziC6xg=="
 ---

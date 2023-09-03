@@ -111,6 +111,20 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "How businesses can achieve greener generative AI with more sustainable inference"
+    excerpt: "Why a server-on-a-chip operating on far less power and GPUs can create cost-conscious, environmentally-sound, democratized generative AI."
+    publishedDateTime: 2023-09-03T15:20:00Z
+    webUrl: "https://venturebeat.com/ai/how-businesses-can-achieve-greener-generative-ai-with-more-sustainable-inference/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 66
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/annevb_a_computer_with_green_plants_growing_out_of_it_or_aroun_34756494-fc43-4af9-aa33-3ded589fabc9.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Generative AI Is More Mad Lib Than HAL9000"
     excerpt: "A quiet revolution has been occurring in artificial intelligence. Whereas in the past, AI was limited to analyzing information that already exists, it has"
     publishedDateTime: 2023-08-31T20:53:00Z
@@ -220,7 +234,7 @@ related:
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 17
+    quality: 19
 
 secured: "3XaXlHEx7dgbu0ePNenAoPh6XG9Zfut0Lo2fSvAIM4FxyTFN2MjJ+TA6pZfol9TvH9ys03fywnWABABjkUn/goRQKLhXNylGj/J9o4jNoa26PihyANqDWZtL+qAeRrwAEou3KQ2XhlMF+ykR2+ELlrJQE+OQtgY1GfQysXoEDfdm3vhWLuSas8FSmtYe04Vagy/y3Cqoeg0P9SR21Q3IL3SXrFhjzwwx/QnpzgqXq2m3k2lHbJIqE1n9KkYRwtnmnoqPgWQTBryUs1x9HUuHaA2dkIAyqFs4Akpp9yh6+Nt4qHzRJQQbKOewPniTm2QVq6ttLHJEFatdrhuEP8Lx3LT5zzlA5jNBwdh7gjVVMQPLYBcRo6Gprd0BJDFVOzCc8vHSClHiplW7VT9/acaro0k9Gqr36IV90d8UkLuFiAAqi0koXB+XMyc9xh9lVj1QxBuUtp1yON9DYYGausdgqU2RPLMrVLjKPyoej1I4ealozfTFk1NqqfzQw0eUDVmHsrK4ujL85zWyFg24qPgoZA==;s5BuHvDzeLW9yJFim8S6BA=="
 ---

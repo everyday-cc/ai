@@ -84,34 +84,6 @@ related:
         width: 1200
         height: 757
         isCached: true
-  - title: "Local experts weigh in on affects of artificial intelligence and machine learning"
-    excerpt: "With the rise of machine learning through ChatGPT and other artificial intelligence systems, there are positive and negative implications that can affect how local city government and municipalities operate,"
-    publishedDateTime: 2023-08-29T22:55:00Z
-    webUrl: "https://theeagle.com/news/local-experts-weigh-in-on-affects-of-artificial-intelligence-and-machine-learning/article_6dde6dd8-46be-11ee-914e-3312d8e2e99d.html"
-    type: article
-    provider:
-      name: The Eagle
-      domain: theeagle.com
-    quality: 49
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/theeagle.com/content/tncms/assets/v3/editorial/6/dd/6dde6dd8-46be-11ee-914e-3312d8e2e99d/64efea3b2516a.preview.jpg?crop=1168%2C613%2C0%2C22&resize=1168%2C613&order=crop%2Cresize"
-        width: 1168
-        height: 613
-        isCached: true
-  - title: "Qubrid Announces Quantum Computing Consulting and Professional Services for Generative AI and Machine Learning"
-    excerpt: "Learn more about our consulting and professional services here."
-    publishedDateTime: 2023-08-29T20:00:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/29/9871940.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
-    images:
-      - url: "https://mma.prnewswire.com/media/2076799/Qubrid_Logo.jpg"
-        width: 400
-        height: 342
-        isCached: true
 
 secured: "gBkIfU4jFVhIEPwgTRPC6xoA12DBsARhKBbDccc02cTDJaXgTauK7sIugRdKiPXomyq8SEU1AsQ7xGaGPBU3mFAMHOuyjDWEeA0l4eKY/lPx19RROgN23+WZ2GXOuzfVh4BxQPnhdzNtgtS1T3UYs70LPmCcT7NvEfR7Mw0jK8fMatffNMBWJ7t5kC9z0stf0taNFskI6eNI4Ip+zp+APw1Lk0pGMmWB7NNt0V7guNw9KvbjG0bwOiBii9c9PyF01fDCbx/u3UngDh9iq2cpTr5UCGfXcqdOhlWCIZqvaOxfw/VOjTUVZQbQy5QX8WlGbk5yAJxsddljSpv75KCBFq3Q54aOVDcuZdfmmNZtsMi3ZhX0o71kKM8psGW9V6+zwnbqQAQNmKkScFTMizOS46LZUnQwbYC19Ky0xnX90mPhjtqLNuoKy/ZCNw1HEX+T1FgsSHME9pK9i+OaVAxfTGjsCTrJy1bS3g8rS+I90mf03447EvytMcFNhY66JQ84R6f6fMmhUeK9Q19XYuXgDw==;U6yMSFcjGHiXHB033CvSLQ=="
 ---

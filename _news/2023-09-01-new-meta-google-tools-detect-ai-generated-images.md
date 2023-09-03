@@ -83,20 +83,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Google Cloud unveils new TPUs in race to optimize AI hardware"
-    excerpt: "The new generation chips are optimized to handle the growing volume of generative AI model training and inference workloads."
-    publishedDateTime: 2023-08-29T21:51:00Z
-    webUrl: "https://www.ciodive.com/news/Google-Cloud-TPU-GPU-generative-AI/692190/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 39
-    images:
-      - url: "https://www.ciodive.com/imgproxy/jQsKs4zwVTwOWuBHkZu_vHMYHsWa_MH43ZgGGLHsjvk/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEyNTE5MTMxODdfZHlmRGpxWi5qcGc.jpg"
-        width: 770
-        height: 435
-        isCached: true
   - title: "The Smart Enterprise: Making Generative AI Enterprise-Ready"
     excerpt: "Yes, the opportunities for Generative AI (GenAI) are immense. Yes, it is transforming the world as we know it (and faster than most of us predicted). And yes, technology is getting smarter. However, the implications for GenAI,"
     publishedDateTime: 2023-09-01T17:39:00Z
@@ -111,20 +97,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Google stock rises as it says it will charge $30 for enterprise AI service"
-    excerpt: "The most intriguing news out of the show is that Google is pricing its AI-powered Duet AI in Workspace at $30 per user per month. That’s the same price Microsoft is charging for its Microsoft 365 Copilot."
-    publishedDateTime: 2023-08-29T20:05:00Z
-    webUrl: "https://www.aol.com/finance/google-shares-rise-says-charge-170422161.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/aFpPKPC6NiBdSuGLQM9f7g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODY-/https://media.zenfs.com/en/aol_yahoo_finance_433/b710f8b1b7967011b94151a71764005f"
-        width: 1200
-        height: 686
-        isCached: true
   - title: "Google Introduces New Ai Chip And Enhanced Tools For Enterprise Ai Solutions"
     excerpt: "At the Google Next conference held in San Francisco, a range of new artificial intelligence technologies and collaborations were introduced with a"
     publishedDateTime: 2023-08-30T19:25:00Z
@@ -134,15 +106,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 31
-  - title: "Google’s Duet AI now available for Workspace enterprise customers"
-    excerpt: "Google also talked up new Duet AI capabilities at its Google Cloud Next conference now under way in San Francisco. (This year's event marks the first time it's been held in-person since the start of the COVID-19 pandemic in 2020.) There are several new ..."
-    publishedDateTime: 2023-08-29T19:07:00Z
-    webUrl: "https://www.computerworld.com/article/3705372/googles-duet-ai-now-available-for-workspace-enterprise-customers.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 17
 
 secured: "4F3JOVVXa2A6YRMHQTwMA1p5RDWLeph/0PbTmV7fpcOC4L3LbcElaFo+d2mt7/j3T63VBfJgWU3NBlllRk3lJOi1eQuoLI2zHBnp6DFpMPOfyRmxwrUwVYnI/EIl5xyJqyQ95En3aie7Cl/dGf03K/vOUPrdQ/hmE+VY3Z9YxZfZN65BDzhOag1p9X39yjwgnPumjDtiLjQ0Y3vnrF0rtNaWDucoZn7Jd/zh7rB+jyBLnUZ/KcsS7zyN7vWp6nvZg1MjRRpRNxPu9aJlkq77IxIXhgmQL9OhTt/zd7EHnWNs01JoGyjjxdfr70B66id7/5UoAMvLywkgmUst6FegcSrL2ypOnPfU07EA8+qcBGqvhYQAoZetUWIGK75jfu4TgV/cA7hpV8y9vR1V0QJaxdECfKTcKPUDZXZWcrKoCSBcutSP8Ycy9Xo1070AYy5YaqwROyqmFa7WrqCvoWChz55hZpITrz3aGYZ4Xs5SPbli6gVVbxPTklLYEYOGbOtBf1iXOyMpeMrdvcJNXj7oAw==;otAk1vC+d83LRK76OLtH8g=="
 ---

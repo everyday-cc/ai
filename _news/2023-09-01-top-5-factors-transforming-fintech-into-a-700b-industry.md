@@ -92,20 +92,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 36
-  - title: "Banking Revolution In Action: Kimberly Rosales Delves Into How Fintech Is Reshaping The Financial Landscape"
-    excerpt: "Rosales underscores how FinTech is placing customer experiences at the forefront. Innovative digital interfaces, personalized services and AI-driven chatbots are enhancing interactions and providing customers with convenient and user-friendly banking ..."
-    publishedDateTime: 2023-08-29T21:41:00Z
-    webUrl: "https://menafn.com/1106982515/Banking-Revolution-In-Action-Kimberly-Rosales-Delves-Into-How-Fintech-Is-Reshaping-The-Financial-Landscape"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 21
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?708748"
-        width: 429
-        height: 250
-        isCached: true
   - title: "Leaders in Lending | Ep. 122: Combating financial fraud – Fintech’s game-changing role"
     excerpt: "For so long, new tech has been utilized by fraud artists, costing many unsuspecting victims countless dollars. Now, AI tools and strong fintech"
     publishedDateTime: 2023-08-30T23:00:00Z

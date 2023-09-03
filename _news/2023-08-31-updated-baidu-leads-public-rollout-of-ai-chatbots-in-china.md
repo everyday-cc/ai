@@ -66,6 +66,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "China rolls out ChatGPT-like products to public"
+    excerpt: "Ernie Bot easily answered mundane questions such as 'What is the capital of China' and 'Do you have any hobbies' — but on sensitive issues, it said, 'Let's change"
+    publishedDateTime: 2023-08-31T05:30:00Z
+    webUrl: "https://www.khaleejtimes.com/business/tech/china-rolls-out-chatgpt-like-products-to-public"
+    ampWebUrl: "https://www.khaleejtimes.com/business/tech/china-rolls-out-chatgpt-like-products-to-public?amp=1"
+    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/business/tech/china-rolls-out-chatgpt-like-products-to-public?amp=1"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 44
+    images:
+      - url: "https://image.khaleejtimes.com?uuid=942563c0-d820-5cdb-bafd-36c6bce37e8b&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.8427&width=1200&height=675&x=1.0E-5&y=0.07678"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Evolution of AI Chatbots: Past, Present and Future"
     excerpt: "Evolutionary path. Chatbots evolved from simple rule-based systems to AI-powered, voice-activated personal assistants and generative AI chatbots capable of full-fledged conversations."
     publishedDateTime: 2023-09-01T10:02:00Z

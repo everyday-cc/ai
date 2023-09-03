@@ -7,8 +7,8 @@ originalUrl: "https://www.newscientist.com/article/2389509-ai-recap-the-rise-of-
 webUrl: "https://www.newscientist.com/article/2389509-ai-recap-the-rise-of-the-prompt-engineer-and-biased-driverless-cars/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: New Scientist
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "PD Editorial: Tap the brakes on driverless cars"
-    excerpt: "It was both proof of concept and an opportunity for the innovators in the space to gather real world data and to train their artificial intelligence models ... but it might not be long before driverless taxis cruise around Wine Country."
-    publishedDateTime: 2023-08-29T21:19:00Z
-    webUrl: "https://www.pressdemocrat.com/article/opinion/pd-editorial-tap-the-brakes-on-driverless-cars/"
-    type: article
-    provider:
-      name: Santa Rosa Press Democrat
-      domain: pressdemocrat.com
-    quality: 39
-    images:
-      - url: "https://imengine.prod.srp.navigacloud.com?uuid=e078950e-faa8-56a7-a15a-e8b6ef691a1d&type=primary&q=72&width=1024"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Driverless in the field: Agriculture companies Krone and Lemken rely on software from Apex.AI for autonomous farming machines"
     excerpt: "The high-performance Apex.AI development environment enables the prototype functions developed by Krone and Lemken to be transferred to"
     publishedDateTime: 2023-08-30T19:03:00Z

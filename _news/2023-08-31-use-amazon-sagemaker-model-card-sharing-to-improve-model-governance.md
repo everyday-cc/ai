@@ -37,20 +37,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "UserTesting expands platform with generative AI to scale human insights"
-    excerpt: "The new UserTesting AI features are intended to help customers scale up experience research efforts using generative AI."
-    publishedDateTime: 2023-08-29T20:00:00Z
-    webUrl: "https://venturebeat.com/ai/usertesting-expands-platform-with-generative-ai-to-scale-human-insights/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/10/analytics-g6fbbe52da_1920-e1633121636347.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "In the absence of clear rules, students using AI don't know if they're cheating: survey"
     excerpt: "More than half of students over 18 have used generative AI to complete their school work or pass an exam, despite 60 per cent feeling that it constitutes cheating, according to a recent survey by business consulting firm KPMG."
     publishedDateTime: 2023-08-31T20:49:00Z

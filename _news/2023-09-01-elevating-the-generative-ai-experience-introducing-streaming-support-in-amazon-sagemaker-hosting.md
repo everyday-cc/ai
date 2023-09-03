@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/elevating-the-genera
 webUrl: "https://aws.amazon.com/blogs/machine-learning/elevating-the-generative-ai-experience-introducing-streaming-support-in-amazon-sagemaker-hosting/"
 type: article
 quality: 91
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "UserTesting expands platform with generative AI to scale human insights"
-    excerpt: "The new UserTesting AI features are intended to help customers scale up experience research efforts using generative AI."
-    publishedDateTime: 2023-08-29T20:00:00Z
-    webUrl: "https://venturebeat.com/ai/usertesting-expands-platform-with-generative-ai-to-scale-human-insights/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/10/analytics-g6fbbe52da_1920-e1633121636347.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Use Amazon SageMaker Model Card sharing to improve model governance"
     excerpt: "One of the tools available as part of the ML governance is Amazon SageMaker Model Cards, which has the capability to create a single source of truth for model information by centralizing and standardizing documentation throughout the model lifecycle. SageMaker model cards enable you to standardize how"
     publishedDateTime: 2023-08-31T18:11:14Z

@@ -41,54 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "NHTSA demands answers on Tesla self-driving mode"
-    excerpt: "Prior versions of Tesla's Full Self-Driving software had a feature colloquially referred to as a \"nag\" that sets off a warning alarm when the driver takes their hands off the wheel. Read More GM invests in company developing lower-cost EV batteries ..."
-    publishedDateTime: 2023-08-30T15:58:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2023/08/30/national-highway-traffic-safety-administration-demands-answers-on-tesla-self-driving-mode/2351693402928/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2023/08/30/national-highway-traffic-safety-administration-demands-answers-on-tesla-self-driving-mode/2351693402928/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2023/08/30/national-highway-traffic-safety-administration-demands-answers-on-tesla-self-driving-mode/2351693402928/"
-    type: article
-    provider:
-      name: UPI
-      domain: upi.com
-    quality: 59
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/2351693402928/2023/1/3500bda9ca3a580ea6ebb2512f07b3a2/v1.5/NHTSA-demands-answers-on-Tesla-self-driving-mode.jpg"
-        width: 1200
-        height: 801
-        isCached: true
-  - title: "Feds question Tesla on no-hands driving"
-    excerpt: "Tesla is allowing some drivers to use its Autopilot driver-assist system for extended periods without making them put their hands on the steering wheel, a development that has drawn concern from"
-    publishedDateTime: 2023-08-30T21:52:00Z
-    webUrl: "https://www.bostonherald.com/2023/08/30/feds-question-tesla-on-no-hands-driving/"
-    ampWebUrl: "https://www.bostonherald.com/2023/08/30/feds-question-tesla-on-no-hands-driving/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2023/08/30/feds-question-tesla-on-no-hands-driving/amp/"
-    type: article
-    provider:
-      name: Boston Herald
-      domain: bostonherald.com
-    quality: 59
-    images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2023/08/AP23213424013169.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Tesla allowing no-hands Autopilot driving for longer periods. Regulators have questions"
-    excerpt: "Tesla says Autopilot and a more sophisticated “Full Self-Driving” system cannot drive themselves and that drivers must be ready to intervene at all times. Autopilot generally can keep a car in its lane and a distance away from objects in front of it."
-    publishedDateTime: 2023-08-31T16:10:00Z
-    webUrl: "https://www.eastbaytimes.com/2023/08/31/tesla-is-allowing-no-hands-driving-with-autopilot-for-longer-periods-us-regulators-have-questions/"
-    ampWebUrl: "https://www.eastbaytimes.com/2023/08/31/tesla-is-allowing-no-hands-driving-with-autopilot-for-longer-periods-us-regulators-have-questions/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/08/31/tesla-is-allowing-no-hands-driving-with-autopilot-for-longer-periods-us-regulators-have-questions/amp/"
-    type: article
-    provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 51
-    images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2023/08/Tesla_Autopilot_Investigation_13169-1.jpg?w=1024&h=683"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Tesla allows no-hands driving with Autopilot for longer periods; regulators have questions"
     excerpt: "Tesla says Autopilot and a more sophisticated “Full Self-Driving” system cannot drive themselves and that drivers must be ready to intervene at all times. Autopilot generally can keep a car in its lane and a distance away from objects in front of it."
     publishedDateTime: 2023-08-31T09:59:00Z
@@ -104,36 +56,6 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5P6HF34VXJH5BG2ICRIXILHCTI.jpg"
         width: 5078
         height: 3385
-        isCached: true
-  - title: "Tesla allowing no-hands driving with Autopilot for longer periods draws concern from regulators"
-    excerpt: "Tesla is allowing some drivers to use its Autopilot driver-assist system for extended periods without making them put their hands on the steering wheel, a development that has drawn concern from U.S."
-    publishedDateTime: 2023-08-31T00:03:00Z
-    webUrl: "https://abc7.com/tesla-autopilot-car-safety-elon-musk/13720025/"
-    ampWebUrl: "https://abc7.com/amp/tesla-autopilot-car-safety-elon-musk/13720025/"
-    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/tesla-autopilot-car-safety-elon-musk/13720025/"
-    type: article
-    provider:
-      name: ABC7
-      domain: abc7.com
-    quality: 47
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/13719922_tesla-img.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Tesla is allowing no-hands driving with Autopilot for longer periods. US regulators have questions"
-    excerpt: "Tesla says Autopilot and a more sophisticated “Full Self-Driving” system cannot drive themselves and that drivers must be ready to intervene at all times. Autopilot generally can keep a car in its lane and a distance away from objects in front of it."
-    publishedDateTime: 2023-08-31T09:04:00Z
-    webUrl: "https://www.mauinews.com/wire/?category=5186&ID=301014"
-    type: article
-    provider:
-      name: The Maui News
-      domain: mauinews.com
-    quality: 25
-    images:
-      - url: "https://ogden_images.s3.amazonaws.com/www.oniwire.com/images/2023/08/31023734/23213424013169.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Tesla is allowing no-hands driving with Autopilot for longer periods. US regulators have questions"
     excerpt: "It opened a formal probe in 2021 and since 2016 has sent investigators to 35 Tesla crashes that may involve partially automated driving systems. At least 17 people have died. Tesla says Autopilot and a more sophisticated “Full Self-Driving” system ..."

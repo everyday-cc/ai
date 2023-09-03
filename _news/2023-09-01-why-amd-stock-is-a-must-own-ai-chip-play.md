@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "Tax And The Future Of Artificial Intelligence"
-    excerpt: "John McGowan of HubSync discusses artificial intelligence and its role in the tax field. This transcript has been edited for length and clarity. David D. Stewart: Welcome to the podcast. I'm David Stewart, editor in chief of Tax Notes Today International. This week: Friend or foe?"
-    publishedDateTime: 2023-08-29T19:43:00Z
-    webUrl: "https://www.forbes.com/sites/taxnotes/2023/08/29/tax-and-the-future-of-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/taxnotes/2023/08/29/tax-and-the-future-of-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/taxnotes/2023/08/29/tax-and-the-future-of-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64ee492b71e0e620574af6bd/0x0.jpg?format=jpg&width=1200"
-        width: 1190
-        height: 793
-        isCached: true
 
 secured: "1JCIiN9iABUC24Ki4ygBbzMhzp75/wdNU0GrWgnFMQUzghxR7NCR/y5dwFKWeWBVxktsdphFjenWY0FC1hv/puBDHuxAAfoIQDVcvyTVlvEbeRdnp4jTwpqUzLyTuWbtYxjU8Pq5rqKhN1gHQA/FhcivdVWBqmk+HTkjR9GMekd1B1kbzUefD6gKRsSntCN+a4SN+XNz4rbsgMFL25GIYrqtvMnKpLgA9VTH5x+yjbYXvxd9Ia3AEWFb74p8kgT2m7IMwhPk8BYiqUqXfWLip6TjphGLLDHz3RjXKKzPO7pTcW3NSEphMu/NKoPVt1ApqBXEOgYs1BeazM/YConV3h9GIuaHFKjw/1qMZO4sFvE=;EvUtlKpi4uKyF1hdE+V3dA=="
 ---

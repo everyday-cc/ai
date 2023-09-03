@@ -74,20 +74,6 @@ related:
         width: 1200
         height: 757
         isCached: true
-  - title: "Local experts weigh in on affects of artificial intelligence and machine learning"
-    excerpt: "With the rise of machine learning through ChatGPT and other artificial intelligence systems, there are positive and negative implications that can affect how local city government and municipalities operate,"
-    publishedDateTime: 2023-08-29T22:55:00Z
-    webUrl: "https://theeagle.com/news/local-experts-weigh-in-on-affects-of-artificial-intelligence-and-machine-learning/article_6dde6dd8-46be-11ee-914e-3312d8e2e99d.html"
-    type: article
-    provider:
-      name: The Eagle
-      domain: theeagle.com
-    quality: 49
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/theeagle.com/content/tncms/assets/v3/editorial/6/dd/6dde6dd8-46be-11ee-914e-3312d8e2e99d/64efea3b2516a.preview.jpg?crop=1168%2C613%2C0%2C22&resize=1168%2C613&order=crop%2Cresize"
-        width: 1168
-        height: 613
-        isCached: true
   - title: "Unveiling AI's Secret Impact On Human Labor And Intelligence"
     excerpt: "As AI advances, it's not uncommon to wonder whether it may threaten humanity and whether wage requirements and automated labor will affect workers' paychecks."
     publishedDateTime: 2023-09-01T12:00:00Z
@@ -97,20 +83,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Qubrid Announces Quantum Computing Consulting and Professional Services for Generative AI and Machine Learning"
-    excerpt: "Learn more about our consulting and professional services here."
-    publishedDateTime: 2023-08-29T20:00:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/29/9871940.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
-    images:
-      - url: "https://mma.prnewswire.com/media/2076799/Qubrid_Logo.jpg"
-        width: 400
-        height: 342
-        isCached: true
 
 secured: "yQHLh7LTLi2w3jjtzOd7+1CrbGEJyokPjkkda1X89npT3qYReDA5RpOiwbhVhoYPc87tO6Y8hd2UBrI2Xygw8UR36gCAH4S67eYAmQJ+BoBcKk3s0ack/JkSzOz2HGfJMllFnfJLg9lnBxYgJ5lQP7U1Sh1+S7oMzKAI/agD6pI/kGlup95jcovxaUSe3Ta6PRaH4MylIu8u+p6pgpzmD+nEW90jcHSkQo8exIPJNI48H2nj7XwMY+05XX991h/31ivWg2sXRaKjBuXkNlWTzSEDIUh7NO3eFAJyNs7Jwvy1H4Ods23SmfGyIswoKkERIn1pN0mNwNABm5W2ZOb3hk2+c24zj3Ek3HVazSoUQ5mAkLNcIbsYQBHhpD4Zkz8HeVQQnR5NKXMlD6EC/at6h3IS2tLGRuMVZRxwYFPiRE+HmqtX2sCS3e2tRq/VfBNQDoWsMQHyZKIFm4tmiyGc6CULQf3gGVOrmL7s7E5f6bWThNUGA8XT298gY5cpdyVAEMRWtIwTC9rrqw9pIheNyA==;a9dQwUQ7mkPxHx69zHCSHw=="
 ---

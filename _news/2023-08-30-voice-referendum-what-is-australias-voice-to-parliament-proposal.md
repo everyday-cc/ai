@@ -55,22 +55,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "'Do First Nations people support the Voice?' All your Voice to Parliament questions, answered."
-    excerpt: "Australians will be asked to vote on the question of whether the nation should recognise First Nations people through an Indigenous Voice to Parliament in the Australian Constitution. Whether you’ve been following the Voice debate online,"
-    publishedDateTime: 2023-08-29T21:15:00Z
-    webUrl: "https://www.mamamia.com.au/what-is-the-voice-to-parliament-referendum/"
-    ampWebUrl: "https://www.mamamia.com.au/what-is-the-voice-to-parliament-referendum/amp/"
-    cdnAmpWebUrl: "https://www-mamamia-com-au.cdn.ampproject.org/c/s/www.mamamia.com.au/what-is-the-voice-to-parliament-referendum/amp/"
-    type: article
-    provider:
-      name: Mamamia
-      domain: mamamia.com.au
-    quality: 32
-    images:
-      - url: "https://new-cdn.mamamia.com.au/mamamia-pwa.appspot.com/cms_images/variations/1200x628.2722513089005-192408661474.jpg?bypass=1"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "PM announces date for Voice to Parliament referendum"
     excerpt: "Prime Minister Anthony Albanese announced the date for the referendum on the Voice to Parliament during a visit to Adelaide on Wednesday. On Saturday, October 14, Australians will have their say in a referendum about whether to change the Constitution to recognise the First Peoples of Australia by establishing a body called the Aboriginal and Torres Strait Islander Voice."
     publishedDateTime: 2023-08-31T23:44:00Z
@@ -94,6 +78,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 19
+  - title: "Peter Dutton flags second referendum if Indigenous Voice to Parliament fails"
+    excerpt: "Opposition leader Peter Dutton has committed to holding another referendum to recognise Indigenous Australians in the Constitution if the Voice failed."
+    publishedDateTime: 2023-09-03T13:43:00Z
+    webUrl: "https://www.theaustralian.com.au/breaking-news/peter-dutton-flags-second-referendum-if-indigenous-voice-to-parliament-fails/news-story/f14566cceeb7770f46146df839ddafdb"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 16
   - title: "Kim Beazley wants Australians to vote Yes for an Indigenous voice to parliament to show respect"
     excerpt: "Kim Beazley remembers Indigenous boys and girls forcibly separated from their parents coming to the family home in Perth for a meal in 1950s and 60s, and shaping his belief in the ­dignity, opportunities and rights that should be afforded to the First Australians."
     publishedDateTime: 2023-09-01T17:28:00Z

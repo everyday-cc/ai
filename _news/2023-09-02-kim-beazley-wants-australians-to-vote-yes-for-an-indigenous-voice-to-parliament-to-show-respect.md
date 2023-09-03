@@ -49,22 +49,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "'Do First Nations people support the Voice?' All your Voice to Parliament questions, answered."
-    excerpt: "Australians will be asked to vote on the question of whether the nation should recognise First Nations people through an Indigenous Voice to Parliament in the Australian Constitution. Whether you’ve been following the Voice debate online,"
-    publishedDateTime: 2023-08-29T21:15:00Z
-    webUrl: "https://www.mamamia.com.au/what-is-the-voice-to-parliament-referendum/"
-    ampWebUrl: "https://www.mamamia.com.au/what-is-the-voice-to-parliament-referendum/amp/"
-    cdnAmpWebUrl: "https://www-mamamia-com-au.cdn.ampproject.org/c/s/www.mamamia.com.au/what-is-the-voice-to-parliament-referendum/amp/"
-    type: article
-    provider:
-      name: Mamamia
-      domain: mamamia.com.au
-    quality: 32
-    images:
-      - url: "https://new-cdn.mamamia.com.au/mamamia-pwa.appspot.com/cms_images/variations/1200x628.2722513089005-192408661474.jpg?bypass=1"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voice referendum: What is Australia's Voice to Parliament proposal?"
     excerpt: "The Voice was recommended by a historic document in 2017 called the Uluru Statement from the Heart. Drafted by more than 250 Indigenous leaders, the statement is considered the best - though not unanimous - call to action for reforms which affect First Nations Australians."
     publishedDateTime: 2023-08-30T07:18:00Z
@@ -102,6 +86,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 19
+  - title: "Peter Dutton flags second referendum if Indigenous Voice to Parliament fails"
+    excerpt: "Opposition leader Peter Dutton has committed to holding another referendum to recognise Indigenous Australians in the Constitution if the Voice failed."
+    publishedDateTime: 2023-09-03T13:43:00Z
+    webUrl: "https://www.theaustralian.com.au/breaking-news/peter-dutton-flags-second-referendum-if-indigenous-voice-to-parliament-fails/news-story/f14566cceeb7770f46146df839ddafdb"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 16
 
 secured: "W17deysi9Tq79U2SfqKYv9JkrVo2gba8woW35CuAvHeqTbhcewmtK9/P8c7XS3BTJr06bNM2zYaLh1GQgK1g2gIThHGWdp1SIh2SOIWtq94iHYwZw8gxzIbqLtV8z4f7Tfh33jX8h6wvCf2+pCBJTtmbfkkmIbYAt+1q1/ywUx9IpJI0komWCEtv99KopCLXUg/rhpV4y+jny6k7shMYpAs9cuJ6MMeLzJcCttVAmONumrcA1oL0lCwzNbrYr7gVJnbwxdPzTv5Agy+v5fAjJAarzvUHrjrK1ncXRozF7MdtLZm2lVWO1ZI8/48qjzv6C6jVZLokp2XGB+YT0R0Q84ogC8W/KrGKgHQ7M92FHC+njaEBUI4NR0RrfpCfVsYbTR2KhUawc3DF4j+ubOlZyhkhVcYH04mOUiPnzmJhgokaII6DuXHoXlQt8jjbFluPCqYh1QkB/6QvAe5alXTqpV9h6HHeCj3E6HV3Z+XQF95g1sg1eqe0hIUaLW9OV7RO+85WrtCczh+ENnrkiIoXmA==;1Xx5Z8PpaVHnW9Rqeyn3Nw=="
 ---
