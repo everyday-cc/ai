@@ -6,8 +6,8 @@ publishedDateTime: 2023-09-02T15:40:00Z
 originalUrl: "https://www.cnet.com/tech/computing/ai-and-you-no-to-openai-scraping-dont-eat-those-mushrooms-prompt-jobs/"
 webUrl: "https://www.cnet.com/tech/computing/ai-and-you-no-to-openai-scraping-dont-eat-those-mushrooms-prompt-jobs/"
 type: article
-quality: 68
-heat: 78
+quality: 70
+heat: 90
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.cnet.com/a/img/resize/9bc852efee183bb74a091236c419b726fa875749/hub/2023/09/01/a712b83f-8d98-4395-a590-f99dde87257e/ai-head-getty.jpg?auto=webp&fit=crop&height=675&width=1200"
@@ -29,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "OpenAI release a ChatGPT teachers guide on teaching with AI"
+    excerpt: "OpenAI has announced the release of a new ChatGPT teachers guide it has created to help teachers design lesson plans and more. The guide has"
+    publishedDateTime: 2023-09-01T05:56:00Z
+    webUrl: "https://www.geeky-gadgets.com/chatgpt-teachers-guide-by-openai/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/OpenAI-release-a-ChatGPT-teachers-guide-on-AI.jpg"
+        width: 700
+        height: 466
+        isCached: true
   - title: "Startup Chai offers salary of $875K to compete with OpenAI for Generative AI talent"
     excerpt: "As tech startups compete with OpenAI for talent, Chai AI researcher compensation exceeds $875K. As one of the world's largest independent chat AI platforms they have placed themselves in a position singularly appealing to the best of the AI field."
     publishedDateTime: 2023-08-31T15:37:00Z

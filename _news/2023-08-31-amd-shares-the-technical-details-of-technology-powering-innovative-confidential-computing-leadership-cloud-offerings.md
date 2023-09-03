@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Pioneering technological research in our Computer Science Department"
-    excerpt: "Our Computer Science Department is one of the top ranked in the UK and we are at the forefront of next generation innovation.  Our research projects are having a world-changing impact. Our research is paving the way on new technological development that allows cars to be driven autonomously on public roads."
-    publishedDateTime: 2023-08-29T15:21:00Z
-    webUrl: "https://www.dur.ac.uk/news-events/latest-news/2023/08/pioneering-technological-research-in-our-computer-science-department/"
-    type: article
-    provider:
-      name: dur.ac.uk
-      domain: dur.ac.uk
-    quality: 24
-    images:
-      - url: "https://i3.ytimg.com/vi/qDWpEnYxZDk/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
   - title: "AMD Deepens Cloud Security Collaboration: Open Sources Its EPYC Processor-based Confidential Computing Tech"
     excerpt: "Oracle Compute Infrastructure (OCI) provides its customers a high assurance of data control as customers transition their workloads to the cloud while delivering the modern security features and impressive performance of the EPYC CPU-powered of the OCI E3 and E4-based Confidential VMs."
     publishedDateTime: 2023-09-01T15:25:00Z

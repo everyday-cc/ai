@@ -41,22 +41,6 @@ related:
         width: 1300
         height: 640
         isCached: true
-  - title: "Google expands Duet AI features across its cloud services"
-    excerpt: "At its Google Cloud Next conference, the company said that it was adding Duet AI to cloud services around data analytics, databases, infrastructure, and application management."
-    publishedDateTime: 2023-08-29T16:33:00Z
-    webUrl: "https://www.infoworld.com/article/3705374/google-expands-duet-ai-features-across-its-cloud-services.html"
-    ampWebUrl: "https://www.infoworld.com/article/3705374/google-expands-duet-ai-features-across-its-cloud-services.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705374/google-expands-duet-ai-features-across-its-cloud-services.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/02/shutterstock_324149159-100937108-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Google Unveils New AI-Powered Cloud Technologies Taking On AWS And Azure"
     excerpt: "At Cloud Next, Google unveiled AI strategies to rival AWS and Azure. New offerings include custom silicon and updated Vertex AI. Google targets AI-centric enterprises."
     publishedDateTime: 2023-09-01T19:24:00Z
@@ -154,20 +138,6 @@ related:
         width: 1893
         height: 767
         isCached: true
-  - title: "Using artificial intelligence to write a business plan"
-    excerpt: "TUSCALOOSA, ALA. — The Founders Playground, a management consulting firm, is launching the AI-Generated Business Plan Competition for food entrepreneurs, including caterers, restaurant owners, cottage food producers, bakers, and food truck operators."
-    publishedDateTime: 2023-08-29T15:20:00Z
-    webUrl: "https://www.foodbusinessnews.net/articles/24537-using-artificial-intelligence-to-write-a-business-plan"
-    type: article
-    provider:
-      name: FoodBusinessNews
-      domain: foodbusinessnews.net
-    quality: 37
-    images:
-      - url: "https://www.foodbusinessnews.net/ext/resources/2023/08/29/AI_Lead-AdSt-Tierney.jpg?height=635&t=1693322208&width=1200"
-        width: 953
-        height: 635
-        isCached: true
   - title: "HCA partners with Google Cloud to use artificial intelligence in its hospitals"
     excerpt: "This week, the companies announced a new collaboration to improve nurse and physician workflow using generative artificial intelligence. HCA launched a pilot program in four of its hospitals this year. The program uses Google Cloud’s AI technology and ..."
     publishedDateTime: 2023-08-30T16:55:00Z
@@ -207,6 +177,6 @@ related:
       domain: hindustantimes.com
     quality: 17
 
-secured: "/G/2XkZ60TkrMTlwhLvBJX63oWW1KITgKV1f4xdK4UTNKSHXFcQ2HdBWcyM8jv1VtPJqKZUcImil2r2rVdVWl0rSh1kMustVNZykxH95ZrUGPGOQaxzKP/Qjlwz3NiXC9Gnjpg6WtbheELR+ZnPUyqBKDryFh0rZTZKwJDukgYHHEgsx1raTUbD5/svSKL09+POVDbP7/nqcIgUA6kmMAn9125oi3gvXD7J/zFJd+FI09jBXWyczs29I0HphFVgzlO6PUEP+J1fQd2wSHCJl35SPqcxh5FSIL8qQGSdWemXZAyE5NxoAPMQsbDBf5eyI2C6xLZ189hzPxCQVDXsuJ2jGNDKBi/RzLHoO7UMvIdU=;RZEnCAwfm/+CrZXDkPl45Q=="
+secured: "huSCgSKgct00lbvuc9uy//r6deiDFj9YGUKLi4edoOg3jlFhBg6o04w+v/618EK8r5keR1Wz1sMgiAsxppl0GYmmh9P0Vuxw9+m7DBqUFBvd0TUFXJ3hZ4h7kDw27EUTmrtywxwdbPDxt7/XfmsXTWoV1sfDwk2zLz8rK1Hvu3D1xIQozbj+zvHswkPbOSy0NAOsAD8CLuj6ENAf0623aJUiFMkeeqdkJAGVBZ4pI++Co2BM3nQ0nhjyhb6kSUN0h1UwvaotEbNQRuj97O4JN+Di/dLXjZLDn5egH3hlE6TEFCIBqcMnFW2IFaZN1yv2pKwgavyaSFjUTSRZhkdJ+1V38BRAX1ni8dLeEzBeIYubOq3Bk64Jz5sgl3OQIYhBnaX0vWryu1bOViClJnWS/GYwIxLNmmzCOI6DtfMPTnFktXwIBPqVKY+0TCEL2YXdGhAi7xkfO8Ayz75qbnctVhMXob7mvlMayocEM9R7/x7DJ75kqmcP1XgdTEKKs46UjSx9Ql2kilCrRnVPBMFKLw==;YEkvFzaQhicJMdWSnqUmxw=="
 ---
 

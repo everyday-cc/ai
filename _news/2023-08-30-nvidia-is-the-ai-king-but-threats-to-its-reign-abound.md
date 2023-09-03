@@ -301,22 +301,6 @@ related:
         width: 1200
         height: 450
         isCached: true
-  - title: "Google Cloud and NVIDIA Expand Partnership to Advance AI Computing, Software and Services"
-    excerpt: "Google Cloud Next -- Google Cloud and NVIDIA today announced new AI infrastructure and software for customers to build and deploy massive models for generative AI and"
-    publishedDateTime: 2023-08-29T16:44:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/g34097306/google-cloud-and-nvidia-expand-partnership-to-advance-ai-computing-software-and-services"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34097306"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34097306"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 50
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "US restricts exports of some Nvidia chips to Middle East countries -filing"
     excerpt: "\"During the second quarter of fiscal year 2024, the USG (U.S. government) informed us of an additional licensing requirement for a subset of A100 and H100 products destined to certain customers and other regions,"
     publishedDateTime: 2023-08-30T21:40:00Z

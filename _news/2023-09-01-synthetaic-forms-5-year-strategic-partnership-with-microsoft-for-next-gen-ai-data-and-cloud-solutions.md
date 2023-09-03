@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/this-just-in/synthetaic-forms-5-year-stra
 webUrl: "https://www.datanami.com/this-just-in/synthetaic-forms-5-year-strategic-partnership-with-microsoft-for-next-gen-ai-data-and-cloud-solutions/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,31 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Delafield-based AI startup Synthetaic announces strategic partnership with Microsoft"
-    excerpt: "Delafield-based artificial intelligence startup Synthetaic announced this week a new strategic partnership with Microsoft."
-    publishedDateTime: 2023-08-29T16:44:00Z
-    webUrl: "https://biztimes.com/delafield-based-ai-startup-synthetaic-announces-strategic-partnership-with-microsoft/"
-    ampWebUrl: "https://biztimes.com/delafield-based-ai-startup-synthetaic-announces-strategic-partnership-with-microsoft/?amp"
-    cdnAmpWebUrl: "https://biztimes-com.cdn.ampproject.org/c/s/biztimes.com/delafield-based-ai-startup-synthetaic-announces-strategic-partnership-with-microsoft/?amp"
+  - title: "EY unveils over 20 new tech capabilities in its Assurance sector through its $1b partnership with Microsoft in the first year"
+    excerpt: "Business - The EY organization today announces an expansion of its collaboration with Microsoft, as the EY organization completes the first 12 months of a four-year"
+    publishedDateTime: 2023-09-01T11:27:00Z
+    webUrl: "https://business-review.eu/business/ey-unveils-over-20-new-tech-capabilities-in-its-assurance-sector-through-its-1b-partnership-with-microsoft-in-the-first-year-251110"
     type: article
     provider:
-      name: BizTimes
-      domain: biztimes.com
-    quality: 67
+      name: business-review.eu
+      domain: business-review.eu
+    quality: 12
     images:
-      - url: "https://assets.biztimes.com/2023/04/News-Interview-Corey-Synthetaic-0053.jpg"
-        width: 1280
-        height: 720
+      - url: "https://business-review.eu/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-01-at-2.24.13-PM.jpeg"
+        width: 1600
+        height: 1066
         isCached: true
-  - title: "AI Startup Incantio Announces Partnership with APM Music"
-    excerpt: "Incantio, a music technology startup, is excited to announce a new partnership with ... I am pleased to announce a new partnership with Seattle-based Incantio, an AI company whose founder is coming into the tech space after a long career in the music ..."
-    publishedDateTime: 2023-08-30T17:25:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/n34121382/ai-startup-incantio-announces-partnership-with-apm-music"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 17
 
 secured: "asHCZ992/m8ExrnFccKL1YrkSfMN7oIp3j+R6R9pgtrzYZraZ5dU2cpG2vWJJKC7YTj4ptKqcbmX6ZUoBJKlJys4SFLJEDmsF/iVRpMMBD+JUWfHGMl32He7vYef0G0SEmQy9FJk/rGwGVWwE7Tk37FXhzJwqphewKzwn8LnOAR6+CUnQoqU8UWRbhEuXTJv8bXfQrDyyxerpx31XgL1K9uu5FdSwgLpGNeqtRtYNNfzbDndumcfhn5P2b0a7nRfWinFvoJ8bn/5DCQpiUb4piVvySar4NELMU+r9l9Uzv4NR/+KNdkV/H3TYGncvTsa7z33RP0tC8b5pP6v9+UZCm5f0mzDAxPSvKyv1mwzPpIZBSL6+JoCoHlhWoZqmg7xVA9Absdp0VQf30h/R4bRQG10UR26S8Vh7R0MPPmnc0yjqLujVzLo3doRP+nlZMKm2xu1IV5LZbbCyMZD3LOgQidLS4DgCU+8ion7egwxrvXgNeWMsBEGYlskcSuXqOtGlB097TUJSgVW3+WQ4IU7uA==;3ee558J/MAqtqnjcsT8hWg=="
 ---

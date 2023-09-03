@@ -42,6 +42,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Fintech startup Stripe integrating OpenAI's new GPT-4 AI – Reuters"
+    excerpt: "Small toy figures are seen in front of Stripe logo in this illustration picture taken March 15, 2021. REUTERS/Dado Ruvic/Illustration/File Photo Acquire Licensing Rights SAN FRANCISCO, March 15 – Fintech startup Stripe is starting to integrate OpenAI's latest GPT-4 artificial intelligence model into its digital payment processing and other products,"
+    publishedDateTime: 2023-09-01T15:13:00Z
+    webUrl: "https://www.inferse.com/700826/fintech-startup-stripe-integrating-openais-new-gpt-4-ai-reuters/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 39
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/09/wp-header-logo-164.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Navigating The Future Of Banking: A Look At The Top Fintech Innovations"
     excerpt: "Welcome to the future of banking where financial technology, or fintech, is revolutionizing the way we manage our money. From mobile banking apps to cryptocurrency advancements, there’s no denying that digital innovation is reshaping the entire industry."
     publishedDateTime: 2023-09-02T08:48:00Z
@@ -56,36 +70,15 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "Governments, Fintech Centers Focused on Reviving Tech Sector Globally, Report Reveals"
-    excerpt: "a review compiled by The EDGE Global AI & Web3 Investment Summit shows. According to audit company KPMG, total funding and the number of fintech deals “dropped from US$63.2 billion in H2 2022 across 2,885 deals to US$52.4 billion across 2,153 deals in H1 ..."
-    publishedDateTime: 2023-08-29T17:01:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/08/212123-governments-fintech-centers-focused-on-reviving-tech-sector-globally-report-reveals/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/08/212123-governments-fintech-centers-focused-on-reviving-tech-sector-globally-report-reveals/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/08/212123-governments-fintech-centers-focused-on-reviving-tech-sector-globally-report-reveals/amp/"
+  - title: "AI in Fintech Has Been Slow to Start, But Look for a Second Phase of Investment Opportunities"
+    excerpt: "The emergence of generative AI could yield the largest transformation the financial services market has seen in decades. From Microsoft to Google to Amex, everyone seems to be betting big on AI."
+    publishedDateTime: 2023-08-31T18:24:00Z
+    webUrl: "https://www.nasdaq.com/articles/ai-in-fintech-has-been-slow-to-start-but-look-for-a-second-phase-of-investment"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 37
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/12/Talk-Proclaim-Declare-Announce-News-Speak-Information.jpeg"
-        width: 1920
-        height: 1712
-        isCached: true
-  - title: "Pursuing FinTech growth in Southeast Asia: 4 trends on the radar"
-    excerpt: "While FinTech can be a powerful force for accelerating the transition to a green economy, Griffiths acknowledges that there has been mixed progress in sustainability across Southeast Asian markets. One stumbling block is companies’ ability to track their progress in a manner that is “robust, auditable, and transparent”, he said."
-    publishedDateTime: 2023-08-29T15:12:00Z
-    webUrl: "https://britcham.org.sg/news/pursuing-fintech-growth-southeast-asia-4-trends-radar-2"
-    type: article
-    provider:
-      name: britcham.org.sg
-      domain: britcham.org.sg
-    quality: 24
-    images:
-      - url: "https://britcham.org.sg/sites/default/files/inline-images/pursuing-fintech-growth-in-southeast-asia-4-trends-on-the-radar-content-1.jpg"
-        width: 770
-        height: 550
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 36
   - title: "Top 5 Factors Transforming Fintech into a $700B Industry"
     excerpt: "Technology has become an absolute necessity in the financial services industry in the 21st century. Integrating enterprising tech with crucial and sensitive financial processes and operations leads to better overall efficiency,"
     publishedDateTime: 2023-09-01T10:57:00Z

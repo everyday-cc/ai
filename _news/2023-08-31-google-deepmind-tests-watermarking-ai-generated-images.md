@@ -79,22 +79,6 @@ related:
         width: 1400
         height: 957
         isCached: true
-  - title: "Why Generative AI Political Ads Are An Opportunity To Bring AI Literacy To Everyone"
-    excerpt: "The FEC voted recently to open public comment on how to regulate generative AI political ads. But news organizations need to learn about reporting on these ads. This is their opportunity. This is a great start, and news outlets can do more. The key ..."
-    publishedDateTime: 2023-08-29T16:11:00Z
-    webUrl: "https://www.forbes.com/sites/subramaniamvincent/2023/08/29/why-generative-ai-political-ads-are-an-opportunity-to-bring-ai-literacy-to-everyone/"
-    ampWebUrl: "https://www.forbes.com/sites/subramaniamvincent/2023/08/29/why-generative-ai-political-ads-are-an-opportunity-to-bring-ai-literacy-to-everyone/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/subramaniamvincent/2023/08/29/why-generative-ai-political-ads-are-an-opportunity-to-bring-ai-literacy-to-everyone/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64e91ee2c0cc4d4f8b4af6c3/0x0.jpg?format=jpg&crop=2999,1688,x0,y71,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AI in the Workplace"
     excerpt: "As employers increasingly adopt artificial intelligence (AI) tools to help make hiring decisions and perform other workplace functions, they must assess how to make the most of technological developments while remaining compliant with legal and regulatory requirements."
     publishedDateTime: 2023-09-01T03:21:00Z
@@ -247,15 +231,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 17
-  - title: "AI21 Labs Collaborates with Google Cloud to Integrate Generative AI Capabilities with BigQuery"
-    excerpt: "Leading AI research startup, running on Google Cloud's AI/ML infrastructure, to bring industry-specific generative AI capabilities to BigQuery As a result of AI21 Labs' and Google Cloud's collaboration,"
-    publishedDateTime: 2023-08-29T15:52:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/29/9871466.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 7
 
 secured: "Egy1OfdVOgXflsE2Qm7CWTsvTxWt/8RAqYV6ypE9FbwPGsNyxQjOFxQz5GKULyjRgBfIKJ9MI3OzTQm55c28KdKQ/FY01VZVivy1XCgDyyYakBHMU4sfZV8NpZOSZjDZlB8yMXEtWhAegZuVolWGYbIMeal22YSo5YOx7VlgNu/Eu4UgHQi690PHp0Ggv1ku2EMGD7L/YfSpK31CvBTnyjW2i1pR1iPLrbbNcde05QKJ+GKoXED+UOJv6Y5CiNwykZiOUnejKzVpa7fkYfTiZbQtz38uMnLbI8+3zoaQvo8gdd4zKTES/UweD038Vkjo8sfjyF1XZLVNgIDIRqnnR+5DgpqQM0YaEWyHMjSLclYMHbc2jr3hljKl84rT/lSNO7MzJBTa/dHgFpqp8OWaMGd5Hjgvo5TPGeUM0a6hDXyTLwaUXnXK8AMwzNDooPG0nbgnLSiwVqa2+0mulxqhGyZW4iLLKMQioccssb1954lxF9UHRqHi4p/0ejrEExREhq+A7RKg8O4ze6xT5ZezJQ==;fSSi9aMWTx8xq54cMNzFwQ=="
 ---

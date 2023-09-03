@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/29/techcrunch-disrupt-2023-startup-ba
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/29/techcrunch-disrupt-2023-startup-battlefield-200-ai-and-security-edition/amp/"
 type: article
 quality: 103
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Explore the complete Fintech Stage agenda at TechCrunch Disrupt 2023"
-    excerpt: "And yet, the world of fintech is an ever-evolving one with entrepreneurs trying ... doubling down their web3 strategies as other VCs look to other horizons (ahem, AI). Arianna Simpson is a general partner deploying capital for a16z’s multi-billion ..."
-    publishedDateTime: 2023-08-29T16:00:00Z
-    webUrl: "https://techcrunch.com/2023/08/29/explore-the-complete-fintech-stage-agenda-at-techcrunch-disrupt-2023/"
-    ampWebUrl: "https://techcrunch.com/2023/08/29/explore-the-complete-fintech-stage-agenda-at-techcrunch-disrupt-2023/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/29/explore-the-complete-fintech-stage-agenda-at-techcrunch-disrupt-2023/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/08/Fintech-Stage-Article-Image-Header-1920x1080@2x.jpg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Announcing the complete AI Stage agenda at TechCrunch Disrupt 2023"
     excerpt: "In the next year, many of those applications will start to run on phones and PCs rather than in ... Navigating the Evolving Landscape of Robotics, AI and Self-Driving Cars What’s happening in robotics, artificial intelligence and autonomous navigation?"
     publishedDateTime: 2023-08-29T19:01:00Z

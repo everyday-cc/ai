@@ -75,15 +75,6 @@ related:
         width: 500
         height: 313
         isCached: true
-  - title: "Ericsson, AWS and Hitachi buddy up for 5G smart factory trial"
-    excerpt: "Kit vendor Ericsson and cloud giant AWS teamed up to build a 5G powered machine vision system in a Hitachi factory to help spot defects in the production line."
-    publishedDateTime: 2023-08-29T16:15:00Z
-    webUrl: "https://telecoms.com/523337/ericsson-aws-and-hitachi-buddy-up-for-5g-smart-factory-trial/"
-    type: article
-    provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 19
 
 secured: "e4iuOYXG4JfJsR7fc3qPdNh8U5o8KY2DF1SYeC0j52vDU43B92XGDP2+9A+ALdSA6ZXMbryQcWGzaLrrgaDR5ZNoyLjYIlLMN3ENnlJMJcKlNC7kL6m0YRtX1mbs4te041uiCSbO8zWd26XbV0RxJoCBTHQkFJwHJ2WuYdFGm3oVDR/MYN/6VQVTfLc6DN8bqPdbWHN6AH6f4QfEVsrRxN4rsffO/2XdiJaM96FmKbjFKIiz1+C1ESAKVJYR74xFtUHk6fZFny4apx6IzEayMhdphQCU91YAgM3ZXihmKMCYWa97QmgNtY77Jg0uQNXcYm0hnKzS6rAgbFKQPn6EpXe9zQsTABJg6smrUhfzUOvRjAFQ2TTN1h8xQl2CQn2OTptfkY0Dg3ryq8N5SnrVeJb0CIITTcp8nXaHVI1CH2wUaXz16zP0LYHpn5Rx/srotwZMYIwaP7SR+aCxEYCtzEUohONQiAFRiISylwZob1i5UhDQNYD4vKFwvh8Oxj1GhIjuhpLnqL7gD6j6SJRvhQ==;THaHTZPGB464SE8ja43zDA=="
 ---

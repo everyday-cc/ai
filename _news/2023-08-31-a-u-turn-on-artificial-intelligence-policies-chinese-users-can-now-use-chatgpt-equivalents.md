@@ -34,22 +34,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How this simple ChatGPT prompt tweak can help refine your AI-generated content"
-    excerpt: "For example, you can ask ChatGPT to output content in a way that a five-year-old would understand. Although that description isn't specifically a tone, it will simplify the response to align better with your needs if your needs include explaining something to a child."
-    publishedDateTime: 2023-08-29T16:33:00Z
-    webUrl: "https://www.zdnet.com/article/how-this-simple-chatgpt-prompt-tweak-can-help-refine-your-ai-generated-content/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-this-simple-chatgpt-prompt-tweak-can-help-refine-your-ai-generated-content/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-this-simple-chatgpt-prompt-tweak-can-help-refine-your-ai-generated-content/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 83
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/53ccbf82c9fd5ecdd65d1993cd16cc4b0bd06352/2023/08/29/bcf87746-8de9-406a-aa93-54eeb647ed85/gettyimages-1344617573.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "Y5lgcxScBuQLTj5MBQMW4q5ME2u+YPymmL7nv0wsgBHRvhmO/hLoLc1yvdcIIZehR6QBvEaa25vqSQ6B1CWFE7bteFaJCZS7TpsZGm8Qlow9PfIlMe2/YRuwm3ADk1JBh8dQtEV4EAXoHwvk2Xtheo93A+sbIu88t2T5e9SeRk3mow4uzeK3VqK2TyvGH6fNPJ8fBJT1pfbKu2xvLdQZfA0vi+6m8rVTMj2h4ab2zdi3y12CojyxrlncSH5AUw4qQdxKI99yyGygFFMoNXzeJ7znU5Kyr5DnOD/aiQ8tz3UUQqfWfX+ieVm12UNHkRLqJyHnacN4qD8tF+tXS0z6+dSlqcWzahxFkqQReXeVMm70nEPtS3o4XMvYd+njhzfXYc3l1TpjeM8wJ3issxJz9P0OgwqaY92RVhGYSOO9VI7W5lASRI2O0UA8Wd/jldKviz3xqthexpofhWdL1eeQhdW8JFnxxsAoNkdSfLKDepDue+ISO1upDKQNV6XWNwY5fpHUUiCxvndb1UBNWIV2/g==;0igA4Q3WzLxftLi6ZVlr3Q=="
 ---

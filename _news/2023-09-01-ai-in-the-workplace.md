@@ -89,22 +89,6 @@ related:
         width: 1400
         height: 957
         isCached: true
-  - title: "Why Generative AI Political Ads Are An Opportunity To Bring AI Literacy To Everyone"
-    excerpt: "The FEC voted recently to open public comment on how to regulate generative AI political ads. But news organizations need to learn about reporting on these ads. This is their opportunity. This is a great start, and news outlets can do more. The key ..."
-    publishedDateTime: 2023-08-29T16:11:00Z
-    webUrl: "https://www.forbes.com/sites/subramaniamvincent/2023/08/29/why-generative-ai-political-ads-are-an-opportunity-to-bring-ai-literacy-to-everyone/"
-    ampWebUrl: "https://www.forbes.com/sites/subramaniamvincent/2023/08/29/why-generative-ai-political-ads-are-an-opportunity-to-bring-ai-literacy-to-everyone/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/subramaniamvincent/2023/08/29/why-generative-ai-political-ads-are-an-opportunity-to-bring-ai-literacy-to-everyone/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64e91ee2c0cc4d4f8b4af6c3/0x0.jpg?format=jpg&crop=2999,1688,x0,y71,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Generative AI and Foundation Models Face Inflated Expectations"
     excerpt: "Computer vision and cloud AI services are among the most mature applications of AI, according to Gartner's 2023 AI Hype Cycle."
     publishedDateTime: 2023-08-31T17:08:00Z
@@ -252,15 +236,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 17
-  - title: "AI21 Labs Collaborates with Google Cloud to Integrate Generative AI Capabilities with BigQuery"
-    excerpt: "Leading AI research startup, running on Google Cloud's AI/ML infrastructure, to bring industry-specific generative AI capabilities to BigQuery As a result of AI21 Labs' and Google Cloud's collaboration,"
-    publishedDateTime: 2023-08-29T15:52:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/08/29/9871466.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 7
 
 secured: "zZ6TxQ43oj3FZI4zYQ3/pJm2RRg3gsAqB4DQhrCCnl6ru8n8sgXW43lvkhdKhpB8ZJNArV0Lqp1agDkdxTQ8EgWTfsJYEwirmKzoefy9iXd4NRbnfWqNy8RGRCxpWTJ38OodKhIhSx/UD2zheJcHH0TcW+nAHK0Ho5ZJ02UJYrdWj5PXEOLCfY09zFMdtduGhp1C8Wl7Fnp3HVWHDuKQIKzipGLgXRMRywiD3GNnwXHehS6nfAYzhQjHcQKQPLiFtSp4OAzSvTwF/IlWRxKODSsdRPLMLh/vPyMJRlNKZNlm9wH8XdAPO3JnfZlBJOi3UP0gcFhbtCkMsTXq5KGkf5AmbUkLDrOFAjDAkUH41nb7wgZiAVK2IjTOS0OAfy1SfSkux1ozE9qJxbzCFJfR9IdBG4DFEzRmHBxoDuBlv3UDAxf8fa69IftbO/onRAvU1CPRF9twPH90zBgHB891yTLh99RqMHJ3h3ilBN0oZVzcd97bFmMtugwxplX2MVOjPWTz0Qnb/TJDu2G8HEVhfQ==;TW/5VaXZJQf2dUjdbjUmaQ=="
 ---

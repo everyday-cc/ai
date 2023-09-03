@@ -35,20 +35,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 26
-  - title: "Pioneering technological research in our Computer Science Department"
-    excerpt: "Our Computer Science Department is one of the top ranked in the UK and we are at the forefront of next generation innovation.  Our research projects are having a world-changing impact. Our research is paving the way on new technological development that allows cars to be driven autonomously on public roads."
-    publishedDateTime: 2023-08-29T15:21:00Z
-    webUrl: "https://www.dur.ac.uk/news-events/latest-news/2023/08/pioneering-technological-research-in-our-computer-science-department/"
-    type: article
-    provider:
-      name: dur.ac.uk
-      domain: dur.ac.uk
-    quality: 24
-    images:
-      - url: "https://i3.ytimg.com/vi/qDWpEnYxZDk/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
   - title: "AMD shares tech behind confidential computing in the cloud"
     excerpt: "AMD has published the source code for AMD Secure Encrypted Virtualization (SEV) technology, the backbone of AMD EPYCTM processor-based confidential computing virtual machines (VMs) available from cloud service providers including Amazon Web Services (AWS),"
     publishedDateTime: 2023-08-31T09:29:00Z

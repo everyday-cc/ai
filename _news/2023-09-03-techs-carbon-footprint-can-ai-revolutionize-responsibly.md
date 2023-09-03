@@ -1,29 +1,31 @@
 ---
 category: news
-title: "Tech’s carbon footprint: can AI revolutionize responsibly?"
+title: "Tech's carbon footprint: can AI revolutionize responsibly?"
 excerpt: "Across the globe, data servers are humming, consuming both megawatts and precious natural resources to bring life to our digital world."
-publishedDateTime: 2023-09-03T06:52:00Z
-originalUrl: "https://www.macaubusiness.com/techs-carbon-footprint-can-ai-revolutionize-responsibly/"
-webUrl: "https://www.macaubusiness.com/techs-carbon-footprint-can-ai-revolutionize-responsibly/"
+publishedDateTime: 2023-09-03T09:06:00Z
+originalUrl: "https://techxplore.com/news/2023-09-tech-carbon-footprint-ai-revolutionize.html"
+webUrl: "https://techxplore.com/news/2023-09-tech-carbon-footprint-ai-revolutionize.html"
+ampWebUrl: "https://techxplore.com/news/2023-09-tech-carbon-footprint-ai-revolutionize.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-tech-carbon-footprint-ai-revolutionize.amp"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: Macau Business
-  domain: macaubusiness.com
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://mbusiness.sgp1.digitaloceanspaces.com/2019/12/Grand_Hyatt_Macau_logo3.png"
-    width: 516
-    height: 516
+  - url: "https://scx2.b-cdn.net/gfx/news/2023/the-transformation-of.jpg"
+    width: 1280
+    height: 852
     isCached: true
 
-secured: "YSeFCVmIjYzPGiW2P52cVCA46LEtMXu2ZA3Pa2HYmjBPTFk0LYSmdJjEgf4bhE4nRBrkW8Kef0/RHxQbYppC9imAHoPajSVPOdThB9E/PaWgGlY1UTmsmASG+SydVQk4kPwgPUPjtD+kYTfr8No5giXp308KFV8K1XD1EDaaNksRE4qav7eXiSUtvTne9K1mTc/5BlwEyo9xHjSr5990tVpCUElCG3BZEclDaZ5BFeyATRZZBsMDrc/Wohk1ebFAKwUq8iP+mLIfmJwgYUjxESSRzQdf8DZqRHhVGWon91eRGiKv4urFl+EngWBg+peWKTUHlw0p96OLsx7i8YrUVLlHtIx95mDui63Ej+LwPGE=;T2jTadaX669salFTc+bzKg=="
+secured: "knGonGMrI08dlvu7c/0vcXdxHHSO2YnNGyhJTaVaaOmpkxgGgpuwGU920D8Qu5XHHKAcUdhG1iEm2UFQmWXn5nmkFcw6Ao3Xv1PGHt2l9WGCB1ZG9d7L+PNoPTnkoDzFRQTtXgQJQoKvl8ybAzCrOCmXtA2xGNwWupgcUB1uwy+gWjSnKKDB+vahjUIo0YS9DmRpCYw5Lsrmg+5GD0ige98umiiOEXpbOFFnBuYh9KhOp3AtDHw7NUGEMTMvk3VF9s9bCgQIsw2swY4jxM0C7Kx61B+XBWBZlOIULiC6JdIXG+96eo4SmCW3PZitfJG1FKErkGXwRwa1zQTnbaXg7abXG5eCjqG+r3a4VOhygbY=;arOW2SZg7LsmkHdpuMERDA=="
 ---
 

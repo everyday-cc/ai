@@ -25,36 +25,110 @@ images:
     isCached: true
 
 related:
-  - title: "AI bros are at war over declarations that Google's upcoming Gemini AI model smashes OpenAI's GPT-4"
-    excerpt: "Declarations that Google's upcoming Gemini AI model outflanks OpenAI's GPT-4 set the tech world alight."
-    publishedDateTime: 2023-08-29T16:07:00Z
-    webUrl: "https://www.businessinsider.com/google-gemini-ai-model-smashes-gpt4-says-semianalysis-2023-8"
-    ampWebUrl: "https://www.businessinsider.com/google-gemini-ai-model-smashes-gpt4-says-semianalysis-2023-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-gemini-ai-model-smashes-gpt4-says-semianalysis-2023-8?amp"
+  - title: "AI and ML are Playing Defining Role in Driving Fintech Automation, Says STX Next"
+    excerpt: "AI and ML algorithms that can process large quantities of data are delivering increased efficiency, scalability and accuracy for fintechs pioneering the technology Artificial intelligence (AI) and machine learning (ML) adoption is increasing across virtually every industry,"
+    publishedDateTime: 2023-08-30T10:35:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/ai-and-ml-are-playing-defining-role-driving-fintech-automation-says-stx"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 75
+      name: Financial IT
+      domain: financialit.net
+    quality: 51
     images:
-      - url: "https://i.insider.com/64edd5319664cf0019e7f4fa?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://financialit.net/sites/default/files/stxnext.png"
+        width: 1366
+        height: 768
         isCached: true
-  - title: "OpenAI release a ChatGPT teachers guide on teaching with AI"
-    excerpt: "OpenAI has announced the release of a new ChatGPT teachers guide it has created to help teachers design lesson plans and more. The guide has"
-    publishedDateTime: 2023-09-01T05:56:00Z
-    webUrl: "https://www.geeky-gadgets.com/chatgpt-teachers-guide-by-openai/"
+  - title: "Engineering firms lose out to fintech and IT in recruitment war"
+    excerpt: "Work is needed to counter the ‘oily’ image of jobs for engineers, and stop the digital sector from luring the best graduates"
+    publishedDateTime: 2023-09-02T14:00:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/sep/02/engineering-firms-lose-out-to-fintech-and-it-in-recruitment-war"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/sep/02/engineering-firms-lose-out-to-fintech-and-it-in-recruitment-war"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/sep/02/engineering-firms-lose-out-to-fintech-and-it-in-recruitment-war"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
+      name: The Guardian
+      domain: theguardian.com
+    quality: 44
+    images:
+      - url: "https://i.guim.co.uk/img/media/dc6469d366c4c5175bd3ed85f73df9333723eb49/0_372_5721_3433/master/5721.jpg?width=620&quality=85&auto=format&fit=max&s=36b849965fa2dfb1180e0001dd1a271b"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Navigating The Future Of Banking: A Look At The Top Fintech Innovations"
+    excerpt: "Welcome to the future of banking where financial technology, or fintech, is revolutionizing the way we manage our money. From mobile banking apps to cryptocurrency advancements, there’s no denying that digital innovation is reshaping the entire industry."
+    publishedDateTime: 2023-09-02T08:48:00Z
+    webUrl: "https://techbullion.com/navigating-the-future-of-banking-a-look-at-the-top-fintech-innovations/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
     quality: 39
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/OpenAI-release-a-ChatGPT-teachers-guide-on-AI.jpg"
-        width: 700
-        height: 466
+      - url: "https://techbullion.com/wp-content/uploads/2023/09/Bitcoin.jpg"
+        width: 1000
+        height: 500
         isCached: true
+  - title: "AI in Fintech Has Been Slow to Start, But Look for a Second Phase of Investment Opportunities"
+    excerpt: "The emergence of generative AI could yield the largest transformation the financial services market has seen in decades. From Microsoft to Google to Amex, everyone seems to be betting big on AI."
+    publishedDateTime: 2023-08-31T18:24:00Z
+    webUrl: "https://www.nasdaq.com/articles/ai-in-fintech-has-been-slow-to-start-but-look-for-a-second-phase-of-investment"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 36
+  - title: "Top 5 Factors Transforming Fintech into a $700B Industry"
+    excerpt: "Technology has become an absolute necessity in the financial services industry in the 21st century. Integrating enterprising tech with crucial and sensitive financial processes and operations leads to better overall efficiency,"
+    publishedDateTime: 2023-09-01T10:57:00Z
+    webUrl: "https://techbullion.com/top-5-factors-transforming-fintech-into-a-700b-industry/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 24
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/09/new-blog-.jpg"
+        width: 780
+        height: 520
+        isCached: true
+  - title: "Banking Revolution In Action: Kimberly Rosales Delves Into How Fintech Is Reshaping The Financial Landscape"
+    excerpt: "Rosales underscores how FinTech is placing customer experiences at the forefront. Innovative digital interfaces, personalized services and AI-driven chatbots are enhancing interactions and providing customers with convenient and user-friendly banking ..."
+    publishedDateTime: 2023-08-29T21:41:00Z
+    webUrl: "https://menafn.com/1106982515/Banking-Revolution-In-Action-Kimberly-Rosales-Delves-Into-How-Fintech-Is-Reshaping-The-Financial-Landscape"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 21
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?708748"
+        width: 429
+        height: 250
+        isCached: true
+  - title: "Leaders in Lending | Ep. 122: Combating financial fraud – Fintech’s game-changing role"
+    excerpt: "For so long, new tech has been utilized by fraud artists, costing many unsuspecting victims countless dollars. Now, AI tools and strong fintech"
+    publishedDateTime: 2023-08-30T23:00:00Z
+    webUrl: "https://www.cuinsight.com/leaders-in-lending-ep-122-combating-financial-fraud-fintechs-game-changing-role/"
+    type: article
+    provider:
+      name: CUInsight
+      domain: cuinsight.com
+    quality: 16
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2022/03/Screen-Shot-2022-03-23-at-1.36.05-PM.png"
+        width: 1000
+        height: 500
+        isCached: true
+  - title: "Unveiling the Top Fintech Trends: How Technology is Revolutionizing Financial Services"
+    excerpt: "Are you ready to embark on a journey into the future of finance? From mobile banking to advanced algorithms, technology has been transforming the way we interact with money and manage our finances. In this blog post,"
+    publishedDateTime: 2023-09-01T17:36:00Z
+    webUrl: "https://techbullion.com/unveiling-the-top-fintech-trends-how-technology-is-revolutionizing-financial-services/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 0
 
 secured: "gf8eHywdis+J+EKqKcR/cfRgNQom9OfzuA+fRYNu2sJnuTb5HYpj6txBNGFJD4FAjJr4bD1s8kbQnFXNHZfWzQsN5/KAQvF7ld4DFR6jaqd6gWk501QhvcyMKlzqWqBIMPxhzv4WEEkoTp72mqH4reTbpjxXDrjFfWjLBib0yiQMES72ksa5QwYJjpyI92ww4FnCZhNf5OkAyCEPj23zJeOyXlfL4vl4RX5J1otvf7X7Lm3TCrjDyEHb4Vz8EoSlHYrnQnJjhPlnjuraQyMIC0blddkaGIL6afOyX/2bTdfl1Q9hhGlsDGe6qLUyDkKgj4c/bQ2TmcplW479Uane8e+1v0j0WOlWaQIsQgfI+FCsSe8UXMZrCQNSHD6GAExVKWchRtZ5ywlU+wFckYphnGhUgvm9oWSLTnn7cf6tx4uoseo1Ew3zeytqlqZU+YA8gtetMjlLl7L/Fs3Zs9ckg4SicuQVYbOd3dMr17Q9sHaeOStTTSPk9MeN5wdb+VQphBLJfMPdE+gtXUq3I05VHw==;sQ2le/9NyoKTgUbXYZVeww=="
 ---

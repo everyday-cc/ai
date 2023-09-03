@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-use-claude-ai-and-ho
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-use-claude-ai-and-how-its-different-from-chatgpt/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How this simple ChatGPT prompt tweak can help refine your AI-generated content"
-    excerpt: "For example, you can ask ChatGPT to output content in a way that a five-year-old would understand. Although that description isn't specifically a tone, it will simplify the response to align better with your needs if your needs include explaining something to a child."
-    publishedDateTime: 2023-08-29T16:33:00Z
-    webUrl: "https://www.zdnet.com/article/how-this-simple-chatgpt-prompt-tweak-can-help-refine-your-ai-generated-content/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-this-simple-chatgpt-prompt-tweak-can-help-refine-your-ai-generated-content/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-this-simple-chatgpt-prompt-tweak-can-help-refine-your-ai-generated-content/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 83
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/53ccbf82c9fd5ecdd65d1993cd16cc4b0bd06352/2023/08/29/bcf87746-8de9-406a-aa93-54eeb647ed85/gettyimages-1344617573.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "A U-Turn On Artificial Intelligence Policies? Chinese Users Can Now Use ChatGPT Equivalents"
     excerpt: "China seems to have made a U-turn on its AI policies after granting approval to large language model-empowered services for public use."
     publishedDateTime: 2023-08-31T13:24:00Z

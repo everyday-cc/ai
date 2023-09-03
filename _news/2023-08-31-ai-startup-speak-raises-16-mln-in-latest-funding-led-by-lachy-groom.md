@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/ai-startup-speak-raises-16-mln-la
 webUrl: "https://www.reuters.com/business/ai-startup-speak-raises-16-mln-latest-funding-led-by-lachy-groom-2023-08-31/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "AI Startup Speak Raises $16 Million in Latest Funding Led by Lachy Groom"
+    excerpt: "The funding round, in which existing investor OpenAI Startup Fund and new investors like Dropbox founders Drew Houston and Arash Ferdowsi also participated, brings the total amount of money raised by Speak to $63 million and will help the company's expansion into international markets, it said in a statement."
+    publishedDateTime: 2023-08-31T10:23:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-08-31/ai-startup-speak-raises-16-million-in-latest-funding-led-by-lachy-groom"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 46
 
 secured: "rAyYGZ2zhKIjArQPUebHlGJoXnf6gbN2t+OC7h3DCydF/zeNk58wR8rFyH+pe9rJ1BcmJCSFyX60QVJ04MuxUXUzVceQriuu05byqZswbw3R3oOrh34Dlr8Uaypf0QFhe0ygZPq8UoaCVJCszBoZL0YnPb7eazqFEwLd36/wyvG07Ra6HZ0O/7WdzReMNb2cpCxfb7Ay4vdXz25ejJdS+qN+li+mU3qFGa3+0t4YuR8fSKy5Wu5tI6qcyVBCQtIizBp924LjHsNFgbsaExvOXs37qDdSNYBCNTLNqK5FWkINpuas9IDHM3Fw9n0Th7hoCVX6DKARghrVIp95V5N/X8l0T18Z4zQKuGfzzJqqg94=;dvxzeL5QAbGmmqAWQOlPXg=="
 ---
