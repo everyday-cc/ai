@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2023/08/29/world/australia/voice-aborigina
 webUrl: "https://www.nytimes.com/2023/08/29/world/australia/voice-aboriginal-indigenous.html"
 type: article
 quality: 53
-heat: 143
+heat: 133
 published: true
 
 provider:
@@ -54,22 +54,6 @@ related:
         width: 760
         height: 508
         isCached: true
-  - title: "Australians are voting on creating an Indigenous Voice to Parliament. Here's what you need to know"
-    excerpt: "Australians will vote on Oct. 14 in a referendum that would enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that effect their lives known as th"
-    publishedDateTime: 2023-08-30T02:32:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/australians-voting-creating-indigenous-voice-parliament-102664459"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/australians-voting-creating-indigenous-voice-parliament-102664459"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/australians-voting-creating-indigenous-voice-parliament-102664459"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 30
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
   - title: "What to Know About Australia’s Indigenous ‘Voice to Parliament’ Vote"
     excerpt: "Advocates such as Pat Anderson, one of the architects of the Uluru statement, say enshrining the Voice in the country’s constitution would provide official recognition for “the First Peoples of this beautiful continent of ours.” A poll in April ..."
     publishedDateTime: 2023-08-30T06:48:00Z
@@ -98,19 +82,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Australians to vote October 14 on the Voice, with Albanese urging people to support ‘an idea’"
-    excerpt: "Prime Minister Anthony Albanese announced the long-anticipated date to an enthusiastic audience of about 400 in Adelaide."
-    publishedDateTime: 2023-08-30T02:44:00Z
-    webUrl: "https://theconversation.com/australians-to-vote-october-14-on-the-voice-with-albanese-urging-people-to-support-an-idea-212532"
+  - title: "New poll shows more than half of Australians likely to vote No for the Voice to Parliament, as Labor falls behind Coalition"
+    excerpt: "More than half of Australians will likely vote No to a Voice to Parliament if it were held today, according to a new poll, as the campaign from both sides ramps up this week."
+    publishedDateTime: 2023-09-03T21:14:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/new-poll-shows-more-than-half-of-australians-likely-to-vote-no-for-the-voice-to-parliament-as-labor-falls-behind-coalition/news-story/9b82178b4de45acbfc867623d8f7b63e"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/new-poll-shows-more-than-half-of-australians-likely-to-vote-no-for-the-voice-to-parliament-as-labor-falls-behind-coalition/news-story/9b82178b4de45acbfc867623d8f7b63e?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/new-poll-shows-more-than-half-of-australians-likely-to-vote-no-for-the-voice-to-parliament-as-labor-falls-behind-coalition/news-story/9b82178b4de45acbfc867623d8f7b63e?amp"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 13
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 18
     images:
-      - url: "https://images.theconversation.com/files/545447/original/file-20230830-27-vkynv9.jpg?ixlib=rb-1.1.0&rect=0%2C35%2C2982%2C1491&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
+      - url: "https://content.api.news/v3/images/bin/a672c8ee501120d5d6d43aa7f10fb508"
+        width: 1280
+        height: 720
         isCached: true
   - title: "The Voice key for Indigenous Australian's health"
     excerpt: "Australia will soon vote on constitutional recognition of its Indigenous people, and to give them a direct voice to Parliament. Health will be high on the agenda. Chris McCall reports."

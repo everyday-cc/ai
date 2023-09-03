@@ -110,20 +110,6 @@ related:
         width: 6948
         height: 4634
         isCached: true
-  - title: "Google to add AI models to its cloud platform"
-    excerpt: "Alphabet’s Google is adding artificial intelligence tools from companies including Meta Platforms and Anthropic to its cloud platform, weaving more generative AI into its products and positioning itself as a one-stop shop for cloud customers seeking to tap into the technology."
-    publishedDateTime: 2023-08-30T03:48:00Z
-    webUrl: "https://www.japantimes.co.jp/business/2023/08/30/tech/google-ai-models-meta-anthropic/"
-    type: article
-    provider:
-      name: ジャパンタイムズ
-      domain: japantimes.co.jp
-    quality: 39
-    images:
-      - url: "https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/30/248643.jpg"
-        width: 1000
-        height: 665
-        isCached: true
   - title: "Domo Announces Domo.AI to Advance the Way Businesses Manage and Deploy AI"
     excerpt: "Domo announced Domo.AI, a portfolio of comprehensive and flexible artificial intelligence (AI) services, powered by the"
     publishedDateTime: 2023-08-31T16:03:00Z

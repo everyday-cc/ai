@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-07-07-elon-musk-predicts-self-driving-teslas-later-this-year.md",
+      "title": "Elon Musk predicts self-driving Teslas ‘later this year’",
+      "excerpt": "esla CEO Elon Musk has stated that he believes the company will upgrade its vehicles to fully self-driving in 2023. Speaking via video link at the World Artificial Intelligence Conference in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.standard.co.uk/tech/elon-musk-self-driving-cars-tesla-2023-b1092673.html",
+      "originalUrl": "https://www.standard.co.uk/tech/elon-musk-self-driving-cars-tesla-2023-b1092673.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.standard.co.uk/2023/03/23/11/tesla.jpg?width=1200&width=1200&auto=webp&quality=75",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.standard.co.uk/tech/elon-musk-self-driving-cars-tesla-2023-b1092673.html",
+      "cdnAmpWebUrl": "https://www-standard-co-uk.cdn.ampproject.org/c/s/www.standard.co.uk/tech/elon-musk-self-driving-cars-tesla-2023-b1092673.html",
+      "publishedDateTime": "2023-07-06T19:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "London Evening Standard",
+        "domain": "standard.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-07-volkswagen-will-test-its-driverless-vehicles-in-austin.md",
       "title": "Volkswagen will test its driverless vehicles in Austin",
       "excerpt": "Ten electric, driverless ID. Buzz vans will hit the streets of Austin this year, with the first two being let loose this month, the company said. The test is the first time VW has deployed…",
@@ -1343,50 +1386,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-artificial-intelligence-risks-ethics-and-future.md",
-      "title": "Artificial Intelligence: Risks, Ethics and Future",
-      "excerpt": "With great power comes great responsibility, despite the numerous advantages that AI evolution brings to the world. It could pose profound risks to society if not handled properly. Along with other global/societal risks i.",
-      "sourceUrl": null,
-      "webUrl": "https://dailytimes.com.pk/1108209/artificial-intelligence-risks-ethics-and-future/",
-      "originalUrl": "https://dailytimes.com.pk/1108209/artificial-intelligence-risks-ethics-and-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dailytimes.com.pk/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://dailytimes.com.pk/1108209/artificial-intelligence-risks-ethics-and-future/amp/",
-      "cdnAmpWebUrl": "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/1108209/artificial-intelligence-risks-ethics-and-future/amp/",
-      "publishedDateTime": "2023-06-27T15:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Times",
-        "domain": "dailytimes.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

@@ -3,14 +3,12 @@ category: news
 title: "Artificial Intelligence: NI can be 'testing centre' for new technology"
 excerpt: "Northern Ireland can be a testing centre for artificial intelligence in the UK, according to a group representing the software industry. Belfast-based IT firm Kainos announced it was investing £10m to develop the use of generative AI in its business."
 publishedDateTime: 2023-09-03T05:40:00Z
-originalUrl: "https://www.bbc.com/news/uk-northern-ireland-66662461"
-webUrl: "https://www.bbc.com/news/uk-northern-ireland-66662461"
-ampWebUrl: "https://www.bbc.com/news/uk-northern-ireland-66662461.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-northern-ireland-66662461.amp"
+originalUrl: "https://www.bbc.com/news/uk-northern-ireland-66662461.amp"
+webUrl: "https://www.bbc.com/news/uk-northern-ireland-66662461.amp"
 type: article
-quality: 89
-heat: 99
-published: true
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: BBC
@@ -21,14 +19,7 @@ provider:
       height: 50
 
 topics:
-  - AI Ethics
   - AI
-
-images:
-  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/13039/production/_130718877_gettyimages-1466716029.jpg"
-    width: 1024
-    height: 576
-    isCached: true
 
 related:
   - title: "AI: Technology magnifying human bias"
@@ -46,6 +37,6 @@ related:
         height: 314
         isCached: true
 
-secured: "D7DrQLK57iHq94VvzZyQ1GmoO4/m8If2GfonxIbBMclsP8J23udUCjaQAFAGf7q0kGp9ZjxRDH968yWmemvMqcWcaM/DqrgdNviMmUibbvp9FJHS3h+UmPekWAvMm6o/0aUsgFLWNUvKGz6jabMrNMYuXJcreoZMg9bJbXLM5CGoyojKmCNUAPqg/liH/p6tTNaFO+XQUtdTSdLUS/vKy1A+ITWPJeE9wwTdWgbZ8Fq8qFPjBJ0/leBBQ45QukU9hkhv72Y4dJFqNtc58r/RlFQqbw5nhgCrX9o5C8K976lVQ0nafyK1xTAHOYOw0tcDCH3AvLg6Iy5fnji5VtYEg2C9IiLLuSaYQVNYaYoil+lNk3ysWAxWV9LqBBt+9fihmuzDghd6xoR9YJtE7/XJ0Y8yOdYV6M5Ra2Gx1yEagF5ppQNhXmLEvqpbD7nWdHCFnGPGUqu+UdDrEzBXYPDtACfvE0/jrsP48F59ShQSV9/WtoSUkgmZvrlVDB64PjtH4YHI4t8QCFwLC1Nxv3+hsg==;Qwn4/yXFAi0YMV0bmANtRA=="
+secured: "2Y1Je6xsI7oklVZ+vcCpyBxRv7nrmg+2npH8Roszx4qshlnf4BHHWMs8JcxXjI6Z0rGbcfNOnafsMiJPJTvaYlkQ+3SeT2fmylUUH7gyJ/P2ZiUGj8q4owJPUh8W4eGEhTzuEAJicFCVItUbT2hJrSNER0bhPZv1fbde8tfM6zjk7xk9VgWmxMQpPaw8AwqZQrO8+Ee8tTFKhKvXD8Tl7pDBJ84iOqlxq97J/FuACCHfudpGYpLmVtvNwY4MpiprN3cP5judIe7+1kHwJvO1M1XnwCPfljhNhgTjrc70ET1Y56KK8Uq5mTA62XD6UhNz5KiBFXIPROc1yGRjlW/dLML/SjBnoX5JmkQN7KnmQqt9D7Ee0VKmHIe7PUnF0geeTMgTpmV5ID1pkzMqFfBiIy1sDXu2/6X0D6mg8z6bvfQq2NAcyMXHJgEP+IaEcJH6OS/4Tu0+yuu1TVVZtPljiz3rqqz8aaFJbTaDUyUJne/AEMRIy1WFwIvWV6n/Qs/adrx4UUr3i6+H3uOlqr/3IA==;Bqv5A6c2bzO0YIJsKdAgRQ=="
 ---
 

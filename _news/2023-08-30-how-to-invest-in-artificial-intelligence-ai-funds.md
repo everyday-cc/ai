@@ -6,8 +6,8 @@ publishedDateTime: 2023-08-30T13:17:00Z
 originalUrl: "https://www.forbes.com/uk/advisor/investing/how-to-invest-in-artificial-intelligence-ai-funds/"
 webUrl: "https://www.forbes.com/uk/advisor/investing/how-to-invest-in-artificial-intelligence-ai-funds/"
 type: article
-quality: 84
-heat: 84
+quality: 86
+heat: 86
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/06/AI_image-e1685604386972.jpg"

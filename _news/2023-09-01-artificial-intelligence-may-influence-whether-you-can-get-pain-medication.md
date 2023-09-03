@@ -67,6 +67,15 @@ related:
       name: LAist
       domain: laist.com
     quality: 33
+  - title: "AI May Influence Who Can Get or Prescribe Pain Medication"
+    excerpt: "Share on Facebook. Opens in a new tab or window Share on Twitter ... but the mechanics behind the formulas used are generally not shared with the public. Artificial intelligence (AI) is working its way into more parts of American life."
+    publishedDateTime: 2023-09-03T18:01:00Z
+    webUrl: "https://www.medpagetoday.com/special-reports/features/106145"
+    type: article
+    provider:
+      name: MedPage Today
+      domain: medpagetoday.com
+    quality: 19
 
 secured: "GHxW8M/Bpuiw7qoqX3C9yzjjeM5czSv+6F5BXfrChruYagWTnY5MvLIVPU8iey3TckqBIOQWipWTUoYWeoEMMQWQsB9AXnZDPSwx/5kbjfTyDNNjQpavKGNbN4eC0nKSyPr3ZC/6CBiEGOOMxspytEh+rbUOyKImIIPDZvQFAjTxCDUFQjuH8uXHpXZc5bfYfx0DRj2jlf+yFZw1Aj4NpsD8Cx3jleb+p1rqjp7aXHSZdd1rBaW+rnnFXCwKEgrHqdQH9ZTwYz5F6CnBUKbss2EaO9io2f7E7aaW88SqXQt2yhVPmUgWlYEKOfaBSlUfNhHucHhQySWUHIKJTIzr5SzVLT2HSq3RUIJ0K8wxV2XdK+gpnu3us30l90i8FsR21X8+UeOvjjg6OlnNPlmAzqxIPbumCZ8MkA/9B7OHebtqhdp6HtKRvqqmvDqCtpaQzPCTYkFDN8XCy1hPUrEhnj9tt0yWHJmJNxLkufYbf21y/dGGVjvaVd4qpDXcagVnU/CiP87e9aOWZ8vKMvyCOQ==;70/KcmkfImh14wDMYOdnsQ=="
 ---

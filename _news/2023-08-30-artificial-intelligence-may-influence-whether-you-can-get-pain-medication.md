@@ -67,6 +67,15 @@ related:
       name: phillyvoice.com
       domain: phillyvoice.com
     quality: 33
+  - title: "AI May Influence Who Can Get or Prescribe Pain Medication"
+    excerpt: "Share on Facebook. Opens in a new tab or window Share on Twitter ... but the mechanics behind the formulas used are generally not shared with the public. Artificial intelligence (AI) is working its way into more parts of American life."
+    publishedDateTime: 2023-09-03T18:01:00Z
+    webUrl: "https://www.medpagetoday.com/special-reports/features/106145"
+    type: article
+    provider:
+      name: MedPage Today
+      domain: medpagetoday.com
+    quality: 19
 
 secured: "L0LD7yqeTTUrDf9BzLGXQAgOcvJ0dojUuiFGlQTILixoiatWg2H7KXyvNRHmwGD+jVRYYXfEwvsxVwLaFl8KqZ6H/sAE7/mUcHlMITGgEDKZhEME7sPZn2cYe/NW/XeJ6WW02f1ZQV38oXnHMNy7cnpEh8FOJeFdb/8PjMXpg7BCZ1V3dF85cDlyiBWkJkAaUZ/ZYtbFfGKC1QPciRmjhTExj1owSb285SSuF8RCQTbuMbtIvSq6MGbJqh1hiynWS9fHl/hBzdcKDjEIrHTm0ypCX+mBWLU5yamLqZw/iikcLSh8Wchbaf3ZUShmZ+//xbmywcK4YbyslWgNeK2QyM9EfEgXyYwID3CIiBEc/ZU=;Fek1tQGVJv7uE/r66xJavQ=="
 ---

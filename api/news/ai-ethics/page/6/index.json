@@ -2,58 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2023-06-16-how-two-founders-approach-building-ethical-ai-startups-in-health-care.md",
-      "title": "How two founders approach building ethical AI startups in health care",
-      "excerpt": "The hype around AI will produce a lot of startups built on shaky ethics. But founders already building in the space can offer some advice.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/15/ethical-ai-health-care-startups/",
-      "originalUrl": "https://techcrunch.com/2023/06/15/ethical-ai-health-care-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1474076387.jpg?resize=1200,768",
-          "width": 1200,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-15T14:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2023-06-16-the-vector-ai-research-institute-releases-six-ai-ethical-principles.md",
       "title": "The Vector AI Research Institute Releases Six AI Ethical Principles",
       "excerpt": "This article provides a list of the Vector Institute's updated Ethical AI Principles & a helpful list of other leading institutions researching and advancing Ethical AI.",
@@ -1451,6 +1399,58 @@
         "name": "Diginomica",
         "domain": "diginomica.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-a-swedish-newspaper-is-having-ai-rap-its-articles-in-an-attempt-to-get-young-people-interested-in-the-news.md",
+      "title": "A Swedish newspaper is having AI rap its articles in an attempt to get young people interested in the news",
+      "excerpt": "Other concepts included an AI-driven news therapist and an algorithm that would surprise readers with positive news. Aftonbladet acknowledged the murky ethics of AI-generated content. \"The AI-generated rap is also, as hip-hop tends to be, loaded with some ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/swedish-newspaper-experimented-ai-rap-articles-to-appeal-to-youth-2023-5",
+      "originalUrl": "https://www.businessinsider.com/swedish-newspaper-experimented-ai-rap-articles-to-appeal-to-youth-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/646bd0de63c86a0018cd2f77?width=750&format=jpeg&auto=webp",
+          "width": 750,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/swedish-newspaper-experimented-ai-rap-articles-to-appeal-to-youth-2023-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/swedish-newspaper-experimented-ai-rap-articles-to-appeal-to-youth-2023-5?amp",
+      "publishedDateTime": "2023-05-23T10:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

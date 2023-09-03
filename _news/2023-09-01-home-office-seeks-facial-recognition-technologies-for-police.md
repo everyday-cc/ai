@@ -89,20 +89,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "The Pros & Cons of Facial Recognition"
-    excerpt: "Are advances in facial recognition software a boon or a bane to mankind? Adarsh explores this very topic in detail. Facial recognition is a tool to identify or confirm an individual’s identity in a photograph, video footage or in real time. Like voice ..."
-    publishedDateTime: 2023-08-30T04:18:00Z
-    webUrl: "https://www.sify.com/technology/the-pros-cons-of-facial-recognition/"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 39
-    images:
-      - url: "https://www.sify.com/wp-content/uploads/2023/08/facial_recognition_freepik_1200.jpg"
-        width: 1200
-        height: 574
-        isCached: true
   - title: "Home Office and MoD seeking new facial-recognition tech"
     excerpt: "The UK’s Defence and Security Accelerator is running a ‘market exploration’ exercise on behalf of the Home Office to identify new facial recognition capabilities for security and policing bodies in th"
     publishedDateTime: 2023-08-31T09:15:00Z

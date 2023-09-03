@@ -135,20 +135,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "DeepMind Says It Has a Way to Identify AI Images…but Only on Google"
-    excerpt: "Google’s DeepMind says it has cracked a problem that has vexed those trying to verify whether images are real or created by AI. Researchers proclaimed their new watermarking SynthID format can be used to pinpoint AI-generated deepfakes without distorting ..."
-    publishedDateTime: 2023-08-30T02:00:00Z
-    webUrl: "https://gizmodo.com.au/2023/08/deepmind-says-it-has-a-way-to-identify-ai-images-but-only-on-google/"
-    type: article
-    provider:
-      name: gizmodo
-      domain: gizmodo.com.au
-    quality: 54
-    images:
-      - url: "https://gizmodo.com.au/wp-content/uploads/2023/08/c6ebab563b7a7c1816be76efed12c4d6.png?quality=75"
-        width: 1246
-        height: 701
-        isCached: true
   - title: "Google DeepMind co-founder calls for US to enforce AI standards - FT"
     excerpt: "The US should enforce minimum global standards for the use of AI, and companies should at a minimum agree to abide by the same pledge made by leading AI firms to the White House, Suleyman said. In July,"
     publishedDateTime: 2023-09-01T08:46:00Z

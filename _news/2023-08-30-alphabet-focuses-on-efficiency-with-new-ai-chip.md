@@ -35,22 +35,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Google introduces new AI chip and enhanced tools for enterprise AI solutions"
-    excerpt: "Google introduces new AI technologies and collaborations at the Google Next conference, focusing on accessibility for large enterprises. Announcements include new clients adopting Google's cloud software,"
-    publishedDateTime: 2023-08-30T01:17:00Z
-    webUrl: "https://www.livemint.com/news/world/google-introduces-new-ai-chip-and-enhanced-tools-for-enterprise-ai-solutions-11693356902647.html"
-    ampWebUrl: "https://www.livemint.com/news/world/google-introduces-new-ai-chip-and-enhanced-tools-for-enterprise-ai-solutions/amp-11693356902647.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/google-introduces-new-ai-chip-and-enhanced-tools-for-enterprise-ai-solutions/amp-11693356902647.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 71
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/08/30/600x338/GOOGLE-NEXT-AI-0_1693358010798_1693358041456.JPG"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Meta unveils new tool to detect bias in computer vision AI"
     excerpt: "With more than 30,000 images, Meta said its FACET tool can help developers test whether AI computer vision systems are biased."
     publishedDateTime: 2023-09-01T10:24:00Z

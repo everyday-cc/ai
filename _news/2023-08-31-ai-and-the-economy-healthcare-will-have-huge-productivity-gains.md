@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/billconerly/2023/08/31/ai-and-the-econo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billconerly/2023/08/31/ai-and-the-economy-healthcare-will-have-huge-productivity-gains/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "A quarter of the economy will be impacted by artificial intelligence"
+    excerpt: "."
+    publishedDateTime: 2023-09-03T21:41:00Z
+    webUrl: "https://www.sbs.com.au/news/podcast-episode/a-quarter-of-the-economy-will-be-impacted-by-artificial-intelligence/ugo2f0czt"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 37
+    images:
+      - url: "https://images.sbs.com.au/dims4/default/4b7fda3/2147483647/strip/true/crop/1242x699+0+53/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F8b%2F66%2F439abda94a7ebf878891d4bb38fd%2Fpodcast-sbsnews-shorts-1242x804-2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Economics lecture to explore the pros and cons of artificial intelligence"
     excerpt: "AMES, Iowa – Economist Tyler Cowen will discuss the future of artificial intelligence next week at Iowa State University when he presents the 2023 I.W. Arthur Memorial Lecture."
     publishedDateTime: 2023-08-31T16:09:00Z

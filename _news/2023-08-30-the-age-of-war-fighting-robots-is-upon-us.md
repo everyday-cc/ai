@@ -39,20 +39,6 @@ related:
         width: 1199
         height: 778
         isCached: true
-  - title: "US military plans to unleash thousands of autonomous war robots over next two years"
-    excerpt: "The United States military plans to start using thousands of autonomous weapons systems in the next two years in a bid to counter China’s growing power, US Deputy Secretary of Defense Kathleen Hicks announced in a speech on Monday."
-    publishedDateTime: 2023-08-30T03:18:00Z
-    webUrl: "https://theconversation.com/us-military-plans-to-unleash-thousands-of-autonomous-war-robots-over-next-two-years-212444"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 33
-    images:
-      - url: "https://images.theconversation.com/files/545428/original/file-20230830-19-kg9w8p.jpg?ixlib=rb-1.1.0&rect=0%2C799%2C6676%2C3338&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
-        isCached: true
   - title: "U.S. Military to Unleash Thousands of Autonomous War Robots in the Next Two Years"
     excerpt: "The United States military plans to start using thousands of autonomous weapons systems in the next two years in a bid to counter China’s growing power, US Deputy Secretary of Defense Kathleen H"
     publishedDateTime: 2023-08-31T05:00:00Z

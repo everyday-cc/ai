@@ -41,6 +41,15 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Amazon promo codes for September 2023"
+    excerpt: "Save up to 40% on laptops, desktops, monitors, computer accessories, and more in the Amazon sale Grab your favorites now Amazon Prime is Amazon’s subscription service which gives you access to ..."
+    publishedDateTime: 2023-09-01T22:01:00Z
+    webUrl: "https://www.pcgamer.com/coupons/amazon.com/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 4
 
 secured: "en++c/sPA7KOpoxY6hSefdUNe73G4FoE/kk3i7YGaQMmtEtqWmz5w6Wqgg79fmBEYV/STNShsJbBxhd1ZEGN9o+IQrkXr1iFm9NzfmjtgUdC8U72lNRW88bcQgLB0KxqQ0Lxq45+Nk7abz7GyjBzLhkQRIWlz55Itm+WNacaLmCI8AeV/6cpCLCzH244GXzVWTNCZbmoueT8Ux2LmdFweyJxDb0eU0Aj86bNSc/aFjkJ5XAhDJPnEg9UX/8iZ2Af6eeK7kd+L9feKxTgPCITU4FOItriTo90pogreaTSighWpjq7jnJu34xunrIwyJxfcs5gONMYisib46OMqssBuA82zQCQP+2fyraXvq5FpEihyT4PsMad1cs4ClFTg5YPpUsa5dnp1QHDm8wxLLFPOuUVvyRDRyD6i7uyBdWHHqywbzfmk2zOu3vD629+h6kT4jgx7sWtJbbYDTK4K2z6Wx4HWIQrYZM7HA5AOH6LwKzHSYTffqowfbNX2bYeBDGP1+Ubn84GhtU9iKyF+5CHsw==;Hyl+gBg0/OjFG+cJ5vuIFg=="
 ---

@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Peter Dutton says Coalition will hold Indigenous recognition referendum if voice to parliament vote fails"
+    excerpt: "Opposition leader says constitutional recognition is ‘the right thing to do’ and simple referendum on the issue was ‘fair compromise’"
+    publishedDateTime: 2023-09-03T00:02:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/sep/03/peter-dutton-says-coalition-will-hold-indigenous-recognition-referendum-if-voice-to-parliament-vote-fails"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/sep/03/peter-dutton-says-coalition-will-hold-indigenous-recognition-referendum-if-voice-to-parliament-vote-fails"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/sep/03/peter-dutton-says-coalition-will-hold-indigenous-recognition-referendum-if-voice-to-parliament-vote-fails"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 42
+    images:
+      - url: "https://i.guim.co.uk/img/media/3426697126472ec290281196ecff77b7743048ef/0_261_5823_3495/master/5823.jpg?width=620&quality=85&auto=format&fit=max&s=7469415c206ce4c8eb6e6942e612b9f5"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Australia news live: Littleproud says ‘there’ll be no victory lap’ from Nationals if voice referendum fails"
     excerpt: "Nationals leader backs Peter Dutton’s call to hold a referendum on Indigenous recognition if the voice to parliament vote fails in October. Follow the latest news live More from that chat with Littleproud on the voice. The Nationals leader also said the ..."
     publishedDateTime: 2023-09-03T03:56:00Z
@@ -57,6 +73,52 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "PM announces date for Voice to Parliament referendum"
+    excerpt: "Prime Minister Anthony Albanese announced the date for the referendum on the Voice to Parliament during a visit to Adelaide on Wednesday. On Saturday, October 14, Australians will have their say in a referendum about whether to change the Constitution to recognise the First Peoples of Australia by establishing a body called the Aboriginal and Torres Strait Islander Voice."
+    publishedDateTime: 2023-08-31T23:44:00Z
+    webUrl: "https://narrabricourier.com.au/2023/09/01/pm-announces-date-for-voice-to-parliament-referendum/"
+    type: article
+    provider:
+      name: narrabricourier
+      domain: narrabricourier.com.au
+    quality: 24
+    images:
+      - url: "https://narrabricourier.com.au/wp-content/uploads/2023/09/vote-2042580_1280.png"
+        width: 1280
+        height: 960
+        isCached: true
+  - title: "Peter Dutton pledges new referendum solely on recognition if Voice fails and he wins next Federal election"
+    excerpt: "Opposition leader Peter Dutton has pledged to hold a second referendum solely to enshrine Indigenous people into the constitution if the Voice fails to pass next month."
+    publishedDateTime: 2023-09-03T00:34:00Z
+    webUrl: "https://thewest.com.au/politics/federal-politics/peter-dutton-pledges-new-referendum-solely-on-recognition-if-voice-fails-and-he-wins-next-federal-election-c-11786282"
+    type: article
+    provider:
+      name: The West Australian
+      domain: thewest.com.au
+    quality: 21
+    images:
+      - url: "https://images.thewest.com.au/publication/C-11786282/48d44bf4e2a51a69d8a1ad60cef7904e529b8245-16x9-x0y0w800h450.jpg?imwidth=1200"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Backlash over Dutton’s plan for second referendum if Voice vote fails"
+    excerpt: "Prime Minister Anthony Albanese said the argument for another referendum “could only possibly make sense if you’re Peter Dutton”, and the best approach was to set up the Voice with constitutional recognition in the referendum on October 14."
+    publishedDateTime: 2023-09-03T19:00:00Z
+    webUrl: "https://www.watoday.com.au/politics/federal/backlash-over-dutton-s-plan-for-second-referendum-if-voice-vote-fails-20230903-p5e1mi.html"
+    type: article
+    provider:
+      name: WAtoday
+      domain: watoday.com.au
+    quality: 19
+  - title: "Peter Dutton flags second referendum if Indigenous Voice to Parliament fails"
+    excerpt: "Opposition leader Peter Dutton has committed to holding another referendum to recognise Indigenous Australians in the Constitution if the Voice failed."
+    publishedDateTime: 2023-09-03T13:43:00Z
+    webUrl: "https://www.theaustralian.com.au/breaking-news/peter-dutton-flags-second-referendum-if-indigenous-voice-to-parliament-fails/news-story/f14566cceeb7770f46146df839ddafdb"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 16
   - title: "David Littleproud backs Peter Dutton's promise of Indigenous recognition referendum should the Voice to Parliament fail"
     excerpt: "National's leader David Littleproud says his party will support Peter Dutton's promise of a second referendum to recognise Indigenous Australians in the constitution if the \"yes\" vote fails and the Coalition wins the next election."
     publishedDateTime: 2023-09-03T02:28:00Z
@@ -71,6 +133,24 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Penny Wong: Voting Yes on the Voice is a vote for recognition"
+    excerpt: "The Statement made the modest ask for recognition of this land’s First Peoples in the constitution through a Voice to parliament. Australian Foreign Minster Penny Wong. Picture: Pat Hoelscher / AFP The Voice will offer ideas and advice, so governments ..."
+    publishedDateTime: 2023-08-30T08:19:00Z
+    webUrl: "https://www.news.com.au/national/south-australia/penny-wong-voting-yes-on-the-voice-is-a-vote-for-recognition/news-story/38cbb8829a7f10dcae7e0bf47c258318"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 4
+  - title: "Dutton’s vow for second Voice referendum is where Nationals have been for ‘some time’"
+    excerpt: "Nationals leader David Littleproud says Opposition leader Peter Dutton’s vow for a second referendum to give constitutional recognition if the Voice to Parliament fails is where the Nationals have been for “some time”."
+    publishedDateTime: 2023-09-03T20:06:00Z
+    webUrl: "https://www.theaustralian.com.au/news/duttons-vow-for-second-voice-referendum-is-where-nationals-have-been-for-some-time/video/7fb2867e33b0e2bdce67619e602d2ef5"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 0
 
 secured: "/61LPtJhJIgLtyPfxsXfcms3M4Y8iSmCGB1uwI5LRVnwL0rfdx8LPFE5q/ANkOv/08vR1Jj540Jt0jIwSvo5U7HNNwLjG8YYPd9YO9UTcyR/D2FBG7hi1zc9Cc/cZ7I/1xV06zJfvQJo6q2IZH2rz+gn7H9B+Gi98Z2/eRBo3qVUIwsAOE5q1NkU0Ga1TUe2mbTmc04VJtTm9WXnoHlV7XXdPh/f5M9R/9sNHVj605s9vPHRt4R1n/FxTYzLe7v79zx7t6gItuFz5dbmVceoE9LYujxgBgQaEwiHnd5kBX2188g/UOkBc1HoRzIjJZv5ftLkI7dSOc2gD5cdCiC/gM1ZI7buoCv/YiGMB1uvaYzPc/YM2GSgvHrXAuw3Fdo+ZXDDpqp8yKBLFcSSUzyAwByjE/C/XBJqmVPQu/C1IqZNgDw2hdGmMwbRf4CaddxAhPCNTEcRG69J7SC8loFWW1hz61AtP6CZq68sRvMj9jGJHdFYjOH+4jJxHP2k6iFz6pafUmWXBjMU4u1uqyOkYA==;vugFif+nH8nFc/3PsfIrDQ=="
 ---

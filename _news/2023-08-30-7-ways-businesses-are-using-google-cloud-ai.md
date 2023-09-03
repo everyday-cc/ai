@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/google-cloud/companies-using-google-clo
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/google-cloud/companies-using-google-cloud-ai/amp/"
 type: article
 quality: 109
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -99,20 +99,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Google-Cloud.jpeg"
         width: 6948
         height: 4634
-        isCached: true
-  - title: "Google to add AI models to its cloud platform"
-    excerpt: "Alphabet’s Google is adding artificial intelligence tools from companies including Meta Platforms and Anthropic to its cloud platform, weaving more generative AI into its products and positioning itself as a one-stop shop for cloud customers seeking to tap into the technology."
-    publishedDateTime: 2023-08-30T03:48:00Z
-    webUrl: "https://www.japantimes.co.jp/business/2023/08/30/tech/google-ai-models-meta-anthropic/"
-    type: article
-    provider:
-      name: ジャパンタイムズ
-      domain: japantimes.co.jp
-    quality: 39
-    images:
-      - url: "https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/30/248643.jpg"
-        width: 1000
-        height: 665
         isCached: true
   - title: "Google adding AI tools to cloud"
     excerpt: "Google's cloud clients will be able to access Meta's Llama 2 large language model, as well as AI startup Anthropic's Claude 2 chatbot, to customize with enterprise data for their own apps and services. The move, announced last week at Google's Next '23 ..."

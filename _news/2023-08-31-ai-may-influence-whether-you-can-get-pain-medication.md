@@ -9,7 +9,7 @@ ampWebUrl: "https://www.popsci.com/health/artificial-intelligence-pain-medicatio
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/health/artificial-intelligence-pain-medication/?amp"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -68,6 +68,15 @@ related:
       name: phillyvoice.com
       domain: phillyvoice.com
     quality: 33
+  - title: "AI May Influence Who Can Get or Prescribe Pain Medication"
+    excerpt: "Share on Facebook. Opens in a new tab or window Share on Twitter ... but the mechanics behind the formulas used are generally not shared with the public. Artificial intelligence (AI) is working its way into more parts of American life."
+    publishedDateTime: 2023-09-03T18:01:00Z
+    webUrl: "https://www.medpagetoday.com/special-reports/features/106145"
+    type: article
+    provider:
+      name: MedPage Today
+      domain: medpagetoday.com
+    quality: 19
 
 secured: "a0Pke9n4B2utJjchA99OV99pJnkbjZJ2PtCo5xdgCd2lLC1O380w5tiqVNMc4baNOFo8g0TOfDX/Db6ITsP8IWMDkjigoXJW1MQspWD6Q3vg6Rq/lnk5hQb0/vEu1y+E6eNXmON7PVMLWyayphDuT8BWSZBcZFRjdl08T7zHDjdRnqCPLsE1pvsu+RuWn7hHABlilsRR3gYq9asbmLgT2zO370hFr4g6+QemMGf7iPV86qXPwavzReB+XMUI+wHfHIGrx5peQUAUlOmsQJshhXAKCcV9gPoiMICcmoY7uzOHFcQmZBSO25kcHFlFkvSQ0Z+5dBypqK3uc7iz/Qniso5+EkaT5xQ2IV3QJrwoch1XOeNL2i/wP9dBVOmmtUhHiO/WBtS41KlYIMTDNl1WqGhvEcPiHJsb9SqLIKHah7rBQg2W1YFdBk1IlHi74Dr+LytQ08PztIZi5eYvyHeZYbp4iij7VWzLCkW0APzhBYpwablC31s2faj7cG8DCo93JG9BuGOS+ztDLwApASHFnA==;kAJgPC1kJgWS/wuoPmVm7w=="
 ---

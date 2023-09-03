@@ -23,6 +23,17 @@ images:
     height: 720
     isCached: true
 
+related:
+  - title: "‘You can’t stop this’: Artificial Intelligence cannot be put ‘back in the box’"
+    excerpt: "AI Expert and E-Commerce Coach Kelly Slessor says having rules and regulations for Artificial Intelligence will “reduce” the potential risk it poses. “You can’t stop this, it’s already started, you can’t put it back in the box, you can’t ..."
+    publishedDateTime: 2023-09-03T21:30:00Z
+    webUrl: "https://www.theaustralian.com.au/business/you-cant-stop-this-artificial-intelligence-cannot-be-put-back-in-the-box/video/20fea16430f40c7faace9f59986b8433"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 13
+
 secured: "TvSRWeYxQLRxebuw+DLhmech7qY9YAmjssaND7EFqEaP3+yUpcxRmF/KViNaV7a+wSmuYSUtTmO5fUdw9w06leB1xSCtCyMnlvkVW52W20TiyaTqWZzRZHc9fbI1jPmRyEGzLr7M8GVzeZo1BsNpk3nHaPAZv27sSXV8iVWdD407Ytd5FQztn00JzODzAB1wkwBaXKjNoKfxWSCeXpQIfonVXaxgxgFm1Gxobk7275jo9IB887pz7PcziYagFaDlnyNwJdNxy/pdQHzCW7mj4CmMlVs7+JrOf6XFM/U2DyHDidw0m3mM/F6dJyXf/uq6c6DtoUXQAyDOa7UfDX0rGp3FPatCKXgdcXXtwHHbHnA=;6mG47Lr/HUOf3Fx3mpKbig=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telegraphindia.com/amp/business/google-unveils-enterpris
 cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/business/google-unveils-enterprise-artificial-intelligence-tools-new-ai-chip/cid/1962646"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google introduces new AI chip and enhanced tools for enterprise AI solutions"
-    excerpt: "Google introduces new AI technologies and collaborations at the Google Next conference, focusing on accessibility for large enterprises. Announcements include new clients adopting Google's cloud software,"
-    publishedDateTime: 2023-08-30T01:17:00Z
-    webUrl: "https://www.livemint.com/news/world/google-introduces-new-ai-chip-and-enhanced-tools-for-enterprise-ai-solutions-11693356902647.html"
-    ampWebUrl: "https://www.livemint.com/news/world/google-introduces-new-ai-chip-and-enhanced-tools-for-enterprise-ai-solutions/amp-11693356902647.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/google-introduces-new-ai-chip-and-enhanced-tools-for-enterprise-ai-solutions/amp-11693356902647.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 71
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/08/30/600x338/GOOGLE-NEXT-AI-0_1693358010798_1693358041456.JPG"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Alphabet Focuses on Efficiency with New AI Chip"
     excerpt: "Nvidia launched its ultra-power H100 data center GPU in 2022, and that hardware has become the standard for AI workloads. Nvidia is selling every H100 GPU it can make, and reports indicate that the company is set to triple production of data center GPUs in 2024. Right now, there's nothing faster for AI than the H100."
     publishedDateTime: 2023-08-30T10:35:00Z

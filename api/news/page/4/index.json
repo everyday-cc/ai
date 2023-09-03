@@ -2,57 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-08-31-nora-ai-building-up-norways-ai-community-for-global-synergies.md",
-      "title": "NORA AI: Building Up Norway’s AI Community For Global Synergies",
-      "excerpt": "This blog explores the leadership and personal story of Klas Pettersen, CEO of Norway.ai and highlights their accomplishments and collaborations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/08/30/nora-ai-building-up-norways-ai-community-for-global-synergies/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/08/30/nora-ai-building-up-norways-ai-community-for-global-synergies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64efed88b4223f88371e813e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/08/30/nora-ai-building-up-norways-ai-community-for-global-synergies/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/08/30/nora-ai-building-up-norways-ai-community-for-global-synergies/amp/",
-      "publishedDateTime": "2023-08-30T18:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-31-ai-in-viral-work-kill-the-cells.md",
       "title": "AI In Viral Work: Kill The Cells!",
       "excerpt": "You could say that, as a rule, antiviral work is the process of enabling antibodies. The problem, as Gifford puts it, is that viruses can ‘escape’ from the roving healers that consume infected cells.",
@@ -164,7 +113,7 @@
       "originalUrl": "https://www.popsci.com/health/artificial-intelligence-pain-medication/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -672,7 +621,7 @@
       "originalUrl": "https://www.nytimes.com/2023/08/29/world/australia/voice-aboriginal-indigenous.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -873,7 +822,7 @@
       "originalUrl": "https://news.sky.com/story/home-office-eyeing-expansion-of-orwellian-facial-recognition-12950942",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1054,49 +1003,6 @@
       ]
     },
     {
-      "path": "_news/2023-08-30-unveiling-global-warmings-impact-on-daily-precipitation-with-deep-learning.md",
-      "title": "Unveiling global warming's impact on daily precipitation with deep learning",
-      "excerpt": "The research team devised a deep learning model to quantify the relationship between the intensity of global warming and global daily precipitation patterns. They then applied this model to data obtained from satellite-based precipitation observations.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-08-unveiling-global-impact-daily-precipitation.html",
-      "originalUrl": "https://phys.org/news/2023-08-unveiling-global-impact-daily-precipitation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/unveiling-global-warmi.jpg",
-          "width": 1280,
-          "height": 1057,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-08-unveiling-global-impact-daily-precipitation.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-08-unveiling-global-impact-daily-precipitation.amp",
-      "publishedDateTime": "2023-08-30T09:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-30-7-ways-businesses-are-using-google-cloud-ai.md",
       "title": "7 ways businesses are using Google Cloud AI",
       "excerpt": "At Google Cloud Next 2023, thousands of people gathered in San Francisco to learn about the newest updates from Google Cloud.",
@@ -1105,7 +1011,7 @@
       "originalUrl": "https://blog.google/products/google-cloud/companies-using-google-cloud-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 209,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -1224,6 +1130,110 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-30-6-ai-tools-to-make-building-business-relationships-10-times-easier.md",
+      "title": "6 AI Tools to Make Building Business Relationships 10 Times Easier",
+      "excerpt": "As AI becomes more and more integrated into our lives, the evolution of AI tools for business networking holds promise. We can anticipate the development of even more sophisticated AI tools designed to assist professionals in maximizing their networking ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/growing-a-business/6-ai-tools-to-make-building-business-relationships-10-times/457361",
+      "originalUrl": "https://www.entrepreneur.com/growing-a-business/6-ai-tools-to-make-building-business-relationships-10-times/457361",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1692992802-ai-tools-business-relationships-0823-g1500238079.jpg?format=pjeg&auto=webp",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-30T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-30-contextai-wants-to-merge-product-analytics-sensibilities-with-llms.md",
+      "title": "Context.ai wants to merge product analytics sensibilities with LLMs",
+      "excerpt": "The way it works is customers share chat transcripts with Context via an API. It then analyzes the information using natural language processing (NLP). The software groups and tags conversations based on topic, and then analyzes each conversation to ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/30/context-ai-is-merging-product-analytics-sensibilities-with-llms/",
+      "originalUrl": "https://techcrunch.com/2023/08/30/context-ai-is-merging-product-analytics-sensibilities-with-llms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1625240294.jpeg?resize=1200,692",
+          "width": 1200,
+          "height": 692,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/30/context-ai-is-merging-product-analytics-sensibilities-with-llms/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/30/context-ai-is-merging-product-analytics-sensibilities-with-llms/amp/",
+      "publishedDateTime": "2023-08-30T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

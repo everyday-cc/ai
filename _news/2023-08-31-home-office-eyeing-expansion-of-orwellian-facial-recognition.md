@@ -9,7 +9,7 @@ ampWebUrl: "https://news.sky.com/story/amp/facial-recognition-technology-labelle
 cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/facial-recognition-technology-labelled-orwellian-as-government-eyes-wider-use-by-police-and-security-agencies-12950942"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://e3.365dm.com/23/08/1600x900/skynews-facial-recognition_6268140.jpg?20230830171724"
         width: 1600
         height: 900
-        isCached: true
-  - title: "The Pros & Cons of Facial Recognition"
-    excerpt: "Are advances in facial recognition software a boon or a bane to mankind? Adarsh explores this very topic in detail. Facial recognition is a tool to identify or confirm an individual’s identity in a photograph, video footage or in real time. Like voice ..."
-    publishedDateTime: 2023-08-30T04:18:00Z
-    webUrl: "https://www.sify.com/technology/the-pros-cons-of-facial-recognition/"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 39
-    images:
-      - url: "https://www.sify.com/wp-content/uploads/2023/08/facial_recognition_freepik_1200.jpg"
-        width: 1200
-        height: 574
         isCached: true
   - title: "Home Office seeks facial recognition technologies for police"
     excerpt: "The Defence and Security Accelerator (Dasa) has launched a market exploration of facial recognition technologies that could be implemented by police forces and security agencies within the next 18 months. DASA is a Ministry of Defence unit that looks for and funds innovation."

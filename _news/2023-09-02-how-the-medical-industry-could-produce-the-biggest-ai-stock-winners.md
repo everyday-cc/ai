@@ -60,15 +60,6 @@ related:
         width: 710
         height: 451
         isCached: true
-  - title: "Artificial Intelligence and the Problem of Judgment"
-    excerpt: "There are theories of ethics and politics that require less than authentic engagement with the world; existentialism may be unique in being defined by this commitment. Smith's second worry—that humanity will be so impressed by AI that we will shift our ..."
-    publishedDateTime: 2023-08-30T02:07:00Z
-    webUrl: "https://www.cambridge.org/core/journals/ethics-and-international-affairs/article/artificial-intelligence-and-the-problem-of-judgment/A97DBF559D68E48E4C66E158BA10EFA6"
-    type: article
-    provider:
-      name: Cambridge University Press
-      domain: cambridge.org
-    quality: 19
 
 secured: "4EnsukmmU/C6/a44hUBBdK1Wf8vcVaLvQiw+5P4Xg/UA0BEHFZg++hfFDLT1tXGZEksB9uaCE9/Lfsns/ZWgx2FMa+ZmrcRJ2j6la8VA/3ceMCMiCVsA/m25H/Fei+QRC2G5aXEGbIfdzmL9OJgbDNqyeoD3k+zHydoR+llMBTd4sEfUeqisRC+skkc1yEQ9SK8ks47nmoLkOCT2TOsM48yJY2QOpPTDxoSaXDJYK6DkpBwDC9wkNxfgbIqmjmIXMp9eYi+JK7QSNOG0nWaGu28N17/4TJi6D3lgRIsAu8qYiPgYtM9wrXcBXCJsc7ndFNF2Siu2Qc0kz1fTwsxbabXt1PjkGOKhp79/NmkE5Evedbls4W+7ji4jlgypIm3aqITvyNIJvU/0sSruK1K5SnC4lo8ztjOPqAavXT0CY8SuZt6r+O9KOhTfkbitsUfy68ndszwky6HLqFTIYj/ya/SJKsyZpaDqz5hSA6iYXW7B7abqQV3w3fSUND/tD+DmsW891OREPOZlSpAQE3va4Q==;wJPUMfHzDCXMbQ2KwbNN9w=="
 ---

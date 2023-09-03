@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gadgetsnow.com/tech-news/google-deepmind-co-founder-want
 cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/google-deepmind-co-founder-wants-us-to-link-ai-chip-sales-to-minimum-artificial-intelligence-standards/amp_articleshow/103290407.cms"
 type: article
 quality: 107
-heat: 267
+heat: 257
 published: true
 
 provider:
@@ -122,20 +122,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/5bf98bcdb9cd152563a3ccbbe53336548380df1c/1_0_6331_3800/master/6331.jpg?width=620&quality=85&auto=format&fit=max&s=7ac26dbd3b6604c3e8927a0efd6779e6"
         width: 620
         height: 372
-        isCached: true
-  - title: "DeepMind Says It Has a Way to Identify AI Images…but Only on Google"
-    excerpt: "Google’s DeepMind says it has cracked a problem that has vexed those trying to verify whether images are real or created by AI. Researchers proclaimed their new watermarking SynthID format can be used to pinpoint AI-generated deepfakes without distorting ..."
-    publishedDateTime: 2023-08-30T02:00:00Z
-    webUrl: "https://gizmodo.com.au/2023/08/deepmind-says-it-has-a-way-to-identify-ai-images-but-only-on-google/"
-    type: article
-    provider:
-      name: gizmodo
-      domain: gizmodo.com.au
-    quality: 54
-    images:
-      - url: "https://gizmodo.com.au/wp-content/uploads/2023/08/c6ebab563b7a7c1816be76efed12c4d6.png?quality=75"
-        width: 1246
-        height: 701
         isCached: true
   - title: "DeepMind develops watermark to identify AI images"
     excerpt: "Google's DeepMind is trialling a digital watermark that would allow computers to spot images made by artificial intelligence (AI), as a means to fight disinformation."

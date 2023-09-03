@@ -19,36 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Australians to Vote in October on Creating an Indigenous ‘Voice’ in Parliament: What to Know"
-    excerpt: "Australians will vote on Oct. 14 in a referendum over whether to enshrine in the constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives."
-    publishedDateTime: 2023-08-30T03:30:00Z
-    webUrl: "https://time.com/6309565/australia-indigenous-voice-parliament-vote/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 43
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2023/08/australia-indigenous-voice-referendum.jpg?quality&#x3D;85"
-        width: 1024
-        height: 684
-        isCached: true
-  - title: "Peter Dutton says Coalition will hold Indigenous recognition referendum if voice to parliament vote fails"
-    excerpt: "Opposition leader says constitutional recognition is ‘the right thing to do’ and simple referendum on the issue was ‘fair compromise’"
-    publishedDateTime: 2023-09-03T00:02:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2023/sep/03/peter-dutton-says-coalition-will-hold-indigenous-recognition-referendum-if-voice-to-parliament-vote-fails"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/sep/03/peter-dutton-says-coalition-will-hold-indigenous-recognition-referendum-if-voice-to-parliament-vote-fails"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/sep/03/peter-dutton-says-coalition-will-hold-indigenous-recognition-referendum-if-voice-to-parliament-vote-fails"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 42
-    images:
-      - url: "https://i.guim.co.uk/img/media/3426697126472ec290281196ecff77b7743048ef/0_261_5823_3495/master/5823.jpg?width=620&quality=85&auto=format&fit=max&s=7469415c206ce4c8eb6e6942e612b9f5"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Voice referendum: What is Australia's Voice to Parliament proposal?"
     excerpt: "The Voice was recommended by a historic document in 2017 called the Uluru Statement from the Heart. Drafted by more than 250 Indigenous leaders, the statement is considered the best - though not unanimous - call to action for reforms which affect First Nations Australians."
     publishedDateTime: 2023-08-30T07:18:00Z
@@ -63,29 +33,6 @@ related:
         width: 976
         height: 549
         isCached: true
-  - title: "PM announces date for Voice to Parliament referendum"
-    excerpt: "Prime Minister Anthony Albanese announced the date for the referendum on the Voice to Parliament during a visit to Adelaide on Wednesday. On Saturday, October 14, Australians will have their say in a referendum about whether to change the Constitution to recognise the First Peoples of Australia by establishing a body called the Aboriginal and Torres Strait Islander Voice."
-    publishedDateTime: 2023-08-31T23:44:00Z
-    webUrl: "https://narrabricourier.com.au/2023/09/01/pm-announces-date-for-voice-to-parliament-referendum/"
-    type: article
-    provider:
-      name: narrabricourier
-      domain: narrabricourier.com.au
-    quality: 24
-    images:
-      - url: "https://narrabricourier.com.au/wp-content/uploads/2023/09/vote-2042580_1280.png"
-        width: 1280
-        height: 960
-        isCached: true
-  - title: "Peter Dutton flags second referendum if Indigenous Voice to Parliament fails"
-    excerpt: "Opposition leader Peter Dutton has committed to holding another referendum to recognise Indigenous Australians in the Constitution if the Voice failed."
-    publishedDateTime: 2023-09-03T13:43:00Z
-    webUrl: "https://www.theaustralian.com.au/breaking-news/peter-dutton-flags-second-referendum-if-indigenous-voice-to-parliament-fails/news-story/f14566cceeb7770f46146df839ddafdb"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 16
   - title: "Kim Beazley wants Australians to vote Yes for an Indigenous voice to parliament to show respect"
     excerpt: "Kim Beazley remembers Indigenous boys and girls forcibly separated from their parents coming to the family home in Perth for a meal in 1950s and 60s, and shaping his belief in the ­dignity, opportunities and rights that should be afforded to the First Australians."
     publishedDateTime: 2023-09-01T17:28:00Z

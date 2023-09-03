@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/quickerbettertech/2023/09/01/the-proble
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2023/09/01/the-problem-with-intuits-ai-strategy/amp/"
 type: article
 quality: 87
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -60,15 +60,6 @@ related:
         width: 710
         height: 451
         isCached: true
-  - title: "Artificial Intelligence and the Problem of Judgment"
-    excerpt: "There are theories of ethics and politics that require less than authentic engagement with the world; existentialism may be unique in being defined by this commitment. Smith's second worry—that humanity will be so impressed by AI that we will shift our ..."
-    publishedDateTime: 2023-08-30T02:07:00Z
-    webUrl: "https://www.cambridge.org/core/journals/ethics-and-international-affairs/article/artificial-intelligence-and-the-problem-of-judgment/A97DBF559D68E48E4C66E158BA10EFA6"
-    type: article
-    provider:
-      name: Cambridge University Press
-      domain: cambridge.org
-    quality: 19
 
 secured: "hwYrqWyrRR33DBMWXyPz6W6uN/gLC5wQH3MFiUW+kf4bA7As1u/maf6N661oXehkSlBqSof8YvgHEzPTuq034HIUEuiT/r6d4dUSZ2fhEB9eVa1nePQhvfnjWOUX1F1+EctXwpfH3Vn2oDUwSbjlYzCfgpM5Ww5++ds9VF6gjofWSxNKiqHjqaTxCMvEatwWU7LOCKaNTT+EJGI5D0gvRcV8dT5Ds69WWy5J9OkklzWXAWsgU9nFy9naQy6LgxaRkWI6A1lrh98JQI3qi2SgOHxaqIo493evdmw8Ys7LzgIwGjnDFHwgY0CehBUCvOiqhyo6J0TNXuc/7Mxacqn/u9lMyn+wbEDdlV7gSlHB7/Oi0hcr1LIyK6dAKspryhaUqxAcWjdSPhPsrh01wLBkH/N37GLBkum8SJjd/n9mcChUoe8ntfyvdL4tpgESTjJLCrNcEqrLVBsSsSt5wjo5fxNs280Xs3ehc1fyu8FHIY+blIFKFgA0qi85f2ZQ07PAQS5ZG4ryQRyU7rozXGbxdg==;9n38ZuCcaek0K1CBNbFHeQ=="
 ---

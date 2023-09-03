@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/artificial-intelligence/eweek-tweetchat-ai-e
 webUrl: "https://www.eweek.com/artificial-intelligence/eweek-tweetchat-ai-enterprise/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 821
         height: 463
         isCached: true
+  - title: "Amazon promo codes for September 2023"
+    excerpt: "Save up to 40% on laptops, desktops, monitors, computer accessories, and more in the Amazon sale Grab your favorites now Amazon Prime is Amazon’s subscription service which gives you access to ..."
+    publishedDateTime: 2023-09-01T22:01:00Z
+    webUrl: "https://www.pcgamer.com/coupons/amazon.com/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 4
 
 secured: "ppvBjx7Jvho4zfRCTkrUCGsLfR/K0DI24OobA5xJRLykGNbiKdSI5Ei+fo8bF31lNYxLMixAii6ev8T9SqaQMjVaUjHQubOQW6pnbIM1Rs9dDAdz36h/SSW5x2UOWG3TVdbjM++0ywo2it2doOGiEXbuy1UXQhqaWNSwSQMqkKhbFthoFYlSiSJqdRmr5U5BGpEnODmxQ+ix+hjq+vAkdZ2kDCvceRJE8m4RmvjAsvo1PE+M0uqUDwwMFphB2WMJDUhmGJtJbvYSeBp5koU2eW2/dZKwqeaFq829mqdlR9llzgGTWk9eJcD0jurkq9GhVQZ9Uioovfdf5mgpMdg7/MPTwfVCtqgT5ykUbIJ/s9+qw69l2iqEqByzam6BHjOVF+jCVYsIQOKndkvaoZcaHgrFd+gtSYV9onPGZWowXiid3J0IGRs+l3knmNzfxO9FWY1ui941zXCWRqKbQsGYkPrurcBHPE0lPCn39mNwQMzviXcFTLmPplcbQU5WglREB6D3EizFj9aYFU+QQYui7w==;URe4nGPurXGLrtJYgpEbeg=="
 ---
