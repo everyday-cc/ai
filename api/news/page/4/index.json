@@ -10,7 +10,7 @@
       "originalUrl": "https://blog.google/products/search/google-search-generative-ai-india-japan/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 309,
+      "heat": 289,
       "tags": null,
       "images": [
         {
@@ -156,7 +156,7 @@
       "originalUrl": "https://www.pcmag.com/news/nvidia-faces-more-restrictions-on-ai-chip-sales-this-time-in-the-middle",
       "featuredContent": null,
       "highlight": null,
-      "heat": 378,
+      "heat": 368,
       "tags": null,
       "images": [
         {
@@ -364,7 +364,7 @@
       "originalUrl": "https://www.zdnet.com/article/meta-uses-your-facebook-data-to-train-its-ai-heres-how-to-opt-out-sort-of/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -467,7 +467,7 @@
       "originalUrl": "https://www.zdnet.com/article/how-to-use-claude-ai-and-how-its-different-from-chatgpt/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -518,7 +518,7 @@
       "originalUrl": "https://www.nytimes.com/2023/08/29/world/australia/voice-aboriginal-indigenous.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -848,6 +848,58 @@
       ]
     },
     {
+      "path": "_news/2023-08-30-nvidia-l40s-a-datacenter-gpu-for-omniverse-and-graphics-that-can-also-accelerate-ai-training-inference.md",
+      "title": "NVIDIA L40S: A Datacenter GPU For Omniverse And Graphics That Can Also Accelerate AI Training & Inference",
+      "excerpt": "And it is. But the NVIDIA website makes it clear that this GPU is more than a high-end cloud gaming rig and Omniverse platform; it supports training and inference processing of Large Language Models for Generative AI. Given that the NVIDIA H100 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/08/30/nvidia-l40s-a-datacenter-gpu-for-omniverse-and-graphics-that-can-also-accelerate-ai-training--inference/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/08/30/nvidia-l40s-a-datacenter-gpu-for-omniverse-and-graphics-that-can-also-accelerate-ai-training--inference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e8e727cf65a0952b4af6bb/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/08/30/nvidia-l40s-a-datacenter-gpu-for-omniverse-and-graphics-that-can-also-accelerate-ai-training--inference/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/08/30/nvidia-l40s-a-datacenter-gpu-for-omniverse-and-graphics-that-can-also-accelerate-ai-training--inference/amp/",
+      "publishedDateTime": "2023-08-30T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-30-unveiling-global-warmings-impact-on-daily-precipitation-with-deep-learning.md",
       "title": "Unveiling global warming's impact on daily precipitation with deep learning",
       "excerpt": "The research team devised a deep learning model to quantify the relationship between the intensity of global warming and global daily precipitation patterns. They then applied this model to data obtained from satellite-based precipitation observations.",
@@ -899,7 +951,7 @@
       "originalUrl": "https://blog.google/products/google-cloud/companies-using-google-cloud-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 269,
+      "heat": 249,
       "tags": null,
       "images": [
         {
@@ -1191,49 +1243,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-30-generative-ai-magnifies-a-crisis-in-enterprise-it-security.md",
-      "title": "Generative AI Magnifies A Crisis In Enterprise IT & Security",
-      "excerpt": "Russell is the CEO and founder of Nudge Security, a startup that's redefining the human element of cybersecurity for modern work. The breakneck speed at which generative AI has mainlined into seemingly every organization this year has caused some major ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/30/generative-ai-magnifies-a-crisis-in-enterprise-it--security/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/30/generative-ai-magnifies-a-crisis-in-enterprise-it--security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-30T05:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

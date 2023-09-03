@@ -1,20 +1,30 @@
 ---
 category: news
 title: "Is Baidu Stock a Buy Now?"
-excerpt: "Baidu (NASDAQ: BIDU) posted its second-quarter report on Aug. 22. The Chinese tech giant's revenue rose 15% year over year to 34.1 billion yuan ($4.7 billion), which beat analysts' estimates by $ ..."
-publishedDateTime: 2023-08-25T16:46:00Z
-originalUrl: "https://www.nasdaq.com/articles/is-baidu-stock-a-buy-now-0"
-webUrl: "https://www.nasdaq.com/articles/is-baidu-stock-a-buy-now-0"
+excerpt: "Baidu’s Q2 numbers easily beat analysts’ expectations. Its revenue growth is accelerating and its margins are expanding. The stock still looks cheap relative to its growth potential. Baidu's ..."
+publishedDateTime: 2023-08-25T09:53:00Z
+originalUrl: "https://www.fool.com/investing/2023/08/25/is-baidu-stock-a-buy-now/"
+webUrl: "https://www.fool.com/investing/2023/08/25/is-baidu-stock-a-buy-now/"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-secured: "YWb1bK/tviIAHv1T3SABXrHgL8v0tF7QlNnL9HdVSujQh8/jPlyOfTZvqtOoCQ76rI3MiQlfO1ozKboVbKdC4eIhCm3OSF3D2B9fRqpxVowWQp5Vy5L1BmQUXe3A55l0Zfn5xPf0zOkyEeb4ZwDwEnIAHQ+oHXXDhv5hFUV4H4w0IPo89VEiToMJrKH5oqIk5tuJHK7atf2nMnMnfMBQt1S7PrYxGHekopyO8pBr9jp+4GspUZz39Qx8Jf5d1ugWVqCvDZxkBE4WFLUF287EvZJZJqv8aKYEG/I+eymJwQhGiHk5TmjAtpXbAAmpLjSz93Js5UFtjEM4Td7jP865cRt30pO1ykVGsnfi3aygZRU=;yk6SBBvj2FfGgHi/qCMomg=="
+images:
+  - url: "https://g.foolcdn.com/editorial/images/745130/two-friends-phones.jpg"
+    width: 2121
+    height: 1414
+    isCached: true
+
+secured: "39ZAXK2rj4NHYVxyuwY+8VJ3eT7HnzDtqDonMYOfK6xeOSyeUONIVQxXoXl+ZjVmPs6GHT0kIVuZxO9Qb1kzHrg+/R9rX7H3XuQHuPaKmrCbnf7/vFfF2S+W8csiZxvXQBS2EGCTpXUOAhDxwEpVgWrG6DG3qR/Tbn933OuWdrXD+TWh7qKK86lImB6tdO/IiYD//AAO32EKQj8LT5mWlwUdk27GgmMeZznhcmovpuPukPYiF8wZt6K1+W4v6eXgvZFLDoy2NvmdAGLoqtOggRBux9V3vfaikRXY0AqRTHo3uKtarOk8CMHcSu387ELCRfQsYU8bFs+mZcZkhw/xFA3w3Sw1UbkXOjaGC5bMck8=;U1WvQcWg2YBrboLv8FFvOQ=="
 ---
 

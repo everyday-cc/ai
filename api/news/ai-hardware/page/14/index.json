@@ -2,6 +2,58 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-05-18-meta-discloses-its-second-custom-processor-and-this-should-interest-investors.md",
+      "title": "Meta Discloses Its Second Custom Processor, And This Should Interest Investors",
+      "excerpt": "Ultimately Meta will continue to use merchant silicon GPUs for those workloads where the GPU provides better performance per watt. Don't forget that 100s of AI workloads still work better on GPUs ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/18/meta-discloses-its-second-custom-processor-and-this-should-interest-investors/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/18/meta-discloses-its-second-custom-processor-and-this-should-interest-investors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64664e7899b353f41dc92c25/0x0.png?format=png&width=1200",
+          "width": 936,
+          "height": 606,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/18/meta-discloses-its-second-custom-processor-and-this-should-interest-investors/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/05/18/meta-discloses-its-second-custom-processor-and-this-should-interest-investors/amp/",
+      "publishedDateTime": "2023-05-18T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-18-meta-pulls-the-curtain-back-on-its-ai-chips-for-the-first-time.md",
       "title": "Meta pulls the curtain back on its A.I. chips for the first time",
       "excerpt": "Meta revealed that it built a video-processing computer chip and another chip to help with A.I. tasks like recommendations.",
@@ -1406,58 +1458,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-mediatek-dimensity-9200-chipset-announced-with-upgraded-cpu-and-gpu-performance.md",
-      "title": "MediaTek Dimensity 9200+ chipset announced with upgraded CPU and GPU performance",
-      "excerpt": "MediaTek’s flagship chipset offerings have been gaining recognition for their impressive hardware, and the recently launched MediaTek Dimensity 9200 was no exception. Now, the company has announced an upgraded version of this chipset,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/05/10/mediatek-dimensity-9200-plus-launch/",
-      "originalUrl": "https://www.gizmochina.com/2023/05/10/mediatek-dimensity-9200-plus-launch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/05/MediaTek-Dimensity-9200-1.jpg",
-          "width": 1056,
-          "height": 741,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T02:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

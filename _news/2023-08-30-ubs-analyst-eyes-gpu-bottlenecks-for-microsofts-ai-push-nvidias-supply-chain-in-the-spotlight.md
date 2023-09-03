@@ -102,17 +102,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "MicroStrategy now available in the Microsoft Azure Marketplace"
-    excerpt: "MicroStrategy customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined deployment and management. The MicroStrategy ONE AI/BI platform brings together the power of business intelligence and artificial intelligence."
-    publishedDateTime: 2023-08-29T11:18:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/microstrategy-now-available-in-the-microsoft-azure-marketplace-gc1n6ov6"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/microstrategy-now-available-in-the-microsoft-azure-marketplace-gc1n6ov6?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/microstrategy-now-available-in-the-microsoft-azure-marketplace-gc1n6ov6?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 69
   - title: "MSFT Stock and AI: Why Microsoft’s Future Looks Brighter Than Ever"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips It’s not for certain, but “AI mania” seemed to have peaked"
     publishedDateTime: 2023-08-31T10:50:00Z

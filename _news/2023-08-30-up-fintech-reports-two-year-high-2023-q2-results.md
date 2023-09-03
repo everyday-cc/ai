@@ -24,17 +24,6 @@ images:
     height: 300
     isCached: true
 
-related:
-  - title: "UP Fintech (Tiger Brokers): UP Fintech reports two-year high 2023 Q2 results"
-    excerpt: "The launch of TigerGPT, an AI-powered investment assistant, in Singapore, New Zealand, Australia, and Hong Kong SAR, highlights the Company's commitment to cutting-edge fintech innovation. SINGAPORE and NEW YORK, Aug. 29, 2023 /PRNewswire/ -- UP Fintech ..."
-    publishedDateTime: 2023-08-29T12:01:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-08/59969157-up-fintech-tiger-brokers-up-fintech-reports-two-year-high-2023-q2-results-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 1
-
 secured: "V9jUWoszkHRe5b7q5Hi/Wd+53fTvLu4UBQ5umcZR4zzoO7ei2Cy3bymOsVGE5nPRPDIU2RJu5NTkrJdHTbrOKFLKLplBNXw6l+muL7k1/yfTu7q9NU4Ovll+5LEIHWYFfJDrvc4KZEBHEcZuR5c+AZguPjOowfWBjh3hEw/GY1Bb490G6u1F38LCZE1tGfSqQ2FzJuEdzcpzt/cc+a65A3wSEni929LGuZW4mk5N12BfHwRqOZiUxwoJYpToervwsUXyWkbjM9RWsZJhaGV/RopKqankwOiexTIwGQ5d7JdLzEO9kQLHx9XmL+u+BpgHDE+e2ZPgzwd9mA5WKxVSCcWGTJqoYQHltGS1OkfrTg8=;2kr1H1x3g2EZuBLa/MWrGw=="
 ---
 

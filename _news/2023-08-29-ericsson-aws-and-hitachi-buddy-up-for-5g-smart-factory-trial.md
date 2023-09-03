@@ -19,38 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Ericsson, AWS, Hitachi America R&D trial private 5G for manufacturing"
-    excerpt: "“By using the Ericsson Private 5G Network product, and running artificial intelligence and machine learning models on an AWS Snow Family device, we were able to demonstrate a reliable and secure connection to run machine vision inferences at the site to ..."
-    publishedDateTime: 2023-08-29T11:23:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/telecom-equipment/ericsson-aws-hitachi-america-rd-trial-private-5g-for-manufacturing/103175231"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/telecom-equipment/ericsson-aws-hitachi-america-rd-trial-private-5g-for-manufacturing/103175231"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/telecom-equipment/ericsson-aws-hitachi-america-rd-trial-private-5g-for-manufacturing/103175231"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-103175231,imgsize-652940,width-1200,height=765,overlay-ettelecom/telecom-equipment/ericsson-aws-hitachi-america-rd-trial-private-5g-for-manufacturing.jpg"
-        width: 1200
-        height: 765
-        isCached: true
-  - title: "Ericsson, AWS, and Hitachi Collaborate on Groundbreaking Private 5G Trial"
-    excerpt: "In a pioneering partnership, Ericsson, Amazon Web Services (AWS), and Hitachi America R&D have united ... He highlighted the ability of private 5G, cloud technology, and artificial intelligence/machine learning to revolutionize manufacturing processes ..."
-    publishedDateTime: 2023-08-29T11:07:00Z
-    webUrl: "https://www.telecomlead.com/telecom-equipment/ericsson-aws-and-hitachi-collaborate-on-groundbreaking-private-5g-trial-112073"
-    ampWebUrl: "https://www.telecomlead.com/telecom-equipment/ericsson-aws-and-hitachi-collaborate-on-groundbreaking-private-5g-trial-112073?amp=1"
-    cdnAmpWebUrl: "https://www-telecomlead-com.cdn.ampproject.org/c/s/www.telecomlead.com/telecom-equipment/ericsson-aws-and-hitachi-collaborate-on-groundbreaking-private-5g-trial-112073?amp=1"
-    type: article
-    provider:
-      name: Telecom Lead
-      domain: telecomlead.com
-    quality: 58
-    images:
-      - url: "https://www.telecomlead.com/wp-content/uploads/2023/08/5G-private-network-for-smart-factory-environment.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "AWS and Ericsson build 5G machine vision system for Hitachi car factory"
     excerpt: "artificial intelligence (AI), Edge-to-cloud technologies, and private 5G. The system used Ericsson's Private 5G offering, which provides connectivity through a single server dual mode core, and the AWS Snowball Edge device. The Snow Family offerings are ..."
     publishedDateTime: 2023-08-30T10:40:00Z
@@ -93,15 +61,20 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "North America Robot Orders Drop for Second Quarter"
-    excerpt: "When combined with first quarter results, the robotics market in North America is down 29% compared to the first half of last year with a total of 16,865 robots ordered. This drop comes after a record 2022, where North American companies ordered 44,196 robots, up 11% over 2021, the previous record."
-    publishedDateTime: 2023-08-31T14:15:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/08/31/9873204.htm"
+  - title: "Ericsson Works with AWS and Hitachi America R&D to Showcase Smart Factory Potential"
+    excerpt: "Three of the biggest names in global technology have joined forces to highlight the ability of already-available 5G, artificial intelligence (AI) and automation solutions to transform manufacturing and improve productivity,"
+    publishedDateTime: 2023-08-30T00:00:00Z
+    webUrl: "https://www.automation.com/en-us/articles/august-2023/ericsson-aws-hitachi-america-r-d-smart-factory"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
+      name: Automation
+      domain: automation.com
+    quality: 33
+    images:
+      - url: "https://www.automation.com/getmedia/b63fa3a7-54cb-4b30-a5ea-a3444af636d1/smart-factory-news-Aug-30-2023-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
   - title: "Hitachi demos machine vision on edge-5G at US autoplant – with Ericsson, AWS"
     excerpt: "Hitachi has hooked up private 5G from Ericsson to an edge engine from AWS to run computer vision checks on an assembly line in Kentucky."
     publishedDateTime: 2023-08-29T14:33:00Z
@@ -120,24 +93,6 @@ related:
       name: Voicendata.com
       domain: voicendata.com
     quality: 16
-  - title: "Ericsson works with AWS and Hitachi America R&D to showcase smart factory potential"
-    excerpt: "Collaboration focuses on real-time digital video, artificial intelligence (AI), and edge-to-cloud technologies across a private 5G wireless networkThe successful collaboration demonstrates potential f"
-    publishedDateTime: 2023-08-29T11:33:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/n34085717/ericsson-works-with-aws-and-hitachi-america-r-d-to-showcase-smart-factory-potential"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 13
-  - title: "Ericsson works with AWS and Hitachi America R&D to showcase smart factory potential"
-    excerpt: "Collaboration focuses on real-time digital video, artificial intelligence (AI), and edge-to-cloud technologies across a private 5G wireless networkThe successful collaboration demonstrates potential"
-    publishedDateTime: 2023-08-29T17:01:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-08/59969520-ericsson-works-with-aws-and-hitachi-america-r-d-to-showcase-smart-factory-potential-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 13
 
 secured: "1qxXKEq2+7EK7eRKsHr3GdHptrRl3cfTdZtmwwQIpU/AM511vaZTtRUoR2yZc13/GcI1j2C+DCi0BidDgokG3mrNvfu21bYoFMhXhQ+jz+ofCpCtPmqmXczterDPN8fU4nrA1L7F6HQdzalGQqaR1ak0/NFW9m1Gyi+qlQ9BjpyUyhlJI2e8QVR0Q7as+v6lIFCM/BIIOLBbYVgIyvFcoeGBNgcdvRXJqiElh2g2wQOzyYjL+uaBUzr02ZRosrkXrX6xhON3OrjpDYEfQfy7l5JRJh91/x95Jx1Z2Nva3v02nW6tIyJo8G9gvO1HtUBoDvLTxNBaX88bIqd6YBq1ctcXd7pomDl5niN8/8md14xTUNfiesynjWe6AQPKh1f0HSMLrSzOicnee3Y8MJA6EiqASVz+RhssF+g0xdVfcmbbeyoaUKQJZxFhjJQNsIWk9UhGho1NUkkZY5//nAhTk/PI+UayXoo4WXDMxKq8zWKUtQWglU9vWS1KVlS13OVNtY4z4YPrlLgL2e4InqpL9Q==;6i91OObJO55rPdY1LXc2xQ=="
 ---

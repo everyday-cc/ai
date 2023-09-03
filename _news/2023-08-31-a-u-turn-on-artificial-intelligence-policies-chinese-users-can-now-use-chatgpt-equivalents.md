@@ -50,15 +50,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Nervous About ChatGPT? Try ChatGPT With a Hammer"
-    excerpt: "An LLM can generate code much faster than any human programmer, so it can manipulate the systems and services of your computer with ease ... generative AI sudden access to millions of APIs—as Microsoft plans to—could be a little like letting a toddler ..."
-    publishedDateTime: 2023-08-29T12:00:00Z
-    webUrl: "https://www.wired.com/story/does-chatgpt-make-you-nervous-try-chatgpt-with-a-hammer/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 34
 
 secured: "Y5lgcxScBuQLTj5MBQMW4q5ME2u+YPymmL7nv0wsgBHRvhmO/hLoLc1yvdcIIZehR6QBvEaa25vqSQ6B1CWFE7bteFaJCZS7TpsZGm8Qlow9PfIlMe2/YRuwm3ADk1JBh8dQtEV4EAXoHwvk2Xtheo93A+sbIu88t2T5e9SeRk3mow4uzeK3VqK2TyvGH6fNPJ8fBJT1pfbKu2xvLdQZfA0vi+6m8rVTMj2h4ab2zdi3y12CojyxrlncSH5AUw4qQdxKI99yyGygFFMoNXzeJ7znU5Kyr5DnOD/aiQ8tz3UUQqfWfX+ieVm12UNHkRLqJyHnacN4qD8tF+tXS0z6+dSlqcWzahxFkqQReXeVMm70nEPtS3o4XMvYd+njhzfXYc3l1TpjeM8wJ3issxJz9P0OgwqaY92RVhGYSOO9VI7W5lASRI2O0UA8Wd/jldKviz3xqthexpofhWdL1eeQhdW8JFnxxsAoNkdSfLKDepDue+ISO1upDKQNV6XWNwY5fpHUUiCxvndb1UBNWIV2/g==;0igA4Q3WzLxftLi6ZVlr3Q=="
 ---

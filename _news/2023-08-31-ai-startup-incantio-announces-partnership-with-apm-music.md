@@ -48,15 +48,6 @@ related:
         width: 300
         height: 278
         isCached: true
-  - title: "Elemental Cognition Announces Strategic AI Partnership with Google Cloud To Accelerate Time to ..."
-    excerpt: "EC was founded in 2015 by Dr. David Ferrucci, the renowned AI researcher and inventor of IBM’s breakthrough Watson technology, to create the next wave of AI. Visit us at https://www.ec.ai."
-    publishedDateTime: 2023-08-29T12:38:00Z
-    webUrl: "https://www.bakersfield.com/ap/news/elemental-cognition-announces-strategic-ai-partnership-with-google-cloud-to-accelerate-time-to/article_c076d70a-d4b1-5ea3-a918-21d7dc8356c3.html"
-    type: article
-    provider:
-      name: The Bakersfield Californian
-      domain: bakersfield.com
-    quality: 5
 
 secured: "3NCQuqjcDvZ8m/tWYQjNYuIjI50Ks4Ol6C2OKD4Iiww6F8afWuV2m0q9VmNp5t6vCcOQLQNwXmwscwPqmZm2ON0mMzjVTxZ+asv/Kuez/PIF4g2LU0mKc/2zw5+szubVFSxQXn/+LHG2+9pd3S3AlKe0DpqfH3wIvzwHk52B6yjOE7gtLnftlHKh+Se6wJFtYkJX/y/GrHGlkHxz9YnReG/W7Eopp10U6mK9+V4CZmgGA+xaPZtGzVTLXPw3Br7QU/KU7ZRuMQqAdwy27okS7OC4v5fIJC8hj0WC7hN/7rrthcxn5rDA5DFSqCqzm0dMCCXdNb7G4zxgAAXmENbQD2ZTbGBM7lcYXh3TVqJrN1I=;+8jNVj8e8MUrhBenPbBhcQ=="
 ---

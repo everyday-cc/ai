@@ -1,0 +1,77 @@
+---
+category: news
+title: "David Littleproud backs Peter Dutton's promise of Indigenous recognition referendum should the Voice to Parliament fail"
+excerpt: "National's leader David Littleproud says his party will support Peter Dutton's promise of a second referendum to recognise Indigenous Australians in the constitution if the \"yes\" vote fails and the Coalition wins the next election."
+publishedDateTime: 2023-09-03T02:28:00Z
+originalUrl: "https://www.canberratimes.com.au/story/8333855/nationals-back-duttons-promise-of-a-second-referendum-if-voice-fails/"
+webUrl: "https://www.canberratimes.com.au/story/8333855/nationals-back-duttons-promise-of-a-second-referendum-if-voice-fails/"
+type: article
+quality: 15
+heat: -1
+published: false
+
+provider:
+  name: The Canberra Times
+  domain: canberratimes.com.au
+
+topics:
+  - Natural Language Processing
+  - AI
+
+images:
+  - url: "https://www.canberratimes.com.au/images/transform/v1/crop/frm/212131485/f5f0e371-eff4-4e41-88d6-f5e114419937.jpg/r0_361_5200_3091_w1200_h630_fmax.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "Australia news live: Littleproud says ‘there’ll be no victory lap’ from Nationals if voice referendum fails"
+    excerpt: "Nationals leader backs Peter Dutton’s call to hold a referendum on Indigenous recognition if the voice to parliament vote fails in October. Follow the latest news live More from that chat with Littleproud on the voice. The Nationals leader also said the ..."
+    publishedDateTime: 2023-09-03T03:56:00Z
+    webUrl: "https://www.theguardian.com/australia-news/live/2023/sep/03/australia-news-live-parliament-indigenous-voice-referendum-sunday?filterKeyEvents=false&page=with:block-64f3f4758f083bb275c23a13"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/live/2023/sep/03/australia-news-live-parliament-indigenous-voice-referendum-sunday"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2023/sep/03/australia-news-live-parliament-indigenous-voice-referendum-sunday"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 41
+    images:
+      - url: "https://i.guim.co.uk/img/media/ba76fe6dc61ea8d964a0ca6161b8a7471973c770/0_180_7387_4436/master/7387.jpg?width=620&quality=85&auto=format&fit=max&s=825fc5452f17a6d77ac911dd093bda94"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Peter Dutton pledges new referendum solely on recognition if Voice fails and Liberal party wins next election"
+    excerpt: "Opposition leader Peter Dutton has pledged to hold another referendum solely on recognising Indigenous Australians in the Constitution if the Voice fails."
+    publishedDateTime: 2023-09-02T23:44:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/politics/peter-dutton-pledges-new-referendum-solely-on-recognition-if-voice-fails-and-liberal-party-wins-next-election/news-story/ebd519d8c787f9e641a4ac71970eea0f"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/politics/peter-dutton-pledges-new-referendum-solely-on-recognition-if-voice-fails-and-liberal-party-wins-next-election/news-story/ebd519d8c787f9e641a4ac71970eea0f?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/politics/peter-dutton-pledges-new-referendum-solely-on-recognition-if-voice-fails-and-liberal-party-wins-next-election/news-story/ebd519d8c787f9e641a4ac71970eea0f?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 40
+    images:
+      - url: "https://content.api.news/v3/images/bin/096fac636a9bb30569f291acea0a7e3c"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Peter Dutton says he will back a second referendum if Voice fails"
+    excerpt: "The opposition has left the door open to constitutional recognition for First Nations Australians if the Yes campaign is not successful."
+    publishedDateTime: 2023-09-03T00:34:00Z
+    webUrl: "https://www.sbs.com.au/news/article/peter-dutton-says-he-will-back-a-second-referendum-if-voice-fails/9d1l8g7lu"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 39
+    images:
+      - url: "https://images.sbs.com.au/dims4/default/b3f318f/2147483647/strip/true/crop/8256x4644+0+430/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F60%2F52%2F2174273146089c113fd06924f1eb%2Fpeter-dutton.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "TnstWBlIFsUiKdAz/KuSD7Ef6+JHpB0LSR03Ya7QG2VZlD50mrRXg3qjkEb4ja/egfnFLKxL+6TzZUhXUw8PEubTIqMBQ7wcpKh+J108TGre0q2tR8+lroFIBRHEQFitaw3sJV4l3oZHQRUhqPmWQbCtU0Lk86WFUxLBu6uEcohOn2bc/bA5ZpJgGyCzjKz/F55VuNtjbi9nukDTszKUP3MTM2EhSTHp9L1o1CYpa6Clihjjq+7Y+CPkEDH7cCVBxIkGskmUEmWFYZpWXMbXZ7ZBQYieRop8ikD6wOyaxC0KsLq9J5JtCfByP41fojTaeCFZd2EVDZgPLyoPKNI6OauZkB0EpsNsJm80vBa8UxU=;ghdDZ09AnZEC0K6S3tLf1g=="
+---
+

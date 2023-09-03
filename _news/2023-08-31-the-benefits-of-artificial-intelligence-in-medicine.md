@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 591
         isCached: true
-  - title: "The benefits of Artificial Intelligence in Medicine"
-    excerpt: "However, we must ask ourselves what moral and ethical boundaries need to be respected as we continue to integrate artificial intelligence into healthcare; issues of patient security, data protection, and human-centred care will remain in question as ..."
-    publishedDateTime: 2023-08-29T12:04:00Z
-    webUrl: "https://www.pulse.ng/business/domestic/the-benefits-of-artificial-intelligence-in-medicine/ehgkv7q"
-    type: article
-    provider:
-      name: Naija Gist - Latest
-      domain: pulse.ng
-    quality: 39
-    images:
-      - url: "https://ocdn.eu/pulscms-transforms/1/M6GktkpTURBXy8xYjA0MzYyZmYwMTYyZjhkMjkxNGVhZDU5NTdlZGE1Yi5wbmeSlQMACM0BAsyRkwXNBLDNAnY"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "aH6mt6AdF25m8VZzofKI2TwDL5PZGYqqXVno4N68ISVUOZ7LCbWTHkPiNSruwPPAD+2hbt0lFYIhfd8qIdc9BTC7b9cevNYXM5XBQwOUrE14q0YH7Bzs/yPVj5BlTKsmwCacpFtoIn5hmXUFJBzj8GT6CMJf6JEMNK2mBWkDvTtKZ/wBlMOcskJLEzqaVYIuYVCkMDLh6VytNDYHLi+a1pFqk3DjIujMBt5UfWzgtCVq639xWpFf6uTdOBxcQXUV+95iEyc/jEEQgeXdw2DuHhVxQOlDR9SkUOaXwnPh3NjPqM4kOFrj90n09hjT9NvMYKcBmzn6F+RW2KWDHfURxwbmZlEKoSbWBI+ytsTmuRkeXvyNCwYTWfcut2nSv/UrUYCu5dok6g5Cs05j+Gefgz+jLCX/nZAOZemF9Ac73iF70Ea7QAqPuTx5K18JmPE92lgQjfJTUm9RNanOvifQA5vOaflfzVUSVJW4XnJTmfN8mXD0BNIJkDgY7UpPf7vM4o9FVa5YtDkeUBtxHYwv5Q==;iFPqydzXzoJjkxOD9e5hoQ=="
 ---

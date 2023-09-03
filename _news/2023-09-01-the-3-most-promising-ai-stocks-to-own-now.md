@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-31T22:49:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/the-3-most-promising-ai-stocks-to-own-now-1032597962"
 webUrl: "https://markets.businessinsider.com/news/stocks/the-3-most-promising-ai-stocks-to-own-now-1032597962"
 type: article
-quality: 51
+quality: 53
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ topics:
   - AI
   - Facebook AI
   - AI in Robotics
+  - AI in Autos
 
 related:
   - title: "3 Up-and-Coming AI Chip Stocks to Put on Your Must-Buy List"

@@ -2,6 +2,49 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2023-07-19-artificial-intelligence-is-changing-social-media.md",
+      "title": "Artificial Intelligence Is Changing Social Media",
+      "excerpt": "Artificial intelligence is quickly becoming part of our social media world on our cellphones and computers. Text, images, audio and video are becoming easier for anyone to create using new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.voanews.com/a/artificial-intelligence-is-changing-social-media-/7186991.html",
+      "originalUrl": "https://www.voanews.com/a/artificial-intelligence-is-changing-social-media-/7186991.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gdb.voanews.com/01000000-0a00-0242-35a5-08db884d3054_w1080_h608_s_b.jpeg",
+          "width": 1080,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.voanews.com/amp/artificial-intelligence-is-changing-social-media-/7186991.html",
+      "cdnAmpWebUrl": "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/artificial-intelligence-is-changing-social-media-/7186991.html",
+      "publishedDateTime": "2023-07-19T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Voice of America",
+        "domain": "voanews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-19-fox-news-artificial-intelligence-newsletter-nolan-on-ais-oppenheimer-moment-and-musks-lofty-goal.md",
       "title": "Fox News Artificial Intelligence Newsletter: Nolan on AI's 'Oppenheimer' moment and Musk's lofty goal",
       "excerpt": "Stay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents now and for the future.",
@@ -1139,49 +1182,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-speech-recognition-eu-27.md",
-      "title": "Speech Recognition - EU-27",
-      "excerpt": "Value in the Speech Recognition market is projected to reach US$1.32bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 16.82%, resulting in a market volume of US$3 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/speech-recognition/eu-27",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/speech-recognition/eu-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-18T23:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Popular AI Tools Can Hurt Your Mental Health, New Study Finds"
-    excerpt: "According to a new study, AI tools generate harmful content that can trigger eating disorders and other mental health conditions. Taylor Leamey Senior Writer Taylor Leamey writes about all things wellness, specializing in mental health, sleep and nutrition ..."
-    publishedDateTime: 2023-08-29T13:00:00Z
-    webUrl: "https://www.cnet.com/health/mental/popular-ai-tools-can-hurt-your-mental-health-new-study-finds/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 47
   - title: "More than half of Canadian students over 18 use AI tools: survey"
     excerpt: "More than half of students over 18 have used generative AI to complete their school work or pass an exam, despite 60 per cent feeling that it constitutes cheating, according to a recent survey by business consulting firm KPMG."
     publishedDateTime: 2023-08-31T20:49:00Z
@@ -39,6 +30,15 @@ related:
       name: CTV News
       domain: ctvnews.ca
     quality: 39
+  - title: "Canadian Broker Network launches first AI automation bot"
+    excerpt: "TORONTO, ON, AUGUST 29, 2023/insPRESS/ – Canadian Broker Network (CBN), Canada’s leading network of independent insurance brokers, and insurance automation startup Quandri, today announced the launch of CBN’s first artificial intelligence robot to ..."
+    publishedDateTime: 2023-08-29T14:48:00Z
+    webUrl: "https://www.canadianunderwriter.ca/inspress/canadian-broker-network-launches-first-ai-automation-bot/"
+    type: article
+    provider:
+      name: Canadian Underwriter
+      domain: canadianunderwriter.ca
+    quality: 19
 
 secured: "cjOeVS8cmOIaDuwHpSRzEzkouoh1c5UV2LSCTIX0PNz4s3lOWK08I+ecOeIgj0GFLj6uxe/w8mtHW2ehDMpy99dOnYyI+dXWTP0ndyUpCsplMk0gxHeZVOghnBxi2UFIvvEvGxdkngoNHgVeu8dmoFGiOELXiLqYEWdzWbMlD4GW/bz02XGLC+MOnytMCNs6PZkukOIFMsEDpGdfkLAHQenBf9AeXj4iXc1eAxf/kHxICgE0Lgi4tIP3aB7fVJwLIgvWJcK2OPC3ctyEVEgtTeBWyUfy9bD23QiO9129Us+vaskNoIC6DoQx0/IDI2yzx+kujpkmiEExmadRLYFXDAEY38ZV9Wrvty9QNAR5MAI=;UoevhQe2gm0M7ykvlQHbRQ=="
 ---

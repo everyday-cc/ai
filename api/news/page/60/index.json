@@ -2,6 +2,58 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2023-07-21-analyze-rodent-infestation-using-amazon-sagemaker-geospatial-capabilities.md",
+      "title": "Analyze rodent infestation using Amazon SageMaker geospatial capabilities",
+      "excerpt": "Rodents such as rats and mice are associated with a number of health risks and are known to spread more than 35 diseases. Identifying regions of high rodent activity can help local authorities and pest control organizations plan for interventions effectively and exterminate the rodents. In this post,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/analyze-rodent-infestation-using-amazon-sagemaker-geospatial-capabilities/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/analyze-rodent-infestation-using-amazon-sagemaker-geospatial-capabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/13/ML-13593-image001-1103x630.png",
+          "width": 1103,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-21T11:29:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-22-biden-delivers-remarks-on-artificial-intelligence.md",
       "title": "Biden Delivers Remarks on Artificial Intelligence",
       "excerpt": "The president met with seven leading A.I. companies that have committed to voluntary standards to manage the risks associated with the emerging technology.",
@@ -1175,58 +1227,6 @@
         "Machine Learning",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-2-ai-stocks-you-can-buy-right-now-for-under-100.md",
-      "title": "2 AI Stocks You Can Buy Right Now for Under $100",
-      "excerpt": "However, you don't need boatloads of cash to get exposure to this latest Wall Street trend. If you've got just $100 (which you don't need for contingencies and paying bills), you could buy a few shares of one of these AI stocks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/21/2-ai-stocks-you-can-buy-right-now-for-under-100/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/21/2-ai-stocks-you-can-buy-right-now-for-under-100/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/739881/ai-artificial-intelligence-in-circle-on-keyboard.jpg",
-          "width": 2359,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-21T02:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

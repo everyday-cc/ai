@@ -145,15 +145,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Inside Google's Plans To Fix Healthcare With Generative AI"
-    excerpt: "“[It’s] a risky part of the healthcare journey, because we're transferring information ... this transfer of information could be a good opportunity to apply generative artificial intelligence. Large language models are good at summarizing and ..."
-    publishedDateTime: 2023-08-29T12:02:00Z
-    webUrl: "https://www.forbes.com/sites/katiejennings/2023/08/29/google-healthcare-generative-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "Google’s AI-powered search comes to India: How to sign-up and start using"
     excerpt: "Google is expanding its AI-powered search feature, known as SGE (Search Generative Experience), to India and Japan. SGE allows users to ask conversational questions and receive AI-generated answers. It is available as an opt-in experiment in Google's Search Labs and can be accessed through the Google app and Chrome desktop."
     publishedDateTime: 2023-08-31T04:40:00Z
@@ -230,15 +221,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 34
-  - title: "Google expands generative AI model Med-PaLM to more health customers"
-    excerpt: "Google is expanding access of its large language model that’s specifically trained on medical information through a preview with Google Cloud customers in the healthcare and life sciences industry next month. A limited group of customers have been ..."
-    publishedDateTime: 2023-08-29T12:12:00Z
-    webUrl: "https://www.healthcaredive.com/news/google-med-palm-ai-expansion-healthcare/691677/"
-    type: article
-    provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
-    quality: 19
   - title: "Generative artificial intelligence has entered the classroom"
     excerpt: "Artificial intelligence (AI) is changing the classroom ... Faculty are also focusing on plagiarism, considering possible bias, and concerns about ethics, intellectual property, misinformation, and disinformation. Prabu David, RIT’s new provost and ..."
     publishedDateTime: 2023-08-30T13:37:00Z

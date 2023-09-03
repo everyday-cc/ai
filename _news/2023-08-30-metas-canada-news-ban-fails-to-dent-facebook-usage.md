@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Meta’s news ban fails to dent Facebook usage"
-    excerpt: "Meta’s decision to block news links in Canada this month has had almost no impact on Canadians’ usage of Facebook, data from independent ... Another analytics firm, Data.ai, likewise told Reuters that its data was not showing any meaningful change ..."
-    publishedDateTime: 2023-08-29T11:36:00Z
-    webUrl: "https://www.theglobeandmail.com/canada/article-metas-news-ban-fails-to-dent-facebook-usage/"
-    ampWebUrl: "https://www.theglobeandmail.com/amp/canada/article-metas-news-ban-fails-to-dent-facebook-usage/"
-    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/canada/article-metas-news-ban-fails-to-dent-facebook-usage/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 59
-    images:
-      - url: "https://www.theglobeandmail.com/resizer/86Q8q3ZzrXClWGHjIQl5eRHDi-4=/1200x774/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/PMVIYKRQIBMZLJ2BWJ4QQ75CYE.JPG"
-        width: 1200
-        height: 774
-        isCached: true
   - title: "How To Stop Facebook Using Your Personal Data To Train AI"
     excerpt: "How much mileage you get from your opt out request may vary depending on your location, but it's worth a shot and at least partially addresses one of the AI ethics issues that has arisen as the technology booms in 2023. We say Facebook has “quietly ..."
     publishedDateTime: 2023-09-01T11:27:00Z

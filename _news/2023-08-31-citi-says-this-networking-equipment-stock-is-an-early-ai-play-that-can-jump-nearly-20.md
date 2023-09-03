@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "UBS upgrades this stock it says can jump another 20% on AI excitement"
-    excerpt: "\"We believe GPU supply constraints could be enough to drive outsized performance in Oracle shares.\" Shares of Oracle have popped nearly 43% this year, boosted by investors' views that the company is an AI beneficiary. Shares are up 2.7% in premarket ..."
-    publishedDateTime: 2023-08-29T11:16:00Z
-    webUrl: "https://www.cnbc.com/2023/08/29/oracle-gets-upgrade-from-ubs-says-stock-can-jump-another-20percent-on-ai-excitement.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 69
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107270422-1689175399072-gettyimages-1536923688-dscf5880_kqgdguqw.jpeg?v=1693307724&w=1920&h=1080"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Morgan Stanley downgrades this big AI winner, says stock can fall more than 40%"
     excerpt: "Difficulties monetizing around artificial intelligence could spell bad news for Palantir after its massive rally, Morgan Stanley warned. Analyst Keith Weiss downgraded the data analytics stock to underweight from equal weight while adding $1 to his price target to $9."
     publishedDateTime: 2023-08-31T08:04:00Z
@@ -53,6 +39,20 @@ related:
     quality: 63
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/106807440-1607372084669-gettyimages-1228810311-PALANTIR_NYSE.jpeg?v=1693476296&w=1920&h=1080"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Morgan Stanley names this tech stock a top pick, says AI server demand could boost it by nearly 25%"
+    excerpt: "Growing demand for artificial intelligence servers should boost shares of Dell Technologies over the long haul, according to Morgan Stanley. Analyst Erik Woodring named Dell a top pick within the IT hardware space,"
+    publishedDateTime: 2023-09-01T08:03:00Z
+    webUrl: "https://www.cnbc.com/2023/09/01/ai-server-demand-could-boost-this-stock-nearly-25percent-morgan-stanley-says.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 53
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/105927659-1558537836009gettyimages-181792558.jpeg?v=1693562613&w=1920&h=1080"
         width: 1920
         height: 1080
         isCached: true

@@ -41,6 +41,15 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Australian Opposition Backs Second Referendum if Voice Fails"
+    excerpt: "The leader of Australia’s opposition Liberal Party said it will hold a second referendum to recognize Indigenous people in the country’s constitution if the national vote on whether to incorporate an advisory body on matters affecting them fails on Oct."
+    publishedDateTime: 2023-09-03T01:07:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-09-03/australian-opposition-backs-second-referendum-if-voice-fails"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 49
   - title: "Australians are voting on creating an Indigenous Voice to Parliament. Here's what you need to know"
     excerpt: "Australians will vote on Oct. 14 in a referendum that would enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that effect their lives known as th"
     publishedDateTime: 2023-08-30T02:32:00Z

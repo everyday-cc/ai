@@ -2,6 +2,57 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2023-07-13-stability-ai-releases-stable-doodle-a-sketch-to-image-tool.md",
+      "title": "Stability AI releases Stable Doodle, a sketch-to-image tool",
+      "excerpt": "Stability has released a new tool through Clipdrop, the AI art platform it acquired recently, that turns sketches into artwork.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/07/13/stability-ai-releases-stable-doodle-a-sketch-to-image-tool/",
+      "originalUrl": "https://techcrunch.com/2023/07/13/stability-ai-releases-stable-doodle-a-sketch-to-image-tool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/07/imgonline-com-ua-twotoone-VgOccXiK2k1l.jpg?resize=1200,600",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/07/13/stability-ai-releases-stable-doodle-a-sketch-to-image-tool/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/13/stability-ai-releases-stable-doodle-a-sketch-to-image-tool/amp/",
+      "publishedDateTime": "2023-07-13T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-13-google-bard-is-stepping-up-its-ai-game-with-these-new-features.md",
       "title": "Google Bard is stepping up its AI game with these new features",
       "excerpt": "Google has been adding new features to Bard since its underwhelming launch in order to improve user experience. In its latest update, Google largely expanded Bard's language and country availability and also added many new features.",
@@ -1112,40 +1163,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-profet-ais-first-overseas-crossover-talks.md",
-      "title": "Profet AI’s First Overseas Crossover Talks",
-      "excerpt": "Jonathan Yu, General Manager of Sales of Profet AI, said: “There are more than 5 trillion-dollar industries in Taiwan, and Profet AI has over 100 success cases. We’re going to take these experiences to Vietnam. We want to cultivate local talents with our advanced AI technology, which will help both markets grow.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.macaubusiness.com/profet-ais-first-overseas-crossover-talks/",
-      "originalUrl": "https://www.macaubusiness.com/profet-ais-first-overseas-crossover-talks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T19:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Macau Business",
-        "domain": "macaubusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

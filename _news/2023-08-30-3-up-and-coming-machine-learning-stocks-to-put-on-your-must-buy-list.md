@@ -54,7 +54,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 51
+    quality: 53
   - title: "3 AI Stocks That Every Forward-Thinking Investor Should Own Now"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The future is artificial intelligence (AI) and any industry you name has AI"
     publishedDateTime: 2023-08-30T22:05:00Z

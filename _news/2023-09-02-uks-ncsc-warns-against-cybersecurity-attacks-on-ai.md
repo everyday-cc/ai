@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Google debuts Duet AI to tackle new cybersecurity challenges in the cloud"
-    excerpt: "The use of AI in modern defense has dominated the Google Next security discussion. The tech giant has introduced new solutions capitalizing on AI to fend off cyberattackers."
-    publishedDateTime: 2023-08-29T12:00:00Z
-    webUrl: "https://www.zdnet.com/article/google-debuts-duetai-to-tackle-new-cybersecurity-challenges-in-the-cloud/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-debuts-duetai-to-tackle-new-cybersecurity-challenges-in-the-cloud/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-debuts-duetai-to-tackle-new-cybersecurity-challenges-in-the-cloud/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 86
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/63b242168e371cf2ef4ae64a90a33d552ba837c4/2023/08/29/268d1250-ced6-490a-9d7c-3f353a068be7/gettyimages-1236886242.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Cybersecurity experts are warning about a new type of AI attack"
     excerpt: "Here's what to know about these type of attacks, which involve the large language models that power AI systems like chatbots."
     publishedDateTime: 2023-08-31T17:32:00Z

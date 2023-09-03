@@ -9,7 +9,7 @@ ampWebUrl: "https://www.popsci.com/technology/prompt-injection-attacks-llms-ai/?
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/prompt-injection-attacks-llms-ai/?amp"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google debuts Duet AI to tackle new cybersecurity challenges in the cloud"
-    excerpt: "The use of AI in modern defense has dominated the Google Next security discussion. The tech giant has introduced new solutions capitalizing on AI to fend off cyberattackers."
-    publishedDateTime: 2023-08-29T12:00:00Z
-    webUrl: "https://www.zdnet.com/article/google-debuts-duetai-to-tackle-new-cybersecurity-challenges-in-the-cloud/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-debuts-duetai-to-tackle-new-cybersecurity-challenges-in-the-cloud/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-debuts-duetai-to-tackle-new-cybersecurity-challenges-in-the-cloud/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 86
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/63b242168e371cf2ef4ae64a90a33d552ba837c4/2023/08/29/268d1250-ced6-490a-9d7c-3f353a068be7/gettyimages-1236886242.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "UK’s NCSC Warns Against Cybersecurity Attacks on AI"
     excerpt: "U.K.’s National Cyber Security Centre publication on AI details attacks that might target organizations implementing or developing ML models."
     publishedDateTime: 2023-09-01T18:36:00Z

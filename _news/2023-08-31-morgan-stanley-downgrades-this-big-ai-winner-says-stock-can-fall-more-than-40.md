@@ -7,8 +7,8 @@ originalUrl: "https://www.cnbc.com/2023/08/31/morgan-stanley-downgrades-this-big
 webUrl: "https://www.cnbc.com/2023/08/31/morgan-stanley-downgrades-this-big-ai-winner-says-stock-can-fall-more-than-40percent.html"
 type: article
 quality: 63
-heat: -1
-published: false
+heat: 83
+published: true
 
 provider:
   name: CNBC
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "UBS upgrades this stock it says can jump another 20% on AI excitement"
-    excerpt: "\"We believe GPU supply constraints could be enough to drive outsized performance in Oracle shares.\" Shares of Oracle have popped nearly 43% this year, boosted by investors' views that the company is an AI beneficiary. Shares are up 2.7% in premarket ..."
-    publishedDateTime: 2023-08-29T11:16:00Z
-    webUrl: "https://www.cnbc.com/2023/08/29/oracle-gets-upgrade-from-ubs-says-stock-can-jump-another-20percent-on-ai-excitement.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 69
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107270422-1689175399072-gettyimages-1536923688-dscf5880_kqgdguqw.jpeg?v=1693307724&w=1920&h=1080"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Citi says this networking equipment stock is an early AI play that can jump nearly 20%"
     excerpt: "Analyst Atif Malik upgraded the networking equipment stock to buy from neutral and raised his price target to $220 from $177."
     publishedDateTime: 2023-08-31T09:51:00Z
@@ -53,6 +39,20 @@ related:
     quality: 59
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/105687856-1547843626883gettyimages-1022511206.jpeg?v=1693482686&w=1920&h=1080"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Morgan Stanley names this tech stock a top pick, says AI server demand could boost it by nearly 25%"
+    excerpt: "Growing demand for artificial intelligence servers should boost shares of Dell Technologies over the long haul, according to Morgan Stanley. Analyst Erik Woodring named Dell a top pick within the IT hardware space,"
+    publishedDateTime: 2023-09-01T08:03:00Z
+    webUrl: "https://www.cnbc.com/2023/09/01/ai-server-demand-could-boost-this-stock-nearly-25percent-morgan-stanley-says.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 53
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/105927659-1558537836009gettyimages-181792558.jpeg?v=1693562613&w=1920&h=1080"
         width: 1920
         height: 1080
         isCached: true

@@ -2,6 +2,49 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2023-07-17-university-of-guelphs-ai-and-machine-learning-gets-investment-from-ontario.md",
+      "title": "University of Guelph’s AI and Machine Learning gets investment from Ontario",
+      "excerpt": "The University of Guelph’s Centre for Advancing Responsible and Ethical Artificial Intelligence (CARE-AI) will launch a new micro-learning platform for high school and post-secondary students to spark interest in AI and machine learning in the automotive ...",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/university-of-guelphs-ai-and-machine-learning-gets-investment-from-ontario/",
+      "originalUrl": "https://indiaeducationdiary.in/university-of-guelphs-ai-and-machine-learning-gets-investment-from-ontario/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2022/06/University-of-Guelph.png",
+          "width": 864,
+          "height": 317,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/university-of-guelphs-ai-and-machine-learning-gets-investment-from-ontario/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-guelphs-ai-and-machine-learning-gets-investment-from-ontario/",
+      "publishedDateTime": "2023-07-16T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-17-microsoft-semantic-kernel-will-support-openai-plugins.md",
       "title": "Microsoft Semantic Kernel will support OpenAI plugins",
       "excerpt": "Fall 2023 roadmap for the LLM-integrating SDK also lists plans for plugin testing, dynamic planners, end-to-end telemetry, and links to vector databases.",
@@ -1112,40 +1155,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-15-self-driving-cars-could-be-closer-than-you-think-mine-may-have-been-right-behind-you.md",
-      "title": "Self-driving cars could be closer than you think. Mine may have been right behind you.",
-      "excerpt": "My optimism about self-driving cars was renewed recently on a hot, sunny Wednesday in a crowded office park and on a stretch of interstate in Detroit’s northern suburbs. Expectations for self ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.freep.com/story/money/cars/mark-phelan/2023/07/15/ai-enabled-self-driving-car-could-be-on-road-in-2025-add-just-1500/70404051007/",
-      "originalUrl": "https://www.freep.com/story/money/cars/mark-phelan/2023/07/15/ai-enabled-self-driving-car-could-be-on-road-in-2025-add-just-1500/70404051007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-15T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit Free Press",
-        "domain": "freep.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -93,22 +93,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Google DeepMind has launched a watermarking tool for AI-generated images"
-    excerpt: "Google DeepMind has launched a new watermarking tool which labels whether images have been generated with AI. The tool, called SynthID, will initially only be available to users of Google’s AI image generator Imagen, which is hosted on Google Cloud’s ..."
-    publishedDateTime: 2023-08-29T12:02:00Z
-    webUrl: "https://www.technologyreview.com/2023/08/29/1078620/google-deepmind-has-launched-a-watermarking-tool-for-ai-generated-images/"
-    ampWebUrl: "https://www.technologyreview.com/2023/08/29/1078620/google-deepmind-has-launched-a-watermarking-tool-for-ai-generated-images/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/08/29/1078620/google-deepmind-has-launched-a-watermarking-tool-for-ai-generated-images/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 75
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/08/Copy-of-Copy-of-Watermark-final.gif?w=1920"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Google's DeepMind announces SynthID to watermark AI-generated images"
     excerpt: "Google's AI unit, DeepMind, has unveiled SynthID, a way to watermark AI-generated images for easier identification. In a blog post, announcing the new tool, DeepMind said that the technology was developed in conjunction with Google Cloud, and embeds a ..."
     publishedDateTime: 2023-08-30T11:56:00Z
@@ -126,20 +110,20 @@ related:
         height: 608
         isCached: true
   - title: "Google DeepMind co-founder calls for US to enforce AI standards"
-    excerpt: "The US has expanded restriction of exports of sophisticated Nvidia and Advanced Micro Devices artificial-intelligence chips beyond China to other regions including some countries in the Middle East."
-    publishedDateTime: 2023-09-01T13:32:00Z
-    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-8919888/"
-    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-8919888/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-8919888/lite/"
+    excerpt: "Google DeepMind co-founder asks US to allow Nvidia'a AI chip buyers to adhere to ethics when using the technology"
+    publishedDateTime: 2023-09-01T06:41:00Z
+    webUrl: "https://tribune.com.pk/story/2433514/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards"
+    ampWebUrl: "https://tribune.com.pk/story/2433514/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2433514/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards?amp=1"
     type: article
     provider:
-      name: The Indian Express
-      domain: indianexpress.com
+      name: The Express Tribune
+      domain: tribune.com.pk
     quality: 74
     images:
-      - url: "https://images.indianexpress.com/2023/08/nvidia-featured-reuters.jpg"
+      - url: "https://i.tribune.com.pk/media/images/google-deepmind1693550392-0/google-deepmind1693550392-0.jpg"
         width: 1200
-        height: 667
+        height: 630
         isCached: true
   - title: "Google DeepMind cofounder calls for US to enforce AI standards"
     excerpt: "The US should allow Nvidia's artificial intelligence (AI) chips only to buyers who agree to ethically use the technology, Google DeepMind's co-founder Mustafa Suleyman said on Friday."

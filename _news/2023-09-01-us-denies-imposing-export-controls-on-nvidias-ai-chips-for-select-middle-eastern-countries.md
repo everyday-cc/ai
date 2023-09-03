@@ -59,20 +59,6 @@ related:
         width: 3500
         height: 2334
         isCached: true
-  - title: "Huawei said to have built an AI GPU that matches the Nvidia A100"
-    excerpt: "The scarcity of the A100 has resulted in a black market for Nvidia AI chips in the Asian nation, where they sell for double their MSRP and without warranties. Qingfeng added that three Huawei board members are working with a special team from his company."
-    publishedDateTime: 2023-08-29T11:58:00Z
-    webUrl: "https://www.techspot.com/news/99948-huawei-alleged-have-ai-gpu-matches-nvidia-a100.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 84
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2021/11/2021-11-15-image-5.jpg"
-        width: 2048
-        height: 1366
-        isCached: true
   - title: "US bans sale of top Nvidia and AMD AI chips to the Middle East"
     excerpt: "Nvidia wrote in a regulatory filing that the US government had informed the company of a licensing requirement for a subset of A100 and H100 products"
     publishedDateTime: 2023-08-31T14:29:00Z

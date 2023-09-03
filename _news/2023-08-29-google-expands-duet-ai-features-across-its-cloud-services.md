@@ -47,15 +47,6 @@ related:
         width: 1300
         height: 640
         isCached: true
-  - title: "How 3 healthcare organizations are using generative AI"
-    excerpt: "We’re introducing Google Cloud healthcare customers using Med-PaLM 2 and other generative AI solutions."
-    publishedDateTime: 2023-08-29T12:00:00Z
-    webUrl: "https://blog.google/technology/health/cloud-next-generative-ai-health/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 86
   - title: "Google Unveils New AI-Powered Cloud Technologies Taking On AWS And Azure"
     excerpt: "At Cloud Next, Google unveiled AI strategies to rival AWS and Azure. New offerings include custom silicon and updated Vertex AI. Google targets AI-centric enterprises."
     publishedDateTime: 2023-09-01T19:24:00Z
@@ -124,20 +115,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Google-Cloud.jpeg"
         width: 6948
         height: 4634
-        isCached: true
-  - title: "Google Cloud debuts its most powerful, AI-optimized virtual machines yet"
-    excerpt: "In a blog post, Amin Vahdat, Google’s general manager of machine learning, systems and cloud AI ... similar to Microsoft Corp.’s Azure Stack. In that way, they can run various on-premises applications with the same Google Cloud application programming ..."
-    publishedDateTime: 2023-08-29T12:02:00Z
-    webUrl: "https://siliconangle.com/2023/08/29/google-cloud-debuts-powerful-ai-optimized-vms-yet/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 40
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/Google-Cloud-.jpg"
-        width: 636
-        height: 384
         isCached: true
   - title: "Google to add AI models to its cloud platform"
     excerpt: "Alphabet’s Google is adding artificial intelligence tools from companies including Meta Platforms and Anthropic to its cloud platform, weaving more generative AI into its products and positioning itself as a one-stop shop for cloud customers seeking to tap into the technology."

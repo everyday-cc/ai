@@ -7,7 +7,7 @@ originalUrl: "https://www.datacenterdynamics.com/en/news/aws-and-ericsson-build-
 webUrl: "https://www.datacenterdynamics.com/en/news/aws-and-ericsson-build-5g-machine-vision-system-for-hitachi-car-factory/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ericsson, AWS, Hitachi America R&D trial private 5G for manufacturing"
-    excerpt: "“By using the Ericsson Private 5G Network product, and running artificial intelligence and machine learning models on an AWS Snow Family device, we were able to demonstrate a reliable and secure connection to run machine vision inferences at the site to ..."
-    publishedDateTime: 2023-08-29T11:23:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/telecom-equipment/ericsson-aws-hitachi-america-rd-trial-private-5g-for-manufacturing/103175231"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/telecom-equipment/ericsson-aws-hitachi-america-rd-trial-private-5g-for-manufacturing/103175231"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/telecom-equipment/ericsson-aws-hitachi-america-rd-trial-private-5g-for-manufacturing/103175231"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-103175231,imgsize-652940,width-1200,height=765,overlay-ettelecom/telecom-equipment/ericsson-aws-hitachi-america-rd-trial-private-5g-for-manufacturing.jpg"
-        width: 1200
-        height: 765
-        isCached: true
-  - title: "Ericsson, AWS, and Hitachi Collaborate on Groundbreaking Private 5G Trial"
-    excerpt: "In a pioneering partnership, Ericsson, Amazon Web Services (AWS), and Hitachi America R&D have united ... He highlighted the ability of private 5G, cloud technology, and artificial intelligence/machine learning to revolutionize manufacturing processes ..."
-    publishedDateTime: 2023-08-29T11:07:00Z
-    webUrl: "https://www.telecomlead.com/telecom-equipment/ericsson-aws-and-hitachi-collaborate-on-groundbreaking-private-5g-trial-112073"
-    ampWebUrl: "https://www.telecomlead.com/telecom-equipment/ericsson-aws-and-hitachi-collaborate-on-groundbreaking-private-5g-trial-112073?amp=1"
-    cdnAmpWebUrl: "https://www-telecomlead-com.cdn.ampproject.org/c/s/www.telecomlead.com/telecom-equipment/ericsson-aws-and-hitachi-collaborate-on-groundbreaking-private-5g-trial-112073?amp=1"
-    type: article
-    provider:
-      name: Telecom Lead
-      domain: telecomlead.com
-    quality: 58
-    images:
-      - url: "https://www.telecomlead.com/wp-content/uploads/2023/08/5G-private-network-for-smart-factory-environment.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Ericsson, AWS & Hitachi America R&D Demo Smart Factory Capabilities"
     excerpt: "Ericsson, Amazon Web Services (AWS) and Hitachi America R&D enabled the private 5G infrastructure trial at Hitachi Astemo Americas’ electric motor vehicle manufacturing plant in Berea, Kentucky, USA."
     publishedDateTime: 2023-08-31T02:34:00Z
@@ -85,6 +53,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Ericsson Works with AWS and Hitachi America R&D to Showcase Smart Factory Potential"
+    excerpt: "Three of the biggest names in global technology have joined forces to highlight the ability of already-available 5G, artificial intelligence (AI) and automation solutions to transform manufacturing and improve productivity,"
+    publishedDateTime: 2023-08-30T00:00:00Z
+    webUrl: "https://www.automation.com/en-us/articles/august-2023/ericsson-aws-hitachi-america-r-d-smart-factory"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 33
+    images:
+      - url: "https://www.automation.com/getmedia/b63fa3a7-54cb-4b30-a5ea-a3444af636d1/smart-factory-news-Aug-30-2023-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
   - title: "Ericsson, AWS and Hitachi buddy up for 5G smart factory trial"
     excerpt: "Kit vendor Ericsson and cloud giant AWS teamed up to build a 5G powered machine vision system in a Hitachi factory to help spot defects in the production line."
     publishedDateTime: 2023-08-29T16:15:00Z
@@ -93,15 +75,6 @@ related:
     provider:
       name: Telecoms
       domain: telecoms.com
-    quality: 19
-  - title: "North America Robot Orders Drop for Second Quarter"
-    excerpt: "When combined with first quarter results, the robotics market in North America is down 29% compared to the first half of last year with a total of 16,865 robots ordered. This drop comes after a record 2022, where North American companies ordered 44,196 robots, up 11% over 2021, the previous record."
-    publishedDateTime: 2023-08-31T14:15:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/08/31/9873204.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
     quality: 19
   - title: "Hitachi demos machine vision on edge-5G at US autoplant – with Ericsson, AWS"
     excerpt: "Hitachi has hooked up private 5G from Ericsson to an edge engine from AWS to run computer vision checks on an assembly line in Kentucky."
@@ -121,24 +94,6 @@ related:
       name: Voicendata.com
       domain: voicendata.com
     quality: 16
-  - title: "Ericsson works with AWS and Hitachi America R&D to showcase smart factory potential"
-    excerpt: "Collaboration focuses on real-time digital video, artificial intelligence (AI), and edge-to-cloud technologies across a private 5G wireless networkThe successful collaboration demonstrates potential f"
-    publishedDateTime: 2023-08-29T11:33:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/n34085717/ericsson-works-with-aws-and-hitachi-america-r-d-to-showcase-smart-factory-potential"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 13
-  - title: "Ericsson works with AWS and Hitachi America R&D to showcase smart factory potential"
-    excerpt: "Collaboration focuses on real-time digital video, artificial intelligence (AI), and edge-to-cloud technologies across a private 5G wireless networkThe successful collaboration demonstrates potential"
-    publishedDateTime: 2023-08-29T17:01:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-08/59969520-ericsson-works-with-aws-and-hitachi-america-r-d-to-showcase-smart-factory-potential-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 13
 
 secured: "IjrZvFTy8qnF8Qo5u27GvGJLUb+Z3Y8hTF/W2td0BaenvbigJMM+sN8SXYNsYQv+c04ZXObszcQfSU7+2f9e8pmgtTB4Ek4890jnKW2ONduN/xtwyKBnoNFPW1+3r8kDAXmRI+gRaEVGJfApPgOgY7tjbcLyRM7yoUS4uyDo57zHyHGIBTLj2XgVG0WcgZPJECkUvLPnJ3918NbNzWbEhSrsAWh6NsNq+kQ1wtBlhltez/1XP8OEIqmQ6JyEQ2IxXM21A3wZgs/3bNYo1GCqG/zUzfLA9xaxXoPu9g8v4EbAiyqHmmXCeMIec61EEX8ERbR968z+yW0gWxm5PG7p0h6izWGj8bd9/YeyMtFTWc/bn64nIWA/qdryUQXusXHvY3bRcw4LXdOmCaAMFlv1QF9OnbVIYAkZMIc/SiYYd7d/7kPScpieeFWhmca2PQ3rmDmf/iPnZo/OKk4TSsVar9YJXw5q8F9EXH7z29DyhYEp3jzWOC7Ai/qL/Y6v+omtIaFZ4atnWPkzxGaX7AEEtw==;ymHKIOwFWJ5u50Ye9CbImw=="
 ---

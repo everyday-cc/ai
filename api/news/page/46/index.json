@@ -2,6 +2,58 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2023-07-30-workers-at-risk-of-ai-radically-changing-their-jobs-arent-too-worried-about-it.md",
+      "title": "Workers at risk of AI radically changing their jobs aren't too worried about it",
+      "excerpt": "An envelope. It indicates the ability to send an email. An curved arrow pointing right. Over 27 million Americans are in work where key activities involved in their job could \"be replaced or aided ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/jobs-at-risk-ai-will-change-work-pew-research-center-2023-7",
+      "originalUrl": "https://www.businessinsider.com/jobs-at-risk-ai-will-change-work-pew-research-center-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64c0278eed4f4600196381d7?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/jobs-at-risk-ai-will-change-work-pew-research-center-2023-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jobs-at-risk-ai-will-change-work-pew-research-center-2023-7?amp",
+      "publishedDateTime": "2023-07-30T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-30-can-chatgpt-destroy-humanity-if-it-doesnt-understand-the-world.md",
       "title": "Can ChatGPT Destroy Humanity If It Doesn’t Understand The World?",
       "excerpt": "The depth of their understanding of the human world is a much more important hurdle than hallucinations for LLM to overcome before they become \"superintelligence.\"",
@@ -1108,49 +1160,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-hearing-aids-counselling-may-slow-cognitive-decline-for-some-seniors-new-study-finds.md",
-      "title": "Hearing aids, counselling may slow cognitive decline for some seniors, new study finds",
-      "excerpt": "(Rick Bowmer/The Associated Press) Seniors at risk of dementia who were given hearing aids and counselling had less cognitive decline over a three-year period, a randomized trial finds. Research ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbc.ca/news/health/hearing-aids-cognitive-decline-dementia-1.6909911",
-      "originalUrl": "https://www.cbc.ca/news/health/hearing-aids-cognitive-decline-dementia-1.6909911",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.cbc.ca/1.6622234.1666216761!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/hearing-loss-captions-everywhere.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbc.ca/amp/1.6909911",
-      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6909911",
-      "publishedDateTime": "2023-07-28T16:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBC.ca",
-        "domain": "www.cbc.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

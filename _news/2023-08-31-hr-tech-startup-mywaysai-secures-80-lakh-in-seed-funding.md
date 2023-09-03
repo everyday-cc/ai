@@ -7,8 +7,8 @@ originalUrl: "https://www.entrepreneur.com/en-in/news-and-trends/hr-tech-startup
 webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/hr-tech-startup-mywaysai-secures-80-lakh-in-seed-funding/458287"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Entrepreneur
@@ -26,22 +26,6 @@ images:
     width: 2000
     height: 1333
     isCached: true
-
-related:
-  - title: "AI’s Share Of US Startup Funding Doubled In 2023"
-    excerpt: "First, overall startup investment has plummeted, with North American venture funding down 50% year over year in the first half of 2023. The downturn is widespread across most industries. Pretty much every time we take a look at funding to a sector lately — from real estate to fintech to Web3 to HR tech — we find it’s way down from last year."
-    publishedDateTime: 2023-08-29T13:00:00Z
-    webUrl: "https://news.crunchbase.com/ai-robotics/us-startup-funding-doubled-openai-anthropic-2023/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 37
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/SoftBank_Ai_Investment-2.jpg"
-        width: 900
-        height: 506
-        isCached: true
 
 secured: "KTj6nJsGQNUA5bKwQ4C5uMn+N4FVTMAmml+rc5D8WqveyE8keUjc5GjSTIIhAO001FBi8PJ0HFBBxzYg1qA9AIPHgohwJTAbP9/+BGbmG6p8Uu9V2PZwutn+bqNkVOcOFfQiH5UmuCA64IfxwMb4c/9kBt7hyXwIzPoxU3KBtm4rkAxmJ8VrL64S/sLJsvWHR02XJ1iG3U4X4N14HEEfvaBWJ8d+r4F7FHVJmNXHhuVOs+z8MeNvkE8gBgprIuY3Y4a+Sjw/OV/agowfJFnsaOXmXEzt2TEkP+T+5/6g4u/KfmzamJu81AH+GZfnmJMgffXjx3tM8cEOKX0x19KW5L9qaALo6oppHgNcNcIKAtY=;z439bua8+tdEoA7+TSwJcA=="
 ---

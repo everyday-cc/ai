@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-uses-your-facebook-dat
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-uses-your-facebook-data-to-train-its-ai-heres-how-to-opt-out-sort-of/"
 type: article
 quality: 86
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta’s news ban fails to dent Facebook usage"
-    excerpt: "Meta’s decision to block news links in Canada this month has had almost no impact on Canadians’ usage of Facebook, data from independent ... Another analytics firm, Data.ai, likewise told Reuters that its data was not showing any meaningful change ..."
-    publishedDateTime: 2023-08-29T11:36:00Z
-    webUrl: "https://www.theglobeandmail.com/canada/article-metas-news-ban-fails-to-dent-facebook-usage/"
-    ampWebUrl: "https://www.theglobeandmail.com/amp/canada/article-metas-news-ban-fails-to-dent-facebook-usage/"
-    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/canada/article-metas-news-ban-fails-to-dent-facebook-usage/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 59
-    images:
-      - url: "https://www.theglobeandmail.com/resizer/86Q8q3ZzrXClWGHjIQl5eRHDi-4=/1200x774/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/PMVIYKRQIBMZLJ2BWJ4QQ75CYE.JPG"
-        width: 1200
-        height: 774
-        isCached: true
   - title: "Meta's Canada news ban fails to dent Facebook usage"
     excerpt: "Daily active users of Facebook and time spent on the app in Canada have stayed ... Another analytics firm, Data.ai, likewise told Reuters that its data was not showing any meaningful change to usage of the platform in Canada in August."
     publishedDateTime: 2023-08-30T08:37:00Z

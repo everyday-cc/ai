@@ -51,15 +51,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Google unveils enterprise AI tools, new AI chip"
-    excerpt: "The AI infrastructure includes deals to bring Google Cloud customers access to Meta Platforms' (META.O) AI model LLaMa 2, and to the startup Anthropic's Claude 2. Google announced new versions of its own foundation AI infrastructure that improve ..."
-    publishedDateTime: 2023-08-29T12:23:00Z
-    webUrl: "https://www.reuters.com/technology/google-unveils-enterprise-ai-tools-new-ai-chip-2023-08-29/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 64
   - title: "Meta unveils new tool to detect bias in computer vision AI"
     excerpt: "With more than 30,000 images, Meta said its FACET tool can help developers test whether AI computer vision systems are biased."
     publishedDateTime: 2023-09-01T10:24:00Z
@@ -73,22 +64,6 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/05/AdobeStock_527133702.jpeg"
         width: 800
         height: 600
-        isCached: true
-  - title: "SAP and Google Cloud Enhance Open Data Cloud With New Generative AI Solutions for Enterprises"
-    excerpt: "WALLDORF, Germany and SUNNYVALE, Calif., Aug. 29, 2023 /PRNewswire/ -- Today at Google Cloud Next, SAP SE SAP and Google Cloud announced an expanded partnership to help enterprises harness the power of data and generative AI. The companies will combine ..."
-    publishedDateTime: 2023-08-29T12:20:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/n34086683/sap-and-google-cloud-enhance-open-data-cloud-with-new-generative-ai-solutions-for-enterprises"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34086683"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34086683"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 48
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
         isCached: true
   - title: "The Hidden Costs Of Implementing AI In Enterprise"
     excerpt: "Although there are potential hidden costs associated with AI, it is important to have a balanced view of this technology."

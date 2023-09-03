@@ -55,15 +55,6 @@ related:
         width: 864
         height: 576
         isCached: true
-  - title: "Google made a watermark for AI images that you can’t edit out"
-    excerpt: "The Google DeepMind team has believed for years that building great generative AI tools also requires building great tools to detect what has been created by AI. There are plenty of obvious, high-stakes reasons why, says Google DeepMind CEO Demis Hassabis."
-    publishedDateTime: 2023-08-29T12:11:00Z
-    webUrl: "https://www.theverge.com/2023/8/29/23849107/synthid-google-deepmind-ai-image-detector"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 49
   - title: "Google Launches Tool That Detects AI Images In Effort To Curb Deepfakes"
     excerpt: "In response to the increasing use of AI images, Google Deep Mind announced a beta version of SynthID. The tool will watermark and identify AI-Generated images. I"
     publishedDateTime: 2023-08-31T19:22:00Z

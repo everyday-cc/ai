@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Google DeepMind co-founder calls for US to enforce AI standards"
-excerpt: "The US has expanded restriction of exports of sophisticated Nvidia and Advanced Micro Devices artificial-intelligence chips beyond China to other regions including some countries in the Middle East."
-publishedDateTime: 2023-09-01T13:32:00Z
-originalUrl: "https://indianexpress.com/article/technology/artificial-intelligence/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-8919888/"
-webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-8919888/"
-ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-8919888/lite/"
-cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-8919888/lite/"
+excerpt: "Google DeepMind co-founder asks US to allow Nvidia'a AI chip buyers to adhere to ethics when using the technology"
+publishedDateTime: 2023-09-01T06:41:00Z
+originalUrl: "https://tribune.com.pk/story/2433514/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards"
+webUrl: "https://tribune.com.pk/story/2433514/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards"
+ampWebUrl: "https://tribune.com.pk/story/2433514/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards?amp=1"
+cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2433514/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards?amp=1"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: The Indian Express
-  domain: indianexpress.com
+  name: The Express Tribune
+  domain: tribune.com.pk
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://images.indianexpress.com/2023/08/nvidia-featured-reuters.jpg"
+  - url: "https://i.tribune.com.pk/media/images/google-deepmind1693550392-0/google-deepmind1693550392-0.jpg"
     width: 1200
-    height: 667
+    height: 630
     isCached: true
 
 related:
@@ -88,22 +88,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2FUntitled-design-1-4.jpg&signature=f5d0e747fd93332c435e17b49afb3e74"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Google DeepMind has launched a watermarking tool for AI-generated images"
-    excerpt: "Google DeepMind has launched a new watermarking tool which labels whether images have been generated with AI. The tool, called SynthID, will initially only be available to users of Google’s AI image generator Imagen, which is hosted on Google Cloud’s ..."
-    publishedDateTime: 2023-08-29T12:02:00Z
-    webUrl: "https://www.technologyreview.com/2023/08/29/1078620/google-deepmind-has-launched-a-watermarking-tool-for-ai-generated-images/"
-    ampWebUrl: "https://www.technologyreview.com/2023/08/29/1078620/google-deepmind-has-launched-a-watermarking-tool-for-ai-generated-images/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/08/29/1078620/google-deepmind-has-launched-a-watermarking-tool-for-ai-generated-images/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 75
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/08/Copy-of-Copy-of-Watermark-final.gif?w=1920"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Google's DeepMind announces SynthID to watermark AI-generated images"
     excerpt: "Google's AI unit, DeepMind, has unveiled SynthID, a way to watermark AI-generated images for easier identification. In a blog post, announcing the new tool, DeepMind said that the technology was developed in conjunction with Google Cloud, and embeds a ..."
@@ -269,6 +253,6 @@ related:
       domain: ft.com
     quality: 29
 
-secured: "SBjKwP+9bdYL+yZs84vj5w2OWOz4YZPJDVdVGx8QlX5qHNAymtHjNST+rMZSDWGwX0EjZ7xQLA3XZkDvpidCN+mTI5LiLsF7xjs7kBJUC52jLLohFCjSt5UYB7iJxzivQrEipXzKg6SUgmoAQgYDQzGZ5mGb0UHvbjfJU6u9pOn37SOQVQ5zqFe9AVfoQ4aqALvuPXPYkOCtpK5B2pRL/fy89YaAht6waM4L8RcPggIWwty1A5HMOvFalCisdGHlylQ0ZLTwcHqp5QYAOu1+SOmiviNJ6jvEATRiHuh6PEaGprbJJHuG849qHk+q0Kp47/plhwgQikiIdUE53Cm4Cls0g4QOAD50ubEmBxN83j4=;p9Eb9gkiDepfWq5jCu8kGQ=="
+secured: "lTa/glhnvdXLgQkRrhdAaqUO3qdv1/9y78ttExfIX4TQjM7aqGaS5TGCPdfJyCpdbHfF5uDqKhlTU3bL9U1VTsotkDDvqC+8wRQvQoadTXymecewzvYsAH6eOR0Tytrf9TGEszAi55M7PYnqAAgN6Wmp5V7m3XW6YowgjyfXbsIiExEjJT3AAPa5nvlJk90yOew2vA41a24JDnI4SXjzrrPQ7J8HsBDTYZwtsR6PpZnf45hXTeOU/1JmCq4rz+xkzCwkxPGB7Peu5q3Yil/Sajq36IHMXOM+mDkviflYdZhjMzzBBtiGVoy+u5Ow4LGQK9lxUJzOEPhAJXsnL256EvyjracPlocLIvBnGsoaH6w=;yrOMY+MGd3KI96yC9J3xHQ=="
 ---
 

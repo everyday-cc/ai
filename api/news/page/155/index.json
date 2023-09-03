@@ -2,6 +2,40 @@
   "page": 155,
   "value": [
     {
+      "path": "_news/2023-05-23-some-neural-networks-learn-language-like-humans.md",
+      "title": "Some Neural Networks Learn Language Like Humans",
+      "excerpt": "We preselected all newsletters you had before unsubscribing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearscience.com/2023/05/23/some_neural_networks_learn_language_like_humans_901078.html#!",
+      "originalUrl": "https://www.realclearscience.com/2023/05/23/some_neural_networks_learn_language_like_humans_901078.html#!",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-22T23:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearScience",
+        "domain": "realclearscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-23-the-voice-grace-west-slays-reba-mcentire-hit-during-night-one-of-finale-watch.md",
       "title": "‘The Voice': Grace West Slays Reba McEntire Hit During Night One of Finale [Watch]",
       "excerpt": "Grace West paid a special tribute to Reba McEntire during part one of the two-night Season 23 The Voice finale on Monday evening (May 22). The 19-year-old country singer from Canton, Mich.,",
@@ -1114,57 +1148,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-22-6-predictions-on-how-apple-will-join-the-ai-business-race.md",
-      "title": "6 Predictions On How Apple Will Join The AI Business Race",
-      "excerpt": "Apple hasn’t yet made its big AI move. Here are 6 predictions on what they will do, and how each might affect your business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jodiecook/2023/05/22/6-predictions-on-how-apple-will-join-the-ai-business-race/",
-      "originalUrl": "https://www.forbes.com/sites/jodiecook/2023/05/22/6-predictions-on-how-apple-will-join-the-ai-business-race/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646b115dc42fa4e32d4bd1e7/0x0.jpg?format=jpg&crop=3290,1850,x0,y52,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jodiecook/2023/05/22/6-predictions-on-how-apple-will-join-the-ai-business-race/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/05/22/6-predictions-on-how-apple-will-join-the-ai-business-race/amp/",
-      "publishedDateTime": "2023-05-22T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

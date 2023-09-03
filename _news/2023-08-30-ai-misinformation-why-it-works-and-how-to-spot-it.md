@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/news/misinformation/ai-misinformation-why-it-
 webUrl: "https://www.cnet.com/news/misinformation/ai-misinformation-why-it-works-and-how-to-spot-it/"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -21,17 +21,6 @@ provider:
 topics:
   - Facebook AI
   - AI
-
-related:
-  - title: "It Costs Just $400 to Build an AI Disinformation Machine"
-    excerpt: "Renee DiResta, technical research manager for the Stanford Internet ... and other chatbots misbehave, proving that AI is hard to tame. News has been removed from Facebook and Instagram after the Canadian government told Meta to pay publishers, leaving ..."
-    publishedDateTime: 2023-08-29T12:00:00Z
-    webUrl: "https://www.wired.com/story/400-dollars-to-build-an-ai-disinformation-machine/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 49
 
 secured: "eBcvlOMvkDKcETQkNndCXuqifx+Kg0JSRGXRLUyTufOVOpX76AujV1rdbKNE0SGXiCWRjNOYpzwd4UFw3or9nFUfDlrcPTMoKUdoep4JDfol52Hf/qZ8yLy4gNwCNJs235+njAck26sebkpUMl0NjuDFTzKmlpJcxunGWjK+BS9kqp3sUcquyqEOrkmFSbCYqSraRqGUWbdZN0F0dWeUX5gtOHQEyAUlxqsD1tUIWbQdPLJtaQ2CXtQuEyF0AW1B41109E+juFsa1VXd0efqAyYDOXBkCmnwHOlI4eO6IWVrvU91y3ctDbH9aMURI0l0JAQxhcj8rmWiLM3yGwc3noMRZFLsDGwpcQuMHKCkW4jhvuHTLEv9NdH2/Am2tbtTJX0yw9QvNR8nk7ufkWTo0+qRHdmq7O9RSbUZodlK01PhPOE2uH4dCNvY1KGczapEsuDXIpK2sw2IxDi/Dtkppxek25jjf0TaE+J092l7ULI1SANLokE+pRHv7l/8dfcpn2Tc7UvRS6YZaLdGPkvfIw==;d6i2+jgqLKpu8UbmhXYr6Q=="
 ---

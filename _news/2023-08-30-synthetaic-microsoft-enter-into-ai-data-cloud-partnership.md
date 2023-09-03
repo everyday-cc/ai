@@ -104,17 +104,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "MicroStrategy now available in the Microsoft Azure Marketplace"
-    excerpt: "MicroStrategy customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined deployment and management. The MicroStrategy ONE AI/BI platform brings together the power of business intelligence and artificial intelligence."
-    publishedDateTime: 2023-08-29T11:18:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/microstrategy-now-available-in-the-microsoft-azure-marketplace-gc1n6ov6"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/microstrategy-now-available-in-the-microsoft-azure-marketplace-gc1n6ov6?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/microstrategy-now-available-in-the-microsoft-azure-marketplace-gc1n6ov6?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 69
   - title: "UBS Analyst Eyes GPU Bottlenecks for Microsoft's AI Push, Nvidia's Supply Chain in the Spotlight"
     excerpt: "The AI opportunity that has powered the material out-performance in technology stocks this year primarily comes from one supplier – Nvidia, the dominant provider of GPUs. There is plenty of evidence that GPU demand is out-stripping supply; Microsoft's ..."
     publishedDateTime: 2023-08-29T19:35:00Z

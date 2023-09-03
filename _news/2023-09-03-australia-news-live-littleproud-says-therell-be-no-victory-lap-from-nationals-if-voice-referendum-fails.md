@@ -61,6 +61,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "David Littleproud backs Peter Dutton's promise of Indigenous recognition referendum should the Voice to Parliament fail"
+    excerpt: "National's leader David Littleproud says his party will support Peter Dutton's promise of a second referendum to recognise Indigenous Australians in the constitution if the \"yes\" vote fails and the Coalition wins the next election."
+    publishedDateTime: 2023-09-03T02:28:00Z
+    webUrl: "https://www.canberratimes.com.au/story/8333855/nationals-back-duttons-promise-of-a-second-referendum-if-voice-fails/"
+    type: article
+    provider:
+      name: The Canberra Times
+      domain: canberratimes.com.au
+    quality: 15
+    images:
+      - url: "https://www.canberratimes.com.au/images/transform/v1/crop/frm/212131485/f5f0e371-eff4-4e41-88d6-f5e114419937.jpg/r0_361_5200_3091_w1200_h630_fmax.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "jkTdJZ84NKN8N/GyQJBtdGVIzfXGSOirrd1EggIAE6SXUW2j8LCVndMvRzgeGhek6Y9Zb6OMdLYJMS6wM4IdVDudNTEO+AlrZs+jJDn1b4QX/uTZuV12TSxHvrcdc1DFmKKpw3QhYjm+8M9B7V9qsDrW8Axv9n42r0tB1ApDbFZQC4YO2ix7/J/BP3FAYP0KnkfzcQhu87C/Em7y9D3KLbjguxBePPZxas37eGb5ul6s1G8ptNFoaZq+oyrtqGNIxL6D4GPFoSyA6Qnpuh9CTUVOokHUc+xPSkDUlajxZ44xL54/1ahF++2Tt8eYIirsxPH2xxT0+JiTq70hSp6IHa+LuV87sTFF+u5tbxTd3aA=;z+iVvBDBO4/JNwyo9lE4uw=="
 ---

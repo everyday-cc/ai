@@ -9,7 +9,7 @@ ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2023/8/31/1_6543380.amp.ht
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/8/31/1_6543380.amp.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -21,15 +21,15 @@ topics:
   - AI
 
 related:
-  - title: "Popular AI Tools Can Hurt Your Mental Health, New Study Finds"
-    excerpt: "According to a new study, AI tools generate harmful content that can trigger eating disorders and other mental health conditions. Taylor Leamey Senior Writer Taylor Leamey writes about all things wellness, specializing in mental health, sleep and nutrition ..."
-    publishedDateTime: 2023-08-29T13:00:00Z
-    webUrl: "https://www.cnet.com/health/mental/popular-ai-tools-can-hurt-your-mental-health-new-study-finds/"
+  - title: "Canadian Broker Network launches first AI automation bot"
+    excerpt: "TORONTO, ON, AUGUST 29, 2023/insPRESS/ – Canadian Broker Network (CBN), Canada’s leading network of independent insurance brokers, and insurance automation startup Quandri, today announced the launch of CBN’s first artificial intelligence robot to ..."
+    publishedDateTime: 2023-08-29T14:48:00Z
+    webUrl: "https://www.canadianunderwriter.ca/inspress/canadian-broker-network-launches-first-ai-automation-bot/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 47
+      name: Canadian Underwriter
+      domain: canadianunderwriter.ca
+    quality: 19
   - title: "While popular with Canadian students, six in 10 consider generative AI tools cheating"
     excerpt: "including AI ethics, says Ms. James. \"If educators can offer more courses about generative AI, it will help students develop the skills they need to use it properly, responsibly, and effectively both for school and in their work careers,\" she says."
     publishedDateTime: 2023-08-30T11:13:00Z
