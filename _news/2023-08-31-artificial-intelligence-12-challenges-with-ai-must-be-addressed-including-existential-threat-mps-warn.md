@@ -51,7 +51,7 @@ related:
     provider:
       name: Sky
       domain: sky.com
-    quality: 53
+    quality: 55
     images:
       - url: "https://e3.365dm.com/23/08/1600x900/skynews-ai-artificial-intelligence_6245426.jpg?20230809140349"
         width: 1600

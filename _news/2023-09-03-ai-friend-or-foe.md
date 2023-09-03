@@ -30,7 +30,7 @@ related:
     provider:
       name: Psychology Today
       domain: psychologytoday.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-09/2023-0901%20Leno%20Michele%20HEADSHOT%202.jpeg.jpg?itok=EMQ7Bsvr"
         width: 1528

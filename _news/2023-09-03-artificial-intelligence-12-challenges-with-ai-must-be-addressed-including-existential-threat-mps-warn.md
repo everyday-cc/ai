@@ -8,7 +8,7 @@ webUrl: "https://news.sky.com/story/artificial-intelligence-12-challenges-with-a
 ampWebUrl: "https://news.sky.com/story/amp/artificial-intelligence-12-challenges-with-ai-must-be-addressed-including-existential-threat-mps-warn-12950781"
 cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/artificial-intelligence-12-challenges-with-ai-must-be-addressed-including-existential-threat-mps-warn-12950781"
 type: article
-quality: 53
+quality: 55
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://e3.365dm.com/23/08/1600x900/skynews-ai-artificial-intelligence_6245426.jpg?20230809140349"
@@ -57,6 +58,6 @@ related:
         height: 380
         isCached: true
 
-secured: "xVmzcJ60ICG5E9EgeVY34K3lwrVJF9eTzQvkTKTEl+NkS5wdw6N7N8Y66vQG0bSnBZijrV7/cQ089wXwGwGDSa9Cewif/V9onfvIUgbVZjo3/QTwtBeWV3v0B2L4jgFqes5zy43ScfBx8rFqjFeUYglsCpI/iF/6PcZYUuCG9O8fa+uzLQHmw7ja361NfNS80dA1RtvY8vzgvb8TxEZATSHvV6IjL5AHnVU5S3N/RjrtXfnzPqciTNzfyGPNuWg9Yjhj9Md4vt12rYUyvvHtjfSrvdNhDA5wF6oPEkE8ZZcg/7JmsipQGeFV1PbHAh+++nrieQ7Bk6pBMBnatyAUlTC8c9ZyvHCyV2dfBvd0dF8=;/h8Wu4R8ey4f3QzHZOeO0A=="
+secured: "5LVQCGUOygaGrEjEJgd8ugukm5e2B27TeCmASS3vMl5Svrd1tacqyzoqOz/NGVtxaFc0vOvMUsx0ibaqMuZr9GYi1IS8PyYVECtM6BL0c6yolVkvQNGsuZBk0l3+Qaqu/LKAoUwiig5RovqIE5/8E02GeLc6lwo6oh7gbmBt+gMCIwJVZsxmVq4drB4jmhKu4oP4FflO32xGJMolb9EXELO9r6hjPlHsg7RMk1x966yIr6vsCohRR4e54cmC73milr8dURwDGX3tX64qeqK9zc1jqd71F3vmG9WxmluilzsiWCDxCIkTv72AiBj2ya7bS6W/wPPnRpucNWm0JBfsM4+PQFhrX42OfyuBt7FJZZ3Xq5PKljBjUuRiD0KkzvEf8Tz790t5M3H0AACdB9mj/ioK3FuPZmi2l79kyUdfpDWlsYmEXov/OgxBwfeVM86Gee8ljv0pdN6yZGEPDMZN0IqCV2578mMqDlRxLMamhpvd/+VCnVJUg6TLdpp23aD+cweEl+x4/+xFP7Md8264dA==;0Wb6nNbeZBdf7r5a+CekOw=="
 ---
 
