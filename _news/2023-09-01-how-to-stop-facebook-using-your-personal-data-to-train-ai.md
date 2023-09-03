@@ -58,15 +58,6 @@ related:
         height: 765
         isCached: true
   - title: "Police force red-faced after major translation blunder on AI-generated Facebook posts"
-    excerpt: "A blundering Welsh police force posted a translation of an anti-drink-warning saying: \"You will be loved throughout the day\" thanks to an AI blunder. The computer-generated Facebook posts were lost in translation after the force used a computer-generated ..."
-    publishedDateTime: 2023-08-29T13:35:00Z
-    webUrl: "https://www.mirror.co.uk/news/uk-news/police-force-red-faced-after-30810994"
-    type: article
-    provider:
-      name: The Mirror
-      domain: mirror.co.uk
-    quality: 12
-  - title: "Police force red-faced after major translation blunder on AI-generated Facebook posts"
     excerpt: "Dyfed-Powys Police used an AI tool to create the Facebook posts and now people have called for the force to use a Welsh speaker instead of relying on a computer Dyfed-Powys Police used an AI tool to create the Facebook posts (WalesOnline/ Rob Browne) A ..."
     publishedDateTime: 2023-08-29T18:57:00Z
     webUrl: "https://www.mirror.co.uk/news/uk-news/police-force-red-faced-after-30810994.amp"

@@ -140,6 +140,20 @@ related:
         width: 1000
         height: 665
         isCached: true
+  - title: "Google adding AI tools to cloud"
+    excerpt: "Google's cloud clients will be able to access Meta's Llama 2 large language model, as well as AI startup Anthropic's Claude 2 chatbot, to customize with enterprise data for their own apps and services. The move, announced last week at Google's Next '23 ..."
+    publishedDateTime: 2023-09-03T07:01:00Z
+    webUrl: "https://www.arkansasonline.com/news/2023/sep/03/google-adding-ai-tools-to-cloud/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 39
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/205216573_Google-AI-bg-3db9458a-4676-11ee-9807-7da73538c4fb_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 399
+        isCached: true
   - title: "Using artificial intelligence to write a business plan"
     excerpt: "TUSCALOOSA, ALA. — The Founders Playground, a management consulting firm, is launching the AI-Generated Business Plan Competition for food entrepreneurs, including caterers, restaurant owners, cottage food producers, bakers, and food truck operators."
     publishedDateTime: 2023-08-29T15:20:00Z
@@ -165,15 +179,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 35
-  - title: "Google to sell cloud-based AI tools to businesses in challenge to Microsoft, OpenAI"
-    excerpt: "Kurian on Tuesday will announce that Google Cloud will be able to use what the WSJ described as a \"large cluster\" of new AI chips developed by Santa Clara-based Nvidia Corp. Nvidia has a near monopoly on AI chips, and CEO Jensen Huang will join Kurian at ..."
-    publishedDateTime: 2023-08-29T14:44:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/08/29/google-cloud-ai-microsoft-openai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 30
   - title: "Google to sell cloud-based AI tools to businesses in challenge to Microsoft, OpenAI"
     excerpt: "Corporate Gmail users will be able to pay $30 a month per person to be able to use Google's AI tools for their businesses."
     publishedDateTime: 2023-08-29T19:11:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-generated-selfies-are-co
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-generated-selfies-are-coming-to-snapchat-what-to-know-before-you-opt-in/"
 type: article
 quality: 85
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Snapchat launches a new AI selfie feature called ‘Dreams’"
-    excerpt: "With a few selfies, you can create a personalized Generative AI model and start checking out your Dreams. Users will get the first pack of Dreams, which includes eight images, for free. Afterwards, users can purchase additional packs for $1. Soon ..."
-    publishedDateTime: 2023-08-29T13:45:00Z
-    webUrl: "https://techcrunch.com/2023/08/29/snapchat-launches-a-new-ai-selfie-feature-called-dreams/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
 
 secured: "HFjVGFWYB2R8zT7IeRsrDOf77gbEHhr8SOxuGZSxoTGXbmx7yfKwfwaXf7D2tuEL0JixXL9jAz8d5YymzmTom/REXaGmNlgqx9PSIxlSYH0KNrnByc2GhA8a8UyeCAtaU6l56KwyzjcFEmCXuq/U3TMVWHLiiOPq6BW1ejVr27Lq5pkt19LHv3sPZpQszcDkSDw3p5nfqZFZNelpCZhlj0E5iB/d/nJC+DX5a8xaQNAmX/tty+3NFzno9r6RCpVcYDde+UslxziflEfVu2Ok/MgQlCJ1Su6QWiTekLTflBNbx8MQs7f4UywHRFuXkX1dgL3IlYHGQw4pbUtWH2mx1K3hr2FXcGvNUl/idwvg1+Tx51IYYpUwTCF/w4RE4pWon63jOgi+WMAwlbvisxILss39go2RmmecyMz+RneQaGHDJBbzJ6NtYyhjoKNJUHarIX4quF0jyW1owRttmf/GyxpXyVhw9R8IPp1eW2cS6JGQ7Afnc7vDBr5GMgmcf7VRn3aIkTHLF/FvWFudKN6yYA==;WrwvdqgOxy0ttTUuodO5gQ=="
 ---

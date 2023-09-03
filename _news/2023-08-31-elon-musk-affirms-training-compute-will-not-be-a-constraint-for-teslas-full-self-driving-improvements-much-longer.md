@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 834
         isCached: true
-  - title: "Elon Musk almost runs red light livestreaming Tesla’s self-driving software"
-    excerpt: "Tesla CEO Elon Musk nearly ran a red light while testing the electric car’s new self-driving software through the Bay Area on Friday — the latest glitch in a long-running series of mishaps involving the company’s autopilot feature. Musk livestreamed ..."
-    publishedDateTime: 2023-08-29T14:58:00Z
-    webUrl: "https://nypost.com/2023/08/29/elon-musk-almost-runs-red-light-livestreaming-tesla-software/"
-    ampWebUrl: "https://nypost.com/2023/08/29/elon-musk-almost-runs-red-light-livestreaming-tesla-software/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/08/29/elon-musk-almost-runs-red-light-livestreaming-tesla-software/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 57
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/08/newspress-collage-uy2nyfww9-1693318939415.jpg?quality=75&strip=all&1693304575&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Alfred Jones Talks About The Challenges Of Designing Fully Self-Driving Vehicles"
     excerpt: "The leap to self-driving cars could be as game-changing as the one from horse power to engine power. If cars prove able to drive themselves better than humans do, the safety gains could be ..."
     publishedDateTime: 2023-08-30T00:00:00Z

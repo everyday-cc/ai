@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/delltechnologies/2023/08/30/5-reasons-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/delltechnologies/2023/08/30/5-reasons-why-you-should-bring-ai-to-your-data/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://assets.obj.ca/2023/08/95hi8sEu-Untitled-design-3.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "How to stop Meta from using your data to train AI"
+    excerpt: "Meta is betting big on AI, just like it tried to bet big on the Metaverse all those months ago. This means the company will use data that it has scraped and received from outside sources to help train its AI."
+    publishedDateTime: 2023-09-02T18:02:00Z
+    webUrl: "https://bgr.com/tech/how-to-stop-meta-from-using-your-data-to-train-ai/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/02/Meta-Sign.jpg?quality=82&strip=all"
+        width: 2584
+        height: 1672
         isCached: true
 
 secured: "ytUppqID1EPjF14wX5RpAgVABnhTnM/mcT6nHmr6A/TUNxsfF1crpPQDezV7boaAvQOoXF1rA2tzdAKjCzPp4jFnnvI+sBUTmrSiMvxW5V97WBExCGnZzkpo6y1ExOVlRrvHj/Y42X0dAjMepDTVp9Sro+GfhcBC1n38cc3AqpQet0RxXbekQJt9kqx+qDkvav9PvT+C31s+Z0eyjl14KkJ9f1sYY8DJpGF2vueFi1cShhW5FDB5SUbmmiuJA1Fd15gt6qdB0rjrJVD+uVXY9Un8O6tqXi3mh28WfmbxHCHUEl0HJc3DYobEO8hKN0ED9Tq7izNiwlLmIWqP6Xufma0y8brvNIXnxsMFoIQfneyx6vjNxDyuxoc1TsNtNRzBnXh+UYGVVl9mcZEOrJrnOP0gUTnu3lcDt5xitbx40/vo2byiomYQTt+n4g/KUm9VIon/9tIMBKRPrir4jq4A7dDvIqUDl18j85ptIq39hGNrvIOW2Aj6H+L5BqhaAl+d+EQnAG3ydF4DlKDlxh/v8w==;k412SWELu8wwsy7yHBgCGw=="

@@ -36,22 +36,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Why DeepMind's AI visualization is utterly useless"
-    excerpt: "Usually, visualization is something meant to help one understand something that cannot be seen. The DeepMind unit of Google has recently published visualizations of artificial intelligence, created by various visual artists. The intention may be a good one ..."
-    publishedDateTime: 2023-08-29T14:26:00Z
-    webUrl: "https://www.zdnet.com/article/why-deepminds-ai-visualization-is-utterly-useless/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/why-deepminds-ai-visualization-is-utterly-useless/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-deepminds-ai-visualization-is-utterly-useless/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 106
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/cc85b95009a1aaaa9a0dd0bc0d4634f3b7f4967d/2023/08/27/07a8f901-734f-458c-b1e0-a2f1deb9f6bf/ai-large-language-models-by-tim-west-for-deepmind-2023.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Google DeepMind co-founder urges ethical use mandate for Nvidia AI chips in the US"
     excerpt: "AI companies including OpenAI, Alphabet and Meta Platforms made voluntary commitments to the White House to implement measures such as watermarking AI-generated content to help make the technology safer."
     publishedDateTime: 2023-09-01T06:38:00Z

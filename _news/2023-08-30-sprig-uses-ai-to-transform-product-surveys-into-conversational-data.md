@@ -58,15 +58,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "IBM Unveils Enterprise-Focused Advanced AI Platform Watsonx"
-    excerpt: "International Business Machines Corporation IBM recently unveiled watsonx, a cutting-edge enterprise-focused AI and data platform designed to harness the power of advanced AI capabilities for ..."
-    publishedDateTime: 2023-08-29T14:37:00Z
-    webUrl: "https://www.nasdaq.com/articles/ibm-unveils-enterprise-focused-advanced-ai-platform-watsonx"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
   - title: "VMware Introduces Frameworks And Services At Explore Conference To Enable Enterprise Adoption Of Generative AI"
     excerpt: "Ranked Industry Analyst Patrick Moorhead unpacks VMware's approach to generative AI based on the VMware Explore 2023 event and his conversations with executives."
     publishedDateTime: 2023-08-31T19:00:00Z

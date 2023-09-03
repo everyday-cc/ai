@@ -30,15 +30,6 @@ related:
       name: CTV News
       domain: ctvnews.ca
     quality: 39
-  - title: "Canadian Broker Network launches first AI automation bot"
-    excerpt: "TORONTO, ON, AUGUST 29, 2023/insPRESS/ – Canadian Broker Network (CBN), Canada’s leading network of independent insurance brokers, and insurance automation startup Quandri, today announced the launch of CBN’s first artificial intelligence robot to ..."
-    publishedDateTime: 2023-08-29T14:48:00Z
-    webUrl: "https://www.canadianunderwriter.ca/inspress/canadian-broker-network-launches-first-ai-automation-bot/"
-    type: article
-    provider:
-      name: Canadian Underwriter
-      domain: canadianunderwriter.ca
-    quality: 19
 
 secured: "cjOeVS8cmOIaDuwHpSRzEzkouoh1c5UV2LSCTIX0PNz4s3lOWK08I+ecOeIgj0GFLj6uxe/w8mtHW2ehDMpy99dOnYyI+dXWTP0ndyUpCsplMk0gxHeZVOghnBxi2UFIvvEvGxdkngoNHgVeu8dmoFGiOELXiLqYEWdzWbMlD4GW/bz02XGLC+MOnytMCNs6PZkukOIFMsEDpGdfkLAHQenBf9AeXj4iXc1eAxf/kHxICgE0Lgi4tIP3aB7fVJwLIgvWJcK2OPC3ctyEVEgtTeBWyUfy9bD23QiO9129Us+vaskNoIC6DoQx0/IDI2yzx+kujpkmiEExmadRLYFXDAEY38ZV9Wrvty9QNAR5MAI=;UoevhQe2gm0M7ykvlQHbRQ=="
 ---

@@ -3,18 +3,22 @@ category: news
 title: "Artificial Intelligence: NI can be 'testing centre' for new technology"
 excerpt: "Northern Ireland can be a testing centre for artificial intelligence in the UK, according to a group representing the software industry. Belfast-based IT firm Kainos announced it was investing £10m to develop the use of generative AI in its business."
 publishedDateTime: 2023-09-03T05:40:00Z
-originalUrl: "https://www.bbc.co.uk/news/uk-northern-ireland-66662461"
-webUrl: "https://www.bbc.co.uk/news/uk-northern-ireland-66662461"
-ampWebUrl: "https://www.bbc.co.uk/news/uk-northern-ireland-66662461.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-northern-ireland-66662461.amp"
+originalUrl: "https://www.bbc.com/news/uk-northern-ireland-66662461"
+webUrl: "https://www.bbc.com/news/uk-northern-ireland-66662461"
+ampWebUrl: "https://www.bbc.com/news/uk-northern-ireland-66662461.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-northern-ireland-66662461.amp"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 89
+heat: 99
+published: true
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Ethics
@@ -42,6 +46,6 @@ related:
         height: 314
         isCached: true
 
-secured: "RKrUdvm5RhSP6BmO/fnGMpM+cjiyZmbqD+owH9wa/SQhEFbvyDUqE4kVvVRxTs66G/2uvK0lABDndMd37HW+eFWv0o18bPXtSyExKnCGn8zNF6KeAtKTIh54ECwt2L6O3d9fil/otTkTzWCFqRRS1azU/4KSynUItCB5HBTBcnZIITL4/VjXtwlKy1g6lAbpDm12QPfipVflw8WNLKY7aS+eAruBejOTNXRjYee23w0Xtx6tj1T14ZcCP+wGehY7nq3F9OXvVX33gGYWRoCp+N5/I8b9cf61oA8UDEr0ZBvNsu1+M9MFWLpp/r2HR0LeIkWuSrbSbg7hpfKtA2rjYCCd8X795+prhV7zwPG1kSE=;7hDxSpL0vT/t+wkHGtX/tQ=="
+secured: "M6cpn3zpnKmIsmHrXikxS0TRkvPOwZ1QRIvWxirenXpZ14mqyBYLAgBrMJasIsggClN1LG9HQ24xoNb0zFGVz5nvedefy5UaDAY5foayy8aQCvHWIg+O2EtTLb2xxGnSLlivUu+F4GXeIxmMSOTPe0dE8AGqScWihzXuQ4p7tqKDg/NnIB6x3CjBJ8trt07PpkfsIW/ZUzXZTHvOk8O2FRnwjWMYJwsqJY/0I2IENXNuFTlnbvaxdCPzstpgfCMoO94+Dti8TGs8P9yLu11u23o8rVtyrtdQGiq+uiUXLdArmU6VMeBWEM+/vJL61RU3m0W5RRpQLkImcKRCnSH4WJZszg5X19dG0t4X0LWxE5U=;2O1UBGQrvice1TcalKxESA=="
 ---
 

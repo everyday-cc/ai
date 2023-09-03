@@ -7,8 +7,8 @@ originalUrl: "https://ipwatchdog.com/2023/08/31/ethics-practicality-ai-assisted-
 webUrl: "https://ipwatchdog.com/2023/08/31/ethics-practicality-ai-assisted-patent-drafting/id=166094/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: IPWatchdog
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Embuing AI with Ethics"
+    excerpt: "In lieu of regulations, companies are starting to develop their own guidelines to control the use of artificial intelligence."
+    publishedDateTime: 2023-08-29T19:32:00Z
+    webUrl: "https://cacm.acm.org/news/275869-embuing-ai-with-ethics/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 36
   - title: "Event: Practical AI for Small Business – Understanding practical application, safety and ethics in the real world"
     excerpt: "You’ve seen all the hype – but what does AI mean for you and your small business? Explore the ins and outs and hear from experts and business leaders like you who’ve put AI technology to work."
     publishedDateTime: 2023-08-31T03:46:00Z

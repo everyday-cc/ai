@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google Develops A Tool That Can Spot AI-Generated Photos With High Accuracy"
-    excerpt: "Alphabet Inc.'s GOOG GOOGL Google DeepMind team has developed a new SynthID technology that makes it nearly impossible for people to remove watermarks from AI-generated images. What Happened: Google's DeepMind team, which works on futuristic and cutting ..."
-    publishedDateTime: 2023-08-29T14:33:00Z
-    webUrl: "https://www.benzinga.com/news/23/08/34092148/google-develops-a-tool-that-can-spot-ai-generated-photos-with-high-accuracy"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34092148"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34092148"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/Google_DeepMind_SynthID.jpeg?width=1200&height=800&fit=crop"
-        width: 864
-        height: 576
-        isCached: true
   - title: "Google Launches Tool That Detects AI Images In Effort To Curb Deepfakes"
     excerpt: "In response to the increasing use of AI images, Google Deep Mind announced a beta version of SynthID. The tool will watermark and identify AI-Generated images. I"
     publishedDateTime: 2023-08-31T19:22:00Z
@@ -110,15 +94,6 @@ related:
       name: Futurism
       domain: futurism.com
     quality: 19
-  - title: "AI images are getting harder to spot. Google thinks it has a solution."
-    excerpt: "The tech giant unveiled a new watermark for AI-generated images, aiming to curb the spread of misinformation during the 2024 presidential campaign."
-    publishedDateTime: 2023-08-29T13:34:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/08/29/google-wants-watermark-ai-generated-images-stop-deepfakes/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 17
 
 secured: "siTI1rbRMWPWKlBqcH/iyMxS45P1J14QmD5jvhD2vHL41rOzEVHr5gmMaD3uEbz/X9OBv7F4ZlpCFYpoq/f1awjBxDQ+qCGYiPqjdYn5QqAtQ1STEvxItIuluN+dru2SeaRgVObW4XSfNIctqBCILdnWfPmX4pXdTepnUhuDfiriLOChAjn8YQE2vEUtIKxQ7AQKf168BxFZ/AQviOjlpCAne2Do27WoHLt7Z4faiR2FN0hJ3ZTCkDNPKzIr+fO9kIDNFUpJMBcK2f/AIorfPk3HOH20WFSd2rHPD2h3YXCiyc/lR3uQ5a+ctJYI/PSxHfku5AosNtyUpLjzNhGgtujR54m9gXPLmAYV2TWJaaCIMBvGd8podUXQfFwUFDF55UY4WVRJBYcliZjvQcVlHTq+Do+b1qyNZhMwOiDEwiCT847u0Vfp6v35tgJ3IxlSXwjXsw80SRNltHZ6lMUdIAcsNQEAomQVcpA0cTZb6Z8sn96i1RQVByld816gtYNXDm8C3dLdHoKvP0GJtSLzpw==;xMhccmHJYCGJ7VcXrDiCkA=="
 ---

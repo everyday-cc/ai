@@ -75,15 +75,6 @@ related:
         width: 500
         height: 313
         isCached: true
-  - title: "Hitachi demos machine vision on edge-5G at US autoplant – with Ericsson, AWS"
-    excerpt: "Hitachi has hooked up private 5G from Ericsson to an edge engine from AWS to run computer vision checks on an assembly line in Kentucky."
-    publishedDateTime: 2023-08-29T14:33:00Z
-    webUrl: "https://www.rcrwireless.com/20230829/industry-4-0/hitachi-demos-machine-vision-on-edge-5g-at-us-autoplant-with-ericsson-aws"
-    type: article
-    provider:
-      name: RCR Wireless News
-      domain: rcrwireless.com
-    quality: 18
   - title: "Ericsson with AWS and Hitachi America R&D to showcase smart factory potential"
     excerpt: "Built on Ericsson’s 4G and 5G radio and dual mode core technology, Ericsson Private 5G enables a wide variety of innovative use cases"
     publishedDateTime: 2023-09-01T05:00:00Z

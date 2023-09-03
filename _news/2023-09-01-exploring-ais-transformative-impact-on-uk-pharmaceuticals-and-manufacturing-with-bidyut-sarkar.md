@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Finance Transformation With AI And Open Banking"
-    excerpt: "Oracle Cloud is one good choice, but Amazon Web Services (AWS), Azure, Google Cloud Platform or a combination ... Guardrails And Governance: Applying STAGE And TOTAL Security To Machine Learning If you need to read more on the banking STAGE framework ..."
-    publishedDateTime: 2023-08-29T13:47:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/29/finance-transformation-with-ai-and-open-banking/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
   - title: "Crossing the chasm in AI-led marketing transformation"
     excerpt: "And that is why it should be among the top priorities for any chief marketing officer (CMO) to unravel the possibilities of AI. Customer-centric sectors such as fintech, and e-commerce have already started piloting AI strategies while many other sectors ..."
     publishedDateTime: 2023-09-02T11:06:00Z
@@ -66,20 +57,17 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Build faster and higher with AI"
-    excerpt: "MEANT as a sly swipe at the inflated hype around artificial intelligence (AI), a billboard at a construction site in Antwerp, Belgium, read “Hey ChatGPT, finish this building.”"
-    publishedDateTime: 2023-08-31T00:52:00Z
-    webUrl: "https://www.thestar.com.my/news/focus/2023/08/31/build-faster-and-higher-with-ai"
+  - title: "Money, markets and machine learning: Unpacking the risks of adversarial AI"
+    excerpt: "According to the technology services company Exadel ... poisoning and adversarial attacks have broad implications across different machine learning applications, including financial forecast models. In a study conducted by researchers at the University ..."
+    publishedDateTime: 2023-08-30T16:01:00Z
+    webUrl: "https://thehill.com/opinion/finance/4176752-money-markets-and-machine-learning-unpacking-the-risks-of-adversarial-ai/"
+    ampWebUrl: "https://thehill.com/opinion/finance/4176752-money-markets-and-machine-learning-unpacking-the-risks-of-adversarial-ai/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/finance/4176752-money-markets-and-machine-learning-unpacking-the-risks-of-adversarial-ai/amp/"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/08/31/2259990.jpg"
-        width: 620
-        height: 439
-        isCached: true
+      name: The Hill
+      domain: thehill.com
+    quality: 54
   - title: "5 Ways AI Will Transform the Mobility Industry"
     excerpt: "Although they've only really reached mainstream attention in the past decade, autonomous vehicles have been around since the 1990s. In recent years, some self-driving cars have achieved Level 4 autonomy, which means they can steer, accelerate, decelerate, and intervene to prevent a crash without the need for human interaction."
     publishedDateTime: 2023-08-31T15:30:00Z
@@ -94,15 +82,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Embuing AI with Ethics"
-    excerpt: "In lieu of regulations, companies are starting to develop their own guidelines to control the use of artificial intelligence."
-    publishedDateTime: 2023-08-29T19:32:00Z
-    webUrl: "https://cacm.acm.org/news/275869-embuing-ai-with-ethics/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 36
   - title: "AI in Financial Services: A Transformational Force Beyond the Hype"
     excerpt: "AI is reshaping all industries as it captivates the public with its limitless potential. Many in financial services have strong reservations about the technology, but it is here and is not going away."
     publishedDateTime: 2023-08-30T09:31:00Z
@@ -111,6 +90,15 @@ related:
     provider:
       name: International Banker
       domain: internationalbanker.com
+    quality: 19
+  - title: "How Machine Learning is Transforming the Online Card Games in India"
+    excerpt: "A fine balance has been created by the subtly included machine learning algorithms, enhancing the gaming experience without compromising the core of the games."
+    publishedDateTime: 2023-08-31T08:13:00Z
+    webUrl: "https://theprint.in/theprint-valuead-initiative/how-machine-learning-is-transforming-the-online-card-games-in-india/1740246/"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
     quality: 19
 
 secured: "uEN97VYvVJGCcNx1V3K/suNQmGM5d7wU8R5WbqYbysrN9UV9W+uQ0uGkOfrCbcZAVRi6vHYIhq06UVw00vuuI1Qf7nErtbyaiXGp+cTjojllvCN/goO0ReCzMCk1dI2HDQ4XW9akWlLcmZ6TG9KATot2NS0UqO28INtAFGHhaAwmbx6xPZ5GEDpeFxdf0k/GXb+ZFsyHXSTLX6r3TPe38LZjPvVFdIadgAdUIDjjrQ6BZNX+FM0pmyUDAi1pF4hNJyGqcRP0Q6RRdCC8Ik6XXLVs8DIUDX6MBxu7iXE532pTFgxnvXAdkKmt6JaKAYCzPDPNaPHiqX8T+sUbDG2mFyCYskeJnmKO0iUDTuNuuM0=;zDH7lz7UUu/eqtm6dPWuqg=="

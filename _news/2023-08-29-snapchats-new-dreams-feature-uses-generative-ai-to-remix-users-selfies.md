@@ -44,15 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Snapchat launches a new AI selfie feature called ‘Dreams’"
-    excerpt: "With a few selfies, you can create a personalized Generative AI model and start checking out your Dreams. Users will get the first pack of Dreams, which includes eight images, for free. Afterwards, users can purchase additional packs for $1. Soon ..."
-    publishedDateTime: 2023-08-29T13:45:00Z
-    webUrl: "https://techcrunch.com/2023/08/29/snapchat-launches-a-new-ai-selfie-feature-called-dreams/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
 
 secured: "y8x2ui0zFIwSV+GnGBtJ2vrBPQA3yOhkHx+8lh/6G+X7sDi4drqmjXpIsGRxyNpdWv+nh73y0vLYFwQfke+krZlev/yIQ2o81JBFAsEu3/s6O8ywhISupeq+8RF+xF4AmANwZd02y4fAUiYGIqcbF5Ztqtf6TwDPTgYjo5R4RwxCo8YxfEAkbLlqLqE3hs1esEBBKy4YMFDvj0eToilfdOpe/lsvo2oTuZp+56YFY2+8ZMoUbTs61iLvt2jDbuqvCmTXhifL1YukO8lk0OfL3XZPdk78DFmuiulyh61IRJw6Ni42Ukb44fIoaRTvcVfF+EBoTxzWgOGHOU+ZhvKmc3THDoS5zovaKhAtaySffdJFDxf1t27FVjqxZqGfFobcUfYndPsZiT1upWexDGnZS42qd4zXC6+qrUl+ko8GhtS0Al1yeq+az/SRqzSM12zTptXkF4+uFTfezLlILORn6gULbXR8cf8TjRkwUkHTnpJmr/kE8aipBnQfBicJmZ6044wW3YNAAcyqTGQbmkY7VQ==;oT9Eu9dwOhG0y3EGZUHtPg=="
 ---

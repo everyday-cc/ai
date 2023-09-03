@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2023/08/31/elon-mode-fsd-secret-ful
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/08/31/elon-mode-fsd-secret-full-self-driving-mode-leaves-authorities-despairing/amp/"
 type: article
 quality: 102
-heat: 132
+heat: 122
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk almost runs red light livestreaming Tesla’s self-driving software"
-    excerpt: "Tesla CEO Elon Musk nearly ran a red light while testing the electric car’s new self-driving software through the Bay Area on Friday — the latest glitch in a long-running series of mishaps involving the company’s autopilot feature. Musk livestreamed ..."
-    publishedDateTime: 2023-08-29T14:58:00Z
-    webUrl: "https://nypost.com/2023/08/29/elon-musk-almost-runs-red-light-livestreaming-tesla-software/"
-    ampWebUrl: "https://nypost.com/2023/08/29/elon-musk-almost-runs-red-light-livestreaming-tesla-software/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/08/29/elon-musk-almost-runs-red-light-livestreaming-tesla-software/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 57
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/08/newspress-collage-uy2nyfww9-1693318939415.jpg?quality=75&strip=all&1693304575&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Elon Musk Affirms Training Compute Will Not Be A Constraint For Tesla's Full Self-Driving Improvements Much Longer"
     excerpt: "What Happened: “Training compute should soon not be so much of a limiting factor,” Musk wrote. He was responding to a user who calculated that the training speed of V12 should at least quadruple once chip-maker Nvidia Corp ‘s NVDA +0.98% + Free Alerts H100 cluster is fully operational or even further if there’s a lot of Dojo online."
     publishedDateTime: 2023-08-31T03:44:00Z

@@ -135,6 +135,20 @@ related:
         width: 1000
         height: 665
         isCached: true
+  - title: "Google adding AI tools to cloud"
+    excerpt: "Google's cloud clients will be able to access Meta's Llama 2 large language model, as well as AI startup Anthropic's Claude 2 chatbot, to customize with enterprise data for their own apps and services. The move, announced last week at Google's Next '23 ..."
+    publishedDateTime: 2023-09-03T07:01:00Z
+    webUrl: "https://www.arkansasonline.com/news/2023/sep/03/google-adding-ai-tools-to-cloud/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 39
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/205216573_Google-AI-bg-3db9458a-4676-11ee-9807-7da73538c4fb_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 399
+        isCached: true
   - title: "Domo Announces Domo.AI to Advance the Way Businesses Manage and Deploy AI"
     excerpt: "Domo announced Domo.AI, a portfolio of comprehensive and flexible artificial intelligence (AI) services, powered by the"
     publishedDateTime: 2023-08-31T16:03:00Z
@@ -174,15 +188,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 35
-  - title: "Google to sell cloud-based AI tools to businesses in challenge to Microsoft, OpenAI"
-    excerpt: "Kurian on Tuesday will announce that Google Cloud will be able to use what the WSJ described as a \"large cluster\" of new AI chips developed by Santa Clara-based Nvidia Corp. Nvidia has a near monopoly on AI chips, and CEO Jensen Huang will join Kurian at ..."
-    publishedDateTime: 2023-08-29T14:44:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/08/29/google-cloud-ai-microsoft-openai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 30
   - title: "Domo Announces Domo.AI to Revolutionize the Way Businesses Manage and Deploy Artificial Intelligence"
     excerpt: "The Domo platform -- and our architectural approach to Domo.AI -- is purpose-built to deliver on this need for unique data experiences that help businesses overcome real-world challenges and accelerate innovation and growth."
     publishedDateTime: 2023-08-29T22:02:00Z

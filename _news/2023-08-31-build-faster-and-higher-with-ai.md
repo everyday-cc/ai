@@ -25,93 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Finance Transformation With AI And Open Banking"
-    excerpt: "Oracle Cloud is one good choice, but Amazon Web Services (AWS), Azure, Google Cloud Platform or a combination ... Guardrails And Governance: Applying STAGE And TOTAL Security To Machine Learning If you need to read more on the banking STAGE framework ..."
-    publishedDateTime: 2023-08-29T13:47:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/29/finance-transformation-with-ai-and-open-banking/"
+  - title: "How Four Retail Basics Are Better With Artificial Intelligence"
+    excerpt: "The trick is effectively planning for change, uncertainties and unknowns—and being positioned to thrive regardless of shifting tides. Technology—specifically artificial intelligence (AI)—can help retailers focus on four retail basics constant to success. The change lies in how you approach these four areas of retail by properly leveraging AI."
+    publishedDateTime: 2023-08-31T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/31/how-four-retail-basics-are-better-with-artificial-intelligence/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 81
-  - title: "Crossing the chasm in AI-led marketing transformation"
-    excerpt: "And that is why it should be among the top priorities for any chief marketing officer (CMO) to unravel the possibilities of AI. Customer-centric sectors such as fintech, and e-commerce have already started piloting AI strategies while many other sectors ..."
-    publishedDateTime: 2023-09-02T11:06:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-crossing-the-chasm-in-ai-led-marketing-transformation-3230292/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-crossing-the-chasm-in-ai-led-marketing-transformation-3230292/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-crossing-the-chasm-in-ai-led-marketing-transformation-3230292/lite/"
+    quality: 62
+  - title: "12 Research Projects In Ai And Robotics Are Created By Saudi University Students At Kacst Labs"
+    excerpt: "In addition, the initiatives took on the challenge of developing the first robotic models and expanding technological solutions using advanced approaches and methodologies for the creation of AI models. They also evaluated and improved the linguistic models for the AI chatbot“ChatGPT” to make them compatible with regional content and Arabic."
+    publishedDateTime: 2023-08-31T17:35:00Z
+    webUrl: "https://menafn.com/1106991526/12-Research-Projects-In-Ai-And-Robotics-Are-Created-By-Saudi-University-Students-At-Kacst-Labs"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 76
+      name: Mena FN
+      domain: menafn.com
+    quality: 57
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-01T181533.194.jpg"
-        width: 1200
-        height: 675
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?511604"
+        width: 458
+        height: 250
         isCached: true
-  - title: "Schools, universities turning to artificial intelligence to transform education"
-    excerpt: "As computers did a generation before, advancements in technology are changing how students learn and how teachers teach."
-    publishedDateTime: 2023-08-30T23:59:00Z
-    webUrl: "https://www.cbsnews.com/baltimore/news/schools-universities-turning-to-artificial-intelligence-to-transform-education/"
-    ampWebUrl: "https://www.cbsnews.com/amp/baltimore/news/schools-universities-turning-to-artificial-intelligence-to-transform-education/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/baltimore/news/schools-universities-turning-to-artificial-intelligence-to-transform-education/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 72
-    images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/30/f1b51074-a30b-4361-bf61-bc664c25402a/thumbnail/1200x630/de71b2eb38d3922f943bb2fb16159351/ai.jpg?v=a8a34dbc23229a263a09ea92e9d5b7dc"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "5 Ways AI Will Transform the Mobility Industry"
-    excerpt: "Although they've only really reached mainstream attention in the past decade, autonomous vehicles have been around since the 1990s. In recent years, some self-driving cars have achieved Level 4 autonomy, which means they can steer, accelerate, decelerate, and intervene to prevent a crash without the need for human interaction."
-    publishedDateTime: 2023-08-31T15:30:00Z
-    webUrl: "https://www.inc.com/inc-masters/five-ways-ai-will-transform-the-mobility-industry.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1263350156_hssaxd.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Embuing AI with Ethics"
-    excerpt: "In lieu of regulations, companies are starting to develop their own guidelines to control the use of artificial intelligence."
-    publishedDateTime: 2023-08-29T19:32:00Z
-    webUrl: "https://cacm.acm.org/news/275869-embuing-ai-with-ethics/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 36
-  - title: "Exploring AI’s Transformative Impact on UK Pharmaceuticals and Manufacturing with Bidyut Sarkar"
-    excerpt: "As the AI wave sweeps across industries, the pharmaceutical sector stands poised for a transformative makeover. Experts contend that integrating artificial intelligence (AI) offers unprecedented prospects for accelerated innovation and enhanced healthcare outcomes in the life science industry."
-    publishedDateTime: 2023-09-01T12:56:00Z
-    webUrl: "https://techbullion.com/exploring-ais-transformative-impact-on-uk-pharmaceuticals-and-manufacturing-with-bidyut-sarkar/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 27
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/09/impact.jpg"
-        width: 775
-        height: 430
-        isCached: true
-  - title: "AI in Financial Services: A Transformational Force Beyond the Hype"
-    excerpt: "AI is reshaping all industries as it captivates the public with its limitless potential. Many in financial services have strong reservations about the technology, but it is here and is not going away."
-    publishedDateTime: 2023-08-30T09:31:00Z
-    webUrl: "https://internationalbanker.com/technology/ai-in-financial-services-a-transformational-force-beyond-the-hype/"
-    type: article
-    provider:
-      name: International Banker
-      domain: internationalbanker.com
-    quality: 19
 
 secured: "I92Yen1sB+LLBvO9h9qNfboQ8OIwQ2HjL66Nn2DkZo+zPC0yQOWNUZjM9/6wFN/JH2sT48g1noZurgJshYSSSMDumi5xMfUf9Q6uj7no1ZdTxr/uJ64+tfZizeGgqo+hqKzRJiunuKocOFuxlrNvR0nRF48mWAV/QMmVbN02Ft7qMYGhgQGtmbNtsABIQiy143jfnyUtq40sfza/JTrl1TdLHa0DqdjY6le09LiXrLJDaQt1BoEhpKakrhwgsaKIyIwExPc8rzlNu9rDzsV0+dWFyw/wtPcV77aDNl5CMI4Og/PVok7s25vEygj6zRDLTggdjizX2xqVJjyHTveLZFQkE7D6bSkhLE2w5u76Czyeqo+CE5FrrvMRsCJv6zWS/xN5LxDb+GA4uTRyYbJQbhMarEWZBcOGRP1jqAX1DuMeBRvpFbKnTeeGWDKVKyB8BjKDzw78yOj9ujH+t/dorrjIsnYq1zwW+HDcC1U5kXT2TdK21c3CRIOUaOuf8lYIMThvak/XkRmdz+1AgVNgxQ==;5lJ96YO9d3gEyrJi/vqAOg=="
 ---

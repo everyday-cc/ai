@@ -56,6 +56,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "How to stop Meta from using your data to train AI"
+    excerpt: "Meta is betting big on AI, just like it tried to bet big on the Metaverse all those months ago. This means the company will use data that it has scraped and received from outside sources to help train its AI."
+    publishedDateTime: 2023-09-02T18:02:00Z
+    webUrl: "https://bgr.com/tech/how-to-stop-meta-from-using-your-data-to-train-ai/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/02/Meta-Sign.jpg?quality=82&strip=all"
+        width: 2584
+        height: 1672
+        isCached: true
 
 secured: "gFMY8vswqZOj4Jc7ZnfGqs9qQUA5Z6+U1N3OxI5F0N+Qd7yesfgHnwofeN/3DEs9tlaKXWFEOtu6t+qyRONz8bU33hx+MSoyhpjgJEqgAnvr9GJoj6lSoGxkIsmbZd9QAmFxyGpr9tvq2RGeLzLiCad9/LcaXWb43zs5BYl0ipkxbe0EIJ54+PUYYT1YPmQ6r6N5eca84LpoXHLHvF4JptxOQVfJdoXzrLS2OZ6obFMgidNhW5TQ2LAj4/tzONi/C5z22vmpfiGqYdGY0kexfl1wCZbAEQi+QvAYDL0Mx93OXyBfm1IUfFc5LGA/elAlKtOTF3vFN0Y8vCBCFRJCikQDrId3cWhkJHfpVh9i7WULDC7YjZ5yz5eYjZhEVKqRF2xGI+2ECqBi3KzdjxjqjRRCygxrbgC6EXOl+USsQyDXIJa6eVvVM0CPZkq9JpFFauvTnyHWK92Hvgv6BOe11La8Pfqq7j+/vnTZxucGjY4MlkXhk8OYSi5RKO4XMHgwr+miiFaXtETxCa7c9pStsQ==;WXV2r9v572Vc31VnKrsn1w=="
 ---

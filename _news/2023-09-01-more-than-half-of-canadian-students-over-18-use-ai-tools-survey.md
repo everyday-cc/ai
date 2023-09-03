@@ -21,15 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Canadian Broker Network launches first AI automation bot"
-    excerpt: "TORONTO, ON, AUGUST 29, 2023/insPRESS/ – Canadian Broker Network (CBN), Canada’s leading network of independent insurance brokers, and insurance automation startup Quandri, today announced the launch of CBN’s first artificial intelligence robot to ..."
-    publishedDateTime: 2023-08-29T14:48:00Z
-    webUrl: "https://www.canadianunderwriter.ca/inspress/canadian-broker-network-launches-first-ai-automation-bot/"
-    type: article
-    provider:
-      name: Canadian Underwriter
-      domain: canadianunderwriter.ca
-    quality: 19
   - title: "While popular with Canadian students, six in 10 consider generative AI tools cheating"
     excerpt: "including AI ethics, says Ms. James. \"If educators can offer more courses about generative AI, it will help students develop the skills they need to use it properly, responsibly, and effectively both for school and in their work careers,\" she says."
     publishedDateTime: 2023-08-30T11:13:00Z

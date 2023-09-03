@@ -9,8 +9,8 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-cro
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-crossing-the-chasm-in-ai-led-marketing-transformation-3230292/lite/"
 type: article
 quality: 76
-heat: -1
-published: false
+heat: 136
+published: true
 
 provider:
   name: The Financial Express
@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Finance Transformation With AI And Open Banking"
-    excerpt: "Oracle Cloud is one good choice, but Amazon Web Services (AWS), Azure, Google Cloud Platform or a combination ... Guardrails And Governance: Applying STAGE And TOTAL Security To Machine Learning If you need to read more on the banking STAGE framework ..."
-    publishedDateTime: 2023-08-29T13:47:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/29/finance-transformation-with-ai-and-open-banking/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
   - title: "Schools, universities turning to artificial intelligence to transform education"
     excerpt: "As computers did a generation before, advancements in technology are changing how students learn and how teachers teach."
     publishedDateTime: 2023-08-30T23:59:00Z
@@ -53,20 +44,17 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Build faster and higher with AI"
-    excerpt: "MEANT as a sly swipe at the inflated hype around artificial intelligence (AI), a billboard at a construction site in Antwerp, Belgium, read “Hey ChatGPT, finish this building.”"
-    publishedDateTime: 2023-08-31T00:52:00Z
-    webUrl: "https://www.thestar.com.my/news/focus/2023/08/31/build-faster-and-higher-with-ai"
+  - title: "Money, markets and machine learning: Unpacking the risks of adversarial AI"
+    excerpt: "According to the technology services company Exadel ... poisoning and adversarial attacks have broad implications across different machine learning applications, including financial forecast models. In a study conducted by researchers at the University ..."
+    publishedDateTime: 2023-08-30T16:01:00Z
+    webUrl: "https://thehill.com/opinion/finance/4176752-money-markets-and-machine-learning-unpacking-the-risks-of-adversarial-ai/"
+    ampWebUrl: "https://thehill.com/opinion/finance/4176752-money-markets-and-machine-learning-unpacking-the-risks-of-adversarial-ai/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/finance/4176752-money-markets-and-machine-learning-unpacking-the-risks-of-adversarial-ai/amp/"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/08/31/2259990.jpg"
-        width: 620
-        height: 439
-        isCached: true
+      name: The Hill
+      domain: thehill.com
+    quality: 54
   - title: "5 Ways AI Will Transform the Mobility Industry"
     excerpt: "Although they've only really reached mainstream attention in the past decade, autonomous vehicles have been around since the 1990s. In recent years, some self-driving cars have achieved Level 4 autonomy, which means they can steer, accelerate, decelerate, and intervene to prevent a crash without the need for human interaction."
     publishedDateTime: 2023-08-31T15:30:00Z
@@ -81,15 +69,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Embuing AI with Ethics"
-    excerpt: "In lieu of regulations, companies are starting to develop their own guidelines to control the use of artificial intelligence."
-    publishedDateTime: 2023-08-29T19:32:00Z
-    webUrl: "https://cacm.acm.org/news/275869-embuing-ai-with-ethics/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 36
   - title: "Exploring AI’s Transformative Impact on UK Pharmaceuticals and Manufacturing with Bidyut Sarkar"
     excerpt: "As the AI wave sweeps across industries, the pharmaceutical sector stands poised for a transformative makeover. Experts contend that integrating artificial intelligence (AI) offers unprecedented prospects for accelerated innovation and enhanced healthcare outcomes in the life science industry."
     publishedDateTime: 2023-09-01T12:56:00Z
@@ -112,6 +91,15 @@ related:
     provider:
       name: International Banker
       domain: internationalbanker.com
+    quality: 19
+  - title: "How Machine Learning is Transforming the Online Card Games in India"
+    excerpt: "A fine balance has been created by the subtly included machine learning algorithms, enhancing the gaming experience without compromising the core of the games."
+    publishedDateTime: 2023-08-31T08:13:00Z
+    webUrl: "https://theprint.in/theprint-valuead-initiative/how-machine-learning-is-transforming-the-online-card-games-in-india/1740246/"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
     quality: 19
 
 secured: "nXKrZdcoE3IlRZzkS649OPqHqWV3NeD/cvahlWgGXmf+EAlQuNQ7xFTut845jLIZ2m4eGWjR3xBoLkuq9pgCCDse3Rxd3SwRXxRNptEFNbJNZi0+ZoHlFtKrwMDXdU3AVSp/5hNH10HLPV/WwwXYLae8OYkj6IO4l4LgaGiIw5w6fxqvM+akqtB5STyUFDjRdd3hHvC8O1qksyy7wbIV4ildTRRDsm2CB+/n1usBkwDvklWcOLLiJer4Tvfi0PMt1SZv9+1KWhHjw/6WZ/+BqnpLrzvdEaAPHXtCGRb6uXb3A28YHUx3fLIuM3K+xaPQFNLemXEbCAxT286FIxM8vU9mxt6EmPvZFJWyIM/fHA0=;9F5NdPzjnLmHeWpmR5tBNw=="

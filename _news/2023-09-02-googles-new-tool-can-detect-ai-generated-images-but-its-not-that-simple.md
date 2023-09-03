@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/googles-new-tool-can-detect
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-new-tool-can-detect-ai-generated-images-but-its-not-that-simple/"
 type: article
 quality: 85
-heat: 166
+heat: 146
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Develops A Tool That Can Spot AI-Generated Photos With High Accuracy"
-    excerpt: "Alphabet Inc.'s GOOG GOOGL Google DeepMind team has developed a new SynthID technology that makes it nearly impossible for people to remove watermarks from AI-generated images. What Happened: Google's DeepMind team, which works on futuristic and cutting ..."
-    publishedDateTime: 2023-08-29T14:33:00Z
-    webUrl: "https://www.benzinga.com/news/23/08/34092148/google-develops-a-tool-that-can-spot-ai-generated-photos-with-high-accuracy"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34092148"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34092148"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/Google_DeepMind_SynthID.jpeg?width=1200&height=800&fit=crop"
-        width: 864
-        height: 576
-        isCached: true
   - title: "Google wants an invisible digital watermark to bring transparency to AI art"
     excerpt: "Google took a step towards transparency in AI-generated images today. Google DeepMind announced SynthID, a watermarking / identification tool for generative art. The company says the technology embeds a digital watermark,"
     publishedDateTime: 2023-08-29T17:20:00Z
@@ -110,15 +94,6 @@ related:
       name: Futurism
       domain: futurism.com
     quality: 19
-  - title: "AI images are getting harder to spot. Google thinks it has a solution."
-    excerpt: "The tech giant unveiled a new watermark for AI-generated images, aiming to curb the spread of misinformation during the 2024 presidential campaign."
-    publishedDateTime: 2023-08-29T13:34:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/08/29/google-wants-watermark-ai-generated-images-stop-deepfakes/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 17
 
 secured: "dWS67hQ/6XgaTnd2DWv3bhnFHGDHc6LWMPUskKBgyf3jJprrZCmi2RNzvoyK25b3EDGWyQW9fnwnizEheSkCv+/iqMDLmylQphg6Khb9vEVfYfNulBI/gC5kzRd6AUerKFvY7UV/Xs+UWIfwXT3e6cveXo7Fu1zoQMXiR/Y46gabGoGu6K2NIDJrECL7e0M8aqLC8jeMR1jVag6/xynhMwXxX0zf0DhxtbZUdgJ94fCqVCDAIAebSDa5REHriXyHvt8Hg2RWcuh3vZHwm8WzLRXdNAV0g1uKT4m0w8u+4u7NJhFiGv9OVn37D1MeEiDCN56ROV0gtiLxAiLXNy+S5dWM1SOu+BmHSIjLGWnrjyJHrwCWdEOepSR/2NnlTAWPuN4zD7+mheVOwY4i0yvknxzqwkUUmirf2F+GRDOgShxOprIQxAf+sY/2twN9wGSksdpGjuYDgRxNuzRpmaMQheRRm2NmC5w4JhwhUUUgicUQEbYJ8U2KKrTbTNYEYBEhc+h4gQuCzlemW8f8/6LJcA==;Dk/1vhLB3RpEAkRNn57kxg=="
 ---

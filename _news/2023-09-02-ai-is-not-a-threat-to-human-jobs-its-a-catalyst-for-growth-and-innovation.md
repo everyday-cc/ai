@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/ai-is-not-a-threat-to-human-jobs-its-a-
 webUrl: "https://venturebeat.com/ai/ai-is-not-a-threat-to-human-jobs-its-a-catalyst-for-growth-and-innovation/"
 type: article
 quality: 67
-heat: 77
+heat: 79
 published: true
 
 provider:

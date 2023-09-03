@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google Develops A Tool That Can Spot AI-Generated Photos With High Accuracy"
-    excerpt: "Alphabet Inc.'s GOOG GOOGL Google DeepMind team has developed a new SynthID technology that makes it nearly impossible for people to remove watermarks from AI-generated images. What Happened: Google's DeepMind team, which works on futuristic and cutting ..."
-    publishedDateTime: 2023-08-29T14:33:00Z
-    webUrl: "https://www.benzinga.com/news/23/08/34092148/google-develops-a-tool-that-can-spot-ai-generated-photos-with-high-accuracy"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34092148"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34092148"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/Google_DeepMind_SynthID.jpeg?width=1200&height=800&fit=crop"
-        width: 864
-        height: 576
-        isCached: true
   - title: "Google wants an invisible digital watermark to bring transparency to AI art"
     excerpt: "Google took a step towards transparency in AI-generated images today. Google DeepMind announced SynthID, a watermarking / identification tool for generative art. The company says the technology embeds a digital watermark,"
     publishedDateTime: 2023-08-29T17:20:00Z
@@ -106,15 +90,6 @@ related:
       name: Popular Science
       domain: popsci.com
     quality: 19
-  - title: "AI images are getting harder to spot. Google thinks it has a solution."
-    excerpt: "The tech giant unveiled a new watermark for AI-generated images, aiming to curb the spread of misinformation during the 2024 presidential campaign."
-    publishedDateTime: 2023-08-29T13:34:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/08/29/google-wants-watermark-ai-generated-images-stop-deepfakes/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 17
 
 secured: "TK28QYnU60CPXhtiiZkUCPk7bXAAJuZAYNbHGyblZsdJ4BBXld5cWgoLyxL51l4o2DSybsvnsbm0qMWOykIeA3I5MQ1ChQ/0ed54GTzJiaNRZnYG3l4H9JoboTYfTDSdZpB42x9jLVTD6SlCMhkxeA0+O6QMzNrBh9D1dNIH4wleraImj3ws8KeB7tjbyO5/L9aC3NwVcluB1LjdKMuuwBLXnbALhHUKcJJ9MwVjFp5qQ+FqZ54oALN1ebLl69dAPr2h+QcYmYual9u7WRv53xa+i98ZgroQwBPvp1z/gP024Jr8Dyj90zbU7SFnncfpjfF80rzwskMshNsFdP1xbnumFi8JM41Xym34MDGZ+QDjca9fQL8Usod3jOifMvncflEpqigpnJrH56cfEeQWWojkbIXurlrECTzBqkeWjfMJMcauerQbZGqcxQLJdpN6ujDf3KtNbBSf0R3zsmu4ZBqP6hcrTW6nwew1kmwV98bOa6ntAoJ3tmN5Vusn3ki8x1pCd+9wg0qwTA7CR5zbQg==;quBkzjRcyd1PQHbiupEmqQ=="
 ---

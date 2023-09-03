@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-officially-adds-b
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-officially-adds-bing-ai-chatbot-to-google-chrome/"
 type: article
 quality: 104
-heat: 294
+heat: 274
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/e13627a237c6a281cc2ea5fe0e7795d4fbec9b59/2023/08/30/a32be0fd-11eb-49e4-bdb6-5652372167da/dsc00260.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
-    excerpt: "Here's a ChatGPT guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer your FAQs."
-    publishedDateTime: 2023-08-29T14:55:00Z
-    webUrl: "https://techcrunch.com/2023/08/29/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
-    ampWebUrl: "https://techcrunch.com/2023/08/29/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/29/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
-        width: 1200
-        height: 798
         isCached: true
   - title: "Microsoft Wants Us to Wear AI-Powered Backpacks"
     excerpt: "Microsoft's latest idea for a wearable takes the form of an AI-powered backpack full of sensors."
@@ -249,15 +233,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
-  - title: "Google Collaborates with Nvidia in AI Expansion: A Strategic Play Against Titans Microsoft, OpenAI, and Amazon"
-    excerpt: "Kurian, alongside Nvidia Corp NVDA CEO Jensen Huang, looks to announce that a large cluster of Nvidia’s newest AI chips, the H100, will generally become available to Google Cloud customers, sampling a growing range of AI offerings. Google also ..."
-    publishedDateTime: 2023-08-29T13:28:00Z
-    webUrl: "https://www.benzinga.com/news/23/08/34087069/google-collaborates-with-nvidia-in-ai-expansion-a-strategic-play-against-titans-microsoft-openai-and"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 16
 
 secured: "GxhrJ/M+AIYfJ+SvYAAtROHSbf5OEa50OSkByJ1dzmPguHS2Q/ZyoIYkYrqQk7/oOuhEknv7MXURNcZb5WJIzmdCd8mahiSgz+awTh+pQuyH8Er5MMyCwJe5UdFeUa5trw1jSCgp5wQnWdm/sG29m3EB1KBiSgVRz3DcWrLdv9nU4z6lwRNeaL9+99HQpud1iFnJ1s+1uDbcQFyzv9/C/nwXuBsl8t2PUgZ9/H6qsNGUKV2bFPIpWgfzne3Th9pSIED2EvPgfjIfwNLp5ej70RHLvoLmNQAHf00noLXnH2DQhYSoy3hBLg/4189Kzn3A8zB0pWGpspiWM9YcfxfdOHw3ghXXpBSMaBgV3EFus1CpxZXAK+mzvtF3eBlcTo84FR7GF0r3HEmuRbV9uRdsJChp179AxVnbwx97Gm6uQDOUC9zqDuATAjs0rSXjdveNjx6Qh3ohBdBPI1AanSIv5U4LSVeoi0A77rSisxi9vJNrYMjRPvIoSWxmiSuxXZMIeXvor9BIG5PxXA/z5xOsPQ==;hCLVyEMpSM0+gZevSZxJkw=="
 ---

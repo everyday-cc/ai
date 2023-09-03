@@ -20,98 +20,34 @@ topics:
   - AI Ethics
 
 related:
-  - title: "Finance Transformation With AI And Open Banking"
-    excerpt: "Oracle Cloud is one good choice, but Amazon Web Services (AWS), Azure, Google Cloud Platform or a combination ... Guardrails And Governance: Applying STAGE And TOTAL Security To Machine Learning If you need to read more on the banking STAGE framework ..."
-    publishedDateTime: 2023-08-29T13:47:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/29/finance-transformation-with-ai-and-open-banking/"
+  - title: "The Ethics and Practicality of AI Assisted Patent Drafting"
+    excerpt: "Artificial Intelligence (AI) is taking the world by storm, and recently garnered the attention of the American Bar Association, which has just announced the creation of a task force that will examine the impact of AI on law practice and the ethical implications of its use for lawyers."
+    publishedDateTime: 2023-08-31T16:15:00Z
+    webUrl: "https://ipwatchdog.com/2023/08/31/ethics-practicality-ai-assisted-patent-drafting/id=166094/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
-  - title: "Crossing the chasm in AI-led marketing transformation"
-    excerpt: "And that is why it should be among the top priorities for any chief marketing officer (CMO) to unravel the possibilities of AI. Customer-centric sectors such as fintech, and e-commerce have already started piloting AI strategies while many other sectors ..."
-    publishedDateTime: 2023-09-02T11:06:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-crossing-the-chasm-in-ai-led-marketing-transformation-3230292/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-crossing-the-chasm-in-ai-led-marketing-transformation-3230292/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-crossing-the-chasm-in-ai-led-marketing-transformation-3230292/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 76
+      name: IPWatchdog
+      domain: ipwatchdog.com
+    quality: 54
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-01T181533.194.jpg"
-        width: 1200
-        height: 675
+      - url: "https://ipwatchdog.com/wp-content/uploads/2023/08/Depositphotos_650667620_XL-scaled.jpg"
+        width: 2560
+        height: 1440
         isCached: true
-  - title: "Schools, universities turning to artificial intelligence to transform education"
-    excerpt: "As computers did a generation before, advancements in technology are changing how students learn and how teachers teach."
-    publishedDateTime: 2023-08-30T23:59:00Z
-    webUrl: "https://www.cbsnews.com/baltimore/news/schools-universities-turning-to-artificial-intelligence-to-transform-education/"
-    ampWebUrl: "https://www.cbsnews.com/amp/baltimore/news/schools-universities-turning-to-artificial-intelligence-to-transform-education/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/baltimore/news/schools-universities-turning-to-artificial-intelligence-to-transform-education/"
+  - title: "Event: Practical AI for Small Business – Understanding practical application, safety and ethics in the real world"
+    excerpt: "You’ve seen all the hype – but what does AI mean for you and your small business? Explore the ins and outs and hear from experts and business leaders like you who’ve put AI technology to work."
+    publishedDateTime: 2023-08-31T03:46:00Z
+    webUrl: "https://www.smartcompany.com.au/partner-content/event/practical-ai-for-small-business-practical-application-safety-and-ethics-in-the-real-world/"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 72
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 33
     images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/30/f1b51074-a30b-4361-bf61-bc664c25402a/thumbnail/1200x630/de71b2eb38d3922f943bb2fb16159351/ai.jpg?v=a8a34dbc23229a263a09ea92e9d5b7dc"
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2023/08/Pitch100823-1810-1.jpg?resize=1200,630"
         width: 1200
         height: 630
         isCached: true
-  - title: "Build faster and higher with AI"
-    excerpt: "MEANT as a sly swipe at the inflated hype around artificial intelligence (AI), a billboard at a construction site in Antwerp, Belgium, read “Hey ChatGPT, finish this building.”"
-    publishedDateTime: 2023-08-31T00:52:00Z
-    webUrl: "https://www.thestar.com.my/news/focus/2023/08/31/build-faster-and-higher-with-ai"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/08/31/2259990.jpg"
-        width: 620
-        height: 439
-        isCached: true
-  - title: "5 Ways AI Will Transform the Mobility Industry"
-    excerpt: "Although they've only really reached mainstream attention in the past decade, autonomous vehicles have been around since the 1990s. In recent years, some self-driving cars have achieved Level 4 autonomy, which means they can steer, accelerate, decelerate, and intervene to prevent a crash without the need for human interaction."
-    publishedDateTime: 2023-08-31T15:30:00Z
-    webUrl: "https://www.inc.com/inc-masters/five-ways-ai-will-transform-the-mobility-industry.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1263350156_hssaxd.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Exploring AI’s Transformative Impact on UK Pharmaceuticals and Manufacturing with Bidyut Sarkar"
-    excerpt: "As the AI wave sweeps across industries, the pharmaceutical sector stands poised for a transformative makeover. Experts contend that integrating artificial intelligence (AI) offers unprecedented prospects for accelerated innovation and enhanced healthcare outcomes in the life science industry."
-    publishedDateTime: 2023-09-01T12:56:00Z
-    webUrl: "https://techbullion.com/exploring-ais-transformative-impact-on-uk-pharmaceuticals-and-manufacturing-with-bidyut-sarkar/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 27
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/09/impact.jpg"
-        width: 775
-        height: 430
-        isCached: true
-  - title: "AI in Financial Services: A Transformational Force Beyond the Hype"
-    excerpt: "AI is reshaping all industries as it captivates the public with its limitless potential. Many in financial services have strong reservations about the technology, but it is here and is not going away."
-    publishedDateTime: 2023-08-30T09:31:00Z
-    webUrl: "https://internationalbanker.com/technology/ai-in-financial-services-a-transformational-force-beyond-the-hype/"
-    type: article
-    provider:
-      name: International Banker
-      domain: internationalbanker.com
-    quality: 19
 
 secured: "Reu1HvT6sdYzNISaoCMXDxPYlhuwk8F08THriqYQK4mvNebexF24Rm1uvHRjKhqxxqY/pDdd0XcnYbnukmmlWjh21dITi+13fP64c2rWYVEu//KyvF/I4RgPrW03ZEmdkwC/u625Etheu2TcRBRm5VCb8PapQPfEPRAIczFcmkP+LCVe9ceN+TbQvpZSEARJ/42LQDElvfAO4UEZUNUW0CLEOZBXUxJWumq9FFrbWadWPieD1ykiGjApNYD9IPN23NCtMX3ZQGsmDoOtIimOKQ2mQYFulkwd8x/P0MADnf7SvCdH8zRLJrFMIR5ZThpR3lZq7wG5E7BdMP5juqWrGZrLDN+bSTbAit2B5FZv73+vKsGchy0ix4xdaWfMj5UX2yUTd4LGKdIFKoTf6h92sUK01tnEBSYgtjc2e871kiUqz2CDYllPqt1rsT/gDCDWJzr6X8slwbJYW4T75npgKnx1UwgHm0+ulyV7Df/LkPO+4Q1XtoiRVIsLcCPxwG7/o0bK0+CERWyZViqcTMoj4w==;qmG/4o+c8UEAxYFcMNJq3g=="
 ---

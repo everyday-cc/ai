@@ -7,8 +7,8 @@ originalUrl: "https://www.fool.com/investing/2023/09/01/intels-gaudi-2-beats-nvi
 webUrl: "https://www.fool.com/investing/2023/09/01/intels-gaudi-2-beats-nvidias-h100-in-certain-ai-ta/"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Motley Fool
@@ -27,17 +27,6 @@ images:
     width: 2000
     height: 1500
     isCached: true
-
-related:
-  - title: "As Nvidia Dominates AI Landscape, Intel's 2024 'Sierra Forest' Gears Up for Data Center Revolution"
-    excerpt: "Intel Corp INTC eyes a next-generation data center chip. Likely for a 2024 launch, this chip promises to provide over double the computational capability for each unit of power consumed amid global efforts to reduce energy consumption. Intel showcased ..."
-    publishedDateTime: 2023-08-29T13:25:00Z
-    webUrl: "https://www.benzinga.com/news/23/08/34088848/as-nvidia-dominates-ai-landscape-intels-2024-sierra-forest-gears-up-for-data-center-revolution"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 5
 
 secured: "a2NSYAovQeCnuqYqyKdW6zoIFsAeSJ0tgX+YTk9xuWonbCGeR0vH29IYBJw+ASZ8vfv432H8bgHzY1KXSFHlhAZBsgasOK1HVJcWPJWsBTmAYQJJ7lnoenmfDg3X8dNwmPBqr6Nt0hK0PXjbqqG2Vj2WvzOrPqVoAOh+nT2/mcXpiGCEgPatTgX37pPZkrlxDh4lV7l0jRwjOX7jc9uxUe5iJFE1omXb83rK/P8lZPnFhege4cCb5OgL/yJ6eUD1qdEzXsauU8OheT8lCYQ0GYt/UhU/8fanj0d+WNkup253yqk2n9O3ZOfrxPu9cxPcavcGObXQGJ0OuqJrvW0FUVLXXz1PPimtFJNO34ZmQkme5pmxccq34EKIx6s+V7KXh3F8QOFZAGTrRkNpfD/fK5J0E/gH+5XvLIUPawiAWb9t9xtjjmC2pAvUaEMN6kCw1BiwPZBDxusuimHVjYDyyH7VHz1QjrXQRcKQMFsY9c+9IKxrsWFNaZIGoygcbOsAJTKXVtWnK7Fj7CDsBJXQbw==;kSloOMFBbndnfCkyUgrjXw=="
 ---
