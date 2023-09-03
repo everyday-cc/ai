@@ -2,48 +2,6 @@
   "page": 55,
   "value": [
     {
-      "path": "_news/2023-07-25-debunking-observability-myths-part-1-why-you-cant-skip-monitoring-and-rely-only-on-logs.md",
-      "title": "Debunking observability myths – Part 1: Why you can’t skip monitoring and rely only on logs",
-      "excerpt": "In this blog post, we will shed light on a myth surrounding observability: \"You can skip monitoring and rely on logs.”\nThe post Debunking observability myths &#8211; Part 1: Why you can’t skip monitoring and rely only on logs appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/debunking-observability-myths-part-1-why-you-cant-skip-monitoring-and-rely-only-on-logs/",
-      "originalUrl": "https://www.ibm.com/blog/debunking-observability-myths-part-1-why-you-cant-skip-monitoring-and-rely-only-on-logs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-25T11:33:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-26-hitpaw-introduces-online-ai-video-translator-breaking-language-barriers-in-video-content.md",
       "title": "HitPaw Introduces Online AI Video Translator: Breaking Language Barriers in Video Content",
       "excerpt": "HitPaw's Online AI Video Translator is set to revolutionize the video translation landscape, offering a user-friendly platform to effortlessly translate video content from one language to another.",
@@ -1212,6 +1170,58 @@
       ],
       "topics": [
         "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-25-goodbye-to-graphics-how-gpus-came-to-dominate-compute-and-ai.md",
+      "title": "Goodbye to Graphics: How GPUs Came to Dominate Compute and AI",
+      "excerpt": "TechSpot is celebrating its 25th anniversary. TechSpot means tech analysis and advice you can trust. When you buy through our links, we may earn a commission. Learn more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/article/2702-gpu-compute-ai/",
+      "originalUrl": "https://www.techspot.com/article/2702-gpu-compute-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/articles-info/2702/images/2023-07-24-image.jpg",
+          "width": 3213,
+          "height": 1806,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-25T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

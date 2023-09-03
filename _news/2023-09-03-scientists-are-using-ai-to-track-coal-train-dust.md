@@ -8,7 +8,7 @@ webUrl: "https://www.popsci.com/environment/coal-train-dust-ai/"
 ampWebUrl: "https://www.popsci.com/environment/coal-train-dust-ai/?amp"
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/environment/coal-train-dust-ai/?amp"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.popsci.com/uploads/2023/09/01/Depositphotos_81499646_L-1.jpg?auto=webp"
@@ -224,6 +225,6 @@ related:
       domain: hindustantimes.com
     quality: 17
 
-secured: "n5SQSlowi7QbTwh2B1nq4s60xg6hC4NwpLAg1VUJTgDLrOAzXuyUP+lpX18IVkRIv6GJnSBskTznD+zpAuHsf4bDtCuwz5hLClKhWMe8wH/iujYDKo9A/tkVYddCBU49lTFdO9uvbtrg1yJih4SRr6EuoJZViQ4DC5/Kjd0LX8IYGhasZgWo+SlnGaGnv72LsGMmYBoMz1p9youTZUgI/iXSzMbqn0egKWjedFDJ8sH9/VJtAkA/S1bZ6rEhj00ZzZ72FW+o8Tm7ILHkFPamXeePRUiEXRGv4EKpxUY8PF8z5MMhED1aMaSoaGcSOYXm31hBgXT9+Sv+zKlIA7gZmdtt01UZYmtcgSKMxpKSOSs=;bQ1QbKRFhkxUJXwQFUQi4A=="
+secured: "MtvQ4oimh9iy/VFchSeC8SykgD/wB6lM1SCRMPWieTUe1LUEhqFnz9CPaQ6DnbUzyVk+3uWstZSmdxJ3dE7kQrPz3ktLqNZdfFOFNWhDg9WmXsTWYqhoewa/jjdVeLrPS+Zp4Cfyj4rbayMQgNHtxKcgmhQqOjoR4cCAkmxAriNJZwX+mt7tlfcsp2aNXSLsvLpD41bOxTMelgF3nIyyNY7eGf89aAoBAVYe5xcZ313tWzcQgUh33gbh07aFf8lBjXnOHtz6ZrMqFaQlr7Q0nVawB0unX14lVbYW1oxzqS46krlj0R6uXuMpGtY2l/yIlk235PWX/U+va/AoMwuWzjoT8Wljk/v/1/mEl2n8cTnpHRc0m/oAEjtbWZI+Aho/+GbsjHKplUNEZRofMsz8bTvrIr8kOoqkcuAFPv0EvtD+2kFpQBDJiuFhKuCOxfuEJXBllscK7+51xwi5TSNivf6PRUH2uw+rarrpYgp1mKjywv34k5rh6TxqQaZ33wOaSQY9kgZJrHdvUR0FLXDFZQ==;KzfLhSzeAs1AnLIGZmsPUw=="
 ---
 

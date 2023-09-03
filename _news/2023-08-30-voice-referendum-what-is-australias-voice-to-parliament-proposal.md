@@ -39,6 +39,22 @@ related:
         width: 1024
         height: 684
         isCached: true
+  - title: "Peter Dutton says Coalition will hold Indigenous recognition referendum if voice to parliament vote fails"
+    excerpt: "Opposition leader says constitutional recognition is ‘the right thing to do’ and simple referendum on the issue was ‘fair compromise’"
+    publishedDateTime: 2023-09-03T00:02:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/sep/03/peter-dutton-says-coalition-will-hold-indigenous-recognition-referendum-if-voice-to-parliament-vote-fails"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/sep/03/peter-dutton-says-coalition-will-hold-indigenous-recognition-referendum-if-voice-to-parliament-vote-fails"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/sep/03/peter-dutton-says-coalition-will-hold-indigenous-recognition-referendum-if-voice-to-parliament-vote-fails"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 42
+    images:
+      - url: "https://i.guim.co.uk/img/media/3426697126472ec290281196ecff77b7743048ef/0_261_5823_3495/master/5823.jpg?width=620&quality=85&auto=format&fit=max&s=7469415c206ce4c8eb6e6942e612b9f5"
+        width: 620
+        height: 372
+        isCached: true
   - title: "'Do First Nations people support the Voice?' All your Voice to Parliament questions, answered."
     excerpt: "Australians will be asked to vote on the question of whether the nation should recognise First Nations people through an Indigenous Voice to Parliament in the Australian Constitution. Whether you’ve been following the Voice debate online,"
     publishedDateTime: 2023-08-29T21:15:00Z

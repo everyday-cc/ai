@@ -2,57 +2,6 @@
   "page": 88,
   "value": [
     {
-      "path": "_news/2023-07-04-valve-raises-concerns-about-legality-of-ai-in-game-development.md",
-      "title": "Valve raises concerns about legality of AI in game development",
-      "excerpt": "Valve recently rejected some games for using AI assets -- and says it's because of AI's legal gray area with regards to copyright.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/valve-raises-concerns-about-legality-of-ai-in-game-development/",
-      "originalUrl": "https://venturebeat.com/games/valve-raises-concerns-about-legality-of-ai-in-game-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/steam-library-update-2.png?fit=750%2C422&#038;strip=all",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-03T17:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-04-ais-unexpected-role-helping-retain-not-replace-top-developers.md",
       "title": "AI’s Unexpected Role: Helping Retain, Not Replace, Top Developers",
       "excerpt": "Despite dire predictions that AI will take over software development, companies are buying new, AI-powered tools to help retain highly sought after senior developers.",
@@ -1143,6 +1092,58 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-03-17-insights-for-candidates-navigating-the-ai-job-application-era.md",
+      "title": "17 Insights For Candidates Navigating The AI Job Application Era",
+      "excerpt": "We encourage candidates to personalize their resumes, cover letters and applications. This shows genuine interest and helps you stand out in a competitive market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/07/03/17-insights-for-candidates-navigating-the-ai-job-application-era/",
+      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/07/03/17-insights-for-candidates-navigating-the-ai-job-application-era/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62913326f44d3e367ddf131d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 812,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/07/03/17-insights-for-candidates-navigating-the-ai-job-application-era/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2023/07/03/17-insights-for-candidates-navigating-the-ai-job-application-era/amp/",
+      "publishedDateTime": "2023-07-03T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
       ]
     }
   ],

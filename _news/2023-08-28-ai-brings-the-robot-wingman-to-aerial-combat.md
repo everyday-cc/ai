@@ -1,22 +1,20 @@
 ---
 category: news
 title: "AI Brings the Robot Wingman to Aerial Combat"
-excerpt: "What distinguishes the Air Force’s pilotless XQ-58A Valkyrie experimental aircraft is that it is run by artificial intelligence."
-publishedDateTime: 2023-08-27T22:12:00Z
-originalUrl: "https://www.seattletimes.com/nation-world/ai-brings-the-robot-wingman-to-aerial-combat/"
-webUrl: "https://www.seattletimes.com/nation-world/ai-brings-the-robot-wingman-to-aerial-combat/"
-ampWebUrl: "https://www.seattletimes.com/nation-world/ai-brings-the-robot-wingman-to-aerial-combat/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/ai-brings-the-robot-wingman-to-aerial-combat/?amp=1"
+excerpt: "Artificial intelligence (AI) operates the U.S. Air Force's pilotless XQ-58A Valkyrie experimental aircraft, which the military envisions as a next-generation robot wingman for traditional fighter jets."
+publishedDateTime: 2023-08-28T16:24:00Z
+originalUrl: "https://cacm.acm.org/news/275827-ai-brings-the-robot-wingman-to-aerial-combat/fulltext"
+webUrl: "https://cacm.acm.org/news/275827-ai-brings-the-robot-wingman-to-aerial-combat/fulltext"
 type: article
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: acm.org
+  domain: acm.org
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "+dmQJ807Tf5AX9zxQiDCZtqaVz/0Y5z2ouvXLzD9DDCMTKRybyLVGBMi6XtWTDujoYjX7A8zd4ilHxY5EgunXYG5WNtnokkTeDf88j7v6gpUWiWlEP3ocSGpHxLiJiZbRLECrY9od/K3e0y+ji8KgxuBDu5FeYWB4daUr/ty0iGK6r6cMNsGXjYeF1y1xOAVSWI23GVSGqfo5sncOgVqipCsDIBTYqNFUIEXuoCH9FEncTV0lits4h03/d3TjZqYB1yDlYIapak8LextWanWof3R4b3Ypwq1yuBOYPY2fCjmD57qaHvY5nxCELSISIVKUaZOTnXyshCiZG+esozNEeDm9ShF+HynMjOoBN0QDK5QBO3/DT/RAx15XCjTHQmvVfG+csqd/krJgZ1KT3Yu/1MACbSCUYiXcqDbBdfgNKTT1lm37IjpYJ/P4Q8qTKoBNdZDG/6JvG8t6XO1Cf9eveY1xGsIyjDr2wmKQrmfel47/04K8C6kMXf43/yJyJsgHIkQTe817lsWq9pEDQNwgg==;nlUcilCAaxGxxCnJiOUMZg=="
+secured: "r5Vid4nlP1WiKURecPltLueihNiZShXq2pOWM+4GrHXzn7x5SXxNavunF6it3HhtuLiS+NBgonSk4F5/q/V3I7BYoJz8KEFm093p+qlTvYiYKZt8sUMZZghpCevA+9vq/fbLnRyLlpObc5chGpAqUV0fXpkPp0Lal0s/e+9KJ9FgBK5j2b9IO/LEvCjz60t4D+045O2BuSNKjVt6iFFBY4ewys/fB1nu6SYZfh3AIxbMkRmP+rXIJs8WkPvmFyF9YFoTqrcscVnx/gmqcrKlK6DOXVuwyRZyZ5uSIBQh9n5GWT6N0Kpg3/sCLqR8DaAd5+BwWL8wlhbHBvmMwr+YjcJ0911OmvGb4y7I6wajt+Y=;JiWjKBbhG0Wv82HrtaSpXA=="
 ---
 

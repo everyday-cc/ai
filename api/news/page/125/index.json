@@ -2,50 +2,6 @@
   "page": 125,
   "value": [
     {
-      "path": "_news/2023-06-12-fullstack-academy-to-launch-programs-in-artificial-intelligence-machine-learning-and-cloud-computing-amid-surging-talent-demands.md",
-      "title": "Fullstack Academy to Launch Programs in Artificial Intelligence & Machine Learning and Cloud Computing Amid Surging Talent Demands",
-      "excerpt": "National tech education provider Fullstack Academy today announced the launch of two new bootcamp programs: Artificial Intelligence (AI) & Machine Learning, and Cloud Computing. The curricula, designed and delivered by industry-experienced tech practitioners,",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/fullstack-academy-to-launch-programs-in-artificial-intelligence-machine-learning-and-cloud-computing-amid-surging/article_7f39b968-7bbe-532c-aa62-ceb7b19bd412.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/fullstack-academy-to-launch-programs-in-artificial-intelligence-machine-learning-and-cloud-computing-amid-surging/article_7f39b968-7bbe-532c-aa62-ceb7b19bd412.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/20230531JuneJoplinMagazine-1.jpg",
-          "width": 350,
-          "height": 456,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-12T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2023-06-12-5-ways-to-explore-the-use-of-generative-ai-at-work.md",
       "title": "5 ways to explore the use of generative AI at work",
       "excerpt": "ChatGPT and other generative AI tools have captured the public imagination. Here's how you can turn a much hyped tool into a productivity boon.",
@@ -1167,6 +1123,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-11-how-could-ai-destroy-humanity.md",
+      "title": "How Could A.I. Destroy Humanity?",
+      "excerpt": "Researchers and industry leaders have warned that A.I. could pose an existential risk to humanity. But they’ve been light on the details.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/06/10/technology/ai-humanity.html",
+      "originalUrl": "https://www.nytimes.com/2023/06/10/technology/ai-humanity.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/06/11/business/00ai-existential/00ai-existential-facebookJumbo.png",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-10T15:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

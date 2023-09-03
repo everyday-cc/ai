@@ -9,7 +9,7 @@ ampWebUrl: "https://infotechlead.com/devices/rapid-rise-in-industrial-robots-fue
 cdnAmpWebUrl: "https://infotechlead-com.cdn.ampproject.org/c/s/infotechlead.com/devices/rapid-rise-in-industrial-robots-fuels-booming-robotics-market-80256?amp=1"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -41,17 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Improving treatment outcomes with AI-empowered interventional robotics"
-    excerpt: "Singapore's NDR Medical Technology is integrating AI and robotics to enable image-guided robotic healthcare procedures."
-    publishedDateTime: 2023-08-29T07:59:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/technopreneurs/improving-treatment-outcomes-ai-empowered-interventional-robotics"
-    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/technopreneurs/improving-treatment-outcomes-ai-empowered-interventional-robotics"
-    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/technopreneurs/improving-treatment-outcomes-ai-empowered-interventional-robotics"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 69
   - title: "Precision And Progress: Surgical Robots Drive Growth In The Global Healthcare Robotics Market"
     excerpt: "Continuresearch and development efforts in healthcare robots result in technological advances and new inventions. From better imaging and sensors to the incorporation of artificial intelligence and machine learning, these advancements improve the ..."
     publishedDateTime: 2023-08-30T01:32:00Z

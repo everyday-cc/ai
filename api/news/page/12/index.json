@@ -2,49 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2023-08-23-protect-sensitive-data-in-azure-and-microsoft-office-while-keeping-control-over-your-keys.md",
-      "title": "Protect sensitive data in Azure and Microsoft Office while keeping control over your keys",
-      "excerpt": "Hyper Protect Crypto Services with Unified Key Orchestration enables you to enhance total data privacy and maintain control over keys in a cloud-native way.\nThe post Protect sensitive data in Azure and Microsoft Office while keeping control over your keys appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/protect-sensitive-data-in-azure-and-microsoft-office-while-keeping-control-over-your-keys/",
-      "originalUrl": "https://www.ibm.com/blog/protect-sensitive-data-in-azure-and-microsoft-office-while-keeping-control-over-your-keys/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 215,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-23T06:27:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-23-how-will-leveraging-ai-change-the-future-of-legal-services.md",
       "title": "How will leveraging AI change the future of legal services?",
       "excerpt": "Roger E. Barton of Barton LLP discusses issues, concerns and potential changes in the legal industry with the use of artificial intelligence, examining areas such as billing structure, client confidentiality and the business model.",
@@ -1185,6 +1142,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-23-man-accused-of-stealing-dead-brothers-identity-in-1965-caught-with-facial-recognition.md",
+      "title": "Man Accused Of Stealing Dead Brother's Identity In 1965 Caught With Facial Recognition",
+      "excerpt": "BANGOR, Maine (AP) — An 86-year-old man accused of assuming his brother’s identity decades ago and using it to double dip on Social Security benefits has been convicted of several charges, caught by facial recognition technology that matched the same face to two different identities, authorities say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.huffpost.com/entry/ap-us-fake-identity-conviction_n_64e52758e4b0306c321b3d5a",
+      "originalUrl": "https://www.huffpost.com/entry/ap-us-fake-identity-conviction_n_64e52758e4b0306c321b3d5a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.huffingtonpost.com/asset/64e529b52600005a0035fe8c.jpeg?ops=1200_630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.huffpost.com/entry/ap-us-fake-identity-conviction_n_64e52758e4b0306c321b3d5a/amp",
+      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/ap-us-fake-identity-conviction_n_64e52758e4b0306c321b3d5a/amp",
+      "publishedDateTime": "2023-08-22T14:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HuffPost",
+        "domain": "huffpost.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://business.scoop.co.nz/2023/08/30/up-fintech-reports-two-yea
 webUrl: "https://business.scoop.co.nz/2023/08/30/up-fintech-reports-two-year-high-2023-q2-results/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "UP Fintech reports two-year high 2023 Q2 results"
-    excerpt: "Revenue for the quarter reached US$66.1 million, marking a 23.5% year-over-year (YoY) increase Non-GAAP profit soared to US$15.3 million, up 48.4% quarter-over-quarter (QoQ), achieving a two-year record high."
-    publishedDateTime: 2023-08-29T08:10:00Z
-    webUrl: "https://www.asiaone.com/business/fintech-reports-two-year-high-2023-q2-results"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 24
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Aug2023/pr-newswire_500_4_1767.jpg?h=7de12b8a&itok=XobXNegz"
-        width: 600
-        height: 316
-        isCached: true
   - title: "UP Fintech (Tiger Brokers): UP Fintech reports two-year high 2023 Q2 results"
     excerpt: "The launch of TigerGPT, an AI-powered investment assistant, in Singapore, New Zealand, Australia, and Hong Kong SAR, highlights the Company's commitment to cutting-edge fintech innovation. SINGAPORE and NEW YORK, Aug. 29, 2023 /PRNewswire/ -- UP Fintech ..."
     publishedDateTime: 2023-08-29T12:01:00Z

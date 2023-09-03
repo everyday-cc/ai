@@ -87,7 +87,7 @@ related:
     provider:
       name: Popular Science
       domain: popsci.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://www.popsci.com/uploads/2023/09/01/Depositphotos_81499646_L-1.jpg?auto=webp"
         width: 2000

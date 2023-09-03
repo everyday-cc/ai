@@ -2,58 +2,6 @@
   "page": 98,
   "value": [
     {
-      "path": "_news/2023-06-28-nvidia-leads-premarket-slump-in-chipmaker-sharesas-white-house-reportedly-mulls-fresh-curbs-on-ai-chips.md",
-      "title": "Nvidia Leads Premarket Slump In Chipmaker Shares—As White House Reportedly Mulls Fresh Curbs On AI Chips",
-      "excerpt": "The Biden administration is planning to expand its curbs on the export of AI chips to China and other nations, the Wall Street Journal reported.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/siladityaray/2023/06/28/nvidia-leads-premarket-slump-in-chipmaker-shares-as-white-house-reportedly-mulls-fresh-curbs-on-ai-chips/",
-      "originalUrl": "https://www.forbes.com/sites/siladityaray/2023/06/28/nvidia-leads-premarket-slump-in-chipmaker-shares-as-white-house-reportedly-mulls-fresh-curbs-on-ai-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 237,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649c0fafd13ced24caec5d4f/0x0.jpg?format=jpg&crop=3000,1688,x0,y178,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/siladityaray/2023/06/28/nvidia-leads-premarket-slump-in-chipmaker-shares-as-white-house-reportedly-mulls-fresh-curbs-on-ai-chips/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2023/06/28/nvidia-leads-premarket-slump-in-chipmaker-shares-as-white-house-reportedly-mulls-fresh-curbs-on-ai-chips/amp/",
-      "publishedDateTime": "2023-06-28T03:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-28-how-to-prepare-for-the-financial-and-environmental-costs-of-ai.md",
       "title": "How To Prepare For The Financial And Environmental Costs Of AI",
       "excerpt": "Companies and financial institutions should be thinking about how to build a technology infrastructure capable of supporting increasingly powerful AI applications.",
@@ -1178,6 +1126,57 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-loora-a-generative-ai-app-that-uses-an-audio-interface-to-help-users-learn-english-raises-925m.md",
+      "title": "Loora, a generative AI app that uses an audio interface to help users learn English, raises $9.25M",
+      "excerpt": "Unlike many of the generative AI apps that are text-based -- you write prompts for ChatGPT, Midjourney, etc. -- Loora is completely focused on audio.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/27/loora-a-generative-ai-app-that-uses-an-audio-interface-to-help-users-learn-english-raises-9-25m/",
+      "originalUrl": "https://techcrunch.com/2023/06/27/loora-a-generative-ai-app-that-uses-an-audio-interface-to-help-users-learn-english-raises-9-25m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/Screenshot-2023-06-27-at-12.17.40-PM.png?resize=1200,754",
+          "width": 1200,
+          "height": 754,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/27/loora-a-generative-ai-app-that-uses-an-audio-interface-to-help-users-learn-english-raises-9-25m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/27/loora-a-generative-ai-app-that-uses-an-audio-interface-to-help-users-learn-english-raises-9-25m/amp/",
+      "publishedDateTime": "2023-06-27T12:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

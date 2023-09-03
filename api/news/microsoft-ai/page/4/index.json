@@ -2,50 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-08-01-aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service-forbes.md",
-      "title": "AWS And Hugging Face Partner To Offer An Alternative To Microsoft’s Azure OpenAI Service – Forbes",
-      "excerpt": "AWS and Hugging Face announced a partnership to offer large language models (LLMs) and generative AI models on AWS’ ML platform. The Hugging Face community can leverage AWS ML services and infrastructure,",
-      "sourceUrl": null,
-      "webUrl": "https://www.inferse.com/659289/aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service-forbes/",
-      "originalUrl": "https://www.inferse.com/659289/aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service-forbes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-39.png",
-          "width": 1000,
-          "height": 715,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-01T00:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inferse",
-        "domain": "inferse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-31-ebay-turns-to-ai-on-its-attempt-of-tech-led-business-reimagination.md",
       "title": "eBay Turns To AI On Its Attempt Of Tech-Led Business Reimagination",
       "excerpt": "Despite its earnings beat, eBay Inc (NASDAQ: EBAY) shares tanked 10.5% upon the release of second quarter results last week while its main competitor and e-commerce giant, Amazon.com Inc (NASDAQ: AMZN",
@@ -1462,6 +1418,58 @@
         "AI in Finance",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-microsoft-teladoc-expand-partnership-enabling-ai-to-reduce-clinician-workload.md",
+      "title": "Microsoft & Teladoc Expand Partnership, Enabling AI To Reduce Clinician Workload",
+      "excerpt": "This represents a growing trend by healthcare organizations, which are increasingly leveraging AI to augment workflows.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/saibala/2023/07/23/microsoft--teladoc-expand-partnership-enabling-ai-to-reduce-clinician-workload/",
+      "originalUrl": "https://www.forbes.com/sites/saibala/2023/07/23/microsoft--teladoc-expand-partnership-enabling-ai-to-reduce-clinician-workload/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64bd4f852559900c20d3e1a4/0x0.jpg?format=jpg&crop=3000,1688,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/saibala/2023/07/23/microsoft--teladoc-expand-partnership-enabling-ai-to-reduce-clinician-workload/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/07/23/microsoft--teladoc-expand-partnership-enabling-ai-to-reduce-clinician-workload/amp/",
+      "publishedDateTime": "2023-07-23T10:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     }
   ],

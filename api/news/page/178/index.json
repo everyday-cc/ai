@@ -2,57 +2,6 @@
   "page": 178,
   "value": [
     {
-      "path": "_news/2023-05-09-ai-influx-alters-corporate-leadership-qualities-3-essential-strategic-approaches.md",
-      "title": "AI Influx Alters Corporate Leadership Qualities: 3 Essential Strategic Approaches",
-      "excerpt": "Here are three critical traits for leaders seeking to harness employees’ intrinsic motivation to learn and give them responsibility for leading the transformation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/05/09/ai-influx-alters-corporate-leadership-qualities-3-essential-strategic-approaches/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/05/09/ai-influx-alters-corporate-leadership-qualities-3-essential-strategic-approaches/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5ef65f436cd39700069ce974/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/05/09/ai-influx-alters-corporate-leadership-qualities-3-essential-strategic-approaches/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/05/09/ai-influx-alters-corporate-leadership-qualities-3-essential-strategic-approaches/amp/",
-      "publishedDateTime": "2023-05-09T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-09-bring-light-to-the-black-box.md",
       "title": "Bring light to the black box",
       "excerpt": "Using AI can seem like a black box full of risks and challenges that keep businesses from adopting it. Here's how AI governance and trustworthy AI can help.\nThe post Bring light to the black box appeared first on IBM Blog.\n",
@@ -1202,6 +1151,49 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-machine-learning-and-ai-improve-the-bottom-line.md",
+      "title": "Machine Learning and AI Improve the Bottom Line",
+      "excerpt": "Machine learning and artificial intelligence may appear futuristic, but these solutions have advanced rapidly to where end users experience them as a practical, vital tool for improving the bottom line.",
+      "sourceUrl": null,
+      "webUrl": "https://www.automationworld.com/analytics/article/33003186/machine-learning-and-ai-improve-the-bottom-line",
+      "originalUrl": "https://www.automationworld.com/analytics/article/33003186/machine-learning-and-ai-improve-the-bottom-line",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.officer.com/files/base/ebm/automationworld/image/2023/04/Predictive_Maintenance_for_welding_gun.6434313795e1a.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T21:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation World",
+        "domain": "automationworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

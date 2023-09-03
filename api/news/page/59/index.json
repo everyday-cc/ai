@@ -2,40 +2,6 @@
   "page": 59,
   "value": [
     {
-      "path": "_news/2023-07-23-microsoft-introduces-the-public-preview-of-vector-search-feature-in-azure-cognitive-search.md",
-      "title": "Microsoft Introduces the Public Preview of Vector Search Feature in Azure Cognitive Search",
-      "excerpt": "Subscribe for free. At its annual Inspire conference, Microsoft recently announced the public preview of Vector search in Azure Cognitive Search, a capability for building applications powered by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2023/07/microsoft-launches-vector-search/",
-      "originalUrl": "https://www.infoq.com/news/2023/07/microsoft-launches-vector-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-22T23:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-23-voice-actors-decry-ai-at-comic-con-panel-with-sag-aftras-duncan-crabtree-ireland-weve-lost-control-over-what-our-voice-could-say.md",
       "title": "Voice Actors Decry AI at Comic-Con Panel With SAG-AFTRA’s Duncan Crabtree-Ireland: ‘We’ve Lost Control Over What Our Voice Could Say’",
       "excerpt": "The perils of artificial intelligence to the entertainment industry came to San Diego Comic-Con on Saturday, with SAG-AFTRA national executive director Duncan Crabtree-Ireland joining a panel of voice actors organized by NAVA,",
@@ -1185,6 +1151,58 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-analyze-rodent-infestation-using-amazon-sagemaker-geospatial-capabilities.md",
+      "title": "Analyze rodent infestation using Amazon SageMaker geospatial capabilities",
+      "excerpt": "Rodents such as rats and mice are associated with a number of health risks and are known to spread more than 35 diseases. Identifying regions of high rodent activity can help local authorities and pest control organizations plan for interventions effectively and exterminate the rodents. In this post,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/analyze-rodent-infestation-using-amazon-sagemaker-geospatial-capabilities/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/analyze-rodent-infestation-using-amazon-sagemaker-geospatial-capabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/13/ML-13593-image001-1103x630.png",
+          "width": 1103,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-21T11:29:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     }
   ],

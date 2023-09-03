@@ -36,20 +36,6 @@ related:
       name: Sydney Morning Herald
       domain: smh.com.au
     quality: 24
-  - title: "Start-up: The computer reads and analyses everything which you need to know"
-    excerpt: "Spikes’s partner in the new company is Textgain, a spin-off from the University of Antwerp which uses AI and Natural Language Processing (NLP) in order to ferret out relevant insights from large amounts of unstructured text or images. This knowledge is ..."
-    publishedDateTime: 2023-08-29T07:47:00Z
-    webUrl: "https://www.hbvl.be/cnt/dmf20230829_92792446"
-    type: article
-    provider:
-      name: HBvL
-      domain: hbvl.be
-    quality: 22
-    images:
-      - url: "https://static.hbvl.be/Assets/Images_Upload/2023/08/29/88243397-2d3b-49b0-ba24-5b75ab7637d4.jpg?maxheight=460&maxwidth=629"
-        width: 629
-        height: 420
-        isCached: true
 
 secured: "+SpbyWHpyhuaFv/8ubEpwNFXjxg0x4EY0DIG7eTa2vQSEkZOdk3iQaGKC07rUaIlBqtpryHhscjSKoh1DX+z5E96qrrS992NNziQMQ1LK8GKaMmHVhfihtZ9eOMor0Wog4tZsN7+hedZozO0GXdADilDTUnJGaPwFr55Psg7hKdc5Wc1sioTfrJTKdZREZzv/zdFHFx6r8aWQybXDXgkgUlMtiNx0xVIqGe2Cy72JpJz20ZTFt2biJCtm9+DpSDW/ZfUDiaeYkZCzjPuwo+d0/3AlW0sB9Yd15Cqsf5GOb4u5bS7BeQ7X4vlWsX3e5rdKRzfWpQdGara+y8NOCVY+zy8IbZBK7Ca7M1USTy5zn8=;3vA3x91NxyeI/BIhCVt/Dw=="
 ---

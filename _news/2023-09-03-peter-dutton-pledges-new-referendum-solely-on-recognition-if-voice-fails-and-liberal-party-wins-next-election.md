@@ -27,6 +27,34 @@ images:
     isCached: true
 
 related:
+  - title: "Peter Dutton says he will back a second referendum if Voice fails"
+    excerpt: "The opposition has left the door open to constitutional recognition for First Nations Australians if the Yes campaign is not successful."
+    publishedDateTime: 2023-09-03T00:34:00Z
+    webUrl: "https://www.sbs.com.au/news/article/peter-dutton-says-he-will-back-a-second-referendum-if-voice-fails/9d1l8g7lu"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 39
+    images:
+      - url: "https://images.sbs.com.au/dims4/default/b3f318f/2147483647/strip/true/crop/8256x4644+0+430/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F60%2F52%2F2174273146089c113fd06924f1eb%2Fpeter-dutton.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Peter Dutton pledges new referendum solely on recognition if Voice fails and he wins next Federal election"
+    excerpt: "Opposition leader Peter Dutton has pledged to hold a second referendum solely to enshrine Indigenous people into the constitution if the Voice fails to pass next month."
+    publishedDateTime: 2023-09-03T00:34:00Z
+    webUrl: "https://thewest.com.au/politics/federal-politics/peter-dutton-pledges-new-referendum-solely-on-recognition-if-voice-fails-and-he-wins-next-federal-election-c-11786282"
+    type: article
+    provider:
+      name: The West Australian
+      domain: thewest.com.au
+    quality: 21
+    images:
+      - url: "https://images.thewest.com.au/publication/C-11786282/48d44bf4e2a51a69d8a1ad60cef7904e529b8245-16x9-x0y0w800h450.jpg?imwidth=1200"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Penny Wong: Voting Yes on the Voice is a vote for recognition"
     excerpt: "The Statement made the modest ask for recognition of this land’s First Peoples in the constitution through a Voice to parliament. Australian Foreign Minster Penny Wong. Picture: Pat Hoelscher / AFP The Voice will offer ideas and advice, so governments ..."
     publishedDateTime: 2023-08-30T08:19:00Z
@@ -37,6 +65,6 @@ related:
       domain: news.com.au
     quality: 4
 
-secured: "V0Do4/aqpOqE2PUwSfM6CmAycM2+7ZraRRKeb6oWVJXWhykBBkNVzH4M0wD4RAZjOcfTxQEadJJLoxbEYsbAkSTPoRVWDB37XemiKUeGGkPn9sSzwDdCEHUGPUSdwlrHSL1RB5sEqRq16oL/FSW3ntcNtfr8XzRPx+Cuizl4otawQ1NVSg4ShWIONeDfcZdX5b3U5zkbd8ZuFFYEa+UvggsOUpqEvw01ugcJ8WDHsm4a3JATO4a+Ed4iSBZoLAiIZXKicAoxr6SPq+lzWsQEU/2Wn/HL4KBTTeJGVTdUXd8dd5kVfu1A+US975MQTQrxS395tm4ZaFcnuaXe2twPYTdM7jcA751DoaSVGxVs++M=;b4v4DVNd0v1pQWi1ssAl9A=="
+secured: "/61LPtJhJIgLtyPfxsXfcms3M4Y8iSmCGB1uwI5LRVnwL0rfdx8LPFE5q/ANkOv/08vR1Jj540Jt0jIwSvo5U7HNNwLjG8YYPd9YO9UTcyR/D2FBG7hi1zc9Cc/cZ7I/1xV06zJfvQJo6q2IZH2rz+gn7H9B+Gi98Z2/eRBo3qVUIwsAOE5q1NkU0Ga1TUe2mbTmc04VJtTm9WXnoHlV7XXdPh/f5M9R/9sNHVj605s9vPHRt4R1n/FxTYzLe7v79zx7t6gItuFz5dbmVceoE9LYujxgBgQaEwiHnd5kBX2188g/UOkBc1HoRzIjJZv5ftLkI7dSOc2gD5cdCiC/gM1ZI7buoCv/YiGMB1uvaYzPc/YM2GSgvHrXAuw3Fdo+ZXDDpqp8yKBLFcSSUzyAwByjE/C/XBJqmVPQu/C1IqZNgDw2hdGmMwbRf4CaddxAhPCNTEcRG69J7SC8loFWW1hz61AtP6CZq68sRvMj9jGJHdFYjOH+4jJxHP2k6iFz6pafUmWXBjMU4u1uqyOkYA==;vugFif+nH8nFc/3PsfIrDQ=="
 ---
 

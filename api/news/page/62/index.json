@@ -2,58 +2,6 @@
   "page": 62,
   "value": [
     {
-      "path": "_news/2023-07-21-awss-ishit-vachhrajani-on-how-leaders-can-navigate-generative-ai.md",
-      "title": "AWS’s Ishit Vachhrajani on How Leaders Can Navigate Generative AI",
-      "excerpt": "Ishit Vachhrajani, Global Head of Enterprise Strategy at AWS, details how managers can guard against the pitfalls of generative AI even as they leverage its enormous potential.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/artificial-intelligence/aws-navigate-generative-ai/",
-      "originalUrl": "https://www.eweek.com/artificial-intelligence/aws-navigate-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2023/07/AWS-eSPEAKS-thumbnail-copy-2.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-20T14:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-21-artificial-intelligence-on-the-battlefield-lawmakers-weigh-the-risks-and-benefits-of-military-ai.md",
       "title": "Artificial Intelligence on the Battlefield: Lawmakers weigh the risks and benefits of military AI",
       "excerpt": "“The country that is able to most rapidly and effectively integrate new technology into warfighting wins,” Alexandr Wang, CEO of Scale AI, said. “If we don’t win on AI, we risk ceding global influence, technological leadership and democracy to strategic adversaries like China.”",
@@ -1162,6 +1110,57 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-20-asset-and-wealth-managementembracing-ai-and-consolidation-to-win.md",
+      "title": "Asset And Wealth Management—Embracing AI And Consolidation To Win",
+      "excerpt": "AI and consolidations are reshaping the asset and wealth management industries as firms seek cost efficiencies and strive for market competitiveness.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/carriemccabe/2023/07/20/asset-and-wealth-management-embracing-ai-and-consolidation-to-win/",
+      "originalUrl": "https://www.forbes.com/sites/carriemccabe/2023/07/20/asset-and-wealth-management-embracing-ai-and-consolidation-to-win/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b889794b23d6863cde7b97/0x0.jpg?format=jpg&width=1200",
+          "width": 624,
+          "height": 479,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/carriemccabe/2023/07/20/asset-and-wealth-management-embracing-ai-and-consolidation-to-win/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carriemccabe/2023/07/20/asset-and-wealth-management-embracing-ai-and-consolidation-to-win/amp/",
+      "publishedDateTime": "2023-07-20T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

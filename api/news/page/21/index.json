@@ -2,49 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2023-08-16-snapchat-users-freak-out-over-ai-bot-that-seemingly-had-mind-of-its-own.md",
-      "title": "Snapchat users freak out over AI bot that seemingly had mind of its own",
-      "excerpt": "Snapchat users were alarmed on Tuesday night when the platform's artificial intelligence chatbot posted a live update to its profile and stopped responding to messages.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wesh.com/article/snapchat-ai-bot-users-freak-out/44830032",
-      "originalUrl": "https://www.wesh.com/article/snapchat-ai-bot-users-freak-out/44830032",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-a5475a088ba7cb809c9a74c80e42814c-h-7942dcce343d620a9e06743251463e0a-1660064279.jpeg?crop=1.00xw:0.846xh;0,0&resize=1200:*",
-          "width": 1200,
-          "height": 677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wesh.com/amp/article/snapchat-ai-bot-users-freak-out/44830032",
-      "cdnAmpWebUrl": "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/snapchat-ai-bot-users-freak-out/44830032",
-      "publishedDateTime": "2023-08-16T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WESH",
-        "domain": "wesh.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-16-canadian-government-seeks-input-on-voluntary-code-of-practice-for-generative-ai.md",
       "title": "Canadian government seeks input on voluntary code of practice for generative AI",
       "excerpt": "Canada's intent to establish a code of practice demonstrates its commitment to ensuring generative AI evolves in a way that benefits society.",
@@ -1143,6 +1100,48 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-15-measuring-the-impact-unveiling-the-savings-realized-in-cloud-cost-optimization.md",
+      "title": "Measuring the impact: Unveiling the savings realized in cloud cost optimization ",
+      "excerpt": "Unveil IBM Turbonomic's enhanced features, streamlining savings calculation for precise cost optimization insights and financial impact.\nThe post Measuring the impact: Unveiling the savings realized in cloud cost optimization  appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/measuring-the-impact-unveiling-the-savings-realized-in-cloud-cost-optimization/",
+      "originalUrl": "https://www.ibm.com/blog/measuring-the-impact-unveiling-the-savings-realized-in-cloud-cost-optimization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-15T13:58:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
       ]
     }
   ],

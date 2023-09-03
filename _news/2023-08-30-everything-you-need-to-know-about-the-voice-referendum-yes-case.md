@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Start-up: The computer reads and analyses everything which you need to know"
-    excerpt: "Spikes’s partner in the new company is Textgain, a spin-off from the University of Antwerp which uses AI and Natural Language Processing (NLP) in order to ferret out relevant insights from large amounts of unstructured text or images. This knowledge is ..."
-    publishedDateTime: 2023-08-29T07:47:00Z
-    webUrl: "https://www.hbvl.be/cnt/dmf20230829_92792446"
-    type: article
-    provider:
-      name: HBvL
-      domain: hbvl.be
-    quality: 22
-    images:
-      - url: "https://static.hbvl.be/Assets/Images_Upload/2023/08/29/88243397-2d3b-49b0-ba24-5b75ab7637d4.jpg?maxheight=460&maxwidth=629"
-        width: 629
-        height: 420
-        isCached: true
   - title: "Here's what you need to know about The Voice now we know when the referendum date is"
     excerpt: "We have a month and a half of campaigning ahead of us before we vote on constitutional recognition for First Nations people."
     publishedDateTime: 2023-08-31T01:09:00Z

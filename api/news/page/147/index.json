@@ -2,49 +2,6 @@
   "page": 147,
   "value": [
     {
-      "path": "_news/2023-05-27-opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems.md",
-      "title": "Opinion: Stop the robot takeover: How AI advancement can pose problems",
-      "excerpt": "Pospisil explains that most jobs robots will take over are automated. They still cannot compare to a human’s ability to adapt or critical thinking skills in more specialized jobs not having to do with Ford production. In short, they won’t replace us in the job market because they’re missing a human element.",
-      "sourceUrl": null,
-      "webUrl": "https://highschool.latimes.com/fountain-valley-high-school/opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems/",
-      "originalUrl": "https://highschool.latimes.com/fountain-valley-high-school/opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2023/01/Screenshot-2023-01-28-11.17.25-PM.png?fit=361%2C240&ssl=1",
-          "width": 361,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://highschool.latimes.com/fountain-valley-high-school/opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems/amp/",
-      "cdnAmpWebUrl": "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/fountain-valley-high-school/opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems/amp/",
-      "publishedDateTime": "2023-05-26T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-27-workplace-ai-how-artificial-intelligence-will-transform-the-workday.md",
       "title": "Workplace AI: How artificial intelligence will transform the workday",
       "excerpt": "Artificial intelligence has been around for years, but scarcely has it found itself in conversation as much as it has now. The launch of OpenAI’s ChatGPT rocketed generative AI onto the radar of ...",
@@ -1164,6 +1121,49 @@
         "AI in Healthcare",
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-05-26-azure-communication-services-microsofts-powerful-tool-for-call-automation.md",
+      "title": "Azure Communication Services: Microsoft’s powerful tool for call automation",
+      "excerpt": "Microsoft's Azure Communication Services lets you build custom automated call centers. Learn more about this powerful tool with our article.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/azure-communication-services-call-automation/",
+      "originalUrl": "https://www.techrepublic.com/article/azure-communication-services-call-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-25T20:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     }
   ],

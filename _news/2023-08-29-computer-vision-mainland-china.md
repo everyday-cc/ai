@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Service Robotics - Mainland China"
+    excerpt: "Value in the AI Service Robotics market is projected to reach US$0.76bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 16.09%, resulting in a market volume of US$2 ..."
+    publishedDateTime: 2023-08-29T10:09:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/mainland-china"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 69
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing - Mainland China"
     excerpt: "Value in the Natural Language Processing market is projected to reach US$2.55bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 18.77%, resulting in a market volume of ..."
     publishedDateTime: 2023-08-29T10:09:00Z

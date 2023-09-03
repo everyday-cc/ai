@@ -2,49 +2,6 @@
   "page": 33,
   "value": [
     {
-      "path": "_news/2023-08-08-better-together-ibm-and-microsoft-make-enterprise-wide-transformation-a-reality.md",
-      "title": "Better together: IBM and Microsoft make enterprise-wide transformation a reality",
-      "excerpt": "Providing joint solutions to companies to improve costs, productivity and resilience by accelerating their hybrid cloud and AI journeys.\nThe post Better together: IBM and Microsoft make enterprise-wide transformation a reality appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/better-together-ibm-and-microsoft-make-enterprise-wide-transformation-a-reality/",
-      "originalUrl": "https://www.ibm.com/blog/better-together-ibm-and-microsoft-make-enterprise-wide-transformation-a-reality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-08T14:27:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-09-tech-down-as-ai-enthusiasm-stalls-tech-roundup.md",
       "title": "Tech Down as AI Enthusiasm Stalls -- Tech Roundup",
       "excerpt": "Shares of technology companies ticked lower amid as enthusiasm about the rise of artificial-intelligence technology stalled. Nvidia slipped, but remains",
@@ -1198,6 +1155,59 @@
       "topics": [
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-08-08-ai-readiness-equip-your-team-with-the-skills-they-need-to-leverage-ai.md",
+      "title": "AI Readiness: Equip Your Team With The Skills They Need To Leverage AI",
+      "excerpt": "Leaders in every facet of an organization need to think about how to prepare their teams to get the most out of this cutting-edge technology. Here are two key strategies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/08/08/ai-readiness-equip-your-team-with-the-skills-they-need-to-leverage-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/08/08/ai-readiness-equip-your-team-with-the-skills-they-need-to-leverage-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f74b9824373186fc49d44bb/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/08/08/ai-readiness-equip-your-team-with-the-skills-they-need-to-leverage-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/08/08/ai-readiness-equip-your-team-with-the-skills-they-need-to-leverage-ai/amp/",
+      "publishedDateTime": "2023-08-08T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Natural Language Processing"
       ]
     }
   ],

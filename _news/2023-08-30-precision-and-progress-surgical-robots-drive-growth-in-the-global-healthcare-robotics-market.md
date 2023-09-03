@@ -56,17 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Improving treatment outcomes with AI-empowered interventional robotics"
-    excerpt: "Singapore's NDR Medical Technology is integrating AI and robotics to enable image-guided robotic healthcare procedures."
-    publishedDateTime: 2023-08-29T07:59:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/technopreneurs/improving-treatment-outcomes-ai-empowered-interventional-robotics"
-    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/technopreneurs/improving-treatment-outcomes-ai-empowered-interventional-robotics"
-    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/technopreneurs/improving-treatment-outcomes-ai-empowered-interventional-robotics"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 69
   - title: "Key Robotics Industry Statistics to Understand in 2023"
     excerpt: "Get up-to-date with vital robotics industry statistics for 2023. Explore trends, growth, and key figures shaping the future of robotics."
     publishedDateTime: 2023-09-01T05:05:00Z

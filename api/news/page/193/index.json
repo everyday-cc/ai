@@ -2,58 +2,6 @@
   "page": 193,
   "value": [
     {
-      "path": "_news/2023-05-01-three-trends-of-transformation-how-ai-value-based-care-vbc-will-drive-transformation-of-self-insured-healthcare.md",
-      "title": "Three Trends Of Transformation: How AI & Value-Based Care (VBC) Will Drive Transformation Of Self-Insured Healthcare",
-      "excerpt": "Healthcare is on the brink of a seismic shift, and AI is its catalyst. (1) Large Language Models extend our predictive capabilities. (2) Self-insured companies' risk profile and the patient needs are aligned.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lutzfinger/2023/05/01/three-trends-of-transformation-how-ai--value-based-care-vbc-will-drive-transformation-of-self-insured-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/lutzfinger/2023/05/01/three-trends-of-transformation-how-ai--value-based-care-vbc-will-drive-transformation-of-self-insured-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644f0e322dfc4586460d1577/0x0.jpg?format=jpg&width=1200",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2023-05-01-deep-learning-pioneer-geoffrey-hinton-has-quit-google.md",
       "title": "Deep learning pioneer Geoffrey Hinton has quit Google",
       "excerpt": "Linda Nylind / eyevine via Redux Geoffrey Hinton, a VP and engineering fellow at Google and a pioneer of deep learning who developed some of the most important techniques at the heart of modern AI ...",
@@ -1161,6 +1109,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-30-4-tech-giants-mentioned-ai-a-total-of-168-times-on-earnings-calls-showing-just-how-much-attention-the-tech-is-attracting.md",
+      "title": "4 tech giants mentioned AI a total of 168 times on earnings calls, showing just how much attention the tech is attracting",
+      "excerpt": "Alphabet cited artificial intelligence the most often on its investor call last week, followed by Microsoft, Meta, and Amazon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/tech-giants-mentioned-ai-168-times-on-earnings-calls-2023-4",
+      "originalUrl": "https://www.businessinsider.com/tech-giants-mentioned-ai-168-times-on-earnings-calls-2023-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63f5f92d5ca81e001855ac7b?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/tech-giants-mentioned-ai-168-times-on-earnings-calls-2023-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tech-giants-mentioned-ai-168-times-on-earnings-calls-2023-4?amp",
+      "publishedDateTime": "2023-04-30T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

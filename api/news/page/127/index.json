@@ -2,49 +2,6 @@
   "page": 127,
   "value": [
     {
-      "path": "_news/2023-06-09-artificial-intelligence-challenges-and-controversies-for-us-national-security.md",
-      "title": "Artificial intelligence: challenges and controversies for US national security",
-      "excerpt": "The United States and other countries must consider the possible impact of AI on their armed forces and their preparedness for war fighting or deterrence. Military theorists, strategic planners, scientists,",
-      "sourceUrl": null,
-      "webUrl": "https://thebulletin.org/2023/06/artificial-intelligence-challenges-and-controversies-for-us-national-security/",
-      "originalUrl": "https://thebulletin.org/2023/06/artificial-intelligence-challenges-and-controversies-for-us-national-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thebulletin.org/wp-content/uploads/2018/06/Landing-Page-AI-Twitter.jpg",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thebulletin.org/2023/06/artificial-intelligence-challenges-and-controversies-for-us-national-security/amp/",
-      "cdnAmpWebUrl": "https://thebulletin-org.cdn.ampproject.org/c/s/thebulletin.org/2023/06/artificial-intelligence-challenges-and-controversies-for-us-national-security/amp/",
-      "publishedDateTime": "2023-06-09T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bulletin of the Atomic Scientists",
-        "domain": "thebulletin.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
       "path": "_news/2023-06-09-the-best-movies-on-amazon-prime-video-june-2023.md",
       "title": "The best movies on Amazon Prime Video (June 2023)",
       "excerpt": "While the first week of June was uncharacteristically quiet for Amazon Prime Video, the streamer is coming out swinging this week with the arrival of Creed III, the latest installment in the long ...",
@@ -1199,6 +1156,58 @@
       "topics": [
         "AI",
         "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-06-09-segway-partners-with-drover-ai-luna-to-bring-computer-vision-to-e-scooters.md",
+      "title": "Segway partners with Drover AI, Luna to bring computer vision to e-scooters",
+      "excerpt": "Segway-Ninebot is partnering with Drover AI and Luna Systems to integrate their sidewalk riding detection tech into its AI-enabled e-scooters.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/07/segway-partners-with-drover-ai-luna-to-bring-computer-vision-to-e-scooters/",
+      "originalUrl": "https://techcrunch.com/2023/06/07/segway-partners-with-drover-ai-luna-to-bring-computer-vision-to-e-scooters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/Segway_Ninebot_Booth_Micromobility_Europe_2022.jpeg?w=1168",
+          "width": 1168,
+          "height": 762,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/07/segway-partners-with-drover-ai-luna-to-bring-computer-vision-to-e-scooters/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/07/segway-partners-with-drover-ai-luna-to-bring-computer-vision-to-e-scooters/amp/",
+      "publishedDateTime": "2023-06-08T11:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],

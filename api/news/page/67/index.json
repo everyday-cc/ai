@@ -2,49 +2,6 @@
   "page": 67,
   "value": [
     {
-      "path": "_news/2023-07-18-elon-musk-says-his-artificial-intelligence-company-xai-is-a-direct-competitor-to-sam-altmans-openai.md",
-      "title": "Elon Musk Says His Artificial Intelligence Company xAI Is A Direct Competitor To Sam Altman’s OpenAI",
-      "excerpt": "Upon being probed by a user, Musk admitted that xAI is a direct competition to Sam Altman’s OpenAI. He also introduced the founding team of xAI that has many former employees of DeepMind, OpenAI, Google,",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/tech/56538/elon-musk-says-his-artificial-intelligence-company-xai-is-a-direct-competitor-to-sam-altmans-openai",
-      "originalUrl": "https://in.mashable.com/tech/56538/elon-musk-says-his-artificial-intelligence-company-xai-is-a-direct-competitor-to-sam-altmans-openai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/mashable_in/seo/default/el_jynx.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-18T01:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "in.mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-18-infosys-edges-higher-after-signing-ai-deal-worth-2-billion.md",
       "title": "Infosys Edges Higher After Signing AI Deal Worth $2 Billion",
       "excerpt": "The agreement would provide artificial intelligence and automation led development, modernisation, and maintenance services.",
@@ -1163,6 +1120,48 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-17-7-ai-unicorns-and-the-creative-ways-you-can-invest-in-them.md",
+      "title": "7 AI Unicorns and the Creative Ways You Can Invest in Them",
+      "excerpt": "This AI startup secured $125 million in funding late last year. This writing tool promises a 350% return on your investment in the product. Jasper utilizes AI to create content for articles ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/finance/7-ai-unicorns-creative-ways-140007595.html",
+      "originalUrl": "https://www.aol.com/finance/7-ai-unicorns-creative-ways-140007595.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/.cq6.HjVNF0x6Z3e68deBg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/01b1a826b146cebdff327abfd13fd870",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-17T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

@@ -2,49 +2,6 @@
   "page": 186,
   "value": [
     {
-      "path": "_news/2023-05-04-deepmind-boss-says-human-level-ai-is-just-a-few-years-away.md",
-      "title": "DeepMind boss says human-level AI is just a few years away",
-      "excerpt": "The head of Google’s artificial intelligence division DeepMind has predicted that human-level AI may be just a few years away. The forecast from Demis Hassabis puts the date for the arrival of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/deepmind-boss-says-human-level-115422614.html",
-      "originalUrl": "https://www.aol.com/deepmind-boss-says-human-level-115422614.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.zenfs.com/en/aol_the_independent_us_877/383722a72aee24b2f4a7b7a17d5aeb64",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T05:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-04-facial-recognition-nyc-bills-would-regulate-controversial-software.md",
       "title": "Facial recognition: NYC bills would regulate controversial software",
       "excerpt": "One council member says they understand businesses such as bodegas and grocery stores need facial recognition for security, but how are they going to use it and not abuse it?",
@@ -1143,6 +1100,57 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-is-ai-the-history-eraser-button.md",
+      "title": "Is AI The History Eraser Button?",
+      "excerpt": "This iconic scene from the John Krisfaluchi’s Ren and Stimpy television series epitomizes man’s duality. Do we honor nature, protect the earth and everything we love, or impulsively sacrifice ourselves to the false god of progress and the legions of unintended consequences they unleash?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2023/05/03/is-ai-the-history-eraser-button/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/05/03/is-ai-the-history-eraser-button/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6452f1bd572200fb874bd1d9/0x0.jpg?format=jpg&crop=1311,738,x0,y67,safe&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/05/03/is-ai-the-history-eraser-button/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/05/03/is-ai-the-history-eraser-button/amp/",
+      "publishedDateTime": "2023-05-03T16:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

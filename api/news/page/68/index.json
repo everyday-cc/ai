@@ -2,48 +2,6 @@
   "page": 68,
   "value": [
     {
-      "path": "_news/2023-07-17-7-ai-unicorns-and-the-creative-ways-you-can-invest-in-them.md",
-      "title": "7 AI Unicorns and the Creative Ways You Can Invest in Them",
-      "excerpt": "This AI startup secured $125 million in funding late last year. This writing tool promises a 350% return on your investment in the product. Jasper utilizes AI to create content for articles ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/finance/7-ai-unicorns-creative-ways-140007595.html",
-      "originalUrl": "https://www.aol.com/finance/7-ai-unicorns-creative-ways-140007595.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/.cq6.HjVNF0x6Z3e68deBg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/01b1a826b146cebdff327abfd13fd870",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-17T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-17-thetaray-earns-microsoft-cloud-solution-provider-status.md",
       "title": "ThetaRay Earns Microsoft Cloud Solution Provider Status",
       "excerpt": "ThetaRay, a leading provider of AI-powered transaction monitoring technology, announced today that it has joined the Microsoft Cloud Solution Provider program with its SONAR solution now available at the Microsoft Azure Marketplace.",
@@ -1142,6 +1100,49 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-07-17-university-of-guelphs-ai-and-machine-learning-gets-investment-from-ontario.md",
+      "title": "University of Guelph’s AI and Machine Learning gets investment from Ontario",
+      "excerpt": "The University of Guelph’s Centre for Advancing Responsible and Ethical Artificial Intelligence (CARE-AI) will launch a new micro-learning platform for high school and post-secondary students to spark interest in AI and machine learning in the automotive ...",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/university-of-guelphs-ai-and-machine-learning-gets-investment-from-ontario/",
+      "originalUrl": "https://indiaeducationdiary.in/university-of-guelphs-ai-and-machine-learning-gets-investment-from-ontario/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2022/06/University-of-Guelph.png",
+          "width": 864,
+          "height": 317,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/university-of-guelphs-ai-and-machine-learning-gets-investment-from-ontario/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-guelphs-ai-and-machine-learning-gets-investment-from-ontario/",
+      "publishedDateTime": "2023-07-16T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],
