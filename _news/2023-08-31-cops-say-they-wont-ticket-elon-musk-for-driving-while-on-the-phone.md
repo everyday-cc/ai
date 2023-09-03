@@ -24,17 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Elon Musk Escapes Distracted Driving Fine As California Cops Won’t Issue Citation"
-    excerpt: "Elon Musk appeared to livestream himself while driving, but because no police officer obersered him they won't be following it up"
-    publishedDateTime: 2023-08-29T18:28:00Z
-    webUrl: "https://www.carscoops.com/2023/08/elon-musk-escapes-distracted-driving-fine-as-california-cops-wont-issue-citation/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 0
-
 secured: "pbuMRNpZNXesDuTpvPjyOe+ZROo4U4YuwGf3k9m8lh2IxXDqhT+HFRzbHSwT0wTcrCkm5hsaEu0E0Q+b2fnpERYcWmoQKTW78NLu5MADP8zHeKZLk6BE91t0QtU0D5KKi85cHeMqwdyTL2bdkyzUZuU2j+8ha1KPcUjnobUBQ7BEpPa+3ZeiQUSI6N+7Dsv6E1mrrydAIeAzJys1q9O9pNnjbdgAOa36R6iT9cSmorKZiypppTBiyyblcCSgUnZ5krKy3QW8Ss6M64Sh1ZJ/aJG7rhdP9KK1HjqfWpcqSjaA0lTFDwOAuZyAZHDL1d/s4hnT4Z/W5NdiiWOdhvCGw6Sm7aReaf2+Rg7+wZJdtDYb88RmUWqsA4IxeLawda/pdllYU/IOhI/jWKoRX1pSZ+ePO1dWGLncZX3pIGF0w0UTLWnA0Rpsgn/JVZsiNGBljOSbGmLxIRjyU06kSDV156ndCY9HSCgjIvoGUdgb58wJyxrr3qRMhnNg3+muFRKhwk2wcFHDQ5OzOQdQgt/gnQ==;THPfbXCDSGS3XLZAWqroHA=="
 ---
 

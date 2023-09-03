@@ -43,22 +43,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Nvidia's stock closes at record after Google AI partnership"
-    excerpt: "Nvidia shares rose 4.2% Tuesday to close at a record, after the chipmaker announced a partnership with Google that could expand distribution of its artificial intelligence technology."
-    publishedDateTime: 2023-08-29T18:45:00Z
-    webUrl: "https://www.cnbc.com/2023/08/29/nvidias-stock-closes-at-record-after-google-ai-partnership.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/08/29/nvidias-stock-closes-at-record-after-google-ai-partnership.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/08/29/nvidias-stock-closes-at-record-after-google-ai-partnership.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 87
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107247790-1685417777216-gettyimages-1258274369-TAIWAN-COMPUTER-NVIDIA-29052023-10.jpeg?v=1693340834"
-        width: 3500
-        height: 2334
-        isCached: true
   - title: "US Extends Export Restrictions On Nvidia, AMD AI Chips To Middle East"
     excerpt: "Nvidia and AMD's AI chips, including A100, H100, and MI250 models, are affected by expanded Middle East restrictions."
     publishedDateTime: 2023-08-31T07:16:00Z
@@ -147,6 +131,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "UBS Analyst Eyes GPU Bottlenecks for Microsoft's AI Push, Nvidia's Supply Chain in the Spotlight"
+    excerpt: "The AI opportunity that has powered the material out-performance in technology stocks this year primarily comes from one supplier – Nvidia, the dominant provider of GPUs. There is plenty of evidence that GPU demand is out-stripping supply; Microsoft's ..."
+    publishedDateTime: 2023-08-29T19:35:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ubs-analyst-eyes-gpu-bottlenecks-for-microsoft-s-ai-push-nvidia-s-supply-chain-in-the-spotlight-1032590452"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
   - title: "Is Nvidia an AI Value Stock?"
     excerpt: "Some on Wall Street would argue that a stock that has tripled in a calendar year can't be cheap. One analyst who covers Nvidia says just the opposite. The chipmaker's stock is up 239% so far this year,"
     publishedDateTime: 2023-08-30T22:45:00Z

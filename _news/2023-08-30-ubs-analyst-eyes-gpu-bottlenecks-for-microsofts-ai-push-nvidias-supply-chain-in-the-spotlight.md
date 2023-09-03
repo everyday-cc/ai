@@ -24,215 +24,348 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Microsoft officially adds Bing AI chatbot to Google Chrome"
-    excerpt: "Those of you who want to take Microsoft's Bing AI for a spin are no longer restricted to trying it in the Edge browser or the Bing mobile app. On Friday, Microsoft announced that the Bing Chat tools for individuals and enterprises are now officially available in the Google Chrome browser."
-    publishedDateTime: 2023-08-29T17:23:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-officially-adds-bing-ai-chatbot-to-google-chrome/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-officially-adds-bing-ai-chatbot-to-google-chrome/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-officially-adds-bing-ai-chatbot-to-google-chrome/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/3ca57d3c4451be567909fd0dc6f1251ab149b621/2023/08/29/d522b23c-3b57-449e-9637-ae9d1d856ced/colors-gettyimages-161098253.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Launch into satellite applications with Microsoft Azure"
-    excerpt: "Microsoft’s Azure Space platform and Azure Orbital Space SDK are taking edge computing to the final frontier, starting with satellite image processing, geospatial, and communications applications."
-    publishedDateTime: 2023-08-31T09:00:00Z
-    webUrl: "https://www.infoworld.com/article/3705670/launch-into-satellite-applications-with-microsoft-azure.html"
-    ampWebUrl: "https://www.infoworld.com/article/3705670/launch-into-satellite-applications-with-microsoft-azure.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705670/launch-into-satellite-applications-with-microsoft-azure.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 104
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/08/shutterstock_2291065933-100945245-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Everything we're expecting at Microsoft's Surface and AI September event"
-    excerpt: "Microsoft's momentous year may culminate in one of its biggest launch events this September. Here's what we're expecting."
-    publishedDateTime: 2023-09-01T14:47:00Z
-    webUrl: "https://www.zdnet.com/article/everything-were-expecting-at-microsofts-surface-and-ai-september-event-bing/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/everything-were-expecting-at-microsofts-surface-and-ai-september-event-bing/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/everything-were-expecting-at-microsofts-surface-and-ai-september-event-bing/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 103
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/e13627a237c6a281cc2ea5fe0e7795d4fbec9b59/2023/08/30/a32be0fd-11eb-49e4-bdb6-5652372167da/dsc00260.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Microsoft Wants Us to Wear AI-Powered Backpacks"
-    excerpt: "Microsoft's latest idea for a wearable takes the form of an AI-powered backpack full of sensors."
-    publishedDateTime: 2023-09-01T15:25:00Z
-    webUrl: "https://www.pcmag.com/news/microsoft-wants-us-to-wear-ai-powered-backpacks"
+  - title: "Nvidia Faces More Restrictions on AI Chip Sales, This Time in the Middle East"
+    excerpt: "The US government notifies Nvidia it'll need a license to sell certain A100 and H100 GPUs to a larger range of customers outside of China."
+    publishedDateTime: 2023-08-30T21:48:00Z
+    webUrl: "https://www.pcmag.com/news/nvidia-faces-more-restrictions-on-ai-chip-sales-this-time-in-the-middle"
     type: article
     provider:
       name: PC Magazine
       domain: pcmag.com
-    quality: 84
+    quality: 98
     images:
-      - url: "https://i.pcmag.com/imagery/articles/04m1q6ExleLlFkZ9ZkSKumS-1.fit_lim.size_1200x630.v1693581639.jpg"
+      - url: "https://i.pcmag.com/imagery/articles/035zuqPRihn1GhHajRQJuiL-1.fit_lim.size_1200x630.v1693429053.jpg"
         width: 1120
         height: 630
         isCached: true
-  - title: "MSFT Stock and AI: Why Microsoft’s Future Looks Brighter Than Ever"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips It’s not for certain, but “AI mania” seemed to have peaked"
-    publishedDateTime: 2023-08-31T10:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/msft-stock-and-ai-why-microsofts-future-looks-brighter-than-ever-1032595770"
+  - title: "US bans sale of top Nvidia and AMD AI chips to the Middle East"
+    excerpt: "Nvidia wrote in a regulatory filing that the US government had informed the company of a licensing requirement for a subset of A100 and H100 products"
+    publishedDateTime: 2023-08-31T14:29:00Z
+    webUrl: "https://www.techspot.com/news/99984-us-bans-sale-top-nvidia-amd-ai-chips.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
-  - title: "SAP Names Microsoft's Walter Sun as Head of Artificial Intelligence -- Update"
-    excerpt: "By Mauro Orru SAP appointed Microsoft's Walter Sun as global head of artificial intelligence, a move that underscores the business-software company's"
-    publishedDateTime: 2023-09-01T12:45:00Z
-    webUrl: "https://www.marketwatch.com/story/sap-names-microsoft-s-walter-sun-as-head-of-artificial-intelligence-update-b8ea13d8"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-  - title: "Synthetaic, Microsoft Enter Into AI Data, Cloud Partnership"
-    excerpt: "The AI company will utilize Microsoft Azure Space capabilities to develop AI tools to process static, video and geospatial imagery for national security, environmental, disaster response and sustainability missions. “This partnership allows us to combine ..."
-    publishedDateTime: 2023-08-30T10:00:00Z
-    webUrl: "https://www.govconwire.com/2023/08/synthetaic-microsoft-enter-into-ai-data-cloud-partnership/"
-    type: article
-    provider:
-      name: GovCon Wire
-      domain: govconwire.com
-    quality: 56
+      name: TechSpot
+      domain: techspot.com
+    quality: 84
     images:
-      - url: "https://www.govconwire.com/wp-content/uploads/2023/08/unnamed-file-203.png"
-        width: 1200
-        height: 628
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/08/2023-08-15-image.jpg"
+        width: 2100
+        height: 1181
         isCached: true
-  - title: "Microsoft enters partnership to build AI for large datasets"
-    excerpt: "The global software giant is offering Synthetiac up to 1 million hours of cloud computing resources to accelerate the development of new tools for searching massive amounts of unstructured data."
-    publishedDateTime: 2023-08-30T19:58:00Z
-    webUrl: "https://washingtontechnology.com/companies/2023/08/microsoft-enters-partnership-build-ai-large-datasets/389873/"
+  - title: "US Extends Export Restrictions On Nvidia, AMD AI Chips To Middle East"
+    excerpt: "Nvidia and AMD's AI chips, including A100, H100, and MI250 models, are affected by expanded Middle East restrictions."
+    publishedDateTime: 2023-08-31T07:16:00Z
+    webUrl: "https://www.republicworld.com/business-news/international-business/us-extends-export-restrictions-on-nvidia-amd-ai-chips-to-middle-east-articleshow.html"
+    ampWebUrl: "https://www.republicworld.com/amp/business-news/international-business/us-extends-export-restrictions-on-nvidia-amd-ai-chips-to-middle-east-articleshow.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/international-business/us-extends-export-restrictions-on-nvidia-amd-ai-chips-to-middle-east-articleshow.html"
     type: article
     provider:
-      name: Washington Technology
-      domain: washingtontechnology.com
-    quality: 54
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 74
     images:
-      - url: "https://cdn.washingtontechnology.com/media/img/cd/2023/08/30/AIMicrosoftWT20230830/open-graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/tzuhv5qv8g4u1grq_1693463750.jpeg"
+        width: 768
+        height: 438
         isCached: true
-  - title: "Microsoft enters partnership to build AI for large datasets"
-    excerpt: "The global software giant is offering Synthetiac up to 1 million hours of cloud computing resources to accelerate the development of new tools for searching massive amounts of unstructured data."
-    publishedDateTime: 2023-09-01T04:00:00Z
-    webUrl: "https://www.nextgov.com/artificial-intelligence/2023/09/microsoft-enters-partnership-build-ai-large-datasets/389923/"
+  - title: "US restricts exports of Nvidia AI chips to Middle East"
+    excerpt: "Controls apply to A100 and H100 chips, in escalation of US efforts to curb China’s access to products"
+    publishedDateTime: 2023-08-31T10:24:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/aug/31/us-restricts-exports-of-nvidia-ai-chips-to-middle-east?ref=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/aug/31/us-restricts-exports-of-nvidia-ai-chips-to-middle-east"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/31/us-restricts-exports-of-nvidia-ai-chips-to-middle-east"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 54
+      name: The Guardian
+      domain: theguardian.com
+    quality: 74
     images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2023/08/31/AIMicrosoftWT20230830/open-graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://i.guim.co.uk/img/media/27fe450e31ec90f79d4cace3bf99fe31dc2fa16a/0_388_5855_3515/master/5855.jpg?width=620&quality=85&auto=format&fit=max&s=20553a9182bde4d1e9bf148e408f726b"
+        width: 620
+        height: 372
         isCached: true
-  - title: "Are AI Chatbots Dead?"
-    excerpt: "At any given moment in history, we’re living through the unexpected downfall of some exciting new technology that paves the way for something greater."
-    publishedDateTime: 2023-08-31T13:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/31/are-ai-chatbots-dead/"
+  - title: "US denies imposing export controls on Nvidia’s AI Chips for select Middle Eastern countries"
+    excerpt: "Biden administration to restrict the export of Nvidia's cutting-edge (AI) computer chips to select countries in the Middle East"
+    publishedDateTime: 2023-09-01T10:07:00Z
+    webUrl: "https://www.gizmochina.com/2023/09/01/us-denies-imposing-export-controls-on-nvidias-ai-chips-for-select-middle-eastern-countries/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Fraunhofer launches internal AI chatbot"
-    excerpt: "Gesellschaft, in collaboration with Microsoft, is one of the first research organizations in Europe to launch an internal AI chatbot that works similarly to OpenAI’s ChatGPT. The FhGenie generative AI solution lets employees securely create,"
-    publishedDateTime: 2023-08-31T09:21:00Z
-    webUrl: "https://sciencebusiness.net/network-updates/fraunhofer-launches-internal-ai-chatbot"
-    type: article
-    provider:
-      name: Science|Business
-      domain: sciencebusiness.net
-    quality: 39
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 74
     images:
-      - url: "https://sciencebusiness.net/sites/default/files/inline-images/1080x450.png"
-        width: 1050
-        height: 450
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/09/Screenshot-2023-09-01-152431.png"
+        width: 1008
+        height: 664
         isCached: true
-  - title: "Microsoft discontinues Visual Studio for Mac"
-    excerpt: "Microsoft has decided to discontinue Visual Studio for Mac. Support for the latest IDE version is guaranteed only through August 2024. According to"
-    publishedDateTime: 2023-08-31T13:21:00Z
-    webUrl: "https://www.techzine.eu/news/devops/110777/microsoft-discontinues-visual-studio-for-mac/"
+  - title: "US restricts sales of AI chips Nvidia and AMD to Middle East"
+    excerpt: "The United States has extended restrictions on exports of high-performance AI processors to some Middle Eastern countries. It concerns chips from Nvidia"
+    publishedDateTime: 2023-08-31T11:02:00Z
+    webUrl: "https://www.techzine.eu/news/privacy-compliance/110763/us-restricts-sales-of-ai-chips-nvidia-and-amd-to-middle-east/"
     type: article
     provider:
       name: techzine
       domain: techzine.eu
-    quality: 39
+    quality: 71
     images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2021/04/shutterstock_1098133388-1.jpg"
-        width: 1000
-        height: 667
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/05/nvidia-grace-hopper-superchip.jpg"
+        width: 960
+        height: 540
         isCached: true
-  - title: "How to talk to an AI chatbot"
-    excerpt: "The Washington Post’s guide to getting the most out of AI chatbots — from OpenAI’s ChatGPT to Google’s Bard and Microsoft’s Bing— and avoiding common pitfalls."
-    publishedDateTime: 2023-08-31T05:00:00Z
-    webUrl: "https://www.washingtonpost.com/technology/interactive/2023/how-to-talk-ai-chatbot-chatgpt/"
+  - title: "US Government Denies Blocking Sales of AI Chips to Middle East"
+    excerpt: "Nvidia and AMD do face expanded export rules for their A100 and H100 artificial intelligence (AI) chips in the Middle East, but it's not yet clear why."
+    publishedDateTime: 2023-09-01T18:50:00Z
+    webUrl: "https://www.darkreading.com/dr-global/us-government-denies-blocking-chip-sales-middle-east"
     type: article
     provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 71
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KK4QILC7RJDP7IGXGBPVQITL6Q.jpg&w=1200"
+      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf47e335d79fb3b2e/64f1e0af0517e34fb4df20d7/fingerprint_motherboard_Panther_Media_Alamy.jpg"
+        width: 5650
+        height: 3560
+        isCached: true
+  - title: "US denies it had 'blocked' AI chip sales to some Middle Eastern countries"
+    excerpt: "The US Commerce Department was quick to distance itself from the reports — but it did not directly address imposing license restrictions on certain types of chips."
+    publishedDateTime: 2023-09-01T10:54:00Z
+    webUrl: "https://www.al-monitor.com/originals/2023/09/us-denies-it-had-blocked-ai-chip-sales-some-middle-eastern-countries"
+    type: article
+    provider:
+      name: Al-Monitor
+      domain: al-monitor.com
+    quality: 70
+    images:
+      - url: "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2023-09/GettyImages-1258278958.jpg?h=9eb0d413&itok=9rMFKq-S"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Is Nvidia an AI Value Stock?"
+    excerpt: "Some on Wall Street would argue that a stock that has tripled in a calendar year can't be cheap. One analyst who covers Nvidia says just the opposite. The chipmaker's stock is up 239% so far this year,"
+    publishedDateTime: 2023-08-30T22:45:00Z
+    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-08-30-2023/card/is-nvidia-an-ai-value-stock--7KZKw2ot5CRIPgTQvNaP"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-844456/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "U.S. Restricts Advanced Nvidia AI Chips Sales to Middle East - TaiwanPlus News"
+    excerpt: "The U.S. has blocked the sale of some Nvidia AI chips from being sold in the Middle East over fears they could be resold to China. The American tech giant"
+    publishedDateTime: 2023-08-31T12:24:00Z
+    webUrl: "https://www.wyomingnews.com/news/national/u-s-restricts-advanced-nvidia-ai-chips-sales-to-middle-east---taiwanplus-news/video_9493005a-56e2-5e87-94a4-f6581077d288.html"
+    type: article
+    provider:
+      name: Wyoming News
+      domain: wyomingnews.com
+    quality: 67
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/9/49/9493005a-56e2-5e87-94a4-f6581077d288/64f08b8893bd4.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Update: US denies restricting exports of some Nvidia AI chips to 'Middle East' countries"
+    excerpt: "The denial from the US Commerce Department comes after it was reported that the US would be extending restrictions on the export of Nvidia and AMD AI chips to some Middle East states."
+    publishedDateTime: 2023-08-31T13:21:00Z
+    webUrl: "https://www.newarab.com/news/us-denies-restriction-exports-ai-chips-middle-east"
+    ampWebUrl: "https://www.newarab.com/news/us-denies-restriction-exports-ai-chips-middle-east?amp"
+    cdnAmpWebUrl: "https://www-newarab-com.cdn.ampproject.org/c/s/www.newarab.com/news/us-denies-restriction-exports-ai-chips-middle-east?amp"
+    type: article
+    provider:
+      name: newarab
+      domain: newarab.com
+    quality: 65
+    images:
+      - url: "https://www.newarab.com/sites/default/files/1590840359.jpeg"
+        width: 5289
+        height: 3204
+        isCached: true
+  - title: "Nvidia’s AI chips hit with new curbs for export to some Middle East countries as US tightens semiconductor controls"
+    excerpt: "The chip designer said in an August 28 filing that its A100 and H100 machine learning chips have new licensing requirements for some regions outside China."
+    publishedDateTime: 2023-08-31T01:58:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3232890/nvidias-ai-chips-hit-new-curbs-export-some-middle-east-countries-us-tightens-semiconductor-controls"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 62
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/08/31/8752dbb5-bf3c-49b3-9bad-ab64ecb622de_6b2422a9.jpg?itok=-y7JJHDd&v=1693447058"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "This megacap tech hitting an all-time high is proving to be the next big AI play after Nvidia"
+    excerpt: "Early on, Alphabet proved itself as a dominant name in the AI war , facing off against Microsoft with a competing chatbot, although some fears mounted that it lagged the competition . GOOGL YTD mountain Alphabet shares since the start of 2023 \"We continue ..."
+    publishedDateTime: 2023-08-30T14:35:00Z
+    webUrl: "https://www.cnbc.com/2023/08/30/this-megacap-tech-hitting-an-all-time-high-is-proving-to-be-the-next-big-ai-play-after-nvidia.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 56
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106273570-1575296275021gettyimages-1020621856.jpeg?v=1693405989&w=1920&h=1080"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "AI Wars: US ready to chase China to the end of world, restricts NVIDIA chip exports to countries in West Asia"
+    excerpt: "The US has imposed new restrictions on NVIDIA, barring them from exporting AI chips to countries in West Asia, also known as the Middle East. The US believes that China may try to find ways around san"
+    publishedDateTime: 2023-08-31T10:24:00Z
+    webUrl: "https://www.firstpost.com/tech/news-analysis/ai-wars-us-ready-to-chase-china-to-the-end-of-world-restricts-nvidia-chip-exports-to-countries-in-west-asia-13062332.html"
+    ampWebUrl: "https://www.firstpost.com/tech/news-analysis/ai-wars-us-ready-to-chase-china-to-the-end-of-world-restricts-nvidia-chip-exports-to-countries-in-west-asia-13062332.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/ai-wars-us-ready-to-chase-china-to-the-end-of-world-restricts-nvidia-chip-exports-to-countries-in-west-asia-13062332.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 55
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/08/AI-Wars-US-ready-to-chase-China-to-the-end-of-world-restricts-NVIDIA-chip-exports-to-countries-in-West-Asia.jpg"
+        width: 640
+        height: 362
+        isCached: true
+  - title: "Nvidia filing shows US extends AI chip ban beyond China and Russia"
+    excerpt: "Reuters quoted Nvidia's latest regulatory filing reporting that the US is extending AI chip curbs beyond China to other regions, including some Middle Eastern countries."
+    publishedDateTime: 2023-08-31T06:00:00Z
+    webUrl: "https://www.digitimes.com/news/a20230831VL204/china-export-restrictions-nvidia.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230831vl204_files/3_2b.jpg"
+        width: 1280
+        height: 854
+        isCached: true
+  - title: "U.S. curbs AI chip exports from Nvidia to parts of Middle East"
+    excerpt: "A similar move announced last year signaled an escalation of the U.S. crackdown on China's technological capabilities."
+    publishedDateTime: 2023-08-31T02:36:00Z
+    webUrl: "https://www.japantimes.co.jp/news/2023/08/31/world/politics/chip-curbs-middle-east/"
+    type: article
+    provider:
+      name: ジャパンタイムズ
+      domain: japantimes.co.jp
+    quality: 54
+    images:
+      - url: "https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/31/248968.JPG"
+        width: 1000
+        height: 665
+        isCached: true
+  - title: "US curbs AI chip exports to some Middle East countries"
+    excerpt: "The US has expanded its restriction of exports of sophisticated artificial intelligence chips to the Middle East."
+    publishedDateTime: 2023-08-31T06:40:00Z
+    webUrl: "https://techcentral.co.za/us-curbs-ai-chip-exports-middle-east/230777/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 54
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2022/06/nvidia-1500-800.jpg"
+        width: 1500
+        height: 800
+        isCached: true
+  - title: "US extends AI chip export restrictions to Middle East nations"
+    excerpt: "The Biden administration has restricted the sales of Nvidia’s A100 and H100 machine learning chips in some regions outside China, the company has revealed in a regulatory filing."
+    publishedDateTime: 2023-08-31T11:47:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2023/08/us-extends-ai-chip-export-restrictions-to-middle-east-nations/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 54
+    images:
+      - url: "https://eandt.theiet.org/media/22311/web_nvidia-chip-on-motherboard_credit_istock-1141488945.jpg?crop=0,0.2625,0,0.24531249999999993&cropmode=percentage&width=1200&height=450&rnd=133379550380000000"
+        width: 1200
+        height: 450
+        isCached: true
+  - title: "Nvidia is the AI king, but threats to its reign abound"
+    excerpt: "But the chip giant’s rivals, including AMD (AMD) and Intel (INTC), aren’t sitting idly by while it gobbles up the spoils of the AI wave. And while Nvidia is in no immediate danger of losing its grip on the market, Intel’s fall from the world’s most ..."
+    publishedDateTime: 2023-08-30T15:13:00Z
+    webUrl: "https://www.aol.com/finance/nvidia-ai-king-threats-reign-144635118.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/I0GtRklBnhbZgEDMjNOUYg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/dc77450c001b3fd280edf085f2776a6f"
         width: 1200
         height: 800
         isCached: true
-  - title: "SAP poaches Microsoft exec as its new global head of AI"
-    excerpt: "Sun replaces Feiyu Xu as SAP’s global head of AI. She joined the company in 2020, after a three-year stint in a similar role at Lenovo. Prior to that, she had worked for two decades at the German Research Center for Artificial Intelligence, DFKI."
-    publishedDateTime: 2023-09-01T12:00:00Z
-    webUrl: "https://www.cio.com/article/650918/sap-poaches-microsoft-exec-as-its-new-global-head-of-ai.html"
+  - title: "US restricts exports of some Nvidia chips to Middle East countries -filing"
+    excerpt: "\"During the second quarter of fiscal year 2024, the USG (U.S. government) informed us of an additional licensing requirement for a subset of A100 and H100 products destined to certain customers and other regions,"
+    publishedDateTime: 2023-08-30T21:40:00Z
+    webUrl: "https://www.aol.com/news/us-restricts-exports-nvidia-chips-184043693.html"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
-    quality: 36
-  - title: "Ally partners with Microsoft to leverage generative artificial intelligence"
-    excerpt: "Banks have been leveraging traditional artificial intelligence for years in ways such as predicting market trends and optimizing investment. But generative AI can produce its own data content to increase productivity for financial firms. That has led Ally ..."
-    publishedDateTime: 2023-09-01T18:53:00Z
-    webUrl: "https://www.bizjournals.com/charlotte/inno/stories/news/2023/09/01/ally-bank-generative-ai-platform-launch-microsoft.html"
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/30315eba350eb492026221c377f6f971"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "US curbs Nvidia’s AI chip exports to some Middle East countries"
+    excerpt: "Nvidia this week did not specify which countries in the Middle East were affected. The company derived most of its US$13.5 billion in sales in its fiscal quarter ended July 30 from the US, China and Taiwan. About 13.9% of sales came from all other countries combined, and Nvidia does not provide a revenue breakout from the Middle East."
+    publishedDateTime: 2023-08-30T23:04:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/08/31/us-curbs-nvidias-ai-chip-exports-to-some-middle-east-countries/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 34
+  - title: "U.S. restricts export of Nvidia, AMD AI chips to Middle East"
+    excerpt: "Nvidia’s CEO Jensen Huang :\"If [China] can’t buy from … the United States, they’ll just build it themselves. So the US has to be careful.\""
+    publishedDateTime: 2023-08-31T14:29:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/08/31/us-restricts-ai-chip-export-middle-east.html"
     type: article
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 32
-  - title: "Microsoft Corporate VP, AI leader Dr. Peter Lee to join board of RTP-based Bionic Health"
-    excerpt: "RESEARCH TRIANGLE PARK — Bionic Health, an AI-powered personalized healthcare startup, announced today that Dr. Peter Lee, Corporate Vice President of Research and Incubations at Microsoft, has joined its Board of Directors. Dr. Lee is known for his ..."
-    publishedDateTime: 2023-08-30T12:30:00Z
-    webUrl: "https://wraltechwire.com/2023/08/30/microsoft-corporate-vp-ai-leader-dr-peter-lee-to-join-board-of-rtp-based-bionic-health/"
+    quality: 34
+  - title: "US bans Nvidia, AMD AI chips' export to some Mideast countries, amid China fears"
+    excerpt: "The technological war between the United States and China is heating up, with both countries imposing limits on their prized assets."
+    publishedDateTime: 2023-08-31T11:56:00Z
+    webUrl: "https://www.al-monitor.com/originals/2023/08/us-bans-nvidia-amd-ai-chips-export-some-mideast-countries-amid-china-fears"
     type: article
     provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 25
-  - title: "Chinese tech companies launch AI chatbots to public"
-    excerpt: "Chinese technology groups Baidu and ByteDance launched their artificial intelligence chatbots to the public on Thursday after receiving regulatory approval from Beijing."
-    publishedDateTime: 2023-08-31T07:58:00Z
-    webUrl: "https://www.ft.com/content/ea516e53-6a30-49a0-9e57-970cf5e8410c"
+      name: Al-Monitor
+      domain: al-monitor.com
+    quality: 29
+  - title: "US restricts exports of some Nvidia chips to certain Middle East countries -filing"
+    excerpt: "The U.S. government has imposed restrictions on some Nvidia artificial intelligence chip exports to certain countries in the Middle East, the company said in a regulatory filing this week. One year ago Nvidia said U."
+    publishedDateTime: 2023-08-30T19:08:00Z
+    webUrl: "https://www.devdiscourse.com/article/science-environment/2576488-us-restricts-exports-of-some-nvidia-chips-to-certain-middle-east-countries--filing"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 28
+  - title: "US officials extend export curbs on Nvidia AI chip to 'some Middle Eastern countries'"
+    excerpt: "Nvidia’s rival chip maker Advanced Micro Devices (AMD) was also told to halt exports of chips to certain countries in the Middle East, though in both instances the particular countries were not specified."
+    publishedDateTime: 2023-08-31T13:04:00Z
+    webUrl: "https://cointelegraph.com/news/us-curbs-export-nvidia-ai-chip-to-some-middle-eastern-countries"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 27
+  - title: "Google Cloud and NVIDIA Expand Partnership to Advance AI Computing, Software and Services"
+    excerpt: "Google Cloud to gain access to NVIDIA DGX™ GH200 — Google Cloud will be one of the first companies in the world to have access to the NVIDIA DGX GH200 AI supercomputer — powered by the NVIDIA Grace Hopper™ Superchip — to explore its capabilities for generative AI workloads."
+    publishedDateTime: 2023-08-29T19:46:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/29/9871926.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 10
 
 secured: "U9XlbqSNh4A9WqTQQV/M0wr3TmrJ1FHyBI50MSEbRkfrXwYQ+zfqCssfQf6IRRsBubI8z/ZyDuDqDGNl7Vczv+jp/aYrwijEuR2wT3YtNqpb8Q7zRUOILjpGOlVV00K5+CzGf3s0rb/5eMTQxI+sxd+RwGlcxBt097HEVCNb5xpTLK+B4nRlSaoMPMvl/cVAQglZCK5hgfle4PrNIkgpyXG9VdRZeNKQNPY12WkaNnGxXyom4ksjwdbrzE9T3QcFncmtzx/s9cmB1QiC8bh8cmGulfCeffVxqltxxqNZObGKRtglkOd/VGM58Ojj7fU+geWtJA3Fdn+YaOofArjOafNcKL8PuXxYT0606uyhsMlP1uQqOc1QrAmrOcU5tSVe0sZfTI9cLe6OncLexTSm3CpN3dS2rhugGM6Jobu3+5khKwV0+tLtpZKMEUE15fysZViRYZ3+sOCahf621e6xpAK4hOfSHARbsr0umzwxrXf0Irl5cIP6nrq/es/cn5fC8TVHr5tl08mfnM/p13QyjQ==;WelrO6zu34T/05Bqv8nLHA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/08/31/startup-superfra
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/08/31/startup-superframe-raises-5-million-to-simplify-salesforce-configurations-with-ai-chatbot/amp/"
 type: article
 quality: 77
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -91,6 +91,20 @@ related:
     quality: 41
     images:
       - url: "https://cdn.benzinga.com/files/regularguy-eth-w9codxtsfts-unsplash_3.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "How to talk to an AI chatbot"
+    excerpt: "The Washington Post’s guide to getting the most out of AI chatbots — from OpenAI’s ChatGPT to Google’s Bard and Microsoft’s Bing— and avoiding common pitfalls."
+    publishedDateTime: 2023-08-31T05:00:00Z
+    webUrl: "https://www.washingtonpost.com/technology/interactive/2023/how-to-talk-ai-chatbot-chatgpt/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KK4QILC7RJDP7IGXGBPVQITL6Q.jpg&w=1200"
         width: 1200
         height: 800
         isCached: true

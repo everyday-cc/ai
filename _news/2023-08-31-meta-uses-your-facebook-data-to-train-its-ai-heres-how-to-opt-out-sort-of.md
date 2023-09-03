@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-uses-your-facebook-dat
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-uses-your-facebook-data-to-train-its-ai-heres-how-to-opt-out-sort-of/"
 type: article
 quality: 86
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -61,15 +61,6 @@ related:
         width: 2560
         height: 1280
         isCached: true
-  - title: "Police force red-faced after major translation blunder on AI-generated Facebook posts"
-    excerpt: "Dyfed-Powys Police used an AI tool to create the Facebook posts and now people have called for the force to use a Welsh speaker instead of relying on a computer Dyfed-Powys Police used an AI tool to create the Facebook posts (WalesOnline/ Rob Browne) A ..."
-    publishedDateTime: 2023-08-29T18:57:00Z
-    webUrl: "https://www.mirror.co.uk/news/uk-news/police-force-red-faced-after-30810994.amp"
-    type: article
-    provider:
-      name: The Mirror
-      domain: mirror.co.uk
-    quality: 12
 
 secured: "uh1oP7qbP9NqKHQyDvVFJEiQ4/kYYPBga6nWGGtn4IG8x10b5laBJFK3dBSEYGZ9AZGRCJw0HgbAx/Fc5f46UaxLvK+8vh37E+VlVLu5O4DTpQGUmd2eFw16kzstMuLQawB/5mMOf+9hGbBiVlZclLaXWy5bNkQt111ObEPg2zcFQkB3O6AEnpF0FHS3ws4lNIIljdORJ9mKqCsqcLT9lHxNKpwukJl+ZksJCMjlo/f3t4ZS/fxIkfrVp6Czy+IzUQ1PiQe15Q+NL3gEim0S4sr5tgHcbmshKpjO2niP2tlcw4lS2L40VaE6P4k8+76tjVn/ZcKHK+4WG94C4AxBgx+At1AJOljdpMgZ95PWoh0ZJ5z3nbONCdCyCE0G/Ov23O00phmqqH77mrin6fC1Vv9c8+k9ZmtrBB6pZVrX46CkxQsXFHnGJs+txOilyNEdmgGnSdw7jt6XykWA7SphpIRHRIuMENdWyWsKo4mcqB//UhZ6XKRljY9ATBNjIZWjN7pZXyFCgCTAUjn5qTkilw==;2fp5iJ0h1yW9ipYKRKqYig=="
 ---

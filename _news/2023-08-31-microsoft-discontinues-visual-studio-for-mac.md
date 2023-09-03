@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft officially adds Bing AI chatbot to Google Chrome"
-    excerpt: "Those of you who want to take Microsoft's Bing AI for a spin are no longer restricted to trying it in the Edge browser or the Bing mobile app. On Friday, Microsoft announced that the Bing Chat tools for individuals and enterprises are now officially available in the Google Chrome browser."
-    publishedDateTime: 2023-08-29T17:23:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-officially-adds-bing-ai-chatbot-to-google-chrome/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-officially-adds-bing-ai-chatbot-to-google-chrome/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-officially-adds-bing-ai-chatbot-to-google-chrome/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/3ca57d3c4451be567909fd0dc6f1251ab149b621/2023/08/29/d522b23c-3b57-449e-9637-ae9d1d856ced/colors-gettyimages-161098253.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Launch into satellite applications with Microsoft Azure"
     excerpt: "Microsoft’s Azure Space platform and Azure Orbital Space SDK are taking edge computing to the final frontier, starting with satellite image processing, geospatial, and communications applications."
     publishedDateTime: 2023-08-31T09:00:00Z
@@ -87,15 +71,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "UBS Analyst Eyes GPU Bottlenecks for Microsoft's AI Push, Nvidia's Supply Chain in the Spotlight"
-    excerpt: "The AI opportunity that has powered the material out-performance in technology stocks this year primarily comes from one supplier – Nvidia, the dominant provider of GPUs. There is plenty of evidence that GPU demand is out-stripping supply; Microsoft's ..."
-    publishedDateTime: 2023-08-29T19:35:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ubs-analyst-eyes-gpu-bottlenecks-for-microsoft-s-ai-push-nvidia-s-supply-chain-in-the-spotlight-1032590452"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
   - title: "MSFT Stock and AI: Why Microsoft’s Future Looks Brighter Than Ever"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips It’s not for certain, but “AI mania” seemed to have peaked"
     publishedDateTime: 2023-08-31T10:50:00Z
@@ -156,42 +131,19 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Are AI Chatbots Dead?"
-    excerpt: "At any given moment in history, we’re living through the unexpected downfall of some exciting new technology that paves the way for something greater."
-    publishedDateTime: 2023-08-31T13:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/31/are-ai-chatbots-dead/"
+  - title: "Synthetaic Forms 5-Year Strategic Partnership with Microsoft for Next-Gen AI Data and Cloud Solutions"
+    excerpt: "Synthetaic, a leading provider of advanced artificial intelligence (AI) solutions, has announced a five-year strategic"
+    publishedDateTime: 2023-09-01T14:57:00Z
+    webUrl: "https://www.datanami.com/this-just-in/synthetaic-forms-5-year-strategic-partnership-with-microsoft-for-next-gen-ai-data-and-cloud-solutions/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Fraunhofer launches internal AI chatbot"
-    excerpt: "Gesellschaft, in collaboration with Microsoft, is one of the first research organizations in Europe to launch an internal AI chatbot that works similarly to OpenAI’s ChatGPT. The FhGenie generative AI solution lets employees securely create,"
-    publishedDateTime: 2023-08-31T09:21:00Z
-    webUrl: "https://sciencebusiness.net/network-updates/fraunhofer-launches-internal-ai-chatbot"
-    type: article
-    provider:
-      name: Science|Business
-      domain: sciencebusiness.net
+      name: datanami.com
+      domain: datanami.com
     quality: 39
     images:
-      - url: "https://sciencebusiness.net/sites/default/files/inline-images/1080x450.png"
-        width: 1050
-        height: 450
-        isCached: true
-  - title: "How to talk to an AI chatbot"
-    excerpt: "The Washington Post’s guide to getting the most out of AI chatbots — from OpenAI’s ChatGPT to Google’s Bard and Microsoft’s Bing— and avoiding common pitfalls."
-    publishedDateTime: 2023-08-31T05:00:00Z
-    webUrl: "https://www.washingtonpost.com/technology/interactive/2023/how-to-talk-ai-chatbot-chatgpt/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KK4QILC7RJDP7IGXGBPVQITL6Q.jpg&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://www.datanami.com/wp-content/uploads/2023/09/msft-synthetaic-300x278.jpg"
+        width: 300
+        height: 278
         isCached: true
   - title: "SAP poaches Microsoft exec as its new global head of AI"
     excerpt: "Sun replaces Feiyu Xu as SAP’s global head of AI. She joined the company in 2020, after a three-year stint in a similar role at Lenovo. Prior to that, she had worked for two decades at the German Research Center for Artificial Intelligence, DFKI."
@@ -220,15 +172,29 @@ related:
       name: WRAL TechWire
       domain: wraltechwire.com
     quality: 25
-  - title: "Chinese tech companies launch AI chatbots to public"
-    excerpt: "Chinese technology groups Baidu and ByteDance launched their artificial intelligence chatbots to the public on Thursday after receiving regulatory approval from Beijing."
-    publishedDateTime: 2023-08-31T07:58:00Z
-    webUrl: "https://www.ft.com/content/ea516e53-6a30-49a0-9e57-970cf5e8410c"
+  - title: "EY unveils over 20 new tech capabilities in its Assurance sector through its $1b partnership with Microsoft in the first year"
+    excerpt: "Business - The EY organization today announces an expansion of its collaboration with Microsoft, as the EY organization completes the first 12 months of a four-year"
+    publishedDateTime: 2023-09-01T11:27:00Z
+    webUrl: "https://business-review.eu/business/ey-unveils-over-20-new-tech-capabilities-in-its-assurance-sector-through-its-1b-partnership-with-microsoft-in-the-first-year-251110"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
+      name: business-review.eu
+      domain: business-review.eu
+    quality: 12
+    images:
+      - url: "https://business-review.eu/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-01-at-2.24.13-PM.jpeg"
+        width: 1600
+        height: 1066
+        isCached: true
+  - title: "Verint Open CCaaS Platform Achieves Microsoft Co-sell Ready Status and Inclusion in the Microsoft Azure and AppSource Marketplaces"
+    excerpt: "Verint ® (NASDAQ: VRNT), The Customer Engagement Company ®, today announced it has earned co-sell ready status with Microsoft and that the Verint Open Contact Center as a Service (CCaaS) Platform ™ will be commercially available in the Microsoft Azure Marketplace by early fall."
+    publishedDateTime: 2023-08-31T12:45:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/08/31/9873197.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "gzj+hHJtAZjgQwps2n/ILMFZB7ZMDfLCY2Pqj5gcpeLhI7fX8JRdwKuLNVdqshV5DsA/wndKZ4nH4J4aTBgTCBHwON+NNEv/vnhUsD8A3altoiBCxfHkQMFr5g16sV8Ma1rQBE71xqMDaAKGneKF2nexZ/Uvejw5xT5A5r8YHLMhsaiUYDcB8sGWjGMMIxRo5NiV7hUmE1PSjTKKI+UC7TWGvJ10QToos9guk38tjZjT6BO6jLMRdrAfA2ImaHoOHkb6UHAqdYGDe1FPE3AgbehVPPybis/nwe7D0YAzwSrfzrQKq52OcNMqY7yd0SSORs+xURNR1VMMKHmBZEg+hU0OiYARDNLzy0IqYHnc4m0=;DUWmD8M/VuYXBPg84371eA=="
 ---

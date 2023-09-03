@@ -51,6 +51,15 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Are AI Chatbots Dead?"
+    excerpt: "At any given moment in history, we’re living through the unexpected downfall of some exciting new technology that paves the way for something greater."
+    publishedDateTime: 2023-08-31T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/31/are-ai-chatbots-dead/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "UPDATED: Baidu leads public rollout of AI chatbots in China"
     excerpt: "Tech giant Baidu launched China's first public artificial intelligence chatbot on Thursday, with ERNIE trained to censor highly sensitive topics for the ruling Communist Party such as the Tiananmen crackdown."
     publishedDateTime: 2023-08-31T06:19:00Z
@@ -88,6 +97,15 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 33
+  - title: "Chinese tech companies launch AI chatbots to public"
+    excerpt: "Chinese technology groups Baidu and ByteDance launched their artificial intelligence chatbots to the public on Thursday after receiving regulatory approval from Beijing."
+    publishedDateTime: 2023-08-31T07:58:00Z
+    webUrl: "https://www.ft.com/content/ea516e53-6a30-49a0-9e57-970cf5e8410c"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "laez6V9slDlWkXm+jqsTqxfurGiLGaD4/TTALnONZocH9SLw3N8thMPiKJKSx3hL0/30/MS3SHpp7lbs3UWcJ01p/TcmnQbZZIz85Lg0GSjv2Im/boKAhYseSvn/+EhuNQ8krUSzy9JT5EVmWePZt7WDbWfsTPQd9GlLxYksOyNNcL41rIy4Vv17q23BfLTKHgcxVofedbC0PMF5+dgLSGgrXYFF0TqdZXxfYOWAXwW1IuVJR2z4afFgPE+/59vZteI1cG3eD5GrxeCpsUJOC8OWtCNmiHTM/9qrhoKrQsmSAYL8OtsYCjxlFbuCXBAnvybdbBIf5r06isWSiMmWdvwa2RUldbX9dwCmJ/5PSlKaBbiQKRQMe0bjV9dvg3IaMskulSH+hk/aWhQad+1MG3z3mYTovP8WveL+X9jwme4+qI4C96YyxO7SgacMdN4H4r1y1yGys3q5bsJTBcaRLxdPe+y19Ej6LG72OQI0fuozhfT1s0VDrSML1Rv0r5Pr22uK8ebT9KNMfY2WXB5L0g==;cAT8Dfhzo0EOtWSyMxuj4Q=="
 ---

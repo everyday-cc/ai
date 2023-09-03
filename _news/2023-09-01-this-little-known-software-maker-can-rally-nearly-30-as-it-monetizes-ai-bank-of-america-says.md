@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/2023/09/01/this-software-maker-can-rally-on-a
 webUrl: "https://www.cnbc.com/2023/09/01/this-software-maker-can-rally-on-ai-monetization-bank-of-america-says-.html"
 type: article
 quality: 72
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 696
         height: 865
         isCached: true
-  - title: "Native American knowledge, and now AI, can teach us to build wildfire resilience"
-    excerpt: "For centuries, Native American tribes used cultural and controlled burns to nurture healthy ecosystems. These deliberate, low-intensity fires helped maintain ecological balance in the region by reducing the risk of catastrophic wildfires,"
-    publishedDateTime: 2023-08-29T17:44:00Z
-    webUrl: "https://phys.org/news/2023-08-native-american-knowledge-ai-wildfire.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 12
 
 secured: "71OO7PGzxIbC374RAHXg5CVc0F93gzEQLDrBnxvSJ6bhOaoqyzqq8a0Td46rtNqjeQ9ihUE1kJtwrUCZkVnkqJn8CztQ72j/lPrrnCxZlahc2iDuXr5vyfk684tDspYQV7xpRLhaq/ahQXSUyXsQgDYj81UgPooYq/5l9CKWuwmH3jW+WzXM/WVvQJDRoeZCpSlJBQgOvW5wY92F2DTxnnXhPXPY9ALQ/KrSXaq9lcDkqQD/uwQyVHkuJS5e+RLaYtXBaUR2wGoiTuLNAIhPYtyo5Zo4WRpT3JaUEqDD0x/GCN0O9E85dxDY7l8r5IKISQhXxhqeUXyFcJ83pWkOAk5bF791Hpa4RZ2MSt1dNt9UxSDfgOH+ObI+0ftodzprek3XSm5cqQu53NRjafFUzlLvGsfFQ/ceU3E3U5be2113lbnkW19VB6ET7PVk67llwmQvXCvl65glFJgJncNRnH6S91z9CP76AR9062CFppxo1Dfa5jNKh26eF61U14BAuHuPAYlkamh2TcD9saxhPw==;xEfaAcgAguDdArmg51icIQ=="
 ---

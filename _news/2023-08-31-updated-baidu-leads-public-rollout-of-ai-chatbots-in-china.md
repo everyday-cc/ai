@@ -57,6 +57,15 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Are AI Chatbots Dead?"
+    excerpt: "At any given moment in history, we’re living through the unexpected downfall of some exciting new technology that paves the way for something greater."
+    publishedDateTime: 2023-08-31T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/31/are-ai-chatbots-dead/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "The Evolution of AI Chatbots: Past, Present and Future"
     excerpt: "Evolutionary path. Chatbots evolved from simple rule-based systems to AI-powered, voice-activated personal assistants and generative AI chatbots capable of full-fledged conversations."
     publishedDateTime: 2023-09-01T10:02:00Z
@@ -80,6 +89,15 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 33
+  - title: "Chinese tech companies launch AI chatbots to public"
+    excerpt: "Chinese technology groups Baidu and ByteDance launched their artificial intelligence chatbots to the public on Thursday after receiving regulatory approval from Beijing."
+    publishedDateTime: 2023-08-31T07:58:00Z
+    webUrl: "https://www.ft.com/content/ea516e53-6a30-49a0-9e57-970cf5e8410c"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
   - title: "Enhancing research with conversational chatbots"
     excerpt: "In a recent presentation at White River Health in Batesville, Associate Professor of Computer and Data Science, Dr. Marcus Birkenkrahe, shed light on the transformative potential of artificial"
     publishedDateTime: 2023-09-01T17:03:00Z

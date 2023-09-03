@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/29/techcrunch-disrupt-2023-startup-ba
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/29/techcrunch-disrupt-2023-startup-battlefield-200-ai-and-security-edition/amp/"
 type: article
 quality: 103
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Announcing the complete AI Stage agenda at TechCrunch Disrupt 2023"
-    excerpt: "In the next year, many of those applications will start to run on phones and PCs rather than in ... Navigating the Evolving Landscape of Robotics, AI and Self-Driving Cars What’s happening in robotics, artificial intelligence and autonomous navigation?"
-    publishedDateTime: 2023-08-29T19:01:00Z
-    webUrl: "https://techcrunch.com/2023/08/29/announcing-the-complete-ai-stage-agenda-at-techcrunch-disrupt-2023/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 51
 
 secured: "tk7pU/S37QqHQ8kMf7xtW9DUpFJCpCXONlZzh/lpGU6+aA2Ron/SreUoA4Rf9qoIHUMMFf4JBlBeDrDLKXubKnjhb9XpRv7MwpLHDO/MtHZT+X5JOBLbzyew2nWaxWbR63m4qoD83m/LSuI510A7t3dOq1YOPudOxjsUK/e25QaY4mojYP/ra0OIU/vPjS1OFFw3JB4fib2zZnPNHtVyzqc1ObABCBuO9fo30P03icU2aHi8LjB0aKgevLK7Kn1dYZd9AMtsPSDAcxd0Bn0Ftun3yOprh8KaBjiflSptm1+BxhckJa+7OCetbOeOC0RvSGtk87pGC1PeTcbbBSudc0zfH3acPPFAVQpuZ41WbsBpcS5Xin+5t/d+ABEXbg3zxFjHTtwkLrQhzgZQI0z7/x0cvW6vU2YH+kVM0r7W5O35Vr6F49pSQ5JhE4FJyWwiWZSbejwWtRpmzJZTFskpK0ZJh36KnB+qT1jaIKSvDq6Z8RfKHEHVJYEJalhICDCFW3GFoMv0iMn5QzrX8STK0w==;YG5qw0FVRgmhvdznayAs+w=="
 ---

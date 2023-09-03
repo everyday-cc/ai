@@ -61,20 +61,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Google Applies Generative AI Tools to Cloud Security"
-    excerpt: "It will also translate Mandiant insights into tactics, techniques and procedures used by threat actors with summaries of threat intelligence in a natural language and easy to comprehend format (Figure A). Figure A Integrating Duet AI into Chronicle ..."
-    publishedDateTime: 2023-08-29T17:45:00Z
-    webUrl: "https://www.techrepublic.com/article/google-applies-generative-ai-tools-cloud-security/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 86
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/Hero.Google.Next_.8.29.23.jpeg"
-        width: 1400
-        height: 957
-        isCached: true
   - title: "AI in the Workplace"
     excerpt: "As employers increasingly adopt artificial intelligence (AI) tools to help make hiring decisions and perform other workplace functions, they must assess how to make the most of technological developments while remaining compliant with legal and regulatory requirements."
     publishedDateTime: 2023-09-01T03:21:00Z

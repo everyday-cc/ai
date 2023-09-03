@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google wants an invisible digital watermark to bring transparency to AI art"
-    excerpt: "Google took a step towards transparency in AI-generated images today. Google DeepMind announced SynthID, a watermarking / identification tool for generative art. The company says the technology embeds a digital watermark,"
-    publishedDateTime: 2023-08-29T17:20:00Z
-    webUrl: "https://www.engadget.com/google-wants-an-invisible-digital-watermark-to-bring-transparency-to-ai-art-164551794.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 47
   - title: "Google Launches Tool That Detects AI Images In Effort To Curb Deepfakes"
     excerpt: "In response to the increasing use of AI images, Google Deep Mind announced a beta version of SynthID. The tool will watermark and identify AI-Generated images. I"
     publishedDateTime: 2023-08-31T19:22:00Z

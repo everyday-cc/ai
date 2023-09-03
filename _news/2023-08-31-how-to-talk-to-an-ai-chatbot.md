@@ -24,210 +24,141 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft officially adds Bing AI chatbot to Google Chrome"
-    excerpt: "Those of you who want to take Microsoft's Bing AI for a spin are no longer restricted to trying it in the Edge browser or the Bing mobile app. On Friday, Microsoft announced that the Bing Chat tools for individuals and enterprises are now officially available in the Google Chrome browser."
-    publishedDateTime: 2023-08-29T17:23:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-officially-adds-bing-ai-chatbot-to-google-chrome/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-officially-adds-bing-ai-chatbot-to-google-chrome/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-officially-adds-bing-ai-chatbot-to-google-chrome/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/3ca57d3c4451be567909fd0dc6f1251ab149b621/2023/08/29/d522b23c-3b57-449e-9637-ae9d1d856ced/colors-gettyimages-161098253.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Launch into satellite applications with Microsoft Azure"
-    excerpt: "Microsoft’s Azure Space platform and Azure Orbital Space SDK are taking edge computing to the final frontier, starting with satellite image processing, geospatial, and communications applications."
-    publishedDateTime: 2023-08-31T09:00:00Z
-    webUrl: "https://www.infoworld.com/article/3705670/launch-into-satellite-applications-with-microsoft-azure.html"
-    ampWebUrl: "https://www.infoworld.com/article/3705670/launch-into-satellite-applications-with-microsoft-azure.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705670/launch-into-satellite-applications-with-microsoft-azure.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 104
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/08/shutterstock_2291065933-100945245-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Everything we're expecting at Microsoft's Surface and AI September event"
-    excerpt: "Microsoft's momentous year may culminate in one of its biggest launch events this September. Here's what we're expecting."
-    publishedDateTime: 2023-09-01T14:47:00Z
-    webUrl: "https://www.zdnet.com/article/everything-were-expecting-at-microsofts-surface-and-ai-september-event-bing/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/everything-were-expecting-at-microsofts-surface-and-ai-september-event-bing/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/everything-were-expecting-at-microsofts-surface-and-ai-september-event-bing/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 103
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/e13627a237c6a281cc2ea5fe0e7795d4fbec9b59/2023/08/30/a32be0fd-11eb-49e4-bdb6-5652372167da/dsc00260.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Microsoft Wants Us to Wear AI-Powered Backpacks"
-    excerpt: "Microsoft's latest idea for a wearable takes the form of an AI-powered backpack full of sensors."
-    publishedDateTime: 2023-09-01T15:25:00Z
-    webUrl: "https://www.pcmag.com/news/microsoft-wants-us-to-wear-ai-powered-backpacks"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 84
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/04m1q6ExleLlFkZ9ZkSKumS-1.fit_lim.size_1200x630.v1693581639.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "UBS Analyst Eyes GPU Bottlenecks for Microsoft's AI Push, Nvidia's Supply Chain in the Spotlight"
-    excerpt: "The AI opportunity that has powered the material out-performance in technology stocks this year primarily comes from one supplier – Nvidia, the dominant provider of GPUs. There is plenty of evidence that GPU demand is out-stripping supply; Microsoft's ..."
-    publishedDateTime: 2023-08-29T19:35:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ubs-analyst-eyes-gpu-bottlenecks-for-microsoft-s-ai-push-nvidia-s-supply-chain-in-the-spotlight-1032590452"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
-  - title: "MSFT Stock and AI: Why Microsoft’s Future Looks Brighter Than Ever"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips It’s not for certain, but “AI mania” seemed to have peaked"
-    publishedDateTime: 2023-08-31T10:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/msft-stock-and-ai-why-microsofts-future-looks-brighter-than-ever-1032595770"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
-  - title: "SAP Names Microsoft's Walter Sun as Head of Artificial Intelligence -- Update"
-    excerpt: "By Mauro Orru SAP appointed Microsoft's Walter Sun as global head of artificial intelligence, a move that underscores the business-software company's"
-    publishedDateTime: 2023-09-01T12:45:00Z
-    webUrl: "https://www.marketwatch.com/story/sap-names-microsoft-s-walter-sun-as-head-of-artificial-intelligence-update-b8ea13d8"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-  - title: "Synthetaic, Microsoft Enter Into AI Data, Cloud Partnership"
-    excerpt: "The AI company will utilize Microsoft Azure Space capabilities to develop AI tools to process static, video and geospatial imagery for national security, environmental, disaster response and sustainability missions. “This partnership allows us to combine ..."
-    publishedDateTime: 2023-08-30T10:00:00Z
-    webUrl: "https://www.govconwire.com/2023/08/synthetaic-microsoft-enter-into-ai-data-cloud-partnership/"
-    type: article
-    provider:
-      name: GovCon Wire
-      domain: govconwire.com
-    quality: 56
-    images:
-      - url: "https://www.govconwire.com/wp-content/uploads/2023/08/unnamed-file-203.png"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Microsoft enters partnership to build AI for large datasets"
-    excerpt: "The global software giant is offering Synthetiac up to 1 million hours of cloud computing resources to accelerate the development of new tools for searching massive amounts of unstructured data."
-    publishedDateTime: 2023-08-30T19:58:00Z
-    webUrl: "https://washingtontechnology.com/companies/2023/08/microsoft-enters-partnership-build-ai-large-datasets/389873/"
-    type: article
-    provider:
-      name: Washington Technology
-      domain: washingtontechnology.com
-    quality: 54
-    images:
-      - url: "https://cdn.washingtontechnology.com/media/img/cd/2023/08/30/AIMicrosoftWT20230830/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Microsoft enters partnership to build AI for large datasets"
-    excerpt: "The global software giant is offering Synthetiac up to 1 million hours of cloud computing resources to accelerate the development of new tools for searching massive amounts of unstructured data."
-    publishedDateTime: 2023-09-01T04:00:00Z
-    webUrl: "https://www.nextgov.com/artificial-intelligence/2023/09/microsoft-enters-partnership-build-ai-large-datasets/389923/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 54
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2023/08/31/AIMicrosoftWT20230830/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Are AI Chatbots Dead?"
-    excerpt: "At any given moment in history, we’re living through the unexpected downfall of some exciting new technology that paves the way for something greater."
-    publishedDateTime: 2023-08-31T13:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/31/are-ai-chatbots-dead/"
+  - title: "Startup Superframe Raises $5 Million To Simplify Salesforce Configurations With AI Chatbot"
+    excerpt: "Superframe can do this because we are AI-first, not tied to a legacy product.” Steer was previously the CEO of business intelligence software company Mode Analytics, which was acquired by ThoughtSpot for $200 million. The startup is entering a ..."
+    publishedDateTime: 2023-08-31T21:17:00Z
+    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/08/31/startup-superframe-raises-5-million-to-simplify-salesforce-configurations-with-ai-chatbot/"
+    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/08/31/startup-superframe-raises-5-million-to-simplify-salesforce-configurations-with-ai-chatbot/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/08/31/startup-superframe-raises-5-million-to-simplify-salesforce-configurations-with-ai-chatbot/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
+    quality: 77
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64f1028a9ef9f51fa285cca1/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 698
+        isCached: true
+  - title: "Meet Superframe, the AI startup that wants to be your copilot for revenue operations"
+    excerpt: "Superframe, an AI-powered software company aiming to help businesses optimize their go-to-market technology stacks, announced it has raised $5 million in seed funding."
+    publishedDateTime: 2023-08-31T15:59:00Z
+    webUrl: "https://venturebeat.com/enterprise-analytics/meet-superframe-the-ai-startup-that-wants-to-be-your-copilot-for-revenue-operations/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 60
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/unnamed-3.jpg?w=1200&strip=all"
+        width: 1200
+        height: 697
+        isCached: true
+  - title: "IBM, Salesforce join forces in enterprise AI push"
+    excerpt: "The two companies are working together on several areas in the CRM value chain, including the integration of Salesforce offerings for sale via IBM’s consulting business."
+    publishedDateTime: 2023-08-31T17:01:00Z
+    webUrl: "https://www.computerworld.com/article/3706029/ibm-salesforce-join-forces-in-enterprise-ai-push.html"
+    ampWebUrl: "https://www.computerworld.com/article/3706029/ibm-salesforce-join-forces-in-enterprise-ai-push.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3706029/ibm-salesforce-join-forces-in-enterprise-ai-push.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/08/person-at-laptop-using-generative-ai-interface-by-amperespy44-via-shutterstock-100945121-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "IBM and Salesforce team up to bring AI tools to their shared clients"
+    excerpt: "IBM and Salesforce announced they are joining forces to bring Salesforce AI solutions to customers of both companies."
+    publishedDateTime: 2023-08-31T13:53:00Z
+    webUrl: "https://venturebeat.com/ai/ibm-and-salesforce-team-up-to-bring-ai-tools-to-their-shared-clients/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 47
-  - title: "Fraunhofer launches internal AI chatbot"
-    excerpt: "Gesellschaft, in collaboration with Microsoft, is one of the first research organizations in Europe to launch an internal AI chatbot that works similarly to OpenAI’s ChatGPT. The FhGenie generative AI solution lets employees securely create,"
-    publishedDateTime: 2023-08-31T09:21:00Z
-    webUrl: "https://sciencebusiness.net/network-updates/fraunhofer-launches-internal-ai-chatbot"
+  - title: "IBM and Salesforce Team Up To Help Businesses Accelerate Adoption of Trustworthy AI"
+    excerpt: "Tech giants collaborate to drive productivity and growth with generative AIARMONK, N.Y. and SAN FRANCISCO, Aug. 31, 2023 /PRNewswire/ -- Today,"
+    publishedDateTime: 2023-08-31T14:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-and-salesforce-team-up-to-help-businesses-accelerate-adoption-of-trustworthy-ai-1032596011"
     type: article
     provider:
-      name: Science|Business
-      domain: sciencebusiness.net
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
+  - title: "Salesforce In Artificial Intelligence Era, Personal Spending Rises But Income Falls, New Inflation Data"
+    excerpt: "Salesforce Inc CRM, an important software company that is also in Global X Dow 30 Covered Call ETF DJIA, reported better than expected earnings. There is excitement about Salesforce, as the company is now in the artificial intelligence era. About one half of the gain in DJIA this morning is due to the rise in CRM."
+    publishedDateTime: 2023-08-31T14:33:00Z
+    webUrl: "https://www.benzinga.com/23/08/34146322/salesforce-in-artificial-intelligence-era-personal-spending-rises-but-income-falls-new-inflation-dat"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34146322"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34146322"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
     images:
-      - url: "https://sciencebusiness.net/sites/default/files/inline-images/1080x450.png"
-        width: 1050
-        height: 450
+      - url: "https://cdn.benzinga.com/files/regularguy-eth-w9codxtsfts-unsplash_3.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Microsoft discontinues Visual Studio for Mac"
-    excerpt: "Microsoft has decided to discontinue Visual Studio for Mac. Support for the latest IDE version is guaranteed only through August 2024. According to"
-    publishedDateTime: 2023-08-31T13:21:00Z
-    webUrl: "https://www.techzine.eu/news/devops/110777/microsoft-discontinues-visual-studio-for-mac/"
+  - title: "IBM and Salesforce Partner To Help Businesses Accelerate Adoption of Trustworthy AI"
+    excerpt: "ARMONK, N.Y. and SAN FRANCISCO , Aug. 31, 2023 – – IBM and Salesforce announced a collaboration to help businesses worldwide across industries accelerate their adoption of AI for CRM. Together, the two companies support clients to revolutionize customer, partner and employee experiences, while helping safeguard their data."
+    publishedDateTime: 2023-08-31T17:07:00Z
+    webUrl: "https://www.datanami.com/this-just-in/ibm-and-salesforce-partner-to-help-businesses-accelerate-adoption-of-trustworthy-ai/"
     type: article
     provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 39
+      name: datanami.com
+      domain: datanami.com
+    quality: 33
     images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2021/04/shutterstock_1098133388-1.jpg"
-        width: 1000
-        height: 667
+      - url: "https://www.datanami.com/wp-content/uploads/2023/08/ibm-salesforce-300x234.png"
+        width: 300
+        height: 234
         isCached: true
-  - title: "SAP poaches Microsoft exec as its new global head of AI"
-    excerpt: "Sun replaces Feiyu Xu as SAP’s global head of AI. She joined the company in 2020, after a three-year stint in a similar role at Lenovo. Prior to that, she had worked for two decades at the German Research Center for Artificial Intelligence, DFKI."
-    publishedDateTime: 2023-09-01T12:00:00Z
-    webUrl: "https://www.cio.com/article/650918/sap-poaches-microsoft-exec-as-its-new-global-head-of-ai.html"
+  - title: "Ibm And Salesforce Team Up To Help Businesses Accelerate Adoption Of Trustworthy Ai"
+    excerpt: "Tech giants collaborate to drive productivity and growth with generative AI ARMONK, N.Y.<br />and SAN FRANCISCO, Aug. 31, 2023 /PRNewswire"
+    publishedDateTime: 2023-08-31T22:04:00Z
+    webUrl: "https://menafn.com/1106991298/Ibm-And-Salesforce-Team-Up-To-Help-Businesses-Accelerate-Adoption-Of-Trustworthy-Ai"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
-    quality: 36
-  - title: "Ally partners with Microsoft to leverage generative artificial intelligence"
-    excerpt: "Banks have been leveraging traditional artificial intelligence for years in ways such as predicting market trends and optimizing investment. But generative AI can produce its own data content to increase productivity for financial firms. That has led Ally ..."
-    publishedDateTime: 2023-09-01T18:53:00Z
-    webUrl: "https://www.bizjournals.com/charlotte/inno/stories/news/2023/09/01/ally-bank-generative-ai-platform-launch-microsoft.html"
+      name: Mena FN
+      domain: menafn.com
+    quality: 33
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?235416"
+        width: 375
+        height: 250
+        isCached: true
+  - title: "Marc Benioff touts AI push as Salesforce shows strong growth"
+    excerpt: "Salesforce on Wednesday reported fiscal second quarter profit that beat analyst estimates as CEO Marc Benioff relayed a message of AI transformation leading the company's growth."
+    publishedDateTime: 2023-08-30T22:02:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/08/30/salesforce-surpasses-wall-street-estimates.html"
     type: article
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 32
-  - title: "Microsoft Corporate VP, AI leader Dr. Peter Lee to join board of RTP-based Bionic Health"
-    excerpt: "RESEARCH TRIANGLE PARK — Bionic Health, an AI-powered personalized healthcare startup, announced today that Dr. Peter Lee, Corporate Vice President of Research and Incubations at Microsoft, has joined its Board of Directors. Dr. Lee is known for his ..."
-    publishedDateTime: 2023-08-30T12:30:00Z
-    webUrl: "https://wraltechwire.com/2023/08/30/microsoft-corporate-vp-ai-leader-dr-peter-lee-to-join-board-of-rtp-based-bionic-health/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 25
-  - title: "Chinese tech companies launch AI chatbots to public"
-    excerpt: "Chinese technology groups Baidu and ByteDance launched their artificial intelligence chatbots to the public on Thursday after receiving regulatory approval from Beijing."
-    publishedDateTime: 2023-08-31T07:58:00Z
-    webUrl: "https://www.ft.com/content/ea516e53-6a30-49a0-9e57-970cf5e8410c"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
     quality: 17
+  - title: "Salesforce revs its VC engine in the AI race"
+    excerpt: "Salesforce's offer to lead Hugging Face's Series D round didn't come with the highest valuation, Axios has learned, but the software giant managed to edge out several high-profile investors to seal the deal."
+    publishedDateTime: 2023-09-02T14:00:00Z
+    webUrl: "https://www.axios.com/2023/09/02/salesforce-artificial-intelligence-vc"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 17
+  - title: "Salesforce earnings will miss big AI bump, but there will be other things to love"
+    excerpt: "At the start of the year, Salesforce announced that it is looking ... \"So this story is somewhat driven by AI, like others, but it's more driven by continued cost rationalization. Check out the full CNBC interview below."
+    publishedDateTime: 2023-08-30T13:54:00Z
+    webUrl: "https://www.thestreet.com/technology/salesforce-earnings-will-miss-big-ai-bump-but-there-will-be-other-things-to-love"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 12
 
 secured: "doE7ZU1DZO5NsNTQxeUXaV6ha+I3JP9t7WlU26WPuawcgYTJiIz7G1Zh0cl2h+dywsKVliChKLgly6L69QNrG58cASgnm/SogbGZbaX8WDxpPNjWq7uUtigXfwiIeVOS4M1Z3esraUZy3nAlZlfPSMRAkJ8nVGA1rPk3u4TAJDiU+n6ik08bURj6YSpfecZbHe6F028/l4+yoFyGZ8bqVCQTuJsq1DoiwO5wYQUlbeQIu5Fl8C/UiwSkEBHSM+gS3JK41JM0AXeNDUgNEDsOJ+gSKIwT12UwcZVmc3hEnhI7B0OJvlbSwRiDRV4XiRH8E9ko/svNZ1OFHamaadgFR49IYj9t539Is7/tZoeZr3I=;9+mqqb7ZGcj12n0Rluhhgw=="
 ---

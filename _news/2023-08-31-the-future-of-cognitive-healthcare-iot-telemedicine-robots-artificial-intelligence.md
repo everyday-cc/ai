@@ -44,15 +44,6 @@ related:
         width: 925
         height: 611
         isCached: true
-  - title: "AI can change healthcare on 'planetary scale,' Google Health CEO says"
-    excerpt: "Karen DeSalvo, MD, Google's chief health officer, believes AI can revolutionize healthcare by expanding access to care, increasing suicide prevention efforts, a"
-    publishedDateTime: 2023-08-29T17:45:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-health/ai-can-change-healthcare-on-planetary-scale-google-health-ceo-says.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 34
 
 secured: "zQ3L3dVS1KKDnRlggotMMbtUQqiAONpnmUBIqxvyxb5YY/9FWEVyQ3H4d6/RR3z1m+rYx3VxujlYPX9yvH4auhDkXVfiSIV8E6GcKE+mZbVZ0uYc7idtnimlTCvaKrwdsXUe9Ee2wLtodPKjewLhgbJhvUTSF7JWJzRg4iG+HxinQPpAf1NJmDX6xEA/DPakCqtQX1Jz5jglXjB9hKv3GTXxPTkai7EW4FUpzYSmGkAHSdgOxKPiZOm/C201b8RATiRYkXg6r0LYhDnwrD6+ZOi1+6H3jaDWDyoXiVB72p3/GuYA8BdgcMoAiACQ+4VUaJBiluhZKIF7FBDrNC5Nt45wqG3zlaxBqH/j520zc+Q=;EKuNAYxb/IHYTD9lEBGUrA=="
 ---

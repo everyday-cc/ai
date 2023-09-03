@@ -68,6 +68,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "AI startup AI21 Labs valued at $1.4 bln after latest fund raise"
+    excerpt: "Aug 30 (Reuters) - Israel-based AI startup AI21 Labs said on Tuesday it has raised $155 million in a Series C funding round which saw participation from technology heavyweights Alphabet's GOOGL.O ..."
+    publishedDateTime: 2023-08-30T00:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/ai-startup-ai21-labs-valued-at-$1.4-bln-after-latest-fund-raise"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 47
   - title: "AI startup AI21 Labs valued at $1.4 billion after latest fund raise"
     excerpt: "Companies across the world, from banks to big tech, have doubled down on investments in artificial intelligence (AI) after ChatGPT, a generative AI chatbot by Microsoft-backed OpenAI took the world by storm in late 2022."
     publishedDateTime: 2023-08-31T01:08:00Z

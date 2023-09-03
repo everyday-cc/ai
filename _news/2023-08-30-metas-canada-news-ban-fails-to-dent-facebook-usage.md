@@ -57,15 +57,6 @@ related:
         width: 2560
         height: 1280
         isCached: true
-  - title: "Police force red-faced after major translation blunder on AI-generated Facebook posts"
-    excerpt: "Dyfed-Powys Police used an AI tool to create the Facebook posts and now people have called for the force to use a Welsh speaker instead of relying on a computer Dyfed-Powys Police used an AI tool to create the Facebook posts (WalesOnline/ Rob Browne) A ..."
-    publishedDateTime: 2023-08-29T18:57:00Z
-    webUrl: "https://www.mirror.co.uk/news/uk-news/police-force-red-faced-after-30810994.amp"
-    type: article
-    provider:
-      name: The Mirror
-      domain: mirror.co.uk
-    quality: 12
 
 secured: "+wCsE4mfAxamc2UdJ2ENDH8fV7LypduYultlx5Y6NtOJ6i+M6Zw/c8Rt615eya5Sa1qQF5gKfaiP0wGCfjHUqzC+tufrsi79ygf1uF/FiVeiNJ3Lhy5hOm1baK58VVGctdn8MYfLjU5OzTB4iBAHZxFGyf6xEw4JBQu0Nsr++45LpaCok8Au+wKn0eVZcEjpzPaYN37EKXc65JnO6MRJNg7jHEjFYsIvZjpiceISUD7ZsVZWdrtny8i5yZjy8DGYrNqWD7rgwcV7F9rntrs/EpVGMRtnkWt3LNDv+IOJEGTuhlAWelWsmKdgksqRG9gc4J95YdBaApz8KVWCtKT4bAo4XUHc8R5Db6xP/KXco0c=;/hzyVJK+CkGvNLmqmIJd9g=="
 ---
