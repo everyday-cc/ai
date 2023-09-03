@@ -44,6 +44,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "The US Copyright Office just took a big step toward new rules for generative AI"
+    excerpt: "US Copyright Office is seeking public comment on AI and copyright issues, particularly generative AI's use of copyrighted works."
+    publishedDateTime: 2023-08-30T21:02:00Z
+    webUrl: "https://www.businessinsider.com/us-copyright-office-new-rules-generative-ai-2023-8"
+    ampWebUrl: "https://www.businessinsider.com/us-copyright-office-new-rules-generative-ai-2023-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-copyright-office-new-rules-generative-ai-2023-8?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 83
+    images:
+      - url: "https://i.insider.com/64edd5319664cf0019e7f4fa?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "US Copyright Office issues notice of inquiry on artificial intelligence"
     excerpt: "The inquiry seeks information and comment on issues related to the content AI produces and how policy makers should treat AI that imitates or mimics human artists ..."
     publishedDateTime: 2023-08-30T17:01:00Z

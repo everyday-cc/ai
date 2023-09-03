@@ -55,6 +55,15 @@ related:
         width: 2121
         height: 1414
         isCached: true
+  - title: "Contextualization: The Key To Unlocking Generative AI's Potential"
+    excerpt: "This requires integrating large language models (LLM) with industry-specific AI/machine learning (ML ... content extraction, summarization, translation and knowledge management for LLMs. Moving away from the traditional seller-client model ..."
+    publishedDateTime: 2023-08-30T13:17:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/30/contextualization-the-key-to-unlocking-generative-ais-potential/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "The Fintech Revolution: Unraveling the Forces Reshaping Finance"
     excerpt: "Step into the dynamic world of fintech, where disruptive innovations are reshaping the financial landscape as we know it. In a society constantly craving innovation and convenience, the rapid ascent of top fintech companies comes as no surprise."
     publishedDateTime: 2023-09-01T17:56:00Z

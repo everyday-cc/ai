@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "What’s new in Data & AI: Extend the reach of AI with data connectors and integrations"
+    excerpt: "With a unified, intelligent data platform, organizations save on integration costs, improve their security posture, and enable more advanced AI capabilities. \nThe post What’s new in Data &amp; AI: Extend the reach of AI with data connectors and integrations appeared first on Azure Blog.\n"
+    publishedDateTime: 2023-08-29T15:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/whats-new-in-data-ai-extend-the-reach-of-ai-with-data-connectors-and-integrations/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 82
+    images:
+      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/08/Picture1-3.png"
+        width: 764
+        height: 563
+        isCached: true
   - title: "How the Medical Industry Could Produce the Biggest AI Stock Winners"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence could change our society significantly over the next"
     publishedDateTime: 2023-09-02T10:30:00Z

@@ -77,20 +77,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 64
-  - title: "IBM Embraces the Future of Tailored AI with watsonx Launch"
-    excerpt: "IBM today launched the first ad campaign to formally introduce watsonx, the company’s next generation enterprise-focused artificial intelligence and data platform. Global busine"
-    publishedDateTime: 2023-08-29T09:48:00Z
-    webUrl: "https://www.lbbonline.com/news/ibm-embraces-the-future-of-tailored-ai-with-watsonx-launch"
-    type: article
-    provider:
-      name: lbbonline
-      domain: lbbonline.com
-    quality: 54
-    images:
-      - url: "https://d3bzyjrsc4233l.cloudfront.net/news/watsonx.png"
-        width: 925
-        height: 521
-        isCached: true
 
 secured: "Jv8KPgjJfcAlHLeZaLHvJ8QLspNPEYMPi8L9A+G+teMzNPUqoT8r64dNFWwpJjVJmbmiZDOWRIS+eXlBDyjwNAncPhS//lk2kiYLdXxCuCqRHBbCPRe7P8R0brj8gh8EGT17dTOhqQc9PDjVrjTAIjGSmgMiu4u9Fx4r/+qVXHqGvXQtzDOyOzUacPMtIiRqVQWQS/Y48ppe8Dxt9x4r4W4THnVrE2yDNQtCC47vGMebUkhIqQXKsvxTZhmI4eZrXwqS09eQDA1uNQXO8Cnsvtzqe1+IPFWavkw+bCC+FKdDFfsU98h6cnR7+3phVFReSaJZrOmLMpZwh2ATx9XCoOIINtyYBBnbhlgVBDdLP8xGXTsC20oIr9cYNlwzLVzTCMpFADRq6rj9YFSiNuvgFIhuVJlomhnsJv9qYB2zTizTsBbEEboYEBZj3jEWPIInSVsNiz7q6l6FGOMxlClc6u4NMfMK6jNAweoQIWxQLO95vSqLuZuZBQ7iuxBSFnVrzshAYtxPCdVk7I+G54XrhA==;Ei3v6pwk4F5WS/4FCn6yTg=="
 ---

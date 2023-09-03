@@ -2,6 +2,40 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-08-25-the-i-have-a-dream-speech-would-not-have-happened-without-these-women.md",
+      "title": "The \"I Have a Dream\" speech would not have happened without these women",
+      "excerpt": "During Dr. King’s speech, Ms. Jackson, who stood to his left ... I like to think that they were influenced by these women who did not get the type of recognition and acknowledgment that they deserved.” Mr. Jones said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattlepi.com/news/article/the-i-have-a-dream-speech-would-not-have-18331469.php",
+      "originalUrl": "https://www.seattlepi.com/news/article/the-i-have-a-dream-speech-would-not-have-18331469.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-25T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "seattlepi.com",
+        "domain": "seattlepi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-25-the-ai-tech-in-the-new-tempo-move-really-does-enhance-your-home-workout.md",
       "title": "The AI tech in the new Tempo Move really does enhance your home workout",
       "excerpt": "Unlike a lot of Americans, I’ve been a home gym enthusiast since before the pandemic. After moving to a small mountain town with few gyms and even fewer childcare options, I knew I needed to come up with something that worked for me at home.",
@@ -617,58 +651,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-is-baidu-stock-a-buy-now.md",
-      "title": "Is Baidu Stock a Buy Now?",
-      "excerpt": "Baidu’s Q2 numbers easily beat analysts’ expectations. Its revenue growth is accelerating and its margins are expanding. The stock still looks cheap relative to its growth potential. Baidu's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/08/25/is-baidu-stock-a-buy-now/",
-      "originalUrl": "https://www.fool.com/investing/2023/08/25/is-baidu-stock-a-buy-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/745130/two-friends-phones.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-25T02:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },

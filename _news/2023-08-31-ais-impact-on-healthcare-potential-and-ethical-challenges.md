@@ -9,7 +9,7 @@ ampWebUrl: "http://myrepublica.nagariknetwork.com/amp/ai-s-impact-on-healthcare-
 cdnAmpWebUrl: "https://myrepublica-nagariknetwork-com.cdn.ampproject.org/c/myrepublica.nagariknetwork.com/amp/ai-s-impact-on-healthcare-potential-and-ethical-challenges/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Future of Cognitive Healthcare: IoT, Telemedicine, Robots & Artificial Intelligence"
+    excerpt: "Healthcare in the digital era is experimenting with adopting robotics to provide personal healthcare to patients in need. This technology enabled the healthcare industry to manage patients ..."
+    publishedDateTime: 2023-08-31T11:29:00Z
+    webUrl: "https://www.thehealthsite.com/diseases-conditions/the-future-of-cognitive-healthcare-iot-telemedicine-robots-artificial-intelligence-1005539/"
+    ampWebUrl: "https://www.thehealthsite.com/diseases-conditions/the-future-of-cognitive-healthcare-iot-telemedicine-robots-artificial-intelligence-1005539/amp/"
+    cdnAmpWebUrl: "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/diseases-conditions/the-future-of-cognitive-healthcare-iot-telemedicine-robots-artificial-intelligence-1005539/amp/"
+    type: article
+    provider:
+      name: TheHealthSite
+      domain: thehealthsite.com
+    quality: 83
+    images:
+      - url: "https://st1.thehealthsite.com/wp-content/uploads/2023/08/Untitled-62.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "AI can change healthcare on 'planetary scale,' Google Health CEO says"
     excerpt: "Karen DeSalvo, MD, Google's chief health officer, believes AI can revolutionize healthcare by expanding access to care, increasing suicide prevention efforts, a"
     publishedDateTime: 2023-08-29T17:45:00Z

@@ -353,15 +353,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Saudi Arabia and UAE race to buy Nvidia chips to power AI ambitions"
-    excerpt: "Saudi Arabian Crown Prince Mohammed bin Salman, left, and Nvidia chief Jensen Huang. The Gulf state’s interest in AI has sparked concerns over the technology’s ..."
-    publishedDateTime: 2023-08-29T09:52:00Z
-    webUrl: "https://www.ft.com/content/c93d2a76-16f3-4585-af61-86667c5090ba?sharetype=gift"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
   - title: "U.S. restricts export of Nvidia, AMD AI chips to Middle East"
     excerpt: "Nvidia’s CEO Jensen Huang :\"If [China] can’t buy from … the United States, they’ll just build it themselves. So the US has to be careful.\""
     publishedDateTime: 2023-08-31T14:29:00Z
@@ -398,15 +389,6 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 27
-  - title: "Nvidia, RA Capital invest in new Boston AI drug discovery company"
-    excerpt: "However, this isn’t the first life sciences company with an eye for AI that the chipmaker has funded. In July, Nvidia invested $50 million in drug discovery firm Recursion Pharmaceuticals Inc. The startup’s stock soared 80% following the announcement."
-    publishedDateTime: 2023-08-29T10:04:00Z
-    webUrl: "https://www.bizjournals.com/boston/inno/stories/fundings/2023/08/29/superluminal-launch-funding.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
   - title: "Google Cloud and NVIDIA Expand Partnership to Advance AI Computing, Software and Services"
     excerpt: "Google Cloud to gain access to NVIDIA DGX™ GH200 — Google Cloud will be one of the first companies in the world to have access to the NVIDIA DGX GH200 AI supercomputer — powered by the NVIDIA Grace Hopper™ Superchip — to explore its capabilities for generative AI workloads."
     publishedDateTime: 2023-08-29T19:46:00Z

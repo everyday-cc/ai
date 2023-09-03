@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-08-31-bringing-generative-ai-in-search-to-more-people-around-the-world.md",
+      "title": "Bringing generative AI in Search to more people around the world",
+      "excerpt": "We’re bringing generative AI capabilities in Search (SGE) to more people, making  Search Labs available in India and Japan.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/search/google-search-generative-ai-india-japan/",
+      "originalUrl": "https://blog.google/products/search/google-search-generative-ai-india-japan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 309,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SGE_Expansion_hero.width-1300.jpg",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/search/google-search-generative-ai-india-japan/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/google-search-generative-ai-india-japan/amp/",
+      "publishedDateTime": "2023-08-30T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-31-media-ai-startup-cohere-taps-banks-for-fresh-fundraising-round-bloomberg-news.md",
       "title": "MEDIA-AI Startup Cohere taps banks for fresh fundraising round - Bloomberg News",
       "excerpt": "Reuters has not verified this story and does not vouch for its accuracy",
@@ -104,7 +156,7 @@
       "originalUrl": "https://www.pcmag.com/news/nvidia-faces-more-restrictions-on-ai-chip-sales-this-time-in-the-middle",
       "featuredContent": null,
       "highlight": null,
-      "heat": 398,
+      "heat": 378,
       "tags": null,
       "images": [
         {
@@ -157,7 +209,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/08/rapid-growth-of-ai-systems-prompts-us-copyright-office-to-seek-public-input/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1182,58 +1234,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-08-30-the-generative-ai-revolution-a-paradigm-shift-in-work-culture.md",
-      "title": "The Generative AI Revolution: A Paradigm Shift In Work Culture",
-      "excerpt": "It carefully chooses the language, tone and style best suited for the intended ... With this as a starting point, generative AI becomes a skilled translator, converting these objectives into discernable search criteria and detailed role definitions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/30/the-generative-ai-revolution-a-paradigm-shift-in-work-culture/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/30/the-generative-ai-revolution-a-paradigm-shift-in-work-culture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64de2670c0104c27ef8801c6/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/30/the-generative-ai-revolution-a-paradigm-shift-in-work-culture/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/30/the-generative-ai-revolution-a-paradigm-shift-in-work-culture/amp/",
-      "publishedDateTime": "2023-08-30T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

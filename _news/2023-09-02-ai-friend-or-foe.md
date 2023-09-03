@@ -3,23 +3,22 @@ category: news
 title: "AI: Friend or Foe?"
 excerpt: "Dr. Michele Leno is interviewed about artificial intelligence."
 publishedDateTime: 2023-09-02T15:26:00Z
-originalUrl: "https://www.psychologytoday.com/intl/blog/from-margin-to-mainstream/202309/ai-friend-or-foe"
-webUrl: "https://www.psychologytoday.com/intl/blog/from-margin-to-mainstream/202309/ai-friend-or-foe"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/from-margin-to-mainstream/202309/ai-friend-or-foe?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/from-margin-to-mainstream/202309/ai-friend-or-foe?amp"
+originalUrl: "https://www.psychologytoday.com/za/blog/from-margin-to-mainstream/202309/ai-friend-or-foe"
+webUrl: "https://www.psychologytoday.com/za/blog/from-margin-to-mainstream/202309/ai-friend-or-foe"
+ampWebUrl: "https://www.psychologytoday.com/za/blog/from-margin-to-mainstream/202309/ai-friend-or-foe?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/from-margin-to-mainstream/202309/ai-friend-or-foe?amp"
 type: article
-quality: 61
-heat: 71
-published: true
+quality: 59
+heat: 69
+published: false
 
 provider:
   name: Psychology Today
   domain: psychologytoday.com
 
 topics:
-  - AI Ethics
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
   - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-09/2023-0901%20Leno%20Michele%20HEADSHOT%202.jpeg.jpg?itok=EMQ7Bsvr"
@@ -38,6 +37,6 @@ related:
       domain: psychologytoday.com
     quality: 21
 
-secured: "g8OT16Dzj4dCdrETa6O9YDcJmDZlYy4VRhpGOsmpYPP/zXgIRIT/QPmmkh/zPSAQmD9Begx8VJK+roc9Vob/f+0I/+rYXBb/0zgLH6+e0EFsLXQ3sCTzyulvkSZR9dNmm+bADazJv0PHW/Ogb9fzknmJ/GJURudH8t0CmWr3UG6mde1/USgBYAgg7tSxVZGPFPnxIQWS7Ssan+4hVWmaBX4XMzgN4jI0ke7kYJ5FS7gSHBxPBxKExqS3heZ8qPf+QcaegGM/sg4FixPx6xzLWUuXB0RTRIktqIMzXHUqqnTxaw/cuvfHDzutqm5v4adAxo0NSyfzXaY9zy/1CBjGhNVqli5DBaZc682hXveQ1RQ=;RDwep2/yExhPFx2nMPKN0g=="
+secured: "8xre0jko/t/fRdPRXGod64rm5tVLcwY/NA9ULlwxPtDNXS+LL7hs7YndSct+48n+9p8NNzeBjQD9DKn9erxjyq3GBEvihbZifMVU3n794g9zWfDbqPmCCr6rhfZjmgXoo6z9siAKFehUpcVYvhxEJ+Z8EfHZim4uqsAtVmk2AI8yi5t6+Gz52POSXpqpKciFpR+hNIazOS52ebf6uzvCjzP7WsBEOh9scX1XJkVdZuJbpgnggar9zab5FnLhPP2EQL3B62KmUrQNawwscf8G/LqoE65irLTmy3srpDbrl4OKmaKOFzOkOP3GHRZeSiYYblLDMXKF0uNvOAmpVhB9vqz9pKQXtfc0LQe/Bsbk6gw=;8HLtE7YCduEow0yBmKsnpw=="
 ---
 

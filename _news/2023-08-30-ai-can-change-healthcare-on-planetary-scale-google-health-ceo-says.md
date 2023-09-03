@@ -35,6 +35,22 @@ related:
         width: 925
         height: 611
         isCached: true
+  - title: "The Future of Cognitive Healthcare: IoT, Telemedicine, Robots & Artificial Intelligence"
+    excerpt: "Healthcare in the digital era is experimenting with adopting robotics to provide personal healthcare to patients in need. This technology enabled the healthcare industry to manage patients ..."
+    publishedDateTime: 2023-08-31T11:29:00Z
+    webUrl: "https://www.thehealthsite.com/diseases-conditions/the-future-of-cognitive-healthcare-iot-telemedicine-robots-artificial-intelligence-1005539/"
+    ampWebUrl: "https://www.thehealthsite.com/diseases-conditions/the-future-of-cognitive-healthcare-iot-telemedicine-robots-artificial-intelligence-1005539/amp/"
+    cdnAmpWebUrl: "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/diseases-conditions/the-future-of-cognitive-healthcare-iot-telemedicine-robots-artificial-intelligence-1005539/amp/"
+    type: article
+    provider:
+      name: TheHealthSite
+      domain: thehealthsite.com
+    quality: 83
+    images:
+      - url: "https://st1.thehealthsite.com/wp-content/uploads/2023/08/Untitled-62.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "0CoRzuqSJrDoH13NN2fzhwhVxMRom4EwLdUquFz6SVLw4kGJaIrLIZgVBtPOcGTsdP2QHqdf019gvq7lvf+/otQ6YuYwKQNLx2lL6w02O5T/80nx7SFKyGi+SHoUboEArUyr39d9GP9rC2OVRUN995IL1V64pwe47ACYYTfTwoBflxR45IQnon1kGPMkqlQRfy2mcfXjJQWk7AKLcuIBMJj49sQtkbZ/qYYSKP/m55LkBXVk4/8GCCR1YHSWidl3+KK+prG0cwyOYJitMM4jsDvE1s35MrZQuscAN1bBuYBsjGVgO4TCa5wojsKjvdmHkXgcUCS7y16yYRFkh6zy044xWyVehR29VAgNp2rOC2g=;eZkifW3sid55QR1txAa9jA=="
 ---

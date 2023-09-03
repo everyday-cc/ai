@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-23-ai-robots-poised-to-take-over-english-language-instruction-for-young-students.md",
+      "title": "AI Robots Poised to Take Over English Language Instruction for Young Students",
+      "excerpt": "Share with friendsAmidst a wave of controversy over using chatbots in the classroom, real robots are now taking over. Curiosity Robotics has recently launched “Aico”— a friendly robot that uses Artificial Intelligence (AI) to help children learn English as a second language.",
+      "sourceUrl": null,
+      "webUrl": "https://gvwire.com/2023/08/22/ai-robots-poised-to-take-over-english-language-instruction-for-young-students/",
+      "originalUrl": "https://gvwire.com/2023/08/22/ai-robots-poised-to-take-over-english-language-instruction-for-young-students/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gvwire.s3.us-west-1.amazonaws.com/wp-content/uploads/2023/08/22112132/AP368756065526814-1000x600.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gvwire.com/2023/08/22/ai-robots-poised-to-take-over-english-language-instruction-for-young-students/?amp=1",
+      "cdnAmpWebUrl": "https://gvwire-com.cdn.ampproject.org/c/s/gvwire.com/2023/08/22/ai-robots-poised-to-take-over-english-language-instruction-for-young-students/?amp=1",
+      "publishedDateTime": "2023-08-22T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bill McEwen",
+        "domain": "gvwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-23-rise-of-the-robots-the-new-ai-tech-poised-to-take-over-classrooms.md",
       "title": "Rise of The Robots: The New AI Tech Poised To Take Over Classrooms",
       "excerpt": "Curiosity Robotics plans on taking the robotic helper to more schools across Israel and abroad. Undaunted by any current backlash to AI, the ambitious start-up is “committed to transforming ...",
@@ -1341,50 +1384,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-mountain-view-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon.md",
-      "title": "Mountain View Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!",
-      "excerpt": "MOUNTAIN VIEW, Calif., Aug. 10, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by ThoughtSpot in Mountain View. Applications for the no-cost bootcamp are closing soon!",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/mountain-view-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon-1032542192",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/mountain-view-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon-1032542192",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 341,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-10T14:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

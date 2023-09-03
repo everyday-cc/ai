@@ -1,26 +1,30 @@
 ---
 category: news
 title: "IBM and Salesforce Team Up To Help Businesses Accelerate Adoption of Trustworthy AI"
-excerpt: "Tech giants collaborate to drive productivity and growth with generative AIARMONK, N.Y. and SAN FRANCISCO, Aug. 31, 2023 /PRNewswire/ -- Today,"
-publishedDateTime: 2023-08-31T14:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-and-salesforce-team-up-to-help-businesses-accelerate-adoption-of-trustworthy-ai-1032596011"
-webUrl: "https://markets.businessinsider.com/news/stocks/ibm-and-salesforce-team-up-to-help-businesses-accelerate-adoption-of-trustworthy-ai-1032596011"
+excerpt: "ARMONK, N.Y. and SAN FRANCISCO, Aug. 31, 2023 /PRNewswire/ -- Today, IBM IBM and Salesforce CRM announced a collaboration to help businesses worldwide across industries accelerate their adoption ..."
+publishedDateTime: 2023-08-31T12:17:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/08/n34140555/ibm-and-salesforce-team-up-to-help-businesses-accelerate-adoption-of-trustworthy-ai"
+webUrl: "https://www.benzinga.com/pressreleases/23/08/n34140555/ibm-and-salesforce-team-up-to-help-businesses-accelerate-adoption-of-trustworthy-ai"
+ampWebUrl: "https://www.benzinga.com/amp/content/34140555"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34140555"
 type: article
-quality: 43
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - IBM AI
   - AI
+
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
 
 related:
   - title: "Startup Superframe Raises $5 Million To Simplify Salesforce Configurations With AI Chatbot"
@@ -150,6 +154,6 @@ related:
       domain: thestreet.com
     quality: 12
 
-secured: "nJaWMYAFAzJQshfXYvQCfAqjstv/yATmb6EuNWNosgU9i07QCxZCSc0vbmq1VeTHXr6SY15F8jbFYn38hTMQT+Le77xX/MhCWD8Z1DQEkShQJRju4dog1Sewq/mI7x10PSB3Z/tLlY1Wf3rn4m97rVu/oeiMuL0sa51T8LXjmvuGaYsCs2tPV6cc+XH5cVSQCYoV8Vop+kbTmqJfpetP8ytHXLQhUoNWoKmene2Dx8oSTy601QxGVVGbu0FhA11zs5M+JRIS9ZUZ0eJODyJsFKPz8h04uKqvCEqe6H2a/Q9FG3UgH0M/7F7RMwWXh6/ArhoMBfl4GC2hdd4c9gpah8z4x9A9Nm3smV/tG6OsgE6ie79r3xglSxKgh6RKMYu1o6aWfiE1rQx6QdDRB7hmL2HAzSzEMisRM8KKERzO9IqK+jQjJ7Px/wOpPgFdPInBwqIpkFJM9Hl8lZLdsOKSbyct3VU17GCjMM5c3iQ9yoLS3mfZX8vEaMiF/E6V4rYlmeYKYFGo8KASqZ6SMyyXwg==;VAFZsr/HmXaTDaYnoYZwZA=="
+secured: "DQ+J+4/Fcn2KYEscIT5Y9oysBzLntlsjJ/e0ccHZgGBtCB6+8+YkDddoxbu5U3ugMYBC7OERwZjKqU83Rd8h2mwL0oHe6rFF6idPOIaGCZNdmT/plTbQenyFdPxhYXi4esR8GqZzf/S9CV+vOeeTq4FPYQ6fJ10v8co84ljqyQ3IF6MGzavkBZvAJvpOiWBhPkxx92YqgGl2KB7oejY9cD+3Tv8At+RB82iLiDwRQuaHYuI0GnrVJ4llJNIA2LQl/bv9RcEVwElBQ7gkCLrk708d33cBxnxBLO8w9UHvvY8iG8wynhdQpAuILGnBH21DMQgo9qvt6aF7AMbTK+gO9JFyQOChBinFTR6Zl/ql/LU=;NHcbCqGgvMs+LIFV+oa+AQ=="
 ---
 

@@ -63,20 +63,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "IBM Embraces the Future of Tailored AI with watsonx Launch"
-    excerpt: "IBM today launched the first ad campaign to formally introduce watsonx, the company’s next generation enterprise-focused artificial intelligence and data platform. Global busine"
-    publishedDateTime: 2023-08-29T09:48:00Z
-    webUrl: "https://www.lbbonline.com/news/ibm-embraces-the-future-of-tailored-ai-with-watsonx-launch"
-    type: article
-    provider:
-      name: lbbonline
-      domain: lbbonline.com
-    quality: 54
-    images:
-      - url: "https://d3bzyjrsc4233l.cloudfront.net/news/watsonx.png"
-        width: 925
-        height: 521
-        isCached: true
   - title: "VMware Introduces Frameworks And Services At Explore Conference To Enable Enterprise Adoption Of Generative AI"
     excerpt: "Ranked Industry Analyst Patrick Moorhead unpacks VMware's approach to generative AI based on the VMware Explore 2023 event and his conversations with executives."
     publishedDateTime: 2023-08-31T19:00:00Z

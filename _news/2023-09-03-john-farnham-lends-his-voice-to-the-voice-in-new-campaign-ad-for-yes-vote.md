@@ -24,7 +24,7 @@ related:
   - title: "'This song changed my life': John Farnham's hope as he lends his voice to push for recognition of Indigenous Australians"
     excerpt: "Legendary Australian singer John Farnham has lent his support to the Yes campaign, allowing it to use You're the Voice in ads pushing for people to vote in favour of Indigenous recognition."
     publishedDateTime: 2023-09-03T01:51:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/this-song-changed-my-life-john-farnhams-hope-as-he-lends-his-voice-to-push-for-recognition-of-indigenous-australians/news-story/3ebffbc03d5f4f9dc27bd8de27d96d12"
+    webUrl: "https://www.skynews.com.au/australia-news/this-song-changed-my-life-john-farnhams-hope-as-he-lends-his-voice-to-push-for-recognition-of-indigenous-australians/news-story/3ebffbc03d5f4f9dc27bd8de27d96d12"
     ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/this-song-changed-my-life-john-farnhams-hope-as-he-lends-his-voice-to-push-for-recognition-of-indigenous-australians/news-story/3ebffbc03d5f4f9dc27bd8de27d96d12?amp"
     cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/this-song-changed-my-life-john-farnhams-hope-as-he-lends-his-voice-to-push-for-recognition-of-indigenous-australians/news-story/3ebffbc03d5f4f9dc27bd8de27d96d12?amp"
     type: article
@@ -37,6 +37,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Penny Wong: Voting Yes on the Voice is a vote for recognition"
+    excerpt: "The Statement made the modest ask for recognition of this land’s First Peoples in the constitution through a Voice to parliament. Australian Foreign Minster Penny Wong. Picture: Pat Hoelscher / AFP The Voice will offer ideas and advice, so governments ..."
+    publishedDateTime: 2023-08-30T08:19:00Z
+    webUrl: "https://www.news.com.au/national/south-australia/penny-wong-voting-yes-on-the-voice-is-a-vote-for-recognition/news-story/38cbb8829a7f10dcae7e0bf47c258318"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 4
 
 secured: "+9Ry85DlbmMdgrv0mguAhmbOtRxDFYyxdjcAp1KLjhXt4T9KEBgrztYhm6AjMt482e4tfGlt0SYbHGX/RQtdyiPUFj/MfR2Pa+OO8bz2i8VX5yICebW5p322AR9G1wrCNn5jObEHm0OsK9nIsdp6E7Y5sIQLfxEpQvX2tJqdQf1IK5ZRKuQ35aLjdW0xKsBmGk3sCKEiMHSPi0osFt/N8jzWafaBK/IyLwOGrjRgtDuHBqUj/9vtwX5uBZPsWiJODMW+BEJyFM9KD8ziEliv39c4PxXYqofldjnqzwBCP/NLfT1suWyxCArPBg7PlkB9xqzA8yGbjSQbKMMhcS/0b/2yHf+fbBYO1MFc08dfUlg=;xTSm9B/wV2gV4B2N8cJboQ=="
 ---

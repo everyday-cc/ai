@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/31/five-l
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/31/five-lessons-learned-on-using-ai-in-hr-and-compliance/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://photos5.appleinsider.com/gallery/56062-113816-Apple-Siri-xl.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "The Rise Of AI And Its Implications For Gaming"
+    excerpt: "and raising many questions in relation to ethics, technology, productivity, creativity, and the value of time. While AI is a cause of concern for many industries, gaming has been incorporating it for quite a while now, in terms of procedural generation ..."
+    publishedDateTime: 2023-08-30T16:40:00Z
+    webUrl: "https://www.benzinga.com/23/08/34120429/the-rise-of-ai-and-its-implications-for-gaming"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34120429"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34120429"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://cdn.benzinga.com/files/ai-in-gaming-main-1600-1_2.jpg?width=1200&height=800&fit=crop"
+        width: 1050
+        height: 700
         isCached: true
   - title: "How AI and machine learning will revolutionize investing decisions"
     excerpt: "Columbia University professor Michael Robbins says the sky is the limit for artificial intelligence once the technology evolves"

@@ -71,6 +71,15 @@ related:
         width: 350
         height: 393
         isCached: true
+  - title: "Deep learning used by seismologists to improve prediction of earthquakes: Study"
+    excerpt: "The models flexibility could open up new possibilities for earthquake forecasting. With the ability to adapt to large amounts of new data, models that use deep learning could potentially incorporate information from multiple regions at once to make better forecasts about poorly studied areas."
+    publishedDateTime: 2023-09-03T03:17:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20230902/4114933.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 15
 
 secured: "BL8sN4Ci22mdvhYePEn4pG49Vth/8khKE12vnnifegVSmbSYOLiO45Z5wdvKY7Cjk+MSPNcyxmlmR+GEDH4nf+w+Ehdi4g42+I6SoBov3D/ATdUeZZHRvGzI092bDq6hUVw4CFAbQcIWO7LQZG//z77uCyx+ukHiqddb/K7j56DmtID3XRQ7jAeqi2PA0/tLp+c/pVl0mbyhhcHMmrEYlv+N3Wyzjgs7YNnvbQfOGfAQ31UdDdN9q1BzyUcGtF6lbZxfsnNkFnFL6HRmHguyXHZTOilNXL2EcWFQlP+KzChRp/YwF4FbYaEbK4BC5s2NQ1AprMjT57N4QpTJUb4USKHnw1IElAerma+P70euaHS+CJsTkBGufU56xWa37sS75640xFpzGPknVieOZbslSxOSKLljK6p43YgaRaFisIP9BQwr0Hswv5os4BCC+hNbT3721ERuX641eS8Y/tcU8FDOVffZql3uuxfOTv14pPQvI+JZZjZ0z0y739SVSAt3mjly0edM1uSWi3up3Z8F4A==;CvaGc9UMSiKzeslAlFHDEw=="
 ---

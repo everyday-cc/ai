@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-06-18-how-understanding-horses-could-inspire-more-trustworthy-robots.md",
+      "title": "How understanding horses could inspire more trustworthy robots",
+      "excerpt": "Sensible and highly trained, these horses remind computer scientist and roboticist Eakta Jain of fully autonomous robots ... two or three has adaptive cruise control, the ability to follow ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencenews.org/article/horses-humans-robots-technology",
+      "originalUrl": "https://www.sciencenews.org/article/horses-humans-robots-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sciencenews.org/wp-content/uploads/2023/06/060723_rc_horse_feat.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-18T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science News",
+        "domain": "sciencenews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-17-robot-control-system-market-outlook-future-business-scope-2023-2081.md",
       "title": "Robot Control System Market Outlook| Future business Scope| 2023-2081",
       "excerpt": "Jun 16, 2023 (The Expresswire) -- 99 Pages Report: Latest Report of Robot Control System Market 2023 The Global \"Robot Control System Market\"research report [2023-2030] is a valuable resource for ...",
@@ -1398,50 +1441,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-apple-displaced-as-top-holding-by-ai-play-big-tech-in-robot-run-large-cap-etf.md",
-      "title": "Apple Displaced As Top Holding By AI-Play Big Tech In Robot-Run Large-Cap ETF",
-      "excerpt": "The company’s potential to leverage its AI capabilities into standard features within every iPhone, iPad, and MacBook, including object and person recognition tools, could position it as a significant player in the AI space. The intensifying AI battle ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/23/06/32778787/apple-displaced-as-top-holding-by-ai-play-big-tech-in-robot-run-large-cap-etf",
-      "originalUrl": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/23/06/32778787/apple-displaced-as-top-holding-by-ai-play-big-tech-in-robot-run-large-cap-etf",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/TCS_Invests_In_AI_1.jpeg?width=1200&height=800&fit=crop",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32778787",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32778787",
-      "publishedDateTime": "2023-06-08T20:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

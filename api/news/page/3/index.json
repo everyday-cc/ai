@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2023-08-31-ais-impact-on-the-future-of-consumer-behavior-and-expectations.md",
+      "title": "AI's Impact On The Future Of Consumer Behavior And Expectations",
+      "excerpt": "With increasing awareness about data’s value, businesses need to handle customer information responsibly and transparently.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/31/ais-impact-on-the-future-of-consumer-behavior-and-expectations/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/31/ais-impact-on-the-future-of-consumer-behavior-and-expectations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63d020172f02c16abf766ed0/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 796,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-31T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-31-accessing-your-on-premises-network-and-ibm-cloud-vpc-using-a-single-vpn-connection.md",
       "title": "Accessing your on-premises network and IBM Cloud VPC using a single VPN connection",
       "excerpt": "How to connect to your IBM Cloud and on-premises environments using a single Client-to-Site VPN connection.\nThe post Accessing your on-premises network and IBM Cloud VPC using a single VPN connection appeared first on IBM Blog.\n",
@@ -230,7 +282,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/31/five-lessons-learned-on-using-ai-in-hr-and-compliance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -386,7 +438,7 @@
       "originalUrl": "https://www.ibm.com/blog/ibm-watsonx-assistant-transforms-content-into-conversational-answers-with-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 176,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -620,7 +672,7 @@
       "originalUrl": "https://www.entrepreneur.com/en-in/news-and-trends/hr-tech-startup-mywaysai-secures-80-lakh-in-seed-funding/458287",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -859,7 +911,7 @@
       "originalUrl": "https://myrepublica.nagariknetwork.com/news/ai-s-impact-on-healthcare-potential-and-ethical-challenges/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1141,58 +1193,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-bringing-generative-ai-in-search-to-more-people-around-the-world.md",
-      "title": "Bringing generative AI in Search to more people around the world",
-      "excerpt": "We’re bringing generative AI capabilities in Search (SGE) to more people, making  Search Labs available in India and Japan.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/search/google-search-generative-ai-india-japan/",
-      "originalUrl": "https://blog.google/products/search/google-search-generative-ai-india-japan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 309,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SGE_Expansion_hero.width-1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/search/google-search-generative-ai-india-japan/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/google-search-generative-ai-india-japan/amp/",
-      "publishedDateTime": "2023-08-30T17:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

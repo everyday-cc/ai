@@ -237,6 +237,50 @@
       ]
     },
     {
+      "path": "_news/2023-08-30-precision-and-progress-surgical-robots-drive-growth-in-the-global-healthcare-robotics-market.md",
+      "title": "Precision And Progress: Surgical Robots Drive Growth In The Global Healthcare Robotics Market",
+      "excerpt": "Continuresearch and development efforts in healthcare robots result in technological advances and new inventions. From better imaging and sensors to the incorporation of artificial intelligence and machine learning, these advancements improve the ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1106983372/Precision-And-Progress-Surgical-Robots-Drive-Growth-In-The-Global-Healthcare-Robotics-Market",
+      "originalUrl": "https://menafn.com/1106983372/Precision-And-Progress-Surgical-Robots-Drive-Growth-In-The-Global-Healthcare-Robotics-Market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?507904",
+          "width": 284,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-29T18:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-08-30-partner-helper-or-boss-we-asked-chatgpt-to-design-a-robot-and-this-happened.md",
       "title": "Partner, helper, or boss? We asked ChatGPT to design a robot and this happened",
       "excerpt": "Researchers who designed and built a tomato-picking robot together with ChatGPT have demonstrated some crucial lessons for the future of human-AI collaboration.",
@@ -457,40 +501,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-ai-brings-the-robot-wingman-to-aerial-combat.md",
-      "title": "AI Brings the Robot Wingman to Aerial Combat",
-      "excerpt": "Artificial intelligence (AI) operates the U.S. Air Force's pilotless XQ-58A Valkyrie experimental aircraft, which the military envisions as a next-generation robot wingman for traditional fighter jets.",
-      "sourceUrl": null,
-      "webUrl": "https://cacm.acm.org/news/275827-ai-brings-the-robot-wingman-to-aerial-combat/fulltext",
-      "originalUrl": "https://cacm.acm.org/news/275827-ai-brings-the-robot-wingman-to-aerial-combat/fulltext",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-28T09:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "acm.org",
-        "domain": "acm.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -769,6 +779,40 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-28-ai-brings-the-robot-wingman-to-aerial-combat.md",
+      "title": "AI Brings the Robot Wingman to Aerial Combat",
+      "excerpt": "What distinguishes the Air Force’s pilotless XQ-58A Valkyrie experimental aircraft is that it is run by artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/nation-world/ai-brings-the-robot-wingman-to-aerial-combat/",
+      "originalUrl": "https://www.seattletimes.com/nation-world/ai-brings-the-robot-wingman-to-aerial-combat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattletimes.com/nation-world/ai-brings-the-robot-wingman-to-aerial-combat/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/ai-brings-the-robot-wingman-to-aerial-combat/?amp=1",
+      "publishedDateTime": "2023-08-27T15:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1327,49 +1371,6 @@
       "provider": {
         "name": "The Globe and Mail",
         "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-ai-robots-poised-to-take-over-english-language-instruction-for-young-students.md",
-      "title": "AI Robots Poised to Take Over English Language Instruction for Young Students",
-      "excerpt": "Share with friendsAmidst a wave of controversy over using chatbots in the classroom, real robots are now taking over. Curiosity Robotics has recently launched “Aico”— a friendly robot that uses Artificial Intelligence (AI) to help children learn English as a second language.",
-      "sourceUrl": null,
-      "webUrl": "https://gvwire.com/2023/08/22/ai-robots-poised-to-take-over-english-language-instruction-for-young-students/",
-      "originalUrl": "https://gvwire.com/2023/08/22/ai-robots-poised-to-take-over-english-language-instruction-for-young-students/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gvwire.s3.us-west-1.amazonaws.com/wp-content/uploads/2023/08/22112132/AP368756065526814-1000x600.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gvwire.com/2023/08/22/ai-robots-poised-to-take-over-english-language-instruction-for-young-students/?amp=1",
-      "cdnAmpWebUrl": "https://gvwire-com.cdn.ampproject.org/c/s/gvwire.com/2023/08/22/ai-robots-poised-to-take-over-english-language-instruction-for-young-students/?amp=1",
-      "publishedDateTime": "2023-08-22T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bill McEwen",
-        "domain": "gvwire.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -57,6 +57,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "The Rise Of AI And Its Implications For Gaming"
+    excerpt: "and raising many questions in relation to ethics, technology, productivity, creativity, and the value of time. While AI is a cause of concern for many industries, gaming has been incorporating it for quite a while now, in terms of procedural generation ..."
+    publishedDateTime: 2023-08-30T16:40:00Z
+    webUrl: "https://www.benzinga.com/23/08/34120429/the-rise-of-ai-and-its-implications-for-gaming"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34120429"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34120429"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://cdn.benzinga.com/files/ai-in-gaming-main-1600-1_2.jpg?width=1200&height=800&fit=crop"
+        width: 1050
+        height: 700
+        isCached: true
   - title: "Local experts weigh in on affects of artificial intelligence and machine learning"
     excerpt: "With the rise of machine learning through ChatGPT and other artificial intelligence systems, there are positive and negative implications that can affect how local city government and municipalities operate,"
     publishedDateTime: 2023-08-29T22:55:00Z

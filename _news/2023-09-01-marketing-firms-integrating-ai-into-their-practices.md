@@ -25,21 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Harnessing AI In The Recruitment Process Is Increasingly Important For Companies"
-    excerpt: "Many companies struggle with hiring great candidates because they are not messaging the right candidates and/or they are not messaging them correctly."
-    publishedDateTime: 2023-09-01T08:26:00Z
-    webUrl: "https://www.forbes.com/sites/zengernews/2023/09/01/harnessing-ai-in-the-recruitment-process-is-increasingly-important-for-companies/"
-    ampWebUrl: "https://www.forbes.com/sites/zengernews/2023/09/01/harnessing-ai-in-the-recruitment-process-is-increasingly-important-for-companies/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zengernews/2023/09/01/harnessing-ai-in-the-recruitment-process-is-increasingly-important-for-companies/amp/"
+  - title: "Workers Taking Wellness Into Their Own Hands Using AI-Backed Mental Health"
+    excerpt: "Artificial intelligence and mental health might be an odd coupling, but employees are using the new technology to take control of their mental health."
+    publishedDateTime: 2023-09-02T10:47:00Z
+    webUrl: "https://www.forbes.com/sites/bryanrobinson/2023/09/02/workers-taking-wellness-into-their-own-hands-using-ai-backed-mental-health/"
+    ampWebUrl: "https://www.forbes.com/sites/bryanrobinson/2023/09/02/workers-taking-wellness-into-their-own-hands-using-ai-backed-mental-health/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bryanrobinson/2023/09/02/workers-taking-wellness-into-their-own-hands-using-ai-backed-mental-health/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 82
+    quality: 85
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64ef5c7368a912b40c1e813e/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64dcc56ee715cb3003d8ae1f/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 1178
+        height: 604
+        isCached: true
+  - title: "4 Innovative Startup Opportunities In Wellness And Mental Health"
+    excerpt: "In this article we dive into four niches that are reshaping the wellbeing industry and explore how startups are carving their own niche in this area."
+    publishedDateTime: 2023-08-31T15:00:00Z
+    webUrl: "https://www.forbes.com/sites/abdoriani/2023/08/31/4-innovative-startup-opportunities-in-wellness-and-mental-health/"
+    ampWebUrl: "https://www.forbes.com/sites/abdoriani/2023/08/31/4-innovative-startup-opportunities-in-wellness-and-mental-health/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/abdoriani/2023/08/31/4-innovative-startup-opportunities-in-wellness-and-mental-health/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 72
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64f0aacb036080cf95b575a3/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "3PWTlOloV0tC1UUJ40VlHSHkK0TbZWsdZ+e1RenatuUt0YwfZwd8r59K3BYBCzJx3sGkKriTU86SiCWZpcxy5byA7k+yRa/CJL2NSaWiVu9GYPNKjWhIxZWStfJ5BbU7knKmPI28a7V3k7AP72ZWsSpQVi4zO5LpW6mtJcSCiQ3LB2Ca17K1wY/7k81gM10HyIKrxphDxFqjCyk7Ph9u9nhkItc1xZS/E2o9BJzRrno0owA7beyorIJsAqua5AvUHOY3D4pm/QUHBYhHwqe4JFokfH6yLIo7VVk1XKkyfj514bpGCMbEMD3XBj6fUCXApwajLZRzypJo9wIVaXjuYCAw02Za6HH5g+cC/GrfosY=;0kzFUo5QHpnw05SbxsLBwA=="

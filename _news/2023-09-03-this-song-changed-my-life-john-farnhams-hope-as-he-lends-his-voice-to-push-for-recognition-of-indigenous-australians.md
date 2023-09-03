@@ -3,8 +3,8 @@ category: news
 title: "'This song changed my life': John Farnham's hope as he lends his voice to push for recognition of Indigenous Australians"
 excerpt: "Legendary Australian singer John Farnham has lent his support to the Yes campaign, allowing it to use You're the Voice in ads pushing for people to vote in favour of Indigenous recognition."
 publishedDateTime: 2023-09-03T01:51:00Z
-originalUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/this-song-changed-my-life-john-farnhams-hope-as-he-lends-his-voice-to-push-for-recognition-of-indigenous-australians/news-story/3ebffbc03d5f4f9dc27bd8de27d96d12"
-webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/this-song-changed-my-life-john-farnhams-hope-as-he-lends-his-voice-to-push-for-recognition-of-indigenous-australians/news-story/3ebffbc03d5f4f9dc27bd8de27d96d12"
+originalUrl: "https://www.skynews.com.au/australia-news/this-song-changed-my-life-john-farnhams-hope-as-he-lends-his-voice-to-push-for-recognition-of-indigenous-australians/news-story/3ebffbc03d5f4f9dc27bd8de27d96d12"
+webUrl: "https://www.skynews.com.au/australia-news/this-song-changed-my-life-john-farnhams-hope-as-he-lends-his-voice-to-push-for-recognition-of-indigenous-australians/news-story/3ebffbc03d5f4f9dc27bd8de27d96d12"
 ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/this-song-changed-my-life-john-farnhams-hope-as-he-lends-his-voice-to-push-for-recognition-of-indigenous-australians/news-story/3ebffbc03d5f4f9dc27bd8de27d96d12?amp"
 cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/this-song-changed-my-life-john-farnhams-hope-as-he-lends-his-voice-to-push-for-recognition-of-indigenous-australians/news-story/3ebffbc03d5f4f9dc27bd8de27d96d12?amp"
 type: article
@@ -38,7 +38,16 @@ related:
       name: Couriermail
       domain: news.com.au
     quality: 38
+  - title: "Penny Wong: Voting Yes on the Voice is a vote for recognition"
+    excerpt: "The Statement made the modest ask for recognition of this land’s First Peoples in the constitution through a Voice to parliament. Australian Foreign Minster Penny Wong. Picture: Pat Hoelscher / AFP The Voice will offer ideas and advice, so governments ..."
+    publishedDateTime: 2023-08-30T08:19:00Z
+    webUrl: "https://www.news.com.au/national/south-australia/penny-wong-voting-yes-on-the-voice-is-a-vote-for-recognition/news-story/38cbb8829a7f10dcae7e0bf47c258318"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 4
 
-secured: "j1Il4VMcb+AaOVHHeWtBzqhYkb8RLHOxBApx6cPjlk00vUcXgKLSXShvoI6F2rkiBucUa7R8WIBXb5fmPgVDjrG162BsyjEz+fBaN513dUCAZ052nFFmVy9vMlYFO3gW+T5EcdSnTTo8gc3oJQsZOXKdk8bZaMiihhBJ4kBQijFP13l3wPgs3YXmCmeJmkW9i7fLsrH69l+hu+cjfMd6qr8/9zCZVCsl75CuzcAwppNgm2sF8uOQGsKhmU0nODhHh3OP8suphTjJgBsmztnhRfu2RZ0Rz4kw07mD3lHhJvGwp0W/yDFNmee9QpvVctq/1MsxwXhKqggD9CwBGszTv8vM1LHEWzZKDz5S6EfFz+g=;RlRRrLrIj+qGKrdhLj40Cg=="
+secured: "PmhNSEp2lPrTVIVorIbI3gWtdkZKLN873tZdKkFwK9VU8/h6d5/jbyV7KiYhnP03muAhQH95XtVjes8O+dJt9PELNQkIEDMMvziwbAJlD09SdCPCtfVkXA5GdYrVAeMUC60OZxL6Um/FgupCgJX7jeBRVZY9VuKhHbvMu/+tm5hVulr86bbp7boIO4nteGiCjxGWaVwUmiolvInODQbZlbAIxOs7RAzOt7hv6BOrmMCgfi2DGPgQawZd/MTfRZXXhf/cRJFJc0AWRS5A9+q4CfOGHIxcDCghRLOhCU3bSJwOqGVCDgw8iNWtNZ1usUHCuGG+6BlUiKZcbfWNvBC8ewAX0pTW2GHFW+5mWAZRUkE=;awTu20yokc7pLsufdDYeQQ=="
 ---
 

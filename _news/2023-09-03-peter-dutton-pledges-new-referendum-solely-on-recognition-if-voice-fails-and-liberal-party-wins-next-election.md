@@ -9,7 +9,7 @@ ampWebUrl: "https://www.skynews.com.au/australia-news/politics/peter-dutton-pled
 cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/politics/peter-dutton-pledges-new-referendum-solely-on-recognition-if-voice-fails-and-liberal-party-wins-next-election/news-story/ebd519d8c787f9e641a4ac71970eea0f?amp"
 type: article
 quality: 40
-heat: 40
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Australia news live: Littleproud says ‘there’ll be no victory lap’ from Nationals if voice referendum fails"
+    excerpt: "Nationals leader backs Peter Dutton’s call to hold a referendum on Indigenous recognition if the voice to parliament vote fails in October. Follow the latest news live More from that chat with Littleproud on the voice. The Nationals leader also said the ..."
+    publishedDateTime: 2023-09-03T03:56:00Z
+    webUrl: "https://www.theguardian.com/australia-news/live/2023/sep/03/australia-news-live-parliament-indigenous-voice-referendum-sunday?filterKeyEvents=false&page=with:block-64f3f4758f083bb275c23a13"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/live/2023/sep/03/australia-news-live-parliament-indigenous-voice-referendum-sunday"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2023/sep/03/australia-news-live-parliament-indigenous-voice-referendum-sunday"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 41
+    images:
+      - url: "https://i.guim.co.uk/img/media/ba76fe6dc61ea8d964a0ca6161b8a7471973c770/0_180_7387_4436/master/7387.jpg?width=620&quality=85&auto=format&fit=max&s=825fc5452f17a6d77ac911dd093bda94"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Peter Dutton says he will back a second referendum if Voice fails"
     excerpt: "The opposition has left the door open to constitutional recognition for First Nations Australians if the Yes campaign is not successful."
     publishedDateTime: 2023-09-03T00:34:00Z
@@ -41,29 +57,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Peter Dutton pledges new referendum solely on recognition if Voice fails and he wins next Federal election"
-    excerpt: "Opposition leader Peter Dutton has pledged to hold a second referendum solely to enshrine Indigenous people into the constitution if the Voice fails to pass next month."
-    publishedDateTime: 2023-09-03T00:34:00Z
-    webUrl: "https://thewest.com.au/politics/federal-politics/peter-dutton-pledges-new-referendum-solely-on-recognition-if-voice-fails-and-he-wins-next-federal-election-c-11786282"
-    type: article
-    provider:
-      name: The West Australian
-      domain: thewest.com.au
-    quality: 21
-    images:
-      - url: "https://images.thewest.com.au/publication/C-11786282/48d44bf4e2a51a69d8a1ad60cef7904e529b8245-16x9-x0y0w800h450.jpg?imwidth=1200"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Penny Wong: Voting Yes on the Voice is a vote for recognition"
-    excerpt: "The Statement made the modest ask for recognition of this land’s First Peoples in the constitution through a Voice to parliament. Australian Foreign Minster Penny Wong. Picture: Pat Hoelscher / AFP The Voice will offer ideas and advice, so governments ..."
-    publishedDateTime: 2023-08-30T08:19:00Z
-    webUrl: "https://www.news.com.au/national/south-australia/penny-wong-voting-yes-on-the-voice-is-a-vote-for-recognition/news-story/38cbb8829a7f10dcae7e0bf47c258318"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 4
 
 secured: "/61LPtJhJIgLtyPfxsXfcms3M4Y8iSmCGB1uwI5LRVnwL0rfdx8LPFE5q/ANkOv/08vR1Jj540Jt0jIwSvo5U7HNNwLjG8YYPd9YO9UTcyR/D2FBG7hi1zc9Cc/cZ7I/1xV06zJfvQJo6q2IZH2rz+gn7H9B+Gi98Z2/eRBo3qVUIwsAOE5q1NkU0Ga1TUe2mbTmc04VJtTm9WXnoHlV7XXdPh/f5M9R/9sNHVj605s9vPHRt4R1n/FxTYzLe7v79zx7t6gItuFz5dbmVceoE9LYujxgBgQaEwiHnd5kBX2188g/UOkBc1HoRzIjJZv5ftLkI7dSOc2gD5cdCiC/gM1ZI7buoCv/YiGMB1uvaYzPc/YM2GSgvHrXAuw3Fdo+ZXDDpqp8yKBLFcSSUzyAwByjE/C/XBJqmVPQu/C1IqZNgDw2hdGmMwbRf4CaddxAhPCNTEcRG69J7SC8loFWW1hz61AtP6CZq68sRvMj9jGJHdFYjOH+4jJxHP2k6iFz6pafUmWXBjMU4u1uqyOkYA==;vugFif+nH8nFc/3PsfIrDQ=="
 ---

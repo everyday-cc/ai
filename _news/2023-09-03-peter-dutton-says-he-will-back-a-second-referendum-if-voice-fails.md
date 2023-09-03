@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Australia news live: Littleproud says ‘there’ll be no victory lap’ from Nationals if voice referendum fails"
+    excerpt: "Nationals leader backs Peter Dutton’s call to hold a referendum on Indigenous recognition if the voice to parliament vote fails in October. Follow the latest news live More from that chat with Littleproud on the voice. The Nationals leader also said the ..."
+    publishedDateTime: 2023-09-03T03:56:00Z
+    webUrl: "https://www.theguardian.com/australia-news/live/2023/sep/03/australia-news-live-parliament-indigenous-voice-referendum-sunday?filterKeyEvents=false&page=with:block-64f3f4758f083bb275c23a13"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/live/2023/sep/03/australia-news-live-parliament-indigenous-voice-referendum-sunday"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2023/sep/03/australia-news-live-parliament-indigenous-voice-referendum-sunday"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 41
+    images:
+      - url: "https://i.guim.co.uk/img/media/ba76fe6dc61ea8d964a0ca6161b8a7471973c770/0_180_7387_4436/master/7387.jpg?width=620&quality=85&auto=format&fit=max&s=825fc5452f17a6d77ac911dd093bda94"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Peter Dutton pledges new referendum solely on recognition if Voice fails and Liberal party wins next election"
     excerpt: "Opposition leader Peter Dutton has pledged to hold another referendum solely on recognising Indigenous Australians in the Constitution if the Voice fails."
     publishedDateTime: 2023-09-02T23:44:00Z
@@ -41,29 +57,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Peter Dutton pledges new referendum solely on recognition if Voice fails and he wins next Federal election"
-    excerpt: "Opposition leader Peter Dutton has pledged to hold a second referendum solely to enshrine Indigenous people into the constitution if the Voice fails to pass next month."
-    publishedDateTime: 2023-09-03T00:34:00Z
-    webUrl: "https://thewest.com.au/politics/federal-politics/peter-dutton-pledges-new-referendum-solely-on-recognition-if-voice-fails-and-he-wins-next-federal-election-c-11786282"
-    type: article
-    provider:
-      name: The West Australian
-      domain: thewest.com.au
-    quality: 21
-    images:
-      - url: "https://images.thewest.com.au/publication/C-11786282/48d44bf4e2a51a69d8a1ad60cef7904e529b8245-16x9-x0y0w800h450.jpg?imwidth=1200"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Penny Wong: Voting Yes on the Voice is a vote for recognition"
-    excerpt: "The Statement made the modest ask for recognition of this land’s First Peoples in the constitution through a Voice to parliament. Australian Foreign Minster Penny Wong. Picture: Pat Hoelscher / AFP The Voice will offer ideas and advice, so governments ..."
-    publishedDateTime: 2023-08-30T08:19:00Z
-    webUrl: "https://www.news.com.au/national/south-australia/penny-wong-voting-yes-on-the-voice-is-a-vote-for-recognition/news-story/38cbb8829a7f10dcae7e0bf47c258318"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 4
 
 secured: "YVe9EV4AxZumcpHA0cMLDP/7ukD7g0k0fR+0WJ1ezCqTZwzYMIV1Aiaee0ydYhzBmILa5loNd9prmYeJj7p81FsBT9hULauXa3/UtFLZyu7gwB96Df0nqR9loQpDHWlbWlCc8IT3S2fypsPw6yqquSxh8exdjTzosHMCB8kx1IZsEKAThXm1rdoXko1iXfCCCsq4ExKvKNj1l5WFycy7cjqOzFdIEYS2x1+CAb0np9ZKzJscKBfeG+ow3ju2Wsm0Eh5DkCCyE4leZQmc7lYpUoBs6g+KmI0cFb1u+4VXYEOIqUn9yiCOkofXcvMM5WvT7YA80toGp+YaYsTMF4UISY3mOyq4HFBtdErY9zSS/Ac=;RkkYDvqSjHruKX/ehvAqJQ=="
 ---

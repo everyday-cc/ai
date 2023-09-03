@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/fmops-llmops-operati
 webUrl: "https://aws.amazon.com/blogs/machine-learning/fmops-llmops-operationalize-generative-ai-and-differences-with-mlops/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 1120
     height: 630
     isCached: true
+
+related:
+  - title: "Dihuni Ships GPU Servers for Generative AI and LLM Applications"
+    excerpt: "Dihuni has enabled a new suite of new GPU servers with an online configurator for customers to easily select GPU, CPU and other configuration options. These GPU servers can be preloaded with operating system and AI packages including Pytorch,"
+    publishedDateTime: 2023-09-01T20:58:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/09/01/9873897.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
 
 secured: "lkFd2Pb8ltSdTSo8n1JhEvSwjmhEawvzLghmUd27bbNSUzSjXh5WHSeCpKCeg8vS9wyK6kMdZ/tnU4p/BWP25Ftm4Ymo5xmxeoaSEJTUXywDQH2WIBmYPF1qN1yALb8I77vevrYzWah++PZfLyvPZusvGTCAOOamgv4ZwPZJSscgzONlnJOS34QChu/C2v8fE68cXrOxQPFwvTZoGjzqYKk8cdV5qsvXWny8eVfp+Xzoz3+JtdsgiXBvBVjSQevmWyOdI8IR/c2omveF0zdgPjI5rZcBVbCu4sVbG2ak4d30ZcCg3c+p2x19oyVT08mmJWqEoyCzJrvYQ5RofMogvufnWLgyo24tec8+5E9IJEw=;JNT/x/UZI6BKHVXs6f/BJw=="
 ---

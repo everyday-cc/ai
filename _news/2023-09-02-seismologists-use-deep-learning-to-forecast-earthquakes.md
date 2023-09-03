@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-09-seismologists-deep-earthquakes.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-seismologists-deep-earthquakes.amp"
 type: article
 quality: 59
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -71,6 +71,15 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "Deep learning used by seismologists to improve prediction of earthquakes: Study"
+    excerpt: "The models flexibility could open up new possibilities for earthquake forecasting. With the ability to adapt to large amounts of new data, models that use deep learning could potentially incorporate information from multiple regions at once to make better forecasts about poorly studied areas."
+    publishedDateTime: 2023-09-03T03:17:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20230902/4114933.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 15
 
 secured: "7GBY4snhccuLMdL8cwX8ac/blC2K7baU7B1XDfEmkG0NdRSwkqr9N/xf3HJOl6HLcBAbKTp9ytGUSVpSsvtSYGT0ojMtvSUtx1aB92fuw3HSt0OHwWzI1zJtJpdw7ZpE9BZ7tChzVbiZRpGQcA1e9+3/r1F0MJTJu7jDjOOyZtvbuO9xTQsDwtiXMScm64PSV17ivlFpXO4mYrgbih+/2dNG9Ac314XzyLneoZRGWtOKPDgkj4/fNI09BH1LAFkBl9WF2OyiR1lTHK6OYvpTJ2Eg8a/TBmpP1ptXEFjLPGojKWfOsPtzOSqeGhI5nfyEGnAP0XW0+XwGzrtDqilPauFMw9perT+NezIyaDx3T9BOwLgzHz5jSeQeWgimwj1po8hjjH2goaZrfH0pRP+oeZZAYBMA9oCSuAwNcwoh625uPGJLm7voxGbqnWpBOUbUa80ciRR5tIY+Uq+hnan0v/GpgtdDdBbdN6QntL6N/NmS8ZYMf7Vraehs+ISSppmamUGPKqronmaqXNFIJtt0IQ==;DgKMjNRUlRkuwcvrcbiRlg=="
 ---
