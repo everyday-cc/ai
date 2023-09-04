@@ -1,19 +1,17 @@
 ---
 category: news
 title: "Google DeepMind cofounder calls for US to enforce AI standards"
-excerpt: "The US should allow Nvidia's artificial intelligence (AI) chips only to buyers who agree to ethically use the technology, Google DeepMind's co-founder Mustafa Suleyman said on Friday."
-publishedDateTime: 2023-09-01T05:54:00Z
-originalUrl: "https://economictimes.indiatimes.com/tech/technology/google-deepmind-cofounder-calls-for-us-to-enforce-ai-standards/articleshow/103270767.cms"
-webUrl: "https://economictimes.indiatimes.com/tech/technology/google-deepmind-cofounder-calls-for-us-to-enforce-ai-standards/articleshow/103270767.cms"
-ampWebUrl: "https://m.economictimes.com/tech/technology/google-deepmind-cofounder-calls-for-us-to-enforce-ai-standards/amp_articleshow/103270767.cms"
-cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/google-deepmind-cofounder-calls-for-us-to-enforce-ai-standards/amp_articleshow/103270767.cms"
+excerpt: "The US should enforce minimum global standards for the use of AI, and companies should at a minimum agree to abide by the same pledge made by leading AI firms to the White House, Suleyman said."
+publishedDateTime: 2023-09-01T08:06:00Z
+originalUrl: "https://telecom.economictimes.indiatimes.com/news/internet/google-deepmind-cofounder-calls-for-us-to-enforce-ai-standards/103276401"
+webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/google-deepmind-cofounder-calls-for-us-to-enforce-ai-standards/103276401"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Indiatimes
+  name: telecom.economictimes.indiatimes
   domain: indiatimes.com
 
 topics:
@@ -21,9 +19,9 @@ topics:
   - AI
 
 images:
-  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-31368,msid-103270830/artificial-intelligence.jpg"
-    width: 600
-    height: 450
+  - url: "https://etimg.etb2bimg.com/thumb/msid-103276401,imgsize-31368,width-1200,height=765,overlay-ettelecom/internet/google-deepmind-cofounder-calls-for-us-to-enforce-ai-standards.jpg"
+    width: 1200
+    height: 765
     isCached: true
 
 related:
@@ -175,6 +173,6 @@ related:
         height: 800
         isCached: true
 
-secured: "bET1NuAI0UMPO/i+ZPNTvXWe4OJRu8/6xLVXL0nfX7aYJddQajno0qE8TW4FvznYPY6vXLLtF56l7S5QKlj2ov2lpmC6zCW24jzqQmppZMuKbSsUoeEZnCwtL4YzmpJAaK1MWUTTz4LwiB3AFIfmF+4lBbJNfJ6hX5NdJS0VSIY/o95m9e1Qp0fQZcPjE/j0bveMQ8/Oyxn5XIEzXAPwy6144pfZTRL6aNfkOaq2C5tOokYdRb3/5lYopG8QNcPzpvIhIZw0GviK7iF6kIAjuN4dX04vdHvLrpTvvDdElQGle6IINKH22UMyWwOiRtrRdVBsAt536m9bsrNF4lpzswwy62Cf7tqxi8XmKrNEDIc=;8Wb4Mb6xVv7N11XpC2HvPg=="
+secured: "dcr/E7hqLa5REdnFL9lH9HK1zehjK+ggbR4vwKldYwgy0xoOXH4sRFjy9+9ndzIiuxyHu9/0LdcoRwiWEyYm7yVpfc84YBGn6SfZt3/AxCv4xvRKriOcp5D7L4IokBoG/kRvmoKd4JFE4cKQqRd9PrCJik7sevW1HrB0gvljTMtcgZoNXo55oDn2K9oA9wkITRsyOMG883r6nMRA2gSV9AjyJXz6aWsbDTe7C5mcMpKDesRn7ilnvl/9UWW3jEI58Ojz3RSJPbrHEmqmP2n3oIyp0BcdqHmexQ4huZgSaUHLpWompOGzKZ+62QZuEyGDOMwBsC52EZj6E9UJygGBGJqSDAWWr++jlxLdLf2WY8I=;jECfjwRqcYdF88N1J3H8nA=="
 ---
 

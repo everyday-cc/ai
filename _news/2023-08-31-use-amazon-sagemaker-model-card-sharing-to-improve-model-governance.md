@@ -37,6 +37,22 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Upping Your Prompt Engineering Superpowers Via Target-Your-Response Techniques When Using Generative AI"
+    excerpt: "A vital technique for prompt engineering entails thinking ahead and telling generative AI what kind of response you are expecting to get. Here is the insider scoop."
+    publishedDateTime: 2023-09-04T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/09/04/upping-your-prompt-engineering-superpowers-via-target-your-response-techniques-when-using-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/09/04/upping-your-prompt-engineering-superpowers-via-target-your-response-techniques-when-using-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/09/04/upping-your-prompt-engineering-superpowers-via-target-your-response-techniques-when-using-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 75
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64f54e68e4547e11b1b0157e/0x0.jpg?format=jpg&crop=2510,1675,x22,y0,safe&width=1200"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "In the absence of clear rules, students using AI don't know if they're cheating: survey"
     excerpt: "More than half of students over 18 have used generative AI to complete their school work or pass an exam, despite 60 per cent feeling that it constitutes cheating, according to a recent survey by business consulting firm KPMG."
     publishedDateTime: 2023-08-31T20:49:00Z

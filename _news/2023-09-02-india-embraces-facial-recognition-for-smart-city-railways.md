@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "How SMBs Can Cut Through the Generative AI Hype"
+    excerpt: "AWS Head of Innovation for SMBs Ben Schreiner reminds business leaders to focus on data and problem-solving when making decisions around generative AI. We may be compensated by vendors who appear on this page through methods such as affiliate links or ..."
+    publishedDateTime: 2023-09-01T09:29:00Z
+    webUrl: "https://www.techrepublic.com/article/aws-generative-ai-interview/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr83123-smb-ai.jpeg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Trellis Announces $15 Million Investment, With Plans to Launch Generative AI Offerings"
     excerpt: "The state court legal research and analytics platform noted that it plans to leverage this funding round for its “next phase of growth” which will see new generative AI features and product releases."
     publishedDateTime: 2023-08-31T16:25:00Z

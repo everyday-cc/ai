@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-04-how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition.md",
+      "title": "How Google Cloud Is Leveraging Generative AI To Outsmart Competition",
+      "excerpt": "It has a smaller 256-chip footprint per Pod, which is optimized for the state-of-the-art neural network architecture based on the transformer architecture.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64f5bc845a7c3861341e8146/0x0.jpg?format=jpg&width=1200",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/amp/",
+      "publishedDateTime": "2023-09-04T04:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-09-04-transformers-revolutionized-ai-what-will-replace-them.md",
       "title": "Transformers Revolutionized AI. What Will Replace Them?",
       "excerpt": "As another example, eighteen-month-old startup Inflection recently raised over $1 ... while a novel architecture soon displaces transformers as state-of-the-art in robotics. Or perhaps a new AI approach is developed that outperforms and rapidly replaces ...",
@@ -10,7 +63,7 @@
       "originalUrl": "https://www.forbes.com/sites/robtoews/2023/09/03/transformers-revolutionized-ai-what-will-replace-them/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -1339,58 +1392,6 @@
         "Microsoft AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-meta-is-building-a-space-age-universal-language-translator.md",
-      "title": "Meta is building a space-age ‘universal language translator’",
-      "excerpt": "But Facebook owner Meta wants to change that with SeamlessM4T, an AI-powered “universal language translator” that could instantly convert any language in the world into whatever output you want.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/meta-ai-universal-language-translator/",
-      "originalUrl": "https://www.digitaltrends.com/computing/meta-ai-universal-language-translator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/07/meta-facebook.jpeg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/meta-ai-universal-language-translator/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/meta-ai-universal-language-translator/?amp",
-      "publishedDateTime": "2023-08-22T23:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -25,28 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Google Unveils New AI-Powered Cloud Technologies Taking On AWS And Azure"
-    excerpt: "At Cloud Next, Google unveiled AI strategies to rival AWS and Azure. New offerings include custom silicon and updated Vertex AI. Google targets AI-centric enterprises."
-    publishedDateTime: 2023-09-01T19:24:00Z
-    webUrl: "https://www.forbes.com/sites/stevendickens/2023/09/01/google-unveils-new-ai-powered-cloud-technologies-taking-on-aws-and-azure/"
+  - title: "How Google Cloud Is Leveraging Generative AI To Outsmart Competition"
+    excerpt: "It has a smaller 256-chip footprint per Pod, which is optimized for the state-of-the-art neural network architecture based on the transformer architecture."
+    publishedDateTime: 2023-09-04T11:49:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 80
-  - title: "AI moves by Google Cloud raise interest in what AWS will deliver next"
-    excerpt: "As the undisputed leader in cloud computing for more than two decades, Amazon Web Services Inc. has the potential to wield enormous clout in the emerging AI market. But the cloud narrative in AI so far has been shaped by Microsoft Corp. and, more recently, Google LLC. What happened to AWS?"
-    publishedDateTime: 2023-09-01T03:07:00Z
-    webUrl: "https://siliconangle.com/2023/08/31/ai-moves-by-google-cloud-raise-interest-in-what-aws-will-deliver-next-googlecloudnext/"
+    quality: 91
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64f5bc845a7c3861341e8146/0x0.jpg?format=jpg&width=1200"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "Generative AI and Foundation Models Face Inflated Expectations"
+    excerpt: "Computer vision and cloud AI services are among the most mature applications of AI, according to Gartner's 2023 AI Hype Cycle."
+    publishedDateTime: 2023-08-31T17:08:00Z
+    webUrl: "https://www.techrepublic.com/article/generative-ai-dominates-2023-gartner-hype-cycle/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 56
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/Dustin-Kirkland-John-Furrier-Sarbjeet-Johal-Rob-Strechay-theCUBE-Google-Cloud-Next.jpg"
-        width: 977
-        height: 651
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr_08312023-generative-ai-dominates-2023-gartner-hype-cycle.jpg"
+        width: 1400
+        height: 900
         isCached: true
   - title: "Google goes all in on the AI cloud"
     excerpt: "Market landscape analysis: Players such as Snowflake Inc. and Databricks have effectively acted as the AI and data layer on platforms such as Amazon and Microsoft Azure, given these cloud platforms’ underwhelming data and AI capabilities. AWS seems ..."
@@ -61,6 +68,38 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Google-Cloud.jpeg"
         width: 6948
         height: 4634
+        isCached: true
+  - title: "Acceptable-use policies for generative artificial intelligence"
+    excerpt: "The program is possibly the most well-known example of generative AI, an artificial intelligence technology that identifies patterns in large quantities in training data and then generates original content – text,"
+    publishedDateTime: 2023-09-01T10:00:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2023/09/01/acceptable-use-policies-for-generative-ai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
+  - title: "New Meta, Google tools detect AI-generated images"
+    excerpt: "The tech giants release tools to identify synthetic images and combat AI-related discrimination for more responsible use."
+    publishedDateTime: 2023-09-01T13:11:00Z
+    webUrl: "https://www.itweb.co.za/content/4r1ly7R9Ejnvpmda"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 19
+  - title: "IAA MOBILITY 2023 Talking not Typing: Continental and Google Cloud Equip Cars with Generative Artificial Intelligence"
+    excerpt: "Continental announced a partnership with Google Cloud during its press conference at the IAA MOBILITY 2023. Together, the two companies are equipping"
+    publishedDateTime: 2023-09-04T17:26:00Z
+    webUrl: "https://menafn.com/1107004164/IAA-MOBILITY-2023-Talking-not-Typing-Continental-and-Google-Cloud-Equip-Cars-with-Generative-Artificial-Intelligence"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 14
+    images:
+      - url: "https://menafn.com/updates/pr/2023-09/04/pr_12163_22a9c30d_image_story.jpg"
+        width: 4920
+        height: 3553
         isCached: true
 
 secured: "huSCgSKgct00lbvuc9uy//r6deiDFj9YGUKLi4edoOg3jlFhBg6o04w+v/618EK8r5keR1Wz1sMgiAsxppl0GYmmh9P0Vuxw9+m7DBqUFBvd0TUFXJ3hZ4h7kDw27EUTmrtywxwdbPDxt7/XfmsXTWoV1sfDwk2zLz8rK1Hvu3D1xIQozbj+zvHswkPbOSy0NAOsAD8CLuj6ENAf0623aJUiFMkeeqdkJAGVBZ4pI++Co2BM3nQ0nhjyhb6kSUN0h1UwvaotEbNQRuj97O4JN+Di/dLXjZLDn5egH3hlE6TEFCIBqcMnFW2IFaZN1yv2pKwgavyaSFjUTSRZhkdJ+1V38BRAX1ni8dLeEzBeIYubOq3Bk64Jz5sgl3OQIYhBnaX0vWryu1bOViClJnWS/GYwIxLNmmzCOI6DtfMPTnFktXwIBPqVKY+0TCEL2YXdGhAi7xkfO8Ayz75qbnctVhMXob7mvlMayocEM9R7/x7DJ75kqmcP1XgdTEKKs46UjSx9Ql2kilCrRnVPBMFKLw==;YEkvFzaQhicJMdWSnqUmxw=="

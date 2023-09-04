@@ -73,22 +73,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "Google DeepMind cofounder calls for US to enforce AI standards"
-    excerpt: "The US should allow Nvidia's artificial intelligence (AI) chips only to buyers who agree to ethically use the technology, Google DeepMind's co-founder Mustafa Suleyman said on Friday."
-    publishedDateTime: 2023-09-01T05:54:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/google-deepmind-cofounder-calls-for-us-to-enforce-ai-standards/articleshow/103270767.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/google-deepmind-cofounder-calls-for-us-to-enforce-ai-standards/amp_articleshow/103270767.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/google-deepmind-cofounder-calls-for-us-to-enforce-ai-standards/amp_articleshow/103270767.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-31368,msid-103270830/artificial-intelligence.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "‘I hope I’m wrong’: the co-founder of DeepMind on how AI threatens to reshape life as we know it"
     excerpt: "From synthetic organisms to killer drones, Mustafa Suleyman talks about the mind-blowing potential of artificial intelligence, and how we can still avoid catastrophe"
     publishedDateTime: 2023-09-02T07:00:00Z
@@ -118,6 +102,20 @@ related:
       - url: "https://eandt.theiet.org/media/22316/web_digital-ai-art_istock-1382918419.jpg?crop=0,0.18958333333333335,0,0.31822916666666662&cropmode=percentage&width=1200&height=450&rnd=133380348010000000"
         width: 1200
         height: 450
+        isCached: true
+  - title: "Google DeepMind cofounder calls for US to enforce AI standards"
+    excerpt: "The US should enforce minimum global standards for the use of AI, and companies should at a minimum agree to abide by the same pledge made by leading AI firms to the White House, Suleyman said."
+    publishedDateTime: 2023-09-01T08:06:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/google-deepmind-cofounder-calls-for-us-to-enforce-ai-standards/103276401"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-103276401,imgsize-31368,width-1200,height=765,overlay-ettelecom/internet/google-deepmind-cofounder-calls-for-us-to-enforce-ai-standards.jpg"
+        width: 1200
+        height: 765
         isCached: true
   - title: "Google DeepMind founder wants US to enforce AI standards"
     excerpt: "The US should allow Nvidia's AI chips only to buyers who agree to use the technology ethically, DeepMind's co-founder said."

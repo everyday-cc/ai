@@ -2,6 +2,102 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-04-22-are-we-ready-for-artificial-empathy.md",
+      "title": "Are We Ready for Artificial Empathy?",
+      "excerpt": "Chatbot-delivered empathy can improve mood and create a strong working alliance between the user and AI interface. Large language AI models like ChatGPT can offer human-like validation and accurately infer meaning and feeling from a user's statements.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/202304/are-we-ready-for-artificial-empathy",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/202304/are-we-ready-for-artificial-empathy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-04/shutterstock_2143155369.jpg?itok=O0GuzCpL",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/202304/are-we-ready-for-artificial-empathy?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/202304/are-we-ready-for-artificial-empathy?amp",
+      "publishedDateTime": "2023-04-21T15:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-22-artificial-intelligence-in-the-garden-of-eden.md",
+      "title": "Artificial Intelligence in the Garden of Eden",
+      "excerpt": "The dawn of the internet age was so exciting. I took my grade-school son, enthralled by Apple computers, to see Steve Jobs speak at a raucous convention in New York almost a quarter-century ago.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/artificial-intelligence-in-the-garden-of-eden-adam-eve-gates-zuckerberg-technology-god-internet-40a4477a",
+      "originalUrl": "https://www.wsj.com/articles/artificial-intelligence-in-the-garden-of-eden-adam-eve-gates-zuckerberg-technology-god-internet-40a4477a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-767058/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T13:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-04-22-hurtling-into-the-future-the-potential-and-thorny-ethics-of-generative-ai-in-healthcare.md",
       "title": "‘Hurtling into the future’: The potential and thorny ethics of generative AI in healthcare",
       "excerpt": "Generative AI has roared onto the tech scene through the large language model backing ChatGPT. Companies are already deploying the algorithms in hospitals. Should healthcare be taking a pause?",
@@ -1331,92 +1427,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-04-07-global-artificial-intelligence-ai-in-construction-market-2023-2030-gain-a-competitive-edge-with-top-countries-data.md",
-      "title": "Global Artificial Intelligence (AI) in Construction Market [2023-2030] | Gain a Competitive Edge with Top Countries Data",
-      "excerpt": "Global Artificial Intelligence (AI) in Construction Market [2023-2030] research report is a compilation of information",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-construction-market-2023-2030-gain-a-competitive-edge-with-top-countries-data-2023-04-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-construction-market-2023-2030-gain-a-competitive-edge-with-top-countries-data-2023-04-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-07T02:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-07-global-legal-tech-artificial-intelligence-market-2023-2030-research-report.md",
-      "title": "Global Legal Tech Artificial Intelligence Market [2023-2030] | Research Report",
-      "excerpt": "Global Legal Tech Artificial Intelligence Market [2023-2030] research report is a compilation of information and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-legal-tech-artificial-intelligence-market-2023-2030-research-report-2023-04-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-legal-tech-artificial-intelligence-market-2023-2030-research-report-2023-04-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-07T02:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

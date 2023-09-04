@@ -2,6 +2,101 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-06-08-ai-enabled-prostate-cancer-therapy-wins-breakthrough-designation.md",
+      "title": "AI-Enabled Prostate Cancer Therapy Wins Breakthrough Designation",
+      "excerpt": "The Santa Monica, CA-based company said the Avenda Health Focal Therapy System, is an artificial intelligence (AI)-enabled focal therapy system being developed to treat localized prostate cancer in a urologist’s office under local anesthesia. In ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/artificial-intelligence/ai-enabled-prostate-cancer-therapy-wins-breakthrough-designation",
+      "originalUrl": "https://www.mddionline.com/artificial-intelligence/ai-enabled-prostate-cancer-therapy-wins-breakthrough-designation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/IMG_May112021at124830PM.png",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-08-covid-sparked-a-mass-adoption-of-technology-heres-how-its-influencing-healthcare-design.md",
+      "title": "Covid Sparked A Mass Adoption Of Technology — Here’s How It’s Influencing Healthcare Design",
+      "excerpt": "Hospital design experts Christina Grimes and Ryan Hullinger explain how technology, from telehealth to avatars, are being incorporated into healthcare environments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/coronavirusfrontlines/2023/06/07/covid-sparked-a-mass-adoption-of-technology---heres-how-its-influencing-healthcare-design/",
+      "originalUrl": "https://www.forbes.com/sites/coronavirusfrontlines/2023/06/07/covid-sparked-a-mass-adoption-of-technology---heres-how-its-influencing-healthcare-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6480e0cb711147192b595934/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 811,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/coronavirusfrontlines/2023/06/07/covid-sparked-a-mass-adoption-of-technology---heres-how-its-influencing-healthcare-design/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/coronavirusfrontlines/2023/06/07/covid-sparked-a-mass-adoption-of-technology---heres-how-its-influencing-healthcare-design/amp/",
+      "publishedDateTime": "2023-06-07T12:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-08-ai-can-help-doctors-with-breast-cancer-risk-predictions-a-new-study-found.md",
       "title": "AI can help doctors with breast cancer risk predictions, a new study found",
       "excerpt": "Artificial intelligence is being used in increasingly more areas and could now help predict breast cancer risks, a new study shows. The study, which used five AI algorithms, found that when put to ...",
@@ -1288,101 +1383,6 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-29-emerging-markets-report-the-art-of-artificial-intelligence.md",
-      "title": "Emerging Markets Report: The Art of Artificial Intelligence",
-      "excerpt": "An Emerging Markets Sponsored Commentary ORLANDO, Fla., May 29, 2023 (GLOBE NEWSWIRE) -- It will come as no surprise to even the most passive investor that the market is currently in a full-throated i",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/05/g32613230/emerging-markets-report-the-art-of-artificial-intelligence",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/g32613230/emerging-markets-report-the-art-of-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32613230",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32613230",
-      "publishedDateTime": "2023-05-29T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-workplace-ai-how-artificial-intelligence-will-transform-the-workday.md",
-      "title": "Workplace AI: How artificial intelligence will transform the workday",
-      "excerpt": "Artificial intelligence has been around for years, but scarcely has it found itself in conversation as much as it has now. The launch of OpenAI’s ChatGPT rocketed generative AI onto the radar of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/worklife/article/20230515-workplace-ai-how-artificial-intelligence-will-transform-the-workday",
-      "originalUrl": "https://www.bbc.com/worklife/article/20230515-workplace-ai-how-artificial-intelligence-will-transform-the-workday",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ychef.files.bbci.co.uk/live/624x351/p0fnfjfy.jpg",
-          "width": 624,
-          "height": 351,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-26T13:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

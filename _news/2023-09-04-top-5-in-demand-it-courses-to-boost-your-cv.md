@@ -6,8 +6,8 @@ publishedDateTime: 2023-09-04T07:10:00Z
 originalUrl: "https://techcentral.co.za/top-5-in-demand-it-courses-cv-torprom/230926/"
 webUrl: "https://techcentral.co.za/top-5-in-demand-it-courses-cv-torprom/230926/"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://techcentral.co.za/wp-content/uploads/2023/09/torque-it-career-jobs-1500.jpg"
@@ -24,6 +25,6 @@ images:
     height: 785
     isCached: true
 
-secured: "eS1r5fMP+qydbgvmVkdnXwUcy0TmrmHBi03jF+F1UkQ5RVuYKntqP+niULdtggYEd5jgbtDPzb9CBOWkQtgF2YK8bii0zEb3HBZ4HQqFsJMKmHPJmGiZBWpe2MiKjZA2vlF5wx/vTZu28kHMegMUHSJ4/p1GxcrnMCq/SJ4SV22KJ4XMOjWHEch6mtkqKANbrf4gddR5onebK4c3bhmiyb64hQ5YTtZs7pYD51fyAhV1tCfu+kicoi+iGuMLjD1X5yIYazGWmNrCkp7cEpB4PONbzx7eefImx+cIWhCVGpDvheGqr5sKxhleIG6GZnQqKE8MVZhefqkuOpRGSwDbu8p7hARUloUY9DgOSeo/AOo=;tajuXiZJwIeQlenP2wAvxA=="
+secured: "bIxOLYzmt+nuG/ROO2Sz2Uk8a3w1p9LWEi3yg/jgwu2JRy88W5rfQbSZqFbBf315S+esHpIIhzNGAc/TvT20yfIwnztEKNbH2O7aoK7OcK7zpZL/IxwTG4OpMST3OKa6ZRLyTL21GwEG479CgbqLY2tVVomVGRvz9kxyvIhNJgjZ78vxfO/gZqafA2x2Am5XqB+cmmFJZiFqC4bx6wLZxJb1DPaJtS7uVkDsM5Muzpa9b8vLjW4a4T1uH+SO9yrt1pjVqeRXYIVVtUiz2suN737QhTNDzwBKUS64cLODLbA0YB20Ebq04CcOC1Kt06bY4HvH5DZPk7oJNsLy1Se+zMf/iQcxT+kl+4V13hraVhRect5YPAYx2qw4H1Y9RoS20qjfBc4CDDHBoXeFXGyDlKj8ZjHeAV53+cYS5irF6q7PTGE/+jnkQWGltgtbDEL9qUHX5LrJlzZDGm3+PLtnj+xUEwvyFBG77yxUjqAafC4wFzebbYSfk+JMixP5tXygGHcIhkHw9ZBmZlTFrvxSYw==;DUT4r59UJn5og6PYfLJg+w=="
 ---
 

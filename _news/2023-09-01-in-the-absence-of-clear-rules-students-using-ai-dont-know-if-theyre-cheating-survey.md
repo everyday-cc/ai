@@ -35,6 +35,22 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Upping Your Prompt Engineering Superpowers Via Target-Your-Response Techniques When Using Generative AI"
+    excerpt: "A vital technique for prompt engineering entails thinking ahead and telling generative AI what kind of response you are expecting to get. Here is the insider scoop."
+    publishedDateTime: 2023-09-04T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/09/04/upping-your-prompt-engineering-superpowers-via-target-your-response-techniques-when-using-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/09/04/upping-your-prompt-engineering-superpowers-via-target-your-response-techniques-when-using-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/09/04/upping-your-prompt-engineering-superpowers-via-target-your-response-techniques-when-using-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 75
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64f54e68e4547e11b1b0157e/0x0.jpg?format=jpg&crop=2510,1675,x22,y0,safe&width=1200"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "Use Amazon SageMaker Model Card sharing to improve model governance"
     excerpt: "One of the tools available as part of the ML governance is Amazon SageMaker Model Cards, which has the capability to create a single source of truth for model information by centralizing and standardizing documentation throughout the model lifecycle. SageMaker model cards enable you to standardize how"
     publishedDateTime: 2023-08-31T18:11:14Z

@@ -44,15 +44,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "New Meta, Google tools detect AI-generated images"
-    excerpt: "The tech giants release tools to identify synthetic images and combat AI-related discrimination for more responsible use."
-    publishedDateTime: 2023-09-01T13:11:00Z
-    webUrl: "https://www.itweb.co.za/content/4r1ly7R9Ejnvpmda"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 19
 
 secured: "TK28QYnU60CPXhtiiZkUCPk7bXAAJuZAYNbHGyblZsdJ4BBXld5cWgoLyxL51l4o2DSybsvnsbm0qMWOykIeA3I5MQ1ChQ/0ed54GTzJiaNRZnYG3l4H9JoboTYfTDSdZpB42x9jLVTD6SlCMhkxeA0+O6QMzNrBh9D1dNIH4wleraImj3ws8KeB7tjbyO5/L9aC3NwVcluB1LjdKMuuwBLXnbALhHUKcJJ9MwVjFp5qQ+FqZ54oALN1ebLl69dAPr2h+QcYmYual9u7WRv53xa+i98ZgroQwBPvp1z/gP024Jr8Dyj90zbU7SFnncfpjfF80rzwskMshNsFdP1xbnumFi8JM41Xym34MDGZ+QDjca9fQL8Usod3jOifMvncflEpqigpnJrH56cfEeQWWojkbIXurlrECTzBqkeWjfMJMcauerQbZGqcxQLJdpN6ujDf3KtNbBSf0R3zsmu4ZBqP6hcrTW6nwew1kmwV98bOa6ntAoJ3tmN5Vusn3ki8x1pCd+9wg0qwTA7CR5zbQg==;quBkzjRcyd1PQHbiupEmqQ=="
 ---

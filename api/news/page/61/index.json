@@ -2,6 +2,151 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2023-07-22-voice-controlled-robot-controlled-by-an-android-phone.md",
+      "title": "Voice Controlled Robot Controlled By An Android Phone",
+      "excerpt": "[Jeff] sent in a build of a voice controlled robot he just finished based on the Android ADK and an iRobot Create. The robot is able to obey voice commands telling it where to go. Currently the ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2011/07/05/voice-controlled-robot-controlled-by-an-android-phone/",
+      "originalUrl": "https://hackaday.com/2011/07/05/voice-controlled-robot-controlled-by-an-android-phone/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://hackaday.com/wp-content/uploads/2011/07/robot.jpg?w=450",
+          "width": 450,
+          "height": 264,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-21T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-22-seven-ai-companies-agree-to-safeguards-in-the-us.md",
+      "title": "Seven AI companies agree to safeguards in the US",
+      "excerpt": "Representatives from Amazon, Anthropic, Google, Inflection, Meta, Microsoft, and OpenAI joined US President Joe Biden to make the announcement. It follows a number of warnings about the capabilities of the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/technology-66271429",
+      "originalUrl": "https://www.bbc.com/news/technology-66271429",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/45A4/production/_130482871_gettyimages-1527996138.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/technology-66271429.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66271429.amp",
+      "publishedDateTime": "2023-07-21T16:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-22-brian-cox-warns-of-a-scary-future-where-theres-an-ai-brian-cox.md",
+      "title": "Brian Cox Warns Of A 'Scary' Future Where There's An AI Brian Cox",
+      "excerpt": "The \"Succession\" star gave a fiery Logan Roy-esque speech at a London rally in support of the SAG-AFTRA and WGA strikes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.huffpost.com/entry/brian-cox-ai-actors-writers-strike_n_64baa8c1e4b0ad7b75f8d5b8",
+      "originalUrl": "https://www.huffpost.com/entry/brian-cox-ai-actors-writers-strike_n_64baa8c1e4b0ad7b75f8d5b8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.huffingtonpost.com/asset/64bababa2600003700a36acc.jpeg?cache=9oJT8EzIIC&ops=1200_630",
+          "width": 1198,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.huffpost.com/entry/brian-cox-ai-actors-writers-strike_n_64baa8c1e4b0ad7b75f8d5b8/amp",
+      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/brian-cox-ai-actors-writers-strike_n_64baa8c1e4b0ad7b75f8d5b8/amp",
+      "publishedDateTime": "2023-07-21T15:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HuffPost",
+        "domain": "huffpost.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-22-microsofts-semantic-kernel-ai-sdk-adds-java-integrates-with-azure-cognitive-search.md",
       "title": "Microsoft's Semantic Kernel AI SDK Adds Java, Integrates with Azure Cognitive Search",
       "excerpt": "Microsoft has been busy updating its Semantic Kernel ... Weaviate, Chroma, along with Azure Cognitive Search and Services. Additionally, we are developing a document chunking service and enhancing the VS Code extension for Semantic Kernel.",
@@ -1068,153 +1213,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-roboticsan-extension-of-the-ongoing-digital-transformation.md",
-      "title": "Robotics—An Extension Of The Ongoing Digital Transformation",
-      "excerpt": "Now is the time for companies to modernize their infrastructure, as the technology is available and the potential return on investment is compelling.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/robotics-an-extension-of-the-ongoing-digital-transformation/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/robotics-an-extension-of-the-ongoing-digital-transformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/600203d32263d67c03ef9d7d/0x0.jpg?format=jpg&crop=5328,2998,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/robotics-an-extension-of-the-ongoing-digital-transformation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/21/robotics-an-extension-of-the-ongoing-digital-transformation/amp/",
-      "publishedDateTime": "2023-07-21T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-how-advancements-in-genai-can-make-self-driving-operations-a-reality.md",
-      "title": "How Advancements In GenAI Can Make Self-Driving Operations A Reality",
-      "excerpt": "This piece will outline how AIOps can better ensure websites, applications, databases and infrastructure—including the underlying networks—function better.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/07/21/how-advancements-in-genai-can-make-self-driving-operations-a-reality/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/07/21/how-advancements-in-genai-can-make-self-driving-operations-a-reality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b9625753df287d02bd34f2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/07/21/how-advancements-in-genai-can-make-self-driving-operations-a-reality/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/07/21/how-advancements-in-genai-can-make-self-driving-operations-a-reality/amp/",
-      "publishedDateTime": "2023-07-21T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-nauticus-robotics-inc-kitt-stock-tracking-the-weekly-performance.md",
-      "title": "Nauticus Robotics Inc. (KITT) Stock: Tracking the Weekly Performance",
-      "excerpt": "The stock of Nauticus Robotics Inc. (KITT) has gone down by -4.83% for the week, with a -6.19% drop in the past month and a -18.60% drop in the past quarter. The volatility ratio for the week is 6.14%,",
-      "sourceUrl": null,
-      "webUrl": "https://newsheater.com/2023/07/21/nauticus-robotics-inc-kitt-stock-tracking-the-weekly-performance/",
-      "originalUrl": "https://newsheater.com/2023/07/21/nauticus-robotics-inc-kitt-stock-tracking-the-weekly-performance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://newsheater.com/wp-content/uploads/2020/01/Image-24.png",
-          "width": 640,
-          "height": 424,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-21T03:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "newsheater",
-        "domain": "newsheater.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

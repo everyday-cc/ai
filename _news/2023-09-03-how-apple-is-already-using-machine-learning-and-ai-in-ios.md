@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Google’s AI-powered search comes to India: How to sign-up and start using"
+    excerpt: "Google is expanding its AI-powered search feature, known as SGE (Search Generative Experience), to India and Japan. SGE allows users to ask conversational questions and receive AI-generated answers. It is available as an opt-in experiment in Google's Search Labs and can be accessed through the Google app and Chrome desktop."
+    publishedDateTime: 2023-08-31T04:40:00Z
+    webUrl: "https://www.gadgetsnow.com/featured/googles-ai-powered-search-comes-to-india-how-to-sign-up-and-start-using/articleshow/103231812.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/featured/googles-ai-powered-search-comes-to-india-how-to-sign-up-and-start-using/amp_articleshow/103231812.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/featured/googles-ai-powered-search-comes-to-india-how-to-sign-up-and-start-using/amp_articleshow/103231812.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 56
+    images:
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-103231812,imgsize-58586,width-800/103231812.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Unveiling AI's Secret Impact On Human Labor And Intelligence"
     excerpt: "As AI advances, it's not uncommon to wonder whether it may threaten humanity and whether wage requirements and automated labor will affect workers' paychecks."
     publishedDateTime: 2023-09-01T12:00:00Z

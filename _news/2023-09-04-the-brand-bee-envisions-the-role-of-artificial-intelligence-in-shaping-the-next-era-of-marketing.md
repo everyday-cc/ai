@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Schools, universities turning to artificial intelligence to transform education"
-    excerpt: "As computers did a generation before, advancements in technology are changing how students learn and how teachers teach."
-    publishedDateTime: 2023-08-30T23:59:00Z
-    webUrl: "https://www.cbsnews.com/baltimore/news/schools-universities-turning-to-artificial-intelligence-to-transform-education/"
-    ampWebUrl: "https://www.cbsnews.com/amp/baltimore/news/schools-universities-turning-to-artificial-intelligence-to-transform-education/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/baltimore/news/schools-universities-turning-to-artificial-intelligence-to-transform-education/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 72
-    images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/30/f1b51074-a30b-4361-bf61-bc664c25402a/thumbnail/1200x630/de71b2eb38d3922f943bb2fb16159351/ai.jpg?v=a8a34dbc23229a263a09ea92e9d5b7dc"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "How artificial intelligence is driving change in insurance"
     excerpt: "Even as AI technology continues to develop, there is much for us to do so we can prepare for the future and meet it head-on."
     publishedDateTime: 2023-09-04T07:46:00Z

@@ -2,6 +2,143 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-08-29-top-8-apm-metrics-that-it-teams-use-to-monitor-their-apps.md",
+      "title": "Top 8 APM metrics that IT teams use to monitor their apps",
+      "excerpt": "A superior customer experience (CX) is built on accurate and timely application performance monitoring (APM) metrics.\nThe post Top 8 APM metrics that IT teams use to monitor their apps appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/apm-metrics/",
+      "originalUrl": "https://www.ibm.com/blog/apm-metrics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-29T06:03:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-sppu-launches-ai-and-machine-learning-postgraduate-diploma.md",
+      "title": "SPPU launches AI and Machine learning postgraduate diploma",
+      "excerpt": "The advanced curriculum has been jointly designed with the Department of Technology, SPPU keeping in mind the objectives of the NEP2020.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/cities/pune/sppu-ai-machine-learning-postgraduate-diploma-8914965/",
+      "originalUrl": "https://indianexpress.com/article/cities/pune/sppu-ai-machine-learning-postgraduate-diploma-8914965/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2023/08/SPPU-1.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/cities/pune/sppu-ai-machine-learning-postgraduate-diploma-8914965/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/pune/sppu-ai-machine-learning-postgraduate-diploma-8914965/lite/",
+      "publishedDateTime": "2023-08-29T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-googles-new-a3-gpu-supercomputer-with-nvidia-h100-gpus-will-be-generally-available-next-month.md",
+      "title": "Google’s new A3 GPU supercomputer with Nvidia H100 GPUs will be generally available next month",
+      "excerpt": "Earlier this year, Google Cloud announced the private preview launch of its H100-powered A3 GPU virtual machines ... given that their focus is on training and serving generative AI models and large language models. When it announced the A3 last year ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/29/googles-new-a3-gpu-supercomputer-with-nvidia-h100-gpus-will-be-generally-available-next-month/",
+      "originalUrl": "https://techcrunch.com/2023/08/29/googles-new-a3-gpu-supercomputer-with-nvidia-h100-gpus-will-be-generally-available-next-month/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/07/GettyImages-908368194.jpg?resize=1200,640",
+          "width": 1200,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/29/googles-new-a3-gpu-supercomputer-with-nvidia-h100-gpus-will-be-generally-available-next-month/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/29/googles-new-a3-gpu-supercomputer-with-nvidia-h100-gpus-will-be-generally-available-next-month/amp/",
+      "publishedDateTime": "2023-08-29T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-29-google-debuts-duet-ai-to-tackle-new-cybersecurity-challenges-in-the-cloud.md",
       "title": "Google debuts Duet AI to tackle new cybersecurity challenges in the cloud",
       "excerpt": "The use of AI in modern defense has dominated the Google Next security discussion. The tech giant has introduced new solutions capitalizing on AI to fend off cyberattackers.",
@@ -1070,126 +1207,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-revolutionising-healthcare-how-ai-is-transforming-radiology.md",
-      "title": "Revolutionising Healthcare: How AI is transforming radiology",
-      "excerpt": "The rapid advancement of Artificial Intelligence (AI) in radiology is set to revolutionise the healthcare sector, with experts predicting a surge in its application over the next decade.",
-      "sourceUrl": null,
-      "webUrl": "https://www.iol.co.za/news/south-africa/revolutionising-healthcare-how-ai-is-transforming-radiology-ee0f56af-e898-427e-996d-218ed6e628e2",
-      "originalUrl": "https://www.iol.co.za/news/south-africa/revolutionising-healthcare-how-ai-is-transforming-radiology-ee0f56af-e898-427e-996d-218ed6e628e2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-28T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Independent Online",
-        "domain": "iol.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-how-to-simplify-robotics-research-with-a-native-ros-based-system.md",
-      "title": "How to simplify robotics research with a native, ROS-based system",
-      "excerpt": "Tormach created a ROS-based industrial robotic manipulator and control system that avoids “black box” issues that plague modern robotics applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/how-to-simplify-robotics-research-with-a-native-ros-based-system/",
-      "originalUrl": "https://www.therobotreport.com/how-to-simplify-robotics-research-with-a-native-ros-based-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/08/tormach-1.jpg",
-          "width": 1000,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-28T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-ai-in-fintech-market-to-register-exponential-growth-on-account-of-increasing-emphasis-on-data-driven-insights-and-regulatory-compliance.md",
-      "title": "AI in Fintech Market to Register Exponential Growth on Account of Increasing Emphasis on Data-Driven Insights and Regulatory Compliance",
-      "excerpt": "The AI in Fintech Market, as indicated by the SNS Insider report, achieved a valuation of USD 13.23 billion in the year 2022. Forecasts anticipate a substantial CAGR of 42.3% spanning from 2023 to 2030, ultimately propelling the market value to ...",
-      "sourceUrl": null,
-      "webUrl": "https://ipsnews.net/business/2023/08/28/ai-in-fintech-market-to-register-exponential-growth-on-account-of-increasing-emphasis-on-data-driven-insights-and-regulatory-compliance/",
-      "originalUrl": "https://ipsnews.net/business/2023/08/28/ai-in-fintech-market-to-register-exponential-growth-on-account-of-increasing-emphasis-on-data-driven-insights-and-regulatory-compliance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icrowdnewswire.com/wp-content/uploads/2023/08/icn330723-icnSNS20Insider.png.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://ipsnews.net/business/2023/08/28/ai-in-fintech-market-to-register-exponential-growth-on-account-of-increasing-emphasis-on-data-driven-insights-and-regulatory-compliance/?amp=1",
-      "cdnAmpWebUrl": "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2023/08/28/ai-in-fintech-market-to-register-exponential-growth-on-account-of-increasing-emphasis-on-data-driven-insights-and-regulatory-compliance/?amp=1",
-      "publishedDateTime": "2023-08-28T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inter Press Service",
-        "domain": "ipsnews.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

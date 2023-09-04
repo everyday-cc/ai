@@ -41,6 +41,20 @@ related:
         width: 711
         height: 400
         isCached: true
+  - title: "AI in the Workplace"
+    excerpt: "As employers increasingly adopt artificial intelligence (AI) tools to help make hiring decisions and perform other workplace functions, they must assess how to make the most of technological developments while remaining compliant with legal and regulatory requirements."
+    publishedDateTime: 2023-09-01T03:21:00Z
+    webUrl: "https://www.reuters.com/practical-law-the-journal/transactional/ai-workplace-2023-09-01/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://www.reuters.com/resizer/6Zc2TF_ZLG7FtJpoJk0f_thCDok=/1920x1005/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/33UKYOX3PBAOVPBM6B2MGFCHIM.jpg"
+        width: 1920
+        height: 1005
+        isCached: true
   - title: "How the AI Revolution Will Reshape the World"
     excerpt: "We are now facing a new wave of technology, centered around AI but including synthetic biology, quantum computing, and abundant new sources of energy. In many respects it will repeat this pattern. Yet it will also depart from it in crucial ways only now becoming clear."
     publishedDateTime: 2023-09-01T11:05:00Z

@@ -246,15 +246,6 @@ related:
         width: 1200
         height: 450
         isCached: true
-  - title: "US curbs Nvidia’s AI chip exports to some Middle East countries"
-    excerpt: "Nvidia this week did not specify which countries in the Middle East were affected. The company derived most of its US$13.5 billion in sales in its fiscal quarter ended July 30 from the US, China and Taiwan. About 13.9% of sales came from all other countries combined, and Nvidia does not provide a revenue breakout from the Middle East."
-    publishedDateTime: 2023-08-30T23:04:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/08/31/us-curbs-nvidias-ai-chip-exports-to-some-middle-east-countries/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 34
   - title: "US regulators deny blocking AI chip exports to Middle East"
     excerpt: "Nvidia’s quarterly report stated it received requirements from U.S. regulators about needing to obtain a license prior to selling its flagship chips to “some Middle Eastern countries.”"
     publishedDateTime: 2023-09-01T12:40:00Z

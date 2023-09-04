@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/the-3-most-promisi
 webUrl: "https://markets.businessinsider.com/news/stocks/the-3-most-promising-ai-stocks-to-own-now-1032597962"
 type: article
 quality: 53
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -29,6 +29,15 @@ related:
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Earlier this summer, it seemed as if the market was starting to appreciate"
     publishedDateTime: 2023-09-01T11:15:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/qualcomms-ai-moves-wont-help-qcom-stock-stay-far-away-1032599236"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "3 Appealing AI Stocks to Snatch Up at Current Levels"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In the age of AI breakthroughs, certain companies have risen as leaders in"
+    publishedDateTime: 2023-09-04T15:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-appealing-ai-stocks-to-snatch-up-at-current-levels-1032603333"
     type: article
     provider:
       name: Business Insider

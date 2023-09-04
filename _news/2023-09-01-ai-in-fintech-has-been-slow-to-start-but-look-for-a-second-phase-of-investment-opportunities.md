@@ -66,15 +66,6 @@ related:
         height: 628
         isCached: true
   - title: "Fintech’s Bright Future: 3 Stocks Set to Skyrocket in 2024"
-    excerpt: "So let’s take a closer look at three fintech stocks on my shopping list right now. On any major pullbacks, I think these companies may be worth considering. PayPal’s (NASDAQ:PYPL) AI-driven insights, unique wallets, and smooth CEO succession plan ..."
-    publishedDateTime: 2023-08-30T23:59:00Z
-    webUrl: "https://www.nasdaq.com/articles/fintechs-bright-future%3A-3-stocks-set-to-skyrocket-in-2024"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
-  - title: "Fintech’s Bright Future: 3 Stocks Set to Skyrocket in 2024"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The fintech sector, which provides investors with exposure to a blend of"
     publishedDateTime: 2023-09-01T01:16:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/fintechs-bright-future-3-stocks-set-to-skyrocket-in-2024-1032598018"
@@ -96,6 +87,20 @@ related:
       - url: "https://www.finextra.com/finextra-images/oped/767.jpg"
         width: 799
         height: 449
+        isCached: true
+  - title: "You Don't Have to Pick a Winner in Fintech. Here's Why."
+    excerpt: "Artificial intelligence (AI) is on every investor's mind these days ... As you can see, there are lots of ways to gain direct exposure to the fintech sector. Investors who prioritize safety and thus want less risky options can look at Visa and Mastercard."
+    publishedDateTime: 2023-09-04T17:07:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/PYPL/pressreleases/19946368/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 24
+    images:
+      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/8dd204abcbccfff5bcdbe02efb4f1179/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f743336%252ffintech-payment-app-hands-smartphone.jpg%26amp%3Bw%3D700"
+        width: 2374
+        height: 1263
         isCached: true
 
 secured: "ZGjCN2wxBskpGQs+Wqd8O8VcPfFhwxBaGLJw5vnORe5+7OKKS1o9t2B5rJQTMy42mAbtXXptUPmK950pwJS1g9PZrClvjulQYN3AAJZvG7sazCklZXUhbWC8jRQDEf3rTbf8B/SCn7kZHJTqQ4ZU12jF1jNBzzx7j1LjT6g1QXAHl3oQMjnEjdrFKRTkWrFvbsDwoKETVj5WvMjO2kvIMB1xlbhJ4l4jC1E8ilPSa5T6iv+ZTe7BP4HBt7sDReYYSkqU9hEpNN4v+rh0TKutHOywLUrtk2MRcz4UfHvvo9qASD8xEgjxSUyrk7rK/MPOx/9mOn0hUMP5SYcK43Vo6yS17WBFnjRH1eeQPj5eEBU=;VPjwWi9OZLO/BfkvJWLSlA=="

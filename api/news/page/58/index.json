@@ -2,6 +2,162 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2023-07-24-how-patsnap-used-gpt-2-inference-on-amazon-sagemaker-with-low-latency-and-cost.md",
+      "title": "How Patsnap used GPT-2 inference on Amazon SageMaker with low latency and cost",
+      "excerpt": "This blog post was co-authored, and includes an introduction, by Zilong Bai, senior natural language processing engineer at Patsnap. You’re likely familiar with the autocomplete suggestion feature when you search for something on Google or Amazon. Although the search terms in these scenarios are pretty",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-patsnap-used-gpt-2-inference-on-amazon-sagemaker-with-low-latency-and-cost/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-patsnap-used-gpt-2-inference-on-amazon-sagemaker-with-low-latency-and-cost/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/24/patsnap-gpt-2.jpg",
+          "width": 1022,
+          "height": 511,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-24T14:23:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-optimize-aws-inferentia-utilization-with-fastapi-and-pytorch-models-on-amazon-ec2-inf1-inf2-instances.md",
+      "title": "Optimize AWS Inferentia utilization with FastAPI and PyTorch models on Amazon EC2 Inf1 & Inf2 instances",
+      "excerpt": "When deploying Deep Learning models at scale, it is crucial to effectively utilize the underlying hardware to maximize performance and cost benefits. For production workloads requiring high throughput and low latency, the selection of the Amazon Elastic Compute Cloud (EC2) instance, model serving stack,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-aws-inferentia-utilization-with-fastapi-and-pytorch-models-on-amazon-ec2-inf1-inf2-instances/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-aws-inferentia-utilization-with-fastapi-and-pytorch-models-on-amazon-ec2-inf1-inf2-instances/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/24/optimize-inferentia-utilization.jpg",
+          "width": 1025,
+          "height": 514,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-24T13:55:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-25-ai-driven-bubble-may-burst-and-drag-down-stock-market-jpmorgan-says.md",
+      "title": "‘AI-Driven Bubble’ May Burst And Drag Down Stock Market, JPMorgan Says",
+      "excerpt": "Fallout from elevated interest rates, an “erosion” of personal savings and a “deeply troubling” geopolitical situation will lead to broad market declines, according to strategists at the world’s largest bank.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/dereksaul/2023/07/24/ai-driven-bubble-may-burst-and-drag-down-stock-market-jpmorgan-says/",
+      "originalUrl": "https://www.forbes.com/sites/dereksaul/2023/07/24/ai-driven-bubble-may-burst-and-drag-down-stock-market-jpmorgan-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64bed4cc9cc6a1aae39b88ca/0x0.jpg?format=jpg&crop=2553,1435,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/dereksaul/2023/07/24/ai-driven-bubble-may-burst-and-drag-down-stock-market-jpmorgan-says/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dereksaul/2023/07/24/ai-driven-bubble-may-burst-and-drag-down-stock-market-jpmorgan-says/amp/",
+      "publishedDateTime": "2023-07-24T12:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-25-cadence-lifts-revenue-forecast-as-ai-boom-boosts-chip-design-demand.md",
       "title": "Cadence lifts revenue forecast as AI boom boosts chip-design demand",
       "excerpt": "Cadence Design Systems Inc on Monday raised its full-year revenue forecast slightly above Wall Street estimates, as a surge in artificial intelligence (AI) innovation fueled demand for custom semiconductor design.",
@@ -1049,152 +1205,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-artificial-intelligence-is-changing-the-world-and-your-business.md",
-      "title": "Artificial Intelligence Is Changing The World And Your Business",
-      "excerpt": "Regardless of the industry, whether your company is based around services, manufacturing, consumer or business-to-business, AI will play a role in company operations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/24/artificial-intelligence-is-changing-the-world-and-your-business/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/24/artificial-intelligence-is-changing-the-world-and-your-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64ba8e17f5fa3c5cc0d98952/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/24/artificial-intelligence-is-changing-the-world-and-your-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/24/artificial-intelligence-is-changing-the-world-and-your-business/amp/",
-      "publishedDateTime": "2023-07-24T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-unleashing-the-power-of-unstructured-data-the-rise-of-large-ai-models.md",
-      "title": "Unleashing The Power Of Unstructured Data: The Rise Of Large AI Models",
-      "excerpt": "The advent of large language models in text, search and image processing has undeniably revolutionized the landscape of unstructured data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/unleashing-the-power-of-unstructured-data-the-rise-of-large-ai-models/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/unleashing-the-power-of-unstructured-data-the-rise-of-large-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64ba9062817e55774abd3591/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/unleashing-the-power-of-unstructured-data-the-rise-of-large-ai-models/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/24/unleashing-the-power-of-unstructured-data-the-rise-of-large-ai-models/amp/",
-      "publishedDateTime": "2023-07-24T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-50-of-healthcare-professionals-endorse-ai-in-clinical-practice-report.md",
-      "title": "50% of healthcare professionals endorse AI in clinical practice: Report",
-      "excerpt": "About  50 per cent of healthcare industry professionals with prior experience in artificial intelligence (AI) have strongly endorsed",
-      "sourceUrl": null,
-      "webUrl": "https://glamsham.com/world/technology/50-of-healthcare-professionals-endorse-ai-in-clinical-practice-report",
-      "originalUrl": "https://glamsham.com/world/technology/50-of-healthcare-professionals-endorse-ai-in-clinical-practice-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://glamsham.com/wp-content/uploads/2023/07/2a253c1258143da0dbcb615b6a8e21da.jpg",
-          "width": 900,
-          "height": 494,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://glamsham.com/world/technology/50-of-healthcare-professionals-endorse-ai-in-clinical-practice-report?amp=1",
-      "cdnAmpWebUrl": "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/50-of-healthcare-professionals-endorse-ai-in-clinical-practice-report?amp=1",
-      "publishedDateTime": "2023-07-24T04:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "glamsham.com",
-        "domain": "glamsham.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

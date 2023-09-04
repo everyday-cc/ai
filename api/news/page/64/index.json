@@ -2,6 +2,152 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2023-07-20-generative-ai-and-solving-the-blank-page-problem.md",
+      "title": "Generative AI And Solving The 'Blank Page' Problem",
+      "excerpt": "As we white-knuckle the early days of generative AI, here’s my viewpoint on where the machine and human value begins and ends.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/07/20/generative-ai-and-solving-the-blank-page-problem/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/07/20/generative-ai-and-solving-the-blank-page-problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649b304e0b8ffa27f33c85e4/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/07/20/generative-ai-and-solving-the-blank-page-problem/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/07/20/generative-ai-and-solving-the-blank-page-problem/amp/",
+      "publishedDateTime": "2023-07-20T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-20-risks-associated-with-off-the-shelf-ai-toolsand-how-to-mitigate-them.md",
+      "title": "Risks Associated With Off-The-Shelf AI Tools—And How To Mitigate Them",
+      "excerpt": "In the wrong hands, they could turn into highly potent sources of malicious code—code designed to harm the software or enable security breaches. Employees using generative AI tools could unwittingly make their companies vulnerable to bad actors looking to generate malicious code.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/20/risks-associated-with-off-the-shelf-ai-tools-and-how-to-mitigate-them/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/20/risks-associated-with-off-the-shelf-ai-tools-and-how-to-mitigate-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/612676c88afd1167f5554556/0x0.jpg?format=jpg&crop=2569,1446,x0,y124,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/20/risks-associated-with-off-the-shelf-ai-tools-and-how-to-mitigate-them/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/20/risks-associated-with-off-the-shelf-ai-tools-and-how-to-mitigate-them/amp/",
+      "publishedDateTime": "2023-07-20T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-20-the-movement-to-limit-face-recognition-tech-might-finally-get-a-win.md",
+      "title": "The movement to limit face recognition tech might finally get a win",
+      "excerpt": "A Massachusetts bill restricting police use could set the standard for how the technology is regulated in America. If it fails, it'll be a blow to a once-promising movement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/07/20/1076539/face-recognition-massachusetts-test-police/",
+      "originalUrl": "https://www.technologyreview.com/2023/07/20/1076539/face-recognition-massachusetts-test-police/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/06/massachusetts-facial-recognition.jpg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2023/07/20/1076539/face-recognition-massachusetts-test-police/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/20/1076539/face-recognition-massachusetts-test-police/amp/",
+      "publishedDateTime": "2023-07-20T03:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-20-a-bull-market-is-coming-2-artificial-intelligence-ai-growth-stocks-to-buy-now-and-hold-forever.md",
       "title": "A Bull Market Is Coming: 2 Artificial Intelligence (AI) Growth Stocks to Buy Now and Hold Forever",
       "excerpt": "The next bull market could take the S&P 500 much higher, and these growth stocks are well-positioned to outperform.",
@@ -1050,143 +1196,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-tuition-financial-aid.md",
-      "title": "Tuition & Financial Aid",
-      "excerpt": "The Master of Science in Machine Learning and Data Science tuition for the 2023-2024 academic year is $21,500 per quarter, plus an added $266 health services fee and a $125 ... Science program are eligible for financial aid. Prospective students should ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mccormick.northwestern.edu/machine-learning-data-science/admissions/tuition-financial-aid.html",
-      "originalUrl": "https://www.mccormick.northwestern.edu/machine-learning-data-science/admissions/tuition-financial-aid.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mccormick.northwestern.edu/machine-learning-data-science/images/overview/tuition-financial-aid.jpg",
-          "width": 770,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-19T12:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "mccormick.northwestern.edu",
-        "domain": "northwestern.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-the-power-of-liquid-ai-compact-fluid-and-task-minded-neural-networks.md",
-      "title": "The Power Of Liquid AI: Compact, Fluid And Task-Minded Neural Networks",
-      "excerpt": "Daniela Rus, MIT CSAIL Director, showcases MIT’s breakthroughs in Liquid Neural Networks and its robust capabilities to revolutionize real-world flight performance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/07/19/the-power-of-liquid-ai-compact-fluid-and-task-minded-neural-networks/",
-      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/07/19/the-power-of-liquid-ai-compact-fluid-and-task-minded-neural-networks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b815124a54ff7e675b79a0/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/07/19/the-power-of-liquid-ai-compact-fluid-and-task-minded-neural-networks/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/07/19/the-power-of-liquid-ai-compact-fluid-and-task-minded-neural-networks/amp/",
-      "publishedDateTime": "2023-07-19T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-red-teaming-101-what-is-red-teaming.md",
-      "title": "Red teaming 101: What is red teaming?",
-      "excerpt": "Red teaming is the process of testing your cybersecurity effectiveness through the removal of defender bias by applying an adversarial lens to your organization.\nThe post Red teaming 101: What is red teaming? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/red-teaming-101-what-is-red-teaming/",
-      "originalUrl": "https://www.ibm.com/blog/red-teaming-101-what-is-red-teaming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-19T09:47:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

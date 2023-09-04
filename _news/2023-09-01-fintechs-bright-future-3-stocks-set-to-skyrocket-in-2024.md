@@ -78,15 +78,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 38
-  - title: "Fintech’s Bright Future: 3 Stocks Set to Skyrocket in 2024"
-    excerpt: "So let’s take a closer look at three fintech stocks on my shopping list right now. On any major pullbacks, I think these companies may be worth considering. PayPal’s (NASDAQ:PYPL) AI-driven insights, unique wallets, and smooth CEO succession plan ..."
-    publishedDateTime: 2023-08-30T23:59:00Z
-    webUrl: "https://www.nasdaq.com/articles/fintechs-bright-future%3A-3-stocks-set-to-skyrocket-in-2024"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
   - title: "Future of Fintech in Latin America 2023: AI sector expects growth and aims to confront bias"
     excerpt: "AI is expected to increase the GDP of Latin America by more than 5% by 2030, according to an Economist Impact report, as demonstrated in the graph below. However, according to Oxford Insights, Latin America is among the lowest scoring regions for the Government  AI Readiness Index in 2021."
     publishedDateTime: 2023-08-31T09:15:00Z
@@ -100,6 +91,20 @@ related:
       - url: "https://www.finextra.com/finextra-images/oped/767.jpg"
         width: 799
         height: 449
+        isCached: true
+  - title: "You Don't Have to Pick a Winner in Fintech. Here's Why."
+    excerpt: "Artificial intelligence (AI) is on every investor's mind these days ... As you can see, there are lots of ways to gain direct exposure to the fintech sector. Investors who prioritize safety and thus want less risky options can look at Visa and Mastercard."
+    publishedDateTime: 2023-09-04T17:07:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/PYPL/pressreleases/19946368/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 24
+    images:
+      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/8dd204abcbccfff5bcdbe02efb4f1179/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f743336%252ffintech-payment-app-hands-smartphone.jpg%26amp%3Bw%3D700"
+        width: 2374
+        height: 1263
         isCached: true
 
 secured: "l7AlNkhYASb7C3iqvKj/nOemHLkcgaaD9GyVQhW6pXXiKjBpOC8TOfh6jW8eT+KPuSoshH7QLGIzgka2Wz9PWYKoYvWBRohvFefNGR9e9F2m1nr93lDz9W9IHKh0uBgZYHUv8omfTv9LV4bnRYZ8TaaMARP0ytXVeSGJVaIyvUTjRU6f0puO6KzGWnItr1bs/IXDNiFMP7JCD4fo0V9ptCWengIB/spgzc9mUwPQKkAJLqlPW0Fu6ziEtNMyG1O9unaJ9LmHF2JHcROuq1XsiCucppRDcPBjJwEEa/ih7QuO5S96V0mCkRGFRQvwUfdARxGGyaPnFeK6VDeT5p4v6IZf1pa2BhfWiqUJiKIguut59fLOMcVmjeACzWs1+9AKoDzB6oJyGt8E7uHCb0PGvdk2Vru3l8CDHYB4YQ+UifG2JxmVWlKfCir5e6B/NE9ul33JhI1ZRLwA5rZeyUmqbwpZcv/JYGSOp8yqpABo4A3UbgMMtvFP1/o1Xk1aNNhpW+T85y04WIFDMN9Okx4vag==;C73wTSkSRmoMr28xjL5Wvg=="

@@ -7,8 +7,8 @@ originalUrl: "https://www.salon.com/2023/09/03/artificial-intelligence-may-influ
 webUrl: "https://www.salon.com/2023/09/03/artificial-intelligence-may-influence-whether-you-can-get-pain-medication_partner/"
 type: article
 quality: 53
-heat: -1
-published: false
+heat: 73
+published: true
 
 provider:
   name: Salon
@@ -25,31 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI may influence whether you can get pain medication"
-    excerpt: "Even critics of drug-tracking systems and algorithms say there is a place for them in reducing the harms of the opioid crisis."
-    publishedDateTime: 2023-08-31T01:00:00Z
-    webUrl: "https://www.popsci.com/health/artificial-intelligence-pain-medication/"
-    ampWebUrl: "https://www.popsci.com/health/artificial-intelligence-pain-medication/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/health/artificial-intelligence-pain-medication/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 59
-    images:
-      - url: "https://www.popsci.com/uploads/2023/08/30/Depositphotos_475432208_L-1.jpg?auto=webp"
-        width: 2000
-        height: 1125
-        isCached: true
-  - title: "Artificial Intelligence May Influence Whether You Can Get Pain Medication"
-    excerpt: "The use of systems to analyze opioid-prescribing data has sparked questions over whether they have undergone enough independent testing outside of the companies that developed them, making it hard to know how they work."
-    publishedDateTime: 2023-08-31T00:58:00Z
-    webUrl: "https://laist.com/news/health/artificial-intelligence-may-influence-whether-you-can-get-pain-medication"
-    type: article
-    provider:
-      name: LAist
-      domain: laist.com
-    quality: 33
   - title: "Artificial intelligence may influence whether you can get pain medication"
     excerpt: "New tools, like Narx Scores, are using data and algorithms to screen patients for potential opioid abuse. But they don't always get it right"
     publishedDateTime: 2023-09-01T13:30:00Z

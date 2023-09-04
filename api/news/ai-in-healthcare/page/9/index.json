@@ -2,6 +2,103 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-05-16-trying-to-make-sense-of-artificial-intelligence-heres-your-guide.md",
+      "title": "Trying to make sense of artificial intelligence? Here’s your guide",
+      "excerpt": "ChatGPT came on the scene as something different. Not only could it answer a seemingly unlimited number of questions, but it could also write screenplays, summarize huge amounts of information and imitate a human in conversation somewhat convincingly. It immediately seemed, at a minimum, that it could one day make everyday life more efficient.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/innovation/ai-explain-openai-chatgpt-how-to-rcna77889",
+      "originalUrl": "https://www.nbcnews.com/tech/innovation/ai-explain-openai-chatgpt-how-to-rcna77889",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-04/230428-ai-explainer-lr-5c8005.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna77889",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna77889",
+      "publishedDateTime": "2023-05-16T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-05-16-hippocratic-ai-raises-50-mln-seed-funding-to-build-models-for-healthcare.md",
+      "title": "Hippocratic AI raises $50 mln seed funding to build models for healthcare",
+      "excerpt": "Hippocratic AI, a startup building artificial intelligence models for the healthcare industry, has raised $50 million in a larger-than-usual seed funding round, signaling strong investor interest in betting on AI models for specific industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/healthcare-pharmaceuticals/hippocratic-health-raises-50-mln-seed-funding-build-ai-model-2023-05-16/?taid=646381de5571eb000186b80a",
+      "originalUrl": "https://www.reuters.com/business/healthcare-pharmaceuticals/hippocratic-health-raises-50-mln-seed-funding-build-ai-model-2023-05-16/?taid=646381de5571eb000186b80a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/9Ff0pYw8o_htWZ9gDHe_OETrgDY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WU6RQETI5NJZJAZFZU4DLOQALE.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-16T05:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-05-16-where-healthcare-meets-tech-three-crucial-areas-of-discussion.md",
       "title": "Where Healthcare Meets Tech: Three Crucial Areas Of Discussion",
       "excerpt": "The first has to do with artificial intelligence, particularly in terms of improving the patient experience, lowering costs, and speeding up patient selection and triage. A lot can be said about the potential of AI when applied to healthcare. According to ...",
@@ -1297,83 +1394,6 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-explained-what-is-the-eus-artificial-intelligence-act-and-how-does-it-plan-to-rein-in-tech-like-chatgpt.md",
-      "title": "Explained | What is the EU’s Artificial Intelligence Act and how does it plan to rein in tech like ChatGPT?",
-      "excerpt": "As artificial intelligence technologies become omnipresent and their algorithms more advanced—capable of performing a wide variety of tasks including voice assistance, recommending music, driving cars, detecting cancer, and even deciding whether you get shortlisted for a job— the risks and uncertainties associated with them have also ballooned.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/explained-what-is-the-eus-artificial-intelligence-act-and-how-does-it-plan-to-rein-in-tech-like-chatgpt/article66794478.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/explained-what-is-the-eus-artificial-intelligence-act-and-how-does-it-plan-to-rein-in-tech-like-chatgpt/article66794478.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th-i.thgim.com/public/incoming/n82nfe/article66809441.ece/alternates/FREE_1200/iStock-1474442258.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/explained-what-is-the-eus-artificial-intelligence-act-and-how-does-it-plan-to-rein-in-tech-like-chatgpt/article66794478.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/explained-what-is-the-eus-artificial-intelligence-act-and-how-does-it-plan-to-rein-in-tech-like-chatgpt/article66794478.ece/amp/",
-      "publishedDateTime": "2023-05-03T10:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-new-artificial-intelligence-tool-can-diagnose-colon-cancer.md",
-      "title": "New Artificial Intelligence Tool Can Diagnose Colon Cancer",
-      "excerpt": "A new artificial intelligence (AI) model developed by Harvard Medical School and Taiwan’s National Cheng Kung University could provide much-needed clarity to clinicians presenting prognoses and deciding on therapies for patients with colon cancer.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.buffalonews.com/buffnews/article/pressreach-2023-5-3-new-artificial-intelligence-tool-can-diagnose-colon-cancer",
-      "originalUrl": "https://markets.buffalonews.com/buffnews/article/pressreach-2023-5-3-new-artificial-intelligence-tool-can-diagnose-colon-cancer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T06:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Buffalo News",
-        "domain": "buffalonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

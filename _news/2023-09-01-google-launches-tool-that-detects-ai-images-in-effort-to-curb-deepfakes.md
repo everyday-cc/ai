@@ -38,15 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "New Meta, Google tools detect AI-generated images"
-    excerpt: "The tech giants release tools to identify synthetic images and combat AI-related discrimination for more responsible use."
-    publishedDateTime: 2023-09-01T13:11:00Z
-    webUrl: "https://www.itweb.co.za/content/4r1ly7R9Ejnvpmda"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 19
   - title: "OpenAI Rages at Report That Google's New AI Crushes GPT-4"
     excerpt: "OpenAI CEO Sam Altman was clearly annoyed by a blog post declaring that Google's forthcoming Gemini model will quickly surpass GPT-4."
     publishedDateTime: 2023-08-31T19:54:00Z

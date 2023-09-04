@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Generative AI And SEO Strategy: Getting The Most Out Of Your Tools"
+    excerpt: "Dive into the State of SEO report findings for illuminating perspectives on generative AI's impact on SEO."
+    publishedDateTime: 2023-08-31T09:00:00Z
+    webUrl: "https://www.searchenginejournal.com/generative-ai-and-seo-strategy-getting-the-most-out-of-your-tools/493591/"
+    type: article
+    provider:
+      name: Searchenginejournal.com
+      domain: searchenginejournal.com
+    quality: 37
+    images:
+      - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/08/sos-2024-generativeai-featured-image-64eda220ca322-sej.jpg"
+        width: 1600
+        height: 840
+        isCached: true
 
 secured: "4EnsukmmU/C6/a44hUBBdK1Wf8vcVaLvQiw+5P4Xg/UA0BEHFZg++hfFDLT1tXGZEksB9uaCE9/Lfsns/ZWgx2FMa+ZmrcRJ2j6la8VA/3ceMCMiCVsA/m25H/Fei+QRC2G5aXEGbIfdzmL9OJgbDNqyeoD3k+zHydoR+llMBTd4sEfUeqisRC+skkc1yEQ9SK8ks47nmoLkOCT2TOsM48yJY2QOpPTDxoSaXDJYK6DkpBwDC9wkNxfgbIqmjmIXMp9eYi+JK7QSNOG0nWaGu28N17/4TJi6D3lgRIsAu8qYiPgYtM9wrXcBXCJsc7ndFNF2Siu2Qc0kz1fTwsxbabXt1PjkGOKhp79/NmkE5Evedbls4W+7ji4jlgypIm3aqITvyNIJvU/0sSruK1K5SnC4lo8ztjOPqAavXT0CY8SuZt6r+O9KOhTfkbitsUfy68ndszwky6HLqFTIYj/ya/SJKsyZpaDqz5hSA6iYXW7B7abqQV3w3fSUND/tD+DmsW891OREPOZlSpAQE3va4Q==;wJPUMfHzDCXMbQ2KwbNN9w=="
 ---

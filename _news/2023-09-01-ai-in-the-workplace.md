@@ -29,166 +29,72 @@ images:
     isCached: true
 
 related:
-  - title: "Bringing generative AI in Search to more people around the world"
-    excerpt: "We’re bringing generative AI capabilities in Search (SGE) to more people, making  Search Labs available in India and Japan."
-    publishedDateTime: 2023-08-31T00:30:00Z
-    webUrl: "https://blog.google/products/search/google-search-generative-ai-india-japan/"
-    ampWebUrl: "https://blog.google/products/search/google-search-generative-ai-india-japan/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/google-search-generative-ai-india-japan/amp/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 109
-    images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SGE_Expansion_hero.width-1300.jpg"
-        width: 1300
-        height: 541
-        isCached: true
-  - title: "How Google Cloud Is Leveraging Generative AI To Outsmart Competition"
-    excerpt: "It has a smaller 256-chip footprint per Pod, which is optimized for the state-of-the-art neural network architecture based on the transformer architecture."
-    publishedDateTime: 2023-09-04T11:49:00Z
-    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/"
-    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/amp/"
+  - title: "Transformers Revolutionized AI. What Will Replace Them?"
+    excerpt: "As another example, eighteen-month-old startup Inflection recently raised over $1 ... while a novel architecture soon displaces transformers as state-of-the-art in robotics. Or perhaps a new AI approach is developed that outperforms and rapidly replaces ..."
+    publishedDateTime: 2023-09-03T22:01:00Z
+    webUrl: "https://www.forbes.com/sites/robtoews/2023/09/03/transformers-revolutionized-ai-what-will-replace-them/"
+    ampWebUrl: "https://www.forbes.com/sites/robtoews/2023/09/03/transformers-revolutionized-ai-what-will-replace-them/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/09/03/transformers-revolutionized-ai-what-will-replace-them/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 91
+    quality: 93
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64f5bc845a7c3861341e8146/0x0.jpg?format=jpg&width=1200"
-        width: 1000
-        height: 667
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64f3b2b43d727bdfbf85cc97/0x0.jpg?format=jpg&width=1200"
+        width: 711
+        height: 400
         isCached: true
-  - title: "Upping Your Prompt Engineering Superpowers Via Target-Your-Response Techniques When Using Generative AI"
-    excerpt: "A vital technique for prompt engineering entails thinking ahead and telling generative AI what kind of response you are expecting to get. Here is the insider scoop."
-    publishedDateTime: 2023-09-04T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/09/04/upping-your-prompt-engineering-superpowers-via-target-your-response-techniques-when-using-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/09/04/upping-your-prompt-engineering-superpowers-via-target-your-response-techniques-when-using-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/09/04/upping-your-prompt-engineering-superpowers-via-target-your-response-techniques-when-using-generative-ai/amp/"
+  - title: "How the AI Revolution Will Reshape the World"
+    excerpt: "We are now facing a new wave of technology, centered around AI but including synthetic biology, quantum computing, and abundant new sources of energy. In many respects it will repeat this pattern. Yet it will also depart from it in crucial ways only now becoming clear."
+    publishedDateTime: 2023-09-01T11:05:00Z
+    webUrl: "https://time.com/6310115/ai-revolution-reshape-the-world/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 75
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64f54e68e4547e11b1b0157e/0x0.jpg?format=jpg&crop=2510,1675,x22,y0,safe&width=1200"
-        width: 1200
-        height: 801
-        isCached: true
-  - title: "Generative AI and Foundation Models Face Inflated Expectations"
-    excerpt: "Computer vision and cloud AI services are among the most mature applications of AI, according to Gartner's 2023 AI Hype Cycle."
-    publishedDateTime: 2023-08-31T17:08:00Z
-    webUrl: "https://www.techrepublic.com/article/generative-ai-dominates-2023-gartner-hype-cycle/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
+      name: Time
+      domain: time.com
     quality: 67
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr_08312023-generative-ai-dominates-2023-gartner-hype-cycle.jpg"
-        width: 1400
-        height: 900
+      - url: "https://api.time.com/wp-content/uploads/2023/09/GettyImages-1405750746.jpg?quality&#x3D;85"
+        width: 2121
+        height: 1414
         isCached: true
-  - title: "How SMBs Can Cut Through the Generative AI Hype"
-    excerpt: "AWS Head of Innovation for SMBs Ben Schreiner reminds business leaders to focus on data and problem-solving when making decisions around generative AI. We may be compensated by vendors who appear on this page through methods such as affiliate links or ..."
-    publishedDateTime: 2023-09-01T09:29:00Z
-    webUrl: "https://www.techrepublic.com/article/aws-generative-ai-interview/"
+  - title: "How AI and machine learning will revolutionize investing decisions"
+    excerpt: "Columbia University professor Michael Robbins says the sky is the limit for artificial intelligence once the technology evolves"
+    publishedDateTime: 2023-09-01T01:30:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/globe-advisor/advisor-news/article-how-ai-and-machine-learning-will-revolutionize-investing-decisions/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 54
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr83123-smb-ai.jpeg"
-        width: 1400
-        height: 933
-        isCached: true
-  - title: "How businesses can achieve greener generative AI with more sustainable inference"
-    excerpt: "Why a server-on-a-chip operating on far less power and GPUs can create cost-conscious, environmentally-sound, democratized generative AI."
-    publishedDateTime: 2023-09-03T15:20:00Z
-    webUrl: "https://venturebeat.com/ai/how-businesses-can-achieve-greener-generative-ai-with-more-sustainable-inference/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 66
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/annevb_a_computer_with_green_plants_growing_out_of_it_or_aroun_34756494-fc43-4af9-aa33-3ded589fabc9.png?w=1200&strip=all"
+      - url: "https://www.theglobeandmail.com/resizer/Gkhog6nL6qmm6i1A-VXTqewKrRw=/1200x757/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/MZC7RUPSLNFMZCSFIH3M757CWA.jpg"
         width: 1200
-        height: 600
+        height: 757
         isCached: true
-  - title: "Generative AI Is More Mad Lib Than HAL9000"
-    excerpt: "A quiet revolution has been occurring in artificial intelligence. Whereas in the past, AI was limited to analyzing information that already exists, it has"
-    publishedDateTime: 2023-08-31T20:53:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2023/08/30/generative_ai_is_more_mad_lib_than_hal9000_149693.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2023/08/30/generative_ai_is_more_mad_lib_than_hal9000_149693.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2023/08/30/generative_ai_is_more_mad_lib_than_hal9000_149693.amp.html"
+  - title: "5 Ways AI Will Transform the Mobility Industry"
+    excerpt: "Although they've only really reached mainstream attention in the past decade, autonomous vehicles have been around since the 1990s. In recent years, some self-driving cars have achieved Level 4 autonomy, which means they can steer, accelerate, decelerate, and intervene to prevent a crash without the need for human interaction."
+    publishedDateTime: 2023-08-31T15:30:00Z
+    webUrl: "https://www.inc.com/inc-masters/five-ways-ai-will-transform-the-mobility-industry.html"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 59
-    images:
-      - url: "https://assets.realclear.com/images/61/619208_5_.jpeg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Google’s AI-powered search comes to India: How to sign-up and start using"
-    excerpt: "Google is expanding its AI-powered search feature, known as SGE (Search Generative Experience), to India and Japan. SGE allows users to ask conversational questions and receive AI-generated answers. It is available as an opt-in experiment in Google's Search Labs and can be accessed through the Google app and Chrome desktop."
-    publishedDateTime: 2023-08-31T04:40:00Z
-    webUrl: "https://www.gadgetsnow.com/featured/googles-ai-powered-search-comes-to-india-how-to-sign-up-and-start-using/articleshow/103231812.cms"
-    ampWebUrl: "https://www.gadgetsnow.com/featured/googles-ai-powered-search-comes-to-india-how-to-sign-up-and-start-using/amp_articleshow/103231812.cms"
-    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/featured/googles-ai-powered-search-comes-to-india-how-to-sign-up-and-start-using/amp_articleshow/103231812.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 56
-    images:
-      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-103231812,imgsize-58586,width-800/103231812.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Generative AI means the looming end of search as we know it – here’s why"
-    excerpt: "“Datafication Nation” columns are part of WRAL TechWire’s Startup Monday package. RALEIGH-There is tremendous hype and hysteria surrounding Generative AI, and the risk it poses to many job categories and to complete industries. But should we ..."
-    publishedDateTime: 2023-09-04T11:09:00Z
-    webUrl: "https://wraltechwire.com/2023/09/04/generative-ai-means-the-looming-end-of-search-as-we-know-it-heres-why/"
-    ampWebUrl: "https://wraltechwire.com/2023/09/04/generative-ai-means-the-looming-end-of-search-as-we-know-it-heres-why/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/09/04/generative-ai-means-the-looming-end-of-search-as-we-know-it-heres-why/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 56
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2018/05/artificial-intelligence-4-alien-god-diety.jpg"
-        width: 960
-        height: 578
-        isCached: true
-  - title: "Generative AI And SEO Strategy: Getting The Most Out Of Your Tools"
-    excerpt: "Dive into the State of SEO report findings for illuminating perspectives on generative AI's impact on SEO."
-    publishedDateTime: 2023-08-31T09:00:00Z
-    webUrl: "https://www.searchenginejournal.com/generative-ai-and-seo-strategy-getting-the-most-out-of-your-tools/493591/"
-    type: article
-    provider:
-      name: Searchenginejournal.com
-      domain: searchenginejournal.com
+      name: Inc
+      domain: inc.com
     quality: 37
     images:
-      - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/08/sos-2024-generativeai-featured-image-64eda220ca322-sej.jpg"
-        width: 1600
-        height: 840
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1263350156_hssaxd.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Acceptable-use policies for generative artificial intelligence"
-    excerpt: "The program is possibly the most well-known example of generative AI, an artificial intelligence technology that identifies patterns in large quantities in training data and then generates original content – text,"
-    publishedDateTime: 2023-09-01T10:00:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2023/09/01/acceptable-use-policies-for-generative-ai.html"
+  - title: "How the rise of AI is revolutionising the FinTech industry"
+    excerpt: "In that sense, the role of AI in revolutionizing how financial institutions like non-banking financial companies (NBFCs) are offering banking-like services is proving to be extremely important. Not only is AI helping new-age financial institutions in automating manual processes such as data entry and customer request management,"
+    publishedDateTime: 2023-09-03T12:30:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-how-the-rise-of-ai-is-revolutionising-the-fintech-industry-3231450/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
+      name: The Financial Express
+      domain: financialexpress.com
     quality: 19
 
 secured: "zZ6TxQ43oj3FZI4zYQ3/pJm2RRg3gsAqB4DQhrCCnl6ru8n8sgXW43lvkhdKhpB8ZJNArV0Lqp1agDkdxTQ8EgWTfsJYEwirmKzoefy9iXd4NRbnfWqNy8RGRCxpWTJ38OodKhIhSx/UD2zheJcHH0TcW+nAHK0Ho5ZJ02UJYrdWj5PXEOLCfY09zFMdtduGhp1C8Wl7Fnp3HVWHDuKQIKzipGLgXRMRywiD3GNnwXHehS6nfAYzhQjHcQKQPLiFtSp4OAzSvTwF/IlWRxKODSsdRPLMLh/vPyMJRlNKZNlm9wH8XdAPO3JnfZlBJOi3UP0gcFhbtCkMsTXq5KGkf5AmbUkLDrOFAjDAkUH41nb7wgZiAVK2IjTOS0OAfy1SfSkux1ozE9qJxbzCFJfR9IdBG4DFEzRmHBxoDuBlv3UDAxf8fa69IftbO/onRAvU1CPRF9twPH90zBgHB891yTLh99RqMHJ3h3ilBN0oZVzcd97bFmMtugwxplX2MVOjPWTz0Qnb/TJDu2G8HEVhfQ==;TW/5VaXZJQf2dUjdbjUmaQ=="

@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google finally launches AI-powered Search outside US"
-    excerpt: "Google's SGE generative AI technology for Search has only been available in the US, but that is changing today."
-    publishedDateTime: 2023-08-31T00:30:00Z
-    webUrl: "https://www.androidauthority.com/google-sge-launch-outside-us-3359338/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 67
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/06/google-search-labs-2.jpg"
-        width: 1919
-        height: 1080
-        isCached: true
   - title: "Google's search for an AI future as it turns 25"
     excerpt: "Google turns 25 this month (I'll have a few more candles on my cake) - and finds itself in a tech landscape that has changed dramatically since founders Larry Page and Sergey Brin started it in 1998."
     publishedDateTime: 2023-09-02T23:41:00Z

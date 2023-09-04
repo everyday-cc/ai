@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Deep learning used by seismologists to improve prediction of earthquakes: Study"
-excerpt: "The Recurrent Earthquake foreCAST (RECAST), a new model developed by academics from the Technical University of Munich and the University of California, Santa Cruz, addresses this issue by using deep learning to forecast aftershocks. The researchers ..."
-publishedDateTime: 2023-09-02T16:34:00Z
-originalUrl: "https://timesofindia.indiatimes.com/home/science/deep-learning-used-by-seismologists-to-improve-prediction-of-earthquakes-study/articleshow/103313891.cms"
-webUrl: "https://timesofindia.indiatimes.com/home/science/deep-learning-used-by-seismologists-to-improve-prediction-of-earthquakes-study/articleshow/103313891.cms"
-ampWebUrl: "https://m.timesofindia.com/home/science/deep-learning-used-by-seismologists-to-improve-prediction-of-earthquakes-study/amp_articleshow/103313891.cms"
-cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/science/deep-learning-used-by-seismologists-to-improve-prediction-of-earthquakes-study/amp_articleshow/103313891.cms"
+excerpt: "The methods that researchers and governmental organisations employ to predict earthquake aftershocks have mostly stayed unaltered for more than 30 years. The large seismology datasets that are currently accessible are difficult for these older models to handle,"
+publishedDateTime: 2023-09-02T13:43:00Z
+originalUrl: "https://theprint.in/science/deep-learning-used-by-seismologists-to-improve-prediction-of-earthquakes-study/1744032/"
+webUrl: "https://theprint.in/science/deep-learning-used-by-seismologists-to-improve-prediction-of-earthquakes-study/1744032/"
+ampWebUrl: "https://theprint.in/science/deep-learning-used-by-seismologists-to-improve-prediction-of-earthquakes-study/1744032/?amp"
+cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/science/deep-learning-used-by-seismologists-to-improve-prediction-of-earthquakes-study/1744032/?amp"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Indiatimes
-  domain: indiatimes.com
+  name: ThePrint
+  domain: theprint.in
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://static.toiimg.com/thumb/msid-103313933,width-1070,height-580,imgsize-18314,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-    width: 1069
-    height: 580
+  - url: "https://static.theprint.in/wp-content/uploads/2023/09/ANI-20230902134029.jpg"
+    width: 600
+    height: 450
     isCached: true
 
 related:
@@ -95,6 +95,6 @@ related:
       domain: webindia123.com
     quality: 15
 
-secured: "iZL8wOp4hVwCQsrb51N4WcTYu7C22/6uBwzsJfwU3eU9iK8ec9rSHOgZZQXbKSGkBWql/KnwAImUDAwxDbuUC0T+vlQjCUCxPD48UlGM6lVP5Z2lsQNMSHtlMCNih3LQWEPnEDE2K7BenlH7hq8vqaf7LDZv0YN6wa0G9/MXYdG6TH3pr+Q9Eqh3bHtOYyPuzxv1Wkdi2kBmRvJcVpLTfGcq0am5u+I1gCtYFt+NHp2C7rXkNvpkSQCaAdorQ2A4VUCvB1XMCg4alnZ5X5+mh6N20/Ihq4RC4+bo8ltGD/fWRVt6FXicIshSGBR1dcO6uyvCTwk7eYrkG8bKA0Rq8+QOSnvDSBiAU+B7SdhmFC3iVF4NkK1tF3KjNWsx6yP2P09DLGpuZaopJDbXHTICgCViLCZlHMvXPRdgnHXtb7Ky89kucwDPBogJq5rbLUH8pUHR+/ScwuXK7Z5smd09M3OBwRE37Wd8V1in+T3diMoZIRz0D8yMJd+k3b5EZtxzfU6mI1dwQwrm1nT9AYQuhQ==;Vkn8Ao+U0j36+CWSlYKR2g=="
+secured: "1ioATTYTtkQOc21S8Qw+Vi595SuFUgy3lvN27KhG3O5k1uEIbkWrncpfsXtcHoenkhg89KrPjyH6PawW3CvJzDlHJvn0B0sfJutTQUuVQROSUA5IppGO8BNAUGgZtkTmjNrh4iy1O+2NIUDxA6Q0gqxoBo4Lt2FuSgQDMSUtSaQHhPVxdBEcRfMrPdws2CBhW4d6Pw23Qw1dJ2K7jlhDDBEHHNznithySnEyt5Et2WRjRWTgzqPIE5qawnoic4Y7LkF7BQNaAXeULzmdfUVNczGgHUFQrBTTfTgbXM81BYJ0729UAnM1QcUy3IPdR2Kk05yjz7YhmdujCJC6egmB44ipnwyt+vTLEHmRMcgy5g8=;OIwMn/1GtjPVqKvF55F4Vw=="
 ---
 

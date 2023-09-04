@@ -71,22 +71,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Tesla allowing no-hands driving with Autopilot for longer periods draws concern from regulators"
-    excerpt: "Tesla is allowing some drivers to use its Autopilot driver-assist system for extended periods without making them put their hands on the steering wheel, a development that has drawn concern from U.S."
-    publishedDateTime: 2023-08-31T00:03:00Z
-    webUrl: "https://abc7.com/tesla-autopilot-car-safety-elon-musk/13720025/"
-    ampWebUrl: "https://abc7.com/amp/tesla-autopilot-car-safety-elon-musk/13720025/"
-    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/tesla-autopilot-car-safety-elon-musk/13720025/"
-    type: article
-    provider:
-      name: ABC7
-      domain: abc7.com
-    quality: 47
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/13719922_tesla-img.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "0WsCOdnqyd80zzmV4QA3a5L2y8XkD0dA2NI4EgbuuxyejneE4bzCpxyAS7dRfByfQC2hHrJRs/99azZhyW1jOztF6pZSljmtOUdmbmX4QXCfxdXAcAXWpJWTFyHn49QkeIDLofV1M7MxWUtXJhMJ6GNaxwNPDwVG7eY2J2f/xm/8we1zPxPLnu2Qj4/0/r4IQMYZ70Pv0r2VKmQ+trE/CCV1sEcxASW/zNekl3q1w5ZU/q6WrPZgjZg6/kNLIkMKt1EWcGKqa1IecD1h+7jqhsmhah9vq1OcnRqcV57rRnwO2qP3xJtIqCXYC+ksoofFB+7C2XO/OBUgqewmrCbWebyKlq6PgWtPbBZgnaNZQU8=;Me8ligfGbpn0ngozcdCT9g=="
 ---

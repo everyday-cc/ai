@@ -7,7 +7,7 @@ originalUrl: "https://uk.pcmag.com/cars-auto/148492/tesla-drops-the-price-of-its
 webUrl: "https://uk.pcmag.com/cars-auto/148492/tesla-drops-the-price-of-its-full-self-driving-beta-software"
 type: article
 quality: 69
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -60,22 +60,6 @@ related:
       - url: "https://www.eastbaytimes.com/wp-content/uploads/2023/08/Tesla_Autopilot_Investigation_13169-1.jpg?w=1024&h=683"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Tesla allowing no-hands driving with Autopilot for longer periods draws concern from regulators"
-    excerpt: "Tesla is allowing some drivers to use its Autopilot driver-assist system for extended periods without making them put their hands on the steering wheel, a development that has drawn concern from U.S."
-    publishedDateTime: 2023-08-31T00:03:00Z
-    webUrl: "https://abc7.com/tesla-autopilot-car-safety-elon-musk/13720025/"
-    ampWebUrl: "https://abc7.com/amp/tesla-autopilot-car-safety-elon-musk/13720025/"
-    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/tesla-autopilot-car-safety-elon-musk/13720025/"
-    type: article
-    provider:
-      name: ABC7
-      domain: abc7.com
-    quality: 47
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/13719922_tesla-img.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Tesla is allowing no-hands driving with Autopilot for longer periods. US regulators have questions"
     excerpt: "Tesla says Autopilot and a more sophisticated “Full Self-Driving” system cannot drive themselves and that drivers must be ready to intervene at all times. Autopilot generally can keep a car in its lane and a distance away from objects in front of it."

@@ -2,6 +2,161 @@
   "page": 124,
   "value": [
     {
+      "path": "_news/2023-06-13-how-forethought-saves-over-66-in-costs-for-generative-ai-models-using-amazon-sagemaker.md",
+      "title": "How Forethought saves over 66% in costs for generative AI models using Amazon SageMaker",
+      "excerpt": "This post is co-written with Jad Chamoun, Director of Engineering at Forethought Technologies, Inc. and Salina Wu, Senior ML Engineer at Forethought Technologies, Inc. Forethought&nbsp;is a leading generative AI suite for customer service. At the core of its suite is the innovative SupportGPT™ technology",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-forethought-saves-over-66-in-costs-for-generative-ai-models-using-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-forethought-saves-over-66-in-costs-for-generative-ai-models-using-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/13/forethought-generative-ai-sagemaker.jpg",
+          "width": 1022,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-13T10:41:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-amazon-experiments-with-using-ai-to-sum-up-product-reviews.md",
+      "title": "Amazon experiments with using AI to sum up product reviews",
+      "excerpt": "Amazon is experimenting with using artificial intelligence to sum up customer feedback about products on the site, with the potential to cut down on the time shoppers spend sifting through reviews before making a purchase.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/06/13/tech/amazon-generative-ai-review-summaries/index.html",
+      "originalUrl": "https://www.cnn.com/2023/06/13/tech/amazon-generative-ai-review-summaries/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/221025100312-amazon-online-shopping-stock.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/06/13/tech/amazon-generative-ai-review-summaries/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/13/tech/amazon-generative-ai-review-summaries/index.html",
+      "publishedDateTime": "2023-06-13T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-vectara-lands-285m-to-supercharge-enterprise-search.md",
+      "title": "Vectara lands $28.5M to supercharge enterprise search",
+      "excerpt": "Vectara, a platform providing AI-powered enterprise search tech, has raised $28.5 million in a seed funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/13/vectara-lands-28-5m-to-supercharge-enterprise-search/",
+      "originalUrl": "https://techcrunch.com/2023/06/13/vectara-lands-28-5m-to-supercharge-enterprise-search/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1352189853-1.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/13/vectara-lands-28-5m-to-supercharge-enterprise-search/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/13/vectara-lands-28-5m-to-supercharge-enterprise-search/amp/",
+      "publishedDateTime": "2023-06-13T10:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-13-reinventing-the-data-experience-use-generative-ai-and-modern-data-architecture-to-unlock-insights.md",
       "title": "Reinventing the data experience: Use generative AI and modern data architecture to unlock insights",
       "excerpt": "Implementing a modern data architecture provides a scalable method to integrate data from disparate sources. By organizing data by business domains instead of infrastructure, each domain can choose tools that suit their needs. Organizations can maximize the value of their modern data architecture with",
@@ -1079,135 +1234,6 @@
       "provider": {
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-thumbay-institutecollege-of-artificial-intelligence-technology-in-healthcare-launched-at-gmu.md",
-      "title": "Thumbay Institute/College of Artificial Intelligence & Technology in Healthcare launched at GMU",
-      "excerpt": "Opening new avenues for research, education, healthcare delivery, innovation, and technological advancements in the field",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/thumbay-institute-college-of-artificial-intelligence-and-technology-in-healthcare-launched-at-gmu-ke5mc6iq",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/thumbay-institute-college-of-artificial-intelligence-and-technology-in-healthcare-launched-at-gmu-ke5mc6iq",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/YmRlYWI3MDAtNWU4NS00/0/niversity-2-jpeg.jpeg?f=3%3A2",
-          "width": 765,
-          "height": 510,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/thumbay-institute-college-of-artificial-intelligence-and-technology-in-healthcare-launched-at-gmu-ke5mc6iq?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/thumbay-institute-college-of-artificial-intelligence-and-technology-in-healthcare-launched-at-gmu-ke5mc6iq?amp=1",
-      "publishedDateTime": "2023-06-13T02:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-meta-launches-musicgen-an-ai-powered-music-generator.md",
-      "title": "Meta launches MusicGen, an AI-powered music generator",
-      "excerpt": "Meta's MusicGen offers AI-generated music from text and melody, but Google's MusicLM, available through the AI Test Kitchen app, also generates high-fidelity music based on text descriptions across genres.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatvnews.com/technology/news/meta-launches-musicgen-an-ai-powered-music-generator-2023-06-13-875748",
-      "originalUrl": "https://www.indiatvnews.com/technology/news/meta-launches-musicgen-an-ai-powered-music-generator-2023-06-13-875748",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/06/meta-pixabay-copy-1686645297.jpg",
-          "width": 360,
-          "height": 202,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news/meta-launches-musicgen-an-ai-powered-music-generator-2023-06-13-875748",
-      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/meta-launches-musicgen-an-ai-powered-music-generator-2023-06-13-875748",
-      "publishedDateTime": "2023-06-13T01:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India TV",
-        "domain": "indiatvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-the-face-game-a-citizen-science-project-to-learn-how-artificial-intelligence-will-choose-to-appear-to-humans.md",
-      "title": "The Face Game: A citizen science project to learn how Artificial Intelligence will choose to appear to humans",
-      "excerpt": "Science X is a network of high quality websites with most complete and comprehensive daily coverage of the full sweep of science, technology, and medicine news",
-      "sourceUrl": null,
-      "webUrl": "https://sciencex.com/wire-news/448086428/the-face-game-a-citizen-science-project-to-learn-how-artificial.html",
-      "originalUrl": "https://sciencex.com/wire-news/448086428/the-face-game-a-citizen-science-project-to-learn-how-artificial.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx1.b-cdn.net/csz/news/800/2023/ai.jpg",
-          "width": 800,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://sciencex.com/wire-news/448086428/the-face-game-a-citizen-science-project-to-learn-how-artificial.amp",
-      "cdnAmpWebUrl": "https://sciencex-com.cdn.ampproject.org/c/s/sciencex.com/wire-news/448086428/the-face-game-a-citizen-science-project-to-learn-how-artificial.amp",
-      "publishedDateTime": "2023-06-13T01:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "sciencex",
-        "domain": "sciencex.com",
         "images": null,
         "publishers": null,
         "authors": null
