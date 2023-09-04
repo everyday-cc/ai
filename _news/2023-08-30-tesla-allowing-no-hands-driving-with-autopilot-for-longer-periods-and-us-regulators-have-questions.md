@@ -57,15 +57,6 @@ related:
         width: 5078
         height: 3385
         isCached: true
-  - title: "Tesla is allowing no-hands driving with Autopilot for longer periods. US regulators have questions"
-    excerpt: "It opened a formal probe in 2021 and since 2016 has sent investigators to 35 Tesla crashes that may involve partially automated driving systems. At least 17 people have died. Tesla says Autopilot and a more sophisticated “Full Self-Driving” system ..."
-    publishedDateTime: 2023-08-30T13:49:00Z
-    webUrl: "https://www.wspa.com/news/national/tesla-is-allowing-no-hands-driving-with-autopilot-for-longer-periods-us-regulators-have-questions/"
-    type: article
-    provider:
-      name: WSPA
-      domain: wspa.com
-    quality: 5
 
 secured: "TwbXN1ZcZnqXHjrg3C8E4iWOGVZy6MvjpLc5HE73KxB/yXn/bp6zyQeg5GojuwKnAuD3lQxB1Un6F20YsBtQ7WGOmAzclB8rM8fvc2FabSHIN1B4nQlMzKANkzUBNCB++7jVphcYPkFlWl3xh1XkYPl4urTLrxWg5OrPKqo932VzzKrTCZ1PTO0Q+ooPJghV/PW/Q76zLgt1KF3P9HxpraQmGD8KxaDgDkB6yrDlV49VwS9qKP0V677nQ6vnjsOjZ/if6N6S3M1SZUarGtNrPIdNVjVfPrgdqO6Tm1K8G5evgVm5q68rguzClygJWG+36wKYMuHmXST4Z2JGLG0u6TQ8lH+lcvw8evNJqpigfGU=;gfJrFxtdfAfMo8sHNI3z3Q=="
 ---

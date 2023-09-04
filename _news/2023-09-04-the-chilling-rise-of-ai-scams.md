@@ -3,8 +3,8 @@ category: news
 title: "The chilling rise of AI scams"
 excerpt: "Criminals are cloning voices and making calls to trick victims into sending them money. How can they be stopped?"
 publishedDateTime: 2023-09-04T01:00:00Z
-originalUrl: "https://www.theguardian.com/news/audio/2023/sep/04/the-chilling-rise-of-ai-scams-podcast?ref=upstract.com"
-webUrl: "https://www.theguardian.com/news/audio/2023/sep/04/the-chilling-rise-of-ai-scams-podcast?ref=upstract.com"
+originalUrl: "https://www.theguardian.com/news/audio/2023/sep/04/the-chilling-rise-of-ai-scams-podcast?ref=biztoc.com"
+webUrl: "https://www.theguardian.com/news/audio/2023/sep/04/the-chilling-rise-of-ai-scams-podcast?ref=biztoc.com"
 type: article
 quality: 37
 heat: -1
@@ -85,6 +85,20 @@ related:
         width: 361
         height: 249
         isCached: true
+  - title: "How artificial intelligence is driving change in insurance"
+    excerpt: "Even as AI technology continues to develop, there is much for us to do so we can prepare for the future and meet it head-on."
+    publishedDateTime: 2023-09-04T07:46:00Z
+    webUrl: "https://www.business-reporter.co.uk/finance/how-artificial-intelligence-is-driving-change-in-insurance"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 39
+    images:
+      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/033/iStock-1309799098.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Exploring AI’s Transformative Impact on UK Pharmaceuticals and Manufacturing with Bidyut Sarkar"
     excerpt: "As the AI wave sweeps across industries, the pharmaceutical sector stands poised for a transformative makeover. Experts contend that integrating artificial intelligence (AI) offers unprecedented prospects for accelerated innovation and enhanced healthcare outcomes in the life science industry."
     publishedDateTime: 2023-09-01T12:56:00Z
@@ -109,6 +123,6 @@ related:
       domain: theprint.in
     quality: 19
 
-secured: "TQJPtXPWQ4EjvtxYPxcu2ExOUhuq/0LlVhz+E5znTL6zPMJwNokI9XT+hFaXOmNmfdA+xHXXDant1Vgbv2YjDxg4scqId3oa5fAU8qU8UtYEoqfkzKFkYwWhVNz9gDoT5qaibKsnDCYr3Gsw+FE0m7dYoDpAoxMilwb63kaTlLf4k06OZM7F1YIAVOXFhandXlm0cMQxiVncWPpOXIsefF8UJhQ8VofOIOjn0T3R6hBKwXg4bYL+156twRlZkAsSwsv+yYeWTUJSgbKZsoyO88VLosj5YYzQ8enR+KeI8of+9hA1pBCzQ+le+ZxKFbmDhXgaFTCxbH9h/LRDXEfhwSqBNO8DBsgkK7NdsCCahcR0I8W+z/nkcxtfbYKtki551tzDXeqRUKD67pefq119MFyOMYWTO9fkZKLGOFCS6lRq+4SDfvMkT5ptV4/SjerFuy2h7vyuGHZnAExX+5yWUt9U4+2qKtLBulvQeMI96neNtvyFzGbhZdg5PNYFP4B95hpo1VqafqvF/gBpVyUsdg==;btgXPOGYJ56O91RU3lF22Q=="
+secured: "yQmcND9WvgcuLeGKGyALhdwwFVla1jlgn6Tj2RAZ7gB8e11U+Nvwn7bBPMCp8SBgOXGOffSAqI/awTHE/GdXRj9gLRMuXFHJ5YYgEjtLLLtPTGPUa6+8e2KosQ/BcMwRr0jwx6dRh5xRFgn/mkYJ0dCGA4uiwEP8sXuFk4iijEG6BtKLJNyadm3pBxzj2BVJ5VLPfWAN6Fyu5aeYWLUUmlbMoMTutPYRjV5rcFOxIDLM9BqCvkNlIskPVhN0DXFFt2BsM0l1G58JZezCcmRJHO8lp+4ioUCyH4oSiIs7FwS9WPv5/IAuVvORKf15C2GSlwshslMGN4B0PLF6ncvKHg82hR4EP1omZ2f2EWXg++4=;JUMx1UOR8N8B/owhm014wQ=="
 ---
 

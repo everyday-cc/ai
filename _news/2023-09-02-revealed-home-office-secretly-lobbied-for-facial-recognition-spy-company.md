@@ -3,8 +3,8 @@ category: news
 title: "Revealed: Home Office secretly lobbied for facial recognition ‘spy’ company"
 excerpt: "Officials reflected policing minister’s enthusiasm to roll out controversial technology across the country, particularly in retail settings"
 publishedDateTime: 2023-09-02T16:03:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company?ref=upstract.com"
-webUrl: "https://www.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company?ref=upstract.com"
+originalUrl: "https://www.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company?ref=biztoc.com"
+webUrl: "https://www.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company?ref=biztoc.com"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company"
 type: article
@@ -41,6 +41,6 @@ related:
       domain: techdigest.tv
     quality: 26
 
-secured: "IIBVxL7r8eAgxitAP1ZIyzLlWLyEurksluJvVjH/ufyyjONyQ+IkHGUW3p3wlA2OiGSJSYHTInDpjlWOwbOiX+Q8WlS814zpHKXW14mbtAOdwPXTYJohvROCVkcvRXkc+gon//UXXAJA9QoLpE+0E2gwYWtYFt0d3/erIjZQEFEps8pGhc8Buf9UzvWbygEfoH96MzOpNyokZz+F6AgKGUKpBOVf0fiye7FOaHVZVHcXiSSNhTVxo9txH7lZcailForwhVuPP+C2ViPfJvCCo4Sieq++qw0XE+CJreawAjtbtHogQli5GMqSSNy6gJcMSJnNZmTnbu5G8i7AFQanVjxqd6DfiXF4iLl7mjvKscSXjLYdZM2Obz6WLVlUNgqfkfZX7LmVidG5SpOE+aORJ7ywtWGCmMI3YQblNV/bFBiouIiWTnIA8uUA4gUCeDdQ8KoSXCv2qap3VbYCQnPPT9/rtPvQFVFK1lK+Rf+Nb8k736mCnZHd18alMi6GpLDXKKHwStXu2535cYt+oK77kA==;YxOCy0jmnKJ9BAdLI/+O1Q=="
+secured: "UYZqaxuZxZec40ec/IXJ7AtyovxbQhCTblx+KeaA4DE8NPNWeilMz9PF4nWhsxco8/edwuI4Xo9AjiCUFwsgVV7r8+Vdh06y9fF/8RqUfpSK3C2YDBDXWbIK+qMwfY4OrpTrwy6XDlj+Fa11WiehT2HcmRXSWAHaMfs5h/sQfuCLs99Ku373YoG7RSXYokCFll88PPOw4iUJrnKnW7vgQTVjhpMQBXw578w7EPc44VguZApB3TJITLTmFhwVhEnTk6hNNHKmqrqdTyRIIX05xu0n8mXhd27oxu46/4cFwK4PJ8yz7jfcRTnn5/thKTAphFyWa4jGk91PNY5PMvtlQX2YFhZLOz70dJAmkK317ks=;lMX2dYo60BIiUl8iSPLTvQ=="
 ---
 

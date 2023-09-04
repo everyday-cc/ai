@@ -3,8 +3,8 @@ category: news
 title: "‘The challenges are real’: TUC taskforce to examine AI threat to workers’ rights"
 excerpt: "Experts aim to draw up UK legislation to protect against misuse of artificial intelligence"
 publishedDateTime: 2023-09-03T10:37:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/sep/03/tuc-taskforce-examine-ai-threat-workers-rights?ref=futurepedia"
-webUrl: "https://www.theguardian.com/technology/2023/sep/03/tuc-taskforce-examine-ai-threat-workers-rights?ref=futurepedia"
+originalUrl: "https://www.theguardian.com/technology/2023/sep/03/tuc-taskforce-examine-ai-threat-workers-rights"
+webUrl: "https://www.theguardian.com/technology/2023/sep/03/tuc-taskforce-examine-ai-threat-workers-rights"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/sep/03/tuc-taskforce-examine-ai-threat-workers-rights"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/sep/03/tuc-taskforce-examine-ai-threat-workers-rights"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "cs2JAtmZ1Jm557fgTrgdMdloXMS9bisJs9o/vehoiVdWDXPSNE+f4rSmAif1Z4HhXYL6PsyyXA5CcY+QCvD93Dp88S2QZwgHJ42By9L3rHlpd6muYAFIk0mvRulJRMcN2nPXCPWjUdIy0bkI4LZHrSySk1PH2urZ63zOcHQsPqV7FOJtMtCBJuEtuSeLkJlUGizYC8z0PANlzu6Y805POCYE8bMnB/KblgqgxnGVl5et4pDvSiwT7QBM58h3lrRQXx3DExfoO5WoIvHi8w89aFkX+p+OiRgatD3oEjgSPsHyBiLAah3V/+tZrIDTWZKU19MPe590RKqv1nB+xqqD8b0CWYAyIQ1utVajdKJtmZs=;c10p33Ig8c71yyhJSFqfcg=="
+secured: "uDAYsGRJbWV5pWv6TgWSqQeGWS4qfERDzJDQCoKFQJWeLXBuKSXx7QPum+ffTxN1+nv28AQSryXTM4Rn0qT8X9vc69eXnM7c9gtC4tJlFh/a5NdahzBrhVqdnYMecVoXQld05AbIXTuAzSwqkf14nM2Vj1bzl6DwSlGJC1rBw91k7AOyBVIGwUCcNt9dEFGAn8/ZEm1gyRGLdo3Jn7hw2iASopEdz12VuLArewfTddfn12+wlCgNLEkDDIRdYYT4ATNN1gQSGd9D+O7PeZtODvgHFkKT8YP+SzjFI+EQV6F376oq95ccYeHCdwNhYRVbMCNGeDHAodR9GDxUgtZ9MDR1MgqbQouKe/GMBVyJsvc=;ljEdqqO7NS9G/fBc4j7LYQ=="
 ---
 

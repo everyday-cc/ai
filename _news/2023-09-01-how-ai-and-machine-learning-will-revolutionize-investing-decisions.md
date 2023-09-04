@@ -78,15 +78,6 @@ related:
       name: The Financial Express
       domain: financialexpress.com
     quality: 19
-  - title: "Is Corporate America ready for the AI revolution?"
-    excerpt: "Artificial intelligence is transforming the way we live, but despite its rapid progression into the mainstream, according to a new report from the New York Times, most of corporate America isn't prepared to fully embrace or adopt the powerful new technology."
-    publishedDateTime: 2023-08-30T14:57:00Z
-    webUrl: "https://www.cbsnews.com/video/corporate-america-not-ready-for-ai-revolution/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 17
 
 secured: "plObk49hzwJauJUbaW3kX3xBsjkLIJMfP582N2GB8fEgoU2mqP+2UAqs+ryO8TEHfocsJquyRzFDGvEQJywY5NhCZcmGJ3JhKma4NuEwXinMzBX8pF/nU6Ag0DB+eZcWB5vnEMom5sauX6eIAQiw5ZDutNFajAJkdMsK4K4v3xT787Sli6srkDkJxuE0/7yT670h86Ph6z/1GbDHbdR7Xgm3S5iT1x+lWj89idUwWLShbk0Zb1Qhgi7TQnuZJ/6/3dSCFHx4sYH3X09q9nVRpHioEmibhqwjmRyz53HOXeQ8iR3KyL/zqmyQ5dE8UQc2/UE6ZQMpMIM6LA7OUSc/MAXuxSlHEeEAIgs6SQEfret8fXtZ366pxLY9fJ8eWyLswe/hg9Z+c/Qz+nDIpsvPqeMAb9s4GA8bEiTnTVdK/NMR+n4kBG3rw6JM9Ze3Q+iLXlw68QaULERG+FYnMzFgEqCRlj8WSroJodVjfZdwDCCazaAEnV09Wpfj/pZ+J6V9Uw/v4k9SzAT8RnBoWICCcA==;iES4EuXLRLPIJTIxHpXFag=="
 ---

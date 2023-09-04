@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/08/31/startup-superfra
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/08/31/startup-superframe-raises-5-million-to-simplify-salesforce-configurations-with-ai-chatbot/amp/"
 type: article
 quality: 77
-heat: 187
+heat: 177
 published: true
 
 provider:
@@ -161,15 +161,6 @@ related:
       name: Axios
       domain: axios.com
     quality: 17
-  - title: "Salesforce earnings will miss big AI bump, but there will be other things to love"
-    excerpt: "At the start of the year, Salesforce announced that it is looking ... \"So this story is somewhat driven by AI, like others, but it's more driven by continued cost rationalization. Check out the full CNBC interview below."
-    publishedDateTime: 2023-08-30T13:54:00Z
-    webUrl: "https://www.thestreet.com/technology/salesforce-earnings-will-miss-big-ai-bump-but-there-will-be-other-things-to-love"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 12
 
 secured: "1ivFrUyxDSbdRtACTliVBJ9JogAg4UxkvuICabaG158bHJZR2rnt14UxK2ELe60v9oigTvO9gSoMpQi6M/84f63RW02cFTsH+JB3+mYGlhcDQo+5fULmO5KpNBu6RHVPOJIHz+Gy81THIrfK33yzxxOre9MCljYuptmrMfIiYbyswgCt19Aria2R5VnjkLO/vPedZPXSS1QWHvrvvNtHnqSaUplxOoc8SvxJbE2IVmDR9dDffxxlaBltQqF+agQCYXDUTQr+fn8nRBa03vN77bCeSurVrhN/Jm03YwH8LX+zkDvPtNJkBXiShbrGUHPatCtIwG6LvfYp+dAMfzzPRC3H3YSrE2nX4WaMDTLQnJN30+RGuzwzaurqtAAu1W+9U/RfckmTGYBGWUUwC3ychpQTFrlVuSVTygOUil5wlcr/2HFstaAQhA4s/Q7846rnznMBjAiIBdRQvgszSzRQYiDfPoPowm/qvLP7l7FqH6/znwKgoJ/ziucW8B0ZBIUDxPifOELOQ5XK97eQWUC/CQ==;UB7ZBIlr0NKFUwgYQm4BIw=="
 ---

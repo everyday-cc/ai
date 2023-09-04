@@ -77,15 +77,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Is Corporate America ready for the AI revolution?"
-    excerpt: "Artificial intelligence is transforming the way we live, but despite its rapid progression into the mainstream, according to a new report from the New York Times, most of corporate America isn't prepared to fully embrace or adopt the powerful new technology."
-    publishedDateTime: 2023-08-30T14:57:00Z
-    webUrl: "https://www.cbsnews.com/video/corporate-america-not-ready-for-ai-revolution/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 17
 
 secured: "QsTj55NeP74QRN+TvZWnUA3uE33L3EINsvrKMn1uhdn86Maykl5dXkppMQ+KzgAVuX/Y5s/JiZss2Ti1+NdpHIeKZvxLjSkq7s9xhtcUNHpjQGo6iLmJDyoRjHX5OCyXFzVbGaDzArIAXQqR849r05bFx9gTDBjffxZcsqCPGw6tJRUl2qw6jPawBV5hhGdFkdDqp1Tx0fsbFJzamxR6ElZ/Zw0r/k97eimRpOFPUNb6nFrumSzjPtgY04OCtlRad2KZNNL4adOTsXtOUfNv2lBQFNLqRZTRBB9LZ7fUNOquW+9RNjsCmI+H/3jzg2j7tmEWTfbVCeT7A6RcdPyAbcxblXrDBrFvCynchJUs/XhRFpdl3ivbXsdZ+zJRJMrWZYEbONWbEPAPrffGMQDXauIbBAmcl1lvsZWmGfAFUsUsKCx/SMu6ntk2ugyJWVxZlOhtpm+RmQ4eRqq/5+j3+PUYwrxkMUW6Okene6o8bdrJozNh3VP/Y/qx94u3BJmOzF3w7zZVizrgeFlRCl8BVg==;kIaMaBEtf0b6V+Ed0pvcWw=="
 ---

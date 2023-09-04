@@ -189,20 +189,6 @@ related:
         width: 5289
         height: 3204
         isCached: true
-  - title: "This megacap tech hitting an all-time high is proving to be the next big AI play after Nvidia"
-    excerpt: "Early on, Alphabet proved itself as a dominant name in the AI war , facing off against Microsoft with a competing chatbot, although some fears mounted that it lagged the competition . GOOGL YTD mountain Alphabet shares since the start of 2023 \"We continue ..."
-    publishedDateTime: 2023-08-30T14:35:00Z
-    webUrl: "https://www.cnbc.com/2023/08/30/this-megacap-tech-hitting-an-all-time-high-is-proving-to-be-the-next-big-ai-play-after-nvidia.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 56
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106273570-1575296275021gettyimages-1020621856.jpeg?v=1693405989&w=1920&h=1080"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "AI Wars: US ready to chase China to the end of world, restricts NVIDIA chip exports to countries in West Asia"
     excerpt: "The US has imposed new restrictions on NVIDIA, barring them from exporting AI chips to countries in West Asia, also known as the Middle East. The US believes that China may try to find ways around san"
     publishedDateTime: 2023-08-31T10:24:00Z

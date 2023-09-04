@@ -2,49 +2,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_news/2023-05-16-amazon-plans-to-use-robots-ai-to-speed-up-deliveries.md",
-      "title": "Amazon plans to use robots, AI to speed up deliveries",
-      "excerpt": "Approximately 75 percent of Amazon customer orders involve the use of robotics to some extent.. Amazon plans to use robots, AI to speed up deliveries. AI, Amazon, delivery, logistics, robotics, Robots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itp.net/emergent-tech/amazon-plans-to-use-robots-ai-to-speed-up-deliveries",
-      "originalUrl": "https://www.itp.net/emergent-tech/amazon-plans-to-use-robots-ai-to-speed-up-deliveries",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itp.net/cloud/2023/01/05/Amazon.jpeg",
-          "width": 1726,
-          "height": 1214,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T00:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GDPR fines",
-        "domain": "itp.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-16-alphabets-intrinsic-launches-flowstate-a-robotic-app-development-platform.md",
       "title": "Alphabet’s Intrinsic launches Flowstate, a robotic app development platform",
       "excerpt": "This morning, the company announced its first product, Flowstate, a development platform designed to help non-roboticists.",
@@ -1358,6 +1315,49 @@
       "provider": {
         "name": "dcnewsnow",
         "domain": "dcnewsnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-a-robot-with-artificial-intelligence-self-terminated-after-15-minutes-of-manual-labor.md",
+      "title": "A robot with artificial intelligence “self-terminated” after 15 minutes of manual labor.",
+      "excerpt": "During a dayslong trade show, a prototype robot fell a few times while demonstrating its ability to move boxes in a warehouse setting. The manufacturing company, Agility Robotics, said the falls did not mean the robot consciously decided to stop working.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politifact.com/factchecks/2023/may/09/facebook-posts/do-robots-get-tired-of-working-too-social-media-po/",
+      "originalUrl": "https://www.politifact.com/factchecks/2023/may/09/facebook-posts/do-robots-get-tired-of-working-too-social-media-po/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politifact.com/politifact/rulings/meter-false.jpg",
+          "width": 438,
+          "height": 392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T12:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politifact",
+        "domain": "politifact.com",
         "images": null,
         "publishers": null,
         "authors": null

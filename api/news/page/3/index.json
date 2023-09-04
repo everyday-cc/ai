@@ -2,6 +2,102 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-01-5-ways-cisos-can-prepare-for-generative-ais-security-challenges-and-opportunities.md",
+      "title": "5 ways CISOs can prepare for generative AI’s security challenges and opportunities",
+      "excerpt": "An effective zero-trust framework can help reduce the blast radius of generative AI attacks and establish a first line of defense.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/5-ways-cisos-can-prepare-for-generative-ai-security-challenges-and-opportunities/",
+      "originalUrl": "https://venturebeat.com/security/5-ways-cisos-can-prepare-for-generative-ai-security-challenges-and-opportunities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/4.-Designing-for-trust-Top-10-cybersecurity-priorities-for-CIOs-in-2023.jpg?fit=750%2C422&#038;strip=all",
+          "width": 750,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-31T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-08-31-an-introspective-ai-finds-diversity-improves-performance.md",
+      "title": "An 'introspective' AI finds diversity improves performance",
+      "excerpt": "An artificial intelligence with the ability to look inward and fine tune its own neural network performs better when it chooses diversity over lack of diversity, a new study finds. The resulting diverse neural networks were particularly effective at solving complex tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-08-introspective-ai-diversity.html",
+      "originalUrl": "https://techxplore.com/news/2023-08-introspective-ai-diversity.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/an-introspective-ai-fi.jpg",
+          "width": 1448,
+          "height": 649,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-08-introspective-ai-diversity.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-introspective-ai-diversity.amp",
+      "publishedDateTime": "2023-08-31T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-31-expanded-partnership-brings-opentext-core-content-to-google-workspace.md",
       "title": "Expanded Partnership Brings OpenText Core Content To Google Workspace",
       "excerpt": "VP and Principal Analyst, Modern Work and financial services, Melody Brue, looks at OpenText and Google’s collaboration in Google Workspace.",
@@ -334,6 +430,58 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-31-kx-accelerates-real-time-analytics-ai-and-machine-learning-for-google-cloud-customers.md",
+      "title": "KX ACCELERATES REAL-TIME ANALYTICS, AI, AND MACHINE LEARNING FOR GOOGLE CLOUD CUSTOMERS",
+      "excerpt": "With native support for Python, SQL, and the ability to process time series and vector data in real-time, KX's technology gives data scientists, data engineers, and application developers the ability to combine real-time, historical, and vector embeddings for smarter, faster business decision making.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/kx-accelerates-real-time-analytics-ai-and-machine-learning-for-google-cloud-customers-1032596010",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/kx-accelerates-real-time-analytics-ai-and-machine-learning-for-google-cloud-customers-1032596010",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1866445/KX_Logo.jpg",
+          "width": 400,
+          "height": 204,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-31T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -1037,151 +1185,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-arnold-schwarzeneggers-stunt-coordinator-wants-fair-contract-as-ai-continues-to-loom-over-hollywood-strike.md",
-      "title": "Arnold Schwarzenegger's stunt coordinator wants ‘fair contract’ as AI continues to loom over Hollywood strike",
-      "excerpt": "A stunt coordinator who's worked with the likes of Arnold Schwarzenegger and Ryan Reynolds, explains he just wants a fair contract out of the ongoing actors strike.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/arnold-schwarzeneggers-stunt-coordinator-wants-fair-contract-as-ai-continues-loom-over-hollywood-strike",
-      "originalUrl": "https://www.foxnews.com/entertainment/arnold-schwarzeneggers-stunt-coordinator-wants-fair-contract-as-ai-continues-loom-over-hollywood-strike",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/08/1200/675/FreddyBoucieguesArnoldSchwarzeneggerLindaHamilton.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/arnold-schwarzeneggers-stunt-coordinator-wants-fair-contract-as-ai-continues-loom-over-hollywood-strike.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/arnold-schwarzeneggers-stunt-coordinator-wants-fair-contract-as-ai-continues-loom-over-hollywood-strike.amp",
-      "publishedDateTime": "2023-08-30T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-saudi-university-students-develop-12-research-projects-in-ai-robotics-at-kacst-labs.md",
-      "title": "Saudi University Students Develop 12 Research Projects in AI, Robotics at KACST Labs",
-      "excerpt": "King Abdulaziz City for Science and Technology (KACST) executed a 10-week cooperative training program for 24 trainees from several universities within the Kingdom, culminating in 12 research projects spanning diverse engineering and scientific fields.",
-      "sourceUrl": null,
-      "webUrl": "https://english.aawsat.com/varieties/4517956-saudi-university-students-develop-12-research-projects-ai-robotics-kacst-labs",
-      "originalUrl": "https://english.aawsat.com/varieties/4517956-saudi-university-students-develop-12-research-projects-ai-robotics-kacst-labs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://english.aawsat.com/s3/files/styles/1200x600/public/2023-08/317657_0.png",
-          "width": 1200,
-          "height": 584,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-30T22:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "الشرق الأوسط",
-        "domain": "aawsat.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-samsung-debuts-its-own-ai-powered-smart-recipe-app.md",
-      "title": "Samsung debuts its own 'AI-powered' smart recipe app",
-      "excerpt": "As it promised last week, Samsung has launched Food, a \"personalized, AI-powered food and recipe\" app in eight languages and 104 countries around the world..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/samsung-debuts-its-own-ai-powered-smart-recipe-app-104521190.html",
-      "originalUrl": "https://www.engadget.com/samsung-debuts-its-own-ai-powered-smart-recipe-app-104521190.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2023-08/07157380-4731-11ee-b5b8-90db7c13cfcb",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/samsung-debuts-its-own-ai-powered-smart-recipe-app-104521190.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/samsung-debuts-its-own-ai-powered-smart-recipe-app-104521190.html",
-      "publishedDateTime": "2023-08-30T21:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

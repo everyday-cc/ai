@@ -156,15 +156,6 @@ related:
       name: Axios
       domain: axios.com
     quality: 17
-  - title: "Salesforce earnings will miss big AI bump, but there will be other things to love"
-    excerpt: "At the start of the year, Salesforce announced that it is looking ... \"So this story is somewhat driven by AI, like others, but it's more driven by continued cost rationalization. Check out the full CNBC interview below."
-    publishedDateTime: 2023-08-30T13:54:00Z
-    webUrl: "https://www.thestreet.com/technology/salesforce-earnings-will-miss-big-ai-bump-but-there-will-be-other-things-to-love"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 12
 
 secured: "8Bnt0M0WWS5NSo5GQ88Z0V0mLfOOvs7PDDak+UgiH8L4IEPGZ0Uc3ZqKDWSxSRCgq2mxFeW96qjQa/Hmh43CbcN5hpBtifIXUFwq8BJ8A4cM0L3z5yjSWl0PeEa1IN8WrxzfJqN5otNrgKsbChUhfs1umb27uQZtn2q6FLc7sQy39LidHnnLvbtyYPhvdf3FwWwRDb48fhd2bJ2jTdWDPxxk8jtireglnwKwt0O0ex3Yn6WQMkEIDjeO4wjj/EmRbo3nCTDhF6eaBcd0R/lcAe3emLAVbhkn2855jusl87u4JSQsva5L/s1qnHdy4jZwN68S3SOdG/WUdlu9PHHxaFaHIi2m8JTyvVAJpiNIVK1FykIPW7kj+BvTW4eWCGgxLEQdsuOGDIotUZShB0qEsrOzZ1sz9DHeFU6zTo2QJsyChPHtu1CiNiwzyWgANaDtPw08zeeId6ReAS5aifLWlfJQj6Rx13BOS5q7WPPj7TQhx49BGce3NzRGtvD3ZYGqym7gY/Sp2UxUHyN74yV2jg==;JFCi7KuNlq9wqxvvP2GSPw=="
 ---

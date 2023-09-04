@@ -20,6 +20,17 @@ topics:
   - AI Ethics
   - AI
 
+related:
+  - title: "Schools use artificial intelligence to bust students vaping"
+    excerpt: "Artificial intelligence is being ­deployed to dob in students for vaping or bullying in school toilets, as children end up in hospital with nicotine and heavy metal ­poisoning."
+    publishedDateTime: 2023-09-01T09:10:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/schools-use-artificial-intelligence-to-bust-students-vaping/news-story/a5ecef0d7600103496e09276a30a25d7"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 17
+
 secured: "Ac4ZawPfnw0EUPtL7aYm+SkLZ4QGjinBUGBavGKsQMo5/1XaqP251E7vrzb95enxlaxNQC3ijhfOj09Tjmm8hZCrBBcXe3ueUv+vjakDbYOx/J2m7Qso8e2BWW9qQIfYGE9tLxsoK9pkxDoC+6XcBQ3al7pTqxHcUOrivDcXjVxol72r3+9dJie4hU63ngb+33OTZMyQjzb266LOWx3TqMySvzyJ+GjB3XSBQKyMu0ih6TqITNeDWCz2MJO86hT4ZccRij6/iUFj6cLaKTq+rMAN+6gk7wvuklHfMHo7tD0jTRovl4vsFiKReJ8SVtpmZQF4/xu4jnIg3DsN1IxDNASQ398pUXiCM1czGho+mlWHZqadZsnbPg6yndrcmd1TgJ7fPuhr+d36OJkRvC8pOukXmUEuZa41dtuwMhxrumiUp9USDQFE9c/mBHqxFFb2TgjcwKfwkJF1d/00F016+8rx+V6nSa3pV0AgjqiXDTbQM0Dt1hvstwMtE48wOMCtyTgHA52wuO7N/zalN+K5NA==;Pu64H0F0pRrOACKX3Sb9+g=="
 ---
 

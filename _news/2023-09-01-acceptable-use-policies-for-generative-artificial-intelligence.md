@@ -153,20 +153,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Bringing AI to work? Better have policies in place"
-    excerpt: "Conversica found this to be troubling. In its white paper, “AI Ethics and Corporate Responsibility,” Conversica basically says the uptake of AI in the workplace is running ahead of guidelines around how to govern its use. Although less than half the ..."
-    publishedDateTime: 2023-08-30T13:30:00Z
-    webUrl: "https://www.benefitspro.com/2023/08/30/bringing-ai-to-work-better-have-policies-in-place/"
-    type: article
-    provider:
-      name: Benefits Pro
-      domain: benefitspro.com
-    quality: 39
-    images:
-      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2023/07/Chat-GPT-Article-202307181246.jpg"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Generative AI And SEO Strategy: Getting The Most Out Of Your Tools"
     excerpt: "Dive into the State of SEO report findings for illuminating perspectives on generative AI's impact on SEO."
     publishedDateTime: 2023-08-31T09:00:00Z
@@ -190,15 +176,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 34
-  - title: "Generative artificial intelligence has entered the classroom"
-    excerpt: "Artificial intelligence (AI) is changing the classroom ... Faculty are also focusing on plagiarism, considering possible bias, and concerns about ethics, intellectual property, misinformation, and disinformation. Prabu David, RIT’s new provost and ..."
-    publishedDateTime: 2023-08-30T13:37:00Z
-    webUrl: "https://www.rit.edu/news/generative-artificial-intelligence-has-entered-classroom"
-    type: article
-    provider:
-      name: Rochester Institute of Technology
-      domain: rit.edu
-    quality: 19
 
 secured: "Xme/UWyVM7HRiotqaWSglnyigaabyeqI44Ukh+CTkcxqQ6j0CjB13D8cALrdcHAwU6HcmYcgcC8VkOJsoT+YcpHKqfJu8TJ6fTyxdOSOUIkz94vIViXYCAcvCiEPb574ctr7GmEcrEv/v9oMGuKs3JrYUZW6NzTpUdzxuh8BqY2X4v+cUB3MWPzwuPgMaqX9wCtc1+lwtw1JR28a0Jz9naTV8Bc96bKj6GQ7k9ZcrAJ0oV4fB9tw0DM9vZ6sC3/W1+I6urZDEf/UQZOzwGnQz/ZaxbTeXidzapuPKSXwu4X5KRiB+EPPUlrZ2W/3Ci8b/0zPA6K2ugp0gBXTATq96FPcuaQuHw4ZB9pJjPXMR0TyciBrWpx2flmuhFxMPK1eJ91VJyNnADmF/23DyCjBL+WbRsNu1Wc6Bky/RHXkFfYQL0UGAgS2rShxEOjz/l+WrqejligZR4ytq2fUOK+5UCFhtuMSnWNQ6iCsNarkdUCEkSfVv7lqsX7qHJICF8WshQC8+6nvEqlWaVgMqjEksA==;zhwBaGqESCUCvLdVxYPAGw=="
 ---

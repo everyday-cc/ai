@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/google-cloud/companies-using-google-clo
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/google-cloud/companies-using-google-cloud-ai/amp/"
 type: article
 quality: 109
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -153,15 +153,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 35
-  - title: "Google Says Over Half of Generative AI Startups Use Its Cloud"
-    excerpt: "Google Cloud's general manager for startups and AI, James Lee, said the company is becoming the \"preferred choice\" for generative AI startups due to its flexibility in offering AI models from various companies."
-    publishedDateTime: 2023-08-30T13:58:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/google-says-over-half-of-generative-ai-startups-use-its-cloud-71693333078677.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 17
 
 secured: "5N9UIalAXzGeM/nhjH8g5fYTZ+nW6KCFEC+kegAo7qjbBcQciBcW/Tuf0xUpw25dvarlXGa95PkrcitvUV/4nwzb1MBAghmibmmQtME8RglJjxWyeiNow57eBWwL36nIcaxkU+TxqB+Ye7FJXu6RQLTngHRG2eg0AcldvxTnZub398iPx9Ql/ga8gz4MwJ8oKdL9isZCCo5AOVEzuOgN6SrGraeq2M/9nuZpnqm7MtsWGJqmnvURlgEF1gxu/TNNkHblfYyvkrK+Now91CzzCHWd5Ro4dVSTDne6yuyYWTDUOnD6QiQu8bsFz+F8dhusaJ3zg1C9bV09PdcgOxL36xGTjkHn77e60MbUInpC/Ko=;r6DqOS/U3r4pI3xynhWDkA=="
 ---

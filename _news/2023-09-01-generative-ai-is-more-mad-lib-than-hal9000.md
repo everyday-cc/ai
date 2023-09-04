@@ -145,20 +145,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Bringing AI to work? Better have policies in place"
-    excerpt: "Conversica found this to be troubling. In its white paper, “AI Ethics and Corporate Responsibility,” Conversica basically says the uptake of AI in the workplace is running ahead of guidelines around how to govern its use. Although less than half the ..."
-    publishedDateTime: 2023-08-30T13:30:00Z
-    webUrl: "https://www.benefitspro.com/2023/08/30/bringing-ai-to-work-better-have-policies-in-place/"
-    type: article
-    provider:
-      name: Benefits Pro
-      domain: benefitspro.com
-    quality: 39
-    images:
-      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2023/07/Chat-GPT-Article-202307181246.jpg"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Generative AI And SEO Strategy: Getting The Most Out Of Your Tools"
     excerpt: "Dive into the State of SEO report findings for illuminating perspectives on generative AI's impact on SEO."
     publishedDateTime: 2023-08-31T09:00:00Z
@@ -182,15 +168,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 34
-  - title: "Generative artificial intelligence has entered the classroom"
-    excerpt: "Artificial intelligence (AI) is changing the classroom ... Faculty are also focusing on plagiarism, considering possible bias, and concerns about ethics, intellectual property, misinformation, and disinformation. Prabu David, RIT’s new provost and ..."
-    publishedDateTime: 2023-08-30T13:37:00Z
-    webUrl: "https://www.rit.edu/news/generative-artificial-intelligence-has-entered-classroom"
-    type: article
-    provider:
-      name: Rochester Institute of Technology
-      domain: rit.edu
-    quality: 19
   - title: "Acceptable-use policies for generative artificial intelligence"
     excerpt: "The program is possibly the most well-known example of generative AI, an artificial intelligence technology that identifies patterns in large quantities in training data and then generates original content – text,"
     publishedDateTime: 2023-09-01T10:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/tesla-autopilot-allowi
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/tesla-autopilot-allowing-no-hands-driving-longer-periods-nhtsa-concerned/"
 type: article
 quality: 65
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 1461
         height: 834
         isCached: true
-  - title: "Tesla is allowing no-hands driving with Autopilot for longer periods. US regulators have questions"
-    excerpt: "It opened a formal probe in 2021 and since 2016 has sent investigators to 35 Tesla crashes that may involve partially automated driving systems. At least 17 people have died. Tesla says Autopilot and a more sophisticated “Full Self-Driving” system ..."
-    publishedDateTime: 2023-08-30T13:49:00Z
-    webUrl: "https://www.wspa.com/news/national/tesla-is-allowing-no-hands-driving-with-autopilot-for-longer-periods-us-regulators-have-questions/"
-    type: article
-    provider:
-      name: WSPA
-      domain: wspa.com
-    quality: 5
 
 secured: "NOwt5rpjrmA40OBZFPn9n87ChonHA726RplRYrZ7qyj056dSdiRh96SCL8RM9/jKnkkMmAc/ElWNM/qHiRF4BH/wW4CLXOiGXv+l42XkYAtmuw7FYpAB4S0Z0ddvMZ7XEch5EhKTYLnhVOAbMACIB8Jw0PxuqCDTanU1xnn0rBbjKEgRkFxZIpf9lXANgVQRCHz4g5UwnhPeA+MREY68g0XOMeSB/t9RKP+POEYTCMTX0jB6AOQaLmwD8Ophjgg12XRV+PD/knfI7qaAxzWV4hkKvFc1uWasskd0ATmBL8jc2eu5izb82U+CI8Pw0QrFyQ+P0N9HSBVyHtsMQdYDWk/yMqfSHsjGuQQHKLGxW7k=;iVVZW6z0GNpUyPKXl72Y+Q=="
 ---

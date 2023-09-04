@@ -35,6 +35,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AI fused with trade data may finally smooth clunky supply chains"
+    excerpt: "Some three years after a series of trade disruptions, language-learning models and generative AI have come forward at a time when governments and companies are looking for such tools to manage the supply lines."
+    publishedDateTime: 2023-09-04T07:07:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/ai-fused-with-trade-data-may-finally-smooth-clunky-supply-chains/103347911"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-103347911,imgsize-75866,width-1200,height=765,overlay-ettelecom/internet/ai-fused-with-trade-data-may-finally-smooth-clunky-supply-chains.jpg"
+        width: 1200
+        height: 765
+        isCached: true
 
 secured: "wBOntCwUv4QLYUyyN3OoaU1Qx/gsOPxvR5LYfycnus6q3jzRf+7VGrSOWk3jaAEnLIfhSktqoaJpLu2bBdWg3Rxfu+xrEtmmJ0k60TRRoUlHQ7PAX+cnU/lizZC8SqtNvN12N5awP/Ec3z25FgVtFCQSLhKv21WRPRtyxF+1rmi4YcfGX9N+Oej97m+y2x5zZ/m4CnNXJD1eailzGDegI8HedcasYpdhYFy6tC1f6kYEtPqPDfxJ8MrrRZemQn2ZvSgSNlH+7bWBCPtzfxWXbouZb3s5Ip53ctRo00bAumAy5yA2frRidCZywvXapu3/EITjSFPvjaZDifkBGtolcPKW5VkOovCDjU2AEhl6+OvIuwxMDYJ99U19v91ecTzAH+vAIyRCCXoTtKc2dXK2SZofUEM5gWLBNhpo4Uwb8hodRKSLlzBMEgEK1aOGwNfX9l05IskWgQCXLXMqHDqLjYPFRVLqCTmZHesRou2DakTF4ehW/QRozMAtgJMEdBB0myzNcs8UyF8QWaEsCqfUVg==;B7TLlSVVPh0s13bTT1PzFw=="
 ---

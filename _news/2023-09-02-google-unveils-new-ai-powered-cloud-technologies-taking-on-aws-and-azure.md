@@ -153,15 +153,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 35
-  - title: "Google Says Over Half of Generative AI Startups Use Its Cloud"
-    excerpt: "Google Cloud's general manager for startups and AI, James Lee, said the company is becoming the \"preferred choice\" for generative AI startups due to its flexibility in offering AI models from various companies."
-    publishedDateTime: 2023-08-30T13:58:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/google-says-over-half-of-generative-ai-startups-use-its-cloud-71693333078677.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 17
 
 secured: "am3ACSUPwcmYh1LfDI1yOe06rht7WKTJc7XKs1W/0YlBCzjuF1id5VWeM2Lq1y3+EJmdi8fD5rB5+f0/xD9le07630oy0mUnQzSor+SvvqMSeIOAi6csJgGXZ1CLbVctTq6DQh5wVDXV3+acmZubqGtxdLT5c3PPHEfwRjq9G3tpS3eQNvFi8/ArVjkurOpBMfJbAK1r9U3Dvil6ozQKC4BjeBtHgsa2XB/xcWE349rcNbBmXTUEoX04h54XseIs/cm779pOuCOm+AufZfW/GpdlfF8CkMFjJJQxw8tqAfTTnTzaQA+NYQ8GFTAhZn/GCZOtCfClY6nsfII3eufPGrDpCZocoVcXq39gQ7l1VHCQXYSiSxSlA0as19s4tivC15NdYAxqogE3Oq/8vLn9WhFAnhH1Fo99gsTFJJmhcIx7OH4s8IVKpkx/wevsGF8ljRPjB2KCh1xLl10kN8jJeBKE3G7tqg+V1Zpm1nwKQfuqWPk/gPzUFgoW7kMK+5WArU5Ltv0rybCn+C2LUZ8ZmQ==;puICA8lA9dabpdNWDPGc8w=="
 ---

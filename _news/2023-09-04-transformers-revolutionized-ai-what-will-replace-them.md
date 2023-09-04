@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2023/09/03/transformers-revolu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/09/03/transformers-revolutionized-ai-what-will-replace-them/amp/"
 type: article
 quality: 93
-heat: 143
+heat: 134
 published: true
 
 provider:
@@ -84,15 +84,6 @@ related:
       name: The Financial Express
       domain: financialexpress.com
     quality: 19
-  - title: "Is Corporate America ready for the AI revolution?"
-    excerpt: "Artificial intelligence is transforming the way we live, but despite its rapid progression into the mainstream, according to a new report from the New York Times, most of corporate America isn't prepared to fully embrace or adopt the powerful new technology."
-    publishedDateTime: 2023-08-30T14:57:00Z
-    webUrl: "https://www.cbsnews.com/video/corporate-america-not-ready-for-ai-revolution/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 17
 
 secured: "us3Prg9gptdkqEtKZvQM9gvCqcx/V04FSU5og+OLcYjur0ZaUb28/QYV4DoFDN85iHgv4EM9QSpXUYRLYCULGcluNht+4bY1itWGivhaTu0/2TAW68IlwWshEEeuoRkf1atP7PsDl2Fm71FRRtz+9yiywdpZV2PTBqKj3HuN+e/AMhny31qvUr56OvT1FFaWVLHYUjsfX/+GSJzyAkSCLjiGizZ2zj1D68lo46j1nz0v7zwnuNiaXTf5pWNxL56yq4SKDbSCmKPP0fy/lLIB8KXbpVHjFwpzsL2kLc+kkRAIYWj9Qcpkcdncwv6JfBjtuUjLN9e6vUTEfgUeerOraya5xVN5BzhsIFN27jTTxoweaSSsOc/E+fREF+xD9SKa6Gm7T54RAoHpxj6CO/tI9WbFQ0CtBgfO8SL3zuOfRY272RkQLnmqnofYvWZJ/ASIC7xD2lYHjlTHxHaYk+F7Sci9mJk6KANEpd9HrxfLm8Fl+KhpuCfQ8QyQnAM/zXyfAlz4FrAcyiA/q7av7N/uKg==;NMGIWSunK5NE7DnX+5iJZQ=="
 ---
