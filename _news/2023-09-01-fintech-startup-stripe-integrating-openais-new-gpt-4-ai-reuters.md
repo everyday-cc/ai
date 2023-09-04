@@ -89,20 +89,24 @@ related:
         width: 799
         height: 449
         isCached: true
+  - title: "LegalTech Artificial Intelligence Market Research | 2023-2030"
+    excerpt: "The LegalTech Artificial Intelligence Market Insights of 2023 is an extensive and comprehensive report that provides a complete analysis of the market's size, shares, revenues, various segments ..."
+    publishedDateTime: 2023-08-31T16:07:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/34149933/legaltech-artificial-intelligence-market-research-2023-2030"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
   - title: "You Don't Have to Pick a Winner in Fintech. Here's Why."
     excerpt: "Artificial intelligence (AI) is on every investor's mind these days ... As you can see, there are lots of ways to gain direct exposure to the fintech sector. Investors who prioritize safety and thus want less risky options can look at Visa and Mastercard."
-    publishedDateTime: 2023-09-04T17:07:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/PYPL/pressreleases/19946368/"
+    publishedDateTime: 2023-09-04T19:20:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/SQ-N/pressreleases/19946368/you-dont-have-to-pick-a-winner-in-fintech-heres-why/"
     type: article
     provider:
       name: The Globe and Mail
       domain: theglobeandmail.com
-    quality: 24
-    images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/8dd204abcbccfff5bcdbe02efb4f1179/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f743336%252ffintech-payment-app-hands-smartphone.jpg%26amp%3Bw%3D700"
-        width: 2374
-        height: 1263
-        isCached: true
+    quality: 4
 
 secured: "gf8eHywdis+J+EKqKcR/cfRgNQom9OfzuA+fRYNu2sJnuTb5HYpj6txBNGFJD4FAjJr4bD1s8kbQnFXNHZfWzQsN5/KAQvF7ld4DFR6jaqd6gWk501QhvcyMKlzqWqBIMPxhzv4WEEkoTp72mqH4reTbpjxXDrjFfWjLBib0yiQMES72ksa5QwYJjpyI92ww4FnCZhNf5OkAyCEPj23zJeOyXlfL4vl4RX5J1otvf7X7Lm3TCrjDyEHb4Vz8EoSlHYrnQnJjhPlnjuraQyMIC0blddkaGIL6afOyX/2bTdfl1Q9hhGlsDGe6qLUyDkKgj4c/bQ2TmcplW479Uane8e+1v0j0WOlWaQIsQgfI+FCsSe8UXMZrCQNSHD6GAExVKWchRtZ5ywlU+wFckYphnGhUgvm9oWSLTnn7cf6tx4uoseo1Ew3zeytqlqZU+YA8gtetMjlLl7L/Fs3Zs9ckg4SicuQVYbOd3dMr17Q9sHaeOStTTSPk9MeN5wdb+VQphBLJfMPdE+gtXUq3I05VHw==;sQ2le/9NyoKTgUbXYZVeww=="
 ---

@@ -54,22 +54,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Google’s AI-powered search comes to India: How to sign-up and start using"
-    excerpt: "Google is expanding its AI-powered search feature, known as SGE (Search Generative Experience), to India and Japan. SGE allows users to ask conversational questions and receive AI-generated answers. It is available as an opt-in experiment in Google's Search Labs and can be accessed through the Google app and Chrome desktop."
-    publishedDateTime: 2023-08-31T04:40:00Z
-    webUrl: "https://www.gadgetsnow.com/featured/googles-ai-powered-search-comes-to-india-how-to-sign-up-and-start-using/articleshow/103231812.cms"
-    ampWebUrl: "https://www.gadgetsnow.com/featured/googles-ai-powered-search-comes-to-india-how-to-sign-up-and-start-using/amp_articleshow/103231812.cms"
-    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/featured/googles-ai-powered-search-comes-to-india-how-to-sign-up-and-start-using/amp_articleshow/103231812.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 56
-    images:
-      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-103231812,imgsize-58586,width-800/103231812.jpg"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "gBkIfU4jFVhIEPwgTRPC6xoA12DBsARhKBbDccc02cTDJaXgTauK7sIugRdKiPXomyq8SEU1AsQ7xGaGPBU3mFAMHOuyjDWEeA0l4eKY/lPx19RROgN23+WZ2GXOuzfVh4BxQPnhdzNtgtS1T3UYs70LPmCcT7NvEfR7Mw0jK8fMatffNMBWJ7t5kC9z0stf0taNFskI6eNI4Ip+zp+APw1Lk0pGMmWB7NNt0V7guNw9KvbjG0bwOiBii9c9PyF01fDCbx/u3UngDh9iq2cpTr5UCGfXcqdOhlWCIZqvaOxfw/VOjTUVZQbQy5QX8WlGbk5yAJxsddljSpv75KCBFq3Q54aOVDcuZdfmmNZtsMi3ZhX0o71kKM8psGW9V6+zwnbqQAQNmKkScFTMizOS46LZUnQwbYC19Ky0xnX90mPhjtqLNuoKy/ZCNw1HEX+T1FgsSHME9pK9i+OaVAxfTGjsCTrJy1bS3g8rS+I90mf03447EvytMcFNhY66JQ84R6f6fMmhUeK9Q19XYuXgDw==;U6yMSFcjGHiXHB033CvSLQ=="
 ---

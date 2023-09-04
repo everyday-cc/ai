@@ -69,21 +69,14 @@ related:
         height: 800
         isCached: true
   - title: "IBM and Salesforce Team Up To Help Businesses Accelerate Adoption of Trustworthy AI"
-    excerpt: "ARMONK, N.Y. and SAN FRANCISCO, Aug. 31, 2023 /CNW/ -- Today, IBM IBM and Salesforce CRM announced a collaboration to help businesses worldwide across industries accelerate their adoption of AI ..."
-    publishedDateTime: 2023-08-31T12:17:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/n34140598/ibm-and-salesforce-team-up-to-help-businesses-accelerate-adoption-of-trustworthy-ai"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34140598"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34140598"
+    excerpt: "Tech giants collaborate to drive productivity and growth with generative AIARMONK, N.Y. and SAN FRANCISCO, Aug. 31, 2023 /PRNewswire/ -- Today,"
+    publishedDateTime: 2023-08-31T14:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-and-salesforce-team-up-to-help-businesses-accelerate-adoption-of-trustworthy-ai-1032596011"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 53
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
   - title: "Salesforce In Artificial Intelligence Era, Personal Spending Rises But Income Falls, New Inflation Data"
     excerpt: "Salesforce Inc CRM, an important software company that is also in Global X Dow 30 Covered Call ETF DJIA, reported better than expected earnings. There is excitement about Salesforce, as the company is now in the artificial intelligence era. About one half of the gain in DJIA this morning is due to the rise in CRM."
     publishedDateTime: 2023-08-31T14:33:00Z
@@ -97,20 +90,6 @@ related:
     quality: 41
     images:
       - url: "https://cdn.benzinga.com/files/regularguy-eth-w9codxtsfts-unsplash_3.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "How to talk to an AI chatbot"
-    excerpt: "The Washington Post’s guide to getting the most out of AI chatbots — from OpenAI’s ChatGPT to Google’s Bard and Microsoft’s Bing— and avoiding common pitfalls."
-    publishedDateTime: 2023-08-31T05:00:00Z
-    webUrl: "https://www.washingtonpost.com/technology/interactive/2023/how-to-talk-ai-chatbot-chatgpt/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KK4QILC7RJDP7IGXGBPVQITL6Q.jpg&w=1200"
         width: 1200
         height: 800
         isCached: true

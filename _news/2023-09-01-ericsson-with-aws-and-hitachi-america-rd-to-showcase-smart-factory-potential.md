@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Ericsson, AWS & Hitachi America R&D Demo Smart Factory Capabilities"
-    excerpt: "Ericsson, Amazon Web Services (AWS) and Hitachi America R&D enabled the private 5G infrastructure trial at Hitachi Astemo Americas’ electric motor vehicle manufacturing plant in Berea, Kentucky, USA."
-    publishedDateTime: 2023-08-31T02:34:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/33134-ericsson-aws-hitachi-america-r-d-demo-smart-factory-capabilities"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 39
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/8340993e1ee85f46d52262179d02adb0.jpg?t=20230831_022146"
-        width: 752
-        height: 408
-        isCached: true
   - title: "North America Robot Orders Drop for Second Quarter"
     excerpt: "When combined with first quarter results, the robotics market in North America is down 29% compared to the first half of last year with a total of 16,865 robots ordered. This drop comes after a record 2022, where North American companies ordered 44,196 robots, up 11% over 2021, the previous record."
     publishedDateTime: 2023-08-31T14:15:00Z

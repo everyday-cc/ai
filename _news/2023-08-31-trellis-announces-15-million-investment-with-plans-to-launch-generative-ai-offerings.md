@@ -69,20 +69,6 @@ related:
         width: 2048
         height: 1152
         isCached: true
-  - title: "With AI Startups At The Core, India To Host Maiden Global IndiaAI 2023 Summit In October"
-    excerpt: "The Ministry of Electronics and Information Technology is all set to host the maiden edition of the Global IndiaAI 2023 summit in October."
-    publishedDateTime: 2023-08-31T01:30:00Z
-    webUrl: "https://inc42.com/buzz/with-ai-startups-at-the-core-india-to-host-maiden-global-indiaai-2023-summit-in-october/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 28
-    images:
-      - url: "https://cdn.inc42.com/wp-content/uploads/2023/08/globalai-summit-social-.png"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "2l4u3A0M89lW9CIQIYKt+h0EYyU76zK8R/YnSxBp8ccpgFauRN6g/Hqh0C5tADidzpgG8kI8rp7FDS+46hXwRiz524oOwlR9JiT5WYwpYajOLqT8l6+rUFgWOQA6n82//KEP8XQVbouYCLyaDsvHf8dMigbshPS1HmWM+8FGaBfjefBzCcNi4th4TP7NHt2Sqx7DtxswcXUoxaLijhrvkUEctk6LRsivsZoX8o/VXMB5YnujEdyJEeT8zqUXVes3QdanWjFezwQz5Xgk0tf8JHvM1fK3Ge4ZUNg78sC4KxyDQTJ8o2DWvWhhD8FEc13D4W2Qiwe4bKdI5ANmwX2L1+1dk1coHXhSPT5XMJ5fPNw=;otz7DuBLnh5BitRNYiKWLA=="
 ---

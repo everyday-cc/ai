@@ -24,61 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI21 Labs raises $155M to accelerate generative AI for enterprises"
-    excerpt: "Israel-based large language model leader AI21 Labs confirmed with VentureBeat that is has closed $155 million in series C funding."
-    publishedDateTime: 2023-08-31T03:21:00Z
-    webUrl: "https://venturebeat.com/ai/ai21-labs-raises-155m-to-accelerate-genai-for-enterprises/"
+  - title: "Ellie.ai Raises EUR 2.5M to assist professionals in maximizing their data"
+    excerpt: "Ellie.ai, a Finnish startup that creates software for data teams, revealed that it had raised EUR 2.5 million (USD 2.7 million) in a seed funding."
+    publishedDateTime: 2023-09-04T09:56:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/ellie-ai-raises-eur-2-5m-to-assist-professionals-in-maximizing-their-data/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/ellie-ai-raises-eur-2-5m-to-assist-professionals-in-maximizing-their-data/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ellie-ai-raises-eur-2-5m-to-assist-professionals-in-maximizing-their-data/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 56
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/Roei-Shor-Photography-AI21-labs-4-1.jpg?fit=750%2C500&#038;strip=all"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "The Smart Enterprise: Making Generative AI Enterprise-Ready"
-    excerpt: "Yes, the opportunities for Generative AI (GenAI) are immense. Yes, it is transforming the world as we know it (and faster than most of us predicted). And yes, technology is getting smarter. However, the implications for GenAI,"
-    publishedDateTime: 2023-09-01T17:39:00Z
-    webUrl: "https://www.unite.ai/the-smart-enterprise-making-generative-ai-enterprise-ready/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2022/08/machinelearning-deployment-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "AI start-up AI21 Labs valued at $1.4bn after fresh funding"
-    excerpt: "Backed by the likes of Google and Nvidia, Tel Aviv-based AI21 Labs raised $155m in a Series C round to meet growing demand for AI."
-    publishedDateTime: 2023-08-31T07:33:00Z
-    webUrl: "https://www.siliconrepublic.com/start-ups/ai21-generative-ai-funding-investment-round-valuation-amnon-shashua"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 37
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/08/a-21.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Startup Behind World’s ‘Most Advanced’ Generative AI Raises $155M"
-    excerpt: "An Israeli startup that develops advanced AI technologies to solve complex problems across various industries has raised $155 million."
-    publishedDateTime: 2023-09-04T08:51:00Z
-    webUrl: "https://nocamels.com/2023/09/startup-behind-worlds-most-advanced-generative-ai-raises-155m/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 37
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2023/09/nghf.jpeg"
-        width: 1280
-        height: 853
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/09/Ellie.ai-Raises-EUR-2.5M-to-assist-professionals-in-maximizing-their-data.jpg"
+        width: 1500
+        height: 844
         isCached: true
 
 secured: "e8sym7K+cbh43pq8T7pDnHCbqHpGGcQ8po8N1nA3evDRCogUhJ2BhjuYj8+sKwY4RRUuqeNv9IRl48o8xtmlgRDNKJLwDjudLYHb3BmHR23sn+MvJV4zUJLHjp0wHmQuPDnzNmZ1behpNgQhoNcQSeTiKM3LLRE/Or5hTEoRvawDRfCIVwJTOA2xJ313Gc9jdV1Pa26gZv2Hcwsjye3zlIfEhoOHZbUibsOJUIeHr9a5Ig4esywT+2DSHflPs4dYUPRCzDAyXoIuU9SxFN8d1QpfjgGDMGnEJybyG1d+ScB8shtljcrJ8CAa5oNPHyvRTIyX55o62+B/lnBWC9naCIw8/QPRSl4yQEXgGRyLs98=;2LcT0Vqx3m1ThObtF1IRcA=="

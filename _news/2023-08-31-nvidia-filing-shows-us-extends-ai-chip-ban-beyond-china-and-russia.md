@@ -166,20 +166,15 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Nvidia’s AI chips hit with new curbs for export to some Middle East countries as US tightens semiconductor controls"
-    excerpt: "The chip designer said in an August 28 filing that its A100 and H100 machine learning chips have new licensing requirements for some regions outside China."
-    publishedDateTime: 2023-08-31T01:58:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3232890/nvidias-ai-chips-hit-new-curbs-export-some-middle-east-countries-us-tightens-semiconductor-controls"
+  - title: "Best Artificial Intelligence (AI) Stock to Buy: Nvidia Stock vs. Snowflake Stock"
+    excerpt: "Fool.com contributor Parkev Tatevosian compares Nvidia (NVDA-1.71%) and Snowflake (SNOW 0.15%) to determine which stock is better for investors looking to capitalize on the AI trend. *Stock prices used were the afternoon prices of Sept. 2, 2023. The video ..."
+    publishedDateTime: 2023-09-04T19:24:00Z
+    webUrl: "https://www.fool.com/investing/2023/09/04/best-artificial-intelligence-ai-stock-to-buy-nvidi/"
     type: article
     provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 62
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/08/31/8752dbb5-bf3c-49b3-9bad-ab64ecb622de_6b2422a9.jpg?itok=-y7JJHDd&v=1693447058"
-        width: 1200
-        height: 630
-        isCached: true
+      name: The Motley Fool
+      domain: fool.com
+    quality: 57
   - title: "AI Wars: US ready to chase China to the end of world, restricts NVIDIA chip exports to countries in West Asia"
     excerpt: "The US has imposed new restrictions on NVIDIA, barring them from exporting AI chips to countries in West Asia, also known as the Middle East. The US believes that China may try to find ways around san"
     publishedDateTime: 2023-08-31T10:24:00Z
@@ -195,20 +190,6 @@ related:
       - url: "https://images.firstpost.com/wp-content/uploads/2023/08/AI-Wars-US-ready-to-chase-China-to-the-end-of-world-restricts-NVIDIA-chip-exports-to-countries-in-West-Asia.jpg"
         width: 640
         height: 362
-        isCached: true
-  - title: "U.S. curbs AI chip exports from Nvidia to parts of Middle East"
-    excerpt: "A similar move announced last year signaled an escalation of the U.S. crackdown on China's technological capabilities."
-    publishedDateTime: 2023-08-31T02:36:00Z
-    webUrl: "https://www.japantimes.co.jp/news/2023/08/31/world/politics/chip-curbs-middle-east/"
-    type: article
-    provider:
-      name: ジャパンタイムズ
-      domain: japantimes.co.jp
-    quality: 54
-    images:
-      - url: "https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/31/248968.JPG"
-        width: 1000
-        height: 665
         isCached: true
   - title: "US curbs AI chip exports to some Middle East countries"
     excerpt: "The US has expanded its restriction of exports of sophisticated artificial intelligence chips to the Middle East."
@@ -264,6 +245,15 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
+    quality: 34
+  - title: "Saudi Arabia and UAE race to buy Nvidia chips to power AI ambitions"
+    excerpt: "Saudi Arabian Crown Prince Mohammed bin Salman, left, and Nvidia chief Jensen Huang. The Gulf state’s interest in AI has sparked concerns over the technology’s ..."
+    publishedDateTime: 2023-09-04T20:11:00Z
+    webUrl: "https://www.ft.com/content/c93d2a76-16f3-4585-af61-86667c5090ba?sharetype=blocked"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
     quality: 34
   - title: "US bans Nvidia, AMD AI chips' export to some Mideast countries, amid China fears"
     excerpt: "The technological war between the United States and China is heating up, with both countries imposing limits on their prized assets."

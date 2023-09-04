@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/2023/08/31/9873204.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2023/08/31/9873204.htm"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Ericsson, AWS & Hitachi America R&D Demo Smart Factory Capabilities"
-    excerpt: "Ericsson, Amazon Web Services (AWS) and Hitachi America R&D enabled the private 5G infrastructure trial at Hitachi Astemo Americas’ electric motor vehicle manufacturing plant in Berea, Kentucky, USA."
-    publishedDateTime: 2023-08-31T02:34:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/33134-ericsson-aws-hitachi-america-r-d-demo-smart-factory-capabilities"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 39
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/8340993e1ee85f46d52262179d02adb0.jpg?t=20230831_022146"
-        width: 752
-        height: 408
-        isCached: true
   - title: "Ericsson with AWS and Hitachi America R&D to showcase smart factory potential"
     excerpt: "Built on Ericsson’s 4G and 5G radio and dual mode core technology, Ericsson Private 5G enables a wide variety of innovative use cases"
     publishedDateTime: 2023-09-01T05:00:00Z

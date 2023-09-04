@@ -23,6 +23,17 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "Naver-backed AI startup Crowdworks to go public"
+    excerpt: "SEOUL, South Korea, Aug. 31, 2023 /PRNewswire/ -- On August 31st, Crowdworks will be listed on the Korean KOSDAQ market via SPAC merger, marking a significant milestone as the first AI training data platform company to achieve this in Korea. The company ..."
+    publishedDateTime: 2023-09-04T18:40:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1344170&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 17
+
 secured: "i9uSTVaowT4GV0IQ4YvlOvchFfcnJpmiYPku+eqpSzuz9z6nN4juQD9bftvaVk4b2DKcFKXzfJGFnnBcjdLK+9x+dsUnMOJOpO5asaIDrZvEcDCWMPvRQkgtWNdDc8ZZ5NvBw6B6bIIEUFykTzovkM4Tx3YUqcAm62gRwbnS9TXcDhFyYU8n/6Tf7w9vSgPOHtcDsoNAx0nhZ2mMzXIwWTFQmmrqGSDKySJoVXvn8xQjSdSmlBF3UiaFRXkEynccc1IAxM7Qk0A/ZnsNTsTbFdiQqw++bY28QaSy8ON5qqGoYD5UEw91nnqFRIL+GeF8YhSmtB3eR/I1n4a41qvPoZaMVWA8qKR1xZBZ4iR6Hss=;eY6VKSfenftkeOOqB2g26A=="
 ---
 

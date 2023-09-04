@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Google DeepMind co-founder calls for US to enforce AI standards"
-excerpt: "The US has expanded restriction of exports of sophisticated Nvidia and Advanced Micro Devices artificial-intelligence chips beyond China to other regions including some countries in the Middle East."
-publishedDateTime: 2023-09-01T13:32:00Z
-originalUrl: "https://indianexpress.com/article/technology/artificial-intelligence/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-8919888/"
-webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-8919888/"
-ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-8919888/lite/"
-cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-8919888/lite/"
+excerpt: "Google DeepMind co-founder asks US to allow Nvidia'a AI chip buyers to adhere to ethics when using the technology"
+publishedDateTime: 2023-09-01T06:41:00Z
+originalUrl: "https://tribune.com.pk/story/2433514/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards"
+webUrl: "https://tribune.com.pk/story/2433514/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards"
 type: article
-quality: 74
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: The Indian Express
-  domain: indianexpress.com
+  name: The Express Tribune
+  domain: tribune.com.pk
 
 topics:
   - Google AI
   - AI
-
-images:
-  - url: "https://images.indianexpress.com/2023/08/nvidia-featured-reuters.jpg"
-    width: 1200
-    height: 667
-    isCached: true
 
 related:
   - title: "Google DeepMind co-founder wants US to link AI chip sales to minimum artificial intelligence standards"
@@ -173,6 +165,6 @@ related:
         height: 800
         isCached: true
 
-secured: "+Ow+0TH6UfU7S/PzWgeaD3rkuYZHsnqgmbFA33v5XuVNv7S+klfNMZMBCfTyqHKo31MhrIHkVZ0C29EEurcOHMUE1SeUdYDwVCligz3+nlkXIyk+6YoOFloze5x/7D+XwoheWJIUzQTi5dK7qwDsds28NoDueymgPJGOjAlX2UV9Css/a8xp42eaZhLT54Zp52Lb7ogqJUToZTdOKWKAl5S8feUgqacXKR7TcexonaJqIYYjEF7GNSV4OMgJvQA1azfq2qwhmWiEOatzXgY2R5Aha0uBQnw8sJd2YdQ2bjFM3+fF2+kdI/ZWaK0XJ22jgQdcsBm6O3Cj9EIv0CAcN6kwJ8/RYNUdR7mLY5MZBZi+YI3LGoBVrVonv8ZwoSgF3zl0EV5o3ID2eUS2ELSHBR8vEORgFA4skRlUYsvBwerrVzj7APIzfvUKT86uWj2nV74zba0H4uT/R8a9E2Y3TiBFn4VXGQLO6o8mv3KRDQoIuD9hh5BYGaXRXeoACvZBi637+HVpyz+/BZtjAywEWA==;ghs1X86yQGrvJxMedrG+CA=="
+secured: "I3faqG6On2z71RMmbNK+tYf3oBoFTaVxtxHtffLPle6JwXLt/+Zfyoc4gTRRFXH6P30aeUdTLKp4P+hcpoEElOLeFtZ+g6LVFvcp18eI/JKuHLmfVW/1y4Fl9Mdz82raO6wZxD9rhLYyaHr0tuLlS7duCcUW9hpULZ13WsoH4n6amA1iFAZUQL2F+thYxHbPokLnebVqCbOKXSbl28QGWOjBekuLiIRuwQEWsjDkWeYrYvvbio0T8RA08VSuFAbE4uaOj2PVE93vf9xsBfGy0hwCWqB2FYoBVdSXr0vu0Qy+ab1B2ZQ0yp9E7RXyohkzhKF6MzcExi5olp9pmrLFNP9lLHJhGg8tXiuu82i9gaQ1rAe7g4ZbBtcKK9mAkbyr+Gkb+2zZwJ1VuwuyiNq5PpijtyJKh9NlDkDMcreQ5QDmepG9tSSCgx6omjrAoZAEW6HZM+xy9G8kG1vjCrb3dRq9pXJV0VROIRYPW0O6iWHc5KwlaYOhJ1m+iACKHM8Acsr51ADOw64i62AY/Eln0w==;sdypW37oOfdL+2RhRWTP4g=="
 ---
 

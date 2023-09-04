@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tesla Begins “Full Self Driving” Public Beta As Waymo And Cruise Go Unattended"
+    excerpt: "Self-driving technology is a holy grail that promises to forever change the way we interact with cars. Thus far, there’s been plenty of hype and excitement, but full vehicles that remove the ..."
+    publishedDateTime: 2023-09-02T00:00:00Z
+    webUrl: "https://hackaday.com/2020/10/23/tesla-begins-full-self-driving-public-beta-as-waymo-and-cruise-go-unattended/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 65
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2020/10/teslafsdmain.jpg"
+        width: 3000
+        height: 1815
+        isCached: true
   - title: "Tesla allowing no-hands Autopilot driving for longer periods. Regulators have questions"
     excerpt: "Tesla says Autopilot and a more sophisticated “Full Self-Driving” system cannot drive themselves and that drivers must be ready to intervene at all times. Autopilot generally can keep a car in its lane and a distance away from objects in front of it."
     publishedDateTime: 2023-08-31T16:10:00Z

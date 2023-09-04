@@ -9,8 +9,8 @@ ampWebUrl: "https://techround.co.uk/news/world-leaders-threat-artificial-intelli
 cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/world-leaders-threat-artificial-intelligence/amp/"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: TechRound
@@ -42,20 +42,6 @@ related:
       - url: "https://e3.365dm.com/23/08/1600x900/skynews-ai-artificial-intelligence_6245426.jpg?20230809140349"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Artificial intelligence: 12 challenges with AI 'must be addressed' - including 'existential threat', MPs warn"
-    excerpt: "The potential threat AI poses to human life itself should be a focus of any government regulation, MPs have warned."
-    publishedDateTime: 2023-08-31T02:30:00Z
-    webUrl: "https://www.three.fm/news/uk-news/artificial-intelligence-12-challenges-with-ai-must-be-addressed-including-existential-threat-mps-warn/"
-    type: article
-    provider:
-      name: 3FM Isle of Man
-      domain: three.fm
-    quality: 35
-    images:
-      - url: "https://e3.365dm.com/23/08/640x380/skynews-ai-artificial-intelligence_6245426.jpg?20230809140349"
-        width: 640
-        height: 380
         isCached: true
 
 secured: "uwceK3Hj1h55jlvqFIePPdLUGBlVIshjIw1ABaeP/nnw0y7OP+4ACzmfMJ4xQZYXtZrl0cU5kZJdpg9A+4b/bRtkkC+kHTzTZbV+i1Dvd2iMprlsIsz0FcOQF8ElUqLKdhVaMT6fWLsOx7baUFh7KqmSzgZIgyEzdHUG2XM08O0XiY7gLzln/YEbStJhneC3Cm75Hr4QE/811WDpQG1iyRky02DfG0PSTLVt9zn6H/PHtrdvuRZBuaKAyvRC5m58ZAo4h+HeJfIHL+YIwu+GM9kbbr00rtXefTSNs9NAJyDleXXBk7OuNIp7Mskzgopqr9AbjO1wuVijWXFKW71s13HZ5hHvdl/CB0Snrc2EjkD3jgRtBV2slGc3gLSQLD046nFoO/VmotwgH4RJo/kgkwKcB1XPW3plzV/oERqV2XBVgxLv48yeyv6ZLBnNgaNMjspVKsxCckZ/8+drmUcOkJitaMp8FB1VxDDaos5aNqKNnQFbd4N7pJNIvxKif0gjrvm480Nyz4EcBbuta8B/TA==;s+CU5JtFNAE6sQEgWJ+nBQ=="

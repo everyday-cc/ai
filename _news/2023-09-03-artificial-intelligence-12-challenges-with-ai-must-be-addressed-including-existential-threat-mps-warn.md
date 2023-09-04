@@ -43,20 +43,6 @@ related:
         width: 2560
         height: 1872
         isCached: true
-  - title: "Artificial intelligence: 12 challenges with AI 'must be addressed' - including 'existential threat', MPs warn"
-    excerpt: "The potential threat AI poses to human life itself should be a focus of any government regulation, MPs have warned."
-    publishedDateTime: 2023-08-31T02:30:00Z
-    webUrl: "https://www.three.fm/news/uk-news/artificial-intelligence-12-challenges-with-ai-must-be-addressed-including-existential-threat-mps-warn/"
-    type: article
-    provider:
-      name: 3FM Isle of Man
-      domain: three.fm
-    quality: 35
-    images:
-      - url: "https://e3.365dm.com/23/08/640x380/skynews-ai-artificial-intelligence_6245426.jpg?20230809140349"
-        width: 640
-        height: 380
-        isCached: true
 
 secured: "5LVQCGUOygaGrEjEJgd8ugukm5e2B27TeCmASS3vMl5Svrd1tacqyzoqOz/NGVtxaFc0vOvMUsx0ibaqMuZr9GYi1IS8PyYVECtM6BL0c6yolVkvQNGsuZBk0l3+Qaqu/LKAoUwiig5RovqIE5/8E02GeLc6lwo6oh7gbmBt+gMCIwJVZsxmVq4drB4jmhKu4oP4FflO32xGJMolb9EXELO9r6hjPlHsg7RMk1x966yIr6vsCohRR4e54cmC73milr8dURwDGX3tX64qeqK9zc1jqd71F3vmG9WxmluilzsiWCDxCIkTv72AiBj2ya7bS6W/wPPnRpucNWm0JBfsM4+PQFhrX42OfyuBt7FJZZ3Xq5PKljBjUuRiD0KkzvEf8Tz790t5M3H0AACdB9mj/ioK3FuPZmi2l79kyUdfpDWlsYmEXov/OgxBwfeVM86Gee8ljv0pdN6yZGEPDMZN0IqCV2578mMqDlRxLMamhpvd/+VCnVJUg6TLdpp23aD+cweEl+x4/+xFP7Md8264dA==;0Wb6nNbeZBdf7r5a+CekOw=="
 ---

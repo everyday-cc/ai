@@ -49,20 +49,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 46
-  - title: "AI startup AI21 Labs valued at $1.4 billion after latest fund raise"
-    excerpt: "Companies across the world, from banks to big tech, have doubled down on investments in artificial intelligence (AI) after ChatGPT, a generative AI chatbot by Microsoft-backed OpenAI took the world by storm in late 2022."
-    publishedDateTime: 2023-08-31T01:08:00Z
-    webUrl: "https://www.aol.com/news/ai-startup-ai21-labs-valued-220819589.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
-    images:
-      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "sVCtTAtojZmfahPtEJI8Pi4Ewg7Xj1K6oIaZBrcfEfS/WugkYDg3soTf7CfaHm6WGaoRez9x7s0CfUQZPQXafFEzsbr/ORKsN5JtHDormDb3kzrI6f4O/uqJbCMKUrgAuGN3DAV1wJhEm6lYpG09ZpyTzeE5w8ahVjzXklWzsQWgwZOkPDipVay6Epls8aycU9NfmhZkcQf5Ip6jXRYjutoKqcwKzFLRlqeZkskULFDoKC1Kr1bN+WEolQWMUw3E+mkv0KpZ7QSTzQV0BXO8nXPpWYJLwdMrE02jjG1sGn1Vhj/FOyPWNO5/yJAU/BzUNv2M4hq0AboKas3WfAoRFKHd3ykcnzn4vZnGt25EQqM=;DgGrYDNluZutsSTC4AnXGA=="
 ---

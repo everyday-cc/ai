@@ -2,11 +2,11 @@
 category: news
 title: "You Don't Have to Pick a Winner in Fintech. Here's Why."
 excerpt: "Artificial intelligence (AI) is on every investor's mind these days ... As you can see, there are lots of ways to gain direct exposure to the fintech sector. Investors who prioritize safety and thus want less risky options can look at Visa and Mastercard."
-publishedDateTime: 2023-09-04T17:07:00Z
-originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/PYPL/pressreleases/19946368/"
-webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/PYPL/pressreleases/19946368/"
+publishedDateTime: 2023-09-04T19:20:00Z
+originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/SQ-N/pressreleases/19946368/you-dont-have-to-pick-a-winner-in-fintech-heres-why/"
+webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/SQ-N/pressreleases/19946368/you-dont-have-to-pick-a-winner-in-fintech-heres-why/"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
@@ -17,12 +17,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://barchart-news-media-prod.aws.barchart.com/FC/8dd204abcbccfff5bcdbe02efb4f1179/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f743336%252ffintech-payment-app-hands-smartphone.jpg%26amp%3Bw%3D700"
-    width: 2374
-    height: 1263
-    isCached: true
 
 related:
   - title: "Artificial Intelligence (AI) in Fintech Market Insights Report 2023-2030 | 117 Pages Report"
@@ -103,7 +97,16 @@ related:
         width: 799
         height: 449
         isCached: true
+  - title: "LegalTech Artificial Intelligence Market Research | 2023-2030"
+    excerpt: "The LegalTech Artificial Intelligence Market Insights of 2023 is an extensive and comprehensive report that provides a complete analysis of the market's size, shares, revenues, various segments ..."
+    publishedDateTime: 2023-08-31T16:07:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/34149933/legaltech-artificial-intelligence-market-research-2023-2030"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
 
-secured: "iTBoGKemKvtipEhXT303bAssmPIqLh8bE5JsvYlmhcqkpNUFARClaT9HSnjXDha6l5+aL//h62DZpZaNtFcDhf6XIK706hDd4xdX1QpQqdj66YgOC7DZ9ctz6g1k+TrXruJ5IM17rGZYm9qHjg22vXrG6vXLzGCCmBYT7peA5B66ghng5GZT5ZvMlinNFQ17HSLqFyMOXxYDAeimpcm3zTi2m22oYLGDqZPuYEY0BBbOaYNu7IMiUx+81lWbnLFCPse16mF5ZDbSRmmC1E6S8BH++KxxQbw8Oh+uqAKT7/OgLwmgvh/ws5qbAWqHbLe4ndcTSR5KnN4E+e1xYuB2Neb/i/z26cFsS1ZhR20fimo=;Xcpbq4XHx+sJCPZRxPW6Vw=="
+secured: "a2KObWKRcbr1jNOcFGPIwohvULzA/w/eyjWsAccA/jQyeqdLgsBU2k7XG1ufG6WgewY5qV93OD9DLhsfd2gw71T0dFf4U143oqifN2VbnfggTq17Gfx0aU6ZvPwqGxe4TaYYYxbJ0BZOU37w6OT1lQ28isoN9X3XE+TqxxG0Pr5kARmLKebf+pRRlKF5OjHryVXO/K5qBmcseGbR1Vjheeg3ULIinukCzqNY2gKqWuo5mCLAz41YseGbfmnTjdvRmg85nVa90aBARoBDL3V1IPpjYNT8uZ1CaKM+SAu4bQnu1dYDIE/wcvzU0/TLN65MWAymm7454qdPEKIXpUnOY3Fckp/Ts+oRt/P6vyHDSzwiJFxP6i75JBmr/irbOXuMe4FkGrr9Tk11B4V4OCEPpk/Mr1Eo6S+FMB8XsOAXp9S7lvwht01+IFPif4cI8k8PpJ5s9kDBBndA3nwppPJX5w2e4SNheV8gV4r7nQsgALEaxY0EcpcoOuQorsjLffGla9HxdNSlGpo1WruG7+713w==;LubBO8li6ulXLV8o9/4GXA=="
 ---
 

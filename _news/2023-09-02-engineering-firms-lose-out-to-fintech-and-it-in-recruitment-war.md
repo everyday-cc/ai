@@ -93,20 +93,24 @@ related:
         width: 799
         height: 449
         isCached: true
+  - title: "LegalTech Artificial Intelligence Market Research | 2023-2030"
+    excerpt: "The LegalTech Artificial Intelligence Market Insights of 2023 is an extensive and comprehensive report that provides a complete analysis of the market's size, shares, revenues, various segments ..."
+    publishedDateTime: 2023-08-31T16:07:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/34149933/legaltech-artificial-intelligence-market-research-2023-2030"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
   - title: "You Don't Have to Pick a Winner in Fintech. Here's Why."
     excerpt: "Artificial intelligence (AI) is on every investor's mind these days ... As you can see, there are lots of ways to gain direct exposure to the fintech sector. Investors who prioritize safety and thus want less risky options can look at Visa and Mastercard."
-    publishedDateTime: 2023-09-04T17:07:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/PYPL/pressreleases/19946368/"
+    publishedDateTime: 2023-09-04T19:20:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/SQ-N/pressreleases/19946368/you-dont-have-to-pick-a-winner-in-fintech-heres-why/"
     type: article
     provider:
       name: The Globe and Mail
       domain: theglobeandmail.com
-    quality: 24
-    images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/8dd204abcbccfff5bcdbe02efb4f1179/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f743336%252ffintech-payment-app-hands-smartphone.jpg%26amp%3Bw%3D700"
-        width: 2374
-        height: 1263
-        isCached: true
+    quality: 4
 
 secured: "KcBEQ0eCarcGoo0rRJVubBdoEWm3mGomX5m2GT8WbNzO/CimQkVJhhVL3lt83SnUWcR/AwQkD4qXSqJvZFNf6HBQbELPn4jGkkVF3tDpNpqyu/bT6zHLv3pmdt1NIhpOW/Rc5G+qHgGvN0/G/zLdjX/MCmNqzjryQaIrhcwq7mFzRJSyB+dRuvyW8tesbDiZqhBEHFNAwKKfAJ+fU0y5d1/lrdTzp4f2PHWc9l93tKLK2D10OLCYit+c/DS3dkkIQYHmC+Fj7Jrj7eA5Czh5ww2rx8GcEHqTwko/7e3hRtqiUmpP0kI2LN9V0fyeJ01d6ViJ5smyy+BSC4uZWhpsoUrhJA21AiCg6kBD5MySso4=;2c6YZsVnKlVjpj8J93cvZQ=="
 ---

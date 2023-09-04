@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3705493/how-to-get-a-handle-on-sha
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705493/how-to-get-a-handle-on-shadow-ai.amp.html"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:

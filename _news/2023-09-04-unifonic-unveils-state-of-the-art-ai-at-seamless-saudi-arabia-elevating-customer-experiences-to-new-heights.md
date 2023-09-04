@@ -26,6 +26,17 @@ images:
     height: 532
     isCached: true
 
+related:
+  - title: "Unifonic Unveils State-Of-The-Art Ai At Seamless Saudi Arabia, Elevating Customer Experiences To New Heights"
+    excerpt: "Unifonic, the Middle East's leading customer engagement platform, is proud to present its AI-powered Chatbot ... one of the largest events focusing on payments, fintech, retail, and eCommerce innovations, to showcase their game-changing platform and ..."
+    publishedDateTime: 2023-09-04T19:24:00Z
+    webUrl: "https://menafn.com/1107005714/Unifonic-Unveils-State-Of-The-Art-Ai-At-Seamless-Saudi-Arabia-Elevating-Customer-Experiences-To-New-Heights"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
+
 secured: "JIeegIgWXLaU6sizRWUnAqbdasKh67PJpNw50Uu9xCsVCucL+jLndqoGOYpAUpR+jWLDh0C+Sp5735Alu1Cf94aYiTpA9Qu0bYtuzm97sW4Mnt3tdk3E9c0quakMOOXT2XvcTm2fVmwImDqYnzOMxH3x9nv/p93L98vKrB5xW6CpJvOmZhDoJZvZwR3OaZw/zlcEsAieOFa8njHZdMZ/lZbC6WReETygzwQJaBDeY+70vpirfyXeaI1SNa0dnf7O1JrkVfOgk8u4KJpMx7U50/pElhyLxItxGqUAClA/5j5RjlULEN18adaHsCPpeWmxdPI2c274NWmzfMxQu1BIg+hJrTSsiSFajuaPM+11SRo=;6KthQJFUz5U2yrzPU3OzBQ=="
 ---
 

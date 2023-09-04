@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "5 Key Objectives The UK Is Addressing At Its Upcoming Global Artificial Intelligence Summit"
+    excerpt: "The U.K. unveiled its five key objectives for the upcoming global Artificial Intelligence (AI) Safety Summit scheduled for Nov. 1-2 at Bletchley Park. The summit will bring together prominent figures from various domains, including academia, politics and ..."
+    publishedDateTime: 2023-09-04T16:37:00Z
+    webUrl: "https://www.benzinga.com/news/23/09/34212188/5-key-objectives-the-uk-is-addressing-at-its-upcoming-global-artificial-intelligence-summit"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34212188"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34212188"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 47
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/09/04/shutterstock_1969061509.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "OU8vcawwnBOVhvejxjcJg/PTqKFIT8wmglPhQ9d4BFCxiNG13qnoaK8QF3HmRaXoV/4UBnHu5ma+dQKIjETLBqHq6PJOGUM2BJc6SYpCR6+xNt0R4GCIYB065chFwy6xRHSP5CN82M8XgJgMN8tDRtUZuug+jbhE6CnW5T4t/jZw4IKcSjQnZJ7OLMdTwXyoCn5xAvAuyqSnZGTupHRDYvHOh+VrBWqxWuOH3m8SAn7GL+uKniEm3pZoT/B505OZonmVVn0ciXw60w8h/vlAW3LHmqeDoBKqgqq1NYVRLMsQZDNfsd/DMSL5z4XjXwwthoX2fwnkMW1V3BCs6ulbZ6hhYoa8afaXFKg8AXho6WTmv05W+cqrdsQYuWMVwHRU14IAQs9rvYh0gpD805XI0jw53zA5+ydw06+hox1rjTmN8cy4l0txLYY09+DUIBMjfu+pRHuegn1WkaQ+Jf1KmQH4967jLHKYiWGdsi9GE5wiGg2XZ5/6ULVi5Ba5CQ5qaRnP592WrOIFWyK+5aCYmA==;YZQO4gcoQQPpxifIHKvmmA=="
 ---

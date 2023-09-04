@@ -38,6 +38,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Artificial Intelligence Has Some Potential For Swiss Judges"
+    excerpt: "AI could be used, for example, in mass cases and as an aid in the search for precedents, the association's president Marie-Pierre de Montmollin told"
+    publishedDateTime: 2023-09-04T18:50:00Z
+    webUrl: "https://menafn.com/1107005101/Artificial-Intelligence-Has-Some-Potential-For-Swiss-Judges"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
 
 secured: "4vACuWftgDMafE28HOcKUm9tVZMinOF5A31BEZH9jzH3Ld7bQHiVx+0WdRyV0j4Ujj7Ryni+fsrRYsNZqmLTZ4+ffjt4jsZ9tM13y6xEpUm3XxMNc3nuuOxEvtppJUcNjI1VH6yithehX934gXjbKrrg4n5+nljxKy/bGqoPh5OkY9xWiHa69QnQXFQGuZ1Ok4dOhDm9wNy7y5jQwf4a0A631lipJTIgZn9dBQJybzEBdTwpXD9cci+ifLYOIEdYrdicScLY87PRHGFHITqD3fOxJRQYXjVvUWLPxWIgSl21wPU8ZrpKFAFFy9CctevOaxMfrbI63CbZQRCfvXDLz0fEpU7BvV+Q+4WPT35JcFg2KDuegPPIn9ZgGBzI4/PciExTa54K5KZPKK+qfLwAN13Fiz8RDUuYiZyL/SUPPxv9ZNfImlOpzd9ut0jP3kWgLIdRtou0RcPjTGQVZCHI2KKex3B0Ix444JtYbDcPsLS7Gy6/f5zym2dOi17I36tZEA9DWiVk0hkQ0z/QVeRGkA==;iScGQBlOFDqRHUYyOgqKpw=="
 ---

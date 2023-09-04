@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/news/national/tamil-nadu/uptake-of-engineer
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/tamil-nadu/uptake-of-engineering-seats-goes-up-driven-by-demand-for-artificial-intelligence-course/article67271071.ece/amp/"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "AI drives demand for chips that Alphabet, Amazon and Meta are making"
-    excerpt: "Rather than depend solely on Nvidia whose GPU chips have made it hugely profitable and other chipmakers, big tech companies are building chips that will give them greater efficiences for the specialis"
-    publishedDateTime: 2023-08-31T04:15:00Z
-    webUrl: "https://www.moneycontrol.com/news/opinion/ai-drives-demand-for-chips-that-alphabet-amazon-and-meta-are-making-11286981.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 54
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/08/semiconductor-AI-bloomberg-770x433.jpg"
-        width: 770
-        height: 433
-        isCached: true
 
 secured: "dITeGWLM8i2amXQF0wcNoG22csP8fiBBR65ggCmGrx2iFgknGuhQV9irxI6sfYkYCO/QdSp8Bh0wIFqPM02Sr4inl5YnfbfjXW1/PZfZDaDvXr32gcdWDI8Yk0qFPA0QNggjxevzij+cLWm6MNoCuF30jfQenw3ZwEIlyIPmMTnwnjdIV4L0voNF1UXUYqyd4Awlc+KuCjE+Tu8Tpo4SPUF+PyP1hR61hUcbnZYqqrTI4YKNZbwJH3X7siPtUeYISctuCCMb3w6wSOUXH5tL7k0SkubVAzX+uoRfQKoOywY2kbtGy8ExYm6JDTwGYWKJB/L12/uwkbpyVKAih1Vw+BuZZnIRjouUkhw4vuj+/PA=;JNoAxD4W89+hCeZZYsa6vQ=="
 ---

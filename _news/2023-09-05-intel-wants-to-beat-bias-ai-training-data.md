@@ -6,7 +6,7 @@ publishedDateTime: 2023-09-04T17:00:00Z
 originalUrl: "https://www.fool.com/investing/2023/09/04/intel-wants-to-beat-bias-ai-training-data/"
 webUrl: "https://www.fool.com/investing/2023/09/04/intel-wants-to-beat-bias-ai-training-data/"
 type: article
-quality: 67
+quality: 69
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://g.foolcdn.com/editorial/images/746485/featured-daily-upside-image.png"
@@ -52,6 +53,6 @@ related:
       domain: webindia123.com
     quality: 14
 
-secured: "31rkkf22Q2qATrnMiK4+2CQmN2gyIMMxTDGlBCuVzXHTeCqaaGqQAVsPCtOAKKr51KVbwmv763nrRLzR16ET3IeHR7NugsREIMLD5EHaPXJOgQpyUldUC+XBzN6KquGewxmUWtuwWXP2SAkDkv3iQvSpIQPAAQ/SvfyY/bNSy3vKyXYY0QAzO0tNSYfEXSJkh7B7V3tly3VwkH7BdnE2+aPYvu+e0AgUZqgrYRmlwxBzPVVFxcvkN5yGM1v0e6R4pRm5cjk/OOhAitPNFj+oWB88uGejBCrGlkQ9QiUMkN8UWBJttNhlRZrcUizwF3G7IPqqLsZcDzeR6HxbyO0vhOrnWo7S+m6EGUhqGta3bUk=;I5dVRay/p/2Y/6MC2W6urw=="
+secured: "N6GSqzoKD+O8QhjSZQAvGoUx+bLodbz1ellGVN406L1/GdCDGCfebwXvBxGbnzYJCqNLtX0IbncjvSFi/y3kxbrT4qY+B9zDYPiL3oJkx64c3R9MrF/pefRXaAO84W+EGgXKdBw5tCuM4TgFI8lJvNc+4xa+HaoWRJ8ea0uy3m6Mgvf9X6UC9jlSCR9ehNQ1Z1UrspSIrieLeuYAU/m9UjPrSxnj51DCa63PppMqvbPangS2kTpDxZN7zIndlnYUE94Feph2CJdPaHQYdIVz5JeSldUplJ8OCMwu6Ch25EY+4WZVEWDa6A2smauBqqjHILEC9QQPmtawslZ2GlV7DCJFwmyayvRKm+mGUw5J5sFX5uyryGmIWWzcUQbEoFFKAGQjQe3nOm1BEGVU0cESQ+pXh0WcdnWRrIWCNt/XjSrU9R6RUD2Yl+WDfsCRSAXr59UdpiWrlMaRH9076Pa++ET5o2XCbIB7P5efReLCJKXU/fvWYWw4+7wWeMOAR1DKCVy0Ep0kIff0WBG3NiVOGQ==;Sz+rFUN85om5yNM9N5rvSg=="
 ---
 

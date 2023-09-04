@@ -1,30 +1,26 @@
 ---
 category: news
 title: "IBM and Salesforce Team Up To Help Businesses Accelerate Adoption of Trustworthy AI"
-excerpt: "ARMONK, N.Y. and SAN FRANCISCO, Aug. 31, 2023 /CNW/ -- Today, IBM IBM and Salesforce CRM announced a collaboration to help businesses worldwide across industries accelerate their adoption of AI ..."
-publishedDateTime: 2023-08-31T12:17:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/08/n34140598/ibm-and-salesforce-team-up-to-help-businesses-accelerate-adoption-of-trustworthy-ai"
-webUrl: "https://www.benzinga.com/pressreleases/23/08/n34140598/ibm-and-salesforce-team-up-to-help-businesses-accelerate-adoption-of-trustworthy-ai"
-ampWebUrl: "https://www.benzinga.com/amp/content/34140598"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34140598"
+excerpt: "Tech giants collaborate to drive productivity and growth with generative AIARMONK, N.Y. and SAN FRANCISCO, Aug. 31, 2023 /PRNewswire/ -- Today,"
+publishedDateTime: 2023-08-31T14:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-and-salesforce-team-up-to-help-businesses-accelerate-adoption-of-trustworthy-ai-1032596011"
+webUrl: "https://markets.businessinsider.com/news/stocks/ibm-and-salesforce-team-up-to-help-businesses-accelerate-adoption-of-trustworthy-ai-1032596011"
 type: article
-quality: 53
+quality: 43
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
-
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
 
 related:
   - title: "Startup Superframe Raises $5 Million To Simplify Salesforce Configurations With AI Chatbot"
@@ -98,20 +94,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How to talk to an AI chatbot"
-    excerpt: "The Washington Post’s guide to getting the most out of AI chatbots — from OpenAI’s ChatGPT to Google’s Bard and Microsoft’s Bing— and avoiding common pitfalls."
-    publishedDateTime: 2023-08-31T05:00:00Z
-    webUrl: "https://www.washingtonpost.com/technology/interactive/2023/how-to-talk-ai-chatbot-chatgpt/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KK4QILC7RJDP7IGXGBPVQITL6Q.jpg&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "IBM and Salesforce Partner To Help Businesses Accelerate Adoption of Trustworthy AI"
     excerpt: "ARMONK, N.Y. and SAN FRANCISCO , Aug. 31, 2023 – – IBM and Salesforce announced a collaboration to help businesses worldwide across industries accelerate their adoption of AI for CRM. Together, the two companies support clients to revolutionize customer, partner and employee experiences, while helping safeguard their data."
     publishedDateTime: 2023-08-31T17:07:00Z
@@ -150,6 +132,6 @@ related:
       domain: axios.com
     quality: 17
 
-secured: "14wjnIyPzPA2Da6RxbWp12BpclZfIKIKe5i/Ufn0IwLG+TzNvR3pd/VEVPdwfheulyikeOIlwzijKk0IJ/wxH1sBE0ZZFx2Qd9tws4cXEU2u/5i/8iQRHXyXNZWN6U40Yjn3FuqIhTPK1y3s4WFUoiFICMH9e5C32FCzbHDRbmncnfBLtA5QrowGx5+YyzkutMBNV/9R9dTzv1c01chSgvuKJmrNChiYLVKhHXkK5tK6Rj3aCCPayj1rYog0/iplRRDkrtJH9J0ylgxWfrZGVQ2tFkx09y90y9BQeemvKacHxhH1D4aoeNW6cR1RYEJtuTftZmd87bU9bRNvxvcb2lde9U1muD9XvaspSI5zRAA=;KoiKmWqbnTE04GNoxg6X7w=="
+secured: "JToMNunDDd7s+S/+WpJLMRcOTE+yc8IvQitvzG39sd3Y8O+W+5PQ3OGNVm8STx3t+OsPXrV8giy6ibxB17LgrEtQSexurbDRCwi/L2iC4Ko7sTKqXsgsOghmvy/I4xIX8vR6BLEbyqQtVQJXoZLAcLcVo9OIwGnp6oMsERMwxFOFYozwfKOvpN4Le/fq5wjimE1diDr3QD9QXUjxy8xwB1HxY3kKPa1oczwHXPLrRGotwamaeoNZIOBwvLFFZuoEcBhjdv784LLUCt5FR/tZu2ax1c8CC1N7hHUbHj3BDj35P3s7BWEQ8NnaFwHvva9G0cCFvjbIq4HDUrtJETAX7OLfmQBNIowsxtjQdt3BMrcsqpZ4Trn2X4alkCpjr/toph92h3ag7mxY56/cnd/TlD2dOBt+gMpcxh+E17gJ+bY3HJIupB5v8XNbR6AtRQ7ng0gqAp2i8EeQoJydq3A2pE+gHDCBc75w3UQX1+HklwJjqBi8+eWYH+ylzBg6V0UTLh0E8xg1a1tkqMCFNE5rPA==;P0UsKv4qG/IcaXi06fZwFQ=="
 ---
 
