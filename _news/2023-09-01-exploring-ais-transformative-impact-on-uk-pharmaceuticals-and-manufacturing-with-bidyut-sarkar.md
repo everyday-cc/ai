@@ -68,15 +68,34 @@ related:
       name: The Hill
       domain: thehill.com
     quality: 54
-  - title: "AI in Financial Services: A Transformational Force Beyond the Hype"
-    excerpt: "AI is reshaping all industries as it captivates the public with its limitless potential. Many in financial services have strong reservations about the technology, but it is here and is not going away."
-    publishedDateTime: 2023-08-30T09:31:00Z
-    webUrl: "https://internationalbanker.com/technology/ai-in-financial-services-a-transformational-force-beyond-the-hype/"
+  - title: "The Brand Bee Envisions The Role Of Artificial Intelligence In Shaping The Next Era Of Marketing"
+    excerpt: "a distinguished Digital Marketing Agency in Gurugram , is at the forefront of revolutionising the marketing landscape by embracing the potential of Artificial Intelligence (AI). Known for providing 360-degree solutions for digital marketing and hailed as a ..."
+    publishedDateTime: 2023-09-04T03:42:00Z
+    webUrl: "https://menafn.com/1107001684/The-Brand-Bee-Envisions-The-Role-Of-Artificial-Intelligence-In-Shaping-The-Next-Era-Of-Marketing"
     type: article
     provider:
-      name: International Banker
-      domain: internationalbanker.com
-    quality: 19
+      name: Mena FN
+      domain: menafn.com
+    quality: 41
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?195718"
+        width: 361
+        height: 249
+        isCached: true
+  - title: "The chilling rise of AI scams"
+    excerpt: "Criminals are cloning voices and making calls to trick victims into sending them money. How can they be stopped?"
+    publishedDateTime: 2023-09-04T01:00:00Z
+    webUrl: "https://www.theguardian.com/news/audio/2023/sep/04/the-chilling-rise-of-ai-scams-podcast?ref=upstract.com"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 37
+    images:
+      - url: "https://i.guim.co.uk/img/media/fb0e197e035498657dc5efe2965f5e11dec0f640/0_128_5172_3105/master/5172.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c6d1bbe4de5d8ff97c5f41ca05280be5"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How Machine Learning is Transforming the Online Card Games in India"
     excerpt: "A fine balance has been created by the subtly included machine learning algorithms, enhancing the gaming experience without compromising the core of the games."
     publishedDateTime: 2023-08-31T08:13:00Z

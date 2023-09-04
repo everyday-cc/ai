@@ -32,20 +32,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 68
-  - title: "The Bull Market in Artificial Intelligence Is Just Beginning: 2 Top AI Stocks to Buy Now and Hold for the Next Decade"
-    excerpt: "CEO Alex Karp says there's \"an infinite market\" for Palantir's artificial intelligence solutions. As much as $1 trillion in data-center spending could shift to AI-based infrastructure, an industry Nvidia dominates. Artificial intelligence (AI) has the ..."
-    publishedDateTime: 2023-08-30T09:10:00Z
-    webUrl: "https://www.fool.com/investing/2023/08/30/artificial-intelligence-top-ai-stocks-to-buy-now/"
+  - title: "Why AMD Stock Is a Must-Own AI Chip Play"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Earlier this year, Advanced Micro Devices (NASDAQ:AMD), commonly known as just"
+    publishedDateTime: 2023-08-31T18:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/why-amd-stock-is-a-must-own-ai-chip-play-1032597614"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 63
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/745621/artificial-intelligence-gettyimages-1402452878.jpg"
-        width: 2308
-        height: 1299
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "The 3 Most Promising AI Stocks to Own Now"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips While artificial intelligence may be all the rage, investors seeking the top"
     publishedDateTime: 2023-08-31T22:49:00Z

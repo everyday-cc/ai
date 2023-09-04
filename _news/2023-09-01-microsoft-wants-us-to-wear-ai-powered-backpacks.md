@@ -79,20 +79,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 61
-  - title: "Synthetaic, Microsoft Enter Into AI Data, Cloud Partnership"
-    excerpt: "The AI company will utilize Microsoft Azure Space capabilities to develop AI tools to process static, video and geospatial imagery for national security, environmental, disaster response and sustainability missions. “This partnership allows us to combine ..."
-    publishedDateTime: 2023-08-30T10:00:00Z
-    webUrl: "https://www.govconwire.com/2023/08/synthetaic-microsoft-enter-into-ai-data-cloud-partnership/"
-    type: article
-    provider:
-      name: GovCon Wire
-      domain: govconwire.com
-    quality: 56
-    images:
-      - url: "https://www.govconwire.com/wp-content/uploads/2023/08/unnamed-file-203.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Microsoft enters partnership to build AI for large datasets"
     excerpt: "The global software giant is offering Synthetiac up to 1 million hours of cloud computing resources to accelerate the development of new tools for searching massive amounts of unstructured data."
     publishedDateTime: 2023-08-30T19:58:00Z

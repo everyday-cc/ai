@@ -9,8 +9,8 @@ ampWebUrl: "https://singularityhub.com/2023/09/03/how-will-we-know-if-ai-is-cons
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/09/03/how-will-we-know-if-ai-is-conscious-neuroscientists-now-have-a-checklist/?amp=1"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Singularity Hub
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI shows no sign of consciousness yet, but we know what to look for"
-    excerpt: "Long believes that like studying animal consciousness, investigating AI consciousness must start with what we know about humans – but not rigidly adhere to it. “There’s always the risk of mistaking human consciousness for consciousness in general ..."
-    publishedDateTime: 2023-08-30T10:00:00Z
-    webUrl: "https://www.newscientist.com/article/2388344-ai-shows-no-sign-of-consciousness-yet-but-we-know-what-to-look-for/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/08/30103521/SEI_168670348.jpg"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "If AI Becomes Conscious, Here’s How We Can Tell"
     excerpt: "A checklist derived from six neuroscience-based theories of consciousness could help assess whether an artificial intelligence system achieves this state"
     publishedDateTime: 2023-08-30T16:20:00Z

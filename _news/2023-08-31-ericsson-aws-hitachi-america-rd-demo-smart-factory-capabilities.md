@@ -7,7 +7,7 @@ originalUrl: "https://www.thefastmode.com/technology-solutions/33134-ericsson-aw
 webUrl: "https://www.thefastmode.com/technology-solutions/33134-ericsson-aws-hitachi-america-r-d-demo-smart-factory-capabilities"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "AWS and Ericsson build 5G machine vision system for Hitachi car factory"
-    excerpt: "artificial intelligence (AI), Edge-to-cloud technologies, and private 5G. The system used Ericsson's Private 5G offering, which provides connectivity through a single server dual mode core, and the AWS Snowball Edge device. The Snow Family offerings are ..."
-    publishedDateTime: 2023-08-30T10:40:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/aws-and-ericsson-build-5g-machine-vision-system-for-hitachi-car-factory/"
+  - title: "North America Robot Orders Drop for Second Quarter"
+    excerpt: "When combined with first quarter results, the robotics market in North America is down 29% compared to the first half of last year with a total of 16,865 robots ordered. This drop comes after a record 2022, where North American companies ordered 44,196 robots, up 11% over 2021, the previous record."
+    publishedDateTime: 2023-08-31T14:15:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/08/31/9873204.htm"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 39
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/camera-with-industrial-sensors-in.2e16d0ba.fill-1200x630.png"
-        width: 899
-        height: 472
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
   - title: "Ericsson with AWS and Hitachi America R&D to showcase smart factory potential"
     excerpt: "Built on Ericsson’s 4G and 5G radio and dual mode core technology, Ericsson Private 5G enables a wide variety of innovative use cases"
     publishedDateTime: 2023-09-01T05:00:00Z

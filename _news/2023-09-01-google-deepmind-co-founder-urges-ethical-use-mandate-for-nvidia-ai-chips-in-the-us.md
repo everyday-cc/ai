@@ -173,20 +173,6 @@ related:
       name: tech
       domain: techstory.in
     quality: 47
-  - title: "Google DeepMind creates new watermarking tool"
-    excerpt: "Google DeepMind has launched a new watermarking tool that labels whether images have been generated with AI. The tool, called SynthID, will initially be available only to users of Google's AI image generator Imagen, which is hosted on Google Cloud's ..."
-    publishedDateTime: 2023-08-30T09:31:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/57503-google-deepmind-creates-new-watermarking-tool"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/d9da40207696c111c927705d3103c0f2_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
   - title: "Google DeepMind unveils tool to watermark and detect AI-generated images"
     excerpt: "Google DeepMind, Alphabet Inc.’s artificial intelligence research lab, is teaming up with Google Cloud to launch a watermarking tool for AI-generated images that will allow users to identify if artwork or graphics was produced by an AI model."
     publishedDateTime: 2023-08-30T16:52:00Z

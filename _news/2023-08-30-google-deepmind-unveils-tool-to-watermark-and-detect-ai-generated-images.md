@@ -180,20 +180,6 @@ related:
       name: tech
       domain: techstory.in
     quality: 47
-  - title: "Google DeepMind creates new watermarking tool"
-    excerpt: "Google DeepMind has launched a new watermarking tool that labels whether images have been generated with AI. The tool, called SynthID, will initially be available only to users of Google's AI image generator Imagen, which is hosted on Google Cloud's ..."
-    publishedDateTime: 2023-08-30T09:31:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/57503-google-deepmind-creates-new-watermarking-tool"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/d9da40207696c111c927705d3103c0f2_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
   - title: "Google DeepMind co-founder argues US should set AI global standards - FT"
     excerpt: "Mustafa Suleyman, Google DeepMind's co-founder and chief executive of Inflection AI, told the Financial Times that the US should use their chip leadership to enforce minimum global standards for the use of AI."
     publishedDateTime: 2023-09-01T12:13:00Z

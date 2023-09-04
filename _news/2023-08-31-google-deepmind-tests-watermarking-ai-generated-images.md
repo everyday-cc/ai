@@ -190,20 +190,6 @@ related:
         width: 1600
         height: 840
         isCached: true
-  - title: "AI's Dirty Secret: Poor People in the Developing World Are Doing Most of the Work"
-    excerpt: "In short, while AI has triggered a billion-dollar arms race in the US, those who are actually doing the brunt of the work are often going unnoticed, underpaid, or ignored altogether — a wrinkle in the ongoing AI ethics debate that should give anybody pause."
-    publishedDateTime: 2023-08-30T09:27:00Z
-    webUrl: "https://futurism.com/ai-dirty-secret-poor-people-most-work"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 34
-    images:
-      - url: "https://wp-assets.futurism.com/2023/08/ai-dirty-secret-poor-people-most-work.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Generative artificial intelligence has entered the classroom"
     excerpt: "Artificial intelligence (AI) is changing the classroom ... Faculty are also focusing on plagiarism, considering possible bias, and concerns about ethics, intellectual property, misinformation, and disinformation. Prabu David, RIT’s new provost and ..."
     publishedDateTime: 2023-08-30T13:37:00Z

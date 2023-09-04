@@ -87,6 +87,20 @@ related:
         width: 1280
         height: 960
         isCached: true
+  - title: "Peter Dutton floats idea for second Indigenous recognition referendum"
+    excerpt: "The Yes campaign for the proposed Indigenous Voice to Parliament is hoping it's new ad, featuring John Farnham's 'Youre the Voice' will revive support for the Yes vote."
+    publishedDateTime: 2023-09-04T02:00:00Z
+    webUrl: "https://www.abc.net.au/listen/programs/worldtoday/idea-for-second-indigenous-recognition-referendum/102811512"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 24
+    images:
+      - url: "https://live-production.wcms.abc-cdn.net.au/9c5b5cedf42435bdfdf60ea9dd6a80a3?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=249&width=862&height=485"
+        width: 862
+        height: 485
+        isCached: true
   - title: "Peter Dutton pledges new referendum solely on recognition if Voice fails and he wins next Federal election"
     excerpt: "Opposition leader Peter Dutton has pledged to hold a second referendum solely to enshrine Indigenous people into the constitution if the Voice fails to pass next month."
     publishedDateTime: 2023-09-03T00:34:00Z

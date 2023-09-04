@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/search/google-search-generative-ai-indi
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/google-search-generative-ai-india-japan/amp/"
 type: article
 quality: 109
-heat: 269
+heat: 259
 published: true
 
 provider:
@@ -185,20 +185,6 @@ related:
       - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/08/sos-2024-generativeai-featured-image-64eda220ca322-sej.jpg"
         width: 1600
         height: 840
-        isCached: true
-  - title: "AI's Dirty Secret: Poor People in the Developing World Are Doing Most of the Work"
-    excerpt: "In short, while AI has triggered a billion-dollar arms race in the US, those who are actually doing the brunt of the work are often going unnoticed, underpaid, or ignored altogether — a wrinkle in the ongoing AI ethics debate that should give anybody pause."
-    publishedDateTime: 2023-08-30T09:27:00Z
-    webUrl: "https://futurism.com/ai-dirty-secret-poor-people-most-work"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 34
-    images:
-      - url: "https://wp-assets.futurism.com/2023/08/ai-dirty-secret-poor-people-most-work.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Google DeepMind Tests Watermarking AI-Generated Images"
     excerpt: "There is no universally agreed-upon approach to watermarking AI-generated images. DeepMind says the goal is to support SynthAI across a range of Google products and services, which could help move toward making it a standard. There are also plans to make SynthAI available to third parties for use in other generative AI models."

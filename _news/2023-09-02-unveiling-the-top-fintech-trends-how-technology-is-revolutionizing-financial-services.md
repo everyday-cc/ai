@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "AI and ML are Playing Defining Role in Driving Fintech Automation, Says STX Next"
-    excerpt: "AI and ML algorithms that can process large quantities of data are delivering increased efficiency, scalability and accuracy for fintechs pioneering the technology Artificial intelligence (AI) and machine learning (ML) adoption is increasing across virtually every industry,"
-    publishedDateTime: 2023-08-30T10:35:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/ai-and-ml-are-playing-defining-role-driving-fintech-automation-says-stx"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 51
-    images:
-      - url: "https://financialit.net/sites/default/files/stxnext.png"
-        width: 1366
-        height: 768
-        isCached: true
   - title: "Navigating The Future Of Banking: A Look At The Top Fintech Innovations"
     excerpt: "Welcome to the future of banking where financial technology, or fintech, is revolutionizing the way we manage our money. From mobile banking apps to cryptocurrency advancements, there’s no denying that digital innovation is reshaping the entire industry."
     publishedDateTime: 2023-09-02T08:48:00Z
@@ -47,17 +33,15 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "Gov’t digitalization push to sustain demand for fintech services"
-    excerpt: "DEMAND for financial technology (fintech) services is expected to be sustained following the increase seen during the coronavirus pandemic, driven by the government’s digitalization initiatives. “With the Philippine government prioritizing the digitalization of financial transactions and showing strong support for the fintech industry,"
-    publishedDateTime: 2023-09-03T15:24:00Z
-    webUrl: "https://www.bworldonline.com/special-reports/2023/09/04/542941/govt-digitalization-push-to-sustain-demand-for-fintech-services/"
-    ampWebUrl: "https://www.bworldonline.com/special-reports/2023/09/04/542941/govt-digitalization-push-to-sustain-demand-for-fintech-services/?amp"
-    cdnAmpWebUrl: "https://www-bworldonline-com.cdn.ampproject.org/c/s/www.bworldonline.com/special-reports/2023/09/04/542941/govt-digitalization-push-to-sustain-demand-for-fintech-services/?amp"
+  - title: "Innovating with integrity: the rise of data ethics in the finance sector"
+    excerpt: "A quiet revolution is underway at the heart of many of our best-known financial institutions. A revolution stirred up by a surprising cross set of people: data specialists, product"
+    publishedDateTime: 2023-08-31T18:39:00Z
+    webUrl: "https://www.theodi.org/article/innovating-with-integrity-the-rise-of-data-ethics-in-the-finance-sector-2/"
     type: article
     provider:
-      name: BusinessWorld
-      domain: bworldonline.com
-    quality: 39
+      name: Open Data Certificate
+      domain: theodi.org
+    quality: 35
   - title: "Top 5 Factors Transforming Fintech into a $700B Industry"
     excerpt: "Technology has become an absolute necessity in the financial services industry in the 21st century. Integrating enterprising tech with crucial and sensitive financial processes and operations leads to better overall efficiency,"
     publishedDateTime: 2023-09-01T10:57:00Z
@@ -86,6 +70,15 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Harnessing The Power Of Artificial Intelligence In Space Missions: A Look At Future Technological Advancement"
+    excerpt: "Space is the final frontier. As humans continue to explore the vastness of our universe, one thing becomes abundantly clear: we need a little help from our friends in artificial intelligence (AI). The days of relying solely on human astronauts to navigate and execute complex space missions are gradually giving way to a new era"
+    publishedDateTime: 2023-09-01T09:29:00Z
+    webUrl: "https://techbullion.com/harnessing-the-power-of-artificial-intelligence-in-space-missions-a-look-at-future-technological-advancement/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 0
 
 secured: "eI4VP7XuOpffn3V34VYPbw4zOax1d/6Z4kjObG7dMDd3eODiMEVibqkwtelKKwawzw+ougZyZkVi0+JMNhIhlkzGg7R0ShjulkJcdwoA2hMi971I+fl+TiL34/Pp/PvaiQhzzCVV+O1egtjBHfFlvRxUG3hHE3Hlur/RU5pPeeR+9JvUXnluvUWnmELnC0S4C1Oc7GntrOxeiXweDOe2VQ36sZNqkpkDeNDLMhfN2cxfDsK2l3PKlWjyfsy0yzPj8PbeUNhjzO7e7ckcNkCa3RpS5QFSSjiIDvsqulhbEdTBWnHTAnrzTjwRspoLAVraEnA3G9DdwLf2GRNXGg5c7HURA1e27nZNeaU5JlNB2lQ=;EeLgSvxHQfVDPP+yt5q1AA=="
 ---

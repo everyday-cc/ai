@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/navigating-the-future-of-banking-a-look-at
 webUrl: "https://techbullion.com/navigating-the-future-of-banking-a-look-at-the-top-fintech-innovations/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,31 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "AI and ML are Playing Defining Role in Driving Fintech Automation, Says STX Next"
-    excerpt: "AI and ML algorithms that can process large quantities of data are delivering increased efficiency, scalability and accuracy for fintechs pioneering the technology Artificial intelligence (AI) and machine learning (ML) adoption is increasing across virtually every industry,"
-    publishedDateTime: 2023-08-30T10:35:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/ai-and-ml-are-playing-defining-role-driving-fintech-automation-says-stx"
+  - title: "Innovating with integrity: the rise of data ethics in the finance sector"
+    excerpt: "A quiet revolution is underway at the heart of many of our best-known financial institutions. A revolution stirred up by a surprising cross set of people: data specialists, product"
+    publishedDateTime: 2023-08-31T18:39:00Z
+    webUrl: "https://www.theodi.org/article/innovating-with-integrity-the-rise-of-data-ethics-in-the-finance-sector-2/"
     type: article
     provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 51
-    images:
-      - url: "https://financialit.net/sites/default/files/stxnext.png"
-        width: 1366
-        height: 768
-        isCached: true
-  - title: "Gov’t digitalization push to sustain demand for fintech services"
-    excerpt: "DEMAND for financial technology (fintech) services is expected to be sustained following the increase seen during the coronavirus pandemic, driven by the government’s digitalization initiatives. “With the Philippine government prioritizing the digitalization of financial transactions and showing strong support for the fintech industry,"
-    publishedDateTime: 2023-09-03T15:24:00Z
-    webUrl: "https://www.bworldonline.com/special-reports/2023/09/04/542941/govt-digitalization-push-to-sustain-demand-for-fintech-services/"
-    ampWebUrl: "https://www.bworldonline.com/special-reports/2023/09/04/542941/govt-digitalization-push-to-sustain-demand-for-fintech-services/?amp"
-    cdnAmpWebUrl: "https://www-bworldonline-com.cdn.ampproject.org/c/s/www.bworldonline.com/special-reports/2023/09/04/542941/govt-digitalization-push-to-sustain-demand-for-fintech-services/?amp"
-    type: article
-    provider:
-      name: BusinessWorld
-      domain: bworldonline.com
-    quality: 39
+      name: Open Data Certificate
+      domain: theodi.org
+    quality: 35
   - title: "Top 5 Factors Transforming Fintech into a $700B Industry"
     excerpt: "Technology has become an absolute necessity in the financial services industry in the 21st century. Integrating enterprising tech with crucial and sensitive financial processes and operations leads to better overall efficiency,"
     publishedDateTime: 2023-09-01T10:57:00Z
@@ -78,6 +62,15 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Harnessing The Power Of Artificial Intelligence In Space Missions: A Look At Future Technological Advancement"
+    excerpt: "Space is the final frontier. As humans continue to explore the vastness of our universe, one thing becomes abundantly clear: we need a little help from our friends in artificial intelligence (AI). The days of relying solely on human astronauts to navigate and execute complex space missions are gradually giving way to a new era"
+    publishedDateTime: 2023-09-01T09:29:00Z
+    webUrl: "https://techbullion.com/harnessing-the-power-of-artificial-intelligence-in-space-missions-a-look-at-future-technological-advancement/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 0
   - title: "Unveiling the Top Fintech Trends: How Technology is Revolutionizing Financial Services"
     excerpt: "Are you ready to embark on a journey into the future of finance? From mobile banking to advanced algorithms, technology has been transforming the way we interact with money and manage our finances. In this blog post,"
     publishedDateTime: 2023-09-01T17:36:00Z

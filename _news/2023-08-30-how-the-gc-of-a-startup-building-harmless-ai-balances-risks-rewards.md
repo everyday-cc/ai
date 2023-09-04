@@ -27,7 +27,7 @@ related:
   - title: "How the GC of a Startup Building 'Harmless' AI Balances Risks, Rewards"
     excerpt: "It’s a surprisingly full time job at times . . . to really deeply understand where we're willing to tolerate more risk in service of our mission and where we're more sensitive to risk, Anthropic AI legal chief Brian Israel said."
     publishedDateTime: 2023-08-31T23:11:00Z
-    webUrl: "https://www.law.com/therecorder/2023/08/30/how-the-gc-of-a-startup-building-harmless-ai-balances-risks-rewards/"
+    webUrl: "https://www.law.com/2023/08/30/how-the-gc-of-a-startup-building-harmless-ai-balances-risks-rewards/"
     type: article
     provider:
       name: Law

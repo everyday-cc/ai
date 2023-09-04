@@ -29,7 +29,7 @@ related:
   - title: "Artificial Intelligence: NI can be 'testing centre' for new technology"
     excerpt: "Northern Ireland can be a testing centre for artificial intelligence in the UK, according to a group representing the software industry. Belfast-based IT firm Kainos announced it was investing £10m to develop the use of generative AI in its business."
     publishedDateTime: 2023-09-03T05:40:00Z
-    webUrl: "https://www.bbc.com/news/uk-northern-ireland-66662461"
+    webUrl: "https://www.bbc.com/news/uk-northern-ireland-66662461.amp"
     ampWebUrl: "https://www.bbc.com/news/uk-northern-ireland-66662461.amp"
     cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-northern-ireland-66662461.amp"
     type: article

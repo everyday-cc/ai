@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "AWS and Ericsson build 5G machine vision system for Hitachi car factory"
-    excerpt: "artificial intelligence (AI), Edge-to-cloud technologies, and private 5G. The system used Ericsson's Private 5G offering, which provides connectivity through a single server dual mode core, and the AWS Snowball Edge device. The Snow Family offerings are ..."
-    publishedDateTime: 2023-08-30T10:40:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/aws-and-ericsson-build-5g-machine-vision-system-for-hitachi-car-factory/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 39
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/camera-with-industrial-sensors-in.2e16d0ba.fill-1200x630.png"
-        width: 899
-        height: 472
-        isCached: true
   - title: "Ericsson, AWS & Hitachi America R&D Demo Smart Factory Capabilities"
     excerpt: "Ericsson, Amazon Web Services (AWS) and Hitachi America R&D enabled the private 5G infrastructure trial at Hitachi Astemo Americas’ electric motor vehicle manufacturing plant in Berea, Kentucky, USA."
     publishedDateTime: 2023-08-31T02:34:00Z
@@ -47,6 +33,15 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "North America Robot Orders Drop for Second Quarter"
+    excerpt: "When combined with first quarter results, the robotics market in North America is down 29% compared to the first half of last year with a total of 16,865 robots ordered. This drop comes after a record 2022, where North American companies ordered 44,196 robots, up 11% over 2021, the previous record."
+    publishedDateTime: 2023-08-31T14:15:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/08/31/9873204.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "e4iuOYXG4JfJsR7fc3qPdNh8U5o8KY2DF1SYeC0j52vDU43B92XGDP2+9A+ALdSA6ZXMbryQcWGzaLrrgaDR5ZNoyLjYIlLMN3ENnlJMJcKlNC7kL6m0YRtX1mbs4te041uiCSbO8zWd26XbV0RxJoCBTHQkFJwHJ2WuYdFGm3oVDR/MYN/6VQVTfLc6DN8bqPdbWHN6AH6f4QfEVsrRxN4rsffO/2XdiJaM96FmKbjFKIiz1+C1ESAKVJYR74xFtUHk6fZFny4apx6IzEayMhdphQCU91YAgM3ZXihmKMCYWa97QmgNtY77Jg0uQNXcYm0hnKzS6rAgbFKQPn6EpXe9zQsTABJg6smrUhfzUOvRjAFQ2TTN1h8xQl2CQn2OTptfkY0Dg3ryq8N5SnrVeJb0CIITTcp8nXaHVI1CH2wUaXz16zP0LYHpn5Rx/srotwZMYIwaP7SR+aCxEYCtzEUohONQiAFRiISylwZob1i5UhDQNYD4vKFwvh8Oxj1GhIjuhpLnqL7gD6j6SJRvhQ==;THaHTZPGB464SE8ja43zDA=="
 ---

@@ -21,6 +21,22 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "The 25 most important AI words everyone should know"
+    excerpt: "Most acknowledge the growing impact of artificial intelligence worldwide, but only a few understand it. People usually hear terms like “chatbots,” “machine learning,” and “large language"
+    publishedDateTime: 2023-09-04T02:04:00Z
+    webUrl: "https://technology.inquirer.net/127538/most-important-ai-words"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 39
+    images:
+      - url: "https://technology.inquirer.net/files/2023/09/ai-words.png-620x349.png"
+        width: 620
+        height: 349
+        isCached: true
+
 secured: "CdcwcVTqADdoahCnErk2z8CZo57kQifWHLJqcHUwyR3/K0vJC+u2tVkncygIr8ns/EQiGiscrK5jm2t4k0tx2CQJG3nuFXX6xiK3aqHK4xRrpS/m7CNOPmuRuhbRy/zsPnveul/gug5s3JsCsmSRE+k+05m8KCWjciSLqu3Q2/lJmVnr/pRwntNOoAYSJVRUhH+rbebuPpkexR5wEYGEwYByelLk1GeP+76xk8qAiPFA2Tgm4cnQMaiY3Y7hXuLugsqYB/5t9mF33bJ7Y97SypwBv0o7vuah6YxzVA3Zy/RNRQZGvx+5086wfYDCzv2ec7m3ywugqjXI0l6oW2gRS6/sNa6qw+1bFu+XDPxO0y0=;ArFSn1eKaBPJ8efAjHD4QQ=="
 ---
 

@@ -3,8 +3,8 @@ category: news
 title: "How the GC of a Startup Building 'Harmless' AI Balances Risks, Rewards"
 excerpt: "It’s a surprisingly full time job at times . . . to really deeply understand where we're willing to tolerate more risk in service of our mission and where we're more sensitive to risk, Anthropic AI legal chief Brian Israel said."
 publishedDateTime: 2023-08-31T23:11:00Z
-originalUrl: "https://www.law.com/therecorder/2023/08/30/how-the-gc-of-a-startup-building-harmless-ai-balances-risks-rewards/"
-webUrl: "https://www.law.com/therecorder/2023/08/30/how-the-gc-of-a-startup-building-harmless-ai-balances-risks-rewards/"
+originalUrl: "https://www.law.com/2023/08/30/how-the-gc-of-a-startup-building-harmless-ai-balances-risks-rewards/"
+webUrl: "https://www.law.com/2023/08/30/how-the-gc-of-a-startup-building-harmless-ai-balances-risks-rewards/"
 type: article
 quality: 37
 heat: -1
@@ -39,6 +39,6 @@ related:
         height: 633
         isCached: true
 
-secured: "WA6YAEIhq7AtAcYj9Guh4SQ/Ns1mEG5zOWmrR14YGc9Tdf4W38ORAGaTSCMiqoFh+urOLdLFM3o/KjhNUjT0Y+fxzZXS5tMSbZzxylQTIHweO0/EGXHF3G5abCK500IKf+VTe71ND979WwZVCDgEBXA6ctJp9PKzPLhnh4eyUXMWo5DrxY3Xxd57VY/XfFydZa9DklIbgn5aFS6oMezyLMJ1WC+SjzzIZ0K9wAQwVUBaIi6z+sNwrEhQdGpilZhztfAJSmyulkUXg7N/aDd7dMOK40dURlSsbBFB848EWfYLQUMl+XQMT2J/TfwUvzKh2t697aERu8egA1uqo3bWXPaYgKLIPD4bFL7MDJmxD9me5RAudM/SC1xG7eRz/TrlbOyIGzNm+D1S+nGGN9n/KzAvMv7bWpyAqB4e27DoaMkL/rrCfYhmqGaciHs4e05iuXmi3MsVHF8jlDzfEDJ3tNiA3Evwi8XiOdkDqpa+J6vtdKPAMpGHnmFel3d0NRIs4NeuTdhHl+KcfUZsPr/AOQ==;gB+b1OP/V6UoZTzgPUZ82w=="
+secured: "Fp9YuTZczIoHLFb6JbypRexDNQYaEqwmQiKVX9LVoxTrqxgm0XpQ99N6n4LpVrqtY+M0RGhCIctCvJhToa/Ctg3UdapmSW0+TXBNjHEN20G+OtRS9Eiz33KSaUtX1iC/qZGXP/NteesBOPfoS7HWvItgEm5UM5iq/Qon0uQfMAhL2oF2TaVFcxMGvIpDSuoujOt591w1WkGiBJb1lCMCkT0FkByZv8F1D3aOxnZkS/IhL1Z28Mi28ZHjbCwk1aEnn/NKFD3PqHQKk29VhsmYAjY56E2H2EEI7R2QcnJbdGTimvIvi8bEVO8YJCkXqGTlas6h70Xl3ZTLfvNsYUZ0SgVMU+YOy5uDOep12kbvwVM=;nssAdanSBy7/vBEYALhitw=="
 ---
 

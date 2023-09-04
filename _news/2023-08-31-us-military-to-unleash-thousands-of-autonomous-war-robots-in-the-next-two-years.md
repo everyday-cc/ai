@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "The age of war-fighting robots is upon us"
-    excerpt: "The United States military plans to start using thousands of autonomous weapons systems ... However, Ms Hicks promised a “responsible and ethical approach to AI and autonomous systems” in her speech – which suggests any system able to kill targets ..."
-    publishedDateTime: 2023-08-30T09:03:00Z
-    webUrl: "https://www.straitstimes.com/opinion/the-age-of-war-fighting-robots-is-upon-us"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 39
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/08/30/2023-06-21T113843Z655184611RC2MN1AGDETGRTRMADP3FRANCE-AIRSHOW.JPG"
-        width: 860
-        height: 573
-        isCached: true
   - title: "Us To Unleash Thousands Of Autonomous War Robots"
     excerpt: "The United States military plans to start using thousands of autonomweapons systems in the next two years in a bid to counter China's growing power,"
     publishedDateTime: 2023-09-01T11:41:00Z

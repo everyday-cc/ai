@@ -38,15 +38,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Alphabet Focuses on Efficiency with New AI Chip"
-    excerpt: "Nvidia launched its ultra-power H100 data center GPU in 2022, and that hardware has become the standard for AI workloads. Nvidia is selling every H100 GPU it can make, and reports indicate that the company is set to triple production of data center GPUs in 2024. Right now, there's nothing faster for AI than the H100."
-    publishedDateTime: 2023-08-30T10:35:00Z
-    webUrl: "https://www.nasdaq.com/articles/alphabet-focuses-on-efficiency-with-new-ai-chip"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
   - title: "Meta unveils new tool to detect bias in computer vision AI"
     excerpt: "With more than 30,000 images, Meta said its FACET tool can help developers test whether AI computer vision systems are biased."
     publishedDateTime: 2023-09-01T10:24:00Z
