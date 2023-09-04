@@ -66,6 +66,20 @@ related:
         width: 1280
         height: 572
         isCached: true
+  - title: "Nation sets impressive pace on AI applications"
+    excerpt: "Chinese enterprises are at a crucial stage of making breakthroughs in generative AI, and should invest more in building exclusive AI models that are more efficient and offer tailored and precise services to users, the experts said. They also emphasized the importance of safeguarding core and sensitive data and user privacy from potential leaks."
+    publishedDateTime: 2023-09-04T01:24:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202309/04/WS64f510d9a310d2dce4bb3a58.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202309/04/64f5314da310d2dc6d27309c.jpeg"
+        width: 542
+        height: 361
+        isCached: true
 
 secured: "B2VK+q3O6gpkrpBMLNpW0HsJCLImEyKSMXQzk0iCbL7pMNFhEHn7eM3wMfPf6gztnbSKyRTUyuoWa1CO/oyf/gJU79VF9Nb82Ccc7KomhE3hHXtwLEfZMCuBFQ7ouk1a4D7aALFMshkS97Jh9KhVAgeWhiqTNbE3jb3hZ/HvsxPxYyze6vI+n71RlAsiy1soLiUkrPxiFa7CVb5RDMaMNYqmxrWKK0PjxpSxcOSsqttlIUdhybYLviJ7YZvFFIaU+WqgNK9FVhi7m81K6oyA/OvO6pfvMw7hbaFBnFGR8M/dpiEgReX7BDHf2ubV4cr900nLCSOpKNLTUc8N0Emle6HDcH6wuEYHk9OVELHHAE0Y1VZynJ1yEkHVpqpCpNIXcbvAJeHfGE37qWwZ16ZGbaanIR/8FpSkOAcC5rZUM0J6B0SfxYrZbeH8pjvJmzsLDi3oJV7iMGx8Yk1xjW0sirXX29IS9PQD1BrHHcYvPNRrERfPfU4K+E+Yhq4Z2Q6zRGB2dKqwLwnhR10IS3LyxA==;Zh8En9EDZlx6jkvPbyFmXA=="
 ---

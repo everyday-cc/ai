@@ -41,20 +41,6 @@ related:
         width: 1196
         height: 1200
         isCached: true
-  - title: "Spring AI Provides Integration with OpenAI and Azure OpenAI"
-    excerpt: "However, the various Java Client APIs for AI solutions such as OpenAI and Azure OpenAI differ, which makes it harder to switch between those solutions. Spring AI provides an abstraction layer on top of those client APIs inspired by the Python libraries ..."
-    publishedDateTime: 2023-08-30T08:08:00Z
-    webUrl: "https://www.infoq.com/news/2023/08/spring-ai/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 54
-    images:
-      - url: "https://res.infoq.com/news/2023/08/spring-ai/en/headerimage/generatedHeaderImage-1693338686656.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "fA9Wyedda6X2JjqFc2CcWS/4tRo1hcjNLd+g6YCsfsk4dKqtvuNdabxp8iZmxkzw604JY3NnoAZFlCFmiCnCr8vwlxriHba8nC3SR5Ouk5N3upWKwD6D3pzvwqsVyVWb6WfY9cu7G2oEUQKroi6RGwpcXQ2BxbQrUo95dP0Ombi2bF+/wtf06lQyHDHbsWDF6JtOPBx9NVHfic5Y0f2Ov6ekFgItyE0UDy+D0P9TwLiYiXARzqmoXnO4zWBOyuvWRieS2d11XDrVHLdPBFZ5FSya4fSX+UDINL8yaaa2RhVYlwZbWfPweG8mO+S5eeWveymDqEYIg1KkE/MEE2r9oAv00/FRxThYGm05M1gaON+2jMeNGr/2YKpsV0nX2C8q0hQT1PHwt9hWOqygEZTNAngqd6uPG3rStdu0rIbY5gwhTHMG+qlRinmH4Wbr8V8m1DpJmDDntdIjjjimMkRmtMro2wvcLUPjdbWG+FaiuoH6P0ACiGvri3QDJamzRu7KfbsaaamKpiSOTg4kudFRcA==;X2RA6W8Zs0dS7VPpNyvBbw=="
 ---

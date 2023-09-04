@@ -2,6 +2,111 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2023-07-29-hackerone-how-artificial-intelligence-is-changing-cyber-threats-and-ethical-hacking.md",
+      "title": "HackerOne: How Artificial Intelligence Is Changing Cyber Threats and Ethical Hacking",
+      "excerpt": "Security experts from HackerOne and beyond weigh in on malicious prompt engineering and other attacks that could strike through LLMs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/hackerone-how-artificial-intelligence-is-changing-cyber-threats-and-ethical-hacking/",
+      "originalUrl": "https://www.techrepublic.com/article/hackerone-how-artificial-intelligence-is-changing-cyber-threats-and-ethical-hacking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2022/09/tr-data-migration-vs-data-integration.jpeg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-28T10:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-07-29-can-self-driving-go-mainstream-within-10-years-watch-this-debate.md",
+      "title": "Can Self-Driving Go Mainstream Within 10 Years? Watch This Debate",
+      "excerpt": "CMU Professor Raj Rajkumar, of the DARPA challenge winning team faces off with Brad Templeton on the core question",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bradtempleton/2023/07/28/can-self-driving-go-mainstream-within-10-years-watch-this-debate/",
+      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2023/07/28/can-self-driving-go-mainstream-within-10-years-watch-this-debate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62fe40baadccff017f1dbcbd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2023/07/28/can-self-driving-go-mainstream-within-10-years-watch-this-debate/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2023/07/28/can-self-driving-go-mainstream-within-10-years-watch-this-debate/amp/",
+      "publishedDateTime": "2023-07-28T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-29-heres-why-this-ai-chipmaker-continues-to-outflank-the-competition.md",
       "title": "Here's why this AI chipmaker continues to outflank the competition",
       "excerpt": "Intel (INTC) may have jumped over Wall Street's low bar, but the embattled chipmaker's results further highlight rival Nvidia (NVDA) as the firm to beat.",
@@ -1068,100 +1173,6 @@
         "Facebook AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-1-artificial-intelligence-ai-growth-stock-to-buy-hand-over-fist-and-1-to-avoid-like-the-plague.md",
-      "title": "1 Artificial Intelligence (AI) Growth Stock to Buy Hand Over Fist and 1 to Avoid Like the Plague",
-      "excerpt": "Conservative estimates from Morgan Stanley and Goldman Sachs suggest an opportunity worth $6 trillion and $7 trillion, respectively, by 2030. Cathie Wood's Ark Investment Management is much more bullish, forecasting that AI-related hardware and software could represent a $14 trillion revenue opportunity by the decade's end.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/28/artificial-intelligence-ai-growth-stock-buy-avoid/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/28/artificial-intelligence-ai-growth-stock-buy-avoid/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/741106/two-business-people-looking-at-stock-charts-and-graphs-on-a-computer.jpg",
-          "width": 2119,
-          "height": 1415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T02:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-automatic-for-the-people-how-robotics-is-transforming-life-sciences-research.md",
-      "title": "Automatic for the people - how robotics is transforming life sciences research",
-      "excerpt": "But in life sciences, lab hardware tends to be standardized: a test tube, bench, pipette, and other specialist equipment will, broadly, be the same in every lab. This means that repetitive processes can be automated and replicated, opening up a global market – and to solve global problems.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/automatic-people-how-robotics-transforming-life-sciences-research",
-      "originalUrl": "https://diginomica.com/automatic-people-how-robotics-transforming-life-sciences-research",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2023-05/6698E22A-5065-4726-AB0C-5A37DCE72104.jpeg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/automatic-people-how-robotics-transforming-life-sciences-research?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/automatic-people-how-robotics-transforming-life-sciences-research?amp",
-      "publishedDateTime": "2023-07-28T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

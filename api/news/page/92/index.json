@@ -2,6 +2,91 @@
   "page": 92,
   "value": [
     {
+      "path": "_news/2023-06-30-artificial-intelligence-market-worth-13452-billion-by-2030-exclusive-report-by-marketsandmarkets.md",
+      "title": "Artificial Intelligence Market worth $1,345.2 billion by 2030 - Exclusive Report by MarketsandMarkets™",
+      "excerpt": "The global Artificial Intelligence Market size is expected to grow at a Compound Annual Growth Rate (CAGR) of 36.8% during the forecast period, to reach USD 1,345.2 billion by 2030 from USD 150.2 billion in 2023,",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/06/30/9842399.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/06/30/9842399.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-the-huge-power-and-potential-danger-of-ai-generated-code.md",
+      "title": "The huge power and potential danger of AI-generated code",
+      "excerpt": "Late last year, a team at Stanford University posted a research paper that looked at how using a code-generating AI assistant they built affects the quality of code that people produce. The researchers found that programmers getting AI suggestions tended to include more bugs in their final code—yet those with access to the tool tended to believe that their code was more secure.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/ai/2023/06/the-huge-power-and-potential-danger-of-ai-generated-code/",
+      "originalUrl": "https://arstechnica.com/ai/2023/06/the-huge-power-and-potential-danger-of-ai-generated-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/Screenshot-2023-06-29-at-14-19-27-The-Huge-Power-and-Potential-Danger-of-AI-Generated-Code-640x311.png",
+          "width": 640,
+          "height": 311,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/ai/2023/06/the-huge-power-and-potential-danger-of-ai-generated-code/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/06/the-huge-power-and-potential-danger-of-ai-generated-code/amp/",
+      "publishedDateTime": "2023-06-30T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-democratize-computer-vision-defect-detection-for-manufacturing-quality-using-no-code-machine-learning-with-amazon-sagemaker-canvas.md",
       "title": "Democratize computer vision defect detection for manufacturing quality using no-code machine learning with Amazon SageMaker Canvas",
       "excerpt": "Cost of poor quality is top of mind for manufacturers. Quality defects increase scrap and rework costs, decrease throughput, and can impact customers and company reputation. Quality inspection on the production line is crucial for maintaining quality standards. In many cases, human visual inspection",
@@ -1068,92 +1153,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-natural-language-processing-denmark.md",
-      "title": "Natural Language Processing - Denmark",
-      "excerpt": "Value in the Natural Language Processing market is projected to reach US$221.70m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 16.75%, resulting in a market volume ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/denmark",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/denmark",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-building-resilient-healthcare-supply-chains.md",
-      "title": "Building resilient healthcare supply chains",
-      "excerpt": "Find out how the healthcare industry can address shortages, delays, rising costs, tight regulations and more with resilient supply chains.\nThe post Building resilient healthcare supply chains appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/building-resilient-healthcare-supply-chains/",
-      "originalUrl": "https://www.ibm.com/blog/building-resilient-healthcare-supply-chains/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI in Healthcare"
       ]
     }
   ],

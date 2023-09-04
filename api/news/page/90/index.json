@@ -2,6 +2,93 @@
   "page": 90,
   "value": [
     {
+      "path": "_news/2023-07-03-language-cognition-and-computational-models.md",
+      "title": "Language, Cognition, and Computational Models",
+      "excerpt": "Featuring contributions from a diverse group of experts, this interdisciplinary book bridges the gap between natural language processing and cognitive sciences. It is divided into three sections, focusing respectively on models of neural and cognitive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/us/universitypress/subjects/computer-science/artificial-intelligence-and-natural-language-processing/language-cognition-and-computational-models?format=HB",
+      "originalUrl": "https://www.cambridge.org/us/universitypress/subjects/computer-science/artificial-intelligence-and-natural-language-processing/language-cognition-and-computational-models?format=HB",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-03T02:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-03-build-accelerated-ai-apps-for-npus-with-olive.md",
+      "title": "Build accelerated AI apps for NPUs with Olive",
+      "excerpt": "Microsoft’s open-source, hardware-aware optimization tool for ONNX models is an essential part of its AI application development tool chain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3701452/build-accelerated-ai-apps-for-npus-with-olive.html",
+      "originalUrl": "https://www.infoworld.com/article/3701452/build-accelerated-ai-apps-for-npus-with-olive.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/03/10/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-large-100920809-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3701452/build-accelerated-ai-apps-for-npus-with-olive.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3701452/build-accelerated-ai-apps-for-npus-with-olive.amp.html",
+      "publishedDateTime": "2023-07-03T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-03-ais-impact-on-cost-savings-productivity-and-jobs.md",
       "title": "AI’s impact on cost savings, productivity, and jobs",
       "excerpt": "While short-sighted companies may look to AI to cut jobs and costs, smart companies will use AI to increase productivity and agility. Just as they did with open source and cloud.",
@@ -1046,110 +1133,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-why-business-leaders-must-tackle-ethical-considerations-as-ai-becomes-ubiquitous.md",
-      "title": "Why business leaders must tackle ethical considerations as AI becomes ubiquitous",
-      "excerpt": "Technology will only continue to evolve, so it is essential that we remain vigilant and keep ethical AI top of mind.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-business-leaders-must-tackle-ethical-considerations-as-ai-becomes-ubiquitous/",
-      "originalUrl": "https://venturebeat.com/ai/why-business-leaders-must-tackle-ethical-considerations-as-ai-becomes-ubiquitous/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/business-meeting.GettyImages-1130939432.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-01T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-ai-offers-an-epic-make-or-break-moment-for-investors.md",
-      "title": "AI Offers an Epic Make-or-Break Moment for Investors",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Editor’s note: “AI Offers an Epic Make-or-Break Moment for",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/an-ai-demonstration-that-could-leave-you-speechless-1032421903",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/an-ai-demonstration-that-could-leave-you-speechless-1032421903",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2023/01/global-data-creation.png",
-          "width": 847,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-01T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

@@ -2,6 +2,83 @@
   "page": 196,
   "value": [
     {
+      "path": "_news/2023-04-29-indianapolis-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
+      "title": "Indianapolis Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!",
+      "excerpt": "Corteva will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost for a 2 nd time in the Fall of 2023. The AI Bootcamp in Indianapolis will be targeted at underserved high school students (9th-12 th grade) and will introduce these high school students to basic AI concepts and skills.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/04/28/9804356.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/04/28/9804356.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png",
+          "width": 550,
+          "height": 353,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-28T11:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-29-miami-dade-college-will-once-again-host-artificial-intelligence-bootcamp-applications-now-open.md",
+      "title": "Miami Dade College Will Once Again Host Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
+      "excerpt": "Miami Dade College (MDC) will once again host the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp in Miami for high school students at no-cost during the fall 2023",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/04/g32091127/miami-dade-college-will-once-again-host-artificial-intelligence-bootcamp-applications-now-open",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/g32091127/miami-dade-college-will-once-again-host-artificial-intelligence-bootcamp-applications-now-open",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32091127",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32091127",
+      "publishedDateTime": "2023-04-28T11:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-29-data-and-ai-ethics-market-size-2023-with-swot-and-pestal-analysis-forecast-to-2031.md",
       "title": "Data and AI Ethics Market Size 2023 with SWOT and PESTAL Analysis | Forecast to 2031",
       "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
@@ -1065,111 +1142,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-amazon-stock-down-5-as-high-prices-slow-aws-growth.md",
-      "title": "Amazon Stock Down 5% As High Prices Slow AWS Growth",
-      "excerpt": "Amazon stock fell after CFO, Brian Olsavsky, told investors that the AWS growth rate in April is tracking five percentage points below its first quarter growth rate. Were that slowdown to continue, AWS could grow at 10.8% in the second quarter — well below the 13% Wall Street projects for the second quarter, the Journal wrote.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/petercohan/2023/04/28/amazon-stock-down-2-as-high-prices-slow-aws-growth/",
-      "originalUrl": "https://www.forbes.com/sites/petercohan/2023/04/28/amazon-stock-down-2-as-high-prices-slow-aws-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644aade0f54d022866bfa396/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2023/04/28/amazon-stock-down-2-as-high-prices-slow-aws-growth/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/04/28/amazon-stock-down-2-as-high-prices-slow-aws-growth/amp/",
-      "publishedDateTime": "2023-04-28T06:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-ais-earns-seventh-microsoft-advanced-specialization-in-analytics-on-azure-securing-access-to-end-customer-funding-and-resources.md",
-      "title": "AIS Earns Seventh Microsoft Advanced Specialization in Analytics on Azure, Securing Access to End-Customer Funding and Resources",
-      "excerpt": "AIS (Applied Information Sciences), experts in helping organizations modernize and innovate with Microsoft Cloud,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ais-earns-seventh-microsoft-advanced-specialization-in-analytics-on-azure-securing-access-to-end-customer-funding-and-resources-2023-04-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/ais-earns-seventh-microsoft-advanced-specialization-in-analytics-on-azure-securing-access-to-end-customer-funding-and-resources-2023-04-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

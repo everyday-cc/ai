@@ -3,12 +3,14 @@ category: news
 title: "Artificial Intelligence: NI can be 'testing centre' for new technology"
 excerpt: "Northern Ireland can be a testing centre for artificial intelligence in the UK, according to a group representing the software industry. Belfast-based IT firm Kainos announced it was investing £10m to develop the use of generative AI in its business."
 publishedDateTime: 2023-09-03T05:40:00Z
-originalUrl: "https://www.bbc.com/news/uk-northern-ireland-66662461.amp"
-webUrl: "https://www.bbc.com/news/uk-northern-ireland-66662461.amp"
+originalUrl: "https://www.bbc.com/news/uk-northern-ireland-66662461"
+webUrl: "https://www.bbc.com/news/uk-northern-ireland-66662461"
+ampWebUrl: "https://www.bbc.com/news/uk-northern-ireland-66662461.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-northern-ireland-66662461.amp"
 type: article
-quality: 47
-heat: 47
-published: false
+quality: 87
+heat: 97
+published: true
 
 provider:
   name: BBC
@@ -20,6 +22,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/13039/production/_130718877_gettyimages-1466716029.jpg"
+    width: 1024
+    height: 576
+    isCached: true
 
 related:
   - title: "AI: Technology magnifying human bias"
@@ -37,6 +45,6 @@ related:
         height: 314
         isCached: true
 
-secured: "2Y1Je6xsI7oklVZ+vcCpyBxRv7nrmg+2npH8Roszx4qshlnf4BHHWMs8JcxXjI6Z0rGbcfNOnafsMiJPJTvaYlkQ+3SeT2fmylUUH7gyJ/P2ZiUGj8q4owJPUh8W4eGEhTzuEAJicFCVItUbT2hJrSNER0bhPZv1fbde8tfM6zjk7xk9VgWmxMQpPaw8AwqZQrO8+Ee8tTFKhKvXD8Tl7pDBJ84iOqlxq97J/FuACCHfudpGYpLmVtvNwY4MpiprN3cP5judIe7+1kHwJvO1M1XnwCPfljhNhgTjrc70ET1Y56KK8Uq5mTA62XD6UhNz5KiBFXIPROc1yGRjlW/dLML/SjBnoX5JmkQN7KnmQqt9D7Ee0VKmHIe7PUnF0geeTMgTpmV5ID1pkzMqFfBiIy1sDXu2/6X0D6mg8z6bvfQq2NAcyMXHJgEP+IaEcJH6OS/4Tu0+yuu1TVVZtPljiz3rqqz8aaFJbTaDUyUJne/AEMRIy1WFwIvWV6n/Qs/adrx4UUr3i6+H3uOlqr/3IA==;Bqv5A6c2bzO0YIJsKdAgRQ=="
+secured: "hFwRHp2YmEYTr3hk4JXvDtXhUry+0Xx5QBHzuzqsVhXRVphJXucx1mpFqCm7LRKqSI8iiqwx/vkQTMcUcP/VIqQDuep/RYFg4848qwCj+nx6mnaVWJFiKdvI8jDdQPSK4YqVQ93prQCvMRXXgMKIVr3wM/KsqpDPPkWD9L3X/d4LB34IDbWA+Xh170MaKpucErJLxaPDDS9p9xiJj0KBKq8efmEe6mF0V6kM1jCGsVDOMQqlv+LCku6ZHf0kloLWCNxGlKCr7YgfQZzxvrZfC8TGdFXP552xGWVQ04FvSP8qQTyh1JcvHC7ZZunG1zmm1Ryz1zhrMEnn+MhHuZaFLx1uXD5OaQXslpdYPpGnK2A=;T3kN7yWtzRUEQDTL+Gge/w=="
 ---
 

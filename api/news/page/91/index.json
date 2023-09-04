@@ -2,6 +2,110 @@
   "page": 91,
   "value": [
     {
+      "path": "_news/2023-07-01-why-business-leaders-must-tackle-ethical-considerations-as-ai-becomes-ubiquitous.md",
+      "title": "Why business leaders must tackle ethical considerations as AI becomes ubiquitous",
+      "excerpt": "Technology will only continue to evolve, so it is essential that we remain vigilant and keep ethical AI top of mind.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/why-business-leaders-must-tackle-ethical-considerations-as-ai-becomes-ubiquitous/",
+      "originalUrl": "https://venturebeat.com/ai/why-business-leaders-must-tackle-ethical-considerations-as-ai-becomes-ubiquitous/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/business-meeting.GettyImages-1130939432.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-01T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-01-ai-offers-an-epic-make-or-break-moment-for-investors.md",
+      "title": "AI Offers an Epic Make-or-Break Moment for Investors",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Editor’s note: “AI Offers an Epic Make-or-Break Moment for",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/an-ai-demonstration-that-could-leave-you-speechless-1032421903",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/an-ai-demonstration-that-could-leave-you-speechless-1032421903",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2023/01/global-data-creation.png",
+          "width": 847,
+          "height": 603,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-01T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-01-bernstein-says-ibm-is-best-positioned-to-take-advantage-of-ai.md",
       "title": "Bernstein Says IBM is Best-Positioned to Take Advantage of AI",
       "excerpt": "According to Bernstein analysts, IBM (NYSE:IBM) is the leading US IT hardware company in terms of leveraging AI technology. They believe that generative AI has a “neutral to potentially positive” impact on IT hardware companies.",
@@ -1103,91 +1207,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-artificial-intelligence-market-worth-13452-billion-by-2030-exclusive-report-by-marketsandmarkets.md",
-      "title": "Artificial Intelligence Market worth $1,345.2 billion by 2030 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "The global Artificial Intelligence Market size is expected to grow at a Compound Annual Growth Rate (CAGR) of 36.8% during the forecast period, to reach USD 1,345.2 billion by 2030 from USD 150.2 billion in 2023,",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/06/30/9842399.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/06/30/9842399.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-the-huge-power-and-potential-danger-of-ai-generated-code.md",
-      "title": "The huge power and potential danger of AI-generated code",
-      "excerpt": "Late last year, a team at Stanford University posted a research paper that looked at how using a code-generating AI assistant they built affects the quality of code that people produce. The researchers found that programmers getting AI suggestions tended to include more bugs in their final code—yet those with access to the tool tended to believe that their code was more secure.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/ai/2023/06/the-huge-power-and-potential-danger-of-ai-generated-code/",
-      "originalUrl": "https://arstechnica.com/ai/2023/06/the-huge-power-and-potential-danger-of-ai-generated-code/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/Screenshot-2023-06-29-at-14-19-27-The-Huge-Power-and-Potential-Danger-of-AI-Generated-Code-640x311.png",
-          "width": 640,
-          "height": 311,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/ai/2023/06/the-huge-power-and-potential-danger-of-ai-generated-code/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/06/the-huge-power-and-potential-danger-of-ai-generated-code/amp/",
-      "publishedDateTime": "2023-06-30T09:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

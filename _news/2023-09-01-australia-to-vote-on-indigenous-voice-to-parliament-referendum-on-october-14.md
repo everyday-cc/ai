@@ -81,15 +81,6 @@ related:
       name: The Lancet
       domain: thelancet.com
     quality: 4
-  - title: "Australians to vote in a referendum on Indigenous Voice to Parliament on Oct. 14"
-    excerpt: "Australians will vote on Oct. 14 on a proposed law to create a so-called Indigenous Voice to Parliament in the nation’s first referendum in a generation. Prime Minister Anthony Albanese on Wednesday announced the referendum date,"
-    publishedDateTime: 2023-08-30T08:48:00Z
-    webUrl: "https://www.aol.com/news/australians-vote-referendum-indigenous-voice-014836498.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 0
 
 secured: "zivqF5Ylbd+eOca2Lih+KnhnoW0HuvmekcAiUwENgTLxlx9woWoHV2qTBNOFDQsTUZrfynIPsM6XMfcxI55QJ89gp3zWV1hzPmsZn3D1RE7NA5+uhasBF0zIGyv/hcM2ev+qHZX0fGlXLOiaTAP3SgWsCGZZmHF6KKYkNqmEKL3azSZVeSnUWqYkZgqRjFbSJbZ0UKSDKze81ltevQ0IdERVX1rUa0wP2gzK1/HNTjmh9gB2yyLzS8UXKPUXSY258iQ6bzSGO/1FcbDjRitqncF2ZGmtbP6KEVEFJYLk/BllXpLFWBy+nux1Xli69JE6blDO5J+h2Wb89PK4DH3VFwNo4+O6mAxg7p4LxcuPj4DX19RZCs8cG6p4zjRg/5WQgf20QTF3jDEGAzJyYmVayOwKctD+gwQHoB9EsJydUfyNlE4YLzJC8/h4GsOzykUUetcLkRhx+OPbzJIQNvlNTLARwmWb/a1ByPDR2ixnTr7t32mQj6jEAiVzNUA6NfVoLbuvuVXl3MdM0r71hN5Ybg==;CylSGQKNi0izm2dKgHoKPA=="
 ---

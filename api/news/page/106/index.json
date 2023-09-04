@@ -2,6 +2,99 @@
   "page": 106,
   "value": [
     {
+      "path": "_news/2023-06-23-amazon-had-some-ai-news-stock-and-options-traders-jumped-on-it.md",
+      "title": "Amazon Had Some AI News. Stock and Options Traders Jumped On It",
+      "excerpt": "Amazon said yesterday that it is investing $100 million in a \"Generative AI Innovation Center.\" The center is supposed to help customers incorporate AI into their businesses, the company said. Investo",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-06-23-2023/card/amazon-had-some-ai-news-stock-and-options-traders-jumped-on-it-DUZHs9T2TDO8udjzEJ8q",
+      "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-06-23-2023/card/amazon-had-some-ai-news-stock-and-options-traders-jumped-on-it-DUZHs9T2TDO8udjzEJ8q",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-805564?width=600",
+          "width": 600,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-23T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-the-business-value-of-operating-core-insurance-solutions-on-the-cloud.md",
+      "title": "The business value of operating core insurance solutions on the cloud",
+      "excerpt": "IBM has a well-architected, secure core insurance platform for life and group insurance operating on the cloud.\nThe post The business value of operating core insurance solutions on the cloud appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/the-business-value-of-operating-core-insurance-solutions-on-the-cloud/",
+      "originalUrl": "https://www.ibm.com/blog/the-business-value-of-operating-core-insurance-solutions-on-the-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-23T06:23:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-23-aws-100-million-investment-to-train-customers-in-generative-ai.md",
       "title": "AWS’ $100 Million Investment to Train Customers in Generative AI",
       "excerpt": "The intention behind Amazon's $100 million investment in Cloud AI education, is to persuade clients to switch to AWS to build new generative AI applications.",
@@ -1091,102 +1184,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-bank-of-america-sees-these-3-names-benefiting-from-the-ai-networking-chip-war.md",
-      "title": "Bank of America sees these 3 names benefiting from the A.I. networking chip war",
-      "excerpt": "but investors may also want to keep an eye on networking chip stocks Marvell and Broadcom , according to Bank of America. Networking semiconductors play a critical role in the graphics processing units underpinning many generative AI models, and these ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/06/22/three-chip-stocks-could-win-ai-networking-war-bank-of-america-says.html",
-      "originalUrl": "https://www.cnbc.com/2023/06/22/three-chip-stocks-could-win-ai-networking-war-bank-of-america-says.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-22T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-aws-launches-100m-program-to-fund-generative-ai-initiatives.md",
-      "title": "AWS launches $100M program to fund generative AI initiatives",
-      "excerpt": "Amazon, keen to avoid being left behind in the hyper-competitive AI race, is launching a new program to bolster startup companies and organizations focused on generative AI. Called the AWS Generative AI Innovation Center, the program will put $100 million ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/22/aws-launches-100m-program-to-fund-generative-ai-initiatives/",
-      "originalUrl": "https://techcrunch.com/2023/06/22/aws-launches-100m-program-to-fund-generative-ai-initiatives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 394,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1236309559.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/22/aws-launches-100m-program-to-fund-generative-ai-initiatives/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/22/aws-launches-100m-program-to-fund-generative-ai-initiatives/amp/",
-      "publishedDateTime": "2023-06-22T11:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

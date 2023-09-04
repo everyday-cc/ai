@@ -2,6 +2,101 @@
   "page": 169,
   "value": [
     {
+      "path": "_news/2023-05-14-eric-schmidt-on-synthetic-biology-ai-ethics-and-the-bioeconomys-seismic-shift.md",
+      "title": "Eric Schmidt On Synthetic Biology, AI, Ethics And The Bioeconomy’s ‘Seismic Shift’",
+      "excerpt": "Eric Schmidt at the SynBioBeta conference. You mentioned the Bioeconomy Moonshot as a way to drive progress in biotech. What recent developments or advancements in synthetic biology are you most excited about?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johncumbers/2023/05/13/eric-schmidt-on-synthetic-biology-ai-ethics-and-the-bioeconomys-seismic-shift/",
+      "originalUrl": "https://www.forbes.com/sites/johncumbers/2023/05/13/eric-schmidt-on-synthetic-biology-ai-ethics-and-the-bioeconomys-seismic-shift/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645fe1c0741dcd08dba69868/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johncumbers/2023/05/13/eric-schmidt-on-synthetic-biology-ai-ethics-and-the-bioeconomys-seismic-shift/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johncumbers/2023/05/13/eric-schmidt-on-synthetic-biology-ai-ethics-and-the-bioeconomys-seismic-shift/amp/",
+      "publishedDateTime": "2023-05-13T12:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-14-humans-could-be-controlled-by-robots-ai-firms-founder-warns.md",
+      "title": "Humans could be controlled by robots, AI firm’s founder warns",
+      "excerpt": "Robots could end up controlling humanity ... if we have agents more capable than us that we cannot control, that are going across the internet and hooked up and they achieve a level of automation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theboltonnews.co.uk/news/national/23520591.humans-controlled-robots-ai-firms-founder-warns/",
+      "originalUrl": "https://www.theboltonnews.co.uk/news/national/23520591.humans-controlled-robots-ai-firms-founder-warns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theboltonnews.co.uk/resources/images/16777260/?type=og-image",
+          "width": 945,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-13T11:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bolton News",
+        "domain": "theboltonnews.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-14-machine-learning-recommendation-algorithm-market.md",
       "title": "Machine Learning Recommendation Algorithm Market",
       "excerpt": "Research Reports has published a new report titled as \"Machine Learning Recommendation Algorithm Market\" by End",
@@ -1137,110 +1232,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-13-2023-computer-vision-system-market-research-report-analysis-by-2030.md",
-      "title": "2023, Computer Vision System Market Research Report Analysis by 2030",
-      "excerpt": "Computer Vision System Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2023-computer-vision-system-market-research-report-analysis-by-2030-2023-05-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/2023-computer-vision-system-market-research-report-analysis-by-2030-2023-05-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-12T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-metaspectral-says-using-ai-and-computer-vision-can-monitor-environmental-hazards.md",
-      "title": "Metaspectral Says Using AI And Computer Vision Can Monitor Environmental Hazards",
-      "excerpt": "This company belives that artificial intelligence and computer vision can be used to monitor for environmental hazards.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2023/05/12/metaspectral-says-using-ai-and-computer-vision-can-monitor-environmental-hazards/",
-      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2023/05/12/metaspectral-says-using-ai-and-computer-vision-can-monitor-environmental-hazards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645d1a1d43ea8cfc1f2796dd/0x0.jpg?format=jpg&width=1200",
-          "width": 924,
-          "height": 694,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2023/05/12/metaspectral-says-using-ai-and-computer-vision-can-monitor-environmental-hazards/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2023/05/12/metaspectral-says-using-ai-and-computer-vision-can-monitor-environmental-hazards/amp/",
-      "publishedDateTime": "2023-05-12T09:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

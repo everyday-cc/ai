@@ -85,15 +85,6 @@ related:
       name: Jurist
       domain: jurist.org
     quality: 1
-  - title: "Australians to vote in a referendum on Indigenous Voice to Parliament on Oct. 14"
-    excerpt: "Australians will vote on Oct. 14 on a proposed law to create a so-called Indigenous Voice to Parliament in the nation’s first referendum in a generation. Prime Minister Anthony Albanese on Wednesday announced the referendum date,"
-    publishedDateTime: 2023-08-30T08:48:00Z
-    webUrl: "https://www.aol.com/news/australians-vote-referendum-indigenous-voice-014836498.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 0
 
 secured: "oRGmUSrFZzSLcyIsqOR7pUv6Kf6nJuT8IdeXdgbQcDUByxf6zv1xyNQkrgNKxoyxMkcV1MFJkh7IxQuh1iVkk4EOiGxlZrGrz6DmmC1sr4S7a/5MR/pzw+HE/7P/4dQuTWjnK0JcpDerkDo3IOogR6LeMBrGShBkCptudY3nmRV4F24DD+ebvQzsI8WVi7MimiSaumKIS2n4DaUjINO0Vc02ffhMZ6HeaNxY3lBKXEu9fugcMgr5F+EuJG3oALk9sx+hGBmCclLPS/0A/yYVS8EVGzOnlid/OoyeE5nDTqrB+ld88YrNr7BM/WchwuVFYG2EoC5jjtJpEtogJIePlxk+b+/9RS7LhYbc/GrkyIn071ThVTi3I3NQd8YqDBD3K3fLWE4l0qUD5U7JSIv1G7iDW3D0A6RvLoNmIuJtdpnGwT1DMYaHP8QNUNO/xFAWYMbW8m3uh7pSQnJDxzgBGtS5A3qrVcBBoVZldIBVyw2XvTlmykScJo6dRulTt29yyoOG4TTkfG2b2Vyhh/h2lw==;SmD8nf/hl3yBGtNWOi951Q=="
 ---

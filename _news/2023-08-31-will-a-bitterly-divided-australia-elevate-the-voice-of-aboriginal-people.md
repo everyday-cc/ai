@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2023/08/29/world/australia/voice-aborigina
 webUrl: "https://www.nytimes.com/2023/08/29/world/australia/voice-aboriginal-indigenous.html"
 type: article
 quality: 53
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -86,15 +86,6 @@ related:
       name: Jurist
       domain: jurist.org
     quality: 1
-  - title: "Australians to vote in a referendum on Indigenous Voice to Parliament on Oct. 14"
-    excerpt: "Australians will vote on Oct. 14 on a proposed law to create a so-called Indigenous Voice to Parliament in the nation’s first referendum in a generation. Prime Minister Anthony Albanese on Wednesday announced the referendum date,"
-    publishedDateTime: 2023-08-30T08:48:00Z
-    webUrl: "https://www.aol.com/news/australians-vote-referendum-indigenous-voice-014836498.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 0
 
 secured: "V/0D8cckFLhBZrxC8B5fGlpjNheGRHShRG7ZV4yCZfqjrALyTiQIMg5bcwMMcqQm1rQKZS3S68LzmAdHD7uGY6vJf2nF7xGEd2t9Rwczhwg1zC+YXqs+K3WVC/NYz3xPY5ihKyXN+UFk8syZ7TOStiYbao6iiqxwJzZUzbNafMW9Jb9usdCTBH65eWlGHYG4rYcQF9Z4WZPfnVQPWrlOUewZ9dWyUJo+F01NakoZBeQKW6yvJRJTd/Scp+3Fip/mfND2m/bP0u05pVHg7Fbd/fgdmfGmF1Klf3c2MPMHM5yisTSzWIdQrvx+O5FSnA5Zptn/O00IenMPX2JErUP4otXXvcqXp9FKUN1mJcEDxgOZ847ymwQUcmRvjygBhFlqjQSCg5Wkr7XBhwHJZHotyRJ9H3x+TXpy4pnA2HZU94uDfnEh0/RRZUUdJS0MYdUbJna5b7wlnsrfxpYtuQk4R66yHN8+LfgVyOTXG70FufStLNqRpXkiynuEeNnqVRpjPGbTQCBOdZMc0jRCy/HyMg==;wGBbBI9XARAnskJHiWZF8g=="
 ---

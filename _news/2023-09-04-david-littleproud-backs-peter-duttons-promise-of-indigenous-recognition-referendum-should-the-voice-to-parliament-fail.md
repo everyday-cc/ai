@@ -147,15 +147,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Penny Wong: Voting Yes on the Voice is a vote for recognition"
-    excerpt: "The Statement made the modest ask for recognition of this land’s First Peoples in the constitution through a Voice to parliament. Australian Foreign Minster Penny Wong. Picture: Pat Hoelscher / AFP The Voice will offer ideas and advice, so governments ..."
-    publishedDateTime: 2023-08-30T08:19:00Z
-    webUrl: "https://www.news.com.au/national/south-australia/penny-wong-voting-yes-on-the-voice-is-a-vote-for-recognition/news-story/38cbb8829a7f10dcae7e0bf47c258318"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 4
   - title: "Dutton’s vow for second Voice referendum is where Nationals have been for ‘some time’"
     excerpt: "Nationals leader David Littleproud says Opposition leader Peter Dutton’s vow for a second referendum to give constitutional recognition if the Voice to Parliament fails is where the Nationals have been for “some time”."
     publishedDateTime: 2023-09-03T20:06:00Z
@@ -166,6 +157,6 @@ related:
       domain: theaustralian.com.au
     quality: 0
 
-secured: "o1jKFcz2BTikqNKs2EWZOjntmv8sXnUu7gVG1l/MVjPANjR/MtvhMKOnGs9dCyotZYf85op+iPFUfxFwIPmgBTv51inhT4FMtPkuHL3k7z5JrU2KJaFfJ9jixOlgG8zuBBPLjm1axNOsGsPUaTh60tQCYhbh/kMEpcYNaYabY612TGjNzOrpibLOJi/V+SXEWGCB1Y6xDR/FO170CmiqL/ZYhsswyk8giYGl3DT1i/OojL8VacRJQyYuq/t48K1vE0IHN4SR/bT9ug086cDtaLJVLaAK9W115SkGrq6yH2UA+2Pbdq8kjbrOk8JiJQLfqLb7fnEwnuKtV7qTv8Xz8nygbfTqZq1GY7ei9crJLqg=;JJrTey99DITrqywryo9L2A=="
+secured: "IniSCEE5E/vQzioQmN8znn9YwJr847oZDZMms9EM70co4JzMIJPyS4vHehE/jHWxS+wnfAshEiRB9TxcjxQX7mgp0xZyygngOtgt6TcMSBgQ6eZ/ohcr3zEOH1Z4VULRCNPTj5wKjBIv70an9iFIFIz5VF2OOF8pRSdOFnD5E8AIQ16kr0/5o+ctY1gTEevV6WponBXe59aFYeixXe+Gmv5IM1UB7K0SIdiY+AVQU2mULbk8jY0qJPjwkWFQ/aYhFSQBffCjhEUY4b3ufn2mklXnTP+hqTzZK+LdfVZcLahg9CK+rWDM/sejTPr55NEDvYkOwJWfrpWcxEpVjf1YlAGkEQ943OqYpkbETpx7wkDVzuRrnEOCbAf54zJHvQ2oGVWmCfS4FwqlGGEoYUqibXU7xqUhQs3iSt4uJ3occvMp24/tfaOlCCFg/z9hMASimKpV+5FGEHbP67aAAqgXh7ATR0jnc1dz7HSOx4YHio8Qc9iieRFhdMqhx3ysGQLViVSXhP6CblQnGmNMc9l5Ww==;bD1xQoQNBZTP9RCx/9mXVA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/31/openai-backed-language-learning-ap
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/31/openai-backed-language-learning-app-speak-raises-16m-to-expand-to-the-u-s/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Spring AI Provides Integration with OpenAI and Azure OpenAI"
-    excerpt: "However, the various Java Client APIs for AI solutions such as OpenAI and Azure OpenAI differ, which makes it harder to switch between those solutions. Spring AI provides an abstraction layer on top of those client APIs inspired by the Python libraries ..."
-    publishedDateTime: 2023-08-30T08:08:00Z
-    webUrl: "https://www.infoq.com/news/2023/08/spring-ai/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 54
-    images:
-      - url: "https://res.infoq.com/news/2023/08/spring-ai/en/headerimage/generatedHeaderImage-1693338686656.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "OpenAI rival AI21 Labs raises $155M, its second big funding round in less than two months"
     excerpt: "Generative artificial intelligence startup AI21 Labs Ltd. is rolling in money today after closing on a bumper $155 million Series C round of funding to fuel the growth of its large language model-based services."
     publishedDateTime: 2023-08-31T01:22:00Z

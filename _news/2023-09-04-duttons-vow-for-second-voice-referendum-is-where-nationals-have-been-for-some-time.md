@@ -155,15 +155,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Penny Wong: Voting Yes on the Voice is a vote for recognition"
-    excerpt: "The Statement made the modest ask for recognition of this land’s First Peoples in the constitution through a Voice to parliament. Australian Foreign Minster Penny Wong. Picture: Pat Hoelscher / AFP The Voice will offer ideas and advice, so governments ..."
-    publishedDateTime: 2023-08-30T08:19:00Z
-    webUrl: "https://www.news.com.au/national/south-australia/penny-wong-voting-yes-on-the-voice-is-a-vote-for-recognition/news-story/38cbb8829a7f10dcae7e0bf47c258318"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 4
 
 secured: "0Fk5CFg9Eiilf+yw3OQ6EzCFpcSArBDlY3LM+fSAj/zNyVqkFZeJAfa+C/EZp1T3uAd5M8shS6oVGBJ5l0vcHCivK2RDVwLVhF/HlW7MWpArVL9vwRWUn6mIUSOZo7qnHDQJXfhZ9lRuoosYoHW2UW5Z2qinzhypBu1v631yhO6qjkR6FI8OFd4CapRFOmvpuno3kLb/fyQ3vpNWRjEp0NTZz3HPUhHnHe3tXQpDGQ3b32PKuE5zeqT/akdW6mtydADmU3QkuKH0Kr/8ndJJ3kHo2P2LrfEF8PhA5kXX9Zy4Ea35Pu8E85d3Ci7aJs4Nm0ZeQM5jw2h4qRZQMHl1Etok/bCTE7S+H03O3vkiUMH7Rvuhw9wCXIpWlC9ycEOdy0P23u9/y7XMGk+1PBQuUcz/GFd31a9Cwbh+HtLreSvMn+19gQ/3j8slUMU39dDfp54H9ry8m1ha4bdBftG/g5UfaME0ZSrQeI99YTPXjvN5KwD2+UnC9K+XllJipHtZj5WzTIZsDeWSZaw32mVPtg==;fH74zPAbmsLlNQgKXP7uww=="
 ---

@@ -151,15 +151,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Penny Wong: Voting Yes on the Voice is a vote for recognition"
-    excerpt: "The Statement made the modest ask for recognition of this land’s First Peoples in the constitution through a Voice to parliament. Australian Foreign Minster Penny Wong. Picture: Pat Hoelscher / AFP The Voice will offer ideas and advice, so governments ..."
-    publishedDateTime: 2023-08-30T08:19:00Z
-    webUrl: "https://www.news.com.au/national/south-australia/penny-wong-voting-yes-on-the-voice-is-a-vote-for-recognition/news-story/38cbb8829a7f10dcae7e0bf47c258318"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 4
   - title: "Dutton’s vow for second Voice referendum is where Nationals have been for ‘some time’"
     excerpt: "Nationals leader David Littleproud says Opposition leader Peter Dutton’s vow for a second referendum to give constitutional recognition if the Voice to Parliament fails is where the Nationals have been for “some time”."
     publishedDateTime: 2023-09-03T20:06:00Z

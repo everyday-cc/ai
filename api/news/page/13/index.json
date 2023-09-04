@@ -2,6 +2,100 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-08-23-does-artificial-intelligence-threaten-programmers.md",
+      "title": "Does Artificial Intelligence Threaten Programmers?",
+      "excerpt": "AI can automate some aspects of a programmer's work, but it won't fully replace them. Programmers will still be needed to make key decisions, solve complex problems and create value-added software. Forbes Technology Council is an invitation-only community for world-class CIOs, CTOs and technology executives. Do I qualify?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/does-artificial-intelligence-threaten-programmers/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/does-artificial-intelligence-threaten-programmers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e4b5cdd524bff0e9d8ae1f/0x0.jpg?format=jpg&crop=720,405,x0,y0,safe&width=1200",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/does-artificial-intelligence-threaten-programmers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/23/does-artificial-intelligence-threaten-programmers/amp/",
+      "publishedDateTime": "2023-08-23T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-23-ex-google-ai-ethics-chief-boost-worker-power-to-curb-harmful-ai.md",
+      "title": "Ex-Google AI ethics chief: Boost worker power to curb harmful AI",
+      "excerpt": "Google's former AI ethics chief Timnit Gebru told a hearing at the European Parliament on Tuesday. \"When asked what regulations need to be in place,\" she said, \"I say the number one thing that would safeguard us from unsafe uses of AI is curbing the power ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/ex-google-ai-ethics-chief-timnit-gebru-boost-worker-power-to-curb-harmful-ai/",
+      "originalUrl": "https://www.politico.eu/article/ex-google-ai-ethics-chief-timnit-gebru-boost-worker-power-to-curb-harmful-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2021/11/30/GettyImages-1028811892-scaled.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/article/ex-google-ai-ethics-chief-timnit-gebru-boost-worker-power-to-curb-harmful-ai/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/ex-google-ai-ethics-chief-timnit-gebru-boost-worker-power-to-curb-harmful-ai/amp/",
+      "publishedDateTime": "2023-08-23T03:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico Europe",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-23-start-preparing-for-ai-regulatory-compliance-now.md",
       "title": "Start Preparing For AI Regulatory Compliance Now",
       "excerpt": "Integrate responsible AI into governance risk management structures and processes. For example, establish an ethics committee to review high-impact AI projects. • Add responsible AI metrics to executive performance evaluations to incentivize adherence to ...",
@@ -1068,92 +1162,6 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-rise-of-the-robots-the-new-ai-tech-poised-to-take-over-classrooms.md",
-      "title": "Rise of The Robots: The New AI Tech Poised To Take Over Classrooms",
-      "excerpt": "Curiosity Robotics plans on taking the robotic helper to more schools across Israel and abroad. Undaunted by any current backlash to AI, the ambitious start-up is “committed to transforming ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailyitem.com/wire/rise-of-the-robots-the-new-ai-tech-poised-to-take-over-classrooms/article_6ed81450-fef0-5558-9d51-906eee932adc.html",
-      "originalUrl": "https://www.dailyitem.com/wire/rise-of-the-robots-the-new-ai-tech-poised-to-take-over-classrooms/article_6ed81450-fef0-5558-9d51-906eee932adc.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/assets/v3/editorial/0/30/030d87a1-a1f5-5cc4-a90f-3eea2b9a51b6/64e4c536bf69f.image.jpg?resize=1024%2C577",
-          "width": 1024,
-          "height": 577,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailyitem.com/wire/rise-of-the-robots-the-new-ai-tech-poised-to-take-over-classrooms/article_6ed81450-fef0-5558-9d51-906eee932adc.amp.html",
-      "cdnAmpWebUrl": "https://www-dailyitem-com.cdn.ampproject.org/c/s/www.dailyitem.com/wire/rise-of-the-robots-the-new-ai-tech-poised-to-take-over-classrooms/article_6ed81450-fef0-5558-9d51-906eee932adc.amp.html",
-      "publishedDateTime": "2023-08-22T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Item",
-        "domain": "dailyitem.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-microsoft-changes-its-takeover-of-call-of-duty-developer-in-attempt-to-get-it-approved.md",
-      "title": "Microsoft changes its takeover of Call of Duty developer in attempt to get it approved",
-      "excerpt": "Microsoft has made a major change to its proposed ... or to exclusively control the licensing terms of Activision Blizzard games for rival services.” It marks a new twist in the case, the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/tech/microsoft-activision-takeover-call-of-duty-blizzard-cma-b2397452.html",
-      "originalUrl": "https://www.independent.co.uk/tech/microsoft-activision-takeover-call-of-duty-blizzard-cma-b2397452.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.independent.co.uk/2023/08/22/08/9122c881340d912b875badd0cb3d590bY29udGVudHNlYXJjaGFwaSwxNjkyNzczMzc4-2.9744146.jpg?quality=75&width=1200&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.independent.co.uk/tech/microsoft-activision-takeover-call-of-duty-blizzard-cma-b2397452.html",
-      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/tech/microsoft-activision-takeover-call-of-duty-blizzard-cma-b2397452.html",
-      "publishedDateTime": "2023-08-22T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

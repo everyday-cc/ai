@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-uses-your-facebook-dat
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-uses-your-facebook-data-to-train-its-ai-heres-how-to-opt-out-sort-of/"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta's Canada news ban fails to dent Facebook usage"
-    excerpt: "Daily active users of Facebook and time spent on the app in Canada have stayed ... Another analytics firm, Data.ai, likewise told Reuters that its data was not showing any meaningful change to usage of the platform in Canada in August."
-    publishedDateTime: 2023-08-30T08:37:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/metas-canada-news-ban-fails-to-dent-facebook-usage/103199100"
-    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/metas-canada-news-ban-fails-to-dent-facebook-usage/103199100"
-    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/metas-canada-news-ban-fails-to-dent-facebook-usage/103199100"
-    type: article
-    provider:
-      name: brandequity.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-103199100,imgsize-21940,width-1200,height=765,overlay-etbrandequity/digital/metas-canada-news-ban-fails-to-dent-facebook-usage.jpg"
-        width: 1200
-        height: 765
-        isCached: true
   - title: "How To Stop Facebook Using Your Personal Data To Train AI"
     excerpt: "How much mileage you get from your opt out request may vary depending on your location, but it's worth a shot and at least partially addresses one of the AI ethics issues that has arisen as the technology booms in 2023. We say Facebook has “quietly ..."
     publishedDateTime: 2023-09-01T11:27:00Z

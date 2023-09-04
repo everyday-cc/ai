@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Meta's Canada news ban fails to dent Facebook usage"
-    excerpt: "Daily active users of Facebook and time spent on the app in Canada have stayed ... Another analytics firm, Data.ai, likewise told Reuters that its data was not showing any meaningful change to usage of the platform in Canada in August."
-    publishedDateTime: 2023-08-30T08:37:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/metas-canada-news-ban-fails-to-dent-facebook-usage/103199100"
-    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/metas-canada-news-ban-fails-to-dent-facebook-usage/103199100"
-    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/metas-canada-news-ban-fails-to-dent-facebook-usage/103199100"
-    type: article
-    provider:
-      name: brandequity.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-103199100,imgsize-21940,width-1200,height=765,overlay-etbrandequity/digital/metas-canada-news-ban-fails-to-dent-facebook-usage.jpg"
-        width: 1200
-        height: 765
-        isCached: true
 
 secured: "fEDjZhV3QffqJvAfEMjBp7dCm+bxjRJkVyiidNFlclieyjye1az5XEQCWN1+9rNGZ3zXBmgmc087vi+3WXJEIpMKkjZbmnc9GgrGVVirsXm+rRqraC03KQYfyy6YOOpyINcbMFU9mOMFSle4ttZEkjxdOGQkZs1/PEBE8AYtVP8uGBUmyy+CqC42WVFXyDk1Zs1FEnuxDpm3jK2Sx/1ChbtVn5qdhXoLRbITLmPWefjN7pZ+bUQScWbcBKZlsz3L1Ng6uVPKO4FlEOhEG6ZQYgobJkROsKYv13i5Kc/fKmvZ8dKdEEJB/8myy0Qd9fSWkU8Ojo9uOxAsmJJj7wJ6Whw7OyM14zm2CKZ4mjlguP2QVY1cEiwLHagnwSWnqqMsOBkz0aufUtcUVhXlZ/Lfmk9EcrTrEGQkRPvfQrdOkRnLJV822vj049bA/tY/D/XUYoSRiWT0Eujg8yg1HCeAmYfvKbgkn7/0u+VlTai/zaB7Ixl2gJapDGSkv4ApwXC9rIR+Ua2iuNqusP8/eNYeRg==;xOZJmHq6+I1zUj+BKqEWtA=="
 ---

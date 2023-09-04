@@ -2,9 +2,9 @@
 category: news
 title: "‘The challenges are real’: TUC taskforce to examine AI threat to workers’ rights"
 excerpt: "Experts aim to draw up UK legislation to protect against misuse of artificial intelligence"
-publishedDateTime: 2023-09-03T10:00:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/sep/03/tuc-taskforce-examine-ai-threat-workers-rights"
-webUrl: "https://www.theguardian.com/technology/2023/sep/03/tuc-taskforce-examine-ai-threat-workers-rights"
+publishedDateTime: 2023-09-03T10:37:00Z
+originalUrl: "https://www.theguardian.com/technology/2023/sep/03/tuc-taskforce-examine-ai-threat-workers-rights?ref=futurepedia"
+webUrl: "https://www.theguardian.com/technology/2023/sep/03/tuc-taskforce-examine-ai-threat-workers-rights?ref=futurepedia"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/sep/03/tuc-taskforce-examine-ai-threat-workers-rights"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/sep/03/tuc-taskforce-examine-ai-threat-workers-rights"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "ITH6bWdp9tTmKUsF0c387MvsoUl3bfXoCYvWZ3yP0lfH0TXMjOiGa1FySowojDiZJB/NNeXNYLxgBMR0623fLNtJtew9R0zEom3+Dv9++Ckg83xWw8XwdLsQnGxu0z/Wh5kQcXxWWT2ITPss5Tgc+uGjwkC7HQbRiyKUTerrV6HdbXSM4sfklzQk/kUpZVlPWVFahlV96lXXlyaPp7tqRCn2G/tiIggUTUJwgB+7EZ7+r9TyQUIt3kRo8ZVejO/2wnNltZFC/nnIvs4Kqv//Q9ZHJ3f6H8o0qsiSe1qoS8cZvVaIpwEExqueCOgVlR9AUadd2C2jkGmfjI5wWyqQFd6WHd1iKATzINZ7tCUTJHJDdYnlI3ZPSdW0v0+YGP5qqRjxhZjQSgr6huH065OIzDmsstRyECCd0IqYcXV0igICnh/w4Yqw5n+bZMP4AOomPwegLv4WUM1Gg1XYnUSd8O0g9SolSq/dA9bUkMCdzQdBG+3++6sqwqmsPs6zKqYCQwThsmv9XX16X9V1B1NolA==;mkTWft+XjqnKj95B1dUdvg=="
+secured: "cs2JAtmZ1Jm557fgTrgdMdloXMS9bisJs9o/vehoiVdWDXPSNE+f4rSmAif1Z4HhXYL6PsyyXA5CcY+QCvD93Dp88S2QZwgHJ42By9L3rHlpd6muYAFIk0mvRulJRMcN2nPXCPWjUdIy0bkI4LZHrSySk1PH2urZ63zOcHQsPqV7FOJtMtCBJuEtuSeLkJlUGizYC8z0PANlzu6Y805POCYE8bMnB/KblgqgxnGVl5et4pDvSiwT7QBM58h3lrRQXx3DExfoO5WoIvHi8w89aFkX+p+OiRgatD3oEjgSPsHyBiLAah3V/+tZrIDTWZKU19MPe590RKqv1nB+xqqD8b0CWYAyIQ1utVajdKJtmZs=;c10p33Ig8c71yyhJSFqfcg=="
 ---
 
