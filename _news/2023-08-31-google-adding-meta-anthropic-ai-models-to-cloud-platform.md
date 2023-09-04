@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/artificial-intelligence/google-adding-meta-a
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/google-adding-meta-anthropic-ai-models-to-cloud-platform?_amp=true"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 840
     height: 438
     isCached: true
-
-related:
-  - title: "Google to add AI models from Meta, Anthropic to its cloud platform"
-    excerpt: "Alphabet Inc.'s Google is adding artificial intelligence tools from companies including Meta Platforms Inc. and Anthropic to its cloud platform, weaving more generative AI into its products and positioning itself as a one-stop shop for cloud customers seeking to tap into the technology."
-    publishedDateTime: 2023-08-30T18:49:00Z
-    webUrl: "https://techxplore.com/news/2023-08-google-ai-meta-anthropic-cloud.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 21
 
 secured: "ZF18LWEhWvr5rwb8fPevByuEnfJB/xtgV4sUhJCOEz/lqkihUeKGYQF6YGjxGH13/hmil+rayH0/ODyd1JPBWsBCS5FhgKSkBnmKsIQ5eEMHr6cpHrv5dGvoCAyf0zZvRGUlfVa123zgs+U+ItBj9sEPzt6YTfPoKXkITUWg96c4BxqDhAo6yza1K98V0E/hVRQajL7c7bxUOioqPqz5jkKcJ/3ODz5BuMCK3TNMo7x61vQGr+tisKzpRI16ZG2DXa/wd5oLQsr50NVVy/pvIpN0Mb5/VZiwuziUrvz41hmX9ufHWEphrtsPRnyp8YBEgUPz/13rk4LfEHqGpHAfA8L87u9RykRwN7mQ0gA1wSE=;DiRZQhqiowOpID0n4R6d7A=="
 ---

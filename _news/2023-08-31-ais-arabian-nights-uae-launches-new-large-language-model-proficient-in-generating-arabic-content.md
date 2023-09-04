@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "UAE launches Arabic large language model in Gulf push into generative AI"
-    excerpt: "An artificial intelligence group with links to Abu Dhabi’s ruling family has launched what it described as the world’s highest-quality Arabic AI software, as the United Arab Emirates pushes ahead with efforts to lead the Gulf’s adoption of generative AI."
-    publishedDateTime: 2023-08-30T18:15:00Z
-    webUrl: "https://www.ft.com/content/ab36d481-9e7c-4d18-855d-7d313db0db0d"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 16
 
 secured: "aNfgXYfL0Sa01mXKgN7QmcTGZVcaoKKYaTER4oLqoWkx157qH3TOjAHiSUYnAOqKfIgWO7Vb7Ssd72yhCCYAQnDbluL9qzbGj1tmUIVM01w/zGSTkS3d8kT0R/GDd4SxYiEntjBEA22EO0eJQbkqAkXanwqZdt8hw4NLvTtpDft8lfZu2vTzHJ1MEhbEeb8axEoZ64O4WEF16ZWq6cEbYmQlV1BDlL2ZtVHxNwHnNprBzV6h+zhPQrGBX1cz8HSzoFhiUKnJbT2tEqhUcKbDr22OBGAibhRQu4ojrxgIUJ8sWKhjgsrgu/EVsJSphyJusaqXW9Y+t+BC7ArQmLM1RVUDIzVRIl3rgSAd8StGljE=;PS603t2YU1l2GF5/0IQ2Xw=="
 ---

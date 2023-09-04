@@ -46,19 +46,21 @@ related:
         width: 1300
         height: 541
         isCached: true
-  - title: "Automatically generate impressions from findings in radiology reports using generative AI on AWS"
-    excerpt: "This post demonstrates a strategy for fine-tuning publicly available LLMs for the task of radiology report summarization using AWS services. LLMs have demonstrated remarkable capabilities in natural language understanding and generation, serving as foundation models that can be adapted to various domains"
-    publishedDateTime: 2023-08-30T17:08:21Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/automatically-generate-impressions-from-findings-in-radiology-reports-using-generative-ai-on-aws/"
+  - title: "How Google Cloud Is Leveraging Generative AI To Outsmart Competition"
+    excerpt: "It has a smaller 256-chip footprint per Pod, which is optimized for the state-of-the-art neural network architecture based on the transformer architecture."
+    publishedDateTime: 2023-09-04T11:49:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/amp/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
+      name: Forbes
+      domain: forbes.com
     quality: 91
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/30/featured-images-ML-14850-1120x630.jpg"
-        width: 1120
-        height: 630
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64f5bc845a7c3861341e8146/0x0.jpg?format=jpg&width=1200"
+        width: 1000
+        height: 667
         isCached: true
   - title: "Everyone wants responsible AI, but few people are doing anything about it"
     excerpt: "Also: Five ways to use AI responsibly The results are from a survey based on the views of 500 business leaders released by technology company Conversica, which says: \"A resounding message emerges from the survey: a majority of respondents recognize the paramount importance of well-defined guidelines for the responsible use of AI within companies,"
@@ -75,6 +77,22 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/9e805d608ad3b4d58a1b92fa103bf79e997db135/2023/08/28/f756a27d-cfda-41d2-be72-09a659962fdc/gettyimages-1461110089.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Upping Your Prompt Engineering Superpowers Via Target-Your-Response Techniques When Using Generative AI"
+    excerpt: "A vital technique for prompt engineering entails thinking ahead and telling generative AI what kind of response you are expecting to get. Here is the insider scoop."
+    publishedDateTime: 2023-09-04T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/09/04/upping-your-prompt-engineering-superpowers-via-target-your-response-techniques-when-using-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/09/04/upping-your-prompt-engineering-superpowers-via-target-your-response-techniques-when-using-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/09/04/upping-your-prompt-engineering-superpowers-via-target-your-response-techniques-when-using-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 73
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64f54e68e4547e11b1b0157e/0x0.jpg?format=jpg&crop=2510,1675,x22,y0,safe&width=1200"
+        width: 1200
+        height: 801
         isCached: true
   - title: "AI in the Workplace"
     excerpt: "As employers increasingly adopt artificial intelligence (AI) tools to help make hiring decisions and perform other workplace functions, they must assess how to make the most of technological developments while remaining compliant with legal and regulatory requirements."
@@ -149,6 +167,22 @@ related:
       - url: "https://static.toiimg.com/thumb/resizemode-4,msid-103231812,imgsize-58586,width-800/103231812.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Generative AI means the looming end of search as we know it – here’s why"
+    excerpt: "“Datafication Nation” columns are part of WRAL TechWire’s Startup Monday package. RALEIGH-There is tremendous hype and hysteria surrounding Generative AI, and the risk it poses to many job categories and to complete industries. But should we ..."
+    publishedDateTime: 2023-09-04T11:09:00Z
+    webUrl: "https://wraltechwire.com/2023/09/04/generative-ai-means-the-looming-end-of-search-as-we-know-it-heres-why/"
+    ampWebUrl: "https://wraltechwire.com/2023/09/04/generative-ai-means-the-looming-end-of-search-as-we-know-it-heres-why/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/09/04/generative-ai-means-the-looming-end-of-search-as-we-know-it-heres-why/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 56
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2018/05/artificial-intelligence-4-alien-god-diety.jpg"
+        width: 960
+        height: 578
         isCached: true
   - title: "Generative AI And SEO Strategy: Getting The Most Out Of Your Tools"
     excerpt: "Dive into the State of SEO report findings for illuminating perspectives on generative AI's impact on SEO."

@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/cerebras-and-abu-dhabi-build-worlds-
 webUrl: "https://www.zdnet.com/article/cerebras-and-abu-dhabi-build-worlds-most-powerful-arabic-language-ai-model/"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 640
         height: 362
         isCached: true
-  - title: "UAE launches Arabic large language model in Gulf push into generative AI"
-    excerpt: "An artificial intelligence group with links to Abu Dhabi’s ruling family has launched what it described as the world’s highest-quality Arabic AI software, as the United Arab Emirates pushes ahead with efforts to lead the Gulf’s adoption of generative AI."
-    publishedDateTime: 2023-08-30T18:15:00Z
-    webUrl: "https://www.ft.com/content/ab36d481-9e7c-4d18-855d-7d313db0db0d"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 16
 
 secured: "aOwOOV02ErjJ5aBiH2fwcdx3gA/FzWLUBIO4QcidRW6cqZEkNp83V6OLceqvysDPtl4eY/rAOrp0FKKrBaKv5M4UO6Jo4kAKjeQcuqE1YPipojRsO4TqSz+fT7k/UNll9axuOWMfRppeHtSu+NxI3egRd7F8G8tLjaboqPuRyjKi2VbwqQ8M2TqFEpzJnAxsrRIIUBiKJpYj+Xfmd8a5yD3kQQzf7Hog3YqpjRYWvEXK2B0SGEuVgw0alJ/60Q8qnQckQfCrUjbCsGLJfYPYPEAKuTFMV3By+JhlFYUSBD0Oprp6H+gER8C6W5c4AZqrxihQBnzyTHdG3x4Izv3RE2fTq4AKLMAENa6Rf/3fi2+N/9FclllZlEu4dlD0Zaokn9QzbXWTHuda7LlMeh3KQRhc15NhGWNGnjHE7WGMeIYJ4ubRWJ8zObNXlvkKcg7RbO1dTW5BSnHgQR58l/sPA9La7IF4a0Ci4QHv+895upMScqU9WR4sFXcifd2v8jkCvG+UcBOpgcmr9pg8iH+jVQ==;XrkjqJtTTJhw/8F5xEaT+w=="
 ---

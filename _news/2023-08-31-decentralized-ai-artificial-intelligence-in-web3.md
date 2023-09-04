@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cryptonewsz.com/decentralized-ai-artificial-intelligence
 cdnAmpWebUrl: "https://www-cryptonewsz-com.cdn.ampproject.org/c/s/www.cryptonewsz.com/decentralized-ai-artificial-intelligence-in-web3/amp/"
 type: article
 quality: 72
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 512
     height: 309
     isCached: true
-
-related:
-  - title: "A Comprehensive Review of HIX.AI: Best All-in-one AI Writing Copilot Online"
-    excerpt: "HIX.AI has been making waves in the AI writing field, so we decided to conduct a comprehensive review to see what it is that makes it worth the investment!"
-    publishedDateTime: 2023-08-30T18:48:00Z
-    webUrl: "https://www.sfweekly.com/marketplace/a-comprehensive-review-of-hix-ai-best-all-in-one-ai-writing-copilot-online/article_ea4c5608-4765-11ee-9275-a3efe7331988.html"
-    type: article
-    provider:
-      name: SF Weekly
-      domain: sfweekly.com
-    quality: 17
 
 secured: "1+QyJnlFWOPfHNTYZ9WvA5mt7GuDXwLt81jrFY1U0lEcUG7I3aK37G3Ps3feAGbGQlhXubfsrd8hf11UDKpEf/co4mAPKjk4YEEP6Huj9M8YK/7YFZkQ6eXnPiRIJ1xkYLKR2fDzRUVUhYbeqKRJ7QnLLlvdFaO7OcpnjMoEGPvZzBvh579P9iG5/PEklw0xIdDKNyQddRzwBa6P56CbvqejhQVoM1nvBk20aRvHubcpEkayocdlyJAK1ZQmSYMukOoIxALD/TkPi+GHH/JL22rrD/eO7Q5XAWdThsRj6FwIc/BJqQI6pJJtjWadiSgyFvHCF93XsSyvK6gZKnF4TLe6/P1ZMNi54/tGdYa4WcBH9TwYcUCOwcmtIdmU+jyzKrw8phjj+/udBjL+Jh8aarV02nlYO05xQwRJaCKiVzqYuy+M9J/lN4jAKiCmzns8FxJ1FOxqqDZztKAoHlY3jkzLLRADvfC6V/cTD2M3baBVIRET1o+cpA4Es3jnXoC+W26qHBPSJdbUwTTjuL/gnA==;ZZP5OKuQ/VFVy0jw8OBHqQ=="
 ---

@@ -1,0 +1,186 @@
+---
+category: news
+title: "U.S. should use Nvidia’s powerful chips as a ‘chokepoint’ to force adoption of A.I. rules, DeepMind cofounder Mustafa Suleyman says"
+excerpt: "That makes the company’s products “an incredibly practical chokepoint that would allow the U.S. to impose itself on all other actors” in A.I., Mustafa Suleyman, cofounder of DeepMind and Inflection AI, told the Financial Times in an interview ..."
+publishedDateTime: 2023-09-04T11:12:00Z
+originalUrl: "https://fortune.com/2023/09/04/use-nvidia-chips-chokepoint-us-ai-regulations-deepmind-cofounder-mustafa-suleyman/"
+webUrl: "https://fortune.com/2023/09/04/use-nvidia-chips-chokepoint-us-ai-regulations-deepmind-cofounder-mustafa-suleyman/"
+ampWebUrl: "https://fortune.com/2023/09/04/use-nvidia-chips-chokepoint-us-ai-regulations-deepmind-cofounder-mustafa-suleyman/amp/"
+cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/09/04/use-nvidia-chips-chokepoint-us-ai-regulations-deepmind-cofounder-mustafa-suleyman/amp/"
+type: article
+quality: 59
+heat: -1
+published: false
+
+provider:
+  name: Fortune
+  domain: fortune.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Google AI
+  - AI
+
+images:
+  - url: "https://content.fortune.com/wp-content/uploads/2023/09/GettyImages-1561068632-e1693820372827.jpeg?w=840"
+    width: 840
+    height: 560
+    isCached: true
+
+related:
+  - title: "Google DeepMind co-founder wants US to link AI chip sales to minimum artificial intelligence standards"
+    excerpt: "DeepMind's co-founder, Mustafa Suleyman, has called on the US government to enforce minimum standards for AI companies to be eligible to purchase Nvidia's AI chips. He believes that buyers should agree to ethically use the technology."
+    publishedDateTime: 2023-09-01T14:31:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/google-deepmind-co-founder-wants-us-to-link-ai-chip-sales-to-minimum-artificial-intelligence-standards/articleshow/103290407.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/google-deepmind-co-founder-wants-us-to-link-ai-chip-sales-to-minimum-artificial-intelligence-standards/amp_articleshow/103290407.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/google-deepmind-co-founder-wants-us-to-link-ai-chip-sales-to-minimum-artificial-intelligence-standards/amp_articleshow/103290407.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 107
+    images:
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-103290407,imgsize-24318,width-800/103290407.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Google DeepMind co-founder urges ethical use mandate for Nvidia AI chips in the US"
+    excerpt: "AI companies including OpenAI, Alphabet and Meta Platforms made voluntary commitments to the White House to implement measures such as watermarking AI-generated content to help make the technology safer."
+    publishedDateTime: 2023-09-01T06:38:00Z
+    webUrl: "https://www.cnbctv18.com/technology/google-deepmind-co-founder-urges-ethical-use-mandate-for-nvidia-ai-chips-in-the-us-17693891.htm"
+    ampWebUrl: "https://www.cnbctv18.com/technology/google-deepmind-co-founder-urges-ethical-use-mandate-for-nvidia-ai-chips-in-the-us-17693891.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/google-deepmind-co-founder-urges-ethical-use-mandate-for-nvidia-ai-chips-in-the-us-17693891.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 85
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/02/microsoft-bing-10-1019x573.jpg"
+        width: 1019
+        height: 573
+        isCached: true
+  - title: "Google DeepMind co-founder calls for US to enforce AI standards"
+    excerpt: "The US has expanded restriction of exports of sophisticated Nvidia and Advanced Micro Devices artificial-intelligence chips beyond China to other regions including some countries in the Middle East."
+    publishedDateTime: 2023-09-01T13:32:00Z
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-8919888/"
+    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-8919888/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-8919888/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 74
+    images:
+      - url: "https://images.indianexpress.com/2023/08/nvidia-featured-reuters.jpg"
+        width: 1200
+        height: 667
+        isCached: true
+  - title: "Google DeepMind cofounder calls for US to enforce AI standards"
+    excerpt: "The US should allow Nvidia's artificial intelligence (AI) chips only to buyers who agree to ethically use the technology, Google DeepMind's co-founder Mustafa Suleyman said on Friday."
+    publishedDateTime: 2023-09-01T05:54:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/google-deepmind-cofounder-calls-for-us-to-enforce-ai-standards/articleshow/103270767.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/google-deepmind-cofounder-calls-for-us-to-enforce-ai-standards/amp_articleshow/103270767.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/google-deepmind-cofounder-calls-for-us-to-enforce-ai-standards/amp_articleshow/103270767.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-31368,msid-103270830/artificial-intelligence.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "‘I hope I’m wrong’: the co-founder of DeepMind on how AI threatens to reshape life as we know it"
+    excerpt: "From synthetic organisms to killer drones, Mustafa Suleyman talks about the mind-blowing potential of artificial intelligence, and how we can still avoid catastrophe"
+    publishedDateTime: 2023-09-02T07:00:00Z
+    webUrl: "https://www.theguardian.com/books/2023/sep/02/i-hope-im-wrong-the-co-founder-of-deepmind-on-how-ai-threatens-to-reshape-life-as-we-know-it"
+    ampWebUrl: "https://amp.theguardian.com/books/2023/sep/02/i-hope-im-wrong-the-co-founder-of-deepmind-on-how-ai-threatens-to-reshape-life-as-we-know-it"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2023/sep/02/i-hope-im-wrong-the-co-founder-of-deepmind-on-how-ai-threatens-to-reshape-life-as-we-know-it"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 61
+    images:
+      - url: "https://i.guim.co.uk/img/media/5bf98bcdb9cd152563a3ccbbe53336548380df1c/1_0_6331_3800/master/6331.jpg?width=620&quality=85&auto=format&fit=max&s=7ac26dbd3b6604c3e8927a0efd6779e6"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "DeepMind develops watermark to identify AI images"
+    excerpt: "Google's DeepMind is trialling a digital watermark that would allow computers to spot images made by artificial intelligence (AI), as a means to fight disinformation."
+    publishedDateTime: 2023-09-01T08:44:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2023/08/deepmind-develops-watermark-to-identify-ai-images/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 54
+    images:
+      - url: "https://eandt.theiet.org/media/22316/web_digital-ai-art_istock-1382918419.jpg?crop=0,0.18958333333333335,0,0.31822916666666662&cropmode=percentage&width=1200&height=450&rnd=133380348010000000"
+        width: 1200
+        height: 450
+        isCached: true
+  - title: "Google DeepMind co-founder calls for US to enforce AI standards - FT"
+    excerpt: "The US should enforce minimum global standards for the use of AI, and companies should at a minimum agree to abide by the same pledge made by leading AI firms to the White House, Suleyman said. In July,"
+    publishedDateTime: 2023-09-01T08:46:00Z
+    webUrl: "https://www.aol.com/news/google-deepmind-co-founder-calls-054605860.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 54
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/ed04b4472fce641a666194bafc738e98"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Google DeepMind founder wants US to enforce AI standards"
+    excerpt: "The US should allow Nvidia's AI chips only to buyers who agree to use the technology ethically, DeepMind's co-founder said."
+    publishedDateTime: 2023-09-01T07:35:00Z
+    webUrl: "https://techcentral.co.za/google-deepmind-enforce-ai-standards-ft/230859/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 54
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2023/09/ai-artificial-intelligence-1500-800.jpg"
+        width: 1500
+        height: 800
+        isCached: true
+  - title: "Google DeepMind co-founder says US should enforce AI standards for ethical use"
+    excerpt: "The ethical side of this technological titan has gained attention in a time when artificial intelligence (AI) is developing at a dizzying pace. The co-founder of DeepMind, Mustafa Suleyman, recently presented a strong case for the need for the United States to require users of Nvidia's AI chips to make ethical commitments."
+    publishedDateTime: 2023-09-01T18:05:00Z
+    webUrl: "https://techstory.in/google-deepmind-co-founder-says-us-should-enforce-ai-standards-for-ethical-use/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 47
+  - title: "Google DeepMind co-founder argues US should set AI global standards - FT"
+    excerpt: "Mustafa Suleyman, Google DeepMind's co-founder and chief executive of Inflection AI, told the Financial Times that the US should use their chip leadership to enforce minimum global standards for the use of AI."
+    publishedDateTime: 2023-09-01T12:13:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42878/google-deepmind-co-founder-argues-us-should-set-ai-global-standards---ft"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 33
+  - title: "US should use chip leadership to enforce AI standards, Deep Mind co-founder says"
+    excerpt: "Mustafa Suleyman says sales of Nvidia chips that dominate artificial intelligence should be tied to safe use pledges"
+    publishedDateTime: 2023-09-01T04:00:00Z
+    webUrl: "https://www.ft.com/content/f828fef3-862c-4022-99d0-41efbc73db80"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 29
+
+secured: "pf5X0AV6APnFNvPXu153JuyE56gkgzwRVPQM/GLMbUHG7Uy9ybHO7U5Un70sGFICn3GXoO7fNXsUzGT/v4VmKZ2YpzuZCyMlHcQR2I2JVIgjXCHybNL4wYXq2ccRlxzT38iN2d3MBq1rq1z1yXTCIAti86a9kwVMVD+G5onRZvnap9Qja5b/OnPqlVxCMbnrkKYgljNgm7jaZrNHtt5ZLdBQ3ZS1bX9Dq8zzZU7On+s6InZS92EM7titOzd4UEFLOPc4/c3DluTQElmc/6oEaTlvEzN7OqwLIOluJACq8oca2zQ10BL91iGSngy8CLxxEf59W9T+DaOGa+mGMq/1uWSmOn8fKUarQWDcHNXFzRI=;1rDhawr3rriLOBsrKdyxKw=="
+---
+

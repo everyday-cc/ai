@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "AMD Shares The Technical Details of Technology Powering Innovative Confidential Computing Leadership Cloud Offerings"
-    excerpt: "Mark Russinovich, Azure CTO and Technical Fellow ... This includes Confidential Spaces for privacy-focused use cases such as joint data analysis and machine learning model training; General Availability of Confidential VMs and Confidential GKE as IAAS ..."
-    publishedDateTime: 2023-08-30T17:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/amd-shares-the-technical-details-of-technology-powering-innovative-confidential-computing-leadership-cloud-offerings-1032592858"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 26
   - title: "AMD Deepens Cloud Security Collaboration: Open Sources Its EPYC Processor-based Confidential Computing Tech"
     excerpt: "Oracle Compute Infrastructure (OCI) provides its customers a high assurance of data control as customers transition their workloads to the cloud while delivering the modern security features and impressive performance of the EPYC CPU-powered of the OCI E3 and E4-based Confidential VMs."
     publishedDateTime: 2023-09-01T15:25:00Z

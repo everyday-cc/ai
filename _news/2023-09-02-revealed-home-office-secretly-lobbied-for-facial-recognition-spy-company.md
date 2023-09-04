@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/sep/02/home-office-accus
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 107
+published: true
 
 provider:
   name: The Guardian
@@ -31,6 +31,52 @@ images:
     isCached: true
 
 related:
+  - title: "Home Office accused of secret lobbying for facial recognition ‘spy’ company"
+    excerpt: "The use of facial recognition has provoked fierce criticism over its impact on privacy and human rights, with the European Union seeking to ban the technology in public spaces through proposed legislation. The heavily redacted correspondence also reveals ..."
+    publishedDateTime: 2023-09-02T17:26:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/8e6e98b9bdc1c7e71fbcc4fc0b52022b9c2b43d4/0_171_5138_3082/master/5138.jpg?width=620&quality=85&auto=format&fit=max&s=a9678567cc87506d36dbf14bfe53583c"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Revealed: Home Office secretly lobbied for facial recognition ‘spy’ company"
+    excerpt: "The use of facial recognition has provoked fierce criticism over its impact on privacy and human rights, with the European Union seeking to ban the technology in public spaces through proposed legislation. The heavily redacted correspondence also reveals ..."
+    publishedDateTime: 2023-09-02T17:26:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company?ref=mc.news"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/8e6e98b9bdc1c7e71fbcc4fc0b52022b9c2b43d4/0_171_5138_3082/master/5138.jpg?width=620&quality=85&auto=format&fit=max&s=a9678567cc87506d36dbf14bfe53583c"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Home Office seeks facial recognition technologies for police"
+    excerpt: "The Defence and Security Accelerator (Dasa) has launched a market exploration of facial recognition technologies that could be implemented by police forces and security agencies within the next 18 months. DASA is a Ministry of Defence unit that looks for and funds innovation."
+    publishedDateTime: 2023-09-01T09:19:00Z
+    webUrl: "https://www.publictechnology.net/2023/09/01/society-and-welfare/home-office-seeks-facial-recognition-technologies-for-police/"
+    type: article
+    provider:
+      name: Public Technology
+      domain: publictechnology.net
+    quality: 39
+    images:
+      - url: "https://www.publictechnology.net/wp-content/uploads/2023/08/Biometrics_face-recognition.jpg"
+        width: 820
+        height: 543
+        isCached: true
   - title: "Tech Digest daily roundup: Home Office secretly lobbied for facial recognition company"
     excerpt: "Senior officials at the Home Office secretly lobbied regulator to act “favourably” towards firm keen rolling out facial recognition technology"
     publishedDateTime: 2023-09-03T12:36:00Z
@@ -40,6 +86,20 @@ related:
       name: Tech Digest
       domain: techdigest.tv
     quality: 26
+  - title: "Home Office and MoD seeking new facial-recognition tech"
+    excerpt: "The UK’s Defence and Security Accelerator is running a ‘market exploration’ exercise on behalf of the Home Office to identify new facial recognition capabilities for security and policing bodies in th"
+    publishedDateTime: 2023-08-31T09:15:00Z
+    webUrl: "https://www.computerweekly.com/news/366550394/Home-Office-and-MoD-seeking-new-facial-recognition-tech"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 24
+    images:
+      - url: "https://cdn.ttgtmedia.com/visuals/German/article/CCTV-facial-recognition-3-adobe.jpg"
+        width: 1200
+        height: 400
+        isCached: true
 
 secured: "cXvr2xcdrj5r8xcZ45WNS+BL21ckudoumdfbXqzxVsBZl2lkBS9PBEA3DXvi8oqs2gHDw/6DyAjQZNY/ZgmVrqinyL1rLcsKq5yXTExox/TNy1q2vKcVP3h++7fFaO9kz0k4wCVTwLl4+CA9wCbnn+t9CEomCMln9vZuht/GVa1P4/3Sx5hoXRVxdFitczKFV7KHcOXQMTI95xWSh11QJK/qP5xbaqTk8oc2cxZ16cF9I6mGgmTDIrdLxZIta6Ps0k4h4kGpbhVYRHoDwKNaslymRLJ1E8MQwBbjGnQbvxXrq7I/qv6oF9NQqGpMs8qBzSE/DknOM1uaE+Ow+/YWv2lUduFK627ljzScjTtHDU6kYFSYZgBBW5Kar4JsbiIjYFMVBGOdmUqVuO9prorruP3mdxi5KXFh34IwCK4jmoAx6VYG6hmsIeb5SL2drbpItKrSbl1qaYDrYARfnyJHPHwrT520lcXG2c8gmGXd178tGxuJDZDpHX7NBJgmk4ddT2oOockHcjUoM/CU2PGhzg==;RofrjC0K/LVjr2u7o2ARdA=="
 ---

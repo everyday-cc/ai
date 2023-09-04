@@ -7,7 +7,7 @@ originalUrl: "https://www.newscientist.com/article/2389509-ai-recap-the-rise-of-
 webUrl: "https://www.newscientist.com/article/2389509-ai-recap-the-rise-of-the-prompt-engineer-and-biased-driverless-cars/"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 1350
     height: 900
     isCached: true
-
-related:
-  - title: "Driverless in the field: Agriculture companies Krone and Lemken rely on software from Apex.AI for autonomous farming machines"
-    excerpt: "The high-performance Apex.AI development environment enables the prototype functions developed by Krone and Lemken to be transferred to"
-    publishedDateTime: 2023-08-30T19:03:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/driverless-in-the-field-agriculture-companies-krone-and-lemken-rely-on-software-from-apex-ai-for-autonomous-farming-machines-1032593992"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
 
 secured: "TmjUO9EIkg+SPBH08oHclExoinWolnl3KeuMmdcrNs5g4e3cyZOK4Az7awRBOLz8WdpSZT8VQ5NBmohwfVZqmm0+szKncMt9a3X6ruwW6HiUqeVHS2RaNlS5f8vIbe0RvBejpKErf0Bi3Y1eNYTmH/uPQiQWMIsz14SpMOmb2lNNarN0rx31lxGC/aFLmdBUOFO0XQU5duan4yrClxX2O6N4HuvRG75lnVLINLSl3uwE8uNgZp8JPzdIlATcs0uaxaxtXmJtAd7p7aALW50NpWlxZVKd5cP3n+SyPmOqeoZCLpJEPT6KqbZNJEq8N/qMts4QbrxkxpNq4fCtk24FG0HX/fBWtOwSPbp6ApMoXGSRnkv0IPx3xROP4fIZ9d/3OgKXsHCyfmKW5cJpmtwBenUsFle41PxAllj40+khwdD5Ia3Y8ooVnhoWONFu5pOIkizTCZ05apcN7HQT5QXaVxKwORxuRbPSK+GK8/Vnjq9wnwZp/UxxSN6JqhEYvQqNCq6ro1gH4CN/65TNsF+xhA==;2swmegQ9L2/G62e28XMxPg=="
 ---

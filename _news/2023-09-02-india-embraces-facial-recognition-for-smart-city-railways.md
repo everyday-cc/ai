@@ -55,15 +55,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "The need for an Indian system to regulate AI"
-    excerpt: "When it comes to AI regulation, India needs to have regulations in a manner that is consistent with the Indian ethos, by and for Indians"
-    publishedDateTime: 2023-08-30T18:46:00Z
-    webUrl: "https://www.thehindu.com/opinion/lead/the-need-for-an-indian-system-to-regulate-ai/article67252763.ece"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 19
 
 secured: "T53GmKeu+Tz+msDqA3ObI0IYVzJuYq3B0vigXGG4d/Pcr2rR2P8nvQCnV097lTSHkuYA6VpU7HGt99jWxHdX4D9EigcZsa4cXvXiOXxNVZNVcRWEzCUeaG8G13GWQV4tNpBGPPXlI6muuNJygfqvLbLcRhEwtN1/pn+Pl58IcSy5APe2lW/sLBglBNE1hfscnHy5zMHj6ImhAv3Fhqxgc4BuKtzpxGQr0l/JJfLd1er5qZfsDccc8nK99iL28meJtzXJvbZg9sFt76f0M4t1bz43BmY7JvSfsC920rEEkSzcpQ33JzYUjSbq4/0K1AyMoS0+fpDNHVCGdvJjq+KVm9bC9LS7vC1vlcAE7wvuJZCra30LnN0QHI3LmrLP+HrfypWbKP5UQ5E0nfutLxJSMgs/1DBgXSAU1+7Bwu1a8bKxCh01Z1BhGnkzY/q33TCH4ufg1gL8sreRHgW0RToLn+7P8Wrvqtm1yJkqUq67Of8o6aIZZv2pFbI+LAo/O6GkScJsDJx4rWUmXUZ+yZHgYA==;9jr3irXY+lkmcsEhhqoPlA=="
 ---

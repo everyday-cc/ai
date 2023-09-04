@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Home Office eyeing expansion of 'Orwellian' facial recognition"
-    excerpt: "The Home Office insists it wants to \"strike the right balance between public safety and individual privacy rights\" and has issued a call to companies to suggest ways of using it."
-    publishedDateTime: 2023-08-30T17:46:00Z
-    webUrl: "https://news.sky.com/story/home-office-eyeing-expansion-of-orwellian-facial-recognition-12950942"
-    ampWebUrl: "https://news.sky.com/story/amp/facial-recognition-technology-labelled-orwellian-as-government-eyes-wider-use-by-police-and-security-agencies-12950942"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/facial-recognition-technology-labelled-orwellian-as-government-eyes-wider-use-by-police-and-security-agencies-12950942"
+  - title: "Revealed: Home Office secretly lobbied for facial recognition ‘spy’ company"
+    excerpt: "Officials reflected policing minister’s enthusiasm to roll out controversial technology across the country, particularly in retail settings"
+    publishedDateTime: 2023-09-02T16:03:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company?ref=biztoc.com"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company"
     type: article
     provider:
-      name: Sky
-      domain: sky.com
-    quality: 59
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
     images:
-      - url: "https://e3.365dm.com/23/08/1600x900/skynews-facial-recognition_6268140.jpg?20230830171724"
-        width: 1600
-        height: 900
+      - url: "https://i.guim.co.uk/img/media/8e6e98b9bdc1c7e71fbcc4fc0b52022b9c2b43d4/0_171_5138_3082/master/5138.jpg?width=620&quality=85&auto=format&fit=max&s=a9678567cc87506d36dbf14bfe53583c"
+        width: 620
+        height: 372
         isCached: true
   - title: "Home Office accused of secret lobbying for facial recognition ‘spy’ company"
     excerpt: "The use of facial recognition has provoked fierce criticism over its impact on privacy and human rights, with the European Union seeking to ban the technology in public spaces through proposed legislation. The heavily redacted correspondence also reveals ..."
@@ -73,22 +73,15 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Facial recognition technology labelled 'Orwellian' as government eyes wider use by police and security agencies"
-    excerpt: "The Home Office is eyeing an expansion of the use of facial recognition software - including potentially within police forces and the security agencies. The department put out a call asking for companies to make suggestions of how they could improve the ..."
-    publishedDateTime: 2023-08-30T17:47:00Z
-    webUrl: "https://news.sky.com/story/facial-recognition-technology-labelled-orwellian-as-government-eyes-wider-use-by-police-and-security-agencies-12950942"
-    ampWebUrl: "https://news.sky.com/story/amp/facial-recognition-technology-labelled-orwellian-as-government-eyes-wider-use-by-police-and-security-agencies-12950942"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/facial-recognition-technology-labelled-orwellian-as-government-eyes-wider-use-by-police-and-security-agencies-12950942"
+  - title: "Tech Digest daily roundup: Home Office secretly lobbied for facial recognition company"
+    excerpt: "Senior officials at the Home Office secretly lobbied regulator to act “favourably” towards firm keen rolling out facial recognition technology"
+    publishedDateTime: 2023-09-03T12:36:00Z
+    webUrl: "https://www.techdigest.tv/2023/09/tech-digest-daily-roundup-home-office-secretly-lobbied-for-facial-recognition-company.html"
     type: article
     provider:
-      name: Sky
-      domain: sky.com
-    quality: 56
-    images:
-      - url: "https://e3.365dm.com/23/08/1600x900/skynews-facial-recognition_6268140.jpg?20230830171724"
-        width: 1600
-        height: 900
-        isCached: true
+      name: Tech Digest
+      domain: techdigest.tv
+    quality: 26
   - title: "Home Office and MoD seeking new facial-recognition tech"
     excerpt: "The UK’s Defence and Security Accelerator is running a ‘market exploration’ exercise on behalf of the Home Office to identify new facial recognition capabilities for security and policing bodies in th"
     publishedDateTime: 2023-08-31T09:15:00Z

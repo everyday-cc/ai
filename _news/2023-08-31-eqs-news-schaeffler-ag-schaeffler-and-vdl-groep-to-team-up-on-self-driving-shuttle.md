@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/eqs-news-schaeffle
 webUrl: "https://markets.businessinsider.com/news/stocks/eqs-news-schaeffler-ag-schaeffler-and-vdl-groep-to-team-up-on-self-driving-shuttle-1032595433"
 type: article
 quality: 27
-heat: 27
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,17 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Schaeffler, VDL Groep Present Self-driving Electric Shuttle Designed For Public"
+    excerpt: "German automotive and industrial supplier Schaeffler (SCFLF.OB) announced Monday its cooperation with VDL Groep to present a"
+    publishedDateTime: 2023-09-04T11:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/schaeffler-vdl-groep-present-self-driving-electric-shuttle-designed-for-public-1032602503"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
 
 secured: "QVuDlywa1KN4eXET5FEdPfx4DotldIK2sQxKO5JV0HIncgzbhUCO9sgSiFEK3Y3saqEjNbJW1RHiYwjQ+UBr5Uyj5lAVd9TR1o1HqhMcoHIBFhV5G4V9Yzyl4LS0VbxZMXRLZPfrnwYhYHIin5o37EZwgd38/Q4EmQT2HKxUTm3VWH1V9v19AyWe5WgkJCuUSSzaO0+CsKltrROXf6Fz2iX9PQVD0yBMFB661SWAy6OJaJQcKA0qHdUuFZCi1CH8J10n/nnaVFbg49kg2f70BWWaRV5f1ExPTD55ROPz4u2Slwf6nTDLS/Y8AkafDuEJR2VgHwj5A/EyZz6BqmIKsKjSNWSMKEogjpvJ5a5dw2s=;APlz48tuZfvYarb/txxnmA=="
 ---

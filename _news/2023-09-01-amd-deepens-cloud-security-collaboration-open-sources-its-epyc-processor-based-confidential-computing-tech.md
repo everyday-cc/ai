@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/this-just-in/amd-deepens-cloud-security-c
 webUrl: "https://www.datanami.com/this-just-in/amd-deepens-cloud-security-collaboration-open-sources-its-epyc-processor-based-confidential-computing-tech/"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AMD Shares The Technical Details of Technology Powering Innovative Confidential Computing Leadership Cloud Offerings"
-    excerpt: "Mark Russinovich, Azure CTO and Technical Fellow ... This includes Confidential Spaces for privacy-focused use cases such as joint data analysis and machine learning model training; General Availability of Confidential VMs and Confidential GKE as IAAS ..."
-    publishedDateTime: 2023-08-30T17:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/amd-shares-the-technical-details-of-technology-powering-innovative-confidential-computing-leadership-cloud-offerings-1032592858"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 26
   - title: "AMD shares tech behind confidential computing in the cloud"
     excerpt: "AMD has published the source code for AMD Secure Encrypted Virtualization (SEV) technology, the backbone of AMD EPYCTM processor-based confidential computing virtual machines (VMs) available from cloud service providers including Amazon Web Services (AWS),"
     publishedDateTime: 2023-08-31T09:29:00Z

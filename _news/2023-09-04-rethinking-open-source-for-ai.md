@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3706091/rethinking-open-source-for
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706091/rethinking-open-source-for-ai.amp.html"
 type: article
 quality: 87
-heat: 137
+heat: 138
 published: true
 
 provider:

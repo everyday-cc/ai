@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/31/amazon-india-post-railways-generat
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/31/amazon-india-post-railways-generative-ai/amp/"
 type: article
 quality: 73
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -58,15 +58,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "The need for an Indian system to regulate AI"
-    excerpt: "When it comes to AI regulation, India needs to have regulations in a manner that is consistent with the Indian ethos, by and for Indians"
-    publishedDateTime: 2023-08-30T18:46:00Z
-    webUrl: "https://www.thehindu.com/opinion/lead/the-need-for-an-indian-system-to-regulate-ai/article67252763.ece"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 19
 
 secured: "IDScJ0RElor8EpCwKB5qiwU4owy6OwOZrmeCMMSREq87EQDk5MnKi1b0fNHjG+uiMmM0Ds7AoLwRVWdPBu9kq4IvlacB7lZFe+vhmhnQgqW7CA74sV7Z8/YA84MhPpBJfGLoV9UUyyAQP2mkka3hxp0jH2KpYxMrbw7XY5/OtvmeQp/TCuHTC2mmNutjJ7cNho+l4emeQ3UbxqAQQhVDY+ktZ+xp6nUEO8SK8jwm+yDxO0DGKLtpR43nwQZFrtoFdfwFK1wwerhIJovbXhDtDxFiU95LacT4v5SYdDKgWsVPsjN9ZD0b7rxDLlV6zsut/MQUvQYGXvrREJrFaMnh99aqKbfbJArrMSPk5/a3kHI=;BGk/oyHCxzpki2mvdPKL1Q=="
 ---

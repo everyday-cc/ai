@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/googles-new-tool-can-detect
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-new-tool-can-detect-ai-generated-images-but-its-not-that-simple/"
 type: article
 quality: 85
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -39,15 +39,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Google made an invisible watermark for AI-generated images"
-    excerpt: "The tool, called SynthID, is trained to detect the embedded watermarks even after the original image has been edited."
-    publishedDateTime: 2023-08-30T19:00:00Z
-    webUrl: "https://www.popsci.com/technology/google-watermark-ai-generated-images/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 19
   - title: "New Meta, Google tools detect AI-generated images"
     excerpt: "The tech giants release tools to identify synthetic images and combat AI-related discrimination for more responsible use."
     publishedDateTime: 2023-09-01T13:11:00Z

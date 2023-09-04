@@ -99,6 +99,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "U.S. should use Nvidia’s powerful chips as a ‘chokepoint’ to force adoption of A.I. rules, DeepMind cofounder Mustafa Suleyman says"
+    excerpt: "That makes the company’s products “an incredibly practical chokepoint that would allow the U.S. to impose itself on all other actors” in A.I., Mustafa Suleyman, cofounder of DeepMind and Inflection AI, told the Financial Times in an interview ..."
+    publishedDateTime: 2023-09-04T11:12:00Z
+    webUrl: "https://fortune.com/2023/09/04/use-nvidia-chips-chokepoint-us-ai-regulations-deepmind-cofounder-mustafa-suleyman/"
+    ampWebUrl: "https://fortune.com/2023/09/04/use-nvidia-chips-chokepoint-us-ai-regulations-deepmind-cofounder-mustafa-suleyman/amp/"
+    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/09/04/use-nvidia-chips-chokepoint-us-ai-regulations-deepmind-cofounder-mustafa-suleyman/amp/"
+    type: article
+    provider:
+      name: Fortune
+      domain: fortune.com
+    quality: 59
+    images:
+      - url: "https://content.fortune.com/wp-content/uploads/2023/09/GettyImages-1561068632-e1693820372827.jpeg?w=840"
+        width: 840
+        height: 560
+        isCached: true
   - title: "DeepMind develops watermark to identify AI images"
     excerpt: "Google's DeepMind is trialling a digital watermark that would allow computers to spot images made by artificial intelligence (AI), as a means to fight disinformation."
     publishedDateTime: 2023-09-01T08:44:00Z
@@ -150,15 +166,6 @@ related:
       name: tech
       domain: techstory.in
     quality: 47
-  - title: "Google DeepMind Introduces SynthID, A Watermarking Tool for AI-Generated Images"
-    excerpt: "Google DeepMind has developed SynthID, a tool that can identify and watermark AI-generated images with Imagen - Google's text-to-image model."
-    publishedDateTime: 2023-08-30T19:02:00Z
-    webUrl: "https://techreport.com/news/google-deepmind-introduces-synthid-a-watermarking-tool-for-ai-generated-images/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 30
   - title: "US should use chip leadership to enforce AI standards, Deep Mind co-founder says"
     excerpt: "Mustafa Suleyman says sales of Nvidia chips that dominate artificial intelligence should be tied to safe use pledges"
     publishedDateTime: 2023-09-01T04:00:00Z

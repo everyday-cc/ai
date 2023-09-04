@@ -44,15 +44,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Google made an invisible watermark for AI-generated images"
-    excerpt: "The tool, called SynthID, is trained to detect the embedded watermarks even after the original image has been edited."
-    publishedDateTime: 2023-08-30T19:00:00Z
-    webUrl: "https://www.popsci.com/technology/google-watermark-ai-generated-images/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 19
   - title: "OpenAI Rages at Report That Google's New AI Crushes GPT-4"
     excerpt: "OpenAI CEO Sam Altman was clearly annoyed by a blog post declaring that Google's forthcoming Gemini model will quickly surpass GPT-4."
     publishedDateTime: 2023-08-31T19:54:00Z
