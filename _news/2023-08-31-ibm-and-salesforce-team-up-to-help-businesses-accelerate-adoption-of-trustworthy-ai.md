@@ -140,15 +140,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "Marc Benioff touts AI push as Salesforce shows strong growth"
-    excerpt: "Salesforce on Wednesday reported fiscal second quarter profit that beat analyst estimates as CEO Marc Benioff relayed a message of AI transformation leading the company's growth."
-    publishedDateTime: 2023-08-30T22:02:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/08/30/salesforce-surpasses-wall-street-estimates.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
   - title: "Salesforce revs its VC engine in the AI race"
     excerpt: "Salesforce's offer to lead Hugging Face's Series D round didn't come with the highest valuation, Axios has learned, but the software giant managed to edge out several high-profile investors to seal the deal."
     publishedDateTime: 2023-09-02T14:00:00Z
@@ -159,6 +150,6 @@ related:
       domain: axios.com
     quality: 17
 
-secured: "j4xB4jOgBhEhJQT5+ngNHyfxR0sgGxR/xBNnRbxqsvBSB8St5JLTSEhJMhSq1d2epkO+NEWe1Da9N6s+CMedHdwloDsMZnApMNihca+yaX9Sqguy2aYMMlDdmdSvSnXz0VnVAckiOsckj6lbcdKdSM8sKMOXtp2+u+GjWr/TxMEC1D0xZysrzSbkoW7xnJIerBvBln/pNY/FLIf57DUvjeak1SnC2N1FQiO4Ie+Qd2yx8J+yYrrR9CX0hSDMMpwEpwUOu3MzL2JpG4zvsucelwGys850P4Y5YXEtQLjzWb0Vw+RsRsmKDx1VjEZh3qiVOdTyTvHB4nLQ+wxLLwXiZ9X2LA2Esca6C9763eQmxRM=;yG1rHJglkt6L34PpYWYMdQ=="
+secured: "18FUHE/pHpJo8MeZuRAxI8t5YpY2DOwixLjP10i1Y8r4qB6kt1odLMh8n/AzxGfcVvFTbLE8c6iryG4Pc5DVqh5L+bpeOs0Vxl5gfHU5E/1qaQltCAKPaOCH5JQHnLcEQexq73fJpXDPnq+sJ/JD6MPDTFScE7Tm5s4ITsojyDyXX66mhYpwbqIUaCG1nuuE+TxHx5mb8sYCdWsiyOmRy4Ib9IffQeBO/gviPhvTxl6uiwFr79kJEF9vPn29r6lK1Y0wg9SBC2qnMX5PWLIbeeEz+eeGuusL8q13cZRYZGFcpnRBR5lKHgSNDE7xDOaxsHpd2rM8MGL1W6+sPjQlP3oBRK0pFu9b7+viOBSWhPE=;oTvLHLVvy9LAgTU/WD9R0Q=="
 ---
 

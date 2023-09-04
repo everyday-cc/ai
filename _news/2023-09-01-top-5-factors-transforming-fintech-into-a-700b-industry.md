@@ -48,6 +48,20 @@ related:
       name: Open Data Certificate
       domain: theodi.org
     quality: 35
+  - title: "Relevantz: Driving fintech innovation with Fiserv"
+    excerpt: "Senior Director of Client Success at Relevantz, Georgie John, traces his time at the service provider and the importance of its partnership with Fiserv"
+    publishedDateTime: 2023-09-04T14:31:00Z
+    webUrl: "https://fintechmagazine.com/videos/relevantz-driving-fintech-innovation-with-fiserv"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/a5df0747734103e25a2923f6a9681af3:717ee360c35460b894994bb8164ee388/maxresdefault.jpg.jpg"
+        width: 1200
+        height: 631
+        isCached: true
   - title: "Harnessing The Power Of Artificial Intelligence In Space Missions: A Look At Future Technological Advancement"
     excerpt: "Space is the final frontier. As humans continue to explore the vastness of our universe, one thing becomes abundantly clear: we need a little help from our friends in artificial intelligence (AI). The days of relying solely on human astronauts to navigate and execute complex space missions are gradually giving way to a new era"
     publishedDateTime: 2023-09-01T09:29:00Z
@@ -71,20 +85,6 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 19
-  - title: "Leaders in Lending | Ep. 122: Combating financial fraud – Fintech’s game-changing role"
-    excerpt: "For so long, new tech has been utilized by fraud artists, costing many unsuspecting victims countless dollars. Now, AI tools and strong fintech"
-    publishedDateTime: 2023-08-30T23:00:00Z
-    webUrl: "https://www.cuinsight.com/leaders-in-lending-ep-122-combating-financial-fraud-fintechs-game-changing-role/"
-    type: article
-    provider:
-      name: CUInsight
-      domain: cuinsight.com
-    quality: 16
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2022/03/Screen-Shot-2022-03-23-at-1.36.05-PM.png"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "Unveiling the Top Fintech Trends: How Technology is Revolutionizing Financial Services"
     excerpt: "Are you ready to embark on a journey into the future of finance? From mobile banking to advanced algorithms, technology has been transforming the way we interact with money and manage our finances. In this blog post,"
     publishedDateTime: 2023-09-01T17:36:00Z

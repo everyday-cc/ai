@@ -103,15 +103,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Baidu receives green light to launch AI Ernie Bot for general public, leading China's AI revolution"
-    excerpt: "Chinese tech giant Baidu was granted permission by Chinese authorities to introduce its AI Ernie Bot to the general public, with its official launch scheduled for August 31."
-    publishedDateTime: 2023-08-30T19:14:00Z
-    webUrl: "https://www.foxnews.com/world/baidu-receives-green-light-launch-ai-ernie-bot-general-public-leading-chinas-ai-revolution"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 33
   - title: "Enhancing research with conversational chatbots"
     excerpt: "In a recent presentation at White River Health in Batesville, Associate Professor of Computer and Data Science, Dr. Marcus Birkenkrahe, shed light on the transformative potential of artificial"
     publishedDateTime: 2023-09-01T17:03:00Z

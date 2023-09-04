@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/lanceeliot/2023/09/04/upping-your-prompt-e
 ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/09/04/upping-your-prompt-engineering-superpowers-via-target-your-response-techniques-when-using-generative-ai/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/09/04/upping-your-prompt-engineering-superpowers-via-target-your-response-techniques-when-using-generative-ai/amp/"
 type: article
-quality: 73
+quality: 75
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/64f54e68e4547e11b1b0157e/0x0.jpg?format=jpg&crop=2510,1675,x22,y0,safe&width=1200"
@@ -62,22 +63,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64f5bc845a7c3861341e8146/0x0.jpg?format=jpg&width=1200"
         width: 1000
         height: 667
-        isCached: true
-  - title: "Everyone wants responsible AI, but few people are doing anything about it"
-    excerpt: "Also: Five ways to use AI responsibly The results are from a survey based on the views of 500 business leaders released by technology company Conversica, which says: \"A resounding message emerges from the survey: a majority of respondents recognize the paramount importance of well-defined guidelines for the responsible use of AI within companies,"
-    publishedDateTime: 2023-08-30T20:10:00Z
-    webUrl: "https://www.zdnet.com/google-amp/article/everyone-wants-responsible-ai-but-few-people-are-doing-anything-about-it/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/everyone-wants-responsible-ai-but-few-people-are-doing-anything-about-it/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/everyone-wants-responsible-ai-but-few-people-are-doing-anything-about-it/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 88
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/9e805d608ad3b4d58a1b92fa103bf79e997db135/2023/08/28/f756a27d-cfda-41d2-be72-09a659962fdc/gettyimages-1461110089.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "AI in the Workplace"
     excerpt: "As employers increasingly adopt artificial intelligence (AI) tools to help make hiring decisions and perform other workplace functions, they must assess how to make the most of technological developments while remaining compliant with legal and regulatory requirements."
@@ -197,15 +182,6 @@ related:
         width: 1600
         height: 840
         isCached: true
-  - title: "Google DeepMind Tests Watermarking AI-Generated Images"
-    excerpt: "There is no universally agreed-upon approach to watermarking AI-generated images. DeepMind says the goal is to support SynthAI across a range of Google products and services, which could help move toward making it a standard. There are also plans to make SynthAI available to third parties for use in other generative AI models."
-    publishedDateTime: 2023-08-30T19:37:00Z
-    webUrl: "https://www.extremetech.com/extreme/google-deepmind-tests-watermarking-ai-generated-images"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 34
   - title: "Acceptable-use policies for generative artificial intelligence"
     excerpt: "The program is possibly the most well-known example of generative AI, an artificial intelligence technology that identifies patterns in large quantities in training data and then generates original content – text,"
     publishedDateTime: 2023-09-01T10:00:00Z
@@ -216,6 +192,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "+kxxiJS+2V96340YhmiRvkWipHM+SWWV9H8XOJWf3kcn0acB0xzdQ+OmxG1N2zSLCiozDrXmy1wC+0+1LtNgDVRL45XSVxfhRB+8wOdYrf54+AbnpB2pxp+EV81UOrfANNsREJR6v3uNF4FizqOjCa/vBs3k0u8Cu/3aL1icjV5zgmR8TUq+SS+cYbKucpFg8JqziKiAuPzj4VcEoDaRU2NoazJYqTkVOih2SPRQAegjKgRYkea89kOEp48enLkZUJ5U209DRKqqdYwgRmvJ3aPTuPgtSG76NmRQaH3KYzQlCr7KGCZ6Zqu+g5hZIeEWSWnbVo2RfnPpuAyjuo5taqikpysI87nXmIRDe397vos=;rYPZc14aHH5PSxYbbYv2fA=="
+secured: "5yyVrt25TJyzXAh9+appVyjNoFx70KsVMcjjIVGq6FGU/VqgHVDbU55FVw4DkshF+NiAIMAHUvNMa32oq6dKK5CYtiJXnU1aX3EtXzdMlWXdVsGw0eHa4Em6vo7cP0X1YtjhiG5r0lgJitKbUKaaXoM47lqsb7Mgr9yYDvtV/2Tw4uTyJb3cYymNnJhiSSa2SXUQQi+pkNetL6uo1K4L6lzhIdVAaGfTL//WuI6t+Szh57DOIrQpqWegNlUqINcsnzHoCu5HPDtEPm1E3qBJXMvgeLWVwLuagFlGjGXI9W4T/T5GgdRNdeMIMVVgaKceE9wGWWGzVY2dCSXWMGec8VZaG+DNZpd4jQEmLH1fSuxJjmj22HT4FBDukC2X0PKSv1tPd2wACGaN9f/+LWzNB/QfmKsD0GSTllxjMZ56TFk5I2aIzsOc0pRmrWv2lRjbEUxtYEgnE/6C/EPLkgj0C3pOWEz7Hy57POHXuhVIqlVdXKCWFkW/ps9uGYMzMZANu8tmMyVTUCPewTU3Rh6ccA==;CtiI3VOlZSvnRyNHYkNFEg=="
 ---
 

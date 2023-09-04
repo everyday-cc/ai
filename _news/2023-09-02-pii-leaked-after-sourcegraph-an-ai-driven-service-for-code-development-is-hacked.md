@@ -66,15 +66,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "3 AI Stocks That Every Forward-Thinking Investor Should Own Now"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The future is artificial intelligence (AI) and any industry you name has AI"
-    publishedDateTime: 2023-08-30T22:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-every-forward-thinking-investor-should-own-now-1032594384"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "How artificial intelligence will help, or hinder, your workforce"
     excerpt: "The authors' theory is that higher-skilled workers benefit far less from AI assistance because the AI is reflecting behaviors and skills it learned from the skilled work, making it more beneficial to reduce the learning curve and help out new customer-service workers instead."
     publishedDateTime: 2023-09-01T12:00:00Z

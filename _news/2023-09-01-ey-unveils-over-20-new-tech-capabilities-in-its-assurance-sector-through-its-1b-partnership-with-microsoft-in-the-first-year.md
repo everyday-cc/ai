@@ -91,20 +91,6 @@ related:
     quality: 61
   - title: "Microsoft enters partnership to build AI for large datasets"
     excerpt: "The global software giant is offering Synthetiac up to 1 million hours of cloud computing resources to accelerate the development of new tools for searching massive amounts of unstructured data."
-    publishedDateTime: 2023-08-30T19:58:00Z
-    webUrl: "https://washingtontechnology.com/companies/2023/08/microsoft-enters-partnership-build-ai-large-datasets/389873/"
-    type: article
-    provider:
-      name: Washington Technology
-      domain: washingtontechnology.com
-    quality: 54
-    images:
-      - url: "https://cdn.washingtontechnology.com/media/img/cd/2023/08/30/AIMicrosoftWT20230830/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Microsoft enters partnership to build AI for large datasets"
-    excerpt: "The global software giant is offering Synthetiac up to 1 million hours of cloud computing resources to accelerate the development of new tools for searching massive amounts of unstructured data."
     publishedDateTime: 2023-09-01T04:00:00Z
     webUrl: "https://www.nextgov.com/artificial-intelligence/2023/09/microsoft-enters-partnership-build-ai-large-datasets/389923/"
     type: article

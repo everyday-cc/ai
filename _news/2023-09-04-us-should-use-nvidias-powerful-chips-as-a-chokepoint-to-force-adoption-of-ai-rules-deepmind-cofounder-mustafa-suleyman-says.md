@@ -2,32 +2,26 @@
 category: news
 title: "U.S. should use Nvidia’s powerful chips as a ‘chokepoint’ to force adoption of A.I. rules, DeepMind cofounder Mustafa Suleyman says"
 excerpt: "That makes the company’s products “an incredibly practical chokepoint that would allow the U.S. to impose itself on all other actors” in A.I., Mustafa Suleyman, cofounder of DeepMind and Inflection AI, told the Financial Times in an interview ..."
-publishedDateTime: 2023-09-04T11:12:00Z
-originalUrl: "https://fortune.com/2023/09/04/use-nvidia-chips-chokepoint-us-ai-regulations-deepmind-cofounder-mustafa-suleyman/"
-webUrl: "https://fortune.com/2023/09/04/use-nvidia-chips-chokepoint-us-ai-regulations-deepmind-cofounder-mustafa-suleyman/"
-ampWebUrl: "https://fortune.com/2023/09/04/use-nvidia-chips-chokepoint-us-ai-regulations-deepmind-cofounder-mustafa-suleyman/amp/"
-cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/09/04/use-nvidia-chips-chokepoint-us-ai-regulations-deepmind-cofounder-mustafa-suleyman/amp/"
+publishedDateTime: 2023-09-04T14:07:00Z
+originalUrl: "https://www.aol.com/finance/u-nvidia-powerful-chips-chokepoint-104903650.html"
+webUrl: "https://www.aol.com/finance/u-nvidia-powerful-chips-chokepoint-104903650.html"
 type: article
-quality: 59
+quality: 9
 heat: -1
 published: false
 
 provider:
-  name: Fortune
-  domain: fortune.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: AOL
+  domain: aol.com
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://content.fortune.com/wp-content/uploads/2023/09/GettyImages-1561068632-e1693820372827.jpeg?w=840"
-    width: 840
-    height: 560
+  - url: "https://s.yimg.com/ny/api/res/1.2/PKNtbrUnYzJ_ZSYn4yyVGw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/b3ee8cc83bbf2ca7bcc4b950be8a40fb"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -181,6 +175,6 @@ related:
       domain: ft.com
     quality: 29
 
-secured: "pf5X0AV6APnFNvPXu153JuyE56gkgzwRVPQM/GLMbUHG7Uy9ybHO7U5Un70sGFICn3GXoO7fNXsUzGT/v4VmKZ2YpzuZCyMlHcQR2I2JVIgjXCHybNL4wYXq2ccRlxzT38iN2d3MBq1rq1z1yXTCIAti86a9kwVMVD+G5onRZvnap9Qja5b/OnPqlVxCMbnrkKYgljNgm7jaZrNHtt5ZLdBQ3ZS1bX9Dq8zzZU7On+s6InZS92EM7titOzd4UEFLOPc4/c3DluTQElmc/6oEaTlvEzN7OqwLIOluJACq8oca2zQ10BL91iGSngy8CLxxEf59W9T+DaOGa+mGMq/1uWSmOn8fKUarQWDcHNXFzRI=;1rDhawr3rriLOBsrKdyxKw=="
+secured: "uAsOKceNc5Y5Bf5W4dh1b63Yue9MWQU0wsV8O5SHHv323qFfNOJ1jf2agWpxbVLPu8vVGohdGBFagnj8W9kFZsBF6xOopClVxPmlJxoyew+Cac+1TyggVncb7ruURxtrdK7sQcuBEUaMRUCwaBDdRFMdf71BGqnininMy0nEcEjPA752VkuovuBDRtMgCvQCqnqzGYbEDlnaEDnCLlYCkoOGuuX+7Ia/pmv8exq8ds/VeZmynku1eddOOqN2lFJxwcnHRXHXqo/rNGQqFaI8c8eRN7LMAAWh1xfrtDxwOiHo1pchzIvfiSfaMVnCRgSz18R2nAMvPzQPlaGAoD7L/z9vNp14TbGMHwcRQXoDMXw=;MfAY0m3l7FS80XkoPFC4eg=="
 ---
 

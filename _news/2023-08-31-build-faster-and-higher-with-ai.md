@@ -25,28 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "How Four Retail Basics Are Better With Artificial Intelligence"
-    excerpt: "The trick is effectively planning for change, uncertainties and unknowns—and being positioned to thrive regardless of shifting tides. Technology—specifically artificial intelligence (AI)—can help retailers focus on four retail basics constant to success. The change lies in how you approach these four areas of retail by properly leveraging AI."
-    publishedDateTime: 2023-08-31T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/31/how-four-retail-basics-are-better-with-artificial-intelligence/"
+  - title: "Bayer Is Rapidly Expanding Its Footprint With Artificial Intelligence"
+    excerpt: "Bayer is one of the world’s most prominent pharmaceutical and biotechnology companies. It is known for creating household staples such as Aspirin, to more advanced technologies and innovations that are often used behind the scenes, including dyes for ..."
+    publishedDateTime: 2023-09-04T14:31:00Z
+    webUrl: "https://www.forbes.com/sites/saibala/2023/09/04/bayer-is-rapidly-expanding-its-footprint-with-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/saibala/2023/09/04/bayer-is-rapidly-expanding-its-footprint-with-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/09/04/bayer-is-rapidly-expanding-its-footprint-with-artificial-intelligence/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 62
-  - title: "12 Research Projects In Ai And Robotics Are Created By Saudi University Students At Kacst Labs"
-    excerpt: "In addition, the initiatives took on the challenge of developing the first robotic models and expanding technological solutions using advanced approaches and methodologies for the creation of AI models. They also evaluated and improved the linguistic models for the AI chatbot“ChatGPT” to make them compatible with regional content and Arabic."
-    publishedDateTime: 2023-08-31T17:35:00Z
-    webUrl: "https://menafn.com/1106991526/12-Research-Projects-In-Ai-And-Robotics-Are-Created-By-Saudi-University-Students-At-Kacst-Labs"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 57
+    quality: 87
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?511604"
-        width: 458
-        height: 250
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64f5e994a70f9d57fab0157e/0x0.jpg?format=jpg&crop=2479,1395,x0,y186,safe&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "I92Yen1sB+LLBvO9h9qNfboQ8OIwQ2HjL66Nn2DkZo+zPC0yQOWNUZjM9/6wFN/JH2sT48g1noZurgJshYSSSMDumi5xMfUf9Q6uj7no1ZdTxr/uJ64+tfZizeGgqo+hqKzRJiunuKocOFuxlrNvR0nRF48mWAV/QMmVbN02Ft7qMYGhgQGtmbNtsABIQiy143jfnyUtq40sfza/JTrl1TdLHa0DqdjY6le09LiXrLJDaQt1BoEhpKakrhwgsaKIyIwExPc8rzlNu9rDzsV0+dWFyw/wtPcV77aDNl5CMI4Og/PVok7s25vEygj6zRDLTggdjizX2xqVJjyHTveLZFQkE7D6bSkhLE2w5u76Czyeqo+CE5FrrvMRsCJv6zWS/xN5LxDb+GA4uTRyYbJQbhMarEWZBcOGRP1jqAX1DuMeBRvpFbKnTeeGWDKVKyB8BjKDzw78yOj9ujH+t/dorrjIsnYq1zwW+HDcC1U5kXT2TdK21c3CRIOUaOuf8lYIMThvak/XkRmdz+1AgVNgxQ==;5lJ96YO9d3gEyrJi/vqAOg=="

@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia Faces More Restrictions on AI Chip Sales, This Time in the Middle East"
-    excerpt: "The US government notifies Nvidia it'll need a license to sell certain A100 and H100 GPUs to a larger range of customers outside of China."
-    publishedDateTime: 2023-08-30T21:48:00Z
-    webUrl: "https://www.pcmag.com/news/nvidia-faces-more-restrictions-on-ai-chip-sales-this-time-in-the-middle"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 98
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/035zuqPRihn1GhHajRQJuiL-1.fit_lim.size_1200x630.v1693429053.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "US bans sale of top Nvidia and AMD AI chips to the Middle East"
     excerpt: "Nvidia wrote in a regulatory filing that the US government had informed the company of a licensing requirement for a subset of A100 and H100 products"
     publishedDateTime: 2023-08-31T14:29:00Z
@@ -113,34 +99,6 @@ related:
         width: 5650
         height: 3560
         isCached: true
-  - title: "US denies it had 'blocked' AI chip sales to some Middle Eastern countries"
-    excerpt: "The US Commerce Department was quick to distance itself from the reports — but it did not directly address imposing license restrictions on certain types of chips."
-    publishedDateTime: 2023-09-01T10:54:00Z
-    webUrl: "https://www.al-monitor.com/originals/2023/09/us-denies-it-had-blocked-ai-chip-sales-some-middle-eastern-countries"
-    type: article
-    provider:
-      name: Al-Monitor
-      domain: al-monitor.com
-    quality: 70
-    images:
-      - url: "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2023-09/GettyImages-1258278958.jpg?h=9eb0d413&itok=9rMFKq-S"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Is Nvidia an AI Value Stock?"
-    excerpt: "Some on Wall Street would argue that a stock that has tripled in a calendar year can't be cheap. One analyst who covers Nvidia says just the opposite. The chipmaker's stock is up 239% so far this year,"
-    publishedDateTime: 2023-08-30T22:45:00Z
-    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-08-30-2023/card/is-nvidia-an-ai-value-stock--7KZKw2ot5CRIPgTQvNaP"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-844456/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "U.S. Restricts Advanced Nvidia AI Chips Sales to Middle East - TaiwanPlus News"
     excerpt: "The U.S. has blocked the sale of some Nvidia AI chips from being sold in the Middle East over fears they could be resold to China. The American tech giant"
     publishedDateTime: 2023-08-31T12:24:00Z
@@ -170,6 +128,29 @@ related:
       - url: "https://www.newarab.com/sites/default/files/1590840359.jpeg"
         width: 5289
         height: 3204
+        isCached: true
+  - title: "Why AMD Stock Is a Must-Own AI Chip Play"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Earlier this year, Advanced Micro Devices (NASDAQ:AMD), commonly known as just"
+    publishedDateTime: 2023-08-31T18:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/why-amd-stock-is-a-must-own-ai-chip-play-1032597614"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+  - title: "From Google To Nvidia, Tech Giants Have Hired Red Team Hackers To Break Their AI Models"
+    excerpt: "The leaders of the AI red teams at Microsoft, Google, Nvidia and Meta say they are tasked with looking for vulnerabilities in their AI systems so they can be fixed."
+    publishedDateTime: 2023-09-01T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/rashishrivastava/2023/09/01/ai-red-teams-google-nvidia-microsoft-meta/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 63
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64ee6705e561af2066d8ae23/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Nvidia’s AI chips hit with new curbs for export to some Middle East countries as US tightens semiconductor controls"
     excerpt: "The chip designer said in an August 28 filing that its A100 and H100 machine learning chips have new licensing requirements for some regions outside China."
@@ -257,20 +238,6 @@ related:
         width: 1200
         height: 450
         isCached: true
-  - title: "US restricts exports of some Nvidia chips to Middle East countries -filing"
-    excerpt: "\"During the second quarter of fiscal year 2024, the USG (U.S. government) informed us of an additional licensing requirement for a subset of A100 and H100 products destined to certain customers and other regions,"
-    publishedDateTime: 2023-08-30T21:40:00Z
-    webUrl: "https://www.aol.com/news/us-restricts-exports-nvidia-chips-184043693.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/30315eba350eb492026221c377f6f971"
-        width: 800
-        height: 533
-        isCached: true
   - title: "US curbs Nvidia’s AI chip exports to some Middle East countries"
     excerpt: "Nvidia this week did not specify which countries in the Middle East were affected. The company derived most of its US$13.5 billion in sales in its fiscal quarter ended July 30 from the US, China and Taiwan. About 13.9% of sales came from all other countries combined, and Nvidia does not provide a revenue breakout from the Middle East."
     publishedDateTime: 2023-08-30T23:04:00Z
@@ -289,6 +256,24 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 34
+  - title: "US regulators deny blocking AI chip exports to Middle East"
+    excerpt: "Nvidia’s quarterly report stated it received requirements from U.S. regulators about needing to obtain a license prior to selling its flagship chips to “some Middle Eastern countries.”"
+    publishedDateTime: 2023-09-01T12:40:00Z
+    webUrl: "https://cointelegraph.com/news/us-regulators-deny-blocking-ai-chip-exports-to-middle-east"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 34
+  - title: "Nvidia isn't the only game in town. Investors advise against overlooking these other AI beneficiaries"
+    excerpt: "Nvidia's quarterly report seemed to leave some investors questioning whether any serious challenger can challenge its well-protected throne, or catch up to speed building comparable chips able to power generative AI models. And the price action seemed to ..."
+    publishedDateTime: 2023-09-04T13:22:00Z
+    webUrl: "https://www.cnbc.com/2023/09/04/nvidia-isnt-the-only-game-in-town-investors-advise-against-overlooking-these-other-ai-beneficiaries.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 34
   - title: "US bans Nvidia, AMD AI chips' export to some Mideast countries, amid China fears"
     excerpt: "The technological war between the United States and China is heating up, with both countries imposing limits on their prized assets."
     publishedDateTime: 2023-08-31T11:56:00Z
@@ -298,15 +283,6 @@ related:
       name: Al-Monitor
       domain: al-monitor.com
     quality: 29
-  - title: "US restricts exports of some Nvidia chips to certain Middle East countries -filing"
-    excerpt: "The U.S. government has imposed restrictions on some Nvidia artificial intelligence chip exports to certain countries in the Middle East, the company said in a regulatory filing this week. One year ago Nvidia said U."
-    publishedDateTime: 2023-08-30T19:08:00Z
-    webUrl: "https://www.devdiscourse.com/article/science-environment/2576488-us-restricts-exports-of-some-nvidia-chips-to-certain-middle-east-countries--filing"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 28
   - title: "US officials extend export curbs on Nvidia AI chip to 'some Middle Eastern countries'"
     excerpt: "Nvidia’s rival chip maker Advanced Micro Devices (AMD) was also told to halt exports of chips to certain countries in the Middle East, though in both instances the particular countries were not specified."
     publishedDateTime: 2023-08-31T13:04:00Z

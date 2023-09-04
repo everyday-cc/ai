@@ -24,17 +24,6 @@ images:
     height: 415
     isCached: true
 
-related:
-  - title: "Razor Launches Ai Governance Framework For Agencies & Clients"
-    excerpt: "JOHANNESBURG - Razor PR, M&C Saatchi Group South Africa's public relations, strategic communications and reputation management agency, has launched"
-    publishedDateTime: 2023-08-30T19:52:00Z
-    webUrl: "https://menafn.com/1106988612/Razor-Launches-Ai-Governance-Framework-For-Agencies-Clients"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 19
-
 secured: "X946nGGry4VHePtzL5CqijeDPpp/TrGJ+j4nur2M5IBV1aUnmkWhTPIh4M1IoO4w5ixnRs8LVbvQe/regAEg2IIfHxLaxHFQz1B9q1+vU1Ztctp67RomVLsRH2nwbUZgt/TOca5V1y09RBk7WV2Fa6Jk954oo82ZGvdmd2aB2KFcKOKdhoeTZ4lZt0rcuKKBhS/D2gAjO6lT+aYA0F593htfk2QzREz4aWqt4mi1PlOwHymtPS21i3V9ND5ITR8DAZy8G6VseLMux+H1c3/PnLOK9g1nsgpEW0sPezBplqlRxrSVu1FGpcG63Xma1et2eW5PKbjVy6VtJNwqC6WwmUnkRvQkK23lttk7Yw80GMQ=;YL0qcqYm0LZr2MDCQeuNGA=="
 ---
 

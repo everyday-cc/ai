@@ -28,7 +28,7 @@ related:
   - title: "Revealed: Home Office secretly lobbied for facial recognition ‘spy’ company"
     excerpt: "Officials reflected policing minister’s enthusiasm to roll out controversial technology across the country, particularly in retail settings"
     publishedDateTime: 2023-09-02T16:03:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company?ref=biztoc.com"
+    webUrl: "https://www.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company?ref=upstract.com"
     ampWebUrl: "https://amp.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company"
     type: article

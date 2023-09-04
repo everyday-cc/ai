@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Tijani’s Artificial Intelligence strategy for nation-building"
-    excerpt: "\"This unforeseen announcement has sparked a wave of enthusiasm and intrigue among citizens and tech enthusiasts.\""
-    publishedDateTime: 2023-08-30T22:13:00Z
-    webUrl: "https://punchng.com/tijanis-artificial-intelligence-strategy-for-nation-building/"
-    ampWebUrl: "https://punchng.com/tijanis-artificial-intelligence-strategy-for-nation-building/?amp"
-    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/tijanis-artificial-intelligence-strategy-for-nation-building/?amp"
-    type: article
-    provider:
-      name: The Punch Newspapers
-      domain: punchng.com
-    quality: 59
-    images:
-      - url: "https://cdn.punchng.com/wp-content/uploads/2023/08/20210018/Bosun-Tijani.jpg"
-        width: 710
-        height: 451
-        isCached: true
 
 secured: "4EnsukmmU/C6/a44hUBBdK1Wf8vcVaLvQiw+5P4Xg/UA0BEHFZg++hfFDLT1tXGZEksB9uaCE9/Lfsns/ZWgx2FMa+ZmrcRJ2j6la8VA/3ceMCMiCVsA/m25H/Fei+QRC2G5aXEGbIfdzmL9OJgbDNqyeoD3k+zHydoR+llMBTd4sEfUeqisRC+skkc1yEQ9SK8ks47nmoLkOCT2TOsM48yJY2QOpPTDxoSaXDJYK6DkpBwDC9wkNxfgbIqmjmIXMp9eYi+JK7QSNOG0nWaGu28N17/4TJi6D3lgRIsAu8qYiPgYtM9wrXcBXCJsc7ndFNF2Siu2Qc0kz1fTwsxbabXt1PjkGOKhp79/NmkE5Evedbls4W+7ji4jlgypIm3aqITvyNIJvU/0sSruK1K5SnC4lo8ztjOPqAavXT0CY8SuZt6r+O9KOhTfkbitsUfy68ndszwky6HLqFTIYj/ya/SJKsyZpaDqz5hSA6iYXW7B7abqQV3w3fSUND/tD+DmsW891OREPOZlSpAQE3va4Q==;wJPUMfHzDCXMbQ2KwbNN9w=="
 ---

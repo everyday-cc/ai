@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/31/how-four
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/31/how-four-retail-basics-are-better-with-artificial-intelligence/"
 type: article
 quality: 62
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -35,20 +35,6 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?511604"
         width: 458
         height: 250
-        isCached: true
-  - title: "Build faster and higher with AI"
-    excerpt: "MEANT as a sly swipe at the inflated hype around artificial intelligence (AI), a billboard at a construction site in Antwerp, Belgium, read “Hey ChatGPT, finish this building.”"
-    publishedDateTime: 2023-08-31T00:52:00Z
-    webUrl: "https://www.thestar.com.my/news/focus/2023/08/31/build-faster-and-higher-with-ai"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/08/31/2259990.jpg"
-        width: 620
-        height: 439
         isCached: true
 
 secured: "+sR0LdxklGnfiAG0Ycggm+bArTSafXOEFYQVbZGwT1RBIeoV/9kT7BfFpnqrfEkqL4HIJ0SmroGyw/gnDFiOSH1f8UIR5epNw3j9NSvTuTgMJLlgzGs4KL7/GewcNuC8a5FTjBNHjijD81sn1c/kZ4rt+/s/CFu65RoLMt6Xl3MzQQbtRgJnIy+0U1Qgc4Om4tWJHb1EeSZS5fnUqgROFRpXhMXl4tvk4mdpxbFlFKzf6J/4mzpBZ+DTlSDdBvOZWjN3FahS7lI0tp9h6sZ1kMTriiN1qZ/P+ytcqZXQo2YLfeppIRb1oBdz5L9Ikc1NNDHu28RmnvhZII46aJ5h61P4Xs8rgXBTL2mJXwlhQltI00Ko7YnDy+q1NiAllGIacErxAbAz0QET8vFLjh/dN7dgkIj7L+HUHmbey7CUBlq6xIiEPRlHriSE3aMlmcS4fjchfqcyYFTuzxrwfPZIlLGrXGNDKhgYL/c4FbX9Rvw5I+4nYZY9Ad9iHouhjmmcDhCpXJlvFAPW2uUepasOcQ==;CV7AhxQn7rg3kXsK/g/hPQ=="

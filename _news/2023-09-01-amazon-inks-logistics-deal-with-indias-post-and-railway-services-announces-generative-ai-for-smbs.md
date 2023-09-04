@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/31/amazon-india-post-railways-generat
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/31/amazon-india-post-railways-generative-ai/amp/"
 type: article
 quality: 73
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-scaled.jpg"
         width: 2048
         height: 1152
+        isCached: true
+  - title: "Trellis Announces $15 Million Investment, With Plans to Launch Generative AI Offerings"
+    excerpt: "The state court legal research and analytics platform noted that it plans to leverage this funding round for its “next phase of growth” which will see new generative AI features and product releases."
+    publishedDateTime: 2023-08-31T16:25:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/08/31/trellis-announces-15-million-investment-with-plans-to-launch-generative-ai-offerings/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 31
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Trellis-logo-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
   - title: "With AI Startups At The Core, India To Host Maiden Global IndiaAI 2023 Summit In October"
     excerpt: "The Ministry of Electronics and Information Technology is all set to host the maiden edition of the Global IndiaAI 2023 summit in October."

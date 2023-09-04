@@ -24,64 +24,56 @@ images:
     isCached: true
 
 related:
-  - title: "5 Reasons Why You Should Bring AI To Your Data"
-    excerpt: "One thing that’s certain: the importance of data in the generative AI era. AI requires lots of high-quality data—and the emergence of generative AI has only reinforced this point. Unlocking generative AI’s full potential lies in an organization’s ability to use it alongside its own proprietary data."
-    publishedDateTime: 2023-08-30T21:33:00Z
-    webUrl: "https://www.forbes.com/sites/delltechnologies/2023/08/30/5-reasons-why-you-should-bring-ai-to-your-data/"
-    ampWebUrl: "https://www.forbes.com/sites/delltechnologies/2023/08/30/5-reasons-why-you-should-bring-ai-to-your-data/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/delltechnologies/2023/08/30/5-reasons-why-you-should-bring-ai-to-your-data/amp/"
+  - title: "Elon Musk's X will use public data to train AI models"
+    excerpt: "The artist formerly known as Twitter has been in some hot water this week after Bloomberg found that the social media site would start collecting biometric details, along with job and education data,"
+    publishedDateTime: 2023-09-01T19:24:00Z
+    webUrl: "https://www.engadget.com/elon-musks-x-will-use-public-data-to-train-ai-models-184924197.html"
+    ampWebUrl: "https://www.engadget.com/amp/elon-musks-x-will-use-public-data-to-train-ai-models-184924197.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/elon-musks-x-will-use-public-data-to-train-ai-models-184924197.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: Engadget
+      domain: engadget.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64efb13b9894ff252cdcb965/0x0.jpg?format=jpg&width=1200"
+      - url: "https://s.yimg.com/ny/api/res/1.2/00U4O1LtqDVNNIWes5FWNA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-09/1cb3ee20-48f7-11ee-95cf-0cef93b6a4d6"
         width: 1200
         height: 800
         isCached: true
-  - title: "7 Frameworks To Build Your AI Ethically"
-    excerpt: "Out of the lot, we have handpicked 7 ethical AI frameworks for developers to incorporate ethics into their technological innovations."
-    publishedDateTime: 2023-09-04T08:55:00Z
-    webUrl: "https://analyticsindiamag.com/7-frameworks-to-build-your-ai-ethically/"
+  - title: "X’s privacy policy confirms it will use public data to train AI models"
+    excerpt: "X's recently updated privacy policy informed its users it would now collect biometric data as well as users' job and education history, Bloomberg spotted"
+    publishedDateTime: 2023-09-01T17:35:00Z
+    webUrl: "https://techcrunch.com/2023/09/01/xs-privacy-policy-confirms-it-will-use-public-data-to-train-ai-models/"
+    ampWebUrl: "https://techcrunch.com/2023/09/01/xs-privacy-policy-confirms-it-will-use-public-data-to-train-ai-models/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/01/xs-privacy-policy-confirms-it-will-use-public-data-to-train-ai-models/amp/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/09/ai-frames-1.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-1.jpg?resize=1200,675"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "7 AI-powered technologies you should know about"
-    excerpt: "These artificial intelligence-powered technologies and innovations being developed and implemented at UC San Diego could lead to the next developments in the “AI revolution.”"
-    publishedDateTime: 2023-09-01T01:20:00Z
-    webUrl: "https://www.universityofcalifornia.edu/news/7-ai-powered-technologies-you-should-know-about"
+  - title: "Elon Musk says X will have voice and video calls"
+    excerpt: "SAN FRANCISCO >> Elon Musk said today that his social network X, formerly known as Twitter, will give users the ability to make voice and video calls on the platform. Musk, who has a history of making proclamations about coming features and policies that have not always come to fruition,"
+    publishedDateTime: 2023-08-31T18:30:00Z
+    webUrl: "https://www.staradvertiser.com/2023/08/31/breaking-news/elon-musk-says-x-will-have-voice-and-video-calls/"
     type: article
     provider:
-      name: University of California
-      domain: universityofcalifornia.edu
-    quality: 41
-    images:
-      - url: "https://www.universityofcalifornia.edu/sites/default/files/2023-08/CARMEN-robot-400.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Should artificial intelligence help you buy your next house?"
-    excerpt: "Should artificial intelligence help you make your biggest and riskiest financial transaction? Real estate lawyer Matt Mayo has some advice."
-    publishedDateTime: 2023-09-01T04:06:00Z
-    webUrl: "https://obj.ca/should-artificial-intelligence-help-you-buy-your-next-house/"
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 4
+  - title: "Elon Musk says X will have voice and video calls and updates privacy policy"
+    excerpt: "The company also updated its privacy policies that will allow for the collection of biometric data and employment history, among other information."
+    publishedDateTime: 2023-08-31T18:44:00Z
+    webUrl: "https://www.cumnockchronicle.com/news/national/23759979.elon-musk-says-x-will-voice-video-calls-updates-privacy-policy/"
     type: article
     provider:
-      name: obj
-      domain: obj.ca
-    quality: 39
-    images:
-      - url: "https://assets.obj.ca/2023/08/95hi8sEu-Untitled-design-3.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: cumnockchronicle.com
+      domain: cumnockchronicle.com
+    quality: 2
 
 secured: "+VGs7lmbkz6ybJSuf+ePqJqdTE0nTJm2En5kt+Y4BSAWaCpD8WDkZZ0b+bec7+NwekU/UKwdrXyqDfmp8zgKKW1BR98oBaK/kZQKz9XKcdVZ20lRBDwT/EsjqDndH3Fn8kToSZaxokaaLtxB3S45m3UHMqeFwHARjo6+WpudXVcOatUkvD0JaZ0d0w4264nCm3cEBWck4ohxnzvH7cRkDJiF96KtEMw+Oq8LQpsrn1vrly2nByqagLxPSEhdGl6Eo9H3hj9h7QF7f/wTb0wHlW/6AkvPutwT4dEJ5V4++OoMvXFX/eeFJEbJk9GKLhJSAYKxetHxs1brs8V5fcecG/7r/SDaP4fjedg4FeboOBDi/rCNU7hWElVia+3sLhpLDijO1zkBjDKgkAIfLDsizbjQ5987hU5pJs2kMS12EjZvq/KG9VMzUy4+/2Fz7rddZnysMtmJ6KvcQlu1xEVXyN8yrZNUCshFM3zJXnYgNA8Ile56xAxBYCqkNw9Gn90yxGXyDgLMbqMmPZCkTi0SMA==;o9mjk7+V/8HFENzhr05Dcw=="
 ---

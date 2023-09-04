@@ -24,36 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI startup AI21 Labs lands $155M at a $1.4B valuation"
-    excerpt: "AI21 Labs, a company competing against OpenAI and Anthropic, among other generative AI players, has raised $155 million in capital."
-    publishedDateTime: 2023-08-30T20:50:00Z
-    webUrl: "https://techcrunch.com/2023/08/30/generative-ai-startup-ai21-labs-lands-155m-at-a-1-4b-valuation/"
-    ampWebUrl: "https://techcrunch.com/2023/08/30/generative-ai-startup-ai21-labs-lands-155m-at-a-1-4b-valuation/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/30/generative-ai-startup-ai21-labs-lands-155m-at-a-1-4b-valuation/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1463459171.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "AI startup AI21 Labs valued at $1.4 bln after latest fund raise"
-    excerpt: "Israel-based AI startup AI21 Labs said on Tuesday it has raised $155 million in a Series C funding round which saw participation from technology heavyweights Alphabet's Google and Nvidia ."
-    publishedDateTime: 2023-08-30T21:08:00Z
-    webUrl: "https://www.reuters.com/technology/ai-startup-ai21-labs-valued-14-bln-after-latest-fund-raise-2023-08-30/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/GI4TRZOAL5KZXBHVKHEEOWFRYM.jpg"
-        width: 3608
-        height: 2401
-        isCached: true
   - title: "AI21 Labs raises $155M to accelerate generative AI for enterprises"
     excerpt: "Israel-based large language model leader AI21 Labs confirmed with VentureBeat that is has closed $155 million in series C funding."
     publishedDateTime: 2023-08-31T03:21:00Z
@@ -67,6 +37,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/08/Roei-Shor-Photography-AI21-labs-4-1.jpg?fit=750%2C500&#038;strip=all"
         width: 750
         height: 500
+        isCached: true
+  - title: "The Smart Enterprise: Making Generative AI Enterprise-Ready"
+    excerpt: "Yes, the opportunities for Generative AI (GenAI) are immense. Yes, it is transforming the world as we know it (and faster than most of us predicted). And yes, technology is getting smarter. However, the implications for GenAI,"
+    publishedDateTime: 2023-09-01T17:39:00Z
+    webUrl: "https://www.unite.ai/the-smart-enterprise-making-generative-ai-enterprise-ready/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2022/08/machinelearning-deployment-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "AI start-up AI21 Labs valued at $1.4bn after fresh funding"
     excerpt: "Backed by the likes of Google and Nvidia, Tel Aviv-based AI21 Labs raised $155m in a Series C round to meet growing demand for AI."
@@ -82,33 +66,19 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "AI startup AI21 Labs valued at $1.4 billion after latest fund raise"
-    excerpt: "Companies across the world, from banks to big tech, have doubled down on investments in artificial intelligence (AI) after ChatGPT, a generative AI chatbot by Microsoft-backed OpenAI took the world by storm in late 2022."
-    publishedDateTime: 2023-08-31T01:08:00Z
-    webUrl: "https://www.aol.com/news/ai-startup-ai21-labs-valued-220819589.html"
+  - title: "Floworks raises $1.5M in seed funding for its generative AI work assistant"
+    excerpt: "Floworks Technologies Inc., a startup with a chatbot designed to make knowledge workers more productive, today disclosed that it has raised $1.5 million in seed funding."
+    publishedDateTime: 2023-08-31T21:37:00Z
+    webUrl: "https://siliconangle.com/2023/08/31/floworks-raises-1-5m-seed-funding-generative-ai-work-assistant/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 35
     images:
-      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Trellis Announces $15 Million Investment, With Plans to Launch Generative AI Offerings"
-    excerpt: "The state court legal research and analytics platform noted that it plans to leverage this funding round for its “next phase of growth” which will see new generative AI features and product releases."
-    publishedDateTime: 2023-08-31T16:25:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/08/31/trellis-announces-15-million-investment-with-plans-to-launch-generative-ai-offerings/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 31
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Trellis-logo-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/Floworks.png"
+        width: 927
+        height: 522
         isCached: true
 
 secured: "TSEuQf/rK1f7QRciGoDsnzwTZJE59fAvm1MYZgEOjZ4YvjodpVdNGczkP2dQEsLOjECw6mLeWQGc6BZvVkPQ9WZKJvqgDc5ScQ9hF1y76zXbx2KXiZjaDGYhH+x5yJsq2AgzkRGG8pD0CbA+NAZMttFmgID0KOk5CJ3Z5ox4XhEZutak5hRqWLGKrwGoaUq1RTWDEZfOkIvx0o3Oo3MDywHoBqBVBUDczVGcDeUhTsThlKlOtt46zi7a6hgPc/lwxhuzonUG08vrImIHbRoc7znISl9omuJEb2LTLrYGJHlau9qniktGkCOzCr9vcD2t/VzSNKc9FJkbCWbg9KCuqT5lU/saL0JJ5PJ/UoQN1IdNQlOXooa6lM5pvGQycDub73/46mCr+eGrdn99AvpyuMHHFoNW01F+hTFVyrA0eKQQ0qqjjF+r/HToJf8Das2jgkH+pErTuj6qzcp1TNdMQXSfMHBmVXMneU9RbsgWTVilQTLZr7y2FOqALCBrhmGCweTjgZAfQa8n2a9MVGV6xg==;qYNQ9sku/npgA4nDXLoz9Q=="

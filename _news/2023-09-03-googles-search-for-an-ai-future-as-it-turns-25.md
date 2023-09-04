@@ -56,6 +56,20 @@ related:
         width: 1919
         height: 1080
         isCached: true
+  - title: "7 AI-powered technologies you should know about"
+    excerpt: "These artificial intelligence-powered technologies and innovations being developed and implemented at UC San Diego could lead to the next developments in the “AI revolution.”"
+    publishedDateTime: 2023-09-01T01:20:00Z
+    webUrl: "https://www.universityofcalifornia.edu/news/7-ai-powered-technologies-you-should-know-about"
+    type: article
+    provider:
+      name: University of California
+      domain: universityofcalifornia.edu
+    quality: 41
+    images:
+      - url: "https://www.universityofcalifornia.edu/sites/default/files/2023-08/CARMEN-robot-400.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Why Google Wants You to Smell This Article with AI"
     excerpt: "“Your phone can easily share images and sound,” Joel Mainland, an olfactory researcher at the Monell Chemical Senses Center in Philadelphia, Pennsylvania, told The Daily Beast. “You can archive them and look at them over and over again without destroying them—but you can’t really do that with smells.”"
     publishedDateTime: 2023-08-31T18:34:00Z

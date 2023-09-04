@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Trellis Announces $15 Million Investment, With Plans to Launch Generative AI Offerings"
+    excerpt: "The state court legal research and analytics platform noted that it plans to leverage this funding round for its “next phase of growth” which will see new generative AI features and product releases."
+    publishedDateTime: 2023-08-31T16:25:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/08/31/trellis-announces-15-million-investment-with-plans-to-launch-generative-ai-offerings/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 31
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Trellis-logo-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "With AI Startups At The Core, India To Host Maiden Global IndiaAI 2023 Summit In October"
     excerpt: "The Ministry of Electronics and Information Technology is all set to host the maiden edition of the Global IndiaAI 2023 summit in October."
     publishedDateTime: 2023-08-31T01:30:00Z

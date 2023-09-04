@@ -7,7 +7,7 @@ originalUrl: "https://brandequity.economictimes.indiatimes.com/news/marketing/ma
 webUrl: "https://brandequity.economictimes.indiatimes.com/news/marketing/martequity-summit-23-building-customer-trust-in-fintech/103287205"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "3 Up-and-Coming Fintech Stocks to Put on Your Must-Buy List"
+    excerpt: "And as artificial intelligence (AI) continues to expand, it’s time to look at fintech stocks with huge potential. Similar to the AI sector, there is no shortage of names in the fintech space. However, some of these names are flying under the radar even ..."
+    publishedDateTime: 2023-09-01T04:03:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-fintech-stocks-with-huge-potential-for-growth-1032598105"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
 
 secured: "IY271oVKCZIj0CBiMvUBazG1+aUUdTNwKr0o/zMJ81yb2So6lvlZK50c23RD+Be7bE41ooEXJwvRp+yemGlx+uBant8/54pzgTDzbcL86W1fKNR4BnAbVKofH1YZzZaUnC0XJg11MsxcCiWxQQ0S+cCyWnrFVoPUk5110JuAAvxdctpBW0G9GuwGvD9+LUBiy+LkCnIfwTmix0xEJOtONYpRwGMxX+1GrISrVF4TyK/UYi4nUXtE3oFmvg4nx71e49KIlrH5qNcLon5TQ/QyT7SwDIh+tw8a5/tvqzDpjbDcrpGYqvikpYHsScCBl6YAxIx5mrjd/QH8/MF41EBfUXldutCIb/BzcTeXzuNm6pnTprz71+l6QCuMv4afxGzmYUhF6I3gjJ7G4A26StpKd9WIVUDGRnayzYZh5e4BNKMrBthh85CxhDxU4PBaF24Ho6ezFlRnjPYLcn2h1IKoWd5F6F0VYazk1NrcosGnwgFHr3zRuZe+yUGJRhvdsRzY+2sNMadZZeAa6vTbGFR7KA==;cQnBiyTA5qsbCRUM0J9iCw=="
 ---

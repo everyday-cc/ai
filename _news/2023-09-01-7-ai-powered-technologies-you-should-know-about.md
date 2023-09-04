@@ -26,64 +26,61 @@ images:
     isCached: true
 
 related:
-  - title: "5 Reasons Why You Should Bring AI To Your Data"
-    excerpt: "One thing that’s certain: the importance of data in the generative AI era. AI requires lots of high-quality data—and the emergence of generative AI has only reinforced this point. Unlocking generative AI’s full potential lies in an organization’s ability to use it alongside its own proprietary data."
-    publishedDateTime: 2023-08-30T21:33:00Z
-    webUrl: "https://www.forbes.com/sites/delltechnologies/2023/08/30/5-reasons-why-you-should-bring-ai-to-your-data/"
-    ampWebUrl: "https://www.forbes.com/sites/delltechnologies/2023/08/30/5-reasons-why-you-should-bring-ai-to-your-data/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/delltechnologies/2023/08/30/5-reasons-why-you-should-bring-ai-to-your-data/amp/"
+  - title: "Google's AI-powered search summary now points you to its online sources"
+    excerpt: "The experimental AI-based search tool will lead you directly to the website sources it used to generate the summary."
+    publishedDateTime: 2023-09-01T07:35:00Z
+    webUrl: "https://www.zdnet.com/article/googles-ai-powered-search-summary-now-points-you-to-its-online-sources/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/googles-ai-powered-search-summary-now-points-you-to-its-online-sources/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-ai-powered-search-summary-now-points-you-to-its-online-sources/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: ZDNet
+      domain: zdnet.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64efb13b9894ff252cdcb965/0x0.jpg?format=jpg&width=1200"
+      - url: "https://www.zdnet.com/a/img/resize/ee4cdf1aeacfba197204895b43393fc35c119d9e/2023/08/31/b154fec8-34c8-4326-9de9-ad59b7c47478/gettyimages-1609716922.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "7 Frameworks To Build Your AI Ethically"
-    excerpt: "Out of the lot, we have handpicked 7 ethical AI frameworks for developers to incorporate ethics into their technological innovations."
-    publishedDateTime: 2023-09-04T08:55:00Z
-    webUrl: "https://analyticsindiamag.com/7-frameworks-to-build-your-ai-ethically/"
+  - title: "Google finally launches AI-powered Search outside US"
+    excerpt: "Google's SGE generative AI technology for Search has only been available in the US, but that is changing today."
+    publishedDateTime: 2023-08-31T00:30:00Z
+    webUrl: "https://www.androidauthority.com/google-sge-launch-outside-us-3359338/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 67
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/09/ai-frames-1.jpg"
-        width: 1920
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/06/google-search-labs-2.jpg"
+        width: 1919
         height: 1080
         isCached: true
-  - title: "Should artificial intelligence help you buy your next house?"
-    excerpt: "Should artificial intelligence help you make your biggest and riskiest financial transaction? Real estate lawyer Matt Mayo has some advice."
-    publishedDateTime: 2023-09-01T04:06:00Z
-    webUrl: "https://obj.ca/should-artificial-intelligence-help-you-buy-your-next-house/"
+  - title: "Google's search for an AI future as it turns 25"
+    excerpt: "Google turns 25 this month (I'll have a few more candles on my cake) - and finds itself in a tech landscape that has changed dramatically since founders Larry Page and Sergey Brin started it in 1998."
+    publishedDateTime: 2023-09-02T23:41:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-66659361?at_campaign=Social_Flow&at_campaign_type=owned&at_bbc_team=editorial&at_link_origin=BBC_Scotland_News&at_format=link&at_link_id=FC87641C-4A43-11EE-9E4C-2787AD7C7D13&at_link_type=web_link&at_ptr_name=facebook_page&at_medium=social"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-66659361.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-66659361.amp"
     type: article
     provider:
-      name: obj
-      domain: obj.ca
-    quality: 39
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
     images:
-      - url: "https://assets.obj.ca/2023/08/95hi8sEu-Untitled-design-3.jpg"
-        width: 1280
-        height: 720
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/68DF/production/_130974862_gettyimages-1637958839.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "How to stop Meta from using your data to train AI"
-    excerpt: "Meta is betting big on AI, just like it tried to bet big on the Metaverse all those months ago. This means the company will use data that it has scraped and received from outside sources to help train its AI."
-    publishedDateTime: 2023-09-02T18:02:00Z
-    webUrl: "https://bgr.com/tech/how-to-stop-meta-from-using-your-data-to-train-ai/"
+  - title: "Why Google Wants You to Smell This Article with AI"
+    excerpt: "“Your phone can easily share images and sound,” Joel Mainland, an olfactory researcher at the Monell Chemical Senses Center in Philadelphia, Pennsylvania, told The Daily Beast. “You can archive them and look at them over and over again without destroying them—but you can’t really do that with smells.”"
+    publishedDateTime: 2023-08-31T18:34:00Z
+    webUrl: "https://www.thedailybeast.com/a-google-startup-made-an-ai-that-describes-smells-better-than-humans"
     type: article
     provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/02/Meta-Sign.jpg?quality=82&strip=all"
-        width: 2584
-        height: 1672
-        isCached: true
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 17
 
 secured: "gFMY8vswqZOj4Jc7ZnfGqs9qQUA5Z6+U1N3OxI5F0N+Qd7yesfgHnwofeN/3DEs9tlaKXWFEOtu6t+qyRONz8bU33hx+MSoyhpjgJEqgAnvr9GJoj6lSoGxkIsmbZd9QAmFxyGpr9tvq2RGeLzLiCad9/LcaXWb43zs5BYl0ipkxbe0EIJ54+PUYYT1YPmQ6r6N5eca84LpoXHLHvF4JptxOQVfJdoXzrLS2OZ6obFMgidNhW5TQ2LAj4/tzONi/C5z22vmpfiGqYdGY0kexfl1wCZbAEQi+QvAYDL0Mx93OXyBfm1IUfFc5LGA/elAlKtOTF3vFN0Y8vCBCFRJCikQDrId3cWhkJHfpVh9i7WULDC7YjZ5yz5eYjZhEVKqRF2xGI+2ECqBi3KzdjxjqjRRCygxrbgC6EXOl+USsQyDXIJa6eVvVM0CPZkq9JpFFauvTnyHWK92Hvgv6BOe11La8Pfqq7j+/vnTZxucGjY4MlkXhk8OYSi5RKO4XMHgwr+miiFaXtETxCa7c9pStsQ==;WXV2r9v572Vc31VnKrsn1w=="
 ---

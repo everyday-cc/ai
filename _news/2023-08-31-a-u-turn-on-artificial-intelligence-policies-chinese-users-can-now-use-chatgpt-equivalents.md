@@ -7,7 +7,7 @@ originalUrl: "https://techround.co.uk/tech/a-u-turn-on-artificial-intelligence-p
 webUrl: "https://techround.co.uk/tech/a-u-turn-on-artificial-intelligence-policies-chinese-users-can-now-use-chatgpt-equivalents/"
 type: article
 quality: 7
-heat: -1
+heat: 7
 published: false
 
 provider:
@@ -16,24 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "How to use Claude AI (and how it's different from ChatGPT)"
-    excerpt: "The Claude AI chatbot is trained on the latest real-time data and is accessible through Slack. Here's what else you need to know."
-    publishedDateTime: 2023-08-30T20:31:00Z
-    webUrl: "https://www.zdnet.com/article/how-to-use-claude-ai-and-how-its-different-from-chatgpt/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-use-claude-ai-and-how-its-different-from-chatgpt/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-use-claude-ai-and-how-its-different-from-chatgpt/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/be7b18f7d66f3a2675ca79cd4a5948999b093312/2023/08/30/950b5064-6d1b-4dfe-a250-10df6189607c/silo-gettyimages-1348371250.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "Y5lgcxScBuQLTj5MBQMW4q5ME2u+YPymmL7nv0wsgBHRvhmO/hLoLc1yvdcIIZehR6QBvEaa25vqSQ6B1CWFE7bteFaJCZS7TpsZGm8Qlow9PfIlMe2/YRuwm3ADk1JBh8dQtEV4EAXoHwvk2Xtheo93A+sbIu88t2T5e9SeRk3mow4uzeK3VqK2TyvGH6fNPJ8fBJT1pfbKu2xvLdQZfA0vi+6m8rVTMj2h4ab2zdi3y12CojyxrlncSH5AUw4qQdxKI99yyGygFFMoNXzeJ7znU5Kyr5DnOD/aiQ8tz3UUQqfWfX+ieVm12UNHkRLqJyHnacN4qD8tF+tXS0z6+dSlqcWzahxFkqQReXeVMm70nEPtS3o4XMvYd+njhzfXYc3l1TpjeM8wJ3issxJz9P0OgwqaY92RVhGYSOO9VI7W5lASRI2O0UA8Wd/jldKviz3xqthexpofhWdL1eeQhdW8JFnxxsAoNkdSfLKDepDue+ISO1upDKQNV6XWNwY5fpHUUiCxvndb1UBNWIV2/g==;0igA4Q3WzLxftLi6ZVlr3Q=="
 ---

@@ -48,22 +48,6 @@ related:
         width: 1300
         height: 541
         isCached: true
-  - title: "Everyone wants responsible AI, but few people are doing anything about it"
-    excerpt: "Also: Five ways to use AI responsibly The results are from a survey based on the views of 500 business leaders released by technology company Conversica, which says: \"A resounding message emerges from the survey: a majority of respondents recognize the paramount importance of well-defined guidelines for the responsible use of AI within companies,"
-    publishedDateTime: 2023-08-30T20:10:00Z
-    webUrl: "https://www.zdnet.com/google-amp/article/everyone-wants-responsible-ai-but-few-people-are-doing-anything-about-it/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/everyone-wants-responsible-ai-but-few-people-are-doing-anything-about-it/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/everyone-wants-responsible-ai-but-few-people-are-doing-anything-about-it/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 88
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/9e805d608ad3b4d58a1b92fa103bf79e997db135/2023/08/28/f756a27d-cfda-41d2-be72-09a659962fdc/gettyimages-1461110089.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Upping Your Prompt Engineering Superpowers Via Target-Your-Response Techniques When Using Generative AI"
     excerpt: "A vital technique for prompt engineering entails thinking ahead and telling generative AI what kind of response you are expecting to get. Here is the insider scoop."
     publishedDateTime: 2023-09-04T11:00:00Z
@@ -74,7 +58,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 73
+    quality: 75
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64f54e68e4547e11b1b0157e/0x0.jpg?format=jpg&crop=2510,1675,x22,y0,safe&width=1200"
         width: 1200
@@ -198,15 +182,6 @@ related:
         width: 1600
         height: 840
         isCached: true
-  - title: "Google DeepMind Tests Watermarking AI-Generated Images"
-    excerpt: "There is no universally agreed-upon approach to watermarking AI-generated images. DeepMind says the goal is to support SynthAI across a range of Google products and services, which could help move toward making it a standard. There are also plans to make SynthAI available to third parties for use in other generative AI models."
-    publishedDateTime: 2023-08-30T19:37:00Z
-    webUrl: "https://www.extremetech.com/extreme/google-deepmind-tests-watermarking-ai-generated-images"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 34
   - title: "Acceptable-use policies for generative artificial intelligence"
     excerpt: "The program is possibly the most well-known example of generative AI, an artificial intelligence technology that identifies patterns in large quantities in training data and then generates original content – text,"
     publishedDateTime: 2023-09-01T10:00:00Z
@@ -217,6 +192,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "dwNY6Dz4rLA2s9XiP+joWT8cor/tYpqTBAVUSIqNWYVn1Ilr7aLx7BUW4s4D1uTE1EY0JVpJTXSqD7/wXobg1sLQWgM1TlzUG0dhXIjOWbPrJw2K10lQP4sa9FdDnAmdume3KHU0WpHUibzExbPm2LrddS+C3UtNUJ7Q9ViUVqoy9pVTmS3wOAH8qAT34EN3MybVZz5gixP7pCW7cpcawSvs5httqZHGJywjDg78jO+2rHGwYJ3azf33hnInSSAIruZt2cmklijstZ3fmwfGW83SNTqAQOxDT7IMgAM/rZO9SYhP19GQuZ7ITPRmn9x+4YsiPk0kkugOoCFGFslGaEitsHyQ2lNuyTZiX2pv6js=;F2plFtBJJyLAX+US5x5+Og=="
+secured: "zBKSXFmnBBxehH7oTqzQJkUw8Bi6maYWLNnE+E9iDX6rGR68rx+CT3kzm5yvLb85fjAKoBiYdBiQPJrDp5GIcVjK3RCcMbP2W5PmhDxDrMmUSOXWO75KDGRTYgH6PxrfD4Kia4lxbOKG+CQ1ImBfoWFMwJEpOlcZc2Yomgz0SRouflevOg4FMq4Iy8BlUtD5UWGC2xJF+/baACeJlU9w2x8630oH8NEK5sp8Ie2s3h/lKGfwXNyieABtFblioaIdgGcjljJuhExcSWSKbpMP8q8BuVUSNGj5iMa97o/2I5m3HGVv3ZtWClXeBcUbA6OjIOLX0J5HHc+1cd0cxnd0mJCQFgCArEwhi9X28zUsqebyG3Vkuz9gcRQni0RxTU3vxb72urETnIFsFGIcSY6AOYbb4zWT8Nm2GCAlI9NAFbZUoVrAjJIX/Fj1XNC4P5v1S8mVTXvmHvXiMV6dWnYyDnsm+dsnmX7DiQDFzGSjwqka1gd1yIqNgrZUjlf+LYbHUFJfCcdwi/SUAYAatC4Aug==;/G6AJBti1ERTmrQ/TuGoJA=="
 ---
 

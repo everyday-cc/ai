@@ -7,7 +7,7 @@ originalUrl: "https://ukranews.com/en/news/953679-defense-ministry-allows-saker-
 webUrl: "https://ukranews.com/en/news/953679-defense-ministry-allows-saker-scout-drone-with-artificial-intelligence-to-be-used-in-afu"
 type: article
 quality: 8
-heat: 8
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "AFU Start Using Ukrainian Drone With Artificial Intelligence"
+    excerpt: "The main characteristics were named. The Defence Ministry has allowed the AFU to use the Ukrainian-made SAKER SCOUT drone with artificial intelligence. This is reported by the Ministry of Defence of Ukraine. \"Software SAKER, built on artificial ..."
+    publishedDateTime: 2023-09-04T12:23:00Z
+    webUrl: "https://charter97.org/en/news/2023/9/4/562399/"
+    type: article
+    provider:
+      name: Charter97.org
+      domain: charter97.org
+    quality: 32
 
 secured: "w1Hd4nX64oPePCDu80LJJLdREAwYzQw/0sS0cHz6tsmKadQBUXVKffoX1EA86MT3BJRvdiL5aP8H+xQ92YnrJPtY4cRb1M1n/5/W7YZ8VS/d9b0OMxAESk3hwejSJb+U3GsYjT4NgR/+mpNGIlW3UADu1UVdSLaaYjPaLvBWKwqWPvkdqOj06xVBPCQZQblrVObWyQtLhQ4MwmCR0LyjpZD2vBl5OAvxvhYaFNuryeegSfRkGU/uM1rVDN9b16yi+KmVmopfQwMR4+7NuQlrQzDgyJ97WuQEiAHskPt4wIjGUeBqxRg6eLppRvbjZ+bGYG679NUoCGFSN+GYoRl7zBq98lymmvS6hlOTddBTTcjRzfiGVwMyJp4hi1c178s/FjyCH2PvZvZ97a27erFPDoUypbt04+UoHcodCy+IaC16YTw2MXhV7olK0k37uRlNgXgpVEm0ulKtepHTK+TYzf9era6Dq+WV6Cf3caB2NhxRnhsfJFMLDr9qYWtLcn0cr7VKncv5/FzrbogeJHMw6w==;qOtwT8xhibvFETZvZIsoVw=="
 ---

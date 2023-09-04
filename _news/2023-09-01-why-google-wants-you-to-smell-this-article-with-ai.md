@@ -64,6 +64,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "7 AI-powered technologies you should know about"
+    excerpt: "These artificial intelligence-powered technologies and innovations being developed and implemented at UC San Diego could lead to the next developments in the “AI revolution.”"
+    publishedDateTime: 2023-09-01T01:20:00Z
+    webUrl: "https://www.universityofcalifornia.edu/news/7-ai-powered-technologies-you-should-know-about"
+    type: article
+    provider:
+      name: University of California
+      domain: universityofcalifornia.edu
+    quality: 41
+    images:
+      - url: "https://www.universityofcalifornia.edu/sites/default/files/2023-08/CARMEN-robot-400.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "YAEVlvaK5uLm0dVPF5fhmB8TwLQP3motyMfBlgWGG1qbJMurPXgSFljfDwJ3V0V0OMJwzxobCUQCdgzYf7sF0dJNyqd+o/uuq9MT2aJxUT/kAQZZWJLnhz54VVDwZAId6Lks/alQPDRTjlkZPyUmdhGkvF20FecvYEltIzfAIyakH4JP9zPvdVXtbNuE8mXEIinKw/ZQiP6WwOIaeS8OTICL5caJ0kU7yroXK9dSxrcu13OTUCCV8CPkE4gd8WH6bS25NeQtS12c2DKAjIykd0AVjuNxv9eoXOHz3hxk0HYpMNVAEBRILx2+Xmo5fDAVRmJ6q1Cle3odMWwPaX2zPR63C+akhrj7IKJBzmaTsVO9n9vku18VjuBvbc1CO2rpX1aXbMhGsi4PggTRF6Ky4xa/3Rb+Tx+uvhrjxtRYJuaGISC/Qdr4minOIsgJixf5dqmzEGD9mUcJj5ZZMZXOM0AkcgXXzsvDChDK8/9cOITNE2F2P0AIY1O/VR3pft43yosvGKLCPbYofvCX6EmCZw==;KzNDXTs2Ni0OhP27gC+44w=="
 ---

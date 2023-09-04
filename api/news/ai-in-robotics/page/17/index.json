@@ -2,6 +2,103 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2023-05-02-floki-co-founder-joins-new-ai-crypto-token-based-on-elons-robot.md",
+      "title": "Floki Co-Founder Joins New AI Crypto Token, based on Elon’s Robot",
+      "excerpt": "Floki co-founder joins an innovative AI-based crypto token project, inspired by Elon Musk's advanced robotics. The collaboration aims to",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/floki-co-founder-joins-new-ai-crypto-token-based-on-elon-s-robot-1032279763",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/floki-co-founder-joins-new-ai-crypto-token-based-on-elon-s-robot-1032279763",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/mmstudio-images/gallery/tfZqZ41Q6rZthU8sCylUKUm5RM13/1682908073837-0.jpg",
+          "width": 336,
+          "height": 334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-02T00:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-ai-robotics-experts-in-demand-clerical-jobs-losing-shine.md",
+      "title": "‘AI, robotics experts in demand; clerical jobs losing shine’",
+      "excerpt": "ISLAMABAD: The decision about what career to opt for is often a tough choice, but knowing what jobs are in demand and how the future markets will look like could help making an informed decision. According to a new report by the World Economic Forum (WEF) artificial learning and machine learning specialists,",
+      "sourceUrl": null,
+      "webUrl": "https://www.dawn.com/news/1750426/ai-robotics-experts-in-demand-clerical-jobs-losing-shine",
+      "originalUrl": "https://www.dawn.com/news/1750426/ai-robotics-experts-in-demand-clerical-jobs-losing-shine",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dawn.com/large/2023/05/0208295449a04c8.png?r=083100",
+          "width": 798,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T18:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dawn",
+        "domain": "dawn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-05-02-deere-nysede-an-under-the-radar-ai-and-robotics-stock.md",
       "title": "Deere (NYSE:DE): An Under-the-Radar AI and Robotics Stock",
       "excerpt": "Deere has also been busy acquiring a number of AI and robotic startups in recent years ... to smaller deals like its 2021 acquisition of Silicon Valley AgTech startup Bear Flag Robotics and its March 2023 acquisition of SparkAI. Despite these ...",
@@ -1234,83 +1331,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-german-manufacturers-hope-for-ai-boost-in-factories.md",
-      "title": "German manufacturers hope for AI boost in factories",
-      "excerpt": "operates a robot developed in cooperation between HPE and German AI startup Aleph Alpha. Photo: Axel Heimken/AFP. Manufacturers are hoping for the artificial intelligence revolution to reach their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thelocal.de/20230423/manufacturers-hope-for-ai-boost-in-factories",
-      "originalUrl": "https://www.thelocal.de/20230423/manufacturers-hope-for-ai-boost-in-factories",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-24T02:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Local",
-        "domain": "thelocal.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-ai-revolution-manufacturers-hope-for-artificial-intelligence-boost-in-factories.md",
-      "title": "AI revolution: Manufacturers hope for artificial intelligence boost in factories",
-      "excerpt": "Manufacturers are hoping for the artificial intelligence revolution to reach their factories, envisaging robots being used to repair complex machinery. There has been an explosion of interest in uses of AI across many sectors since the launch last year of chatbot ChatGPT from US startup OpenAI.",
-      "sourceUrl": null,
-      "webUrl": "https://tech.hindustantimes.com/tech/news/ai-revolution-manufacturers-hope-for-artificial-intelligence-boost-in-factories-71682272340109.html",
-      "originalUrl": "https://tech.hindustantimes.com/tech/news/ai-revolution-manufacturers-hope-for-artificial-intelligence-boost-in-factories-71682272340109.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/tech/img/2023/04/24/1600x900/AI-COMPANIES--2_1681557402437_1681557402437_1682312254516.JPG",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/ai-revolution-manufacturers-hope-for-artificial-intelligence-boost-in-factories-71682272340109.html",
-      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-revolution-manufacturers-hope-for-artificial-intelligence-boost-in-factories-71682272340109.html",
-      "publishedDateTime": "2023-04-23T22:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times Tech",
-        "domain": "hindustantimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

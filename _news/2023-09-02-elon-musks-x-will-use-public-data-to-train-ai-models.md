@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/elon-musks-x-will-use-public-data-to-tr
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/elon-musks-x-will-use-public-data-to-train-ai-models-184924197.html"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-1.jpg?resize=1200,675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "How to stop Meta from using your data to train AI"
+    excerpt: "Meta is betting big on AI, just like it tried to bet big on the Metaverse all those months ago. This means the company will use data that it has scraped and received from outside sources to help train its AI."
+    publishedDateTime: 2023-09-02T18:02:00Z
+    webUrl: "https://bgr.com/tech/how-to-stop-meta-from-using-your-data-to-train-ai/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/02/Meta-Sign.jpg?quality=82&strip=all"
+        width: 2584
+        height: 1672
         isCached: true
   - title: "Elon Musk says X will have voice and video calls"
     excerpt: "SAN FRANCISCO >> Elon Musk said today that his social network X, formerly known as Twitter, will give users the ability to make voice and video calls on the platform. Musk, who has a history of making proclamations about coming features and policies that have not always come to fruition,"

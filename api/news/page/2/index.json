@@ -2,6 +2,108 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-02-techcrunch-roundup-finops-for-all-15-investors-who-are-taking-pitches-steve-blank-on-ai.md",
+      "title": "TechCrunch+ Roundup: FinOps for all, 15 investors who are taking pitches, Steve Blank on AI",
+      "excerpt": "Known as the progenitor of the lean startup movement, entrepreneur/educator Steve Blank says generative AI is far more than a typical hype cycle. Thanks to the “dumb money” investors are slapping down and the tech’s labor-saving potential ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/09/01/techcrunch-roundup-finops-for-all-15-investors-who-are-taking-pitches-steve-blank-on-ai/",
+      "originalUrl": "https://techcrunch.com/2023/09/01/techcrunch-roundup-finops-for-all-15-investors-who-are-taking-pitches-steve-blank-on-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1608618399.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/09/01/techcrunch-roundup-finops-for-all-15-investors-who-are-taking-pitches-steve-blank-on-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/01/techcrunch-roundup-finops-for-all-15-investors-who-are-taking-pitches-steve-blank-on-ai/amp/",
+      "publishedDateTime": "2023-09-01T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-02-the-problem-with-intuits-ai-strategy.md",
+      "title": "The Problem With Intuit's AI Strategy",
+      "excerpt": "Intuit's AI strategy is fine for Intuit. But QuickBooks customers need to know how AI will solve their problems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/quickerbettertech/2023/09/01/the-problem-with-intuits-ai-strategy/",
+      "originalUrl": "https://www.forbes.com/sites/quickerbettertech/2023/09/01/the-problem-with-intuits-ai-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64f1c75d5647e288b55d6d56/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/quickerbettertech/2023/09/01/the-problem-with-intuits-ai-strategy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2023/09/01/the-problem-with-intuits-ai-strategy/amp/",
+      "publishedDateTime": "2023-09-01T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-01-elevating-the-generative-ai-experience-introducing-streaming-support-in-amazon-sagemaker-hosting.md",
       "title": "Elevating the generative AI experience: Introducing streaming support in Amazon SageMaker hosting",
       "excerpt": "We’re excited to announce the availability of response streaming through Amazon SageMaker real-time inference. Now you can continuously stream inference responses back to the client when using SageMaker real-time inference to help you build interactive experiences for generative AI applications such",
@@ -241,6 +343,49 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-01-brain-inspired-learning-algorithm-realizes-metaplasticity-in-artificial-and-spiking-neural-networks.md",
+      "title": "Brain-inspired learning algorithm realizes metaplasticity in artificial and spiking neural networks",
+      "excerpt": "Catastrophic forgetting, an innate issue with backpropagation learning algorithms, is a challenging problem in artificial and spiking neural network (ANN and SNN) research.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-09-brain-inspired-algorithm-metaplasticity-artificial-spiking.html",
+      "originalUrl": "https://techxplore.com/news/2023-09-brain-inspired-algorithm-metaplasticity-artificial-spiking.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/brain-inspired-learnin-1.jpg",
+          "width": 1271,
+          "height": 842,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-09-brain-inspired-algorithm-metaplasticity-artificial-spiking.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-brain-inspired-algorithm-metaplasticity-artificial-spiking.amp",
+      "publishedDateTime": "2023-09-01T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -543,6 +688,50 @@
       ]
     },
     {
+      "path": "_news/2023-09-01-us-denies-it-had-blocked-ai-chip-sales-to-some-middle-eastern-countries.md",
+      "title": "US denies it had 'blocked' AI chip sales to some Middle Eastern countries",
+      "excerpt": "The US Commerce Department was quick to distance itself from the reports — but it did not directly address imposing license restrictions on certain types of chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.al-monitor.com/originals/2023/09/us-denies-it-had-blocked-ai-chip-sales-some-middle-eastern-countries",
+      "originalUrl": "https://www.al-monitor.com/originals/2023/09/us-denies-it-had-blocked-ai-chip-sales-some-middle-eastern-countries",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2023-09/GettyImages-1258278958.jpg?h=9eb0d413&itok=9rMFKq-S",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-01T03:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al-Monitor",
+        "domain": "al-monitor.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-09-01-this-little-known-software-maker-can-rally-nearly-30-as-it-monetizes-ai-bank-of-america-says.md",
       "title": "This little-known software maker can rally nearly 30% as it monetizes AI, Bank of America says",
       "excerpt": "This under-the-radar software name looks well-situated to capitalize on the generative AI craze overtaking Wall Street, according to Bank of America.",
@@ -697,7 +886,7 @@
       "originalUrl": "https://www.zdnet.com/article/googles-ai-powered-search-summary-now-points-you-to-its-online-sources/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -736,49 +925,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-big-brother-is-watching-uk-police-to-increase-use-of-ai-facial-recognition-despite-inaccuracies.md",
-      "title": "Big Brother Is Watching: UK police to increase use of AI facial recognition despite inaccuracies",
-      "excerpt": "The UK government wants the police to use AI-based facial recognition systems more than they currently do. However, activists, AI experts and tech scholars have repeatedly warned that AI Facial Recognition doesn't work,",
-      "sourceUrl": null,
-      "webUrl": "https://www.firstpost.com/tech/news-analysis/big-brother-is-watching-uk-police-to-increase-use-of-ai-facial-recognition-despite-inaccuracies-13065232.html",
-      "originalUrl": "https://www.firstpost.com/tech/news-analysis/big-brother-is-watching-uk-police-to-increase-use-of-ai-facial-recognition-despite-inaccuracies-13065232.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.firstpost.com/wp-content/uploads/2023/09/Big-Brother-Is-Watching-UK-police-to-increase-use-of-AI-facial-recognition-despite-inaccuracies-.jpg",
-          "width": 640,
-          "height": 362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.firstpost.com/tech/news-analysis/big-brother-is-watching-uk-police-to-increase-use-of-ai-facial-recognition-despite-inaccuracies-13065232.html/amp",
-      "cdnAmpWebUrl": "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/big-brother-is-watching-uk-police-to-increase-use-of-ai-facial-recognition-despite-inaccuracies-13065232.html/amp",
-      "publishedDateTime": "2023-09-01T00:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Firstpost",
-        "domain": "firstpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
@@ -936,6 +1082,51 @@
       ]
     },
     {
+      "path": "_news/2023-09-01-the-3-most-promising-ai-stocks-to-own-now.md",
+      "title": "The 3 Most Promising AI Stocks to Own Now",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips While artificial intelligence may be all the rage, investors seeking the top",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/the-3-most-promising-ai-stocks-to-own-now-1032597962",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-3-most-promising-ai-stocks-to-own-now-1032597962",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-31T15:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "AI in Robotics",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-09-01-visual-artists-fight-back-against-artificial-intelligence-companies-for-repurposing-their-work.md",
       "title": "Visual artists fight back against artificial intelligence companies for repurposing their work",
       "excerpt": "The lawsuit may serve as an early bellwether of how hard it will be for all kinds of creators to stop AI developers from profiting off their work.",
@@ -1025,212 +1216,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-ai-start-up-investments-bucking-venture-capital-decline-trends.md",
-      "title": "AI Start-Up Investments Bucking Venture Capital Decline Trends",
-      "excerpt": "This article briefly discusses the rate of growth of the AI Startup market in the USA, with recent stats from Crunchbase.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/08/31/ai-start-up-investments-bucking-venture-capital-decline-trends/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/08/31/ai-start-up-investments-bucking-venture-capital-decline-trends/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64f10ab4e75967af225d6d54/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 775,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/08/31/ai-start-up-investments-bucking-venture-capital-decline-trends/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/08/31/ai-start-up-investments-bucking-venture-capital-decline-trends/amp/",
-      "publishedDateTime": "2023-08-31T14:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-no-ticket-no-phone-no-line-mlb-testing-facial-recognition-entry-to-ballparks.md",
-      "title": "No ticket, no phone, no line: MLB testing facial-recognition entry to ballparks",
-      "excerpt": "Major League Baseball is testing facial authentication-based entry that would allow ticketed fans to walk directly into stadiums — a convenient new",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/no-ticket-no-phone-no-line-mlb-testing-facial-recognition-entry-to-ballparks-bc22d943",
-      "originalUrl": "https://www.marketwatch.com/story/no-ticket-no-phone-no-line-mlb-testing-facial-recognition-entry-to-ballparks-bc22d943",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-845561/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/no-ticket-no-phone-no-line-mlb-testing-facial-recognition-entry-to-ballparks-bc22d943",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/no-ticket-no-phone-no-line-mlb-testing-facial-recognition-entry-to-ballparks-bc22d943",
-      "publishedDateTime": "2023-08-31T14:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-startup-superframe-raises-5-million-to-simplify-salesforce-configurations-with-ai-chatbot.md",
-      "title": "Startup Superframe Raises $5 Million To Simplify Salesforce Configurations With AI Chatbot",
-      "excerpt": "Superframe can do this because we are AI-first, not tied to a legacy product.” Steer was previously the CEO of business intelligence software company Mode Analytics, which was acquired by ThoughtSpot for $200 million. The startup is entering a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johanmoreno/2023/08/31/startup-superframe-raises-5-million-to-simplify-salesforce-configurations-with-ai-chatbot/",
-      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/08/31/startup-superframe-raises-5-million-to-simplify-salesforce-configurations-with-ai-chatbot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64f1028a9ef9f51fa285cca1/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 698,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/08/31/startup-superframe-raises-5-million-to-simplify-salesforce-configurations-with-ai-chatbot/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/08/31/startup-superframe-raises-5-million-to-simplify-salesforce-configurations-with-ai-chatbot/amp/",
-      "publishedDateTime": "2023-08-31T14:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-intel-hot-chips-reveal-a-deeper-look-into-xeon-in-2024.md",
-      "title": "Intel Hot Chips Reveal: A Deeper Look Into Xeon In 2024",
-      "excerpt": "VP & Principal Analyst, Datacenter Compute, Matt Kimball, shares his thoughts on Intel's plan to deliver two new server CPUs in 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/08/31/intel-hot-chips-reveal-a-deeper-look-into-xeon-in-2024/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/08/31/intel-hot-chips-reveal-a-deeper-look-into-xeon-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64f0fd8241a5a34b015d6d4c/0x0.jpg?format=jpg&crop=715,719,x340,y0,safe&width=1200",
-          "width": 715,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/08/31/intel-hot-chips-reveal-a-deeper-look-into-xeon-in-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/08/31/intel-hot-chips-reveal-a-deeper-look-into-xeon-in-2024/amp/",
-      "publishedDateTime": "2023-08-31T13:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

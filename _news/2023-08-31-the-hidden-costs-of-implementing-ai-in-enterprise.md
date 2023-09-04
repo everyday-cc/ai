@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "The Smart Enterprise: Making Generative AI Enterprise-Ready"
-    excerpt: "Yes, the opportunities for Generative AI (GenAI) are immense. Yes, it is transforming the world as we know it (and faster than most of us predicted). And yes, technology is getting smarter. However, the implications for GenAI,"
-    publishedDateTime: 2023-09-01T17:39:00Z
-    webUrl: "https://www.unite.ai/the-smart-enterprise-making-generative-ai-enterprise-ready/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2022/08/machinelearning-deployment-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "The Role of Artificial Intelligence In MDM: Automating Device Management And Troubleshooting"
     excerpt: "Today, the advent of Artificial Intelligence (AI) has paved the way for innovative solutions that automate MDM processes and offer a plethora of benefits. The era of AI-driven Mobile Device Management is upon us. Embracing intelligent automation will not ..."
     publishedDateTime: 2023-09-04T11:04:00Z

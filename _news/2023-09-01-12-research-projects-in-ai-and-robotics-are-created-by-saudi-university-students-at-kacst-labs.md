@@ -34,20 +34,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 62
-  - title: "Build faster and higher with AI"
-    excerpt: "MEANT as a sly swipe at the inflated hype around artificial intelligence (AI), a billboard at a construction site in Antwerp, Belgium, read “Hey ChatGPT, finish this building.”"
-    publishedDateTime: 2023-08-31T00:52:00Z
-    webUrl: "https://www.thestar.com.my/news/focus/2023/08/31/build-faster-and-higher-with-ai"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/08/31/2259990.jpg"
-        width: 620
-        height: 439
-        isCached: true
 
 secured: "3/DnEXHwWFpYpk9pChPTYIbi85daDYlNWXy+F1QY76XbS0/rkPJNTNdwyU8gBuj4Xy+DldLLos5kx3BkH5ent4efSpCCIk4rQf/AQ7L0sDKRseGmsPwR13m7ackvcHjGo5bPkmYWo2/QEttuqihvXp1XYwb8HL69sNlU8OHkxHYzVnMquc4F77nGiT6Gj+OnkIkxpurD+xetgsCWv9SlKSJhNpRXVlDWC/sic0KVfa3lqksJCv9a4Ub5nUWG6wiW7S6Ulkw7oKY2NTpJIgAOczXEa3TaAvHDW4OWoGnSA5IM76peKqiGAXvFcZhh2Y6wnrx/+wo314vyKSBmcOCjdrVa+H0Kb/NY8s7ZRd2M0WM=;l3IUIA7il7HYPmYfSf46rA=="
 ---

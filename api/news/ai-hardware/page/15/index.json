@@ -2,6 +2,84 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-05-09-china-develops-brain-chip-that-lets-monkeys-control-robotic-arm-with-their-minds.md",
+      "title": "China develops brain chip that lets monkeys control robotic arm with their MINDS",
+      "excerpt": "Chinese scientists claim to have designed a brain implant that allows a monkey to control a robotic arm using just its mind. Researchers at Nankai University shared the announcement on May 5 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-12063811/China-develops-brain-chip-lets-monkeys-control-robotic-arm-MINDS.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-12063811/China-develops-brain-chip-lets-monkeys-control-robotic-arm-MINDS.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-ais-mixed-investment-performance.md",
+      "title": "AI’s mixed investment performance",
+      "excerpt": "Would I buy an AI ETF? Probably not. Frankly, if you want exposure to this space, why not just buy Nvidia and Microsoft? Both are highly profitable and heavily involved in the sector. In Nvidia’s case via their GPU chips and in Microsoft’s case via ...",
+      "sourceUrl": null,
+      "webUrl": "https://moneyweek.com/investments/605871/ai-investing",
+      "originalUrl": "https://moneyweek.com/investments/605871/ai-investing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.moneyweek.com/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1683647579/editorial/2023/GettyImages-1370479417.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://moneyweek.com/investments/605871/ai-investing?amp",
+      "cdnAmpWebUrl": "https://moneyweek-com.cdn.ampproject.org/c/s/moneyweek.com/investments/605871/ai-investing?amp",
+      "publishedDateTime": "2023-05-09T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MoneyWeek",
+        "domain": "moneyweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-09-chinese-firms-to-seek-ai-chips-alternatives.md",
       "title": "Chinese firms to seek AI chips alternatives",
       "excerpt": "THE US government's intensifying chip sanctions against China have forced Chinese firms to search for alternatives to advanced chips used in cutting-edge artificial intelligence (AI) and could even offer a new opportunity for Chinese firms to take the lead in the emerging technology,",
@@ -1351,92 +1429,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-3-stocks-to-buy-for-exposure-to-the-growing-ai-chip-market.md",
-      "title": "3 Stocks to Buy for Exposure to the Growing AI Chip Market",
-      "excerpt": "Illustrating the extent to which chip makers’ financial results can be lifted by the tremendous growth of AI, Nvidia’s (NASDAQ: NVDA) top AI chips are selling for a huge $40,000 apiece on eBay, CNBC recently reported.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-stocks-to-buy-for-exposure-to-the-growing-ai-chip-market",
-      "originalUrl": "https://www.nasdaq.com/articles/3-stocks-to-buy-for-exposure-to-the-growing-ai-chip-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-29T05:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-making-the-most-out-of-generative-ai-in-your-enterprise.md",
-      "title": "Making The Most Out Of Generative AI In Your Enterprise",
-      "excerpt": "Generative artificial intelligence (AI) has come to the forefront of business leaders' minds with the ongoing stories and innovative capabilities of ChatGPT and the waitlist for its rival, Google Bard.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 239,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644a7a52c586aa5faa0d1575/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 781,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/amp/",
-      "publishedDateTime": "2023-04-28T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

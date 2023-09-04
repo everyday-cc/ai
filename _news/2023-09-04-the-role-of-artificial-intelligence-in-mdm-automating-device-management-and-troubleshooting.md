@@ -29,20 +29,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "The Smart Enterprise: Making Generative AI Enterprise-Ready"
-    excerpt: "Yes, the opportunities for Generative AI (GenAI) are immense. Yes, it is transforming the world as we know it (and faster than most of us predicted). And yes, technology is getting smarter. However, the implications for GenAI,"
-    publishedDateTime: 2023-09-01T17:39:00Z
-    webUrl: "https://www.unite.ai/the-smart-enterprise-making-generative-ai-enterprise-ready/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2022/08/machinelearning-deployment-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "OUBx/HU28Cvcw4t0z2lsFv4bItTzMqQZAL39vnflfYgvI/xEI64K53fxdAY0n+HRIEmjpOLQKtBAP8hJsbsE20Qn/dktw61hBO1NEhA17xzDA8YpKCuoNK4fdFr4Togn+Brjs+DduBkPYRN6QXvShK5SbFCD2rzz+4MJHB6nZV45i3Af4oMDHBbz1tk3EJESYGSHb0lPPMmZzDXSLlNwd/NAzj1Xkby155q216CvCW4OxQUy2hylYD+OlqbIbJ1jEBDb5lHgHpcKCBcesljDMfnZsDDWApFQGphYmhKITlCNkbJ9joA/REw02ku8SSJtmU/whrq1mNOlAGXakUk1/SJw7n2MTbkYjnQBzXIlKvw=;uHFr6Y81VY2Df3xMi420gw=="
 ---

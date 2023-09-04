@@ -28,37 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "“Rapid growth” of AI systems prompts US Copyright Office to seek public input"
-    excerpt: "Specifically, the Office is interested in four main areas: the use of copyrighted materials to train AI models and whether this constitutes infringement; the extent to which AI-generated content should or could be copyrighted,"
-    publishedDateTime: 2023-08-30T21:34:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/08/rapid-growth-of-ai-systems-prompts-us-copyright-office-to-seek-public-input/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/08/rapid-growth-of-ai-systems-prompts-us-copyright-office-to-seek-public-input/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/rapid-growth-of-ai-systems-prompts-us-copyright-office-to-seek-public-input/amp/"
+  - title: "Expanded Partnership Brings OpenText Core Content To Google Workspace"
+    excerpt: "VP and Principal Analyst, Modern Work and financial services, Melody Brue, looks at OpenText and Google’s collaboration in Google Workspace."
+    publishedDateTime: 2023-08-31T16:17:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2023/08/31/expanded-partnership-brings-opentext-core-content-to-google-workspace/"
+    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/08/31/expanded-partnership-brings-opentext-core-content-to-google-workspace/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/08/31/expanded-partnership-brings-opentext-core-content-to-google-workspace/amp/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 84
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/homemade_robot_hero-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "The US Copyright Office just took a big step toward new rules for generative AI"
-    excerpt: "US Copyright Office is seeking public comment on AI and copyright issues, particularly generative AI's use of copyrighted works."
-    publishedDateTime: 2023-08-30T21:02:00Z
-    webUrl: "https://www.businessinsider.com/us-copyright-office-new-rules-generative-ai-2023-8"
-    ampWebUrl: "https://www.businessinsider.com/us-copyright-office-new-rules-generative-ai-2023-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-copyright-office-new-rules-generative-ai-2023-8?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 83
-    images:
-      - url: "https://i.insider.com/64edd5319664cf0019e7f4fa?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64f0ba046f6bd58165b575a5/0x0.jpg?format=jpg&width=1200"
+        width: 624
+        height: 328
         isCached: true
 
 secured: "bIAzHse6VU9AZytkw9MlSzk7W+rGykQBHbZEkD+dNBTJY3lE9FOdzWKwnPYa5f1+LrVHOGDPTJca5VS/19GgmwxuvkFVQkpLfNQiRIkzlRkr2CxlLWEmu3TBJce3VFsj3LaXEbOYCRYQLEAZtvOfyEPyNEL+28klsHeRgPk3Q53Rl8KxrO2mI7fDUWW5poAwDqFOZD1gXWavQxtwmvgov2PTjJb6OfCqTQn/tNLMg64eZEImXG4ZGwSdHhObrmo+93cGw1Lb/kvzYgZS8smwztuGtp5a5rJ/nfMKZPsXwJxhUINyMma+GMRXcCTBC0AimRvujD3mYEeeXirZGRGV2FBZdoKc3GvUd9ABBNfPXeM2BxmUU0pvaYL50qXq/E4oNQZzBKWX41sigBO0lFL0XghkHhOzUCbZm4xiNe6Jg4NaygZnJO1N0aproLjA2wSsXbEiGcZ9orniaSnWGa8Ad1arhtvJGU/NnTXdTN88TGfQE8Gw/VcdqPeiLhR3rKS7SxP1BtTbka8zTD+9o9toUQ==;npyc1l7JmayuZUCeXlAzEA=="

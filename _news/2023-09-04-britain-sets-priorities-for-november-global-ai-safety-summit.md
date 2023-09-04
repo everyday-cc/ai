@@ -22,21 +22,21 @@ topics:
   - AI
 
 related:
-  - title: "Britain must become a leader in AI regulation, say MPs"
-    excerpt: "Technology committee says UK government approach to artificial intelligence is behind EU and US"
-    publishedDateTime: 2023-08-30T22:01:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/aug/31/britain-must-become-a-leader-in-ai-regulation-say-mps"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/aug/31/britain-must-become-a-leader-in-ai-regulation-say-mps"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/31/britain-must-become-a-leader-in-ai-regulation-say-mps"
+  - title: "UK government outlines five objectives for AI Safety Summit"
+    excerpt: "Ahead of the UK government’s AI Safety Summit in November, the Department for Science, Innovation and Technology has outlined the goals it hopes the summit will achieve."
+    publishedDateTime: 2023-09-04T11:21:00Z
+    webUrl: "https://www.computerworld.com/article/3706051/uk-government-outlines-five-objectives-for-ai-safety-summit.html"
+    ampWebUrl: "https://www.computerworld.com/article/3706051/uk-government-outlines-five-objectives-for-ai-safety-summit.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3706051/uk-government-outlines-five-objectives-for-ai-safety-summit.amp.html"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: Computerworld
+      domain: computerworld.com
     quality: 57
     images:
-      - url: "https://i.guim.co.uk/img/media/5af3a1e9d04d8f16ddca10e78f2d77b15b4c1dca/0_0_3500_2101/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=cee571fe0eae873f93c632b60516b78b"
-        width: 620
-        height: 372
+      - url: "https://images.idgesg.net/images/article/2023/07/shutterstock_2284126663-100943536-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "OU8vcawwnBOVhvejxjcJg/PTqKFIT8wmglPhQ9d4BFCxiNG13qnoaK8QF3HmRaXoV/4UBnHu5ma+dQKIjETLBqHq6PJOGUM2BJc6SYpCR6+xNt0R4GCIYB065chFwy6xRHSP5CN82M8XgJgMN8tDRtUZuug+jbhE6CnW5T4t/jZw4IKcSjQnZJ7OLMdTwXyoCn5xAvAuyqSnZGTupHRDYvHOh+VrBWqxWuOH3m8SAn7GL+uKniEm3pZoT/B505OZonmVVn0ciXw60w8h/vlAW3LHmqeDoBKqgqq1NYVRLMsQZDNfsd/DMSL5z4XjXwwthoX2fwnkMW1V3BCs6ulbZ6hhYoa8afaXFKg8AXho6WTmv05W+cqrdsQYuWMVwHRU14IAQs9rvYh0gpD805XI0jw53zA5+ydw06+hox1rjTmN8cy4l0txLYY09+DUIBMjfu+pRHuegn1WkaQ+Jf1KmQH4967jLHKYiWGdsi9GE5wiGg2XZ5/6ULVi5Ba5CQ5qaRnP592WrOIFWyK+5aCYmA==;YZQO4gcoQQPpxifIHKvmmA=="

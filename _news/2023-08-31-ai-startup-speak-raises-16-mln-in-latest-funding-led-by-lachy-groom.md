@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/ai-startup-speak-raises-16-mln-la
 webUrl: "https://www.reuters.com/business/ai-startup-speak-raises-16-mln-latest-funding-led-by-lachy-groom-2023-08-31/"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 46
+  - title: "AI startup AI21 Labs valued at $1.4 billion after latest fund raise"
+    excerpt: "Companies across the world, from banks to big tech, have doubled down on investments in artificial intelligence (AI) after ChatGPT, a generative AI chatbot by Microsoft-backed OpenAI took the world by storm in late 2022."
+    publishedDateTime: 2023-08-31T01:08:00Z
+    webUrl: "https://www.aol.com/news/ai-startup-ai21-labs-valued-220819589.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "rAyYGZ2zhKIjArQPUebHlGJoXnf6gbN2t+OC7h3DCydF/zeNk58wR8rFyH+pe9rJ1BcmJCSFyX60QVJ04MuxUXUzVceQriuu05byqZswbw3R3oOrh34Dlr8Uaypf0QFhe0ygZPq8UoaCVJCszBoZL0YnPb7eazqFEwLd36/wyvG07Ra6HZ0O/7WdzReMNb2cpCxfb7Ay4vdXz25ejJdS+qN+li+mU3qFGa3+0t4YuR8fSKy5Wu5tI6qcyVBCQtIizBp924LjHsNFgbsaExvOXs37qDdSNYBCNTLNqK5FWkINpuas9IDHM3Fw9n0Th7hoCVX6DKARghrVIp95V5N/X8l0T18Z4zQKuGfzzJqqg94=;dvxzeL5QAbGmmqAWQOlPXg=="
 ---

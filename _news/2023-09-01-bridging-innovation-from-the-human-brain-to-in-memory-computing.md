@@ -33,6 +33,15 @@ related:
         width: 388
         height: 544
         isCached: true
+  - title: "Machine learning tool simplifies one of the most widely used reactions in the pharmaceutical industry"
+    excerpt: "In the past two decades, the carbon-nitrogen bond forming reaction, known as the Buchwald-Hartwig reaction, has become one of the most widely used tools in organic synthesis, particularly in the pharmaceutical industry given the prevalence of nitrogen in natural products and pharmaceuticals."
+    publishedDateTime: 2023-09-04T13:19:00Z
+    webUrl: "https://phys.org/news/2023-09-machine-tool-widely-reactions-pharmaceutical.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 4
 
 secured: "WikiAfNDrUjH1ICRiq9HhM34/OTee3737oeUJiIfThiCfDHzuUg1XPucGX0pVBKUeS+Y/EX6xfzbJAVK3UEsg5sSBFs6lON7Q0bMuj4v5jD6LFOJmpgNj0y/BylX+U7F5Yb4aVoCWmsmbrKlzCib7LzC/piulxcJf3SBfL08DcZunIQTykmVrtVtmLA//TgjYppJFC5rWrtQa3hzX7mWkrkNoPHjGkL6+P9Ixed1BqFmsaBX05JZgIFrcCAhBzLe78i4mfrykrCeX6IC65jdimdLC78A74ase4IORBdyeHJtiF5IrDue28JMZQPc3xg6jw+OwlpiDSIxR/XUwn3AmM3jomMSgQ0yJmJIe3hb4bHA8lAgmGPKQ2AWJAXp18W5SVcR+ptkP6lt55HLRyZquktljWvgwklAV+y7leY32CgGD4xtzD1LnvGwMDCKUnQ3YpH++4aMky41FqBJUXuWf7pbvdtTnCq/7+95f5NT290l4jy14Gih//1YR93fzd6EDEPUguYzM+vT/aUnWB6Gkg==;Ef32RgFZ+GgYfTfHcFKHCw=="
 ---

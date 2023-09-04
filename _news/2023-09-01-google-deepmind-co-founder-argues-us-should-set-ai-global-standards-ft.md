@@ -99,22 +99,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "U.S. should use Nvidia’s powerful chips as a ‘chokepoint’ to force adoption of A.I. rules, DeepMind cofounder Mustafa Suleyman says"
-    excerpt: "That makes the company’s products “an incredibly practical chokepoint that would allow the U.S. to impose itself on all other actors” in A.I., Mustafa Suleyman, cofounder of DeepMind and Inflection AI, told the Financial Times in an interview ..."
-    publishedDateTime: 2023-09-04T11:12:00Z
-    webUrl: "https://fortune.com/2023/09/04/use-nvidia-chips-chokepoint-us-ai-regulations-deepmind-cofounder-mustafa-suleyman/"
-    ampWebUrl: "https://fortune.com/2023/09/04/use-nvidia-chips-chokepoint-us-ai-regulations-deepmind-cofounder-mustafa-suleyman/amp/"
-    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/09/04/use-nvidia-chips-chokepoint-us-ai-regulations-deepmind-cofounder-mustafa-suleyman/amp/"
-    type: article
-    provider:
-      name: Fortune
-      domain: fortune.com
-    quality: 59
-    images:
-      - url: "https://content.fortune.com/wp-content/uploads/2023/09/GettyImages-1561068632-e1693820372827.jpeg?w=840"
-        width: 840
-        height: 560
-        isCached: true
   - title: "DeepMind develops watermark to identify AI images"
     excerpt: "Google's DeepMind is trialling a digital watermark that would allow computers to spot images made by artificial intelligence (AI), as a means to fight disinformation."
     publishedDateTime: 2023-09-01T08:44:00Z
@@ -175,6 +159,20 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 29
+  - title: "U.S. should use Nvidia’s powerful chips as a ‘chokepoint’ to force adoption of A.I. rules, DeepMind cofounder Mustafa Suleyman says"
+    excerpt: "That makes the company’s products “an incredibly practical chokepoint that would allow the U.S. to impose itself on all other actors” in A.I., Mustafa Suleyman, cofounder of DeepMind and Inflection AI, told the Financial Times in an interview ..."
+    publishedDateTime: 2023-09-04T14:07:00Z
+    webUrl: "https://www.aol.com/finance/u-nvidia-powerful-chips-chokepoint-104903650.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 9
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/PKNtbrUnYzJ_ZSYn4yyVGw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/b3ee8cc83bbf2ca7bcc4b950be8a40fb"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "jzhXLWysjgi1i48tq70IZpny0fDPwiqh824WmyLdcvq7FEdp0rivhpWe/1E4BnV00Aobp4CzuMDpiB3g05rVraR0Y6tFdgp7S8l6ZzSAwogsmtHZtR7fMh0OUCM8gkDsN4DwMtamzuX6Czr9E98/thO/+eqgWZ6+nCnA0b7Vw6vp/74SYWrw4tjJtL9WZkD4df5QLvOOTnMvVv86ENxjGDRKhoFmyLbicSFKta5qKve7/SmV+kyIXsfybxYIAiK1sM/UHfqm+tEBhxQFEzMO8ikSN2Eb+UPpbgCb1dz2pAnJeG5boLfDwlfe58SNIzf1q2jFNSw9Rk7oG3kUYUv2gelZOdH/UmGbSEF9jzuPIPo=;4Cj+TQnoq2M4aTR5fo3UJA=="
 ---
