@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/30/the-genera
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/30/the-generative-ai-revolution-a-paradigm-shift-in-work-culture/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 109
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "How the AI Revolution Will Reshape the World"
-    excerpt: "We are now facing a new wave of technology, centered around AI but including synthetic biology, quantum computing, and abundant new sources of energy. In many respects it will repeat this pattern. Yet it will also depart from it in crucial ways only now becoming clear."
-    publishedDateTime: 2023-09-01T11:05:00Z
-    webUrl: "https://time.com/6310115/ai-revolution-reshape-the-world/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 67
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2023/09/GettyImages-1405750746.jpg?quality&#x3D;85"
-        width: 2121
-        height: 1414
-        isCached: true
   - title: "Contextualization: The Key To Unlocking Generative AI's Potential"
     excerpt: "This requires integrating large language models (LLM) with industry-specific AI/machine learning (ML ... content extraction, summarization, translation and knowledge management for LLMs. Moving away from the traditional seller-client model ..."
     publishedDateTime: 2023-08-30T13:17:00Z
@@ -63,24 +49,6 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 19
-  - title: "How the rise of AI is revolutionising the FinTech industry"
-    excerpt: "In that sense, the role of AI in revolutionizing how financial institutions like non-banking financial companies (NBFCs) are offering banking-like services is proving to be extremely important. Not only is AI helping new-age financial institutions in automating manual processes such as data entry and customer request management,"
-    publishedDateTime: 2023-09-03T12:30:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-how-the-rise-of-ai-is-revolutionising-the-fintech-industry-3231450/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 19
-  - title: "Is Corporate America ready for the AI revolution?"
-    excerpt: "Artificial intelligence is transforming the way we live, but despite its rapid progression into the mainstream, according to a new report from the New York Times, most of corporate America isn't prepared to fully embrace or adopt the powerful new technology."
-    publishedDateTime: 2023-08-30T14:57:00Z
-    webUrl: "https://www.cbsnews.com/video/corporate-america-not-ready-for-ai-revolution/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 17
 
 secured: "VRj9qqvYaYAn5DZ92fI7txqOIX9ZMjIz5f71laISi/H+l9U4c8GVpr81UG2NqIhLZFPxaV73KcuBkVvcC5Aw8xayW+La1636Pt1StR5bSOrnNRk3Vv34a5OVLNNzSPF2Gp4KpdSSf0dy4h9SGeVtk4onSAbbGnx1Ro3Fc3RBsLDjKQNksJykYM78WMwpxziHUW0XB/sUasUudpLpdPzN+dO/0TtK9AsqlLMTUC/J1xiavjQhHyPMTEOPTWDUaVwteCF/XF11PmMkGo9kpqSTIZB0ZPRjhXkhgcQBUu0503yOxBatQlfhjtUjwzMzjBg9HVmmEP971IJByIfNCLQEuwxXIh4g97BtD80ucDNRmRg=;5ViuSfsQ1tAnYLK2kE4yVg=="
 ---

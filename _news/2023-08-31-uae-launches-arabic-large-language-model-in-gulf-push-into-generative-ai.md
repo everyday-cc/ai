@@ -48,20 +48,6 @@ related:
         width: 640
         height: 362
         isCached: true
-  - title: "UAE's G42 launches open source Arabic language AI model"
-    excerpt: "(Reuters) - A group of engineers, researchers and a Silicon Valley-based chip company collaborated to release advanced Arabic language software that can power generative AI applications. The new large language model called Jais contains 13 billion ..."
-    publishedDateTime: 2023-08-30T06:06:00Z
-    webUrl: "https://www.aol.com/news/uaes-g42-launches-open-source-053441294.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/ee1ee32ee8fcd61a15a1a915cce01619"
-        width: 800
-        height: 418
-        isCached: true
 
 secured: "481bAhiCVyt/AArfNmBGBFkcRrto4xNMBb8aazr6I7EtHpdn0cfQCMGf206diUKdVMvXBzywQelYimBzyQs7dZGHbRxrOvYclGGIlL2QRLttsiQ01IsKrtXCUpA5wk/hGciK0e8ILgnJzwvlLxi3ohqi9m7/xtllxurAii+w8ZmrPJp38ZSqo4C5Scgz5odTzeeZoU6h12jea6dx22gwEjjJEUyx0UJP6ou0Wj7UHPkSb0hOE01/bC4FGiGjmuexbmZ8c+WtPJ7Hi86OlqjmoZp7fIvJXjihhVGxO1Gs31vlbS/uCWFWful1MB/LTBSTX527G53pfRW43VVMl5BgZwb26vWPJP8wtWcgqVoEaqgiVOIcKDVre0Yjmh9sqYpK5SayPNKXLe344Ujl5ICHlFTgybS7biwMB6idoMQCCUWhs4/ZeqLnwjO0k8YEArmB3tVUJwK6uhEC2uDKJhurCFWvQMH3A/wHCXCZKzzEWHwEjNivjabPqvE9D7pEJFs/wqCsrQTchT2wQbt0ujt1dw==;bzqwUsMqMCX59wtB/vSe/w=="
 ---

@@ -18,21 +18,21 @@ topics:
   - AI
 
 related:
-  - title: "The Generative AI Revolution: A Paradigm Shift In Work Culture"
-    excerpt: "It carefully chooses the language, tone and style best suited for the intended ... With this as a starting point, generative AI becomes a skilled translator, converting these objectives into discernable search criteria and detailed role definitions."
-    publishedDateTime: 2023-08-30T11:32:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/30/the-generative-ai-revolution-a-paradigm-shift-in-work-culture/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/30/the-generative-ai-revolution-a-paradigm-shift-in-work-culture/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/30/the-generative-ai-revolution-a-paradigm-shift-in-work-culture/amp/"
+  - title: "Transformers Revolutionized AI. What Will Replace Them?"
+    excerpt: "As another example, eighteen-month-old startup Inflection recently raised over $1 ... while a novel architecture soon displaces transformers as state-of-the-art in robotics. Or perhaps a new AI approach is developed that outperforms and rapidly replaces ..."
+    publishedDateTime: 2023-09-03T22:01:00Z
+    webUrl: "https://www.forbes.com/sites/robtoews/2023/09/03/transformers-revolutionized-ai-what-will-replace-them/"
+    ampWebUrl: "https://www.forbes.com/sites/robtoews/2023/09/03/transformers-revolutionized-ai-what-will-replace-them/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/09/03/transformers-revolutionized-ai-what-will-replace-them/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 93
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64de2670c0104c27ef8801c6/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64f3b2b43d727bdfbf85cc97/0x0.jpg?format=jpg&width=1200"
+        width: 711
+        height: 400
         isCached: true
   - title: "How the AI Revolution Will Reshape the World"
     excerpt: "We are now facing a new wave of technology, centered around AI but including synthetic biology, quantum computing, and abundant new sources of energy. In many respects it will repeat this pattern. Yet it will also depart from it in crucial ways only now becoming clear."
@@ -48,24 +48,34 @@ related:
         width: 2121
         height: 1414
         isCached: true
-  - title: "Contextualization: The Key To Unlocking Generative AI's Potential"
-    excerpt: "This requires integrating large language models (LLM) with industry-specific AI/machine learning (ML ... content extraction, summarization, translation and knowledge management for LLMs. Moving away from the traditional seller-client model ..."
-    publishedDateTime: 2023-08-30T13:17:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/30/contextualization-the-key-to-unlocking-generative-ais-potential/"
+  - title: "How AI and machine learning will revolutionize investing decisions"
+    excerpt: "Columbia University professor Michael Robbins says the sky is the limit for artificial intelligence once the technology evolves"
+    publishedDateTime: 2023-09-01T01:30:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/globe-advisor/advisor-news/article-how-ai-and-machine-learning-will-revolutionize-investing-decisions/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "The Fintech Revolution: Unraveling the Forces Reshaping Finance"
-    excerpt: "Step into the dynamic world of fintech, where disruptive innovations are reshaping the financial landscape as we know it. In a society constantly craving innovation and convenience, the rapid ascent of top fintech companies comes as no surprise."
-    publishedDateTime: 2023-09-01T17:56:00Z
-    webUrl: "https://techbullion.com/the-fintech-revolution-unraveling-the-forces-reshaping-finance/"
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 54
+    images:
+      - url: "https://www.theglobeandmail.com/resizer/Gkhog6nL6qmm6i1A-VXTqewKrRw=/1200x757/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/MZC7RUPSLNFMZCSFIH3M757CWA.jpg"
+        width: 1200
+        height: 757
+        isCached: true
+  - title: "5 Ways AI Will Transform the Mobility Industry"
+    excerpt: "Although they've only really reached mainstream attention in the past decade, autonomous vehicles have been around since the 1990s. In recent years, some self-driving cars have achieved Level 4 autonomy, which means they can steer, accelerate, decelerate, and intervene to prevent a crash without the need for human interaction."
+    publishedDateTime: 2023-08-31T15:30:00Z
+    webUrl: "https://www.inc.com/inc-masters/five-ways-ai-will-transform-the-mobility-industry.html"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 19
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1263350156_hssaxd.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "How the rise of AI is revolutionising the FinTech industry"
     excerpt: "In that sense, the role of AI in revolutionizing how financial institutions like non-banking financial companies (NBFCs) are offering banking-like services is proving to be extremely important. Not only is AI helping new-age financial institutions in automating manual processes such as data entry and customer request management,"
     publishedDateTime: 2023-09-03T12:30:00Z

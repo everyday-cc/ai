@@ -31,19 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI and ML are Playing Defining Role in Driving Fintech Automation, Says STX Next"
-    excerpt: "AI and ML algorithms that can process large quantities of data are delivering increased efficiency, scalability and accuracy for fintechs pioneering the technology Artificial intelligence (AI) and machine learning (ML) adoption is increasing across virtually every industry,"
-    publishedDateTime: 2023-08-30T10:35:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/ai-and-ml-are-playing-defining-role-driving-fintech-automation-says-stx"
+  - title: "Artificial Intelligence (AI) in Fintech Market Insights Report 2023-2030 | 117 Pages Report"
+    excerpt: "Short Description About Artificial Intelligence (AI) in Fintech Market: The Global Artificial Intelligence (AI) in Fintech market is anticipated to rise at a considerable rate during the forecast ..."
+    publishedDateTime: 2023-08-31T10:34:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/08/34137422/artificial-intelligence-ai-in-fintech-market-insights-report-2023-2030-117-pages-report"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34137422"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34137422"
     type: article
     provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 51
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 64
     images:
-      - url: "https://financialit.net/sites/default/files/stxnext.png"
-        width: 1366
-        height: 768
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
   - title: "Fintech startup Stripe integrating OpenAI's new GPT-4 AI – Reuters"
     excerpt: "Small toy figures are seen in front of Stripe logo in this illustration picture taken March 15, 2021. REUTERS/Dado Ruvic/Illustration/File Photo Acquire Licensing Rights SAN FRANCISCO, March 15 – Fintech startup Stripe is starting to integrate OpenAI's latest GPT-4 artificial intelligence model into its digital payment processing and other products,"
@@ -59,31 +61,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Navigating The Future Of Banking: A Look At The Top Fintech Innovations"
-    excerpt: "Welcome to the future of banking where financial technology, or fintech, is revolutionizing the way we manage our money. From mobile banking apps to cryptocurrency advancements, there’s no denying that digital innovation is reshaping the entire industry."
-    publishedDateTime: 2023-09-02T08:48:00Z
-    webUrl: "https://techbullion.com/navigating-the-future-of-banking-a-look-at-the-top-fintech-innovations/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/09/Bitcoin.jpg"
-        width: 1000
-        height: 500
-        isCached: true
-  - title: "Gov’t digitalization push to sustain demand for fintech services"
-    excerpt: "DEMAND for financial technology (fintech) services is expected to be sustained following the increase seen during the coronavirus pandemic, driven by the government’s digitalization initiatives. “With the Philippine government prioritizing the digitalization of financial transactions and showing strong support for the fintech industry,"
-    publishedDateTime: 2023-09-03T15:24:00Z
-    webUrl: "https://www.bworldonline.com/special-reports/2023/09/04/542941/govt-digitalization-push-to-sustain-demand-for-fintech-services/"
-    ampWebUrl: "https://www.bworldonline.com/special-reports/2023/09/04/542941/govt-digitalization-push-to-sustain-demand-for-fintech-services/?amp"
-    cdnAmpWebUrl: "https://www-bworldonline-com.cdn.ampproject.org/c/s/www.bworldonline.com/special-reports/2023/09/04/542941/govt-digitalization-push-to-sustain-demand-for-fintech-services/?amp"
-    type: article
-    provider:
-      name: BusinessWorld
-      domain: bworldonline.com
-    quality: 39
   - title: "AI in Fintech Has Been Slow to Start, But Look for a Second Phase of Investment Opportunities"
     excerpt: "The emergence of generative AI could yield the largest transformation the financial services market has seen in decades. From Microsoft to Google to Amex, everyone seems to be betting big on AI."
     publishedDateTime: 2023-08-31T18:24:00Z
@@ -92,44 +69,30 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 36
-  - title: "Top 5 Factors Transforming Fintech into a $700B Industry"
-    excerpt: "Technology has become an absolute necessity in the financial services industry in the 21st century. Integrating enterprising tech with crucial and sensitive financial processes and operations leads to better overall efficiency,"
-    publishedDateTime: 2023-09-01T10:57:00Z
-    webUrl: "https://techbullion.com/top-5-factors-transforming-fintech-into-a-700b-industry/"
+    quality: 38
+  - title: "Fintech’s Bright Future: 3 Stocks Set to Skyrocket in 2024"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The fintech sector, which provides investors with exposure to a blend of"
+    publishedDateTime: 2023-09-01T01:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/fintechs-bright-future-3-stocks-set-to-skyrocket-in-2024-1032598018"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 24
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
+  - title: "Future of Fintech in Latin America 2023: AI sector expects growth and aims to confront bias"
+    excerpt: "AI is expected to increase the GDP of Latin America by more than 5% by 2030, according to an Economist Impact report, as demonstrated in the graph below. However, according to Oxford Insights, Latin America is among the lowest scoring regions for the Government  AI Readiness Index in 2021."
+    publishedDateTime: 2023-08-31T09:15:00Z
+    webUrl: "https://www.finextra.com/the-long-read/767/future-of-fintech-in-latin-america-2023-ai-sector-expects-growth-and-aims-to-confront-bias"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 29
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/09/new-blog-.jpg"
-        width: 780
-        height: 520
+      - url: "https://www.finextra.com/finextra-images/oped/767.jpg"
+        width: 799
+        height: 449
         isCached: true
-  - title: "Leaders in Lending | Ep. 122: Combating financial fraud – Fintech’s game-changing role"
-    excerpt: "For so long, new tech has been utilized by fraud artists, costing many unsuspecting victims countless dollars. Now, AI tools and strong fintech"
-    publishedDateTime: 2023-08-30T23:00:00Z
-    webUrl: "https://www.cuinsight.com/leaders-in-lending-ep-122-combating-financial-fraud-fintechs-game-changing-role/"
-    type: article
-    provider:
-      name: CUInsight
-      domain: cuinsight.com
-    quality: 16
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2022/03/Screen-Shot-2022-03-23-at-1.36.05-PM.png"
-        width: 1000
-        height: 500
-        isCached: true
-  - title: "Unveiling the Top Fintech Trends: How Technology is Revolutionizing Financial Services"
-    excerpt: "Are you ready to embark on a journey into the future of finance? From mobile banking to advanced algorithms, technology has been transforming the way we interact with money and manage our finances. In this blog post,"
-    publishedDateTime: 2023-09-01T17:36:00Z
-    webUrl: "https://techbullion.com/unveiling-the-top-fintech-trends-how-technology-is-revolutionizing-financial-services/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 0
 
 secured: "KcBEQ0eCarcGoo0rRJVubBdoEWm3mGomX5m2GT8WbNzO/CimQkVJhhVL3lt83SnUWcR/AwQkD4qXSqJvZFNf6HBQbELPn4jGkkVF3tDpNpqyu/bT6zHLv3pmdt1NIhpOW/Rc5G+qHgGvN0/G/zLdjX/MCmNqzjryQaIrhcwq7mFzRJSyB+dRuvyW8tesbDiZqhBEHFNAwKKfAJ+fU0y5d1/lrdTzp4f2PHWc9l93tKLK2D10OLCYit+c/DS3dkkIQYHmC+Fj7Jrj7eA5Czh5ww2rx8GcEHqTwko/7e3hRtqiUmpP0kI2LN9V0fyeJ01d6ViJ5smyy+BSC4uZWhpsoUrhJA21AiCg6kBD5MySso4=;2c6YZsVnKlVjpj8J93cvZQ=="
 ---

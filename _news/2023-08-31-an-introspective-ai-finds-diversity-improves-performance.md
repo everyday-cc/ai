@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-08-introspective-ai-diversity.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-introspective-ai-diversity.amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
+  - title: "Embracing Neuronal Diversity: A Leap in AI Efficiency and Performance"
+    excerpt: "The role of diversity has been a subject of discussion in various fields, from biology to sociology. However, a recent study from North Carolina State University's Nonlinear Artificial Intelligence Laboratory (NAIL) opens an intriguing dimension to this discourse: diversity within artificial intelligence (AI) neural networks."
+    publishedDateTime: 2023-09-03T22:48:00Z
+    webUrl: "https://www.unite.ai/embracing-neuronal-diversity-a-leap-in-ai-efficiency-and-performance/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/09/Alex_Mc_diverse_technolgical_neural_networks._f313159c-ce36-45ed-ad87-d0f7127d555e-1-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "w5VYytzTRNjipZbgBOWo/tC4HMAoUS+DH8o9x6O0r2UouS3cSw+lKp96QTbQP30zS7CxCM/t9HC48gLbSpXP9KXOnk/2pCRYUbULfLAq7+H1JWS8rXUWRyqex3DA/lGiX27Zkr/bCF1KBpNuqJ1iTHpx4PvJbNG2CiGKML27qKv0nXpPXE/TBqfzfQxX2IzzqB7naOF+xgBsoyb5G05d7FecZuiCn6iP9lNzV4TvO9tDYb3r2hLH6DIP9DgAeLKNgQHBADJVMJcEBzpOGx6rWOrj4Gvlo2LJ7SZ7MWq/7gcixIcDhRcxBz7LMvIa5dD99A9vLh70oar+ItZx8s+fDRHqOEvzOlzRhUd41LIA5/iX9YLheK2T5xjeUiHvUCVfYhVYQF1qrziCJah3UdqDjO71tGR/gsQDbA8Vvhbkxnnp3rxP9NkEHx6E625gKfCLHsSOykH5/T9dXC1KouIopsQip3+cq4ZwoLiRXlvUtXkaYzs/D8kkH+h/4MBinTGUQvdmDMT4cA4l52TlhkHzAA==;wp5/BAegOcMSW1jj2omDwA=="
 ---

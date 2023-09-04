@@ -68,20 +68,6 @@ related:
       name: The Hill
       domain: thehill.com
     quality: 54
-  - title: "5 Ways AI Will Transform the Mobility Industry"
-    excerpt: "Although they've only really reached mainstream attention in the past decade, autonomous vehicles have been around since the 1990s. In recent years, some self-driving cars have achieved Level 4 autonomy, which means they can steer, accelerate, decelerate, and intervene to prevent a crash without the need for human interaction."
-    publishedDateTime: 2023-08-31T15:30:00Z
-    webUrl: "https://www.inc.com/inc-masters/five-ways-ai-will-transform-the-mobility-industry.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1263350156_hssaxd.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "AI in Financial Services: A Transformational Force Beyond the Hype"
     excerpt: "AI is reshaping all industries as it captivates the public with its limitless potential. Many in financial services have strong reservations about the technology, but it is here and is not going away."
     publishedDateTime: 2023-08-30T09:31:00Z

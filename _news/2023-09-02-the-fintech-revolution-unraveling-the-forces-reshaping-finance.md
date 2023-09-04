@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How the AI Revolution Will Reshape the World"
-    excerpt: "We are now facing a new wave of technology, centered around AI but including synthetic biology, quantum computing, and abundant new sources of energy. In many respects it will repeat this pattern. Yet it will also depart from it in crucial ways only now becoming clear."
-    publishedDateTime: 2023-09-01T11:05:00Z
-    webUrl: "https://time.com/6310115/ai-revolution-reshape-the-world/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 67
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2023/09/GettyImages-1405750746.jpg?quality&#x3D;85"
-        width: 2121
-        height: 1414
-        isCached: true
   - title: "Contextualization: The Key To Unlocking Generative AI's Potential"
     excerpt: "This requires integrating large language models (LLM) with industry-specific AI/machine learning (ML ... content extraction, summarization, translation and knowledge management for LLMs. Moving away from the traditional seller-client model ..."
     publishedDateTime: 2023-08-30T13:17:00Z
@@ -58,24 +44,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "How the rise of AI is revolutionising the FinTech industry"
-    excerpt: "In that sense, the role of AI in revolutionizing how financial institutions like non-banking financial companies (NBFCs) are offering banking-like services is proving to be extremely important. Not only is AI helping new-age financial institutions in automating manual processes such as data entry and customer request management,"
-    publishedDateTime: 2023-09-03T12:30:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-how-the-rise-of-ai-is-revolutionising-the-fintech-industry-3231450/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 19
-  - title: "Is Corporate America ready for the AI revolution?"
-    excerpt: "Artificial intelligence is transforming the way we live, but despite its rapid progression into the mainstream, according to a new report from the New York Times, most of corporate America isn't prepared to fully embrace or adopt the powerful new technology."
-    publishedDateTime: 2023-08-30T14:57:00Z
-    webUrl: "https://www.cbsnews.com/video/corporate-america-not-ready-for-ai-revolution/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 17
 
 secured: "acfnQeeh4GuvfnGsj+wewF5ftf/VXnOvMxKn8gKmFMx7jerTYTOwmfnYkKy/p8s+1inl1FygiflVhuC9Ha1C2fh4MjY2Xn33VyzE1Re3YbyHakR+GsYoyGKbYaYe+9PefYXenNkP08PAhjENMQlrBKwojmghYaCqZZxGaA85W0JElcPybGFoQZep0z/Q4qcSRjSJPI9sKxoQkfAQ871d8+qHfQGYev0r7AzLwJxGlXk4mJtDb5zib3wfvOulxCUKmeWcL2jrP9oiPeSjRpozNbQOne74HIAURNefIW9VUov317VqmWva440sxUiXgq0KjYwnopDLmnhcVI6YUSJNrfpeg3jDF2c69h63/QzfP/sUAShe8uGb5Id4QHSdoyZwKNPXdPAQzB/SSFz8KAvGtlxII9w+gGIF2pETj8r+yR8j3q0nndS2towq4lzdkEL7d/JVtqsmc6B1S8B8imK9uDFsZ4tzMwSWxwgD8BpzZSXD5DtFkTr84csqoYKUDR5qp70XTdrI48XOO7U7a42vXQ==;8L2e8G6lOwXD1YEUg9tskA=="
 ---

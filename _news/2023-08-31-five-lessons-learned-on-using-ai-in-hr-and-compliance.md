@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/31/five-l
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/31/five-lessons-learned-on-using-ai-in-hr-and-compliance/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://cdn.benzinga.com/files/ai-in-gaming-main-1600-1_2.jpg?width=1200&height=800&fit=crop"
         width: 1050
         height: 700
-        isCached: true
-  - title: "How AI and machine learning will revolutionize investing decisions"
-    excerpt: "Columbia University professor Michael Robbins says the sky is the limit for artificial intelligence once the technology evolves"
-    publishedDateTime: 2023-09-01T01:30:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/globe-advisor/advisor-news/article-how-ai-and-machine-learning-will-revolutionize-investing-decisions/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 54
-    images:
-      - url: "https://www.theglobeandmail.com/resizer/Gkhog6nL6qmm6i1A-VXTqewKrRw=/1200x757/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/MZC7RUPSLNFMZCSFIH3M757CWA.jpg"
-        width: 1200
-        height: 757
         isCached: true
   - title: "Unveiling AI's Secret Impact On Human Labor And Intelligence"
     excerpt: "As AI advances, it's not uncommon to wonder whether it may threaten humanity and whether wage requirements and automated labor will affect workers' paychecks."

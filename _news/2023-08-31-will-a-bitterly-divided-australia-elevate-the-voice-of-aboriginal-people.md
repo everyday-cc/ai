@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2023/08/29/world/australia/voice-aborigina
 webUrl: "https://www.nytimes.com/2023/08/29/world/australia/voice-aboriginal-indigenous.html"
 type: article
 quality: 53
-heat: 133
+heat: 113
 published: true
 
 provider:
@@ -38,36 +38,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 49
-  - title: "Australians to vote in a referendum on Indigenous Voice to Parliament"
-    excerpt: "It means nothing changes,” Albanese told 400 Voice supporters in the city of Adelaide. “Voting ‘no’ closes the door on this opportunity to move forward. I say today, don’t close the door on constitutional recognition, don’t close the door on ..."
-    publishedDateTime: 2023-08-30T06:09:00Z
-    webUrl: "https://www.staradvertiser.com/2023/08/29/breaking-news/australians-to-vote-in-a-referendum-on-indigenous-voice-to-parliament/"
-    ampWebUrl: "https://www.staradvertiser.com/2023/08/29/breaking-news/australians-to-vote-in-a-referendum-on-indigenous-voice-to-parliament/amp/"
-    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/08/29/breaking-news/australians-to-vote-in-a-referendum-on-indigenous-voice-to-parliament/amp/"
-    type: article
-    provider:
-      name: Honolulu Star-Advertiser
-      domain: staradvertiser.com
-    quality: 44
-    images:
-      - url: "https://www.staradvertiser.com/wp-content/uploads/2023/08/web1_14157329-a917389ab96245a7b6cd5b9e1eb6e1a7.jpg"
-        width: 760
-        height: 508
-        isCached: true
-  - title: "What to Know About Australia’s Indigenous ‘Voice to Parliament’ Vote"
-    excerpt: "Advocates such as Pat Anderson, one of the architects of the Uluru statement, say enshrining the Voice in the country’s constitution would provide official recognition for “the First Peoples of this beautiful continent of ours.” A poll in April ..."
-    publishedDateTime: 2023-08-30T06:48:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/08/30/explainer-what-s-australia-s-plan-for-an-indigenous-voice-referendum/d1eebdd6-4700-11ee-b76b-0b6e5e92090d_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 24
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2FNDOYCHAAI65N3LBNXF5EQJBU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "The Voice Referendum in regional Australia"
     excerpt: "With a date now set for the Indigenous Voice to Parliament referendum, the debate over Australia's future is heading out of Canberra and to the regions. SBS travelled to Orange in the New South Wales Central Tablelands to find out what people there are thinking."
     publishedDateTime: 2023-09-02T21:31:00Z

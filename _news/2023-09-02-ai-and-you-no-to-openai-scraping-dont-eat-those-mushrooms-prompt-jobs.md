@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/tech/computing/ai-and-you-no-to-openai-scrapi
 webUrl: "https://www.cnet.com/tech/computing/ai-and-you-no-to-openai-scraping-dont-eat-those-mushrooms-prompt-jobs/"
 type: article
 quality: 70
-heat: 90
+heat: 91
 published: true
 
 provider:

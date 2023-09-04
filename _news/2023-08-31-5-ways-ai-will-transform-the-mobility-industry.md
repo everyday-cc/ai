@@ -24,81 +24,68 @@ images:
     isCached: true
 
 related:
-  - title: "Crossing the chasm in AI-led marketing transformation"
-    excerpt: "And that is why it should be among the top priorities for any chief marketing officer (CMO) to unravel the possibilities of AI. Customer-centric sectors such as fintech, and e-commerce have already started piloting AI strategies while many other sectors ..."
-    publishedDateTime: 2023-09-02T11:06:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-crossing-the-chasm-in-ai-led-marketing-transformation-3230292/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-crossing-the-chasm-in-ai-led-marketing-transformation-3230292/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-crossing-the-chasm-in-ai-led-marketing-transformation-3230292/lite/"
+  - title: "Transformers Revolutionized AI. What Will Replace Them?"
+    excerpt: "As another example, eighteen-month-old startup Inflection recently raised over $1 ... while a novel architecture soon displaces transformers as state-of-the-art in robotics. Or perhaps a new AI approach is developed that outperforms and rapidly replaces ..."
+    publishedDateTime: 2023-09-03T22:01:00Z
+    webUrl: "https://www.forbes.com/sites/robtoews/2023/09/03/transformers-revolutionized-ai-what-will-replace-them/"
+    ampWebUrl: "https://www.forbes.com/sites/robtoews/2023/09/03/transformers-revolutionized-ai-what-will-replace-them/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/09/03/transformers-revolutionized-ai-what-will-replace-them/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 93
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64f3b2b43d727bdfbf85cc97/0x0.jpg?format=jpg&width=1200"
+        width: 711
+        height: 400
+        isCached: true
+  - title: "How the AI Revolution Will Reshape the World"
+    excerpt: "We are now facing a new wave of technology, centered around AI but including synthetic biology, quantum computing, and abundant new sources of energy. In many respects it will repeat this pattern. Yet it will also depart from it in crucial ways only now becoming clear."
+    publishedDateTime: 2023-09-01T11:05:00Z
+    webUrl: "https://time.com/6310115/ai-revolution-reshape-the-world/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 67
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2023/09/GettyImages-1405750746.jpg?quality&#x3D;85"
+        width: 2121
+        height: 1414
+        isCached: true
+  - title: "How AI and machine learning will revolutionize investing decisions"
+    excerpt: "Columbia University professor Michael Robbins says the sky is the limit for artificial intelligence once the technology evolves"
+    publishedDateTime: 2023-09-01T01:30:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/globe-advisor/advisor-news/article-how-ai-and-machine-learning-will-revolutionize-investing-decisions/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 54
+    images:
+      - url: "https://www.theglobeandmail.com/resizer/Gkhog6nL6qmm6i1A-VXTqewKrRw=/1200x757/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/MZC7RUPSLNFMZCSFIH3M757CWA.jpg"
+        width: 1200
+        height: 757
+        isCached: true
+  - title: "How the rise of AI is revolutionising the FinTech industry"
+    excerpt: "In that sense, the role of AI in revolutionizing how financial institutions like non-banking financial companies (NBFCs) are offering banking-like services is proving to be extremely important. Not only is AI helping new-age financial institutions in automating manual processes such as data entry and customer request management,"
+    publishedDateTime: 2023-09-03T12:30:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-how-the-rise-of-ai-is-revolutionising-the-fintech-industry-3231450/"
     type: article
     provider:
       name: The Financial Express
       domain: financialexpress.com
-    quality: 76
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-01T181533.194.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Schools, universities turning to artificial intelligence to transform education"
-    excerpt: "As computers did a generation before, advancements in technology are changing how students learn and how teachers teach."
-    publishedDateTime: 2023-08-30T23:59:00Z
-    webUrl: "https://www.cbsnews.com/baltimore/news/schools-universities-turning-to-artificial-intelligence-to-transform-education/"
-    ampWebUrl: "https://www.cbsnews.com/amp/baltimore/news/schools-universities-turning-to-artificial-intelligence-to-transform-education/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/baltimore/news/schools-universities-turning-to-artificial-intelligence-to-transform-education/"
+    quality: 19
+  - title: "Is Corporate America ready for the AI revolution?"
+    excerpt: "Artificial intelligence is transforming the way we live, but despite its rapid progression into the mainstream, according to a new report from the New York Times, most of corporate America isn't prepared to fully embrace or adopt the powerful new technology."
+    publishedDateTime: 2023-08-30T14:57:00Z
+    webUrl: "https://www.cbsnews.com/video/corporate-america-not-ready-for-ai-revolution/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 72
-    images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/30/f1b51074-a30b-4361-bf61-bc664c25402a/thumbnail/1200x630/de71b2eb38d3922f943bb2fb16159351/ai.jpg?v=a8a34dbc23229a263a09ea92e9d5b7dc"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Money, markets and machine learning: Unpacking the risks of adversarial AI"
-    excerpt: "According to the technology services company Exadel ... poisoning and adversarial attacks have broad implications across different machine learning applications, including financial forecast models. In a study conducted by researchers at the University ..."
-    publishedDateTime: 2023-08-30T16:01:00Z
-    webUrl: "https://thehill.com/opinion/finance/4176752-money-markets-and-machine-learning-unpacking-the-risks-of-adversarial-ai/"
-    ampWebUrl: "https://thehill.com/opinion/finance/4176752-money-markets-and-machine-learning-unpacking-the-risks-of-adversarial-ai/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/finance/4176752-money-markets-and-machine-learning-unpacking-the-risks-of-adversarial-ai/amp/"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 54
-  - title: "Exploring AI’s Transformative Impact on UK Pharmaceuticals and Manufacturing with Bidyut Sarkar"
-    excerpt: "As the AI wave sweeps across industries, the pharmaceutical sector stands poised for a transformative makeover. Experts contend that integrating artificial intelligence (AI) offers unprecedented prospects for accelerated innovation and enhanced healthcare outcomes in the life science industry."
-    publishedDateTime: 2023-09-01T12:56:00Z
-    webUrl: "https://techbullion.com/exploring-ais-transformative-impact-on-uk-pharmaceuticals-and-manufacturing-with-bidyut-sarkar/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 27
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/09/impact.jpg"
-        width: 775
-        height: 430
-        isCached: true
-  - title: "AI in Financial Services: A Transformational Force Beyond the Hype"
-    excerpt: "AI is reshaping all industries as it captivates the public with its limitless potential. Many in financial services have strong reservations about the technology, but it is here and is not going away."
-    publishedDateTime: 2023-08-30T09:31:00Z
-    webUrl: "https://internationalbanker.com/technology/ai-in-financial-services-a-transformational-force-beyond-the-hype/"
-    type: article
-    provider:
-      name: International Banker
-      domain: internationalbanker.com
-    quality: 19
-  - title: "How Machine Learning is Transforming the Online Card Games in India"
-    excerpt: "A fine balance has been created by the subtly included machine learning algorithms, enhancing the gaming experience without compromising the core of the games."
-    publishedDateTime: 2023-08-31T08:13:00Z
-    webUrl: "https://theprint.in/theprint-valuead-initiative/how-machine-learning-is-transforming-the-online-card-games-in-india/1740246/"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 19
+    quality: 17
 
 secured: "1oi1MWBsY9cZROOemBtkg0d49FhWmP3sTUjKcjk2+n2ZOHwCPF5XuCs1d5szoQ90tYu7AoFiwQ0Cv488ytKJyrfD3yzyHDOjONDJod7qVPvnuluxqnZmiHGrVnLsnr9pqw/Rr0i6EijX2dxjKBTfwtoQTN6lWYVcwqWI/pDgKLmJzYxw90Wa9i0/gAjpcFqjwvh3vDRpWLvhgg88MtS1tr54lqlOq08aN0Wk2W7PL9jOmzHSeyyDNK/FHdgpi9g6jJJOOQlyOB8apqwZtBLHQ2hK6b8oviZE/bson1NiL5MNsC2Jnhvj38UiJI+/EadbliMh6GkG/W+sKbHPxY9pCEEELgenl3Qkrg7xvCgLIJiJdkkVPkNWeJnSc2MKdziTx/H5pE3TI8+P4AfmDfLT1YOiCas4vbU1PzPcKP1L5vl3CYXRusvewdLfhcpM+ZAiBcgt68cFVl2DMPBl64uzspWeZ/Q9JTIhBzWOTNkM6HRzZ7DrjKuT0Fo1ljLbT7mEmsdOGOUo1sv3acbw67hLAA==;LO3nHjws5J5nYuQRK+38hA=="
 ---

@@ -55,6 +55,20 @@ related:
         width: 2470
         height: 1390
         isCached: true
+  - title: "Embracing Neuronal Diversity: A Leap in AI Efficiency and Performance"
+    excerpt: "The role of diversity has been a subject of discussion in various fields, from biology to sociology. However, a recent study from North Carolina State University's Nonlinear Artificial Intelligence Laboratory (NAIL) opens an intriguing dimension to this discourse: diversity within artificial intelligence (AI) neural networks."
+    publishedDateTime: 2023-09-03T22:48:00Z
+    webUrl: "https://www.unite.ai/embracing-neuronal-diversity-a-leap-in-ai-efficiency-and-performance/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/09/Alex_Mc_diverse_technolgical_neural_networks._f313159c-ce36-45ed-ad87-d0f7127d555e-1-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "xPVIT1aUU24cv7efEkD0xlxO3kxKnG6tP0O/dQ7yNvGDfvNxZhHlR1KSjJXSw4TJe4Wn9XUPzKubeDf4qZaBs/1ZO1TRJKwzkfCd6F4uR1tfH/qvRjsTr48VVlNZ1urCf/TjmEv78brSF0w6GrQusRztF+n2NQ/8KY1F0m0mIojw80JKc9qaSDj13ImLEFXUJ6W72pQWs9lxQuDhQfVLzuadOz9KkyYO9htt5PXyzo1uK5SkQnZsVu3LUHtti8d7W6M5Wsd3fxMkpXk22C7avPtLpoXB0DN5Fj8507DqpO94QOO2BjsizAzbPQ39wU5IgegFQtrE8RfHWY0CcIchcu9wQaR1VZMrCi2rKfn1wi0=;gS0LHg/6YtO0yt+2ImIWhQ=="
 ---

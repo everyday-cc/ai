@@ -25,63 +25,68 @@ images:
     isCached: true
 
 related:
-  - title: "Five Lessons Learned On Using AI In HR And Compliance"
-    excerpt: "The value of generative AI's answers depends on the quality of the questions. The problem is that HR and compliance topics are often nuanced. Expertise is required to distill the parameters and frame the underlying question correctly."
-    publishedDateTime: 2023-08-31T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/31/five-lessons-learned-on-using-ai-in-hr-and-compliance/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/31/five-lessons-learned-on-using-ai-in-hr-and-compliance/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/31/five-lessons-learned-on-using-ai-in-hr-and-compliance/amp/"
+  - title: "Transformers Revolutionized AI. What Will Replace Them?"
+    excerpt: "As another example, eighteen-month-old startup Inflection recently raised over $1 ... while a novel architecture soon displaces transformers as state-of-the-art in robotics. Or perhaps a new AI approach is developed that outperforms and rapidly replaces ..."
+    publishedDateTime: 2023-09-03T22:01:00Z
+    webUrl: "https://www.forbes.com/sites/robtoews/2023/09/03/transformers-revolutionized-ai-what-will-replace-them/"
+    ampWebUrl: "https://www.forbes.com/sites/robtoews/2023/09/03/transformers-revolutionized-ai-what-will-replace-them/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/09/03/transformers-revolutionized-ai-what-will-replace-them/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 93
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64ef50d52f92b4fe53f3933e/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64f3b2b43d727bdfbf85cc97/0x0.jpg?format=jpg&width=1200"
+        width: 711
+        height: 400
         isCached: true
-  - title: "How Apple is already using machine learning and AI in iOS"
-    excerpt: "Machine learning has become Apple's catch-all for its AI initiatives. Apple uses artificial intelligence ... with the launch of iOS 17.1. Apple will improve dictation and language translation with machine learning as well. Machine learning is also present ..."
-    publishedDateTime: 2023-09-02T17:17:00Z
-    webUrl: "https://appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios"
-    ampWebUrl: "https://appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios/amp/"
+  - title: "How the AI Revolution Will Reshape the World"
+    excerpt: "We are now facing a new wave of technology, centered around AI but including synthetic biology, quantum computing, and abundant new sources of energy. In many respects it will repeat this pattern. Yet it will also depart from it in crucial ways only now becoming clear."
+    publishedDateTime: 2023-09-01T11:05:00Z
+    webUrl: "https://time.com/6310115/ai-revolution-reshape-the-world/"
     type: article
     provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 76
+      name: Time
+      domain: time.com
+    quality: 67
     images:
-      - url: "https://photos5.appleinsider.com/gallery/56062-113816-Apple-Siri-xl.jpg"
-        width: 1280
-        height: 720
+      - url: "https://api.time.com/wp-content/uploads/2023/09/GettyImages-1405750746.jpg?quality&#x3D;85"
+        width: 2121
+        height: 1414
         isCached: true
-  - title: "The Rise Of AI And Its Implications For Gaming"
-    excerpt: "and raising many questions in relation to ethics, technology, productivity, creativity, and the value of time. While AI is a cause of concern for many industries, gaming has been incorporating it for quite a while now, in terms of procedural generation ..."
-    publishedDateTime: 2023-08-30T16:40:00Z
-    webUrl: "https://www.benzinga.com/23/08/34120429/the-rise-of-ai-and-its-implications-for-gaming"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34120429"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34120429"
+  - title: "5 Ways AI Will Transform the Mobility Industry"
+    excerpt: "Although they've only really reached mainstream attention in the past decade, autonomous vehicles have been around since the 1990s. In recent years, some self-driving cars have achieved Level 4 autonomy, which means they can steer, accelerate, decelerate, and intervene to prevent a crash without the need for human interaction."
+    publishedDateTime: 2023-08-31T15:30:00Z
+    webUrl: "https://www.inc.com/inc-masters/five-ways-ai-will-transform-the-mobility-industry.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
+      name: Inc
+      domain: inc.com
+    quality: 37
     images:
-      - url: "https://cdn.benzinga.com/files/ai-in-gaming-main-1600-1_2.jpg?width=1200&height=800&fit=crop"
-        width: 1050
-        height: 700
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1263350156_hssaxd.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Unveiling AI's Secret Impact On Human Labor And Intelligence"
-    excerpt: "As AI advances, it's not uncommon to wonder whether it may threaten humanity and whether wage requirements and automated labor will affect workers' paychecks."
-    publishedDateTime: 2023-09-01T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/01/unveiling-ais-secret-impact-on-human-labor-and-intelligence/"
+  - title: "How the rise of AI is revolutionising the FinTech industry"
+    excerpt: "In that sense, the role of AI in revolutionizing how financial institutions like non-banking financial companies (NBFCs) are offering banking-like services is proving to be extremely important. Not only is AI helping new-age financial institutions in automating manual processes such as data entry and customer request management,"
+    publishedDateTime: 2023-09-03T12:30:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-how-the-rise-of-ai-is-revolutionising-the-fintech-industry-3231450/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 19
+  - title: "Is Corporate America ready for the AI revolution?"
+    excerpt: "Artificial intelligence is transforming the way we live, but despite its rapid progression into the mainstream, according to a new report from the New York Times, most of corporate America isn't prepared to fully embrace or adopt the powerful new technology."
+    publishedDateTime: 2023-08-30T14:57:00Z
+    webUrl: "https://www.cbsnews.com/video/corporate-america-not-ready-for-ai-revolution/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 17
 
 secured: "plObk49hzwJauJUbaW3kX3xBsjkLIJMfP582N2GB8fEgoU2mqP+2UAqs+ryO8TEHfocsJquyRzFDGvEQJywY5NhCZcmGJ3JhKma4NuEwXinMzBX8pF/nU6Ag0DB+eZcWB5vnEMom5sauX6eIAQiw5ZDutNFajAJkdMsK4K4v3xT787Sli6srkDkJxuE0/7yT670h86Ph6z/1GbDHbdR7Xgm3S5iT1x+lWj89idUwWLShbk0Zb1Qhgi7TQnuZJ/6/3dSCFHx4sYH3X09q9nVRpHioEmibhqwjmRyz53HOXeQ8iR3KyL/zqmyQ5dE8UQc2/UE6ZQMpMIM6LA7OUSc/MAXuxSlHEeEAIgs6SQEfret8fXtZ366pxLY9fJ8eWyLswe/hg9Z+c/Qz+nDIpsvPqeMAb9s4GA8bEiTnTVdK/NMR+n4kBG3rw6JM9Ze3Q+iLXlw68QaULERG+FYnMzFgEqCRlj8WSroJodVjfZdwDCCazaAEnV09Wpfj/pZ+J6V9Uw/v4k9SzAT8RnBoWICCcA==;iES4EuXLRLPIJTIxHpXFag=="
 ---

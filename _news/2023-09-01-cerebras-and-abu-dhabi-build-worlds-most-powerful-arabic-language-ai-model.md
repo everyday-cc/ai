@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/cerebras-and-abu-dhabi-build-worlds-
 webUrl: "https://www.zdnet.com/article/cerebras-and-abu-dhabi-build-worlds-most-powerful-arabic-language-ai-model/"
 type: article
 quality: 71
-heat: 102
+heat: 91
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://images.firstpost.com/wp-content/uploads/2023/08/AIs-Arabian-Nights-UAE-launches-new-large-language-model-proficient-in-generating-Arabic-content-.jpg"
         width: 640
         height: 362
-        isCached: true
-  - title: "UAE's G42 launches open source Arabic language AI model"
-    excerpt: "(Reuters) - A group of engineers, researchers and a Silicon Valley-based chip company collaborated to release advanced Arabic language software that can power generative AI applications. The new large language model called Jais contains 13 billion ..."
-    publishedDateTime: 2023-08-30T06:06:00Z
-    webUrl: "https://www.aol.com/news/uaes-g42-launches-open-source-053441294.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/ee1ee32ee8fcd61a15a1a915cce01619"
-        width: 800
-        height: 418
         isCached: true
   - title: "UAE launches Arabic large language model in Gulf push into generative AI"
     excerpt: "An artificial intelligence group with links to Abu Dhabi’s ruling family has launched what it described as the world’s highest-quality Arabic AI software, as the United Arab Emirates pushes ahead with efforts to lead the Gulf’s adoption of generative AI."

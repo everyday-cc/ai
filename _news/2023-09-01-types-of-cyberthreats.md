@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/types-of-cyberthreats/"
 webUrl: "https://www.ibm.com/blog/types-of-cyberthreats/"
 type: article
 quality: 82
-heat: 93
+heat: 92
 published: true
 
 provider:

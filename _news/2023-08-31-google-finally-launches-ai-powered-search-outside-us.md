@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google's search for an AI future as it turns 25"
+    excerpt: "Google turns 25 this month (I'll have a few more candles on my cake) - and finds itself in a tech landscape that has changed dramatically since founders Larry Page and Sergey Brin started it in 1998."
+    publishedDateTime: 2023-09-02T23:41:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-66659361?at_campaign=Social_Flow&at_campaign_type=owned&at_bbc_team=editorial&at_link_origin=BBC_Scotland_News&at_format=link&at_link_id=FC87641C-4A43-11EE-9E4C-2787AD7C7D13&at_link_type=web_link&at_ptr_name=facebook_page&at_medium=social"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-66659361.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-66659361.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/68DF/production/_130974862_gettyimages-1637958839.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Why Google Wants You to Smell This Article with AI"
     excerpt: "“Your phone can easily share images and sound,” Joel Mainland, an olfactory researcher at the Monell Chemical Senses Center in Philadelphia, Pennsylvania, told The Daily Beast. “You can archive them and look at them over and over again without destroying them—but you can’t really do that with smells.”"
     publishedDateTime: 2023-08-31T18:34:00Z

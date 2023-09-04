@@ -133,6 +133,20 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 16
+  - title: "David Littleproud backs Peter Dutton's promise of Indigenous recognition referendum should the Voice to Parliament fail"
+    excerpt: "Nationals Leader David Littleproud says his party will support Peter Dutton's promise to hold a second referendum to recognise Indigenous Australians in the constitution if the \"yes\" vote fails and the Coalition wins the next election. Federal politics and ..."
+    publishedDateTime: 2023-09-03T23:28:00Z
+    webUrl: "https://www.farmonline.com.au/story/8334399/nationals-back-duttons-promise-of-a-second-referendum-if-voice-fails/"
+    type: article
+    provider:
+      name: FarmOnline
+      domain: farmonline.com.au
+    quality: 15
+    images:
+      - url: "https://www.farmonline.com.au/images/transform/v1/crop/frm/212131485/f5f0e371-eff4-4e41-88d6-f5e114419937.jpg/r0_361_5200_3091_w1200_h630_fmax.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Penny Wong: Voting Yes on the Voice is a vote for recognition"
     excerpt: "The Statement made the modest ask for recognition of this land’s First Peoples in the constitution through a Voice to parliament. Australian Foreign Minster Penny Wong. Picture: Pat Hoelscher / AFP The Voice will offer ideas and advice, so governments ..."
     publishedDateTime: 2023-08-30T08:19:00Z

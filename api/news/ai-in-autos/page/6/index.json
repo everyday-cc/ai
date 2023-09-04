@@ -2,6 +2,126 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-07-15-asia-pacific-self-driving-car-market-2023-insights-on-size-share-application-and-forecast-assumptions-2030.md",
+      "title": "Asia-Pacific Self-driving Car Market 2023 Insights on Size, Share, Application and Forecast Assumptions 2030",
+      "excerpt": "Asia-Pacific Self-driving Car Market Research Report 2023 offers a comprehensive analysis of the market, including business opportunities, growth, and trend analysis for various applications ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33227101/asia-pacific-self-driving-car-market-2023-insights-on-size-share-application-and-forecast-assumptio",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33227101/asia-pacific-self-driving-car-market-2023-insights-on-size-share-application-and-forecast-assumptio",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-14T18:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-15-europe-self-driving-car-market-2023-size-share-projected-to-deliver-greater-revenues-during-the-forecast-period-2030.md",
+      "title": "Europe Self-driving Car Market 2023 Size, Share, Projected to Deliver Greater Revenues during the Forecast Period 2030",
+      "excerpt": "Europe Self-driving Car Market Research Report 2023 offers a comprehensive analysis of the market, including business opportunities, growth, and trend analysis for various applications ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33227102/europe-self-driving-car-market-2023-size-share-projected-to-deliver-greater-revenues-during-the-for",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33227102/europe-self-driving-car-market-2023-size-share-projected-to-deliver-greater-revenues-during-the-for",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33227102",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33227102",
+      "publishedDateTime": "2023-07-14T18:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-15-self-driving-car-market-2023-detailed-analysis-of-current-industry-figures-with-size-share-and-forecasts-growth-2030.md",
+      "title": "Self-driving Car Market 2023 Detailed Analysis of Current Industry Figures with Size, Share and Forecasts Growth 2030",
+      "excerpt": "Car manufacturers are investing heavily in artificial intelligence to succeed in the era of self-driving cars. The global self-driving car market segment is based on applications, automation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33227129/self-driving-car-market-2023-detailed-analysis-of-current-industry-figures-with-size-share-and-fore",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33227129/self-driving-car-market-2023-detailed-analysis-of-current-industry-figures-with-size-share-and-fore",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33227129",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33227129",
+      "publishedDateTime": "2023-07-14T18:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-15-teamsters-city-leaders-rally-against-self-driving-trucks-in-san-francisco.md",
       "title": "Teamsters, city leaders rally against self-driving trucks in San Francisco",
       "excerpt": "Teamsters and city leaders rallied against self-driving trucks outside San Francisco City Hall on Friday. Assembly Bill 316 would regulate autonomous trucks over 10,000 pounds and would mandate, among other requirements that someone be in the truck while it's on public roads.",
@@ -1181,137 +1301,6 @@
       "provider": {
         "name": "Deadline.com",
         "domain": "deadline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-age-of-ai-everything-you-need-to-know-about-artificial-intelligence.md",
-      "title": "Age of AI: Everything you need to know about artificial intelligence",
-      "excerpt": "The U.S. Department of Commerce could prohibit shipments of chips from manufacturers including Nvidia to customers in China as soon as early next month (July). The latest move to weigh additional restrictions on AI chip export to China is part of the U.S ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/",
-      "originalUrl": "https://techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 236,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2016/11/wtf_is_ai.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/07/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-07-07T09:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-as-writers-actors-fight-for-ai-protections-artificial-intelligence-screenplay-competition-opens-quickly-closes.md",
-      "title": "As Writers & Actors Fight For AI Protections, Artificial Intelligence Screenplay Competition Opens & Quickly Closes",
-      "excerpt": "Scriptapalooza, a screenplay competition company, launched, and then quickly closed its Artificial Intelligence Screenplay Competition after a furor from writers. It comes as the writers are ...",
-      "sourceUrl": null,
-      "webUrl": "https://deadline.com/2023/07/artificial-intelligence-screenplay-competition-opens-quickly-closes-1235431839/",
-      "originalUrl": "https://deadline.com/2023/07/artificial-intelligence-screenplay-competition-opens-quickly-closes-1235431839/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://deadline.com/wp-content/uploads/2023/07/GettyImages-1512881796.jpg?w=1024",
-          "width": 1024,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://deadline.com/2023/07/artificial-intelligence-screenplay-competition-opens-quickly-closes-1235431839/amp/",
-      "cdnAmpWebUrl": "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2023/07/artificial-intelligence-screenplay-competition-opens-quickly-closes-1235431839/amp/",
-      "publishedDateTime": "2023-07-07T03:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deadline.com",
-        "domain": "deadline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-musk-predicts-tesla-self-driving-cars-later-this-year.md",
-      "title": "Musk predicts Tesla self-driving cars 'later this year'",
-      "excerpt": "\"In terms of where Tesla is at this stage, I think we are very close to achieving full self-driving without human supervision,\" Musk said via video link at the opening ceremony of an artificial intelligence conference in Shanghai. \"This is only speculation ...",
-      "sourceUrl": null,
-      "webUrl": "https://japantoday.com/category/business/musk-predicts-tesla-self-driving-cars-%27later-this-year%27",
-      "originalUrl": "https://japantoday.com/category/business/musk-predicts-tesla-self-driving-cars-%27later-this-year%27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Japan Today",
-        "domain": "japantoday.com",
         "images": null,
         "publishers": null,
         "authors": null
