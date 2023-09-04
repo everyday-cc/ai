@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gadgetsnow.com/tech-news/google-deepmind-co-founder-want
 cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/google-deepmind-co-founder-wants-us-to-link-ai-chip-sales-to-minimum-artificial-intelligence-standards/amp_articleshow/103290407.cms"
 type: article
 quality: 107
-heat: 247
+heat: 237
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2FUntitled-design-1-4.jpg&signature=f5d0e747fd93332c435e17b49afb3e74"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Google's DeepMind announces SynthID to watermark AI-generated images"
-    excerpt: "Google's AI unit, DeepMind, has unveiled SynthID, a way to watermark AI-generated images for easier identification. In a blog post, announcing the new tool, DeepMind said that the technology was developed in conjunction with Google Cloud, and embeds a ..."
-    publishedDateTime: 2023-08-30T11:56:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/googles-deepmind-announces-synthid-to-watermark-ai-generated-images-11284191.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/googles-deepmind-announces-synthid-to-watermark-ai-generated-images-11284191.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/googles-deepmind-announces-synthid-to-watermark-ai-generated-images-11284191.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 74
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/08/64e8aba55a7de407785e3bd5_Copy-of-header-1-p-1080.png"
-        width: 1080
-        height: 608
         isCached: true
   - title: "Google DeepMind co-founder calls for US to enforce AI standards"
     excerpt: "Google DeepMind co-founder asks US to allow Nvidia'a AI chip buyers to adhere to ethics when using the technology"

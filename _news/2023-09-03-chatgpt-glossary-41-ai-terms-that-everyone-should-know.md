@@ -30,7 +30,7 @@ related:
     provider:
       name: Philippine Daily Inquirer
       domain: inquirer.net
-    quality: 39
+    quality: 41
     images:
       - url: "https://technology.inquirer.net/files/2023/09/ai-words.png-620x349.png"
         width: 620

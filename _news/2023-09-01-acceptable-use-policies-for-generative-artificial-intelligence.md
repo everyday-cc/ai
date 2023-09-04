@@ -167,15 +167,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Confirm raises $6.2 million to bring generative AI and network analysis to performance reviews"
-    excerpt: "incorporating “Organizational Network Analysis (ONA),” an approach the consulting giant Deloitte describes as “ visualizing and analyzing formal and informal relationships in your organization,” as well as generative AI in the form of OpenAI’s ..."
-    publishedDateTime: 2023-08-30T12:00:00Z
-    webUrl: "https://venturebeat.com/enterprise-analytics/confirm-raises-6-2-million-to-bring-generative-ai-and-network-analysis-to-performance-reviews/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 37
   - title: "Generative AI And SEO Strategy: Getting The Most Out Of Your Tools"
     excerpt: "Dive into the State of SEO report findings for illuminating perspectives on generative AI's impact on SEO."
     publishedDateTime: 2023-08-31T09:00:00Z
@@ -207,15 +198,6 @@ related:
     provider:
       name: Rochester Institute of Technology
       domain: rit.edu
-    quality: 19
-  - title: "SAP brings generative AI to data cloud platform with Google’s help"
-    excerpt: "The solution infuses the ERP provider’s data ecosystem with Vertex AI tools and initially targets the automotive industry."
-    publishedDateTime: 2023-08-30T12:09:00Z
-    webUrl: "https://www.ciodive.com/news/SAP-Google-Cloud-ESG-automotive-generative-AI-solutions/692059/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
     quality: 19
 
 secured: "Xme/UWyVM7HRiotqaWSglnyigaabyeqI44Ukh+CTkcxqQ6j0CjB13D8cALrdcHAwU6HcmYcgcC8VkOJsoT+YcpHKqfJu8TJ6fTyxdOSOUIkz94vIViXYCAcvCiEPb574ctr7GmEcrEv/v9oMGuKs3JrYUZW6NzTpUdzxuh8BqY2X4v+cUB3MWPzwuPgMaqX9wCtc1+lwtw1JR28a0Jz9naTV8Bc96bKj6GQ7k9ZcrAJ0oV4fB9tw0DM9vZ6sC3/W1+I6urZDEf/UQZOzwGnQz/ZaxbTeXidzapuPKSXwu4X5KRiB+EPPUlrZ2W/3Ci8b/0zPA6K2ugp0gBXTATq96FPcuaQuHw4ZB9pJjPXMR0TyciBrWpx2flmuhFxMPK1eJ91VJyNnADmF/23DyCjBL+WbRsNu1Wc6Bky/RHXkFfYQL0UGAgS2rShxEOjz/l+WrqejligZR4ytq2fUOK+5UCFhtuMSnWNQ6iCsNarkdUCEkSfVv7lqsX7qHJICF8WshQC8+6nvEqlWaVgMqjEksA==;zhwBaGqESCUCvLdVxYPAGw=="

@@ -33,6 +33,15 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Contextualization: The Key To Unlocking Generative AI's Potential"
+    excerpt: "This requires integrating large language models (LLM) with industry-specific AI/machine learning (ML ... content extraction, summarization, translation and knowledge management for LLMs. Moving away from the traditional seller-client model ..."
+    publishedDateTime: 2023-08-30T13:17:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/30/contextualization-the-key-to-unlocking-generative-ais-potential/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
 
 secured: "KvBZ33kbb+fDgZJl4CdN4qj4nAaQMWSyqfw3MOZX8hvyb8rNO7Mi/jnzKa8Mhkup84Hfnqm1POFAdXOmTQiiKkOP6qw2Zpj0LgkUJory1CrYq8O45hyP6AnYruTnqULaoxiV47QtMR9QSbnoXaJ0tejwEus5WfWQT7vKAKCsLXbyi2bY0utT2hVqYQ5kuCELfo13Y7w1acTI37SghQyAnB+/c3qCwuKhN0JYopDWk0JnANI4KiPI5K57v+Se5P8LR8O6cBsj8zy6GGsxqi6BY6hD0SgvSLhSgObLXgWU6fFLAM5yz8DQiZQawkzKw9GD2kz9b/dKykYRRQajFhcwaonOejE2nBFTBUi1UQrhwMo=;KQpTOjP9xULTTUa5Dnghvg=="
 ---

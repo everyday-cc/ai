@@ -81,6 +81,15 @@ related:
       domain: nasdaq.com
     quality: 38
   - title: "Fintech’s Bright Future: 3 Stocks Set to Skyrocket in 2024"
+    excerpt: "So let’s take a closer look at three fintech stocks on my shopping list right now. On any major pullbacks, I think these companies may be worth considering. PayPal’s (NASDAQ:PYPL) AI-driven insights, unique wallets, and smooth CEO succession plan ..."
+    publishedDateTime: 2023-08-30T23:59:00Z
+    webUrl: "https://www.nasdaq.com/articles/fintechs-bright-future%3A-3-stocks-set-to-skyrocket-in-2024"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
+  - title: "Fintech’s Bright Future: 3 Stocks Set to Skyrocket in 2024"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The fintech sector, which provides investors with exposure to a blend of"
     publishedDateTime: 2023-09-01T01:16:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/fintechs-bright-future-3-stocks-set-to-skyrocket-in-2024-1032598018"

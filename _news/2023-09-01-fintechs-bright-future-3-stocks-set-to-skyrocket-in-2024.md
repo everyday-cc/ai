@@ -78,6 +78,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 38
+  - title: "Fintech’s Bright Future: 3 Stocks Set to Skyrocket in 2024"
+    excerpt: "So let’s take a closer look at three fintech stocks on my shopping list right now. On any major pullbacks, I think these companies may be worth considering. PayPal’s (NASDAQ:PYPL) AI-driven insights, unique wallets, and smooth CEO succession plan ..."
+    publishedDateTime: 2023-08-30T23:59:00Z
+    webUrl: "https://www.nasdaq.com/articles/fintechs-bright-future%3A-3-stocks-set-to-skyrocket-in-2024"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
   - title: "Future of Fintech in Latin America 2023: AI sector expects growth and aims to confront bias"
     excerpt: "AI is expected to increase the GDP of Latin America by more than 5% by 2030, according to an Economist Impact report, as demonstrated in the graph below. However, according to Oxford Insights, Latin America is among the lowest scoring regions for the Government  AI Readiness Index in 2021."
     publishedDateTime: 2023-08-31T09:15:00Z

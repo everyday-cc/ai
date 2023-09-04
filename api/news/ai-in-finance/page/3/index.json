@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-17-what-next-for-ai-and-ml-in-financial-services.md",
+      "title": "What next for AI and ML in financial services?",
+      "excerpt": "The latest research from The Bank of England and Financial Conduct Authority, for example, suggests that 72% of UK firms in the sector are developing or deploying ML, a branch of AI that gives machines the ability to \"learn\" from data to improve computer performance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/blogposting/24558/what-next-for-ai-and-ml-in-financial-services",
+      "originalUrl": "https://www.finextra.com/blogposting/24558/what-next-for-ai-and-ml-in-financial-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/finextra-images/visible_pictures/84105e85-a03f-4e90-bd88-1dae0e9ce405.jpg",
+          "width": 500,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-17T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-07-17-indias-think360-make-top-ai-fintech-companies-list.md",
       "title": "India's Think360 make top AI Fintech Companies List",
       "excerpt": "Mumbai-based Think Analytics India Pvt Ltd, also known as Think360 AI, was one of only five Asia-Pacific firms that were named in the 2023 edition of AIFINTECH1",
@@ -1321,49 +1365,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-announcing-the-fintech-stage-agenda-at-techcrunch-disrupt.md",
-      "title": "Announcing the Fintech Stage agenda at TechCrunch Disrupt",
-      "excerpt": "Building a fintech startup isn’t an easy task ... their web3 strategies as other VCs look to other horizons (ahem, AI). Arianna Simpson is a general partner deploying capital for a16z’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/27/announcing-the-fintech-stage-agenda-at-techcrunch-disrupt/",
-      "originalUrl": "https://techcrunch.com/2023/06/27/announcing-the-fintech-stage-agenda-at-techcrunch-disrupt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

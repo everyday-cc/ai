@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cryptonewsz.com/decentralized-ai-artificial-intelligence
 cdnAmpWebUrl: "https://www-cryptonewsz-com.cdn.ampproject.org/c/s/www.cryptonewsz.com/decentralized-ai-artificial-intelligence-in-web3/amp/"
 type: article
 quality: 72
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "BTC Digital, Zhonglian To Jointly Explore Projects In Web3, AI, Other Fields"
-    excerpt: "Zhonglian International is a FinTech company committed to building a safe and sustainable ... and Web3.0 decentralized financial products and services and developing applications in the field of AI artificial intelligence. The parties will cooperate ..."
-    publishedDateTime: 2023-08-30T12:57:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/btc-digital-zhonglian-to-jointly-explore-projects-in-web3-ai-other-fields-1032592681"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 46
   - title: "A Comprehensive Review of HIX.AI: Best All-in-one AI Writing Copilot Online"
     excerpt: "HIX.AI has been making waves in the AI writing field, so we decided to conduct a comprehensive review to see what it is that makes it worth the investment!"
     publishedDateTime: 2023-08-30T18:48:00Z

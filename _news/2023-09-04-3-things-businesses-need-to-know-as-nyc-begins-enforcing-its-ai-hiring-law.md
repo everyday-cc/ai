@@ -93,7 +93,7 @@ related:
     provider:
       name: Restaurant Business
       domain: restaurantbusinessonline.com
-    quality: 52
+    quality: 54
     images:
       - url: "https://cdn.winsightmedia.com/platform/files/public/2023-08/background/chipotle-exterior.jpg?VersionId=7zzKY7gQ.d6YfFPHiWdyBgntDTUuFvo9"
         width: 1800

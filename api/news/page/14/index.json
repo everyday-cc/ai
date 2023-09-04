@@ -2,6 +2,49 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-08-23-rise-of-the-robots-the-new-ai-tech-poised-to-take-over-classrooms.md",
+      "title": "Rise of The Robots: The New AI Tech Poised To Take Over Classrooms",
+      "excerpt": "Curiosity Robotics plans on taking the robotic helper to more schools across Israel and abroad. Undaunted by any current backlash to AI, the ambitious start-up is “committed to transforming ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailyitem.com/wire/rise-of-the-robots-the-new-ai-tech-poised-to-take-over-classrooms/article_6ed81450-fef0-5558-9d51-906eee932adc.html",
+      "originalUrl": "https://www.dailyitem.com/wire/rise-of-the-robots-the-new-ai-tech-poised-to-take-over-classrooms/article_6ed81450-fef0-5558-9d51-906eee932adc.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/assets/v3/editorial/0/30/030d87a1-a1f5-5cc4-a90f-3eea2b9a51b6/64e4c536bf69f.image.jpg?resize=1024%2C577",
+          "width": 1024,
+          "height": 577,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailyitem.com/wire/rise-of-the-robots-the-new-ai-tech-poised-to-take-over-classrooms/article_6ed81450-fef0-5558-9d51-906eee932adc.amp.html",
+      "cdnAmpWebUrl": "https://www-dailyitem-com.cdn.ampproject.org/c/s/www.dailyitem.com/wire/rise-of-the-robots-the-new-ai-tech-poised-to-take-over-classrooms/article_6ed81450-fef0-5558-9d51-906eee932adc.amp.html",
+      "publishedDateTime": "2023-08-22T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Item",
+        "domain": "dailyitem.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-22-microsoft-changes-its-takeover-of-call-of-duty-developer-in-attempt-to-get-it-approved.md",
       "title": "Microsoft changes its takeover of Call of Duty developer in attempt to get it approved",
       "excerpt": "Microsoft has made a major change to its proposed ... or to exclusively control the licensing terms of Activision Blizzard games for rival services.” It marks a new twist in the case, the ...",
@@ -1120,49 +1163,6 @@
         "AI",
         "AI Ethics",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-ai-facial-recognition-technology-the-black-box-hurting-black-people.md",
-      "title": "AI facial recognition technology: the black box hurting Black people",
-      "excerpt": "Unknown to her, the ministry used artificial intelligence (AI) facial recognition technology (FRT) to match her photo to some other woman in its database. MTO passed this information to Immigration, Refugee and Citizenship Canada (IRCC). Subsequently ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com/opinion/contributors/ai-facial-recognition-technology-the-black-box-hurting-black-people/article_67c4a8e6-e377-55c6-9e63-2bd209e99dc3.html",
-      "originalUrl": "https://www.thestar.com/opinion/contributors/ai-facial-recognition-technology-the-black-box-hurting-black-people/article_67c4a8e6-e377-55c6-9e63-2bd209e99dc3.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/b0/eb0ee82b-c1af-5a3d-a901-229b6864a65a/64e3dadf0db19.image.jpg?resize=1024%2C1081",
-          "width": 1024,
-          "height": 1081,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestar.com/opinion/contributors/ai-facial-recognition-technology-the-black-box-hurting-black-people/article_67c4a8e6-e377-55c6-9e63-2bd209e99dc3.amp.html",
-      "cdnAmpWebUrl": "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/opinion/contributors/ai-facial-recognition-technology-the-black-box-hurting-black-people/article_67c4a8e6-e377-55c6-9e63-2bd209e99dc3.amp.html",
-      "publishedDateTime": "2023-08-22T02:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Toronto Star",
-        "domain": "thestar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

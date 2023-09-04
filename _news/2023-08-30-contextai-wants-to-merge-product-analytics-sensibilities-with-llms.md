@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/30/context-ai-is-merging-product-anal
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/30/context-ai-is-merging-product-analytics-sensibilities-with-llms/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Rockset Raises $44M in Funding to Power Search, Analytics, and AI Applications"
-    excerpt: "As the next-generation real-time indexing database built for the cloud, Rockset is replacing Elasticsearch especially in modern fintech, gaming, e-commerce and logistics companies for building search and AI applications such as: Rockset ingests streaming ..."
-    publishedDateTime: 2023-08-30T12:55:00Z
-    webUrl: "https://www.datanami.com/this-just-in/rockset-raises-44m-in-funding-to-power-search-analytics-and-ai-applications/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 15
 
 secured: "47WhJLYZ3e87uu7F1hWQMcuJMTyYZa0cxcLqOC7tYd9y6NkU89Gye3dN6C04S7zqVJrMaMfKKxrfvwA4l9s194IrnY6QU4h8BrXC2pOeCmC2O91Z3/c/opCA3j5RSHeCF93zDBLGThzRW2vbBRZyG+bULbli0h+au7UYBFAtVBeoVyj7SoPtz9e8NLlJf0e+8Gwr/bv35MZzJeho4tgeS+WPmuYqV3s6a3RTGmOJP83FiLS27/Iy3U5lJuNawdIhWhHqS/YKS/EB70vea19qw8wcScwsC/uKR6o0QBdyYdhVHoHnrr5YR9pNQW7UxXNCWq4tr4go/KmOlZHSLeu2e2DpwzCmgwT6TSfneUucoTA=;cWhrDl/xUOvppxqowqvRew=="
 ---

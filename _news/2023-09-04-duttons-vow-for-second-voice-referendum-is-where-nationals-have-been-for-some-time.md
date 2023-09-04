@@ -81,6 +81,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Voice referendum: John Farnham's iconic song now the soundtrack of Yes campaign ad"
+    excerpt: "Federal Opposition Leader Peter Dutton says he'll hold another referendum if the vote to enshrine an Indigenous Voice to Parliament in the constitution fails. The promise comes as the Yes campaign secures the support of Australian music-legend John Farnham – and the use of his song You’re the"
+    publishedDateTime: 2023-09-04T05:01:00Z
+    webUrl: "https://www.sbs.com.au/news/podcast-episode/voice-referendum-john-farnhams-iconic-song-now-the-soundtrack-of-yes-campaign-ad/3rg8k01f7"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 33
+    images:
+      - url: "https://images.sbs.com.au/dims4/default/2b770df/2147483647/strip/true/crop/1998x1124+1+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F96%2F5b%2F4a1512784f57a4fd2e5c3098821e%2Fjohn-farnham-in-1986-when-his-song-youre-the-voice-was-released-still-from-ad-uluru-dialogue.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "PM announces date for Voice to Parliament referendum"
     excerpt: "Prime Minister Anthony Albanese announced the date for the referendum on the Voice to Parliament during a visit to Adelaide on Wednesday. On Saturday, October 14, Australians will have their say in a referendum about whether to change the Constitution to recognise the First Peoples of Australia by establishing a body called the Aboriginal and Torres Strait Islander Voice."
     publishedDateTime: 2023-08-31T23:44:00Z

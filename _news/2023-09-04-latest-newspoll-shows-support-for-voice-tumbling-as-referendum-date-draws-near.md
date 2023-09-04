@@ -20,6 +20,19 @@ topics:
   - Natural Language Processing
   - AI
 
+related:
+  - title: "No vote for Voice tips over 50 per cent as Coalition leads Labor on Newspoll primary vote"
+    excerpt: "The Coalition has leapt ahead of Labor on primary votes for the first time since last year’s election and ­Anthony Albanese has dipped into negative territory, as support for the voice dropped further following the ­referendum date announcement and the official launch of a six-week ­campaign."
+    publishedDateTime: 2023-09-04T05:44:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politics/no-vote-for-voice-tips-over-50-per-cent-as-coalition-leaps-ahead-of-labor-on-primary-vote/news-story/47923e5faa868024fea3b9f05d6cd1ff"
+    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/no-vote-for-voice-tips-over-50-per-cent-as-coalition-leaps-ahead-of-labor-on-primary-vote/news-story/47923e5faa868024fea3b9f05d6cd1ff?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/no-vote-for-voice-tips-over-50-per-cent-as-coalition-leaps-ahead-of-labor-on-primary-vote/news-story/47923e5faa868024fea3b9f05d6cd1ff?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 15
+
 secured: "/ol44WAvxMG207eC4rInlH/MdKRVix1gfFJHmpH//FrQCIxT8H2WguDq3swnu85bpR2rPXExMUnsYiUkLPobh6ko8Q/umm1AwNyzqq5eeoJBc1cL5viwKcO2I3O9H264coNHT8futmcAWwPitVUo5oyAaydPNNoFvY3ysy6lGDPtMJXQ39rRYZH1yZTsgBRmWYecY/r8ArEI+KEQ27AiTy9jb+BwIcuDHCgzLSkhSgdTXBk+E8D6TpeKSXZmeOEOd9CEq4yenqvBydvYKPXNKQ0yJZLfZS8dBXGovWiZSl07LuUQp3J0xHbqr7YjRscIohkWUxLJThNcw36DPhvbTGVxLcteXJuitII3voOqVJzs9HGGW2ihAGskUiuAPXZuYJVcGSzlNLvWKCQJR20OzAu2KuI3Y+aVb91BFRFr5lS/4MbYiU+wV/w3C22vXlSHUj7pWpMyb4GLjr66qbtlw97XybbCZPYbuJIOn6U1aHG8ZZdeuN9Ba5WNBRHdJKfaK5opEJn/8ONINR6bj+4BuA==;Itbex8pGs9FyHsAHztAwkg=="
 ---
 

@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Real-time machine learning: Driving the future of self-driving technology"
-    excerpt: "Prakriti Singh wins Times Super Judge Contest 2023 \"The true propulsion behind the future of transportation lies in the synergy of real-time low-latency processing facilitated by efficient compression. The future is now, and autonomous vehicles are on the ..."
-    publishedDateTime: 2023-08-30T12:32:00Z
-    webUrl: "https://timesofindia.indiatimes.com/top-headlines/real-time-machine-learning-driving-the-future-of-self-driving-technology/articleshow/103198559.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 20
   - title: "Seattle is welcoming more self-driving car companies"
     excerpt: "Seattle is becoming a bigger testing ground for self-driving cars, with two companies already testing here and a third planning to start next week. Yes, but: It's likely to be some time before locals can hail a driverless robotaxi, due to state rules that don't allow that right now."
     publishedDateTime: 2023-08-31T13:20:00Z

@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence research must remain an American priority"
-    excerpt: "Two of the most promising AI techniques are machine learning, in which sophisticated algorithms learn from data to ensure accurate decision-making, and deep learning, which is a subset of machine learning that focuses on training artificial neural networks to learn about and understand complex patterns and representations in data."
-    publishedDateTime: 2023-08-30T12:00:00Z
-    webUrl: "https://www.ornl.gov/news/artificial-intelligence-research-must-remain-american-priority"
-    type: article
-    provider:
-      name: Oak Ridge National Lab
-      domain: ornl.gov
-    quality: 34
   - title: "10 million enslaved Americans' names are missing from history. AI is helping identify them."
     excerpt: "In addition to AI, the 10 Million Names Project is employing oral histories and archived documents to help identify 10 million enslaved people in pre- and post-colonial America."
     publishedDateTime: 2023-08-31T11:30:00Z

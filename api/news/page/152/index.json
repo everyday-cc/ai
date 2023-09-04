@@ -2,6 +2,59 @@
   "page": 152,
   "value": [
     {
+      "path": "_news/2023-05-24-microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages.md",
+      "title": "Microsoft aims to win the AI app race with three big advantages",
+      "excerpt": "At Build, Microsoft showed off its efforts to extend its AI-powered app ecosystem and plugin framework. But this is no easy race to win.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages/",
+      "originalUrl": "https://venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 426,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-75.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages/amp/",
+      "publishedDateTime": "2023-05-24T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-24-google-to-work-with-europe-on-stop-gap-ai-pact.md",
       "title": "Google to work with Europe on stop-gap ‘AI Pact’",
       "excerpt": "Google's Sundar Pichai has agreed to work with lawmakers in Europe on what's being referred to as an \"AI Pact\" -- seemingly a stop-gap set of voluntary rules or standards while formal regulations are still being worked on.",
@@ -1117,58 +1170,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-prediction-this-cathie-wood-ai-stock-will-be-1-of-the-top-5-largest-companies-by-2030.md",
-      "title": "Prediction: This Cathie Wood AI Stock Will Be 1 of the Top 5 Largest Companies by 2030",
-      "excerpt": "Moreover, if Tesla achieved this, it could become one of the top five largest companies. As conditions stand now, Tesla's market cap already exceeds $570 billion, making it the ninth-largest company in terms of market cap. In today's market, its market cap would have to exceed $1.2 trillion to become a top-five company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/05/24/prediction-cathie-wood-ai-stock-top-5-2030/",
-      "originalUrl": "https://www.fool.com/investing/2023/05/24/prediction-cathie-wood-ai-stock-top-5-2030/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/733173/artificial-intelligence-ai.jpg",
-          "width": 2102,
-          "height": 1426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-24T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

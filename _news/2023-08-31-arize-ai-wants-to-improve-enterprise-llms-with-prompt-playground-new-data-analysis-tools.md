@@ -58,15 +58,6 @@ related:
         width: 400
         height: 204
         isCached: true
-  - title: "Rockset Raises $44M in Funding to Power Search, Analytics, and AI Applications"
-    excerpt: "As the next-generation real-time indexing database built for the cloud, Rockset is replacing Elasticsearch especially in modern fintech, gaming, e-commerce and logistics companies for building search and AI applications such as: Rockset ingests streaming ..."
-    publishedDateTime: 2023-08-30T12:55:00Z
-    webUrl: "https://www.datanami.com/this-just-in/rockset-raises-44m-in-funding-to-power-search-analytics-and-ai-applications/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 15
 
 secured: "4rIwuX5dMcnXZ8GawwBiv/0chMC0kDG+Cn4NilBg1gX7ZTMfLB0zvYTLjXlx3XdXRgzr1TUrSH+nwrcUpbAjs2gySrci5Bz7siLzbLSqq/Sa5XQX3hso2fDkSS/2SWw5nJe377C/H/+/2UCDobOvFyI/TTzLVIPxAB60ThP20yXGOG3IvKIMf8xfVgxFlkvNQP8nmFZ6YUxZQtqOcLVr4bKJdjbpkD2Xu2C8g5GYYuRNDOveUfVKI6FoaqoM/Sj1nLUotcLXI+WwelaMlr1ZRv9HGmmgPjQ80axhJlpXkmOjoIcgliBlmxl3gg2WXK/3wGxAuep/qsk5hS3rLf1RUY6wuRwGqV4Lmp4/P4yTlpmMYUlcKSP7HjgONoicUDZe2umsMowm/9ujU8NSPAK35HnaoGFQZG93uLrvwVKDH9RxNWfgJ6yuDiIxBE8eL8LQkLAErsDtpomOKVHoyduT5wv4zlm2ep0rkGbxgW5A859qu4c4EEJlNaVgegWt1TKfwek1H3YbY9BO/lLaInCuVg==;U6s7gXfNSYR/ojydCS6KoA=="
 ---

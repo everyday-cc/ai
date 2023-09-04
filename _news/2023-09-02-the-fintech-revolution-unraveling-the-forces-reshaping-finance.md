@@ -19,31 +19,80 @@ topics:
   - AI
 
 related:
-  - title: "The Generative AI Revolution: A Paradigm Shift In Work Culture"
-    excerpt: "It carefully chooses the language, tone and style best suited for the intended ... With this as a starting point, generative AI becomes a skilled translator, converting these objectives into discernable search criteria and detailed role definitions."
-    publishedDateTime: 2023-08-30T11:32:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/30/the-generative-ai-revolution-a-paradigm-shift-in-work-culture/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/30/the-generative-ai-revolution-a-paradigm-shift-in-work-culture/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/30/the-generative-ai-revolution-a-paradigm-shift-in-work-culture/amp/"
+  - title: "Navigating The Future Of Banking: A Look At The Top Fintech Innovations"
+    excerpt: "Welcome to the future of banking where financial technology, or fintech, is revolutionizing the way we manage our money. From mobile banking apps to cryptocurrency advancements, there’s no denying that digital innovation is reshaping the entire industry."
+    publishedDateTime: 2023-09-02T08:48:00Z
+    webUrl: "https://techbullion.com/navigating-the-future-of-banking-a-look-at-the-top-fintech-innovations/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64de2670c0104c27ef8801c6/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://techbullion.com/wp-content/uploads/2023/09/Bitcoin.jpg"
+        width: 1000
+        height: 500
         isCached: true
-  - title: "Contextualization: The Key To Unlocking Generative AI's Potential"
-    excerpt: "This requires integrating large language models (LLM) with industry-specific AI/machine learning (ML ... content extraction, summarization, translation and knowledge management for LLMs. Moving away from the traditional seller-client model ..."
-    publishedDateTime: 2023-08-30T13:17:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/30/contextualization-the-key-to-unlocking-generative-ais-potential/"
+  - title: "Innovating with integrity: the rise of data ethics in the finance sector"
+    excerpt: "A quiet revolution is underway at the heart of many of our best-known financial institutions. A revolution stirred up by a surprising cross set of people: data specialists, product"
+    publishedDateTime: 2023-08-31T18:39:00Z
+    webUrl: "https://www.theodi.org/article/innovating-with-integrity-the-rise-of-data-ethics-in-the-finance-sector-2/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
+      name: Open Data Certificate
+      domain: theodi.org
+    quality: 35
+  - title: "Top 5 Factors Transforming Fintech into a $700B Industry"
+    excerpt: "Technology has become an absolute necessity in the financial services industry in the 21st century. Integrating enterprising tech with crucial and sensitive financial processes and operations leads to better overall efficiency,"
+    publishedDateTime: 2023-09-01T10:57:00Z
+    webUrl: "https://techbullion.com/top-5-factors-transforming-fintech-into-a-700b-industry/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 24
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/09/new-blog-.jpg"
+        width: 780
+        height: 520
+        isCached: true
+  - title: "Harnessing The Power Of Artificial Intelligence In Space Missions: A Look At Future Technological Advancement"
+    excerpt: "Space is the final frontier. As humans continue to explore the vastness of our universe, one thing becomes abundantly clear: we need a little help from our friends in artificial intelligence (AI). The days of relying solely on human astronauts to navigate and execute complex space missions are gradually giving way to a new era"
+    publishedDateTime: 2023-09-01T09:29:00Z
+    webUrl: "https://techbullion.com/harnessing-the-power-of-artificial-intelligence-in-space-missions-a-look-at-future-technological-advancement/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 22
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/09/Space-ship-1.jpg"
+        width: 1000
+        height: 500
+        isCached: true
+  - title: "Leaders in Lending | Ep. 122: Combating financial fraud – Fintech’s game-changing role"
+    excerpt: "For so long, new tech has been utilized by fraud artists, costing many unsuspecting victims countless dollars. Now, AI tools and strong fintech"
+    publishedDateTime: 2023-08-30T23:00:00Z
+    webUrl: "https://www.cuinsight.com/leaders-in-lending-ep-122-combating-financial-fraud-fintechs-game-changing-role/"
+    type: article
+    provider:
+      name: CUInsight
+      domain: cuinsight.com
+    quality: 16
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2022/03/Screen-Shot-2022-03-23-at-1.36.05-PM.png"
+        width: 1000
+        height: 500
+        isCached: true
+  - title: "Unveiling the Top Fintech Trends: How Technology is Revolutionizing Financial Services"
+    excerpt: "Are you ready to embark on a journey into the future of finance? From mobile banking to advanced algorithms, technology has been transforming the way we interact with money and manage our finances. In this blog post,"
+    publishedDateTime: 2023-09-01T17:36:00Z
+    webUrl: "https://techbullion.com/unveiling-the-top-fintech-trends-how-technology-is-revolutionizing-financial-services/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 0
 
 secured: "acfnQeeh4GuvfnGsj+wewF5ftf/VXnOvMxKn8gKmFMx7jerTYTOwmfnYkKy/p8s+1inl1FygiflVhuC9Ha1C2fh4MjY2Xn33VyzE1Re3YbyHakR+GsYoyGKbYaYe+9PefYXenNkP08PAhjENMQlrBKwojmghYaCqZZxGaA85W0JElcPybGFoQZep0z/Q4qcSRjSJPI9sKxoQkfAQ871d8+qHfQGYev0r7AzLwJxGlXk4mJtDb5zib3wfvOulxCUKmeWcL2jrP9oiPeSjRpozNbQOne74HIAURNefIW9VUov317VqmWva440sxUiXgq0KjYwnopDLmnhcVI6YUSJNrfpeg3jDF2c69h63/QzfP/sUAShe8uGb5Id4QHSdoyZwKNPXdPAQzB/SSFz8KAvGtlxII9w+gGIF2pETj8r+yR8j3q0nndS2towq4lzdkEL7d/JVtqsmc6B1S8B8imK9uDFsZ4tzMwSWxwgD8BpzZSXD5DtFkTr84csqoYKUDR5qp70XTdrI48XOO7U7a42vXQ==;8L2e8G6lOwXD1YEUg9tskA=="
 ---

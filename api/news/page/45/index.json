@@ -2,6 +2,58 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2023-08-01-opinion-amds-ai-era-to-begin-near-years-end-but-its-looking-more-like-a-2024-story.md",
+      "title": "Opinion: AMD’s AI era to begin near year’s end, but it’s looking more like a 2024 story",
+      "excerpt": "When another analyst asked if she was expecting GPU sales of around $500 million this year ... to speed up compute power required for handling AI training and machine learning, but sales to other customers will likely occur in the first half of 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/amds-ai-era-to-begin-near-years-end-but-its-looking-more-like-a-2024-story-c1110ab9",
+      "originalUrl": "https://www.marketwatch.com/story/amds-ai-era-to-begin-near-years-end-but-its-looking-more-like-a-2024-story-c1110ab9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-828019/horizontal",
+          "width": 1320,
+          "height": 742,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/amds-ai-era-to-begin-near-years-end-but-its-looking-more-like-a-2024-story-c1110ab9",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/amds-ai-era-to-begin-near-years-end-but-its-looking-more-like-a-2024-story-c1110ab9",
+      "publishedDateTime": "2023-07-31T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-01-openais-sam-altman-links-2-hot-tech-trends-with-his-new-worldcoin-artificial-intelligence-and-crypto-but-theres-a-lot-more-to-the-story.md",
       "title": "OpenAI’s Sam Altman links 2 hot tech trends with his new Worldcoin: artificial intelligence and crypto. But there’s a lot more to the story",
       "excerpt": "David Paul Morris/Bloomberg via Getty Images Artificial intelligence has taken over much of the financial ... create a global network of digital identities for a world in which AI robots become harder to distinguish from humans. Users of the service ...",
@@ -1121,48 +1173,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-07-31-banking-on-mainframe-led-digital-transformation-for-financial-services.md",
-      "title": "Banking on mainframe-led digital transformation for financial services",
-      "excerpt": "Explore why the world’s biggest modernization challenges are concentrated in the banking industry.          \nThe post Banking on mainframe-led digital transformation for financial services appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/banking-on-mainframe-led-digital-transformation-for-financial-services/",
-      "originalUrl": "https://www.ibm.com/blog/banking-on-mainframe-led-digital-transformation-for-financial-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-31T06:04:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

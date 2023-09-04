@@ -152,15 +152,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 32
-  - title: "Microsoft Corporate VP, AI leader Dr. Peter Lee to join board of RTP-based Bionic Health"
-    excerpt: "RESEARCH TRIANGLE PARK — Bionic Health, an AI-powered personalized healthcare startup, announced today that Dr. Peter Lee, Corporate Vice President of Research and Incubations at Microsoft, has joined its Board of Directors. Dr. Lee is known for his ..."
-    publishedDateTime: 2023-08-30T12:30:00Z
-    webUrl: "https://wraltechwire.com/2023/08/30/microsoft-corporate-vp-ai-leader-dr-peter-lee-to-join-board-of-rtp-based-bionic-health/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 25
   - title: "EY unveils over 20 new tech capabilities in its Assurance sector through its $1b partnership with Microsoft in the first year"
     excerpt: "Business - The EY organization today announces an expansion of its collaboration with Microsoft, as the EY organization completes the first 12 months of a four-year"
     publishedDateTime: 2023-09-01T11:27:00Z

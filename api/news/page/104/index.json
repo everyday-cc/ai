@@ -2,6 +2,41 @@
   "page": 104,
   "value": [
     {
+      "path": "_news/2023-06-26-predactica-integrates-azure-openai-capabilities-into-its-saas-machine-learning-platform.md",
+      "title": "Predactica integrates Azure OpenAI capabilities into its SaaS Machine Learning platform",
+      "excerpt": "Predactica is thrilled to announce the integration of Azure's OpenAI capabilities into its AI/ML platform, complementing its existing no-code SaaS AI capabilities aimed at citizen data scientists.",
+      "sourceUrl": null,
+      "webUrl": "https://www.victoriaadvocate.com/predactica-integrates-azure-openai-capabilities-into-its-saas-machine-learning-platform/article_76eb643a-4642-5983-947d-6cfc2b89efb0.html",
+      "originalUrl": "https://www.victoriaadvocate.com/predactica-integrates-azure-openai-capabilities-into-its-saas-machine-learning-platform/article_76eb643a-4642-5983-947d-6cfc2b89efb0.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-26T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Victoria Advocate",
+        "domain": "victoriaadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-06-26-ai-will-it-help-humanity-or-doom-it.md",
       "title": "AI: Will it help humanity or doom it?",
       "excerpt": "In order to better understand AI’s promises and perils, Angelus spoke to two Catholics who have tracked the technology’s rise from different places.",
@@ -1138,49 +1173,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-24-microsoft-azure-event-grid-mqtt-protocol-support-and-pull-message-delivery-are-now-in-public-preview.md",
-      "title": "Microsoft Azure Event Grid MQTT Protocol Support and Pull Message Delivery Are Now in Public Preview",
-      "excerpt": "Mykyta Protsenko discusses the trade-offs that companies face during the process of shifting left, how to ease cognitive load for the developers ... Subscribe for free. Microsoft recently announced the public preview of bi-directional communication ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2023/06/azure-eventgrid-mqtt-support/",
-      "originalUrl": "https://www.infoq.com/news/2023/06/azure-eventgrid-mqtt-support/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2023/06/azure-eventgrid-mqtt-support/en/headerimage/generatedHeaderImage-1687425435338.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-24T04:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

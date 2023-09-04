@@ -172,15 +172,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Confirm raises $6.2 million to bring generative AI and network analysis to performance reviews"
-    excerpt: "incorporating “Organizational Network Analysis (ONA),” an approach the consulting giant Deloitte describes as “ visualizing and analyzing formal and informal relationships in your organization,” as well as generative AI in the form of OpenAI’s ..."
-    publishedDateTime: 2023-08-30T12:00:00Z
-    webUrl: "https://venturebeat.com/enterprise-analytics/confirm-raises-6-2-million-to-bring-generative-ai-and-network-analysis-to-performance-reviews/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 37
   - title: "Google DeepMind Tests Watermarking AI-Generated Images"
     excerpt: "There is no universally agreed-upon approach to watermarking AI-generated images. DeepMind says the goal is to support SynthAI across a range of Google products and services, which could help move toward making it a standard. There are also plans to make SynthAI available to third parties for use in other generative AI models."
     publishedDateTime: 2023-08-30T19:37:00Z
@@ -198,15 +189,6 @@ related:
     provider:
       name: Rochester Institute of Technology
       domain: rit.edu
-    quality: 19
-  - title: "SAP brings generative AI to data cloud platform with Google’s help"
-    excerpt: "The solution infuses the ERP provider’s data ecosystem with Vertex AI tools and initially targets the automotive industry."
-    publishedDateTime: 2023-08-30T12:09:00Z
-    webUrl: "https://www.ciodive.com/news/SAP-Google-Cloud-ESG-automotive-generative-AI-solutions/692059/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
     quality: 19
   - title: "Acceptable-use policies for generative artificial intelligence"
     excerpt: "The program is possibly the most well-known example of generative AI, an artificial intelligence technology that identifies patterns in large quantities in training data and then generates original content – text,"

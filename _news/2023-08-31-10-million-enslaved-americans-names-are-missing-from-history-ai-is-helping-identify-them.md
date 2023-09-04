@@ -38,15 +38,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Artificial intelligence research must remain an American priority"
-    excerpt: "Two of the most promising AI techniques are machine learning, in which sophisticated algorithms learn from data to ensure accurate decision-making, and deep learning, which is a subset of machine learning that focuses on training artificial neural networks to learn about and understand complex patterns and representations in data."
-    publishedDateTime: 2023-08-30T12:00:00Z
-    webUrl: "https://www.ornl.gov/news/artificial-intelligence-research-must-remain-american-priority"
-    type: article
-    provider:
-      name: Oak Ridge National Lab
-      domain: ornl.gov
-    quality: 34
 
 secured: "wvXv9rFiIqpP+dzGEglKjHbgUBMUrTvXuDkRD0ZVOMLRzPK12YSfsp+JlJlyefOBcq57HFaJtNNf+HN7ygeSjcRjDFhPdER5xFC5Da2nkjPburoLAYLuTVNZlMQ/a2g8Grw8qPRfqjl+ATqOiXLxbYNqqS/RdF9r4q0AfDFDYLLMqT0fFnFBMWnprnAYTVpmdzmlZ+ljT8WIWIAZ+hkXqayic6kwWjcgWTDwBBgFni51rOchzl/ZOoW6UsA641Y5OI7MVFGboRNhibECkAtYCxphZuPw1FzFOzKYOw04v4tJW7kn4qiJIb98aCyp59hh+Iw5IaQvo2fTXP3A/kKJQUZFaA2fcT+MAWvNILyrQvTBX2O1C64LA/Oj3w2pRwbi7T4aQDPKH6N1vTRDRQEk+qHG/K80NKlTA1Qu4njqw6SvlTKwWt5w5uzEqa3PHQ/c3FsoVThCb/1ymu0xOjSgUk6iMH3YNff9HULyqCBmCKM1s3brWA9tbNKs3uKRWING7aRJ9QHrOkLlwaLd03nSdQ==;Sy801oIrQFenjP/ns0tuhA=="
 ---

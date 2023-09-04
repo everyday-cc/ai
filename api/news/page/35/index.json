@@ -2,6 +2,58 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2023-08-08-looking-for-a-surefire-ai-winner-buy-amazon-stock.md",
+      "title": "Looking for a Surefire AI Winner? Buy Amazon Stock.",
+      "excerpt": "There are plenty of alternatives out there. But if you're looking for a surefire AI winner, buy Amazon ( AMZN 1.90%) stock. Amazon is already a big AI winner. Just look at its stock performance so far this year. This remarkable gain is due in large part to investors' intense interest in all things AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/08/08/looking-for-a-surefire-ai-winner-buy-amazon-stock/",
+      "originalUrl": "https://www.fool.com/investing/2023/08/08/looking-for-a-surefire-ai-winner-buy-amazon-stock/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/741853/artificial-intelligence-ai-on-cloud-circuit-board.jpg",
+          "width": 2359,
+          "height": 1270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-08T02:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-08-pope-issues-warning-on-artificial-intelligence-fears-logic-of-violence.md",
       "title": "Pope issues warning on artificial intelligence, fears ‘logic of violence’",
       "excerpt": "Pope Francis issued a warning on artificial intelligence Tuesday, urging those behind the technology to \"be vigilant\" during their work. The Pope made the statement in his message marking New Year ...",
@@ -1189,48 +1241,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-ai-language-models-are-rife-with-political-biases.md",
-      "title": "AI language models are rife with political biases",
-      "excerpt": "If you ask an AI you might get wildly different answers depending on which one you ask. While OpenAI’s older GPT-2 and GPT-3 Ada models would advance the former statement, GPT-3 Da Vinci, the company’s more capable model,",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/08/07/1077324/ai-language-models-are-rife-with-political-biases/",
-      "originalUrl": "https://www.technologyreview.com/2023/08/07/1077324/ai-language-models-are-rife-with-political-biases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/08/Screenshot-2023-08-07-at-17.46.14.png",
-          "width": 656,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/08/07/1077324/ai-language-models-are-rife-with-political-biases/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/08/07/1077324/ai-language-models-are-rife-with-political-biases/amp/",
-      "publishedDateTime": "2023-08-07T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

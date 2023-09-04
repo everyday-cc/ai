@@ -70,7 +70,21 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 0
+    quality: 22
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/09/Space-ship-1.jpg"
+        width: 1000
+        height: 500
+        isCached: true
+  - title: "The Fintech Revolution: Unraveling the Forces Reshaping Finance"
+    excerpt: "Step into the dynamic world of fintech, where disruptive innovations are reshaping the financial landscape as we know it. In a society constantly craving innovation and convenience, the rapid ascent of top fintech companies comes as no surprise."
+    publishedDateTime: 2023-09-01T17:56:00Z
+    webUrl: "https://techbullion.com/the-fintech-revolution-unraveling-the-forces-reshaping-finance/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 19
   - title: "Unveiling the Top Fintech Trends: How Technology is Revolutionizing Financial Services"
     excerpt: "Are you ready to embark on a journey into the future of finance? From mobile banking to advanced algorithms, technology has been transforming the way we interact with money and manage our finances. In this blog post,"
     publishedDateTime: 2023-09-01T17:36:00Z

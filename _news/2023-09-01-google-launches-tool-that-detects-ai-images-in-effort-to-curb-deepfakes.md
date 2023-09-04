@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google will put invisible watermarks on AI-generated images"
-    excerpt: "Google DeepMind created SynthID, an AI image detector tool that can spot manipulated images and add imperceptible watermarks to AI-generated ones."
-    publishedDateTime: 2023-08-30T11:12:00Z
-    webUrl: "https://interestingengineering.com/innovation/google-deepmind-synthid-invisible-watermarks-ai-images"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/08/30/image/jpeg/OUpPbytf2tHxTuVDS8BzOv4YkAN1BBT5R0TaWbM8.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Google made an invisible watermark for AI-generated images"
     excerpt: "The tool, called SynthID, is trained to detect the embedded watermarks even after the original image has been edited."
     publishedDateTime: 2023-08-30T19:00:00Z
@@ -60,6 +46,15 @@ related:
     provider:
       name: Popular Science
       domain: popsci.com
+    quality: 19
+  - title: "New Meta, Google tools detect AI-generated images"
+    excerpt: "The tech giants release tools to identify synthetic images and combat AI-related discrimination for more responsible use."
+    publishedDateTime: 2023-09-01T13:11:00Z
+    webUrl: "https://www.itweb.co.za/content/4r1ly7R9Ejnvpmda"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
     quality: 19
   - title: "OpenAI Rages at Report That Google's New AI Crushes GPT-4"
     excerpt: "OpenAI CEO Sam Altman was clearly annoyed by a blog post declaring that Google's forthcoming Gemini model will quickly surpass GPT-4."

@@ -163,15 +163,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 32
-  - title: "Microsoft Corporate VP, AI leader Dr. Peter Lee to join board of RTP-based Bionic Health"
-    excerpt: "RESEARCH TRIANGLE PARK — Bionic Health, an AI-powered personalized healthcare startup, announced today that Dr. Peter Lee, Corporate Vice President of Research and Incubations at Microsoft, has joined its Board of Directors. Dr. Lee is known for his ..."
-    publishedDateTime: 2023-08-30T12:30:00Z
-    webUrl: "https://wraltechwire.com/2023/08/30/microsoft-corporate-vp-ai-leader-dr-peter-lee-to-join-board-of-rtp-based-bionic-health/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 25
   - title: "Verint Open CCaaS Platform Achieves Microsoft Co-sell Ready Status and Inclusion in the Microsoft Azure and AppSource Marketplaces"
     excerpt: "Verint ® (NASDAQ: VRNT), The Customer Engagement Company ®, today announced it has earned co-sell ready status with Microsoft and that the Verint Open Contact Center as a Service (CCaaS) Platform ™ will be commercially available in the Microsoft Azure Marketplace by early fall."
     publishedDateTime: 2023-08-31T12:45:00Z

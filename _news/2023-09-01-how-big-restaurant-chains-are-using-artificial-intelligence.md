@@ -6,7 +6,7 @@ publishedDateTime: 2023-08-31T21:46:00Z
 originalUrl: "https://www.restaurantbusinessonline.com/technology/how-big-restaurant-chains-are-using-artificial-intelligence"
 webUrl: "https://www.restaurantbusinessonline.com/technology/how-big-restaurant-chains-are-using-artificial-intelligence"
 type: article
-quality: 52
+quality: 54
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://cdn.winsightmedia.com/platform/files/public/2023-08/background/chipotle-exterior.jpg?VersionId=7zzKY7gQ.d6YfFPHiWdyBgntDTUuFvo9"

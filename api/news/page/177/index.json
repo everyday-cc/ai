@@ -2,6 +2,58 @@
   "page": 177,
   "value": [
     {
+      "path": "_news/2023-05-10-deepmind-founder-says-governments-need-to-compensate-serious-number-of-losers-who-will-be-left-jobless-due-to-ai.md",
+      "title": "DeepMind founder says governments need to compensate 'serious number of losers' who will be left jobless due to AI",
+      "excerpt": "A co-founder of the AI company DeepMind has warned that governments will need to figure out a plan to compensate people who will lose their jobs to the new technology, the Financial Times reported.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/deepmind-founder-universal-basic-income-needed-ai-job-losses-2023-5",
+      "originalUrl": "https://www.businessinsider.com/deepmind-founder-universal-basic-income-needed-ai-job-losses-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/645b735f65a21600192fe3fd?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/deepmind-founder-universal-basic-income-needed-ai-job-losses-2023-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/deepmind-founder-universal-basic-income-needed-ai-job-losses-2023-5?amp",
+      "publishedDateTime": "2023-05-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-heres-why-ge-healthcare-has-ma-making-fever-in-2023.md",
       "title": "Here’s Why GE HealthCare Has M&A-Making Fever in 2023",
       "excerpt": "On Thursday, GE HealthCare announced it has signed an agreement to acquire Caption Health, a private company that specializes in using artificial intelligence to assist in conducting ultrasound scans. GE HealthCare did not disclose financial terms of the ...",
@@ -1090,57 +1142,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-3-ways-bud-light-disaster-ends-kamalas-artificial-intelligence-problem-and-more-fox-news-opinion.md",
-      "title": "3 ways Bud Light disaster ends, Kamala's artificial intelligence problem and more Fox News Opinion",
-      "excerpt": "Read the latest Fox News Opinion columns and watch videos from Sean Hannity, Laura Ingraham, Jesse Watters and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/opinion/bud-light-disaster-kamalas-artificial-intelligence-problem",
-      "originalUrl": "https://www.foxnews.com/opinion/bud-light-disaster-kamalas-artificial-intelligence-problem",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a0eb906b-3d83-408e-af92-173cd16e6f43/e0b9d36a-9913-4c2b-8fd2-eb2167427d91/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/opinion/bud-light-disaster-kamalas-artificial-intelligence-problem.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/bud-light-disaster-kamalas-artificial-intelligence-problem.amp",
-      "publishedDateTime": "2023-05-09T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

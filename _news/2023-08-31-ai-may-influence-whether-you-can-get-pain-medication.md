@@ -9,7 +9,7 @@ ampWebUrl: "https://www.popsci.com/health/artificial-intelligence-pain-medicatio
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/health/artificial-intelligence-pain-medication/?amp"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 810
         isCached: true
-  - title: "Artificial intelligence may influence whether you can get pain medication"
-    excerpt: "Elizabeth Amirault had never heard of a Narx Score. But she said she learned last year the tool had been used to track her medication use. During an August 2022 visit to a hospital in Fort Wayne, Indiana, Amirault told a nurse practitioner she was in ..."
-    publishedDateTime: 2023-08-30T12:44:00Z
-    webUrl: "https://www.news-medical.net/news/20230830/Artificial-intelligence-may-influence-whether-you-can-get-pain-medication.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 33
   - title: "Artificial Intelligence May Influence Whether You Can Get Pain Medication"
     excerpt: "The use of systems to analyze opioid-prescribing data has sparked questions over whether they have undergone enough independent testing outside of the companies that developed them, making it hard to know how they work."
     publishedDateTime: 2023-08-31T00:58:00Z

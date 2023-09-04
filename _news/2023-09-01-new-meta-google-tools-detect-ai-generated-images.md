@@ -19,68 +19,49 @@ topics:
   - AI
 
 related:
-  - title: "Google unveils enterprise artificial intelligence tools, new AI chip"
-    excerpt: "File Google unveiled a swath of fresh artificial-intelligence technology and partnerships on Tuesday that were geared toward bringing more of the growing technology to large businesses. The batch of announcements from its Google Next conference in San ..."
-    publishedDateTime: 2023-08-30T11:23:00Z
-    webUrl: "https://www.telegraphindia.com/business/google-unveils-enterprise-artificial-intelligence-tools-new-ai-chip/cid/1962646"
-    ampWebUrl: "https://www.telegraphindia.com/amp/business/google-unveils-enterprise-artificial-intelligence-tools-new-ai-chip/cid/1962646"
-    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/business/google-unveils-enterprise-artificial-intelligence-tools-new-ai-chip/cid/1962646"
+  - title: "Google's new tool can detect AI-generated images, but it's not that simple"
+    excerpt: "Currently, SynthID cannot detect all AI-generated images, as it is limited to those created with Google's text-to-image tool, Imagen. But this is a sign of a promising future for responsible AI, especially if other companies adopt SynthID into their generative AI tools."
+    publishedDateTime: 2023-09-01T20:25:00Z
+    webUrl: "https://www.zdnet.com/article/googles-new-tool-can-detect-ai-generated-images-but-its-not-that-simple/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/googles-new-tool-can-detect-ai-generated-images-but-its-not-that-simple/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-new-tool-can-detect-ai-generated-images-but-its-not-that-simple/"
     type: article
     provider:
-      name: The Telegraph
-      domain: telegraphindia.com
-    quality: 89
+      name: ZDNet
+      domain: zdnet.com
+    quality: 85
     images:
-      - url: "https://assets.telegraphindia.com/telegraph/2023/Jun/1687781299_google.jpg"
-        width: 900
-        height: 600
+      - url: "https://www.zdnet.com/a/img/resize/a37afb3870b4e3e01366db426b750d9ad1222c88/2023/09/01/87a971ed-e9c5-4885-a439-b28db8226d0d/deepmind.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Meta unveils new tool to detect bias in computer vision AI"
-    excerpt: "With more than 30,000 images, Meta said its FACET tool can help developers test whether AI computer vision systems are biased."
-    publishedDateTime: 2023-09-01T10:24:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/meta-facet-tool-ai-computer-vision-bias-detection-developers"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 54
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/05/AdobeStock_527133702.jpeg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "The Hidden Costs Of Implementing AI In Enterprise"
-    excerpt: "Although there are potential hidden costs associated with AI, it is important to have a balanced view of this technology."
-    publishedDateTime: 2023-08-31T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/31/the-hidden-costs-of-implementing-ai-in-enterprise/"
+  - title: "Google Launches Tool That Detects AI Images In Effort To Curb Deepfakes"
+    excerpt: "In response to the increasing use of AI images, Google Deep Mind announced a beta version of SynthID. The tool will watermark and identify AI-Generated images. I"
+    publishedDateTime: 2023-08-31T19:22:00Z
+    webUrl: "https://www.forbes.com/sites/jenniferhicks/2023/08/31/google-launches-tool-that-detects-ai-images-in-effort-to-curb-deepfakes/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "The Smart Enterprise: Making Generative AI Enterprise-Ready"
-    excerpt: "Yes, the opportunities for Generative AI (GenAI) are immense. Yes, it is transforming the world as we know it (and faster than most of us predicted). And yes, technology is getting smarter. However, the implications for GenAI,"
-    publishedDateTime: 2023-09-01T17:39:00Z
-    webUrl: "https://www.unite.ai/the-smart-enterprise-making-generative-ai-enterprise-ready/"
+  - title: "Google made an invisible watermark for AI-generated images"
+    excerpt: "The tool, called SynthID, is trained to detect the embedded watermarks even after the original image has been edited."
+    publishedDateTime: 2023-08-30T19:00:00Z
+    webUrl: "https://www.popsci.com/technology/google-watermark-ai-generated-images/"
     type: article
     provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2022/08/machinelearning-deployment-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Google Introduces New Ai Chip And Enhanced Tools For Enterprise Ai Solutions"
-    excerpt: "At the Google Next conference held in San Francisco, a range of new artificial intelligence technologies and collaborations were introduced with a"
-    publishedDateTime: 2023-08-30T19:25:00Z
-    webUrl: "https://menafn.com/1106987368/Google-Introduces-New-Ai-Chip-And-Enhanced-Tools-For-Enterprise-Ai-Solutions"
+      name: Popular Science
+      domain: popsci.com
+    quality: 19
+  - title: "OpenAI Rages at Report That Google's New AI Crushes GPT-4"
+    excerpt: "OpenAI CEO Sam Altman was clearly annoyed by a blog post declaring that Google's forthcoming Gemini model will quickly surpass GPT-4."
+    publishedDateTime: 2023-08-31T19:54:00Z
+    webUrl: "https://futurism.com/the-byte/openai-report-google-ai-gpt-4"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 31
+      name: Futurism
+      domain: futurism.com
+    quality: 19
 
 secured: "4F3JOVVXa2A6YRMHQTwMA1p5RDWLeph/0PbTmV7fpcOC4L3LbcElaFo+d2mt7/j3T63VBfJgWU3NBlllRk3lJOi1eQuoLI2zHBnp6DFpMPOfyRmxwrUwVYnI/EIl5xyJqyQ95En3aie7Cl/dGf03K/vOUPrdQ/hmE+VY3Z9YxZfZN65BDzhOag1p9X39yjwgnPumjDtiLjQ0Y3vnrF0rtNaWDucoZn7Jd/zh7rB+jyBLnUZ/KcsS7zyN7vWp6nvZg1MjRRpRNxPu9aJlkq77IxIXhgmQL9OhTt/zd7EHnWNs01JoGyjjxdfr70B66id7/5UoAMvLywkgmUst6FegcSrL2ypOnPfU07EA8+qcBGqvhYQAoZetUWIGK75jfu4TgV/cA7hpV8y9vR1V0QJaxdECfKTcKPUDZXZWcrKoCSBcutSP8Ycy9Xo1070AYy5YaqwROyqmFa7WrqCvoWChz55hZpITrz3aGYZ4Xs5SPbli6gVVbxPTklLYEYOGbOtBf1iXOyMpeMrdvcJNXj7oAw==;otAk1vC+d83LRK76OLtH8g=="
 ---

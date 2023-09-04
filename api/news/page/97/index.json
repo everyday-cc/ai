@@ -2,6 +2,49 @@
   "page": 97,
   "value": [
     {
+      "path": "_news/2023-06-29-natural-language-processing-philippines.md",
+      "title": "Natural Language Processing - Philippines",
+      "excerpt": "Value in the Natural Language Processing market is projected to reach US$75.03m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 19.14%, resulting in a market volume of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/philippines",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/philippines",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T20:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-one-mans-quest-to-ban-teslas-full-self-driving-and-take-on-elon-musk.md",
       "title": "One Man’s Quest to Ban Tesla’s Full Self Driving and Take on Elon Musk",
       "excerpt": "The Dawn Project’s Dan O’Dowd paid for a Super Bowl ad and conducts regular tests to show that Tesla’s FSD technology is dangerous and should be outlawed.",
@@ -1108,59 +1151,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-microsoft-is-already-offering-a-generative-ai-certification-program.md",
-      "title": "Microsoft is already offering a generative AI certification program",
-      "excerpt": "Although Big Tech is still (sometimes clumsily) figuring out generative AI’s ethics and implications, the genie is out of the bottle, and the technology is already integrating into the workforce.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/microsoft-is-already-offering-a-generative-ai-certification-program-160023724.html",
-      "originalUrl": "https://www.engadget.com/microsoft-is-already-offering-a-generative-ai-certification-program-160023724.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 566,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/vxYs3kq0gOpyOmPKsA4LNQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/3409dfe0-15cf-11ee-9fb5-0ff29edbd714.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/microsoft-is-already-offering-a-generative-ai-certification-program-160023724.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-is-already-offering-a-generative-ai-certification-program-160023724.html",
-      "publishedDateTime": "2023-06-28T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

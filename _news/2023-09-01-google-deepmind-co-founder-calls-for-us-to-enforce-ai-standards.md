@@ -73,22 +73,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Google's DeepMind announces SynthID to watermark AI-generated images"
-    excerpt: "Google's AI unit, DeepMind, has unveiled SynthID, a way to watermark AI-generated images for easier identification. In a blog post, announcing the new tool, DeepMind said that the technology was developed in conjunction with Google Cloud, and embeds a ..."
-    publishedDateTime: 2023-08-30T11:56:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/googles-deepmind-announces-synthid-to-watermark-ai-generated-images-11284191.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/googles-deepmind-announces-synthid-to-watermark-ai-generated-images-11284191.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/googles-deepmind-announces-synthid-to-watermark-ai-generated-images-11284191.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 74
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/08/64e8aba55a7de407785e3bd5_Copy-of-header-1-p-1080.png"
-        width: 1080
-        height: 608
-        isCached: true
   - title: "Google DeepMind cofounder calls for US to enforce AI standards"
     excerpt: "The US should allow Nvidia's artificial intelligence (AI) chips only to buyers who agree to ethically use the technology, Google DeepMind's co-founder Mustafa Suleyman said on Friday."
     publishedDateTime: 2023-09-01T05:54:00Z
