@@ -97,6 +97,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Startup Behind World’s ‘Most Advanced’ Generative AI Raises $155M"
+    excerpt: "An Israeli startup that develops advanced AI technologies to solve complex problems across various industries has raised $155 million."
+    publishedDateTime: 2023-09-04T08:51:00Z
+    webUrl: "https://nocamels.com/2023/09/startup-behind-worlds-most-advanced-generative-ai-raises-155m/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 37
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2023/09/nghf.jpeg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "2l4u3A0M89lW9CIQIYKt+h0EYyU76zK8R/YnSxBp8ccpgFauRN6g/Hqh0C5tADidzpgG8kI8rp7FDS+46hXwRiz524oOwlR9JiT5WYwpYajOLqT8l6+rUFgWOQA6n82//KEP8XQVbouYCLyaDsvHf8dMigbshPS1HmWM+8FGaBfjefBzCcNi4th4TP7NHt2Sqx7DtxswcXUoxaLijhrvkUEctk6LRsivsZoX8o/VXMB5YnujEdyJEeT8zqUXVes3QdanWjFezwQz5Xgk0tf8JHvM1fK3Ge4ZUNg78sC4KxyDQTJ8o2DWvWhhD8FEc13D4W2Qiwe4bKdI5ANmwX2L1+1dk1coHXhSPT5XMJ5fPNw=;otz7DuBLnh5BitRNYiKWLA=="
 ---

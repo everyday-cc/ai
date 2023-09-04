@@ -2,6 +2,109 @@
   "page": 86,
   "value": [
     {
+      "path": "_news/2023-07-06-air-force-colonel-says-it-took-ai-10-minutes-to-complete-a-task-that-can-take-humans-days.md",
+      "title": "Air Force colonel says it took AI 10 minutes to complete a task that can take humans days",
+      "excerpt": "The US is testing AI to help defense agencies' internal communications, Bloomberg reported. Some AI models have even been fed classified information.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/air-force-defense-department-using-ai-artificial-intelligence-llm-humans-2023-7",
+      "originalUrl": "https://www.businessinsider.com/air-force-defense-department-using-ai-artificial-intelligence-llm-humans-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64a5c9376075be0019c2be26?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/air-force-defense-department-using-ai-artificial-intelligence-llm-humans-2023-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/air-force-defense-department-using-ai-artificial-intelligence-llm-humans-2023-7?amp",
+      "publishedDateTime": "2023-07-06T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-theres-one-hard-question-my-fellow-doctors-and-i-will-need-to-answer-soon.md",
+      "title": "There’s One Hard Question My Fellow Doctors and I Will Need to Answer Soon",
+      "excerpt": "Or so I thought then. Not even two decades later, we find ourselves at the dawn of what many believe to be a new era in medicine, one in which artificial intelligence promises to write our notes ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/07/06/opinion/artificial-intelligence-medicine-healthcare.html",
+      "originalUrl": "https://www.nytimes.com/2023/07/06/opinion/artificial-intelligence-medicine-healthcare.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/07/06/autossell/NYT_Medical-AI_ShiraInbar_Still/NYT_Medical-AI_ShiraInbar_Still-facebookJumbo.png",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-06-indias-tcs-to-train-25000-associates-on-microsofts-azure-open-ai.md",
       "title": "India’s TCS to train 25,000 associates on Microsoft’s Azure Open AI",
       "excerpt": "Indian IT services giant, Tata Consultancy Services (TCS), has deepened its partnership with internet major Microsoft and will train 25,000 associates to get them certified on Microsoft’s Azure Open AI.",
@@ -1091,91 +1194,6 @@
         "IBM AI",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-new-ai-systems-could-speed-up-our-ability-to-create-weather-forecasts.md",
-      "title": "New AI systems could speed up our ability to create weather forecasts",
-      "excerpt": "The first, developed by Huawei, details how its new AI model, Pangu-Weather, can predict weekly weather patterns around the world much more quickly than traditional forecasting methods, but with comparable accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/07/05/1075897/new-ai-systems-could-speed-up-our-ability-to-create-weather-forecasts/",
-      "originalUrl": "https://www.technologyreview.com/2023/07/05/1075897/new-ai-systems-could-speed-up-our-ability-to-create-weather-forecasts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/07/GettyImages-872885192-1.jpeg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/07/05/1075897/new-ai-systems-could-speed-up-our-ability-to-create-weather-forecasts/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/05/1075897/new-ai-systems-could-speed-up-our-ability-to-create-weather-forecasts/amp/",
-      "publishedDateTime": "2023-07-05T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-un-recruits-robots-in-effort-to-meet-global-development-goals.md",
-      "title": "UN recruits robots in effort to meet global development goals",
-      "excerpt": "Dozens of robots, including several humanoid ones, will take centre stage at a conference organized by the United Nations technology agency in Switzerland this week to showcase their potential to help it reach a series of increasingly improbable global goals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ctvnews.ca/sci-tech/un-recruits-robots-in-effort-to-meet-global-development-goals-1.6467793",
-      "originalUrl": "https://www.ctvnews.ca/sci-tech/un-recruits-robots-in-effort-to-meet-global-development-goals-1.6467793",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/images/2020/1/24/1_4782295.jpg",
-          "width": 470,
-          "height": 264,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/national/sci-tech/2023/7/5/1_6467793.amp.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/7/5/1_6467793.amp.html",
-      "publishedDateTime": "2023-07-05T07:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

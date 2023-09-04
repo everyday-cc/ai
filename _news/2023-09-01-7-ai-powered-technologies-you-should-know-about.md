@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "7 Frameworks To Build Your AI Ethically"
+    excerpt: "Out of the lot, we have handpicked 7 ethical AI frameworks for developers to incorporate ethics into their technological innovations."
+    publishedDateTime: 2023-09-04T08:55:00Z
+    webUrl: "https://analyticsindiamag.com/7-frameworks-to-build-your-ai-ethically/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/09/ai-frames-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Should artificial intelligence help you buy your next house?"
     excerpt: "Should artificial intelligence help you make your biggest and riskiest financial transaction? Real estate lawyer Matt Mayo has some advice."
     publishedDateTime: 2023-09-01T04:06:00Z

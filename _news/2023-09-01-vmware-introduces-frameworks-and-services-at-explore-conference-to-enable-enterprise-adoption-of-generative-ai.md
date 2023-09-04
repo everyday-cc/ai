@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Sprig uses AI to transform product surveys into conversational data"
-    excerpt: "The free plan now includes in-product surveys, session replays, and Open-Text AI analysis. Teams of all sizes can immediately start using Sprig and the new AI Analysis for Surveys featureset. VentureBeat's mission is to be a digital town square for ..."
-    publishedDateTime: 2023-08-30T16:39:00Z
-    webUrl: "https://venturebeat.com/ai/sprig-uses-ai-to-transform-product-surveys-into-conversational-data/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/cfr0z3n_line_art_flat_illustration_detailed_a_woman_takes_a_sur_032ed0c8-feac-41c6-92a7-fd9c2baeb87a.png?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
 
 secured: "Jv8KPgjJfcAlHLeZaLHvJ8QLspNPEYMPi8L9A+G+teMzNPUqoT8r64dNFWwpJjVJmbmiZDOWRIS+eXlBDyjwNAncPhS//lk2kiYLdXxCuCqRHBbCPRe7P8R0brj8gh8EGT17dTOhqQc9PDjVrjTAIjGSmgMiu4u9Fx4r/+qVXHqGvXQtzDOyOzUacPMtIiRqVQWQS/Y48ppe8Dxt9x4r4W4THnVrE2yDNQtCC47vGMebUkhIqQXKsvxTZhmI4eZrXwqS09eQDA1uNQXO8Cnsvtzqe1+IPFWavkw+bCC+FKdDFfsU98h6cnR7+3phVFReSaJZrOmLMpZwh2ATx9XCoOIINtyYBBnbhlgVBDdLP8xGXTsC20oIr9cYNlwzLVzTCMpFADRq6rj9YFSiNuvgFIhuVJlomhnsJv9qYB2zTizTsBbEEboYEBZj3jEWPIInSVsNiz7q6l6FGOMxlClc6u4NMfMK6jNAweoQIWxQLO95vSqLuZuZBQ7iuxBSFnVrzshAYtxPCdVk7I+G54XrhA==;Ei3v6pwk4F5WS/4FCn6yTg=="
 ---

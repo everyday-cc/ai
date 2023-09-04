@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/nvidia-faces-more-restrictions-on-ai-ch
 webUrl: "https://www.pcmag.com/news/nvidia-faces-more-restrictions-on-ai-chip-sales-this-time-in-the-middle"
 type: article
 quality: 98
-heat: 328
+heat: 318
 published: true
 
 provider:
@@ -261,20 +261,6 @@ related:
       - url: "https://eandt.theiet.org/media/22311/web_nvidia-chip-on-motherboard_credit_istock-1141488945.jpg?crop=0,0.2625,0,0.24531249999999993&cropmode=percentage&width=1200&height=450&rnd=133379550380000000"
         width: 1200
         height: 450
-        isCached: true
-  - title: "Nvidia is the AI king, but threats to its reign abound"
-    excerpt: "But the chip giant’s rivals, including AMD (AMD) and Intel (INTC), aren’t sitting idly by while it gobbles up the spoils of the AI wave. And while Nvidia is in no immediate danger of losing its grip on the market, Intel’s fall from the world’s most ..."
-    publishedDateTime: 2023-08-30T15:13:00Z
-    webUrl: "https://www.aol.com/finance/nvidia-ai-king-threats-reign-144635118.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/I0GtRklBnhbZgEDMjNOUYg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/dc77450c001b3fd280edf085f2776a6f"
-        width: 1200
-        height: 800
         isCached: true
   - title: "US restricts exports of some Nvidia chips to Middle East countries -filing"
     excerpt: "\"During the second quarter of fiscal year 2024, the USG (U.S. government) informed us of an additional licensing requirement for a subset of A100 and H100 products destined to certain customers and other regions,"

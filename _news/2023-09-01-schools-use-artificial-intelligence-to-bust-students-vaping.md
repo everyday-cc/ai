@@ -18,17 +18,36 @@ topics:
   - AI
 
 related:
-  - title: "More than half of Canadian students over 18 use AI tools: survey"
-    excerpt: "More than half of students over 18 have used generative AI to complete their school work or pass an exam, despite 60 per cent feeling that it constitutes cheating, according to a recent survey by business consulting firm KPMG."
-    publishedDateTime: 2023-08-31T20:49:00Z
-    webUrl: "https://www.ctvnews.ca/sci-tech/more-than-half-of-canadian-students-over-18-use-ai-tools-survey-1.6543380"
-    ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2023/8/31/1_6543380.amp.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/8/31/1_6543380.amp.html"
+  - title: "Scientists are using AI to track coal train dust"
+    excerpt: "Across the United States, around 70 percent of coal travels by rail, transiting from dozens of mines to power plants and shipping terminals. Last year, the U.S.—which holds the world’s largest supplies of coal—used about 513 million tons of coal and exported about another 85 million tons to countries including India and the Netherlands."
+    publishedDateTime: 2023-09-02T23:00:00Z
+    webUrl: "https://www.popsci.com/environment/coal-train-dust-ai/"
+    ampWebUrl: "https://www.popsci.com/environment/coal-train-dust-ai/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/environment/coal-train-dust-ai/?amp"
     type: article
     provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 39
+      name: Popular Science
+      domain: popsci.com
+    quality: 59
+    images:
+      - url: "https://www.popsci.com/uploads/2023/09/01/Depositphotos_81499646_L-1.jpg?auto=webp"
+        width: 2000
+        height: 1125
+        isCached: true
+  - title: "How big restaurant chains are using artificial intelligence"
+    excerpt: "Brands like Chipotle, Starbucks and Domino's are leaning on AI to do things like predict traffic, set prices and bake pizzas before they're"
+    publishedDateTime: 2023-08-31T21:46:00Z
+    webUrl: "https://www.restaurantbusinessonline.com/technology/how-big-restaurant-chains-are-using-artificial-intelligence"
+    type: article
+    provider:
+      name: Restaurant Business
+      domain: restaurantbusinessonline.com
+    quality: 54
+    images:
+      - url: "https://cdn.winsightmedia.com/platform/files/public/2023-08/background/chipotle-exterior.jpg?VersionId=7zzKY7gQ.d6YfFPHiWdyBgntDTUuFvo9"
+        width: 1800
+        height: 945
+        isCached: true
 
 secured: "O2Qh2iCYwB2wUNk6BidU9WHHaiajlA1qNSPzVQPEB6CNLfovxTyPows0QzKA5kT43Hm2VMt8UB92NwbRrKnVdtUEskdm26pNGvBC9DELgfD7Gf4DCiEkDF804/1Al2iJfQaj9RqUPOLl1PIF+S4F4vO9EIYymDYkej1dBmWtZtaJ2XC6JsoWdo5Wdk/0Vond+qdUh4idUtJmcdpXcr1CGHmch74hYXNh2zQ2mIKfs/SXwo5HaNt7bYkJpjyNImdZ8bXp3b727ItkHsjPD7u+jziNhkXss1dOpBv9/O69GumhXALcgJ87YED3pmBYNas8soHbStvLXQXk4tCjdaIi8No4AdbkEx5LeNW+9etv3tyf7K6vleyNK2XmkrLJX4xggLJpxruuGqbNAgk/v4JHfcxUtWXHW3A9aiUXePjo+elIEKNbkY9iv22PUkPfOuzqG4zGKRoXeoQMebaGTc6gSxTKaLkP21sqNzbDK9q2XoKIKjZqfhKecyxmKp+Nlf33gigDjtXHJCAGFd8Va8JG3Q==;Oujlj07wEeEtCr62dV8wOg=="
 ---

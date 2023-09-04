@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-03-scientists-are-using-ai-to-track-coal-train-dust.md",
+      "title": "Scientists are using AI to track coal train dust",
+      "excerpt": "Across the United States, around 70 percent of coal travels by rail, transiting from dozens of mines to power plants and shipping terminals. Last year, the U.S.—which holds the world’s largest supplies of coal—used about 513 million tons of coal and exported about another 85 million tons to countries including India and the Netherlands.",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/environment/coal-train-dust-ai/",
+      "originalUrl": "https://www.popsci.com/environment/coal-train-dust-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2023/09/01/Depositphotos_81499646_L-1.jpg?auto=webp",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/environment/coal-train-dust-ai/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/environment/coal-train-dust-ai/?amp",
+      "publishedDateTime": "2023-09-02T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-09-02-ai-can-curate-learning-but-ethics-is-catchword.md",
       "title": "'AI can curate learning, but ethics is catchword'",
       "excerpt": "Without the ethical mindset, we will go down a dystopian pathway with AI. In a short-term framework, ethics and guidelines are necessary, otherwise before we take over AI it will take over us.\" He also called for responsible harnessing of AI in education ...",
@@ -146,59 +189,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-from-google-to-nvidia-tech-giants-have-hired-red-team-hackers-to-break-their-ai-models.md",
-      "title": "From Google To Nvidia, Tech Giants Have Hired Red Team Hackers To Break Their AI Models",
-      "excerpt": "The leaders of the AI red teams at Microsoft, Google, Nvidia and Meta say they are tasked with looking for vulnerabilities in their AI systems so they can be fixed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rashishrivastava/2023/09/01/ai-red-teams-google-nvidia-microsoft-meta/",
-      "originalUrl": "https://www.forbes.com/sites/rashishrivastava/2023/09/01/ai-red-teams-google-nvidia-microsoft-meta/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64ee6705e561af2066d8ae23/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-01T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Ethics"
       ]
     },
     {

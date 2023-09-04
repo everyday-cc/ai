@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/30/generative-ai-startup-ai21-labs-la
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/30/generative-ai-startup-ai21-labs-lands-155m-at-a-1-4b-valuation/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -85,6 +85,20 @@ related:
       - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Startup Behind World’s ‘Most Advanced’ Generative AI Raises $155M"
+    excerpt: "An Israeli startup that develops advanced AI technologies to solve complex problems across various industries has raised $155 million."
+    publishedDateTime: 2023-09-04T08:51:00Z
+    webUrl: "https://nocamels.com/2023/09/startup-behind-worlds-most-advanced-generative-ai-raises-155m/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 37
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2023/09/nghf.jpeg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Trellis Announces $15 Million Investment, With Plans to Launch Generative AI Offerings"
     excerpt: "The state court legal research and analytics platform noted that it plans to leverage this funding round for its “next phase of growth” which will see new generative AI features and product releases."

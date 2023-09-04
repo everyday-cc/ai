@@ -54,22 +54,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "The Rise Of AI And Its Implications For Gaming"
-    excerpt: "and raising many questions in relation to ethics, technology, productivity, creativity, and the value of time. While AI is a cause of concern for many industries, gaming has been incorporating it for quite a while now, in terms of procedural generation ..."
-    publishedDateTime: 2023-08-30T16:40:00Z
-    webUrl: "https://www.benzinga.com/23/08/34120429/the-rise-of-ai-and-its-implications-for-gaming"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34120429"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34120429"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://cdn.benzinga.com/files/ai-in-gaming-main-1600-1_2.jpg?width=1200&height=800&fit=crop"
-        width: 1050
-        height: 700
-        isCached: true
 
 secured: "gBkIfU4jFVhIEPwgTRPC6xoA12DBsARhKBbDccc02cTDJaXgTauK7sIugRdKiPXomyq8SEU1AsQ7xGaGPBU3mFAMHOuyjDWEeA0l4eKY/lPx19RROgN23+WZ2GXOuzfVh4BxQPnhdzNtgtS1T3UYs70LPmCcT7NvEfR7Mw0jK8fMatffNMBWJ7t5kC9z0stf0taNFskI6eNI4Ip+zp+APw1Lk0pGMmWB7NNt0V7guNw9KvbjG0bwOiBii9c9PyF01fDCbx/u3UngDh9iq2cpTr5UCGfXcqdOhlWCIZqvaOxfw/VOjTUVZQbQy5QX8WlGbk5yAJxsddljSpv75KCBFq3Q54aOVDcuZdfmmNZtsMi3ZhX0o71kKM8psGW9V6+zwnbqQAQNmKkScFTMizOS46LZUnQwbYC19Ky0xnX90mPhjtqLNuoKy/ZCNw1HEX+T1FgsSHME9pK9i+OaVAxfTGjsCTrJy1bS3g8rS+I90mf03447EvytMcFNhY66JQ84R6f6fMmhUeK9Q19XYuXgDw==;U6yMSFcjGHiXHB033CvSLQ=="
 ---

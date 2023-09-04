@@ -71,6 +71,20 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "Deep learning model boosts earthquake analysis"
+    excerpt: "Seismologists in California and Germany have developed a deep learning model for forecasting earthquake aftershocks that can outperform existing data analysis methods."
+    publishedDateTime: 2023-09-04T08:55:00Z
+    webUrl: "https://www.theengineer.co.uk/content/news/deep-learning-model-boosts-earthquake-analysis"
+    type: article
+    provider:
+      name: The Engineer
+      domain: theengineer.co.uk
+    quality: 39
+    images:
+      - url: "https://www.theengineer.co.uk/media/syqfn4is/low-res_20200116_074623_047.jpg?width=1200&height=630&mode=crop"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep learning used by seismologists to improve prediction of earthquakes: Study"
     excerpt: "The models flexibility could open up new possibilities for earthquake forecasting. With the ability to adapt to large amounts of new data, models that use deep learning could potentially incorporate information from multiple regions at once to make better forecasts about poorly studied areas."
     publishedDateTime: 2023-09-03T03:17:00Z

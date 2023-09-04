@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/rashishrivastava/2023/09/01/ai-red-te
 webUrl: "https://www.forbes.com/sites/rashishrivastava/2023/09/01/ai-red-teams-google-nvidia-microsoft-meta/"
 type: article
 quality: 63
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: Forbes
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "This megacap tech hitting a 52-week high is proving to be the next big AI play after Nvidia"
-    excerpt: "Early on, Alphabet proved itself as a dominant name in the AI war , facing off against Microsoft with a competing chatbot, although some fears mounted that it lagged the competition . GOOGL YTD mountain Alphabet shares since the start of 2023 \"We continue ..."
-    publishedDateTime: 2023-08-30T15:06:00Z
-    webUrl: "https://www.cnbc.com/2023/08/30/this-megacap-tech-hitting-a-52-week-high-is-proving-to-be-the-next-big-ai-play-after-nvidia.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 57
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106273570-1575296275021gettyimages-1020621856.jpeg?v=1693405989&w=1920&h=1080"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "Av2ttGRyuQPngXw8Lshy4dIRA7JRDvdWjctv0z58daqlMursPxObMEIkfyqCjvwjnVAorxfJYEcxRy9z/z2klgBgaQtGPo35/mBWSnx4+fujPsO/L6tpYfo5YXTVF4q24U6l0j9+mzSZuecYEB7yWNYoHeyZirQVDPGsQgLoeQNbixM95SXxVESqfxFzYrtaBa4lU2bXJX0r0cbzOdmlO2mzBsShdvrslKnCK8OgDIvaBfJYaTdaxzcvWEomtzQha5d2Yi0T4gQJWOQC4p+7BkwgKkSEPeWMh+MN0NrcEsm+mJys6V0NAHSnrw4p2sZ/5Z0/rNeX7jhZYtUyfigwhxNx0yBGqLGdpcbZyyfHXlTglktbVGJlLYa66VSUVsy+Upxd3kCUtZXrNWW4mfoz/idQhhstCtl+LQN+dVMssU4dfLWIzhIUKAUudonn/mCJbZVMO309zVb+sLO8l3FR8/oAXM7I2NcuMhpGvP4hz0AcarE6sluH3DOw+nZdzxxGTR93ddkBe26qOJ3Svoiljg==;kjVonUVQmnA1aqR4tFVP6g=="
 ---

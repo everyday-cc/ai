@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/news/ai-drone-beats-pro-drone-racers-a
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/ai-drone-beats-pro-drone-racers-at-their-own-game/?amp"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/Figure1a-Hauptbild-800x450.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "AI-powered drone beats human champion pilots"
-    excerpt: "Swift AI used technique called deep reinforcement learning to win ... Analysis of the races showed that Swift was consistently faster at the start of a race and pulled tighter turns than the human pilots. The quickest lap from Swift came in at 17.47 ..."
-    publishedDateTime: 2023-08-30T16:24:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/aug/30/ai-powered-drone-beats-human-champion-pilots?ref=upstract.com"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/aug/30/ai-powered-drone-beats-human-champion-pilots"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/30/ai-powered-drone-beats-human-champion-pilots"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
-    images:
-      - url: "https://i.guim.co.uk/img/media/867b341d884ee4b703d4056ae58aa085f5358439/100_0_2992_1795/master/2992.jpg?width=620&quality=85&auto=format&fit=max&s=d4151cf101b060b243fc1a83336be5dc"
-        width: 620
-        height: 372
         isCached: true
   - title: "AI-piloted drone wins against top human racers"
     excerpt: "Drone racing is a niche but competitive sport which sees human competitors flying their drones with the aid of a headset and camera."

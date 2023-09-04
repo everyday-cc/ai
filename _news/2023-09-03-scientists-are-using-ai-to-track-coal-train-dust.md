@@ -9,8 +9,8 @@ ampWebUrl: "https://www.popsci.com/environment/coal-train-dust-ai/?amp"
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/environment/coal-train-dust-ai/?amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Popular Science
@@ -27,61 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "7 ways businesses are using Google Cloud AI"
-    excerpt: "At Google Cloud Next 2023, thousands of people gathered in San Francisco to learn about the newest updates from Google Cloud."
-    publishedDateTime: 2023-08-30T16:00:00Z
-    webUrl: "https://blog.google/products/google-cloud/companies-using-google-cloud-ai/"
-    ampWebUrl: "https://blog.google/products/google-cloud/companies-using-google-cloud-ai/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/google-cloud/companies-using-google-cloud-ai/amp/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 109
-    images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GCN23_GE_BlogHeader_2436x1200_9.width-1300.png"
-        width: 1300
-        height: 640
-        isCached: true
-  - title: "Google Unveils New AI-Powered Cloud Technologies Taking On AWS And Azure"
-    excerpt: "At Cloud Next, Google unveiled AI strategies to rival AWS and Azure. New offerings include custom silicon and updated Vertex AI. Google targets AI-centric enterprises."
-    publishedDateTime: 2023-09-01T19:24:00Z
-    webUrl: "https://www.forbes.com/sites/stevendickens/2023/09/01/google-unveils-new-ai-powered-cloud-technologies-taking-on-aws-and-azure/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 80
-  - title: "Why artificial intelligence is set to be a game changer for businesses in 2023, according to 7 founders"
-    excerpt: "It indicates the ability to send an email. An curved arrow pointing right. If you've seen artificial-intelligence-generated selfies of your friends and colleagues on social media in the past month ..."
-    publishedDateTime: 2023-08-30T23:59:00Z
-    webUrl: "https://www.businessinsider.com/artificial-intelligence-trends-2023-business-healthcare-2023-1"
-    ampWebUrl: "https://www.businessinsider.com/artificial-intelligence-trends-2023-business-healthcare-2023-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/artificial-intelligence-trends-2023-business-healthcare-2023-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 73
-    images:
-      - url: "https://i.insider.com/63b895d0fd2a2700180838c7?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "3 things businesses need to know as NYC begins enforcing its AI hiring law"
-    excerpt: "New York's new AI regulations for hiring have many companies jittery. Here's how to get a handle on complying now and in the future."
-    publishedDateTime: 2023-09-04T00:10:00Z
-    webUrl: "https://venturebeat.com/ai/3-things-businesses-need-to-know-as-nyc-begins-enforcing-its-ai-hiring-law/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 65
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/annevb_technology_artificial_intelligence_and_law._colorful_fu_ce8f16b1-af12-449c-8d7a-af72cd4c62c5-1.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "How big restaurant chains are using artificial intelligence"
     excerpt: "Brands like Chipotle, Starbucks and Domino's are leaning on AI to do things like predict traffic, set prices and bake pizzas before they're"
     publishedDateTime: 2023-08-31T21:46:00Z
@@ -96,59 +41,15 @@ related:
         width: 1800
         height: 945
         isCached: true
-  - title: "Google goes all in on the AI cloud"
-    excerpt: "Market landscape analysis: Players such as Snowflake Inc. and Databricks have effectively acted as the AI and data layer on platforms such as Amazon and Microsoft Azure, given these cloud platforms’ underwhelming data and AI capabilities. AWS seems ..."
-    publishedDateTime: 2023-09-02T15:37:00Z
-    webUrl: "https://siliconangle.com/2023/09/02/google-goes-ai-cloud/"
+  - title: "Schools use artificial intelligence to bust students vaping"
+    excerpt: "Artificial intelligence is being ­deployed to dob in students for vaping or bullying in school toilets, as children end up in hospital with nicotine and heavy metal ­poisoning."
+    publishedDateTime: 2023-09-01T09:10:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/schools-use-artificial-intelligence-to-bust-students-vaping/news-story/a5ecef0d7600103496e09276a30a25d7"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 41
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Google-Cloud.jpeg"
-        width: 6948
-        height: 4634
-        isCached: true
-  - title: "Google adding AI tools to cloud"
-    excerpt: "Google's cloud clients will be able to access Meta's Llama 2 large language model, as well as AI startup Anthropic's Claude 2 chatbot, to customize with enterprise data for their own apps and services. The move, announced last week at Google's Next '23 ..."
-    publishedDateTime: 2023-09-03T07:01:00Z
-    webUrl: "https://www.arkansasonline.com/news/2023/sep/03/google-adding-ai-tools-to-cloud/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 39
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/205216573_Google-AI-bg-3db9458a-4676-11ee-9807-7da73538c4fb_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 399
-        isCached: true
-  - title: "Domo Announces Domo.AI to Advance the Way Businesses Manage and Deploy AI"
-    excerpt: "Domo announced Domo.AI, a portfolio of comprehensive and flexible artificial intelligence (AI) services, powered by the"
-    publishedDateTime: 2023-08-31T16:03:00Z
-    webUrl: "https://www.datanami.com/this-just-in/domo-announces-domo-ai-to-advance-the-way-businesses-manage-and-deploy-ai/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 38
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
-        width: 1893
-        height: 767
-        isCached: true
-  - title: "HCA partners with Google Cloud to use artificial intelligence in its hospitals"
-    excerpt: "This week, the companies announced a new collaboration to improve nurse and physician workflow using generative artificial intelligence. HCA launched a pilot program in four of its hospitals this year. The program uses Google Cloud’s AI technology and ..."
-    publishedDateTime: 2023-08-30T16:55:00Z
-    webUrl: "https://www.bizjournals.com/nashville/news/2023/08/30/hca-healthcare-google-cloud-ai-hospitals.html"
-    ampWebUrl: "https://www.bizjournals.com/nashville/news/2023/08/30/hca-healthcare-google-cloud-ai-hospitals.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/nashville/news/2023/08/30/hca-healthcare-google-cloud-ai-hospitals.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 35
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 17
 
 secured: "MtvQ4oimh9iy/VFchSeC8SykgD/wB6lM1SCRMPWieTUe1LUEhqFnz9CPaQ6DnbUzyVk+3uWstZSmdxJ3dE7kQrPz3ktLqNZdfFOFNWhDg9WmXsTWYqhoewa/jjdVeLrPS+Zp4Cfyj4rbayMQgNHtxKcgmhQqOjoR4cCAkmxAriNJZwX+mt7tlfcsp2aNXSLsvLpD41bOxTMelgF3nIyyNY7eGf89aAoBAVYe5xcZ313tWzcQgUh33gbh07aFf8lBjXnOHtz6ZrMqFaQlr7Q0nVawB0unX14lVbYW1oxzqS46krlj0R6uXuMpGtY2l/yIlk235PWX/U+va/AoMwuWzjoT8Wljk/v/1/mEl2n8cTnpHRc0m/oAEjtbWZI+Aho/+GbsjHKplUNEZRofMsz8bTvrIr8kOoqkcuAFPv0EvtD+2kFpQBDJiuFhKuCOxfuEJXBllscK7+51xwi5TSNivf6PRUH2uw+rarrpYgp1mKjywv34k5rh6TxqQaZ33wOaSQY9kgZJrHdvUR0FLXDFZQ==;KzfLhSzeAs1AnLIGZmsPUw=="
 ---

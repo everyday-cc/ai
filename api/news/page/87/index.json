@@ -2,6 +2,91 @@
   "page": 87,
   "value": [
     {
+      "path": "_news/2023-07-05-new-ai-systems-could-speed-up-our-ability-to-create-weather-forecasts.md",
+      "title": "New AI systems could speed up our ability to create weather forecasts",
+      "excerpt": "The first, developed by Huawei, details how its new AI model, Pangu-Weather, can predict weekly weather patterns around the world much more quickly than traditional forecasting methods, but with comparable accuracy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/07/05/1075897/new-ai-systems-could-speed-up-our-ability-to-create-weather-forecasts/",
+      "originalUrl": "https://www.technologyreview.com/2023/07/05/1075897/new-ai-systems-could-speed-up-our-ability-to-create-weather-forecasts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/07/GettyImages-872885192-1.jpeg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2023/07/05/1075897/new-ai-systems-could-speed-up-our-ability-to-create-weather-forecasts/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/05/1075897/new-ai-systems-could-speed-up-our-ability-to-create-weather-forecasts/amp/",
+      "publishedDateTime": "2023-07-05T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-05-un-recruits-robots-in-effort-to-meet-global-development-goals.md",
+      "title": "UN recruits robots in effort to meet global development goals",
+      "excerpt": "Dozens of robots, including several humanoid ones, will take centre stage at a conference organized by the United Nations technology agency in Switzerland this week to showcase their potential to help it reach a series of increasingly improbable global goals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ctvnews.ca/sci-tech/un-recruits-robots-in-effort-to-meet-global-development-goals-1.6467793",
+      "originalUrl": "https://www.ctvnews.ca/sci-tech/un-recruits-robots-in-effort-to-meet-global-development-goals-1.6467793",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/images/2020/1/24/1_4782295.jpg",
+          "width": 470,
+          "height": 264,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/national/sci-tech/2023/7/5/1_6467793.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/7/5/1_6467793.amp.html",
+      "publishedDateTime": "2023-07-05T07:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-05-rethinking-workload-placement-in-the-age-of-generative-ai.md",
       "title": "Rethinking Workload Placement In The Age Of Generative AI",
       "excerpt": "How organizations build, tune and run AI means the difference between gaining a competitive edge or losing one. Here are our tips.",
@@ -1095,101 +1180,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-teg-responds-to-choice-campaign-on-face-recognition-tech.md",
-      "title": "TEG Responds to Choice Campaign on Face Recognition Tech",
-      "excerpt": "TEG does not collect biometric data at Qudos Bank Arena and ASM Global does not share any such data with TEG,\" a spokesman says.",
-      "sourceUrl": null,
-      "webUrl": "https://themusicnetwork.com/teg-responds-choice-campaign-face-recognition-tech/",
-      "originalUrl": "https://themusicnetwork.com/teg-responds-choice-campaign-face-recognition-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://app.thebrag.com/img-socl/?url=https://images.thebrag.com/tmn/uploads/qudos-vax-hub.jpg&nologo=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://themusicnetwork.com/teg-responds-choice-campaign-face-recognition-tech/amp/",
-      "cdnAmpWebUrl": "https://themusicnetwork-com.cdn.ampproject.org/c/s/themusicnetwork.com/teg-responds-choice-campaign-face-recognition-tech/amp/",
-      "publishedDateTime": "2023-07-04T23:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Music Network",
-        "domain": "themusicnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-debunking-ai-myths-the-truth-behind-5-common-misconceptions.md",
-      "title": "Debunking AI Myths: The Truth Behind 5 Common Misconceptions",
-      "excerpt": "Unravel the enigma of AI as this article busts five pervasive myths, from fears of robotic world domination to the mistaken belief in machines' unbiased judgment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/05/debunking-ai-myths-the-truth-behind-5-common-misconceptions/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/05/debunking-ai-myths-the-truth-behind-5-common-misconceptions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a5031dc7bbf308cbb4ddd4/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/05/debunking-ai-myths-the-truth-behind-5-common-misconceptions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/05/debunking-ai-myths-the-truth-behind-5-common-misconceptions/amp/",
-      "publishedDateTime": "2023-07-04T22:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

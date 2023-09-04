@@ -2,6 +2,83 @@
   "page": 196,
   "value": [
     {
+      "path": "_news/2023-04-29-addison-selected-as-host-site-for-a-fourth-time-for-artificial-intelligence-bootcamp-applications-now-open.md",
+      "title": "Addison Selected as Host Site for a Fourth Time for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
+      "excerpt": "Headstorm will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at no cost for a 4th time in the Fall of 2023. The AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/04/g32092893/addison-selected-as-host-site-for-a-fourth-time-for-artificial-intelligence-bootcamp-applications-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/g32092893/addison-selected-as-host-site-for-a-fourth-time-for-artificial-intelligence-bootcamp-applications-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32092893",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32092893",
+      "publishedDateTime": "2023-04-28T12:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-29-idvv-moves-forward-in-artificial-intelligence-ai-sector.md",
+      "title": "IDVV Moves Forward In Artificial Intelligence AI Sector",
+      "excerpt": "IDVV is pleased to announce its progress in the acquisition of WITech and SF Corp, which have been completed ahead of schedule. As the company enters the AI sector, it is combining the strengths and capabilities of both acquisitions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.star-telegram.com/press-releases/article274848016.html",
+      "originalUrl": "https://www.star-telegram.com/press-releases/article274848016.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-28T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fort Worth Star-Telegram",
+        "domain": "star-telegram.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-29-el-segundo-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
       "title": "El Segundo Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
       "excerpt": "Notified will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at no-cost in the Fall of 2023. The AI Bootcamp in El",
@@ -1038,92 +1115,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-global-natural-language-processing-nlp-market-size-to-grow-at-a-cagr-of-2130-in-the-forecast-period-of-2023-2028.md",
-      "title": "Global Natural Language Processing (NLP) Market Size To Grow At A CAGR Of 21.30% In The Forecast Period Of 2023-2028",
-      "excerpt": "The global natural language processing (NLP) market is expected to register growth during the forecast period on account of the increasing demand for advanced text analytics. Rapid technological advancements and expansions coupled with increased connectivity as well as cloud-based systems are likely to increase the market growth of natural language processing (NLP) with increased interaction between humans and machines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-size-to-grow-at-a-cagr-of-2130-in-the-forecast-period-of-2023-2028-2023-04-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-size-to-grow-at-a-cagr-of-2130-in-the-forecast-period-of-2023-2028-2023-04-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-amazons-cloud-warning-set-to-erase-nearly-60-billion-in-value.md",
-      "title": "Amazon's cloud warning set to erase nearly $60 billion in value",
-      "excerpt": "Amazon.com Inc shares fell nearly 5% on Friday after the company warned its lucrative cloud services business slowed further in April, fueling concerns that the long-time growth driver was struggling with a pullback in technology spending. We apologize ...",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/pmn/business-pmn/amazons-cloud-warning-set-to-erase-nearly-60-billion-in-value",
-      "originalUrl": "https://financialpost.com/pmn/business-pmn/amazons-cloud-warning-set-to-erase-nearly-60-billion-in-value",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://financialpost.com/pmn/business-pmn/amazons-cloud-warning-set-to-erase-nearly-60-billion-in-value/wcm/92febc1e-31b2-4f30-8947-9de8e4b61a51/amp/",
-      "cdnAmpWebUrl": "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/amazons-cloud-warning-set-to-erase-nearly-60-billion-in-value/wcm/92febc1e-31b2-4f30-8947-9de8e4b61a51/amp/",
-      "publishedDateTime": "2023-04-28T06:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

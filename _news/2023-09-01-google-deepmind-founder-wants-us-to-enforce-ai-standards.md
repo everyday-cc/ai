@@ -58,20 +58,20 @@ related:
         height: 573
         isCached: true
   - title: "Google DeepMind co-founder calls for US to enforce AI standards"
-    excerpt: "Google DeepMind co-founder asks US to allow Nvidia'a AI chip buyers to adhere to ethics when using the technology"
-    publishedDateTime: 2023-09-01T06:41:00Z
-    webUrl: "https://tribune.com.pk/story/2433514/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards"
-    ampWebUrl: "https://tribune.com.pk/story/2433514/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards?amp=1"
-    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2433514/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards?amp=1"
+    excerpt: "The US has expanded restriction of exports of sophisticated Nvidia and Advanced Micro Devices artificial-intelligence chips beyond China to other regions including some countries in the Middle East."
+    publishedDateTime: 2023-09-01T13:32:00Z
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-8919888/"
+    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-8919888/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-8919888/lite/"
     type: article
     provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
+      name: The Indian Express
+      domain: indianexpress.com
     quality: 74
     images:
-      - url: "https://i.tribune.com.pk/media/images/google-deepmind1693550392-0/google-deepmind1693550392-0.jpg"
+      - url: "https://images.indianexpress.com/2023/08/nvidia-featured-reuters.jpg"
         width: 1200
-        height: 630
+        height: 667
         isCached: true
   - title: "Google DeepMind cofounder calls for US to enforce AI standards"
     excerpt: "The US should allow Nvidia's artificial intelligence (AI) chips only to buyers who agree to ethically use the technology, Google DeepMind's co-founder Mustafa Suleyman said on Friday."
@@ -142,15 +142,6 @@ related:
       name: tech
       domain: techstory.in
     quality: 47
-  - title: "Google DeepMind unveils tool to watermark and detect AI-generated images"
-    excerpt: "Google DeepMind, Alphabet Inc.’s artificial intelligence research lab, is teaming up with Google Cloud to launch a watermarking tool for AI-generated images that will allow users to identify if artwork or graphics was produced by an AI model."
-    publishedDateTime: 2023-08-30T16:52:00Z
-    webUrl: "https://siliconangle.com/2023/08/30/google-deepmind-unveils-tool-watermark-detect-ai-generated-images/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 33
   - title: "Google DeepMind co-founder argues US should set AI global standards - FT"
     excerpt: "Mustafa Suleyman, Google DeepMind's co-founder and chief executive of Inflection AI, told the Financial Times that the US should use their chip leadership to enforce minimum global standards for the use of AI."
     publishedDateTime: 2023-09-01T12:13:00Z

@@ -60,17 +60,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Money, markets and machine learning: Unpacking the risks of adversarial AI"
-    excerpt: "According to the technology services company Exadel ... poisoning and adversarial attacks have broad implications across different machine learning applications, including financial forecast models. In a study conducted by researchers at the University ..."
-    publishedDateTime: 2023-08-30T16:01:00Z
-    webUrl: "https://thehill.com/opinion/finance/4176752-money-markets-and-machine-learning-unpacking-the-risks-of-adversarial-ai/"
-    ampWebUrl: "https://thehill.com/opinion/finance/4176752-money-markets-and-machine-learning-unpacking-the-risks-of-adversarial-ai/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/finance/4176752-money-markets-and-machine-learning-unpacking-the-risks-of-adversarial-ai/amp/"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 54
   - title: "The Brand Bee Envisions The Role Of Artificial Intelligence In Shaping The Next Era Of Marketing"
     excerpt: "a distinguished Digital Marketing Agency in Gurugram , is at the forefront of revolutionising the marketing landscape by embracing the potential of Artificial Intelligence (AI). Known for providing 360-degree solutions for digital marketing and hailed as a ..."
     publishedDateTime: 2023-09-04T03:42:00Z
@@ -123,6 +112,6 @@ related:
       domain: theprint.in
     quality: 19
 
-secured: "yQmcND9WvgcuLeGKGyALhdwwFVla1jlgn6Tj2RAZ7gB8e11U+Nvwn7bBPMCp8SBgOXGOffSAqI/awTHE/GdXRj9gLRMuXFHJ5YYgEjtLLLtPTGPUa6+8e2KosQ/BcMwRr0jwx6dRh5xRFgn/mkYJ0dCGA4uiwEP8sXuFk4iijEG6BtKLJNyadm3pBxzj2BVJ5VLPfWAN6Fyu5aeYWLUUmlbMoMTutPYRjV5rcFOxIDLM9BqCvkNlIskPVhN0DXFFt2BsM0l1G58JZezCcmRJHO8lp+4ioUCyH4oSiIs7FwS9WPv5/IAuVvORKf15C2GSlwshslMGN4B0PLF6ncvKHg82hR4EP1omZ2f2EWXg++4=;JUMx1UOR8N8B/owhm014wQ=="
+secured: "mcMWtCZf3Oa/a5MkkdWYNKfYDigYA8bUaPRaJ4RH5bjh4V6AAjMzn9DrVqdSDqio4vL8Hzf4oNw84z4jbAGuuKyEPYmljgpAWZ/GqfAU8CwNv/e6MJa9vLK+ax40Dr1ERYiXO2fEArPDnc7MTjtT+dEkZvdO5uuDhVHJYko2DMVBJ/53rKBr1aeAPLJ1lWSQgOS8ExaUwTy2Ol60qdLoAxwZyithYRi5XfuE2AZ1cl90GmjpMK7hHHNoiWK9nbwIQ5aD+NWX8Xt3m4Bh3XTawar82FuQQgn5zsa7TdoYPD01mHxF9Id3aUDIkFaMojA9f6DXNwbf2vzpD8tOTOeyFwrvvYJMybPv4Wc4NQfw6rqoXdelILoSAB9y63Lh7/W5jZ+4Gr6Kw6NsjeWTr8LBr5RRbrD4LnrcEn5N5oxygpPxXb/Thui96OwKZiHwFh2vicj7yHOP21WvdYkMPTN6rHOWKDvwo33oCecA0n2j+SeBlCJT0YsqjRY3uBFvXUYjR2U59E+qHFbHz3hypqctYg==;SjIoitYILLAqzaUxy6t50w=="
 ---
 

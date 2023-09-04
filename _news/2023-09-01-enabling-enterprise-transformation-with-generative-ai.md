@@ -44,20 +44,6 @@ related:
         width: 1080
         height: 540
         isCached: true
-  - title: "Sprig uses AI to transform product surveys into conversational data"
-    excerpt: "The free plan now includes in-product surveys, session replays, and Open-Text AI analysis. Teams of all sizes can immediately start using Sprig and the new AI Analysis for Surveys featureset. VentureBeat's mission is to be a digital town square for ..."
-    publishedDateTime: 2023-08-30T16:39:00Z
-    webUrl: "https://venturebeat.com/ai/sprig-uses-ai-to-transform-product-surveys-into-conversational-data/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/cfr0z3n_line_art_flat_illustration_detailed_a_woman_takes_a_sur_032ed0c8-feac-41c6-92a7-fd9c2baeb87a.png?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
   - title: "VMware Introduces Frameworks And Services At Explore Conference To Enable Enterprise Adoption Of Generative AI"
     excerpt: "Ranked Industry Analyst Patrick Moorhead unpacks VMware's approach to generative AI based on the VMware Explore 2023 event and his conversations with executives."
     publishedDateTime: 2023-08-31T19:00:00Z

@@ -271,20 +271,6 @@ related:
         width: 1200
         height: 450
         isCached: true
-  - title: "Nvidia is the AI king, but threats to its reign abound"
-    excerpt: "But the chip giant’s rivals, including AMD (AMD) and Intel (INTC), aren’t sitting idly by while it gobbles up the spoils of the AI wave. And while Nvidia is in no immediate danger of losing its grip on the market, Intel’s fall from the world’s most ..."
-    publishedDateTime: 2023-08-30T15:13:00Z
-    webUrl: "https://www.aol.com/finance/nvidia-ai-king-threats-reign-144635118.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/I0GtRklBnhbZgEDMjNOUYg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/dc77450c001b3fd280edf085f2776a6f"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "US curbs Nvidia’s AI chip exports to some Middle East countries"
     excerpt: "Nvidia this week did not specify which countries in the Middle East were affected. The company derived most of its US$13.5 billion in sales in its fiscal quarter ended July 30 from the US, China and Taiwan. About 13.9% of sales came from all other countries combined, and Nvidia does not provide a revenue breakout from the Middle East."
     publishedDateTime: 2023-08-30T23:04:00Z

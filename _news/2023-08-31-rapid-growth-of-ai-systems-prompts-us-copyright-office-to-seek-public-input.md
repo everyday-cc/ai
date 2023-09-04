@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/08/rapid-growth-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/rapid-growth-of-ai-systems-prompts-us-copyright-office-to-seek-public-input/amp/"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/KGCHbCFsnaeuUcoUZeTcFg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDc-/https://s.yimg.com/os/creatr-uploaded-images/2023-08/4f47be10-481c-11ee-97ad-c652bc268ee7"
         width: 1199
         height: 807
-        isCached: true
-  - title: "US Copyright Office issues notice of inquiry on artificial intelligence"
-    excerpt: "The inquiry seeks information and comment on issues related to the content AI produces and how policy makers should treat AI that imitates or mimics human artists ..."
-    publishedDateTime: 2023-08-30T17:01:00Z
-    webUrl: "https://cointelegraph.com/news/us-copyright-office-issues-notice-of-inquiry-on-artificial-intelligence"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 37
-    images:
-      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvYjg2ZGRiMzYtNjA2ZC00ZjM2LTk2YjgtZjExNGM3MGFkMDA2LmpwZw==.jpg"
-        width: 1160
-        height: 773
         isCached: true
 
 secured: "I6F9NcjvJQg77ffGa0caPG4aCCCb5npXr4c657Z6q7y/8VE5B8rm8Hpgt0mI0v2qhEW+JkWMn+vuI/ps7gn7/UVEVKgHpxcAZ86AHBvLv4qh3UcqaBhZgvU838vwk9JFb8yUNVE9ts30qH4Fc8WQpHfh3OSL5JrN0K5yPNZ4OhdYSiYP6TMyNzpiM5wFNkmPSXNvydxeO6Xk6QE3FZFUnNxgDWtIIaQa7HLPs5AL5V5oglP9Nx49gamLGj5xboohEAXOq2hiSXhhMR1acFE9bGIjJECVyK6IQBZTk61/aytNue0L52hVBhuyPCRWDtZJMVXcOpMQKA5vIyczS+PfBlKzAWzpzMfBUPHdZwzX+5xSyHtLBgUYdagP3X95p5C/BnmAx/31zt6ewWgFVga8VfaepcSj/fucGafMvtExwnUgF+EgGMrg/Std+VW7NGOAOyM3LOmUKoqw6AhmL/qifJaD4oThf51VvtBYrvUrhH44IoL31qChZFRvYL7UaIToDb2HngkgnZYLpUYJU/iljw==;6C837cRQeO7Sd96DrJK4Xg=="

@@ -82,6 +82,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Startup Behind World’s ‘Most Advanced’ Generative AI Raises $155M"
+    excerpt: "An Israeli startup that develops advanced AI technologies to solve complex problems across various industries has raised $155 million."
+    publishedDateTime: 2023-09-04T08:51:00Z
+    webUrl: "https://nocamels.com/2023/09/startup-behind-worlds-most-advanced-generative-ai-raises-155m/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 37
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2023/09/nghf.jpeg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Trellis Announces $15 Million Investment, With Plans to Launch Generative AI Offerings"
     excerpt: "The state court legal research and analytics platform noted that it plans to leverage this funding round for its “next phase of growth” which will see new generative AI features and product releases."
     publishedDateTime: 2023-08-31T16:25:00Z

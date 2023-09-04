@@ -60,20 +60,6 @@ related:
         width: 1199
         height: 807
         isCached: true
-  - title: "US Copyright Office issues notice of inquiry on artificial intelligence"
-    excerpt: "The inquiry seeks information and comment on issues related to the content AI produces and how policy makers should treat AI that imitates or mimics human artists ..."
-    publishedDateTime: 2023-08-30T17:01:00Z
-    webUrl: "https://cointelegraph.com/news/us-copyright-office-issues-notice-of-inquiry-on-artificial-intelligence"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 37
-    images:
-      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvYjg2ZGRiMzYtNjA2ZC00ZjM2LTk2YjgtZjExNGM3MGFkMDA2LmpwZw==.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
 secured: "pKCjtZ4mTxWCHaR6bwtZDFtl5Qr73zC5lNVORcc7Qu4g2puZJKumQ52iS20vIOE84LR4we2uYdUSU171QRlIj8+VSk017McUUFvC+pNeNRfG9p12riBXZTuG1OFSBXDkz3T3q4KWkGjJI/4OBJUv/abRhfFbdaFTHZoQ0SBXORHJxKxqk2NLCIxZAEWu++BNn4AHOXUK7INgP1Yp/+tGMJlJrxWeP7etEt9M1THjTljZuQSw7sIymWz05uszQkMZQRNFUmHhwxbuujnL9XtKH+JJjoACYk5gkAzwR6JU7TULVvWX4RKkgagEzOVN/0yCjksnI9kaeKaeABEPwWvCDHKJoatK3rkgN7x4l9VKSKp0w/w5ZIDX4ifg+mW/aLpfJuviu3HV0JaZGVLOihjC7ADswOOmgiEx0zDZWw2/+rZdthnL1FTyoudBxBvnr8xd+zQm1fdKJiwH2x0W0aEELKluMhJfkDegg5FuaZqpJuVjJEWLnS0ZumA8DvEj/vpG1BXYi0h4U0AcLdnEgXjHcw==;HPoDxZTktm17B5reJEW3YA=="
 ---

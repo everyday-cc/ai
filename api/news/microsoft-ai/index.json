@@ -55,6 +55,50 @@
       ]
     },
     {
+      "path": "_news/2023-09-02-google-unveils-new-ai-powered-cloud-technologies-taking-on-aws-and-azure.md",
+      "title": "Google Unveils New AI-Powered Cloud Technologies Taking On AWS And Azure",
+      "excerpt": "At Cloud Next, Google unveiled AI strategies to rival AWS and Azure. New offerings include custom silicon and updated Vertex AI. Google targets AI-centric enterprises.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevendickens/2023/09/01/google-unveils-new-ai-powered-cloud-technologies-taking-on-aws-and-azure/",
+      "originalUrl": "https://www.forbes.com/sites/stevendickens/2023/09/01/google-unveils-new-ai-powered-cloud-technologies-taking-on-aws-and-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-01T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-01-intel-hot-chips-reveal-a-deeper-look-into-xeon-in-2024.md",
       "title": "Intel Hot Chips Reveal: A Deeper Look Into Xeon In 2024",
       "excerpt": "VP & Principal Analyst, Datacenter Compute, Matt Kimball, shares his thoughts on Intel's plan to deliver two new server CPUs in 2024.",
@@ -1402,40 +1446,6 @@
         "Microsoft AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-microsoft-revamps-activision-blizzard-deal-over-uk-demands.md",
-      "title": "Microsoft revamps Activision Blizzard deal over UK demands",
-      "excerpt": "Microsoft restructured its $69 billion deal ... control the licensing terms of Activision Blizzard games for rival services,” Smith wrote. The CMA said it opened a new investigation into the ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/technology/4164126-microsoft-revamps-activision-blizzard-deal-over-uk-demands/",
-      "originalUrl": "https://thehill.com/policy/technology/4164126-microsoft-revamps-activision-blizzard-deal-over-uk-demands/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/technology/4164126-microsoft-revamps-activision-blizzard-deal-over-uk-demands/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/4164126-microsoft-revamps-activision-blizzard-deal-over-uk-demands/amp/",
-      "publishedDateTime": "2023-08-22T14:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

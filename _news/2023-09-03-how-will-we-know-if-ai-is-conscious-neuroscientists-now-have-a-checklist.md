@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2023/09/03/how-will-we-know-if-ai-is-cons
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/09/03/how-will-we-know-if-ai-is-conscious-neuroscientists-now-have-a-checklist/?amp=1"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1068
     height: 601
     isCached: true
-
-related:
-  - title: "If AI Becomes Conscious, Here’s How We Can Tell"
-    excerpt: "A checklist derived from six neuroscience-based theories of consciousness could help assess whether an artificial intelligence system achieves this state"
-    publishedDateTime: 2023-08-30T16:20:00Z
-    webUrl: "https://www.scientificamerican.com/article/if-ai-becomes-conscious-heres-how-we-can-tell/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 37
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/EA4AFABA-9A71-49C8-AE946CB0E1456A9E.jpeg"
-        width: 790
-        height: 496
-        isCached: true
 
 secured: "AwZpzUjoMG9wUcH7GnvpRktTWVwmwUAHsPiqvqxg5B71o7M54CrYPu1zwu4HCZ2T1EWlAtcfL8ztpMQUGLUhBG5cC5pt47jSSUkIOZA8tseHILGyU48WknaghZ7VNxSxfpC0/uB3s18ATfE37WjwueV2va6k5FthFAuxNixVszAVJ3yMHqAxvL284tCX/F2v0P/kWzKR/3FeL4MBqi8uDL1EC12bbS6s5VEyNFAid7xtVLutcn9un0gUcqdl0LgpKYepvWyrFQG9D7NT1R9sRd60CutsFG2HzYbYo9Jv1fwVu4otXxbDCAYj/GQlxEzV3qZ3gSTQxQeoKh2WeY6gsE4s3wT8Ll+rSni1Q+ECi54=;fGjpSDLAh4lYNBsglKhVqw=="
 ---

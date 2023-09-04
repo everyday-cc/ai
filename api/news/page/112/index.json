@@ -2,6 +2,92 @@
   "page": 112,
   "value": [
     {
+      "path": "_news/2023-06-20-in-san-francisco-biden-talks-with-tech-leaders-about-risks-and-promises-of-artificial-intelligence.md",
+      "title": "In San Francisco, Biden talks with tech leaders about risks and promises of artificial intelligence",
+      "excerpt": "SAN FRANCISCO – President Joe Biden convened a group of technology leaders on Tuesday to debate what he called the “risks and enormous promises” of artificial intelligence. The Biden ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.clickondetroit.com/business/2023/06/20/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/",
+      "originalUrl": "https://www.clickondetroit.com/business/2023/06/20/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T09:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "clickondetroit.com",
+        "domain": "clickondetroit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-cruise-launches-an-android-app-for-its-self-driving-taxis.md",
+      "title": "Cruise launches an Android app for its self-driving taxis",
+      "excerpt": "Cruise has finally launched an Android app for ridehailing, giving potential customers in San Francisco the option to call one of its robotaxis even if they're not iPhone users..",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/cruise-launches-an-android-app-for-its-self-driving-taxis-160045696.html",
+      "originalUrl": "https://www.engadget.com/cruise-launches-an-android-app-for-its-self-driving-taxis-160045696.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/5dzf4NlsIvcmGvpR7BMA4Q--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/689d9960-0f60-11ee-bf85-8f84a2ed3cb6.cf.jpg",
+          "width": 795,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/cruise-launches-an-android-app-for-its-self-driving-taxis-160045696.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/cruise-launches-an-android-app-for-its-self-driving-taxis-160045696.html",
+      "publishedDateTime": "2023-06-20T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-20-can-ai-generated-music-win-a-music-award-the-grammys-reveal-new-rules.md",
       "title": "Can AI-generated music win a music award? The Grammys reveal new rules",
       "excerpt": "\"Only human creators are eligible to be submitted for consideration for, nominated for, or win a Grammy Award,\" according to the new 2024 Grammy Awards rules. Even though only human creators will be recognized for their work, it doesn't mean AI-generated music won't be recognized.",
@@ -1045,103 +1131,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-your-guide-to-cognitive-behavioral-therapy-cbt.md",
-      "title": "Your Guide To Cognitive Behavioral Therapy (CBT)",
-      "excerpt": "Cognitive behavioral therapy (CBT ... Your health and wellness is unique to you, and the products and services we review may not be right for your circumstances. We do not offer individual ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/health/mind/what-is-cognitive-behavioral-therapy/",
-      "originalUrl": "https://www.forbes.com/health/mind/what-is-cognitive-behavioral-therapy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T03:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-can-ai-make-airspace-security-smarter.md",
-      "title": "Can AI Make Airspace Security Smarter?",
-      "excerpt": "The impact of AI on keeping our airspace safe is determined by how well it is designed and what it has been trained on.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/can-ai-make-airspace-security-smarter/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/can-ai-make-airspace-security-smarter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648c6132caf85eefc9b1e992/0x0.jpg?format=jpg&crop=3033,1707,x0,y156,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/can-ai-make-airspace-security-smarter/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/20/can-ai-make-airspace-security-smarter/amp/",
-      "publishedDateTime": "2023-06-20T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security",
-        "Computer Vision"
       ]
     }
   ],

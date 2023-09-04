@@ -57,17 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Money, markets and machine learning: Unpacking the risks of adversarial AI"
-    excerpt: "According to the technology services company Exadel ... poisoning and adversarial attacks have broad implications across different machine learning applications, including financial forecast models. In a study conducted by researchers at the University ..."
-    publishedDateTime: 2023-08-30T16:01:00Z
-    webUrl: "https://thehill.com/opinion/finance/4176752-money-markets-and-machine-learning-unpacking-the-risks-of-adversarial-ai/"
-    ampWebUrl: "https://thehill.com/opinion/finance/4176752-money-markets-and-machine-learning-unpacking-the-risks-of-adversarial-ai/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/finance/4176752-money-markets-and-machine-learning-unpacking-the-risks-of-adversarial-ai/amp/"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 54
   - title: "How artificial intelligence is driving change in insurance"
     excerpt: "Even as AI technology continues to develop, there is much for us to do so we can prepare for the future and meet it head-on."
     publishedDateTime: 2023-09-04T07:46:00Z

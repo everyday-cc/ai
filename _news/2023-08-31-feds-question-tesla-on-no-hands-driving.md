@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "NHTSA demands answers on Tesla self-driving mode"
-    excerpt: "Prior versions of Tesla's Full Self-Driving software had a feature colloquially referred to as a \"nag\" that sets off a warning alarm when the driver takes their hands off the wheel. Read More GM invests in company developing lower-cost EV batteries ..."
-    publishedDateTime: 2023-08-30T15:58:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2023/08/30/national-highway-traffic-safety-administration-demands-answers-on-tesla-self-driving-mode/2351693402928/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2023/08/30/national-highway-traffic-safety-administration-demands-answers-on-tesla-self-driving-mode/2351693402928/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2023/08/30/national-highway-traffic-safety-administration-demands-answers-on-tesla-self-driving-mode/2351693402928/"
-    type: article
-    provider:
-      name: UPI
-      domain: upi.com
-    quality: 59
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/2351693402928/2023/1/3500bda9ca3a580ea6ebb2512f07b3a2/v1.5/NHTSA-demands-answers-on-Tesla-self-driving-mode.jpg"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "Tesla Reduces Full Self-driving Beta Software Cost By $3,000"
     excerpt: "Tesla charges an additional $6,000 for what it terms \"Enhanced Autopilot,\" which adds features such as assistance with parking."
     publishedDateTime: 2023-09-03T03:29:00Z

@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Google DeepMind co-founder calls for US to enforce AI standards"
-excerpt: "Google DeepMind co-founder asks US to allow Nvidia'a AI chip buyers to adhere to ethics when using the technology"
-publishedDateTime: 2023-09-01T06:41:00Z
-originalUrl: "https://tribune.com.pk/story/2433514/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards"
-webUrl: "https://tribune.com.pk/story/2433514/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards"
-ampWebUrl: "https://tribune.com.pk/story/2433514/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards?amp=1"
-cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2433514/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards?amp=1"
+excerpt: "The US has expanded restriction of exports of sophisticated Nvidia and Advanced Micro Devices artificial-intelligence chips beyond China to other regions including some countries in the Middle East."
+publishedDateTime: 2023-09-01T13:32:00Z
+originalUrl: "https://indianexpress.com/article/technology/artificial-intelligence/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-8919888/"
+webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-8919888/"
+ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-8919888/lite/"
+cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-8919888/lite/"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: The Express Tribune
-  domain: tribune.com.pk
+  name: The Indian Express
+  domain: indianexpress.com
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://i.tribune.com.pk/media/images/google-deepmind1693550392-0/google-deepmind1693550392-0.jpg"
+  - url: "https://images.indianexpress.com/2023/08/nvidia-featured-reuters.jpg"
     width: 1200
-    height: 630
+    height: 667
     isCached: true
 
 related:
@@ -142,15 +142,6 @@ related:
       name: tech
       domain: techstory.in
     quality: 47
-  - title: "Google DeepMind unveils tool to watermark and detect AI-generated images"
-    excerpt: "Google DeepMind, Alphabet Inc.’s artificial intelligence research lab, is teaming up with Google Cloud to launch a watermarking tool for AI-generated images that will allow users to identify if artwork or graphics was produced by an AI model."
-    publishedDateTime: 2023-08-30T16:52:00Z
-    webUrl: "https://siliconangle.com/2023/08/30/google-deepmind-unveils-tool-watermark-detect-ai-generated-images/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 33
   - title: "Google DeepMind co-founder argues US should set AI global standards - FT"
     excerpt: "Mustafa Suleyman, Google DeepMind's co-founder and chief executive of Inflection AI, told the Financial Times that the US should use their chip leadership to enforce minimum global standards for the use of AI."
     publishedDateTime: 2023-09-01T12:13:00Z
@@ -179,6 +170,6 @@ related:
       domain: ft.com
     quality: 29
 
-secured: "UrcU4nh1jThUHB9RS93Mh/minHAoLx2AnA/JMc17kp8faBhrJ+2cPuGjZ/HAIJRwo/J9Ky6EF1EKKM7yJtLHeM4RIOtjk6hPe4mb1O3OUbmakVMZzP4tZH/3fvTy5qpsVqME83i2BzVk2h0UqC8JUuFBfo23Tk7rrj3RhAZ05uoAzDC8zz7jK8PijiUvuhIgguojeJmMvatYX7k4Ak+MA+gSerwNMuj0v3lk7eeEarYnxL/56nlCyv7hBxr2w/tyRsMA6Xwgzvj8rje4/+UbZURZlp8sOnl/zflpCaui7erOo+gKVER3ZmjJ9HxCDgwvtSHMtlxXhliN6egw1b7JZ9nLZOUuM+Y9BHzi8kt0wnuy/Nhz7CtN+nXRt+mBof6pTMkO7DJ2WwGnu0dXgmwS+2heelV6XIpyVZvM9+f6nopWYqAY+1WzWzsx0PXYxloXStq58pJWQ3fM1vbMX3DhM1iSeJJ6bUW8WodToJG1xC++1L+WigCTmDzWx27vkz5ucsyTOCj4vFtJbhbVCWTwYg==;P7XZ/Y0Bt9/3vgyEHSiCkg=="
+secured: "uxmm/1b2ESi5au3OTTo2NodCkPIvPvti5qYl7gFIL15x/mYZuomsokP9Hciwt55KeWDvFnu1fgO16X8l5u1ewqlKWB3bdVcwV/wNEE9htL362/6eztT5teqXEWIh7a0oKldBP/FvKeOFnCdnbBIoUNHEWerTTaprOnN0nlgWdcbNE5xyDgWxgJ32q46GYVGEGrtxgfxjoeF6dIyClnkzV734BH24rgMy35Zk8R3sn079uPM+Q/aSv5eJUxXtX94uVhkc80Pi0KvjgCMm+0laQEVvVVvaE6R7z2RrkBSqcoBmg+ZeGHnwtvpUdqsrg+DwTG/qlGONGLAUB1hJ4UEHDZF8uWHzcb5wY3pkbGpYTMw=;CUCTB5uJKmFiJ1xO2aoG2w=="
 ---
 

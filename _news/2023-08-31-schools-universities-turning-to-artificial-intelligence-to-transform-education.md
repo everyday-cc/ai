@@ -44,17 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Money, markets and machine learning: Unpacking the risks of adversarial AI"
-    excerpt: "According to the technology services company Exadel ... poisoning and adversarial attacks have broad implications across different machine learning applications, including financial forecast models. In a study conducted by researchers at the University ..."
-    publishedDateTime: 2023-08-30T16:01:00Z
-    webUrl: "https://thehill.com/opinion/finance/4176752-money-markets-and-machine-learning-unpacking-the-risks-of-adversarial-ai/"
-    ampWebUrl: "https://thehill.com/opinion/finance/4176752-money-markets-and-machine-learning-unpacking-the-risks-of-adversarial-ai/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/finance/4176752-money-markets-and-machine-learning-unpacking-the-risks-of-adversarial-ai/amp/"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 54
   - title: "The Brand Bee Envisions The Role Of Artificial Intelligence In Shaping The Next Era Of Marketing"
     excerpt: "a distinguished Digital Marketing Agency in Gurugram , is at the forefront of revolutionising the marketing landscape by embracing the potential of Artificial Intelligence (AI). Known for providing 360-degree solutions for digital marketing and hailed as a ..."
     publishedDateTime: 2023-09-04T03:42:00Z

@@ -2,6 +2,100 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-08-23-generative-ai-predicting-the-tax-departments-next-best-move.md",
+      "title": "Generative AI: Predicting The Tax Department’s Next Best Move",
+      "excerpt": "C-suite leaders clearly recognize the power of data. However, the age-old view that tax only serves one purpose—compliance—lingers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/23/generative-ai-predicting-the-tax-departments-next-best-move/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/23/generative-ai-predicting-the-tax-departments-next-best-move/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648334bbb7a645bee5fbe46d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/23/generative-ai-predicting-the-tax-departments-next-best-move/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/08/23/generative-ai-predicting-the-tax-departments-next-best-move/amp/",
+      "publishedDateTime": "2023-08-23T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-23-unleash-the-full-potential-of-ai-and-robotics-with-automa-health-2023.md",
+      "title": "Unleash the full potential of AI and robotics with Automa+ Health 2023",
+      "excerpt": "Machines are getting smarter every day, and companies across the world are discovering new ways in which they can use AI to significantly enhance engagement and customer experience. That is why decision-makers from pharmaceutical companies,",
+      "sourceUrl": null,
+      "webUrl": "https://healthcare-in-europe.com/en/news/unleash-full-potential-ai-robotics-automa-health-2023.html",
+      "originalUrl": "https://healthcare-in-europe.com/en/news/unleash-full-potential-ai-robotics-automa-health-2023.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthcare-in-europe.com/media/story/28594/rect-01-automa-rect.jpg",
+          "width": 400,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-23T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "healthcare-in-europe.com",
+        "domain": "healthcare-in-europe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-23-gartner-forecasts-ai-chip-revenue-to-top-53b.md",
       "title": "Gartner forecasts AI chip revenue to top $53B",
       "excerpt": "Gartner predicted revenue from AI-equipped chips to top $119 billion by 2027, fuelled by demand for generative AI.",
@@ -1065,92 +1159,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-gartner-claims-revenue-from-ai-chips-to-reach-us53b-this-year.md",
-      "title": "Gartner claims revenue from AI chips to reach US$53b this year",
-      "excerpt": "Semiconductors that can be used in artificial intelligence projects could represent a US$53.4 billion (A$83.1 billion) market in 2023, the technology analyst firm Gartner has predicted, adding that this would be a 20.",
-      "sourceUrl": null,
-      "webUrl": "https://itwire.com/business-it-news/enterprise-solutions/gartner-claims-revenue-from-ai-chips-to-reach-us$53b-this-year.html",
-      "originalUrl": "https://itwire.com/business-it-news/enterprise-solutions/gartner-claims-revenue-from-ai-chips-to-reach-us$53b-this-year.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://itwire.com/media/k2/items/cache/ad3a2519674a154c0bf6e392f81f20e7_M.jpg",
-          "width": 375,
-          "height": 211,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-22T12:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWire",
-        "domain": "itwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-dont-sleep-on-these-3-ai-chip-stocks-that-will-mint-millionaires.md",
-      "title": "Don’t Sleep on These 3 AI Chip Stocks That Will Mint Millionaires",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI stocks and chip companies have been the talk of Wall Street in 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/dont-sleep-on-these-3-ai-chip-stocks-that-will-mint-millionaires-1032574289",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/dont-sleep-on-these-3-ai-chip-stocks-that-will-mint-millionaires-1032574289",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-22T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

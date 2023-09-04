@@ -57,22 +57,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "AI-powered drone beats human champion pilots"
-    excerpt: "Swift AI used technique called deep reinforcement learning to win ... Analysis of the races showed that Swift was consistently faster at the start of a race and pulled tighter turns than the human pilots. The quickest lap from Swift came in at 17.47 ..."
-    publishedDateTime: 2023-08-30T16:24:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/aug/30/ai-powered-drone-beats-human-champion-pilots?ref=upstract.com"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/aug/30/ai-powered-drone-beats-human-champion-pilots"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/30/ai-powered-drone-beats-human-champion-pilots"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
-    images:
-      - url: "https://i.guim.co.uk/img/media/867b341d884ee4b703d4056ae58aa085f5358439/100_0_2992_1795/master/2992.jpg?width=620&quality=85&auto=format&fit=max&s=d4151cf101b060b243fc1a83336be5dc"
-        width: 620
-        height: 372
-        isCached: true
 
 secured: "riWBQCuBGcvPwt3wAOZrbAej2jNm5rWEVAgKZvSmFFRkY0ExictH0kRA0RXlxRXg2ttCoYlX9EDvIZHYJhDqBsKIyHgcXaUXNRB63MXReziP56RKhDZqud18BgGcTNvfLL8aNYZC0faZeE8yP0iNtsQnMqF0Y6pSOdPJwN/p+3QvR7LEvOXfNZAFBC8vJGi097hmyDhVTRSD9xAwqfNcMi6Yf4SMtBWhrHP9K5KR8FvTaCy1LWuq07s6YL5UH3reQ1NLvhJGtC58RJgeE0tn0HNzjBQpLMK4ePKEF2cCxPfKjTe1wnLL4n+N3eg4Tiw0GAkDVtQ/+F+9qQwiV2tp/1vTkKLFlHBuJ4lE/K02nn6KMdWqr/m/58jfDMK62ePE9AEOnyMNIp6oEohfs8GrENLsGzgZixk1Z1kf2N8Wigy+1tFAx1TFOvwz/Zle4SzZLN3jVG3l7VRXjEI26EdXZxlWIb/iR38iWMkzgeIX6kQHT6Fk5hG0lF7SiwHCVkzHp4qGDVONmGMIkQTHlviegQ==;SXnNrCVUOoVIBqZmBKlyzA=="
 ---

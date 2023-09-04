@@ -2,6 +2,100 @@
   "page": 145,
   "value": [
     {
+      "path": "_news/2023-05-30-ibm-tech-now-may-30-2023.md",
+      "title": "IBM Tech Now: May 30, 2023",
+      "excerpt": "The latest episode of IBM Tech Now looks at IBM Watson Code Assistant, IBM Hybrid Cloud Mesh and IBM Event Automation.\nThe post IBM Tech Now: May 30, 2023 appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-tech-now-77/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-tech-now-77/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-30T06:01:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-30-110-of-the-sp-500-companies-are-talking-about-ai-2-stocks-to-buy-right-now.md",
+      "title": "110 of the S&P 500 Companies Are Talking About AI -- 2 Stocks to Buy Right Now",
+      "excerpt": "Robots can operate around the clock ... like performance to train the most advanced AI applications. AI start-up Anthropic -- which was founded by ex-OpenAI executives -- plans to use EC2 P5 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/05/30/110-sp-500-companies-talking-ai-2-stocks-buy-now/",
+      "originalUrl": "https://www.fool.com/investing/2023/05/30/110-sp-500-companies-talking-ai-2-stocks-buy-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/734225/two-autonomous-robots-carrying-boxes-through-a-digitized-fulfillment-center.jpg",
+          "width": 5120,
+          "height": 2880,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-30T05:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-30-is-ai-easier-to-control-than-gain-of-function-research-on-viruses-it-depends-on-whom-you-ask.md",
       "title": "Is AI Easier To Control Than Gain-Of-Function Research On Viruses? It Depends On Whom You Ask.",
       "excerpt": "AI scientists think AI should be regulated because it might be dangerous. Virologists working to create deadly viruses think they can regulate themselves. Hmm.",
@@ -1085,92 +1179,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-29-drone-nerds-to-feature-uav-platforms-at-energy-drone-and-robotics-summit.md",
-      "title": "Drone Nerds to Feature UAV Platforms at Energy Drone and Robotics Summit",
-      "excerpt": "Drone Nerds, an enterprise drone solutions provider, will attend the 7th Annual Energy Drone and Robotics Summit in Houston, Texas. The Energy Drone & Robotics",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/05/g32614299/drone-nerds-to-feature-uav-platforms-at-energy-drone-and-robotics-summit",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/g32614299/drone-nerds-to-feature-uav-platforms-at-energy-drone-and-robotics-summit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32614299",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32614299",
-      "publishedDateTime": "2023-05-29T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-29-ai-firms-scramble-for-power-as-chip-demand-outpaces-supply.md",
-      "title": "AI Firms Scramble for Power as Chip Demand Outpaces Supply",
-      "excerpt": "AI firms are grappling with a shortage of chips that are critical to developing and improving AI systems. The shortfall of the much-needed advanced graphics processing units (GPUs",
-      "sourceUrl": null,
-      "webUrl": "https://247wallst.com/technology-3/2023/05/29/ai-firms-scramble-for-power-as-chip-demand-outpaces-supply/",
-      "originalUrl": "https://247wallst.com/technology-3/2023/05/29/ai-firms-scramble-for-power-as-chip-demand-outpaces-supply/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://247wallst.com/wp-content/uploads/2022/10/imageForEntry6-ZXZ.jpg?w=400",
-          "width": 400,
-          "height": 224,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://247wallst.com/technology-3/2023/05/29/ai-firms-scramble-for-power-as-chip-demand-outpaces-supply/amp/",
-      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2023/05/29/ai-firms-scramble-for-power-as-chip-demand-outpaces-supply/amp/",
-      "publishedDateTime": "2023-05-29T05:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "24/7 Wall St",
-        "domain": "247wallst.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }
