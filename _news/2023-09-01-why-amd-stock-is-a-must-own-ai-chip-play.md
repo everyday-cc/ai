@@ -37,22 +37,6 @@ related:
         width: 2100
         height: 1181
         isCached: true
-  - title: "US restricts exports of Nvidia AI chips to Middle East"
-    excerpt: "Controls apply to A100 and H100 chips, in escalation of US efforts to curb China’s access to products"
-    publishedDateTime: 2023-08-31T10:24:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/aug/31/us-restricts-exports-of-nvidia-ai-chips-to-middle-east?ref=upstract.com"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/aug/31/us-restricts-exports-of-nvidia-ai-chips-to-middle-east"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/31/us-restricts-exports-of-nvidia-ai-chips-to-middle-east"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 74
-    images:
-      - url: "https://i.guim.co.uk/img/media/27fe450e31ec90f79d4cace3bf99fe31dc2fa16a/0_388_5855_3515/master/5855.jpg?width=620&quality=85&auto=format&fit=max&s=20553a9182bde4d1e9bf148e408f726b"
-        width: 620
-        height: 372
-        isCached: true
   - title: "US denies imposing export controls on Nvidia’s AI Chips for select Middle Eastern countries"
     excerpt: "Biden administration to restrict the export of Nvidia's cutting-edge (AI) computer chips to select countries in the Middle East"
     publishedDateTime: 2023-09-01T10:07:00Z
@@ -148,22 +132,6 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 57
-  - title: "AI Wars: US ready to chase China to the end of world, restricts NVIDIA chip exports to countries in West Asia"
-    excerpt: "The US has imposed new restrictions on NVIDIA, barring them from exporting AI chips to countries in West Asia, also known as the Middle East. The US believes that China may try to find ways around san"
-    publishedDateTime: 2023-08-31T10:24:00Z
-    webUrl: "https://www.firstpost.com/tech/news-analysis/ai-wars-us-ready-to-chase-china-to-the-end-of-world-restricts-nvidia-chip-exports-to-countries-in-west-asia-13062332.html"
-    ampWebUrl: "https://www.firstpost.com/tech/news-analysis/ai-wars-us-ready-to-chase-china-to-the-end-of-world-restricts-nvidia-chip-exports-to-countries-in-west-asia-13062332.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/ai-wars-us-ready-to-chase-china-to-the-end-of-world-restricts-nvidia-chip-exports-to-countries-in-west-asia-13062332.html/amp"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 55
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2023/08/AI-Wars-US-ready-to-chase-China-to-the-end-of-world-restricts-NVIDIA-chip-exports-to-countries-in-West-Asia.jpg"
-        width: 640
-        height: 362
-        isCached: true
   - title: "US extends AI chip export restrictions to Middle East nations"
     excerpt: "The Biden administration has restricted the sales of Nvidia’s A100 and H100 machine learning chips in some regions outside China, the company has revealed in a regulatory filing."
     publishedDateTime: 2023-08-31T11:47:00Z

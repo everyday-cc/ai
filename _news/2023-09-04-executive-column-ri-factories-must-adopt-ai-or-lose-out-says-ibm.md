@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thejakartapost.com/amp/business/2023/09/04/executive-col
 cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/business/2023/09/04/executive-column-ri-factories-must-adopt-ai-or-lose-out-says-ibm.html"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "COLUMN: Society still doesn't understand AI | Fagin"
-    excerpt: "Relax, everybody. Just because something is intelligent doesn’t mean it’s conscious. Something can be intelligent without free will, self-awareness, a soul, or any of the things that make us special."
-    publishedDateTime: 2023-08-31T11:00:00Z
-    webUrl: "https://gazette.com/opinion/column-society-still-doesnt-understand-ai-fagin/article_5594c6ac-469e-11ee-a245-cf904277a171.html"
-    ampWebUrl: "https://gazette.com/opinion/column-society-still-doesnt-understand-ai-fagin/article_5594c6ac-469e-11ee-a245-cf904277a171.amp.html"
-    cdnAmpWebUrl: "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/opinion/column-society-still-doesnt-understand-ai-fagin/article_5594c6ac-469e-11ee-a245-cf904277a171.amp.html"
+  - title: "RI factories must adopt AI or lose out, says IBM"
+    excerpt: "IBM made its mark in the artificial intelligence (AI) boom in May, when it introduced Watson X, an enterprise-ready platform that helps businesses build, deploy and govern AI applications. IMB chairman and CEO Arvind Krishna visited Jakarta for a three-day ..."
+    publishedDateTime: 2023-09-03T23:34:00Z
+    webUrl: "https://www.thejakartapost.com/paper/2023/09/04/ri-factories-must-adopt-ai-or-lose-out-says-ibm.html"
     type: article
     provider:
-      name: The Gazette
-      domain: gazette.com
-    quality: 59
+      name: The Jakarta Post
+      domain: thejakartapost.com
+    quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/f/0e/f0e70ae0-3143-11ee-9c08-d334ef9a4a1f/64ca6d6365529.image.jpg?resize=1024%2C1366"
-        width: 1024
-        height: 1366
+      - url: "https://img.jakpost.net/c/2023/09/01/2023_09_01_141927_1693538362._large.jpg"
+        width: 1360
+        height: 925
         isCached: true
 
 secured: "NZNVjAkvq1zs3NcstPmy2US0Apz5XjXq9kbRooiCVhm/iL2x24ZDZTqNuNthaCf27rgOSOLT+gMGl3+5sU1G26hHH3+HIQzVQ+p1EscKMipPyay/SxeMTOTdYatsFlehZOo2nOb6MftorTgw6f2i+5j7PJ87ev9gqIwGHRu60LC1IDwzH8qK75F377J0tkqb68fxffRPUIodSikb12tybX4TPAFEOJx8Jvp+o1s/fck8oILxoGlUMjn5+TAPhFT69UQR9zlF8GPuwR/aMrDO12RpFJ1jtJ7jHa50HYVNUZsFaGkQR4UrCszPEY2gSlOLw73w7ZKmzuwEqSen3cIy+15//zbe1gyRIdLdeT3PdHdJkqrilYpVKeUGiQgJpz+YbECmawaNyK3t8x7EcHtytaUOus4BNj7YQCRDZJ3viPGf+TP6YblWSLBN/mFSB5nqtvM6/0Io46ZbYDuXFyu1DUvTTKlxS8RstEVDmpb6jtOPdPfvnP/n9bZU+YWljeULaTuQUuGAREegaNNK2DherQ==;ioseddKuUett5xrkuYiftQ=="

@@ -2,6 +2,58 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2023-08-02-lab-sessions-a-new-series-of-experimental-ai-collaborations.md",
+      "title": "Lab Sessions: A new series of experimental AI collaborations",
+      "excerpt": "Lab Sessions is a series of experimental AI collaborations with everyone from artists to academics, scientists to students.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/lab-sessions/",
+      "originalUrl": "https://blog.google/technology/ai/lab-sessions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LabSessions_Endcard_Still.width-1300.jpg",
+          "width": 1300,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/lab-sessions/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/lab-sessions/amp/",
+      "publishedDateTime": "2023-08-02T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-02-ai-has-finally-become-transformative.md",
       "title": "AI Has Finally Become Transformative",
       "excerpt": "After a decade’s worth of innovation, new models can change the world the way the internet did.",
@@ -1160,57 +1212,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-02-fake-ai-friends-this-will-result-in-learned-narcissism.md",
-      "title": "Fake AI Friends: ‘This Will Result In Learned Narcissism’",
-      "excerpt": "Facebook’s AI chatbots will reportedly offer a range of personalities and capabilities, presumably in the hope that at least one will appeal to most if not all Facebook",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2023/08/01/fake-ai-friends-this-will-result-in-learned-narcissism/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2023/08/01/fake-ai-friends-this-will-result-in-learned-narcissism/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c9c41e7f72131e4cc6f9a3/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2023/08/01/fake-ai-friends-this-will-result-in-learned-narcissism/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/08/01/fake-ai-friends-this-will-result-in-learned-narcissism/amp/",
-      "publishedDateTime": "2023-08-01T19:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-03-how-businesses-can-achieve-greener-generative-ai-with-more-sustainable-inference.md",
+      "title": "How businesses can achieve greener generative AI with more sustainable inference",
+      "excerpt": "Why a server-on-a-chip operating on far less power and GPUs can create cost-conscious, environmentally-sound, democratized generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-businesses-can-achieve-greener-generative-ai-with-more-sustainable-inference/",
+      "originalUrl": "https://venturebeat.com/ai/how-businesses-can-achieve-greener-generative-ai-with-more-sustainable-inference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/08/annevb_a_computer_with_green_plants_growing_out_of_it_or_aroun_34756494-fc43-4af9-aa33-3ded589fabc9.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-03T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-09-02-ai-is-not-a-threat-to-human-jobs-its-a-catalyst-for-growth-and-innovation.md",
       "title": "AI is not a threat to human jobs. It’s a catalyst for growth and innovation",
       "excerpt": "The workforce will change, but it won’t be replaced. And what AI will help humanity generate is well worth getting excited about.",
@@ -1400,58 +1453,6 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-generative-ai-is-making-companies-even-more-thirsty-for-your-data.md",
-      "title": "Generative AI Is Making Companies Even More Thirsty for Your Data",
-      "excerpt": "The outcry over Zoom's tweak to its data policy shows how the race to build more powerful AI models creates new pressure to source training data—including by juicing it from users.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/fast-forward-generative-ai-companies-thirsty-for-your-data/",
-      "originalUrl": "https://www.wired.com/story/fast-forward-generative-ai-companies-thirsty-for-your-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/64d430e957ff6ec62db8a934/191:100/w_1280,c_limit/Zoom-User-Data-AI-Training-Fast-Forward-Business-616146659.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-10T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Fraunhofer launches internal AI chatbot"
-    excerpt: "Gesellschaft, in collaboration with Microsoft, is one of the first research organizations in Europe to launch an internal AI chatbot that works similarly to OpenAI’s ChatGPT. The FhGenie generative AI solution lets employees securely create,"
-    publishedDateTime: 2023-08-31T09:21:00Z
-    webUrl: "https://sciencebusiness.net/network-updates/fraunhofer-launches-internal-ai-chatbot"
-    type: article
-    provider:
-      name: Science|Business
-      domain: sciencebusiness.net
-    quality: 39
-    images:
-      - url: "https://sciencebusiness.net/sites/default/files/inline-images/1080x450.png"
-        width: 1050
-        height: 450
-        isCached: true
   - title: "The Evolution of AI Chatbots: Past, Present and Future"
     excerpt: "Evolutionary path. Chatbots evolved from simple rule-based systems to AI-powered, voice-activated personal assistants and generative AI chatbots capable of full-fledged conversations."
     publishedDateTime: 2023-09-01T10:02:00Z

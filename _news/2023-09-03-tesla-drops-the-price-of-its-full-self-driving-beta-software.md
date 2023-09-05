@@ -7,7 +7,7 @@ originalUrl: "https://uk.pcmag.com/cars-auto/148492/tesla-drops-the-price-of-its
 webUrl: "https://uk.pcmag.com/cars-auto/148492/tesla-drops-the-price-of-its-full-self-driving-beta-software"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://www.eastbaytimes.com/wp-content/uploads/2023/08/Tesla_Autopilot_Investigation_13169-1.jpg?w=1024&h=683"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Tesla is allowing no-hands driving with Autopilot for longer periods. US regulators have questions"
-    excerpt: "Tesla says Autopilot and a more sophisticated “Full Self-Driving” system cannot drive themselves and that drivers must be ready to intervene at all times. Autopilot generally can keep a car in its lane and a distance away from objects in front of it."
-    publishedDateTime: 2023-08-31T09:04:00Z
-    webUrl: "https://www.mauinews.com/wire/?category=5186&ID=301014"
-    type: article
-    provider:
-      name: The Maui News
-      domain: mauinews.com
-    quality: 25
-    images:
-      - url: "https://ogden_images.s3.amazonaws.com/www.oniwire.com/images/2023/08/31023734/23213424013169.jpg"
-        width: 1024
-        height: 683
         isCached: true
 
 secured: "RSvJ6s4CGv6CUe2Io7rVaRpT01WmJ2czxGkVH0xKDNfDTw79X39M9tAGO3ivOIfQak8mYoiXs+ZMHDARK3I6P2xBCyjmYAKn7C2zSDdrJPUBEF5eTLdULQ3s9lwwrD6w+7++5rey0DdCs8IAO3ZgHiJs68t1JxMnZ+O5hWNHVQVChdMO0UlP2YTLy6l6rKw4uJDXjrt2aW/Mamzj7Q5kH7C8LfoOx2gbnPF68hcD+3OGr73ty0XnmNoiop+gGn/nbBzRLWB0/it1JlodaXUmA1UjuIzRD6RO9RUO1y3obOMdr70YlKKGLiePyYGxBwkgpfpl9No03Svy4fCcHZweRKk13tH+OftWmqLnUGNEwfc=;DVT7exMC1QYVse481nz8EQ=="

@@ -67,15 +67,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "MSFT Stock and AI: Why Microsoft’s Future Looks Brighter Than Ever"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips It’s not for certain, but “AI mania” seemed to have peaked"
-    publishedDateTime: 2023-08-31T10:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/msft-stock-and-ai-why-microsofts-future-looks-brighter-than-ever-1032595770"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
   - title: "Thursday, September 7: Artificial Intelligence"
     excerpt: "Tonight Nicole Estaphan surveys the landscape, talking to local experts involved in the development of AI programs, a doctor using it in a health care setting, an artist alarmed about theft of his work, and a state senator pushing for government regulation ..."
     publishedDateTime: 2023-09-02T00:38:00Z

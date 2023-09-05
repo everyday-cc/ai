@@ -71,20 +71,6 @@ related:
         width: 768
         height: 438
         isCached: true
-  - title: "Tesla is allowing no-hands driving with Autopilot for longer periods. US regulators have questions"
-    excerpt: "Tesla says Autopilot and a more sophisticated “Full Self-Driving” system cannot drive themselves and that drivers must be ready to intervene at all times. Autopilot generally can keep a car in its lane and a distance away from objects in front of it."
-    publishedDateTime: 2023-08-31T09:04:00Z
-    webUrl: "https://www.mauinews.com/wire/?category=5186&ID=301014"
-    type: article
-    provider:
-      name: The Maui News
-      domain: mauinews.com
-    quality: 25
-    images:
-      - url: "https://ogden_images.s3.amazonaws.com/www.oniwire.com/images/2023/08/31023734/23213424013169.jpg"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "vGJevEiKhd+tUQsMQHp/0habgycRCMLwMS33TM83umKqTzRz5vwhUm01PHjhNSntX6OQktbx49jrnc52OAsFVc1jLjTKRs/I3YUXQRFCH9tmmxcvlB9/l3u7xcPO/BFC7UFUN4/DqCooOZx9CxS/Q0SsfVsDiUCzhYd5F7UAClPiYOW53FB2uKJrpszyyMcPQaWL59sa7PpJzoY3/GFOXoV0bbylB2E+o9aqeihHNn4Rte+oUB1TwZWXoX8pJDA1OMVLQVpzvZF/F3Jx017+fIyzt+Ofw/TzDExsJPZBWdDvhSsCj4Hyy+cPEh2/eV/sJzAE9R3Xq3Nsl1vAqTqUo7eocHw3Vl2KPxmaWJdi6Lg=;ni5Vw9bcA8nOoW9CU+PZsA=="
 ---

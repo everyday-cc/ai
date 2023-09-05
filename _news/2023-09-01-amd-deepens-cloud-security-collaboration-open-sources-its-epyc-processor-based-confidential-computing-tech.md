@@ -25,17 +25,6 @@ images:
     height: 767
     isCached: true
 
-related:
-  - title: "AMD shares tech behind confidential computing in the cloud"
-    excerpt: "AMD has published the source code for AMD Secure Encrypted Virtualization (SEV) technology, the backbone of AMD EPYCTM processor-based confidential computing virtual machines (VMs) available from cloud service providers including Amazon Web Services (AWS),"
-    publishedDateTime: 2023-08-31T09:29:00Z
-    webUrl: "https://it-online.co.za/2023/08/31/amd-shares-tech-behind-confidential-computing-in-the-cloud/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 4
-
 secured: "JhYxB26H/WJg9MBwjmNqC1bHl1WF44IzwLtDZeTYZUhLdNy42N2bYz1NnXcjQ7HzzLaJpTZqgkoN99tQ80vEpsz0cbgYfftWsfqt6QCmlxIyUMsz7EXZr4koZzfY7lRmpO20J9hzjYXsw/G1fxEXC8pBxFk2fPR/ers1dXPnxuaAn6nYUvGgdPMDGWjtm9WXQWPzVMZECWCNFJ5Hln9GOMH1ghwCM0DqSTvJNygGQwHKSTd8i/eKGTzNEg2tKZp3O9FEGWBv090PC5Y5aeORTI87QGXmcLiSG/1x+6szPgrRcl/kZs0fkdylRIQXn+OMTBEra6GZb1zerK1m1UWQEw7RdVA9pEGvg20g0eqUzRu6dnyPenvNui4zvERCVB6Di8mLY4mok6nKzGmY5M1Xwu7E9g2OtQUVpxvQNBJSpul6pHI2p1mU2aAvUGBbQCp1vCs4+1paEp0ttugi4Aft4oxkAx0r20At66XuMXTSTXx1yvLzOpAw2RTPMkF2W4pmFKDiRYwomUhckV2RP9SF5g==;OPPREMn3TNjx/HO5OrugLQ=="
 ---
 

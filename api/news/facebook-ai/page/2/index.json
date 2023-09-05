@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-10-generative-ai-is-making-companies-even-more-thirsty-for-your-data.md",
+      "title": "Generative AI Is Making Companies Even More Thirsty for Your Data",
+      "excerpt": "The outcry over Zoom's tweak to its data policy shows how the race to build more powerful AI models creates new pressure to source training data—including by juicing it from users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/fast-forward-generative-ai-companies-thirsty-for-your-data/",
+      "originalUrl": "https://www.wired.com/story/fast-forward-generative-ai-companies-thirsty-for-your-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/64d430e957ff6ec62db8a934/191:100/w_1280,c_limit/Zoom-User-Data-AI-Training-Fast-Forward-Business-616146659.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-10T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-10-chart-ai-stocks-enter-correction-territory.md",
       "title": "CHART: AI stocks enter correction territory",
       "excerpt": "AI hype drove huge gains among some tech stocks in the first half of 2023. Lately, that has gone into reverse.",

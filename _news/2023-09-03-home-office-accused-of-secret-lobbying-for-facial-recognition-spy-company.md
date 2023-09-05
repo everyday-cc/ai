@@ -86,20 +86,6 @@ related:
       name: Tech Digest
       domain: techdigest.tv
     quality: 26
-  - title: "Home Office and MoD seeking new facial-recognition tech"
-    excerpt: "The UK’s Defence and Security Accelerator is running a ‘market exploration’ exercise on behalf of the Home Office to identify new facial recognition capabilities for security and policing bodies in th"
-    publishedDateTime: 2023-08-31T09:15:00Z
-    webUrl: "https://www.computerweekly.com/news/366550394/Home-Office-and-MoD-seeking-new-facial-recognition-tech"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 24
-    images:
-      - url: "https://cdn.ttgtmedia.com/visuals/German/article/CCTV-facial-recognition-3-adobe.jpg"
-        width: 1200
-        height: 400
-        isCached: true
 
 secured: "GW1KEdmxS7xfvKKG73hA4qbImDR0FGn06kuAoMd39UTggdBWXDqgS2BKbv5705fmNDZjDYLWk9R5rEJiUUUP4wjOxTzbMY9REoK4zX/mIQ12AA6AzD9f8P+NhBT/bNU/Th/NsThLl71l3jYGCgId4noPjkQc15UoWOiiQRjd//7UZoLYS9Gh+aFNlOCiZ4Fi6amC7QdpvA/F1+NRwBwMVq6WfaAdBZ791nG1ZrozKHlBg9GNr2deYbUMfI6gqQ7OnTjEVTJkENo8jllE6ZaIsdzghvJdzr0FSHCfLTks6nLOO+uUBygN4c+MKjhG9yInxCPlJqeaQ2zLv3hsmr/AK4yHV77V5vXPSqR3K8j91JM=;mpgfJ+lnKesML691m4XDgQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/sep/02/home-office-accus
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company"
 type: article
 quality: 57
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -86,20 +86,6 @@ related:
       name: Tech Digest
       domain: techdigest.tv
     quality: 26
-  - title: "Home Office and MoD seeking new facial-recognition tech"
-    excerpt: "The UK’s Defence and Security Accelerator is running a ‘market exploration’ exercise on behalf of the Home Office to identify new facial recognition capabilities for security and policing bodies in th"
-    publishedDateTime: 2023-08-31T09:15:00Z
-    webUrl: "https://www.computerweekly.com/news/366550394/Home-Office-and-MoD-seeking-new-facial-recognition-tech"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 24
-    images:
-      - url: "https://cdn.ttgtmedia.com/visuals/German/article/CCTV-facial-recognition-3-adobe.jpg"
-        width: 1200
-        height: 400
-        isCached: true
 
 secured: "PYO9xPVyTvVYXETiGaVUDpcgui6dGpSLc13FZ+UB+DuqF43rrXKBTnIoBIYnNNiUNhJ3m7ORMPVzPY62USkny7Yt9j2QGtSvhkefkhGYftjwVhlSQp8lmgSjy68OA94fAiM4mr3rXCp+jiG/lgaej29vyF2JcQ9Yn0LIpayrRijTb3P2uN+xviwXj2sBbPur/cNDrBftGUc633X4B5/xreVRyoiv8g5lTwKGZ/a/apAWlKUoq7tVBaLqfMsqbf9/B8iFfVNmsqmFKf842AlH4ywi9lPldfPyrwOI9S2HeOb9qhP5HoEA6jLicoX42g+63izGQbz2sOD9n0/p8GmdbHjCLdd08VUwNw0WBu0nNrgqQLhdestGe9BYnqCtlO6eSeY92AITCHr6qtJh8qoPyxTyeo3W/1UU3guMJmMPfPSAKqlp7ezYuAUVvHzY+6ozPXKGd2THhTg3YZ9m4ui0tFX8wGjno/C2epF5J93mmHLN8rzYp4Pj5NVWCQ4SFTr7gtzAcRmcF02ovBM+9yIjcQ==;bHvbfwUSNqAqM49xaN6t3A=="
 ---

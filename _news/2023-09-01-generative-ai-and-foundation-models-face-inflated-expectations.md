@@ -44,6 +44,22 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Enabling Enterprise Transformation With Generative AI"
+    excerpt: "For the rapidly evolving technology to live up to its promise of transforming the way we work by leveraging enterprise data, three key questions must be considered."
+    publishedDateTime: 2023-09-01T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/01/enabling-enterprise-transformation-with-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/01/enabling-enterprise-transformation-with-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/01/enabling-enterprise-transformation-with-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64de2670c0104c27ef8801c6/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Google goes all in on the AI cloud"
     excerpt: "Market landscape analysis: Players such as Snowflake Inc. and Databricks have effectively acted as the AI and data layer on platforms such as Amazon and Microsoft Azure, given these cloud platforms’ underwhelming data and AI capabilities. AWS seems ..."
     publishedDateTime: 2023-09-02T15:37:00Z

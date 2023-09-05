@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/navigating-the-future-of-banking-a-look-at
 webUrl: "https://techbullion.com/navigating-the-future-of-banking-a-look-at-the-top-fintech-innovations/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,58 @@ images:
     isCached: true
 
 related:
-  - title: "Innovating with integrity: the rise of data ethics in the finance sector"
-    excerpt: "A quiet revolution is underway at the heart of many of our best-known financial institutions. A revolution stirred up by a surprising cross set of people: data specialists, product"
-    publishedDateTime: 2023-08-31T18:39:00Z
-    webUrl: "https://www.theodi.org/article/innovating-with-integrity-the-rise-of-data-ethics-in-the-finance-sector-2/"
+  - title: "Engineering firms lose out to fintech and IT in recruitment war"
+    excerpt: "Work is needed to counter the ‘oily’ image of jobs for engineers, and stop the digital sector from luring the best graduates"
+    publishedDateTime: 2023-09-02T14:00:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/sep/02/engineering-firms-lose-out-to-fintech-and-it-in-recruitment-war"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/sep/02/engineering-firms-lose-out-to-fintech-and-it-in-recruitment-war"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/sep/02/engineering-firms-lose-out-to-fintech-and-it-in-recruitment-war"
     type: article
     provider:
-      name: Open Data Certificate
-      domain: theodi.org
-    quality: 35
+      name: The Guardian
+      domain: theguardian.com
+    quality: 44
+    images:
+      - url: "https://i.guim.co.uk/img/media/dc6469d366c4c5175bd3ed85f73df9333723eb49/0_372_5721_3433/master/5721.jpg?width=620&quality=85&auto=format&fit=max&s=36b849965fa2dfb1180e0001dd1a271b"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "AI in Fintech Has Been Slow to Start, But Look for a Second Phase of Investment Opportunities"
+    excerpt: "The emergence of generative AI could yield the largest transformation the financial services market has seen in decades. From Microsoft to Google to Amex, everyone seems to be betting big on AI."
+    publishedDateTime: 2023-08-31T18:24:00Z
+    webUrl: "https://www.nasdaq.com/articles/ai-in-fintech-has-been-slow-to-start-but-look-for-a-second-phase-of-investment"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 38
+  - title: "3 Up-and-Coming Fintech Stocks to Put on Your Must-Buy List"
+    excerpt: "And as artificial intelligence (AI) continues to expand, it’s time to look at fintech stocks with huge potential. Similar to the AI sector, there is no shortage of names in the fintech space. However, some of these names are flying under the radar even ..."
+    publishedDateTime: 2023-09-01T04:03:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-fintech-stocks-with-huge-potential-for-growth-1032598105"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
+  - title: "Fintech’s Bright Future: 3 Stocks Set to Skyrocket in 2024"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The fintech sector, which provides investors with exposure to a blend of"
+    publishedDateTime: 2023-09-01T01:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/fintechs-bright-future-3-stocks-set-to-skyrocket-in-2024-1032598018"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
+  - title: "Fintech Klarna Claims it’s the Only Bank Among ChatGPT Enterprise Launch Clients"
+    excerpt: "Global Fintech firm Klarna, the AI-powered payments network and shopping assistant, claims it has \"taken the lead\" in AI adoption."
+    publishedDateTime: 2023-09-01T13:13:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/09/212271-fintech-klarna-claims-its-the-only-bank-among-chatgpt-enterprise-launch-clients/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 29
   - title: "Top 5 Factors Transforming Fintech into a $700B Industry"
     excerpt: "Technology has become an absolute necessity in the financial services industry in the 21st century. Integrating enterprising tech with crucial and sensitive financial processes and operations leads to better overall efficiency,"
     publishedDateTime: 2023-09-01T10:57:00Z
@@ -62,20 +105,6 @@ related:
         width: 1200
         height: 631
         isCached: true
-  - title: "Harnessing The Power Of Artificial Intelligence In Space Missions: A Look At Future Technological Advancement"
-    excerpt: "Space is the final frontier. As humans continue to explore the vastness of our universe, one thing becomes abundantly clear: we need a little help from our friends in artificial intelligence (AI). The days of relying solely on human astronauts to navigate and execute complex space missions are gradually giving way to a new era"
-    publishedDateTime: 2023-09-01T09:29:00Z
-    webUrl: "https://techbullion.com/harnessing-the-power-of-artificial-intelligence-in-space-missions-a-look-at-future-technological-advancement/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 22
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/09/Space-ship-1.jpg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "The Fintech Revolution: Unraveling the Forces Reshaping Finance"
     excerpt: "Step into the dynamic world of fintech, where disruptive innovations are reshaping the financial landscape as we know it. In a society constantly craving innovation and convenience, the rapid ascent of top fintech companies comes as no surprise."
     publishedDateTime: 2023-09-01T17:56:00Z
@@ -85,6 +114,24 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 19
+  - title: "Martequity Summit ‘23: Building customer trust in fintech"
+    excerpt: "The fintech customer is becoming more demanding and it’s become an imperative for organisations to use digital tools to overcome language barrier, personalise and retain customers using micro-communication."
+    publishedDateTime: 2023-09-01T13:10:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/marketing/martequity-summit-23-building-customer-trust-in-fintech/103287205"
+    type: article
+    provider:
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 4
+  - title: "You Don't Have to Pick a Winner in Fintech. Here's Why."
+    excerpt: "Artificial intelligence (AI) is on every investor's mind these days ... As you can see, there are lots of ways to gain direct exposure to the fintech sector. Investors who prioritize safety and thus want less risky options can look at Visa and Mastercard."
+    publishedDateTime: 2023-09-04T19:20:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/SQ-N/pressreleases/19946368/you-dont-have-to-pick-a-winner-in-fintech-heres-why/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 4
   - title: "Unveiling the Top Fintech Trends: How Technology is Revolutionizing Financial Services"
     excerpt: "Are you ready to embark on a journey into the future of finance? From mobile banking to advanced algorithms, technology has been transforming the way we interact with money and manage our finances. In this blog post,"
     publishedDateTime: 2023-09-01T17:36:00Z

@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) in Fintech Market Insights Report 2023-2030 | 117 Pages Report"
-    excerpt: "Short Description About Artificial Intelligence (AI) in Fintech Market: The Global Artificial Intelligence (AI) in Fintech market is anticipated to rise at a considerable rate during the forecast ..."
-    publishedDateTime: 2023-08-31T10:34:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/34137422/artificial-intelligence-ai-in-fintech-market-insights-report-2023-2030-117-pages-report"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34137422"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34137422"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 64
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Engineering firms lose out to fintech and IT in recruitment war"
     excerpt: "Work is needed to counter the ‘oily’ image of jobs for engineers, and stop the digital sector from luring the best graduates"
     publishedDateTime: 2023-09-02T14:00:00Z
@@ -51,19 +35,19 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Fintech startup Stripe integrating OpenAI's new GPT-4 AI – Reuters"
-    excerpt: "Small toy figures are seen in front of Stripe logo in this illustration picture taken March 15, 2021. REUTERS/Dado Ruvic/Illustration/File Photo Acquire Licensing Rights SAN FRANCISCO, March 15 – Fintech startup Stripe is starting to integrate OpenAI's latest GPT-4 artificial intelligence model into its digital payment processing and other products,"
-    publishedDateTime: 2023-09-01T15:13:00Z
-    webUrl: "https://www.inferse.com/700826/fintech-startup-stripe-integrating-openais-new-gpt-4-ai-reuters/"
+  - title: "Navigating The Future Of Banking: A Look At The Top Fintech Innovations"
+    excerpt: "Welcome to the future of banking where financial technology, or fintech, is revolutionizing the way we manage our money. From mobile banking apps to cryptocurrency advancements, there’s no denying that digital innovation is reshaping the entire industry."
+    publishedDateTime: 2023-09-02T08:48:00Z
+    webUrl: "https://techbullion.com/navigating-the-future-of-banking-a-look-at-the-top-fintech-innovations/"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
+      name: Impacts
+      domain: techbullion.com
     quality: 39
     images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/09/wp-header-logo-164.png"
-        width: 1200
-        height: 628
+      - url: "https://techbullion.com/wp-content/uploads/2023/09/Bitcoin.jpg"
+        width: 1000
+        height: 500
         isCached: true
   - title: "AI in Fintech Has Been Slow to Start, But Look for a Second Phase of Investment Opportunities"
     excerpt: "The emergence of generative AI could yield the largest transformation the financial services market has seen in decades. From Microsoft to Google to Amex, everyone seems to be betting big on AI."
@@ -74,6 +58,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 38
+  - title: "3 Up-and-Coming Fintech Stocks to Put on Your Must-Buy List"
+    excerpt: "And as artificial intelligence (AI) continues to expand, it’s time to look at fintech stocks with huge potential. Similar to the AI sector, there is no shortage of names in the fintech space. However, some of these names are flying under the radar even ..."
+    publishedDateTime: 2023-09-01T04:03:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-fintech-stocks-with-huge-potential-for-growth-1032598105"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "Fintech’s Bright Future: 3 Stocks Set to Skyrocket in 2024"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The fintech sector, which provides investors with exposure to a blend of"
     publishedDateTime: 2023-09-01T01:16:00Z
@@ -83,29 +76,70 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "Future of Fintech in Latin America 2023: AI sector expects growth and aims to confront bias"
-    excerpt: "AI is expected to increase the GDP of Latin America by more than 5% by 2030, according to an Economist Impact report, as demonstrated in the graph below. However, according to Oxford Insights, Latin America is among the lowest scoring regions for the Government  AI Readiness Index in 2021."
-    publishedDateTime: 2023-08-31T09:15:00Z
-    webUrl: "https://www.finextra.com/the-long-read/767/future-of-fintech-in-latin-america-2023-ai-sector-expects-growth-and-aims-to-confront-bias"
+  - title: "Fintech Klarna Claims it’s the Only Bank Among ChatGPT Enterprise Launch Clients"
+    excerpt: "Global Fintech firm Klarna, the AI-powered payments network and shopping assistant, claims it has \"taken the lead\" in AI adoption."
+    publishedDateTime: 2023-09-01T13:13:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/09/212271-fintech-klarna-claims-its-the-only-bank-among-chatgpt-enterprise-launch-clients/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
     quality: 29
-    images:
-      - url: "https://www.finextra.com/finextra-images/oped/767.jpg"
-        width: 799
-        height: 449
-        isCached: true
-  - title: "LegalTech Artificial Intelligence Market Research | 2023-2030"
-    excerpt: "The LegalTech Artificial Intelligence Market Insights of 2023 is an extensive and comprehensive report that provides a complete analysis of the market's size, shares, revenues, various segments ..."
-    publishedDateTime: 2023-08-31T16:07:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/08/34149933/legaltech-artificial-intelligence-market-research-2023-2030"
+  - title: "Top 5 Factors Transforming Fintech into a $700B Industry"
+    excerpt: "Technology has become an absolute necessity in the financial services industry in the 21st century. Integrating enterprising tech with crucial and sensitive financial processes and operations leads to better overall efficiency,"
+    publishedDateTime: 2023-09-01T10:57:00Z
+    webUrl: "https://techbullion.com/top-5-factors-transforming-fintech-into-a-700b-industry/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: Impacts
+      domain: techbullion.com
+    quality: 24
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/09/new-blog-.jpg"
+        width: 780
+        height: 520
+        isCached: true
+  - title: "Relevantz: Driving fintech innovation with Fiserv"
+    excerpt: "Senior Director of Client Success at Relevantz, Georgie John, traces his time at the service provider and the importance of its partnership with Fiserv"
+    publishedDateTime: 2023-09-04T14:31:00Z
+    webUrl: "https://fintechmagazine.com/videos/relevantz-driving-fintech-innovation-with-fiserv"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/a5df0747734103e25a2923f6a9681af3:717ee360c35460b894994bb8164ee388/maxresdefault.jpg.jpg"
+        width: 1200
+        height: 631
+        isCached: true
+  - title: "The Fintech Revolution: Unraveling the Forces Reshaping Finance"
+    excerpt: "Step into the dynamic world of fintech, where disruptive innovations are reshaping the financial landscape as we know it. In a society constantly craving innovation and convenience, the rapid ascent of top fintech companies comes as no surprise."
+    publishedDateTime: 2023-09-01T17:56:00Z
+    webUrl: "https://techbullion.com/the-fintech-revolution-unraveling-the-forces-reshaping-finance/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
     quality: 19
+  - title: "Martequity Summit ‘23: Building customer trust in fintech"
+    excerpt: "The fintech customer is becoming more demanding and it’s become an imperative for organisations to use digital tools to overcome language barrier, personalise and retain customers using micro-communication."
+    publishedDateTime: 2023-09-01T13:10:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/marketing/martequity-summit-23-building-customer-trust-in-fintech/103287205"
+    type: article
+    provider:
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 4
+  - title: "Unveiling the Top Fintech Trends: How Technology is Revolutionizing Financial Services"
+    excerpt: "Are you ready to embark on a journey into the future of finance? From mobile banking to advanced algorithms, technology has been transforming the way we interact with money and manage our finances. In this blog post,"
+    publishedDateTime: 2023-09-01T17:36:00Z
+    webUrl: "https://techbullion.com/unveiling-the-top-fintech-trends-how-technology-is-revolutionizing-financial-services/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 0
 
 secured: "a2KObWKRcbr1jNOcFGPIwohvULzA/w/eyjWsAccA/jQyeqdLgsBU2k7XG1ufG6WgewY5qV93OD9DLhsfd2gw71T0dFf4U143oqifN2VbnfggTq17Gfx0aU6ZvPwqGxe4TaYYYxbJ0BZOU37w6OT1lQ28isoN9X3XE+TqxxG0Pr5kARmLKebf+pRRlKF5OjHryVXO/K5qBmcseGbR1Vjheeg3ULIinukCzqNY2gKqWuo5mCLAz41YseGbfmnTjdvRmg85nVa90aBARoBDL3V1IPpjYNT8uZ1CaKM+SAu4bQnu1dYDIE/wcvzU0/TLN65MWAymm7454qdPEKIXpUnOY3Fckp/Ts+oRt/P6vyHDSzwiJFxP6i75JBmr/irbOXuMe4FkGrr9Tk11B4V4OCEPpk/Mr1Eo6S+FMB8XsOAXp9S7lvwht01+IFPif4cI8k8PpJ5s9kDBBndA3nwppPJX5w2e4SNheV8gV4r7nQsgALEaxY0EcpcoOuQorsjLffGla9HxdNSlGpo1WruG7+713w==;LubBO8li6ulXLV8o9/4GXA=="
 ---

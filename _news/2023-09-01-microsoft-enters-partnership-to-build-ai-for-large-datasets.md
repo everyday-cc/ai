@@ -69,15 +69,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "MSFT Stock and AI: Why Microsoft’s Future Looks Brighter Than Ever"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips It’s not for certain, but “AI mania” seemed to have peaked"
-    publishedDateTime: 2023-08-31T10:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/msft-stock-and-ai-why-microsofts-future-looks-brighter-than-ever-1032595770"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
   - title: "SAP Names Microsoft's Walter Sun as Head of Artificial Intelligence -- Update"
     excerpt: "By Mauro Orru SAP appointed Microsoft's Walter Sun as global head of artificial intelligence, a move that underscores the business-software company's"
     publishedDateTime: 2023-09-01T12:45:00Z

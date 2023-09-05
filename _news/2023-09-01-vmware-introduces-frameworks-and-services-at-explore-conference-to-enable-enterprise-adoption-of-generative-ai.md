@@ -24,35 +24,19 @@ topics:
   - AI Hardware
 
 related:
-  - title: "IBM watsonx Assistant transforms content into conversational answers with generative AI"
-    excerpt: "Explore how conversational search allows you to answer customer or employee questions with responses grounded in enterprise-specific content.\nThe post IBM watsonx Assistant transforms content into conversational answers with generative AI appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-08-31T11:00:00Z
-    webUrl: "https://www.ibm.com/blog/ibm-watsonx-assistant-transforms-content-into-conversational-answers-with-generative-ai/"
+  - title: "How businesses can achieve greener generative AI with more sustainable inference"
+    excerpt: "Why a server-on-a-chip operating on far less power and GPUs can create cost-conscious, environmentally-sound, democratized generative AI."
+    publishedDateTime: 2023-09-03T15:20:00Z
+    webUrl: "https://venturebeat.com/ai/how-businesses-can-achieve-greener-generative-ai-with-more-sustainable-inference/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 126
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 66
     images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/08/20221121-m-blue-cross-blue-shield-south-carolina-27142-1600x900.blog-lead-space-2x1-1.jpg"
-        width: 1080
-        height: 540
-        isCached: true
-  - title: "Enabling Enterprise Transformation With Generative AI"
-    excerpt: "For the rapidly evolving technology to live up to its promise of transforming the way we work by leveraging enterprise data, three key questions must be considered."
-    publishedDateTime: 2023-09-01T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/01/enabling-enterprise-transformation-with-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/01/enabling-enterprise-transformation-with-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/01/enabling-enterprise-transformation-with-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64de2670c0104c27ef8801c6/0x0.jpg?format=jpg&width=1200"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/annevb_a_computer_with_green_plants_growing_out_of_it_or_aroun_34756494-fc43-4af9-aa33-3ded589fabc9.png?w=1200&strip=all"
         width: 1200
-        height: 800
+        height: 600
         isCached: true
 
 secured: "Jv8KPgjJfcAlHLeZaLHvJ8QLspNPEYMPi8L9A+G+teMzNPUqoT8r64dNFWwpJjVJmbmiZDOWRIS+eXlBDyjwNAncPhS//lk2kiYLdXxCuCqRHBbCPRe7P8R0brj8gh8EGT17dTOhqQc9PDjVrjTAIjGSmgMiu4u9Fx4r/+qVXHqGvXQtzDOyOzUacPMtIiRqVQWQS/Y48ppe8Dxt9x4r4W4THnVrE2yDNQtCC47vGMebUkhIqQXKsvxTZhmI4eZrXwqS09eQDA1uNQXO8Cnsvtzqe1+IPFWavkw+bCC+FKdDFfsU98h6cnR7+3phVFReSaJZrOmLMpZwh2ATx9XCoOIINtyYBBnbhlgVBDdLP8xGXTsC20oIr9cYNlwzLVzTCMpFADRq6rj9YFSiNuvgFIhuVJlomhnsJv9qYB2zTizTsBbEEboYEBZj3jEWPIInSVsNiz7q6l6FGOMxlClc6u4NMfMK6jNAweoQIWxQLO95vSqLuZuZBQ7iuxBSFnVrzshAYtxPCdVk7I+G54XrhA==;Ei3v6pwk4F5WS/4FCn6yTg=="

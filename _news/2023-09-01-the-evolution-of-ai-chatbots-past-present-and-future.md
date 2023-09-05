@@ -34,20 +34,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Fraunhofer launches internal AI chatbot"
-    excerpt: "Gesellschaft, in collaboration with Microsoft, is one of the first research organizations in Europe to launch an internal AI chatbot that works similarly to OpenAI’s ChatGPT. The FhGenie generative AI solution lets employees securely create,"
-    publishedDateTime: 2023-08-31T09:21:00Z
-    webUrl: "https://sciencebusiness.net/network-updates/fraunhofer-launches-internal-ai-chatbot"
-    type: article
-    provider:
-      name: Science|Business
-      domain: sciencebusiness.net
-    quality: 39
-    images:
-      - url: "https://sciencebusiness.net/sites/default/files/inline-images/1080x450.png"
-        width: 1050
-        height: 450
-        isCached: true
   - title: "Bad Idea AI Announces Listing on MEXC Exchange and Revolutionary AI Chatbot"
     excerpt: "Collaborative Decision-Making: AI and DAO The decision to list on MEXC ... with Shibacals to produce unique figurines and clothing wear, complete with NFC chips that serve as certificates of authenticity and offer post-purchase delights like VIP NFT ..."
     publishedDateTime: 2023-09-04T19:21:00Z
