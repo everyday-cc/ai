@@ -2,12 +2,12 @@
 category: news
 title: "Fermyon First to Make Enterprise AI Apps 100x Faster to Run With Game-Changing WebAssembly Compute Innovation"
 excerpt: "Fermyon Serverless AI brings a new tool to the fullstack developer’s toolbox. Combined with Fermyon’s NoOps SQL Database and Key Value Storage, developers can quickly build advanced AI-enabled serverless applications without needing external vector databases or storage."
-publishedDateTime: 2023-09-05T09:15:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/09/05/9874325.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/09/05/9874325.htm"
+publishedDateTime: 2023-09-05T10:51:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/09/05/9874325.htm"
+webUrl: "https://it.tmcnet.com/news/2023/09/05/9874325.htm"
 type: article
-quality: 20
-heat: 20
+quality: 22
+heat: 22
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
   domain: tmcnet.com
 
 topics:
+  - AI Hardware
   - AI
   - Microsoft AI
 
@@ -24,6 +25,6 @@ images:
     height: 340
     isCached: true
 
-secured: "+yb4E+4HZ5ev8cx14ntb62V3JQz+iTLN+RBiLutmFrjtZIYYQZgR7T+0HGIaoALzL3zsYRJd1GRM0ZKBkwdh55OyUhCI594xbN2iI9FdeGx1BuJrWmAVHrx82yun0zP7RMJvzpe2Z7Vn+hdNah1q/ArGms9Qo4QSBZ1Vf/gS+DeJxVjR31Y4jxECA5F2IDl+CRmN1bYvUdG1SBrTyNuTXWmjKXwcxSmVygMXBHFqke+196XbiQknxozNaqSyFNgQZgJGFvYy0A9xYwLI+6+6xi2Z2e5xZ5y8gULeYAEq2uRKf2CQeeWzyF+zHR+B5jasszwQAzli3q+YOlEcvxOmDk4Qcg/MhGK78n6YNeXpABg=;9a3ptectziI+5oH/5dAyww=="
+secured: "FHzprK/Uwjd9MOzO0FXGr4MsclcaPuO2kjVnk3WFJOmJ4fRft3qwI9wIQwQHzmnFebkdeyqxOjFcheQK6Vm6/nmDL7cOykw2O7atBnypHqa49kgqd+/C6wrL03cKDxQhL+7OXxOZdOT6pS+SgeqOKHd9U4vpl757dsZoM1oEQz3NzP94d/7yUecROv5ZZGiJ15e4kGHL47BRaoBA99tW2HBMFqYOcH+n74TGc6xRjcb4lD1xpgT6wf77dTEaKsM0AECfoiGxGDHZLX38z2uukUQk4LVjzgUhRo3yUfjFgeZQW3G/cJxI0ERMN3CL5qPzzQI4n9vEQiRLTuJy0l78/mgUwWiv5m0Cz8jK1wY5ECc=;0pRRGoTOxbCTcLKnL/VfKg=="
 ---
 

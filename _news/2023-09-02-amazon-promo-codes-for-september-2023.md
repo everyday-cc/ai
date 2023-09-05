@@ -50,11 +50,11 @@ related:
         height: 630
         isCached: true
   - title: "iTechGenic teams up with Microsoft Azure, G7 CR for AI-enhanced Engineering management"
-    excerpt: "The primary objective of this partnership is to empower engineering teams with a 360-degree perspective by harnessing insights from various DevOps tools."
-    publishedDateTime: 2023-09-05T06:37:00Z
-    webUrl: "https://www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management/3233431/"
-    ampWebUrl: "https://www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management/3233431/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management/3233431/lite/"
+    excerpt: "iTechGenic, an AI-powered engineering intelligence platform, has entered into a collaboration with Microsoft Azure and G7 CR Technologies – a subsidiary of Noventiq Company, as part of their STAB programme for Independent Software Vendors (ISVs)."
+    publishedDateTime: 2023-09-05T06:39:00Z
+    webUrl: "https://www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-managementspan-stylefont-size-14pt-font-family-calibri-sans-serif-background-color-transparent-font-weight-700-font-variant-n/3233431/"
+    ampWebUrl: "https://www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management%ef%bf%bc/3233431/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management%ef%bf%bc/3233431/lite/"
     type: article
     provider:
       name: The Financial Express

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/chuckbrooks/2023/09/04/artificial-intel
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2023/09/04/artificial-intelligence-transforming-healthcare-cybersecurity-and-communications/amp/"
 type: article
 quality: 106
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -50,22 +50,6 @@ related:
       - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202309/GettyImages-1421626437.jpg?itok=g7p1UpOi"
         width: 1440
         height: 500
-        isCached: true
-  - title: "Cybersecurity experts are warning about a new type of AI attack"
-    excerpt: "Here's what to know about these type of attacks, which involve the large language models that power AI systems like chatbots."
-    publishedDateTime: 2023-08-31T17:32:00Z
-    webUrl: "https://www.popsci.com/technology/prompt-injection-attacks-llms-ai/"
-    ampWebUrl: "https://www.popsci.com/technology/prompt-injection-attacks-llms-ai/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/prompt-injection-attacks-llms-ai/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 57
-    images:
-      - url: "https://www.popsci.com/uploads/2023/08/31/chatgpt-mobile.jpg?auto=webp"
-        width: 2000
-        height: 1125
         isCached: true
   - title: "UK’s NCSC Warns Against Cybersecurity Attacks on AI"
     excerpt: "U.K.’s National Cyber Security Centre publication on AI details attacks that might target organizations implementing or developing ML models."

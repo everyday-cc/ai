@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/elon-musks-x-will-use-public-data-to-tr
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/elon-musks-x-will-use-public-data-to-train-ai-models-184924197.html"
 type: article
 quality: 87
-heat: 127
+heat: 107
 published: true
 
 provider:
@@ -60,24 +60,6 @@ related:
         width: 2584
         height: 1672
         isCached: true
-  - title: "Elon Musk says X will have voice and video calls"
-    excerpt: "SAN FRANCISCO >> Elon Musk said today that his social network X, formerly known as Twitter, will give users the ability to make voice and video calls on the platform. Musk, who has a history of making proclamations about coming features and policies that have not always come to fruition,"
-    publishedDateTime: 2023-08-31T18:30:00Z
-    webUrl: "https://www.staradvertiser.com/2023/08/31/breaking-news/elon-musk-says-x-will-have-voice-and-video-calls/"
-    type: article
-    provider:
-      name: Honolulu Star-Advertiser
-      domain: staradvertiser.com
-    quality: 4
-  - title: "Elon Musk says X will have voice and video calls and updates privacy policy"
-    excerpt: "The company also updated its privacy policies that will allow for the collection of biometric data and employment history, among other information."
-    publishedDateTime: 2023-08-31T18:44:00Z
-    webUrl: "https://www.cumnockchronicle.com/news/national/23759979.elon-musk-says-x-will-voice-video-calls-updates-privacy-policy/"
-    type: article
-    provider:
-      name: cumnockchronicle.com
-      domain: cumnockchronicle.com
-    quality: 2
 
 secured: "w121g82baYW2LAWdCe4XAdsq59ZDqIgiaz7DW+Fr3x8reFhsZj+LDlrkRDiLWQd7q7O66TnnSpVLUwfhaHB+QWsZiu0zx9fpjbBCtkNi+he8WjY+oyhh3oFtjld3977tvbIlfsEqmYqK4/UhyrspicQG0Ta6DL8pN6tk4N1Tp0nR3ZQ2DK2ZvV981Qv4+dUMOpQv0a8L9ZKjBYe/RRbL3CViGRu4q6A2yFvTUN6apC+uUN6tbiUQdfzG9mY2iGdzpsTsR+AtkvxY8tKQCz9Fm+IprOMBg4gLNd4C2ZkxftbXSsqeEX8OO2HqmvhJz+9zwAHk72HJMeGq47ztwSJ4HaCMMh/fqa+db3emNDy1BxE=;8DBelX14hLAp77H5Gqv/CA=="
 ---

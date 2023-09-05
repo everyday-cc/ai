@@ -9,7 +9,7 @@ ampWebUrl: "https://theprint.in/theprint-valuead-initiative/fintech-outsourcing-
 cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/theprint-valuead-initiative/fintech-outsourcing-india-crafting-the-future-of-global-finance-with-tech-mastery/1747072/?amp"
 type: article
 quality: 53
-heat: 153
+heat: 143
 published: true
 
 provider:
@@ -126,15 +126,6 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 19
-  - title: "Agtech startup Labby shaping the future of the dairy industry by tackling testing | Luminate N.Y. Spotlight"
-    excerpt: "Labby, an Optical Sensing Agtech startup born out of the Massachusetts Institute of Technology (MIT), is creating on-farm milk testing technology that will help dairy farmers enhance profitability, improve animal health and welfare,"
-    publishedDateTime: 2023-08-31T18:38:00Z
-    webUrl: "https://rbj.net/2023/08/31/agtech-startup-labby-shaping-the-future-of-the-dairy-industry-by-tackling-testing/"
-    type: article
-    provider:
-      name: Rochester Business Journal
-      domain: rbj.net
-    quality: 0
   - title: "Unveiling the Top Fintech Trends: How Technology is Revolutionizing Financial Services"
     excerpt: "Are you ready to embark on a journey into the future of finance? From mobile banking to advanced algorithms, technology has been transforming the way we interact with money and manage our finances. In this blog post,"
     publishedDateTime: 2023-09-01T17:36:00Z
@@ -145,6 +136,6 @@ related:
       domain: techbullion.com
     quality: 0
 
-secured: "efDTBROzs49y2XOIG2WLezInAMFAvteh3QyusYcHDvYGU2T3MHIR6f087lwALJ8R5XV/1GeGOlEqVGWgHwjeZDI3PG39el3iMQD26iq5HpHnxjbyanBBxERC0iU5Auev4+GSqP8Bb09lqJUJr1evDsltQUmYE4if6ZtpsmELGQfrlEYCcvmjb9GXMRizBPjGYYEqFe3Y8siuyxlBTJ3ZysRBvcUO+59t4xjZbv99p5/nGK1oxDu7/V2TLimebeWoG9OHIrZWR2BVz8U7MXetdeblKIakevZBGZc9NvTwNXnbkbEl2j/yxHXm96sgoWkpi2qmrk395yfGGho5Uo5ce3u9B3sgIeMHz6E+hZiNHRM=;hEehLK+Xqmk4evsxW5C5Nw=="
+secured: "uEZEo9synl2AUKBhEz/vCoXPkbb26RWZuJjvXCu62+Uu/oiuIPsgnWcQez+okCTHr0GhCM6m+my+O9EN15jzXmXdS7c1iQPHfWkVEbjdVA6Zt2ZcyrggZv9vWlAxsxFdKpblirc6HKT8qSXyXdT4+IyRW8bYwKLlQDfTcbQgKrBmQ51sPTIIhoOQpA1WYviCvHrYSjdmrxf+L/sqt5F6rHvVXibkYrqdFpS0ZXoRPQKzSqyW2DnMbwuTVdExi85Qv1eocULyQ8gtYoRqk5fvJ6cqFnGI5zJCH/Qo8lDjh7SSJH7AF6+m78kxi0zSZc/GwKJe6i6mdk44ww/yRo5vongKAjhqvM8Hw7lB2ezH5kXNsjPJNXRpy3iUPVhmaDxXDkqvVzYxXSlH1V1kq/GaCXhONWy+B/W6jHvGkOdl3sTmdHymaaI658WntQkWjlAol1J5a6vxtpfP2qZGSY89y3CQ9r16sySXXjDGSq2+gI6P/LJDnH2L4aTrc7SOgfBxu6VArWwuRahpjVbcu7LZoQ==;lYouEgak+C+t/ff3J1/mHw=="
 ---
 

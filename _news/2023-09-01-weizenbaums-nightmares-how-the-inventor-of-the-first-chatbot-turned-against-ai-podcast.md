@@ -42,6 +42,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Easily build an army of AI chatbots using Textbase"
+    excerpt: "The use of AI chatbots has has exploded this year with the release of ChatGPT 4, Google Bard, Claude, Stable Diffusion and more. They are now an integral"
+    publishedDateTime: 2023-09-05T09:40:00Z
+    webUrl: "https://www.geeky-gadgets.com/how-to-build-ai-chatbot/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/Easily-build-AI-chatbots-using-TextBase.jpg"
+        width: 700
+        height: 466
+        isCached: true
   - title: "Bad Idea AI Announces Listing on MEXC Exchange and Revolutionary AI Chatbot"
     excerpt: "Collaborative Decision-Making: AI and DAO The decision to list on MEXC ... with Shibacals to produce unique figurines and clothing wear, complete with NFC chips that serve as certificates of authenticity and offer post-purchase delights like VIP NFT ..."
     publishedDateTime: 2023-09-04T19:21:00Z

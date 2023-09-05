@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/googles-ai-powered-search-s
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-ai-powered-search-summary-now-points-you-to-its-online-sources/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -60,15 +60,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Why Google Wants You to Smell This Article with AI"
-    excerpt: "“Your phone can easily share images and sound,” Joel Mainland, an olfactory researcher at the Monell Chemical Senses Center in Philadelphia, Pennsylvania, told The Daily Beast. “You can archive them and look at them over and over again without destroying them—but you can’t really do that with smells.”"
-    publishedDateTime: 2023-08-31T18:34:00Z
-    webUrl: "https://www.thedailybeast.com/a-google-startup-made-an-ai-that-describes-smells-better-than-humans"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 17
 
 secured: "5T32svRrJnYN7d69ISszDiSj5quDgVVIJWNhRGK2BTzfrtf3HRYbTCJ5XH7YEIIq7k7vL2SOzFzJdhhcceiqgLlNl6N4E2Yzb+W3mjuhxGwnxyzq7CrxYKs+Ua8ezGhSP9T8uhvfEfQTqbOpo3FJG+qQeK2knh7LNUfb5FUMpXTc3tTo3qTUMftyZVCRy2WoYn66d5zJpN2vjtDazxyhP5HfJpxdD+1RfuubXLl0Ebd07efhW7KTe9E8tonYdRf1bnWGQ5ytJqSVT9u5j3eaaFfoFvaPk4+3oNvhPIy9IWRR3YizdmveRVHdp9NTeJsnA3I1gmlwXYTsVn3JctLW4Z9RhEEdDcKhXpSt/rvMXERMiIXeP2TOe86m4cC983hfDslnGga38tfqiFXyACyKcIjwkaqr9nUdO0bWdN8u/5jzTzTIRBh891SRf+CWV58hfzNO2CANjP7PcS4CyK2G2cqWsK56J45Nc6VIGxGPIx3/L1iOwPenZ/RQWZcYwny7CLqdYnQV9uTzs/eRMId9lw==;hiTUn5VTbq3o7QU6ER9DAQ=="
 ---

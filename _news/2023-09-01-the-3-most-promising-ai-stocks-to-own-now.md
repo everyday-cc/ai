@@ -25,19 +25,21 @@ topics:
   - AI in Autos
 
 related:
-  - title: "MSFT, PATH, or NVDA: Which AI Stock is the Most Promising Pick?"
-    excerpt: "The tech world has been gripped by the generative artificial intelligence (AI) wave since the success of OpenAI’s ChatGPT sparked interest in"
-    publishedDateTime: 2023-09-05T04:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/msft-path-or-nvda-which-ai-stock-is-the-most-promising-pick-1032603717"
+  - title: "Riding the Wave of Artificial Intelligence: A Comprehensive Look at AI Stocks"
+    excerpt: "Erica Fluer Artificial Intelligence (AI) isn't merely a buzzword, or a futuristic concept confined to science fiction novels; it's an integral part of the modern world that is shaping the future in unprecedented ways."
+    publishedDateTime: 2023-09-05T09:33:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/34225651/riding-the-wave-of-artificial-intelligence-a-comprehensive-look-at-ai-stocks"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34225651"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34225651"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 73
     images:
-      - url: "https://blog.tipranks.com/wp-content/uploads/2023/09/MSFT-stock.png?utm_source=markets.businessinsider.com&utm_medium=referral"
-        width: 811
-        height: 274
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
 secured: "aTiWgpTFQhJF+ZbhjuKOfOswTvNeidODJ+k9g/M/FuVUZib4uZOGrzEMkQf1a/Zc9HssQowkT79LNIGe7gsW5jxrmk2j8YPWkQMzuLssJ5dXzxjtM2Yko9lOv8JPCTesjEsY66pNDephxbafS+MLq7tnrUiGvoLPVhH+xf+ajhY8TOErU/31kQNuq4wI8GuzKRQ0bVA/QEC72PVrbvEhqwWKAHp6eo0eqkhLB/p8+ywCpyyCvvlBze6V5InLYewnSWv3VbYdyJeyIGjG1DaKqkJBC1ATbAZ+t7W4PkZr8XGIU5GlqZv+/0CNPxlxxoYfv15Kzua2dgBUq07GYtsoTE8uyFveTiIngI59HLTDe5bLMNcW4jdoTGH63EaC+RH33mK+p9pnzIMHzxalnGabq6Ai4vjj8JDdXL+ASE/rk+teYeFltz7+j6zm3Nkhk2km4mENeuQHQH6TizX+cZHlNasZQebf+CC+ejN1H+n9X+VqeqFfmv1FvdqZfGYG9cHo4jvI2sdySC3ONwRXjPpmlQ==;g0n5pQMd255UaFvkFRXQwg=="

@@ -134,15 +134,6 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 19
-  - title: "Agtech startup Labby shaping the future of the dairy industry by tackling testing | Luminate N.Y. Spotlight"
-    excerpt: "Labby, an Optical Sensing Agtech startup born out of the Massachusetts Institute of Technology (MIT), is creating on-farm milk testing technology that will help dairy farmers enhance profitability, improve animal health and welfare,"
-    publishedDateTime: 2023-08-31T18:38:00Z
-    webUrl: "https://rbj.net/2023/08/31/agtech-startup-labby-shaping-the-future-of-the-dairy-industry-by-tackling-testing/"
-    type: article
-    provider:
-      name: Rochester Business Journal
-      domain: rbj.net
-    quality: 0
 
 secured: "eI4VP7XuOpffn3V34VYPbw4zOax1d/6Z4kjObG7dMDd3eODiMEVibqkwtelKKwawzw+ougZyZkVi0+JMNhIhlkzGg7R0ShjulkJcdwoA2hMi971I+fl+TiL34/Pp/PvaiQhzzCVV+O1egtjBHfFlvRxUG3hHE3Hlur/RU5pPeeR+9JvUXnluvUWnmELnC0S4C1Oc7GntrOxeiXweDOe2VQ36sZNqkpkDeNDLMhfN2cxfDsK2l3PKlWjyfsy0yzPj8PbeUNhjzO7e7ckcNkCa3RpS5QFSSjiIDvsqulhbEdTBWnHTAnrzTjwRspoLAVraEnA3G9DdwLf2GRNXGg5c7HURA1e27nZNeaU5JlNB2lQ=;EeLgSvxHQfVDPP+yt5q1AA=="
 ---

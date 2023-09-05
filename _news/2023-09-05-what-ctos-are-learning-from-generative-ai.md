@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3705048/what-ctos-are-learning-fro
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705048/what-ctos-are-learning-from-generative-ai.amp.html"
 type: article
 quality: 93
-heat: 153
+heat: 163
 published: true
 
 provider:
@@ -65,19 +65,21 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "5 ways CISOs can prepare for generative AI’s security challenges and opportunities"
-    excerpt: "An effective zero-trust framework can help reduce the blast radius of generative AI attacks and establish a first line of defense."
-    publishedDateTime: 2023-08-31T17:04:00Z
-    webUrl: "https://venturebeat.com/security/5-ways-cisos-can-prepare-for-generative-ai-security-challenges-and-opportunities/"
+  - title: "Generative AI Drugs Are Coming"
+    excerpt: "The merging of deep, quality data and expertise with increasingly sophisticated AI capabilities has the potential to truly shift the future of medicine."
+    publishedDateTime: 2023-09-05T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/05/generative-ai-drugs-are-coming/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/05/generative-ai-drugs-are-coming/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/05/generative-ai-drugs-are-coming/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 80
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/4.-Designing-for-trust-Top-10-cybersecurity-priorities-for-CIOs-in-2023.jpg?fit=750%2C422&#038;strip=all"
-        width: 750
-        height: 422
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64f22325ebec7ec31b17ee9b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 801
         isCached: true
   - title: "How Apple is already using machine learning and AI in iOS"
     excerpt: "Machine learning has become Apple's catch-all for its AI initiatives. Apple uses artificial intelligence ... with the launch of iOS 17.1. Apple will improve dictation and language translation with machine learning as well. Machine learning is also present ..."
@@ -94,6 +96,22 @@ related:
       - url: "https://photos5.appleinsider.com/gallery/56062-113816-Apple-Siri-xl.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "I've made $2.7 million in revenue in the last 6 months by selling AI courses and using AI tools to cut costs. Here's how."
+    excerpt: "I started sharing what I was learning in late 2022 on Facebook and via email with ... People wanted to learn about generative AI but already felt behind Talking with my audience via direct messages and market-research calls, I found that business owners ..."
+    publishedDateTime: 2023-09-05T11:01:00Z
+    webUrl: "https://www.businessinsider.com/how-to-sell-ai-products-made-millions-2023-9"
+    ampWebUrl: "https://www.businessinsider.com/how-to-sell-ai-products-made-millions-2023-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-sell-ai-products-made-millions-2023-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+    images:
+      - url: "https://i.insider.com/64f07bcbf8c86200196140eb?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "AI expert discusses generative AI: What it means and how it will impact our future"
     excerpt: "Generative AI is revolutionizing our world. Monica Livingston, an AI expert at Intel, shares her insights into the future of this growing technology."
@@ -119,6 +137,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "1fGxkQUPTIEUKIjjlviM36lQOrtzKFkjwTbQrTBCjaXCx5dqSJAqALPuzsbwKCqmLo2/TrldoTCX+fvmxd+L+s0QWFv3/7/S2UPtHBy+vKRvKxX0lw61++rpuHgmbDrKjufLkfpcpG644NEp7o2IIkdRtvQ26uszrO3ZKkXt73wNv4nEXAeMuOOg00ZGpGCg4VzSzfN6K3V54laQCRwwGTzKye/kplRdS/AIKKy5eHtamuGSlWXu6RxBVrJuMWl5RReB760ZeilSIF97L0NhO4CKmQAS5QGL1VyVjlCsC2N1acLlJ5YBCcZNH37S33yOF6Up4dCFU5TTE6IlNzW/QyssJnNpRVXBtuzol4UDjgU=;yvz3dmih2/wv9snClNg0PA=="
+secured: "Cc/pH1FdjGZnzZbefCNUexlCUxwq7SbRczpxmGzNAF/nFHEfs411mkRLO/+6HXdU41zetDDkRYxBFuDU5TuMYIotO/Z0GAYD+6p3HZLu1Fzm2MSHxHwIswJyt1n4yPSKD9ExsrzxG5QTJHayzTbh0VobtZZIeLPazU8Y4WIOru6+bw0P2MvMmYu15wKlQxWvpoiPX5AHpMonAckEMLHvmHUM+35FIlCNUamt+PYJAA4pOnW4gzaGjkOjIDbKtmite8i5U152p7UmLB/MdM0V5fEKu7cL1qqPCvbZS4wFGs7WiXWcIp1J+M2ODUETXHoSwaQ/xzdK6Du2Zd8Yf8mEMw1eTqoj1Cm7fjrm1gJc+6EJm/YGw6T92T9+QoFTr4RRN/s9r8tzqNVqOpToDBr/t4biR5/L747APR4RjOwIKSiiP+HzJ6IfirYcwsjazrUVPcutqLS+PW17u1+VUtBdHw5LMk+DpeAWx+Lj0p6XY0dYs5uhgiIk7F28YHzMHvIqS46Mvz6UD/GEt4ZCx19D6g==;DOlkg6Cbiq5it/kynvO83A=="
 ---
 

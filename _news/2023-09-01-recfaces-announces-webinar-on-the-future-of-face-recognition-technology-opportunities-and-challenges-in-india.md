@@ -30,20 +30,6 @@ related:
       name: TechRound
       domain: techround.co.uk
     quality: 56
-  - title: "IBM vowed to dial back facial recognition tech, but recently landed $70 million contract to develop it"
-    excerpt: "That post no longer appears on IBM's website. Based on archives from the Wayback Machine, it seems Krishna's entry was removed in early 2022. But why?"
-    publishedDateTime: 2023-08-31T17:30:00Z
-    webUrl: "https://www.techspot.com/news/99990-ibm-vowed-dial-back-facial-recognition-tech-but.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 53
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/08/2023-08-31-image-19.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "nI36EX6mBlvnYDrG2tdwIFpLHyehqNfGRM2b4f/stIy2ZiumPjO8U/sHOwm7TwvtYP/XYP0VCtrgxVcYEfUUpv3VoLZajitjrdPinKrlLuJgAksqSpH+CNHjZbb0pbvXj4XQcQglk2M4WE7OWef1LjjYkLTnIK9n5w4j9xBR2iUWdpryCMipypOEnQk2ysruFfTUqVwet1B3g9z/mmYu25wRANgo0Sd8dbpYkaRQ05TT3J7pwSPfolaHCTpRgBiIr3ivr6ux6v4NYdit9lF/8f8SAPdsQ/kiDB/v3N6IIQvb/Q3+O9yO5GlgQSyD+0Z2YXpVV18xZ1WS4eEiYB8BRozoYLN2cokdlWO3uRbQBcc=;n9agcy2ZMmmoskcA2bN0Ig=="
 ---

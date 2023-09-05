@@ -7,8 +7,8 @@ originalUrl: "https://www.cnet.com/tech/computing/ai-and-you-no-to-openai-scrapi
 webUrl: "https://www.cnet.com/tech/computing/ai-and-you-no-to-openai-scraping-dont-eat-those-mushrooms-prompt-jobs/"
 type: article
 quality: 70
-heat: 80
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNET
@@ -30,6 +30,34 @@ images:
     isCached: true
 
 related:
+  - title: "What OpenAI Really Wants"
+    excerpt: "Then we’re going to have systems that can do basic cognitive labor ... one of the world’s most desirable new customers for its Azure web services. With those rewards in sight, Microsoft wasn’t even bothered by the clause that demands reconsideration ..."
+    publishedDateTime: 2023-09-05T11:36:00Z
+    webUrl: "https://www.wired.com/story/what-openai-really-wants/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 71
+    images:
+      - url: "https://media.wired.com/photos/64ed0bc52da6c6d86e70e575/191:100/w_1280,c_limit/WI100123_FF_OpenAI_01.jpg"
+        width: 1280
+        height: 670
+        isCached: true
+  - title: "Fintech startup Stripe integrating OpenAI's new GPT-4 AI – Reuters"
+    excerpt: "Small toy figures are seen in front of Stripe logo in this illustration picture taken March 15, 2021. REUTERS/Dado Ruvic/Illustration/File Photo Acquire Licensing Rights SAN FRANCISCO, March 15 – Fintech startup Stripe is starting to integrate OpenAI's latest GPT-4 artificial intelligence model into its digital payment processing and other products,"
+    publishedDateTime: 2023-09-01T15:13:00Z
+    webUrl: "https://www.inferse.com/700826/fintech-startup-stripe-integrating-openais-new-gpt-4-ai-reuters/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 39
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/09/wp-header-logo-164.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "OpenAI release a ChatGPT teachers guide on teaching with AI"
     excerpt: "OpenAI has announced the release of a new ChatGPT teachers guide it has created to help teachers design lesson plans and more. The guide has"
     publishedDateTime: 2023-09-01T05:56:00Z

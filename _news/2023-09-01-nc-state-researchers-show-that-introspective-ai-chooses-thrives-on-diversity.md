@@ -9,7 +9,7 @@ ampWebUrl: "https://wraltechwire.com/2023/09/01/nc-state-researchers-show-that-i
 cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/09/01/nc-state-researchers-show-that-introspective-ai-chooses-thrives-on-diversity/?amp=1"
 type: article
 quality: 55
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -49,6 +49,20 @@ related:
       - url: "https://www.unite.ai/wp-content/uploads/2023/09/Alex_Mc_diverse_technolgical_neural_networks._f313159c-ce36-45ed-ad87-d0f7127d555e-1-1000x600.jpg"
         width: 1000
         height: 600
+        isCached: true
+  - title: "‘Introspective’ AI Finds Diversity Improves Performance"
+    excerpt: "An artificial intelligence with the ability to look inward and fine tune its own neural network performs better when it chooses diversity over lack of diversity, a new study finds."
+    publishedDateTime: 2023-09-05T08:20:00Z
+    webUrl: "https://www.technologynetworks.com/tn/news/introspective-ai-finds-diversity-improves-performance-378431"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 39
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/378431/introspective-ai-finds-diversity-improves-performance-378431-640x360.jpg?cb=20230905"
+        width: 640
+        height: 360
         isCached: true
 
 secured: "nisx3vaLRiNbLTwaztcIKRW7jWYCQjxhXBwDZvPyBOKufCwXpOuGMTpT04+Ylevw/gt5hggLuERz89HBHTVtVfYtL1VM0AS8MdE+kLSH/zY7vopVMQVi8MG/ZHBsbvuJIqKw6KU4BQ3C918zNN8gJOIM58H9JHvkWr+69TfpCgwh/T3GXugNmFE83NC5+nCRSV6Vcy5ICt3Fvtc6Lt5P19Tb2IUWE1tSgTPo+DqU9IsM6em0ZvoeYlJWVQNPzOPNhs9qJ1/MliPenRqv/nsN9JBPtgtlxCPFpVmInNM0N+/Ypkk+PHO9bwx/vBSur2dajdmq30DBzGCLwQ95CodK/yMn0whylQwOlPj959Z9snhLZ5cdBrhV/M9djtTg61g4TgfeYXqDU+eRDv/2fTykeQm5UO2hEVX5UthjXryW+/HXVCM3t5wh9Ip02cVmIpDvle1MplYCobReYzPx+4kO4dUfJ3bWHlg4VfcGWD00djPT0PvT1q92vxHfVp/h7EKLO7uuABP2vhNRPSRMPz1RSg==;T6lX1RAp11Crd5lvJ4kYaw=="

@@ -156,6 +156,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 33
+  - title: "DeepMind’s Path to Better Large Language Models Runs Through Machine Translation"
+    excerpt: "DeepMind introduces a new method to improve the quality of LLMs and chooses MT as a use case to show how well the new approach works."
+    publishedDateTime: 2023-09-05T10:20:00Z
+    webUrl: "https://slator.com/deepminds-path-to-better-large-language-models-runs-through-machine-translation/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 31
   - title: "US should use chip leadership to enforce AI standards, Deep Mind co-founder says"
     excerpt: "Mustafa Suleyman says sales of Nvidia chips that dominate artificial intelligence should be tied to safe use pledges"
     publishedDateTime: 2023-09-01T04:00:00Z
@@ -166,6 +175,6 @@ related:
       domain: ft.com
     quality: 29
 
-secured: "uAsOKceNc5Y5Bf5W4dh1b63Yue9MWQU0wsV8O5SHHv323qFfNOJ1jf2agWpxbVLPu8vVGohdGBFagnj8W9kFZsBF6xOopClVxPmlJxoyew+Cac+1TyggVncb7ruURxtrdK7sQcuBEUaMRUCwaBDdRFMdf71BGqnininMy0nEcEjPA752VkuovuBDRtMgCvQCqnqzGYbEDlnaEDnCLlYCkoOGuuX+7Ia/pmv8exq8ds/VeZmynku1eddOOqN2lFJxwcnHRXHXqo/rNGQqFaI8c8eRN7LMAAWh1xfrtDxwOiHo1pchzIvfiSfaMVnCRgSz18R2nAMvPzQPlaGAoD7L/z9vNp14TbGMHwcRQXoDMXw=;MfAY0m3l7FS80XkoPFC4eg=="
+secured: "XuF437Wl0qI2B1evvdZXTbeC6PvxH1eBqN7XSfunFXU+kVQO5I0WzWnl+KonWsP7s9z6OxoUci6M7LM0v795ZVIMysGGkArGA7NyjxyVxv0ZlHpdgQ6xh7MXeIkt/CqY/wfN2zTuLqPM/rkc3X4NYzRYSh+RSyR9ERhvjgpCYvtlO/DL5ZdXq9CXmkKXBg5k2vPSHd2gz/OELAJ81+LYQfL+vc/mmWBfnO8MCF6TOZWCzDtlYYbNcaEOgOLVbgJb7GxVEED10/FiJC4+yvw70QaOanzbqZNW/6e5tBz+4oIjVwRwYJZYiJp3cphajj8XrTDokWCgyj/6lhMCfPTuCXJUQJcWBwPs8UIehTCVJ9dQbGUSnEm8gIOp+R58UFzPvHDDFL9s/4QoDDdBOCuuyCK1jXG/q7dcaF6gA3ZdsDZvzBQZDdtv8lmV68Br02hcwR+xi+U/2prOkSSODzkzvI7GyEIq0o6gTegdSROOp78Ls2yMiTlGOgjRifO3Ld3ZGfIhIrcxB6fJGGdQgNwPmQ==;Sb/LWCCljncRP42uFVKS9Q=="
 ---
 

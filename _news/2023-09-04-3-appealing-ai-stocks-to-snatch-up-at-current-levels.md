@@ -22,6 +22,17 @@ topics:
   - Microsoft AI
   - AI
 
+related:
+  - title: "Forget AI Mania! 3 Penny Stocks With Serious Upside Potential"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips While the market remains enamored with artificial intelligence stocks, many"
+    publishedDateTime: 2023-09-05T11:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/forget-ai-mania-3-penny-stocks-with-serious-upside-potential-1032604820"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+
 secured: "7HnFlOmYsZ8cWRP2GZZe2Ek/RopLl2Wcq6FSBplhBzGh3rtpKJiNimmzqyNV/oOjdYqTVfkOyTz7Wpn0I99y1lIXpc4CJfGkzsQDobgNHNA45O6BIDu+QcpE1+h6qkkDL6CDBZa1pbXU4WBHtDzSevbJkOEEoLTuow2YAAIhRSLT2frv4+CdIl9UoeyXSfsczW4ph2P3MVm5WWjRuRkyHv3NbcucaIyc+D1DcLza4oB3lZwIK67MpVHR4MA1+GFhdCvJAyCaXHYvVETCXrvY3xdUwjZiilHWhoWA2A0fbzlEgsRUUQ6gv3Ni0AlP1+94QDXRLq4ktxCHWIV7QsHSvl5sSrDh27BkyPXMx1AkR9fiLj5atUe5NxMXnXoh3Pzunu2oTSlGoHBzjTOeP/lsmr9Gmme6fFHEKjQTkl2W9hx7DgYZjB9ou5QufgtF4uQGn/eGrF0l2Ls3Y2Mebnj67DkwHijEiSO6AIoeE4Fud/OY1ZoDVMBqSKXUNShVnbqogdyNu95XTlPU7rd3hxx26A==;Eo8qXHeuLco0H3X6Ngz4IA=="
 ---
 

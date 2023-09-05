@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/08/31/startup-superfra
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/08/31/startup-superframe-raises-5-million-to-simplify-salesforce-configurations-with-ai-chatbot/amp/"
 type: article
 quality: 77
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM and Salesforce Partner To Help Businesses Accelerate Adoption of Trustworthy AI"
-    excerpt: "ARMONK, N.Y. and SAN FRANCISCO , Aug. 31, 2023 – – IBM and Salesforce announced a collaboration to help businesses worldwide across industries accelerate their adoption of AI for CRM. Together, the two companies support clients to revolutionize customer, partner and employee experiences, while helping safeguard their data."
-    publishedDateTime: 2023-08-31T17:07:00Z
-    webUrl: "https://www.datanami.com/this-just-in/ibm-and-salesforce-partner-to-help-businesses-accelerate-adoption-of-trustworthy-ai/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 33
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/08/ibm-salesforce-300x234.png"
-        width: 300
-        height: 234
-        isCached: true
   - title: "Ibm And Salesforce Team Up To Help Businesses Accelerate Adoption Of Trustworthy Ai"
     excerpt: "Tech giants collaborate to drive productivity and growth with generative AI ARMONK, N.Y.<br />and SAN FRANCISCO, Aug. 31, 2023 /PRNewswire"
     publishedDateTime: 2023-08-31T22:04:00Z

@@ -146,6 +146,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 33
+  - title: "DeepMind’s Path to Better Large Language Models Runs Through Machine Translation"
+    excerpt: "DeepMind introduces a new method to improve the quality of LLMs and chooses MT as a use case to show how well the new approach works."
+    publishedDateTime: 2023-09-05T10:20:00Z
+    webUrl: "https://slator.com/deepminds-path-to-better-large-language-models-runs-through-machine-translation/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 31
   - title: "US should use chip leadership to enforce AI standards, Deep Mind co-founder says"
     excerpt: "Mustafa Suleyman says sales of Nvidia chips that dominate artificial intelligence should be tied to safe use pledges"
     publishedDateTime: 2023-09-01T04:00:00Z

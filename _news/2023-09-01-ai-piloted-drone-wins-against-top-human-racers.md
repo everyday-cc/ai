@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "High-speed AI drone beats world-champion racers for the first time"
-    excerpt: "Enlarge / A long-exposure image of an AI-trained autonomous UZH drone (the blue streak) that completed a lap a half-second ahead of the best time of a human pilot (the red streak)."
-    publishedDateTime: 2023-08-31T17:06:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/08/high-speed-ai-drone-beats-world-champion-racers-for-the-first-time/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/08/high-speed-ai-drone-beats-world-champion-racers-for-the-first-time/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/high-speed-ai-drone-beats-world-champion-racers-for-the-first-time/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 87
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/Figure1a-Hauptbild-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "riWBQCuBGcvPwt3wAOZrbAej2jNm5rWEVAgKZvSmFFRkY0ExictH0kRA0RXlxRXg2ttCoYlX9EDvIZHYJhDqBsKIyHgcXaUXNRB63MXReziP56RKhDZqud18BgGcTNvfLL8aNYZC0faZeE8yP0iNtsQnMqF0Y6pSOdPJwN/p+3QvR7LEvOXfNZAFBC8vJGi097hmyDhVTRSD9xAwqfNcMi6Yf4SMtBWhrHP9K5KR8FvTaCy1LWuq07s6YL5UH3reQ1NLvhJGtC58RJgeE0tn0HNzjBQpLMK4ePKEF2cCxPfKjTe1wnLL4n+N3eg4Tiw0GAkDVtQ/+F+9qQwiV2tp/1vTkKLFlHBuJ4lE/K02nn6KMdWqr/m/58jfDMK62ePE9AEOnyMNIp6oEohfs8GrENLsGzgZixk1Z1kf2N8Wigy+1tFAx1TFOvwz/Zle4SzZLN3jVG3l7VRXjEI26EdXZxlWIb/iR38iWMkzgeIX6kQHT6Fk5hG0lF7SiwHCVkzHp4qGDVONmGMIkQTHlviegQ==;SXnNrCVUOoVIBqZmBKlyzA=="
 ---

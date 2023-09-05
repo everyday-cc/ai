@@ -53,6 +53,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "‘Introspective’ AI Finds Diversity Improves Performance"
+    excerpt: "An artificial intelligence with the ability to look inward and fine tune its own neural network performs better when it chooses diversity over lack of diversity, a new study finds."
+    publishedDateTime: 2023-09-05T08:20:00Z
+    webUrl: "https://www.technologynetworks.com/tn/news/introspective-ai-finds-diversity-improves-performance-378431"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 39
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/378431/introspective-ai-finds-diversity-improves-performance-378431-640x360.jpg?cb=20230905"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "xPVIT1aUU24cv7efEkD0xlxO3kxKnG6tP0O/dQ7yNvGDfvNxZhHlR1KSjJXSw4TJe4Wn9XUPzKubeDf4qZaBs/1ZO1TRJKwzkfCd6F4uR1tfH/qvRjsTr48VVlNZ1urCf/TjmEv78brSF0w6GrQusRztF+n2NQ/8KY1F0m0mIojw80JKc9qaSDj13ImLEFXUJ6W72pQWs9lxQuDhQfVLzuadOz9KkyYO9htt5PXyzo1uK5SkQnZsVu3LUHtti8d7W6M5Wsd3fxMkpXk22C7avPtLpoXB0DN5Fj8507DqpO94QOO2BjsizAzbPQ39wU5IgegFQtrE8RfHWY0CcIchcu9wQaR1VZMrCi2rKfn1wi0=;gS0LHg/6YtO0yt+2ImIWhQ=="
 ---

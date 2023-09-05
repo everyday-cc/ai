@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Easily build an army of AI chatbots using Textbase"
+    excerpt: "The use of AI chatbots has has exploded this year with the release of ChatGPT 4, Google Bard, Claude, Stable Diffusion and more. They are now an integral"
+    publishedDateTime: 2023-09-05T09:40:00Z
+    webUrl: "https://www.geeky-gadgets.com/how-to-build-ai-chatbot/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/Easily-build-AI-chatbots-using-TextBase.jpg"
+        width: 700
+        height: 466
+        isCached: true
   - title: "Weizenbaum’s nightmares: how the inventor of the first chatbot turned against AI – podcast"
     excerpt: "Computer scientist Joseph Weizenbaum was there at the dawn of artificial intelligence – but he was also adamant that we must never confuse computers with humans"
     publishedDateTime: 2023-09-01T03:00:00Z

@@ -25,38 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI and Foundation Models Face Inflated Expectations"
-    excerpt: "Computer vision and cloud AI services are among the most mature applications of AI, according to Gartner's 2023 AI Hype Cycle."
-    publishedDateTime: 2023-08-31T17:08:00Z
-    webUrl: "https://www.techrepublic.com/article/generative-ai-dominates-2023-gartner-hype-cycle/"
+  - title: "Breakthrough in AI promises ‘tonnes of applications’ in travel"
+    excerpt: "Recent developments in generative artificial intelligence (AI) mark “a breakthrough” in technology and promise “tonnes of applications” in travel, according to Joao Gonzaga, chief digital officer at Kuoni Travel-owner DER Touristik Group."
+    publishedDateTime: 2023-09-01T07:45:00Z
+    webUrl: "https://travelweekly.co.uk/news/tour-operators/breakthrough-in-ai-promises-tonnes-of-applications-in-travel#!"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
+      name: Travel Weekly
+      domain: travelweekly.co.uk
+    quality: 39
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr_08312023-generative-ai-dominates-2023-gartner-hype-cycle.jpg"
-        width: 1400
-        height: 900
+      - url: "https://travelweekly.co.uk/images/cmstw/original/8/e/3/1/b/easid-497136-media-id-41042.jpg"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "Generative AI at an inflection point: What’s next for real-world adoption?"
-    excerpt: "All of this points to the current scarcity of these chips in the face of surging demand. Does this current demand mark the peak moment for gen AI, or might it instead point to the beginning of the next wave of its development? How generative tech is ..."
-    publishedDateTime: 2023-09-04T19:31:00Z
-    webUrl: "https://venturebeat.com/ai/generative-ai-at-an-inflection-point-whats-next-for-real-world-adoption/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "VMware Introduces Frameworks And Services At Explore Conference To Enable Enterprise Adoption Of Generative AI"
-    excerpt: "Ranked Industry Analyst Patrick Moorhead unpacks VMware's approach to generative AI based on the VMware Explore 2023 event and his conversations with executives."
-    publishedDateTime: 2023-08-31T19:00:00Z
-    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/08/31/vmware-introduces-frameworks-and-services-at-explore-conference-to-enable-enterprise-adoption-of-generative-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 31
 
 secured: "YNYhOZwXdLpXypqGxfCwf+xQeh41ptxZ/FFpgyhWPBtW+ZYUzpCkyUCdxTmEPybm3uggPOIiACgWzlA7595BMCv0ojKSQhY1Zz27G2zxC3pDXppBjCfPUv0cwWiAU/lVFwWBhOOl5oLKkdjgdzUoFtXWzJ+HDpg8NC0eACIZvuOu+xtAc2qPNPqwks6mbovd6jqJdXNOurpMN/lCUvGCyVU1iqTc4LmSSIB+tBEa3Y0ZfNlabxPPSnJ913Zmt8MwFSjv4++719rOhZuqqTVGeYINI4llLCIY/j9bRX5CLdOCSIOF7ii1ernrrVc9gtjGrn9qoLmvG0Dqp2ezTDekYr+YRgOxqsZk+zAY5ELoveFq7SpW0sERo1ylN1WkbWVr5ABC7wydu7e2XxvUGwH6J/v5x2iiEZ9pjhN2cX47+SR7NwTWVtUs1vcLxdo1EctjkDjRhZ+onBoLKchIyfYf+wCeWYk8nVv6FUAuNqLQ0C29T5lIqyZTKNdSL7QqZ9VueFVi+dbSQJvArhzch2+xxw==;IkohEs1pasiQz1RI4BXH9w=="
 ---

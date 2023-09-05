@@ -56,24 +56,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Elon Musk says X will have voice and video calls"
-    excerpt: "SAN FRANCISCO >> Elon Musk said today that his social network X, formerly known as Twitter, will give users the ability to make voice and video calls on the platform. Musk, who has a history of making proclamations about coming features and policies that have not always come to fruition,"
-    publishedDateTime: 2023-08-31T18:30:00Z
-    webUrl: "https://www.staradvertiser.com/2023/08/31/breaking-news/elon-musk-says-x-will-have-voice-and-video-calls/"
-    type: article
-    provider:
-      name: Honolulu Star-Advertiser
-      domain: staradvertiser.com
-    quality: 4
-  - title: "Elon Musk says X will have voice and video calls and updates privacy policy"
-    excerpt: "The company also updated its privacy policies that will allow for the collection of biometric data and employment history, among other information."
-    publishedDateTime: 2023-08-31T18:44:00Z
-    webUrl: "https://www.cumnockchronicle.com/news/national/23759979.elon-musk-says-x-will-voice-video-calls-updates-privacy-policy/"
-    type: article
-    provider:
-      name: cumnockchronicle.com
-      domain: cumnockchronicle.com
-    quality: 2
 
 secured: "+VGs7lmbkz6ybJSuf+ePqJqdTE0nTJm2En5kt+Y4BSAWaCpD8WDkZZ0b+bec7+NwekU/UKwdrXyqDfmp8zgKKW1BR98oBaK/kZQKz9XKcdVZ20lRBDwT/EsjqDndH3Fn8kToSZaxokaaLtxB3S45m3UHMqeFwHARjo6+WpudXVcOatUkvD0JaZ0d0w4264nCm3cEBWck4ohxnzvH7cRkDJiF96KtEMw+Oq8LQpsrn1vrly2nByqagLxPSEhdGl6Eo9H3hj9h7QF7f/wTb0wHlW/6AkvPutwT4dEJ5V4++OoMvXFX/eeFJEbJk9GKLhJSAYKxetHxs1brs8V5fcecG/7r/SDaP4fjedg4FeboOBDi/rCNU7hWElVia+3sLhpLDijO1zkBjDKgkAIfLDsizbjQ5987hU5pJs2kMS12EjZvq/KG9VMzUy4+/2Fz7rddZnysMtmJ6KvcQlu1xEVXyN8yrZNUCshFM3zJXnYgNA8Ile56xAxBYCqkNw9Gn90yxGXyDgLMbqMmPZCkTi0SMA==;o9mjk7+V/8HFENzhr05Dcw=="
 ---

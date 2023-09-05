@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "12 Research Projects In Ai And Robotics Are Created By Saudi University Students At Kacst Labs"
-    excerpt: "In addition, the initiatives took on the challenge of developing the first robotic models and expanding technological solutions using advanced approaches and methodologies for the creation of AI models. They also evaluated and improved the linguistic models for the AI chatbot“ChatGPT” to make them compatible with regional content and Arabic."
-    publishedDateTime: 2023-08-31T17:35:00Z
-    webUrl: "https://menafn.com/1106991526/12-Research-Projects-In-Ai-And-Robotics-Are-Created-By-Saudi-University-Students-At-Kacst-Labs"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 57
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?511604"
-        width: 458
-        height: 250
-        isCached: true
   - title: "Unifonic unveils state-of-the-art AI at Seamless Saudi Arabia, elevating customer experiences to new heights"
     excerpt: "Unifonic, the Middle East's leading customer engagement platform, is proud to present its AI-powered Chatbot ... one of the largest events focusing on payments, fintech, retail, and eCommerce innovations, to showcase their game-changing platform and ..."
     publishedDateTime: 2023-09-04T11:20:00Z

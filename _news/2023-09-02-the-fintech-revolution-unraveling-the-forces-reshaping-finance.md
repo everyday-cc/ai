@@ -125,15 +125,6 @@ related:
         width: 2374
         height: 1263
         isCached: true
-  - title: "Agtech startup Labby shaping the future of the dairy industry by tackling testing | Luminate N.Y. Spotlight"
-    excerpt: "Labby, an Optical Sensing Agtech startup born out of the Massachusetts Institute of Technology (MIT), is creating on-farm milk testing technology that will help dairy farmers enhance profitability, improve animal health and welfare,"
-    publishedDateTime: 2023-08-31T18:38:00Z
-    webUrl: "https://rbj.net/2023/08/31/agtech-startup-labby-shaping-the-future-of-the-dairy-industry-by-tackling-testing/"
-    type: article
-    provider:
-      name: Rochester Business Journal
-      domain: rbj.net
-    quality: 0
   - title: "Unveiling the Top Fintech Trends: How Technology is Revolutionizing Financial Services"
     excerpt: "Are you ready to embark on a journey into the future of finance? From mobile banking to advanced algorithms, technology has been transforming the way we interact with money and manage our finances. In this blog post,"
     publishedDateTime: 2023-09-01T17:36:00Z

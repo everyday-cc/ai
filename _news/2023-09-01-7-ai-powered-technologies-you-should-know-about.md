@@ -58,15 +58,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Why Google Wants You to Smell This Article with AI"
-    excerpt: "“Your phone can easily share images and sound,” Joel Mainland, an olfactory researcher at the Monell Chemical Senses Center in Philadelphia, Pennsylvania, told The Daily Beast. “You can archive them and look at them over and over again without destroying them—but you can’t really do that with smells.”"
-    publishedDateTime: 2023-08-31T18:34:00Z
-    webUrl: "https://www.thedailybeast.com/a-google-startup-made-an-ai-that-describes-smells-better-than-humans"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 17
 
 secured: "gFMY8vswqZOj4Jc7ZnfGqs9qQUA5Z6+U1N3OxI5F0N+Qd7yesfgHnwofeN/3DEs9tlaKXWFEOtu6t+qyRONz8bU33hx+MSoyhpjgJEqgAnvr9GJoj6lSoGxkIsmbZd9QAmFxyGpr9tvq2RGeLzLiCad9/LcaXWb43zs5BYl0ipkxbe0EIJ54+PUYYT1YPmQ6r6N5eca84LpoXHLHvF4JptxOQVfJdoXzrLS2OZ6obFMgidNhW5TQ2LAj4/tzONi/C5z22vmpfiGqYdGY0kexfl1wCZbAEQi+QvAYDL0Mx93OXyBfm1IUfFc5LGA/elAlKtOTF3vFN0Y8vCBCFRJCikQDrId3cWhkJHfpVh9i7WULDC7YjZ5yz5eYjZhEVKqRF2xGI+2ECqBi3KzdjxjqjRRCygxrbgC6EXOl+USsQyDXIJa6eVvVM0CPZkq9JpFFauvTnyHWK92Hvgv6BOe11La8Pfqq7j+/vnTZxucGjY4MlkXhk8OYSi5RKO4XMHgwr+miiFaXtETxCa7c9pStsQ==;WXV2r9v572Vc31VnKrsn1w=="
 ---

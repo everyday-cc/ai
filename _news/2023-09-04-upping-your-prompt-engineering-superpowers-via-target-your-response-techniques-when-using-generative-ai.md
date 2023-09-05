@@ -46,15 +46,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Use Amazon SageMaker Model Card sharing to improve model governance"
-    excerpt: "One of the tools available as part of the ML governance is Amazon SageMaker Model Cards, which has the capability to create a single source of truth for model information by centralizing and standardizing documentation throughout the model lifecycle. SageMaker model cards enable you to standardize how"
-    publishedDateTime: 2023-08-31T18:11:14Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-model-card-sharing-to-improve-model-governance/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 69
   - title: "In the absence of clear rules, students using AI don't know if they're cheating: survey"
     excerpt: "More than half of students over 18 have used generative AI to complete their school work or pass an exam, despite 60 per cent feeling that it constitutes cheating, according to a recent survey by business consulting firm KPMG."
     publishedDateTime: 2023-08-31T20:49:00Z

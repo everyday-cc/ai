@@ -51,15 +51,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Use Amazon SageMaker Model Card sharing to improve model governance"
-    excerpt: "One of the tools available as part of the ML governance is Amazon SageMaker Model Cards, which has the capability to create a single source of truth for model information by centralizing and standardizing documentation throughout the model lifecycle. SageMaker model cards enable you to standardize how"
-    publishedDateTime: 2023-08-31T18:11:14Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-model-card-sharing-to-improve-model-governance/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 69
 
 secured: "Na23JWd7hRs700OE0qTlwTYiCHqYUL21zkcu5SFTaUMEjL/r29KMmcKqkOC2twCZ1gY/T5bMV0AxJKnX/LL+zkW5ZtMOlGbKKqEzZEXytwL1C1EKOJhNkvrz4RE+/2+s2nNFGpCPYo9DDbdot+H4JU8GxPtjzc6w1V+MRXCYR1G+k4/als7B5IGkRGZUIUYcbNGzfrltc2jgueqNTJhV00CQsbZoUqV+0358if9IJW64uO/WON/3c1RNgi14fgO/XiafZQOcvZMxpgBWv90Wc4eJbVoVytJhTVZOio7VQYXzd9cFgdVVbkEycLyFk/JatCdAHi9GsOLmvwziWY7LZ+dgUDHJhQEzl+KvnZd7sA2WiCpu86DdaoTtEz5QUz//3OvppS6Pk11QbFFMPdHCjffYonlKL8IlZ6QsOOUs2sSFpxqNTtN1uZkW9O+UfRDxaM6Yu1+83f3KXl64Q3Rpwil7+LtHUmeRtBG1D4hfre0F4G1OJGZD/9VrLyC3EhRzZvgCq/GwIKjxpYgA1tR2mQ==;+DkAj6sWSYR0gOJ94p3EpQ=="
 ---
