@@ -1,31 +1,23 @@
 ---
 category: news
 title: "Former Intel Exec Joins Untether AI as President to Drive Commercial Efforts in the Burgeoning AI Acceleration Market"
-excerpt: "Chris Walker brings deep expertise in semiconductor business leadership and ecosystem development: joining the AI chip company as it scales to bring energy efficient AI inference to the edge and cloud Today, Untether AI ®, the leader in energy-centric AI ..."
-publishedDateTime: 2023-09-05T15:26:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/09/b34239936/former-intel-exec-joins-untether-ai-as-president-to-drive-commercial-efforts-in-the-burgeoning-ai-"
-webUrl: "https://www.benzinga.com/pressreleases/23/09/b34239936/former-intel-exec-joins-untether-ai-as-president-to-drive-commercial-efforts-in-the-burgeoning-ai-"
-ampWebUrl: "https://www.benzinga.com/amp/content/34239936"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34239936"
+excerpt: "View the full release here:  \"Untether AI has been growing at a rapid pace and Chris brings unique experience, growing world-leading chip businesses at the highest level,\" said Arun Iyengar, Untether AI CEO."
+publishedDateTime: 2023-09-05T16:45:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/09/05/9874889.htm"
+webUrl: "https://it.tmcnet.com/news/2023/09/05/9874889.htm"
 type: article
-quality: 36
-heat: 36
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "08ax6exSqfncc9RS/sJRBDTk5c4YQM47Gtg81nXp2HTx7I6vxhOV7I2OgEzh+GBYX3/OCD9fK9pBbTg8bvJfqP0v5/Euvc99IT8KPznEpDAxWfF9rdYhbXw3hZdJs+vCKS1JUKEYURz4ZBGqBk/BgqJ9CSRx7tqJUUVf6Aps7vAry3X4XZkhID+RdRYt1ySlbMe3jpx+Gl7WTrO5mNIb1c2sNR/nAHI3KITQ6uc6pwoG+v4fvgNuP2s6gpl1Ons7vwPL3t8lOvwD1ljhtcP255Qw/nAqMVZ5KCjar7qDm+Krt/FvnxB/l0aZ3wYiYH2gCOppdi7XRafX9gNp/vZdPUPisDtzXU4UE5gxOrXfFt8=;gGVtrNS/JMpwu/xUXXmYsA=="
+secured: "hpaMOyHgebOn90kugDuJ0uetFf8v2f5rhObLvtV09uicTC3sL0QX4badJEdAHtpmWrtZs/2XJDc0TUC/WeZ3h22byiflYGVX9U0Dubbcm14LtKY2OwCz6Y/ZbDTtpRifpc6n2iBp7l5DM3cuIFG5yOWBsp5cx4W8qWkbPCZdq5yMKF3GCV8s9NYBcnwjzzlKZcGruwCknyqWoqoYp0++AVPERBIHYQ8xGtjtcz7WwUNR8UbmMU2Iyb/TxuQ/nw2DXGw1GmULS+7HUatRoMW4nGX+JV2KELUVE8lsEx+8ytUr4yauR1neIQkZwkOONZuUEuaqqT1MpqMicsu7c8PN79xEet+bdKSVL4z5BA6eC/c=;45K3j7DhBRdZY2UT+1NLTw=="
 ---
 

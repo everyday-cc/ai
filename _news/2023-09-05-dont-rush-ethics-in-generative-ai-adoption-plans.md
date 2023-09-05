@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Don’t Rush Ethics in Generative AI Adoption Plans"
+title: "Don’t rush ethics in generative AI adoption plans"
 excerpt: "Even when leaders feel the pressure to adopt generative AI quickly, ethical frameworks and use case policies should guide their plans."
-publishedDateTime: 2023-09-05T16:00:00Z
-originalUrl: "https://www.cfo.com/news/ethics-generative-ai-adoption-plans-mckinsey-Frank-Buytendijk-gartner/692686/"
-webUrl: "https://www.cfo.com/news/ethics-generative-ai-adoption-plans-mckinsey-Frank-Buytendijk-gartner/692686/"
+publishedDateTime: 2023-09-05T12:58:00Z
+originalUrl: "https://www.ciodive.com/news/generative-AI-ethics-policy/692590/"
+webUrl: "https://www.ciodive.com/news/generative-AI-ethics-policy/692590/"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: CFO
-  domain: cfo.com
+  name: CIO Dive
+  domain: ciodive.com
 
 topics:
   - AI Ethics
   - AI
-
-images:
-  - url: "https://www.cfo.com/imgproxy/1dsMQtybfAosCg3llFv1sVtr8XgrcYHqEqkhfIsYtdE/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0OTAyNjE4NDJfUDVPMVMwMS5qcGc.jpg"
-    width: 770
-    height: 435
-    isCached: true
 
 related:
   - title: "What CTOs are learning from generative AI"
@@ -161,6 +155,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "PuOc8nNxRquH0rZbzaBBibfF4Ah9VcwXKEyaKcQCBDE2GPOq0+Mu2Tsig4EANRlNrd2JGbdhp9fm4O//laQzlGV5cqGcBHhBrVCgFGtAcyFf9uIuj2AL0jkJMo/MUQGQo4D1ZcC7N96piIBn4IEhp5dJI/zFFjoPWiwnAKSKQ5snCP2QGV4hxaqYpPULaOEJPQWv/TYiYXw0lA04ZmBWI1wGwWzfuIdZc6EvdfOP2uA8sO1nqn2XY6Peyq7ld7Y/KxczLVhBvydZKIbKh0i2b4JE5pZbjVQSeKH9hTpeETPJmS63jEV54l2lZONjHxLGczfe78dfPohfIUq8jCLL4kiUbtcobTtIEn8OLewZ/W4=;nIAzRbbHbTBV2Yxq3Rs+mw=="
+secured: "KQxfH8XW6VOY7kHmivp3nrbNvSfhNElCaY3ssJ8B5aO1ebGQcJwpfJQra4MhJRYKZA6SF2HGXcejNytiFdF+iJNAGKkf+K7lIhWDRjD+IFkgPygXU6FjOKGfv2ze5AHFK8JFfZ72szqnLEY6qJUgjcURasJNdCvE7OMF3kwGkz6+6SLbeboMZB95fo2OgrbJ25KdE5KJUDG3J3iUBbRMp1Vg3MS7PF8UVC5gN5CJHh0hxZVWaLy25aOAjW8MFHmDNq500+TaPKYJeuFfipanP6trMvD8CY8oEzi18GuUBl1lTyIUzjrkGYEeFvhJW/4p5rgDLZ9F8Ql4NwFYRw3m59yqQpch0YkInGK7nWQUhfI=;Gq+Lxte3arSEd06ISXOnDw=="
 ---
 

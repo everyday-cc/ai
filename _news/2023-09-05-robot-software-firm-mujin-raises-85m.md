@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/09/05/robot-software-firm-mujin-raises-8
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/05/robot-software-firm-mujin-raises-85m/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Mujin secures $85M in funding to simplify warehouse robotics"
+    excerpt: "companies don’t have to write custom code or train artificial intelligence models. The MujinController also promises to simplify warehouse operations in other ways. Different manufacturers provide different software tools for managing their robots."
+    publishedDateTime: 2023-09-05T21:37:00Z
+    webUrl: "https://siliconangle.com/2023/09/05/mujin-secures-85m-funding-simplify-warehouse-robotics/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Mujin.png"
+        width: 933
+        height: 519
+        isCached: true
   - title: "Japanese robotics startup Mujin secures $83M in series C for Europe expansion"
     excerpt: "Tokyo-based Mujin, the Japanese startup developing intelligent robotics solutions for ... by presenting the app combining the company’s own technology with the latest AI technology. The app is offered on a freemium basis, but if users choose a paid ..."
     publishedDateTime: 2023-09-05T11:45:00Z

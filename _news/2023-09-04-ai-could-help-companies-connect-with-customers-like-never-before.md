@@ -22,6 +22,17 @@ topics:
   - AI Ethics
   - AI
 
+related:
+  - title: "What If Artificial Intelligence Could Prevent a Potential Fall? This Connecticut Memory Care Community Says It Can."
+    excerpt: "\"AUGi will be a tremendous addition to our caregiving approach,\" said Lauren Stowell, Executive Director at Maplewood at Stony Hill. \"We embrace the capabilities of artificial intelligence as we strive to provide the best quality of life for our residents, which starts first and foremost with their safety.\""
+    publishedDateTime: 2023-09-05T18:14:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/09/05/9874993.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
 secured: "eHNB322Ok4IqLrRwDGSIuCdK9i2DandmeWNjfagl1+Adx8VyGOEhjLy04R8hwreBXeRZbyhtSj6f4XzwcQbQTz9ZBl1BdvmXFmeuILUnv++HFw90dPvZ8Zb+p0v9LY6g659/leMBG4cYOitF6Nfl2Do8ywdtKe7enh6cmiltCfz6ywW2YB7d4TioXtSfEMCqn+LXDbT0jZIsX/kWvNiSdkBqGWGGrsuqmkjc+rhTweaWs/JVjcKvhlj97ol6C2FsmjtP7NLv2a+tEiQNqQC7Z1iXs/hR1laCsm259t6Oxk+At4d4IUb9d8pQJnbl8sjgiEywZuGbmISsUG3SrXB2/jUL+2WGuutpXDbWvmlh+uHLsrXpQHg3wDQETzHR5L9geMLm7Ji5HGIVqy51954Q81BCJ66InxOmGNtpCWND4uVEVRFaLhqutdk94P8pWKY5vmhQnxqYymr2uQoA8oVMK3aGKcxRUrIRzk3mdynkdkpgH14DGPKh8VYx1cWEbbQQgBT/+bmU9oYqN7/EqC4KZw==;DYyDkpHMxzAY+UipGVr6kA=="
 ---
 

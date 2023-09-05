@@ -197,15 +197,6 @@ related:
       name: Slator
       domain: slator.com
     quality: 31
-  - title: "US should use chip leadership to enforce AI standards, Deep Mind co-founder says"
-    excerpt: "Mustafa Suleyman says sales of Nvidia chips that dominate artificial intelligence should be tied to safe use pledges"
-    publishedDateTime: 2023-09-01T04:00:00Z
-    webUrl: "https://www.ft.com/content/f828fef3-862c-4022-99d0-41efbc73db80"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 29
 
 secured: "XuF437Wl0qI2B1evvdZXTbeC6PvxH1eBqN7XSfunFXU+kVQO5I0WzWnl+KonWsP7s9z6OxoUci6M7LM0v795ZVIMysGGkArGA7NyjxyVxv0ZlHpdgQ6xh7MXeIkt/CqY/wfN2zTuLqPM/rkc3X4NYzRYSh+RSyR9ERhvjgpCYvtlO/DL5ZdXq9CXmkKXBg5k2vPSHd2gz/OELAJ81+LYQfL+vc/mmWBfnO8MCF6TOZWCzDtlYYbNcaEOgOLVbgJb7GxVEED10/FiJC4+yvw70QaOanzbqZNW/6e5tBz+4oIjVwRwYJZYiJp3cphajj8XrTDokWCgyj/6lhMCfPTuCXJUQJcWBwPs8UIehTCVJ9dQbGUSnEm8gIOp+R58UFzPvHDDFL9s/4QoDDdBOCuuyCK1jXG/q7dcaF6gA3ZdsDZvzBQZDdtv8lmV68Br02hcwR+xi+U/2prOkSSODzkzvI7GyEIq0o6gTegdSROOp78Ls2yMiTlGOgjRifO3Ld3ZGfIhIrcxB6fJGGdQgNwPmQ==;Sb/LWCCljncRP42uFVKS9Q=="
 ---

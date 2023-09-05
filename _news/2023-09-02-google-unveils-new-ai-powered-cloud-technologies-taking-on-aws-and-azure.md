@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/stevendickens/2023/09/01/google-unvei
 webUrl: "https://www.forbes.com/sites/stevendickens/2023/09/01/google-unveils-new-ai-powered-cloud-technologies-taking-on-aws-and-azure/"
 type: article
 quality: 80
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -24,20 +24,6 @@ topics:
   - AWS AI
 
 related:
-  - title: "AI moves by Google Cloud raise interest in what AWS will deliver next"
-    excerpt: "As the undisputed leader in cloud computing for more than two decades, Amazon Web Services Inc. has the potential to wield enormous clout in the emerging AI market. But the cloud narrative in AI so far has been shaped by Microsoft Corp. and, more recently, Google LLC. What happened to AWS?"
-    publishedDateTime: 2023-09-01T03:07:00Z
-    webUrl: "https://siliconangle.com/2023/08/31/ai-moves-by-google-cloud-raise-interest-in-what-aws-will-deliver-next-googlecloudnext/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 56
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/Dustin-Kirkland-John-Furrier-Sarbjeet-Johal-Rob-Strechay-theCUBE-Google-Cloud-Next.jpg"
-        width: 977
-        height: 651
-        isCached: true
   - title: "Google adding AI tools to cloud"
     excerpt: "Google's cloud clients will be able to access Meta's Llama 2 large language model, as well as AI startup Anthropic's Claude 2 chatbot, to customize with enterprise data for their own apps and services. The move, announced last week at Google's Next '23 ..."
     publishedDateTime: 2023-09-03T07:01:00Z

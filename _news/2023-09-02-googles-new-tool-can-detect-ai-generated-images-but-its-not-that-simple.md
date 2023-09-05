@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/googles-new-tool-can-detect
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-new-tool-can-detect-ai-generated-images-but-its-not-that-simple/"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Attorneys General from all 50 states urge Congress to help fight AI-generated CSAM"
+    excerpt: "The attorneys general from all 50 states have banned together and sent an open letter to Congress, asking for increased protective measures against AI-enhanced child sexual abuse images."
+    publishedDateTime: 2023-09-05T18:54:00Z
+    webUrl: "https://www.engadget.com/attorneys-general-from-all-50-states-urge-congress-to-help-fight-ai-generated-csam-184938825.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 41
   - title: "New Meta, Google tools detect AI-generated images"
     excerpt: "The tech giants release tools to identify synthetic images and combat AI-related discrimination for more responsible use."
     publishedDateTime: 2023-09-01T13:11:00Z

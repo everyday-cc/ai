@@ -71,24 +71,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "3 Up-and-Coming Fintech Stocks to Put on Your Must-Buy List"
-    excerpt: "And as artificial intelligence (AI) continues to expand, it’s time to look at fintech stocks with huge potential. Similar to the AI sector, there is no shortage of names in the fintech space. However, some of these names are flying under the radar even ..."
-    publishedDateTime: 2023-09-01T04:03:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-fintech-stocks-with-huge-potential-for-growth-1032598105"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
-  - title: "Fintech’s Bright Future: 3 Stocks Set to Skyrocket in 2024"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The fintech sector, which provides investors with exposure to a blend of"
-    publishedDateTime: 2023-09-01T01:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/fintechs-bright-future-3-stocks-set-to-skyrocket-in-2024-1032598018"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "You Don't Have to Pick a Winner in Fintech. Here's Why."
     excerpt: "Artificial intelligence (AI) is on every investor's mind these days ... As you can see, there are lots of ways to gain direct exposure to the fintech sector. Investors who prioritize safety and thus want less risky options can look at Visa and Mastercard."
     publishedDateTime: 2023-09-05T06:26:00Z

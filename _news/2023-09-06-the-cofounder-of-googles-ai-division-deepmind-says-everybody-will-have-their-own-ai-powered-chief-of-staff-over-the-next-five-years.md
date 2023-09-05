@@ -187,15 +187,6 @@ related:
       name: Slator
       domain: slator.com
     quality: 31
-  - title: "US should use chip leadership to enforce AI standards, Deep Mind co-founder says"
-    excerpt: "Mustafa Suleyman says sales of Nvidia chips that dominate artificial intelligence should be tied to safe use pledges"
-    publishedDateTime: 2023-09-01T04:00:00Z
-    webUrl: "https://www.ft.com/content/f828fef3-862c-4022-99d0-41efbc73db80"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 29
   - title: "U.S. should use Nvidia’s powerful chips as a ‘chokepoint’ to force adoption of A.I. rules, DeepMind cofounder Mustafa Suleyman says"
     excerpt: "That makes the company’s products “an incredibly practical chokepoint that would allow the U.S. to impose itself on all other actors” in A.I., Mustafa Suleyman, cofounder of DeepMind and Inflection AI, told the Financial Times in an interview ..."
     publishedDateTime: 2023-09-04T14:07:00Z
@@ -211,6 +202,6 @@ related:
         height: 800
         isCached: true
 
-secured: "K4xhEQ8aOqvVa9y/Ax5kqx9ccPo/R73mkiCsman657CT6tiOgTCYSsG0apzRdYZhAOmnE+XTaKM6UWArEytcFAX2953bckBWFBFxYwX/N5GV9jQDN9HhVBBhUT5Csx3ulrCHwRGFaaSzdl7h1GkqbUIBEtAGwIugCJmveTS5tzhOVI4jr3mTnboX2W/e3VTSKd2yy+HUlAEX8tnNhlxXnqCuTM4ZInrm4u7eZ4GNpM7qh6JRha6Aon8QcRdLiCJdeD5Wra8RWgeV3wQGndRsLTvwyzEnDmkexeUr/waYWZ4U/TEVG7sHGDl20X6ydNxGczjZzoCd9NhFPYYAo7ThemhD+AkpTys+aoAgPgaUxeI=;mYFd1Fo+D+hSMmugFtsOQA=="
+secured: "qkWYdRue4iAqcTepevv6sLon50gQrSQPAI5ko8avYtr4DyKCICqQT7y/D3TcH7OAv7dRQDOCngAZ/yW2E5/obkRKhVNzrBTNusBM0P8P3ykSJVDyzqAhm6z/c6K3LvkPcREIrjp/95sYJ7OhXqJbYzBGsB7o0u7OEI2NBs268J24NcMheToiqScBZanPbH5oljjunrqB5DnjpNnAj49DNvz6NRL9I4gz8O/Lr/Ij8gztKX19Wwmvze2BM7x1F44e1YrffGEnnv+/Xr0J0jXL5H3YH/7l6trUfnsWNnXSnOSViQ5kwfLmdyZNiOkFx4Bj3w/Uixt9JpOhZilUZwWwQqMcvF9bnGE15LL5Uol0PfAblLvWya8q0/H7e5hSkXXKxYGxc5BJ6WgOTyflTn6VGqKKuAvdobYfFaWD2H1YgmXuko5+3SU+MxKyd0JjYo7tGHgD2NM5tifINq6W4cqeoi3bLzyGxlMfhaySFhNXpqZ5I9TAuQ+MtAdUyEodUMXJ8LpgEWNIp0grNg2j2oC7Iw==;fHguEI/2tpQ7QZ8LwCmXnA=="
 ---
 

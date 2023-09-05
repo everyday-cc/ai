@@ -9,7 +9,7 @@ ampWebUrl: "https://theprint.in/theprint-valuead-initiative/fintech-outsourcing-
 cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/theprint-valuead-initiative/fintech-outsourcing-india-crafting-the-future-of-global-finance-with-tech-mastery/1747072/?amp"
 type: article
 quality: 53
-heat: 133
+heat: 113
 published: true
 
 provider:
@@ -57,24 +57,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "3 Up-and-Coming Fintech Stocks to Put on Your Must-Buy List"
-    excerpt: "And as artificial intelligence (AI) continues to expand, it’s time to look at fintech stocks with huge potential. Similar to the AI sector, there is no shortage of names in the fintech space. However, some of these names are flying under the radar even ..."
-    publishedDateTime: 2023-09-01T04:03:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-fintech-stocks-with-huge-potential-for-growth-1032598105"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
-  - title: "Fintech’s Bright Future: 3 Stocks Set to Skyrocket in 2024"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The fintech sector, which provides investors with exposure to a blend of"
-    publishedDateTime: 2023-09-01T01:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/fintechs-bright-future-3-stocks-set-to-skyrocket-in-2024-1032598018"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "Relevantz: Driving fintech innovation with Fiserv"
     excerpt: "Senior Director of Client Success at Relevantz, Georgie John, traces his time at the service provider and the importance of its partnership with Fiserv"
     publishedDateTime: 2023-09-04T14:31:00Z

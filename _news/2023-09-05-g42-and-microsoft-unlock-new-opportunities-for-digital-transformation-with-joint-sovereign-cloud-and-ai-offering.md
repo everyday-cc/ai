@@ -2,29 +2,25 @@
 category: news
 title: "G42 and Microsoft unlock new opportunities for digital transformation with joint sovereign cloud and AI offering"
 excerpt: "Microsoft's sovereign cloud offering public sector and regulated industries to use new platform capabilities for securing access to the latest cloud and AI features available on Azure public cloud and helping local privacy and regulatory requirements."
-publishedDateTime: 2023-09-05T16:45:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/09/n34244807/g42-and-microsoft-unlock-new-opportunities-for-digital-transformation-with-joint-sovereign-cloud-a"
-webUrl: "https://www.benzinga.com/pressreleases/23/09/n34244807/g42-and-microsoft-unlock-new-opportunities-for-digital-transformation-with-joint-sovereign-cloud-a"
-ampWebUrl: "https://www.benzinga.com/amp/content/34244807"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34244807"
+publishedDateTime: 2023-09-05T16:43:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/g42-and-microsoft-unlock-new-opportunities-for-digital-transformation-with-joint-sovereign-cloud-and-ai-offering-1032606400"
+webUrl: "https://markets.businessinsider.com/news/stocks/g42-and-microsoft-unlock-new-opportunities-for-digital-transformation-with-joint-sovereign-cloud-and-ai-offering-1032606400"
 type: article
-quality: 53
+quality: 43
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
 
 related:
   - title: "Everything we're expecting at Microsoft's Surface and AI September event"
@@ -130,20 +126,6 @@ related:
         width: 821
         height: 463
         isCached: true
-  - title: "Microsoft enters partnership to build AI for large datasets"
-    excerpt: "The global software giant is offering Synthetiac up to 1 million hours of cloud computing resources to accelerate the development of new tools for searching massive amounts of unstructured data."
-    publishedDateTime: 2023-09-01T04:00:00Z
-    webUrl: "https://www.nextgov.com/artificial-intelligence/2023/09/microsoft-enters-partnership-build-ai-large-datasets/389923/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 54
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2023/08/31/AIMicrosoftWT20230830/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Microsoft expands UAE's G42 partnership to include cloud, AI tools"
     excerpt: "\"With data privacy, security, and compliance as our core priorities, we have a unique opportunity to help organizations responsibly innovate,\" Microsoft Chief Commercial Officer Judson Althoff said"
     publishedDateTime: 2023-09-05T14:10:00Z
@@ -217,6 +199,6 @@ related:
       domain: pcgamer.com
     quality: 4
 
-secured: "pqLGUyS6n9d0/dHEUTmiUb1eSdjfTgXF4NmCwfKb1h0tS1XkCs8kBb1DAb7vMuGFFhIbn6iutvTscYLAe4FPMc6C7fXyGQ0Z2Kki9FP5THJT9Xljlc31Cv9QcFuqnHPvdjdgY2WswRXsWi0+n0uOKmbaNwSxqTYOHlvUNM0dAmf374GoaDqoYjV9pAxUwSRtVxBfOoYhSC1FT30XPxxtdp2CSZGzeR6LxiBKGVfXtz70bE3afGY3Ug6mkU8/wDrc1Kk+cfb34SeY8KF6A534IJcUHtA1gjNZJCKt3pV17o3tuwZDeN4lD5zQWV/uqBHyUNmQIy8R5btmCmWG1517lFSw6UduPpw2kJNqBO5WmxY=;qI0gE2FtWclfqJAei/u4nw=="
+secured: "HznZvaq7fsKMqJYxLr7xZzh6rtx5k3/PKcY0ierqNOvLELbELuipf+wsC5upBh6555uYlEBNqYCm5KZeiirnCGm7FKEE7YShVJ63TudDv+kC8scwyf8j1Pmd8+KLNnIIwMG5RmCzCV4wJbSrlOb+ipbtRWab8gfSagViXz88ZSPxZQgcV1LVr5oRTHs7yj9kTbqV5m//mRjUW56VLAbTXGWo+Dc+IU/QqyvR/CQAH6Qxn3ZVv+eGQKRuPopnVwauZzfuSrfaYtftCXpkvibeNBJpa8FdE15F7fPBz55EwU4cwcQJNQRByWUOBmZ4vFFvSawkGI/5ygVvqOj4Wx2ZJ95ObrrJ07GKvl2QzoBVZFc=;e2ZIwk9gaOt0jYawhXhPZw=="
 ---
 

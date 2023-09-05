@@ -39,6 +39,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Larger healthcare companies hold AI advantage, Morgan Stanley says"
+    excerpt: "AI, with budgets expected to increase from 5.7% to 10.5% by 2024. Research shows that only 24% of medical devices use"
+    publishedDateTime: 2023-09-05T18:12:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-health/larger-healthcare-companies-hold-ai-advantage-morgan-stanley-says.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 34
 
 secured: "Zg7eJ+xAmXY+Uzd3iHpBWLBFE+74uSl3AZOUW4/9fcIwj5VEKtnKwXo/MdxTGKYlgCK7I5zjvUGle4weSmxIoBwibOfCh4TH1lzu0YDANdeB6N8VOa0dn9DBOG6DMOXZqCdgqAVTJdDJ5sAbKhHCrylIUG+SXPavK9xo9dcRFVwq+p1SrChKfNFgSxMe/IhYY4NLIU0rCKgE0KOPEm/Q8HEFzl5sI5HcxP2eKJdZXbyWU/1RqWdg4nmfdbLQ5+ztLNOZjWdm87MLtD7IKizHO5tvtXI0MCgwkTSgW8plgnPPHbO38nq/RGFwWInN5kkgwS4PgoDjBfPTwlOU1dkmUMjFf+TQ2UhXuxr3mH8TtR4=;rR2U8egU6uaZR28IlhqRZw=="
 ---

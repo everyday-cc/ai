@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gadgetsnow.com/tech-news/google-deepmind-co-founder-want
 cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/google-deepmind-co-founder-wants-us-to-link-ai-chip-sales-to-minimum-artificial-intelligence-standards/amp_articleshow/103290407.cms"
 type: article
 quality: 107
-heat: 247
+heat: 237
 published: true
 
 provider:
@@ -185,15 +185,6 @@ related:
       name: Slator
       domain: slator.com
     quality: 31
-  - title: "US should use chip leadership to enforce AI standards, Deep Mind co-founder says"
-    excerpt: "Mustafa Suleyman says sales of Nvidia chips that dominate artificial intelligence should be tied to safe use pledges"
-    publishedDateTime: 2023-09-01T04:00:00Z
-    webUrl: "https://www.ft.com/content/f828fef3-862c-4022-99d0-41efbc73db80"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 29
   - title: "U.S. should use Nvidia’s powerful chips as a ‘chokepoint’ to force adoption of A.I. rules, DeepMind cofounder Mustafa Suleyman says"
     excerpt: "That makes the company’s products “an incredibly practical chokepoint that would allow the U.S. to impose itself on all other actors” in A.I., Mustafa Suleyman, cofounder of DeepMind and Inflection AI, told the Financial Times in an interview ..."
     publishedDateTime: 2023-09-04T14:07:00Z

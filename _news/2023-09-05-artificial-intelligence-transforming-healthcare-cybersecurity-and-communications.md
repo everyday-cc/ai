@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/chuckbrooks/2023/09/04/artificial-intel
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2023/09/04/artificial-intelligence-transforming-healthcare-cybersecurity-and-communications/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 49
+  - title: "Employing Generative AI: Unpacking the Cybersecurity Implications of Generative AI Tools"
+    excerpt: "It’s fair to say that generative AI has now caught the attention of every boardroom and business leader in the land. Once a fringe technology that was difficult to wield, much less master, the doors to generative AI have now been thrown wide open thanks to applications such as ChatGPT or DALL-E."
+    publishedDateTime: 2023-09-05T18:40:00Z
+    webUrl: "https://www.unite.ai/employing-generative-ai-unpacking-the-cybersecurity-implications-of-generative-ai-tools/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 8
 
 secured: "8V/na6Ul+/DRLim9ilgag2iPzILztc5Xt80mTwkph2R/GK5BUaz9qdlpvq53mVeGpBJU4a1m8qfkNNjcgyk59zPIgOn15Jg+e8NoYCgO6B+vLpiRE8idVqp7rrCIG6E3PuWLCG0UMtIBn/SKyE4n1KhnchhMuLBtpfuqIpwJyei4IG8dpE275gpyF9YtPYqcyFMYX5XEAZJpd7mZ2U+SKOXjEktmOepa43vlY3j5Y4sdrKOsHQ4YcjEmBUOXOMng4SmgZDZ3QVfuujmhf0yDMtEON/SUrE7HPkJ5tigv3XMDu+NMg1Ntu/9wlccsLivd72JbhcspkxcbS5DGHwnbHbwSEQXCyqCnk1kDk2mdmTnwH9l2c5ZGJqzNFlhYgOWVV1N5bqcvi/PxidRoIvx+PQencb9O/BJvywC7CPFkTau+yxtcKmbSSowBOyBURqUN7khl4g9DrMDUrXhblSU40F21FKzVF/QE6N0tHpid1AvBKNx5zfZ8+hEbJRgVgbDHCWXKphVdYwb28dqz7DOGjg==;GMu3mSupjJP5280D+lM2kQ=="
 ---

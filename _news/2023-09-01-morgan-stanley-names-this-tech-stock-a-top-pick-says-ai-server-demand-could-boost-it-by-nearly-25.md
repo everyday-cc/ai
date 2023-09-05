@@ -7,8 +7,8 @@ originalUrl: "https://www.cnbc.com/2023/09/01/ai-server-demand-could-boost-this-
 webUrl: "https://www.cnbc.com/2023/09/01/ai-server-demand-could-boost-this-stock-nearly-25percent-morgan-stanley-says.html"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: CNBC
@@ -42,6 +42,15 @@ related:
         width: 700
         height: 369
         isCached: true
+  - title: "Larger healthcare companies hold AI advantage, Morgan Stanley says"
+    excerpt: "AI, with budgets expected to increase from 5.7% to 10.5% by 2024. Research shows that only 24% of medical devices use"
+    publishedDateTime: 2023-09-05T18:12:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-health/larger-healthcare-companies-hold-ai-advantage-morgan-stanley-says.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 34
 
 secured: "WJ1krHgJ/HBv42iPLrWsCz9LsmWBn7sDF1j7ZVgYuVwsEBT/Q8HF/h3xSv6XUHOXz3wUA9kh6RN6uH9e/s0gx8qykdiVcAhxR3uNR1J31n0LilYIwCql3DFsduMtZKSFXuWVR57Jjs41OAK3mGpNXZj4GtJos7BrrFJL/+CDPmJ2Oy8qH3hBwT8eNig+EhbqkQ0ylHyhLcEaC+a0gDTVxPyTD+BG3BcQeZOGkWwHSuXUE0bxrlfrHsckfLYK3JWFGjqUzLKtMzbyP0hlfJsWz2GKc69pNS8szpaf4hAMiWtluhujig8U4ZEnjuJw5U49Xx9t4DE/aOKESnZQC+4XxjHFg0CCNdhN0fzFWlYjWHW8D/uxdLB78CKjffNewW4IobF0Le4qtyhkD1RUfQm/6y5rZX9bhuNAAcqyOBMMac+2SKwZjlyMDHBejsenHYjrZYJVeZZ8Uc+ODIq/iEPnL+wJakEpBiSBuFHa7flA23KXWfPAeeAlEYB6AvA6uYcSb5bkVnMD6jnveQ7EJRMILQ==;h6/a4MfZlwwNcoBazJaSDg=="
 ---

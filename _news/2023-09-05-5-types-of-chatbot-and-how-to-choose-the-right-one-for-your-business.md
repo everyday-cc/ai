@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/chatbot-types/"
 webUrl: "https://www.ibm.com/blog/chatbot-types/"
 type: article
 quality: 82
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -49,20 +49,6 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/Easily-build-AI-chatbots-using-TextBase.jpg"
         width: 700
         height: 466
-        isCached: true
-  - title: "Weizenbaum’s nightmares: how the inventor of the first chatbot turned against AI – podcast"
-    excerpt: "Computer scientist Joseph Weizenbaum was there at the dawn of artificial intelligence – but he was also adamant that we must never confuse computers with humans"
-    publishedDateTime: 2023-09-01T03:00:00Z
-    webUrl: "https://www.theguardian.com/news/audio/2023/sep/01/weizenbaums-nightmares-how-the-inventor-of-the-first-chatbot-turned-against-ai-podcast"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 27
-    images:
-      - url: "https://i.guim.co.uk/img/media/dca031b14d57615a9150621514d3fe2c7539fd43/0_154_3188_1912/master/3188.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=59c7a54d5b75f914441308d6827fdbcc"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Bad Idea AI Announces Listing on MEXC Exchange and Revolutionary AI Chatbot"
     excerpt: "Collaborative Decision-Making: AI and DAO The decision to list on MEXC ... with Shibacals to produce unique figurines and clothing wear, complete with NFC chips that serve as certificates of authenticity and offer post-purchase delights like VIP NFT ..."

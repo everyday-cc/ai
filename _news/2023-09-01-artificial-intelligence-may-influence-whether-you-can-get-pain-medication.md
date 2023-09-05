@@ -47,6 +47,17 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Artificial intelligence may influence whether you can get pain medication"
+    excerpt: "Artificial intelligence is working its way into more parts of American life. As AI spreads within the health care landscape, it brings familiar concerns of bias and accuracy and whether government regulation can keep up with rapidly advancing technology."
+    publishedDateTime: 2023-09-05T21:42:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/artificial-intelligence-may-influence-whether-you-can-get-pain-medication/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/artificial-intelligence-may-influence-whether-you-can-get-pain-medication/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/artificial-intelligence-may-influence-whether-you-can-get-pain-medication/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 51
   - title: "AI May Influence Who Can Get or Prescribe Pain Medication"
     excerpt: "Share on Facebook. Opens in a new tab or window Share on Twitter ... but the mechanics behind the formulas used are generally not shared with the public. Artificial intelligence (AI) is working its way into more parts of American life."
     publishedDateTime: 2023-09-03T18:01:00Z

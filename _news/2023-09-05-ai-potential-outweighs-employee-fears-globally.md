@@ -24,22 +24,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "Industry weighs potential of AI-designed watches"
-    excerpt: "Industry weighs potential of AI-designed watches on linkedin (opens in a new window)"
-    publishedDateTime: 2023-09-01T03:00:00Z
-    webUrl: "https://www.ft.com/content/1891d9ae-3ef5-4907-a66b-9174f35a1584"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/markets.jpg"
-        width: 619
-        height: 376
-        isCached: true
-
 secured: "t2w31tYXNaRh6zL3U7K4YUR6AUOFni9CGI2ZPrce1G6JM4pl4rrJzT9rhI6ADee9hxPCGvFiR54ufcpoko7mItr2W8Xy1JF/7Lh4Gl6NQEBB5zkrxtwYff98ROg7YjYd/G+2dwsxecjo8y3A4capIinXBHKVmfJem0xbC08O3LodO5hoBJ65fzPbmd01wCOldcIJHUP+i2CE1kpuTj/m+vaOh59YixYi+3+VNYG/zHfsR5cReVvEhayK4TVGXj9svQTzGrQoo0oda5scaZtOplgwHyfmi/0Zpw36n//EnREBLdiPCKiyuoZOwvc82ytBJxB0IJr+3uFEotXlmlg1thi51khhZydlQh5Cv5h3kmM=;iN+4h52RY6eBi1KL2X9d7w=="
 ---
 

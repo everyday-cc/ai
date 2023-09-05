@@ -53,6 +53,15 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 49
+  - title: "Employing Generative AI: Unpacking the Cybersecurity Implications of Generative AI Tools"
+    excerpt: "It’s fair to say that generative AI has now caught the attention of every boardroom and business leader in the land. Once a fringe technology that was difficult to wield, much less master, the doors to generative AI have now been thrown wide open thanks to applications such as ChatGPT or DALL-E."
+    publishedDateTime: 2023-09-05T18:40:00Z
+    webUrl: "https://www.unite.ai/employing-generative-ai-unpacking-the-cybersecurity-implications-of-generative-ai-tools/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 8
 
 secured: "inMWSfQ3HW7VJUB9mTmPtw8jzPG6xSAHE9b6MjCUvsLvrQVGb9lpjbK9RhBZZGwSGJtwR6B4NZg+eoxdaoYSitEunZM7lBCfaFePsD73c5HudqWVCt3I/qC3tw+Uoil9QNbe+5HRMbGDelv1DK2q+DozDwWCh8tvpQmB62L4Tg8eh4TD5QPdx1K18EQN3r4S4Isr1T6K2upt/EPYlwgtH6SQn5vNKwp9fLEjS+YeJ0TBXv8yNLpWpXc/87KZVPA2wFa+ZcFo06xERUckzMTACynGeYQgHkso6nX/QVxZYFOfj3qkRxPHINmqK17I38XhHLDSU6xnIw8Dq4GHzBGun73Ipgkugw8ba/7ImoqxULBsvy7a0V+qQWRQ23mrfbMTLvLqIrC5Mf+qbBRBQ+2KGwTtONZxPVQ1TnQ/G8rXo4+7JX6H7MwQTRbReV6UxIiPdAvyFrcBor3RAt7GvK6cQQLLJOkunLDXhZHkJc2RB384By2RX6XxgM6Z6vAntxY7eEKXO/MDjLAkIJG6ObCQcg==;CovEWFkUOvpcB5MLuHUW3g=="
 ---

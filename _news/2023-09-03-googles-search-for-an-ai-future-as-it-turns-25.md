@@ -2,28 +2,21 @@
 category: news
 title: "Google's search for an AI future as it turns 25"
 excerpt: "Google turns 25 this month (I'll have a few more candles on my cake) - and finds itself in a tech landscape that has changed dramatically since founders Larry Page and Sergey Brin started it in 1998."
-publishedDateTime: 2023-09-02T23:41:00Z
-originalUrl: "https://www.bbc.co.uk/news/technology-66659361?at_campaign=Social_Flow&at_campaign_type=owned&at_bbc_team=editorial&at_link_origin=BBC_Scotland_News&at_format=link&at_link_id=FC87641C-4A43-11EE-9E4C-2787AD7C7D13&at_link_type=web_link&at_ptr_name=facebook_page&at_medium=social"
-webUrl: "https://www.bbc.co.uk/news/technology-66659361?at_campaign=Social_Flow&at_campaign_type=owned&at_bbc_team=editorial&at_link_origin=BBC_Scotland_News&at_format=link&at_link_id=FC87641C-4A43-11EE-9E4C-2787AD7C7D13&at_link_type=web_link&at_ptr_name=facebook_page&at_medium=social"
-ampWebUrl: "https://www.bbc.co.uk/news/technology-66659361.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-66659361.amp"
+publishedDateTime: 2023-09-03T09:11:00Z
+originalUrl: "https://www.daily-sun.com/post/710063/Googles-search-for-an-AI-future-as-it-turns-25"
+webUrl: "https://www.daily-sun.com/post/710063/Googles-search-for-an-AI-future-as-it-turns-25"
 type: article
-quality: 57
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: BBC
-  domain: bbc.co.uk
+  name: Daily Sun
+  domain: daily-sun.com
 
 topics:
+  - Microsoft AI
   - AI
-
-images:
-  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/68DF/production/_130974862_gettyimages-1637958839.jpg"
-    width: 1024
-    height: 576
-    isCached: true
 
 related:
   - title: "Google's AI-powered search summary now points you to its online sources"
@@ -42,21 +35,7 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "7 AI-powered technologies you should know about"
-    excerpt: "These artificial intelligence-powered technologies and innovations being developed and implemented at UC San Diego could lead to the next developments in the “AI revolution.”"
-    publishedDateTime: 2023-09-01T01:20:00Z
-    webUrl: "https://www.universityofcalifornia.edu/news/7-ai-powered-technologies-you-should-know-about"
-    type: article
-    provider:
-      name: University of California
-      domain: universityofcalifornia.edu
-    quality: 41
-    images:
-      - url: "https://www.universityofcalifornia.edu/sites/default/files/2023-08/CARMEN-robot-400.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
-secured: "EE0fRUrBKTlx4LtY9erkxQxX9h5axcHhm8DJu+JshBCrgpamdP7KvU4YZctnwo7hz3Wu3xmPNyBtlLNBPUziAioh+dXtMh0ucnMQjzwVu+btocZJzGXuMauNVynyEA7M+Iq2fLoihTOwu/0eWA/HQHwL+8M6BKYawhU0dnT0u0vBVsfXjjStLywa0EHToqhU5IC/ygbEmFtbVr7PEtNfKfVQN88nxFCk5RPYD7w54U3DZp4BBofKVgUhM+AP0EdWm9twg2IwtcOCCpueKu3rM/SVmSDNoknfjMzh8O9DorUtEiF519Q/XXpYkk3XtkSfh4zK4Int/IzETaW56eVDs645QuYv7igu0C0TOmTbDYY=;idLdrX9hbLw29C0M9hiAnQ=="
+secured: "dSCFnpHjGAn2QaKJ8ugBz0ndYagZgpC6LeANDFHtGj9WxUE3iPC1exEcU8jshguVLkca3g7q1OG/Wj9hRJcG4VnQNYPQucePtb/k+B82uBw1A8+HSDazySu0wutPy7A1sY8XwQUUPjaAcLIgNxVCqE2CclXmiqF9I74Bmu3sWyeCIOZaFlR+u3E/S3QskTDpRUPCaw2zWhPRhq4v43ZeVHAVc028SddqkM6YJ4GfRkA1EIMhqGrQk0IN2r9HgGhpy/R0Pg2fJUf+p0s/90UXA7kJvDed+ri2muSRN5qrLtn9t683iI6gS31+mD+hfjKSfNzLo/gfCQz5vGngal5MdlxKBDBASErfp5bz9maP3HLe+PjHB6/uW/mH1uslArAoZ9O0K4MKXzRpyft26wrYjR5kReTdZj1pfzLj4TPwd70QOrh9C7sboWAi7X99QvuNlGM5HdLccWz+HOLOODQvdYxwnUJaCRGWVt3Qm2mJyGGfG+9JFqktJ5t1OFUL9X7gHpj9fGFzeV/n7SzEKjzM8A==;K7mMZUBDvPKM3XqO3ErIZA=="
 ---
 

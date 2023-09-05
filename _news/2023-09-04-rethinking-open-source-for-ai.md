@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3706091/rethinking-open-source-for
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706091/rethinking-open-source-for-ai.amp.html"
 type: article
 quality: 87
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -53,6 +53,22 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 41
+  - title: "Explainable-AI Image Recognition achieves precise 3D descriptions of objects for US Air Force, a major AI breakthrough"
+    excerpt: "Z Advanced Computing, Inc. (ZAC), the pioneer CognitiveExplainable-AI (Artificial Intelligence) (Cognitive XAIor CXAI) software startup, has developed the \"Describer\""
+    publishedDateTime: 2023-09-05T17:03:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/n34245972/explainable-ai-image-recognition-achieves-precise-3d-descriptions-of-objects-for-us-air-force-a-ma"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34245972"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34245972"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "How artificial intelligence will help, or hinder, your workforce"
     excerpt: "The authors' theory is that higher-skilled workers benefit far less from AI assistance because the AI is reflecting behaviors and skills it learned from the skilled work, making it more beneficial to reduce the learning curve and help out new customer-service workers instead."
     publishedDateTime: 2023-09-01T12:00:00Z

@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Mujin secures $85M in funding to simplify warehouse robotics"
+    excerpt: "companies don’t have to write custom code or train artificial intelligence models. The MujinController also promises to simplify warehouse operations in other ways. Different manufacturers provide different software tools for managing their robots."
+    publishedDateTime: 2023-09-05T21:37:00Z
+    webUrl: "https://siliconangle.com/2023/09/05/mujin-secures-85m-funding-simplify-warehouse-robotics/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Mujin.png"
+        width: 933
+        height: 519
+        isCached: true
 
 secured: "I5Bo95Tq4adRrGpfnvBVMaZO/kQ7sqBxRzxgRSuJWYeaJD89m2XRl9or/X2ndxklVE8fiDAZkGhiLSO3fVai3uqaAxwnTbzDRGOfmNjdaf1H43IGJ1lpczMJwpf00WrpUV4YRSjvLfMF885HnXK0v8DpOFt33fyIwn15R39rD3yB2hhykwfRWezvqw/BXtL8KRxQDZRQ5M9roEo0yWQEHLyJhwG9kd3sA+xAU8CNfDUsQ4XgJgqiJpCfb2KxDSWebmZsQYJdpWE8lvvAknaU7y2iVBUmAU9HhZnn0JIEWOyFn4RgXmRFp9y13e+3sf0sSa7YZC6NmnRzpWxwcLZEnV0Q1ROytpkJ1np6n1CSTXzHw6fjKgyr4R2S/WBgWFqxlMmIAst+sTi+MlkRJ1AA1oIPTDWDKwj/9uh5N0m0nw8c+ILR3PeGFiOxQMmMmUryTCbvLVoCWvoGAhCais1OOjnXAfAwi5HpJpAp+oC6qboxej9uQaqBE0pExFEfd+h3oEWuW37SQVP0LJDFM7zF1w==;qe3Cyp6qV403gE9gvD6GSg=="
 ---

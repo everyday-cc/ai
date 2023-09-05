@@ -6,8 +6,8 @@ publishedDateTime: 2023-09-01T12:29:00Z
 originalUrl: "https://www.usatoday.com/money/blueprint/investing/best-ai-stocks/"
 webUrl: "https://www.usatoday.com/money/blueprint/investing/best-ai-stocks/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.usatoday.com/money/blueprint/images/uploads/2023/06/09065849/GettyImages-1494623409-scaled-e1686293964309.jpg"

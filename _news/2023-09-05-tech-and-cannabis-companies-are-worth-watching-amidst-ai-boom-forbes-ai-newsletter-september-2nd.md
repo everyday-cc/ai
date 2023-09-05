@@ -117,20 +117,6 @@ related:
         width: 821
         height: 463
         isCached: true
-  - title: "Microsoft enters partnership to build AI for large datasets"
-    excerpt: "The global software giant is offering Synthetiac up to 1 million hours of cloud computing resources to accelerate the development of new tools for searching massive amounts of unstructured data."
-    publishedDateTime: 2023-09-01T04:00:00Z
-    webUrl: "https://www.nextgov.com/artificial-intelligence/2023/09/microsoft-enters-partnership-build-ai-large-datasets/389923/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 54
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2023/08/31/AIMicrosoftWT20230830/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Microsoft expands UAE's G42 partnership to include cloud, AI tools"
     excerpt: "\"With data privacy, security, and compliance as our core priorities, we have a unique opportunity to help organizations responsibly innovate,\" Microsoft Chief Commercial Officer Judson Althoff said"
     publishedDateTime: 2023-09-05T14:10:00Z
@@ -142,22 +128,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 54
-  - title: "G42 and Microsoft unlock new opportunities for digital transformation with joint sovereign cloud and AI offering"
-    excerpt: "Microsoft's sovereign cloud offering public sector and regulated industries to use new platform capabilities for securing access to the latest cloud and AI features available on Azure public cloud and helping local privacy and regulatory requirements."
-    publishedDateTime: 2023-09-05T16:45:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/n34244807/g42-and-microsoft-unlock-new-opportunities-for-digital-transformation-with-joint-sovereign-cloud-a"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34244807"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34244807"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 53
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Microsoft expands Abu Dhabi’s G42 partnership to include cloud and AI tools"
     excerpt: "The partnership will see Microsoft expand its Azure service in the UAE through Khazna Data ... including AIQ – a joint venture with Abu Dhabi National Oil – that uses AI and machine learning to optimise processes for Adnoc and the wider industry."
     publishedDateTime: 2023-09-05T16:32:00Z
@@ -178,6 +148,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "G42 and Microsoft unlock new opportunities for digital transformation with joint sovereign cloud and AI offering"
+    excerpt: "Microsoft's sovereign cloud offering public sector and regulated industries to use new platform capabilities for securing access to the latest cloud and AI features available on Azure public cloud and helping local privacy and regulatory requirements."
+    publishedDateTime: 2023-09-05T16:43:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/g42-and-microsoft-unlock-new-opportunities-for-digital-transformation-with-joint-sovereign-cloud-and-ai-offering-1032606400"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
   - title: "SAP poaches Microsoft exec as its new global head of AI"
     excerpt: "Sun replaces Feiyu Xu as SAP’s global head of AI. She joined the company in 2020, after a three-year stint in a similar role at Lenovo. Prior to that, she had worked for two decades at the German Research Center for Artificial Intelligence, DFKI."
     publishedDateTime: 2023-09-01T12:00:00Z
@@ -220,6 +199,6 @@ related:
       domain: pcgamer.com
     quality: 4
 
-secured: "pibeSCbaZ9tYcp3s/qE89e/QWecYIg2G9fnHgfiop9w5wluDvo9tMwWuUTrU+2Ij2gmWRmEeUkeFkVf/jsNjZXi7ffEV+tmTrtBc2j8ryMSSB9YbJYJKqzUY6BdNCZKx4e659eRco8T4nEmN5js2YzyIKeJXjmQK58fwjPBZiNbL/XiuKNeNyhdF4IYrPV11P4fN2aLnsAbFqdLYSgxdeBplHOWmtrnXIuvOto62i1YkEyqYVwGGqpq3UPLaGCh77zPiWI1atg2A5Nx/7xaS4Bn7BX7KdmVryxUatNdbac/LoWKGfXrsKe9vwQ7AcTa7XjGbtMMnOugwfEYBELb1JrqQ7i4lHcU42m+y+/BwGM8=;QBYA1ba49DIfjbhvYi0SFw=="
+secured: "Q3k96eAAn8GMUyMU8gDTjgX5sXAIypom0ZrYJR2UWiLaN0VKZOGC2Hrv2/6tQqStoHwJARP3fl4wyuvQNF9YJ8rTsPNuD7BzM+7kDmFtkSpZMuNI+Us9w32Ny+UqC96zSjEWbaP4YspjWnE5HYdumKgjj15UY11/Om3xgRFnjIJ6PW8tNq8LDHlOtFRX4YnWddpt3Ym13P1osmktsw8tYWJoZ4vCI1F1Qz2glooRSsxAs5iY2NIN0Lz5qeoXL9xbLGEbD3AR9M5TekMZ5YhO7NiUveQqGygJH1qfKriTFdd/qh/2U73/vqfLBHlsVpv1B9fX8FBIuKnAuH2mV7quLCUW/np5yb65EjzWRbufsXXxXNEK4tNa6zPA9RCPe/cRiv9yDjTyMWrsaz0fblcA93LW31N7cJUpUB0tBQqL9PbTSj0FbGn59cS2pbVGMnb/QW2Hc/KhHhExo3mtMJf4L10L7dxzSRNdaq0M2zYvDsWozH2pzLbJLBx8yaM+iceYhgJo5pn5Z6KJZv6+0oyl6Q==;3R/glFfiPEAZSwkEIB5f6g=="
 ---
 

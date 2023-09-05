@@ -197,6 +197,15 @@ related:
       name: WAtoday
       domain: watoday.com.au
     quality: 19
+  - title: "Simon Birmingham favours second referendum if Voice vote fails"
+    excerpt: "Shadow Foreign Affairs Minister says he supports constitutional recognition of First Nations people and Peter Dutton's pledge for a second referendum if the Voice vote fails. “Yes, it’s been a long-standing position that the Coalition supports ..."
+    publishedDateTime: 2023-09-05T19:27:00Z
+    webUrl: "https://www.theaustralian.com.au/news/simon-birmingham-favours-second-referendum-if-voice-vote-fails/video/3db21a25d8ce2df6c782f852072ec707"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 19
   - title: "Peter Dutton flags second referendum if Indigenous Voice to Parliament fails"
     excerpt: "Opposition leader Peter Dutton has committed to holding another referendum to recognise Indigenous Australians in the Constitution if the Voice failed."
     publishedDateTime: 2023-09-03T13:43:00Z

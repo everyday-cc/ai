@@ -55,6 +55,15 @@ related:
         width: 1440
         height: 500
         isCached: true
+  - title: "Employing Generative AI: Unpacking the Cybersecurity Implications of Generative AI Tools"
+    excerpt: "It’s fair to say that generative AI has now caught the attention of every boardroom and business leader in the land. Once a fringe technology that was difficult to wield, much less master, the doors to generative AI have now been thrown wide open thanks to applications such as ChatGPT or DALL-E."
+    publishedDateTime: 2023-09-05T18:40:00Z
+    webUrl: "https://www.unite.ai/employing-generative-ai-unpacking-the-cybersecurity-implications-of-generative-ai-tools/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 8
 
 secured: "UW5se1pKz6uE3n74+48JmjdL7tOXNHKn+CCuWfdUqcOm3gna5U7qbnwmro5xdJlKnw83wE3Bd+sZfu63sh49sZE0m8VnOF2YVfBkpSHAlQj9fBbeFRBEUlK9IINqaUY81eTD7/b6vE2YVQjZew+iNj0LIKhhYuhQR258aJY9VkJ7DgKdEnz0mJiw8huPXZe7W4whotl7Aq8HOZrPpWGZ6eNBihRqyYHYlKHqk9/HpDYvV4j0olH1LkpX7gzi9IL00Hs9GSw7/lVjBveYL1p/5CYunVnuwVgbBrhs8zPuR1pwMMCo2kqPKF3FDrDbSojrAFJizZR1b5kczKmW8zhaWnw7OSdy80nhtI3uVi6+5qc=;5Y9v97I/TGRPq3R1kIRLmQ=="
 ---

@@ -114,20 +114,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 61
-  - title: "Microsoft enters partnership to build AI for large datasets"
-    excerpt: "The global software giant is offering Synthetiac up to 1 million hours of cloud computing resources to accelerate the development of new tools for searching massive amounts of unstructured data."
-    publishedDateTime: 2023-09-01T04:00:00Z
-    webUrl: "https://www.nextgov.com/artificial-intelligence/2023/09/microsoft-enters-partnership-build-ai-large-datasets/389923/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 54
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2023/08/31/AIMicrosoftWT20230830/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Microsoft expands UAE's G42 partnership to include cloud, AI tools"
     excerpt: "\"With data privacy, security, and compliance as our core priorities, we have a unique opportunity to help organizations responsibly innovate,\" Microsoft Chief Commercial Officer Judson Althoff said"
     publishedDateTime: 2023-09-05T14:10:00Z
@@ -139,22 +125,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 54
-  - title: "G42 and Microsoft unlock new opportunities for digital transformation with joint sovereign cloud and AI offering"
-    excerpt: "Microsoft's sovereign cloud offering public sector and regulated industries to use new platform capabilities for securing access to the latest cloud and AI features available on Azure public cloud and helping local privacy and regulatory requirements."
-    publishedDateTime: 2023-09-05T16:45:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/n34244807/g42-and-microsoft-unlock-new-opportunities-for-digital-transformation-with-joint-sovereign-cloud-a"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34244807"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34244807"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 53
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Microsoft expands Abu Dhabi’s G42 partnership to include cloud and AI tools"
     excerpt: "The partnership will see Microsoft expand its Azure service in the UAE through Khazna Data ... including AIQ – a joint venture with Abu Dhabi National Oil – that uses AI and machine learning to optimise processes for Adnoc and the wider industry."
     publishedDateTime: 2023-09-05T16:32:00Z
@@ -175,6 +145,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "G42 and Microsoft unlock new opportunities for digital transformation with joint sovereign cloud and AI offering"
+    excerpt: "Microsoft's sovereign cloud offering public sector and regulated industries to use new platform capabilities for securing access to the latest cloud and AI features available on Azure public cloud and helping local privacy and regulatory requirements."
+    publishedDateTime: 2023-09-05T16:43:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/g42-and-microsoft-unlock-new-opportunities-for-digital-transformation-with-joint-sovereign-cloud-and-ai-offering-1032606400"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
   - title: "SAP poaches Microsoft exec as its new global head of AI"
     excerpt: "Sun replaces Feiyu Xu as SAP’s global head of AI. She joined the company in 2020, after a three-year stint in a similar role at Lenovo. Prior to that, she had worked for two decades at the German Research Center for Artificial Intelligence, DFKI."
     publishedDateTime: 2023-09-01T12:00:00Z
