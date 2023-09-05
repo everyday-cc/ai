@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-cro
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-crossing-the-chasm-in-ai-led-marketing-transformation-3230292/lite/"
 type: article
 quality: 76
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -93,15 +93,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 26
-  - title: "How Machine Learning is Transforming the Online Card Games in India"
-    excerpt: "A fine balance has been created by the subtly included machine learning algorithms, enhancing the gaming experience without compromising the core of the games."
-    publishedDateTime: 2023-08-31T08:13:00Z
-    webUrl: "https://theprint.in/theprint-valuead-initiative/how-machine-learning-is-transforming-the-online-card-games-in-india/1740246/"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 19
 
 secured: "nXKrZdcoE3IlRZzkS649OPqHqWV3NeD/cvahlWgGXmf+EAlQuNQ7xFTut845jLIZ2m4eGWjR3xBoLkuq9pgCCDse3Rxd3SwRXxRNptEFNbJNZi0+ZoHlFtKrwMDXdU3AVSp/5hNH10HLPV/WwwXYLae8OYkj6IO4l4LgaGiIw5w6fxqvM+akqtB5STyUFDjRdd3hHvC8O1qksyy7wbIV4ildTRRDsm2CB+/n1usBkwDvklWcOLLiJer4Tvfi0PMt1SZv9+1KWhHjw/6WZ/+BqnpLrzvdEaAPHXtCGRb6uXb3A28YHUx3fLIuM3K+xaPQFNLemXEbCAxT286FIxM8vU9mxt6EmPvZFJWyIM/fHA0=;9F5NdPzjnLmHeWpmR5tBNw=="
 ---

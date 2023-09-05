@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/99984-us-bans-sale-top-nvidia-amd-ai
 webUrl: "https://www.techspot.com/news/99984-us-bans-sale-top-nvidia-amd-ai-chips.html"
 type: article
 quality: 84
-heat: 264
+heat: 254
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "US Extends Export Restrictions On Nvidia, AMD AI Chips To Middle East"
-    excerpt: "Nvidia and AMD's AI chips, including A100, H100, and MI250 models, are affected by expanded Middle East restrictions."
-    publishedDateTime: 2023-08-31T07:16:00Z
-    webUrl: "https://www.republicworld.com/business-news/international-business/us-extends-export-restrictions-on-nvidia-amd-ai-chips-to-middle-east-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/business-news/international-business/us-extends-export-restrictions-on-nvidia-amd-ai-chips-to-middle-east-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/international-business/us-extends-export-restrictions-on-nvidia-amd-ai-chips-to-middle-east-articleshow.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 74
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/tzuhv5qv8g4u1grq_1693463750.jpeg"
-        width: 768
-        height: 438
-        isCached: true
   - title: "US restricts exports of Nvidia AI chips to Middle East"
     excerpt: "Controls apply to A100 and H100 chips, in escalation of US efforts to curb China’s access to products"
     publishedDateTime: 2023-08-31T10:24:00Z

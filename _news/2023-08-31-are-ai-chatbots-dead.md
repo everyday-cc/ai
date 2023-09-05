@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/31/are-ai-c
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/31/are-ai-chatbots-dead/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -22,21 +22,19 @@ topics:
   - AI
 
 related:
-  - title: "Baidu Leads Public Rollout Of AI Chatbots In China"
-    excerpt: "Tech giant Baidu launched China's first public artificial intelligence chatbot on Thursday, with ERNIE trained to censor highly sensitive topics for the ruling Communist Party such as the Tiananmen crackdown."
-    publishedDateTime: 2023-08-31T07:07:00Z
-    webUrl: "https://www.barrons.com/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d?refsec=topics_afp-news"
-    ampWebUrl: "https://www.barrons.com/amp/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d"
+  - title: "Fraunhofer launches internal AI chatbot"
+    excerpt: "Gesellschaft, in collaboration with Microsoft, is one of the first research organizations in Europe to launch an internal AI chatbot that works similarly to OpenAI’s ChatGPT. The FhGenie generative AI solution lets employees securely create,"
+    publishedDateTime: 2023-08-31T09:21:00Z
+    webUrl: "https://sciencebusiness.net/network-updates/fraunhofer-launches-internal-ai-chatbot"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 59
+      name: Science|Business
+      domain: sciencebusiness.net
+    quality: 39
     images:
-      - url: "https://www.barrons.com/asset/external-media/afp/AFP9640123735043191226260508873486149274090---1.jpg"
-        width: 768
-        height: 512
+      - url: "https://sciencebusiness.net/sites/default/files/inline-images/1080x450.png"
+        width: 1050
+        height: 450
         isCached: true
   - title: "The Evolution of AI Chatbots: Past, Present and Future"
     excerpt: "Evolutionary path. Chatbots evolved from simple rule-based systems to AI-powered, voice-activated personal assistants and generative AI chatbots capable of full-fledged conversations."
@@ -52,15 +50,24 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Chinese tech companies launch AI chatbots to public"
-    excerpt: "Chinese technology groups Baidu and ByteDance launched their artificial intelligence chatbots to the public on Thursday after receiving regulatory approval from Beijing."
-    publishedDateTime: 2023-08-31T07:58:00Z
-    webUrl: "https://www.ft.com/content/ea516e53-6a30-49a0-9e57-970cf5e8410c"
+  - title: "Bad Idea AI Announces Listing on MEXC Exchange and Revolutionary AI Chatbot"
+    excerpt: "Collaborative Decision-Making: AI and DAO The decision to list on MEXC ... with Shibacals to produce unique figurines and clothing wear, complete with NFC chips that serve as certificates of authenticity and offer post-purchase delights like VIP NFT ..."
+    publishedDateTime: 2023-09-04T19:21:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/g34213149/bad-idea-ai-announces-listing-on-mexc-exchange-and-revolutionary-ai-chatbot"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 17
+  - title: "Will chatbots soon replace the need for managers to coach employees?"
+    excerpt: "We’ve seen remarkable advances in the capabilities of artificial intelligence (AI). The recent leap forward in natural language-processing, where AI models can comprehend and generate human-like text, has opened the door to sophisticated chatbots that effectively mirror human conversation partners."
+    publishedDateTime: 2023-08-31T17:54:00Z
+    webUrl: "https://sbnonline.com/article/will-chatbots-soon-replace-the-need-for-managers-to-coach-employees/"
+    type: article
+    provider:
+      name: Smart Business Magazine
+      domain: sbnonline.com
+    quality: 4
   - title: "Enhancing research with conversational chatbots"
     excerpt: "In a recent presentation at White River Health in Batesville, Associate Professor of Computer and Data Science, Dr. Marcus Birkenkrahe, shed light on the transformative potential of artificial"
     publishedDateTime: 2023-09-01T17:03:00Z

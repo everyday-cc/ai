@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Baidu Leads Public Rollout Of AI Chatbots In China"
-    excerpt: "Tech giant Baidu launched China's first public artificial intelligence chatbot on Thursday, with ERNIE trained to censor highly sensitive topics for the ruling Communist Party such as the Tiananmen crackdown."
-    publishedDateTime: 2023-08-31T07:07:00Z
-    webUrl: "https://www.barrons.com/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d?refsec=topics_afp-news"
-    ampWebUrl: "https://www.barrons.com/amp/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 59
-    images:
-      - url: "https://www.barrons.com/asset/external-media/afp/AFP9640123735043191226260508873486149274090---1.jpg"
-        width: 768
-        height: 512
-        isCached: true
   - title: "Are AI Chatbots Dead?"
     excerpt: "At any given moment in history, we’re living through the unexpected downfall of some exciting new technology that paves the way for something greater."
     publishedDateTime: 2023-08-31T13:45:00Z
@@ -44,6 +28,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Fraunhofer launches internal AI chatbot"
+    excerpt: "Gesellschaft, in collaboration with Microsoft, is one of the first research organizations in Europe to launch an internal AI chatbot that works similarly to OpenAI’s ChatGPT. The FhGenie generative AI solution lets employees securely create,"
+    publishedDateTime: 2023-08-31T09:21:00Z
+    webUrl: "https://sciencebusiness.net/network-updates/fraunhofer-launches-internal-ai-chatbot"
+    type: article
+    provider:
+      name: Science|Business
+      domain: sciencebusiness.net
+    quality: 39
+    images:
+      - url: "https://sciencebusiness.net/sites/default/files/inline-images/1080x450.png"
+        width: 1050
+        height: 450
+        isCached: true
   - title: "The Evolution of AI Chatbots: Past, Present and Future"
     excerpt: "Evolutionary path. Chatbots evolved from simple rule-based systems to AI-powered, voice-activated personal assistants and generative AI chatbots capable of full-fledged conversations."
     publishedDateTime: 2023-09-01T10:02:00Z
@@ -58,15 +56,24 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Chinese tech companies launch AI chatbots to public"
-    excerpt: "Chinese technology groups Baidu and ByteDance launched their artificial intelligence chatbots to the public on Thursday after receiving regulatory approval from Beijing."
-    publishedDateTime: 2023-08-31T07:58:00Z
-    webUrl: "https://www.ft.com/content/ea516e53-6a30-49a0-9e57-970cf5e8410c"
+  - title: "Bad Idea AI Announces Listing on MEXC Exchange and Revolutionary AI Chatbot"
+    excerpt: "Collaborative Decision-Making: AI and DAO The decision to list on MEXC ... with Shibacals to produce unique figurines and clothing wear, complete with NFC chips that serve as certificates of authenticity and offer post-purchase delights like VIP NFT ..."
+    publishedDateTime: 2023-09-04T19:21:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/g34213149/bad-idea-ai-announces-listing-on-mexc-exchange-and-revolutionary-ai-chatbot"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 17
+  - title: "Will chatbots soon replace the need for managers to coach employees?"
+    excerpt: "We’ve seen remarkable advances in the capabilities of artificial intelligence (AI). The recent leap forward in natural language-processing, where AI models can comprehend and generate human-like text, has opened the door to sophisticated chatbots that effectively mirror human conversation partners."
+    publishedDateTime: 2023-08-31T17:54:00Z
+    webUrl: "https://sbnonline.com/article/will-chatbots-soon-replace-the-need-for-managers-to-coach-employees/"
+    type: article
+    provider:
+      name: Smart Business Magazine
+      domain: sbnonline.com
+    quality: 4
 
 secured: "laez6V9slDlWkXm+jqsTqxfurGiLGaD4/TTALnONZocH9SLw3N8thMPiKJKSx3hL0/30/MS3SHpp7lbs3UWcJ01p/TcmnQbZZIz85Lg0GSjv2Im/boKAhYseSvn/+EhuNQ8krUSzy9JT5EVmWePZt7WDbWfsTPQd9GlLxYksOyNNcL41rIy4Vv17q23BfLTKHgcxVofedbC0PMF5+dgLSGgrXYFF0TqdZXxfYOWAXwW1IuVJR2z4afFgPE+/59vZteI1cG3eD5GrxeCpsUJOC8OWtCNmiHTM/9qrhoKrQsmSAYL8OtsYCjxlFbuCXBAnvybdbBIf5r06isWSiMmWdvwa2RUldbX9dwCmJ/5PSlKaBbiQKRQMe0bjV9dvg3IaMskulSH+hk/aWhQad+1MG3z3mYTovP8WveL+X9jwme4+qI4C96YyxO7SgacMdN4H4r1y1yGys3q5bsJTBcaRLxdPe+y19Ej6LG72OQI0fuozhfT1s0VDrSML1Rv0r5Pr22uK8ebT9KNMfY2WXB5L0g==;cAT8Dfhzo0EOtWSyMxuj4Q=="
 ---

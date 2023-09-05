@@ -45,22 +45,6 @@ related:
         width: 2100
         height: 1181
         isCached: true
-  - title: "US Extends Export Restrictions On Nvidia, AMD AI Chips To Middle East"
-    excerpt: "Nvidia and AMD's AI chips, including A100, H100, and MI250 models, are affected by expanded Middle East restrictions."
-    publishedDateTime: 2023-08-31T07:16:00Z
-    webUrl: "https://www.republicworld.com/business-news/international-business/us-extends-export-restrictions-on-nvidia-amd-ai-chips-to-middle-east-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/business-news/international-business/us-extends-export-restrictions-on-nvidia-amd-ai-chips-to-middle-east-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/international-business/us-extends-export-restrictions-on-nvidia-amd-ai-chips-to-middle-east-articleshow.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 74
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/tzuhv5qv8g4u1grq_1693463750.jpeg"
-        width: 768
-        height: 438
-        isCached: true
   - title: "US denies imposing export controls on Nvidia’s AI Chips for select Middle Eastern countries"
     excerpt: "Biden administration to restrict the export of Nvidia's cutting-edge (AI) computer chips to select countries in the Middle East"
     publishedDateTime: 2023-09-01T10:07:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://uk.pcmag.com/cars-auto/148492/tesla-drops-the-price-of-its
 webUrl: "https://uk.pcmag.com/cars-auto/148492/tesla-drops-the-price-of-its-full-self-driving-beta-software"
 type: article
 quality: 69
-heat: 110
+heat: 109
 published: true
 
 provider:

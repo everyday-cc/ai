@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/chuckbrooks/2023/09/04/artificial-intellig
 ampWebUrl: "https://www.forbes.com/sites/chuckbrooks/2023/09/04/artificial-intelligence-transforming-healthcare-cybersecurity-and-communications/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2023/09/04/artificial-intelligence-transforming-healthcare-cybersecurity-and-communications/amp/"
 type: article
-quality: 100
-heat: 140
+quality: 102
+heat: 142
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - Natural Language Processing
   - AI
   - AI in Healthcare
+  - Microsoft AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/64f654488751487eecb0157e/0x0.jpg?format=jpg&width=1200"
@@ -85,6 +86,6 @@ related:
       domain: techrepublic.com
     quality: 49
 
-secured: "f8stb9CEIGsbR9szhjX1+StK3m0LenMfJCzG3BxlhZrOrM5CNJe/dQ8dyqFXDQRUMe9ZlftnD0sgWB7lCDMwCyVLxMq8nIUut9M0ZdwJUKLjWNFsVRjzdfrtbtdcstsh4FjgxhSryV/b14nsR39YINn+Gekz4jbs9h7ztxxem2r8NhbX+hiH54kj9SV4k5/cP/wNri9D9OUu9shHVCAwQziG9gYwGPJezjbFt0dNGybAWauHu3HmgANYAn9lprgqtN3m9vVcn0FC7Y7J1TUA9ctcUqKht6wibmLfSBwrqd0zl72V7siuogBtSCmogHJXRcwNun6NaKkqYCoJLdKDqsZw/ZjkgQR6nI1mHflWnNg=;QdueINdbYdNYWUqztNWeqw=="
+secured: "8V/na6Ul+/DRLim9ilgag2iPzILztc5Xt80mTwkph2R/GK5BUaz9qdlpvq53mVeGpBJU4a1m8qfkNNjcgyk59zPIgOn15Jg+e8NoYCgO6B+vLpiRE8idVqp7rrCIG6E3PuWLCG0UMtIBn/SKyE4n1KhnchhMuLBtpfuqIpwJyei4IG8dpE275gpyF9YtPYqcyFMYX5XEAZJpd7mZ2U+SKOXjEktmOepa43vlY3j5Y4sdrKOsHQ4YcjEmBUOXOMng4SmgZDZ3QVfuujmhf0yDMtEON/SUrE7HPkJ5tigv3XMDu+NMg1Ntu/9wlccsLivd72JbhcspkxcbS5DGHwnbHbwSEQXCyqCnk1kDk2mdmTnwH9l2c5ZGJqzNFlhYgOWVV1N5bqcvi/PxidRoIvx+PQencb9O/BJvywC7CPFkTau+yxtcKmbSSowBOyBURqUN7khl4g9DrMDUrXhblSU40F21FKzVF/QE6N0tHpid1AvBKNx5zfZ8+hEbJRgVgbDHCWXKphVdYwb28dqz7DOGjg==;GMu3mSupjJP5280D+lM2kQ=="
 ---
 

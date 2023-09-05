@@ -92,15 +92,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 26
-  - title: "How Machine Learning is Transforming the Online Card Games in India"
-    excerpt: "A fine balance has been created by the subtly included machine learning algorithms, enhancing the gaming experience without compromising the core of the games."
-    publishedDateTime: 2023-08-31T08:13:00Z
-    webUrl: "https://theprint.in/theprint-valuead-initiative/how-machine-learning-is-transforming-the-online-card-games-in-india/1740246/"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 19
 
 secured: "uEN97VYvVJGCcNx1V3K/suNQmGM5d7wU8R5WbqYbysrN9UV9W+uQ0uGkOfrCbcZAVRi6vHYIhq06UVw00vuuI1Qf7nErtbyaiXGp+cTjojllvCN/goO0ReCzMCk1dI2HDQ4XW9akWlLcmZ6TG9KATot2NS0UqO28INtAFGHhaAwmbx6xPZ5GEDpeFxdf0k/GXb+ZFsyHXSTLX6r3TPe38LZjPvVFdIadgAdUIDjjrQ6BZNX+FM0pmyUDAi1pF4hNJyGqcRP0Q6RRdCC8Ik6XXLVs8DIUDX6MBxu7iXE532pTFgxnvXAdkKmt6JaKAYCzPDPNaPHiqX8T+sUbDG2mFyCYskeJnmKO0iUDTuNuuM0=;zDH7lz7UUu/eqtm6dPWuqg=="
 ---

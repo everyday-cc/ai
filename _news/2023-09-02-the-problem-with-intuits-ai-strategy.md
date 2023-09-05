@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/quickerbettertech/2023/09/01/the-proble
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2023/09/01/the-problem-with-intuits-ai-strategy/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://investorplace.com/wp-content/uploads/2023/05/chromosome-dna-gcats.png"
         width: 1165
         height: 435
-        isCached: true
-  - title: "Generative AI And SEO Strategy: Getting The Most Out Of Your Tools"
-    excerpt: "Dive into the State of SEO report findings for illuminating perspectives on generative AI's impact on SEO."
-    publishedDateTime: 2023-08-31T09:00:00Z
-    webUrl: "https://www.searchenginejournal.com/generative-ai-and-seo-strategy-getting-the-most-out-of-your-tools/493591/"
-    type: article
-    provider:
-      name: Searchenginejournal.com
-      domain: searchenginejournal.com
-    quality: 37
-    images:
-      - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/08/sos-2024-generativeai-featured-image-64eda220ca322-sej.jpg"
-        width: 1600
-        height: 840
         isCached: true
 
 secured: "hwYrqWyrRR33DBMWXyPz6W6uN/gLC5wQH3MFiUW+kf4bA7As1u/maf6N661oXehkSlBqSof8YvgHEzPTuq034HIUEuiT/r6d4dUSZ2fhEB9eVa1nePQhvfnjWOUX1F1+EctXwpfH3Vn2oDUwSbjlYzCfgpM5Ww5++ds9VF6gjofWSxNKiqHjqaTxCMvEatwWU7LOCKaNTT+EJGI5D0gvRcV8dT5Ds69WWy5J9OkklzWXAWsgU9nFy9naQy6LgxaRkWI6A1lrh98JQI3qi2SgOHxaqIo493evdmw8Ys7LzgIwGjnDFHwgY0CehBUCvOiqhyo6J0TNXuc/7Mxacqn/u9lMyn+wbEDdlV7gSlHB7/Oi0hcr1LIyK6dAKspryhaUqxAcWjdSPhPsrh01wLBkH/N37GLBkum8SJjd/n9mcChUoe8ntfyvdL4tpgESTjJLCrNcEqrLVBsSsSt5wjo5fxNs280Xs3ehc1fyu8FHIY+blIFKFgA0qi85f2ZQ07PAQS5ZG4ryQRyU7rozXGbxdg==;9n38ZuCcaek0K1CBNbFHeQ=="

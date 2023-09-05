@@ -91,15 +91,6 @@ related:
         width: 775
         height: 430
         isCached: true
-  - title: "How Machine Learning is Transforming the Online Card Games in India"
-    excerpt: "A fine balance has been created by the subtly included machine learning algorithms, enhancing the gaming experience without compromising the core of the games."
-    publishedDateTime: 2023-08-31T08:13:00Z
-    webUrl: "https://theprint.in/theprint-valuead-initiative/how-machine-learning-is-transforming-the-online-card-games-in-india/1740246/"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 19
 
 secured: "iIdxFXY/hqEiIsihJsYayFtMOxKM3/FpjLMXkni016rlhMatK6xCUFhfTTf3VNigJ5jU+0Ie4T/3jvHdYVQoa4w/X335bn6LZ1hz7pai4gfULG/dHKyUMv4oFtoFv0wxi/Vv0L195bwvkuSn0c9mf3qxQAIezp72iEYGYtOhVGgtwgevkKaeTEKi8ZhC1dyZptanT/bjm2EEaFO9iHofLRMlMbBK5q8z7LYI5x4FHhSGP8TokKeEcqSs5tgYKq08U0bhsIU9vFdxMU+3H6TAUs0S6db/eYaTco/LR/vS6BieQBlshfF3a9Xlp6BarQX4POrzGkWKvyfNpgcUvnLpB6bpDQ9RMYBiN0nS6MPatUs=;aThYtIMM7WeAgoWVPAEusQ=="
 ---

@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 796
         isCached: true
-  - title: "How artificial intelligence will affect the elections of 2024"
-    excerpt: "Advances in generative artificial intelligence ( AI )—with models that can spit out sophisticated essays and create realistic images from text prompts—make synthetic propaganda possible. The fear is that disinformation campaigns may be supercharged in 2024,"
-    publishedDateTime: 2023-08-31T08:49:00Z
-    webUrl: "https://www.economist.com/leaders/2023/08/31/how-artificial-intelligence-will-affect-the-elections-of-2024"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 37
-    images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230902_LDD001.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "KQFo0SBuvGBVoyT0gLiMzHn0HrM5Znu25gPAWJ6eNXxwU7A840bt4EGGPvHcqT38Vdg11g8C5pVxIe4D18aRlo/xJu5DT9ibgPocvTjW8SrqR5AV4HE9tpbdevjup56wE+rxBDIw4DpiJ6qmjpM/yy7+toHU7NIGEfUxVGOge6lF4D0J1vTdIO3PvqO+pDvhl7aBBgySj4lxQkZC7gYP5gLliFqkAPppNLHOrrG3gzyUO7L6i5XNonVdIr7zdZpYYECbLE0vEv0+Z8nzF2ZmyrYXlRSQdk6kXNg5e9LUQV3ITx9UqAGXTKw6g+5hxIEf4Mqdf56phA63eUBONGd+gh1P5EAFy8Mk8smbboBjeJtJD9G5kPlZQtehRYJ2YvyDhDfgfnM9d/R/yyIljJD4dKzabccw6pcjkpVstq5jEbeM5Yo0+qnf0EdaK43VpZgl65E3EL9oo5sDZ4VnPG1Cjplq0fsOiONGlU5XUJTX4IXfMDNCtnznaaI9ENUMJRmflRcqtkE0Q3dIai9j/mChQw==;lklKPevJRnOhSuir5J/bgA=="
 ---
