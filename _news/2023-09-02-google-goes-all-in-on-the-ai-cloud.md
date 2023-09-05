@@ -26,51 +26,28 @@ images:
     isCached: true
 
 related:
-  - title: "How Google Cloud Is Leveraging Generative AI To Outsmart Competition"
-    excerpt: "It has a smaller 256-chip footprint per Pod, which is optimized for the state-of-the-art neural network architecture based on the transformer architecture."
-    publishedDateTime: 2023-09-04T11:49:00Z
-    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/"
-    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/amp/"
+  - title: "Google Unveils New AI-Powered Cloud Technologies Taking On AWS And Azure"
+    excerpt: "At Cloud Next, Google unveiled AI strategies to rival AWS and Azure. New offerings include custom silicon and updated Vertex AI. Google targets AI-centric enterprises."
+    publishedDateTime: 2023-09-01T19:24:00Z
+    webUrl: "https://www.forbes.com/sites/stevendickens/2023/09/01/google-unveils-new-ai-powered-cloud-technologies-taking-on-aws-and-azure/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64f5bc845a7c3861341e8146/0x0.jpg?format=jpg&width=1200"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "Enabling Enterprise Transformation With Generative AI"
-    excerpt: "For the rapidly evolving technology to live up to its promise of transforming the way we work by leveraging enterprise data, three key questions must be considered."
-    publishedDateTime: 2023-09-01T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/01/enabling-enterprise-transformation-with-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/01/enabling-enterprise-transformation-with-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/01/enabling-enterprise-transformation-with-generative-ai/amp/"
+    quality: 80
+  - title: "AI moves by Google Cloud raise interest in what AWS will deliver next"
+    excerpt: "As the undisputed leader in cloud computing for more than two decades, Amazon Web Services Inc. has the potential to wield enormous clout in the emerging AI market. But the cloud narrative in AI so far has been shaped by Microsoft Corp. and, more recently, Google LLC. What happened to AWS?"
+    publishedDateTime: 2023-09-01T03:07:00Z
+    webUrl: "https://siliconangle.com/2023/08/31/ai-moves-by-google-cloud-raise-interest-in-what-aws-will-deliver-next-googlecloudnext/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 56
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64de2670c0104c27ef8801c6/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Generative AI and Foundation Models Face Inflated Expectations"
-    excerpt: "Computer vision and cloud AI services are among the most mature applications of AI, according to Gartner's 2023 AI Hype Cycle."
-    publishedDateTime: 2023-08-31T17:08:00Z
-    webUrl: "https://www.techrepublic.com/article/generative-ai-dominates-2023-gartner-hype-cycle/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr_08312023-generative-ai-dominates-2023-gartner-hype-cycle.jpg"
-        width: 1400
-        height: 900
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/Dustin-Kirkland-John-Furrier-Sarbjeet-Johal-Rob-Strechay-theCUBE-Google-Cloud-Next.jpg"
+        width: 977
+        height: 651
         isCached: true
   - title: "Google adding AI tools to cloud"
     excerpt: "Google's cloud clients will be able to access Meta's Llama 2 large language model, as well as AI startup Anthropic's Claude 2 chatbot, to customize with enterprise data for their own apps and services. The move, announced last week at Google's Next '23 ..."
@@ -85,38 +62,6 @@ related:
       - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/205216573_Google-AI-bg-3db9458a-4676-11ee-9807-7da73538c4fb_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
         width: 600
         height: 399
-        isCached: true
-  - title: "Acceptable-use policies for generative artificial intelligence"
-    excerpt: "The program is possibly the most well-known example of generative AI, an artificial intelligence technology that identifies patterns in large quantities in training data and then generates original content – text,"
-    publishedDateTime: 2023-09-01T10:00:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2023/09/01/acceptable-use-policies-for-generative-ai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
-  - title: "New Meta, Google tools detect AI-generated images"
-    excerpt: "The tech giants release tools to identify synthetic images and combat AI-related discrimination for more responsible use."
-    publishedDateTime: 2023-09-01T13:11:00Z
-    webUrl: "https://www.itweb.co.za/content/4r1ly7R9Ejnvpmda"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 19
-  - title: "IAA MOBILITY 2023 Talking not Typing: Continental and Google Cloud Equip Cars with Generative Artificial Intelligence"
-    excerpt: "Continental announced a partnership with Google Cloud during its press conference at the IAA MOBILITY 2023. Together, the two companies are equipping"
-    publishedDateTime: 2023-09-04T17:26:00Z
-    webUrl: "https://menafn.com/1107004164/IAA-MOBILITY-2023-Talking-not-Typing-Continental-and-Google-Cloud-Equip-Cars-with-Generative-Artificial-Intelligence"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 14
-    images:
-      - url: "https://menafn.com/updates/pr/2023-09/04/pr_12163_22a9c30d_image_story.jpg"
-        width: 4920
-        height: 3553
         isCached: true
 
 secured: "W4bkalSGgs6n3WU9YFuQVbmvmJGPt8YvuCjuGkywNzQsLbf429W+6hTd/+c+G+H4jhDEPszo8DAbTgEO+5r22Bmdk4Pn1Eez50QU77y+vHExDJXEfoc2NHHMR8L55HEn3aPuwL9uTA8H1VZyOmhg0XiZuONjbKHyikDGy7OO1xXcQpq9C3oxnjr2dHIVEKh1Dy0qZr7QZfWtgHn21hpOhpfT0slldaXx62Ap2i05oKbH7MCElBSsoHO9LB0vApBY/ds25YRhXoqc8qt0OA+VsA6gOP49ef5SvcBJa5tCaAwFne95LGnaYq57ace0N8mSLAazHYle6Zc62NKaXu6aaY1AORoTajL0XZW8y+ZDLvc=;7GytEZiFeTe3nEgtrM1xFA=="

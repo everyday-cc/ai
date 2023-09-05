@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/en/business/technology-and-telecom/expo-city-d
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/expo-city-dubai-launches-regions-first-artificial-intelligence-film-festival-buhpqsni?amp=1"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Now, another Dubai first: An Artificial Intelligence Film Festival"
+    excerpt: "Expo City Dubai is pioneering advancements in new technologies and elevating its position as an Artificial Intelligence (AI) innovation hub with the launch of the region’s first Artificial Intelligence Film Festival (AIFF), which will explore the ..."
+    publishedDateTime: 2023-09-05T09:05:00Z
+    webUrl: "https://www.gulftoday.ae/lifestyle/2023/09/05/now-another-dubai-first-an-artificial-intelligence-film-festival"
+    type: article
+    provider:
+      name: gulftoday
+      domain: gulftoday.ae
+    quality: 52
+    images:
+      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/culture/2023/9/5/marjan-faraidooni-2.ashx?h=450&w=750&hash=CE74A8520B93A36C0D683A46E846B2DD"
+        width: 750
+        height: 450
+        isCached: true
   - title: "AI Dubbing Startup Debuts Polish Film At US Indie Festival"
     excerpt: "Deepdub uses proprietary AI to generate synthetic voices that capture the emotion and delivery of the original performances."
     publishedDateTime: 2023-09-03T07:52:00Z

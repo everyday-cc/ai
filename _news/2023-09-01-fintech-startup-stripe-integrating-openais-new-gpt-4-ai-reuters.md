@@ -24,6 +24,17 @@ images:
     height: 628
     isCached: true
 
+related:
+  - title: "AI in Fintech Has Been Slow to Start, But Look for a Second Phase of Investment Opportunities"
+    excerpt: "The emergence of generative AI could yield the largest transformation the financial services market has seen in decades. From Microsoft to Google to Amex, everyone seems to be betting big on AI."
+    publishedDateTime: 2023-08-31T18:24:00Z
+    webUrl: "https://www.nasdaq.com/articles/ai-in-fintech-has-been-slow-to-start-but-look-for-a-second-phase-of-investment"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 38
+
 secured: "gf8eHywdis+J+EKqKcR/cfRgNQom9OfzuA+fRYNu2sJnuTb5HYpj6txBNGFJD4FAjJr4bD1s8kbQnFXNHZfWzQsN5/KAQvF7ld4DFR6jaqd6gWk501QhvcyMKlzqWqBIMPxhzv4WEEkoTp72mqH4reTbpjxXDrjFfWjLBib0yiQMES72ksa5QwYJjpyI92ww4FnCZhNf5OkAyCEPj23zJeOyXlfL4vl4RX5J1otvf7X7Lm3TCrjDyEHb4Vz8EoSlHYrnQnJjhPlnjuraQyMIC0blddkaGIL6afOyX/2bTdfl1Q9hhGlsDGe6qLUyDkKgj4c/bQ2TmcplW479Uane8e+1v0j0WOlWaQIsQgfI+FCsSe8UXMZrCQNSHD6GAExVKWchRtZ5ywlU+wFckYphnGhUgvm9oWSLTnn7cf6tx4uoseo1Ew3zeytqlqZU+YA8gtetMjlLl7L/Fs3Zs9ckg4SicuQVYbOd3dMr17Q9sHaeOStTTSPk9MeN5wdb+VQphBLJfMPdE+gtXUq3I05VHw==;sQ2le/9NyoKTgUbXYZVeww=="
 ---
 

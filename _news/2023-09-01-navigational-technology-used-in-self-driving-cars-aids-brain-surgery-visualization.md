@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-08-technology-self-driving-cars-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-technology-self-driving-cars-aids-brain.amp"
 type: article
 quality: 53
-heat: -1
+heat: 63
 published: false
 
 provider:
@@ -27,52 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "AI Is Not Just About Automation, We Need Personalization Too"
-    excerpt: "This is important because these misleading claims have the negative side effect of causing consumers to mistrust the field altogether. Users don’t want to have to constantly wonder if a product claiming to use AI actually is doing so and, if so, using it correctly. Consumers don’t need to be tricked very many times to lose faith."
-    publishedDateTime: 2023-08-31T15:36:00Z
-    webUrl: "https://www.forbes.com/sites/digital-assets/2023/08/31/ai-is-not-just-about-automation-we-need-personalization-too/"
-    ampWebUrl: "https://www.forbes.com/sites/digital-assets/2023/08/31/ai-is-not-just-about-automation-we-need-personalization-too/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/08/31/ai-is-not-just-about-automation-we-need-personalization-too/amp/"
+  - title: "What Problems Do Self-Driving Cars Solve?"
+    excerpt: "What Problems Do Self-Driving Cars Solve? To explore the potential benefits of self-driving cars, we asked eight industry leaders, including CEOs and managing directors, to share one problem that this technology solves."
+    publishedDateTime: 2023-08-31T19:32:00Z
+    webUrl: "https://techbullion.com/what-problems-do-self-driving-cars-solve/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64f0ab4d268c90e2d9b575a5/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "AI’s Not Just About Automation, We Need Personalization Too"
-    excerpt: "This is important because these misleading claims have the negative side effect of causing consumers to mistrust the field altogether. Users don’t want to have to constantly wonder if a product claiming to use AI actually is doing so and, if so, using it correctly. Consumers don’t need to be tricked very many times to lose faith."
-    publishedDateTime: 2023-08-31T15:36:00Z
-    webUrl: "https://www.forbes.com/sites/digital-assets/2023/08/31/ais-not-just-about-automation-we-need-personalization-too/"
-    ampWebUrl: "https://www.forbes.com/sites/digital-assets/2023/08/31/ais-not-just-about-automation-we-need-personalization-too/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/08/31/ais-not-just-about-automation-we-need-personalization-too/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64f0ab4d268c90e2d9b575a5/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Nation sets impressive pace on AI applications"
-    excerpt: "Chinese enterprises are at a crucial stage of making breakthroughs in generative AI, and should invest more in building exclusive AI models that are more efficient and offer tailored and precise services to users, the experts said. They also emphasized the importance of safeguarding core and sensitive data and user privacy from potential leaks."
-    publishedDateTime: 2023-09-04T01:24:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202309/04/WS64f510d9a310d2dce4bb3a58.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202309/04/64f5314da310d2dc6d27309c.jpeg"
-        width: 542
-        height: 361
-        isCached: true
+      name: Impacts
+      domain: techbullion.com
+    quality: 4
 
 secured: "N6h9h1yoLoVOhdEmIELA0iJ21Xawc1M0tAKwH3h2AbG1EuYB0IyM2LN7PuyyyL/6AAOKlnAH8IyKE5gjoTwKZKTsMLuc+GVh4Ln/nBxVyrr1XdSNp3rZUNyuAIHOfvLYywBfv+s0iqH9fn6AlYGZro06pY7YzUFMVhpnKLjSJ8camIwlvfjuC/aW5Rg1saiAGgqVkV2gj2PkX15UHuiEiUA+15scaEEjnRFywTtKVwZ9/mqeYo7YKwEpdKp3ApE3amvc3A9u8SkLNClNBOdF3JBar4ldAEATwm2e2KsI5GO8g7vgP734trmgjJvHiwis2YIpIv4da0dn7tafmjvlKV4OsCqxnT3OwPLlMEMi01g=;Pzve6B0b7hq31D0eIu8xOQ=="
 ---

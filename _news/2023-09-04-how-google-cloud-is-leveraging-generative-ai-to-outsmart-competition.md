@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/09/04/how-google-clou
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/amp/"
 type: article
 quality: 91
-heat: 162
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "What CTOs are learning from generative AI"
+    excerpt: "These tools use machine learning algorithms and natural language processing (NLP) to help developers automate some aspects of coding. “AI-generated coding enables developers to work on more creative and fulfilling tasks,” Rotar says. “By spending ..."
+    publishedDateTime: 2023-09-05T09:01:00Z
+    webUrl: "https://www.infoworld.com/article/3705048/what-ctos-are-learning-from-generative-ai.html"
+    ampWebUrl: "https://www.infoworld.com/article/3705048/what-ctos-are-learning-from-generative-ai.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705048/what-ctos-are-learning-from-generative-ai.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 93
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/08/shutterstock_767182213-100945458-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Enabling Enterprise Transformation With Generative AI"
     excerpt: "For the rapidly evolving technology to live up to its promise of transforming the way we work by leveraging enterprise data, three key questions must be considered."
     publishedDateTime: 2023-09-01T10:00:00Z
@@ -48,47 +64,49 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Generative AI and Foundation Models Face Inflated Expectations"
-    excerpt: "Computer vision and cloud AI services are among the most mature applications of AI, according to Gartner's 2023 AI Hype Cycle."
-    publishedDateTime: 2023-08-31T17:08:00Z
-    webUrl: "https://www.techrepublic.com/article/generative-ai-dominates-2023-gartner-hype-cycle/"
+  - title: "5 ways CISOs can prepare for generative AI’s security challenges and opportunities"
+    excerpt: "An effective zero-trust framework can help reduce the blast radius of generative AI attacks and establish a first line of defense."
+    publishedDateTime: 2023-08-31T17:04:00Z
+    webUrl: "https://venturebeat.com/security/5-ways-cisos-can-prepare-for-generative-ai-security-challenges-and-opportunities/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 80
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr_08312023-generative-ai-dominates-2023-gartner-hype-cycle.jpg"
-        width: 1400
-        height: 900
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/4.-Designing-for-trust-Top-10-cybersecurity-priorities-for-CIOs-in-2023.jpg?fit=750%2C422&#038;strip=all"
+        width: 750
+        height: 422
         isCached: true
-  - title: "Google goes all in on the AI cloud"
-    excerpt: "Market landscape analysis: Players such as Snowflake Inc. and Databricks have effectively acted as the AI and data layer on platforms such as Amazon and Microsoft Azure, given these cloud platforms’ underwhelming data and AI capabilities. AWS seems ..."
-    publishedDateTime: 2023-09-02T15:37:00Z
-    webUrl: "https://siliconangle.com/2023/09/02/google-goes-ai-cloud/"
+  - title: "How Apple is already using machine learning and AI in iOS"
+    excerpt: "Machine learning has become Apple's catch-all for its AI initiatives. Apple uses artificial intelligence ... with the launch of iOS 17.1. Apple will improve dictation and language translation with machine learning as well. Machine learning is also present ..."
+    publishedDateTime: 2023-09-02T17:17:00Z
+    webUrl: "https://appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios"
+    ampWebUrl: "https://appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios/amp/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 41
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 76
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Google-Cloud.jpeg"
-        width: 6948
-        height: 4634
+      - url: "https://photos5.appleinsider.com/gallery/56062-113816-Apple-Siri-xl.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Google adding AI tools to cloud"
-    excerpt: "Google's cloud clients will be able to access Meta's Llama 2 large language model, as well as AI startup Anthropic's Claude 2 chatbot, to customize with enterprise data for their own apps and services. The move, announced last week at Google's Next '23 ..."
-    publishedDateTime: 2023-09-03T07:01:00Z
-    webUrl: "https://www.arkansasonline.com/news/2023/sep/03/google-adding-ai-tools-to-cloud/"
+  - title: "AI expert discusses generative AI: What it means and how it will impact our future"
+    excerpt: "Generative AI is revolutionizing our world. Monica Livingston, an AI expert at Intel, shares her insights into the future of this growing technology."
+    publishedDateTime: 2023-09-01T16:18:00Z
+    webUrl: "https://www.businessinsider.com/sc/ai-expert-explains-how-generative-ai-will-change-our-future"
     type: article
     provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
     images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/205216573_Google-AI-bg-3db9458a-4676-11ee-9807-7da73538c4fb_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 399
+      - url: "https://i.insider.com/64f0a302954da4001967f7b8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Acceptable-use policies for generative artificial intelligence"
     excerpt: "The program is possibly the most well-known example of generative AI, an artificial intelligence technology that identifies patterns in large quantities in training data and then generates original content – text,"
@@ -99,29 +117,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
-  - title: "New Meta, Google tools detect AI-generated images"
-    excerpt: "The tech giants release tools to identify synthetic images and combat AI-related discrimination for more responsible use."
-    publishedDateTime: 2023-09-01T13:11:00Z
-    webUrl: "https://www.itweb.co.za/content/4r1ly7R9Ejnvpmda"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 19
-  - title: "IAA MOBILITY 2023 Talking not Typing: Continental and Google Cloud Equip Cars with Generative Artificial Intelligence"
-    excerpt: "Continental announced a partnership with Google Cloud during its press conference at the IAA MOBILITY 2023. Together, the two companies are equipping"
-    publishedDateTime: 2023-09-04T17:26:00Z
-    webUrl: "https://menafn.com/1107004164/IAA-MOBILITY-2023-Talking-not-Typing-Continental-and-Google-Cloud-Equip-Cars-with-Generative-Artificial-Intelligence"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 14
-    images:
-      - url: "https://menafn.com/updates/pr/2023-09/04/pr_12163_22a9c30d_image_story.jpg"
-        width: 4920
-        height: 3553
-        isCached: true
 
 secured: "zBKSXFmnBBxehH7oTqzQJkUw8Bi6maYWLNnE+E9iDX6rGR68rx+CT3kzm5yvLb85fjAKoBiYdBiQPJrDp5GIcVjK3RCcMbP2W5PmhDxDrMmUSOXWO75KDGRTYgH6PxrfD4Kia4lxbOKG+CQ1ImBfoWFMwJEpOlcZc2Yomgz0SRouflevOg4FMq4Iy8BlUtD5UWGC2xJF+/baACeJlU9w2x8630oH8NEK5sp8Ie2s3h/lKGfwXNyieABtFblioaIdgGcjljJuhExcSWSKbpMP8q8BuVUSNGj5iMa97o/2I5m3HGVv3ZtWClXeBcUbA6OjIOLX0J5HHc+1cd0cxnd0mJCQFgCArEwhi9X28zUsqebyG3Vkuz9gcRQni0RxTU3vxb72urETnIFsFGIcSY6AOYbb4zWT8Nm2GCAlI9NAFbZUoVrAjJIX/Fj1XNC4P5v1S8mVTXvmHvXiMV6dWnYyDnsm+dsnmX7DiQDFzGSjwqka1gd1yIqNgrZUjlf+LYbHUFJfCcdwi/SUAYAatC4Aug==;/G6AJBti1ERTmrQ/TuGoJA=="
 ---

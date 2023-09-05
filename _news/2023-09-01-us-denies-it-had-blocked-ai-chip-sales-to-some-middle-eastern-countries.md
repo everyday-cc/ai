@@ -54,6 +54,22 @@ related:
         width: 5650
         height: 3560
         isCached: true
+  - title: "Nvidia CEO Heads to India. It’s a Sign of the Country’s AI Chip-Making Ambitions."
+    excerpt: "Nvidia NVDA –1.71% CEO Jensen Huang is a man in demand and his movements bear watching. His latest meeting with India’s Prime Minister Narendra Modi could be a clue to the hopes of making India a new chip-..."
+    publishedDateTime: 2023-09-05T09:18:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-stock-ceo-jensen-huang-india-modi-chip-manufacturing-72345daf"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-ceo-jensen-huang-india-modi-chip-manufacturing-72345daf"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-ceo-jensen-huang-india-modi-chip-manufacturing-72345daf"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 69
+    images:
+      - url: "https://images.barrons.com/im-231723/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "US regulators deny blocking AI chip exports to Middle East"
     excerpt: "Nvidia’s quarterly report stated it received requirements from U.S. regulators about needing to obtain a license prior to selling its flagship chips to “some Middle Eastern countries.”"
     publishedDateTime: 2023-09-01T12:40:00Z

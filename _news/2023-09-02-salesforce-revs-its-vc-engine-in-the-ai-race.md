@@ -34,36 +34,6 @@ related:
         width: 1200
         height: 698
         isCached: true
-  - title: "Meet Superframe, the AI startup that wants to be your copilot for revenue operations"
-    excerpt: "Superframe, an AI-powered software company aiming to help businesses optimize their go-to-market technology stacks, announced it has raised $5 million in seed funding."
-    publishedDateTime: 2023-08-31T15:59:00Z
-    webUrl: "https://venturebeat.com/enterprise-analytics/meet-superframe-the-ai-startup-that-wants-to-be-your-copilot-for-revenue-operations/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 60
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/unnamed-3.jpg?w=1200&strip=all"
-        width: 1200
-        height: 697
-        isCached: true
-  - title: "IBM, Salesforce join forces in enterprise AI push"
-    excerpt: "The two companies are working together on several areas in the CRM value chain, including the integration of Salesforce offerings for sale via IBM’s consulting business."
-    publishedDateTime: 2023-08-31T17:01:00Z
-    webUrl: "https://www.computerworld.com/article/3706029/ibm-salesforce-join-forces-in-enterprise-ai-push.html"
-    ampWebUrl: "https://www.computerworld.com/article/3706029/ibm-salesforce-join-forces-in-enterprise-ai-push.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3706029/ibm-salesforce-join-forces-in-enterprise-ai-push.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/08/person-at-laptop-using-generative-ai-interface-by-amperespy44-via-shutterstock-100945121-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "IBM and Salesforce Partner To Help Businesses Accelerate Adoption of Trustworthy AI"
     excerpt: "ARMONK, N.Y. and SAN FRANCISCO , Aug. 31, 2023 – – IBM and Salesforce announced a collaboration to help businesses worldwide across industries accelerate their adoption of AI for CRM. Together, the two companies support clients to revolutionize customer, partner and employee experiences, while helping safeguard their data."
     publishedDateTime: 2023-08-31T17:07:00Z

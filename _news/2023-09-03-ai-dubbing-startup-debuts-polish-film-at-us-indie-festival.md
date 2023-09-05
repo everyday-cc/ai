@@ -40,6 +40,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Now, another Dubai first: An Artificial Intelligence Film Festival"
+    excerpt: "Expo City Dubai is pioneering advancements in new technologies and elevating its position as an Artificial Intelligence (AI) innovation hub with the launch of the region’s first Artificial Intelligence Film Festival (AIFF), which will explore the ..."
+    publishedDateTime: 2023-09-05T09:05:00Z
+    webUrl: "https://www.gulftoday.ae/lifestyle/2023/09/05/now-another-dubai-first-an-artificial-intelligence-film-festival"
+    type: article
+    provider:
+      name: gulftoday
+      domain: gulftoday.ae
+    quality: 52
+    images:
+      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/culture/2023/9/5/marjan-faraidooni-2.ashx?h=450&w=750&hash=CE74A8520B93A36C0D683A46E846B2DD"
+        width: 750
+        height: 450
+        isCached: true
 
 secured: "35TEH8UBnOOUukdFaDcsZcEYt74RX0MfvZ31gW/K7fUBmqhlsxrR8VJ7+g3pwzknNpchRdyibAS6Md6RuAJLh9RCbnTBkVNrSwQFrUM5BYnDd03b6cR1KW/I59PnawAjp0OfenermOH1k4YUVB799DsFNHnJ4vCxbxew9EVVD+JqQyxWT9K/0VSSml3bPxino+21CyhH+r3pOykCGj8K4wSUQxt6nI+qZr5SABaiglesKUEqzceewoZpt0BLjZBbkKn2F6SUORghYKJ92Kf0VuPauohKD9bEe3FUz9HeYPNNeLeDuA3XPJiYtcHlSrDIyWn8D4yXPy/Eys1vTvRmIqdn8hOaJ5OlznJNtSP0ZhmWv83FvjG5+vo8qUGrKvKV/8lGyTVypaK/yPTbJRB/51/7FH5ybEeFFDtKUaeEGBJVR6OKQkBnFLBJ7DzjjfukwflmqiJ7kXdb+utDDjtUERbzc/DmuVF8oJgXaPRjW0XQBQnN303cQHZQuFkNjzyp3yUPio2CkMBdaALgV7xBYg==;4ZE8bGVURQ+Ke5Rf9/Bm+Q=="
 ---

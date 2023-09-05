@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fintech Outsourcing India: Crafting the Future of Global Finance with Tech Mastery"
+    excerpt: "Emerging fintech trends, like AI-driven financial analysis, blockchain in banking, and automation of complex financial processes, further solidify India's reputation"
+    publishedDateTime: 2023-09-05T08:42:00Z
+    webUrl: "https://theprint.in/theprint-valuead-initiative/fintech-outsourcing-india-crafting-the-future-of-global-finance-with-tech-mastery/1747072/"
+    ampWebUrl: "https://theprint.in/theprint-valuead-initiative/fintech-outsourcing-india-crafting-the-future-of-global-finance-with-tech-mastery/1747072/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/theprint-valuead-initiative/fintech-outsourcing-india-crafting-the-future-of-global-finance-with-tech-mastery/1747072/?amp"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 53
+    images:
+      - url: "https://static.theprint.in/wp-content/uploads/2023/09/Untitled-design-6-1.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Engineering firms lose out to fintech and IT in recruitment war"
     excerpt: "Work is needed to counter the ‘oily’ image of jobs for engineers, and stop the digital sector from luring the best graduates"
     publishedDateTime: 2023-09-02T14:00:00Z
@@ -55,15 +71,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "AI in Fintech Has Been Slow to Start, But Look for a Second Phase of Investment Opportunities"
-    excerpt: "The emergence of generative AI could yield the largest transformation the financial services market has seen in decades. From Microsoft to Google to Amex, everyone seems to be betting big on AI."
-    publishedDateTime: 2023-08-31T18:24:00Z
-    webUrl: "https://www.nasdaq.com/articles/ai-in-fintech-has-been-slow-to-start-but-look-for-a-second-phase-of-investment"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 38
   - title: "3 Up-and-Coming Fintech Stocks to Put on Your Must-Buy List"
     excerpt: "And as artificial intelligence (AI) continues to expand, it’s time to look at fintech stocks with huge potential. Similar to the AI sector, there is no shortage of names in the fintech space. However, some of these names are flying under the radar even ..."
     publishedDateTime: 2023-09-01T04:03:00Z
@@ -82,15 +89,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "Fintech Klarna Claims it’s the Only Bank Among ChatGPT Enterprise Launch Clients"
-    excerpt: "Global Fintech firm Klarna, the AI-powered payments network and shopping assistant, claims it has \"taken the lead\" in AI adoption."
-    publishedDateTime: 2023-09-01T13:13:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/09/212271-fintech-klarna-claims-its-the-only-bank-among-chatgpt-enterprise-launch-clients/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 29
   - title: "Relevantz: Driving fintech innovation with Fiserv"
     excerpt: "Senior Director of Client Success at Relevantz, Georgie John, traces his time at the service provider and the importance of its partnership with Fiserv"
     publishedDateTime: 2023-09-04T14:31:00Z
@@ -128,15 +126,15 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 19
-  - title: "Martequity Summit ‘23: Building customer trust in fintech"
-    excerpt: "The fintech customer is becoming more demanding and it’s become an imperative for organisations to use digital tools to overcome language barrier, personalise and retain customers using micro-communication."
-    publishedDateTime: 2023-09-01T13:10:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/marketing/martequity-summit-23-building-customer-trust-in-fintech/103287205"
+  - title: "Agtech startup Labby shaping the future of the dairy industry by tackling testing | Luminate N.Y. Spotlight"
+    excerpt: "Labby, an Optical Sensing Agtech startup born out of the Massachusetts Institute of Technology (MIT), is creating on-farm milk testing technology that will help dairy farmers enhance profitability, improve animal health and welfare,"
+    publishedDateTime: 2023-08-31T18:38:00Z
+    webUrl: "https://rbj.net/2023/08/31/agtech-startup-labby-shaping-the-future-of-the-dairy-industry-by-tackling-testing/"
     type: article
     provider:
-      name: brandequity.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 4
+      name: Rochester Business Journal
+      domain: rbj.net
+    quality: 0
   - title: "Unveiling the Top Fintech Trends: How Technology is Revolutionizing Financial Services"
     excerpt: "Are you ready to embark on a journey into the future of finance? From mobile banking to advanced algorithms, technology has been transforming the way we interact with money and manage our finances. In this blog post,"
     publishedDateTime: 2023-09-01T17:36:00Z

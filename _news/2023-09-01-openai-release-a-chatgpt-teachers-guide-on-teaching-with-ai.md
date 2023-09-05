@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Startup Chai offers salary of $875K to compete with OpenAI for Generative AI talent"
-    excerpt: "As tech startups compete with OpenAI for talent, Chai AI researcher compensation exceeds $875K. As one of the world's largest independent chat AI platforms they have placed themselves in a position singularly appealing to the best of the AI field."
-    publishedDateTime: 2023-08-31T15:37:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/31/9873391.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 11
 
 secured: "uF2ntthb42dKtcaBHGGhOsUcQOCzMMIZh571WokWyvz3ge196eMLuFoiL5UwUyM6QjnyrCtxfMxDQKzhMjmJerlpyka74q7Dt3KOVzOAVt6ZZ5p1BuzlJyfkyZmjJNXJJHCbKOx9gsbK68YkSByzWRuLpdhTimvqcSmy1l3WudpgainOBYOHOaWZIxemmp6Y9ZH93RD141kE4Ulqa3F/wXoLCZCxfGobt4qExOhoQJ3loU9tkTXXsJa1KCX/d3ouxoU7+s9Du+N1GC2qjIrWc5LWASLAOVm3CPKNt+bhIWWrrojwD0wf8FbcbQl7PfA7WneQMNa6kcG0apa8XNdGJnz3u+4S9pfLuEk1dyhEHVk=;SrJUOeLZCVnDqJJDOlZp5g=="
 ---

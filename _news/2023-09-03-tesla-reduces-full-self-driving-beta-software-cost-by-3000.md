@@ -55,21 +55,19 @@ related:
         width: 3000
         height: 1815
         isCached: true
-  - title: "Tesla allowing no-hands Autopilot driving for longer periods. Regulators have questions"
-    excerpt: "Tesla says Autopilot and a more sophisticated “Full Self-Driving” system cannot drive themselves and that drivers must be ready to intervene at all times. Autopilot generally can keep a car in its lane and a distance away from objects in front of it."
-    publishedDateTime: 2023-08-31T16:10:00Z
-    webUrl: "https://www.eastbaytimes.com/2023/08/31/tesla-is-allowing-no-hands-driving-with-autopilot-for-longer-periods-us-regulators-have-questions/"
-    ampWebUrl: "https://www.eastbaytimes.com/2023/08/31/tesla-is-allowing-no-hands-driving-with-autopilot-for-longer-periods-us-regulators-have-questions/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/08/31/tesla-is-allowing-no-hands-driving-with-autopilot-for-longer-periods-us-regulators-have-questions/amp/"
+  - title: "Tesla go-kart upgraded with self-driving autopilot"
+    excerpt: "In the realm of technological innovation, Austin Blake has made a significant stride by creating a self-driving go-kart, aptly named the Teskart. This"
+    publishedDateTime: 2023-09-05T08:15:00Z
+    webUrl: "https://www.geeky-gadgets.com/self-driving-autopilot-go-cart/"
     type: article
     provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 51
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
     images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2023/08/Tesla_Autopilot_Investigation_13169-1.jpg?w=1024&h=683"
-        width: 1024
-        height: 682
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/Tesla-go-kart-upgraded-with-self-driving-autopilot-2023.jpg"
+        width: 700
+        height: 455
         isCached: true
 
 secured: "648OitpjWAJ9a5KP4iJmh6WsImM1tlf6cIJ4gGwCTXqPNTR0k5FSlWrjCw2USWHTm1jwkICKlbYI5ugt/iv2aCPqOhj87lgjLKtgxCAj9K3uK8Rx1SWjTgm4EVcXXAw9GtTGVZTpUhA/mCnSVKRuPuiuPGO5oU2AcJF1IGfx2JZUOlgV8m78SXUdph7xArEVTmuH+kfTn3KsV6jJCrzaWj6dIB5fDQzeW6C5HyhtHbCJXiyGIQL4h2CsCzbLqrlAQTQBL4tfaErASU1UQTYJngjr/BIMco9OUB8hcoBbBFZXPXdminXWZOiYn0s5dp2lbcmHaehC/xCcg/+DLe+ha08vUmQK8G+3Z9gFfLUymx6sRi5gcoSghLxia5V64MIvqc25tzQFR5RA69mCxkIC7S47iGHOA1/KGyYgWtnVs7AWzgumiD13iaVq3GeyG4SvPVHeIyy1jyGENyAMzQx5CowKzGPo0yfT1TnDxdkwWgW0qHmNVYkxQf2eisDHnLp2Bw8ZRPJTFNYKGh0yy9PW1w==;WzBtvH8rH7hBA05yqoZeJw=="

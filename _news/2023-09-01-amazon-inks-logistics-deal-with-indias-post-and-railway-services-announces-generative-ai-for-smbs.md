@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/08/31/amazon-india-post-railways-generat
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/31/amazon-india-post-railways-generative-ai/amp/"
 type: article
 quality: 73
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-scaled.jpg"
         width: 2048
         height: 1152
-        isCached: true
-  - title: "Trellis Announces $15 Million Investment, With Plans to Launch Generative AI Offerings"
-    excerpt: "The state court legal research and analytics platform noted that it plans to leverage this funding round for its “next phase of growth” which will see new generative AI features and product releases."
-    publishedDateTime: 2023-08-31T16:25:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/08/31/trellis-announces-15-million-investment-with-plans-to-launch-generative-ai-offerings/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 31
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/08/Trellis-logo-767x633.jpg"
-        width: 767
-        height: 633
         isCached: true
 
 secured: "IDScJ0RElor8EpCwKB5qiwU4owy6OwOZrmeCMMSREq87EQDk5MnKi1b0fNHjG+uiMmM0Ds7AoLwRVWdPBu9kq4IvlacB7lZFe+vhmhnQgqW7CA74sV7Z8/YA84MhPpBJfGLoV9UUyyAQP2mkka3hxp0jH2KpYxMrbw7XY5/OtvmeQp/TCuHTC2mmNutjJ7cNho+l4emeQ3UbxqAQQhVDY+ktZ+xp6nUEO8SK8jwm+yDxO0DGKLtpR43nwQZFrtoFdfwFK1wwerhIJovbXhDtDxFiU95LacT4v5SYdDKgWsVPsjN9ZD0b7rxDLlV6zsut/MQUvQYGXvrREJrFaMnh99aqKbfbJArrMSPk5/a3kHI=;BGk/oyHCxzpki2mvdPKL1Q=="

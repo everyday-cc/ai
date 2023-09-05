@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 810
         isCached: true
+  - title: "Artificial Intelligence May Influence Whether You Can Get Pain Medication"
+    excerpt: "Elizabeth Amirault had never heard of a Narx Score. But she said she learned last year the tool had been used to track her medication use. During an August 2022 visit to a hospital in Fort Wayne, Indiana, Amirault told a nurse practitioner she was in ..."
+    publishedDateTime: 2023-09-05T08:32:00Z
+    webUrl: "https://www.gazettextra.com/news/nation_world/artificial-intelligence-may-influence-whether-you-can-get-pain-medication/article_45514437-0484-576f-a923-5729814a7bda.html"
+    type: article
+    provider:
+      name: Janesville Gazette
+      domain: gazettextra.com
+    quality: 51
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/gazettextra.com/content/tncms/custom/image/bd5993ec-56a6-11ec-a43c-8f7b005e099d.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Artificial intelligence may influence whether you can get pain medication"
     excerpt: "New tools, like Narx Scores, are using data and algorithms to screen patients for potential opioid abuse. But they don't always get it right"
     publishedDateTime: 2023-09-01T13:30:00Z

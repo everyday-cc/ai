@@ -77,20 +77,6 @@ related:
         width: 1200
         height: 757
         isCached: true
-  - title: "5 Ways AI Will Transform the Mobility Industry"
-    excerpt: "Although they've only really reached mainstream attention in the past decade, autonomous vehicles have been around since the 1990s. In recent years, some self-driving cars have achieved Level 4 autonomy, which means they can steer, accelerate, decelerate, and intervene to prevent a crash without the need for human interaction."
-    publishedDateTime: 2023-08-31T15:30:00Z
-    webUrl: "https://www.inc.com/inc-masters/five-ways-ai-will-transform-the-mobility-industry.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1263350156_hssaxd.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "QsTj55NeP74QRN+TvZWnUA3uE33L3EINsvrKMn1uhdn86Maykl5dXkppMQ+KzgAVuX/Y5s/JiZss2Ti1+NdpHIeKZvxLjSkq7s9xhtcUNHpjQGo6iLmJDyoRjHX5OCyXFzVbGaDzArIAXQqR849r05bFx9gTDBjffxZcsqCPGw6tJRUl2qw6jPawBV5hhGdFkdDqp1Tx0fsbFJzamxR6ElZ/Zw0r/k97eimRpOFPUNb6nFrumSzjPtgY04OCtlRad2KZNNL4adOTsXtOUfNv2lBQFNLqRZTRBB9LZ7fUNOquW+9RNjsCmI+H/3jzg2j7tmEWTfbVCeT7A6RcdPyAbcxblXrDBrFvCynchJUs/XhRFpdl3ivbXsdZ+zJRJMrWZYEbONWbEPAPrffGMQDXauIbBAmcl1lvsZWmGfAFUsUsKCx/SMu6ntk2ugyJWVxZlOhtpm+RmQ4eRqq/5+j3+PUYwrxkMUW6Okene6o8bdrJozNh3VP/Y/qx94u3BJmOzF3w7zZVizrgeFlRCl8BVg==;kIaMaBEtf0b6V+Ed0pvcWw=="
 ---

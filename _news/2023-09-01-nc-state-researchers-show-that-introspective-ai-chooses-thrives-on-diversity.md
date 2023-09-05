@@ -9,8 +9,8 @@ ampWebUrl: "https://wraltechwire.com/2023/09/01/nc-state-researchers-show-that-i
 cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/09/01/nc-state-researchers-show-that-introspective-ai-chooses-thrives-on-diversity/?amp=1"
 type: article
 quality: 55
-heat: -1
-published: false
+heat: 75
+published: true
 
 provider:
   name: WRAL TechWire
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "An 'introspective' AI finds diversity improves performance"
-    excerpt: "An artificial intelligence with the ability to look inward and fine tune its own neural network performs better when it chooses diversity over lack of diversity, a new study finds. The resulting diverse neural networks were particularly effective at solving complex tasks."
-    publishedDateTime: 2023-08-31T16:33:00Z
-    webUrl: "https://techxplore.com/news/2023-08-introspective-ai-diversity.html"
-    ampWebUrl: "https://techxplore.com/news/2023-08-introspective-ai-diversity.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-introspective-ai-diversity.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/an-introspective-ai-fi.jpg"
-        width: 1448
-        height: 649
-        isCached: true
   - title: "An 'introspective' AI finds diversity improves performance"
     excerpt: "An artificial intelligence with the ability to look inward and fine tune its own neural network performs better when it chooses diversity over lack of diversity, a new study finds. The resulting diverse neural networks were particularly effective at solving complex tasks."
     publishedDateTime: 2023-08-31T19:39:00Z

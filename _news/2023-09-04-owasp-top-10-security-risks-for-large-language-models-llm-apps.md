@@ -25,6 +25,22 @@ images:
     height: 466
     isCached: true
 
+related:
+  - title: "How to build Large Language Models (LLM) and RAG pipelines using open-source models"
+    excerpt: "In the world of artificial intelligence, the ability to build Large Language Model (LLM) and Retrieval Augmented Generation (RAG) pipelines using"
+    publishedDateTime: 2023-09-05T08:49:00Z
+    webUrl: "https://www.geeky-gadgets.com/how-to-build-large-language-models/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 18
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2F0xyXYHMrAP0%2F0.jpg"
+        width: 480
+        height: 360
+        isCached: true
+
 secured: "Rl4/qo/fRu2JAvikj0S8Ahu/Df9tf07ZMo/bZJfq91alUD95Ww943mbjJb4ED/HFQb5pUpGJg5TTEre/6KzZBaBRpO3kwv/o755XpCBPSyBvae4jRHxEC2VsNFP2m5ubpwCc5qVBslTP7BZRSA752Sz/k9gNQb6NwrL7t974FDQOgShDh9snBixdGL1g3NTlIokfhNfREPNubVi29UISjIqznnnebfDM/14B3kVmdvZm0tJFRORRLHAXWyn5GMuzkMVsG5hreVw7Ce+IGwsdfABJnTAcICDXpjQG18mgjadA+ZQBxiECuAar5klOcmEeNwkJev1TjCYqtjAdC6hrJc/z8q6F0HL742ZXHxYeZqnjjt0FtlWplAwcjCDsQDOnGKy3/8baRTHD0pgou5IVmzcAirJMncYcQ2FcbN67mVqpzU+z9uhz5fubwg/BIp5XGrPuT5SMAxVg5pbDx8CXO1okAL+7naHLrdJlBFZY07qDApko8WWW5jn31JKPaLKv+O86AOa9f2gKg7qJDVNI8g==;C1sEEHJ0r7zRlhhDLc4nwA=="
 ---
 

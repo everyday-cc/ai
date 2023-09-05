@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Nvidia CEO Heads to India. It’s a Sign of the Country’s AI Chip-Making Ambitions."
+    excerpt: "Nvidia NVDA –1.71% CEO Jensen Huang is a man in demand and his movements bear watching. His latest meeting with India’s Prime Minister Narendra Modi could be a clue to the hopes of making India a new chip-..."
+    publishedDateTime: 2023-09-05T09:18:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-stock-ceo-jensen-huang-india-modi-chip-manufacturing-72345daf"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-ceo-jensen-huang-india-modi-chip-manufacturing-72345daf"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-ceo-jensen-huang-india-modi-chip-manufacturing-72345daf"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 69
+    images:
+      - url: "https://images.barrons.com/im-231723/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "Bqakt4CXL3IiqZE3ab8eFStBnQDMrVeuSINwRkrrW9jLNwSudxJHuDFQ3ShosnYzkWr5PCGhEDdtwwUY2Eg+CGROcpsxkjHdX+gyqpMDJUP6owDFpTubY4M7gjYyPn2Q5Ok/DN96uV9iX7XCLw+1q4vz/HobOIHSXSlk4FV9ennKwRGUHIAmS6Hft5rVd/gRfrKek03lQytFDbEw8YXOx3ovtduwrEyjqXIpYSoHwqG53p6ODcdo06JXilTSiAheEn7fW7AafxV9WJuIXjt3HSPiz5fLA2EbFwgfikLxGcbhf8FjPy4jCwpcdbIdsb/TCdpiTGWPd97q2TqMqxqA5AnTJbM/SxNrt69jH+5/xpVwOSMNKJ2kohcABVkaxAN1j9vMZQxInSEdAlbSRkNnYKzAIFIx++5dkOZUuukG9r3R+Yoe8ybEJytVere6v/3PzDxWowIzz7d9dmubTajAZFvLqnUpFuXE/RhQBWV8TV9EHgj8g7DUI0j+ZbXSipJs4aUt0fwPYetHr6bZAog0cQ==;WrucWs0E7ezuus9GTVCQ2w=="
 ---

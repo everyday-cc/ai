@@ -7,7 +7,7 @@ originalUrl: "https://www.cryptopolitan.com/generative-ai-impacting-industries-g
 webUrl: "https://www.cryptopolitan.com/generative-ai-impacting-industries-globally/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,37 +25,16 @@ images:
     isCached: true
 
 related:
-  - title: "AI expert discusses generative AI: What it means and how it will impact our future"
-    excerpt: "Generative AI is revolutionizing our world. Monica Livingston, an AI expert at Intel, shares her insights into the future of this growing technology."
-    publishedDateTime: 2023-09-01T16:18:00Z
-    webUrl: "https://www.businessinsider.com/sc/ai-expert-explains-how-generative-ai-will-change-our-future"
+  - title: "Unveiling HomeDesigns AI: Revolutionizing Real Estate and Design with AI-Powered Innovation"
+    excerpt: "Unlock a new era of real estate and design with HomeDesigns AI. Explore how this cutting-edge technology is pushing boundaries and redefining"
+    publishedDateTime: 2023-09-01T08:28:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/unveiling-homedesigns-ai-revolutionizing-real-estate-and-design-with-ai-powered-innovation-1032598048"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 61
-    images:
-      - url: "https://i.insider.com/64f0a302954da4001967f7b8?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Generative AI means the looming end of search as we know it – here’s why"
-    excerpt: "“Datafication Nation” columns are part of WRAL TechWire’s Startup Monday package. RALEIGH-There is tremendous hype and hysteria surrounding Generative AI, and the risk it poses to many job categories and to complete industries. But should we ..."
-    publishedDateTime: 2023-09-04T11:09:00Z
-    webUrl: "https://wraltechwire.com/2023/09/04/generative-ai-means-the-looming-end-of-search-as-we-know-it-heres-why/"
-    ampWebUrl: "https://wraltechwire.com/2023/09/04/generative-ai-means-the-looming-end-of-search-as-we-know-it-heres-why/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/09/04/generative-ai-means-the-looming-end-of-search-as-we-know-it-heres-why/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 56
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2018/05/artificial-intelligence-4-alien-god-diety.jpg"
-        width: 960
-        height: 578
-        isCached: true
+    quality: 37
 
-secured: "GTSlCGzfyKeVOZeYaif/DiNy+N8+KIZz2FaXMXTvi4e4cUh74KlJOGa2WUG++Vu6LLaZ+r6Vz/cYmT6QKX2UDz1ZW8gLLbl9LRXo4+8w1lxnYKjDh/C53d3faFLNRmvjJwjAkix5wHeuD4fWNWpuFyFmwVsqsXw/0qNsFqvBlAcTiuXqNDciuG2exlZW22Cg8pGwb/CBEHP8ZfPtUELbEEF2AkHG7VsZYZtyR8GZL3VDv4PY4q/IMiAqKhs2MEFvq68ebGdrLr5SL+G17B05IjfBdSps2X2LbnB0w2/ERzKREcPmwswUHYSJV3a7F6c+o1qXVOk1wyEA/9lHzYBh3zOT97YyZ/Kg1T1BviMO1eY=;G4ygPuru5PJlfomwiIb6qw=="
+secured: "i+0HVC8ntSL+eXEY3ijLiOc/xTY1cjauqBR4dcIE16/4AbrTmZBY71ZYItQgXiSqzngAuUAD1QraVkvAT6vkcrb4y2vciCbrBnKkOvTIDK6OeIUTXblEWnWpNoGZSlOAYjM++xqaie6TT0e61+63HzvwxU4V44ew87hkYXUkmT+gdyu2ylvsRTblQrFULb8pUEza6bvGNEneKYFtyTTKR5172AziXUE3IeFYRoEyd91r/Fc1UCIXsJ4n9NpBCqLNGh0gFPus2wQjTOx1heThugmz5VhcIOjoW6mwVvqcyIQRyrDzFjs0eQMS25qwvJw7mOZaxwD0prcFQzSwNDhNK7k3l8HfftfOs94HHt1sAe86kc7g5UEi9LpTW2P/QKLk6n8wuJZS7J5UuT81C232XEtGrVC2txTFwug+QiFE7C8GuBDIWfgY8aGkpwfzVTVp/BexPdKtPLHbe8DaiejHdRGCd5uWRecv5VBlDjHTH9EW8AkKNWd1uSS++3UihvOByPVB5+tBNp8oyPvX5GjZyA==;NCz9eBQzJvN2xhE5/p0eTg=="
 ---
 

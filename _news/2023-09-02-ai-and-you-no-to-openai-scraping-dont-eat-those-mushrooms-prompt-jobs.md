@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/tech/computing/ai-and-you-no-to-openai-scrapi
 webUrl: "https://www.cnet.com/tech/computing/ai-and-you-no-to-openai-scraping-dont-eat-those-mushrooms-prompt-jobs/"
 type: article
 quality: 70
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 700
         height: 466
         isCached: true
-  - title: "Startup Chai offers salary of $875K to compete with OpenAI for Generative AI talent"
-    excerpt: "As tech startups compete with OpenAI for talent, Chai AI researcher compensation exceeds $875K. As one of the world's largest independent chat AI platforms they have placed themselves in a position singularly appealing to the best of the AI field."
-    publishedDateTime: 2023-08-31T15:37:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/08/31/9873391.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 11
 
 secured: "5BclVz7JMsH4kagqmwx/OTwvFCPhs0JansVml9cAztx0g9hrcNsfChPPdqA3tYGTUTLhAQRN5aGcnhH4g/3xPdiLPnXqb8lWiiMkCLGZcLhWPrnms7ioGN5ZclQTFO/qo8ZhHRuAe3xeEfxApiGlqzq4EAgyW0eEq0bXlRwPzXDnUQJSvWUD/tsqi8W6lo52AX1aFeGQz1SsxK01QWiog+0Xieyq9+Na2xE7BMLKt07cQG5ZiQrI8cm14gKNNGM1MxXnfRHPyT468Tq7uTTdEEt18EpgXlVvwdsqTtAywtLDMLxwWQDVKumlcD543dawMpyWslBrncJ+cnCBHVnLKhtISNve2Y6gToHMQwLh2Gk=;w0+u2jymyLYJMMsFRFUSLg=="
 ---

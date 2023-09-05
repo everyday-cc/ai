@@ -7,8 +7,8 @@ originalUrl: "https://www.businessinsider.com/sc/ai-expert-explains-how-generati
 webUrl: "https://www.businessinsider.com/sc/ai-expert-explains-how-generative-ai-will-change-our-future"
 type: article
 quality: 61
-heat: 81
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -28,36 +28,93 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI means the looming end of search as we know it – here’s why"
-    excerpt: "“Datafication Nation” columns are part of WRAL TechWire’s Startup Monday package. RALEIGH-There is tremendous hype and hysteria surrounding Generative AI, and the risk it poses to many job categories and to complete industries. But should we ..."
-    publishedDateTime: 2023-09-04T11:09:00Z
-    webUrl: "https://wraltechwire.com/2023/09/04/generative-ai-means-the-looming-end-of-search-as-we-know-it-heres-why/"
-    ampWebUrl: "https://wraltechwire.com/2023/09/04/generative-ai-means-the-looming-end-of-search-as-we-know-it-heres-why/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/09/04/generative-ai-means-the-looming-end-of-search-as-we-know-it-heres-why/?amp=1"
+  - title: "What CTOs are learning from generative AI"
+    excerpt: "These tools use machine learning algorithms and natural language processing (NLP) to help developers automate some aspects of coding. “AI-generated coding enables developers to work on more creative and fulfilling tasks,” Rotar says. “By spending ..."
+    publishedDateTime: 2023-09-05T09:01:00Z
+    webUrl: "https://www.infoworld.com/article/3705048/what-ctos-are-learning-from-generative-ai.html"
+    ampWebUrl: "https://www.infoworld.com/article/3705048/what-ctos-are-learning-from-generative-ai.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705048/what-ctos-are-learning-from-generative-ai.amp.html"
     type: article
     provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 56
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 93
     images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2018/05/artificial-intelligence-4-alien-god-diety.jpg"
-        width: 960
-        height: 578
+      - url: "https://images.idgesg.net/images/article/2023/08/shutterstock_767182213-100945458-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Generative AI: A Revolution Impacting Various Industries Worldwide"
-    excerpt: "The rapid ascent of generative artificial intelligence (AI) is poised to bring significant changes across various industries. This cutting-edge technology, powered by large language models (LLMs), can redefine business operations."
-    publishedDateTime: 2023-09-05T04:13:00Z
-    webUrl: "https://www.cryptopolitan.com/generative-ai-impacting-industries-globally/"
+  - title: "How Google Cloud Is Leveraging Generative AI To Outsmart Competition"
+    excerpt: "It has a smaller 256-chip footprint per Pod, which is optimized for the state-of-the-art neural network architecture based on the transformer architecture."
+    publishedDateTime: 2023-09-04T11:49:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/amp/"
     type: article
     provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 91
     images:
-      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/09/photo_6030615150442167391_y.jpg"
-        width: 1024
-        height: 1024
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64f5bc845a7c3861341e8146/0x0.jpg?format=jpg&width=1200"
+        width: 1000
+        height: 667
         isCached: true
+  - title: "Enabling Enterprise Transformation With Generative AI"
+    excerpt: "For the rapidly evolving technology to live up to its promise of transforming the way we work by leveraging enterprise data, three key questions must be considered."
+    publishedDateTime: 2023-09-01T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/01/enabling-enterprise-transformation-with-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/01/enabling-enterprise-transformation-with-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/01/enabling-enterprise-transformation-with-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64de2670c0104c27ef8801c6/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "5 ways CISOs can prepare for generative AI’s security challenges and opportunities"
+    excerpt: "An effective zero-trust framework can help reduce the blast radius of generative AI attacks and establish a first line of defense."
+    publishedDateTime: 2023-08-31T17:04:00Z
+    webUrl: "https://venturebeat.com/security/5-ways-cisos-can-prepare-for-generative-ai-security-challenges-and-opportunities/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 80
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/4.-Designing-for-trust-Top-10-cybersecurity-priorities-for-CIOs-in-2023.jpg?fit=750%2C422&#038;strip=all"
+        width: 750
+        height: 422
+        isCached: true
+  - title: "How Apple is already using machine learning and AI in iOS"
+    excerpt: "Machine learning has become Apple's catch-all for its AI initiatives. Apple uses artificial intelligence ... with the launch of iOS 17.1. Apple will improve dictation and language translation with machine learning as well. Machine learning is also present ..."
+    publishedDateTime: 2023-09-02T17:17:00Z
+    webUrl: "https://appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios"
+    ampWebUrl: "https://appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 76
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/56062-113816-Apple-Siri-xl.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Acceptable-use policies for generative artificial intelligence"
+    excerpt: "The program is possibly the most well-known example of generative AI, an artificial intelligence technology that identifies patterns in large quantities in training data and then generates original content – text,"
+    publishedDateTime: 2023-09-01T10:00:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2023/09/01/acceptable-use-policies-for-generative-ai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "KQFo0SBuvGBVoyT0gLiMzHn0HrM5Znu25gPAWJ6eNXxwU7A840bt4EGGPvHcqT38Vdg11g8C5pVxIe4D18aRlo/xJu5DT9ibgPocvTjW8SrqR5AV4HE9tpbdevjup56wE+rxBDIw4DpiJ6qmjpM/yy7+toHU7NIGEfUxVGOge6lF4D0J1vTdIO3PvqO+pDvhl7aBBgySj4lxQkZC7gYP5gLliFqkAPppNLHOrrG3gzyUO7L6i5XNonVdIr7zdZpYYECbLE0vEv0+Z8nzF2ZmyrYXlRSQdk6kXNg5e9LUQV3ITx9UqAGXTKw6g+5hxIEf4Mqdf56phA63eUBONGd+gh1P5EAFy8Mk8smbboBjeJtJD9G5kPlZQtehRYJ2YvyDhDfgfnM9d/R/yyIljJD4dKzabccw6pcjkpVstq5jEbeM5Yo0+qnf0EdaK43VpZgl65E3EL9oo5sDZ4VnPG1Cjplq0fsOiONGlU5XUJTX4IXfMDNCtnznaaI9ENUMJRmflRcqtkE0Q3dIai9j/mChQw==;lklKPevJRnOhSuir5J/bgA=="
 ---
