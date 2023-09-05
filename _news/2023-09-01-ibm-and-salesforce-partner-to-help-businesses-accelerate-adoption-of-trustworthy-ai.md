@@ -71,40 +71,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "IBM and Salesforce team up to bring AI tools to their shared clients"
-    excerpt: "IBM and Salesforce announced they are joining forces to bring Salesforce AI solutions to customers of both companies."
-    publishedDateTime: 2023-08-31T13:53:00Z
-    webUrl: "https://venturebeat.com/ai/ibm-and-salesforce-team-up-to-bring-ai-tools-to-their-shared-clients/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "IBM and Salesforce Team Up To Help Businesses Accelerate Adoption of Trustworthy AI"
-    excerpt: "Tech giants collaborate to drive productivity and growth with generative AIARMONK, N.Y. and SAN FRANCISCO, Aug. 31, 2023 /PRNewswire/ -- Today,"
-    publishedDateTime: 2023-08-31T14:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-and-salesforce-team-up-to-help-businesses-accelerate-adoption-of-trustworthy-ai-1032596011"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 43
-  - title: "Salesforce In Artificial Intelligence Era, Personal Spending Rises But Income Falls, New Inflation Data"
-    excerpt: "Salesforce Inc CRM, an important software company that is also in Global X Dow 30 Covered Call ETF DJIA, reported better than expected earnings. There is excitement about Salesforce, as the company is now in the artificial intelligence era. About one half of the gain in DJIA this morning is due to the rise in CRM."
-    publishedDateTime: 2023-08-31T14:33:00Z
-    webUrl: "https://www.benzinga.com/23/08/34146322/salesforce-in-artificial-intelligence-era-personal-spending-rises-but-income-falls-new-inflation-dat"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34146322"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34146322"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
-    images:
-      - url: "https://cdn.benzinga.com/files/regularguy-eth-w9codxtsfts-unsplash_3.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Ibm And Salesforce Team Up To Help Businesses Accelerate Adoption Of Trustworthy Ai"
     excerpt: "Tech giants collaborate to drive productivity and growth with generative AI ARMONK, N.Y.<br />and SAN FRANCISCO, Aug. 31, 2023 /PRNewswire"
     publishedDateTime: 2023-08-31T22:04:00Z

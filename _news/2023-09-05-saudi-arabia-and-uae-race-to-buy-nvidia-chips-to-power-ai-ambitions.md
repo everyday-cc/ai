@@ -19,132 +19,43 @@ topics:
   - AI
 
 related:
-  - title: "US bans sale of top Nvidia and AMD AI chips to the Middle East"
-    excerpt: "Nvidia wrote in a regulatory filing that the US government had informed the company of a licensing requirement for a subset of A100 and H100 products"
-    publishedDateTime: 2023-08-31T14:29:00Z
-    webUrl: "https://www.techspot.com/news/99984-us-bans-sale-top-nvidia-amd-ai-chips.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 84
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/08/2023-08-15-image.jpg"
-        width: 2100
-        height: 1181
-        isCached: true
-  - title: "US denies imposing export controls on Nvidia’s AI Chips for select Middle Eastern countries"
-    excerpt: "Biden administration to restrict the export of Nvidia's cutting-edge (AI) computer chips to select countries in the Middle East"
-    publishedDateTime: 2023-09-01T10:07:00Z
-    webUrl: "https://www.gizmochina.com/2023/09/01/us-denies-imposing-export-controls-on-nvidias-ai-chips-for-select-middle-eastern-countries/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 74
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/09/Screenshot-2023-09-01-152431.png"
-        width: 1008
-        height: 664
-        isCached: true
-  - title: "US Government Denies Blocking Sales of AI Chips to Middle East"
-    excerpt: "Nvidia and AMD do face expanded export rules for their A100 and H100 artificial intelligence (AI) chips in the Middle East, but it's not yet clear why."
-    publishedDateTime: 2023-09-01T18:50:00Z
-    webUrl: "https://www.darkreading.com/dr-global/us-government-denies-blocking-chip-sales-middle-east"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 71
-    images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf47e335d79fb3b2e/64f1e0af0517e34fb4df20d7/fingerprint_motherboard_Panther_Media_Alamy.jpg"
-        width: 5650
-        height: 3560
-        isCached: true
-  - title: "Update: US denies restricting exports of some Nvidia AI chips to 'Middle East' countries"
-    excerpt: "The denial from the US Commerce Department comes after it was reported that the US would be extending restrictions on the export of Nvidia and AMD AI chips to some Middle East states."
-    publishedDateTime: 2023-08-31T13:21:00Z
-    webUrl: "https://www.newarab.com/news/us-denies-restriction-exports-ai-chips-middle-east"
-    ampWebUrl: "https://www.newarab.com/news/us-denies-restriction-exports-ai-chips-middle-east?amp"
-    cdnAmpWebUrl: "https://www-newarab-com.cdn.ampproject.org/c/s/www.newarab.com/news/us-denies-restriction-exports-ai-chips-middle-east?amp"
-    type: article
-    provider:
-      name: newarab
-      domain: newarab.com
-    quality: 65
-    images:
-      - url: "https://www.newarab.com/sites/default/files/1590840359.jpeg"
-        width: 5289
-        height: 3204
-        isCached: true
-  - title: "Why AMD Stock Is a Must-Own AI Chip Play"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Earlier this year, Advanced Micro Devices (NASDAQ:AMD), commonly known as just"
-    publishedDateTime: 2023-08-31T18:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/why-amd-stock-is-a-must-own-ai-chip-play-1032597614"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
-  - title: "From Google To Nvidia, Tech Giants Have Hired Red Team Hackers To Break Their AI Models"
-    excerpt: "The leaders of the AI red teams at Microsoft, Google, Nvidia and Meta say they are tasked with looking for vulnerabilities in their AI systems so they can be fixed."
-    publishedDateTime: 2023-09-01T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/rashishrivastava/2023/09/01/ai-red-teams-google-nvidia-microsoft-meta/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 63
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64ee6705e561af2066d8ae23/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Best Artificial Intelligence (AI) Stock to Buy: Nvidia Stock vs. Snowflake Stock"
-    excerpt: "Fool.com contributor Parkev Tatevosian compares Nvidia (NVDA-1.71%) and Snowflake (SNOW 0.15%) to determine which stock is better for investors looking to capitalize on the AI trend. *Stock prices used were the afternoon prices of Sept. 2, 2023. The video ..."
-    publishedDateTime: 2023-09-04T19:24:00Z
-    webUrl: "https://www.fool.com/investing/2023/09/04/best-artificial-intelligence-ai-stock-to-buy-nvidi/"
+  - title: "Intel's Gaudi 2 Beats Nvidia's H100 in Certain AI Tasks"
+    excerpt: "While Nvidia's latest data center GPU is the top dog among AI accelerators, Intel offers a viable alternative with its Gaudi 2 chip. Gaudi 2 can't match Nvidia's H100 in most cases, but it comes out way ahead in one type of AI workload."
+    publishedDateTime: 2023-09-01T11:20:00Z
+    webUrl: "https://www.fool.com/investing/2023/09/01/intels-gaudi-2-beats-nvidias-h100-in-certain-ai-ta/"
     type: article
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 57
-  - title: "U.S. restricts export of Nvidia, AMD AI chips to Middle East"
-    excerpt: "Nvidia’s CEO Jensen Huang :\"If [China] can’t buy from … the United States, they’ll just build it themselves. So the US has to be careful.\""
-    publishedDateTime: 2023-08-31T14:29:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/08/31/us-restricts-ai-chip-export-middle-east.html"
+    quality: 69
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/746219/gettyimages-1452877140.jpg"
+        width: 2000
+        height: 1500
+        isCached: true
+  - title: "Intel wants to beat bias AI training data"
+    excerpt: "He optimistically noted that, despite Nvidia's lead, it won't take long for Intel to start racking up orders for AI chips. \"They're doing well. We all have to give them credit,\" Gelsinger said. \"But we're going to show up.\" Plus, with Intel's recent debut ..."
+    publishedDateTime: 2023-09-04T17:00:00Z
+    webUrl: "https://www.fool.com/investing/2023/09/04/intel-wants-to-beat-bias-ai-training-data/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 34
-  - title: "US regulators deny blocking AI chip exports to Middle East"
-    excerpt: "Nvidia’s quarterly report stated it received requirements from U.S. regulators about needing to obtain a license prior to selling its flagship chips to “some Middle Eastern countries.”"
-    publishedDateTime: 2023-09-01T12:40:00Z
-    webUrl: "https://cointelegraph.com/news/us-regulators-deny-blocking-ai-chip-exports-to-middle-east"
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/746485/featured-daily-upside-image.png"
+        width: 1390
+        height: 927
+        isCached: true
+  - title: "PM Modi, Nvidia CEO discuss India's rich potential in artificial intelligence"
+    excerpt: "PM Modi in a post on X wrote, \"Had an excellent meeting with Mr. Jensen Huang, the CEO of @nvidia. We talked at length about the rich potential India offers in the world of AI. Mr. Jensen Huang was appreciative of the strides India has made in this sector and was equally upbeat about the talented youth of India.\""
+    publishedDateTime: 2023-09-04T17:43:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/World/20230904/4115578.html"
     type: article
     provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 34
-  - title: "Nvidia isn't the only game in town. Investors advise against overlooking these other AI beneficiaries"
-    excerpt: "Nvidia's quarterly report seemed to leave some investors questioning whether any serious challenger can challenge its well-protected throne, or catch up to speed building comparable chips able to power generative AI models. And the price action seemed to ..."
-    publishedDateTime: 2023-09-04T13:22:00Z
-    webUrl: "https://www.cnbc.com/2023/09/04/nvidia-isnt-the-only-game-in-town-investors-advise-against-overlooking-these-other-ai-beneficiaries.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 34
-  - title: "US officials extend export curbs on Nvidia AI chip to 'some Middle Eastern countries'"
-    excerpt: "Nvidia’s rival chip maker Advanced Micro Devices (AMD) was also told to halt exports of chips to certain countries in the Middle East, though in both instances the particular countries were not specified."
-    publishedDateTime: 2023-08-31T13:04:00Z
-    webUrl: "https://cointelegraph.com/news/us-curbs-export-nvidia-ai-chip-to-some-middle-eastern-countries"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 27
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 14
 
 secured: "GJG2tc6y0MxPyf0D6B36BwA/+iUzNkTIl3kdVWS5+V/lfkI0/oarNzxjHHEcjhks1RA9Ra5R8zYzo5j6trnizUKCf5PVjeojEMudBb+NCtrQj5p1XPvNOGUcbgVllR0Hr0riwsiFczK5dfpNkuiEQ2ZuWSO4v6XsMorCRMHjwjMwzuRpge9n4SODQ83p1EA6uNhDCo7LfrmOHMHFOabF6Wn7X63iciBKY/sZqF41fMrfZ1seE+WBuqleRsfa9MmsKlt8FM05GUjOuzVGUQr4dyG5GOP8JoBKBHzio6kCDNnwlP/kfQqtkgzbCLJndhk/YrTzoNqKb8vIXX891AMNDz5ruucH62ayw6O78m6B/FQ=;9MAZ/g4k4mOxpeR0iJ+z6g=="
 ---

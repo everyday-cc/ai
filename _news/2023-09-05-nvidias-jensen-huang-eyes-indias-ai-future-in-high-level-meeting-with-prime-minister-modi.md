@@ -7,7 +7,7 @@ originalUrl: "https://www.benzinga.com/markets/asia/23/09/34213117/nvidias-jense
 webUrl: "https://www.benzinga.com/markets/asia/23/09/34213117/nvidias-jensen-huang-eyes-indias-ai-future-in-high-level-meeting-with-prime-minister-modi"
 type: article
 quality: 9
-heat: 9
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "Nvidia isn't the only game in town. Investors advise against overlooking these other AI beneficiaries"
+    excerpt: "Nvidia's quarterly report seemed to leave some investors questioning whether any serious challenger can challenge its well-protected throne, or catch up to speed building comparable chips able to power generative AI models. And the price action seemed to ..."
+    publishedDateTime: 2023-09-04T13:22:00Z
+    webUrl: "https://www.cnbc.com/2023/09/04/nvidia-isnt-the-only-game-in-town-investors-advise-against-overlooking-these-other-ai-beneficiaries.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 34
 
 secured: "eF82xvpOZdG7TII8x4oUzqUMggHxVQYOZcEdMBGmhVL95QQqXFR7L3bV8TTF1U8Rbp48NTqJ2mgcS+f56Q52fKzVwk+U24U/BaI0BFM4sFWY1JGzl2Uxnu5YwjMKmB89eMSiCAM75xWOB4kzbpAk7Nn+CrUTrHyzlXbZuU6z7OquyO0aFxKFMrFke+872UR7ienBvYHaA/3///T1GDgcLZ28OgLo1098Q+tcekY19NHzKi4sUAYYZpIawAKAJuqTyO3R/YD5Dsnm5RyehXttZiGs+9OBkEH3YmCORzoFd6dQ/U48QvtrLV6sYXJCgq5kb2KPuv7cTHWzsaPxleqmN+sxrJWCYCOpSLpDcY+M+PQ=;mf/kjLs9H5Q4wCky/opQPA=="
 ---

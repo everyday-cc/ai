@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bryanrobinson/2023/09/02/workers-taking
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bryanrobinson/2023/09/02/workers-taking-wellness-into-their-own-hands-using-ai-backed-mental-health/amp/"
 type: article
 quality: 85
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "4 Innovative Startup Opportunities In Wellness And Mental Health"
-    excerpt: "In this article we dive into four niches that are reshaping the wellbeing industry and explore how startups are carving their own niche in this area."
-    publishedDateTime: 2023-08-31T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/abdoriani/2023/08/31/4-innovative-startup-opportunities-in-wellness-and-mental-health/"
-    ampWebUrl: "https://www.forbes.com/sites/abdoriani/2023/08/31/4-innovative-startup-opportunities-in-wellness-and-mental-health/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/abdoriani/2023/08/31/4-innovative-startup-opportunities-in-wellness-and-mental-health/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 72
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64f0aacb036080cf95b575a3/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Marketing Firms Integrating AI Into Their Practices"
     excerpt: "These are some of the AI practices that are being adopted across the marketing firm landscape. Feel free to try them at your own business and share them with your marketing team members."
     publishedDateTime: 2023-09-01T16:16:00Z

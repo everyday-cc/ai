@@ -46,6 +46,15 @@ related:
         width: 1390
         height: 927
         isCached: true
+  - title: "Saudi Arabia and UAE race to buy Nvidia chips to power AI ambitions"
+    excerpt: "Saudi Arabian Crown Prince Mohammed bin Salman, left, and Nvidia chief Jensen Huang. The Gulf state’s interest in AI has sparked concerns over the technology’s ..."
+    publishedDateTime: 2023-09-04T20:11:00Z
+    webUrl: "https://www.ft.com/content/c93d2a76-16f3-4585-af61-86667c5090ba?sharetype=blocked"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
 
 secured: "jZnDG6dCiQpvRceCfiK1QW65wDluE4vTFuhOAMipHuxIn2TrdOvZp5tFy3hQPV0Ckc1a3i5b7DsuqqJZUweyDM61EFdBpAacOkG8iQ+Ey2W9pHbuYI621ccl/50woGnH8MCkcgUN7O4PURTl2+jwdd6Hd9eLoRpm7lcNxUqi2AAHeNWQdvWd/tsojduQlojrbatkh/BzAgwoxWIevbycGAEMPgJbVpVSJHJ/kWXyRPQPl7u9IvDgnJAHvwWIyhC5AmPKBfhFs7eR+W1w05cbEOy9R8AbP2EvaK/4DPJCtWCWMgLOV3MEdsQwo+ICOGymztQOC5HqbD7wMkcgxOo/eH8TbtlM/TQ0knb1M3mRnnk=;5jV15k05N5m9UQ6u3rvNiw=="
 ---

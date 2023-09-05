@@ -19,6 +19,34 @@ topics:
   - AI
 
 related:
+  - title: "12 Research Projects In Ai And Robotics Are Created By Saudi University Students At Kacst Labs"
+    excerpt: "In addition, the initiatives took on the challenge of developing the first robotic models and expanding technological solutions using advanced approaches and methodologies for the creation of AI models. They also evaluated and improved the linguistic models for the AI chatbot“ChatGPT” to make them compatible with regional content and Arabic."
+    publishedDateTime: 2023-08-31T17:35:00Z
+    webUrl: "https://menafn.com/1106991526/12-Research-Projects-In-Ai-And-Robotics-Are-Created-By-Saudi-University-Students-At-Kacst-Labs"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 57
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?511604"
+        width: 458
+        height: 250
+        isCached: true
+  - title: "The Ethics and Practicality of AI Assisted Patent Drafting"
+    excerpt: "Artificial Intelligence (AI) is taking the world by storm, and recently garnered the attention of the American Bar Association, which has just announced the creation of a task force that will examine the impact of AI on law practice and the ethical implications of its use for lawyers."
+    publishedDateTime: 2023-08-31T16:15:00Z
+    webUrl: "https://ipwatchdog.com/2023/08/31/ethics-practicality-ai-assisted-patent-drafting/id=166094/"
+    type: article
+    provider:
+      name: IPWatchdog
+      domain: ipwatchdog.com
+    quality: 54
+    images:
+      - url: "https://ipwatchdog.com/wp-content/uploads/2023/08/Depositphotos_650667620_XL-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "Unifonic unveils state-of-the-art AI at Seamless Saudi Arabia, elevating customer experiences to new heights"
     excerpt: "Unifonic, the Middle East's leading customer engagement platform, is proud to present its AI-powered Chatbot ... one of the largest events focusing on payments, fintech, retail, and eCommerce innovations, to showcase their game-changing platform and ..."
     publishedDateTime: 2023-09-04T11:20:00Z

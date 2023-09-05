@@ -7,7 +7,7 @@ originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=13441
 webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1344180&cat=PR News Wire"
 type: article
 quality: 6
-heat: -1
+heat: 6
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 341
     height: 400
     isCached: true
-
-related:
-  - title: "EY releases more than 20 new Assurance technology capabilities supported by Microsoft alliance in first year of US$1b investment program"
-    excerpt: "Assurance technology applications hit milestone 500,000 users, benefitting from the performance and stability of Microsoft Azure Recent releases include integrated and transformed analytics that use Microsoft Azure and Microsoft Power BI Integration of Microsoft Artificial Intelligence capabilities within EY next generation Assurance technology platform supported by release of Microsoft Azure OpenAI Service LONDON,"
-    publishedDateTime: 2023-08-31T13:25:00Z
-    webUrl: "https://www.asiaone.com/business/ey-releases-more-20-new-assurance-technology-capabilities-supported-microsoft-alliance"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 6
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Aug2023/pr-newswire_500_4_1972.jpg?h=7de12b8a&itok=83LLXSiY"
-        width: 600
-        height: 316
-        isCached: true
 
 secured: "YdQuHjoO/Squjtokun8a2/Ba92vaCnUsuNz7B2ChxfIhvLNjuANoTxxLPI3Y7Ej4dFTEHySbVNgrgZaAEDyUlHRn2IOBrjD4lBMOSQ7VHFSmbYm72wkjz6HkI0UwsFIrGgb+KyZPJd0SeMtHB/80xmE72/g7hbFEEZeB0aK+sQ2MOp+5sZezwGZ4kNS8wbikE/x3FFIf8QNAfq8LamxYGKLVeIbMvUlt3Fr7NfhwPdh2ENNYiXOH+vg01Uu6u/E4foj8YJoLvWTVvRbnCN8RlbaKPvW4ERGDgGG07AshRIGG+n3fAZCszbIB9c87XhXz+vjwMEdBJfyLLdjff/ddxHq+WMQoKrnJIm1P2tCJbYM=;VPIIqDFILJPRNR2ZI7BKBQ=="
 ---

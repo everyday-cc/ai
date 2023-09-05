@@ -113,6 +113,20 @@ related:
         width: 1200
         height: 631
         isCached: true
+  - title: "You Don't Have to Pick a Winner in Fintech. Here's Why."
+    excerpt: "Artificial intelligence (AI) is on every investor's mind these days ... As you can see, there are lots of ways to gain direct exposure to the fintech sector. Investors who prioritize safety and thus want less risky options can look at Visa and Mastercard."
+    publishedDateTime: 2023-09-05T06:26:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MA-N/pressreleases/19946368/you-dont-have-to-pick-a-winner-in-fintech-heres-why/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 24
+    images:
+      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/8dd204abcbccfff5bcdbe02efb4f1179/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f743336%252ffintech-payment-app-hands-smartphone.jpg%26amp%3Bw%3D700"
+        width: 2374
+        height: 1263
+        isCached: true
   - title: "Martequity Summit ‘23: Building customer trust in fintech"
     excerpt: "The fintech customer is becoming more demanding and it’s become an imperative for organisations to use digital tools to overcome language barrier, personalise and retain customers using micro-communication."
     publishedDateTime: 2023-09-01T13:10:00Z
@@ -121,15 +135,6 @@ related:
     provider:
       name: brandequity.economictimes.indiatimes
       domain: indiatimes.com
-    quality: 4
-  - title: "You Don't Have to Pick a Winner in Fintech. Here's Why."
-    excerpt: "Artificial intelligence (AI) is on every investor's mind these days ... As you can see, there are lots of ways to gain direct exposure to the fintech sector. Investors who prioritize safety and thus want less risky options can look at Visa and Mastercard."
-    publishedDateTime: 2023-09-04T19:20:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/SQ-N/pressreleases/19946368/you-dont-have-to-pick-a-winner-in-fintech-heres-why/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
     quality: 4
   - title: "Unveiling the Top Fintech Trends: How Technology is Revolutionizing Financial Services"
     excerpt: "Are you ready to embark on a journey into the future of finance? From mobile banking to advanced algorithms, technology has been transforming the way we interact with money and manage our finances. In this blog post,"

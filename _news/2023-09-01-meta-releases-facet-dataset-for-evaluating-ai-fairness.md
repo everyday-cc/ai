@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Meta releases a data set to probe computer vision models for biases"
-    excerpt: "Made up of 32,000 images containing 50,000 people labeled by human annotators, FACET — a tortured acronym for “FAirness in Computer Vision EvaluaTion” — accounts for classes related to occupations and activities like “basketball player ..."
-    publishedDateTime: 2023-08-31T14:02:00Z
-    webUrl: "https://techcrunch.com/2023/08/31/meta-releases-a-data-set-to-probe-computer-vision-models-for-biases/"
-    ampWebUrl: "https://techcrunch.com/2023/08/31/meta-releases-a-data-set-to-probe-computer-vision-models-for-biases/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/31/meta-releases-a-data-set-to-probe-computer-vision-models-for-biases/amp/"
+  - title: "Meta unveils FACET: AI fairness benchmark for images, videos"
+    excerpt: "The dataset consists of 32,000 images “containing 50,000 people, labelled by expert human annotators for demographic attributes"
+    publishedDateTime: 2023-09-01T07:44:00Z
+    webUrl: "https://www.financialexpress.com/life/technology-meta-unveils-facet-ai-fairness-benchmark-for-images-videos-3229743/"
+    ampWebUrl: "https://www.financialexpress.com/life/technology-meta-unveils-facet-ai-fairness-benchmark-for-images-videos-3229743/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-meta-unveils-facet-ai-fairness-benchmark-for-images-videos-3229743/lite/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/10/meta-distorted-glitched.jpg?resize=1200,675"
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/Meta-unedited-Reuters.jpg"
         width: 1200
         height: 675
         isCached: true

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Robots are pouring drinks in Vegas. As AI grows, the city's workers brace for change"
-excerpt: "Robots can serve food, and behind the bar ... Studies show that between 38% to 65% of jobs there could be automated by 2035. With the use of artificial intelligence on the rise, the economy of this city --which relies on tourism and hospitality ..."
-publishedDateTime: 2023-09-04T20:43:00Z
-originalUrl: "https://www.kcrw.com/news/shows/all-things-considered/npr-story/1197138244"
-webUrl: "https://www.kcrw.com/news/shows/all-things-considered/npr-story/1197138244"
+excerpt: "Robots can serve food ... And then there's the brand-new jobs that AI could create that don't even exist yet. In Las Vegas, city officials know they have to start preparing for whatever changes are coming right now, and that starts with getting the ..."
+publishedDateTime: 2023-09-05T06:31:00Z
+originalUrl: "https://www.houstonpublicmedia.org/npr/2023/09/04/1197138244/robots-are-pouring-drinks-in-vegas-as-ai-grows-the-citys-workers-brace-for-change/"
+webUrl: "https://www.houstonpublicmedia.org/npr/2023/09/04/1197138244/robots-are-pouring-drinks-in-vegas-as-ai-grows-the-citys-workers-brace-for-change/"
 type: article
 quality: 47
 heat: -1
 published: false
 
 provider:
-  name: KCRW
-  domain: kcrw.com
+  name: Houston Public Media
+  domain: houstonpublicmedia.org
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://media.npr.org/assets/img/2023/09/01/img_2227_wide-ae547467d6e3a028878f4ea683286bcd43b94ce9.jpg"
-    width: 3421
-    height: 1924
+  - url: "https://media.npr.org/assets/img/2023/09/01/img_2227-e4ff9eafcd401e007a1ed90c4b090f30f5244767.jpg"
+    width: 3420
+    height: 2565
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 628
         isCached: true
 
-secured: "6C6anilhtgQGa7FxStFLuJ3pspjrZ4LHc2FcIK1JqdQZby4nLoYhKosSyHWW8TjR9AoU1r3GcuG7PumbKNv61G1UrRlfTxTgD+s1nZ3R8lH9Zo/QF93uKdq/Jltm0WvlPZjRfGSk9ebIPDpDo9fJlZzWhtUSdkxLE2mu7tGEkVgjWQtvTn2Iis2AHNwBIxdb7ApBGGvyW9BDay/cyhjbTUk6efyM++rakUutCMZZznS4gUOowFqUpT9+2US3PE5QRHqJ0MVTyy3iC9f6VXGt74GX+hKBJ42VmduEaeSAhMxhCjgGecNLr5XZ5iWcJ1xGawu+AQPoIIpFpDdqxNkN5P+DKcgZWzoi/+SbQe36j9vFDrc/0lgMAD/FmCWFmhz6sUETQ47MRE+h3kfztsJA7AUmWXM/TmEN0P0kpY7yDLTtmPVOZPTGsyluY3fflAoLyVjzY6w/Mkoy1n5ELaVz3kkx+2RE8GvM4a+O2UZCgZfOzWru8YixQL81A4/IYKCbNhPQaC7LpoKh6DTSqRxXnA==;2Vove8jUkcufD5q+rpvigA=="
+secured: "gObSSnsFeWbAFBX6S1It26d33XCLmp8+9d5pMwpDL8kg17RxN4lnFklcxP3CF9Vw2T/cO+lSpIEhOSS5B6FpEVaXyrhzWkiqa+kpG+7pX1BKrHfU9I4uDfz7CrWVVIYr794MVns4Sa22KKAij4Y/P4TK0LvrqxEYN7aPRQPJqP2KSu/gQhQp1vrzefPMZN1LIrCqll6GtHtXePMOFiZ0INKYulbp70PxJR/JRSllNj5WmyX960XEW9vibVUa9M5/Hvei5PEexevvdSEd9rwI595YzWQ3We38M06mrMFBNGjcL/BEtPECJagbOAIXN2naK8Z575uTr0s4v2niKfO7IL966l+p8kGSkFdlrpo0TGI=;xLCmvG08AwEChqtnV+S65g=="
 ---
 

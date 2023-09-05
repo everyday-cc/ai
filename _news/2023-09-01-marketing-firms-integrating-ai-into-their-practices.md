@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 604
         isCached: true
-  - title: "4 Innovative Startup Opportunities In Wellness And Mental Health"
-    excerpt: "In this article we dive into four niches that are reshaping the wellbeing industry and explore how startups are carving their own niche in this area."
-    publishedDateTime: 2023-08-31T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/abdoriani/2023/08/31/4-innovative-startup-opportunities-in-wellness-and-mental-health/"
-    ampWebUrl: "https://www.forbes.com/sites/abdoriani/2023/08/31/4-innovative-startup-opportunities-in-wellness-and-mental-health/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/abdoriani/2023/08/31/4-innovative-startup-opportunities-in-wellness-and-mental-health/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 72
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64f0aacb036080cf95b575a3/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "3PWTlOloV0tC1UUJ40VlHSHkK0TbZWsdZ+e1RenatuUt0YwfZwd8r59K3BYBCzJx3sGkKriTU86SiCWZpcxy5byA7k+yRa/CJL2NSaWiVu9GYPNKjWhIxZWStfJ5BbU7knKmPI28a7V3k7AP72ZWsSpQVi4zO5LpW6mtJcSCiQ3LB2Ca17K1wY/7k81gM10HyIKrxphDxFqjCyk7Ph9u9nhkItc1xZS/E2o9BJzRrno0owA7beyorIJsAqua5AvUHOY3D4pm/QUHBYhHwqe4JFokfH6yLIo7VVk1XKkyfj514bpGCMbEMD3XBj6fUCXApwajLZRzypJo9wIVaXjuYCAw02Za6HH5g+cC/GrfosY=;0kzFUo5QHpnw05SbxsLBwA=="
 ---

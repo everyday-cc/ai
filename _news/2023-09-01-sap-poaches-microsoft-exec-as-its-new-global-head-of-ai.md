@@ -50,6 +50,22 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "iTechGenic teams up with Microsoft Azure, G7 CR for AI-enhanced Engineering management"
+    excerpt: "The primary objective of this partnership is to empower engineering teams with a 360-degree perspective by harnessing insights from various DevOps tools."
+    publishedDateTime: 2023-09-05T06:37:00Z
+    webUrl: "https://www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management/3233431/"
+    ampWebUrl: "https://www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management/3233431/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management/3233431/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 81
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/image-2023-09-05T113656.774.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "eWEEK TweetChat, September 12: AI in the Enterprise"
     excerpt: "Industry thought leaders participate in a wide ranging conversation – via Twitter – about how the enterprise is grappling with the rise of AI."
     publishedDateTime: 2023-08-31T23:10:00Z
@@ -112,20 +128,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Microsoft discontinues Visual Studio for Mac"
-    excerpt: "Microsoft has decided to discontinue Visual Studio for Mac. Support for the latest IDE version is guaranteed only through August 2024. According to"
-    publishedDateTime: 2023-08-31T13:21:00Z
-    webUrl: "https://www.techzine.eu/news/devops/110777/microsoft-discontinues-visual-studio-for-mac/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 39
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2021/04/shutterstock_1098133388-1.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Ally partners with Microsoft to leverage generative artificial intelligence"
     excerpt: "Banks have been leveraging traditional artificial intelligence for years in ways such as predicting market trends and optimizing investment. But generative AI can produce its own data content to increase productivity for financial firms. That has led Ally ..."
     publishedDateTime: 2023-09-01T18:53:00Z

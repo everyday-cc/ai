@@ -23,6 +23,22 @@ images:
     height: 628
     isCached: true
 
+related:
+  - title: "Belfast-based AI start-up Enzai raises $4m"
+    excerpt: "Enzai, a Belfast-based tech start-up, has raised a $4 million (€3.7 million) seed round from backers that include Indeed co-founder Paul Forster. The company has developed a software platform that helps enterprise understand and manage AI risk, while also complying with the increasingly complex regulatory landscape in this area"
+    publishedDateTime: 2023-09-05T07:56:00Z
+    webUrl: "https://www.businesspost.ie/tech/belfast-based-ai-start-up-enzai-raises-4m/"
+    type: article
+    provider:
+      name: The Sunday Business Post
+      domain: businesspost.ie
+    quality: 37
+    images:
+      - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=21057b50-c21c-5d71-a142-7f8c0e5af64f&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.81967&width=3823&height=2150&x=1.0E-5&y=0.14572"
+        width: 3000
+        height: 1687
+        isCached: true
+
 secured: "QA5RbtcLgc1ziRquDMB607uwQzim1QLAHlSt8mbSmgRZS8L5xyXd7JnheCDiUcVeztghWsFc9QXRSPrzWcaSzby9KDo5KHJs4BYV4oBu+xI1+LMnaI68oD2ZJvhWpuLgU4ls3sTKs5/NSFFKJxfl+5SLhYreqaiP9PZ4CIM5fZV3RqT6/kRmkXn9O7dsmQ2qHdEpOk8+7KtO1/ljFQLY30NAq7VnYC/8243+4Pa6nLYJAalHLPZ1C6r9fWtO6t2u4J1KS9xwXWZ0hvHJz9Ia11/WpJeKk2FIgkn3ZsW43SDsWoq5/rndh902fXsUGj0R1rozFsPDOmPxXqkdJR2Tj6eITTZqQC54xn3c5qZpi0Y4t1dFoLCRmPlL3SKOMUGnjKzZ5/57GjgMHWt8o3Zk5Vb4MZh7rYwB6K1vtaidbnpLSgqgrFvT3RK0cr136U+3jkdECif+npCjKqejurpMZOfk9XevwpV5NBqjtytvKVI3cWMM1Hna9QVR23n4rsJRX0CDuCG1N3HxRi6/96c9Cw==;Zyzt+5xYbNd2NimY1YYyKw=="
 ---
 

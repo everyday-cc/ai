@@ -7,7 +7,7 @@ originalUrl: "https://nocamels.com/2023/09/ai-dubbing-startup-debuts-polish-film
 webUrl: "https://nocamels.com/2023/09/ai-dubbing-startup-debuts-polish-film-at-us-indie-festival/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 700
     height: 425
     isCached: true
+
+related:
+  - title: "Expo City Dubai launches region’s first Artificial Intelligence Film Festival"
+    excerpt: "The event establishes Expo City Dubai as the epicentre of AI innovation, a future-focused community and a global platform for collaboration on big ideas"
+    publishedDateTime: 2023-09-05T07:36:00Z
+    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/expo-city-dubai-launches-regions-first-artificial-intelligence-film-festival-buhpqsni"
+    ampWebUrl: "https://www.zawya.com/en/business/technology-and-telecom/expo-city-dubai-launches-regions-first-artificial-intelligence-film-festival-buhpqsni?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/expo-city-dubai-launches-regions-first-artificial-intelligence-film-festival-buhpqsni?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 69
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NjgwY2Q3NjMtZTY2NC00/17/1463605211.jpeg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "35TEH8UBnOOUukdFaDcsZcEYt74RX0MfvZ31gW/K7fUBmqhlsxrR8VJ7+g3pwzknNpchRdyibAS6Md6RuAJLh9RCbnTBkVNrSwQFrUM5BYnDd03b6cR1KW/I59PnawAjp0OfenermOH1k4YUVB799DsFNHnJ4vCxbxew9EVVD+JqQyxWT9K/0VSSml3bPxino+21CyhH+r3pOykCGj8K4wSUQxt6nI+qZr5SABaiglesKUEqzceewoZpt0BLjZBbkKn2F6SUORghYKJ92Kf0VuPauohKD9bEe3FUz9HeYPNNeLeDuA3XPJiYtcHlSrDIyWn8D4yXPy/Eys1vTvRmIqdn8hOaJ5OlznJNtSP0ZhmWv83FvjG5+vo8qUGrKvKV/8lGyTVypaK/yPTbJRB/51/7FH5ybEeFFDtKUaeEGBJVR6OKQkBnFLBJ7DzjjfukwflmqiJ7kXdb+utDDjtUERbzc/DmuVF8oJgXaPRjW0XQBQnN303cQHZQuFkNjzyp3yUPio2CkMBdaALgV7xBYg==;4ZE8bGVURQ+Ke5Rf9/Bm+Q=="
 ---

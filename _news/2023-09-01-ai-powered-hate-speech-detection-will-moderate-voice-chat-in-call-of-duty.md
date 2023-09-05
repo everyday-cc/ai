@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/08/ai-powered-ha
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/ai-powered-hate-speech-detection-will-moderate-voice-chat-in-call-of-duty/amp/"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Call of Duty to Use AI-Powered Voice Chat Moderation Technology"
-    excerpt: "Activision is turning to AI to help it moderate voice chat in Call of Duty games. The Call of Duty anti-toxicity team announced that Call of Duty: Modern Warfare III will be the first game to use real-time AI-powered voice chat moderation technology when it launches in November."
-    publishedDateTime: 2023-08-31T13:56:00Z
-    webUrl: "https://www.pcmag.com/news/call-of-duty-to-use-ai-powered-voice-chat-moderation-technology"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/06AAmLl9CGY2xad3UrAsTOB-1.fit_lim.size_1200x630.v1693489604.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Activision to start Using AI to Combat Toxicity in Call of Duty Voice Chat"
     excerpt: "One intriguing aspect of ToxMod is its ability to comprehend conversational context. This means that it can distinguish whether a statement is genuinely hateful or simply a heated expression in the heat of battle."
     publishedDateTime: 2023-09-02T15:39:00Z

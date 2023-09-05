@@ -2,11 +2,11 @@
 category: news
 title: "You Don't Have to Pick a Winner in Fintech. Here's Why."
 excerpt: "Artificial intelligence (AI) is on every investor's mind these days ... As you can see, there are lots of ways to gain direct exposure to the fintech sector. Investors who prioritize safety and thus want less risky options can look at Visa and Mastercard."
-publishedDateTime: 2023-09-04T19:20:00Z
-originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/SQ-N/pressreleases/19946368/you-dont-have-to-pick-a-winner-in-fintech-heres-why/"
-webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/SQ-N/pressreleases/19946368/you-dont-have-to-pick-a-winner-in-fintech-heres-why/"
+publishedDateTime: 2023-09-05T06:26:00Z
+originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MA-N/pressreleases/19946368/you-dont-have-to-pick-a-winner-in-fintech-heres-why/"
+webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MA-N/pressreleases/19946368/you-dont-have-to-pick-a-winner-in-fintech-heres-why/"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://barchart-news-media-prod.aws.barchart.com/FC/8dd204abcbccfff5bcdbe02efb4f1179/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f743336%252ffintech-payment-app-hands-smartphone.jpg%26amp%3Bw%3D700"
+    width: 2374
+    height: 1263
+    isCached: true
 
 related:
   - title: "Engineering firms lose out to fintech and IT in recruitment war"
@@ -141,6 +147,6 @@ related:
       domain: techbullion.com
     quality: 0
 
-secured: "a2KObWKRcbr1jNOcFGPIwohvULzA/w/eyjWsAccA/jQyeqdLgsBU2k7XG1ufG6WgewY5qV93OD9DLhsfd2gw71T0dFf4U143oqifN2VbnfggTq17Gfx0aU6ZvPwqGxe4TaYYYxbJ0BZOU37w6OT1lQ28isoN9X3XE+TqxxG0Pr5kARmLKebf+pRRlKF5OjHryVXO/K5qBmcseGbR1Vjheeg3ULIinukCzqNY2gKqWuo5mCLAz41YseGbfmnTjdvRmg85nVa90aBARoBDL3V1IPpjYNT8uZ1CaKM+SAu4bQnu1dYDIE/wcvzU0/TLN65MWAymm7454qdPEKIXpUnOY3Fckp/Ts+oRt/P6vyHDSzwiJFxP6i75JBmr/irbOXuMe4FkGrr9Tk11B4V4OCEPpk/Mr1Eo6S+FMB8XsOAXp9S7lvwht01+IFPif4cI8k8PpJ5s9kDBBndA3nwppPJX5w2e4SNheV8gV4r7nQsgALEaxY0EcpcoOuQorsjLffGla9HxdNSlGpo1WruG7+713w==;LubBO8li6ulXLV8o9/4GXA=="
+secured: "E7nbB8X5sZhtgS1DA9tYN4A45MXr1JmY7IP2AEnis30Urb8kZiQtB3K65BYNs9uqyg/PDDC/LH83uLl2eXPA2lVyEW68KIMgqVIaMUGv8rnI2ZjcyVhtCHdTN5SZzc0fqVvAS0UFXQ/6+aM47HOWLRVdiB6nFPEr+OasdKXE1ynlUblGyDoLc9pU8jKOX0l7fS3wHxF3/SBqtzVXFPJTkt6J+9vvtnP6TkhQtpdFuFNnR/xlrSdsCP91QysF+i65Jgg0rnYwdutZ2gLDhI0c5EW0vcoJiCgccLqiM30EFco2SMg4e2/5MrRwHdDTFWgDi9T2iLLPCSU/LJ6DvB2gFooSC2wvejszzKnW0otSUjM=;+pEh5dNIw/eP966WrY1N0g=="
 ---
 

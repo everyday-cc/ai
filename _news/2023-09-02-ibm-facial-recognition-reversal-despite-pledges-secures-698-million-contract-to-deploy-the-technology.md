@@ -7,7 +7,7 @@ originalUrl: "https://techstory.in/ibm-facial-recognition-reversal-despite-pledg
 webUrl: "https://techstory.in/ibm-facial-recognition-reversal-despite-pledges-secures-69-8-million-contract-to-deploy-the-technology/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM promised to back off facial recognition — then it signed a $69.8 million contract to provide it"
-    excerpt: "IBM has returned to the facial recognition market — just three years after announcing it was abandoning work on the technology due to concerns about racial profiling, mass surveillance, and other human rights violations."
-    publishedDateTime: 2023-08-31T13:04:00Z
-    webUrl: "https://www.theverge.com/2023/8/31/23852955/ibm-uk-government-contract-biometric-facial-recognition"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 37
   - title: "UK signs contract with IBM to provide police with facial recognition tech – report"
     excerpt: "An investigation claims IBM has signed a contract with the UK government to provide facial recognition tech, despite vowing not to do so previously."
     publishedDateTime: 2023-09-01T12:20:00Z

@@ -40,20 +40,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Call of Duty to Use AI-Powered Voice Chat Moderation Technology"
-    excerpt: "Activision is turning to AI to help it moderate voice chat in Call of Duty games. The Call of Duty anti-toxicity team announced that Call of Duty: Modern Warfare III will be the first game to use real-time AI-powered voice chat moderation technology when it launches in November."
-    publishedDateTime: 2023-08-31T13:56:00Z
-    webUrl: "https://www.pcmag.com/news/call-of-duty-to-use-ai-powered-voice-chat-moderation-technology"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/06AAmLl9CGY2xad3UrAsTOB-1.fit_lim.size_1200x630.v1693489604.jpg"
-        width: 1120
-        height: 630
-        isCached: true
 
 secured: "Uo/vXzmFn8lsfphlPNXOyu9SQWrA1Z/KRvKzKdzo3grLNRC5XJcq5FDcV1ivZQQ2UqiKx8NIudd2k/GXrYryqQttiXeRBwukZAvs7KX0nw3TvIKHGSjRUvfM5p1dreVE1llanKcUENsBAy1ux+kMgh7CuOXjpdDLC8FR+3gdtofQSJqcJnA6ZbnnYu9TjiBge5AJDAY3k9wryQkglW2IhyzzK+K0sQYzcX96+PARpw/TeNASrTFydOHiZP9RWl9zrmOqL3QhMAqf5ZLRmoXxZ/HU6xgtvF0wJK/VwFvjdxmEy+GrnEv9CbEff/Uo75hRL26Hg2qJqznrbIcPS0WXtWmuwpfz/RPV9ZVsM13TAp0=;g0PM3GK7ME8jAYh/MpsN+w=="
 ---

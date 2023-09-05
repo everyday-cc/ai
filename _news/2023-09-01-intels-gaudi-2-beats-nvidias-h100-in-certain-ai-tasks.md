@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/09/01/intels-gaudi-2-beats-nvi
 webUrl: "https://www.fool.com/investing/2023/09/01/intels-gaudi-2-beats-nvidias-h100-in-certain-ai-ta/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1390
         height: 927
         isCached: true
+  - title: "Saudi Arabia and UAE race to buy Nvidia chips to power AI ambitions"
+    excerpt: "Saudi Arabian Crown Prince Mohammed bin Salman, left, and Nvidia chief Jensen Huang. The Gulf state’s interest in AI has sparked concerns over the technology’s ..."
+    publishedDateTime: 2023-09-04T20:11:00Z
+    webUrl: "https://www.ft.com/content/c93d2a76-16f3-4585-af61-86667c5090ba?sharetype=blocked"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
   - title: "PM Modi, Nvidia CEO discuss India's rich potential in artificial intelligence"
     excerpt: "PM Modi in a post on X wrote, \"Had an excellent meeting with Mr. Jensen Huang, the CEO of @nvidia. We talked at length about the rich potential India offers in the world of AI. Mr. Jensen Huang was appreciative of the strides India has made in this sector and was equally upbeat about the talented youth of India.\""
     publishedDateTime: 2023-09-04T17:43:00Z

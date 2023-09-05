@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "IBM promised to back off facial recognition — then it signed a $69.8 million contract to provide it"
-    excerpt: "IBM has returned to the facial recognition market — just three years after announcing it was abandoning work on the technology due to concerns about racial profiling, mass surveillance, and other human rights violations."
-    publishedDateTime: 2023-08-31T13:04:00Z
-    webUrl: "https://www.theverge.com/2023/8/31/23852955/ibm-uk-government-contract-biometric-facial-recognition"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 37
   - title: "IBM Facial Recognition Reversal: Despite Pledges, Secures $69.8 Million Contract to Deploy the Technology"
     excerpt: "The return of IBM to facial recognition raises questions about its previous human rights concerns. Learn about their surprising reversal"
     publishedDateTime: 2023-09-02T04:37:00Z

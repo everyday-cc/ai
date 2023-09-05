@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/chuckbrooks/2023/09/04/artificial-intel
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2023/09/04/artificial-intelligence-transforming-healthcare-cybersecurity-and-communications/amp/"
 type: article
 quality: 106
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -67,17 +67,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "Generative AI: Balancing security with innovation"
-    excerpt: "AI is creating new thoughts and providing new opportunities. A thoughtful, intentional, and security-focused approach to the tech makes all the difference."
-    publishedDateTime: 2023-08-31T14:51:00Z
-    webUrl: "https://www.cio.com/article/650810/generative-ai-balancing-security-with-innovation.html"
-    ampWebUrl: "https://www.cio.com/article/650810/generative-ai-balancing-security-with-innovation.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/650810/generative-ai-balancing-security-with-innovation.html/amp/"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 56
   - title: "UK’s NCSC Warns Against Cybersecurity Attacks on AI"
     excerpt: "U.K.’s National Cyber Security Centre publication on AI details attacks that might target organizations implementing or developing ML models."
     publishedDateTime: 2023-09-01T18:36:00Z

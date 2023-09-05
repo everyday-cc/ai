@@ -7,7 +7,7 @@ originalUrl: "https://www.cmswire.com/digital-experience/the-evolution-of-ai-cha
 webUrl: "https://www.cmswire.com/digital-experience/the-evolution-of-ai-chatbots-past-present-and-future/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Are AI Chatbots Dead?"
-    excerpt: "At any given moment in history, we’re living through the unexpected downfall of some exciting new technology that paves the way for something greater."
-    publishedDateTime: 2023-08-31T13:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/31/are-ai-chatbots-dead/"
+  - title: "Weizenbaum’s nightmares: how the inventor of the first chatbot turned against AI – podcast"
+    excerpt: "Computer scientist Joseph Weizenbaum was there at the dawn of artificial intelligence – but he was also adamant that we must never confuse computers with humans"
+    publishedDateTime: 2023-09-01T03:00:00Z
+    webUrl: "https://www.theguardian.com/news/audio/2023/sep/01/weizenbaums-nightmares-how-the-inventor-of-the-first-chatbot-turned-against-ai-podcast"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
+      name: The Guardian
+      domain: theguardian.com
+    quality: 27
+    images:
+      - url: "https://i.guim.co.uk/img/media/dca031b14d57615a9150621514d3fe2c7539fd43/0_154_3188_1912/master/3188.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=59c7a54d5b75f914441308d6827fdbcc"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Bad Idea AI Announces Listing on MEXC Exchange and Revolutionary AI Chatbot"
     excerpt: "Collaborative Decision-Making: AI and DAO The decision to list on MEXC ... with Shibacals to produce unique figurines and clothing wear, complete with NFC chips that serve as certificates of authenticity and offer post-purchase delights like VIP NFT ..."
     publishedDateTime: 2023-09-04T19:21:00Z
@@ -43,15 +48,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 17
-  - title: "Will chatbots soon replace the need for managers to coach employees?"
-    excerpt: "We’ve seen remarkable advances in the capabilities of artificial intelligence (AI). The recent leap forward in natural language-processing, where AI models can comprehend and generate human-like text, has opened the door to sophisticated chatbots that effectively mirror human conversation partners."
-    publishedDateTime: 2023-08-31T17:54:00Z
-    webUrl: "https://sbnonline.com/article/will-chatbots-soon-replace-the-need-for-managers-to-coach-employees/"
-    type: article
-    provider:
-      name: Smart Business Magazine
-      domain: sbnonline.com
-    quality: 4
   - title: "Enhancing research with conversational chatbots"
     excerpt: "In a recent presentation at White River Health in Batesville, Associate Professor of Computer and Data Science, Dr. Marcus Birkenkrahe, shed light on the transformative potential of artificial"
     publishedDateTime: 2023-09-01T17:03:00Z
