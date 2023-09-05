@@ -9,8 +9,8 @@ ampWebUrl: "https://appleinsider.com/articles/23/09/02/how-apple-is-already-usin
 cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios/amp/"
 type: article
 quality: 76
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: AppleInsider
@@ -26,33 +26,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Five Lessons Learned On Using AI In HR And Compliance"
-    excerpt: "The value of generative AI's answers depends on the quality of the questions. The problem is that HR and compliance topics are often nuanced. Expertise is required to distill the parameters and frame the underlying question correctly."
-    publishedDateTime: 2023-08-31T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/31/five-lessons-learned-on-using-ai-in-hr-and-compliance/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/31/five-lessons-learned-on-using-ai-in-hr-and-compliance/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/31/five-lessons-learned-on-using-ai-in-hr-and-compliance/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64ef50d52f92b4fe53f3933e/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Unveiling AI's Secret Impact On Human Labor And Intelligence"
-    excerpt: "As AI advances, it's not uncommon to wonder whether it may threaten humanity and whether wage requirements and automated labor will affect workers' paychecks."
-    publishedDateTime: 2023-09-01T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/01/unveiling-ais-secret-impact-on-human-labor-and-intelligence/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "yQHLh7LTLi2w3jjtzOd7+1CrbGEJyokPjkkda1X89npT3qYReDA5RpOiwbhVhoYPc87tO6Y8hd2UBrI2Xygw8UR36gCAH4S67eYAmQJ+BoBcKk3s0ack/JkSzOz2HGfJMllFnfJLg9lnBxYgJ5lQP7U1Sh1+S7oMzKAI/agD6pI/kGlup95jcovxaUSe3Ta6PRaH4MylIu8u+p6pgpzmD+nEW90jcHSkQo8exIPJNI48H2nj7XwMY+05XX991h/31ivWg2sXRaKjBuXkNlWTzSEDIUh7NO3eFAJyNs7Jwvy1H4Ods23SmfGyIswoKkERIn1pN0mNwNABm5W2ZOb3hk2+c24zj3Ek3HVazSoUQ5mAkLNcIbsYQBHhpD4Zkz8HeVQQnR5NKXMlD6EC/at6h3IS2tLGRuMVZRxwYFPiRE+HmqtX2sCS3e2tRq/VfBNQDoWsMQHyZKIFm4tmiyGc6CULQf3gGVOrmL7s7E5f6bWThNUGA8XT298gY5cpdyVAEMRWtIwTC9rrqw9pIheNyA==;a9dQwUQ7mkPxHx69zHCSHw=="
 ---

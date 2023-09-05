@@ -76,15 +76,6 @@ related:
         width: 542
         height: 361
         isCached: true
-  - title: "This startup is using AI to give people the power to create personalised photos"
-    excerpt: "Everyone wants beautiful photos. Whether taken alone or with a loved one, at a favourite location, or at an event, the desire for a photo that captures the.."
-    publishedDateTime: 2023-08-31T12:46:00Z
-    webUrl: "https://www.khaleejtimes.com/kt-network/this-startup-is-using-ai-to-give-people-the-power-to-create-personalised-photos"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 13
 
 secured: "xy+PWAnW6v8hRQvVVHHSc8a5ISiZmtqI4y5eJuR4UNy+3ryUK2ATOd5B8SfA4LnSOf0C5Di8U5YzITkEGt0lKUIMWd1EDZWB2bwNv7Lvg2075Rwa8+X7rG8eFfd0CoxWvz2PLtNEdDkYk1xK0MIASNwvcDu1krpaNATtkzZOWORl9m8b/b4q92TKIjXu6ryoeKTokjAuqJRTSwFLvUQDkV4vd0OnJhVy26OgLkpPNZ36vRiIL/g7r5c2Rzd6/VaSABhw+WUI1bKb5Zz5L/HLiE4kLG/m8FRgna4oOfste2lRICLdQc84FVoEKytJY4q1IhzC3mL9xu//aoHeIOihjNGgsyTWuMqXOPh8ZNWGPls=;Dxsus8xjb0YmL7NJrM6GMg=="
 ---

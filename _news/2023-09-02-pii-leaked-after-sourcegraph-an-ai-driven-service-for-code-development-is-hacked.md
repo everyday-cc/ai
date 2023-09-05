@@ -52,20 +52,6 @@ related:
         width: 600
         height: 800
         isCached: true
-  - title: "How Liquid Neural Networks Can Shrink the Resources Needed For AI"
-    excerpt: "When a robot needs to react to external stimulus, it is extremely resource-heavy — a problem for fitting intelligence into a small space."
-    publishedDateTime: 2023-08-31T11:51:00Z
-    webUrl: "https://www.techopedia.com/how-liquid-neural-networks-can-shrink-the-resources-needed-for-ai"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 54
-    images:
-      - url: "https://www.techopedia.com/wp-content/uploads/2023/08/machine_learning_03.png"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "How artificial intelligence will help, or hinder, your workforce"
     excerpt: "The authors' theory is that higher-skilled workers benefit far less from AI assistance because the AI is reflecting behaviors and skills it learned from the skilled work, making it more beneficial to reduce the learning curve and help out new customer-service workers instead."
     publishedDateTime: 2023-09-01T12:00:00Z

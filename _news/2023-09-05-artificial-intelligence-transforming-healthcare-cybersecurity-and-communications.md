@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/chuckbrooks/2023/09/04/artificial-intellig
 ampWebUrl: "https://www.forbes.com/sites/chuckbrooks/2023/09/04/artificial-intelligence-transforming-healthcare-cybersecurity-and-communications/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2023/09/04/artificial-intelligence-transforming-healthcare-cybersecurity-and-communications/amp/"
 type: article
-quality: 104
-heat: 144
+quality: 106
+heat: 146
 published: true
 
 provider:
@@ -26,6 +26,7 @@ topics:
   - AI in Healthcare
   - Microsoft AI
   - AI Ethics
+  - AI in Robotics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/64f654488751487eecb0157e/0x0.jpg?format=jpg&width=1200"

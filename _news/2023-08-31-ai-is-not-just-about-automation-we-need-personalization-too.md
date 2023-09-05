@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/digital-assets/2023/08/31/ai-is-not-jus
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/08/31/ai-is-not-just-about-automation-we-need-personalization-too/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -76,15 +76,6 @@ related:
         width: 542
         height: 361
         isCached: true
-  - title: "This startup is using AI to give people the power to create personalised photos"
-    excerpt: "Everyone wants beautiful photos. Whether taken alone or with a loved one, at a favourite location, or at an event, the desire for a photo that captures the.."
-    publishedDateTime: 2023-08-31T12:46:00Z
-    webUrl: "https://www.khaleejtimes.com/kt-network/this-startup-is-using-ai-to-give-people-the-power-to-create-personalised-photos"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 13
 
 secured: "/b2rMmMUOysXcF44fJtzRavbc0eYOWXhHiqSqYbBEzm2H/jd49sCvpfe71iA9YdmTtrCxLyDzXGV9xH7SgFsSdvrL3wY25NlOOXqQNJN6hetLAMyQKrdkrstHJoYAlFi5JY/QRWsDQCO9B/JYAgc8gTBB3ed7cP0BCHMkAQ20H8icPxa334n+F/ECSnPEvyxenmq6Ua4ouIBkdQ/JfpmXBjrt93GR0zGXM5xYVuitCsfrY4u3xfBhXTjDF0E3oTC1LCQf+3jqZ4zDTTxWRCofHk9NrIiXE5j+WJ3ToUWqC0pRdY7RItOXGqBiX48xVsbjQ57EOBHLSrFsme5T0zE0azSq9C8CzUn9v4GAuSKMqwwpalYFkCTDy5rUixYMpjDJkrOnbAWfGeKZlTBVNWBo69o2+CyB5RrdjMcyOcRyuNjjbixWMdBiuNKovAiDHuPeH1T4KlrobFaA65GeUmG3ermUymw7cHHhUqLn2mM3xr1Uf6rPLrndIl9CXQJhWApbHdN+SeX8WtZsHvGsmboZA==;1iQVIsw9ROTnLMjW6ZMHGg=="
 ---

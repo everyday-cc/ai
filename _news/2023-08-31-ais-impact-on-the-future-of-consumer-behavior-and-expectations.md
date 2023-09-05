@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/31/ais-impa
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/31/ais-impact-on-the-future-of-consumer-behavior-and-expectations/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://i.insider.com/64f0a302954da4001967f7b8?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Economics lecture to explore the pros and cons of artificial intelligence"
+    excerpt: "AMES, Iowa – Economist Tyler Cowen will discuss the future of artificial intelligence next week at Iowa State University when he presents the 2023 I.W. Arthur Memorial Lecture."
+    publishedDateTime: 2023-08-31T16:09:00Z
+    webUrl: "https://www.news.iastate.edu/news/2023/08/31/cowenlecture"
+    type: article
+    provider:
+      name: news.iastate.edu
+      domain: iastate.edu
+    quality: 36
+    images:
+      - url: "https://www.news.iastate.edu/media/2023/08/F0FJ-472.jpg"
+        width: 472
+        height: 266
         isCached: true
 
 secured: "y9M6miNJvancDmwmXpmoEBjdg56T3BMVAX3zBFZl/UPnZSrXDBqhRe9M4Iw2J/T3yvmwU+x//+X0OKwfS7Tr7+tq4H+e9vRknsQ283rVIPljGGUhwWI9GwgJF8IQZRgcSKo5BVl7ppJBahtqzdmDAsB+tDZ5KNt+A8VCtITGRaV3XpQzBJFFKlSQ4V0G2dlR40g+SFQNbbiL36NOqEEZW4htC+Ao1M7LcCZMwTPWMaYzQLQFTMESwxfO3z+ruxYhKdHiU+lCe+5mWskrehxW3oV0qKTopapzJQ07a3e4x/Wc6EHyauC0W7ci/W0T6TgZM3Kbhu50ipsFlsUUp2WBE6dfm/Nj9Q3QSoZBPpfCcuQ=;M6I7+3BabqWn+W09LDm1dw=="

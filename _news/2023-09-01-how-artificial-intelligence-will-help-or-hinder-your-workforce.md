@@ -49,20 +49,6 @@ related:
         width: 600
         height: 800
         isCached: true
-  - title: "How Liquid Neural Networks Can Shrink the Resources Needed For AI"
-    excerpt: "When a robot needs to react to external stimulus, it is extremely resource-heavy — a problem for fitting intelligence into a small space."
-    publishedDateTime: 2023-08-31T11:51:00Z
-    webUrl: "https://www.techopedia.com/how-liquid-neural-networks-can-shrink-the-resources-needed-for-ai"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 54
-    images:
-      - url: "https://www.techopedia.com/wp-content/uploads/2023/08/machine_learning_03.png"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "PII leaked after Sourcegraph, an AI-driven service for code development, is hacked"
     excerpt: "An unknown hacker gained administrative control of Sourcegraph, an AI-driven service used by developers at Uber, Reddit, Dropbox, and other companies, and used it to provide free access to resources that normally would have required payment."
     publishedDateTime: 2023-09-01T18:17:00Z

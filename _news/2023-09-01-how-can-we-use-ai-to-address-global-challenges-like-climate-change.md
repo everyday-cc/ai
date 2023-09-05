@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/09/01/how-can-we-use-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/09/01/how-can-we-use-ai-to-address-global-challenges-like-climate-change/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "The Download: China’s AI chatbots go public, and how climate change is affecting hurricanes"
-    excerpt: "The news: Baidu, one of China’s leading artificial-intelligence companies, has announced it’s opening up access to its ChatGPT-like large language model, Ernie Bot, to the general public."
-    publishedDateTime: 2023-08-31T12:11:00Z
-    webUrl: "https://www.technologyreview.com/2023/08/31/1078854/the-download-chinas-ai-chatbots-go-public-and-how-climate-change-is-affecting-hurricanes/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 7
 
 secured: "5SLlJiSo32CobWi0Addtao3X6QpCHeu9UVpq46b1dSx/E9HvlzKUWXyKE3tf2Ti8tipFpo4GCllUE4s9cpWK4gxVnzbqUuhDBbNdcd0IKN4GUUOT8N4T8sqOiJOlna2w0MNcT6IzxK+V1qgH7DrhSypg2Kuks2pc8iMXDhn7UctBm3IeG7qnfgY9229wZEtR/KCmViYyVTRi9Ey6UkCoWM/+mls16EJod6UC7mo7t89I9ooNARaAPYs0OpQU7/yQOqY1OmgzkzRTBLDY1T6OjcmACsjM931oIsVnS81CTkN023my4x4eStGsizVxREeHg568rQnSVs5bJCHMdt4Oa8IWn8lyInXH7VMwkD61i+gTh/X2vT/KEvMg1qBy9RfKYawumD78eog+ovz6ILFtRH473SSgvcFtNXSmXc+m6Gb2+bF5dwB5Lt8dnFa/+ZuZrKeI8Dw0ZZdX1VPAo4FBcpqxRxA5T0hkIgwIoysAXvWGtqr+TAol1FSMjx4fiA5dYFAia5yGgWvpIt3ijKRx4Q==;8xx/mzq8adYu/Y86ldNXjw=="
 ---

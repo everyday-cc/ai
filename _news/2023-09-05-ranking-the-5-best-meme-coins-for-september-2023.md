@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Microsoft enters partnership to build AI for large datasets"
-excerpt: "The global software giant is offering Synthetiac up to 1 million hours of cloud computing resources to accelerate the development of new tools for searching massive amounts of unstructured data."
-publishedDateTime: 2023-09-01T04:00:00Z
-originalUrl: "https://www.nextgov.com/artificial-intelligence/2023/09/microsoft-enters-partnership-build-ai-large-datasets/389923/"
-webUrl: "https://www.nextgov.com/artificial-intelligence/2023/09/microsoft-enters-partnership-build-ai-large-datasets/389923/"
+title: "Ranking the 5 Best Meme Coins for September 2023"
+excerpt: "Shiba Memu leverages artificial intelligence to interact with crypto forums and social media platforms, and by using advanced natural language processing (NLP), it creates a bridge between technology and community, reaching new audiences and maintaining an ..."
+publishedDateTime: 2023-09-05T05:12:00Z
+originalUrl: "https://www.tribuneindia.com/news/impact-feature/ranking-the-5-best-meme-coins-for-september-2023-541527"
+webUrl: "https://www.tribuneindia.com/news/impact-feature/ranking-the-5-best-meme-coins-for-september-2023-541527"
 type: article
-quality: 54
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Nextgov
-  domain: nextgov.com
+  name: The Tribune
+  domain: tribuneindia.com
 
 topics:
-  - Microsoft AI
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://cdn.nextgov.com/media/img/cd/2023/08/31/AIMicrosoftWT20230830/open-graph.jpg"
-    width: 400
+  - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/9/2023_9$largeimg_828696836.png"
+    width: 800
     height: 400
     isCached: true
 
@@ -94,6 +94,20 @@ related:
         width: 821
         height: 463
         isCached: true
+  - title: "Microsoft enters partnership to build AI for large datasets"
+    excerpt: "The global software giant is offering Synthetiac up to 1 million hours of cloud computing resources to accelerate the development of new tools for searching massive amounts of unstructured data."
+    publishedDateTime: 2023-09-01T04:00:00Z
+    webUrl: "https://www.nextgov.com/artificial-intelligence/2023/09/microsoft-enters-partnership-build-ai-large-datasets/389923/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 54
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2023/08/31/AIMicrosoftWT20230830/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "September Rally? 3 AI Stocks to Buy Before Liftoff"
     excerpt: "Executives at AMD have said that the new microchip, which they plan to begin shipping by year-end, is a direct challenge to Nvidia’s current dominance with AI chips. The biggest foray yet into AI for AMD, the MI300X chip was designed for large language ..."
     publishedDateTime: 2023-09-04T22:45:00Z
@@ -135,20 +149,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 32
-  - title: "Ranking the 5 Best Meme Coins for September 2023"
-    excerpt: "Shiba Memu leverages artificial intelligence to interact with crypto forums and social media platforms, and by using advanced natural language processing (NLP), it creates a bridge between technology and community, reaching new audiences and maintaining an ..."
-    publishedDateTime: 2023-09-05T05:12:00Z
-    webUrl: "https://www.tribuneindia.com/news/impact-feature/ranking-the-5-best-meme-coins-for-september-2023-541527"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 24
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/9/2023_9$largeimg_828696836.png"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Amazon promo codes for September 2023"
     excerpt: "Save up to 40% on laptops, desktops, monitors, computer accessories, and more in the Amazon sale Grab your favorites now Amazon Prime is Amazon’s subscription service which gives you access to ..."
     publishedDateTime: 2023-09-01T22:01:00Z
@@ -159,6 +159,6 @@ related:
       domain: pcgamer.com
     quality: 4
 
-secured: "MDQJKuxjoqjH+HZhoFr1xytJ9Kz4APtzVOO9CMHTlkACQJouVznQFp8QbiGBeBOlQOPAKU9z64h2pUHe3ON1TBw0zi7byY9qyEf7wbe3LxEU9Me3vb9Zk71RqwBxv2O6xB2g0wQPWYP6jbzYt6AUsQGUjcyJTaQB6Nnb5Hm1NY9zYJb1G3Da4O0z6MzJCBqQnwtl6y8NHtyAucVkqFPjyjdjuCcOJ9xg5Bo3qBBcMtRCsaM+GmL508MZ6WB/W6p9uuNJiAzPoKe8Yw6UK/UzJOZdOPPtjToREJuKgjw1hvZqDHTyU2Dou+YBRpjtFrRPoy/C3iaqByC51Gg5Jjy745TAA6PUM7WhQkw6slCUQI/xbyVx6jCLJPxRLptLLOgRYIKAHXtEKUwCxUvQbuA9ShGvZ6C94tkeD2gy5A0b28Go7Rz3dnjDACl60me2zQKS6GSgU6aZtgK1kFaVUhMTBoOxJsIQcKaKNp2gnrP0Ip1aOKyZelzJqQs+0BJ6XYSsqNAPXhUDchcTMK3TVXWLsw==;5nqxg+NbhTLMC0+soVlgTQ=="
+secured: "f+j+1Aaj4Sb4s3xBCkSTSBmoIASmJz7w06Qa71F/1bLE5x2ZK0bFCgTbV8Gt3JxYfixIFUyCns2AL7eYQNWQK9JtXgvAElU+sq1rfY7l0mPPBxVueCMlQ10PF52TOeLAAgUmxpIqsv7P48zviFJQ+/s+NBCZh/XxN3ImKkF/WFbNTt1rfBLo7VYMZpIoSgtYry1SJck71lTqM3EUHmxs7Zr7SpzZyu5dHacIzx2UueAluDa78sgU540jOWdZ5/QX9uBeEpCcQMv/Wu7WzFr/5INBY5GmWCJyCYSpCBbl1IuamxwRdPbT9XnXJpMhJxsqS0WvHYrimHGGqCynLm/zGflV31LpwX0oSRlWxCXCXy8=;TbORnz9FYbrW5wsyhBsPMA=="
 ---
 

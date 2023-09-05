@@ -24,35 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "AI And The Economy: Healthcare Will Have Huge Productivity Gains"
-    excerpt: "The big, early gains will come from faster, easier clerical tasks that today consume too much of doctors’ and nurses’ time."
-    publishedDateTime: 2023-08-31T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/billconerly/2023/08/31/ai-and-the-economy-healthcare-will-have-huge-productivity-gains/"
-    ampWebUrl: "https://www.forbes.com/sites/billconerly/2023/08/31/ai-and-the-economy-healthcare-will-have-huge-productivity-gains/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billconerly/2023/08/31/ai-and-the-economy-healthcare-will-have-huge-productivity-gains/amp/"
+  - title: "AI's Impact On The Future Of Consumer Behavior And Expectations"
+    excerpt: "With increasing awareness about data’s value, businesses need to handle customer information responsibly and transparently."
+    publishedDateTime: 2023-08-31T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/08/31/ais-impact-on-the-future-of-consumer-behavior-and-expectations/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 104
+    quality: 69
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64ef791a25e46eb704f39342/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63d020172f02c16abf766ed0/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 800
+        height: 796
         isCached: true
-  - title: "A quarter of the economy will be impacted by artificial intelligence"
-    excerpt: "."
-    publishedDateTime: 2023-09-03T21:41:00Z
-    webUrl: "https://www.sbs.com.au/news/podcast-episode/a-quarter-of-the-economy-will-be-impacted-by-artificial-intelligence/ugo2f0czt"
+  - title: "AI expert discusses generative AI: What it means and how it will impact our future"
+    excerpt: "Generative AI is revolutionizing our world. Monica Livingston, an AI expert at Intel, shares her insights into the future of this growing technology."
+    publishedDateTime: 2023-09-01T16:18:00Z
+    webUrl: "https://www.businessinsider.com/sc/ai-expert-explains-how-generative-ai-will-change-our-future"
     type: article
     provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 37
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
     images:
-      - url: "https://images.sbs.com.au/dims4/default/4b7fda3/2147483647/strip/true/crop/1242x699+0+53/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F8b%2F66%2F439abda94a7ebf878891d4bb38fd%2Fpodcast-sbsnews-shorts-1242x804-2.jpg"
-        width: 1280
-        height: 720
+      - url: "https://i.insider.com/64f0a302954da4001967f7b8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "tpghUvBUkKOaDatMx/NB76LPHw4tRDkaMxQaTw8SgpgCdWpLfmyC1DclyuM7GAqsu1toEr2D0MKDwep+mZwyCXfs75R4zJRBmH1xOHaB7RRJB6ftC84Og018wTlnf53GoXt2eGM/oJG8KZK1XbDdcd1rY0P3MO+olWgFkd+/1RMK0Dwr+ncBxbyJbz0fpXAm1sj8FxVfBIh79OPB26GdSERty5W909J+4vXvGGz7o/MVq/K306jsy08BNTitTfiphPyJGgM5ZVEweo2TJ1TIm6Nsr12nHNpLLDwrmDG6PV4rIVnsc2noh5ZT4FOWj4Oycv/lBwUrAWobSSVcogy/Krl9OZrmqGVL3KDmpcnPpi4dnpqoS8YGVGKfjW1Z+iU8jH20jOH07Ypt4d44wbcCFus+M8Xxph3POht3VN+S5KJGJ4ERTB/zeKltxYDT3BziqZ3pGPev7KSMf32Saigu9mQB+qgt45BXP+Kkx44uSLuXcW9OnHTjVUi8/MFW9iF+uWJGwwlZ7B9k+qO9Zd3NVw==;D37sdEGa6vwvHVs0yDdz8Q=="
