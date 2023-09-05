@@ -48,6 +48,15 @@ related:
         width: 1800
         height: 945
         isCached: true
+  - title: "USM tapped to develop ethics training in age of artificial intelligence"
+    excerpt: "University of Southern Maine researchers are developing an ethics training program they hope will prevent scientists from taking shortcuts or cheating with artificial intelligence and other technologies. Faculty and a doctoral student from USM’s ..."
+    publishedDateTime: 2023-09-04T22:46:00Z
+    webUrl: "https://www.sunjournal.com/2023/09/04/usm-tapped-to-develop-ethics-training-in-age-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Sun Journal
+      domain: sunjournal.com
+    quality: 49
 
 secured: "O2Qh2iCYwB2wUNk6BidU9WHHaiajlA1qNSPzVQPEB6CNLfovxTyPows0QzKA5kT43Hm2VMt8UB92NwbRrKnVdtUEskdm26pNGvBC9DELgfD7Gf4DCiEkDF804/1Al2iJfQaj9RqUPOLl1PIF+S4F4vO9EIYymDYkej1dBmWtZtaJ2XC6JsoWdo5Wdk/0Vond+qdUh4idUtJmcdpXcr1CGHmch74hYXNh2zQ2mIKfs/SXwo5HaNt7bYkJpjyNImdZ8bXp3b727ItkHsjPD7u+jziNhkXss1dOpBv9/O69GumhXALcgJ87YED3pmBYNas8soHbStvLXQXk4tCjdaIi8No4AdbkEx5LeNW+9etv3tyf7K6vleyNK2XmkrLJX4xggLJpxruuGqbNAgk/v4JHfcxUtWXHW3A9aiUXePjo+elIEKNbkY9iv22PUkPfOuzqG4zGKRoXeoQMebaGTc6gSxTKaLkP21sqNzbDK9q2XoKIKjZqfhKecyxmKp+Nlf33gigDjtXHJCAGFd8Va8JG3Q==;Oujlj07wEeEtCr62dV8wOg=="
 ---

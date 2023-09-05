@@ -9,8 +9,8 @@ ampWebUrl: "https://healthtechmagazine.net/article/2023/09/how-ai-can-help-healt
 cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2023/09/how-ai-can-help-healthcare-organizations-bolster-patient-data-security?amp"
 type: article
 quality: 91
-heat: 101
-published: true
+heat: -1
+published: false
 
 provider:
   name: HealthTech
@@ -28,20 +28,58 @@ images:
     isCached: true
 
 related:
-  - title: "Beyond Cost, Patient Safety and Physician Burnout Should Factor Into AI Decisions in Health Care"
-    excerpt: "Compared with other industries, in the health care space, challenges connected to the use of artificial intelligence (AI) include processing reimbursements and clinical operations."
-    publishedDateTime: 2023-09-03T12:00:00Z
-    webUrl: "https://www.ajmc.com/view/beyond-cost-patient-safety-and-physician-burnout-should-factor-into-ai-decisions-in-health-care"
+  - title: "Artificial Intelligence: Transforming Healthcare, Cybersecurity, and Communications"
+    excerpt: "Artificial intelligence (AI) systems aim to reproduce human characteristics and processing power in a machine and outperform human speed and constraints. Machine learning and natural language processing, which are already commonplace in our daily lives ..."
+    publishedDateTime: 2023-09-04T22:20:00Z
+    webUrl: "https://www.forbes.com/sites/chuckbrooks/2023/09/04/artificial-intelligence-transforming-healthcare-cybersecurity-and-communications/"
+    ampWebUrl: "https://www.forbes.com/sites/chuckbrooks/2023/09/04/artificial-intelligence-transforming-healthcare-cybersecurity-and-communications/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2023/09/04/artificial-intelligence-transforming-healthcare-cybersecurity-and-communications/amp/"
     type: article
     provider:
-      name: The American Journal of Managed Care
-      domain: ajmc.com
-    quality: 26
+      name: Forbes
+      domain: forbes.com
+    quality: 100
     images:
-      - url: "https://cdn.sanity.io/images/0vv8moc6/ajmc/bfa2631293355e5f38bf70efcd53b800ae7bac95-6628x3728.jpg?fit=crop&auto=format"
-        width: 6628
-        height: 3728
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64f654488751487eecb0157e/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 750
         isCached: true
+  - title: "Cybersecurity experts are warning about a new type of AI attack"
+    excerpt: "Here's what to know about these type of attacks, which involve the large language models that power AI systems like chatbots."
+    publishedDateTime: 2023-08-31T17:32:00Z
+    webUrl: "https://www.popsci.com/technology/prompt-injection-attacks-llms-ai/"
+    ampWebUrl: "https://www.popsci.com/technology/prompt-injection-attacks-llms-ai/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/prompt-injection-attacks-llms-ai/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 57
+    images:
+      - url: "https://www.popsci.com/uploads/2023/08/31/chatgpt-mobile.jpg?auto=webp"
+        width: 2000
+        height: 1125
+        isCached: true
+  - title: "Generative AI: Balancing security with innovation"
+    excerpt: "AI is creating new thoughts and providing new opportunities. A thoughtful, intentional, and security-focused approach to the tech makes all the difference."
+    publishedDateTime: 2023-08-31T14:51:00Z
+    webUrl: "https://www.cio.com/article/650810/generative-ai-balancing-security-with-innovation.html"
+    ampWebUrl: "https://www.cio.com/article/650810/generative-ai-balancing-security-with-innovation.html/amp/"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/650810/generative-ai-balancing-security-with-innovation.html/amp/"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 56
+  - title: "UK’s NCSC Warns Against Cybersecurity Attacks on AI"
+    excerpt: "U.K.’s National Cyber Security Centre publication on AI details attacks that might target organizations implementing or developing ML models."
+    publishedDateTime: 2023-09-01T18:36:00Z
+    webUrl: "https://www.techrepublic.com/article/uks-ncsc-warns-against-cybersecurity-attacks-on-ai/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 49
 
 secured: "inMWSfQ3HW7VJUB9mTmPtw8jzPG6xSAHE9b6MjCUvsLvrQVGb9lpjbK9RhBZZGwSGJtwR6B4NZg+eoxdaoYSitEunZM7lBCfaFePsD73c5HudqWVCt3I/qC3tw+Uoil9QNbe+5HRMbGDelv1DK2q+DozDwWCh8tvpQmB62L4Tg8eh4TD5QPdx1K18EQN3r4S4Isr1T6K2upt/EPYlwgtH6SQn5vNKwp9fLEjS+YeJ0TBXv8yNLpWpXc/87KZVPA2wFa+ZcFo06xERUckzMTACynGeYQgHkso6nX/QVxZYFOfj3qkRxPHINmqK17I38XhHLDSU6xnIw8Dq4GHzBGun73Ipgkugw8ba/7ImoqxULBsvy7a0V+qQWRQ23mrfbMTLvLqIrC5Mf+qbBRBQ+2KGwTtONZxPVQ1TnQ/G8rXo4+7JX6H7MwQTRbReV6UxIiPdAvyFrcBor3RAt7GvK6cQQLLJOkunLDXhZHkJc2RB384By2RX6XxgM6Z6vAntxY7eEKXO/MDjLAkIJG6ObCQcg==;CovEWFkUOvpcB5MLuHUW3g=="
 ---

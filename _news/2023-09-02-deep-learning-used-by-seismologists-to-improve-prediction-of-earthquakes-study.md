@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Deep learning used by seismologists to improve prediction of earthquakes: Study"
-excerpt: "The Recurrent Earthquake foreCAST (RECAST), a new model developed by academics from the Technical University of Munich and the University of California, Santa Cruz, addresses this issue by using deep learning to forecast aftershocks. The researchers ..."
-publishedDateTime: 2023-09-02T16:34:00Z
-originalUrl: "https://timesofindia.indiatimes.com/home/science/deep-learning-used-by-seismologists-to-improve-prediction-of-earthquakes-study/articleshow/103313891.cms"
-webUrl: "https://timesofindia.indiatimes.com/home/science/deep-learning-used-by-seismologists-to-improve-prediction-of-earthquakes-study/articleshow/103313891.cms"
+excerpt: "The methods that researchers and governmental organisations employ to predict earthquake aftershocks have mostly stayed unaltered for more than 30 years. The large seismology datasets that are currently accessible are difficult for these older models to handle,"
+publishedDateTime: 2023-09-02T13:43:00Z
+originalUrl: "https://theprint.in/science/deep-learning-used-by-seismologists-to-improve-prediction-of-earthquakes-study/1744032/"
+webUrl: "https://theprint.in/science/deep-learning-used-by-seismologists-to-improve-prediction-of-earthquakes-study/1744032/"
+ampWebUrl: "https://theprint.in/science/deep-learning-used-by-seismologists-to-improve-prediction-of-earthquakes-study/1744032/?amp"
+cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/science/deep-learning-used-by-seismologists-to-improve-prediction-of-earthquakes-study/1744032/?amp"
 type: article
-quality: 15
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Indiatimes
-  domain: indiatimes.com
+  name: ThePrint
+  domain: theprint.in
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://static.theprint.in/wp-content/uploads/2023/09/ANI-20230902134029.jpg"
+    width: 600
+    height: 450
+    isCached: true
 
 related:
   - title: "Seismologists use deep learning to forecast earthquakes"
@@ -87,6 +95,6 @@ related:
       domain: webindia123.com
     quality: 15
 
-secured: "EKlqOiBqlgJFxKC0OY9kg88ikGhn5XBH6gsyIcEuOq2OMUox5NgLUD903/8WqbaP/u0ETLEIrIvBUYXZLxM0jVtuYqXIjGVyO2I9bj9gy78uCy/9LVfUJNBFoQOoUNJCxIcDmgV+Ut66vj2kwmZrMDBNDlVuE6zE2rWpodiH28+AIVecCas1ehWJOY9Us7VXuzpXjHpt2wTVDN4aXrdgxqjlo6LDYi8lwTfSBhwMWDMIiZrpOZHzYjpo1I7ZQ5Ik72ECF3iEN4o997mfPgRte2S5uYMN1g5ijOXsFyBMwN2VIArtxpwK7UicSnl/uit3Zw09hGdyZ4YJJJV/gHM+2dpagEQ9PYU/GNRFZYSpVQxXF4oa8ok8RH4F+UQ/IRCxqFf/ieGjCVXMRwP9hTEN/s1XObUVxLJcgiLN44ADeAjzVIVz4m1LsS2XeXY3Qt3a+RkMAkYxIdrK7fnKFCzb5l/BBpr8bu/l/hg53abF6Mcz5r/BpMoX1sKSP2B0FZocdqoqfPRTW+ehH+600HGyhA==;SZId+vniCUe9lQ9yYj7Dyw=="
+secured: "wmdQb4gu+nUET1dLG97fOP3MzyZ55m2vF3TMK/lo+ke8zuzffuyt7GZW9hBvtmzpmgk63qXWuZuYo6hPJIXD6CMYszuYc7vD/KF9aPH0nusY1WC3u5uavaEKWC15ZYLDhP0+gHNRfaKXeTbd30aS+tfhyXSPa7Ssg6gbSgihrZtcs7UjE9Ci/JCpvUMJ/WKnV0GaredSVzoXJt33tNrqZb5GN2Gq03kd9pSW4lYeg8z0gUrCBlogcUYcwPZIU0a39xgwhiYsPnCRrY3TeewVEgrPm24HQTBatSOaqQMHTZkEJHNHNX1C7h1HBv8sZj2Yf4AdV07nwGOUNT6j/oqkzAFJ0cQn/UT0DE0qMUGpWY4=;f9WiVHn6AV2HLJuMan7Eag=="
 ---
 

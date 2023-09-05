@@ -44,15 +44,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "DASA to explores facial recognition for policing"
-    excerpt: "The Defence and Security Accelerator (DASA) has launched a market exploration on how facial recognition technologies can be used in policing and security. It said it is aiming to identify capabilities that could be deployed within the next 18 months."
-    publishedDateTime: 2023-08-31T05:20:00Z
-    webUrl: "https://www.ukauthority.com/articles/dasa-to-explores-facial-recognition-for-policing/"
-    type: article
-    provider:
-      name: ukauthority.com
-      domain: ukauthority.com
-    quality: 19
 
 secured: "nI36EX6mBlvnYDrG2tdwIFpLHyehqNfGRM2b4f/stIy2ZiumPjO8U/sHOwm7TwvtYP/XYP0VCtrgxVcYEfUUpv3VoLZajitjrdPinKrlLuJgAksqSpH+CNHjZbb0pbvXj4XQcQglk2M4WE7OWef1LjjYkLTnIK9n5w4j9xBR2iUWdpryCMipypOEnQk2ysruFfTUqVwet1B3g9z/mmYu25wRANgo0Sd8dbpYkaRQ05TT3J7pwSPfolaHCTpRgBiIr3ivr6ux6v4NYdit9lF/8f8SAPdsQ/kiDB/v3N6IIQvb/Q3+O9yO5GlgQSyD+0Z2YXpVV18xZ1WS4eEiYB8BRozoYLN2cokdlWO3uRbQBcc=;n9agcy2ZMmmoskcA2bN0Ig=="
 ---

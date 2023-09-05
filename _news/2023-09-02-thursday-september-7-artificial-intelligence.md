@@ -41,6 +41,15 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "September Rally? 3 AI Stocks to Buy Before Liftoff"
+    excerpt: "Executives at AMD have said that the new microchip, which they plan to begin shipping by year-end, is a direct challenge to Nvidia’s current dominance with AI chips. The biggest foray yet into AI for AMD, the MI300X chip was designed for large language ..."
+    publishedDateTime: 2023-09-04T22:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/september-rally-3-ai-stocks-to-buy-before-liftoff-1032603562"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Amazon promo codes for September 2023"
     excerpt: "Save up to 40% on laptops, desktops, monitors, computer accessories, and more in the Amazon sale Grab your favorites now Amazon Prime is Amazon’s subscription service which gives you access to ..."
     publishedDateTime: 2023-09-01T22:01:00Z

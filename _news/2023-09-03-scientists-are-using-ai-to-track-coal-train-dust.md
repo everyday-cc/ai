@@ -9,7 +9,7 @@ ampWebUrl: "https://www.popsci.com/environment/coal-train-dust-ai/?amp"
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/environment/coal-train-dust-ai/?amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
         width: 1800
         height: 945
         isCached: true
+  - title: "USM tapped to develop ethics training in age of artificial intelligence"
+    excerpt: "University of Southern Maine researchers are developing an ethics training program they hope will prevent scientists from taking shortcuts or cheating with artificial intelligence and other technologies. Faculty and a doctoral student from USM’s ..."
+    publishedDateTime: 2023-09-04T22:46:00Z
+    webUrl: "https://www.sunjournal.com/2023/09/04/usm-tapped-to-develop-ethics-training-in-age-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Sun Journal
+      domain: sunjournal.com
+    quality: 49
   - title: "Schools use artificial intelligence to bust students vaping"
     excerpt: "Artificial intelligence is being ­deployed to dob in students for vaping or bullying in school toilets, as children end up in hospital with nicotine and heavy metal ­poisoning."
     publishedDateTime: 2023-09-01T09:10:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/uk-northern-ireland-66662461.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-northern-ireland-66662461.amp"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:

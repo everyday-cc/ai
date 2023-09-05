@@ -35,6 +35,22 @@ related:
         width: 2128
         height: 1022
         isCached: true
+  - title: "Deep learning used by seismologists to improve prediction of earthquakes: Study"
+    excerpt: "The methods that researchers and governmental organisations employ to predict earthquake aftershocks have mostly stayed unaltered for more than 30 years. The large seismology datasets that are currently accessible are difficult for these older models to handle,"
+    publishedDateTime: 2023-09-02T13:43:00Z
+    webUrl: "https://theprint.in/science/deep-learning-used-by-seismologists-to-improve-prediction-of-earthquakes-study/1744032/"
+    ampWebUrl: "https://theprint.in/science/deep-learning-used-by-seismologists-to-improve-prediction-of-earthquakes-study/1744032/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/science/deep-learning-used-by-seismologists-to-improve-prediction-of-earthquakes-study/1744032/?amp"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 55
+    images:
+      - url: "https://static.theprint.in/wp-content/uploads/2023/09/ANI-20230902134029.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Seismologists use deep learning to forecast earthquakes"
     excerpt: "A team of researchers at UC Santa Cruz and the Technical University of Munich created a new model that uses deep learning to forecast aftershocks."
     publishedDateTime: 2023-08-31T23:35:00Z
@@ -77,15 +93,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep learning used by seismologists to improve prediction of earthquakes: Study"
-    excerpt: "The Recurrent Earthquake foreCAST (RECAST), a new model developed by academics from the Technical University of Munich and the University of California, Santa Cruz, addresses this issue by using deep learning to forecast aftershocks. The researchers ..."
-    publishedDateTime: 2023-09-02T16:34:00Z
-    webUrl: "https://timesofindia.indiatimes.com/home/science/deep-learning-used-by-seismologists-to-improve-prediction-of-earthquakes-study/articleshow/103313891.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 15
 
 secured: "hbm1p908UlePmKyT8CnqWbyAZg8dxTXeNzoVNUpocFd2bxm6VwMDteYDWOHmQJ4D9fNIN/nrb7ZwH0WNLeZoBbnxAx2ATa6Pe87WF1j3brgbAFeHDfaZEiG+3Jk116JZfP9FcZrd2+fNGbXefUd1VW4RFDl9ADRCdIxEbZXPCKpvHTPqvwzOfgMolXwPJyOzv91SkxEU2y3aYstveW9ns3md+BGN3kCZI6B7QK1iABBtk38p/xn1UXlvJQb2PmaSP8SAMATaq3yBV8frKxWWJyk1H/lNU7RgFMN/4HqvjQwMwQJkRg8a/hzJxEvCnYCgpdZVeCNdg5IH2SpoRXRVXS7KIdBYLC8Kezrxdh4XSAE=;+UefRcZ/SQTmnG4amjkKMg=="
 ---

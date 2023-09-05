@@ -72,7 +72,7 @@ related:
   - title: "The chilling rise of AI scams"
     excerpt: "Criminals are cloning voices and making calls to trick victims into sending them money. How can they be stopped?"
     publishedDateTime: 2023-09-04T01:00:00Z
-    webUrl: "https://www.theguardian.com/news/audio/2023/sep/04/the-chilling-rise-of-ai-scams-podcast?ref=biztoc.com"
+    webUrl: "https://www.theguardian.com/news/audio/2023/sep/04/the-chilling-rise-of-ai-scams-podcast?ref=upstract.com"
     type: article
     provider:
       name: The Guardian

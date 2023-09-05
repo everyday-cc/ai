@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-01-ai-drone-beats-pro-drone-racers-at-their-own-game.md",
+      "title": "AI drone beats pro drone racers at their own game",
+      "excerpt": "An AI drone has beaten pro drone racers at their own game in a world first that could have implications for other drone-related tasks such as search and rescue.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/news/ai-drone-beats-pro-drone-racers-at-their-own-game/",
+      "originalUrl": "https://www.digitaltrends.com/news/ai-drone-beats-pro-drone-racers-at-their-own-game/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/08/drone-race-AI.jpeg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/news/ai-drone-beats-pro-drone-racers-at-their-own-game/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/ai-drone-beats-pro-drone-racers-at-their-own-game/?amp",
+      "publishedDateTime": "2023-08-31T18:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-01-eweek-tweetchat-september-12-ai-in-the-enterprise.md",
       "title": "eWEEK TweetChat, September 12: AI in the Enterprise",
       "excerpt": "Industry thought leaders participate in a wide ranging conversation – via Twitter – about how the enterprise is grappling with the rise of AI.",
@@ -10,7 +61,7 @@
       "originalUrl": "https://www.eweek.com/artificial-intelligence/eweek-tweetchat-ai-enterprise/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -844,41 +895,6 @@
       ]
     },
     {
-      "path": "_news/2023-08-31-generative-ai-balancing-security-with-innovation.md",
-      "title": "Generative AI: Balancing security with innovation",
-      "excerpt": "AI is creating new thoughts and providing new opportunities. A thoughtful, intentional, and security-focused approach to the tech makes all the difference.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/650810/generative-ai-balancing-security-with-innovation.html",
-      "originalUrl": "https://www.cio.com/article/650810/generative-ai-balancing-security-with-innovation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/650810/generative-ai-balancing-security-with-innovation.html/amp/",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/650810/generative-ai-balancing-security-with-innovation.html/amp/",
-      "publishedDateTime": "2023-08-31T07:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
       "path": "_news/2023-08-31-us-bans-sale-of-top-nvidia-and-amd-ai-chips-to-the-middle-east.md",
       "title": "US bans sale of top Nvidia and AMD AI chips to the Middle East",
       "excerpt": "Nvidia wrote in a regulatory filing that the US government had informed the company of a licensing requirement for a subset of A100 and H100 products",
@@ -887,7 +903,7 @@
       "originalUrl": "https://www.techspot.com/news/99984-us-bans-sale-top-nvidia-amd-ai-chips.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 284,
+      "heat": 264,
       "tags": null,
       "images": [
         {

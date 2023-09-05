@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Arnold Schwarzenegger's stunt coordinator wants ‘fair contract’ as AI continues to loom over Hollywood strike"
-    excerpt: "A stunt coordinator who's worked with the likes of Arnold Schwarzenegger and Ryan Reynolds, explains he just wants a fair contract out of the ongoing actors strike."
-    publishedDateTime: 2023-08-31T06:00:00Z
-    webUrl: "https://www.foxnews.com/entertainment/arnold-schwarzeneggers-stunt-coordinator-wants-fair-contract-as-ai-continues-loom-over-hollywood-strike"
-    ampWebUrl: "https://www.foxnews.com/entertainment/arnold-schwarzeneggers-stunt-coordinator-wants-fair-contract-as-ai-continues-loom-over-hollywood-strike.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/arnold-schwarzeneggers-stunt-coordinator-wants-fair-contract-as-ai-continues-loom-over-hollywood-strike.amp"
+  - title: "Is AI a virtue or vice for Hollywood? Several experts weigh in"
+    excerpt: "The idea of AI in Hollywood is fascinating to some, but terrifying to others. LOS ANGELES -- When it comes to director Scott Mann’s tech company Flawless, he says it all started with an actor. “It's entirely Robert De Niro's fault this exists,” says Mann with a laugh."
+    publishedDateTime: 2023-09-01T20:52:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/ai-virtue-vice-hollywood-experts-weigh/story?id=102861494"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/ai-virtue-vice-hollywood-experts-weigh/story?id=102861494"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/ai-virtue-vice-hollywood-experts-weigh/story?id=102861494"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 68
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/08/1200/675/FreddyBoucieguesArnoldSchwarzeneggerLindaHamilton.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
+      - url: "https://s.abcnews.com/images/Technology/justine-bateman1-file-gty-ml-230901_1693579214250_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
 secured: "xuOvEDc6sXc0s8yyCAm0ncTAD5QmsZ7s/1itGefX0rnqNQYvh9WN3TeGH5oP6YVnwWpjq1aSzjtfU4vKZWFbJcJ/b5bCCIAyiMW0uM8h5Rn2xqlWau0HY7Hqiw8KEPwzJxMltupY8IQeOmMlu1MS3wpQau91nb2KgY9p1ZDlvTw4gACw1c9ssXkZenWMM5araeddRKNH7FiMWiNsh2ZJOux83OzM6HRnqHRFJBecpNI7RCF6GzCas0qiZslzhxNHsjllPFktupj+0v10PKVyeIY1ScR8xMwlBj2sGWxRrR2y/RS5RFYyKnYyQ7boFmt0eoCptkFfYFVnJIaWLsbh9Il8iq/nNyp7JC6vzYFNaLN7icDTYNlC+76PvoUU7LThR12gxw1dYDPaBf/RrHhIO8gozoXhMTOO0gWH49deTeECDTyX2XSiUS7yeZ60jJIsW2ROOOhw4nSNeGH5Q2q20h/iHGb4B5Wivc14SeNksK516OIkdHQS6hPDH/P9oNTtbon7O7xPXEYATV96LfMk3g==;ymzfjsh8DFg113J3sbHJiw=="

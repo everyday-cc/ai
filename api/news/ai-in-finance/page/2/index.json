@@ -2,50 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-08-13-rbi-selects-mckinsey-accenture-for-regulatory-supervision-with-ai-machine-learning.md",
-      "title": "RBI Selects McKinsey, Accenture For Regulatory Supervision With AI, Machine Learning",
-      "excerpt": "The Reserve Bank has selected global consultancy firms McKinsey and Company India LLP and Accenture Solutions Pvt Ltd India to develop systems using artificial intelligence and machine learning for its supervisory functions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bqprime.com/rbi-governor/rbi-selects-mckinsey-company-accenture-solutions-for-regulatory-supervision-with-ai-machine-learning?src=p1",
-      "originalUrl": "https://www.bqprime.com/rbi-governor/rbi-selects-mckinsey-company-accenture-solutions-for-regulatory-supervision-with-ai-machine-learning?src=p1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/bloombergquint%2F2023-04%2Fd4a0d7b4-ce76-46c3-a415-0fee6f73f394%2FRBI_DP_2.jpeg?rect=0%2C1%2C1600%2C840&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-13T05:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bqprime",
-        "domain": "bqprime.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2023-08-10-alkami-launches-first-engagement-artificial-intelligence-ai-predictive-model-for-financial-services-industry.md",
       "title": "Alkami launches first engagement artificial intelligence (AI) predictive model for financial services industry",
       "excerpt": "Alkami Technology, Inc. (Nasdaq: ALKT) (“Alkami”), a leading cloud-based digital banking solutions provider for financial institutions in the U.S., has",

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/news/china-s-baidu-rolls-out-chatgpt-riv
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d"
 type: article
 quality: 59
-heat: 129
+heat: 99
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "China's Baidu Launches ChatGPT Rival ERNIE Bot As AI Race Heats Up"
-    excerpt: "China's Baidu rolled out its ChatGPT rival ERNIE Bot to the public on Thursday, in a major leap for the country's tech sector as it aims to cash in on the artificial intelligence gold rush."
-    publishedDateTime: 2023-08-31T05:23:00Z
-    webUrl: "https://www.ndtv.com/world-news/chinas-baidu-launches-chatgpt-rival-ernie-bot-as-ai-race-heats-up-4344272"
-    ampWebUrl: "https://www.ndtv.com/world-news/chinas-baidu-launches-chatgpt-rival-ernie-bot-as-ai-race-heats-up-4344272/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/chinas-baidu-launches-chatgpt-rival-ernie-bot-as-ai-race-heats-up-4344272/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 59
-    images:
-      - url: "https://c.ndtvimg.com/2023-02/e1osgs7g_ernie-bot_625x300_07_February_23.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Are AI Chatbots Dead?"
     excerpt: "At any given moment in history, we’re living through the unexpected downfall of some exciting new technology that paves the way for something greater."
     publishedDateTime: 2023-08-31T13:45:00Z
@@ -52,36 +36,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "China rolls out ChatGPT-like products to public"
-    excerpt: "Ernie Bot easily answered mundane questions such as 'What is the capital of China' and 'Do you have any hobbies' — but on sensitive issues, it said, 'Let's change"
-    publishedDateTime: 2023-08-31T05:30:00Z
-    webUrl: "https://www.khaleejtimes.com/business/tech/china-rolls-out-chatgpt-like-products-to-public"
-    ampWebUrl: "https://www.khaleejtimes.com/business/tech/china-rolls-out-chatgpt-like-products-to-public?amp=1"
-    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/business/tech/china-rolls-out-chatgpt-like-products-to-public?amp=1"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 44
-    images:
-      - url: "https://image.khaleejtimes.com?uuid=942563c0-d820-5cdb-bafd-36c6bce37e8b&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.8427&width=1200&height=675&x=1.0E-5&y=0.07678"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "UPDATED: Baidu leads public rollout of AI chatbots in China"
-    excerpt: "Tech giant Baidu launched China's first public artificial intelligence chatbot on Thursday, with ERNIE trained to censor highly sensitive topics for the ruling Communist Party such as the Tiananmen crackdown."
-    publishedDateTime: 2023-08-31T06:19:00Z
-    webUrl: "https://www.macaubusiness.com/chinas-baidu-rolls-out-chatgpt-rival-to-public-2/"
-    type: article
-    provider:
-      name: Macau Business
-      domain: macaubusiness.com
-    quality: 39
-    images:
-      - url: "https://mbusiness.sgp1.digitaloceanspaces.com/2019/12/Grand_Hyatt_Macau_logo3.png"
-        width: 516
-        height: 516
-        isCached: true
   - title: "The Evolution of AI Chatbots: Past, Present and Future"
     excerpt: "Evolutionary path. Chatbots evolved from simple rule-based systems to AI-powered, voice-activated personal assistants and generative AI chatbots capable of full-fledged conversations."
     publishedDateTime: 2023-09-01T10:02:00Z

@@ -185,34 +185,6 @@ related:
         width: 640
         height: 362
         isCached: true
-  - title: "Nvidia filing shows US extends AI chip ban beyond China and Russia"
-    excerpt: "Reuters quoted Nvidia's latest regulatory filing reporting that the US is extending AI chip curbs beyond China to other regions, including some Middle Eastern countries."
-    publishedDateTime: 2023-08-31T06:00:00Z
-    webUrl: "https://www.digitimes.com/news/a20230831VL204/china-export-restrictions-nvidia.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230831vl204_files/3_2b.jpg"
-        width: 1280
-        height: 854
-        isCached: true
-  - title: "US curbs AI chip exports to some Middle East countries"
-    excerpt: "The US has expanded its restriction of exports of sophisticated artificial intelligence chips to the Middle East."
-    publishedDateTime: 2023-08-31T06:40:00Z
-    webUrl: "https://techcentral.co.za/us-curbs-ai-chip-exports-middle-east/230777/"
-    type: article
-    provider:
-      name: TechCentral
-      domain: techcentral.co.za
-    quality: 54
-    images:
-      - url: "https://techcentral.co.za/wp-content/uploads/2022/06/nvidia-1500-800.jpg"
-        width: 1500
-        height: 800
-        isCached: true
   - title: "US extends AI chip export restrictions to Middle East nations"
     excerpt: "The Biden administration has restricted the sales of Nvidia’s A100 and H100 machine learning chips in some regions outside China, the company has revealed in a regulatory filing."
     publishedDateTime: 2023-08-31T11:47:00Z

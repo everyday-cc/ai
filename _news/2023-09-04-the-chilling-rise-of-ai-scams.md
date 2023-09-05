@@ -3,8 +3,8 @@ category: news
 title: "The chilling rise of AI scams"
 excerpt: "Criminals are cloning voices and making calls to trick victims into sending them money. How can they be stopped?"
 publishedDateTime: 2023-09-04T01:00:00Z
-originalUrl: "https://www.theguardian.com/news/audio/2023/sep/04/the-chilling-rise-of-ai-scams-podcast?ref=biztoc.com"
-webUrl: "https://www.theguardian.com/news/audio/2023/sep/04/the-chilling-rise-of-ai-scams-podcast?ref=biztoc.com"
+originalUrl: "https://www.theguardian.com/news/audio/2023/sep/04/the-chilling-rise-of-ai-scams-podcast?ref=upstract.com"
+webUrl: "https://www.theguardian.com/news/audio/2023/sep/04/the-chilling-rise-of-ai-scams-podcast?ref=upstract.com"
 type: article
 quality: 37
 heat: -1
@@ -105,6 +105,6 @@ related:
       domain: theprint.in
     quality: 19
 
-secured: "mcMWtCZf3Oa/a5MkkdWYNKfYDigYA8bUaPRaJ4RH5bjh4V6AAjMzn9DrVqdSDqio4vL8Hzf4oNw84z4jbAGuuKyEPYmljgpAWZ/GqfAU8CwNv/e6MJa9vLK+ax40Dr1ERYiXO2fEArPDnc7MTjtT+dEkZvdO5uuDhVHJYko2DMVBJ/53rKBr1aeAPLJ1lWSQgOS8ExaUwTy2Ol60qdLoAxwZyithYRi5XfuE2AZ1cl90GmjpMK7hHHNoiWK9nbwIQ5aD+NWX8Xt3m4Bh3XTawar82FuQQgn5zsa7TdoYPD01mHxF9Id3aUDIkFaMojA9f6DXNwbf2vzpD8tOTOeyFwrvvYJMybPv4Wc4NQfw6rqoXdelILoSAB9y63Lh7/W5jZ+4Gr6Kw6NsjeWTr8LBr5RRbrD4LnrcEn5N5oxygpPxXb/Thui96OwKZiHwFh2vicj7yHOP21WvdYkMPTN6rHOWKDvwo33oCecA0n2j+SeBlCJT0YsqjRY3uBFvXUYjR2U59E+qHFbHz3hypqctYg==;SjIoitYILLAqzaUxy6t50w=="
+secured: "IyP0Z3BdA+6wI0wA8qN8By+j6yRuMwaJHkn2U6OQTFL3Fyv+WG53DAjlexeOfFYAKFYXnOKIHdD7+wpxaaFTfNfx4H9JeLFOkCsDOhKTdmHJIi+65S5uvSQgpVDwtLLrJOm7OxaT/S4keNwHok0wGivDm5riuxxvqVy3wXiPr8uvaISHcWM8edk0JQh/YIysfFuhQnTdDCTiX3ng4rwpbiTMBvU5ThUjXdK2V3DJKmNNtoH8MVfRxDQL/VrJWbU/Owf+8mCJIi+wypQkqGvv64mvTASoZF8Ug24iIhbemGhnXD2kjXKIAkHD9oMqXaAo7VXr2cvhJtJJTR/5yMyzz2GZQBjfHqOn1WoBwPcPq0c=;pn/WlctMTBtxjw7/MYnenA=="
 ---
 
