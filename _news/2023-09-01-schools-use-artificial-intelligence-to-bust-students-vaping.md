@@ -34,20 +34,15 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "How big restaurant chains are using artificial intelligence"
-    excerpt: "Brands like Chipotle, Starbucks and Domino's are leaning on AI to do things like predict traffic, set prices and bake pizzas before they're"
-    publishedDateTime: 2023-08-31T21:46:00Z
-    webUrl: "https://www.restaurantbusinessonline.com/technology/how-big-restaurant-chains-are-using-artificial-intelligence"
+  - title: "The AI Investments to Avoid at All Costs, According to Art Hogan"
+    excerpt: "There’s a lot of excitement around artificial intelligence-focused stocks right now. However, market veteran Art Hogan urges caution when it comes to companies that are trying to take advantage of the hype but don’t have true ties to the industry."
+    publishedDateTime: 2023-09-02T20:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-09-02/the-ai-investments-to-avoid-at-all-costs-according-to-art-hogan"
     type: article
     provider:
-      name: Restaurant Business
-      domain: restaurantbusinessonline.com
-    quality: 54
-    images:
-      - url: "https://cdn.winsightmedia.com/platform/files/public/2023-08/background/chipotle-exterior.jpg?VersionId=7zzKY7gQ.d6YfFPHiWdyBgntDTUuFvo9"
-        width: 1800
-        height: 945
-        isCached: true
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
 
 secured: "O2Qh2iCYwB2wUNk6BidU9WHHaiajlA1qNSPzVQPEB6CNLfovxTyPows0QzKA5kT43Hm2VMt8UB92NwbRrKnVdtUEskdm26pNGvBC9DELgfD7Gf4DCiEkDF804/1Al2iJfQaj9RqUPOLl1PIF+S4F4vO9EIYymDYkej1dBmWtZtaJ2XC6JsoWdo5Wdk/0Vond+qdUh4idUtJmcdpXcr1CGHmch74hYXNh2zQ2mIKfs/SXwo5HaNt7bYkJpjyNImdZ8bXp3b727ItkHsjPD7u+jziNhkXss1dOpBv9/O69GumhXALcgJ87YED3pmBYNas8soHbStvLXQXk4tCjdaIi8No4AdbkEx5LeNW+9etv3tyf7K6vleyNK2XmkrLJX4xggLJpxruuGqbNAgk/v4JHfcxUtWXHW3A9aiUXePjo+elIEKNbkY9iv22PUkPfOuzqG4zGKRoXeoQMebaGTc6gSxTKaLkP21sqNzbDK9q2XoKIKjZqfhKecyxmKp+Nlf33gigDjtXHJCAGFd8Va8JG3Q==;Oujlj07wEeEtCr62dV8wOg=="
 ---

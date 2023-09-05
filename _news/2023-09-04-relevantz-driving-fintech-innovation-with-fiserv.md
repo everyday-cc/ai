@@ -89,20 +89,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "Top 5 Factors Transforming Fintech into a $700B Industry"
-    excerpt: "Technology has become an absolute necessity in the financial services industry in the 21st century. Integrating enterprising tech with crucial and sensitive financial processes and operations leads to better overall efficiency,"
-    publishedDateTime: 2023-09-01T10:57:00Z
-    webUrl: "https://techbullion.com/top-5-factors-transforming-fintech-into-a-700b-industry/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 24
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/09/new-blog-.jpg"
-        width: 780
-        height: 520
-        isCached: true
   - title: "You Don't Have to Pick a Winner in Fintech. Here's Why."
     excerpt: "Artificial intelligence (AI) is on every investor's mind these days ... As you can see, there are lots of ways to gain direct exposure to the fintech sector. Investors who prioritize safety and thus want less risky options can look at Visa and Mastercard."
     publishedDateTime: 2023-09-05T06:26:00Z

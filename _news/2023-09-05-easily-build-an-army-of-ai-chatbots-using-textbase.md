@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "5 types of chatbot and how to choose the right one for your business"
+    excerpt: "Chatbots are playing an increasingly prevalent role in our lives. Here are five types of chatbot and how to pick the best one for your business.\nThe post 5 types of chatbot and how to choose the right one for your business appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-09-05T12:00:00Z
+    webUrl: "https://www.ibm.com/blog/chatbot-types/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 82
   - title: "The Evolution of AI Chatbots: Past, Present and Future"
     excerpt: "Evolutionary path. Chatbots evolved from simple rule-based systems to AI-powered, voice-activated personal assistants and generative AI chatbots capable of full-fledged conversations."
     publishedDateTime: 2023-09-01T10:02:00Z
@@ -62,16 +71,7 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 17
-  - title: "Enhancing research with conversational chatbots"
-    excerpt: "In a recent presentation at White River Health in Batesville, Associate Professor of Computer and Data Science, Dr. Marcus Birkenkrahe, shed light on the transformative potential of artificial"
-    publishedDateTime: 2023-09-01T17:03:00Z
-    webUrl: "https://www.guardonline.com/news/enhancing-research-with-conversational-chatbots/article_6709d1ba-9530-5296-9460-7620427c3ea6.html"
-    type: article
-    provider:
-      name: GuardOnline.com
-      domain: guardonline.com
-    quality: 4
 
-secured: "v9VB0oNh9IhdDvju1t5pZAff5YHgVudKwjjKHSTvbv2gzfMHqgySEkKEXc8Sg8XOuYVkGABXg5AusjPEPNKZh3O80XTYO4dIHJzcCdLRF8v4pIRdKmLLxfDXPgS4RgWUmfgH8OkQHZC+hBc8RI7IFllPnhy40skm48JJKpbrKYWxe5uO8WmAq2rFCfXXqQnkjpRZG9ZL/JhlRQ2odkiRY4isRcSGLluJVuG8ygyHKa4fJm1/MsKJb3ftXNaJ1gydSz+momwJ65Jc9Ky5HzZXRH9keNO5grAcecI+ABeFpYCJA8RwCM4E3KwdzMVHfQmq5pv5TyX0NAB7+PLSTJUMpzxrd65v0VnRHwWV9qZV29U=;fCgAE02pPUa6tsjLj+rs8w=="
+secured: "+xEsgMxITP46Et549tyeJps6xxB5Uipt6VOb6pRT3MeCZsfx0aZF31d/pSyl/e+HCC86wg5f49SxxexS8PSApd6rrmv8XKYG/UMOUlqFqz9Uv1LE4K+Sh9d9Yu4GscTM1b5z2qPqlPGS7KJT2a6AIIwrW/HO83K5ZC7OPI047rx3k1IAYpYtmivTOZ85rFyV30LUUmeATx5/OifuIbD97hdAUlIAU3xzI4hTSKqx3WXEzB58RaR+m6JcjKHYJVQ3wTnuADhmjxJe33v2GNjOpzKYSTKcgd64cHyENFV28n3A2/4tQitk3cO9HRXW0xYfNCBjDL29eDpePub/mUrxpA3GBXZ1YV6Uj9KNG14qWD4xVbnQPM3aU5rKeSGbew9FXdFvmOeMCpLOohoYgM0uXk1/fVvj3MDJ/yD0cbIPXXCH+E63o8Qy+FBdtDLPwm4GHs7oCl4mFE0xD8y5pjz0kA5Zdgs2By4UR/Vm9QUEuqBmse8D7KxO7SsNLKUmU4N/ei71k4byOBZRYNKMnXatjg==;3ZxohFSdTBIlXczURdzG9A=="
 ---
 

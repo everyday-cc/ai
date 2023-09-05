@@ -7,7 +7,7 @@ originalUrl: "https://www.cmswire.com/digital-experience/the-evolution-of-ai-cha
 webUrl: "https://www.cmswire.com/digital-experience/the-evolution-of-ai-chatbots-past-present-and-future/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "5 types of chatbot and how to choose the right one for your business"
+    excerpt: "Chatbots are playing an increasingly prevalent role in our lives. Here are five types of chatbot and how to pick the best one for your business.\nThe post 5 types of chatbot and how to choose the right one for your business appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-09-05T12:00:00Z
+    webUrl: "https://www.ibm.com/blog/chatbot-types/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 82
   - title: "Easily build an army of AI chatbots using Textbase"
     excerpt: "The use of AI chatbots has has exploded this year with the release of ChatGPT 4, Google Bard, Claude, Stable Diffusion and more. They are now an integral"
     publishedDateTime: 2023-09-05T09:40:00Z
@@ -62,15 +71,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 17
-  - title: "Enhancing research with conversational chatbots"
-    excerpt: "In a recent presentation at White River Health in Batesville, Associate Professor of Computer and Data Science, Dr. Marcus Birkenkrahe, shed light on the transformative potential of artificial"
-    publishedDateTime: 2023-09-01T17:03:00Z
-    webUrl: "https://www.guardonline.com/news/enhancing-research-with-conversational-chatbots/article_6709d1ba-9530-5296-9460-7620427c3ea6.html"
-    type: article
-    provider:
-      name: GuardOnline.com
-      domain: guardonline.com
-    quality: 4
 
 secured: "AMi9dgns5kW/6mI0Ts4M7wg0Vl0OT8QuWwRV/8mxWipuykblGk1eNzLFxA+pv9d2ViQ/X/KXpsbYNfsJr4KEUyb5p64Pzcdl3HScjWnQrSwaw4Nsywwmqno70QhPEo+JCIjAIVpQhRiwXqk98x+fO91W9791cute0PP+He3+vA/z0ugA08ACFjC85tR9qDznfawVReOXtR74CDylX8uMZCFnufz3Y886Kd0mnIf7epjT7D8sFjOUPaVgS+OKQsg65kFpPL5wm2wbjT1m0nS0LV9DL8bLl7q69S9coSFfqucdLujpQo3BazW61KXJaM6Iw0S3w2sbeAOEMa83hZECXBhPxiXWqUXkfEu78XY1zkgbKjTOeeGidL6NFq+1MsQRi4y1BB3ASOAbAGS2iXVL+2pwdP5g7Nx2DjmSgiKeY1zpD/RZuaZ7iwhbaALjJd2k0+DvqoHrls4jyTsFD3KH5Z+q2Mav8lRMh3YIU6UHJzNeMy4lA0VmmaqZAVkz8O21wdiTdorUk9W7o77rEHjVQQ==;T6IGkFwpC/sCsPxxQNts+Q=="
 ---

@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "5 types of chatbot and how to choose the right one for your business"
+    excerpt: "Chatbots are playing an increasingly prevalent role in our lives. Here are five types of chatbot and how to pick the best one for your business.\nThe post 5 types of chatbot and how to choose the right one for your business appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-09-05T12:00:00Z
+    webUrl: "https://www.ibm.com/blog/chatbot-types/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 82
   - title: "The Evolution of AI Chatbots: Past, Present and Future"
     excerpt: "Evolutionary path. Chatbots evolved from simple rule-based systems to AI-powered, voice-activated personal assistants and generative AI chatbots capable of full-fledged conversations."
     publishedDateTime: 2023-09-01T10:02:00Z
@@ -61,15 +70,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Enhancing research with conversational chatbots"
-    excerpt: "In a recent presentation at White River Health in Batesville, Associate Professor of Computer and Data Science, Dr. Marcus Birkenkrahe, shed light on the transformative potential of artificial"
-    publishedDateTime: 2023-09-01T17:03:00Z
-    webUrl: "https://www.guardonline.com/news/enhancing-research-with-conversational-chatbots/article_6709d1ba-9530-5296-9460-7620427c3ea6.html"
-    type: article
-    provider:
-      name: GuardOnline.com
-      domain: guardonline.com
-    quality: 4
 
 secured: "Wx1iABPwpOeqE3nWwYwExVnqP55h6vCjXFXrSD/GEquX14X2HihZRVQQcvaarRa2NwdtMXwGtOJK4Ykk+GuqDLbobbGZ8GJPZ2IN8V1FzihS+SEPzXICZutkdKaIXhpDX0R+vkTaQW0TOQe9nv5hvS2ct3n9t4zriZfuzPKMVrr77hD6U1aDwZqNyNSpp2n0ORFTQ48jLFwRjQ6WRLHBc3hVc821jhVfLfnyQsQCavYHy2J0G5/0W0BDhgWb0kGiqc3Ovrme03RLF7Kdk6XLuQqonEwPj5jZKdG1NVOQhLHn+qYN0FwP9f/kSwUe3u9ZAGZxGLAXMMZXLuTubBNx+ruH8QMjfzcNJzS0m/7t7Dw=;UTpE/hUJ4iR+OGhkByppbw=="
 ---

@@ -124,6 +124,31 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Dell Becomes One Of The Early Generative AI Winners"
+    excerpt: "Dell Technologies Inc (NYSE: DELL) had its best stock market day since its 2018 return to the public market after it reported its fiscal second quarter results."
+    publishedDateTime: 2023-09-05T13:59:00Z
+    webUrl: "https://www.benzinga.com/23/09/34237167/dell-becomes-one-of-the-early-generative-ai-winners"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34237167"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34237167"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://cdn.benzinga.com/files/close-up-entrepreneur-going-through-business-reports-taking-notes-office.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Don’t rush ethics in generative AI adoption plans"
+    excerpt: "Even when leaders feel the pressure to adopt generative AI quickly, ethical frameworks and use case policies should guide their plans."
+    publishedDateTime: 2023-09-05T12:58:00Z
+    webUrl: "https://www.ciodive.com/news/generative-AI-ethics-policy/692590/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 34
   - title: "Acceptable-use policies for generative artificial intelligence"
     excerpt: "The program is possibly the most well-known example of generative AI, an artificial intelligence technology that identifies patterns in large quantities in training data and then generates original content – text,"
     publishedDateTime: 2023-09-01T10:00:00Z
@@ -134,6 +159,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "KmdD6bbpNbOhRtQCuxzX2GJGRsQNlmffTIUx8NY21smubd+4DNrU9e5ybSVkoW/f6GEcW+YbPmfbsqj7jDGmuhMHh+7S9pC48sP73RE6YtjXJFUSQWqoeorW+f3YcmIfKB5NQ9Zq1OL4FoQbjzuzKMNibtKAYRVkoAy9A9h9lTEvo2NN2hA3LKsUHHu/PDuuTtppiUBkIyzsJYlz3CgFQy9LbXFEMpBx2j+n+FcbEDw+GePS3FMmDKM5bT8ndVDQyuWtEm3/JuMxXxdXW4Wo6mvXr9OjkVytIJR1Cnkw1gQiqd6QXW4sKg8J2zKqviaUePgEe4wHF475UXJiiykz4DGnp/2ZYMpS79eFTirJIAU=;1qe2IB7L+J3c+0+TPPEwVA=="
+secured: "KdyimfDoeHNNt0gWhmZ7rjGiE1ihw4omy8+g2O+VURdh1Se/U4lbuuJjnh1XejZ6ELo1+xZlNkCFVgt9pqi1QDQJhDMlvUM082WZUCdh7+Kbbfy85X66WkOArSwMgzi7VIDz4ZvjP1yM0r5mjuix9V462hZduZaEP867v3bd/rdEPvQ5z/KNrgaTwoIjULRCSSY+lrK/cqtvUTRN/0wt67WiQQSTG6lJ5GdRUGNg5GClfyDmfrTqCKKNbXBFeKB1nR6EGJyn0PD5AG/brigrI8Alc0Ow/1kbDntxNjSj0QMWanNEjmkNJ6LjaZaQrSjJ8uwVwGYnC4RHCXjVSEoX9erfeHmyhHuKEiaQ7OwebPKO2BqLVeDxHjxgyUoZhry4K5VC/QQiJA3INvrrDwRayf3DfBDnwWKuDsC7SAzDDTCS28D1WxbpY/LDmCKFHcD99RyNzYYL7Wi3kTk4YPnjkAy+t9uc6QFr3KMViDlSK0CA7+Sr9kgVwR/UIZjYFmNakUJm+ljZwZgxsdOBSJojcA==;nHaBQmXtdc7T+UzY2kAecw=="
 ---
 

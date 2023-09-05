@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202309/india-embraces-facial-recog
 webUrl: "https://www.biometricupdate.com/202309/india-embraces-facial-recognition-for-smart-city-railways"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,38 +23,6 @@ images:
     width: 2048
     height: 1152
     isCached: true
-
-related:
-  - title: "Amazon inks logistics deal with India’s post and railway services, announces generative AI for SMBs"
-    excerpt: "Amazon's march to the Indian market is taking to the rails and the mail. The e-commerce giant today announced new deals with India Post and Indian Amazon has announced its partnerships with India’s state-backed postal system India Post to enable cross-border logistic shipments for businesses in the South Asian market and with railway body Indian Railways to expand logistic shipments domestically."
-    publishedDateTime: 2023-08-31T20:41:00Z
-    webUrl: "https://techcrunch.com/2023/08/31/amazon-india-post-railways-generative-ai/"
-    ampWebUrl: "https://techcrunch.com/2023/08/31/amazon-india-post-railways-generative-ai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/31/amazon-india-post-railways-generative-ai/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 73
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/08/Amazon-smbhav-india.jpg?w=1200"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "How SMBs Can Cut Through the Generative AI Hype"
-    excerpt: "AWS Head of Innovation for SMBs Ben Schreiner reminds business leaders to focus on data and problem-solving when making decisions around generative AI. We may be compensated by vendors who appear on this page through methods such as affiliate links or ..."
-    publishedDateTime: 2023-09-01T09:29:00Z
-    webUrl: "https://www.techrepublic.com/article/aws-generative-ai-interview/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr83123-smb-ai.jpeg"
-        width: 1400
-        height: 933
-        isCached: true
 
 secured: "T53GmKeu+Tz+msDqA3ObI0IYVzJuYq3B0vigXGG4d/Pcr2rR2P8nvQCnV097lTSHkuYA6VpU7HGt99jWxHdX4D9EigcZsa4cXvXiOXxNVZNVcRWEzCUeaG8G13GWQV4tNpBGPPXlI6muuNJygfqvLbLcRhEwtN1/pn+Pl58IcSy5APe2lW/sLBglBNE1hfscnHy5zMHj6ImhAv3Fhqxgc4BuKtzpxGQr0l/JJfLd1er5qZfsDccc8nK99iL28meJtzXJvbZg9sFt76f0M4t1bz43BmY7JvSfsC920rEEkSzcpQ33JzYUjSbq4/0K1AyMoS0+fpDNHVCGdvJjq+KVm9bC9LS7vC1vlcAE7wvuJZCra30LnN0QHI3LmrLP+HrfypWbKP5UQ5E0nfutLxJSMgs/1DBgXSAU1+7Bwu1a8bKxCh01Z1BhGnkzY/q33TCH4ufg1gL8sreRHgW0RToLn+7P8Wrvqtm1yJkqUq67Of8o6aIZZv2pFbI+LAo/O6GkScJsDJx4rWUmXUZ+yZHgYA==;9jr3irXY+lkmcsEhhqoPlA=="
 ---

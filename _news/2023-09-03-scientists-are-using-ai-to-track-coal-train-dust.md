@@ -27,20 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "How big restaurant chains are using artificial intelligence"
-    excerpt: "Brands like Chipotle, Starbucks and Domino's are leaning on AI to do things like predict traffic, set prices and bake pizzas before they're"
-    publishedDateTime: 2023-08-31T21:46:00Z
-    webUrl: "https://www.restaurantbusinessonline.com/technology/how-big-restaurant-chains-are-using-artificial-intelligence"
+  - title: "The AI Investments to Avoid at All Costs, According to Art Hogan"
+    excerpt: "There’s a lot of excitement around artificial intelligence-focused stocks right now. However, market veteran Art Hogan urges caution when it comes to companies that are trying to take advantage of the hype but don’t have true ties to the industry."
+    publishedDateTime: 2023-09-02T20:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-09-02/the-ai-investments-to-avoid-at-all-costs-according-to-art-hogan"
     type: article
     provider:
-      name: Restaurant Business
-      domain: restaurantbusinessonline.com
-    quality: 54
-    images:
-      - url: "https://cdn.winsightmedia.com/platform/files/public/2023-08/background/chipotle-exterior.jpg?VersionId=7zzKY7gQ.d6YfFPHiWdyBgntDTUuFvo9"
-        width: 1800
-        height: 945
-        isCached: true
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "Schools use artificial intelligence to bust students vaping"
     excerpt: "Artificial intelligence is being ­deployed to dob in students for vaping or bullying in school toilets, as children end up in hospital with nicotine and heavy metal ­poisoning."
     publishedDateTime: 2023-09-01T09:10:00Z

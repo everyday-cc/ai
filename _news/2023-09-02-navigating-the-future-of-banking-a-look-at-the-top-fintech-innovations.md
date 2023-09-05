@@ -75,20 +75,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "Top 5 Factors Transforming Fintech into a $700B Industry"
-    excerpt: "Technology has become an absolute necessity in the financial services industry in the 21st century. Integrating enterprising tech with crucial and sensitive financial processes and operations leads to better overall efficiency,"
-    publishedDateTime: 2023-09-01T10:57:00Z
-    webUrl: "https://techbullion.com/top-5-factors-transforming-fintech-into-a-700b-industry/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 24
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/09/new-blog-.jpg"
-        width: 780
-        height: 520
-        isCached: true
   - title: "Relevantz: Driving fintech innovation with Fiserv"
     excerpt: "Senior Director of Client Success at Relevantz, Georgie John, traces his time at the service provider and the importance of its partnership with Fiserv"
     publishedDateTime: 2023-09-04T14:31:00Z

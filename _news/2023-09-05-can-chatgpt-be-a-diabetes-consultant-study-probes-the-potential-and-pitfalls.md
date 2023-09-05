@@ -7,7 +7,7 @@ originalUrl: "https://www.news-medical.net/news/20230905/Can-ChatGPT-be-a-diabet
 webUrl: "https://www.news-medical.net/news/20230905/Can-ChatGPT-be-a-diabetes-consultant-Study-probes-the-potential-and-pitfalls.aspx"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 2000
     height: 1333
     isCached: true
+
+related:
+  - title: "AI in education: How Colorado universities, colleges will handle ChatGPT this fall"
+    excerpt: "The challenge: AI technology is constantly evolving and its uses vary by ... Our two final spring blocks were new courses that had syllabi and course exercises intentionally designed to start when ChatGPT’s use was spreading,” Emily Chan, dean of ..."
+    publishedDateTime: 2023-09-05T13:47:00Z
+    webUrl: "https://www.bizjournals.com/denver/news/2023/09/05/ai-education-colorado-universities.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 28
 
 secured: "4MdtoaaHt0kq/MAgQc3MT4ukVyYuOm3KsVPi6wGsLpdYgOyspLaD3yB5l1Kp+CFRGUCmBofLOdjUVhb2MmupW6oKY6U5cVT7sVYyDYHpeTcxLKhqWfWRRdpemz5bJfvY3BEi2dI3kIOsJh6EHz8dZqCGnRpcE3NjVXI06+1R7O/CcZzqsWo2N7WcAKq9IQ26QcjwisQnpkCmpcpoF3SzBXYtqM5qmkMoGIAtJNVHPAXohxnCkdKG2JatXeFo9Lp9YyIpRQCWJKje3bQyXqzkpa8cGsUmVDr0uVHkx1e0Cu/8HlVbPp4KP4tvQvsf9yePZkTvh+pcxX0nzEckjnZku75skIkz6/bMGJlyUsbNY0GkhwsNiiDvvIneEnzWio09G9+8AiOiSRjhSsoeJHkIUfzWan0Du72nIkFXoz2iw5Xd0F0ewgD3C12iCqBlNMV7OZtqacfp6GIQKERn/yDQcTadW22PV3HDP04osppGiYzTRdXn/k+5GWjOTqmE9wFoTwtwQh2Bg0xzwxY295DT7w==;dpEPm05rdCzei0ecz6Qybw=="
 ---

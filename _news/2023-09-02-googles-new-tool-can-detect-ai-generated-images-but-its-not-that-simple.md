@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/googles-new-tool-can-detect
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-new-tool-can-detect-ai-generated-images-but-its-not-that-simple/"
 type: article
 quality: 85
-heat: 115
+heat: 95
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Launches Tool That Detects AI Images In Effort To Curb Deepfakes"
-    excerpt: "In response to the increasing use of AI images, Google Deep Mind announced a beta version of SynthID. The tool will watermark and identify AI-Generated images. I"
-    publishedDateTime: 2023-08-31T19:22:00Z
-    webUrl: "https://www.forbes.com/sites/jenniferhicks/2023/08/31/google-launches-tool-that-detects-ai-images-in-effort-to-curb-deepfakes/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "New Meta, Google tools detect AI-generated images"
     excerpt: "The tech giants release tools to identify synthetic images and combat AI-related discrimination for more responsible use."
     publishedDateTime: 2023-09-01T13:11:00Z
@@ -47,15 +38,6 @@ related:
     provider:
       name: ITWeb
       domain: itweb.co.za
-    quality: 19
-  - title: "OpenAI Rages at Report That Google's New AI Crushes GPT-4"
-    excerpt: "OpenAI CEO Sam Altman was clearly annoyed by a blog post declaring that Google's forthcoming Gemini model will quickly surpass GPT-4."
-    publishedDateTime: 2023-08-31T19:54:00Z
-    webUrl: "https://futurism.com/the-byte/openai-report-google-ai-gpt-4"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
     quality: 19
 
 secured: "dWS67hQ/6XgaTnd2DWv3bhnFHGDHc6LWMPUskKBgyf3jJprrZCmi2RNzvoyK25b3EDGWyQW9fnwnizEheSkCv+/iqMDLmylQphg6Khb9vEVfYfNulBI/gC5kzRd6AUerKFvY7UV/Xs+UWIfwXT3e6cveXo7Fu1zoQMXiR/Y46gabGoGu6K2NIDJrECL7e0M8aqLC8jeMR1jVag6/xynhMwXxX0zf0DhxtbZUdgJ94fCqVCDAIAebSDa5REHriXyHvt8Hg2RWcuh3vZHwm8WzLRXdNAV0g1uKT4m0w8u+4u7NJhFiGv9OVn37D1MeEiDCN56ROV0gtiLxAiLXNy+S5dWM1SOu+BmHSIjLGWnrjyJHrwCWdEOepSR/2NnlTAWPuN4zD7+mheVOwY4i0yvknxzqwkUUmirf2F+GRDOgShxOprIQxAf+sY/2twN9wGSksdpGjuYDgRxNuzRpmaMQheRRm2NmC5w4JhwhUUUgicUQEbYJ8U2KKrTbTNYEYBEhc+h4gQuCzlemW8f8/6LJcA==;Dk/1vhLB3RpEAkRNn57kxg=="

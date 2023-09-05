@@ -7,7 +7,7 @@ originalUrl: "https://www.thebusinessdesk.com/yorkshire/news/2113348-code-of-eth
 webUrl: "https://www.thebusinessdesk.com/yorkshire/news/2113348-code-of-ethics-how-to-ensure-ai-shares-human-values/"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     height: 520
     isCached: true
 
-related:
-  - title: "AI Ethics Issues Will Not Go Away"
-    excerpt: "Executives are right to be concerned about the accuracy of the AI models they put into production and tamping down on hallucinating ML models. But they"
-    publishedDateTime: 2023-08-31T22:36:00Z
-    webUrl: "https://www.datanami.com/2023/08/31/ai-ethics-issues-will-not-go-away/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 54
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/08/AI_ethics_shutterstock_3rdtimeluckystudio.jpg"
-        width: 1000
-        height: 422
-        isCached: true
-
-secured: "0+Q/khZwshdCEqrBCuK/e3Bwx+BRoufV57MfT2sd81m1fEbIxOpVugIEdbNcKQSCp8cHTmJcnL3Tb/i+J2U1ee/ZBYLyfGaT0cbPEM+5OclO5e5ynsapfMOr5+6RI9/eT50Wvs4FrSULPldy48DMu+6ztjIgK6O0M8LPMYsVMnwQSQjaTi0eIxwrDJAQC09jX2T3fPbt/7g500QR3iPrfpzaQzzLbNkHKSpAXxGEco401UtVXAovRH6goqWdDbbUkYmudpizOZgBW9UfMS67VC91wNugWIJ+YnjaL56/rPcbSgkkwgdnFJGrsOx8aKYtFmHY1DNB+dHC+hbLSdGlO0GShJyANyUF3l3rdINr5Ag=;pc86qn7XRkvPbIEtV3VuAQ=="
+secured: "56zRZt5u9v75Y2Q1VLt8K4/zH8VjNzMLVj4s/mWQfSVPuynZ6ksHcwyhDPUlS7xNQR6yz6BAKmR4l3zwSRROjYUDThJFB1X/BxqOzkyUmqeI794Pugmddqn2IXfd4JSji1woezD9u2GLRehO+QW3ikDTOJNKJkFGGWYCSK2JXzMsZMUZejjS4nqG0/Zn7hIAPyhA3J4VW+uZwFenfRabXXiv3qBy1U5hQysGSgphZ2a+vt+TqEScM5G+bUEBM/TXOvCxg0NCnyWmIXoc1DF46er08OGi/mH77DRx2+EJFBZRtmSwelmLUFp+Pwn8aaiQq+k2qZ/zy1TM/GMxOUGG0/mCOxhaFGMbHIfW+wevIzPhR+bgOGoKVQGgAqWivkVqo4UIP3VHYI8aeIEx5w2VY7PdyxL72rsj72kyaVMtsH8cT84CBu1oRi1PIa+BLRL6cNDSd2y8fvO28TQPZpuzLt7AtmtStCz5tArkyvUonaPbvBZ7hL8qN9ydfs3ALSFWmbYJdpJhalrOKmGtS2ZPNw==;KnrKcpw3up/EsQpXPOLnIw=="
 ---
 

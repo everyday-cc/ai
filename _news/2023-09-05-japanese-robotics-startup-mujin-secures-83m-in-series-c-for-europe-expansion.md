@@ -7,7 +7,7 @@ originalUrl: "https://thebridge.jp/en/2023/09/mujin-series-c-round-funding"
 webUrl: "https://thebridge.jp/en/2023/09/mujin-series-c-round-funding"
 type: article
 quality: 51
-heat: 51
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     height: 780
     isCached: true
 
-secured: "6FPOMaQZQCszQXtTEjFmGwXp34Z8rjinFhVhfix4ABIEc4es9KfLIPYTY7vvq/DPtPqGePkZqorrALv+pnmYu2to9n6XO2XpkMs8/wPVimZvLLKlT4wHad7Qqy+oBr6oLfSwfZzV/NcWUmTQlJsUwQuNPx0djhEIJhECBRXK2Z5Tj2rZ4IVEbPkWQEGEEbNoBJ//ydSM0NzFVaoF5qLp6r+iEQAVAhMEBu3B86KRR33Wg3WzQ0k6E17GURKdWMuL8PeQl3YquFxkfUAWgKr1eSc4HsTJWP2qgFrg/VCem2EadapMj2E9VqJkrRDuMr5MqbQeXNc/o1t+UJ3ySKgRiZ4U8bna1xznOL1adU+9Xng=;AYTOlhmxocbfQXtLSiIMzw=="
+related:
+  - title: "Robot software firm Mujin raises $85M"
+    excerpt: "An increasing number of companies are looking to automate as a shortage of skilled workers is expected to take a toll on manufacturers through 2030.  Mujin, a Japan-based robotics platform developing company,"
+    publishedDateTime: 2023-09-05T15:00:00Z
+    webUrl: "https://techcrunch.com/2023/09/05/robot-software-firm-mujin-raises-85m/"
+    ampWebUrl: "https://techcrunch.com/2023/09/05/robot-software-firm-mujin-raises-85m/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/05/robot-software-firm-mujin-raises-85m/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/09/Mujin-Robot-Spotlight-In-Dark.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
+
+secured: "I5Bo95Tq4adRrGpfnvBVMaZO/kQ7sqBxRzxgRSuJWYeaJD89m2XRl9or/X2ndxklVE8fiDAZkGhiLSO3fVai3uqaAxwnTbzDRGOfmNjdaf1H43IGJ1lpczMJwpf00WrpUV4YRSjvLfMF885HnXK0v8DpOFt33fyIwn15R39rD3yB2hhykwfRWezvqw/BXtL8KRxQDZRQ5M9roEo0yWQEHLyJhwG9kd3sA+xAU8CNfDUsQ4XgJgqiJpCfb2KxDSWebmZsQYJdpWE8lvvAknaU7y2iVBUmAU9HhZnn0JIEWOyFn4RgXmRFp9y13e+3sf0sSa7YZC6NmnRzpWxwcLZEnV0Q1ROytpkJ1np6n1CSTXzHw6fjKgyr4R2S/WBgWFqxlMmIAst+sTi+MlkRJ1AA1oIPTDWDKwj/9uh5N0m0nw8c+ILR3PeGFiOxQMmMmUryTCbvLVoCWvoGAhCais1OOjnXAfAwi5HpJpAp+oC6qboxej9uQaqBE0pExFEfd+h3oEWuW37SQVP0LJDFM7zF1w==;qe3Cyp6qV403gE9gvD6GSg=="
 ---
 

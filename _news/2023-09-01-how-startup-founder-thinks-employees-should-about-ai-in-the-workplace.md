@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/sanjose/news/2023/09/01/ai-workplace-m
 webUrl: "https://www.bizjournals.com/sanjose/news/2023/09/01/ai-workplace-magnimind-murat-baday.html"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,38 @@ provider:
 topics:
   - AI
   - AI in Robotics
+
+related:
+  - title: "Three Things That Services Businesses Should Know About AI Right Now"
+    excerpt: "No matter where your services business is in its digital transformation journey, you should take an active role in collaborating on AI readiness."
+    publishedDateTime: 2023-09-05T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/05/three-things-that-services-businesses-should-know-about-ai-right-now/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/05/three-things-that-services-businesses-should-know-about-ai-right-now/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/05/three-things-that-services-businesses-should-know-about-ai-right-now/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64ee017ce0404c2794d8ae21/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 855
+        isCached: true
+  - title: "3 things businesses need to know as NYC begins enforcing its AI hiring law"
+    excerpt: "New York's new AI regulations for hiring have many companies jittery. Here's how to get a handle on complying now and in the future."
+    publishedDateTime: 2023-09-04T00:10:00Z
+    webUrl: "https://venturebeat.com/ai/3-things-businesses-need-to-know-as-nyc-begins-enforcing-its-ai-hiring-law/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 65
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/annevb_technology_artificial_intelligence_and_law._colorful_fu_ce8f16b1-af12-449c-8d7a-af72cd4c62c5-1.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "dAH2BRT+wd+2iZUHaA/G8DO6nyJ/6E8BGpkaZxizrhMoWchWN2JhkUy82XkIn5iVtU3KA9Ag+ox8YzjOi8fW4yv9gYOVcnnTTmXnjOT95PQbdRj71bZVLGkHaC/uJNUzRrPko+bsY9KeZemiF7aqqFz/X38XA/4rkp/2OGcWq5c4LMs3AwZrWlVe1N0n8p/Es3qrn7rVcnsDoW8DGEXalvujixXR6kdlzxoId1siNGc1185GyyTMxJiKiTKLOmUJsxL8HVDqNkLHBjEgGTOynd0APr76XSJcmTaY3XnEsnOm0MSBO716ZdkDHcVCZSZd1lssom/olfkGrJoyib45+qUMW8s8ru+0wTzicXbb3oASgWScmI0pXcN3xrcb066AcXf5TpFKq2p7FqjW+N349Ubgd4JsY6sZTepVmVY4J42/WNIRhOwTWzpkimoAq7GPucJr6AcT+pT4bpKUGE1AFeCEPX2lLOb5Y4z5tReymtgwNQHLj8zzWVGQv+LmIsyig9efstft9/4BCbeSGxgLiA==;hBb2g26SogNimzSaOHvQDQ=="
 ---

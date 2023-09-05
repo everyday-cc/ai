@@ -1,12 +1,12 @@
 ---
 category: news
 title: "iTechGenic teams up with Microsoft Azure, G7 CR for AI-enhanced Engineering management"
-excerpt: "iTechGenic, an AI-powered engineering intelligence platform, has entered into a collaboration with Microsoft Azure and G7 CR Technologies – a subsidiary of Noventiq Company, as part of their STAB programme for Independent Software Vendors (ISVs)."
-publishedDateTime: 2023-09-05T06:39:00Z
-originalUrl: "https://www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-managementspan-stylefont-size-14pt-font-family-calibri-sans-serif-background-color-transparent-font-weight-700-font-variant-n/3233431/"
-webUrl: "https://www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-managementspan-stylefont-size-14pt-font-family-calibri-sans-serif-background-color-transparent-font-weight-700-font-variant-n/3233431/"
-ampWebUrl: "https://www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management%ef%bf%bc/3233431/lite/"
-cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management%ef%bf%bc/3233431/lite/"
+excerpt: "The primary objective of this partnership is to empower engineering teams with a 360-degree perspective by harnessing insights from various DevOps tools."
+publishedDateTime: 2023-09-05T06:37:00Z
+originalUrl: "https://www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management/3233431/"
+webUrl: "https://www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management/3233431/"
+ampWebUrl: "https://www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management/3233431/lite/"
+cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management/3233431/lite/"
 type: article
 quality: 81
 heat: -1
@@ -56,6 +56,22 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/04m1q6ExleLlFkZ9ZkSKumS-1.fit_lim.size_1200x630.v1693581639.jpg"
         width: 1120
         height: 630
+        isCached: true
+  - title: "Tech And Cannabis Companies Are Worth Watching Amidst AI Boom - Forbes AI Newsletter September 2nd"
+    excerpt: "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend."
+    publishedDateTime: 2023-09-05T14:36:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2023/09/05/tech-and-cannabis-companies-are-worth-watching-amidst-ai-boomforbes-ai-newsletter-september-2nd/"
+    ampWebUrl: "https://www.forbes.com/sites/qai/2023/09/05/tech-and-cannabis-companies-are-worth-watching-amidst-ai-boomforbes-ai-newsletter-september-2nd/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/09/05/tech-and-cannabis-companies-are-worth-watching-amidst-ai-boomforbes-ai-newsletter-september-2nd/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 73
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64f73cca5d77775f8cb01580/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 801
         isCached: true
   - title: "eWEEK TweetChat, September 12: AI in the Enterprise"
     excerpt: "Industry thought leaders participate in a wide ranging conversation – via Twitter – about how the enterprise is grappling with the rise of AI."
@@ -110,6 +126,17 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Microsoft expands UAE's G42 partnership to include cloud, AI tools"
+    excerpt: "\"With data privacy, security, and compliance as our core priorities, we have a unique opportunity to help organizations responsibly innovate,\" Microsoft Chief Commercial Officer Judson Althoff said"
+    publishedDateTime: 2023-09-05T14:10:00Z
+    webUrl: "https://www.business-standard.com/world-news/microsoft-expands-uae-s-g42-partnership-to-include-cloud-ai-tools-123090501146_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/world-news/microsoft-expands-uae-s-g42-partnership-to-include-cloud-ai-tools-123090501146_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/world-news/microsoft-expands-uae-s-g42-partnership-to-include-cloud-ai-tools-123090501146_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 54
   - title: "September Rally? 3 AI Stocks to Buy Before Liftoff"
     excerpt: "Executives at AMD have said that the new microchip, which they plan to begin shipping by year-end, is a direct challenge to Nvidia’s current dominance with AI chips. The biggest foray yet into AI for AMD, the MI300X chip was designed for large language ..."
     publishedDateTime: 2023-09-04T22:45:00Z
@@ -161,6 +188,6 @@ related:
       domain: pcgamer.com
     quality: 4
 
-secured: "dDwdBo92Kn50yKpUmzlSY66NkD2JXBxGEjiBoyYeFUzst+sk/LYLDPKAfsbrfhtd1flCV3oeiNh4H5E99dkpfOgOUjOQL1hOGAzc5C3jtYPuMTPNxkZkSiPDwh2z4GWDQpe+9ZPy/RnXX/5cqGkN/wfY81qx3K4tjpF0J/EiVQOiRojiBPmKOeh7NYZHdZmaXIs3r2tVcSDbDfmlMi1wfjW8o6WRbuXmE8KZMIg1ZiK5ASWEjFVRx/KyF6ElXFmHNcIAq3Ug0Pur+4mJf1ZqGCUh84nwhpzgXGVWPMv0Scq9jACE0RyASzH/MLpRlhRUU5mVIG4yCN0NdtLLRWnl8bxBnSLOCuCZsVtyM/YLuBU=;FKlXLVPpoxG35d563s8Bcw=="
+secured: "u9IVXnN/F105rmtEld4tjuMCo7RZ29yTZA/B/Jcpflc8a/OeR8zbKFoLHjHE/lnEThcO2OPyp4XhncClovyaYzjFzr0q3iFGaVENFb1lIOJdDcCsg0qH4gCsgQF2NQ2TEyLt4/W91tzsLDgHPugBc9lbgiYb0eJU85ux0DIYP4itU7L/yhPTiqu/zO1ViGFubLu/r/eec5RpzWzgugimC6R4YgecygBvjGbkXuyNXem8J7WomyGNIJVDxyX9RVxJispjahZPyNbU45brNMvTfor15NKlr/NXdGEu2QUgubsKsmkj20hXDit65n5BV27IkfaQENpDv0HELXg1MHd+Ic3EqGuNeziouCW99Jw5Xs8=;bv/789KTBPtYRcKR+FUOlw=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://www.techrepublic.com/article/aws-generative-ai-interview/"
 webUrl: "https://www.techrepublic.com/article/aws-generative-ai-interview/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: TechRepublic
@@ -28,35 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon inks logistics deal with India’s post and railway services, announces generative AI for SMBs"
-    excerpt: "Amazon's march to the Indian market is taking to the rails and the mail. The e-commerce giant today announced new deals with India Post and Indian Amazon has announced its partnerships with India’s state-backed postal system India Post to enable cross-border logistic shipments for businesses in the South Asian market and with railway body Indian Railways to expand logistic shipments domestically."
-    publishedDateTime: 2023-08-31T20:41:00Z
-    webUrl: "https://techcrunch.com/2023/08/31/amazon-india-post-railways-generative-ai/"
-    ampWebUrl: "https://techcrunch.com/2023/08/31/amazon-india-post-railways-generative-ai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/31/amazon-india-post-railways-generative-ai/amp/"
+  - title: "How businesses can achieve greener generative AI with more sustainable inference"
+    excerpt: "Why a server-on-a-chip operating on far less power and GPUs can create cost-conscious, environmentally-sound, democratized generative AI."
+    publishedDateTime: 2023-09-03T15:20:00Z
+    webUrl: "https://venturebeat.com/ai/how-businesses-can-achieve-greener-generative-ai-with-more-sustainable-inference/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 73
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 66
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/08/Amazon-smbhav-india.jpg?w=1200"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/annevb_a_computer_with_green_plants_growing_out_of_it_or_aroun_34756494-fc43-4af9-aa33-3ded589fabc9.png?w=1200&strip=all"
         width: 1200
-        height: 900
-        isCached: true
-  - title: "India embraces facial recognition for smart city, railways"
-    excerpt: "NEC Corporation India has launched the latest smart city project in Tirupati, India, on behalf of Tirupati Smart City Corporation Limited."
-    publishedDateTime: 2023-09-01T21:09:00Z
-    webUrl: "https://www.biometricupdate.com/202309/india-embraces-facial-recognition-for-smart-city-railways"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 54
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-scaled.jpg"
-        width: 2048
-        height: 1152
+        height: 600
         isCached: true
 
 secured: "4JMLFh3P9hWxt6ZWRIGWj5qzFK6pSeTk7e7YryhPFMAh3c3a4ncfWAK1Xtcv0guem8eTS/iWiPPBTio9L59J63umdgeX7XOAM03I/7a1UerZnbkxQsPF18Aaz9TAx8oHH2sXSuZ/NV5czK0HGgMQTeLreAy5NDxz83G06e+hLRcSuF/UvKQji05lYYw0apTP5+grS30V+DHyXKEGhcS9Mht0QgtUTZOAopk/1RewBZiikaPQxoNQgfXSCNIaOATOkv6SLJq1P/X7uIgAQrnCsXwTsNKXYvd6aQKeuaCIUfZfiWYQiPVlB5BZS2JhC9k0jHgY0IXBDmXOF7pJ3FZPLemx6IClxIKfMLSM5j5JJHqMWGFZ9AXCEAtmhSWlKXrp9mQu1ZU34Fy9pRzqIgeq2bMYTHE3phtNLoVBLfSpaYmiI4di+1Up1H/Cgag3XKv3qH7hEMoUg3mBTrvKOUB0wGZ4mfVydZv7aX4gy+WtBNDEejR2QZHTNMOAmRVR7k8pJjzMJdTi7FYu3MSCN/CqYw==;qlH8ElgO66sXy3BimC3IhQ=="

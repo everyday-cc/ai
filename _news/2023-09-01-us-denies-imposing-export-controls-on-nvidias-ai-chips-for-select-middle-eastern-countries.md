@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2023/09/01/us-denies-imposing-export-co
 webUrl: "https://www.gizmochina.com/2023/09/01/us-denies-imposing-export-controls-on-nvidias-ai-chips-for-select-middle-eastern-countries/"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -73,6 +73,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Qualcomm focuses on AI and auto as Nvidia takes over as world’s biggest fabless chip company"
+    excerpt: "Qualcomm pioneered cellular technology, with chips in nearly every smartphone today. Now it's shifting focus to autos and AI as Apple works on its own modems."
+    publishedDateTime: 2023-09-05T11:00:00Z
+    webUrl: "https://www.cnbc.com/2023/09/05/qualcomm-focuses-on-auto-and-ai-as-apple-business-faces-uncertainty.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 53
   - title: "US regulators deny blocking AI chip exports to Middle East"
     excerpt: "Nvidia’s quarterly report stated it received requirements from U.S. regulators about needing to obtain a license prior to selling its flagship chips to “some Middle Eastern countries.”"
     publishedDateTime: 2023-09-01T12:40:00Z

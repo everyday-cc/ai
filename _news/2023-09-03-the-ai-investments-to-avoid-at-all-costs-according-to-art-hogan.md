@@ -22,22 +22,31 @@ topics:
   - AI
 
 related:
-  - title: "AI Start-Up Investments Bucking Venture Capital Decline Trends"
-    excerpt: "This article briefly discusses the rate of growth of the AI Startup market in the USA, with recent stats from Crunchbase."
-    publishedDateTime: 2023-08-31T21:50:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2023/08/31/ai-start-up-investments-bucking-venture-capital-decline-trends/"
-    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/08/31/ai-start-up-investments-bucking-venture-capital-decline-trends/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/08/31/ai-start-up-investments-bucking-venture-capital-decline-trends/amp/"
+  - title: "Scientists are using AI to track coal train dust"
+    excerpt: "Across the United States, around 70 percent of coal travels by rail, transiting from dozens of mines to power plants and shipping terminals. Last year, the U.S.—which holds the world’s largest supplies of coal—used about 513 million tons of coal and exported about another 85 million tons to countries including India and the Netherlands."
+    publishedDateTime: 2023-09-02T23:00:00Z
+    webUrl: "https://www.popsci.com/environment/coal-train-dust-ai/"
+    ampWebUrl: "https://www.popsci.com/environment/coal-train-dust-ai/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/environment/coal-train-dust-ai/?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Popular Science
+      domain: popsci.com
+    quality: 59
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64f10ab4e75967af225d6d54/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 775
+      - url: "https://www.popsci.com/uploads/2023/09/01/Depositphotos_81499646_L-1.jpg?auto=webp"
+        width: 2000
+        height: 1125
         isCached: true
+  - title: "Schools use artificial intelligence to bust students vaping"
+    excerpt: "Artificial intelligence is being ­deployed to dob in students for vaping or bullying in school toilets, as children end up in hospital with nicotine and heavy metal ­poisoning."
+    publishedDateTime: 2023-09-01T09:10:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/schools-use-artificial-intelligence-to-bust-students-vaping/news-story/a5ecef0d7600103496e09276a30a25d7"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 17
 
 secured: "rI9qPFv7YeGjFpo7j9XvxK2NKytJU9goJZfwWrpcCwWpt6Zp1oa6y0VUoQDeAd23QIn1Z9tK1EJ7NSW9avFSHYbWQuHk9TCs4A/7Y/x4DH2y08qcUKJ/B8jS8bNc7k+ZEkzNsKJL2rZ3EB9Qfa6qNVFb6Ym5KxFjq2ZgVS2CJqnVfUUaJ9tD2FFd7JvwqmbR637Jp17zWRFNLMxXAIyyGcXJv8dzrF2xXKpuCmEkulGxAmpZ4wTBbDlMk4ENd3pxxCNhX8NnYtHpeDm9iKIM3330i13O0TCxzEusiL9uYVpVCe+yCYlldVnmycwj8tHTZxNIqjHy3zJP1VJUwDboJpgBp4D0bG6vdYWzhX5pBKw=;ArU12CVt7RaMXw9LVMgi4w=="
 ---

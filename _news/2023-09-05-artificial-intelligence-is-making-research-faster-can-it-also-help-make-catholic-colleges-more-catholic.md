@@ -8,8 +8,8 @@ webUrl: "https://www.ncregister.com/news/ai-educational-revolution"
 ampWebUrl: "https://www.ncregister.com/news/ai-educational-revolution?amp"
 cdnAmpWebUrl: "https://www-ncregister-com.cdn.ampproject.org/c/s/www.ncregister.com/news/ai-educational-revolution?amp"
 type: article
-quality: 40
-heat: 40
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -18,6 +18,8 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
+  - AI Ethics
 
 images:
   - url: "https://publisher-ncreg.s3.us-east-2.amazonaws.com/pb-ncregister/swp/hv9hms/media/20230901110956_004e28436f115af8b92dad20ac38dbf45c08920aa4fb688d7914e063f0a40e60.jpg"
@@ -25,6 +27,6 @@ images:
     height: 507
     isCached: true
 
-secured: "MeUAVtiQ74qj0l5FIvEOeEUOev6QPwMNHlxFbVJYBXyAUvTLrkf4Y3ONtZZzH9exIlOzWZIK7JSvhHqe2CFMUhfuCHLw8DO32WvwyWK8iyPK9l+TLwaS44tEtxX/I7MF6jWvFLTCoBP+dwfP94gIDBi2oqz+5qKrWGsFclgTEeNXbwIvsKiGP0kRH/ekJuXuLrVKFi+2/xWitfXyf0GxXgsv6M8RF9q5zAVRkgU5Z9ig5PKhQf7KMNRaye0tKeOWTNMatMDJjwFYNxJ0uXg3oGRFOp1IF+eSI/BV7pbDXYHwUs1u3ghO7AmU3nzYZm1PWro/c8wG8GBWAZZ+Ks3NhbNyTR7dqS2nySyH2e/5GKA=;Esz4cfB0LVSJQ2p93/INJg=="
+secured: "zVBYIhoBzRkL81SbK8SIaAekGY2qsO6tLU/lfJFZ7riRXG6r4YAr5j2WTUAzpChRTFZ/rnhwrSIVDL1Yc8jbjPdsok1yVfg2IJsE/ZoHnsw/huBJdhHKZGBmEK2IZ6yAYLAIKSJTHSzyExI9iKGC4LiSxZ4wVixG8m4qvqi/swNfrj2huW8po9a5JgybJjPSlzit9OeprWGEYwPJA7Yxc6Cj+SmEknV8pqsZmdtqO3b4q08cxj//45YYHnBqB6NrMVOOokxJW4YeWLIYq2epFt7kmD5NEfh4NqnwHdoOCMvR2bxHlr3BruUanEAOUlEuYPJavviNQyPOTIOAFWDoCTqgBX6ndm2k/LbY4E5NJvOD0NdaiThPY9ZF1tKHul3xAaLFZqbtZvppHk/1iAr5Lk5BM5bL9KdqWZmV/TUM3SyYsVQePIu1MuyO4t8HlJlVDcv4CzgoPA2gQR/nEAnKg4kR1ZxOMffdhgA9LXdicsUm1GpYdaMdAppxqZt619CXkx5rwLTU0jUZdar0x57uLg==;jFPzczDNqQgy02VTnpBrpg=="
 ---
 

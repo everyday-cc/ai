@@ -129,6 +129,31 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Dell Becomes One Of The Early Generative AI Winners"
+    excerpt: "Dell Technologies Inc (NYSE: DELL) had its best stock market day since its 2018 return to the public market after it reported its fiscal second quarter results."
+    publishedDateTime: 2023-09-05T13:59:00Z
+    webUrl: "https://www.benzinga.com/23/09/34237167/dell-becomes-one-of-the-early-generative-ai-winners"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34237167"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34237167"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://cdn.benzinga.com/files/close-up-entrepreneur-going-through-business-reports-taking-notes-office.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Don’t rush ethics in generative AI adoption plans"
+    excerpt: "Even when leaders feel the pressure to adopt generative AI quickly, ethical frameworks and use case policies should guide their plans."
+    publishedDateTime: 2023-09-05T12:58:00Z
+    webUrl: "https://www.ciodive.com/news/generative-AI-ethics-policy/692590/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 34
 
 secured: "Xme/UWyVM7HRiotqaWSglnyigaabyeqI44Ukh+CTkcxqQ6j0CjB13D8cALrdcHAwU6HcmYcgcC8VkOJsoT+YcpHKqfJu8TJ6fTyxdOSOUIkz94vIViXYCAcvCiEPb574ctr7GmEcrEv/v9oMGuKs3JrYUZW6NzTpUdzxuh8BqY2X4v+cUB3MWPzwuPgMaqX9wCtc1+lwtw1JR28a0Jz9naTV8Bc96bKj6GQ7k9ZcrAJ0oV4fB9tw0DM9vZ6sC3/W1+I6urZDEf/UQZOzwGnQz/ZaxbTeXidzapuPKSXwu4X5KRiB+EPPUlrZ2W/3Ci8b/0zPA6K2ugp0gBXTATq96FPcuaQuHw4ZB9pJjPXMR0TyciBrWpx2flmuhFxMPK1eJ91VJyNnADmF/23DyCjBL+WbRsNu1Wc6Bky/RHXkFfYQL0UGAgS2rShxEOjz/l+WrqejligZR4ytq2fUOK+5UCFhtuMSnWNQ6iCsNarkdUCEkSfVv7lqsX7qHJICF8WshQC8+6nvEqlWaVgMqjEksA==;zhwBaGqESCUCvLdVxYPAGw=="
 ---

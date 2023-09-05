@@ -46,11 +46,11 @@ related:
         height: 675
         isCached: true
   - title: "iTechGenic teams up with Microsoft Azure, G7 CR for AI-enhanced Engineering management"
-    excerpt: "iTechGenic, an AI-powered engineering intelligence platform, has entered into a collaboration with Microsoft Azure and G7 CR Technologies – a subsidiary of Noventiq Company, as part of their STAB programme for Independent Software Vendors (ISVs)."
-    publishedDateTime: 2023-09-05T06:39:00Z
-    webUrl: "https://www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-managementspan-stylefont-size-14pt-font-family-calibri-sans-serif-background-color-transparent-font-weight-700-font-variant-n/3233431/"
-    ampWebUrl: "https://www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management%ef%bf%bc/3233431/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management%ef%bf%bc/3233431/lite/"
+    excerpt: "The primary objective of this partnership is to empower engineering teams with a 360-degree perspective by harnessing insights from various DevOps tools."
+    publishedDateTime: 2023-09-05T06:37:00Z
+    webUrl: "https://www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management/3233431/"
+    ampWebUrl: "https://www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management/3233431/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management/3233431/lite/"
     type: article
     provider:
       name: The Financial Express
@@ -60,6 +60,22 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/image-2023-09-05T113656.774.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Tech And Cannabis Companies Are Worth Watching Amidst AI Boom - Forbes AI Newsletter September 2nd"
+    excerpt: "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend."
+    publishedDateTime: 2023-09-05T14:36:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2023/09/05/tech-and-cannabis-companies-are-worth-watching-amidst-ai-boomforbes-ai-newsletter-september-2nd/"
+    ampWebUrl: "https://www.forbes.com/sites/qai/2023/09/05/tech-and-cannabis-companies-are-worth-watching-amidst-ai-boomforbes-ai-newsletter-september-2nd/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/09/05/tech-and-cannabis-companies-are-worth-watching-amidst-ai-boomforbes-ai-newsletter-september-2nd/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 73
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64f73cca5d77775f8cb01580/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 801
         isCached: true
   - title: "eWEEK TweetChat, September 12: AI in the Enterprise"
     excerpt: "Industry thought leaders participate in a wide ranging conversation – via Twitter – about how the enterprise is grappling with the rise of AI."
@@ -114,6 +130,17 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Microsoft expands UAE's G42 partnership to include cloud, AI tools"
+    excerpt: "\"With data privacy, security, and compliance as our core priorities, we have a unique opportunity to help organizations responsibly innovate,\" Microsoft Chief Commercial Officer Judson Althoff said"
+    publishedDateTime: 2023-09-05T14:10:00Z
+    webUrl: "https://www.business-standard.com/world-news/microsoft-expands-uae-s-g42-partnership-to-include-cloud-ai-tools-123090501146_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/world-news/microsoft-expands-uae-s-g42-partnership-to-include-cloud-ai-tools-123090501146_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/world-news/microsoft-expands-uae-s-g42-partnership-to-include-cloud-ai-tools-123090501146_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 54
   - title: "September Rally? 3 AI Stocks to Buy Before Liftoff"
     excerpt: "Executives at AMD have said that the new microchip, which they plan to begin shipping by year-end, is a direct challenge to Nvidia’s current dominance with AI chips. The biggest foray yet into AI for AMD, the MI300X chip was designed for large language ..."
     publishedDateTime: 2023-09-04T22:45:00Z

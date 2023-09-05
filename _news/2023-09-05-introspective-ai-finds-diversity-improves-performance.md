@@ -41,15 +41,6 @@ related:
         width: 2470
         height: 1390
         isCached: true
-  - title: "An 'introspective' AI finds diversity improves performance"
-    excerpt: "An artificial intelligence with the ability to look inward and fine tune its own neural network performs better when it chooses diversity over lack of diversity, a new study finds. The resulting diverse neural networks were particularly effective at solving complex tasks."
-    publishedDateTime: 2023-08-31T19:39:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/08/230831142820.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "Embracing Neuronal Diversity: A Leap in AI Efficiency and Performance"
     excerpt: "The role of diversity has been a subject of discussion in various fields, from biology to sociology. However, a recent study from North Carolina State University's Nonlinear Artificial Intelligence Laboratory (NAIL) opens an intriguing dimension to this discourse: diversity within artificial intelligence (AI) neural networks."
     publishedDateTime: 2023-09-03T22:48:00Z
@@ -65,6 +56,6 @@ related:
         height: 600
         isCached: true
 
-secured: "jakQcwfwXpbiUUTuGmZsClrOndcAOmjoZlNvOS9xuf3OUWnUDPF1+oVyZc/YG+uayHm9YFrrS6DG+W0XqlHfVxV8K7Om59McHefm/aiDp4p0bEM3kncH7RiTJg7Zcq2+loqNOIcauoUdMAJTkH1yz+ivHyIuUcao4lb6dTzgP1OeUpbdj/XSEX369B0Bc4M8LJfCbHipEwLR7m9zxdYWdDNXs56uCmsJrsaTSi+YKn3zPCL9z6MGvFplCZCcdXtdp5fCMGs7hF6rHnH6Mp6Yx6Jcw70OTAgyPEZjGAsswVbt1RaX7uzJVS6+la1LETGmrYG979KwhDg9gHR9LREYN0Vy3wr+WoW9TAcsO+lTmSI=;vi2wIK51NnsXIP5OL7gXQA=="
+secured: "VekA+fKm8yulI5QjjDr9O/Ibsl+NuJc5BhSes2qrZsQd9RNh7wRSLTR6LPWgpXRMqH4E7N8rfNt9+C3q7nnM5VzfGrAj2ZSkCRAX+e3CDFF5jQ3o8y16jy3TmM0sVE5mJ1Rn18gqBzyZHAIkj5KZNJ95EQoQxO5yD8pftPmGrfqyEORFpQxqoqEuBgcS1l5XHutTX7ZjILSIXKT76HII0k1CDLCVUaudeiqcO58p6lMDk0GCRqAbWyEoiZjpVIqMvZqb4ilXmekNhuIFYhNwlbZPDkbGeB0TXLwyMJ2l/x5RwwYXTEPIS3L9MI2ONcVaHHFveG2jZJiOAuUkiCZfTnby1mWyrMqF4U5vkGutvUAfYS3AoFwpWixxNZi29UgdELksBW5zP6vcWrLSaaztoblp/N8+QXobcZIdSc0JDyhxSYuASTkeGwmJzg7YlPwWkQIPYXgBQAA4Vz4xpIKmCg9rhsfxeVx3lRUT55ZN301k+04FQB4rK3iTf2fxsjju4X6kYT2+IUqlqnzN1KJMzg==;3aNv+TqwxXHQ3gbu/GfwEA=="
 ---
 

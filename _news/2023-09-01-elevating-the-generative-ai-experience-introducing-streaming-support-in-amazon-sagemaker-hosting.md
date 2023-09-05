@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/elevating-the-genera
 webUrl: "https://aws.amazon.com/blogs/machine-learning/elevating-the-generative-ai-experience-introducing-streaming-support-in-amazon-sagemaker-hosting/"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -45,17 +45,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "In the absence of clear rules, students using AI don't know if they're cheating: survey"
-    excerpt: "More than half of students over 18 have used generative AI to complete their school work or pass an exam, despite 60 per cent feeling that it constitutes cheating, according to a recent survey by business consulting firm KPMG."
-    publishedDateTime: 2023-08-31T20:49:00Z
-    webUrl: "https://www.ctvnews.ca/sci-tech/in-the-absence-of-clear-rules-students-using-ai-don-t-know-if-they-re-cheating-survey-1.6543380"
-    ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2023/8/31/1_6543380.amp.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/8/31/1_6543380.amp.html"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 31
 
 secured: "kfPXRSUEZYPCFw1oYNqxicsLv2N0kMVzL4wEvx90VvpDvQKgzEfEWfOe2dat0MNQOALJE3LyRPaZv1o1T5oMD3ot5yjZwH4meietq3Q4iURHEdFyIrcWolA4VCEHQ86+2bMgpzJANG9Ge0v5zBNlF7TCvd3mGEpIlPjoI8H1e46ERA4MB19UMIqW+09C0ZvxYqCFK9tc5EyltqWvmnInlfE8rKpsEpDvTaluviv/Q1X5YLbcv18UWCBLFUHr72WWSUGvmB6lmqneBrJxOSgGjW17TnfVHWYepmdwoKZHbqXoWrB8KCGrO6fFuLLGwkXBAinJWcrKa+QVmRrkhwX9f6HxMN0eHmklcMTd5O31dsk=;wryNKacC3Tf+wqwcLeKlPw=="
 ---

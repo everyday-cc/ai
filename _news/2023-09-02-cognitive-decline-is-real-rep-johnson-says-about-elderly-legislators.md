@@ -7,7 +7,7 @@ originalUrl: "https://www.jamestownsun.com/news/south-dakota/cognitive-decline-i
 webUrl: "https://www.jamestownsun.com/news/south-dakota/cognitive-decline-is-real-rep-johnson-says-about-elderly-legislators"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1559
     height: 1066
     isCached: true
-
-related:
-  - title: "Cognitive decline is real, says Rep. Johnson about elderly legislators"
-    excerpt: "MITCHELL — \"Cognitive decline is real. It is inescapable.\" Those were the words of U.S. Congressman Dusty Johnson at a Mitchell Rotary Club speaking event on Thursday, Aug. 31."
-    publishedDateTime: 2023-08-31T22:36:00Z
-    webUrl: "https://www.mitchellrepublic.com/news/local/cognitive-decline-is-real-says-rep-johnson-about-elderly-legislators"
-    type: article
-    provider:
-      name: The Daily Republic
-      domain: mitchellrepublic.com
-    quality: 24
-    images:
-      - url: "https://cdn.forumcomm.com/dims4/default/6661008/2147483647/strip/true/crop/3754x2567+0+0/resize/1559x1066!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2F84%2F31%2Fc982a299445faf68d5bfa7d379b6%2Fimg-1340.jpg"
-        width: 1559
-        height: 1066
-        isCached: true
 
 secured: "IANkTfHTEIHBukoKkjTOMJE1/XzSEozEGlrRjidICBuj2foNksdcziNIzJg/Q74uc/AD2tdmDDcayMzdJS8Rhv7rRWKqVLtbpTnghOJa02GIQzV1zkN6BjBFij2QKZgP7ZpgQLKDaq4ZMaLMhEDovd3/YCGX+hVi+ew7Z9gVI3OLL4I6RNBlpUWIe7c2dkJUoiRnlaF3/MVknlKIEtkgdy/NL5R3xfY0dJ6KKTaP8bO3ID+yUKPioXkIVp0frYjpPKvQ5h9eBJrBAzCPWznKLsLPaS7RoMrhQ3iIJ9XhiR6W3YeplwFHm4HYC/PYS5hdge0j4/gz03wiHPFDtwvg5sfeXMs8AZJehZWlm3T0zwc=;eqtRS7Up7MXZf9i9C0IWxQ=="
 ---

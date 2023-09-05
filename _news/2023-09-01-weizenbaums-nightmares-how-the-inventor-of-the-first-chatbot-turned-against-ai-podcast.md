@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "5 types of chatbot and how to choose the right one for your business"
+    excerpt: "Chatbots are playing an increasingly prevalent role in our lives. Here are five types of chatbot and how to pick the best one for your business.\nThe post 5 types of chatbot and how to choose the right one for your business appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-09-05T12:00:00Z
+    webUrl: "https://www.ibm.com/blog/chatbot-types/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 82
   - title: "The Evolution of AI Chatbots: Past, Present and Future"
     excerpt: "Evolutionary path. Chatbots evolved from simple rule-based systems to AI-powered, voice-activated personal assistants and generative AI chatbots capable of full-fledged conversations."
     publishedDateTime: 2023-09-01T10:02:00Z
@@ -65,15 +74,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 17
-  - title: "Enhancing research with conversational chatbots"
-    excerpt: "In a recent presentation at White River Health in Batesville, Associate Professor of Computer and Data Science, Dr. Marcus Birkenkrahe, shed light on the transformative potential of artificial"
-    publishedDateTime: 2023-09-01T17:03:00Z
-    webUrl: "https://www.guardonline.com/news/enhancing-research-with-conversational-chatbots/article_6709d1ba-9530-5296-9460-7620427c3ea6.html"
-    type: article
-    provider:
-      name: GuardOnline.com
-      domain: guardonline.com
-    quality: 4
 
 secured: "EO9k97+GePpBciM4HPBCTpJOQFm+jDQSN9emlFGp29+Hut43fF4E5CVBAYYhGFyWqaaEEydCDaURiXOmSUBCdr3cb/u5l1lGnf+pGG43cNil3dVsuE0o2QIUl/Wz0waTqhhwzVlBlaLfuokW/C9gaBXkfoSVFgGHkahWxI8+q1y4aSyK6CN/OuA3MkBPEDwjnA1zlR+vpIEzvq9aFXmUFyMbNemSd8eh6hwdTQoypnj3dr3erwDApH9eRxUtWmprNyLnhd8xbxkqFkxVWfVDDrAbGHPbKiF9s1VgIX3DM7pGUAGQIW8ZkiqMpJRxnKYMCVNhgWgJoyxZZKsA29ZBBoJVDnJNyDgns26jlM6Tg4TJpc7Vl+K3UjXp5isCA0JEyMqzFmlO1mvnvBlb2vdCqWpaEO1SNCyhBYBWqqrc0K0hoOLZhCHXcuCH3F2bIiJG9gJcaWbwvXFltWtmZkBeWIYTk8TGhWpDUWRv8WLl3qkm4W25Knx9g5tp84lvniXN/KSzR5WhBuASp315zMurjA==;W7XPJt54BgK0ZBCyiHOeYA=="
 ---

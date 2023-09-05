@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/technology/how-anguilla-a-tiny-isla
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/how-anguilla-a-tiny-island-in-the-caribbean-is-riding-the-ai-domain-wave/amp_articleshow/103292367.cms"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 600
     height: 450
     isCached: true
-
-related:
-  - title: "AI fever turns Anguilla’s “.ai” domain into a digital gold mine"
-    excerpt: "AI these days, but with a total land area of 35 square miles and a population of 15,753, Anguilla isn't complaining. Registrars like GoDaddy must pay Anguilla a fixed price—$140 for a two-year registration—and the prices are rising due to demand."
-    publishedDateTime: 2023-08-31T21:58:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/08/ai-fever-turns-anguillas-ai-domain-into-a-digital-gold-mine/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/08/ai-fever-turns-anguillas-ai-domain-into-a-digital-gold-mine/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/ai-fever-turns-anguillas-ai-domain-into-a-digital-gold-mine/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 87
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/08/island_pin_hero-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "OXzJ1A8e96wnBZtmL8TcRcFFLXPkdrb1fU7GrYYm+evnYyPio9Kqub7ntKf8giRKDu67XWmWshUGMN8OndhRcRQ6AMudgrprzpJS7GsQsC+ZHc1UpUNNKEkU+rdzBGcOKoE8+vJ8FW7RKIjKibUWn8aWAn52k9nnZApdP/Rxlyqmi1LmDq7BsAhgiVLQv7mjSTAf3LoG67ndQVu4N6FH3cPhh0QFX9oxS90SlPhhAnOoEtcx7jWVgLZJn0WUVDBpme7E97b5O49BiHzpOGr6aj6mYKDOnuPXp09IQqAI5wcvY+Nsa+HCIZ01o4V/sJy7RCY8DzTNBPFcloLyXc/h6gl8i+EBCLGvrCxOTP0AgaI=;iRfrKwbteq020PmkxWQ+Og=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://wraltechwire.com/2023/09/01/nc-state-researchers-show-that-i
 cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/09/01/nc-state-researchers-show-that-introspective-ai-chooses-thrives-on-diversity/?amp=1"
 type: article
 quality: 55
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "An 'introspective' AI finds diversity improves performance"
-    excerpt: "An artificial intelligence with the ability to look inward and fine tune its own neural network performs better when it chooses diversity over lack of diversity, a new study finds. The resulting diverse neural networks were particularly effective at solving complex tasks."
-    publishedDateTime: 2023-08-31T19:39:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/08/230831142820.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "Embracing Neuronal Diversity: A Leap in AI Efficiency and Performance"
     excerpt: "The role of diversity has been a subject of discussion in various fields, from biology to sociology. However, a recent study from North Carolina State University's Nonlinear Artificial Intelligence Laboratory (NAIL) opens an intriguing dimension to this discourse: diversity within artificial intelligence (AI) neural networks."
     publishedDateTime: 2023-09-03T22:48:00Z

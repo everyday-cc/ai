@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/3-things-businesses-need-to-know-as-nyc
 webUrl: "https://venturebeat.com/ai/3-things-businesses-need-to-know-as-nyc-begins-enforcing-its-ai-hiring-law/"
 type: article
 quality: 65
-heat: 65
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,33 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Three Things That Services Businesses Should Know About AI Right Now"
+    excerpt: "No matter where your services business is in its digital transformation journey, you should take an active role in collaborating on AI readiness."
+    publishedDateTime: 2023-09-05T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/05/three-things-that-services-businesses-should-know-about-ai-right-now/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/05/three-things-that-services-businesses-should-know-about-ai-right-now/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/05/three-things-that-services-businesses-should-know-about-ai-right-now/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64ee017ce0404c2794d8ae21/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 855
+        isCached: true
+  - title: "How startup founder thinks employees should about AI in the workplace"
+    excerpt: "With AI making its way into the workplace, how do people navigate working alongside it? For Murat Baday the answer is being trained to use it."
+    publishedDateTime: 2023-09-01T12:05:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/09/01/ai-workplace-magnimind-murat-baday.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "FFzSEitmr6xWsDKk8plkUG/LNJZ9vzmaHSthLmCTYXXQWUhiMakeOPXxVg/V/vhm4yhMU9r0O3666zwPM2GvyONbfAjGMPJ1PPwjMdBLtnwouvEMbSVi9PYUTXhB8Tzyzg3bK5MmsVg0OcaeDvPu+OxfpqgKqsymLJlzKsEjROehjJVmVYVrJ43pYjyaH7T9IU+HXBIcbrUJsos6TpO5nTzZrZ0TdP77XVci5AfagbWiD545tUGkngGvXjjXE0H4A95PAVdvsBrixKTebFS/DMZJW71JKehorV4v0kkn83Ns4lqR4Be02jHltSwF5Wj+JPkFUp87FUl1ZZybSh4VoS1BBAdtG1EPNGZQFJN6tUIhnqODZh2Yspixs7FkUE3b9+Nj4krSI+L0ILhDyV0mTk0/C7azqOINLeofVnBbvmVhLcgN+zpNnU3+MgFl0JY+Ynw78vPi9hb9YORSn3BQeJ6Mn3WXJuSd9rzotBuLoJQ7tdDmShPs6zAL5xcDRgw3wj7xfvBP87N8X5v9itxBqg==;+EXFEF1WzlbR8G6qgFmWlw=="
 ---
