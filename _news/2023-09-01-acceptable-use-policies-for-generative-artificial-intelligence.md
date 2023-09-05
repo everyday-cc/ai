@@ -145,15 +145,20 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Don’t rush ethics in generative AI adoption plans"
+  - title: "Don’t Rush Ethics in Generative AI Adoption Plans"
     excerpt: "Even when leaders feel the pressure to adopt generative AI quickly, ethical frameworks and use case policies should guide their plans."
-    publishedDateTime: 2023-09-05T12:58:00Z
-    webUrl: "https://www.ciodive.com/news/generative-AI-ethics-policy/692590/"
+    publishedDateTime: 2023-09-05T16:00:00Z
+    webUrl: "https://www.cfo.com/news/ethics-generative-ai-adoption-plans-mckinsey-Frank-Buytendijk-gartner/692686/"
     type: article
     provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 34
+      name: CFO
+      domain: cfo.com
+    quality: 54
+    images:
+      - url: "https://www.cfo.com/imgproxy/1dsMQtybfAosCg3llFv1sVtr8XgrcYHqEqkhfIsYtdE/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0OTAyNjE4NDJfUDVPMVMwMS5qcGc.jpg"
+        width: 770
+        height: 435
+        isCached: true
 
 secured: "Xme/UWyVM7HRiotqaWSglnyigaabyeqI44Ukh+CTkcxqQ6j0CjB13D8cALrdcHAwU6HcmYcgcC8VkOJsoT+YcpHKqfJu8TJ6fTyxdOSOUIkz94vIViXYCAcvCiEPb574ctr7GmEcrEv/v9oMGuKs3JrYUZW6NzTpUdzxuh8BqY2X4v+cUB3MWPzwuPgMaqX9wCtc1+lwtw1JR28a0Jz9naTV8Bc96bKj6GQ7k9ZcrAJ0oV4fB9tw0DM9vZ6sC3/W1+I6urZDEf/UQZOzwGnQz/ZaxbTeXidzapuPKSXwu4X5KRiB+EPPUlrZ2W/3Ci8b/0zPA6K2ugp0gBXTATq96FPcuaQuHw4ZB9pJjPXMR0TyciBrWpx2flmuhFxMPK1eJ91VJyNnADmF/23DyCjBL+WbRsNu1Wc6Bky/RHXkFfYQL0UGAgS2rShxEOjz/l+WrqejligZR4ytq2fUOK+5UCFhtuMSnWNQ6iCsNarkdUCEkSfVv7lqsX7qHJICF8WshQC8+6nvEqlWaVgMqjEksA==;zhwBaGqESCUCvLdVxYPAGw=="
 ---

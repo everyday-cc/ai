@@ -142,20 +142,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "PM announces date for Voice to Parliament referendum"
-    excerpt: "Prime Minister Anthony Albanese announced the date for the referendum on the Voice to Parliament during a visit to Adelaide on Wednesday. On Saturday, October 14, Australians will have their say in a referendum about whether to change the Constitution to recognise the First Peoples of Australia by establishing a body called the Aboriginal and Torres Strait Islander Voice."
-    publishedDateTime: 2023-08-31T23:44:00Z
-    webUrl: "https://narrabricourier.com.au/2023/09/01/pm-announces-date-for-voice-to-parliament-referendum/"
-    type: article
-    provider:
-      name: narrabricourier
-      domain: narrabricourier.com.au
-    quality: 24
-    images:
-      - url: "https://narrabricourier.com.au/wp-content/uploads/2023/09/vote-2042580_1280.png"
-        width: 1280
-        height: 960
-        isCached: true
   - title: "Peter Dutton pledges new referendum solely on recognition if Voice fails and he wins next Federal election"
     excerpt: "Opposition leader Peter Dutton has pledged to hold a second referendum solely to enshrine Indigenous people into the constitution if the Voice fails to pass next month."
     publishedDateTime: 2023-09-03T00:34:00Z

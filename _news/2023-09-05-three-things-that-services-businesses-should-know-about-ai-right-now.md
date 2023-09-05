@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/05/three-thin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/05/three-things-that-services-businesses-should-know-about-ai-right-now/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "You need to talk to your kid about AI. Here are 6 things you should say."
+    excerpt: "As children start back at school this week, it’s not just ChatGPT you need to be thinking about. In the past year, kids, teachers, and parents have had a crash course in artificial intelligence, thanks to the wildly popular AI chatbot ChatGPT."
+    publishedDateTime: 2023-09-05T16:45:00Z
+    webUrl: "https://www.technologyreview.com/2023/09/05/1079009/you-need-to-talk-to-your-kid-about-ai-here-are-6-things-you-should-say/"
+    ampWebUrl: "https://www.technologyreview.com/2023/09/05/1079009/you-need-to-talk-to-your-kid-about-ai-here-are-6-things-you-should-say/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/05/1079009/you-need-to-talk-to-your-kid-about-ai-here-are-6-things-you-should-say/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 56
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/09/talk-kids-AI2.jpeg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
   - title: "How startup founder thinks employees should about AI in the workplace"
     excerpt: "With AI making its way into the workplace, how do people navigate working alongside it? For Murat Baday the answer is being trained to use it."
     publishedDateTime: 2023-09-01T12:05:00Z
@@ -52,6 +68,15 @@ related:
     provider:
       name: The Business Journals
       domain: bizjournals.com
+    quality: 19
+  - title: "How worried should we be about AI’s threat to the human race?"
+    excerpt: "Artificial-intelligence pioneers are fighting over which of the technology’s dangers is the scariest. One camp, which includes some of the top executives building advanced AI systems, argues its creations could lead to catastrophe."
+    publishedDateTime: 2023-09-05T17:50:00Z
+    webUrl: "https://www.theaustralian.com.au/business/the-wall-street-journal/how-worried-should-we-be-about-ais-threat-to-the-human-race/news-story/4130227d7aad1c22b1bfe3ca0f609c3c"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
     quality: 19
 
 secured: "EAmDQDJgwoxqbXPAlibsolBszCZWRYvnwKnSwslgj/9NV3pi4ygHu+gEGfLW6NiY+UktLteHbN4+CzzcCtWYVWCe4BABAOTSNr2oSXS0MV8SJIH1TUZcTc9mbNAFOAr7D9nZwJ1FKScidqkwqYC5ZwQQJKe5XzVT9+6sb+HriJuM844ytJbXxdBwqAuKu0drgsAPBmGSpNJRESOsvvyNZW82cSWNWoFTJ6mr0brOwOjLuA0aD4EFoKUL6ZUiGGrLjJdwyI9MKNqWSJoUCLlZJ9NOMrq6BzPvbvucMCLxhGIyCTvJY9j+RCg6qpm2qzfIBLkXD84njqTUbM2szbRcbuUtrKaW+p7rFg7nZh4uvMU=;GCDUobTzLSscI+BvsWKnNw=="

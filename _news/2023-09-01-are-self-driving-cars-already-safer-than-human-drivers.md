@@ -31,19 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "B.C. is not ready for self-driving cars, study finds"
-    excerpt: "British Columbians aren’t quite ready for self-driving vehicles (SDVs) and will need a gradual transition to the new technology, according to new B.C. study."
-    publishedDateTime: 2023-09-01T01:00:00Z
-    webUrl: "https://www.vancouverisawesome.com/highlights/bc-is-not-ready-for-self-driving-cars-study-finds-7482905"
+  - title: "Self-driving delivery trucks could be sharing the roads with drivers very soon"
+    excerpt: "The day is coming when that 18-wheeler rolling down the highway won’t have a driver behind the wheel, it’ll be running autonomously and that frightens some."
+    publishedDateTime: 2023-09-05T16:24:00Z
+    webUrl: "https://www.cbs17.com/news/investigators/self-driving-delivery-trucks-could-be-sharing-the-roads-with-drivers-very-soon/"
+    ampWebUrl: "https://www.cbs17.com/news/investigators/self-driving-delivery-trucks-could-be-sharing-the-roads-with-drivers-very-soon/amp/"
+    cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/investigators/self-driving-delivery-trucks-could-be-sharing-the-roads-with-drivers-very-soon/amp/"
     type: article
     provider:
-      name: Vancouver Is Awesome
-      domain: vancouverisawesome.com
-    quality: 24
+      name: cbs17.com
+      domain: cbs17.com
+    quality: 40
     images:
-      - url: "https://www.vmcdn.ca/f/files/nsnews/images/transportation/autonomous-vehicles-getty-images-web.jpg;w=1000;h=667;mode=crop"
-        width: 1000
-        height: 667
+      - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2023/09/thumbnail_web-6.jpg?w=1280"
+        width: 681
+        height: 397
         isCached: true
 
 secured: "IYdjKhVR1+dIAzFaNLzBh11G++Otf7D5aROe5j5gKLeZze86nrv2Agiu9Y7+UT2+CXA0hgn9TFj5tWTilVSuTr6KKTJu5tfgnSzHBhrdcbgavECx6fEZeYVNbLhq87BDiIIi6BpCam4X4NUjyd/vzRkXXASEFUY7q/8f4/YEhh7km/FJh/kjA25lW2huHnVqL5TpHdMRUxVnjAio/DgFWwLGqB5rXPEmIorRnONaCW3JhwWUJH5KXqsslK8Yi0kHuadf8uvSznknh22HeQEsIqqUNORPLRRWUCMIEUXY0B0f4+kxflrF2ySY8KCmIjdL8VSn4CrAtO7ewu5d6un07bPLPyzvB8S4rUpjbIUp0XBaXkNRnZy7DBDcinA2rUWQOx4dAxLwtZq16QF/dVvbJMcFvv1D1sp47rWE0wXsJtafxFi+aOFk5Ja538pXDHZ5DQ/lCUdjuYWTbDH2Jpf/4MhRNYd/yPViC9xSLpBGoYRXhaXP/ypHRZKw00J0zJIg3HO2GbaKGMCb4j8wY1A8iw==;9uWpClY70rEIx3qx6jz1HQ=="

@@ -51,20 +51,6 @@ related:
         width: 1069
         height: 580
         isCached: true
-  - title: "Seismologists use deep learning to forecast earthquakes"
-    excerpt: "A team of researchers at UC Santa Cruz and the Technical University of Munich created a new model that uses deep learning to forecast aftershocks."
-    publishedDateTime: 2023-08-31T23:35:00Z
-    webUrl: "https://news.ucsc.edu/2023/08/deep-learning-earthquakes.html"
-    type: article
-    provider:
-      name: news.ucsc
-      domain: ucsc.edu
-    quality: 39
-    images:
-      - url: "https://news.ucsc.edu/2022/07/images/emily-brodsky-350.jpg"
-        width: 350
-        height: 393
-        isCached: true
   - title: "Seismologists use deep learning for improved earthquake forecasting"
     excerpt: "A team of researchers at UC Santa Cruz and the Technical University of Munich created a new model that uses deep learning to better forecast earthquake aftershocks."
     publishedDateTime: 2023-09-01T21:46:00Z

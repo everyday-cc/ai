@@ -26,42 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "Google Unveils New AI-Powered Cloud Technologies Taking On AWS And Azure"
-    excerpt: "At Cloud Next, Google unveiled AI strategies to rival AWS and Azure. New offerings include custom silicon and updated Vertex AI. Google targets AI-centric enterprises."
-    publishedDateTime: 2023-09-01T19:24:00Z
-    webUrl: "https://www.forbes.com/sites/stevendickens/2023/09/01/google-unveils-new-ai-powered-cloud-technologies-taking-on-aws-and-azure/"
+  - title: "Inside Google’s Image Q&A On Android And Using AI For All"
+    excerpt: "In a post published on its Keyword blog, Google on Tuesday announced a slew of new features for Android designed to \"stay productive and connected.\""
+    publishedDateTime: 2023-09-05T17:04:00Z
+    webUrl: "https://www.forbes.com/sites/stevenaquino/2023/09/05/inside-googles-image-qa-on-android-and-using-ai-for-all/"
+    ampWebUrl: "https://www.forbes.com/sites/stevenaquino/2023/09/05/inside-googles-image-qa-on-android-and-using-ai-for-all/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2023/09/05/inside-googles-image-qa-on-android-and-using-ai-for-all/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 80
-  - title: "AI moves by Google Cloud raise interest in what AWS will deliver next"
-    excerpt: "As the undisputed leader in cloud computing for more than two decades, Amazon Web Services Inc. has the potential to wield enormous clout in the emerging AI market. But the cloud narrative in AI so far has been shaped by Microsoft Corp. and, more recently, Google LLC. What happened to AWS?"
-    publishedDateTime: 2023-09-01T03:07:00Z
-    webUrl: "https://siliconangle.com/2023/08/31/ai-moves-by-google-cloud-raise-interest-in-what-aws-will-deliver-next-googlecloudnext/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 56
+    quality: 87
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/08/Dustin-Kirkland-John-Furrier-Sarbjeet-Johal-Rob-Strechay-theCUBE-Google-Cloud-Next.jpg"
-        width: 977
-        height: 651
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64f75a941512b57015b0157e/0x0.jpg?format=jpg&width=1200"
+        width: 1080
+        height: 1080
         isCached: true
-  - title: "Google adding AI tools to cloud"
-    excerpt: "Google's cloud clients will be able to access Meta's Llama 2 large language model, as well as AI startup Anthropic's Claude 2 chatbot, to customize with enterprise data for their own apps and services. The move, announced last week at Google's Next '23 ..."
-    publishedDateTime: 2023-09-03T07:01:00Z
-    webUrl: "https://www.arkansasonline.com/news/2023/sep/03/google-adding-ai-tools-to-cloud/"
+  - title: "Android Evolution: Google Tweaks Logo, Announces AI-Influenced Feature Drop"
+    excerpt: "Recreating Google’s Android logo now requires two new ingredients: the Shift key and some shading. The company announced the logo makeover today in a post that reveals a more three-dimensional look for the familiar icon and capitalization of the formerly lowercase word \"Android.\""
+    publishedDateTime: 2023-09-05T17:20:00Z
+    webUrl: "https://au.pcmag.com/android/101510/android-evolution-google-tweaks-logo-announces-ai-influenced-feature-drop"
     type: article
     provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 39
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
     images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/205216573_Google-AI-bg-3db9458a-4676-11ee-9807-7da73538c4fb_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 399
+      - url: "https://sm.pcmag.com/t/pcmag_au/news/a/android-ev/android-evolution-google-tweaks-logo-announces-ai-influenced_m14d.1200.png"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "W4bkalSGgs6n3WU9YFuQVbmvmJGPt8YvuCjuGkywNzQsLbf429W+6hTd/+c+G+H4jhDEPszo8DAbTgEO+5r22Bmdk4Pn1Eez50QU77y+vHExDJXEfoc2NHHMR8L55HEn3aPuwL9uTA8H1VZyOmhg0XiZuONjbKHyikDGy7OO1xXcQpq9C3oxnjr2dHIVEKh1Dy0qZr7QZfWtgHn21hpOhpfT0slldaXx62Ap2i05oKbH7MCElBSsoHO9LB0vApBY/ds25YRhXoqc8qt0OA+VsA6gOP49ef5SvcBJa5tCaAwFne95LGnaYq57ace0N8mSLAazHYle6Zc62NKaXu6aaY1AORoTajL0XZW8y+ZDLvc=;7GytEZiFeTe3nEgtrM1xFA=="

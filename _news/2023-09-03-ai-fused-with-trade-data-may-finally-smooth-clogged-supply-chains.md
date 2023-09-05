@@ -9,7 +9,7 @@ ampWebUrl: "https://www.business-standard.com/amp/economy/news/ai-automation-fus
 cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/economy/news/ai-automation-fused-with-trade-data-may-finally-smooth-clunky-supply-chains-123090300289_1.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "AI Fused With Trade Data Could Smooth Clunky Supply Chains"
+    excerpt: "The dawn of artificial intelligence tools like ChatGPT may revolutionize the way data can be used to ferret out risks and opportunities in the $32 trillion global trading system."
+    publishedDateTime: 2023-09-05T16:52:00Z
+    webUrl: "https://www.ttnews.com/articles/ai-trade-data-supply-chains"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 41
+    images:
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2023-09/Containers-China-1200.jpg"
+        width: 470
+        height: 246
+        isCached: true
   - title: "AI Fused With Trade Data May Finally Smooth Clunky Supply Chains"
     excerpt: "The dawn of artificial intelligence tools like ChatGPT may revolutionize the way both the public and private sector use data to ferret out risks and opportunities in the $32 trillion global trading system."
     publishedDateTime: 2023-09-03T04:00:00Z

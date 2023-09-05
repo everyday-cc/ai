@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/09/04/upping-your-promp
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/09/04/upping-your-prompt-engineering-superpowers-via-target-your-response-techniques-when-using-generative-ai/amp/"
 type: article
 quality: 75
-heat: -1
-published: false
+heat: 85
+published: true
 
 provider:
   name: Forbes
@@ -32,18 +32,18 @@ images:
     isCached: true
 
 related:
-  - title: "Elevating the generative AI experience: Introducing streaming support in Amazon SageMaker hosting"
-    excerpt: "We’re excited to announce the availability of response streaming through Amazon SageMaker real-time inference. Now you can continuously stream inference responses back to the client when using SageMaker real-time inference to help you build interactive experiences for generative AI applications such"
-    publishedDateTime: 2023-09-01T16:53:42Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/elevating-the-generative-ai-experience-introducing-streaming-support-in-amazon-sagemaker-hosting/"
+  - title: "Unlocking growth: Practical AI strategies for your business"
+    excerpt: "By prioritising ethics, fostering a culture of innovation, and leveraging available resources—including webinars like this, which are chock-full of actionable expert insights—SMEs can unlock the full potential of AI to optimise their operations and ..."
+    publishedDateTime: 2023-09-04T23:01:00Z
+    webUrl: "https://www.smartcompany.com.au/partner-content/articles/unlocking-growth-practical-ai-strategies-for-your-business/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 91
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 39
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/31/featured-images-ML-15289-1120x630.jpg"
-        width: 1120
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2023/08/Salesforce-article-7-1466x710-1.png?resize=1200,630"
+        width: 1200
         height: 630
         isCached: true
 

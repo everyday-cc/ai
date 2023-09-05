@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft and Abu Dhabi's G42 Forge Strategic AI and Cloud Partnership"
+    excerpt: "G42's CEO Peng Xiao highlighted the significance of the partnership in driving substantial technological progress across critical sectors. The company's diverse portfolio includes AIQ, a joint venture with Abu Dhabi National Oil Co., which leverages AI and machine learning to enhance processes for Adnoc and the broader industry."
+    publishedDateTime: 2023-09-05T16:56:00Z
+    webUrl: "https://www.benzinga.com/news/23/09/34240520/microsoft-and-abu-dhabis-g42-forge-strategic-ai-and-cloud-partnership"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34240520"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34240520"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/09/05/azure-rainer_stropek_via_flickr.jpg?width=1200&height=800&fit=crop"
+        width: 799
+        height: 533
+        isCached: true
   - title: "Tech And Cannabis Companies Are Worth Watching Amidst AI Boom - Forbes AI Newsletter September 2nd"
     excerpt: "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend."
     publishedDateTime: 2023-09-05T14:36:00Z
@@ -76,20 +92,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64f73cca5d77775f8cb01580/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 801
-        isCached: true
-  - title: "eWEEK TweetChat, September 12: AI in the Enterprise"
-    excerpt: "Industry thought leaders participate in a wide ranging conversation – via Twitter – about how the enterprise is grappling with the rise of AI."
-    publishedDateTime: 2023-08-31T23:10:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/eweek-tweetchat-ai-enterprise/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 67
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2023/05/top-generative-ai-apps-tools.png"
-        width: 1400
-        height: 933
         isCached: true
   - title: "SAP Names Microsoft's Walter Sun as Head of Artificial Intelligence -- Update"
     excerpt: "By Mauro Orru SAP appointed Microsoft's Walter Sun as global head of artificial intelligence, a move that underscores the business-software company's"
@@ -141,6 +143,33 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 54
+  - title: "G42 and Microsoft unlock new opportunities for digital transformation with joint sovereign cloud and AI offering"
+    excerpt: "Microsoft's sovereign cloud offering public sector and regulated industries to use new platform capabilities for securing access to the latest cloud and AI features available on Azure public cloud and helping local privacy and regulatory requirements."
+    publishedDateTime: 2023-09-05T16:45:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/n34244807/g42-and-microsoft-unlock-new-opportunities-for-digital-transformation-with-joint-sovereign-cloud-a"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34244807"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34244807"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 53
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Microsoft expands Abu Dhabi’s G42 partnership to include cloud and AI tools"
+    excerpt: "The partnership will see Microsoft expand its Azure service in the UAE through Khazna Data ... including AIQ – a joint venture with Abu Dhabi National Oil – that uses AI and machine learning to optimise processes for Adnoc and the wider industry."
+    publishedDateTime: 2023-09-05T16:32:00Z
+    webUrl: "https://www.businesstimes.com.sg/companies-markets/microsoft-expands-abu-dhabis-g42-partnership-include-cloud-and-ai-tools"
+    ampWebUrl: "https://www.businesstimes.com.sg/companies-markets/microsoft-expands-abu-dhabis-g42-partnership-include-cloud-and-ai-tools?amp"
+    cdnAmpWebUrl: "https://www-businesstimes-com-sg.cdn.ampproject.org/c/s/www.businesstimes.com.sg/companies-markets/microsoft-expands-abu-dhabis-g42-partnership-include-cloud-and-ai-tools?amp"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 52
   - title: "September Rally? 3 AI Stocks to Buy Before Liftoff"
     excerpt: "Executives at AMD have said that the new microchip, which they plan to begin shipping by year-end, is a direct challenge to Nvidia’s current dominance with AI chips. The biggest foray yet into AI for AMD, the MI300X chip was designed for large language ..."
     publishedDateTime: 2023-09-04T22:45:00Z

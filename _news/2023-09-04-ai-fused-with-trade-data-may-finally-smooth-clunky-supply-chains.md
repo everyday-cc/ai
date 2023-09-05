@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI Fused With Trade Data Could Smooth Clunky Supply Chains"
+    excerpt: "The dawn of artificial intelligence tools like ChatGPT may revolutionize the way data can be used to ferret out risks and opportunities in the $32 trillion global trading system."
+    publishedDateTime: 2023-09-05T16:52:00Z
+    webUrl: "https://www.ttnews.com/articles/ai-trade-data-supply-chains"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 41
+    images:
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2023-09/Containers-China-1200.jpg"
+        width: 470
+        height: 246
+        isCached: true
   - title: "AI fused with trade data may finally smooth clogged supply chains"
     excerpt: "AI tools are helping many organizations simplify trade-data analysis in ways that may help smooth cross-border commerce"
     publishedDateTime: 2023-09-03T07:38:00Z

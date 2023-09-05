@@ -49,6 +49,31 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "You need to talk to your kid about AI. Here are 6 things you should say."
+    excerpt: "As children start back at school this week, it’s not just ChatGPT you need to be thinking about. In the past year, kids, teachers, and parents have had a crash course in artificial intelligence, thanks to the wildly popular AI chatbot ChatGPT."
+    publishedDateTime: 2023-09-05T16:45:00Z
+    webUrl: "https://www.technologyreview.com/2023/09/05/1079009/you-need-to-talk-to-your-kid-about-ai-here-are-6-things-you-should-say/"
+    ampWebUrl: "https://www.technologyreview.com/2023/09/05/1079009/you-need-to-talk-to-your-kid-about-ai-here-are-6-things-you-should-say/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/05/1079009/you-need-to-talk-to-your-kid-about-ai-here-are-6-things-you-should-say/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 56
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/09/talk-kids-AI2.jpeg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
+  - title: "How worried should we be about AI’s threat to the human race?"
+    excerpt: "Artificial-intelligence pioneers are fighting over which of the technology’s dangers is the scariest. One camp, which includes some of the top executives building advanced AI systems, argues its creations could lead to catastrophe."
+    publishedDateTime: 2023-09-05T17:50:00Z
+    webUrl: "https://www.theaustralian.com.au/business/the-wall-street-journal/how-worried-should-we-be-about-ais-threat-to-the-human-race/news-story/4130227d7aad1c22b1bfe3ca0f609c3c"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 19
 
 secured: "dAH2BRT+wd+2iZUHaA/G8DO6nyJ/6E8BGpkaZxizrhMoWchWN2JhkUy82XkIn5iVtU3KA9Ag+ox8YzjOi8fW4yv9gYOVcnnTTmXnjOT95PQbdRj71bZVLGkHaC/uJNUzRrPko+bsY9KeZemiF7aqqFz/X38XA/4rkp/2OGcWq5c4LMs3AwZrWlVe1N0n8p/Es3qrn7rVcnsDoW8DGEXalvujixXR6kdlzxoId1siNGc1185GyyTMxJiKiTKLOmUJsxL8HVDqNkLHBjEgGTOynd0APr76XSJcmTaY3XnEsnOm0MSBO716ZdkDHcVCZSZd1lssom/olfkGrJoyib45+qUMW8s8ru+0wTzicXbb3oASgWScmI0pXcN3xrcb066AcXf5TpFKq2p7FqjW+N349Ubgd4JsY6sZTepVmVY4J42/WNIRhOwTWzpkimoAq7GPucJr6AcT+pT4bpKUGE1AFeCEPX2lLOb5Y4z5tReymtgwNQHLj8zzWVGQv+LmIsyig9efstft9/4BCbeSGxgLiA==;hBb2g26SogNimzSaOHvQDQ=="
 ---

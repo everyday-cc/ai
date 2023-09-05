@@ -59,6 +59,22 @@ related:
         width: 1019
         height: 573
         isCached: true
+  - title: "The cofounder of Google's AI division DeepMind says everybody will have their own AI-powered 'chief of staff' over the next five years"
+    excerpt: "Mustafa Suleyman said AI will \"intimately know your personal information\" and be able to serve you 24-7."
+    publishedDateTime: 2023-09-05T17:15:00Z
+    webUrl: "https://www.businessinsider.com/google-deepmind-cofounder-mustafa-suleyman-everyone-will-have-ai-assistant-2023-9"
+    ampWebUrl: "https://www.businessinsider.com/google-deepmind-cofounder-mustafa-suleyman-everyone-will-have-ai-assistant-2023-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-deepmind-cofounder-mustafa-suleyman-everyone-will-have-ai-assistant-2023-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: "https://i.insider.com/64f757c47819260019117624?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "‘I hope I’m wrong’: the co-founder of DeepMind on how AI threatens to reshape life as we know it"
     excerpt: "From synthetic organisms to killer drones, Mustafa Suleyman talks about the mind-blowing potential of artificial intelligence, and how we can still avoid catastrophe"
     publishedDateTime: 2023-09-02T07:00:00Z
@@ -191,6 +207,6 @@ related:
         height: 800
         isCached: true
 
-secured: "L2SsmCgRicI8ra2WExOV1D6eLaBAJ3NpZZ6oj5NEL8Up8C20LlhYOaMJ4cOhUz/2qh3AoGFRgtptY/o/j0/MtTvAMvjpSH3oXJummvy0sFZczbJgSaM8jZg4ukdbTPl6iX9/ljCDLGWgLEdwXu+0YY5EZR0dR99KWvB60B0lj+pgYSDPQwpgAIgF5ZmO163Hg60pmt4rpGYqw0Cx4yu0ZbUfv63GNk5VDydfePqbvWndS/7WmYZwwd/jUQzwbP0uZ/IV4fTSRIbmFE37st7Pd2VDiZDyHErN6EZlmNfU0et43syJ0XZYuyYFuXQKvqwTI/hrBpeUyvIQwBOa89NwJYa+eNiir23dHxP4FwUHs5M=;2cAEIFHNJIlgBzR0mm5Atg=="
+secured: "jE7Qvc+njXSrsl2HnxYRIGqeXlSikbwedGEKSwiUQjBuhGYAgIuv4OzV8tAgWzFWnAhN/LgdwGsUwrX+EbFk0esyQIJZTieTh38laG3Rl2bsBIyq9ERRUflg3TAFLvET3jxhpfC70P0VlBG1a0Y6qdfZ/FIY+JH7YLieQBz4e4obEYvSv5tNKoweiTtUvhG04mJ4LgxuNGswzybxcPMeHslrlexjfQIrahW5YIhWLbYxIZMZJDH/YMVoM6OZh4K31WholYOywfHkOnroDOprKG47pPFLH7v4ObvbXIMT5oeTa9gPZcM0h8S8VD0ZvcjCLEaa0vNY0C6HAjZLx4I/GBfkfcvo8PQyf6V74Oe3HIbrypRmvCc6FxVy/j4Wk8s4uKfgMvSbAoFP1i0uou8AMgZnccwk5JbiPcUJrmttOh5OurIjeTAyoJQkYqJeCFSO1wp7YJUjopKQ7QmwQYUa5oufLrd/d9FMd8e8KXMMKMWco51ZNBIMhoKSuQsKJZCoTnb6WYfcmKLp2fEjXkQtIg==;wyr0Hhz2F+uSgGZz4gLgdw=="
 ---
 

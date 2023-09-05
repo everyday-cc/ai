@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-09-seismologists-deep-earthquakes.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-seismologists-deep-earthquakes.amp"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-103313933,width-1070,height-580,imgsize-18314,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         width: 1069
         height: 580
-        isCached: true
-  - title: "Seismologists use deep learning to forecast earthquakes"
-    excerpt: "A team of researchers at UC Santa Cruz and the Technical University of Munich created a new model that uses deep learning to forecast aftershocks."
-    publishedDateTime: 2023-08-31T23:35:00Z
-    webUrl: "https://news.ucsc.edu/2023/08/deep-learning-earthquakes.html"
-    type: article
-    provider:
-      name: news.ucsc
-      domain: ucsc.edu
-    quality: 39
-    images:
-      - url: "https://news.ucsc.edu/2022/07/images/emily-brodsky-350.jpg"
-        width: 350
-        height: 393
         isCached: true
   - title: "Seismologists use deep learning for improved earthquake forecasting"
     excerpt: "A team of researchers at UC Santa Cruz and the Technical University of Munich created a new model that uses deep learning to better forecast earthquake aftershocks."
