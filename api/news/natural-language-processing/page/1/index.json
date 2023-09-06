@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-06-top-10-conversational-ai-platforms-2023.md",
+      "title": "Top 10 Conversational AI Platforms 2023",
+      "excerpt": "$0.00075 per text request Built on deep learning, machine learning, and natural language processing (NLP) models, the IBM Watson Assistant conversational AI platform enables your teams to build AI-powered voice agents and chatbots that deliver automated ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/artificial-intelligence/conversational-ai-platforms/",
+      "originalUrl": "https://www.eweek.com/artificial-intelligence/conversational-ai-platforms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2023/08/ew08292023-conversational-ai-platforms.png",
+          "width": 1400,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-05T15:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-09-05-what-ctos-are-learning-from-generative-ai.md",
       "title": "What CTOs are learning from generative AI",
       "excerpt": "These tools use machine learning algorithms and natural language processing (NLP) to help developers automate some aspects of coding. “AI-generated coding enables developers to work on more creative and fulfilling tasks,” Rotar says. “By spending ...",
@@ -10,7 +63,7 @@
       "originalUrl": "https://www.infoworld.com/article/3705048/what-ctos-are-learning-from-generative-ai.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 183,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -1341,40 +1394,6 @@
       "provider": {
         "name": "The Indian Express",
         "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-this-ai-expert-left-meta-to-lead-cmus-language-technologies-institute.md",
-      "title": "This AI expert left Meta to lead CMU’s Language Technologies Institute",
-      "excerpt": "\"We are at an inflection point for this technology and the discipline as a whole,\" Mona Diab said. \"It is a critical time to take into account its impact and sustainability.\"",
-      "sourceUrl": null,
-      "webUrl": "https://technical.ly/professional-development/mona-diab-ai-meta-cmu-language-technologies-institute/",
-      "originalUrl": "https://technical.ly/professional-development/mona-diab-ai-meta-cmu-language-technologies-institute/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-23T15:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Technical",
-        "domain": "technical.ly",
         "images": null,
         "publishers": null,
         "authors": null

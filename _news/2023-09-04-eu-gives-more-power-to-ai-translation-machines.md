@@ -28,16 +28,16 @@ images:
 
 related:
   - title: "With AI, future of hearing aids might include language translation"
-    excerpt: "A Minneapolis-based company uses AI to give hearing aids advanced features like real-time language translation, fall detection and alerts."
-    publishedDateTime: 2023-09-05T21:31:00Z
-    webUrl: "https://www.fox13now.com/with-ai-future-of-hearing-aids-might-include-language-translation"
+    excerpt: "We hear a lot of headlines about concerns over artificial intelligence and what it might mean for the future. But it's not all bad: Consider hearing loss.Friendly AI could be"
+    publishedDateTime: 2023-09-05T18:32:00Z
+    webUrl: "https://www.djournal.com/news/national/with-ai-future-of-hearing-aids-might-include-language-translation/video_9e5519be-2dbf-53fc-b29e-9b55cab042d8.html"
     type: article
     provider:
-      name: fox13now
-      domain: fox13now.com
-    quality: 37
+      name: Daily Journal
+      domain: djournal.com
+    quality: 39
     images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/76e0068/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1693937408_zqbECF.jpg"
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/9/e5/9e5519be-2dbf-53fc-b29e-9b55cab042d8/64f77e3bf228f.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

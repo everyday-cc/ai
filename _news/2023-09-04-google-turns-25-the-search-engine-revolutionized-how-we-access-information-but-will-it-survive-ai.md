@@ -25,6 +25,17 @@ images:
     height: 668
     isCached: true
 
+related:
+  - title: "Google's search for an AI future as it turns 25"
+    excerpt: "Google turns 25 this month (I'll have a few more candles on my cake) - and finds itself in a tech landscape that has changed dramatically since founders Larry Page and Sergey Brin started it in 1998."
+    publishedDateTime: 2023-09-03T09:11:00Z
+    webUrl: "https://www.daily-sun.com/post/710063/Googles-search-for-an-AI-future-as-it-turns-25"
+    type: article
+    provider:
+      name: Daily Sun
+      domain: daily-sun.com
+    quality: 19
+
 secured: "OEU22HxdvcLLV1A67JKYq6Dc6U+ezgNd0Gxu0m7MO/eCwHZA2B5HUjfDxcWG2yfRnxO/KDDMoryCCd7FnoUbKnv1H1+hMD6ODISsanm+F+x4Db5AlK4JIR3YP8aJRxQlqqTZJb1tic2bRsYf+47ZOr/kFSPq8JlNrO0UovYWK1krD1XFoKKuOEXgo2m10UzWXHhb4PJkG2FJuLgUohCufO/XfCeMC84G0ZeMdMYM1VYqzTsgY0cRyb/JQujLPgpZMNsQK/bF1+t9CT8zzEFH5xpE5UI9Dam1inRgfZZ0Fg7N4MDDgKxlzIJ3aNE7s0z7hyVYYXQPZqRbgqhTgf2rxiMfLKgOQsa9XYJ691HV7cI=;dUzGoFAsf9H8TlW35st9GA=="
 ---
 

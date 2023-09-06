@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-09-brain-inspired-algorithm-metapla
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-brain-inspired-algorithm-metaplasticity-artificial-spiking.amp"
 type: article
 quality: 60
-heat: 70
+heat: 71
 published: true
 
 provider:

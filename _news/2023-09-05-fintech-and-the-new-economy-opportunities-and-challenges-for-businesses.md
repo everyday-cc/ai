@@ -24,17 +24,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "U.S. Sets Bioeconomy Goals and Confronts Data Challenges"
-    excerpt: "Seqera Labs suggests that the healthcare-related goals in a new OSTP report should prompt greater appreciation of data sharing."
-    publishedDateTime: 2023-09-01T07:03:00Z
-    webUrl: "https://www.genengnews.com/insights/u-s-sets-bioeconomy-goals-and-confronts-data-challenges/"
-    type: article
-    provider:
-      name: GEN
-      domain: genengnews.com
-    quality: 4
-
 secured: "ZCMANZ5p4SvvwvEky2E7bly2h6vnWawDU1jhtuXo7kL0JKSNfDSe1zSNFQsRygWeFUuB8nPW1PLnj5VZ5o4dwRsCg2Lsny8f630SkC5QRh9i718+P9J9hntpps/8PMUHSIwJa25VckNrQSwqQ0x+zwBaQlBXkZ/mu3doJG1W6TSloVZF6T85MLofAM47Ubpy7uUSvSGZimpbUGqTpGgnHT3MVwQBvEFIp+eeE6r3QnhaFjfZu0TsstZnbJjNsZN/kE5Bjz4qQBjvaATzWyIpwSeKdiSsWXXOYbsJmXQ8Lqazx7nMg/Swkfd+jzY/jGQC+RXDTxNMcOxE+Jaca+4/8PomKlHzwctElmewi6yAxD/Timr6Um4R7Djw8D05+ug9GsxK3qYiwyhCBOuM9unmUOqtz/e1YNLCdUOXzRyYVVJTC0Ff9UF3VJlCZaDjZ0onOjj7giBoP/2zF2AZflzYgsnlGGcNlGdgI+ZyYLIfTfvF3WGHSTVGxvemO+SU55kVfOOOqUC9nECsFx6/EKuegQ==;M7bBVxWmf5lqfUTb8FNvRw=="
 ---
 

@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Morgan Stanley names this tech stock a top pick, says AI server demand could boost it by nearly 25%"
-    excerpt: "Growing demand for artificial intelligence servers should boost shares of Dell Technologies over the long haul, according to Morgan Stanley. Analyst Erik Woodring named Dell a top pick within the IT hardware space,"
-    publishedDateTime: 2023-09-01T08:03:00Z
-    webUrl: "https://www.cnbc.com/2023/09/01/ai-server-demand-could-boost-this-stock-nearly-25percent-morgan-stanley-says.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 53
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/105927659-1558537836009gettyimages-181792558.jpeg?v=1693562613&w=1920&h=1080"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Insilico Medicine Presents at Morgan Stanley Healthcare Conferences (IMAGE)"
     excerpt: "Insilico Medicine founder and CEO Alex Zhavoronkov, PhD, will present Sept. 12, 8:50 am ET as part of the Morgan Stanley 21st Annual Global Healthcare Conference at Sheraton New York. Insilico co-founder and President Alex Aliper,"
     publishedDateTime: 2023-09-05T15:00:00Z

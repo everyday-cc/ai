@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/multimedia/997384"
 webUrl: "https://www.eurekalert.org/multimedia/997384"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Morgan Stanley names this tech stock a top pick, says AI server demand could boost it by nearly 25%"
-    excerpt: "Growing demand for artificial intelligence servers should boost shares of Dell Technologies over the long haul, according to Morgan Stanley. Analyst Erik Woodring named Dell a top pick within the IT hardware space,"
-    publishedDateTime: 2023-09-01T08:03:00Z
-    webUrl: "https://www.cnbc.com/2023/09/01/ai-server-demand-could-boost-this-stock-nearly-25percent-morgan-stanley-says.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 53
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/105927659-1558537836009gettyimages-181792558.jpeg?v=1693562613&w=1920&h=1080"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Larger healthcare companies hold AI advantage, Morgan Stanley says"
     excerpt: "AI, with budgets expected to increase from 5.7% to 10.5% by 2024. Research shows that only 24% of medical devices use"
     publishedDateTime: 2023-09-05T18:12:00Z

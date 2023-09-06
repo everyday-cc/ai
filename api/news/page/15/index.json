@@ -2,6 +2,40 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-08-23-research-suggests-cognitive-ability-associated-with-more-controlled-emotional-response.md",
+      "title": "Research Suggests Cognitive Ability Associated With More Controlled Emotional Response",
+      "excerpt": "PsyPost reports that new research suggests that people with high cognitive ability display slower and less intense emotional peaks compared to people with lower cognitive abilities.",
+      "sourceUrl": null,
+      "webUrl": "https://greensboro.com/life-entertainment/nation-world/research-suggests-cognitive-ability-associated-with-more-controlled-emotional-response/video_3eb88f98-174c-552e-8dcc-ca8a0f79e827.html",
+      "originalUrl": "https://greensboro.com/life-entertainment/nation-world/research-suggests-cognitive-ability-associated-with-more-controlled-emotional-response/video_3eb88f98-174c-552e-8dcc-ca8a0f79e827.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-23T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News & Record",
+        "domain": "greensboro.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-23-nvidias-earnings-wednesday-will-be-a-big-test-for-ai-bulls.md",
       "title": "Nvidia's earnings Wednesday will be a big test for AI bulls",
       "excerpt": "Nvidia reports second-quarter earnings on Wednesday against a backdrop of elevated expectations driven by a surge of interest in artificial intelligence.",
@@ -1116,49 +1150,6 @@
       "provider": {
         "name": "The Daily Telegraph",
         "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-ai-software-roped-in-to-translate-mbbs-textbooks.md",
-      "title": "AI software roped in to translate MBBS textbooks",
-      "excerpt": "Indore: Medical education department is using an open-source artificial intelligence (AI) software tool for transliteration of all textbooks of MBBS c.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/indore/ai-software-roped-in-to-translate-mbbs-textbooks/articleshow/102962341.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/indore/ai-software-roped-in-to-translate-mbbs-textbooks/articleshow/102962341.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1070,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/indore/ai-software-roped-in-to-translate-mbbs-textbooks/amp_articleshow/102962341.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/indore/ai-software-roped-in-to-translate-mbbs-textbooks/amp_articleshow/102962341.cms",
-      "publishedDateTime": "2023-08-22T20:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null

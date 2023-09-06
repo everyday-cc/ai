@@ -1,24 +1,25 @@
 ---
 category: news
 title: "With AI, future of hearing aids might include language translation"
-excerpt: "A Minneapolis-based company uses AI to give hearing aids advanced features like real-time language translation, fall detection and alerts."
-publishedDateTime: 2023-09-05T21:31:00Z
-originalUrl: "https://www.fox13now.com/with-ai-future-of-hearing-aids-might-include-language-translation"
-webUrl: "https://www.fox13now.com/with-ai-future-of-hearing-aids-might-include-language-translation"
+excerpt: "We hear a lot of headlines about concerns over artificial intelligence and what it might mean for the future. But it's not all bad: Consider hearing loss.Friendly AI could be"
+publishedDateTime: 2023-09-05T18:32:00Z
+originalUrl: "https://www.djournal.com/news/national/with-ai-future-of-hearing-aids-might-include-language-translation/video_9e5519be-2dbf-53fc-b29e-9b55cab042d8.html"
+webUrl: "https://www.djournal.com/news/national/with-ai-future-of-hearing-aids-might-include-language-translation/video_9e5519be-2dbf-53fc-b29e-9b55cab042d8.html"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: fox13now
-  domain: fox13now.com
+  name: Daily Journal
+  domain: djournal.com
 
 topics:
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://ewscripps.brightspotcdn.com/dims4/default/76e0068/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1693937408_zqbECF.jpg"
+  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/9/e5/9e5519be-2dbf-53fc-b29e-9b55cab042d8/64f77e3bf228f.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -41,6 +42,6 @@ related:
         height: 630
         isCached: true
 
-secured: "TKDVnpkirYtpNJq6tj2i+mO3PAWbdX+/Oc4k6h2zAeBwPcACJc3QbLh0XYqJ+vcVjmbBCFPgNziNK0/9KqqDbkEOptofGxcZ9vrI+lVvShjc/dcERT+yPxJY15p2oEz4xSNpIxRVzKv6XWWWxrl25GnWuuw2t/yAAmkLDkKUYEgkxMstEcjJo5Yv/KbKME4zN0Jeo26gxhTyK7UXLX+0fMXueKLHbD3O4Z58GNMun2vDIUb1ly5w4/s3Sv4X4k8fvmwOn4zWfH+JHLw6CzH5qQGPmqrrMZ8oOtYYIRctZCJBxZFuu43yRiI+jXKCnveiSoKIaPTp5qVlaiw2vIRkJx2E0ZpuhJipJAd6yr8hLa0=;l3xo/el9g2YFdk1TOp1NQQ=="
+secured: "LgHIPbwiOEtJ4iF6kbjri3LTQLHsAbQwNfnzJfZdyjw3HJy/XcGKyspBi4tt5IZdoZTWRP4XVbEKl0UvCUUTV6f06QhSG2gz0USLxs8xyogaVh+MAGepo+seVZa200MwWbXNQtNwrYTCOwZLYoDMNpE1vRIJmDZ89j/bDF1STrT2Z9qV3BUEkZlC12qq4eQf1cVZmaMNxmpcnqpJt7rUSWjf6O03TR8umXI6Z/tL6tXmVZnpsCkOgAYzn83XJ1oJv3Am2Ih3/9eaDtmTdbsGe4P8Xae8GJWxoB/zNphoiirfl1DaqpY3e7PPuedrRKmJ3qljYl0gEk/yj08XRAg5fzusOIFnvOQN6n9PuPvdm18=;PaJTRst47MHzDsyz6y4eNw=="
 ---
 

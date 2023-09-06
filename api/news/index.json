@@ -10,7 +10,7 @@
       "originalUrl": "https://www.cnet.com/tech/services-and-software/zoom-announces-new-ai-companion-features/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -113,7 +113,7 @@
       "originalUrl": "https://www.eweek.com/artificial-intelligence/conversational-ai-platforms/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -153,7 +153,8 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -165,7 +166,7 @@
       "originalUrl": "https://www.nasdaq.com/videos/advancing-ai-in-various-industries-like-healthcare-energy-and-climate",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1098,7 +1099,7 @@
       "originalUrl": "https://www.infoworld.com/article/3705048/what-ctos-are-learning-from-generative-ai.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 183,
+      "heat": 195,
       "tags": null,
       "images": [
         {

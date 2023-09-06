@@ -6,8 +6,8 @@ publishedDateTime: 2023-09-05T22:15:00Z
 originalUrl: "https://www.eweek.com/artificial-intelligence/conversational-ai-platforms/"
 webUrl: "https://www.eweek.com/artificial-intelligence/conversational-ai-platforms/"
 type: article
-quality: 69
-heat: 79
+quality: 71
+heat: 81
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.eweek.com/wp-content/uploads/2023/08/ew08292023-conversational-ai-platforms.png"

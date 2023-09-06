@@ -128,6 +128,20 @@ related:
         width: 768
         height: 432
         isCached: true
+  - title: "Meet AI Builder Club: The free short residency program for Australian AI startups"
+    excerpt: "Meet the AI Builder Club, a free residency program for Australian enthusiasts to build their own AI projects with expert mentorship."
+    publishedDateTime: 2023-09-06T01:45:00Z
+    webUrl: "https://www.smartcompany.com.au/technology/artificial-intelligence/ai-builder-club-free-residency-program-australia/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 34
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2023/09/ai-builder-club.jpg?resize=1200,630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice referendum: John Farnham's iconic song now the soundtrack of Yes campaign ad"
     excerpt: "Federal Opposition Leader Peter Dutton says he'll hold another referendum if the vote to enshrine an Indigenous Voice to Parliament in the constitution fails. The promise comes as the Yes campaign secures the support of Australian music-legend John Farnham – and the use of his song You’re the"
     publishedDateTime: 2023-09-04T05:01:00Z

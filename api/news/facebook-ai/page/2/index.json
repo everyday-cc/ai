@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-10-chart-ai-stocks-enter-correction-territory.md",
+      "title": "CHART: AI stocks enter correction territory",
+      "excerpt": "AI hype drove huge gains among some tech stocks in the first half of 2023. Lately, that has gone into reverse.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-stocks-enter-correction-territory-chart-analysis-2023-8",
+      "originalUrl": "https://www.businessinsider.com/ai-stocks-enter-correction-territory-chart-analysis-2023-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64d434014dd2b50019c27314?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-stocks-enter-correction-territory-chart-analysis-2023-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-stocks-enter-correction-territory-chart-analysis-2023-8?amp",
+      "publishedDateTime": "2023-08-10T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-10-to-navigate-the-age-of-ai-the-world-needs-a-new-turing-test.md",
       "title": "To Navigate the Age of AI, the World Needs a New Turing Test",
       "excerpt": "There was a time in the not too distant past—say, nine months ago—when the Turing test seemed like a pretty stringent detector of machine intelligence. Chances are you’re familiar with how it works: Human judges hold text conversations with two hidden interlocutors,",

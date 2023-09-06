@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/tech/services-and-software/zoom-announces-new
 webUrl: "https://www.cnet.com/tech/services-and-software/zoom-announces-new-ai-companion-features/"
 type: article
 quality: 67
-heat: 77
+heat: 78
 published: true
 
 provider:
@@ -38,6 +38,6 @@ related:
       domain: pcmag.com
     quality: 47
 
-secured: "S0hffFmj8fEGbaN+Q35a5CTegXj51EKFR7d9Dy11xvRH2kCki704JHQCG6ksTHGVgZkDEgpyyrj7rAgylVkWaVtkT4y148QrKaxC4JNUgYepSlck+6fb2eQo5PFAGNvYgBFSZ7hIQVdpryAA3uGi1h0fU5AhfGvFFcy3thfjZ4QUmH2pQuhZJLjq7HYIym++C7tntUULEbBy/cCbfbz9SyXP+SgHSpatRhmMuVLlm/TFvd9y0FCDhqZvujDF6RtoqWdsYw3pxD3IMtFf64u7VXTB9vhPt4MEpIULdxSj8jmUwC6CDVHrSOLGdwNNiSWL9E1ZAB01TwydJTzf8ulZohXLchg6rUrGYPoSOCGiND0=;ixJO/6cBnu55SrDxzDzVhg=="
+secured: "Pe4drNblOoPVs0+hLEzniFqdknWiR+OeJ0wty10UPe2mnR4jiGuZ8A+1dYyBBJOiTMV3J8/F84xXSlkJEW+R435lZ/YKoUS0I2zoc+9kG1WE+HvzEu3CjrdlgEBss7aAA2gz/LDzMKfZVO73o6RmLUfhLlhek2v0Orpi67tBwJdJdjM9hRPYIKsKvXVF5Pv5+zk2s8X/uEAvoQA1/IbEnDkFrQSC6u143Lz3N6VJ7jXTTr3YopE3piS82/TaBg/bh9n+WSYEFQQBavqgaJXM5wR69xPps2d3kj8kj5tLcGyDVGasLLR3myPeQtuMigizwnnmPC540IVAuETdf5aUryrSGBQfMV3O5jZFTJOT0sFv+jFY15YVaAHfbSBdPOSEEZH/Tfza0WY8KpHIX3+LCHqszdciH7C+QP6xGumMlL/CHcqkDEBnVE0ryvS4BAVQhKs+d1cyuW/9UQ1xECgHaVOq+QV+jmKfYxA7RPs+D4iqPm9hmHKWjOY3FWaISPohO1WQrvL8+DK2SyNOZCCIMQ==;Xryh0xbIgrksO46QAOMXdw=="
 ---
 

@@ -34,7 +34,7 @@ related:
     provider:
       name: eWeek
       domain: eweek.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://www.eweek.com/wp-content/uploads/2023/08/ew08292023-conversational-ai-platforms.png"
         width: 1400

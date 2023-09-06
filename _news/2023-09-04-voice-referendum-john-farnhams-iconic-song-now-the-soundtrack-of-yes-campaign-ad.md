@@ -128,6 +128,20 @@ related:
         width: 768
         height: 432
         isCached: true
+  - title: "Meet AI Builder Club: The free short residency program for Australian AI startups"
+    excerpt: "Meet the AI Builder Club, a free residency program for Australian enthusiasts to build their own AI projects with expert mentorship."
+    publishedDateTime: 2023-09-06T01:45:00Z
+    webUrl: "https://www.smartcompany.com.au/technology/artificial-intelligence/ai-builder-club-free-residency-program-australia/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 34
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2023/09/ai-builder-club.jpg?resize=1200,630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Voice Referendum in regional Australia"
     excerpt: "With a date now set for the Indigenous Voice to Parliament referendum, the debate over Australia's future is heading out of Canberra and to the regions. SBS travelled to Orange in the New South Wales Central Tablelands to find out what people there are thinking."
     publishedDateTime: 2023-09-02T21:31:00Z

@@ -446,6 +446,48 @@
       ]
     },
     {
+      "path": "_news/2023-09-01-how-the-gc-of-a-startup-building-harmless-ai-balances-risks-rewards.md",
+      "title": "How the GC of a Startup Building 'Harmless' AI Balances Risks, Rewards",
+      "excerpt": "It’s a surprisingly full time job at times . . . to really deeply understand where we're willing to tolerate more risk in service of our mission and where we're more sensitive to risk, Anthropic AI legal chief Brian Israel said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.law.com/therecorder/2023/08/30/how-the-gc-of-a-startup-building-harmless-ai-balances-risks-rewards/",
+      "originalUrl": "https://www.law.com/therecorder/2023/08/30/how-the-gc-of-a-startup-building-harmless-ai-balances-risks-rewards/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.law.com/contrib/content/uploads/sites/390/2023/08/Risk-Investment-767x633.jpg",
+          "width": 767,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-31T16:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law",
+        "domain": "law.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-01-ai-fever-turns-anguillas-ai-domain-into-a-digital-gold-mine.md",
       "title": "AI fever turns Anguilla’s “.ai” domain into a digital gold mine",
       "excerpt": "AI these days, but with a total land area of 35 square miles and a population of 15,753, Anguilla isn't complaining. Registrars like GoDaddy must pay Anguilla a fixed price—$140 for a two-year registration—and the prices are rising due to demand.",
@@ -1178,58 +1220,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-elon-mode-fsd-secret-full-self-driving-mode-leaves-authorities-despairing.md",
-      "title": "Elon Mode FSD: Secret Full-Self Driving Mode Leaves Authorities Despairing",
-      "excerpt": "Tesla might be about to face the music on its self-driving technology after a secret so-called ‘Elon mode’ that removes a critical safety feature was discovered.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/08/31/elon-mode-fsd-secret-full-self-driving-mode-leaves-authorities-despairing/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/08/31/elon-mode-fsd-secret-full-self-driving-mode-leaves-authorities-despairing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64f0a85572baaac8eeeeedf7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 834,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/08/31/elon-mode-fsd-secret-full-self-driving-mode-leaves-authorities-despairing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/08/31/elon-mode-fsd-secret-full-self-driving-mode-leaves-authorities-despairing/amp/",
-      "publishedDateTime": "2023-08-31T07:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
