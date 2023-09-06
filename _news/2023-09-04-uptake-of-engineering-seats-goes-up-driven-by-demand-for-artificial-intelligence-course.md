@@ -25,6 +25,22 @@ images:
     height: 800
     isCached: true
 
+related:
+  - title: "AI's business opportunities drive computing demand"
+    excerpt: "The semiconductor manufacturing industry, which constantly pursues ultimate performance, small form factors, and minimal power consumption, has been continuously refining various technologies in recent years."
+    publishedDateTime: 2023-09-06T08:20:00Z
+    webUrl: "https://www.digitimes.com/news/a20230901PR201/ai-demand-business-press-release.html&chid=9"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230901pr201_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
+
 secured: "dITeGWLM8i2amXQF0wcNoG22csP8fiBBR65ggCmGrx2iFgknGuhQV9irxI6sfYkYCO/QdSp8Bh0wIFqPM02Sr4inl5YnfbfjXW1/PZfZDaDvXr32gcdWDI8Yk0qFPA0QNggjxevzij+cLWm6MNoCuF30jfQenw3ZwEIlyIPmMTnwnjdIV4L0voNF1UXUYqyd4Awlc+KuCjE+Tu8Tpo4SPUF+PyP1hR61hUcbnZYqqrTI4YKNZbwJH3X7siPtUeYISctuCCMb3w6wSOUXH5tL7k0SkubVAzX+uoRfQKoOywY2kbtGy8ExYm6JDTwGYWKJB/L12/uwkbpyVKAih1Vw+BuZZnIRjouUkhw4vuj+/PA=;JNoAxD4W89+hCeZZYsa6vQ=="
 ---
 

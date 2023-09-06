@@ -19,20 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "FMOps/LLMOps: Operationalize generative AI and differences with MLOps"
-    excerpt: "Nowadays, the majority of our customers is excited about large language models (LLMs) and thinking how generative AI could transform their business. However, bringing such solutions and models to the business-as-usual operations is not an easy task. In this post, we discuss how to operationalize generative"
-    publishedDateTime: 2023-09-01T15:33:46Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/fmops-llmops-operationalize-generative-ai-and-differences-with-mlops/"
+  - title: "Nation sets impressive pace on AI applications"
+    excerpt: "Chinese enterprises are at a crucial stage of making breakthroughs in generative AI, and should invest more in building exclusive AI models that are more efficient and offer tailored and precise services to users, the experts said. They also emphasized the importance of safeguarding core and sensitive data and user privacy from potential leaks."
+    publishedDateTime: 2023-09-04T01:24:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202309/04/WS64f510d9a310d2dce4bb3a58.html"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/01/featured-images-ML-14962-1120x630.jpg"
-        width: 1120
-        height: 630
+      - url: "http://img2.chinadaily.com.cn/images/202309/04/64f5314da310d2dc6d27309c.jpeg"
+        width: 542
+        height: 361
         isCached: true
+  - title: "AI’s impact on education: Delaware professors reflect on its disruptive power, and its potential"
+    excerpt: "Professors and students weigh in on fears that ChatGPT will diminish student’s ability to think critically and hinder the process of education."
+    publishedDateTime: 2023-09-05T12:29:00Z
+    webUrl: "https://whyy.org/articles/delaware-professors-artificial-intelligence-higher-ed-chatgpt/"
+    type: article
+    provider:
+      name: WHYY
+      domain: whyy.org
+    quality: 23
 
 secured: "KvBZ33kbb+fDgZJl4CdN4qj4nAaQMWSyqfw3MOZX8hvyb8rNO7Mi/jnzKa8Mhkup84Hfnqm1POFAdXOmTQiiKkOP6qw2Zpj0LgkUJory1CrYq8O45hyP6AnYruTnqULaoxiV47QtMR9QSbnoXaJ0tejwEus5WfWQT7vKAKCsLXbyi2bY0utT2hVqYQ5kuCELfo13Y7w1acTI37SghQyAnB+/c3qCwuKhN0JYopDWk0JnANI4KiPI5K57v+Se5P8LR8O6cBsj8zy6GGsxqi6BY6hD0SgvSLhSgObLXgWU6fFLAM5yz8DQiZQawkzKw9GD2kz9b/dKykYRRQajFhcwaonOejE2nBFTBUi1UQrhwMo=;KQpTOjP9xULTTUa5Dnghvg=="
 ---

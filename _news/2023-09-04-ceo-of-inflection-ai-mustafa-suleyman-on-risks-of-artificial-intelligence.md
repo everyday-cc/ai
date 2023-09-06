@@ -18,6 +18,15 @@ topics:
   - AI
 
 related:
+  - title: "AI pioneer Mustafa Suleyman: AI needs a \"containment\" plan"
+    excerpt: "DeepMind co-founder Mustafa Suleyman — now CEO of Inflection AI — is on a mission to convince Silicon Valley and Washington that powerful AI systems should be licensed by government to ensure the survival of humanity. Why it matters: AI needs to be \"contained,\" Suleyman argues, lest it slip free from human control."
+    publishedDateTime: 2023-09-06T09:30:00Z
+    webUrl: "https://www.axios.com/2023/09/06/mustafa-suleyman-ai-containment-plan"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 19
   - title: "Inflection AI co-founder Mustafa Suleyman: ‘Ban the use of AI in elections–right now’"
     excerpt: "Free and fair elections are the foundation of American society–and next year’s are going to be the first of the generative AI era."
     publishedDateTime: 2023-09-05T19:33:00Z

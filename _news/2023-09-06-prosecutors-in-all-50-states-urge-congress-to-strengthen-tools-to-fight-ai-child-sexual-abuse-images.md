@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/article/ai-child-pornography-attorneys-general-
 webUrl: "https://apnews.com/article/ai-child-pornography-attorneys-general-bc7f9384d469b061d603d6ba9748f38a"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     height: 810
     isCached: true
 
-related:
-  - title: "Prosecutors in all 50 states urge Congress to strengthen tools to fight AI child sexual abuse images"
-    excerpt: "The top prosecutors in all 50 states are calling on Congress to study how artificial intelligence can be used to exploit children through pornography, and come up with legislation to further guard aga"
-    publishedDateTime: 2023-09-05T14:06:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/prosecutors-50-states-urge-congress-strengthen-tools-fight-102928933"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/prosecutors-50-states-urge-congress-strengthen-tools-fight-102928933"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/prosecutors-50-states-urge-congress-strengthen-tools-fight-102928933"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 42
-    images:
-      - url: "https://s.abcnews.com/images/US/wirestory_bc7f9384d469b061d603d6ba9748f38a_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-
-secured: "J0Ys05rB2ovIteGEOVGpOSS4nvsBp+4YU1sDic0lRW8TKN11TDHfnhcnNV4ZtUr4W646rh/toB32rYmZyq4eVJT3DoyooMZWS8Hh3DFssYvCKAJLjQb8ZeCvENRgakPwEni1M3+tqKo09H9Zz+Df2hQXo2UoSKVWze9Oq4wfMxezvQudoap0IU1Kt7W/Rk19YjrOJy80lpTvJtA5BhmN5w3FIw+dYIOot+lJvIIkXrpjYNR5+MOKQOqcszHdHE7tNxi2U2hAANdsjuFjO/wtyvIPmVJr5DVW3+0msK2NzeZso8PJ8WaFG2Z7S17dSUklGq+IyeMb5PMokmpvPGNUDBp2xLYDgu4VRayEayQ5144=;QVI/EXIK13p0H1TW9KNCBA=="
+secured: "ywOVaOwL/X2q7L72kqIQw/Uu5ZlfxXSkm1ryhAl/5gJAcfGnpAdrBKQO8ZKO+yGq3mZlWi1loIqZKPJsXOH6PdkQ/sOnrA5TeuSmZ5CoFW82/8taoBGYCbJRAkmqtDXz6+urmSFJyaSHn5kxM0JgR3DtGdykzy7lsv0X6LQnkMBsjk0hq+Mcws7YnY1GgWV/5GOgvFxDc/NeI/XBzJrc2E9pq8boZbFiP2tigudLO1x/KbU8SmcCBArS3jQmSYVKRiLUgFc4f5kizvzqBzzSw2Kj6zC/Epi63mGxoHLIFVoYsJgfQsIMlMv3nt17mcyCBP1jcAEpqmLIY77JLGkoI9KMXFSzlG+fkyrJibBZCzynG0oG34V7PdSsxJ8Z6aEDlwRfVowTybRHdP2ZqUpLumImt6QfGoAHRsNBdDAyoXvMISEixXIs+Tr65xnU3sW/O+bN37dMvoaDnMQkG33HxTnEvjzAGyJbUBa/R1D9dnlCoH+HieRN+qdUDU/hECkow5s71Kn2svef8sWmSZtKww==;xrRI8yr4zskvlQbiQmH5/Q=="
 ---
 

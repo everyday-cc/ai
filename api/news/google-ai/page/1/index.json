@@ -106,6 +106,51 @@
       ]
     },
     {
+      "path": "_news/2023-09-05-ten-minute-tensorflow-speech-recognition.md",
+      "title": "Ten Minute TensorFlow Speech Recognition",
+      "excerpt": "If you want to experiment with using it for speech recognition, you’ll want to check out [Silicon Valley Data Science’s] GitHub repository which promises you a fast setup for a speech ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2017/03/24/ten-minute-tensorflow-speech-recognition/",
+      "originalUrl": "https://hackaday.com/2017/03/24/ten-minute-tensorflow-speech-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2017/03/tensor1.gif",
+          "width": 800,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2023-09-01-google-deepmind-co-founder-wants-us-to-link-ai-chip-sales-to-minimum-artificial-intelligence-standards.md",
       "title": "Google DeepMind co-founder wants US to link AI chip sales to minimum artificial intelligence standards",
       "excerpt": "DeepMind's co-founder, Mustafa Suleyman, has called on the US government to enforce minimum standards for AI companies to be eligible to purchase Nvidia's AI chips. He believes that buyers should agree to ethically use the technology.",
@@ -1360,58 +1405,6 @@
       "ampWebUrl": "https://blog.google/around-the-globe/google-asia/new-ai-women-fund/amp/",
       "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-asia/new-ai-women-fund/amp/",
       "publishedDateTime": "2023-08-02T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-02-lab-sessions-a-new-series-of-experimental-ai-collaborations.md",
-      "title": "Lab Sessions: A new series of experimental AI collaborations",
-      "excerpt": "Lab Sessions is a series of experimental AI collaborations with everyone from artists to academics, scientists to students.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/lab-sessions/",
-      "originalUrl": "https://blog.google/technology/ai/lab-sessions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LabSessions_Endcard_Still.width-1300.jpg",
-          "width": 1300,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/lab-sessions/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/lab-sessions/amp/",
-      "publishedDateTime": "2023-08-02T09:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Google",

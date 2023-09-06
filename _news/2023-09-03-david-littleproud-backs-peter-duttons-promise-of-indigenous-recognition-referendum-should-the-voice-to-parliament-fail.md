@@ -282,15 +282,6 @@ related:
       name: The Lancet
       domain: thelancet.com
     quality: 4
-  - title: "Australia to vote on Indigenous Voice to Parliament referendum on October 14"
-    excerpt: "Australian Prime Minister Anthony Albanese announced Wednesday that Australians will vote on October 14 on whether to alter the Australian Constitution to recognize First Nations people by"
-    publishedDateTime: 2023-09-01T15:20:00Z
-    webUrl: "https://www.jurist.org/news/2023/09/australia-to-vote-on-indigenous-voice-to-parliament-referendum-on-october-14/"
-    type: article
-    provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 1
   - title: "Kim Beazley wants Australians to vote Yes for an Indigenous voice to parliament to show respect"
     excerpt: "Kim Beazley remembers Indigenous boys and girls forcibly separated from their parents coming to the family home in Perth for a meal in 1950s and 60s, and shaping his belief in the ­dignity, opportunities and rights that should be afforded to the First Australians."
     publishedDateTime: 2023-09-01T17:28:00Z

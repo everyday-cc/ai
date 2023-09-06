@@ -57,20 +57,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Elevating the generative AI experience: Introducing streaming support in Amazon SageMaker hosting"
-    excerpt: "We’re excited to announce the availability of response streaming through Amazon SageMaker real-time inference. Now you can continuously stream inference responses back to the client when using SageMaker real-time inference to help you build interactive experiences for generative AI applications such"
-    publishedDateTime: 2023-09-01T16:53:42Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/elevating-the-generative-ai-experience-introducing-streaming-support-in-amazon-sagemaker-hosting/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 91
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/31/featured-images-ML-15289-1120x630.jpg"
-        width: 1120
-        height: 630
-        isCached: true
 
 secured: "fYOhUUYgAQnpGpLt9smirmQaE8P0cHZLUVjRzpL5yrLAMv4PIVjGARgt2C/zygu2VOp6cYvL4RlvcxNakamNxTnYvDlwhbJMSbZRIwGIuVfe3J7/vn79TZLmyzQAatwOTTtp+tlR2VDzz4DM434G5Xb3rDcIbBaqohyAmasIzr7Lz5LZ/6yVjQXz0+tMfrg1UpsS8SgNZpQE5AD10ZKVW8kPsKaFNjc4UqQou1JUi/cPVavkt9li0jb2BAl+rOtWzg+e/qeaUir1KQHQ0Lh8pNw1cF2foYmFxRoOSaCgEcHghWqAcWC5eGWx5om9S3+sYDZQF75aaHvclgwO8geErxOUYy7ypU7mWGcHDBs/Cao=;LDXHOrzdwESQNwpACZKW5w=="
 ---

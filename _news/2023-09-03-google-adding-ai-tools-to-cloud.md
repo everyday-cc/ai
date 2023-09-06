@@ -25,15 +25,98 @@ images:
     isCached: true
 
 related:
-  - title: "Google Unveils New AI-Powered Cloud Technologies Taking On AWS And Azure"
-    excerpt: "At Cloud Next, Google unveiled AI strategies to rival AWS and Azure. New offerings include custom silicon and updated Vertex AI. Google targets AI-centric enterprises."
-    publishedDateTime: 2023-09-01T19:24:00Z
-    webUrl: "https://www.forbes.com/sites/stevendickens/2023/09/01/google-unveils-new-ai-powered-cloud-technologies-taking-on-aws-and-azure/"
+  - title: "How Google Cloud Is Leveraging Generative AI To Outsmart Competition"
+    excerpt: "It has a smaller 256-chip footprint per Pod, which is optimized for the state-of-the-art neural network architecture based on the transformer architecture."
+    publishedDateTime: 2023-09-04T11:49:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 80
+    quality: 91
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64f5bc845a7c3861341e8146/0x0.jpg?format=jpg&width=1200"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "Cash in or lose out: Banks are turning to AI, cloud computing, and Web3 to gain competitive advantage and customer loyalty"
+    excerpt: "Artificial intelligence, cloud tech, and Web3 are helping banks with their digital strategies for strengthening their brand and customer loyalty."
+    publishedDateTime: 2023-09-05T15:20:00Z
+    webUrl: "https://www.businessinsider.com/how-ai-cloud-technology-web3-metaverse-disrupting-banking-industry-2023-9"
+    ampWebUrl: "https://www.businessinsider.com/how-ai-cloud-technology-web3-metaverse-disrupting-banking-industry-2023-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-ai-cloud-technology-web3-metaverse-disrupting-banking-industry-2023-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
+    images:
+      - url: "https://i.insider.com/64f2142b1b7ced0019c6c709?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Google goes all in on the AI cloud"
+    excerpt: "Market landscape analysis: Players such as Snowflake Inc. and Databricks have effectively acted as the AI and data layer on platforms such as Amazon and Microsoft Azure, given these cloud platforms’ underwhelming data and AI capabilities. AWS seems ..."
+    publishedDateTime: 2023-09-02T15:37:00Z
+    webUrl: "https://siliconangle.com/2023/09/02/google-goes-ai-cloud/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Google-Cloud.jpeg"
+        width: 6948
+        height: 4634
+        isCached: true
+  - title: "How Generative AI Helps This $3.5 Billion Startup Grow Faster"
+    excerpt: "Launched in 2016 by former Tesla Chief Information Officer Jay Vijayan, Tekion employs roughly 3,000 people and has raised $451 million in venture capital - valuing the company at $3.5 billion the last time it raised capital in September 2021, according to Pitchbook."
+    publishedDateTime: 2023-09-06T07:31:00Z
+    webUrl: "https://www.inc.com/peter-cohan/how-generative-ai-helps-this-35-billion-startup-grow-faster.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1546442104_533537_djkh3r.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Don’t rush ethics in generative AI adoption plans"
+    excerpt: "Even when leaders feel the pressure to adopt generative AI quickly, ethical frameworks and use case policies should guide their plans."
+    publishedDateTime: 2023-09-05T12:58:00Z
+    webUrl: "https://www.ciodive.com/news/generative-AI-ethics-policy/692590/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 34
+  - title: "Ally partners with Microsoft to leverage generative artificial intelligence"
+    excerpt: "Banks have been leveraging traditional artificial intelligence for years in ways such as predicting market trends and optimizing investment. But generative AI can produce its own data content to increase productivity for financial firms. That has led Ally ..."
+    publishedDateTime: 2023-09-01T18:53:00Z
+    webUrl: "https://www.bizjournals.com/charlotte/inno/stories/news/2023/09/01/ally-bank-generative-ai-platform-launch-microsoft.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 32
+  - title: "IAA MOBILITY 2023 Talking not Typing: Continental and Google Cloud Equip Cars with Generative Artificial Intelligence"
+    excerpt: "Continental announced a partnership with Google Cloud during its press conference at the IAA MOBILITY 2023. Together, the two companies are equipping"
+    publishedDateTime: 2023-09-04T17:26:00Z
+    webUrl: "https://menafn.com/1107004164/IAA-MOBILITY-2023-Talking-not-Typing-Continental-and-Google-Cloud-Equip-Cars-with-Generative-Artificial-Intelligence"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 14
+    images:
+      - url: "https://menafn.com/updates/pr/2023-09/04/pr_12163_22a9c30d_image_story.jpg"
+        width: 4920
+        height: 3553
+        isCached: true
 
 secured: "huSCgSKgct00lbvuc9uy//r6deiDFj9YGUKLi4edoOg3jlFhBg6o04w+v/618EK8r5keR1Wz1sMgiAsxppl0GYmmh9P0Vuxw9+m7DBqUFBvd0TUFXJ3hZ4h7kDw27EUTmrtywxwdbPDxt7/XfmsXTWoV1sfDwk2zLz8rK1Hvu3D1xIQozbj+zvHswkPbOSy0NAOsAD8CLuj6ENAf0623aJUiFMkeeqdkJAGVBZ4pI++Co2BM3nQ0nhjyhb6kSUN0h1UwvaotEbNQRuj97O4JN+Di/dLXjZLDn5egH3hlE6TEFCIBqcMnFW2IFaZN1yv2pKwgavyaSFjUTSRZhkdJ+1V38BRAX1ni8dLeEzBeIYubOq3Bk64Jz5sgl3OQIYhBnaX0vWryu1bOViClJnWS/GYwIxLNmmzCOI6DtfMPTnFktXwIBPqVKY+0TCEL2YXdGhAi7xkfO8Ayz75qbnctVhMXob7mvlMayocEM9R7/x7DJ75kqmcP1XgdTEKKs46UjSx9Ql2kilCrRnVPBMFKLw==;YEkvFzaQhicJMdWSnqUmxw=="
 ---

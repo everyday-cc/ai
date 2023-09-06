@@ -38,19 +38,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Dell Stock Is Soaring. AI Is Helping"
-    excerpt: "Shares of Dell jumped Friday, rising more than 20% in recent trading. Street-beating quarterly per-share earnings and revenue, reported last night, helped, but enthusiasm about the outlook for AI-related business fanned the flames."
-    publishedDateTime: 2023-09-01T15:54:00Z
-    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-jobs-report-09-01-2023/card/dell-stock-is-soaring-ai-is-helping-y1NvIpFqWFkcAx2Grkl4"
+  - title: "Some CT schools are using artificial intelligence for student tutoring"
+    excerpt: "CT is partnering with tech company Varsity Tutors, which uses AI to connect students with tutors and design tutoring lesson plans."
+    publishedDateTime: 2023-09-06T09:00:00Z
+    webUrl: "https://ctmirror.org/2023/09/06/ct-schools-ai-artificial-intelligence-tutoring/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
+      name: The Connecticut Mirror
+      domain: ctmirror.org
+    quality: 39
     images:
-      - url: "https://images.wsj.net/im-845886?width=600"
-        width: 600
-        height: 800
+      - url: "https://ctmirror-images.s3.amazonaws.com/wp-content/uploads/2023/08/2023_0823_SR_AIinSchools_017_1-scaled.jpeg"
+        width: 2560
+        height: 1707
         isCached: true
   - title: "Explainable-AI Image Recognition achieves precise 3D descriptions of objects for US Air Force, a major AI breakthrough"
     excerpt: "Z Advanced Computing, Inc. (ZAC), the pioneer CognitiveExplainable-AI (Artificial Intelligence) (Cognitive XAIor CXAI) software startup, has developed the \"Describer\""

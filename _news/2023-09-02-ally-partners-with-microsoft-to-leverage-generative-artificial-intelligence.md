@@ -19,97 +19,103 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Microsoft Wants Us to Wear AI-Powered Backpacks"
-    excerpt: "Microsoft's latest idea for a wearable takes the form of an AI-powered backpack full of sensors."
-    publishedDateTime: 2023-09-01T15:25:00Z
-    webUrl: "https://www.pcmag.com/news/microsoft-wants-us-to-wear-ai-powered-backpacks"
+  - title: "How Google Cloud Is Leveraging Generative AI To Outsmart Competition"
+    excerpt: "It has a smaller 256-chip footprint per Pod, which is optimized for the state-of-the-art neural network architecture based on the transformer architecture."
+    publishedDateTime: 2023-09-04T11:49:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/amp/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 84
+      name: Forbes
+      domain: forbes.com
+    quality: 91
     images:
-      - url: "https://i.pcmag.com/imagery/articles/04m1q6ExleLlFkZ9ZkSKumS-1.fit_lim.size_1200x630.v1693581639.jpg"
-        width: 1120
-        height: 630
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64f5bc845a7c3861341e8146/0x0.jpg?format=jpg&width=1200"
+        width: 1000
+        height: 667
         isCached: true
-  - title: "iTechGenic teams up with Microsoft Azure, G7 CR for AI-enhanced Engineering management"
-    excerpt: "The primary objective of this partnership is to empower engineering teams with a 360-degree perspective by harnessing insights from various DevOps tools."
-    publishedDateTime: 2023-09-05T06:37:00Z
-    webUrl: "https://www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management/3233431/"
-    ampWebUrl: "https://www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management/3233431/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management/3233431/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 81
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/image-2023-09-05T113656.774.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Microsoft and Abu Dhabi's G42 Forge Strategic AI and Cloud Partnership"
-    excerpt: "G42's CEO Peng Xiao highlighted the significance of the partnership in driving substantial technological progress across critical sectors. The company's diverse portfolio includes AIQ, a joint venture with Abu Dhabi National Oil Co., which leverages AI and machine learning to enhance processes for Adnoc and the broader industry."
-    publishedDateTime: 2023-09-05T16:56:00Z
-    webUrl: "https://www.benzinga.com/news/23/09/34240520/microsoft-and-abu-dhabis-g42-forge-strategic-ai-and-cloud-partnership"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34240520"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34240520"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 74
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/09/05/azure-rainer_stropek_via_flickr.jpg?width=1200&height=800&fit=crop"
-        width: 799
-        height: 533
-        isCached: true
-  - title: "Microsoft expands UAE's G42 partnership to include cloud, AI tools"
-    excerpt: "\"With data privacy, security, and compliance as our core priorities, we have a unique opportunity to help organizations responsibly innovate,\" Microsoft Chief Commercial Officer Judson Althoff said"
-    publishedDateTime: 2023-09-05T14:10:00Z
-    webUrl: "https://www.business-standard.com/world-news/microsoft-expands-uae-s-g42-partnership-to-include-cloud-ai-tools-123090501146_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/world-news/microsoft-expands-uae-s-g42-partnership-to-include-cloud-ai-tools-123090501146_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/world-news/microsoft-expands-uae-s-g42-partnership-to-include-cloud-ai-tools-123090501146_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 54
-  - title: "Microsoft expands Abu Dhabi’s G42 partnership to include cloud and AI tools"
-    excerpt: "The partnership will see Microsoft expand its Azure service in the UAE through Khazna Data ... including AIQ – a joint venture with Abu Dhabi National Oil – that uses AI and machine learning to optimise processes for Adnoc and the wider industry."
-    publishedDateTime: 2023-09-05T16:32:00Z
-    webUrl: "https://www.businesstimes.com.sg/companies-markets/microsoft-expands-abu-dhabis-g42-partnership-include-cloud-and-ai-tools"
-    ampWebUrl: "https://www.businesstimes.com.sg/companies-markets/microsoft-expands-abu-dhabis-g42-partnership-include-cloud-and-ai-tools?amp"
-    cdnAmpWebUrl: "https://www-businesstimes-com-sg.cdn.ampproject.org/c/s/www.businesstimes.com.sg/companies-markets/microsoft-expands-abu-dhabis-g42-partnership-include-cloud-and-ai-tools?amp"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 52
-  - title: "G42, Microsoft alliance expands to include joint sovereign cloud and AI offering"
-    excerpt: "This announcement marks the first significant outcome since G42 and Microsoft announced their intention to partner earlier this year, in April"
-    publishedDateTime: 2023-09-06T04:55:00Z
-    webUrl: "https://gulfbusiness.com/g42-microsoft-joint-sovereign-cloud-ai-offering/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 49
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2023/09/Microsoft-and-G42-to-offer-joint-sovereign-cloud-and-AI-offerings-Image-Microsoft.jpg"
-        width: 930
-        height: 620
-        isCached: true
-  - title: "G42 and Microsoft unlock new opportunities for digital transformation with joint sovereign cloud and AI offering"
-    excerpt: "Microsoft's sovereign cloud offering public sector and regulated industries to use new platform capabilities for securing access to the latest cloud and AI features available on Azure public cloud and helping local privacy and regulatory requirements."
-    publishedDateTime: 2023-09-05T16:43:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/g42-and-microsoft-unlock-new-opportunities-for-digital-transformation-with-joint-sovereign-cloud-and-ai-offering-1032606400"
+  - title: "Cash in or lose out: Banks are turning to AI, cloud computing, and Web3 to gain competitive advantage and customer loyalty"
+    excerpt: "Artificial intelligence, cloud tech, and Web3 are helping banks with their digital strategies for strengthening their brand and customer loyalty."
+    publishedDateTime: 2023-09-05T15:20:00Z
+    webUrl: "https://www.businessinsider.com/how-ai-cloud-technology-web3-metaverse-disrupting-banking-industry-2023-9"
+    ampWebUrl: "https://www.businessinsider.com/how-ai-cloud-technology-web3-metaverse-disrupting-banking-industry-2023-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-ai-cloud-technology-web3-metaverse-disrupting-banking-industry-2023-9?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 43
+    quality: 61
+    images:
+      - url: "https://i.insider.com/64f2142b1b7ced0019c6c709?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Google goes all in on the AI cloud"
+    excerpt: "Market landscape analysis: Players such as Snowflake Inc. and Databricks have effectively acted as the AI and data layer on platforms such as Amazon and Microsoft Azure, given these cloud platforms’ underwhelming data and AI capabilities. AWS seems ..."
+    publishedDateTime: 2023-09-02T15:37:00Z
+    webUrl: "https://siliconangle.com/2023/09/02/google-goes-ai-cloud/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Google-Cloud.jpeg"
+        width: 6948
+        height: 4634
+        isCached: true
+  - title: "Google adding AI tools to cloud"
+    excerpt: "Google's cloud clients will be able to access Meta's Llama 2 large language model, as well as AI startup Anthropic's Claude 2 chatbot, to customize with enterprise data for their own apps and services. The move, announced last week at Google's Next '23 ..."
+    publishedDateTime: 2023-09-03T07:01:00Z
+    webUrl: "https://www.arkansasonline.com/news/2023/sep/03/google-adding-ai-tools-to-cloud/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 39
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/205216573_Google-AI-bg-3db9458a-4676-11ee-9807-7da73538c4fb_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 399
+        isCached: true
+  - title: "How Generative AI Helps This $3.5 Billion Startup Grow Faster"
+    excerpt: "Launched in 2016 by former Tesla Chief Information Officer Jay Vijayan, Tekion employs roughly 3,000 people and has raised $451 million in venture capital - valuing the company at $3.5 billion the last time it raised capital in September 2021, according to Pitchbook."
+    publishedDateTime: 2023-09-06T07:31:00Z
+    webUrl: "https://www.inc.com/peter-cohan/how-generative-ai-helps-this-35-billion-startup-grow-faster.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1546442104_533537_djkh3r.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Don’t rush ethics in generative AI adoption plans"
+    excerpt: "Even when leaders feel the pressure to adopt generative AI quickly, ethical frameworks and use case policies should guide their plans."
+    publishedDateTime: 2023-09-05T12:58:00Z
+    webUrl: "https://www.ciodive.com/news/generative-AI-ethics-policy/692590/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 34
+  - title: "IAA MOBILITY 2023 Talking not Typing: Continental and Google Cloud Equip Cars with Generative Artificial Intelligence"
+    excerpt: "Continental announced a partnership with Google Cloud during its press conference at the IAA MOBILITY 2023. Together, the two companies are equipping"
+    publishedDateTime: 2023-09-04T17:26:00Z
+    webUrl: "https://menafn.com/1107004164/IAA-MOBILITY-2023-Talking-not-Typing-Continental-and-Google-Cloud-Equip-Cars-with-Generative-Artificial-Intelligence"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 14
+    images:
+      - url: "https://menafn.com/updates/pr/2023-09/04/pr_12163_22a9c30d_image_story.jpg"
+        width: 4920
+        height: 3553
+        isCached: true
 
 secured: "jMEOD6GpN0tA4uqfuuBlgVLCfdxA1TsOKOVqGR3alSsTdn7IMJIvEblVPEuU+4YgaHk6OaqErxR9jBSixeOlsLbXidKsGxyyXqXH+sft7uJj6CoGOxXFwMBfJfc9+UaUUzAj1SwSBlDWfwYMmVedATaE/619dq7Ahn9euir2qB1YeLXX4Xm33oYMjs9jN1T74fiDq48aIMUh0VOsnRA8XcQJeAY+Ac97KPPhhghgp7YD36+QSWJxosdReR435HBaYIUlSWi5XsOb00BJoAlWzQAm8qN3NuptzaaCEevUGF8lGJLdp5hoCEXPbZh6JMvH0p6j5iyltA2ZklTVrU0cmnx4S0scAYzQ/PFPHff+WSwP/KBCLljhGSIVm+XKAHFBJxOL8GoX8rYYfyRW2yphYG0vq/3zCH5QViknkIey9dYc8CblAzWATTijj9LM+V5abtRTlqL5HjuWW/gs5jmwIEldzPi9hlYE7p0/GUqLMarcYEM4Z3F2ziqvV7nk5BWk+l1XAR1zYJxceK7xUQEaRw==;A9ptdTn94A33uLwhpnhp9Q=="
 ---

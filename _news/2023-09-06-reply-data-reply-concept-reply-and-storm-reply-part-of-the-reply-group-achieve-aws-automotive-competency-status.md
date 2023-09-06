@@ -1,23 +1,23 @@
 ---
 category: news
 title: "REPLY: Data Reply, Concept Reply and Storm Reply, part of the Reply group, achieve AWS Automotive Competency Status"
-excerpt: "AWS Automotive Competency Partners provide customers with ... www.reply.com Data Reply Data Reply is the Reply Group company specialized in Big Data Analytics and Artificial Intelligence. Through multidisciplinary teams of specialists in Big Data ..."
-publishedDateTime: 2023-09-06T07:37:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-09/60036075-reply-data-reply-concept-reply-and-storm-reply-part-of-the-reply-group-achieve-aws-automotive-competency-status-004.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2023-09/60036075-reply-data-reply-concept-reply-and-storm-reply-part-of-the-reply-group-achieve-aws-automotive-competency-status-004.htm"
+excerpt: "Reply, a global systems integrator and consulting firm, announced today that three companies in its network - Concept Reply, Data Reply and Storm Reply have achieved Amazon Web Services (AWS) Automotive Competency status."
+publishedDateTime: 2023-09-06T08:54:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-reply-data-reply-concept-reply-storm-reply-part-/2023/09/06/9875251.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-reply-data-reply-concept-reply-storm-reply-part-/2023/09/06/9875251.htm"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "wVynZlJ+brMHXToFwSw0IzpsCu74HPcVq1k6Lb17vE6CCBqB/wdU3YjUTwtI+nwn6Or0wZ2Juz8LMshLYkAbBtEGfFsq8h72sYVdtw3NMVarNn6hYVkuu6OPr55+R527LyAK4ei8eKNCS3WWeIIH+mbADmkVRf7FzP2aKdNrn1yiAJcEzJij0lpZyrfmyt9DV03dUsL6ZXHoyj6LiW8SG5uzfkBT8kkYCPDXyg2PKZxfbHC5UYGswa1MPGjSonSx+KQ7isrQJ3c4cJJhx7/5i76ptpHlKbld4xwWLV8gvumXWI7KQ8+kqrXoE0ZicNxdFjYM/2GEGBudBtRm32/QSTaTLQqXkpdeJ30Del6cm/8=;EIkXMtF9e+PXiPqTy3PZRg=="
+secured: "Y60YdIVvRmIEeC+uwBQsYgVcBjor4vYbGEQbq4Zq5aPYZR/W/LLBx3yU7VAGTdlS21wK7eYo/ti7XZXQe/+CnCECV/Bp0D8sY4bm5v0mSIGR2xBzN1EALZQv3RlXPoK5WfLJZKR8OJjQqouM9iSfxs+vZwQ/KXa/qGP3uU7kDHNzC+L/+ihiJnpKDryRsS8x14mZGVNjnRF5+6T5D+cF028jOJPOsusogZAumyuSckdP0grfmmcKUZh/SbHaB4oEDu37f0pSOeyswJIvWCcA7xcodu+Q2q78Tf8LnX7BHL0oNtGAUHjG5eria0rYbDwSXw+ZPz8nCKBPCXB8Jb+DpkSfna/j818Kqee4SRRATuM=;1uz2C78LDL+z3jzbE3A7Yg=="
 ---
 

@@ -41,6 +41,36 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How AI and machine learning are transforming data centers"
+    excerpt: "Impact of AI and machine learning on data center management and a colocation market poised for growth to US$65.2 billion by 2027."
+    publishedDateTime: 2023-09-06T01:05:00Z
+    webUrl: "https://techwireasia.com/2023/09/how-are-ai-and-machine-learning-meeting-data-center-demands/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 54
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/09/AI-is-making-an-impact-to-transform-data-centers-and-meet-its-demands-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "Part 2: How Artificial Intelligence is Driving the Transportation Sector Forward"
+    excerpt: "What a ride it's been for the transportation industry since AI! After all, this new technology comes hand-in-hand with the transport sector."
+    publishedDateTime: 2023-09-06T09:26:00Z
+    webUrl: "https://techround.co.uk/tech/part-2-how-artificial-intelligence-is-driving-the-transportation-sector-forward/"
+    ampWebUrl: "https://techround.co.uk/tech/part-2-how-artificial-intelligence-is-driving-the-transportation-sector-forward/amp/"
+    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/tech/part-2-how-artificial-intelligence-is-driving-the-transportation-sector-forward/amp/"
+    type: article
+    provider:
+      name: TechRound
+      domain: techround.co.uk
+    quality: 54
+    images:
+      - url: "https://techround.co.uk/wp-content/uploads/2022/01/transport-scaled.jpg"
+        width: 2560
+        height: 1438
+        isCached: true
   - title: "The Brand Bee Envisions The Role Of Artificial Intelligence In Shaping The Next Era Of Marketing"
     excerpt: "a distinguished Digital Marketing Agency in Gurugram , is at the forefront of revolutionising the marketing landscape by embracing the potential of Artificial Intelligence (AI). Known for providing 360-degree solutions for digital marketing and hailed as a ..."
     publishedDateTime: 2023-09-04T03:42:00Z

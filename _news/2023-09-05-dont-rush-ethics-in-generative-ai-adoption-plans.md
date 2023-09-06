@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "What CTOs are learning from generative AI"
-    excerpt: "These tools use machine learning algorithms and natural language processing (NLP) to help developers automate some aspects of coding. “AI-generated coding enables developers to work on more creative and fulfilling tasks,” Rotar says. “By spending ..."
-    publishedDateTime: 2023-09-05T09:01:00Z
-    webUrl: "https://www.infoworld.com/article/3705048/what-ctos-are-learning-from-generative-ai.html"
-    ampWebUrl: "https://www.infoworld.com/article/3705048/what-ctos-are-learning-from-generative-ai.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705048/what-ctos-are-learning-from-generative-ai.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 93
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/08/shutterstock_767182213-100945458-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "How Google Cloud Is Leveraging Generative AI To Outsmart Competition"
     excerpt: "It has a smaller 256-chip footprint per Pod, which is optimized for the state-of-the-art neural network architecture based on the transformer architecture."
     publishedDateTime: 2023-09-04T11:49:00Z
@@ -51,97 +35,86 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Generative AI Drugs Are Coming"
-    excerpt: "The merging of deep, quality data and expertise with increasingly sophisticated AI capabilities has the potential to truly shift the future of medicine."
-    publishedDateTime: 2023-09-05T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/05/generative-ai-drugs-are-coming/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/05/generative-ai-drugs-are-coming/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/05/generative-ai-drugs-are-coming/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64f22325ebec7ec31b17ee9b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 801
-        isCached: true
-  - title: "How Apple is already using machine learning and AI in iOS"
-    excerpt: "Machine learning has become Apple's catch-all for its AI initiatives. Apple uses artificial intelligence ... with the launch of iOS 17.1. Apple will improve dictation and language translation with machine learning as well. Machine learning is also present ..."
-    publishedDateTime: 2023-09-02T17:17:00Z
-    webUrl: "https://appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios"
-    ampWebUrl: "https://appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 76
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/56062-113816-Apple-Siri-xl.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "I've made $2.7 million in revenue in the last 6 months by selling AI courses and using AI tools to cut costs. Here's how."
-    excerpt: "I started sharing what I was learning in late 2022 on Facebook and via email with ... People wanted to learn about generative AI but already felt behind Talking with my audience via direct messages and market-research calls, I found that business owners ..."
-    publishedDateTime: 2023-09-05T11:01:00Z
-    webUrl: "https://www.businessinsider.com/how-to-sell-ai-products-made-millions-2023-9"
-    ampWebUrl: "https://www.businessinsider.com/how-to-sell-ai-products-made-millions-2023-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-sell-ai-products-made-millions-2023-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
-    images:
-      - url: "https://i.insider.com/64f07bcbf8c86200196140eb?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "AI expert discusses generative AI: What it means and how it will impact our future"
-    excerpt: "Generative AI is revolutionizing our world. Monica Livingston, an AI expert at Intel, shares her insights into the future of this growing technology."
-    publishedDateTime: 2023-09-01T16:18:00Z
-    webUrl: "https://www.businessinsider.com/sc/ai-expert-explains-how-generative-ai-will-change-our-future"
+  - title: "Cash in or lose out: Banks are turning to AI, cloud computing, and Web3 to gain competitive advantage and customer loyalty"
+    excerpt: "Artificial intelligence, cloud tech, and Web3 are helping banks with their digital strategies for strengthening their brand and customer loyalty."
+    publishedDateTime: 2023-09-05T15:20:00Z
+    webUrl: "https://www.businessinsider.com/how-ai-cloud-technology-web3-metaverse-disrupting-banking-industry-2023-9"
+    ampWebUrl: "https://www.businessinsider.com/how-ai-cloud-technology-web3-metaverse-disrupting-banking-industry-2023-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-ai-cloud-technology-web3-metaverse-disrupting-banking-industry-2023-9?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
     quality: 61
     images:
-      - url: "https://i.insider.com/64f0a302954da4001967f7b8?width=1200&format=jpeg"
+      - url: "https://i.insider.com/64f2142b1b7ced0019c6c709?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Dell Becomes One Of The Early Generative AI Winners"
-    excerpt: "Dell Technologies Inc (NYSE: DELL) had its best stock market day since its 2018 return to the public market after it reported its fiscal second quarter results."
-    publishedDateTime: 2023-09-05T13:59:00Z
-    webUrl: "https://www.benzinga.com/23/09/34237167/dell-becomes-one-of-the-early-generative-ai-winners"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34237167"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34237167"
+  - title: "Google goes all in on the AI cloud"
+    excerpt: "Market landscape analysis: Players such as Snowflake Inc. and Databricks have effectively acted as the AI and data layer on platforms such as Amazon and Microsoft Azure, given these cloud platforms’ underwhelming data and AI capabilities. AWS seems ..."
+    publishedDateTime: 2023-09-02T15:37:00Z
+    webUrl: "https://siliconangle.com/2023/09/02/google-goes-ai-cloud/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
     images:
-      - url: "https://cdn.benzinga.com/files/close-up-entrepreneur-going-through-business-reports-taking-notes-office.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Google-Cloud.jpeg"
+        width: 6948
+        height: 4634
         isCached: true
-  - title: "How AI and machine learning are transforming data centers"
-    excerpt: "Impact of AI and machine learning on data center management and a colocation market poised for growth to US$65.2 billion by 2027."
-    publishedDateTime: 2023-09-06T01:05:00Z
-    webUrl: "https://techwireasia.com/2023/09/how-are-ai-and-machine-learning-meeting-data-center-demands/"
+  - title: "Google adding AI tools to cloud"
+    excerpt: "Google's cloud clients will be able to access Meta's Llama 2 large language model, as well as AI startup Anthropic's Claude 2 chatbot, to customize with enterprise data for their own apps and services. The move, announced last week at Google's Next '23 ..."
+    publishedDateTime: 2023-09-03T07:01:00Z
+    webUrl: "https://www.arkansasonline.com/news/2023/sep/03/google-adding-ai-tools-to-cloud/"
     type: article
     provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 54
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 39
     images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/09/AI-is-making-an-impact-to-transform-data-centers-and-meet-its-demands-scaled.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/205216573_Google-AI-bg-3db9458a-4676-11ee-9807-7da73538c4fb_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 399
+        isCached: true
+  - title: "How Generative AI Helps This $3.5 Billion Startup Grow Faster"
+    excerpt: "Launched in 2016 by former Tesla Chief Information Officer Jay Vijayan, Tekion employs roughly 3,000 people and has raised $451 million in venture capital - valuing the company at $3.5 billion the last time it raised capital in September 2021, according to Pitchbook."
+    publishedDateTime: 2023-09-06T07:31:00Z
+    webUrl: "https://www.inc.com/peter-cohan/how-generative-ai-helps-this-35-billion-startup-grow-faster.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1546442104_533537_djkh3r.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Ally partners with Microsoft to leverage generative artificial intelligence"
+    excerpt: "Banks have been leveraging traditional artificial intelligence for years in ways such as predicting market trends and optimizing investment. But generative AI can produce its own data content to increase productivity for financial firms. That has led Ally ..."
+    publishedDateTime: 2023-09-01T18:53:00Z
+    webUrl: "https://www.bizjournals.com/charlotte/inno/stories/news/2023/09/01/ally-bank-generative-ai-platform-launch-microsoft.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 32
+  - title: "IAA MOBILITY 2023 Talking not Typing: Continental and Google Cloud Equip Cars with Generative Artificial Intelligence"
+    excerpt: "Continental announced a partnership with Google Cloud during its press conference at the IAA MOBILITY 2023. Together, the two companies are equipping"
+    publishedDateTime: 2023-09-04T17:26:00Z
+    webUrl: "https://menafn.com/1107004164/IAA-MOBILITY-2023-Talking-not-Typing-Continental-and-Google-Cloud-Equip-Cars-with-Generative-Artificial-Intelligence"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 14
+    images:
+      - url: "https://menafn.com/updates/pr/2023-09/04/pr_12163_22a9c30d_image_story.jpg"
+        width: 4920
+        height: 3553
         isCached: true
 
 secured: "KQxfH8XW6VOY7kHmivp3nrbNvSfhNElCaY3ssJ8B5aO1ebGQcJwpfJQra4MhJRYKZA6SF2HGXcejNytiFdF+iJNAGKkf+K7lIhWDRjD+IFkgPygXU6FjOKGfv2ze5AHFK8JFfZ72szqnLEY6qJUgjcURasJNdCvE7OMF3kwGkz6+6SLbeboMZB95fo2OgrbJ25KdE5KJUDG3J3iUBbRMp1Vg3MS7PF8UVC5gN5CJHh0hxZVWaLy25aOAjW8MFHmDNq500+TaPKYJeuFfipanP6trMvD8CY8oEzi18GuUBl1lTyIUzjrkGYEeFvhJW/4p5rgDLZ9F8Ql4NwFYRw3m59yqQpch0YkInGK7nWQUhfI=;Gq+Lxte3arSEd06ISXOnDw=="

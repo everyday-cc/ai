@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/how-carrier-predicts
 webUrl: "https://aws.amazon.com/blogs/machine-learning/how-carrier-predicts-hvac-faults-using-aws-glue-and-amazon-sagemaker/"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
     quality: 97
     images:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/05/featured-images-ML-14979-1120x630.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Elevating the generative AI experience: Introducing streaming support in Amazon SageMaker hosting"
-    excerpt: "We’re excited to announce the availability of response streaming through Amazon SageMaker real-time inference. Now you can continuously stream inference responses back to the client when using SageMaker real-time inference to help you build interactive experiences for generative AI applications such"
-    publishedDateTime: 2023-09-01T16:53:42Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/elevating-the-generative-ai-experience-introducing-streaming-support-in-amazon-sagemaker-hosting/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 91
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/31/featured-images-ML-15289-1120x630.jpg"
         width: 1120
         height: 630
         isCached: true

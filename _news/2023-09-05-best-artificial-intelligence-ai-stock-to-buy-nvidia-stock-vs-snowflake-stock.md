@@ -38,6 +38,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "1 Top Chip Stock Ready to Ride Nvidia's AI Tailwinds Higher"
+    excerpt: "(up more than 232%) since the beginning of the year. For the most recent quarter, Nvidia racked up $13.51 billion in revenue, more than doubling last year's figure and setting a new second-quarter company record."
+    publishedDateTime: 2023-09-05T20:23:00Z
+    webUrl: "https://www.nasdaq.com/articles/1-top-chip-stock-ready-to-ride-nvidias-ai-tailwinds-higher"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
   - title: "Nvidia, Horizon Robotics account for 80% of self-driving chips enabling NOA in China"
     excerpt: "China-based autonomous driving chip developer Horizon Robotics is showcasing solutions for smart driving and advanced driver assistance systems (ADAS) powered by its Journey chip series at IAA Mobility 2023."
     publishedDateTime: 2023-09-06T06:02:00Z

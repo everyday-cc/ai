@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-24-contextual-is-here-does-that-mean-goodbye-to-interest-based-targeting.md",
+      "title": "Contextual Is Here: Does That Mean Goodbye To Interest-Based Targeting?",
+      "excerpt": "Contextual and interest-based solutions take entirely different approaches to increasing advertising’s relevance to target audiences.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/08/24/contextual-is-here-does-that-mean-goodbye-to-interest-based-targeting/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/08/24/contextual-is-here-does-that-mean-goodbye-to-interest-based-targeting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63dd0df806501fd6503fe0f3/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/08/24/contextual-is-here-does-that-mean-goodbye-to-interest-based-targeting/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/08/24/contextual-is-here-does-that-mean-goodbye-to-interest-based-targeting/amp/",
+      "publishedDateTime": "2023-08-24T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-metas-new-ai-model-can-translate-transcribe-nearly-100-languages.md",
+      "title": "Meta’s new AI model can translate & transcribe nearly 100 languages",
+      "excerpt": "The company has publicly released SeamlessM4T under a research licence to allow researchers and developers to build on it.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/technology/artificial-intelligence/meta-seamlessm4t-ai-model-8907073/",
+      "originalUrl": "https://indianexpress.com/article/technology/artificial-intelligence/meta-seamlessm4t-ai-model-8907073/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2023/08/Meta-featured-20230824.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/technology/artificial-intelligence/meta-seamlessm4t-ai-model-8907073/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/meta-seamlessm4t-ai-model-8907073/lite/",
+      "publishedDateTime": "2023-08-24T00:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-24-this-ai-expert-left-meta-to-lead-cmus-language-technologies-institute.md",
       "title": "This AI expert left Meta to lead CMU’s Language Technologies Institute",
       "excerpt": "\"We are at an inflection point for this technology and the discipline as a whole,\" Mona Diab said. \"It is a critical time to take into account its impact and sustainability.\"",
@@ -1270,102 +1365,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-storyboard-launches-ai-powered-translations-to-breakdown-language-barriers.md",
-      "title": "Storyboard Launches AI-Powered Translations to Breakdown Language Barriers",
-      "excerpt": "SANTA MONICA, CA - Storyboard, the leading audio communication provider for frontline teams, announced that it will provide real-time AI-powered transcriptions and translations for over 50 languages in Chat by Storyboard.",
-      "sourceUrl": null,
-      "webUrl": "https://www.grocerydive.com/press-release/20230814-storyboard-launches-ai-powered-translations-to-breakdown-language-barriers-4/",
-      "originalUrl": "https://www.grocerydive.com/press-release/20230814-storyboard-launches-ai-powered-translations-to-breakdown-language-barriers-4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://res.cloudinary.com/dmgi9movl/image/upload/v1692059564/press_release/assets/header_images/Storyboard_Chat_-_Grocery_Header_1500x700_1_irq1gj.png",
-          "width": 1500,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-15T05:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "grocerydive",
-        "domain": "grocerydive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-has-ai-robotics-revolution-met-its-chatgpt-moment-a-conversation-with-peter-chen-co-founder-of-covariant.md",
-      "title": "Has AI Robotics Revolution Met Its ChatGPT Moment? A Conversation With Peter Chen, Co-Founder Of Covariant",
-      "excerpt": "In a year marked by massive leaps in technology change, Covariant has created an adaptable AI that thrives in an environment characterized by unpredictability and imbue robots with the capacity to conquer novel challenges with precision and autonomy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/hessiejones/2023/08/15/has-ai-robotics-revolution-met-its-chatgpt-moment-a-conversation-with-peter-chen-co-founder-of-covariant/",
-      "originalUrl": "https://www.forbes.com/sites/hessiejones/2023/08/15/has-ai-robotics-revolution-met-its-chatgpt-moment-a-conversation-with-peter-chen-co-founder-of-covariant/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64db6a9e8cd8bf5f77635ef0/0x0.jpg?format=jpg&crop=640,361,x0,y29,safe&width=1200",
-          "width": 640,
-          "height": 361,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/hessiejones/2023/08/15/has-ai-robotics-revolution-met-its-chatgpt-moment-a-conversation-with-peter-chen-co-founder-of-covariant/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2023/08/15/has-ai-robotics-revolution-met-its-chatgpt-moment-a-conversation-with-peter-chen-co-founder-of-covariant/amp/",
-      "publishedDateTime": "2023-08-15T05:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

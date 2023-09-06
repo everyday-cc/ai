@@ -45,20 +45,6 @@ related:
         width: 1080
         height: 1080
         isCached: true
-  - title: "Google goes all in on the AI cloud"
-    excerpt: "Market landscape analysis: Players such as Snowflake Inc. and Databricks have effectively acted as the AI and data layer on platforms such as Amazon and Microsoft Azure, given these cloud platforms’ underwhelming data and AI capabilities. AWS seems ..."
-    publishedDateTime: 2023-09-02T15:37:00Z
-    webUrl: "https://siliconangle.com/2023/09/02/google-goes-ai-cloud/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 41
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Google-Cloud.jpeg"
-        width: 6948
-        height: 4634
-        isCached: true
 
 secured: "06xXEtkr2AGO2aAAIFxUw4lpdTmh/ASCltQe676eDq3ftsf/jY4MJ9Q5eBwlQMIJ9tVY5Z2xH4GKK64hi5xuDgY7tEUfZ5dPF/nVJtRshIW91IJ03PhhnnDITx/WgpjnT/oQw48GY92iKJvcmsRR9wkANgt69LZ4J7xkCsoEn1Aik+cV+IbNrIiwIh8vCWnY5P4Wz05afgVTthNl9f/FqA31LORQIfFncwrekNTrNUJjYr7iG7akRLoVetEGU33nwKggBHueKUlWC7PI3P3FllU76tXGVAzus95FE+HhnOjvFcpl3gfgEvvG04gxptVPZFT/tWBHHNSlSR/imBbO5EuCmKQZ/YVrh3ky5QpIxpVLU42OBmX7ctR/qXPp5iCs0T9WJBZpC/xGmVmc8Dj0Vm37jPekgfRlcM95e3fKvFbbyKydCRWm6xLVp4g+wXoSKC4OXoXVGV6zDuSIw7CtNzoqh+kdFrm+NaqyfAFhZhQGFz1heeR/+IR2h79aPyPRT24OZUzYpyCmzrDwUk+HdA==;qHGk95VNwqAMEpjEZEZzZw=="
 ---

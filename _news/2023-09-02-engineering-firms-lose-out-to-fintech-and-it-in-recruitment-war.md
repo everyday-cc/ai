@@ -89,6 +89,34 @@ related:
         width: 2374
         height: 1263
         isCached: true
+  - title: "4 big FinTech funding rounds in MENA in August 2023"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-09-06T07:56:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/4-big-fintech-funding-rounds-in-mena-in-august-2023/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/11/Funding.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Want a new fintech job? These are the skills employers want now"
+    excerpt: "Here are the most in-demand skills for fintech companies recruiting fresh talent, and some advertised tech vacancies in the space"
+    publishedDateTime: 2023-09-06T09:25:00Z
+    webUrl: "https://www.information-age.com/want-new-fintech-job-these-are-skills-employers-want-now-123507093/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 24
+    images:
+      - url: "https://informationage-production.s3.amazonaws.com/uploads/2023/09/want-new-fintech-job-these-are-skills-employers-want-now-scaled.jpg"
+        width: 2560
+        height: 1616
+        isCached: true
   - title: "4 FinTech funding rounds that occurred in the MENA region in August 2023"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-09-06T07:35:00Z

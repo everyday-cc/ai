@@ -30,21 +30,95 @@ images:
     isCached: true
 
 related:
-  - title: "The Human Touch: Unleashing Competitive Advantage In The Age Of Artificial Intelligence"
-    excerpt: "The human touch, comprising judgment, creativity, and emotional intelligence, remains a crucial element in creating a unique and lasting edge in today's highly competitive business landscape."
-    publishedDateTime: 2023-09-05T11:08:00Z
-    webUrl: "https://www.forbes.com/sites/georgebradt/2023/09/05/the-human-touch-unleashing-competitive-advantage-in-the-age-of-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/georgebradt/2023/09/05/the-human-touch-unleashing-competitive-advantage-in-the-age-of-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/georgebradt/2023/09/05/the-human-touch-unleashing-competitive-advantage-in-the-age-of-artificial-intelligence/amp/"
+  - title: "How Google Cloud Is Leveraging Generative AI To Outsmart Competition"
+    excerpt: "It has a smaller 256-chip footprint per Pod, which is optimized for the state-of-the-art neural network architecture based on the transformer architecture."
+    publishedDateTime: 2023-09-04T11:49:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 79
+    quality: 91
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64f70b6749b4c1767385cc99/0x0.jpg?format=jpg&crop=3414,1920,x0,y383,safe&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64f5bc845a7c3861341e8146/0x0.jpg?format=jpg&width=1200"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "Google goes all in on the AI cloud"
+    excerpt: "Market landscape analysis: Players such as Snowflake Inc. and Databricks have effectively acted as the AI and data layer on platforms such as Amazon and Microsoft Azure, given these cloud platforms’ underwhelming data and AI capabilities. AWS seems ..."
+    publishedDateTime: 2023-09-02T15:37:00Z
+    webUrl: "https://siliconangle.com/2023/09/02/google-goes-ai-cloud/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Google-Cloud.jpeg"
+        width: 6948
+        height: 4634
+        isCached: true
+  - title: "Google adding AI tools to cloud"
+    excerpt: "Google's cloud clients will be able to access Meta's Llama 2 large language model, as well as AI startup Anthropic's Claude 2 chatbot, to customize with enterprise data for their own apps and services. The move, announced last week at Google's Next '23 ..."
+    publishedDateTime: 2023-09-03T07:01:00Z
+    webUrl: "https://www.arkansasonline.com/news/2023/sep/03/google-adding-ai-tools-to-cloud/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 39
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/205216573_Google-AI-bg-3db9458a-4676-11ee-9807-7da73538c4fb_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 399
+        isCached: true
+  - title: "How Generative AI Helps This $3.5 Billion Startup Grow Faster"
+    excerpt: "Launched in 2016 by former Tesla Chief Information Officer Jay Vijayan, Tekion employs roughly 3,000 people and has raised $451 million in venture capital - valuing the company at $3.5 billion the last time it raised capital in September 2021, according to Pitchbook."
+    publishedDateTime: 2023-09-06T07:31:00Z
+    webUrl: "https://www.inc.com/peter-cohan/how-generative-ai-helps-this-35-billion-startup-grow-faster.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1546442104_533537_djkh3r.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Don’t rush ethics in generative AI adoption plans"
+    excerpt: "Even when leaders feel the pressure to adopt generative AI quickly, ethical frameworks and use case policies should guide their plans."
+    publishedDateTime: 2023-09-05T12:58:00Z
+    webUrl: "https://www.ciodive.com/news/generative-AI-ethics-policy/692590/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 34
+  - title: "Ally partners with Microsoft to leverage generative artificial intelligence"
+    excerpt: "Banks have been leveraging traditional artificial intelligence for years in ways such as predicting market trends and optimizing investment. But generative AI can produce its own data content to increase productivity for financial firms. That has led Ally ..."
+    publishedDateTime: 2023-09-01T18:53:00Z
+    webUrl: "https://www.bizjournals.com/charlotte/inno/stories/news/2023/09/01/ally-bank-generative-ai-platform-launch-microsoft.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 32
+  - title: "IAA MOBILITY 2023 Talking not Typing: Continental and Google Cloud Equip Cars with Generative Artificial Intelligence"
+    excerpt: "Continental announced a partnership with Google Cloud during its press conference at the IAA MOBILITY 2023. Together, the two companies are equipping"
+    publishedDateTime: 2023-09-04T17:26:00Z
+    webUrl: "https://menafn.com/1107004164/IAA-MOBILITY-2023-Talking-not-Typing-Continental-and-Google-Cloud-Equip-Cars-with-Generative-Artificial-Intelligence"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 14
+    images:
+      - url: "https://menafn.com/updates/pr/2023-09/04/pr_12163_22a9c30d_image_story.jpg"
+        width: 4920
+        height: 3553
         isCached: true
 
 secured: "CfEYW4fY3yY8S5uoe0Uik4uOuLVRt3/1V0jLGU0cv/iSdJff6p1J+H6hfnAMczNpilFh8HsIh6kc2wf4iUIzhgxc+qBnUHJkd6X+C+cK4dvsoeLWoLui1kI3MuvKxihJFYxZowSkWbaE470BqepylEYf7ajtb5ubOmg85QkdlJ0BrNNm6bXS06naCWGAIkBjJDi1VaZLcIYYH8LHfqmUAjKSV33CcYzm5YMUw3HMsqdUgMOx1MuAjcCcWKshR1+CoR9klX6b28rlInnl4qrXO3JA08f9OU9RekAFZdAb7qTI/+/MC9cD3oeocoOZb22oa398oMAbAHPv1B+iRdCoNxJqf6VfvsQ6NGXpBI7q2eScnfSsOjcUd2LfkENFjvWSX5CwqL4Xdsvn1iJnMsxVyBfhdUWUHxC9lZN0thCBhCCzrfj662B3v+3fUPOj3UaikDL1fQpkZe/COL4KgzdJuHCwQRipnqbsupXtBEtSx6ih7r8vQqnzF+2zcqc+CcoGxNYKqdRykf49i+6J+Q7MrQ==;OoSqwwWZkGR/xB9tg7e2vw=="

@@ -42,6 +42,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "1 Top Chip Stock Ready to Ride Nvidia's AI Tailwinds Higher"
+    excerpt: "(up more than 232%) since the beginning of the year. For the most recent quarter, Nvidia racked up $13.51 billion in revenue, more than doubling last year's figure and setting a new second-quarter company record."
+    publishedDateTime: 2023-09-05T20:23:00Z
+    webUrl: "https://www.nasdaq.com/articles/1-top-chip-stock-ready-to-ride-nvidias-ai-tailwinds-higher"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
   - title: "Best Artificial Intelligence (AI) Stock to Buy: Nvidia Stock vs. Snowflake Stock"
     excerpt: "Fool.com contributor Parkev Tatevosian compares Nvidia (NVDA-1.71%) and Snowflake (SNOW 0.15%) to determine which stock is better for investors looking to capitalize on the AI trend. *Stock prices used were the afternoon prices of Sept. 2, 2023. The video ..."
     publishedDateTime: 2023-09-04T19:24:00Z
@@ -102,6 +111,6 @@ related:
       domain: benzinga.com
     quality: 9
 
-secured: "iC4pY3siadqmiD+UyHrV3NhdKQka8u6fIRfAXtD3brWP3zuTa4X0HRLC5j/odJR92im6AFymqQDAHD7IXyMCy5jMVp1Q3fyQIZDDwPjPk/n2WlBB0LAKbm+7yGzXCPw4EudlVqA+v+mpg/DwMvf6thuWHwbJnIUsR7Ere0sJYScM4ent1+vBgsztkOtMz1f/AKW+zbYQ+IKmd7izNzS+YsnzYw59mNU0CuN9nE0By/lS+G23CD40hI6gqYS9lEqZr66kjM6u6S6C5kXLhawnpusoX1hpxpbTYVvEDkQ3yOR7aRVV0WXxmQpa6zQFjD4pqPI6Lm6xxTB3GE3+RXcRJsTKKRRhuWgF9ILwIPTaftM=;2984r2MlRz25cSPyVel7hw=="
+secured: "3ldraytUbXK5U41Bw35qqILR/wtFv+C148upZd6kI4JRioEfFpodJifGSAfw6jiTI71YEJsi7OzCI53r40NxOFzmCTxuDehL1wjoFBbIuPSRb8FtyuqtQ+HaYaZlfqvySj9zAQwmraVKb9CxCwVtZD1cNZwFirPVYtvb1IkFP7j2H9VJ9LMXlvQwWyDWyMXqUIqf66lilOqmFMsWsotBlEtkZPM1BlJVz4odPBgv5ifNALWLEkCjQLeLO91rc1ONIrhZK2id1WaeEta70toPrnm+ojPd3xQ/z3rR2pRnYrrTNYdS++GF5cJ7hhjOgJkJKQMdG3P3KTxnkAduBWEzGLygJu4AQQyvZLrz2qwfqqykGX1AHac4+mN52ulRpJV1ce+qZwVeYS1wVbbCapPlw1FfHDvWJo0dv9tb/jeTcyWRJhTBc2I3vKgrzIBlOSe7zuC1c/PqClIilEf27POpg2CA7gBXb6zW1skMdC1ojZ6szLOMNQzJwbwetL48305GcpmF3AhLsip+TATw7/JHtw==;d8BeTlcB3cZ2iYyJf7w9vw=="
 ---
 

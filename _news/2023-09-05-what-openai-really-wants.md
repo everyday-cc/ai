@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/what-openai-really-wants/"
 webUrl: "https://www.wired.com/story/what-openai-really-wants/"
 type: article
 quality: 71
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://www.cnet.com/a/img/resize/9bc852efee183bb74a091236c419b726fa875749/hub/2023/09/01/a712b83f-8d98-4395-a590-f99dde87257e/ai-head-getty.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Fintech startup Stripe integrating OpenAI's new GPT-4 AI – Reuters"
-    excerpt: "Small toy figures are seen in front of Stripe logo in this illustration picture taken March 15, 2021. REUTERS/Dado Ruvic/Illustration/File Photo Acquire Licensing Rights SAN FRANCISCO, March 15 – Fintech startup Stripe is starting to integrate OpenAI's latest GPT-4 artificial intelligence model into its digital payment processing and other products,"
-    publishedDateTime: 2023-09-01T15:13:00Z
-    webUrl: "https://www.inferse.com/700826/fintech-startup-stripe-integrating-openais-new-gpt-4-ai-reuters/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 39
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/09/wp-header-logo-164.png"
-        width: 1200
-        height: 628
         isCached: true
 
 secured: "Tko4nlaQbspWjHCCeHZpeHB8vzybGCVzwkNXPdqOk/2FNc0DfFnlHlpBfG2fLXUUVv//enVkUFvyPgF7kiVBPUo/CIeHr+5vQeEutANYr4bQ11y2gAw8XhMi75j8FEVJcUGgdmhXGnET7vgpQPMH17SLx//B6e1Qq2gyUOXPDeO6RN+TQiJ8iN6aRXW6VHXyuirbPZkNxueGsSA4BNHktDkDJdSuOQd/HAw0kvOGjHwL/0evSOFxWDw7fUFhpwhMeasPXnHV9sl3LPLDwozUl9lzBmf7oEt/nfC+l1qhbIabyJh9QHZhvNtu8352gVFGwvWfzkTrnxCJXVlUTObK8q/yObEsNQZzxiI3J28MVMCpgg8gzziqf1jZutZYHb4HMDCfopG/NXSZmA44OirbdgDHg/P/JHhetHeCeZgVI8mQmS0EAcdHLfggGMdFu6XC2wEgsZKXRY6KSS1Z0oyFf9QTU8meMqkMrazR9mVo9uBV5ATjwrxDSww1IoHDsb7OBEikuvMzbInVrADTiB3J6w==;Cj0sBQxSfqcJzZdIMExPIw=="

@@ -24,21 +24,99 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence Helped Power This Tech Company to Double-Digit Growth"
-    excerpt: "Involvement in the hot technology of the moment could result in powerful growth if managed well by the data processing specialist."
-    publishedDateTime: 2023-09-02T12:15:00Z
-    webUrl: "https://www.fool.com/investing/2023/09/02/how-artificial-intelligence-helped-power-this-tech/"
+  - title: "How Google Cloud Is Leveraging Generative AI To Outsmart Competition"
+    excerpt: "It has a smaller 256-chip footprint per Pod, which is optimized for the state-of-the-art neural network architecture based on the transformer architecture."
+    publishedDateTime: 2023-09-04T11:49:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/amp/"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 62
+      name: Forbes
+      domain: forbes.com
+    quality: 91
     images:
-      - url: "https://g.foolcdn.com/editorial/images/745950/person-inspecting-a-rack-of-gpus.jpg"
-        width: 2121
-        height: 1414
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64f5bc845a7c3861341e8146/0x0.jpg?format=jpg&width=1200"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "Cash in or lose out: Banks are turning to AI, cloud computing, and Web3 to gain competitive advantage and customer loyalty"
+    excerpt: "Artificial intelligence, cloud tech, and Web3 are helping banks with their digital strategies for strengthening their brand and customer loyalty."
+    publishedDateTime: 2023-09-05T15:20:00Z
+    webUrl: "https://www.businessinsider.com/how-ai-cloud-technology-web3-metaverse-disrupting-banking-industry-2023-9"
+    ampWebUrl: "https://www.businessinsider.com/how-ai-cloud-technology-web3-metaverse-disrupting-banking-industry-2023-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-ai-cloud-technology-web3-metaverse-disrupting-banking-industry-2023-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
+    images:
+      - url: "https://i.insider.com/64f2142b1b7ced0019c6c709?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Google goes all in on the AI cloud"
+    excerpt: "Market landscape analysis: Players such as Snowflake Inc. and Databricks have effectively acted as the AI and data layer on platforms such as Amazon and Microsoft Azure, given these cloud platforms’ underwhelming data and AI capabilities. AWS seems ..."
+    publishedDateTime: 2023-09-02T15:37:00Z
+    webUrl: "https://siliconangle.com/2023/09/02/google-goes-ai-cloud/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Google-Cloud.jpeg"
+        width: 6948
+        height: 4634
+        isCached: true
+  - title: "Google adding AI tools to cloud"
+    excerpt: "Google's cloud clients will be able to access Meta's Llama 2 large language model, as well as AI startup Anthropic's Claude 2 chatbot, to customize with enterprise data for their own apps and services. The move, announced last week at Google's Next '23 ..."
+    publishedDateTime: 2023-09-03T07:01:00Z
+    webUrl: "https://www.arkansasonline.com/news/2023/sep/03/google-adding-ai-tools-to-cloud/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 39
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/205216573_Google-AI-bg-3db9458a-4676-11ee-9807-7da73538c4fb_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 399
+        isCached: true
+  - title: "Don’t rush ethics in generative AI adoption plans"
+    excerpt: "Even when leaders feel the pressure to adopt generative AI quickly, ethical frameworks and use case policies should guide their plans."
+    publishedDateTime: 2023-09-05T12:58:00Z
+    webUrl: "https://www.ciodive.com/news/generative-AI-ethics-policy/692590/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 34
+  - title: "Ally partners with Microsoft to leverage generative artificial intelligence"
+    excerpt: "Banks have been leveraging traditional artificial intelligence for years in ways such as predicting market trends and optimizing investment. But generative AI can produce its own data content to increase productivity for financial firms. That has led Ally ..."
+    publishedDateTime: 2023-09-01T18:53:00Z
+    webUrl: "https://www.bizjournals.com/charlotte/inno/stories/news/2023/09/01/ally-bank-generative-ai-platform-launch-microsoft.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 32
+  - title: "IAA MOBILITY 2023 Talking not Typing: Continental and Google Cloud Equip Cars with Generative Artificial Intelligence"
+    excerpt: "Continental announced a partnership with Google Cloud during its press conference at the IAA MOBILITY 2023. Together, the two companies are equipping"
+    publishedDateTime: 2023-09-04T17:26:00Z
+    webUrl: "https://menafn.com/1107004164/IAA-MOBILITY-2023-Talking-not-Typing-Continental-and-Google-Cloud-Equip-Cars-with-Generative-Artificial-Intelligence"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 14
+    images:
+      - url: "https://menafn.com/updates/pr/2023-09/04/pr_12163_22a9c30d_image_story.jpg"
+        width: 4920
+        height: 3553
         isCached: true
 
-secured: "ogMC9ujyRybWP/YdyRSqDMN30LHKFVsPf4INgNhXHoOZDaUgAyAtJJlVzKYGSy4dgcEoKy5NJF/Odp80WGxPqj80HTVPhvI8BxbkArqE3Uu/cc4IvHImfeDs5yIGRgi6iWYZE3fMq/wCBIXBEHkHEP/h8dnjcRX6V/6E7WZvs+bJBiWSTHM4zfZWEajIl3tSF+g67WRRbxQyLp4Qp2brsfA+SBqueaU+KMFsgfay7Nw4gqB22JCUPexzxa8ui7gELncsiwgBiXZF/FUks+P4RKQDxnTCCFxOXmNWA91AH29XUyDh/iEHToE0bGHs4i//gTjj+orUiZH0T1Fvf0iJs9mkJhMPJyzkXebT/jsxkE8=;VIxi8Q/OaHO+oNRMO9BZ7w=="
+secured: "UemI+qDI8PzK48ces72hVkd8rxKDghKF5pFG1bBSZjsldPjC5ta5yqIeLcUwaA5PtPCDLwZwQzKXl79w5mhztYEhr1xd/1bxl02B4yUg0yJJkIFQVCsZDmPCI7nRB4N99FE8UXjFvaIrTbyqgXvwF+sikRVoxONlFVtzKqKUXFtB8yR6sUfI93Va2xliIX4QfmJ95TYSNxVb/UFsr38zsNNmbez77uYWZ4/zHEWBNDS2Er5YlXyw99nWRu7m7C92Nz0rgTMCTRLIN/SQzQ47Ef+NRCNsupv6pvvAavjW1Mq9/KDxlAe5r6MTTQFYFIwOq/Ve6Fu9+X7RMC8XdCQckLTnlOEbLwLfomfEqXzMu3dqzFJmEIAvXOYRbm7xHjOmefZTt3rza1bo0tEMYlV096efQWQPwzjwRUd8hf2rCGc+JWKC9+GC0G1EKikNtbIRVfN7BGcxKZSm+i8ns1ONNZkXDtMJms0JltpItItdm+7i34NDNryczBM1ua8g6zhfbbbj7GxL9Yo8/rjLqQgNVw==;I2qcxzHdewGhAJavVzm7Hg=="
 ---
 

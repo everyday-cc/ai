@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/georgebradt/2023/09/05/the-human-touch-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/georgebradt/2023/09/05/the-human-touch-unleashing-competitive-advantage-in-the-age-of-artificial-intelligence/amp/"
 type: article
 quality: 79
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Cash in or lose out: Banks are turning to AI, cloud computing, and Web3 to gain competitive advantage and customer loyalty"
-    excerpt: "Artificial intelligence, cloud tech, and Web3 are helping banks with their digital strategies for strengthening their brand and customer loyalty."
-    publishedDateTime: 2023-09-05T15:20:00Z
-    webUrl: "https://www.businessinsider.com/how-ai-cloud-technology-web3-metaverse-disrupting-banking-industry-2023-9"
-    ampWebUrl: "https://www.businessinsider.com/how-ai-cloud-technology-web3-metaverse-disrupting-banking-industry-2023-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-ai-cloud-technology-web3-metaverse-disrupting-banking-industry-2023-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 61
-    images:
-      - url: "https://i.insider.com/64f2142b1b7ced0019c6c709?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "OA/tlm/cv5qAQ+ESBNOSCgXGsFT9lgdo1FDrdt4XNZSMqIsVdGJyv2JWi2RDGd9esXU6eahmlRIshiygg8dYcIt8rtBL9KS+iGtz7M/1fZrRDffbVgNMvlIiBaoSLobH6nIiEQGQE34KwkrV7/dGayQ+h5xnlvFUiz/6ZhepfB29OBzSrZANpWaT41gdca8gJliq6GwcJMzGdUgt2uPV2XqhDZvlw/72MlpoRQHi+lkwQpSngUF8nyw+aVD5RWQIwJCte6u+4yTu8edpbFwesUezl4EZI3x2Y/xT9CeV6QCF/okgreItHaqhyN6YQTN5IXFrTHrGQsnuGyqVoAf8OWqQ81k+1YKhaPzedTXp71JEZj2YfNJyexEEybLQzEjQnLjzRZEtFNVY4nf6ZW1NSMqJ9V03+QyLG9hW7LOAtwTkx+41MbiRMjtqdRXXIRohRFd6Og4Od+alOSS+Bn2hu9iyJkooF59/JdillRZM9zOsq7uJU32POjV4gSWptzkyY9TvloSohdDx2MdtS0nzfA==;jUoIWGYLwHImuk0gEOfToA=="
 ---

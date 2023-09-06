@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Dihuni Ships GPU Servers for Generative AI and LLM Applications"
+    excerpt: "Dihuni has enabled a new suite of new GPU servers with an online configurator for customers to easily select GPU, CPU and other configuration options. These GPU servers can be preloaded with operating system and AI packages including Pytorch,"
+    publishedDateTime: 2023-09-01T20:58:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/09/01/9873897.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
   - title: "AI’s impact on education: Delaware professors reflect on its disruptive power, and its potential"
     excerpt: "Professors and students weigh in on fears that ChatGPT will diminish student’s ability to think critically and hinder the process of education."
     publishedDateTime: 2023-09-05T12:29:00Z

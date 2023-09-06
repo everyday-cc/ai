@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/how-businesses-can-achieve-greener-gene
 webUrl: "https://venturebeat.com/ai/how-businesses-can-achieve-greener-generative-ai-with-more-sustainable-inference/"
 type: article
 quality: 66
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: VentureBeat
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Dell Becomes One Of The Early Generative AI Winners"
+    excerpt: "Dell Technologies Inc (NYSE: DELL) had its best stock market day since its 2018 return to the public market after it reported its fiscal second quarter results."
+    publishedDateTime: 2023-09-05T13:59:00Z
+    webUrl: "https://www.benzinga.com/23/09/34237167/dell-becomes-one-of-the-early-generative-ai-winners"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34237167"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34237167"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://cdn.benzinga.com/files/close-up-entrepreneur-going-through-business-reports-taking-notes-office.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "FJ60HbZEpM+kMUDUy5mmMRzyYXUrEOqJpe4T2WoG8EVoVRFuctikV+AH8VRFf23cgo+J6Ffc+KSP62aASE9NZG86JH6KmiEeOOP9Ce7dZA4aTGA2VWj4EDuji7q+EuO14F4GZtAZKGLTCuTbYSp6K59YRtKf7WqSezwo7D63Vgxetj+pO9saBNdZcLOvgRacgbz7EmDmaX+BRMCCwXyWoj2mcua1fjTetF5r3FrsqFifvT8CofwhxOUF0KamkBEu0o1PoYIYHKmsEFgVb9hewTM91AbQHmXpTXMDV7CMilZPTO4XW4/ZpGw7U9bVM7BY9s4BPoO3RYVdRwc5rUCdh1asi0/LcSCZ/1WPT3RUGymr5nePc9jUi7RRm1661kI1PmHVw+e7UUemC+0l/lmCrsW5CZ24Wkhl75Z3xW6Nfmt4x0h2XedCa0k9uwOLU0e0E77GUB+rXl3JvRBQEderYefNoX0F5Hy3zKYA5ufSU9OAf/iAYwcOVzl/GBT4qRJ90HwtfdjHGw2QHUnahPZY1A==;sIprm1Pg01AJGzu/04F05g=="
 ---

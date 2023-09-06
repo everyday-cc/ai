@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevenaquino/2023/09/05/inside-googles-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2023/09/05/inside-googles-image-qa-on-android-and-using-ai-for-all/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://sm.pcmag.com/t/pcmag_au/news/a/android-ev/android-evolution-google-tweaks-logo-announces-ai-influenced_m14d.1200.png"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Google goes all in on the AI cloud"
-    excerpt: "Market landscape analysis: Players such as Snowflake Inc. and Databricks have effectively acted as the AI and data layer on platforms such as Amazon and Microsoft Azure, given these cloud platforms’ underwhelming data and AI capabilities. AWS seems ..."
-    publishedDateTime: 2023-09-02T15:37:00Z
-    webUrl: "https://siliconangle.com/2023/09/02/google-goes-ai-cloud/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 41
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Google-Cloud.jpeg"
-        width: 6948
-        height: 4634
         isCached: true
 
 secured: "881SUbPp/VMDoylLlPwgla2WJhTSmMNY4eooKZn2iA2ToTgIoSlI8nJL5i8c2kz824dHq0QnKkLiEgtrwkTJfMSfwZRa4q27FcYvXlRdqO1ug94AWjL8n+s08F76uHVvnp62WH2Uh3sd/63tDQvdUAB7QSVtz2MNqIBDJTrDWrqTzDuFbfZHY1/fFD//6sJuXmbizp5GdPeUW8Uj9XN5CuvqZEEsevPuQiSoPEILjWGcDMm3dHKyKTzzJBdLSLwEx/J/IuSEwDYilHkrR48/pBidKIa0fQwi1sqBXy7DbTbpXnKpoUwDAA5dZZr31QoWvMPW724tvqnLoSN6GTlkxFSEuLBX/bYr+tVfhxR2WMUdGeOlq2mNn8QZrWZyFoja+Xf/BVzhxH895rX5FcZl6QT49gaPVv84jOKUoNt+nmbgIq5QpWw2RIimRLMWfoY+puId5dN1Z+546e/lb6bRMtE2b7M0Z4gIlgChSK0b2H5ggsyWYn3iD3mKlTZPRc+QfBu1hqmRYuPhJssfxavrcg==;7Y2sOeZ4z/gWOw7O6/F5uw=="

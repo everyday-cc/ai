@@ -99,6 +99,34 @@ related:
         width: 2374
         height: 1263
         isCached: true
+  - title: "4 big FinTech funding rounds in MENA in August 2023"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-09-06T07:56:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/4-big-fintech-funding-rounds-in-mena-in-august-2023/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/11/Funding.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Want a new fintech job? These are the skills employers want now"
+    excerpt: "Here are the most in-demand skills for fintech companies recruiting fresh talent, and some advertised tech vacancies in the space"
+    publishedDateTime: 2023-09-06T09:25:00Z
+    webUrl: "https://www.information-age.com/want-new-fintech-job-these-are-skills-employers-want-now-123507093/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 24
+    images:
+      - url: "https://informationage-production.s3.amazonaws.com/uploads/2023/09/want-new-fintech-job-these-are-skills-employers-want-now-scaled.jpg"
+        width: 2560
+        height: 1616
+        isCached: true
   - title: "The Fintech Revolution: Unraveling the Forces Reshaping Finance"
     excerpt: "Step into the dynamic world of fintech, where disruptive innovations are reshaping the financial landscape as we know it. In a society constantly craving innovation and convenience, the rapid ascent of top fintech companies comes as no surprise."
     publishedDateTime: 2023-09-01T17:56:00Z
@@ -118,6 +146,6 @@ related:
       domain: techbullion.com
     quality: 0
 
-secured: "+g70c9GMjX8iHZpm/H5cbphQ3yjAzFljwGgu5mN012mx2JavoKbMzKL42Uh22sf8/Qi8KtUwgQPzhdTXjShVyvrIJt/gO70SzjLIDozk40F0oKjFJUNK4VLldNlw58Lm4eMtiDcXY2JwOqQTZrDBndLPQVzieWwVsmmqISFgWw0xGGi/B9xX1hRIA+M4Wnrw5ZRdybwYrxcJ5r3Z9lSEcKI5l11ghk5Qvn9yo9xgGElDapDuEE3lWCdSReco6C1cDVlAoOU1gQdhFPSDbKcqab3Gtj26DRSzcrON+ntOHtaBtnSul4bm80aS1sIYzuNZfV6NSiwo0fJgI1JebPuCCN956iKVXCol27LCZIwxHVU=;8X89AtsDlt4aiN1sCpIpkQ=="
+secured: "gKduYpAylBFLvXfeNDQaa4G7aLAhnMgo7+nv/U8B9HvirksK1qQUxsSGkNcKdc3mWtzXGSoolo3W+HEVyBJmY3cFNCJEdxiuB5JENcuaUBk/JqPq1lhIk1k4UkOCZ2ehH0kxB2lJSTUR5hmphLF0oXW4V1WG0eNe7VJCCNWP+8q9M7v+TQnYS+mCeLSgFRIK9pQsPdP7kyIfnh8eZW3MEb5rHEw6SO9MblDfwjrNk7KiwCDxWtOePukSliPKtdXLA48BkTPquGiaV0oxKD+esQyp1atEdZAS6IQiDDNoI/daXBfV9RyCpCFOh62Udhlvdy2eseKEpZuONoT1YbYj0E/YlVQ2eqAyCYbZHmorTgzaXwp3V29xMgQWeFkoeFpBP4xPbJVWG4kXzW6SseMnzjuCTB2HEJ1fCPV5SFtU34uLGQsH1YrtOVEZMt/DmEKFQ3icbCqWR9VlWijL4ZwPKBmvJDYAQq/rPE14MGwh4HzdzPDv1LKxkkWdg8CXNAwYPeLSoRaRmOKPUwDxvUpDZw==;/3dIFggVfeNbCcjjbEp0yg=="
 ---
 

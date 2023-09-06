@@ -25,125 +25,89 @@ images:
     isCached: true
 
 related:
-  - title: "What CTOs are learning from generative AI"
-    excerpt: "These tools use machine learning algorithms and natural language processing (NLP) to help developers automate some aspects of coding. “AI-generated coding enables developers to work on more creative and fulfilling tasks,” Rotar says. “By spending ..."
-    publishedDateTime: 2023-09-05T09:01:00Z
-    webUrl: "https://www.infoworld.com/article/3705048/what-ctos-are-learning-from-generative-ai.html"
-    ampWebUrl: "https://www.infoworld.com/article/3705048/what-ctos-are-learning-from-generative-ai.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705048/what-ctos-are-learning-from-generative-ai.amp.html"
+  - title: "Crossing the chasm in AI-led marketing transformation"
+    excerpt: "And that is why it should be among the top priorities for any chief marketing officer (CMO) to unravel the possibilities of AI. Customer-centric sectors such as fintech, and e-commerce have already started piloting AI strategies while many other sectors ..."
+    publishedDateTime: 2023-09-02T11:06:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-crossing-the-chasm-in-ai-led-marketing-transformation-3230292/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-crossing-the-chasm-in-ai-led-marketing-transformation-3230292/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-crossing-the-chasm-in-ai-led-marketing-transformation-3230292/lite/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 93
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/08/shutterstock_767182213-100945458-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "How Google Cloud Is Leveraging Generative AI To Outsmart Competition"
-    excerpt: "It has a smaller 256-chip footprint per Pod, which is optimized for the state-of-the-art neural network architecture based on the transformer architecture."
-    publishedDateTime: 2023-09-04T11:49:00Z
-    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/"
-    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64f5bc845a7c3861341e8146/0x0.jpg?format=jpg&width=1200"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "Generative AI Drugs Are Coming"
-    excerpt: "The merging of deep, quality data and expertise with increasingly sophisticated AI capabilities has the potential to truly shift the future of medicine."
-    publishedDateTime: 2023-09-05T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/05/generative-ai-drugs-are-coming/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/05/generative-ai-drugs-are-coming/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/05/generative-ai-drugs-are-coming/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64f22325ebec7ec31b17ee9b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 801
-        isCached: true
-  - title: "How Apple is already using machine learning and AI in iOS"
-    excerpt: "Machine learning has become Apple's catch-all for its AI initiatives. Apple uses artificial intelligence ... with the launch of iOS 17.1. Apple will improve dictation and language translation with machine learning as well. Machine learning is also present ..."
-    publishedDateTime: 2023-09-02T17:17:00Z
-    webUrl: "https://appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios"
-    ampWebUrl: "https://appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
+      name: The Financial Express
+      domain: financialexpress.com
     quality: 76
     images:
-      - url: "https://photos5.appleinsider.com/gallery/56062-113816-Apple-Siri-xl.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-01T181533.194.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "I've made $2.7 million in revenue in the last 6 months by selling AI courses and using AI tools to cut costs. Here's how."
-    excerpt: "I started sharing what I was learning in late 2022 on Facebook and via email with ... People wanted to learn about generative AI but already felt behind Talking with my audience via direct messages and market-research calls, I found that business owners ..."
-    publishedDateTime: 2023-09-05T11:01:00Z
-    webUrl: "https://www.businessinsider.com/how-to-sell-ai-products-made-millions-2023-9"
-    ampWebUrl: "https://www.businessinsider.com/how-to-sell-ai-products-made-millions-2023-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-sell-ai-products-made-millions-2023-9?amp"
+  - title: "Part 2: How Artificial Intelligence is Driving the Transportation Sector Forward"
+    excerpt: "What a ride it's been for the transportation industry since AI! After all, this new technology comes hand-in-hand with the transport sector."
+    publishedDateTime: 2023-09-06T09:26:00Z
+    webUrl: "https://techround.co.uk/tech/part-2-how-artificial-intelligence-is-driving-the-transportation-sector-forward/"
+    ampWebUrl: "https://techround.co.uk/tech/part-2-how-artificial-intelligence-is-driving-the-transportation-sector-forward/amp/"
+    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/tech/part-2-how-artificial-intelligence-is-driving-the-transportation-sector-forward/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
+      name: TechRound
+      domain: techround.co.uk
+    quality: 54
     images:
-      - url: "https://i.insider.com/64f07bcbf8c86200196140eb?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://techround.co.uk/wp-content/uploads/2022/01/transport-scaled.jpg"
+        width: 2560
+        height: 1438
         isCached: true
-  - title: "AI expert discusses generative AI: What it means and how it will impact our future"
-    excerpt: "Generative AI is revolutionizing our world. Monica Livingston, an AI expert at Intel, shares her insights into the future of this growing technology."
-    publishedDateTime: 2023-09-01T16:18:00Z
-    webUrl: "https://www.businessinsider.com/sc/ai-expert-explains-how-generative-ai-will-change-our-future"
+  - title: "The Brand Bee Envisions The Role Of Artificial Intelligence In Shaping The Next Era Of Marketing"
+    excerpt: "a distinguished Digital Marketing Agency in Gurugram , is at the forefront of revolutionising the marketing landscape by embracing the potential of Artificial Intelligence (AI). Known for providing 360-degree solutions for digital marketing and hailed as a ..."
+    publishedDateTime: 2023-09-04T03:42:00Z
+    webUrl: "https://menafn.com/1107001684/The-Brand-Bee-Envisions-The-Role-Of-Artificial-Intelligence-In-Shaping-The-Next-Era-Of-Marketing"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 61
+      name: Mena FN
+      domain: menafn.com
+    quality: 41
     images:
-      - url: "https://i.insider.com/64f0a302954da4001967f7b8?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?195718"
+        width: 361
+        height: 249
         isCached: true
-  - title: "Dell Becomes One Of The Early Generative AI Winners"
-    excerpt: "Dell Technologies Inc (NYSE: DELL) had its best stock market day since its 2018 return to the public market after it reported its fiscal second quarter results."
-    publishedDateTime: 2023-09-05T13:59:00Z
-    webUrl: "https://www.benzinga.com/23/09/34237167/dell-becomes-one-of-the-early-generative-ai-winners"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34237167"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34237167"
+  - title: "How artificial intelligence is driving change in insurance"
+    excerpt: "Even as AI technology continues to develop, there is much for us to do so we can prepare for the future and meet it head-on."
+    publishedDateTime: 2023-09-04T07:46:00Z
+    webUrl: "https://www.business-reporter.co.uk/finance/how-artificial-intelligence-is-driving-change-in-insurance"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 39
+    images:
+      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/033/iStock-1309799098.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The chilling rise of AI scams"
+    excerpt: "Criminals are cloning voices and making calls to trick victims into sending them money. How can they be stopped?"
+    publishedDateTime: 2023-09-04T01:00:00Z
+    webUrl: "https://www.theguardian.com/news/audio/2023/sep/04/the-chilling-rise-of-ai-scams-podcast?ref=upstract.com"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 37
+    images:
+      - url: "https://i.guim.co.uk/img/media/fb0e197e035498657dc5efe2965f5e11dec0f640/0_128_5172_3105/master/5172.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c6d1bbe4de5d8ff97c5f41ca05280be5"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Impulse AI Revolutionizes Marketing and Content Creation With Cutting-Edge AI Solutions"
+    excerpt: "This tool is a game-changer.\" - Lawrence Schroth, Managing Director. Impulse AI offers various subscription packages tailored to different needs: - Essential Start - Free package with Curie (Good) Open AI Model, 36 AI Templates, 5 Images per month ..."
+    publishedDateTime: 2023-09-04T18:40:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/ab34213002/impulse-ai-revolutionizes-marketing-and-content-creation-with-cutting-edge-ai-solutions"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://cdn.benzinga.com/files/close-up-entrepreneur-going-through-business-reports-taking-notes-office.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Don’t rush ethics in generative AI adoption plans"
-    excerpt: "Even when leaders feel the pressure to adopt generative AI quickly, ethical frameworks and use case policies should guide their plans."
-    publishedDateTime: 2023-09-05T12:58:00Z
-    webUrl: "https://www.ciodive.com/news/generative-AI-ethics-policy/692590/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 34
+    quality: 26
 
 secured: "EE2/Fg01ZXCtH4iUsLHUthw3Ks9L/KlBmSJWh8lIREOHidA72855gTLJVKdSX9mVoyNaZBapopqg3HKtmR3vSYf7jPPHccEK5hKdVmU9e0YMER1l9L2yJ2bNHhaGNg28PbFSV3COwBu4YssV134il/8H8LOb8B+J19AOB9GAtUe3wao5MEExTsT8agE3EG9NLdHhMbkogOnwnICgO7UpA3uOFJ0cOW+YRmdy8aVBoxtVeIg5puR6b+oFlZraeONNpDNs4213YJq7QObKKBpnRg/N6896fB2t3IB6OyXwGltmB0eMCidKPH8sZHoLrAwoFEprp8Qvt++aI7KNDCYvB+d3AtIV1fQd68fQPaWei/5F+gfvcO8F5WSZrl2CNsypkpkctYrsAB4AM03ZjK+B+dYoEcKBr6N4jrWjE8y33jV8CnZjocJ0+1KPpX9yPPZXDm/4Ii8cr0bIJf7WHfWGUiUVv6KsCGJDz+4fH1aMVtmfA0XEH8ZiXEy5AfHgyxozHepSxNQe2Ydgs9TJsWRxSw==;Vuskoq+NEZIgegFM+9PfVw=="
 ---

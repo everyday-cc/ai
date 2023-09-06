@@ -290,15 +290,6 @@ related:
       name: The Lancet
       domain: thelancet.com
     quality: 4
-  - title: "Australia to vote on Indigenous Voice to Parliament referendum on October 14"
-    excerpt: "Australian Prime Minister Anthony Albanese announced Wednesday that Australians will vote on October 14 on whether to alter the Australian Constitution to recognize First Nations people by"
-    publishedDateTime: 2023-09-01T15:20:00Z
-    webUrl: "https://www.jurist.org/news/2023/09/australia-to-vote-on-indigenous-voice-to-parliament-referendum-on-october-14/"
-    type: article
-    provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 1
   - title: "Dutton’s vow for second Voice referendum is where Nationals have been for ‘some time’"
     excerpt: "Nationals leader David Littleproud says Opposition leader Peter Dutton’s vow for a second referendum to give constitutional recognition if the Voice to Parliament fails is where the Nationals have been for “some time”."
     publishedDateTime: 2023-09-03T20:06:00Z

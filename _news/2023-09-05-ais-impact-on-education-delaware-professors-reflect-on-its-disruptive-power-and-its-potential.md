@@ -34,6 +34,15 @@ related:
         width: 542
         height: 361
         isCached: true
+  - title: "Dihuni Ships GPU Servers for Generative AI and LLM Applications"
+    excerpt: "Dihuni has enabled a new suite of new GPU servers with an online configurator for customers to easily select GPU, CPU and other configuration options. These GPU servers can be preloaded with operating system and AI packages including Pytorch,"
+    publishedDateTime: 2023-09-01T20:58:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/09/01/9873897.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
 
 secured: "F455Ba8oy6vJbW3gi82ueWLKlkIGMJf1EEFxHTSkerlDu7ybPI+rl5kblDeoCwMMat108AmTbsOpAeKhWYVGbpbeqFoAWZjFu5RvF1i7yGJjDuzAjqjCfukgZqXHpyVxs2TY2tnCm7gprbc28SXGJZ8USIztl25M3H+FsDB/AVI0/Te85pyZo/711M3s7/EnyKbpD97T2lj/0ASjc/me7LKQxQPElY/6cnI6To8a67V5cEmk1N15Da0i259QOPX83nIuRXHBdf/pfNpxsP2BMUgNO3x277MxekyVWX7i1LOAl2+nVEAirAp5cPb21SuY6ACN3xA3NlxqEPYfDJUZwqpiDILhzUkQwJ5vSx1E6m589X1xUTM6DwkcO072rccrmsA6Q3IzIyV8k31VMsQdOVQtvwSxDM3efdnsKbecNMVapnDBx50ZuXjFIO6AvVE+ATuadqjiAoHQAlD1tQ4GeV3jeBfCa5BMpYXOBGLP8qad7Ot34jYW8weRWiE+jOroXDe9xxa0cvgkziQv2SmVGg==;CmOR7SXCRi/HET8pYDRoWg=="
 ---

@@ -25,19 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Here’s A Plain C/C++ Implementation Of AI Speech Recognition, So Get Hackin’"
-    excerpt: "[Georgi Gerganov] recently shared a great resource for running high-quality AI-driven speech recognition in a plain C/C++ implementation on a variety of platforms. The automatic speech recognition ..."
-    publishedDateTime: 2023-09-04T00:00:00Z
-    webUrl: "https://hackaday.com/2022/11/27/heres-a-plain-c-c-implementation-of-ai-speech-recognition-so-get-hackin/"
+  - title: "Ten Minute TensorFlow Speech Recognition"
+    excerpt: "If you want to experiment with using it for speech recognition, you’ll want to check out [Silicon Valley Data Science’s] GitHub repository which promises you a fast setup for a speech ..."
+    publishedDateTime: 2023-09-05T00:00:00Z
+    webUrl: "https://hackaday.com/2017/03/24/ten-minute-tensorflow-speech-recognition/"
     type: article
     provider:
       name: Hackaday
       domain: hackaday.com
-    quality: 51
+    quality: 73
     images:
-      - url: "https://hackaday.com/wp-content/uploads/2022/11/Whisper-iPhone.png"
-        width: 1397
-        height: 785
+      - url: "https://hackaday.com/wp-content/uploads/2017/03/tensor1.gif"
+        width: 800
+        height: 418
+        isCached: true
+  - title: "Object Detection, With TensorFlow"
+    excerpt: "One of the tools that can be put to work in object recognition is an open source library called TensorFlow, which [Evan] aka [Edje Electronics] has put to work for exactly this purpose."
+    publishedDateTime: 2023-09-02T23:59:00Z
+    webUrl: "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 58
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2018/07/main3.png"
+        width: 877
+        height: 600
+        isCached: true
+  - title: "Self-Driving RC Cars With TensorFlow; Raspberry Pi Or MacBook Onboard"
+    excerpt: "You might think that you do not have what it takes to build a self-driving car, but you’re wrong. The mistake you’ve made is assuming that you’ll be controlling a two-ton death machine."
+    publishedDateTime: 2023-09-04T00:00:00Z
+    webUrl: "https://hackaday.com/2017/06/06/self-driving-rc-cars-with-tensorflow-raspberry-pi-or-macbook-onboard/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 58
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2017/06/self-driving-rc-cars.jpg"
+        width: 3872
+        height: 2408
         isCached: true
 
 secured: "WUmlYT+639TDS0NUo2NgEvGmom3WAq9vwFTRY4q6yKR8yUKqjVcNY5dfStTZ0CMc0sWolFLHWihi7QbCHxgRtFifKkenZJWT80WasMMi5RI1UXct/rKtxczHa1hYaSPh25tsWowXXcYYs0k4NfQcP3ZAiH/BWaBkazF9E/wykdg7LYk5fkVqZq7NdwjfYhTTCJHUZGql5s7tZ6JI+3Fa+pX92lRIJiBVo0CmC9yXXi3P6G2/FGbLD0v4txuJ4lcoqWp5OPuBZ1wVlO33MKTOU/HuCiln9pin/9CJ3ZC7aH40v60ozf94MNInkx06W8RRF7dyYDEjMxnMhCzPNTSkCN2bRr9LcasLE7cbImok8Sc=;KYlbmy9PdRPhdN+4Twk3xw=="

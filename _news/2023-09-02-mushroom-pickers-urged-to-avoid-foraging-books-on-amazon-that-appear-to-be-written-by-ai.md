@@ -29,17 +29,6 @@ images:
     height: 372
     isCached: true
 
-related:
-  - title: "Mushroom pickers urged to avoid foraging books on Amazon that appear to be written by AI"
-    excerpt: "Sample of books scored 100% on AI detection test as experts warn they contain dangerous advice"
-    publishedDateTime: 2023-09-01T15:32:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/sep/01/mushroom-pickers-urged-to-avoid-foraging-books-on-amazon-that-appear-to-be-written-by-ai"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 8
-
 secured: "XHN/hvmNqmOskp4D31ZHoEmvKasnCSvhWfoUcgruPVIEDu3zU/aUHX0CLX7hocPcVKn08h/+VUT7xFpxX1Ruuu19tzy69m9GjOsL2prjiPXwZD3AeVWuBOfvu1+0noXdxW/kyS0S2jymbrIQ6FEZSIbr8MOAbI62/X4NjEbEjkNXlgk/iY+YmlosQQzr0SPjMHt9tU8QVQp2HoocoShldBAQOXDknrHaQ6MzNdKokDLKUh/JDDlTeKm3KvVQhXoPghq3rDoPjtgCjzhH4SO+Ce7NU/CuOy/93w5XKFoI2BmnaqnF5ZgnUhLCBtLStVE9NNEeeo5ff4OpoxEPMUQ85jRbPsvnfn+Ky8B6fHTAILap9SB/e1rHkIcMUVkmVgz/8Xcjw2TgTSPDE+e5SrBg+BQUG4yhk/cTOw1UsGbcf/hoT1+FNG63CLuiFaJ56YJO9ljhy/Xz7flaJ2fUBezD5eHAmrgQjYvQ047+y65rO1eqtftaz7X7PNj/ZJ4giCaoTEvW4lTTyZSIIDyocFgotA==;wUGJhwLyrskYjU8L1dmA+g=="
 ---
 
