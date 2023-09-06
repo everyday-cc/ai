@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/what-openai-really-wants/"
 webUrl: "https://www.wired.com/story/what-openai-really-wants/"
 type: article
 quality: 71
-heat: 91
+heat: 93
 published: true
 
 provider:

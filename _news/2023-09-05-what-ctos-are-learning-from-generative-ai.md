@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3705048/what-ctos-are-learning-fro
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705048/what-ctos-are-learning-from-generative-ai.amp.html"
 type: article
 quality: 93
-heat: 195
+heat: 175
 published: true
 
 provider:
@@ -48,22 +48,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64f5bc845a7c3861341e8146/0x0.jpg?format=jpg&width=1200"
         width: 1000
         height: 667
-        isCached: true
-  - title: "Enabling Enterprise Transformation With Generative AI"
-    excerpt: "For the rapidly evolving technology to live up to its promise of transforming the way we work by leveraging enterprise data, three key questions must be considered."
-    publishedDateTime: 2023-09-01T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/01/enabling-enterprise-transformation-with-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/01/enabling-enterprise-transformation-with-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/01/enabling-enterprise-transformation-with-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64de2670c0104c27ef8801c6/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Generative AI Drugs Are Coming"
     excerpt: "The merging of deep, quality data and expertise with increasingly sophisticated AI capabilities has the potential to truly shift the future of medicine."
@@ -166,15 +150,6 @@ related:
       name: CIO Dive
       domain: ciodive.com
     quality: 34
-  - title: "Acceptable-use policies for generative artificial intelligence"
-    excerpt: "The program is possibly the most well-known example of generative AI, an artificial intelligence technology that identifies patterns in large quantities in training data and then generates original content – text,"
-    publishedDateTime: 2023-09-01T10:00:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2023/09/01/acceptable-use-policies-for-generative-ai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "Cc/pH1FdjGZnzZbefCNUexlCUxwq7SbRczpxmGzNAF/nFHEfs411mkRLO/+6HXdU41zetDDkRYxBFuDU5TuMYIotO/Z0GAYD+6p3HZLu1Fzm2MSHxHwIswJyt1n4yPSKD9ExsrzxG5QTJHayzTbh0VobtZZIeLPazU8Y4WIOru6+bw0P2MvMmYu15wKlQxWvpoiPX5AHpMonAckEMLHvmHUM+35FIlCNUamt+PYJAA4pOnW4gzaGjkOjIDbKtmite8i5U152p7UmLB/MdM0V5fEKu7cL1qqPCvbZS4wFGs7WiXWcIp1J+M2ODUETXHoSwaQ/xzdK6Du2Zd8Yf8mEMw1eTqoj1Cm7fjrm1gJc+6EJm/YGw6T92T9+QoFTr4RRN/s9r8tzqNVqOpToDBr/t4biR5/L747APR4RjOwIKSiiP+HzJ6IfirYcwsjazrUVPcutqLS+PW17u1+VUtBdHw5LMk+DpeAWx+Lj0p6XY0dYs5uhgiIk7F28YHzMHvIqS46Mvz6UD/GEt4ZCx19D6g==;DOlkg6Cbiq5it/kynvO83A=="
 ---

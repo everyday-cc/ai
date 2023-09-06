@@ -57,22 +57,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Enabling Enterprise Transformation With Generative AI"
-    excerpt: "For the rapidly evolving technology to live up to its promise of transforming the way we work by leveraging enterprise data, three key questions must be considered."
-    publishedDateTime: 2023-09-01T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/01/enabling-enterprise-transformation-with-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/01/enabling-enterprise-transformation-with-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/01/enabling-enterprise-transformation-with-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64de2670c0104c27ef8801c6/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Generative AI Drugs Are Coming"
     excerpt: "The merging of deep, quality data and expertise with increasingly sophisticated AI capabilities has the potential to truly shift the future of medicine."
     publishedDateTime: 2023-09-05T11:45:00Z
@@ -160,16 +144,7 @@ related:
       name: CIO Dive
       domain: ciodive.com
     quality: 34
-  - title: "Acceptable-use policies for generative artificial intelligence"
-    excerpt: "The program is possibly the most well-known example of generative AI, an artificial intelligence technology that identifies patterns in large quantities in training data and then generates original content – text,"
-    publishedDateTime: 2023-09-01T10:00:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2023/09/01/acceptable-use-policies-for-generative-ai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
-secured: "CrmS22Gn/ZKPT9/AAp6WJSGE74WIZqZ9RkyY2tcH9hWfVNHoBSm/BGRe8FGYO//d0xT07YJz+TXaqIIrSJ1u4t+60JBQlEQfH1T0xF3AHW+JiTYLTdrCavkkKvQCjHZsvSoTGgMCpmxuz/wErfsdDRkmajdSTtY3Fxa1zWAX5nwrd4U/NniKMXVaQavnLeqa9SJBC0ShiBJ57ya1v9Y0JC7DCwKTGR3bowQBjYkPD2KwQQ2reIA86nIkCuk/8HhRQCTYOBEYPYCodTfZOQ1JWfi+HrcXMz76NsjHx1h4OxWt08cPegafBsMLGH+FOYYh7jnlBLB318upN17dIj3ZT92AtAfB2hqSGC33Fp114Q4=;dyLj6p/KlUoDbdxdb9Jrig=="
+secured: "EE2/Fg01ZXCtH4iUsLHUthw3Ks9L/KlBmSJWh8lIREOHidA72855gTLJVKdSX9mVoyNaZBapopqg3HKtmR3vSYf7jPPHccEK5hKdVmU9e0YMER1l9L2yJ2bNHhaGNg28PbFSV3COwBu4YssV134il/8H8LOb8B+J19AOB9GAtUe3wao5MEExTsT8agE3EG9NLdHhMbkogOnwnICgO7UpA3uOFJ0cOW+YRmdy8aVBoxtVeIg5puR6b+oFlZraeONNpDNs4213YJq7QObKKBpnRg/N6896fB2t3IB6OyXwGltmB0eMCidKPH8sZHoLrAwoFEprp8Qvt++aI7KNDCYvB+d3AtIV1fQd68fQPaWei/5F+gfvcO8F5WSZrl2CNsypkpkctYrsAB4AM03ZjK+B+dYoEcKBr6N4jrWjE8y33jV8CnZjocJ0+1KPpX9yPPZXDm/4Ii8cr0bIJf7WHfWGUiUVv6KsCGJDz+4fH1aMVtmfA0XEH8ZiXEy5AfHgyxozHepSxNQe2Ydgs9TJsWRxSw==;Vuskoq+NEZIgegFM+9PfVw=="
 ---
 

@@ -136,49 +136,6 @@
       ]
     },
     {
-      "path": "_news/2023-09-05-roblox-is-becoming-an-artificial-intelligence-ai-powerhouse.md",
-      "title": "Roblox Is Becoming an Artificial Intelligence (AI) Powerhouse",
-      "excerpt": "Fool.com contributor Parkev Tatevosian highlights how Roblox (RBLX 0.53%) is using AI and what it could mean for investors. *Stock prices used were the afternoon prices of Sept. 2, 2023. The video was published on Sept. 4, 2023. Parkev Tatevosian, CFA has ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/09/04/roblox-is-becoming-an-artificial-intelligence-powe/",
-      "originalUrl": "https://www.fool.com/investing/2023/09/04/roblox-is-becoming-an-artificial-intelligence-powe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-04T12:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-04-bayer-is-rapidly-expanding-its-footprint-with-artificial-intelligence.md",
       "title": "Bayer Is Rapidly Expanding Its Footprint With Artificial Intelligence",
       "excerpt": "Bayer is one of the world’s most prominent pharmaceutical and biotechnology companies. It is known for creating household staples such as Aspirin, to more advanced technologies and innovations that are often used behind the scenes, including dyes for ...",
@@ -1359,6 +1316,61 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-08-16-the-world-isnt-ready-for-the-next-decade-of-ai.md",
+      "title": "The World Isn’t Ready for the Next Decade of AI",
+      "excerpt": "Mustafa Suleyman, cofounder of DeepMind and Inflection AI, talks about how AI and other technologies will take over everything—and possibly threaten the very structure of the nation-state.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/have-a-nice-future-podcast-18/",
+      "originalUrl": "https://www.wired.com/story/have-a-nice-future-podcast-18/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/64dbb4a1eb3f06fa8140d23f/191:100/w_1280,c_limit/081523-HANF-Mustafa-Suleyman.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-16T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Facebook AI",
+        "Google AI",
+        "Natural Language Processing"
       ]
     }
   ],

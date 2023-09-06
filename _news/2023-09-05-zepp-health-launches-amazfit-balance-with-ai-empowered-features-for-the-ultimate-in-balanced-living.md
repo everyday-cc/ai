@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/biz/news.asp?feed=2310"
 webUrl: "https://www.digitimes.com/biz/news.asp?feed=2310"
 type: article
 quality: 25
-heat: -1
+heat: 25
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 600
     height: 300
     isCached: true
-
-related:
-  - title: "Zepp Health Launches Amazfit Balance with AI-empowered Features for the Ultimate in Balanced Living"
-    excerpt: "Convenient Contactless Payments enabled on Amazfit Balance Smartwatches with Zepp Pay, powered by MastercardMILPITAS, Calif., Sept. 1, 2023"
-    publishedDateTime: 2023-09-01T10:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/zepp-health-launches-amazfit-balance-with-ai-empowered-features-for-the-ultimate-in-balanced-living-1032598895"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 33
 
 secured: "yeo4F4iWfXejTB8gCBNJctMOyWEJ6FQqfkZ/J//VZ/HkBJbgOsf5ZyK3bHcmaiJLH0qNeqeOWVHE4QdhgbDatBEQAvo+2p9K0SiXZYwDpqOjbXIJRXT8Um29QnUjtXhLBV+wqeQBR7a0mrITYKpXHk8YcM/1r9h7f2VRi6uU1ouw5+h34Lr/PBxOgO13jyJ508+hm/9HGhhA/Xe6SiVh3meWcxU1Yq+QPWHew/TUQqqmxIGZNsIRUjgmqMJWMFTHu827yhsccFnUryOFvcdqG/GtJXTtgr4PA2gz7Jo8fRFTh97U8Ft81Th57l52V+QouwlUzVqCAKOIDW2L49kyaFadUbJv55UOOccifd3ImxU=;3nLAqbmA909MVd59RTh8Ng=="
 ---

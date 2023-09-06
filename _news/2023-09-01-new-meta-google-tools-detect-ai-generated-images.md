@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Prosecutors in all 50 US states urge Congress to protect children from AI-generated sexual abuse images"
+    excerpt: "Attorneys general from all 50 US states have called on federal lawmakers to study the ways that AI can be used to exploit children."
+    publishedDateTime: 2023-09-06T02:54:00Z
+    webUrl: "https://www.scmp.com/tech/policy/article/3233554/prosecutors-all-50-us-states-urge-congress-protect-children-ai-generated-sexual-abuse-images"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 53
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/09/06/560741d1-b74f-416b-8984-121925892aae_f864c992.jpg?itok=WAT8osZC&v=1693968787"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Attorneys General from all 50 states urge Congress to help fight AI-generated CSAM"
     excerpt: "The attorneys general from all 50 states have banned together and sent an open letter to Congress, asking for increased protective measures against AI-enhanced child sexual abuse images."
     publishedDateTime: 2023-09-05T18:54:00Z

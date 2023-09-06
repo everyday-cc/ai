@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-08-03-amd-mulls-making-ai-chip-for-china.md",
+      "title": "AMD mulls making AI chip for China",
+      "excerpt": "AMD has an opportunity to build AI solutions for customers in China and is working in that direction, company president and CEO Lisa Su said in a company earnings call on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/fox-news-tech/amd-mulls-making-ai-chip-china",
+      "originalUrl": "https://www.foxbusiness.com/fox-news-tech/amd-mulls-making-ai-chip-china",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2023/08/0000.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/fox-news-tech/amd-mulls-making-ai-chip-china.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/fox-news-tech/amd-mulls-making-ai-chip-china.amp",
+      "publishedDateTime": "2023-08-02T13:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-02-while-amd-lags-nvidia-in-generative-ai-ceo-lisa-su-is-bullish.md",
+      "title": "While AMD Lags NVIDIA In Generative AI, CEO Lisa Su Is Bullish",
+      "excerpt": "AMD stock is down 2% in early trading August 2 after disappointing guidance and a to-be-executed Generative AI strategy",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/petercohan/2023/08/02/while-amd-lags-nvidia-in-generative-ai-ceo-lisa-su-is-bullish/",
+      "originalUrl": "https://www.forbes.com/sites/petercohan/2023/08/02/while-amd-lags-nvidia-in-generative-ai-ceo-lisa-su-is-bullish/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ca454a57cf68536b69db6b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2023/08/02/while-amd-lags-nvidia-in-generative-ai-ceo-lisa-su-is-bullish/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/08/02/while-amd-lags-nvidia-in-generative-ai-ceo-lisa-su-is-bullish/amp/",
+      "publishedDateTime": "2023-08-02T06:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-02-amd-to-develop-slower-ai-gpus-for-chinese-market-to-comply-with-us-restrictions.md",
       "title": "AMD to develop slower AI GPUs for Chinese market to comply with US restrictions",
       "excerpt": "In September last year, the US further tightened export sanctions against China by introducing rules that prohibited Nvidia and AMD from selling their high-performance AI-focused GPUs/accelerators",
@@ -1358,110 +1453,6 @@
         "AI Hardware",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-japans-advantest-sees-ai-driving-demand-for-chip-testing.md",
-      "title": "Japan's Advantest sees AI driving demand for chip testing",
-      "excerpt": "Japan's Advantest Corp said on Wednesday it expects growing use of high-end semiconductors for generative artificial intelligence applications to drive demand for its chip testing machines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/japans-advantest-sees-ai-driving-demand-chip-testing-2023-07-26/",
-      "originalUrl": "https://www.reuters.com/technology/japans-advantest-sees-ai-driving-demand-chip-testing-2023-07-26/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/gSBHHq2X9rB65cz8UMfNJZK7tOI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/B2APLTSTTJKGTHLIBI6AGQCEZA.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T00:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-sk-hynix-posts-narrower-second-quarter-loss-amid-robust-ai-demand-sees-chip-recovery.md",
-      "title": "SK Hynix posts narrower second-quarter loss amid robust AI demand, sees chip recovery",
-      "excerpt": "SK Hynix in its latest earnings report said that the weak memory chip market is starting to recover amid robust artificial intelligence demand.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/07/26/sk-hynix-earnings-q2-loss-narrows-amid-robust-ai-demand-chip-recovery.html",
-      "originalUrl": "https://www.cnbc.com/2023/07/26/sk-hynix-earnings-q2-loss-narrows-amid-robust-ai-demand-chip-recovery.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107276745-1690338268463-gettyimages-1246671088-porzycki-flashmem230130_npu1c.jpeg?v=1690351806",
-          "width": 3543,
-          "height": 2362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/26/sk-hynix-earnings-q2-loss-narrows-amid-robust-ai-demand-chip-recovery.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/26/sk-hynix-earnings-q2-loss-narrows-amid-robust-ai-demand-chip-recovery.html",
-      "publishedDateTime": "2023-07-25T23:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

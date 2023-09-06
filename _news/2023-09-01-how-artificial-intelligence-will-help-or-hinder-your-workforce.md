@@ -59,20 +59,18 @@ related:
       domain: arstechnica.com
     quality: 41
   - title: "Explainable-AI Image Recognition achieves precise 3D descriptions of objects for US Air Force, a major AI breakthrough"
-    excerpt: "Z Advanced Computing, Inc. (ZAC), the pioneer CognitiveExplainable-AI (Artificial Intelligence) (Cognitive XAIor CXAI) software startup, has developed the \"Describer\""
-    publishedDateTime: 2023-09-05T17:03:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/n34245972/explainable-ai-image-recognition-achieves-precise-3d-descriptions-of-objects-for-us-air-force-a-ma"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34245972"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34245972"
+    excerpt: "\"ZAC algorithms can describe and measure 3D objects from any viewpoint, for full Explainability of 3D objects,\" emphasized Dr. Bijan Tadayon, CEO of ZAC. \"We will be using this tech for Medical Imaging, too,\" continued Dr. Bijan Tadayon."
+    publishedDateTime: 2023-09-05T18:24:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/09/05/9874975.htm"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 35
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://mma.prnewswire.com/media/2201922/Z_Advanced_ComputingInc_Table_Compare.jpg"
+        width: 400
+        height: 302
         isCached: true
 
 secured: "pT2pUaG0cEp7RNWsu+GKyeFr9z4aRDIbT8Pt+bzAq2H4MZ6TrCu+Mpds8Q77QMCU7UUYrH6eT/h3fEsjJCVdwhKaQf4+wDVGxzGrBJXBePThejbGCtBNyY5KM7rY22q0lo6K4VJEVavlkfQo71ed4zk51berYZL6hB+XlF3M2P+rZ0CqUZjah80f87lrydXqnOoWU/+yAfKZeFIx3IJEn4rdho+rfhQEWjrm6GoXZAmnIk76X8mtwPV1Xryj3Na6uT6X4lZ7F2ji9uFsQrZv1dxnD9tSkoS8KEdYOY3iW1raHHJwDi2vR1zdbi9NTAwRbntFszrt7D/amlXSsT6KBtikE46D2x0ZvIrvYZa5+uOAtChPwjtbk4Ui4S0o2KDvYeKrz7dfo9l6kIV3o8Uo+oHoM4lkmWZhwE2RgimJqjBqqMloCajTb3xAx+xpqTjlxRmo4zomJTc9QGbhhuPwNG8jA1QFN7q8iB3V2oUCpu2Qqr7DwcBAQBnKGRlZAy9BR5rhKiHx3PaFygd1t/sIBg==;Gn3+XpNAHbvdZ/B9tktcKA=="

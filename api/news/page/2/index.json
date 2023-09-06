@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-05-fintech-outsourcing-india-crafting-the-future-of-global-finance-with-tech-mastery.md",
+      "title": "Fintech Outsourcing India: Crafting the Future of Global Finance with Tech Mastery",
+      "excerpt": "Emerging fintech trends, like AI-driven financial analysis, blockchain in banking, and automation of complex financial processes, further solidify India's reputation",
+      "sourceUrl": null,
+      "webUrl": "https://theprint.in/theprint-valuead-initiative/fintech-outsourcing-india-crafting-the-future-of-global-finance-with-tech-mastery/1747072/",
+      "originalUrl": "https://theprint.in/theprint-valuead-initiative/fintech-outsourcing-india-crafting-the-future-of-global-finance-with-tech-mastery/1747072/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.theprint.in/wp-content/uploads/2023/09/Untitled-design-6-1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theprint.in/theprint-valuead-initiative/fintech-outsourcing-india-crafting-the-future-of-global-finance-with-tech-mastery/1747072/?amp",
+      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/theprint-valuead-initiative/fintech-outsourcing-india-crafting-the-future-of-global-finance-with-tech-mastery/1747072/?amp",
+      "publishedDateTime": "2023-09-05T01:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ThePrint",
+        "domain": "theprint.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-05-usm-tapped-to-develop-ethics-training-in-age-of-artificial-intelligence.md",
       "title": "USM tapped to develop ethics training in age of artificial intelligence",
       "excerpt": "The University of Southern Maine has received a federal grant to develop an ethics training program for scientists, engineers and students.",
@@ -192,6 +235,58 @@
       ]
     },
     {
+      "path": "_news/2023-09-05-sam-altman-backed-mentra-aims-to-match-neurodivergent-jobseekers-with-ideal-jobs.md",
+      "title": "Sam Altman-backed Mentra aims to match neurodivergent jobseekers with ideal jobs",
+      "excerpt": "Specifically, its tech platform leverages artificial intelligence to help large enterprises hire employees with cognitive differences such as ... Mentra also won an AI for accessibility grant from Microsoft. Shine Capital led its $3.5 million seed round ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/09/05/sam-altman-backed-startup-aims-to-match-neurodivergent-jobseekers-with-ideal-jobs/",
+      "originalUrl": "https://techcrunch.com/2023/09/05/sam-altman-backed-startup-aims-to-match-neurodivergent-jobseekers-with-ideal-jobs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/09/FoundersPic-1.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/09/05/sam-altman-backed-startup-aims-to-match-neurodivergent-jobseekers-with-ideal-jobs/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/05/sam-altman-backed-startup-aims-to-match-neurodivergent-jobseekers-with-ideal-jobs/amp/",
+      "publishedDateTime": "2023-09-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-05-artificial-intelligence-transforming-healthcare-cybersecurity-and-communications.md",
       "title": "Artificial Intelligence: Transforming Healthcare, Cybersecurity, and Communications",
       "excerpt": "Artificial intelligence (AI) systems aim to reproduce human characteristics and processing power in a machine and outperform human speed and constraints. Machine learning and natural language processing, which are already commonplace in our daily lives ...",
@@ -245,49 +340,6 @@
         "Microsoft AI",
         "AI Ethics",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-roblox-is-becoming-an-artificial-intelligence-ai-powerhouse.md",
-      "title": "Roblox Is Becoming an Artificial Intelligence (AI) Powerhouse",
-      "excerpt": "Fool.com contributor Parkev Tatevosian highlights how Roblox (RBLX 0.53%) is using AI and what it could mean for investors. *Stock prices used were the afternoon prices of Sept. 2, 2023. The video was published on Sept. 4, 2023. Parkev Tatevosian, CFA has ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/09/04/roblox-is-becoming-an-artificial-intelligence-powe/",
-      "originalUrl": "https://www.fool.com/investing/2023/09/04/roblox-is-becoming-an-artificial-intelligence-powe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-04T12:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     },
     {
@@ -847,7 +899,7 @@
       "originalUrl": "https://www.forbes.com/sites/charliefink/2023/09/03/venice-film-festival-2023-is-ais-coming-out-party-for-hollywood/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -898,7 +950,7 @@
       "originalUrl": "https://www.forbes.com/sites/robtoews/2023/09/03/transformers-revolutionized-ai-what-will-replace-them/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -1090,49 +1142,6 @@
       ]
     },
     {
-      "path": "_news/2023-09-03-scientists-are-using-ai-to-track-coal-train-dust.md",
-      "title": "Scientists are using AI to track coal train dust",
-      "excerpt": "Across the United States, around 70 percent of coal travels by rail, transiting from dozens of mines to power plants and shipping terminals. Last year, the U.S.—which holds the world’s largest supplies of coal—used about 513 million tons of coal and exported about another 85 million tons to countries including India and the Netherlands.",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/environment/coal-train-dust-ai/",
-      "originalUrl": "https://www.popsci.com/environment/coal-train-dust-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/uploads/2023/09/01/Depositphotos_81499646_L-1.jpg?auto=webp",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsci.com/environment/coal-train-dust-ai/?amp",
-      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/environment/coal-train-dust-ai/?amp",
-      "publishedDateTime": "2023-09-02T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2023-09-02-revealed-home-office-secretly-lobbied-for-facial-recognition-spy-company.md",
       "title": "Revealed: Home Office secretly lobbied for facial recognition ‘spy’ company",
       "excerpt": "Officials reflected policing minister’s enthusiasm to roll out controversial technology across the country, particularly in retail settings",
@@ -1141,7 +1150,7 @@
       "originalUrl": "https://www.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company?ref=biztoc.com",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {

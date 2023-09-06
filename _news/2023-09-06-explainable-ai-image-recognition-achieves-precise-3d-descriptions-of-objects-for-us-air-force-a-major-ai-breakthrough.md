@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Explainable-AI Image Recognition achieves precise 3D descriptions of objects for US Air Force, a major AI breakthrough"
-excerpt: "Z Advanced Computing, Inc. (ZAC), the pioneer CognitiveExplainable-AI (Artificial Intelligence) (Cognitive XAIor CXAI) software startup, has developed the \"Describer\""
-publishedDateTime: 2023-09-05T17:03:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/09/n34245972/explainable-ai-image-recognition-achieves-precise-3d-descriptions-of-objects-for-us-air-force-a-ma"
-webUrl: "https://www.benzinga.com/pressreleases/23/09/n34245972/explainable-ai-image-recognition-achieves-precise-3d-descriptions-of-objects-for-us-air-force-a-ma"
-ampWebUrl: "https://www.benzinga.com/amp/content/34245972"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34245972"
+excerpt: "\"ZAC algorithms can describe and measure 3D objects from any viewpoint, for full Explainability of 3D objects,\" emphasized Dr. Bijan Tadayon, CEO of ZAC. \"We will be using this tech for Medical Imaging, too,\" continued Dr. Bijan Tadayon."
+publishedDateTime: 2023-09-05T18:24:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/09/05/9874975.htm"
+webUrl: "https://it.tmcnet.com/news/2023/09/05/9874975.htm"
 type: article
-quality: 35
+quality: 15
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://mma.prnewswire.com/media/2201922/Z_Advanced_ComputingInc_Table_Compare.jpg"
+    width: 400
+    height: 302
     isCached: true
 
 related:
@@ -76,6 +74,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "WkeSC9hk7aSOEhpI4Wb5jHUdpedDxhPPUALKzvyzfRZ5jCNh5vi4sxZJ4Q0hNVDwjrrXnmnOJH0d/hCZlEosXLu501J8gKOwTiwqemnAl/tQcI8JrzvS2V9weLGpdBaojmsuxh0A6I1yHDTAr0pkn/5GNiKoZpObFrRnqkYfHK7s/K4/yVOh5BuqlScv+NEMh6aPkJF/TwsVE8H9p2feftcwQmhVmBnKzpYIa0siVndcY2v1AwXTfW7PHf2mGNfro8cCdzyvx/9DYuHjQA52CH8IJEdI04k1Kmpk+QkJAJYRXqqWWIsZ61rHqhB5jazMh1A315Xu3pFFNKDfr0kOJ2KMTzOrjUMtTrA7W/Lk+vo=;RHg2ZTI2c2oX35QfmoWYXg=="
+secured: "o8F4GF0wHSgvIimPL0TOHXfqeUCnh9vNCH7sumh73JJRIcJa65knBy1MoERS/APehDKah4XRkFWXQNuK3b8qE6CnQhg8XB4sCCk6hqoAu/Iju26iRjCDPHslnNwXSXdqqZnq/jVtGTMjhyqkY9pUhmTdS4+cuXMYCkuDHAXuiLZS3uq4xPK6EwgNy5jb8MM2eF8vX9ul53t10bMMkFTWgvqlwZLjxXylEEUzFI7ZiCoyAMAq7h5o/zBSju97TPfyKHNBZQw3ll9DrlvXSjZ5iTwB45kxvITT1W/W0JAoOmET5ZSLh26POsTg93QDKl0CUfpfHGvPNf/1cVNI6tSkP8bbGRZxlZZLBJPQMxvUcEI=;szo2zslh9kowUEN1SlVF8w=="
 ---
 

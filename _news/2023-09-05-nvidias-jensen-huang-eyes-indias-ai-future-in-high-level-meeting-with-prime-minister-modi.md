@@ -19,6 +19,31 @@ topics:
   - AI
 
 related:
+  - title: "Nvidia CEO Heads to India. It’s a Sign of the Country’s AI Chip-Making Ambitions."
+    excerpt: "Nvidia NVDA –1.71% CEO Jensen Huang is a man in demand and his movements bear watching. His latest meeting with India’s Prime Minister Narendra Modi could be a clue to the hopes of making India a new chip-..."
+    publishedDateTime: 2023-09-05T09:18:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-stock-ceo-jensen-huang-india-modi-chip-manufacturing-72345daf"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-ceo-jensen-huang-india-modi-chip-manufacturing-72345daf"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-ceo-jensen-huang-india-modi-chip-manufacturing-72345daf"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 69
+    images:
+      - url: "https://images.barrons.com/im-231723/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Best Artificial Intelligence (AI) Stock to Buy: Nvidia Stock vs. Snowflake Stock"
+    excerpt: "Fool.com contributor Parkev Tatevosian compares Nvidia (NVDA-1.71%) and Snowflake (SNOW 0.15%) to determine which stock is better for investors looking to capitalize on the AI trend. *Stock prices used were the afternoon prices of Sept. 2, 2023. The video ..."
+    publishedDateTime: 2023-09-04T19:24:00Z
+    webUrl: "https://www.fool.com/investing/2023/09/04/best-artificial-intelligence-ai-stock-to-buy-nvidi/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 57
   - title: "Nvidia isn't the only game in town. Investors advise against overlooking these other AI beneficiaries"
     excerpt: "Nvidia's quarterly report seemed to leave some investors questioning whether any serious challenger can challenge its well-protected throne, or catch up to speed building comparable chips able to power generative AI models. And the price action seemed to ..."
     publishedDateTime: 2023-09-04T13:22:00Z

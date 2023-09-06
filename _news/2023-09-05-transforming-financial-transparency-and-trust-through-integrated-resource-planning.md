@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/transforming-financial-transparency-and-t
 webUrl: "https://www.ibm.com/blog/transforming-financial-transparency-and-trust-through-integrated-resource-planning/"
 type: article
 quality: 76
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -20,22 +20,6 @@ provider:
 
 topics:
   - IBM AI
-
-related:
-  - title: "Top 5 Factors Transforming Fintech into a $700B Industry"
-    excerpt: "Technology has become an absolute necessity in the financial services industry in the 21st century. Integrating enterprising tech with crucial and sensitive financial processes and operations leads to better overall efficiency,"
-    publishedDateTime: 2023-09-01T10:57:00Z
-    webUrl: "https://techbullion.com/top-5-factors-transforming-fintech-into-a-700b-industry/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 24
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/09/new-blog-.jpg"
-        width: 780
-        height: 520
-        isCached: true
 
 secured: "mvWTCx7vvdZpJ9Ec+9UM5IFF6/Y/7aNNVDOhSDSF7JLWCSQ+gc+J+R+JiSnuN4zJVTE6JHNQzLxFGWSPj8a3rFtcn4n5snkXugipF4QukA1qR5takiY5Y5jIsPTkXeRfNWlz8tuD9UZKgMYVk1GAys8y4Btag15PeI8WhtZmNKFSl4cLAxtXZoETEuVV4k+DMNIPncfvVODqoxG9AGam3Epjv6fxC1pyLkPBRX1cPKzqsxaugGfdBlsLl6Z/78FWcLssMQCuYsfg3PUeliYkyMWD7Y1OtRaFYR+NL6bim5dU7Slprr75Kaz13RH382HON3c1c7jicbIQQG+ut0DbNBIhy9fJ3QcAhmPEAIpxsM8=;TILDHFMBWjzV2Kp91M+i+A=="
 ---

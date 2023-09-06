@@ -51,22 +51,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Enabling Enterprise Transformation With Generative AI"
-    excerpt: "For the rapidly evolving technology to live up to its promise of transforming the way we work by leveraging enterprise data, three key questions must be considered."
-    publishedDateTime: 2023-09-01T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/01/enabling-enterprise-transformation-with-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/01/enabling-enterprise-transformation-with-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/01/enabling-enterprise-transformation-with-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64de2670c0104c27ef8801c6/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Generative AI Drugs Are Coming"
     excerpt: "The merging of deep, quality data and expertise with increasingly sophisticated AI capabilities has the potential to truly shift the future of medicine."
     publishedDateTime: 2023-09-05T11:45:00Z
@@ -159,15 +143,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Acceptable-use policies for generative artificial intelligence"
-    excerpt: "The program is possibly the most well-known example of generative AI, an artificial intelligence technology that identifies patterns in large quantities in training data and then generates original content – text,"
-    publishedDateTime: 2023-09-01T10:00:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2023/09/01/acceptable-use-policies-for-generative-ai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "KQxfH8XW6VOY7kHmivp3nrbNvSfhNElCaY3ssJ8B5aO1ebGQcJwpfJQra4MhJRYKZA6SF2HGXcejNytiFdF+iJNAGKkf+K7lIhWDRjD+IFkgPygXU6FjOKGfv2ze5AHFK8JFfZ72szqnLEY6qJUgjcURasJNdCvE7OMF3kwGkz6+6SLbeboMZB95fo2OgrbJ25KdE5KJUDG3J3iUBbRMp1Vg3MS7PF8UVC5gN5CJHh0hxZVWaLy25aOAjW8MFHmDNq500+TaPKYJeuFfipanP6trMvD8CY8oEzi18GuUBl1lTyIUzjrkGYEeFvhJW/4p5rgDLZ9F8Ql4NwFYRw3m59yqQpch0YkInGK7nWQUhfI=;Gq+Lxte3arSEd06ISXOnDw=="
 ---

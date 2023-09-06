@@ -28,20 +28,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 82
-  - title: "The Evolution of AI Chatbots: Past, Present and Future"
-    excerpt: "Evolutionary path. Chatbots evolved from simple rule-based systems to AI-powered, voice-activated personal assistants and generative AI chatbots capable of full-fledged conversations."
-    publishedDateTime: 2023-09-01T10:02:00Z
-    webUrl: "https://www.cmswire.com/digital-experience/the-evolution-of-ai-chatbots-past-present-and-future/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 39
-    images:
-      - url: "https://www.cmswire.com/-/media/f5301cd49131448ea14a92b5389265d6.ashx"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Easily build an army of AI chatbots using Textbase"
     excerpt: "The use of AI chatbots has has exploded this year with the release of ChatGPT 4, Google Bard, Claude, Stable Diffusion and more. They are now an integral"
     publishedDateTime: 2023-09-05T09:40:00Z

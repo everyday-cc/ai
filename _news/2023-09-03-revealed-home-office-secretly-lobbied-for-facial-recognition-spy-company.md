@@ -63,20 +63,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Home Office seeks facial recognition technologies for police"
-    excerpt: "The Defence and Security Accelerator (Dasa) has launched a market exploration of facial recognition technologies that could be implemented by police forces and security agencies within the next 18 months. DASA is a Ministry of Defence unit that looks for and funds innovation."
-    publishedDateTime: 2023-09-01T09:19:00Z
-    webUrl: "https://www.publictechnology.net/2023/09/01/society-and-welfare/home-office-seeks-facial-recognition-technologies-for-police/"
-    type: article
-    provider:
-      name: Public Technology
-      domain: publictechnology.net
-    quality: 39
-    images:
-      - url: "https://www.publictechnology.net/wp-content/uploads/2023/08/Biometrics_face-recognition.jpg"
-        width: 820
-        height: 543
-        isCached: true
   - title: "Tech Digest daily roundup: Home Office secretly lobbied for facial recognition company"
     excerpt: "Senior officials at the Home Office secretly lobbied regulator to act “favourably” towards firm keen rolling out facial recognition technology"
     publishedDateTime: 2023-09-03T12:36:00Z

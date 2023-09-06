@@ -2,6 +2,59 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2023-08-08-ai-is-ruining-the-internet.md",
+      "title": "AI is ruining the internet",
+      "excerpt": "From way more spam to sneakier scams, AI is going to make even the most basic online tasks more annoying — and unreliable.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8",
+      "originalUrl": "https://www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64cbf0930f3dff0019568fce?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8?amp",
+      "publishedDateTime": "2023-08-08T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-08-looking-for-a-surefire-ai-winner-buy-amazon-stock.md",
       "title": "Looking for a Surefire AI Winner? Buy Amazon Stock.",
       "excerpt": "There are plenty of alternatives out there. But if you're looking for a surefire AI winner, buy Amazon ( AMZN 1.90%) stock. Amazon is already a big AI winner. Just look at its stock performance so far this year. This remarkable gain is due in large part to investors' intense interest in all things AI.",
@@ -1198,49 +1251,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-08-ircai-aws-launch-compute-for-climate-fellowship-to-fund-climate-tech-start-ups.md",
-      "title": "IRCAI, AWS Launch 'Compute for Climate Fellowship' To Fund Climate Tech Start-Ups",
-      "excerpt": "It will select start-ups with ideas to tackle climate change and fully fund the building of their proofs of concept",
-      "sourceUrl": null,
-      "webUrl": "https://startup.outlookindia.com/sector/saas/ircai-aws-launch-compute-for-climate-fellowship-to-fund-climate-tech-start-ups-news-9060",
-      "originalUrl": "https://startup.outlookindia.com/sector/saas/ircai-aws-launch-compute-for-climate-fellowship-to-fund-climate-tech-start-ups-news-9060",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/AWS_1691427710.jpg?utm_source=fb",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-07T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "startup.outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

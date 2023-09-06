@@ -62,22 +62,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Enabling Enterprise Transformation With Generative AI"
-    excerpt: "For the rapidly evolving technology to live up to its promise of transforming the way we work by leveraging enterprise data, three key questions must be considered."
-    publishedDateTime: 2023-09-01T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/01/enabling-enterprise-transformation-with-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/01/enabling-enterprise-transformation-with-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/01/enabling-enterprise-transformation-with-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64de2670c0104c27ef8801c6/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "How Apple is already using machine learning and AI in iOS"
     excerpt: "Machine learning has become Apple's catch-all for its AI initiatives. Apple uses artificial intelligence ... with the launch of iOS 17.1. Apple will improve dictation and language translation with machine learning as well. Machine learning is also present ..."
     publishedDateTime: 2023-09-02T17:17:00Z
@@ -163,15 +147,6 @@ related:
       name: CIO Dive
       domain: ciodive.com
     quality: 34
-  - title: "Acceptable-use policies for generative artificial intelligence"
-    excerpt: "The program is possibly the most well-known example of generative AI, an artificial intelligence technology that identifies patterns in large quantities in training data and then generates original content – text,"
-    publishedDateTime: 2023-09-01T10:00:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2023/09/01/acceptable-use-policies-for-generative-ai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "KdyimfDoeHNNt0gWhmZ7rjGiE1ihw4omy8+g2O+VURdh1Se/U4lbuuJjnh1XejZ6ELo1+xZlNkCFVgt9pqi1QDQJhDMlvUM082WZUCdh7+Kbbfy85X66WkOArSwMgzi7VIDz4ZvjP1yM0r5mjuix9V462hZduZaEP867v3bd/rdEPvQ5z/KNrgaTwoIjULRCSSY+lrK/cqtvUTRN/0wt67WiQQSTG6lJ5GdRUGNg5GClfyDmfrTqCKKNbXBFeKB1nR6EGJyn0PD5AG/brigrI8Alc0Ow/1kbDntxNjSj0QMWanNEjmkNJ6LjaZaQrSjJ8uwVwGYnC4RHCXjVSEoX9erfeHmyhHuKEiaQ7OwebPKO2BqLVeDxHjxgyUoZhry4K5VC/QQiJA3INvrrDwRayf3DfBDnwWKuDsC7SAzDDTCS28D1WxbpY/LDmCKFHcD99RyNzYYL7Wi3kTk4YPnjkAy+t9uc6QFr3KMViDlSK0CA7+Sr9kgVwR/UIZjYFmNakUJm+ljZwZgxsdOBSJojcA==;nHaBQmXtdc7T+UzY2kAecw=="
 ---

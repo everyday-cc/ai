@@ -2,6 +2,50 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2023-08-22-microsoft-to-invest-10-billion-in-openai-the-creator-of-chatgpt-the-new-york-times.md",
+      "title": "Microsoft to Invest $10 Billion in OpenAI, the Creator of ChatGPT – The New York Times",
+      "excerpt": "Microsoft said on Monday that it was making a “multiyear, multibillion-dollar” investment in OpenAI, the San Francisco artificial intelligence lab behind the experimental online chatbot ChatGPT. The companies did not disclose the specific financial terms of the deal,",
+      "sourceUrl": null,
+      "webUrl": "https://www.inferse.com/686505/microsoft-to-invest-10-billion-in-openai-the-creator-of-chatgpt-the-new-york-times/",
+      "originalUrl": "https://www.inferse.com/686505/microsoft-to-invest-10-billion-in-openai-the-creator-of-chatgpt-the-new-york-times/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-1018.png",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-22T01:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inferse",
+        "domain": "inferse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-22-oneplus-seems-to-be-testing-several-generative-ai-powered-tools.md",
       "title": "OnePlus seems to be testing several generative AI-powered tools",
       "excerpt": "OnePlus' ideas for generative AI include a short video creation app, a personal education app, and more. OnePlus is surveying users in North America, Europe, and India to ask about the usefulness of new generative AI tools. The AI solutions include a video creation app, an education app, a caption generator, and more.",
@@ -1090,50 +1134,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-21-deepminds-ai-life-coach-can-be-your-new-personal-advisor.md",
-      "title": "DeepMind’s AI Life Coach Can Be Your New Personal Advisor",
-      "excerpt": "DeepMind, the AI arm of tech giant Google, has developed an innovative project with the potential to serve as your personal life coach. This groundbreaking initiative leverages the power of generative AI to carry out an array of professional and personal ...",
-      "sourceUrl": null,
-      "webUrl": "https://techreport.com/news/deepminds-ai-life-coach-can-be-your-new-personal-advisor/",
-      "originalUrl": "https://techreport.com/news/deepminds-ai-life-coach-can-be-your-new-personal-advisor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techreport.com/wp-content/uploads/2023/08/shutterstock_2126090702_Easy-Resize.com_.jpg",
-          "width": 1280,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-21T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tech Report",
-        "domain": "techreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2023-08-09-nvidia-unveils-more-powerful-ai-chip-coming-next-year.md",
+      "title": "Nvidia unveils more powerful AI chip coming next year",
+      "excerpt": "The GH200 will have the same GPU as the H100, currently Nvidia’s most powerful and popular AI offering, but triple the memory capacity. The company said systems running on GH200 will start in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/8/8/23824690/nvidia-generative-ai-chip-gpu-gh200",
+      "originalUrl": "https://www.theverge.com/2023/8/8/23824690/nvidia-generative-ai-chip-gpu-gh200",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/NCDDgXNupTP_KgLMg8icXby_20c=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24002528/acastro_STK083_03.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-08T11:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-09-generative-ai-highlights-nvidia-keynote-at-siggraph-2023.md",
       "title": "Generative AI Highlights NVIDIA Keynote at SIGGRAPH 2023",
       "excerpt": "At the SIGGRAPH conference, NVIDIA showcased its efforts to make generative AI not only more accessible but also more versatile. Through strategic partnerships and technological advancements, NVIDIA’s innovations echo a significant industry trend where many different sectors are beginning to harness the power of AI.",
@@ -1147,59 +1199,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-08-ai-is-ruining-the-internet.md",
-      "title": "AI is ruining the internet",
-      "excerpt": "From way more spam to sneakier scams, AI is going to make even the most basic online tasks more annoying — and unreliable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8",
-      "originalUrl": "https://www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64cbf0930f3dff0019568fce?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8?amp",
-      "publishedDateTime": "2023-08-08T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

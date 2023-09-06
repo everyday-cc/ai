@@ -34,20 +34,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 82
-  - title: "The Evolution of AI Chatbots: Past, Present and Future"
-    excerpt: "Evolutionary path. Chatbots evolved from simple rule-based systems to AI-powered, voice-activated personal assistants and generative AI chatbots capable of full-fledged conversations."
-    publishedDateTime: 2023-09-01T10:02:00Z
-    webUrl: "https://www.cmswire.com/digital-experience/the-evolution-of-ai-chatbots-past-present-and-future/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 39
-    images:
-      - url: "https://www.cmswire.com/-/media/f5301cd49131448ea14a92b5389265d6.ashx"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Bad Idea AI Announces Listing on MEXC Exchange and Revolutionary AI Chatbot"
     excerpt: "Collaborative Decision-Making: AI and DAO The decision to list on MEXC ... with Shibacals to produce unique figurines and clothing wear, complete with NFC chips that serve as certificates of authenticity and offer post-purchase delights like VIP NFT ..."
     publishedDateTime: 2023-09-04T19:21:00Z
