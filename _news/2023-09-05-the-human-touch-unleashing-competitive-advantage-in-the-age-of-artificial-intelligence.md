@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/georgebradt/2023/09/05/the-human-touch-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/georgebradt/2023/09/05/the-human-touch-unleashing-competitive-advantage-in-the-age-of-artificial-intelligence/amp/"
 type: article
 quality: 79
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "The human costs of data-driven AI"
+    excerpt: "That is pretty much the universal reaction I get when I ask people about Josh Dzieza’s recent article in The Verge."
+    publishedDateTime: 2023-09-06T13:06:00Z
+    webUrl: "https://digileaders.com/the-human-costs-of-data-driven-ai/"
+    type: article
+    provider:
+      name: Digital Leaders
+      domain: digileaders.com
+    quality: 19
 
 secured: "OA/tlm/cv5qAQ+ESBNOSCgXGsFT9lgdo1FDrdt4XNZSMqIsVdGJyv2JWi2RDGd9esXU6eahmlRIshiygg8dYcIt8rtBL9KS+iGtz7M/1fZrRDffbVgNMvlIiBaoSLobH6nIiEQGQE34KwkrV7/dGayQ+h5xnlvFUiz/6ZhepfB29OBzSrZANpWaT41gdca8gJliq6GwcJMzGdUgt2uPV2XqhDZvlw/72MlpoRQHi+lkwQpSngUF8nyw+aVD5RWQIwJCte6u+4yTu8edpbFwesUezl4EZI3x2Y/xT9CeV6QCF/okgreItHaqhyN6YQTN5IXFrTHrGQsnuGyqVoAf8OWqQ81k+1YKhaPzedTXp71JEZj2YfNJyexEEybLQzEjQnLjzRZEtFNVY4nf6ZW1NSMqJ9V03+QyLG9hW7LOAtwTkx+41MbiRMjtqdRXXIRohRFd6Og4Od+alOSS+Bn2hu9iyJkooF59/JdillRZM9zOsq7uJU32POjV4gSWptzkyY9TvloSohdDx2MdtS0nzfA==;jUoIWGYLwHImuk0gEOfToA=="
 ---

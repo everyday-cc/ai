@@ -9,8 +9,8 @@ ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/ai/googles-deepmind
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/ai/googles-deepmind-develops-watermark-to-detect-ai-images/amp_articleshow/103401531.cms"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: Indiatimes
@@ -27,45 +27,47 @@ images:
     isCached: true
 
 related:
-  - title: "Google's new tool can detect AI-generated images, but it's not that simple"
-    excerpt: "Currently, SynthID cannot detect all AI-generated images, as it is limited to those created with Google's text-to-image tool, Imagen. But this is a sign of a promising future for responsible AI, especially if other companies adopt SynthID into their generative AI tools."
-    publishedDateTime: 2023-09-01T20:25:00Z
-    webUrl: "https://www.zdnet.com/article/googles-new-tool-can-detect-ai-generated-images-but-its-not-that-simple/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/googles-new-tool-can-detect-ai-generated-images-but-its-not-that-simple/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-new-tool-can-detect-ai-generated-images-but-its-not-that-simple/"
+  - title: "The cofounder of Google's AI division DeepMind says everybody will have their own AI-powered 'chief of staff' over the next five years"
+    excerpt: "Mustafa Suleyman said AI will \"intimately know your personal information\" and be able to serve you 24-7."
+    publishedDateTime: 2023-09-05T17:15:00Z
+    webUrl: "https://www.businessinsider.com/google-deepmind-cofounder-mustafa-suleyman-everyone-will-have-ai-assistant-2023-9"
+    ampWebUrl: "https://www.businessinsider.com/google-deepmind-cofounder-mustafa-suleyman-everyone-will-have-ai-assistant-2023-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-deepmind-cofounder-mustafa-suleyman-everyone-will-have-ai-assistant-2023-9?amp"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
     images:
-      - url: "https://www.zdnet.com/a/img/resize/a37afb3870b4e3e01366db426b750d9ad1222c88/2023/09/01/87a971ed-e9c5-4885-a439-b28db8226d0d/deepmind.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://i.insider.com/64f757c47819260019117624?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "Prosecutors in all 50 US states urge Congress to protect children from AI-generated sexual abuse images"
-    excerpt: "Attorneys general from all 50 US states have called on federal lawmakers to study the ways that AI can be used to exploit children."
-    publishedDateTime: 2023-09-06T02:54:00Z
-    webUrl: "https://www.scmp.com/tech/policy/article/3233554/prosecutors-all-50-us-states-urge-congress-protect-children-ai-generated-sexual-abuse-images"
+  - title: "‘I hope I’m wrong’: the co-founder of DeepMind on how AI threatens to reshape life as we know it"
+    excerpt: "From synthetic organisms to killer drones, Mustafa Suleyman talks about the mind-blowing potential of artificial intelligence, and how we can still avoid catastrophe"
+    publishedDateTime: 2023-09-02T07:00:00Z
+    webUrl: "https://www.theguardian.com/books/2023/sep/02/i-hope-im-wrong-the-co-founder-of-deepmind-on-how-ai-threatens-to-reshape-life-as-we-know-it"
+    ampWebUrl: "https://amp.theguardian.com/books/2023/sep/02/i-hope-im-wrong-the-co-founder-of-deepmind-on-how-ai-threatens-to-reshape-life-as-we-know-it"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2023/sep/02/i-hope-im-wrong-the-co-founder-of-deepmind-on-how-ai-threatens-to-reshape-life-as-we-know-it"
     type: article
     provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 53
+      name: The Guardian
+      domain: theguardian.com
+    quality: 61
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/09/06/560741d1-b74f-416b-8984-121925892aae_f864c992.jpg?itok=WAT8osZC&v=1693968787"
-        width: 1200
-        height: 630
+      - url: "https://i.guim.co.uk/img/media/5bf98bcdb9cd152563a3ccbbe53336548380df1c/1_0_6331_3800/master/6331.jpg?width=620&quality=85&auto=format&fit=max&s=7ac26dbd3b6604c3e8927a0efd6779e6"
+        width: 620
+        height: 372
         isCached: true
-  - title: "Attorneys General from all 50 states urge Congress to help fight AI-generated CSAM"
-    excerpt: "The attorneys general from all 50 states have banned together and sent an open letter to Congress, asking for increased protective measures against AI-enhanced child sexual abuse images."
-    publishedDateTime: 2023-09-05T18:54:00Z
-    webUrl: "https://www.engadget.com/attorneys-general-from-all-50-states-urge-congress-to-help-fight-ai-generated-csam-184938825.html"
+  - title: "DeepMind’s Path to Better Large Language Models Runs Through Machine Translation"
+    excerpt: "DeepMind introduces a new method to improve the quality of LLMs and chooses MT as a use case to show how well the new approach works."
+    publishedDateTime: 2023-09-05T10:20:00Z
+    webUrl: "https://slator.com/deepminds-path-to-better-large-language-models-runs-through-machine-translation/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 41
+      name: Slator
+      domain: slator.com
+    quality: 31
 
 secured: "jE7Qvc+njXSrsl2HnxYRIGqeXlSikbwedGEKSwiUQjBuhGYAgIuv4OzV8tAgWzFWnAhN/LgdwGsUwrX+EbFk0esyQIJZTieTh38laG3Rl2bsBIyq9ERRUflg3TAFLvET3jxhpfC70P0VlBG1a0Y6qdfZ/FIY+JH7YLieQBz4e4obEYvSv5tNKoweiTtUvhG04mJ4LgxuNGswzybxcPMeHslrlexjfQIrahW5YIhWLbYxIZMZJDH/YMVoM6OZh4K31WholYOywfHkOnroDOprKG47pPFLH7v4ObvbXIMT5oeTa9gPZcM0h8S8VD0ZvcjCLEaa0vNY0C6HAjZLx4I/GBfkfcvo8PQyf6V74Oe3HIbrypRmvCc6FxVy/j4Wk8s4uKfgMvSbAoFP1i0uou8AMgZnccwk5JbiPcUJrmttOh5OurIjeTAyoJQkYqJeCFSO1wp7YJUjopKQ7QmwQYUa5oufLrd/d9FMd8e8KXMMKMWco51ZNBIMhoKSuQsKJZCoTnb6WYfcmKLp2fEjXkQtIg==;wyr0Hhz2F+uSgGZz4gLgdw=="
 ---

@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Engineering firms lose out to fintech and IT in recruitment war"
-    excerpt: "Work is needed to counter the ‘oily’ image of jobs for engineers, and stop the digital sector from luring the best graduates"
-    publishedDateTime: 2023-09-02T14:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/sep/02/engineering-firms-lose-out-to-fintech-and-it-in-recruitment-war"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/sep/02/engineering-firms-lose-out-to-fintech-and-it-in-recruitment-war"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/sep/02/engineering-firms-lose-out-to-fintech-and-it-in-recruitment-war"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 44
-    images:
-      - url: "https://i.guim.co.uk/img/media/dc6469d366c4c5175bd3ed85f73df9333723eb49/0_372_5721_3433/master/5721.jpg?width=620&quality=85&auto=format&fit=max&s=36b849965fa2dfb1180e0001dd1a271b"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Navigating The Future Of Banking: A Look At The Top Fintech Innovations"
     excerpt: "Welcome to the future of banking where financial technology, or fintech, is revolutionizing the way we manage our money. From mobile banking apps to cryptocurrency advancements, there’s no denying that digital innovation is reshaping the entire industry."
     publishedDateTime: 2023-09-02T08:48:00Z
@@ -99,34 +83,24 @@ related:
         width: 2374
         height: 1263
         isCached: true
-  - title: "4 big FinTech funding rounds in MENA in August 2023"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-09-06T07:56:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/4-big-fintech-funding-rounds-in-mena-in-august-2023/"
+  - title: "FINCOVER Bootstraps 7 Crore For Fintech App Development"
+    excerpt: "In the ever-changing Fintech landscape, Fintech companies constantly flood the market with cutting-edge tools and apps to be a part of this transformative evolution."
+    publishedDateTime: 2023-09-06T15:35:00Z
+    webUrl: "https://www.outlookindia.com/business-spotlight/fincover-bootstraps-7-crore-for-fintech-app-development-news-316271"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/11/Funding.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "4 FinTech funding rounds that occurred in the MENA region in August 2023"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-09-06T07:35:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/4-fintech-funding-rounds-that-occurred-in-the-mena-region-in-august-2023/"
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 4
+  - title: "Fincover invests 7 crore to develop Fintech App - Funding the Future of Fintech"
+    excerpt: "We have leveraged AI and machine learning technologies to incorporate image ... the financial ecosystem in India with the launch of our Fincover app\". Finfotune is a fintech company based in Chennai. We have partnered with India's leading banks, NBFCs ..."
+    publishedDateTime: 2023-09-06T12:33:00Z
+    webUrl: "https://www.livemint.com/brand-stories/fincover-invests-7-crore-to-develop-fintech-app-funding-the-future-of-fintech-11686302457526.html"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 23
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/11/Funding.jpg"
-        width: 300
-        height: 300
-        isCached: true
+      name: Mint
+      domain: livemint.com
+    quality: 0
 
 secured: "UNt5cuPcp1VpaVx/W0VmrNGL+sf9f3dg0VYs33lphUv6X8XbQVxt9U3yAPe0/A5bntvw4yt7aKhZWwOPJQudBwR414CeKb/Wbklaup463bz3LfQiJmMM8FuZId29t0zj/i8lRT1Z+/WEjlOwlmRb7I/sD2n2s4bO4iMK7Pz8R1ycj06YKhNXSDHVEjciu0KqeczdORTal3uY+xKlLgSJGusZX+2jCXHiDd9uhNwVc7E1azk+Ko3f9NQ3mA8QQZvN75RErSPCtpYTGc6JHnBSCJJs4IiScPiFItGiKdLQTPdz+MV9KAUwbMlPSyW780uNJC7neQqZ/CWAtFy9Ub4MmzPYT8XaUVir8nqxm88B2KFbO2gTQ8B5H9zmvML7GTMtq/X1J/MrqoHKV0KEd61t+ZfLxFuRsWzyZU6ytd3fbMfxJ+ChDERbgrXpjgHYDCoY5OK1BVR2oFxCemnA3ld93bejUrH6R6gkSfOd7Z2nEWtdwU3ztHOkmy67hoqOnE/kLdKmSkjM2AGHGOj+hyuGPA==;xEKdKCROcZY6jV5/JrwCjQ=="
 ---

@@ -22,38 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Google's new tool can detect AI-generated images, but it's not that simple"
-    excerpt: "Currently, SynthID cannot detect all AI-generated images, as it is limited to those created with Google's text-to-image tool, Imagen. But this is a sign of a promising future for responsible AI, especially if other companies adopt SynthID into their generative AI tools."
-    publishedDateTime: 2023-09-01T20:25:00Z
-    webUrl: "https://www.zdnet.com/article/googles-new-tool-can-detect-ai-generated-images-but-its-not-that-simple/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/googles-new-tool-can-detect-ai-generated-images-but-its-not-that-simple/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-new-tool-can-detect-ai-generated-images-but-its-not-that-simple/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/a37afb3870b4e3e01366db426b750d9ad1222c88/2023/09/01/87a971ed-e9c5-4885-a439-b28db8226d0d/deepmind.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Google’s Deepmind develops watermark to detect AI images"
-    excerpt: "Google's AI arm, DeepMind, is testing digital watermark called SynthID to identify images created by artificial intelligence (AI). This technology aim"
-    publishedDateTime: 2023-09-05T14:07:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/ai/googles-deepmind-develops-watermark-to-detect-ai-images/articleshow/103401531.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/ai/googles-deepmind-develops-watermark-to-detect-ai-images/amp_articleshow/103401531.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/ai/googles-deepmind-develops-watermark-to-detect-ai-images/amp_articleshow/103401531.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://static.toiimg.com/photo/msid-103401856/103401856.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Prosecutors in all 50 US states urge Congress to protect children from AI-generated sexual abuse images"
     excerpt: "Attorneys general from all 50 US states have called on federal lawmakers to study the ways that AI can be used to exploit children."
     publishedDateTime: 2023-09-06T02:54:00Z
@@ -67,6 +35,36 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/09/06/560741d1-b74f-416b-8984-121925892aae_f864c992.jpg?itok=WAT8osZC&v=1693968787"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Prosecutors in all 50 states urge Congress to strengthen tools to fight AI child sexual abuse images"
+    excerpt: "The top prosecutors in all 50 states are calling on Congress to study how artificial intelligence can be used to exploit children through pornography, and come up with legislation to further guard aga"
+    publishedDateTime: 2023-09-05T14:06:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/prosecutors-50-states-urge-congress-strengthen-tools-fight-102928933"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/prosecutors-50-states-urge-congress-strengthen-tools-fight-102928933"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/prosecutors-50-states-urge-congress-strengthen-tools-fight-102928933"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 42
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_bc7f9384d469b061d603d6ba9748f38a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Prosecutors in all 50 states urge Congress to strengthen tools to fight AI child sexual abuse images"
+    excerpt: "The top prosecutors in all 50 states are calling on Congress to study how artificial intelligence can be used to exploit children through pornography, and come up with legislation to further guard against it."
+    publishedDateTime: 2023-09-05T18:34:00Z
+    webUrl: "https://apnews.com/article/ai-child-pornography-attorneys-general-bc7f9384d469b061d603d6ba9748f38a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
+    images:
+      - url: "https://dims.apnews.com/dims4/default/be8f4fd/2147483647/strip/true/crop/4468x2513+0+233/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd4%2F3e%2F4a1c0034c879346939887a573f46%2F44e8f64eb5ec41aa86d71408e1bbc8b4"
+        width: 1440
+        height: 810
         isCached: true
 
 secured: "OcLRgriYqzZ+eRZk5JAGpdaPm0WCglm6dRmutKqrZJfdcoJve2PqH0J4dF9tJX24MYcIdwpX5bczr0YqBBeXSgd09tCfzGOuj+Eqn8P/gxq7+3q7mDlsPc5AvGHyB5uksYvHGxlaZhaHOKsEryisBwjskvuDipIm33cw/MXoMIDzLX8K3Wa2XAd1KhmkTED59wNCEHipXM2Q+nwB4dNpjyMxFHeDB7qvrSf9ltGHGP6YFNVGKWZzKAIyOpDQelS09B+5Io0qTXKtclJNxcbe3kJ1pkYeHGkwZnOtTh0MJAA38P5Ewi1taoIQYF9hJb7e3aLxgqTXIJ1KwWc4W5JExFTAAobWCw6xEjeele76SPU5k2RC7ByjIe2YwXdqz7e5azUwFS0Sj9pBCgTweSToeqomHpsAlVN/+KaajcVsBqy7CUdxwoauQgMpHe79wCVqXeovs8KAOyntkylKthXEVH7eJNqurn1nD0uQFPb4o119T4QUDeQWlS9xW4SSpnIRhiEVeog6uLKnvu+r7NJxHQ==;grsVO1RPAYQizsVfCMAAcg=="

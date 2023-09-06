@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/34240520"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34240520"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -38,6 +38,15 @@ related:
       name: Business Times
       domain: businesstimes.com.sg
     quality: 52
+  - title: "Abu Dhabi’s G42, Microsoft to offer joint sovereign cloud and AI capabilities"
+    excerpt: "Microsoft’s sovereign cloud offering will allow UAE public sector and regulated industries to use new platform capabilities for securing sensitive data, providing access to the latest cloud and AI features available on Azure public cloud and helping them ..."
+    publishedDateTime: 2023-09-06T12:07:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/technology/abu-dhabis-g42-microsoft-to-offer-joint-sovereign-cloud-and-ai-capabilities"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 31
 
 secured: "nGcroixw9QdbUlRTna0O+xqZNb4g/uh/RYqCPSPI7iEzFGoaFoe/9XTONGptuvcgS5Ykt3U8fMWmXNQMXf8cF1qCivqQ3W3B/ViFiCdR/DqwpEjxIVrtol90VhDBCqmWRAbnZAdGJeRo/I0dTwETYSfAHsVTxXum5OrerQWlpNp54nQO5VLDEFDSMEkpRFNqixMMjRqkihl98L2Ffcl1eKPLiW8N0c5OiWkEw3WOFxzhjtmF8NeJEiKAm2NM8/b9tBe6YBFIKmk/pnt+I7cqU3BJgD/KeXj1/9hzZhvBotQkpcZwpFxnUazp79p9t3VvoCzE+xSnitr1kf2g0llVGLJrBIJoAGBPupKZL1s49Hs=;Rg5McETzNHwzDzFXHek2IA=="
 ---

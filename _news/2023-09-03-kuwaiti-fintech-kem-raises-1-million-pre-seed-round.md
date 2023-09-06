@@ -33,6 +33,15 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Swiss B2B Fintech GenTwo Raises Series A led by Point72 Ventures"
+    excerpt: "GenTwo, a B2B Fintech platform specialized in securitization of bankable and non-bankable assets, announced that it has raised funding."
+    publishedDateTime: 2023-09-06T13:26:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/09/212504-swiss-b2b-fintech-gentwo-raises-series-a-led-by-point72-ventures/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 19
 
 secured: "VRXzVu/Y3IuFxnp6L9ps+klmcXwkV9fc9/4xT5kXG0WSWc062Fi+pGt0R2bM6DGIGd9+g1XS7E2vJbwW7vmWdKEQF/5kWeYT4QzmJouwlv0CZROKX2NPx8TLbGCIJFvuuyD73kT67WQLe6Ei97SnOiE0hO+lYhPseoadDgx7FYfcLeUXu5JjG+Sr/UTKQT4yRxaCMBYwn39FoE/HRNq1BxlA4B7png+JOsHml+I41enUkjYzBGqoNNz6OvMb758jHZ6f2M1G1EkS6O4nY6xC8YHvIC9GD4gumcsoyPGSI37nDpK6TtxWSDTlaUG+NHLw2GI2oYgNx2t7ykm8MijzxYjW/cxodI5nMMll6oa0JjVuI5Fy+vh+xvIZfyh7OZJgoQtWcCt1ieH8qpWND78TMJLQHeeju0p3h77+MDq+BA21aMbyU9ID4eaF7RsO9eUf7ge787+g1VZ2fQ7r7IW+YGAurKHfCYI/TzhlR3Ah8kO2r8mO0zyIdM1ILHPa+ADHyPDTsohfks8ATDPSc68mUA==;Liz00BiufAEp/oFJPw5J4Q=="
 ---

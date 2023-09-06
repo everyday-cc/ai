@@ -26,17 +26,6 @@ images:
     height: 1500
     isCached: true
 
-related:
-  - title: "X may train AI with its users' posts. Are other social media sites doing the same?"
-    excerpt: "While TikTok and Snapchat have both announced chatbots, neither one has mentioned taking user posts to train AI. Snapchat's AI chatbot, My AI, does use its own conversations for training, but not general posts."
-    publishedDateTime: 2023-09-01T19:30:00Z
-    webUrl: "https://www.zdnet.com/article/x-may-train-ai-with-its-users-posts-are-other-social-media-sites-doing-the-same/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 41
-
 secured: "Y6P65E39wENp6Hws/ANZUZ73u8wt5MK8g13Q7bUzcvIFwYcG7TsoRA1eefOivEARXqi9xHBzRgFTIExY5gXSLe3Yrk/DZCknFgkMwqPsIaqKzv5WctJp47iHPV0vMkyeG70RX3hEOGp/rlPOVZoYUNozNUOWFCKwYZsdCFX2zx41acitdTt7i2nA4Y39JJrBmd+SBcYczfaaxzA1Bb2750mmyV3zzJ2y8s0dvUb+p3F1hU1kvSTMWXWSuiEY8dWZTTC7NTPyMrx8GJwgeF/m9sKDkDN3ZI9AWv2p8/+G9fMlYEcsKOWAEmGEeL7leaSS8lFkgXR58to2uk3VFWPhJTr04ONiyo4sPj8LX9BSGiQ=;6/YmyF2y6fS5+FgqE+FiPQ=="
 ---
 

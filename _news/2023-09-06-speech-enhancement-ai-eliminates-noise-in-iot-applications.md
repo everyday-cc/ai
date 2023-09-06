@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Ambiq Launches Speech Enhancement AI to Eliminate Noise in IoT Applications"
-    excerpt: "Neural Network Speech Enhancement Open-Source AI Model Operates in Real-Time with Minimal Latency and Energy Highlights Created from the ground up, the Neural Network Speech Enhancer (NNSE) is an open"
-    publishedDateTime: 2023-09-05T12:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/g34232065/ambiq-launches-speech-enhancement-ai-to-eliminate-noise-in-iot-applications"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34232065"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34232065"
+  - title: "Emerging Non-Volatile Memories Enable IoT And AI Growth"
+    excerpt: "MRAM and other emerging memory revenues could approach $1B and drive capital equipment revenues to $2.2B by 2033."
+    publishedDateTime: 2023-09-06T17:18:00Z
+    webUrl: "https://www.forbes.com/sites/tomcoughlin/2023/09/06/emerging-non-volatile-memories-enable-iot-and-ai-growth/"
+    ampWebUrl: "https://www.forbes.com/sites/tomcoughlin/2023/09/06/emerging-non-volatile-memories-enable-iot-and-ai-growth/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2023/09/06/emerging-non-volatile-memories-enable-iot-and-ai-growth/amp/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64f8b28ea1eda175c6dcb951/0x0.png?format=png&width=1200"
+        width: 968
+        height: 580
         isCached: true
 
 secured: "6OsuoHXc9+CCHOoVTnfJzn9X2INPc+E/cK01UE8wTukqMVy7DkamyVk88Oisr6DxXBoKLenne/ol7sbaPSeoiWn5DNeGlwHpexEcLj3zON5pg9I6Q2MDSMzRFrInchyq1/NRElaykzhhbdgzfAn1/DkrI/QU64hwvWDM56cvne7H+HcXEJ/mXk4ydud9qcAcSVp67FHhkjohthcw1/A8IiiEqnC0Io7nh7L0vZTLPJ1Br2Q19wr6sRhXnUKkSAELI6k7bu6ZnRz+iCFd5QAoLSud43jl09/pm732C+LZ4z+gY9mNaOOrWlbYR/hLQr6u1gttAdZ91Z59NxZy1jlIryB5VLav+qpMxLwU0XNP16c=;D39ZiNH58yIyHrRM54K6YQ=="

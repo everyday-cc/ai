@@ -25,38 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "The cofounder of Google's AI division DeepMind says everybody will have their own AI-powered 'chief of staff' over the next five years"
-    excerpt: "Mustafa Suleyman said AI will \"intimately know your personal information\" and be able to serve you 24-7."
-    publishedDateTime: 2023-09-05T17:15:00Z
-    webUrl: "https://www.businessinsider.com/google-deepmind-cofounder-mustafa-suleyman-everyone-will-have-ai-assistant-2023-9"
-    ampWebUrl: "https://www.businessinsider.com/google-deepmind-cofounder-mustafa-suleyman-everyone-will-have-ai-assistant-2023-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-deepmind-cofounder-mustafa-suleyman-everyone-will-have-ai-assistant-2023-9?amp"
+  - title: "CEO of Inflection AI Mustafa Suleyman on risks of artificial intelligence"
+    excerpt: "CEO and founder of Inflection AI Mustafa Suleyman joins \"CBS Mornings\" to discuss his new book, \"The Coming Wave,\" and share his warnings and predictions of the growth of artificial intelligence."
+    publishedDateTime: 2023-09-04T13:52:00Z
+    webUrl: "https://www.cbsnews.com/video/ceo-of-inflection-ai-mustafa-suleyman-on-risks-of-artificial-intelligence/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 72
-    images:
-      - url: "https://i.insider.com/64f757c47819260019117624?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "‘I hope I’m wrong’: the co-founder of DeepMind on how AI threatens to reshape life as we know it"
-    excerpt: "From synthetic organisms to killer drones, Mustafa Suleyman talks about the mind-blowing potential of artificial intelligence, and how we can still avoid catastrophe"
-    publishedDateTime: 2023-09-02T07:00:00Z
-    webUrl: "https://www.theguardian.com/books/2023/sep/02/i-hope-im-wrong-the-co-founder-of-deepmind-on-how-ai-threatens-to-reshape-life-as-we-know-it"
-    ampWebUrl: "https://amp.theguardian.com/books/2023/sep/02/i-hope-im-wrong-the-co-founder-of-deepmind-on-how-ai-threatens-to-reshape-life-as-we-know-it"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2023/sep/02/i-hope-im-wrong-the-co-founder-of-deepmind-on-how-ai-threatens-to-reshape-life-as-we-know-it"
+      name: CBS News
+      domain: cbsnews.com
+    quality: 31
+  - title: "AI pioneer Mustafa Suleyman: AI needs a \"containment\" plan"
+    excerpt: "DeepMind co-founder Mustafa Suleyman — now CEO of Inflection AI — is on a mission to convince Silicon Valley and Washington that powerful AI systems should be licensed by government to ensure the survival of humanity. Why it matters: AI needs to be \"contained,\" Suleyman argues, lest it slip free from human control."
+    publishedDateTime: 2023-09-06T09:30:00Z
+    webUrl: "https://www.axios.com/2023/09/06/mustafa-suleyman-ai-containment-plan"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 61
-    images:
-      - url: "https://i.guim.co.uk/img/media/5bf98bcdb9cd152563a3ccbbe53336548380df1c/1_0_6331_3800/master/6331.jpg?width=620&quality=85&auto=format&fit=max&s=7ac26dbd3b6604c3e8927a0efd6779e6"
-        width: 620
-        height: 372
-        isCached: true
+      name: Axios
+      domain: axios.com
+    quality: 19
+  - title: "Inflection AI co-founder Mustafa Suleyman: ‘Ban the use of AI in elections–right now’"
+    excerpt: "Free and fair elections are the foundation of American society–and next year’s are going to be the first of the generative AI era."
+    publishedDateTime: 2023-09-05T19:33:00Z
+    webUrl: "https://www.aol.com/finance/inflection-ai-co-founder-mustafa-163416358.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 10
 
 secured: "XuF437Wl0qI2B1evvdZXTbeC6PvxH1eBqN7XSfunFXU+kVQO5I0WzWnl+KonWsP7s9z6OxoUci6M7LM0v795ZVIMysGGkArGA7NyjxyVxv0ZlHpdgQ6xh7MXeIkt/CqY/wfN2zTuLqPM/rkc3X4NYzRYSh+RSyR9ERhvjgpCYvtlO/DL5ZdXq9CXmkKXBg5k2vPSHd2gz/OELAJ81+LYQfL+vc/mmWBfnO8MCF6TOZWCzDtlYYbNcaEOgOLVbgJb7GxVEED10/FiJC4+yvw70QaOanzbqZNW/6e5tBz+4oIjVwRwYJZYiJp3cphajj8XrTDokWCgyj/6lhMCfPTuCXJUQJcWBwPs8UIehTCVJ9dQbGUSnEm8gIOp+R58UFzPvHDDFL9s/4QoDDdBOCuuyCK1jXG/q7dcaF6gA3ZdsDZvzBQZDdtv8lmV68Br02hcwR+xi+U/2prOkSSODzkzvI7GyEIq0o6gTegdSROOp78Ls2yMiTlGOgjRifO3Ld3ZGfIhIrcxB6fJGGdQgNwPmQ==;Sb/LWCCljncRP42uFVKS9Q=="
 ---

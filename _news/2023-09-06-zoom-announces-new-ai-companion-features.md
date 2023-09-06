@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/tech/services-and-software/zoom-announces-new
 webUrl: "https://www.cnet.com/tech/services-and-software/zoom-announces-new-ai-companion-features/"
 type: article
 quality: 67
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Zoom launches AI Companion to summarize meetings for late attendees"
+    excerpt: "It can also answer specific questions about meeting content and automatically generate summaries, identify important information,"
+    publishedDateTime: 2023-09-06T16:33:00Z
+    webUrl: "https://venturebeat.com/virtual/zoom-launches-ai-companion-to-summarize-meetings-for-late-attendees/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/09/AI-Companion-meeting-query.jpg?w=1200&strip=all"
+        width: 1200
+        height: 636
+        isCached: true
   - title: "Zoom Adds AI Companion That Can Summarize Meetings, Write Responses"
     excerpt: "In offering the AI assistant, the video-conferencing provider is taking a “federated” approach, meaning customers will be able to choose which large language model they’d like to power the AI companion, whether it be from Zoom itself, Meta, OpenAI or Anthropic."
     publishedDateTime: 2023-09-05T13:00:00Z

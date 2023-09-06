@@ -24,6 +24,17 @@ images:
     height: 330
     isCached: true
 
+related:
+  - title: "Todos os artigos de Artificial intelligence (AI)"
+    excerpt: "It’s easy to get excited about the potential for robots to help care for the sick, injured and elderly, but we need the right regulations in place to deal with issues as they emerge. One-third of roads in the U.S. are unpaved; plenty more have faded or ..."
+    publishedDateTime: 2023-09-06T12:56:00Z
+    webUrl: "https://theconversation.com/br/topics/artificial-intelligence-ai-90?page=35"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 36
+
 secured: "1gx/l8C6kV6hhHufqKLxSMuN/8TtKU+s5a+cww04bEE/q5+Wr+74iB9mLNWCBZ+oFWHamYjR8nxer+l/lIXz+jhuj03nelpINO3Ym21DIkyhFZ7Z/LjtPOXUPfPo9+2ffNCzbJuqFdHJ/qlT2rE0qNWP9aRMNDqtkZdPMLKS6IQ3Jz/kvDtSm3+lgqrejJC+FOSbJ0Vnf7BYc3Wn6BAT/OtG+/KMKRUvneRBQ06AbUGAtiUtF6XcGJPSEezqvN08pYzQAxDfQMDq7iwu2VsmyWXwM/tyw5QI7Pr+RPjfrLxRAFHpoJ8fKUghmvQlb4fPji4KjWYmDjn+3lbgp/hYjENk92uruS1eU8Sate1w20U=;8erW9r9m3b5j8oZSzphqIg=="
 ---
 

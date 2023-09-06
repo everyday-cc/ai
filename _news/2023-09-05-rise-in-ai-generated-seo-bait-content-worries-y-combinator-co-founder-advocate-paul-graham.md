@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/34221320"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34221320"
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 864
     height: 576
     isCached: true
+
+related:
+  - title: "5 neat AI startups from Y Combinator’s Winter 2023 batch"
+    excerpt: "Another intriguing Y Combinator startup tackling challenges in AI operations is Ceralyze, founded by ex-Peloton AI engineer Sarang Zambare. Ceralyze is Zambare’s second YC go-around after leading the AI team at cashier-less retail startup Caper."
+    publishedDateTime: 2023-09-06T17:31:00Z
+    webUrl: "https://techcrunch.com/2023/09/06/5-neat-ai-startups-from-y-combinators-winter-2023-batch/"
+    ampWebUrl: "https://techcrunch.com/2023/09/06/5-neat-ai-startups-from-y-combinators-winter-2023-batch/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/06/5-neat-ai-startups-from-y-combinators-winter-2023-batch/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/03/y-combinator-gears1.png?resize=1200,674"
+        width: 1200
+        height: 674
+        isCached: true
 
 secured: "Bcdbo+KWvWWgIPfJUebdL69vici84/DsfYveUTfayAs7akfERqkJckAW22nKRZN+0yM5kXyor53g41vhkAuHcZ8OEIqpeThd0XcYrDKpTvwWnl89032S5gHBx+0vRbQVTgh0Gf8j4sJuHx3sCbECaICCWdcBtJ36Ld83mILAJwseU2AdyukKsUJNJY68APcWkpuoXZGn9yQPcWjXNj2HrnVg0r9yvZSHBVlmQpIgMEQNtUEs1mO81RMMvH02V2E1YmMVjtpGHsDB+2YpRodcA5pas7vcI0gmNcsjb5SOB0pSnE7wKZne28HmtjRoa3UiCzc9ioTfOn8XfEThHTxEoKm90QH25I15FwHQSkcSRSI=;I08BNxXLuhDymvbsZQeIaA=="
 ---

@@ -57,6 +57,15 @@ related:
         width: 2560
         height: 1438
         isCached: true
+  - title: "The Potential Of AI As A Catalyst For Business Transformation"
+    excerpt: "Artificial intelligence (AI) has rapidly emerged as a disruptive force, influencing humans professionally, socially and culturally. With its ability to process vast amounts of data and make complex decisions, I’ve seen it become a catalyst for transformation across business sectors, from healthcare to transportation."
+    publishedDateTime: 2023-09-06T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/06/the-potential-of-ai-as-a-catalyst-for-business-transformation/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "The Brand Bee Envisions The Role Of Artificial Intelligence In Shaping The Next Era Of Marketing"
     excerpt: "a distinguished Digital Marketing Agency in Gurugram , is at the forefront of revolutionising the marketing landscape by embracing the potential of Artificial Intelligence (AI). Known for providing 360-degree solutions for digital marketing and hailed as a ..."
     publishedDateTime: 2023-09-04T03:42:00Z
@@ -99,6 +108,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Revolutionizing Lending: How Artificial Intelligence is Transforming the Loan Industry"
+    excerpt: "The loan industry, once reliant on manual processes and human judgment, is experiencing a seismic shift as artificial intelligence (AI) takes center stage. AI is revolutionizing the lending landscape with innovations in credit scoring,"
+    publishedDateTime: 2023-09-06T15:25:00Z
+    webUrl: "https://www.tmcnet.com/topics/articles/2023/09/06/457019-revolutionizing-lending-how-artificial-intelligence-transforming-loan-industry.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
 
 secured: "EE2/Fg01ZXCtH4iUsLHUthw3Ks9L/KlBmSJWh8lIREOHidA72855gTLJVKdSX9mVoyNaZBapopqg3HKtmR3vSYf7jPPHccEK5hKdVmU9e0YMER1l9L2yJ2bNHhaGNg28PbFSV3COwBu4YssV134il/8H8LOb8B+J19AOB9GAtUe3wao5MEExTsT8agE3EG9NLdHhMbkogOnwnICgO7UpA3uOFJ0cOW+YRmdy8aVBoxtVeIg5puR6b+oFlZraeONNpDNs4213YJq7QObKKBpnRg/N6896fB2t3IB6OyXwGltmB0eMCidKPH8sZHoLrAwoFEprp8Qvt++aI7KNDCYvB+d3AtIV1fQd68fQPaWei/5F+gfvcO8F5WSZrl2CNsypkpkctYrsAB4AM03ZjK+B+dYoEcKBr6N4jrWjE8y33jV8CnZjocJ0+1KPpX9yPPZXDm/4Ii8cr0bIJf7WHfWGUiUVv6KsCGJDz+4fH1aMVtmfA0XEH8ZiXEy5AfHgyxozHepSxNQe2Ydgs9TJsWRxSw==;Vuskoq+NEZIgegFM+9PfVw=="
 ---

@@ -37,6 +37,15 @@ related:
         width: 799
         height: 533
         isCached: true
+  - title: "Abu Dhabi’s G42, Microsoft to offer joint sovereign cloud and AI capabilities"
+    excerpt: "Microsoft’s sovereign cloud offering will allow UAE public sector and regulated industries to use new platform capabilities for securing sensitive data, providing access to the latest cloud and AI features available on Azure public cloud and helping them ..."
+    publishedDateTime: 2023-09-06T12:07:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/technology/abu-dhabis-g42-microsoft-to-offer-joint-sovereign-cloud-and-ai-capabilities"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 31
 
 secured: "PXrwnTyXco1+MNyqruLp/33FB2utP62m9e7hU8Rf8dxOivtyk0bEtWRuvyzwQZ7gXM8+yTNxm9ql1a9nzaKP0CYWazKcENjYW5pAYWkdstfsgpvVprOsf2nCIYGsDTMwoGC+PmvgHaEi0+TlSiqAs/Tq5jndJw+6BWI+bnBb0wMmx1SPx3IcYC5BHs0gPm07VmkxFQNn4UjqnlEc9pgDzlMNTMCQokmLgv8N3ceWMprHnLEPNzGHalWt6huUQS7t7a6EgVokQvrefY+RX6lb0JztsaxAgHcHTQlouHDUNl51l1d6cFjTQNFEpT5kcCVKqjhutso0fyx1rhL9tVWyD5PcH1fTQ2hjey71PAK/n/gI9weVHEZmxAWj5sZshNoFGQc3uv2O9HF7LcJ0IyNBZfV12hJ+TqO3U7pAq5x2CmbL1AhIDge66c+93uJmsdrtG3A2rLJ3EpyLvY5lwcCD1Bpb6uNHSoVr1I5CTq/MV6i+wrdSezQ+UlCsWI1piKfF4AyfJvDdC55yR08opH8bBg==;fyYWUukPYGPcIYUKQaKNtQ=="
 ---

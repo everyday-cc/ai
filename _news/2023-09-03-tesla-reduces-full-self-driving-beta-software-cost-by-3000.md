@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tesla Begins “Full Self Driving” Public Beta As Waymo And Cruise Go Unattended"
-    excerpt: "Self-driving technology is a holy grail that promises to forever change the way we interact with cars. Thus far, there’s been plenty of hype and excitement, but full vehicles that remove the ..."
-    publishedDateTime: 2023-09-02T00:00:00Z
-    webUrl: "https://hackaday.com/2020/10/23/tesla-begins-full-self-driving-public-beta-as-waymo-and-cruise-go-unattended/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 65
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2020/10/teslafsdmain.jpg"
-        width: 3000
-        height: 1815
-        isCached: true
   - title: "Tesla go-kart upgraded with self-driving autopilot"
     excerpt: "In the realm of technological innovation, Austin Blake has made a significant stride by creating a self-driving go-kart, aptly named the Teskart. This"
     publishedDateTime: 2023-09-05T08:15:00Z

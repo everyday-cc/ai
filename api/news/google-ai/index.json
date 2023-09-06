@@ -54,21 +54,21 @@
       ]
     },
     {
-      "path": "_news/2023-09-06-the-cofounder-of-googles-ai-division-deepmind-says-everybody-will-have-their-own-ai-powered-chief-of-staff-over-the-next-five-years.md",
-      "title": "The cofounder of Google's AI division DeepMind says everybody will have their own AI-powered 'chief of staff' over the next five years",
-      "excerpt": "Mustafa Suleyman said AI will \"intimately know your personal information\" and be able to serve you 24-7.",
+      "path": "_news/2023-09-05-googles-deepmind-develops-watermark-to-detect-ai-images.md",
+      "title": "Google’s Deepmind develops watermark to detect AI images",
+      "excerpt": "Google's AI arm, DeepMind, is testing digital watermark called SynthID to identify images created by artificial intelligence (AI). This technology aim",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-deepmind-cofounder-mustafa-suleyman-everyone-will-have-ai-assistant-2023-9",
-      "originalUrl": "https://www.businessinsider.com/google-deepmind-cofounder-mustafa-suleyman-everyone-will-have-ai-assistant-2023-9",
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/ai/googles-deepmind-develops-watermark-to-detect-ai-images/articleshow/103401531.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/ai/googles-deepmind-develops-watermark-to-detect-ai-images/articleshow/103401531.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 104,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/64f757c47819260019117624?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
+          "url": "https://static.toiimg.com/photo/msid-103401856/103401856.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,23 +76,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/google-deepmind-cofounder-mustafa-suleyman-everyone-will-have-ai-assistant-2023-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-deepmind-cofounder-mustafa-suleyman-everyone-will-have-ai-assistant-2023-9?amp",
-      "publishedDateTime": "2023-09-05T10:15:00-07:00",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/ai/googles-deepmind-develops-watermark-to-detect-ai-images/amp_articleshow/103401531.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/ai/googles-deepmind-develops-watermark-to-detect-ai-images/amp_articleshow/103401531.cms",
+      "publishedDateTime": "2023-09-05T07:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -101,8 +92,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Google AI"
+        "Google AI",
+        "AI"
       ]
     },
     {

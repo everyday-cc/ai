@@ -24,36 +24,54 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk's X will use public data to train AI models"
-    excerpt: "The artist formerly known as Twitter has been in some hot water this week after Bloomberg found that the social media site would start collecting biometric details, along with job and education data,"
-    publishedDateTime: 2023-09-01T19:24:00Z
-    webUrl: "https://www.engadget.com/elon-musks-x-will-use-public-data-to-train-ai-models-184924197.html"
-    ampWebUrl: "https://www.engadget.com/amp/elon-musks-x-will-use-public-data-to-train-ai-models-184924197.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/elon-musks-x-will-use-public-data-to-train-ai-models-184924197.html"
+  - title: "Intel wants to beat bias AI training data"
+    excerpt: "He optimistically noted that, despite Nvidia's lead, it won't take long for Intel to start racking up orders for AI chips. \"They're doing well. We all have to give them credit,\" Gelsinger said. \"But we're going to show up.\" Plus, with Intel's recent debut ..."
+    publishedDateTime: 2023-09-04T17:00:00Z
+    webUrl: "https://www.fool.com/investing/2023/09/04/intel-wants-to-beat-bias-ai-training-data/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 87
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
     images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/00U4O1LtqDVNNIWes5FWNA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-09/1cb3ee20-48f7-11ee-95cf-0cef93b6a4d6"
-        width: 1200
-        height: 800
+      - url: "https://g.foolcdn.com/editorial/images/746485/featured-daily-upside-image.png"
+        width: 1390
+        height: 927
         isCached: true
-  - title: "Inside Elon Musk's Struggle for the Future of AI"
-    excerpt: "But he later agreed that I could use what he said about AI in my book. He and Zilis sat cross-legged and barefoot on the poolside patio with their twins, Strider and Azure, now 16 months old, on their laps. Zilis made coffee and then put his in the ..."
-    publishedDateTime: 2023-09-06T11:07:00Z
-    webUrl: "https://time.com/6310076/elon-musk-ai-walter-isaacson-biography/"
+  - title: "Scientists are using AI to track coal train dust"
+    excerpt: "Across the United States, around 70 percent of coal travels by rail, transiting from dozens of mines to power plants and shipping terminals. Last year, the U.S.—which holds the world’s largest supplies of coal—used about 513 million tons of coal and exported about another 85 million tons to countries including India and the Netherlands."
+    publishedDateTime: 2023-09-02T23:00:00Z
+    webUrl: "https://www.popsci.com/environment/coal-train-dust-ai/"
+    ampWebUrl: "https://www.popsci.com/environment/coal-train-dust-ai/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/environment/coal-train-dust-ai/?amp"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 71
+      name: Popular Science
+      domain: popsci.com
+    quality: 59
     images:
-      - url: "https://api.time.com/wp-content/uploads/2023/08/elon-musk-ai-isaacson-01.jpg?quality&#x3D;85"
-        width: 2400
-        height: 1600
+      - url: "https://www.popsci.com/uploads/2023/09/01/Depositphotos_81499646_L-1.jpg?auto=webp"
+        width: 2000
+        height: 1125
         isCached: true
+  - title: "Five Ways To Be More Intelligent About Artificial Intelligence"
+    excerpt: "So, how can we be more intelligent about AI? Here are my top five things to remember as your business scales its AI infrastructure."
+    publishedDateTime: 2023-09-05T12:44:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/05/five-ways-to-be-more-intelligent-about-artificial-intelligence/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "Former Intel Exec Joins Untether AI as President to Drive Commercial Efforts in the Burgeoning AI Acceleration Market"
+    excerpt: "View the full release here:  \"Untether AI has been growing at a rapid pace and Chris brings unique experience, growing world-leading chip businesses at the highest level,\" said Arun Iyengar, Untether AI CEO."
+    publishedDateTime: 2023-09-05T16:45:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/09/05/9874889.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "+VGs7lmbkz6ybJSuf+ePqJqdTE0nTJm2En5kt+Y4BSAWaCpD8WDkZZ0b+bec7+NwekU/UKwdrXyqDfmp8zgKKW1BR98oBaK/kZQKz9XKcdVZ20lRBDwT/EsjqDndH3Fn8kToSZaxokaaLtxB3S45m3UHMqeFwHARjo6+WpudXVcOatUkvD0JaZ0d0w4264nCm3cEBWck4ohxnzvH7cRkDJiF96KtEMw+Oq8LQpsrn1vrly2nByqagLxPSEhdGl6Eo9H3hj9h7QF7f/wTb0wHlW/6AkvPutwT4dEJ5V4++OoMvXFX/eeFJEbJk9GKLhJSAYKxetHxs1brs8V5fcecG/7r/SDaP4fjedg4FeboOBDi/rCNU7hWElVia+3sLhpLDijO1zkBjDKgkAIfLDsizbjQ5987hU5pJs2kMS12EjZvq/KG9VMzUy4+/2Fz7rddZnysMtmJ6KvcQlu1xEVXyN8yrZNUCshFM3zJXnYgNA8Ile56xAxBYCqkNw9Gn90yxGXyDgLMbqMmPZCkTi0SMA==;o9mjk7+V/8HFENzhr05Dcw=="
 ---

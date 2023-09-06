@@ -54,6 +54,15 @@ related:
         width: 750
         height: 450
         isCached: true
+  - title: "Revive Launches AI Tool For Real Estate Professionals"
+    excerpt: "Irvine-based Revive said this morning that it has launched a new, AI-powered tool aimed at real estate professionals. According to the company, its new software--"
+    publishedDateTime: 2023-09-06T14:47:00Z
+    webUrl: "https://www.socaltech.com/revive_launches_ai_tool_for_real_estate_professionals/s-0083617.html"
+    type: article
+    provider:
+      name: Incubators
+      domain: socaltech.com
+    quality: 17
 
 secured: "35TEH8UBnOOUukdFaDcsZcEYt74RX0MfvZ31gW/K7fUBmqhlsxrR8VJ7+g3pwzknNpchRdyibAS6Md6RuAJLh9RCbnTBkVNrSwQFrUM5BYnDd03b6cR1KW/I59PnawAjp0OfenermOH1k4YUVB799DsFNHnJ4vCxbxew9EVVD+JqQyxWT9K/0VSSml3bPxino+21CyhH+r3pOykCGj8K4wSUQxt6nI+qZr5SABaiglesKUEqzceewoZpt0BLjZBbkKn2F6SUORghYKJ92Kf0VuPauohKD9bEe3FUz9HeYPNNeLeDuA3XPJiYtcHlSrDIyWn8D4yXPy/Eys1vTvRmIqdn8hOaJ5OlznJNtSP0ZhmWv83FvjG5+vo8qUGrKvKV/8lGyTVypaK/yPTbJRB/51/7FH5ybEeFFDtKUaeEGBJVR6OKQkBnFLBJ7DzjjfukwflmqiJ7kXdb+utDDjtUERbzc/DmuVF8oJgXaPRjW0XQBQnN303cQHZQuFkNjzyp3yUPio2CkMBdaALgV7xBYg==;4ZE8bGVURQ+Ke5Rf9/Bm+Q=="
 ---

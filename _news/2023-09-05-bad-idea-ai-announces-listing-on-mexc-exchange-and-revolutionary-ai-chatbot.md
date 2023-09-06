@@ -28,6 +28,22 @@ related:
       name: IBM
       domain: ibm.com
     quality: 82
+  - title: "Why Meta Is Allowing Users to See the Inner Workings of Its AI Chatbot"
+    excerpt: "Meta’s more open approach with Llama 2 contrasts with that of the company OpenAI, which created the AI chatbot ChatGPT."
+    publishedDateTime: 2023-09-06T17:32:00Z
+    webUrl: "https://singularityhub.com/2023/09/06/why-meta-is-allowing-users-to-see-the-inner-workings-of-its-ai-chatbot/"
+    ampWebUrl: "https://singularityhub.com/2023/09/06/why-meta-is-allowing-users-to-see-the-inner-workings-of-its-ai-chatbot/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/09/06/why-meta-is-allowing-users-to-see-the-inner-workings-of-its-ai-chatbot/?amp=1"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 59
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2023/09/chatbot-orange-background.jpeg"
+        width: 1068
+        height: 601
+        isCached: true
   - title: "Chinese AI chatbots want to be your emotional support"
     excerpt: "Xiaoice, one of the first Chinese AI assistants, made its name by allowing users to customize the perfect romantic partner. And another startup, Timedomain, left a trail of broken hearts this year when it shut down its AI boyfriend voice service."
     publishedDateTime: 2023-09-06T10:40:00Z
@@ -44,6 +60,15 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "The Catch-22 Of AI Chatbots"
+    excerpt: "Since ChatGPT launched current data scraping (automated data collection from a website) now includes data created by AI, not just original material as it did initially."
+    publishedDateTime: 2023-09-06T14:01:00Z
+    webUrl: "https://www.forbes.com/sites/timbajarin/2023/09/06/the-catch-22-of-ai-chatbots/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "Easily build an army of AI chatbots using Textbase"
     excerpt: "The use of AI chatbots has has exploded this year with the release of ChatGPT 4, Google Bard, Claude, Stable Diffusion and more. They are now an integral"
     publishedDateTime: 2023-09-05T09:40:00Z
@@ -58,6 +83,15 @@ related:
         width: 700
         height: 466
         isCached: true
+  - title: "The Download: how to talk to kids about AI, and China’s emotional chatbots"
+    excerpt: "In a knee-jerk reaction, some schools banned the technology—only to cancel the ban months later. Now that many adults have caught up with what ChatGPT is, schools have started exploring ways to use AI systems to teach kids important lessons on critical thinking."
+    publishedDateTime: 2023-09-06T12:10:00Z
+    webUrl: "https://www.technologyreview.com/2023/09/06/1079111/the-download-how-to-talk-to-kids-about-ai-and-chinas-emotional-chatbots/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 15
 
 secured: "Wx1iABPwpOeqE3nWwYwExVnqP55h6vCjXFXrSD/GEquX14X2HihZRVQQcvaarRa2NwdtMXwGtOJK4Ykk+GuqDLbobbGZ8GJPZ2IN8V1FzihS+SEPzXICZutkdKaIXhpDX0R+vkTaQW0TOQe9nv5hvS2ct3n9t4zriZfuzPKMVrr77hD6U1aDwZqNyNSpp2n0ORFTQ48jLFwRjQ6WRLHBc3hVc821jhVfLfnyQsQCavYHy2J0G5/0W0BDhgWb0kGiqc3Ovrme03RLF7Kdk6XLuQqonEwPj5jZKdG1NVOQhLHn+qYN0FwP9f/kSwUe3u9ZAGZxGLAXMMZXLuTubBNx+ruH8QMjfzcNJzS0m/7t7Dw=;UTpE/hUJ4iR+OGhkByppbw=="
 ---

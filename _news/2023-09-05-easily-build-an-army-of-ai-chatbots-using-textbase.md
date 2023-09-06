@@ -34,6 +34,22 @@ related:
       name: IBM
       domain: ibm.com
     quality: 82
+  - title: "Why Meta Is Allowing Users to See the Inner Workings of Its AI Chatbot"
+    excerpt: "Meta’s more open approach with Llama 2 contrasts with that of the company OpenAI, which created the AI chatbot ChatGPT."
+    publishedDateTime: 2023-09-06T17:32:00Z
+    webUrl: "https://singularityhub.com/2023/09/06/why-meta-is-allowing-users-to-see-the-inner-workings-of-its-ai-chatbot/"
+    ampWebUrl: "https://singularityhub.com/2023/09/06/why-meta-is-allowing-users-to-see-the-inner-workings-of-its-ai-chatbot/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/09/06/why-meta-is-allowing-users-to-see-the-inner-workings-of-its-ai-chatbot/?amp=1"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 59
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2023/09/chatbot-orange-background.jpeg"
+        width: 1068
+        height: 601
+        isCached: true
   - title: "Chinese AI chatbots want to be your emotional support"
     excerpt: "Xiaoice, one of the first Chinese AI assistants, made its name by allowing users to customize the perfect romantic partner. And another startup, Timedomain, left a trail of broken hearts this year when it shut down its AI boyfriend voice service."
     publishedDateTime: 2023-09-06T10:40:00Z
@@ -50,6 +66,15 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "The Catch-22 Of AI Chatbots"
+    excerpt: "Since ChatGPT launched current data scraping (automated data collection from a website) now includes data created by AI, not just original material as it did initially."
+    publishedDateTime: 2023-09-06T14:01:00Z
+    webUrl: "https://www.forbes.com/sites/timbajarin/2023/09/06/the-catch-22-of-ai-chatbots/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "Bad Idea AI Announces Listing on MEXC Exchange and Revolutionary AI Chatbot"
     excerpt: "Collaborative Decision-Making: AI and DAO The decision to list on MEXC ... with Shibacals to produce unique figurines and clothing wear, complete with NFC chips that serve as certificates of authenticity and offer post-purchase delights like VIP NFT ..."
     publishedDateTime: 2023-09-04T19:21:00Z
@@ -59,6 +84,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 17
+  - title: "The Download: how to talk to kids about AI, and China’s emotional chatbots"
+    excerpt: "In a knee-jerk reaction, some schools banned the technology—only to cancel the ban months later. Now that many adults have caught up with what ChatGPT is, schools have started exploring ways to use AI systems to teach kids important lessons on critical thinking."
+    publishedDateTime: 2023-09-06T12:10:00Z
+    webUrl: "https://www.technologyreview.com/2023/09/06/1079111/the-download-how-to-talk-to-kids-about-ai-and-chinas-emotional-chatbots/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 15
 
 secured: "+xEsgMxITP46Et549tyeJps6xxB5Uipt6VOb6pRT3MeCZsfx0aZF31d/pSyl/e+HCC86wg5f49SxxexS8PSApd6rrmv8XKYG/UMOUlqFqz9Uv1LE4K+Sh9d9Yu4GscTM1b5z2qPqlPGS7KJT2a6AIIwrW/HO83K5ZC7OPI047rx3k1IAYpYtmivTOZ85rFyV30LUUmeATx5/OifuIbD97hdAUlIAU3xzI4hTSKqx3WXEzB58RaR+m6JcjKHYJVQ3wTnuADhmjxJe33v2GNjOpzKYSTKcgd64cHyENFV28n3A2/4tQitk3cO9HRXW0xYfNCBjDL29eDpePub/mUrxpA3GBXZ1YV6Uj9KNG14qWD4xVbnQPM3aU5rKeSGbew9FXdFvmOeMCpLOohoYgM0uXk1/fVvj3MDJ/yD0cbIPXXCH+E63o8Qy+FBdtDLPwm4GHs7oCl4mFE0xD8y5pjz0kA5Zdgs2By4UR/Vm9QUEuqBmse8D7KxO7SsNLKUmU4N/ei71k4byOBZRYNKMnXatjg==;3ZxohFSdTBIlXczURdzG9A=="
 ---

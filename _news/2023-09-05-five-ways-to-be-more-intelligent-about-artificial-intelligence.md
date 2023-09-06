@@ -53,6 +53,20 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "How to stop Meta from using your data to train AI"
+    excerpt: "Meta is betting big on AI, just like it tried to bet big on the Metaverse all those months ago. This means the company will use data that it has scraped and received from outside sources to help train its AI."
+    publishedDateTime: 2023-09-02T18:02:00Z
+    webUrl: "https://bgr.com/tech/how-to-stop-meta-from-using-your-data-to-train-ai/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/02/Meta-Sign.jpg?quality=82&strip=all"
+        width: 2584
+        height: 1672
+        isCached: true
   - title: "Former Intel Exec Joins Untether AI as President to Drive Commercial Efforts in the Burgeoning AI Acceleration Market"
     excerpt: "View the full release here:  \"Untether AI has been growing at a rapid pace and Chris brings unique experience, growing world-leading chip businesses at the highest level,\" said Arun Iyengar, Untether AI CEO."
     publishedDateTime: 2023-09-05T16:45:00Z
@@ -63,6 +77,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "2ZKE2SJ0dDssuvQeKLkAyyQmY7PwB+WsIkh25sZMFfWEDE6fkiwciuzvH6ah6tBmkIe/JUnQvNlokiN0SqvzTcrndAA257+baTSdU2PK7Pc/J2o4gJ3k0rrAtEBN22bb5Y1a2Dib7cLuuYugtXfhc8jLyGx0Vtc/1TP3DeFeiglWJKocpZQoMXPa2svHhDLi0xExqsijwFB9iCT1eU4ohqKOapupMJcBwdDy/07SCCmp2A4xBsEy0uJexT5SNN790/7bJzv4UTNcfH6XOz5VGB+s5oDsLnqoGruMAVo82yDs6kPtTMt6mPgschfIo4r3W2QGSeTzW9w2l7cQKST6NhmoQBlLCInWD7roMd/Prbw=;d0QLhVjzNjXOborKi+HgdQ=="
+secured: "1IoAzr+sCmYui0jw8356YY7721AqY+fHQe5Vye/EE5wLDPQ0nCpgXFM1bcF/CoQ83bYhdaZoVs8hSUZrIXSKxtTA0IxG1YrGfjnKEXX/z7gpyA3EW3Kyxp62Vq2O/9kqbc2E7fDfxbsgBozNedKa+O4o36cRTHlrhzKNU7/usPY23Cg+9ZE156sbyNrNu3dmSTuS87e+AUCSN5kVDAlW02hbdgTVPm4MrRkY6qdxQsNy4gEfHxL1LD6VNkICiyBrDNqgq1swQDU0bXGMDD27FvldA2SxHV9AcOdHCPz+FTa3QwnAtif/UNLKMesBDRQKZXSD9dwWD0H+TKxXwe/FQpaYUosNNzF70wgIrJAKUZB4V3RlRiych4XlrXbbAh4j4TGRaF2i5t42Kmv6z5UgNGI+E5+Si5WMZg0oF7D2Lc8ddD0xrP1f/EY/XJyaaltscPqQQzI1zcM2eqZZX83LNBioDeFKTb/172iyM2PY6dhsgCgIHnC1w+Um2KOWxQCRZrlEl9hKvnX73aX9l8xRVQ==;omuRPjxqEMvd+YNNk7AWOQ=="
 ---
 

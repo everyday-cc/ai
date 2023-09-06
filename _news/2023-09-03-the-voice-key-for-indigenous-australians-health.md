@@ -290,6 +290,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 0
+  - title: "Peter Dutton says there is 'overwhelming support for constitutional recognition' after pitching second referendum if Voice fails"
+    excerpt: "“I do think there is overwhelming support for constitutional recognition, it’s been the policy of the Liberal Party back to John Howard days.” Voters just did not support Prime Minister Anthony Albanese's Voice proposal because they do not want it in ..."
+    publishedDateTime: 2023-09-06T12:10:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/peter-dutton-says-there-is-overwhelming-support-for-constitutional-recognition-after-pitching-second-referendum-if-voice-fails/news-story/931d6136e1437a3d204ee1c4e3c6ad41"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 0
 
 secured: "INBsivf6D/qehA5yOMif3KkRHRSb7ipc2Q9y9ojLzHUs3yUTLKLORq9zuMy1EBYkUeeUk9vDAKsaFwu/QOBToAoKoNmKA+na2veyZ3wQlYWAxZC1S0ldlp29anfjgb1zeJrHYfjdDDGuABwaRiXJmVwlrJ9kP1TdELebqFA5DpzvK9CfedKeK3+6F803ZGPkX6qB/0z/ukR6bYEs2ZN/uOOCiDARKZayUOBF6hhYs41EsnAC+yZKzuvTBqyXzrBm/BuIlqUV4oX7gHxxTS82mwTylNU8gnChSHaGp96EN3XXO893YY5u09uadvsH0dHdwNbI7sBMA5VaSMBVApc5bCCreQJUPeqby2ECoBdkQlk=;q9thOkUgUlNZM0gN7Zpoqg=="
 ---

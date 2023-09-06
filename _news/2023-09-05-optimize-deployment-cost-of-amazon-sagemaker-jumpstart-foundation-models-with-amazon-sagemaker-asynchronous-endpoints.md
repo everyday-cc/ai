@@ -57,6 +57,34 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Fine-tune Llama 2 for text generation on Amazon SageMaker JumpStart"
+    excerpt: "Today, we are excited to announce the capability to fine-tune Llama 2 models by Meta using Amazon SageMaker JumpStart. The Llama 2 family of large language models (LLMs) is a collection of pre-trained and fine-tuned generative text models ranging in scale from 7 billion to 70 billion parameters. Fine-tuned"
+    publishedDateTime: 2023-09-06T17:19:16Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/fine-tune-llama-2-for-text-generation-on-amazon-sagemaker-jumpstart/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/05/featured-images-l-ml-15376-1120x630.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Run multiple generative AI models on GPU using Amazon SageMaker multi-model endpoints with TorchServe and save up to 75% in inference costs"
+    excerpt: "Recently, generative AI applications have captured widespread attention and imagination. Customers want to deploy generative AI models on GPUs but at the same time are conscious of costs. SageMaker MMEs support GPU instances and is a great option for these types of applications. Today, we are excited"
+    publishedDateTime: 2023-09-06T17:13:21Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/run-multiple-generative-ai-models-on-gpu-using-amazon-sagemaker-multi-model-endpoints-with-torchserve-and-save-up-to-75-in-inference-costs/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 87
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/05/featured-images-ml-14465-1120x630.jpg"
+        width: 1120
+        height: 630
+        isCached: true
 
 secured: "fYOhUUYgAQnpGpLt9smirmQaE8P0cHZLUVjRzpL5yrLAMv4PIVjGARgt2C/zygu2VOp6cYvL4RlvcxNakamNxTnYvDlwhbJMSbZRIwGIuVfe3J7/vn79TZLmyzQAatwOTTtp+tlR2VDzz4DM434G5Xb3rDcIbBaqohyAmasIzr7Lz5LZ/6yVjQXz0+tMfrg1UpsS8SgNZpQE5AD10ZKVW8kPsKaFNjc4UqQou1JUi/cPVavkt9li0jb2BAl+rOtWzg+e/qeaUir1KQHQ0Lh8pNw1cF2foYmFxRoOSaCgEcHghWqAcWC5eGWx5om9S3+sYDZQF75aaHvclgwO8geErxOUYy7ypU7mWGcHDBs/Cao=;LDXHOrzdwESQNwpACZKW5w=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-cro
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-crossing-the-chasm-in-ai-led-marketing-transformation-3230292/lite/"
 type: article
 quality: 76
-heat: 126
+heat: 146
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
         width: 2560
         height: 1438
         isCached: true
+  - title: "The Potential Of AI As A Catalyst For Business Transformation"
+    excerpt: "Artificial intelligence (AI) has rapidly emerged as a disruptive force, influencing humans professionally, socially and culturally. With its ability to process vast amounts of data and make complex decisions, I’ve seen it become a catalyst for transformation across business sectors, from healthcare to transportation."
+    publishedDateTime: 2023-09-06T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/06/the-potential-of-ai-as-a-catalyst-for-business-transformation/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "The Brand Bee Envisions The Role Of Artificial Intelligence In Shaping The Next Era Of Marketing"
     excerpt: "a distinguished Digital Marketing Agency in Gurugram , is at the forefront of revolutionising the marketing landscape by embracing the potential of Artificial Intelligence (AI). Known for providing 360-degree solutions for digital marketing and hailed as a ..."
     publishedDateTime: 2023-09-04T03:42:00Z
@@ -100,6 +109,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Revolutionizing Lending: How Artificial Intelligence is Transforming the Loan Industry"
+    excerpt: "The loan industry, once reliant on manual processes and human judgment, is experiencing a seismic shift as artificial intelligence (AI) takes center stage. AI is revolutionizing the lending landscape with innovations in credit scoring,"
+    publishedDateTime: 2023-09-06T15:25:00Z
+    webUrl: "https://www.tmcnet.com/topics/articles/2023/09/06/457019-revolutionizing-lending-how-artificial-intelligence-transforming-loan-industry.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
 
 secured: "nXKrZdcoE3IlRZzkS649OPqHqWV3NeD/cvahlWgGXmf+EAlQuNQ7xFTut845jLIZ2m4eGWjR3xBoLkuq9pgCCDse3Rxd3SwRXxRNptEFNbJNZi0+ZoHlFtKrwMDXdU3AVSp/5hNH10HLPV/WwwXYLae8OYkj6IO4l4LgaGiIw5w6fxqvM+akqtB5STyUFDjRdd3hHvC8O1qksyy7wbIV4ildTRRDsm2CB+/n1usBkwDvklWcOLLiJer4Tvfi0PMt1SZv9+1KWhHjw/6WZ/+BqnpLrzvdEaAPHXtCGRb6uXb3A28YHUx3fLIuM3K+xaPQFNLemXEbCAxT286FIxM8vU9mxt6EmPvZFJWyIM/fHA0=;9F5NdPzjnLmHeWpmR5tBNw=="
 ---

@@ -36,6 +36,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Zoom launches AI Companion to summarize meetings for late attendees"
+    excerpt: "It can also answer specific questions about meeting content and automatically generate summaries, identify important information,"
+    publishedDateTime: 2023-09-06T16:33:00Z
+    webUrl: "https://venturebeat.com/virtual/zoom-launches-ai-companion-to-summarize-meetings-for-late-attendees/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/09/AI-Companion-meeting-query.jpg?w=1200&strip=all"
+        width: 1200
+        height: 636
+        isCached: true
 
 secured: "XOJq/wYdW2Q6L4xEsBTSwJQ0lKZQxsXZ0Oo+BiXmKAUX2D4udCc8a0Q8sAoFvxTmZxnW7cg1YBihTedWV4Ktcm+OyP61sl+tqKVX9oBcsbucWUXiTuNhMuipRUXt5QSbxtfI3IEHBE69Xb5HE8YvyaZyCPMs29XjBi014Z1zMM4WLjpM74wqq4A6sEhnDHR37p7NO1jyd8QidGWCeWDnW+lmt5717HoyMvBInBydfvKmdGCgA5qOmj1WQPD7vV1YDGdfTTLeUd7Hy1601tQAWsE0k3hNdTn6vHnvyTGoWKIX8THwgen+YWGev6yGcyRpJQM5yWSf+cIyTudDTdmeHRPReS0A0kH+wNTR17pUaeWieUeSfHqNf/EfeumW/FGgFhUtGfXW/xkkMKdhqNqAF8Fqw6Fqh1pVYg15C0VQGEtFeG3Sd0NsEnFIsQVsvZO6jciLne/6v/a58ROt8dft/2k5e4/F4ldtCk+d+O01u1OQoze+VvL3xHRBEW1o1ls/w9LkhApGZEnV6+IFC+KFEg==;kTMBAWxz/JsZQZtUexmc2w=="
 ---

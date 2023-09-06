@@ -36,6 +36,20 @@ related:
       name: Axios
       domain: axios.com
     quality: 19
+  - title: "U.S. should use Nvidia’s powerful chips as a ‘chokepoint’ to force adoption of A.I. rules, DeepMind cofounder Mustafa Suleyman says"
+    excerpt: "That makes the company’s products “an incredibly practical chokepoint that would allow the U.S. to impose itself on all other actors” in A.I., Mustafa Suleyman, cofounder of DeepMind and Inflection AI, told the Financial Times in an interview ..."
+    publishedDateTime: 2023-09-04T14:07:00Z
+    webUrl: "https://www.aol.com/finance/u-nvidia-powerful-chips-chokepoint-104903650.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 9
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/PKNtbrUnYzJ_ZSYn4yyVGw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/b3ee8cc83bbf2ca7bcc4b950be8a40fb"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "6b2hoHlXEUiK/Dvtnqd9tJGD9kU1Av8jbCqtm1mV3Vf0xPhzPFPqHZ2GbgqxLf8W6zTPknysZQyLOtm69O8VbQHhSP2raUq+39CgzDlb90qlT2VQEQsf6E87kO9F/54grf26BQlFhG4KJREjKq+VWy193AYIxnx+mLP5gK3mIfC/5OYOY8KKWe/kDoC15pBaCfF010xvd82R/kmREwRZ6SOC0wHAKutFmFtSJSDvw+wluDfG3zxy6VOUTiPAyl14bIltmX9QCJcLnHGBbbTdXNL3cgBCo1KBhRZMeH3VF13UgGq82Dw76JNyHtfbbV9mXugcOAQMWbN1ou2egnGEzkdb6729OUiWYdwHSRzl86qpiCDWsnUGOy/fZ2455PPseWxo4qB03ppIdQYXOVXY/ykCWFK+csOnc6VCidmfFPFWVlsis70s/0iM93GGHmz2g2tOv/Fo0AGOuo5vOV8KylFjhJp4WGAoDl+rAZstqg978ahLCOGrmOkYn5vwp1DGubADMe8sNSts2RHhASmRFQ==;7qaIJDaQKhMbjVYxPQKW4w=="
 ---

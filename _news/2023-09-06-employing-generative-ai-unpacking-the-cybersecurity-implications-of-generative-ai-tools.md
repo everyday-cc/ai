@@ -34,22 +34,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "How AI Can Help Healthcare Organizations Bolster Patient Data Security"
-    excerpt: "Healthcare needs to do a better job of safeguarding electronic protected health information. Artificial intelligence-powered platforms are key."
-    publishedDateTime: 2023-09-01T19:39:00Z
-    webUrl: "https://healthtechmagazine.net/article/2023/09/how-ai-can-help-healthcare-organizations-bolster-patient-data-security"
-    ampWebUrl: "https://healthtechmagazine.net/article/2023/09/how-ai-can-help-healthcare-organizations-bolster-patient-data-security?amp"
-    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2023/09/how-ai-can-help-healthcare-organizations-bolster-patient-data-security?amp"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechmagazine.net
-    quality: 91
-    images:
-      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202309/GettyImages-1421626437.jpg?itok=g7p1UpOi"
-        width: 1440
-        height: 500
-        isCached: true
   - title: "Global DevSecOps Report on AI Shows Cybersecurity and Privacy Concerns Create an Adoption Dilemma"
     excerpt: "GitLab survey finds organizations are optimistic about AI, but AI adoption requires attention to privacy and security, productivity, and"
     publishedDateTime: 2023-09-05T21:06:00Z

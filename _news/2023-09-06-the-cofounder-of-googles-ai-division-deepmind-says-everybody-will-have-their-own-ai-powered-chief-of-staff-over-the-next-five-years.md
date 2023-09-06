@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/google-deepmind-cofounder-mustafa-su
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-deepmind-cofounder-mustafa-suleyman-everyone-will-have-ai-assistant-2023-9?amp"
 type: article
 quality: 72
-heat: 92
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google’s Deepmind develops watermark to detect AI images"
+    excerpt: "Google's AI arm, DeepMind, is testing digital watermark called SynthID to identify images created by artificial intelligence (AI). This technology aim"
+    publishedDateTime: 2023-09-05T14:07:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/ai/googles-deepmind-develops-watermark-to-detect-ai-images/articleshow/103401531.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/ai/googles-deepmind-develops-watermark-to-detect-ai-images/amp_articleshow/103401531.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/ai/googles-deepmind-develops-watermark-to-detect-ai-images/amp_articleshow/103401531.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://static.toiimg.com/photo/msid-103401856/103401856.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "‘I hope I’m wrong’: the co-founder of DeepMind on how AI threatens to reshape life as we know it"
     excerpt: "From synthetic organisms to killer drones, Mustafa Suleyman talks about the mind-blowing potential of artificial intelligence, and how we can still avoid catastrophe"
     publishedDateTime: 2023-09-02T07:00:00Z
@@ -47,20 +63,15 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "U.S. should use Nvidia’s powerful chips as a ‘chokepoint’ to force adoption of A.I. rules, DeepMind cofounder Mustafa Suleyman says"
-    excerpt: "That makes the company’s products “an incredibly practical chokepoint that would allow the U.S. to impose itself on all other actors” in A.I., Mustafa Suleyman, cofounder of DeepMind and Inflection AI, told the Financial Times in an interview ..."
-    publishedDateTime: 2023-09-04T14:07:00Z
-    webUrl: "https://www.aol.com/finance/u-nvidia-powerful-chips-chokepoint-104903650.html"
+  - title: "DeepMind’s Path to Better Large Language Models Runs Through Machine Translation"
+    excerpt: "DeepMind introduces a new method to improve the quality of LLMs and chooses MT as a use case to show how well the new approach works."
+    publishedDateTime: 2023-09-05T10:20:00Z
+    webUrl: "https://slator.com/deepminds-path-to-better-large-language-models-runs-through-machine-translation/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 9
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/PKNtbrUnYzJ_ZSYn4yyVGw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/b3ee8cc83bbf2ca7bcc4b950be8a40fb"
-        width: 1200
-        height: 800
-        isCached: true
+      name: Slator
+      domain: slator.com
+    quality: 31
 
 secured: "qkWYdRue4iAqcTepevv6sLon50gQrSQPAI5ko8avYtr4DyKCICqQT7y/D3TcH7OAv7dRQDOCngAZ/yW2E5/obkRKhVNzrBTNusBM0P8P3ykSJVDyzqAhm6z/c6K3LvkPcREIrjp/95sYJ7OhXqJbYzBGsB7o0u7OEI2NBs268J24NcMheToiqScBZanPbH5oljjunrqB5DnjpNnAj49DNvz6NRL9I4gz8O/Lr/Ij8gztKX19Wwmvze2BM7x1F44e1YrffGEnnv+/Xr0J0jXL5H3YH/7l6trUfnsWNnXSnOSViQ5kwfLmdyZNiOkFx4Bj3w/Uixt9JpOhZilUZwWwQqMcvF9bnGE15LL5Uol0PfAblLvWya8q0/H7e5hSkXXKxYGxc5BJ6WgOTyflTn6VGqKKuAvdobYfFaWD2H1YgmXuko5+3SU+MxKyd0JjYo7tGHgD2NM5tifINq6W4cqeoi3bLzyGxlMfhaySFhNXpqZ5I9TAuQ+MtAdUyEodUMXJ8LpgEWNIp0grNg2j2oC7Iw==;fHguEI/2tpQ7QZ8LwCmXnA=="
 ---

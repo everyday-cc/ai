@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Thursday, September 7: Artificial Intelligence"
-    excerpt: "Tonight Nicole Estaphan surveys the landscape, talking to local experts involved in the development of AI programs, a doctor using it in a health care setting, an artist alarmed about theft of his work, and a state senator pushing for government regulation ..."
-    publishedDateTime: 2023-09-02T00:38:00Z
-    webUrl: "https://www.wcvb.com/article/thursday-september-7-artificial-intelligence/44965563"
-    ampWebUrl: "https://www.wcvb.com/amp/article/thursday-september-7-artificial-intelligence/44965563"
-    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/thursday-september-7-artificial-intelligence/44965563"
-    type: article
-    provider:
-      name: WCVB Channel 5 Boston
-      domain: wcvb.com
-    quality: 59
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/talking-64f0e43389edd.png?crop=1.00xw:0.991xh;0,0&resize=1200:*"
-        width: 821
-        height: 463
-        isCached: true
   - title: "September Rally? 3 AI Stocks to Buy Before Liftoff"
     excerpt: "Executives at AMD have said that the new microchip, which they plan to begin shipping by year-end, is a direct challenge to Nvidia’s current dominance with AI chips. The biggest foray yet into AI for AMD, the MI300X chip was designed for large language ..."
     publishedDateTime: 2023-09-04T22:45:00Z
@@ -75,15 +59,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "Amazon promo codes for September 2023"
-    excerpt: "Save up to 40% on laptops, desktops, monitors, computer accessories, and more in the Amazon sale Grab your favorites now Amazon Prime is Amazon’s subscription service which gives you access to ..."
-    publishedDateTime: 2023-09-01T22:01:00Z
-    webUrl: "https://www.pcgamer.com/coupons/amazon.com/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 4
 
 secured: "f+j+1Aaj4Sb4s3xBCkSTSBmoIASmJz7w06Qa71F/1bLE5x2ZK0bFCgTbV8Gt3JxYfixIFUyCns2AL7eYQNWQK9JtXgvAElU+sq1rfY7l0mPPBxVueCMlQ10PF52TOeLAAgUmxpIqsv7P48zviFJQ+/s+NBCZh/XxN3ImKkF/WFbNTt1rfBLo7VYMZpIoSgtYry1SJck71lTqM3EUHmxs7Zr7SpzZyu5dHacIzx2UueAluDa78sgU540jOWdZ5/QX9uBeEpCcQMv/Wu7WzFr/5INBY5GmWCJyCYSpCBbl1IuamxwRdPbT9XnXJpMhJxsqS0WvHYrimHGGqCynLm/zGflV31LpwX0oSRlWxCXCXy8=;TbORnz9FYbrW5wsyhBsPMA=="
 ---

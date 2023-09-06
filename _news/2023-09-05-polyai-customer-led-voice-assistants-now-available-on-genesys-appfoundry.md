@@ -18,6 +18,17 @@ topics:
   - Natural Language Processing
   - AI
 
+related:
+  - title: "Digital Identity Solutions: Veridas Voice Biometrics Now Available on Genesys AppFoundry"
+    excerpt: "Veridas says its Voice Biometrics Solution is available on the Genesys AppFoundry, a marketplace of solutions offering a curated selection of apps."
+    publishedDateTime: 2023-09-06T11:54:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/09/212421-digital-identity-solutions-veridas-voice-biometrics-now-available-on-genesys-appfoundry/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 10
+
 secured: "cQ2QZo7af7QMJfXcYZ7TY2bvVbewB7iVWuIQgqh42h64jp1Ls/kPmIMbYEJ8bE1dJYDzWt6GSgO5Lsao3u62gezcgVMX/xEe7mIYPsTVcKkqNKlrHfYQ3Dc/AXTBGKCLlItMT66lQA6rIF4KX1CbjVXTnS/nR+x8neCnuKUFn1lg5TTQdFFw4Zxs+dR/2tsTQ5D4bWWHzOCwHtwStbn6VJINq6kMhx4o6EdHYhGn3uSRBE4/zOO/qh1rhHBWLAOQObTQAdWdXNwdyd2AQU3sQWwWzEB0prresYMmo0AVEeuH1grj3v0nU270vvgmy7TYFdMRENNGdFnqEUK10kE0P9lLiXL4+EEbOA6842WTO+k=;acYeIOzJ6qahzdteTl/UUQ=="
 ---
 

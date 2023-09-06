@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google’s Deepmind develops watermark to detect AI images"
+    excerpt: "Google's AI arm, DeepMind, is testing digital watermark called SynthID to identify images created by artificial intelligence (AI). This technology aim"
+    publishedDateTime: 2023-09-05T14:07:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/ai/googles-deepmind-develops-watermark-to-detect-ai-images/articleshow/103401531.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/ai/googles-deepmind-develops-watermark-to-detect-ai-images/amp_articleshow/103401531.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/ai/googles-deepmind-develops-watermark-to-detect-ai-images/amp_articleshow/103401531.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://static.toiimg.com/photo/msid-103401856/103401856.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "The cofounder of Google's AI division DeepMind says everybody will have their own AI-powered 'chief of staff' over the next five years"
     excerpt: "Mustafa Suleyman said AI will \"intimately know your personal information\" and be able to serve you 24-7."
     publishedDateTime: 2023-09-05T17:15:00Z
@@ -47,20 +63,15 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "U.S. should use Nvidia’s powerful chips as a ‘chokepoint’ to force adoption of A.I. rules, DeepMind cofounder Mustafa Suleyman says"
-    excerpt: "That makes the company’s products “an incredibly practical chokepoint that would allow the U.S. to impose itself on all other actors” in A.I., Mustafa Suleyman, cofounder of DeepMind and Inflection AI, told the Financial Times in an interview ..."
-    publishedDateTime: 2023-09-04T14:07:00Z
-    webUrl: "https://www.aol.com/finance/u-nvidia-powerful-chips-chokepoint-104903650.html"
+  - title: "DeepMind’s Path to Better Large Language Models Runs Through Machine Translation"
+    excerpt: "DeepMind introduces a new method to improve the quality of LLMs and chooses MT as a use case to show how well the new approach works."
+    publishedDateTime: 2023-09-05T10:20:00Z
+    webUrl: "https://slator.com/deepminds-path-to-better-large-language-models-runs-through-machine-translation/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 9
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/PKNtbrUnYzJ_ZSYn4yyVGw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/b3ee8cc83bbf2ca7bcc4b950be8a40fb"
-        width: 1200
-        height: 800
-        isCached: true
+      name: Slator
+      domain: slator.com
+    quality: 31
 
 secured: "myc5xyPX+azqRFqfKg66QRe3DJ/QTp6i8UB7HuuHWkitTOduQ1cSWo5e+rV/zNbFEliJ0FuIkYBuheqDMz9HhmjSdVh2N+VGJKicwuO1QusaAXjtu6PVs+Mc5i8czVqCpHDcR7UmeEpA8w/aZBQQ4yxoe1QjpDkIjYnENQiPpAyPNzZ2WDWbF1jZsolYkCtx7oCZZ6+Mo6mgXMaORn+02c5sat0a4OEyENsUgd/HT/YXc2Un2v34+IiZ/KlDMO4TBFdlMsnhOK+QB7PXYBrDBKc0UKTRfzN2gB4Xd34c3qDozRQBU9rVgPA5n6EiQm0bblSA4yV5ZWJ1gTirj8T8vfN0HzTMP8OKvIRXk1GEyZKfs9STLhTykjMcaS8iIGN8GTVjc66v+Qc0g9lxXWHe09sOu4AFFoQr4l3KBRDZERmTPPEZWfTq/2LsEEF8qJncvEx7i2gD8sD+eVrW3DLAg4PxZPLoP8o7raUIaT6GGHIoz2rnqpU88y94dj7ly83XHJo2SFwgXHT8pB+R7vwn5A==;DGneaH2D5Nj2jt6SC2cg5g=="
 ---

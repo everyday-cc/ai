@@ -1,0 +1,26 @@
+---
+category: news
+title: "Tennis, football, and IBM watsonx"
+excerpt: "The process of introducing new features to the US Open digital experience has never been smoother than it was this year, thanks to watsonx.\nThe post Tennis, football, and IBM watsonx appeared first on IBM Blog.\n"
+publishedDateTime: 2023-09-06T16:24:03Z
+originalUrl: "https://www.ibm.com/blog/tennis-football-and-ibm-watsonx/"
+webUrl: "https://www.ibm.com/blog/tennis-football-and-ibm-watsonx/"
+type: article
+quality: 97
+heat: 97
+published: true
+
+provider:
+  name: IBM
+  domain: ibm.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - IBM AI
+
+secured: "pfiyB4GNBA+BXw+CyNSN+yjF1JfxpLmnS/W16K+WbFJuMiGIUr4T9tQWPB3cxw5B5R41wQQDZuDc+kDXD3GYkhf2ExpDlGZdG4wDRRyqUkjyUjPKDbem/wjLFpUWMSqvslewmzOVzDK39UvWvWi5MHFFc0ovb4D1UKMl/VyndkMP1fmA+F8SB0+bmzYm4nMgGyU6UEG8LpMT3S+FYMQrbkDw3H9GYrEkKn8IBbciKIg//G/nG4mdn7aRnMPh7jl455MqMYkM2BY1Sj+2E/gEUggvP2pmGSnwzCRkk2IE1bec0jsMsrhioB+JY0mc2QcR3Zp78uw+UhkilfS429H9lRVKiZBkCXdNMFwXiEMlI4w=;ECOohYv84Xiv0YszUyUKgA=="
+---
+

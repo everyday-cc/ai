@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2023/09/05/tech-and-cannabis-compan
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/09/05/tech-and-cannabis-companies-are-worth-watching-amidst-ai-boomforbes-ai-newsletter-september-2nd/amp/"
 type: article
 quality: 73
-heat: 123
+heat: 103
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Thursday, September 7: Artificial Intelligence"
-    excerpt: "Tonight Nicole Estaphan surveys the landscape, talking to local experts involved in the development of AI programs, a doctor using it in a health care setting, an artist alarmed about theft of his work, and a state senator pushing for government regulation ..."
-    publishedDateTime: 2023-09-02T00:38:00Z
-    webUrl: "https://www.wcvb.com/article/thursday-september-7-artificial-intelligence/44965563"
-    ampWebUrl: "https://www.wcvb.com/amp/article/thursday-september-7-artificial-intelligence/44965563"
-    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/thursday-september-7-artificial-intelligence/44965563"
-    type: article
-    provider:
-      name: WCVB Channel 5 Boston
-      domain: wcvb.com
-    quality: 59
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/talking-64f0e43389edd.png?crop=1.00xw:0.991xh;0,0&resize=1200:*"
-        width: 821
-        height: 463
-        isCached: true
   - title: "September Rally? 3 AI Stocks to Buy Before Liftoff"
     excerpt: "Executives at AMD have said that the new microchip, which they plan to begin shipping by year-end, is a direct challenge to Nvidia’s current dominance with AI chips. The biggest foray yet into AI for AMD, the MI300X chip was designed for large language ..."
     publishedDateTime: 2023-09-04T22:45:00Z
@@ -78,15 +62,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Amazon promo codes for September 2023"
-    excerpt: "Save up to 40% on laptops, desktops, monitors, computer accessories, and more in the Amazon sale Grab your favorites now Amazon Prime is Amazon’s subscription service which gives you access to ..."
-    publishedDateTime: 2023-09-01T22:01:00Z
-    webUrl: "https://www.pcgamer.com/coupons/amazon.com/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 4
 
 secured: "Q3k96eAAn8GMUyMU8gDTjgX5sXAIypom0ZrYJR2UWiLaN0VKZOGC2Hrv2/6tQqStoHwJARP3fl4wyuvQNF9YJ8rTsPNuD7BzM+7kDmFtkSpZMuNI+Us9w32Ny+UqC96zSjEWbaP4YspjWnE5HYdumKgjj15UY11/Om3xgRFnjIJ6PW8tNq8LDHlOtFRX4YnWddpt3Ym13P1osmktsw8tYWJoZ4vCI1F1Qz2glooRSsxAs5iY2NIN0Lz5qeoXL9xbLGEbD3AR9M5TekMZ5YhO7NiUveQqGygJH1qfKriTFdd/qh/2U73/vqfLBHlsVpv1B9fX8FBIuKnAuH2mV7quLCUW/np5yb65EjzWRbufsXXxXNEK4tNa6zPA9RCPe/cRiv9yDjTyMWrsaz0fblcA93LW31N7cJUpUB0tBQqL9PbTSj0FbGn59cS2pbVGMnb/QW2Hc/KhHhExo3mtMJf4L10L7dxzSRNdaq0M2zYvDsWozH2pzLbJLBx8yaM+iceYhgJo5pn5Z6KJZv6+0oyl6Q==;3R/glFfiPEAZSwkEIB5f6g=="
 ---

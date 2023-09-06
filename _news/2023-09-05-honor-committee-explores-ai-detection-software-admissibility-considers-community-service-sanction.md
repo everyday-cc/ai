@@ -39,6 +39,15 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "Qualcomm and AWS Commit to Long-term Co-Innovation to Advance the Future of Software-Defined Mobility"
+    excerpt: "AWS brings its long-standing experience in artificial intelligence, machine learning, data processing and analysis, and high-performance computing. Combined, the two companies expect to experiment and integrate new insights into future automotive solutions ..."
+    publishedDateTime: 2023-09-06T15:07:00Z
+    webUrl: "https://www.telecomtv.com/content/access-evolution/qualcomm-and-aws-commit-to-long-term-co-innovation-to-advance-the-future-of-software-defined-mobility-48399/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 4
 
 secured: "2X4Mmv6Ig7Iw4Kfie7eX2N7CZRaCvxG83ccH2/sudlQ8o4CKkkK3sLmeUo7gsZP5Hdlkh5zMiw2RupisjDmqqID4yhwYZuhYM/vXJOVLpDmKhl1hgKssJxmLw2NrMUU+Ks50Y3SShGB9KAAdwshohnKVGW5szh8Lumq+HvS1WjUjxfvNG7L0mYeSAL2aEchkiKzrfA5H33bjKhKBRhU9Eepq5igjZ7ZoYmGYmsE2ybpZBQvZl3CAU9GlgsM+Ntord9XAMvVFkdRCoKz+EwJPtl+5xIdx8x1Bqi7ZlzIFWWvFdzmSpBXXHhDzTayVSfsCiAYONyOxlmXgpMDf/qwwf+65RSRlO2GNH2w4H60dJ695tY8w4ltqfLXh0qDkDlSB2n6XsFh9Cxo03tev2+nbmMX81uTwGfwWsgqnHvH8Jn92DhFYfRbP5d/ff8KS54bw76jIQrI+NQZagvB/PnAvkIyZZ3/A781D11ftrPFUNVJ0OjH/HmQ+mtkVV+hldOVprvuFcngfKYpSlFncsEhk/w==;DAxBDYoTbq360J3/sKDi0A=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2023-09-05T06:08:00Z
 originalUrl: "https://www.finews.com/news/english-news/59130-embargo-tu-8-am-smart-valor-starts-investment-project-ai"
 webUrl: "https://www.finews.com/news/english-news/59130-embargo-tu-8-am-smart-valor-starts-investment-project-ai"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.finews.com/images/news/2023/09/smartvalor.jpg"

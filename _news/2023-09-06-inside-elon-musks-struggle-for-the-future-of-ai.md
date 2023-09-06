@@ -6,9 +6,9 @@ publishedDateTime: 2023-09-06T11:07:00Z
 originalUrl: "https://time.com/6310076/elon-musk-ai-walter-isaacson-biography/"
 webUrl: "https://time.com/6310076/elon-musk-ai-walter-isaacson-biography/"
 type: article
-quality: 71
-heat: -1
-published: false
+quality: 69
+heat: 99
+published: true
 
 provider:
   name: Time
@@ -21,7 +21,6 @@ provider:
 topics:
   - Microsoft AI
   - AI
-  - AI Hardware
 
 images:
   - url: "https://api.time.com/wp-content/uploads/2023/08/elon-musk-ai-isaacson-01.jpg?quality&#x3D;85"
@@ -30,37 +29,39 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk's X will use public data to train AI models"
-    excerpt: "The artist formerly known as Twitter has been in some hot water this week after Bloomberg found that the social media site would start collecting biometric details, along with job and education data,"
-    publishedDateTime: 2023-09-01T19:24:00Z
-    webUrl: "https://www.engadget.com/elon-musks-x-will-use-public-data-to-train-ai-models-184924197.html"
-    ampWebUrl: "https://www.engadget.com/amp/elon-musks-x-will-use-public-data-to-train-ai-models-184924197.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/elon-musks-x-will-use-public-data-to-train-ai-models-184924197.html"
+  - title: "With AI, future of hearing aids might include language translation"
+    excerpt: "We hear a lot of headlines about concerns over artificial intelligence and what it might mean for the future. But it's not all bad: Consider hearing loss.Friendly AI could be"
+    publishedDateTime: 2023-09-05T18:32:00Z
+    webUrl: "https://www.wyomingnews.com/news/national/with-ai-future-of-hearing-aids-might-include-language-translation/video_a29c183a-5613-5e23-8999-104e6725abd1.html"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 87
+      name: Wyoming News
+      domain: wyomingnews.com
+    quality: 39
     images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/00U4O1LtqDVNNIWes5FWNA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-09/1cb3ee20-48f7-11ee-95cf-0cef93b6a4d6"
+      - url: "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/a/29/a29c183a-5613-5e23-8999-104e6725abd1/64f77ead551b6.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
-  - title: "How to stop Meta from using your data to train AI"
-    excerpt: "Meta is betting big on AI, just like it tried to bet big on the Metaverse all those months ago. This means the company will use data that it has scraped and received from outside sources to help train its AI."
-    publishedDateTime: 2023-09-02T18:02:00Z
-    webUrl: "https://bgr.com/tech/how-to-stop-meta-from-using-your-data-to-train-ai/"
+  - title: "Google's search for an AI future as it turns 25"
+    excerpt: "Google turns 25 this month (I'll have a few more candles on my cake) - and finds itself in a tech landscape that has changed dramatically since founders Larry Page and Sergey Brin started it in 1998."
+    publishedDateTime: 2023-09-03T09:11:00Z
+    webUrl: "https://www.daily-sun.com/post/710063/Googles-search-for-an-AI-future-as-it-turns-25"
     type: article
     provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/02/Meta-Sign.jpg?quality=82&strip=all"
-        width: 2584
-        height: 1672
-        isCached: true
+      name: Daily Sun
+      domain: daily-sun.com
+    quality: 19
+  - title: "Artificial Intelligence-generated image of Elon Musk in Arab attire takes the internet by storm"
+    excerpt: "In the photo published on X account bearing the name Elon Musk (Parody), the Artificial Intelligence-generated image shows Musk appearing smiling, wearing a white dress, with embroidery on the chest, a ghutra and a headband, with the caption ..."
+    publishedDateTime: 2023-09-04T19:09:00Z
+    webUrl: "https://gulftoday.ae/news/2023/09/04/artificial-intelligence-generated-image-of-elon-musk-in-arab-attire-takes-the-internet-by-storm"
+    type: article
+    provider:
+      name: gulftoday
+      domain: gulftoday.ae
+    quality: 5
 
-secured: "rGgUAKAjua37Ii17YBzLpz/QyP8s0kunW4OSx08Yj5w0xMKk7FFSS2Nxkxaa2VDwioSC3EIaz/TUSaBj2p2J0gNm/2h8AgARtR3y1PclVn1Gr2erCQc0fx5jqY+FioFIbQV+1Bl60vcvYvOVSTaTVYoaAAN8/Mr+R1DBRPD6Ny7ov+cI4a+pA1dkvrXY1yMAM3OgjSgbItYuv1q4VahwGqGK9Wi8d3z6+0XMPMCB3rHdPu3eVxn6OSYKeNXPpIglKUsadagZEfRj9A7mL2O3cAD2xXrZ9zg+aj2b53homnsannhw94Q22HgpKmQtECxIGnsN+oBxIe8xXploqNvzBqHCOivoegl3NUfpMiy56Yo=;MTP3JrDUh7hGtOvaSDCbxA=="
+secured: "pF46Yx9K7jkKwrFO6v0hmlZaF6I3Dpm8TARkfo7eDZl2UHWZjdw/4ZmDyevTTnWJKWBsLpgNKoz9FGZNUoPCNXr0DZy9FziTfVOQZXq43OFNNaKY4O0zBTk/SJgy9zpobZnynOlbviC2Ti6809/cj3ZbdB+HRgFNaqLu5TLKBYXR7abtCFklNT8LnM01e+/NZdpzGJfbbDo/CBtMhm4r1hien8ZbHzc/b0V556IsIe7CQ4U2zurMsylraHR7H7Wr/YVaA2ijp9pq5ZnKdiB3ezvcBkvFLrB34mPEUHDVwlOaDtsG8pRH3uQ/rJTSbv/bmXIErd/WmPcNUu9WgwL4nyP9YNAhk4NoG36IYCtK0bQ=;ScHfhJ12+D2971bkaY0U3A=="
 ---
 

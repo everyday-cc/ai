@@ -42,6 +42,15 @@ related:
       name: IBM
       domain: ibm.com
     quality: 115
+  - title: "AI in marketing: How to leverage this powerful new technology for your next campaign"
+    excerpt: "Today’s most effective AI marketing solutions utilize AI and ML technologies to enhance customer experiences and deliver meaningful insights.\nThe post AI in marketing: How to leverage this powerful new technology for your next campaign appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-09-06T14:25:25Z
+    webUrl: "https://www.ibm.com/blog/ai-in-marketing/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 109
   - title: "Generative AI Drugs Are Coming"
     excerpt: "The merging of deep, quality data and expertise with increasingly sophisticated AI capabilities has the potential to truly shift the future of medicine."
     publishedDateTime: 2023-09-05T11:45:00Z
@@ -58,6 +67,40 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "20 Effective Ways Small Businesses Can Leverage Generative AI"
+    excerpt: "From communications to customer service to coding, tech experts see a lot of ways that generative AI can boost a small business."
+    publishedDateTime: 2023-09-06T16:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/06/20-effective-ways-small-businesses-can-leverage-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/06/20-effective-ways-small-businesses-can-leverage-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/06/20-effective-ways-small-businesses-can-leverage-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64f89d669038c96f4a86eae0/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Financial planning & budgeting: Navigating the Budgeting Paradox"
+    excerpt: "Financial planning and budgeting are changing. Learn more about the technology helping businesses to navigate these unpredictable waters.\nThe post Financial planning &#038; budgeting: Navigating the Budgeting Paradox appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-09-06T14:00:00Z
+    webUrl: "https://www.ibm.com/blog/financial-planning-budgeting-navigating-the-budgeting-paradox/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 82
+  - title: "Potential Supreme Court clash looms over copyright issues in generative AI training data"
+    excerpt: "A case related to the data that trained generative AI could “absolutely” be taken up by the Supreme Court, say experts. How did we get here?"
+    publishedDateTime: 2023-09-06T12:00:00Z
+    webUrl: "https://venturebeat.com/ai/potential-supreme-court-clash-looms-over-copyright-issues-in-generative-ai-training-data/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 42
 
 secured: "Cc/pH1FdjGZnzZbefCNUexlCUxwq7SbRczpxmGzNAF/nFHEfs411mkRLO/+6HXdU41zetDDkRYxBFuDU5TuMYIotO/Z0GAYD+6p3HZLu1Fzm2MSHxHwIswJyt1n4yPSKD9ExsrzxG5QTJHayzTbh0VobtZZIeLPazU8Y4WIOru6+bw0P2MvMmYu15wKlQxWvpoiPX5AHpMonAckEMLHvmHUM+35FIlCNUamt+PYJAA4pOnW4gzaGjkOjIDbKtmite8i5U152p7UmLB/MdM0V5fEKu7cL1qqPCvbZS4wFGs7WiXWcIp1J+M2ODUETXHoSwaQ/xzdK6Du2Zd8Yf8mEMw1eTqoj1Cm7fjrm1gJc+6EJm/YGw6T92T9+QoFTr4RRN/s9r8tzqNVqOpToDBr/t4biR5/L747APR4RjOwIKSiiP+HzJ6IfirYcwsjazrUVPcutqLS+PW17u1+VUtBdHw5LMk+DpeAWx+Lj0p6XY0dYs5uhgiIk7F28YHzMHvIqS46Mvz6UD/GEt4ZCx19D6g==;DOlkg6Cbiq5it/kynvO83A=="
 ---

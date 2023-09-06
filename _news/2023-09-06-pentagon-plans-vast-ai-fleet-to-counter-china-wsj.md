@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/world/us/pentagon-plans-vast-ai-fleet-coun
 webUrl: "https://www.reuters.com/world/us/pentagon-plans-vast-ai-fleet-counter-china-wsj-2023-09-06/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Reuters
@@ -26,6 +26,17 @@ images:
     width: 800
     height: 419
     isCached: true
+
+related:
+  - title: "US planning vast Artificial Intelligence fleet to counter China: Report"
+    excerpt: "The deputy secretary of defense, Kathleen Hicks will sketch out some of the air, land and sea capabilities that the Pentagon is looking to develop."
+    publishedDateTime: 2023-09-06T13:51:00Z
+    webUrl: "https://www.hindustantimes.com/world-news/us-planning-vast-artificial-intelligence-fleet-to-counter-china-report-101693997732796.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 17
 
 secured: "OgyyIjUMubUsaRUjKduhgJ5ujJD5FHD2sC/kQgRExGmXv36rctlvKSugfcqvR8Uag5DBXKrXK9QmjtLEJ51HflWlXodDMJwSp5Dy2Fh0Wgh5PHW951kbqiOUWL0LitX7zHho6wwI8Qa5BSJmiop51H1aLRxWWBMAv2aZr7wXCi9AgGSIRXtMRsHmYy5aoONrGSro4s5GTRsRUAmUCbBcJtLNfk35HAmCf0C28RvHlDFnTDGGfnJjp8kc48+FVx6l+/gJ4ydGHRSmWNol5AVJJY+BonJ82EisXUvhN7LFX6hueWTPeD/jAV88T0DKZerGt40SLjBEuIDzyL1cZq4RBxfl1RZWOQ8cY8VNx/nibfQ=;cL24phbU2ei0rq5igcvXaQ=="
 ---

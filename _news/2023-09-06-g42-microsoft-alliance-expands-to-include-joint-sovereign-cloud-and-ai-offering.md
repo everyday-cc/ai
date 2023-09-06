@@ -55,21 +55,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "AI chip startup d-Matrix raises $110 million in funding from Temasek, Microsoft, others"
-    excerpt: "The Series B funding round was led by the Singapore-based Temasek, and included the Palo Alto, California venture firm Playground Global and Microsoft."
-    publishedDateTime: 2023-09-06T10:29:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/funding/ai-chip-startup-d-matrix-raises-110-million-in-funding-from-temasek-microsoft-others/articleshow/103430819.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/funding/ai-chip-startup-d-matrix-raises-110-million-in-funding-from-temasek-microsoft-others/amp_articleshow/103430819.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/ai-chip-startup-d-matrix-raises-110-million-in-funding-from-temasek-microsoft-others/amp_articleshow/103430819.cms"
+  - title: "Microsoft-Backed Startup D-Matrix To Compete With Nvidia In Bid For AI Dominance"
+    excerpt: "The chips are down in the artificial intelligence (AI) market, and Nvidia Corporation’s (NASDAQ: NVDA) stronghold appears unshakeable."
+    publishedDateTime: 2023-09-06T16:30:00Z
+    webUrl: "https://www.benzinga.com/news/large-cap/23/09/34282592/microsoft-backed-startup-d-matrix-to-compete-with-nvidia-in-bid-for-ai-dominance"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34282592"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34282592"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 83
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 71
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-115468,msid-103431037/sid-sheth.jpg"
-        width: 600
-        height: 450
+      - url: "https://cdn.benzinga.com/files/images/story/2023/09/06/d-matrix_logo.jpg?width=1200&height=800&fit=crop"
+        width: 941
+        height: 627
         isCached: true
   - title: "Microsoft expands UAE's G42 partnership to include cloud, AI tools"
     excerpt: "\"With data privacy, security, and compliance as our core priorities, we have a unique opportunity to help organizations responsibly innovate,\" Microsoft Chief Commercial Officer Judson Althoff said"
@@ -96,6 +96,15 @@ related:
         width: 768
         height: 510
         isCached: true
+  - title: "Microsoft joins $110m fundraise of AI chip start-up d-Matrix"
+    excerpt: "Matrix claims its chips are optimised to support generative AI systems, as the company pushes into a sector largely dominated by Nvidia."
+    publishedDateTime: 2023-09-06T15:08:00Z
+    webUrl: "https://www.siliconrepublic.com/start-ups/dmatrix-microsoft-ai-chip-startup-nvidia"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 51
   - title: "Silicon Valley AI chip start-up d-Matrix raises $150m in Temasek-led funding round"
     excerpt: "SAN FRANCISCO - Silicon Valley-based artificial intelligence (AI) chip start-up d-Matrix has raised US$110 million (S$150 million) from investors that include Microsoft Corp at a time when many chip companies are struggling to raise cash."
     publishedDateTime: 2023-09-06T10:47:00Z
@@ -119,6 +128,61 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 43
+  - title: "AI chip startup d-Matrix raises $110 million in funding from Temasek, Microsoft, others"
+    excerpt: "D-Matrix: Nvidia's dominant position in the AI chip markdue to a powerful combination of hardware and software has scared off potential investors in some startups, according to sources Reuters interviewed."
+    publishedDateTime: 2023-09-06T14:30:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/devices/ai-chip-startup-d-matrix-raises-110-million-in-funding-from-temasek-microsoft-others/103439827"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 43
+  - title: "Generative AI Compute Platform D-Matrix Raises $110M Series B"
+    excerpt: "Generative AI chip designer D-Matrix was able to close a $110 million Series B in a year that has not seen a lot of money for U.S.-based semiconductor startups."
+    publishedDateTime: 2023-09-06T17:02:00Z
+    webUrl: "https://news.crunchbase.com/semiconductors-and-5g/generative-ai-compute-platform-d-matrix-temasek/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 39
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/computer-chip.jpg"
+        width: 900
+        height: 506
+        isCached: true
+  - title: "Microsoft-backed AI startup d-Matrix raises $110 million"
+    excerpt: "A chiplet is a smaller, modular block of semiconductors that contains a portion of the functionality of a larger chip Generative AI compute startup d-Matrix has successfully closed a $110 million Series-B funding round led by Singapore-based global ..."
+    publishedDateTime: 2023-09-06T13:11:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/1025652/microsoft-backed-ai-startup-d-matrix-raises-110-million-1025652.html"
+    type: article
+    provider:
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 34
+  - title: "D-Matrix raises $110M to commercialize next-gen generative AI-processing chips"
+    excerpt: "D-Matrix Corp., a startup that designs and builds high-efficiency silicon and generative artificial intelligence compute platforms for data centers, today announced it raised $110 million in an oversubscribed Series B funding round led by Singapore-based global investment firm Temasek."
+    publishedDateTime: 2023-09-06T16:34:00Z
+    webUrl: "https://siliconangle.com/2023/09/06/d-matrix-raises-110m-commercialize-next-gen-generative-ai-processing-chips/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/dmatrix-corsair-screenshot.png"
+        width: 1133
+        height: 755
+        isCached: true
+  - title: "Microsft-backed AI startup d-Matrix raises $110 million"
+    excerpt: "Generative AI compute startup d-Matrix has successfully closed a $110 million Series-B funding round led by Singapore-based global investment firm"
+    publishedDateTime: 2023-09-06T12:01:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/1025652/microsft-backed-ai-startup-d-matrix-raises-110-million-1025652.html"
+    type: article
+    provider:
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 17
 
 secured: "aTXnQ8lBL5rAHCIasVUiOt4ntBnSgw+h9Ez8+Db/ZNEiBGrXuQYIFP6E+k5d/ZnsaGg5k1x510tiEjIF4Dca70FHASg2MDydqKSbfBaXfQYWId6uDdwmunNQOu+XHJetz6IFuFh9Lva2z9f6yBvHAtC4THuvajl6jnkEzOq/Fdd5dJcw3v5J0dDobB6YqFDrNJO5Qt+9m9wfUh7D2wC8lLbRPrzyt6ioN4hfLmy19D9GLbTzE/xI5xhEYQFk8P5cDgBVOBtB+DFFGh/V88pYbk00dvB2iXSdY1oZO5ghjAp7iFm/jz9+Q7j6nMSCOZ8VNmMGdV6Z3tumzj3yvulRe8FFY4lR+zwGDXcLwMp069kJY3vqjxlLPo/wX27CHbXiTq+uIb7wCoNRvwAE/03BsS6H4gBp1aENTBMH+J4FpQFvSTFYF81fkzu4dibe6d5xRGq50TGxV/Hv7zNz0xpSlFSLDL0glbDbSY4HC19nPfDosuKxDVivGixfkdySOsINprT6PEFK9y7M/s1PvvN+ag==;uheuq5hAhL2RudSPQg2yUw=="
 ---

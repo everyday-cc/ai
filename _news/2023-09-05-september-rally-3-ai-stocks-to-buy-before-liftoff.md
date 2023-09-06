@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Thursday, September 7: Artificial Intelligence"
-    excerpt: "Tonight Nicole Estaphan surveys the landscape, talking to local experts involved in the development of AI programs, a doctor using it in a health care setting, an artist alarmed about theft of his work, and a state senator pushing for government regulation ..."
-    publishedDateTime: 2023-09-02T00:38:00Z
-    webUrl: "https://www.wcvb.com/article/thursday-september-7-artificial-intelligence/44965563"
-    ampWebUrl: "https://www.wcvb.com/amp/article/thursday-september-7-artificial-intelligence/44965563"
-    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/thursday-september-7-artificial-intelligence/44965563"
-    type: article
-    provider:
-      name: WCVB Channel 5 Boston
-      domain: wcvb.com
-    quality: 59
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/talking-64f0e43389edd.png?crop=1.00xw:0.991xh;0,0&resize=1200:*"
-        width: 821
-        height: 463
-        isCached: true
   - title: "The 3 Best Long-Term Stocks to Buy Now: September 2023"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The United States economy added 187,000 new jobs last month, and this is"
     publishedDateTime: 2023-09-05T22:52:00Z
@@ -78,15 +62,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Amazon promo codes for September 2023"
-    excerpt: "Save up to 40% on laptops, desktops, monitors, computer accessories, and more in the Amazon sale Grab your favorites now Amazon Prime is Amazon’s subscription service which gives you access to ..."
-    publishedDateTime: 2023-09-01T22:01:00Z
-    webUrl: "https://www.pcgamer.com/coupons/amazon.com/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 4
 
 secured: "ynOfwf5Aj3RlUnBpZF7O7PmzkwLQh4jhgzTLWjkRrLYOW5IM4rc3wycAt0Wabzn0eh6BBHrjD4mcET7zA33t/EXNc88GCuh15QBAmSADKO5H/3RZ4wY4zSCgTXxFyXCMDnhS+yrS+BEn1BcPLUtAOYsNEFyNY/Ij9gJut0HValZqJIuK/p/AlYa51zybCwh4xwA8hozDiabqJgMXfon8jEDw53ek5eOgmsxpJ2ZlLZYOnG0SOfym6XGGs3yvKiwk3qwaXjWdPqveQzMOScORqnoI/UBMS4RbHK2LdaD8hnXRBSX/XysqwqnN5wj8MQwFyWDMhoL0tuyFQL0mE2oSrHLtJcXiVF1DORkf9IYoBkkXGwfv12XGvTR3JmgjmU/I4TqnRqlAJ+E0qpgMAWieWQpFlEGd6W+/Ef1SVMaOkgvEEbItZCRiUOUy98SI2R50fuhPbCvfCbBCauIOxf/TnUmXzJAzLERFFCVom+i56q0DylB+RFskUG50DkHbB8tWmNDva7pQ9nBabkBziXH4uA==;doQv19yGD2OVY6OtnSiogw=="
 ---

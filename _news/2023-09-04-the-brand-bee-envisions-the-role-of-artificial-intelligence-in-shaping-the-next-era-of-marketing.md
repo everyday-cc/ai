@@ -71,6 +71,15 @@ related:
         width: 2560
         height: 1438
         isCached: true
+  - title: "The Potential Of AI As A Catalyst For Business Transformation"
+    excerpt: "Artificial intelligence (AI) has rapidly emerged as a disruptive force, influencing humans professionally, socially and culturally. With its ability to process vast amounts of data and make complex decisions, I’ve seen it become a catalyst for transformation across business sectors, from healthcare to transportation."
+    publishedDateTime: 2023-09-06T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/06/the-potential-of-ai-as-a-catalyst-for-business-transformation/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "How artificial intelligence is driving change in insurance"
     excerpt: "Even as AI technology continues to develop, there is much for us to do so we can prepare for the future and meet it head-on."
     publishedDateTime: 2023-09-04T07:46:00Z
@@ -99,6 +108,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Revolutionizing Lending: How Artificial Intelligence is Transforming the Loan Industry"
+    excerpt: "The loan industry, once reliant on manual processes and human judgment, is experiencing a seismic shift as artificial intelligence (AI) takes center stage. AI is revolutionizing the lending landscape with innovations in credit scoring,"
+    publishedDateTime: 2023-09-06T15:25:00Z
+    webUrl: "https://www.tmcnet.com/topics/articles/2023/09/06/457019-revolutionizing-lending-how-artificial-intelligence-transforming-loan-industry.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
 
 secured: "BDdUlyLUwcL/uFE0Fs3qouAPJOWyW8n4Oa8+SBwKkCkx0xr81Ma5FGNlr4jA28k69zRaPYZf8bMqb/Fk+AhrTC2u6q6g5Vp2uAzHh/+1H2iLK0NTIOR2cmjtmLj7qOwNgra/MaQm0a8DukpdYGwju6H+GgITIK/sx+jJQBv74zovMsnGqbEjQtntw/oj/82JEICEE2kS/+nz76TX8+B3E+JQR7auf3KKSNKVy4wADQNSzh9Grat3EBxG7Eje9ybazeEtHAKG0q/kp9ZUIUFMGKuGCtgSg13TRCM9k6EFpksx32W0ZeQFgfFCDHcjVLspNS6qgTTQ9RqV6SkQF6GrmeXlwMis1J9cx2+x8zhNk6k=;gRIAmLxh5Wpkk4f03mjjNg=="
 ---
