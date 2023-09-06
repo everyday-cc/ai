@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Everything we're expecting at Microsoft's Surface and AI September event"
-    excerpt: "Microsoft's momentous year may culminate in one of its biggest launch events this September. Here's what we're expecting."
-    publishedDateTime: 2023-09-01T14:47:00Z
-    webUrl: "https://www.zdnet.com/article/everything-were-expecting-at-microsofts-surface-and-ai-september-event-bing/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/everything-were-expecting-at-microsofts-surface-and-ai-september-event-bing/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/everything-were-expecting-at-microsofts-surface-and-ai-september-event-bing/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 103
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/e13627a237c6a281cc2ea5fe0e7795d4fbec9b59/2023/08/30/a32be0fd-11eb-49e4-bdb6-5652372167da/dsc00260.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft Wants Us to Wear AI-Powered Backpacks"
     excerpt: "Microsoft's latest idea for a wearable takes the form of an AI-powered backpack full of sensors."
     publishedDateTime: 2023-09-01T15:25:00Z
@@ -87,38 +71,6 @@ related:
         width: 799
         height: 533
         isCached: true
-  - title: "Tech And Cannabis Companies Are Worth Watching Amidst AI Boom - Forbes AI Newsletter September 2nd"
-    excerpt: "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend."
-    publishedDateTime: 2023-09-05T14:36:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2023/09/05/tech-and-cannabis-companies-are-worth-watching-amidst-ai-boomforbes-ai-newsletter-september-2nd/"
-    ampWebUrl: "https://www.forbes.com/sites/qai/2023/09/05/tech-and-cannabis-companies-are-worth-watching-amidst-ai-boomforbes-ai-newsletter-september-2nd/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/09/05/tech-and-cannabis-companies-are-worth-watching-amidst-ai-boomforbes-ai-newsletter-september-2nd/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 73
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64f73cca5d77775f8cb01580/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 801
-        isCached: true
-  - title: "Thursday, September 7: Artificial Intelligence"
-    excerpt: "Tonight Nicole Estaphan surveys the landscape, talking to local experts involved in the development of AI programs, a doctor using it in a health care setting, an artist alarmed about theft of his work, and a state senator pushing for government regulation ..."
-    publishedDateTime: 2023-09-02T00:38:00Z
-    webUrl: "https://www.wcvb.com/article/thursday-september-7-artificial-intelligence/44965563"
-    ampWebUrl: "https://www.wcvb.com/amp/article/thursday-september-7-artificial-intelligence/44965563"
-    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/thursday-september-7-artificial-intelligence/44965563"
-    type: article
-    provider:
-      name: WCVB Channel 5 Boston
-      domain: wcvb.com
-    quality: 59
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/talking-64f0e43389edd.png?crop=1.00xw:0.991xh;0,0&resize=1200:*"
-        width: 821
-        height: 463
-        isCached: true
   - title: "Microsoft expands UAE's G42 partnership to include cloud, AI tools"
     excerpt: "\"With data privacy, security, and compliance as our core priorities, we have a unique opportunity to help organizations responsibly innovate,\" Microsoft Chief Commercial Officer Judson Althoff said"
     publishedDateTime: 2023-09-05T14:10:00Z
@@ -141,15 +93,6 @@ related:
       name: Business Times
       domain: businesstimes.com.sg
     quality: 52
-  - title: "September Rally? 3 AI Stocks to Buy Before Liftoff"
-    excerpt: "Executives at AMD have said that the new microchip, which they plan to begin shipping by year-end, is a direct challenge to Nvidia’s current dominance with AI chips. The biggest foray yet into AI for AMD, the MI300X chip was designed for large language ..."
-    publishedDateTime: 2023-09-04T22:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/september-rally-3-ai-stocks-to-buy-before-liftoff-1032603562"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "G42 and Microsoft unlock new opportunities for digital transformation with joint sovereign cloud and AI offering"
     excerpt: "Microsoft's sovereign cloud offering public sector and regulated industries to use new platform capabilities for securing access to the latest cloud and AI features available on Azure public cloud and helping local privacy and regulatory requirements."
     publishedDateTime: 2023-09-05T16:43:00Z
@@ -168,30 +111,7 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 32
-  - title: "Ranking the 5 Best Meme Coins for September 2023"
-    excerpt: "Shiba Memu leverages artificial intelligence to interact with crypto forums and social media platforms, and by using advanced natural language processing (NLP), it creates a bridge between technology and community, reaching new audiences and maintaining an ..."
-    publishedDateTime: 2023-09-05T05:12:00Z
-    webUrl: "https://www.tribuneindia.com/news/impact-feature/ranking-the-5-best-meme-coins-for-september-2023-541527"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 24
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/9/2023_9$largeimg_828696836.png"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "Amazon promo codes for September 2023"
-    excerpt: "Save up to 40% on laptops, desktops, monitors, computer accessories, and more in the Amazon sale Grab your favorites now Amazon Prime is Amazon’s subscription service which gives you access to ..."
-    publishedDateTime: 2023-09-01T22:01:00Z
-    webUrl: "https://www.pcgamer.com/coupons/amazon.com/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 4
 
-secured: "xJcz0qq2xAg9ROwAAJXFawJbDo7x7r1KVKygXjTyDGqr6sE2SNu8V93xIP+zRQ1b7DUPhi4UiY6wH8wjmox8SZ7D+vapN2vlUsh4AlvoY+/rH+5TtIID3bVyq3f0ahTuf3fo1U1DHj+ahDOgCO1Jnp/YJx8LqS/805t0TZtYUsvlyHdMNu4wuRUt/rnZpHeH37RvLaiHK6tCEMpeiUjgnVppWRvuIBY1yt+jM4bDLxc3vco/NrTCwp2bdqqQAhk4Sy1xQDaDB9XrEP+a0ThAfXpspN6ji8nHulz6QwQt6gCss76bokKTDdsnvc5x819K0BLtCQ+5exHDt/Si8rckqH7igbEt8Ck/fobmW1lUcL8=;Jt9NOCKIANDsDVhzSpdIag=="
+secured: "aTXnQ8lBL5rAHCIasVUiOt4ntBnSgw+h9Ez8+Db/ZNEiBGrXuQYIFP6E+k5d/ZnsaGg5k1x510tiEjIF4Dca70FHASg2MDydqKSbfBaXfQYWId6uDdwmunNQOu+XHJetz6IFuFh9Lva2z9f6yBvHAtC4THuvajl6jnkEzOq/Fdd5dJcw3v5J0dDobB6YqFDrNJO5Qt+9m9wfUh7D2wC8lLbRPrzyt6ioN4hfLmy19D9GLbTzE/xI5xhEYQFk8P5cDgBVOBtB+DFFGh/V88pYbk00dvB2iXSdY1oZO5ghjAp7iFm/jz9+Q7j6nMSCOZ8VNmMGdV6Z3tumzj3yvulRe8FFY4lR+zwGDXcLwMp069kJY3vqjxlLPo/wX27CHbXiTq+uIb7wCoNRvwAE/03BsS6H4gBp1aENTBMH+J4FpQFvSTFYF81fkzu4dibe6d5xRGq50TGxV/Hv7zNz0xpSlFSLDL0glbDbSY4HC19nPfDosuKxDVivGixfkdySOsINprT6PEFK9y7M/s1PvvN+ag==;uheuq5hAhL2RudSPQg2yUw=="
 ---
 

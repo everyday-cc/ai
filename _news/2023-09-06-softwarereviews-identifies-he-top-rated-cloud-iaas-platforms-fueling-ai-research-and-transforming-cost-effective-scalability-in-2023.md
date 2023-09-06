@@ -28,6 +28,22 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "Google Cloud Next ‘23: AI-optimized Infrastructure, AI Models Supporting Local Languages, and Tools for Businesses in Southeast Asia"
+    excerpt: "We are excited to bring decades of innovation and research to Google Cloud customers as they pursue transformative opportunities in AI. We offer a complete solution for AI, from computing infrastructure optimized for AI to the end-to-end software and ..."
+    publishedDateTime: 2023-09-06T06:48:00Z
+    webUrl: "https://www.thaipr.net/en/it_en/3379492"
+    type: article
+    provider:
+      name: thaipr.net
+      domain: thaipr.net
+    quality: 10
+    images:
+      - url: "https://www.thaipr.net/wp-content/uploads/2023/09/3959019-1-768x502.jpg"
+        width: 768
+        height: 502
+        isCached: true
+
 secured: "fo7z/tCSZ1oFJ62ujezzEL7Uw+37wQvBEJeBlnezfKYLvDxsCEABFPRaX+Zey3n5rjsFhcnQwox59uxGqR6VEODxtqpNzKmb4zOj+U1qXC5tbmBiDqGKLCFqmeZ9wM76VKzjfvlrspepxM/o54jxTROEIPRsZnPkCKN7xUVsmO423lPqBT6RHn4eJpILPneMD0ROIQXHdXGKWaDgU3SJC9GSfuuwG33J5Y1bJCWMJFzfdrnm1aQjuTgLkZzaYcoLpUI0nuljnTwLLlUS+5Rf3zHlJSMBqHyOnrrMRGlvhpbrfHi1MVtR/iB6lZ82iQBNMd1Y103KercaiiOncY1YcJxLtVWB2Xb05BK9z/uJY4iH5JgpAkPpjYWqQGVERnZziBFsQCcTnY1jiQkZ5tdlE6p5zO4gtLIyWiSJd4u8EAubZukO+HGQGGwwUutdAncOoW+CUImaSMJdD90NeZXbDc66K9LQkkyEAbddKt+rsEJGed9Il4G7SPUToHSzRQI2jNjczJbsd12zVrV3o/nrQw==;EIlAKwKdDtIi04JX6CMMnA=="
 ---
 

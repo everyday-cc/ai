@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/34233311"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34233311"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 1043
     height: 1043
     isCached: true
-
-related:
-  - title: "Artificial Intelligence Technology Solutions (OTCPK:AITX) Expected to Announce RAD's Quarterly Sales Intake"
-    excerpt: "Interested parties are encouraged to visit AITX on YouTube at www.youtube.com/@AITX-RAD."
-    publishedDateTime: 2023-09-01T14:51:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/09/01/9873757.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 31
 
 secured: "vP4ApQE/0Xw7ZDmU3q/Mc14vRS/q7hyKe3SdGZXia4hU3i5IHf/psyKhe/BGJgoCG/yfBZjdnm+Cn9pvsCpj9H4rNm79gVmNv85gbJu7hApQaSKe1Pu1DbQD8OxPCJ63+wSjPZTqnraKm/nMsuc+unzq7br+Si4SCyfW2gLgTC1UVcJmwWNTtMe3U3UGXayta5onQZsyy8jZMMTO/pq7kabycOXq/54WAsPV8J+VQlNsqy6ofG+7G8NoYVLXk8Z9B3pirNe3BeItyoefy/krpzfA80eYTwyQ2+oHVtZZNf3PXbAOKxxfa0b+qIvMOIALTVAkUpJYtfppxbtEFoA+r12dFob8UFEp8ztX8LRA0ps=;mOglde42Ot7dSO+OerPvvQ=="
 ---

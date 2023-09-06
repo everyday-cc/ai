@@ -18,6 +18,7 @@ topics:
   - Microsoft AI
   - AI
   - AI in Robotics
+  - AI Hardware
 
 images:
   - url: "https://www.usatoday.com/money/blueprint/images/uploads/2023/06/09065849/GettyImages-1494623409-scaled-e1686293964309.jpg"

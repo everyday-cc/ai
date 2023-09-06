@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/tech/services-and-software/zoom-announces-new
 webUrl: "https://www.cnet.com/tech/services-and-software/zoom-announces-new-ai-companion-features/"
 type: article
 quality: 67
-heat: 78
+heat: 79
 published: true
 
 provider:

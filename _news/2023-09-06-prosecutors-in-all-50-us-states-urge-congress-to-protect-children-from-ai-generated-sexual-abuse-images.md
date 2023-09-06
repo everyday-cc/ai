@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google’s Deepmind develops watermark to detect AI images"
+    excerpt: "Google's AI arm, DeepMind, is testing digital watermark called SynthID to identify images created by artificial intelligence (AI). This technology aim"
+    publishedDateTime: 2023-09-05T14:07:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/ai/googles-deepmind-develops-watermark-to-detect-ai-images/articleshow/103401531.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/ai/googles-deepmind-develops-watermark-to-detect-ai-images/amp_articleshow/103401531.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/ai/googles-deepmind-develops-watermark-to-detect-ai-images/amp_articleshow/103401531.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://static.toiimg.com/photo/msid-103401856/103401856.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Attorneys General from all 50 states urge Congress to help fight AI-generated CSAM"
     excerpt: "The attorneys general from all 50 states have banned together and sent an open letter to Congress, asking for increased protective measures against AI-enhanced child sexual abuse images."
     publishedDateTime: 2023-09-05T18:54:00Z
@@ -54,15 +70,6 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 41
-  - title: "New Meta, Google tools detect AI-generated images"
-    excerpt: "The tech giants release tools to identify synthetic images and combat AI-related discrimination for more responsible use."
-    publishedDateTime: 2023-09-01T13:11:00Z
-    webUrl: "https://www.itweb.co.za/content/4r1ly7R9Ejnvpmda"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 19
 
 secured: "Grgi7rPU8ozn1ZNGnwMs0EXiiAUaXynDiod4BAmfdOVNhNVQVPUZZJdnWz6UzMX7w0TSCDbgCPY4on8QekhYczX4t5o4Pzqrd1wepRqM21oe79U75JgHvhly3Hh+yD1o10vEtHkC8CWaN4VXin8YcBE6SrH+cMhMbLVYaKtn+pb0PQqCwkOShYd6qvfTWvCAT8/TYTU8V/q1u9vyKFrWiqtEhar13MV+zXrqoGl4l0LXxMGT/eCxhfxso5gbZPssFUjbjV0T6uCUQf1+iQPUbdRc7eXVQa2/b4F7J82S+ppQ2ZW+fTQ0EdlX8gfLpGpC3gWJTa1O1TMvG3nZaH5A28T6aO8iNGIDUorhAe8nOKU=;kcBpMDJwFlQS6SEM4fJHhA=="
 ---

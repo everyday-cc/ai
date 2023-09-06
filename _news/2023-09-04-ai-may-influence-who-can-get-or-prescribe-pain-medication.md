@@ -58,15 +58,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Artificial intelligence may influence whether you can get pain medication"
-    excerpt: "New tools, like Narx Scores, are using data and algorithms to screen patients for potential opioid abuse. But they don't always get it right"
-    publishedDateTime: 2023-09-01T13:30:00Z
-    webUrl: "https://www.phillyvoice.com/artificial-intelligence-pain-medication-opioid-abuse-6810/"
-    type: article
-    provider:
-      name: phillyvoice.com
-      domain: phillyvoice.com
-    quality: 33
 
 secured: "F10lQbNzeMqDhG4pQr4V+j+HmQ8SfbaPxC23T9mRE4zc6DbytKIzA3qD2tmJHLkHxlyxmwIqV3QIkfE+U0jVJSAmgXpgKtcFx2GDvV0DXeyVOJ6EF2kJhAXKDKcH3klvVAV2brlsdk0L61AD4bJcglpboJC2jmXsxUdwe1trRQZq57m+Pw22cduEbbtvGU28aZ9yGghMKFlopW6umgcNlbCUld/FZtRBuz3nGQXy+ndmJJn0EKwWjNW4yqcV/4QUKCE9nHDTHQgNcBhidx6uqsaB2WLl7zfkcuXJRVN56ajbRN9bQQqC/uDtKq/V2yvE9iuBNTkmz3EIMqy15++Fpu2fnkNq4XcpQPigcI7hVKs3TAAXv7XJYJjhBjTQ96dnKNwazmgu6qrNq8VuSGluZEFH4DeS9Q8J8plRBnJFXrToFKktrbm5BZoc8UdJ0Ke4TT8MvpZyeltC/AVepiDIEqj/YGxg7fizNeGzvRlLNY9TbrbBeuvixY5zCmtkrg1nVPX26bwf4EMsz1iFcw17qw==;P+1luHWXW0rVI36nPxzSDA=="
 ---

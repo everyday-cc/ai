@@ -50,6 +50,20 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 57
+  - title: "Nvidia, Horizon Robotics account for 80% of self-driving chips enabling NOA in China"
+    excerpt: "China-based autonomous driving chip developer Horizon Robotics is showcasing solutions for smart driving and advanced driver assistance systems (ADAS) powered by its Journey chip series at IAA Mobility 2023."
+    publishedDateTime: 2023-09-06T06:02:00Z
+    webUrl: "https://www.digitimes.com/news/a20230906PD205/china-horizon-robotics-adas-automotive-ic.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 49
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230906pd205_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Nvidia isn't the only game in town. Investors advise against overlooking these other AI beneficiaries"
     excerpt: "Nvidia's quarterly report seemed to leave some investors questioning whether any serious challenger can challenge its well-protected throne, or catch up to speed building comparable chips able to power generative AI models. And the price action seemed to ..."
     publishedDateTime: 2023-09-04T13:22:00Z

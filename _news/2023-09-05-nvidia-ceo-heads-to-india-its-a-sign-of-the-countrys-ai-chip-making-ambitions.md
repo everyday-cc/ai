@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-ceo-jensen-huang-i
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-ceo-jensen-huang-india-modi-chip-manufacturing-72345daf"
 type: article
 quality: 69
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -36,6 +36,20 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 57
+  - title: "Nvidia, Horizon Robotics account for 80% of self-driving chips enabling NOA in China"
+    excerpt: "China-based autonomous driving chip developer Horizon Robotics is showcasing solutions for smart driving and advanced driver assistance systems (ADAS) powered by its Journey chip series at IAA Mobility 2023."
+    publishedDateTime: 2023-09-06T06:02:00Z
+    webUrl: "https://www.digitimes.com/news/a20230906PD205/china-horizon-robotics-adas-automotive-ic.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 49
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230906pd205_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "The AI market will be worth $600 billion, Nvidia exec says"
     excerpt: "According to Das, the total addressable market for AI will consist of $300 billion in chips and systems, $150 billion in generative AI software, and $150 billion in omniverse enterprise software. These figures represent growth over the \"long term,\" Das said, though he did not specify a target date."
     publishedDateTime: 2023-09-05T23:56:00Z

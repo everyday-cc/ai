@@ -6,7 +6,7 @@ publishedDateTime: 2023-09-05T17:58:00Z
 originalUrl: "https://rbj.net/2023/09/05/ai-can-drive-changes-in-healthcare-but-wont-replace-human-decision-makers/"
 webUrl: "https://rbj.net/2023/09/05/ai-can-drive-changes-in-healthcare-but-wont-replace-human-decision-makers/"
 type: article
-quality: 17
+quality: 19
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Beyond Cost, Patient Safety and Physician Burnout Should Factor Into AI Decisions in Health Care"

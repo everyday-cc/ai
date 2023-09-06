@@ -7,7 +7,7 @@ originalUrl: "https://www.cavalierdaily.com/article/2023/09/honor-committee-expl
 webUrl: "https://www.cavalierdaily.com/article/2023/09/honor-committee-explores-ai-detection-software-admissibility-considers-community-service-sanction"
 type: article
 quality: 25
-heat: 25
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 800
     height: 533
     isCached: true
+
+related:
+  - title: "Qualcomm, AWS Join Forces to Accelerate Software-Defined Mobility Innovation"
+    excerpt: "Qualcomm Technologies and Amazon Web Services (AWS), an Amazon.com company, announced their commitment to long-term co-innovation efforts on behalf of the automotive industry."
+    publishedDateTime: 2023-09-06T06:01:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/33203-qualcomm-aws-join-forces-to-accelerate-software-defined-mobility-innovation"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 36
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/a558b48fcb9aa473975b456aaed8ed17.jpg?t=20230906_055126"
+        width: 752
+        height: 408
+        isCached: true
 
 secured: "2X4Mmv6Ig7Iw4Kfie7eX2N7CZRaCvxG83ccH2/sudlQ8o4CKkkK3sLmeUo7gsZP5Hdlkh5zMiw2RupisjDmqqID4yhwYZuhYM/vXJOVLpDmKhl1hgKssJxmLw2NrMUU+Ks50Y3SShGB9KAAdwshohnKVGW5szh8Lumq+HvS1WjUjxfvNG7L0mYeSAL2aEchkiKzrfA5H33bjKhKBRhU9Eepq5igjZ7ZoYmGYmsE2ybpZBQvZl3CAU9GlgsM+Ntord9XAMvVFkdRCoKz+EwJPtl+5xIdx8x1Bqi7ZlzIFWWvFdzmSpBXXHhDzTayVSfsCiAYONyOxlmXgpMDf/qwwf+65RSRlO2GNH2w4H60dJ695tY8w4ltqfLXh0qDkDlSB2n6XsFh9Cxo03tev2+nbmMX81uTwGfwWsgqnHvH8Jn92DhFYfRbP5d/ff8KS54bw76jIQrI+NQZagvB/PnAvkIyZZ3/A781D11ftrPFUNVJ0OjH/HmQ+mtkVV+hldOVprvuFcngfKYpSlFncsEhk/w==;DAxBDYoTbq360J3/sKDi0A=="
 ---

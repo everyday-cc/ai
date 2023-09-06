@@ -33,7 +33,7 @@ related:
     provider:
       name: Rochester Business Journal
       domain: rbj.net
-    quality: 17
+    quality: 19
 
 secured: "4vFaiPffb9VTYj5/6owgYHNUmSWFirwI/bxTF7vQ1BMsBHhXjHSLRbCEagr6hFPmi80F4kNijfdw2PXCMI4PfCaLu1irE8FvHTieJF/LJrD6gzhAYP3c7K6WzTFQ9wcThAh33MYcj9fK255xWKqPDZjhSWjtNI2hw2+RGCD7qUSiWm7ggH9MtKDLedzj2EsvfYjPNDBvm4nwTSFBpcYi+tTiVCwRgY/G2Xj3txfG/vAfG3ucWF7nYqW9LdQMa+3/mJR+gwjNRH7QbgCugirw8GCnpn33A5emjOfj9ybZwZvFEanr81QZ8t56TDuU3MRpefQK48XT7ljrZnxn5yZoeCWTm2OC6aPaVHRSaYHLdgU=;lb6wWmprg/nJjjcdRcNuIg=="
 ---
