@@ -7,7 +7,7 @@ originalUrl: "https://www.darkreading.com/dr-global/us-government-denies-blockin
 webUrl: "https://www.darkreading.com/dr-global/us-government-denies-blocking-chip-sales-middle-east"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 5650
     height: 3560
     isCached: true
-
-related:
-  - title: "US regulators deny blocking AI chip exports to Middle East"
-    excerpt: "Nvidia’s quarterly report stated it received requirements from U.S. regulators about needing to obtain a license prior to selling its flagship chips to “some Middle Eastern countries.”"
-    publishedDateTime: 2023-09-01T12:40:00Z
-    webUrl: "https://cointelegraph.com/news/us-regulators-deny-blocking-ai-chip-exports-to-middle-east"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 34
 
 secured: "DP2uf6+67k67VVdxdwKZCjK6w2c3vQglB8UuLuPa1CrgM8Ab1BiUctiI1cHJHIiLakqu63bzZFt1R4XrstRWoioLFxDpp5VZuVs3NplX8D44145oidzue67fN2iuC3SKoN6x9gGMbp+QO5KnYSnzy5agpXKJMe8VrD+SjsTf/LBWaibvWUICudjGp+NCc0pE3BBeQA52hcZDDmuDJvHkT29r22gSsW0YVNLcMBQvtLFBE9lHsihtBgMSPEHvQMxIrfK7LY/IrW7FQyTqEXBK1vlTmMB9LY8VgajWRzSg+NT1NJmXWq/Rn8hA91CfXvCzkBZ1o+LtnTsNlSZt2zGwXZ2sibZwRQdWL2zSbWFOqumPc0ctxqIDyoa9KsEMy2/4yRTm4ohOT7vflCzv5KXYXBIB54d2jhNgr3dcONETtvOGMHhgCZrKdiq6+4GTA5jeAl5Sjm6qdapHzvrOf1vT2VvAhY5r+5QEgOy8o3qFIvsRssDVrBjxT0WfG2I1tMYMnp/P8FfWFcnq5bME94dUHQ==;cZMHrOaTrPiWxMZyew059w=="
 ---

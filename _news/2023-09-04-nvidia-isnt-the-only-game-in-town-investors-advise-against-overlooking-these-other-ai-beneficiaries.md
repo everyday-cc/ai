@@ -48,6 +48,38 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 57
+  - title: "The AI market will be worth $600 billion, Nvidia exec says"
+    excerpt: "According to Das, the total addressable market for AI will consist of $300 billion in chips and systems, $150 billion in generative AI software, and $150 billion in omniverse enterprise software. These figures represent growth over the \"long term,\" Das said, though he did not specify a target date."
+    publishedDateTime: 2023-09-05T23:56:00Z
+    webUrl: "https://www.aol.com/finance/ai-market-worth-600-billion-205624655.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/rmz_QozPwo5_5vIDus3yvw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTY-/https://media.zenfs.com/en/aol_yahoo_finance_433/a02e06f983d467398544fdfa4d288964"
+        width: 1199
+        height: 796
+        isCached: true
+  - title: "Saudi Arabia and UAE race to buy Nvidia chips to power AI ambitions"
+    excerpt: "Saudi Arabian Crown Prince Mohammed bin Salman, left, and Nvidia chief Jensen Huang. The Gulf state’s interest in AI has sparked concerns over the technology’s ..."
+    publishedDateTime: 2023-09-04T20:11:00Z
+    webUrl: "https://www.ft.com/content/c93d2a76-16f3-4585-af61-86667c5090ba?sharetype=blocked"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
+  - title: "PM Modi, Nvidia CEO discuss India's rich potential in artificial intelligence"
+    excerpt: "PM Modi in a post on X wrote, \"Had an excellent meeting with Mr. Jensen Huang, the CEO of @nvidia. We talked at length about the rich potential India offers in the world of AI. Mr. Jensen Huang was appreciative of the strides India has made in this sector and was equally upbeat about the talented youth of India.\""
+    publishedDateTime: 2023-09-04T17:43:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/World/20230904/4115578.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 14
   - title: "Nvidia's Jensen Huang Eyes India's AI Future In High-Level Meeting With Prime Minister Modi"
     excerpt: "Nvidia's latest A100 AI chip, powered by the Ampere architecture, is widely used for training ChatGPT and other large-language models. See Also: Best Artificial Intelligence Stocks Why It’s Important: Commenting on Huang’s India visit, Nvidia said in a ..."
     publishedDateTime: 2023-09-04T19:11:00Z

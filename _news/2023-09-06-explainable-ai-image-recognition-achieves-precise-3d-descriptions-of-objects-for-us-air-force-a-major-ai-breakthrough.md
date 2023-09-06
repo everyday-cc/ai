@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Explainable-AI Image Recognition achieves precise 3D descriptions of objects for US Air Force, a major AI breakthrough"
-excerpt: "\"ZAC algorithms can describe and measure 3D objects from any viewpoint, for full Explainability of 3D objects,\" emphasized Dr. Bijan Tadayon, CEO of ZAC. \"We will be using this tech for Medical Imaging, too,\" continued Dr. Bijan Tadayon."
-publishedDateTime: 2023-09-05T18:24:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/09/05/9874975.htm"
-webUrl: "https://it.tmcnet.com/news/2023/09/05/9874975.htm"
+excerpt: "Z Advanced Computing, Inc. (ZAC), the pioneer CognitiveExplainable-AI (Artificial Intelligence) (Cognitive XAIor CXAI) software startup, has developed the \"Describer\""
+publishedDateTime: 2023-09-05T17:03:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/09/n34245972/explainable-ai-image-recognition-achieves-precise-3d-descriptions-of-objects-for-us-air-force-a-ma"
+webUrl: "https://www.benzinga.com/pressreleases/23/09/n34245972/explainable-ai-image-recognition-achieves-precise-3d-descriptions-of-objects-for-us-air-force-a-ma"
+ampWebUrl: "https://www.benzinga.com/amp/content/34245972"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34245972"
 type: article
-quality: 15
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/2201922/Z_Advanced_ComputingInc_Table_Compare.jpg"
-    width: 400
-    height: 302
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
 related:
@@ -64,16 +66,7 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 41
-  - title: "How artificial intelligence will help, or hinder, your workforce"
-    excerpt: "The authors' theory is that higher-skilled workers benefit far less from AI assistance because the AI is reflecting behaviors and skills it learned from the skilled work, making it more beneficial to reduce the learning curve and help out new customer-service workers instead."
-    publishedDateTime: 2023-09-01T12:00:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/09/01/ai-chatgpt-tools-workers-manager-risk.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
-secured: "o8F4GF0wHSgvIimPL0TOHXfqeUCnh9vNCH7sumh73JJRIcJa65knBy1MoERS/APehDKah4XRkFWXQNuK3b8qE6CnQhg8XB4sCCk6hqoAu/Iju26iRjCDPHslnNwXSXdqqZnq/jVtGTMjhyqkY9pUhmTdS4+cuXMYCkuDHAXuiLZS3uq4xPK6EwgNy5jb8MM2eF8vX9ul53t10bMMkFTWgvqlwZLjxXylEEUzFI7ZiCoyAMAq7h5o/zBSju97TPfyKHNBZQw3ll9DrlvXSjZ5iTwB45kxvITT1W/W0JAoOmET5ZSLh26POsTg93QDKl0CUfpfHGvPNf/1cVNI6tSkP8bbGRZxlZZLBJPQMxvUcEI=;szo2zslh9kowUEN1SlVF8w=="
+secured: "sH19XA6kg0ZLiMcjJw6MZY5DihaF0qcFTlKNPNrFmvGlZRstTVE9JOwzztba/EiJ++zLnL9Zs9LKkkEulVjMRIF0NGPnoXpb2QsGiVlEdPVB8ikyX49IlN0KyzPmNx192wP88+YGdPC2ZbBoRRr5tO9GplR2COotEcs9rtMFYlrbDxZdGzVD9GyD9GU4Dgi8TN6ICX/koEetLEW8zx7uhbIU9tyJGmoBBLwBiHc1an0HzbPwbj65kLjAOofPyTE5g0kfvZrKqGKymrrn3Nfz1QMSdhsvUNamykfK1GRROj1e4g9kdgbmJ3PGKqpPgCC0uKsFy0gS/FZnEUs9/MoG2VLCXxgtAls8mrXunzFgIbA=;SSJf/9PAyX+eawDqEEIhMQ=="
 ---
 

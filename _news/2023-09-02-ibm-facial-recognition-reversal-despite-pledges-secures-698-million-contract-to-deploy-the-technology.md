@@ -25,17 +25,6 @@ images:
     height: 628
     isCached: true
 
-related:
-  - title: "UK signs contract with IBM to provide police with facial recognition tech – report"
-    excerpt: "An investigation claims IBM has signed a contract with the UK government to provide facial recognition tech, despite vowing not to do so previously."
-    publishedDateTime: 2023-09-01T12:20:00Z
-    webUrl: "https://telecoms.com/523393/uk-signs-contract-with-ibm-to-provide-police-with-facial-recognition-tech-report/"
-    type: article
-    provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 13
-
 secured: "8F4jG+ySCi3EIHHhg9nEd/u/m3nrsqVdrhKeoUrRzsHI+IWnIImiY9LqRNeTXusFyOIIwmPcGNPznLxyN31kqONNDwRGjeQltn5LmOMG7W20MHLBS9UIWu7SlHXSfAOWSX5C8zLIKMbv1uXx1gVGbWmSw64ZLEAqwn8q3UXOaaUoFSI3P7UjksqtYI/IWqnwNLVjqtBRZsNcaTSepXN0ZeLqObAeKT4kfnNIq3C6a1ZNDUoLVUvUS8OV7cRbhIcz3XxodC113XsVRw6XXcQ1tYL6eeyWvMPio6+n5TnbegtzOC+WAhh2chqWafEJnVRCKalwDChbrvy8wK6TbvtAZR/e/hiVEqHLDz2FBTvoQO9tw5awpBeAuBNR1LZ5PTXAwRrT2S4pSTzqlHxWW10b4D27+PqJyjsQULEfMNVzSF/07Hy4WW28s4Td3iUCfhVmpYMz0y88tI0JxzaV2Rsi3PojgDKA7p4HvRy94mwZUtGYVvfV+q2UXRnDxG1dmM5752+wnGhlRug69Pg0wGo/dA==;OynPAKhAEvnf6kfffFNiQg=="
 ---
 

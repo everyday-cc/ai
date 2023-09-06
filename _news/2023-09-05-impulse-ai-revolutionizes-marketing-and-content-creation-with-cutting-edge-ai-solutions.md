@@ -77,20 +77,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Exploring AI’s Transformative Impact on UK Pharmaceuticals and Manufacturing with Bidyut Sarkar"
-    excerpt: "As the AI wave sweeps across industries, the pharmaceutical sector stands poised for a transformative makeover. Experts contend that integrating artificial intelligence (AI) offers unprecedented prospects for accelerated innovation and enhanced healthcare outcomes in the life science industry."
-    publishedDateTime: 2023-09-01T12:56:00Z
-    webUrl: "https://techbullion.com/exploring-ais-transformative-impact-on-uk-pharmaceuticals-and-manufacturing-with-bidyut-sarkar/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 27
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/09/impact.jpg"
-        width: 775
-        height: 430
-        isCached: true
 
 secured: "iIdxFXY/hqEiIsihJsYayFtMOxKM3/FpjLMXkni016rlhMatK6xCUFhfTTf3VNigJ5jU+0Ie4T/3jvHdYVQoa4w/X335bn6LZ1hz7pai4gfULG/dHKyUMv4oFtoFv0wxi/Vv0L195bwvkuSn0c9mf3qxQAIezp72iEYGYtOhVGgtwgevkKaeTEKi8ZhC1dyZptanT/bjm2EEaFO9iHofLRMlMbBK5q8z7LYI5x4FHhSGP8TokKeEcqSs5tgYKq08U0bhsIU9vFdxMU+3H6TAUs0S6db/eYaTco/LR/vS6BieQBlshfF3a9Xlp6BarQX4POrzGkWKvyfNpgcUvnLpB6bpDQ9RMYBiN0nS6MPatUs=;aThYtIMM7WeAgoWVPAEusQ=="
 ---

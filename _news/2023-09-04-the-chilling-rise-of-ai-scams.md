@@ -72,20 +72,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Exploring AI’s Transformative Impact on UK Pharmaceuticals and Manufacturing with Bidyut Sarkar"
-    excerpt: "As the AI wave sweeps across industries, the pharmaceutical sector stands poised for a transformative makeover. Experts contend that integrating artificial intelligence (AI) offers unprecedented prospects for accelerated innovation and enhanced healthcare outcomes in the life science industry."
-    publishedDateTime: 2023-09-01T12:56:00Z
-    webUrl: "https://techbullion.com/exploring-ais-transformative-impact-on-uk-pharmaceuticals-and-manufacturing-with-bidyut-sarkar/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 27
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/09/impact.jpg"
-        width: 775
-        height: 430
-        isCached: true
   - title: "Impulse AI Revolutionizes Marketing and Content Creation With Cutting-Edge AI Solutions"
     excerpt: "This tool is a game-changer.\" - Lawrence Schroth, Managing Director. Impulse AI offers various subscription packages tailored to different needs: - Essential Start - Free package with Curie (Good) Open AI Model, 36 AI Templates, 5 Images per month ..."
     publishedDateTime: 2023-09-04T18:40:00Z

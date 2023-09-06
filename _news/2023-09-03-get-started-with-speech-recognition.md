@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Automatic Speech Recognition Technology Can Improve Your Customer Service"
-    excerpt: "Paired with conversational A.I., ASR can make customer service interactions quicker, more effecient and improve accessibilty."
-    publishedDateTime: 2023-09-01T12:15:00Z
-    webUrl: "https://www.inc.com/srini-pagidyala/automatic-speech-recognition-technology-can-improve-your-customer-service.html"
+  - title: "Here’s A Plain C/C++ Implementation Of AI Speech Recognition, So Get Hackin’"
+    excerpt: "[Georgi Gerganov] recently shared a great resource for running high-quality AI-driven speech recognition in a plain C/C++ implementation on a variety of platforms. The automatic speech recognition ..."
+    publishedDateTime: 2023-09-04T00:00:00Z
+    webUrl: "https://hackaday.com/2022/11/27/heres-a-plain-c-c-implementation-of-ai-speech-recognition-so-get-hackin/"
     type: article
     provider:
-      name: Inc
-      domain: inc.com
-    quality: 40
+      name: Hackaday
+      domain: hackaday.com
+    quality: 51
     images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1318603905_533473_ngcoqx.jpg"
-        width: 1024
-        height: 576
+      - url: "https://hackaday.com/wp-content/uploads/2022/11/Whisper-iPhone.png"
+        width: 1397
+        height: 785
         isCached: true
 
 secured: "WUmlYT+639TDS0NUo2NgEvGmom3WAq9vwFTRY4q6yKR8yUKqjVcNY5dfStTZ0CMc0sWolFLHWihi7QbCHxgRtFifKkenZJWT80WasMMi5RI1UXct/rKtxczHa1hYaSPh25tsWowXXcYYs0k4NfQcP3ZAiH/BWaBkazF9E/wykdg7LYk5fkVqZq7NdwjfYhTTCJHUZGql5s7tZ6JI+3Fa+pX92lRIJiBVo0CmC9yXXi3P6G2/FGbLD0v4txuJ4lcoqWp5OPuBZ1wVlO33MKTOU/HuCiln9pin/9CJ3ZC7aH40v60ozf94MNInkx06W8RRF7dyYDEjMxnMhCzPNTSkCN2bRr9LcasLE7cbImok8Sc=;KYlbmy9PdRPhdN+4Twk3xw=="

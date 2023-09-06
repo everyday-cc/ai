@@ -65,15 +65,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "How startup founder thinks employees should about AI in the workplace"
-    excerpt: "With AI making its way into the workplace, how do people navigate working alongside it? For Murat Baday the answer is being trained to use it."
-    publishedDateTime: 2023-09-01T12:05:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/09/01/ai-workplace-magnimind-murat-baday.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "sK8pvIhoOOcRgNQVvlbdzh8oo0/j4hxkubDE5sKd1ImFITCAaaZtS2VVAK4m7grK71ZacDfqAqUdcl0shan7+nkZHxvo8GUxWZyNGti6nVQdh+IdWlF8v8t+gzfm9WSu/TbGOnLR68UH2dIpYQ8RbEMu93lbRLpghdBNaeBjWc2R8FbdnfBRw4oJ+5xZ1YgH2vuNg3IG3DmdGgOm17r7yQBzEEFuJztWJUeYAhDEQECKYpyKk80isKouxJ+1fz6Ut0OzE/b4RF3OmyuCcydIfrVgYciKc5rgZt8dCYp1lNGuiMAq7vEpF5TeA0cA5LuIQY586xNyBqTL1UatVFJyDLhCraWmQZcjKZ8HIyNoQ5vkQuWJqNmUMCyr2Mr0kEClhkADQl3RacIsPf9xos1br3a1sbxsmNo6pkDHDvQSyOPIL4d9pdSkVTAfilOHAQZmc6QXTXQPXP4+1DPcnD76FO453yAzm+45C2K41gq8iWBGV18QTRSCS3wgu1aSj2iVOuDzEqNVRW71lKd6lq948w==;CkMfazZYRqZGNtm74E/tJw=="
 ---

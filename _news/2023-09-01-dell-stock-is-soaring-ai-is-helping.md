@@ -53,28 +53,21 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 41
-  - title: "How artificial intelligence will help, or hinder, your workforce"
-    excerpt: "The authors' theory is that higher-skilled workers benefit far less from AI assistance because the AI is reflecting behaviors and skills it learned from the skilled work, making it more beneficial to reduce the learning curve and help out new customer-service workers instead."
-    publishedDateTime: 2023-09-01T12:00:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/09/01/ai-chatgpt-tools-workers-manager-risk.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
   - title: "Explainable-AI Image Recognition achieves precise 3D descriptions of objects for US Air Force, a major AI breakthrough"
-    excerpt: "\"ZAC algorithms can describe and measure 3D objects from any viewpoint, for full Explainability of 3D objects,\" emphasized Dr. Bijan Tadayon, CEO of ZAC. \"We will be using this tech for Medical Imaging, too,\" continued Dr. Bijan Tadayon."
-    publishedDateTime: 2023-09-05T18:24:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/09/05/9874975.htm"
+    excerpt: "Z Advanced Computing, Inc. (ZAC), the pioneer CognitiveExplainable-AI (Artificial Intelligence) (Cognitive XAIor CXAI) software startup, has developed the \"Describer\""
+    publishedDateTime: 2023-09-05T17:03:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/n34245972/explainable-ai-image-recognition-achieves-precise-3d-descriptions-of-objects-for-us-air-force-a-ma"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34245972"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34245972"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
     images:
-      - url: "https://mma.prnewswire.com/media/2201922/Z_Advanced_ComputingInc_Table_Compare.jpg"
-        width: 400
-        height: 302
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
 secured: "qnnFOVdnwUi5bGmMWDhoe6GHOcOOeGDT68BMKQMp+ScWqNOEj/ae+A8iQEoI1fOJgKa5S4O8Nai+JD4GVu/ig4C4ht1xOZRS6vv8WZN8UCwPUdVALFD3seazn4e+aI/H/Gz6S1Nkwv79h/LHGVwB/DSiEr5WhrezCWOGy8oEXE81Sxv5GWFYsPnbkiExPoXw02o9Mx/n5lPr8tVxF29+qPRXhDzcuwSKIKANiukdV/4POOejNdIjUvwCgd2H01U+0gpcGsWcbUWjR8NTq9rgYTUvSczgtarruUKaWJ0CynnkCpQq1ukAP+ggxBF43nPLxavBZ6e2yxzWN3EnAhkRaVphjajkD4qN0UuBdPX+YNmjP0IhsfhX7pJ2BpNGU/iV6KKiQyoaBqbI9vnA1o6CTjslnxoyPZ9WluUN9ASpEXiMycx+InAknYAmSI9vKtVOWezxjBphoiUbXG+SAhLgydl9T3xVAaATqNRFnQqRkkmenf3tFa6JAOex2nPp88IWgMarq9cW3dBMueqFmeldTw==;LKkRJWkPvFK70ouMJvPn0w=="

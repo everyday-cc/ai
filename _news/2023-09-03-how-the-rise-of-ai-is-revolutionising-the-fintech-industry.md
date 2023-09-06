@@ -35,20 +35,6 @@ related:
         width: 711
         height: 400
         isCached: true
-  - title: "How the AI Revolution Will Reshape the World"
-    excerpt: "We are now facing a new wave of technology, centered around AI but including synthetic biology, quantum computing, and abundant new sources of energy. In many respects it will repeat this pattern. Yet it will also depart from it in crucial ways only now becoming clear."
-    publishedDateTime: 2023-09-01T11:05:00Z
-    webUrl: "https://time.com/6310115/ai-revolution-reshape-the-world/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 67
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2023/09/GettyImages-1405750746.jpg?quality&#x3D;85"
-        width: 2121
-        height: 1414
-        isCached: true
 
 secured: "QsTj55NeP74QRN+TvZWnUA3uE33L3EINsvrKMn1uhdn86Maykl5dXkppMQ+KzgAVuX/Y5s/JiZss2Ti1+NdpHIeKZvxLjSkq7s9xhtcUNHpjQGo6iLmJDyoRjHX5OCyXFzVbGaDzArIAXQqR849r05bFx9gTDBjffxZcsqCPGw6tJRUl2qw6jPawBV5hhGdFkdDqp1Tx0fsbFJzamxR6ElZ/Zw0r/k97eimRpOFPUNb6nFrumSzjPtgY04OCtlRad2KZNNL4adOTsXtOUfNv2lBQFNLqRZTRBB9LZ7fUNOquW+9RNjsCmI+H/3jzg2j7tmEWTfbVCeT7A6RcdPyAbcxblXrDBrFvCynchJUs/XhRFpdl3ivbXsdZ+zJRJMrWZYEbONWbEPAPrffGMQDXauIbBAmcl1lvsZWmGfAFUsUsKCx/SMu6ntk2ugyJWVxZlOhtpm+RmQ4eRqq/5+j3+PUYwrxkMUW6Okene6o8bdrJozNh3VP/Y/qx94u3BJmOzF3w7zZVizrgeFlRCl8BVg==;kIaMaBEtf0b6V+Ed0pvcWw=="
 ---

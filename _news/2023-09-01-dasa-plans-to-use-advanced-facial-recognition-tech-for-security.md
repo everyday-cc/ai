@@ -9,7 +9,7 @@ ampWebUrl: "https://techround.co.uk/news/dasa-plans-use-advanced-facial-recognit
 cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/dasa-plans-use-advanced-facial-recognition-tech-security/amp/"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -20,17 +20,6 @@ topics:
   - Computer Vision
   - AI
   - AI in Security
-
-related:
-  - title: "RecFaces announces webinar on “The Future of Face Recognition Technology: Opportunities and Challenges in India”"
-    excerpt: "RecFaces, a biometric solution company announced the date for its next free webinar, The Future of Face Recognition Technology: Opportunities and Challenges in INDIA. Facial"
-    publishedDateTime: 2023-09-01T11:58:00Z
-    webUrl: "https://www.sourcesecurity.com/news/recfaces-announces-webinar-future-face-recognition-co-1603983074-ga.1693556044.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 0
 
 secured: "GMROjVPEOBf/fGZs95eAxqWP42ldbhTU2kl+3bOfaOxOrQyoFPasOEioxrsO4OEowSCUtpG1ehlAWNIMwZOsQCD4rLEo/ppI1lMn17p4Ql8ffxcA7MF8tozV7ryCEGKFsBehJ87y+h5NnZiH14rhKweETCjFbaZaHO+SeWv5gxf38FqkMaDpl5tDeVqU2VElb2wLzygNDPBs9sPun5o0A5wRqnvuu3NN/MJyZqZ3jkErYTnydn1hcfP4GwZ53KKcS8qUlvZk8mRHNd1ZFPesczyNpJ+pMrmgzKmoRuLcBTxE15aQI9nMXgbL+p5cxf2iroorL2Ffg7dM/CqPZpmWA6uR1L8ofOnz1z6z5nbCSxNkjhMTnsreGSmUCEr0GHHLrORlyElsABKtQlTdwH9OXhnJ2ML8WONJty7ugva1FEoTkfHEGf2yu8KG7xpQxediC3txQB+FWTAkHnrLM5dn08AGWsV0wSB5owTK+xUc9vv0jOHx9i1of8lo6C1I4YfX0lWtGyItv2pq7+pzMv6ZHQ==;Rczmdk8LHkmZVuPSn2pARA=="
 ---

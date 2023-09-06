@@ -56,15 +56,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "How startup founder thinks employees should about AI in the workplace"
-    excerpt: "With AI making its way into the workplace, how do people navigate working alongside it? For Murat Baday the answer is being trained to use it."
-    publishedDateTime: 2023-09-01T12:05:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/09/01/ai-workplace-magnimind-murat-baday.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
   - title: "How worried should we be about AI’s threat to the human race?"
     excerpt: "Artificial-intelligence pioneers are fighting over which of the technology’s dangers is the scariest. One camp, which includes some of the top executives building advanced AI systems, argues its creations could lead to catastrophe."
     publishedDateTime: 2023-09-05T17:50:00Z

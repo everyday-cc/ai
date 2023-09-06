@@ -1,163 +1,30 @@
 ---
 category: news
-title: "Microsoft Plans AI Service With Databricks That Could Hurt OpenAI the Information"
-excerpt: "Databricks - a data analytics platform that uses artificial intelligence, which Microsoft would sell through its Azure cloud-server unit - helps companies make AI models from scratch or repurpose open-source models as an alternative to licensing OpenAI's proprietary ones, the report added."
+title: "Microsoft plans AI service with Databricks that could hurt OpenAI- The Information"
+excerpt: "In July, Microsoft laid out an aggressive spending plan to meet demand for its AI services. The company has started integrating AI functionality across its products such as Azure, Microsoft 365 ..."
 publishedDateTime: 2023-08-17T21:43:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2023-08-17/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai-the-information"
-webUrl: "https://www.usnews.com/news/technology/articles/2023-08-17/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai-the-information"
+originalUrl: "https://www.reuters.com/technology/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai-information-2023-08-17/"
+webUrl: "https://www.reuters.com/technology/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai-information-2023-08-17/"
 type: article
-quality: 59
-heat: -1
-published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - AI
   - Microsoft AI
+  - AI
 
-related:
-  - title: "Microsoft Toying With OpenAI: Plans on starting a new AI service with a different company"
-    excerpt: "Microsoft is planning to partner up with Databricks, an enterprise software maker, and help them create AI-based solutions for businesses. This is likely to hurt OpenAI, a business Microsoft has invested over $10 billion,"
-    publishedDateTime: 2023-08-18T06:53:00Z
-    webUrl: "https://www.firstpost.com/tech/news-analysis/microsoft-toying-with-openai-plans-on-starting-a-new-ai-service-with-a-different-company-13011172.html"
-    ampWebUrl: "https://www.firstpost.com/tech/news-analysis/microsoft-toying-with-openai-plans-on-starting-a-new-ai-service-with-a-different-company-13011172.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/microsoft-toying-with-openai-plans-on-starting-a-new-ai-service-with-a-different-company-13011172.html/amp"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 65
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2023/08/Microsoft-Toying-With-OpenAI-Plans-on-starting-a-new-AI-service-with-a-different-company-.jpg"
-        width: 640
-        height: 362
-        isCached: true
-  - title: "Microsoft Azure & OpenAI Rivalry: Microsoft Debuts Advanced Databricks Amidst AI Market Shake-Up"
-    excerpt: "Microsoft Corp MSFT looks to start selling a new version of Databricks software that helps customers make AI apps for their businesses. Microsoft would sell the software through its Azure ..."
-    publishedDateTime: 2023-08-18T11:59:00Z
-    webUrl: "https://www.benzinga.com/news/23/08/33910068/microsoft-azure-openai-rivalry-microsoft-debuts-advanced-databricks-amidst-ai-market-shake-up"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33910068"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33910068"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 56
-  - title: "Microsoft Plans AI Service With Databricks That Could Hurt OpenAI"
-    excerpt: "Microsoft has hitched its wagon to OpenAI when it comes to selling artificial intelligence that can understand language and write emails, meeting summaries and slide decks. Now Microsoft has found a second horse to ride in the AI race: Databricks,"
-    publishedDateTime: 2023-08-17T21:03:00Z
-    webUrl: "https://www.theinformation.com/articles/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 54
-    images:
-      - url: "https://tii.imgix.net/production/articles/11091/b2a6b377-9380-463e-8a5b-2a797ab9d2b0.jpg?fm=jpg&auto=compress&w=1200&frame=0"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "More AI, new Surfaces expected during Microsoft’s September 21 event"
-    excerpt: "Microsoft has sent out invitations for a \"special event\" on September 21 in New York. The company hasn't shared any further details, but it can be assumed"
-    publishedDateTime: 2023-08-18T10:15:00Z
-    webUrl: "https://www.techzine.eu/news/devices/110260/more-ai-new-surfaces-expected-during-microsofts-september-21-event/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 54
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2022/04/Microsoft.png"
-        width: 1500
-        height: 800
-        isCached: true
-  - title: "Microsoft says that AI is the new “tidal wave”"
-    excerpt: "This is a repeat of 1995 Microsoft is repeating a memo that Sir William Gates III wrote about the internet in 1995 only this time it is talking about AI. For those who were not born then, Gates penned a memo claiming the Internet would be a tidal wave impacting every aspect of Vole’s business."
-    publishedDateTime: 2023-08-19T01:07:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/57440-microsoft-says-that-ai-is-the-new-tidal-wave"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/61ed7a60defa0d278c1c5bb209d57645_L.jpg"
-        width: 620
-        height: 464
-        isCached: true
-  - title: "Microsoft plans AI service with Databricks that could hurt OpenAI: report"
-    excerpt: "Microsoft is planning to start selling a new version of Databricks software that helps customers make AI apps for their businesses, The Information reported on Thursday, citing people with direct knowledge of the plan."
-    publishedDateTime: 2023-08-18T16:01:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai-report/102840813"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 53
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-102840813,imgsize-78380,width-1200,height=765,overlay-ettelecom/internet/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai-report.jpg"
-        width: 1200
-        height: 765
-        isCached: true
-  - title: "Microsoft plans AI service with Databricks that could hurt OpenAI: report"
-    excerpt: "Microsoft is planning to start selling a new version of Databricks software that helps customers make AI apps for their businesses, The Information reported on Thursday, citing people with direct knowledge of the plan."
-    publishedDateTime: 2023-08-19T08:00:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai-report/102853447"
-    type: article
-    provider:
-      name: brandequity.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 53
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-102853447,imgsize-78380,width-1200,height=765,overlay-etbrandequity/digital/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai-report.jpg"
-        width: 1200
-        height: 765
-        isCached: true
-  - title: "Microsoft Planning New AI Service With Databricks After OpenAI Success: Report"
-    excerpt: "The new AI service will reportedly use Databricks' software and will be sold through Microsoft Azure CEO Satya Nadella previously hinted at a possible trio product integration with Databricks and OpenAI Databricks recently announced a deal to acquire ..."
-    publishedDateTime: 2023-08-18T05:15:00Z
-    webUrl: "https://www.ibtimes.com/microsoft-planning-new-ai-service-databricks-after-openai-success-report-3708976"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 50
-    images:
-      - url: "https://d.ibtimes.com/en/full/4450269/illustration-shows-microsoft-azure-cloud-service-logo.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Microsoft plans to partners with Databricks to expand AI offerings, potentially competing with OpenAI"
-    excerpt: "Microsoft is expanding its AI offerings by partnering with Databricks. Why is it a big news? Because it was noted that Databricks had positioned itself"
-    publishedDateTime: 2023-08-18T15:44:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-plans-to-partners-with-databricks-to-expand-ai-offerings-potentially-competing-with-openai/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 39
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/08/Microsoft-OpenAI-Databricks.png"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "IBM Expands Joint Cloud And AI Offerings With VMware, Microsoft"
-    excerpt: "Solution providers can look forward to more joint offerings from the two vendors, particularly related to AI and machine learning (ML) and desktops for regulated environments, Bhardwaj said. On Thursday, IBM said its Consulting Azure OpenAI Service ..."
-    publishedDateTime: 2023-08-21T13:02:00Z
-    webUrl: "https://www.crn.com/news/cloud/ibm-expands-joint-cloud-and-ai-offerings-with-vmware-microsoft"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 34
+images:
+  - url: "https://www.reuters.com/resizer/s1YZsQ6zXX1tGjBZtobHKoxCZMQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7LLX7CPVPVIM5ECZ4XO3YKTNN4.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
-secured: "rd284N5IVKIvomPBqpOEHBbBJrjqW7J9+XfGFrvcxwbfDBhqMsEPBk2LlmZHGr8f+zoY6joY8jRg5Q5D1v0Z/S0/joncgMr4Yom+mVniM9OQDxfRl2ki24fGkFExF39HoRPIz3/lLfqDcPun3ByI3Tfiy3VYqHNLLUZ60AR/nAUL8h3tJdf4oyyYWL10V6cEEViZMrjGFRIw2xUMqi70UsdNb463GudNZizoBbG9e68tOffZqevDHY2qVt1IuQl4SyVnw8JLd0qBy4zifzXyE1goi9/LCUsLQ/6A+uwQopRd4WxjkLsxgEZr/u0m31F+N5E/qO9h/oaFhgpWnGM9hEuODaTS2E6o32ExGvagtGgifMs2go+1c4lu0cO/Vlg0mtEk5TbxyoYTzcnmknDXLP6DLPcRTqfxYePkFAnxYWDyWEGgTOA9ZO9AX06SaQzUzjnJVJL/5eWGblg75enovboloFN5oqfmerbwjWw+rM4uCmOTSXvrWG9eWmcy7LwlR8PYDi5Xp93DOyfHPcqDlg==;a2K30qbIduMGA+pzZSkQ5g=="
+secured: "teOVXwbxKC+F0yAtjAq6dxv3kXhD/349ZzM4aVUZJT/j6m1cCcwW3PKnlTLOJk34gQIMUvWK1mIfokynWGWWY66Rs4/K+NOiybKw9Yf51S1/dkpmve9mgdrYn7T3lsGWwS95FdVXSsKJ7qgfFhg5yNjW5slbE18njzif68bfBhlZY0vPvD7oMs+lbyPNRmo/Gs4hL6VeeQLaVj2XshS39p0zpK+zn+bLy6J4rHWVcwa8/cYZ+O29r4lEbAkwpB+5bI/5MNoyucb4xDTqizZBR51amq4Uy2Ar2p5dnKfSJ3HdfhvY18A3Jsr2WqV4BWj/emoTkOx79tYhlCjAy3xNoed01dFCE23tEPgUc4aYUP0=;y2zUp0S9x8V/9wfkLHeRkg=="
 ---
 

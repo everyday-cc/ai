@@ -30,14 +30,14 @@ related:
   - title: "With AI, future of hearing aids might include language translation"
     excerpt: "We hear a lot of headlines about concerns over artificial intelligence and what it might mean for the future. But it's not all bad: Consider hearing loss.Friendly AI could be"
     publishedDateTime: 2023-09-05T18:32:00Z
-    webUrl: "https://www.djournal.com/news/national/with-ai-future-of-hearing-aids-might-include-language-translation/video_9e5519be-2dbf-53fc-b29e-9b55cab042d8.html"
+    webUrl: "https://www.wyomingnews.com/news/national/with-ai-future-of-hearing-aids-might-include-language-translation/video_a29c183a-5613-5e23-8999-104e6725abd1.html"
     type: article
     provider:
-      name: Daily Journal
-      domain: djournal.com
+      name: Wyoming News
+      domain: wyomingnews.com
     quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/9/e5/9e5519be-2dbf-53fc-b29e-9b55cab042d8/64f77e3bf228f.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/a/29/a29c183a-5613-5e23-8999-104e6725abd1/64f77ead551b6.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

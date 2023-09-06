@@ -24,6 +24,17 @@ images:
     height: 3728
     isCached: true
 
+related:
+  - title: "AI can drive changes in health care but won’t replace human decision-makers"
+    excerpt: "A recent survey by Morgan Stanley Research showed that 94% of health care companies use artificial intelligence/machine learning in some capacity."
+    publishedDateTime: 2023-09-05T17:58:00Z
+    webUrl: "https://rbj.net/2023/09/05/ai-can-drive-changes-in-healthcare-but-wont-replace-human-decision-makers/"
+    type: article
+    provider:
+      name: Rochester Business Journal
+      domain: rbj.net
+    quality: 17
+
 secured: "4vFaiPffb9VTYj5/6owgYHNUmSWFirwI/bxTF7vQ1BMsBHhXjHSLRbCEagr6hFPmi80F4kNijfdw2PXCMI4PfCaLu1irE8FvHTieJF/LJrD6gzhAYP3c7K6WzTFQ9wcThAh33MYcj9fK255xWKqPDZjhSWjtNI2hw2+RGCD7qUSiWm7ggH9MtKDLedzj2EsvfYjPNDBvm4nwTSFBpcYi+tTiVCwRgY/G2Xj3txfG/vAfG3ucWF7nYqW9LdQMa+3/mJR+gwjNRH7QbgCugirw8GCnpn33A5emjOfj9ybZwZvFEanr81QZ8t56TDuU3MRpefQK48XT7ljrZnxn5yZoeCWTm2OC6aPaVHRSaYHLdgU=;lb6wWmprg/nJjjcdRcNuIg=="
 ---
 

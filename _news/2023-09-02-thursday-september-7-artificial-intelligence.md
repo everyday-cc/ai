@@ -105,15 +105,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "SAP Names Microsoft's Walter Sun as Head of Artificial Intelligence -- Update"
-    excerpt: "By Mauro Orru SAP appointed Microsoft's Walter Sun as global head of artificial intelligence, a move that underscores the business-software company's"
-    publishedDateTime: 2023-09-01T12:45:00Z
-    webUrl: "https://www.marketwatch.com/story/sap-names-microsoft-s-walter-sun-as-head-of-artificial-intelligence-update-b8ea13d8"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
   - title: "Microsoft expands UAE's G42 partnership to include cloud, AI tools"
     excerpt: "\"With data privacy, security, and compliance as our core priorities, we have a unique opportunity to help organizations responsibly innovate,\" Microsoft Chief Commercial Officer Judson Althoff said"
     publishedDateTime: 2023-09-05T14:10:00Z
@@ -145,6 +136,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "G42, Microsoft alliance expands to include joint sovereign cloud and AI offering"
+    excerpt: "This announcement marks the first significant outcome since G42 and Microsoft announced their intention to partner earlier this year, in April"
+    publishedDateTime: 2023-09-06T04:55:00Z
+    webUrl: "https://gulfbusiness.com/g42-microsoft-joint-sovereign-cloud-ai-offering/"
+    type: article
+    provider:
+      name: Gulf Business
+      domain: gulfbusiness.com
+    quality: 49
+    images:
+      - url: "https://gulfbusiness.com/wp-content/uploads/2023/09/Microsoft-and-G42-to-offer-joint-sovereign-cloud-and-AI-offerings-Image-Microsoft.jpg"
+        width: 930
+        height: 620
+        isCached: true
   - title: "G42 and Microsoft unlock new opportunities for digital transformation with joint sovereign cloud and AI offering"
     excerpt: "Microsoft's sovereign cloud offering public sector and regulated industries to use new platform capabilities for securing access to the latest cloud and AI features available on Azure public cloud and helping local privacy and regulatory requirements."
     publishedDateTime: 2023-09-05T16:43:00Z
@@ -154,15 +159,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 43
-  - title: "SAP poaches Microsoft exec as its new global head of AI"
-    excerpt: "Sun replaces Feiyu Xu as SAP’s global head of AI. She joined the company in 2020, after a three-year stint in a similar role at Lenovo. Prior to that, she had worked for two decades at the German Research Center for Artificial Intelligence, DFKI."
-    publishedDateTime: 2023-09-01T12:00:00Z
-    webUrl: "https://www.cio.com/article/650918/sap-poaches-microsoft-exec-as-its-new-global-head-of-ai.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 36
   - title: "Ally partners with Microsoft to leverage generative artificial intelligence"
     excerpt: "Banks have been leveraging traditional artificial intelligence for years in ways such as predicting market trends and optimizing investment. But generative AI can produce its own data content to increase productivity for financial firms. That has led Ally ..."
     publishedDateTime: 2023-09-01T18:53:00Z

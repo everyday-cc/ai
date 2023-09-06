@@ -84,15 +84,6 @@ related:
       name: tech
       domain: techstory.in
     quality: 47
-  - title: "Google DeepMind co-founder argues US should set AI global standards - FT"
-    excerpt: "Mustafa Suleyman, Google DeepMind's co-founder and chief executive of Inflection AI, told the Financial Times that the US should use their chip leadership to enforce minimum global standards for the use of AI."
-    publishedDateTime: 2023-09-01T12:13:00Z
-    webUrl: "https://www.finextra.com/newsarticle/42878/google-deepmind-co-founder-argues-us-should-set-ai-global-standards---ft"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 33
   - title: "DeepMind’s Path to Better Large Language Models Runs Through Machine Translation"
     excerpt: "DeepMind introduces a new method to improve the quality of LLMs and chooses MT as a use case to show how well the new approach works."
     publishedDateTime: 2023-09-05T10:20:00Z

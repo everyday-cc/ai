@@ -7,8 +7,8 @@ originalUrl: "https://www.fool.com/investing/2023/09/04/intel-wants-to-beat-bias
 webUrl: "https://www.fool.com/investing/2023/09/04/intel-wants-to-beat-bias-ai-training-data/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: The Motley Fool
@@ -29,52 +29,40 @@ images:
     isCached: true
 
 related:
-  - title: "Intel's Gaudi 2 Beats Nvidia's H100 in Certain AI Tasks"
-    excerpt: "While Nvidia's latest data center GPU is the top dog among AI accelerators, Intel offers a viable alternative with its Gaudi 2 chip. Gaudi 2 can't match Nvidia's H100 in most cases, but it comes out way ahead in one type of AI workload."
-    publishedDateTime: 2023-09-01T11:20:00Z
-    webUrl: "https://www.fool.com/investing/2023/09/01/intels-gaudi-2-beats-nvidias-h100-in-certain-ai-ta/"
+  - title: "Scientists are using AI to track coal train dust"
+    excerpt: "Across the United States, around 70 percent of coal travels by rail, transiting from dozens of mines to power plants and shipping terminals. Last year, the U.S.—which holds the world’s largest supplies of coal—used about 513 million tons of coal and exported about another 85 million tons to countries including India and the Netherlands."
+    publishedDateTime: 2023-09-02T23:00:00Z
+    webUrl: "https://www.popsci.com/environment/coal-train-dust-ai/"
+    ampWebUrl: "https://www.popsci.com/environment/coal-train-dust-ai/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/environment/coal-train-dust-ai/?amp"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 69
+      name: Popular Science
+      domain: popsci.com
+    quality: 59
     images:
-      - url: "https://g.foolcdn.com/editorial/images/746219/gettyimages-1452877140.jpg"
+      - url: "https://www.popsci.com/uploads/2023/09/01/Depositphotos_81499646_L-1.jpg?auto=webp"
         width: 2000
-        height: 1500
+        height: 1125
         isCached: true
-  - title: "The AI market will be worth $600 billion, Nvidia exec says"
-    excerpt: "According to Das, the total addressable market for AI will consist of $300 billion in chips and systems, $150 billion in generative AI software, and $150 billion in omniverse enterprise software. These figures represent growth over the \"long term,\" Das said, though he did not specify a target date."
-    publishedDateTime: 2023-09-05T23:56:00Z
-    webUrl: "https://www.aol.com/finance/ai-market-worth-600-billion-205624655.html"
+  - title: "Five Ways To Be More Intelligent About Artificial Intelligence"
+    excerpt: "So, how can we be more intelligent about AI? Here are my top five things to remember as your business scales its AI infrastructure."
+    publishedDateTime: 2023-09-05T12:44:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/05/five-ways-to-be-more-intelligent-about-artificial-intelligence/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/rmz_QozPwo5_5vIDus3yvw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTY-/https://media.zenfs.com/en/aol_yahoo_finance_433/a02e06f983d467398544fdfa4d288964"
-        width: 1199
-        height: 796
-        isCached: true
-  - title: "Saudi Arabia and UAE race to buy Nvidia chips to power AI ambitions"
-    excerpt: "Saudi Arabian Crown Prince Mohammed bin Salman, left, and Nvidia chief Jensen Huang. The Gulf state’s interest in AI has sparked concerns over the technology’s ..."
-    publishedDateTime: 2023-09-04T20:11:00Z
-    webUrl: "https://www.ft.com/content/c93d2a76-16f3-4585-af61-86667c5090ba?sharetype=blocked"
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "Former Intel Exec Joins Untether AI as President to Drive Commercial Efforts in the Burgeoning AI Acceleration Market"
+    excerpt: "View the full release here:  \"Untether AI has been growing at a rapid pace and Chris brings unique experience, growing world-leading chip businesses at the highest level,\" said Arun Iyengar, Untether AI CEO."
+    publishedDateTime: 2023-09-05T16:45:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/09/05/9874889.htm"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
-  - title: "PM Modi, Nvidia CEO discuss India's rich potential in artificial intelligence"
-    excerpt: "PM Modi in a post on X wrote, \"Had an excellent meeting with Mr. Jensen Huang, the CEO of @nvidia. We talked at length about the rich potential India offers in the world of AI. Mr. Jensen Huang was appreciative of the strides India has made in this sector and was equally upbeat about the talented youth of India.\""
-    publishedDateTime: 2023-09-04T17:43:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/World/20230904/4115578.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 14
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "N6GSqzoKD+O8QhjSZQAvGoUx+bLodbz1ellGVN406L1/GdCDGCfebwXvBxGbnzYJCqNLtX0IbncjvSFi/y3kxbrT4qY+B9zDYPiL3oJkx64c3R9MrF/pefRXaAO84W+EGgXKdBw5tCuM4TgFI8lJvNc+4xa+HaoWRJ8ea0uy3m6Mgvf9X6UC9jlSCR9ehNQ1Z1UrspSIrieLeuYAU/m9UjPrSxnj51DCa63PppMqvbPangS2kTpDxZN7zIndlnYUE94Feph2CJdPaHQYdIVz5JeSldUplJ8OCMwu6Ch25EY+4WZVEWDa6A2smauBqqjHILEC9QQPmtawslZ2GlV7DCJFwmyayvRKm+mGUw5J5sFX5uyryGmIWWzcUQbEoFFKAGQjQe3nOm1BEGVU0cESQ+pXh0WcdnWRrIWCNt/XjSrU9R6RUD2Yl+WDfsCRSAXr59UdpiWrlMaRH9076Pa++ET5o2XCbIB7P5efReLCJKXU/fvWYWw4+7wWeMOAR1DKCVy0Ep0kIff0WBG3NiVOGQ==;Sz+rFUN85om5yNM9N5rvSg=="
 ---

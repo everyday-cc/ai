@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/georgebradt/2023/09/05/the-human-touch-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/georgebradt/2023/09/05/the-human-touch-unleashing-competitive-advantage-in-the-age-of-artificial-intelligence/amp/"
 type: article
 quality: 79
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "The Future Is Now: Embracing Next-Gen Software Development For Competitive Advantage"
-    excerpt: "Are you ready to step foot into the future? In today’s fast-paced and ever-evolving digital landscape, staying ahead of the game is crucial for businesses looking to gain a competitive edge. The key to success lies in embracing next-gen software development that promises unparalleled efficiency,"
-    publishedDateTime: 2023-09-01T12:34:00Z
-    webUrl: "https://techbullion.com/the-future-is-now-embracing-next-gen-software-development-for-competitive-advantage/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 0
 
 secured: "OA/tlm/cv5qAQ+ESBNOSCgXGsFT9lgdo1FDrdt4XNZSMqIsVdGJyv2JWi2RDGd9esXU6eahmlRIshiygg8dYcIt8rtBL9KS+iGtz7M/1fZrRDffbVgNMvlIiBaoSLobH6nIiEQGQE34KwkrV7/dGayQ+h5xnlvFUiz/6ZhepfB29OBzSrZANpWaT41gdca8gJliq6GwcJMzGdUgt2uPV2XqhDZvlw/72MlpoRQHi+lkwQpSngUF8nyw+aVD5RWQIwJCte6u+4yTu8edpbFwesUezl4EZI3x2Y/xT9CeV6QCF/okgreItHaqhyN6YQTN5IXFrTHrGQsnuGyqVoAf8OWqQ81k+1YKhaPzedTXp71JEZj2YfNJyexEEybLQzEjQnLjzRZEtFNVY4nf6ZW1NSMqJ9V03+QyLG9hW7LOAtwTkx+41MbiRMjtqdRXXIRohRFd6Og4Od+alOSS+Bn2hu9iyJkooF59/JdillRZM9zOsq7uJU32POjV4gSWptzkyY9TvloSohdDx2MdtS0nzfA==;jUoIWGYLwHImuk0gEOfToA=="
 ---

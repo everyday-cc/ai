@@ -46,15 +46,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Future Is Now: Embracing Next-Gen Software Development For Competitive Advantage"
-    excerpt: "Are you ready to step foot into the future? In today’s fast-paced and ever-evolving digital landscape, staying ahead of the game is crucial for businesses looking to gain a competitive edge. The key to success lies in embracing next-gen software development that promises unparalleled efficiency,"
-    publishedDateTime: 2023-09-01T12:34:00Z
-    webUrl: "https://techbullion.com/the-future-is-now-embracing-next-gen-software-development-for-competitive-advantage/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 0
 
 secured: "CfEYW4fY3yY8S5uoe0Uik4uOuLVRt3/1V0jLGU0cv/iSdJff6p1J+H6hfnAMczNpilFh8HsIh6kc2wf4iUIzhgxc+qBnUHJkd6X+C+cK4dvsoeLWoLui1kI3MuvKxihJFYxZowSkWbaE470BqepylEYf7ajtb5ubOmg85QkdlJ0BrNNm6bXS06naCWGAIkBjJDi1VaZLcIYYH8LHfqmUAjKSV33CcYzm5YMUw3HMsqdUgMOx1MuAjcCcWKshR1+CoR9klX6b28rlInnl4qrXO3JA08f9OU9RekAFZdAb7qTI/+/MC9cD3oeocoOZb22oa398oMAbAHPv1B+iRdCoNxJqf6VfvsQ6NGXpBI7q2eScnfSsOjcUd2LfkENFjvWSX5CwqL4Xdsvn1iJnMsxVyBfhdUWUHxC9lZN0thCBhCCzrfj662B3v+3fUPOj3UaikDL1fQpkZe/COL4KgzdJuHCwQRipnqbsupXtBEtSx6ih7r8vQqnzF+2zcqc+CcoGxNYKqdRykf49i+6J+Q7MrQ==;OoSqwwWZkGR/xB9tg7e2vw=="
 ---

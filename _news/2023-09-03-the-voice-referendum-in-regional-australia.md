@@ -156,6 +156,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "'Vote Yes so that we thrive': Voice to Parliament advocate Marcia Langton's passionate plea to Australians"
+    excerpt: "One of the leading advocates for the Yes campaign in the upcoming Voice to Parliament referendum has revealed her concerns if it fails, explaining why she thinks Australians should vote in its favour."
+    publishedDateTime: 2023-09-06T05:00:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/vote-yes-so-that-we-thrive-voice-to-parliament-advocate-marcia-langtons-passionate-plea-to-australians/news-story/ede33ec7056af89b8d6e75b6397defaf"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/vote-yes-so-that-we-thrive-voice-to-parliament-advocate-marcia-langtons-passionate-plea-to-australians/news-story/ede33ec7056af89b8d6e75b6397defaf?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/vote-yes-so-that-we-thrive-voice-to-parliament-advocate-marcia-langtons-passionate-plea-to-australians/news-story/ede33ec7056af89b8d6e75b6397defaf?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 26
+    images:
+      - url: "https://content.api.news/v3/images/bin/6561f89bc0f2fef6e05fde1b447ae104"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Peter Dutton pledges new referendum solely on recognition if Voice fails and he wins next Federal election"
     excerpt: "Opposition leader Peter Dutton has pledged to hold a second referendum solely to enshrine Indigenous people into the constitution if the Voice fails to pass next month."
     publishedDateTime: 2023-09-03T00:34:00Z

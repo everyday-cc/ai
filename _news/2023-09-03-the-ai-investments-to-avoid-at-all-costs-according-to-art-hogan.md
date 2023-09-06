@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-09-02/the-ai-investme
 webUrl: "https://www.bloomberg.com/news/articles/2023-09-02/the-ai-investments-to-avoid-at-all-costs-according-to-art-hogan"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -20,24 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Scientists are using AI to track coal train dust"
-    excerpt: "Across the United States, around 70 percent of coal travels by rail, transiting from dozens of mines to power plants and shipping terminals. Last year, the U.S.—which holds the world’s largest supplies of coal—used about 513 million tons of coal and exported about another 85 million tons to countries including India and the Netherlands."
-    publishedDateTime: 2023-09-02T23:00:00Z
-    webUrl: "https://www.popsci.com/environment/coal-train-dust-ai/"
-    ampWebUrl: "https://www.popsci.com/environment/coal-train-dust-ai/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/environment/coal-train-dust-ai/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 59
-    images:
-      - url: "https://www.popsci.com/uploads/2023/09/01/Depositphotos_81499646_L-1.jpg?auto=webp"
-        width: 2000
-        height: 1125
-        isCached: true
 
 secured: "rI9qPFv7YeGjFpo7j9XvxK2NKytJU9goJZfwWrpcCwWpt6Zp1oa6y0VUoQDeAd23QIn1Z9tK1EJ7NSW9avFSHYbWQuHk9TCs4A/7Y/x4DH2y08qcUKJ/B8jS8bNc7k+ZEkzNsKJL2rZ3EB9Qfa6qNVFb6Ym5KxFjq2ZgVS2CJqnVfUUaJ9tD2FFd7JvwqmbR637Jp17zWRFNLMxXAIyyGcXJv8dzrF2xXKpuCmEkulGxAmpZ4wTBbDlMk4ENd3pxxCNhX8NnYtHpeDm9iKIM3330i13O0TCxzEusiL9uYVpVCe+yCYlldVnmycwj8tHTZxNIqjHy3zJP1VJUwDboJpgBp4D0bG6vdYWzhX5pBKw=;ArU12CVt7RaMXw9LVMgi4w=="
 ---

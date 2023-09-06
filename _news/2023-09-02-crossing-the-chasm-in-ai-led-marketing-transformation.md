@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-cro
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-crossing-the-chasm-in-ai-led-marketing-transformation-3230292/lite/"
 type: article
 quality: 76
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -69,20 +69,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/fb0e197e035498657dc5efe2965f5e11dec0f640/0_128_5172_3105/master/5172.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c6d1bbe4de5d8ff97c5f41ca05280be5"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Exploring AI’s Transformative Impact on UK Pharmaceuticals and Manufacturing with Bidyut Sarkar"
-    excerpt: "As the AI wave sweeps across industries, the pharmaceutical sector stands poised for a transformative makeover. Experts contend that integrating artificial intelligence (AI) offers unprecedented prospects for accelerated innovation and enhanced healthcare outcomes in the life science industry."
-    publishedDateTime: 2023-09-01T12:56:00Z
-    webUrl: "https://techbullion.com/exploring-ais-transformative-impact-on-uk-pharmaceuticals-and-manufacturing-with-bidyut-sarkar/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 27
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/09/impact.jpg"
-        width: 775
-        height: 430
         isCached: true
   - title: "Impulse AI Revolutionizes Marketing and Content Creation With Cutting-Edge AI Solutions"
     excerpt: "This tool is a game-changer.\" - Lawrence Schroth, Managing Director. Impulse AI offers various subscription packages tailored to different needs: - Essential Start - Free package with Curie (Good) Open AI Model, 36 AI Templates, 5 Images per month ..."
