@@ -36,22 +36,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Google DeepMind co-founder urges ethical use mandate for Nvidia AI chips in the US"
-    excerpt: "AI companies including OpenAI, Alphabet and Meta Platforms made voluntary commitments to the White House to implement measures such as watermarking AI-generated content to help make the technology safer."
-    publishedDateTime: 2023-09-01T06:38:00Z
-    webUrl: "https://www.cnbctv18.com/technology/google-deepmind-co-founder-urges-ethical-use-mandate-for-nvidia-ai-chips-in-the-us-17693891.htm"
-    ampWebUrl: "https://www.cnbctv18.com/technology/google-deepmind-co-founder-urges-ethical-use-mandate-for-nvidia-ai-chips-in-the-us-17693891.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/google-deepmind-co-founder-urges-ethical-use-mandate-for-nvidia-ai-chips-in-the-us-17693891.htm/amp"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 85
-    images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/02/microsoft-bing-10-1019x573.jpg"
-        width: 1019
-        height: 573
-        isCached: true
   - title: "Google’s Deepmind develops watermark to detect AI images"
     excerpt: "Google's AI arm, DeepMind, is testing digital watermark called SynthID to identify images created by artificial intelligence (AI). This technology aim"
     publishedDateTime: 2023-09-05T14:07:00Z
@@ -156,15 +140,6 @@ related:
         width: 1500
         height: 800
         isCached: true
-  - title: "Google DeepMind co-founder calls for US to enforce AI standards"
-    excerpt: "Google DeepMind co-founder asks US to allow Nvidia'a AI chip buyers to adhere to ethics when using the technology"
-    publishedDateTime: 2023-09-01T06:41:00Z
-    webUrl: "https://tribune.com.pk/story/2433514/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards"
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 34
   - title: "Google DeepMind co-founder argues US should set AI global standards - FT"
     excerpt: "Mustafa Suleyman, Google DeepMind's co-founder and chief executive of Inflection AI, told the Financial Times that the US should use their chip leadership to enforce minimum global standards for the use of AI."
     publishedDateTime: 2023-09-01T12:13:00Z

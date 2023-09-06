@@ -8,7 +8,7 @@ webUrl: "https://www.seattletimes.com/nation-world/artificial-intelligence-may-i
 ampWebUrl: "https://www.seattletimes.com/nation-world/artificial-intelligence-may-influence-whether-you-can-get-pain-medication/?amp=1"
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/artificial-intelligence-may-influence-whether-you-can-get-pain-medication/?amp=1"
 type: article
-quality: 51
+quality: 53
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Artificial intelligence may influence whether you can get pain medication"

@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "OpenAI release a ChatGPT teachers guide on teaching with AI"
-    excerpt: "OpenAI has announced the release of a new ChatGPT teachers guide it has created to help teachers design lesson plans and more. The guide has"
-    publishedDateTime: 2023-09-01T05:56:00Z
-    webUrl: "https://www.geeky-gadgets.com/chatgpt-teachers-guide-by-openai/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/OpenAI-release-a-ChatGPT-teachers-guide-on-AI.jpg"
-        width: 700
-        height: 466
-        isCached: true
 
 secured: "gf8eHywdis+J+EKqKcR/cfRgNQom9OfzuA+fRYNu2sJnuTb5HYpj6txBNGFJD4FAjJr4bD1s8kbQnFXNHZfWzQsN5/KAQvF7ld4DFR6jaqd6gWk501QhvcyMKlzqWqBIMPxhzv4WEEkoTp72mqH4reTbpjxXDrjFfWjLBib0yiQMES72ksa5QwYJjpyI92ww4FnCZhNf5OkAyCEPj23zJeOyXlfL4vl4RX5J1otvf7X7Lm3TCrjDyEHb4Vz8EoSlHYrnQnJjhPlnjuraQyMIC0blddkaGIL6afOyX/2bTdfl1Q9hhGlsDGe6qLUyDkKgj4c/bQ2TmcplW479Uane8e+1v0j0WOlWaQIsQgfI+FCsSe8UXMZrCQNSHD6GAExVKWchRtZ5ywlU+wFckYphnGhUgvm9oWSLTnn7cf6tx4uoseo1Ew3zeytqlqZU+YA8gtetMjlLl7L/Fs3Zs9ckg4SicuQVYbOd3dMr17Q9sHaeOStTTSPk9MeN5wdb+VQphBLJfMPdE+gtXUq3I05VHw==;sQ2le/9NyoKTgUbXYZVeww=="
 ---

@@ -2,6 +2,161 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-06-zoom-announces-new-ai-companion-features.md",
+      "title": "Zoom Announces New 'AI Companion' Features",
+      "excerpt": "Formerly Zoom IQ, updates to the generative AI tool will roll out over the coming months and be available at no extra cost if you already pay for Zoom.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/services-and-software/zoom-announces-new-ai-companion-features/",
+      "originalUrl": "https://www.cnet.com/tech/services-and-software/zoom-announces-new-ai-companion-features/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/089c254824ce38bdca6979888a458669a1817baf/hub/2023/09/05/e7503035-ec6e-4548-99e5-5d68976361ab/gettyimages-1211208100.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-05T16:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-05-questions-shrugs-and-what-comes-next-a-quarter-century-of-change.md",
+      "title": "Questions, shrugs and what comes next: A quarter century of change",
+      "excerpt": "Since Google was founded, we’ve worked to answer hard questions, help people get answers to theirs, and move technology forward for the world.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/inside-google/message-ceo/google-25th-birthday-sundar-pichai/",
+      "originalUrl": "https://blog.google/inside-google/message-ceo/google-25th-birthday-sundar-pichai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Option-2.width-1300.jpg",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/inside-google/message-ceo/google-25th-birthday-sundar-pichai/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/inside-google/message-ceo/google-25th-birthday-sundar-pichai/amp/",
+      "publishedDateTime": "2023-09-05T15:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-06-top-10-conversational-ai-platforms-2023.md",
+      "title": "Top 10 Conversational AI Platforms 2023",
+      "excerpt": "$0.00075 per text request Built on deep learning, machine learning, and natural language processing (NLP) models, the IBM Watson Assistant conversational AI platform enables your teams to build AI-powered voice agents and chatbots that deliver automated ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/artificial-intelligence/conversational-ai-platforms/",
+      "originalUrl": "https://www.eweek.com/artificial-intelligence/conversational-ai-platforms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2023/08/ew08292023-conversational-ai-platforms.png",
+          "width": 1400,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-05T15:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-06-advancing-ai-in-various-industries-like-healthcare-energy-and-climate.md",
       "title": "Advancing AI in Various Industries Like Healthcare, Energy and Climate",
       "excerpt": "Andrew Feldman, Co-Founder and CEO of Cerebras, joins Jill Malandrino on Nasdaq TradeTalks to discuss advancing artificial intelligence (AI) in various industries like healthcare, energy, climate, and more. Sign up for our newsletter to get the latest on ...",
@@ -693,7 +848,7 @@
       "originalUrl": "https://www.wired.com/story/what-openai-really-wants/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1028,144 +1183,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-usm-tapped-to-develop-ethics-training-in-age-of-artificial-intelligence.md",
-      "title": "USM tapped to develop ethics training in age of artificial intelligence",
-      "excerpt": "The University of Southern Maine has received a federal grant to develop an ethics training program for scientists, engineers and students.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pressherald.com/2023/09/05/usm-tapped-to-develop-ethics-training-in-age-of-artificial-intelligence/",
-      "originalUrl": "https://www.pressherald.com/2023/09/05/usm-tapped-to-develop-ethics-training-in-age-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pressherald.com/wp-content/uploads/sites/4/2023/09/37214095_20230829_USMethics1944-1693877941.jpg?w=1024",
-          "width": 1024,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-05T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Portland Press Herald",
-        "domain": "pressherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-civo-adds-speech-to-text-to-greener-cloud.md",
-      "title": "Civo Adds Speech-To-Text To Greener Cloud",
-      "excerpt": "Using a ‘digital boiler’, the system immerses computers in mineral oil to capture the generated heat, this is then passed through a heat exchanger to heat the water.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/09/05/civo-adds-speech-to-text-to-greener-cloud/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/09/05/civo-adds-speech-to-text-to-greener-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64f2f48d3b7f168d7417ee9d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/09/05/civo-adds-speech-to-text-to-greener-cloud/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/09/05/civo-adds-speech-to-text-to-greener-cloud/amp/",
-      "publishedDateTime": "2023-09-05T00:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-expo-city-dubai-launches-regions-first-artificial-intelligence-film-festival.md",
-      "title": "Expo City Dubai launches region’s first Artificial Intelligence Film Festival",
-      "excerpt": "The event establishes Expo City Dubai as the epicentre of AI innovation, a future-focused community and a global platform for collaboration on big ideas",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/business/technology-and-telecom/expo-city-dubai-launches-regions-first-artificial-intelligence-film-festival-buhpqsni",
-      "originalUrl": "https://www.zawya.com/en/business/technology-and-telecom/expo-city-dubai-launches-regions-first-artificial-intelligence-film-festival-buhpqsni",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/NjgwY2Q3NjMtZTY2NC00/17/1463605211.jpeg?f=3%3A2",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/business/technology-and-telecom/expo-city-dubai-launches-regions-first-artificial-intelligence-film-festival-buhpqsni?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/expo-city-dubai-launches-regions-first-artificial-intelligence-film-festival-buhpqsni?amp=1",
-      "publishedDateTime": "2023-09-05T00:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.unite.ai/embracing-neuronal-diversity-a-leap-in-ai-eff
 webUrl: "https://www.unite.ai/embracing-neuronal-diversity-a-leap-in-ai-efficiency-and-performance/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "NC State researchers show that ‘introspective’ AI chooses, thrives on diversity"
-    excerpt: "Researchers from North Carolina State University created a test system with AI and gave it the capability to modify the composition of its own neural network. When choosing between identical artificial neurons and more diverse neurons,"
-    publishedDateTime: 2023-09-01T06:27:00Z
-    webUrl: "https://wraltechwire.com/2023/09/01/nc-state-researchers-show-that-introspective-ai-chooses-thrives-on-diversity/"
-    ampWebUrl: "https://wraltechwire.com/2023/09/01/nc-state-researchers-show-that-introspective-ai-chooses-thrives-on-diversity/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/09/01/nc-state-researchers-show-that-introspective-ai-chooses-thrives-on-diversity/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 55
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2023/09/steve-johnson-_0iV9LmPDn0-unsplash-scaled-e1693549118325.jpg"
-        width: 2470
-        height: 1390
-        isCached: true
   - title: "‘Introspective’ AI Finds Diversity Improves Performance"
     excerpt: "An artificial intelligence with the ability to look inward and fine tune its own neural network performs better when it chooses diversity over lack of diversity, a new study finds."
     publishedDateTime: 2023-09-05T08:20:00Z

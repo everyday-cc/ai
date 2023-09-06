@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "NC State researchers show that ‘introspective’ AI chooses, thrives on diversity"
-    excerpt: "Researchers from North Carolina State University created a test system with AI and gave it the capability to modify the composition of its own neural network. When choosing between identical artificial neurons and more diverse neurons,"
-    publishedDateTime: 2023-09-01T06:27:00Z
-    webUrl: "https://wraltechwire.com/2023/09/01/nc-state-researchers-show-that-introspective-ai-chooses-thrives-on-diversity/"
-    ampWebUrl: "https://wraltechwire.com/2023/09/01/nc-state-researchers-show-that-introspective-ai-chooses-thrives-on-diversity/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/09/01/nc-state-researchers-show-that-introspective-ai-chooses-thrives-on-diversity/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 55
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2023/09/steve-johnson-_0iV9LmPDn0-unsplash-scaled-e1693549118325.jpg"
-        width: 2470
-        height: 1390
-        isCached: true
   - title: "Embracing Neuronal Diversity: A Leap in AI Efficiency and Performance"
     excerpt: "The role of diversity has been a subject of discussion in various fields, from biology to sociology. However, a recent study from North Carolina State University's Nonlinear Artificial Intelligence Laboratory (NAIL) opens an intriguing dimension to this discourse: diversity within artificial intelligence (AI) neural networks."
     publishedDateTime: 2023-09-03T22:48:00Z

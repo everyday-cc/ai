@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-08-15-7-low-code-platforms-embracing-ai.md",
+      "title": "7 low code platforms embracing AI",
+      "excerpt": "Many low-code and no-code development and RPA platforms now include AI capabilities, often using a version of GPT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3704792/7-low-code-platforms-embracing-ai.html",
+      "originalUrl": "https://www.infoworld.com/article/3704792/7-low-code-platforms-embracing-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/09/29/18/article-2-image-1-100932907-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3704792/7-low-code-platforms-embracing-ai.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704792/7-low-code-platforms-embracing-ai.amp.html",
+      "publishedDateTime": "2023-08-15T01:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-08-14-with-facial-recognition-cctvs-and-anti-drone-systems-r-day-security-goes-hi-tech.md",
       "title": "With facial recognition CCTVs and anti-drone systems, R-Day security goes hi-tech",
       "excerpt": "Delhi has been wrapped in a security blanket for Tuesday's 77th Independence Day celebrations, with more than 10,000 personnel manning the area in and around the Red Fort from where Prime Minister Narendra Modi will address the nation,",
@@ -1318,49 +1371,6 @@
       "provider": {
         "name": "OPB",
         "domain": "opb.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-02-bridging-the-ai-language-problem-why-artificial-intelligence-tools-do-not-work-in-many-languages.md",
-      "title": "Bridging the AI language problem: Why artificial intelligence tools do not work in many languages",
-      "excerpt": "AI tools, from ChatGPT to Google Translate, are useless to billions of people in the Global South who don't work in western languages. Researchers and startups from Africa and other parts of the world are changing that.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/explained/explained-sci-tech/artificial-intelligence-language-problem-8872813/lite/",
-      "originalUrl": "https://indianexpress.com/article/explained/explained-sci-tech/artificial-intelligence-language-problem-8872813/lite/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2023/08/AI-Language.png",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/explained/explained-sci-tech/artificial-intelligence-language-problem-8872813/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-sci-tech/artificial-intelligence-language-problem-8872813/lite/",
-      "publishedDateTime": "2023-08-02T01:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/what-openai-really-wants/"
 webUrl: "https://www.wired.com/story/what-openai-really-wants/"
 type: article
 quality: 71
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://www.inferse.com/wp-content/uploads/2023/09/wp-header-logo-164.png"
         width: 1200
         height: 628
-        isCached: true
-  - title: "OpenAI release a ChatGPT teachers guide on teaching with AI"
-    excerpt: "OpenAI has announced the release of a new ChatGPT teachers guide it has created to help teachers design lesson plans and more. The guide has"
-    publishedDateTime: 2023-09-01T05:56:00Z
-    webUrl: "https://www.geeky-gadgets.com/chatgpt-teachers-guide-by-openai/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/OpenAI-release-a-ChatGPT-teachers-guide-on-AI.jpg"
-        width: 700
-        height: 466
         isCached: true
 
 secured: "Tko4nlaQbspWjHCCeHZpeHB8vzybGCVzwkNXPdqOk/2FNc0DfFnlHlpBfG2fLXUUVv//enVkUFvyPgF7kiVBPUo/CIeHr+5vQeEutANYr4bQ11y2gAw8XhMi75j8FEVJcUGgdmhXGnET7vgpQPMH17SLx//B6e1Qq2gyUOXPDeO6RN+TQiJ8iN6aRXW6VHXyuirbPZkNxueGsSA4BNHktDkDJdSuOQd/HAw0kvOGjHwL/0evSOFxWDw7fUFhpwhMeasPXnHV9sl3LPLDwozUl9lzBmf7oEt/nfC+l1qhbIabyJh9QHZhvNtu8352gVFGwvWfzkTrnxCJXVlUTObK8q/yObEsNQZzxiI3J28MVMCpgg8gzziqf1jZutZYHb4HMDCfopG/NXSZmA44OirbdgDHg/P/JHhetHeCeZgVI8mQmS0EAcdHLfggGMdFu6XC2wEgsZKXRY6KSS1Z0oyFf9QTU8meMqkMrazR9mVo9uBV5ATjwrxDSww1IoHDsb7OBEikuvMzbInVrADTiB3J6w==;Cj0sBQxSfqcJzZdIMExPIw=="

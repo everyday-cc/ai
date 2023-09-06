@@ -48,7 +48,7 @@ related:
     provider:
       name: Seattle Times
       domain: seattletimes.com
-    quality: 51
+    quality: 53
   - title: "Artificial intelligence may influence whether you can get pain medication"
     excerpt: "New tools, like Narx Scores, are using data and algorithms to screen patients for potential opioid abuse. But they don't always get it right"
     publishedDateTime: 2023-09-01T13:30:00Z

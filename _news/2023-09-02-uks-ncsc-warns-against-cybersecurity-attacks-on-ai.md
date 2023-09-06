@@ -55,6 +55,15 @@ related:
         width: 1440
         height: 500
         isCached: true
+  - title: "Global DevSecOps Report on AI Shows Cybersecurity and Privacy Concerns Create an Adoption Dilemma"
+    excerpt: "GitLab survey finds organizations are optimistic about AI, but AI adoption requires attention to privacy and security, productivity, and"
+    publishedDateTime: 2023-09-05T21:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-devsecops-report-on-ai-shows-cybersecurity-and-privacy-concerns-create-an-adoption-dilemma-1032606858"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
   - title: "Employing Generative AI: Unpacking the Cybersecurity Implications of Generative AI Tools"
     excerpt: "It’s fair to say that generative AI has now caught the attention of every boardroom and business leader in the land. Once a fringe technology that was difficult to wield, much less master, the doors to generative AI have now been thrown wide open thanks to applications such as ChatGPT or DALL-E."
     publishedDateTime: 2023-09-05T18:40:00Z

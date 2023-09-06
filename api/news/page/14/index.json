@@ -2,6 +2,195 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-08-24-artificial-intelligence-will-make-your-new-drugs-and-help-you-get-them.md",
+      "title": "Artificial intelligence will make your new drugs and help you get them",
+      "excerpt": "Artificial Intelligence has an exciting future in health care, from streamlining insurance claims, to aiding radiologists, dermatologists, cardiologists and other specialties by enhancing data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/artificial-intelligence-make-new-drugs-help",
+      "originalUrl": "https://www.foxnews.com/opinion/artificial-intelligence-make-new-drugs-help",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/05/340/340/Siegel_Marc_OFFICIAL.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/artificial-intelligence-make-new-drugs-help.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/artificial-intelligence-make-new-drugs-help.amp",
+      "publishedDateTime": "2023-08-24T00:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-metas-new-ai-model-can-translate-transcribe-nearly-100-languages.md",
+      "title": "Meta’s new AI model can translate & transcribe nearly 100 languages",
+      "excerpt": "The company has publicly released SeamlessM4T under a research licence to allow researchers and developers to build on it.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/technology/artificial-intelligence/meta-seamlessm4t-ai-model-8907073/",
+      "originalUrl": "https://indianexpress.com/article/technology/artificial-intelligence/meta-seamlessm4t-ai-model-8907073/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2023/08/Meta-featured-20230824.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/technology/artificial-intelligence/meta-seamlessm4t-ai-model-8907073/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/meta-seamlessm4t-ai-model-8907073/lite/",
+      "publishedDateTime": "2023-08-24T00:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-ai-propels-nvidia-stock-nadaqnvda-skyward-will-it-craft-new-highs.md",
+      "title": "AI Propels Nvidia Stock (NADAQ:NVDA) Skyward; Will It Craft New Highs?",
+      "excerpt": "The AI (Artificial Intelligence) boom has propelled Nvidia’s (NASDAQ:NVDA) stock skyward (see image below). NVIDIA AI has emerged as the",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-propels-nvidia-stock-nadaq-nvda-skyward-will-it-craft-new-highs-1032578541",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-propels-nvidia-stock-nadaq-nvda-skyward-will-it-craft-new-highs-1032578541",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.tipranks.com/wp-content/uploads/2023/08/NVDA-share.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+          "width": 702,
+          "height": 409,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-23T23:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-aws-approves-and-lists-verofax-martech-solution-for-brands-retail-on-global-marketplace.md",
+      "title": "AWS Approves And Lists Verofax Martech Solution For Brands & Retail On Global Marketplace",
+      "excerpt": "Verofax, an award-winning Brand & Retail Martech service provider, achieved Full Technical Review (FTR) approval on Amazon Web Services (AWS) marketplace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/08/a34017188/aws-approves-and-lists-verofax-martech-solution-for-brands-retail-on-global-marketplace",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/a34017188/aws-approves-and-lists-verofax-martech-solution-for-brands-retail-on-global-marketplace",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34017188",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34017188",
+      "publishedDateTime": "2023-08-23T22:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-24-computer-vision-software-developer-visualcortex-to-exhibit-at-asial-2023-with-axis-communications.md",
       "title": "Computer vision software developer VisualCortex to exhibit at ASIAL 2023 with Axis Communications",
       "excerpt": "VisualCortex is offering conference delegates and Axis clients the chance to win a complimentary computer vision Proof-of-Concept (POC). Applicants can follow the link below to su",
@@ -946,206 +1135,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-nvidias-earnings-wednesday-will-be-a-big-test-for-ai-bulls.md",
-      "title": "Nvidia's earnings Wednesday will be a big test for AI bulls",
-      "excerpt": "Nvidia reports second-quarter earnings on Wednesday against a backdrop of elevated expectations driven by a surge of interest in artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/08/23/nvidia-nvda-earnings-report-q2-2024.html",
-      "originalUrl": "https://www.cnbc.com/2023/08/23/nvidia-nvda-earnings-report-q2-2024.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104887925-1635881993219-niv.jpg?v=1692822734",
-          "width": 1521,
-          "height": 1013,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/08/23/nvidia-nvda-earnings-report-q2-2024.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/08/23/nvidia-nvda-earnings-report-q2-2024.html",
-      "publishedDateTime": "2023-08-23T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-hcltech-partners-with-aws-to-drive-genai-adoption.md",
-      "title": "HCLTech partners with AWS to drive GenAI adoption",
-      "excerpt": "The collaboration aims to empower enterprises to leverage the power of AWS' advanced GenAI portfolio which includes Amazon CodeWhisperer, Amazon Bedrock, Amazon Titan, AWS Trainium and AWS Inferentia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/hcltech-partners-with-aws-to-drive-genai-adoption-11246411.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/hcltech-partners-with-aws-to-drive-genai-adoption-11246411.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/04/HCL.jpg",
-          "width": 763,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/hcltech-partners-with-aws-to-drive-genai-adoption-11246411.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/hcltech-partners-with-aws-to-drive-genai-adoption-11246411.html/amp",
-      "publishedDateTime": "2023-08-23T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-vmware-explore-2023-extends-into-cloud-networking-and-security.md",
-      "title": "VMware Explore 2023 Extends Into Cloud Networking And Security",
-      "excerpt": "Vice President, Security, Carriers and Enterprise Networking, Will Townsend, covers cloud networking and security at VMware Explore 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/08/23/vmware-explore-2023-extends-into-cloud-networking-and-security/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/08/23/vmware-explore-2023-extends-into-cloud-networking-and-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64e614ba8736287d194af6bb/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/08/23/vmware-explore-2023-extends-into-cloud-networking-and-security/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/08/23/vmware-explore-2023-extends-into-cloud-networking-and-security/amp/",
-      "publishedDateTime": "2023-08-23T07:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-phishing-bait-the-ai-fueled-social-engineering-tactics-plaguing-smes.md",
-      "title": "Phishing Bait: The AI-Fueled Social Engineering Tactics Plaguing SMEs",
-      "excerpt": "Today, more and more hackers are leveraging AI-powered tools to automate and scale up reconnaissance tasks in order to prey upon unwitting employees.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/phishing-bait-the-ai-fueled-social-engineering-tactics-plaguing-smes/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/phishing-bait-the-ai-fueled-social-engineering-tactics-plaguing-smes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63330347c1ef0850e665888b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 646,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/phishing-bait-the-ai-fueled-social-engineering-tactics-plaguing-smes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/23/phishing-bait-the-ai-fueled-social-engineering-tactics-plaguing-smes/amp/",
-      "publishedDateTime": "2023-08-23T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

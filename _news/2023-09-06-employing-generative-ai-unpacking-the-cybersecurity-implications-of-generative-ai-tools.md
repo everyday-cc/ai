@@ -59,6 +59,15 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 49
+  - title: "Global DevSecOps Report on AI Shows Cybersecurity and Privacy Concerns Create an Adoption Dilemma"
+    excerpt: "GitLab survey finds organizations are optimistic about AI, but AI adoption requires attention to privacy and security, productivity, and"
+    publishedDateTime: 2023-09-05T21:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-devsecops-report-on-ai-shows-cybersecurity-and-privacy-concerns-create-an-adoption-dilemma-1032606858"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
 
 secured: "wIe0lzihB4yo/KbHtvhLLEzlcn6hP3L32rPvhwSZUGQWgSLt9Y290km5MMrM/R2ZhottHuRX563kRWgbiCmYjBQx4PmhWKaWDy9bWJpqSImZppa//Um6n8O94BABDri0Y9JIBeSfccEidcxX7bqj2FCsc4fkFvKBKF1h2VSLucsqNZe+7yZcwKSC+caRH1dexoyp9qWydG34R42B473qqpdoukr/au7TefJvc2HzeINmPrzaLYRyQHOTxiTv1o3zMfCserh+woGUl25BlypcMDiiFzvu6UZbvTxf0J6/Tm3CU2DOhllJAg7ocYbU0eFeTcHDUurgnRGBjtYmdVLW8TD82njhYO1N21WKRGZGXx74d5tpIlOUMRzDjSOs147Yk+L7WNZGjIozZk6e1ZBwSyKXimAyC87V9rF2K8VECFL9TIiI6IoKBKsyrOslMi7rJUmGDJ8uCCpc6nIwkuIW7ipiQnOTErluT7KQSaiqpeOHHbVmBPftv66vRz+9l5VxQLhdCHgawXOYp9J+COpyhg==;YfthJuC/E0PsHcpkFAycFg=="
 ---
