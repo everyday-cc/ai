@@ -7,7 +7,7 @@ originalUrl: "https://www.scmp.com/tech/policy/article/3233554/prosecutors-all-5
 webUrl: "https://www.scmp.com/tech/policy/article/3233554/prosecutors-all-50-us-states-urge-congress-protect-children-ai-generated-sexual-abuse-images"
 type: article
 quality: 53
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Attorneys General from all 50 states urge Congress to help fight AI-generated CSAM"
-    excerpt: "The attorneys general from all 50 states have banned together and sent an open letter to Congress, asking for increased protective measures against AI-enhanced child sexual abuse images."
-    publishedDateTime: 2023-09-05T18:54:00Z
-    webUrl: "https://www.engadget.com/attorneys-general-from-all-50-states-urge-congress-to-help-fight-ai-generated-csam-184938825.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 41
   - title: "Prosecutors in all 50 states urge Congress to strengthen tools to fight AI child sexual abuse images"
     excerpt: "The top prosecutors in all 50 states are calling on Congress to study how artificial intelligence can be used to exploit children through pornography, and come up with legislation to further guard against it."
     publishedDateTime: 2023-09-05T18:34:00Z

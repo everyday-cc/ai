@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/otter-ai-launchesotter-ai-launches-g
 webUrl: "https://www.zdnet.com/article/otter-ai-launchesotter-ai-launches-generative-ai-tool-to-help-sales-teams-close-more-deals-generative-ai-tool-to-help-sales-teams-close-more-deals/"
 type: article
 quality: 63
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -32,6 +32,20 @@ related:
       name: Computerworld
       domain: computerworld.com
     quality: 34
+  - title: "For Law Firms, Launching Generative AI Chatbots Requires More Than Just Novel Technology"
+    excerpt: "Several law firms have consulted with their insurance providers and updated their trainings and policies to support launching generative AI powered chatbots internally. But it is still early days, and more changes may be needed ahead."
+    publishedDateTime: 2023-09-06T21:14:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/09/06/for-law-firms-launching-generative-ai-chatbots-requires-more-than-just-novel-technology/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 30
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/09/AI-Chatbot-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "JvMbmHV2X+sA2UaYnR8FTp48T4GyzmHaWqdA5WpwWubDPkdran3iJFm64pQpG/CFp4gliXb5f2Z+QNZznNVFJNiAw+WAhiI4ITgKMaG4xytC0zn+coSIr81tmzvlI/aM6G3vyCb3jpWEx3X6qBd68YPw9wK7zE8wxjX0FxiKhRJlCFJlUnyX2CfSk2KD5m1bQ88XaxKgCZwWWj0ly6BzZ+OXPsEO/dRyUq0NR/3TmsRcuzAZ67tqeS4i0Pk1I/zlSlTQyYMcvv2sIPegRvSDkcNgxIsnh3AvJvJUUIoX7rt/XdqTL1XcpT9TWLlp27LSrR8hhsLXs8kscXkR76vA6TGpsJOFPhoA+Yj0oK6AeNBxNoirZ6Asfa2bb16pD1TrvYR4jCpFVa6+YyvG/SuRynZPAIFofwVJG/Dt637vPkm7E/zqEseZ2uiRRd2fkirSTPSEbkl9M/AV1EqFPyX/LjwdJq50BWRS6sV691o3g3cgDKwM3/VMPn/KqScaly0P/hEr5UbmLekXNjKbg+mqDA==;hWZub95VEqHVZZe1l+882A=="
 ---

@@ -19,34 +19,31 @@ topics:
   - AI
 
 related:
-  - title: "Qualcomm, AWS Join Forces to Accelerate Software-Defined Mobility Innovation"
-    excerpt: "Qualcomm Technologies and Amazon Web Services (AWS), an Amazon.com company, announced their commitment to long-term co-innovation efforts on behalf of the automotive industry."
-    publishedDateTime: 2023-09-06T06:01:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/33203-qualcomm-aws-join-forces-to-accelerate-software-defined-mobility-innovation"
+  - title: "Qualcomm Upgrades And Expands Its Handheld Gaming Chip Lineup"
+    excerpt: "Today, Microsoft and Nvidia rule the cloud gaming space ... Moor Insights & Strategy provides or has provided paid services to technology companies like all research and tech industry analyst firms. These services include research, analysis, advising ..."
+    publishedDateTime: 2023-09-06T20:24:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2023/09/06/qualcomm-upgrades-and-expands-its-handheld-gaming-chip-lineup/"
+    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/09/06/qualcomm-upgrades-and-expands-its-handheld-gaming-chip-lineup/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/09/06/qualcomm-upgrades-and-expands-its-handheld-gaming-chip-lineup/amp/"
     type: article
     provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 36
+      name: Forbes
+      domain: forbes.com
+    quality: 91
     images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/a558b48fcb9aa473975b456aaed8ed17.jpg?t=20230906_055126"
-        width: 752
-        height: 408
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64f8db50a1eda175c6dcb95f/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 724
         isCached: true
-  - title: "Honor Committee explores AI detection software admissibility, considers community service sanction"
-    excerpt: "No formal vote was made and Aziz passed the possibility of a community service sanction on to the Policies and Procedures Committee for them to consider and draft. The Policies and Procedures Committee is a subcommittee of Honor that considers common procedures and recommends changes when necessary."
-    publishedDateTime: 2023-09-05T01:58:00Z
-    webUrl: "https://www.cavalierdaily.com/article/2023/09/honor-committee-explores-ai-detection-software-admissibility-considers-community-service-sanction"
+  - title: "Qualcomm focuses on AI and auto as Nvidia takes over as world’s biggest fabless chip company"
+    excerpt: "Qualcomm pioneered cellular technology, with chips in nearly every smartphone today. Now it's shifting focus to autos and AI as Apple works on its own modems."
+    publishedDateTime: 2023-09-05T11:00:00Z
+    webUrl: "https://www.cnbc.com/2023/09/05/qualcomm-focuses-on-auto-and-ai-as-apple-business-faces-uncertainty.html"
     type: article
     provider:
-      name: Cavalier Daily
-      domain: cavalierdaily.com
-    quality: 25
-    images:
-      - url: "https://snworksceo.imgix.net/cav/293dcd7f-db94-416a-bbe8-76c1d50e45a5.sized-1000x1000.jpg?w=800&h=600"
-        width: 800
-        height: 533
-        isCached: true
+      name: CNBC
+      domain: cnbc.com
+    quality: 53
 
 secured: "aOwE/fp6XZtaUw4OTIbq2cJrxL/0znd42GrYf6PItQ+Vs5sLbx8/Lny4/j2N2aKH3Rl3mDSsiNGPPLlI2+vP3CUlAivF1w08HZk/OX36ZSeUF4JN9PpBL6EVdpqUGm7dV0Ai6QOzEaZIiwmTvbZ3kmCulH9F0sF2MxImZFX9ovv4mIMp7E0JKRWtV4AM2LB7AfJCJmqU1JHiMejIzWBWvL6ESeZ44Iww3ccv1egYZH5a6uHWPjw5NvnF78gE6JqFZZj6j2kA5zB4KEJt8lBM6R61zerOBpjppq5bLQu3VwAW+XAbGLJwmRPYJNiX3KHEFYNfLCtgQMNqwIk9QoCMTL0pGYJjO5GNwT4OhmqxT4M=;kEE9RGv18QSe/+Lfn3rsqg=="
 ---

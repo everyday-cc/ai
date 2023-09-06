@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Apple is quietly spending millions on AI to make Siri as smart as ChatGPT"
+    excerpt: "Apple is spending millions of dollars a day to train its large-language models, and it might be readying to tackle OpenAI ChatGPT."
+    publishedDateTime: 2023-09-06T19:07:00Z
+    webUrl: "https://bgr.com/tech/apple-is-quietly-spending-millions-on-ai-to-make-siri-as-smart-as-chatgpt/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 38
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/06/apple-wwdc-2023-ios-17-reality-226.jpg?quality=82&strip=all"
+        width: 1600
+        height: 885
+        isCached: true
   - title: "Is there a ChatGPT app?"
     excerpt: "Powered by the advanced GPT-3.5 architecture, it represents a remarkable milestone in the field of natural language processing. ChatGPT has been trained on a diverse range of internet text, equipping it with the ability to engage in coherent and ..."
     publishedDateTime: 2023-09-04T18:01:00Z

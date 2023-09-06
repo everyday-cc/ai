@@ -42,20 +42,15 @@ related:
         height: 800
         isCached: true
   - title: "Explainable-AI Image Recognition achieves precise 3D descriptions of objects for US Air Force, a major AI breakthrough"
-    excerpt: "\"ZAC algorithms can describe and measure 3D objects from any viewpoint, for full Explainability of 3D objects,\" emphasized Dr. Bijan Tadayon, CEO of ZAC. \"We will be using this tech for Medical Imaging, too,\" continued Dr. Bijan Tadayon."
-    publishedDateTime: 2023-09-05T18:24:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/09/05/9874975.htm"
+    excerpt: "Z Advanced Computing, Inc. (ZAC), the pioneer CognitiveExplainable-AI (Artificial Intelligence) (Cognitive XAIor CXAI) software startup, has developed the \"Describer\""
+    publishedDateTime: 2023-09-05T17:03:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/n34245972/explainable-ai-image-recognition-achieves-precise-3d-descriptions-of-objects-for-us-air-force-a-ma"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
-    images:
-      - url: "https://mma.prnewswire.com/media/2201922/Z_Advanced_ComputingInc_Table_Compare.jpg"
-        width: 400
-        height: 302
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
-secured: "Mmk0Uhygdz7VDbCbs5GpjkE/pRiv6STyfwEajlYaZDa+6tJIRX6euXKH+vBHaPUGhUD+M2Uz1DDvG3bz2udjgdO7AA5m1TEz9haWYTLaBtDqdTjnwEN7B1eCFSXgsgETFsfuty0z+cRTLcy5O3CfP1oVdwp9hPHCTb2IWU7AdiucyckVnSiZQFU9AqBSb13ZtkDsozdXAX8cww3NyPUcpn878AHX6p9PnzHlOx1RQ8QoUYyvyhi7pCSP8W3CDHk1UYkZ0kTg/2AWg72M5djIKWz1CSXvviShyIcOOApZXoFs1rrf9mjGABXN7A7t2OF6lzUGjIVsrDoh/b11VIkx2Z0Gp3Ua0VfvFdW4xhkygGs=;fRl/QX+1VtxOOjPenAASJQ=="
+secured: "dpVQjzCOM2EMdMNNlo9cQMwcgaFQPDdIMHsDXBvuFjwH39oiFjoxGTEnz4UbOgTzAd/ydq02mweA6BNMHRay6h5ngKxvlnHvEfmSXS5EotWooXsKjXaAa+9nE1MB1Elg4d7STjdPP9JDH9qaLPx+bVMWvSHWgUKf0c+bL/t0JH7ZNW5yOniLGkj/YgVU4dwc57ikGk0PO34KJHc065Rz0qkR24/iLKaURIjBL/BcTUl+ausM/77v3zZEUTr7/VcEM+Kpby7VCLsG3zeJzE1eb0KpGOD6opGl00o2feat8ELo7eYJkCvZmh2mAi4YH7zu2RsQWRQHdSHeB+aJs2Q7URHV4mDkRyUCWlWw0pE359k=;Lpm3h8TrrFhj4FxRHukoIQ=="
 ---
 

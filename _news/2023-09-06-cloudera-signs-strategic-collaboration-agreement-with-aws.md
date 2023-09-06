@@ -25,6 +25,22 @@ images:
     height: 767
     isCached: true
 
-secured: "W+FNzxqRqax0Y3609BTlEFkvNhXSS75DcRgypzBEnjIAFzaEsd7WsMr+Ty6+nqSB3BXEAD5z+LUBXypOaWsI1ginvkUGBURNKpvzXlC2Nwr1vnuROoWoW2AjEl10+l9wHjwJRS6/m6mJTlnTEX6yccB1eCQtNnONOxG2rs4p1swBuU/Pog4ElB4TiPF1q4RA3rDN02vfX2WePuC0uNmI51WFbeD0DhYn4ImBKnThW8yf+Q+s7FFRGQpa/0exchj/Rm+2matyFssSWv5omEjJhwJR6SbtUHLzWmDi/vnlBWuNkGimziWg5jUafxBzBIFXQA18mgAuJH2cJhg0H5eknLWCDE0y8S7QR/UpCCSNfUs=;oE8Jm0Lrt/72A0B4ocxB3Q=="
+related:
+  - title: "InterVision® Announces Multi-Year Strategic Collaboration Agreement with AWS"
+    excerpt: "InterVision, a national, leading cloud and managed services provider, today announced that it has signed a multi-year Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS). This collaboration with AWS fuels InterVision's strategy and vision to expand and accelerate cloud adoption and modernization across its public sector and commercial customer base and beyond."
+    publishedDateTime: 2023-09-06T19:38:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/intervision-announces-multi-year-strategic-collaboration-agreement-with-aws/article_287adc55-0ba1-5dfe-a5c6-80d78ab3292d.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 36
+    images:
+      - url: "http://static.cnhionline.com/joplinglobe/jmag/jmag-cover-july-2023.jpg"
+        width: 437
+        height: 563
+        isCached: true
+
+secured: "z8dvXIAQcRhCmDONYiv5YaWiCvcNzSnp/WPo45BgcHJBqHogj0iyJx2YGm8ncDCwDJ65UdlhDnC298rt0bUUcnsXVCuJ16wvaym2aEdOAPAdwG3zHOeR7swsyBEasJDaFOuzOk0aBmJPmPAT2s2lCJNaepcm0Ip+JLgXgMK28uWNm8K+6n/eAtiPkJZW7HPaaezkzXtk8sNlP/XnG3c7DNS5iUWz5HV+jtaLCyr/MMrY65J7wMFNV0/EItCYn8+7NvRzQgLxFDIZvHcXsqzQu3N/eZqysOVX6K1bbmHBOLZnOFzN2RlCqNk+kSTc0Q3hDCUmAHI7vW3ZByiRbpWkDh2eS5jlWqU1JdUPWMv74NbF3I7CkR0zru3QxSgTkOXf763Irphw5bvPME7f7nNtrzVNvYnNZHX5H7tyBCQnO6zCopiPiCltMZKCp9NdN9ZukZyBkGpWGfsusZzwxcMrxkNelF9ETD/sUw8G97siyoaYIMHjFK9rPJ4ZVEMijiNi9l0UYvYeNJKJq/0yy6hQBw==;MEA+JkvZW8qLCC/DTlsAMg=="
 ---
 

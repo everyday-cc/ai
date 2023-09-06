@@ -19,15 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Cronos (CRO) Gains with AWS Partnership and PancakeSwap … – Analytics Insight"
-    excerpt: "For example, PancakeSwap (CAKE) has become the top loser this week, and Cronos (CRO) has joined the top performers. TMS Network (TMSN) is retaining its position as a market favorite among the latest decentralized platforms."
-    publishedDateTime: 2023-09-04T13:18:00Z
-    webUrl: "https://www.inferse.com/703354/cronos-cro-gains-with-aws-partnership-and-pancakeswap-analytics-insight/"
+  - title: "Synopsys Extends Synopsys.ai EDA Suite with Industry's First Full-Stack Big Data Analytics Solution"
+    excerpt: "Uncovers silicon data outliers across the semiconductor supply chain to improve chip quality, yield, and throughput. SUNNYVALE, Calif., Sept. 6, 2023 /PRNewswire/ -- Synopsys, Inc. (Nasdaq: SNPS) today announced the extension of its Synopsys.ai™ full ..."
+    publishedDateTime: 2023-09-06T20:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/synopsys-extends-synopsys-ai-eda-suite-with-industry-s-first-full-stack-big-data-analytics-solution-1032610580"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 31
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 55
+    images:
+      - url: "https://mma.prnewswire.com/media/2186690/Synopsys_Logo_Purple.jpg"
+        width: 400
+        height: 276
+        isCached: true
 
 secured: "tj1uFHMwgwxLkzb95frNzh9qUq4XtPMVGU13OqAsG59dUBgPzHK+Iw9Q/zHQOwq9WgO8Qudr6GceORs6qPIwkLvLm7J/nVmK8QXiMsIIqsJ3N9MFUX3JFsGSS62m1WGAW93uA2X8S9btD3Isw6yAIy0Vuvn9fbAbhiTeFVg3pIAo/RwCUMYWkfte2PRb6JaZATkxpn/GbvTx1IIdCm8TfwcS+Nsx0Ag7Jb+qzOIBBDgTkIAEcxbYVF9Z2a0o4kjdnfD8tBgM6OeH0MQfYtNDFGTfqhG83aHzREYZUHfxl/u0S5ohWiw7EaX0z60m1gi6xspOQU3byEfILFGQHodfDZJcAFWEDWF8P+xRaNEMNTD2yWL1W+FP7eT7uQ3AOlyaBmz/nL8I8gsvSOFQPD/gtRAMylE6B3j/uM8C431NgwE+5PEXCh5fJebAuhsZxFZVNNfanoNOb4XCgjGQUhiqoLUfhQ+rR813+IKD0FAeXdfjJIgl7TubvhH/DTmygNyI97RqnNOZx0GEQkJjQ2jkwQ==;Bls31x0+zZ4Ajlenly5Hnw=="
 ---

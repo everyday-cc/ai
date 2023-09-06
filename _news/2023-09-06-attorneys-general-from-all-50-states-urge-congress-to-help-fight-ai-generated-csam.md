@@ -22,50 +22,29 @@ topics:
   - AI
 
 related:
-  - title: "Prosecutors in all 50 US states urge Congress to protect children from AI-generated sexual abuse images"
-    excerpt: "Attorneys general from all 50 US states have called on federal lawmakers to study the ways that AI can be used to exploit children."
-    publishedDateTime: 2023-09-06T02:54:00Z
-    webUrl: "https://www.scmp.com/tech/policy/article/3233554/prosecutors-all-50-us-states-urge-congress-protect-children-ai-generated-sexual-abuse-images"
+  - title: "Mass General Brigham and GE HealthCare partner on AI algorithm"
+    excerpt: "GE HealthCare and Mass General Brigham revealed that they will be co-developing an AI algorithm that can predict missed care opportunities (MCO), including missed appointments, failure to schedule a follow-up, or patients being late to appointments, all of which can be costly to a health system and result in inefficiencies."
+    publishedDateTime: 2023-09-06T20:31:00Z
+    webUrl: "https://vator.tv/news/2023-09-06-mass-general-brigham-and-ge-healthcare-partner-on-ai-algorithm"
     type: article
     provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 53
+      name: vator
+      domain: vator.tv
+    quality: 54
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/09/06/560741d1-b74f-416b-8984-121925892aae_f864c992.jpg?itok=WAT8osZC&v=1693968787"
-        width: 1200
-        height: 630
+      - url: "https://vatortv.s3.amazonaws.com/images/videos/main/22256.jpg"
+        width: 320
+        height: 240
         isCached: true
-  - title: "Prosecutors in all 50 states urge Congress to strengthen tools to fight AI child sexual abuse images"
-    excerpt: "The top prosecutors in all 50 states are calling on Congress to study how artificial intelligence can be used to exploit children through pornography, and come up with legislation to further guard aga"
-    publishedDateTime: 2023-09-05T14:06:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/prosecutors-50-states-urge-congress-strengthen-tools-fight-102928933"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/prosecutors-50-states-urge-congress-strengthen-tools-fight-102928933"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/prosecutors-50-states-urge-congress-strengthen-tools-fight-102928933"
+  - title: "GE HealthCare and Mass General Brigham Collaborate on an AI Algorithm to Predict Missed Care Opportunities"
+    excerpt: "GE HealthCare and Mass General Brigham announced, as part of its initial collaboration, the co-development of an artificial intelligence (AI) algorith"
+    publishedDateTime: 2023-09-06T16:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230906773062/en/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 42
-    images:
-      - url: "https://s.abcnews.com/images/US/wirestory_bc7f9384d469b061d603d6ba9748f38a_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Prosecutors in all 50 states urge Congress to strengthen tools to fight AI child sexual abuse images"
-    excerpt: "The top prosecutors in all 50 states are calling on Congress to study how artificial intelligence can be used to exploit children through pornography, and come up with legislation to further guard against it."
-    publishedDateTime: 2023-09-05T18:34:00Z
-    webUrl: "https://apnews.com/article/ai-child-pornography-attorneys-general-bc7f9384d469b061d603d6ba9748f38a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://dims.apnews.com/dims4/default/be8f4fd/2147483647/strip/true/crop/4468x2513+0+233/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd4%2F3e%2F4a1c0034c879346939887a573f46%2F44e8f64eb5ec41aa86d71408e1bbc8b4"
-        width: 1440
-        height: 810
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 16
 
 secured: "OcLRgriYqzZ+eRZk5JAGpdaPm0WCglm6dRmutKqrZJfdcoJve2PqH0J4dF9tJX24MYcIdwpX5bczr0YqBBeXSgd09tCfzGOuj+Eqn8P/gxq7+3q7mDlsPc5AvGHyB5uksYvHGxlaZhaHOKsEryisBwjskvuDipIm33cw/MXoMIDzLX8K3Wa2XAd1KhmkTED59wNCEHipXM2Q+nwB4dNpjyMxFHeDB7qvrSf9ltGHGP6YFNVGKWZzKAIyOpDQelS09B+5Io0qTXKtclJNxcbe3kJ1pkYeHGkwZnOtTh0MJAA38P5Ewi1taoIQYF9hJb7e3aLxgqTXIJ1KwWc4W5JExFTAAobWCw6xEjeele76SPU5k2RC7ByjIe2YwXdqz7e5azUwFS0Sj9pBCgTweSToeqomHpsAlVN/+KaajcVsBqy7CUdxwoauQgMpHe79wCVqXeovs8KAOyntkylKthXEVH7eJNqurn1nD0uQFPb4o119T4QUDeQWlS9xW4SSpnIRhiEVeog6uLKnvu+r7NJxHQ==;grsVO1RPAYQizsVfCMAAcg=="
 ---

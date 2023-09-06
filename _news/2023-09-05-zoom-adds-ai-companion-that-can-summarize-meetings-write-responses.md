@@ -50,6 +50,20 @@ related:
         width: 1200
         height: 636
         isCached: true
+  - title: "Zoom's New 'AI Companion' Will Catch You Up When You're Late to Meetings"
+    excerpt: "The generative AI tool has multiple new updates, and will soon be available at no extra cost if you already pay for Zoom."
+    publishedDateTime: 2023-09-06T21:21:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/zooms-new-ai-companion-will-catch-you-up-when-youre-late-to-meetings/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 66
+    images:
+      - url: "https://www.cnet.com/a/img/resize/089c254824ce38bdca6979888a458669a1817baf/hub/2023/09/05/e7503035-ec6e-4548-99e5-5d68976361ab/gettyimages-1211208100.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "XOJq/wYdW2Q6L4xEsBTSwJQ0lKZQxsXZ0Oo+BiXmKAUX2D4udCc8a0Q8sAoFvxTmZxnW7cg1YBihTedWV4Ktcm+OyP61sl+tqKVX9oBcsbucWUXiTuNhMuipRUXt5QSbxtfI3IEHBE69Xb5HE8YvyaZyCPMs29XjBi014Z1zMM4WLjpM74wqq4A6sEhnDHR37p7NO1jyd8QidGWCeWDnW+lmt5717HoyMvBInBydfvKmdGCgA5qOmj1WQPD7vV1YDGdfTTLeUd7Hy1601tQAWsE0k3hNdTn6vHnvyTGoWKIX8THwgen+YWGev6yGcyRpJQM5yWSf+cIyTudDTdmeHRPReS0A0kH+wNTR17pUaeWieUeSfHqNf/EfeumW/FGgFhUtGfXW/xkkMKdhqNqAF8Fqw6Fqh1pVYg15C0VQGEtFeG3Sd0NsEnFIsQVsvZO6jciLne/6v/a58ROt8dft/2k5e4/F4ldtCk+d+O01u1OQoze+VvL3xHRBEW1o1ls/w9LkhApGZEnV6+IFC+KFEg==;kTMBAWxz/JsZQZtUexmc2w=="
 ---

@@ -25,20 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "AWS hints at partner program changes for AI and partner engagement"
-    excerpt: "AWS is set to shake up its current partner programs, hinting towards changes regarding genAI and partner-to-partner engagement."
-    publishedDateTime: 2023-09-05T05:36:00Z
-    webUrl: "https://www.arnnet.com.au/article/708622/aws-hints-partner-program-changes-ai-partner-engagement/"
+  - title: "$110M In Funding Will Help d-Matrix Get Generative AI Inference Platform To Market"
+    excerpt: "made possible by testing on earlier chips that demonstrated the in-memory architecture. d-Matrix roadmap: all roads lead to Corsair, the company's first scalable AI solution. \"We're entering the production phase when large language model (LLM) inference ..."
+    publishedDateTime: 2023-09-06T20:28:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2023/09/06/110m-in-funding-will-help-d-matrix-get-generative-ai-inference-platform-to-market/"
+    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/09/06/110m-in-funding-will-help-d-matrix-get-generative-ai-inference-platform-to-market/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/09/06/110m-in-funding-will-help-d-matrix-get-generative-ai-inference-platform-to-market/amp/"
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 83
     images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/promoted_content/promo/aws_dreamstime_12_1.jpg"
-        width: 505
-        height: 315
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64f8a35ebb4b3e7bae86eae0/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 579
         isCached: true
+  - title: "d-Matrix Announces $110 Million in Series B Funding to Make Generative AI Commercially Viable with First-of-Its-Kind Inference Compute Platform"
+    excerpt: "Matrix, the leader in high-efficiency generative AI compute for data centers, has closed $110 million in a Series-B funding round led by Singapore-based global investment firm Temasek. The goal of the fundraise is to enable d-Matrix to begin commercializing Corsair,"
+    publishedDateTime: 2023-09-06T13:11:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/09/06/9875417.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "vjIKWtyYwlh3MVXYox1MnkW88Hslt0LGOL/ro/qjwLHs1p+J4oa2YGZ+1/DPl6nzb0zh2/1fVBbAQMh9vIIZdJvLyINZ9UW1hr7z6aAaxNgesn1pGWF0srvhkdrpgk2sBNDams2ChBPyGT0m74TTKk5PazH2r85rSq/xBCz9RA/ygQDv5s3BhYcBhea9fWy4Q664/UzG59GNpObMh8aahTRRVaAc+t2QsZsWLNGxlt8kDQkJPwyY52DWsfCZnVs6MVR44ZnGE/aNtL00+4Mr6GE5ZjNAXjxUQvef7Y9BkEiUGgLmcgxsoaZvFXoavKvF5aNt+hLHJNXrfm8irWBL82JhNEZTbsuciyBcYjuPL28=;VdD8ZfkgyLmNmDEoBfHD5Q=="
 ---

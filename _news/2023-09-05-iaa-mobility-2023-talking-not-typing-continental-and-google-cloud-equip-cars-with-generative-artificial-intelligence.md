@@ -123,6 +123,15 @@ related:
       name: CIO Dive
       domain: ciodive.com
     quality: 34
+  - title: "C3 AI Releases New C3 Generative AI Suite"
+    excerpt: "Initially released in March 2023, C3 Generative AI has been well received by the market with projects now in place at Georgia-Pacific, Flint Hills Resources, Nucor, Pantaleon, Con Edison, the U.S. Missile Defense Agency, and a U.S. intelligence agency."
+    publishedDateTime: 2023-09-06T21:55:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/09/06/9876233.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "BEsCInGA/X2GLat8AvG4fLJz60V8AoPlsKc/P+ZQIGBzFLggfDgCKFLNJiB8sxfQ/akNNTphzB1kC3GgZrJGz/lMf/SeEVZKmz929Ze4THT8ZyKKNgCUzCSA/BcTx3LWKZGoMsNLAzwUcgOziWaLRFSKne13reYkcjlMu1DCNRI1c4hf03x2+0iasnVnDnVcomBvSTRafXmnRFOTvHcU58cmSxVifaYQaZSNpFOTQG4DW3NQ7Fh7k7cux8K1BQzUM56CBK9czDBN5ugb+NAkVBg+FCPj2jXxenLTZtUrnhzDLcNy0t0k9Go/DOoHmzytF4bsyvyxi8Byk5gd4UscPKCFN5QvMO5DwLa0KkOCqGeem8Bo0UAgCwOX42wy8+MKp9pJtCsk8lZYY2ttfl32G1kND4Jay76KpMlhhjW/QC5MVyy6Z8f/+vVCDRWibGIYcGnk2h7gAnPsziwJOKMTX2P7e/oYZo5VPiZty8g1Ar+TgeWtpYiKafa6+M1Dnr0sDTIiUfXYEgHSVA+Bfqi79A==;JKEAYCpFHSGw/gnFTnOuDg=="
 ---

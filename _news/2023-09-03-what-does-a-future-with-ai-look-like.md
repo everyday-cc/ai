@@ -24,6 +24,22 @@ images:
     height: 685
     isCached: true
 
+related:
+  - title: "Artificial intelligence in 2024 election: What might that look like?"
+    excerpt: "Chat GPT is worried that people will use OpenAI to generate targeted political ads filled with misinformation. That could spell bad news for U.S. politics. Keep KCRW Independent. KCRW is here to provide you with local news, music discovery, and cultural ..."
+    publishedDateTime: 2023-09-06T21:16:00Z
+    webUrl: "https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/far-right-opioids-ai-mikki-kendall/chatgpt-political-speech"
+    type: article
+    provider:
+      name: KCRW
+      domain: kcrw.com
+    quality: 37
+    images:
+      - url: "https://www.kcrw.com/++theme++kcrw.theme/images/KCRW_Logo_White.png"
+        width: 542
+        height: 384
+        isCached: true
+
 secured: "nPedWjaMlKmtLKRkb2SPGKqOaU9TGX7ngrZj0vUpVCH2kH2thj+pZdQP5wTxitPV1cDrggJlhy0t4F92HM2dPgbt1stS9/PT/hnF2JcNJc1s8ajEX9kB10esLLU+TTqFo3GtVY3CHcPnYo7MubqsCs5eDSZQLS0Nl68x2kge6j8OSiq2OD61Q0Wmu/6c0Ds93nYMDACVJqxn+NkpGVvRnx39qTDhx0V9w9/urEI9dsCySmhFnJPRXK0rWcicYEahnErFJMpWfggceNGwsfgvyiklE5RvQQE0SeZtsfRX/t9MWqZiME7Mm76/ZAhxZL4PWnTFioZ8ylsvk6boZDL7e6BQDq2528Rdklp3IZchUUX+vKs61b5u81x+ysQ5095yAzxNtjoJOPxZ5NJKaaedMFNA8puR8RBZ4FwXh+t/c1UKMR0lwYDknq/8xcQhfKFkIxRSBSDYLedSmBdjx9LjITJVbg3cfPqRxWgCrl6/8oAlGW3BifrDPJhuvT8KTYZVg7OygzRl8314wi++TJ4E4g==;RzthZb+2PkBd7iweDcaJRA=="
 ---
 

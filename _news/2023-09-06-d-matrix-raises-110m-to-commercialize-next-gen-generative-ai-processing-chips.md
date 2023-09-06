@@ -6,7 +6,7 @@ publishedDateTime: 2023-09-06T16:34:00Z
 originalUrl: "https://siliconangle.com/2023/09/06/d-matrix-raises-110m-commercialize-next-gen-generative-ai-processing-chips/"
 webUrl: "https://siliconangle.com/2023/09/06/d-matrix-raises-110m-commercialize-next-gen-generative-ai-processing-chips/"
 type: article
-quality: 33
+quality: 50
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/dmatrix-corsair-screenshot.png"
@@ -53,6 +54,20 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2023/08/artificial-intelligence-rep.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "GPU Alternative d-Matrix Raises $110 Million for AI Inference"
+    excerpt: "GPU Alternative d-Matrix Raises $110 Million for AI Inference Your email has been sent Microsoft's venture group is among d-Matrix's supporters, investing in making ..."
+    publishedDateTime: 2023-09-06T20:36:00Z
+    webUrl: "https://www.techrepublic.com/article/gpu-alternative-d-matrix-raises-110-million-for-ai-inference/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 84
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/09/tr_09062023-gpu-alternative-d-matrix-raises-110-million-for-ai-inference.jpg"
+        width: 1400
+        height: 900
         isCached: true
   - title: "Microsoft-Backed Startup D-Matrix To Compete With Nvidia In Bid For AI Dominance"
     excerpt: "The chips are down in the artificial intelligence (AI) market, and Nvidia Corporation’s (NASDAQ: NVDA) stronghold appears unshakeable."
@@ -94,6 +109,20 @@ related:
       - url: "https://d.ibtimes.com/en/full/4481366/tech-giant-microsoft-has-submitted-new-proposal-buy-activision-blizzard.jpg"
         width: 768
         height: 510
+        isCached: true
+  - title: "Gen AI Chip Startup d-Matrix Announces $110M in Series B Funding"
+    excerpt: "Gerative AI chip startup d-Matrix has closed $110 million in a Series-B funding round led by Singapore-based global investment firm Temasek. The goal of the fundraise is to enable d-Matrix to begin commercializing Corsair,"
+    publishedDateTime: 2023-09-06T21:16:00Z
+    webUrl: "https://insidehpc.com/2023/09/gen-ai-chip-startup-d-matrix-announces-110m-in-series-b-funding/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 54
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2023/07/Dell-Technologies-logo-square-0723.png"
+        width: 312
+        height: 207
         isCached: true
   - title: "Microsoft joins $110m fundraise of AI chip start-up d-Matrix"
     excerpt: "Matrix claims its chips are optimised to support generative AI systems, as the company pushes into a sector largely dominated by Nvidia."
@@ -183,6 +212,6 @@ related:
       domain: proactiveinvestors.com
     quality: 17
 
-secured: "b7aADbXezYpfZ6uX0SnfYx0DKY06mLffwO9i7g2yZfWnPS9b355jF0694E9MF/9tIHMwS/gXjZ8Pf620QAnN6bcTAqXokGPl/DuT2eR2LGhAqNkOgnKitWP+T7ZjrALCoRTUtpmNhHnHicAXGQtUkY6y/aPfn3ei7Q2sUfMp6sAyVth64u8xAE40Wl3jNFwopKjzWtRunbgb5QAvPoxgS3rgRXAJn81GIlTaNe5fa/RgRgEWl/6pw9O55yW9WqJIiSs6R+zxSzux58fICi5f56Fg2pzarvmYRYC26smSAJt9FeTu7fTrQV3X8kpscY5/MSjQEufGN+5hzeFCYPMbQcouprzu/KMQZDVI5mzSmLU=;M/Z9v4Xe1VTl7/AtuZgCYQ=="
+secured: "Q9azQbuRhfo7R04FJHGOMCxgcGA02dCaxyVxgDI6+FjK0N5yh+2HvblS07jhil2FCwyDZExa5vbPhLS2fOY+Z7QVDluBOy0vW9oehKPYTYGtPXxgpkjwNOyU5Zusf9Oi8kWWTE41gdmxU86SoLJ09xJMLTEDEMaF1M5TvyUYT674e66/yYdxSzFNdH19fAQY3XXifYDRUwCIdAla8n6nNzZSzpvghDf54Fi6AIC6qW3gGJ+X9/KEfEdOCNWSMKgM4i0511jcarm38KbVqayoKdRfPaGg08sDHb5kmhdTQtJQoTquwkHYVdBTdlNelE0LXqO/KMbKRFu4F3UGGoCYFyLfLh/GWAYWMv8hpt7J041y6mUAinpcEkXHaIvwRq8HPlR88K3VzYN45oS8ldgFdbVCRPQxQ6C8rUbycT7gq6K40tNAOrtYQ8g3J4+WLb1z2YJZulQq5gfGLnU6yaGAQz3gxcxWQ0DYybVLRz3mgFtB4pop1nt0gB3kdzeY+ZeVdV0x0NNraSqQVshp3bf7DQ==;l8GodZ0w+tCUGVOqI94rnQ=="
 ---
 

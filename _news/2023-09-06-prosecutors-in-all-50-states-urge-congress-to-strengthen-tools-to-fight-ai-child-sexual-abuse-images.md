@@ -54,15 +54,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Attorneys General from all 50 states urge Congress to help fight AI-generated CSAM"
-    excerpt: "The attorneys general from all 50 states have banned together and sent an open letter to Congress, asking for increased protective measures against AI-enhanced child sexual abuse images."
-    publishedDateTime: 2023-09-05T18:54:00Z
-    webUrl: "https://www.engadget.com/attorneys-general-from-all-50-states-urge-congress-to-help-fight-ai-generated-csam-184938825.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 41
 
 secured: "ywOVaOwL/X2q7L72kqIQw/Uu5ZlfxXSkm1ryhAl/5gJAcfGnpAdrBKQO8ZKO+yGq3mZlWi1loIqZKPJsXOH6PdkQ/sOnrA5TeuSmZ5CoFW82/8taoBGYCbJRAkmqtDXz6+urmSFJyaSHn5kxM0JgR3DtGdykzy7lsv0X6LQnkMBsjk0hq+Mcws7YnY1GgWV/5GOgvFxDc/NeI/XBzJrc2E9pq8boZbFiP2tigudLO1x/KbU8SmcCBArS3jQmSYVKRiLUgFc4f5kizvzqBzzSw2Kj6zC/Epi63mGxoHLIFVoYsJgfQsIMlMv3nt17mcyCBP1jcAEpqmLIY77JLGkoI9KMXFSzlG+fkyrJibBZCzynG0oG34V7PdSsxJ8Z6aEDlwRfVowTybRHdP2ZqUpLumImt6QfGoAHRsNBdDAyoXvMISEixXIs+Tr65xnU3sW/O+bN37dMvoaDnMQkG33HxTnEvjzAGyJbUBa/R1D9dnlCoH+HieRN+qdUDU/hECkow5s71Kn2svef8sWmSZtKww==;xrRI8yr4zskvlQbiQmH5/Q=="
 ---

@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Explainable-AI Image Recognition achieves precise 3D descriptions of objects for US Air Force, a major AI breakthrough"
-excerpt: "\"ZAC algorithms can describe and measure 3D objects from any viewpoint, for full Explainability of 3D objects,\" emphasized Dr. Bijan Tadayon, CEO of ZAC. \"We will be using this tech for Medical Imaging, too,\" continued Dr. Bijan Tadayon."
-publishedDateTime: 2023-09-05T18:24:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/09/05/9874975.htm"
-webUrl: "https://it.tmcnet.com/news/2023/09/05/9874975.htm"
+excerpt: "Z Advanced Computing, Inc. (ZAC), the pioneer CognitiveExplainable-AI (Artificial Intelligence) (Cognitive XAIor CXAI) software startup, has developed the \"Describer\""
+publishedDateTime: 2023-09-05T17:03:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/09/n34245972/explainable-ai-image-recognition-achieves-precise-3d-descriptions-of-objects-for-us-air-force-a-ma"
+webUrl: "https://www.benzinga.com/pressreleases/23/09/n34245972/explainable-ai-image-recognition-achieves-precise-3d-descriptions-of-objects-for-us-air-force-a-ma"
 type: article
-quality: 15
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/2201922/Z_Advanced_ComputingInc_Table_Compare.jpg"
-    width: 400
-    height: 302
-    isCached: true
 
 related:
   - title: "Rethinking open source for AI"
@@ -56,6 +50,6 @@ related:
         height: 1707
         isCached: true
 
-secured: "HQYaXkvqS/W3hQDBy6wshwECuYCSJeLU82Zz1T8i2MoTDKa3ns++0ri2T2H/NhXyrxehhpinuURW2m/2edIt7I/weXSHdSIz/AIvOTr/r0IfNnQQPb5sosgYaW2bt/ZnosGUXWAFh3ikNtbVH8PfCsQpCKg4cmRY1RQMvjihsLb6uEcGaduovTmpG/MpgcL6com18cw6WcN9lYeuvjHyXVRo/xfDDnANebHpRJY6UNcidK2guhE2FlAlwj4zaR1uoqg0/Zz5kWygKFidYH5Dcksz2U9EsKvpqV0pchhFOGBlvw9YjNfaQekJAeYgy+dqovhTBkF46qieiMstSMWk0pBCIjkLMem6Ay8sc0yJlCo=;ZQ5Ns4j+yafASS8pkqbClA=="
+secured: "H7vBWfSJXouynRFA0Hb2TkWvQkMcTFoJWsZeWN6M0nUMrDHl7pGKczwaeaUYfnwlRdkHOTkDXy/uR7Gji4ZMmap1an0oNeCh/pbdggRjSPhxRjUMvu+uW0hR38Jf5m+h2j0gxD79OaQf9hyzdocYiGeT2TGMXXudm7RLWhncPn2NOsCdXHNSe5b/k3KsBXFXlNSSebUvVewuwOSGm7VZPZrrQAeFJO3rirGEnK5n8oGOjMeOMHcLvydeo4oCM5uHgICMFBaj1UPzQ5d+EPb6kmNqkG+e3jPCNq00yfgZVff4+4puK4ouhLd6kjc+4z7ElHY7akqnYa8o8UZfsZeWAzP3/oYtysRQxqaeJCYkbE8=;VM3dR/IijF2okpXboX5D3g=="
 ---
 

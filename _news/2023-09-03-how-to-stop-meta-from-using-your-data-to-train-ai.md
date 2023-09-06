@@ -54,15 +54,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "Five Ways To Be More Intelligent About Artificial Intelligence"
-    excerpt: "So, how can we be more intelligent about AI? Here are my top five things to remember as your business scales its AI infrastructure."
-    publishedDateTime: 2023-09-05T12:44:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/05/five-ways-to-be-more-intelligent-about-artificial-intelligence/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "Former Intel Exec Joins Untether AI as President to Drive Commercial Efforts in the Burgeoning AI Acceleration Market"
     excerpt: "View the full release here:  \"Untether AI has been growing at a rapid pace and Chris brings unique experience, growing world-leading chip businesses at the highest level,\" said Arun Iyengar, Untether AI CEO."
     publishedDateTime: 2023-09-05T16:45:00Z

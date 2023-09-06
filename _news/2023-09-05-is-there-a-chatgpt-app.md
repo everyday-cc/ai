@@ -44,6 +44,20 @@ related:
       name: CNET
       domain: cnet.com
     quality: 47
+  - title: "Apple is quietly spending millions on AI to make Siri as smart as ChatGPT"
+    excerpt: "Apple is spending millions of dollars a day to train its large-language models, and it might be readying to tackle OpenAI ChatGPT."
+    publishedDateTime: 2023-09-06T19:07:00Z
+    webUrl: "https://bgr.com/tech/apple-is-quietly-spending-millions-on-ai-to-make-siri-as-smart-as-chatgpt/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 38
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/06/apple-wwdc-2023-ios-17-reality-226.jpg?quality=82&strip=all"
+        width: 1600
+        height: 885
+        isCached: true
 
 secured: "gwWKhBfyFGqgrZ8OHtNY8G3X5U6S3HhP5CEZM8T8UgOjfhB26wr0mSvFf45allAqeyXdUmpJ7XMnQKFAfRpDROfLrE4//mr34sNjI5bg00IM0kOYod25WEfDV3fo/G/kNzy2gOITXJMC9KFg9+FTu9hwK9QlJVJoSt+o4OdCYddnZSqjJhk/PazwOfbuJhzL8u1FLbFi6xdFBV0WtvAfnJSueI5YaKt4a8BCr5MhlHMYwnJK65OegcDlkZYPqrJTDg8KFzM9mlI5ZWtkfSO9ul7t3R1RAVAYN0kaBQaik4VG/27JvuAcXo3tJ7GoSSxmGQ3HF3BcQyr6PhxeicFYcuTYZrbCEWD7nTkeZsOoZKQ=;RUmnVZb/XPlB0KQ7THqF9Q=="
 ---

@@ -68,6 +68,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Global Fintech Fest 2023: Fireside Chat - AI Helps Improve Efficiency, Lower Organizational Costs: Thomas Kurian"
+    excerpt: "AI helps financial institutions improve efficiency, change customer relationships and lower costs in the organization, said Thomas Kurian, CEO, Google Cloud. He was engaged in a fireside chat with Renny Thomas,"
+    publishedDateTime: 2023-09-06T18:33:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/09/06/9875536.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "KcBEQ0eCarcGoo0rRJVubBdoEWm3mGomX5m2GT8WbNzO/CimQkVJhhVL3lt83SnUWcR/AwQkD4qXSqJvZFNf6HBQbELPn4jGkkVF3tDpNpqyu/bT6zHLv3pmdt1NIhpOW/Rc5G+qHgGvN0/G/zLdjX/MCmNqzjryQaIrhcwq7mFzRJSyB+dRuvyW8tesbDiZqhBEHFNAwKKfAJ+fU0y5d1/lrdTzp4f2PHWc9l93tKLK2D10OLCYit+c/DS3dkkIQYHmC+Fj7Jrj7eA5Czh5ww2rx8GcEHqTwko/7e3hRtqiUmpP0kI2LN9V0fyeJ01d6ViJ5smyy+BSC4uZWhpsoUrhJA21AiCg6kBD5MySso4=;2c6YZsVnKlVjpj8J93cvZQ=="
 ---

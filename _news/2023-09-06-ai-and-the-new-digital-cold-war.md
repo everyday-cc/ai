@@ -7,7 +7,7 @@ originalUrl: "https://hbr.org/2023/09/ai-and-the-new-digital-cold-war"
 webUrl: "https://hbr.org/2023/09/ai-and-the-new-digital-cold-war"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -16,22 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "8 AI and ML Trends and Predictions for the Next Decade"
-    excerpt: "As we step into the next decade, we are also stepping into an ever-evolving technology landscape. Artificial Intelligence (AI) and Machine Learning (ML) are the twin engines propelling us toward an exciting future."
-    publishedDateTime: 2023-09-06T10:04:00Z
-    webUrl: "https://techbullion.com/8-ai-and-ml-trends-and-predictions-for-the-next-decade/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 56
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/09/predicaton.jpg"
-        width: 667
-        height: 449
-        isCached: true
 
 secured: "m3DHr0InOgxvQQDoVA5qszk/gzIpAd91/r5dK1rp4+DPzZ0mflff7/8KJ5M1Vy47LIirfWptRe5XZRaWso/8VONrk+mReGGwvsvL1MzQdZvD4V3duXLrTg2R9RqInmTzPYUzw+avbO9jOshpQr9L1HO4bWzqcm7hAh/5SOj1e7RRb+n7r92RSLl6lET/zYwj31Mt4QeoWPwLFXt1I5IrCshiOqQvVjGvPstiOIH7Zu5kPoqxV/kRyJD8ILeIdSRLj8ql1YDcEpu3HGLPwf1vZPvkZ0QH9QBJAMoYh+GqpLLtLq//F4EBPjvuavxjkXHKO8miecN0LilfbWoXQXkOakK8BdU+S5i+AmU2hEN4yOktHlQMWGPdlKky02ydk8wcDwo9SM3A/gndH/d27iYivmQi0Q8iVJz8IZoCcztPl9dLnXll8U0g/vdFUM3BBwgMMH0TdE1d758N+Nnmj5sDfRvsbNIUCgzMGlTPN1TwB5GW4YWLjmIVeC5CwmJ5EuxoQGNkOosgkAU75HZ8ZM1zkQ==;ZSgkdKywSrn+cGdgdIawuw=="
 ---

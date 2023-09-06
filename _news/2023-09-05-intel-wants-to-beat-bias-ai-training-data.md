@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/09/04/intel-wants-to-beat-bias
 webUrl: "https://www.fool.com/investing/2023/09/04/intel-wants-to-beat-bias-ai-training-data/"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "Five Ways To Be More Intelligent About Artificial Intelligence"
-    excerpt: "So, how can we be more intelligent about AI? Here are my top five things to remember as your business scales its AI infrastructure."
-    publishedDateTime: 2023-09-05T12:44:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/05/five-ways-to-be-more-intelligent-about-artificial-intelligence/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "How to stop Meta from using your data to train AI"
     excerpt: "Meta is betting big on AI, just like it tried to bet big on the Metaverse all those months ago. This means the company will use data that it has scraped and received from outside sources to help train its AI."
     publishedDateTime: 2023-09-02T18:02:00Z

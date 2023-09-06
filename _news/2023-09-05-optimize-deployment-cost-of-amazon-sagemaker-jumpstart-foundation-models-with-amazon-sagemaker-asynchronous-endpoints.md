@@ -85,6 +85,15 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Build a secure enterprise application with Generative AI and RAG using Amazon SageMaker JumpStart"
+    excerpt: "In this post, we build a secure enterprise application using AWS Amplify that invokes an Amazon SageMaker JumpStart foundation model, Amazon SageMaker endpoints, and Amazon OpenSearch Service to explain how to create text-to-text or text-to-image and Retrieval Augmented Generation (RAG). You can use"
+    publishedDateTime: 2023-09-06T18:01:44Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-secure-enterprise-application-with-generative-ai-and-rag-using-amazon-sagemaker-jumpstart/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 71
 
 secured: "fYOhUUYgAQnpGpLt9smirmQaE8P0cHZLUVjRzpL5yrLAMv4PIVjGARgt2C/zygu2VOp6cYvL4RlvcxNakamNxTnYvDlwhbJMSbZRIwGIuVfe3J7/vn79TZLmyzQAatwOTTtp+tlR2VDzz4DM434G5Xb3rDcIbBaqohyAmasIzr7Lz5LZ/6yVjQXz0+tMfrg1UpsS8SgNZpQE5AD10ZKVW8kPsKaFNjc4UqQou1JUi/cPVavkt9li0jb2BAl+rOtWzg+e/qeaUir1KQHQ0Lh8pNw1cF2foYmFxRoOSaCgEcHghWqAcWC5eGWx5om9S3+sYDZQF75aaHvclgwO8geErxOUYy7ypU7mWGcHDBs/Cao=;LDXHOrzdwESQNwpACZKW5w=="
 ---

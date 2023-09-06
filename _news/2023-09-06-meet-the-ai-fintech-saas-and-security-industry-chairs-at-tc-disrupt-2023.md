@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2023/09/06/meet-the-ai-fintech-saas-and-sec
 webUrl: "https://techcrunch.com/2023/09/06/meet-the-ai-fintech-saas-and-security-industry-chairs-at-tc-disrupt-2023/"
 type: article
 quality: 66
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -69,6 +69,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Global Fintech Fest 2023: Fireside Chat - AI Helps Improve Efficiency, Lower Organizational Costs: Thomas Kurian"
+    excerpt: "AI helps financial institutions improve efficiency, change customer relationships and lower costs in the organization, said Thomas Kurian, CEO, Google Cloud. He was engaged in a fireside chat with Renny Thomas,"
+    publishedDateTime: 2023-09-06T18:33:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/09/06/9875536.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "rf4xsdMIQZ4fzvbJq/jZ45P9WTn4z/t6aZxyuGQyTYjfqta0Rn1FQWKWbL6fOZtBvZJFUfAuQoAkvmYvzalJ8JzwB5jHkoA2lDNct/Exo5K02+9lLOY0o1j24aIYGZAHEb1gpBZpBnG9c5WWVpV3z9M+uQW3JkFArz1D34PXO8RFq+LQ4ynT1VReKMLE/D4zF8Ul7nJn9taaF8H0JTZgBNbUY/fD7+N0N4X/v+3SVpnJZhyDNuypsGrW0Pr+WMhmYB/dv6bonAqt+uXVmqFeIKfjBO3rdfVt/39DZd4b0iyNB4dmqkeRfp2nZQdWTlboLEtOHvtSvy3nyfm65qqsvGBk31o2nfq5OflWOw+tmj8=;jq7eSA5X19ld4T6H5oB/nw=="
 ---
