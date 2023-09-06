@@ -25,21 +25,90 @@ images:
     isCached: true
 
 related:
-  - title: "iTechGenic teams up with Microsoft Azure, G7 CR for AI-enhanced Engineering management"
-    excerpt: "The primary objective of this partnership is to empower engineering teams with a 360-degree perspective by harnessing insights from various DevOps tools."
-    publishedDateTime: 2023-09-05T06:37:00Z
-    webUrl: "https://www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management/3233431/"
-    ampWebUrl: "https://www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management/3233431/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management/3233431/lite/"
+  - title: "Exclusive: AI chip startup d-Matrix raises $110 mln with backing from Microsoft"
+    excerpt: "Silicon Valley-based artificial intelligence chip startup d-Matrix has raised $110 million from investors that include Microsoft Corp at a time when many chip companies are struggling to raise cash."
+    publishedDateTime: 2023-09-06T09:13:00Z
+    webUrl: "https://www.reuters.com/technology/ai-chip-startup-d-matrix-raises-110-mln-with-backing-microsoft-2023-09-06/"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 81
+      name: Reuters
+      domain: reuters.com
+    quality: 97
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/image-2023-09-05T113656.774.jpg"
+      - url: "https://www.reuters.com/resizer/wGOVN9VOmABurktWbqvXa9yCre8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VP35N4V2DRKPDFZB2DP2TS7BQY.jpg"
         width: 1200
-        height: 675
+        height: 628
+        isCached: true
+  - title: "AI chip startup d-Matrix raises $110 million with backing from Microsoft"
+    excerpt: "Silicon Valley-based artificial intelligence chip startup d-Matrix has raised $110 million from investors that include Microsoft Corp at a time when many chip companies are struggling to raise cash. Nvidia's dominant position in the AI chip market due to a ..."
+    publishedDateTime: 2023-09-06T10:32:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/ai-chip-startup-d-matrix-raises-110-million-with-backing-from-microsoft-11322321.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/ai-chip-startup-d-matrix-raises-110-million-with-backing-from-microsoft-11322321.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/ai-chip-startup-d-matrix-raises-110-million-with-backing-from-microsoft-11322321.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 90
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/08/artificial-intelligence-rep.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "AI chip startup d-Matrix raises $110 million in funding from Temasek, Microsoft, others"
+    excerpt: "The Series B funding round was led by the Singapore-based Temasek, and included the Palo Alto, California venture firm Playground Global and Microsoft."
+    publishedDateTime: 2023-09-06T10:29:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/funding/ai-chip-startup-d-matrix-raises-110-million-in-funding-from-temasek-microsoft-others/articleshow/103430819.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/funding/ai-chip-startup-d-matrix-raises-110-million-in-funding-from-temasek-microsoft-others/amp_articleshow/103430819.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/ai-chip-startup-d-matrix-raises-110-million-in-funding-from-temasek-microsoft-others/amp_articleshow/103430819.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 83
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-115468,msid-103431037/sid-sheth.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Microsoft expands UAE's G42 partnership to include cloud, AI tools"
+    excerpt: "\"With data privacy, security, and compliance as our core priorities, we have a unique opportunity to help organizations responsibly innovate,\" Microsoft Chief Commercial Officer Judson Althoff said"
+    publishedDateTime: 2023-09-05T14:10:00Z
+    webUrl: "https://www.business-standard.com/world-news/microsoft-expands-uae-s-g42-partnership-to-include-cloud-ai-tools-123090501146_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/world-news/microsoft-expands-uae-s-g42-partnership-to-include-cloud-ai-tools-123090501146_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/world-news/microsoft-expands-uae-s-g42-partnership-to-include-cloud-ai-tools-123090501146_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 54
+  - title: "Microsoft Partners With G42 To Strengthen Cloud, AI Services In UAE"
+    excerpt: "Microsoft aims to add more than $39 billion and about 100,000 jobs to the UAE economy over the next four years."
+    publishedDateTime: 2023-09-06T11:23:00Z
+    webUrl: "https://www.ibtimes.com/microsoft-partners-g42-strengthen-cloud-ai-services-uae-3710865"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 54
+    images:
+      - url: "https://d.ibtimes.com/en/full/4481366/tech-giant-microsoft-has-submitted-new-proposal-buy-activision-blizzard.jpg"
+        width: 768
+        height: 510
+        isCached: true
+  - title: "Silicon Valley AI chip start-up d-Matrix raises $150m in Temasek-led funding round"
+    excerpt: "SAN FRANCISCO - Silicon Valley-based artificial intelligence (AI) chip start-up d-Matrix has raised US$110 million (S$150 million) from investors that include Microsoft Corp at a time when many chip companies are struggling to raise cash."
+    publishedDateTime: 2023-09-06T10:47:00Z
+    webUrl: "https://www.straitstimes.com/business/companies-markets/silicon-valley-ai-chip-start-up-d-matrix-raises-150m-in-temasek-led-funding-round"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 48
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/09/06/btchat20230906.jpg"
+        width: 860
+        height: 573
         isCached: true
   - title: "G42 and Microsoft unlock new opportunities for digital transformation with joint sovereign cloud and AI offering"
     excerpt: "Microsoft's sovereign cloud offering public sector and regulated industries to use new platform capabilities for securing access to the latest cloud and AI features available on Azure public cloud and helping local privacy and regulatory requirements."

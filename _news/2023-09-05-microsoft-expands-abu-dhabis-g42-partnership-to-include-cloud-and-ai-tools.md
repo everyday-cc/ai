@@ -37,17 +37,6 @@ related:
         width: 799
         height: 533
         isCached: true
-  - title: "Microsoft expands UAE's G42 partnership to include cloud, AI tools"
-    excerpt: "\"With data privacy, security, and compliance as our core priorities, we have a unique opportunity to help organizations responsibly innovate,\" Microsoft Chief Commercial Officer Judson Althoff said"
-    publishedDateTime: 2023-09-05T14:10:00Z
-    webUrl: "https://www.business-standard.com/world-news/microsoft-expands-uae-s-g42-partnership-to-include-cloud-ai-tools-123090501146_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/world-news/microsoft-expands-uae-s-g42-partnership-to-include-cloud-ai-tools-123090501146_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/world-news/microsoft-expands-uae-s-g42-partnership-to-include-cloud-ai-tools-123090501146_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 54
 
 secured: "PXrwnTyXco1+MNyqruLp/33FB2utP62m9e7hU8Rf8dxOivtyk0bEtWRuvyzwQZ7gXM8+yTNxm9ql1a9nzaKP0CYWazKcENjYW5pAYWkdstfsgpvVprOsf2nCIYGsDTMwoGC+PmvgHaEi0+TlSiqAs/Tq5jndJw+6BWI+bnBb0wMmx1SPx3IcYC5BHs0gPm07VmkxFQNn4UjqnlEc9pgDzlMNTMCQokmLgv8N3ceWMprHnLEPNzGHalWt6huUQS7t7a6EgVokQvrefY+RX6lb0JztsaxAgHcHTQlouHDUNl51l1d6cFjTQNFEpT5kcCVKqjhutso0fyx1rhL9tVWyD5PcH1fTQ2hjey71PAK/n/gI9weVHEZmxAWj5sZshNoFGQc3uv2O9HF7LcJ0IyNBZfV12hJ+TqO3U7pAq5x2CmbL1AhIDge66c+93uJmsdrtG3A2rLJ3EpyLvY5lwcCD1Bpb6uNHSoVr1I5CTq/MV6i+wrdSezQ+UlCsWI1piKfF4AyfJvDdC55yR08opH8bBg==;fyYWUukPYGPcIYUKQaKNtQ=="
 ---

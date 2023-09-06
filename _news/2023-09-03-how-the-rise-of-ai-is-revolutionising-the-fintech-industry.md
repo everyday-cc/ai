@@ -35,6 +35,15 @@ related:
         width: 711
         height: 400
         isCached: true
+  - title: "DESTINIA REVOLUTIONISES THE SALE OF TOURISM SERVICES WITH AI"
+    excerpt: "Today, the future is here! On its innovative Destinia Beta platform, an ecosystem dedicated to research and development aimed at continuous evolution and growth, Destinia is introducing Desta, an AI solution designed to revolutionise the user experience of ..."
+    publishedDateTime: 2023-09-06T11:37:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/destinia-revolutionises-the-sale-of-tourism-services-with-ai-1032608457"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "QsTj55NeP74QRN+TvZWnUA3uE33L3EINsvrKMn1uhdn86Maykl5dXkppMQ+KzgAVuX/Y5s/JiZss2Ti1+NdpHIeKZvxLjSkq7s9xhtcUNHpjQGo6iLmJDyoRjHX5OCyXFzVbGaDzArIAXQqR849r05bFx9gTDBjffxZcsqCPGw6tJRUl2qw6jPawBV5hhGdFkdDqp1Tx0fsbFJzamxR6ElZ/Zw0r/k97eimRpOFPUNb6nFrumSzjPtgY04OCtlRad2KZNNL4adOTsXtOUfNv2lBQFNLqRZTRBB9LZ7fUNOquW+9RNjsCmI+H/3jzg2j7tmEWTfbVCeT7A6RcdPyAbcxblXrDBrFvCynchJUs/XhRFpdl3ivbXsdZ+zJRJMrWZYEbONWbEPAPrffGMQDXauIbBAmcl1lvsZWmGfAFUsUsKCx/SMu6ntk2ugyJWVxZlOhtpm+RmQ4eRqq/5+j3+PUYwrxkMUW6Okene6o8bdrJozNh3VP/Y/qx94u3BJmOzF3w7zZVizrgeFlRCl8BVg==;kIaMaBEtf0b6V+Ed0pvcWw=="
 ---

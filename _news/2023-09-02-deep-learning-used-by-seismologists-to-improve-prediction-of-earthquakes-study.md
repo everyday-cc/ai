@@ -9,8 +9,8 @@ ampWebUrl: "https://m.timesofindia.com/home/science/deep-learning-used-by-seismo
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/science/deep-learning-used-by-seismologists-to-improve-prediction-of-earthquakes-study/amp_articleshow/103313891.cms"
 type: article
 quality: 55
-heat: -1
-published: false
+heat: 85
+published: true
 
 provider:
   name: Indiatimes
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Seismologists use deep learning to forecast earthquakes"
-    excerpt: "To continue applying deep learning models to aftershock forecasting, Dascher-Cousineau says the field needs a better system for benchmarking. In order to demonstrate the capabilities of the RECAST model, the group first used an ETAS model to simulate an ..."
-    publishedDateTime: 2023-09-01T17:21:00Z
-    webUrl: "https://phys.org/news/2023-09-seismologists-deep-earthquakes.html"
-    ampWebUrl: "https://phys.org/news/2023-09-seismologists-deep-earthquakes.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-seismologists-deep-earthquakes.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/seismologists-use-deep-1.jpg"
-        width: 2128
-        height: 1022
-        isCached: true
   - title: "Seismologists use deep learning for improved earthquake forecasting"
     excerpt: "A team of researchers at UC Santa Cruz and the Technical University of Munich created a new model that uses deep learning to better forecast earthquake aftershocks."
     publishedDateTime: 2023-09-01T21:46:00Z

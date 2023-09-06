@@ -46,6 +46,22 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "How Enterprises Can Keep Generative AI Innovation Customer-Focused"
+    excerpt: "By keeping customers front and center while you innovate with generative AI, you’ll be better able to take full advantage of its benefits."
+    publishedDateTime: 2023-09-06T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/06/how-enterprises-can-keep-generative-ai-innovation-customer-focused/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/06/how-enterprises-can-keep-generative-ai-innovation-customer-focused/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/06/how-enterprises-can-keep-generative-ai-innovation-customer-focused/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64f741fe7e46d114422b0cae/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Google goes all in on the AI cloud"
     excerpt: "Market landscape analysis: Players such as Snowflake Inc. and Databricks have effectively acted as the AI and data layer on platforms such as Amazon and Microsoft Azure, given these cloud platforms’ underwhelming data and AI capabilities. AWS seems ..."
     publishedDateTime: 2023-09-02T15:37:00Z
@@ -97,15 +113,6 @@ related:
       name: CIO Dive
       domain: ciodive.com
     quality: 34
-  - title: "Ally partners with Microsoft to leverage generative artificial intelligence"
-    excerpt: "Banks have been leveraging traditional artificial intelligence for years in ways such as predicting market trends and optimizing investment. But generative AI can produce its own data content to increase productivity for financial firms. That has led Ally ..."
-    publishedDateTime: 2023-09-01T18:53:00Z
-    webUrl: "https://www.bizjournals.com/charlotte/inno/stories/news/2023/09/01/ally-bank-generative-ai-platform-launch-microsoft.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 32
   - title: "IAA MOBILITY 2023 Talking not Typing: Continental and Google Cloud Equip Cars with Generative Artificial Intelligence"
     excerpt: "Continental announced a partnership with Google Cloud during its press conference at the IAA MOBILITY 2023. Together, the two companies are equipping"
     publishedDateTime: 2023-09-04T17:26:00Z

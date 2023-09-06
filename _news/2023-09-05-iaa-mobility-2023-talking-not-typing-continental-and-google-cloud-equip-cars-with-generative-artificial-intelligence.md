@@ -40,6 +40,22 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "How Enterprises Can Keep Generative AI Innovation Customer-Focused"
+    excerpt: "By keeping customers front and center while you innovate with generative AI, you’ll be better able to take full advantage of its benefits."
+    publishedDateTime: 2023-09-06T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/06/how-enterprises-can-keep-generative-ai-innovation-customer-focused/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/06/how-enterprises-can-keep-generative-ai-innovation-customer-focused/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/06/how-enterprises-can-keep-generative-ai-innovation-customer-focused/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64f741fe7e46d114422b0cae/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Cash in or lose out: Banks are turning to AI, cloud computing, and Web3 to gain competitive advantage and customer loyalty"
     excerpt: "Artificial intelligence, cloud tech, and Web3 are helping banks with their digital strategies for strengthening their brand and customer loyalty."
     publishedDateTime: 2023-09-05T15:20:00Z
@@ -107,15 +123,6 @@ related:
       name: CIO Dive
       domain: ciodive.com
     quality: 34
-  - title: "Ally partners with Microsoft to leverage generative artificial intelligence"
-    excerpt: "Banks have been leveraging traditional artificial intelligence for years in ways such as predicting market trends and optimizing investment. But generative AI can produce its own data content to increase productivity for financial firms. That has led Ally ..."
-    publishedDateTime: 2023-09-01T18:53:00Z
-    webUrl: "https://www.bizjournals.com/charlotte/inno/stories/news/2023/09/01/ally-bank-generative-ai-platform-launch-microsoft.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 32
 
 secured: "BEsCInGA/X2GLat8AvG4fLJz60V8AoPlsKc/P+ZQIGBzFLggfDgCKFLNJiB8sxfQ/akNNTphzB1kC3GgZrJGz/lMf/SeEVZKmz929Ze4THT8ZyKKNgCUzCSA/BcTx3LWKZGoMsNLAzwUcgOziWaLRFSKne13reYkcjlMu1DCNRI1c4hf03x2+0iasnVnDnVcomBvSTRafXmnRFOTvHcU58cmSxVifaYQaZSNpFOTQG4DW3NQ7Fh7k7cux8K1BQzUM56CBK9czDBN5ugb+NAkVBg+FCPj2jXxenLTZtUrnhzDLcNy0t0k9Go/DOoHmzytF4bsyvyxi8Byk5gd4UscPKCFN5QvMO5DwLa0KkOCqGeem8Bo0UAgCwOX42wy8+MKp9pJtCsk8lZYY2ttfl32G1kND4Jay76KpMlhhjW/QC5MVyy6Z8f/+vVCDRWibGIYcGnk2h7gAnPsziwJOKMTX2P7e/oYZo5VPiZty8g1Ar+TgeWtpYiKafa6+M1Dnr0sDTIiUfXYEgHSVA+Bfqi79A==;JKEAYCpFHSGw/gnFTnOuDg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.darkreading.com/operations/ai-for-good-voxel-ai-tech-i
 webUrl: "https://www.darkreading.com/operations/ai-for-good-voxel-ai-tech-increases-funding-to-30m-with-strategic-funding-round"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 342
     height: 342
     isCached: true
-
-related:
-  - title: "Voxel raises $12M in funding round to continue improving workplace safety with AI-powered security"
-    excerpt: "To protect workers’ privacy, Voxel’s AI ethics policy means that no facial recognition or identification of individuals is permitted in their systems. Voxel provides its customers with resources for ethically and responsibly implementing AI in the ..."
-    publishedDateTime: 2023-09-05T17:19:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=160372"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 42
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/OtherImages/151196-2023-Cover-Images-ORG.png"
-        width: 772
-        height: 594
-        isCached: true
 
 secured: "0ZDUoHMF8JWZY2W/yRBTpU8h1n75pNg7l7y8QRZyN9AyWTqwED/3FXoYhp3H+mq6Y73tQvezH+v8BEyA0U87RwGrEG+qL31Q2cRvctZbGrqwgKBB+Ex4Q5X0iCyQ772NXqmIaKLOkTlcP2liBuliJeBOKJVWD8Z4FMOw8095l6RI2G41FBdkQ1j2GRn8BHMhEq6byu84wnzhTTCxqG9oDf/pH//TI2iIKD3Z0sDeXgwIJsWmWVW70w4S3R+4is/xhmvFqnoRO2Yvv0GXvbfE5lnvXyniW1luj5iMtr5+KjPySc57qu3JJ7TjnbUd+uw0WReDTJEhqRGzv8MvGtLJQ7RxVgMmTd2o/ffaxhib1nY=;X700ufmp7viqa2X8p5zugA=="
 ---

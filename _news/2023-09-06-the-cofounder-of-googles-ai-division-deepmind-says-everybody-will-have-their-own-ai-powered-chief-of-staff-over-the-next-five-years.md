@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/google-deepmind-cofounder-mustafa-su
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-deepmind-cofounder-mustafa-suleyman-everyone-will-have-ai-assistant-2023-9?amp"
 type: article
 quality: 72
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Google DeepMind co-founder says US should enforce AI standards for ethical use"
-    excerpt: "The ethical side of this technological titan has gained attention in a time when artificial intelligence (AI) is developing at a dizzying pace. The co-founder of DeepMind, Mustafa Suleyman, recently presented a strong case for the need for the United States to require users of Nvidia's AI chips to make ethical commitments."
-    publishedDateTime: 2023-09-01T18:05:00Z
-    webUrl: "https://techstory.in/google-deepmind-co-founder-says-us-should-enforce-ai-standards-for-ethical-use/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 47
   - title: "U.S. should use Nvidia’s powerful chips as a ‘chokepoint’ to force adoption of A.I. rules, DeepMind cofounder Mustafa Suleyman says"
     excerpt: "That makes the company’s products “an incredibly practical chokepoint that would allow the U.S. to impose itself on all other actors” in A.I., Mustafa Suleyman, cofounder of DeepMind and Inflection AI, told the Financial Times in an interview ..."
     publishedDateTime: 2023-09-04T14:07:00Z

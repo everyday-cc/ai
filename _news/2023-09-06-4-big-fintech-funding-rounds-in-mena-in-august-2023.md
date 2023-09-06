@@ -127,25 +127,7 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "The Fintech Revolution: Unraveling the Forces Reshaping Finance"
-    excerpt: "Step into the dynamic world of fintech, where disruptive innovations are reshaping the financial landscape as we know it. In a society constantly craving innovation and convenience, the rapid ascent of top fintech companies comes as no surprise."
-    publishedDateTime: 2023-09-01T17:56:00Z
-    webUrl: "https://techbullion.com/the-fintech-revolution-unraveling-the-forces-reshaping-finance/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 19
-  - title: "Unveiling the Top Fintech Trends: How Technology is Revolutionizing Financial Services"
-    excerpt: "Are you ready to embark on a journey into the future of finance? From mobile banking to advanced algorithms, technology has been transforming the way we interact with money and manage our finances. In this blog post,"
-    publishedDateTime: 2023-09-01T17:36:00Z
-    webUrl: "https://techbullion.com/unveiling-the-top-fintech-trends-how-technology-is-revolutionizing-financial-services/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 0
 
-secured: "l7zRpUz8/oxwhAt6m0rENlkv4a5k4PCMw7Qucxm/zp5pOCQYsMBuJ4hEmv2Csb0lefOdzOEnSrsCquCBuM3/bRGzKsvJEEdAhcFtCw4R1ipeOTyTDv3Br8JFhBk9wQ9maORNcOIoRWo88QuGjfTxJf8IrTZd5Pn13e5B8LEqZUzjNxN3HzV4/xifdzHv7fmD77ZhjZ51EvlVTWObZJ+WB/261v8G+RJBHq+3GLI8oUiZJ/wt70UoOJokqh6bsEKfloT3ahOY54DdCz1z/yOCSR9a6PAp9w6aUzObv13kKpAN9xyy3nRpvzD78TJnJ5IDWzCIHCWrlxw93KOrhn8Tj33G2vvA/188w7YyEGKKlg4=;97QiBe21B/DVLyU3vVZyqQ=="
+secured: "uc1YWPUjMZLU5QwHRweeOxbEhd5TOrfRYcHAeJCAona4NpUzRW9tSKegDwisXZjvjgxlwGDy1W24zsymDsseMTJTouvz4ho3sT6qqPy9C5tPLmcPmc9PpHD0wmtZhmZdWaZ/cm1WO0K9pZ1Ei/jcxwd5H1B76yPmqcd2ME7sDXFBRsMaehqhGH9h9/wDRYMkGzlWQqkArxqMqLYKWQ9T8+/0sbKV5jdhU9InUJ8O5iox1Rr3LZeecNqqjp/wHSwR698HV70Y2Hi3d4tCmx1lK1dfmUrH5X5aLxC2E77YsEt+OJSHH/h/2N779E/wh2FvoUjUSJT+laSAhk9qT1WnhCui/lRReR8+D3tluYXu+vi4n9G7jCXLRyPkgWHWaflawQXHBvRfmuTnGpSaMroasyElhkJXxmug623Wxfl6e8uMZYkHYlrMqo7dfKECaJKl9kCQhmokG/eBJXGdSDQWslHbQObkzmLWnj6dMByLD/VzkV5xVwLgXPmVWvb6GvQgwBLhIgrwjrtqhQ2zaVtQUg==;h46Bon3CxG+20fH9g+CPoA=="
 ---
 

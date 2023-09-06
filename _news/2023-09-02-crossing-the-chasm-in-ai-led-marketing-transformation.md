@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-cro
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-crossing-the-chasm-in-ai-led-marketing-transformation-3230292/lite/"
 type: article
 quality: 76
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -100,15 +100,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Impulse AI Revolutionizes Marketing and Content Creation With Cutting-Edge AI Solutions"
-    excerpt: "This tool is a game-changer.\" - Lawrence Schroth, Managing Director. Impulse AI offers various subscription packages tailored to different needs: - Essential Start - Free package with Curie (Good) Open AI Model, 36 AI Templates, 5 Images per month ..."
-    publishedDateTime: 2023-09-04T18:40:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/ab34213002/impulse-ai-revolutionizes-marketing-and-content-creation-with-cutting-edge-ai-solutions"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 26
 
 secured: "nXKrZdcoE3IlRZzkS649OPqHqWV3NeD/cvahlWgGXmf+EAlQuNQ7xFTut845jLIZ2m4eGWjR3xBoLkuq9pgCCDse3Rxd3SwRXxRNptEFNbJNZi0+ZoHlFtKrwMDXdU3AVSp/5hNH10HLPV/WwwXYLae8OYkj6IO4l4LgaGiIw5w6fxqvM+akqtB5STyUFDjRdd3hHvC8O1qksyy7wbIV4ildTRRDsm2CB+/n1usBkwDvklWcOLLiJer4Tvfi0PMt1SZv9+1KWhHjw/6WZ/+BqnpLrzvdEaAPHXtCGRb6uXb3A28YHUx3fLIuM3K+xaPQFNLemXEbCAxT286FIxM8vU9mxt6EmPvZFJWyIM/fHA0=;9F5NdPzjnLmHeWpmR5tBNw=="
 ---

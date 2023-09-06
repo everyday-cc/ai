@@ -99,16 +99,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Impulse AI Revolutionizes Marketing and Content Creation With Cutting-Edge AI Solutions"
-    excerpt: "This tool is a game-changer.\" - Lawrence Schroth, Managing Director. Impulse AI offers various subscription packages tailored to different needs: - Essential Start - Free package with Curie (Good) Open AI Model, 36 AI Templates, 5 Images per month ..."
-    publishedDateTime: 2023-09-04T18:40:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/ab34213002/impulse-ai-revolutionizes-marketing-and-content-creation-with-cutting-edge-ai-solutions"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 26
 
-secured: "EjGM0zomNuPBTxe7KTE/c4lM4leTKG4GMjcWmmiRSOZ8vTkEdlHgvFWeMW0mNvo5eTJM2gI47jKkpp4r9MZtmZ9i0shrEfjpJno4WUc85/UD3+J+YBiY6nWOMbRIPh0uZAQEYU3V5xhPrk8Mq6779JGEQ7MQUKPiZrVaGmi+HBc4WzY69hmz0FTZrmt8GXLSZR34ZFJvWRsU0CfJzYyZBHHzG4l3+JVHEPzgSRSPoBFcrxRbywEy6Mr6VbIL+WsHUVPAURMG41Cu1CVb2J60TtC5wdtwRIgObcWx4+RDSVQK+50txSKdKJI6Rpp5wrDUnQEUFSV0vIgBEjCNkCPp1UkNZe/ITwb7n1PJGwdhwAU=;hDhHGGHmx4BMrbd1XeEU/A=="
+secured: "T/uAGttQyD6Ji6ojVN+UuWp2t2FKpB4eAzLPxZOmTTB4fvOmDAX6ntxMgFyDViFskNp/Jwv3RdhU2/bap0c9vGIAgo98eEDzkHo7QsoET6wWS3Y8SE8g6kPeJr13roqvpwpwpJqI6UtL2uPIkCFHRa+6yOKaeOSeeYQ1vBi5o9yQVQzUqCPm8LEjYqlzCfDcplVIZ0tRqVtnQ0umuUf4PTL2mxJFUdvb+RnMFQNgDIdHlBPHjYEZ4SduBURY68z+cVeFBsFfnJhbpece50EtkVY1D+2qu/oO4qUhBrcb0hXDig/IhCLwYtiz/h8/oLbbwevV1cjiwpL8A7Cel+hlbUYG3ivYXHuKJ0dJOrc88TVlQTvvxUYsb0uV41LCAkNM+1Sjp7UtZWz5OnzCwp72JZ3ki3f5KKnbqGFgqwOBOUrwf1GOEsOaAd/kszVRf2fojTshU+T9Mk+rRBx3nN4xDdeWiwZu9kI3//u9/ynx69OiQje/OxfT3BbQw+PZ9lOvpGRkNZUqmirwugKtJTyShw==;Yo9KR6O3mEZzhNK2JjJbSQ=="
 ---
 

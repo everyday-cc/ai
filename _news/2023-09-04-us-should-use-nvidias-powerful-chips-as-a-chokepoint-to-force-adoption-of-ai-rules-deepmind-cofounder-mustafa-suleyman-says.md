@@ -57,15 +57,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Google DeepMind co-founder says US should enforce AI standards for ethical use"
-    excerpt: "The ethical side of this technological titan has gained attention in a time when artificial intelligence (AI) is developing at a dizzying pace. The co-founder of DeepMind, Mustafa Suleyman, recently presented a strong case for the need for the United States to require users of Nvidia's AI chips to make ethical commitments."
-    publishedDateTime: 2023-09-01T18:05:00Z
-    webUrl: "https://techstory.in/google-deepmind-co-founder-says-us-should-enforce-ai-standards-for-ethical-use/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 47
 
 secured: "XuF437Wl0qI2B1evvdZXTbeC6PvxH1eBqN7XSfunFXU+kVQO5I0WzWnl+KonWsP7s9z6OxoUci6M7LM0v795ZVIMysGGkArGA7NyjxyVxv0ZlHpdgQ6xh7MXeIkt/CqY/wfN2zTuLqPM/rkc3X4NYzRYSh+RSyR9ERhvjgpCYvtlO/DL5ZdXq9CXmkKXBg5k2vPSHd2gz/OELAJ81+LYQfL+vc/mmWBfnO8MCF6TOZWCzDtlYYbNcaEOgOLVbgJb7GxVEED10/FiJC4+yvw70QaOanzbqZNW/6e5tBz+4oIjVwRwYJZYiJp3cphajj8XrTDokWCgyj/6lhMCfPTuCXJUQJcWBwPs8UIehTCVJ9dQbGUSnEm8gIOp+R58UFzPvHDDFL9s/4QoDDdBOCuuyCK1jXG/q7dcaF6gA3ZdsDZvzBQZDdtv8lmV68Br02hcwR+xi+U/2prOkSSODzkzvI7GyEIq0o6gTegdSROOp78Ls2yMiTlGOgjRifO3Ld3ZGfIhIrcxB6fJGGdQgNwPmQ==;Sb/LWCCljncRP42uFVKS9Q=="
 ---

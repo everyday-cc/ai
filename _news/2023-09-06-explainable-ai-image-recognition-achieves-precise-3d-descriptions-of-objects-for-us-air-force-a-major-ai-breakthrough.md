@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "PII leaked after Sourcegraph, an AI-driven service for code development, is hacked"
-    excerpt: "An unknown hacker gained administrative control of Sourcegraph, an AI-driven service used by developers at Uber, Reddit, Dropbox, and other companies, and used it to provide free access to resources that normally would have required payment."
-    publishedDateTime: 2023-09-01T18:17:00Z
-    webUrl: "https://arstechnica.com/security/2023/09/pii-leaked-after-sourcegraph-an-ai-driven-service-for-code-development-is-hacked/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 41
   - title: "Some CT schools are using artificial intelligence for student tutoring"
     excerpt: "CT is partnering with tech company Varsity Tutors, which uses AI to connect students with tutors and design tutoring lesson plans."
     publishedDateTime: 2023-09-06T09:00:00Z

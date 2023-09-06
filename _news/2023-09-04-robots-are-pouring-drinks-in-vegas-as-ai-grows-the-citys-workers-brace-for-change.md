@@ -2,26 +2,26 @@
 category: news
 title: "Robots are pouring drinks in Vegas. As AI grows, the city's workers brace for change"
 excerpt: "Workers in Las Vegas have been watching automation and technology inch into their workplace. Now with AI, the city is preparing to adapt its service-heavy tourism economy."
-publishedDateTime: 2023-09-04T08:59:00Z
-originalUrl: "https://kuow.org/stories/robots-are-pouring-drinks-in-vegas-as-ai-grows-the-city-s-workers-brace-for-change"
-webUrl: "https://kuow.org/stories/robots-are-pouring-drinks-in-vegas-as-ai-grows-the-city-s-workers-brace-for-change"
+publishedDateTime: 2023-09-04T14:00:00Z
+originalUrl: "https://www.wuwm.com/economy-business/2023-09-04/robots-are-pouring-drinks-in-vegas-as-ai-grows-the-citys-workers-brace-for-change"
+webUrl: "https://www.wuwm.com/economy-business/2023-09-04/robots-are-pouring-drinks-in-vegas-as-ai-grows-the-citys-workers-brace-for-change"
 type: article
 quality: 47
 heat: 47
 published: false
 
 provider:
-  name: KUOW
-  domain: kuow.org
+  name: WUWM
+  domain: wuwm.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://kuow-prod.imgix.net/store/34664add4ad217e948221812c996a011.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
-    width: 837
-    height: 628
+  - url: "https://npr.brightspotcdn.com/dims4/default/28ca57c/2147483647/strip/true/crop/3420x1796+0+385/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F09%2F01%2Fimg_2227-e4ff9eafcd401e007a1ed90c4b090f30f5244767.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 2565
         isCached: true
 
-secured: "sO0r4RswrCnuWF+Cn0PcWAaemq4SgwN6eyuQOPnPuu9BFWZQ+FsmAJewhelD+btjT9UA/QzuD3vl86YQ0mVPVVC0nwbjNw6oFB/n/pJm4y8ReCVOlRCQEYlHuLPh0/V6Vs3PufjJfR/RxCVGiSDy74ueyJOzZYbxsZxqC/UxRyWBdjjMR4SSY8okdYDFGBzbX1nb65337I7o1uchUVcHNWPt20ZxSoc0NJU8gV9fhgbQtmETGjJHw1idIzPkrFInCi0K6xgIyl1Aq2o1/x0EqWIJd6S0bgz/mtjsFd5H/gqyNoypeifupd86gG6rO9I3wiUOGWRAoshsO8mQSo6wYg8YE6ONbjxIFS5GM3cTybQc9i4bOacCL0puS1eVVb0Y2RWHtr/pqvStpObDzQI10y9O0ixWZk71rS9lB5NtKYe9VHlGJCHEse6DB0iayd0yqdjQFAlqJMr5aMGwCE2qUBWj9tfh0Q26r93rG2L5pxAlsvXxd2aJgeAwkhtthaAoQ379lqoKMRJGVDD7HqUazA==;AZSAX786rvWJwc2A6s26BA=="
+secured: "nsqvLJ3pmnx8Q1sej/lLJP3mf8+toneuhx+0Dr4ORFpgVdC5sC+LTFpBKNbm5VIAarF20+LMQr25wX65mnkkoxrgsh4TenxL7LOQ2F9RKl6hqiVyeAs/30AW1jpdXV5WMwlg4hxNvdn4rBVOO9/bWxmzJLkcisS6MUQQjbgxEQs3Ru6QpCL2IW19TSiv/zoGfi3Zjb00RI/wLrWYVWuGYL6nKE6EWCVlqRRmLhGfUZ99Xr3f2WpNnbTzvN2aKcgtGJ2kxi/ESC9gWEOUZsBPlQWKxCnbEIHBwj5TlKywTEUWvrbvTbuydlEqnqkdIV1jiqoqWqbRvZ47VTprppBT2Mbg8fD4RpW4/DcJoLViy7Y=;ZaPRnfI919pQ/WsLyUTwtw=="
 ---
 

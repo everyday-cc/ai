@@ -7,7 +7,7 @@ originalUrl: "https://global.chinadaily.com.cn/a/202309/04/WS64f510d9a310d2dce4b
 webUrl: "https://global.chinadaily.com.cn/a/202309/04/WS64f510d9a310d2dce4bb3a58.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,24 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Dihuni Ships GPU Servers for Generative AI and LLM Applications"
-    excerpt: "Dihuni has enabled a new suite of new GPU servers with an online configurator for customers to easily select GPU, CPU and other configuration options. These GPU servers can be preloaded with operating system and AI packages including Pytorch,"
-    publishedDateTime: 2023-09-01T20:58:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/09/01/9873897.htm"
+  - title: "AI Implementation: Moving From Buzz To Tangible Business Solutions"
+    excerpt: "As a result, today's leaders need to inform themselves about the various technologies within the field of artificial intelligence, including natural language processing and machine learning. Moreover, they have to become knowledgeable in a balanced way ..."
+    publishedDateTime: 2023-09-06T11:35:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/06/ai-implementation-moving-from-buzz-to-tangible-business-solutions/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/06/ai-implementation-moving-from-buzz-to-tangible-business-solutions/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/06/ai-implementation-moving-from-buzz-to-tangible-business-solutions/amp/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
-  - title: "AI’s impact on education: Delaware professors reflect on its disruptive power, and its potential"
-    excerpt: "Professors and students weigh in on fears that ChatGPT will diminish student’s ability to think critically and hinder the process of education."
-    publishedDateTime: 2023-09-05T12:29:00Z
-    webUrl: "https://whyy.org/articles/delaware-professors-artificial-intelligence-higher-ed-chatgpt/"
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6310bb0b05f088011ae4f55d/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Impulse AI Revolutionizes Marketing and Content Creation With Cutting-Edge AI Solutions"
+    excerpt: "This tool is a game-changer.\" - Lawrence Schroth, Managing Director. Impulse AI offers various subscription packages tailored to different needs: - Essential Start - Free package with Curie (Good) Open AI Model, 36 AI Templates, 5 Images per month ..."
+    publishedDateTime: 2023-09-04T18:40:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/ab34213002/impulse-ai-revolutionizes-marketing-and-content-creation-with-cutting-edge-ai-solutions"
     type: article
     provider:
-      name: WHYY
-      domain: whyy.org
-    quality: 23
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 26
 
 secured: "YNYhOZwXdLpXypqGxfCwf+xQeh41ptxZ/FFpgyhWPBtW+ZYUzpCkyUCdxTmEPybm3uggPOIiACgWzlA7595BMCv0ojKSQhY1Zz27G2zxC3pDXppBjCfPUv0cwWiAU/lVFwWBhOOl5oLKkdjgdzUoFtXWzJ+HDpg8NC0eACIZvuOu+xtAc2qPNPqwks6mbovd6jqJdXNOurpMN/lCUvGCyVU1iqTc4LmSSIB+tBEa3Y0ZfNlabxPPSnJ913Zmt8MwFSjv4++719rOhZuqqTVGeYINI4llLCIY/j9bRX5CLdOCSIOF7ii1ernrrVc9gtjGrn9qoLmvG0Dqp2ezTDekYr+YRgOxqsZk+zAY5ELoveFq7SpW0sERo1ylN1WkbWVr5ABC7wydu7e2XxvUGwH6J/v5x2iiEZ9pjhN2cX47+SR7NwTWVtUs1vcLxdo1EctjkDjRhZ+onBoLKchIyfYf+wCeWYk8nVv6FUAuNqLQ0C29T5lIqyZTKNdSL7QqZ9VueFVi+dbSQJvArhzch2+xxw==;IkohEs1pasiQz1RI4BXH9w=="
 ---

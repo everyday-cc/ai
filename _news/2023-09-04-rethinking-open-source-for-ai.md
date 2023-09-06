@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3706091/rethinking-open-source-for
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706091/rethinking-open-source-for-ai.amp.html"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "PII leaked after Sourcegraph, an AI-driven service for code development, is hacked"
-    excerpt: "An unknown hacker gained administrative control of Sourcegraph, an AI-driven service used by developers at Uber, Reddit, Dropbox, and other companies, and used it to provide free access to resources that normally would have required payment."
-    publishedDateTime: 2023-09-01T18:17:00Z
-    webUrl: "https://arstechnica.com/security/2023/09/pii-leaked-after-sourcegraph-an-ai-driven-service-for-code-development-is-hacked/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 41
   - title: "Some CT schools are using artificial intelligence for student tutoring"
     excerpt: "CT is partnering with tech company Varsity Tutors, which uses AI to connect students with tutors and design tutoring lesson plans."
     publishedDateTime: 2023-09-06T09:00:00Z

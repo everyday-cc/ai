@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/chuckbrooks/2023/09/04/artificial-intel
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2023/09/04/artificial-intelligence-transforming-healthcare-cybersecurity-and-communications/amp/"
 type: article
 quality: 106
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -51,15 +51,6 @@ related:
         width: 1440
         height: 500
         isCached: true
-  - title: "UK’s NCSC Warns Against Cybersecurity Attacks on AI"
-    excerpt: "U.K.’s National Cyber Security Centre publication on AI details attacks that might target organizations implementing or developing ML models."
-    publishedDateTime: 2023-09-01T18:36:00Z
-    webUrl: "https://www.techrepublic.com/article/uks-ncsc-warns-against-cybersecurity-attacks-on-ai/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 49
   - title: "Global DevSecOps Report on AI Shows Cybersecurity and Privacy Concerns Create an Adoption Dilemma"
     excerpt: "GitLab survey finds organizations are optimistic about AI, but AI adoption requires attention to privacy and security, productivity, and"
     publishedDateTime: 2023-09-05T21:06:00Z

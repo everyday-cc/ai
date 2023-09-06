@@ -127,24 +127,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "The Fintech Revolution: Unraveling the Forces Reshaping Finance"
-    excerpt: "Step into the dynamic world of fintech, where disruptive innovations are reshaping the financial landscape as we know it. In a society constantly craving innovation and convenience, the rapid ascent of top fintech companies comes as no surprise."
-    publishedDateTime: 2023-09-01T17:56:00Z
-    webUrl: "https://techbullion.com/the-fintech-revolution-unraveling-the-forces-reshaping-finance/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 19
-  - title: "Unveiling the Top Fintech Trends: How Technology is Revolutionizing Financial Services"
-    excerpt: "Are you ready to embark on a journey into the future of finance? From mobile banking to advanced algorithms, technology has been transforming the way we interact with money and manage our finances. In this blog post,"
-    publishedDateTime: 2023-09-01T17:36:00Z
-    webUrl: "https://techbullion.com/unveiling-the-top-fintech-trends-how-technology-is-revolutionizing-financial-services/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 0
 
 secured: "7+ztdO2NKH3U4rwyiVbzVx4kRPs8HSSFjIn+G6RBgEqHwfSqyXoDCvS69b/NljHwECFXsoYfXxQlvgIoABrnnH5EXdnjNFzl8RLKHjG/+umFQrXQNs4BvEHBqe/48SQ+vuHACNLVUXbu1jZHRwVE9yM59hlEzPGHcjCnxCYEGdkT/1ed6DQX93qu8EAp5GhDuE0Ed4oneneEonWlI4b5AJ36W+vV9pA6+hZ17PEsM8t7nPEwGkSIzN4QMab8aIgRysLXgmvAXGzxAQhEDhrvNnK89XvHmFPVvRH32G52AjVkq0W8kArdfyh9jIg/OAMz5/2F8oBp7Oh1EX7X7XizbCGuItcrSHAC99idIxowXu+3/qlJTw4t2zrztVmqEs1OewBaxDhlb4Cr09cJ+FdSPdSsW1dLB/CSMlrrCp3EJsUiWEXD/UkHC0O//RNSPYyfF6toz6nnDRl3aul12KEZDLI8Kblup1wddbn1FzXO7j4v+nuNJZbeoCveDR3D/yUc7S5vD07S8ZbRcM5UDYNo1g==;D5A/+LS1Y6QPBr6BewKusg=="
 ---

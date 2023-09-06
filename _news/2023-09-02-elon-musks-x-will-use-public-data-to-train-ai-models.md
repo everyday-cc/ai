@@ -30,21 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "X’s privacy policy confirms it will use public data to train AI models"
-    excerpt: "X's recently updated privacy policy informed its users it would now collect biometric data as well as users' job and education history, Bloomberg spotted"
-    publishedDateTime: 2023-09-01T17:35:00Z
-    webUrl: "https://techcrunch.com/2023/09/01/xs-privacy-policy-confirms-it-will-use-public-data-to-train-ai-models/"
-    ampWebUrl: "https://techcrunch.com/2023/09/01/xs-privacy-policy-confirms-it-will-use-public-data-to-train-ai-models/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/01/xs-privacy-policy-confirms-it-will-use-public-data-to-train-ai-models/amp/"
+  - title: "Inside Elon Musk's Struggle for the Future of AI"
+    excerpt: "But he later agreed that I could use what he said about AI in my book. He and Zilis sat cross-legged and barefoot on the poolside patio with their twins, Strider and Azure, now 16 months old, on their laps. Zilis made coffee and then put his in the ..."
+    publishedDateTime: 2023-09-06T11:07:00Z
+    webUrl: "https://time.com/6310076/elon-musk-ai-walter-isaacson-biography/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: Time
+      domain: time.com
+    quality: 71
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-1.jpg?resize=1200,675"
-        width: 1200
-        height: 675
+      - url: "https://api.time.com/wp-content/uploads/2023/08/elon-musk-ai-isaacson-01.jpg?quality&#x3D;85"
+        width: 2400
+        height: 1600
         isCached: true
   - title: "How to stop Meta from using your data to train AI"
     excerpt: "Meta is betting big on AI, just like it tried to bet big on the Metaverse all those months ago. This means the company will use data that it has scraped and received from outside sources to help train its AI."

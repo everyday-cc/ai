@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2023/09/03/transformers-revolu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/09/03/transformers-revolutionized-ai-what-will-replace-them/amp/"
 type: article
 quality: 93
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -33,6 +33,15 @@ images:
     isCached: true
 
 related:
+  - title: "DESTINIA REVOLUTIONISES THE SALE OF TOURISM SERVICES WITH AI"
+    excerpt: "Today, the future is here! On its innovative Destinia Beta platform, an ecosystem dedicated to research and development aimed at continuous evolution and growth, Destinia is introducing Desta, an AI solution designed to revolutionise the user experience of ..."
+    publishedDateTime: 2023-09-06T11:37:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/destinia-revolutionises-the-sale-of-tourism-services-with-ai-1032608457"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "How the rise of AI is revolutionising the FinTech industry"
     excerpt: "In that sense, the role of AI in revolutionizing how financial institutions like non-banking financial companies (NBFCs) are offering banking-like services is proving to be extremely important. Not only is AI helping new-age financial institutions in automating manual processes such as data entry and customer request management,"
     publishedDateTime: 2023-09-03T12:30:00Z

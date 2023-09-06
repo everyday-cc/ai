@@ -290,15 +290,6 @@ related:
       name: The Lancet
       domain: thelancet.com
     quality: 4
-  - title: "Kim Beazley wants Australians to vote Yes for an Indigenous voice to parliament to show respect"
-    excerpt: "Kim Beazley remembers Indigenous boys and girls forcibly separated from their parents coming to the family home in Perth for a meal in 1950s and 60s, and shaping his belief in the ­dignity, opportunities and rights that should be afforded to the First Australians."
-    publishedDateTime: 2023-09-01T17:28:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/politics/kim-beazley-wants-australians-to-vote-yes-for-an-indigenous-voice-to-parliament-to-show-respect/news-story/ceb18a4047e7aadfb17b764a5c700796"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 0
 
 secured: "0Fk5CFg9Eiilf+yw3OQ6EzCFpcSArBDlY3LM+fSAj/zNyVqkFZeJAfa+C/EZp1T3uAd5M8shS6oVGBJ5l0vcHCivK2RDVwLVhF/HlW7MWpArVL9vwRWUn6mIUSOZo7qnHDQJXfhZ9lRuoosYoHW2UW5Z2qinzhypBu1v631yhO6qjkR6FI8OFd4CapRFOmvpuno3kLb/fyQ3vpNWRjEp0NTZz3HPUhHnHe3tXQpDGQ3b32PKuE5zeqT/akdW6mtydADmU3QkuKH0Kr/8ndJJ3kHo2P2LrfEF8PhA5kXX9Zy4Ea35Pu8E85d3Ci7aJs4Nm0ZeQM5jw2h4qRZQMHl1Etok/bCTE7S+H03O3vkiUMH7Rvuhw9wCXIpWlC9ycEOdy0P23u9/y7XMGk+1PBQuUcz/GFd31a9Cwbh+HtLreSvMn+19gQ/3j8slUMU39dDfp54H9ry8m1ha4bdBftG/g5UfaME0ZSrQeI99YTPXjvN5KwD2+UnC9K+XllJipHtZj5WzTIZsDeWSZaw32mVPtg==;fH74zPAbmsLlNQgKXP7uww=="
 ---

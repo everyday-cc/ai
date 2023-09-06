@@ -55,15 +55,6 @@ related:
         width: 1440
         height: 500
         isCached: true
-  - title: "UK’s NCSC Warns Against Cybersecurity Attacks on AI"
-    excerpt: "U.K.’s National Cyber Security Centre publication on AI details attacks that might target organizations implementing or developing ML models."
-    publishedDateTime: 2023-09-01T18:36:00Z
-    webUrl: "https://www.techrepublic.com/article/uks-ncsc-warns-against-cybersecurity-attacks-on-ai/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 49
   - title: "Employing Generative AI: Unpacking the Cybersecurity Implications of Generative AI Tools"
     excerpt: "It’s fair to say that generative AI has now caught the attention of every boardroom and business leader in the land. Once a fringe technology that was difficult to wield, much less master, the doors to generative AI have now been thrown wide open thanks to applications such as ChatGPT or DALL-E."
     publishedDateTime: 2023-09-05T18:40:00Z

@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "PII leaked after Sourcegraph, an AI-driven service for code development, is hacked"
-    excerpt: "An unknown hacker gained administrative control of Sourcegraph, an AI-driven service used by developers at Uber, Reddit, Dropbox, and other companies, and used it to provide free access to resources that normally would have required payment."
-    publishedDateTime: 2023-09-01T18:17:00Z
-    webUrl: "https://arstechnica.com/security/2023/09/pii-leaked-after-sourcegraph-an-ai-driven-service-for-code-development-is-hacked/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 41
   - title: "Explainable-AI Image Recognition achieves precise 3D descriptions of objects for US Air Force, a major AI breakthrough"
     excerpt: "Z Advanced Computing, Inc. (ZAC), the pioneer CognitiveExplainable-AI (Artificial Intelligence) (Cognitive XAIor CXAI) software startup, has developed the \"Describer\""
     publishedDateTime: 2023-09-05T17:03:00Z
@@ -67,6 +58,6 @@ related:
         height: 1043
         isCached: true
 
-secured: "4fgM1CQQpIvSTeEbp8uQUJ622dfDcZt887lpW7ZydwiV9gJ2iBLksmH015zBcx9FT4Y23drNabYvXSeEfzobbtXCWpddRYxtUgoAVlbayw9uAxg2e0PdNxH8YLXj6ZbakcbgK2gWzKt46SvjVzmDL2U340XJgxFdJacfRTXcMiin4nEDYQWjIU7WXSGq4NM0XOPitwjZFJek+tc7KU4gMyiSr+MOTagl0a+/YKh5WOxONKSodqt9sfyU+En5N0j2RtP4uwpyYP/dVqLEpu1VIyIt6ORt/Ifyuw0ci7/kPEg/mXkSmyCIFMSuH4qQyDjpKu1kUhWsD2lJdew9sfaaM4fZbKh3sLEzfnGdY65QsEY=;/3xItfDuohzo8aps3nVbnQ=="
+secured: "bHyc/sW/MPIDYXmRMgxJCstL1iV/K3TLxZPe1RpwzRCjgGKqvQfSKAQe6WbKxVOyjRfgB3N0ymjkWUk9oP9MHkIH1BS8gtjlPLiuJLlbbdA+eseLiL7S7MUUJfsWsITzwuaUlpUccITDDn2sarC7s/Osc1j9Ut25G2RCzUqJ5chaO98sJHRm6WYlOZtF/aTpm1y2mfRWpG15GLQWiMbwnMbgq/jYaDDqokhMA8qZhX7S6LNgxovEpNmeM4EO7zW15gaNIWWEgP5Q8M2P3xNXH/W5L0P1wO4WI7nJ1Snw42j6/3KZSUUBEv6Ln98DQYrWHutHMQmyeL3EGo6MyNifGCW6zId9KAocwkPXDQD+Ptgj58cj1xcG2q+OAt8eBmSTGVR02hm4ssDJUcvfGP4na1DiX4V2Y5ST/YZ+uYKCFQh3Fsx7Hn5+Jg1whhDv1q941A+sqWpQ2OaWvvBoy36vRDlaqgxp/z/3Mfe5wCjHhoulQY28mxwJf0PXdPXZS5yykbHlQY7GW4v8As4+5JGPhw==;w8H/iQfVtXjNewOi0NK2mg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/tech/computing/chatgpt-glossary-41-ai-terms-t
 webUrl: "https://www.cnet.com/tech/computing/chatgpt-glossary-41-ai-terms-that-everyone-should-know/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -22,19 +22,21 @@ topics:
   - AI
 
 related:
-  - title: "The 25 most important AI words everyone should know"
-    excerpt: "Most acknowledge the growing impact of artificial intelligence worldwide, but only a few understand it. People usually hear terms like “chatbots,” “machine learning,” and “large language"
-    publishedDateTime: 2023-09-04T02:04:00Z
-    webUrl: "https://technology.inquirer.net/127538/most-important-ai-words"
+  - title: "Q&A: What ChatGPT Enterprise means for AI business adoption"
+    excerpt: "ChatGPT Enterprise will likely spur greater adoption of generative AI technology by addressing two of the main concerns businesses have: security and privacy. Claire Trachet, CEO of tech business advisory firm Trachet,"
+    publishedDateTime: 2023-09-06T06:59:00Z
+    webUrl: "https://www.computerworld.com/article/3706049/qa-what-chatgpt-enterprise-means-for-ai-business-adoption.html"
+    ampWebUrl: "https://www.computerworld.com/article/3706049/qa-what-chatgpt-enterprise-means-for-ai-business-adoption.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3706049/qa-what-chatgpt-enterprise-means-for-ai-business-adoption.amp.html"
     type: article
     provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 41
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
     images:
-      - url: "https://technology.inquirer.net/files/2023/09/ai-words.png-620x349.png"
-        width: 620
-        height: 349
+      - url: "https://images.idgesg.net/images/article/2023/07/shutterstock_2284126663-100943536-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Is there a ChatGPT app?"
     excerpt: "Powered by the advanced GPT-3.5 architecture, it represents a remarkable milestone in the field of natural language processing. ChatGPT has been trained on a diverse range of internet text, equipping it with the ability to engage in coherent and ..."

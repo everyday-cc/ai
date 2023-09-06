@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3705493/how-to-get-a-handle-on-sha
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705493/how-to-get-a-handle-on-shadow-ai.amp.html"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "How The Gene of AI Dives into Human Problems"
+    excerpt: "True hard sci-fi examines human problems through the lens of new tech. This is The Gene of AI to a tee - here's why."
+    publishedDateTime: 2023-09-04T11:00:00Z
+    webUrl: "https://otakuusamagazine.com/gene-of-ai-themes/"
+    type: article
+    provider:
+      name: Otaku USA
+      domain: otakuusamagazine.com
+    quality: 39
+    images:
+      - url: "https://otakuusamagazine.com/wp-content/uploads/2023/09/ousa_ai_hero.png"
+        width: 848
+        height: 478
+        isCached: true
 
 secured: "jR4qxKPmH+fUrDSKurv8lDvciWmMeHTDOx1s5mhrxnq6GEBGTstTfiUo1/QOV4dO97yONnDMv4KK6hs+UZuV8xZeRNl3LTI3ncweTas6dYg/Y8zxCoaywGOYd6BV9d73FDQIHXfXkN7d/+Eb1tnNmw0vZaGYaU/gfUCgSL0Pjc/VZ+CAyC5qPpqyZVtrS/paTYZPOa+jqHSqCNRyeHNnAADjDCUYlEuNsub04NTeKdzWP60MHbzdZ3afj4DifwpPwYAWJdki48UYYGoxWVXk7Ssy4dpq43U4soGdAEkyBA4/jZKxbcOGirYBVZ9f8H6UbShy8y3ZzgdthSz5jtCnl5/plDpLQeBclf8hAT0Kc2mQHtY4NzFrF2SW2IAgWx3tnLWS681gANRTQHYqfhDel4lN7bfObvAa6/ZU905FGRnmSVNNMmT9jSOATv6TGjNkxfvvGxP77PJHAFlnulsMdEQH+wcks+8nZt53JiWrwpq/7gy8QvEKUfrP9aTIpckedItxqpyX6W208COq/dn/fg==;lja/2kAb8lMbUG9DMbiqug=="
 ---
