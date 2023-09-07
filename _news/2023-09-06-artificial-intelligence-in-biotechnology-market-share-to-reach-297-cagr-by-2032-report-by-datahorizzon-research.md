@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1107017956/Artificial-Intelligence-In-Biotechno
 webUrl: "https://menafn.com/1107017956/Artificial-Intelligence-In-Biotechnology-Market-Share-To-Reach-297-Cagr-By-2032-Report-By-Datahorizzon-Research"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AI in Healthcare
   - AI
-
-related:
-  - title: "Catheter Market: Continuous Expansion Anticipated with a Predicted CAGR of 8.7% to Reach USD 43.63 Billion by 2032"
-    excerpt: "For instance, on April 13, 2022, researchers from the Massachusetts Institute of Technology’s Lincoln Laboratory unveiled an ultrasound tool guided by Artificial Intelligence (AI ... signals and administering therapy for the treatment of Ventricular ..."
-    publishedDateTime: 2023-09-05T10:25:00Z
-    webUrl: "https://www.medgadget.com/2023/09/catheter-market-continuous-expansion-anticipated-with-a-predicted-cagr-of-8-7-to-reach-usd-43-63-billion-by-2032.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 0
 
 secured: "0EeF59DAfthOP+RPH9A/Z1/sNMEusf4IFBJSG18VV5/4sDqJEXzlzonWUehQNE3YaqDtdEs7jeCbsKE1OdA9IHJYQrtVqv/idclBU7+5L9ciFPPr8HbTVyND+ZHhR/LSInoCOcIumbxEQWgV8TGfQ4bLSpa5P99hrnk29lr2WQmgSRH+3bIatbCzxH7BNrvinjNdwF7WKXKi7+hscJ2iGbbGT/Ata9vt7GuZKBlIjJZ15eIob3sWBoHh37EqGTWLjF6jR8huHhRfvxHLIJydTSnqh2hhf6ktAplIRD6MNbm33n5AGnFgyAIIO27XEs5WKqJiGllYkBnzKvlTJQgQ/aLoToy/yCgKufZa+g+rJKU=;Xr8hBtmOs3ez/BjPByo8eA=="
 ---

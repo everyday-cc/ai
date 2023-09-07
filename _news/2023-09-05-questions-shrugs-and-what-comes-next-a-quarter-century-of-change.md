@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/inside-google/message-ceo/google-25th-birthday-s
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/inside-google/message-ceo/google-25th-birthday-sundar-pichai/amp/"
 type: article
 quality: 94
-heat: 95
+heat: 94
 published: true
 
 provider:

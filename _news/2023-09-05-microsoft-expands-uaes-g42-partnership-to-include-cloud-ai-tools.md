@@ -81,6 +81,20 @@ related:
         width: 941
         height: 627
         isCached: true
+  - title: "AI chip startup d-Matrix raises $110 mln with backing from Microsoft"
+    excerpt: "Silicon Valley-based artificial intelligence chip startup d-Matrix has raised $110 million from investors that include Microsoft Corp at a time when many chip companies are struggling to raise cash. Nvidia's dominant position in the AI chip market due to a ..."
+    publishedDateTime: 2023-09-07T02:26:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/devices/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103448547"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 71
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-103448547,imgsize-24318,width-1200,height=765,overlay-ettelecom/devices/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "Microsoft Partners With G42 To Strengthen Cloud, AI Services In UAE"
     excerpt: "Microsoft aims to add more than $39 billion and about 100,000 jobs to the UAE economy over the next four years."
     publishedDateTime: 2023-09-06T11:23:00Z

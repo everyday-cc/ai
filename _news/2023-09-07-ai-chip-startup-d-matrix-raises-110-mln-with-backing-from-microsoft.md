@@ -1,27 +1,28 @@
 ---
 category: news
-title: "Silicon Valley AI chip start-up d-Matrix raises $150m in Temasek-led funding round"
-excerpt: "SAN FRANCISCO - Silicon Valley-based artificial intelligence (AI) chip start-up d-Matrix has raised US$110 million (S$150 million) from investors that include Microsoft Corp at a time when many chip companies are struggling to raise cash."
-publishedDateTime: 2023-09-06T10:47:00Z
-originalUrl: "https://www.straitstimes.com/business/companies-markets/silicon-valley-ai-chip-start-up-d-matrix-raises-150m-in-temasek-led-funding-round"
-webUrl: "https://www.straitstimes.com/business/companies-markets/silicon-valley-ai-chip-start-up-d-matrix-raises-150m-in-temasek-led-funding-round"
+title: "AI chip startup d-Matrix raises $110 mln with backing from Microsoft"
+excerpt: "Silicon Valley-based artificial intelligence chip startup d-Matrix has raised $110 million from investors that include Microsoft Corp at a time when many chip companies are struggling to raise cash. Nvidia's dominant position in the AI chip market due to a ..."
+publishedDateTime: 2023-09-07T02:26:00Z
+originalUrl: "https://telecom.economictimes.indiatimes.com/news/devices/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103448547"
+webUrl: "https://telecom.economictimes.indiatimes.com/news/devices/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103448547"
 type: article
-quality: 48
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: The Straits Times
-  domain: straitstimes.com
+  name: telecom.economictimes.indiatimes
+  domain: indiatimes.com
 
 topics:
   - AI
   - AI Hardware
+  - Microsoft AI
 
 images:
-  - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/09/06/btchat20230906.jpg"
-    width: 860
-    height: 573
+  - url: "https://etimg.etb2bimg.com/thumb/msid-103448547,imgsize-24318,width-1200,height=765,overlay-ettelecom/devices/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft.jpg"
+    width: 1200
+    height: 765
     isCached: true
 
 related:
@@ -84,20 +85,6 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2023/09/06/d-matrix_logo.jpg?width=1200&height=800&fit=crop"
         width: 941
         height: 627
-        isCached: true
-  - title: "AI chip startup d-Matrix raises $110 mln with backing from Microsoft"
-    excerpt: "Silicon Valley-based artificial intelligence chip startup d-Matrix has raised $110 million from investors that include Microsoft Corp at a time when many chip companies are struggling to raise cash. Nvidia's dominant position in the AI chip market due to a ..."
-    publishedDateTime: 2023-09-07T02:26:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/devices/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103448547"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 71
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-103448547,imgsize-24318,width-1200,height=765,overlay-ettelecom/devices/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft.jpg"
-        width: 1200
-        height: 765
         isCached: true
   - title: "Microsoft expands UAE's G42 partnership to include cloud, AI tools"
     excerpt: "\"With data privacy, security, and compliance as our core priorities, we have a unique opportunity to help organizations responsibly innovate,\" Microsoft Chief Commercial Officer Judson Althoff said"
@@ -175,6 +162,20 @@ related:
         width: 930
         height: 620
         isCached: true
+  - title: "Silicon Valley AI chip start-up d-Matrix raises $150m in Temasek-led funding round"
+    excerpt: "SAN FRANCISCO - Silicon Valley-based artificial intelligence (AI) chip start-up d-Matrix has raised US$110 million (S$150 million) from investors that include Microsoft Corp at a time when many chip companies are struggling to raise cash."
+    publishedDateTime: 2023-09-06T10:47:00Z
+    webUrl: "https://www.straitstimes.com/business/companies-markets/silicon-valley-ai-chip-start-up-d-matrix-raises-150m-in-temasek-led-funding-round"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 48
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/09/06/btchat20230906.jpg"
+        width: 860
+        height: 573
+        isCached: true
   - title: "G42 and Microsoft unlock new opportunities for digital transformation with joint sovereign cloud and AI offering"
     excerpt: "Microsoft's sovereign cloud offering public sector and regulated industries to use new platform capabilities for securing access to the latest cloud and AI features available on Azure public cloud and helping local privacy and regulatory requirements."
     publishedDateTime: 2023-09-05T16:43:00Z
@@ -226,6 +227,6 @@ related:
       domain: proactiveinvestors.com
     quality: 17
 
-secured: "mbV00uBwKZmz+qVkdzqk+qKcImtk9QVY5IqPz/Y3KxlKAgdP5Deyout8lSHiq+px4GXa1QN4Zj3CMoaUC3Cfw75ag210L7iahSfxxUSVM6csO3AGsvtf+J33Z5EG8huT9pyriXDKKE4AqrIhVMNFcgeGC+6LwJV0nWA4aXwaEmgAGELjSPsbYsh7lET1NIRKrL2EbZIrlCcviB+Il+lUDhtPCpyi6F91m7KJ6uVo4AmXF9jA2dB0fkFxo5YGLJqZw2lkrEypJZaCPO9Mjzy0M1GFo6B2hOiu789dN2+CAKqD/ufUrmsnDm/pAQ2/p8sj98DKsvtRa+2t4CI4Oq0gUmk3O8klHrNqabKxj4lXHalme8bYS5EmBDenpVycBrcuA+DCYpjKS9xwrHR3U8WNAy20EfVQOJMKeltgbBa69Vq7H9zYrrDQI59C/SBZ3OgJzdFjulfXpAdpbghceTPLNxQ1YlOmDj+GDtLMyuUHOOFlmSNAzi8RNgDXZqRVYoLiokwzh1Vql+aS6Hl8J2F0nQ==;+PHWX8b0yZ0u/JICVBWyDw=="
+secured: "vpLxFMcPmdInAMOun5fTVppHE8+iGa3mQ0r7V05RkmwCJVMhx+T1Fakybd49QYW6yQhlh9e2sut/evaFaYUkrymXJhJoOX47u6pGfvjnUgU4H2HSDyNAIHXbKDXctni3zkVr4s4EMga//yDu+sieJWKrNMiINWhkSDah0Wo905rgVQdyI+QKq8yOahkdsb+1Pu1yEFNqvQBlF4p09AFjwvQzBo3JiJB3rLOJ173JZ/qJxxAEtklAJQggSmFh+sSk6/BmOps9s39tPV9uDxgi8ViEb3IaAJjRWlzkILfpWomguQl8z9N1LZMDqcrwKF59n+s29b6RUG2y6jhkLYE1zORCdtMyZrHbQr3ni3EH620=;KAXaQVYShUkqDTO+wztmTA=="
 ---
 
