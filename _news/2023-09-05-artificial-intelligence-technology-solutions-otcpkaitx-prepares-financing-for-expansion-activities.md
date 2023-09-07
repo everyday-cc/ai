@@ -1,30 +1,27 @@
 ---
 category: news
 title: "Artificial Intelligence Technology Solutions (OTCPK:AITX) Prepares Financing for Expansion Activities"
-excerpt: "Detroit, Michigan, Sept. 05, 2023 (GLOBE NEWSWIRE) -- Artificial Intelligence Technology Solutions, Inc. (the \"Company\") (OTCPK:AITX), a global leader in AI-driven security and productivity solutions for enterprise clients, has filed with the Securities Ex ..."
-publishedDateTime: 2023-09-05T12:55:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/09/g34233311/artificial-intelligence-technology-solutions-otcpk-aitx-prepares-financing-for-expansion-activitie"
-webUrl: "https://www.benzinga.com/pressreleases/23/09/g34233311/artificial-intelligence-technology-solutions-otcpk-aitx-prepares-financing-for-expansion-activitie"
-ampWebUrl: "https://www.benzinga.com/amp/content/34233311"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34233311"
+excerpt: "Artificial Intelligence Technology Solutions, Inc. (the \"Company\") (OTCPK:AITX), a global leader in AI-driven security and productivity solutions for enterprise clients, has filed with the Securities Exchange Commission a ‘Preliminary Schedule 14C’ Information Statement to increase its authorized share count to 10 billion common stock shares."
+publishedDateTime: 2023-09-05T14:40:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-otcpk-aitx-prepares-financing-for-expansion-activities-1032605397"
+webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-otcpk-aitx-prepares-financing-for-expansion-activities-1032605397"
 type: article
-quality: 57
-heat: 57
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - AI in Healthcare
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "vP4ApQE/0Xw7ZDmU3q/Mc14vRS/q7hyKe3SdGZXia4hU3i5IHf/psyKhe/BGJgoCG/yfBZjdnm+Cn9pvsCpj9H4rNm79gVmNv85gbJu7hApQaSKe1Pu1DbQD8OxPCJ63+wSjPZTqnraKm/nMsuc+unzq7br+Si4SCyfW2gLgTC1UVcJmwWNTtMe3U3UGXayta5onQZsyy8jZMMTO/pq7kabycOXq/54WAsPV8J+VQlNsqy6ofG+7G8NoYVLXk8Z9B3pirNe3BeItyoefy/krpzfA80eYTwyQ2+oHVtZZNf3PXbAOKxxfa0b+qIvMOIALTVAkUpJYtfppxbtEFoA+r12dFob8UFEp8ztX8LRA0ps=;mOglde42Ot7dSO+OerPvvQ=="
+secured: "Yr0gfmPdhw6fZUJyhNghKbF8gbE9MbKSqoj/UVSp+Rt2tlynFYL4E4hLE9cIxbXNkG69yPTUQWIIKvvy+2uMBzFMniUUsAEEx+LBR0TTk7FCL6Ev6l20AZ25dpbcWFWYPeTTCcAXTUuOcr01HrC4+A2ZxpnJAczsyhhYEgoiwNwg1pnUqiT1CgJM/M+AjfEr/m2hG//gzR3WruJn18wRK0f84Q2i9FB+9kTob3sycK/phEyRZE5N3bEK6wVMuTFk1rDxlbotQM450QvY7gyJ1WO6KlwzwO9OjZktldWDreT1fVFFfSc7JEQr1SJgYu89ZN3yz0lPBmSx7ZYFddwK7ChinQOjvXm3iOzwaJ7/HvA=;QoyQaNTeE2uFMR1VLzZrvw=="
 ---
 

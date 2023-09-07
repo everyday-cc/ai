@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "ChatGPT Glossary: 41 AI Terms that Everyone Should Know"
-    excerpt: "With Google, Microsoft and just about every other company getting into AI, it can be hard to keep up with the latest terminology. This glossary helps."
-    publishedDateTime: 2023-09-02T19:00:00Z
-    webUrl: "https://www.cnet.com/tech/computing/chatgpt-glossary-41-ai-terms-that-everyone-should-know/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 47
   - title: "Is there a ChatGPT app?"
     excerpt: "Powered by the advanced GPT-3.5 architecture, it represents a remarkable milestone in the field of natural language processing. ChatGPT has been trained on a diverse range of internet text, equipping it with the ability to engage in coherent and ..."
     publishedDateTime: 2023-09-04T18:01:00Z

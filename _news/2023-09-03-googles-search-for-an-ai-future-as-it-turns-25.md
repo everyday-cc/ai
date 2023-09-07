@@ -33,6 +33,22 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "Elon Musk gets snapped for the 1st time with twins Strider & Azure, pics go viral on X"
+    excerpt: "The twins were born in November 2021, weeks before Musk and Canadian songstress Grimes welcomed their second child via surrogacy."
+    publishedDateTime: 2023-09-07T11:05:00Z
+    webUrl: "https://economictimes.indiatimes.com/magazines/panache/elon-musk-gets-snapped-for-the-1st-time-with-twins-strider-azure-pics-go-viral-on-x/articleshow/103470350.cms"
+    ampWebUrl: "https://m.economictimes.com/magazines/panache/elon-musk-gets-snapped-for-the-1st-time-with-twins-strider-azure-pics-go-viral-on-x/amp_articleshow/103470350.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/elon-musk-gets-snapped-for-the-1st-time-with-twins-strider-azure-pics-go-viral-on-x/amp_articleshow/103470350.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 51
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-85080,msid-103470350/elon-musk-gets-snapped-for-the-1st-time-with-twins-strider-azure-pics-go-viral-on-x.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "With AI, future of hearing aids might include language translation"
     excerpt: "We hear a lot of headlines about concerns over artificial intelligence and what it might mean for the future. But it's not all bad: Consider hearing loss.Friendly AI could be"
     publishedDateTime: 2023-09-05T18:32:00Z

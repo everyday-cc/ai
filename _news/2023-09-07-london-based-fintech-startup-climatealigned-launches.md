@@ -6,8 +6,8 @@ publishedDateTime: 2023-09-07T09:15:00Z
 originalUrl: "https://www.finextra.com/pressarticle/97960/london-based-fintech-startup-climatealigned-launches"
 webUrl: "https://www.finextra.com/pressarticle/97960/london-based-fintech-startup-climatealigned-launches"
 type: article
-quality: 22
-heat: 22
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.finextra.com/about/finextra-logo.png"

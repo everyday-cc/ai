@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Boston AI startup is the latest tech company to go public, via SPAC"
+    excerpt: "A Boston company that bills itself as an \"industrial generative AI software company,\" has found its way towards the public markets — one of just a few this year to do so."
+    publishedDateTime: 2023-09-07T10:21:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2023/09/07/zapata-computing-reverse-merger.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "W9mz5w/1KZrIsTeq2T/X1++BOJBo+G3b9KZGoWrHvsvEGzHBnofIxkwbc1u7v8DdrsWXXwa4HTSSVtK2+KKyl4FfkRZadLg5+ThECHit+ivQKJCCaYi1xIlzyo3LRBAROmfrcwQv+iLpQkq0QO75yLiIJJ7WTppbWPVMxa3d/oIhRAt1P2xCiLxsr0I8821fYbnAvovwsq1sDe+vAlaVDdKlUJV/svXdW8jVSyppR9H7a8ab19NDs4wpoOb1o5rzzBG96Ipu/PRETgD5fcEFXsWaXKUInEAQSdesSJOuEEL3NMv2BkSO1me14d0QUXoTK+GEy0HwrNxkWmoYTZPUSz8dsT26mogbaw4zV05Vnj/XYgtuQMyjGBXoO+93n+IDhkQetP9Uri542R+vf3TcUTEdiQ9MmIxQobWj6WxeXSdb7Uo1DQVYBL8vXZhRd9K8e7kxwYdXq82hiWlFjBFohQG93flVs4jkZjWRncOJC2sUYedw3oRXqQym5ogHAud3nZ3/M7jwLkLPLPhZ9nobDA==;W/hoEfJiY8ciy56bMZ0gug=="
 ---

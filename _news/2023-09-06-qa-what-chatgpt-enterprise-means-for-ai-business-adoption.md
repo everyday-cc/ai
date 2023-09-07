@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3706049/qa-what-chatgpt-enterp
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3706049/qa-what-chatgpt-enterprise-means-for-ai-business-adoption.amp.html"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT Glossary: 41 AI Terms that Everyone Should Know"
-    excerpt: "With Google, Microsoft and just about every other company getting into AI, it can be hard to keep up with the latest terminology. This glossary helps."
-    publishedDateTime: 2023-09-02T19:00:00Z
-    webUrl: "https://www.cnet.com/tech/computing/chatgpt-glossary-41-ai-terms-that-everyone-should-know/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 47
   - title: "Apple is quietly spending millions on AI to make Siri as smart as ChatGPT"
     excerpt: "Apple is spending millions of dollars a day to train its large-language models, and it might be readying to tackle OpenAI ChatGPT."
     publishedDateTime: 2023-09-06T19:07:00Z

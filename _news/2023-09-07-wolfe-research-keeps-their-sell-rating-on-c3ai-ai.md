@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "Bank of America Securities Remains a Sell on C3ai (AI)"
+    excerpt: "In a report released yesterday, Bradley Sills from Bank of America Securities reiterated a Sell rating on C3ai (AI – Research Report),"
+    publishedDateTime: 2023-09-07T10:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/bank-of-america-securities-remains-a-sell-on-c3ai-ai-1032612242"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
   - title: "C3ai (AI) Gets a Sell from Deutsche Bank"
     excerpt: "In a report released yesterday, Brad Zelnick from Deutsche Bank reiterated a Sell rating on C3ai (AI – Research Report), with a price"
     publishedDateTime: 2023-09-07T09:04:00Z

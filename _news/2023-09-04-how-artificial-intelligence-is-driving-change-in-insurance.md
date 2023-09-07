@@ -25,61 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "How Apple is already using machine learning and AI in iOS"
-    excerpt: "Machine learning has become Apple's catch-all for its AI initiatives. Apple uses artificial intelligence ... with the launch of iOS 17.1. Apple will improve dictation and language translation with machine learning as well. Machine learning is also present ..."
-    publishedDateTime: 2023-09-02T17:17:00Z
-    webUrl: "https://appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios"
-    ampWebUrl: "https://appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios/amp/"
+  - title: "How AI may be a powerful tool in treating male infertility"
+    excerpt: "Infertility affects 7% of the male population. Now artificial intelligence (AI) may be about to help solve the problem. Dr Steven Vasilescu says that the AI software developed by him and his team can spot sperm in samples taken from severely infertile men 1,000 times faster than a highly trained pair of eyes."
+    publishedDateTime: 2023-09-06T23:07:00Z
+    webUrl: "https://www.bbc.co.uk/news/business-66608073?at_campaign=KARANGA&at_medium=RSS"
+    ampWebUrl: "https://www.bbc.co.uk/news/business-66608073.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-66608073.amp"
     type: article
     provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 76
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
     images:
-      - url: "https://photos5.appleinsider.com/gallery/56062-113816-Apple-Siri-xl.jpg"
-        width: 1280
-        height: 720
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/BD04/production/_130988384_gettyimages-622767176-2.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Real Estate Investors Made Record-Breaking Purchases in Dubai Using Artificial Intelligence in 2023"
-    excerpt: "A significant driving force behind this remarkable growth is the integration of Artificial Intelligence (AI) into Dubai's real estate sector. Advanced AI-driven property technology platforms like Kyna.ai, are changing the real estate game. These ..."
-    publishedDateTime: 2023-09-07T01:13:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/ab34298162/real-estate-investors-made-record-breaking-purchases-in-dubai-using-artificial-intelligence-in-20"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34298162"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34298162"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 58
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "How AI and machine learning are transforming data centers"
-    excerpt: "Impact of AI and machine learning on data center management and a colocation market poised for growth to US$65.2 billion by 2027."
-    publishedDateTime: 2023-09-06T01:05:00Z
-    webUrl: "https://techwireasia.com/2023/09/how-are-ai-and-machine-learning-meeting-data-center-demands/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 54
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/09/AI-is-making-an-impact-to-transform-data-centers-and-meet-its-demands-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
-  - title: "Revolutionizing Lending: How Artificial Intelligence is Transforming the Loan Industry"
-    excerpt: "The loan industry, once reliant on manual processes and human judgment, is experiencing a seismic shift as artificial intelligence (AI) takes center stage. AI is revolutionizing the lending landscape with innovations in credit scoring,"
-    publishedDateTime: 2023-09-06T15:25:00Z
-    webUrl: "https://www.tmcnet.com/topics/articles/2023/09/06/457019-revolutionizing-lending-how-artificial-intelligence-transforming-loan-industry.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 9
 
 secured: "My1Qbd1QMxwndlZIxm3TNQlmsJWsdLl1SWux/UqLYDV0zTwgeL/6up9vpLpDLuf2aRNpR2ZJjUbXyDS8Con2IqvlwtbPWLI1dRErEzpMLR9g/NUiZQXcNWOQ2MYH2Y6lZCxeRJKyAIcZsZ/hGmUDrGcUZh9+bJmQELJ21VmvI9bszuFO1NTwSQgAco7QMG9ZnS7mtAhnGfgiWNvv2vzUXSwojdal+ivYngO2taHOeFU6DcZPWMlFBI1Y80EY2+5xqtdO20OqlkCD1lgwjGTzMQawB46F5qBOxzOeWXmT1mZpGb0lkRulmrN2uFdUP6fsV23HkUFDVH55w0/GyeoqVdGSMeynq4wZLrHU+gd6ncUnMOBlGjqZysRIxNfnjFCtZIp46SPWn3INJXGyvNmEedXTaJiFyukYaGevBWRfL6wGzo4L8VbwrhGdNBsNziTYalAfBpShNZcPNIWDfmsKRaOq2yf9kSzfr68TbSH4nD4J02psX+LRtrmORajs03O8fML017iI+zKXcE/IH/V6AA==;sOsqOceRTMCiDCsuhKU+Fg=="
 ---

@@ -23,6 +23,22 @@ topics:
   - AI Hardware
 
 related:
+  - title: "Educators embrace usefulness of artificial intelligence in classrooms, note potential problems"
+    excerpt: "Richland High School Principal Timothy Regan tries to keep up with emerging technologies so he knows what his students are using — and to prepare them for life outside the"
+    publishedDateTime: 2023-09-07T10:01:00Z
+    webUrl: "https://www.mankatofreepress.com/news/local_news/educators-embrace-usefulness-of-artificial-intelligence-in-classrooms-note-potential-problems/article_627c6fae-8151-50b4-b0d7-4d6f0f0f499c.html"
+    ampWebUrl: "https://www.mankatofreepress.com/news/local_news/educators-embrace-usefulness-of-artificial-intelligence-in-classrooms-note-potential-problems/article_627c6fae-8151-50b4-b0d7-4d6f0f0f499c.amp.html"
+    cdnAmpWebUrl: "https://www-mankatofreepress-com.cdn.ampproject.org/c/s/www.mankatofreepress.com/news/local_news/educators-embrace-usefulness-of-artificial-intelligence-in-classrooms-note-potential-problems/article_627c6fae-8151-50b4-b0d7-4d6f0f0f499c.amp.html"
+    type: article
+    provider:
+      name: Mankato Free Press
+      domain: mankatofreepress.com
+    quality: 45
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/mankatofreepress.com/content/tncms/assets/v3/editorial/5/9f/59f8c1f4-00fa-5c44-98c4-53934555f272/64de9c34a13fb.image.jpg?resize=1024%2C631"
+        width: 1024
+        height: 631
+        isCached: true
   - title: "Artificial Intelligence Has Some Potential For Swiss Judges"
     excerpt: "AI could be used, for example, in mass cases and as an aid in the search for precedents, the association's president Marie-Pierre de Montmollin told"
     publishedDateTime: 2023-09-04T18:50:00Z

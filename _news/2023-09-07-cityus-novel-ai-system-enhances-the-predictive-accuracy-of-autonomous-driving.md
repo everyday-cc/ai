@@ -24,6 +24,17 @@ images:
     height: 418
     isCached: true
 
+related:
+  - title: "The 5 Levels of Autonomous Driving Explained"
+    excerpt: "As more companies develop and deliver their own 'self-driving' technology, you'll want to know all about SAE International's autonomy lingo. This guide will help."
+    publishedDateTime: 2023-09-07T11:00:00Z
+    webUrl: "https://www.extremetech.com/cars/the-5-levels-of-autonomous-driving-explained"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 19
+
 secured: "VBnCMSjpvxl2Y4JQHpYcYLGPg6bz0D11I3QvHoBxGRNjuRbr5fkvZ8WfRwHiKKl65iscVudr1x9Zjme4H+aFxIxjzK9B+Yxs//biWafSolS+eoLigk2iq9WBDNdBWjiuoRw+D5B5jNckzxm4Mk97f1mTSPjt67NNTzWnD1QtTlivOdW/hgjx+h97DigoPWecCvLCyhFlktYlJgxy2PDGk4UVOoGD8TWNgSOSwDV4c2fb5sxZlNkqRtXWfESD7MRd5XjoDYYMsExKjvS2HCeGlv4LdsTO/8O+t6IWIMPBG6Mn/OWbbehcANdDNcPV+cYsUh1UhjDVfy23ZMm9r4w6m2wTw5ZVopA5E1OvpUXvsT4=;po7+dce5ZpS7b/ctJOQe9A=="
 ---
 

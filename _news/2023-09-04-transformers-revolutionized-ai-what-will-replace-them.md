@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2023/09/03/transformers-revolu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/09/03/transformers-revolutionized-ai-what-will-replace-them/amp/"
 type: article
 quality: 93
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -33,6 +33,22 @@ images:
     isCached: true
 
 related:
+  - title: "How B2B Trailblazers Can Win The AI Revolution"
+    excerpt: "Blaze A Trail With Existing AI Tools. The internet is littered with promising, powerful AI tools that can radically change the way that B2B merchants conduct business. I don't nee"
+    publishedDateTime: 2023-09-07T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/09/07/how-b2b-trailblazers-can-win-the-ai-revolution/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/09/07/how-b2b-trailblazers-can-win-the-ai-revolution/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/09/07/how-b2b-trailblazers-can-win-the-ai-revolution/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6357e1630645a967cb83bb8b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "DESTINIA REVOLUTIONISES THE SALE OF TOURISM SERVICES WITH AI"
     excerpt: "Today, the future is here! On its innovative Destinia Beta platform, an ecosystem dedicated to research and development aimed at continuous evolution and growth, Destinia is introducing Desta, an AI solution designed to revolutionise the user experience of ..."
     publishedDateTime: 2023-09-06T11:37:00Z

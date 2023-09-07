@@ -25,61 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "How Apple is already using machine learning and AI in iOS"
-    excerpt: "Machine learning has become Apple's catch-all for its AI initiatives. Apple uses artificial intelligence ... with the launch of iOS 17.1. Apple will improve dictation and language translation with machine learning as well. Machine learning is also present ..."
-    publishedDateTime: 2023-09-02T17:17:00Z
-    webUrl: "https://appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios"
-    ampWebUrl: "https://appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios/amp/"
+  - title: "Intel wants to beat bias AI training data"
+    excerpt: "He optimistically noted that, despite Nvidia's lead, it won't take long for Intel to start racking up orders for AI chips. \"They're doing well. We all have to give them credit,\" Gelsinger said. \"But we're going to show up.\" Plus, with Intel's recent debut ..."
+    publishedDateTime: 2023-09-04T17:00:00Z
+    webUrl: "https://www.fool.com/investing/2023/09/04/intel-wants-to-beat-bias-ai-training-data/"
     type: article
     provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 76
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
     images:
-      - url: "https://photos5.appleinsider.com/gallery/56062-113816-Apple-Siri-xl.jpg"
-        width: 1280
-        height: 720
+      - url: "https://g.foolcdn.com/editorial/images/746485/featured-daily-upside-image.png"
+        width: 1390
+        height: 927
         isCached: true
-  - title: "Real Estate Investors Made Record-Breaking Purchases in Dubai Using Artificial Intelligence in 2023"
-    excerpt: "A significant driving force behind this remarkable growth is the integration of Artificial Intelligence (AI) into Dubai's real estate sector. Advanced AI-driven property technology platforms like Kyna.ai, are changing the real estate game. These ..."
-    publishedDateTime: 2023-09-07T01:13:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/ab34298162/real-estate-investors-made-record-breaking-purchases-in-dubai-using-artificial-intelligence-in-20"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34298162"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34298162"
+  - title: "Scientists are using AI to track coal train dust"
+    excerpt: "Across the United States, around 70 percent of coal travels by rail, transiting from dozens of mines to power plants and shipping terminals. Last year, the U.S.—which holds the world’s largest supplies of coal—used about 513 million tons of coal and exported about another 85 million tons to countries including India and the Netherlands."
+    publishedDateTime: 2023-09-02T23:00:00Z
+    webUrl: "https://www.popsci.com/environment/coal-train-dust-ai/"
+    ampWebUrl: "https://www.popsci.com/environment/coal-train-dust-ai/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/environment/coal-train-dust-ai/?amp"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 58
+      name: Popular Science
+      domain: popsci.com
+    quality: 59
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://www.popsci.com/uploads/2023/09/01/Depositphotos_81499646_L-1.jpg?auto=webp"
+        width: 2000
+        height: 1125
         isCached: true
-  - title: "How artificial intelligence is driving change in insurance"
-    excerpt: "Even as AI technology continues to develop, there is much for us to do so we can prepare for the future and meet it head-on."
-    publishedDateTime: 2023-09-04T07:46:00Z
-    webUrl: "https://www.business-reporter.co.uk/finance/how-artificial-intelligence-is-driving-change-in-insurance"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 39
-    images:
-      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/033/iStock-1309799098.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Revolutionizing Lending: How Artificial Intelligence is Transforming the Loan Industry"
-    excerpt: "The loan industry, once reliant on manual processes and human judgment, is experiencing a seismic shift as artificial intelligence (AI) takes center stage. AI is revolutionizing the lending landscape with innovations in credit scoring,"
-    publishedDateTime: 2023-09-06T15:25:00Z
-    webUrl: "https://www.tmcnet.com/topics/articles/2023/09/06/457019-revolutionizing-lending-how-artificial-intelligence-transforming-loan-industry.htm"
+  - title: "Former Intel Exec Joins Untether AI as President to Drive Commercial Efforts in the Burgeoning AI Acceleration Market"
+    excerpt: "View the full release here:  \"Untether AI has been growing at a rapid pace and Chris brings unique experience, growing world-leading chip businesses at the highest level,\" said Arun Iyengar, Untether AI CEO."
+    publishedDateTime: 2023-09-05T16:45:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/09/05/9874889.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 9
+    quality: 0
 
 secured: "EE2/Fg01ZXCtH4iUsLHUthw3Ks9L/KlBmSJWh8lIREOHidA72855gTLJVKdSX9mVoyNaZBapopqg3HKtmR3vSYf7jPPHccEK5hKdVmU9e0YMER1l9L2yJ2bNHhaGNg28PbFSV3COwBu4YssV134il/8H8LOb8B+J19AOB9GAtUe3wao5MEExTsT8agE3EG9NLdHhMbkogOnwnICgO7UpA3uOFJ0cOW+YRmdy8aVBoxtVeIg5puR6b+oFlZraeONNpDNs4213YJq7QObKKBpnRg/N6896fB2t3IB6OyXwGltmB0eMCidKPH8sZHoLrAwoFEprp8Qvt++aI7KNDCYvB+d3AtIV1fQd68fQPaWei/5F+gfvcO8F5WSZrl2CNsypkpkctYrsAB4AM03ZjK+B+dYoEcKBr6N4jrWjE8y33jV8CnZjocJ0+1KPpX9yPPZXDm/4Ii8cr0bIJf7WHfWGUiUVv6KsCGJDz+4fH1aMVtmfA0XEH8ZiXEy5AfHgyxozHepSxNQe2Ydgs9TJsWRxSw==;Vuskoq+NEZIgegFM+9PfVw=="
 ---
