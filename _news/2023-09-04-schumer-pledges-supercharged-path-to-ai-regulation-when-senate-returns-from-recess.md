@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/schumer-pledges-supercharged-path-a
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-pledges-supercharged-path-ai-regulation-senate-returns-recess.amp"
 type: article
 quality: 80
-heat: 83
+heat: 80
 published: true
 
 provider:

@@ -28,17 +28,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Self-Driving Trucks to Revolutionize Industry, Juice U.S. Economy"
-    excerpt: "Soon, all Americans will be faced with robots driving next to them on highways. The potential of robot-driven trucks is starting to create a movement among businesses and states to be the first ..."
-    publishedDateTime: 2023-09-02T23:59:00Z
-    webUrl: "https://www.thestreet.com/opinion/self-driving-trucks-to-revolutionize-industry-juice-us-economy-13177664"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 4
-
 secured: "zE3kNtNdbCwwgy9ua1g7grGVg0BRH1Gp7PT6L5Cj5KOERK3webN1bnWZWHNZHwsKcYs8got1vnV8p4RR8km2V/AKGnSMbWOWyiLVBg9mLW5Q8/L4baMrkDa6MajH6VS7/CQDPm1f0Kwr49+zNdzIh90U+e5YJ2pK8Ymp01VwiRECsnAoZi7pFQ5ayL4s5OJ4VE9PUKSNoPXHTBHorS+qyfjxh51U/8HGBMWOhElehIaxJe76u3+SwrocTh1kLLd979D3qGPscUepQ/7iMH95hLJxEjiEzrbMoDLLYCxE4wxKkR9YZu0XSXFRgE/N3PkYwu2cH1KN1j9Dh8Pnm9Hp8xC+gLgtTDhsOEBIwhGxHko=;btsQFl+NBVlM9wiwhFY6Yg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3706049/qa-what-chatgpt-enterp
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3706049/qa-what-chatgpt-enterprise-means-for-ai-business-adoption.amp.html"
 type: article
 quality: 57
-heat: 87
+heat: 88
 published: true
 
 provider:

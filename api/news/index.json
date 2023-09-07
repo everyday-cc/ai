@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-07-aiml-will-deliver-value-across-insurance-value-chain-debasish-panda.md",
+      "title": "AI/ML Will Deliver Value Across Insurance Value Chain: Debasish Panda",
+      "excerpt": "According to IRDAI chairperson Debasish Panda, AI and ML within the insurtech sector will be harnessed throughout the insurance value chain.",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/buzz/ai-ml-deliver-value-insurance-value-chain-debasish-panda/",
+      "originalUrl": "https://inc42.com/buzz/ai-ml-deliver-value-insurance-value-chain-debasish-panda/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.inc42.com/wp-content/uploads/2023/09/Insurance-IRDAI-features-1024x768.png",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/buzz/ai-ml-deliver-value-insurance-value-chain-debasish-panda/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/ai-ml-deliver-value-insurance-value-chain-debasish-panda/amp/",
+      "publishedDateTime": "2023-09-06T21:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-09-07-boxfish-research-renames-to-boxfish-robotics.md",
       "title": "Boxfish Research Renames To Boxfish Robotics",
       "excerpt": "ARV-i, is powered by advanced Artificial Intelligence and sensor integration, facilitates automated and remote operations, while ensuring efficient and precise data collection. \"As Boxfish Robotics, we are delighted to announce the renaming, symbolising a ...",
@@ -857,7 +901,7 @@
       "originalUrl": "https://techcrunch.com/2023/09/06/meet-the-ai-fintech-saas-and-security-industry-chairs-at-tc-disrupt-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 126,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1048,7 +1092,7 @@
       "originalUrl": "https://time.com/6310076/elon-musk-ai-walter-isaacson-biography/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -1184,57 +1228,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-pentagon-plans-vast-ai-fleet-to-counter-china-wsj.md",
-      "title": "Pentagon plans vast AI fleet to counter China - WSJ",
-      "excerpt": "The Pentagon is considering the development of a vast network of Artificial Intelligence-powered technology, drones and autonomous systems within the next two years to counter threats from China, the Wall Street Journal reported on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/world/us/pentagon-plans-vast-ai-fleet-counter-china-wsj-2023-09-06/",
-      "originalUrl": "https://www.reuters.com/world/us/pentagon-plans-vast-ai-fleet-counter-china-wsj-2023-09-06/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/aP4_6MyqLRQ3qSc6A2TkBihUPD4=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OT7ZI6KWLRPBHP5FRFGM2PDCZA.jpg",
-          "width": 800,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-06T02:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

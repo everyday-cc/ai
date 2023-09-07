@@ -1,0 +1,83 @@
+---
+category: news
+title: "Self-driving Car Revolution Is Coming, But Slowly"
+excerpt: "In Munich, where this week's IAA motor show is taking place, an interactive street survey elicits an overwhelming \"yes\" when asking passers-by if they would take a self-driving taxi from the station to the Oktoberfest beer festival."
+publishedDateTime: 2023-09-07T05:30:00Z
+originalUrl: "https://www.barrons.com/news/self-driving-car-revolution-is-coming-but-slowly-76f42b43?refsec=topics_afp-news"
+webUrl: "https://www.barrons.com/news/self-driving-car-revolution-is-coming-but-slowly-76f42b43?refsec=topics_afp-news"
+ampWebUrl: "https://www.barrons.com/amp/news/self-driving-car-revolution-is-coming-but-slowly-76f42b43"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/self-driving-car-revolution-is-coming-but-slowly-76f42b43"
+type: article
+quality: 44
+heat: 44
+published: false
+
+provider:
+  name: Barron's
+  domain: barrons.com
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
+    width: 1320
+    height: 742
+    isCached: true
+
+related:
+  - title: "Self-driving delivery trucks could be sharing the roads with drivers very soon"
+    excerpt: "The day is coming when that 18-wheeler rolling down the highway won’t have a driver behind the wheel, it’ll be running autonomously and that frightens some."
+    publishedDateTime: 2023-09-05T16:24:00Z
+    webUrl: "https://www.cbs17.com/news/investigators/self-driving-delivery-trucks-could-be-sharing-the-roads-with-drivers-very-soon/"
+    ampWebUrl: "https://www.cbs17.com/news/investigators/self-driving-delivery-trucks-could-be-sharing-the-roads-with-drivers-very-soon/amp/"
+    cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/investigators/self-driving-delivery-trucks-could-be-sharing-the-roads-with-drivers-very-soon/amp/"
+    type: article
+    provider:
+      name: cbs17.com
+      domain: cbs17.com
+    quality: 40
+    images:
+      - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2023/09/thumbnail_web-6.jpg?w=1280"
+        width: 681
+        height: 397
+        isCached: true
+  - title: "Why experts feel self-driving car revolution still a decade away despite enthusiasm"
+    excerpt: "In Munich, where this week's IAA motor show is taking place, an interactive street survey elicits an overwhelming \"yes\" when asking passers-by if they would take a self-driving taxi from the station to the Oktoberfest beer festival. A modified self-driving ..."
+    publishedDateTime: 2023-09-07T04:25:00Z
+    webUrl: "https://www.hindustantimes.com/car-bike/why-experts-feel-self-driving-car-revolution-still-a-decade-away-despite-enthusiasm-101694058998684.html"
+    ampWebUrl: "https://www.hindustantimes.com/car-bike/why-experts-feel-self-driving-car-revolution-still-a-decade-away-despite-enthusiasm-101694058998684-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/car-bike/why-experts-feel-self-driving-car-revolution-still-a-decade-away-despite-enthusiasm-101694058998684-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 38
+    images:
+      - url: "https://www.hindustantimes.com/ht-img/img/2023/09/07/1600x900/GERMANY-AUTOMOBILE-SHOW-IAA-29_1694060041436_1694060073296.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Self-Driving Cars Might Finally Be For Real This Time"
+    excerpt: "A decade ago, there was a lot of hype about self driving cars. In fact, there was more interest in self-driving cars than there was in electric vehicles, in terms of the future of the auto industry. But progress in developing these robotic cars has turned ..."
+    publishedDateTime: 2023-09-06T21:16:00Z
+    webUrl: "https://www.bloomberg.com/news/audio/2023-09-06/self-driving-cars-might-finally-be-for-real-this-time-podcast"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 34
+  - title: "Self-Driving Trucks to Revolutionize Industry, Juice U.S. Economy"
+    excerpt: "Soon, all Americans will be faced with robots driving next to them on highways. The potential of robot-driven trucks is starting to create a movement among businesses and states to be the first ..."
+    publishedDateTime: 2023-09-02T23:59:00Z
+    webUrl: "https://www.thestreet.com/opinion/self-driving-trucks-to-revolutionize-industry-juice-us-economy-13177664"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 4
+
+secured: "xsVYSjLiRFi2fDln4FYV+nTdVrkI4eAYzWNFKXQ2B11hgN8vMsbzHF9tCltHWr5vsSmv+8rwymUnToyPyzgVYg5Zju/w6HQFbhkxJYNHCmQ5MwuRbxt9zmPgpN65ZNP5XDtKe9w7hRd1FWnhnRD5v8XX5apUBv9SFG/MaocgXMXW+xaaFN8JR5Rah/pb0W3uFq3AIFBfeKC4uYntwNUELn8tboeUOwZ8VJjJgPDtY5YouorheBS9Bp1YHjgE+wO8dtI6Qkg17p6WjCwPfxAifhxU+RLAhUTgb/1Ng+IufhlbH7CNvj7WKFxE9KoYHVsNiInDd7bDW+J8AS6YFnNrA2JSBZlH24qKv50SAzXaPIo=;XptzwNbwC5Y/7x70aJYkMg=="
+---
+

@@ -40,6 +40,15 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 66
+  - title: "3 Fintech Stocks the Big Money Is Buying Now"
+    excerpt: "In the ever-evolving financial realm, fintech stocks with big money continue to grab investors’ attention. The fintech industry has undergone a radical shift, evolving into an epicenter of innovation,"
+    publishedDateTime: 2023-09-03T12:59:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-fintech-stocks-the-big-money-is-buying-now"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
   - title: "4 big FinTech funding rounds in MENA in August 2023"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-09-06T07:56:00Z
@@ -53,6 +62,20 @@ related:
       - url: "https://ibsintelligence.com/wp-content/uploads/2022/11/Funding.jpg"
         width: 300
         height: 300
+        isCached: true
+  - title: "Emerging Fintech Brands & Their Leaders of 2023"
+    excerpt: "The utilization of AI and ML on the platform simplifies the debt process ... Ajay Lakhotia: Founder of StockGro In the ever-evolving landscape of fintech in 2023, StockGro emerges as a beacon for novice and seasoned investors. It is recognised as India's ..."
+    publishedDateTime: 2023-09-07T05:36:00Z
+    webUrl: "https://timesofindia.indiatimes.com/business/india-business/emerging-fintech-brands-their-leaders-of-2023/articleshow/103455358.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 24
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-103455358,width-1070,height-580,imgsize-742754,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
         isCached: true
   - title: "4 FinTech funding rounds that occurred in the MENA region in August 2023"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."

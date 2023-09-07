@@ -28,98 +28,36 @@ images:
     isCached: true
 
 related:
-  - title: "Crossing the chasm in AI-led marketing transformation"
-    excerpt: "And that is why it should be among the top priorities for any chief marketing officer (CMO) to unravel the possibilities of AI. Customer-centric sectors such as fintech, and e-commerce have already started piloting AI strategies while many other sectors ..."
-    publishedDateTime: 2023-09-02T11:06:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-crossing-the-chasm-in-ai-led-marketing-transformation-3230292/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-crossing-the-chasm-in-ai-led-marketing-transformation-3230292/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-crossing-the-chasm-in-ai-led-marketing-transformation-3230292/lite/"
+  - title: "Riding the Wave of Artificial Intelligence: A Comprehensive Look at AI Stocks"
+    excerpt: "Erica Fluer Artificial Intelligence (AI) isn't merely a buzzword, or a futuristic concept confined to science fiction novels; it's an integral part of the modern world that is shaping the future in unprecedented ways."
+    publishedDateTime: 2023-09-05T09:33:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/34225651/riding-the-wave-of-artificial-intelligence-a-comprehensive-look-at-ai-stocks"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34225651"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34225651"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 76
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 73
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-01T181533.194.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "How AI and machine learning are transforming data centers"
-    excerpt: "Impact of AI and machine learning on data center management and a colocation market poised for growth to US$65.2 billion by 2027."
-    publishedDateTime: 2023-09-06T01:05:00Z
-    webUrl: "https://techwireasia.com/2023/09/how-are-ai-and-machine-learning-meeting-data-center-demands/"
+  - title: "Meta lost the battle of the AI lamas"
+    excerpt: "Alarming lama loss Meta Platforms' might have completely mucked up the development of its large-language model, Llama and Llama 2 AI projects and lost some important staff as a result. Llama and Llama 2 might be praised by the senior managers for offering free,"
+    publishedDateTime: 2023-09-06T09:47:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/57546-meta-lost-the-battle-of-the-ai-lamas"
     type: article
     provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 54
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/09/AI-is-making-an-impact-to-transform-data-centers-and-meet-its-demands-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
-  - title: "Part 2: How Artificial Intelligence is Driving the Transportation Sector Forward"
-    excerpt: "What a ride it's been for the transportation industry since AI! After all, this new technology comes hand-in-hand with the transport sector."
-    publishedDateTime: 2023-09-06T09:26:00Z
-    webUrl: "https://techround.co.uk/tech/part-2-how-artificial-intelligence-is-driving-the-transportation-sector-forward/"
-    ampWebUrl: "https://techround.co.uk/tech/part-2-how-artificial-intelligence-is-driving-the-transportation-sector-forward/amp/"
-    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/tech/part-2-how-artificial-intelligence-is-driving-the-transportation-sector-forward/amp/"
-    type: article
-    provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 54
-    images:
-      - url: "https://techround.co.uk/wp-content/uploads/2022/01/transport-scaled.jpg"
-        width: 2560
-        height: 1438
-        isCached: true
-  - title: "The Potential Of AI As A Catalyst For Business Transformation"
-    excerpt: "Artificial intelligence (AI) has rapidly emerged as a disruptive force, influencing humans professionally, socially and culturally. With its ability to process vast amounts of data and make complex decisions, I’ve seen it become a catalyst for transformation across business sectors, from healthcare to transportation."
-    publishedDateTime: 2023-09-06T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/06/the-potential-of-ai-as-a-catalyst-for-business-transformation/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "The Brand Bee Envisions The Role Of Artificial Intelligence In Shaping The Next Era Of Marketing"
-    excerpt: "a distinguished Digital Marketing Agency in Gurugram , is at the forefront of revolutionising the marketing landscape by embracing the potential of Artificial Intelligence (AI). Known for providing 360-degree solutions for digital marketing and hailed as a ..."
-    publishedDateTime: 2023-09-04T03:42:00Z
-    webUrl: "https://menafn.com/1107001684/The-Brand-Bee-Envisions-The-Role-Of-Artificial-Intelligence-In-Shaping-The-Next-Era-Of-Marketing"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 41
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?195718"
-        width: 361
-        height: 249
-        isCached: true
-  - title: "How artificial intelligence is driving change in insurance"
-    excerpt: "Even as AI technology continues to develop, there is much for us to do so we can prepare for the future and meet it head-on."
-    publishedDateTime: 2023-09-04T07:46:00Z
-    webUrl: "https://www.business-reporter.co.uk/finance/how-artificial-intelligence-is-driving-change-in-insurance"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
+      name: Fudzilla
+      domain: fudzilla.com
     quality: 39
     images:
-      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/033/iStock-1309799098.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.fudzilla.com/media/k2/items/cache/27ea78f3fd31ab764b5ac8ec707175fc_L.jpg"
+        width: 620
+        height: 465
         isCached: true
-  - title: "Revolutionizing Lending: How Artificial Intelligence is Transforming the Loan Industry"
-    excerpt: "The loan industry, once reliant on manual processes and human judgment, is experiencing a seismic shift as artificial intelligence (AI) takes center stage. AI is revolutionizing the lending landscape with innovations in credit scoring,"
-    publishedDateTime: 2023-09-06T15:25:00Z
-    webUrl: "https://www.tmcnet.com/topics/articles/2023/09/06/457019-revolutionizing-lending-how-artificial-intelligence-transforming-loan-industry.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 9
 
 secured: "IyP0Z3BdA+6wI0wA8qN8By+j6yRuMwaJHkn2U6OQTFL3Fyv+WG53DAjlexeOfFYAKFYXnOKIHdD7+wpxaaFTfNfx4H9JeLFOkCsDOhKTdmHJIi+65S5uvSQgpVDwtLLrJOm7OxaT/S4keNwHok0wGivDm5riuxxvqVy3wXiPr8uvaISHcWM8edk0JQh/YIysfFuhQnTdDCTiX3ng4rwpbiTMBvU5ThUjXdK2V3DJKmNNtoH8MVfRxDQL/VrJWbU/Owf+8mCJIi+wypQkqGvv64mvTASoZF8Ug24iIhbemGhnXD2kjXKIAkHD9oMqXaAo7VXr2cvhJtJJTR/5yMyzz2GZQBjfHqOn1WoBwPcPq0c=;pn/WlctMTBtxjw7/MYnenA=="
 ---

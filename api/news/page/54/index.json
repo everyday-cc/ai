@@ -2,6 +2,101 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2023-07-29-heres-why-this-ai-chipmaker-continues-to-outflank-the-competition.md",
+      "title": "Here's why this AI chipmaker continues to outflank the competition",
+      "excerpt": "Intel (INTC) may have jumped over Wall Street's low bar, but the embattled chipmaker's results further highlight rival Nvidia (NVDA) as the firm to beat.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/07/28/heres-why-this-ai-chipmaker-continues-to-outflank-the-competition-.html",
+      "originalUrl": "https://www.cnbc.com/2023/07/28/heres-why-this-ai-chipmaker-continues-to-outflank-the-competition-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-28T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-29-perfect-software-with-perfect-hardware-blockchain-artificial-intelligence-robotics-allbi-is-on-board.md",
+      "title": "Perfect software with perfect hardware! Blockchain, artificial intelligence, robotics - ALLBI is on board",
+      "excerpt": "ALLBI is a consumer-oriented cryptocurrency project launched in the U.K. by LEX PARTNERS LTD, which focuses on environmental care, clean",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/perfect-software-with-perfect-hardware-blockchain-artificial-intelligence-robotics---allbi-is-on-board-1032489622",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/perfect-software-with-perfect-hardware-blockchain-artificial-intelligence-robotics---allbi-is-on-board-1032489622",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/mmstudio-images/gallery/0Qs0EITqVZabcNzobJLcG7NxPF53/1690518197013-0.jpg",
+          "width": 800,
+          "height": 392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-28T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-28-should-we-fear-artificial-intelligence-connor-leahy-touches-on-human-skepticism-of-ai.md",
       "title": "Should we fear artificial intelligence? Connor Leahy touches on human skepticism of AI",
       "excerpt": "Connor Leahy advises whether humans should be fearful of artificial intelligence or not and where AI is expected to be in the future",
@@ -1066,102 +1161,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-speaking-robot-our-new-ai-model-translates-vision-and-language-into-robotic-actions.md",
-      "title": "Speaking robot: Our new AI model translates vision and language into robotic actions",
-      "excerpt": "Google DeepMind introduces a new vision-language-action model for improving robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/google-deepmind-rt2-robotics-vla-model/",
-      "originalUrl": "https://blog.google/technology/ai/google-deepmind-rt2-robotics-vla-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 289,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/speaking_robot.width-1300.png",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/google-deepmind-rt2-robotics-vla-model/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-deepmind-rt2-robotics-vla-model/amp/",
-      "publishedDateTime": "2023-07-28T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-ryanair-challenged-by-noyb-over-invasive-facial-recognition.md",
-      "title": "Ryanair challenged by Noyb over ‘invasive’ facial recognition",
-      "excerpt": "Noyb claims Ryanair's use of facial recognition breaches GDPR and is being used to drive users away from external online travel agencies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.siliconrepublic.com/enterprise/ryanair-noyb-facial-recognition-biometric-gdpr",
-      "originalUrl": "https://www.siliconrepublic.com/enterprise/ryanair-noyb-facial-recognition-biometric-gdpr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.siliconrepublic.com/wp-content/uploads/2023/07/AdobeStock_288121812_Editorial_Use_Only.jpeg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T01:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconRepublic",
-        "domain": "siliconrepublic.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

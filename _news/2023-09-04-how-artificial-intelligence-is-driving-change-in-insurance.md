@@ -25,21 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Crossing the chasm in AI-led marketing transformation"
-    excerpt: "And that is why it should be among the top priorities for any chief marketing officer (CMO) to unravel the possibilities of AI. Customer-centric sectors such as fintech, and e-commerce have already started piloting AI strategies while many other sectors ..."
-    publishedDateTime: 2023-09-02T11:06:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-crossing-the-chasm-in-ai-led-marketing-transformation-3230292/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-crossing-the-chasm-in-ai-led-marketing-transformation-3230292/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-crossing-the-chasm-in-ai-led-marketing-transformation-3230292/lite/"
+  - title: "How Apple is already using machine learning and AI in iOS"
+    excerpt: "Machine learning has become Apple's catch-all for its AI initiatives. Apple uses artificial intelligence ... with the launch of iOS 17.1. Apple will improve dictation and language translation with machine learning as well. Machine learning is also present ..."
+    publishedDateTime: 2023-09-02T17:17:00Z
+    webUrl: "https://appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios"
+    ampWebUrl: "https://appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios/amp/"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
+      name: AppleInsider
+      domain: appleinsider.com
     quality: 76
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-01T181533.194.jpg"
-        width: 1200
-        height: 675
+      - url: "https://photos5.appleinsider.com/gallery/56062-113816-Apple-Siri-xl.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Real Estate Investors Made Record-Breaking Purchases in Dubai Using Artificial Intelligence in 2023"
+    excerpt: "A significant driving force behind this remarkable growth is the integration of Artificial Intelligence (AI) into Dubai's real estate sector. Advanced AI-driven property technology platforms like Kyna.ai, are changing the real estate game. These ..."
+    publishedDateTime: 2023-09-07T01:13:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/ab34298162/real-estate-investors-made-record-breaking-purchases-in-dubai-using-artificial-intelligence-in-20"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34298162"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34298162"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 58
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
   - title: "How AI and machine learning are transforming data centers"
     excerpt: "Impact of AI and machine learning on data center management and a colocation market poised for growth to US$65.2 billion by 2027."
@@ -54,59 +70,6 @@ related:
       - url: "https://techwireasia.com/wp-content/uploads/2023/09/AI-is-making-an-impact-to-transform-data-centers-and-meet-its-demands-scaled.jpg"
         width: 2560
         height: 1707
-        isCached: true
-  - title: "Part 2: How Artificial Intelligence is Driving the Transportation Sector Forward"
-    excerpt: "What a ride it's been for the transportation industry since AI! After all, this new technology comes hand-in-hand with the transport sector."
-    publishedDateTime: 2023-09-06T09:26:00Z
-    webUrl: "https://techround.co.uk/tech/part-2-how-artificial-intelligence-is-driving-the-transportation-sector-forward/"
-    ampWebUrl: "https://techround.co.uk/tech/part-2-how-artificial-intelligence-is-driving-the-transportation-sector-forward/amp/"
-    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/tech/part-2-how-artificial-intelligence-is-driving-the-transportation-sector-forward/amp/"
-    type: article
-    provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 54
-    images:
-      - url: "https://techround.co.uk/wp-content/uploads/2022/01/transport-scaled.jpg"
-        width: 2560
-        height: 1438
-        isCached: true
-  - title: "The Potential Of AI As A Catalyst For Business Transformation"
-    excerpt: "Artificial intelligence (AI) has rapidly emerged as a disruptive force, influencing humans professionally, socially and culturally. With its ability to process vast amounts of data and make complex decisions, I’ve seen it become a catalyst for transformation across business sectors, from healthcare to transportation."
-    publishedDateTime: 2023-09-06T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/06/the-potential-of-ai-as-a-catalyst-for-business-transformation/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "The Brand Bee Envisions The Role Of Artificial Intelligence In Shaping The Next Era Of Marketing"
-    excerpt: "a distinguished Digital Marketing Agency in Gurugram , is at the forefront of revolutionising the marketing landscape by embracing the potential of Artificial Intelligence (AI). Known for providing 360-degree solutions for digital marketing and hailed as a ..."
-    publishedDateTime: 2023-09-04T03:42:00Z
-    webUrl: "https://menafn.com/1107001684/The-Brand-Bee-Envisions-The-Role-Of-Artificial-Intelligence-In-Shaping-The-Next-Era-Of-Marketing"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 41
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?195718"
-        width: 361
-        height: 249
-        isCached: true
-  - title: "The chilling rise of AI scams"
-    excerpt: "Criminals are cloning voices and making calls to trick victims into sending them money. How can they be stopped?"
-    publishedDateTime: 2023-09-04T01:00:00Z
-    webUrl: "https://www.theguardian.com/news/audio/2023/sep/04/the-chilling-rise-of-ai-scams-podcast?ref=upstract.com"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 37
-    images:
-      - url: "https://i.guim.co.uk/img/media/fb0e197e035498657dc5efe2965f5e11dec0f640/0_128_5172_3105/master/5172.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c6d1bbe4de5d8ff97c5f41ca05280be5"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Revolutionizing Lending: How Artificial Intelligence is Transforming the Loan Industry"
     excerpt: "The loan industry, once reliant on manual processes and human judgment, is experiencing a seismic shift as artificial intelligence (AI) takes center stage. AI is revolutionizing the lending landscape with innovations in credit scoring,"

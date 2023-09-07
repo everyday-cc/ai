@@ -2,6 +2,99 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2023-07-27-servicenow-partners-with-nvidia-and-accenture-on-ai-lighthouse-for-rapid-enterprise-ai-adoption.md",
+      "title": "ServiceNow partners with Nvidia and Accenture on ‘AI Lighthouse’ for rapid enterprise AI adoption",
+      "excerpt": "The program aims to help customers build and deploy custom generative AI large language models (LLMs) and generative AI applications.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/servicenow-partners-with-nvidia-and-accenture-on-ai-lighthouse-for-rapid-enterprise-ai-adoption/",
+      "originalUrl": "https://venturebeat.com/ai/servicenow-partners-with-nvidia-and-accenture-on-ai-lighthouse-for-rapid-enterprise-ai-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/cfr0z3n_a_futuristic_lighthouse_beams_glowing_digital_computer__eca72640-231d-4a86-960c-3ac35e4c93ae.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T16:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-can-artificial-intelligence-bring-a-new-tech-boom-to-san-francisco.md",
+      "title": "Can artificial intelligence bring a new tech boom to San Francisco?",
+      "excerpt": "As San Francisco struggles with empty storefronts, homelessness and theft, there is new hope that a tech boom driven by artificial intelligence will help revitalize the city. CNBC’s Deirdre Bosa shares more on Scale AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/can-artificial-intelligence-bring-a-new-tech-boom-to-san-francisco-189352005970",
+      "originalUrl": "https://www.nbcnews.com/nightly-news/video/can-artificial-intelligence-bring-a-new-tech-boom-to-san-francisco-189352005970",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_07/1690412846568_nn_dbo_can_ai_save_san_francisco_230726_1920x1080-0lpxtm.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo189352005970",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo189352005970",
+      "publishedDateTime": "2023-07-26T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-27-lenovo-unveils-new-thinksystem-storage-offerings-targeted-at-ai-and-smb.md",
       "title": "Lenovo Unveils New ThinkSystem Storage Offerings Targeted At AI And SMB",
       "excerpt": "Lenovo introduces new ThinkSystem storage products: the DG-series, a QLC-based array blending capacity and performance, and a new DM model for SMB market.",
@@ -1092,110 +1185,6 @@
         "AI",
         "AI in Healthcare",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-maximize-stable-diffusion-performance-and-lower-inference-costs-with-aws-inferentia2.md",
-      "title": "Maximize Stable Diffusion performance and lower inference costs with AWS Inferentia2",
-      "excerpt": "Generative AI models have been experiencing rapid growth in recent months due to its impressive capabilities in creating realistic text, images, code, and audio. Among these models, Stable Diffusion models stand out for their unique strength in creating high-quality images based on text prompts. Stable",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/maximize-stable-diffusion-performance-and-lower-inference-costs-with-aws-inferentia2/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/maximize-stable-diffusion-performance-and-lower-inference-costs-with-aws-inferentia2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/26/maximize-stable-diffusion-performance-1260x628.jpg",
-          "width": 1260,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T09:37:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-amazon-cloud-unit-enters-health-care-ai-market-adds-chatbot-tools.md",
-      "title": "Amazon Cloud Unit Enters Health Care AI Market, Adds Chatbot Tools",
-      "excerpt": "Amazon Web Services is unveiling AI services for doctors, business analysis and chatbots as it aims for Microsoft and Google",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-07-26/amazon-cloud-unit-enters-health-care-ai-market-adds-chatbot-tools",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-07-26/amazon-cloud-unit-enters-health-care-ai-market-adds-chatbot-tools",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHYEvk8TxBUA/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T09:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

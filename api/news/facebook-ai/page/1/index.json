@@ -213,6 +213,58 @@
       ]
     },
     {
+      "path": "_news/2023-09-02-ai-is-not-a-threat-to-human-jobs-its-a-catalyst-for-growth-and-innovation.md",
+      "title": "AI is not a threat to human jobs. It’s a catalyst for growth and innovation",
+      "excerpt": "The workforce will change, but it won’t be replaced. And what AI will help humanity generate is well worth getting excited about.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-is-not-a-threat-to-human-jobs-its-a-catalyst-for-growth-and-innovation/",
+      "originalUrl": "https://venturebeat.com/ai/ai-is-not-a-threat-to-human-jobs-its-a-catalyst-for-growth-and-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/08/cfr0z3n_expressionist_painting_white_collar_workers_typing_on_l_5476dd74-cce5-4596-a125-177e6821aebd.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-02T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-31-ai-may-influence-whether-you-can-get-pain-medication.md",
       "title": "AI may influence whether you can get pain medication",
       "excerpt": "Even critics of drug-tracking systems and algorithms say there is a place for them in reducing the harms of the opioid crisis.",
@@ -1466,40 +1518,6 @@
         "Facebook AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-08-12-foundations-seek-to-advance-ai-for-good-and-also-protect-the-world-from-its-threats.md",
-      "title": "Foundations seek to advance AI for good — and also protect the world from its threats",
-      "excerpt": "Gebru launched the Distributed Artificial Intelligence Research Institute in 2021 to ... Open Philanthropy, a foundation started by Facebook co-founder Dustin Moskovitz and his wife, Cari Tuna ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Technology/wireStory/foundations-seek-advance-ai-good-protect-world-threats-102199394",
-      "originalUrl": "https://abcnews.go.com/Technology/wireStory/foundations-seek-advance-ai-good-protect-world-threats-102199394",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-12T01:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC News",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

@@ -42,6 +42,43 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "How AI and machine learning are transforming data centers"
+    excerpt: "Impact of AI and machine learning on data center management and a colocation market poised for growth to US$65.2 billion by 2027."
+    publishedDateTime: 2023-09-06T01:05:00Z
+    webUrl: "https://techwireasia.com/2023/09/how-are-ai-and-machine-learning-meeting-data-center-demands/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 54
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/09/AI-is-making-an-impact-to-transform-data-centers-and-meet-its-demands-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "How artificial intelligence is driving change in insurance"
+    excerpt: "Even as AI technology continues to develop, there is much for us to do so we can prepare for the future and meet it head-on."
+    publishedDateTime: 2023-09-04T07:46:00Z
+    webUrl: "https://www.business-reporter.co.uk/finance/how-artificial-intelligence-is-driving-change-in-insurance"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 39
+    images:
+      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/033/iStock-1309799098.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Revolutionizing Lending: How Artificial Intelligence is Transforming the Loan Industry"
+    excerpt: "The loan industry, once reliant on manual processes and human judgment, is experiencing a seismic shift as artificial intelligence (AI) takes center stage. AI is revolutionizing the lending landscape with innovations in credit scoring,"
+    publishedDateTime: 2023-09-06T15:25:00Z
+    webUrl: "https://www.tmcnet.com/topics/articles/2023/09/06/457019-revolutionizing-lending-how-artificial-intelligence-transforming-loan-industry.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
 
 secured: "s5XxnTIPpbb6xmMUUtGD7H6GPa4+oz0b9J0K8hTGQ1ubG1jE7EW5Tav/ep/xvNooXM4FpmDAelbufRm+WAFLlpC+/KjCpsZzaMmYfBdpdZqWM6PWDdOF3fFN9Gqd3xAvUl1aAebqLh/6DleGc64k/itcK8XAas2KPM7nEDRsse7Vvqq/FZenLxZdBY9RuVGyTF7ZjqqhCk6iwaUwbiVaIejjrRZ3IvwtC0rYAaFKQNBg4plfmv9oTducUpiQ0ntNuIw8lorZSHzzoyn61+mksM2eKnVAb97ImBTRcBUz9SNkFQV5ecBNeeqkI8c6l9C8uzDtybxAqsnpFWn2RphlJzhJtCl62sA3MfIJ3U7pn1M=;+U7tMo1Agcf1m41uC3h9hQ=="
 ---

@@ -2,6 +2,100 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-09-01-natural-language-processing-market-size-analysis-insights-and-forecast-to-2030.md",
+      "title": "Natural Language Processing Market Size Analysis: Insights and Forecast to 2030",
+      "excerpt": "The global Natural Language Processing market size was valued at USD 13017.98 million in 2022 and is expected to expand at a CAGR of 18.27% during the forecast period, reaching USD 35630.81 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34165912/natural-language-processing-market-size-analysis-insights-and-forecast-to-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34165912/natural-language-processing-market-size-analysis-insights-and-forecast-to-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34165912",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34165912",
+      "publishedDateTime": "2023-09-01T01:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-01-harnessing-ai-in-the-recruitment-process-is-increasingly-important-for-companies.md",
+      "title": "Harnessing AI In The Recruitment Process Is Increasingly Important For Companies",
+      "excerpt": "Many companies struggle with hiring great candidates because they are not messaging the right candidates and/or they are not messaging them correctly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/zengernews/2023/09/01/harnessing-ai-in-the-recruitment-process-is-increasingly-important-for-companies/",
+      "originalUrl": "https://www.forbes.com/sites/zengernews/2023/09/01/harnessing-ai-in-the-recruitment-process-is-increasingly-important-for-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ef5c7368a912b40c1e813e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1178,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/zengernews/2023/09/01/harnessing-ai-in-the-recruitment-process-is-increasingly-important-for-companies/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zengernews/2023/09/01/harnessing-ai-in-the-recruitment-process-is-increasingly-important-for-companies/amp/",
+      "publishedDateTime": "2023-09-01T01:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-01-morgan-stanley-names-this-tech-stock-a-top-pick-says-ai-server-demand-could-boost-it-by-nearly-25.md",
       "title": "Morgan Stanley names this tech stock a top pick, says AI server demand could boost it by nearly 25%",
       "excerpt": "Growing demand for artificial intelligence servers should boost shares of Dell Technologies over the long haul, according to Morgan Stanley. Analyst Erik Woodring named Dell a top pick within the IT hardware space,",
@@ -1094,100 +1188,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-expanded-partnership-brings-opentext-core-content-to-google-workspace.md",
-      "title": "Expanded Partnership Brings OpenText Core Content To Google Workspace",
-      "excerpt": "VP and Principal Analyst, Modern Work and financial services, Melody Brue, looks at OpenText and Google’s collaboration in Google Workspace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/08/31/expanded-partnership-brings-opentext-core-content-to-google-workspace/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/08/31/expanded-partnership-brings-opentext-core-content-to-google-workspace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64f0ba046f6bd58165b575a5/0x0.jpg?format=jpg&width=1200",
-          "width": 624,
-          "height": 328,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/08/31/expanded-partnership-brings-opentext-core-content-to-google-workspace/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/08/31/expanded-partnership-brings-opentext-core-content-to-google-workspace/amp/",
-      "publishedDateTime": "2023-08-31T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-how-to-detect-and-patch-a-log4j-vulnerability.md",
-      "title": "How to detect and patch a Log4J vulnerability ",
-      "excerpt": "The Log4j vulnerability—dubbed \"Log4Shell\"—still persists nearly two years later. Learn how to detect and patch the vulnerability.\nThe post How to detect and patch a Log4J vulnerability  appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-to-detect-and-patch-a-log4j-vulnerability/",
-      "originalUrl": "https://www.ibm.com/blog/how-to-detect-and-patch-a-log4j-vulnerability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-31T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

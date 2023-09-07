@@ -34,6 +34,20 @@ related:
       name: Medgadget
       domain: medgadget.com
     quality: 0
+  - title: "Global Self-Paced E-Learning Market Expand At A Cagr Of 17.12% To Reach Usd 839 Billion By 2032 I Say Insights X Herald"
+    excerpt: "With the omnipresence of smartphones and tablets, mobile learning has emerged as a dominant force. Learners increasingly seek the flexibility and convenience of accessing content from their mobile devices. This trend has expanded the reach of self-paced e-learning, enabling users to learn anytime, anywhere."
+    publishedDateTime: 2023-09-07T05:54:00Z
+    webUrl: "https://menafn.com/1107024234/Global-Self-Paced-E-Learning-Market-Expand-At-A-Cagr-Of-1712-To-Reach-Usd-839-Billion-By-2032-I-Say-Insights-X-Herald"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?733165"
+        width: 358
+        height: 250
+        isCached: true
 
 secured: "cjsDiNMEyORde8brX23Mer4RAtLO82Ksq43gQAIUOzLrn0OR0su4Wm0DwU+T1Lm8pCU3c3lYrSmTNjOuprXC2xxMp5gBeNc0Nde2BokrDBgPfjvbzP+LsLl4jTbSx1TVvWVX3Z/QxDHDPcL14K9az25lIlK2WBzHL9l7uclztRMYqfV0i6p1Tj9qNyi5CPKsZ9G8Tib3WYU5W2lppJAq7NrnOFY0vaX7f6RtmM3OEITSYss65Cm67QMrU4hcPrqzMgJRjfmD15BkRnmFmdcIlLF1KxcXqkkCJUoYTL5k8lHfObqghtKJhN8VDjD6UFoUUD1FjS+tLlkeJJiigAteL72PtXSr1ru741Inrk/Oegg=;5i5iJZPvyO4Wq7ptV3dz9Q=="
 ---

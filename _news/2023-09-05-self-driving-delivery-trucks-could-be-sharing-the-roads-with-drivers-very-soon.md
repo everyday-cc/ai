@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbs17.com/news/investigators/self-driving-delivery-truck
 cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/investigators/self-driving-delivery-trucks-could-be-sharing-the-roads-with-drivers-very-soon/amp/"
 type: article
 quality: 40
-heat: 40
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,58 @@ images:
     width: 681
     height: 397
     isCached: true
+
+related:
+  - title: "Self-driving Car Revolution Is Coming, But Slowly"
+    excerpt: "In Munich, where this week's IAA motor show is taking place, an interactive street survey elicits an overwhelming \"yes\" when asking passers-by if they would take a self-driving taxi from the station to the Oktoberfest beer festival."
+    publishedDateTime: 2023-09-07T05:30:00Z
+    webUrl: "https://www.barrons.com/news/self-driving-car-revolution-is-coming-but-slowly-76f42b43?refsec=topics_afp-news"
+    ampWebUrl: "https://www.barrons.com/amp/news/self-driving-car-revolution-is-coming-but-slowly-76f42b43"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/self-driving-car-revolution-is-coming-but-slowly-76f42b43"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 44
+    images:
+      - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
+        width: 1320
+        height: 742
+        isCached: true
+  - title: "Why experts feel self-driving car revolution still a decade away despite enthusiasm"
+    excerpt: "In Munich, where this week's IAA motor show is taking place, an interactive street survey elicits an overwhelming \"yes\" when asking passers-by if they would take a self-driving taxi from the station to the Oktoberfest beer festival. A modified self-driving ..."
+    publishedDateTime: 2023-09-07T04:25:00Z
+    webUrl: "https://www.hindustantimes.com/car-bike/why-experts-feel-self-driving-car-revolution-still-a-decade-away-despite-enthusiasm-101694058998684.html"
+    ampWebUrl: "https://www.hindustantimes.com/car-bike/why-experts-feel-self-driving-car-revolution-still-a-decade-away-despite-enthusiasm-101694058998684-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/car-bike/why-experts-feel-self-driving-car-revolution-still-a-decade-away-despite-enthusiasm-101694058998684-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 38
+    images:
+      - url: "https://www.hindustantimes.com/ht-img/img/2023/09/07/1600x900/GERMANY-AUTOMOBILE-SHOW-IAA-29_1694060041436_1694060073296.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Self-Driving Cars Might Finally Be For Real This Time"
+    excerpt: "A decade ago, there was a lot of hype about self driving cars. In fact, there was more interest in self-driving cars than there was in electric vehicles, in terms of the future of the auto industry. But progress in developing these robotic cars has turned ..."
+    publishedDateTime: 2023-09-06T21:16:00Z
+    webUrl: "https://www.bloomberg.com/news/audio/2023-09-06/self-driving-cars-might-finally-be-for-real-this-time-podcast"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 34
+  - title: "Self-Driving Trucks to Revolutionize Industry, Juice U.S. Economy"
+    excerpt: "Soon, all Americans will be faced with robots driving next to them on highways. The potential of robot-driven trucks is starting to create a movement among businesses and states to be the first ..."
+    publishedDateTime: 2023-09-02T23:59:00Z
+    webUrl: "https://www.thestreet.com/opinion/self-driving-trucks-to-revolutionize-industry-juice-us-economy-13177664"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 4
 
 secured: "9LjoxcsIe0uP0NAwVTPKUAjy5jg5yXMCg2kfJskzIkF1Xt875O/7pg6gjFFoQNN599MHYc+d/O4F/YwmV+4I5qEWU00t+37qk+6TtWmD5BMvXXhynZT3I6XmiKcLLkebj0MuQZAHcdAVfHEFMStiYiUN6oLoM50pKtI4nn331YIw02Xe3L67vKTPHo4A5R3m0gNjIfUpVJAIiVGCDwXeN/sczQw/cw7BKNqAz9N21Cyyj5RK7opZxtW41aKExvAIGHarvw+lbcVZRm/icBVGyCckd8OB6zHQ81urwHl8YpJH+qG9mKRjszgy8y9fJh/FAd3eRhoiBPGMlZhvIvtjUrMU+XgVHC1Z17MI8KqFaxRhBwSTxNUxZVpn9a+SNg8T4iXnJoIKtHeIsY9i0FJQDjFsCYtgI4EJ+N4e7eyFAp3NKUL1pqNX7oGeLZ3CzIBJZjGpN03r0nhr8UVdrbhyljOx4lFvV+kT7MGcQkXA35G3LOGe05mUx2WIdX0T//4WZleok4clZHANvouY15kzmA==;xr1gVQvnXVvu5Wfx72K9HA=="
 ---

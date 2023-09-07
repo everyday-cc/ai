@@ -19,20 +19,63 @@ topics:
   - AI
 
 related:
-  - title: "China’s self-driving vehicle ambitions are motoring towards significant legal and financial roadblocks, experts say"
-    excerpt: "with “self-driving” taxis now commonplace. But, experts question whether a driverless roadway is an imminent reality. Some of the taxis are operated by Baidu’s Apollo Go robotaxi service and ..."
-    publishedDateTime: 2023-09-03T04:04:00Z
-    webUrl: "https://www.scmp.com/business/article/3233149/chinas-self-driving-vehicle-ambitions-are-motoring-towards-significant-legal-and-financial"
+  - title: "Self-driving Car Revolution Is Coming, But Slowly"
+    excerpt: "In Munich, where this week's IAA motor show is taking place, an interactive street survey elicits an overwhelming \"yes\" when asking passers-by if they would take a self-driving taxi from the station to the Oktoberfest beer festival."
+    publishedDateTime: 2023-09-07T05:30:00Z
+    webUrl: "https://www.barrons.com/news/self-driving-car-revolution-is-coming-but-slowly-76f42b43?refsec=topics_afp-news"
+    ampWebUrl: "https://www.barrons.com/amp/news/self-driving-car-revolution-is-coming-but-slowly-76f42b43"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/self-driving-car-revolution-is-coming-but-slowly-76f42b43"
     type: article
     provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 32
+      name: Barron's
+      domain: barrons.com
+    quality: 44
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/09/01/6f736a83-a223-43ba-a5fe-85f2749da190_44094c37.jpg?itok=oVeknyOA&v=1693569827"
-        width: 1200
-        height: 630
+      - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
+        width: 1320
+        height: 742
         isCached: true
+  - title: "Self-driving delivery trucks could be sharing the roads with drivers very soon"
+    excerpt: "The day is coming when that 18-wheeler rolling down the highway won’t have a driver behind the wheel, it’ll be running autonomously and that frightens some."
+    publishedDateTime: 2023-09-05T16:24:00Z
+    webUrl: "https://www.cbs17.com/news/investigators/self-driving-delivery-trucks-could-be-sharing-the-roads-with-drivers-very-soon/"
+    ampWebUrl: "https://www.cbs17.com/news/investigators/self-driving-delivery-trucks-could-be-sharing-the-roads-with-drivers-very-soon/amp/"
+    cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/investigators/self-driving-delivery-trucks-could-be-sharing-the-roads-with-drivers-very-soon/amp/"
+    type: article
+    provider:
+      name: cbs17.com
+      domain: cbs17.com
+    quality: 40
+    images:
+      - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2023/09/thumbnail_web-6.jpg?w=1280"
+        width: 681
+        height: 397
+        isCached: true
+  - title: "Why experts feel self-driving car revolution still a decade away despite enthusiasm"
+    excerpt: "In Munich, where this week's IAA motor show is taking place, an interactive street survey elicits an overwhelming \"yes\" when asking passers-by if they would take a self-driving taxi from the station to the Oktoberfest beer festival. A modified self-driving ..."
+    publishedDateTime: 2023-09-07T04:25:00Z
+    webUrl: "https://www.hindustantimes.com/car-bike/why-experts-feel-self-driving-car-revolution-still-a-decade-away-despite-enthusiasm-101694058998684.html"
+    ampWebUrl: "https://www.hindustantimes.com/car-bike/why-experts-feel-self-driving-car-revolution-still-a-decade-away-despite-enthusiasm-101694058998684-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/car-bike/why-experts-feel-self-driving-car-revolution-still-a-decade-away-despite-enthusiasm-101694058998684-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 38
+    images:
+      - url: "https://www.hindustantimes.com/ht-img/img/2023/09/07/1600x900/GERMANY-AUTOMOBILE-SHOW-IAA-29_1694060041436_1694060073296.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Self-Driving Cars Might Finally Be For Real This Time"
+    excerpt: "A decade ago, there was a lot of hype about self driving cars. In fact, there was more interest in self-driving cars than there was in electric vehicles, in terms of the future of the auto industry. But progress in developing these robotic cars has turned ..."
+    publishedDateTime: 2023-09-06T21:16:00Z
+    webUrl: "https://www.bloomberg.com/news/audio/2023-09-06/self-driving-cars-might-finally-be-for-real-this-time-podcast"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 34
 
 secured: "xdeA/Zss+LSYf/3vxucxbNra4N/LZEBhmsdQJo5XA3Rxsc6dQkkHrtBCT2X/f2Zp4iLk7Ok5GOvCcGzSV6ERv2QVimrxNdZAXc1RxCKFFrPok80SGd98UKyDrW6cc9OTZN5oqWky6wXnQDOj1k+elsB2O1nZBd5i4ohwinzN2MYkyNn2KhxCXBQD85aBF4jps2GpHMCfk0I58zIB1i+dAQcvSsVNmehgrImt9rASnsUM/k6M52PA/uW6PqhPIylO8L+ZusKaRnQTV/jzUQVy2zoUCEWhXKIliZnS//rkxLqhipxDh5oN9/VPM6ferIVNDVunvWOs9qXV7HU23M7kpBeagDpfMHupkT9UPPmSn8s=;H3E0lefZfxS9Pb8j6/kDsw=="
 ---

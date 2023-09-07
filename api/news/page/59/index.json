@@ -2,6 +2,110 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2023-07-26-maximize-stable-diffusion-performance-and-lower-inference-costs-with-aws-inferentia2.md",
+      "title": "Maximize Stable Diffusion performance and lower inference costs with AWS Inferentia2",
+      "excerpt": "Generative AI models have been experiencing rapid growth in recent months due to its impressive capabilities in creating realistic text, images, code, and audio. Among these models, Stable Diffusion models stand out for their unique strength in creating high-quality images based on text prompts. Stable",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/maximize-stable-diffusion-performance-and-lower-inference-costs-with-aws-inferentia2/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/maximize-stable-diffusion-performance-and-lower-inference-costs-with-aws-inferentia2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/26/maximize-stable-diffusion-performance-1260x628.jpg",
+          "width": 1260,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T09:37:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-amazon-cloud-unit-enters-health-care-ai-market-adds-chatbot-tools.md",
+      "title": "Amazon Cloud Unit Enters Health Care AI Market, Adds Chatbot Tools",
+      "excerpt": "Amazon Web Services is unveiling AI services for doctors, business analysis and chatbots as it aims for Microsoft and Google",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-07-26/amazon-cloud-unit-enters-health-care-ai-market-adds-chatbot-tools",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-07-26/amazon-cloud-unit-enters-health-care-ai-market-adds-chatbot-tools",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHYEvk8TxBUA/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T09:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-26-google-and-microsoft-partner-with-openai-to-form-ai-safety-watchdog-group.md",
       "title": "Google and Microsoft partner with OpenAI to form AI safety watchdog group",
       "excerpt": "Called the Frontier Model Forum, the partnership comes after a White House meeting last week with the same companies, plus Amazon and Meta, to discuss the secure and transparent development of future AI.",
@@ -1087,92 +1191,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-how-ai-is-helping-companies-meet-sustainability-goals.md",
-      "title": "How AI is helping companies meet sustainability goals",
-      "excerpt": "Discover the current and emerging use cases for AI in waste management, optimization, energy reduction and ESG reporting.\nThe post How AI is helping companies meet sustainability goals appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-ai-is-helping-companies-meet-sustainability-goals/",
-      "originalUrl": "https://www.ibm.com/blog/how-ai-is-helping-companies-meet-sustainability-goals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-hr-and-talent-in-the-era-of-ai.md",
-      "title": "HR and Talent in the Era of AI",
-      "excerpt": "The emergence of generative AI and foundation models has revolutionized the way every business, across industries, operates at this current inflection point. This is especially true in the HR function, which has been pushed to the forefront of the new AI era. In recent IBV research, 36% of CEOs identified",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/hr-and-talent-in-the-era-of-ai/",
-      "originalUrl": "https://www.ibm.com/blog/hr-and-talent-in-the-era-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

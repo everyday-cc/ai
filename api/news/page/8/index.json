@@ -2,6 +2,100 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-08-31-morgan-stanley-downgrades-this-big-ai-winner-says-stock-can-fall-more-than-40.md",
+      "title": "Morgan Stanley downgrades this big AI winner, says stock can fall more than 40%",
+      "excerpt": "Difficulties monetizing around artificial intelligence could spell bad news for Palantir after its massive rally, Morgan Stanley warned. Analyst Keith Weiss downgraded the data analytics stock to underweight from equal weight while adding $1 to his price target to $9.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/08/31/morgan-stanley-downgrades-this-big-ai-winner-says-stock-can-fall-more-than-40percent.html",
+      "originalUrl": "https://www.cnbc.com/2023/08/31/morgan-stanley-downgrades-this-big-ai-winner-says-stock-can-fall-more-than-40percent.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106807440-1607372084669-gettyimages-1228810311-PALANTIR_NYSE.jpeg?v=1693476296&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-31T01:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-31-baidu-leads-public-rollout-of-ai-chatbots-in-china.md",
+      "title": "Baidu Leads Public Rollout Of AI Chatbots In China",
+      "excerpt": "Tech giant Baidu launched China's first public artificial intelligence chatbot on Thursday, with ERNIE trained to censor highly sensitive topics for the ruling Communist Party such as the Tiananmen crackdown.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d?refsec=topics_afp-news",
+      "originalUrl": "https://www.barrons.com/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d?refsec=topics_afp-news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.barrons.com/asset/external-media/afp/AFP9640123735043191226260508873486149274090---1.jpg",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d",
+      "publishedDateTime": "2023-08-31T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-31-arnold-schwarzeneggers-stunt-coordinator-wants-fair-contract-as-ai-continues-to-loom-over-hollywood-strike.md",
       "title": "Arnold Schwarzenegger's stunt coordinator wants ‘fair contract’ as AI continues to loom over Hollywood strike",
       "excerpt": "A stunt coordinator who's worked with the likes of Arnold Schwarzenegger and Ryan Reynolds, explains he just wants a fair contract out of the ongoing actors strike.",
@@ -1146,103 +1240,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-30-deploy-self-service-question-answering-with-the-qnabot-on-aws-solution-powered-by-amazon-lex-with-amazon-kendra-and-large-language-models.md",
-      "title": "Deploy self-service question answering with the QnABot on AWS solution powered by Amazon Lex with Amazon Kendra and large language models",
-      "excerpt": "Powered by Amazon Lex, the QnABot on AWS solution is an open-source, multi-channel, multi-language conversational chatbot. QnABot allows you to quickly deploy self-service conversational AI into your contact center, websites, and social media channels, reducing costs, shortening hold times, and improving",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-self-service-question-answering-with-the-qnabot-on-aws-solution-powered-by-amazon-lex-with-amazon-kendra-and-large-language-models/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-self-service-question-answering-with-the-qnabot-on-aws-solution-powered-by-amazon-lex-with-amazon-kendra-and-large-language-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/30/featured-images-ML-14990-1120x630.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-30T13:07:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-3-up-and-coming-ai-chip-stocks-to-put-on-your-must-buy-list.md",
-      "title": "3 Up-and-Coming AI Chip Stocks to Put on Your Must-Buy List",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Are you searching for a list of top AI chip companies? AI chip companies are",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/3-up-and-coming-ai-chip-stocks-to-put-on-your-must-buy-list-1032594136",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-up-and-coming-ai-chip-stocks-to-put-on-your-must-buy-list-1032594136",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-30T12:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -2,6 +2,100 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-08-31-expanded-partnership-brings-opentext-core-content-to-google-workspace.md",
+      "title": "Expanded Partnership Brings OpenText Core Content To Google Workspace",
+      "excerpt": "VP and Principal Analyst, Modern Work and financial services, Melody Brue, looks at OpenText and Google’s collaboration in Google Workspace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/08/31/expanded-partnership-brings-opentext-core-content-to-google-workspace/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/08/31/expanded-partnership-brings-opentext-core-content-to-google-workspace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64f0ba046f6bd58165b575a5/0x0.jpg?format=jpg&width=1200",
+          "width": 624,
+          "height": 328,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/08/31/expanded-partnership-brings-opentext-core-content-to-google-workspace/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/08/31/expanded-partnership-brings-opentext-core-content-to-google-workspace/amp/",
+      "publishedDateTime": "2023-08-31T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-31-how-to-detect-and-patch-a-log4j-vulnerability.md",
+      "title": "How to detect and patch a Log4J vulnerability ",
+      "excerpt": "The Log4j vulnerability—dubbed \"Log4Shell\"—still persists nearly two years later. Learn how to detect and patch the vulnerability.\nThe post How to detect and patch a Log4J vulnerability  appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-to-detect-and-patch-a-log4j-vulnerability/",
+      "originalUrl": "https://www.ibm.com/blog/how-to-detect-and-patch-a-log4j-vulnerability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-31T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-31-ai-is-not-just-about-automation-we-need-personalization-too.md",
       "title": "AI Is Not Just About Automation, We Need Personalization Too",
       "excerpt": "This is important because these misleading claims have the negative side effect of causing consumers to mistrust the field altogether. Users don’t want to have to constantly wonder if a product claiming to use AI actually is doing so and, if so, using it correctly. Consumers don’t need to be tricked very many times to lose faith.",
@@ -1082,100 +1176,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-morgan-stanley-downgrades-this-big-ai-winner-says-stock-can-fall-more-than-40.md",
-      "title": "Morgan Stanley downgrades this big AI winner, says stock can fall more than 40%",
-      "excerpt": "Difficulties monetizing around artificial intelligence could spell bad news for Palantir after its massive rally, Morgan Stanley warned. Analyst Keith Weiss downgraded the data analytics stock to underweight from equal weight while adding $1 to his price target to $9.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/08/31/morgan-stanley-downgrades-this-big-ai-winner-says-stock-can-fall-more-than-40percent.html",
-      "originalUrl": "https://www.cnbc.com/2023/08/31/morgan-stanley-downgrades-this-big-ai-winner-says-stock-can-fall-more-than-40percent.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106807440-1607372084669-gettyimages-1228810311-PALANTIR_NYSE.jpeg?v=1693476296&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-31T01:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-baidu-leads-public-rollout-of-ai-chatbots-in-china.md",
-      "title": "Baidu Leads Public Rollout Of AI Chatbots In China",
-      "excerpt": "Tech giant Baidu launched China's first public artificial intelligence chatbot on Thursday, with ERNIE trained to censor highly sensitive topics for the ruling Communist Party such as the Tiananmen crackdown.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d?refsec=topics_afp-news",
-      "originalUrl": "https://www.barrons.com/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d?refsec=topics_afp-news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.barrons.com/asset/external-media/afp/AFP9640123735043191226260508873486149274090---1.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d",
-      "publishedDateTime": "2023-08-31T00:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
