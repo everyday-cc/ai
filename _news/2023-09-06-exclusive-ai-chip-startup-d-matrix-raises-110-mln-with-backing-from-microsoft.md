@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI chip startup d-Matrix raises $110 mln with backing from Microsoft"
+    excerpt: "Microsoft: Nvidia's dominant position in the AI chip market due to a powerful combination of hardware and software has scared off potential investors in some startups, according to sources Reuters interviewed."
+    publishedDateTime: 2023-09-07T07:10:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231"
+    type: article
+    provider:
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 91
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-103460231,imgsize-1539213,width-1200,height=765,overlay-etbrandequity/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "AI chip startup d-Matrix raises $110 million with backing from Microsoft"
     excerpt: "Silicon Valley-based artificial intelligence chip startup d-Matrix has raised $110 million from investors that include Microsoft Corp at a time when many chip companies are struggling to raise cash. Nvidia's dominant position in the AI chip market due to a ..."
     publishedDateTime: 2023-09-06T10:32:00Z
@@ -75,20 +91,6 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2023/09/06/d-matrix_logo.jpg?width=1200&height=800&fit=crop"
         width: 941
         height: 627
-        isCached: true
-  - title: "AI chip startup d-Matrix raises $110 mln with backing from Microsoft"
-    excerpt: "Silicon Valley-based artificial intelligence chip startup d-Matrix has raised $110 million from investors that include Microsoft Corp at a time when many chip companies are struggling to raise cash. Nvidia's dominant position in the AI chip market due to a ..."
-    publishedDateTime: 2023-09-07T02:26:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/devices/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103448547"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 71
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-103448547,imgsize-24318,width-1200,height=765,overlay-ettelecom/devices/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft.jpg"
-        width: 1200
-        height: 765
         isCached: true
   - title: "Microsoft expands UAE's G42 partnership to include cloud, AI tools"
     excerpt: "\"With data privacy, security, and compliance as our core priorities, we have a unique opportunity to help organizations responsibly innovate,\" Microsoft Chief Commercial Officer Judson Althoff said"

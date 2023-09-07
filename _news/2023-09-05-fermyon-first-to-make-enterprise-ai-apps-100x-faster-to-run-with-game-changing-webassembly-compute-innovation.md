@@ -6,8 +6,8 @@ publishedDateTime: 2023-09-05T10:51:00Z
 originalUrl: "https://it.tmcnet.com/news/2023/09/05/9874325.htm"
 webUrl: "https://it.tmcnet.com/news/2023/09/05/9874325.htm"
 type: article
-quality: 0
-heat: 0
+quality: 22
+heat: 22
 published: false
 
 provider:
@@ -17,7 +17,14 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
-secured: "UXvgQuBvzAkCkDFM6wwZuJYU5mG0PNk4kdiJaaLhq/1jE7dBKAjOUWcAp1sfjYWb2J0VXxoA39EVgz6DuYkgwU+FrUPtnR40dOyFeibdpIJweo99MkoD4QXoWy3TBL60kG6dUYRaV2PPQFmpNuNVp8tHCOMhU3dvHs3KJDfMiLzdiuwIF7hHMQPoWvLllaxVn7voG+46kZ11V/7gNvW3Z7WGJJncjwoTnMLHDg+8N/IPtkYQhIhxAB9EKmi3TH6SjNOPjD7UmSpNrfu3JD48hyXNVTvu78BtyqdhQVfeCI3EWvXQQ+GtxzQ3HmQf0NC6/oUwjuovQq41rojdt9EhHpvrFQ2yi+q4cqaXYKwcsQ6Juu0t/EWMhpIwiQBJWy16oURAj9LrU+nmK6ap1JjQdoEHhId/Dth9cZWz5s0jz+Bh/Yz3+Ryubf+6Rtd6izZxbrUwWqtLQTEEcvfuZDRxxjaNPHKT06l3wvJ3kwcNN8DzgTH3XTTgc2eeveD8SK2hWmLXDje/ljWA5MpYBWYrqw==;b9mxHjkaEHptXt/nn7LBkw=="
+images:
+  - url: "https://ml.globenewswire.com/Resource/Download/2b283ba8-802f-44ab-ac9c-3e8668846573"
+    width: 624
+    height: 340
+    isCached: true
+
+secured: "CL4BSq1b+wODldGxQA8c/XTAtU0ESRDz+AGbFNEn68M/ddTuGWnTsp21B0QVOeZ9wTQg0yc/DwD3MiDC9ZT/VoZ7+alyIWU84cTka61sT6a6JlwTtXb0+Kv8xWyM4DbujZbxrfmDEEAZlxlLGVspgFmfqaqKz8drdxBbYKHgjmjEAJRY4rjgF8NQdm38xQ7ehVnfk/VPk8pxV4w+69TKz9yi5B419NsCz77O3SlDtuFfPH/IfWtEIFY/jsshRttnoIHXjKbSvwv0btu1yjZ0bEiscdSrBZL7cXHMUVJ3r2rjK0Cz6GSv4HU+fzw93WLLt0dFTGWPJhxPHzQqTkQOYOHAgX5KK4Mv6ug1EjHKUC0=;nO3yeSwt2Sn5uLsO6352uA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/zendesk/2023/09/06/how-ai-is-boosting-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zendesk/2023/09/06/how-ai-is-boosting-agent-intelligence-and-evolving-the-cx-team/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -39,6 +39,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "AI-powered market intelligence firm AMPLYFI closes funding round to ‘democratise intelligence’"
+    excerpt: "AMPLYFI, has closed a significant funding round to unlock knowledge capital through a powerful combination of machine learning and generative AI."
+    publishedDateTime: 2023-09-07T07:40:00Z
+    webUrl: "https://enterprisetalk.com/news/ai-powered-market-intelligence-firm-amplyfi-closes-funding-round-to-democratise-intelligence/"
+    ampWebUrl: "https://enterprisetalk.com/news/ai-powered-market-intelligence-firm-amplyfi-closes-funding-round-to-democratise-intelligence/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/ai-powered-market-intelligence-firm-amplyfi-closes-funding-round-to-democratise-intelligence/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 47
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/09/AI-powered-market-intelligence-firm-AMPLYFI-closes.jpg"
+        width: 1500
+        height: 844
+        isCached: true
 
 secured: "a3QXPh/b/0J32yER9poQB7mJFv7AAI1pnAREyy1y7APW8lrpeiy+lWJm6cIR1VV6uRfMt1Nvt6a+4UfyiBMWg+9lchgNqWmpRtER4AsJ5w1EqyRqVkvAQaVyIfRgBl1IsP77TQHHqRQb6046XnCyUGLwrhfs4dx1ODbKGYffwIA1gVUwfsxEmQwscIP4BW+ukRp9d07HnB1WX+qd2+02HVcu8p8glvdq4H3PnwWffffvEIXAHbRPzv1faZbdjkrH22jLX3Qanz5HCScUUg1oWYulU6Iqml0Zt/C3Qim8t0y9EAu+Fd0J3aRKeVXm09jkPwAW4VKIpHqMtEVUG+QRQ0/jP7PRkX4hZVEWB+Zk3aOkwRy+KQFVOP68RreI2rTNC7eOB8a7oR2qc8zcG3bNoSQPNl5MilNoD7YcyINCgBCFgUxzGqqwz2nq/S/x94MQPEJjZC3J/QRXVHvJYAjByaoE8tB3V7kk/hiiyzdycs8lu4GN/q70vqbjUgMWJj3XtmtvBCt/8JeXs0Ca7zDNhg==;aMlU2Rc6ceVCyzTIgiiaRw=="
 ---

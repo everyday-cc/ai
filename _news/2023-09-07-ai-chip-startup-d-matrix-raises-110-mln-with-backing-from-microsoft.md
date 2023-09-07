@@ -1,17 +1,19 @@
 ---
 category: news
 title: "AI chip startup d-Matrix raises $110 mln with backing from Microsoft"
-excerpt: "Silicon Valley-based artificial intelligence chip startup d-Matrix has raised $110 million from investors that include Microsoft Corp at a time when many chip companies are struggling to raise cash. Nvidia's dominant position in the AI chip market due to a ..."
-publishedDateTime: 2023-09-07T02:26:00Z
-originalUrl: "https://telecom.economictimes.indiatimes.com/news/devices/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103448547"
-webUrl: "https://telecom.economictimes.indiatimes.com/news/devices/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103448547"
+excerpt: "Microsoft: Nvidia's dominant position in the AI chip market due to a powerful combination of hardware and software has scared off potential investors in some startups, according to sources Reuters interviewed."
+publishedDateTime: 2023-09-07T07:10:00Z
+originalUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231"
+webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231"
+ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231"
+cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231"
 type: article
-quality: 71
+quality: 91
 heat: -1
 published: false
 
 provider:
-  name: telecom.economictimes.indiatimes
+  name: brandequity.economictimes.indiatimes
   domain: indiatimes.com
 
 topics:
@@ -20,7 +22,7 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-103448547,imgsize-24318,width-1200,height=765,overlay-ettelecom/devices/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft.jpg"
+  - url: "https://etimg.etb2bimg.com/thumb/msid-103460231,imgsize-1539213,width-1200,height=765,overlay-etbrandequity/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft.jpg"
     width: 1200
     height: 765
     isCached: true
@@ -227,6 +229,6 @@ related:
       domain: proactiveinvestors.com
     quality: 17
 
-secured: "LasiQtxBBRq4EfYbf+7b4aATLIE37zBDN6y1DXMLdLuZ/V0154TLQesjHH6CNS9KGM4IKI+aT36kY985SbyirjOBYsduX+lvYysXlvz4qwF8EIBGLGGagrDaOveDJ6fKn807HUPWWGzb9GrlYvanlZg9320ot93oJbjvJJD2DJNO/+crhrnE9dPdyyPlV3SMMOeXZfz7DcJ7Bq9pZ5hop6DQI34nJw+gLGqPIGdeScwHtt0a9u80L90v3t5TBzoKVAZXJHau4fMdsHNjhgw9AtfOG5xzYViccv3v7TJSlIX30odUBwDINZguFAf3l2h1CPfiAybRKlfJP/fCI0CMyqG/6GW+f+1C3aUZFhv9H5cnTvW6YzSZanQ+VO4ZuV/OCrDK443oyN3AtTvycOX/08wWhPXy18AieaB14sLCWxbUXeiDZsZ8EULsVilFxxt1eRi067FBOWS6OtnM1tyJ1dh1F5CAO6jlsLq0TdzffMwBKQZRgi0K8Gk8oTx8Bzs8sIqPuercuqL46nWLyK3rXg==;GkHxeZygb/RwH1x1pAx/Rw=="
+secured: "Li6WGPaOIG5ycUfb/++PShEebe9VOznQ9tUZUqRd1xWACT5URP1EmLBRN3PotmwSZq0aVTGsBhqDC1E/OilfqHvEybjrNNR2GCA8HAXiu2mf9Psz0MSQLHTW0RvJLXgFePT/SCBA5B8KE871O0zAAYFfVZLnayAsCu9eJUpYh4IBSIpSjkTqq3s01Fp7v+E0KGFKse8KL5f296PtPwpIcb5gG4u847N5RmWIqr1Y1c4tQmf3e0vwwCsuTUqn/f5bG4ZjMrz/h1x0zAXOrtw/qsRXZZI0BAnV+WUdQmK4/ErGiAERLx1BSrUcj9fVlCKGht7ZubnABC+oFobU71KuPqThPETCRByt5tO/ynyBV+Q=;LxwLu524eb31Rk+Ubk7B8A=="
 ---
 

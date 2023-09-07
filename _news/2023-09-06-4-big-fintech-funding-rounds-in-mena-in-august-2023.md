@@ -34,22 +34,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 66
-  - title: "Engineering firms lose out to fintech and IT in recruitment war"
-    excerpt: "Work is needed to counter the ‘oily’ image of jobs for engineers, and stop the digital sector from luring the best graduates"
-    publishedDateTime: 2023-09-02T14:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/sep/02/engineering-firms-lose-out-to-fintech-and-it-in-recruitment-war"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/sep/02/engineering-firms-lose-out-to-fintech-and-it-in-recruitment-war"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/sep/02/engineering-firms-lose-out-to-fintech-and-it-in-recruitment-war"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 44
-    images:
-      - url: "https://i.guim.co.uk/img/media/dc6469d366c4c5175bd3ed85f73df9333723eb49/0_372_5721_3433/master/5721.jpg?width=620&quality=85&auto=format&fit=max&s=36b849965fa2dfb1180e0001dd1a271b"
-        width: 620
-        height: 372
-        isCached: true
   - title: "3 Fintech Stocks the Big Money Is Buying Now"
     excerpt: "In the ever-evolving financial realm, fintech stocks with big money continue to grab investors’ attention. The fintech industry has undergone a radical shift, evolving into an epicenter of innovation,"
     publishedDateTime: 2023-09-03T12:59:00Z

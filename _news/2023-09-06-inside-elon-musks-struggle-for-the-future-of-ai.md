@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6310076/elon-musk-ai-walter-isaacson-biography/"
 webUrl: "https://time.com/6310076/elon-musk-ai-walter-isaacson-biography/"
 type: article
 quality: 69
-heat: 100
+heat: 99
 published: true
 
 provider:
