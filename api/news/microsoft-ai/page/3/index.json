@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-08-18-satya-nadellas-take-on-ai-and-incorporation-into-microsoft.md",
+      "title": "Satya Nadella’s take on AI and incorporation into Microsoft",
+      "excerpt": "Satya Nadella's vision for the integration of Artificial Intelligence into Microsoft's fabric has taken the company to new heights",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/international/satya-nadella-s-take-on-ai-and-incorporation-into-microsoft-news-311814",
+      "originalUrl": "https://www.outlookindia.com/international/satya-nadella-s-take-on-ai-and-incorporation-into-microsoft-news-311814",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1692369713.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/international/satya-nadella-s-take-on-ai-and-incorporation-into-microsoft-news-311814/amp",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/international/satya-nadella-s-take-on-ai-and-incorporation-into-microsoft-news-311814/amp",
+      "publishedDateTime": "2023-08-18T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-18-microsoft-open-sources-onnx-script-for-python-machine-learning-models.md",
       "title": "Microsoft Open Sources 'ONNX Script' for Python Machine Learning Models",
       "excerpt": "defining a common set of the building blocks of machine learning and deep learning models, called operators, along with a common file format to enable AI developers to use models with a variety of frameworks, tools, runtimes and compilers. The ONNX Script ...",
@@ -1393,50 +1436,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-09-protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai-center-of-excellence-and-ai-solutions.md",
-      "title": "Protiviti Achieves AI and Machine Learning in Microsoft Azure Specialization; Launches Microsoft AI Center of Excellence and AI Solutions",
-      "excerpt": "After achieving the elite AI and Machine Learning in Microsoft Azure specialization, Protiviti has launched new Microsoft Artificial Intelligence (AI) Center of Excellence and AI Solutions to help ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-journal.com/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai-center-of/article_45d15318-7d76-5070-8fac-6d1fd3387f88.html",
-      "originalUrl": "https://www.news-journal.com/protiviti-achieves-ai-and-machine-learning-in-microsoft-azure-specialization-launches-microsoft-ai-center-of/article_45d15318-7d76-5070-8fac-6d1fd3387f88.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/b/e6/be687c69-88df-573e-84a6-9aa6e9f84093/6487649388079.image.jpg?crop=924%2C485%2C200%2C0&resize=924%2C485&order=crop%2Cresize",
-          "width": 924,
-          "height": 485,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-09T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Longview News-Journal",
-        "domain": "news-journal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

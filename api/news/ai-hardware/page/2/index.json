@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-29-ai-bros-are-at-war-over-declarations-that-googles-upcoming-gemini-ai-model-smashes-openais-gpt-4.md",
+      "title": "AI bros are at war over declarations that Google's upcoming Gemini AI model smashes OpenAI's GPT-4",
+      "excerpt": "Declarations that Google's upcoming Gemini AI model outflanks OpenAI's GPT-4 set the tech world alight.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/google-gemini-ai-model-smashes-gpt4-says-semianalysis-2023-8",
+      "originalUrl": "https://www.businessinsider.com/google-gemini-ai-model-smashes-gpt4-says-semianalysis-2023-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64edd5319664cf0019e7f4fa?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/google-gemini-ai-model-smashes-gpt4-says-semianalysis-2023-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-gemini-ai-model-smashes-gpt4-says-semianalysis-2023-8?amp",
+      "publishedDateTime": "2023-08-29T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-29-oracles-stock-wins-an-upgrade-as-wall-street-may-be-underestimating-its-ai-advantage.md",
       "title": "Oracle’s stock wins an upgrade, as Wall Street may be underestimating its AI advantage",
       "excerpt": "“We could be sitting in front of 6-12 months of GPU shortage noise and we haven’t even seen the $2 [billion] in AI start-up commitments convert to OCI usage.” He added that he had been skeptical “about the existence and certainly sustainability of ...",
@@ -1429,50 +1481,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-tesla-investor-says-ev-giant-and-nvidias-ai-gpu-fusion-is-the-future-now-its-all-coming-together.md",
-      "title": "Tesla Investor Says EV Giant And Nvidia's AI-GPU Fusion Is The 'Future' Now: 'It's All Coming Together'",
-      "excerpt": "Tesla Inc TSLA investor Ross Gerber highlighted the synergy between Nvidia Corp NVDA and Tesla, emphasizing the convergence of AI autonomy and GPU technology. The tweet came amid the combined market value of the two companies matched the entire value of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/23/08/33976696/tesla-investor-says-ev-giant-and-nvidias-ai-gpu-fusion-is-the-future-now-its-all-coming-together",
-      "originalUrl": "https://www.benzinga.com/news/23/08/33976696/tesla-investor-says-ev-giant-and-nvidias-ai-gpu-fusion-is-the-future-now-its-all-coming-together",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/Tesla.Shutterstock_4.jpeg?width=1200&height=800&fit=crop",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33976696",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33976696",
-      "publishedDateTime": "2023-08-21T22:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

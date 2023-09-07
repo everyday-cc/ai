@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-05-5-types-of-chatbot-and-how-to-choose-the-right-one-for-your-business.md",
+      "title": "5 types of chatbot and how to choose the right one for your business",
+      "excerpt": "Chatbots are playing an increasingly prevalent role in our lives. Here are five types of chatbot and how to pick the best one for your business.\nThe post 5 types of chatbot and how to choose the right one for your business appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/chatbot-types/",
+      "originalUrl": "https://www.ibm.com/blog/chatbot-types/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-05T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-05-what-openai-really-wants.md",
       "title": "What OpenAI Really Wants",
       "excerpt": "Then we’re going to have systems that can do basic cognitive labor ... one of the world’s most desirable new customers for its Azure web services. With those rewards in sight, Microsoft wasn’t even bothered by the clause that demands reconsideration ...",
@@ -1172,57 +1214,6 @@
         "AI Ethics",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-09-04-your-ai-doctor-will-see-you-now-how-technology-is-disrupting-medicine-and-beyond-in-south-africa.md",
-      "title": "Your AI doctor will see you now: How technology is disrupting medicine and beyond in South Africa",
-      "excerpt": "Artificial intelligence remains hotly contested, but scientists in South Africa are spearheading its development across various sectors, from healthcare to hospitality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/videos/tv/2023/08/31/inside-africa-technology-is-disrupting-medicine-and-beyond-in-south-africa-spc-intl.cnn",
-      "originalUrl": "https://www.cnn.com/videos/tv/2023/08/31/inside-africa-technology-is-disrupting-medicine-and-beyond-in-south-africa-spc-intl.cnn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230904095302-inside-africa-technology-is-disrupting-medicine-and-beyond-in-south-africa-spc-intl-00023730.png?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/tv/2023/08/31/inside-africa-technology-is-disrupting-medicine-and-beyond-in-south-africa-spc-intl.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/tv/2023/08/31/inside-africa-technology-is-disrupting-medicine-and-beyond-in-south-africa-spc-intl.cnn",
-      "publishedDateTime": "2023-09-04T02:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

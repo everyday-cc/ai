@@ -2,6 +2,325 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-25-the-i-have-a-dream-speech-would-not-have-happened-without-these-women.md",
+      "title": "The \"I Have a Dream\" speech would not have happened without these women",
+      "excerpt": "During Dr. King’s speech, Ms. Jackson, who stood to his left ... I like to think that they were influenced by these women who did not get the type of recognition and acknowledgment that they deserved.” Mr. Jones said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattlepi.com/news/article/the-i-have-a-dream-speech-would-not-have-18331469.php",
+      "originalUrl": "https://www.seattlepi.com/news/article/the-i-have-a-dream-speech-would-not-have-18331469.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-25T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "seattlepi.com",
+        "domain": "seattlepi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-25-in-the-game-of-ai-think-ladders-not-snakes.md",
+      "title": "In The Game Of AI, Think Ladders, Not Snakes",
+      "excerpt": "When we shift from a mindset of AI replacing jobs to AI enhancing jobs, we start to see its true potential. It's not about what we’re losing, but what we’re gaining.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/25/in-the-game-of-ai-think-ladders-not-snakes/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/25/in-the-game-of-ai-think-ladders-not-snakes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64355e00d7bd6767a2eb482e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/25/in-the-game-of-ai-think-ladders-not-snakes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/25/in-the-game-of-ai-think-ladders-not-snakes/amp/",
+      "publishedDateTime": "2023-08-25T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-08-25-meta-introduces-seamlessm4t-ai-system-to-help-you-translate-100-languages.md",
+      "title": "Meta introduces SeamlessM4T AI system to help you translate 100 languages",
+      "excerpt": "unlike traditional language translation tools, which have issues with limited language coverage, the SeamlessM4T open-source AI model effortlessly handles speech-to-text and text-to-text ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/2023/08/meta-introduces-seamlessm4t-ai-system-translate-100-languages.html",
+      "originalUrl": "https://www.androidheadlines.com/2023/08/meta-introduces-seamlessm4t-ai-system-translate-100-languages.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2023/01/Meta-logo-image-103.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/2023/08/meta-introduces-seamlessm4t-ai-system-translate-100-languages.html?amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/08/meta-introduces-seamlessm4t-ai-system-translate-100-languages.html?amp",
+      "publishedDateTime": "2023-08-25T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-25-you-can-dupe-voice-recognition-software-with-pvc-pipes-uw-madison-researchers-discover.md",
+      "title": "You can dupe voice recognition software with PVC pipes, UW-Madison researchers discover",
+      "excerpt": "The research suggests security systems within voice recognition software, frequently used to protect people's bank accounts and other sensitive information, aren't entirely safe from would-be thieves.",
+      "sourceUrl": null,
+      "webUrl": "https://madison.com/news/local/education/university/uw-madison-research-voice-recognition-security/article_5abc588e-41f3-11ee-9bce-4fa93f74193d.html",
+      "originalUrl": "https://madison.com/news/local/education/university/uw-madison-research-voice-recognition-security/article_5abc588e-41f3-11ee-9bce-4fa93f74193d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/5/ab/5abc588e-41f3-11ee-9bce-4fa93f74193d/64e6ae349c49c.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-25T03:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Madison.com",
+        "domain": "madison.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-25-ai-to-binge-lapd-bodycam-footage-to-weed-out-rude-tone-aggressive-language.md",
+      "title": "AI to binge LAPD bodycam footage to weed out rude tone, aggressive language",
+      "excerpt": "The LAPD’s Inspector General’s office will be carrying out its own study on officer language during interactions with the public, the Times reported. The use of AI at police departments is not ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/ai-binge-lapd-bodycam-footage-weed-rude-tone-aggressive-language",
+      "originalUrl": "https://www.foxnews.com/tech/ai-binge-lapd-bodycam-footage-weed-rude-tone-aggressive-language",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3d27d1e0-83c0-481c-8900-e90e8481b6e8/4591172e-ef7d-4d29-b9d2-2277b56a6497/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/ai-binge-lapd-bodycam-footage-weed-rude-tone-aggressive-language.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-binge-lapd-bodycam-footage-weed-rude-tone-aggressive-language.amp",
+      "publishedDateTime": "2023-08-24T19:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-25-responsible-ai-transparency-what-to-disclose-about-your-ai-systems.md",
+      "title": "Responsible AI Transparency: What To Disclose About Your AI Systems",
+      "excerpt": "However, in the competitive landscape of the ongoing AI race, companies often hesitate to disclose extensive information to protect trade secrets and avoid legal repercussions. As such, striking a balance between transparency and safeguarding trade secrets poses a significant challenge for AI companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbeseq/2023/08/24/responsible-ai-transparency-what-to-disclose-about-your-ai-systems/",
+      "originalUrl": "https://www.forbes.com/sites/forbeseq/2023/08/24/responsible-ai-transparency-what-to-disclose-about-your-ai-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e7bacbba84c9a5903b0612/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 788,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbeseq/2023/08/24/responsible-ai-transparency-what-to-disclose-about-your-ai-systems/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeseq/2023/08/24/responsible-ai-transparency-what-to-disclose-about-your-ai-systems/amp/",
+      "publishedDateTime": "2023-08-24T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-you-can-dupe-voice-recognition-software-with-pvc-pipes-uw-madison-researchers-discover.md",
+      "title": "You can dupe voice recognition software with PVC pipes, UW-Madison researchers discover",
+      "excerpt": "The research suggests security systems within voice recognition software aren't as secure as people are made to believe. About 60% of Americans use voice recognition technology on a daily basis ...",
+      "sourceUrl": null,
+      "webUrl": "https://journaltimes.com/news/state-and-regional/uw-madison-research-voice-recognition-security/article_12d5f67a-1c8e-5aec-9ed2-479a06ecbd5b.html",
+      "originalUrl": "https://journaltimes.com/news/state-and-regional/uw-madison-research-voice-recognition-security/article_12d5f67a-1c8e-5aec-9ed2-479a06ecbd5b.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/assets/v3/editorial/1/2d/12d5f67a-1c8e-5aec-9ed2-479a06ecbd5b/64e7752ab0b97.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-24T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Journal Times",
+        "domain": "journaltimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-24-uw-madison-researchers-find-a-way-to-dupe-voice-recognition-security-software.md",
       "title": "UW-Madison researchers find a way to dupe voice recognition security software",
       "excerpt": "UW-Madison researchers have found a way to confuse voice recognition software by adjusting their voice frequencies to mimic others using a mathematical model and a plastic or metal tubes.",
@@ -153,6 +472,58 @@
         "name": "The Indian Express",
         "domain": "indianexpress.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-meta-releases-ai-to-translate-dozens-of-languages-using-speech-and-text.md",
+      "title": "Meta Releases AI to Translate Dozens of Languages Using Speech and Text",
+      "excerpt": "Meta took a step towards a universal language translator on Tuesday with the release of its new Seamless M4T AI model, which the company says can quickly and efficiently understand language from ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/meta-releases-seamlessm4t-translation-ai-text-speech-1850761868",
+      "originalUrl": "https://gizmodo.com/meta-releases-seamlessm4t-translation-ai-text-speech-1850761868",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/1e1a0f03db5318c6ee689ba8646ed173.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-23T19:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -943,379 +1314,6 @@
       "provider": {
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-21-how-india-needs-to-prepare-for-the-ai-disruption.md",
-      "title": "How India needs to prepare for the AI disruption",
-      "excerpt": "We must develop a comprehensive national AI strategy that connects stakeholders to provide a roadmap for responsible AI deployment and increase funding for AI research",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/opinion/columns/artificial-intelligence-global-generative-ai-market-large-language-models-generative-ai-8901395/",
-      "originalUrl": "https://indianexpress.com/article/opinion/columns/artificial-intelligence-global-generative-ai-market-large-language-models-generative-ai-8901395/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2023/08/AI-2.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/opinion/columns/artificial-intelligence-global-generative-ai-market-large-language-models-generative-ai-8901395/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/opinion/columns/artificial-intelligence-global-generative-ai-market-large-language-models-generative-ai-8901395/lite/",
-      "publishedDateTime": "2023-08-20T18:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-18-snapchats-ai-bot-sparks-privacy-panic-after-it-posts-photo-on-its-own.md",
-      "title": "Snapchat’s AI bot sparks privacy panic after it posts photo on its own",
-      "excerpt": "Snapchat’s new AI tool, My AI, freaked users out when it automatically posted a photo to users’ stories who thought the chatbot snapped a photo of their ceilings. They later found out",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2023/08/18/snapchats-ai-bot-posts-photo-on-its-own-causes-privacy-scare/",
-      "originalUrl": "https://nypost.com/2023/08/18/snapchats-ai-bot-posts-photo-on-its-own-causes-privacy-scare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/08/NYPICHPDPICT000023510159.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2023/08/18/snapchats-ai-bot-posts-photo-on-its-own-causes-privacy-scare/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/08/18/snapchats-ai-bot-posts-photo-on-its-own-causes-privacy-scare/amp/",
-      "publishedDateTime": "2023-08-18T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-18-communication-using-thought-alone-unbabel-unveils-ai-project-to-give-us-superhuman-capabilities.md",
-      "title": "Communication using thought alone? Unbabel unveils AI project to give us superhuman capabilities",
-      "excerpt": "For instance, a device made by Facebook-owned CTRL-labs had an EMG wristband in 2019 ... several Portuguese startups and research centers to invest €78 million in AI research, creating 210 jobs under the Portuguese Recovery and Resilience Plan.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/18/communication-using-thought-alone-unbabel-unveils-ai-project-to-give-us-superhuman-capabilities/",
-      "originalUrl": "https://techcrunch.com/2023/08/18/communication-using-thought-alone-unbabel-unveils-ai-project-to-give-us-superhuman-capabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/08/Unbabel-Halo-2.jpg?resize=1200,682",
-          "width": 1200,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/18/communication-using-thought-alone-unbabel-unveils-ai-project-to-give-us-superhuman-capabilities/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/18/communication-using-thought-alone-unbabel-unveils-ai-project-to-give-us-superhuman-capabilities/amp/",
-      "publishedDateTime": "2023-08-18T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-18-will-ai-replace-freelancers-using-ai-to-grow-and-empower.md",
-      "title": "Will AI Replace Freelancers? Using AI To Grow And Empower",
-      "excerpt": "I believe that more than putting freelancers out of a job, AI can help you grow your businesses and empower you on your way to success.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/will-ai-replace-freelancers-using-ai-to-grow-and-empower/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/will-ai-replace-freelancers-using-ai-to-grow-and-empower/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64de254a1a13566b673d5165/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/will-ai-replace-freelancers-using-ai-to-grow-and-empower/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/will-ai-replace-freelancers-using-ai-to-grow-and-empower/amp/",
-      "publishedDateTime": "2023-08-18T05:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-the-power-of-ai-in-modeling-healthy-communications.md",
-      "title": "The Power Of AI In Modeling Healthy Communications",
-      "excerpt": "Artificial intelligence (AI) has emerged as a powerful tool in modeling healthy communications, which I define as interactions that promote mutual benefit and growth. Let's look at how, through AI, business leaders can enhance their teams' understanding of effective communication strategies and model them for specific applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/the-power-of-ai-in-modeling-healthy-communications/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/the-power-of-ai-in-modeling-healthy-communications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5ef60896accb250006414b32/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/the-power-of-ai-in-modeling-healthy-communications/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/the-power-of-ai-in-modeling-healthy-communications/amp/",
-      "publishedDateTime": "2023-08-17T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-digital-india-expansion-approved-bhashini-to-translate-22-languages.md",
-      "title": "Digital India expansion approved; Bhashini to translate 22 languages",
-      "excerpt": "The Union Cabinet chaired by Prime Minister Narendra Modi on Wednesday approved the expansion of the Digital India programme",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestatesman.com/india/digital-india-expansion-approved-bhashini-to-translate-22-languages-1503212563.html",
-      "originalUrl": "https://www.thestatesman.com/india/digital-india-expansion-approved-bhashini-to-translate-22-languages-1503212563.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestatesman.com/wp-content/uploads/2023/07/Statesman-52.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestatesman.com/india/digital-india-expansion-approved-bhashini-to-translate-22-languages-1503212563.html/amp",
-      "cdnAmpWebUrl": "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/india/digital-india-expansion-approved-bhashini-to-translate-22-languages-1503212563.html/amp",
-      "publishedDateTime": "2023-08-16T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Statesman",
-        "domain": "thestatesman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-ncsofts-new-ai-suite-is-trained-to-streamline-game-production.md",
-      "title": "NCSoft's new AI suite is trained to streamline game production",
-      "excerpt": "Korean MMORPG publisher NCSoft has developed four new AI large language models, dubbed VARCO, to help streamline future game development..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/ncsofts-new-ai-suite-is-trained-to-streamline-game-production-141653946.html",
-      "originalUrl": "https://www.engadget.com/ncsofts-new-ai-suite-is-trained-to-streamline-game-production-141653946.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/TeVUt3.TDftfSQaaHNgPCA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-08/d553fdd0-3bcd-11ee-bfd7-9a70d50e742c.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-16T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-voiceitt2-launched-first-of-its-kind-stand-alone-voice-application-for-people-with-speech-disabilities-now-available-to-customers.md",
-      "title": "Voiceitt2 Launched: First of Its Kind Stand-Alone Voice Application for People with Speech Disabilities Now Available to Customers",
-      "excerpt": "Voiceitt2 will be available in English as a browser-based software license for purchase for organizations and individuals in North America. Availability in the UK and Australia is anticipated in 2024, with additional languages and geographies expected to follow.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/08/16/9865838.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/08/16/9865838.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-16T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

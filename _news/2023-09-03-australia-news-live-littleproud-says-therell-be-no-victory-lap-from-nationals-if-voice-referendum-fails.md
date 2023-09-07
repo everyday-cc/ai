@@ -72,6 +72,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Key figure behind the Indigenous voice urges the government to have a backup plan if the referendum fails"
+    excerpt: "There's no point in a second referendum because it's not what we want,' she said. 'We asked for recognition through a voice combining the symbolic and practical to give us both dignity and a sense of empowerment and responsibility in matters that affect us.'"
+    publishedDateTime: 2023-09-07T01:36:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-12489803/Key-figure-Indigenous-voice-urges-government-backup-plan-referendum-fails.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-12489803/amp/Key-figure-Indigenous-voice-urges-government-backup-plan-referendum-fails.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12489803/amp/Key-figure-Indigenous-voice-urges-government-backup-plan-referendum-fails.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 42
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2023/09/07/02/75148377-0-image-m-96_1694049170596.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Peter Dutton pledges new referendum solely on recognition if Voice fails and Liberal party wins next election"
     excerpt: "Opposition leader Peter Dutton has pledged to hold another referendum solely on recognising Indigenous Australians in the Constitution if the Voice fails."
     publishedDateTime: 2023-09-02T23:44:00Z

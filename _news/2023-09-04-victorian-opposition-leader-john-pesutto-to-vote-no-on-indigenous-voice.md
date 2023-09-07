@@ -52,6 +52,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Key figure behind the Indigenous voice urges the government to have a backup plan if the referendum fails"
+    excerpt: "There's no point in a second referendum because it's not what we want,' she said. 'We asked for recognition through a voice combining the symbolic and practical to give us both dignity and a sense of empowerment and responsibility in matters that affect us.'"
+    publishedDateTime: 2023-09-07T01:36:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-12489803/Key-figure-Indigenous-voice-urges-government-backup-plan-referendum-fails.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-12489803/amp/Key-figure-Indigenous-voice-urges-government-backup-plan-referendum-fails.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12489803/amp/Key-figure-Indigenous-voice-urges-government-backup-plan-referendum-fails.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 42
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2023/09/07/02/75148377-0-image-m-96_1694049170596.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Australia news live: Littleproud says ‘there’ll be no victory lap’ from Nationals if voice referendum fails"
     excerpt: "Nationals leader backs Peter Dutton’s call to hold a referendum on Indigenous recognition if the voice to parliament vote fails in October. Follow the latest news live More from that chat with Littleproud on the voice. The Nationals leader also said the ..."
     publishedDateTime: 2023-09-03T03:56:00Z

@@ -1,23 +1,20 @@
 ---
 category: news
 title: "Dihuni Ships GPU Servers for Generative AI and LLM Applications"
-excerpt: "Dihuni has enabled a new suite of new GPU servers with an online configurator for customers to easily select GPU, CPU and other configuration options. These GPU servers can be preloaded with operating system and AI packages including Pytorch,"
-publishedDateTime: 2023-09-01T20:58:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/09/01/9873897.htm"
-webUrl: "https://it.tmcnet.com/news/2023/09/01/9873897.htm"
+excerpt: "1, 2023 /PRNewswire/ -- Dihuni, a leading artificial intelligence (AI), data center and Internet of Things (IoT) solutions company today announced it has started shipping new OptiReady GPU servers ..."
+publishedDateTime: 2023-09-01T19:29:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20230901ph99139/dihuni-ships-gpu-servers-for-generative-ai-and-llm-applications"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20230901ph99139/dihuni-ships-gpu-servers-for-generative-ai-and-llm-applications"
 type: article
-quality: 34
-heat: 34
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Morningstar
+  domain: morningstar.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "KvBZ33kbb+fDgZJl4CdN4qj4nAaQMWSyqfw3MOZX8hvyb8rNO7Mi/jnzKa8Mhkup84Hfnqm1POFAdXOmTQiiKkOP6qw2Zpj0LgkUJory1CrYq8O45hyP6AnYruTnqULaoxiV47QtMR9QSbnoXaJ0tejwEus5WfWQT7vKAKCsLXbyi2bY0utT2hVqYQ5kuCELfo13Y7w1acTI37SghQyAnB+/c3qCwuKhN0JYopDWk0JnANI4KiPI5K57v+Se5P8LR8O6cBsj8zy6GGsxqi6BY6hD0SgvSLhSgObLXgWU6fFLAM5yz8DQiZQawkzKw9GD2kz9b/dKykYRRQajFhcwaonOejE2nBFTBUi1UQrhwMo=;KQpTOjP9xULTTUa5Dnghvg=="
+secured: "OevwxHyxfu8CY1/tY99FOLI/LEPMkTMvD7gbbhi9u3/MiN1qcryx4uCSFShCyQbD4KR4KMqIFh0OAvJfAZUR9InCFszmn4HL23vToDWVzkaXvFxsLfNf0WTQbWp/5n9P8bMRC7wllD1sJFb/w1T0bqnIpo3qSw2UdN/AX68iFxTI886B5T2CVfGJ6ipMfgFK0S4sYX2e64UbRJ2RQbroLZaIiHuRd0UHC1MxXsnzAd8cuPxCXNkrI89JbTC8BknsQERNRLHby7uaA3Jv/fFyYq6lzQVb+aSqLrChNy/2OYPidGrffR9isQtPisDxMv5OSdCF+irOMkmUZdvQgKafeavouyWIdSSybiUZbwCYSH0=;Rw/JY190ej6WtvU2DZ8fCA=="
 ---
 

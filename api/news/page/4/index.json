@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-09-04-your-ai-doctor-will-see-you-now-how-technology-is-disrupting-medicine-and-beyond-in-south-africa.md",
+      "title": "Your AI doctor will see you now: How technology is disrupting medicine and beyond in South Africa",
+      "excerpt": "Artificial intelligence remains hotly contested, but scientists in South Africa are spearheading its development across various sectors, from healthcare to hospitality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/tv/2023/08/31/inside-africa-technology-is-disrupting-medicine-and-beyond-in-south-africa-spc-intl.cnn",
+      "originalUrl": "https://www.cnn.com/videos/tv/2023/08/31/inside-africa-technology-is-disrupting-medicine-and-beyond-in-south-africa-spc-intl.cnn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230904095302-inside-africa-technology-is-disrupting-medicine-and-beyond-in-south-africa-spc-intl-00023730.png?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/tv/2023/08/31/inside-africa-technology-is-disrupting-medicine-and-beyond-in-south-africa-spc-intl.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/tv/2023/08/31/inside-africa-technology-is-disrupting-medicine-and-beyond-in-south-africa-spc-intl.cnn",
+      "publishedDateTime": "2023-09-04T02:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-04-how-to-get-a-handle-on-shadow-ai.md",
       "title": "How to get a handle on shadow AI",
       "excerpt": "By allowing the use of AI tools proven to be safe, but requiring them to be used within explicit guidelines, you can alleviate both employee frustration and organizational risk.",
@@ -314,10 +365,10 @@
     {
       "path": "_news/2023-09-03-artificial-intelligence-may-influence-whether-you-can-get-pain-medication.md",
       "title": "Artificial intelligence may influence whether you can get pain medication",
-      "excerpt": "Artificial intelligence is working its way into more parts of American life. As AI spreads within the health care landscape, it brings familiar concerns of bias and accuracy and whether government regulation can keep up with rapidly advancing technology.",
+      "excerpt": "Artificial intelligence is working its way into more parts of American life. As AI spreads within the health care landscape, it brings familiar concerns of bias and accuracy and whether government ...",
       "sourceUrl": null,
-      "webUrl": "https://www.salon.com/2023/09/03/artificial-intelligence-may-influence-whether-you-can-get-pain-medication_partner/",
-      "originalUrl": "https://www.salon.com/2023/09/03/artificial-intelligence-may-influence-whether-you-can-get-pain-medication_partner/",
+      "webUrl": "https://www.salon.com/2023/09/03/artificial-intelligence-may-influence-whether-you-can-get-pain-medication_partner/?ref=upstract.com",
+      "originalUrl": "https://www.salon.com/2023/09/03/artificial-intelligence-may-influence-whether-you-can-get-pain-medication_partner/?ref=upstract.com",
       "featuredContent": null,
       "highlight": null,
       "heat": 83,
@@ -336,7 +387,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-03T02:30:00-07:00",
+      "publishedDateTime": "2023-09-03T06:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Salon",
@@ -406,6 +457,50 @@
       ]
     },
     {
+      "path": "_news/2023-09-03-bridging-the-human-ai-coexistence-ethical-landscape.md",
+      "title": "Bridging the human-AI coexistence ethical landscape",
+      "excerpt": "Language translation: AI language translation services can help humans communicate across language barriers, but they still require human oversight to ensure accuracy and cultural sensitivity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/digital-transformation-bridging-the-human-ai-coexistence-ethical-landscape-3230866/",
+      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-bridging-the-human-ai-coexistence-ethical-landscape-3230866/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design209.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-bridging-the-human-ai-coexistence-ethical-landscape-3230866/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-bridging-the-human-ai-coexistence-ethical-landscape-3230866/lite/",
+      "publishedDateTime": "2023-09-02T21:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-09-03-how-apple-is-already-using-machine-learning-and-ai-in-ios.md",
       "title": "How Apple is already using machine learning and AI in iOS",
       "excerpt": "Machine learning has become Apple's catch-all for its AI initiatives. Apple uses artificial intelligence ... with the launch of iOS 17.1. Apple will improve dictation and language translation with machine learning as well. Machine learning is also present ...",
@@ -414,7 +509,7 @@
       "originalUrl": "https://appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -795,6 +890,58 @@
       ]
     },
     {
+      "path": "_news/2023-09-02-gizmodos-owner-shuts-down-spanish-language-site-in-favor-of-ai-translations.md",
+      "title": "Gizmodo’s owner shuts down Spanish language site in favor of AI translations",
+      "excerpt": "Gizmodo owner G/O Media shut down and laid off editors of its Spanish-language site Gizmodo en Español and is now using AI to translate articles. New articles posted on Gizmodo en Español now ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/9/1/23856029/gizmodo-shuts-down-spanish-language-site-ai-translations",
+      "originalUrl": "https://www.theverge.com/2023/9/1/23856029/gizmodo-shuts-down-spanish-language-site-ai-translations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/0A70dIpx0ffXluy89xDd827pB3w=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/10551085/acastro_180329_1777__brains_science_0002.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-02T01:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-02-ai-can-curate-learning-but-ethics-is-catchword.md",
       "title": "'AI can curate learning, but ethics is catchword'",
       "excerpt": "Without the ethical mindset, we will go down a dystopian pathway with AI. In a short-term framework, ethics and guidelines are necessary, otherwise before we take over AI it will take over us.\" He also called for responsible harnessing of AI in education ...",
@@ -941,6 +1088,40 @@
       ]
     },
     {
+      "path": "_news/2023-09-02-dihuni-ships-gpu-servers-for-generative-ai-and-llm-applications.md",
+      "title": "Dihuni Ships GPU Servers for Generative AI and LLM Applications",
+      "excerpt": "1, 2023 /PRNewswire/ -- Dihuni, a leading artificial intelligence (AI), data center and Internet of Things (IoT) solutions company today announced it has started shipping new OptiReady GPU servers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20230901ph99139/dihuni-ships-gpu-servers-for-generative-ai-and-llm-applications",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20230901ph99139/dihuni-ships-gpu-servers-for-generative-ai-and-llm-applications",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-01T12:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-02-elon-musks-x-will-use-public-data-to-train-ai-models.md",
       "title": "Elon Musk's X will use public data to train AI models",
       "excerpt": "The artist formerly known as Twitter has been in some hot water this week after Bloomberg found that the social media site would start collecting biometric details, along with job and education data,",
@@ -1033,186 +1214,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-02-us-government-denies-blocking-sales-of-ai-chips-to-middle-east.md",
-      "title": "US Government Denies Blocking Sales of AI Chips to Middle East",
-      "excerpt": "Nvidia and AMD do face expanded export rules for their A100 and H100 artificial intelligence (AI) chips in the Middle East, but it's not yet clear why.",
-      "sourceUrl": null,
-      "webUrl": "https://www.darkreading.com/dr-global/us-government-denies-blocking-chip-sales-middle-east",
-      "originalUrl": "https://www.darkreading.com/dr-global/us-government-denies-blocking-chip-sales-middle-east",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf47e335d79fb3b2e/64f1e0af0517e34fb4df20d7/fingerprint_motherboard_Panther_Media_Alamy.jpg",
-          "width": 5650,
-          "height": 3560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-01T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dark Reading",
-        "domain": "darkreading.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-types-of-cyberthreats.md",
-      "title": "Types of cyberthreats",
-      "excerpt": "From malware attacks to zero-day exploits, unpack the cybersecurity threats organizations face today—and the threat actors behind them.\nThe post Types of cyberthreats appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/types-of-cyberthreats/",
-      "originalUrl": "https://www.ibm.com/blog/types-of-cyberthreats/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-01T11:02:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-02-seismologists-use-deep-learning-to-forecast-earthquakes.md",
-      "title": "Seismologists use deep learning to forecast earthquakes",
-      "excerpt": "To continue applying deep learning models to aftershock forecasting, Dascher-Cousineau says the field needs a better system for benchmarking. In order to demonstrate the capabilities of the RECAST model, the group first used an ETAS model to simulate an ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-09-seismologists-deep-earthquakes.html",
-      "originalUrl": "https://phys.org/news/2023-09-seismologists-deep-earthquakes.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/seismologists-use-deep-1.jpg",
-          "width": 2128,
-          "height": 1022,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-09-seismologists-deep-earthquakes.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-seismologists-deep-earthquakes.amp",
-      "publishedDateTime": "2023-09-01T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-02-techcrunch-roundup-finops-for-all-15-investors-who-are-taking-pitches-steve-blank-on-ai.md",
-      "title": "TechCrunch+ Roundup: FinOps for all, 15 investors who are taking pitches, Steve Blank on AI",
-      "excerpt": "Known as the progenitor of the lean startup movement, entrepreneur/educator Steve Blank says generative AI is far more than a typical hype cycle. Thanks to the “dumb money” investors are slapping down and the tech’s labor-saving potential ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/09/01/techcrunch-roundup-finops-for-all-15-investors-who-are-taking-pitches-steve-blank-on-ai/",
-      "originalUrl": "https://techcrunch.com/2023/09/01/techcrunch-roundup-finops-for-all-15-investors-who-are-taking-pitches-steve-blank-on-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1608618399.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/09/01/techcrunch-roundup-finops-for-all-15-investors-who-are-taking-pitches-steve-blank-on-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/01/techcrunch-roundup-finops-for-all-15-investors-who-are-taking-pitches-steve-blank-on-ai/amp/",
-      "publishedDateTime": "2023-09-01T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

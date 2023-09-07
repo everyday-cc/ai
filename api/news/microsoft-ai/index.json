@@ -862,6 +862,49 @@
       ]
     },
     {
+      "path": "_news/2023-08-31-cognitive-services-market-outlooks-2023-size-cost-structures-growth-rate-forecast-to-2030.md",
+      "title": "Cognitive Services Market Outlooks 2023 Size, Cost Structures, Growth rate Forecast to 2030",
+      "excerpt": "Get a Sample Copy of the Cognitive Services Market Report 2023 Regions are covered: North America (Canada, Mexico, United States, Cuba) Europe (United Kingdom, France, Russia, Germany) Asia ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/08/34151047/cognitive-services-market-outlooks-2023-size-cost-structures-growth-rate-forecast-to-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/34151047/cognitive-services-market-outlooks-2023-size-cost-structures-growth-rate-forecast-to-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34151047",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34151047",
+      "publishedDateTime": "2023-08-31T05:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-31-openai-backed-language-learning-app-speak-raises-16m-to-expand-to-the-us.md",
       "title": "OpenAI-backed language learning app Speak raises $16M to expand to the U.S.",
       "excerpt": "Prior to starting Speak, the pair spent a year studying and researching machine learning and developing accent detection ... which gave Speak not only financing but early access to OpenAI systems and Azure resources from Microsoft, OpenAI’s close ...",
@@ -1443,58 +1486,6 @@
         "Microsoft AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-the-best-credit-monitoring-services-that-can-help-you-spot-fraud-early.md",
-      "title": "The best credit monitoring services that can help you spot fraud early",
-      "excerpt": "The cost of the services mentioned below are up-to-date at the time of publication. Credit monitoring services can provide you with early notice of potential fraud on your credit report ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/select/best-credit-monitoring-services/",
-      "originalUrl": "https://www.cnbc.com/select/best-credit-monitoring-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106578035-1592226645583gettyimages-948732752.jpeg?v=1592226710",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/select/best-credit-monitoring-services/",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/select/best-credit-monitoring-services/",
-      "publishedDateTime": "2023-08-28T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

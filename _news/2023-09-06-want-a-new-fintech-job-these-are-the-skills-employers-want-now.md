@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Navigating The Future Of Banking: A Look At The Top Fintech Innovations"
-    excerpt: "Welcome to the future of banking where financial technology, or fintech, is revolutionizing the way we manage our money. From mobile banking apps to cryptocurrency advancements, there’s no denying that digital innovation is reshaping the entire industry."
-    publishedDateTime: 2023-09-02T08:48:00Z
-    webUrl: "https://techbullion.com/navigating-the-future-of-banking-a-look-at-the-top-fintech-innovations/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/09/Bitcoin.jpg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "Relevantz: Driving fintech innovation with Fiserv"
     excerpt: "Senior Director of Client Success at Relevantz, Georgie John, traces his time at the service provider and the importance of its partnership with Fiserv"
     publishedDateTime: 2023-09-04T14:31:00Z
@@ -83,6 +69,15 @@ related:
         width: 2374
         height: 1263
         isCached: true
+  - title: "Indian fintech firms using AI to detect money laundering: Kiya.ai MD Rajesh Mirjankar"
+    excerpt: "Talking to ANI during the ongoing Global Fintech Fest 2023 in Mumbai, Rajesh Mirjankar, Managing Director of Kiya.ai, an innovative digital solutions service provider, said that investigation patterns of investigative agencies and government institutions have changed with technology transformations."
+    publishedDateTime: 2023-09-07T00:16:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20230906/4116197.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 12
   - title: "FINCOVER Bootstraps 7 Crore For Fintech App Development"
     excerpt: "In the ever-changing Fintech landscape, Fintech companies constantly flood the market with cutting-edge tools and apps to be a part of this transformative evolution."
     publishedDateTime: 2023-09-06T15:35:00Z

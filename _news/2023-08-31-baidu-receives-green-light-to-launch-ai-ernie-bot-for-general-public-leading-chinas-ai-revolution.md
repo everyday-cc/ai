@@ -5,6 +5,8 @@ excerpt: "Chinese tech giant Baidu was granted permission by Chinese authorities
 publishedDateTime: 2023-08-30T19:14:00Z
 originalUrl: "https://www.foxnews.com/world/baidu-receives-green-light-launch-ai-ernie-bot-general-public-leading-chinas-ai-revolution"
 webUrl: "https://www.foxnews.com/world/baidu-receives-green-light-launch-ai-ernie-bot-general-public-leading-chinas-ai-revolution"
+ampWebUrl: "https://www.foxnews.com/world/baidu-receives-green-light-launch-ai-ernie-bot-general-public-leading-chinas-ai-revolution.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/baidu-receives-green-light-launch-ai-ernie-bot-general-public-leading-chinas-ai-revolution.amp"
 type: article
 quality: 33
 heat: -1
@@ -20,6 +22,13 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e8c95371-24d2-4600-8324-6215c5270ac7/9459cb7d-763a-484b-8199-a2d4585cab34/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Baidu Leads Public Rollout Of AI Chatbots In China"
@@ -126,6 +135,6 @@ related:
       domain: guardonline.com
     quality: 4
 
-secured: "soSVRzIuG3oLbvtjKLhJSPrKaOXJd17jVynhqQlSllrfj67CEXr9h54Dl7IluzGMuckL0aWg02U4R+A0fSFzGsgALVOXTfRdCrYafn/YdRx9rAA1JP8M2Z5Aj0uhsCEexdmABH3i3I3pPO8a8cPN7GDY4X7zD3yzVfEWyhvscI39HBAtOo7vrad/nDtUiGz/kDHLOX9k2IFqja0DxxAY0/Y8eX3MsGlBTU8x/6Xui62Q/BQkR5yXekekxXfrNoDFOvt09YO5WWz3JMMryQ0/uDPxh94qm0IM5yXVvT11IDZ3FDhHg1/oQRXyMZOImNm28QpxICBe4pVj7fEbN/0VBpXocy+gtscp3thxORGHKPvNw2IS/JF0BPwVRvSsHkfpZYLCbWDktQpKlKs8AISeV/4GHf+iQDKDgxscmXrZ5LTxcgutuiaNsAEX9pCrr1t3piFJntM0IehKjJN19fETKeu0RCu3eTRWPJGJsXDppQ50XYghmM3oDH7ePlua1DbRH3V77y9hpwXl7C/jLq0UMw==;++kUhOFwQZq2sYqlF0YfwQ=="
+secured: "X14jUkI4js9V/XYhUwEATViRgeu2Z8UTp8VOOcDU68MJ/CxGVRQJzSLMJoGtHVtVhZOyxGQQxZyqFW3GbunOMmDJut6xanqqIxiUWUgWf0L4ZYjhOX8GAnLzsTc4jqjkh0eNb/85m98HnQAcRJB76s5xSfuIXdubx/QAQc6oxUqeBbIjmWPjchqlqPfvH43OcH3JLrhqwCe7exg5rlQnyHrU4UVIOH01qQVd+FwLl052BP1rVXIbs9oNlmUqGewNhnwAS896JZsibVT8PEWbnPCxsqGVh5IBVrX6qJLJiRfy8owq4asGx6qE1/5vQJuaNSuAAKP6s23n5RYW2Z06a91RFmzNcPbYd+VnPKdYSCg=;ElU7KydKs6Hrx50EJNPkuQ=="
 ---
 

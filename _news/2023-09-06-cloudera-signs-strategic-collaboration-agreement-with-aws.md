@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Cloudera signs strategic collaboration agreement with AWS"
+    excerpt: "Cloudera, the data company for trusted enterprise artificial intelligence (AI), announced today that it has signed a Strategic Collaboration Agreement (SCA) with Amazon Web Services. This agreement strengthens Cloudera’s relationship with AWS and demonstrates their commitment to"
+    publishedDateTime: 2023-09-07T00:28:00Z
+    webUrl: "https://itwire.com/guest-articles/company-news/cloudera-signs-strategic-collaboration-agreement-with-aws.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 39
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/c63fc15cc828883c5de916ed5cf9bab1_M.jpg"
+        width: 375
+        height: 300
+        isCached: true
   - title: "InterVision® Announces Multi-Year Strategic Collaboration Agreement with AWS"
     excerpt: "InterVision, a national, leading cloud and managed services provider, today announced that it has signed a multi-year Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS). This collaboration with AWS fuels InterVision's strategy and vision to expand and accelerate cloud adoption and modernization across its public sector and commercial customer base and beyond."
     publishedDateTime: 2023-09-06T19:38:00Z

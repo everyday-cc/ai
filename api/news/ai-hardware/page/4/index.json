@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-08-11-the-wall-street-journal-google-your-news-update.md",
+      "title": "The Wall Street Journal Google Your News Update",
+      "excerpt": "Plus driverless cars get a big boost in the Bay Area. And our look at Xi Jinping's goal of making China a global leader in AI and chips. Karen Hao: The US sanctions really leave China between a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/podcasts/google-news-update/chinas-quest-for-ai-chip-supremacy/ee0d3af0-5cca-427c-9c6e-5e36b5e04fe8",
+      "originalUrl": "https://www.wsj.com/podcasts/google-news-update/chinas-quest-for-ai-chip-supremacy/ee0d3af0-5cca-427c-9c6e-5e36b5e04fe8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-10T23:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-10-biden-fuels-tech-trade-war-with-china-banning-ai-chip-and-quantum-system-investments.md",
       "title": "Biden fuels tech trade war with China, banning AI, chip, and quantum system investments",
       "excerpt": "US President Joe Biden is escalating the tech trade war with China with an executive order to restrict investment in specific sectors including semiconductors and microelectronics, quantum information technologies,",
@@ -1387,58 +1430,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-amds-outlook-on-ai-chips-was-just-ok-is-the-stock-still-a-buy.md",
-      "title": "AMD's Outlook on AI Chips Was Just OK -- Is the Stock Still a Buy?",
-      "excerpt": "AMD was dragged down last quarter by another large slump in PC and laptop sales. AI chips are growing fast but aren't yet having the dramatic impact some investors anticipated. The stock looks ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/08/04/amd-outlook-ai-chips-just-ok-is-stock-a-buy/",
-      "originalUrl": "https://www.fool.com/investing/2023/08/04/amd-outlook-ai-chips-just-ok-is-stock-a-buy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/742369/data-center-infrastructure-information-technology.jpg",
-          "width": 2309,
-          "height": 1299,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-04T02:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

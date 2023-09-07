@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Artificial intelligence may influence whether you can get pain medication"
-excerpt: "Artificial intelligence is working its way into more parts of American life. As AI spreads within the health care landscape, it brings familiar concerns of bias and accuracy and whether government regulation can keep up with rapidly advancing technology."
-publishedDateTime: 2023-09-03T09:30:00Z
-originalUrl: "https://www.salon.com/2023/09/03/artificial-intelligence-may-influence-whether-you-can-get-pain-medication_partner/"
-webUrl: "https://www.salon.com/2023/09/03/artificial-intelligence-may-influence-whether-you-can-get-pain-medication_partner/"
+excerpt: "Artificial intelligence is working its way into more parts of American life. As AI spreads within the health care landscape, it brings familiar concerns of bias and accuracy and whether government ..."
+publishedDateTime: 2023-09-03T13:41:00Z
+originalUrl: "https://www.salon.com/2023/09/03/artificial-intelligence-may-influence-whether-you-can-get-pain-medication_partner/?ref=upstract.com"
+webUrl: "https://www.salon.com/2023/09/03/artificial-intelligence-may-influence-whether-you-can-get-pain-medication_partner/?ref=upstract.com"
 type: article
 quality: 53
 heat: 83
@@ -60,6 +60,6 @@ related:
       domain: medpagetoday.com
     quality: 19
 
-secured: "Vb01u8XS7rJwHQZS4t02Xyz+o4TBLUiaM9ebYmHJYaOxJfHMF7TaCsEPX5orHqL5eLx+G6nVSa/GwbN2l/9WjuIpXv/ty9Qup5NTSK/JQE5hvPVEEJLuPH6bv2SflO9HhNbB4QWBFAwyHVNIp2EpqLNwwiWKJLgSZz32FqGQqBOE6Q5/rEgyjnYCH/mgWtghe51zaNl+pP59lJiJ983cKgQkX8uhBnWaRxsjG9jPAEa8LW+DhbUI78avieiHJaj5Txq2bpG+WOsiU/5xP5MoR9NGc0thW8UsR42ybYqAjANUoaAXjC4xUbUaB1jH/HT/HuvrXNx8De8xFhE5HLHXyqhGwkt373nNApB/knXVs7FQ1AX7UXrLAP0d91ew44ExFYre8ENJgAO4dWuoEPpCw0GvFF5PEhuj0wo8FfJNz92MXADuq3KVhASOJAgfOYaJJpP6AsCKTw9I5iZJqGoLVAsZBhfhUlOhyH2FDEdnb/2eX7j7zI6CY5/+M1Ji5yPBXb4gq4mTtk6G3Q6cVKkKfg==;yfa5rBvwzugPjkORklswgA=="
+secured: "2+iJ5rvkL9Fgs0RchXppmIMTy5JI6dpwz25Rmt2bvDEWqahJ02dFiHfxHvUSOP0LZjiUt9NLiLN8zW9xALPDzopVuPobVezGFCwn+Qa96yLLkYP23A9pf2qB5ZIGcPaRJIG0okXDkxMI3MH/mQjgC3hHFycjAJj1aNYl3C8qKBckYYf3mEnFykHNIWeiUzInTY6n6FdWgLQoQZ//35JP7j/8IT5snqX6IiGQk0gs6QOAa0/+1IXSvboP+kn7pz1x8m0YstP3qCliqJnfcGtVV5VCHIaCTjGtDKeABeTQIn0aY21Vy5P1UVNxo4CdzD0yKZB5EgmINN2jn3ylQPdQ8Muhz6HigNLtZH+pgPeICkU=;2b2cQZa1yZFzlizGoCo40A=="
 ---
 

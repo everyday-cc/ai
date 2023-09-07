@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - AWS AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/64ee492b71e0e620574af6bd/0x0.jpg?format=jpg&width=1200"

@@ -22,9 +22,9 @@ topics:
 
 related:
   - title: "Artificial intelligence may influence whether you can get pain medication"
-    excerpt: "Artificial intelligence is working its way into more parts of American life. As AI spreads within the health care landscape, it brings familiar concerns of bias and accuracy and whether government regulation can keep up with rapidly advancing technology."
-    publishedDateTime: 2023-09-03T09:30:00Z
-    webUrl: "https://www.salon.com/2023/09/03/artificial-intelligence-may-influence-whether-you-can-get-pain-medication_partner/"
+    excerpt: "Artificial intelligence is working its way into more parts of American life. As AI spreads within the health care landscape, it brings familiar concerns of bias and accuracy and whether government ..."
+    publishedDateTime: 2023-09-03T13:41:00Z
+    webUrl: "https://www.salon.com/2023/09/03/artificial-intelligence-may-influence-whether-you-can-get-pain-medication_partner/?ref=upstract.com"
     type: article
     provider:
       name: Salon

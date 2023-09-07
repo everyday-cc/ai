@@ -2,22 +2,194 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2023-07-22-musk-says-tesla-would-buy-more-nvidia-ai-chips-if-only-nvidia-had-enough-of-them.md",
-      "title": "Musk Says Tesla Would Buy More Nvidia AI Chips, If Only Nvidia Had Enough of Them",
-      "excerpt": "Later in the call, Musk expanded on those comments, doling out praise for Nvidia and its co-founder and CEO Jensen Huang:",
+      "path": "_news/2023-07-26-tesla-recalls-362000-us-vehicles-over-full-self-driving-software-reuters.md",
+      "title": "Tesla recalls 362000 U.S. vehicles over Full Self-Driving software – Reuters",
+      "excerpt": "Tesla Inc will recall more than 362,000 U.S. vehicles to update its Full Self-Driving (FSD) Beta software after U.S. regulators said on Thursday t",
       "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/21/musk-says-tesla-would-buy-more-nvidia-ai-chips-if/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/21/musk-says-tesla-would-buy-more-nvidia-ai-chips-if/",
+      "webUrl": "https://www.inferse.com/638952/tesla-recalls-362000-u-s-vehicles-over-full-self-driving-software-reuters/",
+      "originalUrl": "https://www.inferse.com/638952/tesla-recalls-362000-u-s-vehicles-over-full-self-driving-software-reuters/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": null,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-21T11:00:00-07:00",
+      "publishedDateTime": "2023-07-25T21:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inferse",
+        "domain": "inferse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-alphabet-cfo-ruth-porat-takes-on-new-role-overseeing-its-investments-and-new-initiatives.md",
+      "title": "Alphabet CFO Ruth Porat takes on new role overseeing its investments and new initiatives",
+      "excerpt": "Alphabet Inc. finance chief Ruth Porat is taking on a new role at the company, overseeing its investment strategy and various initiatives in its Other Bets portfolio, such as Nest, Verily, Waymo and X.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/07/25/alphabet-cfo-ruth-porat-takes-new-role-overseeing-investments-new-initiatives/",
+      "originalUrl": "https://siliconangle.com/2023/07/25/alphabet-cfo-ruth-porat-takes-new-role-overseeing-investments-new-initiatives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/RuthPorat2016.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-25T19:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-artificial-intelligence-recent-congressional-activity-and-a-look-to-the-future.md",
+      "title": "Artificial Intelligence: Recent Congressional Activity and a Look to The Future",
+      "excerpt": "In the past few months, the American public has become increasingly fixated on artificial intelligence (AI), especially generative artificial intelligence (GenAI), because of the economic and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/artificial-intelligence-recent-congressional-activity-and-look-to-future",
+      "originalUrl": "https://www.natlawreview.com/article/artificial-intelligence-recent-congressional-activity-and-look-to-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/20520/AI%20Artificial%20Intel%20Heads%20Internet%20TOP%20copy_0.jpg?itok=eyeMYj6E",
+          "width": 500,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-25T15:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-google-rebounds-from-unprecedented-drop-in-ad-revenue-with-a-resurgence-that-pushes-stock-higher.md",
+      "title": "Google rebounds from unprecedented drop in ad revenue with a resurgence that pushes stock higher",
+      "excerpt": "Google snapped out of an unprecedented advertising slump during its latest quarter, signaling a return to growth cycle needed to fuel investments in artificial intelligence technology that expected to",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648334",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648334",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Business/wirestory_e2be119c38a4909ba2e848dbac9a9416_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648334",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648334",
+      "publishedDateTime": "2023-07-25T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-25-nvidia-stock-investors-should-love-what-elon-musk-said-on-teslas-earnings-call-about-ai.md",
+      "title": "Nvidia Stock Investors Should Love What Elon Musk Said on Tesla's Earnings Call About AI",
+      "excerpt": "As usual, CEO Elon Musk and the top execs who joined him on the earnings call provided some great information for Tesla investors. But Musk also made comments that were relevant to investors and potential investors in graphics chip specialist Nvidia ( NVDA 2.24%), which is the main focus of this article.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/07/25/nvda-artificial-intelligence-ai-elon-musk/",
+      "originalUrl": "https://www.fool.com/investing/2023/07/25/nvda-artificial-intelligence-ai-elon-musk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/740626/ai-stocks-nvda-stock.jpg",
+          "width": 2314,
+          "height": 1296,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-25T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Motley Fool",
@@ -44,1317 +216,7 @@
         "AI",
         "AI in Autos"
       ]
-    },
-    {
-      "path": "_news/2023-07-21-how-ai-enabled-threat-intelligence-is-becoming-our-future.md",
-      "title": "How AI-Enabled Threat Intelligence Is Becoming Our Future",
-      "excerpt": "As a CEO in the industry, I see tremendous applications of AI in cybersecurity soon, particularly in threat intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/how-ai-enabled-threat-intelligence-is-becoming-our-future/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/how-ai-enabled-threat-intelligence-is-becoming-our-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648726ec4c121273abd8baa2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/how-ai-enabled-threat-intelligence-is-becoming-our-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/21/how-ai-enabled-threat-intelligence-is-becoming-our-future/amp/",
-      "publishedDateTime": "2023-07-21T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-how-advancements-in-genai-can-make-self-driving-operations-a-reality.md",
-      "title": "How Advancements In GenAI Can Make Self-Driving Operations A Reality",
-      "excerpt": "This piece will outline how AIOps can better ensure websites, applications, databases and infrastructure—including the underlying networks—function better.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/07/21/how-advancements-in-genai-can-make-self-driving-operations-a-reality/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/07/21/how-advancements-in-genai-can-make-self-driving-operations-a-reality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b9625753df287d02bd34f2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/07/21/how-advancements-in-genai-can-make-self-driving-operations-a-reality/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/07/21/how-advancements-in-genai-can-make-self-driving-operations-a-reality/amp/",
-      "publishedDateTime": "2023-07-21T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-tesla-plans-to-license-its-full-self-driving-system-to-other-automakers.md",
-      "title": "Tesla plans to license its Full Self-Driving system to other automakers",
-      "excerpt": "Tesla set new internal records for EV production and deliveries in Q2 as Cybertruck production (sorta?) comes online..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/tesla-built-and-delivered-a-nearly-half-a-million-evs-in-q2-205948639.html",
-      "originalUrl": "https://www.engadget.com/tesla-built-and-delivered-a-nearly-half-a-million-evs-in-q2-205948639.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/vXCVbfJvezW.j8ozjbdb7g--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2018-10/4e8819d0-d7cd-11e8-bfea-1933ac05be15.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/tesla-built-and-delivered-a-nearly-half-a-million-evs-in-q2-205948639.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-built-and-delivered-a-nearly-half-a-million-evs-in-q2-205948639.html",
-      "publishedDateTime": "2023-07-21T02:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-teslas-elon-musk-optimistic-on-progress-for-self-driving-robots.md",
-      "title": "Tesla's Elon Musk optimistic on progress for self-driving, robots",
-      "excerpt": "SAN FRANCISCO, July 19 (Reuters) - Tesla (TSLA.O) Chief Executive Elon Musk on Wednesday set new targets for artificial intelligence products including self-driving software and using humanoid robots in factories, though he acknowledged he's been ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/autos-transportation/teslas-elon-musk-optimistic-progress-self-driving-robots-2023-07-20/",
-      "originalUrl": "https://www.reuters.com/business/autos-transportation/teslas-elon-musk-optimistic-progress-self-driving-robots-2023-07-20/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-20T22:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-what-tesla-stock-investors-should-know-about-recent-ai-updates.md",
-      "title": "What Tesla Stock Investors Should Know About Recent AI Updates",
-      "excerpt": "Tesla reached over 300 million cumulative miles driven with FSD Beta and believes it can quickly grow to the billions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/20/what-tesla-stock-investors-should-know-about-recen/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/20/what-tesla-stock-investors-should-know-about-recen/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/740671/jose-najarro-2023-07-20t180954043.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-20T16:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-artificial-intelligence-on-the-battlefield-lawmakers-weigh-the-risks-and-benefits-of-military-ai.md",
-      "title": "Artificial Intelligence on the Battlefield: Lawmakers weigh the risks and benefits of military AI",
-      "excerpt": "“The country that is able to most rapidly and effectively integrate new technology into warfighting wins,” Alexandr Wang, CEO of Scale AI, said. “If we don’t win on AI, we risk ceding global influence, technological leadership and democracy to strategic adversaries like China.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.wftv.com/news/local/artificial-intelligence-battlefield-lawmakers-weigh-risks-benefits-military-ai/KESNJ5O2CJD3JCLIPN6G763DMY/",
-      "originalUrl": "https://www.wftv.com/news/local/artificial-intelligence-battlefield-lawmakers-weigh-risks-benefits-military-ai/KESNJ5O2CJD3JCLIPN6G763DMY/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/jTXM2HgirZ1osy9b2haXNugKkyc=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/ZIBS2YHKN5D6LH6IIG3OIY6NHE.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wftv.com/news/local/artificial-intelligence-battlefield-lawmakers-weigh-risks-benefits-military-ai/KESNJ5O2CJD3JCLIPN6G763DMY/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wftv-com.cdn.ampproject.org/c/s/www.wftv.com/news/local/artificial-intelligence-battlefield-lawmakers-weigh-risks-benefits-military-ai/KESNJ5O2CJD3JCLIPN6G763DMY/?outputType=amp",
-      "publishedDateTime": "2023-07-20T14:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFTV",
-        "domain": "wftv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-teslas-full-self-driving-tech-might-actually-end-up-in-other-evs.md",
-      "title": "Tesla’s Full Self-Driving Tech Might Actually End Up In Other EVs",
-      "excerpt": "Tesla’s CEO Elon Musk revealed during a second-quarter earnings call that the company is in early talks with a major automaker about using Tesla’s Full Self-Driving feature. Musk elaborated ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.inverse.com/tech/tesla-full-self-driving-license-ev",
-      "originalUrl": "https://www.inverse.com/tech/tesla-full-self-driving-license-ev",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgix.bustle.com/uploads/getty/2023/7/20/02469680-cd07-4f09-97d9-c41431febbfd-getty-1031879976.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-20T10:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inverse",
-        "domain": "inverse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-are-self-driving-cars-a-national-security-risk.md",
-      "title": "Are self-driving cars a national security risk?",
-      "excerpt": "Automoblog took a deep dive into the world of autonomous vehicles to explore questions regarding the safety and security of self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/are-self-driving-cars-a-national-security-risk/collection_9d8b1353-eef5-55b4-beab-c58e7d7c26af.html",
-      "originalUrl": "https://www.wfmz.com/news/are-self-driving-cars-a-national-security-risk/collection_9d8b1353-eef5-55b4-beab-c58e7d7c26af.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/38/e38f38ab-7b25-5df2-9c5a-c904ad2fc029/64b9765dc9cc0.image.jpg?crop=1080%2C567%2C0%2C66&resize=1080%2C567&order=crop%2Cresize",
-          "width": 1080,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-20T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-25-millionaire-maker-ai-stocks-to-buy-now.md",
-      "title": "25 Millionaire-Maker AI Stocks to Buy Now",
-      "excerpt": "“The AI megatrend is just getting started. ChatGPT really kickstarted this AI frenzy back in November 2022. We’re basically just seven months into the AI Boom. By comparison, the Internet Boom lasted almost 10 years – from the launch of the world’s first website in 1991 to the peak of the dot-com bubble in 2000.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/25-millionaire-maker-ai-stocks-to-buy-now",
-      "originalUrl": "https://www.nasdaq.com/articles/25-millionaire-maker-ai-stocks-to-buy-now",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-20T08:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-artificial-intelligence-uk-and-frances-battle-for-european-leadership.md",
-      "title": "Artificial Intelligence: UK and France’s Battle for European Leadership",
-      "excerpt": "Explore how the competition between the UK and France to emerge as the European leader in AI symbolises more than national pride; it's a testament to their shared belief in the potential of AI to shape the future.",
-      "sourceUrl": null,
-      "webUrl": "https://techround.co.uk/news/artificial-intelligence-uk-frances-battle-european-leadership/",
-      "originalUrl": "https://techround.co.uk/news/artificial-intelligence-uk-frances-battle-european-leadership/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-20T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRound",
-        "domain": "techround.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-forbes-daily-artificial-intelligence-and-what-you-need-to-know.md",
-      "title": "Forbes Daily: Artificial Intelligence And What You Need To Know",
-      "excerpt": "Good morning, Seemingly overnight, artificial intelligence began to dominate public consciousness thanks to the launch of ChatGPT in November. In just two months, the bot had 100 million users ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/daniellechemtob/2023/07/20/forbes-daily-artificial-intelligence-and-what-you-need-to-know/",
-      "originalUrl": "https://www.forbes.com/sites/daniellechemtob/2023/07/20/forbes-daily-artificial-intelligence-and-what-you-need-to-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-20T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-artificial-intelligence-could-help-normalize-child-sexual-abuse-as-graphic-images-erupt-online-experts.md",
-      "title": "Artificial intelligence could help 'normalize' child sexual abuse as graphic images erupt online: experts",
-      "excerpt": "Images of children in sexual settings that were created by artificial intelligence could \"normalize\" abuse of children, law enforcement and nonprofits warn.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/artificial-intelligence-could-normalize-child-sexual-abuse-graphic-images-erupt-online-experts",
-      "originalUrl": "https://www.foxnews.com/tech/artificial-intelligence-could-normalize-child-sexual-abuse-graphic-images-erupt-online-experts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54cf6e5e-46ce-4bd4-aed5-3dabe9838e97/e3852eca-5cd2-4283-bae9-15fbb23d888a/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/artificial-intelligence-could-normalize-child-sexual-abuse-graphic-images-erupt-online-experts.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/artificial-intelligence-could-normalize-child-sexual-abuse-graphic-images-erupt-online-experts.amp",
-      "publishedDateTime": "2023-07-19T23:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-musk-optimistic-on-progress-for-self-driving-robots.md",
-      "title": "Musk optimistic on progress for self-driving, robots",
-      "excerpt": "(AP pic) SAN FRANCISCO: Tesla chief executive Elon Musk on Wednesday set new targets for artificial intelligence products including self-driving software and using humanoid robots in factories ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.freemalaysiatoday.com/category/business/2023/07/20/musk-optimistic-on-progress-for-self-driving-robots/",
-      "originalUrl": "https://www.freemalaysiatoday.com/category/business/2023/07/20/musk-optimistic-on-progress-for-self-driving-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-19T19:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Free Malaysia Today",
-        "domain": "freemalaysiatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-ai-takeover-8-jobs-that-are-safe-for-now.md",
-      "title": "AI Takeover? 8 Jobs That Are ‘Safe for Now’",
-      "excerpt": "Artificial intelligence -- while still in its nascent stages -- seems to be omnipresent, revolutionizing everything including the way we work and the way we make money. Of course, one of the",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/ai-takeover-8-jobs-safe-173711864.html",
-      "originalUrl": "https://www.aol.com/ai-takeover-8-jobs-safe-173711864.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/4ZpRNSIvnfn0VKJ6NTg24A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/4c59741820c8c43b6b894e955e44b478",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-19T13:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-why-many-in-china-unlike-in-the-us-see-ai-as-a-force-for-good.md",
-      "title": "Why many in China – unlike in the US – see AI as a force for good",
-      "excerpt": "For instance, artificial intelligence in China has been strategically integrated ... The internet giant Baidu now operates fully driverless taxi services in government-approved areas of Wuhan, Chongqing and Beijing. Baidu is testing the service in 10 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/comment/opinion/article/3228219/why-many-china-unlike-us-see-ai-force-good",
-      "originalUrl": "https://www.scmp.com/comment/opinion/article/3228219/why-many-china-unlike-us-see-ai-force-good",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2023/07/20/3c054da4-c2c6-4ef2-a80f-ae1d02c43a45_488b870d.jpg?itok=k8LRczI9&v=1689787730",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/comment/opinion/article/3228219/why-many-china-unlike-us-see-ai-force-good",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/comment/opinion/article/3228219/why-many-china-unlike-us-see-ai-force-good",
-      "publishedDateTime": "2023-07-19T12:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-this-changed-the-way-i-look-for-ai-stocks-forever.md",
-      "title": "This Changed the Way I Look for AI Stocks Forever",
-      "excerpt": "The good news is the AI bubble - which still has a little air left in it - is starting to shrink as investors come to their senses and realize that a $2-per-share bottling that slapped\"AI\" in its name this March isn't going to hit $487.",
-      "sourceUrl": null,
-      "webUrl": "https://moneymorning.com/2023/07/19/this-changed-the-way-i-look-for-ai-stocks-forever/",
-      "originalUrl": "https://moneymorning.com/2023/07/19/this-changed-the-way-i-look-for-ai-stocks-forever/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/07/image001.jpg",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://moneymorning.com/2023/07/19/this-changed-the-way-i-look-for-ai-stocks-forever/amp/",
-      "cdnAmpWebUrl": "https://moneymorning-com.cdn.ampproject.org/c/s/moneymorning.com/2023/07/19/this-changed-the-way-i-look-for-ai-stocks-forever/amp/",
-      "publishedDateTime": "2023-07-19T12:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Money Morning",
-        "domain": "moneymorning.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-artificial-intelligence-is-changing-social-media.md",
-      "title": "Artificial Intelligence Is Changing Social Media",
-      "excerpt": "Artificial intelligence is quickly becoming part of our social media world on our cellphones and computers. Text, images, audio and video are becoming easier for anyone to create using new ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.voanews.com/a/artificial-intelligence-is-changing-social-media-/7186991.html",
-      "originalUrl": "https://www.voanews.com/a/artificial-intelligence-is-changing-social-media-/7186991.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gdb.voanews.com/01000000-0a00-0242-35a5-08db884d3054_w1080_h608_s_b.jpeg",
-          "width": 1080,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.voanews.com/amp/artificial-intelligence-is-changing-social-media-/7186991.html",
-      "cdnAmpWebUrl": "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/artificial-intelligence-is-changing-social-media-/7186991.html",
-      "publishedDateTime": "2023-07-19T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Voice of America",
-        "domain": "voanews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-three-career-choices-that-will-not-be-impacted-by-ai.md",
-      "title": "Three Career Choices That Will Not Be Impacted By AI",
-      "excerpt": "Professions that require complex decision-making, creativity and empathy are difficult to replace by machines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2023/07/19/three-career-choices-that-will-not-be-impacted-by-ai/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2023/07/19/three-career-choices-that-will-not-be-impacted-by-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b59cc0cc207a8b885f1dc1/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2023/07/19/three-career-choices-that-will-not-be-impacted-by-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/07/19/three-career-choices-that-will-not-be-impacted-by-ai/amp/",
-      "publishedDateTime": "2023-07-19T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-teslas-elon-musk-optimistic-on-progress-for-self-driving-robots.md",
-      "title": "Tesla's Elon Musk optimistic on progress for self-driving, robots",
-      "excerpt": "SAN FRANCISCO, July 19 (Reuters) - Tesla TSLA.O Chief Executive Elon Musk on Wednesday set new targets for artificial intelligence products including self-driving software and using humanoid ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/teslas-elon-musk-optimistic-on-progress-for-self-driving-robots",
-      "originalUrl": "https://www.nasdaq.com/articles/teslas-elon-musk-optimistic-on-progress-for-self-driving-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-meta-unveils-a-more-powerful-ai-and-isnt-fretting-over-who-uses-it.md",
-      "title": "Meta Unveils a More Powerful A.I. and Isn’t Fretting Over Who Uses It",
-      "excerpt": "The company said it would give outside programmers access to the latest version of its core artificial intelligence technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/07/18/technology/meta-ai-open-source.html",
-      "originalUrl": "https://www.nytimes.com/2023/07/18/technology/meta-ai-open-source.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/07/18/multimedia/18meta-ai-01-wfzm/18meta-ai-01-wfzm-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-18T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-goldman-sachs-reiterates-baidu-buy-recommendation.md",
-      "title": "Goldman Sachs Reiterates Baidu Buy Recommendation",
-      "excerpt": "As of July 6, 2023, the average one-year price target for Baidu Inc – ADR is 184.32. The forecasts range from a low of 102.01 to a high of $246.75. The average price target represents an ...",
-      "sourceUrl": null,
-      "webUrl": "https://247wallst.com/investing/2023/07/17/goldman-sachs-reiterates-baidu-buy-recommendation/",
-      "originalUrl": "https://247wallst.com/investing/2023/07/17/goldman-sachs-reiterates-baidu-buy-recommendation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://247wallst.com/wp-content/uploads/2017/06/baidu-logo.jpg",
-          "width": 1366,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://247wallst.com/investing/2023/07/17/goldman-sachs-reiterates-baidu-buy-recommendation/amp/",
-      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/investing/2023/07/17/goldman-sachs-reiterates-baidu-buy-recommendation/amp/",
-      "publishedDateTime": "2023-07-17T19:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "24/7 Wall St",
-        "domain": "247wallst.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-ready-to-roll-a-new-driverless-ride-hailing-company-is-coming-to-dallas.md",
-      "title": "Ready to roll? A new driverless ride-hailing company is coming to Dallas",
-      "excerpt": "A new way of getting around is coming to Dallas. In just a few months a new driverless ride-hailing service is about to become a reality. It's part of a growing trend in artificial intelligence, which some believe could be a key to safer roads in the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcdfw.com/news/local/ready-to-roll-a-new-driverless-ride-hailing-company-is-coming-to-dallas/3297760/",
-      "originalUrl": "https://www.nbcdfw.com/news/local/ready-to-roll-a-new-driverless-ride-hailing-company-is-coming-to-dallas/3297760/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcdfw.com/2023/07/Driverless-ride-share-Cruise.jpg?quality=85&strip=all&resize=1200%2C675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcdfw.com/news/local/ready-to-roll-a-new-driverless-ride-hailing-company-is-coming-to-dallas/3297760/?amp=1",
-      "cdnAmpWebUrl": "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/local/ready-to-roll-a-new-driverless-ride-hailing-company-is-coming-to-dallas/3297760/?amp=1",
-      "publishedDateTime": "2023-07-17T18:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC DFW",
-        "domain": "nbcdfw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-congressman-says-americans-could-be-the-losers-in-the-ai-social-experiment.md",
-      "title": "Congressman Says Americans Could Be the 'Losers' in the AI 'Social Experiment'",
-      "excerpt": "Rep. Adam Schiff calls the entertainment industry the \"tip of the spear\" in the battle against the disruptive use of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://decrypt.co/148921/adam-schiff-ai-social-experiment-entertainment-industry",
-      "originalUrl": "https://decrypt.co/148921/adam-schiff-ai-social-experiment-entertainment-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/07/Decrypt-Wallpaper-Format-72-gID_7.png",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-17T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "decrypt",
-        "domain": "decrypt.co",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-artificial-intelligence-wheelchair-aims-to-put-users-in-control.md",
-      "title": "Artificial intelligence wheelchair aims to put users in control",
-      "excerpt": "More than a billion people around the globe need assistive technology to go about everyday tasks independently. A new artificial intelligence (AI) wheelchair is taking assistive technology a step further and giving people their freedom back.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-07-artificial-intelligence-wheelchair-aims-users.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-07-artificial-intelligence-wheelchair-aims-users.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/artificial-intelligenc-61.jpg",
-          "width": 448,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-07-artificial-intelligence-wheelchair-aims-users.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-artificial-intelligence-wheelchair-aims-users.amp",
-      "publishedDateTime": "2023-07-17T12:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-seeing-the-future-artificial-intelligence-for-age-related-macular-degeneration.md",
-      "title": "Seeing The Future: Artificial Intelligence For Age-Related Macular Degeneration",
-      "excerpt": "With recent advances in artificial intelligence (AI) and machine learning, healthcare providers can now effectively screen patients for age-related macular degeneration. iHealthScreen develops AI and machine learning-based diagnostic systems for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/williamhaseltine/2023/07/17/seeing-the-future-artificial-intelligence-for-age-related-macular-degeneration/",
-      "originalUrl": "https://www.forbes.com/sites/williamhaseltine/2023/07/17/seeing-the-future-artificial-intelligence-for-age-related-macular-degeneration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b577f192d2c76251248079/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/williamhaseltine/2023/07/17/seeing-the-future-artificial-intelligence-for-age-related-macular-degeneration/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamhaseltine/2023/07/17/seeing-the-future-artificial-intelligence-for-age-related-macular-degeneration/amp/",
-      "publishedDateTime": "2023-07-17T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-robotaxi-ventures-making-slow-but-sure-progress.md",
-      "title": "Robotaxi ventures making slow but sure progress",
-      "excerpt": "The demise of self-driving startup Argo AI has overshadowed the ongoing efforts of others who are pushing for wider deployment of robotaxi networks. Waymo, Cruise and Baidu already have commercial operations.",
-      "sourceUrl": null,
-      "webUrl": "https://europe.autonews.com/automakers/robotaxis-are-still-long-way-finish-line",
-      "originalUrl": "https://europe.autonews.com/automakers/robotaxis-are-still-long-way-finish-line",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-17T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-artificial-intelligence-can-detect-sextortion-before-it-happens-and-help-fbi-expert.md",
-      "title": "Artificial intelligence can detect 'sextortion' before it happens and help FBI: expert",
-      "excerpt": "Yaron Litwin, executive of AI-powered company Canopy, explains how \"AI can be used for good\" in an ongoing chess match with criminals using deepfakes in sextortion scams.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/artificial-intelligence-can-detect-sextortion-before-it-happens-and-help-fbi-expert",
-      "originalUrl": "https://www.foxnews.com/us/artificial-intelligence-can-detect-sextortion-before-it-happens-and-help-fbi-expert",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/AI-is-the-next-front-in-the-culture-war_1.gif",
-          "width": 602,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/artificial-intelligence-can-detect-sextortion-before-it-happens-and-help-fbi-expert.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/artificial-intelligence-can-detect-sextortion-before-it-happens-and-help-fbi-expert.amp",
-      "publishedDateTime": "2023-07-16T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-how-will-artificial-intelligence-affect-investing.md",
-      "title": "How Will Artificial Intelligence Affect Investing?",
-      "excerpt": "Predicting how artificial intelligence will affect the investment industry falls between those two extremes. The internet was so difficult to foresee because it broke radical new ground.",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/financial-advice/how-will-artificial-intelligence-affect-investing",
-      "originalUrl": "https://www.morningstar.com/financial-advice/how-will-artificial-intelligence-affect-investing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://morningstar-morningstar-prod.web.arc-cdn.net/resizer/KiAjhPgxvrVmiRZ-T63JBOTvjRI=/2500x1406/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/morningstar/54RIEB5NTVG73FNGCTH6TGQMWU.png",
-          "width": 2500,
-          "height": 1309,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-16T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-16-elon-musks-tesla-robots-could-be-groundbreaking-for-ai-and-automation-but-still-have-a-long-way-to-go.md",
-      "title": "Elon Musk's Tesla robots could be groundbreaking for AI and automation, but still have a long way to go",
-      "excerpt": "Elon Musk's Tesla robots, or \"Tesla Bot,\" are bipedal robot devices that use the same AI as Tesla's cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/elon-musk-tesla-robots-ai-automation",
-      "originalUrl": "https://www.businessinsider.com/elon-musk-tesla-robots-ai-automation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64ac095a6d7e02001af8a08e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/elon-musk-tesla-robots-ai-automation?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-tesla-robots-ai-automation?amp",
-      "publishedDateTime": "2023-07-16T03:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
     }
   ],
-  "nextPage": 6
+  "nextPage": null
 }
