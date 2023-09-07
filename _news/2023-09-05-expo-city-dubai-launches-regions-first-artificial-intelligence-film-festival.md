@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/en/business/technology-and-telecom/expo-city-d
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/expo-city-dubai-launches-regions-first-artificial-intelligence-film-festival-buhpqsni?amp=1"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -54,15 +54,6 @@ related:
         width: 700
         height: 425
         isCached: true
-  - title: "Revive Launches AI Tool For Real Estate Professionals"
-    excerpt: "Irvine-based Revive said this morning that it has launched a new, AI-powered tool aimed at real estate professionals. According to the company, its new software--"
-    publishedDateTime: 2023-09-06T14:47:00Z
-    webUrl: "https://www.socaltech.com/revive_launches_ai_tool_for_real_estate_professionals/s-0083617.html"
-    type: article
-    provider:
-      name: Incubators
-      domain: socaltech.com
-    quality: 17
 
 secured: "DCZkRjACjbBUSlle/w7aSaVFp4MLL4LXAAuKgpd3Wsm+/RPmke9qxhDkgofVUtN2AqrTQeOjhHj3JQFDOaNbO3GuhgoKgYPN9uqRqyoiAVmV8SnOc4Ue4PFYUgcdP/qCn6ZSkeGSgd6U6tBk8wTevZwf79bG3A8dHobZ0UpzcZ3TpzFNeHOil+bV/ifXp7W/7TI9CoFfjowd7PNrl4iZKFjyPk1txChlcHVjwOpQ3NtwOEMQDLXSixlDxnsUDK5fDAeI7ThT1DdqZ7TV5nV5aCkFZgKUzCdcQpAnoU261Z6u0XNDeVr9sYCN9aiICKeDeHBjQ3/huw1xQFK1btAU0ebZwPYtN91FmdewREdoHDg=;NWWmjK5ZFwToEPr1ShUIng=="
 ---

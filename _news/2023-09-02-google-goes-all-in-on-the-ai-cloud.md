@@ -74,6 +74,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Cedar taps Google Cloud AI to speed up healthcare billing process"
+    excerpt: "Cedar is using Google Cloud's AI tools to help patients with their healthcare bills. Vertex AI and Generative AI App Builder will be used to build algorithms to"
+    publishedDateTime: 2023-09-06T22:41:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-health/cedar-taps-google-cloud-ai-to-speed-up-healthcare-billing-process.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Google adding AI tools to cloud"
     excerpt: "Google's cloud clients will be able to access Meta's Llama 2 large language model, as well as AI startup Anthropic's Claude 2 chatbot, to customize with enterprise data for their own apps and services. The move, announced last week at Google's Next '23 ..."
     publishedDateTime: 2023-09-03T07:01:00Z

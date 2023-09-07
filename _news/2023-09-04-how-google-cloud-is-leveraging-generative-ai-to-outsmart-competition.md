@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/09/04/how-google-clou
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/amp/"
 type: article
 quality: 91
-heat: 171
+heat: 181
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
     images:
       - url: "https://i.insider.com/64f2142b1b7ced0019c6c709?width=1200&format=jpeg"
         width: 1200
+        height: 600
+        isCached: true
+  - title: "Cedar taps Google Cloud AI to speed up healthcare billing process"
+    excerpt: "Cedar is using Google Cloud's AI tools to help patients with their healthcare bills. Vertex AI and Generative AI App Builder will be used to build algorithms to"
+    publishedDateTime: 2023-09-06T22:41:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-health/cedar-taps-google-cloud-ai-to-speed-up-healthcare-billing-process.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
         height: 600
         isCached: true
   - title: "Google goes all in on the AI cloud"

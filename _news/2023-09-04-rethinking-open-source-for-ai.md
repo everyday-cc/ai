@@ -31,18 +31,18 @@ images:
 
 related:
   - title: "Some CT schools are using artificial intelligence for student tutoring"
-    excerpt: "CT is partnering with tech company Varsity Tutors, which uses AI to connect students with tutors and design tutoring lesson plans."
-    publishedDateTime: 2023-09-06T09:00:00Z
-    webUrl: "https://ctmirror.org/2023/09/06/ct-schools-ai-artificial-intelligence-tutoring/"
+    excerpt: "The Connecticut State Department of Education is partnering with a tech company to bring artificial intelligence classrooms this upcoming school year."
+    publishedDateTime: 2023-09-06T13:00:00Z
+    webUrl: "https://www.courant.com/2023/09/06/some-ct-schools-are-using-artificial-intelligence-for-student-tutoring/"
     type: article
     provider:
-      name: The Connecticut Mirror
-      domain: ctmirror.org
-    quality: 39
+      name: Hartford Courant
+      domain: courant.com
+    quality: 37
     images:
-      - url: "https://ctmirror-images.s3.amazonaws.com/wp-content/uploads/2023/08/2023_0823_SR_AIinSchools_017_1-scaled.jpeg"
-        width: 2560
-        height: 1707
+      - url: "https://www.courant.com/wp-content/uploads/2023/07/OpenAI_FTC_Investigation_62692.jpg?w=1024&#038;h=682"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Explainable-AI Image Recognition achieves precise 3D descriptions of objects for US Air Force, a major AI breakthrough"
     excerpt: "Z Advanced Computing, Inc. (ZAC), the pioneer CognitiveExplainable-AI (Artificial Intelligence) (Cognitive XAIor CXAI) software startup, has developed the \"Describer\""

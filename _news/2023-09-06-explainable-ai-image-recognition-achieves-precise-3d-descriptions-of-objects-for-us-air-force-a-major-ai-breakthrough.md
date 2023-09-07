@@ -36,18 +36,18 @@ related:
         height: 800
         isCached: true
   - title: "Some CT schools are using artificial intelligence for student tutoring"
-    excerpt: "CT is partnering with tech company Varsity Tutors, which uses AI to connect students with tutors and design tutoring lesson plans."
-    publishedDateTime: 2023-09-06T09:00:00Z
-    webUrl: "https://ctmirror.org/2023/09/06/ct-schools-ai-artificial-intelligence-tutoring/"
+    excerpt: "The Connecticut State Department of Education is partnering with a tech company to bring artificial intelligence classrooms this upcoming school year."
+    publishedDateTime: 2023-09-06T13:00:00Z
+    webUrl: "https://www.courant.com/2023/09/06/some-ct-schools-are-using-artificial-intelligence-for-student-tutoring/"
     type: article
     provider:
-      name: The Connecticut Mirror
-      domain: ctmirror.org
-    quality: 39
+      name: Hartford Courant
+      domain: courant.com
+    quality: 37
     images:
-      - url: "https://ctmirror-images.s3.amazonaws.com/wp-content/uploads/2023/08/2023_0823_SR_AIinSchools_017_1-scaled.jpeg"
-        width: 2560
-        height: 1707
+      - url: "https://www.courant.com/wp-content/uploads/2023/07/OpenAI_FTC_Investigation_62692.jpg?w=1024&#038;h=682"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "H7vBWfSJXouynRFA0Hb2TkWvQkMcTFoJWsZeWN6M0nUMrDHl7pGKczwaeaUYfnwlRdkHOTkDXy/uR7Gji4ZMmap1an0oNeCh/pbdggRjSPhxRjUMvu+uW0hR38Jf5m+h2j0gxD79OaQf9hyzdocYiGeT2TGMXXudm7RLWhncPn2NOsCdXHNSe5b/k3KsBXFXlNSSebUvVewuwOSGm7VZPZrrQAeFJO3rirGEnK5n8oGOjMeOMHcLvydeo4oCM5uHgICMFBaj1UPzQ5d+EPb6kmNqkG+e3jPCNq00yfgZVff4+4puK4ouhLd6kjc+4z7ElHY7akqnYa8o8UZfsZeWAzP3/oYtysRQxqaeJCYkbE8=;VM3dR/IijF2okpXboX5D3g=="

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/msft-path-or-nvda-
 webUrl: "https://markets.businessinsider.com/news/stocks/msft-path-or-nvda-which-ai-stock-is-the-most-promising-pick-1032603717"
 type: article
 quality: 71
-heat: 74
+heat: 71
 published: true
 
 provider:

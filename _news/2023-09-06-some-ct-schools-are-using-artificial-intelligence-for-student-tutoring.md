@@ -1,27 +1,26 @@
 ---
 category: news
 title: "Some CT schools are using artificial intelligence for student tutoring"
-excerpt: "CT is partnering with tech company Varsity Tutors, which uses AI to connect students with tutors and design tutoring lesson plans."
-publishedDateTime: 2023-09-06T09:00:00Z
-originalUrl: "https://ctmirror.org/2023/09/06/ct-schools-ai-artificial-intelligence-tutoring/"
-webUrl: "https://ctmirror.org/2023/09/06/ct-schools-ai-artificial-intelligence-tutoring/"
+excerpt: "The Connecticut State Department of Education is partnering with a tech company to bring artificial intelligence classrooms this upcoming school year."
+publishedDateTime: 2023-09-06T13:00:00Z
+originalUrl: "https://www.courant.com/2023/09/06/some-ct-schools-are-using-artificial-intelligence-for-student-tutoring/"
+webUrl: "https://www.courant.com/2023/09/06/some-ct-schools-are-using-artificial-intelligence-for-student-tutoring/"
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: The Connecticut Mirror
-  domain: ctmirror.org
+  name: Hartford Courant
+  domain: courant.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://ctmirror-images.s3.amazonaws.com/wp-content/uploads/2023/08/2023_0823_SR_AIinSchools_017_1-scaled.jpeg"
-    width: 2560
-    height: 1707
+  - url: "https://www.courant.com/wp-content/uploads/2023/07/OpenAI_FTC_Investigation_62692.jpg?w=1024&#038;h=682"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -51,6 +50,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "dpVQjzCOM2EMdMNNlo9cQMwcgaFQPDdIMHsDXBvuFjwH39oiFjoxGTEnz4UbOgTzAd/ydq02mweA6BNMHRay6h5ngKxvlnHvEfmSXS5EotWooXsKjXaAa+9nE1MB1Elg4d7STjdPP9JDH9qaLPx+bVMWvSHWgUKf0c+bL/t0JH7ZNW5yOniLGkj/YgVU4dwc57ikGk0PO34KJHc065Rz0qkR24/iLKaURIjBL/BcTUl+ausM/77v3zZEUTr7/VcEM+Kpby7VCLsG3zeJzE1eb0KpGOD6opGl00o2feat8ELo7eYJkCvZmh2mAi4YH7zu2RsQWRQHdSHeB+aJs2Q7URHV4mDkRyUCWlWw0pE359k=;Lpm3h8TrrFhj4FxRHukoIQ=="
+secured: "XARKqJy6fLs673I4H2isuj6IUQZKratppcdBhijnlLUdjb0dEG659Wj5x+SymATUInZHXwTjGBQDM7JjXiKS16tyxM0eCFyiP9xetuva8QKF7y/oSlG9ZjKZYlBQRMEM9CA5rvUAyvUdsQZSwleQLbP30a0LDFr6zeF1TqIONOv6SV3HiUKuZULgCVDvqFZBnvKJodOaeb1s5wI3aecI4I2rco2c5WTuSruI3ECEPA+PxfkekcKEHIDntX8Hl0GqXi2rFql23LuE3YrOS6n55cHOmxeYEtsH1g0R31DotOnoaXNFB9J/naKxifyoZofSPbt1dQ4m3il04UykYWk55rnhyhuzizVWylIQrIleRLw=;TwD6Ob8Wjbi/gWtrM8+AAA=="
 ---
 
