@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/06/the-
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/06/the-potential-of-ai-as-a-catalyst-for-business-transformation/"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -23,31 +23,24 @@ topics:
   - AI Hardware
 
 related:
-  - title: "Educators embrace usefulness of artificial intelligence in classrooms, note potential problems"
-    excerpt: "Richland High School Principal Timothy Regan tries to keep up with emerging technologies so he knows what his students are using — and to prepare them for life outside the"
-    publishedDateTime: 2023-09-07T10:01:00Z
-    webUrl: "https://www.mankatofreepress.com/news/local_news/educators-embrace-usefulness-of-artificial-intelligence-in-classrooms-note-potential-problems/article_627c6fae-8151-50b4-b0d7-4d6f0f0f499c.html"
-    ampWebUrl: "https://www.mankatofreepress.com/news/local_news/educators-embrace-usefulness-of-artificial-intelligence-in-classrooms-note-potential-problems/article_627c6fae-8151-50b4-b0d7-4d6f0f0f499c.amp.html"
-    cdnAmpWebUrl: "https://www-mankatofreepress-com.cdn.ampproject.org/c/s/www.mankatofreepress.com/news/local_news/educators-embrace-usefulness-of-artificial-intelligence-in-classrooms-note-potential-problems/article_627c6fae-8151-50b4-b0d7-4d6f0f0f499c.amp.html"
+  - title: "Building AI for business: IBM’s Granite foundation models"
+    excerpt: "Explore IBM's Granite foundation models, from how we built them to how they can help you further apply generative AI in your business.\nThe post Building AI for business: IBM&#8217;s Granite foundation models appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-09-07T12:00:00Z
+    webUrl: "https://www.ibm.com/blog/building-ai-for-business-ibms-granite-foundation-models/"
     type: article
     provider:
-      name: Mankato Free Press
-      domain: mankatofreepress.com
-    quality: 45
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/mankatofreepress.com/content/tncms/assets/v3/editorial/5/9f/59f8c1f4-00fa-5c44-98c4-53934555f272/64de9c34a13fb.image.jpg?resize=1024%2C631"
-        width: 1024
-        height: 631
-        isCached: true
-  - title: "Artificial Intelligence Has Some Potential For Swiss Judges"
-    excerpt: "AI could be used, for example, in mass cases and as an aid in the search for precedents, the association's president Marie-Pierre de Montmollin told"
-    publishedDateTime: 2023-09-04T18:50:00Z
-    webUrl: "https://menafn.com/1107005101/Artificial-Intelligence-Has-Some-Potential-For-Swiss-Judges"
+      name: IBM
+      domain: ibm.com
+    quality: 99
+  - title: "IBM rolls out new generative AI features and models"
+    excerpt: "detect model bias and drift and help organizations meet ethics standards. And starting next week, IBM will launch Intelligent Remediation, which the company says will leverage generative AI models to assist IT teams with summarizing incidents and ..."
+    publishedDateTime: 2023-09-07T13:00:00Z
+    webUrl: "https://techcrunch.com/2023/09/07/ibm-rolls-out-new-generative-ai-features-and-models/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 19
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 49
 
 secured: "WkuNpt7hPqiEMUj6BNwIe6flaLCv1aPoUTOHhElfHxuEf52D0ckqrF+892vrHIeuTcEM0S71lUWYBj4Z0651MjKD5C1g8hOuh5/w/dqqUcvejxwVDDV8ON1fhd3tMvh+ayMEDRIrXGe0YVxpcFqRNg74yLd/toazOiwg47bxItacFbCzE4xhhaWVJnPrrxASR1FlSfKXoYFiPCIgYuuKmCO3p2zALRR4DMnAnCoz2F9Aigv0qHOJQGGC305AvpvUdIQJ3h4luJNZEj/NXba7KRuCEmoJivRk6JMYwR5x9zJMjbTplFiiH//fvTqYkCbNMvpF8KuI1E7aXKz3u6u6TST7R6GahRhBiGeVfbLsUYLZZwBmeTG48gd6nm8W06+LobRpp0+9i8EvFI+hP+8TqqwMsJzEbzELHYWFRVZ9QPx5erzTlx0PsTxIeYWpmTkT4VRaYH681B8JTjz4wFJlSIUfbYL0qDodgdzrMcDuZM9S4QgO/Xr3B/1Yye2UXd0k/S40zIejmdp+1QkQQTaz2A==;u7TICeIU2k8dYOF2g9QX9g=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/09/04/intel-wants-to-beat-bias
 webUrl: "https://www.fool.com/investing/2023/09/04/intel-wants-to-beat-bias-ai-training-data/"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Scientists are using AI to track coal train dust"
-    excerpt: "Across the United States, around 70 percent of coal travels by rail, transiting from dozens of mines to power plants and shipping terminals. Last year, the U.S.—which holds the world’s largest supplies of coal—used about 513 million tons of coal and exported about another 85 million tons to countries including India and the Netherlands."
-    publishedDateTime: 2023-09-02T23:00:00Z
-    webUrl: "https://www.popsci.com/environment/coal-train-dust-ai/"
-    ampWebUrl: "https://www.popsci.com/environment/coal-train-dust-ai/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/environment/coal-train-dust-ai/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 59
-    images:
-      - url: "https://www.popsci.com/uploads/2023/09/01/Depositphotos_81499646_L-1.jpg?auto=webp"
-        width: 2000
-        height: 1125
-        isCached: true
   - title: "How AI and machine learning are transforming data centers"
     excerpt: "Impact of AI and machine learning on data center management and a colocation market poised for growth to US$65.2 billion by 2027."
     publishedDateTime: 2023-09-06T01:05:00Z

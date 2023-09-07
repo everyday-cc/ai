@@ -33,15 +33,6 @@ related:
         width: 1400
         height: 900
         isCached: true
-  - title: "New Slack AI to Help Summarize Your Work Conversations and More"
-    excerpt: "With Slack AI, in-app capabilities will include channel recaps that provide key highlights and one-click thread summaries that give you the gist of a thread. Another feature will be search answers, a question-answer feature that returns related messages, files, channels and an AI-generated summary."
-    publishedDateTime: 2023-09-06T19:31:00Z
-    webUrl: "https://www.cnet.com/tech/services-and-software/new-slack-ai-to-help-summarize-your-work-conversations-and-more/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 47
   - title: "Code Conversion and Documentation Through Artificial Intelligence"
     excerpt: "Emerson's generative AI tool Revamp helps users automate system configuration. With artificial intelligence (AI) taking a larger role in the workforce, tools like Emerson’s cloud-based Revamp software are more important than ever. Generative AI can ..."
     publishedDateTime: 2023-09-06T19:38:00Z

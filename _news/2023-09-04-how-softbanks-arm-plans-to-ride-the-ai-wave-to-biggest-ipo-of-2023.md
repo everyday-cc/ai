@@ -18,15 +18,22 @@ topics:
   - AI
 
 related:
-  - title: "Arm Holdings IPO: SoftBank’s Chip Maker Could Go Public As Soon As Next Week"
-    excerpt: "With concerns about the smartphone market and its exposure to China, Arm has a potential uphill battle to achieve its valuation."
-    publishedDateTime: 2023-09-06T12:38:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2023/09/06/arm-holdings-ipo-softbanks-chip-maker-could-go-public-as-soon-as-next-week/"
+  - title: "Softbank Group backs former Argo AI founders on new self-driving trucks startup"
+    excerpt: "There’s a new self-driving trucks startup in town. And the faces are familiar. Bryan Salesky, Peter Rander and Brett Browning — the trio behind the now defunct Ford and VW-backed autonomous vehicle startup Argo AI — have formed a new company called ..."
+    publishedDateTime: 2023-09-07T15:36:00Z
+    webUrl: "https://techcrunch.com/2023/09/07/softbank-group-backs-former-argo-ai-founders-on-new-self-driving-trucks-startup/"
+    ampWebUrl: "https://techcrunch.com/2023/09/07/softbank-group-backs-former-argo-ai-founders-on-new-self-driving-trucks-startup/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/07/softbank-group-backs-former-argo-ai-founders-on-new-self-driving-trucks-startup/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 46
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 85
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/09/FINAL_Stack_Truck_1-1.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "UaQ+ULkLSIXJ0Uy9bloFhS9SkLEV51NzMah/IgpuNqBlrRQ739NRDnsoe/LsWwHJaV+Zhrryq9qlKLWXpSPNX+ICRY36qan77TF5OIw2RKlsXnhC8hAVAjPjXfxhikvT4wYZZYvYY2uAQxDnaC2/QxecipAZglYc0nhMsf9jxMpqYYTniaSNX7j1PUZeAaIRAxcnbJQ2vfJFpPH58+P770DAmy7D7nSYj0bTuCyOj5PTSykV8FIXtSeNoovgoHr6zjs4kzP2D0nq+TNR7VAQEcEjizaL+AmqmIVlqJ7IewxdJ2y7gQ91VhEfeoaSuci9S1j119b3r27qXqFGAIMeYKz6JHC8BTMqmAj5KXKllkuuG7+tc2jWeitDK2wODvpqhIySq9VHjYnsRt+UumlYlelL+WPao3S7jHbraMgaJI3sOdQNjBldRR9wNeoFQkKgzXxjWHNGYySn1QyP6nsFdFVgiDskZe2NJyuaizBgOjJtocovEhk0aNUW1dUnmLvWew2QwTnuAHvfo1v04ixZsg==;KIGT0F7raxFv7GSakzJyow=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/synopsys-extends-s
 webUrl: "https://markets.businessinsider.com/news/stocks/synopsys-extends-synopsys-ai-eda-suite-with-industry-s-first-full-stack-big-data-analytics-solution-1032610580"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: Business Insider
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "Data and analytics interrupt their programs for generative AI"
+    excerpt: "Amidst all the pronouncements from data and analytics providers on generative over the spring, we found a huge omission. Like all AI, generative will require governance, and most providers are for now paying lip service to that."
+    publishedDateTime: 2023-09-07T13:00:00Z
+    webUrl: "https://siliconangle.com/2023/09/07/data-analytics-interrupt-programs-generative-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 17
   - title: "Best analytics and business intelligence platforms"
     excerpt: "Some of the leaders in the analytics and business intelligence platform market include Microsoft, Salesforce, Tableau, and Qlik."
     publishedDateTime: 2023-09-05T13:44:00Z

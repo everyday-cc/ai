@@ -22,38 +22,29 @@ topics:
   - AI
 
 related:
-  - title: "Top 10 Conversational AI Platforms 2023"
-    excerpt: "$0.00075 per text request Built on deep learning, machine learning, and natural language processing (NLP) models, the IBM Watson Assistant conversational AI platform enables your teams to build AI-powered voice agents and chatbots that deliver automated ..."
-    publishedDateTime: 2023-09-05T22:15:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/conversational-ai-platforms/"
+  - title: "Making a sales call? Otter.ai wants to listen, summarize, and help"
+    excerpt: "This week, the 7-year-old company debuted OtterPilot for Sales, an AI assistant that automatically listens to sales calls,"
+    publishedDateTime: 2023-09-07T13:59:00Z
+    webUrl: "https://venturebeat.com/ai/making-a-sales-call-otter-ai-wants-to-listen-summarize-and-help/"
     type: article
     provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 71
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
     images:
-      - url: "https://www.eweek.com/wp-content/uploads/2023/08/ew08292023-conversational-ai-platforms.png"
-        width: 1400
-        height: 900
+      - url: "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_an_otter_wearing_a_suit_makes_a_phone_call_1ddd067d-d43a-4df3-a6bc-a3e2b78589fe.png?w=1200&strip=all"
+        width: 1200
+        height: 672
         isCached: true
-  - title: "Apple Spending Millions of Dollars a Day on Conversational AI"
-    excerpt: "according to a new report from The Information that highlights Apple's AI and machine learning research. Though Apple's AI chief John Giannandrea is said to be skeptical of AI chatbots, he established a team that is working on conversational AI four years ago."
-    publishedDateTime: 2023-09-06T18:30:00Z
-    webUrl: "https://www.macrumors.com/2023/09/06/apple-conversational-ai-spending/"
+  - title: "Otter.ai launches generative AI tool to help sales teams close more deals"
+    excerpt: "OtterPilot for Sales can transcribe calls, provide insights, identify action items -- and automatically syncs with leading CRM and productivity tools."
+    publishedDateTime: 2023-09-06T13:00:00Z
+    webUrl: "https://www.zdnet.com/article/otter-ai-launchesotter-ai-launches-generative-ai-tool-to-help-sales-teams-close-more-deals-generative-ai-tool-to-help-sales-teams-close-more-deals/"
     type: article
     provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 19
-  - title: "Code Conversion and Documentation Through Artificial Intelligence"
-    excerpt: "Emerson's generative AI tool Revamp helps users automate system configuration. With artificial intelligence (AI) taking a larger role in the workforce, tools like Emerson’s cloud-based Revamp software are more important than ever. Generative AI can ..."
-    publishedDateTime: 2023-09-06T19:38:00Z
-    webUrl: "https://www.automationworld.com/leaders/analysis-software/article/33011131/code-conversion-and-documentation-through-artificial-intelligence"
-    type: article
-    provider:
-      name: Automation World
-      domain: automationworld.com
-    quality: 17
+      name: ZDNet
+      domain: zdnet.com
+    quality: 63
 
 secured: "Ak+AU0OtnJ1bwgefgCZtLFMOb1HLqqWfFb2mecX+wLhumfx03iwG8RzOQmPMJ9xYCMvcSXG4NRAcHDJ9Ys7xS1nqr3MAm/LrRQMtFG8OuB8OL/mOxFKJQDZNywJT2WsqlWjy5uSWHx7taC7mZvSdYuCwL/Rax3dgMXu4uO5LThGL1b3HixvGjOT5AYa7YeFt7BlFaL4P3vSVX7+9Gt4qRNoAvhRvyyJXaXWV+DtWZlDcOZmIbGaiaVanlUM+CxQicp02NXH8RYdihEkaBKkRtf9Uqqvxl0ZLKubLIswVuPm8IzFCEGnePUvkBnizOpSqWhxaaNb+1+QgAU9yoiLleGqMyjVtNuWAXxc/Z6YlSD2lIJ+4x8qjAtxCb8hKiA+HLohMwyxcjFbyX/6zlociyCSCRAHyM9r3M08nSqndcLR420EHFGPKZkfWb7entB+VQmDMa4r8UzgO46uF3585gfuitBYzHVe7IKEX53Ss+6cxIQuVvpwbmI5SAejI6dE+3hrj28Nq3i6OqAUp0f86cQ==;3X2MKdKXauRc7sdA6+Aa1g=="
 ---

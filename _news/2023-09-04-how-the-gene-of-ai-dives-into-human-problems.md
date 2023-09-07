@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Governments Urged To Get A Grip On AI In Schools"
+    excerpt: "Regulation is needed to protect students and teachers, according to new guidance on the use of Artificial Intelligence in schools."
+    publishedDateTime: 2023-09-07T14:14:00Z
+    webUrl: "https://www.forbes.com/sites/nickmorrison/2023/09/07/governments-urged-to-get-a-grip-on-ai-in-schools/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64f9d707743b486272f9e2c7/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "rXWVbHunJ/oDVMeytEbBHZ4lMCQLXUHqTWf/YNwAHCHSdtORSResRDkjXvK8EeXk7h4ZRuVmLd4oqtmjnR8V487SI6DhoTbnysTEtjg1kV+cZrtSNWIfUZViCYOd3IhI32+yKDIjeNpxQ4EroJ469o7Muyns03EyAhG5qUyJvugglihSIy9jgFTNKqRdidBam89P61LrrATrB7gdhdew2Oba3cGUYoOGOJjHI5QzAI/2U0SQLn8ftuFcIPkxnJRSWM3N4UmJt7MU4GfPThtkZ4O50xBAtV5oK6I449a8eu8UK+O4N0UfeoZS8br4AH3mGSzAWLHdR+FXuB33jBkXB5ySPXwF1BpYhmL8BMT18ks=;8FVh426y4TspPCLU/BqtEA=="
 ---

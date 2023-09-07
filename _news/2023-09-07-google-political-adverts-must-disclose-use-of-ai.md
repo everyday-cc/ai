@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/technology-66739858.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66739858.amp"
 type: article
 quality: 87
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,38 @@ images:
     isCached: true
 
 related:
+  - title: "Google will soon require disclosures for AI-generated election ads"
+    excerpt: "The policy will take effect in mid-November and will require election advertisers to disclose that ads containing AI-generated elements have been computer-generated or do not show real events. Minor changes like brightening or resizing an image do not require such a disclosure."
+    publishedDateTime: 2023-09-07T12:33:00Z
+    webUrl: "https://www.cnbc.com/2023/09/07/google-will-soon-require-disclosures-for-ai-generated-election-ads-.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/09/07/google-will-soon-require-disclosures-for-ai-generated-election-ads-.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/07/google-will-soon-require-disclosures-for-ai-generated-election-ads-.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 87
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107276696-1690329079763-gettyimages-1459457877-ussuesgoogleforabusingmonopolyinadtechnology009.jpeg?v=1694098706"
+        width: 3500
+        height: 2332
+        isCached: true
+  - title: "AI used to alter imagery or sounds in political ads will require prominent disclosure on Google"
+    excerpt: "(AP) - Google will soon require that political ads using artificial intelligence be accompanied by a prominent disclosure if imagery or sounds have been synthetically altered."
+    publishedDateTime: 2023-09-07T15:42:00Z
+    webUrl: "https://www.mysuncoast.com/2023/09/07/ai-used-alter-imagery-or-sounds-political-ads-will-require-prominent-disclosure-google/"
+    ampWebUrl: "https://www.mysuncoast.com/2023/09/07/ai-used-alter-imagery-or-sounds-political-ads-will-require-prominent-disclosure-google/?outputType=amp"
+    cdnAmpWebUrl: "https://www-mysuncoast-com.cdn.ampproject.org/c/s/www.mysuncoast.com/2023/09/07/ai-used-alter-imagery-or-sounds-political-ads-will-require-prominent-disclosure-google/?outputType=amp"
+    type: article
+    provider:
+      name: WWSB
+      domain: mysuncoast.com
+    quality: 47
+    images:
+      - url: "https://gray-wwsb-prod.cdn.arcpublishing.com/resizer/0fvrw_eCnvDh0Gck22UJeFUp0bk=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/XLKFL55KTFH4HEAJ2NOMY7XY3I.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Google will require election ads to ‘prominently disclose’ AI content"
     excerpt: "Google will require verified advertisers to “prominently disclose” when a campaign ad “inauthentically depicts” people or events, in a bid to combat the spread of digitally manipulated images for political gain, the company said on Wednesday."
     publishedDateTime: 2023-09-06T21:35:00Z
@@ -45,6 +77,6 @@ related:
         height: 377
         isCached: true
 
-secured: "TSqZBLd8hfHuJS3NmnUBOhu2yZin8hUI7saxpBWWs/+Py7fBbncRaV2fiDdYIAYloBr3uFV4V7MNAHAgMCkh8WIUwReLhFY8CgmOo3w9FStrVtOFJwERNKTWwDU9gSq5MiTRRqERQ8CSZ3LCITk1ywu9aGigxf8NL88HvfaYl5LqQddIyy0JeIPVwOrzw7m+EmFmM7rc3lMIPF6KMjDApAqI1U0R8Zq2YlA99Rpvzu18IcVw4KlvXYgxidG7Q2IZ7MkNnKAE5nu4N6Pms5g/AfxHRmPr2Tun0ce0rM8EtF6lQskimk0pSH6T+/1Hp+VNOlkK0z6S4Z8e4iAs9z/OYIvHs/4WHpHPn5BXoSYTXj8=;9HeS167OyzBYrfU6rpcECw=="
+secured: "8inykdnHq7lT7xsZs7lA2w4z8E92rYMcpxoMcJmfsbyTC7SCkkFrIYJxOHbSv/eKifKNyJBBRz/4GoLrG66KKxTDaRDIBuvL1lnUI/PISS08Kfc2y2cymPsJO4OXZY0bl0nSGi6tFNHB2DYWl/HgB31U40eUlTmLcGzornLKGpRl2TzhH4pIHgiHe0Uf1xLTBj43NnSvdSMiuBmHl0+oZPDdeK1er22bGqztro2YGkBDAibZJWQJdQqZYpmQHhB/26YQgxzRSvGuD52gz85OTahU9teMZcxYdNUkPY8BDfwfuqOIanaZE80kMmjKMUa2gRCszf2m5QyNjaRLl9ePKWxL7eooxOHqFAwtIGsu3bVq5XRrs/ReMAYAFL4GcWhMeAeT93Dic/zDPh3xIDCJ858+NJxj1cHFrwEe7fP8DoksX4T7bggrvkliIeW0fvRKeNlu6rPL7alN9IE0eCwQE393ppARy7khE5hPF8SO1sVAqUO0B0na2B09CWWH9eQ7R8HIkeWwj6HPGU/Pf2Qt3w==;L9zBX6D1jPSr2DmcHwozMQ=="
 ---
 

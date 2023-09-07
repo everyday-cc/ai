@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/34240520"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34240520"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
       name: Arabian Business
       domain: arabianbusiness.com
     quality: 31
+  - title: "Paige Announces Collaboration with Microsoft to Build the World's Largest Image-Based AI Model to Fight Cancer"
+    excerpt: "Paige, a technology disruptor in healthcare, has joined forces with Microsoft in the fight against cancer, making headway in their collaboration to transform cancer diagnosis and patient care by building the world's largest image-based artificial intelligence (AI) models for digital pathology and oncology."
+    publishedDateTime: 2023-09-07T15:26:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-paige-announces-collaboration-with-microsoft-build-worlds-largest-/2023/09/07/9877029.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 14
 
 secured: "nGcroixw9QdbUlRTna0O+xqZNb4g/uh/RYqCPSPI7iEzFGoaFoe/9XTONGptuvcgS5Ykt3U8fMWmXNQMXf8cF1qCivqQ3W3B/ViFiCdR/DqwpEjxIVrtol90VhDBCqmWRAbnZAdGJeRo/I0dTwETYSfAHsVTxXum5OrerQWlpNp54nQO5VLDEFDSMEkpRFNqixMMjRqkihl98L2Ffcl1eKPLiW8N0c5OiWkEw3WOFxzhjtmF8NeJEiKAm2NM8/b9tBe6YBFIKmk/pnt+I7cqU3BJgD/KeXj1/9hzZhvBotQkpcZwpFxnUazp79p9t3VvoCzE+xSnitr1kf2g0llVGLJrBIJoAGBPupKZL1s49Hs=;Rg5McETzNHwzDzFXHek2IA=="
 ---

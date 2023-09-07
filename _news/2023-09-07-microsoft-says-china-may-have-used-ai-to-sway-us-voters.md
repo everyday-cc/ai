@@ -1,0 +1,124 @@
+---
+category: news
+title: "Microsoft says China may have used AI to sway US voters"
+excerpt: "A Chinese embassy spokesman in Washington said that accusations of China using AI to create fake social media accounts were “full of prejudice and malicious speculation” and that China advocates for the safe use of AI. In a new research report, Microsoft said the social media accounts were part of a suspected Chinese information operation."
+publishedDateTime: 2023-09-07T14:35:00Z
+originalUrl: "https://www.freemalaysiatoday.com/category/business/2023/09/07/microsoft-says-china-may-have-used-ai-to-sway-us-voters/"
+webUrl: "https://www.freemalaysiatoday.com/category/business/2023/09/07/microsoft-says-china-may-have-used-ai-to-sway-us-voters/"
+type: article
+quality: 36
+heat: -1
+published: false
+
+provider:
+  name: Free Malaysia Today
+  domain: freemalaysiatoday.com
+
+topics:
+  - Facebook AI
+  - AI
+  - Microsoft AI
+
+related:
+  - title: "Microsoft to reveal AI plans for OneDrive in October event"
+    excerpt: "Mark your calendar if you want a \"sneak peek\" at how AI will fuel new search, sharing, and queries for your OneDrive files."
+    publishedDateTime: 2023-09-07T15:23:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-to-reveal-ai-plans-for-onedrive-in-october-event/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-to-reveal-ai-plans-for-onedrive-in-october-event/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-reveal-ai-plans-for-onedrive-in-october-event/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/52621c88ff4f85caa000cfcdc623220ec0f8ea17/2023/09/07/3d33de39-0d04-4ce2-9326-cfb83bf94a84/onedrive-event.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Microsoft-Backed Startup D-Matrix To Compete With Nvidia In Bid For AI Dominance"
+    excerpt: "The chips are down in the artificial intelligence (AI) market, and Nvidia Corporation’s (NASDAQ: NVDA) stronghold appears unshakeable."
+    publishedDateTime: 2023-09-06T16:30:00Z
+    webUrl: "https://www.benzinga.com/news/large-cap/23/09/34282592/microsoft-backed-startup-d-matrix-to-compete-with-nvidia-in-bid-for-ai-dominance"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34282592"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34282592"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 71
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/09/06/d-matrix_logo.jpg?width=1200&height=800&fit=crop"
+        width: 941
+        height: 627
+        isCached: true
+  - title: "Microsoft expands UAE's G42 partnership to include cloud, AI tools"
+    excerpt: "\"With data privacy, security, and compliance as our core priorities, we have a unique opportunity to help organizations responsibly innovate,\" Microsoft Chief Commercial Officer Judson Althoff said"
+    publishedDateTime: 2023-09-05T14:10:00Z
+    webUrl: "https://www.business-standard.com/world-news/microsoft-expands-uae-s-g42-partnership-to-include-cloud-ai-tools-123090501146_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/world-news/microsoft-expands-uae-s-g42-partnership-to-include-cloud-ai-tools-123090501146_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/world-news/microsoft-expands-uae-s-g42-partnership-to-include-cloud-ai-tools-123090501146_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 54
+  - title: "Microsoft Partners With G42 To Strengthen Cloud, AI Services In UAE"
+    excerpt: "Microsoft aims to add more than $39 billion and about 100,000 jobs to the UAE economy over the next four years."
+    publishedDateTime: 2023-09-06T11:23:00Z
+    webUrl: "https://www.ibtimes.com/microsoft-partners-g42-strengthen-cloud-ai-services-uae-3710865"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 54
+    images:
+      - url: "https://d.ibtimes.com/en/full/4481366/tech-giant-microsoft-has-submitted-new-proposal-buy-activision-blizzard.jpg"
+        width: 768
+        height: 510
+        isCached: true
+  - title: "G42, Microsoft alliance expands to include joint sovereign cloud and AI offering"
+    excerpt: "This announcement marks the first significant outcome since G42 and Microsoft announced their intention to partner earlier this year, in April"
+    publishedDateTime: 2023-09-06T04:55:00Z
+    webUrl: "https://gulfbusiness.com/g42-microsoft-joint-sovereign-cloud-ai-offering/"
+    type: article
+    provider:
+      name: Gulf Business
+      domain: gulfbusiness.com
+    quality: 49
+    images:
+      - url: "https://gulfbusiness.com/wp-content/uploads/2023/09/Microsoft-and-G42-to-offer-joint-sovereign-cloud-and-AI-offerings-Image-Microsoft.jpg"
+        width: 930
+        height: 620
+        isCached: true
+  - title: "G42 and Microsoft unlock new opportunities for digital transformation with joint sovereign cloud and AI offering"
+    excerpt: "Microsoft's sovereign cloud offering public sector and regulated industries to use new platform capabilities for securing access to the latest cloud and AI features available on Azure public cloud and helping local privacy and regulatory requirements."
+    publishedDateTime: 2023-09-05T16:43:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/g42-and-microsoft-unlock-new-opportunities-for-digital-transformation-with-joint-sovereign-cloud-and-ai-offering-1032606400"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
+  - title: "Microsoft-backed AI startup d-Matrix raises $110 million"
+    excerpt: "A chiplet is a smaller, modular block of semiconductors that contains a portion of the functionality of a larger chip Generative AI compute startup d-Matrix has successfully closed a $110 million Series-B funding round led by Singapore-based global ..."
+    publishedDateTime: 2023-09-06T13:11:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/1025652/microsoft-backed-ai-startup-d-matrix-raises-110-million-1025652.html"
+    type: article
+    provider:
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 34
+  - title: "Microsoft pledges legal protection for AI-generated copyright breaches"
+    excerpt: "Microsoft has pledged to assume legal responsibility for any copyright infringement over material generated by the artificial intelligence software it offers to businesses in Word, PowerPoint and its coding tools, as concerns mount over potential clashes with content owners."
+    publishedDateTime: 2023-09-07T15:15:00Z
+    webUrl: "https://www.ft.com/content/cd7f5391-bba5-4af1-8309-346eb2eafa02"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
+
+secured: "td7iRnvirLhBAhpFE2K4wIeYVVQvhE14u2dXhLcRv+kBijN/eZm2M42f9U8/N64jids8YlzUD5EB4M3biXLsq7KfPI8HJQQtHdxLgIrUed//Bgl32086BkZNh35l5trtvhZAvLNwN1Oo3oMcnr1zzdUnUBXCEuShW+BDT/Lpuqm+mAYPv2znacHC3t3/JZeAYQd/Pjcrhr1HnpjP/qqZoTYd+uzc4YLMjpAAaJMl/kJ8fSoVy9pjXdIxMVEm0D8QMq0OodvWaIYepEBchZGvj5g9oFYtHNjRG1xmFaDoveQ8lrUjcvcxMgvP/ztusZmNJzocygwMPHHlsDJewjhsEQTauleUiYtXxJFZP8KsLutH3T3u87ZRm5C0yCg9zLE13pcbZBsXWDAClVFNnULA7nCU3Mg359UdYXkf82R4bxrc60v8GP/aK9zeeOsXH5+6OQWAwUA+8ZmSCetItz2tvmbxCiwhua56UT8U86zfW/8p3++AgZMZFx1Pe+JWni6e8Iv87VDedBlQmgYTPIDJNA==;sgJE4a5yKGXGSHg8H1pAHw=="
+---
+

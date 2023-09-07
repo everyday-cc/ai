@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/only-four-per-cent
 webUrl: "https://markets.businessinsider.com/news/stocks/only-four-per-cent-of-businesses-in-canada-report-using-artificial-intelligence-ai-tmu-study-1032609735"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -21,6 +21,17 @@ provider:
 topics:
   - Facebook AI
   - AI
+
+related:
+  - title: "About 4% Of Canadian Businesses Are Using Artificial Intelligence: Survey"
+    excerpt: "A new survey has found that about 4% of Canadian businesses are using artificial intelligence (A.I.) on a regular basis. The research, which was conducted by Toronto Metropolitan University, says that A."
+    publishedDateTime: 2023-09-07T13:40:00Z
+    webUrl: "https://www.baystreet.ca/techinsider/3765/About-4-Of-Canadian-Businesses-Are-Using-Artificial-Intelligence-Survey"
+    type: article
+    provider:
+      name: BayStreet
+      domain: baystreet.ca
+    quality: 16
 
 secured: "P1ZNYQaq7TA3S6iVObB2gqk31Ee0GdnQqK03qu6J1s0Yv1pTYsWqtf1RcsqDXGRzEdL24xtnIsZcCwMH500e56jw3tmdhbYpVZzT2qFaDWSPu1yU+jgpNjY2sF3dOyGAwM/Nw/ki6dMsaFHZ+3W3JV+gEp1EuVG768qObeL/Zsjq7Egmlsbw39u6Liu/CF3I5mb/I4YHVD6ve+BVDI4OYVT3fmT/gXBd57IiDDMlA8m7iU7GwOqa+pulqT96TJJgqIHfgSaEFNraqwNOt5hg7FFKWIgacQE9h9SkSib4lUYOIrVO9EVVJYmsm+RHMRphK0vPJKt/au/PWnPHXwwzChT+m2ZfqdHUG7n/7SgezAA=;kJ94vnAJeb82IewtYjn5KQ=="
 ---

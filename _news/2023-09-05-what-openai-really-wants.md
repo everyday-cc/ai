@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/what-openai-really-wants/"
 webUrl: "https://www.wired.com/story/what-openai-really-wants/"
 type: article
 quality: 71
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1280
     height: 670
     isCached: true
+
+related:
+  - title: "Soon UAE Will Dethrone OpenAI"
+    excerpt: "UAE’s Technological Innovation Institute (TII) yesterday released Falcon 180B, a highly scaled-up version of Falcon 40B."
+    publishedDateTime: 2023-09-07T12:20:00Z
+    webUrl: "https://analyticsindiamag.com/soon-uae-will-dethrone-openai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 19
 
 secured: "Tko4nlaQbspWjHCCeHZpeHB8vzybGCVzwkNXPdqOk/2FNc0DfFnlHlpBfG2fLXUUVv//enVkUFvyPgF7kiVBPUo/CIeHr+5vQeEutANYr4bQ11y2gAw8XhMi75j8FEVJcUGgdmhXGnET7vgpQPMH17SLx//B6e1Qq2gyUOXPDeO6RN+TQiJ8iN6aRXW6VHXyuirbPZkNxueGsSA4BNHktDkDJdSuOQd/HAw0kvOGjHwL/0evSOFxWDw7fUFhpwhMeasPXnHV9sl3LPLDwozUl9lzBmf7oEt/nfC+l1qhbIabyJh9QHZhvNtu8352gVFGwvWfzkTrnxCJXVlUTObK8q/yObEsNQZzxiI3J28MVMCpgg8gzziqf1jZutZYHb4HMDCfopG/NXSZmA44OirbdgDHg/P/JHhetHeCeZgVI8mQmS0EAcdHLfggGMdFu6XC2wEgsZKXRY6KSS1Z0oyFf9QTU8meMqkMrazR9mVo9uBV5ATjwrxDSww1IoHDsb7OBEikuvMzbInVrADTiB3J6w==;Cj0sBQxSfqcJzZdIMExPIw=="
 ---

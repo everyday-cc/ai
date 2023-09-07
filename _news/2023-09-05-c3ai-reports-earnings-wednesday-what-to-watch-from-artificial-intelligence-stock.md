@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/c3-ai-reports-earn
 webUrl: "https://markets.businessinsider.com/news/stocks/c3-ai-reports-earnings-wednesday-what-to-watch-from-artificial-intelligence-stock-1032606207"
 type: article
 quality: 76
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 1024
     height: 768
     isCached: true
+
+related:
+  - title: "C3.ai Stock Is Falling Thursday: What's Going On?"
+    excerpt: "C3.ai Inc (NYSE: AI) shares are trading lower Thursday on the heels of the company's quarterly results. Here's a look at key metrics from the quarter."
+    publishedDateTime: 2023-09-07T12:48:00Z
+    webUrl: "https://www.benzinga.com/news/earnings/23/09/34316403/c3-ai-stock-is-falling-thursday-whats-going-on"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
 
 secured: "v75Hu6k5Qo7Lu1RL4fNmWrmzPQwEErV5mTSWoQcea9Ki10ThRehFqFhJXnp/ZWFi1IL1MdOeZCHg+caTzOJZOqsO6fMtGgBj6grcLtMrveMXLkxO/700cmv6KF4pD2wvqpXtNRYNW5HcH3LwxoXO2nnVyXNgRHrSPLtnjbwBs+S1CpssO1kRWEbivM8T7yQazfCZp0GuPS1WjmPOZg6DH2aiiUztgeY2viUrazzxWAl9Dtcu1c/zlFmj/8NOU0LFfRhjM16Rgq2sbHvI7ZyeqgDjUntPUp+ZMFBl1aYuM4iJh6C9la58WPKF92xuYtbl3mnaQHIFEgwc2yNFAZam2i2LHgvRpi4DQ/Kk9kwr3QxDqr5HRe/iXrem9ogI7h/kioiQRjtiVofcnFCq8I9nH/6fqeS1gFAV9OQIfocTDZLc90C1njWBNSqR/8M0oOnhdCXwjrtVakhHA9SVSt8sT6AnOmrLsanRJgbnYvR3LUp7TGUCtoeqSae8iyQeMqQZqRidTet9/L0NcPBdf1L9Dw==;HuMjXhyYOfMbflKmZugrLQ=="
 ---

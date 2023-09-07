@@ -1,56 +1,20 @@
 ---
 category: news
-title: "Ibm And Salesforce Team Up To Help Businesses Accelerate Adoption Of Trustworthy Ai"
-excerpt: "Tech giants collaborate to drive productivity and growth with generative AI ARMONK, N.Y.<br />and SAN FRANCISCO, Aug. 31, 2023 /PRNewswire"
-publishedDateTime: 2023-08-31T22:04:00Z
-originalUrl: "https://menafn.com/1106991298/Ibm-And-Salesforce-Team-Up-To-Help-Businesses-Accelerate-Adoption-Of-Trustworthy-Ai"
-webUrl: "https://menafn.com/1106991298/Ibm-And-Salesforce-Team-Up-To-Help-Businesses-Accelerate-Adoption-Of-Trustworthy-Ai"
+title: "IBM and Salesforce Team Up To Help Businesses Accelerate Adoption of Trustworthy AI"
+excerpt: "ARMONK, N.Y. and SAN FRANCISCO, Aug. 31, 2023 /PRNewswire/ -- Today, IBM (NYSE: IBM) and Salesforce (NYSE: CRM) announced a collaboration to help businesses worldwide across industries accelerate ..."
+publishedDateTime: 2023-08-31T17:39:00Z
+originalUrl: "https://www.victoriaadvocate.com/ibm-and-salesforce-team-up-to-help-businesses-accelerate-adoption-of-trustworthy-ai/article_b1097777-cf67-575c-aad6-20d411ffaf54.html"
+webUrl: "https://www.victoriaadvocate.com/ibm-and-salesforce-team-up-to-help-businesses-accelerate-adoption-of-trustworthy-ai/article_b1097777-cf67-575c-aad6-20d411ffaf54.html"
 type: article
-quality: 33
-heat: -1
-published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: The Victoria Advocate
+  domain: victoriaadvocate.com
 
 topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?235416"
-    width: 375
-    height: 250
-    isCached: true
-
-related:
-  - title: "Startup Superframe Raises $5 Million To Simplify Salesforce Configurations With AI Chatbot"
-    excerpt: "Superframe can do this because we are AI-first, not tied to a legacy product.” Steer was previously the CEO of business intelligence software company Mode Analytics, which was acquired by ThoughtSpot for $200 million. The startup is entering a ..."
-    publishedDateTime: 2023-08-31T21:17:00Z
-    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/08/31/startup-superframe-raises-5-million-to-simplify-salesforce-configurations-with-ai-chatbot/"
-    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/08/31/startup-superframe-raises-5-million-to-simplify-salesforce-configurations-with-ai-chatbot/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/08/31/startup-superframe-raises-5-million-to-simplify-salesforce-configurations-with-ai-chatbot/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 77
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64f1028a9ef9f51fa285cca1/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 698
-        isCached: true
-  - title: "Salesforce revs its VC engine in the AI race"
-    excerpt: "Salesforce's offer to lead Hugging Face's Series D round didn't come with the highest valuation, Axios has learned, but the software giant managed to edge out several high-profile investors to seal the deal."
-    publishedDateTime: 2023-09-02T14:00:00Z
-    webUrl: "https://www.axios.com/2023/09/02/salesforce-artificial-intelligence-vc"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 17
-
-secured: "6rjs+fcaGeHRmu4cVcYSR/+75n+g8alRvbOlM64abvshkKvTGwGhq1fK3UbpGc0gZVTcwZI+E6d8fkhbYsFs78Nh4qgQTelSmgKEqGaaZrTtmtuEkpl0gTFWgUewA9hBKrYoDAwDVx7V1JvnMxXCTgJV2+QHEAp821m2uECdmPXANRQ3l4s6oqhVq40NBSEsuge53jS/1EizH4ABUheB7sHYIRZ8zp3g/8FvL2hTZCkFv+pl3+e48pNSciZ5V1SxfsgpXIKrZlSidc9tOwhpzlnhczVBnLgBvrgiVViZqk1jd/RqIL+BV5Yl1153cA91VjSzNpBRf/PIW2D4lt80Y8u4TqO1e9/rdp6XXtkUGVI=;d0I03WQaeHUhj3Y8f1EEMA=="
+secured: "dd0accRzVWkIuTkb6BXtA5oH5PYzGKE2O5YX/5Kyuys/BIpGUGZPKkNbKRHJfS8ohbg3PmDYLRDWeQpSEcmLK7jnQoeuBUKObo2aNBO88UBnzYrtsCY5aV3i0hYLy4RPhThxnDzg4VyBCBEIwSqEZGGgawRtWqLKMSmXD++Q5F3XmFb7H2qq6IWZWIqn/pXfrgFDWow4G9OX4pNzUrnwr0r+MB+qfME1pp9IB1na8RXh+KnB9pQVQjTM30kL1bqfLxU/A+Aym1s3Dhj3vwbCnHxPGea6dD1Zuf5QI6o2fNAjY1r82iMlEidaWdGggXQPvITdDxwSe5jg+Vild5zO0FB9DWFUdPNMovH5RgQ+Odo=;ugAfKotPPEHdm4M82J9t6w=="
 ---
 

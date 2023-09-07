@@ -25,23 +25,39 @@ images:
     isCached: true
 
 related:
-  - title: "KSUM-incubated startup to export 150 robots to British IT company"
-    excerpt: "Sastra Robotics, a start-up incubating under Kerala Startup Mission (KSUM), will export 150 robots to the UK as part of an agreement with one of the top IT companies in that country. The robots, using Artificial Intelligence (AI),"
-    publishedDateTime: 2023-09-07T11:33:00Z
-    webUrl: "https://theprint.in/india/ksum-incubated-startup-to-export-150-robots-to-british-it-company/1750758/"
-    ampWebUrl: "https://theprint.in/india/ksum-incubated-startup-to-export-150-robots-to-british-it-company/1750758/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/india/ksum-incubated-startup-to-export-150-robots-to-british-it-company/1750758/?amp"
+  - title: "Kerala’s Sastra Robotics to export 150 robots to Britain"
+    excerpt: "Kochi: Sastra Robotics, a startup incubating under Kerala Startup Mission (KSUM), will export 150 robots to Britain following an agreement with one of the top IT companies in the United Kingdom (UK)."
+    publishedDateTime: 2023-09-07T15:23:00Z
+    webUrl: "https://www.indiablooms.com/finance-details/19074/kerala-s-sastra-robotics-to-export-150-robots-to-britain.html"
     type: article
     provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 59
+      name: India Blooms
+      domain: indiablooms.com
+    quality: 69
     images:
-      - url: "https://static.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.indiablooms.com/finance_pic/2023/bb0283f1eb0d7b4a044b3297683116e3.jpg"
+        width: 800
+        height: 450
         isCached: true
+  - title: "KSUM-incubated start-up to export 150 robots to Britain"
+    excerpt: "Kochi-based Sastra Robotics, incubated under KSUM, has signed a deal to export 150 AI-powered robots to the UK. These robots use advanced robotic arms to perform quality testing tasks, and are used to detect defects in areas such as mobile,"
+    publishedDateTime: 2023-09-07T12:48:00Z
+    webUrl: "https://www.thehindu.com/news/national/kerala/ksum-incubated-start-up-to-export-150-robots-to-britain/article67280856.ece"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 34
+  - title: "KSUM-incubated startup to export 150 robots to British IT company"
+    excerpt: "The customers of Sastra Robotics, which has won several awards at national and international level, include big names like German company Robert Bosch, HCL, Qualcomm, Tech Mahindra, and ABB."
+    publishedDateTime: 2023-09-07T13:28:00Z
+    webUrl: "https://www.financialexpress.com/business/sme-ksum-incubated-startup-to-export-150-robots-to-british-it-company-3236264/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 19
 
-secured: "zhuRinYxhngh0Ln7c9wmLGz7YrwQUlKywItyqvVj2+8JKV33KAxWsEi41OQo+HCOYjSNLtkeqJSzxCiJbY7Kh77HvVax8XWrZPd8Z4z9pXteoEogjsEeyvVGiAhxJBW7Iw3jiIbwbI6bc4MK+uVirttR29wsgU3udkJ7J9Pu30IhEdPCoqYcYuLqzc0DweHTE8L3I3s43XwpJYiRiItg9ifhBFuYc/gxXuuM13nYIxDVPU8oWfFnftYYhCHd7LN5uUe7cwbohjXrTodv4tC/zNiUTSPgpa1jyyvV150nCqltBz+PL7Q7pwmLrgtvwFNwSN7AzP7DZH46OC5MUCzcdNfx9dj3/GSl0VX0NphwDmc=;UvBVK1ipB8lbAk4hKK92yQ=="
+secured: "ilHNLat8udkRvv2hHwHZVe0BO9M1iDxGHwLgYcvT6FbbT0MgtHDEjpl66Rcdme9R+S1IfORp5Do3LNUAkUGAfI5FRD2HtqNKlPyvdlVG9+nVJw+nV6Ntta4Dxou33xhX1yDKHG87G0EMepAzfH9CPPEttSheg+57ow+ySE4GBXNUBycufiD1+U8qqcnMbzCmSRe8fx6hjjkn/6L9Om+AXwfoYjf55RR69aOG6qkFPerr1jbf9i+iXuHIRJs3SeCROFiqhPYMDB2JtF6kTzQmzIluFfbYdMP8AjiznSeOFeaAzOfaPCyeDGaXkKOpj6Ymbirt9bKlF+P7oWvAVz9WCfvqcPvI3uFBkCa4m5+ZucOApSIoFsFoNhpsnJqdU8nEhyaCWx0EhJnWNrFmNO+F+b2nEXgoiYGLLz3bmVzxL91WVl6EYmwREW7Q4P2OuR3R0OF5PRVh3KUpcWx9dBtbknzqWQRpL9zastyLDQPRHFFQgXezKqeTipj3i/XVgpACZh2ZltVlVNMl3eCs2eyfLw==;cNmt8PxriCNBjdQ66NmAng=="
 ---
 

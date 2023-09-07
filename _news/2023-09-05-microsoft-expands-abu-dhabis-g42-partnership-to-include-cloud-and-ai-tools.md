@@ -46,6 +46,15 @@ related:
       name: Arabian Business
       domain: arabianbusiness.com
     quality: 31
+  - title: "Paige Announces Collaboration with Microsoft to Build the World's Largest Image-Based AI Model to Fight Cancer"
+    excerpt: "Paige, a technology disruptor in healthcare, has joined forces with Microsoft in the fight against cancer, making headway in their collaboration to transform cancer diagnosis and patient care by building the world's largest image-based artificial intelligence (AI) models for digital pathology and oncology."
+    publishedDateTime: 2023-09-07T15:26:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-paige-announces-collaboration-with-microsoft-build-worlds-largest-/2023/09/07/9877029.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 14
 
 secured: "PXrwnTyXco1+MNyqruLp/33FB2utP62m9e7hU8Rf8dxOivtyk0bEtWRuvyzwQZ7gXM8+yTNxm9ql1a9nzaKP0CYWazKcENjYW5pAYWkdstfsgpvVprOsf2nCIYGsDTMwoGC+PmvgHaEi0+TlSiqAs/Tq5jndJw+6BWI+bnBb0wMmx1SPx3IcYC5BHs0gPm07VmkxFQNn4UjqnlEc9pgDzlMNTMCQokmLgv8N3ceWMprHnLEPNzGHalWt6huUQS7t7a6EgVokQvrefY+RX6lb0JztsaxAgHcHTQlouHDUNl51l1d6cFjTQNFEpT5kcCVKqjhutso0fyx1rhL9tVWyD5PcH1fTQ2hjey71PAK/n/gI9weVHEZmxAWj5sZshNoFGQc3uv2O9HF7LcJ0IyNBZfV12hJ+TqO3U7pAq5x2CmbL1AhIDge66c+93uJmsdrtG3A2rLJ3EpyLvY5lwcCD1Bpb6uNHSoVr1I5CTq/MV6i+wrdSezQ+UlCsWI1piKfF4AyfJvDdC55yR08opH8bBg==;fyYWUukPYGPcIYUKQaKNtQ=="
 ---

@@ -78,47 +78,6 @@ related:
         width: 1400
         height: 900
         isCached: true
-  - title: "Microsoft-Backed Startup D-Matrix To Compete With Nvidia In Bid For AI Dominance"
-    excerpt: "The chips are down in the artificial intelligence (AI) market, and Nvidia Corporation’s (NASDAQ: NVDA) stronghold appears unshakeable."
-    publishedDateTime: 2023-09-06T16:30:00Z
-    webUrl: "https://www.benzinga.com/news/large-cap/23/09/34282592/microsoft-backed-startup-d-matrix-to-compete-with-nvidia-in-bid-for-ai-dominance"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34282592"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34282592"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 71
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/09/06/d-matrix_logo.jpg?width=1200&height=800&fit=crop"
-        width: 941
-        height: 627
-        isCached: true
-  - title: "Microsoft expands UAE's G42 partnership to include cloud, AI tools"
-    excerpt: "\"With data privacy, security, and compliance as our core priorities, we have a unique opportunity to help organizations responsibly innovate,\" Microsoft Chief Commercial Officer Judson Althoff said"
-    publishedDateTime: 2023-09-05T14:10:00Z
-    webUrl: "https://www.business-standard.com/world-news/microsoft-expands-uae-s-g42-partnership-to-include-cloud-ai-tools-123090501146_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/world-news/microsoft-expands-uae-s-g42-partnership-to-include-cloud-ai-tools-123090501146_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/world-news/microsoft-expands-uae-s-g42-partnership-to-include-cloud-ai-tools-123090501146_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 54
-  - title: "Microsoft Partners With G42 To Strengthen Cloud, AI Services In UAE"
-    excerpt: "Microsoft aims to add more than $39 billion and about 100,000 jobs to the UAE economy over the next four years."
-    publishedDateTime: 2023-09-06T11:23:00Z
-    webUrl: "https://www.ibtimes.com/microsoft-partners-g42-strengthen-cloud-ai-services-uae-3710865"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 54
-    images:
-      - url: "https://d.ibtimes.com/en/full/4481366/tech-giant-microsoft-has-submitted-new-proposal-buy-activision-blizzard.jpg"
-        width: 768
-        height: 510
-        isCached: true
   - title: "Gen AI Chip Startup d-Matrix Announces $110M in Series B Funding"
     excerpt: "Gerative AI chip startup d-Matrix has closed $110 million in a Series-B funding round led by Singapore-based global investment firm Temasek. The goal of the fundraise is to enable d-Matrix to begin commercializing Corsair,"
     publishedDateTime: 2023-09-06T21:16:00Z
@@ -156,20 +115,6 @@ related:
         width: 1133
         height: 755
         isCached: true
-  - title: "G42, Microsoft alliance expands to include joint sovereign cloud and AI offering"
-    excerpt: "This announcement marks the first significant outcome since G42 and Microsoft announced their intention to partner earlier this year, in April"
-    publishedDateTime: 2023-09-06T04:55:00Z
-    webUrl: "https://gulfbusiness.com/g42-microsoft-joint-sovereign-cloud-ai-offering/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 49
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2023/09/Microsoft-and-G42-to-offer-joint-sovereign-cloud-and-AI-offerings-Image-Microsoft.jpg"
-        width: 930
-        height: 620
-        isCached: true
   - title: "Silicon Valley AI chip start-up d-Matrix raises $150m in Temasek-led funding round"
     excerpt: "SAN FRANCISCO - Silicon Valley-based artificial intelligence (AI) chip start-up d-Matrix has raised US$110 million (S$150 million) from investors that include Microsoft Corp at a time when many chip companies are struggling to raise cash."
     publishedDateTime: 2023-09-06T10:47:00Z
@@ -184,15 +129,6 @@ related:
         width: 860
         height: 573
         isCached: true
-  - title: "G42 and Microsoft unlock new opportunities for digital transformation with joint sovereign cloud and AI offering"
-    excerpt: "Microsoft's sovereign cloud offering public sector and regulated industries to use new platform capabilities for securing access to the latest cloud and AI features available on Azure public cloud and helping local privacy and regulatory requirements."
-    publishedDateTime: 2023-09-05T16:43:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/g42-and-microsoft-unlock-new-opportunities-for-digital-transformation-with-joint-sovereign-cloud-and-ai-offering-1032606400"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 43
   - title: "AI chip startup d-Matrix raises $110 million in funding from Temasek, Microsoft, others"
     excerpt: "D-Matrix: Nvidia's dominant position in the AI chip markdue to a powerful combination of hardware and software has scared off potential investors in some startups, according to sources Reuters interviewed."
     publishedDateTime: 2023-09-06T14:30:00Z
@@ -216,15 +152,6 @@ related:
         width: 900
         height: 506
         isCached: true
-  - title: "Microsoft-backed AI startup d-Matrix raises $110 million"
-    excerpt: "A chiplet is a smaller, modular block of semiconductors that contains a portion of the functionality of a larger chip Generative AI compute startup d-Matrix has successfully closed a $110 million Series-B funding round led by Singapore-based global ..."
-    publishedDateTime: 2023-09-06T13:11:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/1025652/microsoft-backed-ai-startup-d-matrix-raises-110-million-1025652.html"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 34
 
 secured: "xBUiXl9yjJSYjheuzs/AnDwLNDJV3thF84XqVN0BLn5ZAVSPUNTel5E1ihM6xUC8e/ab6vlVdM0QsMxnAsjnqoZ/XFIt0wdr7VW9K4+/fQQiNprd5n0JyDynIhx0QJ2dgPt+t+fRRfPr80hQnJJ918nC654GiIKS2ISyA2CYB/Vu1yzHvTzcaeHjgdWtQRg5pQqBdZnRn+TcsWvm42he/j+xiSjquCAJTfnsViq8HyvcjxQk6RfROSxyjtL0zlF31xAtPhZxTChFkfhhVy4rphOpIH+rtzPB9Edzh0OPAji59dD5Sfq9aCgK+8VOz/8Z2To3WLQYf7Wh6doyMvVDDVOHB2DtVWvfJhF/SgO9N5z9FOKH2ipqjImq0v0D4E0Z6BYKb+Z7LE0e1X++1Uqt03pDIaGJPnjvNITmwITjL0Q6axkFpAX/TFBOLou90txIwnOlto4fgf6BFWmOosFsJJpprwxEGh3RedSXNI7iHyJIiA4m1SFEw3+Gl2HuPc91quWYp9GGzVrdKYW/aYVS5A==;rRC85PJf9fGpoIZTSnISnQ=="
 ---

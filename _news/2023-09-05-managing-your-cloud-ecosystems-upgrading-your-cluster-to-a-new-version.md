@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/managing-your-cloud-ecosystems-upgrading-
 webUrl: "https://www.ibm.com/blog/managing-your-cloud-ecosystems-upgrading-your-cluster-to-a-new-version/"
 type: article
 quality: 82
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -20,6 +20,17 @@ provider:
 
 topics:
   - IBM AI
+
+related:
+  - title: "Managing your cloud ecosystems: Migrating to a new Ubuntu operating system version"
+    excerpt: "Keeping your worker node OS up to date is important for keeping your Kubernetes setup running smoothly.\nThe post Managing your cloud ecosystems: Migrating to a new Ubuntu operating system version appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-09-07T13:30:01Z
+    webUrl: "https://www.ibm.com/blog/managing-your-cloud-ecosystems-migrating-to-a-new-ubuntu-operating-system-version/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 76
 
 secured: "V1Af3OK+fmTV+2Hqt/H3e8ar+GtTtF5FCXdcQ5uXCqwamB1nBPavfdEhnEMlJ0vIyKt2mi+eDRdg/S9KOVNdVUwNg5Dl0+CfGNtxC4pqlsOuuIz3gA7PnEPlDmd4C4P/QPgl+O4inPxxuyURe1J0Wq1VxQOEvOXZS3Rds56ZIpSngI82RtM0fskw4WWNPi71r/4OjlqEWjkiVJTXELa/JbwU2gs+2Un8XdqpBVnvoz9cpf+u1zm+uU/g80i57InDfE3ctul/sOWHfHLdh0THNudw0oD3XGnKe0nXcy4XU/ScmqSbFCgKVj3+HhOcG1q90BycQ/cnIwjdiRFhYgCepyel1IEawyU5EAg39k3NSgc=;dBNH2Qz82WN1vbI3lDQGSg=="
 ---

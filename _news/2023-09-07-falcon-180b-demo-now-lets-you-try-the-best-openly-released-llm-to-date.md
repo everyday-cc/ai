@@ -6,8 +6,8 @@ publishedDateTime: 2023-09-07T09:23:00Z
 originalUrl: "https://www.geeky-gadgets.com/falcon-180b-llm-demo/"
 webUrl: "https://www.geeky-gadgets.com/falcon-180b-llm-demo/"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AWS AI
 
 images:
   - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/Falcon-180B-large-language-model-demo.jpg"
@@ -24,6 +25,6 @@ images:
     height: 531
     isCached: true
 
-secured: "HAGnYwGQHCEQTV71fkJPmQDW0+5qhp28azFTbc/jEVh/BW+tYzSxRJGUEh2KVPkdJU6T+t7DPw4PUOpTAVkf9QfGsZTtGFDO5k0SrQVRnC6YhTc6Qo4GQ5D0n82e4ybhWtPojbzKeo4lGD5L/t3uM9zMZNYsmIZVk19oCA+I4s+cT1uDYSiT+V+TXLdayk8mLCNbJ+qkTCSWCuPcGbtgisjO7ofg1JIXiTvp5DpKyGlsWX3Zc4b2ALrVihMPG3cZPp4pk/54rTorzV0qaD1wemVFgajk0fuyx4MJyBAfSAY6pm5wQMWZgh56vR/t3wASFd7T1d5YvzJ2uV309WzFyrn2fy+APdFjYkJM16Efhz8=;FYx9RfgyTvo1PuGep0gbnA=="
+secured: "XZ5N+og1QiEG6PB7nFlFssnRLPTiPPKDNjkysbIPxKzGSqDw4xk1aYNVwpEETD8eOfPB+l3T36f6M2HnuLzRdjYfe42jykBN1GABPa4grTQCIJLOJfUt8L3GUvM+1+h/WxGoKphYt0j5urF7sNNOUv5+XPd6tUCCMvnPvrYXs1+JCDMlII5mbkzxc7obNopifsd2ydsXwlPchcUJn0FhSC7irtUz7DKLlryPWpn//18GYXBiPr2uAzKJvUXtPnOE0QohjNkf7kKhcxNvg0Cnc4c5JtCHwpAS5ja+raKwvA9cK637MOjKUFt/zOxEGtrpjKwyaby3iysln+utsn5L6qr4LgdM+gfkfSMW/uTO7cPLOmO0YIZQjbf8SLPVMGThqXkB9QKvLSFstcFfoYt0Pyb6ft/ilcBwilNpJuGkYXHS6V9X67GIR5seIQH0oxYvjNZEfiWnaya+kKFRiWLJteKKOX6nbUe7k6QPlRRQZOPTMdpeh9mOZKn8n6yRiKbOyeyst0ZvkS/PLkhMcq6qLQ==;ud2wBGAMRO7gZ12BSocZtA=="
 ---
 

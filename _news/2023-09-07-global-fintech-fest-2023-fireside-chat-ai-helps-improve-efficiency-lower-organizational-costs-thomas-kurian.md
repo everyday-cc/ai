@@ -28,6 +28,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 66
+  - title: "New fintech targets AI product to scale sustainable finance in debt markets"
+    excerpt: "Company uses machine learning technology to render climate and sustainability credentials of bonds and issuers transparent and comparable, through a single access point"
+    publishedDateTime: 2023-09-07T14:34:00Z
+    webUrl: "https://www.ipe.com/news/new-fintech-targets-ai-product-to-scale-sustainable-finance-in-debt-markets/10068720.article"
+    type: article
+    provider:
+      name: IPE
+      domain: ipe.com
+    quality: 52
+    images:
+      - url: "https://d3ese01zxankcs.cloudfront.net/Pictures/1024x536/2/2/6/143226_aiapplicationsinfinancialservices_993008.jpg"
+        width: 533
+        height: 405
+        isCached: true
   - title: "3 Fintech Stocks the Big Money Is Buying Now"
     excerpt: "In the ever-evolving financial realm, fintech stocks with big money continue to grab investors’ attention. The fintech industry has undergone a radical shift, evolving into an epicenter of innovation,"
     publishedDateTime: 2023-09-03T12:59:00Z

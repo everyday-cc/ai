@@ -2,13 +2,11 @@
 category: news
 title: "Lost in AI translation: growing reliance on language apps jeopardizes some asylum applications"
 excerpt: "Translators say the US immigration system relies on AI-powered translations, without grasping the limits of the tools"
-publishedDateTime: 2023-09-07T10:01:00Z
-originalUrl: "https://www.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps?ref=upstract.com"
-webUrl: "https://www.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps?ref=upstract.com"
-ampWebUrl: "https://amp.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps"
+publishedDateTime: 2023-09-07T09:00:00Z
+originalUrl: "https://www.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps"
+webUrl: "https://www.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps"
 type: article
-quality: 47
+quality: 5
 heat: -1
 published: false
 
@@ -21,14 +19,7 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
   - AI
-
-images:
-  - url: "https://i.guim.co.uk/img/media/59ee6e688c280cd8673684e1f6265293e1acbe3f/0_0_1500_900/master/1500.jpg?width=620&quality=85&auto=format&fit=max&s=bb1ac6185c487d23e428a6ef7f8e1b02"
-    width: 620
-    height: 372
-    isCached: true
 
 related:
   - title: "EU gives more power to AI translation machines"
@@ -48,6 +39,6 @@ related:
         height: 630
         isCached: true
 
-secured: "fZU2TfQHwinVU95rKJaYfSUNOYGRpnYZFqXvbOA3YJdSFn4a9WaggqkOM+qG6aSBaX2sQre91z/X0Jyf0a2oGa9QIyNFynnS7NVI+2Es3FbvtlFCTTeWd+kb+b6L/k3lzCgbF/+c29NA//s/8fAU/od7ROVUVMTqSL7hYHVAz335fphTiIPvRHH8qcim2vEZWZsZwF765i4IuxtnoIQeZ6ncnBPaZ5/fnq3pLv0IYfAZIAhCxARetDvTKiAUDoSe+0k/8hZ8nMFSMHrfetWVaWqGoZMzQWxxM8C5ZGE/l7jTOvvbklhCXCdfhLvIrhsNb7VwP6mBVZ6p6wpJYPPddJe2urDnKdzbfsNHYcDsmDA=;IlPthLFiT9iFeEWOuFjxog=="
+secured: "K6otY2AErixdkqB4By517+dNkHyj06TKgZUL68BPNBlaLU/XcUGpzSEKzcxyXZ5Pfc/1hi1n2mexTwPHTmIBpO51JnRWRHgQh58JFHoGXqCi4ZWJBMWpCD3Jro0ruqwvvaseahbv+g3kDzBrMk2cu+fMdo5PWmwUCV0jFwpAsDxshXbqPyT95v2KRG3JNzzsMHSa6S5+A67n+ekSvVZ7fTVthvMnZ9Ar2vXgdh3r5kcrWTy1KqetCAUtgHrjxGJweGDDTd6VhnOeP7hSSC6vjgY14v7sbgyyshxzIuthxXhVitv93sHBVaaRMP4ibZgSLzkiBtTWs93WCgltwyIvVHM+x+oE5bg6TkP1GucPljB6KkzND24GPsI1c36uThHGQJQ3IBV7DE4hT14pxdpYu9pt+HTX90tp43W0QrO1JWPOPtgVS3wYmGD8eHF3NPO99ouObRSv37BK2CKgcPPlvOb9rwDT4uKpgXlDaF/60GJfnzDaozV+/eK/Wbk9ny/mo7bMUsU/Zg8DvEP8Gsn74A==;V27wjOvrsRRI37b7bRKL4A=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/34225651"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34225651"
 type: article
 quality: 73
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/27ea78f3fd31ab764b5ac8ec707175fc_L.jpg"
         width: 620
         height: 465
-        isCached: true
-  - title: "The chilling rise of AI scams"
-    excerpt: "Criminals are cloning voices and making calls to trick victims into sending them money. How can they be stopped?"
-    publishedDateTime: 2023-09-04T01:00:00Z
-    webUrl: "https://www.theguardian.com/news/audio/2023/sep/04/the-chilling-rise-of-ai-scams-podcast?ref=upstract.com"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 37
-    images:
-      - url: "https://i.guim.co.uk/img/media/fb0e197e035498657dc5efe2965f5e11dec0f640/0_128_5172_3105/master/5172.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c6d1bbe4de5d8ff97c5f41ca05280be5"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "y6Y7CK7ZnRk/oISr0itZ5Kd0eZrKeg0+LAPmChOf70jsfHqKneHH2ia51AveN7j7Uoq0aKx/uCWCbpaS5L68j0izoo7Aciun3ZEii2FRHQLCOsTeN8l283nnP2/zUtYdshJpaJFfTVb25my8qC4Y3+29KCbd/o3tmem/dzfqW4sqVI2MVXWFIj8I1r43vycMQktRwqOPsmkgNWxqlFUr3Uukrz4+VRf6ysmh4PXDUvJLFqdzpG8RFpPS57wEVoX/mmOxNL/mOSbGuO5dEv+kkOiiSey5yUtMloFMuMzNnSz0n5j4Q+UHuyAKkmPwpODA2iw33oV4F6rkWpf3DHUYt/Px4BVaGS4QjaeosBqSyKM=;cRkymOU+Dr1LQAuk5jupfQ=="

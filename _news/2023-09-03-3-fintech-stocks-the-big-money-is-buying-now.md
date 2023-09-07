@@ -28,6 +28,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 66
+  - title: "New fintech targets AI product to scale sustainable finance in debt markets"
+    excerpt: "Company uses machine learning technology to render climate and sustainability credentials of bonds and issuers transparent and comparable, through a single access point"
+    publishedDateTime: 2023-09-07T14:34:00Z
+    webUrl: "https://www.ipe.com/news/new-fintech-targets-ai-product-to-scale-sustainable-finance-in-debt-markets/10068720.article"
+    type: article
+    provider:
+      name: IPE
+      domain: ipe.com
+    quality: 52
+    images:
+      - url: "https://d3ese01zxankcs.cloudfront.net/Pictures/1024x536/2/2/6/143226_aiapplicationsinfinancialservices_993008.jpg"
+        width: 533
+        height: 405
+        isCached: true
   - title: "4 big FinTech funding rounds in MENA in August 2023"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-09-06T07:56:00Z

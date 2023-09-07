@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/09/06/intuit-assist-generative-ai-assist
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/06/intuit-assist-generative-ai-assistant/amp/"
 type: article
 quality: 77
-heat: 137
+heat: 117
 published: true
 
 provider:
@@ -43,31 +43,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/08/annevb_a_computer_with_green_plants_growing_out_of_it_or_aroun_34756494-fc43-4af9-aa33-3ded589fabc9.png?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Otter.ai launches generative AI tool to help sales teams close more deals"
-    excerpt: "OtterPilot for Sales can transcribe calls, provide insights, identify action items -- and automatically syncs with leading CRM and productivity tools."
-    publishedDateTime: 2023-09-06T13:00:00Z
-    webUrl: "https://www.zdnet.com/article/otter-ai-launchesotter-ai-launches-generative-ai-tool-to-help-sales-teams-close-more-deals-generative-ai-tool-to-help-sales-teams-close-more-deals/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 63
-  - title: "Dell Becomes One Of The Early Generative AI Winners"
-    excerpt: "Dell Technologies Inc (NYSE: DELL) had its best stock market day since its 2018 return to the public market after it reported its fiscal second quarter results."
-    publishedDateTime: 2023-09-05T13:59:00Z
-    webUrl: "https://www.benzinga.com/23/09/34237167/dell-becomes-one-of-the-early-generative-ai-winners"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34237167"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34237167"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://cdn.benzinga.com/files/close-up-entrepreneur-going-through-business-reports-taking-notes-office.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Bristol Myers Squibb Tech and Digital Chief Develops A Game Plan For Generative AI"
     excerpt: "Bristol Myers Squibb Chief Digital and Technology Officer Greg Meyers recognized the power generative AI early by immersing himself early and often in the tech."

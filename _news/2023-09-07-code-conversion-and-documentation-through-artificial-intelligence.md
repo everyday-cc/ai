@@ -32,15 +32,6 @@ related:
         width: 1400
         height: 900
         isCached: true
-  - title: "New Slack AI to Help Summarize Your Work Conversations and More"
-    excerpt: "With Slack AI, in-app capabilities will include channel recaps that provide key highlights and one-click thread summaries that give you the gist of a thread. Another feature will be search answers, a question-answer feature that returns related messages, files, channels and an AI-generated summary."
-    publishedDateTime: 2023-09-06T19:31:00Z
-    webUrl: "https://www.cnet.com/tech/services-and-software/new-slack-ai-to-help-summarize-your-work-conversations-and-more/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 47
   - title: "Apple Spending Millions of Dollars a Day on Conversational AI"
     excerpt: "according to a new report from The Information that highlights Apple's AI and machine learning research. Though Apple's AI chief John Giannandrea is said to be skeptical of AI chatbots, he established a team that is working on conversational AI four years ago."
     publishedDateTime: 2023-09-06T18:30:00Z

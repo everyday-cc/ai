@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3705493/how-to-get-a-handle-on-sha
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705493/how-to-get-a-handle-on-shadow-ai.amp.html"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Governments Urged To Get A Grip On AI In Schools"
+    excerpt: "Regulation is needed to protect students and teachers, according to new guidance on the use of Artificial Intelligence in schools."
+    publishedDateTime: 2023-09-07T14:14:00Z
+    webUrl: "https://www.forbes.com/sites/nickmorrison/2023/09/07/governments-urged-to-get-a-grip-on-ai-in-schools/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64f9d707743b486272f9e2c7/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How The Gene of AI Dives into Human Problems"
     excerpt: "True hard sci-fi examines human problems through the lens of new tech. This is The Gene of AI to a tee - here's why."
     publishedDateTime: 2023-09-04T11:00:00Z

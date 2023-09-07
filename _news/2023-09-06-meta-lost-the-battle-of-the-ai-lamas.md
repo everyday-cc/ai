@@ -41,20 +41,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "The chilling rise of AI scams"
-    excerpt: "Criminals are cloning voices and making calls to trick victims into sending them money. How can they be stopped?"
-    publishedDateTime: 2023-09-04T01:00:00Z
-    webUrl: "https://www.theguardian.com/news/audio/2023/sep/04/the-chilling-rise-of-ai-scams-podcast?ref=upstract.com"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 37
-    images:
-      - url: "https://i.guim.co.uk/img/media/fb0e197e035498657dc5efe2965f5e11dec0f640/0_128_5172_3105/master/5172.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c6d1bbe4de5d8ff97c5f41ca05280be5"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "AYoPCJzobT9C+KsXr3n633UPV25iSQSOsMa+Wf6NwlI54Xu9C7CUMXnPOnJGbNismNouIRa3UiVjIvtkxe7BCQdxkKMhxahFjPFL99gVHd/bZTF+B/fobpU9z6YCNLLZpJLrJzfPooEnjHURbwy27mxkG1FSGY15auKuQWjim7wP0Uko1TgwIjMHM/vOYPDl9/bx5RvANUX/cczmbiDe04q8eVeni8Fc9m+mATmMj6uMwjwMVJTuj+ZzR5844zdZ7da3GmVnQAjsjxorVdSySR9zF57d4vzzYQ8yjTSrkEgIiIHgCufWV+lOU9+MmUE7sgb/00qYUMRJHBRLpccmABkVXKQGQQlLptqKhpRObwI=;qqDMnU/2fuTOZ/TFWTeGYQ=="
 ---
