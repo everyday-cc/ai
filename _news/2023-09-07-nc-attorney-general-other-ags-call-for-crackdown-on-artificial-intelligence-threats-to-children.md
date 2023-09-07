@@ -62,6 +62,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Search engines required to stamp out AI-generated images of child abuse under Australia’s new code"
+    excerpt: "Exclusive: eSafety Commissioner says companies must work on building tools to promote greater online safety, including detecting deep fake images"
+    publishedDateTime: 2023-09-07T19:00:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/sep/08/search-engines-required-to-stamp-out-ai-generated-images-of-child-abuse-under-australias-new-code"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/sep/08/search-engines-required-to-stamp-out-ai-generated-images-of-child-abuse-under-australias-new-code"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/sep/08/search-engines-required-to-stamp-out-ai-generated-images-of-child-abuse-under-australias-new-code"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 43
+    images:
+      - url: "https://i.guim.co.uk/img/media/29c483ff236461b51ae1d495b265d380467d1dae/0_0_5827_3877/master/5827.jpg?width=620&quality=85&auto=format&fit=max&s=8e101a37894f6ed4697f59004b645097"
+        width: 620
+        height: 413
+        isCached: true
   - title: "Attorneys General from all 50 states urge Congress to help fight AI-generated CSAM"
     excerpt: "The attorneys general from all 50 states have banned together and sent an open letter to Congress, asking for increased protective measures against AI-enhanced child sexual abuse images."
     publishedDateTime: 2023-09-05T18:54:00Z
@@ -71,6 +87,15 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 41
+  - title: "Crafting persuasion: mastering compelling arguments in the age of AI and the video generation"
+    excerpt: "Stratton Horres and Karen L. Bashor of Wilson Elser provide tips on combining AI and video evidence with the human connection in trial presentations, and opening and closing arguments."
+    publishedDateTime: 2023-09-07T17:29:00Z
+    webUrl: "https://www.reuters.com/legal/legalindustry/crafting-persuasion-mastering-compelling-arguments-age-ai-video-generation-2023-09-07/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 36
 
 secured: "XOurJGXty0wc72J34gFAyF5LltqnKikmIuGw3jXPKguW7OVR/yPcuiS5rsSoOo0NygAQ5lc3BGB/SZPmUF2cb29252MqA+1PQKC/Vh2u2jT+uWsK2qm8yZ4gB6ouQco8E+JLrJecV6Q9Z8DnuflqbPXIHXKWHI3S0TCXTVDzeVA5YL0RaghSU2wafSp7cpKxMNZ97IHGO9H4xANBC/i603wNcCI8FncOcTDRejZv0NG0RCuQd7QJktR4DaZZN700ZHLRBVgfHtACy9Lr7pvI1atUKgFA77nqmcaXNOgIGNLUx3eJ3kVvbSpXyZm6GN5AHmwILVHji1YuH7BZ4ynNRGI9PQ0Dv7ca+pDxB/MfTz70/65T9PinTz+4497gswZ4wH2TDwfWZ4ctac209pIZqmo+OleiunS5J/Fq8DC3Cr9kB+yrAhxDDWErZQW8vtHWP0fjaZe8X9wMCFF6FS/wG90VjQymuZxtYdVjcf76AMUMb2SdmV3u13ndFCrQD7KbKWEktK60EqHeUQ3Wo+lj8Q==;MismZPVKGSdr+GqHZkU5iA=="
 ---

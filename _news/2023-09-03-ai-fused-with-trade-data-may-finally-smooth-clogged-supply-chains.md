@@ -35,20 +35,6 @@ related:
         width: 470
         height: 246
         isCached: true
-  - title: "AI Fused With Trade Data May Finally Smooth Clunky Supply Chains"
-    excerpt: "The dawn of artificial intelligence tools like ChatGPT may revolutionize the way both the public and private sector use data to ferret out risks and opportunities in the $32 trillion global trading system."
-    publishedDateTime: 2023-09-03T04:00:00Z
-    webUrl: "https://www.swissinfo.ch/eng/bloomberg/ai-fused-with-trade-data-may-finally-smooth-clunky-supply-chains/48782088"
-    type: article
-    provider:
-      name: Swissinfo
-      domain: swissinfo.ch
-    quality: 39
-    images:
-      - url: "https://www.swissinfo.ch/resource/image/45945846/landscape_ratio16x9/1920/1080/caa0764b3418d762daa605efa298d327/00A4B15C884C1E8D3D2F927F0EACC09B/fallback-1200x630-swi.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "AI fused with trade data may finally smooth clunky supply chains"
     excerpt: "Some three years after a series of trade disruptions, language-learning models and generative AI have come forward at a time when governments and companies are looking for such tools to manage the supply lines."
     publishedDateTime: 2023-09-04T07:07:00Z

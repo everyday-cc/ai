@@ -2,6 +2,187 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-07-marc-andreessen-pushes-back-on-fears-that-ai-will-kill-us-all-thats-not-how-it-works.md",
+      "title": "Marc Andreessen pushes back on fears that AI will kill us all: 'That's not how it works'",
+      "excerpt": "The billionaire investor doesn't even think AI will replace jobs, he said in a new podcast episode.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/marc-andreessen-ai-will-not-kill-us-all-2023-9",
+      "originalUrl": "https://www.businessinsider.com/marc-andreessen-ai-will-not-kill-us-all-2023-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64f8e80d8a7840001961adc1?width=1200&format=jpeg",
+          "width": 1002,
+          "height": 501,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/marc-andreessen-ai-will-not-kill-us-all-2023-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/marc-andreessen-ai-will-not-kill-us-all-2023-9?amp",
+      "publishedDateTime": "2023-09-07T02:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-07-grene-robotics-unveils-indias-first-ai-driven-advanced-autonomous-anti-drone-system.md",
+      "title": "Grene Robotics Unveils India's First AI-Driven Advanced Autonomous Anti-Drone System",
+      "excerpt": "Grene Robotics Unveils India's First AI-Driven Advanced Autonomous Anti-Drone System - Grene Robotics, a Hyderabad-based robotics company, has introduced an advanced autonomous anti-drone",
+      "sourceUrl": null,
+      "webUrl": "https://www.siliconindia.com/news/startups/grene-robotics-unveils-indias-first-aidriven-advanced-autonomous-antidrone-system-nid-225217-cid-19.html",
+      "originalUrl": "https://www.siliconindia.com/news/startups/grene-robotics-unveils-indias-first-aidriven-advanced-autonomous-antidrone-system-nid-225217-cid-19.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.siliconindia.com/news/newsimages/09ure641.jpg",
+          "width": 570,
+          "height": 367,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-07T01:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconIndia",
+        "domain": "siliconindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-07-aiml-will-deliver-value-across-insurance-value-chain-debasish-panda.md",
+      "title": "AI/ML Will Deliver Value Across Insurance Value Chain: Debasish Panda",
+      "excerpt": "According to IRDAI chairperson Debasish Panda, AI and ML within the insurtech sector will be harnessed throughout the insurance value chain.",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/buzz/ai-ml-deliver-value-insurance-value-chain-debasish-panda/",
+      "originalUrl": "https://inc42.com/buzz/ai-ml-deliver-value-insurance-value-chain-debasish-panda/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.inc42.com/wp-content/uploads/2023/09/Insurance-IRDAI-features-1024x768.png",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/buzz/ai-ml-deliver-value-insurance-value-chain-debasish-panda/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/ai-ml-deliver-value-insurance-value-chain-debasish-panda/amp/",
+      "publishedDateTime": "2023-09-06T21:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-09-07-boxfish-research-renames-to-boxfish-robotics.md",
+      "title": "Boxfish Research Renames To Boxfish Robotics",
+      "excerpt": "ARV-i, is powered by advanced Artificial Intelligence and sensor integration, facilitates automated and remote operations, while ensuring efficient and precise data collection. \"As Boxfish Robotics, we are delighted to announce the renaming, symbolising a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scoop.co.nz/stories/BU2309/S00100/boxfish-research-renames-to-boxfish-robotics.htm",
+      "originalUrl": "https://www.scoop.co.nz/stories/BU2309/S00100/boxfish-research-renames-to-boxfish-robotics.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/466351406090186752/Zym_9Hv3_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.scoop.co.nz/stories/BU2309/S00100/boxfish-research-renames-to-boxfish-robotics.htm",
+      "cdnAmpWebUrl": "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2309/S00100/boxfish-research-renames-to-boxfish-robotics.htm",
+      "publishedDateTime": "2023-09-06T18:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Scoop",
+        "domain": "scoop.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-07-hubspot-announces-a-range-of-new-ai-sales-and-marketing-tools-geared-toward-smbs.md",
       "title": "HubSpot announces a range of new AI sales and marketing tools geared toward SMBs",
       "excerpt": "HubSpot AI is a new suite of new AI features available to users of HubSpot's social publishing and marketing tools.",
@@ -166,7 +347,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/09/ai-generated-child-sex-imagery-has-every-us-attorney-general-calling-for-action/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -857,51 +1038,6 @@
       ]
     },
     {
-      "path": "_news/2023-09-06-meet-the-ai-fintech-saas-and-security-industry-chairs-at-tc-disrupt-2023.md",
-      "title": "Meet the AI, fintech, SaaS and security industry chairs at TC Disrupt 2023",
-      "excerpt": "This dynamic conversation promises to empower tech enthusiasts and entrepreneurs with real-world strategies to implement AI effectively in their projects. Fintech Industry Chair: Nik Milanović Nik Milanović, general partner at the Fintech Fund ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/09/06/meet-the-ai-fintech-saas-and-security-industry-chairs-at-tc-disrupt-2023/",
-      "originalUrl": "https://techcrunch.com/2023/09/06/meet-the-ai-fintech-saas-and-security-industry-chairs-at-tc-disrupt-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-06T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Security",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2023-09-06-ai-implementation-moving-from-buzz-to-tangible-business-solutions.md",
       "title": "AI Implementation: Moving From Buzz To Tangible Business Solutions",
       "excerpt": "As a result, today's leaders need to inform themselves about the various technologies within the field of artificial intelligence, including natural language processing and machine learning. Moreover, they have to become knowledgeable in a balanced way ...",
@@ -1096,153 +1232,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-how-ai-and-machine-learning-are-actively-contributing-to-workplace-security.md",
-      "title": "How AI and machine learning are actively contributing to workplace security",
-      "excerpt": "These are just a few examples of how AI and Machine Learning are actively contributing to workplace security. By automating and enhancing traditional security measures, these technologies are helping to create safer and more secure work environments. In the next section, we'll delve into a specific case study: employee badging systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.jpost.com/special-content/how-ai-and-machine-learning-are-actively-contributing-to-workplace-security-756007",
-      "originalUrl": "https://www.jpost.com/special-content/how-ai-and-machine-learning-are-actively-contributing-to-workplace-security-756007",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/549546",
-          "width": 690,
-          "height": 407,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-06T03:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jerusalem Post Blogs",
-        "domain": "jpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-baidu-stock-looks-attractive-despite-recent-rally.md",
-      "title": "Baidu Stock Looks Attractive Despite Recent Rally",
-      "excerpt": "Chinese search engine behemoth Baidu’s stock (NASDAQ: BIDU) has fared better than its peers, rising by about 23% year-to-date, performing slightly better than the",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2023/09/06/baidu-stock-looks-attractive-despite-recent-rally/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2023/09/06/baidu-stock-looks-attractive-despite-recent-rally/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64f803f7a4caebd82772ce0c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 736,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2023/09/06/baidu-stock-looks-attractive-despite-recent-rally/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/09/06/baidu-stock-looks-attractive-despite-recent-rally/amp/",
-      "publishedDateTime": "2023-09-06T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-pentagon-plans-vast-ai-fleet-to-counter-china-wsj.md",
-      "title": "Pentagon plans vast AI fleet to counter China - WSJ",
-      "excerpt": "The Pentagon is considering the development of a vast network of Artificial Intelligence-powered technology, drones and autonomous systems within the next two years to counter threats from China, the Wall Street Journal reported on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/world/us/pentagon-plans-vast-ai-fleet-counter-china-wsj-2023-09-06/",
-      "originalUrl": "https://www.reuters.com/world/us/pentagon-plans-vast-ai-fleet-counter-china-wsj-2023-09-06/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/aP4_6MyqLRQ3qSc6A2TkBihUPD4=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OT7ZI6KWLRPBHP5FRFGM2PDCZA.jpg",
-          "width": 800,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-06T02:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

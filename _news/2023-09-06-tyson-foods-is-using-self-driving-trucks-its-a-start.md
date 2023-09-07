@@ -19,36 +19,63 @@ topics:
   - AI
 
 related:
-  - title: "What it's like to ride in a self-driving taxi"
-    excerpt: "Christine Crosby, a mom of two, said she is a fan of self-driving taxis, having been a rider in Waymo's pilot program in San Francisco. She said she tried out the service on her own first, without her kids, ages 6 and 1, but now brings her with them."
-    publishedDateTime: 2023-09-05T19:40:00Z
-    webUrl: "https://abcnews.go.com/GMA/Living/ride-driving-taxi/story?id=102927242"
-    ampWebUrl: "https://abcnews.go.com/amp/GMA/Living/ride-driving-taxi/story?id=102927242"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/GMA/Living/ride-driving-taxi/story?id=102927242"
+  - title: "Self-driving car revolution is coming, but slowly"
+    excerpt: "In Munich, where this week's IAA motor show is taking place, an interactive street survey elicits an overwhelming \"yes\" when asking passers-by if they would take a self-driving taxi from the station to the Oktoberfest beer festival."
+    publishedDateTime: 2023-09-07T08:01:00Z
+    webUrl: "https://techxplore.com/news/2023-09-self-driving-car-revolution-slowly.html"
+    ampWebUrl: "https://techxplore.com/news/2023-09-self-driving-car-revolution-slowly.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-self-driving-car-revolution-slowly.amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: techxplore
+      domain: techxplore.com
     quality: 44
     images:
-      - url: "https://s.abcnews.com/images/GMA/self-driving-taxi-4-abc-gmh-230905_1693924999498_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/so-far-full-self-drivi.jpg"
+        width: 1280
+        height: 800
         isCached: true
-  - title: "More self-driving cars are coming to Austin"
-    excerpt: "The mayors of Austin and Tuscaloosa made a barbecue bet on this weekend's big game between Texas and Alabama. Mayor Kirk Watson will put up Central Texas BBQ from Micklethwait Craft Meat. Tuscaloosa Mayor Walt Maddox will wager a spread from Dreamland BBQ."
-    publishedDateTime: 2023-09-07T14:34:00Z
-    webUrl: "https://www.kxan.com/video/more-self-driving-cars-are-coming-to-austin/8966813/"
+  - title: "Self-driving delivery trucks could be sharing the roads with drivers very soon"
+    excerpt: "The day is coming when that 18-wheeler rolling down the highway won’t have a driver behind the wheel, it’ll be running autonomously and that frightens some."
+    publishedDateTime: 2023-09-05T16:24:00Z
+    webUrl: "https://www.cbs17.com/news/investigators/self-driving-delivery-trucks-could-be-sharing-the-roads-with-drivers-very-soon/"
+    ampWebUrl: "https://www.cbs17.com/news/investigators/self-driving-delivery-trucks-could-be-sharing-the-roads-with-drivers-very-soon/amp/"
+    cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/investigators/self-driving-delivery-trucks-could-be-sharing-the-roads-with-drivers-very-soon/amp/"
     type: article
     provider:
-      name: KXAN
-      domain: kxan.com
-    quality: 24
+      name: cbs17.com
+      domain: cbs17.com
+    quality: 40
     images:
-      - url: "https://www.kxan.com/wp-content/themes/nexstar/client/src/images/footer/nexstar-logo-white-nmg.png"
-        width: 396
-        height: 202
+      - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2023/09/thumbnail_web-6.jpg?w=1280"
+        width: 681
+        height: 397
         isCached: true
+  - title: "Why experts feel self-driving car revolution still a decade away despite enthusiasm"
+    excerpt: "In Munich, where this week's IAA motor show is taking place, an interactive street survey elicits an overwhelming \"yes\" when asking passers-by if they would take a self-driving taxi from the station to the Oktoberfest beer festival. A modified self-driving ..."
+    publishedDateTime: 2023-09-07T04:25:00Z
+    webUrl: "https://www.hindustantimes.com/car-bike/why-experts-feel-self-driving-car-revolution-still-a-decade-away-despite-enthusiasm-101694058998684.html"
+    ampWebUrl: "https://www.hindustantimes.com/car-bike/why-experts-feel-self-driving-car-revolution-still-a-decade-away-despite-enthusiasm-101694058998684-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/car-bike/why-experts-feel-self-driving-car-revolution-still-a-decade-away-despite-enthusiasm-101694058998684-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 38
+    images:
+      - url: "https://www.hindustantimes.com/ht-img/img/2023/09/07/1600x900/GERMANY-AUTOMOBILE-SHOW-IAA-29_1694060041436_1694060073296.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Self-Driving Cars Might Finally Be For Real This Time"
+    excerpt: "A decade ago, there was a lot of hype about self driving cars. In fact, there was more interest in self-driving cars than there was in electric vehicles, in terms of the future of the auto industry. But progress in developing these robotic cars has turned ..."
+    publishedDateTime: 2023-09-06T21:16:00Z
+    webUrl: "https://www.bloomberg.com/news/audio/2023-09-06/self-driving-cars-might-finally-be-for-real-this-time-podcast"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 34
 
 secured: "MFHpnOvemxjRxh7Mk3+5GPHGByzurTji8w6EXei9uAQtcS638UjrbiAHtgjVbBS6lL5cmvTptwFNPmEAd0pHRVYzk+aT8AvMCn9TZo7ILQ1Fu+Qv3fSB39EdOLLJTX7nLuK57KPudElyq9ZE/CERd3pyJ+6CthTbG9Dx4z44GJM39EFcqKyeh5tQM7zgRxkxsdxB5trC3yOdesYoo2yZ7RWFZ9YhBG8IVFewjyqg7ruA7jhFopcf5XIO6GF2blpp5M6rX4CIztFRQUDSSSQjBv5uaxqejiNAi1Fa3/W1cNSEMSoy0hJewSBQ9hYBXSjUs7GeWUjIS1CuOCcHjTOpIdGtROV3/e3rnmckbdBSMByZPmYANLsfchKvvf3BWENIA576THmsetIr3ZVSnsciSBWjGSXYa1AK3gAv1kGnsZxcoIFvj2EvdEYzxzh+rJWcwaUzZVeiIiX3RwvouUNEuRkLh3coLcAuMK0cwXNILyj55bH1htPXXmK93nes/lwUEaSlNm6dxzFk8Cml7GDuig==;hqyOi7yDdbhdtLeMX/MIqA=="
 ---

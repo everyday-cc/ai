@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "What to do if you're in a crash with a self-driving car: VERIFY"
+    excerpt: "A self-driving taxi company called Cruise was testing out its fleet of vehicles here in the Queen City. But what happens if you get in an accident in their car?"
+    publishedDateTime: 2023-09-04T12:42:00Z
+    webUrl: "https://www.wfmynews2.com/article/news/verify/cruise-taxi-driverless-charlotte-nc-tech-company/275-9de00d9c-c105-40bb-94b3-227cc0fdef11"
+    ampWebUrl: "https://www.wfmynews2.com/amp/article/news/verify/cruise-taxi-driverless-charlotte-nc-tech-company/275-9de00d9c-c105-40bb-94b3-227cc0fdef11"
+    cdnAmpWebUrl: "https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/news/verify/cruise-taxi-driverless-charlotte-nc-tech-company/275-9de00d9c-c105-40bb-94b3-227cc0fdef11"
+    type: article
+    provider:
+      name: WFMY News2
+      domain: wfmynews2.com
+    quality: 44
+    images:
+      - url: "https://media.wfmynews2.com/assets/WCNC/images/a7f9ed20-5735-443f-aee0-fd42c74969b5/a7f9ed20-5735-443f-aee0-fd42c74969b5_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "What it's like to ride in a self-driving taxi"
     excerpt: "Christine Crosby, a mom of two, said she is a fan of self-driving taxis, having been a rider in Waymo's pilot program in San Francisco. She said she tried out the service on her own first, without her kids, ages 6 and 1, but now brings her with them."
     publishedDateTime: 2023-09-05T19:40:00Z
@@ -41,16 +57,7 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Tyson Foods Is Using Self-Driving Trucks. It’s a Start."
-    excerpt: "Food giant Tyson is deploying autonomous-trucking technology from start-up Gatik in a pilot test of cost and productivity."
-    publishedDateTime: 2023-09-06T13:26:00Z
-    webUrl: "https://www.barrons.com/articles/tyson-foods-chicken-self-driving-trucks-c1c7545e"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 4
 
-secured: "yINtjKfWJN6fdhNWSwkNjbps41tt11Snz/+2XsTahJeUnAw1nCMmEIcL7xhc4KDVedb96iwXWs0Swyju1EaU5FONJSZskOepuM02MrqnlwtwPEJ+2/mUTUQNBqYYNUWGi1dkTmp2QzeQELovJWYgSt2SsK7fgnC+rsKLHgmkRSbaeFCZAL79plBb/fYqIT9rbJXTfveynPdlKQQDaGiWxzqFzz4B90n4ihFZnbkdjHEKfne/VpvhMeh+WPSPmZjpog+81OQb0iqdorjmsghgrnv4G5tI8TnRi26E9rSXwn/iP/WNDZOJp4UVtVE3ssT+dhpIc+AT4/U9hJZL6qOkiKRWbiIAYesW95BX3CpWy6I=;R0k0HkRwr0BcuYtyKxmjbA=="
+secured: "f2XWSXQV44VGp1wgEzjr3lJ9sHaPi+JoKB5kscl6dDwhoCRZcLBbqfUOYF8vreGOXVk1BaGPIyQgfH88Zwr7sxFhWmuTLSgZPNPDPXcZu8GSf8IKvrQ/WI+WMWva4e2kt3zeUS1u7ytGT31y+tFzVGNw4vVCFuXB0lj8QIcKXoQohSSa+0mbOhejyI7mFbNCUHuujt5DpIaPrQubgOqCa+LrHYyEkSmdwO8Ft/snMs6NnNBlkOzGB8BVh8vHnLhFfRU+lSHt6NCVht7GsQVdgUwQSFFTM/rxfGF4NBYOOE6ljUg2RTDHtcFSQSdXkFDIxjeCVD+WpEEtKT7XtRyrvZFFnmRCmvdgJiK9HY+tlYcObMs+y/l+U50+fmMKP5202gL30qjrzOLQ2OlnjeUy3klBnLO/NkbZr3Xh/bJPyEh6wVH4Q3Osh9Misd4xt6/3yZsA5Qi7Yq7svaWYnMykWlb5p7BGqJMwyDhpigkEuJc5Hz+Egue5WTQs6FIJ2RoIoz+C7TeHSZU09zCs1Cp6UQ==;iN43D+yazIqOPdOtc9HGRw=="
 ---
 

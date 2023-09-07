@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wfmynews2.com/amp/article/news/verify/cruise-taxi-driver
 cdnAmpWebUrl: "https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/news/verify/cruise-taxi-driverless-charlotte-nc-tech-company/275-9de00d9c-c105-40bb-94b3-227cc0fdef11"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,21 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Company refutes claim that self-driving cars blocked California ambulance, led to victim’s death"
-    excerpt: "Authorities say the self-driving cars blocked an ambulance from getting to the hospital, a claim the car company is now refuting."
-    publishedDateTime: 2023-09-05T14:18:00Z
-    webUrl: "https://www.ksn.com/news/national-world/company-refutes-claim-that-self-driving-cars-blocked-california-ambulance-led-to-victims-death/"
-    ampWebUrl: "https://www.ksn.com/news/national-world/company-refutes-claim-that-self-driving-cars-blocked-california-ambulance-led-to-victims-death/amp/"
-    cdnAmpWebUrl: "https://www-ksn-com.cdn.ampproject.org/c/s/www.ksn.com/news/national-world/company-refutes-claim-that-self-driving-cars-blocked-california-ambulance-led-to-victims-death/amp/"
+  - title: "What it's like to ride in a self-driving taxi"
+    excerpt: "Christine Crosby, a mom of two, said she is a fan of self-driving taxis, having been a rider in Waymo's pilot program in San Francisco. She said she tried out the service on her own first, without her kids, ages 6 and 1, but now brings her with them."
+    publishedDateTime: 2023-09-05T19:40:00Z
+    webUrl: "https://abcnews.go.com/GMA/Living/ride-driving-taxi/story?id=102927242"
+    ampWebUrl: "https://abcnews.go.com/amp/GMA/Living/ride-driving-taxi/story?id=102927242"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/GMA/Living/ride-driving-taxi/story?id=102927242"
     type: article
     provider:
-      name: ksn.com
-      domain: ksn.com
-    quality: 46
+      name: ABC
+      domain: abcnews.go.com
+    quality: 44
     images:
-      - url: "https://www.ksn.com/wp-content/uploads/sites/13/2023/09/gettyimages-1529168853-594x594-1.jpg?w=1280"
-        width: 594
-        height: 371
+      - url: "https://s.abcnews.com/images/GMA/self-driving-taxi-4-abc-gmh-230905_1693924999498_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "More self-driving cars are coming to Austin"
+    excerpt: "The mayors of Austin and Tuscaloosa made a barbecue bet on this weekend's big game between Texas and Alabama. Mayor Kirk Watson will put up Central Texas BBQ from Micklethwait Craft Meat. Tuscaloosa Mayor Walt Maddox will wager a spread from Dreamland BBQ."
+    publishedDateTime: 2023-09-07T14:34:00Z
+    webUrl: "https://www.kxan.com/video/more-self-driving-cars-are-coming-to-austin/8966813/"
+    type: article
+    provider:
+      name: KXAN
+      domain: kxan.com
+    quality: 24
+    images:
+      - url: "https://www.kxan.com/wp-content/themes/nexstar/client/src/images/footer/nexstar-logo-white-nmg.png"
+        width: 396
+        height: 202
         isCached: true
 
 secured: "xAnaK8iXl6neCb6h+lMUHOfdSGBI4eKlOBII97tI2g2X8xzyDg2NyNt4Ld74xJW1WwXozXDRpteSugbifFzFJWaQ7eKbd3rlQMG0WN5KNT3gIBYyiIXY7U3iy4qM/6kYtcnTjrOPHGNk3qtFEw9z2S1TDHVuLM/N/i/E7tmIWm5tvg+rgpnsoFxbfXl6OpFsodKSuD0SoYGe58fXVLIV9hOL/Qk8O2tgK0jqsgLaZQ472cj/iUgNfasqlN/ChkUM36nBQMG9EWyVxzo/eTJvEIVUCv/JQkB86sPmeDOAFJwA8u3xskHQbsQZzh4Lfcnq08IYMWcQwYiF0YQZ2NyEZ2XG+pwep+cMdSg03JLlWvg=;TIY2scvwBSJ6lih1gP1PEw=="

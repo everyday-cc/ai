@@ -41,6 +41,15 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 8
+  - title: "Boston quantum computing startup Zapata looks to go public"
+    excerpt: "Zapata Computing will merge with Michael Andretti’s special purpose acquisition company and become publicly traded."
+    publishedDateTime: 2023-09-07T19:46:00Z
+    webUrl: "https://www.bostonglobe.com/2023/09/07/business/boston-quantum-computing-startup-zapata-looks-go-public/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 2
 
 secured: "PmC8mOp0KAigSSIJDKRo62sJHKPnRTUglZSoUGu8jsEXdmqbiih+D+r2+1PPqkaz5q5vtx9EDMc88r5hGf7FPJBXCD7yUnmzoWYBg0KZ6kn5MAQofFwW4yJL2hQFvUEChmCMbhef5QoJH8gUq9yJrlY8J0jMdgtuz80gs+Q+VWHEYFBjTx7NbGKoP3/ia3utB9Kix9Q5+JOzAZ2qxBnDImDjfmN0k/Z6UStnaNToQmvGLgeuwaSnzP6MnIIeOO2xgwCJaVGhE04CPgjDXlX1BYGYode9KfNlxvqLryOVFzN0bk7eMZu27AjldmUZFW4UlUbB3F32sm+8bbjOTofSX3UjWoQ0DQqvk50NA5iIQIc=;fpGzY2TRUE/JvjMq0n7m3A=="
 ---

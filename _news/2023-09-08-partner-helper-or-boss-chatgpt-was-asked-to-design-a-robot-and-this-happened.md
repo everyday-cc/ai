@@ -159,6 +159,20 @@ related:
         width: 700
         height: 466
         isCached: true
+  - title: "Forget ChatGPT—Law Firms Are Launching Their Own Gen AI Chatbots"
+    excerpt: "Tracking Key Shifts in the Legal Ecosystem Each week, the Law.com Barometer newsletter, powered by the ALM Global"
+    publishedDateTime: 2023-09-07T20:17:00Z
+    webUrl: "https://www.law.com/2023/09/07/forget-chatgpt-law-firms-are-launching-their-own-gen-ai-chatbots/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/292/2023/08/AdobeStock_612806082-767x633.jpg"
+        width: 768
+        height: 633
+        isCached: true
   - title: "Apple is quietly spending millions on AI to make Siri as smart as ChatGPT"
     excerpt: "Apple is spending millions of dollars a day to train its large-language models, and it might be readying to tackle OpenAI ChatGPT."
     publishedDateTime: 2023-09-06T19:07:00Z
@@ -173,6 +187,15 @@ related:
         width: 1600
         height: 885
         isCached: true
+  - title: "Tencent unveils ChatGPT rival in China amid continuing US AI chip ban"
+    excerpt: "Chinese technology corporation Tencent unveiled its “Hunyuan” artificial intelligence (AI) system, a multimodal large language model (LLM) similar to OpenAI’s ChatGPT, at the Global Digital Ecosystem Summit in Shenzhen on Aug. 7."
+    publishedDateTime: 2023-09-07T18:12:00Z
+    webUrl: "https://cointelegraph.com/news/tencent-unveils-chat-gpt-rival-china-us-ai-chip-ban"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 34
   - title: "For Law Firms, Launching Generative AI Chatbots Requires More Than Just Novel Technology"
     excerpt: "Several law firms have consulted with their insurance providers and updated their trainings and policies to support launching generative AI powered chatbots internally. But it is still early days, and more changes may be needed ahead."
     publishedDateTime: 2023-09-06T21:20:00Z
@@ -238,6 +261,6 @@ related:
       domain: dailydot.com
     quality: 4
 
-secured: "Z4liPi6mwSPRXwGT+R0UUfbNlvrMN0n8NlWEE452qvWQNhBqfOgm4JdyzZHzA//icn5gjQOCkjB7iHNIuSOjCp1wofH/vkOtycSinzW9uixsPcoqL6R+dONlWKY33DbGdOyJctaEjpAW4t6G6Wkv1m6S7gpZq51YbVsYApiIf580afZHDaZPA/HtYVx6IRprUa/Dzxgz0nyo5ppIpcfbLtqu50iJPjP6fI5YTNrocBN6PsBIX5Dwvo9c0E1xhjvrP/gia3tczzroCDVHooMtixduzvDexoD+PsPC7zSVK70Nw6bnG/FDUpc9ERfE/OI4mU5RxgYeONVz3MmULuX+N6LE2Bec7MAS9n8+6tjUVIM=;rb5u21qpg6VUiv4/MqPsFg=="
+secured: "zXIK9Nymr9reouriq11fsOYyiVFeRheheLEOFWQzCAXH7Hl5kpKh/kAedac8+kNImyZi4hYdpMMop0s6Vzfj8cza6aGyy95EQfRUH3h/bRM8Swt4Q31Hw9oKspQ8WAf7pzyBz8D1CZh/yy96y2WTZm/0qMrdkj8kjQnuWy2+jU5yax9EhG2bq3Dq38SMPEm3yPdYOFB/a34hC2+B3E6tFXQcABAIt7DbsbKKpOCNKk8GKzDxoLQc7u2Vgg19KBrmhh7l3/TBV+kPRwU04F2vSzJSLrKdOP//KxCOAtpy4ErthF6LxAhFlBxlbjRwQBnSTy+B0OTkoXa6g3m714v3Mliet6H3kQ9M+Ye6VKm4FaQyXHKaZb0wR3Ln4a/dJbtg7BcKaC+K/df43ZBlgB3lavqJUMB/0pVy0RLcQbLykRaujbN81KlwRERx/y7wBf4XPmuuzlhffYjUkM7a4/ziSkI49am0ArZqbVe2A1QBiqzGuX74YWQuJZ6gQB27Pz1rusVq4UdKwDjVXUP1SQ2h4A==;lyLg4dL0F5lBhmceOVUL3Q=="
 ---
 

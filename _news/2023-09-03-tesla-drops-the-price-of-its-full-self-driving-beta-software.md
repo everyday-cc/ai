@@ -7,7 +7,7 @@ originalUrl: "https://uk.pcmag.com/cars-auto/148492/tesla-drops-the-price-of-its
 webUrl: "https://uk.pcmag.com/cars-auto/148492/tesla-drops-the-price-of-its-full-self-driving-beta-software"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Reduces Full Self-driving Beta Software Cost By $3,000"
-    excerpt: "Tesla charges an additional $6,000 for what it terms \"Enhanced Autopilot,\" which adds features such as assistance with parking."
-    publishedDateTime: 2023-09-03T03:29:00Z
-    webUrl: "https://www.republicworld.com/business-news/india-business/tesla-reduces-full-self-driving-beta-software-cost-by-3000-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/business-news/india-business/tesla-reduces-full-self-driving-beta-software-cost-by-3000-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/tesla-reduces-full-self-driving-beta-software-cost-by-3000-articleshow.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 59
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/hgaiywzswpxktqpt_1693711730.jpeg"
-        width: 768
-        height: 438
-        isCached: true
   - title: "Tesla go-kart upgraded with self-driving autopilot"
     excerpt: "In the realm of technological innovation, Austin Blake has made a significant stride by creating a self-driving go-kart, aptly named the Teskart. This"
     publishedDateTime: 2023-09-05T08:15:00Z

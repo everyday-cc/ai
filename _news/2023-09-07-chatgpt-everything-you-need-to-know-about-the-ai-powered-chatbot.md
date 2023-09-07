@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/09/07/chatgpt-everything-you-need-to-kno
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/07/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
 type: article
 quality: 89
-heat: 259
+heat: 279
 published: true
 
 provider:
@@ -159,6 +159,20 @@ related:
         width: 700
         height: 466
         isCached: true
+  - title: "Forget ChatGPT—Law Firms Are Launching Their Own Gen AI Chatbots"
+    excerpt: "Tracking Key Shifts in the Legal Ecosystem Each week, the Law.com Barometer newsletter, powered by the ALM Global"
+    publishedDateTime: 2023-09-07T20:17:00Z
+    webUrl: "https://www.law.com/2023/09/07/forget-chatgpt-law-firms-are-launching-their-own-gen-ai-chatbots/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/292/2023/08/AdobeStock_612806082-767x633.jpg"
+        width: 768
+        height: 633
+        isCached: true
   - title: "Apple is quietly spending millions on AI to make Siri as smart as ChatGPT"
     excerpt: "Apple is spending millions of dollars a day to train its large-language models, and it might be readying to tackle OpenAI ChatGPT."
     publishedDateTime: 2023-09-06T19:07:00Z
@@ -173,6 +187,15 @@ related:
         width: 1600
         height: 885
         isCached: true
+  - title: "Tencent unveils ChatGPT rival in China amid continuing US AI chip ban"
+    excerpt: "Chinese technology corporation Tencent unveiled its “Hunyuan” artificial intelligence (AI) system, a multimodal large language model (LLM) similar to OpenAI’s ChatGPT, at the Global Digital Ecosystem Summit in Shenzhen on Aug. 7."
+    publishedDateTime: 2023-09-07T18:12:00Z
+    webUrl: "https://cointelegraph.com/news/tencent-unveils-chat-gpt-rival-china-us-ai-chip-ban"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 34
   - title: "For Law Firms, Launching Generative AI Chatbots Requires More Than Just Novel Technology"
     excerpt: "Several law firms have consulted with their insurance providers and updated their trainings and policies to support launching generative AI powered chatbots internally. But it is still early days, and more changes may be needed ahead."
     publishedDateTime: 2023-09-06T21:20:00Z

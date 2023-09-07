@@ -108,6 +108,15 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 71
+  - title: "Optimize equipment performance with historical data, Ray, and Amazon SageMaker"
+    excerpt: "In this post, we will build an end-to-end solution to find optimal control policies using only historical data on Amazon SageMaker using Ray’s RLlib library. To learn more about reinforcement learning, see Use Reinforcement Learning with Amazon SageMaker."
+    publishedDateTime: 2023-09-07T18:31:07Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/optimize-equipment-performance-with-historical-data-ray-and-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 65
 
 secured: "fYOhUUYgAQnpGpLt9smirmQaE8P0cHZLUVjRzpL5yrLAMv4PIVjGARgt2C/zygu2VOp6cYvL4RlvcxNakamNxTnYvDlwhbJMSbZRIwGIuVfe3J7/vn79TZLmyzQAatwOTTtp+tlR2VDzz4DM434G5Xb3rDcIbBaqohyAmasIzr7Lz5LZ/6yVjQXz0+tMfrg1UpsS8SgNZpQE5AD10ZKVW8kPsKaFNjc4UqQou1JUi/cPVavkt9li0jb2BAl+rOtWzg+e/qeaUir1KQHQ0Lh8pNw1cF2foYmFxRoOSaCgEcHghWqAcWC5eGWx5om9S3+sYDZQF75aaHvclgwO8geErxOUYy7ypU7mWGcHDBs/Cao=;LDXHOrzdwESQNwpACZKW5w=="
 ---

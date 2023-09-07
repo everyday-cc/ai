@@ -3,26 +3,20 @@ category: news
 title: "With AI, future of hearing aids might include language translation"
 excerpt: "We hear a lot of headlines about concerns over artificial intelligence and what it might mean for the future. But it's not all bad: Consider hearing loss.Friendly AI could be"
 publishedDateTime: 2023-09-05T18:32:00Z
-originalUrl: "https://www.wyomingnews.com/news/national/with-ai-future-of-hearing-aids-might-include-language-translation/video_a29c183a-5613-5e23-8999-104e6725abd1.html"
-webUrl: "https://www.wyomingnews.com/news/national/with-ai-future-of-hearing-aids-might-include-language-translation/video_a29c183a-5613-5e23-8999-104e6725abd1.html"
+originalUrl: "https://www.djournal.com/news/national/with-ai-future-of-hearing-aids-might-include-language-translation/video_9e5519be-2dbf-53fc-b29e-9b55cab042d8.html"
+webUrl: "https://www.djournal.com/news/national/with-ai-future-of-hearing-aids-might-include-language-translation/video_9e5519be-2dbf-53fc-b29e-9b55cab042d8.html"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Wyoming News
-  domain: wyomingnews.com
+  name: Daily Journal
+  domain: djournal.com
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/a/29/a29c183a-5613-5e23-8999-104e6725abd1/64f77ead551b6.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Inside Elon Musk's Struggle for the Future of AI"
@@ -74,6 +68,6 @@ related:
       domain: gulftoday.ae
     quality: 5
 
-secured: "qfsi++5wE9wg1pXiaPASSRn/uNRIjIeFI7rigXDslKYWaLYM2OWJxYTpJnJtpQjyRpBmrEz/V3qbfpo7OrgrLYS0yloBO7WHVrp6RzHB4v0LrA/KorXSb0b5vSA6qiylL3H9JpY33wcKa9yThwDBP0PnXRtBApazu+hCyP1m6eKC/Fg6D1CNOcjBONLFTTKyQWpwcgzf2KebX4ijYZTSWcSFWDkZydbybDlWqPFfDLLWiTzDXML3orRiqfgfYa4Ii5dgjVvG3Iz5Hf2d+ZwdUGKQdlkcW7UIhVp18HW79C22EJBf0s33sv54vxIlTNaZIYV6w2SVs37p4I7s9f4aaqOcyIThy9nuyMbXFCDql3gcQHlxH9MZb9DbLos/sLRDtS+WWS2ySh5NE+3tdUC4cAc7vtA/rZxBROwYAGXvKd9t8TXgxaKQpHxt2em8ARA6d+tPugDwfBgbVQ4N3O7KpI2jiDZLKVS/BYhYmmQwtOXeVXunIkB+Om1dX4opMlvatb9E02ev202cUfs56VCPIA==;8boXxRMlViWUlgb75IBlLg=="
+secured: "OPTYkOaLjCwXAwbQzu9Dtapqa8FROK8DEO2tNiPPGf93W3PG3iVz5pRKn+3SppYZfXaLAEHRgKnTHBWijWARy3yvo8XhMNJeeV77IGkhhlMBB9J6zJ81xE75j6BmUlFrwdf+V2LX3HVjidgoSYXcNSBw5OPukhiXs7O9Z+8E1orFCdt3f8tLsU1aWqWtKuxDbDqZeYBBOkM+Rc975N+BlWWcWii0p+TjrFrE770HqX40RLnWrHUcw3hrTVt5J0khFL5zFwLGrCKVXnc0MXt/wSbrCFl9NL+cY1qn09CokZQ/QKYXcTFcjqSmnb8GiJotHMDYK7K11LqdmjQU9iaDBLB89yhzWqfeETueO+mB74FTFTCVAJLrfj4tUepE0Wdt6ebSXZ/HT0hu7J66M42BgdTv93tb3ReCNo1yz7XlkiAtk7J9j88ZGFklIFZxPDZ1lIVKYKMOPUeK5mBfG+/7eGcG5aR3GMI6OUo/Gh0oVkGAPLkRW8VAsD6+qU9r8GpzlLxul5nGpo9HQwc93epMKw==;RVbYdh2EYQU8EXNa9ehghw=="
 ---
 

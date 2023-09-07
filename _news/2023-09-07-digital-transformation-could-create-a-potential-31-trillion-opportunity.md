@@ -24,6 +24,17 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "Digital Transformation Could Create A Potential $3.1 Trillion Opportunity"
+    excerpt: "Digital Transformation Could Create a Potential $3.1 Trillion Opportunity With companies spending billions on digital transformation, we could be"
+    publishedDateTime: 2023-09-07T19:48:00Z
+    webUrl: "https://menafn.com/1107029591/Digital-Transformation-Could-Create-A-Potential-31-Trillion-Opportunity"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 3
+
 secured: "ysy6nl62rYp3G8IL5Ek9MYE/gY/54nwsEPenQx98vr+H/KdLDUz4CVfziVS4nEIPPmfIzz/XKlaEf8KsmDD3i5u3rU2hDMsJrbslhjxQL0cEpgZqm8CXWuO/DmRXFfc2Q7pFtsCj2qYf0UoWH8PwQjHS70xIoV8TCNYstaIAJY9KBD/Ms1VpGmOSOEPVBKQzunnT+Haes2WC6BPAkuY8sgK5NiXXmnrigvn+LfL83glS2mFzXXm+2bZaSWsJqyoY0c+ffZzMRe0RELLvXzwXjM1/4MM+T+7q2bYa9eIY4mEsvPk1xn0js4yhxrheQ0/pzbDhl9PAE9Jk+B5EJIYthrKWogzyA0pF+CwbPuXK/zs=;D7h2ddUSzV9bE9ERhjYEDA=="
 ---
 

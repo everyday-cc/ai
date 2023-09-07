@@ -1,56 +1,28 @@
 ---
 category: news
 title: "Deep learning used by seismologists to improve prediction of earthquakes: Study"
-excerpt: "The Recurrent Earthquake foreCAST (RECAST), a new model developed by academics from the Technical University of Munich and the University of California, Santa Cruz, addresses this issue by using deep learning to forecast aftershocks. The researchers ..."
-publishedDateTime: 2023-09-02T16:34:00Z
-originalUrl: "https://timesofindia.indiatimes.com/home/science/deep-learning-used-by-seismologists-to-improve-prediction-of-earthquakes-study/articleshow/103313891.cms"
-webUrl: "https://timesofindia.indiatimes.com/home/science/deep-learning-used-by-seismologists-to-improve-prediction-of-earthquakes-study/articleshow/103313891.cms"
-ampWebUrl: "https://m.timesofindia.com/home/science/deep-learning-used-by-seismologists-to-improve-prediction-of-earthquakes-study/amp_articleshow/103313891.cms"
-cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/science/deep-learning-used-by-seismologists-to-improve-prediction-of-earthquakes-study/amp_articleshow/103313891.cms"
+excerpt: "The methods that researchers and governmental organisations employ to predict earthquake aftershocks have mostly stayed unaltered for more than 30 years. The large seismology datasets that are currently accessible are difficult for these older models to handle,"
+publishedDateTime: 2023-09-02T13:43:00Z
+originalUrl: "https://theprint.in/science/deep-learning-used-by-seismologists-to-improve-prediction-of-earthquakes-study/1744032/"
+webUrl: "https://theprint.in/science/deep-learning-used-by-seismologists-to-improve-prediction-of-earthquakes-study/1744032/"
+ampWebUrl: "https://theprint.in/science/deep-learning-used-by-seismologists-to-improve-prediction-of-earthquakes-study/1744032/?amp"
+cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/science/deep-learning-used-by-seismologists-to-improve-prediction-of-earthquakes-study/1744032/?amp"
 type: article
-quality: 55
-heat: 75
-published: true
 
 provider:
-  name: Indiatimes
-  domain: indiatimes.com
+  name: ThePrint
+  domain: theprint.in
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://static.toiimg.com/thumb/msid-103313933,width-1070,height-580,imgsize-18314,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-    width: 1069
-    height: 580
+  - url: "https://static.theprint.in/wp-content/uploads/2023/09/ANI-20230902134029.jpg"
+    width: 600
+    height: 450
     isCached: true
 
-related:
-  - title: "Deep learning model boosts earthquake analysis"
-    excerpt: "Seismologists in California and Germany have developed a deep learning model for forecasting earthquake aftershocks that can outperform existing data analysis methods."
-    publishedDateTime: 2023-09-04T08:55:00Z
-    webUrl: "https://www.theengineer.co.uk/content/news/deep-learning-model-boosts-earthquake-analysis"
-    type: article
-    provider:
-      name: The Engineer
-      domain: theengineer.co.uk
-    quality: 39
-    images:
-      - url: "https://www.theengineer.co.uk/media/syqfn4is/low-res_20200116_074623_047.jpg?width=1200&height=630&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep learning used by seismologists to improve prediction of earthquakes: Study"
-    excerpt: "The models flexibility could open up new possibilities for earthquake forecasting. With the ability to adapt to large amounts of new data, models that use deep learning could potentially incorporate information from multiple regions at once to make better forecasts about poorly studied areas."
-    publishedDateTime: 2023-09-03T03:17:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20230902/4114933.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 15
-
-secured: "Jqw6mMK+EKxs6twzqGCE7CUalbU3vWy5YHqM00uMoAiVjCYlyGB+6NiEUt5EhfYF/OWKaF6titO2L304h4YTAIwifVr7DsEBqckQ0W9kbqOLdHdz30P0R64huYafVUtNeLDWgHwrMOgJYuAwGLgyl1FNci5wk/KSbCWVmyeR8sgYghxQVYW66eMecUahbsISXm82xR/jR1+7CjoYtGx/iOK0MX8JjChu1fsQEcRI4mucSWa61qrle/uWMVTkQoRPpnMvO5fLgzWjmsqT/g7LxfUwnZplBRihCY8blDQHL0DwBHjRPewJrC2mXcA181HFG43gNhKOQBu1ewVYA+vx+VQHb7kTbTiAnSRa98CAjbmHtTStE3eQMI403PN7BpBVMXnSBIJq9sJTRaARYjJ75YlMorr3q3qcijLg3UomsNPadBG2QlFk9PrkuC395eBKmuHUWAK2LBaxUlbHoRm/qlJ7DmTRM4AVM9FbLCNiGuJBL5qkvtjnyNslbfxEbkOVypGgcwahe+dHm6/QIvD+Yw==;BnaR+Lv4Y9dcqK53QRQekA=="
+secured: "M0M6l4rA2v8oBNbnaQXiNudOsPm6tP9Jd45Av1JpDwhOgU8JzE48nDhqU6jka6hkbg7kGkWbvV37mdVMPVi/8/EiHEo2Yf7bZoH6Iyvad5qHP6+BnQ2PzwuDueQenf3QFTc9pEZ/ah8ti9+k4d1Eb9HQmwv8Lti8hZ4tRsG0D3F4FvMn1OEgdiZU2amVLrpyjZmqLE7G/z0VDEjlbCZT2rVfQozcUZmjSQggOM1waRne5Twtr/BDadoJ24Ac7p1Xcfz+okueSgdUjIIlud66kcIOTOGBwW1P87Min1QeYG/RUW+tLGXrUEAE1ld/HjgtcAbj7xYcx6izzR65pW4CH4OBlv4lGwg4ToIz+fsw9pE=;tkt328uaAJozS7NmQAGfJA=="
 ---
 

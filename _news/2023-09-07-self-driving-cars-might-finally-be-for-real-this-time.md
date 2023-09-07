@@ -71,6 +71,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Tyson Foods Is Using Self-Driving Trucks. It’s a Start."
+    excerpt: "Food giant Tyson is deploying autonomous-trucking technology from start-up Gatik in a pilot test of cost and productivity."
+    publishedDateTime: 2023-09-06T13:26:00Z
+    webUrl: "https://www.barrons.com/articles/tyson-foods-chicken-self-driving-trucks-c1c7545e"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 4
 
 secured: "WO83ML7f0kxHq5PprMCP5YkIgZAeToKvX786HqHcQz8aqQE2TuEMTEbvvo3Vm2DS/n1AAfsOILzgXG5LwP+KlOM9KajuOEmGDn6naC1Q1kQX8YnLHOXr4/7IXnCS0tHLV1H8AKpsQ0E2mCHyr33t/0SRnJ2xOSW5HUfy0igQ3janX64u5sXiJmMVSBKhocoGjCfG5yV0vpsqifPe4B2txgMSyJu+BCp6mJzd8pdnVVyzMLnFjrZvxOP2cDMOr8y7AxEB8cJwA8XSdLv+rFtZseKPSvI18QuN99smiwsnDKWRPc4HDvREMyrD5msRusYU48oZZ4SSnrs8TuJvxPIIqow2cnL9ZHejRxKsgWHWSzM=;GN0Kb5wXEhIZ6IvSHhJc/g=="
 ---

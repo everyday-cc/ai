@@ -19,93 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Australian Opposition Backs Second Referendum if Voice Fails"
-    excerpt: "The leader of Australia’s opposition Liberal Party said it will hold a second referendum to recognize Indigenous people in the country’s constitution if the national vote on whether to incorporate an advisory body on matters affecting them fails on Oct."
-    publishedDateTime: 2023-09-03T01:07:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-09-03/australian-opposition-backs-second-referendum-if-voice-fails"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 49
-  - title: "Victorian Opposition Leader John Pesutto to vote No on Indigenous voice"
-    excerpt: "Liberal leader John Pesutto has revealed he will vote no in the upcoming referendum on the Voice.Credit: Justin McManus Pesutto said while he strongly supports recognition of First Nations people in the constitution, he has adopted “a cautious ..."
-    publishedDateTime: 2023-09-04T05:21:00Z
-    webUrl: "https://www.theage.com.au/politics/victoria/victorian-opposition-leader-john-pesutto-to-vote-no-on-indigenous-voice-20230904-p5e1vp.html"
-    ampWebUrl: "https://amp.theage.com.au/politics/victoria/victorian-opposition-leader-john-pesutto-to-vote-no-on-indigenous-voice-20230904-p5e1vp.html"
-    cdnAmpWebUrl: "https://amp-theage-com-au.cdn.ampproject.org/c/s/amp.theage.com.au/politics/victoria/victorian-opposition-leader-john-pesutto-to-vote-no-on-indigenous-voice-20230904-p5e1vp.html"
-    type: article
-    provider:
-      name: The Age
-      domain: theage.com.au
-    quality: 44
-    images:
-      - url: "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Key figure behind the Indigenous voice urges the government to have a backup plan if the referendum fails"
-    excerpt: "There's no point in a second referendum because it's not what we want,' she said. 'We asked for recognition through a voice combining the symbolic and practical to give us both dignity and a sense of empowerment and responsibility in matters that affect us.'"
-    publishedDateTime: 2023-09-07T01:36:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-12489803/Key-figure-Indigenous-voice-urges-government-backup-plan-referendum-fails.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-12489803/amp/Key-figure-Indigenous-voice-urges-government-backup-plan-referendum-fails.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12489803/amp/Key-figure-Indigenous-voice-urges-government-backup-plan-referendum-fails.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 42
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2023/09/07/02/75148377-0-image-m-96_1694049170596.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Australia news live: Littleproud says ‘there’ll be no victory lap’ from Nationals if voice referendum fails"
-    excerpt: "Nationals leader backs Peter Dutton’s call to hold a referendum on Indigenous recognition if the voice to parliament vote fails in October. Follow the latest news live More from that chat with Littleproud on the voice. The Nationals leader also said the ..."
-    publishedDateTime: 2023-09-03T03:56:00Z
-    webUrl: "https://www.theguardian.com/australia-news/live/2023/sep/03/australia-news-live-parliament-indigenous-voice-referendum-sunday?filterKeyEvents=false&page=with:block-64f3f4758f083bb275c23a13"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/live/2023/sep/03/australia-news-live-parliament-indigenous-voice-referendum-sunday"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2023/sep/03/australia-news-live-parliament-indigenous-voice-referendum-sunday"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 41
-    images:
-      - url: "https://i.guim.co.uk/img/media/ba76fe6dc61ea8d964a0ca6161b8a7471973c770/0_180_7387_4436/master/7387.jpg?width=620&quality=85&auto=format&fit=max&s=825fc5452f17a6d77ac911dd093bda94"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Victorian Liberal leader John Pesutto says he will vote No on the Voice referendum"
-    excerpt: "John Pesutto has become the final Liberal leader in the country to reveal their position on the Indigenous voice to parliament, siding with Peter Dutton"
-    publishedDateTime: 2023-09-04T08:22:00Z
-    webUrl: "https://www.abc.net.au/news/2023-09-04/victorian-opposition-john-pesutto-to-vote-no-in-voice-referendum/102812782"
-    ampWebUrl: "https://amp.abc.net.au/article/102812782"
-    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/102812782"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 38
-    images:
-      - url: "https://live-production.wcms.abc-cdn.net.au/6aa6dca36a54cef7a6e1fcf552ea42e6?impolicy=wcms_crop_resize&cropH=432&cropW=768&xPos=0&yPos=296&width=862&height=485"
-        width: 768
-        height: 432
-        isCached: true
-  - title: "Meet AI Builder Club: The free short residency program for Australian AI startups"
-    excerpt: "Meet the AI Builder Club, a free residency program for Australian enthusiasts to build their own AI projects with expert mentorship."
-    publishedDateTime: 2023-09-06T01:45:00Z
-    webUrl: "https://www.smartcompany.com.au/technology/artificial-intelligence/ai-builder-club-free-residency-program-australia/"
-    type: article
-    provider:
-      name: SmartCompany
-      domain: smartcompany.com.au
-    quality: 34
-    images:
-      - url: "https://www.smartcompany.com.au/wp-content/uploads/2023/09/ai-builder-club.jpg?resize=1200,630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voice referendum: John Farnham's iconic song now the soundtrack of Yes campaign ad"
     excerpt: "Federal Opposition Leader Peter Dutton says he'll hold another referendum if the vote to enshrine an Indigenous Voice to Parliament in the constitution fails. The promise comes as the Yes campaign secures the support of Australian music-legend John Farnham – and the use of his song You’re the"
     publishedDateTime: 2023-09-04T05:01:00Z
@@ -120,109 +33,29 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "'Vote Yes so that we thrive': Voice to Parliament advocate Marcia Langton's passionate plea to Australians"
-    excerpt: "One of the leading advocates for the Yes campaign in the upcoming Voice to Parliament referendum has revealed her concerns if it fails, explaining why she thinks Australians should vote in its favour."
-    publishedDateTime: 2023-09-06T05:00:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/vote-yes-so-that-we-thrive-voice-to-parliament-advocate-marcia-langtons-passionate-plea-to-australians/news-story/ede33ec7056af89b8d6e75b6397defaf"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/vote-yes-so-that-we-thrive-voice-to-parliament-advocate-marcia-langtons-passionate-plea-to-australians/news-story/ede33ec7056af89b8d6e75b6397defaf?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/vote-yes-so-that-we-thrive-voice-to-parliament-advocate-marcia-langtons-passionate-plea-to-australians/news-story/ede33ec7056af89b8d6e75b6397defaf?amp"
+  - title: "John Farnham did not get paid for lending You're the Voice to campaign, friend says"
+    excerpt: "Liberals deliver 'resounding no' to Labor's Voice plan, but back constitutional recognition Tim Wheatley, Farnham’s close friend and son of his late manager Glenn Wheatley, said the song is aligned with humanity and is for all Australians. “You’re ..."
+    publishedDateTime: 2023-09-05T02:49:00Z
+    webUrl: "https://www.sbs.com.au/news/article/john-farnham-did-not-get-paid-for-lending-youre-the-voice-to-campaign-friend-says/zu62eih5k"
     type: article
     provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 26
+      name: SBS
+      domain: sbs.com.au
+    quality: 33
     images:
-      - url: "https://content.api.news/v3/images/bin/6561f89bc0f2fef6e05fde1b447ae104"
+      - url: "https://images.sbs.com.au/dims4/default/556885b/2147483647/strip/true/crop/4971x2796+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F9c%2F2b%2F26ccff994b6dbeaaa47e75ba4913%2Fgettyimages-1186489256.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "'This song changed my life': John Farnham's hope as he lends his voice to push for recognition of Indigenous Australians"
-    excerpt: "Legendary Australian singer John Farnham has lent his support to the Yes campaign, allowing it to use You're the Voice in ads pushing for people to vote in favour of Indigenous recognition."
-    publishedDateTime: 2023-09-03T01:51:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/this-song-changed-my-life-john-farnhams-hope-as-he-lends-his-voice-to-push-for-recognition-of-indigenous-australians/news-story/3ebffbc03d5f4f9dc27bd8de27d96d12"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/this-song-changed-my-life-john-farnhams-hope-as-he-lends-his-voice-to-push-for-recognition-of-indigenous-australians/news-story/3ebffbc03d5f4f9dc27bd8de27d96d12?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/this-song-changed-my-life-john-farnhams-hope-as-he-lends-his-voice-to-push-for-recognition-of-indigenous-australians/news-story/3ebffbc03d5f4f9dc27bd8de27d96d12?amp"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 19
-    images:
-      - url: "https://content.api.news/v3/images/bin/243916f17536f5ae7566ae2cda62f7a7"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Backlash over Dutton’s plan for second referendum if Voice vote fails"
-    excerpt: "Prime Minister Anthony Albanese said the argument for another referendum “could only possibly make sense if you’re Peter Dutton”, and the best approach was to set up the Voice with constitutional recognition in the referendum on October 14."
-    publishedDateTime: 2023-09-03T19:00:00Z
-    webUrl: "https://www.watoday.com.au/politics/federal/backlash-over-dutton-s-plan-for-second-referendum-if-voice-vote-fails-20230903-p5e1mi.html"
-    type: article
-    provider:
-      name: WAtoday
-      domain: watoday.com.au
-    quality: 19
-  - title: "New poll shows more than half of Australians likely to vote No for the Voice to Parliament, as Labor falls behind Coalition"
-    excerpt: "More than half of Australians will likely vote No to a Voice to Parliament if it were held today, according to a new poll, as the campaign from both sides ramps up this week."
-    publishedDateTime: 2023-09-03T21:14:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/new-poll-shows-more-than-half-of-australians-likely-to-vote-no-for-the-voice-to-parliament-as-labor-falls-behind-coalition/news-story/9b82178b4de45acbfc867623d8f7b63e"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/new-poll-shows-more-than-half-of-australians-likely-to-vote-no-for-the-voice-to-parliament-as-labor-falls-behind-coalition/news-story/9b82178b4de45acbfc867623d8f7b63e?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/new-poll-shows-more-than-half-of-australians-likely-to-vote-no-for-the-voice-to-parliament-as-labor-falls-behind-coalition/news-story/9b82178b4de45acbfc867623d8f7b63e?amp"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 18
-    images:
-      - url: "https://content.api.news/v3/images/bin/a672c8ee501120d5d6d43aa7f10fb508"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Peter Dutton flags second referendum if Indigenous Voice to Parliament fails"
-    excerpt: "Opposition leader Peter Dutton has committed to holding another referendum to recognise Indigenous Australians in the Constitution if the Voice failed."
-    publishedDateTime: 2023-09-03T13:43:00Z
-    webUrl: "https://www.theaustralian.com.au/breaking-news/peter-dutton-flags-second-referendum-if-indigenous-voice-to-parliament-fails/news-story/f14566cceeb7770f46146df839ddafdb"
+  - title: "Top ASX companies publicly back yes campaign in Voice referendum"
+    excerpt: "The nation’s largest listed companies have overwhelmingly thrown their weight, and millions of dollars in support, behind the Yes campaign supporting an Aboriginal and Torres Strait Islander Voice to Parliament,"
+    publishedDateTime: 2023-09-05T12:38:00Z
+    webUrl: "https://www.theaustralian.com.au/business/companies/top-asx-companies-publicly-back-yes-campaign-in-voice-referendum/news-story/594172526e3a4f2b1ff9057f3269287e"
     type: article
     provider:
       name: The Australian
       domain: theaustralian.com.au
-    quality: 16
-  - title: "David Littleproud backs Peter Dutton's promise of Indigenous recognition referendum should the Voice to Parliament fail"
-    excerpt: "National's leader David Littleproud says his party will support Peter Dutton's promise of a second referendum to recognise Indigenous Australians in the constitution if the \"yes\" vote fails and the Coalition wins the next election."
-    publishedDateTime: 2023-09-03T02:28:00Z
-    webUrl: "https://www.canberratimes.com.au/story/8333855/nationals-back-duttons-promise-of-a-second-referendum-if-voice-fails/"
-    type: article
-    provider:
-      name: The Canberra Times
-      domain: canberratimes.com.au
-    quality: 15
-    images:
-      - url: "https://www.canberratimes.com.au/images/transform/v1/crop/frm/212131485/f5f0e371-eff4-4e41-88d6-f5e114419937.jpg/r0_361_5200_3091_w1200_h630_fmax.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "David Littleproud backs Peter Dutton's promise of Indigenous recognition referendum should the Voice to Parliament fail"
-    excerpt: "Nationals Leader David Littleproud says his party will support Peter Dutton's promise to hold a second referendum to recognise Indigenous Australians in the constitution if the \"yes\" vote fails and the Coalition wins the next election. Federal politics and ..."
-    publishedDateTime: 2023-09-03T23:28:00Z
-    webUrl: "https://www.farmonline.com.au/story/8334399/nationals-back-duttons-promise-of-a-second-referendum-if-voice-fails/"
-    type: article
-    provider:
-      name: FarmOnline
-      domain: farmonline.com.au
-    quality: 15
-    images:
-      - url: "https://www.farmonline.com.au/images/transform/v1/crop/frm/212131485/f5f0e371-eff4-4e41-88d6-f5e114419937.jpg/r0_361_5200_3091_w1200_h630_fmax.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The Voice key for Indigenous Australian's health"
-    excerpt: "Australia will soon vote on constitutional recognition of its Indigenous people, and to give them a direct voice to Parliament. Health will be high on the agenda. Chris McCall reports."
-    publishedDateTime: 2023-09-03T15:47:00Z
-    webUrl: "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)01840-8/fulltext"
-    type: article
-    provider:
-      name: The Lancet
-      domain: thelancet.com
-    quality: 4
+    quality: 19
   - title: "Dutton’s vow for second Voice referendum is where Nationals have been for ‘some time’"
     excerpt: "Nationals leader David Littleproud says Opposition leader Peter Dutton’s vow for a second referendum to give constitutional recognition if the Voice to Parliament fails is where the Nationals have been for “some time”."
     publishedDateTime: 2023-09-03T20:06:00Z
@@ -231,15 +64,6 @@ related:
     provider:
       name: The Australian
       domain: theaustralian.com.au
-    quality: 0
-  - title: "Peter Dutton says there is 'overwhelming support for constitutional recognition' after pitching second referendum if Voice fails"
-    excerpt: "“I do think there is overwhelming support for constitutional recognition, it’s been the policy of the Liberal Party back to John Howard days.” Voters just did not support Prime Minister Anthony Albanese's Voice proposal because they do not want it in ..."
-    publishedDateTime: 2023-09-06T12:10:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/peter-dutton-says-there-is-overwhelming-support-for-constitutional-recognition-after-pitching-second-referendum-if-voice-fails/news-story/931d6136e1437a3d204ee1c4e3c6ad41"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
     quality: 0
 
 secured: "xYOTKBKL/HGxI6nWlUllHom0vAeFVMoN3Jg8Lq8YFtpkLaQa7/LtfyGYzGVd1nV4K8LcnOFPqVkP6rzsWMnYIC4lkR5JpMj1/g34TBdLeYXTAo9w1dDaOc5tizvCEmoSK4G3rgNS3+NzDfduGJ+SjSgUNjEhkjdJ/yaFc9sNQ6rVFZN3K79pmxHbb4af8yR8bKmBEbukUvGZGX1zofNCsB1v6dl5CtveBJIO5ZzyksGYmpMVO0AzVUn+USNSnOInBJgAFs6Oj+BSZco4e58o/Nafod9T/h9AGnKriTZCZyFGL1Zuvm1Cu+f8AqQnc+HTRnWNXxbBQO4uCUWG668//ogT/O7+79un4rNEjH9FAFdOBN7fGixlRfTPxyQbwZUQXpDXoP8yNjMBNvf6XsXxXnYbe6VaMte8fbqKxZ2kUFQB03etO/0ZuzO0c1bKGqzTT25O4fpkrEE6/CBpHvE6Y1v/N8Xn+DuPW/LdT16KVfS6hBhaXvNYUFXLKHlmh+GFnQWmtqy0wTNDJ37tRWvAcQ==;DBU7MsEEGhrQ2NzplGzRAQ=="

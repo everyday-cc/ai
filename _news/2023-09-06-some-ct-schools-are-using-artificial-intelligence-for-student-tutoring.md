@@ -1,26 +1,27 @@
 ---
 category: news
 title: "Some CT schools are using artificial intelligence for student tutoring"
-excerpt: "The Connecticut State Department of Education is partnering with a tech company to bring artificial intelligence classrooms this upcoming school year."
-publishedDateTime: 2023-09-06T13:00:00Z
-originalUrl: "https://www.courant.com/2023/09/06/some-ct-schools-are-using-artificial-intelligence-for-student-tutoring/"
-webUrl: "https://www.courant.com/2023/09/06/some-ct-schools-are-using-artificial-intelligence-for-student-tutoring/"
+excerpt: "CT is partnering with tech company Varsity Tutors, which uses AI to connect students with tutors and design tutoring lesson plans."
+publishedDateTime: 2023-09-06T09:00:00Z
+originalUrl: "https://ctmirror.org/2023/09/06/ct-schools-ai-artificial-intelligence-tutoring/"
+webUrl: "https://ctmirror.org/2023/09/06/ct-schools-ai-artificial-intelligence-tutoring/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Hartford Courant
-  domain: courant.com
+  name: The Connecticut Mirror
+  domain: ctmirror.org
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.courant.com/wp-content/uploads/2023/07/OpenAI_FTC_Investigation_62692.jpg?w=1024&#038;h=682"
-    width: 1024
-    height: 682
+  - url: "https://ctmirror-images.s3.amazonaws.com/wp-content/uploads/2023/08/2023_0823_SR_AIinSchools_017_1-scaled.jpeg"
+    width: 2560
+    height: 1707
     isCached: true
 
 related:
@@ -63,6 +64,15 @@ related:
         width: 1050
         height: 700
         isCached: true
+  - title: "Unlocking creativity with AI in the future workforce"
+    excerpt: "Generative AI is transforming digital content production, offering new tools that enhance the capabilities of creative professionals, as well as those not typically involved in creative roles. This fundamental shift will influence the future of work across all industries, according to software company Adobe."
+    publishedDateTime: 2023-09-07T21:29:00Z
+    webUrl: "https://www.theaustralian.com.au/sponsored/zXktpQXeYeY6d5YQxjrx/unlocking-creativity-with-ai-in-the-future-workforce/"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 19
   - title: "Explainable-AI Image Recognition achieves precise 3D descriptions of objects for US Air Force, a major AI breakthrough"
     excerpt: "Z Advanced Computing, Inc. (ZAC), the pioneer CognitiveExplainable-AI (Artificial Intelligence) (Cognitive XAIor CXAI) software startup, has developed the \"Describer\""
     publishedDateTime: 2023-09-05T17:03:00Z
@@ -73,6 +83,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "Y5uUTiYzJkqBjdfh0Gfnr54qr1J9eoqxI6PX4Hx3gcTBS+LRv03shYlk3gtBDVYWUejSVzWhexIV+J6V0OHhCOZIhaLYnDZNyO9ybQPHh00Glue+9EvLQimGFgHDmywJL94qaFnaKNIsjeatByTDB+Cv3qAC6FH0fscMuFSDzuJA7uWMJRM3DfRJes+66jvmChc5REBng/ISNDBJpGP+D0WdYxSbwbPNs847Gcm563QNJakKCZ6f5lZSKzJftGcoohiYopd5lDg4kt8XQPNCwra01l7GDd2jeKpASfxPC6OuDbEKh8lPD0K9FwF76HKXoPIxqvIabBXieMeTIVcXSiyGx+MwYXjSw0N4IX4RgaHgXvTj4zEBU6dS7X9kVBQRiMf/VYKvLnxXDlegT1NOH+4G9eYUGnSRwl1siiBj2rQE5QB7ULqIVfaGVke3nU5ENOTAWOadZmRyDLSzLPofP1M0Z94gINN7Bcjj4/oQ6K44gysukDFkoNqUY0+ShbSS0RKp885KXFcnCggsOTVS9A==;XRBo6qx7bzowMcelfVXzHw=="
+secured: "NATEMLFnnb+BxGT2mH0BjoAht09RxglmYXkVg/+x7UDFrI9OGucWHfaFfLH/rOpKlaS78o7RdiIQdzV7ak8mKNT+DUHql556SbPSSRIuWCHuSh5QMSCOo3IVbwJXBTOVSr6cmkALr8TkUIztQyB+jaWMqNwPddrXX1DUWIYDwPL2cMn6NG2IZbO/do2UwOSLmb0LdBMf0dbyI9pVLih5s7kEP0iWFETvJEVxMLF9YXi8oa7NiA11KDerYRIv49sj4xzQOh+xSphVbli+kbEWHx7F2i7DVpITPIActQlJLOl1XWNlh5+po5iUBY++PaZ6nUe4LjzIZ0ucZFZ/hAd3gEI8TfS8akmKxSq4gGZgy8w=;svFkyu3pV617GbETtLA6bA=="
 ---
 

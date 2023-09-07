@@ -35,6 +35,38 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Victorian Opposition Leader John Pesutto to vote No on Indigenous voice"
+    excerpt: "Liberal leader John Pesutto has revealed he will vote no in the upcoming referendum on the Voice.Credit: Justin McManus Pesutto said while he strongly supports recognition of First Nations people in the constitution, he has adopted “a cautious ..."
+    publishedDateTime: 2023-09-04T05:21:00Z
+    webUrl: "https://www.theage.com.au/politics/victoria/victorian-opposition-leader-john-pesutto-to-vote-no-on-indigenous-voice-20230904-p5e1vp.html"
+    ampWebUrl: "https://amp.theage.com.au/politics/victoria/victorian-opposition-leader-john-pesutto-to-vote-no-on-indigenous-voice-20230904-p5e1vp.html"
+    cdnAmpWebUrl: "https://amp-theage-com-au.cdn.ampproject.org/c/s/amp.theage.com.au/politics/victoria/victorian-opposition-leader-john-pesutto-to-vote-no-on-indigenous-voice-20230904-p5e1vp.html"
+    type: article
+    provider:
+      name: The Age
+      domain: theage.com.au
+    quality: 44
+    images:
+      - url: "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Victorian Liberal leader John Pesutto says he will vote No on the Voice referendum"
+    excerpt: "John Pesutto has become the final Liberal leader in the country to reveal their position on the Indigenous voice to parliament, siding with Peter Dutton"
+    publishedDateTime: 2023-09-04T08:22:00Z
+    webUrl: "https://www.abc.net.au/news/2023-09-04/victorian-opposition-john-pesutto-to-vote-no-in-voice-referendum/102812782"
+    ampWebUrl: "https://amp.abc.net.au/article/102812782"
+    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/102812782"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 38
+    images:
+      - url: "https://live-production.wcms.abc-cdn.net.au/6aa6dca36a54cef7a6e1fcf552ea42e6?impolicy=wcms_crop_resize&cropH=432&cropW=768&xPos=0&yPos=296&width=862&height=485"
+        width: 768
+        height: 432
+        isCached: true
 
 secured: "PE8NDPXzTK+WEiSZJeHKvxkEtV/CtrWF382wiYwQCPiyAwM1fhwEFIi8Llhduzz9Kr5ykdcQ0+8qEgiILUobN/TStvtNmjPbNIOnhDFVb2rKi4tf9cy2rskBu5T2xyBS2iq2LRqIQlbboDwjjNUQy7doXN+Eo/RMInmEg4QiTachnDLbOjWELrWLD+xtZ7dD76204QorDCjOJd6pilvdl2j3+3zE/g8tQXLfLhQaFk0byx4ks0khyM8tLibALKTZkPWbN1mrl9BSN6AmgRlK2QByuTCgFGHhrGyk+55XGa6Jq57d53srCEIG+Kb39SX+Z0SQqH/DefJyUbBk+wdXjCLATCMsFCxwzcKkgU6YRs45Fg77HKrLsApXr/ZYCD6bql9WzwBd2Ibp8TCnPGZ181p04qzHTD+vigsX8LpMW4cxM6YPzac6tsZf0/wxkM5i/lqy3+egVbmD99X/T04BOMiX/qms1Mdvds/oUYJ3Vnp9uotl4riKMLiuTrasq25XXiBJfRgflSws1xpPWKQ6fA==;oYD8EjwH3z0BmBE9Y5QxeQ=="
 ---

@@ -36,18 +36,18 @@ related:
         height: 800
         isCached: true
   - title: "Some CT schools are using artificial intelligence for student tutoring"
-    excerpt: "The Connecticut State Department of Education is partnering with a tech company to bring artificial intelligence classrooms this upcoming school year."
-    publishedDateTime: 2023-09-06T13:00:00Z
-    webUrl: "https://www.courant.com/2023/09/06/some-ct-schools-are-using-artificial-intelligence-for-student-tutoring/"
+    excerpt: "CT is partnering with tech company Varsity Tutors, which uses AI to connect students with tutors and design tutoring lesson plans."
+    publishedDateTime: 2023-09-06T09:00:00Z
+    webUrl: "https://ctmirror.org/2023/09/06/ct-schools-ai-artificial-intelligence-tutoring/"
     type: article
     provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 37
+      name: The Connecticut Mirror
+      domain: ctmirror.org
+    quality: 39
     images:
-      - url: "https://www.courant.com/wp-content/uploads/2023/07/OpenAI_FTC_Investigation_62692.jpg?w=1024&#038;h=682"
-        width: 1024
-        height: 682
+      - url: "https://ctmirror-images.s3.amazonaws.com/wp-content/uploads/2023/08/2023_0823_SR_AIinSchools_017_1-scaled.jpeg"
+        width: 2560
+        height: 1707
         isCached: true
   - title: "Hugging Face Raises $235M for its Open Platform for AI and Machine Learning"
     excerpt: "Hugging Face is the most-used open platform for AI builders. More than 50,000 organizations are using it to build, train, and deploy AI models like Stable diffusion, StarCoder, Llama, and more. It hosts over 300k models, 250k datasets, and 250k spaces."
@@ -72,6 +72,15 @@ related:
         width: 1050
         height: 700
         isCached: true
+  - title: "Unlocking creativity with AI in the future workforce"
+    excerpt: "Generative AI is transforming digital content production, offering new tools that enhance the capabilities of creative professionals, as well as those not typically involved in creative roles. This fundamental shift will influence the future of work across all industries, according to software company Adobe."
+    publishedDateTime: 2023-09-07T21:29:00Z
+    webUrl: "https://www.theaustralian.com.au/sponsored/zXktpQXeYeY6d5YQxjrx/unlocking-creativity-with-ai-in-the-future-workforce/"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 19
 
 secured: "H7vBWfSJXouynRFA0Hb2TkWvQkMcTFoJWsZeWN6M0nUMrDHl7pGKczwaeaUYfnwlRdkHOTkDXy/uR7Gji4ZMmap1an0oNeCh/pbdggRjSPhxRjUMvu+uW0hR38Jf5m+h2j0gxD79OaQf9hyzdocYiGeT2TGMXXudm7RLWhncPn2NOsCdXHNSe5b/k3KsBXFXlNSSebUvVewuwOSGm7VZPZrrQAeFJO3rirGEnK5n8oGOjMeOMHcLvydeo4oCM5uHgICMFBaj1UPzQ5d+EPb6kmNqkG+e3jPCNq00yfgZVff4+4puK4ouhLd6kjc+4z7ElHY7akqnYa8o8UZfsZeWAzP3/oYtysRQxqaeJCYkbE8=;VM3dR/IijF2okpXboX5D3g=="
 ---

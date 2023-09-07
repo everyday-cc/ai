@@ -75,6 +75,20 @@ related:
         width: 1199
         height: 796
         isCached: true
+  - title: "AI startup Imbue closes $200M funding round backed by Nvidia"
+    excerpt: "The Series B investment values Imbue at $1 billion. It included contributions from Nvidia Corp. and Astera Institute, a nonprofit that backs promising research initiatives. Cruise LLC Chief Executive Officer Kyle Vogt, Notion Labs Inc. co-founder Simon Last and a number of other backers participated as well."
+    publishedDateTime: 2023-09-07T21:20:00Z
+    webUrl: "https://siliconangle.com/2023/09/07/ai-startup-imbue-closes-200m-funding-round-backed-nvidia/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Imbue.png"
+        width: 932
+        height: 519
+        isCached: true
   - title: "Nvidia isn't the only game in town. Investors advise against overlooking these other AI beneficiaries"
     excerpt: "Nvidia's quarterly report seemed to leave some investors questioning whether any serious challenger can challenge its well-protected throne, or catch up to speed building comparable chips able to power generative AI models. And the price action seemed to ..."
     publishedDateTime: 2023-09-04T13:22:00Z

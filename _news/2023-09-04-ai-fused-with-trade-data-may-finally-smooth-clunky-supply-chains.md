@@ -50,20 +50,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 39
-  - title: "AI Fused With Trade Data May Finally Smooth Clunky Supply Chains"
-    excerpt: "The dawn of artificial intelligence tools like ChatGPT may revolutionize the way both the public and private sector use data to ferret out risks and opportunities in the $32 trillion global trading system."
-    publishedDateTime: 2023-09-03T04:00:00Z
-    webUrl: "https://www.swissinfo.ch/eng/bloomberg/ai-fused-with-trade-data-may-finally-smooth-clunky-supply-chains/48782088"
-    type: article
-    provider:
-      name: Swissinfo
-      domain: swissinfo.ch
-    quality: 39
-    images:
-      - url: "https://www.swissinfo.ch/resource/image/45945846/landscape_ratio16x9/1920/1080/caa0764b3418d762daa605efa298d327/00A4B15C884C1E8D3D2F927F0EACC09B/fallback-1200x630-swi.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "BLznImXU2mxgTRDIIl/Rf2SbtqMuakUFkVOpOGqWjhiepG9iHGKGSs9USpTdLmNyU825MRmu00VjaN61m5qxsu9SIkok410obLrjFAUQAk+aUlbBe+b1juJ0WXZzzwUSv/4sCBmRK5bgbzH/U/gJ9K1s8erfO7pXN7jTzbl1395pGEURTDH3F9wLnc83ZWZZ+vnOiwRb78Ujf6TwX+BUYFiOB/oFZRnFYKhQVtt73rCHQnx4YhA+T3HiQS43AeONf1+ykOSriVgdlcEjq3YT25O3y75cmwlnsAAJJLZCND6/648Zam2qmGalGWUT0qMr6j7KrCd74oCd8RdqkbCdmuEgVDSIxqI9fFZu9OuZNgLCFtwxrc+3KOQMeupBgrV5fziO1k3+ZwBq0OfrXMlcDVaepzGBVZl4vkMpO0b4vUF6ka7lT2pJ+Xj+gNRcgYaCjhiTnQDVYYp9OEo9CoFnBs2hrktPurWTt4tQmnlr6QACBRpQdM/cxU+J4562IzPRIgBxNLQZLjsis4GbNzRing==;8gEreeXXhURNUqh9obm1Lw=="
 ---

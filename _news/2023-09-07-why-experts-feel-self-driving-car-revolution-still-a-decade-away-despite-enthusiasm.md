@@ -68,6 +68,15 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 34
+  - title: "Tyson Foods Is Using Self-Driving Trucks. It’s a Start."
+    excerpt: "Food giant Tyson is deploying autonomous-trucking technology from start-up Gatik in a pilot test of cost and productivity."
+    publishedDateTime: 2023-09-06T13:26:00Z
+    webUrl: "https://www.barrons.com/articles/tyson-foods-chicken-self-driving-trucks-c1c7545e"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 4
 
 secured: "JDqMgLprZ3XJx5mH1iP3phS/6jW/cPojM0euYNl3IVzK+9GBMYHkVEtr+d22nVxXzz3CGy7sBmoKEB1j/SRMStdhw4NIZ56l+dLonCdcFQvUdWn/izVGMHXaMNLeW5p2WXw7Un8gspTaUF0jIn/2M3+/guCv0+muNgMnJtg1d6UD71u2sRhVS+0g+wfgQjpACIWwkNQR9jGTZB2iSPWNHFepasj/99xOZSrhez+D2Qt26Sp/6/YMKQN7CA709SOfmklf5biiiDzp72s76FR0HbLENkXrbRBIxU8tjCMwM9hoBfc9T45l+2vk9idyXnIhr3P5joCtNB72SYS848tydmk2rHqzweNObn7d9hDOiho=;S1CGmswxntmAc6e+i/38Tg=="
 ---

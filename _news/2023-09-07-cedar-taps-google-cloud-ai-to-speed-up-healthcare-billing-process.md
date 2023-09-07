@@ -89,6 +89,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Google Cloud Outpaces Competition with New Vertex AI Capabilities"
+    excerpt: "Google announced new features for its Vertex AI platform at Google Cloud Next, including new large language model support and extensions to manage model lifecycle."
+    publishedDateTime: 2023-09-07T18:09:00Z
+    webUrl: "https://www.forbes.com/sites/stevemcdowell/2023/09/07/google-cloud-outpaces-competition-with-new-vertex-ai-capabilities/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Google adding AI tools to cloud"
     excerpt: "Google's cloud clients will be able to access Meta's Llama 2 large language model, as well as AI startup Anthropic's Claude 2 chatbot, to customize with enterprise data for their own apps and services. The move, announced last week at Google's Next '23 ..."
     publishedDateTime: 2023-09-03T07:01:00Z

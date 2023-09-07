@@ -103,6 +103,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Google Cloud Outpaces Competition with New Vertex AI Capabilities"
+    excerpt: "Google announced new features for its Vertex AI platform at Google Cloud Next, including new large language model support and extensions to manage model lifecycle."
+    publishedDateTime: 2023-09-07T18:09:00Z
+    webUrl: "https://www.forbes.com/sites/stevemcdowell/2023/09/07/google-cloud-outpaces-competition-with-new-vertex-ai-capabilities/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "How Generative AI Helps This $3.5 Billion Startup Grow Faster"
     excerpt: "Launched in 2016 by former Tesla Chief Information Officer Jay Vijayan, Tekion employs roughly 3,000 people and has raised $451 million in venture capital - valuing the company at $3.5 billion the last time it raised capital in September 2021, according to Pitchbook."
     publishedDateTime: 2023-09-06T07:31:00Z

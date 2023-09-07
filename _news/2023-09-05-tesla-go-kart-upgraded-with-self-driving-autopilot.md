@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tesla Reduces Full Self-driving Beta Software Cost By $3,000"
-    excerpt: "Tesla charges an additional $6,000 for what it terms \"Enhanced Autopilot,\" which adds features such as assistance with parking."
-    publishedDateTime: 2023-09-03T03:29:00Z
-    webUrl: "https://www.republicworld.com/business-news/india-business/tesla-reduces-full-self-driving-beta-software-cost-by-3000-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/business-news/india-business/tesla-reduces-full-self-driving-beta-software-cost-by-3000-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/tesla-reduces-full-self-driving-beta-software-cost-by-3000-articleshow.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 59
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/hgaiywzswpxktqpt_1693711730.jpeg"
-        width: 768
-        height: 438
-        isCached: true
 
 secured: "5qSLT3Jnf+2zFNR9CrrGv6w+2csDyjbMcOmvqxy7pPeDNZ+dW3J/JLssFcSIagGzD5Q5cumXEkkjNZUEs1se/ZZW6SarpqCd+M2tfsvhVSLXoKx+cPZerkbFF8DvqFDNis+4j5zHNJqc8TZDK2oc77wAi4iYLjaFXOxXtlxXzhug98i/Y/tSExjyrCa/C8di2dIuQLAeMH1fpXVcN2rhmzAD6paSvzZZM5m7V7JVmaUjZNiDvxFe58Sfq1lQw6WkOZv3/EknoiX85D29TSND2zmUiNracrX5cnikc2e4iYhzXzRzMSj/PR6Kje3M2luVBcexPGAt4jOyEIjZPEur0fTZNTXRKJgECnesezoXuj9JIfuiI2U31IM3i/BHaO7IbPk5xObmxrcv/C5XGIQRut6GmxrBNv6ugDI/Dqw2QM1LxSghtk4OUaWB94YVLJ8uG5ZKbc4s11uSsuouDY429CQzjdPncmmvZT+SCWt1rM56xPBj+B7gqiKStcSH00NAZg2dAuc+7RA/MtTQQYzeJA==;oCncUk7eS9K2c1w0jPL7oA=="
 ---

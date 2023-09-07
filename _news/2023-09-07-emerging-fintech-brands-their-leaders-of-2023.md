@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Startup Battlefield 200: Fintech and Hardware edition at TC Disrupt 2003"
+    excerpt: "That’s where you’ll find the Startup Battlefield 200 ... without some cool hardware gadgets and robots. Early-stage startups are using their genius to create firefighting hardware, testing devices, a special AI-enabled machine that tells you exactly ..."
+    publishedDateTime: 2023-09-07T19:16:00Z
+    webUrl: "https://techcrunch.com/2023/09/07/startup-battlefield-200-fintech-and-hardware-edition-at-tc-disrupt-2003/"
+    ampWebUrl: "https://techcrunch.com/2023/09/07/startup-battlefield-200-fintech-and-hardware-edition-at-tc-disrupt-2003/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/07/startup-battlefield-200-fintech-and-hardware-edition-at-tc-disrupt-2003/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 75
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/04/SUB200-General-Article-Image-Header-1920x1080-1.png?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Meet the AI, fintech, SaaS and security industry chairs at TC Disrupt 2023"
     excerpt: "This dynamic conversation promises to empower tech enthusiasts and entrepreneurs with real-world strategies to implement AI effectively in their projects. Fintech Industry Chair: Nik Milanović Nik Milanović, general partner at the Fintech Fund ..."
     publishedDateTime: 2023-09-06T13:00:00Z
@@ -34,66 +50,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 66
-  - title: "New fintech targets AI product to scale sustainable finance in debt markets"
-    excerpt: "Company uses machine learning technology to render climate and sustainability credentials of bonds and issuers transparent and comparable, through a single access point"
-    publishedDateTime: 2023-09-07T14:34:00Z
-    webUrl: "https://www.ipe.com/news/new-fintech-targets-ai-product-to-scale-sustainable-finance-in-debt-markets/10068720.article"
-    type: article
-    provider:
-      name: IPE
-      domain: ipe.com
-    quality: 52
-    images:
-      - url: "https://d3ese01zxankcs.cloudfront.net/Pictures/1024x536/2/2/6/143226_aiapplicationsinfinancialservices_993008.jpg"
-        width: 533
-        height: 405
-        isCached: true
-  - title: "3 Fintech Stocks the Big Money Is Buying Now"
-    excerpt: "In the ever-evolving financial realm, fintech stocks with big money continue to grab investors’ attention. The fintech industry has undergone a radical shift, evolving into an epicenter of innovation,"
-    publishedDateTime: 2023-09-03T12:59:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-fintech-stocks-the-big-money-is-buying-now"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
-  - title: "4 big FinTech funding rounds in MENA in August 2023"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-09-06T07:56:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/4-big-fintech-funding-rounds-in-mena-in-august-2023/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/11/Funding.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "4 FinTech funding rounds that occurred in the MENA region in August 2023"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-09-06T07:35:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/4-fintech-funding-rounds-that-occurred-in-the-mena-region-in-august-2023/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 23
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/11/Funding.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Global Fintech Fest 2023: Fireside Chat - AI Helps Improve Efficiency, Lower Organizational Costs: Thomas Kurian"
-    excerpt: "AI helps financial institutions improve efficiency, change customer relationships and lower costs in the organization, said Thomas Kurian, CEO, Google Cloud. He was engaged in a fireside chat with Renny Thomas,"
-    publishedDateTime: 2023-09-06T18:33:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/09/06/9875536.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "F0aZ1WYBh4ftf+idrTDH/06jksoYMqkpG0LZEEQJxc3wOSgPehfYz5UuMWlxYHUD4z9trUCF3jnk/FTMlpCIrWcFa3sOZywztMrZg4Fbr3hPO5wfG24hoagbVYEf0cURmP2nSJyQKXUUPDNHUEenl45iLAwRDdQOtXY/0yi9wwhU/e7TkwLk2GgIuBiRni5VzbLMS58lvlZI0vCcnuer1WA68k2hiTBSFGf0hvyEDyJEBExyX27Tw08M/RCiqEndrHuuxwO8RryHwY4cGJhNhtA32nlr5cfKgAoqAaozwghUO9xamyQD3ZszTS78/YDgd+nsmu+tM9Vt4KSWQcWNdgSIrGf9edPM8S3CchDBv/0=;KjcrR3MF9lUhw+61a+iCmA=="
 ---

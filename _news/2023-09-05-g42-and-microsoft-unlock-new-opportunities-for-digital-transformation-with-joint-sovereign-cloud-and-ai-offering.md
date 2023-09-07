@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft says it will protect customers from AI copyright lawsuits"
+    excerpt: "Microsoft Corp. says it will defend buyers of its artificial intelligence products from copyright infringement lawsuits, an effort by the software giant to ease concerns customers might have about using its AI \"Copilots\" to generate content based on existing work."
+    publishedDateTime: 2023-09-07T20:40:00Z
+    webUrl: "https://techxplore.com/news/2023-09-microsoft-customers-ai-copyright-lawsuits.html"
+    ampWebUrl: "https://techxplore.com/news/2023-09-microsoft-customers-ai-copyright-lawsuits.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-microsoft-customers-ai-copyright-lawsuits.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/9-ai.jpg"
+        width: 1920
+        height: 1897
+        isCached: true
   - title: "Microsoft-Backed Startup D-Matrix To Compete With Nvidia In Bid For AI Dominance"
     excerpt: "The chips are down in the artificial intelligence (AI) market, and Nvidia Corporation’s (NASDAQ: NVDA) stronghold appears unshakeable."
     publishedDateTime: 2023-09-06T16:30:00Z
@@ -135,6 +151,15 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 36
+  - title: "Microsoft teams up with Paige on AI-powered cancer detection"
+    excerpt: "Microsoft has partnered with Paige on world's largest AI model for cancer detection. Paige has a wealth of data to train the said model that far exceeds data on Netflix. Shares of Microsoft Corp are currently up close to 40% versus the start of the year."
+    publishedDateTime: 2023-09-07T17:41:00Z
+    webUrl: "https://invezz.com/news/2023/09/07/microsoft-paige-ai-powered-cancer-detection/"
+    type: article
+    provider:
+      name: Invezz
+      domain: invezz.com
+    quality: 36
   - title: "Microsoft-backed AI startup d-Matrix raises $110 million"
     excerpt: "A chiplet is a smaller, modular block of semiconductors that contains a portion of the functionality of a larger chip Generative AI compute startup d-Matrix has successfully closed a $110 million Series-B funding round led by Singapore-based global ..."
     publishedDateTime: 2023-09-06T13:11:00Z
@@ -153,6 +178,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
+  - title: "Charlotte firm partners with Microsoft to leverage generative artificial intelligence"
+    excerpt: "Ally Financial Inc. is fully embracing generative AI after the launch of ChatGPT late last year unveiled the technology's revolutionary potential."
+    publishedDateTime: 2023-09-07T18:25:00Z
+    webUrl: "https://www.bizjournals.com/triad/news/2023/09/07/ally-bank-charlotte-generative-ai-microsoft.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 27
 
 secured: "HznZvaq7fsKMqJYxLr7xZzh6rtx5k3/PKcY0ierqNOvLELbELuipf+wsC5upBh6555uYlEBNqYCm5KZeiirnCGm7FKEE7YShVJ63TudDv+kC8scwyf8j1Pmd8+KLNnIIwMG5RmCzCV4wJbSrlOb+ipbtRWab8gfSagViXz88ZSPxZQgcV1LVr5oRTHs7yj9kTbqV5m//mRjUW56VLAbTXGWo+Dc+IU/QqyvR/CQAH6Qxn3ZVv+eGQKRuPopnVwauZzfuSrfaYtftCXpkvibeNBJpa8FdE15F7fPBz55EwU4cwcQJNQRByWUOBmZ4vFFvSawkGI/5ygVvqOj4Wx2ZJ95ObrrJ07GKvl2QzoBVZFc=;e2ZIwk9gaOt0jYawhXhPZw=="
 ---

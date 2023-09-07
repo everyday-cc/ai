@@ -41,6 +41,29 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "New fintech targets AI product to scale sustainable finance in debt markets"
+    excerpt: "Company uses machine learning technology to render climate and sustainability credentials of bonds and issuers transparent and comparable, through a single access point"
+    publishedDateTime: 2023-09-07T14:34:00Z
+    webUrl: "https://www.ipe.com/news/new-fintech-targets-ai-product-to-scale-sustainable-finance-in-debt-markets/10068720.article"
+    type: article
+    provider:
+      name: IPE
+      domain: ipe.com
+    quality: 52
+    images:
+      - url: "https://d3ese01zxankcs.cloudfront.net/Pictures/1024x536/2/2/6/143226_aiapplicationsinfinancialservices_993008.jpg"
+        width: 533
+        height: 405
+        isCached: true
+  - title: "3 Fintech Stocks the Big Money Is Buying Now"
+    excerpt: "In the ever-evolving financial realm, fintech stocks with big money continue to grab investors’ attention. The fintech industry has undergone a radical shift, evolving into an epicenter of innovation,"
+    publishedDateTime: 2023-09-03T12:59:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-fintech-stocks-the-big-money-is-buying-now"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
   - title: "Relevantz: Driving fintech innovation with Fiserv"
     excerpt: "Senior Director of Client Success at Relevantz, Georgie John, traces his time at the service provider and the importance of its partnership with Fiserv"
     publishedDateTime: 2023-09-04T14:31:00Z
@@ -68,6 +91,34 @@ related:
       - url: "https://barchart-news-media-prod.aws.barchart.com/FC/8dd204abcbccfff5bcdbe02efb4f1179/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f743336%252ffintech-payment-app-hands-smartphone.jpg%26amp%3Bw%3D700"
         width: 2374
         height: 1263
+        isCached: true
+  - title: "4 big FinTech funding rounds in MENA in August 2023"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-09-06T07:56:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/4-big-fintech-funding-rounds-in-mena-in-august-2023/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/11/Funding.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "4 FinTech funding rounds that occurred in the MENA region in August 2023"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-09-06T07:35:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/4-fintech-funding-rounds-that-occurred-in-the-mena-region-in-august-2023/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 23
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/11/Funding.jpg"
+        width: 300
+        height: 300
         isCached: true
   - title: "Indian fintech firms using AI to detect money laundering: Kiya.ai MD Rajesh Mirjankar"
     excerpt: "Talking to ANI during the ongoing Global Fintech Fest 2023 in Mumbai, Rajesh Mirjankar, Managing Director of Kiya.ai, an innovative digital solutions service provider, said that investigation patterns of investigative agencies and government institutions have changed with technology transformations."

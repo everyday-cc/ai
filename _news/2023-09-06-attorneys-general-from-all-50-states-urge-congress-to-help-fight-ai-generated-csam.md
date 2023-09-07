@@ -66,6 +66,31 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Search engines required to stamp out AI-generated images of child abuse under Australia’s new code"
+    excerpt: "Exclusive: eSafety Commissioner says companies must work on building tools to promote greater online safety, including detecting deep fake images"
+    publishedDateTime: 2023-09-07T19:00:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/sep/08/search-engines-required-to-stamp-out-ai-generated-images-of-child-abuse-under-australias-new-code"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/sep/08/search-engines-required-to-stamp-out-ai-generated-images-of-child-abuse-under-australias-new-code"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/sep/08/search-engines-required-to-stamp-out-ai-generated-images-of-child-abuse-under-australias-new-code"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 43
+    images:
+      - url: "https://i.guim.co.uk/img/media/29c483ff236461b51ae1d495b265d380467d1dae/0_0_5827_3877/master/5827.jpg?width=620&quality=85&auto=format&fit=max&s=8e101a37894f6ed4697f59004b645097"
+        width: 620
+        height: 413
+        isCached: true
+  - title: "Crafting persuasion: mastering compelling arguments in the age of AI and the video generation"
+    excerpt: "Stratton Horres and Karen L. Bashor of Wilson Elser provide tips on combining AI and video evidence with the human connection in trial presentations, and opening and closing arguments."
+    publishedDateTime: 2023-09-07T17:29:00Z
+    webUrl: "https://www.reuters.com/legal/legalindustry/crafting-persuasion-mastering-compelling-arguments-age-ai-video-generation-2023-09-07/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 36
   - title: "NC attorney general, other AGs call for crackdown on artificial intelligence threats to children"
     excerpt: "N.C. Attorney General Josh Stein and 53 other AGs are calling on Congress to crack down on artificial intelligence, citing possible harm to children through \"deepfake\" images."
     publishedDateTime: 2023-09-06T18:28:00Z

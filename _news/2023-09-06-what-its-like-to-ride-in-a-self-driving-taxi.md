@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/GMA/Living/ride-driving-taxi/story?id=102
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/GMA/Living/ride-driving-taxi/story?id=102927242"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "What to do if you're in a crash with a self-driving car: VERIFY"
+    excerpt: "A self-driving taxi company called Cruise was testing out its fleet of vehicles here in the Queen City. But what happens if you get in an accident in their car?"
+    publishedDateTime: 2023-09-04T12:42:00Z
+    webUrl: "https://www.wfmynews2.com/article/news/verify/cruise-taxi-driverless-charlotte-nc-tech-company/275-9de00d9c-c105-40bb-94b3-227cc0fdef11"
+    ampWebUrl: "https://www.wfmynews2.com/amp/article/news/verify/cruise-taxi-driverless-charlotte-nc-tech-company/275-9de00d9c-c105-40bb-94b3-227cc0fdef11"
+    cdnAmpWebUrl: "https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/news/verify/cruise-taxi-driverless-charlotte-nc-tech-company/275-9de00d9c-c105-40bb-94b3-227cc0fdef11"
+    type: article
+    provider:
+      name: WFMY News2
+      domain: wfmynews2.com
+    quality: 44
+    images:
+      - url: "https://media.wfmynews2.com/assets/WCNC/images/a7f9ed20-5735-443f-aee0-fd42c74969b5/a7f9ed20-5735-443f-aee0-fd42c74969b5_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "More self-driving cars are coming to Austin"
     excerpt: "The mayors of Austin and Tuscaloosa made a barbecue bet on this weekend's big game between Texas and Alabama. Mayor Kirk Watson will put up Central Texas BBQ from Micklethwait Craft Meat. Tuscaloosa Mayor Walt Maddox will wager a spread from Dreamland BBQ."
     publishedDateTime: 2023-09-07T14:34:00Z
@@ -41,15 +57,6 @@ related:
         width: 396
         height: 202
         isCached: true
-  - title: "Tyson Foods Is Using Self-Driving Trucks. It’s a Start."
-    excerpt: "Food giant Tyson is deploying autonomous-trucking technology from start-up Gatik in a pilot test of cost and productivity."
-    publishedDateTime: 2023-09-06T13:26:00Z
-    webUrl: "https://www.barrons.com/articles/tyson-foods-chicken-self-driving-trucks-c1c7545e"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 4
 
 secured: "An7DsS0Ijv1tcIUj4J4Bje3wWMkNYNjW8sy3uprpLW8asQvU8tBqFiOYbXYtN5w0RjOqas/i4QG3I55Ytxct6EfpVQs96EeeXVOGRXPQE+gcToxomEmn6o7M501c+pjHIbeyF0DIxE8lgjMQyFaFsBD2Z9Ypk2odz3tYk1Lp1cLs16FDSZSKxaNDw6gdrgnUYItm2jPjaek1TbtV/an6NzlxPBBw+CcNqQ4s9K8aQ9dwE0FGM60DQQ2nWaeWkxKuA95masiaTElddbxAgJ7pxgIDaa1sj4cFsfxqxGM1YA2KZbrWl2EgBaVtFFbYmrV9B4Q3hTG87zO1K9LRKYpDkx2OYOdRG50uOvqw/6bgS9UBQtE+xy+G8FL6FOND+KiyKx/fvheA6mGPEwWIPtcZXVfueMOQXghnd1zBvjz8uNxiyaVAMCtEieqv1uA04YDAq8alrQg1SuTZt60VJLjFHNilBRs0ID83b+O32R/44EKmbe3HEnGZ/WtHO2aRBKi5O8afpGma/kMOtW7z9jXIQg==;ooqDosGVWYy2FADVktVbKQ=="
 ---

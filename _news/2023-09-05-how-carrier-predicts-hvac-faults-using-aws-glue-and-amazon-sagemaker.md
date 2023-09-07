@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/how-carrier-predicts
 webUrl: "https://aws.amazon.com/blogs/machine-learning/how-carrier-predicts-hvac-faults-using-aws-glue-and-amazon-sagemaker/"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -108,6 +108,15 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Optimize equipment performance with historical data, Ray, and Amazon SageMaker"
+    excerpt: "In this post, we will build an end-to-end solution to find optimal control policies using only historical data on Amazon SageMaker using Ray’s RLlib library. To learn more about reinforcement learning, see Use Reinforcement Learning with Amazon SageMaker."
+    publishedDateTime: 2023-09-07T18:31:07Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/optimize-equipment-performance-with-historical-data-ray-and-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 65
 
 secured: "VIqW4J7EqVwDBK+ojMJAJPmB5nZH5MQQu1SP4rXJrVIgF12tlIfXcCur6rIZ+BRf4AM47LH7nyFHc5GtSGLcmHi+ukBtbwPjCC2dSaa3aUgjr8RUxbUBEkDTMfO0GZm8PUwx1jrHbqmXxdQUgzoMBcNojfxoV6VsU+sKw0ZBKfMTWyDRrbOBi4ajcR/nfb0GRH/TN9NsoYhgSYelzROzgJIZ9i7+M7slml0mk2Z/nnmkbiDtcPnyzta0DIG3wkkIa1bblWGkLezVz3gaAzmbLah+hfiio1X3LHv3QqQ+MOQ34pdJ27hGvizn2HTT4lXuLl+QP0w1Yr9A6dQD5AapvqqYA1DNF8V00XBYrHLFhtg=;yM5TyJEjL8EeQyNkrT3SZg=="
 ---

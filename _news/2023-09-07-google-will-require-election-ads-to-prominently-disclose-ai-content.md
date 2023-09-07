@@ -70,6 +70,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Experts Discuss AI at the Google Cloud Conference"
+    excerpt: "Get insights from Google Cloud Next 2023 experts on the latest trends in AI. Learn about the advancements in AI."
+    publishedDateTime: 2023-09-07T18:21:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/google-cloud-next-2023-experts-discuss-ai/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 49
   - title: "AI used to alter imagery or sounds in political ads will require prominent disclosure on Google"
     excerpt: "(AP) - Google will soon require that political ads using artificial intelligence be accompanied by a prominent disclosure if imagery or sounds have been synthetically altered."
     publishedDateTime: 2023-09-07T15:42:00Z
@@ -101,6 +110,31 @@ related:
       - url: "https://gray-kvly-prod.cdn.arcpublishing.com/resizer/pmOpEdMYw3H1AAI83tNcEdNYoVc=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/MSLIYIH6VJBOFGCSZHBHJZGS2I.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Google to require political ads to reveal if they're AI-generated"
+    excerpt: "AI-generated political ads that appear on a Google platform must disclose to users if they contain 'synthetic' content."
+    publishedDateTime: 2023-09-07T18:22:00Z
+    webUrl: "https://www.zdnet.com/article/google-to-require-political-ads-to-reveal-if-theyre-ai-generated/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
+  - title: "AI that alters voice and imagery in political ads will require disclosure on Google and YouTube"
+    excerpt: "Political ads using artificial intelligence on Google and YouTube must soon be accompanied by a prominent disclosure if imagery or sounds have been synthetically altered"
+    publishedDateTime: 2023-09-07T17:10:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ai-alter-imagery-sounds-political-ads-require-prominent-102992666"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ai-alter-imagery-sounds-political-ads-require-prominent-102992666"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ai-alter-imagery-sounds-political-ads-require-prominent-102992666"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 45
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
 
 secured: "bIMpSd+c72gJURdDlTAN2Nzfq2Ww9blCLahX4KUaCqp0UXgduKNZgp3XK3ywJzQc6vXagnJgDBJaguEauhrFHMAmyTc20OEXDFdXc3orUu2Y8ggqYb8EbnZi9/rQTVmxREYzxtHzfux/ucgQXailmKSRvIjUrYfJHcwqRpuV90InBR1pVsRp7BC5cQ85BRebOKsgmxLu5LxzUshU9xVZYm4L1jCCn7cu953ac+lL0Boh9/X/utonHv1zXzjKhWuf3K+7wcV5hZM4aJzYvlcdPg1y4p9+GnHdLWtoxGom7QTG7ZZ5mfq0gvLuVBufcgl4crO+VJXvaqz1UlFIwd5FcFLrq3bLfgB4jce528/3YTmOeSP3OLQgcAwYZS28Rh86DYN267yfDSTasGdqvmD0KL9a7hRXTRpQxxVorxhYYApS8jygnf8sS31P8J2xBfxlYVnstutIt5e87pw8S8OmCEDGBO20tSkbNdPC4+gNRYQUIAIWrsVsLw+s9xFKxZJ0yJA5lVvBLoEUKtEYO/OSkw==;VLOhKbmHNA0COKbt/Ij15Q=="

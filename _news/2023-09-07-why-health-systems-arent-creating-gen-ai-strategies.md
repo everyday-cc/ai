@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/innovation/why-health-system
 webUrl: "https://www.beckershospitalreview.com/innovation/why-health-systems-arent-creating-gen-ai-strategies.html"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -19,14 +19,14 @@ topics:
 
 related:
   - title: "AVIA’s National Generative AI Collaborative Announces New Experts, Enhanced Health System Participation"
-    excerpt: "The Generative AI Strategic Collaborative reveals a slate of 10 clinical, ethics, technology, and regulatory experts for its national"
-    publishedDateTime: 2023-09-07T17:29:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/avia-s-national-generative-ai-collaborative-announces-new-experts-enhanced-health-system-participation-1032614011"
+    excerpt: "The Generative AI Strategic Collaborative reveals a slate of 10 clinical, ethics, technology, and regulatory experts for its national consortium"
+    publishedDateTime: 2023-09-07T17:04:00Z
+    webUrl: "https://www.miamiherald.com/press-releases/article279063044.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 35
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 3
 
 secured: "Xf+BSPMH563l5VxwlfEZ+horeEbDKvi1XzAEQWVV6wd4/StHuwpXlBf1elXM7urVtQhHuIkjNJx9wO2obioU0ZFnTD3OT1FeYePkk1/TVX1EhDssL+Ef89e6k5nlyBXXDSC/joBVoSW7h/Dlq1JZUFRgV6Uymd3W3NiMEhCA1diRml/iyIFYJCchLSr02As6nVRnKuJSLLl9hAeK7iKTVjeFuU8W115uB85ISgHAUtu3d09R4JKpiTCKEr7Eus6HGQlxofUDD22DCqViBSqTLrUjL2ijOfrlCdky4lcQTL+ajyuav9Vcm4mkqd3LQGc6X0uyhBbD2aMYA7XWc73PF+rCol38LQ9zuHCOLE2J+3I=;kY6SxBxzYvsKdnjHbcWX2g=="
 ---
