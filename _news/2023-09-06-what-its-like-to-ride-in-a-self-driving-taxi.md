@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "More self-driving cars are coming to Austin"
+    excerpt: "The mayors of Austin and Tuscaloosa made a barbecue bet on this weekend's big game between Texas and Alabama. Mayor Kirk Watson will put up Central Texas BBQ from Micklethwait Craft Meat. Tuscaloosa Mayor Walt Maddox will wager a spread from Dreamland BBQ."
+    publishedDateTime: 2023-09-07T14:34:00Z
+    webUrl: "https://www.kxan.com/video/more-self-driving-cars-are-coming-to-austin/8966813/"
+    type: article
+    provider:
+      name: KXAN
+      domain: kxan.com
+    quality: 24
+    images:
+      - url: "https://www.kxan.com/wp-content/themes/nexstar/client/src/images/footer/nexstar-logo-white-nmg.png"
+        width: 396
+        height: 202
+        isCached: true
   - title: "Tyson Foods Is Using Self-Driving Trucks. It’s a Start."
     excerpt: "Food giant Tyson is deploying autonomous-trucking technology from start-up Gatik in a pilot test of cost and productivity."
     publishedDateTime: 2023-09-06T13:26:00Z

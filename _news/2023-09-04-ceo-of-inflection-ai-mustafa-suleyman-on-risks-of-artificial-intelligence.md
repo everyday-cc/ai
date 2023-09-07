@@ -27,15 +27,6 @@ related:
       name: Axios
       domain: axios.com
     quality: 19
-  - title: "Inflection AI co-founder Mustafa Suleyman: ‘Ban the use of AI in elections–right now’"
-    excerpt: "Free and fair elections are the foundation of American society–and next year’s are going to be the first of the generative AI era."
-    publishedDateTime: 2023-09-05T19:33:00Z
-    webUrl: "https://www.aol.com/finance/inflection-ai-co-founder-mustafa-163416358.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 10
   - title: "U.S. should use Nvidia’s powerful chips as a ‘chokepoint’ to force adoption of A.I. rules, DeepMind cofounder Mustafa Suleyman says"
     excerpt: "That makes the company’s products “an incredibly practical chokepoint that would allow the U.S. to impose itself on all other actors” in A.I., Mustafa Suleyman, cofounder of DeepMind and Inflection AI, told the Financial Times in an interview ..."
     publishedDateTime: 2023-09-04T14:07:00Z

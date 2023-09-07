@@ -722,6 +722,50 @@
       ]
     },
     {
+      "path": "_news/2023-08-29-healthcare-natural-language-processing-market-poised-to-surge-to-us-185-billion-by-2033-fueled-by-impressive-180-cagr.md",
+      "title": "Healthcare Natural Language Processing Market Poised to Surge to US$ 18.5 Billion by 2033, Fueled by Impressive 18.0% CAGR",
+      "excerpt": "Healthcare Natural Language Processing Market is anticipated to culminate at approximately US$ 3.5 Billion by the culmination of 2023, the worldwide market is poised for a compelling trajectory, exhibiting a robust CAGR of 18.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fmiblog.com/2023/08/28/healthcare-natural-language-processing-market-poised-to-surge-to-us-18-5-billion-by-2033-fueled-by-impressive-18-0-cagr/",
+      "originalUrl": "https://www.fmiblog.com/2023/08/28/healthcare-natural-language-processing-market-poised-to-surge-to-us-18-5-billion-by-2033-fueled-by-impressive-18-0-cagr/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fmiblog.com/wp-content/uploads/2023/08/Healthcare-Natural-Language-Processing-Market.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-28T10:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Future Market Insights",
+        "domain": "fmiblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-08-28-revolutionising-healthcare-how-ai-is-transforming-radiology.md",
       "title": "Revolutionising Healthcare: How AI is transforming radiology",
       "excerpt": "The rapid advancement of Artificial Intelligence (AI) in radiology is set to revolutionise the healthcare sector, with experts predicting a surge in its application over the next decade.",
@@ -1315,49 +1359,6 @@
       "provider": {
         "name": "The Hindu",
         "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-how-artificial-intelligence-gave-a-paralyzed-woman-her-voice-back.md",
-      "title": "How Artificial Intelligence Gave a Paralyzed Woman Her Voice Back",
-      "excerpt": "A brain implant and digital avatar allow a paralyzed stroke survivor to speak with for first time in 18 years with the help of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ucsf.edu/news/2023/08/425986/how-artificial-intelligence-gave-paralyzed-woman-her-voice-back",
-      "originalUrl": "https://www.ucsf.edu/news/2023/08/425986/how-artificial-intelligence-gave-paralyzed-woman-her-voice-back",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ucsf.edu/sites/default/files/2023-08/bravo3-card-image.jpg",
-          "width": 1360,
-          "height": 905,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-16T15:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UC San Francisco",
-        "domain": "ucsf.edu",
         "images": null,
         "publishers": null,
         "authors": null

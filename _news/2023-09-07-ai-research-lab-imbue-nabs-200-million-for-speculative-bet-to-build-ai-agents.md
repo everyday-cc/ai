@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/alexkonrad/2023/09/07/ai-research-lab
 webUrl: "https://www.forbes.com/sites/alexkonrad/2023/09/07/ai-research-lab-imbue-nabs-200-million-for-speculative-bet-to-build-ai-agents/"
 type: article
 quality: 62
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: Forbes
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "AI Lab Imbue Gets $200M From Nvidia, Others; Hits $1B Valuation"
+    excerpt: "Imbue, a San Francisco-based AI research lab, has reached unicorn status with a massive Astera Institute-led $200 million Series B."
+    publishedDateTime: 2023-09-07T17:44:00Z
+    webUrl: "https://news.crunchbase.com/ai-robotics/new-ai-unicorn-imbue-astera-nvidia/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 41
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/AI-1.jpg"
+        width: 900
+        height: 506
+        isCached: true
 
 secured: "kfCTdgCpYhh0GDJTgREcwwx4EO8wsH9H5OCVNUHQJ1GCM2iOLnBsgP6cGjLi4CT3wkgX4aY4iKm1pIlHPJ2O3p1OrH2NvHk2hyLTeT9kM2G1wmQ//Y/+tKt1eLD+LFXOM8sdo2t3mnudrRSszK24mdpOgN8jRrMUF5wnU6mhjUPKWnq090MeTC4TnINgH8lwObKtValLB0yfU5vC80UW+zKKjIUWu0hbKxsnTdCh7We4qpbvqkwWnfzxCGPQgjXkOMSfudNPSiINNIwnTEsHy2/iaSy9MRRkpZ+ZDYxKdLlSn/+GrG98DJNXheOw+3IK48HrphcfTVafkopxtP6YJjGF82YMPwwEwX9Awr7x3+0=;IilsX5uyZTGNRU6hFyFFOg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/07/the-power-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/07/the-power-of-causal-models-in-moving-from-weak-to-strong-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 109
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI Startup Imbue Tops $1 Billion Valuation After Funding from Nvidia"
+    excerpt: "Imbue is focused on building custom AI agents capable of reasoning, with the goal of making users more productive."
+    publishedDateTime: 2023-09-07T17:33:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-09-07/ai-startup-imbue-tops-1-billion-valuation-after-funding-from-nvidia"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "The chilling rise of AI scams"
     excerpt: "Criminals are cloning voices and making calls to trick victims into sending them money. How can they be stopped?"
     publishedDateTime: 2023-09-04T01:00:00Z

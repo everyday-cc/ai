@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "China may be using AI to sway U.S. voters: Microsoft"
+    excerpt: "Microsoft researchers found Chinese-controlled AI-generated social media accounts attempting to influence U.S. voters. The campaign used generative AI to create content mimicking U.S. voters. Microsoft said the accounts had attempted to appear American and shared politically charged content."
+    publishedDateTime: 2023-09-07T16:17:00Z
+    webUrl: "https://www.thehindu.com/news/international/china-may-be-using-ai-to-sway-us-voters-microsoft/article67282161.ece"
+    ampWebUrl: "https://www.thehindu.com/news/international/china-may-be-using-ai-to-sway-us-voters-microsoft/article67282161.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/international/china-may-be-using-ai-to-sway-us-voters-microsoft/article67282161.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 76
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/6l78r5/article67282489.ece/alternates/FREE_1200/Europe_Microsoft_Investigation_20196.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft-Backed Startup D-Matrix To Compete With Nvidia In Bid For AI Dominance"
     excerpt: "The chips are down in the artificial intelligence (AI) market, and Nvidia Corporation’s (NASDAQ: NVDA) stronghold appears unshakeable."
     publishedDateTime: 2023-09-06T16:30:00Z
@@ -54,6 +70,22 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2023/09/06/d-matrix_logo.jpg?width=1200&height=800&fit=crop"
         width: 941
         height: 627
+        isCached: true
+  - title: "China, North Korea developing new strategies and targets for AI-powered operations, Microsoft warns"
+    excerpt: "Tech giant Microsoft is warning that artificial intelligence-powered threats to the U.S. public are being developed and rolled out by China and North Korea."
+    publishedDateTime: 2023-09-07T15:48:00Z
+    webUrl: "https://www.foxbusiness.com/technology/china-north-korea-developing-new-strategies-targets-ai-powered-operations-microsoft-warns"
+    ampWebUrl: "https://www.foxbusiness.com/technology/china-north-korea-developing-new-strategies-targets-ai-powered-operations-microsoft-warns.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/china-north-korea-developing-new-strategies-targets-ai-powered-operations-microsoft-warns.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 62
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/2ed80d18-1ffd-42d9-9777-73abfcde866a/2a6b44b0-ca46-43fd-817a-90d763c7a490/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Microsoft expands UAE's G42 partnership to include cloud, AI tools"
     excerpt: "\"With data privacy, security, and compliance as our core priorities, we have a unique opportunity to help organizations responsibly innovate,\" Microsoft Chief Commercial Officer Judson Althoff said"

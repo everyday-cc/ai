@@ -34,6 +34,34 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Argo AI founders launch autonomous trucking startup Stack AV"
+    excerpt: "Stack AV, an autonomous trucking startup based in Pittsburgh, PA, has announced the launch of its autonomous trucking business."
+    publishedDateTime: 2023-09-07T16:18:00Z
+    webUrl: "https://www.therobotreport.com/argo-ai-founders-launch-autonomous-trucking-startup-stack-av/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 69
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2023/09/stackAV-featured.jpg"
+        width: 770
+        height: 500
+        isCached: true
+  - title: "Self-driving truck startup launches in Pittsburgh"
+    excerpt: "Almost a year after Argo AI closed its doors in Pittsburgh’s Strip District, the founders of that autonomous vehicle startup have embarked on a new venture focusing on self-driving trucks. Called Stack AV,"
+    publishedDateTime: 2023-09-07T16:29:00Z
+    webUrl: "https://triblive.com/business/self-driving-truck-startup-launches-in-pittsburgh/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 24
+    images:
+      - url: "https://assets-varnish.triblive.com/2023/09/6548567_web1_stack-av.jpg"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "UaQ+ULkLSIXJ0Uy9bloFhS9SkLEV51NzMah/IgpuNqBlrRQ739NRDnsoe/LsWwHJaV+Zhrryq9qlKLWXpSPNX+ICRY36qan77TF5OIw2RKlsXnhC8hAVAjPjXfxhikvT4wYZZYvYY2uAQxDnaC2/QxecipAZglYc0nhMsf9jxMpqYYTniaSNX7j1PUZeAaIRAxcnbJQ2vfJFpPH58+P770DAmy7D7nSYj0bTuCyOj5PTSykV8FIXtSeNoovgoHr6zjs4kzP2D0nq+TNR7VAQEcEjizaL+AmqmIVlqJ7IewxdJ2y7gQ91VhEfeoaSuci9S1j119b3r27qXqFGAIMeYKz6JHC8BTMqmAj5KXKllkuuG7+tc2jWeitDK2wODvpqhIySq9VHjYnsRt+UumlYlelL+WPao3S7jHbraMgaJI3sOdQNjBldRR9wNeoFQkKgzXxjWHNGYySn1QyP6nsFdFVgiDskZe2NJyuaizBgOjJtocovEhk0aNUW1dUnmLvWew2QwTnuAHvfo1v04ixZsg==;KIGT0F7raxFv7GSakzJyow=="
 ---

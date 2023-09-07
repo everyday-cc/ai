@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/rockwell-automation-acquiring-amr-d
 webUrl: "https://www.therobotreport.com/rockwell-automation-acquiring-amr-developer-clearpath-robotics/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -34,6 +34,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 23
+  - title: "Rockwell acquires firm that makes autonomous mobile robots"
+    excerpt: "Rockwell Automation agreed to acquire a Canadian company that makes autonomous mobile robots for industrial settings with model names including Warthog, Jackal, Dingo and Turtlebot."
+    publishedDateTime: 2023-09-07T15:42:00Z
+    webUrl: "https://www.bizjournals.com/milwaukee/inno/stories/news/2023/09/07/rockwell-acquires-clearpath-robotics-of-canada.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "PA4OU74OFOZwYNx19h3qaQ6tiNh094ezDuCu5a9YBjqtVgLSiuTLHY2rwdBjpCz/eSWQVCe8HZSE0mkhirZiCf57a85sxw2dKeKXb1VOl+Qe2iM4LfetXCV/lINXQbXdZon6O85NckWgVmPtUMticce0VlrXqZupKdtzgsGLNP4b86CYNsbuDfk34rTs0HxbEEFO0Pe8cTjTdOdEqGqrCOaHANTDRvAnBF97aQQXuXDuM5CWsugBvdPkYZ5j+COmfhZWtbYcMKvGhVSlNAmG3oSPVYG23Xk8CJUAAbDIqu8kZK7sntHwiZ2CnVFfLoeMZgpeL8doP/q3VxZmjr1T2nIM2bpX6tjKCRSpgmnOPI1PHhT5/GiEBLphBzpUrcamfIMDKc4R4bEmoSXBLF1Lnb1wVk1o+Nz03eEE+Dj7IDe+BLbEHAtqwqXnJ+JgJCb3Ya06qX5Wb160o4lRIW331RN48RI0vf53NerR4CbpeHd7uY5zXFzi4BdR3HnfFmEGC33e7hMuhxir3o1GNkO7JA==;LOV1fUvSugK1XhpycyQMPQ=="
 ---

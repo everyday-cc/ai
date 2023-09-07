@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/artificial-intelligence/conversational-ai-pl
 webUrl: "https://www.eweek.com/artificial-intelligence/conversational-ai-platforms/"
 type: article
 quality: 71
-heat: 93
+heat: 91
 published: true
 
 provider:

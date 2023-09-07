@@ -72,6 +72,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Best practices and design patterns for building machine learning workflows with Amazon SageMaker Pipelines"
+    excerpt: "In this post, we provide some best practices to maximize the value of SageMaker Pipelines and make the development experience seamless. We also discuss some common design scenarios and patterns when building SageMaker Pipelines and provide examples for addressing them."
+    publishedDateTime: 2023-09-07T17:54:33Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/best-practices-and-design-patterns-for-building-machine-learning-workflows-with-amazon-sagemaker-pipelines/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 88
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/31/featured-images-ML-13407-1120x630.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Build a secure enterprise application with Generative AI and RAG using Amazon SageMaker JumpStart"
     excerpt: "In this post, we build a secure enterprise application using AWS Amplify that invokes an Amazon SageMaker JumpStart foundation model, Amazon SageMaker endpoints, and Amazon OpenSearch Service to explain how to create text-to-text or text-to-image and Retrieval Augmented Generation (RAG). You can use"
     publishedDateTime: 2023-09-06T18:01:44Z

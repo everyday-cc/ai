@@ -46,6 +46,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Google to Require Political Ads to Disclose If They Are AI-Generated"
+    excerpt: "The company rolls out the policy as some US political groups have sponsored AI-generated ads for the upcoming election season."
+    publishedDateTime: 2023-09-07T17:03:00Z
+    webUrl: "https://www.pcmag.com/news/google-to-require-political-ads-to-disclose-if-they-are-ai-generated"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/03WwWLDQGzRHmNCIO7S4lYY-1.fit_lim.size_1200x630.v1694099631.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "AI used to alter imagery or sounds in political ads will require prominent disclosure on Google"
     excerpt: "(AP) - Google will soon require that political ads using artificial intelligence be accompanied by a prominent disclosure if imagery or sounds have been synthetically altered."
     publishedDateTime: 2023-09-07T15:42:00Z
@@ -59,6 +73,22 @@ related:
     quality: 47
     images:
       - url: "https://gray-wwsb-prod.cdn.arcpublishing.com/resizer/0fvrw_eCnvDh0Gck22UJeFUp0bk=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/XLKFL55KTFH4HEAJ2NOMY7XY3I.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "AI used to alter imagery or sounds in political ads will require prominent disclosure on Google"
+    excerpt: "(AP) - Google will soon require that political ads using artificial intelligence be accompanied by a prominent disclosure if imagery or sounds have been synthetically altered."
+    publishedDateTime: 2023-09-07T17:42:00Z
+    webUrl: "https://www.valleynewslive.com/2023/09/07/ai-used-alter-imagery-or-sounds-political-ads-will-require-prominent-disclosure-google/"
+    ampWebUrl: "https://www.valleynewslive.com/2023/09/07/ai-used-alter-imagery-or-sounds-political-ads-will-require-prominent-disclosure-google/?outputType=amp"
+    cdnAmpWebUrl: "https://www-valleynewslive-com.cdn.ampproject.org/c/s/www.valleynewslive.com/2023/09/07/ai-used-alter-imagery-or-sounds-political-ads-will-require-prominent-disclosure-google/?outputType=amp"
+    type: article
+    provider:
+      name: Valley News Live
+      domain: valleynewslive.com
+    quality: 47
+    images:
+      - url: "https://gray-kvly-prod.cdn.arcpublishing.com/resizer/pmOpEdMYw3H1AAI83tNcEdNYoVc=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/MSLIYIH6VJBOFGCSZHBHJZGS2I.jpg"
         width: 800
         height: 450
         isCached: true
@@ -77,6 +107,6 @@ related:
         height: 377
         isCached: true
 
-secured: "wgIx84ZDbe3Y09dNv9IOfCqbr8PZJS/G2g16RiofOjfUasojN2xSRxcOSc+R/16onxT0XYp01elpzl4GBFOmoYltM21Wq7R3EYqOcnlkBdZDz0VttMzh6VOssf0mq3Lvs2o9OgSf0fFBKawyelL4KCoqJFAF4LsdpLRBimc5TmS9LG0GxhRu+qIR9A7PAJTfCoV27L0vXchat9C2v9fi85SkO4jyq5bsk3KrQfrDE3u9YjMgiJBS+RXJjZqTKsrKjBTWGUbYjJbY9VdqMEfx6jCEix8aGHifszd6DkQBar6gMEsUGewxmATc2QYoTywCjWq6W1gy1FURkz7MLWfhG4WeL6vffUKtBWrtCB4DPyk=;VdpHTN1z5hVG3TUHKo01aQ=="
+secured: "zqBkFoliicAqPkFbNL00WmZaMYjrgechXDglFR27JKuEyOOKYre2PrErpYbmqHfZ7K1doZY3VoOTfpWdVgPFW/0l3NaVHNDUWL7zTTpvm033yEdZj+EZ8PoJIuAiY/A2Dt5PJcHAYBugTkBlHoggr+DJkX/eZangTgCw7kIvGnjYsqeqDNfgIh8+zebzqJq9gYwZtYG4lS4vcN+eNdM2H+lvxG4Y1i2lFiFg/z3TX8knssSaxNK7FmxAXjEFMpEN+IzfSvvYucqBHJASFKgM2SN+DrT9z3PiHaXk4UoDh0H6Jd8lgjQYoWiqExtn9mJWGytD7H6+/grUpaSoaXP0ESl0Ki6mw+xXyslEpQxZ9nCPsm3iljOeO75igx5R2jbBmk3uiEquXy0OnCqoMTzBXdrTfS6p/AkrlGfPRp6NDjmRKlkAw3fDN6NDfmt1hLJYbiqLjtuMLZ5AvOC4WvljXcH1OvWqjNiBZ709u75XVYYr+6jCpNevlm8IFTxdWuSSJy2qawRuWfVL79v2A/YyXg==;yTsfs5t4luCVYUFIq6fZEg=="
 ---
 

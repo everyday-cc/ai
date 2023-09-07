@@ -10,7 +10,7 @@
       "originalUrl": "https://techcrunch.com/2023/09/07/softbank-group-backs-former-argo-ai-founders-on-new-self-driving-trucks-startup/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -41,6 +41,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-07-hawaiis-workforce-and-the-emergence-of-artificial-intelligence.md",
+      "title": "Hawaiʻi’s workforce and the emergence of artificial intelligence",
+      "excerpt": "With restaurants on Oʻahu utilizing AI for service-related work and lots of other businesses utilizing ChapGPT for any number of writing related needs, the emergence of AI in Hawaii is inevitable.",
+      "sourceUrl": null,
+      "webUrl": "https://www.khon2.com/local-news/hawaiʻis-workforce-and-the-emergence-of-artificial-intelligence/",
+      "originalUrl": "https://www.khon2.com/local-news/hawaiʻis-workforce-and-the-emergence-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.khon2.com/wp-content/uploads/sites/8/2023/09/GettyImages-1432540662.jpg?w=1280",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.khon2.com/local-news/hawai%ca%bbis-workforce-and-the-emergence-of-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-khon2-com.cdn.ampproject.org/c/s/www.khon2.com/local-news/hawai%ca%bbis-workforce-and-the-emergence-of-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-09-07T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KHON2",
+        "domain": "khon2.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1341,49 +1384,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-baidu-becomes-first-in-china-to-offer-driverless-airport-rides.md",
-      "title": "Baidu Becomes First in China to Offer Driverless Airport Rides",
-      "excerpt": "Baidu has launched driverless airport transportation services in Wuhan, becoming China's first-ever provider of autonomous rides to and from airports. - As the world's largest autonomous driving ride-hailing service provider, Baidu stands as the sole ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/n34045931/baidu-becomes-first-in-china-to-offer-driverless-airport-rides",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/n34045931/baidu-becomes-first-in-china-to-offer-driverless-airport-rides",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34045931",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34045931",
-      "publishedDateTime": "2023-08-25T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

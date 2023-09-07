@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI Startup Imbue Tops $1 Billion Valuation After Funding from Nvidia"
+    excerpt: "Imbue is focused on building custom AI agents capable of reasoning, with the goal of making users more productive."
+    publishedDateTime: 2023-09-07T17:33:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-09-07/ai-startup-imbue-tops-1-billion-valuation-after-funding-from-nvidia"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
 
 secured: "IyP0Z3BdA+6wI0wA8qN8By+j6yRuMwaJHkn2U6OQTFL3Fyv+WG53DAjlexeOfFYAKFYXnOKIHdD7+wpxaaFTfNfx4H9JeLFOkCsDOhKTdmHJIi+65S5uvSQgpVDwtLLrJOm7OxaT/S4keNwHok0wGivDm5riuxxvqVy3wXiPr8uvaISHcWM8edk0JQh/YIysfFuhQnTdDCTiX3ng4rwpbiTMBvU5ThUjXdK2V3DJKmNNtoH8MVfRxDQL/VrJWbU/Owf+8mCJIi+wypQkqGvv64mvTASoZF8Ug24iIhbemGhnXD2kjXKIAkHD9oMqXaAo7VXr2cvhJtJJTR/5yMyzz2GZQBjfHqOn1WoBwPcPq0c=;pn/WlctMTBtxjw7/MYnenA=="
 ---

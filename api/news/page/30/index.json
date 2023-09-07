@@ -2,6 +2,317 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2023-08-16-def-con-generative-ai-hacking-challenge-explored-cutting-edge-of-security-vulnerabilities.md",
+      "title": "DEF CON Generative AI Hacking Challenge Explored Cutting Edge of Security Vulnerabilities",
+      "excerpt": "Data from the human vs. machine challenge could provide a framework for government and enterprise policies around generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/def-con-hackers-generative-ai/",
+      "originalUrl": "https://www.techrepublic.com/article/def-con-hackers-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/08/tr081523-def-con-hackers-generative-ai.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-15T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-08-16-diligent-launches-ai-ethics-board-oversight-certification-for-corporate-directors-and-executives.md",
+      "title": "Diligent Launches AI Ethics & Board Oversight Certification for Corporate Directors and Executives",
+      "excerpt": "Diligent, a leading GRC SaaS company, today announced its AI Ethics & Board Oversight Certification for corporate directors and executives. The pr",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20230815700706/en/Diligent-Launches-AI-Ethics-Board-Oversight-Certification-for-Corporate-Directors-and-Executives/",
+      "originalUrl": "https://www.businesswire.com/news/home/20230815700706/en/Diligent-Launches-AI-Ethics-Board-Oversight-Certification-for-Corporate-Directors-and-Executives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-15T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-15-microsoft-king-of-ai-in-software-and-services.md",
+      "title": "Microsoft: King Of AI In Software And Services",
+      "excerpt": "The partnership with OpenAI has allowed Microsoft to integrate GPT-4 models into most of its products and services, giving it a competitive edge. We believe Microsoft leads the Software and Cloud ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4628595-microsoft-king-of-ai-in-software-and-services",
+      "originalUrl": "https://seekingalpha.com/article/4628595-microsoft-king-of-ai-in-software-and-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1408775753/image_1408775753.jpg?io=getty-c-w1536",
+          "width": 1536,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-15T09:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-15-artificial-intelligence-cegep-teachers-want-training.md",
+      "title": "Artificial intelligence:: CEGEP teachers want training",
+      "excerpt": "With artificial intelligence becoming increasingly prevalent, CEGEP professors and lecturers need training in the field, said CSN president Caroline Senneville.",
+      "sourceUrl": null,
+      "webUrl": "https://montreal.ctvnews.ca/artificial-intelligence-cegep-teachers-want-training-1.6520040",
+      "originalUrl": "https://montreal.ctvnews.ca/artificial-intelligence-cegep-teachers-want-training-1.6520040",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/local/montreal/2023/8/15/1_6520040/_jcr_content/root/responsivegrid/image.coreimg.jpg",
+          "width": 1020,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/montreal/2023/8/15/1_6520040.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/montreal/2023/8/15/1_6520040.amp.html",
+      "publishedDateTime": "2023-08-15T09:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-15-h2oai-achieves-soc2-type-2-hipaahitech-report.md",
+      "title": "H2O.ai Achieves SOC2 Type 2 +HIPAA/HITECH Report",
+      "excerpt": "H2O.ai Achieves SOC2 Type 2 +HIPAA/HITECH Report - Reinforcing Commitment to Data Security and Customer Trust (Graphic: AICPA) H2O.ai's Chief Information Security Officer (CISO), David Epperson, expressed his pride in the team's accomplishment,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/h2o-ai-achieves-soc2-type-2-hipaa-hitech-report/article_1ab7f8f6-1e43-589d-a37e-bb30a6ee7671.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/h2o-ai-achieves-soc2-type-2-hipaa-hitech-report/article_1ab7f8f6-1e43-589d-a37e-bb30a6ee7671.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/c/28/c280439b-13bb-5dfc-9f65-a08ba10ae4b1/64dba337f4165.image.jpg?crop=802%2C421%2C0%2C190&resize=802%2C421&order=crop%2Cresize",
+          "width": 802,
+          "height": 421,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-15T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-15-learn-as-you-search-and-browse-using-generative-ai.md",
+      "title": "Learn as you search (and browse) using generative AI",
+      "excerpt": "New updates to Search Generative Experience (SGE) help people easily learn new things and understand key concepts while searching online.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/search/google-search-generative-ai-learning-features/",
+      "originalUrl": "https://blog.google/products/search/google-search-generative-ai-learning-features/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search-Back-to-School-2.width-1300.jpg",
+          "width": 1300,
+          "height": 543,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/search/google-search-generative-ai-learning-features/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/google-search-generative-ai-learning-features/amp/",
+      "publishedDateTime": "2023-08-15T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-15-kneron-to-release-ai-chip-this-year.md",
+      "title": "Kneron to release AI chip this year",
+      "excerpt": "In the world of generative AI, it’s a battle of computing power and getting the fastest and most powerful chips. Now, AI edge company Kneron announced it will ship its new neural processing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/8/15/23832152/kneron-release-ai-chip-npu",
+      "originalUrl": "https://www.theverge.com/2023/8/15/23832152/kneron-release-ai-chip-npu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-15T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-15-tomahawk-robotics-to-provide-radio-agile-integrated-devices-raid-systems-to-the-united-states-marine-corps-for-infantry-battalion-exercise.md",
       "title": "Tomahawk Robotics to Provide Radio Agile Integrated Devices (RAID) Systems to the United States Marine Corps for Infantry Battalion Exercise (IBX)",
       "excerpt": "Tomahawk Robotics is pleased to announce that ADS Inc. has been awarded a $3.5 million delivery order of RAID systems by DLA Troop Support, on behalf of Marine Corps",
@@ -837,334 +1148,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-the-bold-promise-of-mega-personas-as-a-new-shake-up-for-prompt-engineering-generative-ai-techniques.md",
-      "title": "The Bold Promise Of Mega-Personas As A New Shake-Up For Prompt Engineering Generative AI Techniques",
-      "excerpt": "A rising technique in prompt engineering for generative AI consists of invoking mega-personas, a step upward for ordinary multi-personas. Here's how it works and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/08/15/the-bold-promise-of-mega-personas-as-a-new-shake-up-for-prompt-engineering-generative-ai-techniques/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/08/15/the-bold-promise-of-mega-personas-as-a-new-shake-up-for-prompt-engineering-generative-ai-techniques/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64da94ace7c7bdc557635ebc/0x0.jpg?format=jpg&crop=2808,1909,x365,y206,safe&width=1200",
-          "width": 1200,
-          "height": 816,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/08/15/the-bold-promise-of-mega-personas-as-a-new-shake-up-for-prompt-engineering-generative-ai-techniques/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/08/15/the-bold-promise-of-mega-personas-as-a-new-shake-up-for-prompt-engineering-generative-ai-techniques/amp/",
-      "publishedDateTime": "2023-08-15T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-state-study-risk-of-facial-recognition-in-schools-may-outweigh-benefits.md",
-      "title": "State study: Risk of facial recognition in schools may outweigh benefits",
-      "excerpt": "A New York State report says the risks of using facial recognition technology in schools may outweigh the benefits. Jim Schultz, a Lockport parent who raised the alarm when he learned the school ...",
-      "sourceUrl": null,
-      "webUrl": "https://buffalonews.com/news/local/education/state-study-risk-of-facial-recognition-in-schools-may-outweigh-benefits/article_a8160f12-384d-11ee-b8e6-a769a7ccdc9a.html",
-      "originalUrl": "https://buffalonews.com/news/local/education/state-study-risk-of-facial-recognition-in-schools-may-outweigh-benefits/article_a8160f12-384d-11ee-b8e6-a769a7ccdc9a.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/7/a0/7a0c8c04-3870-11ee-8925-db193aeed84e/5ef251272b6bd.image.jpg?crop=640%2C336%2C0%2C46&resize=640%2C336&order=crop%2Cresize",
-          "width": 640,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-15T03:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Buffalo News",
-        "domain": "buffalonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-saudi-arabia-and-uae-invest-in-thousands-of-nvidia-chips-aiming-to-become-global-ai-powerhouses.md",
-      "title": "Saudi Arabia and UAE invest in thousands of Nvidia chips, aiming to become global AI powerhouses",
-      "excerpt": "The Financial Times reports that Saudi Arabia has bought at least 3,000 Nvidia H100 GPUs, which Nvidia CEO Jensen Huang calls the first chip designed for",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/99787-saudi-arabia-uae-invest-thousands-nvidia-chips-aiming.html",
-      "originalUrl": "https://www.techspot.com/news/99787-saudi-arabia-uae-invest-thousands-nvidia-chips-aiming.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/08/2023-08-15-image.jpg",
-          "width": 2100,
-          "height": 1181,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-15T03:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-ai-startup-grit-raises-7-mln-to-automate-software-maintenance.md",
-      "title": "AI startup Grit raises $7 mln to automate software maintenance",
-      "excerpt": "Artificial intelligence code cleanup startup Grit has raised a $7 million in a seed round, the New York City-based startup said on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/ai-startup-grit-raises-7-mln-automate-software-maintenance-2023-08-15/",
-      "originalUrl": "https://www.reuters.com/technology/ai-startup-grit-raises-7-mln-automate-software-maintenance-2023-08-15/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/arc-authors/reuters/75b029fc-7f40-49c1-b055-b519a14d825f.png",
-          "width": 1399,
-          "height": 1399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-15T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-cio-100-award-winners-prove-the-transformative-value-of-it.md",
-      "title": "CIO 100 Award winners prove the transformative value of IT",
-      "excerpt": "From combatting election fraud to aiding in the prevention of suicide, this year’s award-winning projects for IT innovation and leadership demonstrate IT’s transformational impact on business, well-being,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/649520/cio-100-award-winners-prove-the-transformative-value-of-it.html",
-      "originalUrl": "https://www.cio.com/article/649520/cio-100-award-winners-prove-the-transformative-value-of-it.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2023/08/CIO100-Article-Logo-3.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/649520/cio-100-award-winners-prove-the-transformative-value-of-it.html/amp/",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/649520/cio-100-award-winners-prove-the-transformative-value-of-it.html/amp/",
-      "publishedDateTime": "2023-08-15T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-majority-of-uk-insurance-executives-investing-in-ai-and-machine-learning.md",
-      "title": "Majority of UK insurance executives investing in AI and machine learning",
-      "excerpt": "Businesses are exploring how they can build trust with existing and potential new clients,' says head of platforms, strategy, operations and venture",
-      "sourceUrl": null,
-      "webUrl": "https://www.insurancetimes.co.uk/news/majority-of-uk-insurance-executives-investing-in-ai-and-machine-learning/1445268.article",
-      "originalUrl": "https://www.insurancetimes.co.uk/news/majority-of-uk-insurance-executives-investing-in-ai-and-machine-learning/1445268.article",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d17mj6xr9uykrr.cloudfront.net/Pictures/1024x536/7/4/4/98744_robothandstackingcoins_418514.jpg",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-15T02:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insurance Times",
-        "domain": "insurancetimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-sydney-isv-cloud-ground-control-teams-up-with-robotics-australia-group.md",
-      "title": "Sydney ISV Cloud Ground Control teams up with Robotics Australia Group",
-      "excerpt": "Sydney-based artificial intelligence and cloud robotics software vendor Cloud Ground Control has signed a strategic partnership with robotics sector body Robotics Australia Group. The partnership ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com.au/news/sydney-isv-cloud-ground-control-teams-up-with-robotics-australia-group-599203",
-      "originalUrl": "https://www.crn.com.au/news/sydney-isv-cloud-ground-control-teams-up-with-robotics-australia-group-599203",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.nextmedia.com.au/News/CGC--Robotics-Australia.png",
-          "width": 2048,
-          "height": 1132,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-15T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN Australia",
-        "domain": "crn.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

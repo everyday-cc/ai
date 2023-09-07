@@ -62,7 +62,7 @@
       "originalUrl": "https://www.eweek.com/artificial-intelligence/conversational-ai-platforms/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -168,7 +168,7 @@
       "originalUrl": "https://hackaday.com/2017/03/24/ten-minute-tensorflow-speech-recognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -883,6 +883,49 @@
       ]
     },
     {
+      "path": "_news/2023-08-31-cmu-tsinghua-us-prompt2model-generates-deployable-models-following-natural-language-instructions.md",
+      "title": "CMU & Tsinghua U’s Prompt2Model Generates Deployable Models Following Natural Language Instructions",
+      "excerpt": "Large language models (LLMs) have dominated the natural language processing (NLP) field. But building an NLP system in traditional way however requires substantial efforts. To address this issue, researchers and practitioners start to explore how to prototype NLP systems rapidly via “prompting” technique.",
+      "sourceUrl": null,
+      "webUrl": "https://syncedreview.com/2023/08/31/cmu-tsinghua-us-prompt2model-generates-deployable-models-following-natural-language-instructions/",
+      "originalUrl": "https://syncedreview.com/2023/08/31/cmu-tsinghua-us-prompt2model-generates-deployable-models-following-natural-language-instructions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2023/08/image-79.png?resize=950%2C484&ssl=1",
+          "width": 950,
+          "height": 484,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://syncedreview.com/2023/08/31/cmu-tsinghua-us-prompt2model-generates-deployable-models-following-natural-language-instructions/amp/",
+      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/08/31/cmu-tsinghua-us-prompt2model-generates-deployable-models-following-natural-language-instructions/amp/",
+      "publishedDateTime": "2023-08-30T21:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "syncedreview",
+        "domain": "syncedreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-31-meta-uses-your-facebook-data-to-train-its-ai-heres-how-to-opt-out-sort-of.md",
       "title": "Meta uses your Facebook data to train its AI. Here's how to opt out (sort of)",
       "excerpt": "Meta will use your personal data in its large language model Llama 2. But you can fine-tune what data it can access.",
@@ -1222,6 +1265,50 @@
       ]
     },
     {
+      "path": "_news/2023-08-29-healthcare-natural-language-processing-market-poised-to-surge-to-us-185-billion-by-2033-fueled-by-impressive-180-cagr.md",
+      "title": "Healthcare Natural Language Processing Market Poised to Surge to US$ 18.5 Billion by 2033, Fueled by Impressive 18.0% CAGR",
+      "excerpt": "Healthcare Natural Language Processing Market is anticipated to culminate at approximately US$ 3.5 Billion by the culmination of 2023, the worldwide market is poised for a compelling trajectory, exhibiting a robust CAGR of 18.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fmiblog.com/2023/08/28/healthcare-natural-language-processing-market-poised-to-surge-to-us-18-5-billion-by-2033-fueled-by-impressive-18-0-cagr/",
+      "originalUrl": "https://www.fmiblog.com/2023/08/28/healthcare-natural-language-processing-market-poised-to-surge-to-us-18-5-billion-by-2033-fueled-by-impressive-18-0-cagr/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fmiblog.com/wp-content/uploads/2023/08/Healthcare-Natural-Language-Processing-Market.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-28T10:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Future Market Insights",
+        "domain": "fmiblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-08-28-advances-in-ai-chips-boost-voice-recognition.md",
       "title": "Advances in AI, chips boost voice recognition",
       "excerpt": "Separate developments in speech recognition technology from IBM and California universities at San Francisco and Berkeley offer promising news for patients suffering from vocal paralysis and speech loss.",
@@ -1329,83 +1416,6 @@
       "provider": {
         "name": "Politico Europe",
         "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-26-uw-madison-researchers-fool-voice-recognition.md",
-      "title": "UW-Madison researchers fool voice recognition",
-      "excerpt": "The research suggests security systems within voice recognition software aren't as secure as people are made to believe. About 60% of Americans use voice recognition technology on a daily basis ...",
-      "sourceUrl": null,
-      "webUrl": "https://wiscnews.com/uw-madison-researchers-fool-voice-recognition/article_a65c5c77-8fe9-5a6c-b7bd-bf8e7228a492.html",
-      "originalUrl": "https://wiscnews.com/uw-madison-researchers-fool-voice-recognition/article_a65c5c77-8fe9-5a6c-b7bd-bf8e7228a492.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-25T20:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WiscNews",
-        "domain": "wiscnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-26-uw-madison-researchers-fool-voice-recognition-with-pvc-pipes.md",
-      "title": "UW-Madison researchers fool voice recognition with PVC pipes",
-      "excerpt": "The research suggests security systems within voice recognition software aren't as secure as people are made to believe. About 60% of Americans use voice recognition technology on a daily basis ...",
-      "sourceUrl": null,
-      "webUrl": "https://wiscnews.com/uw-madison-researchers-fool-voice-recognition-with-pvc-pipes/article_462055af-67c3-573d-8321-660961b624b8.html",
-      "originalUrl": "https://wiscnews.com/uw-madison-researchers-fool-voice-recognition-with-pvc-pipes/article_462055af-67c3-573d-8321-660961b624b8.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/wiscnews.com/content/tncms/assets/v3/editorial/5/8c/58c57300-6052-5c88-8310-96dce17808b4/64e995e411d49.image.jpg?crop=809%2C425%2C0%2C57&resize=809%2C425&order=crop%2Cresize",
-          "width": 809,
-          "height": 425,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-25T18:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WiscNews",
-        "domain": "wiscnews.com",
         "images": null,
         "publishers": null,
         "authors": null

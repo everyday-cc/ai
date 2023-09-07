@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "Partner, helper, or boss? ChatGPT was asked to design a robot and this happened"
+    excerpt: "\"We wanted ChatGPT to design not just a robot, but one that is actually useful,\" said Della Santina in a paper published in Nature Machine Intelligence. And so began a series of question-and-answer sessions between the researchers and the bot to try and ..."
+    publishedDateTime: 2023-09-07T17:00:00Z
+    webUrl: "https://www.zdnet.com/article/partner-helper-or-boss-chatgpt-was-asked-to-design-a-robot-and-this-happened/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/partner-helper-or-boss-chatgpt-was-asked-to-design-a-robot-and-this-happened/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/partner-helper-or-boss-chatgpt-was-asked-to-design-a-robot-and-this-happened/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 85
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/bb51fdea340543e6ccc2f59f72451a1b5110bb00/2023/08/23/a66f09f2-06c9-4df1-9b47-e94d31a55d16/testing-tomato-robot.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "5 types of chatbot and how to choose the right one for your business"
     excerpt: "Chatbots are playing an increasingly prevalent role in our lives. Here are five types of chatbot and how to pick the best one for your business.\nThe post 5 types of chatbot and how to choose the right one for your business appeared first on IBM Blog.\n"
     publishedDateTime: 2023-09-05T12:00:00Z

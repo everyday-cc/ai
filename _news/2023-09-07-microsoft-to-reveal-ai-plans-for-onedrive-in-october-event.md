@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-to-reveal-ai-plan
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-reveal-ai-plans-for-onedrive-in-october-event/"
 type: article
 quality: 104
-heat: 184
+heat: 204
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "China may be using AI to sway U.S. voters: Microsoft"
+    excerpt: "Microsoft researchers found Chinese-controlled AI-generated social media accounts attempting to influence U.S. voters. The campaign used generative AI to create content mimicking U.S. voters. Microsoft said the accounts had attempted to appear American and shared politically charged content."
+    publishedDateTime: 2023-09-07T16:17:00Z
+    webUrl: "https://www.thehindu.com/news/international/china-may-be-using-ai-to-sway-us-voters-microsoft/article67282161.ece"
+    ampWebUrl: "https://www.thehindu.com/news/international/china-may-be-using-ai-to-sway-us-voters-microsoft/article67282161.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/international/china-may-be-using-ai-to-sway-us-voters-microsoft/article67282161.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 76
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/6l78r5/article67282489.ece/alternates/FREE_1200/Europe_Microsoft_Investigation_20196.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft-Backed Startup D-Matrix To Compete With Nvidia In Bid For AI Dominance"
     excerpt: "The chips are down in the artificial intelligence (AI) market, and Nvidia Corporation’s (NASDAQ: NVDA) stronghold appears unshakeable."
     publishedDateTime: 2023-09-06T16:30:00Z
@@ -46,6 +62,22 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2023/09/06/d-matrix_logo.jpg?width=1200&height=800&fit=crop"
         width: 941
         height: 627
+        isCached: true
+  - title: "China, North Korea developing new strategies and targets for AI-powered operations, Microsoft warns"
+    excerpt: "Tech giant Microsoft is warning that artificial intelligence-powered threats to the U.S. public are being developed and rolled out by China and North Korea."
+    publishedDateTime: 2023-09-07T15:48:00Z
+    webUrl: "https://www.foxbusiness.com/technology/china-north-korea-developing-new-strategies-targets-ai-powered-operations-microsoft-warns"
+    ampWebUrl: "https://www.foxbusiness.com/technology/china-north-korea-developing-new-strategies-targets-ai-powered-operations-microsoft-warns.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/china-north-korea-developing-new-strategies-targets-ai-powered-operations-microsoft-warns.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 62
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/2ed80d18-1ffd-42d9-9777-73abfcde866a/2a6b44b0-ca46-43fd-817a-90d763c7a490/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Microsoft expands UAE's G42 partnership to include cloud, AI tools"
     excerpt: "\"With data privacy, security, and compliance as our core priorities, we have a unique opportunity to help organizations responsibly innovate,\" Microsoft Chief Commercial Officer Judson Althoff said"
@@ -123,6 +155,6 @@ related:
       domain: ft.com
     quality: 34
 
-secured: "PFOBGmMxqj79SBxQUPXBujIVtnGiXBjSgFbKKtABEBdyVkAmqX7okZs6kNd+eX6fqbwmxKEgdz9mxS/7xq68OtM/60m9QopM920QA61+enR6wRZejkj0JCY1yeGey9CNiimDNDV1Gub59Y+dH6Wa294FRPIxVWDAyWmMiYMBmgo3Uhi44kclRqr2ASV+/teRB9JVP9RRa0ZDXRG0sXKArLji2TySYDmsp4CeSM6Gm/hOC+7E1SK2IAP5Ad1KCHFaIAxspR70RSiG9LYR7Fgn5QtWsSxoku4GY/e3QFtavQVj7yzs2a6f22f3U/t6K4fn61SOaAEWfR3lc9SsX9zw3ZaXJ/etz1QF8JQlmNQAbFo=;sHZgohVRvErO85iIpeu4sw=="
+secured: "g9BAlWRaQS6w2iuT6PebTZrhc8lFt58qubsO+87YhfXcX+asHD9ejtU9b0yMiEjpAjTJrFmyeh92tW0HX1n73Z1oibMCqRR6RpwQwP9+fcVHy9jjbBJQSqEcniHKTAqB0lScfVzjFwovLJCibKLgmtw9gKIxwOTNFyry4wSAz6jK+I3CUkwgr/6dJzWNw1Gjf1s6HsFJQJgCbJFhrSWQIzu1btVAxRPNj1vBCc8KQZJ7gN1nCTRQmCCfMJ7ae11SLQBMgRuDmcMGU+TaBYz5G2ta4IwBZimaWyM4BPfuKTr898TJ1asVP9CGsNj8PIBlvNlBPW5N9thUkDbWssYSjx/RnzlMdk1eZg/OAX4iNqpueQi01Laul0E2YrrSCCsz5qDxuERKNyfdShmzM1cHkAxT92S3/rz61XXGxVy3+f6F0+VklVyPSpE97lPzbtQYyOo+0oXOti+VAuISvwMFundC6CUOYeiu1EHfqBkxdNvCy8/mdh33Acfdf8gVvKqi12OHDZCMyR0ojB7WEmum6w==;2kvj6QWvNxytdV966wfPkg=="
 ---
 

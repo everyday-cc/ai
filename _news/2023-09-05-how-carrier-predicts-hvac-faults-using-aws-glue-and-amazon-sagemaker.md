@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/how-carrier-predicts
 webUrl: "https://aws.amazon.com/blogs/machine-learning/how-carrier-predicts-hvac-faults-using-aws-glue-and-amazon-sagemaker/"
 type: article
 quality: 104
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
     quality: 89
     images:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/05/featured-images-l-ml-15376-1120x630.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Best practices and design patterns for building machine learning workflows with Amazon SageMaker Pipelines"
+    excerpt: "In this post, we provide some best practices to maximize the value of SageMaker Pipelines and make the development experience seamless. We also discuss some common design scenarios and patterns when building SageMaker Pipelines and provide examples for addressing them."
+    publishedDateTime: 2023-09-07T17:54:33Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/best-practices-and-design-patterns-for-building-machine-learning-workflows-with-amazon-sagemaker-pipelines/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 88
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/31/featured-images-ML-13407-1120x630.jpg"
         width: 1120
         height: 630
         isCached: true

@@ -52,22 +52,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Peter Dutton says Coalition will hold Indigenous recognition referendum if voice to parliament vote fails"
-    excerpt: "Opposition leader says constitutional recognition is ‘the right thing to do’ and simple referendum on the issue was ‘fair compromise’"
-    publishedDateTime: 2023-09-03T00:02:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2023/sep/03/peter-dutton-says-coalition-will-hold-indigenous-recognition-referendum-if-voice-to-parliament-vote-fails"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/sep/03/peter-dutton-says-coalition-will-hold-indigenous-recognition-referendum-if-voice-to-parliament-vote-fails"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/sep/03/peter-dutton-says-coalition-will-hold-indigenous-recognition-referendum-if-voice-to-parliament-vote-fails"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 42
-    images:
-      - url: "https://i.guim.co.uk/img/media/3426697126472ec290281196ecff77b7743048ef/0_261_5823_3495/master/5823.jpg?width=620&quality=85&auto=format&fit=max&s=7469415c206ce4c8eb6e6942e612b9f5"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Key figure behind the Indigenous voice urges the government to have a backup plan if the referendum fails"
     excerpt: "There's no point in a second referendum because it's not what we want,' she said. 'We asked for recognition through a voice combining the symbolic and practical to give us both dignity and a sense of empowerment and responsibility in matters that affect us.'"
     publishedDateTime: 2023-09-07T01:36:00Z
@@ -99,36 +83,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/ba76fe6dc61ea8d964a0ca6161b8a7471973c770/0_180_7387_4436/master/7387.jpg?width=620&quality=85&auto=format&fit=max&s=825fc5452f17a6d77ac911dd093bda94"
         width: 620
         height: 372
-        isCached: true
-  - title: "Peter Dutton pledges new referendum solely on recognition if Voice fails and Liberal party wins next election"
-    excerpt: "Opposition leader Peter Dutton has pledged to hold another referendum solely on recognising Indigenous Australians in the Constitution if the Voice fails."
-    publishedDateTime: 2023-09-02T23:44:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/politics/peter-dutton-pledges-new-referendum-solely-on-recognition-if-voice-fails-and-liberal-party-wins-next-election/news-story/ebd519d8c787f9e641a4ac71970eea0f"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/politics/peter-dutton-pledges-new-referendum-solely-on-recognition-if-voice-fails-and-liberal-party-wins-next-election/news-story/ebd519d8c787f9e641a4ac71970eea0f?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/politics/peter-dutton-pledges-new-referendum-solely-on-recognition-if-voice-fails-and-liberal-party-wins-next-election/news-story/ebd519d8c787f9e641a4ac71970eea0f?amp"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 40
-    images:
-      - url: "https://content.api.news/v3/images/bin/096fac636a9bb30569f291acea0a7e3c"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Peter Dutton says he will back a second referendum if Voice fails"
-    excerpt: "The opposition has left the door open to constitutional recognition for First Nations Australians if the Yes campaign is not successful."
-    publishedDateTime: 2023-09-03T00:34:00Z
-    webUrl: "https://www.sbs.com.au/news/article/peter-dutton-says-he-will-back-a-second-referendum-if-voice-fails/9d1l8g7lu"
-    type: article
-    provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 39
-    images:
-      - url: "https://images.sbs.com.au/dims4/default/b3f318f/2147483647/strip/true/crop/8256x4644+0+430/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F60%2F52%2F2174273146089c113fd06924f1eb%2Fpeter-dutton.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Meet AI Builder Club: The free short residency program for Australian AI startups"
     excerpt: "Meet the AI Builder Club, a free residency program for Australian enthusiasts to build their own AI projects with expert mentorship."
@@ -173,20 +127,6 @@ related:
       - url: "https://content.api.news/v3/images/bin/6561f89bc0f2fef6e05fde1b447ae104"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Peter Dutton pledges new referendum solely on recognition if Voice fails and he wins next Federal election"
-    excerpt: "Opposition leader Peter Dutton has pledged to hold a second referendum solely to enshrine Indigenous people into the constitution if the Voice fails to pass next month."
-    publishedDateTime: 2023-09-03T00:34:00Z
-    webUrl: "https://thewest.com.au/politics/federal-politics/peter-dutton-pledges-new-referendum-solely-on-recognition-if-voice-fails-and-he-wins-next-federal-election-c-11786282"
-    type: article
-    provider:
-      name: The West Australian
-      domain: thewest.com.au
-    quality: 21
-    images:
-      - url: "https://images.thewest.com.au/publication/C-11786282/48d44bf4e2a51a69d8a1ad60cef7904e529b8245-16x9-x0y0w800h450.jpg?imwidth=1200"
-        width: 800
-        height: 450
         isCached: true
   - title: "'This song changed my life': John Farnham's hope as he lends his voice to push for recognition of Indigenous Australians"
     excerpt: "Legendary Australian singer John Farnham has lent his support to the Yes campaign, allowing it to use You're the Voice in ads pushing for people to vote in favour of Indigenous recognition."

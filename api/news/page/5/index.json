@@ -2,6 +2,257 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-09-04-schumer-pledges-supercharged-path-to-ai-regulation-when-senate-returns-from-recess.md",
+      "title": "Schumer pledges ‘supercharged’ path to AI regulation when Senate returns from recess",
+      "excerpt": "Senate Majority Leader Schumer signaled AI regulation will be a main focus for his chamber when Congress returns from August recess.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/schumer-pledges-supercharged-path-ai-regulation-senate-returns-recess",
+      "originalUrl": "https://www.foxnews.com/politics/schumer-pledges-supercharged-path-ai-regulation-senate-returns-recess",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a465d63-285b-4571-9a28-2e72ee0f2d89/c41ba4c2-a3d5-4705-8858-f818626dece8/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/schumer-pledges-supercharged-path-ai-regulation-senate-returns-recess.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-pledges-supercharged-path-ai-regulation-senate-returns-recess.amp",
+      "publishedDateTime": "2023-09-03T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-04-venice-film-festival-2023-is-cinematic-ais-coming-out-party.md",
+      "title": "Venice Film Festival 2023 Is Cinematic AI’s Coming Out Party",
+      "excerpt": "While promoting his AI-powered movie Here by Robert Zemeckis, Hanks said he could see an AI version of himself acting after his death. Joe Russo, director of Avengers Endgame envisions a future where people can come home after a long day to ask their AI TV for a new movie starring themselves and Marilyn Monroe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2023/09/03/venice-film-festival-2023-is-ais-coming-out-party-for-hollywood/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/09/03/venice-film-festival-2023-is-ais-coming-out-party-for-hollywood/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64f52968cad6167132b0157e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 791,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/09/03/venice-film-festival-2023-is-ais-coming-out-party-for-hollywood/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/09/03/venice-film-festival-2023-is-ais-coming-out-party-for-hollywood/amp/",
+      "publishedDateTime": "2023-09-03T18:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-04-transformers-revolutionized-ai-what-will-replace-them.md",
+      "title": "Transformers Revolutionized AI. What Will Replace Them?",
+      "excerpt": "As another example, eighteen-month-old startup Inflection recently raised over $1 ... while a novel architecture soon displaces transformers as state-of-the-art in robotics. Or perhaps a new AI approach is developed that outperforms and rapidly replaces ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2023/09/03/transformers-revolutionized-ai-what-will-replace-them/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2023/09/03/transformers-revolutionized-ai-what-will-replace-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64f3b2b43d727bdfbf85cc97/0x0.jpg?format=jpg&width=1200",
+          "width": 711,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2023/09/03/transformers-revolutionized-ai-what-will-replace-them/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/09/03/transformers-revolutionized-ai-what-will-replace-them/amp/",
+      "publishedDateTime": "2023-09-03T15:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-09-03-tesla-drops-the-price-of-its-full-self-driving-beta-software.md",
+      "title": "Tesla Drops the Price of Its Full Self-Driving Beta Software",
+      "excerpt": "Tesla has dropped the price of its full self-driving beta software. Now instead of $15,000, Tesla owners who want the vehicle’s advanced driver assistance system (ADAS) will pay $12,000, TechCrunch reports. Tesla previously charged $12,000 for the ...",
+      "sourceUrl": null,
+      "webUrl": "https://uk.pcmag.com/cars-auto/148492/tesla-drops-the-price-of-its-full-self-driving-beta-software",
+      "originalUrl": "https://uk.pcmag.com/cars-auto/148492/tesla-drops-the-price-of-its-full-self-driving-beta-software",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/t/tesla-drop/tesla-drops-the-price-of-its-full-self-driving-beta-software_8gh1.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-03T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-03-artificial-intelligence-may-influence-whether-you-can-get-pain-medication.md",
+      "title": "Artificial intelligence may influence whether you can get pain medication",
+      "excerpt": "Artificial intelligence is working its way into more parts of American life. As AI spreads within the health care landscape, it brings familiar concerns of bias and accuracy and whether government ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.salon.com/2023/09/03/artificial-intelligence-may-influence-whether-you-can-get-pain-medication_partner/?ref=upstract.com",
+      "originalUrl": "https://www.salon.com/2023/09/03/artificial-intelligence-may-influence-whether-you-can-get-pain-medication_partner/?ref=upstract.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2020/01/oxycontin-pill-bottles-tablets-0130201.jpg",
+          "width": 1200,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-03T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Salon",
+        "domain": "salon.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-03-artificial-intelligence-ni-can-be-testing-centre-for-new-technology.md",
       "title": "Artificial Intelligence: NI can be 'testing centre' for new technology",
       "excerpt": "Northern Ireland can be a testing centre for artificial intelligence in the UK, according to a group representing the software industry. Belfast-based IT firm Kainos announced it was investing £10m to develop the use of generative AI in its business.",
@@ -958,245 +1209,6 @@
         "AI Hardware",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-types-of-cyberthreats.md",
-      "title": "Types of cyberthreats",
-      "excerpt": "From malware attacks to zero-day exploits, unpack the cybersecurity threats organizations face today—and the threat actors behind them.\nThe post Types of cyberthreats appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/types-of-cyberthreats/",
-      "originalUrl": "https://www.ibm.com/blog/types-of-cyberthreats/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-01T11:02:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-02-seismologists-use-deep-learning-to-forecast-earthquakes.md",
-      "title": "Seismologists use deep learning to forecast earthquakes",
-      "excerpt": "To continue applying deep learning models to aftershock forecasting, Dascher-Cousineau says the field needs a better system for benchmarking. In order to demonstrate the capabilities of the RECAST model, the group first used an ETAS model to simulate an ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-09-seismologists-deep-earthquakes.html",
-      "originalUrl": "https://phys.org/news/2023-09-seismologists-deep-earthquakes.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/seismologists-use-deep-1.jpg",
-          "width": 2128,
-          "height": 1022,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-09-seismologists-deep-earthquakes.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-seismologists-deep-earthquakes.amp",
-      "publishedDateTime": "2023-09-01T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-02-techcrunch-roundup-finops-for-all-15-investors-who-are-taking-pitches-steve-blank-on-ai.md",
-      "title": "TechCrunch+ Roundup: FinOps for all, 15 investors who are taking pitches, Steve Blank on AI",
-      "excerpt": "Known as the progenitor of the lean startup movement, entrepreneur/educator Steve Blank says generative AI is far more than a typical hype cycle. Thanks to the “dumb money” investors are slapping down and the tech’s labor-saving potential ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/09/01/techcrunch-roundup-finops-for-all-15-investors-who-are-taking-pitches-steve-blank-on-ai/",
-      "originalUrl": "https://techcrunch.com/2023/09/01/techcrunch-roundup-finops-for-all-15-investors-who-are-taking-pitches-steve-blank-on-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1608618399.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/09/01/techcrunch-roundup-finops-for-all-15-investors-who-are-taking-pitches-steve-blank-on-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/01/techcrunch-roundup-finops-for-all-15-investors-who-are-taking-pitches-steve-blank-on-ai/amp/",
-      "publishedDateTime": "2023-09-01T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-02-the-problem-with-intuits-ai-strategy.md",
-      "title": "The Problem With Intuit's AI Strategy",
-      "excerpt": "Intuit's AI strategy is fine for Intuit. But QuickBooks customers need to know how AI will solve their problems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/quickerbettertech/2023/09/01/the-problem-with-intuits-ai-strategy/",
-      "originalUrl": "https://www.forbes.com/sites/quickerbettertech/2023/09/01/the-problem-with-intuits-ai-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64f1c75d5647e288b55d6d56/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/quickerbettertech/2023/09/01/the-problem-with-intuits-ai-strategy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2023/09/01/the-problem-with-intuits-ai-strategy/amp/",
-      "publishedDateTime": "2023-09-01T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-fmopsllmops-operationalize-generative-ai-and-differences-with-mlops.md",
-      "title": "FMOps/LLMOps: Operationalize generative AI and differences with MLOps",
-      "excerpt": "Nowadays, the majority of our customers is excited about large language models (LLMs) and thinking how generative AI could transform their business. However, bringing such solutions and models to the business-as-usual operations is not an easy task. In this post, we discuss how to operationalize generative",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/fmops-llmops-operationalize-generative-ai-and-differences-with-mlops/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/fmops-llmops-operationalize-generative-ai-and-differences-with-mlops/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/01/featured-images-ML-14962-1120x630.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-01T08:33:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

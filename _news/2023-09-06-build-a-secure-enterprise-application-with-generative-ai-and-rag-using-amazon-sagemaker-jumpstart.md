@@ -65,6 +65,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Best practices and design patterns for building machine learning workflows with Amazon SageMaker Pipelines"
+    excerpt: "In this post, we provide some best practices to maximize the value of SageMaker Pipelines and make the development experience seamless. We also discuss some common design scenarios and patterns when building SageMaker Pipelines and provide examples for addressing them."
+    publishedDateTime: 2023-09-07T17:54:33Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/best-practices-and-design-patterns-for-building-machine-learning-workflows-with-amazon-sagemaker-pipelines/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 88
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/31/featured-images-ML-13407-1120x630.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Run multiple generative AI models on GPU using Amazon SageMaker multi-model endpoints with TorchServe and save up to 75% in inference costs"
     excerpt: "Recently, generative AI applications have captured widespread attention and imagination. Customers want to deploy generative AI models on GPUs but at the same time are conscious of costs. SageMaker MMEs support GPU instances and is a great option for these types of applications. Today, we are excited"
     publishedDateTime: 2023-09-06T17:13:21Z

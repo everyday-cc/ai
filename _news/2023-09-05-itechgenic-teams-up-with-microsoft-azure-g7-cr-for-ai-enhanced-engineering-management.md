@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/jobs-career/education/itechgenic-te
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management/3233431/lite/"
 type: article
 quality: 81
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "World's Largest Image-Based AI Model For Identifying Cancer: Microsoft Teams Up With Paige To Build One"
+    excerpt: "Microsoft Corp MSFT +0.27% + Free Alerts has announced a collaboration with digital pathology provider Paige to develop the world's largest image-based artificial intelligence model for cancer detection."
+    publishedDateTime: 2023-09-07T17:21:00Z
+    webUrl: "https://www.benzinga.com/news/large-cap/23/09/34325288/worlds-largest-image-based-ai-model-for-identifying-cancer-microsoft-teams-up-with-paige-to-build-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34325288"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34325288"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 58
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/09/07/msft.png?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "QJoHz4DdmriD3SCr85GCZqd8FUW4rOLw8gv02jzb58Ob+ok0mgNlEUucTVqSCbpOHUz9hLwfHYx2Xy6Gxl8MvtQrgKk4P7kAKAlo6CZ3kWM8TmFndpfhu8wGuKFmG1zlf3wEXNCzZ1UlYZozNPCgnSKbucC5MKNBGwK5u1mMjru7RG+ZN5XA2x13Idd0b1sVnGoUvFZ/XUkLU+chXipMRwHlPM4Qt1v4SzIR44I4fSzxNlHgAVD0tAyk/fX+PdCqKV47URiRn9+RikIwArI0ZYO48GudjHl0elD5JwYY0EnbgvmLt2KTYG3hlNEAmI2RS1J8qG7CEwwZqpsbHW0P6uinlAlxcSQevjID0rT76RtIkkwoHYYhuXxxM+rafcUqcRqCZappXrWpIGzNAQdbtLXlqlYyHLGuxUuemLProDk8GX6ucOQwDL+YxKNfepXyEqGgH0h0iTWxphdAVL0xFi/YmwN4jgJYzYj0uNoaDQzscTBL5PWMw5boYvPDGI9IMdBordnb1b+TvtaibWmSPw==;2T64e3+kzG1MJb0YC6YYKA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/09/07/softbank-group-backs-former-argo-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/07/softbank-group-backs-former-argo-ai-founders-on-new-self-driving-trucks-startup/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 115
 published: true
 
 provider:
@@ -31,6 +31,34 @@ images:
     isCached: true
 
 related:
+  - title: "Argo AI founders launch autonomous trucking startup Stack AV"
+    excerpt: "Stack AV, an autonomous trucking startup based in Pittsburgh, PA, has announced the launch of its autonomous trucking business."
+    publishedDateTime: 2023-09-07T16:18:00Z
+    webUrl: "https://www.therobotreport.com/argo-ai-founders-launch-autonomous-trucking-startup-stack-av/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 69
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2023/09/stackAV-featured.jpg"
+        width: 770
+        height: 500
+        isCached: true
+  - title: "Self-driving truck startup launches in Pittsburgh"
+    excerpt: "Almost a year after Argo AI closed its doors in Pittsburgh’s Strip District, the founders of that autonomous vehicle startup have embarked on a new venture focusing on self-driving trucks. Called Stack AV,"
+    publishedDateTime: 2023-09-07T16:29:00Z
+    webUrl: "https://triblive.com/business/self-driving-truck-startup-launches-in-pittsburgh/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 24
+    images:
+      - url: "https://assets-varnish.triblive.com/2023/09/6548567_web1_stack-av.jpg"
+        width: 640
+        height: 320
+        isCached: true
   - title: "How SoftBank’s Arm Plans to Ride the AI Wave to Biggest IPO of 2023"
     excerpt: "What’s set to be the biggest initial public offering of 2023 comes from a company unknown to most consumers, though they use its products. Arm Ltd. designs key parts of the chips powering almost every smartphone on the planet."
     publishedDateTime: 2023-09-04T07:30:00Z

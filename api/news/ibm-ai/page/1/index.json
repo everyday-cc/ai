@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-07-harnessing-ai-and-data-analytics-can-make-clean-energy-more-viable.md",
+      "title": "Harnessing AI and data analytics can make clean energy more viable",
+      "excerpt": "Based on 14 years of development and input from electric utility experts, IBM has created the Clean Electrification Maturity Model.\nThe post Harnessing AI and data analytics can make clean energy more viable appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/harnessing-ai-and-data-analytics-can-make-clean-energy-more-viable/",
+      "originalUrl": "https://www.ibm.com/blog/harnessing-ai-and-data-analytics-can-make-clean-energy-more-viable/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-07T09:11:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-07-building-ai-for-business-ibms-granite-foundation-models.md",
       "title": "Building AI for business: IBM’s Granite foundation models",
       "excerpt": "Explore IBM's Granite foundation models, from how we built them to how they can help you further apply generative AI in your business.\nThe post Building AI for business: IBM&#8217;s Granite foundation models appeared first on IBM Blog.\n",
@@ -104,7 +147,7 @@
       "originalUrl": "https://www.ibm.com/blog/tennis-football-and-ibm-watsonx/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -190,7 +233,7 @@
       "originalUrl": "https://www.eweek.com/artificial-intelligence/conversational-ai-platforms/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1249,50 +1292,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-ibm-watsonx-to-use-generative-ai-to-translate-cobol-code-into-java.md",
-      "title": "IBM Watsonx to use generative AI to translate COBOL code into Java",
-      "excerpt": "In a bid to help enterprises running IBM Z systems modernise their applications, IBM is expanding the abilities of its generative AI based Watson Code Assistant to include COBOL code translation into Java. The Big Blue claims that the introduction of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/708452/ibm-watsonx-use-generative-ai-translate-cobol-code-into-java/",
-      "originalUrl": "https://www.reseller.co.nz/article/708452/ibm-watsonx-use-generative-ai-translate-cobol-code-into-java/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_s_181115691.jpg",
-          "width": 500,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-22T16:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

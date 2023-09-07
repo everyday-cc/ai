@@ -2,21 +2,21 @@
   "page": 64,
   "value": [
     {
-      "path": "_news/2023-07-20-generative-ai-and-solving-the-blank-page-problem.md",
-      "title": "Generative AI And Solving The 'Blank Page' Problem",
-      "excerpt": "As we white-knuckle the early days of generative AI, here’s my viewpoint on where the machine and human value begins and ends.",
+      "path": "_news/2023-07-25-computer-vision-market-share-demand-industry-trends-and-forecast-2023-2028.md",
+      "title": "Computer Vision Market Share, Demand, Industry Trends and Forecast 2023-2028",
+      "excerpt": "IMARC Group, a leading market research company, has released a report titled Computer Vision Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2023-2028.According to ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/07/20/generative-ai-and-solving-the-blank-page-problem/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/07/20/generative-ai-and-solving-the-blank-page-problem/",
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33360200/computer-vision-market-share-demand-industry-trends-and-forecast-2023-2028",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33360200/computer-vision-market-share-demand-industry-trends-and-forecast-2023-2028",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649b304e0b8ffa27f33c85e4/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,116 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/07/20/generative-ai-and-solving-the-blank-page-problem/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/07/20/generative-ai-and-solving-the-blank-page-problem/amp/",
-      "publishedDateTime": "2023-07-20T04:15:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33360200",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33360200",
+      "publishedDateTime": "2023-07-24T19:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-risks-associated-with-off-the-shelf-ai-toolsand-how-to-mitigate-them.md",
-      "title": "Risks Associated With Off-The-Shelf AI Tools—And How To Mitigate Them",
-      "excerpt": "In the wrong hands, they could turn into highly potent sources of malicious code—code designed to harm the software or enable security breaches. Employees using generative AI tools could unwittingly make their companies vulnerable to bad actors looking to generate malicious code.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/20/risks-associated-with-off-the-shelf-ai-tools-and-how-to-mitigate-them/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/20/risks-associated-with-off-the-shelf-ai-tools-and-how-to-mitigate-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/612676c88afd1167f5554556/0x0.jpg?format=jpg&crop=2569,1446,x0,y124,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/20/risks-associated-with-off-the-shelf-ai-tools-and-how-to-mitigate-them/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/20/risks-associated-with-off-the-shelf-ai-tools-and-how-to-mitigate-them/amp/",
-      "publishedDateTime": "2023-07-20T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-the-movement-to-limit-face-recognition-tech-might-finally-get-a-win.md",
-      "title": "The movement to limit face recognition tech might finally get a win",
-      "excerpt": "A Massachusetts bill restricting police use could set the standard for how the technology is regulated in America. If it fails, it'll be a blow to a once-promising movement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/07/20/1076539/face-recognition-massachusetts-test-police/",
-      "originalUrl": "https://www.technologyreview.com/2023/07/20/1076539/face-recognition-massachusetts-test-police/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/06/massachusetts-facial-recognition.jpg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/07/20/1076539/face-recognition-massachusetts-test-police/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/20/1076539/face-recognition-massachusetts-test-police/amp/",
-      "publishedDateTime": "2023-07-20T03:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -148,366 +45,21 @@
       ]
     },
     {
-      "path": "_news/2023-07-20-a-bull-market-is-coming-2-artificial-intelligence-ai-growth-stocks-to-buy-now-and-hold-forever.md",
-      "title": "A Bull Market Is Coming: 2 Artificial Intelligence (AI) Growth Stocks to Buy Now and Hold Forever",
-      "excerpt": "The next bull market could take the S&P 500 much higher, and these growth stocks are well-positioned to outperform.",
+      "path": "_news/2023-07-25-is-artificial-intelligence-anti-black.md",
+      "title": "Is Artificial Intelligence Anti-Black?",
+      "excerpt": "The rise of artificial intelligence like ChatGPT is ushering in a new era of possibilities. This article examines the anti-blackness baked into our AI systems.",
       "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/20/a-bull-market-is-coming-2-ai-growth-stocks-to-buy/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/20/a-bull-market-is-coming-2-ai-growth-stocks-to-buy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/740240/bull-market-6.jpg",
-          "width": 2101,
-          "height": 1426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-20T02:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-corporate-earnings-season-heating-up-tsmc-outlook-adding-concerns-to-ai-and-chip-names.md",
-      "title": "Corporate earnings season heating up, TSMC outlook adding concerns to AI and chip names",
-      "excerpt": "- Industrials: Saab [SAABB.SE] +3.5% (Q2 results), Electrolux [ELUXB.SE] -15.0% (earnings; starts preparations for a potential divestment of Zanussi and other non-core brands during the coming years which could be valued at SEK10B in total), Volvo Cars [VOLCARB.SE] -1.0% (Q2 results), Alfa Laval [ALFA.SE] +6.0% (Q2 results).",
-      "sourceUrl": null,
-      "webUrl": "https://www.fxstreet.com/analysis/corporate-earnings-season-heating-up-tsmc-outlook-adding-concerns-to-ai-and-chip-names-202307200944",
-      "originalUrl": "https://www.fxstreet.com/analysis/corporate-earnings-season-heating-up-tsmc-outlook-adding-concerns-to-ai-and-chip-names-202307200944",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://editorial.fxstreet.com/images/Markets/Equities/DowJones/DowJones_frontbuilding_Small.jpg",
-          "width": 320,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fxstreet.com/amp/analysis/corporate-earnings-season-heating-up-tsmc-outlook-adding-concerns-to-ai-and-chip-names-202307200944",
-      "cdnAmpWebUrl": "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/analysis/corporate-earnings-season-heating-up-tsmc-outlook-adding-concerns-to-ai-and-chip-names-202307200944",
-      "publishedDateTime": "2023-07-20T02:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FXStreet",
-        "domain": "fxstreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-asset-and-wealth-managementembracing-ai-and-consolidation-to-win.md",
-      "title": "Asset And Wealth Management—Embracing AI And Consolidation To Win",
-      "excerpt": "AI and consolidations are reshaping the asset and wealth management industries as firms seek cost efficiencies and strive for market competitiveness.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/carriemccabe/2023/07/20/asset-and-wealth-management-embracing-ai-and-consolidation-to-win/",
-      "originalUrl": "https://www.forbes.com/sites/carriemccabe/2023/07/20/asset-and-wealth-management-embracing-ai-and-consolidation-to-win/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b889794b23d6863cde7b97/0x0.jpg?format=jpg&width=1200",
-          "width": 624,
-          "height": 479,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/carriemccabe/2023/07/20/asset-and-wealth-management-embracing-ai-and-consolidation-to-win/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carriemccabe/2023/07/20/asset-and-wealth-management-embracing-ai-and-consolidation-to-win/amp/",
-      "publishedDateTime": "2023-07-20T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-pooping-only-every-3-or-more-days-linked-with-cognitive-decline-research-finds.md",
-      "title": "Pooping only every 3 or more days linked with cognitive decline, research finds",
-      "excerpt": "Being chronically constipated, defined by the authors as having a bowel movement only every three or more days, has been linked with a 73% higher risk of subjective cognitive decline, according to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/07/19/health/constipation-cognitive-decline-gut-health-wellness/index.html",
-      "originalUrl": "https://www.cnn.com/2023/07/19/health/constipation-cognitive-decline-gut-health-wellness/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230712140838-constipated-older-adult-wellness-stock.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/07/19/health/constipation-cognitive-decline-gut-health-wellness/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/19/health/constipation-cognitive-decline-gut-health-wellness/index.html",
-      "publishedDateTime": "2023-07-20T02:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-taiwans-export-orders-slump-for-10th-straight-month-in-june-taipei-pins-hopes-on-ai-demand.md",
-      "title": "Taiwan’s export orders slump for 10th straight month in June, Taipei pins hopes on AI demand",
-      "excerpt": "Taiwan’s export orders fell by 24.9 per cent from a year ago in June, but Taipei expects improvements in the second half of the year due to the growing demand for its artificial intelligence (AI) supply chain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/economy/global-economy/article/3228346/taiwans-export-orders-slump-10th-straight-month-june-taipei-pins-hopes-ai-demand",
-      "originalUrl": "https://www.scmp.com/economy/global-economy/article/3228346/taiwans-export-orders-slump-10th-straight-month-june-taipei-pins-hopes-ai-demand",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/07/20/725e7390-60ec-4ffa-944b-870aa0763028_b12c76bf.jpg?itok=CjjUwRdf&v=1689843987",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/economy/global-economy/article/3228346/taiwans-export-orders-slump-10th-straight-month-june-taipei-pins-hopes-ai-demand",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/economy/global-economy/article/3228346/taiwans-export-orders-slump-10th-straight-month-june-taipei-pins-hopes-ai-demand",
-      "publishedDateTime": "2023-07-20T02:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-artificial-intelligence-could-help-normalize-child-sexual-abuse-as-graphic-images-erupt-online-experts.md",
-      "title": "Artificial intelligence could help 'normalize' child sexual abuse as graphic images erupt online: experts",
-      "excerpt": "Images of children in sexual settings that were created by artificial intelligence could \"normalize\" abuse of children, law enforcement and nonprofits warn.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/artificial-intelligence-could-normalize-child-sexual-abuse-graphic-images-erupt-online-experts",
-      "originalUrl": "https://www.foxnews.com/tech/artificial-intelligence-could-normalize-child-sexual-abuse-graphic-images-erupt-online-experts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54cf6e5e-46ce-4bd4-aed5-3dabe9838e97/e3852eca-5cd2-4283-bae9-15fbb23d888a/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/artificial-intelligence-could-normalize-child-sexual-abuse-graphic-images-erupt-online-experts.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/artificial-intelligence-could-normalize-child-sexual-abuse-graphic-images-erupt-online-experts.amp",
-      "publishedDateTime": "2023-07-19T23:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-nigerian-insurtech-startup-mycoverai-secures-125m-pre-seed-funding.md",
-      "title": "Nigerian insurtech startup MyCover.ai secures $1.25m pre-seed funding",
-      "excerpt": "Nigerian insurtech startup MyCover.ai has closed a US$1.25 million pre-seed funding round to bolster its in-house operations and tech talent, invest heavily in its proprietary technology, and strategically expand its operations into other African markets.",
-      "sourceUrl": null,
-      "webUrl": "https://disrupt-africa.com/2023/07/20/nigerian-insurtech-startup-mycover-ai-secures-1-25m-pre-seed-funding/",
-      "originalUrl": "https://disrupt-africa.com/2023/07/20/nigerian-insurtech-startup-mycover-ai-secures-1-25m-pre-seed-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://disrupt-africa.com/wp-content/uploads/2023/07/MyCover-Alex-Igwe-Ifendu-Cofounder-CPO-Debo-Banjo-CofounderCEO-Fred-Ehbo-Cofounder-CTOjpg.jpg",
-          "width": 898,
-          "height": 461,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://disrupt-africa.com/2023/07/20/nigerian-insurtech-startup-mycover-ai-secures-1-25m-pre-seed-funding/?amp=1",
-      "cdnAmpWebUrl": "https://disrupt--africa-com.cdn.ampproject.org/c/s/disrupt-africa.com/2023/07/20/nigerian-insurtech-startup-mycover-ai-secures-1-25m-pre-seed-funding/?amp=1",
-      "publishedDateTime": "2023-07-19T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "disrupt-africa",
-        "domain": "disrupt-africa.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-ai-growth-lifts-quantas-barry-lam-to-no-1-among-taiwans-richest.md",
-      "title": "AI Growth Lifts Quanta’s Barry Lam To No. 1 Among Taiwan’s Richest",
-      "excerpt": "Lam, who founded Quanta in 1988 when Taiwan was disparagingly known as a “clone kingdom” for IBM PC knockoffs, was worth $9.2 billion on the list yesterday, compared with $5.6 billion on the 2023 Forbes Taiwan Rich List published in April. Lam has topped Zhang Congyuan, who at No. 2 has a fortune worth $7.7 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/russellflannery/2023/07/20/ai-growth-lifts-quantas-barry-lam-to-no-1-among-taiwans-richest/",
-      "originalUrl": "https://www.forbes.com/sites/russellflannery/2023/07/20/ai-growth-lifts-quantas-barry-lam-to-no-1-among-taiwans-richest/",
+      "webUrl": "https://www.forbes.com/sites/janicegassam/2023/07/24/is-artificial-intelligence-anti-black/",
+      "originalUrl": "https://www.forbes.com/sites/janicegassam/2023/07/24/is-artificial-intelligence-anti-black/",
       "featuredContent": null,
       "highlight": null,
       "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b8ac1a5e5cca27155b79a0/0x0.jpg?format=jpg&width=1200",
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64bf1828c39d451c82b88edd/0x0.jpg?format=jpg&width=1200",
           "width": 1200,
-          "height": 800,
+          "height": 708,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -515,9 +67,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/russellflannery/2023/07/20/ai-growth-lifts-quantas-barry-lam-to-no-1-among-taiwans-richest/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/russellflannery/2023/07/20/ai-growth-lifts-quantas-barry-lam-to-no-1-among-taiwans-richest/amp/",
-      "publishedDateTime": "2023-07-19T21:01:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/janicegassam/2023/07/24/is-artificial-intelligence-anti-black/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janicegassam/2023/07/24/is-artificial-intelligence-anti-black/amp/",
+      "publishedDateTime": "2023-07-24T17:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -540,17 +92,17 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "AI in Healthcare",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-07-20-musk-optimistic-on-progress-for-self-driving-robots.md",
-      "title": "Musk optimistic on progress for self-driving, robots",
-      "excerpt": "(AP pic) SAN FRANCISCO: Tesla chief executive Elon Musk on Wednesday set new targets for artificial intelligence products including self-driving software and using humanoid robots in factories ...",
+      "path": "_news/2023-07-25-speech-voice-recognition-market-scope-market-size-share-and-valuation-with-projected-cagr-48-and-forecast-2023-2030.md",
+      "title": "Speech & Voice Recognition Market Scope: Market Size, Share, and Valuation with projected CAGR 4.8% and Forecast 2023 - 2030",
+      "excerpt": "This &ldquo;Speech & Voice Recognition Market\" highlights key external drivers that affect the industry and assesses the current performance and revenue growth of the industry. This report helps ...",
       "sourceUrl": null,
-      "webUrl": "https://www.freemalaysiatoday.com/category/business/2023/07/20/musk-optimistic-on-progress-for-self-driving-robots/",
-      "originalUrl": "https://www.freemalaysiatoday.com/category/business/2023/07/20/musk-optimistic-on-progress-for-self-driving-robots/",
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33359004/speech-voice-recognition-market-scope-market-size-share-and-valuation-with-projected-cagr-4-8-and-f",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33359004/speech-voice-recognition-market-scope-market-size-share-and-valuation-with-projected-cagr-4-8-and-f",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -560,11 +112,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-19T19:40:00-07:00",
+      "publishedDateTime": "2023-07-24T15:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Free Malaysia Today",
-        "domain": "freemalaysiatoday.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -574,17 +126,17 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "Natural Language Processing",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-07-20-future-ai-algorithms-have-potential-to-learn-like-humans-say-researchers.md",
-      "title": "Future AI algorithms have potential to learn like humans, say researchers",
-      "excerpt": "Memories can be as tricky to hold onto for machines as they can be for humans. To help understand why artificial agents develop holes in their own cognitive processes, electrical engineers at The Ohio State University have analyzed how much a process called “continual learning” impacts their overall performance.",
+      "path": "_news/2023-07-25-robot-preachers-get-less-respect-fewer-donations.md",
+      "title": "Robot preachers get less respect, fewer donations",
+      "excerpt": "As artificial intelligence expands across more professions, robot preachers and AI programs offer new means of sharing religious beliefs, but they may undermine credibility and reduce donations ...",
       "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/996196",
-      "originalUrl": "https://www.eurekalert.org/news-releases/996196",
+      "webUrl": "https://www.sciencedaily.com/releases/2023/07/230724122654.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/07/230724122654.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -594,100 +146,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-19T17:00:00-07:00",
+      "publishedDateTime": "2023-07-24T14:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-china-diplomat-warns-washington-of-further-restrictions-on-investment-ai-chips.md",
-      "title": "China Diplomat warns Washington of further restrictions on investment, AI chips",
-      "excerpt": "China's Ambassador to Washington Xie Feng crossed wires late Wednesday, via Reuters, while speaking at the Aspen Security Forum where he criticized the US consideration for review of the outbound investment about China and further curbs on AI chips to the Asian nation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fxstreet.com/news/china-diplomat-warns-washington-of-further-restrictions-on-investment-ai-chips-202307192314",
-      "originalUrl": "https://www.fxstreet.com/news/china-diplomat-warns-washington-of-further-restrictions-on-investment-ai-chips-202307192314",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://editorial.fxstreet.com/images/Macroeconomics/Countries/Asia/China/stock-market-building-in-shenzhen-72063787_Small.jpg",
-          "width": 320,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fxstreet.com/amp/news/china-diplomat-warns-washington-of-further-restrictions-on-investment-ai-chips-202307192314",
-      "cdnAmpWebUrl": "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/news/china-diplomat-warns-washington-of-further-restrictions-on-investment-ai-chips-202307192314",
-      "publishedDateTime": "2023-07-19T16:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FXStreet",
-        "domain": "fxstreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-review-airrobo-pc100-pool-cleaning-robot.md",
-      "title": "Review: AiRROBO PC100 Pool Cleaning Robot",
-      "excerpt": "The AiRROBO PC100 is a cordless pool robot with 2-hour battery life and powerful suction that employs AI for a claimed 10X gain in cleaning efficiency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradmoon/2023/07/19/review-airrobo-pc100-pool-cleaning-robot/",
-      "originalUrl": "https://www.forbes.com/sites/bradmoon/2023/07/19/review-airrobo-pc100-pool-cleaning-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b868227cdf254e7dfb68d1/0x0.jpg?format=jpg&crop=1600,899,x0,y154,safe&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradmoon/2023/07/19/review-airrobo-pc100-pool-cleaning-robot/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradmoon/2023/07/19/review-airrobo-pc100-pool-cleaning-robot/amp/",
-      "publishedDateTime": "2023-07-19T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -708,322 +174,21 @@
       ]
     },
     {
-      "path": "_news/2023-07-20-artificial-intelligence-experts-propose-guidelines-for-safe-systems.md",
-      "title": "Artificial intelligence: Experts propose guidelines for safe systems",
-      "excerpt": "A global group of AI experts and data scientists has released a new voluntary framework for developing artificial intelligence products safely. The World Ethical Data Foundation has 25,000 members including staff working at various tech giants such as Meta, Google and Samsung.",
+      "path": "_news/2023-07-25-cadence-lifts-revenue-forecast-as-ai-boom-boosts-chip-design-demand.md",
+      "title": "Cadence lifts revenue forecast as AI boom boosts chip-design demand",
+      "excerpt": "Cadence Design Systems Inc on Monday raised its full-year revenue forecast slightly above Wall Street estimates, as a surge in artificial intelligence (AI) innovation fueled demand for custom semiconductor design.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-66225855",
-      "originalUrl": "https://www.bbc.com/news/technology-66225855",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/E666/production/_130428985_index_product_safety_976x549-1.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/technology-66225855.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66225855.amp",
-      "publishedDateTime": "2023-07-19T16:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-ai-workers-need-more-protection-tuc-union.md",
-      "title": "AI: Workers need more protection - TUC union",
-      "excerpt": "The UK is falling behind in protecting workers from artificial intelligence (AI), a trade union has warned. The TUC said the UK had no plans, like the EU's AI Act, to regulate its use in hiring, firing and setting work conditions. The union has asked a taskforce to draft legal protections.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/business-66248125",
-      "originalUrl": "https://www.bbc.com/news/business-66248125",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/D0F4/production/_130429435_gettyimages-1436224164.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/business-66248125.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-66248125.amp",
-      "publishedDateTime": "2023-07-19T16:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-liquid-networks-unleashing-ai-efficiency-causality-and-adaptive-potential.md",
-      "title": "Liquid Networks: Unleashing AI Efficiency, Causality, And Adaptive Potential",
-      "excerpt": "To engage the community in the AI conversation, on June 27 2023, CSAIL co-hosted a symposium in collaboration with John Werner’s Imagination in Action on AI frontiers and Implic",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danielarus/2023/07/19/liquid-networks-unleashing-ai-efficiency-causality-and-adaptive-potential/",
-      "originalUrl": "https://www.forbes.com/sites/danielarus/2023/07/19/liquid-networks-unleashing-ai-efficiency-causality-and-adaptive-potential/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62fe40baadccff017f1dbcbd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/danielarus/2023/07/19/liquid-networks-unleashing-ai-efficiency-causality-and-adaptive-potential/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielarus/2023/07/19/liquid-networks-unleashing-ai-efficiency-causality-and-adaptive-potential/amp/",
-      "publishedDateTime": "2023-07-19T15:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector.md",
-      "title": "Hero AI Seeks To Transform Mindsets In The Lagging Healthcare Sector",
-      "excerpt": "The resistance to change is emblematic in a sector that has idealized practices and legacy systems that have been working for decades. One founder seeks to disrupt this.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/hessiejones/2023/07/19/hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector/",
-      "originalUrl": "https://www.forbes.com/sites/hessiejones/2023/07/19/hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector/",
+      "webUrl": "https://www.reuters.com/article/cadence-design-results-idUSL4N39A44G",
+      "originalUrl": "https://www.reuters.com/article/cadence-design-results-idUSL4N39A44G",
       "featuredContent": null,
       "highlight": null,
       "heat": 104,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b842c1ed475f757e5b79a0/0x0.jpg?format=jpg&width=1200",
-          "width": 940,
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20230724&t=2&i=1639790732&r=LYNXMPEJ6N0RW&w=800",
+          "width": 800,
           "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/hessiejones/2023/07/19/hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2023/07/19/hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector/amp/",
-      "publishedDateTime": "2023-07-19T14:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-ibm-reports-earnings-beat-but-misses-on-revenue.md",
-      "title": "IBM reports earnings beat, but misses on revenue",
-      "excerpt": "IBM's data and artificial intelligence products showed the fastest expansion, growing 10% from a year earlier, the company said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/07/19/ibm-q2-earnings-report-2023.html",
-      "originalUrl": "https://www.cnbc.com/2023/07/19/ibm-q2-earnings-report-2023.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107228185-1681935493510-gettyimages-1246298489-DAVOS_WEF_2023.jpeg?v=1689805644",
-          "width": 4000,
-          "height": 2667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/19/ibm-q2-earnings-report-2023.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/19/ibm-q2-earnings-report-2023.html",
-      "publishedDateTime": "2023-07-19T13:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-individual-whale-dolphin-id-using-facial-recognition-tech.md",
-      "title": "Individual whale, dolphin ID using facial recognition tech",
-      "excerpt": "A new tool uses facial recognition technology to identify individual whales and dolphins in the wild across 24 species. The research was led by University of Hawaiʻi at Mānoa Hawaiʻi Institute of Marine Biology (HIMB) Ph.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-07-individual-whale-dolphin-id-facial.html",
-      "originalUrl": "https://phys.org/news/2023-07-individual-whale-dolphin-id-facial.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/individual-whale-dolph.jpg",
-          "width": 676,
-          "height": 381,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-07-individual-whale-dolphin-id-facial.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-07-individual-whale-dolphin-id-facial.amp",
-      "publishedDateTime": "2023-07-19T13:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-how-to-build-the-ultimate-gpu-cloud-to-power-ai.md",
-      "title": "How to Build the Ultimate GPU Cloud to Power AI",
-      "excerpt": "Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/audio/2023-07-19/how-to-build-the-ultimate-gpu-cloud-to-power-ai-podcast",
-      "originalUrl": "https://www.bloomberg.com/news/audio/2023-07-19/how-to-build-the-ultimate-gpu-cloud-to-power-ai-podcast",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/s3/navi/images/radio-thumbnail-745046050e.png",
-          "width": 400,
-          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1033,14 +198,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-19T13:50:00-07:00",
+      "publishedDateTime": "2023-07-24T12:48:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1061,19 +226,19 @@
       ]
     },
     {
-      "path": "_news/2023-07-20-ai-takeover-8-jobs-that-are-safe-for-now.md",
-      "title": "AI Takeover? 8 Jobs That Are ‘Safe for Now’",
-      "excerpt": "Artificial intelligence -- while still in its nascent stages -- seems to be omnipresent, revolutionizing everything including the way we work and the way we make money. Of course, one of the",
+      "path": "_news/2023-07-25-state-of-it-report-generative-ai-will-soon-go-mainstream-say-9-out-of-10-it-leaders.md",
+      "title": "State of IT report: Generative AI will soon go mainstream, say 9 out of 10 IT leaders",
+      "excerpt": "Generative AI has only recently become mainstream. The report shows 86% of IT leaders believe generative AI will have a prominent role it their organization in the near future. Yet 64% of IT leaders are concerned about the ethics of generative AI, and 62% are concerned about its impacts on their careers.",
       "sourceUrl": null,
-      "webUrl": "https://www.aol.com/ai-takeover-8-jobs-safe-173711864.html",
-      "originalUrl": "https://www.aol.com/ai-takeover-8-jobs-safe-173711864.html",
+      "webUrl": "https://www.zdnet.com/article/state-of-it-report-generative-ai-will-soon-go-mainstream/",
+      "originalUrl": "https://www.zdnet.com/article/state-of-it-report-generative-ai-will-soon-go-mainstream/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 92,
       "tags": null,
       "images": [
         {
-          "url": "https://s.yimg.com/ny/api/res/1.2/4ZpRNSIvnfn0VKJ6NTg24A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/4c59741820c8c43b6b894e955e44b478",
+          "url": "https://www.zdnet.com/a/img/resize/67c0491949d4da919f64dea355dd58d24e2cc5fc/2023/07/24/c1b1e887-4a8e-4180-96e7-045494b7bc9c/aigettyimages-1455352999.jpg?auto=webp&fit=crop&height=675&width=1200",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -1083,59 +248,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-19T13:37:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/state-of-it-report-generative-ai-will-soon-go-mainstream/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/state-of-it-report-generative-ai-will-soon-go-mainstream/",
+      "publishedDateTime": "2023-07-24T11:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-why-many-in-china-unlike-in-the-us-see-ai-as-a-force-for-good.md",
-      "title": "Why many in China – unlike in the US – see AI as a force for good",
-      "excerpt": "For instance, artificial intelligence in China has been strategically integrated ... The internet giant Baidu now operates fully driverless taxi services in government-approved areas of Wuhan, Chongqing and Beijing. Baidu is testing the service in 10 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/comment/opinion/article/3228219/why-many-china-unlike-us-see-ai-force-good",
-      "originalUrl": "https://www.scmp.com/comment/opinion/article/3228219/why-many-china-unlike-us-see-ai-force-good",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2023/07/20/3c054da4-c2c6-4ef2-a80f-ae1d02c43a45_488b870d.jpg?itok=k8LRczI9&v=1689787730",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/comment/opinion/article/3228219/why-many-china-unlike-us-see-ai-force-good",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/comment/opinion/article/3228219/why-many-china-unlike-us-see-ai-force-good",
-      "publishedDateTime": "2023-07-19T12:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
+        "name": "ZDNet",
+        "domain": "zdnet.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1151,26 +273,26 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "AI Ethics",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-07-20-this-changed-the-way-i-look-for-ai-stocks-forever.md",
-      "title": "This Changed the Way I Look for AI Stocks Forever",
-      "excerpt": "The good news is the AI bubble - which still has a little air left in it - is starting to shrink as investors come to their senses and realize that a $2-per-share bottling that slapped\"AI\" in its name this March isn't going to hit $487.",
+      "path": "_news/2023-07-25-lam-is-an-underappreciated-ai-chip-play-heres-why.md",
+      "title": "Lam Is an Underappreciated AI Chip Play. Here’s Why.",
+      "excerpt": "Advanced memory technology may be an underestimated beneficiary of the increased spending on artificial intelligence.",
       "sourceUrl": null,
-      "webUrl": "https://moneymorning.com/2023/07/19/this-changed-the-way-i-look-for-ai-stocks-forever/",
-      "originalUrl": "https://moneymorning.com/2023/07/19/this-changed-the-way-i-look-for-ai-stocks-forever/",
+      "webUrl": "https://www.barrons.com/articles/lam-research-stock-price-target-ed86dc56",
+      "originalUrl": "https://www.barrons.com/articles/lam-research-stock-price-target-ed86dc56",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/07/image001.jpg",
-          "width": 1024,
-          "height": 1024,
+          "url": "https://images.barrons.com/im-822582/social",
+          "width": 1280,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1178,13 +300,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://moneymorning.com/2023/07/19/this-changed-the-way-i-look-for-ai-stocks-forever/amp/",
-      "cdnAmpWebUrl": "https://moneymorning-com.cdn.ampproject.org/c/s/moneymorning.com/2023/07/19/this-changed-the-way-i-look-for-ai-stocks-forever/amp/",
-      "publishedDateTime": "2023-07-19T12:41:00-07:00",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/lam-research-stock-price-target-ed86dc56",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/lam-research-stock-price-target-ed86dc56",
+      "publishedDateTime": "2023-07-24T10:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Money Morning",
-        "domain": "moneymorning.com",
+        "name": "Barron's",
+        "domain": "barrons.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1194,10 +316,10 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "AI Hardware",
         "AI"
       ]
     }
   ],
-  "nextPage": 65
+  "nextPage": null
 }

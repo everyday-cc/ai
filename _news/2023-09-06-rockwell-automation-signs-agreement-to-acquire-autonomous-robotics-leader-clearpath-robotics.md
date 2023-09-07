@@ -33,6 +33,15 @@ related:
         width: 1000
         height: 853
         isCached: true
+  - title: "Rockwell acquires firm that makes autonomous mobile robots"
+    excerpt: "Rockwell Automation agreed to acquire a Canadian company that makes autonomous mobile robots for industrial settings with model names including Warthog, Jackal, Dingo and Turtlebot."
+    publishedDateTime: 2023-09-07T15:42:00Z
+    webUrl: "https://www.bizjournals.com/milwaukee/inno/stories/news/2023/09/07/rockwell-acquires-clearpath-robotics-of-canada.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "LDeVmOPRSz1y7XSP/TTcVNoN/FbljkpblJvD0XWr1lqBaxNPPi+GQ25gYLgtyuTQB63MEPG4a//cgU/Jp6zCxtja6fcqWYtmo0zPyOvMnVSk9Q2jmYk4vMM+TqtYjWMnCgBrmKSH1g8vOGtk79LwSaBxPcT6bw2WwhCiITzdUKXWTmaVZEBvySlVmnVaYjRiuBbu6+HnZZgBk1WusyvPziyEavGViLvjPOv0504ufWxKQaiSlCa6cVymg6YjNC13unH/qUR/YNnRonjeC/MffOMDngBd2L3otXnYf0vpd1L5NJVSMqeYrRXveNShDdlnaqypSfstYcv+5FQ9/RAhUa+kngufpXQQVrJOtPzNIic=;0/fqJlzsSnkveXx8qXJlOA=="
 ---

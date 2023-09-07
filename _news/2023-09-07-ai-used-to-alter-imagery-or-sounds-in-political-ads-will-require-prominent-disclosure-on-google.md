@@ -59,6 +59,36 @@ related:
         width: 3500
         height: 2332
         isCached: true
+  - title: "Google to Require Political Ads to Disclose If They Are AI-Generated"
+    excerpt: "The company rolls out the policy as some US political groups have sponsored AI-generated ads for the upcoming election season."
+    publishedDateTime: 2023-09-07T17:03:00Z
+    webUrl: "https://www.pcmag.com/news/google-to-require-political-ads-to-disclose-if-they-are-ai-generated"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/03WwWLDQGzRHmNCIO7S4lYY-1.fit_lim.size_1200x630.v1694099631.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "AI used to alter imagery or sounds in political ads will require prominent disclosure on Google"
+    excerpt: "(AP) - Google will soon require that political ads using artificial intelligence be accompanied by a prominent disclosure if imagery or sounds have been synthetically altered."
+    publishedDateTime: 2023-09-07T17:42:00Z
+    webUrl: "https://www.valleynewslive.com/2023/09/07/ai-used-alter-imagery-or-sounds-political-ads-will-require-prominent-disclosure-google/"
+    ampWebUrl: "https://www.valleynewslive.com/2023/09/07/ai-used-alter-imagery-or-sounds-political-ads-will-require-prominent-disclosure-google/?outputType=amp"
+    cdnAmpWebUrl: "https://www-valleynewslive-com.cdn.ampproject.org/c/s/www.valleynewslive.com/2023/09/07/ai-used-alter-imagery-or-sounds-political-ads-will-require-prominent-disclosure-google/?outputType=amp"
+    type: article
+    provider:
+      name: Valley News Live
+      domain: valleynewslive.com
+    quality: 47
+    images:
+      - url: "https://gray-kvly-prod.cdn.arcpublishing.com/resizer/pmOpEdMYw3H1AAI83tNcEdNYoVc=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/MSLIYIH6VJBOFGCSZHBHJZGS2I.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Google will require election ads to ‘prominently disclose’ AI content"
     excerpt: "Google will require verified advertisers to “prominently disclose” when a campaign ad “inauthentically depicts” people or events, in a bid to combat the spread of digitally manipulated images for political gain, the company said on Wednesday."
     publishedDateTime: 2023-09-06T21:35:00Z

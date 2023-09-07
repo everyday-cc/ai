@@ -1,29 +1,31 @@
 ---
 category: news
 title: "Is AI coming for our kids? Why the latest wave of pop-cultural tech anxiety should come as no surprise"
-excerpt: "highlighting debates about AI ethics. Reviewer Sheila O’Malley compared this to Blade Runner (1982), asking: If a memory is implanted into an android’s brain, a ‘personal’ memory of a childhood that never happened, then isn’t that memory a real ..."
-publishedDateTime: 2023-09-07T04:47:00Z
-originalUrl: "https://theconversation.com/is-ai-coming-for-our-kids-why-the-latest-wave-of-pop-cultural-tech-anxiety-should-come-as-no-surprise-212869"
-webUrl: "https://theconversation.com/is-ai-coming-for-our-kids-why-the-latest-wave-of-pop-cultural-tech-anxiety-should-come-as-no-surprise-212869"
+excerpt: "As artificial intelligence becomes mainstream, its infiltration into children's lives is causing tremendous anxiety. The global panic around AI's co-option of children's play and cultures has manifested unpredictably."
+publishedDateTime: 2023-09-07T16:30:00Z
+originalUrl: "https://techxplore.com/news/2023-09-ai-kids-latest-pop-cultural-tech.html"
+webUrl: "https://techxplore.com/news/2023-09-ai-kids-latest-pop-cultural-tech.html"
+ampWebUrl: "https://techxplore.com/news/2023-09-ai-kids-latest-pop-cultural-tech.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-ai-kids-latest-pop-cultural-tech.amp"
 type: article
-quality: 23
-heat: 23
+quality: 43
+heat: 43
 published: false
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://images.theconversation.com/files/546797/original/file-20230907-23-xup8ya.jpg?ixlib=rb-1.1.0&rect=17%2C0%2C3976%2C1988&q=45&auto=format&w=1356&h=668&fit=crop"
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/is-ai-coming-for-our-k.jpg"
     width: 1356
     height: 668
     isCached: true
 
-secured: "nhuO4882ioHhRFMJPB2LqEPM1Yrek+amOpULbw+AFCh0F3jcbwPjnXGFVQwwZLKfIN2OV1cOlgSCFnB5eWuaoX25AjXqrczUZRlahGjEe/WAjt9i32EX+vhX3apKHl23TvLG0YgTOhBvSPrfJS2723SkXNlgExRNiI+af30Ryx7Q2I2LA9X5UdjhFRTu5fwmkzdHdDyq0p+y5gDc6LR76TtKBA5gK5W89WLmrFCT2YwM+dPDQUS8bU7Nv7aXq86XgZfjLaOTABWZ2WBPgUYUd0oUGvjYX0UnJM42yU6fpXh7GIKru61oSgiO4a0ME2ulgnDchu+Nqnf1L2TlwQUa1PUmrOUSZ5KaP3/1NVRDwlA=;vxXe/5D5Pwpl9WrhYPw08g=="
+secured: "2dv/J1tZucKvYiCS7DsGwwhXuFpt/gs4aISThvx+kPl304G+h6CLIWai+lS89v8EfrxVLqLXzpu1EcNtT2YzDu5yWy5YzJjd3QTU4ZUtkAhq1j8uP213hs8CxQoyKF8F9UYJnNxjpJJ1ucYyr/dEnDdBK4/552hRVie/xn47iEKsarivc8usaXdTjkG59LAH1yXZLqVOqd/QLakcY+SWFWorKb67AU1FdYDr725mG9czbNy2tQXN7V1ncGTQmg1IHzkDXdOhC40EHu2Ou7pKXg3LO1AKcs+I/U6Hq8vDQIWTSVhJI9CvBbaU6YEix0w5df9/obSzC9DkwIPf+da5b6KELk1DbSZhuL8dO9Vennk=;Uv/7C1RJwjrVA3pcmZiVPA=="
 ---
 

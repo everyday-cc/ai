@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/synopsys-extends-s
 webUrl: "https://markets.businessinsider.com/news/stocks/synopsys-extends-synopsys-ai-eda-suite-with-industry-s-first-full-stack-big-data-analytics-solution-1032610580"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -29,6 +29,29 @@ images:
     isCached: true
 
 related:
+  - title: "Harnessing AI and data analytics can make clean energy more viable"
+    excerpt: "Based on 14 years of development and input from electric utility experts, IBM has created the Clean Electrification Maturity Model.\nThe post Harnessing AI and data analytics can make clean energy more viable appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-09-07T16:11:30Z
+    webUrl: "https://www.ibm.com/blog/harnessing-ai-and-data-analytics-can-make-clean-energy-more-viable/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 99
+  - title: "External Lighting for Video Analytics"
+    excerpt: "As camera resolution has improved, integrators have begun to take advantage of a wide gambit of AI applications, from basic people counting for business intelligence to deep learning-based people and object recognition functionalities. As AI-empowered ..."
+    publishedDateTime: 2023-09-07T15:11:00Z
+    webUrl: "https://www.securityinfowatch.com/video-surveillance/infrared-illuminators/article/53069703/external-lighting-for-video-analytics"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 24
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/08/16x9/IR_LIghting_Image.64dfaa4d56d8a.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Data and analytics interrupt their programs for generative AI"
     excerpt: "Amidst all the pronouncements from data and analytics providers on generative over the spring, we found a huge omission. Like all AI, generative will require governance, and most providers are for now paying lip service to that."
     publishedDateTime: 2023-09-07T13:00:00Z

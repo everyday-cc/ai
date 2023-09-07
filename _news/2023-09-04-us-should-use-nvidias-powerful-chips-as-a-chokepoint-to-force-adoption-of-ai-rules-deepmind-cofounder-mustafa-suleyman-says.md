@@ -43,15 +43,6 @@ related:
       name: Axios
       domain: axios.com
     quality: 19
-  - title: "Inflection AI co-founder Mustafa Suleyman: ‘Ban the use of AI in elections–right now’"
-    excerpt: "Free and fair elections are the foundation of American society–and next year’s are going to be the first of the generative AI era."
-    publishedDateTime: 2023-09-05T19:33:00Z
-    webUrl: "https://www.aol.com/finance/inflection-ai-co-founder-mustafa-163416358.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 10
 
 secured: "XuF437Wl0qI2B1evvdZXTbeC6PvxH1eBqN7XSfunFXU+kVQO5I0WzWnl+KonWsP7s9z6OxoUci6M7LM0v795ZVIMysGGkArGA7NyjxyVxv0ZlHpdgQ6xh7MXeIkt/CqY/wfN2zTuLqPM/rkc3X4NYzRYSh+RSyR9ERhvjgpCYvtlO/DL5ZdXq9CXmkKXBg5k2vPSHd2gz/OELAJ81+LYQfL+vc/mmWBfnO8MCF6TOZWCzDtlYYbNcaEOgOLVbgJb7GxVEED10/FiJC4+yvw70QaOanzbqZNW/6e5tBz+4oIjVwRwYJZYiJp3cphajj8XrTDokWCgyj/6lhMCfPTuCXJUQJcWBwPs8UIehTCVJ9dQbGUSnEm8gIOp+R58UFzPvHDDFL9s/4QoDDdBOCuuyCK1jXG/q7dcaF6gA3ZdsDZvzBQZDdtv8lmV68Br02hcwR+xi+U/2prOkSSODzkzvI7GyEIq0o6gTegdSROOp78Ls2yMiTlGOgjRifO3Ld3ZGfIhIrcxB6fJGGdQgNwPmQ==;Sb/LWCCljncRP42uFVKS9Q=="
 ---

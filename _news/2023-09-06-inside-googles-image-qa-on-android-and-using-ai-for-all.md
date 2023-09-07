@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevenaquino/2023/09/05/inside-googles-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2023/09/05/inside-googles-image-qa-on-android-and-using-ai-for-all/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Politics and AI: Google to require artificial intelligence disclosures on ads"
+    excerpt: "The tech juggernaut will require any political ads that use AI to create altered images or sounds to have a “clear and conspicuous” disclosure in a spot on the ad so that viewers will be able to see the warning. Google even suggested wording that the ..."
+    publishedDateTime: 2023-09-07T17:41:00Z
+    webUrl: "https://www.wsbtv.com/news/trending/politics-ai-google-require-artificial-intelligence-disclosures-ads/D33TEJ2I5NE4NNAWQMRQKJAMAA/"
+    ampWebUrl: "https://www.wsbtv.com/news/trending/politics-ai-google-require-artificial-intelligence-disclosures-ads/D33TEJ2I5NE4NNAWQMRQKJAMAA/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wsbtv-com.cdn.ampproject.org/c/s/www.wsbtv.com/news/trending/politics-ai-google-require-artificial-intelligence-disclosures-ads/D33TEJ2I5NE4NNAWQMRQKJAMAA/?outputType=amp"
+    type: article
+    provider:
+      name: WSB-TV
+      domain: wsbtv.com
+    quality: 69
+    images:
+      - url: "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/7InCH-vu-cPef2OtufK0V-lZnNQ=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/74ROHO3S3JDAVCBSNLZYGZ5DME.jpg"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Android Evolution: Google Tweaks Logo, Announces AI-Influenced Feature Drop"
     excerpt: "Recreating Google’s Android logo now requires two new ingredients: the Shift key and some shading. The company announced the logo makeover today in a post that reveals a more three-dimensional look for the familiar icon and capitalization of the formerly lowercase word \"Android.\""
     publishedDateTime: 2023-09-05T17:20:00Z

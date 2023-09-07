@@ -35,6 +35,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "More self-driving cars are coming to Austin"
+    excerpt: "The mayors of Austin and Tuscaloosa made a barbecue bet on this weekend's big game between Texas and Alabama. Mayor Kirk Watson will put up Central Texas BBQ from Micklethwait Craft Meat. Tuscaloosa Mayor Walt Maddox will wager a spread from Dreamland BBQ."
+    publishedDateTime: 2023-09-07T14:34:00Z
+    webUrl: "https://www.kxan.com/video/more-self-driving-cars-are-coming-to-austin/8966813/"
+    type: article
+    provider:
+      name: KXAN
+      domain: kxan.com
+    quality: 24
+    images:
+      - url: "https://www.kxan.com/wp-content/themes/nexstar/client/src/images/footer/nexstar-logo-white-nmg.png"
+        width: 396
+        height: 202
+        isCached: true
 
 secured: "MFHpnOvemxjRxh7Mk3+5GPHGByzurTji8w6EXei9uAQtcS638UjrbiAHtgjVbBS6lL5cmvTptwFNPmEAd0pHRVYzk+aT8AvMCn9TZo7ILQ1Fu+Qv3fSB39EdOLLJTX7nLuK57KPudElyq9ZE/CERd3pyJ+6CthTbG9Dx4z44GJM39EFcqKyeh5tQM7zgRxkxsdxB5trC3yOdesYoo2yZ7RWFZ9YhBG8IVFewjyqg7ruA7jhFopcf5XIO6GF2blpp5M6rX4CIztFRQUDSSSQjBv5uaxqejiNAi1Fa3/W1cNSEMSoy0hJewSBQ9hYBXSjUs7GeWUjIS1CuOCcHjTOpIdGtROV3/e3rnmckbdBSMByZPmYANLsfchKvvf3BWENIA576THmsetIr3ZVSnsciSBWjGSXYa1AK3gAv1kGnsZxcoIFvj2EvdEYzxzh+rJWcwaUzZVeiIiX3RwvouUNEuRkLh3coLcAuMK0cwXNILyj55bH1htPXXmK93nes/lwUEaSlNm6dxzFk8Cml7GDuig==;hqyOi7yDdbhdtLeMX/MIqA=="
 ---
