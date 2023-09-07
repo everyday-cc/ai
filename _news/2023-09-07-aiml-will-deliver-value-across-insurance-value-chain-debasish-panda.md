@@ -9,7 +9,7 @@ ampWebUrl: "https://inc42.com/buzz/ai-ml-deliver-value-insurance-value-chain-deb
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/ai-ml-deliver-value-insurance-value-chain-debasish-panda/amp/"
 type: article
 quality: 76
-heat: 76
+heat: 78
 published: true
 
 provider:

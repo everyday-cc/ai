@@ -22,29 +22,59 @@ topics:
   - AI
 
 related:
-  - title: "Mass General Brigham and GE HealthCare partner on AI algorithm"
-    excerpt: "GE HealthCare and Mass General Brigham revealed that they will be co-developing an AI algorithm that can predict missed care opportunities (MCO), including missed appointments, failure to schedule a follow-up, or patients being late to appointments, all of which can be costly to a health system and result in inefficiencies."
-    publishedDateTime: 2023-09-06T20:31:00Z
-    webUrl: "https://vator.tv/news/2023-09-06-mass-general-brigham-and-ge-healthcare-partner-on-ai-algorithm"
+  - title: "AI-generated child sex imagery has every US attorney general calling for action"
+    excerpt: "Second, after considering the expert commission’s recommendations, Congress should act to deter and address child exploitation, such as by expanding existing restrictions on CSAM to explicitly cover AI-generated CSAM. This will ensure prosecutors have the tools they need to protect our children."
+    publishedDateTime: 2023-09-06T21:48:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/09/ai-generated-child-sex-imagery-has-every-us-attorney-general-calling-for-action/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/09/ai-generated-child-sex-imagery-has-every-us-attorney-general-calling-for-action/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/ai-generated-child-sex-imagery-has-every-us-attorney-general-calling-for-action/amp/"
     type: article
     provider:
-      name: vator
-      domain: vator.tv
-    quality: 54
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 83
     images:
-      - url: "https://vatortv.s3.amazonaws.com/images/videos/main/22256.jpg"
-        width: 320
-        height: 240
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/09/us_capitol_hero-800x450.jpg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "GE HealthCare and Mass General Brigham Collaborate on an AI Algorithm to Predict Missed Care Opportunities"
-    excerpt: "GE HealthCare and Mass General Brigham announced, as part of its initial collaboration, the co-development of an artificial intelligence (AI) algorith"
-    publishedDateTime: 2023-09-06T16:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230906773062/en/"
+  - title: "US Copyright Office denies protection for another AI-created image"
+    excerpt: "The U.S. Copyright Office has again rejected copyright protection for art created using artificial intelligence, denying a request by artist Jason M. Allen for a copyright covering an award-winning image he created with the generative AI system Midjourney."
+    publishedDateTime: 2023-09-06T21:20:00Z
+    webUrl: "https://www.reuters.com/legal/litigation/us-copyright-office-denies-protection-another-ai-created-image-2023-09-06/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 16
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/obog_o_zVai_ANfSJsOBGf9EywA=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JSX7UODPNVM4PKCR3XEOWCDN6U.jpg"
+        width: 728
+        height: 381
+        isCached: true
+  - title: "Prosecutors in all 50 US states urge Congress to protect children from AI-generated sexual abuse images"
+    excerpt: "Attorneys general from all 50 US states have called on federal lawmakers to study the ways that AI can be used to exploit children."
+    publishedDateTime: 2023-09-06T02:54:00Z
+    webUrl: "https://www.scmp.com/tech/policy/article/3233554/prosecutors-all-50-us-states-urge-congress-protect-children-ai-generated-sexual-abuse-images"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 53
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/09/06/560741d1-b74f-416b-8984-121925892aae_f864c992.jpg?itok=WAT8osZC&v=1693968787"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "NC attorney general, other AGs call for crackdown on artificial intelligence threats to children"
+    excerpt: "N.C. Attorney General Josh Stein and 53 other AGs are calling on Congress to crack down on artificial intelligence, citing possible harm to children through \"deepfake\" images."
+    publishedDateTime: 2023-09-06T18:28:00Z
+    webUrl: "https://wraltechwire.com/2023/09/06/nc-attorney-general-other-ags-call-for-crackdown-on-artificial-intelligence-threats-to-children/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 4
 
 secured: "OcLRgriYqzZ+eRZk5JAGpdaPm0WCglm6dRmutKqrZJfdcoJve2PqH0J4dF9tJX24MYcIdwpX5bczr0YqBBeXSgd09tCfzGOuj+Eqn8P/gxq7+3q7mDlsPc5AvGHyB5uksYvHGxlaZhaHOKsEryisBwjskvuDipIm33cw/MXoMIDzLX8K3Wa2XAd1KhmkTED59wNCEHipXM2Q+nwB4dNpjyMxFHeDB7qvrSf9ltGHGP6YFNVGKWZzKAIyOpDQelS09B+5Io0qTXKtclJNxcbe3kJ1pkYeHGkwZnOtTh0MJAA38P5Ewi1taoIQYF9hJb7e3aLxgqTXIJ1KwWc4W5JExFTAAobWCw6xEjeele76SPU5k2RC7ByjIe2YwXdqz7e5azUwFS0Sj9pBCgTweSToeqomHpsAlVN/+KaajcVsBqy7CUdxwoauQgMpHe79wCVqXeovs8KAOyntkylKthXEVH7eJNqurn1nD0uQFPb4o119T4QUDeQWlS9xW4SSpnIRhiEVeog6uLKnvu+r7NJxHQ==;grsVO1RPAYQizsVfCMAAcg=="
 ---

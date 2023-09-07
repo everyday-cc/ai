@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Why you need a consistent AI implementation strategy"
+    excerpt: "Businesses must avoid a common misstep when it comes to artificial intelligence: focusing on strategy, not AI implementation."
+    publishedDateTime: 2023-09-07T08:24:00Z
+    webUrl: "https://techcentral.co.za/ai-implementation-strategy-fnb-fnbprom/231189/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 39
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2023/04/mark-nasila-1500-800.jpg"
+        width: 1500
+        height: 800
+        isCached: true
   - title: "Impulse AI Revolutionizes Marketing and Content Creation With Cutting-Edge AI Solutions"
     excerpt: "This tool is a game-changer.\" - Lawrence Schroth, Managing Director. Impulse AI offers various subscription packages tailored to different needs: - Essential Start - Free package with Curie (Good) Open AI Model, 36 AI Templates, 5 Images per month ..."
     publishedDateTime: 2023-09-04T18:40:00Z

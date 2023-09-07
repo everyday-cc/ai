@@ -49,6 +49,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "A|I: The AI Times – Cohere reportedly hunting for fresh funding as OpenAI passes $1B revenue pace"
+    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
+    publishedDateTime: 2023-09-07T09:00:00Z
+    webUrl: "https://betakit.com/ai-the-ai-times-cohere-reportedly-hunting-for-fresh-funding-as-openai-passes-1b-revenue-pace/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 26
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2023/06/Cohere.jpg"
+        width: 1050
+        height: 700
+        isCached: true
 
 secured: "H7vBWfSJXouynRFA0Hb2TkWvQkMcTFoJWsZeWN6M0nUMrDHl7pGKczwaeaUYfnwlRdkHOTkDXy/uR7Gji4ZMmap1an0oNeCh/pbdggRjSPhxRjUMvu+uW0hR38Jf5m+h2j0gxD79OaQf9hyzdocYiGeT2TGMXXudm7RLWhncPn2NOsCdXHNSe5b/k3KsBXFXlNSSebUvVewuwOSGm7VZPZrrQAeFJO3rirGEnK5n8oGOjMeOMHcLvydeo4oCM5uHgICMFBaj1UPzQ5d+EPb6kmNqkG+e3jPCNq00yfgZVff4+4puK4ouhLd6kjc+4z7ElHY7akqnYa8o8UZfsZeWAzP3/oYtysRQxqaeJCYkbE8=;VM3dR/IijF2okpXboX5D3g=="
 ---

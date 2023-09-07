@@ -7,8 +7,8 @@ originalUrl: "https://vator.tv/news/2023-09-06-mass-general-brigham-and-ge-healt
 webUrl: "https://vator.tv/news/2023-09-06-mass-general-brigham-and-ge-healthcare-partner-on-ai-algorithm"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: vator
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Attorneys General from all 50 states urge Congress to help fight AI-generated CSAM"
-    excerpt: "The attorneys general from all 50 states have banned together and sent an open letter to Congress, asking for increased protective measures against AI-enhanced child sexual abuse images."
-    publishedDateTime: 2023-09-05T18:54:00Z
-    webUrl: "https://www.engadget.com/attorneys-general-from-all-50-states-urge-congress-to-help-fight-ai-generated-csam-184938825.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 41
   - title: "GE HealthCare and Mass General Brigham Collaborate on an AI Algorithm to Predict Missed Care Opportunities"
     excerpt: "GE HealthCare and Mass General Brigham announced, as part of its initial collaboration, the co-development of an artificial intelligence (AI) algorith"
     publishedDateTime: 2023-09-06T16:00:00Z

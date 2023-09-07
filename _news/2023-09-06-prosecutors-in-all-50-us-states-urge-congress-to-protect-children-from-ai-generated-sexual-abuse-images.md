@@ -7,8 +7,8 @@ originalUrl: "https://www.scmp.com/tech/policy/article/3233554/prosecutors-all-5
 webUrl: "https://www.scmp.com/tech/policy/article/3233554/prosecutors-all-50-us-states-urge-congress-protect-children-ai-generated-sexual-abuse-images"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: -1
+published: false
 
 provider:
   name: scmp.com
@@ -29,36 +29,54 @@ images:
     isCached: true
 
 related:
-  - title: "Prosecutors in all 50 states urge Congress to strengthen tools to fight AI child sexual abuse images"
-    excerpt: "The top prosecutors in all 50 states are calling on Congress to study how artificial intelligence can be used to exploit children through pornography, and come up with legislation to further guard aga"
-    publishedDateTime: 2023-09-05T14:06:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/prosecutors-50-states-urge-congress-strengthen-tools-fight-102928933"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/prosecutors-50-states-urge-congress-strengthen-tools-fight-102928933"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/prosecutors-50-states-urge-congress-strengthen-tools-fight-102928933"
+  - title: "AI-generated child sex imagery has every US attorney general calling for action"
+    excerpt: "Second, after considering the expert commission’s recommendations, Congress should act to deter and address child exploitation, such as by expanding existing restrictions on CSAM to explicitly cover AI-generated CSAM. This will ensure prosecutors have the tools they need to protect our children."
+    publishedDateTime: 2023-09-06T21:48:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/09/ai-generated-child-sex-imagery-has-every-us-attorney-general-calling-for-action/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/09/ai-generated-child-sex-imagery-has-every-us-attorney-general-calling-for-action/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/ai-generated-child-sex-imagery-has-every-us-attorney-general-calling-for-action/amp/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 42
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 83
     images:
-      - url: "https://s.abcnews.com/images/US/wirestory_bc7f9384d469b061d603d6ba9748f38a_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/09/us_capitol_hero-800x450.jpg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "Prosecutors in all 50 states urge Congress to strengthen tools to fight AI child sexual abuse images"
-    excerpt: "The top prosecutors in all 50 states are calling on Congress to study how artificial intelligence can be used to exploit children through pornography, and come up with legislation to further guard against it."
-    publishedDateTime: 2023-09-05T18:34:00Z
-    webUrl: "https://apnews.com/article/ai-child-pornography-attorneys-general-bc7f9384d469b061d603d6ba9748f38a"
+  - title: "US Copyright Office denies protection for another AI-created image"
+    excerpt: "The U.S. Copyright Office has again rejected copyright protection for art created using artificial intelligence, denying a request by artist Jason M. Allen for a copyright covering an award-winning image he created with the generative AI system Midjourney."
+    publishedDateTime: 2023-09-06T21:20:00Z
+    webUrl: "https://www.reuters.com/legal/litigation/us-copyright-office-denies-protection-another-ai-created-image-2023-09-06/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
+      name: Reuters
+      domain: reuters.com
+    quality: 67
     images:
-      - url: "https://dims.apnews.com/dims4/default/be8f4fd/2147483647/strip/true/crop/4468x2513+0+233/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd4%2F3e%2F4a1c0034c879346939887a573f46%2F44e8f64eb5ec41aa86d71408e1bbc8b4"
-        width: 1440
-        height: 810
+      - url: "https://www.reuters.com/resizer/obog_o_zVai_ANfSJsOBGf9EywA=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JSX7UODPNVM4PKCR3XEOWCDN6U.jpg"
+        width: 728
+        height: 381
         isCached: true
+  - title: "Attorneys General from all 50 states urge Congress to help fight AI-generated CSAM"
+    excerpt: "The attorneys general from all 50 states have banned together and sent an open letter to Congress, asking for increased protective measures against AI-enhanced child sexual abuse images."
+    publishedDateTime: 2023-09-05T18:54:00Z
+    webUrl: "https://www.engadget.com/attorneys-general-from-all-50-states-urge-congress-to-help-fight-ai-generated-csam-184938825.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 41
+  - title: "NC attorney general, other AGs call for crackdown on artificial intelligence threats to children"
+    excerpt: "N.C. Attorney General Josh Stein and 53 other AGs are calling on Congress to crack down on artificial intelligence, citing possible harm to children through \"deepfake\" images."
+    publishedDateTime: 2023-09-06T18:28:00Z
+    webUrl: "https://wraltechwire.com/2023/09/06/nc-attorney-general-other-ags-call-for-crackdown-on-artificial-intelligence-threats-to-children/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 4
 
 secured: "TkuwSZ337uXo52M0fpqYpAo/a2+C7SlYh4qJmXuVjEfP4AeNiWdSSmFBk7R5gM33akk3b0ioprHTA/1Z67eVcgQz0idAM23CdA4zGwjB/JwxkTErzcE6rgR4gzT2DQLgvwpXQPREO4nWo1BQXvm8t5PcKbxV4AfMlxCgG8zsQZG0pyrqcq97bOP3tAXaSxEKOYJ+e8x01NB1rvqboyV49WICKI5tyCWmeJjxX9dlxrMIL7mjUDlBDr2qTSEP3wXMikBkMMXZaS/jXJr8VMJ47v6JyGoXTpnjPYLsLajv4oZVJ0UdmQG0TZdvo/Teh32Ndn2N+JmPNP5JxSC1cJyVBeuhRiZEn+xgXzufBk7U09ZQiERs1BGAJCNGLoHjb6tPNUSGoPvAAuX49sCSUrNwTuS44h1ZRr9qPTFJraefTOZWc+ktbAcjqjj8siBbeNEvPo3PqBtmo32oPRS167MMIdjeWzCxjwCbYBl8L1Sph/MiNyI6RQwWjiDJ1DjJmh05sA6JSFyaJvwvxNg7FbmC5w==;0UKVo2E8aR763c/w9k/Olw=="
 ---
