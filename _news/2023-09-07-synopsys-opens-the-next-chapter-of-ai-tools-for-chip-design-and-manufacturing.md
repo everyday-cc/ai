@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/09/06/synopsys-opens-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/09/06/synopsys-opens-the-next-chapter-of-ai-tools-for-chip-design-and-manufacturing/amp/"
 type: article
 quality: 101
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -75,6 +75,15 @@ related:
         width: 708
         height: 400
         isCached: true
+  - title: "Synopsys extends AI-driven full-stack EDA suite"
+    excerpt: "Electronic Design Automation (EDA) giant Synopsys Inc. has extended its Synopsys.ai full-stack suite of artificial intelligence (AI)-driven data analytics."
+    publishedDateTime: 2023-09-07T12:22:00Z
+    webUrl: "https://electronics360.globalspec.com/article/20155/synopsys-extends-ai-driven-full-stack-eda-suite"
+    type: article
+    provider:
+      name: electronics360.globalspec
+      domain: globalspec.com
+    quality: 19
 
 secured: "p/gw4raRVzWCUOJAk0DKPye0Ph1smLV9HSS39CJpT9RSIecd8ojaWr+OVkB28DqAFNcRsqlixwzOfJgFLwkfLcx5HBb8BK0kniTGktzDF4NRsZtxNy+/gncoPSe3SawpHqo07QpjlRH+Wem/SvXUeiaCTZpp3iVQYJAXW1FBcQkzI/QtWYXJ+ItB3Z20OWHBx2WcnLBhZuZhWlaO9go4ZWVxJDt1hsyJ8cIaaiUGY/7pKgkCzRI9uulerFsP1aUdJ3sTk7Wkc/lxk2jXz/kRdfigsVeHeuwlIuLTRo94SBhOrsGYmv1rDcmVAN6OumjgTmtaxB5XAVAurFMX0IvNpheaxCdCjF9l5+FHGz9hQNmO2Ord0Ite1Dq48Sdi1lcvObFx+5Z4mEBCBa8y11kM8QGw2nhA5TS2Gbg9rmea9wwCVe7h9N63o5qtVLY3H19wJH6Ppire6s9FOVyjt319WepJUu51m2PHOevGJNDhsqp+LrcJXQbNELifPnxxJx7LpgozReySa+7bBKPua7y3WA==;bfaRL7jF80iQM/uYPa2D7A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://theprint.in/theprint-valuead-initiative/fintech-outsourcing-
 cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/theprint-valuead-initiative/fintech-outsourcing-india-crafting-the-future-of-global-finance-with-tech-mastery/1747072/?amp"
 type: article
 quality: 53
-heat: 153
+heat: 143
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
         width: 533
         height: 405
         isCached: true
-  - title: "3 Fintech Stocks the Big Money Is Buying Now"
-    excerpt: "In the ever-evolving financial realm, fintech stocks with big money continue to grab investors’ attention. The fintech industry has undergone a radical shift, evolving into an epicenter of innovation,"
-    publishedDateTime: 2023-09-03T12:59:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-fintech-stocks-the-big-money-is-buying-now"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
   - title: "Relevantz: Driving fintech innovation with Fiserv"
     excerpt: "Senior Director of Client Success at Relevantz, Georgie John, traces his time at the service provider and the importance of its partnership with Fiserv"
     publishedDateTime: 2023-09-04T14:31:00Z

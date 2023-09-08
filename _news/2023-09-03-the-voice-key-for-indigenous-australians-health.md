@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Welcome to ‘the robot soundscape’: Australia’s music industry braces for the rise of music AI"
+    excerpt: "The spectre of intelligent technologies is looming over Australian artists, and dominating the chatter at Brisbane’s Bigsound music conference"
+    publishedDateTime: 2023-09-08T04:16:00Z
+    webUrl: "https://www.theguardian.com/music/2023/sep/08/ai-music-bigsound-brisbane-ai-dj-spotify-beatles"
+    ampWebUrl: "https://amp.theguardian.com/music/2023/sep/08/ai-music-bigsound-brisbane-ai-dj-spotify-beatles"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/music/2023/sep/08/ai-music-bigsound-brisbane-ai-dj-spotify-beatles"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 63
+    images:
+      - url: "https://i.guim.co.uk/img/media/06725909ead3f251a99ee29b980421c8e1732af2/0_97_2200_1320/master/2200.jpg?width=620&quality=85&auto=format&fit=max&s=71feb5e47fb311dad011f56049daf6bf"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Meet AI Builder Club: The free short residency program for Australian AI startups"
     excerpt: "Meet the AI Builder Club, a free residency program for Australian enthusiasts to build their own AI projects with expert mentorship."
     publishedDateTime: 2023-09-06T01:45:00Z
@@ -32,22 +48,6 @@ related:
       - url: "https://www.smartcompany.com.au/wp-content/uploads/2023/09/ai-builder-club.jpg?resize=1200,630"
         width: 1200
         height: 630
-        isCached: true
-  - title: "New poll shows more than half of Australians likely to vote No for the Voice to Parliament, as Labor falls behind Coalition"
-    excerpt: "More than half of Australians will likely vote No to a Voice to Parliament if it were held today, according to a new poll, as the campaign from both sides ramps up this week."
-    publishedDateTime: 2023-09-03T21:14:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/new-poll-shows-more-than-half-of-australians-likely-to-vote-no-for-the-voice-to-parliament-as-labor-falls-behind-coalition/news-story/9b82178b4de45acbfc867623d8f7b63e"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/new-poll-shows-more-than-half-of-australians-likely-to-vote-no-for-the-voice-to-parliament-as-labor-falls-behind-coalition/news-story/9b82178b4de45acbfc867623d8f7b63e?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/new-poll-shows-more-than-half-of-australians-likely-to-vote-no-for-the-voice-to-parliament-as-labor-falls-behind-coalition/news-story/9b82178b4de45acbfc867623d8f7b63e?amp"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 18
-    images:
-      - url: "https://content.api.news/v3/images/bin/a672c8ee501120d5d6d43aa7f10fb508"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "INBsivf6D/qehA5yOMif3KkRHRSb7ipc2Q9y9ojLzHUs3yUTLKLORq9zuMy1EBYkUeeUk9vDAKsaFwu/QOBToAoKoNmKA+na2veyZ3wQlYWAxZC1S0ldlp29anfjgb1zeJrHYfjdDDGuABwaRiXJmVwlrJ9kP1TdELebqFA5DpzvK9CfedKeK3+6F803ZGPkX6qB/0z/ukR6bYEs2ZN/uOOCiDARKZayUOBF6hhYs41EsnAC+yZKzuvTBqyXzrBm/BuIlqUV4oX7gHxxTS82mwTylNU8gnChSHaGp96EN3XXO893YY5u09uadvsH0dHdwNbI7sBMA5VaSMBVApc5bCCreQJUPeqby2ECoBdkQlk=;q9thOkUgUlNZM0gN7Zpoqg=="

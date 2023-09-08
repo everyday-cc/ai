@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/09/05/sam-altman-backed-startup-aims-to-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/05/sam-altman-backed-startup-aims-to-match-neurodivergent-jobseekers-with-ideal-jobs/amp/"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Neurodivergent engineering research at USU funded by the National Science Foundation"
+    excerpt: "More will soon be known about neurodiversity in engineering students, thanks to funding from the National Science Foundation and the efforts of Utah State University College of Engineering Assistant Professor Marissa Tsugawa."
+    publishedDateTime: 2023-09-07T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/1000921"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 17
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/fb7d0958-d48c-43d6-8890-67c01b586c29/Rendition/low-res/Content/Public"
+        width: 700
+        height: 467
+        isCached: true
 
 secured: "FA4eAawKWtJrCv7d7MaNfMFGM0fPNTyXeYHSaURUZCjAyTYrWMnbqBTokYbeNTjyJiSa0ZzaoQm8ENkn0yQTjXf5L8VUYpd6a9OdrjPV5FKkT9Pqc1ER/2fXvLOtLNxYX66phcwtFqmX9eyzyAgBzGHQkupZGqVhgrKFp7Y3j/Xk1kCqnA4+b2iv/e8E0NKy/JqlJ2maq1TmAkR6TQwk6ntr3qeOXrl9S1L0XrFD/SZPyx1LDYTxH6GNNRQsjBMpP7sTzXfzh+hoG51mn64O/ERhsnTutoxyXI5MZgicW4yrhz5q7i8gela2bQie7nOdhpE+1aFKh+WI2hAZDnWgyr+mSDrjc147S6MXknwthMJzcA4l5N5M/BoJjTNqM9GXoknU8BItSPUVdOlApAcxucWmpFl5TDcnNd2sipwsE3Gv55Y/v9Z8YuQN6gLpXVX/fkW2UcxHnnZtRW+/l0f1KzIfLQSlnhQTZYEgenoKnsix0ma+HzudGh6uC92rMs+e6qKF+H+h3mLvz8C/JcGlOQ==;jLYb5JBuFCB+Abc5aDelTg=="
 ---

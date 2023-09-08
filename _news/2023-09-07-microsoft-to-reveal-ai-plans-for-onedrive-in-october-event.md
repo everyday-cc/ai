@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-to-reveal-ai-plan
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-reveal-ai-plans-for-onedrive-in-october-event/"
 type: article
 quality: 104
-heat: 264
+heat: 274
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
     images:
       - url: "https://i.pcmag.com/imagery/articles/06YvlqJVdOHHYRxLbLenLLJ-1.fit_lim.size_1200x630.v1694117923.jpg"
         width: 1120
+        height: 630
+        isCached: true
+  - title: "China suspected of using AI on social media to sway US voters, Microsoft says"
+    excerpt: "The AI-generated content is more ‘eye-catching than the awkward visuals’ used in previous such campaigns, such as digital drawings and photo collages."
+    publishedDateTime: 2023-09-08T04:05:00Z
+    webUrl: "https://www.scmp.com/news/world/united-states-canada/article/3233795/china-suspected-using-ai-social-media-sway-us-voters-microsoft-says"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 83
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/09/08/8438f40e-2aba-48ed-b552-e615240048b0_ab7bf349.jpg?itok=t1JRKHiO&v=1694117038"
+        width: 1200
         height: 630
         isCached: true
   - title: "China may be using AI to sway U.S. voters: Microsoft"

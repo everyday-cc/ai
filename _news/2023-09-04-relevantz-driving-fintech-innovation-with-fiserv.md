@@ -55,15 +55,6 @@ related:
         width: 533
         height: 405
         isCached: true
-  - title: "3 Fintech Stocks the Big Money Is Buying Now"
-    excerpt: "In the ever-evolving financial realm, fintech stocks with big money continue to grab investors’ attention. The fintech industry has undergone a radical shift, evolving into an epicenter of innovation,"
-    publishedDateTime: 2023-09-03T12:59:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-fintech-stocks-the-big-money-is-buying-now"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
   - title: "You Don't Have to Pick a Winner in Fintech. Here's Why."
     excerpt: "Artificial intelligence (AI) is on every investor's mind these days ... As you can see, there are lots of ways to gain direct exposure to the fintech sector. Investors who prioritize safety and thus want less risky options can look at Visa and Mastercard."
     publishedDateTime: 2023-09-05T06:26:00Z

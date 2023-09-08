@@ -33,15 +33,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Kuwaiti fintech Kem raises $1 million pre-Seed round"
-    excerpt: "Kuwait-based fintech Kem has raised a $1 million pre-Seed round from a group of investors led by Maqamees Holdings. Founded in 2021"
-    publishedDateTime: 2023-09-03T12:34:00Z
-    webUrl: "https://www.wamda.com/2023/09/kuwaiti-fintech-kem-raises-1-million-pre-seed-round"
-    type: article
-    provider:
-      name: wamda
-      domain: wamda.com
-    quality: 19
 
 secured: "Twn4N39JSI1V+osGgr+731nVK3Iw/kM+j+Fy3+E96p3pNEhfoGF7Zyiwpupvc4CV6l7wRN3H3b/9izuPa93IrziWDZe9/0QOOjiBiWHXKnl6ZrpeK0EYl3f2gKvDlKXEQYv9hD1ojxWMgFfiu0A7Xm/ephWZ23Vd+nVQzHj6SjkH8qmZ+9HxJ5iVJlIi1Sr72ymX+vrHy3klDx/Z9s6s5BYp1Haa/8vKiM/RXA5nPqUPFETVZ82yz+MArZoH9sY3K+jLmMFSDnI7yqo/fwx1PNrkYwhCnc0AC4oJsbR3IETZfHaaT4JS3Qg9SYiEuIyoMuSSOtWRHvKoryCOnScJr7OdFCjA2EyCjqh0QF8Suoox5DfG0gRUh5STqZt0Vmm2woCNtCRmRaDtF6u6Q4ZcgGDMgy39yM8CYAKou03r1fDY8Ngoeqrd4Ehb52Xn1MpwqDphiYexe3pt/M6KxcCs37YZdm7q4PEvFZAhGg9GHKvLp3PkP8hDbcjqY3bEJJsLP8EiC7MoAzL9djF2/QHiVw==;CAWEDocCEJYovtuQb7b3cA=="
 ---

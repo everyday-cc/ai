@@ -55,15 +55,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "How the rise of AI is revolutionising the FinTech industry"
-    excerpt: "In that sense, the role of AI in revolutionizing how financial institutions like non-banking financial companies (NBFCs) are offering banking-like services is proving to be extremely important. Not only is AI helping new-age financial institutions in automating manual processes such as data entry and customer request management,"
-    publishedDateTime: 2023-09-03T12:30:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-how-the-rise-of-ai-is-revolutionising-the-fintech-industry-3231450/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 19
 
 secured: "o730M3l39NSsv67ygLsQo5Beue770PMokHYMFhQcDLB1u1F59s3KGpEA1t809QVJBtd38pGORFk6cl84HdwJJDBwB7qRak1jtU1fjb1PE7xmjGyKRdtAWRZ6T+2yd7oIuod1sOyBomj4x0j50nuXUdCHO+7MyAczeuHBQLsuAAQrSAlspPuxAEGDLBbg8zvVHqAeHhh0JarI1wpSr+u3scz7pOgIW0TBkaXN/hj8HjT2cMkv7PJvxLYMvGN8MgB9HEPqLAjoil0jm5HwQeeqoIJ9FUTtsnsmhybBXXl6fckJM8uralJLw844po+9ji22G+OU9QrrR7t5RvSPSSrjalQ2OuY52Uw7HJ/V4g0cCL4=;0XW0ob8NnYdHTjmlTN0SJg=="
 ---

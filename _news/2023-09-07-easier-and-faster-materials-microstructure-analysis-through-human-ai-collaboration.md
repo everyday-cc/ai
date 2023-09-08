@@ -70,6 +70,15 @@ related:
         width: 708
         height: 400
         isCached: true
+  - title: "Synopsys extends AI-driven full-stack EDA suite"
+    excerpt: "Electronic Design Automation (EDA) giant Synopsys Inc. has extended its Synopsys.ai full-stack suite of artificial intelligence (AI)-driven data analytics."
+    publishedDateTime: 2023-09-07T12:22:00Z
+    webUrl: "https://electronics360.globalspec.com/article/20155/synopsys-extends-ai-driven-full-stack-eda-suite"
+    type: article
+    provider:
+      name: electronics360.globalspec
+      domain: globalspec.com
+    quality: 19
 
 secured: "JU2K1YesbDiuKj4wLKRzo7gtDRKKkfDQ1zIDR3PNtagDIu5GDK6Kier1vP2Fa4zMvd9QorwJUkdqNtYcFVHQZirnFVlXkv9voop/XcMWt5+Vgh13uni2widkQQBpqCGFiBqOAT2E2QURjdghYc6epMevf0HMT6TNo+kgV25AkR0SaUqlimGCT9G859ZiHlyEn1g33UICBFd8262+ly5DSRAI+9WO21EqjlLTY8n+MoOfv9OU7cvs7LuB9sDXzg5FMYnFXNqprjUf9I5CG113RTPKLQg0WWfRYuTJnr7z3WtXjIx7KAwMQ4oa8J0BS6M+MTCFc6yZZqgnSiEctwYw1c+KSwZRIxze94xoTSLeKUk+MQDPgB1DMWqmJaX1ZFlz4TkyiSLplK8pOR3piKKi9/V01E3dTen7VVYn28ZsWXk3ZeW92cmUp1gmoa7rog2VMqXxEEAMGmG6Kwg7FUbmRRt7T1QujmmojHFsaqLogqJkFrRxCW+pMp4XTJGJAXPQphKxmMpM1iqlu98rr9ezIw==;WS7UI8LMnZEae/W4p9rQxg=="
 ---

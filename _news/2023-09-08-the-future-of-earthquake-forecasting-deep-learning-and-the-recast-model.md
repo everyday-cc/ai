@@ -43,19 +43,19 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "Machine learning can level the playing field against match fixing – helping regulators spot cheating"
-    excerpt: "A new machine learning model can pinpoint anomalies in sports results – whether from match fixing, strategic losses or poor player performance. It could be a useful tool in the fight against cheating."
-    publishedDateTime: 2023-09-08T02:44:00Z
-    webUrl: "https://theconversation.com/machine-learning-can-level-the-playing-field-against-match-fixing-helping-regulators-spot-cheating-209392"
+  - title: "Machine Learning Can Level The Playing Field Against Match Fixing Helping Regulators Spot Cheating"
+    excerpt: "Our new machine learning model could be a game changer when it comes to detecting questionable behaviour and unusual outcomes – especially the practice of match fixing . Currently, the act of altering match outcomes for personal or team gain is largely ..."
+    publishedDateTime: 2023-09-08T04:42:00Z
+    webUrl: "https://menafn.com/1107031568/Machine-Learning-Can-Level-The-Playing-Field-Against-Match-Fixing-Helping-Regulators-Spot-Cheating"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 39
+      name: Mena FN
+      domain: menafn.com
+    quality: 40
     images:
-      - url: "https://images.theconversation.com/files/547104/original/file-20230908-19-gz8i1l.jpg?ixlib=rb-1.1.0&rect=51%2C878%2C5700%2C2850&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
+      - url: "https://menafn.com/updates/pr/2023-09/08/TC_b09c8image_story.jpg"
+        width: 960
+        height: 640
         isCached: true
 
 secured: "0Z1N3lSU0ROatTE6Fa8JCVzIT0MYZelujjlQmP429V5QOHde7yDCPjQ2TTPxurZTGOCzgDu+ko0OpuvXIptamg03qVsVoeKm4tcVr+KVgb9lvm4AHtgcHD3rvRG5Y63h+HjZzaa4TqtU54TgaaaQOeFh0x/+MosK04wSG9Um26FhVMgijrcgYfmfKuhMqehJc+2J7RF6iIGyyqAoz31qeXAZJDE2Qio2mby3E18BnhxaxVFlc2V1XWE+xTL8DqEbii3yhd8s0x0EP8B1AdpQgwaCgEKoBTuNOXUCu3C1NWP9+Q0crHl1a2nqdCWw/xsjRKSv0B477XDhgSqwk94SW1yGBYWWSeSNrEuTi995Iz/yacjC4BMc3j/3BdwTfXv3+cjP4Vi2uy95dl3aeIHfaKOz8Wm0E5gffmnEC7OGzvi3FoDe+RvLq0fE19Xvla7ahHEp2WWaxnNeCcMUsgl3+spcUhckRxXndVj+WPvt4BgyY34g+bOtYwsmVASvI2CWWWGCZltAnvWRhpjNNxG//Q==;GY8EN2mpGLhkHZJ/wdUHZA=="

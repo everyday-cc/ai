@@ -7,7 +7,7 @@ originalUrl: "https://www.smartcompany.com.au/technology/artificial-intelligence
 webUrl: "https://www.smartcompany.com.au/technology/artificial-intelligence/ai-builder-club-free-residency-program-australia/"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "New poll shows more than half of Australians likely to vote No for the Voice to Parliament, as Labor falls behind Coalition"
-    excerpt: "More than half of Australians will likely vote No to a Voice to Parliament if it were held today, according to a new poll, as the campaign from both sides ramps up this week."
-    publishedDateTime: 2023-09-03T21:14:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/new-poll-shows-more-than-half-of-australians-likely-to-vote-no-for-the-voice-to-parliament-as-labor-falls-behind-coalition/news-story/9b82178b4de45acbfc867623d8f7b63e"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/new-poll-shows-more-than-half-of-australians-likely-to-vote-no-for-the-voice-to-parliament-as-labor-falls-behind-coalition/news-story/9b82178b4de45acbfc867623d8f7b63e?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/new-poll-shows-more-than-half-of-australians-likely-to-vote-no-for-the-voice-to-parliament-as-labor-falls-behind-coalition/news-story/9b82178b4de45acbfc867623d8f7b63e?amp"
+  - title: "Welcome to ‘the robot soundscape’: Australia’s music industry braces for the rise of music AI"
+    excerpt: "The spectre of intelligent technologies is looming over Australian artists, and dominating the chatter at Brisbane’s Bigsound music conference"
+    publishedDateTime: 2023-09-08T04:16:00Z
+    webUrl: "https://www.theguardian.com/music/2023/sep/08/ai-music-bigsound-brisbane-ai-dj-spotify-beatles"
+    ampWebUrl: "https://amp.theguardian.com/music/2023/sep/08/ai-music-bigsound-brisbane-ai-dj-spotify-beatles"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/music/2023/sep/08/ai-music-bigsound-brisbane-ai-dj-spotify-beatles"
     type: article
     provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 18
+      name: The Guardian
+      domain: theguardian.com
+    quality: 63
     images:
-      - url: "https://content.api.news/v3/images/bin/a672c8ee501120d5d6d43aa7f10fb508"
-        width: 1280
-        height: 720
+      - url: "https://i.guim.co.uk/img/media/06725909ead3f251a99ee29b980421c8e1732af2/0_97_2200_1320/master/2200.jpg?width=620&quality=85&auto=format&fit=max&s=71feb5e47fb311dad011f56049daf6bf"
+        width: 620
+        height: 372
         isCached: true
   - title: "The Voice key for Indigenous Australian's health"
     excerpt: "Australia will soon vote on constitutional recognition of its Indigenous people, and to give them a direct voice to Parliament. Health will be high on the agenda. Chris McCall reports."

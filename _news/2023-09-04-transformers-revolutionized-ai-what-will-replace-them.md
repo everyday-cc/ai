@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2023/09/03/transformers-revolu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/09/03/transformers-revolutionized-ai-what-will-replace-them/amp/"
 type: article
 quality: 93
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -58,15 +58,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "How the rise of AI is revolutionising the FinTech industry"
-    excerpt: "In that sense, the role of AI in revolutionizing how financial institutions like non-banking financial companies (NBFCs) are offering banking-like services is proving to be extremely important. Not only is AI helping new-age financial institutions in automating manual processes such as data entry and customer request management,"
-    publishedDateTime: 2023-09-03T12:30:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-how-the-rise-of-ai-is-revolutionising-the-fintech-industry-3231450/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 19
 
 secured: "us3Prg9gptdkqEtKZvQM9gvCqcx/V04FSU5og+OLcYjur0ZaUb28/QYV4DoFDN85iHgv4EM9QSpXUYRLYCULGcluNht+4bY1itWGivhaTu0/2TAW68IlwWshEEeuoRkf1atP7PsDl2Fm71FRRtz+9yiywdpZV2PTBqKj3HuN+e/AMhny31qvUr56OvT1FFaWVLHYUjsfX/+GSJzyAkSCLjiGizZ2zj1D68lo46j1nz0v7zwnuNiaXTf5pWNxL56yq4SKDbSCmKPP0fy/lLIB8KXbpVHjFwpzsL2kLc+kkRAIYWj9Qcpkcdncwv6JfBjtuUjLN9e6vUTEfgUeerOraya5xVN5BzhsIFN27jTTxoweaSSsOc/E+fREF+xD9SKa6Gm7T54RAoHpxj6CO/tI9WbFQ0CtBgfO8SL3zuOfRY272RkQLnmqnofYvWZJ/ASIC7xD2lYHjlTHxHaYk+F7Sci9mJk6KANEpd9HrxfLm8Fl+KhpuCfQ8QyQnAM/zXyfAlz4FrAcyiA/q7av7N/uKg==;NMGIWSunK5NE7DnX+5iJZQ=="
 ---

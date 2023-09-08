@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Machine learning can level the playing field against match fixing – helping regulators spot cheating"
-excerpt: "A new machine learning model can pinpoint anomalies in sports results – whether from match fixing, strategic losses or poor player performance. It could be a useful tool in the fight against cheating."
-publishedDateTime: 2023-09-08T02:44:00Z
-originalUrl: "https://theconversation.com/machine-learning-can-level-the-playing-field-against-match-fixing-helping-regulators-spot-cheating-209392"
-webUrl: "https://theconversation.com/machine-learning-can-level-the-playing-field-against-match-fixing-helping-regulators-spot-cheating-209392"
+title: "Machine Learning Can Level The Playing Field Against Match Fixing Helping Regulators Spot Cheating"
+excerpt: "Our new machine learning model could be a game changer when it comes to detecting questionable behaviour and unusual outcomes – especially the practice of match fixing . Currently, the act of altering match outcomes for personal or team gain is largely ..."
+publishedDateTime: 2023-09-08T04:42:00Z
+originalUrl: "https://menafn.com/1107031568/Machine-Learning-Can-Level-The-Playing-Field-Against-Match-Fixing-Helping-Regulators-Spot-Cheating"
+webUrl: "https://menafn.com/1107031568/Machine-Learning-Can-Level-The-Playing-Field-Against-Match-Fixing-Helping-Regulators-Spot-Cheating"
 type: article
-quality: 39
+quality: 40
 heat: -1
 published: false
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://images.theconversation.com/files/547104/original/file-20230908-19-gz8i1l.jpg?ixlib=rb-1.1.0&rect=51%2C878%2C5700%2C2850&q=45&auto=format&w=1356&h=668&fit=crop"
-    width: 1356
-    height: 668
+  - url: "https://menafn.com/updates/pr/2023-09/08/TC_b09c8image_story.jpg"
+    width: 960
+    height: 640
     isCached: true
 
 related:
@@ -58,6 +58,6 @@ related:
         height: 394
         isCached: true
 
-secured: "cqUQ4TmMJrDgQrM2Uv1qDPcNjTgqNuoj2c7BoTNyGXFqRQGP2sdYfQ0djxtNwloRvsOjj56wBP0Qu3DDR6Tp2uOw2z1DM31KUWoxRZDPsMIQO5Pt5DX9/DVY7XVWPTtYRLiYpfenjFP1iG5BkENob1xEb7+yLCKhDF99jsZICUwmb8iB0UHBxu9U0YRrZNSzG32dbvQZiEaOyCwgq57c3J2YFPVoPZgRoQa47ZVcujLFeAB+I/c+/WWGwKQBBDIp2QYvgvOSxby3wbWHIjcMaUPHfEyyOAZH0mj8yU42Uvs+MgTYxfTvrMdnBwv5pbcyRpTkEIpyrap/IJP4VW9eGl27bJTJSyli5kMJDJRD0oo=;mnXg6P8DOaGcpSjV7pWfpw=="
+secured: "ErLOEoHmjB51Mcu0EG8c5Cppzq9cA592hFSXEGAUzw6wGJXVCRt0Uri16wfYomZ2zp9s3QPigaKRFfejZNH6ktgxA2Ai9lhRxQK53a979X8OwCUj3945uA5Dv0WdciMA2/rgYi5864m16oHsE5zFheEZNOATqWg23Th3jvv2usrS8j0eWnqbQ+FdDnYDfE1QtdcsCHtX8OQ3s5jO2Xii1ifGCx1UrSi7NEC4eBq5TcIv1evwio8BlAnGwwlqdooVKtfhywznxwyAttlNqpk/qwz9cWwvHuoR1F1Jf+6XEBguXc/QhFqI7rz/7WU+lwIvPFYNAjSF07G93kUcW8+EUe0LeZCPXqBE19Ua4/4sD6A=;7mvvgZ/VgLS3/nYnoHdywA=="
 ---
 

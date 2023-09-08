@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Kuwaiti fintech Kem raises $1 million pre-Seed round"
-    excerpt: "Kuwait-based fintech Kem has raised a $1 million pre-Seed round from a group of investors led by Maqamees Holdings. Founded in 2021"
-    publishedDateTime: 2023-09-03T12:34:00Z
-    webUrl: "https://www.wamda.com/2023/09/kuwaiti-fintech-kem-raises-1-million-pre-seed-round"
-    type: article
-    provider:
-      name: wamda
-      domain: wamda.com
-    quality: 19
   - title: "Swiss B2B Fintech GenTwo Raises Series A led by Point72 Ventures"
     excerpt: "GenTwo, a B2B Fintech platform specialized in securitization of bankable and non-bankable assets, announced that it has raised funding."
     publishedDateTime: 2023-09-06T13:26:00Z

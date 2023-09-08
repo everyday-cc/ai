@@ -55,15 +55,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How the rise of AI is revolutionising the FinTech industry"
-    excerpt: "In that sense, the role of AI in revolutionizing how financial institutions like non-banking financial companies (NBFCs) are offering banking-like services is proving to be extremely important. Not only is AI helping new-age financial institutions in automating manual processes such as data entry and customer request management,"
-    publishedDateTime: 2023-09-03T12:30:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-how-the-rise-of-ai-is-revolutionising-the-fintech-industry-3231450/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 19
 
 secured: "2MFEvUKkRhs4nnoHlePzlcDZCVrXrHM/t4j1eTIahU4pTZVGfjgTvVBZhg8F6sHinMgPPWN5XIPFoIxZIMD5Y5JTrzoe+hbVBHvBvprdRMipwhzN9xasd4I5vkTdTnoQPqfeBtVp9J0RfCzjkAtLGmAniTwXosbqnNRPTRRG9udtiWzZrgg/OIXfEGFFSZ2hgznNEpI8zgdbcMrmSLgXvIIwLwt4JgUwdDitAacX9Gipb45fpBLnooKkZ0EjqL5lgEc+m4V07XRvw3ObJ3ZyrWoOFvzgxKkws7OXnKvwvOGcbA6HbEsa5Go2eE/ZIjcn+KSzFbtIV21+LabIJzoR8aQKIz7ZmfUGzIhOfcXpYj0=;aOLRKLpbcysAanpmT7sRjQ=="
 ---
