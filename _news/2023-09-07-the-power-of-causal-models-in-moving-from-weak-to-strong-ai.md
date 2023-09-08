@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/07/the-power-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/07/the-power-of-causal-models-in-moving-from-weak-to-strong-ai/amp/"
 type: article
 quality: 87
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Companies Look to Squeeze More Power Out of AI Chips"
+    excerpt: "Strategies that boost the power of advanced processors are in demand as limited chip supplies force companies to get creative"
+    publishedDateTime: 2023-09-08T10:00:00Z
+    webUrl: "https://www.wsj.com/articles/companies-look-to-squeeze-more-power-out-of-ai-chips-fe33e2f2"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
+    images:
+      - url: "https://images.wsj.net/im-848428/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "The chilling rise of AI scams"
     excerpt: "Criminals are cloning voices and making calls to trick victims into sending them money. How can they be stopped?"
     publishedDateTime: 2023-09-04T01:00:00Z

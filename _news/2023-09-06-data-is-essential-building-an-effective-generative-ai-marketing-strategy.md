@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/data-is-essential-building-an-effective-g
 webUrl: "https://www.ibm.com/blog/data-is-essential-building-an-effective-generative-ai-marketing-strategy/"
 type: article
 quality: 115
-heat: 175
+heat: 185
 published: true
 
 provider:
@@ -33,6 +33,22 @@ related:
       name: IBM
       domain: ibm.com
     quality: 109
+  - title: "Artificial Intelligence Is Taking Over Marketing"
+    excerpt: "AI has made great strides within the marketing department, with a large percentage of companies using it today. Learn the AI tools out there that can help you improve."
+    publishedDateTime: 2023-09-06T13:51:00Z
+    webUrl: "https://www.forbes.com/sites/georgedeeb/2023/09/06/artificial-intelligence-is-taking-over-marketing/"
+    ampWebUrl: "https://www.forbes.com/sites/georgedeeb/2023/09/06/artificial-intelligence-is-taking-over-marketing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/georgedeeb/2023/09/06/artificial-intelligence-is-taking-over-marketing/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64f881680386820459f9e2c7/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 642
+        isCached: true
   - title: "What CTOs are learning from generative AI"
     excerpt: "These tools use machine learning algorithms and natural language processing (NLP) to help developers automate some aspects of coding. “AI-generated coding enables developers to work on more creative and fulfilling tasks,” Rotar says. “By spending ..."
     publishedDateTime: 2023-09-05T09:01:00Z

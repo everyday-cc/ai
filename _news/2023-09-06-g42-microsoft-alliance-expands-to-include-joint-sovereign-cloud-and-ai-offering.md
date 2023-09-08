@@ -183,6 +183,34 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 54
+  - title: "Microsoft to build AI model for detecting cancer: All the details"
+    excerpt: "The model will be trained on up to four million digitised microscopy slides across multiple types of cancer, from Paige's unmatched petabyte-scale archive of clinical data. Paige will utilise Microsoft's advanced supercomputing infrastructure to train the technology at scale and ultimately deploy it to hospitals and laboratories across the globe using Azure."
+    publishedDateTime: 2023-09-08T10:19:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/microsoft-to-build-ai-model-for-detecting-cancer-all-the-details/103505919"
+    type: article
+    provider:
+      name: health.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-103505919,imgsize-13786,width-1200,height=765,overlay-ethealth/health-it/microsoft-to-build-ai-model-for-detecting-cancer-all-the-details.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "China is using artificial intelligence to target U.S. voters, Microsoft says"
+    excerpt: "A new report by Microsoft says China is using artificial intelligence to influence voters in the U.S. CBS News intelligence and national security reporter Olivia Gazis has more on the type of AI imagery and content being put out as part of the cyber campaign."
+    publishedDateTime: 2023-09-08T01:08:00Z
+    webUrl: "https://www.cbsnews.com/video/microsoft-china-using-ai-to-target-us-voters/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 51
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/09/08/bab07e80-e0b9-40ec-8a25-c5dcc409b462/thumbnail/1200x630/7c3730bf20362c1a335dac60796f326e/cbsn-fusion-microsoft-china-using-ai-to-target-us-voters-thumbnail-2273211-640x360.jpg?v=181d27d1e918a6408b48ea2e220df310"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "G42 and Microsoft unlock new opportunities for digital transformation with joint sovereign cloud and AI offering"
     excerpt: "Microsoft's sovereign cloud offering public sector and regulated industries to use new platform capabilities for securing access to the latest cloud and AI features available on Azure public cloud and helping local privacy and regulatory requirements."
     publishedDateTime: 2023-09-05T16:43:00Z

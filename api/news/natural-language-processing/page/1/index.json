@@ -159,49 +159,6 @@
       ]
     },
     {
-      "path": "_news/2023-09-05-we-know-remarkably-little-about-how-ai-language-models-work.md",
-      "title": "We know remarkably little about how AI language models work",
-      "excerpt": "What stood out to me in Will’s story is that we know remarkably little about how AI language models work and why they generate the things they do. With these tests, we’re trying to measure and glorify their “intelligence” based on their outputs, without fully understanding how they function under the hood.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/09/05/1078974/we-know-remarkably-little-about-how-ai-language-models-work/",
-      "originalUrl": "https://www.technologyreview.com/2023/09/05/1078974/we-know-remarkably-little-about-how-ai-language-models-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/09/Worldbuildings_1.jpeg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/09/05/1078974/we-know-remarkably-little-about-how-ai-language-models-work/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/05/1078974/we-know-remarkably-little-about-how-ai-language-models-work/amp/",
-      "publishedDateTime": "2023-09-05T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-05-civo-adds-speech-to-text-to-greener-cloud.md",
       "title": "Civo Adds Speech-To-Text To Greener Cloud",
       "excerpt": "Using a ‘digital boiler’, the system immerses computers in mineral oil to capture the generated heat, this is then passed through a heat exchanger to heat the water.",
@@ -417,7 +374,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/09/04/upping-your-prompt-engineering-superpowers-via-target-your-response-techniques-when-using-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -1357,6 +1314,61 @@
         "Microsoft AI",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-kaldi-speech-recognition-gains-tensorflow-deep-learning-support.md",
+      "title": "Kaldi speech recognition gains TensorFlow deep learning support",
+      "excerpt": "Kaldi, an open-source speech recognition toolkit, has been updated with integration with the open-source TensorFlow deep learning library. Developers Yishay Carmiel and Hainan Xu of Seattle-based ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/deep-learning/kaldi-speech-tensorflow-deep-learning/",
+      "originalUrl": "https://sdtimes.com/deep-learning/kaldi-speech-tensorflow-deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2017/08/DSC2820-1.jpg",
+          "width": 1620,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning",
+        "Google AI",
+        "TensorFlow"
       ]
     },
     {

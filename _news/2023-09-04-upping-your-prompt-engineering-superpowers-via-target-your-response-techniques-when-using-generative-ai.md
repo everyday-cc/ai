@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/09/04/upping-your-promp
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/09/04/upping-your-prompt-engineering-superpowers-via-target-your-response-techniques-when-using-generative-ai/amp/"
 type: article
 quality: 75
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Prompt Engineering Embraces Tree-Of-Thoughts As Latest New Technique To Solve Generative AI Toughest Problems"
+    excerpt: "An advanced prompt engineering technique known as Tree of Thoughts is emerging for generative AI. A great deal can be accomplished. Take a close look at what works."
+    publishedDateTime: 2023-09-08T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/09/08/prompt-engineering-embraces-tree-of-thoughts-as-latest-new-technique-to-solve-generative-ai-toughest-problems/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/09/08/prompt-engineering-embraces-tree-of-thoughts-as-latest-new-technique-to-solve-generative-ai-toughest-problems/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/09/08/prompt-engineering-embraces-tree-of-thoughts-as-latest-new-technique-to-solve-generative-ai-toughest-problems/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 70
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64faaefd875152868af9e2c7/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Unlocking growth: Practical AI strategies for your business"
     excerpt: "By prioritising ethics, fostering a culture of innovation, and leveraging available resources—including webinars like this, which are chock-full of actionable expert insights—SMEs can unlock the full potential of AI to optimise their operations and ..."
     publishedDateTime: 2023-09-04T23:01:00Z

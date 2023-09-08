@@ -99,17 +99,17 @@ related:
         isCached: true
   - title: "AI used to alter imagery or sounds in political ads will require prominent disclosure on Google"
     excerpt: "(AP) - Google will soon require that political ads using artificial intelligence be accompanied by a prominent disclosure if imagery or sounds have been synthetically altered."
-    publishedDateTime: 2023-09-07T17:42:00Z
-    webUrl: "https://www.valleynewslive.com/2023/09/07/ai-used-alter-imagery-or-sounds-political-ads-will-require-prominent-disclosure-google/"
-    ampWebUrl: "https://www.valleynewslive.com/2023/09/07/ai-used-alter-imagery-or-sounds-political-ads-will-require-prominent-disclosure-google/?outputType=amp"
-    cdnAmpWebUrl: "https://www-valleynewslive-com.cdn.ampproject.org/c/s/www.valleynewslive.com/2023/09/07/ai-used-alter-imagery-or-sounds-political-ads-will-require-prominent-disclosure-google/?outputType=amp"
+    publishedDateTime: 2023-09-07T18:42:00Z
+    webUrl: "https://www.nbc11news.com/2023/09/07/ai-used-alter-imagery-or-sounds-political-ads-will-require-prominent-disclosure-google/"
+    ampWebUrl: "https://www.nbc11news.com/2023/09/07/ai-used-alter-imagery-or-sounds-political-ads-will-require-prominent-disclosure-google/?outputType=amp"
+    cdnAmpWebUrl: "https://www-nbc11news-com.cdn.ampproject.org/c/s/www.nbc11news.com/2023/09/07/ai-used-alter-imagery-or-sounds-political-ads-will-require-prominent-disclosure-google/?outputType=amp"
     type: article
     provider:
-      name: Valley News Live
-      domain: valleynewslive.com
+      name: KKCO
+      domain: nbc11news.com
     quality: 47
     images:
-      - url: "https://gray-kvly-prod.cdn.arcpublishing.com/resizer/pmOpEdMYw3H1AAI83tNcEdNYoVc=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/MSLIYIH6VJBOFGCSZHBHJZGS2I.jpg"
+      - url: "https://gray-kkco-prod.cdn.arcpublishing.com/resizer/rzzSW2P3kdbmYsKW-ZnJwtFSrww=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/7VV4MOJ4QZBBJGCIIXCM52PV2M.jpg"
         width: 800
         height: 450
         isCached: true

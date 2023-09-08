@@ -9,8 +9,8 @@ ampWebUrl: "https://www.seattletimes.com/nation-world/artificial-intelligence-ma
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/artificial-intelligence-may-influence-whether-you-can-get-pain-medication/?amp=1"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: Seattle Times
@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "AI May Influence Who Can Get or Prescribe Pain Medication"
-    excerpt: "Share on Facebook. Opens in a new tab or window Share on Twitter ... but the mechanics behind the formulas used are generally not shared with the public. Artificial intelligence (AI) is working its way into more parts of American life."
-    publishedDateTime: 2023-09-03T18:01:00Z
-    webUrl: "https://www.medpagetoday.com/special-reports/features/106145"
-    type: article
-    provider:
-      name: MedPage Today
-      domain: medpagetoday.com
-    quality: 19
 
 secured: "GpeNwZKhORWrLmAxc8H41/cnrrh/gzg22UFKnlVAdhDXQI0On9SlzulOrmBYUbfBVEfMhdVB3SHJtjEAhlJWPmAYc1EZu1UP8eC5m7IE2HIc8f/6fteqQYkTEuuWejPAy9TLFIllmt0sRIPofe52TCE6hmI88InxX3mFoyL75nr3182HpuYn1fsSeZT7B4n/wAAlojRa21F89qb//Z2pNiFi0ENKPzXTUpKMPdfH4QvnkZKbQu3GMVgvOsJTkez7l72Zcspg97e0vl3/9pzgdlr+uzMgxQGkLQTR8jOoy/NQjCnawIiKrXXu2ibl2EEhyWWYze/2OzaW2w3af4VoxN9B0HA9lG6Qxfg7R4IDEjYUdo8nerpPEtayh/4hYIHakzA/wx6b5om+KUTzyKHg1q1PmQRm6jJtos6uBm9PXweqMT1ZHUET3gyWr4YjdGoODeaMDCG1DChDvTyVPRnO8DHfJKbtRnovxbEEJdj6Rsiw/u5BsJgC0pAdLLjBdp1O5XTe/YzcBnAnwXPHiwd3Kw==;fUVNoxAqcz2tktyzckJTmg=="
 ---

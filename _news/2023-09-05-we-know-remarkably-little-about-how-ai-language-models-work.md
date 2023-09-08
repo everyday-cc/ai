@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2023/09/05/1078974/we-know-remarkab
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/05/1078974/we-know-remarkably-little-about-how-ai-language-models-work/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: MIT Technology Review
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ant Unveils AI Language Model for Wealth Management, Insurance"
-    excerpt: "Ant Group Co. unveiled an artificial intelligence tool to use for wealth management and insurance services, joining the race for next-generation AI."
-    publishedDateTime: 2023-09-08T08:06:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-09-08/ant-unveils-ai-language-model-for-wealth-management-insurance"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 49
   - title: "Artificial Language Models Teach Us Nothing About Language"
     excerpt: "As the accuracy of natural language processing (NLP) models increased over the 2010s, there was a clear sacrifice in interpretability. Effectively, the more powerful and accurate language models have become, the less cognitively plausible they seem to be."
     publishedDateTime: 2023-09-04T23:05:00Z

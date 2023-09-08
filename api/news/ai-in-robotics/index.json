@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-08-in-us-china-ai-contest-the-race-is-on-to-deploy-killer-robots.md",
+      "title": "In U.S.-China AI contest, the race is on to deploy killer robots",
+      "excerpt": "Washington and Beijing are in a contest to develop AI-controlled weapons that will operate autonomously. The outcome could decide the global balance of power.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/investigates/special-report/us-china-tech-drones/",
+      "originalUrl": "https://www.reuters.com/investigates/special-report/us-china-tech-drones/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/investigates/special-report/assets/us-china-tech-drones/mastheads/share_drones.jpg?v=314607080923",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-08T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-08-welcome-to-the-robot-soundscape-australias-music-industry-braces-for-the-rise-of-music-ai.md",
       "title": "Welcome to ‘the robot soundscape’: Australia’s music industry braces for the rise of music AI",
       "excerpt": "The spectre of intelligent technologies is looming over Australian artists, and dominating the chatter at Brisbane’s Bigsound music conference",
@@ -179,49 +231,6 @@
       "provider": {
         "name": "devdiscourse",
         "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-grene-robotics-unveils-indias-first-ai-driven-advanced-autonomous-anti-drone-system.md",
-      "title": "Grene Robotics Unveils India's First AI-Driven Advanced Autonomous Anti-Drone System",
-      "excerpt": "Grene Robotics Unveils India's First AI-Driven Advanced Autonomous Anti-Drone System - Grene Robotics, a Hyderabad-based robotics company, has introduced an advanced autonomous anti-drone",
-      "sourceUrl": null,
-      "webUrl": "https://www.siliconindia.com/news/startups/grene-robotics-unveils-indias-first-aidriven-advanced-autonomous-antidrone-system-nid-225217-cid-19.html",
-      "originalUrl": "https://www.siliconindia.com/news/startups/grene-robotics-unveils-indias-first-aidriven-advanced-autonomous-antidrone-system-nid-225217-cid-19.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.siliconindia.com/news/newsimages/09ure641.jpg",
-          "width": 570,
-          "height": 367,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-07T01:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconIndia",
-        "domain": "siliconindia.com",
         "images": null,
         "publishers": null,
         "authors": null

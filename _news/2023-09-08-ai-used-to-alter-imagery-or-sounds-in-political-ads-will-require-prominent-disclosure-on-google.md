@@ -2,26 +2,26 @@
 category: news
 title: "AI used to alter imagery or sounds in political ads will require prominent disclosure on Google"
 excerpt: "(AP) - Google will soon require that political ads using artificial intelligence be accompanied by a prominent disclosure if imagery or sounds have been synthetically altered."
-publishedDateTime: 2023-09-07T17:42:00Z
-originalUrl: "https://www.valleynewslive.com/2023/09/07/ai-used-alter-imagery-or-sounds-political-ads-will-require-prominent-disclosure-google/"
-webUrl: "https://www.valleynewslive.com/2023/09/07/ai-used-alter-imagery-or-sounds-political-ads-will-require-prominent-disclosure-google/"
-ampWebUrl: "https://www.valleynewslive.com/2023/09/07/ai-used-alter-imagery-or-sounds-political-ads-will-require-prominent-disclosure-google/?outputType=amp"
-cdnAmpWebUrl: "https://www-valleynewslive-com.cdn.ampproject.org/c/s/www.valleynewslive.com/2023/09/07/ai-used-alter-imagery-or-sounds-political-ads-will-require-prominent-disclosure-google/?outputType=amp"
+publishedDateTime: 2023-09-07T18:42:00Z
+originalUrl: "https://www.nbc11news.com/2023/09/07/ai-used-alter-imagery-or-sounds-political-ads-will-require-prominent-disclosure-google/"
+webUrl: "https://www.nbc11news.com/2023/09/07/ai-used-alter-imagery-or-sounds-political-ads-will-require-prominent-disclosure-google/"
+ampWebUrl: "https://www.nbc11news.com/2023/09/07/ai-used-alter-imagery-or-sounds-political-ads-will-require-prominent-disclosure-google/?outputType=amp"
+cdnAmpWebUrl: "https://www-nbc11news-com.cdn.ampproject.org/c/s/www.nbc11news.com/2023/09/07/ai-used-alter-imagery-or-sounds-political-ads-will-require-prominent-disclosure-google/?outputType=amp"
 type: article
 quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Valley News Live
-  domain: valleynewslive.com
+  name: KKCO
+  domain: nbc11news.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://gray-kvly-prod.cdn.arcpublishing.com/resizer/pmOpEdMYw3H1AAI83tNcEdNYoVc=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/MSLIYIH6VJBOFGCSZHBHJZGS2I.jpg"
+  - url: "https://gray-kkco-prod.cdn.arcpublishing.com/resizer/rzzSW2P3kdbmYsKW-ZnJwtFSrww=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/7VV4MOJ4QZBBJGCIIXCM52PV2M.jpg"
     width: 800
     height: 450
     isCached: true
@@ -138,6 +138,6 @@ related:
         height: 377
         isCached: true
 
-secured: "dOI/Y9ekxZtBSL8150x0mjiK9uA/M/SkjmS4Br6NK5zNFQGoS1O1H3qqq71xO+DII5CsfpZlUB4hYpZDsItHqgX8xxHKCcJc+ahuRJPEU4oG9XO4avI1HEowUO3Qi8xFIEWszLuLNvwgdiU/q/Vig+xFUEaU8W8bJwYtDBkvwYT1IoUvy44tqSlaQWVI44yUL++fTKFKqKac5wKAAIqWgX2c9o2OAItL7VRWrZ2egIl+y/a0PryXPlbkjKTdJPI5iDxBWxY+XBbb4/pGSwPzp6reiqY1EaSDGx9EJhZ/1QZrPN+d6W95Mj/p6r8qPnxThgl1uae+ABFwqJglZbX3SO9lfs/0CZKfWdJFYY9X0YO2exTp7UBY+4efyxppqjZiDSJq+ntEAQOcAOvejpy4KtBcoiRqsy6tpaC/UGKsQPEbJLtJFZhytWGQoBFAmH0Z8gZ3J/eowHaXxRn3FHp9QUnNU/mbzsboA3kn9MWG9/pmTIYoxa28qjUd0Zec26vGkQ2ssWfBJKEObRx0JFftzA==;8grjogWuBlK7jcTOGHpWCg=="
+secured: "ABdkIZcWlDZ6PeQHNJpWYNtcDjpeRJ/o/joZrP6ld73Z6sWgY7o9B6vUkiqEzNaltA0fcPQGzdFY6LWavMnqeADchA4OmlmYDduVlXQBs20rnui2RyYdwffv4yg0BFF4E6/CuzycQMXwqVdQBvKilBai9qfQ4pk/ArFiFKqypS0dywICLjz9Qq+ojUt0AYtTPHH+u/E54kMCZ6dby1/CcbazwHLslmQccVwElQNvqDZ1DqCDDY2A8NSJQFIV84vJCi2Sm3GKO6TlKKNu/bwQujstHwbRBk5ecESZ/NqD5bhFTigxhvAB4IW2sjTuOW3ugHPPrYwpFN8rKs7r6Qe+brTAYBC1T64SfwpokYwhi8w=;7FL3wYISKPGKQRF8BQDDHQ=="
 ---
 

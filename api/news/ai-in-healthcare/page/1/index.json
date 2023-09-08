@@ -55,40 +55,6 @@
       ]
     },
     {
-      "path": "_news/2023-09-06-artificial-intelligence-may-influence-whether-you-can-get-pain-medication.md",
-      "title": "Artificial intelligence may influence whether you can get pain medication",
-      "excerpt": "Artificial intelligence is working its way into more parts of American life. As AI spreads within the health care landscape, it brings familiar concerns of bias and accuracy and whether government regulation can keep up with rapidly advancing technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/nation-world/artificial-intelligence-may-influence-whether-you-can-get-pain-medication/",
-      "originalUrl": "https://www.seattletimes.com/nation-world/artificial-intelligence-may-influence-whether-you-can-get-pain-medication/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/nation-world/artificial-intelligence-may-influence-whether-you-can-get-pain-medication/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/artificial-intelligence-may-influence-whether-you-can-get-pain-medication/?amp=1",
-      "publishedDateTime": "2023-09-05T14:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2023-09-05-riding-the-wave-of-artificial-intelligence-a-comprehensive-look-at-ai-stocks.md",
       "title": "Riding the Wave of Artificial Intelligence: A Comprehensive Look at AI Stocks",
       "excerpt": "Erica Fluer Artificial Intelligence (AI) isn't merely a buzzword, or a futuristic concept confined to science fiction novels; it's an integral part of the modern world that is shaping the future in unprecedented ways.",
@@ -1359,6 +1325,49 @@
       "provider": {
         "name": "The Hindu",
         "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-17-how-artificial-intelligence-gave-a-paralyzed-woman-her-voice-back.md",
+      "title": "How Artificial Intelligence Gave a Paralyzed Woman Her Voice Back",
+      "excerpt": "A brain implant and digital avatar allow a paralyzed stroke survivor to speak with for first time in 18 years with the help of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ucsf.edu/news/2023/08/425986/how-artificial-intelligence-gave-paralyzed-woman-her-voice-back",
+      "originalUrl": "https://www.ucsf.edu/news/2023/08/425986/how-artificial-intelligence-gave-paralyzed-woman-her-voice-back",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ucsf.edu/sites/default/files/2023-08/bravo3-card-image.jpg",
+          "width": 1360,
+          "height": 905,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-16T15:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UC San Francisco",
+        "domain": "ucsf.edu",
         "images": null,
         "publishers": null,
         "authors": null

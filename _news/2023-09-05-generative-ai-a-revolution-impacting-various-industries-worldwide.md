@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How To Hire A COO For Your Startup In A Generative AI Era"
+    excerpt: "Some think a startup doesn’t really need a COO, but Davidovs Venture Collective's Marina Davidova disagrees and lays out the case for the necessity of this important hire and how generative AI can help."
+    publishedDateTime: 2023-09-08T11:00:00Z
+    webUrl: "https://news.crunchbase.com/venture/startup-generative-ai-hiring-coo-davidova-davidos/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 37
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/HR.jpeg"
+        width: 900
+        height: 506
+        isCached: true
 
 secured: "i+0HVC8ntSL+eXEY3ijLiOc/xTY1cjauqBR4dcIE16/4AbrTmZBY71ZYItQgXiSqzngAuUAD1QraVkvAT6vkcrb4y2vciCbrBnKkOvTIDK6OeIUTXblEWnWpNoGZSlOAYjM++xqaie6TT0e61+63HzvwxU4V44ew87hkYXUkmT+gdyu2ylvsRTblQrFULb8pUEza6bvGNEneKYFtyTTKR5172AziXUE3IeFYRoEyd91r/Fc1UCIXsJ4n9NpBCqLNGh0gFPus2wQjTOx1heThugmz5VhcIOjoW6mwVvqcyIQRyrDzFjs0eQMS25qwvJw7mOZaxwD0prcFQzSwNDhNK7k3l8HfftfOs94HHt1sAe86kc7g5UEi9LpTW2P/QKLk6n8wuJZS7J5UuT81C232XEtGrVC2txTFwug+QiFE7C8GuBDIWfgY8aGkpwfzVTVp/BexPdKtPLHbe8DaiejHdRGCd5uWRecv5VBlDjHTH9EW8AkKNWd1uSS++3UihvOByPVB5+tBNp8oyPvX5GjZyA==;NCz9eBQzJvN2xhE5/p0eTg=="
 ---

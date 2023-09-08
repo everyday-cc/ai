@@ -63,15 +63,6 @@ related:
         width: 862
         height: 485
         isCached: true
-  - title: "Backlash over Dutton’s plan for second referendum if Voice vote fails"
-    excerpt: "Prime Minister Anthony Albanese said the argument for another referendum “could only possibly make sense if you’re Peter Dutton”, and the best approach was to set up the Voice with constitutional recognition in the referendum on October 14."
-    publishedDateTime: 2023-09-03T19:00:00Z
-    webUrl: "https://www.watoday.com.au/politics/federal/backlash-over-dutton-s-plan-for-second-referendum-if-voice-vote-fails-20230903-p5e1mi.html"
-    type: article
-    provider:
-      name: WAtoday
-      domain: watoday.com.au
-    quality: 19
   - title: "David Littleproud backs Peter Dutton's promise of Indigenous recognition referendum should the Voice to Parliament fail"
     excerpt: "Nationals Leader David Littleproud says his party will support Peter Dutton's promise to hold a second referendum to recognise Indigenous Australians in the constitution if the \"yes\" vote fails and the Coalition wins the next election. Federal politics and ..."
     publishedDateTime: 2023-09-03T23:28:00Z

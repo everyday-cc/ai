@@ -34,6 +34,20 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
+  - title: "Self-Driving Cars and AI Ethics"
+    excerpt: "Peter Singer & Tse Yip Fai consider the implications of autonomous vehicles for passengers, pedestrians, and the planet."
+    publishedDateTime: 2023-09-08T10:38:00Z
+    webUrl: "https://www.project-syndicate.org/commentary/san-francisco-self-driving-cars-ethical-implications-by-peter-singer-and-tse-yip-fai-2023-09"
+    type: article
+    provider:
+      name: Project Syndicate
+      domain: project-syndicate.org
+    quality: 56
+    images:
+      - url: "https://webapi.project-syndicate.org/library/5871f1e97c2521f4eabc1bc885f6e5c6.2-1-super.1.jpg"
+        width: 1360
+        height: 680
+        isCached: true
   - title: "Synopsys Extends Synopsys.ai EDA Suite with Industry's First Full-Stack Big Data Analytics Solution"
     excerpt: "Uncovers silicon data outliers across the semiconductor supply chain to improve chip quality, yield, and throughput. SUNNYVALE, Calif., Sept. 6, 2023 /PRNewswire/ -- Synopsys, Inc. (Nasdaq: SNPS) today announced the extension of its Synopsys.ai™ full ..."
     publishedDateTime: 2023-09-06T20:19:00Z

@@ -155,6 +155,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 46
+  - title: "9 useful AI tools in addition to Midjorney and ChatGPT"
+    excerpt: "Watch this video on YouTube. Perplexity AI combines a large language model with natural language processing (NLP) search capabilities, providing a personalized browsing experience. It offers a number of AI features, including personalized language models ..."
+    publishedDateTime: 2023-09-08T10:56:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-tools-you-should-be-using/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/9-AI-tools-you-should-be-using-in-addition-to-Midjorney-and-ChatGPT.jpg"
+        width: 700
+        height: 466
+        isCached: true
   - title: "Forget ChatGPT—Law Firms Are Launching Their Own Gen AI Chatbots"
     excerpt: "Tracking Key Shifts in the Legal Ecosystem Each week, the Law.com Barometer newsletter, powered by the ALM Global"
     publishedDateTime: 2023-09-07T20:17:00Z

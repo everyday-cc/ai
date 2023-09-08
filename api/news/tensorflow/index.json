@@ -47,6 +47,61 @@
       ]
     },
     {
+      "path": "_news/2023-08-29-kaldi-speech-recognition-gains-tensorflow-deep-learning-support.md",
+      "title": "Kaldi speech recognition gains TensorFlow deep learning support",
+      "excerpt": "Kaldi, an open-source speech recognition toolkit, has been updated with integration with the open-source TensorFlow deep learning library. Developers Yishay Carmiel and Hainan Xu of Seattle-based ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/deep-learning/kaldi-speech-tensorflow-deep-learning/",
+      "originalUrl": "https://sdtimes.com/deep-learning/kaldi-speech-tensorflow-deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2017/08/DSC2820-1.jpg",
+          "width": 1620,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2023-08-18-all-symbols-in-tensorflow-ranking.md",
       "title": "All symbols in TensorFlow Ranking",
       "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Missing the information I need\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/what-analyst-are-saying-abo
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-analyst-are-saying-about-the-future-of-generative-ai/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/66f422e98f107a6ec4cc4ae71fdc9c011b9170da/2023/09/07/837973ac-6fdc-438c-bd08-86bf4aafff69/gettyimages-1243560129.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Three Ways To Prepare For The AI-Enabled Future"
+    excerpt: "Technically speaking, AI can and probably will replace many professions. Compared to a human, AI is faster and smarter. AI can complete a task in seconds that would take a human artist weeks. When creating text, AI-generated content may still need editing or proofreading today, but give it time."
+    publishedDateTime: 2023-09-08T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/08/three-ways-to-prepare-for-the-ai-enabled-future/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/08/three-ways-to-prepare-for-the-ai-enabled-future/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/08/three-ways-to-prepare-for-the-ai-enabled-future/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/60a3d454598e7ff4af15615b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "How AI and machine learning are actively contributing to workplace security"
     excerpt: "These are just a few examples of how AI and Machine Learning are actively contributing to workplace security. By automating and enhancing traditional security measures, these technologies are helping to create safer and more secure work environments. In the next section, we'll delve into a specific case study: employee badging systems."
@@ -117,6 +133,6 @@ related:
       domain: theaustralian.com.au
     quality: 19
 
-secured: "LX/d5sYTU+xfm8VPDdG3SOZC9OorpXyDK56H69xl/H12W3Us7DjoQf++0MMlBwJg01qIMq9YmnzwQ4Vsq5DeOMiB2/AlLLj/GwWwASJuV1XNfuEtEx4lL/inXVowwHhpJAxNobqm3xFnn3+nkCHKXIFW/v3uZQvdrx4os9Np2pPYNbHEt7A0PTZvbdyyIYtstZ5SBj7aZ+Zr94rBX6y/3nWHJSt06jiRidqaxoAJq3Pnumsm84Xj+noORGYHhqe90ho3tkVCSZdc4xzghlfU9oRvely6Zd+tkc5LNKLVjc79ei2eRQokA/nTutF4mjD62yjYy+HJaGL07gXtgwDDYgdJrjk2OFUtQbFMnDCdWrY=;Q0iFDTnd/S9bdCAYTKHGyQ=="
+secured: "0dnd9AF+yuNk8Fv9wEIkUXk3x6C7aeB6WkpoOUUGQkQkJrtFRvq6L6miIw6TYU0gZbnPbnzH81T0PN8bCQ8Wt8tOCvvadFMGEqSLsGbKFP/2YLfgUBiWVt+TwHfxipPvXbvwhcXn/PJkclL5L/J9JIOrXljcYMoXw+lpDIlEm5z/rGCIV1T8NloRZy2Tfi6bwDOUhWdqGyI9+/M7jsKbOUWppZ9TbeR/IY5tawpf2t2EW1ZAdQS9gvoaPU3F8+96HW654S6OA6NLL09W3zbUxvaZ4KbPwp0XP7Uvsi/9jt1uCLxf4l+MjeM326fqRSTuSd63pVmqFKl4RwjZWwWcP4BLcReTQ2a93sopB6NbgeqEa2OrD5/CH6cdn8BffZgzHuKG/hr10ym2ZvB2IIthjUo2TzSgZLDH3nrNXKY4ZSOCYZBSx2g2PHSi+VDM9vHofBZ3/MLv7PExvRIVq27lJ56C/S6FisHzD/bPhy/CLJtdygfPERrfPmJhXGVAaiVYNVoAuQ3oEIDs+a7wfqjiMA==;58Bo8LT6jjJe2uhizntN+Q=="
 ---
 

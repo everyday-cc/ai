@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Companies Look to Squeeze More Power Out of AI Chips"
+    excerpt: "Strategies that boost the power of advanced processors are in demand as limited chip supplies force companies to get creative"
+    publishedDateTime: 2023-09-08T10:00:00Z
+    webUrl: "https://www.wsj.com/articles/companies-look-to-squeeze-more-power-out-of-ai-chips-fe33e2f2"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
+    images:
+      - url: "https://images.wsj.net/im-848428/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "IyP0Z3BdA+6wI0wA8qN8By+j6yRuMwaJHkn2U6OQTFL3Fyv+WG53DAjlexeOfFYAKFYXnOKIHdD7+wpxaaFTfNfx4H9JeLFOkCsDOhKTdmHJIi+65S5uvSQgpVDwtLLrJOm7OxaT/S4keNwHok0wGivDm5riuxxvqVy3wXiPr8uvaISHcWM8edk0JQh/YIysfFuhQnTdDCTiX3ng4rwpbiTMBvU5ThUjXdK2V3DJKmNNtoH8MVfRxDQL/VrJWbU/Owf+8mCJIi+wypQkqGvv64mvTASoZF8Ug24iIhbemGhnXD2kjXKIAkHD9oMqXaAo7VXr2cvhJtJJTR/5yMyzz2GZQBjfHqOn1WoBwPcPq0c=;pn/WlctMTBtxjw7/MYnenA=="
 ---

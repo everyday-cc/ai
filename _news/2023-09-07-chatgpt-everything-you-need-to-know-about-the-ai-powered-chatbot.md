@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/09/07/chatgpt-everything-you-need-to-kno
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/07/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
 type: article
 quality: 89
-heat: 299
+heat: 309
 published: true
 
 provider:
@@ -156,6 +156,20 @@ related:
     quality: 39
     images:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/Easily-build-AI-chatbots-using-TextBase.jpg"
+        width: 700
+        height: 466
+        isCached: true
+  - title: "9 useful AI tools in addition to Midjorney and ChatGPT"
+    excerpt: "Watch this video on YouTube. Perplexity AI combines a large language model with natural language processing (NLP) search capabilities, providing a personalized browsing experience. It offers a number of AI features, including personalized language models ..."
+    publishedDateTime: 2023-09-08T10:56:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-tools-you-should-be-using/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/9-AI-tools-you-should-be-using-in-addition-to-Midjorney-and-ChatGPT.jpg"
         width: 700
         height: 466
         isCached: true

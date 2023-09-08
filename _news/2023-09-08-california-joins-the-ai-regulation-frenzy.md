@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/california-joins-the-ai-regulation-fren
 webUrl: "https://www.pcmag.com/news/california-joins-the-ai-regulation-frenzy"
 type: article
 quality: 67
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       - url: "https://www.ksn.com/wp-content/uploads/sites/13/2023/09/gettyimages-1529168853-594x594-1.jpg?w=1280"
         width: 594
         height: 371
+        isCached: true
+  - title: "California to set guidelines for public sector generative AI"
+    excerpt: "The state, which joins a growing number of governing bodies scrutinizing generative AI, will issue public sector usage guidelines by January."
+    publishedDateTime: 2023-09-08T11:44:00Z
+    webUrl: "https://www.ciodive.com/news/California-executive-order-generative-AI-Zoom-FTC/693012/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 39
+    images:
+      - url: "https://www.ciodive.com/imgproxy/A2J69zpCMgQaptSWvERjGTJUqgKmWsT0ccrh8tl2bEM/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0NjE0NDM3MTcuanBn.jpg"
+        width: 770
+        height: 435
         isCached: true
   - title: "State Legislatures Eye AI Regulation"
     excerpt: "A growing number of states have enacted laws this year to study artificial intelligence (AI), ahead of possible legislative action to address expected threats to jobs, civil liberties, and property ri"

@@ -52,6 +52,20 @@ related:
         width: 594
         height: 371
         isCached: true
+  - title: "California to set guidelines for public sector generative AI"
+    excerpt: "The state, which joins a growing number of governing bodies scrutinizing generative AI, will issue public sector usage guidelines by January."
+    publishedDateTime: 2023-09-08T11:44:00Z
+    webUrl: "https://www.ciodive.com/news/California-executive-order-generative-AI-Zoom-FTC/693012/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 39
+    images:
+      - url: "https://www.ciodive.com/imgproxy/A2J69zpCMgQaptSWvERjGTJUqgKmWsT0ccrh8tl2bEM/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0NjE0NDM3MTcuanBn.jpg"
+        width: 770
+        height: 435
+        isCached: true
   - title: "State Legislatures Eye AI Regulation"
     excerpt: "A growing number of states have enacted laws this year to study artificial intelligence (AI), ahead of possible legislative action to address expected threats to jobs, civil liberties, and property ri"
     publishedDateTime: 2023-09-07T21:57:00Z

@@ -35,15 +35,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 53
-  - title: "AI May Influence Who Can Get or Prescribe Pain Medication"
-    excerpt: "Share on Facebook. Opens in a new tab or window Share on Twitter ... but the mechanics behind the formulas used are generally not shared with the public. Artificial intelligence (AI) is working its way into more parts of American life."
-    publishedDateTime: 2023-09-03T18:01:00Z
-    webUrl: "https://www.medpagetoday.com/special-reports/features/106145"
-    type: article
-    provider:
-      name: MedPage Today
-      domain: medpagetoday.com
-    quality: 19
 
 secured: "gKe+IV6Z6eLTzANJ379osOREg8iLBNpSt3V3IyEG3vOFufDHmpvKsn8MyJQvAFZmRA27yq+R3zKxbxWsP8Dnw8sLTMcvGeaK9eAg04inm5cM3GOl7KWki4C1MZYI1taed5CcTwPohFIJYszKnhE9phoAWER3/cKADx6/TIEtskVoSxyWrtfQDHaRZCuQd5bteNHu6khJJp6jKS6QAbxBIwVV0/Lk0AIZE3cVWEvfJv6T0JegV5pAUBLDxRFw/QckFPagE9r/nHkMI8KdrNduzUoBCGKCRXjQ5EORoR533YKgnH0Esxfjs8iKf45ZcRUmPBs07mw8NoiWki8DK8p2RCdlq5N3pwlsmNRSocVgYTM=;dSRLdIQxGQfkrDHSBFqx+A=="
 ---

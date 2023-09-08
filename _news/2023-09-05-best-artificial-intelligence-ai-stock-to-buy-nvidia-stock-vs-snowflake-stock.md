@@ -47,6 +47,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 64
+  - title: "Reliance Partners NVIDIA To Develop Large AI Language Model For India"
+    excerpt: "Reliance's Jio Platforms Limited has partnered with chip designer major NVIDIA to construct an advanced cloud-based AI computing infrastructure"
+    publishedDateTime: 2023-09-08T10:44:00Z
+    webUrl: "https://inc42.com/buzz/reliance-partners-nvidia-to-develop-large-ai-language-model-for-india/"
+    ampWebUrl: "https://inc42.com/buzz/reliance-partners-nvidia-to-develop-large-ai-language-model-for-india/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/reliance-partners-nvidia-to-develop-large-ai-language-model-for-india/amp/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 59
+    images:
+      - url: "https://cdn.inc42.com/wp-content/uploads/2023/04/cloud-social.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "AI startup Imbue tops $1 billion valuation after funding from Nvidia"
     excerpt: "Kanjun Qiu, co-founder and CEO of Imbue, previously launched Sourceress, an AI recruiting startup, and Ember Hardware, a virtual reality startup. The company is a rare AI unicorn, or startup with a valuation of more than $1 billion, to have a woman CEO."
     publishedDateTime: 2023-09-08T01:55:00Z

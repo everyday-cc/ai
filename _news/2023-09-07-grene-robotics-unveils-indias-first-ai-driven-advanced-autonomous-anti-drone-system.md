@@ -7,8 +7,8 @@ originalUrl: "https://www.siliconindia.com/news/startups/grene-robotics-unveils-
 webUrl: "https://www.siliconindia.com/news/startups/grene-robotics-unveils-indias-first-aidriven-advanced-autonomous-antidrone-system-nid-225217-cid-19.html"
 type: article
 quality: 62
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: SiliconIndia
@@ -23,17 +23,6 @@ images:
     width: 570
     height: 367
     isCached: true
-
-related:
-  - title: "A first: Hyderabad-based pvt sector firm Grene Robotics unveils Indrajaal"
-    excerpt: "Providing 360-degree protection, Indrajaal can defend areas of up to 4000 square kilometres against all classifications and levels of unmanned autonomous threats"
-    publishedDateTime: 2023-09-03T17:24:00Z
-    webUrl: "https://www.business-standard.com/india-news/grene-robotics-demonstrates-world-s-only-counter-drone-tech-indrajaal-123090300639_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 33
 
 secured: "q5sROVoluJ+B3+pBNRWI4P1sXeHZqTnMZa9qq8EWKt1wvhhfxus0d96jHCBi4/9nPaVix/Ny8r5/hKKLB2xWzR5O7OTof76+zxZlNdCXZB4OVjqwImgRAmbnBTn05vEpsduM6JGyTMJYq2FHn9yoHLf7DNOmEalVSyUOYGCZC7MCN05T3J4wP9HGpCUU0HZ5Kw26KVHgl0KXDTnutFCrRoTIE+K7cThJikymN/6BDEvNe2FiOAzPJn+DaNZrIRwKEaSC6qQt0hAEbv7uraP5cY4GfG736zcZevG0pEllyNS4wTxGg6NZTspNHZnzti6jbZznBZghIUueJ+pPo2jC0yfoE09bJHodhKCS4EH/hLs=;DrsnsWFKe3drGV8giPRsJg=="
 ---

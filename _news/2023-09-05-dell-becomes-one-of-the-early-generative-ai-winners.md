@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Three Ways To Prepare For The AI-Enabled Future"
+    excerpt: "Technically speaking, AI can and probably will replace many professions. Compared to a human, AI is faster and smarter. AI can complete a task in seconds that would take a human artist weeks. When creating text, AI-generated content may still need editing or proofreading today, but give it time."
+    publishedDateTime: 2023-09-08T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/08/three-ways-to-prepare-for-the-ai-enabled-future/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/08/three-ways-to-prepare-for-the-ai-enabled-future/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/08/three-ways-to-prepare-for-the-ai-enabled-future/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/60a3d454598e7ff4af15615b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How AI and machine learning are actively contributing to workplace security"
     excerpt: "These are just a few examples of how AI and Machine Learning are actively contributing to workplace security. By automating and enhancing traditional security measures, these technologies are helping to create safer and more secure work environments. In the next section, we'll delve into a specific case study: employee badging systems."
     publishedDateTime: 2023-09-06T10:25:00Z
