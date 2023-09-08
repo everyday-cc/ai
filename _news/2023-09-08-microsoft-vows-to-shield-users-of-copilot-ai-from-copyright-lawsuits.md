@@ -61,21 +61,21 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft says it will protect customers from AI copyright lawsuits"
-    excerpt: "Microsoft Corp. says it will defend buyers of its artificial intelligence products from copyright infringement lawsuits, an effort by the software giant to ease concerns customers might have about using its AI \"Copilots\" to generate content based on existing work."
-    publishedDateTime: 2023-09-07T20:40:00Z
-    webUrl: "https://techxplore.com/news/2023-09-microsoft-customers-ai-copyright-lawsuits.html"
-    ampWebUrl: "https://techxplore.com/news/2023-09-microsoft-customers-ai-copyright-lawsuits.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-microsoft-customers-ai-copyright-lawsuits.amp"
+  - title: "China suspected of using AI on social media to sway US voters, says Microsoft"
+    excerpt: "In a new research report, Microsoft said the social media accounts were part of a suspected Chinese information operation"
+    publishedDateTime: 2023-09-08T01:30:00Z
+    webUrl: "https://www.telegraphindia.com/world/china-suspected-of-using-artificial-intelligence-on-social-media-to-sway-united-states-voters-says-microsoft/cid/1964577"
+    ampWebUrl: "https://www.telegraphindia.com/amp/world/china-suspected-of-using-artificial-intelligence-on-social-media-to-sway-united-states-voters-says-microsoft/cid/1964577"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/world/china-suspected-of-using-artificial-intelligence-on-social-media-to-sway-united-states-voters-says-microsoft/cid/1964577"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 74
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 73
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/9-ai.jpg"
-        width: 1920
-        height: 1897
+      - url: "https://assets.telegraphindia.com/telegraph/2023/Jul/1688746000_microsoft-2.jpg"
+        width: 900
+        height: 600
         isCached: true
   - title: "Microsoft-Backed Startup D-Matrix To Compete With Nvidia In Bid For AI Dominance"
     excerpt: "The chips are down in the artificial intelligence (AI) market, and Nvidia Corporation’s (NASDAQ: NVDA) stronghold appears unshakeable."
@@ -134,6 +134,17 @@ related:
         width: 768
         height: 510
         isCached: true
+  - title: "Microsoft says it will protect customers from AI copyright lawsuits"
+    excerpt: "Microsoft says it will defend buyers of its artificial intelligence products from copyright infringement lawsuits, an effort by the software giant to ease concerns customers might have about using its AI “Copilots” to generate content based on existing work."
+    publishedDateTime: 2023-09-07T17:58:00Z
+    webUrl: "https://www.seattletimes.com/business/microsoft/microsoft-says-it-will-protect-customers-from-ai-copyright-lawsuits/"
+    ampWebUrl: "https://www.seattletimes.com/business/microsoft/microsoft-says-it-will-protect-customers-from-ai-copyright-lawsuits/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/microsoft/microsoft-says-it-will-protect-customers-from-ai-copyright-lawsuits/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 54
   - title: "G42, Microsoft alliance expands to include joint sovereign cloud and AI offering"
     excerpt: "This announcement marks the first significant outcome since G42 and Microsoft announced their intention to partner earlier this year, in April"
     publishedDateTime: 2023-09-06T04:55:00Z
@@ -203,6 +214,6 @@ related:
       domain: bizjournals.com
     quality: 27
 
-secured: "FvsXSdP8xDnIGDgFUtBz6BDvSdxZhjPZcdG5ubnIHhfeyh0FnSnTlzl0FpXCCP8PRQhlqoTH+Wuzv2i8gFXGZ3qAbWa8ViXdIlep7ZJpxct8nHbjZVx35Lfs/tbfp/4fGgwE6ix1rG5PBh5ei5cgGcf9ugrlNolpsszPHdrDBU25mWyS/DPO3JF8fi7Ww1umHBLadRHh/L8G8jgGEBpHMKf4Fyop0ELlQ1wtByyJs4Bh17X6UEW0jZG/MvcVNjezl6jaq9Ly2woljsjUf+EZOkl9KJx7Pemp7Or6Prt+jhdswga0bmAKdsO/rsaJ3l3+5XmPCshp5l7smmUxFIe92nXQSton+//TRSHCRsBMxSk=;gaTxcgo9N2VteQwflidxvQ=="
+secured: "3zNFvxNqI6aZR2WSpP4vSiOppmu2mVCTdVtkwhlq09jHwYR1d8uT3us2un8XMPGt+ocx96zLvSGV2Lwk/s+lUaSwFEN/N8nZZr6N1a2DxmmsXCb3nxcnBr2/gRHUEn5kPODcqVY5uXm9UxG8ISGe7XNFV5x/J/uMoVyH7d1LHLy7QM4S1ojxklAPSOZCdYrff+eCk44ZnFY1htqOYHfQp+iRHLtSjvKYuxlHpLZTsfpef1CF0UnDPLhY+gTT4+G1za/uUUmP+VXV5OI91KciK8NDE7GOqoNMMHvvYTRVzih5fr4qTC14rUULYcIU0zNGjXSg52YVZZ6V0mvgl0ZJTZnXY+KmIWHh8PwBEywy2oS+Z5Wa8Vy6bo0CZE+hGTb5cAmzSx+ZOIYgGWRJk3TuA4vB78wnHNjl13yfPvT2zVBapq5xd1Qjjps+8w0YkptiDcEhv4TM7grk38+vILYl7uNNjYI1qZMbK3v2le3kWKxeeo8aUB30QtkI6O2pNYVxhZQW5sgUqCjeZWYwf9Bo3A==;1GKSVWnvg4CSpqzcCcc4NA=="
 ---
 

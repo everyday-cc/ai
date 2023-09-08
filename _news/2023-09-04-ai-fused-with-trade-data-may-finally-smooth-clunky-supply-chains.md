@@ -39,17 +39,6 @@ related:
         width: 470
         height: 246
         isCached: true
-  - title: "AI fused with trade data may finally smooth clogged supply chains"
-    excerpt: "AI tools are helping many organizations simplify trade-data analysis in ways that may help smooth cross-border commerce"
-    publishedDateTime: 2023-09-03T07:38:00Z
-    webUrl: "https://www.business-standard.com/economy/news/ai-automation-fused-with-trade-data-may-finally-smooth-clunky-supply-chains-123090300289_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/economy/news/ai-automation-fused-with-trade-data-may-finally-smooth-clunky-supply-chains-123090300289_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/economy/news/ai-automation-fused-with-trade-data-may-finally-smooth-clunky-supply-chains-123090300289_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 39
 
 secured: "BLznImXU2mxgTRDIIl/Rf2SbtqMuakUFkVOpOGqWjhiepG9iHGKGSs9USpTdLmNyU825MRmu00VjaN61m5qxsu9SIkok410obLrjFAUQAk+aUlbBe+b1juJ0WXZzzwUSv/4sCBmRK5bgbzH/U/gJ9K1s8erfO7pXN7jTzbl1395pGEURTDH3F9wLnc83ZWZZ+vnOiwRb78Ujf6TwX+BUYFiOB/oFZRnFYKhQVtt73rCHQnx4YhA+T3HiQS43AeONf1+ykOSriVgdlcEjq3YT25O3y75cmwlnsAAJJLZCND6/648Zam2qmGalGWUT0qMr6j7KrCd74oCd8RdqkbCdmuEgVDSIxqI9fFZu9OuZNgLCFtwxrc+3KOQMeupBgrV5fziO1k3+ZwBq0OfrXMlcDVaepzGBVZl4vkMpO0b4vUF6ka7lT2pJ+Xj+gNRcgYaCjhiTnQDVYYp9OEo9CoFnBs2hrktPurWTt4tQmnlr6QACBRpQdM/cxU+J4562IzPRIgBxNLQZLjsis4GbNzRing==;8gEreeXXhURNUqh9obm1Lw=="
 ---

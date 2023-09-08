@@ -42,7 +42,23 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Does artificial intelligence pose a threat to creativity? A Boston-area artist says yes"
+    excerpt: "Doctors at Mass General Brigham are using generative AI to record patient visits instead of typing in notes. Doctors say the technology not only saves them hours in administrative work, allowing them more time with patients, but they are able to focus on a patient’s social cues during appointments."
+    publishedDateTime: 2023-09-08T00:10:00Z
+    webUrl: "https://www.wcvb.com/article/does-artificial-intelligence-pose-a-threat-to-creativity-a-boston-area-artist-says-yes-1694113398/45038207"
+    ampWebUrl: "https://www.wcvb.com/amp/article/does-artificial-intelligence-pose-a-threat-to-creativity-a-boston-area-artist-says-yes-1694113398/45038207"
+    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/does-artificial-intelligence-pose-a-threat-to-creativity-a-boston-area-artist-says-yes-1694113398/45038207"
+    type: article
+    provider:
+      name: WCVB Channel 5 Boston
+      domain: wcvb.com
+    quality: 49
+    images:
+      - url: "https://kubrick.htvapps.com/vidthumb/0d9380f1-1fe1-4ebc-ada3-527da9660346/690176b8-dff4-4bab-b916-bbb5f4050ec0.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+        width: 1200
+        height: 675
+        isCached: true
 
-secured: "rGzxXnZXFFD9LT/8ReJcKg4uP7ipDl8wgOvOU2n0Qobf+nNIoBxap+BqCu9vyXu8JfEbc1SoAAAKdag9ggwxvOAk7JDNBNuXG7gF0IL61EHONIePgGuYpNSvOFNFRXq4vWwf11Se4kONLwFVOiBGZLRKDZ0TtylMULHOX9TtE0uTBkLTv6xW8jmlwm0z+H6wrrArDoNLiAGZjZ7n/GJpXPAPW7WUnp3ToChoDoUDxsW31A3WKaxNB0vrt/pDz/3hxDBgo0QiqlBFDh/vZ1LEQzPndTTUMq1q3lmZkYMTe2cNlz288zWBAjNPqExMYULt6O4wcqvYJrRIuLJSat5Ke35vDXvHRB/JZs3ifHf2FI4=;jn3rdNl/S6ObXDdxulG5cQ=="
+secured: "cimE4tpWXal+wJip/F3vgrVKkbZBQLm9o0DCvADo+pW8N87ctZ+invh6+fhbTNrlseTzPPGq+C4ZyEygrC0nW3FsotmzTtDgocs0TVd8Lxlcs4yd1iymBPfWIRqGv1rXmRniAb/78UIenOFXad3T/LfxxkEAUSzThCaE5R/Pc5cYid9DZ0EqN86YpEpRU5QsF/hSEkihxJmYoMTCawKNrJUELIFt/TAKGYHakkJG6PFmBfOiI+FnRaj8BN4OE11D54/KAK48V8y5Mo88T/M+xBfbxHCH/Dd3pIqRGdg7RogrBpgsLmEsrbOUeyiQKhH/Ll6nQsOj89bCBC/OrbEBu69x+BPfPHu7+s+NtYeaC61HPVVQ9/Aan/n6MG7NLlLxOx4CaxZUzO+8b9Jqa9ODl5QXWaBM9mpzfERA8aAIRzfu8uZKL6nbkHKAYrZZJtPdsqqJwG+ojWQqurcdxkYMSeYicuAgEqvD7YH9Rk+EpXmxxfd6zLRDTAbTLB5gkmXB5D68lv1CVcGtBxiiupQN3A==;+wP1p7WlnCdJ0SbtL5XhqA=="
 ---
 

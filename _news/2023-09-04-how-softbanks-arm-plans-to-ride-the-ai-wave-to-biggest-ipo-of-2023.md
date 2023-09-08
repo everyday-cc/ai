@@ -48,6 +48,20 @@ related:
         width: 770
         height: 500
         isCached: true
+  - title: "Argo AI founders return with new SoftBank-backed autonomous truck startup Stack AV"
+    excerpt: "The founders of Argo AI LLC, a self-driving car startup backed by Ford Motor Co. and Volkswagen AG that had raised $3.6 billion in funding before it was shut down in October, are back with a new autonomous truck business called Stack AV Co."
+    publishedDateTime: 2023-09-07T23:56:00Z
+    webUrl: "https://siliconangle.com/2023/09/07/argo-ai-founders-return-new-softbank-backed-autonomous-truck-startup/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 31
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/stackav.jpg"
+        width: 6000
+        height: 4000
+        isCached: true
   - title: "Self-driving truck startup launches in Pittsburgh"
     excerpt: "Almost a year after Argo AI closed its doors in Pittsburgh’s Strip District, the founders of that autonomous vehicle startup have embarked on a new venture focusing on self-driving trucks. Called Stack AV,"
     publishedDateTime: 2023-09-07T16:29:00Z

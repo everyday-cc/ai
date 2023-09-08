@@ -2,11 +2,11 @@
 category: news
 title: "Part 2: How Artificial Intelligence is Driving the Transportation Sector Forward"
 excerpt: "What a ride it's been for the transportation industry since AI! After all, this new technology comes hand-in-hand with the transport sector."
-publishedDateTime: 2023-09-06T11:32:00Z
-originalUrl: "https://techround.co.uk/tech/part-2-artificial-intelligence-transportation-sector-2/"
-webUrl: "https://techround.co.uk/tech/part-2-artificial-intelligence-transportation-sector-2/"
-ampWebUrl: "https://techround.co.uk/tech/part-2-artificial-intelligence-transportation-sector-2/amp/"
-cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/tech/part-2-artificial-intelligence-transportation-sector-2/amp/"
+publishedDateTime: 2023-09-06T09:26:00Z
+originalUrl: "https://techround.co.uk/tech/part-2-how-artificial-intelligence-is-driving-the-transportation-sector-forward/"
+webUrl: "https://techround.co.uk/tech/part-2-how-artificial-intelligence-is-driving-the-transportation-sector-forward/"
+ampWebUrl: "https://techround.co.uk/tech/part-2-how-artificial-intelligence-is-driving-the-transportation-sector-forward/amp/"
+cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/tech/part-2-how-artificial-intelligence-is-driving-the-transportation-sector-forward/amp/"
 type: article
 quality: 54
 heat: 64
@@ -42,6 +42,6 @@ related:
         height: 435
         isCached: true
 
-secured: "DAhZNT2keCmUU/Qxjg2WP/89NDvc+eAtE1h9QmKmUBA9X3yVaAKYQtIgfO0FndVm8uuCM3hStLG7KKietI/C6tvUuw5WZVK8QtCbFRmt837RdgUYphLiUc/+5wAMOaWwkpIxLRRR3cLCQUu49/2ev4OEbrmTk08YPxsOjVddM7+ksXoHWbfW4cwcg6NQ6Y53qUtRANDfcX4y6JG0psRS9mR0aulCo/LZSKGjwzmMPyRIUtBjb2APhJhO5uU4ApOlzfewEYI93PeJk6GGB0Czcw88zKjoRaSl8hX48hMyfbdfq9WDLJLZnp83QQmSeQUziaZ5NYY1aGci4KqXqU6Nef0NF/f5p/x2ivyPnAtpS/w=;vJ1m5TP0G2JN2MWEfviQIg=="
+secured: "g/bqJdx3HRc4WSdakS6XiCmXFe0HdWkXhzGMeUjDiyJt5GqKpKxF+LoSyMLnbcXMOsoX6XFyFnh1SH72ubY+gFRiucIjMoGgUrL3mm6VZWEIEx9C6xvWCKBYdH0Vsat9BxedpKdfvnHrzMcHI9sVIHHwBRE/bTdpZtcfAFW1kmwXWq6bGb/7nZsFAYv/l5OPO5BiCOXO2rPJ1Oo02mayHwo6j5F1XeVt5baw41hf+josYWJqkF3rtGkDvdIQR19GhqlGrwDjnBMa72p40t5KMbXmYhC4WwZNUd7ic4BQLrhvzpHhqzOx5RTB7wmZjzqQzSX7+wd3bf4YM2fsVytI8Y4vN69aFpdoNUaJyrC6aQw=;0img9wzzExeHB4At1nWo2Q=="
 ---
 

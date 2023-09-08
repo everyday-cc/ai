@@ -85,6 +85,20 @@ related:
         width: 1400
         height: 900
         isCached: true
+  - title: "Beijing Denies Microsoft’s Claims China is Using AI to Target US Voters"
+    excerpt: "Microsoft researchers claim to have discovered a network of fraudulent, China-controlled social media accounts attempting to influence US voters through artificial intelligence. A Chinese embassy official in Washington,"
+    publishedDateTime: 2023-09-07T23:54:00Z
+    webUrl: "https://www.chiangraitimes.com/tech/beijing-denies-microsofts-claims-china-is-using-ai-to-target-us-voters/"
+    type: article
+    provider:
+      name: Chiangrai Times
+      domain: chiangraitimes.com
+    quality: 56
+    images:
+      - url: "https://www.chiangraitimes.com/wp-content/uploads/2023/09/Beijing-Denies-Microsofts-Claims-China-is-Using-AI-to-Target-US-Voters-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Microsoft joins $110m fundraise of AI chip start-up d-Matrix"
     excerpt: "Matrix claims its chips are optimised to support generative AI systems, as the company pushes into a sector largely dominated by Nvidia."
     publishedDateTime: 2023-09-06T15:08:00Z

@@ -1,30 +1,24 @@
 ---
 category: news
 title: "Microsoft says it will protect customers from AI copyright lawsuits"
-excerpt: "Microsoft Corp. says it will defend buyers of its artificial intelligence products from copyright infringement lawsuits, an effort by the software giant to ease concerns customers might have about using its AI \"Copilots\" to generate content based on existing work."
-publishedDateTime: 2023-09-07T20:40:00Z
-originalUrl: "https://techxplore.com/news/2023-09-microsoft-customers-ai-copyright-lawsuits.html"
-webUrl: "https://techxplore.com/news/2023-09-microsoft-customers-ai-copyright-lawsuits.html"
-ampWebUrl: "https://techxplore.com/news/2023-09-microsoft-customers-ai-copyright-lawsuits.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-microsoft-customers-ai-copyright-lawsuits.amp"
+excerpt: "Microsoft says it will defend buyers of its artificial intelligence products from copyright infringement lawsuits, an effort by the software giant to ease concerns customers might have about using its AI “Copilots” to generate content based on existing work."
+publishedDateTime: 2023-09-07T17:58:00Z
+originalUrl: "https://www.seattletimes.com/business/microsoft/microsoft-says-it-will-protect-customers-from-ai-copyright-lawsuits/"
+webUrl: "https://www.seattletimes.com/business/microsoft/microsoft-says-it-will-protect-customers-from-ai-copyright-lawsuits/"
+ampWebUrl: "https://www.seattletimes.com/business/microsoft/microsoft-says-it-will-protect-customers-from-ai-copyright-lawsuits/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/microsoft/microsoft-says-it-will-protect-customers-from-ai-copyright-lawsuits/?amp=1"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/9-ai.jpg"
-    width: 1920
-    height: 1897
-    isCached: true
 
 related:
   - title: "Microsoft to reveal AI plans for OneDrive in October event"
@@ -72,6 +66,22 @@ related:
       - url: "https://th-i.thgim.com/public/incoming/6l78r5/article67282489.ece/alternates/FREE_1200/Europe_Microsoft_Investigation_20196.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "China suspected of using AI on social media to sway US voters, says Microsoft"
+    excerpt: "In a new research report, Microsoft said the social media accounts were part of a suspected Chinese information operation"
+    publishedDateTime: 2023-09-08T01:30:00Z
+    webUrl: "https://www.telegraphindia.com/world/china-suspected-of-using-artificial-intelligence-on-social-media-to-sway-united-states-voters-says-microsoft/cid/1964577"
+    ampWebUrl: "https://www.telegraphindia.com/amp/world/china-suspected-of-using-artificial-intelligence-on-social-media-to-sway-united-states-voters-says-microsoft/cid/1964577"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/world/china-suspected-of-using-artificial-intelligence-on-social-media-to-sway-united-states-voters-says-microsoft/cid/1964577"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 73
+    images:
+      - url: "https://assets.telegraphindia.com/telegraph/2023/Jul/1688746000_microsoft-2.jpg"
+        width: 900
+        height: 600
         isCached: true
   - title: "Microsoft-Backed Startup D-Matrix To Compete With Nvidia In Bid For AI Dominance"
     excerpt: "The chips are down in the artificial intelligence (AI) market, and Nvidia Corporation’s (NASDAQ: NVDA) stronghold appears unshakeable."
@@ -199,6 +209,6 @@ related:
       domain: bizjournals.com
     quality: 27
 
-secured: "dnwiOCdI6MwS8xHQz3aIpNC1P3VUdk5g2FFYgSwv63U6AAM9+TNcK6+CjAkeo53nHMJ2l12/EWXS1YoBaqN77DZmcB3hf3N+Ppmse4/MxfFIAqSPyv8ukDxrSZX+xyZ/dL500Cg9Bmm/iIEM+h2lLs4aoSP8EoVLslQZa62boEXircyM4iHNffM688iNSCDz9UEB5hRTfsrTPjmKjOqV8BN2NO+mBdDiUgJmKEZ0u1pA+4H5M9p2EOacwVyKy8Jz2zPQ7PEtv9UoG8BYX/c8n/0rx3+QNsZzqCzxKbOpZwM0Ef4V09df6YBV3XnxjEpubVd+IboBFXCJ/Cu1NIwZcaGii78nOcjBpV2GMHXjisQ=;FWXSsWN5H1o4uOBRG1HHbw=="
+secured: "fL71ZKl9934DlTuBM5azcmLuGpl1qTR8DtHKVC5gTdGkXDh0aPs6T9kZNKRrhIm9FS+iutJgaWzGe9EDssNfltbCx8Lb0/5qiitg8y+aoCQ59tfiQOQAJQrobCXEkpKrFofZ/SLCygJeKxjZ/3/E3EXiooQTh4bwQUNvfbUc+AUP2TmOwVj7XvlBmJ/bBH2/dWP1MunfvrxbJ3Nx8nPRR8ydqSAJ3Gz9KHOPCRsmv/lxsuz8AyK9V7szbYoJIi3MFwAFh5CiNvtR1JiT7sLsmXgpn8IZD4qck3xRY62kl7tRvuxCobhjmLKt1i5JtONT+L2DJBwRNy3PCDUf50RpBP8dtNKneJM8xuY6ofulxUY=;cL0PDmWjN/FDmJDdFAPOng=="
 ---
 

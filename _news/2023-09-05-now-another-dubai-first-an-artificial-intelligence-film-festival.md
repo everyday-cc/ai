@@ -40,20 +40,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "AI Dubbing Startup Debuts Polish Film At US Indie Festival"
-    excerpt: "Deepdub uses proprietary AI to generate synthetic voices that capture the emotion and delivery of the original performances."
-    publishedDateTime: 2023-09-03T07:52:00Z
-    webUrl: "https://nocamels.com/2023/09/ai-dubbing-startup-debuts-polish-film-at-us-indie-festival/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 37
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2023/09/dubbing-e1693727457814.jpeg"
-        width: 700
-        height: 425
-        isCached: true
 
 secured: "RQUpoG9BBFJ3hqEYmglMaOdJZtSoq/wDptoazC5jcv+ZnJEzXjvQMGo9QHlHVkp4rxAUD/BhENUbSDrcDJ8tTO+3quCkwkA7nnCFgq68YupW46P4IrzGV2YSlj12bfBF8V9qE2qOPN6QLH34UzI6JBmVEkq3GO9bXaOniyTF9XIUCh9/EUBXNBGliz1YcpCr1dUbDg55ry2wpJm8s+Jy/vNSQ8rI/b2+D8immnLwGfdcahPU6msmQgFkSTwBDwsH8RuSb0arndWZfGWQ/6nC2HlXFUoPrzmuDkgp8tXb64vjF+XEGVC3sy8dxh4X1zi3+YeovZlKYgd0SpL+dFggbibCkrwxpQ+GEKzs0caTZ3Y=;hq0AJgfJLyp9+IEco65Ing=="
 ---

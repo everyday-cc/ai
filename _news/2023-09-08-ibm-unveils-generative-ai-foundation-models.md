@@ -8,7 +8,7 @@ webUrl: "https://www.infoworld.com/article/3706449/ibm-unveils-generative-ai-fou
 ampWebUrl: "https://www.infoworld.com/article/3706449/ibm-unveils-generative-ai-foundation-models.amp.html"
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706449/ibm-unveils-generative-ai-foundation-models.amp.html"
 type: article
-quality: 87
+quality: 89
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/09/06/11/shutterstock_editorial_157995017-100945577-large.jpg?auto=webp&quality=85,70"
@@ -58,6 +59,6 @@ related:
       domain: techcrunch.com
     quality: 49
 
-secured: "5+5oZ9cvDE3z3IvuEIvPLNotqPyNNiEJHz4tcptIPnWpUdj/ByrBEZComq72U/GWpTMJF1BJjkmaUWce2OBnQr+NdXblC24uOxNlhLlD/enS0lI7iuCfPv5CUdTSmxkveTBK74oCA3OAjuqldUz/m3Vcpndfjcsr0dpVLeRRavWSJHARXhc/XLl+so4ydIB0s5bjvcePYtX3l6r+gmQQjHQq3KLFp/KZGA2xOjkNSIS/YYrZE7R9pOmAxn8/u+cv46gDlf9Ovu/lpZg5LBMfKk0HLydE29sfPJW+PeIvZXec+IrK22I9bVfSC2KzoeTXIfC2h5BSg0J93tK3nEqf+h0vhiDUm/wc6p08vV21rhk=;2o21/bNRXg3IOY+cvLYILQ=="
+secured: "sUr58f4CAMSqT/pmjeitRCnsGnraSQjQA8esrFfRIyuYnofLNg/xatEQCIi3NPbgjRGl9waU8x5mn8EUZrTxNniC8NiQ+h+rkHGBITK/ks2hFiG5H/zgXvRunoiraj5Moo1v8Y1cv5R9S0CvoILc4zvhjfTThmTmLpJ4/rrdmlnu8+JxFzXLVW4NgnrA9ZJvFZNTOOrGd/odM7pi/1H3eo8attg+294ciyLaTzaBXRmFddOl/novXqwi4yeYLKjbseAvACYj0hWbMFMXl+Yrpo0pfh7bsB8AXHZuWNAlGKcYgIlwsMhLUfx2DHwCaCJuwc+8AUPBFPpJfw9BJgDpCdQQiCjgcQfi/oowOlkAUNZ2S1qWkCGmCdV21bcrQ/d3/VBPzAjTIaZKwjUHaXbpXFWa35TpZaAHBQUdbz+5wn/c3bEFH/RseHznO60CtJHQahvBwa2pExIiar68mtjBg/PqsH51K4AkaacIt6tMbx2Dk65/uoL4ZNArMPB6wIls29NRdugRubFYVVuIS5qh2A==;5V3fk7NfG4+EIbRfXkfXwQ=="
 ---
 

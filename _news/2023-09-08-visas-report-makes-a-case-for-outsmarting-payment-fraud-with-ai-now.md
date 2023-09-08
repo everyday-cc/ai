@@ -6,8 +6,8 @@ publishedDateTime: 2023-09-07T18:44:00Z
 originalUrl: "https://venturebeat.com/security/visas-report-makes-a-case-for-outsmarting-payment-fraud-with-ai-now/"
 webUrl: "https://venturebeat.com/security/visas-report-makes-a-case-for-outsmarting-payment-fraud-with-ai-now/"
 type: article
-quality: 47
-heat: 47
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -20,7 +20,14 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
-secured: "53ccsoE1bQBnttLdGPPftn5lQeIWP/XgHo57FWzWI1qVb99DP+M7QjFl9lbeOrVx2F8Oehh5uI9Fb/LXbChDhaTub3maCfk8S9KJF13c5D0Tx3r0pv2Sn7hJteI0TjKJaP1ng/DBMkzzHNNeEZZI2XCeab2G5jslrUBf+Hbfmwhnd2U/M99tfmYw4ZiVxYR09Ikco7guYW7wsAVkSHBfeqBD8GRLcTcFnX4SJ58xuD98gqiEHS0dbyyiDJfEVYRSFugTtj4rQUW7IsV2TPUVRJ54ibKxW0AH3769XKj0WyJoQNP7eebX0ul+OFXYnhdpQIVBoceudK88rt+/06zPVbA51xsPHTN927dPa305WCxomPnLGGbQjVkxq0YbjrAFdCper8e6zDFH6OmOP8/GBEkBvBWwIBVn+O4BaBObvHTawsVHhzPKdZ5/Nh+tGMgyG2ramf9hCoebk2mvR+05XoSlYQWG/dTSndoBbeeK3QYSP9z0Un7POvVm2l5wZ8BnpU+9doPprH5+xGCsOXloWg==;Ssc4/CJ/++PL1NN+adZVCQ=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2023/09/nuneybits_Cybersecurity_in_the_style_of_Petros_Afshar_optimist_d3fef2eb-988b-4882-9289-9f1f1f4d139e.png?w=1200&strip=all"
+    width: 858
+    height: 481
+    isCached: true
+
+secured: "nJrI5o38cOj8nHlZZRvuNQqgukOLMelevDO4QdDKQrk1V1NSvBRD6Frs1fnIpn8cMdv9F3orDF0ieyefB7TEirltPb7yRkfmKou0emWH+XUWEss4sjh2qwAAdpMZgoH7N2mMlzVeQZQEynalWAOdutkcvnMl6KrZKIYmPlRfUeudENDgdOr1j9nGJErYUO6wfWp1e8rB7vPa3G4rRM8l7QgA8KpaBPcuTKjxyqVXJB4vZQLLEi5tD2OEQDz2f34uK13AdwZBs8hfxFvk42DNtY4H0iNWX/oyzxLS2UAREBqr1y7AC/IlcwcCM0nJWrcSiVbHbqmVJqYo29nRCe2vR7ttpNeXRmhz0fkhbgKfDNI=;vLyqMeJDT4/NaC5VRXLkmw=="
 ---
 

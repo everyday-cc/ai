@@ -71,21 +71,21 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft says it will protect customers from AI copyright lawsuits"
-    excerpt: "Microsoft Corp. says it will defend buyers of its artificial intelligence products from copyright infringement lawsuits, an effort by the software giant to ease concerns customers might have about using its AI \"Copilots\" to generate content based on existing work."
-    publishedDateTime: 2023-09-07T20:40:00Z
-    webUrl: "https://techxplore.com/news/2023-09-microsoft-customers-ai-copyright-lawsuits.html"
-    ampWebUrl: "https://techxplore.com/news/2023-09-microsoft-customers-ai-copyright-lawsuits.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-microsoft-customers-ai-copyright-lawsuits.amp"
+  - title: "China suspected of using AI on social media to sway US voters, says Microsoft"
+    excerpt: "In a new research report, Microsoft said the social media accounts were part of a suspected Chinese information operation"
+    publishedDateTime: 2023-09-08T01:30:00Z
+    webUrl: "https://www.telegraphindia.com/world/china-suspected-of-using-artificial-intelligence-on-social-media-to-sway-united-states-voters-says-microsoft/cid/1964577"
+    ampWebUrl: "https://www.telegraphindia.com/amp/world/china-suspected-of-using-artificial-intelligence-on-social-media-to-sway-united-states-voters-says-microsoft/cid/1964577"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/world/china-suspected-of-using-artificial-intelligence-on-social-media-to-sway-united-states-voters-says-microsoft/cid/1964577"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 74
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 73
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/9-ai.jpg"
-        width: 1920
-        height: 1897
+      - url: "https://assets.telegraphindia.com/telegraph/2023/Jul/1688746000_microsoft-2.jpg"
+        width: 900
+        height: 600
         isCached: true
   - title: "Microsoft-Backed Startup D-Matrix To Compete With Nvidia In Bid For AI Dominance"
     excerpt: "The chips are down in the artificial intelligence (AI) market, and Nvidia Corporation’s (NASDAQ: NVDA) stronghold appears unshakeable."
@@ -129,6 +129,17 @@ related:
     provider:
       name: Business Standard
       domain: business-standard.com
+    quality: 54
+  - title: "Microsoft says it will protect customers from AI copyright lawsuits"
+    excerpt: "Microsoft says it will defend buyers of its artificial intelligence products from copyright infringement lawsuits, an effort by the software giant to ease concerns customers might have about using its AI “Copilots” to generate content based on existing work."
+    publishedDateTime: 2023-09-07T17:58:00Z
+    webUrl: "https://www.seattletimes.com/business/microsoft/microsoft-says-it-will-protect-customers-from-ai-copyright-lawsuits/"
+    ampWebUrl: "https://www.seattletimes.com/business/microsoft/microsoft-says-it-will-protect-customers-from-ai-copyright-lawsuits/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/microsoft/microsoft-says-it-will-protect-customers-from-ai-copyright-lawsuits/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 54
   - title: "G42, Microsoft alliance expands to include joint sovereign cloud and AI offering"
     excerpt: "This announcement marks the first significant outcome since G42 and Microsoft announced their intention to partner earlier this year, in April"

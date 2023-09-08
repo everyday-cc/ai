@@ -76,6 +76,20 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 34
+  - title: "Navigating Self-Driving Cars By Looking At What’s Underneath The Road"
+    excerpt: "For self-driving cars, tackling the latter is relatively easy, as the system would use the same information in a similar way: when to to change lanes, and when to take a left or right. The former ..."
+    publishedDateTime: 2023-09-07T00:00:00Z
+    webUrl: "https://hackaday.com/2020/04/06/navigating-self-driving-cars-by-looking-at-whats-underneath-the-road/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 24
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2020/04/lgpr_feat2.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "MFHpnOvemxjRxh7Mk3+5GPHGByzurTji8w6EXei9uAQtcS638UjrbiAHtgjVbBS6lL5cmvTptwFNPmEAd0pHRVYzk+aT8AvMCn9TZo7ILQ1Fu+Qv3fSB39EdOLLJTX7nLuK57KPudElyq9ZE/CERd3pyJ+6CthTbG9Dx4z44GJM39EFcqKyeh5tQM7zgRxkxsdxB5trC3yOdesYoo2yZ7RWFZ9YhBG8IVFewjyqg7ruA7jhFopcf5XIO6GF2blpp5M6rX4CIztFRQUDSSSQjBv5uaxqejiNAi1Fa3/W1cNSEMSoy0hJewSBQ9hYBXSjUs7GeWUjIS1CuOCcHjTOpIdGtROV3/e3rnmckbdBSMByZPmYANLsfchKvvf3BWENIA576THmsetIr3ZVSnsciSBWjGSXYa1AK3gAv1kGnsZxcoIFvj2EvdEYzxzh+rJWcwaUzZVeiIiX3RwvouUNEuRkLh3coLcAuMK0cwXNILyj55bH1htPXXmK93nes/lwUEaSlNm6dxzFk8Cml7GDuig==;hqyOi7yDdbhdtLeMX/MIqA=="
 ---

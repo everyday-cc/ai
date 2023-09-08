@@ -42,7 +42,7 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/09/06/11/shutterstock_editorial_157995017-100945577-large.jpg?auto=webp&quality=85,70"
         width: 1200

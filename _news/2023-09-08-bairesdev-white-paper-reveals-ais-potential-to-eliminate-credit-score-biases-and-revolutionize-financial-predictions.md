@@ -1,31 +1,23 @@
 ---
 category: news
 title: "BairesDev White Paper Reveals AI's Potential to Eliminate Credit Score Biases and Revolutionize Financial Predictions"
-excerpt: "BairesDev®, a nearshore software outsourcing unicorn, unveils its 8 FinTech Trends White Paper, which gathered insights from more than 85 projects, clients"
-publishedDateTime: 2023-09-07T18:52:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/09/g34332267/bairesdev-white-paper-reveals-ais-potential-to-eliminate-credit-score-biases-and-revolutionize-fin"
-webUrl: "https://www.benzinga.com/pressreleases/23/09/g34332267/bairesdev-white-paper-reveals-ais-potential-to-eliminate-credit-score-biases-and-revolutionize-fin"
-ampWebUrl: "https://www.benzinga.com/amp/content/34332267"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34332267"
+excerpt: "The FinTech industry is rapidly growing, with projections indicating it will reach $949.49 billion by 2030. It has also become one of the most booming industries among BairesDev's clients, with a 130% increase in projects from this sector in the last three years alone."
+publishedDateTime: 2023-09-07T20:15:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-bairesdev-white-paper-reveals-ais-potential-eliminate-credit-/2023/09/07/9877295.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-bairesdev-white-paper-reveals-ais-potential-eliminate-credit-/2023/09/07/9877295.htm"
 type: article
-quality: 36
-heat: 36
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "K/JiVMyXcoH9fy5FonchsCNxlWupUQ9uAEEoi5vSN8ZV6sewP57mfZ6MSdasHnmfZsxgOZamkBDoRmvny6d5LJNGpt4raFkbywtWFxE5mTMndNiIyGl/9wYGqThIjxk2hNikrXdPaRywH3x3bOkygUVAxb5zLGowy8I90i/jJ6pBF6rA4S6xwVDEsEz4gBLdM2y9YWSZnHT3MhOVR6bCzoTi/kzMSww3Ihb8hrXbS3dq9a6IPys9abXOZmcECp3D4IuiVP9jQAWs57Nd2KDHLhZXj4k9kOodoV/KtPiShuO13YJGfDPjwo7TVIXlH4w8N8s6fRKmxZvNBvCuk51JD19Gc1BC6045sbrBzCbQdoo=;t2xb6JSTN7ON2APbOQTvlw=="
+secured: "KEofONKeyAAoRUJ13IK2D4mzg8mYBylKhuBAezbXBfbauE8SJqSsTbMdBCX7w1Gb0pPPk/zLJiSZSFwdcgE9BKPcwB2zF/Q8AxfE6nBrG2F2oy7O0t/ZjdJcNQDB//YVDjzbbgrPdQbvJTGF32VXqVs2jj8ZYsexQGL3jxdozu1Bx6QpLQkduv8+G/4k0xrei5bn4zunBhwc8iQ/iPANv3SOIAhNLzgNB7x4qwJaO949A5sSLXRSo3AK5T6kA7E67m9fPR0A5EhOQEkHt9w7rWxqA1YzAFhlFkSNiEfDezI9zNzYeXUHnXFJdhl531QdwIaHU3AOSJ6qqVqZ5cWEeg6duKq8sX8KmQfUGZgw1hY=;t9pFHeYO9JfWhK7XxCb0hA=="
 ---
 

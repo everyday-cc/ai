@@ -33,15 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How AI is the disrupting the photography industry"
-    excerpt: "During the last few years, nearly every industry around the world has been disrupted by the growth and trend of artificial intelligence (AI). By David Preston, MD of Canon South Africa The archetypal vision of mechanical robots coming to replace humans at their workstations is not really applicable anymore."
-    publishedDateTime: 2023-09-07T08:55:00Z
-    webUrl: "https://it-online.co.za/2023/09/07/how-ai-is-the-disrupting-the-photography-industry/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 19
 
 secured: "Z34RiRyVIlSjttGdFKsLqTficylyrvrGtla+n0zrg2luSL/6Pom8xUdk4dpWAcfCuUNRIuNF9BSpCVo/mIBujzEHIlnxIjpcKuQI9dMlEnHcQWiw0YSrQcMrrQuZQpxw9BH12J2DAYOd5tjNjHWEGWuQYbQNqbNriwnkVraSAFZUNHyaU+YUNAc01yvdOcHPnwBf+/dn+Fb5CYSIH5MVdiCaRUSkw9crmoI4ArajsYLfYqK+OWkrsaeTtPisG7VKogWGJTAng9DC+0z1nQWz+NAykfYDQRSws3DAM31M71XQu0epdOg5lnzQ1+YLih4LW5J6xy7jg4Qe2nbStTskvnlr0KJw/BzuJOxr3afKHEMJxSRdb1Q9/lSAHOZ4+OUiu3HIO0hldttnWt/JY1P/4SIOvN2JESsMekYeSqNCoTrHrDXoYfH5cf/SyRnRB78YMfA6TXbQia9Q0ej3ueOPMiKgEe4Rsk6mDpTmBv1P1TEtae6xsSO6Ffk3k4MgNExpvTrZi4sg164p4EEhtJcp4A==;3S/2PYb5JieES9eNfu3fqA=="
 ---

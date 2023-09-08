@@ -85,6 +85,20 @@ related:
         width: 1400
         height: 900
         isCached: true
+  - title: "Beijing Denies Microsoft’s Claims China is Using AI to Target US Voters"
+    excerpt: "Microsoft researchers claim to have discovered a network of fraudulent, China-controlled social media accounts attempting to influence US voters through artificial intelligence. A Chinese embassy official in Washington,"
+    publishedDateTime: 2023-09-07T23:54:00Z
+    webUrl: "https://www.chiangraitimes.com/tech/beijing-denies-microsofts-claims-china-is-using-ai-to-target-us-voters/"
+    type: article
+    provider:
+      name: Chiangrai Times
+      domain: chiangraitimes.com
+    quality: 56
+    images:
+      - url: "https://www.chiangraitimes.com/wp-content/uploads/2023/09/Beijing-Denies-Microsofts-Claims-China-is-Using-AI-to-Target-US-Voters-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Gen AI Chip Startup d-Matrix Announces $110M in Series B Funding"
     excerpt: "Gerative AI chip startup d-Matrix has closed $110 million in a Series-B funding round led by Singapore-based global investment firm Temasek. The goal of the fundraise is to enable d-Matrix to begin commercializing Corsair,"
     publishedDateTime: 2023-09-06T21:16:00Z

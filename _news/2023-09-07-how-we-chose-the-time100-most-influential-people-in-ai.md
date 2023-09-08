@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6311323/how-we-chose-time100-ai/"
 webUrl: "https://time.com/6311323/how-we-chose-time100-ai/"
 type: article
 quality: 67
-heat: 87
+heat: 89
 published: true
 
 provider:

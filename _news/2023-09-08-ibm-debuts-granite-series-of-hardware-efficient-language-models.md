@@ -6,8 +6,8 @@ publishedDateTime: 2023-09-07T17:52:00Z
 originalUrl: "https://siliconangle.com/2023/09/07/ibm-debuts-granite-series-hardware-efficient-language-models/"
 webUrl: "https://siliconangle.com/2023/09/07/ibm-debuts-granite-series-hardware-efficient-language-models/"
 type: article
-quality: 6
-heat: 6
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -19,6 +19,12 @@ topics:
   - AI
   - Machine Learning
 
-secured: "oRdnzv3F9q3veokJ5MCC0YIkUvzPLap7jvCpeWLcv7fxISzEDZ79kuNbWs/GiamHofjlOGOL/WhZjYNgeuN3+f1uPK8jRqn0Aw38LOGinISP24Nqp2tU8anjaxJW8468KHS2BfYaVVfOkmMwyDQu8G7fTwXtJJFsUvPSE8z+oEosLisz7E0rhu0PEiYiJnUwgTDnZIQTmXwTXbdeAGZrdzAbP4Geo711BKO02uGESheDuZhyMjbWmkUnQcj4zLrHVmGlMViVz8CwQhXpsgmmTv7zWzWT1H0iTs7wP6KK2H6rQFH3PKAN1hfdYevMJay55LDDLD/wLgFHPlaANu8TcSzQAeel/zGHpPWZkHH+r4U=;+ypfYVCbs2UyU9l4RB+S3g=="
+images:
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Watsonx.png"
+    width: 718
+    height: 400
+    isCached: true
+
+secured: "KV/HArj5yQ9JHFTTwEmCyFSzl/KiDDiOisS1sX//+RVGoOXjBT+8A1jrRpdXmDbaiRB9KESGMkDbdPoMLNL3qjxRrhMWo9C33MEuHja0apMyfXAORdnV3yBvV5BotcviccctjBjnBsFAIpWxyYUHvw4q+SZVsVtpKKV12SQgzCYl7U8Vso2AFslXVyBHBNZksTqWcppqsdpZmzkYs2ddrFd0uvmYIy+Uh+p1i6Hz2tQUqGs2rWzwq8ZeeBVZj8lZLic8XPqboGTpV01KBQL475J8vguXO6Cf3KJIF6evUlCwegJ/VwN4iea0jgiflyZcjYnlwAjMXC3q8cufUrzIIKG2RN+sBdTrKg8ZknO94SI=;xraIxgZJ1sSYC82uFHUaqw=="
 ---
 
