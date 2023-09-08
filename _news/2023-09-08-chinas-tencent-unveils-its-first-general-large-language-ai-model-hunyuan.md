@@ -7,7 +7,7 @@ originalUrl: "https://www.yicaiglobal.com/news/chinas-tencent-unveils-its-first-
 webUrl: "https://www.yicaiglobal.com/news/chinas-tencent-unveils-its-first-general-large-language-ai-model-hunyuan"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tencent latest to join China's GenAI race with foundation model for enterprises"
+    excerpt: "Called Hunyuan, Tencent's foundation AI model is available for Chinese organziations to test and build their own applications."
+    publishedDateTime: 2023-09-08T09:01:00Z
+    webUrl: "https://www.zdnet.com/article/tencent-latest-to-join-chinas-genai-race-with-foundation-model-for-enterprises/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/tencent-latest-to-join-chinas-genai-race-with-foundation-model-for-enterprises/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tencent-latest-to-join-chinas-genai-race-with-foundation-model-for-enterprises/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 85
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/0c19a1df65ed28c065d3b48a1be0878897b01cb9/2022/01/13/9eafb7e5-f1f9-4369-a375-256b197f5a21/shutterstock-1732038682.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Tencent unveils large language model"
     excerpt: "A view of the booth of Tencent at an expo in Shanghai. [Photo/CHINA DAILY] Tencent Holdings, a leading homegrown technology company, debuted its much-awaited universal large language model Hunyuan on Thursday,"
     publishedDateTime: 2023-09-08T01:12:00Z

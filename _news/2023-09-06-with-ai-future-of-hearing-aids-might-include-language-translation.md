@@ -3,23 +3,23 @@ category: news
 title: "With AI, future of hearing aids might include language translation"
 excerpt: "We hear a lot of headlines about concerns over artificial intelligence and what it might mean for the future. But it's not all bad: Consider hearing loss.Friendly AI could be"
 publishedDateTime: 2023-09-05T18:32:00Z
-originalUrl: "https://www.wyomingnews.com/news/national/with-ai-future-of-hearing-aids-might-include-language-translation/video_a29c183a-5613-5e23-8999-104e6725abd1.html"
-webUrl: "https://www.wyomingnews.com/news/national/with-ai-future-of-hearing-aids-might-include-language-translation/video_a29c183a-5613-5e23-8999-104e6725abd1.html"
+originalUrl: "https://www.djournal.com/news/national/with-ai-future-of-hearing-aids-might-include-language-translation/video_9e5519be-2dbf-53fc-b29e-9b55cab042d8.html"
+webUrl: "https://www.djournal.com/news/national/with-ai-future-of-hearing-aids-might-include-language-translation/video_9e5519be-2dbf-53fc-b29e-9b55cab042d8.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Wyoming News
-  domain: wyomingnews.com
+  name: Daily Journal
+  domain: djournal.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/a/29/a29c183a-5613-5e23-8999-104e6725abd1/64f77ead551b6.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/9/e5/9e5519be-2dbf-53fc-b29e-9b55cab042d8/64f77e3bf228f.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -65,6 +65,6 @@ related:
       domain: gulftoday.ae
     quality: 5
 
-secured: "LhIf1TZB5wmhGdibOu3phl8/W30aVgozAsJ+cxST5JthYzg40Ku0vQdMxvdOXg1XNS5kyrZRU9qKjU/GUbnwZ/lN+iD8zpia2MUoRD77WRibAJ/1OPuSHQTZYBAZvGsrubt5/68R6Q0/dD4pYNXPXvkuX7Lim9iBs/+yPN8gUeVk23bVR/LCXy1WKnKXFzhzG5FW0by1HrfKTAo95WtI0alhgaih6rD73zSqGC7V6Xb7nYQlb769INDno69We4cH6oBPyAbbo7UdDbp43QYNk3HrNYKWx4ZnMhFsW9aHnp3QTiy9YyNXmsWT0Ab2Itc+Qq1xkaVTeWJjPrTwEBdH3zXnketVIdIAjPTq/FMjSrc=;5BlUOHMoaUI6TLiP5yDASA=="
+secured: "h5o8OTWu5e/4aUK52UuEnOPTL5l29TAXznOaxoyYQigI6T9YazTGEupp0pNbwa2naLE6ZccSH3W4RvLzLTjrVNPE4fJyhhX2ow3xcphf2zba38H+5Uxy/yiPP5p9/Y9xYVHckUEyhZp42ZauTB8OOuMqLg3tYTWHP50ACm6DMRCCvXIOswinKDBe3miup4pJyM59e2dvFK5mXR7IjFEb7fUci4a64ABzdRMMe9+8u4mFlVrjFzUQAM3mk5yi6XziCS9kflwc30NSfOQgQbDzVkN9QA4TK/a1e76F0CqiECpykSSRFBl0zxufAjLA3SmXzM9Utc8ulVDdYdNYo4ZCHMyprt3BGVbtnPsFGLrxEyk=;XKeJmIjVEfSFmUcl2feMfQ=="
 ---
 

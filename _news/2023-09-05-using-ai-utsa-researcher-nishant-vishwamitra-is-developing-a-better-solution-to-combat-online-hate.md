@@ -24,6 +24,17 @@ images:
     height: 560
     isCached: true
 
+related:
+  - title: "Using AI, university monitors online students at risk of dropping out"
+    excerpt: "Dropping out early is one of the main concerns in online higher education, especially during the first year of a degree. An interdisciplinary team of researchers from the Universitat Oberta de Catalunya (UOC) has developed a new system based on artificial intelligence algorithms that makes it possible to identify on a daily basis those students that are at risk of failing and can automatically take early action by sending personalized messages to reverse the situation."
+    publishedDateTime: 2023-09-05T19:02:00Z
+    webUrl: "https://phys.org/news/2023-09-ai-university-online-students.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 17
+
 secured: "gdUj+Ns75WaxDnuUThf19A9vmnZenB2x1LZKXqv50c+u9Jcj3B1TTFsQaDDmYGEGI0SIMtB3m6mgPV+7vd/V64f5OIcc0MGC5hKNF410FVKIYassk1YS3vMmB02GE1JhSXItIWPazuavtjtaW0XAIUJJLxXrdI3YEPbsFD2DuPWPIQ4CmJwLSsekRvMt6CEG0bbDXYLAsxYA7I423S7aRtY6kWpL2brXhGQ3sX6F27rp9ZLSffWkcDtwk9ggotAgaZ4EojgFQywvkX4nfL+NbszTQDb/biEqW7qEB79Jt5u4cYnR0kdOougfGPPHn7ffwvMQTKrMlJcnTeIzG2niA4JRmn11v6dTsOeQtbao3xqCWYznUUEVvBh2cap4LptqT1RV/qBRdgcU8tgOaflehnffG0eD28yFZ5HeAda+4dOhhn2i0wrsZsgs02jkjz5x+t/nA1gdJkdM97L98Hf7vCnqh92LX59lejrZ0JStDRynaRyX5n0UPGI4riI6bHT/Xlpw7GJbJEPKZEaQg+SKLw==;Y2NVCvi5emY99OGXv+wv4Q=="
 ---
 

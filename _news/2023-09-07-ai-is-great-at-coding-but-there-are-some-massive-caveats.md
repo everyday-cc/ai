@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-is-great-at-coding-but-t
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-is-great-at-coding-but-there-are-some-massive-caveats/"
 type: article
 quality: 87
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -30,38 +30,91 @@ images:
     isCached: true
 
 related:
-  - title: "How To Mitigate Risk In An Artificial Intelligence-Driven Threat Landscape"
-    excerpt: "Generative AI tools such as ChatGPT have irrevocably changed the security landscape, posing new threats to cyberdefense efforts by lowering cybercriminals’ barrier to entry and helping them craft AI-generated phishing scams and malicious code at scale."
-    publishedDateTime: 2023-09-07T23:25:00Z
-    webUrl: "https://biztechmagazine.com/article/2023/09/how-mitigate-risk-artificial-intelligence-driven-threat-landscape"
-    ampWebUrl: "https://biztechmagazine.com/article/2023/09/how-mitigate-risk-artificial-intelligence-driven-threat-landscape?amp"
-    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2023/09/how-mitigate-risk-artificial-intelligence-driven-threat-landscape?amp"
+  - title: "What technology analysts are saying about the future of generative AI"
+    excerpt: "According to 2023 research, most people are concerned about the implications of generative AI on data security, ethics, and bias. In fact, 81% of customers want a human to be in the loop, reviewing and validating generative AI outputs. A mere 37% of ..."
+    publishedDateTime: 2023-09-08T08:36:00Z
+    webUrl: "https://www.zdnet.com/article/what-analyst-are-saying-about-the-future-of-generative-ai/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/what-analyst-are-saying-about-the-future-of-generative-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-analyst-are-saying-about-the-future-of-generative-ai/"
     type: article
     provider:
-      name: BizTech
-      domain: biztechmagazine.com
-    quality: 55
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
     images:
-      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202309/GettyImages-1513403586.jpg?itok=RFgP1arK"
-        width: 1440
-        height: 500
-        isCached: true
-  - title: "Does artificial intelligence pose a threat to creativity? A Boston-area artist says yes"
-    excerpt: "Doctors at Mass General Brigham are using generative AI to record patient visits instead of typing in notes. Doctors say the technology not only saves them hours in administrative work, allowing them more time with patients, but they are able to focus on a patient’s social cues during appointments."
-    publishedDateTime: 2023-09-08T00:10:00Z
-    webUrl: "https://www.wcvb.com/article/does-artificial-intelligence-pose-a-threat-to-creativity-a-boston-area-artist-says-yes-1694113398/45038207"
-    ampWebUrl: "https://www.wcvb.com/amp/article/does-artificial-intelligence-pose-a-threat-to-creativity-a-boston-area-artist-says-yes-1694113398/45038207"
-    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/does-artificial-intelligence-pose-a-threat-to-creativity-a-boston-area-artist-says-yes-1694113398/45038207"
-    type: article
-    provider:
-      name: WCVB Channel 5 Boston
-      domain: wcvb.com
-    quality: 49
-    images:
-      - url: "https://kubrick.htvapps.com/vidthumb/0d9380f1-1fe1-4ebc-ada3-527da9660346/690176b8-dff4-4bab-b916-bbb5f4050ec0.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+      - url: "https://www.zdnet.com/a/img/resize/2f08899a4acb2e57b5ed4ba56a04c7532b14368f/2023/09/07/f61c50b3-818b-46f4-b2f4-d50361e42604/gettyimages-1648872451.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
+  - title: "How AI and machine learning are actively contributing to workplace security"
+    excerpt: "These are just a few examples of how AI and Machine Learning are actively contributing to workplace security. By automating and enhancing traditional security measures, these technologies are helping to create safer and more secure work environments. In the next section, we'll delve into a specific case study: employee badging systems."
+    publishedDateTime: 2023-09-06T10:25:00Z
+    webUrl: "https://www.jpost.com/special-content/how-ai-and-machine-learning-are-actively-contributing-to-workplace-security-756007"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 69
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/549546"
+        width: 690
+        height: 407
+        isCached: true
+  - title: "Dell Becomes One Of The Early Generative AI Winners"
+    excerpt: "Dell Technologies Inc (NYSE: DELL) had its best stock market day since its 2018 return to the public market after it reported its fiscal second quarter results."
+    publishedDateTime: 2023-09-05T13:59:00Z
+    webUrl: "https://www.benzinga.com/23/09/34237167/dell-becomes-one-of-the-early-generative-ai-winners"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34237167"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34237167"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://cdn.benzinga.com/files/close-up-entrepreneur-going-through-business-reports-taking-notes-office.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Generative AI means the looming end of search as we know it – here’s why"
+    excerpt: "“Datafication Nation” columns are part of WRAL TechWire’s Startup Monday package. RALEIGH-There is tremendous hype and hysteria surrounding Generative AI, and the risk it poses to many job categories and to complete industries. But should we ..."
+    publishedDateTime: 2023-09-04T11:09:00Z
+    webUrl: "https://wraltechwire.com/2023/09/04/generative-ai-means-the-looming-end-of-search-as-we-know-it-heres-why/"
+    ampWebUrl: "https://wraltechwire.com/2023/09/04/generative-ai-means-the-looming-end-of-search-as-we-know-it-heres-why/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/09/04/generative-ai-means-the-looming-end-of-search-as-we-know-it-heres-why/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 56
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2018/05/artificial-intelligence-4-alien-god-diety.jpg"
+        width: 960
+        height: 578
+        isCached: true
+  - title: "Five Things: Responsible artificial intelligence and the future of business"
+    excerpt: "She recently spoke at the Business Ethics Allia nce luncheon in Omaha about artificial intelligence and the future of business. Here are a few key takeaways from the event. We’ll share event highlights, founder profiles and feature stories digging into ..."
+    publishedDateTime: 2023-09-06T17:53:00Z
+    webUrl: "https://siliconprairienews.com/2023/09/responsible-artificial-intelligence/"
+    type: article
+    provider:
+      name: Silicon Prairie News
+      domain: siliconprairienews.com
+    quality: 37
+    images:
+      - url: "https://siliconprairienews.com/wp-content/uploads/2023/08/IMG_7969-scaled-e1694021646173.jpg"
+        width: 2560
+        height: 1642
+        isCached: true
+  - title: "Unlocking creativity with AI in the future workforce"
+    excerpt: "Generative AI is transforming digital content production, offering new tools that enhance the capabilities of creative professionals, as well as those not typically involved in creative roles. This fundamental shift will influence the future of work across all industries, according to software company Adobe."
+    publishedDateTime: 2023-09-07T21:29:00Z
+    webUrl: "https://www.theaustralian.com.au/sponsored/zXktpQXeYeY6d5YQxjrx/unlocking-creativity-with-ai-in-the-future-workforce/"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 19
 
 secured: "ARAUssx8yiy5g5U7orrRe4y6idwIcSdbLlGQTqFIbH9j/FAzDaTc3OjQ6Nr+AlojabC2ZteCVO/vjTSl+U8Nke7cDRR2LuXsR+aw/170j6M1GA/uGSkrEwlK2PtQd7NeKmcuEjML6cv4ZGTmH/9wXzeQ4d1efVGn7/FHnsPZ2BmjX8Ym9K6UKf6reQUvRVkNcmr3cHKa8qknfFeRo4IvcSOLoQaidr5JFzbP7HOgdm4gVE+2czCdCtyXOiVrjpZcDi7PoByVW/GYrfc/BGNOiJhJPAhPmfv734RdbO6y9aDThLcPX+BrPAhtnpIS/RbeSAQeg+yBp40hVC05DDbJGN7JyrllIqvQldu2Ed7X8JfODWmzbGKdOZkPcPfVUkO2MbWZG4saz4rmnptyJU1/WmRS1whqjAdheEygxdrX8v+jMMSpvqukYVEFNuSNGoq5nurLGPFhKYox7FClffCpOAQ432OvBpJrejAGPlRNrhW+aF46Kvski7SZbmtmkwo7N2TkC+IowQaFApHmM7l+8w==;Vek0zobz/OYht111kogmwg=="
 ---

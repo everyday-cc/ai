@@ -2,6 +2,110 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2023-07-27-aws-is-ready-to-power-ai-agents-that-can-handle-busywork-instead-of-just-chatting.md",
+      "title": "AWS is ready to power AI agents that can handle busywork instead of just chatting",
+      "excerpt": "Other AWS announcements included bringing generative AI to healthcare through a new service called AWS HealthScribe and a partnership with Nvidia allowing AWS to handle larger amounts of memory and data by using Nvidia H100 Tensor Core GPUs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/7/26/23808730/aws-generative-ai-agents-healthcare-privacy",
+      "originalUrl": "https://www.theverge.com/2023/7/26/23808730/aws-generative-ai-agents-healthcare-privacy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/ttBtmyVRGnR5dITVexFJJD6wnOk=/0x0:1600x900/1200x628/filters:focal(800x450:801x451)/cdn.vox-cdn.com/uploads/chorus_asset/file/24812347/AWS_Summit_NY_2023_003.JPG",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T14:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-lam-research-sales-forecast-beats-estimates-on-ai-boom.md",
+      "title": "Lam Research sales forecast beats estimates on AI boom",
+      "excerpt": "Chip-making tools supplier Lam Research forecast quarterly revenue above Wall Street estimates, as semiconductor makers scramble to meet a surge in demand fueled by rising adoption of artificial intelligence (AI) technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/lam-research-results/lam-research-sales-forecast-beats-estimates-on-ai-boom-idUSKBN2Z625V",
+      "originalUrl": "https://www.reuters.com/article/lam-research-results/lam-research-sales-forecast-beats-estimates-on-ai-boom-idUSKBN2Z625V",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/g73N9n8Giy_-Z2jEDA54bOOfaAA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VF5N7CEDBJO2NM7U5HEVSNOERQ.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T14:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-07-27-ai-governance-maturity-index-a-comprehensive-assessment-framework.md",
       "title": "AI Governance Maturity Index: A Comprehensive Assessment Framework",
       "excerpt": "There are 5 broad levels of AI Governance Maturity that an organization may adopt. Each comes with key tradeoffs between speed of development, and risk mitigation, as well as costs to implement. The appropriate maturity level for an organization takes into account the organization's size,",
@@ -1090,92 +1194,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-marc-raibert-on-the-future-of-robotics.md",
-      "title": "Marc Raibert on the future of robotics",
-      "excerpt": "In this episode, we replay the keynote fireside chat between Steve Crowe and Marc Raibert from the 2023 Robotics Summit & Expo.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/marc-raibert-on-the-future-of-robotics/",
-      "originalUrl": "https://www.therobotreport.com/marc-raibert-on-the-future-of-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/07/marc-raibert-SC-RS23-featured.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-a-painting-newly-attributed-to-raphael-by-ai-facial-recognition-goes-on-view-for-the-first-time.md",
-      "title": "A Painting Newly Attributed to Raphael by A.I. Facial Recognition Goes on View for the First Time",
-      "excerpt": "A painting of the Madonna and child is on view in the U.K. city of Bradford after A.I. determined it was the work of Raphael.",
-      "sourceUrl": null,
-      "webUrl": "https://news.artnet.com/art-world/a-painting-newly-attributed-to-raphael-by-a-i-facial-recognition-goes-on-view-for-the-first-time-2341923",
-      "originalUrl": "https://news.artnet.com/art-world/a-painting-newly-attributed-to-raphael-by-a-i-facial-recognition-goes-on-view-for-the-first-time-2341923",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://p-news-upload.storage.googleapis.com/2023/01/de-brecy-raphael-comparison.jpg",
-          "width": 1194,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://news.artnet.com/art-world/a-painting-newly-attributed-to-raphael-by-a-i-facial-recognition-goes-on-view-for-the-first-time-2341923/amp-page",
-      "cdnAmpWebUrl": "https://news-artnet-com.cdn.ampproject.org/c/s/news.artnet.com/art-world/a-painting-newly-attributed-to-raphael-by-a-i-facial-recognition-goes-on-view-for-the-first-time-2341923/amp-page",
-      "publishedDateTime": "2023-07-26T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Artnet",
-        "domain": "artnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

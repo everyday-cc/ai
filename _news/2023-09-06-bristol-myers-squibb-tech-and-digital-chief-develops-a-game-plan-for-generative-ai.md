@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "How businesses can achieve greener generative AI with more sustainable inference"
-    excerpt: "Why a server-on-a-chip operating on far less power and GPUs can create cost-conscious, environmentally-sound, democratized generative AI."
-    publishedDateTime: 2023-09-03T15:20:00Z
-    webUrl: "https://venturebeat.com/ai/how-businesses-can-achieve-greener-generative-ai-with-more-sustainable-inference/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 66
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/annevb_a_computer_with_green_plants_growing_out_of_it_or_aroun_34756494-fc43-4af9-aa33-3ded589fabc9.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Revive Launches AI Tool For Real Estate Professionals"
     excerpt: "Irvine-based Revive said this morning that it has launched a new, AI-powered tool aimed at real estate professionals. According to the company, its new software--"
     publishedDateTime: 2023-09-06T14:47:00Z

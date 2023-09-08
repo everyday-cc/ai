@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/09/06/intuit-assist-generative-ai-assist
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/06/intuit-assist-generative-ai-assistant/amp/"
 type: article
 quality: 77
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How businesses can achieve greener generative AI with more sustainable inference"
-    excerpt: "Why a server-on-a-chip operating on far less power and GPUs can create cost-conscious, environmentally-sound, democratized generative AI."
-    publishedDateTime: 2023-09-03T15:20:00Z
-    webUrl: "https://venturebeat.com/ai/how-businesses-can-achieve-greener-generative-ai-with-more-sustainable-inference/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 66
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/annevb_a_computer_with_green_plants_growing_out_of_it_or_aroun_34756494-fc43-4af9-aa33-3ded589fabc9.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Bristol Myers Squibb Tech and Digital Chief Develops A Game Plan For Generative AI"
     excerpt: "Bristol Myers Squibb Chief Digital and Technology Officer Greg Meyers recognized the power generative AI early by immersing himself early and often in the tech."
     publishedDateTime: 2023-09-06T15:03:00Z

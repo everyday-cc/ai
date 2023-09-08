@@ -19,68 +19,98 @@ topics:
   - AI
 
 related:
-  - title: "Rethinking open source for AI"
-    excerpt: "Mehul Shah, founder and CEO of Aryn, a stealth startup that aims to reimagine enterprise search through AI, first outlined the problem for me in an interview. Shah, who spearheaded AWS’ OpenSearch business, is betting big on AI and also on open source."
-    publishedDateTime: 2023-09-04T09:02:00Z
-    webUrl: "https://www.infoworld.com/article/3706091/rethinking-open-source-for-ai.html"
-    ampWebUrl: "https://www.infoworld.com/article/3706091/rethinking-open-source-for-ai.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706091/rethinking-open-source-for-ai.amp.html"
+  - title: "What technology analysts are saying about the future of generative AI"
+    excerpt: "According to 2023 research, most people are concerned about the implications of generative AI on data security, ethics, and bias. In fact, 81% of customers want a human to be in the loop, reviewing and validating generative AI outputs. A mere 37% of ..."
+    publishedDateTime: 2023-09-08T08:36:00Z
+    webUrl: "https://www.zdnet.com/article/what-analyst-are-saying-about-the-future-of-generative-ai/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/what-analyst-are-saying-about-the-future-of-generative-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-analyst-are-saying-about-the-future-of-generative-ai/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/2f08899a4acb2e57b5ed4ba56a04c7532b14368f/2023/09/07/f61c50b3-818b-46f4-b2f4-d50361e42604/gettyimages-1648872451.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AI is great at coding, but there are some massive caveats"
+    excerpt: "Creating and testing code at the touch of a button through generative artificial intelligence (AI) models, such as GitHub CoPilot or ChatGPT, almost seems too good to be true. So good, in fact, that there has to be a catch."
+    publishedDateTime: 2023-09-07T16:10:00Z
+    webUrl: "https://www.zdnet.com/article/ai-is-great-at-coding-but-there-are-some-massive-caveats/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-is-great-at-coding-but-there-are-some-massive-caveats/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-is-great-at-coding-but-there-are-some-massive-caveats/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
     quality: 87
     images:
-      - url: "https://images.idgesg.net/images/article/2020/09/artificial-intelligence-neural-network-human-face-picture-id1150038843-100860324-large.jpg?auto=webp&quality=85,70"
+      - url: "https://www.zdnet.com/a/img/resize/66f422e98f107a6ec4cc4ae71fdc9c011b9170da/2023/09/07/837973ac-6fdc-438c-bd08-86bf4aafff69/gettyimages-1243560129.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "Some CT schools are using artificial intelligence for student tutoring"
-    excerpt: "CT is partnering with tech company Varsity Tutors, which uses AI to connect students with tutors and design tutoring lesson plans."
-    publishedDateTime: 2023-09-06T09:00:00Z
-    webUrl: "https://ctmirror.org/2023/09/06/ct-schools-ai-artificial-intelligence-tutoring/"
+  - title: "How AI and machine learning are actively contributing to workplace security"
+    excerpt: "These are just a few examples of how AI and Machine Learning are actively contributing to workplace security. By automating and enhancing traditional security measures, these technologies are helping to create safer and more secure work environments. In the next section, we'll delve into a specific case study: employee badging systems."
+    publishedDateTime: 2023-09-06T10:25:00Z
+    webUrl: "https://www.jpost.com/special-content/how-ai-and-machine-learning-are-actively-contributing-to-workplace-security-756007"
     type: article
     provider:
-      name: The Connecticut Mirror
-      domain: ctmirror.org
-    quality: 39
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 69
     images:
-      - url: "https://ctmirror-images.s3.amazonaws.com/wp-content/uploads/2023/08/2023_0823_SR_AIinSchools_017_1-scaled.jpeg"
-        width: 2560
-        height: 1707
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/549546"
+        width: 690
+        height: 407
         isCached: true
-  - title: "Hugging Face Raises $235M for its Open Platform for AI and Machine Learning"
-    excerpt: "Hugging Face is the most-used open platform for AI builders. More than 50,000 organizations are using it to build, train, and deploy AI models like Stable diffusion, StarCoder, Llama, and more. It hosts over 300k models, 250k datasets, and 250k spaces."
-    publishedDateTime: 2023-09-07T13:29:00Z
-    webUrl: "https://www.alleywatch.com/2023/09/hugging-face-open-source-ai-platform-machine-learning-github-brigitte-tousignant/"
-    type: article
-    provider:
-      name: alleywatch.com
-      domain: alleywatch.com
-    quality: 32
-  - title: "A|I: The AI Times – Cohere reportedly hunting for fresh funding as OpenAI passes $1B revenue pace"
-    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
-    publishedDateTime: 2023-09-07T09:00:00Z
-    webUrl: "https://betakit.com/ai-the-ai-times-cohere-reportedly-hunting-for-fresh-funding-as-openai-passes-1b-revenue-pace/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 26
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2023/06/Cohere.jpg"
-        width: 1050
-        height: 700
-        isCached: true
-  - title: "Explainable-AI Image Recognition achieves precise 3D descriptions of objects for US Air Force, a major AI breakthrough"
-    excerpt: "Z Advanced Computing, Inc. (ZAC), the pioneer CognitiveExplainable-AI (Artificial Intelligence) (Cognitive XAIor CXAI) software startup, has developed the \"Describer\""
-    publishedDateTime: 2023-09-05T17:03:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/n34245972/explainable-ai-image-recognition-achieves-precise-3d-descriptions-of-objects-for-us-air-force-a-ma"
+  - title: "Dell Becomes One Of The Early Generative AI Winners"
+    excerpt: "Dell Technologies Inc (NYSE: DELL) had its best stock market day since its 2018 return to the public market after it reported its fiscal second quarter results."
+    publishedDateTime: 2023-09-05T13:59:00Z
+    webUrl: "https://www.benzinga.com/23/09/34237167/dell-becomes-one-of-the-early-generative-ai-winners"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34237167"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34237167"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 0
+    quality: 59
+    images:
+      - url: "https://cdn.benzinga.com/files/close-up-entrepreneur-going-through-business-reports-taking-notes-office.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Generative AI means the looming end of search as we know it – here’s why"
+    excerpt: "“Datafication Nation” columns are part of WRAL TechWire’s Startup Monday package. RALEIGH-There is tremendous hype and hysteria surrounding Generative AI, and the risk it poses to many job categories and to complete industries. But should we ..."
+    publishedDateTime: 2023-09-04T11:09:00Z
+    webUrl: "https://wraltechwire.com/2023/09/04/generative-ai-means-the-looming-end-of-search-as-we-know-it-heres-why/"
+    ampWebUrl: "https://wraltechwire.com/2023/09/04/generative-ai-means-the-looming-end-of-search-as-we-know-it-heres-why/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/09/04/generative-ai-means-the-looming-end-of-search-as-we-know-it-heres-why/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 56
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2018/05/artificial-intelligence-4-alien-god-diety.jpg"
+        width: 960
+        height: 578
+        isCached: true
+  - title: "Five Things: Responsible artificial intelligence and the future of business"
+    excerpt: "She recently spoke at the Business Ethics Allia nce luncheon in Omaha about artificial intelligence and the future of business. Here are a few key takeaways from the event. We’ll share event highlights, founder profiles and feature stories digging into ..."
+    publishedDateTime: 2023-09-06T17:53:00Z
+    webUrl: "https://siliconprairienews.com/2023/09/responsible-artificial-intelligence/"
+    type: article
+    provider:
+      name: Silicon Prairie News
+      domain: siliconprairienews.com
+    quality: 37
+    images:
+      - url: "https://siliconprairienews.com/wp-content/uploads/2023/08/IMG_7969-scaled-e1694021646173.jpg"
+        width: 2560
+        height: 1642
+        isCached: true
 
 secured: "S04pQ5b3mWacye5PCw24p+G8wF8fCw9omUWtpthz94NkP4lPmhwxSGIyuYCRy3hkIGMfjxCkZrm67IcNttPSqzn+CTRBfxuOOrTD9J4l+1ekNK4IJdFrTO56Uv5k1GF84fzT97M7equa4ieEUH83sjO3Ren9X8aDBXHJLNAZpDiZmywZmZ6/XK3lygvmudqpEXOCceNjhdc13c/LsCsw2HY9b0BkXRRTqQ6XzOOJxWlIKqJkCVUV0TenpMtAYFBXzWPfZ5iamZkursqwpSjuuKkyy2shGUmAmA6Q5qqcVOyOIUmqnjcWZP1kFAa+tdFtgnXDmdols2nYH+ADf4PX5ys26fs+d/r08Uxcpbwj/i8GdQmq2FgbJ/HtLfyYU2oDlA7juJzWbmxgrBHlH/SUidD/8NsEDtHqKneRfz4kYgWCi6pxDKq/wsYej9uqmM/WHnDcGfyVEKmx2iz328ay6was7IqtbGEZZu3WAvXmk0CHcQg5BRAm9lKh5dKsLMLIi8Rv/4vEnyR2CujBuZdiZg==;MB8Wxx4RIpU0R/RfERWfKg=="
 ---

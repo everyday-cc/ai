@@ -25,56 +25,88 @@ images:
     isCached: true
 
 related:
-  - title: "Three Things That Services Businesses Should Know About AI Right Now"
-    excerpt: "No matter where your services business is in its digital transformation journey, you should take an active role in collaborating on AI readiness."
-    publishedDateTime: 2023-09-05T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/05/three-things-that-services-businesses-should-know-about-ai-right-now/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/05/three-things-that-services-businesses-should-know-about-ai-right-now/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/05/three-things-that-services-businesses-should-know-about-ai-right-now/amp/"
+  - title: "What technology analysts are saying about the future of generative AI"
+    excerpt: "According to 2023 research, most people are concerned about the implications of generative AI on data security, ethics, and bias. In fact, 81% of customers want a human to be in the loop, reviewing and validating generative AI outputs. A mere 37% of ..."
+    publishedDateTime: 2023-09-08T08:36:00Z
+    webUrl: "https://www.zdnet.com/article/what-analyst-are-saying-about-the-future-of-generative-ai/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/what-analyst-are-saying-about-the-future-of-generative-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-analyst-are-saying-about-the-future-of-generative-ai/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/2f08899a4acb2e57b5ed4ba56a04c7532b14368f/2023/09/07/f61c50b3-818b-46f4-b2f4-d50361e42604/gettyimages-1648872451.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AI is great at coding, but there are some massive caveats"
+    excerpt: "Creating and testing code at the touch of a button through generative artificial intelligence (AI) models, such as GitHub CoPilot or ChatGPT, almost seems too good to be true. So good, in fact, that there has to be a catch."
+    publishedDateTime: 2023-09-07T16:10:00Z
+    webUrl: "https://www.zdnet.com/article/ai-is-great-at-coding-but-there-are-some-massive-caveats/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-is-great-at-coding-but-there-are-some-massive-caveats/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-is-great-at-coding-but-there-are-some-massive-caveats/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64ee017ce0404c2794d8ae21/0x0.jpg?format=jpg&width=1200"
+      - url: "https://www.zdnet.com/a/img/resize/66f422e98f107a6ec4cc4ae71fdc9c011b9170da/2023/09/07/837973ac-6fdc-438c-bd08-86bf4aafff69/gettyimages-1243560129.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 855
+        height: 675
         isCached: true
-  - title: "3 things businesses need to know as NYC begins enforcing its AI hiring law"
-    excerpt: "New York's new AI regulations for hiring have many companies jittery. Here's how to get a handle on complying now and in the future."
-    publishedDateTime: 2023-09-04T00:10:00Z
-    webUrl: "https://venturebeat.com/ai/3-things-businesses-need-to-know-as-nyc-begins-enforcing-its-ai-hiring-law/"
+  - title: "How AI and machine learning are actively contributing to workplace security"
+    excerpt: "These are just a few examples of how AI and Machine Learning are actively contributing to workplace security. By automating and enhancing traditional security measures, these technologies are helping to create safer and more secure work environments. In the next section, we'll delve into a specific case study: employee badging systems."
+    publishedDateTime: 2023-09-06T10:25:00Z
+    webUrl: "https://www.jpost.com/special-content/how-ai-and-machine-learning-are-actively-contributing-to-workplace-security-756007"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 65
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 69
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/annevb_technology_artificial_intelligence_and_law._colorful_fu_ce8f16b1-af12-449c-8d7a-af72cd4c62c5-1.png?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/549546"
+        width: 690
+        height: 407
         isCached: true
-  - title: "You need to talk to your kid about AI. Here are 6 things you should say."
-    excerpt: "As children start back at school this week, it’s not just ChatGPT you need to be thinking about. In the past year, kids, teachers, and parents have had a crash course in artificial intelligence, thanks to the wildly popular AI chatbot ChatGPT."
-    publishedDateTime: 2023-09-05T16:45:00Z
-    webUrl: "https://www.technologyreview.com/2023/09/05/1079009/you-need-to-talk-to-your-kid-about-ai-here-are-6-things-you-should-say/"
-    ampWebUrl: "https://www.technologyreview.com/2023/09/05/1079009/you-need-to-talk-to-your-kid-about-ai-here-are-6-things-you-should-say/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/05/1079009/you-need-to-talk-to-your-kid-about-ai-here-are-6-things-you-should-say/amp/"
+  - title: "Dell Becomes One Of The Early Generative AI Winners"
+    excerpt: "Dell Technologies Inc (NYSE: DELL) had its best stock market day since its 2018 return to the public market after it reported its fiscal second quarter results."
+    publishedDateTime: 2023-09-05T13:59:00Z
+    webUrl: "https://www.benzinga.com/23/09/34237167/dell-becomes-one-of-the-early-generative-ai-winners"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34237167"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34237167"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://cdn.benzinga.com/files/close-up-entrepreneur-going-through-business-reports-taking-notes-office.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Generative AI means the looming end of search as we know it – here’s why"
+    excerpt: "“Datafication Nation” columns are part of WRAL TechWire’s Startup Monday package. RALEIGH-There is tremendous hype and hysteria surrounding Generative AI, and the risk it poses to many job categories and to complete industries. But should we ..."
+    publishedDateTime: 2023-09-04T11:09:00Z
+    webUrl: "https://wraltechwire.com/2023/09/04/generative-ai-means-the-looming-end-of-search-as-we-know-it-heres-why/"
+    ampWebUrl: "https://wraltechwire.com/2023/09/04/generative-ai-means-the-looming-end-of-search-as-we-know-it-heres-why/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/09/04/generative-ai-means-the-looming-end-of-search-as-we-know-it-heres-why/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
     quality: 56
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/09/talk-kids-AI2.jpeg?w=3000"
-        width: 3000
-        height: 1688
+      - url: "https://wraltechwire.com/wp-content/uploads/2018/05/artificial-intelligence-4-alien-god-diety.jpg"
+        width: 960
+        height: 578
         isCached: true
-  - title: "How worried should we be about AI’s threat to the human race?"
-    excerpt: "Artificial-intelligence pioneers are fighting over which of the technology’s dangers is the scariest. One camp, which includes some of the top executives building advanced AI systems, argues its creations could lead to catastrophe."
-    publishedDateTime: 2023-09-05T17:50:00Z
-    webUrl: "https://www.theaustralian.com.au/business/the-wall-street-journal/how-worried-should-we-be-about-ais-threat-to-the-human-race/news-story/4130227d7aad1c22b1bfe3ca0f609c3c"
+  - title: "Unlocking creativity with AI in the future workforce"
+    excerpt: "Generative AI is transforming digital content production, offering new tools that enhance the capabilities of creative professionals, as well as those not typically involved in creative roles. This fundamental shift will influence the future of work across all industries, according to software company Adobe."
+    publishedDateTime: 2023-09-07T21:29:00Z
+    webUrl: "https://www.theaustralian.com.au/sponsored/zXktpQXeYeY6d5YQxjrx/unlocking-creativity-with-ai-in-the-future-workforce/"
     type: article
     provider:
       name: The Australian

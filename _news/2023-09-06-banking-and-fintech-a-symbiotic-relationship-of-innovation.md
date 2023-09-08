@@ -7,7 +7,7 @@ originalUrl: "https://www.dqindia.com/banking-and-fintech-a-symbiotic-relationsh
 webUrl: "https://www.dqindia.com/banking-and-fintech-a-symbiotic-relationship-of-innovation/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,19 +17,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-related:
-  - title: "Gov’t digitalization push to sustain demand for fintech services"
-    excerpt: "DEMAND for financial technology (fintech) services is expected to be sustained following the increase seen during the coronavirus pandemic, driven by the government’s digitalization initiatives. “With the Philippine government prioritizing the digitalization of financial transactions and showing strong support for the fintech industry,"
-    publishedDateTime: 2023-09-03T15:24:00Z
-    webUrl: "https://www.bworldonline.com/special-reports/2023/09/04/542941/govt-digitalization-push-to-sustain-demand-for-fintech-services/"
-    ampWebUrl: "https://www.bworldonline.com/special-reports/2023/09/04/542941/govt-digitalization-push-to-sustain-demand-for-fintech-services/?amp"
-    cdnAmpWebUrl: "https://www-bworldonline-com.cdn.ampproject.org/c/s/www.bworldonline.com/special-reports/2023/09/04/542941/govt-digitalization-push-to-sustain-demand-for-fintech-services/?amp"
-    type: article
-    provider:
-      name: BusinessWorld
-      domain: bworldonline.com
-    quality: 39
 
 secured: "6tSkhUXYQsQWSPXZ0l78Yprw06Kg2z7EXjxHXJJZOuXUMs5wbPzIwKf2WJnhl10qFE0PvlfVuakRRgwAqveGu3qag9rf+VzKL6P6yhPOwZ3YOe00PuvvbsUs1xBr4enQVSnbhWWp0FVNm73F2Ub5N/btxCZ9R7yBix46iDT/6uD4AdiQK/Srje+P0oNcdfP6QBE7nfD7WWWXXdfMiyTW/c9G4v1IAr6v2HLO4GgChDAX+ZVPHNC4Vg4zrGacYBanIbrml7vvkY9LlQ4CYaq9/++KsXV0kSvzpK5s+z5I8MzQ4iEdg+X88AEjxGqBqnJOzbVFRUNE3Y4TGEYSA8hGfNc9HXzvkadDxIIvUfQJcJdab8B2NmLqR3NBOI7JqNvKBlI5vQh6Rvj62z8LwE5TCVuUEsQbILITGkU7wAIM7Ux4Q0dYWQ9UumSfHwWdceWqc5l5yANxkXfAwyM7FCmm16AbECDIPBt+zVhE5IeLXwDWq/94rxiiOAuvMR58cRdrfCcgG4koyJzQFMIIusYF3w==;XWXOfOsIEUqhAv5hjlW12Q=="
 ---

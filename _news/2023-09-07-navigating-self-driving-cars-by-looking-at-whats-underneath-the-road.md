@@ -41,6 +41,22 @@ related:
         width: 1280
         height: 800
         isCached: true
+  - title: "Self-driving car revolution is coming, but slowly"
+    excerpt: "Pandemic-related disruptions to the car industry, a shift towards investing in electrification and the sheer complexity of the technology have all contributed to keeping the autonomous-driving revolution stuck in the slow lane. Now, \"we're more inclined to say it will happen by 2030,\" Aufrere told AFP."
+    publishedDateTime: 2023-09-08T09:00:00Z
+    webUrl: "https://www.theeastafrican.co.ke/tea/science-health/self-driving-car-revolution-is-coming-but-slowly-4362258"
+    ampWebUrl: "https://www.theeastafrican.co.ke/tea/science-health/self-driving-car-revolution-is-coming-but-slowly-4362258?view=htmlamp"
+    cdnAmpWebUrl: "https://www-theeastafrican-co-ke.cdn.ampproject.org/c/s/www.theeastafrican.co.ke/tea/science-health/self-driving-car-revolution-is-coming-but-slowly-4362258?view=htmlamp"
+    type: article
+    provider:
+      name: The EastAfrican
+      domain: theeastafrican.co.ke
+    quality: 44
+    images:
+      - url: "https://www.theeastafrican.co.ke/resource/blob/4362272/93c4c276d2a5b72180c6a801c040f6ee/iaa-data.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "X post about self-driving cars prompts discussion on Indian roads and driving"
     excerpt: "As the world is rapidly moving towards automation, many countries are experimenting with driverless cars. Recently, a tweet about the possibility of introducing self-driving cars in India has sparked debate about the dismal state of roads and lack of respect towards traffic rules."
     publishedDateTime: 2023-09-08T06:43:00Z

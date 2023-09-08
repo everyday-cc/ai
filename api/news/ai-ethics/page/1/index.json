@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-08-what-technology-analysts-are-saying-about-the-future-of-generative-ai.md",
+      "title": "What technology analysts are saying about the future of generative AI",
+      "excerpt": "According to 2023 research, most people are concerned about the implications of generative AI on data security, ethics, and bias. In fact, 81% of customers want a human to be in the loop, reviewing and validating generative AI outputs. A mere 37% of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/what-analyst-are-saying-about-the-future-of-generative-ai/",
+      "originalUrl": "https://www.zdnet.com/article/what-analyst-are-saying-about-the-future-of-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/2f08899a4acb2e57b5ed4ba56a04c7532b14368f/2023/09/07/f61c50b3-818b-46f4-b2f4-d50361e42604/gettyimages-1648872451.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/what-analyst-are-saying-about-the-future-of-generative-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-analyst-are-saying-about-the-future-of-generative-ai/",
+      "publishedDateTime": "2023-09-08T01:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-05-usm-tapped-to-develop-ethics-training-in-age-of-artificial-intelligence.md",
       "title": "USM tapped to develop ethics training in age of artificial intelligence",
       "excerpt": "The University of Southern Maine has received a federal grant to develop an ethics training program for scientists, engineers and students.",
@@ -1418,49 +1470,6 @@
       "provider": {
         "name": "Zawya",
         "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-when-hackers-descended-to-test-ai-they-found-flaws-aplenty.md",
-      "title": "When hackers descended to test AI, they found flaws aplenty",
-      "excerpt": "The hackers tried to break through the safeguards of various AI programs in an effort to identify their vulnerabilities - to find the problems before actual criminals and misinformation peddlers did - in a practice known as red-teaming.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/tech-bytes/when-hackers-descended-to-test-ai-they-found-flaws-aplenty/articleshow/102790956.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/tech-bytes/when-hackers-descended-to-test-ai-they-found-flaws-aplenty/articleshow/102790956.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-230420,msid-102790995/when-hackers-descended-to-test-ai-they-found-flaws-aplenty.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/tech-bytes/when-hackers-descended-to-test-ai-they-found-flaws-aplenty/amp_articleshow/102790956.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/tech-bytes/when-hackers-descended-to-test-ai-they-found-flaws-aplenty/amp_articleshow/102790956.cms",
-      "publishedDateTime": "2023-08-16T22:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -64,15 +64,6 @@ related:
         width: 1050
         height: 700
         isCached: true
-  - title: "Unlocking creativity with AI in the future workforce"
-    excerpt: "Generative AI is transforming digital content production, offering new tools that enhance the capabilities of creative professionals, as well as those not typically involved in creative roles. This fundamental shift will influence the future of work across all industries, according to software company Adobe."
-    publishedDateTime: 2023-09-07T21:29:00Z
-    webUrl: "https://www.theaustralian.com.au/sponsored/zXktpQXeYeY6d5YQxjrx/unlocking-creativity-with-ai-in-the-future-workforce/"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 19
   - title: "Explainable-AI Image Recognition achieves precise 3D descriptions of objects for US Air Force, a major AI breakthrough"
     excerpt: "Z Advanced Computing, Inc. (ZAC), the pioneer CognitiveExplainable-AI (Artificial Intelligence) (Cognitive XAIor CXAI) software startup, has developed the \"Describer\""
     publishedDateTime: 2023-09-05T17:03:00Z

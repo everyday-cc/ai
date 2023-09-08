@@ -49,6 +49,22 @@ related:
         width: 799
         height: 533
         isCached: true
+  - title: "Microsoft’s AI WARNING against China! Fake social media accounts trying to influence US voters, says tech giant"
+    excerpt: "Microsoft uncovers Chinese-controlled AI-driven fake social media network Influencing US voters, raising election concerns."
+    publishedDateTime: 2023-09-08T09:39:00Z
+    webUrl: "https://www.financialexpress.com/life/technology/microsofts-ai-warning-against-china-fake-social-media-accounts-trying-to-influence-us-voters-says-tech-giant-bkg/3237074/"
+    ampWebUrl: "https://www.financialexpress.com/life/technology/microsofts-ai-warning-against-china-fake-social-media-accounts-trying-to-influence-us-voters-says-tech-giant-bkg/3237074/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology/microsofts-ai-warning-against-china-fake-social-media-accounts-trying-to-influence-us-voters-says-tech-giant-bkg/3237074/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 56
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/US-China.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "vI6+jlVvBUQMeIJXayjmzF2xGC+vEUuf2WN+VBPUQTCC7A1IdgJxOTJj9YmSlyP98ootf9oHSyjKKdx1jTRAcUJV3Ufhkeb70xFc8svxrUyf70MPUkGg9rL8TMq/1YUGKayOkwiTilshASW4jK5FmqFc6jJ/gCarcVEG8OOat26OtMPd2XgP3R6DTi3UpCJvEoZP0Z6AsIHf01SjMR2i9fmxKGndgQtVjz/AVcs29Ru+Qdu6Cres/cyvfuDYWVPoOZDO9v8yzbnb3NdpdUrpoGUSxX1+CCvnGbxM551Aq6941GpGXFZGmY74VvIhCr4fucJLio0GfPa0mva59XBjddd9nuS5eNMRU8KY5vwWQVg=;MI2cRNbODMCpJ8YvyKgaSg=="
 ---

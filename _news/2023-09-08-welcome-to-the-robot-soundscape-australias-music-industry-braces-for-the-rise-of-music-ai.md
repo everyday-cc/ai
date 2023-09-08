@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/music/2023/sep/08/ai-music-bigsound-bris
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/music/2023/sep/08/ai-music-bigsound-brisbane-ai-dj-spotify-beatles"
 type: article
 quality: 63
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Voice key for Indigenous Australian's health"
-    excerpt: "Australia will soon vote on constitutional recognition of its Indigenous people, and to give them a direct voice to Parliament. Health will be high on the agenda. Chris McCall reports."
-    publishedDateTime: 2023-09-03T15:47:00Z
-    webUrl: "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)01840-8/fulltext"
-    type: article
-    provider:
-      name: The Lancet
-      domain: thelancet.com
-    quality: 4
 
 secured: "hT2jUkBC4NMBukhrkdLkjnF8cWJoMSePh53leMKcjdt/q81XlbzC0YN+rStAnKM8qeS9KHhRO7BC5QE+6YqTBYeRqksCRHdp3UBrZF9QWivmfw0jHdyx5yb1HkHM0ONmJyldxehlpkXV2SLSHqURpWIlYJvLj0xQg1t+TQ9IYNfhjfOOKJLWQtMjjPpN5zsdxxmKyI5QCdMQcms5ovW5QeD6xiueRxBZZg+vnYjWDiNoUg6yn7ej+RO+rvFk+KktWQkxalh4HfG189JNr15Z9+OHxSa8bImZLe8LXCAJK9umCTjiw/ahJz8QUfJtTzcVHhosIN5MGTq7E3EKy9+VlUCy/S8IyUjzK5Y68rTRH4OEv9d4KCAzbLKmbAMvtuX8L8ewUQZ7MVbufunSzFd2VKX57Kw2oFMYUcOt+ypE6uLkUDiack9JiDJn9R8k1a7NQpkXjorg/ipmlQpugE5QmGuyWTQLETdzK3ZTY8ut2pvYQytzQIZ3mgMFTYxUgcrgVM3PKAl0RAioW/PpQ/PFOw==;qSlBOnyge0mFDsS3luarhw=="
 ---

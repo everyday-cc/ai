@@ -46,22 +46,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "How Enterprises Can Keep Generative AI Innovation Customer-Focused"
-    excerpt: "By keeping customers front and center while you innovate with generative AI, you’ll be better able to take full advantage of its benefits."
-    publishedDateTime: 2023-09-06T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/06/how-enterprises-can-keep-generative-ai-innovation-customer-focused/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/06/how-enterprises-can-keep-generative-ai-innovation-customer-focused/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/06/how-enterprises-can-keep-generative-ai-innovation-customer-focused/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64f741fe7e46d114422b0cae/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Cloudera collaborates with AWS to deliver enterprise generative AI-based solutions"
     excerpt: "According to an official release, Cloudera has chosen AWS to run components of the CDP, including data in motion, data lake house, data warehouse, operational database, AI/machine learning, master data management and end-to-end security."
     publishedDateTime: 2023-09-07T08:00:00Z

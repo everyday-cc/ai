@@ -45,20 +45,13 @@ related:
         isCached: true
   - title: "iTechGenic Partners with Microsoft Azure and G7 CR Technologies to Revolutionize Engineering Management with AI-Driven Insights"
     excerpt: "India], September 8: iTechGenic, a pioneering AI-based engineering intelligence platform, has joined forces with Microsoft Azure and G7 CR Technologies- A Noventiq Company as a part of their STAB program for ISVs."
-    publishedDateTime: 2023-09-08T06:43:00Z
-    webUrl: "https://theprint.in/ani-press-releases/itechgenic-partners-with-microsoft-azure-and-g7-cr-technologies-to-revolutionize-engineering-management-with-ai-driven-insights/1751834/"
-    ampWebUrl: "https://theprint.in/ani-press-releases/itechgenic-partners-with-microsoft-azure-and-g7-cr-technologies-to-revolutionize-engineering-management-with-ai-driven-insights/1751834/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/itechgenic-partners-with-microsoft-azure-and-g7-cr-technologies-to-revolutionize-engineering-management-with-ai-driven-insights/1751834/?amp"
+    publishedDateTime: 2023-09-08T08:44:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20230908/4116878.html"
     type: article
     provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 61
-    images:
-      - url: "https://static.theprint.in/wp-content/uploads/2023/09/ANI-20230908062803.jpg"
-        width: 600
-        height: 450
-        isCached: true
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 21
 
 secured: "Gq9Rb5gyuFCEufS/wZ4ZZNtAUu2dn6j6vj94hnhZBZrEHvUI7lhO1NOLt/4dls1JNyQOpyMSACgHOmk8zu2+2xlNjjpUkRf+Lwk+lPiJjXUMC7qP3YKyMcBHgo2B2j0CSi4/OkaYiNIt3GGRxC7BnJaT0VIdxylNnTQS4HtV93kPiDpGN55+ywHWHcXnhtQqnJSdc3U/obeU01qyKnWvwECUd//8PKuWPAOsKCQQHZSE3SCvpEVrOFV18qP2OEz1gh2xCFSsUA9HqPip4FPxAk87KeWMpSmHbOu7uB+ZwFAqxDMYO5Qa+ce/h7w49hAIZsvXjSpaxp23qIT47comWs7REMUrHnCtjtcVx8YEFeU=;G0cZTUrVuOxEKHGMdcRJ9w=="
 ---

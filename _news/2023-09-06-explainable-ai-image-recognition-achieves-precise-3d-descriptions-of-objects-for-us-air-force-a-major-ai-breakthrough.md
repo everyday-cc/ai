@@ -72,15 +72,6 @@ related:
         width: 1050
         height: 700
         isCached: true
-  - title: "Unlocking creativity with AI in the future workforce"
-    excerpt: "Generative AI is transforming digital content production, offering new tools that enhance the capabilities of creative professionals, as well as those not typically involved in creative roles. This fundamental shift will influence the future of work across all industries, according to software company Adobe."
-    publishedDateTime: 2023-09-07T21:29:00Z
-    webUrl: "https://www.theaustralian.com.au/sponsored/zXktpQXeYeY6d5YQxjrx/unlocking-creativity-with-ai-in-the-future-workforce/"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 19
 
 secured: "H7vBWfSJXouynRFA0Hb2TkWvQkMcTFoJWsZeWN6M0nUMrDHl7pGKczwaeaUYfnwlRdkHOTkDXy/uR7Gji4ZMmap1an0oNeCh/pbdggRjSPhxRjUMvu+uW0hR38Jf5m+h2j0gxD79OaQf9hyzdocYiGeT2TGMXXudm7RLWhncPn2NOsCdXHNSe5b/k3KsBXFXlNSSebUvVewuwOSGm7VZPZrrQAeFJO3rirGEnK5n8oGOjMeOMHcLvydeo4oCM5uHgICMFBaj1UPzQ5d+EPb6kmNqkG+e3jPCNq00yfgZVff4+4puK4ouhLd6kjc+4z7ElHY7akqnYa8o8UZfsZeWAzP3/oYtysRQxqaeJCYkbE8=;VM3dR/IijF2okpXboX5D3g=="
 ---

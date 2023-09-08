@@ -2,6 +2,109 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-07-emerging-non-volatile-memories-enable-iot-and-ai-growth.md",
+      "title": "Emerging Non-Volatile Memories Enable IoT And AI Growth",
+      "excerpt": "MRAM and other emerging memory revenues could approach $1B and drive capital equipment revenues to $2.2B by 2033.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomcoughlin/2023/09/06/emerging-non-volatile-memories-enable-iot-and-ai-growth/",
+      "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2023/09/06/emerging-non-volatile-memories-enable-iot-and-ai-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64f8b28ea1eda175c6dcb951/0x0.png?format=png&width=1200",
+          "width": 968,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomcoughlin/2023/09/06/emerging-non-volatile-memories-enable-iot-and-ai-growth/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2023/09/06/emerging-non-volatile-memories-enable-iot-and-ai-growth/amp/",
+      "publishedDateTime": "2023-09-06T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-09-06-what-is-the-vulnerability-management-process.md",
+      "title": "What is the vulnerability management process?",
+      "excerpt": "Unpack the steps that make up the vulnerability management lifecycle, and learn how to build an effective vulnerability management program for your organization.\nThe post What is the vulnerability management process? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/what-is-the-vulnerability-management-process/",
+      "originalUrl": "https://www.ibm.com/blog/what-is-the-vulnerability-management-process/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/09/GettyImages-1489414966.jpg",
+          "width": 2400,
+          "height": 1266,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-06T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-06-tennis-football-and-ibm-watsonx.md",
       "title": "Tennis, football, and IBM watsonx",
       "excerpt": "The process of introducing new features to the US Open digital experience has never been smoother than it was this year, thanks to watsonx.\nThe post Tennis, football, and IBM watsonx appeared first on IBM Blog.\n",
@@ -334,50 +437,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-how-ai-and-machine-learning-are-actively-contributing-to-workplace-security.md",
-      "title": "How AI and machine learning are actively contributing to workplace security",
-      "excerpt": "These are just a few examples of how AI and Machine Learning are actively contributing to workplace security. By automating and enhancing traditional security measures, these technologies are helping to create safer and more secure work environments. In the next section, we'll delve into a specific case study: employee badging systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.jpost.com/special-content/how-ai-and-machine-learning-are-actively-contributing-to-workplace-security-756007",
-      "originalUrl": "https://www.jpost.com/special-content/how-ai-and-machine-learning-are-actively-contributing-to-workplace-security-756007",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/549546",
-          "width": 690,
-          "height": 407,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-06T03:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jerusalem Post Blogs",
-        "domain": "jpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security"
       ]
     },
     {
@@ -896,40 +955,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-advancing-ai-in-various-industries-like-healthcare-energy-and-climate.md",
-      "title": "Advancing AI in Various Industries Like Healthcare, Energy and Climate",
-      "excerpt": "Andrew Feldman, Co-Founder and CEO of Cerebras, joins Jill Malandrino on Nasdaq TradeTalks to discuss advancing artificial intelligence (AI) in various industries like healthcare, energy, climate, and more. Sign up for our newsletter to get the latest on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/videos/advancing-ai-in-various-industries-like-healthcare-energy-and-climate",
-      "originalUrl": "https://www.nasdaq.com/videos/advancing-ai-in-various-industries-like-healthcare-energy-and-climate",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-05T14:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },

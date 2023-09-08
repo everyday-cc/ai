@@ -35,22 +35,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "How Enterprises Can Keep Generative AI Innovation Customer-Focused"
-    excerpt: "By keeping customers front and center while you innovate with generative AI, you’ll be better able to take full advantage of its benefits."
-    publishedDateTime: 2023-09-06T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/06/how-enterprises-can-keep-generative-ai-innovation-customer-focused/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/06/how-enterprises-can-keep-generative-ai-innovation-customer-focused/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/06/how-enterprises-can-keep-generative-ai-innovation-customer-focused/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64f741fe7e46d114422b0cae/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "The Amazing Ways Coca-Cola Uses Generative AI In Art And Advertising"
     excerpt: "Discover how Coca-Cola is revolutionizing the worlds of art and advertising with generative AI, blending human creativity with machine intelligence for stunning campaigns"
     publishedDateTime: 2023-09-08T05:20:00Z

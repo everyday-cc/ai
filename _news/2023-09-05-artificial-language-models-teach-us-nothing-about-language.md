@@ -44,6 +44,15 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "Ant Unveils AI Language Model for Wealth Management, Insurance"
+    excerpt: "Ant Group Co. unveiled an artificial intelligence tool to use for wealth management and insurance services, joining the race for next-generation AI."
+    publishedDateTime: 2023-09-08T08:06:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-09-08/ant-unveils-ai-language-model-for-wealth-management-insurance"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 49
 
 secured: "/WaAj/llRFDVGfzZA/aAYjLD+ZSAqBacUnGtJlZ/3B2BkC2QBlybjBueYa1VlalCmOTt28KG+knmCkNd/T59S6yw3DNOWTZLpmFNR+2N2CPutBTTPfsrEwSUqjE2r0b/nVCYggZRTQow1pbNvwlKG3VdXcrxXwKePh7QIeoXH2dqy3xdwi9AYhHUmWSqThFvtQBEpWJ1MdOEd66+61HZFuY4IuDhhhdlrVx5AYO129puX/G1HxiykB3/v1RigTduvtRUssuqUGdHyD+QnX3IkMYu9fogSicC/boYKQiaP6DNoPYGijniEfuOkf8Kk+kLp7eeCQaNO4jb+UYfWLLiln+Ka/Y5mrf0pBfTKwXhsaMm73UHIPW89UqoL/E4MDh5g7AsaFy7UDmiXy+38xj6bNFQu2va/yeY+mQvNLw/ySTINtsTPZUBUIXCeXZLuyV+v7T9WZ3Zd0QU4VraOJY47XYhy8QcWvj44MWu+8oyRQK3d/lgmv1rBo/DyY2X3O1hy7Da4nUxTOtUtXy3FL68nA==;uZqga5AmU6+/5+jb0YJ6hg=="
 ---

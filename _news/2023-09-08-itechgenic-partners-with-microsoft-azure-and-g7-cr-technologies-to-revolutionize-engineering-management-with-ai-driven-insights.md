@@ -2,29 +2,21 @@
 category: news
 title: "iTechGenic Partners with Microsoft Azure and G7 CR Technologies to Revolutionize Engineering Management with AI-Driven Insights"
 excerpt: "India], September 8: iTechGenic, a pioneering AI-based engineering intelligence platform, has joined forces with Microsoft Azure and G7 CR Technologies- A Noventiq Company as a part of their STAB program for ISVs."
-publishedDateTime: 2023-09-08T06:43:00Z
-originalUrl: "https://theprint.in/ani-press-releases/itechgenic-partners-with-microsoft-azure-and-g7-cr-technologies-to-revolutionize-engineering-management-with-ai-driven-insights/1751834/"
-webUrl: "https://theprint.in/ani-press-releases/itechgenic-partners-with-microsoft-azure-and-g7-cr-technologies-to-revolutionize-engineering-management-with-ai-driven-insights/1751834/"
-ampWebUrl: "https://theprint.in/ani-press-releases/itechgenic-partners-with-microsoft-azure-and-g7-cr-technologies-to-revolutionize-engineering-management-with-ai-driven-insights/1751834/?amp"
-cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/itechgenic-partners-with-microsoft-azure-and-g7-cr-technologies-to-revolutionize-engineering-management-with-ai-driven-insights/1751834/?amp"
+publishedDateTime: 2023-09-08T08:44:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/Business/20230908/4116878.html"
+webUrl: "https://news.webindia123.com/news/Articles/Business/20230908/4116878.html"
 type: article
-quality: 61
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: ThePrint
-  domain: theprint.in
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://static.theprint.in/wp-content/uploads/2023/09/ANI-20230908062803.jpg"
-    width: 600
-    height: 450
-    isCached: true
 
 related:
   - title: "iTechGenic teams up with Microsoft Azure, G7 CR for AI-enhanced Engineering management"
@@ -60,6 +52,6 @@ related:
         height: 800
         isCached: true
 
-secured: "PrMKOqMxEVJYjpRWPWrTSg9KacYL/hdvQRyT7RbB4MMXimW6RRzot050f+NGfFfge6LJALADbK7VBM7FEEHlPNQ0AN8/ciB4YbC695fYfltCe+AbRzQz4CfI1k/x7iAwECBcjzic/nCXDR6hym6ZsKCX56x8H9ehCuobOBiCgwrkkGbxoJeU6ndrREHjsQIlhoRLv6BDgDxeUYIsIITqCqU+Kx8SbFoAozeuvS3SMJmbU+2LC9PSjLUu67g+HLoAByYU/JBSPk6QtaWs+58ec1V3wxU6WU3Amc+lnTMLR02TZcqEj6Uiy2lxK4qh4iQrGS4G8psFd9FOQMo5VISKw853HPZUbI9fwY3B+KRChes=;5wGjMvHBEZD3PnRkDMmCNQ=="
+secured: "ZZfw3P5RmfCP8z/pKLRcBvn0bO8soZW16iZTRV/ficJhaLpSCsgxMGX/gNFANA6k/aMvl5gaql6l4WbV5EbiF8PZYsWHNSXUx6RzloaRv96X4SbbmqMMU+hmHDw5HCWqxRLcC0u02fzifH94Xjzw1jQXiAeMabuNozOMYncpoP0IYXMP7XSMvtTxbeFr1EzOFYLc/15/I0Y6B+94GbSDT/wUlUz9Cd1+/7GIodw5mMfhS5kFIion7CFh7eQb+ztpowMOrB/UdSLz33ZhGM+HkZVMPnCNVbRUTZNjLPUTL/jCmkWy1MhmdVFGNfxQo+xs6HrfAAlqZOFpFq48bnOxI2xXB7JFVXLjgQRVkDBepXs=;+IwFgreuivQv77JeAAb8Sw=="
 ---
 

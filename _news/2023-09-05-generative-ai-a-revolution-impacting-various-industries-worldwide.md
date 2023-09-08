@@ -25,15 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "Advancing AI in Various Industries Like Healthcare, Energy and Climate"
-    excerpt: "Andrew Feldman, Co-Founder and CEO of Cerebras, joins Jill Malandrino on Nasdaq TradeTalks to discuss advancing artificial intelligence (AI) in various industries like healthcare, energy, climate, and more. Sign up for our newsletter to get the latest on ..."
-    publishedDateTime: 2023-09-05T21:16:00Z
-    webUrl: "https://www.nasdaq.com/videos/advancing-ai-in-various-industries-like-healthcare-energy-and-climate"
+  - title: "Generative AI: Meet your partner in customer service"
+    excerpt: "Identify specific problems that AI can help solve so you can begin to realize its limits, challenges, and undeniable advantages.\nThe post Generative AI: Meet your partner in customer service appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-09-08T09:00:00Z
+    webUrl: "https://www.ibm.com/blog/generative-ai-meet-your-partner-in-customer-service/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
+      name: IBM
+      domain: ibm.com
+    quality: 119
+    images:
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/09/Generative-AI-Meet-your-partner-in-customer-service.jpg"
+        width: 2400
+        height: 1260
+        isCached: true
+  - title: "How Enterprises Can Keep Generative AI Innovation Customer-Focused"
+    excerpt: "By keeping customers front and center while you innovate with generative AI, you’ll be better able to take full advantage of its benefits."
+    publishedDateTime: 2023-09-06T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/06/how-enterprises-can-keep-generative-ai-innovation-customer-focused/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/06/how-enterprises-can-keep-generative-ai-innovation-customer-focused/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/06/how-enterprises-can-keep-generative-ai-innovation-customer-focused/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64f741fe7e46d114422b0cae/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "i+0HVC8ntSL+eXEY3ijLiOc/xTY1cjauqBR4dcIE16/4AbrTmZBY71ZYItQgXiSqzngAuUAD1QraVkvAT6vkcrb4y2vciCbrBnKkOvTIDK6OeIUTXblEWnWpNoGZSlOAYjM++xqaie6TT0e61+63HzvwxU4V44ew87hkYXUkmT+gdyu2ylvsRTblQrFULb8pUEza6bvGNEneKYFtyTTKR5172AziXUE3IeFYRoEyd91r/Fc1UCIXsJ4n9NpBCqLNGh0gFPus2wQjTOx1heThugmz5VhcIOjoW6mwVvqcyIQRyrDzFjs0eQMS25qwvJw7mOZaxwD0prcFQzSwNDhNK7k3l8HfftfOs94HHt1sAe86kc7g5UEi9LpTW2P/QKLk6n8wuJZS7J5UuT81C232XEtGrVC2txTFwug+QiFE7C8GuBDIWfgY8aGkpwfzVTVp/BexPdKtPLHbe8DaiejHdRGCd5uWRecv5VBlDjHTH9EW8AkKNWd1uSS++3UihvOByPVB5+tBNp8oyPvX5GjZyA==;NCz9eBQzJvN2xhE5/p0eTg=="
 ---

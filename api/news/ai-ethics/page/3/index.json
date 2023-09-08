@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-08-01-on-ai-foibles-and-need-to-study-its-ethics.md",
+      "title": "On AI foibles and need to study its ethics",
+      "excerpt": "Do you think there is still room for an AI ethics discussion when there is an explosive AI arms race in this industry? I think there must be. How do you convince them to sit down and discuss AI ethics? There’s two things that I say. One is, you say hey ...",
+      "sourceUrl": null,
+      "webUrl": "https://wbj.pl/on-ai-foibles-and-need-to-study-its-ethics/post/139086",
+      "originalUrl": "https://wbj.pl/on-ai-foibles-and-need-to-study-its-ethics/post/139086",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wbj.pl/uploads/images/6m/64c8d51a5401a.jpg",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-01T05:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Warsaw Business Journal",
+        "domain": "wbj.pl",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-30-entertainment-companies-hiring-ai-specialists-amid-hollywood-strike.md",
       "title": "Entertainment companies hiring AI specialists amid Hollywood strike",
       "excerpt": "Actors have expressed fears about AI being used to replicate an actor’s image and likeness without the actor’s consent, while writers have pushed for limits on the use of AI to write or rewrite scripts.",

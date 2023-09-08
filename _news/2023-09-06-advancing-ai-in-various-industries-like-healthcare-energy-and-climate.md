@@ -7,8 +7,8 @@ originalUrl: "https://www.nasdaq.com/videos/advancing-ai-in-various-industries-l
 webUrl: "https://www.nasdaq.com/videos/advancing-ai-in-various-industries-like-healthcare-energy-and-climate"
 type: article
 quality: 64
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Nasdaq
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI in Healthcare
   - AI
-
-related:
-  - title: "Generative AI: A Revolution Impacting Various Industries Worldwide"
-    excerpt: "The rapid ascent of generative artificial intelligence (AI) is poised to bring significant changes across various industries. This cutting-edge technology, powered by large language models (LLMs), can redefine business operations."
-    publishedDateTime: 2023-09-05T04:13:00Z
-    webUrl: "https://www.cryptopolitan.com/generative-ai-impacting-industries-globally/"
-    type: article
-    provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
-    quality: 39
-    images:
-      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/09/photo_6030615150442167391_y.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
 
 secured: "TIEAf7lxd4Hwkkp6/HXh3/eJ3BGYRfJhmQw/N/iyo7Kopjv4Kl4zjh7asFA7smHUDPlE3z2AJ9r63kkhibHoHgLLtUYLGxHsFaYNIdX8PWvXJg2m8dJhxfvMpvE0uZgSXiQUQV/NjbJoVErG+0TAbdLENz/BRQKtPKaQCyh86hqdT5fJzTTUl2+wbC5Acby1xBArLUEoRww6Ers9g+ch1OQ4ORtE4A+CzaryGIbF/tE6xnKe1kqzJ9B/57Vk3xht+xADZ9eun+tkGG5hSE1k/5W2Iwbm84NpNlvTE6Novh+rSjp8UeHJCsCV7/bfV7nJJQW5PIehhnR4MVXszBnYSf8CKFYxJlwNAwRQNzVck8M=;eR1bHPK+O4f9n+ydAGaDsQ=="
 ---

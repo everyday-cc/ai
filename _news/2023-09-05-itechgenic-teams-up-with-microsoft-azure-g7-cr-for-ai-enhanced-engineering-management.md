@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "iTechGenic Partners with Microsoft Azure and G7 CR Technologies to Revolutionize Engineering Management with AI-Driven Insights"
-    excerpt: "India], September 8: iTechGenic, a pioneering AI-based engineering intelligence platform, has joined forces with Microsoft Azure and G7 CR Technologies- A Noventiq Company as a part of their STAB program for ISVs."
-    publishedDateTime: 2023-09-08T06:43:00Z
-    webUrl: "https://theprint.in/ani-press-releases/itechgenic-partners-with-microsoft-azure-and-g7-cr-technologies-to-revolutionize-engineering-management-with-ai-driven-insights/1751834/"
-    ampWebUrl: "https://theprint.in/ani-press-releases/itechgenic-partners-with-microsoft-azure-and-g7-cr-technologies-to-revolutionize-engineering-management-with-ai-driven-insights/1751834/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/itechgenic-partners-with-microsoft-azure-and-g7-cr-technologies-to-revolutionize-engineering-management-with-ai-driven-insights/1751834/?amp"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 61
-    images:
-      - url: "https://static.theprint.in/wp-content/uploads/2023/09/ANI-20230908062803.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "World's Largest Image-Based AI Model For Identifying Cancer: Microsoft Teams Up With Paige To Build One"
     excerpt: "Microsoft Corp MSFT +0.27% + Free Alerts has announced a collaboration with digital pathology provider Paige to develop the world's largest image-based artificial intelligence model for cancer detection."
     publishedDateTime: 2023-09-07T17:21:00Z
@@ -59,6 +43,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "iTechGenic Partners with Microsoft Azure and G7 CR Technologies to Revolutionize Engineering Management with AI-Driven Insights"
+    excerpt: "India], September 8: iTechGenic, a pioneering AI-based engineering intelligence platform, has joined forces with Microsoft Azure and G7 CR Technologies- A Noventiq Company as a part of their STAB program for ISVs."
+    publishedDateTime: 2023-09-08T08:44:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20230908/4116878.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 21
 
 secured: "QJoHz4DdmriD3SCr85GCZqd8FUW4rOLw8gv02jzb58Ob+ok0mgNlEUucTVqSCbpOHUz9hLwfHYx2Xy6Gxl8MvtQrgKk4P7kAKAlo6CZ3kWM8TmFndpfhu8wGuKFmG1zlf3wEXNCzZ1UlYZozNPCgnSKbucC5MKNBGwK5u1mMjru7RG+ZN5XA2x13Idd0b1sVnGoUvFZ/XUkLU+chXipMRwHlPM4Qt1v4SzIR44I4fSzxNlHgAVD0tAyk/fX+PdCqKV47URiRn9+RikIwArI0ZYO48GudjHl0elD5JwYY0EnbgvmLt2KTYG3hlNEAmI2RS1J8qG7CEwwZqpsbHW0P6uinlAlxcSQevjID0rT76RtIkkwoHYYhuXxxM+rafcUqcRqCZappXrWpIGzNAQdbtLXlqlYyHLGuxUuemLProDk8GX6ucOQwDL+YxKNfepXyEqGgH0h0iTWxphdAVL0xFi/YmwN4jgJYzYj0uNoaDQzscTBL5PWMw5boYvPDGI9IMdBordnb1b+TvtaibWmSPw==;2T64e3+kzG1MJb0YC6YYKA=="
 ---

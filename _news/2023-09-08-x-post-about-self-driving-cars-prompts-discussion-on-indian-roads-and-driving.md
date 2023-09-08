@@ -43,6 +43,22 @@ related:
         width: 1280
         height: 800
         isCached: true
+  - title: "Self-driving car revolution is coming, but slowly"
+    excerpt: "Pandemic-related disruptions to the car industry, a shift towards investing in electrification and the sheer complexity of the technology have all contributed to keeping the autonomous-driving revolution stuck in the slow lane. Now, \"we're more inclined to say it will happen by 2030,\" Aufrere told AFP."
+    publishedDateTime: 2023-09-08T09:00:00Z
+    webUrl: "https://www.theeastafrican.co.ke/tea/science-health/self-driving-car-revolution-is-coming-but-slowly-4362258"
+    ampWebUrl: "https://www.theeastafrican.co.ke/tea/science-health/self-driving-car-revolution-is-coming-but-slowly-4362258?view=htmlamp"
+    cdnAmpWebUrl: "https://www-theeastafrican-co-ke.cdn.ampproject.org/c/s/www.theeastafrican.co.ke/tea/science-health/self-driving-car-revolution-is-coming-but-slowly-4362258?view=htmlamp"
+    type: article
+    provider:
+      name: The EastAfrican
+      domain: theeastafrican.co.ke
+    quality: 44
+    images:
+      - url: "https://www.theeastafrican.co.ke/resource/blob/4362272/93c4c276d2a5b72180c6a801c040f6ee/iaa-data.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Self-driving delivery trucks could be sharing the roads with drivers very soon"
     excerpt: "The day is coming when that 18-wheeler rolling down the highway won’t have a driver behind the wheel, it’ll be running autonomously and that frightens some."
     publishedDateTime: 2023-09-05T16:24:00Z
@@ -108,6 +124,6 @@ related:
       domain: barrons.com
     quality: 4
 
-secured: "YAqM5I2DYb9zHoHL0EfVXJbd2RPjbkYagOUN/PiPtCs7laJuMIQLdM5Z7kAY1gihSkp1DAdkixfIQTyNuVftFE1uS3m+j9arXtyMDaOyVcvNyqZtA3fZB3CpXKRiDFso8S0gj37lmy4zqrlqfx6nYY77LRlUr+ul6jDMBrW71rlu2Vq9yU2tcdAsKp2JPZXC0UGNeeu6250/hGgSxKM4itTs3bw2EVNuGXYcdMBYLf4WgUk0d6V+pt4is0khecifzqD5JYdb046h99L9zkq2TzFQ8IRVnn0QjxNfeEnGff0UBtJFLuWR57prj97LfMd0VT+mXZJ3vBm+ePCkFnt9CM27C6f/21sDBNtSwJOIknU=;Mybyo51MZSpoWD/X7iZ6hg=="
+secured: "3aa58bd9PfZuLbY90hidPswqYyJqGPCnF4xqqmE9jr26HYydrPlH+NbrQVidWGkteyxreXe3/E5OsgDpQ7wKyIe8xabK5xbBzNUVrHLCBbXqUND4QIWGztLB58KO7QVu4lDo6f42qNgkO14e0VtSjud6a8ueICDO34WAxTqwPf9EQ7Ib52ZZflGKJz27wOLbwBz3B6hkhItvshZ9NVsaIWIbaY5Yf5BvhrbU6f01p/0Fw//ElQNevXyA5TEghvL1wdoFZ1d/qEaAwzuY14O/06z/YIZoi5uK9Lvg6AjFiKbUV1xE1RawusOm0lHVSIZOdx/M/wc/bSf+vDI6ku9T1MyaHWSPdoXTUGrogFPCq7wdYKUWSVuaHxxk3MGL7dXaYmELWLQL6VQfG1HCfvuCfkLV7BxrgDvoSOY0KaNwJOjlgJn7kF8uLuYn5lgDAzpsfannD83FeZGpOspRv3t2D5yd68OqJMyfqux8fOgc12x8+9Zwr2Ey7AghonjAQPntWQ9vUwT2zTEG/Q9s0zQ/3w==;4t33lIaoSHTwjpyRUw0Hsg=="
 ---
 

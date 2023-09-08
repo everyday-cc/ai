@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-08-04-self-driving-taxi-service-coming-to-texas-with-driverless-cars.md",
+      "title": "Self-driving taxi service coming to Texas with driverless cars",
+      "excerpt": "Have you ever wanted to hop in a driverless car? Waymo, a self-driving taxi company, has announced its expansion to Texas bringing its fleet of autonomous vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox26houston.com/news/self-driving-taxi-service-coming-to-texas-with-driverless-cars",
+      "originalUrl": "https://www.fox26houston.com/news/self-driving-taxi-service-coming-to-texas-with-driverless-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2023/08/932/470/waymo.jpg?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox26houston.com/news/self-driving-taxi-service-coming-to-texas-with-driverless-cars.amp",
+      "cdnAmpWebUrl": "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/news/self-driving-taxi-service-coming-to-texas-with-driverless-cars.amp",
+      "publishedDateTime": "2023-08-03T19:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KRIV",
+        "domain": "fox26houston.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-04-lazr-stock-alert-luminars-ai-push-will-revolutionize-self-driving-cars.md",
       "title": "LAZR Stock Alert: Luminar’s AI Push Will Revolutionize Self-Driving Cars",
       "excerpt": "Fennimore told InvestorPlace that his company is in a unique position to make self-driving cars a part of everyday reality. The key is artificial intelligence. Luminar’s history with AI is long.",
@@ -1347,58 +1390,6 @@
         "AI in Healthcare",
         "Microsoft AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-bmw-is-going-to-sell-a-real-self-driving-car-and-we-tried-it-out.md",
-      "title": "BMW Is Going To Sell A Real Self-Driving Car, And We Tried It Out",
-      "excerpt": "BMW's new Level 3 system is actually headed to production. Reset your expectations for what it's capable of, though.",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/1349270/bmw-real-self-driving-car-test-level-3-highway-autonomy/",
-      "originalUrl": "https://www.slashgear.com/1349270/bmw-real-self-driving-car-test-level-3-highway-autonomy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.slashgear.com/img/gallery/samsung-galaxy-z-fold-5-and-galaxy-z-flip-5-hands-on-forced-evolution/intro-1690337360.jpg",
-          "width": 780,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

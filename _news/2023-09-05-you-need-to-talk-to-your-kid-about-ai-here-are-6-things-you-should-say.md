@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Five Things: Responsible artificial intelligence and the future of business"
-    excerpt: "She recently spoke at the Business Ethics Allia nce luncheon in Omaha about artificial intelligence and the future of business. Here are a few key takeaways from the event. We’ll share event highlights, founder profiles and feature stories digging into ..."
-    publishedDateTime: 2023-09-06T17:53:00Z
-    webUrl: "https://siliconprairienews.com/2023/09/responsible-artificial-intelligence/"
-    type: article
-    provider:
-      name: Silicon Prairie News
-      domain: siliconprairienews.com
-    quality: 37
-    images:
-      - url: "https://siliconprairienews.com/wp-content/uploads/2023/08/IMG_7969-scaled-e1694021646173.jpg"
-        width: 2560
-        height: 1642
-        isCached: true
   - title: "How worried should we be about AI’s threat to the human race?"
     excerpt: "Artificial-intelligence pioneers are fighting over which of the technology’s dangers is the scariest. One camp, which includes some of the top executives building advanced AI systems, argues its creations could lead to catastrophe."
     publishedDateTime: 2023-09-05T17:50:00Z

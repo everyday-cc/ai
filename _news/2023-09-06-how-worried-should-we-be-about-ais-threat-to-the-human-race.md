@@ -65,20 +65,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "Five Things: Responsible artificial intelligence and the future of business"
-    excerpt: "She recently spoke at the Business Ethics Allia nce luncheon in Omaha about artificial intelligence and the future of business. Here are a few key takeaways from the event. We’ll share event highlights, founder profiles and feature stories digging into ..."
-    publishedDateTime: 2023-09-06T17:53:00Z
-    webUrl: "https://siliconprairienews.com/2023/09/responsible-artificial-intelligence/"
-    type: article
-    provider:
-      name: Silicon Prairie News
-      domain: siliconprairienews.com
-    quality: 37
-    images:
-      - url: "https://siliconprairienews.com/wp-content/uploads/2023/08/IMG_7969-scaled-e1694021646173.jpg"
-        width: 2560
-        height: 1642
-        isCached: true
 
 secured: "sK8pvIhoOOcRgNQVvlbdzh8oo0/j4hxkubDE5sKd1ImFITCAaaZtS2VVAK4m7grK71ZacDfqAqUdcl0shan7+nkZHxvo8GUxWZyNGti6nVQdh+IdWlF8v8t+gzfm9WSu/TbGOnLR68UH2dIpYQ8RbEMu93lbRLpghdBNaeBjWc2R8FbdnfBRw4oJ+5xZ1YgH2vuNg3IG3DmdGgOm17r7yQBzEEFuJztWJUeYAhDEQECKYpyKk80isKouxJ+1fz6Ut0OzE/b4RF3OmyuCcydIfrVgYciKc5rgZt8dCYp1lNGuiMAq7vEpF5TeA0cA5LuIQY586xNyBqTL1UatVFJyDLhCraWmQZcjKZ8HIyNoQ5vkQuWJqNmUMCyr2Mr0kEClhkADQl3RacIsPf9xos1br3a1sbxsmNo6pkDHDvQSyOPIL4d9pdSkVTAfilOHAQZmc6QXTXQPXP4+1DPcnD76FO453yAzm+45C2K41gq8iWBGV18QTRSCS3wgu1aSj2iVOuDzEqNVRW71lKd6lq948w==;CkMfazZYRqZGNtm74E/tJw=="
 ---
