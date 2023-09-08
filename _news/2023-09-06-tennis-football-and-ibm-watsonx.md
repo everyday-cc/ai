@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/tennis-football-and-ibm-watsonx/"
 webUrl: "https://www.ibm.com/blog/tennis-football-and-ibm-watsonx/"
 type: article
 quality: 97
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -36,6 +36,15 @@ related:
         width: 300
         height: 235
         isCached: true
+  - title: "IBM Watsonx open source Codeflare explained"
+    excerpt: "IBM has recently announced the launch of Watsonx, its latest AI platform offering a unique blend of AI and data platform that is specifically built for businesses. It comes with a set of AI assistants that are designed to help businesses scale and ..."
+    publishedDateTime: 2023-09-08T12:53:00Z
+    webUrl: "https://www.geeky-gadgets.com/ibm-watsonx/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 34
 
 secured: "pfiyB4GNBA+BXw+CyNSN+yjF1JfxpLmnS/W16K+WbFJuMiGIUr4T9tQWPB3cxw5B5R41wQQDZuDc+kDXD3GYkhf2ExpDlGZdG4wDRRyqUkjyUjPKDbem/wjLFpUWMSqvslewmzOVzDK39UvWvWi5MHFFc0ovb4D1UKMl/VyndkMP1fmA+F8SB0+bmzYm4nMgGyU6UEG8LpMT3S+FYMQrbkDw3H9GYrEkKn8IBbciKIg//G/nG4mdn7aRnMPh7jl455MqMYkM2BY1Sj+2E/gEUggvP2pmGSnwzCRkk2IE1bec0jsMsrhioB+JY0mc2QcR3Zp78uw+UhkilfS429H9lRVKiZBkCXdNMFwXiEMlI4w=;ECOohYv84Xiv0YszUyUKgA=="
 ---

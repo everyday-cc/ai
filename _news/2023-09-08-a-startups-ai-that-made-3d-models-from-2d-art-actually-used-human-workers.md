@@ -7,8 +7,8 @@ originalUrl: "https://www.techspot.com/news/100076-startup-ai-made-3d-models-2d-
 webUrl: "https://www.techspot.com/news/100076-startup-ai-made-3d-models-2d-art-actually.html"
 type: article
 quality: 65
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: TechSpot
@@ -26,6 +26,22 @@ images:
     width: 1919
     height: 1885
     isCached: true
+
+related:
+  - title: "This AI startup that \"generated\" 3D models from 2D art was actually using human workers"
+    excerpt: "According to a lengthy report from 404 Media, AI startup Kaedim's 2D-to-3D generative tools lean more heavily on human labor than initially disclosed. In at least"
+    publishedDateTime: 2023-09-07T21:27:00Z
+    webUrl: "https://www.techspot.com/news/100076-startup-ai-made-3d-models-2d-art-actually.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 59
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2022/09/2022-09-13-image-20.jpg"
+        width: 1919
+        height: 1885
+        isCached: true
 
 secured: "G4I8SrSpDU5E3KvMJ3mcVEReLiKFtpX1DqrUNGKe83NwwZGa8vdTxpxoUe4cWuK6XdgbVi+aHF6Tqh+7GmgwOnSKfqUDyX60l1HjoSwWt3cbyVwJEOwST+3rrlxceqJto6LugPLkIjZg5jR+ir4S+3anfM9+Ov/6lsNRkc6vbG49RbfnD7nJKvhGMYB4NaffGah7diKgVOHwM8chbowF1CRNnlAFCrCNhu3iKWZ7wOIdYzWdaCZoDGI+UDZ3vLHz+9hhQxl7YakOHJKQoJfP/FFQriK9iFab2gIGJZxPEZpkkvZipjVuG224Zn1XYkLGtXE8RgwiECZkwmDLvG/tGcj4RdNGV3DYYVxn7vE5hvMP2Gl0FHNjTljoUVpsiIHenLU6N70M8oMv+3iefSCKGtjOO0pW0aZPlahpKFId9JnDeVtTxz/BjtZTQJd+18BcXz1TpxN+6vfcHiN94etVdHAuCm6rSooMEnj+BF1hvtqAyQJpdUdrmTXimtkJ73ROWW8/OLswJlrVMqxCWtJ1Cg==;qqQ80XXyG8zisngfuwzSsA=="
 ---

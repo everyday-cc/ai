@@ -77,20 +77,6 @@ related:
         width: 770
         height: 435
         isCached: true
-  - title: "State Legislatures Eye AI Regulation"
-    excerpt: "A growing number of states have enacted laws this year to study artificial intelligence (AI), ahead of possible legislative action to address expected threats to jobs, civil liberties, and property ri"
-    publishedDateTime: 2023-09-07T21:57:00Z
-    webUrl: "https://www.natlawreview.com/article/state-legislatures-eye-ai-regulation"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 39
-    images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/55596/AI%20Law%20gavel%20SMALL_0.jpg?itok=kp0Z5h9K"
-        width: 500
-        height: 500
-        isCached: true
 
 secured: "iRj6EygrHynYv5l8DZTcQEhgsZ8tFyi0ulNsxErCMJ+y923KFsGxVUYnAP+BOUsHimUGakDC1iVtfdj6L2OoxnN1eyO4dNq8MeczzC6HX1yP9/l8LC/m46/Vc+Cp7JgxT8dd6ixp7g8IFjUHojU5vxlQOVxYYZBNSUg69lXlXkjDyJ41qizBBXg8+UszTMVM2oFV3uCjlZ9/UWx51aUKbn6+az1wIxAaDL6F+s3d/ZNMwVCivNWpG3Rvdt6nQBYGO+MQmVc2O2pef/3E0kdZH6pKpKc0y0qZdxFRrqcFizCL90lPrflxS+4n0KLLOl0NvveLER+LEP+pAm6GwL47easws/aLfvEJHnI4eM0za11bAeDXRnIzmMwptfTfQYCfA3ONK7Xa2JbBUz+9YiVbzgkZgOd6dbH1iXBOkDU7XK/JL40scSqgtNuNBgUplT5uzd7fEX9MXtlvMUePVquQQ0QoafOtdroD6nRIl9Vs0HCia1XjoLKphyvBacVdADXmwMX//I9JoSi3v8vtXL76DA==;1XlR1VkPJO3v2ml5ESkgEg=="
 ---

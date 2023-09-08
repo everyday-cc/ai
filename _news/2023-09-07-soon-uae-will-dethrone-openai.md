@@ -33,6 +33,20 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "Why the latest $1 billion AI startup doesn’t want to beat OpenAI"
+    excerpt: "Focusing on explainable AI agents, the vision is that reasoned, trustworthy AI tools will unlock vast potential when widely accessible."
+    publishedDateTime: 2023-09-08T15:17:00Z
+    webUrl: "https://venturebeat.com/ai/why-the-latest-1-billion-ai-startup-doesnt-want-to-beat-openai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_line_art_vector_line_flat_illustration_minimal_surreal__67423beb-041c-40ed-aaf5-4306fbe95146.png?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
 
 secured: "hKxRiVhynw86ySZ67e+eVU57z9OcSkC3PMjOqLxdBGpiOGJ8+61xkgsVjxqmtKsm0bJLr9a61zWhn6jO1b9SsuE3axEufq1CRhUafPN7vl4ykQc3aHtDX5VlmeqLjIkdMQ19h92LhNZ/OtCM9DZfDYg91Oxy19vgbzUDBgYA6DqJfqdn98xJLMlVWg0hAjnTQNYOVkpA4Nbjrsk94K9eSE6B9kblvL2Qc+q7hyVGi1fgG1BpZhBnVabAWW+YaKxIE+MmqPMiKGD7pPKgFcmnl8RQKOZaSPh5bjbdQShKK1tXCDPySkGCLS0DlnyPBIN78kFYu7UqQv/xlQRBO5QvMUrmGP8kxuvq5MgISnx3caLJvZ64CmOcaKUEV+rbF5LSjVp1sa20/vnMonkpmOMBFgWNpTv45EMDFcXIB4JqbPE0s1q2EkH7M23boyMjBxsTWgJKdsAa6c3/X3dwLhnKXpAteujaaGDgbYzK6HlAyqpeN2RFBh96lBFi5Fl/INGZp0ncyaBOSccduKKQZOtCOw==;8WENVVT/y96uZtgpthQUog=="
 ---

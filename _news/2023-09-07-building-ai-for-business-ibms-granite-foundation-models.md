@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/building-ai-for-business-ibms-granite-fou
 webUrl: "https://www.ibm.com/blog/building-ai-for-business-ibms-granite-foundation-models/"
 type: article
 quality: 99
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -54,6 +54,22 @@ related:
       - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/09/06/11/shutterstock_editorial_157995017-100945577-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 675
+        isCached: true
+  - title: "How to Hire an Ideal Azure Cloud Engineer for your business?"
+    excerpt: "The annual growth rates of Google Cloud Platform (GCP) and Azure Management Services (AMS) are almost twice as high as those of Amazon Web Services (AWS), according to CB Insight. Microsoft statistics show that 95% of Fortune 500 businesses rely on and utilize Azure Managed Services."
+    publishedDateTime: 2023-09-08T11:15:00Z
+    webUrl: "https://securityboulevard.com/2023/09/how-to-hire-an-ideal-azure-cloud-engineer-for-your-business/"
+    ampWebUrl: "https://securityboulevard.com/2023/09/how-to-hire-an-ideal-azure-cloud-engineer-for-your-business/amp/"
+    cdnAmpWebUrl: "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2023/09/how-to-hire-an-ideal-azure-cloud-engineer-for-your-business/amp/"
+    type: article
+    provider:
+      name: Security Boulevard
+      domain: securityboulevard.com
+    quality: 59
+    images:
+      - url: "https://peoplactive.com/wp-content/uploads/2023/09/main-banner-1.jpg"
+        width: 1920
+        height: 671
         isCached: true
   - title: "The Potential Of AI As A Catalyst For Business Transformation"
     excerpt: "Artificial intelligence (AI) has rapidly emerged as a disruptive force, influencing humans professionally, socially and culturally. With its ability to process vast amounts of data and make complex decisions, I’ve seen it become a catalyst for transformation across business sectors, from healthcare to transportation."

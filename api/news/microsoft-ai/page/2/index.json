@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-29-microsoft-amazon-go-head-to-head-on-genai-in-the-cloud-heres-wholl-win.md",
+      "title": "Microsoft, Amazon go head-to-head on genAI in the cloud — here’s who’ll win",
+      "excerpt": "Microsoft has a suite of AI cloud tools called Azure AI that allow companies to use their own data for AI and build their own machine-learning tools. Many companies, including the NBA, CarMax, H&R Block, and others, are already doing it. Even though we ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3705550/microsoft-amazon-go-head-to-head-on-genai-in-the-cloud-heres-wholl-win.html",
+      "originalUrl": "https://www.computerworld.com/article/3705550/microsoft-amazon-go-head-to-head-on-genai-in-the-cloud-heres-wholl-win.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/01/rock-em-sock-em-robots_fight_battle_ai_csa-images_getty-100786545-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3705550/microsoft-amazon-go-head-to-head-on-genai-in-the-cloud-heres-wholl-win.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3705550/microsoft-amazon-go-head-to-head-on-genai-in-the-cloud-heres-wholl-win.amp.html",
+      "publishedDateTime": "2023-08-29T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-29-ltimindtree-partners-cast-ai-to-help-businesses-optimise-cloud-investment.md",
       "title": "LTIMindtree partners CAST AI to help businesses optimise cloud investment",
       "excerpt": "The collaboration between LTIMindtree and CAST AI will strengthen the value proposition and help the organisations align their cloud usage strategies and achieve continuous cost savings.",
@@ -1328,58 +1371,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-21-were-adding-to-our-position-in-this-ai-software-leader-on-a-post-earnings-pullback.md",
-      "title": "We're adding to our position in this AI software leader on a post-earnings pullback",
-      "excerpt": "With the stock market still in oversold territory Monday, we remain on the hunt for stocks of high-quality companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/08/21/were-adding-to-our-position-in-this-ai-software-leader.html",
-      "originalUrl": "https://www.cnbc.com/2023/08/21/were-adding-to-our-position-in-this-ai-software-leader.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107279969-1690906498059-gettyimages-1569410256-Omarques_01082023_techPOL_8_of_21.jpeg?v=1692640426&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-21T08:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

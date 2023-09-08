@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "How AI is the disrupting the photography industry"
+    excerpt: "During the last few years, nearly every industry around the world has been disrupted by the growth and trend of artificial intelligence (AI). By David Preston, MD of Canon South Africa The archetypal vision of mechanical robots coming to replace humans at their workstations is not really applicable anymore."
+    publishedDateTime: 2023-09-07T08:55:00Z
+    webUrl: "https://it-online.co.za/2023/09/07/how-ai-is-the-disrupting-the-photography-industry/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 19
   - title: "How valuable is the UK’s AI industry? Here’s one way to not find out"
     excerpt: "Gee willikers, that’s a lot of artificial intelligence. The estimated current value is more than four times the market cap of the whole FTSE 250 index, a commonly cited measure of British domestic industry, and isn’t too far off the £1.9tn market cap of the FTSE 100."
     publishedDateTime: 2023-09-07T19:20:00Z

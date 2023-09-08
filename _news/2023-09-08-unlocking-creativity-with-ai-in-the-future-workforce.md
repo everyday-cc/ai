@@ -127,6 +127,15 @@ related:
         width: 2560
         height: 1642
         isCached: true
+  - title: "The Download: combating covid, and the challenges of governing AI"
+    excerpt: "Deciding how to regulate AI is one of the biggest challenges facing politicians and experts alike. On September 12 we’re holding the second MIT Technology Review Roundtable: a 30-minute conversation with our writers and editors—and this one’s all about governing AI."
+    publishedDateTime: 2023-09-08T12:10:00Z
+    webUrl: "https://www.technologyreview.com/2023/09/08/1079233/the-download-combating-covid-and-the-challenges-of-governing-ai/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 17
 
 secured: "S04pQ5b3mWacye5PCw24p+G8wF8fCw9omUWtpthz94NkP4lPmhwxSGIyuYCRy3hkIGMfjxCkZrm67IcNttPSqzn+CTRBfxuOOrTD9J4l+1ekNK4IJdFrTO56Uv5k1GF84fzT97M7equa4ieEUH83sjO3Ren9X8aDBXHJLNAZpDiZmywZmZ6/XK3lygvmudqpEXOCceNjhdc13c/LsCsw2HY9b0BkXRRTqQ6XzOOJxWlIKqJkCVUV0TenpMtAYFBXzWPfZ5iamZkursqwpSjuuKkyy2shGUmAmA6Q5qqcVOyOIUmqnjcWZP1kFAa+tdFtgnXDmdols2nYH+ADf4PX5ys26fs+d/r08Uxcpbwj/i8GdQmq2FgbJ/HtLfyYU2oDlA7juJzWbmxgrBHlH/SUidD/8NsEDtHqKneRfz4kYgWCi6pxDKq/wsYej9uqmM/WHnDcGfyVEKmx2iz328ay6was7IqtbGEZZu3WAvXmk0CHcQg5BRAm9lKh5dKsLMLIi8Rv/4vEnyR2CujBuZdiZg==;MB8Wxx4RIpU0R/RfERWfKg=="
 ---

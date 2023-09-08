@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/what-openai-really-wants/"
 webUrl: "https://www.wired.com/story/what-openai-really-wants/"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Why the latest $1 billion AI startup doesn’t want to beat OpenAI"
+    excerpt: "Focusing on explainable AI agents, the vision is that reasoned, trustworthy AI tools will unlock vast potential when widely accessible."
+    publishedDateTime: 2023-09-08T15:17:00Z
+    webUrl: "https://venturebeat.com/ai/why-the-latest-1-billion-ai-startup-doesnt-want-to-beat-openai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_line_art_vector_line_flat_illustration_minimal_surreal__67423beb-041c-40ed-aaf5-4306fbe95146.png?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "Soon UAE Will Dethrone OpenAI"
     excerpt: "UAE’s Technological Innovation Institute (TII) yesterday released Falcon 180B, a highly scaled-up version of Falcon 40B."
     publishedDateTime: 2023-09-07T12:20:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.cnet.com/tech/services-and-software/zoom-announces-new
 webUrl: "https://www.cnet.com/tech/services-and-software/zoom-announces-new-ai-companion-features/"
 type: article
 quality: 67
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNET
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Zoom Unveils New AI Companion Features"
+    excerpt: "Zoom AI Companion. Zoom. This week, Zoom announced its new AI Companion, a suite of generative AI (GAI) tools available at no additional cost to paid Zoom subscribers. Zoom’s fi"
+    publishedDateTime: 2023-09-08T15:04:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2023/09/08/zoom-unveils-new-ai-companion-features/"
+    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/09/08/zoom-unveils-new-ai-companion-features/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/09/08/zoom-unveils-new-ai-companion-features/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64fb3648234c67893773b636/0x0.png?format=png&width=1200"
+        width: 480
+        height: 254
+        isCached: true
   - title: "Zoom launches AI Companion to summarize meetings for late attendees"
     excerpt: "It can also answer specific questions about meeting content and automatically generate summaries, identify important information,"
     publishedDateTime: 2023-09-06T16:33:00Z
@@ -65,6 +81,29 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 47
+  - title: "Hiber unveils generative AI for 3D world creation"
+    excerpt: "Hiber announced an upgrade of its 3D world creation tools with the integration of generative AI that makes it a lot easier to build worlds."
+    publishedDateTime: 2023-09-08T13:30:00Z
+    webUrl: "https://venturebeat.com/games/hiber-unveils-generative-ai-for-3d-world-creation/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "State Legislatures Eye AI Regulation"
+    excerpt: "A growing number of states have enacted laws this year to study artificial intelligence (AI), ahead of possible legislative action to address expected threats to jobs, civil liberties, and property ri"
+    publishedDateTime: 2023-09-07T21:57:00Z
+    webUrl: "https://www.natlawreview.com/article/state-legislatures-eye-ai-regulation"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 39
+    images:
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/55596/AI%20Law%20gavel%20SMALL_0.jpg?itok=kp0Z5h9K"
+        width: 500
+        height: 500
+        isCached: true
 
 secured: "Pe4drNblOoPVs0+hLEzniFqdknWiR+OeJ0wty10UPe2mnR4jiGuZ8A+1dYyBBJOiTMV3J8/F84xXSlkJEW+R435lZ/YKoUS0I2zoc+9kG1WE+HvzEu3CjrdlgEBss7aAA2gz/LDzMKfZVO73o6RmLUfhLlhek2v0Orpi67tBwJdJdjM9hRPYIKsKvXVF5Pv5+zk2s8X/uEAvoQA1/IbEnDkFrQSC6u143Lz3N6VJ7jXTTr3YopE3piS82/TaBg/bh9n+WSYEFQQBavqgaJXM5wR69xPps2d3kj8kj5tLcGyDVGasLLR3myPeQtuMigizwnnmPC540IVAuETdf5aUryrSGBQfMV3O5jZFTJOT0sFv+jFY15YVaAHfbSBdPOSEEZH/Tfza0WY8KpHIX3+LCHqszdciH7C+QP6xGumMlL/CHcqkDEBnVE0ryvS4BAVQhKs+d1cyuW/9UQ1xECgHaVOq+QV+jmKfYxA7RPs+D4iqPm9hmHKWjOY3FWaISPohO1WQrvL8+DK2SyNOZCCIMQ==;Xryh0xbIgrksO46QAOMXdw=="
 ---

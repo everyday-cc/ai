@@ -1,23 +1,23 @@
 ---
 category: news
 title: "Policlinico Gemelli and Palantir Technologies Partner to Use AI to Advance Data Science for Healthcare"
-excerpt: "Palantir Technologies Inc. (NYSE: PLTR) (“Palantir”) and Gemelli Generator Real World Data (RWD), a research facility of"
-publishedDateTime: 2023-09-08T11:44:00Z
-originalUrl: "https://www.01net.it/policlinico-gemelli-and-palantir-technologies-partner-to-use-ai-to-advance-data-science-for-healthcare/"
-webUrl: "https://www.01net.it/policlinico-gemelli-and-palantir-technologies-partner-to-use-ai-to-advance-data-science-for-healthcare/"
+excerpt: "Policlinico Gemelli's digital research center, Generator RWD, will utilize Palantir Foundry as one of the key enabling platforms to manage the full scale and complexity of healthcare data. Foundry's AI capabilities will be utilized to generate Real World Evidence in support of clinical and translational research aimed at drug and indication discovery,"
+publishedDateTime: 2023-09-08T12:38:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-policlinico-gemelli-palantir-technologies-partner-use-ai-advance-/2023/09/08/9877557.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-policlinico-gemelli-palantir-technologies-partner-use-ai-advance-/2023/09/08/9877557.htm"
 type: article
 quality: 18
 heat: 18
 published: false
 
 provider:
-  name: 01Net
-  domain: 01net.it
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "xk8outYOwTeXwQakxnE9YVT/rnsJAPPLeYq0tlWjaMQRKsEGN8PWYbx7h8ianxHlangNdHFFVdrk1rOpFqtDXpmXHIFPhaML7XxC9zipz84OpWVbHaPtgcwyIboCc0UKuzU0lybnKxMaFPnKHEExMuLVG7E4Lvrhr0M1QpyjwCk72RCfaFcXdRNEc4ZFa5Y1Mo9WFt33UXDVmrWKsjKuuFI47OWFChHPGhtYXw8X08XrdxSIngFZHIiLkmCzDSGZD89PIZ7wjFYaYOOXoOsK6U5lRwLgL/REQqYG15WKJVyaBdL5esu/BklZ2+BsiQXe7JY+3r2Dvj0tpJzTaLgxYzCU2Kz+b8BtvlmuoXrQL0vyph29ZQkkyCccvzajv16cbF48DtfxMc0VNa9ha47kzbjDUMl62NqcV+qdWBbCKPdL/oJXHsarsime7IqN1zzwepzkKNSyUJkAgRB+zeuPUZwWPp7yvN4WbwwcOwIRIhuIgvpJtMj4WRDSbtqCOuDMwECfTG8ekz2nuY5s1hr2zg==;2AeIYgP5t/f2P3kCnlW9IQ=="
+secured: "ZJQeXvW24TS0x0AB5WVSY5GrJCvAX2BryQgaWofegHuDhQProY+2J6c7tS1rrs5em8e/keWRSWCtwrMVoUifOaIKmVDmRdCmLtt4Etj2QN1EUxS9ZNFLIWNF9RWD3qT645+zhmwLC1COmzupnLRdpq8ykU29+vJnqjrDLuHWny98mWPoaUZrP/tsZ8hS64h7ogKVtlLKGoVFECCdLlWmAbHdIEOgeCN+2yffR6EJDnZo2xZ1A2BSsS4h8WXS2EwHiVS1Mv0CClz5rvS4RtxYb2VYVTQxXjoDyHC7rtt50klJhQOFrAKB12GyLXtNRk6/5twiOQGo9lkY7JE40Sx82rdPLTCB7FvRcBMlSs3jQzk=;WKGaOkkGPw2a2TJPKUhG5A=="
 ---
 

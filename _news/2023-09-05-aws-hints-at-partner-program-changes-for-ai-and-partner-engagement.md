@@ -7,7 +7,7 @@ originalUrl: "https://www.arnnet.com.au/article/708622/aws-hints-at-partner-prog
 webUrl: "https://www.arnnet.com.au/article/708622/aws-hints-at-partner-program-changes-for-ai-and-partner-engagement/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     height: 315
     isCached: true
 
-secured: "rqr35BkyK3xQqGq6C1ZpRlN5ZH7VLTRFNGyK9WKR1JtQcanem7BRZgRJfoQWQ04AgkMbDvCU7xtcQOeaS04l8bsraMJwTPginyVCYl/FLHZ09sHH3SlFKDBWy0qf91Jsk5Nwm2IGyGZPUfIEhAB1rupPSQVbtpJduKArAeM1bgCYtfme+Zs4TuYC9JU3rpy8WSjly+kclXm1PPU425bCxPeLOlrsBtZsa327IYiQhkKykMaXr768wFCBxnzSD8PWieLMWO7I0ZdueijV9MAajH+ykpXarq+F2VaTA3EO8jx36Fp2Sz/ACkOkdguXSuayhbwDT6nQn1/70PPdGiKD1MqkVFPijXVcvf2WRF2QZyU=;d/fcYYSF9LPGJoUA7hD9CQ=="
+related:
+  - title: "AWS hints at partner program changes for AI and partner engagement"
+    excerpt: "AWS is set to shake up its current partner programs, hinting towards possible changes regarding genAI and partner-to-partner engagement."
+    publishedDateTime: 2023-09-05T22:40:00Z
+    webUrl: "https://www.reseller.co.nz/article/708622/aws-hints-partner-program-changes-ai-partner-engagement/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 54
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/promoted_content/promo/aws_dreamstime_12_1.jpg"
+        width: 505
+        height: 315
+        isCached: true
+
+secured: "RRdLkdjAiyo0r2OtvfQIXu1DTIciO58xaOQTQIvaDor3z+c/tAtotsODbT17t1fgYOJJyinF4fxdbat4naSogYcIV2ZrjiUHRZ7yp8CI6KiLO26RxOQvfDH8Ie5hagZ9Oe+R9t9g55XfGGt51DNjVSl7X1aCQU+z6b63BVM2BEjwNCMy1mXJh87SdlbnnriWYTJeuWDh+pkga+HNc0fobf+sIRT3Drs8zpNTvS58PqZF7LZzivZ8cs0/jHYL8VwEUSEhrOcVkHWq3Z4msW048CBtNeE3EqYsy1Vn8H9kxn2ZWaZ6YyliDW0Uf6OiYQJIV5NmRVi4Vq/QKQg0zGMqERyOHz8Z7nOZi6O0xR6ikUMsJE5CcIjUxrwyuxQXvpBovPMV8vu8hgQBW4SVFYwSRQ9WOlzi8xRsUCaPSfjoXx7UN6PVgCvfB2qM+dBrDKgWIZVudUS3Gmf949wGycTUhl5MczkvcSyAWryn3qwY4Scvs1aB2EH/6FSlB7VXpi/+5EWX3ZZl+JN7IpO1yptg7Q==;KvLDDaHhsNA6Zr8SRwMYcA=="
 ---
 

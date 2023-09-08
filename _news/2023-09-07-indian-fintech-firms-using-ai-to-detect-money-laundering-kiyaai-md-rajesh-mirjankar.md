@@ -119,6 +119,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Fintech Outsourcing India: CX, Data Security, and Compliance"
+    excerpt: "India, with its formidable prowess in IT and financial services, has emerged as a leading destination for fintech outsourcing. Leading the charge in bridging global businesses with India’s top fintech service providers is Cynergy BPO."
+    publishedDateTime: 2023-09-08T13:50:00Z
+    webUrl: "https://www.hindustantimes.com/brand-stories/fintech-outsourcing-india-cx-data-security-and-compliance-101694023544371.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 21
   - title: "FINCOVER Bootstraps 7 Crore For Fintech App Development"
     excerpt: "In the ever-changing Fintech landscape, Fintech companies constantly flood the market with cutting-edge tools and apps to be a part of this transformative evolution."
     publishedDateTime: 2023-09-06T15:35:00Z
@@ -136,6 +145,15 @@ related:
     provider:
       name: Mint
       domain: livemint.com
+    quality: 0
+  - title: "BIZCLIK MEDIA LAUNCHES SEPTEMBER EDITIONS OF FINTECH MAGAZINE & INSURTECH DIGITAL"
+    excerpt: "This month's edition features an extensive lead interview with, HSB Canada's Vice President Client Solutions and Innovation, Lasith Lansakara and VP, Head of Information Technology, Michael Scarbeau about the company's journey through almost 150 years of insurance transfomation."
+    publishedDateTime: 2023-09-08T15:27:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/09/08/9877716.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "GCQDc54CoPchp481r7ohVWUkzR2IhuhwROILk4rea4xA1HN3VXfRINJJfF9/s5wHNcCC9ARVUk44nO+I6SoXrVkD+fg4u9mMzsZhnZz0i6yNZChhjoLSNs5dMFOgjJoCWu2ZkJ0lTaLlbuapU31kBzlBiGNiPq1l0QuRH5o/Gk0tp97xnfQsUh+3cCTrZNH9fx3Z8uSnPxKVC8hTH5cm69yPXT7rW3+JNFgb5S8JEZAlXNZtzk4jNvzUBse74oZiRmCuQIHT0q4hsv02xH2yRy3189U394l8ugu5BjokRnEoFT66cpVlf8lRLS6wD1W6Mgx0YD72p7Kn7YuRznEdVxbkRE4HpNx6nWCaqAY6uZw=;ondqqgJMwZ8h0BWccTzHwQ=="

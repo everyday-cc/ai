@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "SUNY chancellor touts UB as national leader in AI"
+    excerpt: "SUNY Chancellor John B. King Jr. joined President Satish K. Tripathi in Capen Hall to kick off the series that features faculty members from a variety of disciplines who are developing ways to use AI for the betterment of society. Approximately 60 audience members from the UB community attended."
+    publishedDateTime: 2023-09-08T12:15:00Z
+    webUrl: "https://www.buffalo.edu/ubnow/stories/2023/09/chancellor-ai-chat.html"
+    type: article
+    provider:
+      name: Medicine Buffalo
+      domain: buffalo.edu
+    quality: 19
   - title: "University at Buffalo Spotlights AI Research for Public Good"
     excerpt: "The university kicked off a series of panel discussions this week about research into how AI tools could be used to solve problems, for example to \"read\" results of MRIs or detect warning signs of an aneurysm."
     publishedDateTime: 2023-09-07T19:56:00Z

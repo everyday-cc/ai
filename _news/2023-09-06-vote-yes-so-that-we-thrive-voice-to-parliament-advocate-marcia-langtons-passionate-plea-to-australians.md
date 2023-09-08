@@ -26,24 +26,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "New poll shows more than half of Australians likely to vote No for the Voice to Parliament, as Labor falls behind Coalition"
-    excerpt: "More than half of Australians will likely vote No to a Voice to Parliament if it were held today, according to a new poll, as the campaign from both sides ramps up this week."
-    publishedDateTime: 2023-09-03T21:14:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/new-poll-shows-more-than-half-of-australians-likely-to-vote-no-for-the-voice-to-parliament-as-labor-falls-behind-coalition/news-story/9b82178b4de45acbfc867623d8f7b63e"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/new-poll-shows-more-than-half-of-australians-likely-to-vote-no-for-the-voice-to-parliament-as-labor-falls-behind-coalition/news-story/9b82178b4de45acbfc867623d8f7b63e?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/new-poll-shows-more-than-half-of-australians-likely-to-vote-no-for-the-voice-to-parliament-as-labor-falls-behind-coalition/news-story/9b82178b4de45acbfc867623d8f7b63e?amp"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 18
-    images:
-      - url: "https://content.api.news/v3/images/bin/a672c8ee501120d5d6d43aa7f10fb508"
-        width: 1280
-        height: 720
-        isCached: true
-
 secured: "HV6heQGlRe3MoAgCg0TyeAeVYzagabGCi1i09uTQkiVrPhDSokUmZNJB9qOwfzRwc6amOFau6JJhMz/t0AJmanhWvg162TPCtEbQ1ZV/sRF503jbIGnugHMJX4S66fU4UdJ2YOZBWjgBIQcChA8r5b1HDNKJiMOL3OVYMN7vGGtGzZIwxn8EPUVTe+dJzY9GC2eg0kTQLQZv9N1b1GyRko24l5cnId9eqPeyrSvohmXbekPgo8nfYPHAosxtYYI2IV249b12TImuxCJSOfRIfbb3L0HyVUKWMQcLo3uJkOMkdTQ+IPOphKVKUqX76GoaZNpXo7Pav3Gm/7tLZgv7DLubRqkbj+uBFgtyBOXe614=;u0rcjrah+kW7K120Oc1f4A=="
 ---
 

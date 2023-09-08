@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3705493/how-to-get-a-handle-on-sha
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705493/how-to-get-a-handle-on-shadow-ai.amp.html"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64f9d707743b486272f9e2c7/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Five Best Books to Read to Get Smart About AI"
+    excerpt: "It’s the hot topic that everyone is talking about. Here’s where to start to find out what it’s all about."
+    publishedDateTime: 2023-09-08T14:00:00Z
+    webUrl: "https://www.wsj.com/tech/ai/five-best-books-ai-24428966"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-848001/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "How The Gene of AI Dives into Human Problems"
     excerpt: "True hard sci-fi examines human problems through the lens of new tech. This is The Gene of AI to a tee - here's why."

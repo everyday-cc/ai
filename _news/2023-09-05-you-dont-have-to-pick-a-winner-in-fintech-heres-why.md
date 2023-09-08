@@ -111,6 +111,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Fintech Outsourcing India: CX, Data Security, and Compliance"
+    excerpt: "India, with its formidable prowess in IT and financial services, has emerged as a leading destination for fintech outsourcing. Leading the charge in bridging global businesses with India’s top fintech service providers is Cynergy BPO."
+    publishedDateTime: 2023-09-08T13:50:00Z
+    webUrl: "https://www.hindustantimes.com/brand-stories/fintech-outsourcing-india-cx-data-security-and-compliance-101694023544371.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 21
   - title: "Indian fintech firms using AI to detect money laundering: Kiya.ai MD Rajesh Mirjankar"
     excerpt: "Talking to ANI during the ongoing Global Fintech Fest 2023 in Mumbai, Rajesh Mirjankar, Managing Director of Kiya.ai, an innovative digital solutions service provider, said that investigation patterns of investigative agencies and government institutions have changed with technology transformations."
     publishedDateTime: 2023-09-07T00:16:00Z
@@ -137,6 +146,15 @@ related:
     provider:
       name: Mint
       domain: livemint.com
+    quality: 0
+  - title: "BIZCLIK MEDIA LAUNCHES SEPTEMBER EDITIONS OF FINTECH MAGAZINE & INSURTECH DIGITAL"
+    excerpt: "This month's edition features an extensive lead interview with, HSB Canada's Vice President Client Solutions and Innovation, Lasith Lansakara and VP, Head of Information Technology, Michael Scarbeau about the company's journey through almost 150 years of insurance transfomation."
+    publishedDateTime: 2023-09-08T15:27:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/09/08/9877716.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "E7nbB8X5sZhtgS1DA9tYN4A45MXr1JmY7IP2AEnis30Urb8kZiQtB3K65BYNs9uqyg/PDDC/LH83uLl2eXPA2lVyEW68KIMgqVIaMUGv8rnI2ZjcyVhtCHdTN5SZzc0fqVvAS0UFXQ/6+aM47HOWLRVdiB6nFPEr+OasdKXE1ynlUblGyDoLc9pU8jKOX0l7fS3wHxF3/SBqtzVXFPJTkt6J+9vvtnP6TkhQtpdFuFNnR/xlrSdsCP91QysF+i65Jgg0rnYwdutZ2gLDhI0c5EW0vcoJiCgccLqiM30EFco2SMg4e2/5MrRwHdDTFWgDi9T2iLLPCSU/LJ6DvB2gFooSC2wvejszzKnW0otSUjM=;+pEh5dNIw/eP966WrY1N0g=="

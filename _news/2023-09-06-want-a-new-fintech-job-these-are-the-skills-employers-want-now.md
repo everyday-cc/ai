@@ -111,6 +111,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Fintech Outsourcing India: CX, Data Security, and Compliance"
+    excerpt: "India, with its formidable prowess in IT and financial services, has emerged as a leading destination for fintech outsourcing. Leading the charge in bridging global businesses with India’s top fintech service providers is Cynergy BPO."
+    publishedDateTime: 2023-09-08T13:50:00Z
+    webUrl: "https://www.hindustantimes.com/brand-stories/fintech-outsourcing-india-cx-data-security-and-compliance-101694023544371.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 21
   - title: "Indian fintech firms using AI to detect money laundering: Kiya.ai MD Rajesh Mirjankar"
     excerpt: "Talking to ANI during the ongoing Global Fintech Fest 2023 in Mumbai, Rajesh Mirjankar, Managing Director of Kiya.ai, an innovative digital solutions service provider, said that investigation patterns of investigative agencies and government institutions have changed with technology transformations."
     publishedDateTime: 2023-09-07T00:16:00Z
@@ -137,6 +146,15 @@ related:
     provider:
       name: Mint
       domain: livemint.com
+    quality: 0
+  - title: "BIZCLIK MEDIA LAUNCHES SEPTEMBER EDITIONS OF FINTECH MAGAZINE & INSURTECH DIGITAL"
+    excerpt: "This month's edition features an extensive lead interview with, HSB Canada's Vice President Client Solutions and Innovation, Lasith Lansakara and VP, Head of Information Technology, Michael Scarbeau about the company's journey through almost 150 years of insurance transfomation."
+    publishedDateTime: 2023-09-08T15:27:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/09/08/9877716.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "UNt5cuPcp1VpaVx/W0VmrNGL+sf9f3dg0VYs33lphUv6X8XbQVxt9U3yAPe0/A5bntvw4yt7aKhZWwOPJQudBwR414CeKb/Wbklaup463bz3LfQiJmMM8FuZId29t0zj/i8lRT1Z+/WEjlOwlmRb7I/sD2n2s4bO4iMK7Pz8R1ycj06YKhNXSDHVEjciu0KqeczdORTal3uY+xKlLgSJGusZX+2jCXHiDd9uhNwVc7E1azk+Ko3f9NQ3mA8QQZvN75RErSPCtpYTGc6JHnBSCJJs4IiScPiFItGiKdLQTPdz+MV9KAUwbMlPSyW780uNJC7neQqZ/CWAtFy9Ub4MmzPYT8XaUVir8nqxm88B2KFbO2gTQ8B5H9zmvML7GTMtq/X1J/MrqoHKV0KEd61t+ZfLxFuRsWzyZU6ytd3fbMfxJ+ChDERbgrXpjgHYDCoY5OK1BVR2oFxCemnA3ld93bejUrH6R6gkSfOd7Z2nEWtdwU3ztHOkmy67hoqOnE/kLdKmSkjM2AGHGOj+hyuGPA==;xEKdKCROcZY6jV5/JrwCjQ=="

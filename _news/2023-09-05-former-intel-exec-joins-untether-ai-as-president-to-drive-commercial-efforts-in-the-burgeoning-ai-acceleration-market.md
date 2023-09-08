@@ -47,6 +47,15 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Former Intel czar’s AI plans for India include data centres every 100 km"
+    excerpt: "From how one of his memos led to ‘propaganda’ about chip packaging continuing Moore’s Law to the fate of soft-knowledge jobs in the post-AI era, former Intel chief architect Raja Koduri opens up in a"
+    publishedDateTime: 2023-09-08T13:11:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/startup/former-intel-czars-ai-plans-for-india-include-data-centres-every-100-km-11336021.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 18
 
 secured: "hpaMOyHgebOn90kugDuJ0uetFf8v2f5rhObLvtV09uicTC3sL0QX4badJEdAHtpmWrtZs/2XJDc0TUC/WeZ3h22byiflYGVX9U0Dubbcm14LtKY2OwCz6Y/ZbDTtpRifpc6n2iBp7l5DM3cuIFG5yOWBsp5cx4W8qWkbPCZdq5yMKF3GCV8s9NYBcnwjzzlKZcGruwCknyqWoqoYp0++AVPERBIHYQ8xGtjtcz7WwUNR8UbmMU2Iyb/TxuQ/nw2DXGw1GmULS+7HUatRoMW4nGX+JV2KELUVE8lsEx+8ytUr4yauR1neIQkZwkOONZuUEuaqqT1MpqMicsu7c8PN79xEet+bdKSVL4z5BA6eC/c=;45K3j7DhBRdZY2UT+1NLTw=="
 ---

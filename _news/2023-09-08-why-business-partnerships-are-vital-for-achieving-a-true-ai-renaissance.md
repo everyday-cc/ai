@@ -7,8 +7,8 @@ originalUrl: "https://www.businessinsider.com/sc/how-business-partnerships-can-h
 webUrl: "https://www.businessinsider.com/sc/how-business-partnerships-can-help-drive-generative-ais-adoption-2023-9"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Business Insider
@@ -26,6 +26,17 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "I.R.S. Deploys Artificial Intelligence to Target Rich Partnerships"
+    excerpt: "The tax agency is opening examinations into large hedge funds, private equity groups, real estate investors and law firms."
+    publishedDateTime: 2023-09-08T13:00:00Z
+    webUrl: "https://www.nytimes.com/2023/09/08/us/politics/irs-deploys-artificial-intelligence-to-target-rich-partnerships.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 47
 
 secured: "/XXdUcevCOCxE1lZo1N5S7hmuMfDho7al/0J86P3q1A3N1AIaJHgmjKZN5Cup7w8wFNvwjHtauZ+OjqFJ3UFSrtDELZseGzm7lCI/6QUMe8HRLBnpfwcDna0WmYJlx1SYNay2zus2vBHRnKYbkc41BC22AiaE2uHT9zWF1hYKCDdK+uw/xd8jOPVM8Rj72rBNwYiDNy48kgFTzJ2v8wcxci6bZ1P2Qea34TlQA0qElNyKGWvFD6PlO3donnhfFSGQs4esHIARjd1+ZEW2Gfa+YGVqnw0TwJRyedt0ZunatjpLrIc+WHL21F8MRCmH68+7s3ysBp/wyUWUrCh7m0WEo52KpeVWCc+4s9V9pBss04ncXNP9r7GMS0QlX3NJR/P9Ulfd5M8ygK7lvGZxTilGU1zv1XeAs7JEG+umnG+jgVMS1uRns3NS8enPn/+1lzKReMiP9KbEHCXVK/jnkIVfvJwY0TeTIud7TTzc7kgqR15gKL4GMgWBrOml9T6dN/2erbzhjoOBfkz1x1XWmCvpQ==;aaE0gs5kOnizwJsN3Yt4hg=="
 ---

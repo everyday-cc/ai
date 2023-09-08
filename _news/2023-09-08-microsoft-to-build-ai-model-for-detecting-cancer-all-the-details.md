@@ -175,7 +175,7 @@ related:
   - title: "Microsoft says it will protect customers from AI copyright lawsuits"
     excerpt: "Microsoft says it will defend buyers of its artificial intelligence products from copyright infringement lawsuits, an effort by the software giant to ease concerns customers might have about using its AI “Copilots” to generate content based on existing work."
     publishedDateTime: 2023-09-07T17:58:00Z
-    webUrl: "https://www.seattletimes.com/business/microsoft/microsoft-says-it-will-protect-customers-from-ai-copyright-lawsuits/"
+    webUrl: "https://www.seattletimes.com/business/microsoft/microsoft-says-it-will-protect-customers-from-ai-copyright-lawsuits/?n=%5CL"
     ampWebUrl: "https://www.seattletimes.com/business/microsoft/microsoft-says-it-will-protect-customers-from-ai-copyright-lawsuits/?amp=1"
     cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/microsoft/microsoft-says-it-will-protect-customers-from-ai-copyright-lawsuits/?amp=1"
     type: article
@@ -210,6 +210,20 @@ related:
       - url: "https://gulfbusiness.com/wp-content/uploads/2023/09/Microsoft-and-G42-to-offer-joint-sovereign-cloud-and-AI-offerings-Image-Microsoft.jpg"
         width: 930
         height: 620
+        isCached: true
+  - title: "Microsoft and Paige join forces to develop world’s biggest AI model to detect cancer"
+    excerpt: "Yesterday, a partnership was announced between Paige, a pioneering cancer diagnostics company, and Microsoft. The collaboration is to build the largest"
+    publishedDateTime: 2023-09-08T14:23:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-and-paige-join-forces-to-develop-worlds-biggest-ai-model-to-detect-cancer/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 47
+    images:
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2021/01/Artificial-intelligence-1024x768-1.jpg"
+        width: 1024
+        height: 768
         isCached: true
   - title: "G42 and Microsoft unlock new opportunities for digital transformation with joint sovereign cloud and AI offering"
     excerpt: "Microsoft's sovereign cloud offering public sector and regulated industries to use new platform capabilities for securing access to the latest cloud and AI features available on Azure public cloud and helping local privacy and regulatory requirements."
@@ -266,6 +280,6 @@ related:
       domain: bizjournals.com
     quality: 27
 
-secured: "M9hwdlv5jqnTllZAy8jyLPHJYGHMZlDijg2i5koeDrTTM7jbhHXNTboBou4yPjDzs05QvXC1s+i4adG7RytnbvQnPauImwZzTIq8u7eSP+MbLylkLa1GkJcXs6fy5MJEzfEDOhpkGF/UHPPi+qbFq8ci56QoKcF+yO2GbeafiwuA9PNQjVheE2gdlzF7dF2KFoGp88dK1Sn+dpYxVAg/0R8ujQS/45vYtJmkqINeI00fcFFcSEvsPaHwUaoIycBOv4R61PVPKyiQJCeKeuniV6+WWJTFewDumVtGIrdUG5l/RCL8HmvTb5P3glFsKyDdOo96sLJ3mloeUFCqHbb5kOZ0NFbk9FvwppSEr8y70y8=;nEJu3kE0kqkmikcsRMFIxA=="
+secured: "9/truFpUXlOpVoCvaAIKp/KGJ1+0/TbdJ3toBb8g5oy1cJhB4MbMhb49/v8g2CAgkkgVebVaWt4oa7E+HkqR0ZK6J8ASD5sdkbjs2baXKv5BijW9P++jXnNw/y8WtZ6wO5TMFRVK4cEyyGgo8ZmoQVoefVBq7mVjyhPJhy4So0XPaF8gBiPamaAoXzdwpRbzMGFn9T0NUtUtP33sSos76oh+mXP9fBVUbVEbOdmrze8ARjO61XnabsQLdWmbRF61Zbx/wTvrOtgl00PYHiJSxK7AH/cMPbHJYGFpV+HQz6v5p1eKhh0/rNfqEsoif1qlOmoUIFY5xap5DqW8q3pUB65HrlC/RIAAi4nL4lzLtlx3PLVswwAid4lTqir0zFlxaAu5pfXyeSoh/x9ySYMhJQ+SjqbOJCEQQQgot48CXxeeZ6k+ZbD8LP+gSnTb2IG0aROv8gUOfQOQ5J4z9JH7vYAf8UDkewoAdL2X1ev8Awu0AWKAYnm13iHYGEo6wXT5HOom8Cm+TVAijWYv0whIYw==;QcHvR5kzxHorDff5cjODmQ=="
 ---
 

@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "SPECIAL REPORT-In U.S.-China AI contest, the race is on to deploy killer robots"
+    excerpt: "The United States and China have both tested swarms of AI-powered drones. Last year, the U.S. military released footage of troops training with drone swarms. Another video shows personnel at Fort Campbell, Tennessee, testing swarms of drones in late 2021. The footage shows a man wearing video game-like goggles during the experiment."
+    publishedDateTime: 2023-09-08T11:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/special-report-in-u.s.-china-ai-contest-the-race-is-on-to-deploy-killer-robots"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 60
 
 secured: "OgyyIjUMubUsaRUjKduhgJ5ujJD5FHD2sC/kQgRExGmXv36rctlvKSugfcqvR8Uag5DBXKrXK9QmjtLEJ51HflWlXodDMJwSp5Dy2Fh0Wgh5PHW951kbqiOUWL0LitX7zHho6wwI8Qa5BSJmiop51H1aLRxWWBMAv2aZr7wXCi9AgGSIRXtMRsHmYy5aoONrGSro4s5GTRsRUAmUCbBcJtLNfk35HAmCf0C28RvHlDFnTDGGfnJjp8kc48+FVx6l+/gJ4ydGHRSmWNol5AVJJY+BonJ82EisXUvhN7LFX6hueWTPeD/jAV88T0DKZerGt40SLjBEuIDzyL1cZq4RBxfl1RZWOQ8cY8VNx/nibfQ=;cL24phbU2ei0rq5igcvXaQ=="
 ---

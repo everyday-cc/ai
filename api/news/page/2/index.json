@@ -2,6 +2,301 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-07-ibm-expands-cloud-security-and-compliance-center.md",
+      "title": "IBM Expands Cloud Security and Compliance Center",
+      "excerpt": "IBM added features around data protection for workloads and AI data repositories to its Cloud Security and Compliance Center.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ibm-expands-cloud-security-and-compliance-center/",
+      "originalUrl": "https://www.techrepublic.com/article/ibm-expands-cloud-security-and-compliance-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/09/tr_09072023-ibm-expands-cloud-security-and-compliance-center.jpg",
+          "width": 1400,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-07T08:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-09-07-softbank-group-backs-former-argo-ai-founders-on-new-self-driving-trucks-startup.md",
+      "title": "Softbank Group backs former Argo AI founders on new self-driving trucks startup",
+      "excerpt": "There’s a new self-driving trucks startup in town. And the faces are familiar. Bryan Salesky, Peter Rander and Brett Browning — the trio behind the now defunct Ford and VW-backed autonomous vehicle startup Argo AI — have formed a new company called ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/09/07/softbank-group-backs-former-argo-ai-founders-on-new-self-driving-trucks-startup/",
+      "originalUrl": "https://techcrunch.com/2023/09/07/softbank-group-backs-former-argo-ai-founders-on-new-self-driving-trucks-startup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/09/FINAL_Stack_Truck_1-1.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/09/07/softbank-group-backs-former-argo-ai-founders-on-new-self-driving-trucks-startup/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/07/softbank-group-backs-former-argo-ai-founders-on-new-self-driving-trucks-startup/amp/",
+      "publishedDateTime": "2023-09-07T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-07-hawaiis-workforce-and-the-emergence-of-artificial-intelligence.md",
+      "title": "Hawaiʻi’s workforce and the emergence of artificial intelligence",
+      "excerpt": "With restaurants on Oʻahu utilizing AI for service-related work and lots of other businesses utilizing ChapGPT for any number of writing related needs, the emergence of AI in Hawaii is inevitable.",
+      "sourceUrl": null,
+      "webUrl": "https://www.khon2.com/local-news/hawaiʻis-workforce-and-the-emergence-of-artificial-intelligence/",
+      "originalUrl": "https://www.khon2.com/local-news/hawaiʻis-workforce-and-the-emergence-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.khon2.com/wp-content/uploads/sites/8/2023/09/GettyImages-1432540662.jpg?w=1280",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.khon2.com/local-news/hawai%ca%bbis-workforce-and-the-emergence-of-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-khon2-com.cdn.ampproject.org/c/s/www.khon2.com/local-news/hawai%ca%bbis-workforce-and-the-emergence-of-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-09-07T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KHON2",
+        "domain": "khon2.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-07-keralas-sastra-robotics-to-export-150-robots-to-britain.md",
+      "title": "Kerala’s Sastra Robotics to export 150 robots to Britain",
+      "excerpt": "Kochi: Sastra Robotics, a startup incubating under Kerala Startup Mission (KSUM), will export 150 robots to Britain following an agreement with one of the top IT companies in the United Kingdom (UK).",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiablooms.com/finance-details/19074/kerala-s-sastra-robotics-to-export-150-robots-to-britain.html",
+      "originalUrl": "https://www.indiablooms.com/finance-details/19074/kerala-s-sastra-robotics-to-export-150-robots-to-britain.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.indiablooms.com/finance_pic/2023/bb0283f1eb0d7b4a044b3297683116e3.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-07T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Blooms",
+        "domain": "indiablooms.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-07-microsoft-to-reveal-ai-plans-for-onedrive-in-october-event.md",
+      "title": "Microsoft to reveal AI plans for OneDrive in October event",
+      "excerpt": "Mark your calendar if you want a \"sneak peek\" at how AI will fuel new search, sharing, and queries for your OneDrive files.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-to-reveal-ai-plans-for-onedrive-in-october-event/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-to-reveal-ai-plans-for-onedrive-in-october-event/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 304,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/52621c88ff4f85caa000cfcdc623220ec0f8ea17/2023/09/07/3d33de39-0d04-4ce2-9326-cfb83bf94a84/onedrive-event.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-to-reveal-ai-plans-for-onedrive-in-october-event/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-reveal-ai-plans-for-onedrive-in-october-event/",
+      "publishedDateTime": "2023-09-07T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-07-chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot.md",
+      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+      "excerpt": "“AI presents a whole set of opportunities ... ChatGPT is generally available through the Azure OpenAI Service, Microsoft’s fully managed, corporate-focused offering. Customers, who must already be “Microsoft managed customers and partners ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/09/07/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
+      "originalUrl": "https://techcrunch.com/2023/09/07/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 319,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/09/07/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/07/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/",
+      "publishedDateTime": "2023-09-07T08:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-07-ai-research-lab-imbue-nabs-200-million-for-speculative-bet-to-build-ai-agents.md",
       "title": "AI Research Lab Imbue Nabs $200 Million For Speculative Bet To Build AI ‘Agents’",
       "excerpt": "The startup has a $1 billion valuation and access to 10,000 Nvidia H100 GPUs, but its founders say it could be years away from revealing a product.",
@@ -164,7 +459,7 @@
       "originalUrl": "https://www.ibm.com/blog/building-ai-for-business-ibms-granite-foundation-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -376,6 +671,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-07-how-b2b-trailblazers-can-win-the-ai-revolution.md",
+      "title": "How B2B Trailblazers Can Win The AI Revolution",
+      "excerpt": "Blaze A Trail With Existing AI Tools. The internet is littered with promising, powerful AI tools that can radically change the way that B2B merchants conduct business. I don't nee",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/09/07/how-b2b-trailblazers-can-win-the-ai-revolution/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/09/07/how-b2b-trailblazers-can-win-the-ai-revolution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6357e1630645a967cb83bb8b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/09/07/how-b2b-trailblazers-can-win-the-ai-revolution/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/09/07/how-b2b-trailblazers-can-win-the-ai-revolution/amp/",
+      "publishedDateTime": "2023-09-07T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -793,7 +1139,7 @@
       "originalUrl": "https://techcrunch.com/2023/09/06/intuit-assist-generative-ai-assistant/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -883,361 +1229,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-ai-generated-child-sex-imagery-has-every-us-attorney-general-calling-for-action.md",
-      "title": "AI-generated child sex imagery has every US attorney general calling for action",
-      "excerpt": "Second, after considering the expert commission’s recommendations, Congress should act to deter and address child exploitation, such as by expanding existing restrictions on CSAM to explicitly cover AI-generated CSAM. This will ensure prosecutors have the tools they need to protect our children.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/09/ai-generated-child-sex-imagery-has-every-us-attorney-general-calling-for-action/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/09/ai-generated-child-sex-imagery-has-every-us-attorney-general-calling-for-action/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/us_capitol_hero-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/09/ai-generated-child-sex-imagery-has-every-us-attorney-general-calling-for-action/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/ai-generated-child-sex-imagery-has-every-us-attorney-general-calling-for-action/amp/",
-      "publishedDateTime": "2023-09-06T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-how-ai-is-boosting-agent-intelligenceand-evolving-the-cx-team.md",
-      "title": "How AI Is Boosting Agent Intelligence—And Evolving The CX Team",
-      "excerpt": "When human agents and AI join forces, they form a powerful CX team—one that builds on their strengths, while minimizing their weaknesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/zendesk/2023/09/06/how-ai-is-boosting-agent-intelligence-and-evolving-the-cx-team/",
-      "originalUrl": "https://www.forbes.com/sites/zendesk/2023/09/06/how-ai-is-boosting-agent-intelligence-and-evolving-the-cx-team/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64f8a24960bbd7f7ae384a0b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/zendesk/2023/09/06/how-ai-is-boosting-agent-intelligence-and-evolving-the-cx-team/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zendesk/2023/09/06/how-ai-is-boosting-agent-intelligence-and-evolving-the-cx-team/amp/",
-      "publishedDateTime": "2023-09-06T13:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-110m-in-funding-will-help-d-matrix-get-generative-ai-inference-platform-to-market.md",
-      "title": "$110M In Funding Will Help d-Matrix Get Generative AI Inference Platform To Market",
-      "excerpt": "made possible by testing on earlier chips that demonstrated the in-memory architecture. d-Matrix roadmap: all roads lead to Corsair, the company's first scalable AI solution. \"We're entering the production phase when large language model (LLM) inference ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/09/06/110m-in-funding-will-help-d-matrix-get-generative-ai-inference-platform-to-market/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/09/06/110m-in-funding-will-help-d-matrix-get-generative-ai-inference-platform-to-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64f8a35ebb4b3e7bae86eae0/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/09/06/110m-in-funding-will-help-d-matrix-get-generative-ai-inference-platform-to-market/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/09/06/110m-in-funding-will-help-d-matrix-get-generative-ai-inference-platform-to-market/amp/",
-      "publishedDateTime": "2023-09-06T13:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-qualcomm-upgrades-and-expands-its-handheld-gaming-chip-lineup.md",
-      "title": "Qualcomm Upgrades And Expands Its Handheld Gaming Chip Lineup",
-      "excerpt": "Today, Microsoft and Nvidia rule the cloud gaming space ... Moor Insights & Strategy provides or has provided paid services to technology companies like all research and tech industry analyst firms. These services include research, analysis, advising ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/09/06/qualcomm-upgrades-and-expands-its-handheld-gaming-chip-lineup/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/09/06/qualcomm-upgrades-and-expands-its-handheld-gaming-chip-lineup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64f8db50a1eda175c6dcb95f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 724,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/09/06/qualcomm-upgrades-and-expands-its-handheld-gaming-chip-lineup/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/09/06/qualcomm-upgrades-and-expands-its-handheld-gaming-chip-lineup/amp/",
-      "publishedDateTime": "2023-09-06T13:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-compass-pathways-explores-ai-powered-predictive-model-on-psilocybin-therapy-for-depression.md",
-      "title": "Compass Pathways Explores AI-Powered Predictive Model On Psilocybin Therapy For Depression",
-      "excerpt": "COMPASS Pathways plc (NASDAQ: CMPS) shared the results from research on the potential of its novel AI technologies to support its proprietary COM",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/compass-pathways-explores-ai-powered-predictive-model-on-psilocybin-therapy-for-depression-1032610657",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/compass-pathways-explores-ai-powered-predictive-model-on-psilocybin-therapy-for-depression-1032610657",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/09/06/advanced_technology_clinic_dmt_psilocybin_mdma_bacsica_aiyoshi597_gisele_yashar_and_metamorworks_on_shutterstock.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-06T13:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-synopsys-opens-the-next-chapter-of-ai-tools-for-chip-design-and-manufacturing.md",
-      "title": "Synopsys Opens The Next Chapter Of AI Tools For Chip Design And Manufacturing",
-      "excerpt": "The EDA leader has generated over $500M to date in AI tools and technologies. Now a new data analytics solution applies data management, curation, and analysis across the entire pipeline of chip creation. Synopsys was the first EDA company to apply ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/09/06/synopsys-opens-the-next-chapter-of-ai-tools-for-chip-design-and-manufacturing/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/09/06/synopsys-opens-the-next-chapter-of-ai-tools-for-chip-design-and-manufacturing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64f8d7ebc965b8833973b636/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 589,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/09/06/synopsys-opens-the-next-chapter-of-ai-tools-for-chip-design-and-manufacturing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/09/06/synopsys-opens-the-next-chapter-of-ai-tools-for-chip-design-and-manufacturing/amp/",
-      "publishedDateTime": "2023-09-06T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-vision-guided-robotic-manipulation-a-pivotal-component-in-modern-robotics-renaissance.md",
-      "title": "Vision Guided Robotic Manipulation: A pivotal component in modern robotics renaissance",
-      "excerpt": "The DRC aimed to cultivate robotic systems capable of functioning as disaster response agents. The challenges in the competition spanned tasks like turning valves, climbing ladders, driving utility vehicles,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zeebiz.com/technology/news-vision-guided-robotic-manipulation-a-pivotal-component-in-modern-robotics-renaissance-252399",
-      "originalUrl": "https://www.zeebiz.com/technology/news-vision-guided-robotic-manipulation-a-pivotal-component-in-modern-robotics-renaissance-252399",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.zeebiz.com/sites/default/files/2023/09/06/259514-aipixabaynew.jpg?im=FitAndFill=(1200,900)",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zeebiz.com/technology/news-vision-guided-robotic-manipulation-a-pivotal-component-in-modern-robotics-renaissance-252399/amp",
-      "cdnAmpWebUrl": "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-vision-guided-robotic-manipulation-a-pivotal-component-in-modern-robotics-renaissance-252399/amp",
-      "publishedDateTime": "2023-09-06T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zee Business",
-        "domain": "zeebiz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

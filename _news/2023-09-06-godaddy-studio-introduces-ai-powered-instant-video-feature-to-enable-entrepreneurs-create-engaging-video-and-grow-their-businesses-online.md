@@ -52,6 +52,15 @@ related:
       name: Incubators
       domain: socaltech.com
     quality: 17
+  - title: "Sizzle AI for its AI-Powered Learning Assistant That Helps Students Solve Any Problem With Step-by-Step Guidance"
+    excerpt: "Sizzle is the free personalized app that uses the power of AI to help learners work through any problem, step by step. Rather than providing answers to problems outright, Sizzle guides students through each step, building problem-solving skills and a mastery of underlying concepts."
+    publishedDateTime: 2023-09-08T13:48:00Z
+    webUrl: "https://www.alleywatch.com/2023/09/sizzle-ai-ai-step-by-step-problem-solving-tutoring-app-students-jerome-presenti/"
+    type: article
+    provider:
+      name: alleywatch.com
+      domain: alleywatch.com
+    quality: 0
 
 secured: "p3LKKcok9o5C7q9SFfbdLFWoL91FFPB3my/OUO0mlOsHYjYPsSGr+qT9X5goMt54W5JwGpNepNfuUthcYxwctXw4t0QFD1D98+DMdrk7Z0Rn5ZMTh8TfM3/U88Be5AzUgnApTrN8YEPWhOifb0iwrzW60P7W7ANfC2M/CNvu7Hq/GjUM8avGAVpGD5s2USgQOg82EnTH6833N7r2bUlqK1LebyhW7bifLKbQ/V7vgMD8l2uuPnTO1jswVTYtyZ+y4OQM9zFsFqyopBT5XYmyTHL4wT0rMwUXwx/grUPuvRwMdJrZzRRD5Yd4VOP1ify6Q9AJmEYSsJb/794+QV/K1HeUdCzZivycryxRqIPo/7lK6zEx0yIHMUoet4AKZRHqxg+JuJQg1d2Hu2tCfk3rLJNyKjxGKErKgFVl3wLPNvkXRLPNK4Un8wW7owaU2Pzfp0LLZ3ebe0+y2eL+NHG8FZIPmv5m+Llqy7vpPjX2pkpq/XKI8eLiUsCvHf7FU51yhT3pqYMc1bNce1rLC2YqFA==;EYF7ZDVBLa8g0kA/a4nMcw=="
 ---

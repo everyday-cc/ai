@@ -22,21 +22,21 @@ topics:
   - AI
 
 related:
-  - title: "EU gives more power to AI translation machines"
-    excerpt: "For the first time, high-tech machines will translate press releases without any human oversight, in order to cut waiting time for journalists and expand the number of languages available to the public. This marks a new frontier in the Commission’s drive ..."
-    publishedDateTime: 2023-09-03T22:25:00Z
-    webUrl: "https://www.politico.eu/article/ai-technology-eu-commission-parliament-gives-more-power-to-ai-translation-machines/"
-    ampWebUrl: "https://www.politico.eu/article/ai-technology-eu-commission-parliament-gives-more-power-to-ai-translation-machines/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/ai-technology-eu-commission-parliament-gives-more-power-to-ai-translation-machines/amp/"
+  - title: "C3.ai Stock Slides On Q1 Earnings Despite 'Strong Traction' With AI Applications, New Generative AI Suite"
+    excerpt: "What Happened: C3.ai reported first-quarter revenue of $72.4 million, which beat the consensus estimate of $71.59 million, according to Benzinga Pro. C3.ai reported a quarterly loss of 9 cents per share, which beat analyst estimates for a loss of 17 cents per share."
+    publishedDateTime: 2023-09-06T20:51:00Z
+    webUrl: "https://www.benzinga.com/news/23/09/34294001/c3-ai-stock-slides-on-q1-earnings-despite-strong-traction-with-ai-applications-new-generative-ai-sui"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34294001"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34294001"
     type: article
     provider:
-      name: Politico Europe
-      domain: politico.eu
-    quality: 59
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 42
     images:
-      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/06/15/GettyImages-1178777206-scaled.jpg"
+      - url: "https://cdn.benzinga.com/files/images/story/2023/09/06/ai-7977960_1920.jpg?width=1200&height=800&fit=crop"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
 
 secured: "K6otY2AErixdkqB4By517+dNkHyj06TKgZUL68BPNBlaLU/XcUGpzSEKzcxyXZ5Pfc/1hi1n2mexTwPHTmIBpO51JnRWRHgQh58JFHoGXqCi4ZWJBMWpCD3Jro0ruqwvvaseahbv+g3kDzBrMk2cu+fMdo5PWmwUCV0jFwpAsDxshXbqPyT95v2KRG3JNzzsMHSa6S5+A67n+ekSvVZ7fTVthvMnZ9Ar2vXgdh3r5kcrWTy1KqetCAUtgHrjxGJweGDDTd6VhnOeP7hSSC6vjgY14v7sbgyyshxzIuthxXhVitv93sHBVaaRMP4ibZgSLzkiBtTWs93WCgltwyIvVHM+x+oE5bg6TkP1GucPljB6KkzND24GPsI1c36uThHGQJQ3IBV7DE4hT14pxdpYu9pt+HTX90tp43W0QrO1JWPOPtgVS3wYmGD8eHF3NPO99ouObRSv37BK2CKgcPPlvOb9rwDT4uKpgXlDaF/60GJfnzDaozV+/eK/Wbk9ny/mo7bMUsU/Zg8DvEP8Gsn74A==;V27wjOvrsRRI37b7bRKL4A=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/34225651"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34225651"
 type: article
 quality: 73
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "The rise of AI in health care"
+    excerpt: "Artificial intelligence is rapidly gaining steam across the health care industry, bringing with it new risk-reward scenarios."
+    publishedDateTime: 2023-09-08T11:59:00Z
+    webUrl: "https://www.bizjournals.com/triangle/news/2023/09/08/uses-for-artificial-intelligence-in-health-care.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "y6Y7CK7ZnRk/oISr0itZ5Kd0eZrKeg0+LAPmChOf70jsfHqKneHH2ia51AveN7j7Uoq0aKx/uCWCbpaS5L68j0izoo7Aciun3ZEii2FRHQLCOsTeN8l283nnP2/zUtYdshJpaJFfTVb25my8qC4Y3+29KCbd/o3tmem/dzfqW4sqVI2MVXWFIj8I1r43vycMQktRwqOPsmkgNWxqlFUr3Uukrz4+VRf6ysmh4PXDUvJLFqdzpG8RFpPS57wEVoX/mmOxNL/mOSbGuO5dEv+kkOiiSey5yUtMloFMuMzNnSz0n5j4Q+UHuyAKkmPwpODA2iw33oV4F6rkWpf3DHUYt/Px4BVaGS4QjaeosBqSyKM=;cRkymOU+Dr1LQAuk5jupfQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news.com.au/checkout/home-and-garden/cleaning/robot-vacu
 cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/checkout/home-and-garden/cleaning/robot-vacuums/best-robot-vacuum/news-story/20250dff99e702cf51266a8ee90f2857?amp"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,17 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "The best budget robot vacuums"
+    excerpt: "Few truly budget bots use the vSLAM (visual simultaneous localization and mapping) or lidar-powered navigation or mapping found on higher-end robots. Instead, the cheapest use the bump and roll technique, with more now adding a gyroscope function that at least makes them go in a straight line."
+    publishedDateTime: 2023-09-08T13:00:00Z
+    webUrl: "https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 49
 
 secured: "0Z9izAjPIBdd50wbRs8QCxEaR0iPJirpqn6dkqxaqg/pTjXepaIYY34ktMUaFnW+43btSErAAUH7xb8x8/lM116AQN+BUz7xNFhbIuW9FdEvP3ysgRkbWjYYWeSKspRVP1644f5FgASxorIOZgPYBViplTDQDSQCn3KTXHNcxxmT4r0ZyNUozKoag86jRcfS1R25Ms7knay4EhheAcyGLBi3sjysQZmXO1djN7tGsMPKFi6l8T77zVhWobU8jmrIu0HgLcEniHkzM0w5jaF6bIiwS/ch0/Vm/bSQqZbkcIZqey+fm03dmQWwntkoLYXa72tqrk9qZIT56SVs5wG1qCnZC2lF1tmknVEXmCRVR0/c4Pg+SZQvvjGKh+wVjd459ej32uTVo4F68XUDWbVYwWJqta5aPFSKOJgVf52aUwfAFNJota41ERiTvtn1kn78Nf0g9uzbRme9WDHzYch92s6yPLLPM3tpW/+cThwodR7T/aljMufI+T3UK5IPQ+TbU/txNXXmaMK0clkGk4lalw==;GCFZWTWcouZTiY9VnmQJCw=="
 ---

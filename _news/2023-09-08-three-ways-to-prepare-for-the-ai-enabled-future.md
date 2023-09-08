@@ -131,6 +131,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 19
+  - title: "The Download: combating covid, and the challenges of governing AI"
+    excerpt: "Deciding how to regulate AI is one of the biggest challenges facing politicians and experts alike. On September 12 we’re holding the second MIT Technology Review Roundtable: a 30-minute conversation with our writers and editors—and this one’s all about governing AI."
+    publishedDateTime: 2023-09-08T12:10:00Z
+    webUrl: "https://www.technologyreview.com/2023/09/08/1079233/the-download-combating-covid-and-the-challenges-of-governing-ai/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 17
 
 secured: "xud57nD5XxMmsz9O0VEAV9FGsd6TYe6inqOgnnuaYsm0g725NhuMg0OGS5SqzZBzD1Vstc6WBEfCj+1MRnyz/AyE3GuggybUAPWYkdPiw3yD4kW+cXbmVeWHl0jiUVVNZ4TmkLv5WsfV40VfrZHFztll+0b12TXUbscpCjYS0+jizgdWMvGrmUTGgtgKhxMFS1KtjwcyjRcgj4rOEoBmXNi/xLKWw4O/MOGH7zJiV4ho7fyyxx+SfeE+GCw+FD9oKPQciFN48CiwrSJUEypBk3uDezXTLddXdxliR/RhmvFzIY7rp+H5jrzZRXbW016u7Hm9OBFJ/6vs33Z1EVdjjLcKCCBy2DWrfl+GCyVkbwY=;PvCIvhBgDskH5dl9fkt+Zw=="
 ---

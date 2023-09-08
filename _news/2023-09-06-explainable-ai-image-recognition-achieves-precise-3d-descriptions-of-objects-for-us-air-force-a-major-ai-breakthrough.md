@@ -35,6 +35,36 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "OpenAI admits that AI writing detectors don’t work"
+    excerpt: "In a section of the FAQ titled \"Do AI detectors work?\", OpenAI writes, \"In short, no. While some (including OpenAI) have released tools that purport to detect AI-generated content, none of these have proven to reliably distinguish between AI-generated and human-generated content.\""
+    publishedDateTime: 2023-09-08T15:42:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/09/openai-admits-that-ai-writing-detectors-dont-work/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/09/openai-admits-that-ai-writing-detectors-dont-work/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/openai-admits-that-ai-writing-detectors-dont-work/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 87
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/09/ai_detector_hero_2-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Efficient training for artificial intelligence"
+    excerpt: "Víctor López-Pastor and Florian Marquardt, two scientists at the Max Planck Institute for the Science of Light in Erlangen, Germany, present a method by which artificial intelligence could be trained much more efficiently. Their approach relies on ..."
+    publishedDateTime: 2023-09-08T14:01:00Z
+    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=63602.php"
+    type: article
+    provider:
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 56
+    images:
+      - url: "https://www.nanowerk.com/news2/robotics/id63602_2.jpg"
+        width: 800
+        height: 412
+        isCached: true
   - title: "Some CT schools are using artificial intelligence for student tutoring"
     excerpt: "CT is partnering with tech company Varsity Tutors, which uses AI to connect students with tutors and design tutoring lesson plans."
     publishedDateTime: 2023-09-06T09:00:00Z

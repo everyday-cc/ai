@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI will supersede 2.4 million US jobs by 2030"
-    excerpt: "Furthermore, Generative AI intends to make up nearly 30 percent of the jobs lost to automation by 2030. “Generative AI will make up a growing percentage of all US jobs lost to automation and AI, climbing from 9.3 percent of jobs lost to automation and AI overall in 2023 to 30.4 percent by 2030,” the report noted."
-    publishedDateTime: 2023-09-07T20:33:00Z
-    webUrl: "https://interestingengineering.com/culture/ai-supersede-24-million-jobs-2030"
+  - title: "How B2B Trailblazers Can Win The AI Revolution"
+    excerpt: "Blaze A Trail With Existing AI Tools. The internet is littered with promising, powerful AI tools that can radically change the way that B2B merchants conduct business. I don't nee"
+    publishedDateTime: 2023-09-07T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/09/07/how-b2b-trailblazers-can-win-the-ai-revolution/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/09/07/how-b2b-trailblazers-can-win-the-ai-revolution/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/09/07/how-b2b-trailblazers-can-win-the-ai-revolution/amp/"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/09/07/image/jpeg/i1FDGBOUInzoZnIP8WIcEeh7dyJGTVDWv5YMndVe.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6357e1630645a967cb83bb8b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "The AI Hype Has Subsided, But the Revolution Continues"
+    excerpt: "The stock market has also had time to digest this information, leading to much higher valuations for Nvidia, but there are no signs in market prices that AI heralds the end of the"
+    publishedDateTime: 2023-09-04T07:27:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/09/04/ai-hype-has-subsided-but-technology-remains-as-powerful-as-ever/e18bfdcc-4b1e-11ee-bfca-04e0ac43f9e4_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4EPIWNCLDYI65P6KATQKYQ7Z4Q.jpg&w=1440"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "3xCaFlvDkjhbD0Z7winI25QHHPP1Wge+DQwKUnFltu/W80glUzfFbdZzCk85ZVLeGEFqLcJDhCk79+6OVNntdQHEfU+7RrKCogdeZ8Taf3rJCTa6QOGcyYpHUx5Rpj6+AASepUytTxfjJsrEFVybrK4ExrXX36E3brQhr3cxMs5LL1wP9K9NEJCb8W/QEoucJYegSjENEdC2auW2TGmTba2gY0yT7XSIAgeh3+AXyBUVIEO6+4noMFhr1aO5gJugnhVdB/v8yyWx6C4qCYry6PvPUxSvhC2ogpx5z/V3pYNWVJKaXZLh3BY7igQNn/L64/2ewf7chcLQPOmr1tcjH1EbXn5fvqofWTiJsOhw5Qs=;Klg+39Jx0X7HGTb/64I/VA=="

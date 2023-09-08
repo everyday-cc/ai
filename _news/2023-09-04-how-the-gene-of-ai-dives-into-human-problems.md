@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Five Best Books to Read to Get Smart About AI"
+    excerpt: "It’s the hot topic that everyone is talking about. Here’s where to start to find out what it’s all about."
+    publishedDateTime: 2023-09-08T14:00:00Z
+    webUrl: "https://www.wsj.com/tech/ai/five-best-books-ai-24428966"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-848001/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "rXWVbHunJ/oDVMeytEbBHZ4lMCQLXUHqTWf/YNwAHCHSdtORSResRDkjXvK8EeXk7h4ZRuVmLd4oqtmjnR8V487SI6DhoTbnysTEtjg1kV+cZrtSNWIfUZViCYOd3IhI32+yKDIjeNpxQ4EroJ469o7Muyns03EyAhG5qUyJvugglihSIy9jgFTNKqRdidBam89P61LrrATrB7gdhdew2Oba3cGUYoOGOJjHI5QzAI/2U0SQLn8ftuFcIPkxnJRSWM3N4UmJt7MU4GfPThtkZ4O50xBAtV5oK6I449a8eu8UK+O4N0UfeoZS8br4AH3mGSzAWLHdR+FXuB33jBkXB5ySPXwF1BpYhmL8BMT18ks=;8FVh426y4TspPCLU/BqtEA=="
 ---

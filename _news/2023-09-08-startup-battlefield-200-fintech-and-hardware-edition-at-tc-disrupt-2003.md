@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/09/07/startup-battlefield-200-fintech-an
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/07/startup-battlefield-200-fintech-and-hardware-edition-at-tc-disrupt-2003/amp/"
 type: article
 quality: 75
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
         width: 1069
         height: 580
         isCached: true
+  - title: "SliceUp Selected to Participate in Startup Battlefield 200 at TechCrunch Disrupt 2023"
+    excerpt: "TechCrunch Disrupt 2023 will be held from Tuesday, September 19 - Thursday, September 21 at the Moscone Center in San Francisco. Startup Battlefield 200 is bringing together the foremost startups from around the globe in twelve different categories, giving them a platform to showcase their latest innovations to the tech world."
+    publishedDateTime: 2023-09-08T15:48:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/09/08/9877725.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "I5sw6CeBes/8DumExGFDM2T+oe8HtxtRV9z4Xi7mGLgiVlIcMXPmo9KtWGX4tzTQWR7AyoNvX05f6+Dt7ZNvbr1cneCb277aZstuao2J/s6FfXzHzWtlUTamLA/SWiHML/xjnb5d1Z5zy54hejCpJsecGJhQeNrC1NmyiXhGNjFaZ02HlR/1v7d3kwv918h7DhH7flN52WUtpWeLh5xG72VLp5mKwUpV8iYIvzGYM6fGHHP+YZmw18v6l/wSqU7La+BrwCKs+CEImxn+DQ1O/m4iS4NNOLgxrsmcV+jIVH+Q2t85SX/gXlv0FIF1EKz6A6HWgc5gl6MuSIUTpIFJ/Ut4b2s/umNsWeCroYkFxY4=;8QKCI7q/WXl550OvN239mg=="
 ---

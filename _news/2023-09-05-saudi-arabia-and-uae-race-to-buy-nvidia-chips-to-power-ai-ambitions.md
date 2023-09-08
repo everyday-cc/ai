@@ -85,6 +85,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "NVIDIA, Tata Group to work together on AI computing infrastructure, platforms"
+    excerpt: "The companies will work together to build an AI supercomputer powered by the next-generation NVIDIA GH200 Grace Hopper Superchip to achieve high quality performance."
+    publishedDateTime: 2023-09-08T15:09:00Z
+    webUrl: "https://www.cnbctv18.com/technology/nvidia-tata-group-work-on-ai-computing-infrastructure-platform-gh200-grace-hopper-superchip-17755921.htm"
+    ampWebUrl: "https://www.cnbctv18.com/technology/nvidia-tata-group-work-on-ai-computing-infrastructure-platform-gh200-grace-hopper-superchip-17755921.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/nvidia-tata-group-work-on-ai-computing-infrastructure-platform-gh200-grace-hopper-superchip-17755921.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 56
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/05/nvidia-1019x573.png"
+        width: 1019
+        height: 573
+        isCached: true
   - title: "Nvidia, Horizon Robotics account for 80% of self-driving chips enabling NOA in China"
     excerpt: "China-based autonomous driving chip developer Horizon Robotics is showcasing solutions for smart driving and advanced driver assistance systems (ADAS) powered by its Journey chip series at IAA Mobility 2023."
     publishedDateTime: 2023-09-06T06:02:00Z
@@ -127,6 +143,17 @@ related:
         width: 932
         height: 519
         isCached: true
+  - title: "Jio Platforms and NVIDIA team up to build new AI cloud infrastructure in India"
+    excerpt: "Jio Platforms Limited, a subsidiary of Reliance Industries Limited, has collaborated with NVIDIA to build a cloud-based AI computing infrastructure in India in order to accelerate the country's AI development efforts and address social challenges."
+    publishedDateTime: 2023-09-08T13:30:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2586535-jio-platforms-and-nvidia-team-up-to-build-new-ai-cloud-infrastructure-in-india"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2586535-jio-platforms-and-nvidia-team-up-to-build-new-ai-cloud-infrastructure-in-india?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2586535-jio-platforms-and-nvidia-team-up-to-build-new-ai-cloud-infrastructure-in-india?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 35
   - title: "Nvidia isn't the only game in town. Investors advise against overlooking these other AI beneficiaries"
     excerpt: "Nvidia's quarterly report seemed to leave some investors questioning whether any serious challenger can challenge its well-protected throne, or catch up to speed building comparable chips able to power generative AI models. And the price action seemed to ..."
     publishedDateTime: 2023-09-04T13:22:00Z
@@ -136,6 +163,56 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 34
+  - title: "Nvidia partners with Reliance Jio for 2,000MW of AI data centers, Tata for AI cloud in India"
+    excerpt: "With Reliance, Nvidia will build AI infrastructure that is \"over an order of magnitude more powerful than the fastest supercomputer in India today,\" it claimed. Reliance will use"
+    publishedDateTime: 2023-09-08T15:48:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-partners-with-reliance-jio-for-2000mw-of-ai-data-centers-tata-for-ai-cloud-in-india/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 28
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/explore-dgx-h100-1cc-d.2e16d0ba.fill-1200x630.jpg"
+        width: 850
+        height: 448
+        isCached: true
+  - title: "Jio, Nvidia partner to build AI Cloud infrastructure in India"
+    excerpt: "Jio Platforms and Nvidia have partnered to build a cloud-based AI infrastructure in India. The collaboration aims to accelerate AI development efforts"
+    publishedDateTime: 2023-09-08T12:49:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/jio-nvidia-partner-to-build-ai-cloud-infrastructure-in-india/articleshow/103512248.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 19
+  - title: "Tata Partners With NVIDIA to Build Large-Scale AI Infrastructure"
+    excerpt: "TCS will utilize the AI infrastructure and capabilities to build and process generative AI applications. The NVIDIA partnership will further enable TCS in collaborating with its customers to drive reimagination with an AI-first approach. Additionally, TCS will upskill its 600,000-strong workforce leveraging the partnership."
+    publishedDateTime: 2023-09-08T14:28:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/09/08/9877690.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
+  - title: "Tata partners with Nvidia to build AI supercomputer, cloud infrastructure"
+    excerpt: "Tata Communications and Nvidia will develop an AI cloud in India aimed at providing critical infrastructure that enables computing's next lifecycle. Tata Communications' robust gl"
+    publishedDateTime: 2023-09-08T15:46:00Z
+    webUrl: "https://www.business-standard.com/companies/news/tata-partners-with-nvidia-to-build-ai-supercomputer-cloud-infra-123090801251_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 18
+  - title: "US chipmaker Nvidia, Reliance to develop a large AI language model for India"
+    excerpt: "Nvidia will provide computing power for the project, while Reliance will develop AI apps, including a local language app for farmers to access weather info and crop prices."
+    publishedDateTime: 2023-09-08T05:07:00Z
+    webUrl: "https://theprint.in/tech/nvidia-reliance-to-develop-a-large-ai-language-model-for-india/1752293/"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 16
   - title: "PM Modi, Nvidia CEO discuss India's rich potential in artificial intelligence"
     excerpt: "PM Modi in a post on X wrote, \"Had an excellent meeting with Mr. Jensen Huang, the CEO of @nvidia. We talked at length about the rich potential India offers in the world of AI. Mr. Jensen Huang was appreciative of the strides India has made in this sector and was equally upbeat about the talented youth of India.\""
     publishedDateTime: 2023-09-04T17:43:00Z

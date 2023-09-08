@@ -26,6 +26,17 @@ images:
     height: 800
     isCached: true
 
+related:
+  - title: "Lost in AI translation: growing reliance on language apps jeopardizes some asylum applications"
+    excerpt: "Translators say the US immigration system relies on AI-powered translations, without grasping the limits of the tools"
+    publishedDateTime: 2023-09-07T09:00:00Z
+    webUrl: "https://www.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 5
+
 secured: "oWQEwqxKKfEf5qPHqQjTd5JrlgFMHUsfHCWlHsuMxB2pIMU2ljfbbw+co3tlZlXUT9f7d5DHToQ0x5G2I+J+sPyNld/4ng2P628fCAmsh/TlDFDGjmWMyaagWRfx0WwjnNnF2U/tEz+lnKS8vZtq58xcMSt3Tvj9Y6MWcdFkDDHIOMsA8pML7NzQvDDcqv5REOa+yCnn+TepRamGVqdW0UajmNzm5tGjJtCXYogby4TffVCCNdUpvPyAxjVYyKKqFdYxCFFJxmsRRSlnjsJgH6qK099Z6sNo184+XxWySubRjNEqlBbvkt0GwAg5rfeT5WVDz9HK9YImmAl7tm9lwpGQRO7xti4yXO/7mmvF5Rc=;I3NxxFWIxKGcTOOidw9j2A=="
 ---
 

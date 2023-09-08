@@ -50,6 +50,15 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 66
+  - title: "SliceUp Selected to Participate in Startup Battlefield 200 at TechCrunch Disrupt 2023"
+    excerpt: "TechCrunch Disrupt 2023 will be held from Tuesday, September 19 - Thursday, September 21 at the Moscone Center in San Francisco. Startup Battlefield 200 is bringing together the foremost startups from around the globe in twelve different categories, giving them a platform to showcase their latest innovations to the tech world."
+    publishedDateTime: 2023-09-08T15:48:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/09/08/9877725.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "F0aZ1WYBh4ftf+idrTDH/06jksoYMqkpG0LZEEQJxc3wOSgPehfYz5UuMWlxYHUD4z9trUCF3jnk/FTMlpCIrWcFa3sOZywztMrZg4Fbr3hPO5wfG24hoagbVYEf0cURmP2nSJyQKXUUPDNHUEenl45iLAwRDdQOtXY/0yi9wwhU/e7TkwLk2GgIuBiRni5VzbLMS58lvlZI0vCcnuer1WA68k2hiTBSFGf0hvyEDyJEBExyX27Tw08M/RCiqEndrHuuxwO8RryHwY4cGJhNhtA32nlr5cfKgAoqAaozwghUO9xamyQD3ZszTS78/YDgd+nsmu+tM9Vt4KSWQcWNdgSIrGf9edPM8S3CchDBv/0=;KjcrR3MF9lUhw+61a+iCmA=="
 ---

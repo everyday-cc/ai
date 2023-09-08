@@ -69,15 +69,6 @@ related:
         width: 862
         height: 485
         isCached: true
-  - title: "Dutton’s vow for second Voice referendum is where Nationals have been for ‘some time’"
-    excerpt: "Nationals leader David Littleproud says Opposition leader Peter Dutton’s vow for a second referendum to give constitutional recognition if the Voice to Parliament fails is where the Nationals have been for “some time”."
-    publishedDateTime: 2023-09-03T20:06:00Z
-    webUrl: "https://www.theaustralian.com.au/news/duttons-vow-for-second-voice-referendum-is-where-nationals-have-been-for-some-time/video/7fb2867e33b0e2bdce67619e602d2ef5"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 0
   - title: "Peter Dutton says there is 'overwhelming support for constitutional recognition' after pitching second referendum if Voice fails"
     excerpt: "“I do think there is overwhelming support for constitutional recognition, it’s been the policy of the Liberal Party back to John Howard days.” Voters just did not support Prime Minister Anthony Albanese's Voice proposal because they do not want it in ..."
     publishedDateTime: 2023-09-06T12:10:00Z

@@ -64,6 +64,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How to Hire an Ideal Azure Cloud Engineer for your business?"
+    excerpt: "The annual growth rates of Google Cloud Platform (GCP) and Azure Management Services (AMS) are almost twice as high as those of Amazon Web Services (AWS), according to CB Insight. Microsoft statistics show that 95% of Fortune 500 businesses rely on and utilize Azure Managed Services."
+    publishedDateTime: 2023-09-08T11:15:00Z
+    webUrl: "https://securityboulevard.com/2023/09/how-to-hire-an-ideal-azure-cloud-engineer-for-your-business/"
+    ampWebUrl: "https://securityboulevard.com/2023/09/how-to-hire-an-ideal-azure-cloud-engineer-for-your-business/amp/"
+    cdnAmpWebUrl: "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2023/09/how-to-hire-an-ideal-azure-cloud-engineer-for-your-business/amp/"
+    type: article
+    provider:
+      name: Security Boulevard
+      domain: securityboulevard.com
+    quality: 59
+    images:
+      - url: "https://peoplactive.com/wp-content/uploads/2023/09/main-banner-1.jpg"
+        width: 1920
+        height: 671
+        isCached: true
 
 secured: "WkuNpt7hPqiEMUj6BNwIe6flaLCv1aPoUTOHhElfHxuEf52D0ckqrF+892vrHIeuTcEM0S71lUWYBj4Z0651MjKD5C1g8hOuh5/w/dqqUcvejxwVDDV8ON1fhd3tMvh+ayMEDRIrXGe0YVxpcFqRNg74yLd/toazOiwg47bxItacFbCzE4xhhaWVJnPrrxASR1FlSfKXoYFiPCIgYuuKmCO3p2zALRR4DMnAnCoz2F9Aigv0qHOJQGGC305AvpvUdIQJ3h4luJNZEj/NXba7KRuCEmoJivRk6JMYwR5x9zJMjbTplFiiH//fvTqYkCbNMvpF8KuI1E7aXKz3u6u6TST7R6GahRhBiGeVfbLsUYLZZwBmeTG48gd6nm8W06+LobRpp0+9i8EvFI+hP+8TqqwMsJzEbzELHYWFRVZ9QPx5erzTlx0PsTxIeYWpmTkT4VRaYH681B8JTjz4wFJlSIUfbYL0qDodgdzrMcDuZM9S4QgO/Xr3B/1Yye2UXd0k/S40zIejmdp+1QkQQTaz2A==;u7TICeIU2k8dYOF2g9QX9g=="
 ---

@@ -34,20 +34,6 @@ related:
       name: Medgadget
       domain: medgadget.com
     quality: 0
-  - title: "Global Self-Paced E-Learning Market Expand At A Cagr Of 17.12% To Reach Usd 839 Billion By 2032 I Say Insights X Herald"
-    excerpt: "With the omnipresence of smartphones and tablets, mobile learning has emerged as a dominant force. Learners increasingly seek the flexibility and convenience of accessing content from their mobile devices. This trend has expanded the reach of self-paced e-learning, enabling users to learn anytime, anywhere."
-    publishedDateTime: 2023-09-07T05:54:00Z
-    webUrl: "https://menafn.com/1107024234/Global-Self-Paced-E-Learning-Market-Expand-At-A-Cagr-Of-1712-To-Reach-Usd-839-Billion-By-2032-I-Say-Insights-X-Herald"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 0
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?733165"
-        width: 358
-        height: 250
-        isCached: true
   - title: "Conversational Systems Market Is Estimated To Be Us$ 55.9 Billion By 2029 And Is Anticipated To Register A Cagr Of 29.6% By Pmi"
     excerpt: "Conversational Systems are intelligent machines which understand language and conduct verbal or written conversation with consumer. Their objective is providing informed answers, assistance, help indirect channel interaction and possibly in real-time."
     publishedDateTime: 2023-09-07T19:26:00Z

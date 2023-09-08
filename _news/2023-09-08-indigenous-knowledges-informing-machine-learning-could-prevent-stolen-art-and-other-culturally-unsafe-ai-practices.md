@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Indigenous Knowledges Informing 'Machine Learning' Could Prevent Stolen Art And Other Culturally Unsafe Ai Practices"
-excerpt: "Artificial intelligence (AI) relies on its creators for training, otherwise known as“machine learning.” Machine learning is the process by which the"
-publishedDateTime: 2023-09-08T06:37:00Z
-originalUrl: "https://menafn.com/1107031722/Indigenous-Knowledges-Informing-Machine-Learning-Could-Prevent-Stolen-Art-And-Other-Culturally-Unsafe-Ai-Practices"
-webUrl: "https://menafn.com/1107031722/Indigenous-Knowledges-Informing-Machine-Learning-Could-Prevent-Stolen-Art-And-Other-Culturally-Unsafe-Ai-Practices"
+title: "Indigenous knowledges informing ‘machine learning’ could prevent stolen art and other culturally unsafe AI practices"
+excerpt: "There are many programs where people can generate art using AI. However, this comes with a risk of non-Indigenous people generating Indigenous art, which negatively affects Indigenous artists."
+publishedDateTime: 2023-09-08T05:25:00Z
+originalUrl: "https://theconversation.com/indigenous-knowledges-informing-machine-learning-could-prevent-stolen-art-and-other-culturally-unsafe-ai-practices-210625"
+webUrl: "https://theconversation.com/indigenous-knowledges-informing-machine-learning-could-prevent-stolen-art-and-other-culturally-unsafe-ai-practices-210625"
 type: article
 quality: 31
 heat: 31
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2023-09/08/TC_6de4fimage_story.jpg"
-    width: 960
-    height: 720
+  - url: "https://images.theconversation.com/files/540059/original/file-20230730-17212-1o1x0l.jpg?ixlib=rb-1.1.0&rect=0%2C313%2C4031%2C2015&q=45&auto=format&w=1356&h=668&fit=crop"
+    width: 1356
+    height: 668
     isCached: true
 
-secured: "4c6wokYhjvil/W4vI7UYmYCcDmSY5bSWuVDK9K7Az22MTk0g+vAlyw6BKfgHrW35nxR0t42znzCjr2gKOKljtTiHhLoYqmpiRYljfJQuH/YH4G406QyBVJe0VOkDn/V8l+5h781JdSS0Ejk2jULajTy/JSwKr4AS4vWeJ97k6dn8TM+OkTUqwJaZt9RKUdaDpBslpe/nRwB0J6uKNDYa03ABbSit1HUY/VP8xoXH+6y4LLb/JAFfw3hbBhXGdT8X+G5J/GcUxN+GXa73/a+BuqtUyumIOjwrNpcCN01E+Q3O7Ri4f2UT8oLN9L+qoAQ142nOjmK/SoDKg5Ee8BeouMsBjZmZGomxz3wYK0Ap21VLZidjn7CWyuvxDMD9ekDS9gYfUN/FfEirCpAg2VL056bzR7tX0u1z5ik/d+l3OEuClITEMCukmGtcTN+ORZQMNxpv9O6Z1mcOAq3V4w/FBklRywciRSCyWY8m7b0g9NNGA/ryOpo19ViLNQ9vVVI765EmSlyJzXkXBdjJ1Na2Vw==;qSqPBgZCKamh2OEb6Mglnw=="
+secured: "GF9lTxmhTXWoHFQBQR/HyzeErsD63Xq5BwQeSaJyYyk2iKKudFkRkq7EsN3w9PG/IyK9iK9ZPXVUCeiAgiU/C77wVItZJYOl9nWXCT/Lql1TNU7FNybbNHOJHGH5PRY9exTYmFyHWC+Fs8+pb+qeayxvHr4TFixUoWUHj2pVBwTFJAgXLCDZrgx1xIN0bQk1KGpUK+oNUn0gm7gyWZ/ZVY8KW3CUBilp1UhT6Cubn5ev6YCH5NYyiTJX78Ss9XkzQzhYn8M7yIGLRy1LFHNbN5+QtFMqZTs2W37V8cqeEykxHicdlpUsf0nAx3oCbX81MzsY0AyUO6+JVJlF5OeiT6tWB4QSKv+0kTQjiJ51cZo=;6W7BquUGknM4iD9UQs3whQ=="
 ---
 

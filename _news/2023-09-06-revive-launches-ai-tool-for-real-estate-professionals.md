@@ -52,6 +52,15 @@ related:
       name: The Hans India
       domain: thehansindia.com
     quality: 0
+  - title: "Sizzle AI for its AI-Powered Learning Assistant That Helps Students Solve Any Problem With Step-by-Step Guidance"
+    excerpt: "Sizzle is the free personalized app that uses the power of AI to help learners work through any problem, step by step. Rather than providing answers to problems outright, Sizzle guides students through each step, building problem-solving skills and a mastery of underlying concepts."
+    publishedDateTime: 2023-09-08T13:48:00Z
+    webUrl: "https://www.alleywatch.com/2023/09/sizzle-ai-ai-step-by-step-problem-solving-tutoring-app-students-jerome-presenti/"
+    type: article
+    provider:
+      name: alleywatch.com
+      domain: alleywatch.com
+    quality: 0
 
 secured: "zxZCxkKe4jTehpbsQnBNKGvs74JzvvgR448C6RX6eW/7RMoGh6M28U6vBtwbj6hmKIAt6Rn3pxOuYg20jteu/eUz+T64QH8uBRSBqdc+ffyWgGdHjjkSq91ZxcZugpjCxQZKM0S3M3MGeX0Nin/sxPiAar1dvgAbfwSG3Fx76Q6gyoizScgMjh8mKlsmmicT/9uqfDjwyBsjDRv6lTprQWYvQyG8frim/swbvMs6mtmYGzAJSeNXNLD1jg2ti22meGGFsNJF/TdQ4IvCzpTUiztsNwkYnOdALGW6UXyJbBamZVeugZ24CCo+0HPjT3icjV66CczC9mHaNKfYB++rhVUdd2zV1CAHSJr/eEQgvd4=;coAtPLK1Yir0VhHVtQRDrg=="
 ---

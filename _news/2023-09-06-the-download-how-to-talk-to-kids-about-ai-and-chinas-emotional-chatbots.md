@@ -296,6 +296,15 @@ related:
       name: The Daily Dot
       domain: dailydot.com
     quality: 4
+  - title: "What Does It ‘Feel’ Like to Be a Chatbot?"
+    excerpt: "For an AI to run amok, it doesn’t matter one iota whether it feels like anything. All that matters is that it has a goal that is not aligned with humanity’s long-term well-being. Whether or not the AI knows what it is trying to do,"
+    publishedDateTime: 2023-09-08T13:31:00Z
+    webUrl: "https://www.scientificamerican.com/article/what-does-it-feel-like-to-be-a-chatbot/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 4
 
 secured: "35uhH+EiYYTLcxNLTqCoDTWVsj1NjZmac55DVYz0vJZHOK/A7ngCsbv0YRZKQn6j0iz120mbhiZgPB3PcvyCSAqZ6ViPBp3jiid1yZ/adxBxjvgRemShVtopA/05ca+XRWQ426OW4w8T6Rku01gLF6HS1q2W/GPL/gIBpdgZ6fxyDShdQAPq/ONDf5CMFY98svs+O5CFpDNNAtTpvIBJabMW9scn7m6KZLyIpKmTaqM9VfxZoWarosRzirbVmGE49hVwvJK1q1HM56VbkaJF6KSm1WWzdgd8UQSHvinfqV/I1rOI6CUmeR1TiwuIUO7zlUf236TgI7oO594DZePlyRCG+u1I2JzS/Q2GQ4KjAxjcuEtSnkjFuHzHjGn2SRukYZhR9HXhunvCUVuObkeCJG1rpWuKVEj7J7cH+fZBULaZzGe1l0fVjxN40L7UafXK6aJYZDsv/3pwWDWMDIVtT6Q9rPLr5QsjYG3Zit+cOdGAKZVnKEk013cJaUQX1EjABL3JznQswpA9NQ+JRtiOhQ==;FY+TgdY5EOCuRpSjqk0ylQ=="
 ---

@@ -54,6 +54,15 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "The rise of AI in health care"
+    excerpt: "Artificial intelligence is rapidly gaining steam across the health care industry, bringing with it new risk-reward scenarios."
+    publishedDateTime: 2023-09-08T11:59:00Z
+    webUrl: "https://www.bizjournals.com/triangle/news/2023/09/08/uses-for-artificial-intelligence-in-health-care.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "PtIcTLHxHYCIsx1tMdg5qas/lOX8SS0IO4nb0dfuH4UveMx94KBHUnfeYI+jrBwcwFX/1Ohi61WGri8+pqp5xl/6xlUuf9Xmp1Jebj5PerjO1Te8l+Qc/G7sWBZ9PeqDJ+kLzSdflmTezIpsCoRrJeiSQ7xQlLoT8YkX+pyB0RyFt2AZdcG4UZxYdrEdLXQ/bLh2CaLNOIzeyfIh8QxXJMekM4+aachqZoJnCZlgI49QDZ9OKKQ0njsHR4/zY3n72ntCw8pVgNysaYuzBshDkKOiKs3dvlG8ilL72wsgz3iP6BawyEVSjRQpD3jXrvGfKwfAerxg2+j6fOjEkP727lT82i9HAAh3abPGCWL/r+Q=;qkADs0POhgNroL12BsbA8w=="
 ---

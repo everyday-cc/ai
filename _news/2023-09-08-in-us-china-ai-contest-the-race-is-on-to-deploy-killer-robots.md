@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/investigates/special-report/us-china-tech-
 webUrl: "https://www.reuters.com/investigates/special-report/us-china-tech-drones/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -43,7 +43,16 @@ related:
         width: 800
         height: 419
         isCached: true
+  - title: "SPECIAL REPORT-In U.S.-China AI contest, the race is on to deploy killer robots"
+    excerpt: "The United States and China have both tested swarms of AI-powered drones. Last year, the U.S. military released footage of troops training with drone swarms. Another video shows personnel at Fort Campbell, Tennessee, testing swarms of drones in late 2021. The footage shows a man wearing video game-like goggles during the experiment."
+    publishedDateTime: 2023-09-08T11:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/special-report-in-u.s.-china-ai-contest-the-race-is-on-to-deploy-killer-robots"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 60
 
-secured: "jiMLv5y0I5ddmLe3w+feg/d+4FuSeTyyYnDIfk/lnHhqGN3UKvd0/QVkw+0CF3gF5m6gxTuKNHFzstg0MeZVad4X2bS18FL6oEH4LfUsV484XxwbzsPE1HPLntHXZHIFw78VguyC3+3yvOaUfVKv/Fm16BXajwCiDu8sO85Cj0EHHZyQC3KoAQ3IeyqUZ9/V9GdH3ZbCJaoSizKge/OkVblKdXFMXv5wzPTl59siS+Lal3HNdgzhxRMxKIykLInfn+MH07jnga+svv6tnqcz/zeAfnU92Wv1/Ovrz1w9nRRFNMYxSi74R2Re4DoVbud9J2Wx+wEa6W+yu8hk3TA6J9XfxqTHEl5St4jmJiLNFx8=;hZ7qmUubgdZkOExNDkzetw=="
+secured: "R51hfwBefTEQaXReF3+289iBkCjnsX+fvt347oRt7ksf8hg//2ssYOB87crHBWuMoWeZEYcKzVzca9Kt07mp6OFodeolTBGsPrqTWVhUlJztNaWnJX22mta8reB2wGd4VkHm7KR4kicsZ61i2jo6EY29urG/eJdDfU2EGFs0wAw3pvtMGjO70NjzHkpsvHsAzzpWMnsTuZXWkhMPM1fqvFMaLOM85PICWE9zXFdpF1ARx+Z4C35CddIe8xzSrI/TAacJOILSGL7/sM4dc5I4hRMI/OJfDWxPdfANO2wzxoF0Lss31NoCnRCoqGn4YCoH7nHL7SXAFXFKsecAHjgcOErf9FqEyiR48r7a1zbK8a+besXWdYNK/pdf0EgtraM4JqEAjyxtVw8k192vLQDyjV5YY8v5feJn/JOgfReUUQhOasTwmau9n10U2UNbStuwgfo8n+189SeoitfeK/TUq3lyjWh9W8LqefFjXMz8jM5aRVk0v5JdQSrwiXNkohBJb2dFYfWnMIHYud9a4XGnVQ==;2cOwBwK/GHH9VOqrKSDWRg=="
 ---
 

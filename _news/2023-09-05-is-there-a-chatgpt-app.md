@@ -297,6 +297,15 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 15
+  - title: "What Does It ‘Feel’ Like to Be a Chatbot?"
+    excerpt: "For an AI to run amok, it doesn’t matter one iota whether it feels like anything. All that matters is that it has a goal that is not aligned with humanity’s long-term well-being. Whether or not the AI knows what it is trying to do,"
+    publishedDateTime: 2023-09-08T13:31:00Z
+    webUrl: "https://www.scientificamerican.com/article/what-does-it-feel-like-to-be-a-chatbot/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 4
 
 secured: "gwWKhBfyFGqgrZ8OHtNY8G3X5U6S3HhP5CEZM8T8UgOjfhB26wr0mSvFf45allAqeyXdUmpJ7XMnQKFAfRpDROfLrE4//mr34sNjI5bg00IM0kOYod25WEfDV3fo/G/kNzy2gOITXJMC9KFg9+FTu9hwK9QlJVJoSt+o4OdCYddnZSqjJhk/PazwOfbuJhzL8u1FLbFi6xdFBV0WtvAfnJSueI5YaKt4a8BCr5MhlHMYwnJK65OegcDlkZYPqrJTDg8KFzM9mlI5ZWtkfSO9ul7t3R1RAVAYN0kaBQaik4VG/27JvuAcXo3tJ7GoSSxmGQ3HF3BcQyr6PhxeicFYcuTYZrbCEWD7nTkeZsOoZKQ=;RUmnVZb/XPlB0KQ7THqF9Q=="
 ---

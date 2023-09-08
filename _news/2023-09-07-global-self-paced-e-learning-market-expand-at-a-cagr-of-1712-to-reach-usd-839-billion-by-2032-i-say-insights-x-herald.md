@@ -25,38 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Offshore Robotics Market Poised To Hit Us$ 4.8 Billion At A Cagr Of 10.5% By 2033 X Herald"
-    excerpt: "Artificial intelligence (AI) and machine learning are gaining prominence for data analysis and decision-making. Additionally, robotics are finding expanded applications in the maintenance and installation of offshore wind turbines and other renewable ..."
-    publishedDateTime: 2023-09-07T03:24:00Z
-    webUrl: "https://menafn.com/1107023532/Offshore-Robotics-Market-Poised-To-Hit-Us-48-Billion-At-A-Cagr-Of-105-By-2033-X-Herald"
+  - title: "Artificial Intelligence in Packaging Market to Surpass USD 5,375.28 Million by 2032"
+    excerpt: "Ottawa, Sept. 08, 2023 (GLOBE NEWSWIRE) -- The global artificial intelligence in packaging market size is estimated to reach around USD 4,004.47 million by 2029, According to Precedence Research. North America is estimated to maintain its dominance in the ..."
+    publishedDateTime: 2023-09-08T15:02:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/g34363484/artificial-intelligence-in-packaging-market-to-surpass-usd-5-375-28-million-by-2032"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34363484"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34363484"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 44
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 51
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_7.jpg?910373"
-        width: 296
-        height: 250
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "Catheter Market: Continuous Expansion Anticipated with a Predicted CAGR of 8.7% to Reach USD 43.63 Billion by 2032"
-    excerpt: "For instance, on April 13, 2022, researchers from the Massachusetts Institute of Technology’s Lincoln Laboratory unveiled an ultrasound tool guided by Artificial Intelligence (AI ... signals and administering therapy for the treatment of Ventricular ..."
-    publishedDateTime: 2023-09-05T10:25:00Z
-    webUrl: "https://www.medgadget.com/2023/09/catheter-market-continuous-expansion-anticipated-with-a-predicted-cagr-of-8-7-to-reach-usd-43-63-billion-by-2032.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 0
-  - title: "Conversational Systems Market Is Estimated To Be Us$ 55.9 Billion By 2029 And Is Anticipated To Register A Cagr Of 29.6% By Pmi"
-    excerpt: "Conversational Systems are intelligent machines which understand language and conduct verbal or written conversation with consumer. Their objective is providing informed answers, assistance, help indirect channel interaction and possibly in real-time."
-    publishedDateTime: 2023-09-07T19:26:00Z
-    webUrl: "https://menafn.com/1107028355/Conversational-Systems-Market-Is-Estimated-To-Be-Us-559-Billion-By-2029-And-Is-Anticipated-To-Register-A-Cagr-Of-296-By-Pmi"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 0
 
 secured: "lcRMyj7ZJz05dfqHXTtWG0thA+tt05x0bo16qgKBj7Eb7XZnYSVf5yvznC47X8p4dV2itlmYlzdoRolNW2mysVl53kZZ3emMZzhhL0cPBsaf6+FFGetxExvND0Ynwj7yWzZT4yy8h7sQHVvP2ArG3tjHHEKpEAX0JA1fJVtov9LhUAGUWx0P2mYow9Hs2sqyvna4Rb2sDSUPoeWqW1+pWf4wPym4o/tbgNUE+SoSYPjZ7TqG4M7ZUiEqI3bfPnAPzWmr9gWgz+0eJiNiPhmzDMjx0f2pJBIxdTsR6GwiVWY2p22tD6GHG4afHmhvsknkPNTosJIkxzjdIEiP+WLfJJ9+Qg54OqxTbSYjqQXI13g=;tCK4HR6Li2vkoOTf5YYJgg=="
 ---

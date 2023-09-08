@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/what-analyst-are-saying-abo
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-analyst-are-saying-about-the-future-of-generative-ai/"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -132,6 +132,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 19
+  - title: "The Download: combating covid, and the challenges of governing AI"
+    excerpt: "Deciding how to regulate AI is one of the biggest challenges facing politicians and experts alike. On September 12 we’re holding the second MIT Technology Review Roundtable: a 30-minute conversation with our writers and editors—and this one’s all about governing AI."
+    publishedDateTime: 2023-09-08T12:10:00Z
+    webUrl: "https://www.technologyreview.com/2023/09/08/1079233/the-download-combating-covid-and-the-challenges-of-governing-ai/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 17
 
 secured: "0dnd9AF+yuNk8Fv9wEIkUXk3x6C7aeB6WkpoOUUGQkQkJrtFRvq6L6miIw6TYU0gZbnPbnzH81T0PN8bCQ8Wt8tOCvvadFMGEqSLsGbKFP/2YLfgUBiWVt+TwHfxipPvXbvwhcXn/PJkclL5L/J9JIOrXljcYMoXw+lpDIlEm5z/rGCIV1T8NloRZy2Tfi6bwDOUhWdqGyI9+/M7jsKbOUWppZ9TbeR/IY5tawpf2t2EW1ZAdQS9gvoaPU3F8+96HW654S6OA6NLL09W3zbUxvaZ4KbPwp0XP7Uvsi/9jt1uCLxf4l+MjeM326fqRSTuSd63pVmqFKl4RwjZWwWcP4BLcReTQ2a93sopB6NbgeqEa2OrD5/CH6cdn8BffZgzHuKG/hr10ym2ZvB2IIthjUo2TzSgZLDH3nrNXKY4ZSOCYZBSx2g2PHSi+VDM9vHofBZ3/MLv7PExvRIVq27lJ56C/S6FisHzD/bPhy/CLJtdygfPERrfPmJhXGVAaiVYNVoAuQ3oEIDs+a7wfqjiMA==;58Bo8LT6jjJe2uhizntN+Q=="
 ---

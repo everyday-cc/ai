@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/california-joins-the-ai-regulation-fren
 webUrl: "https://www.pcmag.com/news/california-joins-the-ai-regulation-frenzy"
 type: article
 quality: 67
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -66,20 +66,6 @@ related:
       - url: "https://www.ciodive.com/imgproxy/A2J69zpCMgQaptSWvERjGTJUqgKmWsT0ccrh8tl2bEM/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0NjE0NDM3MTcuanBn.jpg"
         width: 770
         height: 435
-        isCached: true
-  - title: "State Legislatures Eye AI Regulation"
-    excerpt: "A growing number of states have enacted laws this year to study artificial intelligence (AI), ahead of possible legislative action to address expected threats to jobs, civil liberties, and property ri"
-    publishedDateTime: 2023-09-07T21:57:00Z
-    webUrl: "https://www.natlawreview.com/article/state-legislatures-eye-ai-regulation"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 39
-    images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/55596/AI%20Law%20gavel%20SMALL_0.jpg?itok=kp0Z5h9K"
-        width: 500
-        height: 500
         isCached: true
   - title: "Governor Gavin Newsom signs executive order to prepare California for progress of Artificial Intelligence."
     excerpt: "SANTA BARBARA, Calif.— Governor Gavin Newsom signed an executive order to prepare California for the progress of Artificial Intelligence. This technology has the potential to reshape our lives, for better or for worse. Newsom’s executive order aims to ..."

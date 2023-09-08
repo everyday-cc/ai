@@ -9,7 +9,7 @@ ampWebUrl: "https://theprint.in/theprint-valuead-initiative/fintech-outsourcing-
 cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/theprint-valuead-initiative/fintech-outsourcing-india-crafting-the-future-of-global-finance-with-tech-mastery/1747072/?amp"
 type: article
 quality: 53
-heat: 143
+heat: 163
 published: true
 
 provider:
@@ -111,6 +111,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Fintech Outsourcing India: CX, Data Security, and Compliance"
+    excerpt: "India, with its formidable prowess in IT and financial services, has emerged as a leading destination for fintech outsourcing. Leading the charge in bridging global businesses with India’s top fintech service providers is Cynergy BPO."
+    publishedDateTime: 2023-09-08T13:50:00Z
+    webUrl: "https://www.hindustantimes.com/brand-stories/fintech-outsourcing-india-cx-data-security-and-compliance-101694023544371.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 21
   - title: "Indian fintech firms using AI to detect money laundering: Kiya.ai MD Rajesh Mirjankar"
     excerpt: "Talking to ANI during the ongoing Global Fintech Fest 2023 in Mumbai, Rajesh Mirjankar, Managing Director of Kiya.ai, an innovative digital solutions service provider, said that investigation patterns of investigative agencies and government institutions have changed with technology transformations."
     publishedDateTime: 2023-09-07T00:16:00Z
@@ -137,6 +146,15 @@ related:
     provider:
       name: Mint
       domain: livemint.com
+    quality: 0
+  - title: "BIZCLIK MEDIA LAUNCHES SEPTEMBER EDITIONS OF FINTECH MAGAZINE & INSURTECH DIGITAL"
+    excerpt: "This month's edition features an extensive lead interview with, HSB Canada's Vice President Client Solutions and Innovation, Lasith Lansakara and VP, Head of Information Technology, Michael Scarbeau about the company's journey through almost 150 years of insurance transfomation."
+    publishedDateTime: 2023-09-08T15:27:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/09/08/9877716.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "uEZEo9synl2AUKBhEz/vCoXPkbb26RWZuJjvXCu62+Uu/oiuIPsgnWcQez+okCTHr0GhCM6m+my+O9EN15jzXmXdS7c1iQPHfWkVEbjdVA6Zt2ZcyrggZv9vWlAxsxFdKpblirc6HKT8qSXyXdT4+IyRW8bYwKLlQDfTcbQgKrBmQ51sPTIIhoOQpA1WYviCvHrYSjdmrxf+L/sqt5F6rHvVXibkYrqdFpS0ZXoRPQKzSqyW2DnMbwuTVdExi85Qv1eocULyQ8gtYoRqk5fvJ6cqFnGI5zJCH/Qo8lDjh7SSJH7AF6+m78kxi0zSZc/GwKJe6i6mdk44ww/yRo5vongKAjhqvM8Hw7lB2ezH5kXNsjPJNXRpy3iUPVhmaDxXDkqvVzYxXSlH1V1kq/GaCXhONWy+B/W6jHvGkOdl3sTmdHymaaI658WntQkWjlAol1J5a6vxtpfP2qZGSY89y3CQ9r16sySXXjDGSq2+gI6P/LJDnH2L4aTrc7SOgfBxu6VArWwuRahpjVbcu7LZoQ==;lYouEgak+C+t/ff3J1/mHw=="

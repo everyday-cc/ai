@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/09/04/intel-wants-to-beat-bias
 webUrl: "https://www.fool.com/investing/2023/09/04/intel-wants-to-beat-bias-ai-training-data/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Former Intel czar’s AI plans for India include data centres every 100 km"
+    excerpt: "From how one of his memos led to ‘propaganda’ about chip packaging continuing Moore’s Law to the fate of soft-knowledge jobs in the post-AI era, former Intel chief architect Raja Koduri opens up in a"
+    publishedDateTime: 2023-09-08T13:11:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/startup/former-intel-czars-ai-plans-for-india-include-data-centres-every-100-km-11336021.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 18
   - title: "Former Intel Exec Joins Untether AI as President to Drive Commercial Efforts in the Burgeoning AI Acceleration Market"
     excerpt: "View the full release here:  \"Untether AI has been growing at a rapid pace and Chris brings unique experience, growing world-leading chip businesses at the highest level,\" said Arun Iyengar, Untether AI CEO."
     publishedDateTime: 2023-09-05T16:45:00Z

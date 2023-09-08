@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/09/07/chatgpt-everything-you-need-to-kno
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/07/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
 type: article
 quality: 89
-heat: 309
+heat: 319
 published: true
 
 provider:
@@ -301,6 +301,15 @@ related:
     provider:
       name: The Daily Dot
       domain: dailydot.com
+    quality: 4
+  - title: "What Does It ‘Feel’ Like to Be a Chatbot?"
+    excerpt: "For an AI to run amok, it doesn’t matter one iota whether it feels like anything. All that matters is that it has a goal that is not aligned with humanity’s long-term well-being. Whether or not the AI knows what it is trying to do,"
+    publishedDateTime: 2023-09-08T13:31:00Z
+    webUrl: "https://www.scientificamerican.com/article/what-does-it-feel-like-to-be-a-chatbot/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
     quality: 4
 
 secured: "1FrBeh1+0ypxVX0MDwXBPsZdNW31r0GlGmfAKvKbe+zuEz3LudoXGYFuubQYzTm4x8BW0XCGlapxk9YZQUbvTEy4pT6Vc9S+oRAsc6UCVrlLpSo97hCRgOXH6H2L4NYhRKlznvJQI+98Niced5aHCcSpfTFAS57ryGk0YExCbYMo3/GM8pp+jceWB1FpnHygUZbTXLFZJy299WSiw+pRUohhDXbfQpVUN3/5ERKVryJP1FKcMUtw/fqZDPxvWYzTkzDH+l9aMdLn7WoP2K7hifnsIJ7RQ+TFwgRwaomgOMuiLQYBhjkAUu5xnPw7G/ciPcsFIe+ac/G5HWe+kUjds8+2VKUAMOBKBKm66zlfjwbaMTxFBon5ZAXTvelVeTNMoKdrE6YgDCFqe88S0x7Q8mckQp3HqzLm4rMr/hHMh+TJy8ztb5Z0aw111rlUE73E9sRmV30Xme97s413OVnCGaBzH88OVT6Ms1TkgzNLWIO6UHwz1/535WW5PtKDseUb5X9IDuOYmYagxPgDpeZ1dw==;YG467pFTbdCNzquhWv6k5A=="
