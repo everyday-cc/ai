@@ -60,6 +60,22 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 57
+  - title: "AI startup Imbue tops $1 billion valuation after funding from Nvidia"
+    excerpt: "Kanjun Qiu, co-founder and CEO of Imbue, previously launched Sourceress, an AI recruiting startup, and Ember Hardware, a virtual reality startup. The company is a rare AI unicorn, or startup with a valuation of more than $1 billion, to have a woman CEO."
+    publishedDateTime: 2023-09-08T01:55:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/ai-startup-imbue-tops-1-billion-valuation-after-funding-from-nvidia-71694110213169.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ai-startup-imbue-tops-1-billion-valuation-after-funding-from-nvidia-71694110213169.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-startup-imbue-tops-1-billion-valuation-after-funding-from-nvidia-71694110213169.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 57
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/09/08/1600x900/Nvidia_1694137934885_1694137935126.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "The AI market will be worth $600 billion, Nvidia exec says"
     excerpt: "According to Das, the total addressable market for AI will consist of $300 billion in chips and systems, $150 billion in generative AI software, and $150 billion in omniverse enterprise software. These figures represent growth over the \"long term,\" Das said, though he did not specify a target date."
     publishedDateTime: 2023-09-05T23:56:00Z

@@ -44,6 +44,22 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 57
+  - title: "AI startup Imbue tops $1 billion valuation after funding from Nvidia"
+    excerpt: "Kanjun Qiu, co-founder and CEO of Imbue, previously launched Sourceress, an AI recruiting startup, and Ember Hardware, a virtual reality startup. The company is a rare AI unicorn, or startup with a valuation of more than $1 billion, to have a woman CEO."
+    publishedDateTime: 2023-09-08T01:55:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/ai-startup-imbue-tops-1-billion-valuation-after-funding-from-nvidia-71694110213169.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ai-startup-imbue-tops-1-billion-valuation-after-funding-from-nvidia-71694110213169.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-startup-imbue-tops-1-billion-valuation-after-funding-from-nvidia-71694110213169.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 57
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/09/08/1600x900/Nvidia_1694137934885_1694137935126.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Nvidia, Horizon Robotics account for 80% of self-driving chips enabling NOA in China"
     excerpt: "China-based autonomous driving chip developer Horizon Robotics is showcasing solutions for smart driving and advanced driver assistance systems (ADAS) powered by its Journey chip series at IAA Mobility 2023."
     publishedDateTime: 2023-09-06T06:02:00Z

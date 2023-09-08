@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-08-microsoft-says-it-will-defend-customers-of-its-ai-copilots-from-copyright-lawsuits.md",
+      "title": "Microsoft says it will defend customers of its AI Copilots from copyright lawsuits",
+      "excerpt": "The tech giant is integrating many of its biggest products with generative AI, which scoops up existing content to create new material, potentially putting customers in legal jeopardy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3233809/microsoft-says-it-will-defend-customers-its-ai-copilots-copyright-lawsuits",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3233809/microsoft-says-it-will-defend-customers-its-ai-copilots-copyright-lawsuits",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/09/08/10c71d6a-cc47-4b03-9730-1a8be73eed4c_9b7595cc.jpg?itok=6bBTINm9&v=1694140957",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-07T19:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-07-ibm-expands-cloud-security-and-compliance-center.md",
       "title": "IBM Expands Cloud Security and Compliance Center",
       "excerpt": "IBM added features around data protection for workloads and AI data repositories to its Cloud Security and Compliance Center.",
@@ -63,7 +115,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-to-reveal-ai-plans-for-onedrive-in-october-event/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 254,
+      "heat": 264,
       "tags": null,
       "images": [
         {
@@ -220,7 +272,7 @@
       "originalUrl": "https://time.com/6310076/elon-musk-ai-walter-isaacson-biography/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -314,49 +366,6 @@
         "AI",
         "AI Hardware",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-microsoft-and-abu-dhabis-g42-forge-strategic-ai-and-cloud-partnership.md",
-      "title": "Microsoft and Abu Dhabi's G42 Forge Strategic AI and Cloud Partnership",
-      "excerpt": "G42's CEO Peng Xiao highlighted the significance of the partnership in driving substantial technological progress across critical sectors. The company's diverse portfolio includes AIQ, a joint venture with Abu Dhabi National Oil Co., which leverages AI and machine learning to enhance processes for Adnoc and the broader industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/23/09/34240520/microsoft-and-abu-dhabis-g42-forge-strategic-ai-and-cloud-partnership",
-      "originalUrl": "https://www.benzinga.com/news/23/09/34240520/microsoft-and-abu-dhabis-g42-forge-strategic-ai-and-cloud-partnership",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/09/05/azure-rainer_stropek_via_flickr.jpg?width=1200&height=800&fit=crop",
-          "width": 799,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34240520",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34240520",
-      "publishedDateTime": "2023-09-05T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     },
     {

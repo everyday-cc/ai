@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-07-bank-of-america-securities-remains-a-sell-on-c3ai-ai.md",
+      "title": "Bank of America Securities Remains a Sell on C3ai (AI)",
+      "excerpt": "In a report released yesterday, Bradley Sills from Bank of America Securities reiterated a Sell rating on C3ai (AI – Research Report),",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/bank-of-america-securities-remains-a-sell-on-c3ai-ai-1032612242",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/bank-of-america-securities-remains-a-sell-on-c3ai-ai-1032612242",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-07T03:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-09-07-good-housing-policy-still-depends-on-human-not-artificial-intelligence.md",
+      "title": "Good Housing Policy Still Depends On Human Not Artificial Intelligence",
+      "excerpt": "It’s time for a post on artificial intelligence (AI) and affordable housing. The topic is interesting but AI comes with a great deal of hype. First of all, based on my experience with OpenAI’s free version of ChatGPT,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rogervaldez/2023/09/07/good-housing-policy-still-depends-on-human-not-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/rogervaldez/2023/09/07/good-housing-policy-still-depends-on-human-not-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ec10923ce9ac868b4af6bf/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rogervaldez/2023/09/07/good-housing-policy-still-depends-on-human-not-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rogervaldez/2023/09/07/good-housing-policy-still-depends-on-human-not-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-09-07T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-07-musk-once-tried-to-stop-googles-deepmind-acquisition-in-2014-saying-the-future-of-ai-shouldnt-be-controlled-by-larry-page.md",
       "title": "Musk once tried to stop Google's DeepMind acquisition in 2014, saying the future of AI shouldn't be controlled by Larry Page",
       "excerpt": "Walter Isaacson, a writer who spent three years trailing Musk, recounted the background of Musk and Page's conversation in his forthcoming biography, 'Elon Musk.'",
@@ -1138,100 +1233,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-adapting-ai-or-adieu-the-new-evolutionary-rule-and-five-ways-to-embrace-ai.md",
-      "title": "Adapting AI Or Adieu: The New Evolutionary Rule And Five Ways To Embrace AI",
-      "excerpt": "To conclude, it's crucial to remember that AI isn't our competition; it's our co-pilot. If history teaches us anything, it's that humans have an innate ability to adapt and thrive. Whether it’s a switchboard, a dial-up modem or a sophisticated neural network, those willing to embrace change will not only survive but flourish.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2023/09/06/adapting-ai-or-adieu-the-new-evolutionary-rule-and-five-ways-to-embrace-ai/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2023/09/06/adapting-ai-or-adieu-the-new-evolutionary-rule-and-five-ways-to-embrace-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64f760bf6c0c5f8718dcb9e7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2023/09/06/adapting-ai-or-adieu-the-new-evolutionary-rule-and-five-ways-to-embrace-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/09/06/adapting-ai-or-adieu-the-new-evolutionary-rule-and-five-ways-to-embrace-ai/amp/",
-      "publishedDateTime": "2023-09-06T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-robots-manipulate-objects-with-their-whole-bodies-with-ai-assistance.md",
-      "title": "Robots Manipulate Objects with Their Whole Bodies with AI Assistance",
-      "excerpt": "Imagine you want to carry a large, heavy box up a flight of stairs. You might spread your fingers out and lift that box with both hands, then hold it on top of your forearms and balance it against your chest,",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/robots-manipulate-objects-with-their-whole-bodies-with-ai-assistance/",
-      "originalUrl": "https://indiaeducationdiary.in/robots-manipulate-objects-with-their-whole-bodies-with-ai-assistance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2023/09/MIT-Manipulation-Planning-01-press_0.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/robots-manipulate-objects-with-their-whole-bodies-with-ai-assistance/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/robots-manipulate-objects-with-their-whole-bodies-with-ai-assistance/",
-      "publishedDateTime": "2023-09-06T04:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

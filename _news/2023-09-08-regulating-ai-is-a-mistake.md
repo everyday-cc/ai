@@ -6,8 +6,8 @@ publishedDateTime: 2023-09-08T00:10:00Z
 originalUrl: "https://www.michigandaily.com/opinion/regulating-ai-is-a-mistake/"
 webUrl: "https://www.michigandaily.com/opinion/regulating-ai-is-a-mistake/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.michigandaily.com/wp-content/uploads/2023/09/AI.jpg"
@@ -35,6 +36,6 @@ related:
       domain: it-online.co.za
     quality: 19
 
-secured: "cD/G4DWgmE9DL2YFTSEhqjnI7Ubcwtw3PECogsWuPMkRYUExz89nbT+aMJKyX3zkbmuqOlz8ccgsB91O4OQK16V1qFO3iJ5lnwAWpMEoeLbb2mKm77XAhmI01rqHlFBFGqXkogmC27nT0OkkebY1JWNtTIAGNa6QcoJwFXlOXkOT8NZnqn4ytxhDyQzoujgqSXpMsC7t3OdyUDg2ihbraJWmSoGdyG7oO30+iW6OcwX9leejFvqR65LUGrhk6XkqAQFJx+AQFkBm/i9yBcrbKD4TLBZ/ArfoMUxXv7bs4CCTf/nRSJ0Ne0kTNFPlCK+bXKfilt29tUYLWvslzy7fWI5rlpCDa8Z8lt+ByUwUNq0=;+ftlANP/q+v+zqGFHwMLhw=="
+secured: "2anlpPkJud0hL7pVKzZ/skAjHUBFoWVOwTA7UTKN3GGAUMqYkky0ccQjuxQpvh5DaceVu5WEsp0LK7mKCKwlADe8NMQgaqXVTQZrLW46Ii20fLy4KYHxhgv3bwaKOaTz3ueuQMG2v6JOeGkPbtZZtje4V2pMzDxiN3O4KKZLEVUjBAwdlKwDtTEYNssI1YYNt53rAFW59aJD/AobGjGE9vAvf7czsez9XUJy1Yl1aOi1KrrE0IC8GE0ov1rMWu8Lng7diy7ZmMaihRMV4QKVdAPA3GwM1aUF1Jw7GJez4OtHnmhmqj85qSoxykUKkb/2wCrBtaZ46mstrEpB3MI7xPBmsZbGRLX1bGi6LH3NVVwVKuXtJh0nrLV1ulOgi32ypF01Zz/XPF75AAzVURSpzkzEH3RoLpk9CBz0G83ox4U3qujTLxBYra+yTEXW6HB+ztFx9M6AUvuYTn5e1D5Ex3sSj7GIpOth64PkKKKxGcqd2ed0jaM+yu2SUpqd+UvhzjoMwt/Si3S13SiiXGz8jA==;nHmjKUVX6qubtgYvRXS+3A=="
 ---
 

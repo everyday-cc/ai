@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/news/ai-firm-brand-engagement-network-20455242
 webUrl: "https://www.aol.com/news/ai-firm-brand-engagement-network-204552421.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI firm Brand Engagement Network to go public via SPAC deal"
+    excerpt: "NEW YORK, Sept 7 (Reuters) - Artificial intelligence startup Brand Engagement Network (BEN ... The popularity of ChatGPT has led to a flurry of investments in AI-focused ventures and startups, even as the wider funding environment remains challenging."
+    publishedDateTime: 2023-09-08T02:38:00Z
+    webUrl: "https://www.reuters.com/markets/deals/ai-firm-brand-engagement-network-go-public-via-spac-deal-sources-2023-09-07/?ref=biztoc.com"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://s3.amazonaws.com/arc-authors/reuters/99b92629-ba48-4a73-9255-820b7f606c46.png"
+        width: 255
+        height: 255
+        isCached: true
   - title: "Boston AI startup is the latest tech company to go public, via SPAC"
     excerpt: "A Boston company that bills itself as an \"industrial generative AI software company,\" has found its way towards the public markets — one of just a few this year to do so."
     publishedDateTime: 2023-09-07T10:21:00Z

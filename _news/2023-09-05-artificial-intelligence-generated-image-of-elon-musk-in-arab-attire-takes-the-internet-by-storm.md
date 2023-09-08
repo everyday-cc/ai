@@ -48,15 +48,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Google's search for an AI future as it turns 25"
-    excerpt: "Google turns 25 this month (I'll have a few more candles on my cake) - and finds itself in a tech landscape that has changed dramatically since founders Larry Page and Sergey Brin started it in 1998."
-    publishedDateTime: 2023-09-03T09:11:00Z
-    webUrl: "https://www.daily-sun.com/post/710063/Googles-search-for-an-AI-future-as-it-turns-25"
-    type: article
-    provider:
-      name: Daily Sun
-      domain: daily-sun.com
-    quality: 19
   - title: "With AI, future of hearing aids might include language translation"
     excerpt: "We hear a lot of headlines about concerns over artificial intelligence and what it might mean for the future. But it's not all bad: Consider hearing loss.Friendly AI could be"
     publishedDateTime: 2023-09-05T18:32:00Z

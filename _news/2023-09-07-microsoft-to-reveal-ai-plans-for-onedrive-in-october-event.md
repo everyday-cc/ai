@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-to-reveal-ai-plan
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-reveal-ai-plans-for-onedrive-in-october-event/"
 type: article
 quality: 104
-heat: 254
+heat: 264
 published: true
 
 provider:
@@ -108,6 +108,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/2ed80d18-1ffd-42d9-9777-73abfcde866a/2a6b44b0-ca46-43fd-817a-90d763c7a490/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "China using AI to sway US voters, alleges Microsoft"
+    excerpt: "A Chinese embassy spokesperson in Washington said that accusations of China using AI to create fake social media accounts were “full of prejudice and malicious speculation” and that China advocates for the safe use of AI."
+    publishedDateTime: 2023-09-08T01:34:00Z
+    webUrl: "https://www.dawn.com/news/1774695"
+    type: article
+    provider:
+      name: Dawn
+      domain: dawn.com
+    quality: 56
+    images:
+      - url: "https://i.dawn.com/large/2023/09/080817285c66adf.jpg?r=081734"
+        width: 800
+        height: 480
         isCached: true
   - title: "Microsoft expands UAE's G42 partnership to include cloud, AI tools"
     excerpt: "\"With data privacy, security, and compliance as our core priorities, we have a unique opportunity to help organizations responsibly innovate,\" Microsoft Chief Commercial Officer Judson Althoff said"

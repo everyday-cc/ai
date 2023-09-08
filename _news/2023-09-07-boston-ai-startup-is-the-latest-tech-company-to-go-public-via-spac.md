@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "AI firm Brand Engagement Network to go public via SPAC deal"
+    excerpt: "NEW YORK, Sept 7 (Reuters) - Artificial intelligence startup Brand Engagement Network (BEN ... The popularity of ChatGPT has led to a flurry of investments in AI-focused ventures and startups, even as the wider funding environment remains challenging."
+    publishedDateTime: 2023-09-08T02:38:00Z
+    webUrl: "https://www.reuters.com/markets/deals/ai-firm-brand-engagement-network-go-public-via-spac-deal-sources-2023-09-07/?ref=biztoc.com"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://s3.amazonaws.com/arc-authors/reuters/99b92629-ba48-4a73-9255-820b7f606c46.png"
+        width: 255
+        height: 255
+        isCached: true
   - title: "AI firm Brand Engagement Network to go public via SPAC deal -sources"
     excerpt: "Artificial intelligence startup Brand Engagement Network (BEN) has agreed to go public through a merger with a blank check acquisition company in a deal valuing the combined company at $358 million, according to people familiar with the matter."
     publishedDateTime: 2023-09-07T23:45:00Z

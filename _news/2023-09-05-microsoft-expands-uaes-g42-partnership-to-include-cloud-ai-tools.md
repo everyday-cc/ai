@@ -115,6 +115,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "China using AI to sway US voters, alleges Microsoft"
+    excerpt: "A Chinese embassy spokesperson in Washington said that accusations of China using AI to create fake social media accounts were “full of prejudice and malicious speculation” and that China advocates for the safe use of AI."
+    publishedDateTime: 2023-09-08T01:34:00Z
+    webUrl: "https://www.dawn.com/news/1774695"
+    type: article
+    provider:
+      name: Dawn
+      domain: dawn.com
+    quality: 56
+    images:
+      - url: "https://i.dawn.com/large/2023/09/080817285c66adf.jpg?r=081734"
+        width: 800
+        height: 480
+        isCached: true
   - title: "Microsoft Partners With G42 To Strengthen Cloud, AI Services In UAE"
     excerpt: "Microsoft aims to add more than $39 billion and about 100,000 jobs to the UAE economy over the next four years."
     publishedDateTime: 2023-09-06T11:23:00Z

@@ -106,6 +106,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "China using AI to sway US voters, alleges Microsoft"
+    excerpt: "A Chinese embassy spokesperson in Washington said that accusations of China using AI to create fake social media accounts were “full of prejudice and malicious speculation” and that China advocates for the safe use of AI."
+    publishedDateTime: 2023-09-08T01:34:00Z
+    webUrl: "https://www.dawn.com/news/1774695"
+    type: article
+    provider:
+      name: Dawn
+      domain: dawn.com
+    quality: 56
+    images:
+      - url: "https://i.dawn.com/large/2023/09/080817285c66adf.jpg?r=081734"
+        width: 800
+        height: 480
+        isCached: true
   - title: "Microsoft expands UAE's G42 partnership to include cloud, AI tools"
     excerpt: "\"With data privacy, security, and compliance as our core priorities, we have a unique opportunity to help organizations responsibly innovate,\" Microsoft Chief Commercial Officer Judson Althoff said"
     publishedDateTime: 2023-09-05T14:10:00Z
@@ -211,6 +225,6 @@ related:
       domain: bizjournals.com
     quality: 27
 
-secured: "+TMDkqF1NjUmiR0/iuIZ5hIZbPvAsKxx/GrFVF7uzuhGRcmKrq2KdhFaBWyRmzGnAkOB7UIj61IAX7BSg9xHkQGw6XfNqa3D0u3AlUpo7Y6c5skT4n/aPhglZrDhXF0fuHi3FFXx+ow+B0oDaBwFRS1ECIWr+XbqBSI8nEdAY+O/9JNQ7NI+fSlqVriZO/dKIzUZ04CFr76kW0JwXIO2Sts5og7YP0pgL7PiMT5hUKGFQQaKJPeAMvi9BTZPYIvpMLLjT0YavDh66Vk+92o1yoZPGgssL0NMd0PTYX3iv1rIYxuuTeDWCrWfDw+kwlb5QhtXN+28HPAPKNiEGGzKz2OoozSzOY7v0AGvVuHrbHc=;2BZDPdWsyqyt9vUjeRX2ig=="
+secured: "AcOswWGHf3rKGZ/eQcysz2UCP5lACHJWNkWKSLscWCX0bHgTrtKhg6h9xY/OdGQr8dszllTdFNxwiFtXts4ayBIcjKhkFMWYIliTaQSYiTAkLVcnfxAWUomi+etJcoq2kUpBWB0JCyM9ic5mTQFwrzfqCPxCtn09ippXCiShkTO1trRNvqw93MBplUHhHCJfePXFj3IJIsDMpoQEnxPpXTLNFeHr4L8HCNLMq2RvD9Q++VfmuW2q/EnDWKul1g0YtBKfM1x/owVg03rvge6+C0xBNZR06/ukleDkupHDA8vLkfxXEN0ivST2n2++W9xEwH0+MGBniCfpEqoagUYjGd94cR7nTWhWcpB8/5aCHfc7wceqIyKOG//yFAczTNTysVtJSwy7EfeJgTmVJr4Xfc2emfU3uEhrCjlu6hOndIA+J46SMxAbdzHrGGOgQWoCZtAJQUp1wnuqZ0U/c1NzD90M9o0lSy7yLjnc+/BGNCmZbxVo331GptEPpb9SZJH9yJTvyooYk02bNFGiu1hJNQ==;KjFbX4uvOFIs3kuLl9rJBA=="
 ---
 

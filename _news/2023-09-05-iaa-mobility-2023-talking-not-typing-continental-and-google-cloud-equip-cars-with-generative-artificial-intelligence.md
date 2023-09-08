@@ -143,6 +143,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "How Google Cloud is helping Culture Amp and others be AI-assisted"
+    excerpt: "It is providing the infrastructure and solutions that make it easier for organisations to build and use generative AI at scale."
+    publishedDateTime: 2023-09-08T02:00:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/focus/how-google-cloud-helping-culture-amp-and-others-be-ai-assisted"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 19
 
 secured: "BEsCInGA/X2GLat8AvG4fLJz60V8AoPlsKc/P+ZQIGBzFLggfDgCKFLNJiB8sxfQ/akNNTphzB1kC3GgZrJGz/lMf/SeEVZKmz929Ze4THT8ZyKKNgCUzCSA/BcTx3LWKZGoMsNLAzwUcgOziWaLRFSKne13reYkcjlMu1DCNRI1c4hf03x2+0iasnVnDnVcomBvSTRafXmnRFOTvHcU58cmSxVifaYQaZSNpFOTQG4DW3NQ7Fh7k7cux8K1BQzUM56CBK9czDBN5ugb+NAkVBg+FCPj2jXxenLTZtUrnhzDLcNy0t0k9Go/DOoHmzytF4bsyvyxi8Byk5gd4UscPKCFN5QvMO5DwLa0KkOCqGeem8Bo0UAgCwOX42wy8+MKp9pJtCsk8lZYY2ttfl32G1kND4Jay76KpMlhhjW/QC5MVyy6Z8f/+vVCDRWibGIYcGnk2h7gAnPsziwJOKMTX2P7e/oYZo5VPiZty8g1Ar+TgeWtpYiKafa6+M1Dnr0sDTIiUfXYEgHSVA+Bfqi79A==;JKEAYCpFHSGw/gnFTnOuDg=="
 ---

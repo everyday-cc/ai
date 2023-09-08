@@ -1,58 +1,144 @@
 ---
 category: news
-title: "AI Startup Imbue Tops $1 Billion Valuation After Funding from Nvidia"
-excerpt: "Imbue is focused on building custom AI agents capable of reasoning, with the goal of making users more productive."
-publishedDateTime: 2023-09-07T17:33:00Z
-originalUrl: "https://www.bloomberg.com/news/articles/2023-09-07/ai-startup-imbue-tops-1-billion-valuation-after-funding-from-nvidia"
-webUrl: "https://www.bloomberg.com/news/articles/2023-09-07/ai-startup-imbue-tops-1-billion-valuation-after-funding-from-nvidia"
+title: "AI startup Imbue tops $1 billion valuation after funding from Nvidia"
+excerpt: "Kanjun Qiu, co-founder and CEO of Imbue, previously launched Sourceress, an AI recruiting startup, and Ember Hardware, a virtual reality startup. The company is a rare AI unicorn, or startup with a valuation of more than $1 billion, to have a woman CEO."
+publishedDateTime: 2023-09-08T01:55:00Z
+originalUrl: "https://tech.hindustantimes.com/tech/news/ai-startup-imbue-tops-1-billion-valuation-after-funding-from-nvidia-71694110213169.html"
+webUrl: "https://tech.hindustantimes.com/tech/news/ai-startup-imbue-tops-1-billion-valuation-after-funding-from-nvidia-71694110213169.html"
+ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ai-startup-imbue-tops-1-billion-valuation-after-funding-from-nvidia-71694110213169.html"
+cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-startup-imbue-tops-1-billion-valuation-after-funding-from-nvidia-71694110213169.html"
 type: article
-quality: 47
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg L.P.
-  domain: bloomberg.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Hindustan Times Tech
+  domain: hindustantimes.com
 
 topics:
   - AI
 
-related:
-  - title: "The Power Of Causal Models In Moving From Weak To Strong AI"
-    excerpt: "Businesses need to employ a system thinking approach in which causal modeling is the foundation for AI, allowing them to continue to stay on the bleeding edge."
-    publishedDateTime: 2023-09-07T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/07/the-power-of-causal-models-in-moving-from-weak-to-strong-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/07/the-power-of-causal-models-in-moving-from-weak-to-strong-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/07/the-power-of-causal-models-in-moving-from-weak-to-strong-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/621f7b036e1c008edddcafb7/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The chilling rise of AI scams"
-    excerpt: "Criminals are cloning voices and making calls to trick victims into sending them money. How can they be stopped?"
-    publishedDateTime: 2023-09-04T01:00:00Z
-    webUrl: "https://www.theguardian.com/news/audio/2023/sep/04/the-chilling-rise-of-ai-scams-podcast?ref=upstract.com"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 37
-    images:
-      - url: "https://i.guim.co.uk/img/media/fb0e197e035498657dc5efe2965f5e11dec0f640/0_128_5172_3105/master/5172.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c6d1bbe4de5d8ff97c5f41ca05280be5"
-        width: 1200
-        height: 630
-        isCached: true
+images:
+  - url: "https://images.hindustantimes.com/tech/img/2023/09/08/1600x900/Nvidia_1694137934885_1694137935126.jpg"
+    width: 1600
+    height: 900
+    isCached: true
 
-secured: "cgolcmniCe8bp0gvaY9f/LdsqdrNUICLkurPmA5PH5PYDqDKD3P2I1yX1MdOhsXgIB0wf5qmLII587d0QDf7aHiWsFxayZpm3iKjBqpr9Qrs3HygyFUDAdiW4RidmecPcBoXcgJgMbYFU+BQX30JgN48lxOuTLWxU6hYsRmOqAsJ48aRtcF8w8EgXgxbmANmO/10JOTVaKiI/T2fiIbj+0HCZxB8O4SpfmbMT2I2rdFLy29qNh+kLOrQS1i5Nl/gEyfHltPMffnm0GHCX/LpJuvPJVylECACiogyXecOOSHGBnYRT1Ww/7t4b8cqnsxqxkU3jPV8GjXfD/M9m4Rr/kyFTqoq3YLD83+bTdM4q3M=;kYEQobBgJosZ6Bi6I2gMhQ=="
+related:
+  - title: "Nvidia CEO Heads to India. It’s a Sign of the Country’s AI Chip-Making Ambitions."
+    excerpt: "Nvidia NVDA –1.71% CEO Jensen Huang is a man in demand and his movements bear watching. His latest meeting with India’s Prime Minister Narendra Modi could be a clue to the hopes of making India a new chip-..."
+    publishedDateTime: 2023-09-05T09:18:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-stock-ceo-jensen-huang-india-modi-chip-manufacturing-72345daf"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-ceo-jensen-huang-india-modi-chip-manufacturing-72345daf"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-ceo-jensen-huang-india-modi-chip-manufacturing-72345daf"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 69
+    images:
+      - url: "https://images.barrons.com/im-231723/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "1 Top Chip Stock Ready to Ride Nvidia's AI Tailwinds Higher"
+    excerpt: "(up more than 232%) since the beginning of the year. For the most recent quarter, Nvidia racked up $13.51 billion in revenue, more than doubling last year's figure and setting a new second-quarter company record."
+    publishedDateTime: 2023-09-05T20:23:00Z
+    webUrl: "https://www.nasdaq.com/articles/1-top-chip-stock-ready-to-ride-nvidias-ai-tailwinds-higher"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
+  - title: "Best Artificial Intelligence (AI) Stock to Buy: Nvidia Stock vs. Snowflake Stock"
+    excerpt: "Fool.com contributor Parkev Tatevosian compares Nvidia (NVDA-1.71%) and Snowflake (SNOW 0.15%) to determine which stock is better for investors looking to capitalize on the AI trend. *Stock prices used were the afternoon prices of Sept. 2, 2023. The video ..."
+    publishedDateTime: 2023-09-04T19:24:00Z
+    webUrl: "https://www.fool.com/investing/2023/09/04/best-artificial-intelligence-ai-stock-to-buy-nvidi/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 57
+  - title: "Nvidia, Horizon Robotics account for 80% of self-driving chips enabling NOA in China"
+    excerpt: "China-based autonomous driving chip developer Horizon Robotics is showcasing solutions for smart driving and advanced driver assistance systems (ADAS) powered by its Journey chip series at IAA Mobility 2023."
+    publishedDateTime: 2023-09-06T06:02:00Z
+    webUrl: "https://www.digitimes.com/news/a20230906PD205/china-horizon-robotics-adas-automotive-ic.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 49
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230906pd205_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
+  - title: "The AI market will be worth $600 billion, Nvidia exec says"
+    excerpt: "According to Das, the total addressable market for AI will consist of $300 billion in chips and systems, $150 billion in generative AI software, and $150 billion in omniverse enterprise software. These figures represent growth over the \"long term,\" Das said, though he did not specify a target date."
+    publishedDateTime: 2023-09-05T23:56:00Z
+    webUrl: "https://www.aol.com/finance/ai-market-worth-600-billion-205624655.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/rmz_QozPwo5_5vIDus3yvw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTY-/https://media.zenfs.com/en/aol_yahoo_finance_433/a02e06f983d467398544fdfa4d288964"
+        width: 1199
+        height: 796
+        isCached: true
+  - title: "AI startup Imbue closes $200M funding round backed by Nvidia"
+    excerpt: "The Series B investment values Imbue at $1 billion. It included contributions from Nvidia Corp. and Astera Institute, a nonprofit that backs promising research initiatives. Cruise LLC Chief Executive Officer Kyle Vogt, Notion Labs Inc. co-founder Simon Last and a number of other backers participated as well."
+    publishedDateTime: 2023-09-07T21:20:00Z
+    webUrl: "https://siliconangle.com/2023/09/07/ai-startup-imbue-closes-200m-funding-round-backed-nvidia/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Imbue.png"
+        width: 932
+        height: 519
+        isCached: true
+  - title: "Nvidia isn't the only game in town. Investors advise against overlooking these other AI beneficiaries"
+    excerpt: "Nvidia's quarterly report seemed to leave some investors questioning whether any serious challenger can challenge its well-protected throne, or catch up to speed building comparable chips able to power generative AI models. And the price action seemed to ..."
+    publishedDateTime: 2023-09-04T13:22:00Z
+    webUrl: "https://www.cnbc.com/2023/09/04/nvidia-isnt-the-only-game-in-town-investors-advise-against-overlooking-these-other-ai-beneficiaries.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 34
+  - title: "Saudi Arabia and UAE race to buy Nvidia chips to power AI ambitions"
+    excerpt: "Saudi Arabian Crown Prince Mohammed bin Salman, left, and Nvidia chief Jensen Huang. The Gulf state’s interest in AI has sparked concerns over the technology’s ..."
+    publishedDateTime: 2023-09-04T20:11:00Z
+    webUrl: "https://www.ft.com/content/c93d2a76-16f3-4585-af61-86667c5090ba?sharetype=blocked"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
+  - title: "PM Modi, Nvidia CEO discuss India's rich potential in artificial intelligence"
+    excerpt: "PM Modi in a post on X wrote, \"Had an excellent meeting with Mr. Jensen Huang, the CEO of @nvidia. We talked at length about the rich potential India offers in the world of AI. Mr. Jensen Huang was appreciative of the strides India has made in this sector and was equally upbeat about the talented youth of India.\""
+    publishedDateTime: 2023-09-04T17:43:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/World/20230904/4115578.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 14
+  - title: "Nvidia's Jensen Huang Eyes India's AI Future In High-Level Meeting With Prime Minister Modi"
+    excerpt: "Nvidia's latest A100 AI chip, powered by the Ampere architecture, is widely used for training ChatGPT and other large-language models. See Also: Best Artificial Intelligence Stocks Why It’s Important: Commenting on Huang’s India visit, Nvidia said in a ..."
+    publishedDateTime: 2023-09-04T19:11:00Z
+    webUrl: "https://www.benzinga.com/markets/asia/23/09/34213117/nvidias-jensen-huang-eyes-indias-ai-future-in-high-level-meeting-with-prime-minister-modi"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 9
+
+secured: "miCmqxm88tqwhJUBYU6/32hCYVRMz4sVUjkQ2avmSPC0UyzXMQmO5AqxQHjWDP3UpbdGYLYga+WXpps3XtC8JWbniJ3Nt3lOmwbfPbJkEp+wO921AzVB5iWEJdkDW6H8PdfW93fVxBEA/erKgOQ7UCjlG2xCqCDM/lgiT8cVfIsNUxoHlyPQQ12Ms+qQjMaGFlE4igZS1NYG/AiRLj7yMO/F9bxAbWGRsw02ryxb5cFjIqU14qNf6gcn+XQ67k5Dr7ps/TTyDEgwbEt6WiLkXIa9oIdzy8/19EP39CKVw5BrRqTtwJzkM50T/8AvhTD5xYSiQvQjkiTvukQg5hP/QU0ifpVJRk0ClEO9d5D+gs8=;bbC9tnx6i1Lu8VaDMxuRnQ=="
 ---
 

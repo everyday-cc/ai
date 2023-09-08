@@ -133,6 +133,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "How Google Cloud is helping Culture Amp and others be AI-assisted"
+    excerpt: "It is providing the infrastructure and solutions that make it easier for organisations to build and use generative AI at scale."
+    publishedDateTime: 2023-09-08T02:00:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/focus/how-google-cloud-helping-culture-amp-and-others-be-ai-assisted"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 19
   - title: "IAA MOBILITY 2023 Talking not Typing: Continental and Google Cloud Equip Cars with Generative Artificial Intelligence"
     excerpt: "Continental announced a partnership with Google Cloud during its press conference at the IAA MOBILITY 2023. Together, the two companies are equipping"
     publishedDateTime: 2023-09-04T17:26:00Z

@@ -49,15 +49,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Google's search for an AI future as it turns 25"
-    excerpt: "Google turns 25 this month (I'll have a few more candles on my cake) - and finds itself in a tech landscape that has changed dramatically since founders Larry Page and Sergey Brin started it in 1998."
-    publishedDateTime: 2023-09-03T09:11:00Z
-    webUrl: "https://www.daily-sun.com/post/710063/Googles-search-for-an-AI-future-as-it-turns-25"
-    type: article
-    provider:
-      name: Daily Sun
-      domain: daily-sun.com
-    quality: 19
   - title: "Artificial Intelligence-generated image of Elon Musk in Arab attire takes the internet by storm"
     excerpt: "In the photo published on X account bearing the name Elon Musk (Parody), the Artificial Intelligence-generated image shows Musk appearing smiling, wearing a white dress, with embroidery on the chest, a ghutra and a headband, with the caption ..."
     publishedDateTime: 2023-09-04T19:09:00Z

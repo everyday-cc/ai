@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newindianexpress.com/xplore/2023/sep/06/deep-learning-to
 cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/xplore/2023/sep/06/deep-learning-to-quake-forecastings-rescue-2612024.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The New Indian Express
@@ -42,6 +42,20 @@ related:
       - url: "https://assets.labroots.com/_public/_files/system/ck/trending/Low-Res_20200116_074623_047_a1affb276f7f80bf1525f8bda3d98f2d.jpg"
         width: 700
         height: 394
+        isCached: true
+  - title: "Machine learning can level the playing field against match fixing – helping regulators spot cheating"
+    excerpt: "A new machine learning model can pinpoint anomalies in sports results – whether from match fixing, strategic losses or poor player performance. It could be a useful tool in the fight against cheating."
+    publishedDateTime: 2023-09-08T02:44:00Z
+    webUrl: "https://theconversation.com/machine-learning-can-level-the-playing-field-against-match-fixing-helping-regulators-spot-cheating-209392"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 39
+    images:
+      - url: "https://images.theconversation.com/files/547104/original/file-20230908-19-gz8i1l.jpg?ixlib=rb-1.1.0&rect=51%2C878%2C5700%2C2850&q=45&auto=format&w=1356&h=668&fit=crop"
+        width: 1356
+        height: 668
         isCached: true
 
 secured: "tE3/zU6S7l/SAVrDuNNE8Fov328Xw/emUUFaAzaRXJOf6AfK/6p+Mw9fD29jorbg1OCrlLuB3bR0Zd+b2GvxlcKAswlVX9M21QMXZlxdudVNw++mADW1BIhqBTYBzi6N7EjuOA6myn0ubhQanO4vbd1zkHmdlrd6+yoKZwAFnY881CdBbGAWEjXqm4HOUsfOkpCuQDzSZ8tzWU5fwO0/12+VDF/cBXh7DEHwB/GGP0dJfwjBgq6JQIPT929IZNp6qlo+9Nmvc6vXC44U8D/0a6rOVI1t9NT4vQE8Mdz/d3OUe4nVli7k9+3UELtukGm+0epw7fy9zIy0ODHEby2Ke6p3JHTbbO5RflxwccpxVhU/HH7qqPAWAVINaRGU30WcSxvYk9ElILuUpVzwFlE8QzA7u62UKKEMcLMcidzD417DbajmM0yszqJWUn/B5WcBVxkeDCN3T+DgD1uPM7AKV7VPeAFoCmWJCYHvXSAeqHox35pW+7SAaOWvTrKODJJcmRrab5ElpyVTJi1YRs96NA==;tN+TKalZTUZWxNbDC1KjIA=="

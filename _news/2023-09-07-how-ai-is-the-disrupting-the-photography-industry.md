@@ -27,7 +27,7 @@ related:
     provider:
       name: The Michigan Daily
       domain: michigandaily.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.michigandaily.com/wp-content/uploads/2023/09/AI.jpg"
         width: 2400

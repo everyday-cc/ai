@@ -7,7 +7,7 @@ originalUrl: "https://www.latintimes.com/techs-carbon-footprint-can-ai-revolutio
 webUrl: "https://www.latintimes.com/techs-carbon-footprint-can-ai-revolutionize-responsibly-546066"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 768
     height: 512
     isCached: true
-
-related:
-  - title: "Tech's carbon footprint: can AI revolutionize responsibly?"
-    excerpt: "Across the globe, data servers are humming, consuming both megawatts and precious natural resources to bring life to our digital world."
-    publishedDateTime: 2023-09-03T09:06:00Z
-    webUrl: "https://techxplore.com/news/2023-09-tech-carbon-footprint-ai-revolutionize.html"
-    ampWebUrl: "https://techxplore.com/news/2023-09-tech-carbon-footprint-ai-revolutionize.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-tech-carbon-footprint-ai-revolutionize.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/the-transformation-of.jpg"
-        width: 1280
-        height: 852
-        isCached: true
 
 secured: "1pKLYL2U5vIH6rBhf5LRhc+cpq2ZFg57rguRwSaBuzQIVYkZ6WoMmMqA52dLQUBFFMPE6owfeUgbEXZH/MZ50ZMpoNjtnwlkxlWw0N77DgzgQXBlixvSSjfnEJX9b1cjUbqDQUoeW9Ddi/XmjUISWeJKNLaRQkuJB34Ba0rYO4DnnMqXTuOhX9Kro6jVyMGVvCKKJMOqykIvTyAa9xOLNEeHJw0F7WRdihSOAvYAswtcNhWU9OzgBgxivAWbu9qZ1Qms1JxhqWSueBPKUyanI9PRP+tHOZwc/YuuD+06Yfq+VB/wQa58OmutdYdeW3/c2AZgZz7ONPq3C8Be0q2+PQvaDqIX0gwOt+lceK0kU2g=;gJv8EWJ44kLnvgz960XsEw=="
 ---

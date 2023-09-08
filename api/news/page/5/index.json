@@ -2,6 +2,152 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-09-04-cinemin-is-a-fun-camera-app-with-animated-film-aesthetics-without-any-ai.md",
+      "title": "Cinemin is a fun camera app with animated film aesthetics without any AI",
+      "excerpt": "Tinrocket have released a new camera app called Cinemin to shoot animated photos and videos without the help of any AI filters.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/09/04/cinemin-is-a-fun-camera-app-with-animated-film-aesthetics-without-any-ai/",
+      "originalUrl": "https://techcrunch.com/2023/09/04/cinemin-is-a-fun-camera-app-with-animated-film-aesthetics-without-any-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/09/Cinemin.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/09/04/cinemin-is-a-fun-camera-app-with-animated-film-aesthetics-without-any-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/04/cinemin-is-a-fun-camera-app-with-animated-film-aesthetics-without-any-ai/amp/",
+      "publishedDateTime": "2023-09-04T04:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-04-how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition.md",
+      "title": "How Google Cloud Is Leveraging Generative AI To Outsmart Competition",
+      "excerpt": "It has a smaller 256-chip footprint per Pod, which is optimized for the state-of-the-art neural network architecture based on the transformer architecture.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64f5bc845a7c3861341e8146/0x0.jpg?format=jpg&width=1200",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/amp/",
+      "publishedDateTime": "2023-09-04T04:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-09-04-uk-government-outlines-five-objectives-for-ai-safety-summit.md",
+      "title": "UK government outlines five objectives for AI Safety Summit",
+      "excerpt": "Ahead of the UK government’s AI Safety Summit in November, the Department for Science, Innovation and Technology has outlined the goals it hopes the summit will achieve.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3706051/uk-government-outlines-five-objectives-for-ai-safety-summit.html",
+      "originalUrl": "https://www.computerworld.com/article/3706051/uk-government-outlines-five-objectives-for-ai-safety-summit.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/07/shutterstock_2284126663-100943536-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3706051/uk-government-outlines-five-objectives-for-ai-safety-summit.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3706051/uk-government-outlines-five-objectives-for-ai-safety-summit.amp.html",
+      "publishedDateTime": "2023-09-04T04:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-04-upping-your-prompt-engineering-superpowers-via-target-your-response-techniques-when-using-generative-ai.md",
       "title": "Upping Your Prompt Engineering Superpowers Via Target-Your-Response Techniques When Using Generative AI",
       "excerpt": "A vital technique for prompt engineering entails thinking ahead and telling generative AI what kind of response you are expecting to get. Here is the insider scoop.",
@@ -606,6 +752,49 @@
       ]
     },
     {
+      "path": "_news/2023-09-03-institute-for-physical-artificial-intelligence.md",
+      "title": "Institute for Physical Artificial Intelligence",
+      "excerpt": "Purdue University is building a world-leading program in artificial intelligence (AI ... Purdue’s often sought-after experts share their insights on topics including self-driving cars and human-AI interaction. Purdue has existing centers in a wide ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.purdue.edu/computes/institute-for-physical-artificial-intelligence/",
+      "originalUrl": "https://www.purdue.edu/computes/institute-for-physical-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.purdue.edu/computes/wp-content/uploads/2023/06/cropped-IPAI-Home-Hero.jpg",
+          "width": 915,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-02T12:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Purdue University",
+        "domain": "purdue.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-03-home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company.md",
       "title": "Home Office accused of secret lobbying for facial recognition ‘spy’ company",
       "excerpt": "The use of facial recognition has provoked fierce criticism over its impact on privacy and human rights, with the European Union seeking to ban the technology in public spaces through proposed legislation. The heavily redacted correspondence also reveals ...",
@@ -1044,204 +1233,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-02-how-the-medical-industry-could-produce-the-biggest-ai-stock-winners.md",
-      "title": "How the Medical Industry Could Produce the Biggest AI Stock Winners",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence could change our society significantly over the next",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/how-the-medical-industry-could-produce-the-biggest-ai-stock-winners-1032600921",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/how-the-medical-industry-could-produce-the-biggest-ai-stock-winners-1032600921",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2023/05/chromosome-dna-gcats.png",
-          "width": 1165,
-          "height": 435,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-02T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-02-gizmodos-owner-shuts-down-spanish-language-site-in-favor-of-ai-translations.md",
-      "title": "Gizmodo’s owner shuts down Spanish language site in favor of AI translations",
-      "excerpt": "Gizmodo owner G/O Media shut down and laid off editors of its Spanish-language site Gizmodo en Español and is now using AI to translate articles. New articles posted on Gizmodo en Español now ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2023/9/1/23856029/gizmodo-shuts-down-spanish-language-site-ai-translations",
-      "originalUrl": "https://www.theverge.com/2023/9/1/23856029/gizmodo-shuts-down-spanish-language-site-ai-translations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/0A70dIpx0ffXluy89xDd827pB3w=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/10551085/acastro_180329_1777__brains_science_0002.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-02T01:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-02-ai-can-curate-learning-but-ethics-is-catchword.md",
-      "title": "'AI can curate learning, but ethics is catchword'",
-      "excerpt": "Without the ethical mindset, we will go down a dystopian pathway with AI. In a short-term framework, ethics and guidelines are necessary, otherwise before we take over AI it will take over us.\" He also called for responsible harnessing of AI in education ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/hyderabad/ai-can-curate-learning-but-ethics-is-catchword/articleshow/103298213.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/hyderabad/ai-can-curate-learning-but-ethics-is-catchword/articleshow/103298213.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-103298237,width-1070,height-580,imgsize-914122,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1069,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/hyderabad/ai-can-curate-learning-but-ethics-is-catchword/amp_articleshow/103298213.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/ai-can-curate-learning-but-ethics-is-catchword/amp_articleshow/103298213.cms",
-      "publishedDateTime": "2023-09-01T19:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-02-enabot-ebo-x-review-a-smart-but-flawed-robot-companion.md",
-      "title": "Enabot EBO X review: A smart, but flawed robot companion",
-      "excerpt": "The Enabot EBO X robot companion is rough around the edges, but it offers tons of cool smart home features that make it a compelling addition to your family.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/home/enabot-ebo-x-review/",
-      "originalUrl": "https://www.digitaltrends.com/home/enabot-ebo-x-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/01/EBO-X-1.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/home/enabot-ebo-x-review/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/enabot-ebo-x-review/?amp",
-      "publishedDateTime": "2023-09-01T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

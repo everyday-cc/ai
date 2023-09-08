@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Palantir Customers to Feature Artificial Intelligence Platform in Action at AIPCon, with 30+ Presentations and Demos"
-excerpt: "AIPCon will feature more than 30 organizations showcasing how they use Palantir’s new Artificial Intelligence Platform (AIP ... hospitality, and healthcare. AIPCon will bring together users of AIP to exchange with current and potential Palantir customers ..."
-publishedDateTime: 2023-09-08T00:52:00Z
-originalUrl: "https://www.bakersfield.com/ap/news/palantir-customers-to-feature-artificial-intelligence-platform-in-action-at-aipcon-with-30-presentations-and/article_1a8c500e-230a-5c25-ac92-f8199ae72041.html"
-webUrl: "https://www.bakersfield.com/ap/news/palantir-customers-to-feature-artificial-intelligence-platform-in-action-at-aipcon-with-30-presentations-and/article_1a8c500e-230a-5c25-ac92-f8199ae72041.html"
+excerpt: "Palantir to unveil new users of its Artificial Intelligence Platform (AIP) at AIPCon, more than 30 customer presentations and demos featured"
+publishedDateTime: 2023-09-08T00:35:00Z
+originalUrl: "https://www.businesswire.com/news/home/20230907499815/en/"
+webUrl: "https://www.businesswire.com/news/home/20230907499815/en/"
 type: article
-quality: 31
-heat: 31
+quality: 11
+heat: 11
 published: false
 
 provider:
-  name: The Bakersfield Californian
-  domain: bakersfield.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
-  - AI in Healthcare
   - AI
+  - AI in Healthcare
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "yX2ZSmnQBt/ZXY2U9Gl1zE71ZIy5dJ6oFpKtNe9qi96DdwqdtCrq9o5+snfDSAkINK3uDg/PfsBEz1NOmytC98orcvsRYmjiKDJJz4m4x6mErVyClriCW8vpVyN4T9FhKH1B3FmNuaJdi008Qen7k+PQlaXJEYqO4j2zedG7/Kw+quoqknb/3yAzsarNROJSonyC12xrjuS8eQhHGeLJ8NPGveoJetUtJziabmidILX4BCNGXZ5LvGwP+2tOtvxxohPq4MKeXuyPmW3bdciMvq10GOJYLabi7udTr8AI78oVmNm1I+u30DvXgzcaWDtG1DGK5B2E0zP6vPPS5YYgQxW5oyJH6W+zZYqQ9Gb96hQ=;rNczXWk/aYZ/Xo1bUcEUnw=="
+secured: "+FUoAkNnzUZQE8oryrK+Rv0epz0C3kmWAVQ5AX5Gwu4ktCQdYeCb17KQHnr1qUoLW7elaLCxlV0+75s7/P5oozvus4QmwC0ZWhPT8h1D2P3LAQGnWX5WZY+2AZHBcZb6Fwmkc9H1PhevcrOtrsDJtHri388aH33Z01YqiBB70Dt1g7ZXUjpUpJEXzCDos0/vtsp8KaVvRnCjXLrwjyZM11SW1GMEsanWhOQRtKyw4Z7gonD94U2ybc3jTWNAxmejyliDkbaHVL1bG5qSJmEA57Pmw4BhHQHybIHRZYhUv3FTNbtyVG4q7W4tcyQtJbPSpH1GX56Jk4bZAWwiliCldw8PK2PjYSrJmkxf6eSQzs4=;ZGZoG72VS7S3/8qREMFe0Q=="
 ---
 
