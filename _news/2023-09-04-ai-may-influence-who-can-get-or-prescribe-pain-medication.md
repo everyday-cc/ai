@@ -20,20 +20,6 @@ topics:
 
 related:
   - title: "Artificial intelligence may influence whether you can get pain medication"
-    excerpt: "Artificial intelligence is working its way into more parts of American life. As AI spreads within the health care landscape, it brings familiar concerns of bias and accuracy and whether government ..."
-    publishedDateTime: 2023-09-03T13:41:00Z
-    webUrl: "https://www.salon.com/2023/09/03/artificial-intelligence-may-influence-whether-you-can-get-pain-medication_partner/?ref=upstract.com"
-    type: article
-    provider:
-      name: Salon
-      domain: salon.com
-    quality: 53
-    images:
-      - url: "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2020/01/oxycontin-pill-bottles-tablets-0130201.jpg"
-        width: 1200
-        height: 810
-        isCached: true
-  - title: "Artificial intelligence may influence whether you can get pain medication"
     excerpt: "Artificial intelligence is working its way into more parts of American life. As AI spreads within the health care landscape, it brings familiar concerns of bias and accuracy and whether government regulation can keep up with rapidly advancing technology."
     publishedDateTime: 2023-09-05T21:42:00Z
     webUrl: "https://www.seattletimes.com/nation-world/artificial-intelligence-may-influence-whether-you-can-get-pain-medication/"

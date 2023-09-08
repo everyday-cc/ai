@@ -177,6 +177,20 @@ related:
         width: 768
         height: 633
         isCached: true
+  - title: "What Can ChatGPT-like Language Models Tell Us About the Brain?"
+    excerpt: "A renaissance in natural language modeling may help researchers explore how the brain extracts and organizes meaning."
+    publishedDateTime: 2023-09-08T06:55:00Z
+    webUrl: "https://www.the-scientist.com/features/what-can-chatgpt-like-language-models-tell-us-about-the-brain-71315"
+    type: article
+    provider:
+      name: The Scientist
+      domain: the-scientist.com
+    quality: 39
+    images:
+      - url: "https://cdn.the-scientist.com/assets/articleNo/71315/aImg/50759/article-ai-feature-m.jpg"
+        width: 800
+        height: 560
+        isCached: true
   - title: "Apple is quietly spending millions on AI to make Siri as smart as ChatGPT"
     excerpt: "Apple is spending millions of dollars a day to train its large-language models, and it might be readying to tackle OpenAI ChatGPT."
     publishedDateTime: 2023-09-06T19:07:00Z
@@ -190,6 +204,20 @@ related:
       - url: "https://bgr.com/wp-content/uploads/2023/06/apple-wwdc-2023-ios-17-reality-226.jpg?quality=82&strip=all"
         width: 1600
         height: 885
+        isCached: true
+  - title: "Survey Reveals 16% Of Japanese Have Tried Chatgpt And Other Generative Ai"
+    excerpt: "In the graph below titled \"The frequency of AI usage among social networking users,\" a cross-tabulation of Q2 \"Do you refer to social networks Youtube, X (Twitter), Facebook ... we will announce the research results on the use of social networking services ..."
+    publishedDateTime: 2023-09-08T06:47:00Z
+    webUrl: "https://menafn.com/1107031730/Survey-Reveals-16-Of-Japanese-Have-Tried-Chatgpt-And-Other-Generative-Ai"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 38
+    images:
+      - url: "https://menafn.com/updates/pr/2023-09/08/I_6f83cimage_story.png"
+        width: 1024
+        height: 701
         isCached: true
   - title: "For Law Firms, Launching Generative AI Chatbots Requires More Than Just Novel Technology"
     excerpt: "Several law firms have consulted with their insurance providers and updated their trainings and policies to support launching generative AI powered chatbots internally. But it is still early days, and more changes may be needed ahead."

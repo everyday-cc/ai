@@ -63,15 +63,6 @@ related:
         width: 862
         height: 485
         isCached: true
-  - title: "Peter Dutton flags second referendum if Indigenous Voice to Parliament fails"
-    excerpt: "Opposition leader Peter Dutton has committed to holding another referendum to recognise Indigenous Australians in the Constitution if the Voice failed."
-    publishedDateTime: 2023-09-03T13:43:00Z
-    webUrl: "https://www.theaustralian.com.au/breaking-news/peter-dutton-flags-second-referendum-if-indigenous-voice-to-parliament-fails/news-story/f14566cceeb7770f46146df839ddafdb"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 16
   - title: "David Littleproud backs Peter Dutton's promise of Indigenous recognition referendum should the Voice to Parliament fail"
     excerpt: "Nationals Leader David Littleproud says his party will support Peter Dutton's promise to hold a second referendum to recognise Indigenous Australians in the constitution if the \"yes\" vote fails and the Coalition wins the next election. Federal politics and ..."
     publishedDateTime: 2023-09-03T23:28:00Z

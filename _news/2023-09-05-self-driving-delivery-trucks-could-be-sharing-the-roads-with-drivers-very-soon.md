@@ -43,6 +43,22 @@ related:
         width: 1280
         height: 800
         isCached: true
+  - title: "X post about self-driving cars prompts discussion on Indian roads and driving"
+    excerpt: "As the world is rapidly moving towards automation, many countries are experimenting with driverless cars. Recently, a tweet about the possibility of introducing self-driving cars in India has sparked debate about the dismal state of roads and lack of respect towards traffic rules."
+    publishedDateTime: 2023-09-08T06:43:00Z
+    webUrl: "https://indianexpress.com/article/trending/trending-in-india/self-driving-cars-indian-roads-and-driving-8930137/"
+    ampWebUrl: "https://indianexpress.com/article/trending/trending-in-india/self-driving-cars-indian-roads-and-driving-8930137/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/trending/trending-in-india/self-driving-cars-indian-roads-and-driving-8930137/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 41
+    images:
+      - url: "https://images.indianexpress.com/2023/09/self-driving-cars-india.jpg"
+        width: 1200
+        height: 667
+        isCached: true
   - title: "Why experts feel self-driving car revolution still a decade away despite enthusiasm"
     excerpt: "In Munich, where this week's IAA motor show is taking place, an interactive street survey elicits an overwhelming \"yes\" when asking passers-by if they would take a self-driving taxi from the station to the Oktoberfest beer festival. A modified self-driving ..."
     publishedDateTime: 2023-09-07T04:25:00Z

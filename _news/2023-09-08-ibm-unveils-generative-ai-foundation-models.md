@@ -40,6 +40,22 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
+  - title: "IBM rolls out new generative AI features and models"
+    excerpt: "detect model bias and drift and help organizations meet ethics standards. And starting next week, IBM will launch Intelligent Remediation, which the company says will leverage generative AI models to assist IT teams with summarizing incidents and ..."
+    publishedDateTime: 2023-09-07T13:00:00Z
+    webUrl: "https://techcrunch.com/2023/09/07/ibm-rolls-out-new-generative-ai-features-and-models/"
+    ampWebUrl: "https://techcrunch.com/2023/09/07/ibm-rolls-out-new-generative-ai-features-and-models/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/07/ibm-rolls-out-new-generative-ai-features-and-models/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1127480719.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "The Potential Of AI As A Catalyst For Business Transformation"
     excerpt: "Artificial intelligence (AI) has rapidly emerged as a disruptive force, influencing humans professionally, socially and culturally. With its ability to process vast amounts of data and make complex decisions, I’ve seen it become a catalyst for transformation across business sectors, from healthcare to transportation."
     publishedDateTime: 2023-09-06T13:15:00Z
@@ -48,15 +64,6 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 49
-  - title: "IBM rolls out new generative AI features and models"
-    excerpt: "detect model bias and drift and help organizations meet ethics standards. And starting next week, IBM will launch Intelligent Remediation, which the company says will leverage generative AI models to assist IT teams with summarizing incidents and ..."
-    publishedDateTime: 2023-09-07T13:00:00Z
-    webUrl: "https://techcrunch.com/2023/09/07/ibm-rolls-out-new-generative-ai-features-and-models/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
     quality: 49
 
 secured: "sUr58f4CAMSqT/pmjeitRCnsGnraSQjQA8esrFfRIyuYnofLNg/xatEQCIi3NPbgjRGl9waU8x5mn8EUZrTxNniC8NiQ+h+rkHGBITK/ks2hFiG5H/zgXvRunoiraj5Moo1v8Y1cv5R9S0CvoILc4zvhjfTThmTmLpJ4/rrdmlnu8+JxFzXLVW4NgnrA9ZJvFZNTOOrGd/odM7pi/1H3eo8attg+294ciyLaTzaBXRmFddOl/novXqwi4yeYLKjbseAvACYj0hWbMFMXl+Yrpo0pfh7bsB8AXHZuWNAlGKcYgIlwsMhLUfx2DHwCaCJuwc+8AUPBFPpJfw9BJgDpCdQQiCjgcQfi/oowOlkAUNZ2S1qWkCGmCdV21bcrQ/d3/VBPzAjTIaZKwjUHaXbpXFWa35TpZaAHBQUdbz+5wn/c3bEFH/RseHznO60CtJHQahvBwa2pExIiar68mtjBg/PqsH51K4AkaacIt6tMbx2Dk65/uoL4ZNArMPB6wIls29NRdugRubFYVVuIS5qh2A==;5V3fk7NfG4+EIbRfXkfXwQ=="

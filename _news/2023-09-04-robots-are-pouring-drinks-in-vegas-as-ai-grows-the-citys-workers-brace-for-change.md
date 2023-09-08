@@ -2,17 +2,17 @@
 category: news
 title: "Robots are pouring drinks in Vegas. As AI grows, the city's workers brace for change"
 excerpt: "Workers in Las Vegas have been watching automation and technology inch into their workplace. Now with AI, the city is preparing to adapt its service-heavy tourism economy."
-publishedDateTime: 2023-09-04T08:59:00Z
-originalUrl: "https://www.wwno.org/npr-news/2023-09-04/robots-are-pouring-drinks-in-vegas-as-ai-grows-the-citys-workers-brace-for-change"
-webUrl: "https://www.wwno.org/npr-news/2023-09-04/robots-are-pouring-drinks-in-vegas-as-ai-grows-the-citys-workers-brace-for-change"
+publishedDateTime: 2023-09-04T14:00:00Z
+originalUrl: "https://www.wuwm.com/economy-business/2023-09-04/robots-are-pouring-drinks-in-vegas-as-ai-grows-the-citys-workers-brace-for-change"
+webUrl: "https://www.wuwm.com/economy-business/2023-09-04/robots-are-pouring-drinks-in-vegas-as-ai-grows-the-citys-workers-brace-for-change"
 type: article
 quality: 47
 heat: 47
 published: false
 
 provider:
-  name: WWNO
-  domain: wwno.org
+  name: WUWM
+  domain: wuwm.com
 
 topics:
   - AI in Robotics
@@ -54,6 +54,6 @@ related:
         height: 630
         isCached: true
 
-secured: "DN3MFsJfNNO++JItv/AdARiImqSNgfkmu/+inS00Bzklbf9OUp7jBjbNzt1cM3m40X1M5QZqgNs/TXmv7FpnNPBAC3yELBlhGRWrScuhYzvRiNUZimBKw+8dygE+IeUz3hNHApW4BtQgjqI33NAdms/0QGYcx5KptsyND9tjnX8zQWg6UPL6S+s05Qpt29k6p4G872rQ+vRc+Rx295rY9CDjcBu2qfVN1tLkQ8CAlLz9wcFKs9U+MEJM4RW/ATI+KoKtrXy7ylQVCjHZK1EeBO/wPPnWsj8twQG5ScOMcrgUAy1qJVuF4TNvkm9Os3S+QYHPonQDuLuJCTcPxONF58W9ymPRcaho+UnVdi4tPH903/wSjOlEmb77S8bWtoHqI3YEV0o/k+d9ohH78nd+07/Id8w8gQYkuXzaNaBU08KBNtj5DhKznGglMTqt3lr0KxbGExwtKvLL0+o5O6RRZBbAkzsCtgW2ggoMGCwquzRJhKv7DnhcgxPE1vmiG5vQDoZgH8lkO2+DF1pv5nTQfw==;WmtbUIsWeoVIxLKTJ6nWDQ=="
+secured: "7EuDhT5cNMv47QBtmcJVYIGbukCu1kCXH4ohOmLNSQCSGb6AIsah4vPVSZxbotcMNxIPby9yKW7iVcTJPMBQM15RFqZ6ovTEAv6OOuHdBpRkmFXXtZGdxbKiNxl4Q6fCHL5GuYIZSOzyWI+jmDpf+1a+pPdtsw7adXkWxYTDsN1srbq3kOfvh8fUXFO+f9aKuPD0sW2OXqUfYYl1JTNPoBSmsa1fD90PDCBCM15Fbv8uIw3uhHPGghgRLmzpjXo4501nvIscO9aaQR2b8H3+wXg2qe5+RGx48Vc3uuftR5PXqPfbFrrm8sKREea/tuFduBMZ8zhSiJL0xmMxrpFQLA09oij7sPE7Cg0kvFQuWvk=;+ICwi8IUjp0fU0XpE7+Htw=="
 ---
 

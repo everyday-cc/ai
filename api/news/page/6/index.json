@@ -2,6 +2,153 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-09-02-a-new-way-to-optimize-and-prioritize-ai-projects-for-the-gpu-shortage.md",
+      "title": "A new way to optimize and prioritize AI projects for the GPU shortage",
+      "excerpt": "The GPU shortage is a challenge, but zeroing in on a Contribution Per GPU method can maximize ROI and help ensure long-term success.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/a-new-way-to-optimize-and-prioritize-ai-projects-for-the-gpu-shortage/",
+      "originalUrl": "https://venturebeat.com/ai/a-new-way-to-optimize-and-prioritize-ai-projects-for-the-gpu-shortage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/08/annevb_many_file_drawers_and_files_and_GPU_with_one_file_drawe_9e7c558c-2436-4ad2-bd8b-0500f9b2202f.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-02T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-02-deep-learning-used-by-seismologists-to-improve-prediction-of-earthquakes-study.md",
+      "title": "Deep learning used by seismologists to improve prediction of earthquakes: Study",
+      "excerpt": "The methods that researchers and governmental organisations employ to predict earthquake aftershocks have mostly stayed unaltered for more than 30 years. The large seismology datasets that are currently accessible are difficult for these older models to handle,",
+      "sourceUrl": null,
+      "webUrl": "https://theprint.in/science/deep-learning-used-by-seismologists-to-improve-prediction-of-earthquakes-study/1744032/",
+      "originalUrl": "https://theprint.in/science/deep-learning-used-by-seismologists-to-improve-prediction-of-earthquakes-study/1744032/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.theprint.in/wp-content/uploads/2023/09/ANI-20230902134029.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theprint.in/science/deep-learning-used-by-seismologists-to-improve-prediction-of-earthquakes-study/1744032/?amp",
+      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/science/deep-learning-used-by-seismologists-to-improve-prediction-of-earthquakes-study/1744032/?amp",
+      "publishedDateTime": "2023-09-02T06:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ThePrint",
+        "domain": "theprint.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-02-ai-has-a-big-dirty-problem-that-is-tarnishing-big-techs-environmental-image.md",
+      "title": "AI has a big, dirty problem that is tarnishing Big Tech's environmental image",
+      "excerpt": "AI is challenging the tech industry's ability to present itself positively on environmental, social and governance issues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-big-dirty-problem-tarnishing-big-tech-environmental-image-2023-8",
+      "originalUrl": "https://www.businessinsider.com/ai-big-dirty-problem-tarnishing-big-tech-environmental-image-2023-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64ef959a0ce10a00183be341?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-big-dirty-problem-tarnishing-big-tech-environmental-image-2023-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-big-dirty-problem-tarnishing-big-tech-environmental-image-2023-8?amp",
+      "publishedDateTime": "2023-09-02T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-02-crossing-the-chasm-in-ai-led-marketing-transformation.md",
       "title": "Crossing the chasm in AI-led marketing transformation",
       "excerpt": "And that is why it should be among the top priorities for any chief marketing officer (CMO) to unravel the possibilities of AI. Customer-centric sectors such as fintech, and e-commerce have already started piloting AI strategies while many other sectors ...",
@@ -243,6 +390,40 @@
       ]
     },
     {
+      "path": "_news/2023-09-02-dihuni-ships-gpu-servers-for-generative-ai-and-llm-applications.md",
+      "title": "Dihuni Ships GPU Servers for Generative AI and LLM Applications",
+      "excerpt": "1, 2023 /PRNewswire/ -- Dihuni, a leading artificial intelligence (AI), data center and Internet of Things (IoT) solutions company today announced it has started shipping new OptiReady GPU servers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.victoriaadvocate.com/dihuni-ships-gpu-servers-for-generative-ai-and-llm-applications/article_54b10cd7-3d6c-502f-b7e7-745674a52d54.html",
+      "originalUrl": "https://www.victoriaadvocate.com/dihuni-ships-gpu-servers-for-generative-ai-and-llm-applications/article_54b10cd7-3d6c-502f-b7e7-745674a52d54.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-01T15:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Victoria Advocate",
+        "domain": "victoriaadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-02-enabot-ebo-x-review-a-smart-but-flawed-robot-companion.md",
       "title": "Enabot EBO X review: A smart, but flawed robot companion",
       "excerpt": "The Enabot EBO X robot companion is rough around the edges, but it offers tons of cool smart home features that make it a compelling addition to your family.",
@@ -342,40 +523,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-02-dihuni-ships-gpu-servers-for-generative-ai-and-llm-applications.md",
-      "title": "Dihuni Ships GPU Servers for Generative AI and LLM Applications",
-      "excerpt": "1, 2023 /PRNewswire/ -- Dihuni, a leading artificial intelligence (AI), data center and Internet of Things (IoT) solutions company today announced it has started shipping new OptiReady GPU servers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20230901ph99139/dihuni-ships-gpu-servers-for-generative-ai-and-llm-applications",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20230901ph99139/dihuni-ships-gpu-servers-for-generative-ai-and-llm-applications",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-01T12:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -1051,155 +1198,6 @@
         "AI",
         "AI Hardware",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-cerebras-and-abu-dhabi-build-worlds-most-powerful-arabic-language-ai-model.md",
-      "title": "Cerebras and Abu Dhabi build world's most powerful Arabic-language AI model",
-      "excerpt": "The language disparity in AI has been observed and given considerable attention ... but even languages with prevalent translation material such as Greek and Icelandic. And so-called multi-modal programs such as the NLLB successor, SeamlessM4T from Meta ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/cerebras-and-abu-dhabi-build-worlds-most-powerful-arabic-language-ai-model/",
-      "originalUrl": "https://www.zdnet.com/article/cerebras-and-abu-dhabi-build-worlds-most-powerful-arabic-language-ai-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/482ef735b9e3d7e3f787fd6aae61832874a0a4e8/2023/08/31/b450a6fc-3314-4c7a-8815-89fcd8aed339/neural-net-as-calligraphy-3.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-01T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-korean-internet-giant-naver-explores-robotics-ai-and-autonomous-driving.md",
-      "title": "Korean internet giant Naver explores robotics, AI and autonomous driving",
-      "excerpt": "Naver, maker of the search engine known as the \"Google of South Korea,\" opened its new second headquarters, Naver 1784. The building's",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/09/01/korean-internet-giant-naver-explores-robotics-ai-and-autonomous-driving/",
-      "originalUrl": "https://techcrunch.com/2023/09/01/korean-internet-giant-naver-explores-robotics-ai-and-autonomous-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-01T05:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-donald-trump-appears-to-shut-down-ai-interview-theories.md",
-      "title": "Donald Trump Appears to Shut Down AI Interview Theories",
-      "excerpt": "The former president shared a clip of the interview after facing speculation it was faked, but did not address questions about its authenticity explicitly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-artificial-intelligence-interview-theory-1823934",
-      "originalUrl": "https://www.newsweek.com/donald-trump-artificial-intelligence-interview-theory-1823934",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2277139/donald-trump.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-artificial-intelligence-interview-theory-1823934?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-artificial-intelligence-interview-theory-1823934?amp=1",
-      "publishedDateTime": "2023-09-01T04:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -2,19 +2,19 @@
 category: news
 title: "Dihuni Ships GPU Servers for Generative AI and LLM Applications"
 excerpt: "1, 2023 /PRNewswire/ -- Dihuni, a leading artificial intelligence (AI), data center and Internet of Things (IoT) solutions company today announced it has started shipping new OptiReady GPU servers ..."
-publishedDateTime: 2023-09-01T19:29:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20230901ph99139/dihuni-ships-gpu-servers-for-generative-ai-and-llm-applications"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20230901ph99139/dihuni-ships-gpu-servers-for-generative-ai-and-llm-applications"
+publishedDateTime: 2023-09-01T22:56:00Z
+originalUrl: "https://www.victoriaadvocate.com/dihuni-ships-gpu-servers-for-generative-ai-and-llm-applications/article_54b10cd7-3d6c-502f-b7e7-745674a52d54.html"
+webUrl: "https://www.victoriaadvocate.com/dihuni-ships-gpu-servers-for-generative-ai-and-llm-applications/article_54b10cd7-3d6c-502f-b7e7-745674a52d54.html"
 type: article
 
 provider:
-  name: Morningstar
-  domain: morningstar.com
+  name: The Victoria Advocate
+  domain: victoriaadvocate.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "OevwxHyxfu8CY1/tY99FOLI/LEPMkTMvD7gbbhi9u3/MiN1qcryx4uCSFShCyQbD4KR4KMqIFh0OAvJfAZUR9InCFszmn4HL23vToDWVzkaXvFxsLfNf0WTQbWp/5n9P8bMRC7wllD1sJFb/w1T0bqnIpo3qSw2UdN/AX68iFxTI886B5T2CVfGJ6ipMfgFK0S4sYX2e64UbRJ2RQbroLZaIiHuRd0UHC1MxXsnzAd8cuPxCXNkrI89JbTC8BknsQERNRLHby7uaA3Jv/fFyYq6lzQVb+aSqLrChNy/2OYPidGrffR9isQtPisDxMv5OSdCF+irOMkmUZdvQgKafeavouyWIdSSybiUZbwCYSH0=;Rw/JY190ej6WtvU2DZ8fCA=="
+secured: "0YNny7e7plkOf0zgUxVbycugAgmsx6dfGg/Hwg9FO+keaMVAoH0K5T1d6KvqaLCEEt4XI8rPbJavUDHT/1Dsq1y/0MoXB77/vXQPcGpv5mp9kmjvx+w73VqgqNYyCbRJ6ffNaSp2skFw3qBoxBMh4sK0+v8rcoeWvjMKtPig6X4TZHqdghCKd2No4eR/IbfREtxFxxLZan8QIrb0FPLnb+1fBWNEJY4icdTceuWbw5hrUE8fewhbokAICoGMG3qcB9+RrUdzv6fnWlU5X9G+CxrR8aKwCuYiVrhT9YO3EcsDf0kocQuh7vB5Y9VyarapTHc+vQDy333Md5QNnEbFN1p84TyclL2yJM+05aU+ds4=;2/YRSpxCJ+BhiSPNZ50Yyw=="
 ---
 

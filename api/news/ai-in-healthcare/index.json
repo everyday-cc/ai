@@ -55,6 +55,40 @@
       ]
     },
     {
+      "path": "_news/2023-09-06-artificial-intelligence-may-influence-whether-you-can-get-pain-medication.md",
+      "title": "Artificial intelligence may influence whether you can get pain medication",
+      "excerpt": "Artificial intelligence is working its way into more parts of American life. As AI spreads within the health care landscape, it brings familiar concerns of bias and accuracy and whether government regulation can keep up with rapidly advancing technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/nation-world/artificial-intelligence-may-influence-whether-you-can-get-pain-medication/",
+      "originalUrl": "https://www.seattletimes.com/nation-world/artificial-intelligence-may-influence-whether-you-can-get-pain-medication/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattletimes.com/nation-world/artificial-intelligence-may-influence-whether-you-can-get-pain-medication/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/artificial-intelligence-may-influence-whether-you-can-get-pain-medication/?amp=1",
+      "publishedDateTime": "2023-09-05T14:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-09-06-advancing-ai-in-various-industries-like-healthcare-energy-and-climate.md",
       "title": "Advancing AI in Various Industries Like Healthcare, Energy and Climate",
       "excerpt": "Andrew Feldman, Co-Founder and CEO of Cerebras, joins Jill Malandrino on Nasdaq TradeTalks to discuss advancing artificial intelligence (AI) in various industries like healthcare, energy, climate, and more. Sign up for our newsletter to get the latest on ...",
@@ -1327,49 +1361,6 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-08-18-cmc-vellore-iit-m-sign-mou-on-artificial-intelligence-in-healthcare.md",
-      "title": "CMC Vellore, IIT-M sign MoU on artificial intelligence in healthcare",
-      "excerpt": "The Christian Medical College Hospital (CMC) Vellore has signed a Memorandum of Understanding (MoU) with the Indian Institute of Technology Madras (IIT Madras) to conduct joint exploratory work in the domain of artificial intelligence (AI) in healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/news/national/tamil-nadu/cmc-vellore-iit-m-sign-mou-on-artificial-intelligence-in-healthcare/article67205395.ece",
-      "originalUrl": "https://www.thehindu.com/news/national/tamil-nadu/cmc-vellore-iit-m-sign-mou-on-artificial-intelligence-in-healthcare/article67205395.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/theme/images/amp-og-image.jpg",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/news/national/tamil-nadu/cmc-vellore-iit-m-sign-mou-on-artificial-intelligence-in-healthcare/article67205395.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/tamil-nadu/cmc-vellore-iit-m-sign-mou-on-artificial-intelligence-in-healthcare/article67205395.ece/amp/",
-      "publishedDateTime": "2023-08-17T10:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

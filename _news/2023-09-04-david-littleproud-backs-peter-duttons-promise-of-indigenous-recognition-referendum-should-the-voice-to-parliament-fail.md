@@ -78,15 +78,6 @@ related:
       name: WAtoday
       domain: watoday.com.au
     quality: 19
-  - title: "Peter Dutton flags second referendum if Indigenous Voice to Parliament fails"
-    excerpt: "Opposition leader Peter Dutton has committed to holding another referendum to recognise Indigenous Australians in the Constitution if the Voice failed."
-    publishedDateTime: 2023-09-03T13:43:00Z
-    webUrl: "https://www.theaustralian.com.au/breaking-news/peter-dutton-flags-second-referendum-if-indigenous-voice-to-parliament-fails/news-story/f14566cceeb7770f46146df839ddafdb"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 16
   - title: "Dutton’s vow for second Voice referendum is where Nationals have been for ‘some time’"
     excerpt: "Nationals leader David Littleproud says Opposition leader Peter Dutton’s vow for a second referendum to give constitutional recognition if the Voice to Parliament fails is where the Nationals have been for “some time”."
     publishedDateTime: 2023-09-03T20:06:00Z

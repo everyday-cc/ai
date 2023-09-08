@@ -2,6 +2,108 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-08-my-5-favorite-ai-tools-for-school-class-is-in-session-and-generative-ai-can-help.md",
+      "title": "My 5 favorite AI tools for school: Class is in session, and generative AI can help",
+      "excerpt": "During last year's back-to-school season, ChatGPT had not yet been unveiled, and generative AI wasn't on everyone's radar. However, today, the topic is more popular than ever, and new helpful AI tools for students are released daily.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/my-5-favorite-ai-tools-for-school-class-is-in-session-and-generative-ai-can-help/",
+      "originalUrl": "https://www.zdnet.com/article/my-5-favorite-ai-tools-for-school-class-is-in-session-and-generative-ai-can-help/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/949a661a78ead34fee854ac7a7d758e36b74306a/2023/09/07/1c6fb698-f446-4f99-87ef-04b1c12e5445/gettyimages-1467277901.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/my-5-favorite-ai-tools-for-school-class-is-in-session-and-generative-ai-can-help/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/my-5-favorite-ai-tools-for-school-class-is-in-session-and-generative-ai-can-help/",
+      "publishedDateTime": "2023-09-08T00:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-08-agt-judge-simon-cowell-reveals-he-is-not-a-fan-of-ai.md",
+      "title": "'AGT' judge Simon Cowell reveals he is ‘not a fan’ of AI",
+      "excerpt": "\"A lot of people said why, and I said I miss it, I really, really do,\" Cowell, who got his start in music publishing ... the music industry is already facing concerns about the use of AI in the creation of new works. In July, the Recording Academy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/agt-judge-simon-cowell-reveals-not-fan-of-ai",
+      "originalUrl": "https://www.foxnews.com/entertainment/agt-judge-simon-cowell-reveals-not-fan-of-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/09/1200/675/Simon-Cowell.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/agt-judge-simon-cowell-reveals-not-fan-of-ai.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/agt-judge-simon-cowell-reveals-not-fan-of-ai.amp",
+      "publishedDateTime": "2023-09-08T00:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-08-studio-chiefs-talk-barbie-ai-and-strike-at-goldman-sachs-tech-summit.md",
       "title": "Studio Chiefs Talk Barbie, AI And Strike At Goldman Sachs Tech Summit",
       "excerpt": "Warner Bros. Discovery, Paramount, News Corp. and Mattel CEOs weigh in on the new Hollywood hit machine, all dressed up in pink.",
@@ -856,7 +958,7 @@
       "originalUrl": "https://techcrunch.com/2023/09/07/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 279,
+      "heat": 299,
       "tags": null,
       "images": [
         {
@@ -1144,100 +1246,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-ai-one-persons-creativity-vs-the-entire-corpus-of-human-knowledge.md",
-      "title": "AI: One Person's Creativity Vs. The Entire Corpus Of Human Knowledge",
-      "excerpt": "Should our tech represent the complete corpus of human knowledge and creativity, or should our self-interest limit how we optimize and utilize this powerful resource?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/09/07/ai-one-persons-creativity-vs-the-entire-corpus-of-human-knowledge/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/09/07/ai-one-persons-creativity-vs-the-entire-corpus-of-human-knowledge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63bc1cf8f98796ecf1f26064/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/09/07/ai-one-persons-creativity-vs-the-entire-corpus-of-human-knowledge/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/09/07/ai-one-persons-creativity-vs-the-entire-corpus-of-human-knowledge/amp/",
-      "publishedDateTime": "2023-09-07T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-bengal-man-develops-robots-for-teaching-autistic-children-working-as-waiters.md",
-      "title": "Bengal man develops robots for teaching autistic children, working as waiters",
-      "excerpt": "A 62-year-old retired hospital employee has built robots at his own expense that can perform tasks which can help autistic children learn, spread awareness on diseases such as dengue and even work as a waiter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/health/2585086-bengal-man-develops-robots-for-teaching-autistic-children-working-as-waiters",
-      "originalUrl": "https://www.devdiscourse.com/article/health/2585086-bengal-man-develops-robots-for-teaching-autistic-children-working-as-waiters",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/04_02_2023_12_15_10_8349154.jpg?width=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/health/2585086-bengal-man-develops-robots-for-teaching-autistic-children-working-as-waiters?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/health/2585086-bengal-man-develops-robots-for-teaching-autistic-children-working-as-waiters?amp",
-      "publishedDateTime": "2023-09-07T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

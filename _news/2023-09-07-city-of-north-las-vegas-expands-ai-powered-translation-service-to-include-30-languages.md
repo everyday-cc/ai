@@ -27,12 +27,12 @@ images:
 related:
   - title: "Robots are pouring drinks in Vegas. As AI grows, the city's workers brace for change"
     excerpt: "Workers in Las Vegas have been watching automation and technology inch into their workplace. Now with AI, the city is preparing to adapt its service-heavy tourism economy."
-    publishedDateTime: 2023-09-04T08:59:00Z
-    webUrl: "https://www.wwno.org/npr-news/2023-09-04/robots-are-pouring-drinks-in-vegas-as-ai-grows-the-citys-workers-brace-for-change"
+    publishedDateTime: 2023-09-04T14:00:00Z
+    webUrl: "https://www.wuwm.com/economy-business/2023-09-04/robots-are-pouring-drinks-in-vegas-as-ai-grows-the-citys-workers-brace-for-change"
     type: article
     provider:
-      name: WWNO
-      domain: wwno.org
+      name: WUWM
+      domain: wuwm.com
     quality: 47
     images:
       - url: "https://npr.brightspotcdn.com/dims4/default/28ca57c/2147483647/strip/true/crop/3420x1796+0+385/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F09%2F01%2Fimg_2227-e4ff9eafcd401e007a1ed90c4b090f30f5244767.jpg"

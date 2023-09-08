@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "X post about self-driving cars prompts discussion on Indian roads and driving"
+    excerpt: "As the world is rapidly moving towards automation, many countries are experimenting with driverless cars. Recently, a tweet about the possibility of introducing self-driving cars in India has sparked debate about the dismal state of roads and lack of respect towards traffic rules."
+    publishedDateTime: 2023-09-08T06:43:00Z
+    webUrl: "https://indianexpress.com/article/trending/trending-in-india/self-driving-cars-indian-roads-and-driving-8930137/"
+    ampWebUrl: "https://indianexpress.com/article/trending/trending-in-india/self-driving-cars-indian-roads-and-driving-8930137/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/trending/trending-in-india/self-driving-cars-indian-roads-and-driving-8930137/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 41
+    images:
+      - url: "https://images.indianexpress.com/2023/09/self-driving-cars-india.jpg"
+        width: 1200
+        height: 667
+        isCached: true
   - title: "Self-driving delivery trucks could be sharing the roads with drivers very soon"
     excerpt: "The day is coming when that 18-wheeler rolling down the highway won’t have a driver behind the wheel, it’ll be running autonomously and that frightens some."
     publishedDateTime: 2023-09-05T16:24:00Z

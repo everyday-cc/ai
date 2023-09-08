@@ -5,8 +5,10 @@ excerpt: "detect model bias and drift and help organizations meet ethics standar
 publishedDateTime: 2023-09-07T13:00:00Z
 originalUrl: "https://techcrunch.com/2023/09/07/ibm-rolls-out-new-generative-ai-features-and-models/"
 webUrl: "https://techcrunch.com/2023/09/07/ibm-rolls-out-new-generative-ai-features-and-models/"
+ampWebUrl: "https://techcrunch.com/2023/09/07/ibm-rolls-out-new-generative-ai-features-and-models/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/07/ibm-rolls-out-new-generative-ai-features-and-models/amp/"
 type: article
-quality: 49
+quality: 89
 heat: -1
 published: false
 
@@ -21,6 +23,12 @@ provider:
 topics:
   - AI Ethics
   - AI
+
+images:
+  - url: "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1127480719.jpg?w=1024"
+    width: 1024
+    height: 683
+    isCached: true
 
 related:
   - title: "Building AI for business: IBM’s Granite foundation models"
@@ -58,6 +66,6 @@ related:
       domain: forbes.com
     quality: 49
 
-secured: "iDbpFXraDWJm4bnxueGm0bwvbYED9n6snGXs4/pgRMyaefJcX32B7PfFrukvMd366IazIdXyCPbax7+vPj8unzh9fiUtqKrjcx/8+jTsxbqZSe3x8BiwRkI/Spea0rp4dbY9QD0Gi65j40+iPrRueZ/SbSKUzJBHgnJSDVEKTaspxCeHdWFLCbCJ+j4xW85874HWCDqt/L9v8XslbHEKW+WkWTQE9OB5xR/EPzVaZjQFTCREt72MBvFP4M5Z3vC+4qf+GIP3FecG2Mlc20YNitwdWxDd8mhljv3LikSMjL6Wxr7O4E/EAnLb6ROaz/At8DuyjOplwjvCHjL3p5hIGN7eAJZcsI/YJeDVRkXPqQg=;pPIIJb/vnijVKP4NaJJMJw=="
+secured: "4mHmcdL9r8kVZPiVd3vMSTuwzeZ4JhlHHZjbLT07/+peYI7BvlpyPa4/AWfVm+KorxI/QMNQTP2KKf4tHg5GSEhEfva2xmufouzqhsnw9AK8f9pu5uF4fE4vPvmt+S4MuWpjwqepgJQyb7S4CTYVX3iUToec03XatS+F6jUck+l8TT9xfxhTiYnrZVSnHlnjKEwy6gxGwgusDvnNqmz8epGAoif69JZsyD316BRqmPJI6cPnCCpQHuq61z+Jewfx7r98YC6s5rNzHLfzIxDSedszsWILtW/dB/Y1/czgZyW/wcN/A1vXd1KIZy3OQB1/LvYNA1GArE62GwbYqUToqtwksHRXticKrrkHH+Rv1Tw=;y3bvX+imA1Bmx3zsZ1aQRA=="
 ---
 

@@ -1,28 +1,20 @@
 ---
 category: news
 title: "IBM and Salesforce Team Up To Help Businesses Accelerate Adoption of Trustworthy AI"
-excerpt: "ARMONK, N.Y. and SAN FRANCISCO, Aug. 31, 2023 /CNW/ -- Today, IBM IBM and Salesforce CRM announced a collaboration to help businesses worldwide across industries accelerate their adoption of AI ..."
-publishedDateTime: 2023-08-31T12:17:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/08/n34140598/ibm-and-salesforce-team-up-to-help-businesses-accelerate-adoption-of-trustworthy-ai"
-webUrl: "https://www.benzinga.com/pressreleases/23/08/n34140598/ibm-and-salesforce-team-up-to-help-businesses-accelerate-adoption-of-trustworthy-ai"
-ampWebUrl: "https://www.benzinga.com/amp/content/34140598"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34140598"
+excerpt: "ARMONK, N.Y. and SAN FRANCISCO, Aug. 31, 2023 /PRNewswire/ -- Today, IBM (NYSE: IBM) and Salesforce (NYSE: CRM) announced a collaboration to help businesses worldwide across industries accelerate ..."
+publishedDateTime: 2023-08-31T12:59:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20230831ny97038/ibm-and-salesforce-team-up-to-help-businesses-accelerate-adoption-of-trustworthy-ai"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20230831ny97038/ibm-and-salesforce-team-up-to-help-businesses-accelerate-adoption-of-trustworthy-ai"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Morningstar
+  domain: morningstar.com
 
 topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "OSTUQxObsMZhiMglAcJSjJsd1kxuYiIEoSYLQDdZr7O5V2KJ0Dpc1BZqA0gFmfyZlbz+0qBONTvIYUfZ7uD9jDMbt/6x6T0yD0yEUmTBuV2EmFFvtWNOYxDzTIp4O8zgWnFcbvH+c5IehDsQavENtAaUlmNdK9Wcf3k5U+2AG8e31Zn62/da04z3etv34p0cNvDpSPvparS3i2uUrTuh12YoBdJkaEdsC6WXErpI3oJW/p64PkmreJqbD26eKRdXkaXtDVcRSVWAJCWKkeKaTrQXt8Ld6O9+/nVsYbl268zWmIqq/yFWT1oy1u0zSL+Soxn5X5zsRccE6czvrd3oV+oAyHpAypMXtiRxkHKSVSw=;g90Xhds5qaKnx2WFve2Zyw=="
+secured: "TWy5D79/+O63r9iRwBgIs9rBrbCwVq8BEKtNFVJfMgXo5fJYOG477KzETLccKZhcA4Fw7eHgKD+O32zSILTfRTsBe1n5QHOcWzQASYfAppr+1x8ERDykr+cqqvmLaFTC+B8qHToLmmvSb/V6GoJBd5rioXl53Em1PoYLPKXASr30zomAW0QqcUVUfWhwx3sra7myxXsqwBbqMCUDC+vtg50YCEQjzaboTdjxbbuQyREX+XszaW1YnbQS5D4YRrVOy21eJted1+jKC7zIe6Ey+ENki/Qy02r0cZpiOMxTry0CGGswwV9IrWspSuWZKwgWgBbOJeG39Jsm5nIYM/6ZBWb3EAcyhPkwlosKzCQoUeI=;BL10c9+mXFFQzAJy9r5HDw=="
 ---
 
