@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/my-5-favorite-ai-tools-for-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/my-5-favorite-ai-tools-for-school-class-is-in-session-and-generative-ai-can-help/"
 type: article
 quality: 81
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Governments Must Quickly Regulate Generative Ai In Schools, Unesco"
+    excerpt: "designed to address the disruptions caused by Generative AI technologies. Building on UNESCO's 2021 Recommendation on the Ethics of Artificial Intelligence and the 2019 Beijing Consenon Artificial Intelligence in Education , the guidance promotes human ..."
+    publishedDateTime: 2023-09-08T19:43:00Z
+    webUrl: "https://menafn.com/1107035192/Governments-Must-Quickly-Regulate-Generative-Ai-In-Schools-Unesco"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
 
 secured: "XQiCzpZEV6SIdaevjxfAVKbtLx//sB/1myvX9f8RqXAM4AiQTaObAlDfJegei4+Ade8xOOnCsXSUqBYym4SxTUFM+5hI7J6xqs7UR/zZdTPO6A8djgEVV/9jmTE4bzwTbf4tWeDytvVauMZ2ZAQUo5+HlvEhFcXAb/T4a+qlZxX1+wbtzgKekJnVmD2ueYs5r+G+Iql9PqXskT0kfCmtECh/hetYxfXLh+1x+nwWkYd0DfEugBJfE605p8WOJ9+AuSbdIO0Umg2P3J5PwC1J5qfw7LwxcbQMkzW26efHhpSy9dqjYzR+ER2FHrM6422kOCOR9IigEeYb/6k0jUrFQmCOFb3uWswQy4g/kQpOb+4TFlWfM4WDIA3fFzCon/CmgWBlseKmkovtdAxTXJofuXlZV6stfyS6MgrLrxh3hEWSY/1DmrifGobbHSPHqiCg5FxxcN+FretIuxmn8zpn9f4cYbScIuzWiAYhDbB9XUkJYIdr603xcF4olSUhOaseSzoiXfr2/jzjDmSKMPksJg==;EiieGKzkB6T84uOKLpG4QQ=="
 ---

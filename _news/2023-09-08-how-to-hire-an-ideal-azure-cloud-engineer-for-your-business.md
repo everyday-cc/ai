@@ -77,6 +77,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "5 steps for assembling AI-driven business teams"
+    excerpt: "We used OpenAI’s ChatGPT to assemble an AI-driven team: the results obtained were solid, and the evidence was clear."
+    publishedDateTime: 2023-09-08T17:59:00Z
+    webUrl: "https://techcrunch.com/2023/09/08/5-steps-for-assembling-ai-driven-business-teams/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
 
 secured: "aYkEiDwUyWGObX116RHM1e8kzJYeEkCSMWpYqyxZUDLX2bw56Za96HcwYAdvbM+RLMPBsqgTtV4/K4N0oMKB+cdJUC3eg/nXKOU79axh1lDRi4uA1fI5OzA3Q5PgJyiYRBs+hqfxuRA+AnTbP3DDicP98se9Fdr00P/9FgTjL/jZU7Pq7KAZ5NyLzCHUr8fyHvZXlANcKEzV1u23b1uj3WO0T+Ld8H4A0d8g+UCy/6zYdq49z4QSQYjz6ylKroOukycDDO3t4LnKiw3zddyhrNuzflk3RxSgMPfhqP0CsRU/+n0DQHzzcspUNQ9JWqSPSiLNiuckYkJLWFB3U/hfWDSzgKnQPcYzB9c4wcz9cX6l4aZXXkMmSzcNH23BchnOxYJ1kaq/u15/REvcxHALhbjqE/5KzsvRzR271v1RF5eAAL8d5yXJ/Jq0107Z1NEEmqdChZyLg8j9As56RfHIkWUFYcZqic3cdXEgJHqju4PC6yW67iPWMLFs0VgcjlWqLPkQDrLnOru+qSfGbWLeVA==;7kOn7AMLvwYwEjx1jIh5aA=="
 ---

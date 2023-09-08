@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/09/08/zoom-unveils-ne
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/09/08/zoom-unveils-new-ai-companion-features/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -105,6 +105,15 @@ related:
         width: 500
         height: 500
         isCached: true
+  - title: "State Legislatures Eye AI Regulation"
+    excerpt: "The state plans to use this information to develop a robust AI ethics board and audit procedures to protect the rights of Vermont citizens amidst future AI developments. Industry-specific guidance has begun to emerge as well. For instance, many state ..."
+    publishedDateTime: 2023-09-08T18:28:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/state-legislatures-eye-ai-regulation-7796939/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 19
 
 secured: "ExXTb5ANbcu7Ei7ye9LXYUOA9vSTQgIP9w35ryBMprDa1/8yfzVAyZ/hrf3ay6rpx0/5MKrEexgGAlHRWxrMRV4YFH1c3UbO4PfhiYBM+c4EgmZEWqwlF+CXvOM8JFyLJF+pkgMFxg6Lf8XD6bT8o7svPICdWtpjxn+eCS5N0XMWImj91wtGgfykZsYlGblgpXJD2BwNzpeD1PCel1zU+hIV7ojGSMUa5uLBkHbC+2XDg3vVSo55Sfo02Q8SZNgckGIsynOkTuPEqETCM3oBLoKwv3cH0Si6JrlR2gx2ujPr2xUstpD2a4edqhJmCevikgXcZxEx1OuzVraYP640QAJcLZpWOn0rXPoDHL0VMnFSP2cH/ZW3JTQdFZ4/APUzAsJxGD9kQ7lmQwFRL4EOHvc5gLXxGsIO6lMkC2QoZMD1tVCMG8GcCmzpL7aJ6iiqv6rx6+0Wprr3jJ2IAPZ9ras1aN5ZZo58UQfyPa+MFcwSvEAzVsQeXLUWPrZcL4b+ZvdVf+A3rjh9uqwTzkypJQ==;NLyPZ0BE7NAisIdumrAUYw=="
 ---

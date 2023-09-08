@@ -138,6 +138,15 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 19
+  - title: "Funding to generative AI seed startups doubled in Q2"
+    excerpt: "So far, at least, the answer is the latter: the true test for any technology is not only when the major tech companies start latching on ... across 48 seed stage deals alone in the generative AI space, nearly doubling the amount of money from the previous ..."
+    publishedDateTime: 2023-09-08T19:12:00Z
+    webUrl: "https://vator.tv/news/2023-09-08-funding-to-generative-ai-seed-startups-doubled-in-q2"
+    type: article
+    provider:
+      name: vator
+      domain: vator.tv
+    quality: 17
   - title: "IAA MOBILITY 2023 Talking not Typing: Continental and Google Cloud Equip Cars with Generative Artificial Intelligence"
     excerpt: "Continental announced a partnership with Google Cloud during its press conference at the IAA MOBILITY 2023. Together, the two companies are equipping"
     publishedDateTime: 2023-09-04T17:26:00Z

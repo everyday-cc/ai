@@ -28,6 +28,22 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
+  - title: "The Transformative Power Of AI, Automation, And Big Data Analytics In Civilian And Defense Agencies"
+    excerpt: "AI, Automation, and Big Data Analytics and IT Modernization have had a big impact in Civilian and Defense Agencies"
+    publishedDateTime: 2023-09-08T21:01:00Z
+    webUrl: "https://www.forbes.com/sites/cognitiveworld/2023/09/08/the-transformative-power-of-ai-automation-and-big-data-analytics-in-civilian-and-defense-agencies/"
+    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2023/09/08/the-transformative-power-of-ai-automation-and-big-data-analytics-in-civilian-and-defense-agencies/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2023/09/08/the-transformative-power-of-ai-automation-and-big-data-analytics-in-civilian-and-defense-agencies/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 75
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64fb8add02f97585562b0c5e/0x0.jpg?format=jpg&crop=2314,1542,x566,y607,safe&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Self-Driving Cars and AI Ethics"
     excerpt: "Peter Singer & Tse Yip Fai consider the implications of autonomous vehicles for passengers, pedestrians, and the planet."
     publishedDateTime: 2023-09-08T10:38:00Z

@@ -80,6 +80,15 @@ related:
         width: 1920
         height: 671
         isCached: true
+  - title: "5 steps for assembling AI-driven business teams"
+    excerpt: "We used OpenAI’s ChatGPT to assemble an AI-driven team: the results obtained were solid, and the evidence was clear."
+    publishedDateTime: 2023-09-08T17:59:00Z
+    webUrl: "https://techcrunch.com/2023/09/08/5-steps-for-assembling-ai-driven-business-teams/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
 
 secured: "WkuNpt7hPqiEMUj6BNwIe6flaLCv1aPoUTOHhElfHxuEf52D0ckqrF+892vrHIeuTcEM0S71lUWYBj4Z0651MjKD5C1g8hOuh5/w/dqqUcvejxwVDDV8ON1fhd3tMvh+ayMEDRIrXGe0YVxpcFqRNg74yLd/toazOiwg47bxItacFbCzE4xhhaWVJnPrrxASR1FlSfKXoYFiPCIgYuuKmCO3p2zALRR4DMnAnCoz2F9Aigv0qHOJQGGC305AvpvUdIQJ3h4luJNZEj/NXba7KRuCEmoJivRk6JMYwR5x9zJMjbTplFiiH//fvTqYkCbNMvpF8KuI1E7aXKz3u6u6TST7R6GahRhBiGeVfbLsUYLZZwBmeTG48gd6nm8W06+LobRpp0+9i8EvFI+hP+8TqqwMsJzEbzELHYWFRVZ9QPx5erzTlx0PsTxIeYWpmTkT4VRaYH681B8JTjz4wFJlSIUfbYL0qDodgdzrMcDuZM9S4QgO/Xr3B/1Yye2UXd0k/S40zIejmdp+1QkQQTaz2A==;u7TICeIU2k8dYOF2g9QX9g=="
 ---

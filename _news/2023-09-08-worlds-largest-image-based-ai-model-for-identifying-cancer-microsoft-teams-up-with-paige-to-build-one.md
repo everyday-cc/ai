@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Apparently, Microsoft and Azure have made an enemy of the Dutch farming community"
+    excerpt: "Skies aren't always blue for Azure. An interesting report from Wired recently detailed the latest community Microsoft seems to have upset, and it's somewhat unexpected."
+    publishedDateTime: 2023-09-08T19:36:00Z
+    webUrl: "https://www.windowscentral.com/microsoft/apparently-microsoft-and-azure-have-made-an-enemy-of-the-dutch-farming-community"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 49
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/pWRjPDRfzbKR5LodtPeLx5-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "iTechGenic Partners with Microsoft Azure and G7 CR Technologies to Revolutionize Engineering Management with AI-Driven Insights"
     excerpt: "India], September 8: iTechGenic, a pioneering AI-based engineering intelligence platform, has joined forces with Microsoft Azure and G7 CR Technologies- A Noventiq Company as a part of their STAB program for ISVs."
     publishedDateTime: 2023-09-08T08:44:00Z

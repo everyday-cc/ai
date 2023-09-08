@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/building-ai-for-business-ibms-granite-fou
 webUrl: "https://www.ibm.com/blog/building-ai-for-business-ibms-granite-foundation-models/"
 type: article
 quality: 99
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -80,6 +80,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "5 steps for assembling AI-driven business teams"
+    excerpt: "We used OpenAI’s ChatGPT to assemble an AI-driven team: the results obtained were solid, and the evidence was clear."
+    publishedDateTime: 2023-09-08T17:59:00Z
+    webUrl: "https://techcrunch.com/2023/09/08/5-steps-for-assembling-ai-driven-business-teams/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
 
 secured: "Ao4+kOYQrg8Vib5Qli8mjtChJ+0VY66Mh9Q4RZo8EH1Y5n8c8div/16KT8c/8xRDZ/FFH3ZLX7fR7/IcJbaeMBt0yih2nwV+hylLwuLEtuY31IJrMxt3SVxNUeOgeDtlPEMjfO+y4v5DW7JUYn1F0KglepSXDtf80J+OTUjjFHDkq1nc6pSLVgvf0EvCcJE1e22Nl0dXHbWGdRxMiA0xZMJDWKyHt2BDp3WUZD3Zc0vl4c8hFu27A8YO+61L0QV4MPNsbJ64xYaBW7Z5vyA88JPTDUB4CQztAMWXSq0LpS+T7ZI4VgL7ai7Xc26/oz0lXmV1PlO35sMZSFDfUm/MJRB1E+63aR/Z4Q892ojCFWo=;EBFZ15IIw2Eg57gd8C0IXA=="
 ---

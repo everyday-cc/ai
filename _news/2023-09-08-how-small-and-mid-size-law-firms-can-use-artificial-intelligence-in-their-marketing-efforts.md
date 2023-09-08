@@ -24,6 +24,17 @@ images:
     height: 350
     isCached: true
 
+related:
+  - title: "How Small and Mid-Size Law Firms Can Use Artificial Intelligence in Their Marketing Efforts"
+    excerpt: "In the rapidly evolving world of legal services, artificial intelligence (AI) is no longer just an emerging technology; it’s a pivotal force revolutionizing how law firms of all sizes operate and market themselves. AI is helping law firm professionals ..."
+    publishedDateTime: 2023-09-08T17:38:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/how-small-and-mid-size-law-firms-can-3685235/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 24
+
 secured: "MeFuXCuEkPKHzZ0k+/hloX16EADC7VjWU61lPY7NYUdZoZAXhQWIvzrRF6o+XA/djxOjgdRXk/CxikikSFHTWaXf3qczW7TuVBe26DVozJiP1WA6vY1an9iYqpKjH0RQZOyBWu1MHDsUCXR8ba36IH4jfpUXY1KkTTsumCFYDrlRWWnZe6SzVoEjPrnujg5DlHBL25FVZYtjzy/QDmFQeAHD86I1DfQbFyQU10jGbfJlDQrz3h4T3b+ec07zDNGMEsAcPlg2/Wk1+tYrqzp+h/W6330zr/2awfk5feudhYLrozE0EdZDYIGHTF4gMkFr0Ffo80m5fcFJXeUmhc0zHamecxvOAc0mSGVcp1iS4Vc=;XusQvego8WdY+4QBRvDo/Q=="
 ---
 

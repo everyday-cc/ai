@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Nation sets impressive pace on AI applications"
-    excerpt: "Chinese enterprises are at a crucial stage of making breakthroughs in generative AI, and should invest more in building exclusive AI models that are more efficient and offer tailored and precise services to users, the experts said. They also emphasized the importance of safeguarding core and sensitive data and user privacy from potential leaks."
-    publishedDateTime: 2023-09-04T01:24:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202309/04/WS64f510d9a310d2dce4bb3a58.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202309/04/64f5314da310d2dc6d27309c.jpeg"
-        width: 542
-        height: 361
-        isCached: true
   - title: "Why you need a consistent AI implementation strategy"
     excerpt: "Businesses must avoid a common misstep when it comes to artificial intelligence: focusing on strategy, not AI implementation."
     publishedDateTime: 2023-09-07T08:24:00Z

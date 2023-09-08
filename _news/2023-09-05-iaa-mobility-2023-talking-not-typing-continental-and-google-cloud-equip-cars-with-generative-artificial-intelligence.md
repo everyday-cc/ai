@@ -152,6 +152,15 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 19
+  - title: "Funding to generative AI seed startups doubled in Q2"
+    excerpt: "So far, at least, the answer is the latter: the true test for any technology is not only when the major tech companies start latching on ... across 48 seed stage deals alone in the generative AI space, nearly doubling the amount of money from the previous ..."
+    publishedDateTime: 2023-09-08T19:12:00Z
+    webUrl: "https://vator.tv/news/2023-09-08-funding-to-generative-ai-seed-startups-doubled-in-q2"
+    type: article
+    provider:
+      name: vator
+      domain: vator.tv
+    quality: 17
 
 secured: "BEsCInGA/X2GLat8AvG4fLJz60V8AoPlsKc/P+ZQIGBzFLggfDgCKFLNJiB8sxfQ/akNNTphzB1kC3GgZrJGz/lMf/SeEVZKmz929Ze4THT8ZyKKNgCUzCSA/BcTx3LWKZGoMsNLAzwUcgOziWaLRFSKne13reYkcjlMu1DCNRI1c4hf03x2+0iasnVnDnVcomBvSTRafXmnRFOTvHcU58cmSxVifaYQaZSNpFOTQG4DW3NQ7Fh7k7cux8K1BQzUM56CBK9czDBN5ugb+NAkVBg+FCPj2jXxenLTZtUrnhzDLcNy0t0k9Go/DOoHmzytF4bsyvyxi8Byk5gd4UscPKCFN5QvMO5DwLa0KkOCqGeem8Bo0UAgCwOX42wy8+MKp9pJtCsk8lZYY2ttfl32G1kND4Jay76KpMlhhjW/QC5MVyy6Z8f/+vVCDRWibGIYcGnk2h7gAnPsziwJOKMTX2P7e/oYZo5VPiZty8g1Ar+TgeWtpYiKafa6+M1Dnr0sDTIiUfXYEgHSVA+Bfqi79A==;JKEAYCpFHSGw/gnFTnOuDg=="
 ---

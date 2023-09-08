@@ -104,6 +104,15 @@ related:
         width: 500
         height: 500
         isCached: true
+  - title: "State Legislatures Eye AI Regulation"
+    excerpt: "The state plans to use this information to develop a robust AI ethics board and audit procedures to protect the rights of Vermont citizens amidst future AI developments. Industry-specific guidance has begun to emerge as well. For instance, many state ..."
+    publishedDateTime: 2023-09-08T18:28:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/state-legislatures-eye-ai-regulation-7796939/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 19
 
 secured: "Pe4drNblOoPVs0+hLEzniFqdknWiR+OeJ0wty10UPe2mnR4jiGuZ8A+1dYyBBJOiTMV3J8/F84xXSlkJEW+R435lZ/YKoUS0I2zoc+9kG1WE+HvzEu3CjrdlgEBss7aAA2gz/LDzMKfZVO73o6RmLUfhLlhek2v0Orpi67tBwJdJdjM9hRPYIKsKvXVF5Pv5+zk2s8X/uEAvoQA1/IbEnDkFrQSC6u143Lz3N6VJ7jXTTr3YopE3piS82/TaBg/bh9n+WSYEFQQBavqgaJXM5wR69xPps2d3kj8kj5tLcGyDVGasLLR3myPeQtuMigizwnnmPC540IVAuETdf5aUryrSGBQfMV3O5jZFTJOT0sFv+jFY15YVaAHfbSBdPOSEEZH/Tfza0WY8KpHIX3+LCHqszdciH7C+QP6xGumMlL/CHcqkDEBnVE0ryvS4BAVQhKs+d1cyuW/9UQ1xECgHaVOq+QV+jmKfYxA7RPs+D4iqPm9hmHKWjOY3FWaISPohO1WQrvL8+DK2SyNOZCCIMQ==;Xryh0xbIgrksO46QAOMXdw=="
 ---

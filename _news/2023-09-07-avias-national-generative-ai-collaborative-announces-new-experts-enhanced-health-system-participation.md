@@ -3,16 +3,16 @@ category: news
 title: "AVIA’s National Generative AI Collaborative Announces New Experts, Enhanced Health System Participation"
 excerpt: "The Generative AI Strategic Collaborative reveals a slate of 10 clinical, ethics, technology, and regulatory experts for its national consortium"
 publishedDateTime: 2023-09-07T16:04:00Z
-originalUrl: "https://www.newsobserver.com/press-releases/article279063044.html"
-webUrl: "https://www.newsobserver.com/press-releases/article279063044.html"
+originalUrl: "https://www.sacbee.com/press-releases/article279063044.html"
+webUrl: "https://www.sacbee.com/press-releases/article279063044.html"
 type: article
 quality: 3
 heat: -1
 published: false
 
 provider:
-  name: Raleigh News & Observer
-  domain: newsobserver.com
+  name: Sacramento Bee
+  domain: sacbee.com
 
 topics:
   - AI Ethics
@@ -43,6 +43,6 @@ related:
       domain: miamiherald.com
     quality: 3
 
-secured: "tN0shY2uktTD25Pl8TY5HPrjbOjuBCcTbl0hMJh1gGZ8D69WAzTTAeLeHM5UD+3PcSP1y+2YIldmbarAghh5noKByo22pAZJrhJAUGecaAclm2/sfpMAFzoRx5tKC3WabcfpOqWddeEGdzk6EEr8JQXGqZUb4L0MadhUbejvtwB1mkG/inka6xOgFflkoT0B012j+LPCbv7eCrQq5lAOoY/ASjYCviJkm0b1x07TPV1FAEev1Zmnj4vNJF6LsMKIDfKFXJ7IeYpbOasThKbUGTZBr8Mv8pnZKmBevl4QJ+jf8lS/6iVz2MTYf/WutWKzIfRef9cgfGPKIcEbZV5i3tBuaO7y34Aflq8i8m7yEKoUVa4jgJcMCQ9JxAOrC5I/wfu46tEY+WkMeNDOlsTsgQAoQK8h0xhDVaZYuIAE/vI9pZUY44h6tPu88oRkbmk9JISMQNvHJCh5ysqBvRfiUzXUgZqo4Z/zFPDlNgRksy7HHpSBeEDMmmoKGVtVA1XpqgN18VuxXcG652ifFkYKmg==;yfe+a9e4Zw/ZQKeXtku8dQ=="
+secured: "+lJ4R+CI4wni55g3PBXU28UWFEA77yJqd5aTC+gwzDkhHSo36GRgnLqAWSDgJPI1+zqo86oBwNtiNcJ9wsPp9spEwBHITsQPp9uE8DLLoAr1lt/tHYV6OsVVq7bHgPQSlk2+czaHGZEZavpbyjgr4Ddo1+qnc+Zf6eL/ma+0nxGN4+pFgejCne3wkA/J72qEpd+8/KzTsdpXT86s4khnzpd7guuCe46dfURpFBGUjmXvehBO+yn6om1IzJV4a9S2JtsDx85knzkOHX7ghfm2+YPiwAg9MEU2zarLEmo/iYNIkrGU+ji+JsX+iciKuSPKT+ott7Ge0p9/fN0vp0zYikoc7LnjvjPksYUGq0CsblY7gN3a5CKVPst+B5kqxUyWnpnMFmLdc/8JiglhdCJlFPOAxXnS77NqbKUREScqlUwaXfKiT27I1IdTCz+lBsazSvPYShQa3YqeZft1ELcFUn9ZJRdWj0IhYoKzuIVhPg6qBo512wqRogANuW8z8a14b7lM+6YxbGB3Bm9f2vh2Hw==;mreoFh6rsQEFE+vnXZ+fMg=="
 ---
 

@@ -124,6 +124,20 @@ related:
         width: 1019
         height: 573
         isCached: true
+  - title: "1 Top Chip Stock Ready to Ride Nvidia's AI Tailwinds Higher"
+    excerpt: "The jump in sales was mostly driven by its data center business, which includes the H100 and A100 chips - two advanced artificial intelligence (AI) chips that are used to build and run AI models and applications. Going forward, the company projected even ..."
+    publishedDateTime: 2023-09-08T20:10:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMD-Q/pressreleases/19991358/1-top-chip-stock-ready-to-ride-nvidias-ai-tailwinds-higher/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 54
+    images:
+      - url: "https://barchart-news-media-prod.aws.barchart.com/EXCLSV/f247ddb2d1b5881d07e0f448cddfcdd5/zlpnpfkrvfnub2io.png"
+        width: 883
+        height: 637
+        isCached: true
   - title: "The AI market will be worth $600 billion, Nvidia exec says"
     excerpt: "According to Das, the total addressable market for AI will consist of $300 billion in chips and systems, $150 billion in generative AI software, and $150 billion in omniverse enterprise software. These figures represent growth over the \"long term,\" Das said, though he did not specify a target date."
     publishedDateTime: 2023-09-05T23:56:00Z
@@ -195,6 +209,24 @@ related:
         width: 850
         height: 448
         isCached: true
+  - title: "Nvidia debuts new software to boost AI model performance on its high-end chips"
+    excerpt: "Nvidia Corp. today announced a new open-source software suite called TensorRT-LLM that expands the capabilities of large language model optimizations on Nvidia graphics processing units and pushes the limits of artificial intelligence inference performance after deployment."
+    publishedDateTime: 2023-09-08T18:02:00Z
+    webUrl: "https://siliconangle.com/2023/09/08/nvidia-unveils-tensorrt-llm-boost-ai-inference-performance-h100-gpus/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 30
+  - title: "TSMC Candidly Explains Why It Can't Keep Up With NVIDIA's Red Hot AI Chip Demand"
+    excerpt: "Unlike many computing trends, AI has practical purposes, so it has stuck around beyond the initial fad period. People are using AI for anything and everything, even when it isn't particularly-suited for the task."
+    publishedDateTime: 2023-09-08T18:52:00Z
+    webUrl: "https://hothardware.com/news/why-tsmc-cant-keep-up"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 29
   - title: "Jio, Nvidia partner to build AI Cloud infrastructure in India"
     excerpt: "Jio Platforms and Nvidia have partnered to build a cloud-based AI infrastructure in India. The collaboration aims to accelerate AI development efforts"
     publishedDateTime: 2023-09-08T12:49:00Z

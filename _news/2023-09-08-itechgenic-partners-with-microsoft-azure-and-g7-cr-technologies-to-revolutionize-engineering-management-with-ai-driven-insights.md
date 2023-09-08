@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Apparently, Microsoft and Azure have made an enemy of the Dutch farming community"
+    excerpt: "Skies aren't always blue for Azure. An interesting report from Wired recently detailed the latest community Microsoft seems to have upset, and it's somewhat unexpected."
+    publishedDateTime: 2023-09-08T19:36:00Z
+    webUrl: "https://www.windowscentral.com/microsoft/apparently-microsoft-and-azure-have-made-an-enemy-of-the-dutch-farming-community"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 49
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/pWRjPDRfzbKR5LodtPeLx5-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "ZZfw3P5RmfCP8z/pKLRcBvn0bO8soZW16iZTRV/ficJhaLpSCsgxMGX/gNFANA6k/aMvl5gaql6l4WbV5EbiF8PZYsWHNSXUx6RzloaRv96X4SbbmqMMU+hmHDw5HCWqxRLcC0u02fzifH94Xjzw1jQXiAeMabuNozOMYncpoP0IYXMP7XSMvtTxbeFr1EzOFYLc/15/I0Y6B+94GbSDT/wUlUz9Cd1+/7GIodw5mMfhS5kFIion7CFh7eQb+ztpowMOrB/UdSLz33ZhGM+HkZVMPnCNVbRUTZNjLPUTL/jCmkWy1MhmdVFGNfxQo+xs6HrfAAlqZOFpFq48bnOxI2xXB7JFVXLjgQRVkDBepXs=;+IwFgreuivQv77JeAAb8Sw=="
 ---

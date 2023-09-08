@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/05/three-thin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/05/three-things-that-services-businesses-should-know-about-ai-right-now/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "7 AI Secrets Every Investor Should Know"
+    excerpt: "Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report"
+    publishedDateTime: 2023-09-08T18:36:00Z
+    webUrl: "https://www.nasdaq.com/articles/7-ai-secrets-every-investor-should-know"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "How worried should we be about AI’s threat to the human race?"
     excerpt: "Artificial-intelligence pioneers are fighting over which of the technology’s dangers is the scariest. One camp, which includes some of the top executives building advanced AI systems, argues its creations could lead to catastrophe."
     publishedDateTime: 2023-09-05T17:50:00Z

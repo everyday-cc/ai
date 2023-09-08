@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Peter Dutton floats idea for second Indigenous recognition referendum"
-    excerpt: "The Yes campaign for the proposed Indigenous Voice to Parliament is hoping it's new ad, featuring John Farnham's 'Youre the Voice' will revive support for the Yes vote."
-    publishedDateTime: 2023-09-04T02:00:00Z
-    webUrl: "https://www.abc.net.au/listen/programs/worldtoday/idea-for-second-indigenous-recognition-referendum/102811512"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 24
-    images:
-      - url: "https://live-production.wcms.abc-cdn.net.au/9c5b5cedf42435bdfdf60ea9dd6a80a3?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=249&width=862&height=485"
-        width: 862
-        height: 485
-        isCached: true
   - title: "Peter Dutton says there is 'overwhelming support for constitutional recognition' after pitching second referendum if Voice fails"
     excerpt: "“I do think there is overwhelming support for constitutional recognition, it’s been the policy of the Liberal Party back to John Howard days.” Voters just did not support Prime Minister Anthony Albanese's Voice proposal because they do not want it in ..."
     publishedDateTime: 2023-09-06T12:10:00Z
@@ -63,6 +49,15 @@ related:
     provider:
       name: Sky News Australia
       domain: skynews.com.au
+    quality: 0
+  - title: "Ben O’Shea: Dutton is using the idea of a second referendum to provide cover for people to vote ‘No’ to Voice"
+    excerpt: "They say a bird in the hand is worth two in the bush. Going by that established exchange rate, a bird in the hand must be worth approximately 10,000 birds that are promised to you by a politician."
+    publishedDateTime: 2023-09-08T17:59:00Z
+    webUrl: "https://www.perthnow.com.au/opinion/ben-oshea-dutton-is-using-the-idea-of-a-second-referendum-to-provide-cover-for-people-to-vote-no-to-voice--c-11795943"
+    type: article
+    provider:
+      name: Perth Now
+      domain: perthnow.com.au
     quality: 0
 
 secured: "knpBGptehOLHLDhpSUTFU8fvkI9J/+kFhTAVGLeDI1Dmr8A4u2VriQ0zNJC1Ic6QijPhC4OXW79rdq/G5N/bHKPjrLm163TAipwLKrx0P8sa5B7eEbMf8lVkO/PNfo7jLX9VO5mNbVXUAEUhxjZYsHa83tLfvjfxy2+/jWyGnxWLKqhrtaP3gpkHQgPiKJ/hkPxE+7dGi3GmZ7YAbrFRNve1OycABWlmP/pJssidTRpu8gu4QZ/ek2nJ3qhECpapOU6471tCeFasuI1bnMXZorxB4fryF87mCaXcOFf4X/AXAuB6QdIrRvG98npQGK7rV4ux4Ea8LrVNHNo4Ss6fehBqoHMQLWkP6kGxNmp1S+8=;ypUnn7r7Sbvacu6lTXH8AA=="

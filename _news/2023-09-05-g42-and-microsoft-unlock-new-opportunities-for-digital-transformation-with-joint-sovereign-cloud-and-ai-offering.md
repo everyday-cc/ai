@@ -273,6 +273,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
+  - title: "Microsoft Says It Will Pay Tab for Infringement Suits Against Its AI Customers"
+    excerpt: "The tech giant says it doesn't want uncertainties surrounding patent infringement law for generative AI to scare away customers from its Copilot tool."
+    publishedDateTime: 2023-09-08T17:40:00Z
+    webUrl: "https://www.law.com/corpcounsel/2023/09/08/microsoft-says-it-will-pay-tab-for-infringement-suits-against-its-ai-customers/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 32
   - title: "Charlotte firm partners with Microsoft to leverage generative artificial intelligence"
     excerpt: "Ally Financial Inc. is fully embracing generative AI after the launch of ChatGPT late last year unveiled the technology's revolutionary potential."
     publishedDateTime: 2023-09-07T18:25:00Z
