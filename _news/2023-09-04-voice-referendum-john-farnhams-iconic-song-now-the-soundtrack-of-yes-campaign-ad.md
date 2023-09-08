@@ -57,15 +57,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 19
-  - title: "Dutton’s vow for second Voice referendum is where Nationals have been for ‘some time’"
-    excerpt: "Nationals leader David Littleproud says Opposition leader Peter Dutton’s vow for a second referendum to give constitutional recognition if the Voice to Parliament fails is where the Nationals have been for “some time”."
-    publishedDateTime: 2023-09-03T20:06:00Z
-    webUrl: "https://www.theaustralian.com.au/news/duttons-vow-for-second-voice-referendum-is-where-nationals-have-been-for-some-time/video/7fb2867e33b0e2bdce67619e602d2ef5"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 0
 
 secured: "FXb+oSmAb4SaczcrKoUIdZQCZ+IL3OkH4t/lIwPGW+FmfckVa7a66Tkx9Yv0YrvvX5Pwe3qw3EgnFC/2Kaal7bbB6sZZQgwIzqALptsuNiLqzCYyQkImMKCuKm4IRdwOujS4hN6KWSrDDnvYxStO0vSu0bFsYswQ5J1Vjx9s3CL75unDiqbVdUGiTmOTKESszyQarsoOBMW22Kvyj3ycsMqhgzC93ITqu8piMwqSyoNACGA22nbggyBG2dgM2spv5JZASbUeGmwrxhdIbkYS4GkQZSc2wQEG6FL1YlvFOAI8fBCTJjoCd3c3B/uhDRS7KMcmc48jSjxdIPP5igcQs5n/5cgAhHQ0LnLOj1tzeaI=;+R/e+c/WloqQ1IHQQ5dU9Q=="
 ---

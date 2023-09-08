@@ -2,11 +2,11 @@
 category: news
 title: "Part 2: How Artificial Intelligence is Driving the Transportation Sector Forward"
 excerpt: "What a ride it's been for the transportation industry since AI! After all, this new technology comes hand-in-hand with the transport sector."
-publishedDateTime: 2023-09-06T09:26:00Z
-originalUrl: "https://techround.co.uk/tech/part-2-how-artificial-intelligence-is-driving-the-transportation-sector-forward/"
-webUrl: "https://techround.co.uk/tech/part-2-how-artificial-intelligence-is-driving-the-transportation-sector-forward/"
-ampWebUrl: "https://techround.co.uk/tech/part-2-how-artificial-intelligence-is-driving-the-transportation-sector-forward/amp/"
-cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/tech/part-2-how-artificial-intelligence-is-driving-the-transportation-sector-forward/amp/"
+publishedDateTime: 2023-09-06T11:32:00Z
+originalUrl: "https://techround.co.uk/tech/part-2-artificial-intelligence-transportation-sector-2/"
+webUrl: "https://techround.co.uk/tech/part-2-artificial-intelligence-transportation-sector-2/"
+ampWebUrl: "https://techround.co.uk/tech/part-2-artificial-intelligence-transportation-sector-2/amp/"
+cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/tech/part-2-artificial-intelligence-transportation-sector-2/amp/"
 type: article
 quality: 54
 heat: 64
@@ -42,6 +42,6 @@ related:
         height: 435
         isCached: true
 
-secured: "70X3hpgDtIcEi0VGtWSp6ylu1vFa8mqI5QXYeEgKji5kNlDqj9NQwHMekgd7McVhUDvfAIuuU7mbgmASFynashSAFtvb/nOQn7W2kp/jTalfbv/lt+kjcB1iA3N8i773WosawqjIZ9V/hgFzmS2WBiPq7FDY5ts6u+eGzZupzOwfv4KGFHqrpDNm55RiJ8+YazkbyQ2jAs3XtH8YBQc5sStPjSZXMQddQVe46TIyuAuvWu74409gxlel0Q83InOazTdsDDGvY+bwDv/ihv9RrJ0dupPBIj/2BA6fmjyqqSfjK1gx3bufbEj0yuV4cTS/VX2ef6yTzQV5DgksZxbcwleOb3HIPtSPhtEf/Av8QWnQmLkg6zgvbXsYc921Fy1jD3DKb5q+4TB96ZB3yRDkWeDofXt549o/SuyXItxhA3JBaCMFK1rRw/+Uu388hdT5+m9Vh2um8q4kxNk3gv/5ZpqwX/bluvN9gapDxRtXRsdzQI0nHzVL+6rS7N/hRggHx/8mL9kt2GknPXwX9rOlnQ==;mtdi+BBAgrPAIBTHA12bnQ=="
+secured: "DAhZNT2keCmUU/Qxjg2WP/89NDvc+eAtE1h9QmKmUBA9X3yVaAKYQtIgfO0FndVm8uuCM3hStLG7KKietI/C6tvUuw5WZVK8QtCbFRmt837RdgUYphLiUc/+5wAMOaWwkpIxLRRR3cLCQUu49/2ev4OEbrmTk08YPxsOjVddM7+ksXoHWbfW4cwcg6NQ6Y53qUtRANDfcX4y6JG0psRS9mR0aulCo/LZSKGjwzmMPyRIUtBjb2APhJhO5uU4ApOlzfewEYI93PeJk6GGB0Czcw88zKjoRaSl8hX48hMyfbdfq9WDLJLZnp83QQmSeQUziaZ5NYY1aGci4KqXqU6Nef0NF/f5p/x2ivyPnAtpS/w=;vJ1m5TP0G2JN2MWEfviQIg=="
 ---
 

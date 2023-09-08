@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Politics and AI: Google to require artificial intelligence disclosures on ads"
-excerpt: "The tech juggernaut will require any political ads that use AI to create altered images or sounds to have a “clear and conspicuous” disclosure in a spot on the ad so that viewers will be able to see the warning. Google even suggested wording that the ..."
-publishedDateTime: 2023-09-07T17:41:00Z
-originalUrl: "https://www.wsbtv.com/news/trending/politics-ai-google-require-artificial-intelligence-disclosures-ads/D33TEJ2I5NE4NNAWQMRQKJAMAA/"
-webUrl: "https://www.wsbtv.com/news/trending/politics-ai-google-require-artificial-intelligence-disclosures-ads/D33TEJ2I5NE4NNAWQMRQKJAMAA/"
-ampWebUrl: "https://www.wsbtv.com/news/trending/politics-ai-google-require-artificial-intelligence-disclosures-ads/D33TEJ2I5NE4NNAWQMRQKJAMAA/?outputType=amp"
-cdnAmpWebUrl: "https://www-wsbtv-com.cdn.ampproject.org/c/s/www.wsbtv.com/news/trending/politics-ai-google-require-artificial-intelligence-disclosures-ads/D33TEJ2I5NE4NNAWQMRQKJAMAA/?outputType=amp"
+excerpt: "Google is the first tech company to require an AI disclosure, Politico reported. The Federal Election Commission has yet to regulate if and when AI can be used in campaigns, but in August it agreed to seek public comment on whether to make updates to its policies to include AI advertisements."
+publishedDateTime: 2023-09-07T23:41:00Z
+originalUrl: "https://www.kiro7.com/news/trending/politics-ai-google-require-artificial-intelligence-disclosures-ads/D33TEJ2I5NE4NNAWQMRQKJAMAA/"
+webUrl: "https://www.kiro7.com/news/trending/politics-ai-google-require-artificial-intelligence-disclosures-ads/D33TEJ2I5NE4NNAWQMRQKJAMAA/"
+ampWebUrl: "https://www.kiro7.com/news/trending/politics-ai-google-require-artificial-intelligence-disclosures-ads/D33TEJ2I5NE4NNAWQMRQKJAMAA/?outputType=amp"
+cdnAmpWebUrl: "https://www-kiro7-com.cdn.ampproject.org/c/s/www.kiro7.com/news/trending/politics-ai-google-require-artificial-intelligence-disclosures-ads/D33TEJ2I5NE4NNAWQMRQKJAMAA/?outputType=amp"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: WSB-TV
-  domain: wsbtv.com
+  name: KIRO-TV
+  domain: kiro7.com
 
 topics:
   - AI
 
 images:
-  - url: "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/7InCH-vu-cPef2OtufK0V-lZnNQ=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/74ROHO3S3JDAVCBSNLZYGZ5DME.jpg"
+  - url: "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/7InCH-vu-cPef2OtufK0V-lZnNQ=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/74ROHO3S3JDAVCBSNLZYGZ5DME.jpg"
     width: 1440
     height: 810
     isCached: true
@@ -57,6 +57,6 @@ related:
         height: 675
         isCached: true
 
-secured: "XmlN9W6fYSpq5zyHzm/Ozzlcv2kpq+BoRLvKl0n3E0DbpDrAzhAawl5tZ9feTUMByrnOA45oR+N/pQC7uQ+f9v3ef8MmJK6Mvg8hd0InX0OsOHRq0wvGH/w227bS7vElMLfX4UH/JFS/svWQhHWpUEgoh+Q8ESD6nv8M0PhvzRvcfr4pfAnhZt038ztFth2cezfeP+Fng6guH1uDdwkdKp9cPENAQy1yvEuDOQ6GAUbgI5BCrX7Twiy523LYT6v5FSPgo/NvOMc6sYqQYVFCV2wlVf8MYJTSrON3G4McnGnTd6oGxF0E5BuRQKnukxJI2/iaDv3YNZ78oz2qgufnmWUn5F5Di/8hnqZUMs9hnVJ45SwVsensvZUFBkRLzH7/zzI9itIE5VSc8yS+4OQy9mT04GbsjLBdAo0IhhjhzU04nBWaN0RheAroqrdoolW8lgzrhLv1PFMkQ1W7LKf4DQyc1TERZd3aRQ3nS+k+ugKAdighQjMdqi23Bb41zbZwt61zExcUONNbtEzDufIeXg==;YWDPoWpnBgXawBppHq7geQ=="
+secured: "5pZkrL8kM6PwKzytfp03Tm3OVesdP++QH0sXQHPJAcCqyi0MfMSnLzjiUFrbD4tRp87NHt4REBGKYIXndbyIVAKR/e0BpT2RcJfoVX+szUQ/laoBpdLdMh1nfiljSi9YZJvqEuAKX1ZZ3eBrPbNRTgRWs4b19ov5wpPhZL810z1Y98EUd8k+GlRoX/ZX9GqsivYl+Apv2boFN9KHizefSuSxGB2kS2KEWeItQC0zn7iYLCRHtutUdl/wmovfuxqwRVZSmlTeGmrik9fcrKY0K9n9Qi5tTrs9ELDE8iSaGIDh1akLA2rVMK4FfsdlxfX6DXc9McJsYFGv3Xy2oGlPEc7b7OpuuueSWM0tj3+dLLE=;Rm0ohYxayAh9coZ83NiVnQ=="
 ---
 

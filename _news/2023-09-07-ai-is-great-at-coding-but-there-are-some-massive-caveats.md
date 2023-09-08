@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-is-great-at-coding-but-t
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-is-great-at-coding-but-there-are-some-massive-caveats/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "How To Mitigate Risk In An Artificial Intelligence-Driven Threat Landscape"
+    excerpt: "Generative AI tools such as ChatGPT have irrevocably changed the security landscape, posing new threats to cyberdefense efforts by lowering cybercriminals’ barrier to entry and helping them craft AI-generated phishing scams and malicious code at scale."
+    publishedDateTime: 2023-09-07T23:25:00Z
+    webUrl: "https://biztechmagazine.com/article/2023/09/how-mitigate-risk-artificial-intelligence-driven-threat-landscape"
+    ampWebUrl: "https://biztechmagazine.com/article/2023/09/how-mitigate-risk-artificial-intelligence-driven-threat-landscape?amp"
+    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2023/09/how-mitigate-risk-artificial-intelligence-driven-threat-landscape?amp"
+    type: article
+    provider:
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 55
+    images:
+      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202309/GettyImages-1513403586.jpg?itok=RFgP1arK"
+        width: 1440
+        height: 500
+        isCached: true
 
 secured: "ARAUssx8yiy5g5U7orrRe4y6idwIcSdbLlGQTqFIbH9j/FAzDaTc3OjQ6Nr+AlojabC2ZteCVO/vjTSl+U8Nke7cDRR2LuXsR+aw/170j6M1GA/uGSkrEwlK2PtQd7NeKmcuEjML6cv4ZGTmH/9wXzeQ4d1efVGn7/FHnsPZ2BmjX8Ym9K6UKf6reQUvRVkNcmr3cHKa8qknfFeRo4IvcSOLoQaidr5JFzbP7HOgdm4gVE+2czCdCtyXOiVrjpZcDi7PoByVW/GYrfc/BGNOiJhJPAhPmfv734RdbO6y9aDThLcPX+BrPAhtnpIS/RbeSAQeg+yBp40hVC05DDbJGN7JyrllIqvQldu2Ed7X8JfODWmzbGKdOZkPcPfVUkO2MbWZG4saz4rmnptyJU1/WmRS1whqjAdheEygxdrX8v+jMMSpvqukYVEFNuSNGoq5nurLGPFhKYox7FClffCpOAQ432OvBpJrejAGPlRNrhW+aF46Kvski7SZbmtmkwo7N2TkC+IowQaFApHmM7l+8w==;Vek0zobz/OYht111kogmwg=="
 ---

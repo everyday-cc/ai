@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft Vows to Shield Users of Copilot AI From Copyright Lawsuits"
+    excerpt: "Microsoft makes the commitment as artists and writers sue to stop generative AI programs from plagiarizing their work without paying up."
+    publishedDateTime: 2023-09-07T21:20:00Z
+    webUrl: "https://www.pcmag.com/news/microsoft-vows-to-shield-users-of-copilot-ai-from-copyright-lawsuits"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 84
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/06YvlqJVdOHHYRxLbLenLLJ-1.fit_lim.size_1200x630.v1694117923.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Microsoft says it will protect customers from AI copyright lawsuits"
     excerpt: "Microsoft Corp. says it will defend buyers of its artificial intelligence products from copyright infringement lawsuits, an effort by the software giant to ease concerns customers might have about using its AI \"Copilots\" to generate content based on existing work."
     publishedDateTime: 2023-09-07T20:40:00Z

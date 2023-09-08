@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Boston AI startup is the latest tech company to go public, via SPAC"
-    excerpt: "A Boston company that bills itself as an \"industrial generative AI software company,\" has found its way towards the public markets — one of just a few this year to do so."
-    publishedDateTime: 2023-09-07T10:21:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2023/09/07/zapata-computing-reverse-merger.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
   - title: "Zapata AI Set to List on NYSE Following Business Combination with Andretti Acquisition Corp."
     excerpt: "Zapata AI spun out of Harvard University in 2017 with a mission to create significant value for enterprises with generative AI and other advanced algorithms that leverage quantum techniques. The Company’s proprietary quantum techniques run on classical (non-quantum) hardware such as CPUs and GPUs—and have the potential to revolutionize existing AI solutions by making them cheaper,"
     publishedDateTime: 2023-09-06T14:51:00Z

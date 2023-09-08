@@ -83,6 +83,20 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 41
+  - title: "Suspected Chinese operatives using AI generated images to spread disinformation among US voters, Microsoft says"
+    excerpt: "Suspected Chinese operatives have used images made by artificial intelligence to mimic American voters online in an attempt to spread disinformation and provoke discussion on divisive political issues as the 2024 US election approaches,"
+    publishedDateTime: 2023-09-07T14:08:00Z
+    webUrl: "https://abc17news.com/politics/national-politics/cnn-us-politics/2023/09/07/suspected-chinese-operatives-using-ai-generated-images-to-spread-disinformation-among-us-voters-microsoft-says/"
+    type: article
+    provider:
+      name: ABC 17 News
+      domain: abc17news.com
+    quality: 36
+    images:
+      - url: "https://abc17news.b-cdn.net/abc17news.com/2023/09/web-9.7-375x225.jpg"
+        width: 375
+        height: 225
+        isCached: true
   - title: "Crafting persuasion: mastering compelling arguments in the age of AI and the video generation"
     excerpt: "Stratton Horres and Karen L. Bashor of Wilson Elser provide tips on combining AI and video evidence with the human connection in trial presentations, and opening and closing arguments."
     publishedDateTime: 2023-09-07T17:29:00Z
@@ -102,6 +116,6 @@ related:
       domain: wraltechwire.com
     quality: 4
 
-secured: "aP74OL6J+a3leGS67w0LRirg9IQIwQZs4OJvL2g1Y2RQb4elK047afXsUQvxXfTUC2oqlhhjbHdurtHjA9eHyCgiNEJc2RgwYH1eH6shVJJ56eIgDoakk+H5bRJl4B7fQi9EltuGjSoZPNqPghSuOj5BX8hJumveNUOCOdUYA1ArKsMX9Y/dXX+REsjEsu0IFAzc0CCKNo/trnKMOrtzNZ+88I1pfxXgXMfrKLgw0WYu/MIQA1FpoLALFhyVlwVRWLWVpHhwiiiL7V1Mfxh8TYkT88sugE1XJuKzRU2s42g3DMLl/TMJLVQNk2lXdhS7mhVa3z8v1uaJPM9mNNSGWZtYOsl0CqnbzZJNzo9PUOU=;F73lO1rbGVaLx2D57ilS3A=="
+secured: "OiEet8dL9KRL83V7pw21jr+gEtQcPJ8IDduBXZRzFBdiQQEOMaOoP+nn7CQGH9j9RIsPQx0TU6yDXn2lQqiTU4xdBmQnHyl+KrclUINLF466PZCrvHrC6LHnNIk/B3laHFKvhXFoPo6g84boqp1AU3v3UzJD1WECfdxosCRxarnSWHaPMCuE4cafQKMkIlOc8ATicNLACNClWfczYmsn8E9ybV4NKveBOaUxkCJe4fNQrTx3BE06RsZgToF6qDgpyalmaNhnRG2869GFLB5WohrgbaOFiz+9UakJMGdD5KihB8wQp78fOKrPWBt+kxKl4qzqdj2h9AwdYIyuC5Q9xeyH11vreMKg9gw+GJG2HD61520OB8dy0FiIBOOC/kF7ywnNiSYnsCBNKcjGvQOCsEWL+oEZxH8oRoktefANXThSAe6WF6CGWN0Xk9pA/5N856/GdawaSkq67Gtgx+9NcHy83i2tJ6MXOJJB26b2E/7YatnamWG5Pn3q99vkE2j0ad1F/NKWVXtRQWePw9QR8w==;wj7gagG1bNneF568/+5eVg=="
 ---
 

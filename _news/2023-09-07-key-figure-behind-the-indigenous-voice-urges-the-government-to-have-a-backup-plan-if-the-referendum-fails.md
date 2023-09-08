@@ -38,33 +38,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 20
-  - title: "Backlash over Dutton’s plan for second referendum if Voice vote fails"
-    excerpt: "Prime Minister Anthony Albanese said the argument for another referendum “could only possibly make sense if you’re Peter Dutton”, and the best approach was to set up the Voice with constitutional recognition in the referendum on October 14."
-    publishedDateTime: 2023-09-03T19:00:00Z
-    webUrl: "https://www.watoday.com.au/politics/federal/backlash-over-dutton-s-plan-for-second-referendum-if-voice-vote-fails-20230903-p5e1mi.html"
-    type: article
-    provider:
-      name: WAtoday
-      domain: watoday.com.au
-    quality: 19
-  - title: "Peter Dutton flags second referendum if Indigenous Voice to Parliament fails"
-    excerpt: "Opposition leader Peter Dutton has committed to holding another referendum to recognise Indigenous Australians in the Constitution if the Voice failed."
-    publishedDateTime: 2023-09-03T13:43:00Z
-    webUrl: "https://www.theaustralian.com.au/breaking-news/peter-dutton-flags-second-referendum-if-indigenous-voice-to-parliament-fails/news-story/f14566cceeb7770f46146df839ddafdb"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 16
-  - title: "Peter Dutton says there is 'overwhelming support for constitutional recognition' after pitching second referendum if Voice fails"
-    excerpt: "“I do think there is overwhelming support for constitutional recognition, it’s been the policy of the Liberal Party back to John Howard days.” Voters just did not support Prime Minister Anthony Albanese's Voice proposal because they do not want it in ..."
-    publishedDateTime: 2023-09-06T12:10:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/peter-dutton-says-there-is-overwhelming-support-for-constitutional-recognition-after-pitching-second-referendum-if-voice-fails/news-story/931d6136e1437a3d204ee1c4e3c6ad41"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 0
 
 secured: "I3RWyJB7nu7d6exKnt25H3hzRKXb8RtY8oDGqOwRl6ZHvHZgXoEuAFpedYMKAmMCzQsVoVcmqI9jmBzo5nKIEBT5WL/ik8Fv5kfmwcBlxk6xaZqL8dbJQBy21PPzw5usTz9gjI5Og+qhu/90ux0O42/tp9i2MFbfkQ9twZhbgYDvq9VcLfa9lsy9lD1KVofqj1tfkPK3a4zuTxdXVkhD+lT8zP7ofzlFG9XG2vJkx06Qs6ANadhKbtj6gnjDtEXiYyjFyYdKaYiej2huBXjviUpGEw+le3Oyb3vfoSd4m015eDs7rgMYhDWDgIQQvj6h0HV11RnW31cJ5e+EVUgKmNGRNpBgc2lsg22TOYZ3tyE=;D64K/wV5vpBaaUoxV7yqIg=="
 ---

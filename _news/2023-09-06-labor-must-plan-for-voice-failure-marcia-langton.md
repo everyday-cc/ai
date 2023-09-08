@@ -7,7 +7,7 @@ originalUrl: "https://www.afr.com/politics/federal/labor-must-plan-for-voice-fai
 webUrl: "https://www.afr.com/politics/federal/labor-must-plan-for-voice-failure-marcia-langton-20230906-p5e2dz"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,22 +25,86 @@ images:
     isCached: true
 
 related:
-  - title: "'Vote Yes so that we thrive': Voice to Parliament advocate Marcia Langton's passionate plea to Australians"
-    excerpt: "One of the leading advocates for the Yes campaign in the upcoming Voice to Parliament referendum has revealed her concerns if it fails, explaining why she thinks Australians should vote in its favour."
-    publishedDateTime: 2023-09-06T05:00:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/vote-yes-so-that-we-thrive-voice-to-parliament-advocate-marcia-langtons-passionate-plea-to-australians/news-story/ede33ec7056af89b8d6e75b6397defaf"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/vote-yes-so-that-we-thrive-voice-to-parliament-advocate-marcia-langtons-passionate-plea-to-australians/news-story/ede33ec7056af89b8d6e75b6397defaf?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/vote-yes-so-that-we-thrive-voice-to-parliament-advocate-marcia-langtons-passionate-plea-to-australians/news-story/ede33ec7056af89b8d6e75b6397defaf?amp"
+  - title: "No timeline for Dutton's recognition referendum plan"
+    excerpt: "Opposition Leader Peter Dutton has failed to commit to a timeline for when a second referendum for constitutional recognition would be held."
+    publishedDateTime: 2023-09-07T23:52:00Z
+    webUrl: "https://thewest.com.au/news/indigenous-australians/no-timeline-for-duttons-recognition-referendum-plan-c-11838414"
+    ampWebUrl: "https://thewest.com.au/news/indigenous-australians/no-timeline-for-duttons-recognition-referendum-plan-c-11838414.amp"
+    cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/news/indigenous-australians/no-timeline-for-duttons-recognition-referendum-plan-c-11838414.amp"
+    type: article
+    provider:
+      name: The West Australian
+      domain: thewest.com.au
+    quality: 44
+    images:
+      - url: "https://images.thewest.com.au/publication/C-11838414/4723f0d7c8a68db7bcf8c97a72c132e5e476ead2-16x9-x0y0w1280h720.jpg?imwidth=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Peter Dutton floats idea for second Indigenous recognition referendum"
+    excerpt: "The Yes campaign for the proposed Indigenous Voice to Parliament is hoping it's new ad, featuring John Farnham's 'Youre the Voice' will revive support for the Yes vote."
+    publishedDateTime: 2023-09-04T02:00:00Z
+    webUrl: "https://www.abc.net.au/listen/programs/worldtoday/idea-for-second-indigenous-recognition-referendum/102811512"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 24
+    images:
+      - url: "https://live-production.wcms.abc-cdn.net.au/9c5b5cedf42435bdfdf60ea9dd6a80a3?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=249&width=862&height=485"
+        width: 862
+        height: 485
+        isCached: true
+  - title: "Backlash over Dutton’s plan for second referendum if Voice vote fails"
+    excerpt: "Prime Minister Anthony Albanese said the argument for another referendum “could only possibly make sense if you’re Peter Dutton”, and the best approach was to set up the Voice with constitutional recognition in the referendum on October 14."
+    publishedDateTime: 2023-09-03T19:00:00Z
+    webUrl: "https://www.watoday.com.au/politics/federal/backlash-over-dutton-s-plan-for-second-referendum-if-voice-vote-fails-20230903-p5e1mi.html"
+    type: article
+    provider:
+      name: WAtoday
+      domain: watoday.com.au
+    quality: 19
+  - title: "Peter Dutton flags second referendum if Indigenous Voice to Parliament fails"
+    excerpt: "Opposition leader Peter Dutton has committed to holding another referendum to recognise Indigenous Australians in the Constitution if the Voice failed."
+    publishedDateTime: 2023-09-03T13:43:00Z
+    webUrl: "https://www.theaustralian.com.au/breaking-news/peter-dutton-flags-second-referendum-if-indigenous-voice-to-parliament-fails/news-story/f14566cceeb7770f46146df839ddafdb"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 16
+  - title: "David Littleproud backs Peter Dutton's promise of Indigenous recognition referendum should the Voice to Parliament fail"
+    excerpt: "Nationals Leader David Littleproud says his party will support Peter Dutton's promise to hold a second referendum to recognise Indigenous Australians in the constitution if the \"yes\" vote fails and the Coalition wins the next election. Federal politics and ..."
+    publishedDateTime: 2023-09-03T23:28:00Z
+    webUrl: "https://www.farmonline.com.au/story/8334399/nationals-back-duttons-promise-of-a-second-referendum-if-voice-fails/"
+    type: article
+    provider:
+      name: FarmOnline
+      domain: farmonline.com.au
+    quality: 15
+    images:
+      - url: "https://www.farmonline.com.au/images/transform/v1/crop/frm/212131485/f5f0e371-eff4-4e41-88d6-f5e114419937.jpg/r0_361_5200_3091_w1200_h630_fmax.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Dutton’s vow for second Voice referendum is where Nationals have been for ‘some time’"
+    excerpt: "Nationals leader David Littleproud says Opposition leader Peter Dutton’s vow for a second referendum to give constitutional recognition if the Voice to Parliament fails is where the Nationals have been for “some time”."
+    publishedDateTime: 2023-09-03T20:06:00Z
+    webUrl: "https://www.theaustralian.com.au/news/duttons-vow-for-second-voice-referendum-is-where-nationals-have-been-for-some-time/video/7fb2867e33b0e2bdce67619e602d2ef5"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 0
+  - title: "Peter Dutton says there is 'overwhelming support for constitutional recognition' after pitching second referendum if Voice fails"
+    excerpt: "“I do think there is overwhelming support for constitutional recognition, it’s been the policy of the Liberal Party back to John Howard days.” Voters just did not support Prime Minister Anthony Albanese's Voice proposal because they do not want it in ..."
+    publishedDateTime: 2023-09-06T12:10:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/peter-dutton-says-there-is-overwhelming-support-for-constitutional-recognition-after-pitching-second-referendum-if-voice-fails/news-story/931d6136e1437a3d204ee1c4e3c6ad41"
     type: article
     provider:
       name: Sky News Australia
       domain: skynews.com.au
-    quality: 26
-    images:
-      - url: "https://content.api.news/v3/images/bin/6561f89bc0f2fef6e05fde1b447ae104"
-        width: 1280
-        height: 720
-        isCached: true
+    quality: 0
 
 secured: "IkoGBeAwfRqyV92eHtV9LipJOpo2CZJ/IDFTYv26B1UMHrX9w2zGccLOgM/5H6eFqMoTXc4dFxJNoeQMXB8iVmCrtMO6BvPGyPK0ookBMY12skEk8C5JD6fi3kuItWpvF2MeOVgBpOnDAxt18sUM6Hf4OvqKJZ/NITGBFJK5osAAq2Njmm+JibpKyiG+V0IzTWC/2Tm8KS0CyZ0S6RVN8/o4/Kf2JXcK3RHWfXzOop8uDPJ0AQeYJ6yXDwstoUfV6vTr0ytZBQgWuTE08Ygjv3qvj/Oxot7iaEgHuN1At1x7ha54RdYcH03YFrV5h3CF1871P24EJFqkFtmLikF8ZQvTpZJPnE8qxMMcFP8O7Lg=;JReSxD1DEfpGVL/7xfTwiA=="
 ---

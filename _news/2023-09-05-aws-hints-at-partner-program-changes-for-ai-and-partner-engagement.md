@@ -3,8 +3,8 @@ category: news
 title: "AWS hints at partner program changes for AI and partner engagement"
 excerpt: "AWS is set to shake up its current partner programs, hinting towards changes regarding genAI and partner-to-partner engagement."
 publishedDateTime: 2023-09-05T05:36:00Z
-originalUrl: "https://www.arnnet.com.au/article/708622/aws-hints-partner-program-changes-ai-partner-engagement/"
-webUrl: "https://www.arnnet.com.au/article/708622/aws-hints-partner-program-changes-ai-partner-engagement/"
+originalUrl: "https://www.arnnet.com.au/article/708622/aws-hints-at-partner-program-changes-for-ai-and-partner-engagement/"
+webUrl: "https://www.arnnet.com.au/article/708622/aws-hints-at-partner-program-changes-for-ai-and-partner-engagement/"
 type: article
 quality: 54
 heat: 54
@@ -24,6 +24,6 @@ images:
     height: 315
     isCached: true
 
-secured: "cJLiGrYameqlLcgeHz2Rn1E2Ms1Lx7CWYXQvnFB50PFi2z9ZIV1Di1AR7gHkTehXL3hhKKmf1U/mXoyTNGZkTsmuH35gIiyi6MgJlDgv/HSyD5OwP7R5mWanYmyvQI/nnnhw52BE2wmkn8a+Ew3w+ggivBPCI7KQdTsWQJonMax84M6P0GsDt7EKCDlUYJWYbW5g2Uiy8UFf/l53FOiAE5HmeI6LcjkjB1o3EZ3iltqvf29CfC/vcDw39zAfh3C9rVP8JT0fbtFUiK1LOOJOUkU1cyfg0/2GJXewgeRkd9Akj1645C8LzjnaspC5dJ1dRfN5S0C+hdq0YWgtZiXUPF4FGxWlXiOXJ/cr3ObHgWRN8oLU84VGAXRp4aJDBcUMQ7/s8xHhMCL82a0iR7gLhDL+S85HTs9MXjMUsvOnCB8ELxhqDbnJ0tLgeu96yZ6nw20JRf/2sx73eNlXbH9fA10quBHI9mpofKodwgiiIHauNXIg1JiDdvGzrSGB5KzvhE/8beh9ZR/CGQ2T54T0EQ==;k/v/bNPtnOrBbO7Ctx41xA=="
+secured: "sTYGH9s9HKWCKbqcPcqoaurSb3dcmxRjI8ZC9OZ0oksVPkKxYUz9oX2iExX08RcIiHXZ7JofkUQq7IfGrKXvrANAeSIetHLHP5NqRPWNCccrMbeuT8DfQ9uR9FExzRLSZ/vm0lyjEMQTAM3iJL3DyS39Amg9Fj/vNN7Y6r6InTIc5brh96Y6Ta6zlt39u2/paSXpR3NaD8/ST5BkjjwRuI/8Ythk0zsPZI0bZ2k6GqDWIGS23LFkZTi1QNI14J27j1LzacAAdNDDNaLyoLzfuRGl3gY5ZIyDG2wBho3wnw2OY0/HtO07Z2K/CghASZYTnDIXmQKkWYf5LDyIu5u88/abURfm5ouggp3JEcLtfWk=;I8oQUkF5QBYiM1UrmeuiLQ=="
 ---
 

@@ -24,6 +24,22 @@ images:
     height: 1080
     isCached: true
 
+related:
+  - title: "The AI Revolution to Put 2.4 Million Jobs at Risk in the US by 2030"
+    excerpt: "A new Forrester report suggests that Generative AI might replace 2.4 million US jobs by 2030, including proofreaders and administrative roles."
+    publishedDateTime: 2023-09-07T22:30:00Z
+    webUrl: "https://techreport.com/news/the-ai-revolution-to-put-2-4-million-jobs-at-risk-in-the-us-by-2030/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 39
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2023/09/robo-advisor-chatbot-robotic-concept-robot-finger-point-laptop-button-generative-ai-scaled.jpg"
+        width: 2048
+        height: 1147
+        isCached: true
+
 secured: "D7D/AftlDQyBujxQLFK8ulb7dTKqMX92gEe/+2VoxC5UtOEApHz4bUtmEoB7t028sFhEgMgmi6rpCM1GlSvxxRx+S+LkbFG5ZvpnBeO4q4GJ6vAy1GDQP6glnuDigrnnEv9UQn8FQqfK7dqOpIk3IWTLqDA/JY6t4ladekH8CYVVlr8PcSN2oe5LlVR0PCYYtdti37UXmzsRjF4uZiD+11t9Vtnb/5ey4nU8wTVZFC+57J4bMDN+JcVD+ZYv13RCZMGGdhuC3Of67hpknHJ/ibKsQuAe/I1NeCWkizB8dj4HZ3cWmQF+3+BjtYU5C355rxj2Y47HZdG21V67Xhk2H2lPOsAvU7QGzFhMrH/K11U=;uyKZL25OS7Llt5qIp5HZSw=="
 ---
 

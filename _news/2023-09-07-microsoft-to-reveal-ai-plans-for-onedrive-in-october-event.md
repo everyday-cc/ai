@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-to-reveal-ai-plan
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-reveal-ai-plans-for-onedrive-in-october-event/"
 type: article
 quality: 104
-heat: 234
+heat: 244
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Vows to Shield Users of Copilot AI From Copyright Lawsuits"
+    excerpt: "Microsoft makes the commitment as artists and writers sue to stop generative AI programs from plagiarizing their work without paying up."
+    publishedDateTime: 2023-09-07T21:20:00Z
+    webUrl: "https://www.pcmag.com/news/microsoft-vows-to-shield-users-of-copilot-ai-from-copyright-lawsuits"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 84
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/06YvlqJVdOHHYRxLbLenLLJ-1.fit_lim.size_1200x630.v1694117923.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "China may be using AI to sway U.S. voters: Microsoft"
     excerpt: "Microsoft researchers found Chinese-controlled AI-generated social media accounts attempting to influence U.S. voters. The campaign used generative AI to create content mimicking U.S. voters. Microsoft said the accounts had attempted to appear American and shared politically charged content."
     publishedDateTime: 2023-09-07T16:17:00Z

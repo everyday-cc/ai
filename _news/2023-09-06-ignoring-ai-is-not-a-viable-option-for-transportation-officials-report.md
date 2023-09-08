@@ -27,10 +27,10 @@ images:
 related:
   - title: "Part 2: How Artificial Intelligence is Driving the Transportation Sector Forward"
     excerpt: "What a ride it's been for the transportation industry since AI! After all, this new technology comes hand-in-hand with the transport sector."
-    publishedDateTime: 2023-09-06T09:26:00Z
-    webUrl: "https://techround.co.uk/tech/part-2-how-artificial-intelligence-is-driving-the-transportation-sector-forward/"
-    ampWebUrl: "https://techround.co.uk/tech/part-2-how-artificial-intelligence-is-driving-the-transportation-sector-forward/amp/"
-    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/tech/part-2-how-artificial-intelligence-is-driving-the-transportation-sector-forward/amp/"
+    publishedDateTime: 2023-09-06T11:32:00Z
+    webUrl: "https://techround.co.uk/tech/part-2-artificial-intelligence-transportation-sector-2/"
+    ampWebUrl: "https://techround.co.uk/tech/part-2-artificial-intelligence-transportation-sector-2/amp/"
+    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/tech/part-2-artificial-intelligence-transportation-sector-2/amp/"
     type: article
     provider:
       name: TechRound

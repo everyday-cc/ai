@@ -6,8 +6,8 @@ publishedDateTime: 2023-09-07T13:06:00Z
 originalUrl: "https://www.ttnews.com/articles/former-executives-stack-av"
 webUrl: "https://www.ttnews.com/articles/former-executives-stack-av"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2023-09/Stack-bb-1200.jpg"
