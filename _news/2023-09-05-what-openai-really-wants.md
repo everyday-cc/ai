@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/what-openai-really-wants/"
 webUrl: "https://www.wired.com/story/what-openai-really-wants/"
 type: article
 quality: 71
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -38,11 +38,25 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_line_art_vector_line_flat_illustration_minimal_surreal__67423beb-041c-40ed-aaf5-4306fbe95146.png?w=1200&strip=all"
         width: 1200
         height: 672
+        isCached: true
+  - title: "OpenAI to Announce GPT 5?"
+    excerpt: "OpenAI, a prominent AI lab, has announced that its first developer conference, OpenAI DevDay, will take place on November 6, 2023."
+    publishedDateTime: 2023-09-08T16:51:00Z
+    webUrl: "https://www.dmnews.com/openai-to-announce-gpt-5/"
+    type: article
+    provider:
+      name: Direct Marketing News
+      domain: dmnews.com
+    quality: 39
+    images:
+      - url: "https://images.dmnews.com/wp-content/uploads/2023/09/GPT-5.jpg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "Soon UAE Will Dethrone OpenAI"
     excerpt: "UAE’s Technological Innovation Institute (TII) yesterday released Falcon 180B, a highly scaled-up version of Falcon 40B."

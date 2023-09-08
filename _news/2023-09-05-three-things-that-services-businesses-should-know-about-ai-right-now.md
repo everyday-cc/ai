@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/05/three-thin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/05/three-things-that-services-businesses-should-know-about-ai-right-now/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "3 things businesses need to know as NYC begins enforcing its AI hiring law"
-    excerpt: "New York's new AI regulations for hiring have many companies jittery. Here's how to get a handle on complying now and in the future."
-    publishedDateTime: 2023-09-04T00:10:00Z
-    webUrl: "https://venturebeat.com/ai/3-things-businesses-need-to-know-as-nyc-begins-enforcing-its-ai-hiring-law/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 65
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/annevb_technology_artificial_intelligence_and_law._colorful_fu_ce8f16b1-af12-449c-8d7a-af72cd4c62c5-1.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "You need to talk to your kid about AI. Here are 6 things you should say."
     excerpt: "As children start back at school this week, it’s not just ChatGPT you need to be thinking about. In the past year, kids, teachers, and parents have had a crash course in artificial intelligence, thanks to the wildly popular AI chatbot ChatGPT."
     publishedDateTime: 2023-09-05T16:45:00Z

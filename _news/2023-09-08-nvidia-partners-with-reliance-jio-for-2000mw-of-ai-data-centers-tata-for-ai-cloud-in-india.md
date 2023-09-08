@@ -6,7 +6,7 @@ publishedDateTime: 2023-09-08T15:48:00Z
 originalUrl: "https://www.datacenterdynamics.com/en/news/nvidia-partners-with-reliance-jio-for-2000mw-of-ai-data-centers-tata-for-ai-cloud-in-india/"
 webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-partners-with-reliance-jio-for-2000mw-of-ai-data-centers-tata-for-ai-cloud-in-india/"
 type: article
-quality: 28
+quality: 30
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://media.datacenterdynamics.com/media/images/explore-dgx-h100-1cc-d.2e16d0ba.fill-1200x630.jpg"
@@ -90,6 +91,22 @@ related:
       - url: "https://images.hindustantimes.com/tech/img/2023/09/08/1600x900/Nvidia_1694137934885_1694137935126.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "NVIDIA Helps India Achieve AI Dominance: After Reliance, Pens Deal With Tata"
+    excerpt: "As per the partnership, Tata Communications and NVIDIA will create an AI cloud in India to offer critical infrastructure to drive computing's next lifecycle. The companies will jointly build an AI supercomputer powered by the NVIDIA's GH200 Grace Hopper Superchip to boost performance."
+    publishedDateTime: 2023-09-08T16:56:00Z
+    webUrl: "https://www.benzinga.com/markets/equities/23/09/34364787/nvidia-helps-india-achieve-ai-dominance-after-reliance-pens-deal-with-tata"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34364787"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34364787"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 56
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/09/08/nvda_0.png?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
         isCached: true
   - title: "NVIDIA, Tata Group to work together on AI computing infrastructure, platforms"
     excerpt: "The companies will work together to build an AI supercomputer powered by the next-generation NVIDIA GH200 Grace Hopper Superchip to achieve high quality performance."
@@ -189,8 +206,8 @@ related:
     quality: 19
   - title: "Tata Partners With NVIDIA to Build Large-Scale AI Infrastructure"
     excerpt: "TCS will utilize the AI infrastructure and capabilities to build and process generative AI applications. The NVIDIA partnership will further enable TCS in collaborating with its customers to drive reimagination with an AI-first approach. Additionally, TCS will upskill its 600,000-strong workforce leveraging the partnership."
-    publishedDateTime: 2023-09-08T14:28:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/09/08/9877690.htm"
+    publishedDateTime: 2023-09-08T16:40:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/09/08/9877690.htm"
     type: article
     provider:
       name: TMCnet
@@ -233,6 +250,6 @@ related:
       domain: benzinga.com
     quality: 9
 
-secured: "WgwNjR0II+2E2JbGbRkColS2sNk1QNIdj7why0lWr8AtLGRMmVX7zJJ0/EqcBaUxOtK0g286Xqp+wVNna/uZyWpMHfAn2oOxNojnjPws15LqpcVt63er0AvyiB3LZwODKoz8CAFhOwhZ9bfpAldYA3FQ2P8r23AayEGjlqSBs/WERZvfamdowOCbcNlrTd5TQOzt2z0idkUgmj7dPmdqOm2Jip1stqym3v0YwF49mIeYWCB5TKcpnMzRzGOBvwu++GX96TbPrXCFJR13F2Aix/fZpKYd4jbCE0Oym/l2M6uk7jc36eL6/9VDL8J3FhonwiC+XQE2zxv0pjKWMT9+7y56cjbkfQ5aX340tlMUwxA=;1G3COe7CdeYs0HXH5W9YWw=="
+secured: "5PK2Uv4lOv6jSuXAlCGeYM0hzmvJwxJK3PCaZoRqEPz17b2HWvpYUQ7YkMGbHmyLocaWyV7Z2cD9vmhL4yt1PWZW1AMl/wadYLSAlwWwF6VmYh6d/JaYECQddr8emTcPSWdGTGUR2h8V5HrJ0tIho6GEyJeUSycc8931Do/P8RL1NqbI7XToaxTdVzUOTQOMCBCsIFRslVTqTPnu2U7e7zO/g2KT039IRWLJDdVNii0QUxQpD98OnorCKIME0XQw0/UxqC1Ety9XTVuqW4fl/q/lPHw41sNNsczoIyJGmCkiVKgCHoeyCgOcY3xmukh9JHfM8ySfpFMm+FxQoNdxlG0iOSu/wOYS1BGNR3McQxY/ekUfFG+m4Lp72GispcfDFZqbiWrV931ZyHv4xOVXQ5jwZ/+n+RojvZefOJxpz0jcAX1gG2NA6MZbbR6FV3vhCHwJeo8JdEIDFIL8uCZZV2RQN2meU+79S8OuFLmWcxSt74cIjugQZDX7g5gbHPEwCpU9INyzWoxs0AtMOMAPQQ==;8DC8g6175E0sAGzRs5v6Qg=="
 ---
 

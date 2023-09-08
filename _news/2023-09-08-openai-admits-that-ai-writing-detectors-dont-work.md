@@ -46,19 +46,33 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Efficient training for artificial intelligence"
-    excerpt: "Víctor López-Pastor and Florian Marquardt, two scientists at the Max Planck Institute for the Science of Light in Erlangen, Germany, present a method by which artificial intelligence could be trained much more efficiently. Their approach relies on ..."
-    publishedDateTime: 2023-09-08T14:01:00Z
-    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=63602.php"
+  - title: "Analyst Ratings for C3.ai"
+    excerpt: "Within the last quarter, C3.ai (NYSE:AI) has observed the following analyst ratings: According to 5 analyst offering 12-month price targets in the last 3 months, C3.ai has an average price target of $35.8 with a high of $42.00 and a low of $28.00."
+    publishedDateTime: 2023-09-08T16:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/analyst-ratings-for-c3-ai-1032616827"
     type: article
     provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 56
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
     images:
-      - url: "https://www.nanowerk.com/news2/robotics/id63602_2.jpg"
-        width: 800
-        height: 412
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/analyst_ratings_image_0.png"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "Efficient training for artificial intelligence"
+    excerpt: "Training an artificial intelligence consumes more energy the more demanding the tasks are. Víctor López-Pastor and Florian Marquardt, two scientists at the Max Planck Institute for the Physics of Light in Erlangen,"
+    publishedDateTime: 2023-09-08T16:32:00Z
+    webUrl: "https://www.mpg.de/20826914/neuromorphic-computer"
+    type: article
+    provider:
+      name: Max Planck Society
+      domain: www.mpg.de
+    quality: 54
+    images:
+      - url: "https://www.mpg.de/20826890/original-1694190147.jpg?t=eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0IjpudWxsLCJmaXQiOm51bGwsIm9ial9pZCI6MjA4MjY4OTB9--a52183c84030f9304a9d34521956318b35e6ac0f"
+        width: 1200
+        height: 1206
         isCached: true
   - title: "Some CT schools are using artificial intelligence for student tutoring"
     excerpt: "CT is partnering with tech company Varsity Tutors, which uses AI to connect students with tutors and design tutoring lesson plans."
@@ -107,6 +121,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "E5ug6wIEvwR8Fnm9yMrMRMZ8BTtzoVkayAeQZ9c5agF+/vJsBrm79qgoh0SKQXLgTsJS/aIG+moNRg1c/pkywcNhtOA0Q6GElbpE9yLPn1gZBFT0x2YYCP9FtiFlHK4BBc5efUCU6ez/g1uXCXwydhAaacSvCPR9H/YH8li1ui0grj7bp405o0AOsbjcUlFyXQRoVj4ZQlYJ/MroXIyf5uXjGPWlG7wmZAYCG7qmNVnFXdqPcvN82JjIRnIRGPw/FhCJspnzTosHvXCtp6vlJxubz/8LYFnZAfHSbGoaW27suRWv7lhxImSZWixeUoGKeCU19phaa0JA22i/2WNL0GVa+fH6B0vnl3Tx0L5fRUM=;PX7QBP7gtGvNb1fjsKZDpQ=="
+secured: "TdBLcTUuyshdopK0EOSypQXHctNdxWjwML7oSD7KbcYyrGSl7R9gtqn0VdrF8hBKxvY5TbXfaaTQp7RHPmSI5i1yT9nu0vuMm/cx2C5PT7whvtWr6rji9Jq9evizjiksYBBO47ZRI/11SSKYQ7OFYcPkc34dNw1CBRxnAm+E/2QmfNOE8q1WhB6DCQdYK9gNQoKKuLPmNnAVl1HpWAPyfIL5wDszjEztR3lxExuoUQtiXMffjUzDoGFDtvHcPErTos+yHjdm+fe8SAOdxw6l0uwkrGN76Xi905krX98nuySHFtIJ6w5SMEThpQfhjx1I0biXXF+sEjdF8oBHRjfZtW4YFx9wojcqBJYr4cJPNhbjbsg59BJYfp/WaSOvXylLoFvt88zPQ6mlUmY3OWNsKRLSGgxFPco+rVMF2ZJEAx4+9qg+ftIsbF9AIyl5xwo9mtzgDM3+l3GkN1fAaNv+H79wqK2NHDp5M6g7hfiHVynIr67TL49XTBZXhF4oYS10CbVnKKzv8mineuvG/DLHMw==;EF1zk9F9sE9dJzTbtL6lGQ=="
 ---
 

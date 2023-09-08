@@ -55,20 +55,6 @@ related:
         width: 862
         height: 485
         isCached: true
-  - title: "David Littleproud backs Peter Dutton's promise of Indigenous recognition referendum should the Voice to Parliament fail"
-    excerpt: "Nationals Leader David Littleproud says his party will support Peter Dutton's promise to hold a second referendum to recognise Indigenous Australians in the constitution if the \"yes\" vote fails and the Coalition wins the next election. Federal politics and ..."
-    publishedDateTime: 2023-09-03T23:28:00Z
-    webUrl: "https://www.farmonline.com.au/story/8334399/nationals-back-duttons-promise-of-a-second-referendum-if-voice-fails/"
-    type: article
-    provider:
-      name: FarmOnline
-      domain: farmonline.com.au
-    quality: 15
-    images:
-      - url: "https://www.farmonline.com.au/images/transform/v1/crop/frm/212131485/f5f0e371-eff4-4e41-88d6-f5e114419937.jpg/r0_361_5200_3091_w1200_h630_fmax.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Peter Dutton says there is 'overwhelming support for constitutional recognition' after pitching second referendum if Voice fails"
     excerpt: "“I do think there is overwhelming support for constitutional recognition, it’s been the policy of the Liberal Party back to John Howard days.” Voters just did not support Prime Minister Anthony Albanese's Voice proposal because they do not want it in ..."
     publishedDateTime: 2023-09-06T12:10:00Z

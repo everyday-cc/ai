@@ -6,7 +6,7 @@ publishedDateTime: 2023-09-08T15:17:00Z
 originalUrl: "https://venturebeat.com/ai/why-the-latest-1-billion-ai-startup-doesnt-want-to-beat-openai/"
 webUrl: "https://venturebeat.com/ai/why-the-latest-1-billion-ai-startup-doesnt-want-to-beat-openai/"
 type: article
-quality: 67
+quality: 69
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_line_art_vector_line_flat_illustration_minimal_surreal__67423beb-041c-40ed-aaf5-4306fbe95146.png?w=1200&strip=all"
@@ -42,6 +43,20 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "OpenAI to Announce GPT 5?"
+    excerpt: "OpenAI, a prominent AI lab, has announced that its first developer conference, OpenAI DevDay, will take place on November 6, 2023."
+    publishedDateTime: 2023-09-08T16:51:00Z
+    webUrl: "https://www.dmnews.com/openai-to-announce-gpt-5/"
+    type: article
+    provider:
+      name: Direct Marketing News
+      domain: dmnews.com
+    quality: 39
+    images:
+      - url: "https://images.dmnews.com/wp-content/uploads/2023/09/GPT-5.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Soon UAE Will Dethrone OpenAI"
     excerpt: "UAE’s Technological Innovation Institute (TII) yesterday released Falcon 180B, a highly scaled-up version of Falcon 40B."
     publishedDateTime: 2023-09-07T12:20:00Z
@@ -52,6 +67,6 @@ related:
       domain: analyticsindiamag.com
     quality: 19
 
-secured: "8PLPhg8fxsuo9dfzQLsidWniB9+VE60gT5tAF/3WV8ZoddnGzQqhSqMnvpmUjdeRXFGtaSm2AfcuHmpLBAPeE10/Gkp/uLciqK7kCSFJtdEZNrXgxBjb8shKIxdvJ8uy+l22TpkUNdH9JIlXu1Yi39e6Yqnp4URLXL0zl4ZEbgetsqeFiH7nUg3UN+UMUKtdJiCAo4v3tO5ON7J9p1pkXKx7CWMWQZ+UEiaf7LWUO3/PE7qe4vo2dcPaiDDUieDjHkKoI+kZbS0ZGQthjbOSteGtZKnG0vvF7YabWMADrDEMxpDoK1ksOC1Q25vfinIuxmsUH9tQQgJTKWlJU1aRseMcSvjTqutzCh4HPEexHAg=;GyHUpvcVxpSpdBOC9DpTrA=="
+secured: "Sp0SsWF8iuLsYNLsFThzSiPUVzXLLFWHKKgh3wyGbKXmC2t8dvo2qjmH03VBa8Gj8MeqofbPA6KIdczCdpRQUneCBNYjL+/FMiKJs6hNUq0Sq88cMQV7kSqjeSmSykQ8pwr4R3G0o3nCU99sUveGh949UrU+djRCOHGwz62VsFwYsHZhhsVTsgkWyV39WHaudG2ukC1pPWDo5lwdzKX8aXbbVLkj3UjIi7SXUgWr0ITmWa1oFs2JiK0HB/FZSY7aycy5BBcmqhT5RPmUBU8ZcPNWwtqIKJ/fUKPYi/rPa2xPeJvmqe9eJA/YVUOgYNpX/Xuwm3CtMuQln2q+LFrRZQSa1JvcaW7TlaRiTRmvTiYUcTV5SJE2QQ6plizc3B//LjH0ehnc7XpWQVXLZGz+mU1HpCXRSPzL7Bl4qF5dNat0Vskyrupzg1k9H4d6pBRc816lM6GYaRGldz17HEMtBEhogHBc4M6dLyQltunRMv8SeKG6Q/tPnEXXaX65b7Ve7aCakIcA1ZOk4Be3PWDRtw==;MjO/LQ4zv7ExOSP1ymCWHw=="
 ---
 

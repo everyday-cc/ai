@@ -43,6 +43,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Semantic image search for articles using Amazon Rekognition, Amazon SageMaker foundation models, and Amazon OpenSearch Service"
+    excerpt: "Digital publishers are continuously looking for ways to streamline and automate their media workflows in order to generate and publish new content as rapidly as they can. Publishers can have repositories containing millions of images and in order to save money, they need to be able to reuse these images"
+    publishedDateTime: 2023-09-08T16:38:41Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/semantic-image-search-for-articles-using-amazon-rekognition-amazon-sagemaker-foundation-models-and-amazon-opensearch-service/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 93
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/08/featured-images-ML-13969-1120x630.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Fine-tune Llama 2 for text generation on Amazon SageMaker JumpStart"
     excerpt: "Today, we are excited to announce the capability to fine-tune Llama 2 models by Meta using Amazon SageMaker JumpStart. The Llama 2 family of large language models (LLMs) is a collection of pre-trained and fine-tuned generative text models ranging in scale from 7 billion to 70 billion parameters. Fine-tuned"
     publishedDateTime: 2023-09-06T17:19:16Z

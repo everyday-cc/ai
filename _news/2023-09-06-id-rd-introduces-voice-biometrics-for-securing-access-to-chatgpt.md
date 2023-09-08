@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "NIST splits FRVT into face biometrics and facial analysis evaluations"
+    excerpt: "The FRVT will be replaced with the Face Recognition Technology Evaluation (FRTE) and the Face Analysis Technology Evaluation (FATE)."
+    publishedDateTime: 2023-09-08T16:17:00Z
+    webUrl: "https://www.biometricupdate.com/202309/nist-splits-frvt-into-face-biometrics-and-facial-analysis-evaluations"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/08/16185607/face-recognition-cropped-scaled.jpg"
+        width: 2046
+        height: 2048
+        isCached: true
   - title: "New sensors present options for under-display face biometrics on smartphones"
     excerpt: "New hardware image sensors are starting to emerge as possibilities for integration into smartphones and other electronic devices."
     publishedDateTime: 2023-09-07T16:54:00Z

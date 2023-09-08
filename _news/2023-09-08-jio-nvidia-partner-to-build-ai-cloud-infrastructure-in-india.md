@@ -85,6 +85,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "NVIDIA Helps India Achieve AI Dominance: After Reliance, Pens Deal With Tata"
+    excerpt: "As per the partnership, Tata Communications and NVIDIA will create an AI cloud in India to offer critical infrastructure to drive computing's next lifecycle. The companies will jointly build an AI supercomputer powered by the NVIDIA's GH200 Grace Hopper Superchip to boost performance."
+    publishedDateTime: 2023-09-08T16:56:00Z
+    webUrl: "https://www.benzinga.com/markets/equities/23/09/34364787/nvidia-helps-india-achieve-ai-dominance-after-reliance-pens-deal-with-tata"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34364787"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34364787"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 56
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/09/08/nvda_0.png?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "NVIDIA, Tata Group to work together on AI computing infrastructure, platforms"
     excerpt: "The companies will work together to build an AI supercomputer powered by the next-generation NVIDIA GH200 Grace Hopper Superchip to achieve high quality performance."
     publishedDateTime: 2023-09-08T15:09:00Z
@@ -180,7 +196,7 @@ related:
     provider:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
-    quality: 28
+    quality: 30
     images:
       - url: "https://media.datacenterdynamics.com/media/images/explore-dgx-h100-1cc-d.2e16d0ba.fill-1200x630.jpg"
         width: 850
@@ -188,8 +204,8 @@ related:
         isCached: true
   - title: "Tata Partners With NVIDIA to Build Large-Scale AI Infrastructure"
     excerpt: "TCS will utilize the AI infrastructure and capabilities to build and process generative AI applications. The NVIDIA partnership will further enable TCS in collaborating with its customers to drive reimagination with an AI-first approach. Additionally, TCS will upskill its 600,000-strong workforce leveraging the partnership."
-    publishedDateTime: 2023-09-08T14:28:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/09/08/9877690.htm"
+    publishedDateTime: 2023-09-08T16:40:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/09/08/9877690.htm"
     type: article
     provider:
       name: TMCnet

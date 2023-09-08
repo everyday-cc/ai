@@ -34,6 +34,15 @@ related:
       name: Outsourcing-pharma
       domain: outsourcing-pharma.com
     quality: 17
+  - title: "LTIMindtree collaborates with CAST AI to help Businesses Optimize Their Cloud Investments"
+    excerpt: "Powered by AI, CAST AI provides cloud cost automation for real-life containerized applications running on AWS, GCP, and Azure. CAST AI’s founders are serial entrepreneurs who have been developing advanced AI solutions for over a decade and have ..."
+    publishedDateTime: 2023-09-08T16:54:00Z
+    webUrl: "https://www.afp.com/fr/news/1312/ltimindtree-collaborates-cast-ai-help-businesses-optimize-their-cloud-investments-202308268172881"
+    type: article
+    provider:
+      name: AFP
+      domain: afp.com
+    quality: 10
 
 secured: "Iwf7vmB/eJJC6qQHUrtruTFUx7KgwAwHXjDLah8fH3CR6Mbrl+DC1rKZSVH+WF7f4Mtd3cwhyLdVyH1HNlm9BY/UDGtv7+OFAOp00bf/n8G4xfvRdLH9tQyVxP1fz17lg4dGLTHYb+0gMTNmH37PYfZ+fz8tLAgndzYd1lq7pJhR3+/T7buxMEf11CvWK3EfmQYhZNa1Nvb3fnGXhNaN2lR5ekT9EZSPSR57TjtbbFWvyHR++n1QccNuwHZapQB2OaosuDOgLDg5vLMHdBS7or+WpFV4IM1j5P9VoRCkACSPmBMtlIiH3+TC6C8tZoLN+n0zI88VsGQyVds47k9LWo/4m9Si/a/VleQ187S8ax8XtT9KWBjNmCRVCNemiu/1GWTpDPU7rXRXn1Ww2wIPEN8SBqCsOJhO0qMuiQpWs7RKKtGqY0r6+HcIdEplkdgUGvhJjBJ4gW8ypbemO8+uYhhuRx5JGsKnMhCe3vxA9Oz7rD1VjxUzRRnupewtyuVteCMWCni9838+hxabUAKayg==;2855Biw9rs55L7fzThcLUA=="
 ---

@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-08-improving-asset-health-and-grid-resilience-using-machine-learning.md",
+      "title": "Improving asset health and grid resilience using machine learning",
+      "excerpt": "Machine learning (ML) is transforming every industry, process, and business, but the path to success is not always straightforward. In this blog post, we demonstrate how Duke Energy, a Fortune 150 company headquartered in Charlotte, NC., collaborated with the AWS Machine Learning Solutions Lab (MLSL)",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improving-asset-health-and-grid-resilience-using-machine-learning/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improving-asset-health-and-grid-resilience-using-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/08/featured-images-ML-14116-1120x630.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-08T09:27:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-09-07-aiml-will-deliver-value-across-insurance-value-chain-debasish-panda.md",
       "title": "AI/ML Will Deliver Value Across Insurance Value Chain: Debasish Panda",
       "excerpt": "According to IRDAI chairperson Debasish Panda, AI and ML within the insurtech sector will be harnessed throughout the insurance value chain.",
@@ -97,7 +150,7 @@
       "originalUrl": "https://www.wired.com/story/what-openai-really-wants/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -830,49 +883,6 @@
       ]
     },
     {
-      "path": "_news/2023-08-30-unveiling-global-warmings-impact-on-daily-precipitation-with-deep-learning.md",
-      "title": "Unveiling global warming's impact on daily precipitation with deep learning",
-      "excerpt": "A collaborative international research team led by Professor Yoo-Geun Ham from Chonnam National University and Professor Seung-Ki Min from Pohang University of Science and Technology (POSTECH) has made a discovery on the impact of global warming on global daily precipitation.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-08-unveiling-global-impact-daily-precipitation.html",
-      "originalUrl": "https://phys.org/news/2023-08-unveiling-global-impact-daily-precipitation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/unveiling-global-warmi.jpg",
-          "width": 1280,
-          "height": 1057,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-08-unveiling-global-impact-daily-precipitation.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-08-unveiling-global-impact-daily-precipitation.amp",
-      "publishedDateTime": "2023-08-30T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-30-ai-and-ml-are-playing-defining-role-in-driving-fintech-automation-says-stx-next.md",
       "title": "AI and ML are Playing Defining Role in Driving Fintech Automation, Says STX Next",
       "excerpt": "AI and ML algorithms that can process large quantities of data are delivering increased efficiency, scalability and accuracy for fintechs pioneering the technology Artificial intelligence (AI) and machine learning (ML) adoption is increasing across virtually every industry,",
@@ -914,6 +924,49 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-08-30-unveiling-global-warmings-impact-on-daily-precipitation-with-deep-learning.md",
+      "title": "Unveiling global warming's impact on daily precipitation with deep learning",
+      "excerpt": "Using a deep learning approach, they have unveiled a significant change in the characteristics of global daily precipitation for the first time. Their research findings were published on August 30 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/08/230830131932.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/08/230830131932.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1325,50 +1378,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-these-are-the-only-3-machine-learning-stocks-to-consider-in-august-2023.md",
-      "title": "These Are the ONLY 3 Machine Learning Stocks to Consider in August 2023",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Machine learning (ML) is a branch of artificial intelligence (AI) that enables",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/these-are-the-only-3-machine-learning-stocks-to-consider-in-august-2023-1032582703",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/these-are-the-only-3-machine-learning-stocks-to-consider-in-august-2023-1032582703",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-25T06:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

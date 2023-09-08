@@ -2,9 +2,9 @@
 category: news
 title: "Rage against the machine? Why AI may not mean the death of film"
 excerpt: "Technology is Hollywood’s current arch nemesis, but as exhibitors on Venice film festival’s ‘immersive island’ will tell you, AI, VR and XR could lead to a brighter future"
-publishedDateTime: 2023-09-08T14:23:00Z
-originalUrl: "https://www.theguardian.com/film/2023/sep/08/ai-may-not-mean-the-death-of-film"
-webUrl: "https://www.theguardian.com/film/2023/sep/08/ai-may-not-mean-the-death-of-film"
+publishedDateTime: 2023-09-08T15:13:00Z
+originalUrl: "https://www.theguardian.com/film/2023/sep/08/ai-may-not-mean-the-death-of-film?ref=mc.news"
+webUrl: "https://www.theguardian.com/film/2023/sep/08/ai-may-not-mean-the-death-of-film?ref=mc.news"
 ampWebUrl: "https://amp.theguardian.com/film/2023/sep/08/ai-may-not-mean-the-death-of-film"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2023/sep/08/ai-may-not-mean-the-death-of-film"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "bVxLHHaBC2r1Sa+oO/6+BpoScXrKm8r89piAvb3k1jqhCMPpPu2h3ZS/9tzJB32AGg1zROAluiJMA81geu+hhZ/3CDjwqJqDtkpdN2FsJCzvZixjyGZIYotnXt4zJmmziuQTKqF1JzZE1xu7kme9wA1fgVOfE6jyfuASkf/s0nudU5YmGvIqjlVfxGJsUYiDgtd/BqiVV+gCYRLcdktoMsV8OqUzvSIDS9d/wSFtxlr7X2glxA0kIT3oPaNIniiml/cmmQJ7CLQZURxYTGYWhv4gO9Y6JrYks2LgTYUB3qP59V2pdmBp3DP0MOrNsuRWm06kD1jclHjrvO7BCREDQFWh0Kknm6po/mMAF7iiSL4=;x0TsdP4Hb1oKP9JM8FV6XQ=="
+secured: "HchNKfS7ZbZR7sNad4k4EqToPyZol1BpL/xiRZYDjhA4MnK5fIrpqIGeKSb6aLmS/JLKwkgrMdCQAkgIWU/FNynRGah+d5USwUT8IcM2ShlAMMTmqivNnitis17jGBh11bVhw3J2SD3UFLIhIR7/IHRSFrcz4BCjXnS9YqyHFfxxvrhubT/oRI2vEywR7XqdWhBVYUUTAPRcm5Mz4Y1pNuFNGWKJeZuszDoYmZ5RTuF0Y5v4a+TvVTJucLDgIde2wntXL+ppnbrL/cED8E0jrMHYreSikSX/RMua5r+JUGWmiTGGipBkOO4XK38kFxcOE1adWKALg2WIpuNYfS23zSoO+xTQV0VTyQFAVnh1zqU=;NaVf+QOPDLReQo8JSrdf9w=="
 ---
 

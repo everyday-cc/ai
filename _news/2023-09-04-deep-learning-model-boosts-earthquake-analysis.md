@@ -24,6 +24,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Seismologists use deep learning to forecast earthquakes"
+    excerpt: "To address this limitation, a team of researchers at the University of California, Santa Cruz, and the Technical University of Munich created a new model that uses deep learning to forecast aftershocks: the Recurrent Earthquake foreCAST (RECAST)."
+    publishedDateTime: 2023-09-07T00:00:00Z
+    webUrl: "https://www.universityofcalifornia.edu/news/seismologists-use-deep-learning-forecast-earthquakes"
+    type: article
+    provider:
+      name: University of California
+      domain: universityofcalifornia.edu
+    quality: 39
+    images:
+      - url: "https://www.universityofcalifornia.edu/sites/default/files/styles/article_default_banner/public/deep-learning-earthquakes.png?h=0704619c&itok=7VC5GOSc"
+        width: 1680
+        height: 940
+        isCached: true
+
 secured: "IpKx72iQZXgNomULcusoU0h4phNk7WH86klP+q+iMdqQcTI15v4kCh5nS4WROBrkA9dmrCcDQ1CtKlyBFu21kfwXs7fFIm+Lhlsw/Hqe6TKv7oHTzrnlAkXyW3WUCMEJDVuH9V+GQfz+GGcG4VcGAQmveTzScr7aG87HliSAKCsYGm3wJbJbQ+1xupBc5HuBLGH7lASZOlAxzXHMjPsHriPpw3y+3IXHkeCH7Q1LDu99R5aeGasuguZh0ZKipMUsXdgE7Rg3gy8YZ5wevUh9ucn0BiayEf9RjuYjnsMsjYVOe+05oMUQEekJSxJBCBmFfxgooANaLk1vszB2Xkv/HdxfmAFMum8wrKIr4N4MOlc=;97Vtb0uZah8FiBo5o6YBfA=="
 ---
 

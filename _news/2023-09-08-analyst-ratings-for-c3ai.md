@@ -1,0 +1,127 @@
+---
+category: news
+title: "Analyst Ratings for C3.ai"
+excerpt: "Within the last quarter, C3.ai (NYSE:AI) has observed the following analyst ratings: According to 5 analyst offering 12-month price targets in the last 3 months, C3.ai has an average price target of $35.8 with a high of $42.00 and a low of $28.00."
+publishedDateTime: 2023-09-08T16:13:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/analyst-ratings-for-c3-ai-1032616827"
+webUrl: "https://markets.businessinsider.com/news/stocks/analyst-ratings-for-c3-ai-1032616827"
+type: article
+quality: 69
+heat: -1
+published: false
+
+provider:
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Facebook AI
+  - AI
+
+images:
+  - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/analyst_ratings_image_0.png"
+    width: 1024
+    height: 768
+    isCached: true
+
+related:
+  - title: "Rethinking open source for AI"
+    excerpt: "Mehul Shah, founder and CEO of Aryn, a stealth startup that aims to reimagine enterprise search through AI, first outlined the problem for me in an interview. Shah, who spearheaded AWS’ OpenSearch business, is betting big on AI and also on open source."
+    publishedDateTime: 2023-09-04T09:02:00Z
+    webUrl: "https://www.infoworld.com/article/3706091/rethinking-open-source-for-ai.html"
+    ampWebUrl: "https://www.infoworld.com/article/3706091/rethinking-open-source-for-ai.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706091/rethinking-open-source-for-ai.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/09/artificial-intelligence-neural-network-human-face-picture-id1150038843-100860324-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "OpenAI admits that AI writing detectors don’t work"
+    excerpt: "In a section of the FAQ titled \"Do AI detectors work?\", OpenAI writes, \"In short, no. While some (including OpenAI) have released tools that purport to detect AI-generated content, none of these have proven to reliably distinguish between AI-generated and human-generated content.\""
+    publishedDateTime: 2023-09-08T15:42:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/09/openai-admits-that-ai-writing-detectors-dont-work/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/09/openai-admits-that-ai-writing-detectors-dont-work/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/openai-admits-that-ai-writing-detectors-dont-work/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 87
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/09/ai_detector_hero_2-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Efficient training for artificial intelligence"
+    excerpt: "Training an artificial intelligence consumes more energy the more demanding the tasks are. Víctor López-Pastor and Florian Marquardt, two scientists at the Max Planck Institute for the Physics of Light in Erlangen,"
+    publishedDateTime: 2023-09-08T16:32:00Z
+    webUrl: "https://www.mpg.de/20826914/neuromorphic-computer"
+    type: article
+    provider:
+      name: Max Planck Society
+      domain: www.mpg.de
+    quality: 54
+    images:
+      - url: "https://www.mpg.de/20826890/original-1694190147.jpg?t=eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0IjpudWxsLCJmaXQiOm51bGwsIm9ial9pZCI6MjA4MjY4OTB9--a52183c84030f9304a9d34521956318b35e6ac0f"
+        width: 1200
+        height: 1206
+        isCached: true
+  - title: "Some CT schools are using artificial intelligence for student tutoring"
+    excerpt: "CT is partnering with tech company Varsity Tutors, which uses AI to connect students with tutors and design tutoring lesson plans."
+    publishedDateTime: 2023-09-06T09:00:00Z
+    webUrl: "https://ctmirror.org/2023/09/06/ct-schools-ai-artificial-intelligence-tutoring/"
+    type: article
+    provider:
+      name: The Connecticut Mirror
+      domain: ctmirror.org
+    quality: 39
+    images:
+      - url: "https://ctmirror-images.s3.amazonaws.com/wp-content/uploads/2023/08/2023_0823_SR_AIinSchools_017_1-scaled.jpeg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "Hugging Face Raises $235M for its Open Platform for AI and Machine Learning"
+    excerpt: "Hugging Face is the most-used open platform for AI builders. More than 50,000 organizations are using it to build, train, and deploy AI models like Stable diffusion, StarCoder, Llama, and more. It hosts over 300k models, 250k datasets, and 250k spaces."
+    publishedDateTime: 2023-09-07T13:29:00Z
+    webUrl: "https://www.alleywatch.com/2023/09/hugging-face-open-source-ai-platform-machine-learning-github-brigitte-tousignant/"
+    type: article
+    provider:
+      name: alleywatch.com
+      domain: alleywatch.com
+    quality: 32
+  - title: "A|I: The AI Times – Cohere reportedly hunting for fresh funding as OpenAI passes $1B revenue pace"
+    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
+    publishedDateTime: 2023-09-07T09:00:00Z
+    webUrl: "https://betakit.com/ai-the-ai-times-cohere-reportedly-hunting-for-fresh-funding-as-openai-passes-1b-revenue-pace/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 26
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2023/06/Cohere.jpg"
+        width: 1050
+        height: 700
+        isCached: true
+  - title: "Explainable-AI Image Recognition achieves precise 3D descriptions of objects for US Air Force, a major AI breakthrough"
+    excerpt: "Z Advanced Computing, Inc. (ZAC), the pioneer CognitiveExplainable-AI (Artificial Intelligence) (Cognitive XAIor CXAI) software startup, has developed the \"Describer\""
+    publishedDateTime: 2023-09-05T17:03:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/n34245972/explainable-ai-image-recognition-achieves-precise-3d-descriptions-of-objects-for-us-air-force-a-ma"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
+
+secured: "/I5mu58VkCfklxdQGt9pH7BdamuwyNuWbgkZUCLK39R9Dv9K1LAjTR5IM+zPWDWwu/hS0be7xKC+xpeQVUUNfrnBdaW4x/bAYuZyky+xvQvcHqkIUHivxN3ShRgmWzZD5N2gxkfZrjzbHQbDxHF/pfBHoALmE/nMrI1e8mmp1Xjmms2zg47CkX4LrMZ0zuWUqwQxVVwU5X+9oVCrcaGk9RfZt1h7fAk3t2jaaZ2zMXuPkB1idqUFDm2GreO2T/ohvCp9QGN8I+DFvYpgMA+ouWV7ma39GlgRv0aGTnuXC7Rxm9PAksoNQMXrqDoBiVDfZFNZbysaUa5QhdHMkZCf/WDcxxuEMySJLfBkIai3hQU=;DgGoPW7e6Ht7ULufGVmAkQ=="
+---
+

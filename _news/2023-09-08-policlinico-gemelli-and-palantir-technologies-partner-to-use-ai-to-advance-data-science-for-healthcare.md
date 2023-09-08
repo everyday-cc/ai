@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Policlinico Gemelli and Palantir Technologies Partner to Use AI to Advance Data Science for Healthcare"
-excerpt: "Policlinico Gemelli's digital research center, Generator RWD, will utilize Palantir Foundry as one of the key enabling platforms to manage the full scale and complexity of healthcare data. Foundry's AI capabilities will be utilized to generate Real World Evidence in support of clinical and translational research aimed at drug and indication discovery,"
-publishedDateTime: 2023-09-08T12:38:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-policlinico-gemelli-palantir-technologies-partner-use-ai-advance-/2023/09/08/9877557.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-policlinico-gemelli-palantir-technologies-partner-use-ai-advance-/2023/09/08/9877557.htm"
+excerpt: "Palantir Technologies Inc. and Gemelli Generator Real World Data (RWD), a research facility of Fondazione Policlinico"
+publishedDateTime: 2023-09-08T15:46:00Z
+originalUrl: "https://www.datanami.com/this-just-in/policlinico-gemelli-and-palantir-technologies-partner-to-use-ai-to-advance-data-science-for-healthcare/"
+webUrl: "https://www.datanami.com/this-just-in/policlinico-gemelli-and-palantir-technologies-partner-to-use-ai-to-advance-data-science-for-healthcare/"
 type: article
-quality: 18
-heat: 18
+quality: 38
+heat: 38
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: datanami.com
+  domain: datanami.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "ZJQeXvW24TS0x0AB5WVSY5GrJCvAX2BryQgaWofegHuDhQProY+2J6c7tS1rrs5em8e/keWRSWCtwrMVoUifOaIKmVDmRdCmLtt4Etj2QN1EUxS9ZNFLIWNF9RWD3qT645+zhmwLC1COmzupnLRdpq8ykU29+vJnqjrDLuHWny98mWPoaUZrP/tsZ8hS64h7ogKVtlLKGoVFECCdLlWmAbHdIEOgeCN+2yffR6EJDnZo2xZ1A2BSsS4h8WXS2EwHiVS1Mv0CClz5rvS4RtxYb2VYVTQxXjoDyHC7rtt50klJhQOFrAKB12GyLXtNRk6/5twiOQGo9lkY7JE40Sx82rdPLTCB7FvRcBMlSs3jQzk=;WKGaOkkGPw2a2TJPKUhG5A=="
+images:
+  - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+    width: 1893
+    height: 767
+    isCached: true
+
+secured: "nesBJjzchV1pTPvRtQzp+Fdzut7lZJXb7KmJUwK5hgFLCqNeae2dlWicIZ9WwfwPFvOE4aBwJtCo7A5wpOh12uwmR8sFTkvIQyjfcpJW7HTiPEPTt3e+0a8vv5ixTOqJlQ7xLsWwtAPGDp9CvHg/infr8RpOQwmC1NiFKdziO8s2femw6KUCh4HxVPYYzjJeHWDIuYWDI5+lUYT/9RYUri7z3CY8eV/D084YaGVkyBexvMLgnbY3CZ0C4OTPIM9h+XfIFkYWdptn6Sy1VzayDlJ/gK1zCUtSDpFEl5BrNGtstgU7CSegIb7eZMBESMY0ta1a012vyTXpjCVfDRrFYjCX5hnCd2R/893LtuzKCpk=;dvr9e+EE3DZ/LAveOlh2ig=="
 ---
 

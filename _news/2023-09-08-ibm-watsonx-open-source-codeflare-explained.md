@@ -28,6 +28,20 @@ related:
       name: IBM
       domain: ibm.com
     quality: 97
+  - title: "IBM unveils new generative AI enhancements for watsonx"
+    excerpt: "IBM has announced a host of new enhancements for its watsonx platform, which include new generative AI foundation models and new capabilities. Designed to help enterprises scale and accelerate the impact of artificial intelligence,"
+    publishedDateTime: 2023-09-08T16:02:00Z
+    webUrl: "https://www.techcentral.ie/ibm-unveils-new-generative-ai-enhancements-for-watsonx/"
+    type: article
+    provider:
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 54
+    images:
+      - url: "https://www.techcentral.ie/wp-content/uploads/2022/01/IBM_21.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "IBM Announces Advanced Generative AI Models and Upgrades for watsonx Platform"
     excerpt: "IBM today announced plans for new generative AI foundation models and enhancements coming to watsonx – its AI and data"
     publishedDateTime: 2023-09-07T16:32:00Z

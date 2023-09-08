@@ -1,28 +1,27 @@
 ---
 category: news
 title: "Efficient training for artificial intelligence"
-excerpt: "Víctor López-Pastor and Florian Marquardt, two scientists at the Max Planck Institute for the Science of Light in Erlangen, Germany, present a method by which artificial intelligence could be trained much more efficiently. Their approach relies on ..."
-publishedDateTime: 2023-09-08T14:01:00Z
-originalUrl: "https://www.nanowerk.com/news2/robotics/newsid=63602.php"
-webUrl: "https://www.nanowerk.com/news2/robotics/newsid=63602.php"
+excerpt: "Training an artificial intelligence consumes more energy the more demanding the tasks are. Víctor López-Pastor and Florian Marquardt, two scientists at the Max Planck Institute for the Physics of Light in Erlangen,"
+publishedDateTime: 2023-09-08T16:32:00Z
+originalUrl: "https://www.mpg.de/20826914/neuromorphic-computer"
+webUrl: "https://www.mpg.de/20826914/neuromorphic-computer"
 type: article
-quality: 56
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Nanowerk
-  domain: nanowerk.com
+  name: Max Planck Society
+  domain: www.mpg.de
 
 topics:
-  - AI in Robotics
-  - AI
   - Machine Learning
+  - AI
 
 images:
-  - url: "https://www.nanowerk.com/news2/robotics/id63602_2.jpg"
-    width: 800
-    height: 412
+  - url: "https://www.mpg.de/20826890/original-1694190147.jpg?t=eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0IjpudWxsLCJmaXQiOm51bGwsIm9ial9pZCI6MjA4MjY4OTB9--a52183c84030f9304a9d34521956318b35e6ac0f"
+    width: 1200
+    height: 1206
     isCached: true
 
 related:
@@ -57,6 +56,20 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/09/ai_detector_hero_2-800x450.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Analyst Ratings for C3.ai"
+    excerpt: "Within the last quarter, C3.ai (NYSE:AI) has observed the following analyst ratings: According to 5 analyst offering 12-month price targets in the last 3 months, C3.ai has an average price target of $35.8 with a high of $42.00 and a low of $28.00."
+    publishedDateTime: 2023-09-08T16:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/analyst-ratings-for-c3-ai-1032616827"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/analyst_ratings_image_0.png"
+        width: 1024
+        height: 768
         isCached: true
   - title: "Some CT schools are using artificial intelligence for student tutoring"
     excerpt: "CT is partnering with tech company Varsity Tutors, which uses AI to connect students with tutors and design tutoring lesson plans."
@@ -105,6 +118,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "Eo6y1Xbj5l6hETzGM1RGP/fD44iai1NDJ9SehqUAvh13I/571Phwwpkz29nD0arqPfVXY+DVoHsOPZb7EQrT+Lz+vPAIfCEmrKCn+hfos7YOG8r2FLGUG7+P3GFbbmvPbm+FmWvQdkqxQRbpkg7I+DnevG3lxAKdQBHq9U4gi/KvMIHj2kFso8dh6eENyXkfv7Z2EMgrVZ2YVK9jd1bIIhPGRqdjA+i7c3OXxXYoq43FJVe3zsGP0ZkfJf0tGX1Hwur8EPqYwjmBR8Hu+iae3HWTO99e5Ql5YKWjkgYdFZcAUGtQA3urIZ/kmm84CCIV11WFPUpp9LzybxrRy11qJUkPFq8szet7auB1pkRYhGc=;lz/MbuWiD1mwU1u4GSqVgA=="
+secured: "K9YTwuBmYgF17Q2xdj8LRuhbtHQ99tVDQyai7l0aXQJnqcBJpPu6RgmOgnVue2nn1yK/CJH9xnK5moJkoISne//4oJv85eB5K8LHDD4hbIrNvS4houyLdTocQBlfVBhmmkQrNPsonLxCDCqlyr5JdcjToD+X6qp5Xfq+UFsB/qK6VLiew2FfAseYt3UBOyOA8+52s4xJkaUn6HEWyp7QFKpKCEEMdeTNPcEAJJFOiQ0t3PGIFrbO4L2xkAey+xxntkL4+fl3m8apJEToomQTD3fDj7mct9mN3d5up/liVSSuVBCXsFIG8RR4f3UZfdxWGujZ8vCsKhaByhpksQcqjDLDzruiwq28yg1SUvv/4ro=;FI0xwXhk2fNIzC+0MIB4tw=="
 ---
 

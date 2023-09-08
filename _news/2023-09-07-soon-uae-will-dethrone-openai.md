@@ -41,11 +41,25 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_line_art_vector_line_flat_illustration_minimal_surreal__67423beb-041c-40ed-aaf5-4306fbe95146.png?w=1200&strip=all"
         width: 1200
         height: 672
+        isCached: true
+  - title: "OpenAI to Announce GPT 5?"
+    excerpt: "OpenAI, a prominent AI lab, has announced that its first developer conference, OpenAI DevDay, will take place on November 6, 2023."
+    publishedDateTime: 2023-09-08T16:51:00Z
+    webUrl: "https://www.dmnews.com/openai-to-announce-gpt-5/"
+    type: article
+    provider:
+      name: Direct Marketing News
+      domain: dmnews.com
+    quality: 39
+    images:
+      - url: "https://images.dmnews.com/wp-content/uploads/2023/09/GPT-5.jpg"
+        width: 1000
+        height: 667
         isCached: true
 
 secured: "hKxRiVhynw86ySZ67e+eVU57z9OcSkC3PMjOqLxdBGpiOGJ8+61xkgsVjxqmtKsm0bJLr9a61zWhn6jO1b9SsuE3axEufq1CRhUafPN7vl4ykQc3aHtDX5VlmeqLjIkdMQ19h92LhNZ/OtCM9DZfDYg91Oxy19vgbzUDBgYA6DqJfqdn98xJLMlVWg0hAjnTQNYOVkpA4Nbjrsk94K9eSE6B9kblvL2Qc+q7hyVGi1fgG1BpZhBnVabAWW+YaKxIE+MmqPMiKGD7pPKgFcmnl8RQKOZaSPh5bjbdQShKK1tXCDPySkGCLS0DlnyPBIN78kFYu7UqQv/xlQRBO5QvMUrmGP8kxuvq5MgISnx3caLJvZ64CmOcaKUEV+rbF5LSjVp1sa20/vnMonkpmOMBFgWNpTv45EMDFcXIB4JqbPE0s1q2EkH7M23boyMjBxsTWgJKdsAa6c3/X3dwLhnKXpAteujaaGDgbYzK6HlAyqpeN2RFBh96lBFi5Fl/INGZp0ncyaBOSccduKKQZOtCOw==;8WENVVT/y96uZtgpthQUog=="

@@ -57,6 +57,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Semantic image search for articles using Amazon Rekognition, Amazon SageMaker foundation models, and Amazon OpenSearch Service"
+    excerpt: "Digital publishers are continuously looking for ways to streamline and automate their media workflows in order to generate and publish new content as rapidly as they can. Publishers can have repositories containing millions of images and in order to save money, they need to be able to reuse these images"
+    publishedDateTime: 2023-09-08T16:38:41Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/semantic-image-search-for-articles-using-amazon-rekognition-amazon-sagemaker-foundation-models-and-amazon-opensearch-service/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 93
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/08/featured-images-ML-13969-1120x630.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Best practices and design patterns for building machine learning workflows with Amazon SageMaker Pipelines"
     excerpt: "In this post, we provide some best practices to maximize the value of SageMaker Pipelines and make the development experience seamless. We also discuss some common design scenarios and patterns when building SageMaker Pipelines and provide examples for addressing them."
     publishedDateTime: 2023-09-07T17:54:33Z

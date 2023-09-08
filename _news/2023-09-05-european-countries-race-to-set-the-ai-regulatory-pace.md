@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/federicoguerrini/2023/09/04/european-co
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/federicoguerrini/2023/09/04/european-countries-race-to-set-the-ai-regulatory-pace/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 825
     isCached: true
+
+related:
+  - title: "Artificial Intelligence, Steam Closets, European Dryers: The Future of Laundry Has Finally Arrived"
+    excerpt: "Though futuristic devices designed to fold clothes have yet to pan out, doing laundry has never been easier. A guide to the latest innovations."
+    publishedDateTime: 2023-09-08T16:00:00Z
+    webUrl: "https://www.wsj.com/tech/personal-tech/artificial-intelligence-steam-closets-european-dryers-the-future-of-laundry-has-finally-arrived-121978bf"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 53
+    images:
+      - url: "https://images.wsj.net/im-847102/social"
+        width: 1279
+        height: 640
+        isCached: true
 
 secured: "p6/YPiYqrZ06/RsBZtebbj7jUeoyNSHDQtdxqTZcUT+H+c1PDQEVZjPcFdAeSJarvtfp9jpEDlAUxY+5rx06VVfaXzGpHtvQfBTtlicx50qaxhkBJlU20AHNp0Q1NZ8BjPiOhoyEjUdR13F1ALfxmVPMjeoe1mBBIbRPgM/a7QVaRzLzvpO7I8yIbzZrgcUql51f6Vh4glPv+yGzxpyVCc80zIZ8KVr00fxskDXjwfc507nUgE/CBvkUg92sk5RCZpIp4o/aV173uipgQmyz7yT5jZgObUMfNdSR2CPvvIRGEc37xdmR+m+zfug067YccKdMh+T8wdwZjXSufGQ8jTw5/ZUjJqJ68jnsKV4uYkWvZq/CXHz1+OE9jOlCUxQMJyfxmxbBmLiZJZ9Qy59vMfyFChuzQ1KtKhsFLQYvCCFHVYExpihhcNgdFmixhSZFsJ5I7oPQCREoDhgjud94AcE+9eqhrbkFwvqrjvEvjd7qK9WyX0mtYtC815H1Tbl4+bgCeftmDC6v0Zfz+lfTmw==;9eAhLxIkbmYl92dgiadNvg=="
 ---

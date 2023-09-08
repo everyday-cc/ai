@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 855
         isCached: true
-  - title: "3 things businesses need to know as NYC begins enforcing its AI hiring law"
-    excerpt: "New York's new AI regulations for hiring have many companies jittery. Here's how to get a handle on complying now and in the future."
-    publishedDateTime: 2023-09-04T00:10:00Z
-    webUrl: "https://venturebeat.com/ai/3-things-businesses-need-to-know-as-nyc-begins-enforcing-its-ai-hiring-law/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 65
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/annevb_technology_artificial_intelligence_and_law._colorful_fu_ce8f16b1-af12-449c-8d7a-af72cd4c62c5-1.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "How worried should we be about AI’s threat to the human race?"
     excerpt: "Artificial-intelligence pioneers are fighting over which of the technology’s dangers is the scariest. One camp, which includes some of the top executives building advanced AI systems, argues its creations could lead to catastrophe."
     publishedDateTime: 2023-09-05T17:50:00Z
