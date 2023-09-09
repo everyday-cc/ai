@@ -30,6 +30,15 @@ related:
       name: Business Times
       domain: businesstimes.com.sg
     quality: 52
+  - title: "LSEG and Microsoft launch 10-year strategic partnership for next … – Microsoft"
+    excerpt: "Strategic partnership highlightsFinancial effects for LSEGEditor’s note – Dec. 13, 2022 – The name of Microsoft Purview was corrected.LONDON — Dec. 12, 2022 —"
+    publishedDateTime: 2023-09-09T16:56:00Z
+    webUrl: "https://www.inferse.com/708920/lseg-and-microsoft-launch-10-year-strategic-partnership-for-next-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 15
 
 secured: "GiKw8bpJ5A0LdiAFzWre9rhA50URBJkagAcqFRif8/Vax+ErA73IYiaeXI1mtvBp//6knG4p5BKBMzt0LUeHLCYVrWopCPkDM1d0MKxio7Nvls2eyEuMEX0LcP05mL10TCG4WJJJokM5z7nkCLgX1Gjc1MeAuUfvVFqpxnbyJudSReawlIjGz9d+kjo5jF+um/iK1WExFw8UN2dNPjz4nJVI6JbAp7Y31ynRKxBoegk9X2JIO4p9QtNvW71uiAVbAdNS/vDqVYlwgUaP33h3JpRG9KUV6N5gswLjAGTP3OTlZcAMg4BPs+cF5e9ECmtDfJvUsTaf62YRkjktWwF0nr2XGHnUC0bxS0u0S4WvH/6ddBrTrf3QnTEoXlrI/lSNmhxoZ29mD4bldbmkgHngdoXFrkj1p7i73Dcr33HMNKFNP1/pihVcVxHhGwSIC4/ys0s4rp8CKXvjnlyYmehk+liDpSg0rjbClaj+AKPpbglQIkYlTx6gEFGL92NO73U0k09WwDLML2MjPbDcHc2z4A==;sUv+F3RqU5Jouf4Ndn3h7g=="
 ---

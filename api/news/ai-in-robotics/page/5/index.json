@@ -2,6 +2,128 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-08-04-crocker-park-deploys-innovative-security-measure-with-knightscope-robot-sam.md",
+      "title": "Crocker Park Deploys Innovative Security Measure with Knightscope Robot S.A.M.",
+      "excerpt": "Nasdaq: KSCP] (“Knightscope” or the “Company”), a leading developer of autonomous security robots and blue light emergency communication systems, today announced that Crocker Park – a lifestyle center for shopping,",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20230804839195/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20230804839195/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-04T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-08-04-how-noshs-ai-powered-robot-chefs-are-all-set-to-transform-indian-kitchens.md",
+      "title": "How Nosh’s AI-Powered Robot Chefs Are All Set To Transform Indian Kitchens",
+      "excerpt": "Founded in March 2018 by Yatin Varachhia, Sudeep Gupta, and Amit Kumar Gupta, Nosh plans to serve the economically well-to-do migrant population of metropolitan cities to sell its cooking robots to make their life easier, bestowing them with the joy of home-cooked meals",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/startups/how-noshs-ai-powered-robot-chefs-are-all-set-to-transform-indian-kitchens/",
+      "originalUrl": "https://inc42.com/startups/how-noshs-ai-powered-robot-chefs-are-all-set-to-transform-indian-kitchens/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.inc42.com/wp-content/uploads/2023/08/Nosh-profile-social.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/startups/how-noshs-ai-powered-robot-chefs-are-all-set-to-transform-indian-kitchens/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/startups/how-noshs-ai-powered-robot-chefs-are-all-set-to-transform-indian-kitchens/amp/",
+      "publishedDateTime": "2023-08-03T22:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-04-ai-chip-startup-tenstorrent-lands-100m-investment-from-hyundai-and-samsung.md",
+      "title": "AI chip startup Tenstorrent lands $100M investment from Hyundai and Samsung",
+      "excerpt": "Case in point, Tenstorrent, the AI hardware startup helmed by engineering luminary Jim Keller ... for future mobility vehicles and robots. Samsung Catalyst and other VC funds, including Fidelity Ventures, Eclipse Ventures, Epiq Capital and Maverick ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/04/ai-chip-startup-tenstorrent-lands-100m-investment-from-hyundai-and-samsung/",
+      "originalUrl": "https://techcrunch.com/2023/08/04/ai-chip-startup-tenstorrent-lands-100m-investment-from-hyundai-and-samsung/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-08-04-these-cmu-robotics-research-projects-are-tackling-lanternflies-and-av-safety.md",
       "title": "These CMU robotics research projects are tackling lanternflies and AV safety",
       "excerpt": "Carnegie Mellon roboticists have spent the summer collecting data and fine-tuning their work. Check out three new discoveries.",
@@ -1180,156 +1302,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-31-deepminds-rt-2-makes-robot-control-a-matter-of-ai-chat.md",
-      "title": "DeepMind's RT-2 makes robot control a matter of AI chat",
-      "excerpt": "Instructing a robot can be just a matter of a large language model that handles actions in the same prompt as images and words.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/deepminds-rt-2-makes-robot-control-a-matter-of-chat/",
-      "originalUrl": "https://www.zdnet.com/article/deepminds-rt-2-makes-robot-control-a-matter-of-chat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/69766a4a0ca637cc1b3aa27816b94e2102772847/2023/07/31/dcacd18a-42b7-4fd8-b9ef-c05a182163b6/deepmind-rt-2-picks-up-objects.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-30T22:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-31-the-first-self-driving-car-fatality-case-put-to-rest-who-was-responsible-for-killing-a-pedestrian-in-this-case-it-was-not-the-robot.md",
-      "title": "The first self-driving car fatality case put to rest who was responsible for killing a pedestrian. In this case, it was not the robot.",
-      "excerpt": "Rafaela Vasquez, who was behind the wheel of a self-driving Uber that killed a pedestrian in 2018, pleaded guilty to endangerment on Friday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/uber-lawsuit-rafaela-vasquez-responsible-self-driving-car-kill-pedestrian-2023-7",
-      "originalUrl": "https://www.businessinsider.com/uber-lawsuit-rafaela-vasquez-responsible-self-driving-car-kill-pedestrian-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64c6e413048ff200190dc4ee?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/uber-lawsuit-rafaela-vasquez-responsible-self-driving-car-kill-pedestrian-2023-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uber-lawsuit-rafaela-vasquez-responsible-self-driving-car-kill-pedestrian-2023-7?amp",
-      "publishedDateTime": "2023-07-30T17:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-07-30-from-robot-waiters-to-dna-based-menus-how-ai-is-changing-the-food-industry.md",
-      "title": "From robot waiters to DNA-based menus: How AI is changing the food industry",
-      "excerpt": "This technology can optimize processes in a kitchen and transform the way restaurants operate. For customers, it could mean targeted menus and pricing changes in real time",
-      "sourceUrl": null,
-      "webUrl": "https://english.elpais.com/culture/2023-07-29/from-robot-waiters-to-dna-based-menus-how-ai-is-changing-the-food-industry.html",
-      "originalUrl": "https://english.elpais.com/culture/2023-07-29/from-robot-waiters-to-dna-based-menus-how-ai-is-changing-the-food-industry.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.english.elpais.com/resizer/MikA5DG10cupeGKdb7L3Tpv6wns=/1200x0/filters:focal(3158x1571:3168x1581)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/U6CGZ3DPCFFFXB5X6NB22RSCUI.jpg",
-          "width": 1200,
-          "height": 888,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.elpais.com/culture/2023-07-29/from-robot-waiters-to-dna-based-menus-how-ai-is-changing-the-food-industry.html?outputType=amp",
-      "cdnAmpWebUrl": "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/culture/2023-07-29/from-robot-waiters-to-dna-based-menus-how-ai-is-changing-the-food-industry.html?outputType=amp",
-      "publishedDateTime": "2023-07-29T15:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "El País in English",
-        "domain": "elpais.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

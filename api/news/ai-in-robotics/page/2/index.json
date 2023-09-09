@@ -2,6 +2,144 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-30-partner-helper-or-boss-we-asked-chatgpt-to-design-a-robot-and-this-happened.md",
+      "title": "Partner, helper, or boss? We asked ChatGPT to design a robot and this happened",
+      "excerpt": "Researchers who designed and built a tomato-picking robot together with ChatGPT have demonstrated some crucial lessons for the future of human-AI collaboration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/partner-helper-or-boss-we-asked-chatgpt-to-design-a-robot-and-this-happened/",
+      "originalUrl": "https://www.zdnet.com/article/partner-helper-or-boss-we-asked-chatgpt-to-design-a-robot-and-this-happened/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/bb51fdea340543e6ccc2f59f72451a1b5110bb00/2023/08/23/a66f09f2-06c9-4df1-9b47-e94d31a55d16/testing-tomato-robot.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/partner-helper-or-boss-we-asked-chatgpt-to-design-a-robot-and-this-happened/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/partner-helper-or-boss-we-asked-chatgpt-to-design-a-robot-and-this-happened/",
+      "publishedDateTime": "2023-08-29T13:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-ai-robotics-mainland-china.md",
+      "title": "AI Robotics - Mainland China",
+      "excerpt": "Value in the AI Robotics market is projected to reach US$2bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.85%, resulting in a market volume of US$5bn by 2030.",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/mainland-china",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/mainland-china",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-29T03:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-rapid-rise-in-industrial-robots-fuels-booming-robotics-market.md",
+      "title": "Rapid Rise in Industrial Robots Fuels Booming Robotics Market",
+      "excerpt": "One driving force behind the escalating capabilities of robots is the advances in artificial intelligence (AI). This has propelled robots from being simple, single-purpose machines to intricate and adaptable tools. The integration of cloud computing has ...",
+      "sourceUrl": null,
+      "webUrl": "https://infotechlead.com/devices/rapid-rise-in-industrial-robots-fuels-booming-robotics-market-80256",
+      "originalUrl": "https://infotechlead.com/devices/rapid-rise-in-industrial-robots-fuels-booming-robotics-market-80256",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://infotechlead.com/wp-content/uploads/2023/08/Forecast-on-industrial-robots-market.png",
+          "width": 640,
+          "height": 343,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://infotechlead.com/devices/rapid-rise-in-industrial-robots-fuels-booming-robotics-market-80256?amp=1",
+      "cdnAmpWebUrl": "https://infotechlead-com.cdn.ampproject.org/c/s/infotechlead.com/devices/rapid-rise-in-industrial-robots-fuels-booming-robotics-market-80256?amp=1",
+      "publishedDateTime": "2023-08-29T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "infotechlead",
+        "domain": "infotechlead.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-29-ai-robotics-centre-to-debut-at-womens-univ.md",
       "title": "AI & robotics centre to debut at women’s univ",
       "excerpt": "Bhubaneswar: The state government has decided to open a centre of excellence (CoE) on artificial intelligence (AI) and robotics to ensure students of .",
@@ -1215,135 +1353,6 @@
         "AI in Robotics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-unleash-the-full-potential-of-ai-and-robotics-with-automa-health-2023.md",
-      "title": "Unleash the full potential of AI and robotics with Automa+ Health 2023",
-      "excerpt": "Machines are getting smarter every day, and companies across the world are discovering new ways in which they can use AI to significantly enhance engagement and customer experience. That is why decision-makers from pharmaceutical companies,",
-      "sourceUrl": null,
-      "webUrl": "https://healthcare-in-europe.com/en/news/unleash-full-potential-ai-robotics-automa-health-2023.html",
-      "originalUrl": "https://healthcare-in-europe.com/en/news/unleash-full-potential-ai-robotics-automa-health-2023.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthcare-in-europe.com/media/story/28594/rect-01-automa-rect.jpg",
-          "width": 400,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-23T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "healthcare-in-europe.com",
-        "domain": "healthcare-in-europe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-an-ai-powered-bot-could-take-your-next-drive-thru-order-at-one-of-these-top-fast-food-restaurants.md",
-      "title": "An AI-powered bot could take your next drive-thru order at one of these top fast-food restaurants",
-      "excerpt": "Automation tools, from AI to robotics, are growing in popularity ... An automated bot named \"Tori\" created by the startup OpenCity takes orders from drive-thru customers. 7. Popeyes Last year ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/fast-food-chains-like-white-castle-turn-to-voice-bots",
-      "originalUrl": "https://www.businessinsider.com/fast-food-chains-like-white-castle-turn-to-voice-bots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64e61b01912f290019a98b35?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/fast-food-chains-like-white-castle-turn-to-voice-bots?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fast-food-chains-like-white-castle-turn-to-voice-bots?amp",
-      "publishedDateTime": "2023-08-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-how-to-buy-openai-stock-a-guide.md",
-      "title": "How to Buy OpenAI Stock: A Guide",
-      "excerpt": "Global X Robotics & Artificial Intelligence ETF The Global X Robotics & Artificial Intelligence ETF (NASDAQ: BOTZ) is an exchange-traded fund that invests in companies associated with the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AAPL-Q/pressreleases/19665139/how-to-buy-openai-stock-a-guide/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AAPL-Q/pressreleases/19665139/how-to-buy-openai-stock-a-guide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/meet-generative-ais-super-u
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meet-generative-ais-super-users-70-of-gen-z-use-genai/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "UNESCO calls for regulations on use of GenAI in schools"
+    excerpt: "The United Nations Educational, Scientific and Cultural Organisation (UNESCO) called on governments to regulate the use of Generative Artificial Intelligence (GenAI) in education and research."
+    publishedDateTime: 2023-09-08T14:25:00Z
+    webUrl: "https://www.onmanorama.com/news/world/2023/09/08/disadvantages-of-chatgpt-genai.html"
+    type: article
+    provider:
+      name: onmanorama
+      domain: onmanorama.com
+    quality: 39
+    images:
+      - url: "https://img.onmanorama.com/content/dam/mm/en/news/world/images/2023/9/8/chatgpt-onmanorama.jpg"
+        width: 1248
+        height: 650
+        isCached: true
 
 secured: "5Mdjw9QnEbH4TPrRBXTF4W3pG390qkos99Q2WM46n1lrk7zTmGSCjrLZl0gEMBuvFAx3kvoTIjokeOkFZLCqk2ZbY/os/osSvVr66J2eG2PPtBBRaaQi+ttMRWHIL6q6pd5WecqMlzkY9HggPnAG2ZAv1cIke1LecThgiWvHrM2UGdfo7yXxY1oFipjUxzUotXgwh/mQnhghcREtHWSgNK893ykvo3lof4otdh3vpEGqbLA3EICNS5rUpAIu8OUFSh/HL2hl1eCnzzk8yBolRkq8okQXlPgdSzjLY8F+1aLCs0PRGWsTKzyqDqCcfSVaTd2fFGZHMsP6kSvgh57mXW/TbZxrCkQeLWsMhuOIPupMKA9l8xTSZG46MUNe2PPal6xxcRyhbE/7mEpmZD3X0mm38Jrkf7OxKfmEuWmE02kCfzkdt/K4R3UQvqE7wLEt5wkZhSmwDaS4XxGZxpy6GustZDuQUQTYvaDVbr5PuKX9V7E+a2H5FnabjeoZeJC714CRQmWzctYY9Wb+N/fAWA==;xSOfSm7r/Do4AEDVxiYe7Q=="
 ---

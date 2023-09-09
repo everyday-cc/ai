@@ -51,7 +51,7 @@ related:
   - title: "How savvy trillion-dollar chipmaker Nvidia is powering the AI goldrush"
     excerpt: "The US firm best known for its gaming tech has long been ahead of the curve in supplying the tools needed by tech developers"
     publishedDateTime: 2023-09-09T13:59:00Z
-    webUrl: "https://www.theguardian.com/technology/commentisfree/2023/sep/09/nvidia-processors-ai-artificial-intelligence-chip-goldrush-intel?ref=biztoc.com"
+    webUrl: "https://www.theguardian.com/technology/commentisfree/2023/sep/09/nvidia-processors-ai-artificial-intelligence-chip-goldrush-intel?ref=upstract.com"
     ampWebUrl: "https://amp.theguardian.com/technology/commentisfree/2023/sep/09/nvidia-processors-ai-artificial-intelligence-chip-goldrush-intel"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/commentisfree/2023/sep/09/nvidia-processors-ai-artificial-intelligence-chip-goldrush-intel"
     type: article
@@ -94,6 +94,15 @@ related:
         width: 883
         height: 637
         isCached: true
+  - title: "Nvidia: Another Reason Why Buying This Artificial Intelligence (AI) Stock Is a No-Brainer Now"
+    excerpt: "Nvidia's (NASDAQ: NVDA) artificial intelligence (AI)-driven surge shows no signs of stopping. The company's results for the second quarter of fiscal 2024 (ended July 30, 2023), which were released last month,"
+    publishedDateTime: 2023-09-09T13:45:00Z
+    webUrl: "https://www.nasdaq.com/articles/nvidia:-another-reason-why-buying-this-artificial-intelligence-ai-stock-is-a-no-brainer"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 53
   - title: "Nvidia debuts new software to boost AI model performance on its high-end chips"
     excerpt: "Nvidia Corp. today announced a new open-source software suite called TensorRT-LLM that expands the capabilities of large language model optimizations on Nvidia graphics processing units and pushes the limits of artificial intelligence inference performance after deployment."
     publishedDateTime: 2023-09-08T18:02:00Z

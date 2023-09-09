@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businesstimes.com.sg/companies-markets/microsoft-expands
 cdnAmpWebUrl: "https://www-businesstimes-com-sg.cdn.ampproject.org/c/s/www.businesstimes.com.sg/companies-markets/microsoft-expands-abu-dhabis-g42-partnership-include-cloud-and-ai-tools?amp"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: Business Times
@@ -30,6 +30,15 @@ related:
       name: Arabian Business
       domain: arabianbusiness.com
     quality: 31
+  - title: "LSEG and Microsoft launch 10-year strategic partnership for next … – Microsoft"
+    excerpt: "Strategic partnership highlightsFinancial effects for LSEGEditor’s note – Dec. 13, 2022 – The name of Microsoft Purview was corrected.LONDON — Dec. 12, 2022 —"
+    publishedDateTime: 2023-09-09T16:56:00Z
+    webUrl: "https://www.inferse.com/708920/lseg-and-microsoft-launch-10-year-strategic-partnership-for-next-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 15
 
 secured: "PXrwnTyXco1+MNyqruLp/33FB2utP62m9e7hU8Rf8dxOivtyk0bEtWRuvyzwQZ7gXM8+yTNxm9ql1a9nzaKP0CYWazKcENjYW5pAYWkdstfsgpvVprOsf2nCIYGsDTMwoGC+PmvgHaEi0+TlSiqAs/Tq5jndJw+6BWI+bnBb0wMmx1SPx3IcYC5BHs0gPm07VmkxFQNn4UjqnlEc9pgDzlMNTMCQokmLgv8N3ceWMprHnLEPNzGHalWt6huUQS7t7a6EgVokQvrefY+RX6lb0JztsaxAgHcHTQlouHDUNl51l1d6cFjTQNFEpT5kcCVKqjhutso0fyx1rhL9tVWyD5PcH1fTQ2hjey71PAK/n/gI9weVHEZmxAWj5sZshNoFGQc3uv2O9HF7LcJ0IyNBZfV12hJ+TqO3U7pAq5x2CmbL1AhIDge66c+93uJmsdrtG3A2rLJ3EpyLvY5lwcCD1Bpb6uNHSoVr1I5CTq/MV6i+wrdSezQ+UlCsWI1piKfF4AyfJvDdC55yR08opH8bBg==;fyYWUukPYGPcIYUKQaKNtQ=="
 ---

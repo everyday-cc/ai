@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Tencent unveils large language model"
-excerpt: "Tencent Holdings, a leading homegrown technology company, debuted its much-awaited universal large language model Hunyuan on Thursday, as Chinese enterprises strive to gain a foothold in the global artificial intelligence race."
-publishedDateTime: 2023-09-08T01:23:00Z
-originalUrl: "https://global.chinadaily.com.cn/a/202309/08/WS64fa6d78a310d2dce4bb49b6.html"
-webUrl: "https://global.chinadaily.com.cn/a/202309/08/WS64fa6d78a310d2dce4bb49b6.html"
+excerpt: "A view of the booth of Tencent at an expo in Shanghai. [Photo/CHINA DAILY] Tencent Holdings, a leading homegrown technology company, debuted its much-awaited universal large language model Hunyuan on Thursday,"
+publishedDateTime: 2023-09-08T01:12:00Z
+originalUrl: "https://www.chinadaily.com.cn/a/202309/08/WS64fa6d78a310d2dce4bb49b6.html"
+webUrl: "https://www.chinadaily.com.cn/a/202309/08/WS64fa6d78a310d2dce4bb49b6.html"
 type: article
 quality: 24
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://img2.chinadaily.com.cn/images/202309/08/64fa6d78a310d2dc6d277476.jpeg"
+  - url: "http://img2.chinadaily.com.cn/images/202309/08/64fa6d78a310d2dc6d277476.jpeg"
     width: 689
     height: 459
     isCached: true
@@ -56,6 +56,6 @@ related:
         height: 510
         isCached: true
 
-secured: "XXMxFqmv3yVaooQPiLiCbdrRVBokJ3k6T2pCmFUTeH/5H1jDxhv8TN9EAM5NZoF20J3cR6xiEHJltnvR5oz8X/2a6o+EibdD6bMy9exnRVRguDg+AFFBuDNEEsLQ71vSCS7r533Q8BnPxmvqikbt/+XxBKwbXzvBO5PnHigdVzACQsRt1977fJJTlwGEFYVIoHaWB17j6ecrIf1AKt/xrrH6I+UasQWHY5vuAL6UhoxPQJxqrR/XUrsta4Yt/XZZjyZEUP6qoRCQvKMOZdkPjV3tIr3eoGuzxa6EPsYgbViZZMLBPEJr62qMKehOknPqvhUkOURccMrPe8Urz0aVzQUfGMosLxwZbmb8aNo0BrEck8WRtQgMsM7X53bEXFVayvd21vbmnBXYxavXU4cQFi8ZITE4MBRw74y0LP+ZJSy9rcC3TF5iLrO2nk8sssw9vAXwZ9W1OvvGmmbcRs8xa3X+OP+npM8TcRgQ8qBiXeNy4QUHUs9B/IXIebipSMcVjSOo4HeIxbspXneqgjv32w==;NlTH64Z59nNcu5cASW8s9w=="
+secured: "a1xO+LVDRS0B7bWACGalS91fTHQXbt2Gm46bVWiwZ6IY1OHs3NWULsLYextzTaweqbuvHjT2j7CBOnCvo2ynS653vd3U+CSWFLxgyHc1FtyehHsGJNqwh96F1c6bu+2J7/VyqD9NSqpniVKE/GU4FHeSOVsHJfR2gOub9uXnxo5BE06j2FKyE1cx9SL9T+hJJBNmGqu/fncoPGyvJIK0MKdAuWf4wmDSqmIzX4lmMvp2mXSWT7YAUU/F2/exEeAaFzMysOw8A+An8++W03pTx5DBqMWdBHbJGhXn9HsPAxfPa5eZ7BfQpoJgPaZAkpoi1WhDRQ+4L53HsvLwF7x9/p4/plQXO9NpM1WCriMIx20=;i1c4AnxoBO/bWtyQE15k1g=="
 ---
 

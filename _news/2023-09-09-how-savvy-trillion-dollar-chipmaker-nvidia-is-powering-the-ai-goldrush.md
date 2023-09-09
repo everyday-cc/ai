@@ -3,8 +3,8 @@ category: news
 title: "How savvy trillion-dollar chipmaker Nvidia is powering the AI goldrush"
 excerpt: "The US firm best known for its gaming tech has long been ahead of the curve in supplying the tools needed by tech developers"
 publishedDateTime: 2023-09-09T13:59:00Z
-originalUrl: "https://www.theguardian.com/technology/commentisfree/2023/sep/09/nvidia-processors-ai-artificial-intelligence-chip-goldrush-intel?ref=biztoc.com"
-webUrl: "https://www.theguardian.com/technology/commentisfree/2023/sep/09/nvidia-processors-ai-artificial-intelligence-chip-goldrush-intel?ref=biztoc.com"
+originalUrl: "https://www.theguardian.com/technology/commentisfree/2023/sep/09/nvidia-processors-ai-artificial-intelligence-chip-goldrush-intel?ref=upstract.com"
+webUrl: "https://www.theguardian.com/technology/commentisfree/2023/sep/09/nvidia-processors-ai-artificial-intelligence-chip-goldrush-intel?ref=upstract.com"
 ampWebUrl: "https://amp.theguardian.com/technology/commentisfree/2023/sep/09/nvidia-processors-ai-artificial-intelligence-chip-goldrush-intel"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/commentisfree/2023/sep/09/nvidia-processors-ai-artificial-intelligence-chip-goldrush-intel"
 type: article
@@ -94,6 +94,15 @@ related:
         width: 883
         height: 637
         isCached: true
+  - title: "Nvidia: Another Reason Why Buying This Artificial Intelligence (AI) Stock Is a No-Brainer Now"
+    excerpt: "Nvidia's (NASDAQ: NVDA) artificial intelligence (AI)-driven surge shows no signs of stopping. The company's results for the second quarter of fiscal 2024 (ended July 30, 2023), which were released last month,"
+    publishedDateTime: 2023-09-09T13:45:00Z
+    webUrl: "https://www.nasdaq.com/articles/nvidia:-another-reason-why-buying-this-artificial-intelligence-ai-stock-is-a-no-brainer"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 53
   - title: "Nvidia debuts new software to boost AI model performance on its high-end chips"
     excerpt: "Nvidia Corp. today announced a new open-source software suite called TensorRT-LLM that expands the capabilities of large language model optimizations on Nvidia graphics processing units and pushes the limits of artificial intelligence inference performance after deployment."
     publishedDateTime: 2023-09-08T18:02:00Z
@@ -203,6 +212,6 @@ related:
       domain: livemint.com
     quality: 16
 
-secured: "wYkuu12j8VA3PGzTjn93sXJoYmGgpIQ1OqDLcBgEKjxohnYcCie8cjQt8w2f1wSQdQUg51GKhVukNIcJdrJ3c954RdrmvilOLWkQP1LNjsmuECuUJ9HCATxLgOlIKmYki5VAKvnUGxZbeIssLufgHFQpmoJmIHfLy1pKhlY8hrukrQ5jDXm5pThXFP3hFZNfBmx7lCYHuXsJNm5XUDTt2PKKJ758HZNiikOTquXZG+0iyHrM1MsYFQ3gRFKH+JwLRQOXtIWZ3Ijc79m7nB37NXt400Dc9lIiHyOyEGyvbsnsZcW7W3ah9FdILhr7vkh/lHMlSeS+KvxnLswI2wOvGS36xqZqGbKYgxqMK9qrPxw=;qcxWTPW4KHXsMJDjCLKVvg=="
+secured: "LnetjuSEeFZHVg+ZeJn25zp7+I6iXaE8YZzrOisGNdIruDduIkrzlRfhfCUV245VEyJm1f9+DVE2C2jqpUc81QHOA6WVYiYrOqFAPFrv7vl3R9cmiKNZjrQoNzq1SG7EV4AIvpgDsgPbnsIz5xOaijktDvB8x4J0SkzmDvBmRkXVmfR3dfQunfRAliGX0CtzfYmFtbH+2osM0iM52ReZSZgov1Otyg68cNCTURBvt7oUy04BV8ZwXBFjnMZ9Y+o+9Pybm+aHqNCvJCyYcKY5uht7ya2O7txEHqvukQ3XSJJDG9XmSPefRdthfLw6072cl5+J8eJZp+jRjmqhVyxBCisP5KlgdPZbs4Q2ce8G28M=;5YApIjz/jA/hkMYFgyT44w=="
 ---
 

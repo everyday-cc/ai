@@ -2,6 +2,205 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-08-30-microsoft-officially-adds-bing-ai-chatbot-to-google-chrome.md",
+      "title": "Microsoft officially adds Bing AI chatbot to Google Chrome",
+      "excerpt": "Those of you who want to take Microsoft's Bing AI for a spin are no longer restricted to trying it in the Edge browser or the Bing mobile app. On Friday, Microsoft announced that the Bing Chat tools for individuals and enterprises are now officially available in the Google Chrome browser.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-officially-adds-bing-ai-chatbot-to-google-chrome/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-officially-adds-bing-ai-chatbot-to-google-chrome/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 274,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/3ca57d3c4451be567909fd0dc6f1251ab149b621/2023/08/29/d522b23c-3b57-449e-9637-ae9d1d856ced/colors-gettyimages-161098253.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-officially-adds-bing-ai-chatbot-to-google-chrome/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-officially-adds-bing-ai-chatbot-to-google-chrome/",
+      "publishedDateTime": "2023-08-29T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-30-techcrunch-roundup-saas-basics-labor-day-book-picks-building-trust-with-ai-customers.md",
+      "title": "TechCrunch+ Roundup: SaaS+ basics, Labor Day book picks, building trust with AI customers",
+      "excerpt": "Eight decades later, we’re once again rushing into a new technological era without first creating a framework for ethics, safety, trust, or a thousand other considerations. Since there are no industry standards or government agencies guiding AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/29/techcrunch-roundup-saas-basics-labor-day-book-picks-building-trust-with-ai-customers/",
+      "originalUrl": "https://techcrunch.com/2023/08/29/techcrunch-roundup-saas-basics-labor-day-book-picks-building-trust-with-ai-customers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1565502025.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/29/techcrunch-roundup-saas-basics-labor-day-book-picks-building-trust-with-ai-customers/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/29/techcrunch-roundup-saas-basics-labor-day-book-picks-building-trust-with-ai-customers/amp/",
+      "publishedDateTime": "2023-08-29T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-alphabet-moonshots-are-ready-for-launch.md",
+      "title": "Alphabet moonshots are ready for launch",
+      "excerpt": "Alphabet is poised to welcome the autumn harvest. Ruth Porat, the web search giant’s chief financial officer and a former technology investment banker at Morgan Stanley , will move into a new role next month that includes overseeing “other bets,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/breakingviews/alphabet-moonshots-are-ready-launch-2023-08-29/",
+      "originalUrl": "https://www.reuters.com/breakingviews/alphabet-moonshots-are-ready-launch-2023-08-29/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/6BZ_M1xmfmKf-naYUfDkr3m-TnI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7WGL4ZKKPBKZ5LNRR4IRTVLA4Q.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-29T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-delafield-based-ai-startup-synthetaic-announces-strategic-partnership-with-microsoft.md",
+      "title": "Delafield-based AI startup Synthetaic announces strategic partnership with Microsoft",
+      "excerpt": "Delafield-based artificial intelligence startup Synthetaic announced this week a new strategic partnership with Microsoft.",
+      "sourceUrl": null,
+      "webUrl": "https://biztimes.com/delafield-based-ai-startup-synthetaic-announces-strategic-partnership-with-microsoft/",
+      "originalUrl": "https://biztimes.com/delafield-based-ai-startup-synthetaic-announces-strategic-partnership-with-microsoft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.biztimes.com/2023/04/News-Interview-Corey-Synthetaic-0053.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://biztimes.com/delafield-based-ai-startup-synthetaic-announces-strategic-partnership-with-microsoft/?amp",
+      "cdnAmpWebUrl": "https://biztimes-com.cdn.ampproject.org/c/s/biztimes.com/delafield-based-ai-startup-synthetaic-announces-strategic-partnership-with-microsoft/?amp",
+      "publishedDateTime": "2023-08-29T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BizTimes",
+        "domain": "biztimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-29-10-great-colleges-for-studying-artificial-intelligence.md",
       "title": "10 Great Colleges For Studying Artificial Intelligence",
       "excerpt": "The debut of ChatGPT in November created angst for college admission officers and professors worried they would be flooded by student essays written with the undisclosed assistance of artificial intelligence. But the explosion of interest in AI has ...",
@@ -989,199 +1188,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-how-to-enable-face-recognition-on-galaxy-z-flip-4.md",
-      "title": "How To Enable Face Recognition on Galaxy Z Flip 4",
-      "excerpt": "The facial recognition security feature of your Samsung Galaxy Z Flip 4 allows for device unlocks just by looking at the phone display. This can also be used by certain apps to verify your identity.",
-      "sourceUrl": null,
-      "webUrl": "https://thedroidguy.com/enable-face-recognition-on-galaxy-z-flip-4-1229932",
-      "originalUrl": "https://thedroidguy.com/enable-face-recognition-on-galaxy-z-flip-4-1229932",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thedroidguy.com/wp-content/uploads/2022/11/How-To-Enable-Face-Recognition-on-Galaxy-Z-Flip-4.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-28T21:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Droid Guy",
-        "domain": "thedroidguy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-ai-robotics-centre-to-debut-at-womens-univ.md",
-      "title": "AI & robotics centre to debut at women’s univ",
-      "excerpt": "Bhubaneswar: The state government has decided to open a centre of excellence (CoE) on artificial intelligence (AI) and robotics to ensure students of .",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/bhubaneswar/ai-robotics-centre-to-debut-at-womens-univ/articleshow/103154617.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/bhubaneswar/ai-robotics-centre-to-debut-at-womens-univ/articleshow/103154617.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1070,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/bhubaneswar/ai-robotics-centre-to-debut-at-womens-univ/amp_articleshow/103154617.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/bhubaneswar/ai-robotics-centre-to-debut-at-womens-univ/amp_articleshow/103154617.cms",
-      "publishedDateTime": "2023-08-28T20:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-deepmind-partners-with-google-cloud-to-watermark-ai-generated-images.md",
-      "title": "DeepMind partners with Google Cloud to watermark AI-generated images",
-      "excerpt": "In partnership with Google Cloud, Google DeepMind (Google’s AI research division) is launching a tool for watermarking and identifying AI-generated images — but only images created by Google ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/29/deepmind-partners-with-google-cloud-to-watermark-ai-generated-images/",
-      "originalUrl": "https://techcrunch.com/2023/08/29/deepmind-partners-with-google-cloud-to-watermark-ai-generated-images/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/05/google-io-2023-google-deepmind.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/29/deepmind-partners-with-google-cloud-to-watermark-ai-generated-images/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/29/deepmind-partners-with-google-cloud-to-watermark-ai-generated-images/amp/",
-      "publishedDateTime": "2023-08-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-kaldi-speech-recognition-gains-tensorflow-deep-learning-support.md",
-      "title": "Kaldi speech recognition gains TensorFlow deep learning support",
-      "excerpt": "Kaldi, an open-source speech recognition toolkit, has been updated with integration with the open-source TensorFlow deep learning library. Developers Yishay Carmiel and Hainan Xu of Seattle-based ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/deep-learning/kaldi-speech-tensorflow-deep-learning/",
-      "originalUrl": "https://sdtimes.com/deep-learning/kaldi-speech-tensorflow-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2017/08/DSC2820-1.jpg",
-          "width": 1620,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "TensorFlow"
       ]
     }
   ],

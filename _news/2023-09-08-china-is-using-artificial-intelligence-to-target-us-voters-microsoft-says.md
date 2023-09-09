@@ -213,6 +213,20 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "Microsoft, Paige To Build World’S Largest AI Model To Fight Cancer"
+    excerpt: "Tech giant Microsoft has joined hands with Paige, a digital pathology provider, to build world's largest image-based artificia"
+    publishedDateTime: 2023-09-09T17:10:00Z
+    webUrl: "https://menafn.com/1107037567/Microsoft-Paige-To-Build-WorldS-Largest-AI-Model-To-Fight-Cancer"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2023-09/09/I_f83b3image_story.jpg"
+        width: 825
+        height: 450
+        isCached: true
   - title: "G42, Microsoft alliance expands to include joint sovereign cloud and AI offering"
     excerpt: "This announcement marks the first significant outcome since G42 and Microsoft announced their intention to partner earlier this year, in April"
     publishedDateTime: 2023-09-06T04:55:00Z

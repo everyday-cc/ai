@@ -2,6 +2,92 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-09-03-five-principles-for-generative-ai-in-financial-services.md",
+      "title": "Five principles for generative AI in financial services",
+      "excerpt": "THANKS to recent technological advances in generative artificial intelligence (AI) foundation models and record-breaking rates of consumer adoption, it’s no longer a question whether your company will use this technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bworldonline.com/special-reports/2023/09/04/542942/five-principles-for-generative-ai-in-financial-services/",
+      "originalUrl": "https://www.bworldonline.com/special-reports/2023/09/04/542942/five-principles-for-generative-ai-in-financial-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bworldonline.com/special-reports/2023/09/04/542942/five-principles-for-generative-ai-in-financial-services/?amp",
+      "cdnAmpWebUrl": "https://www-bworldonline-com.cdn.ampproject.org/c/s/www.bworldonline.com/special-reports/2023/09/04/542942/five-principles-for-generative-ai-in-financial-services/?amp",
+      "publishedDateTime": "2023-09-03T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BusinessWorld",
+        "domain": "bworldonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-03-tesla-drops-the-price-of-its-full-self-driving-beta-software.md",
+      "title": "Tesla Drops the Price of Its Full Self-Driving Beta Software",
+      "excerpt": "Tesla has dropped the price of its full self-driving beta software. Now instead of $15,000, Tesla owners who want the vehicle’s advanced driver assistance system (ADAS) will pay $12,000, TechCrunch reports. Tesla previously charged $12,000 for the ...",
+      "sourceUrl": null,
+      "webUrl": "https://uk.pcmag.com/cars-auto/148492/tesla-drops-the-price-of-its-full-self-driving-beta-software",
+      "originalUrl": "https://uk.pcmag.com/cars-auto/148492/tesla-drops-the-price-of-its-full-self-driving-beta-software",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/t/tesla-drop/tesla-drops-the-price-of-its-full-self-driving-beta-software_8gh1.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-03T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-03-artificial-intelligence-may-influence-whether-you-can-get-pain-medication.md",
       "title": "Artificial intelligence may influence whether you can get pain medication",
       "excerpt": "Artificial intelligence is working its way into more parts of American life. As AI spreads within the health care landscape, it brings familiar concerns of bias and accuracy and whether government ...",
@@ -875,6 +961,58 @@
       ]
     },
     {
+      "path": "_news/2023-09-02-walmart-labor-day-sale-2023-the-19-best-deals-i-recommend.md",
+      "title": "Walmart Labor Day sale 2023 - the 19 best deals I recommend",
+      "excerpt": "COSORI Air Fryer Pro: was $99.99 now $89 at Walmart Get the top-rated Cosori Air Fryer Pro on sale for $89 at Walmart's Labor Day sale. With over 37,000 positive reviews on Amazon, the five-quart air fryer features nine different functions to whip up easy meals, and the basket is dishwasher safe for easy clean-ups.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/seasonal-sales/walmart-labor-day-sale-2023-19-best-deals",
+      "originalUrl": "https://www.techradar.com/seasonal-sales/walmart-labor-day-sale-2023-19-best-deals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/GVjnAYtE5oyApprfoq2UwZ-1200-80.jpg",
+          "width": 740,
+          "height": 416,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-01T20:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-02-ai-can-curate-learning-but-ethics-is-catchword.md",
       "title": "'AI can curate learning, but ethics is catchword'",
       "excerpt": "Without the ethical mindset, we will go down a dystopian pathway with AI. In a short-term framework, ethics and guidelines are necessary, otherwise before we take over AI it will take over us.\" He also called for responsible harnessing of AI in education ...",
@@ -1052,145 +1190,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-02-elon-musks-x-will-use-public-data-to-train-ai-models.md",
-      "title": "Elon Musk's X will use public data to train AI models",
-      "excerpt": "The artist formerly known as Twitter has been in some hot water this week after Bloomberg found that the social media site would start collecting biometric details, along with job and education data,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/elon-musks-x-will-use-public-data-to-train-ai-models-184924197.html",
-      "originalUrl": "https://www.engadget.com/elon-musks-x-will-use-public-data-to-train-ai-models-184924197.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/00U4O1LtqDVNNIWes5FWNA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-09/1cb3ee20-48f7-11ee-95cf-0cef93b6a4d6",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/elon-musks-x-will-use-public-data-to-train-ai-models-184924197.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/elon-musks-x-will-use-public-data-to-train-ai-models-184924197.html",
-      "publishedDateTime": "2023-09-01T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-02-google-unveils-new-ai-powered-cloud-technologies-taking-on-aws-and-azure.md",
-      "title": "Google Unveils New AI-Powered Cloud Technologies Taking On AWS And Azure",
-      "excerpt": "At Cloud Next, Google unveiled AI strategies to rival AWS and Azure. New offerings include custom silicon and updated Vertex AI. Google targets AI-centric enterprises.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevendickens/2023/09/01/google-unveils-new-ai-powered-cloud-technologies-taking-on-aws-and-azure/",
-      "originalUrl": "https://www.forbes.com/sites/stevendickens/2023/09/01/google-unveils-new-ai-powered-cloud-technologies-taking-on-aws-and-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-01T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-02-us-government-denies-blocking-sales-of-ai-chips-to-middle-east.md",
-      "title": "US Government Denies Blocking Sales of AI Chips to Middle East",
-      "excerpt": "Nvidia and AMD do face expanded export rules for their A100 and H100 artificial intelligence (AI) chips in the Middle East, but it's not yet clear why.",
-      "sourceUrl": null,
-      "webUrl": "https://www.darkreading.com/dr-global/us-government-denies-blocking-chip-sales-middle-east",
-      "originalUrl": "https://www.darkreading.com/dr-global/us-government-denies-blocking-chip-sales-middle-east",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf47e335d79fb3b2e/64f1e0af0517e34fb4df20d7/fingerprint_motherboard_Panther_Media_Alamy.jpg",
-          "width": 5650,
-          "height": 3560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-01T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dark Reading",
-        "domain": "darkreading.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

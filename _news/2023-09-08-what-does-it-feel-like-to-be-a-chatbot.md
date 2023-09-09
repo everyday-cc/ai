@@ -299,6 +299,15 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 15
+  - title: "Artificial intelligence technology behind ChatGPT was built in Iowa -- with a lot of water"
+    excerpt: "Microsoft made its first $1 billion investment in San Francisco-based OpenAI in 2019, more than two years before the startup introduced ChatGPT and sparked worldwide fascination with AI advancements. As part of the deal, the software giant would supply computing power needed to train the AI models."
+    publishedDateTime: 2023-09-09T17:14:00Z
+    webUrl: "https://www.chron.com/business/article/artificial-intelligence-technology-behind-chatgpt-18356707.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 9
 
 secured: "dwXg2M2XB9H5DYvZuUJPeC8XiJDHSPBOj6KU2KYipsrtuIe3a9hFY5sxQPzmJ2bKlRqkrmgYtr1s28dzJZDB9zGb5TVRHdvj+FaMsOsxdJ2cpKdgv+qKkuvcjIP3Q82C7xhd/qntr3Z+0QtWEzKNvp2oseBJktlUC/iFZLZmcIRIiDDE44dL/kNy7YS2zuK+o6aVR8ZjlCgGdJBdhX6vOci2t9fzjQtHFjw+mqRphjURCdNxyoc6qb35y04cS8VksgR7FbomPIKHJjJnxrG+pqi8yOAuk5JvRvkAp9itB+RqSeZTZw5jJWE55OEZw/t7nYV6cIZxOa3yUKYNNpQUG8YMBqBy2GPbLt07p27XGJRlLA1PK9lfBbjP7po5E09OvduOBMEehz4ZzsytY9qkjF1A9G9uTL8gw/osDTWjMRNnv0jm2GQF9R7zOsrXLHaVrEPre1Ov9yGLJaS0uDfkXnYEaWJok1EeUE2jqqGQhQGl62ovfM/ZzLtSKHEfFHtHx7gxQP/u1hK0TAeyhmEewA==;5oHiTo1f8py1brFP4OMj4w=="
 ---
