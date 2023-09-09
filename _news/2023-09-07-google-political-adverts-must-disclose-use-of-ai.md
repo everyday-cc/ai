@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/technology-66739858.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66739858.amp"
 type: article
 quality: 87
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -59,6 +59,22 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/03WwWLDQGzRHmNCIO7S4lYY-1.fit_lim.size_1200x630.v1694099631.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Amazon to require some authors to disclose the use of AI material"
+    excerpt: "NEW YORK -- After months of complaints from the Authors Guild and other groups, Amazon .com has started requiring writers who want to sell books through its e-book program to tell the company in advance that their work includes artificial intelligence material."
+    publishedDateTime: 2023-09-08T18:09:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/amazon-require-authors-disclose-ai-material-103042285"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/amazon-require-authors-disclose-ai-material-103042285"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/amazon-require-authors-disclose-ai-material-103042285"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "Experts Discuss AI at the Google Cloud Conference"
     excerpt: "Get insights from Google Cloud Next 2023 experts on the latest trends in AI. Learn about the advancements in AI."

@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia CEO Heads to India. It’s a Sign of the Country’s AI Chip-Making Ambitions."
-    excerpt: "Nvidia NVDA –1.71% CEO Jensen Huang is a man in demand and his movements bear watching. His latest meeting with India’s Prime Minister Narendra Modi could be a clue to the hopes of making India a new chip-..."
-    publishedDateTime: 2023-09-05T09:18:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-stock-ceo-jensen-huang-india-modi-chip-manufacturing-72345daf"
-    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-ceo-jensen-huang-india-modi-chip-manufacturing-72345daf"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-ceo-jensen-huang-india-modi-chip-manufacturing-72345daf"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 69
-    images:
-      - url: "https://images.barrons.com/im-231723/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "1 Top Chip Stock Ready to Ride Nvidia's AI Tailwinds Higher"
     excerpt: "(up more than 232%) since the beginning of the year. For the most recent quarter, Nvidia racked up $13.51 billion in revenue, more than doubling last year's figure and setting a new second-quarter company record."
     publishedDateTime: 2023-09-05T20:23:00Z
@@ -51,38 +35,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 64
-  - title: "Reliance Partners NVIDIA To Develop Large AI Language Model For India"
-    excerpt: "Reliance's Jio Platforms Limited has partnered with chip designer major NVIDIA to construct an advanced cloud-based AI computing infrastructure"
-    publishedDateTime: 2023-09-08T10:44:00Z
-    webUrl: "https://inc42.com/buzz/reliance-partners-nvidia-to-develop-large-ai-language-model-for-india/"
-    ampWebUrl: "https://inc42.com/buzz/reliance-partners-nvidia-to-develop-large-ai-language-model-for-india/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/reliance-partners-nvidia-to-develop-large-ai-language-model-for-india/amp/"
+  - title: "AI Chip Wars: Nvidia May Be Winning, But Don’t Sleep on AMD Stock!"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In the first half of 2023, Advanced Micro Devices (NASDAQ:AMD) stock, commonly"
+    publishedDateTime: 2023-09-08T11:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-chip-wars-nvidia-may-be-winning-but-dont-sleep-on-amd-stock-1032615709"
     type: article
     provider:
-      name: inc42
-      domain: inc42.com
-    quality: 59
-    images:
-      - url: "https://cdn.inc42.com/wp-content/uploads/2023/04/cloud-social.png"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "NVIDIA Helps India Achieve AI Dominance: After Reliance, Pens Deal With Tata"
-    excerpt: "As per the partnership, Tata Communications and NVIDIA will create an AI cloud in India to offer critical infrastructure to drive computing's next lifecycle. The companies will jointly build an AI supercomputer powered by the NVIDIA's GH200 Grace Hopper Superchip to boost performance."
-    publishedDateTime: 2023-09-08T16:56:00Z
-    webUrl: "https://www.benzinga.com/markets/equities/23/09/34364787/nvidia-helps-india-achieve-ai-dominance-after-reliance-pens-deal-with-tata"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34364787"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34364787"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 56
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/09/08/nvda_0.png?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "NVIDIA, Tata Group to work together on AI computing infrastructure, platforms"
     excerpt: "The companies will work together to build an AI supercomputer powered by the next-generation NVIDIA GH200 Grace Hopper Superchip to achieve high quality performance."
     publishedDateTime: 2023-09-08T15:09:00Z
@@ -127,35 +88,19 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Nvidia, Horizon Robotics account for 80% of self-driving chips enabling NOA in China"
-    excerpt: "China-based autonomous driving chip developer Horizon Robotics is showcasing solutions for smart driving and advanced driver assistance systems (ADAS) powered by its Journey chip series at IAA Mobility 2023."
-    publishedDateTime: 2023-09-06T06:02:00Z
-    webUrl: "https://www.digitimes.com/news/a20230906PD205/china-horizon-robotics-adas-automotive-ic.html"
+  - title: "AI Lab Imbue Gets $200M From Nvidia, Others; Hits $1B Valuation"
+    excerpt: "Imbue, a San Francisco-based AI research lab, has reached unicorn status with a massive Astera Institute-led $200 million Series B."
+    publishedDateTime: 2023-09-07T17:44:00Z
+    webUrl: "https://news.crunchbase.com/ai-robotics/new-ai-unicorn-imbue-astera-nvidia/"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 49
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 41
     images:
-      - url: "https://img.digitimes.com/newsshow/20230906pd205_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
-  - title: "Jio, Tata Group enter pacts with Nvidia to develop advance artificial intelligence applications in India"
-    excerpt: "The partnership with RIL-owned Jio Platforms comes a week after the company outlined its aggressive plans for artificial intelligence."
-    publishedDateTime: 2023-09-09T00:00:00Z
-    webUrl: "https://www.financialexpress.com/business/industry-jio-tata-group-enter-pacts-with-nvidia-to-develop-advance-artificial-intelligence-applications-in-india-3237555/"
-    ampWebUrl: "https://www.financialexpress.com/business/industry-jio-tata-group-enter-pacts-with-nvidia-to-develop-advance-artificial-intelligence-applications-in-india-3237555/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/industry-jio-tata-group-enter-pacts-with-nvidia-to-develop-advance-artificial-intelligence-applications-in-india-3237555/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 42
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/art.jpg"
-        width: 1200
-        height: 675
+      - url: "https://news.crunchbase.com/wp-content/uploads/AI-1.jpg"
+        width: 900
+        height: 506
         isCached: true
   - title: "The AI market will be worth $600 billion, Nvidia exec says"
     excerpt: "According to Das, the total addressable market for AI will consist of $300 billion in chips and systems, $150 billion in generative AI software, and $150 billion in omniverse enterprise software. These figures represent growth over the \"long term,\" Das said, though he did not specify a target date."
@@ -196,15 +141,6 @@ related:
       name: devdiscourse
       domain: devdiscourse.com
     quality: 35
-  - title: "Nvidia isn't the only game in town. Investors advise against overlooking these other AI beneficiaries"
-    excerpt: "Nvidia's quarterly report seemed to leave some investors questioning whether any serious challenger can challenge its well-protected throne, or catch up to speed building comparable chips able to power generative AI models. And the price action seemed to ..."
-    publishedDateTime: 2023-09-04T13:22:00Z
-    webUrl: "https://www.cnbc.com/2023/09/04/nvidia-isnt-the-only-game-in-town-investors-advise-against-overlooking-these-other-ai-beneficiaries.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 34
   - title: "Saudi Arabia and UAE race to buy Nvidia chips to power AI ambitions"
     excerpt: "Saudi Arabian Crown Prince Mohammed bin Salman, left, and Nvidia chief Jensen Huang. The Gulf state’s interest in AI has sparked concerns over the technology’s ..."
     publishedDateTime: 2023-09-04T20:11:00Z
@@ -237,24 +173,6 @@ related:
       name: HotHardware
       domain: hothardware.com
     quality: 29
-  - title: "Jio, Nvidia partner to build AI Cloud infrastructure in India"
-    excerpt: "Jio Platforms and Nvidia have partnered to build a cloud-based AI infrastructure in India. The collaboration aims to accelerate AI development efforts"
-    publishedDateTime: 2023-09-08T12:49:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/jio-nvidia-partner-to-build-ai-cloud-infrastructure-in-india/articleshow/103512248.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 19
-  - title: "Tata Partners With NVIDIA to Build Large-Scale AI Infrastructure"
-    excerpt: "TCS will utilize the AI infrastructure and capabilities to build and process generative AI applications. The NVIDIA partnership will further enable TCS in collaborating with its customers to drive reimagination with an AI-first approach. Additionally, TCS will upskill its 600,000-strong workforce leveraging the partnership."
-    publishedDateTime: 2023-09-08T16:40:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/09/08/9877690.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "Tata partners with Nvidia to build AI supercomputer, cloud infrastructure"
     excerpt: "Tata Communications and Nvidia will develop an AI cloud in India aimed at providing critical infrastructure that enables computing's next lifecycle. Tata Communications' robust gl"
     publishedDateTime: 2023-09-08T15:46:00Z
@@ -264,24 +182,15 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 18
-  - title: "US chipmaker Nvidia, Reliance to develop a large AI language model for India"
-    excerpt: "Nvidia will provide computing power for the project, while Reliance will develop AI apps, including a local language app for farmers to access weather info and crop prices."
-    publishedDateTime: 2023-09-08T05:07:00Z
-    webUrl: "https://theprint.in/tech/nvidia-reliance-to-develop-a-large-ai-language-model-for-india/1752293/"
+  - title: "After Reliance, Tata Group set to announce AI partnership with NVIDIA: Report"
+    excerpt: "Hours after billionaire Mukesh Ambani-led Reliance Industries Limited on 8 September announced to partner with US-based chipmaker NVIDIA, reports arrived that Tata Group is set to announce an AI partnership with the same US chipmaker. An announcement is expected later in the day, reported Reuters citing a source."
+    publishedDateTime: 2023-09-08T12:49:00Z
+    webUrl: "https://www.livemint.com/companies/news/after-reliance-tata-group-set-to-announce-ai-partnership-with-nvidia-report-11694177201093.html"
     type: article
     provider:
-      name: ThePrint
-      domain: theprint.in
+      name: Mint
+      domain: livemint.com
     quality: 16
-  - title: "PM Modi, Nvidia CEO discuss India's rich potential in artificial intelligence"
-    excerpt: "PM Modi in a post on X wrote, \"Had an excellent meeting with Mr. Jensen Huang, the CEO of @nvidia. We talked at length about the rich potential India offers in the world of AI. Mr. Jensen Huang was appreciative of the strides India has made in this sector and was equally upbeat about the talented youth of India.\""
-    publishedDateTime: 2023-09-04T17:43:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/World/20230904/4115578.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 14
   - title: "Nvidia's Jensen Huang Eyes India's AI Future In High-Level Meeting With Prime Minister Modi"
     excerpt: "Nvidia's latest A100 AI chip, powered by the Ampere architecture, is widely used for training ChatGPT and other large-language models. See Also: Best Artificial Intelligence Stocks Why It’s Important: Commenting on Huang’s India visit, Nvidia said in a ..."
     publishedDateTime: 2023-09-04T19:11:00Z

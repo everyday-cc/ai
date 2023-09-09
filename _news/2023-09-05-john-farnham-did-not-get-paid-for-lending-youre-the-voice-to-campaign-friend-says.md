@@ -24,6 +24,22 @@ images:
     height: 720
     isCached: true
 
+related:
+  - title: "John Farnham The Voice of change"
+    excerpt: "Australians have a history of coming together through music sports and culture and the Voice Referendum should grant another opportunity to unify us wr"
+    publishedDateTime: 2023-09-09T07:37:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273960560/john-farnham-the-voice-of-change"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://cdn.bignewsnetwork.com/iau1694242332.jpg"
+        width: 630
+        height: 420
+        isCached: true
+
 secured: "eHobGtj9NWbffxrCAV9H6nDnxpBmM5NSpPnxzcXsxaN44nb1RO1CLajc6TARVZnX7/bCehycuQCEWNKAyKcQwK0Vy5Hlpu8jD0L5IbgnsJSd0b88TIufKZYV0d9xhsAlLyPxfNNVHfAp9MAhv6km85+03Pu0MbiNqKbDfVHyREn8VUpxLot9JcI8Q8hkOUQOWzIXBj6LxI4RPfY5ddpSiCwZqksT2YTnb0mfQhZJr5f2EDP02lRRPlj5npg/dqg8mEmP33GWemBdZxszPkljC2biVYFpECMeDupFp5uIuAxAEizCW6IS7IUpgAU8O727Y5FhI0Eiaw9N7zV9UBBERr6WEWfsbJ06fw6LOHwtTmM=;Zkhmku5rQpWd/AFVXkmWkQ=="
 ---
 

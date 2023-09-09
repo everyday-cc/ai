@@ -36,6 +36,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Tata Partners With NVIDIA to Build Large-Scale AI Infrastructure"
+    excerpt: "TCS will utilize the AI infrastructure and capabilities to build and process generative AI applications. The NVIDIA partnership will further enable TCS in collaborating with its customers to drive reimagination with an AI-first approach. Additionally, TCS will upskill its 600,000-strong workforce leveraging the partnership."
+    publishedDateTime: 2023-09-08T16:40:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/09/08/9877690.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "w5ARAURmwzc2l/wqL2+PObmCTlkKLuLxtzPv0vxeAw+QFBK64I5iUpPaJZhToCj9/u6qW80xZGGcDh/tJhLGzdx1u1ag9pC+E22lnAzaJ6HGIe2L0Yuwc73qXgU39imPUQQTbhLvyBxkdym2OYK2bbeMbRjppqnvOThInLhsLhQg84EL83ZZ8ieUPeekvObidI6Vg2qWR/KL2Ig4BU8G9X91UBCU43L/PHbeOYAl7lAdMStt8aFjR2+g2xVj+DlkcQbQjwpID8OJyf3a8wiClOLJRvjtBFfj2wMkK4KwuhQKvrix62Hwz9hXxgVMANK71JkALCIki+JTkOy5J+sPkSgBLg1e8SyNJl4jbMCZEGwYvtBmz8u0cvh2hZzJPHhvB4/xeNIZgsCnkQjjkht85N35Jyim0Zbsm7YpJcW8kCV/gOxw8XreoFBLUSW7k7NI4wFVnNdXUTEJtlvYioojOsds40k7KovHStLJdc+pXSWwGgt2VpTVmz41Uk7E8CJhhH5ETEQYsgxSlBs7fmyHAQ==;PlGGOSK8qFA1vM9Q9vylag=="
 ---

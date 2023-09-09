@@ -2,15 +2,12 @@
 category: news
 title: "‘I hope I’m wrong’: the co-founder of DeepMind on how AI threatens to reshape life as we know it"
 excerpt: "From synthetic organisms to killer drones, Mustafa Suleyman talks about the mind-blowing potential of artificial intelligence, and how we can still avoid catastrophe"
-publishedDateTime: 2023-09-02T07:00:00Z
-originalUrl: "https://www.theguardian.com/books/2023/sep/02/i-hope-im-wrong-the-co-founder-of-deepmind-on-how-ai-threatens-to-reshape-life-as-we-know-it"
-webUrl: "https://www.theguardian.com/books/2023/sep/02/i-hope-im-wrong-the-co-founder-of-deepmind-on-how-ai-threatens-to-reshape-life-as-we-know-it"
+publishedDateTime: 2023-09-02T08:00:00Z
+originalUrl: "https://www.theguardian.com/books/2023/sep/02/i-hope-im-wrong-the-co-founder-of-deepmind-on-how-ai-threatens-to-reshape-life-as-we-know-it?ref=emergentmind"
+webUrl: "https://www.theguardian.com/books/2023/sep/02/i-hope-im-wrong-the-co-founder-of-deepmind-on-how-ai-threatens-to-reshape-life-as-we-know-it?ref=emergentmind"
 ampWebUrl: "https://amp.theguardian.com/books/2023/sep/02/i-hope-im-wrong-the-co-founder-of-deepmind-on-how-ai-threatens-to-reshape-life-as-we-know-it"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2023/sep/02/i-hope-im-wrong-the-co-founder-of-deepmind-on-how-ai-threatens-to-reshape-life-as-we-know-it"
 type: article
-quality: 61
-heat: -1
-published: false
 
 provider:
   name: The Guardian
@@ -21,8 +18,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - Google AI
+  - AI
 
 images:
   - url: "https://i.guim.co.uk/img/media/5bf98bcdb9cd152563a3ccbbe53336548380df1c/1_0_6331_3800/master/6331.jpg?width=620&quality=85&auto=format&fit=max&s=7ac26dbd3b6604c3e8927a0efd6779e6"
@@ -30,49 +27,6 @@ images:
     height: 372
     isCached: true
 
-related:
-  - title: "Google’s Deepmind develops watermark to detect AI images"
-    excerpt: "Google's AI arm, DeepMind, is testing digital watermark called SynthID to identify images created by artificial intelligence (AI). This technology aim"
-    publishedDateTime: 2023-09-05T14:07:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/ai/googles-deepmind-develops-watermark-to-detect-ai-images/articleshow/103401531.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/ai/googles-deepmind-develops-watermark-to-detect-ai-images/amp_articleshow/103401531.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/ai/googles-deepmind-develops-watermark-to-detect-ai-images/amp_articleshow/103401531.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://static.toiimg.com/photo/msid-103401856/103401856.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "The cofounder of Google's AI division DeepMind says everybody will have their own AI-powered 'chief of staff' over the next five years"
-    excerpt: "Mustafa Suleyman said AI will \"intimately know your personal information\" and be able to serve you 24-7."
-    publishedDateTime: 2023-09-05T17:15:00Z
-    webUrl: "https://www.businessinsider.com/google-deepmind-cofounder-mustafa-suleyman-everyone-will-have-ai-assistant-2023-9"
-    ampWebUrl: "https://www.businessinsider.com/google-deepmind-cofounder-mustafa-suleyman-everyone-will-have-ai-assistant-2023-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-deepmind-cofounder-mustafa-suleyman-everyone-will-have-ai-assistant-2023-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 72
-    images:
-      - url: "https://i.insider.com/64f757c47819260019117624?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "DeepMind’s Path to Better Large Language Models Runs Through Machine Translation"
-    excerpt: "DeepMind introduces a new method to improve the quality of LLMs and chooses MT as a use case to show how well the new approach works."
-    publishedDateTime: 2023-09-05T10:20:00Z
-    webUrl: "https://slator.com/deepminds-path-to-better-large-language-models-runs-through-machine-translation/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 31
-
-secured: "myc5xyPX+azqRFqfKg66QRe3DJ/QTp6i8UB7HuuHWkitTOduQ1cSWo5e+rV/zNbFEliJ0FuIkYBuheqDMz9HhmjSdVh2N+VGJKicwuO1QusaAXjtu6PVs+Mc5i8czVqCpHDcR7UmeEpA8w/aZBQQ4yxoe1QjpDkIjYnENQiPpAyPNzZ2WDWbF1jZsolYkCtx7oCZZ6+Mo6mgXMaORn+02c5sat0a4OEyENsUgd/HT/YXc2Un2v34+IiZ/KlDMO4TBFdlMsnhOK+QB7PXYBrDBKc0UKTRfzN2gB4Xd34c3qDozRQBU9rVgPA5n6EiQm0bblSA4yV5ZWJ1gTirj8T8vfN0HzTMP8OKvIRXk1GEyZKfs9STLhTykjMcaS8iIGN8GTVjc66v+Qc0g9lxXWHe09sOu4AFFoQr4l3KBRDZERmTPPEZWfTq/2LsEEF8qJncvEx7i2gD8sD+eVrW3DLAg4PxZPLoP8o7raUIaT6GGHIoz2rnqpU88y94dj7ly83XHJo2SFwgXHT8pB+R7vwn5A==;DGneaH2D5Nj2jt6SC2cg5g=="
+secured: "ZpJXWWXlxPOgwZ4BVVj8RWxvAbm8xpEq49VvRyRsmovXreH7Pi8rua+u9EIildSf3H+aqcqRma+4UqpqvygH2OZ+f3kV1CGhRxpkdbVHE956veHdUa19rbz9vIbHye+1DpGJvpXqeETt5/k+FdGYwF4FTq+psBl+Pm1+M5WjkofCUykxCezwXX86p3nlOzp8M6IKfCCCpVI3Eu2o6q19NcqCsMs/iSchDlovtLEPsuqmvZtsVEz/0CRvDiq8OtvNm+Py/ILJsCS9w/m0UhNo6+BBZ2L7Z+iXshpDnfVdy9wKoUdu1jqVqoNqABp2ZOM+W/3b5/M0O1xQU0m8LVUYf/COFxEJ1ZveJwjYLntKpeU=;yy1AlKqUzSkDF2Ml+U1pMQ=="
 ---
 

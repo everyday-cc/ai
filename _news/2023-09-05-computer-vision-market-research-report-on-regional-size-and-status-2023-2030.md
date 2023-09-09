@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/34219951"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34219951"
 type: article
 quality: 56
-heat: 96
-published: true
+heat: -1
+published: false
 
 provider:
   name: Benzinga.com
@@ -27,12 +27,28 @@ images:
     isCached: true
 
 related:
-  - title: "Automatic Speech Recognition(ASR) Software Market Size, Regional Status and Outlook 2023-2030"
-    excerpt: "The Automatic Speech Recognition(ASR) Software Market Insights of 2023 is an extensive and comprehensive report that provides a complete analysis of the market's size, shares, revenues ..."
-    publishedDateTime: 2023-09-05T06:50:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/34219652/automatic-speech-recognition-asr-software-market-size-regional-status-and-outlook-2023-2030"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34219652"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34219652"
+  - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market 2023-2030 | The Revolution of Analytics Industry"
+    excerpt: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Latest Research Report provides [111 Pages Report] with a detailed analysis of qualitative and quantitative research such ..."
+    publishedDateTime: 2023-09-05T13:25:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/34235343/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2023-2030-the-revolution-of-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34235343"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34235343"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 66
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Artificial Intelligence Systems in Healthcare Market Size Analysis 2023 | New Opportunities, and Innovations, Forecast 2030"
+    excerpt: "The \"Artificial Intelligence Systems in Healthcare Market\" Research Report 2023: incorporates a thorough qualitative and quantitative analysis along with several market dynamics. Global Artificial ..."
+    publishedDateTime: 2023-09-05T02:28:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/34207168/artificial-intelligence-systems-in-healthcare-market-size-analysis-2023-new-opportunities-and-innov"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34207168"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34207168"
     type: article
     provider:
       name: Benzinga.com
@@ -43,40 +59,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "The Voice And Speech Recognition Software market scope shows an upward trajectory, and market size with a projected CAGR of 8.6% from 2023 to 2030."
-    excerpt: "This \"Voice And Speech Recognition Software Market\" study analyses the market and offers thorough insights to help with difficulties and this report consists of 133 pages. The Voice And Speech ..."
-    publishedDateTime: 2023-09-05T05:52:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/34219420/the-voice-and-speech-recognition-software-market-scope-shows-an-upward-trajectory-and-market-size-w"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34219420"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34219420"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 21
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Automated Machine Learning (AutoML) Market Size 2023 | Historic Data with New Benchmarks till 2030 | No of Pages 114"
-    excerpt: "This extensive report comprises 114 pages and features a detailed table of contents, along with figures and charts that assist thorough analysis. Moreover, the report provides a comprehensive ..."
-    publishedDateTime: 2023-09-05T08:46:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/34224004/automated-machine-learning-automl-market-size-2023-historic-data-with-new-benchmarks-till-2030-no-o"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 11
-  - title: "Europe E-Pharmacy Market Outlook & Forecast Report 2023-2028: Collaborative Success & AI and Machine Learning Transforming the Industry - ResearchAndMarkets.com"
-    excerpt: "The \"Europe E-Pharmacy Market - Industry Outlook & Forecast 2023-2028\" report has been added to ResearchAndMarkets.com's offering. The Europe e-pharmacy market is expected to reach a value of $65.47 billion by 2028 from $24."
-    publishedDateTime: 2023-09-08T15:59:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230908213435/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "mJGE/2QnNm0G7dxxUghse8S4ft0jkL8DVmebWu7XCWAY4U1yKI6TsT8oC6TeF2qyc3eo+TktT5hu9zfiOLoxzlJrolJizDOv88ZUGZ7j/TDvfgIg4WhCrmWMynB57EAtR76Ua1ReMhft3hVYp8nTcBibU1bCg/WHmRvkxGtcmRYk4sh/07NfTKTaBqIEQKL/h7Lj6NjFnMxsZ4LOLVFnWG7qEcQZOGe6UhfOilF6mEgBzBC4toQW5k3gDtF/AlhzK1NJAm3/plktHTQmzLAQ7aXasL5bFn3RZpVfKZth0KH7a96QNyAw1qrgsLu7eCWXyu9+6pN2HylZSdGER9XghTxZMDkj6/ukHk/qKhgedqw=;8gHFENO31yLQE/E6knH/tQ=="
 ---

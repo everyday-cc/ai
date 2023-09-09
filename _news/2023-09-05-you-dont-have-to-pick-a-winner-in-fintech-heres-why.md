@@ -71,20 +71,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Relevantz: Driving fintech innovation with Fiserv"
-    excerpt: "Senior Director of Client Success at Relevantz, Georgie John, traces his time at the service provider and the importance of its partnership with Fiserv"
-    publishedDateTime: 2023-09-04T14:31:00Z
-    webUrl: "https://fintechmagazine.com/videos/relevantz-driving-fintech-innovation-with-fiserv"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://assets.bizclikmedia.net/1200/a5df0747734103e25a2923f6a9681af3:717ee360c35460b894994bb8164ee388/maxresdefault.jpg.jpg"
-        width: 1200
-        height: 631
-        isCached: true
   - title: "4 big FinTech funding rounds in MENA in August 2023"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-09-06T07:56:00Z

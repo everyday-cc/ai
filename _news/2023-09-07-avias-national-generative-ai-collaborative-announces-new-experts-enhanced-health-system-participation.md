@@ -3,16 +3,16 @@ category: news
 title: "AVIA’s National Generative AI Collaborative Announces New Experts, Enhanced Health System Participation"
 excerpt: "The Generative AI Strategic Collaborative reveals a slate of 10 clinical, ethics, technology, and regulatory experts for its national consortium"
 publishedDateTime: 2023-09-07T16:04:00Z
-originalUrl: "https://www.newsobserver.com/press-releases/article279063044.html"
-webUrl: "https://www.newsobserver.com/press-releases/article279063044.html"
+originalUrl: "https://www.sacbee.com/press-releases/article279063044.html"
+webUrl: "https://www.sacbee.com/press-releases/article279063044.html"
 type: article
 quality: 3
 heat: -1
 published: false
 
 provider:
-  name: Raleigh News & Observer
-  domain: newsobserver.com
+  name: Sacramento Bee
+  domain: sacbee.com
 
 topics:
   - AI Ethics
@@ -103,6 +103,6 @@ related:
       domain: miamiherald.com
     quality: 3
 
-secured: "iIcV0ix4WOslLsdfpiGXt8GcpYxUZXNcngeGN3yRVhkSoXwd5vEWuYugjdoXy8BvEa5ztzj1bYPpenQ3ubgJycp1Ucr6OkICB432Hib7H29/0IYuHP2TuJbTcq8LnSXXOQI6UbkcFUSifpaYiY7stdKLmtPNDvquuHpwCWuaKa/gRrH3gjlusFjYbH3qWA58uKJ3QTtG3T7rOM9c7yneBqTdeCOE+Sj9l0ItK+ZlTBk+ZB5GLZhU28opIf3fqXKYvJbku4bgAcHG3OAL/duA+TJEzVb/Uu5fad/IXsW8nvNPCumc8bmkvz//OUd3sevS4KbvrH7HDSPxn7/ekoqH2P/1KL55k3wt2N1Lz2+Z5clxhL53nWfaPj3IX1t96VvgAg3qf3g/lvG0wof3mK2tjOfANIVtwHJ9/enKIIGjRWy9B/msq6R7onTRnJ9fmrKX/BFkZxS2JoLyH0a8oiPtSs1BCigX9l5mJGhCm92alTi205Er5Y1d6og6lqxDi2GOr0JZRkIa7vMaORC4sYobug==;iDq/aMJyclPtemEn3uigHA=="
+secured: "V3D4U66u8FquKZgxMAuHQLyYQVSACMvG5n47scPieUXGXWKxDVfhHFR7SdU2ptpf4QvNROow31PG5C7Y8D6w91E/Uwq0adBdNd8oihqDtc8T6+tccjc/54+lDeGLFmIFeZhyRaLAVhukPnoJLlMpxi3q26AONMLszNPpLp/hTOQVgyTk+vvYYPJUjCM2N4C9V/oaIaKnHURsf0CDRxEDvThrV1hY7uL4AqTZNFcS2RNROKBhllFNZ7t27DfQDCU+f1pFqBWqCMh/tiyOisEblIvAJvk0Q2PRhxv541LMzKF1hBVKXNpSrm3fY5+R5P/BDVZd0Zu3Gx71nyMVIIow1IPILESjJVrixPYpWzqSd4YDxqw1fdNMGvzgKGzauP2bZeS/Pf7/CXQt/HVljbco4lZ1U1l9B+wLjZD4us09HzNKvGfcC9u/sG22T2WEK38bPexJH9EdVRbHhqh6d8kAhFxG6AFTU49tN3rvdkZ+b73aAYNxiMNq6PmaEY3Ij37jxKintC4wDxWWuCs8Qquvpw==;SsfbO/a41XQwcJMZlgu64Q=="
 ---
 

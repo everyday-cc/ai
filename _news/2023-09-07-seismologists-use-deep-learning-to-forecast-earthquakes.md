@@ -41,15 +41,6 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "BIM and machine learning: predicting the impact of cost changes"
-    excerpt: "A research team has proved that BIM data can be combined with machine learning to predict the impact of design changes."
-    publishedDateTime: 2023-09-04T13:16:00Z
-    webUrl: "https://www.bimplus.co.uk/bim-and-machine-learning-predicting-the-impact-of-cost-changes/"
-    type: article
-    provider:
-      name: bimplus
-      domain: bimplus.co.uk
-    quality: 19
 
 secured: "ILtboW9NOJZQYCIgvAvA/Ax6LpSwUpL7IPfJSVHHE1SNu8fP1kkUy9B5rMUzXnXr9BvDYAGyhMdpRh+inD8POKDOWLuhmGL8dcqQ0x0sObIEUnBs4bE1kh3vZOH4/wGorJc606yaSSxm3vjzGOvklgFYU+KB+3QqCFma3RnzJ/NPyzI8nMl38YDHjypLOcXPnYt/PpXD5UjvPk048+R5/lQ/9LAKkgyF/XaF06T1IuruvseeVBOF165q/l591QxJaKuKNiILLOvn8z1Glfe5NRvTd9jFVxX2iv5JndrCCRaq9FCs+/RW6ZFd85pk+YySbA5/sIGnV5ZQumxfsHVvZRKTn8aNDm7HjAEbokG93JE=;ldQovOLEA8xZtTSg5FExcQ=="
 ---

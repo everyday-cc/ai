@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/federicoguerrini/2023/09/04/european-co
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/federicoguerrini/2023/09/04/european-countries-race-to-set-the-ai-regulatory-pace/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Europe In The Lead In AI Regulation"
+    excerpt: "Europe leads in AI regulation and the UK wants to be the locus of AI standards - if so it should locate its efforts in Northern Ireland."
+    publishedDateTime: 2023-09-09T06:49:00Z
+    webUrl: "https://www.forbes.com/sites/mikeosullivan/2023/09/09/europe-in-the-lead-in-ai-regulation/"
+    ampWebUrl: "https://www.forbes.com/sites/mikeosullivan/2023/09/09/europe-in-the-lead-in-ai-regulation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/09/09/europe-in-the-lead-in-ai-regulation/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64fc13766cd5e984ea1a562f/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 904
+        isCached: true
   - title: "Artificial Intelligence, Steam Closets, European Dryers: The Future of Laundry Has Finally Arrived"
     excerpt: "Though futuristic devices designed to fold clothes have yet to pan out, doing laundry has never been easier. A guide to the latest innovations."
     publishedDateTime: 2023-09-08T16:00:00Z

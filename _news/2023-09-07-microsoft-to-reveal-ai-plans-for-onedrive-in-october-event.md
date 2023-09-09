@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-to-reveal-ai-plan
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-reveal-ai-plans-for-onedrive-in-october-event/"
 type: article
 quality: 104
-heat: 324
+heat: 334
 published: true
 
 provider:
@@ -308,6 +308,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 27
+  - title: "Siemens and Microsoft drive industrial productivity with generative … – Microsoft"
+    excerpt: "April 2023 Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help industrial companies drive innovation and efficiency"
+    publishedDateTime: 2023-09-09T06:07:00Z
+    webUrl: "https://www.inferse.com/707829/siemens-and-microsoft-drive-industrial-productivity-with-generative-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 14
 
 secured: "g9BAlWRaQS6w2iuT6PebTZrhc8lFt58qubsO+87YhfXcX+asHD9ejtU9b0yMiEjpAjTJrFmyeh92tW0HX1n73Z1oibMCqRR6RpwQwP9+fcVHy9jjbBJQSqEcniHKTAqB0lScfVzjFwovLJCibKLgmtw9gKIxwOTNFyry4wSAz6jK+I3CUkwgr/6dJzWNw1Gjf1s6HsFJQJgCbJFhrSWQIzu1btVAxRPNj1vBCc8KQZJ7gN1nCTRQmCCfMJ7ae11SLQBMgRuDmcMGU+TaBYz5G2ta4IwBZimaWyM4BPfuKTr898TJ1asVP9CGsNj8PIBlvNlBPW5N9thUkDbWssYSjx/RnzlMdk1eZg/OAX4iNqpueQi01Laul0E2YrrSCCsz5qDxuERKNyfdShmzM1cHkAxT92S3/rz61XXGxVy3+f6F0+VklVyPSpE97lPzbtQYyOo+0oXOti+VAuISvwMFundC6CUOYeiu1EHfqBkxdNvCy8/mdh33Acfdf8gVvKqi12OHDZCMyR0ojB7WEmum6w==;2kvj6QWvNxytdV966wfPkg=="
 ---

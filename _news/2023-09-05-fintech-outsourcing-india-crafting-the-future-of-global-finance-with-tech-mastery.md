@@ -9,7 +9,7 @@ ampWebUrl: "https://theprint.in/theprint-valuead-initiative/fintech-outsourcing-
 cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/theprint-valuead-initiative/fintech-outsourcing-india-crafting-the-future-of-global-finance-with-tech-mastery/1747072/?amp"
 type: article
 quality: 53
-heat: 163
+heat: 153
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
-        isCached: true
-  - title: "Relevantz: Driving fintech innovation with Fiserv"
-    excerpt: "Senior Director of Client Success at Relevantz, Georgie John, traces his time at the service provider and the importance of its partnership with Fiserv"
-    publishedDateTime: 2023-09-04T14:31:00Z
-    webUrl: "https://fintechmagazine.com/videos/relevantz-driving-fintech-innovation-with-fiserv"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://assets.bizclikmedia.net/1200/a5df0747734103e25a2923f6a9681af3:717ee360c35460b894994bb8164ee388/maxresdefault.jpg.jpg"
-        width: 1200
-        height: 631
         isCached: true
   - title: "You Don't Have to Pick a Winner in Fintech. Here's Why."
     excerpt: "Artificial intelligence (AI) is on every investor's mind these days ... As you can see, there are lots of ways to gain direct exposure to the fintech sector. Investors who prioritize safety and thus want less risky options can look at Visa and Mastercard."

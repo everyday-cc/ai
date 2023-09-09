@@ -88,11 +88,11 @@ related:
   - title: "AVIA’s National Generative AI Collaborative Announces New Experts, Enhanced Health System Participation"
     excerpt: "The Generative AI Strategic Collaborative reveals a slate of 10 clinical, ethics, technology, and regulatory experts for its national consortium"
     publishedDateTime: 2023-09-07T16:04:00Z
-    webUrl: "https://www.newsobserver.com/press-releases/article279063044.html"
+    webUrl: "https://www.sacbee.com/press-releases/article279063044.html"
     type: article
     provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
+      name: Sacramento Bee
+      domain: sacbee.com
     quality: 3
   - title: "AVIA’s National Generative AI Collaborative Announces New Experts, Enhanced Health System Participation"
     excerpt: "The Generative AI Strategic Collaborative reveals a slate of 10 clinical, ethics, technology, and regulatory experts for its national consortium"
