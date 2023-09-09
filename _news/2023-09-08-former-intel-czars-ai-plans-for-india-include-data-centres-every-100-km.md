@@ -19,57 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Intel wants to beat bias AI training data"
-    excerpt: "He optimistically noted that, despite Nvidia's lead, it won't take long for Intel to start racking up orders for AI chips. \"They're doing well. We all have to give them credit,\" Gelsinger said. \"But we're going to show up.\" Plus, with Intel's recent debut ..."
-    publishedDateTime: 2023-09-04T17:00:00Z
-    webUrl: "https://www.fool.com/investing/2023/09/04/intel-wants-to-beat-bias-ai-training-data/"
+  - title: "Andes ships RISC-V vector IP for data centre transformer AI chips"
+    excerpt: "Andes Technology has developed a high performance 64bit multicore RISC-V vector design for large language model datacentre AI chips."
+    publishedDateTime: 2023-09-07T18:53:00Z
+    webUrl: "https://www.eenewseurope.com/en/andes-ships-risc-v-vector-ip-for-data-centre-transformer-ai-chips/"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 69
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/746485/featured-daily-upside-image.png"
-        width: 1390
-        height: 927
-        isCached: true
-  - title: "How AI and machine learning are transforming data centers"
-    excerpt: "Impact of AI and machine learning on data center management and a colocation market poised for growth to US$65.2 billion by 2027."
-    publishedDateTime: 2023-09-06T01:05:00Z
-    webUrl: "https://techwireasia.com/2023/09/how-are-ai-and-machine-learning-meeting-data-center-demands/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
+      name: eeNews Europe
+      domain: eenewseurope.com
     quality: 54
     images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/09/AI-is-making-an-impact-to-transform-data-centers-and-meet-its-demands-scaled.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://ee.cdnartwhere.eu/wp-content/uploads/2023/09/Andes-AX45MPV1.png"
+        width: 502
+        height: 359
         isCached: true
-  - title: "Efficient training for artificial intelligence"
-    excerpt: "Víctor López-Pastor and Florian Marquardt, two scientists at the Max Planck Institute for the Science of Light in Erlangen, Germany, present a method by which artificial intelligence could be trained much more efficiently. Their approach relies on ..."
-    publishedDateTime: 2023-09-08T14:01:00Z
-    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=63602.php"
-    type: article
-    provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 54
-    images:
-      - url: "https://www.nanowerk.com/news2/robotics/id63602_2.jpg"
-        width: 800
-        height: 412
-        isCached: true
-  - title: "Former Intel Exec Joins Untether AI as President to Drive Commercial Efforts in the Burgeoning AI Acceleration Market"
-    excerpt: "View the full release here:  \"Untether AI has been growing at a rapid pace and Chris brings unique experience, growing world-leading chip businesses at the highest level,\" said Arun Iyengar, Untether AI CEO."
-    publishedDateTime: 2023-09-05T16:45:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/09/05/9874889.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "RDkORR7fQA8LQTnw3sCEZMqZpiyZXBdYgxMrIa2pumlA5T+kkOM4mxOAOrLfQjrOPNtftbLiWXfW6Dp7VeJlrE5yKn4XxxFm5itLqGnZoF8ce1o1CXF9x0OM80bWwtsBwzPMQSpzMwHwXroikHcZa8nadqbSXneQh2L3SodQ4CCd0AlGNoW8Jjs3zmrc7jqKodWrzCYozpVymMmXGcULhB8QE5jMYtEnKLy/7rq+nx//kEbl9h278iAmsf1fVjPs6F1lCc1BxTdjXWgmuXaau/IMlykVS8yL7KzeRFyQ/E/X/xfQJdjlznSPryaajl3jhnk1fZe+H0QpmidNo63S6m1geyBn50pY0HOGg+j4dUEPaMgUrXz73Z44QUprELb0g69aij/q4otAm7QSCvS2pK7G8S6gUQOAID22wOF1Mu5FWssi+KGOfvXAkQCKovrItd0KIX+GRTjljAaHG4NRaDvRlFvVNxdNTa2Z6qKSKmSG/zsHsAM87zZDjLk4WrWJGiuIxhEBSk1vLfBhh5i2Mg==;7b6QG+uhP1UYUTMksMwofQ=="
 ---

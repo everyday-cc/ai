@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/building-ai-for-business-ibms-granite-fou
 webUrl: "https://www.ibm.com/blog/building-ai-for-business-ibms-granite-foundation-models/"
 type: article
 quality: 99
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -89,6 +89,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "How to build an AI Agent run virtual business"
+    excerpt: "If you have interested in fully automating workflows using artificial intelligence you might be interested in ... the datasets ensure that the project remains open for academic and research use. These licenses also stipulate the boundaries for usage ..."
+    publishedDateTime: 2023-09-09T09:16:00Z
+    webUrl: "https://www.geeky-gadgets.com/build-an-ai-agent-run-virtual-business/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/How-to-build-an-AI-Agent-run-virtual-business.jpg"
+        width: 700
+        height: 466
+        isCached: true
 
 secured: "Ao4+kOYQrg8Vib5Qli8mjtChJ+0VY66Mh9Q4RZo8EH1Y5n8c8div/16KT8c/8xRDZ/FFH3ZLX7fR7/IcJbaeMBt0yih2nwV+hylLwuLEtuY31IJrMxt3SVxNUeOgeDtlPEMjfO+y4v5DW7JUYn1F0KglepSXDtf80J+OTUjjFHDkq1nc6pSLVgvf0EvCcJE1e22Nl0dXHbWGdRxMiA0xZMJDWKyHt2BDp3WUZD3Zc0vl4c8hFu27A8YO+61L0QV4MPNsbJ64xYaBW7Z5vyA88JPTDUB4CQztAMWXSq0LpS+T7ZI4VgL7ai7Xc26/oz0lXmV1PlO35sMZSFDfUm/MJRB1E+63aR/Z4Q892ojCFWo=;EBFZ15IIw2Eg57gd8C0IXA=="
 ---

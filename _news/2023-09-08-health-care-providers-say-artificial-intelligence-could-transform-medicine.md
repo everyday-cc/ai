@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wcvb.com/amp/article/health-care-providers-say-artificia
 cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/health-care-providers-say-artificial-intelligence-could-transform-medicine-1694113490/45038212"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: WCVB Channel 5 Boston
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "How AI and machine learning are transforming data centers"
+    excerpt: "Impact of AI and machine learning on data center management and a colocation market poised for growth to US$65.2 billion by 2027."
+    publishedDateTime: 2023-09-06T01:05:00Z
+    webUrl: "https://techwireasia.com/2023/09/how-are-ai-and-machine-learning-meeting-data-center-demands/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 54
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/09/AI-is-making-an-impact-to-transform-data-centers-and-meet-its-demands-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "AI might help health care's labor shortage, industry leaders say"
     excerpt: "Local health care leaders at the City Club talked about the many reasons physicians are leaving the profession."
     publishedDateTime: 2023-09-06T21:30:00Z

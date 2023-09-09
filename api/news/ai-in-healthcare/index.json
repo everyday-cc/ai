@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-08-health-care-providers-say-artificial-intelligence-could-transform-medicine.md",
+      "title": "Health care providers say artificial intelligence could transform medicine",
+      "excerpt": "HEALTH CARE PROVIDERS. HERE’S NICOLE. THE PROFOUND SHIFT THAT ARTIFICIAL INTELLIGENCE IS HAVING AND WILL HAVE ON THE FIELD OF MEDICINE CANNOT BE QUANTIFIED. BUT WHAT CAN BE MEASURED IS ONE OF THE MOST SERIOUS ISSUES FACING HEALTH CARE. WE KNOW THAT THERE ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wcvb.com/article/health-care-providers-say-artificial-intelligence-could-transform-medicine-1694113490/45038212",
+      "originalUrl": "https://www.wcvb.com/article/health-care-providers-say-artificial-intelligence-could-transform-medicine-1694113490/45038212",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/vidthumb/9160962b-fb55-48b9-9f1e-fbefe8f25c2d/d2be8e28-8472-4716-8cef-fd7499ad2c20.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wcvb.com/amp/article/health-care-providers-say-artificial-intelligence-could-transform-medicine-1694113490/45038212",
+      "cdnAmpWebUrl": "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/health-care-providers-say-artificial-intelligence-could-transform-medicine-1694113490/45038212",
+      "publishedDateTime": "2023-09-07T17:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WCVB Channel 5 Boston",
+        "domain": "wcvb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-07-cedar-taps-google-cloud-ai-to-speed-up-healthcare-billing-process.md",
       "title": "Cedar taps Google Cloud AI to speed up healthcare billing process",
       "excerpt": "Cedar is using Google Cloud's AI tools to help patients with their healthcare bills. Vertex AI and Generative AI App Builder will be used to build algorithms to",
@@ -1319,49 +1362,6 @@
         "Computer Vision",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-08-19-thumbay-institute-discusses-ai-potential-in-healthcare.md",
-      "title": "Thumbay institute discusses AI potential in healthcare",
-      "excerpt": "The discussion focused on using data to understand disease patterns in ageing population, the associated costs, and how healthcare professionals can quickly turn patient interactions into clinician notes using new platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://gulftoday.ae/news/2023/08/19/thumbay-institute-discusses-ai-potential-in-healthcare",
-      "originalUrl": "https://gulftoday.ae/news/2023/08/19/thumbay-institute-discusses-ai-potential-in-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://gulftoday.ae/-/media/gulf-today/images/articles/news/2023/8/19/thumbay-ai-ajman-750.ashx?h=450&w=750&hash=BFCEEDC23B79CADBD7505AF297AAAE5D",
-          "width": 750,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-19T00:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gulftoday",
-        "domain": "gulftoday.ae",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

@@ -47,6 +47,20 @@ related:
         width: 469
         height: 417
         isCached: true
+  - title: "Kerala youths’ robotics startup Sastra sees much demand in global market"
+    excerpt: "Fresh out of their engineering college, three youths in Kerala decided to launch a robotics company in 2013. They had to show a capital of Rs 1 lakh to register their firm as an I"
+    publishedDateTime: 2023-09-09T07:28:00Z
+    webUrl: "https://www.onmanorama.com/news/business/2023/09/09/youth-robotics-startup-sastra-kerala.html"
+    type: article
+    provider:
+      name: onmanorama
+      domain: onmanorama.com
+    quality: 53
+    images:
+      - url: "https://img.onmanorama.com/content/dam/mm/en/news/business/images/2023/9/9/sastra-robotics.jpg"
+        width: 1248
+        height: 650
+        isCached: true
   - title: "KSUM-incubated startup to export 150 robots to British IT company"
     excerpt: "The customers of Sastra Robotics, which has won several awards at national and international level, include big names like German company Robert Bosch, HCL, Qualcomm, Tech Mahindra, and ABB."
     publishedDateTime: 2023-09-07T13:28:00Z

@@ -33,6 +33,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Efficient training for artificial intelligence"
+    excerpt: "Training an artificial intelligence consumes more energy the more demanding the tasks are. Víctor López-Pastor and Florian Marquardt, two scientists at the Max Planck Institute for the Physics of Light in Erlangen,"
+    publishedDateTime: 2023-09-08T16:32:00Z
+    webUrl: "https://www.mpg.de/20826914/neuromorphic-computer"
+    type: article
+    provider:
+      name: Max Planck Society
+      domain: www.mpg.de
+    quality: 54
+    images:
+      - url: "https://www.mpg.de/20826890/original-1694190147.jpg?t=eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0IjpudWxsLCJmaXQiOm51bGwsIm9ial9pZCI6MjA4MjY4OTB9--a52183c84030f9304a9d34521956318b35e6ac0f"
+        width: 1200
+        height: 1206
+        isCached: true
   - title: "C3 AI releases 28 domain-specific generative AI models"
     excerpt: "The platform works on structured and unstructured textual data and can also orchestrate inferences from machine learning and deep learning models ... AWS and Microsoft Azure marketplaces."
     publishedDateTime: 2023-09-06T20:32:00Z

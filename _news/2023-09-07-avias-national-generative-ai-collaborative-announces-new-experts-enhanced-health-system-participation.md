@@ -3,16 +3,16 @@ category: news
 title: "AVIA’s National Generative AI Collaborative Announces New Experts, Enhanced Health System Participation"
 excerpt: "The Generative AI Strategic Collaborative reveals a slate of 10 clinical, ethics, technology, and regulatory experts for its national consortium"
 publishedDateTime: 2023-09-07T16:04:00Z
-originalUrl: "https://www.sacbee.com/press-releases/article279063044.html"
-webUrl: "https://www.sacbee.com/press-releases/article279063044.html"
+originalUrl: "https://www.newsobserver.com/press-releases/article279063044.html"
+webUrl: "https://www.newsobserver.com/press-releases/article279063044.html"
 type: article
 quality: 3
 heat: -1
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: Raleigh News & Observer
+  domain: newsobserver.com
 
 topics:
   - AI Ethics
@@ -103,6 +103,6 @@ related:
       domain: miamiherald.com
     quality: 3
 
-secured: "V3D4U66u8FquKZgxMAuHQLyYQVSACMvG5n47scPieUXGXWKxDVfhHFR7SdU2ptpf4QvNROow31PG5C7Y8D6w91E/Uwq0adBdNd8oihqDtc8T6+tccjc/54+lDeGLFmIFeZhyRaLAVhukPnoJLlMpxi3q26AONMLszNPpLp/hTOQVgyTk+vvYYPJUjCM2N4C9V/oaIaKnHURsf0CDRxEDvThrV1hY7uL4AqTZNFcS2RNROKBhllFNZ7t27DfQDCU+f1pFqBWqCMh/tiyOisEblIvAJvk0Q2PRhxv541LMzKF1hBVKXNpSrm3fY5+R5P/BDVZd0Zu3Gx71nyMVIIow1IPILESjJVrixPYpWzqSd4YDxqw1fdNMGvzgKGzauP2bZeS/Pf7/CXQt/HVljbco4lZ1U1l9B+wLjZD4us09HzNKvGfcC9u/sG22T2WEK38bPexJH9EdVRbHhqh6d8kAhFxG6AFTU49tN3rvdkZ+b73aAYNxiMNq6PmaEY3Ij37jxKintC4wDxWWuCs8Qquvpw==;SsfbO/a41XQwcJMZlgu64Q=="
+secured: "ofDOQEaQGjt8PppW0jKTisyzM9X0pPQTU3gytBppD3BEwvDec3OzKwz9L6UeZlro+TrBMZ+Fa8MtnTEKOSDKfsAy5eReSShRh9w4XO4tboy+bX3CkYYUAUrwuxLj0zvXCNFkSYkyI9q5CH+tuLoO0gPAsZajeG5OB+7Sp3x1x8H7/YKEAorJWaOjEdrSjFQdsL5MP7DLtTPJfz3XLbuf+S0KOQtWxeINfhad8OF+ApI3tQsZRaARBgsMXDTzi8fDRyAe9JPpOo6o7IQfb60xOJ54Rv3iZsBC70XvAxWgZhpkztl2yqkcSdxU9z8cLRK+66c+ptgFYtK0R3IebM8tt2okTWkf8MVJ4JLzRWBBfGB8Yqz/D119GCMRvnXyG4v0dZnmudjDOIXINagkjrzCq4qOjHZOj2+iZRdNpyfYAAc5rCVBAe1PtL8YEdLiI534t5zVTx50cLBr0CvM4WqHYI8oWl9jIt5WCbPhFfhDb6W5vc+vBHBvYKPAM6qpbxWvI9l8t3Id3iDFIvxxAypFZQ==;9hQZ6RW8ZFNPSVSCs1pR2Q=="
 ---
 

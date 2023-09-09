@@ -1,77 +1,68 @@
 ---
 category: news
 title: "Efficient training for artificial intelligence"
-excerpt: "Víctor López-Pastor and Florian Marquardt, two scientists at the Max Planck Institute for the Science of Light in Erlangen, Germany, present a method by which artificial intelligence could be trained much more efficiently. Their approach relies on ..."
-publishedDateTime: 2023-09-08T14:01:00Z
-originalUrl: "https://www.nanowerk.com/news2/robotics/newsid=63602.php"
-webUrl: "https://www.nanowerk.com/news2/robotics/newsid=63602.php"
+excerpt: "Training an artificial intelligence consumes more energy the more demanding the tasks are. Víctor López-Pastor and Florian Marquardt, two scientists at the Max Planck Institute for the Physics of Light in Erlangen,"
+publishedDateTime: 2023-09-08T16:32:00Z
+originalUrl: "https://www.mpg.de/20826914/neuromorphic-computer"
+webUrl: "https://www.mpg.de/20826914/neuromorphic-computer"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Nanowerk
-  domain: nanowerk.com
+  name: Max Planck Society
+  domain: www.mpg.de
 
 topics:
-  - AI in Robotics
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://www.nanowerk.com/news2/robotics/id63602_2.jpg"
-    width: 800
-    height: 412
+  - url: "https://www.mpg.de/20826890/original-1694190147.jpg?t=eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0IjpudWxsLCJmaXQiOm51bGwsIm9ial9pZCI6MjA4MjY4OTB9--a52183c84030f9304a9d34521956318b35e6ac0f"
+    width: 1200
+    height: 1206
     isCached: true
 
 related:
-  - title: "Intel wants to beat bias AI training data"
-    excerpt: "He optimistically noted that, despite Nvidia's lead, it won't take long for Intel to start racking up orders for AI chips. \"They're doing well. We all have to give them credit,\" Gelsinger said. \"But we're going to show up.\" Plus, with Intel's recent debut ..."
-    publishedDateTime: 2023-09-04T17:00:00Z
-    webUrl: "https://www.fool.com/investing/2023/09/04/intel-wants-to-beat-bias-ai-training-data/"
+  - title: "Analyst Ratings for C3.ai"
+    excerpt: "Within the last quarter, C3.ai (NYSE:AI) has observed the following analyst ratings: According to 5 analyst offering 12-month price targets in the last 3 months, C3.ai has an average price target of $35.8 with a high of $42.00 and a low of $28.00."
+    publishedDateTime: 2023-09-08T16:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/analyst-ratings-for-c3-ai-1032616827"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 69
     images:
-      - url: "https://g.foolcdn.com/editorial/images/746485/featured-daily-upside-image.png"
-        width: 1390
-        height: 927
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/analyst_ratings_image_0.png"
+        width: 1024
+        height: 768
         isCached: true
-  - title: "How AI and machine learning are transforming data centers"
-    excerpt: "Impact of AI and machine learning on data center management and a colocation market poised for growth to US$65.2 billion by 2027."
-    publishedDateTime: 2023-09-06T01:05:00Z
-    webUrl: "https://techwireasia.com/2023/09/how-are-ai-and-machine-learning-meeting-data-center-demands/"
+  - title: "C3 AI releases 28 domain-specific generative AI models"
+    excerpt: "The platform works on structured and unstructured textual data and can also orchestrate inferences from machine learning and deep learning models ... AWS and Microsoft Azure marketplaces."
+    publishedDateTime: 2023-09-06T20:32:00Z
+    webUrl: "https://siliconangle.com/2023/09/06/c3-ai-releases-28-domain-specific-generative-ai-models/"
     type: article
     provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 54
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
     images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/09/AI-is-making-an-impact-to-transform-data-centers-and-meet-its-demands-scaled.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/deepmind-LIlsk-UFVxk-unsplash.jpg"
+        width: 7111
+        height: 4000
         isCached: true
-  - title: "Former Intel czar’s AI plans for India include data centres every 100 km"
-    excerpt: "From how one of his memos led to ‘propaganda’ about chip packaging continuing Moore’s Law to the fate of soft-knowledge jobs in the post-AI era, former Intel chief architect Raja Koduri opens up in a"
-    publishedDateTime: 2023-09-08T13:11:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/startup/former-intel-czars-ai-plans-for-india-include-data-centres-every-100-km-11336021.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 18
-  - title: "Former Intel Exec Joins Untether AI as President to Drive Commercial Efforts in the Burgeoning AI Acceleration Market"
-    excerpt: "View the full release here:  \"Untether AI has been growing at a rapid pace and Chris brings unique experience, growing world-leading chip businesses at the highest level,\" said Arun Iyengar, Untether AI CEO."
-    publishedDateTime: 2023-09-05T16:45:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/09/05/9874889.htm"
+  - title: "C3 AI Releases New C3 Generative AI Suite"
+    excerpt: "Initially released in March 2023, C3 Generative AI has been well received by the market with projects now in place at Georgia-Pacific, Flint Hills Resources, Nucor, Pantaleon, Con Edison, the U.S. Missile Defense Agency, and a U.S. intelligence agency."
+    publishedDateTime: 2023-09-06T21:55:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/09/06/9876233.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 0
+    quality: 19
 
-secured: "wS9nb9zKVgeLFCkdoZ65aZxASbUFkR3IUfQKDg4tV6MA2OO50QVuxJ3QoWVrc5o7/M5cpWRfWz+UHxWW1rHZB+9ur+nN99OW7Lp8A8c1zrAcEQfOWFXXPlaxG3L+j2w+HLwp30490fWoHVsZ7ijt9eHrtrTa9enTWOVojrmsk/CCkY2y8ERHuEzepOrHAbjwNy7pxRR3m9A+mx/d+3/d7QKRnqY0gYTRPnOmL3Q7S0ZNLzlOw9pYQg0NvvswSgFX4oIRbZ3Kg6htrUTvGON23eDVKAFnpj1DeBxsQhZ3jHAJ24aZKo4xr8x91bxhPo0kujLTCnq7uH5QvHaUcy8HgU0HMJayTBuv0aK09TA5Xtw=;WBDsZGuPGgjcF0jNhQ8XAg=="
+secured: "/Cc6zdcEldaefN758yjrwqZ+ni3TEXM4OIZAyG7Y3TCgw494n3/iB7aLVDWRgepkKw7GKyDaCxOtfHsg5flfKo0ozePhlNvnKZSf7P10ow0LnxXmAKt7jSbRkkiu0Ak1r7dfw1HpauVfUKYtqXDmCniIlCRiplKNwrTEKR0mPxQogBp6hCmWW5mQTv29phNLaDtLDK2UcbSVKjRnbjHIQ2nwqGhz4XkAQ/jPOeBlPBoyPre5KHsRjJ/Ai/GpSZ3RkA+Xg0WcF4+e2/K8bSM1yuy4Rlq2Iu9wpxYnUUnlY7eOv1l5Z8+uq/sv3OQJ3EKPOpDM6GBgvZbdBRMWeE5vtsGbFEV61N+ZCRZk3uK6pY8=;siqjFnf59iZTwmW4bzn4Zg=="
 ---
 

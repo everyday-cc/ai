@@ -90,6 +90,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "How to build an AI Agent run virtual business"
+    excerpt: "If you have interested in fully automating workflows using artificial intelligence you might be interested in ... the datasets ensure that the project remains open for academic and research use. These licenses also stipulate the boundaries for usage ..."
+    publishedDateTime: 2023-09-09T09:16:00Z
+    webUrl: "https://www.geeky-gadgets.com/build-an-ai-agent-run-virtual-business/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/How-to-build-an-AI-Agent-run-virtual-business.jpg"
+        width: 700
+        height: 466
+        isCached: true
 
 secured: "sUr58f4CAMSqT/pmjeitRCnsGnraSQjQA8esrFfRIyuYnofLNg/xatEQCIi3NPbgjRGl9waU8x5mn8EUZrTxNniC8NiQ+h+rkHGBITK/ks2hFiG5H/zgXvRunoiraj5Moo1v8Y1cv5R9S0CvoILc4zvhjfTThmTmLpJ4/rrdmlnu8+JxFzXLVW4NgnrA9ZJvFZNTOOrGd/odM7pi/1H3eo8attg+294ciyLaTzaBXRmFddOl/novXqwi4yeYLKjbseAvACYj0hWbMFMXl+Yrpo0pfh7bsB8AXHZuWNAlGKcYgIlwsMhLUfx2DHwCaCJuwc+8AUPBFPpJfw9BJgDpCdQQiCjgcQfi/oowOlkAUNZ2S1qWkCGmCdV21bcrQ/d3/VBPzAjTIaZKwjUHaXbpXFWa35TpZaAHBQUdbz+5wn/c3bEFH/RseHznO60CtJHQahvBwa2pExIiar68mtjBg/PqsH51K4AkaacIt6tMbx2Dk65/uoL4ZNArMPB6wIls29NRdugRubFYVVuIS5qh2A==;5V3fk7NfG4+EIbRfXkfXwQ=="
 ---

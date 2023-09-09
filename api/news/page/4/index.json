@@ -2,6 +2,110 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-09-06-intelligently-search-adobe-experience-manager-content-using-amazon-kendra.md",
+      "title": "Intelligently search Adobe Experience Manager content using Amazon Kendra",
+      "excerpt": "This post shows you how to configure the Amazon Kendra AEM connector to index your content and search your AEM assets and pages. The connector also ingests the access control list (ACL) information for each document. The ACL information is used to show search results filtered by what a user has access",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/intelligently-search-adobe-experience-manager-content-using-amazon-kendra/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/intelligently-search-adobe-experience-manager-content-using-amazon-kendra/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/06/featured-images-ML-13597-1120x630.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-06T10:28:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-07-emerging-non-volatile-memories-enable-iot-and-ai-growth.md",
+      "title": "Emerging Non-Volatile Memories Enable IoT And AI Growth",
+      "excerpt": "MRAM and other emerging memory revenues could approach $1B and drive capital equipment revenues to $2.2B by 2033.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomcoughlin/2023/09/06/emerging-non-volatile-memories-enable-iot-and-ai-growth/",
+      "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2023/09/06/emerging-non-volatile-memories-enable-iot-and-ai-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64f8b28ea1eda175c6dcb951/0x0.png?format=png&width=1200",
+          "width": 968,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomcoughlin/2023/09/06/emerging-non-volatile-memories-enable-iot-and-ai-growth/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2023/09/06/emerging-non-volatile-memories-enable-iot-and-ai-growth/amp/",
+      "publishedDateTime": "2023-09-06T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-09-06-what-is-the-vulnerability-management-process.md",
       "title": "What is the vulnerability management process?",
       "excerpt": "Unpack the steps that make up the vulnerability management lifecycle, and learn how to build an effective vulnerability management program for your organization.\nThe post What is the vulnerability management process? appeared first on IBM Blog.\n",
@@ -1083,100 +1187,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-c3ai-reports-earnings-wednesday-what-to-watch-from-artificial-intelligence-stock.md",
-      "title": "C3.ai Reports Earnings Wednesday: What To Watch From Artificial Intelligence Stock",
-      "excerpt": "Artificial intelligence (AI) stock C3.ai Inc (NYSE:AI) is set to issue fourth-quarter earnings on Wednesday after the closing bell. Here's what you need to know about the print. By The Numbers: Traders pushed C3.ai more than 300% higher during the first half of the year.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/c3-ai-reports-earnings-wednesday-what-to-watch-from-artificial-intelligence-stock-1032606207",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/c3-ai-reports-earnings-wednesday-what-to-watch-from-artificial-intelligence-stock-1032606207",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Ai,Technology,,Artificial,Intelligence.,Man,Using,Technology,Smart,Robot,Ai,_3.jpeg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-05T08:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-chip-designer-arm-aims-for-52-bn-valuation-in-ny-stock-listing.md",
-      "title": "Chip Designer Arm Aims For $52 Bn Valuation In NY Stock Listing",
-      "excerpt": "British chip designer Arm, owned by Japan's Softbank, aims for a market valuation of $52 billion when it lists its shares in New York later this month, according to a document published Tuesday on the website of the US stock market regulator.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/chip-designer-arm-aims-for-52-bn-valuation-in-ny-stock-listing-f6f77feb",
-      "originalUrl": "https://www.barrons.com/news/chip-designer-arm-aims-for-52-bn-valuation-in-ny-stock-listing-f6f77feb",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg",
-          "width": 1320,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/chip-designer-arm-aims-for-52-bn-valuation-in-ny-stock-listing-f6f77feb",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/chip-designer-arm-aims-for-52-bn-valuation-in-ny-stock-listing-f6f77feb",
-      "publishedDateTime": "2023-09-05T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
         "images": null,
         "publishers": null,
         "authors": null

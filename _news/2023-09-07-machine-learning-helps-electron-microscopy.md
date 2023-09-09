@@ -24,6 +24,17 @@ images:
     height: 529
     isCached: true
 
+related:
+  - title: "The rise of the machine (learning)"
+    excerpt: "Is the rally behind artificial intelligence (AI)-related stocks signalling a new turning point for technological innovation, or is it symptomatic of a human-made market bubble? Whatever the case, don't ask the chatbots."
+    publishedDateTime: 2023-09-05T12:05:00Z
+    webUrl: "https://www.financeasia.com/article/the-rise-of-the-machine-learning/485759"
+    type: article
+    provider:
+      name: FinanceAsia
+      domain: financeasia.com
+    quality: 4
+
 secured: "UTLwScBDqbEg/xfY61uqk4DUboQ16Mwdrefy+6RHUZ9pMliLDkCs+rLW4A0DgCxb/YsvJMTvKuIJLVAH+9gQ1E/8D8v3dY8LO4jwzabNrJfuZ3flUPT2KWs8v7op3zkR8OTFFwNV54E8Iv9B163Iqln5MXHFVf89iLwDfDGUYd3p9/1RTmZ+XhlrGKlC90Dn1KALy1/eAmVHP8ABF+m7L3TNrgZhg2te0UdL8CanbBf9beL45/lxlGGaZE7JgepQcd6VDH/cuBkFsV3WeHfQTEHePhXslu1YSUMgThNFMeplEWfdJCFioyTTjOBdtzBXaTLDB1iTk1Bmm1ebVpSJO863DdxyXGb6tp/YbsNU61c=;VW/FfRiTQPMZqg6wLXtCxA=="
 ---
 

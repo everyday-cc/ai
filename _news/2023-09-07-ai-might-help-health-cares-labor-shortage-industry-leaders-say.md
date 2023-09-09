@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How AI and machine learning are transforming data centers"
+    excerpt: "Impact of AI and machine learning on data center management and a colocation market poised for growth to US$65.2 billion by 2027."
+    publishedDateTime: 2023-09-06T01:05:00Z
+    webUrl: "https://techwireasia.com/2023/09/how-are-ai-and-machine-learning-meeting-data-center-demands/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 54
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/09/AI-is-making-an-impact-to-transform-data-centers-and-meet-its-demands-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
 
 secured: "Mb9xG8GWd9iswusuqu7m3mwWBl1HxzaUMYJqlHfz+CXN6JZ9GYGDoF6x8upAPkRPZzBpu8aDO07Sy+K75l0dM5hpFFlmNUnYqqj7lthYeJ08J34oiVNTrz7zPCUEihPQIRAc9tkJxbO0CuzecFOEwpJju5NPc/P9gZb2Cjpk7NqpnQQLfect9ImqKrWgBO2q0wTjD00p25FpUs6r1zTOO7ifZ5ZnqAdw9wXl0Ln67aSXYhWoYGCZ3vpcLdfymZMOyGcDabGRJqS8qCqbqludfF5MKYhzLQvmzrwwlefYJYqK/JExa7sBI2BQsqafMIH/QQafo3ZnoVVrCsySTv1m6Q4JaWdpWo0bY9BOirIe1KOuwnJ/RRzDuDB58j4H9xmvOq1Xj8AHCn5xsQ3w/yI8+a59csejwp72AJnwGpB6lAqf0y5g93of/icpXdLEls24bo7Ayga7yJjntC21Oou3i5No0T48t1gnGA1BTVVm0j9moPFcpCMM/yqSFHJ58mxvxqoRjEyMuevykzdO2eBibA==;ys5aIhkqsKJGwma/s+VQsQ=="
 ---

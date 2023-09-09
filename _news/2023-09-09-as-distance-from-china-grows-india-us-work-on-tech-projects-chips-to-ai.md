@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/india/as-distance-from-china-grows
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/india/as-distance-from-china-grows-india-us-work-on-tech-projects-chips-to-ai-8931140/lite/"
 type: article
 quality: 71
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://images.barrons.com/im-231723/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "NVIDIA Partners with Tata Group to Develop AI Supercomputer, Cloud in India"
+    excerpt: "U.S. chipmaker NVIDIA and Indian conglomerate Tata Group have announced a major partnership to accelerate the adoption of artificial intelligence (AI) in India. The announcement follows, the US chip designer’s collaboration with Mukesh Ambani’s ..."
+    publishedDateTime: 2023-09-09T09:05:00Z
+    webUrl: "https://www.gizmochina.com/2023/09/09/nvidia-tata-ai-partnership/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 67
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/09/Nvidia-Partners-Tata.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Reliance Partners NVIDIA To Develop Large AI Language Model For India"
     excerpt: "Reliance's Jio Platforms Limited has partnered with chip designer major NVIDIA to construct an advanced cloud-based AI computing infrastructure"
@@ -119,6 +133,6 @@ related:
       domain: webindia123.com
     quality: 14
 
-secured: "2yt8b8f0axjg41zFtdtPOXV1sFYk3Lokr25TpQnKQ/rqaLOVkHilCdwAs9lCRvxkSrFX0+45cXShulwrEdz0wecpqsY5s2MqjrK5JG1+rq9a5TqPyKO73jaKv4NF5bIomQ6ouKpI6Q6uOGiN4Z5NsnFELDevbsJrzSm/roVeMia2fedYd3VUxh8S73skfjSuixU/AdvT8+04kff6xrcDQNPXiPu4JPdBko6p01qXCqF8If7l/R0Fv7DtX9VhelSM1AC3vzEzNegHTBIYLk24BCYMOqu7ELMTf6w25koG3eYv+/JQjQg5gMDBuzKaXrFMxLcLqkUPn6iMlBWt4k6mLL+vs9mWLfC0TuGjRoM82Ls=;g2UDp266+Ub4+TNl79LxEQ=="
+secured: "DlSmA7Vd3Pj6cmNRxqGrszJCIBhqUC6ybZGMKVkPahYvACSAg5CGqMB1iqowiqb8NwiUrqzJr0tZ7W12zeCXV64CscUiWP0qPzhcMqgrak4Q8d4E6BnSKvRhptYfFeryLG2WOHhVtDT/BbAlF709f23WgXOB1snQpSdvpJawgi7wMJhNI0tuVUAozAdtOu+RnfKWVdFF+R2o2tKJrFkLe0LlRPzqi51PhWQwvNXLomTRt3+6xEBkuwEszPEvgtitNOqTstOqrhto/FtPyVvEE2o0iz2h/BVTDKNTTx7j9TLEHH6cf7UiZ2+e/gNGDbPhpAw1W4FyXh/eAAqsii+yq3Tx99c0qRlgSetFwolckNRtkp0FhFnf26bARaeyL98H/xz5yULOCY3Y9brDmmRpVWKNL5wK78W7Cg72Aa3scXUGxcKwdFX2W0EKOF101PCi8UaRTTIRYug2Y43jTSutnJ+DDko2sT5rfOkIYSPfX/TaiABUk5DLjpQ/BCUYRop3KfkRE29HA4Vwy6UoMa8K3g==;UKl5iBLcgCrUZqeBTF2hxw=="
 ---
 

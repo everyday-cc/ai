@@ -25,52 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "Intel wants to beat bias AI training data"
-    excerpt: "He optimistically noted that, despite Nvidia's lead, it won't take long for Intel to start racking up orders for AI chips. \"They're doing well. We all have to give them credit,\" Gelsinger said. \"But we're going to show up.\" Plus, with Intel's recent debut ..."
-    publishedDateTime: 2023-09-04T17:00:00Z
-    webUrl: "https://www.fool.com/investing/2023/09/04/intel-wants-to-beat-bias-ai-training-data/"
+  - title: "Health care providers say artificial intelligence could transform medicine"
+    excerpt: "HEALTH CARE PROVIDERS. HERE’S NICOLE. THE PROFOUND SHIFT THAT ARTIFICIAL INTELLIGENCE IS HAVING AND WILL HAVE ON THE FIELD OF MEDICINE CANNOT BE QUANTIFIED. BUT WHAT CAN BE MEASURED IS ONE OF THE MOST SERIOUS ISSUES FACING HEALTH CARE. WE KNOW THAT THERE ..."
+    publishedDateTime: 2023-09-08T00:02:00Z
+    webUrl: "https://www.wcvb.com/article/health-care-providers-say-artificial-intelligence-could-transform-medicine-1694113490/45038212"
+    ampWebUrl: "https://www.wcvb.com/amp/article/health-care-providers-say-artificial-intelligence-could-transform-medicine-1694113490/45038212"
+    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/health-care-providers-say-artificial-intelligence-could-transform-medicine-1694113490/45038212"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 69
+      name: WCVB Channel 5 Boston
+      domain: wcvb.com
+    quality: 57
     images:
-      - url: "https://g.foolcdn.com/editorial/images/746485/featured-daily-upside-image.png"
-        width: 1390
-        height: 927
+      - url: "https://kubrick.htvapps.com/vidthumb/9160962b-fb55-48b9-9f1e-fbefe8f25c2d/d2be8e28-8472-4716-8cef-fd7499ad2c20.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Efficient training for artificial intelligence"
-    excerpt: "Víctor López-Pastor and Florian Marquardt, two scientists at the Max Planck Institute for the Science of Light in Erlangen, Germany, present a method by which artificial intelligence could be trained much more efficiently. Their approach relies on ..."
-    publishedDateTime: 2023-09-08T14:01:00Z
-    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=63602.php"
+  - title: "AI might help health care's labor shortage, industry leaders say"
+    excerpt: "Local health care leaders at the City Club talked about the many reasons physicians are leaving the profession."
+    publishedDateTime: 2023-09-06T21:30:00Z
+    webUrl: "https://www.chicagobusiness.com/health-care/health-leaders-city-club-event-talk-labor-shortage-ai"
     type: article
     provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 54
+      name: Crain's Chicago Business
+      domain: chicagobusiness.com
+    quality: 39
     images:
-      - url: "https://www.nanowerk.com/news2/robotics/id63602_2.jpg"
-        width: 800
-        height: 412
+      - url: "https://s3-rd-prod.chicagobusiness.com/styles/1200x630/s3/_A7_0916.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Former Intel czar’s AI plans for India include data centres every 100 km"
-    excerpt: "From how one of his memos led to ‘propaganda’ about chip packaging continuing Moore’s Law to the fate of soft-knowledge jobs in the post-AI era, former Intel chief architect Raja Koduri opens up in a"
-    publishedDateTime: 2023-09-08T13:11:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/startup/former-intel-czars-ai-plans-for-india-include-data-centres-every-100-km-11336021.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 18
-  - title: "Former Intel Exec Joins Untether AI as President to Drive Commercial Efforts in the Burgeoning AI Acceleration Market"
-    excerpt: "View the full release here:  \"Untether AI has been growing at a rapid pace and Chris brings unique experience, growing world-leading chip businesses at the highest level,\" said Arun Iyengar, Untether AI CEO."
-    publishedDateTime: 2023-09-05T16:45:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/09/05/9874889.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "EE2/Fg01ZXCtH4iUsLHUthw3Ks9L/KlBmSJWh8lIREOHidA72855gTLJVKdSX9mVoyNaZBapopqg3HKtmR3vSYf7jPPHccEK5hKdVmU9e0YMER1l9L2yJ2bNHhaGNg28PbFSV3COwBu4YssV134il/8H8LOb8B+J19AOB9GAtUe3wao5MEExTsT8agE3EG9NLdHhMbkogOnwnICgO7UpA3uOFJ0cOW+YRmdy8aVBoxtVeIg5puR6b+oFlZraeONNpDNs4213YJq7QObKKBpnRg/N6896fB2t3IB6OyXwGltmB0eMCidKPH8sZHoLrAwoFEprp8Qvt++aI7KNDCYvB+d3AtIV1fQd68fQPaWei/5F+gfvcO8F5WSZrl2CNsypkpkctYrsAB4AM03ZjK+B+dYoEcKBr6N4jrWjE8y33jV8CnZjocJ0+1KPpX9yPPZXDm/4Ii8cr0bIJf7WHfWGUiUVv6KsCGJDz+4fH1aMVtmfA0XEH8ZiXEy5AfHgyxozHepSxNQe2Ydgs9TJsWRxSw==;Vuskoq+NEZIgegFM+9PfVw=="
 ---

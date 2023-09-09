@@ -50,6 +50,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "NVIDIA Partners with Tata Group to Develop AI Supercomputer, Cloud in India"
+    excerpt: "U.S. chipmaker NVIDIA and Indian conglomerate Tata Group have announced a major partnership to accelerate the adoption of artificial intelligence (AI) in India. The announcement follows, the US chip designer’s collaboration with Mukesh Ambani’s ..."
+    publishedDateTime: 2023-09-09T09:05:00Z
+    webUrl: "https://www.gizmochina.com/2023/09/09/nvidia-tata-ai-partnership/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 67
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/09/Nvidia-Partners-Tata.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Reliance Partners NVIDIA To Develop Large AI Language Model For India"
     excerpt: "Reliance's Jio Platforms Limited has partnered with chip designer major NVIDIA to construct an advanced cloud-based AI computing infrastructure"
     publishedDateTime: 2023-09-08T10:44:00Z

@@ -208,6 +208,49 @@
       ]
     },
     {
+      "path": "_news/2023-09-08-health-care-providers-say-artificial-intelligence-could-transform-medicine.md",
+      "title": "Health care providers say artificial intelligence could transform medicine",
+      "excerpt": "HEALTH CARE PROVIDERS. HERE’S NICOLE. THE PROFOUND SHIFT THAT ARTIFICIAL INTELLIGENCE IS HAVING AND WILL HAVE ON THE FIELD OF MEDICINE CANNOT BE QUANTIFIED. BUT WHAT CAN BE MEASURED IS ONE OF THE MOST SERIOUS ISSUES FACING HEALTH CARE. WE KNOW THAT THERE ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wcvb.com/article/health-care-providers-say-artificial-intelligence-could-transform-medicine-1694113490/45038212",
+      "originalUrl": "https://www.wcvb.com/article/health-care-providers-say-artificial-intelligence-could-transform-medicine-1694113490/45038212",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/vidthumb/9160962b-fb55-48b9-9f1e-fbefe8f25c2d/d2be8e28-8472-4716-8cef-fd7499ad2c20.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wcvb.com/amp/article/health-care-providers-say-artificial-intelligence-could-transform-medicine-1694113490/45038212",
+      "cdnAmpWebUrl": "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/health-care-providers-say-artificial-intelligence-could-transform-medicine-1694113490/45038212",
+      "publishedDateTime": "2023-09-07T17:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WCVB Channel 5 Boston",
+        "domain": "wcvb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-08-this-week-in-xr-the-ai-copyright-mess-nintendo-back-in-xr-game-text-to-3d-virtual-worlds-by-hiber3d.md",
       "title": "This Week In XR: The AI Copyright Mess, Nintendo Back In XR Game, Text to 3D Virtual Worlds By Hiber3D",
       "excerpt": "This may be the venerated Montreal XR Studio's best work yet. Venice Film Festival ‘Seven Ravens’ Mixed Reality Masterpiece Premieres At Venice Film Festival. Award-winning im",
@@ -855,7 +898,7 @@
       "originalUrl": "https://www.indiablooms.com/finance-details/19074/kerala-s-sastra-robotics-to-export-150-robots-to-britain.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1105,7 +1148,7 @@
       "originalUrl": "https://www.ibm.com/blog/building-ai-for-business-ibms-granite-foundation-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 159,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1140,21 +1183,21 @@
       ]
     },
     {
-      "path": "_news/2023-09-07-meet-generative-ais-super-users-70-of-gen-z-use-genai.md",
-      "title": "Meet generative AI's 'super users': 70% of Gen Z use GenAI",
-      "excerpt": "Gen Z and Millenials are generative AI's \"super users,\" or users who use the technology frequently and believe that they are close to mastering it. Almost half (48%) of Gen Z believe they are on their way to mastering the technology.",
+      "path": "_news/2023-09-07-facebook-trains-its-ai-on-your-data-opting-out-may-be-futile.md",
+      "title": "Facebook Trains Its AI on Your Data. Opting Out May Be Futile",
+      "excerpt": "Here's how to request that your personal information not be used to train Meta's AI model. \"Request\" is the operative word here.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/meet-generative-ais-super-users-70-of-gen-z-use-genai/",
-      "originalUrl": "https://www.zdnet.com/article/meet-generative-ais-super-users-70-of-gen-z-use-genai/",
+      "webUrl": "https://www.wired.com/story/facebook-trains-ai-your-data-opt-out/",
+      "originalUrl": "https://www.wired.com/story/facebook-trains-ai-your-data-opt-out/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://www.zdnet.com/a/img/resize/474efc9bfad8c3d8a9d90f6d09c8677405713299/2023/09/07/71f4bcfe-1d17-4eb6-a88c-3b0c8c028e32/gettyimages-1359131910.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
+          "url": "https://media.wired.com/photos/64f8e6ac3e1a7b4810e35758/191:100/w_1280,c_limit/Facebook-Trains-Its-AI-on-Your-Data.-Opting-Out-May-Be-Futile-Security-GettyImages-1408270724.jpg",
+          "width": 1280,
+          "height": 670,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1162,16 +1205,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/meet-generative-ais-super-users-70-of-gen-z-use-genai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meet-generative-ais-super-users-70-of-gen-z-use-genai/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-09-07T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
+        "name": "Wired",
+        "domain": "wired.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1187,58 +1230,8 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-ai-one-persons-creativity-vs-the-entire-corpus-of-human-knowledge.md",
-      "title": "AI: One Person's Creativity Vs. The Entire Corpus Of Human Knowledge",
-      "excerpt": "Should our tech represent the complete corpus of human knowledge and creativity, or should our self-interest limit how we optimize and utilize this powerful resource?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/09/07/ai-one-persons-creativity-vs-the-entire-corpus-of-human-knowledge/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/09/07/ai-one-persons-creativity-vs-the-entire-corpus-of-human-knowledge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63bc1cf8f98796ecf1f26064/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/09/07/ai-one-persons-creativity-vs-the-entire-corpus-of-human-knowledge/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/09/07/ai-one-persons-creativity-vs-the-entire-corpus-of-human-knowledge/amp/",
-      "publishedDateTime": "2023-09-07T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     }
   ],

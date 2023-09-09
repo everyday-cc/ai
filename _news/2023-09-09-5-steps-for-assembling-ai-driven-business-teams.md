@@ -88,6 +88,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "How to build an AI Agent run virtual business"
+    excerpt: "If you have interested in fully automating workflows using artificial intelligence you might be interested in ... the datasets ensure that the project remains open for academic and research use. These licenses also stipulate the boundaries for usage ..."
+    publishedDateTime: 2023-09-09T09:16:00Z
+    webUrl: "https://www.geeky-gadgets.com/build-an-ai-agent-run-virtual-business/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/How-to-build-an-AI-Agent-run-virtual-business.jpg"
+        width: 700
+        height: 466
+        isCached: true
 
 secured: "5TcrxRZmgPy1/ZbjysRMzcGWJ5oFw5NN896aOpx7LCWAe0Fp6Z87I1u34x+pL584GJ8Gc8XEjI+BgN9ZzgCpjRset2jVALPzjpYCvc6SOuajUfy0QwGYE1HKHdb60x8iTnKucBN7qZH35cNyNV0feGvKH7ix0OlBAl3mZlTeK65hF97ozDOJkdgqLJj8arYo64TZwjXobUqrtsdzCFxmK2wMNXnOOhJWQUdqI3VzML0RuE4FUquEG2ifuxWz+nduAmHQOWsklZb1di2gcC4NWzLHbjoMI/V1V1/97R7k4OAhPaSZBZI8dCZN9D7wYIsQqOmhiUo7RdD7IpJtFrYnhxepbwgzgYwXSwrRl1TAa/IVIQP1qQrVKOuLw9iQUWqA4RKBSlFsbhnU/uBB3w228IrlsHjY2pz6VEBmOpCvf0JPuqTbgFasgYnmdEDm1mfeoJ7oDE4lL+t1z0RhOR+zZZWCCD9y1pbiGJORIVPLtWdOwW2oAhjw0GI8WFUTZEUM1aA/sA2MK4ym3wLAoSv5ng==;BEnvV9rhmIxoasAvZltmxw=="
 ---

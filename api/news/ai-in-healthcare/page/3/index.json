@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-08-03-ai-can-detect-breast-cancer-as-well-as-radiologists-study-finds.md",
+      "title": "AI can detect breast cancer as well as radiologists, study finds",
+      "excerpt": "Artificial intelligence can detect breast ... need to be trained and tested more before they can be deployed in health-care settings. Still, the findings are “breathtaking,” wrote Nereo ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/health/2023/08/02/artificial-intelligence-breast-cancer-screening/",
+      "originalUrl": "https://www.washingtonpost.com/health/2023/08/02/artificial-intelligence-breast-cancer-screening/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2X6AMM5WNIJ2NURH3XPXFSZQDA.JPG&w=1440",
+          "width": 1440,
+          "height": 848,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-02T12:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-03-ziff-davis-xyla-partner-to-drive-innovation-using-artificial-intelligence-initial-focus-in-healthcare-vertical.md",
       "title": "Ziff Davis & Xyla Partner to Drive Innovation Using Artificial Intelligence; Initial Focus in Healthcare Vertical",
       "excerpt": "Ziff Davis, Inc. (Nasdaq: ZD), a vertically focused digital media and internet company, and Xyla, Inc., an artificial intelligence ... into medical knowledge for healthcare professionals.",

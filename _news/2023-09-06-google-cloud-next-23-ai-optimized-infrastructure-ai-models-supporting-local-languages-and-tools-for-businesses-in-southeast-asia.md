@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "SoftwareReviews Identifies he Top-Rated Cloud IaaS Platforms Fueling AI Research and Transforming Cost-Effective Scalability in 2023"
-    excerpt: "SoftwareReviews' latest Emotional Footprint report highlights the top-rated cloud infrastructure software solutions successfully harnessing"
-    publishedDateTime: 2023-09-05T19:58:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/softwarereviews-identifies-he-top-rated-cloud-iaas-platforms-fueling-ai-research-and-transforming-cost-effective-scalability-in-2023-1032606720"
+  - title: "AI's business opportunities drive computing demand"
+    excerpt: "The semiconductor manufacturing industry, which constantly pursues ultimate performance, small form factors, and minimal power consumption, has been continuously refining various technologies in recent years."
+    publishedDateTime: 2023-09-06T08:20:00Z
+    webUrl: "https://www.digitimes.com/news/a20230901PR201/ai-demand-business-press-release.html&chid=9"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
     images:
-      - url: "https://mma.prnewswire.com/media/2202060/SoftwareReviews_SoftwareReviews_Identifies_he_Top_Rated_Cloud_Ia.jpg"
-        width: 400
-        height: 400
+      - url: "https://img.digitimes.com/newsshow/20230901pr201_files/2_b.jpg"
+        width: 640
+        height: 427
         isCached: true
 
 secured: "8tcA/EW+fJ3YQWi+ByV3RBsRaqyehrox8IM4PrsukiuJhZLc9WBLpAwCJ/7IDe3e+me/rqtFWsCO8m5onRtyDQ6809QOUeQgpT0H6RTCFknPFBxEh3ITprS/iUJVuimY7pkg77vIrDIKyie4mWd3k4WGmvHT8sJj7s9nrHF6lHYX7DJjY4cSheWVqu69uDsDovRkhiNZEY11QPYhc4QTJW6Mufw1clYqLfn2M7Rw19tTZsihTvywq+yUciOhrHiCXBWl5NL+6TRIZoumrj7CdNlxSPtkjNwBIsNwq01OoviYoEMdevSaQVVc1HRazTEpiXRsyih1UiUQtrJ7jf70KwwaW1FGCRZy3wif42JC09fYEAGMVqQT1VrhMc9W8y77NGJJeOd6Lz2T6fXfEN6IndyETyrToq7os/HjkZrMEz8aymilML3morsCPjm8eZRihKXfD5BPLgdtgfZxK17TK4AKvKw4/EWDwbvqIg9gRMt1zgB1Lr1DVOd08OXa/CIVNMKCKjpB/STwQsat1+rp7Q==;IJr5vM9k5aj0wo4eY1FoeA=="

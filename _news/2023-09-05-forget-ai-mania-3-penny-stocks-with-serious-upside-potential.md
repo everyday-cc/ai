@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/forget-ai-mania-3-
 webUrl: "https://markets.businessinsider.com/news/stocks/forget-ai-mania-3-penny-stocks-with-serious-upside-potential-1032604820"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,24 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "3 Appealing AI Stocks to Snatch Up at Current Levels"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In the age of AI breakthroughs, certain companies have risen as leaders in"
-    publishedDateTime: 2023-09-04T15:42:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-appealing-ai-stocks-to-snatch-up-at-current-levels-1032603333"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Stocks to Watch: 3 Smaller AI Players Ready for a Breakout"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence is an innovative technology with incredible potential."
-    publishedDateTime: 2023-09-05T17:33:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/stocks-to-watch-3-smaller-ai-players-ready-for-a-breakout-1032606543"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "3 AI Stocks to Invest In for Big-Time, Long-Term Gains"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The invention of generative artificial intelligence has triggered an arms"
     publishedDateTime: 2023-09-05T13:48:00Z
