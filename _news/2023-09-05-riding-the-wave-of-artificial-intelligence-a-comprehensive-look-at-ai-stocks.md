@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/34225651"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34225651"
 type: article
 quality: 73
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/27ea78f3fd31ab764b5ac8ec707175fc_L.jpg"
         width: 620
         height: 465
-        isCached: true
-  - title: "10 Fastest Growing AI Stocks To Buy"
-    excerpt: "Artificial intelligence (AI) stocks started to take the market by storm at the start of this year and this AI boom remains heating up."
-    publishedDateTime: 2023-09-07T20:21:00Z
-    webUrl: "https://www.insidermonkey.com/blog/10-fastest-growing-ai-stocks-to-buy-1189431/"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 37
-    images:
-      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/07/31154004/maximalfocus-0n4jhVGS4zs-unsplash.jpg"
-        width: 1920
-        height: 1280
         isCached: true
   - title: "The rise of AI in health care"
     excerpt: "Artificial intelligence is rapidly gaining steam across the health care industry, bringing with it new risk-reward scenarios."

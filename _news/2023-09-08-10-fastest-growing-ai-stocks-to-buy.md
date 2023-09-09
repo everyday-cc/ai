@@ -24,45 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "Riding the Wave of Artificial Intelligence: A Comprehensive Look at AI Stocks"
-    excerpt: "Erica Fluer Artificial Intelligence (AI) isn't merely a buzzword, or a futuristic concept confined to science fiction novels; it's an integral part of the modern world that is shaping the future in unprecedented ways."
-    publishedDateTime: 2023-09-05T09:33:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/34225651/riding-the-wave-of-artificial-intelligence-a-comprehensive-look-at-ai-stocks"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34225651"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34225651"
+  - title: "Our Pick Of The Best Artificial Intelligence (AI) Stocks and Shares"
+    excerpt: "From self-driving cars to surgery-performing robots, artificial intelligence (AI) is helping to transform every part of our lives. And the potential opportunity created by this high-growth ..."
+    publishedDateTime: 2023-09-05T11:52:00Z
+    webUrl: "https://www.forbes.com/uk/advisor/investing/best-artificial-intelligence-ai-stocks-shares/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 73
+      name: Forbes
+      domain: forbes.com
+    quality: 84
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/01/Image-1-e1675170541788.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Meta lost the battle of the AI lamas"
-    excerpt: "Alarming lama loss Meta Platforms' might have completely mucked up the development of its large-language model, Llama and Llama 2 AI projects and lost some important staff as a result. Llama and Llama 2 might be praised by the senior managers for offering free,"
-    publishedDateTime: 2023-09-06T09:47:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/57546-meta-lost-the-battle-of-the-ai-lamas"
+  - title: "Best Artificial Intelligence (AI) Stock to Buy: Nvidia Stock vs. Snowflake Stock"
+    excerpt: "Fool.com contributor Parkev Tatevosian compares Nvidia (NVDA-1.71%) and Snowflake (SNOW 0.15%) to determine which stock is better for investors looking to capitalize on the AI trend. *Stock prices used were the afternoon prices of Sept. 2, 2023. The video ..."
+    publishedDateTime: 2023-09-04T19:24:00Z
+    webUrl: "https://www.fool.com/investing/2023/09/04/best-artificial-intelligence-ai-stock-to-buy-nvidi/"
     type: article
     provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/27ea78f3fd31ab764b5ac8ec707175fc_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
-  - title: "The rise of AI in health care"
-    excerpt: "Artificial intelligence is rapidly gaining steam across the health care industry, bringing with it new risk-reward scenarios."
-    publishedDateTime: 2023-09-08T11:59:00Z
-    webUrl: "https://www.bizjournals.com/triangle/news/2023/09/08/uses-for-artificial-intelligence-in-health-care.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
+      name: The Motley Fool
+      domain: fool.com
+    quality: 57
 
 secured: "PtIcTLHxHYCIsx1tMdg5qas/lOX8SS0IO4nb0dfuH4UveMx94KBHUnfeYI+jrBwcwFX/1Ohi61WGri8+pqp5xl/6xlUuf9Xmp1Jebj5PerjO1Te8l+Qc/G7sWBZ9PeqDJ+kLzSdflmTezIpsCoRrJeiSQ7xQlLoT8YkX+pyB0RyFt2AZdcG4UZxYdrEdLXQ/bLh2CaLNOIzeyfIh8QxXJMekM4+aachqZoJnCZlgI49QDZ9OKKQ0njsHR4/zY3n72ntCw8pVgNysaYuzBshDkKOiKs3dvlG8ilL72wsgz3iP6BawyEVSjRQpD3jXrvGfKwfAerxg2+j6fOjEkP727lT82i9HAAh3abPGCWL/r+Q=;qkADs0POhgNroL12BsbA8w=="
 ---

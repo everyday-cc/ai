@@ -37,6 +37,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Don’t rush ethics in generative AI adoption plans"
+    excerpt: "Even when leaders feel the pressure to adopt generative AI quickly, ethical frameworks and use case policies should guide their plans."
+    publishedDateTime: 2023-09-05T12:58:00Z
+    webUrl: "https://www.ciodive.com/news/generative-AI-ethics-policy/692590/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 34
 
 secured: "kfDxfZU//v+ezkZeR/+kaxNNMpOFgd1mhdCISdWVh66LUd5cC9sFR2qLCQE5NgUVN6YOcOB+kcupEx/y35iIBpEHE1XAuauNuz6oN1+NW9OQnOvTHDbI29D4xsNCVNCimpsd9SqGV5mVB9uMGvg3hw05cxgeHwo/UnISjkhzRpFqpWgRbqkLCgsGx5Lwfba9IABxX48MeQoqWpQTUZDVfAokviwjhUXqv+WfawLo1nnEQLsh1FnX+3Siz5wM3QQMaghBJXEsHJqMNkKQu9H31n1cqt0B0wSS51nK0twZm4LM9srbFrIYOj7/rZJ9bkcwJ4JVN7Gecmoeo6bltcFmR4WR3atV+zsvYHuvuzQzLDuWggi0w+obNuxHe3sWJpjGqS7oBOTsath408Hj/StlqeO3Pb2ypq0u4gSXoRV6ThO7cFggzMHEYXt1vpw21pkVsjuQWXB+mR+pIj6IW+kGOzbWGmxOBp3LKrz/TF/zsFOYKeXwcHPMddHkB4Y1DHAe1s3zCmlRZG/eAYcBJjNaRw==;QW0MaKmVO4wdd/PhRq3UUg=="
 ---

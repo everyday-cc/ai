@@ -49,6 +49,15 @@ related:
         width: 353
         height: 250
         isCached: true
+  - title: "Funding to generative AI seed startups doubled in Q2"
+    excerpt: "So far, at least, the answer is the latter: the true test for any technology is not only when the major tech companies start latching on ... across 48 seed stage deals alone in the generative AI space, nearly doubling the amount of money from the previous ..."
+    publishedDateTime: 2023-09-08T19:12:00Z
+    webUrl: "https://vator.tv/news/2023-09-08-funding-to-generative-ai-seed-startups-doubled-in-q2"
+    type: article
+    provider:
+      name: vator
+      domain: vator.tv
+    quality: 17
 
 secured: "uiMWrVkUh9p71CZ6UHzp/gzG8fk0dzpAT59UUtY5+Un/sKyxREhQN4Ov2frshlso8VSzRJga0w4gJQf178nPpy3WeyFtsOkxtjB6mYO0q0irUNMU7sPKu9EHrQV1qSdo3b8tQR5xG8x/m6KIx9evFJe16d9HqopYJ/0uwFNModu+Cwcjg4D42nnNgafh2uHJkmmF5CLCaECshg4xnHZGQUCRVhm+xEAEL6ho0gvqcLovsB0CGmtvglDrrKydmCyyvvrzlfDyajcOpoCk6pyU7PTU+gh0ZdpbLKlXxj0Pvk1HN+o89B1/4TkDpNG2nNwfVPhORnnd7g8TuN1fYVqOqJ8JL3kimP6KBJnqfICO0zw=;sKL7kdHCyHeDQyLOpc2zBw=="
 ---

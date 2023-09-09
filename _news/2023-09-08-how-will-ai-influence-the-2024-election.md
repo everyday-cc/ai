@@ -34,6 +34,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "Don’t rush ethics in generative AI adoption plans"
+    excerpt: "Even when leaders feel the pressure to adopt generative AI quickly, ethical frameworks and use case policies should guide their plans."
+    publishedDateTime: 2023-09-05T12:58:00Z
+    webUrl: "https://www.ciodive.com/news/generative-AI-ethics-policy/692590/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 34
 
 secured: "SMUVHZuK5Gzg6IoG7S1MOPxwo/ureB7zj1FE8jpJO2d8w9X4q0C0qr4s2ac6ZSc+dan9ReXNq2vjK5CsAZC8iOSnYjfCh8t1xcYqSqY1xD0uePKAAfdjR8lozNPBoUbKcw6cMPzhbUqziEGzFBsnILzFpDppCEc7sNcTGHONkJnYZKwdu4y7vrzDlfV8WW9EqoVrnmQOgNXzEhpUOw+baICSw2KqwtfUI+O6nYB9DY9wKvwRYL0UUpNzlyiT32my4R4C6aWVqJGEymtfrJM5GTAbw0EKprr50D7oVt8O8sXO2mukUjHwBslKz/dRJKXl+H+rYGMGpWhRYKwh4GMq01DUVqncX2bR3TfpU/jUlAU=;EGTrbuoKMbm4dgLhu52oGA=="
 ---

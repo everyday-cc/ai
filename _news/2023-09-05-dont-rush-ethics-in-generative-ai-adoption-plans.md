@@ -19,147 +19,28 @@ topics:
   - AI
 
 related:
-  - title: "How Google Cloud Is Leveraging Generative AI To Outsmart Competition"
-    excerpt: "It has a smaller 256-chip footprint per Pod, which is optimized for the state-of-the-art neural network architecture based on the transformer architecture."
-    publishedDateTime: 2023-09-04T11:49:00Z
-    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/"
-    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/amp/"
+  - title: "Generative AI at an inflection point: What’s next for real-world adoption?"
+    excerpt: "All of this points to the current scarcity of these chips in the face of surging demand. Does this current demand mark the peak moment for gen AI, or might it instead point to the beginning of the next wave of its development? How generative tech is ..."
+    publishedDateTime: 2023-09-04T19:31:00Z
+    webUrl: "https://venturebeat.com/ai/generative-ai-at-an-inflection-point-whats-next-for-real-world-adoption/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64f5bc845a7c3861341e8146/0x0.jpg?format=jpg&width=1200"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "The Amazing Ways Coca-Cola Uses Generative AI In Art And Advertising"
-    excerpt: "Discover how Coca-Cola is revolutionizing the worlds of art and advertising with generative AI, blending human creativity with machine intelligence for stunning campaigns"
-    publishedDateTime: 2023-09-08T05:20:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/09/08/the-amazing-ways-coca-cola-uses-generative-ai-in-art-and-advertising/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/09/08/the-amazing-ways-coca-cola-uses-generative-ai-in-art-and-advertising/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/09/08/the-amazing-ways-coca-cola-uses-generative-ai-in-art-and-advertising/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64faaf12b127c5b16f73b636/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Cloudera collaborates with AWS to deliver enterprise generative AI-based solutions"
-    excerpt: "According to an official release, Cloudera has chosen AWS to run components of the CDP, including data in motion, data lake house, data warehouse, operational database, AI/machine learning, master data management and end-to-end security."
-    publishedDateTime: 2023-09-07T08:00:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-cloudera-collaborates-with-aws-to-deliver-enterprise-generative-ai-based-solutions-3235922/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-cloudera-collaborates-with-aws-to-deliver-enterprise-generative-ai-based-solutions-3235922/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-cloudera-collaborates-with-aws-to-deliver-enterprise-generative-ai-based-solutions-3235922/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 68
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-07T125734.136.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Cash in or lose out: Banks are turning to AI, cloud computing, and Web3 to gain competitive advantage and customer loyalty"
-    excerpt: "Artificial intelligence, cloud tech, and Web3 are helping banks with their digital strategies for strengthening their brand and customer loyalty."
-    publishedDateTime: 2023-09-05T15:20:00Z
-    webUrl: "https://www.businessinsider.com/how-ai-cloud-technology-web3-metaverse-disrupting-banking-industry-2023-9"
-    ampWebUrl: "https://www.businessinsider.com/how-ai-cloud-technology-web3-metaverse-disrupting-banking-industry-2023-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-ai-cloud-technology-web3-metaverse-disrupting-banking-industry-2023-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 61
-    images:
-      - url: "https://i.insider.com/64f2142b1b7ced0019c6c709?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Cedar taps Google Cloud AI to speed up healthcare billing process"
-    excerpt: "Cedar is using Google Cloud's AI tools to help patients with their healthcare bills. Vertex AI and Generative AI App Builder will be used to build algorithms to"
-    publishedDateTime: 2023-09-06T22:41:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-health/cedar-taps-google-cloud-ai-to-speed-up-healthcare-billing-process.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Google Cloud Outpaces Competition with New Vertex AI Capabilities"
-    excerpt: "Google announced new features for its Vertex AI platform at Google Cloud Next, including new large language model support and extensions to manage model lifecycle."
-    publishedDateTime: 2023-09-07T18:09:00Z
-    webUrl: "https://www.forbes.com/sites/stevemcdowell/2023/09/07/google-cloud-outpaces-competition-with-new-vertex-ai-capabilities/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 47
-  - title: "How Generative AI Helps This $3.5 Billion Startup Grow Faster"
-    excerpt: "Launched in 2016 by former Tesla Chief Information Officer Jay Vijayan, Tekion employs roughly 3,000 people and has raised $451 million in venture capital - valuing the company at $3.5 billion the last time it raised capital in September 2021, according to Pitchbook."
-    publishedDateTime: 2023-09-06T07:31:00Z
-    webUrl: "https://www.inc.com/peter-cohan/how-generative-ai-helps-this-35-billion-startup-grow-faster.html"
+  - title: "How will AI influence the 2024 election?"
+    excerpt: "How worried do we really need to be about AI’s potential to undermine democracy? Chihhao Yu of the Taiwan Information Environment Research Centre explains the threat posed by Chinese misinformation campaigns. We go back to when sensationalist journalism ..."
+    publishedDateTime: 2023-09-08T16:52:00Z
+    webUrl: "https://www.economist.com/podcasts/2023/09/08/how-will-ai-influence-the-2024-election"
     type: article
     provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
+      name: The Economist
+      domain: economist.com
+    quality: 39
     images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1546442104_533537_djkh3r.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "C3 AI Releases New C3 Generative AI Suite"
-    excerpt: "Initially released in March 2023, C3 Generative AI has been well received by the market with projects now in place at Georgia-Pacific, Flint Hills Resources, Nucor, Pantaleon, Con Edison, the U.S. Missile Defense Agency, and a U.S. intelligence agency."
-    publishedDateTime: 2023-09-06T21:55:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/09/06/9876233.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
-  - title: "How Google Cloud is helping Culture Amp and others be AI-assisted"
-    excerpt: "It is providing the infrastructure and solutions that make it easier for organisations to build and use generative AI at scale."
-    publishedDateTime: 2023-09-08T02:00:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/focus/how-google-cloud-helping-culture-amp-and-others-be-ai-assisted"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 19
-  - title: "Funding to generative AI seed startups doubled in Q2"
-    excerpt: "So far, at least, the answer is the latter: the true test for any technology is not only when the major tech companies start latching on ... across 48 seed stage deals alone in the generative AI space, nearly doubling the amount of money from the previous ..."
-    publishedDateTime: 2023-09-08T19:12:00Z
-    webUrl: "https://vator.tv/news/2023-09-08-funding-to-generative-ai-seed-startups-doubled-in-q2"
-    type: article
-    provider:
-      name: vator
-      domain: vator.tv
-    quality: 17
-  - title: "IAA MOBILITY 2023 Talking not Typing: Continental and Google Cloud Equip Cars with Generative Artificial Intelligence"
-    excerpt: "Continental announced a partnership with Google Cloud during its press conference at the IAA MOBILITY 2023. Together, the two companies are equipping"
-    publishedDateTime: 2023-09-04T17:26:00Z
-    webUrl: "https://menafn.com/1107004164/IAA-MOBILITY-2023-Talking-not-Typing-Continental-and-Google-Cloud-Equip-Cars-with-Generative-Artificial-Intelligence"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 14
-    images:
-      - url: "https://menafn.com/updates/pr/2023-09/04/pr_12163_22a9c30d_image_story.jpg"
-        width: 4920
-        height: 3553
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230909_PDP508.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "KQxfH8XW6VOY7kHmivp3nrbNvSfhNElCaY3ssJ8B5aO1ebGQcJwpfJQra4MhJRYKZA6SF2HGXcejNytiFdF+iJNAGKkf+K7lIhWDRjD+IFkgPygXU6FjOKGfv2ze5AHFK8JFfZ72szqnLEY6qJUgjcURasJNdCvE7OMF3kwGkz6+6SLbeboMZB95fo2OgrbJ25KdE5KJUDG3J3iUBbRMp1Vg3MS7PF8UVC5gN5CJHh0hxZVWaLy25aOAjW8MFHmDNq500+TaPKYJeuFfipanP6trMvD8CY8oEzi18GuUBl1lTyIUzjrkGYEeFvhJW/4p5rgDLZ9F8Ql4NwFYRw3m59yqQpch0YkInGK7nWQUhfI=;Gq+Lxte3arSEd06ISXOnDw=="

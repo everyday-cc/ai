@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://www.pewresearch.org/wp-content/uploads/2023/08/SR_23.08.28_views-of-ai_feature.png?w=1200&h=628&crop=1"

@@ -103,29 +103,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Navigating Self-Driving Cars By Looking At What’s Underneath The Road"
-    excerpt: "For self-driving cars, tackling the latter is relatively easy, as the system would use the same information in a similar way: when to to change lanes, and when to take a left or right. The former ..."
-    publishedDateTime: 2023-09-07T00:00:00Z
-    webUrl: "https://hackaday.com/2020/04/06/navigating-self-driving-cars-by-looking-at-whats-underneath-the-road/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 24
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2020/04/lgpr_feat2.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Tyson Foods Is Using Self-Driving Trucks. It’s a Start."
-    excerpt: "Food giant Tyson is deploying autonomous-trucking technology from start-up Gatik in a pilot test of cost and productivity."
-    publishedDateTime: 2023-09-06T13:26:00Z
-    webUrl: "https://www.barrons.com/articles/tyson-foods-chicken-self-driving-trucks-c1c7545e"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 4
 
 secured: "WO83ML7f0kxHq5PprMCP5YkIgZAeToKvX786HqHcQz8aqQE2TuEMTEbvvo3Vm2DS/n1AAfsOILzgXG5LwP+KlOM9KajuOEmGDn6naC1Q1kQX8YnLHOXr4/7IXnCS0tHLV1H8AKpsQ0E2mCHyr33t/0SRnJ2xOSW5HUfy0igQ3janX64u5sXiJmMVSBKhocoGjCfG5yV0vpsqifPe4B2txgMSyJu+BCp6mJzd8pdnVVyzMLnFjrZvxOP2cDMOr8y7AxEB8cJwA8XSdLv+rFtZseKPSvI18QuN99smiwsnDKWRPc4HDvREMyrD5msRusYU48oZZ4SSnrs8TuJvxPIIqow2cnL9ZHejRxKsgWHWSzM=;GN0Kb5wXEhIZ6IvSHhJc/g=="
 ---

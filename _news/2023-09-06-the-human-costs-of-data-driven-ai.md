@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Cash in or lose out: Banks are turning to AI, cloud computing, and Web3 to gain competitive advantage and customer loyalty"
+    excerpt: "Artificial intelligence, cloud tech, and Web3 are helping banks with their digital strategies for strengthening their brand and customer loyalty."
+    publishedDateTime: 2023-09-05T15:20:00Z
+    webUrl: "https://www.businessinsider.com/how-ai-cloud-technology-web3-metaverse-disrupting-banking-industry-2023-9"
+    ampWebUrl: "https://www.businessinsider.com/how-ai-cloud-technology-web3-metaverse-disrupting-banking-industry-2023-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-ai-cloud-technology-web3-metaverse-disrupting-banking-industry-2023-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
+    images:
+      - url: "https://i.insider.com/64f2142b1b7ced0019c6c709?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "+YMkL5ktmIyEsP/JeaVOaGsvYAhqr1RavQogY7RpLCVL1osJHd50uW8Wp5bYzuN1//RIEVNYCjTXJKD7lmXpgFOUyImSeA9YpXOPPITtYjXn5THukA3ODb58Pq8tw+KLg/SxXmyR/OMn6H4fPr6Uq7EPedzbn6HFwgP+/8sMzPwzIN3PIi3zFsNKBVpqt0uq7k0Yj1MALg1E0IYx+MFpfmctlARVAcFL9H5tl5Y2EtL95pCPxWSCP67ijrGHLMruFy7Lpcni1GQyj3zF7kagBeZd0T5lsM4aSD5CCHUrP4snhmApuUI0wS/WpTRaaJ9qw9OBR66NvyzEszI0lVCed6SwWU9paOFvTHHlP/OsQikhXBMxASnzNCQAFbsNmrmQUz8bPfuw03yePswkT/+Y8K3ZHnVCiKWMyGS3jEjGReUAfXydO1dQcOVrk79JM2C09ChMhQjGfJPIHLMC9YFj6QAZzLxyy5/oX4Ov+t9hrifzxGTKDoVrwEphX2bqYE0qj9vwr+fjDtkgAQ5o9WeIow==;GpE1Op5Jc/1SKvu3mLNNLQ=="
 ---

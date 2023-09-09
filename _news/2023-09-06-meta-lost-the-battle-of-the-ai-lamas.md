@@ -41,20 +41,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "10 Fastest Growing AI Stocks To Buy"
-    excerpt: "Artificial intelligence (AI) stocks started to take the market by storm at the start of this year and this AI boom remains heating up."
-    publishedDateTime: 2023-09-07T20:21:00Z
-    webUrl: "https://www.insidermonkey.com/blog/10-fastest-growing-ai-stocks-to-buy-1189431/"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 37
-    images:
-      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/07/31154004/maximalfocus-0n4jhVGS4zs-unsplash.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "The rise of AI in health care"
     excerpt: "Artificial intelligence is rapidly gaining steam across the health care industry, bringing with it new risk-reward scenarios."
     publishedDateTime: 2023-09-08T11:59:00Z

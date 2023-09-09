@@ -25,104 +25,61 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving Car Revolution Is Coming, But Slowly"
-    excerpt: "In Munich, where this week's IAA motor show is taking place, an interactive street survey elicits an overwhelming \"yes\" when asking passers-by if they would take a self-driving taxi from the station to the Oktoberfest beer festival."
-    publishedDateTime: 2023-09-07T05:30:00Z
-    webUrl: "https://www.barrons.com/news/self-driving-car-revolution-is-coming-but-slowly-9c5588b2"
-    ampWebUrl: "https://www.barrons.com/amp/news/self-driving-car-revolution-is-coming-but-slowly-9c5588b2"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/self-driving-car-revolution-is-coming-but-slowly-9c5588b2"
+  - title: "Machine learning can level the playing field against match fixing—helping regulators spot cheating"
+    excerpt: "On the eve of the Rugby World Cup kicking off, there have already been whispers of teams spying on each other. Inevitable gamesmanship, perhaps, but there's no doubt cheating in sport is a problem authorities struggle to combat."
+    publishedDateTime: 2023-09-08T16:16:00Z
+    webUrl: "https://techxplore.com/news/2023-09-machine-playing-field-fixinghelping.html"
+    ampWebUrl: "https://techxplore.com/news/2023-09-machine-playing-field-fixinghelping.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-machine-playing-field-fixinghelping.amp"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 44
+      name: techxplore
+      domain: techxplore.com
+    quality: 60
     images:
-      - url: "https://www.barrons.com/asset/external-media/afp/AFP9643577245828168390437146037747688022783---1.jpg"
-        width: 768
-        height: 480
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/rugby.jpg"
+        width: 2880
+        height: 1920
         isCached: true
-  - title: "Self-driving car revolution is coming, but slowly"
-    excerpt: "Pandemic-related disruptions to the car industry, a shift towards investing in electrification and the sheer complexity of the technology have all contributed to keeping the autonomous-driving revolution stuck in the slow lane. Now, \"we're more inclined to say it will happen by 2030,\" Aufrere told AFP."
-    publishedDateTime: 2023-09-08T09:00:00Z
-    webUrl: "https://www.theeastafrican.co.ke/tea/science-health/self-driving-car-revolution-is-coming-but-slowly-4362258"
-    ampWebUrl: "https://www.theeastafrican.co.ke/tea/science-health/self-driving-car-revolution-is-coming-but-slowly-4362258?view=htmlamp"
-    cdnAmpWebUrl: "https://www-theeastafrican-co-ke.cdn.ampproject.org/c/s/www.theeastafrican.co.ke/tea/science-health/self-driving-car-revolution-is-coming-but-slowly-4362258?view=htmlamp"
+  - title: "Deep learning to quake forecasting’s rescue"
+    excerpt: "Deep learning is a type of machine learning based on artificial neural networks in which multiple layers of processing are used to extract progressively higher-level features from data."
+    publishedDateTime: 2023-09-06T03:25:00Z
+    webUrl: "https://www.newindianexpress.com/xplore/2023/sep/06/deep-learning-to-quake-forecastings-rescue-2612024.html"
+    ampWebUrl: "https://www.newindianexpress.com/xplore/2023/sep/06/deep-learning-to-quake-forecastings-rescue-2612024.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/xplore/2023/sep/06/deep-learning-to-quake-forecastings-rescue-2612024.amp"
     type: article
     provider:
-      name: The EastAfrican
-      domain: theeastafrican.co.ke
-    quality: 44
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 59
     images:
-      - url: "https://www.theeastafrican.co.ke/resource/blob/4362272/93c4c276d2a5b72180c6a801c040f6ee/iaa-data.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/2/12/w600X390/AI.jpg"
+        width: 600
+        height: 390
         isCached: true
-  - title: "X post about self-driving cars prompts discussion on Indian roads and driving"
-    excerpt: "As the world is rapidly moving towards automation, many countries are experimenting with driverless cars. Recently, a tweet about the possibility of introducing self-driving cars in India has sparked debate about the dismal state of roads and lack of respect towards traffic rules."
-    publishedDateTime: 2023-09-08T06:43:00Z
-    webUrl: "https://indianexpress.com/article/trending/trending-in-india/self-driving-cars-indian-roads-and-driving-8930137/"
-    ampWebUrl: "https://indianexpress.com/article/trending/trending-in-india/self-driving-cars-indian-roads-and-driving-8930137/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/trending/trending-in-india/self-driving-cars-indian-roads-and-driving-8930137/lite/"
+  - title: "Machine learning can level the playing field against match fixing – helping regulators spot cheating"
+    excerpt: "A new machine learning model can pinpoint anomalies in sports results – whether from match fixing, strategic losses or poor player performance. It could be a useful tool in the fight against cheating."
+    publishedDateTime: 2023-09-08T02:44:00Z
+    webUrl: "https://theconversation.com/machine-learning-can-level-the-playing-field-against-match-fixing-helping-regulators-spot-cheating-209392"
     type: article
     provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 41
+      name: The Conversation
+      domain: theconversation.com
+    quality: 39
     images:
-      - url: "https://images.indianexpress.com/2023/09/self-driving-cars-india.jpg"
-        width: 1200
-        height: 667
+      - url: "https://images.theconversation.com/files/547104/original/file-20230908-19-gz8i1l.jpg?ixlib=rb-1.1.0&rect=51%2C878%2C5700%2C2850&q=45&auto=format&w=1356&h=668&fit=crop"
+        width: 1356
+        height: 668
         isCached: true
-  - title: "Self-driving delivery trucks could be sharing the roads with drivers very soon"
-    excerpt: "The day is coming when that 18-wheeler rolling down the highway won’t have a driver behind the wheel, it’ll be running autonomously and that frightens some."
-    publishedDateTime: 2023-09-05T16:24:00Z
-    webUrl: "https://www.cbs17.com/news/investigators/self-driving-delivery-trucks-could-be-sharing-the-roads-with-drivers-very-soon/"
-    ampWebUrl: "https://www.cbs17.com/news/investigators/self-driving-delivery-trucks-could-be-sharing-the-roads-with-drivers-very-soon/amp/"
-    cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/investigators/self-driving-delivery-trucks-could-be-sharing-the-roads-with-drivers-very-soon/amp/"
+  - title: "Liberals doing everything they can to 'sabotage' the Voice while 'planning the sequel'"
+    excerpt: "“Their second referendum though won’t be on what indigenous people have asked for – just recognition, not a Voice … but then on the Voice they say they’re going to legislate for a Voice as well. “Beneath all of this fear campaign, both sides ..."
+    publishedDateTime: 2023-09-04T18:49:00Z
+    webUrl: "https://www.theaustralian.com.au/news/liberals-doing-everything-they-can-to-sabotage-the-voice-while-planning-the-sequel/video/3a29e44f26166090c0fe80138a7a9c45"
     type: article
     provider:
-      name: cbs17.com
-      domain: cbs17.com
-    quality: 40
-    images:
-      - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2023/09/thumbnail_web-6.jpg?w=1280"
-        width: 681
-        height: 397
-        isCached: true
-  - title: "Why experts feel self-driving car revolution still a decade away despite enthusiasm"
-    excerpt: "In Munich, where this week's IAA motor show is taking place, an interactive street survey elicits an overwhelming \"yes\" when asking passers-by if they would take a self-driving taxi from the station to the Oktoberfest beer festival. A modified self-driving ..."
-    publishedDateTime: 2023-09-07T04:25:00Z
-    webUrl: "https://www.hindustantimes.com/car-bike/why-experts-feel-self-driving-car-revolution-still-a-decade-away-despite-enthusiasm-101694058998684.html"
-    ampWebUrl: "https://www.hindustantimes.com/car-bike/why-experts-feel-self-driving-car-revolution-still-a-decade-away-despite-enthusiasm-101694058998684-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/car-bike/why-experts-feel-self-driving-car-revolution-still-a-decade-away-despite-enthusiasm-101694058998684-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 38
-    images:
-      - url: "https://www.hindustantimes.com/ht-img/img/2023/09/07/1600x900/GERMANY-AUTOMOBILE-SHOW-IAA-29_1694060041436_1694060073296.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Self-Driving Cars Might Finally Be For Real This Time"
-    excerpt: "A decade ago, there was a lot of hype about self driving cars. In fact, there was more interest in self-driving cars than there was in electric vehicles, in terms of the future of the auto industry. But progress in developing these robotic cars has turned ..."
-    publishedDateTime: 2023-09-06T21:16:00Z
-    webUrl: "https://www.bloomberg.com/news/audio/2023-09-06/self-driving-cars-might-finally-be-for-real-this-time-podcast"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 34
-  - title: "Tyson Foods Is Using Self-Driving Trucks. It’s a Start."
-    excerpt: "Food giant Tyson is deploying autonomous-trucking technology from start-up Gatik in a pilot test of cost and productivity."
-    publishedDateTime: 2023-09-06T13:26:00Z
-    webUrl: "https://www.barrons.com/articles/tyson-foods-chicken-self-driving-trucks-c1c7545e"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 4
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 0
 
 secured: "vsTSLXaKo6vjgcorwDnd2zPYGsxvd9SYzUGLBzRUVJLAamXO4+14SYiWq2AB6ieycx/MurcU3RlB5wrOH0XC3WN1+dlsAeTPWiAzTX1Dn1Xg54ql3TcLpheUNDN4k322DfaJP6HrXpkww4xqseOlWzAJMo1E6FXocLvafblVEMkViwU44wTF51xvgWAAP/aCj3UNiiYZ8oF0RtUkmPCLEU3qYRzx6DpRLcqA4tMBLUfBJ/iJhDqP0+j2+Vu//Yrzq1S5Q79mHZNQFiPyIZj5/+ZBgKTXyrNnOUCfIEkcHSWolsQXyfRxFDo+JeQBbQ9PJAbfFYIjpGE1687njCjYXyYzA1zP8JFSQMowC+Xhf1M=;2prpL0sfe9UmcJ+dp4qA3A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-ceo-jensen-huang-i
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-ceo-jensen-huang-india-modi-chip-manufacturing-72345daf"
 type: article
 quality: 69
-heat: 299
+heat: 289
 published: true
 
 provider:
@@ -52,15 +52,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Best Artificial Intelligence (AI) Stock to Buy: Nvidia Stock vs. Snowflake Stock"
-    excerpt: "Fool.com contributor Parkev Tatevosian compares Nvidia (NVDA-1.71%) and Snowflake (SNOW 0.15%) to determine which stock is better for investors looking to capitalize on the AI trend. *Stock prices used were the afternoon prices of Sept. 2, 2023. The video ..."
-    publishedDateTime: 2023-09-04T19:24:00Z
-    webUrl: "https://www.fool.com/investing/2023/09/04/best-artificial-intelligence-ai-stock-to-buy-nvidi/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 57
   - title: "AI startup Imbue tops $1 billion valuation after funding from Nvidia"
     excerpt: "Kanjun Qiu, co-founder and CEO of Imbue, previously launched Sourceress, an AI recruiting startup, and Ember Hardware, a virtual reality startup. The company is a rare AI unicorn, or startup with a valuation of more than $1 billion, to have a woman CEO."
     publishedDateTime: 2023-09-08T01:55:00Z

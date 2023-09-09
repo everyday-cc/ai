@@ -7,7 +7,7 @@ originalUrl: "https://www.theaustralian.com.au/news/liberals-doing-everything-th
 webUrl: "https://www.theaustralian.com.au/news/liberals-doing-everything-they-can-to-sabotage-the-voice-while-planning-the-sequel/video/3a29e44f26166090c0fe80138a7a9c45"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,68 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Machine learning can level the playing field against match fixing—helping regulators spot cheating"
+    excerpt: "On the eve of the Rugby World Cup kicking off, there have already been whispers of teams spying on each other. Inevitable gamesmanship, perhaps, but there's no doubt cheating in sport is a problem authorities struggle to combat."
+    publishedDateTime: 2023-09-08T16:16:00Z
+    webUrl: "https://techxplore.com/news/2023-09-machine-playing-field-fixinghelping.html"
+    ampWebUrl: "https://techxplore.com/news/2023-09-machine-playing-field-fixinghelping.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-machine-playing-field-fixinghelping.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 60
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/rugby.jpg"
+        width: 2880
+        height: 1920
+        isCached: true
+  - title: "Deep learning to quake forecasting’s rescue"
+    excerpt: "Deep learning is a type of machine learning based on artificial neural networks in which multiple layers of processing are used to extract progressively higher-level features from data."
+    publishedDateTime: 2023-09-06T03:25:00Z
+    webUrl: "https://www.newindianexpress.com/xplore/2023/sep/06/deep-learning-to-quake-forecastings-rescue-2612024.html"
+    ampWebUrl: "https://www.newindianexpress.com/xplore/2023/sep/06/deep-learning-to-quake-forecastings-rescue-2612024.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/xplore/2023/sep/06/deep-learning-to-quake-forecastings-rescue-2612024.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 59
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/2/12/w600X390/AI.jpg"
+        width: 600
+        height: 390
+        isCached: true
+  - title: "Machine learning can level the playing field against match fixing – helping regulators spot cheating"
+    excerpt: "A new machine learning model can pinpoint anomalies in sports results – whether from match fixing, strategic losses or poor player performance. It could be a useful tool in the fight against cheating."
+    publishedDateTime: 2023-09-08T02:44:00Z
+    webUrl: "https://theconversation.com/machine-learning-can-level-the-playing-field-against-match-fixing-helping-regulators-spot-cheating-209392"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 39
+    images:
+      - url: "https://images.theconversation.com/files/547104/original/file-20230908-19-gz8i1l.jpg?ixlib=rb-1.1.0&rect=51%2C878%2C5700%2C2850&q=45&auto=format&w=1356&h=668&fit=crop"
+        width: 1356
+        height: 668
+        isCached: true
+  - title: "Navigating Self-Driving Cars By Looking At What’s Underneath The Road"
+    excerpt: "For self-driving cars, tackling the latter is relatively easy, as the system would use the same information in a similar way: when to to change lanes, and when to take a left or right. The former ..."
+    publishedDateTime: 2023-09-07T00:00:00Z
+    webUrl: "https://hackaday.com/2020/04/06/navigating-self-driving-cars-by-looking-at-whats-underneath-the-road/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 24
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2020/04/lgpr_feat2.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "4fjZmlIOytMHk4tRa0zuVhPaODl/zCUWmV1lDuQvTjtSEGsbq+HFbyUeuYegNP2VEsrIedPseul7ry2FuYy3UjDo48JJ+ESUo4VBR5T5Iq8yRrJ+Ww+QrkCqP0rs8xZrnw1Bn95xjsEh2wDCUtBFa3uEl6eZrmmCi1mnx0nsQ6OuMVa1mtudQld253YGGLsnQsIXK6zQg8NObcEiqtjYjWVkRvAYArmtyxloCnXIPEWcoDXPJu268WMS+1vPrRQOutAVvmIPGJV1DBOIraeMPI0oaJpJB/5w4Qa6cyBit6VckphzkKPsj1JGu3MoYCyAPys/GaBocTFCSglaWqFmvpRC1wgHzGGMkrHQ1dRwA6P7K9yetYOpAeRXv3eS8dgf178nvc+E3aLImS7jYgDMVmnRFRobyx0rCd8hXiAi8Zq+P02h3w4G7JAfAOjemW21BtVbyFtapsvtQrFa9xiNvreYvmN1BweSGg4PHKm6R/NX0DrVSW/0MGjFtsyDmo9lUhK2sHnF5KnOSkTUnDSq5w==;S5ip2hdUilPDzlLxu8ez7w=="
 ---

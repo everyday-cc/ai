@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/09/06/110m-in-funding-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/09/06/110m-in-funding-will-help-d-matrix-get-generative-ai-inference-platform-to-market/amp/"
 type: article
 quality: 83
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 353
         height: 250
         isCached: true
+  - title: "Funding to generative AI seed startups doubled in Q2"
+    excerpt: "So far, at least, the answer is the latter: the true test for any technology is not only when the major tech companies start latching on ... across 48 seed stage deals alone in the generative AI space, nearly doubling the amount of money from the previous ..."
+    publishedDateTime: 2023-09-08T19:12:00Z
+    webUrl: "https://vator.tv/news/2023-09-08-funding-to-generative-ai-seed-startups-doubled-in-q2"
+    type: article
+    provider:
+      name: vator
+      domain: vator.tv
+    quality: 17
   - title: "d-Matrix Announces $110 Million in Series B Funding to Make Generative AI Commercially Viable with First-of-Its-Kind Inference Compute Platform"
     excerpt: "Matrix, the leader in high-efficiency generative AI compute for data centers, has closed $110 million in a Series-B funding round led by Singapore-based global investment firm Temasek. The goal of the fundraise is to enable d-Matrix to begin commercializing Corsair,"
     publishedDateTime: 2023-09-06T13:11:00Z

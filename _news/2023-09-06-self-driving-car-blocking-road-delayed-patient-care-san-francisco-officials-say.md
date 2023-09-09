@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Self-driving car blocking road ‘delayed patient care’, San Francisco officials say"
-excerpt: "The rebel group stopping self-driving cars in San Francisco – one cone at a time The company denied the city’s claims and shared video with the Guardian that shows one of the vehicles quickly leaving the area. Reports of the incident have garnered ..."
-publishedDateTime: 2023-09-05T23:34:00Z
-originalUrl: "https://www.theguardian.com/us-news/2023/sep/05/san-francisco-cruise-robotaxi-death-ambulance?ref=upstract.com"
-webUrl: "https://www.theguardian.com/us-news/2023/sep/05/san-francisco-cruise-robotaxi-death-ambulance?ref=upstract.com"
+excerpt: "The rebel group stopping self-driving cars in San Francisco – one cone at a time The company denied the city’s claims and shared video with the Guardian that shows one of the vehicles quickly ..."
+publishedDateTime: 2023-09-06T15:18:00Z
+originalUrl: "https://www.theguardian.com/us-news/2023/sep/05/san-francisco-cruise-robotaxi-death-ambulance"
+webUrl: "https://www.theguardian.com/us-news/2023/sep/05/san-francisco-cruise-robotaxi-death-ambulance"
 ampWebUrl: "https://amp.theguardian.com/us-news/2023/sep/05/san-francisco-cruise-robotaxi-death-ambulance"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/sep/05/san-francisco-cruise-robotaxi-death-ambulance"
 type: article
@@ -64,6 +64,6 @@ related:
         height: 1125
         isCached: true
 
-secured: "8SEpyaJJ8Llbbbs1EfsPSfjUD8LPAkfbketnw7a+FppjACbU1VNRY6kOLHmXHlgP40MbzY0Mr/QdeBKEzVjAAccAB+HMihSNBCK/S1z99z6CwV/0+rYIVHLqH49CpXRzVgy8wWBnGVjux8KsEQ6jF4sWqgrdqv9TwSVh1+xHzxZx8o7PL3KJLa4f2suXLnPXRHQSCqFqp7wkrpS+yEMC6pNXgqQJ/yJqNw49FUlcYCLRxvAvtks+BYKuEuXC/4miVZSz3S5aLXN5WyBQTmw3XWtyrNJfk77RSz/ITPF7DzbHmV7m9MW6A1NQHsTcgU017S0qi6Cn8tOUqxvueih7gxXNHptxf5KmVxD3nfwjo9A=;sUdkpXX22wGQyl7rmDZWOA=="
+secured: "CoB38O0Fg4tgDONL1DgL2Oz9/PTqNKiVdkyBoH6rzfzocQnHD8cG5tPX7WgQMRA+OTkreGvn7gme33li6W+2Z9U/WKbzorYIJ7qHfdEmxQSmzwkcH4Pm3V7qhZaM5Kuu+dWrudI8Tj03gCzXqDg0FwSMZO2A6fAPYogUUzuMBw1ogYeBm/0JYCb8LfWpVwnsAF9nzgr1GemvmhICinL3uNbCe7Z+nSsb2wzWdfSefYiV2zbLAI+LIqB1dzqEtIJw4XEK1CsM8ldsOmMG18NfJRtiDJ7Ta9B7pjzaUAMzaY+UBE6FHngzufTIvG1SQi7kDSb8GrgrQDOFz8ycp6n6rWSckVi5Eb3HNd637jnEiC0=;RilH9IVLYOyesPSfb6kqrw=="
 ---
 

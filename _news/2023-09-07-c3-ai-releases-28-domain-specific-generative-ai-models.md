@@ -39,6 +39,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "C3 AI Releases New C3 Generative AI Suite"
+    excerpt: "Initially released in March 2023, C3 Generative AI has been well received by the market with projects now in place at Georgia-Pacific, Flint Hills Resources, Nucor, Pantaleon, Con Edison, the U.S. Missile Defense Agency, and a U.S. intelligence agency."
+    publishedDateTime: 2023-09-06T21:55:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/09/06/9876233.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "7M9cBB3VGBCdIjLxvRoOea0DTpB20boEBxzwskIH08irgxIUTa7R6a7/USysrrg7prP1gaNbfOVukVjL8LqLqEIa/agDvhyShulJpEyJw6dHkC7kzsmS+WjvSu9tkiZbezSTmqtP4DkshjQuZ/UztDu5o6qoiV9O7IgvJ3gWd9Zz3NsR2rTIjViMlhrDGO9K4jej70NhgRhF08DXrdOi4tXDyjAbsUXJWs5dJusn0sSlxTOn//GxUGQQ3jrTsIFI5NyYL7TG7Eri66Ev7syQD/pNHPwV7CGodUlJzb1Z0of6DUfgrTxI2YBAY7MGg1xicxpdYIk0YF3fRPydDJnCvfR5OF9VnSAIYKPum1SA70W8Uvd/KENoRiaJMAlFUe9nn83yomm6XVQEX/KWT507Y01wV8jP+/DU9RaE1JjuKpJbA72+Yxj5bGXGHHWa8ciT2nuzVTlXxOyewiOr9qZ7dOWfsle6+wFT38+eKin6zr+cyCX/pxXXlT9nbJro0vRCSnZCBFYiFqYw1J7bSCJHdA==;D8HnZ1dgOgoudup+1vuJlw=="
 ---

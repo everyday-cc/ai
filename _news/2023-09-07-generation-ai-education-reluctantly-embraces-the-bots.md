@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/news/generation-ai-education-reluctantly-embra
 webUrl: "https://www.aol.com/news/generation-ai-education-reluctantly-embraces-060455884.html"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 800
     height: 534
     isCached: true
+
+related:
+  - title: "Qatar’s art domain embracing innovation, artificial intelligence: Official"
+    excerpt: "The domain of interactive, immersive art interwoven with artificial intelligence (AI) innovation is gradually gaining prominence within"
+    publishedDateTime: 2023-09-09T05:41:00Z
+    webUrl: "https://thepeninsulaqatar.com/article/09/09/2023/qatars-art-domain-embracing-innovation-artificial-intelligence-official"
+    type: article
+    provider:
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 50
+    images:
+      - url: "https://thepeninsulaqatar.com/get/maximage/20220507_1651904484-200.jpg?1651904484"
+        width: 1080
+        height: 810
+        isCached: true
 
 secured: "nt/kc07qnOmd8otNLLwzfGLthHfb6v3XF8v1GUgTyGNzPxRZj/lLAi20FGoqnX3mR+DhP1jafYjtUynwjjQNJc2vUX/NpUmqv9elqloLQSfcGB+ayOxNJEkymvy/5f4DWM5fzumJovCg+hHNAP9IrHBUoiSEPbUgr5WcTx3HyHxqGFR9yGRhMbIGgZR/zRIZvUQhHDelHI/WdEGGbUrcaxQpAZivXsJmogOCLGI0zTUANxE2l1oLjSsKwbKTuWF0eqp3oWYFPH4ZB/THLuzaXNQuBQacNpX2iVvNomGRxFAB8Y82Qmx9S8+MHiPcxp3YVMS+Io2hzoh1tT0pXeIghqjn+1+CNl3V0cT76nYxQtVjIWgXhGYhKomvI9jNMbB2ITKu1GIh0wzgIV0gwwMB/46TWkm7orbDr3QK9mgz0scahECQq84xPOJEwfaS3ul9YbiY5qoNBwV7tQPJyPEThF+erRMhFqjzdSkRzhR0IQYHJTX+DEof2Ouc9TVKAog8FJeeFnCeXHcQkdkImB3yjw==;OuPLK3o5vohSpJFqtoufeQ=="
 ---

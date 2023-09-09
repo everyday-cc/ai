@@ -44,9 +44,9 @@ related:
         height: 675
         isCached: true
   - title: "Self-driving car blocking road ‘delayed patient care’, San Francisco officials say"
-    excerpt: "The rebel group stopping self-driving cars in San Francisco – one cone at a time The company denied the city’s claims and shared video with the Guardian that shows one of the vehicles quickly leaving the area. Reports of the incident have garnered ..."
-    publishedDateTime: 2023-09-05T23:34:00Z
-    webUrl: "https://www.theguardian.com/us-news/2023/sep/05/san-francisco-cruise-robotaxi-death-ambulance?ref=upstract.com"
+    excerpt: "The rebel group stopping self-driving cars in San Francisco – one cone at a time The company denied the city’s claims and shared video with the Guardian that shows one of the vehicles quickly ..."
+    publishedDateTime: 2023-09-06T15:18:00Z
+    webUrl: "https://www.theguardian.com/us-news/2023/sep/05/san-francisco-cruise-robotaxi-death-ambulance"
     ampWebUrl: "https://amp.theguardian.com/us-news/2023/sep/05/san-francisco-cruise-robotaxi-death-ambulance"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/sep/05/san-francisco-cruise-robotaxi-death-ambulance"
     type: article

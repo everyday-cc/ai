@@ -9,8 +9,8 @@ ampWebUrl: "https://www.labroots.com/trending/earth-and-the-environment/25868/fu
 cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/earth-and-the-environment/25868/future-earthquake-forecasting-deep-learning-recast-model-2/amp"
 type: article
 quality: 58
-heat: -1
-published: false
+heat: 78
+published: true
 
 provider:
   name: Labroots
@@ -27,36 +27,29 @@ images:
     isCached: true
 
 related:
-  - title: "Deep learning to quake forecasting’s rescue"
-    excerpt: "Deep learning is a type of machine learning based on artificial neural networks in which multiple layers of processing are used to extract progressively higher-level features from data."
-    publishedDateTime: 2023-09-06T03:25:00Z
-    webUrl: "https://www.newindianexpress.com/xplore/2023/sep/06/deep-learning-to-quake-forecastings-rescue-2612024.html"
-    ampWebUrl: "https://www.newindianexpress.com/xplore/2023/sep/06/deep-learning-to-quake-forecastings-rescue-2612024.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/xplore/2023/sep/06/deep-learning-to-quake-forecastings-rescue-2612024.amp"
+  - title: "Seismologists use deep learning to forecast earthquakes"
+    excerpt: "To address this limitation, a team of researchers at the University of California, Santa Cruz, and the Technical University of Munich created a new model that uses deep learning to forecast aftershocks: the Recurrent Earthquake foreCAST (RECAST)."
+    publishedDateTime: 2023-09-07T00:00:00Z
+    webUrl: "https://www.universityofcalifornia.edu/news/seismologists-use-deep-learning-forecast-earthquakes"
     type: article
     provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 59
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/2/12/w600X390/AI.jpg"
-        width: 600
-        height: 390
-        isCached: true
-  - title: "Machine learning can level the playing field against match fixing – helping regulators spot cheating"
-    excerpt: "A new machine learning model can pinpoint anomalies in sports results – whether from match fixing, strategic losses or poor player performance. It could be a useful tool in the fight against cheating."
-    publishedDateTime: 2023-09-08T02:44:00Z
-    webUrl: "https://theconversation.com/machine-learning-can-level-the-playing-field-against-match-fixing-helping-regulators-spot-cheating-209392"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
+      name: University of California
+      domain: universityofcalifornia.edu
     quality: 39
     images:
-      - url: "https://images.theconversation.com/files/547104/original/file-20230908-19-gz8i1l.jpg?ixlib=rb-1.1.0&rect=51%2C878%2C5700%2C2850&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
+      - url: "https://www.universityofcalifornia.edu/sites/default/files/styles/article_default_banner/public/deep-learning-earthquakes.png?h=0704619c&itok=7VC5GOSc"
+        width: 1680
+        height: 940
         isCached: true
+  - title: "BIM and machine learning: predicting the impact of cost changes"
+    excerpt: "A research team has proved that BIM data can be combined with machine learning to predict the impact of design changes."
+    publishedDateTime: 2023-09-04T13:16:00Z
+    webUrl: "https://www.bimplus.co.uk/bim-and-machine-learning-predicting-the-impact-of-cost-changes/"
+    type: article
+    provider:
+      name: bimplus
+      domain: bimplus.co.uk
+    quality: 19
 
 secured: "0Z1N3lSU0ROatTE6Fa8JCVzIT0MYZelujjlQmP429V5QOHde7yDCPjQ2TTPxurZTGOCzgDu+ko0OpuvXIptamg03qVsVoeKm4tcVr+KVgb9lvm4AHtgcHD3rvRG5Y63h+HjZzaa4TqtU54TgaaaQOeFh0x/+MosK04wSG9Um26FhVMgijrcgYfmfKuhMqehJc+2J7RF6iIGyyqAoz31qeXAZJDE2Qio2mby3E18BnhxaxVFlc2V1XWE+xTL8DqEbii3yhd8s0x0EP8B1AdpQgwaCgEKoBTuNOXUCu3C1NWP9+Q0crHl1a2nqdCWw/xsjRKSv0B477XDhgSqwk94SW1yGBYWWSeSNrEuTi995Iz/yacjC4BMc3j/3BdwTfXv3+cjP4Vi2uy95dl3aeIHfaKOz8Wm0E5gffmnEC7OGzvi3FoDe+RvLq0fE19Xvla7ahHEp2WWaxnNeCcMUsgl3+spcUhckRxXndVj+WPvt4BgyY34g+bOtYwsmVASvI2CWWWGCZltAnvWRhpjNNxG//Q==;GY8EN2mpGLhkHZJ/wdUHZA=="
 ---

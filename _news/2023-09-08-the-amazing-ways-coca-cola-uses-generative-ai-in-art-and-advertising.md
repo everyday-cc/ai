@@ -30,141 +30,116 @@ images:
     isCached: true
 
 related:
-  - title: "How Google Cloud Is Leveraging Generative AI To Outsmart Competition"
-    excerpt: "It has a smaller 256-chip footprint per Pod, which is optimized for the state-of-the-art neural network architecture based on the transformer architecture."
-    publishedDateTime: 2023-09-04T11:49:00Z
-    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/"
-    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/amp/"
+  - title: "What technology analysts are saying about the future of generative AI"
+    excerpt: "According to 2023 research, most people are concerned about the implications of generative AI on data security, ethics, and bias. In fact, 81% of customers want a human to be in the loop, reviewing and validating generative AI outputs. A mere 37% of ..."
+    publishedDateTime: 2023-09-08T08:36:00Z
+    webUrl: "https://www.zdnet.com/article/what-analyst-are-saying-about-the-future-of-generative-ai/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/what-analyst-are-saying-about-the-future-of-generative-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-analyst-are-saying-about-the-future-of-generative-ai/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64f5bc845a7c3861341e8146/0x0.jpg?format=jpg&width=1200"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "Cloudera collaborates with AWS to deliver enterprise generative AI-based solutions"
-    excerpt: "According to an official release, Cloudera has chosen AWS to run components of the CDP, including data in motion, data lake house, data warehouse, operational database, AI/machine learning, master data management and end-to-end security."
-    publishedDateTime: 2023-09-07T08:00:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-cloudera-collaborates-with-aws-to-deliver-enterprise-generative-ai-based-solutions-3235922/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-cloudera-collaborates-with-aws-to-deliver-enterprise-generative-ai-based-solutions-3235922/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-cloudera-collaborates-with-aws-to-deliver-enterprise-generative-ai-based-solutions-3235922/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 68
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-07T125734.136.jpg"
+      - url: "https://www.zdnet.com/a/img/resize/2f08899a4acb2e57b5ed4ba56a04c7532b14368f/2023/09/07/f61c50b3-818b-46f4-b2f4-d50361e42604/gettyimages-1648872451.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Cash in or lose out: Banks are turning to AI, cloud computing, and Web3 to gain competitive advantage and customer loyalty"
-    excerpt: "Artificial intelligence, cloud tech, and Web3 are helping banks with their digital strategies for strengthening their brand and customer loyalty."
-    publishedDateTime: 2023-09-05T15:20:00Z
-    webUrl: "https://www.businessinsider.com/how-ai-cloud-technology-web3-metaverse-disrupting-banking-industry-2023-9"
-    ampWebUrl: "https://www.businessinsider.com/how-ai-cloud-technology-web3-metaverse-disrupting-banking-industry-2023-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-ai-cloud-technology-web3-metaverse-disrupting-banking-industry-2023-9?amp"
+  - title: "AI is great at coding, but there are some massive caveats"
+    excerpt: "Creating and testing code at the touch of a button through generative artificial intelligence (AI) models, such as GitHub CoPilot or ChatGPT, almost seems too good to be true. So good, in fact, that there has to be a catch."
+    publishedDateTime: 2023-09-07T16:10:00Z
+    webUrl: "https://www.zdnet.com/article/ai-is-great-at-coding-but-there-are-some-massive-caveats/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-is-great-at-coding-but-there-are-some-massive-caveats/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-is-great-at-coding-but-there-are-some-massive-caveats/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 61
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: "https://i.insider.com/64f2142b1b7ced0019c6c709?width=1200&format=jpeg"
+      - url: "https://www.zdnet.com/a/img/resize/66f422e98f107a6ec4cc4ae71fdc9c011b9170da/2023/09/07/837973ac-6fdc-438c-bd08-86bf4aafff69/gettyimages-1243560129.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "Cedar taps Google Cloud AI to speed up healthcare billing process"
-    excerpt: "Cedar is using Google Cloud's AI tools to help patients with their healthcare bills. Vertex AI and Generative AI App Builder will be used to build algorithms to"
-    publishedDateTime: 2023-09-06T22:41:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-health/cedar-taps-google-cloud-ai-to-speed-up-healthcare-billing-process.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Google Cloud Outpaces Competition with New Vertex AI Capabilities"
-    excerpt: "Google announced new features for its Vertex AI platform at Google Cloud Next, including new large language model support and extensions to manage model lifecycle."
-    publishedDateTime: 2023-09-07T18:09:00Z
-    webUrl: "https://www.forbes.com/sites/stevemcdowell/2023/09/07/google-cloud-outpaces-competition-with-new-vertex-ai-capabilities/"
+  - title: "Three Ways To Prepare For The AI-Enabled Future"
+    excerpt: "Technically speaking, AI can and probably will replace many professions. Compared to a human, AI is faster and smarter. AI can complete a task in seconds that would take a human artist weeks. When creating text, AI-generated content may still need editing or proofreading today, but give it time."
+    publishedDateTime: 2023-09-08T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/08/three-ways-to-prepare-for-the-ai-enabled-future/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/08/three-ways-to-prepare-for-the-ai-enabled-future/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/08/three-ways-to-prepare-for-the-ai-enabled-future/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 47
-  - title: "How Generative AI Helps This $3.5 Billion Startup Grow Faster"
-    excerpt: "Launched in 2016 by former Tesla Chief Information Officer Jay Vijayan, Tekion employs roughly 3,000 people and has raised $451 million in venture capital - valuing the company at $3.5 billion the last time it raised capital in September 2021, according to Pitchbook."
-    publishedDateTime: 2023-09-06T07:31:00Z
-    webUrl: "https://www.inc.com/peter-cohan/how-generative-ai-helps-this-35-billion-startup-grow-faster.html"
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/60a3d454598e7ff4af15615b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "How AI and machine learning are actively contributing to workplace security"
+    excerpt: "These are just a few examples of how AI and Machine Learning are actively contributing to workplace security. By automating and enhancing traditional security measures, these technologies are helping to create safer and more secure work environments. In the next section, we'll delve into a specific case study: employee badging systems."
+    publishedDateTime: 2023-09-06T10:25:00Z
+    webUrl: "https://www.jpost.com/special-content/how-ai-and-machine-learning-are-actively-contributing-to-workplace-security-756007"
     type: article
     provider:
-      name: Inc
-      domain: inc.com
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 69
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/549546"
+        width: 690
+        height: 407
+        isCached: true
+  - title: "Dell Becomes One Of The Early Generative AI Winners"
+    excerpt: "Dell Technologies Inc (NYSE: DELL) had its best stock market day since its 2018 return to the public market after it reported its fiscal second quarter results."
+    publishedDateTime: 2023-09-05T13:59:00Z
+    webUrl: "https://www.benzinga.com/23/09/34237167/dell-becomes-one-of-the-early-generative-ai-winners"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34237167"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34237167"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://cdn.benzinga.com/files/close-up-entrepreneur-going-through-business-reports-taking-notes-office.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Five Things: Responsible artificial intelligence and the future of business"
+    excerpt: "She recently spoke at the Business Ethics Allia nce luncheon in Omaha about artificial intelligence and the future of business. Here are a few key takeaways from the event. We’ll share event highlights, founder profiles and feature stories digging into ..."
+    publishedDateTime: 2023-09-06T17:53:00Z
+    webUrl: "https://siliconprairienews.com/2023/09/responsible-artificial-intelligence/"
+    type: article
+    provider:
+      name: Silicon Prairie News
+      domain: siliconprairienews.com
     quality: 37
     images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1546442104_533537_djkh3r.jpg"
-        width: 1024
-        height: 576
+      - url: "https://siliconprairienews.com/wp-content/uploads/2023/08/IMG_7969-scaled-e1694021646173.jpg"
+        width: 2560
+        height: 1642
         isCached: true
-  - title: "Don’t rush ethics in generative AI adoption plans"
-    excerpt: "Even when leaders feel the pressure to adopt generative AI quickly, ethical frameworks and use case policies should guide their plans."
-    publishedDateTime: 2023-09-05T12:58:00Z
-    webUrl: "https://www.ciodive.com/news/generative-AI-ethics-policy/692590/"
+  - title: "Unlocking creativity with AI in the future workforce"
+    excerpt: "Generative AI is transforming digital content production, offering new tools that enhance the capabilities of creative professionals, as well as those not typically involved in creative roles. This fundamental shift will influence the future of work across all industries, according to software company Adobe."
+    publishedDateTime: 2023-09-07T21:29:00Z
+    webUrl: "https://www.theaustralian.com.au/sponsored/zXktpQXeYeY6d5YQxjrx/unlocking-creativity-with-ai-in-the-future-workforce/"
     type: article
     provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 34
-  - title: "C3 AI Releases New C3 Generative AI Suite"
-    excerpt: "Initially released in March 2023, C3 Generative AI has been well received by the market with projects now in place at Georgia-Pacific, Flint Hills Resources, Nucor, Pantaleon, Con Edison, the U.S. Missile Defense Agency, and a U.S. intelligence agency."
-    publishedDateTime: 2023-09-06T21:55:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/09/06/9876233.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: The Australian
+      domain: theaustralian.com.au
     quality: 19
-  - title: "How Google Cloud is helping Culture Amp and others be AI-assisted"
-    excerpt: "It is providing the infrastructure and solutions that make it easier for organisations to build and use generative AI at scale."
-    publishedDateTime: 2023-09-08T02:00:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/focus/how-google-cloud-helping-culture-amp-and-others-be-ai-assisted"
+  - title: "The Download: combating covid, and the challenges of governing AI"
+    excerpt: "Deciding how to regulate AI is one of the biggest challenges facing politicians and experts alike. On September 12 we’re holding the second MIT Technology Review Roundtable: a 30-minute conversation with our writers and editors—and this one’s all about governing AI."
+    publishedDateTime: 2023-09-08T12:10:00Z
+    webUrl: "https://www.technologyreview.com/2023/09/08/1079233/the-download-combating-covid-and-the-challenges-of-governing-ai/"
     type: article
     provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 19
-  - title: "Funding to generative AI seed startups doubled in Q2"
-    excerpt: "So far, at least, the answer is the latter: the true test for any technology is not only when the major tech companies start latching on ... across 48 seed stage deals alone in the generative AI space, nearly doubling the amount of money from the previous ..."
-    publishedDateTime: 2023-09-08T19:12:00Z
-    webUrl: "https://vator.tv/news/2023-09-08-funding-to-generative-ai-seed-startups-doubled-in-q2"
-    type: article
-    provider:
-      name: vator
-      domain: vator.tv
+      name: MIT Technology Review
+      domain: technologyreview.com
     quality: 17
-  - title: "IAA MOBILITY 2023 Talking not Typing: Continental and Google Cloud Equip Cars with Generative Artificial Intelligence"
-    excerpt: "Continental announced a partnership with Google Cloud during its press conference at the IAA MOBILITY 2023. Together, the two companies are equipping"
-    publishedDateTime: 2023-09-04T17:26:00Z
-    webUrl: "https://menafn.com/1107004164/IAA-MOBILITY-2023-Talking-not-Typing-Continental-and-Google-Cloud-Equip-Cars-with-Generative-Artificial-Intelligence"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 14
-    images:
-      - url: "https://menafn.com/updates/pr/2023-09/04/pr_12163_22a9c30d_image_story.jpg"
-        width: 4920
-        height: 3553
-        isCached: true
 
 secured: "I6Cg76LmIoOQKHK2IlGtwDjq/RsQrtnIIHVxuVK8rOq7joa/NMdvYk8DOIDAzqJqQMfzvZ4YcgSkGQI95cO6HI68bCe+ZLjeF0NaEtFBE1FR4se1w7xeTHjuPYGZvzxWm9YCvCEZM61Pi+LM2MHWdKO27ptQFs523l+Eyu5o7R8+ltOyRFskPpLwiHiH9wOxOITfZFMnBSdgp2X3gdghMwPXvhi6GkpQVIu02i88GzA/cWaMXgcnQVsqvk08s9/muxy/0mRvQ4dit0mOFjB7NmWXAkSvOzSgKjNwWctbk2F12CcWfe05nqvVWCmUBjeWp3re5MTAcjEKlpsO3XxNaiHtS62m4DYx+ANE0Q5qsVl0wGlH7WfznU2pksDvzGdrJgeNqoiI+TjBSMAcNbwf8SvyHAzSlZDhsVDFB+ytsdYEE2DPs20wo+oa61GrC4AmHw3eNgRBajXxxDuFeVGo4QjvFVsjO8uNujXEdl4QNdapjfyNYcdn+yyhUSW9pbaKeXw0vsKrOwO0b8fQyHqL4w==;Ut1G2CNQ3eA9qdxbxNoafA=="
 ---

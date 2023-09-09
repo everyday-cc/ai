@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Autos
 
 images:
   - url: "https://wordpress.wbur.org/wp-content/uploads/2023/08/0723_ekua-holmes04-1000x667.jpg"

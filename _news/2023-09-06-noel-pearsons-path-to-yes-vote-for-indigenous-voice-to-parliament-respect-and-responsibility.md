@@ -32,15 +32,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 16
-  - title: "Indigenous woman says elected officials should 'be our voices' rather than advisory body through Voice to Parliament"
-    excerpt: "An Indigenous woman has said elected leaders should be the voices representing First Nations Australians, rather than a Voice to Parliament."
-    publishedDateTime: 2023-09-04T12:16:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/indigenous-woman-says-elected-officials-should-be-our-voices-rather-than-advisory-body-through-voice-to-parliament/news-story/38ddfa8ca8347ab1cb6107c39e6ab758"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 0
 
 secured: "4P2c08frAdUBOjun74qdJNGbWJwgj4JBVdpEh1EJCOHlNewlooH4k+gcGk2FOSphJSY0j2LLtoR/zYU6EMXLRW+1l4NT8DuAOSMJp89fHF3ck1OJXIjN2GLFX4NRkupKMa514QnzveiDsvphK4aBTKHtahekvLIgJ7YhITibmSOnXyAvYTCLJiTvwBMy/PN1YfEFib6oZaVDKCw0W6Haa++CGCym71Liiy9bkkxXYy0pAohZsLqO+TlQLXdUog/mZAZyQcMoZa7SejK+3uppd+VW8dhbLCwLLFoVaNxCnG1STy2HYUuVOANPYpSH/fTFkDAuNPsUksWu8SsGKygQr+Z4GdJZF48meq5XzZqV7FmViiB1bZ8PWIKPcXDkWTHvR/PdUYD7ZLz1iTNRDJt49UQG7+MEUCX5/LsWYKdqnrQjqsdlL2PHJbho2Z7tOgBUj1e8jv1U8NnzRDaIDzkNmmtR9OIVyijrcjEBWYyVxNCkQbNqO+O1tN2dXTIJG80BoKkzyd2ju4DJm/VqXuxN8g==;ywVsdkbQnzaW7mXNBLy+ZQ=="
 ---

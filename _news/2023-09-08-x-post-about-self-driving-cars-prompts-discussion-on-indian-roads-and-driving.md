@@ -100,29 +100,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 34
-  - title: "Navigating Self-Driving Cars By Looking At What’s Underneath The Road"
-    excerpt: "For self-driving cars, tackling the latter is relatively easy, as the system would use the same information in a similar way: when to to change lanes, and when to take a left or right. The former ..."
-    publishedDateTime: 2023-09-07T00:00:00Z
-    webUrl: "https://hackaday.com/2020/04/06/navigating-self-driving-cars-by-looking-at-whats-underneath-the-road/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 24
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2020/04/lgpr_feat2.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Tyson Foods Is Using Self-Driving Trucks. It’s a Start."
-    excerpt: "Food giant Tyson is deploying autonomous-trucking technology from start-up Gatik in a pilot test of cost and productivity."
-    publishedDateTime: 2023-09-06T13:26:00Z
-    webUrl: "https://www.barrons.com/articles/tyson-foods-chicken-self-driving-trucks-c1c7545e"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 4
 
 secured: "3aa58bd9PfZuLbY90hidPswqYyJqGPCnF4xqqmE9jr26HYydrPlH+NbrQVidWGkteyxreXe3/E5OsgDpQ7wKyIe8xabK5xbBzNUVrHLCBbXqUND4QIWGztLB58KO7QVu4lDo6f42qNgkO14e0VtSjud6a8ueICDO34WAxTqwPf9EQ7Ib52ZZflGKJz27wOLbwBz3B6hkhItvshZ9NVsaIWIbaY5Yf5BvhrbU6f01p/0Fw//ElQNevXyA5TEghvL1wdoFZ1d/qEaAwzuY14O/06z/YIZoi5uK9Lvg6AjFiKbUV1xE1RawusOm0lHVSIZOdx/M/wc/bSf+vDI6ku9T1MyaHWSPdoXTUGrogFPCq7wdYKUWSVuaHxxk3MGL7dXaYmELWLQL6VQfG1HCfvuCfkLV7BxrgDvoSOY0KaNwJOjlgJn7kF8uLuYn5lgDAzpsfannD83FeZGpOspRv3t2D5yd68OqJMyfqux8fOgc12x8+9Zwr2Ey7AghonjAQPntWQ9vUwT2zTEG/Q9s0zQ/3w==;4t33lIaoSHTwjpyRUw0Hsg=="
 ---
