@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Generative AI Generation Gap: 70% Of Gen Z Use It While Gen X, Boomers Don’t Get It"
+    excerpt: "Americans who use generative AI use it for work and 70% of Gen Z uses new generative AI technologies, according to a new 4,000-person survey."
+    publishedDateTime: 2023-09-09T20:28:00Z
+    webUrl: "https://www.forbes.com/sites/johnkoetsier/2023/09/09/generative-ai-generation-gap-70-of-gen-z-use-it-while-gen-x-boomers-dont-get-it/"
+    ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2023/09/09/generative-ai-generation-gap-70-of-gen-z-use-it-while-gen-x-boomers-dont-get-it/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/09/09/generative-ai-generation-gap-70-of-gen-z-use-it-while-gen-x-boomers-dont-get-it/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 81
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64fcd4ddbff0fa87a61a5633/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "qOtGgkhZYqjgeY6E2MILMcW8FY0LnO2eoXWf2V7U5zpZXfoxaJmrj6o6SAcFC77ZoxBX20NcFGeMsv/1ql6jwyyttMyJvtb/2+Ihf4ZBQMTXi4xiM3j0IYUTLBRu4TcRlDGnCANQfGBkb4HjsXR5KrAfeX6oEWn4MxYv54VwZ8DXK6uEMD0mrvl3uMwP/cSXVkPLyrTTd2cd+Y3N4q7/HCJlHiDIEu5FxP5K/62QBYqPZ3cUXVytfBxBNq17+Q2cOJLwA+tg1yDWap78ZtaWnlqNADrOvXSlE28uIx/YsxFMk5/ywg0n1zy+gaO6gTzPchdwKc4ftao95cErVJaMBOjFqZI+tLe4TWvzzm1oQQw=;pi5PtX6a+WKBrDwu83W24g=="
 ---

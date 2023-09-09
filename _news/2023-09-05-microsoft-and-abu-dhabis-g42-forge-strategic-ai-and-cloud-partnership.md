@@ -57,24 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Paige Announces Collaboration with Microsoft to Build the World's Largest Image-Based AI Model to Fight Cancer"
-    excerpt: "Paige, a technology disruptor in healthcare, has joined forces with Microsoft in the fight against cancer, making headway in their collaboration to transform cancer diagnosis and patient care by building the world's largest image-based artificial intelligence (AI) models for digital pathology and oncology."
-    publishedDateTime: 2023-09-07T15:26:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-paige-announces-collaboration-with-microsoft-build-worlds-largest-/2023/09/07/9877029.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 14
-  - title: "Microsoft announced its first customer product features powered by … – Microsoft"
-    excerpt: "At its Build developers conference, Microsoft unveiled its first features in a customer product powered by GPT-3, the powerful natural language model developed by OpenAI, which will help users build apps without needing to know how to write computer code or formulas."
-    publishedDateTime: 2023-09-09T11:02:00Z
-    webUrl: "https://www.inferse.com/708328/microsoft-announced-its-first-customer-product-features-powered-by-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 14
 
 secured: "nGcroixw9QdbUlRTna0O+xqZNb4g/uh/RYqCPSPI7iEzFGoaFoe/9XTONGptuvcgS5Ykt3U8fMWmXNQMXf8cF1qCivqQ3W3B/ViFiCdR/DqwpEjxIVrtol90VhDBCqmWRAbnZAdGJeRo/I0dTwETYSfAHsVTxXum5OrerQWlpNp54nQO5VLDEFDSMEkpRFNqixMMjRqkihl98L2Ffcl1eKPLiW8N0c5OiWkEw3WOFxzhjtmF8NeJEiKAm2NM8/b9tBe6YBFIKmk/pnt+I7cqU3BJgD/KeXj1/9hzZhvBotQkpcZwpFxnUazp79p9t3VvoCzE+xSnitr1kf2g0llVGLJrBIJoAGBPupKZL1s49Hs=;Rg5McETzNHwzDzFXHek2IA=="
 ---

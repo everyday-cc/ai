@@ -25,52 +25,118 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning can level the playing field against match fixing—helping regulators spot cheating"
-    excerpt: "On the eve of the Rugby World Cup kicking off, there have already been whispers of teams spying on each other. Inevitable gamesmanship, perhaps, but there's no doubt cheating in sport is a problem authorities struggle to combat."
-    publishedDateTime: 2023-09-08T16:16:00Z
-    webUrl: "https://techxplore.com/news/2023-09-machine-playing-field-fixinghelping.html"
-    ampWebUrl: "https://techxplore.com/news/2023-09-machine-playing-field-fixinghelping.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-machine-playing-field-fixinghelping.amp"
+  - title: "Waymo is using insurance data about self-driving cars to bolster its safety case"
+    excerpt: "Waymo is using insurance data to make the case that its self-driving cars are safer than human drivers. The report, a result of the collaboration first announced last year between the Alphabet ..."
+    publishedDateTime: 2023-09-06T11:18:00Z
+    webUrl: "https://www.theverge.com/2023/9/6/23860029/waymo-insurance-injury-claims-autonomous-vehicle-swiss-re"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 60
+      name: The Verge
+      domain: theverge.com
+    quality: 64
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/rugby.jpg"
-        width: 2880
-        height: 1920
+      - url: "https://cdn.vox-cdn.com/thumbor/au2BrlIJsYbjuGSUh97wHAFrVJk=/0x0:3000x1875/1200x628/filters:focal(1500x938:1501x939)/cdn.vox-cdn.com/uploads/chorus_asset/file/24903258/1626054002.jpg"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "Deep learning to quake forecasting’s rescue"
-    excerpt: "Deep learning is a type of machine learning based on artificial neural networks in which multiple layers of processing are used to extract progressively higher-level features from data."
-    publishedDateTime: 2023-09-06T03:25:00Z
-    webUrl: "https://www.newindianexpress.com/xplore/2023/sep/06/deep-learning-to-quake-forecastings-rescue-2612024.html"
-    ampWebUrl: "https://www.newindianexpress.com/xplore/2023/sep/06/deep-learning-to-quake-forecastings-rescue-2612024.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/xplore/2023/sep/06/deep-learning-to-quake-forecastings-rescue-2612024.amp"
+  - title: "Company refutes claim that self-driving cars blocked California ambulance, led to victim’s death"
+    excerpt: "Authorities say the self-driving cars blocked an ambulance from getting to the hospital, a claim the car company is now refuting."
+    publishedDateTime: 2023-09-05T14:18:00Z
+    webUrl: "https://www.ksn.com/news/national-world/company-refutes-claim-that-self-driving-cars-blocked-california-ambulance-led-to-victims-death/"
+    ampWebUrl: "https://www.ksn.com/news/national-world/company-refutes-claim-that-self-driving-cars-blocked-california-ambulance-led-to-victims-death/amp/"
+    cdnAmpWebUrl: "https://www-ksn-com.cdn.ampproject.org/c/s/www.ksn.com/news/national-world/company-refutes-claim-that-self-driving-cars-blocked-california-ambulance-led-to-victims-death/amp/"
     type: article
     provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 59
+      name: ksn.com
+      domain: ksn.com
+    quality: 46
     images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/2/12/w600X390/AI.jpg"
-        width: 600
-        height: 390
+      - url: "https://www.ksn.com/wp-content/uploads/sites/13/2023/09/gettyimages-1529168853-594x594-1.jpg?w=1280"
+        width: 594
+        height: 371
         isCached: true
-  - title: "Machine learning can level the playing field against match fixing – helping regulators spot cheating"
-    excerpt: "A new machine learning model can pinpoint anomalies in sports results – whether from match fixing, strategic losses or poor player performance. It could be a useful tool in the fight against cheating."
-    publishedDateTime: 2023-09-08T02:44:00Z
-    webUrl: "https://theconversation.com/machine-learning-can-level-the-playing-field-against-match-fixing-helping-regulators-spot-cheating-209392"
+  - title: "Self-driving Car Revolution Is Coming, But Slowly"
+    excerpt: "In Munich, where this week's IAA motor show is taking place, an interactive street survey elicits an overwhelming \"yes\" when asking passers-by if they would take a self-driving taxi from the station to the Oktoberfest beer festival."
+    publishedDateTime: 2023-09-07T05:30:00Z
+    webUrl: "https://www.barrons.com/news/self-driving-car-revolution-is-coming-but-slowly-9c5588b2"
+    ampWebUrl: "https://www.barrons.com/amp/news/self-driving-car-revolution-is-coming-but-slowly-9c5588b2"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/self-driving-car-revolution-is-coming-but-slowly-9c5588b2"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 39
+      name: Barron's
+      domain: barrons.com
+    quality: 44
     images:
-      - url: "https://images.theconversation.com/files/547104/original/file-20230908-19-gz8i1l.jpg?ixlib=rb-1.1.0&rect=51%2C878%2C5700%2C2850&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP9643577245828168390437146037747688022783---1.jpg"
+        width: 768
+        height: 480
         isCached: true
+  - title: "Self-driving car revolution is coming, but slowly"
+    excerpt: "Pandemic-related disruptions to the car industry, a shift towards investing in electrification and the sheer complexity of the technology have all contributed to keeping the autonomous-driving revolution stuck in the slow lane. Now, \"we're more inclined to say it will happen by 2030,\" Aufrere told AFP."
+    publishedDateTime: 2023-09-08T09:00:00Z
+    webUrl: "https://www.theeastafrican.co.ke/tea/science-health/self-driving-car-revolution-is-coming-but-slowly-4362258"
+    ampWebUrl: "https://www.theeastafrican.co.ke/tea/science-health/self-driving-car-revolution-is-coming-but-slowly-4362258?view=htmlamp"
+    cdnAmpWebUrl: "https://www-theeastafrican-co-ke.cdn.ampproject.org/c/s/www.theeastafrican.co.ke/tea/science-health/self-driving-car-revolution-is-coming-but-slowly-4362258?view=htmlamp"
+    type: article
+    provider:
+      name: The EastAfrican
+      domain: theeastafrican.co.ke
+    quality: 44
+    images:
+      - url: "https://www.theeastafrican.co.ke/resource/blob/4362272/93c4c276d2a5b72180c6a801c040f6ee/iaa-data.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "X post about self-driving cars prompts discussion on Indian roads and driving"
+    excerpt: "As the world is rapidly moving towards automation, many countries are experimenting with driverless cars. Recently, a tweet about the possibility of introducing self-driving cars in India has sparked debate about the dismal state of roads and lack of respect towards traffic rules."
+    publishedDateTime: 2023-09-08T06:43:00Z
+    webUrl: "https://indianexpress.com/article/trending/trending-in-india/self-driving-cars-indian-roads-and-driving-8930137/"
+    ampWebUrl: "https://indianexpress.com/article/trending/trending-in-india/self-driving-cars-indian-roads-and-driving-8930137/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/trending/trending-in-india/self-driving-cars-indian-roads-and-driving-8930137/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 41
+    images:
+      - url: "https://images.indianexpress.com/2023/09/self-driving-cars-india.jpg"
+        width: 1200
+        height: 667
+        isCached: true
+  - title: "Self-driving car blocking road ‘delayed patient care’, San Francisco officials say"
+    excerpt: "The rebel group stopping self-driving cars in San Francisco – one cone at a time The company denied the city’s claims and shared video with the Guardian that shows one of the vehicles quickly ..."
+    publishedDateTime: 2023-09-06T15:18:00Z
+    webUrl: "https://www.theguardian.com/us-news/2023/sep/05/san-francisco-cruise-robotaxi-death-ambulance"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2023/sep/05/san-francisco-cruise-robotaxi-death-ambulance"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/sep/05/san-francisco-cruise-robotaxi-death-ambulance"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 38
+    images:
+      - url: "https://i.guim.co.uk/img/media/4a1c4e0fa44e260e73747e614402cdba4dd05189/0_271_5928_3557/master/5928.jpg?width=620&quality=85&auto=format&fit=max&s=519bb133fd5f8c0c20116a62d0ea34c2"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Self-Driving Cars Might Finally Be For Real This Time"
+    excerpt: "A decade ago, there was a lot of hype about self driving cars. In fact, there was more interest in self-driving cars than there was in electric vehicles, in terms of the future of the auto industry. But progress in developing these robotic cars has turned ..."
+    publishedDateTime: 2023-09-06T21:16:00Z
+    webUrl: "https://www.bloomberg.com/news/audio/2023-09-06/self-driving-cars-might-finally-be-for-real-this-time-podcast"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 34
+  - title: "Using Google Cast in a car is cool, I guess the self-driving Waymo was too"
+    excerpt: "I've been writing about Waymo since 2017, so finally being able to actually use the product was a trip, literally. I took two"
+    publishedDateTime: 2023-09-08T19:44:00Z
+    webUrl: "https://9to5google.com/2023/09/08/waymo-hands-on-google-cast-cars/"
+    type: article
+    provider:
+      name: 9to5google
+      domain: 9to5google.com
+    quality: 17
 
 secured: "vsTSLXaKo6vjgcorwDnd2zPYGsxvd9SYzUGLBzRUVJLAamXO4+14SYiWq2AB6ieycx/MurcU3RlB5wrOH0XC3WN1+dlsAeTPWiAzTX1Dn1Xg54ql3TcLpheUNDN4k322DfaJP6HrXpkww4xqseOlWzAJMo1E6FXocLvafblVEMkViwU44wTF51xvgWAAP/aCj3UNiiYZ8oF0RtUkmPCLEU3qYRzx6DpRLcqA4tMBLUfBJ/iJhDqP0+j2+Vu//Yrzq1S5Q79mHZNQFiPyIZj5/+ZBgKTXyrNnOUCfIEkcHSWolsQXyfRxFDo+JeQBbQ9PJAbfFYIjpGE1687njCjYXyYzA1zP8JFSQMowC+Xhf1M=;2prpL0sfe9UmcJ+dp4qA3A=="
 ---

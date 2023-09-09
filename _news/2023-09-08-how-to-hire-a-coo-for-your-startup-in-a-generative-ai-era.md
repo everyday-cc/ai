@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Generative AI: A Revolution Impacting Various Industries Worldwide"
-    excerpt: "The rapid ascent of generative artificial intelligence (AI) is poised to bring significant changes across various industries. This cutting-edge technology, powered by large language models (LLMs), can redefine business operations."
-    publishedDateTime: 2023-09-05T04:13:00Z
-    webUrl: "https://www.cryptopolitan.com/generative-ai-impacting-industries-globally/"
-    type: article
-    provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
-    quality: 39
-    images:
-      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/09/photo_6030615150442167391_y.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
 
 secured: "XvYxqM0bm3kPQ9QMwjJKNMmWBiNhWVuR9a0Zb2WzQ3qilxKGJoOfBrnPiIlP3uUOKUSuMgdooFuPGWAfjcGaOHEO/AxoOA2Xl8r/BAJDhFId/SbcHotazgnwtpMIge0y1OzR9uYApcnzfl/wxFNiSDVtXq6soCM84sGcJV35EMZJlsnw1P7EJE9tNBbmWl4FXljkEU91Z9+PqeL5yl0OXoxudxQtiD5Sp8jqd9xoza6O1d9OsfqNVNiKI9ngtTt2I0ohorq5WtYSyBJYzVr/kiNkg2wYYnFPtKur/IsMPgCXfbe2mOjDCOxY2LnwADRB+knLzfxolVKowA7DWt88ynL3LPtREkQYeKKE4nIsSb3LYfSg/5rdASqiYifRfXDE8VRSYvO1r2rdUtrge92rIbR5pAv2HzG+f/RfMsH0oSDcMkdPMyBOUIiPr5//aPm0w+7Kv/Ykbgx1wqqHpon/LRibqchJlAe/5Gw15Pc6iDFPZYCoooJHeS2nIpLoUSa0c6nvt2XlipzMGt98aAXa5Q==;jnZpMXSFysYLLriOJRhWEQ=="
 ---

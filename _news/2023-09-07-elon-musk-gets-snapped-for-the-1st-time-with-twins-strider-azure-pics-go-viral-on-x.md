@@ -35,7 +35,7 @@ related:
     provider:
       name: Time
       domain: time.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://api.time.com/wp-content/uploads/2023/08/elon-musk-ai-isaacson-01.jpg?quality&#x3D;85"
         width: 2400

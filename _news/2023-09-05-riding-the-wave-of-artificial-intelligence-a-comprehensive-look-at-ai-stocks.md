@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/34225651"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34225651"
 type: article
 quality: 73
-heat: 93
+heat: 113
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "Artificial Intelligence Stocks: The 10 Best AI Companies"
+    excerpt: "Virtually every industry is being disrupted by artificial intelligence, automation and robotics. In recent months, the world has gotten a firsthand look at the remarkable advances in AI"
+    publishedDateTime: 2023-09-07T12:00:00Z
+    webUrl: "https://wtop.com/news/2023/09/artificial-intelligence-stocks-the-10-best-ai-companies-18/"
+    type: article
+    provider:
+      name: WTOP News
+      domain: wtop.com
+    quality: 34
   - title: "The rise of AI in health care"
     excerpt: "Artificial intelligence is rapidly gaining steam across the health care industry, bringing with it new risk-reward scenarios."
     publishedDateTime: 2023-09-08T11:59:00Z
@@ -51,6 +60,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
+  - title: "The Unfathomable Cognitive Landscape of AI"
+    excerpt: "The real conundrum is whether human minds can grasp the profound complexity these machines are starting to unfold. It's an inverse Turing Test of sorts, where the subject of examination is no longer the machine but humanity itself. The stakes are high; the consequences tear at the very fabric of humanity."
+    publishedDateTime: 2023-09-09T17:14:00Z
+    webUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202309/the-unfathomable-cognitive-landscape-of-ai"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 17
 
 secured: "y6Y7CK7ZnRk/oISr0itZ5Kd0eZrKeg0+LAPmChOf70jsfHqKneHH2ia51AveN7j7Uoq0aKx/uCWCbpaS5L68j0izoo7Aciun3ZEii2FRHQLCOsTeN8l283nnP2/zUtYdshJpaJFfTVb25my8qC4Y3+29KCbd/o3tmem/dzfqW4sqVI2MVXWFIj8I1r43vycMQktRwqOPsmkgNWxqlFUr3Uukrz4+VRf6ysmh4PXDUvJLFqdzpG8RFpPS57wEVoX/mmOxNL/mOSbGuO5dEv+kkOiiSey5yUtMloFMuMzNnSz0n5j4Q+UHuyAKkmPwpODA2iw33oV4F6rkWpf3DHUYt/Px4BVaGS4QjaeosBqSyKM=;cRkymOU+Dr1LQAuk5jupfQ=="
 ---

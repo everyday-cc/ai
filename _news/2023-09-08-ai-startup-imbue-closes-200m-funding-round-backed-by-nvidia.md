@@ -128,6 +128,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Nvidia: Another Reason Why Buying This Artificial Intelligence (AI) Stock Is a No-Brainer Now"
+    excerpt: "Nvidia revealed its GH200 Grace Hopper Superchip last month for accelerated computing and generative AI workloads. Third-party reviews indicate that this chip is way more powerful than competing chips from the likes of AMD and Intel. That's not surprising ..."
+    publishedDateTime: 2023-09-09T21:56:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/INTC-Q/pressreleases/20127656/nvidia-another-reason-why-buying-this-artificial-intelligence-ai-stock-is-a-no-brainer-now/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 43
+    images:
+      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/a659097c0ea243066c6d8720c4a8ae00/%3Furl%3Dhttps%253a%252f%252fmedia.ycharts.com%252fcharts%252ff8f479abc5c0bb10ae2eb468d92485fa.png%26amp%3Bw%3D700"
+        width: 720
+        height: 387
+        isCached: true
   - title: "AI Lab Imbue Gets $200M From Nvidia, Others; Hits $1B Valuation"
     excerpt: "Imbue, a San Francisco-based AI research lab, has reached unicorn status with a massive Astera Institute-led $200 million Series B."
     publishedDateTime: 2023-09-07T17:44:00Z

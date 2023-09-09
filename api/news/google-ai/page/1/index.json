@@ -54,6 +54,59 @@
       ]
     },
     {
+      "path": "_news/2023-09-06-inside-elon-musks-struggle-for-the-future-of-ai.md",
+      "title": "Inside Elon Musk's Struggle for the Future of AI",
+      "excerpt": "But he later agreed that I could use what he said about AI in my book. He and Zilis sat cross-legged and barefoot on the poolside patio with their twins, Strider and Azure, now 16 months old, on their laps. Zilis made coffee and then put his in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6310076/elon-musk-ai-walter-isaacson-biography/",
+      "originalUrl": "https://time.com/6310076/elon-musk-ai-walter-isaacson-biography/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2023/08/elon-musk-ai-isaacson-01.jpg?quality&#x3D;85",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-06T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-05-questions-shrugs-and-what-comes-next-a-quarter-century-of-change.md",
       "title": "Questions, shrugs and what comes next: A quarter century of change",
       "excerpt": "Since Google was founded, we’ve worked to answer hard questions, help people get answers to theirs, and move technology forward for the world.",
@@ -1394,49 +1447,6 @@
       "provider": {
         "name": "datanami.com",
         "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-this-expert-led-python-bootcamp-bundle-is-on-sale-for-82-off.md",
-      "title": "This expert-led Python bootcamp bundle is on sale for 82% off",
-      "excerpt": "TL;DR: The 2023 Complete Python Certification Boot Camp Bundle is on sale for £11.80, saving you 82% on list price.",
-      "sourceUrl": null,
-      "webUrl": "https://sea.mashable.com/online-learning/26043/this-expert-led-python-bootcamp-bundle-is-on-sale-for-82-off",
-      "originalUrl": "https://sea.mashable.com/online-learning/26043/this-expert-led-python-bootcamp-bundle-is-on-sale-for-82-off",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_sea/deal/t/this-exper/this-expert-led-python-bootcamp-bundle-is-on-sale-for-82-off_7bv3.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-13T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "sea.mashable",
-        "domain": "mashable.com",
         "images": null,
         "publishers": null,
         "authors": null

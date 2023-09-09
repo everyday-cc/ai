@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/09/05/robot-software-firm-mujin-raises-8
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/05/robot-software-firm-mujin-raises-85m/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence: Mujin Raises $85m to Expand AI-Powered Robotics Platform"
+    excerpt: "Tokyo-based intelligent robotics startup Mujin has announced raising $85 million in its Series C funding round, further boosting its market share in the realm of AI-powered robotics for manufacturing, logistics, and supply chain operations. The funding ..."
+    publishedDateTime: 2023-09-09T19:35:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/09/212693-artificial-intelligence-mujin-raises-85m-to-expand-ai-powered-robotics-platform/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 59
   - title: "Mujin secures $85M in funding to simplify warehouse robotics"
     excerpt: "companies don’t have to write custom code or train artificial intelligence models. The MujinController also promises to simplify warehouse operations in other ways. Different manufacturers provide different software tools for managing their robots."
     publishedDateTime: 2023-09-05T21:37:00Z

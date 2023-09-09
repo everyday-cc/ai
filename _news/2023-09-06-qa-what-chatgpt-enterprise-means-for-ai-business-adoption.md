@@ -97,6 +97,22 @@ related:
         width: 1068
         height: 601
         isCached: true
+  - title: "ChatGPT’s AI technology was built in Iowa, with tons of water"
+    excerpt: "Building a large language model requires analyzing patterns across a huge trove of human-written text. All of that computing takes a lot of electricity and generates a lot of heat. To keep it cool"
+    publishedDateTime: 2023-09-09T21:27:00Z
+    webUrl: "https://www.bostonherald.com/2023/09/09/chatgpts-ai-technology-was-built-in-iowa-with-tons-of-water/"
+    ampWebUrl: "https://www.bostonherald.com/2023/09/09/chatgpts-ai-technology-was-built-in-iowa-with-tons-of-water/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2023/09/09/chatgpts-ai-technology-was-built-in-iowa-with-tons-of-water/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 59
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2023/09/chat-gpt-iowa.jpg?w=1024&h=683"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Chinese AI chatbots want to be your emotional support"
     excerpt: "Xiaoice, one of the first Chinese AI assistants, made its name by allowing users to customize the perfect romantic partner. And another startup, Timedomain, left a trail of broken hearts this year when it shut down its AI boyfriend voice service."
     publishedDateTime: 2023-09-06T10:40:00Z
@@ -112,6 +128,22 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2023/09/AP23243203838995.jpeg?w=3000"
         width: 3000
         height: 1688
+        isCached: true
+  - title: "Artificial intelligence technology behind ChatGPT was built in Iowa"
+    excerpt: "Water pulled from the Raccoon and Des Moines rivers in central Iowa cools a powerful supercomputer as it helped teach its AI systems how to mimic human writing."
+    publishedDateTime: 2023-09-09T20:31:00Z
+    webUrl: "https://www.weareiowa.com/article/tech/artificial-intelligence-technology-behind-chatgpt-built-in-iowa/524-8043400d-93a6-4c05-9085-6f2286d118a8"
+    ampWebUrl: "https://www.weareiowa.com/amp/article/tech/artificial-intelligence-technology-behind-chatgpt-built-in-iowa/524-8043400d-93a6-4c05-9085-6f2286d118a8"
+    cdnAmpWebUrl: "https://www-weareiowa-com.cdn.ampproject.org/c/s/www.weareiowa.com/amp/article/tech/artificial-intelligence-technology-behind-chatgpt-built-in-iowa/524-8043400d-93a6-4c05-9085-6f2286d118a8"
+    type: article
+    provider:
+      name: We Are Iowa
+      domain: weareiowa.com
+    quality: 57
+    images:
+      - url: "https://media.tegna-media.com/assets/WOI/images/a9f42fd0-a197-465f-be28-ff91db96271a/a9f42fd0-a197-465f-be28-ff91db96271a_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "The Catch-22 Of AI Chatbots"
     excerpt: "Since ChatGPT launched current data scraping (automated data collection from a website) now includes data created by AI, not just original material as it did initially."
@@ -247,17 +279,31 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water"
-    excerpt: "The cost of building an artificial intelligence product like ChatGPT can be hard to measure. But one thing Microsoft-backed OpenAI needed for its technology was plenty of"
-    publishedDateTime: 2023-09-09T13:14:00Z
-    webUrl: "https://thehill.com/homenews/ap/ap-technology/ap-artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water/"
-    ampWebUrl: "https://thehill.com/homenews/ap/ap-technology/ap-artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-technology/ap-artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water/amp/"
+  - title: "Artificial intelligence technology behind ChatGPT was built in Iowa -- with a lot of water"
+    excerpt: "As they race to capitalize on a craze for generative AI, leading tech developers including Microsoft, OpenAI and Google have acknowledged that growing demand for their AI tools carries hefty costs, from expensive semiconductors to an increase in water consumption."
+    publishedDateTime: 2023-09-09T18:15:00Z
+    webUrl: "https://www.ksat.com/business/2023/09/09/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water/"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 30
+      name: KSAT
+      domain: ksat.com
+    quality: 29
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/E3CWF7KYJFHBRDFTVO46YRMBM4.jpg?_a=ATAPphC0"
+        width: 700
+        height: 467
+        isCached: true
+  - title: "Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water"
+    excerpt: "As they race to capitalize on a craze for generative AI, leading tech developers including Microsoft, OpenAI and Google have acknowledged that growing demand for their AI tools carries hefty costs, from expensive semiconductors to an increase in water consumption."
+    publishedDateTime: 2023-09-09T13:15:00Z
+    webUrl: "https://www.seattletimes.com/business/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water/"
+    ampWebUrl: "https://www.seattletimes.com/business/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 28
   - title: "Beyond ChatGPT: How big tech is changing lives (and fortunes)"
     excerpt: "Beyond machine learning, Ogden still believes neurology, neurobiology and neurodegeneration is a big theme. It's a difficult space with longer lead times. \" [But] we now have an antibody commercially available for Alzheimer's disease, for instance. We look more at biomarkers to improve patient screening."
     publishedDateTime: 2023-09-07T01:24:00Z
@@ -290,15 +336,6 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 15
-  - title: "Artificial intelligence technology behind ChatGPT was built in Iowa -- with a lot of water"
-    excerpt: "Microsoft made its first $1 billion investment in San Francisco-based OpenAI in 2019, more than two years before the startup introduced ChatGPT and sparked worldwide fascination with AI advancements. As part of the deal, the software giant would supply computing power needed to train the AI models."
-    publishedDateTime: 2023-09-09T17:14:00Z
-    webUrl: "https://www.chron.com/business/article/artificial-intelligence-technology-behind-chatgpt-18356707.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 9
   - title: "What Does It ‘Feel’ Like to Be a Chatbot?"
     excerpt: "For an AI to run amok, it doesn’t matter one iota whether it feels like anything. All that matters is that it has a goal that is not aligned with humanity’s long-term well-being. Whether or not the AI knows what it is trying to do,"
     publishedDateTime: 2023-09-08T13:31:00Z

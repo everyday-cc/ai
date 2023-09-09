@@ -39,6 +39,15 @@ related:
         width: 752
         height: 423
         isCached: true
+  - title: "Chinese social media accounts swaying US voters using AI: Microsoft"
+    excerpt: "In a new research report, Microsoft said the social media accounts were part of a suspected Chinese information operation, according to Reuters."
+    publishedDateTime: 2023-09-07T18:45:00Z
+    webUrl: "https://www.cnbctv18.com/world/chinese-social-media-accounts-swaying-us-voters-using-ai-microsoft-17746271.htm"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 36
 
 secured: "PmnX4IMvBXuVGPTm8sd5DhaBFjd7wIEDUHP0rnE4r3bFjQ1XAcXUNVX5SIihN8m79qLFBjRlN4d3j28Gu6IvIYgFwbS3tESJGfFPAQedDl5CbRrA5EjdCvS3FOVfl7s6+bsYWgAftxfAk0Yg7MQYC3jNEcohVE45xhjRw9+O/9Yz5m6pJE81j4XwoC4bxeYb8jsKedCJeMPn6bLxl+sNVQy2sIuMloSkCxrfClkA3KjEGQxNUbe8wW9T1qI5ZCWj1qJu4+8+MEY8aB8EqQYhCXWM2Hnc91RMu0JvSXFH42mLHD09KCA0zDOJNEzgnhrqc+55lKG03JHFN6OgKpXExzxLdgYXoQPBiBZ5uFnA3so=;6KWjaRbY+FzMHU8A0FS7eg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/34235343"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34235343"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -39,22 +39,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 56
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Artificial Intelligence Systems in Healthcare Market Size Analysis 2023 | New Opportunities, and Innovations, Forecast 2030"
-    excerpt: "The \"Artificial Intelligence Systems in Healthcare Market\" Research Report 2023: incorporates a thorough qualitative and quantitative analysis along with several market dynamics. Global Artificial ..."
-    publishedDateTime: 2023-09-05T02:28:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/34207168/artificial-intelligence-systems-in-healthcare-market-size-analysis-2023-new-opportunities-and-innov"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34207168"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34207168"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 48
     images:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043

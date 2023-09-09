@@ -6,8 +6,8 @@ publishedDateTime: 2023-09-06T11:07:00Z
 originalUrl: "https://time.com/6310076/elon-musk-ai-walter-isaacson-biography/"
 webUrl: "https://time.com/6310076/elon-musk-ai-walter-isaacson-biography/"
 type: article
-quality: 69
-heat: 79
+quality: 71
+heat: 81
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Google AI
 
 images:
   - url: "https://api.time.com/wp-content/uploads/2023/08/elon-musk-ai-isaacson-01.jpg?quality&#x3D;85"

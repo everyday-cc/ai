@@ -18,22 +18,6 @@ topics:
   - AI
   - AI in Education
 
-related:
-  - title: "Can ChatGPT be a diabetes consultant? Study probes the potential and pitfalls"
-    excerpt: "This comprehensive study explores ChatGPT's ability to answer questions about diabetes, comparing it to human experts in a Danish diabetes center. While familiar users could more often spot the AI-generated answers,"
-    publishedDateTime: 2023-09-05T04:07:00Z
-    webUrl: "https://www.news-medical.net/news/20230905/Can-ChatGPT-be-a-diabetes-consultant-Study-probes-the-potential-and-pitfalls.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 21
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_757992_16938863130442463.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-
 secured: "poMazPWL22PHgfyoZBQh58mm2WpGtpjfW4h1jmxtlLfvLJ5NjjqJlO9PZYLJis0wfe6b5yCYG1cODgNjtYYnmwXilCijZu4SVm1cmekq77ImscLCfDnzMAuxRrUTr6m5ao1nmn0X3i7LZkTGfGjgtISzKgU1lJVqtbI+BgoROVh1dnSd9Jt/Qdh4MnFBIVo+4+9kdBYB3VE0iDqhqrI4+0loF0MLRPAP505A3StieHD1GKY69Zi2vM5g3Dvo2a2jYyIZ+RdM9VsRYXgICl0ELN8iaijktDC7jIbTPcO3c1Gb0fBOxBt/U+mJdai/f/UOT2mXEO5VnCKWZomJbaq0o/aruzbCy0FBXGx9wLK6GRe1e7RCixw+bCaf/RBRmKpTO5ycxRaPEk8byR1yQ6vwkCymp652RvinugUKuBDeqydf0bMdJwVR3ZvtDbrNNV3oZLeFJi+FyU68bR+p5eiMbt+LAtCosnyWv4vFfayvm8sMv95hZn/+H8Z7Vggy9nT/VbJwgBDr5CEimD6CV946RQ==;pXi0MBgXWjtfl/717kWoIw=="
 ---
 

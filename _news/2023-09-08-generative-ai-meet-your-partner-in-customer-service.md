@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/generative-ai-meet-your-partner-in-custom
 webUrl: "https://www.ibm.com/blog/generative-ai-meet-your-partner-in-customer-service/"
 type: article
 quality: 119
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64f741fe7e46d114422b0cae/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Generative AI: A Revolution Impacting Various Industries Worldwide"
-    excerpt: "The rapid ascent of generative artificial intelligence (AI) is poised to bring significant changes across various industries. This cutting-edge technology, powered by large language models (LLMs), can redefine business operations."
-    publishedDateTime: 2023-09-05T04:13:00Z
-    webUrl: "https://www.cryptopolitan.com/generative-ai-impacting-industries-globally/"
-    type: article
-    provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
-    quality: 39
-    images:
-      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/09/photo_6030615150442167391_y.jpg"
-        width: 1024
-        height: 1024
         isCached: true
   - title: "How To Hire A COO For Your Startup In A Generative AI Era"
     excerpt: "Some think a startup doesn’t really need a COO, but Davidovs Venture Collective's Marina Davidova disagrees and lays out the case for the necessity of this important hire and how generative AI can help."

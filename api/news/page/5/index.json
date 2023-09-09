@@ -2,6 +2,40 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-09-06-1-top-chip-stock-ready-to-ride-nvidias-ai-tailwinds-higher.md",
+      "title": "1 Top Chip Stock Ready to Ride Nvidia's AI Tailwinds Higher",
+      "excerpt": "(up more than 232%) since the beginning of the year. For the most recent quarter, Nvidia racked up $13.51 billion in revenue, more than doubling last year's figure and setting a new second-quarter company record.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/1-top-chip-stock-ready-to-ride-nvidias-ai-tailwinds-higher",
+      "originalUrl": "https://www.nasdaq.com/articles/1-top-chip-stock-ready-to-ride-nvidias-ai-tailwinds-higher",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 224,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-05T13:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-05-how-carrier-predicts-hvac-faults-using-aws-glue-and-amazon-sagemaker.md",
       "title": "How Carrier predicts HVAC faults using AWS Glue and Amazon SageMaker",
       "excerpt": "In this post, we show how the Carrier and AWS teams applied ML to predict faults across large fleets of equipment using a single model. We first highlight how we use AWS Glue for highly parallel data processing. We then discuss how Amazon SageMaker helps us with feature engineering and building a scalable",
@@ -105,27 +139,45 @@
       ]
     },
     {
-      "path": "_news/2023-09-05-microsoft-expands-abu-dhabis-g42-partnership-to-include-cloud-and-ai-tools.md",
-      "title": "Microsoft expands Abu Dhabi’s G42 partnership to include cloud and AI tools",
-      "excerpt": "The partnership will see Microsoft expand its Azure service in the UAE through Khazna Data ... including AIQ – a joint venture with Abu Dhabi National Oil – that uses AI and machine learning to optimise processes for Adnoc and the wider industry.",
+      "path": "_news/2023-09-06-microsoft-unveils-new-features-coming-to-outlook-and-other-microsoft-365-services.md",
+      "title": "Microsoft unveils new features coming to Outlook and other Microsoft 365 services",
+      "excerpt": "There are a ton of Teams features, but other Microsoft 365 services are getting updates as well. Outlook is getting some improvements, as you'd probably expect. Bookings is getting a new UI ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businesstimes.com.sg/companies-markets/microsoft-expands-abu-dhabis-g42-partnership-include-cloud-and-ai-tools",
-      "originalUrl": "https://www.businesstimes.com.sg/companies-markets/microsoft-expands-abu-dhabis-g42-partnership-include-cloud-and-ai-tools",
+      "webUrl": "https://www.neowin.net/news/microsoft-unveils-new-features-coming-to-outlook-and-other-microsoft-365-services/",
+      "originalUrl": "https://www.neowin.net/news/microsoft-unveils-new-features-coming-to-outlook-and-other-microsoft-365-services/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 164,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2019/01/1547572242_ms365-5_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businesstimes.com.sg/companies-markets/microsoft-expands-abu-dhabis-g42-partnership-include-cloud-and-ai-tools?amp",
-      "cdnAmpWebUrl": "https://www-businesstimes-com-sg.cdn.ampproject.org/c/s/www.businesstimes.com.sg/companies-markets/microsoft-expands-abu-dhabis-g42-partnership-include-cloud-and-ai-tools?amp",
-      "publishedDateTime": "2023-09-05T09:32:00-07:00",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-unveils-new-features-coming-to-outlook-and-other-microsoft-365-services/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-unveils-new-features-coming-to-outlook-and-other-microsoft-365-services/",
+      "publishedDateTime": "2023-09-05T10:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Times",
-        "domain": "businesstimes.com.sg",
-        "images": null,
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -327,7 +379,7 @@
       "originalUrl": "https://techcrunch.com/2023/09/05/robot-software-firm-mujin-raises-85m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -533,7 +585,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34235343/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2023-2030-the-revolution-of-",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -961,7 +1013,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34225651/riding-the-wave-of-artificial-intelligence-a-comprehensive-look-at-ai-stocks",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -1133,48 +1185,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-expo-city-dubai-launches-regions-first-artificial-intelligence-film-festival.md",
-      "title": "Expo City Dubai launches region’s first Artificial Intelligence Film Festival",
-      "excerpt": "The event establishes Expo City Dubai as the epicentre of AI innovation, a future-focused community and a global platform for collaboration on big ideas",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/business/technology-and-telecom/expo-city-dubai-launches-regions-first-artificial-intelligence-film-festival-buhpqsni",
-      "originalUrl": "https://www.zawya.com/en/business/technology-and-telecom/expo-city-dubai-launches-regions-first-artificial-intelligence-film-festival-buhpqsni",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/NjgwY2Q3NjMtZTY2NC00/17/1463605211.jpeg?f=3%3A2",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/business/technology-and-telecom/expo-city-dubai-launches-regions-first-artificial-intelligence-film-festival-buhpqsni?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/expo-city-dubai-launches-regions-first-artificial-intelligence-film-festival-buhpqsni?amp=1",
-      "publishedDateTime": "2023-09-05T00:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

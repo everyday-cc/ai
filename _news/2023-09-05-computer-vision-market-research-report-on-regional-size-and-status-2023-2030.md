@@ -43,22 +43,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Artificial Intelligence Systems in Healthcare Market Size Analysis 2023 | New Opportunities, and Innovations, Forecast 2030"
-    excerpt: "The \"Artificial Intelligence Systems in Healthcare Market\" Research Report 2023: incorporates a thorough qualitative and quantitative analysis along with several market dynamics. Global Artificial ..."
-    publishedDateTime: 2023-09-05T02:28:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/34207168/artificial-intelligence-systems-in-healthcare-market-size-analysis-2023-new-opportunities-and-innov"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34207168"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34207168"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 48
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
 
 secured: "mJGE/2QnNm0G7dxxUghse8S4ft0jkL8DVmebWu7XCWAY4U1yKI6TsT8oC6TeF2qyc3eo+TktT5hu9zfiOLoxzlJrolJizDOv88ZUGZ7j/TDvfgIg4WhCrmWMynB57EAtR76Ua1ReMhft3hVYp8nTcBibU1bCg/WHmRvkxGtcmRYk4sh/07NfTKTaBqIEQKL/h7Lj6NjFnMxsZ4LOLVFnWG7qEcQZOGe6UhfOilF6mEgBzBC4toQW5k3gDtF/AlhzK1NJAm3/plktHTQmzLAQ7aXasL5bFn3RZpVfKZth0KH7a96QNyAw1qrgsLu7eCWXyu9+6pN2HylZSdGER9XghTxZMDkj6/ukHk/qKhgedqw=;8gHFENO31yLQE/E6knH/tQ=="
 ---

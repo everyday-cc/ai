@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Tencent unveils large language model"
-excerpt: "A view of the booth of Tencent at an expo in Shanghai. [Photo/CHINA DAILY] Tencent Holdings, a leading homegrown technology company, debuted its much-awaited universal large language model Hunyuan on Thursday,"
-publishedDateTime: 2023-09-08T01:12:00Z
-originalUrl: "https://www.chinadaily.com.cn/a/202309/08/WS64fa6d78a310d2dce4bb49b6.html"
-webUrl: "https://www.chinadaily.com.cn/a/202309/08/WS64fa6d78a310d2dce4bb49b6.html"
+excerpt: "Tencent Holdings, a leading homegrown technology company, debuted its much-awaited universal large language model Hunyuan on Thursday, as Chinese enterprises strive to gain a foothold in the global artificial intelligence race."
+publishedDateTime: 2023-09-08T01:23:00Z
+originalUrl: "https://global.chinadaily.com.cn/a/202309/08/WS64fa6d78a310d2dce4bb49b6.html"
+webUrl: "https://global.chinadaily.com.cn/a/202309/08/WS64fa6d78a310d2dce4bb49b6.html"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
@@ -17,12 +17,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "http://img2.chinadaily.com.cn/images/202309/08/64fa6d78a310d2dc6d277476.jpeg"
-    width: 689
-    height: 459
-    isCached: true
 
 related:
   - title: "Tencent latest to join China's GenAI race with foundation model for enterprises"
@@ -56,6 +50,6 @@ related:
         height: 510
         isCached: true
 
-secured: "a1xO+LVDRS0B7bWACGalS91fTHQXbt2Gm46bVWiwZ6IY1OHs3NWULsLYextzTaweqbuvHjT2j7CBOnCvo2ynS653vd3U+CSWFLxgyHc1FtyehHsGJNqwh96F1c6bu+2J7/VyqD9NSqpniVKE/GU4FHeSOVsHJfR2gOub9uXnxo5BE06j2FKyE1cx9SL9T+hJJBNmGqu/fncoPGyvJIK0MKdAuWf4wmDSqmIzX4lmMvp2mXSWT7YAUU/F2/exEeAaFzMysOw8A+An8++W03pTx5DBqMWdBHbJGhXn9HsPAxfPa5eZ7BfQpoJgPaZAkpoi1WhDRQ+4L53HsvLwF7x9/p4/plQXO9NpM1WCriMIx20=;i1c4AnxoBO/bWtyQE15k1g=="
+secured: "nGqHPS1TLIVr8lo8Sbq5iF6Wa+SpRjzI0pskKojJ6SYMF7hEHU8h73qKlmj3D5pPrDPUTy3n6OMBIBYMxadfkDdqol16+Qa8WNc30QGCTc3MK7qxIii4esX1dFbmK8NdFsCKXOdssRhndv0ry9Ore1E/GtW7Wp+1r/DaGXQq7cviVPh7QBr7Rtg/Ao+M8WWQKljIC9a8qj2kDYgb3S65NGyN1b5zo1uBrq6/sHcrLgLJkVazq9qbZiVYkJdKuwPvqGRjBikMvhzqf6Ovn3mpXDlxA9d0FNQW53sbCj1E2vHXdJ+dRn6+6hsX/ee1jf5NEPZY50ObiJbXbbxZkgK3ilaJ0VP/Cfiqyboc/WDnHJ0QnjC7dMWD09q8WOR8xCO1kGvwS6rGDQmP/pvIBn4gH7gjNt9WpGRa8eLRMMz3uOsOOUTm8NeeuNnT+jxfKhCObXlNa2RRI8Kfr0CRQLcmsFibjDA59VKlohYld7Jkb4XopkPqv2nUgcXaZClHbsJM0Pmd7W3+NdETYLBYMYKwOA==;HPhyje7f5M8mG/nVktBv6A=="
 ---
 

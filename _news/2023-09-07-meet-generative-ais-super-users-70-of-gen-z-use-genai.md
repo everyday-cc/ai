@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/meet-generative-ais-super-u
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meet-generative-ais-super-users-70-of-gen-z-use-genai/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Generative AI Generation Gap: 70% Of Gen Z Use It While Gen X, Boomers Don’t Get It"
+    excerpt: "Americans who use generative AI use it for work and 70% of Gen Z uses new generative AI technologies, according to a new 4,000-person survey."
+    publishedDateTime: 2023-09-09T20:28:00Z
+    webUrl: "https://www.forbes.com/sites/johnkoetsier/2023/09/09/generative-ai-generation-gap-70-of-gen-z-use-it-while-gen-x-boomers-dont-get-it/"
+    ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2023/09/09/generative-ai-generation-gap-70-of-gen-z-use-it-while-gen-x-boomers-dont-get-it/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/09/09/generative-ai-generation-gap-70-of-gen-z-use-it-while-gen-x-boomers-dont-get-it/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 81
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64fcd4ddbff0fa87a61a5633/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "UNESCO calls for regulations on use of GenAI in schools"
     excerpt: "The United Nations Educational, Scientific and Cultural Organisation (UNESCO) called on governments to regulate the use of Generative Artificial Intelligence (GenAI) in education and research."
     publishedDateTime: 2023-09-08T14:25:00Z

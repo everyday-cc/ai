@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbs17.com/news/investigators/self-driving-delivery-truck
 cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/investigators/self-driving-delivery-trucks-could-be-sharing-the-roads-with-drivers-very-soon/amp/"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -27,79 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving Car Revolution Is Coming, But Slowly"
-    excerpt: "In Munich, where this week's IAA motor show is taking place, an interactive street survey elicits an overwhelming \"yes\" when asking passers-by if they would take a self-driving taxi from the station to the Oktoberfest beer festival."
-    publishedDateTime: 2023-09-07T05:30:00Z
-    webUrl: "https://www.barrons.com/news/self-driving-car-revolution-is-coming-but-slowly-9c5588b2"
-    ampWebUrl: "https://www.barrons.com/amp/news/self-driving-car-revolution-is-coming-but-slowly-9c5588b2"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/self-driving-car-revolution-is-coming-but-slowly-9c5588b2"
+  - title: "Tyson enlists self-driving trucks to deliver chicken wings and hot dogs"
+    excerpt: "Your chicken wings, hot dogs, and breakfast sausage could soon essentially transport themselves with the help of artificial intelligence. Tyson Foods announced Wednesday it teamed"
+    publishedDateTime: 2023-09-07T17:22:00Z
+    webUrl: "https://www.aol.com/finance/tyson-enlists-self-driving-trucks-142304058.html"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 44
+      name: AOL
+      domain: aol.com
+    quality: 24
     images:
-      - url: "https://www.barrons.com/asset/external-media/afp/AFP9643577245828168390437146037747688022783---1.jpg"
-        width: 768
-        height: 480
-        isCached: true
-  - title: "Self-driving car revolution is coming, but slowly"
-    excerpt: "Pandemic-related disruptions to the car industry, a shift towards investing in electrification and the sheer complexity of the technology have all contributed to keeping the autonomous-driving revolution stuck in the slow lane. Now, \"we're more inclined to say it will happen by 2030,\" Aufrere told AFP."
-    publishedDateTime: 2023-09-08T09:00:00Z
-    webUrl: "https://www.theeastafrican.co.ke/tea/science-health/self-driving-car-revolution-is-coming-but-slowly-4362258"
-    ampWebUrl: "https://www.theeastafrican.co.ke/tea/science-health/self-driving-car-revolution-is-coming-but-slowly-4362258?view=htmlamp"
-    cdnAmpWebUrl: "https://www-theeastafrican-co-ke.cdn.ampproject.org/c/s/www.theeastafrican.co.ke/tea/science-health/self-driving-car-revolution-is-coming-but-slowly-4362258?view=htmlamp"
-    type: article
-    provider:
-      name: The EastAfrican
-      domain: theeastafrican.co.ke
-    quality: 44
-    images:
-      - url: "https://www.theeastafrican.co.ke/resource/blob/4362272/93c4c276d2a5b72180c6a801c040f6ee/iaa-data.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "X post about self-driving cars prompts discussion on Indian roads and driving"
-    excerpt: "As the world is rapidly moving towards automation, many countries are experimenting with driverless cars. Recently, a tweet about the possibility of introducing self-driving cars in India has sparked debate about the dismal state of roads and lack of respect towards traffic rules."
-    publishedDateTime: 2023-09-08T06:43:00Z
-    webUrl: "https://indianexpress.com/article/trending/trending-in-india/self-driving-cars-indian-roads-and-driving-8930137/"
-    ampWebUrl: "https://indianexpress.com/article/trending/trending-in-india/self-driving-cars-indian-roads-and-driving-8930137/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/trending/trending-in-india/self-driving-cars-indian-roads-and-driving-8930137/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 41
-    images:
-      - url: "https://images.indianexpress.com/2023/09/self-driving-cars-india.jpg"
+      - url: "https://s.yimg.com/ny/api/res/1.2/INErVWkIMYl_S0j4fzkbJg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/202362a5869bdad57285fe57296a1412"
         width: 1200
-        height: 667
+        height: 800
         isCached: true
-  - title: "Why experts feel self-driving car revolution still a decade away despite enthusiasm"
-    excerpt: "In Munich, where this week's IAA motor show is taking place, an interactive street survey elicits an overwhelming \"yes\" when asking passers-by if they would take a self-driving taxi from the station to the Oktoberfest beer festival. A modified self-driving ..."
-    publishedDateTime: 2023-09-07T04:25:00Z
-    webUrl: "https://www.hindustantimes.com/car-bike/why-experts-feel-self-driving-car-revolution-still-a-decade-away-despite-enthusiasm-101694058998684.html"
-    ampWebUrl: "https://www.hindustantimes.com/car-bike/why-experts-feel-self-driving-car-revolution-still-a-decade-away-despite-enthusiasm-101694058998684-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/car-bike/why-experts-feel-self-driving-car-revolution-still-a-decade-away-despite-enthusiasm-101694058998684-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 38
-    images:
-      - url: "https://www.hindustantimes.com/ht-img/img/2023/09/07/1600x900/GERMANY-AUTOMOBILE-SHOW-IAA-29_1694060041436_1694060073296.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Self-Driving Cars Might Finally Be For Real This Time"
-    excerpt: "A decade ago, there was a lot of hype about self driving cars. In fact, there was more interest in self-driving cars than there was in electric vehicles, in terms of the future of the auto industry. But progress in developing these robotic cars has turned ..."
-    publishedDateTime: 2023-09-06T21:16:00Z
-    webUrl: "https://www.bloomberg.com/news/audio/2023-09-06/self-driving-cars-might-finally-be-for-real-this-time-podcast"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 34
 
 secured: "9LjoxcsIe0uP0NAwVTPKUAjy5jg5yXMCg2kfJskzIkF1Xt875O/7pg6gjFFoQNN599MHYc+d/O4F/YwmV+4I5qEWU00t+37qk+6TtWmD5BMvXXhynZT3I6XmiKcLLkebj0MuQZAHcdAVfHEFMStiYiUN6oLoM50pKtI4nn331YIw02Xe3L67vKTPHo4A5R3m0gNjIfUpVJAIiVGCDwXeN/sczQw/cw7BKNqAz9N21Cyyj5RK7opZxtW41aKExvAIGHarvw+lbcVZRm/icBVGyCckd8OB6zHQ81urwHl8YpJH+qG9mKRjszgy8y9fJh/FAd3eRhoiBPGMlZhvIvtjUrMU+XgVHC1Z17MI8KqFaxRhBwSTxNUxZVpn9a+SNg8T4iXnJoIKtHeIsY9i0FJQDjFsCYtgI4EJ+N4e7eyFAp3NKUL1pqNX7oGeLZ3CzIBJZjGpN03r0nhr8UVdrbhyljOx4lFvV+kT7MGcQkXA35G3LOGe05mUx2WIdX0T//4WZleok4clZHANvouY15kzmA==;xr1gVQvnXVvu5Wfx72K9HA=="
 ---
