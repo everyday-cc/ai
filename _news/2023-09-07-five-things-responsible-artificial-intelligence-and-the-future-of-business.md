@@ -103,22 +103,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Generative AI means the looming end of search as we know it – here’s why"
-    excerpt: "“Datafication Nation” columns are part of WRAL TechWire’s Startup Monday package. RALEIGH-There is tremendous hype and hysteria surrounding Generative AI, and the risk it poses to many job categories and to complete industries. But should we ..."
-    publishedDateTime: 2023-09-04T11:09:00Z
-    webUrl: "https://wraltechwire.com/2023/09/04/generative-ai-means-the-looming-end-of-search-as-we-know-it-heres-why/"
-    ampWebUrl: "https://wraltechwire.com/2023/09/04/generative-ai-means-the-looming-end-of-search-as-we-know-it-heres-why/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/09/04/generative-ai-means-the-looming-end-of-search-as-we-know-it-heres-why/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 56
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2018/05/artificial-intelligence-4-alien-god-diety.jpg"
-        width: 960
-        height: 578
-        isCached: true
   - title: "Unlocking creativity with AI in the future workforce"
     excerpt: "Generative AI is transforming digital content production, offering new tools that enhance the capabilities of creative professionals, as well as those not typically involved in creative roles. This fundamental shift will influence the future of work across all industries, according to software company Adobe."
     publishedDateTime: 2023-09-07T21:29:00Z

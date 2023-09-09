@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/etf/ai-s-growing-influenc
 webUrl: "https://markets.businessinsider.com/news/etf/ai-s-growing-influence-over-7-000-mentions-in-q2-earnings-calls-boost-stocks-1032606816"
 type: article
 quality: 64
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Business Insider
@@ -26,17 +26,6 @@ images:
     width: 1024
     height: 768
     isCached: true
-
-related:
-  - title: "How AI may influence pain medication prescriptions"
-    excerpt: "Artificial intelligence is working its way into more parts of American life. As AI spreads within the healthcare landscape, it brings familiar concerns of bias and accuracy and whether government ..."
-    publishedDateTime: 2023-09-04T09:10:00Z
-    webUrl: "https://www.modernhealthcare.com/technology/ai-artificial-intelligence-ai-pain-medication-prescriptions"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 19
 
 secured: "v3iinvQsyLmyggZ02GLdHoOncB7I1/O98+MlHbH1DM6KpR7zJJRDZnKKtLxNDAZr9WwKyw/AaKZTdnszOu5BYblnYfYFITXtRrB4D2SlRn6wkSXArcyyrr/WEU/AR7a3KyVXXoa60G0zYEb7RXv87zjNMIEV77NrqlbXwqKKMalpvVHSWFVGSi1eYrnrwJGxy/y4qscfKYiQCcAcZK5TbmS3RcGHTAxu10wsesDlwBUg3an7RxuBu+d9jO1VLjjSix8HlCYg49A45pqQg2cfa2QrXbCZGfYeys0R5v+7HLCvXXKsdqX1hvnONmPBZDNFKQyP7uOcbbX9lHOH8uaTJoq61F1NMYdQ3l4y7U+4pFs=;+wOSWE8mChGAbSH8bJb59A=="
 ---

@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Pair of task forces seeks to answer 'hard questions' about regulating artificial intelligence"
-excerpt: "\"I think there’s an opportunity to really move forward technologically, but there are concerns that we have to make sure that we address,\" said Rep. Steve Doyle, D-Onalaska."
+excerpt: "\"I think there’s an opportunity to really move forward technologically, but there are concerns that we have to make sure that we address,\" Rep. Steve Doyle, D-Onalaska, said."
 publishedDateTime: 2023-09-06T10:45:00Z
-originalUrl: "https://chippewa.com/news/state-regional/government-politics/wisconsin-artificial-intelligence-ai-task-forces/article_a51806fa-50bd-5d21-8194-72786198ad81.html"
-webUrl: "https://chippewa.com/news/state-regional/government-politics/wisconsin-artificial-intelligence-ai-task-forces/article_a51806fa-50bd-5d21-8194-72786198ad81.html"
+originalUrl: "https://madison.com/news/state-regional/government-politics/wisconsin-artificial-intelligence-ai-task-forces/article_6ac18a7c-473b-11ee-baec-af1007e90edb.html"
+webUrl: "https://madison.com/news/state-regional/government-politics/wisconsin-artificial-intelligence-ai-task-forces/article_6ac18a7c-473b-11ee-baec-af1007e90edb.html"
 type: article
 quality: 43
 heat: 43
 published: false
 
 provider:
-  name: Chippewa Herald
-  domain: chippewa.com
+  name: Madison.com
+  domain: madison.com
 
 topics:
-  - AI in Autos
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/chippewa.com/content/tncms/assets/v3/editorial/a/51/a51806fa-50bd-5d21-8194-72786198ad81/64f7a92ce8a71.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/6/ac/6ac18a7c-473b-11ee-baec-af1007e90edb/64ef612f76be2.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
 
-secured: "MSNiElRgSP/q6oWiHHXffgqAQbO/azYOnGXkS1EbdgCARXDQytBOrlPFCn80ovlIskRIdDfkOORzEOXagzf8litmSJMgs8AgtS8T7g0xBzCkzy3sccZBot8ISDCzf3uM1/3WC2gmqUn1n5KKUGZDJu4A5n3SxlbHeQk1mSVm8wlvB0eppvh05tab05aSsxEi/br6QPKikeaxPi2GUqAPZVbu71lxs7CjBq+7hPfmrOSvo4f5ZF48xqz3N6h6o8xy53rPwgYa8+h6K6VLb/moVh3Pdpc7H/ktEUEeTiMxpINJTmfFLJlGvliYrRxCQ85/UpRvNVKSyEhfCMUcZE+P6Um1M6WKUFdO5BMsrLTjyY8=;eX2pCMpNNc6PwBjzMomCvg=="
+secured: "uUKVcyUSP/hZUFbzvkBhcEF/H1faSRbb5y7soRo71fZNuwlEG4pVoZVLUzrGpwOAbAIlZKfYxZ+5bd/Jw+FqA+cujke2nJKJXopyD1qZWh7/PvhZevbuqwmzF/JU1DalliPacs/JBbQavmxhKo2YlgE1dg/1RLT3rIs1Ok1DhLOZaG+yqv0qRJ2uxgZjdEqSVBvzk1bicVFVC4FfErm+XGUAa42r6F+T4XZH0vFZWbyV35PH1FTIAMO2+a+uA0hzHGjcXFCiXW+Gy62WkzCCWqTQE5SUXw6/craum8xnw46QUINGvXzjmIzXsqhy4IkvYYbDe48diofjohBpgM9oyvf6hXjV3ZPl6FaAfNkVr6Q=;A14m2YDjZ6is50tUrSIj6Q=="
 ---
 

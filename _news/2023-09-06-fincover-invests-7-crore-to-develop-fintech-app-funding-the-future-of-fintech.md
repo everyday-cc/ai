@@ -49,6 +49,22 @@ related:
         width: 533
         height: 405
         isCached: true
+  - title: "BIZCLIK MEDIA LAUNCHES SEPTEMBER EDITIONS OF FINTECH MAGAZINE & INSURTECH DIGITAL"
+    excerpt: "The September editions of FinTech Magazine and InsurTech Digital includes interviews with leading experts and executives from Volt.io, Fiserv, HSB Canada and Generali Vitality LONDON, Sept. 8, 2023 /P"
+    publishedDateTime: 2023-09-08T15:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/n34364571/bizclik-media-launches-september-editions-of-fintech-magazine-insurtech-digital"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34364571"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34364571"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Relevantz: Driving fintech innovation with Fiserv"
     excerpt: "Senior Director of Client Success at Relevantz, Georgie John, traces his time at the service provider and the importance of its partnership with Fiserv"
     publishedDateTime: 2023-09-04T14:31:00Z
@@ -146,15 +162,6 @@ related:
       name: Outlookindia
       domain: outlookindia.com
     quality: 4
-  - title: "BIZCLIK MEDIA LAUNCHES SEPTEMBER EDITIONS OF FINTECH MAGAZINE & INSURTECH DIGITAL"
-    excerpt: "This month's edition features an extensive lead interview with, HSB Canada's Vice President Client Solutions and Innovation, Lasith Lansakara and VP, Head of Information Technology, Michael Scarbeau about the company's journey through almost 150 years of insurance transfomation."
-    publishedDateTime: 2023-09-08T16:36:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/09/08/9877716.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "pdYIcopFaZpAPNawz0jBRrTH/rIftSf5IGX5l5wwqX59Tplfh/ily1tMGeJiNNho1Lv4cwweUJyz2qHImnRZhX3GavysO3QDwLEopKhYM5+K8TTjaT1A05qe7Eh9SF2HEWXc7AnU4hFHj+YyEn8dCBvesu/gxDvDulms0L7kBpaT2Rn+fZjlJ3J2UrXeBO/vX3Zm/dFx4NTSQ2l8FYBYPFO1OS6KSDsvNDL6f013qcjnjs/NHO1aYnn4UE6B4wGmmqJCx5XogZW80aA3qzJmT/8UhbMyXuMgQHMyPJebZyC/nPu0mGP63b2hF/low324/g5Tpt3TMmJyrvWqynUfTygMUpUwaUrlvxC8hO2d/XFePOz2jXW4tM6clkm0ckbnFapY5Q610T1gawZhib/EhQpUH99St9S5pqii97TNAoCQUwSn5l3wwnZBahYvjDT6LRAEVONw+QiS2M4GzLcRDetUQD7Ke0msum/9LOKg0ri3oh3yjW3N76hysvnwkd3NEMsK0aqzYjXPPpfitEcVJQ==;nEoHWNyWf95BRB2Ovx5JsA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/marc-andreessen-ai-will-not-kill-us-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/marc-andreessen-ai-will-not-kill-us-all-2023-9?amp"
 type: article
 quality: 78
-heat: 79
+heat: 78
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/california-joins-the-ai-regulation-fren
 webUrl: "https://www.pcmag.com/news/california-joins-the-ai-regulation-frenzy"
 type: article
 quality: 67
-heat: 108
+heat: 107
 published: true
 
 provider:

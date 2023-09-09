@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "In U.S.-China AI contest, the race is on to deploy killer robots"
+    excerpt: "The Australian Navy is investing in two different submarine technologies to counter the rising power of China. One approach involves building expensive nuclear-powered submarines, while the other focuses on developing cheap and fast unmanned submarines powered by artificial intelligence (AI),"
+    publishedDateTime: 2023-09-09T03:41:00Z
+    webUrl: "https://economictimes.indiatimes.com/news/defence/in-u-s-china-ai-contest-the-race-is-on-to-deploy-killer-robots/articleshow/103524729.cms"
+    ampWebUrl: "https://m.economictimes.com/news/defence/in-u-s-china-ai-contest-the-race-is-on-to-deploy-killer-robots/amp_articleshow/103524729.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/defence/in-u-s-china-ai-contest-the-race-is-on-to-deploy-killer-robots/amp_articleshow/103524729.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-171898,msid-103524768/to-match-special-report-us-china-tech/drones.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "SPECIAL REPORT-In U.S.-China AI contest, the race is on to deploy killer robots"
     excerpt: "The United States and China have both tested swarms of AI-powered drones. Last year, the U.S. military released footage of troops training with drone swarms. Another video shows personnel at Fort Campbell, Tennessee, testing swarms of drones in late 2021. The footage shows a man wearing video game-like goggles during the experiment."
     publishedDateTime: 2023-09-08T11:00:00Z

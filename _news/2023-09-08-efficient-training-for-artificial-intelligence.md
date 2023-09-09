@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Efficient training for artificial intelligence"
-excerpt: "Training an artificial intelligence consumes more energy the more demanding the tasks are. Víctor López-Pastor and Florian Marquardt, two scientists at the Max Planck Institute for the Physics of Light in Erlangen,"
-publishedDateTime: 2023-09-08T16:32:00Z
-originalUrl: "https://www.mpg.de/20826914/neuromorphic-computer"
-webUrl: "https://www.mpg.de/20826914/neuromorphic-computer"
+excerpt: "Víctor López-Pastor and Florian Marquardt, two scientists at the Max Planck Institute for the Science of Light in Erlangen, Germany, present a method by which artificial intelligence could be trained much more efficiently. Their approach relies on ..."
+publishedDateTime: 2023-09-08T14:01:00Z
+originalUrl: "https://www.nanowerk.com/news2/robotics/newsid=63602.php"
+webUrl: "https://www.nanowerk.com/news2/robotics/newsid=63602.php"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Max Planck Society
-  domain: www.mpg.de
+  name: Nanowerk
+  domain: nanowerk.com
 
 topics:
-  - Machine Learning
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.mpg.de/20826890/original-1694190147.jpg?t=eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0IjpudWxsLCJmaXQiOm51bGwsIm9ial9pZCI6MjA4MjY4OTB9--a52183c84030f9304a9d34521956318b35e6ac0f"
-    width: 1200
-    height: 1206
+  - url: "https://www.nanowerk.com/news2/robotics/id63602_2.jpg"
+    width: 800
+    height: 412
     isCached: true
 
 related:
@@ -72,6 +72,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "0IMeQO3Gf6by2e/Cs0h1FhDOrbyKTPWPJivgSWbo4+cufl+NclhkQTpbDVgmtuE0vcxuVLGQX2Y8KLos07TxdT5KnSc410jbPSYV+K1ny+30afzY4aGVyXWLsgoxJKM5yVdHb4TIAb8h/mUMMogFL0wAggwp8HIrpThS/4oTyQNcRccL7e2M5DpHupZqPJj+A1NxK+DPAxt/wMZ2brquJ15b4hYAA5130T2H17JDPNrm+4PEnvxaNjFFZYwbf2NVoaH537PzznCUHYYesXWnElkZSR+Gwp75gYoXcGilZOVTd8GY4uM/jOlzzIw52gxEPw4r96LoUatIq7I9Roo5Td6QFkc9Az0Xt5oMV7shLkw=;1PXqN5yd83IV3YWdQvzkPA=="
+secured: "DNvlFK+ZX4Ny7umzbN6vf46zpG+TECvPelZ7ZaG3ZMQu8PrcNbFbvP6ETkoO9Pl2FIvAmjxUAzTB+HGJPoU4xYFoBIGQwlGLesRBUyvUYaknHRgIgukDaec9oPiJOiy0w0on+L28Lz1wC2B9UiwGzrjtPoh4eif4mxPFsip5iqRrE7I6+ygDa4XV4FGov51hoG3p4eUdAZKGHJfQrugR1aiJRFmcZzhMXXafH7Z5W23661xuyq8BPgGV3Fzd+Bn36Qk9EVdWdzIMKSWMpxeINWLmVwOALzfnmW2voiBMWUHfYEqGGMlKRq7ddpMR+dxZULDsfDxH9A4FrmqypuHyMSiIc7lk9lYa6tXBTb9CD1w=;7rQqmOwwRX7k3uXFhtaOdw=="
 ---
 

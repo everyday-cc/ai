@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-09-how-the-us-stumbled-into-using-chips-as-a-weapon-against-china.md",
+      "title": "How the U.S. Stumbled Into Using Chips as a Weapon Against China",
+      "excerpt": "Export restrictions on semiconductors and other cutting-edge tech have become an important foreign-policy tool, but the long-term consequences could be dangerous for America and the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/politics/policy/how-the-u-s-stumbled-into-using-chips-as-a-weapon-against-china-ec37e32",
+      "originalUrl": "https://www.wsj.com/politics/policy/how-the-u-s-stumbled-into-using-chips-as-a-weapon-against-china-ec37e32",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-848100/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-08T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-08-ai-gpu-accelerators-will-be-in-short-supply-for-two-more-years-tsmc-warns.md",
       "title": "AI GPU accelerators will be in short supply for two more years, TSMC warns",
       "excerpt": "AI servers are expected to explode to an estimated market value of $150 billion by 2027, and Nvidia currently makes the most sought-after GPUs designed to",
@@ -1414,58 +1466,6 @@
         "AI",
         "Facebook AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-08-30-nvidia-l40s-a-datacenter-gpu-for-omniverse-and-graphics-that-can-also-accelerate-ai-training-inference.md",
-      "title": "NVIDIA L40S: A Datacenter GPU For Omniverse And Graphics That Can Also Accelerate AI Training & Inference",
-      "excerpt": "And it is. But the NVIDIA website makes it clear that this GPU is more than a high-end cloud gaming rig and Omniverse platform; it supports training and inference processing of Large Language Models for Generative AI. Given that the NVIDIA H100 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/08/30/nvidia-l40s-a-datacenter-gpu-for-omniverse-and-graphics-that-can-also-accelerate-ai-training--inference/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/08/30/nvidia-l40s-a-datacenter-gpu-for-omniverse-and-graphics-that-can-also-accelerate-ai-training--inference/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64e8e727cf65a0952b4af6bb/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/08/30/nvidia-l40s-a-datacenter-gpu-for-omniverse-and-graphics-that-can-also-accelerate-ai-training--inference/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/08/30/nvidia-l40s-a-datacenter-gpu-for-omniverse-and-graphics-that-can-also-accelerate-ai-training--inference/amp/",
-      "publishedDateTime": "2023-08-30T09:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],
