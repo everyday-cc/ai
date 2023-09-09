@@ -69,22 +69,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Amazon to require some authors to disclose the use of AI material"
-    excerpt: "NEW YORK -- After months of complaints from the Authors Guild and other groups, Amazon .com has started requiring writers who want to sell books through its e-book program to tell the company in advance that their work includes artificial intelligence material."
-    publishedDateTime: 2023-09-08T18:09:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/amazon-require-authors-disclose-ai-material-103042284"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/amazon-require-authors-disclose-ai-material-103042284"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/amazon-require-authors-disclose-ai-material-103042284"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 57
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
   - title: "AI used to alter imagery or sounds in political ads will require prominent disclosure on Google"
     excerpt: "(AP) - Google will soon require that political ads using artificial intelligence be accompanied by a prominent disclosure if imagery or sounds have been synthetically altered."
     publishedDateTime: 2023-09-07T15:42:00Z
@@ -156,6 +140,15 @@ related:
         width: 619
         height: 377
         isCached: true
+  - title: "Amazon to require some authors to disclose the use of AI material"
+    excerpt: "NEW YORK -- After months of complaints from the Authors Guild and other groups, Amazon .com has started requiring writers who want to sell books through its e-book program to tell the company in advance that their work includes artificial intelligence material."
+    publishedDateTime: 2023-09-08T18:09:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/amazon-require-authors-disclose-ai-material-103042285"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 17
 
 secured: "XEZSm5h7sUPCeyQaqX1fDg6C6fqz7x1TIF1Tk0eOq/CicXU8ixN2Geq/K9LAKPwj1g+a5iaRke8VhkyHk6rb7AITyF0ZUW66itWKWZdmmBDThJ+Qtlf6wiDeQcONVEu2arCQ1yMmk0Y0zjPjSc10OJ0gvlD/+ifGYVZU/uIABbl6FtSi3gdKZjzQjcPdB6C6F5WtNwuvFcTJtssAs60V284UEYf++R0N5jzuu2XvGPuN9tWHWf+3o3Y0IhFVmRRKfp8vFdq0G05DjlrRWvZ1gjarJKa16yMTFPhmiDqn++RVnCfwk60xNNbTqmt3zCcpaz3AQpsO5iyk3boZ1XUm148VR9khs72v/BU1dSB9jbsbzp/pTqHmz2RbWXaiZEtT5Q76XJWBWsqFOTEGmgB/o2QGcUCpxnmZJWkwR/cSk/U6YrzhaIhBPVGURAkr+04EigkleT6UFNdjs3z10V0p40STWZXAMSTWlHpzHPHdv9T4wX2cM+j+bIndma4cyKOXeX5z2zIVAyAzy1DRF8fdIg==;yEPLh0B1ZH1hOB14whLpuw=="
 ---

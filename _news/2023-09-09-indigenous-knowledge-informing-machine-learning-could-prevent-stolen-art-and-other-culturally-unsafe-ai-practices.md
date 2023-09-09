@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-09-indigenous-knowledge-machine-sto
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-indigenous-knowledge-machine-stolen-art.amp"
 type: article
 quality: 52
-heat: 72
+heat: 74
 published: true
 
 provider:
@@ -51,6 +51,6 @@ related:
       domain: financeasia.com
     quality: 4
 
-secured: "ImIdujbrIMpXjVyzkSOF3+oYoc+UwKOB8wGQpSsAJaW3G4SpsHOd5FBNkaV+3/Qe7DaAcCSQf68/jJTF4M20SSJ4OnHtcFN41GxGasfRs6dcaU8snrViMwKGa596R7GuUb5uNAD+T9Nyn+yTf2zqqE5QYk+1DLQQQc8hd0EiBPANwhU8MUWU/orI2b7BbuJacZt9R64tGF6AmqPzEqIRvRWCMIwg1yZx2KiVyk6jUeNTr+VxXfMlfTWdzgOv31Tz5kZrWb8OlszSB4H5OjwrK8HtfPf0CI71W1MKQDzVDbasSktjr5jDUPuxQGaqjywV0T2xjvVhYhRKQbqa9iJLQkCJJeJP2XCNb1QZp7yAQJE=;Ef0gR3PdcW1NqjCukfsY4A=="
+secured: "EJUVb77IdMq/X7DRA1MfFmFcfaPTNkEjFm3JoHVGjXTMvulVTLiIKdmoAqqjxJAoJQwNVUSzjOEz6WORqSn4mdAcoFOwxCvaJSgbmGsYtHmNZP/rWNDd4E4GtJ2bjq+0Cgm7DMJ4dlP0/PVR5P86NTelgve9ZsTlpmqKbmEfurr4Rzq0ECyml1uo7KqBfhM4GSmA3HIRkVcQe+28i3ElvfHpBtQDtg91SsxGQSrWRDyLyQ1IGP41QV0z6lQcomGiWUefmjjkUdLpcJiie5kcvP47+k+ZC3hGVciMmxdTxPsrDUA1cBxNzMTENaXj6BcbECxxvCxGQajCHZcIO8ZNCOdFqAkbwHHn9CWZI4R5ViUVVP73wh2hURUM6NBuO74rTZDzBuHi6gYdGE1zmv3gdwJvJ2oJbnWhc0uSoFUErF27aHMezBn5AFBBdLKKcBEyCgeaA+5H94hwt2Vp0yh/4bBER2ACTNNkcetkUxAR33e33woZndfAdXCl7TKCOxrRBPVO9lYMTyDUvVfuYdCEKg==;PuGMfiIT9burggNfpfAlpQ=="
 ---
 

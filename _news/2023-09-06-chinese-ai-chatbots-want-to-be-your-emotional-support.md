@@ -247,6 +247,17 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water"
+    excerpt: "The cost of building an artificial intelligence product like ChatGPT can be hard to measure. But one thing Microsoft-backed OpenAI needed for its technology was plenty of"
+    publishedDateTime: 2023-09-09T13:14:00Z
+    webUrl: "https://thehill.com/homenews/ap/ap-technology/ap-artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water/"
+    ampWebUrl: "https://thehill.com/homenews/ap/ap-technology/ap-artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-technology/ap-artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 30
   - title: "Beyond ChatGPT: How big tech is changing lives (and fortunes)"
     excerpt: "Beyond machine learning, Ogden still believes neurology, neurobiology and neurodegeneration is a big theme. It's a difficult space with longer lead times. \" [But] we now have an antibody commercially available for Alzheimer's disease, for instance. We look more at biomarkers to improve patient screening."
     publishedDateTime: 2023-09-07T01:24:00Z
@@ -270,15 +281,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "Bad Idea AI Announces Listing on MEXC Exchange and Revolutionary AI Chatbot"
-    excerpt: "Collaborative Decision-Making: AI and DAO The decision to list on MEXC ... with Shibacals to produce unique figurines and clothing wear, complete with NFC chips that serve as certificates of authenticity and offer post-purchase delights like VIP NFT ..."
-    publishedDateTime: 2023-09-04T19:21:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/g34213149/bad-idea-ai-announces-listing-on-mexc-exchange-and-revolutionary-ai-chatbot"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 17
   - title: "The Download: how to talk to kids about AI, and China’s emotional chatbots"
     excerpt: "In a knee-jerk reaction, some schools banned the technology—only to cancel the ban months later. Now that many adults have caught up with what ChatGPT is, schools have started exploring ways to use AI systems to teach kids important lessons on critical thinking."
     publishedDateTime: 2023-09-06T12:10:00Z

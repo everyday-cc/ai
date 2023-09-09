@@ -136,6 +136,15 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 17
+  - title: "Employing Generative AI: Unpacking the Cybersecurity Implications of Generative AI Tools"
+    excerpt: "It’s fair to say that generative AI has now caught the attention of every boardroom and business leader in the land. Once a fringe technology that was difficult to wield, much less master, the doors to generative AI have now been thrown wide open thanks to applications such as ChatGPT or DALL-E."
+    publishedDateTime: 2023-09-05T18:40:00Z
+    webUrl: "https://www.unite.ai/employing-generative-ai-unpacking-the-cybersecurity-implications-of-generative-ai-tools/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 8
 
 secured: "S04pQ5b3mWacye5PCw24p+G8wF8fCw9omUWtpthz94NkP4lPmhwxSGIyuYCRy3hkIGMfjxCkZrm67IcNttPSqzn+CTRBfxuOOrTD9J4l+1ekNK4IJdFrTO56Uv5k1GF84fzT97M7equa4ieEUH83sjO3Ren9X8aDBXHJLNAZpDiZmywZmZ6/XK3lygvmudqpEXOCceNjhdc13c/LsCsw2HY9b0BkXRRTqQ6XzOOJxWlIKqJkCVUV0TenpMtAYFBXzWPfZ5iamZkursqwpSjuuKkyy2shGUmAmA6Q5qqcVOyOIUmqnjcWZP1kFAa+tdFtgnXDmdols2nYH+ADf4PX5ys26fs+d/r08Uxcpbwj/i8GdQmq2FgbJ/HtLfyYU2oDlA7juJzWbmxgrBHlH/SUidD/8NsEDtHqKneRfz4kYgWCi6pxDKq/wsYej9uqmM/WHnDcGfyVEKmx2iz328ay6was7IqtbGEZZu3WAvXmk0CHcQg5BRAm9lKh5dKsLMLIi8Rv/4vEnyR2CujBuZdiZg==;MB8Wxx4RIpU0R/RfERWfKg=="
 ---

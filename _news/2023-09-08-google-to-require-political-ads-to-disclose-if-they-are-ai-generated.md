@@ -60,22 +60,6 @@ related:
         width: 3500
         height: 2332
         isCached: true
-  - title: "Amazon to require some authors to disclose the use of AI material"
-    excerpt: "NEW YORK -- After months of complaints from the Authors Guild and other groups, Amazon .com has started requiring writers who want to sell books through its e-book program to tell the company in advance that their work includes artificial intelligence material."
-    publishedDateTime: 2023-09-08T18:09:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/amazon-require-authors-disclose-ai-material-103042284"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/amazon-require-authors-disclose-ai-material-103042284"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/amazon-require-authors-disclose-ai-material-103042284"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 57
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
   - title: "Experts Discuss AI at the Google Cloud Conference"
     excerpt: "Get insights from Google Cloud Next 2023 experts on the latest trends in AI. Learn about the advancements in AI."
     publishedDateTime: 2023-09-07T18:21:00Z
@@ -156,6 +140,15 @@ related:
         width: 619
         height: 377
         isCached: true
+  - title: "Amazon to require some authors to disclose the use of AI material"
+    excerpt: "NEW YORK -- After months of complaints from the Authors Guild and other groups, Amazon .com has started requiring writers who want to sell books through its e-book program to tell the company in advance that their work includes artificial intelligence material."
+    publishedDateTime: 2023-09-08T18:09:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/amazon-require-authors-disclose-ai-material-103042285"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 17
 
 secured: "pTSNJYHjVDvGFGBh6yvHUMZUbGeGfVZeJzLOOYx4JSCMDdgmx37G1YySCho2Er50CcxZ8sqSjFnTFLVXJlQc4FkPjKKQnIR3O0XrZ+wRelN7hSbQQTTDKXKSpDEx7BzWHGjFNGAsoZWboq5x8JOBMTcx4PEGnYkktpA+8ThU6e/kVBu1TmN1RL7apntr8MWXaRr8nWA+50mlcqPSQeRbQyukonLg+c4Y03JURliAMh9A5q/E9NWnPxPSxZfZpnAgU5cs8Srvi7sVEwULEr9zOuEdequxn+6UEeHKIkVKFB8rAmjKrIZoMkIj1KpC0+QQwggqyqiVllB2PQ9icXaObT2+GFCSxYJamS1wageC6vxnXnDGXuRqaitE6RSanVpo0ipRiCKxgoOLZ9VnFI5Hs0Mg2bkfvrYHqD0A3I2UQEBha9sYT9zUDw5fe0D+2DR4aku87cDuZX56LNaFRrAPX5ece3RxiX63Sw5YxVnuQBq1/GQiGa4rhtYQ+/Qhzb7a2RInalEF9VewB4j2BuWwRQ==;UxE6oJ/xS8gNorvHx9oMxg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.scmp.com/tech/big-tech/article/3233809/microsoft-says-
 webUrl: "https://www.scmp.com/tech/big-tech/article/3233809/microsoft-says-it-will-defend-customers-its-ai-copilots-copyright-lawsuits"
 type: article
 quality: 78
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -69,6 +69,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 14
+  - title: "Microsoft announced its first customer product features powered by … – Microsoft"
+    excerpt: "At its Build developers conference, Microsoft unveiled its first features in a customer product powered by GPT-3, the powerful natural language model developed by OpenAI, which will help users build apps without needing to know how to write computer code or formulas."
+    publishedDateTime: 2023-09-09T11:02:00Z
+    webUrl: "https://www.inferse.com/708328/microsoft-announced-its-first-customer-product-features-powered-by-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
     quality: 14
 
 secured: "a42+r5CLmp3N9iweb6sS5y9B9eJTQU5fEFu/dRsFWyGxVz6tqs1PCK3FdQiTH7TTMs1VFzIkG4a084qckEWNwlmu2dA23B26szDnKaK2ZOJallVKLvn907Ub12pXNSVPhPplLNRjgVCM54OxNiJsUdBCzzZ4obL4JVRhoOiL4+Y9JKtQ10u33PtvM4WMzkInarwkBZdYLMyxGnhzeLeH90/x5+f+w5ckdOR6tWdQRyn1d1X9guMZkqvuq4r8WjcnTOVUHsW4ZkcMaBW5P1apHOo4e2BNxGwTJ0KsVjckIlulyceo0iD9p1M+FS3QPmlbOldn+NQcd+iulZqzS0PGPyRbbM7upAVTXO0cRkDAm9knpNiTDXPkhd8EEaZri9zffZGdJBwXOKCR/6CpYiTb4axKGgH0Zm5Cc/guaT4ykiTrsZGr0M3bTAaZjW6uEHrK3XHeLHSAIHKxHLVaRotiUVdv+w5WGMJwi7lwLEw6j0hxwNVVK1nOOr7EkyntmOvT3MDazD9JwWwnsPDesiOhsw==;3TD3hPRb+86UJ8NKLev3Iw=="

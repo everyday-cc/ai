@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2023/09/05/tech-and-cannabis-compan
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/09/05/tech-and-cannabis-companies-are-worth-watching-amidst-ai-boomforbes-ai-newsletter-september-2nd/amp/"
 type: article
 quality: 73
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "September Rally? 3 AI Stocks to Buy Before Liftoff"
-    excerpt: "Executives at AMD have said that the new microchip, which they plan to begin shipping by year-end, is a direct challenge to Nvidia’s current dominance with AI chips. The biggest foray yet into AI for AMD, the MI300X chip was designed for large language ..."
-    publishedDateTime: 2023-09-04T22:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/september-rally-3-ai-stocks-to-buy-before-liftoff-1032603562"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "The 3 Best Long-Term Stocks to Buy Now: September 2023"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The United States economy added 187,000 new jobs last month, and this is"
     publishedDateTime: 2023-09-05T22:52:00Z

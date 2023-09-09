@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-09-artificial-intelligence-pollen-jigsaw-
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-artificial-intelligence-pollen-jigsaw-ancient.amp"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 1280
     height: 688
     isCached: true
+
+related:
+  - title: "AI and the environment: Could artificial intelligence help build a pollen jigsaw"
+    excerpt: "An emerging system that integrates rapid imaging and AI can aid in creating a complete depiction of current and past environmental changes"
+    publishedDateTime: 2023-09-08T14:54:00Z
+    webUrl: "https://www.openaccessgovernment.org/ai-and-the-environment-could-artificial-intelligence-help-build-a-pollen-jigsaw/166147/"
+    type: article
+    provider:
+      name: openaccessgovernment
+      domain: openaccessgovernment.org
+    quality: 27
 
 secured: "mZ7Dr1oHhbgmOebyOY8kYthZ8R1Hz4jy4z4ULnf1IaXgiywFCntmipgwe4xOyzPuB9QtNOIL8U3kQQA8diviSmSNHI2r6/oRmHBlnmIcfkcpc6NfJujHU+8Za1eccj2QYlc9gsTrBmw7zG3vuusumSbPrfH2trXX4yau907rzYxrBqDl6w+Oo6holagb+KrBDIQ1H2AlBA/2pdlR/YC+jQ/1F+yiRWG3y5D8OZoMkVo9iUcGD/ROoCutr5JSbdhYkadC7LeQEzwjhnA3t5k5J6ryfNE2R2H7zodg+88/H2BBPXPXzMv4PCmzbVcmZ4tIUlYB8ouFDd7DFeseoDp/C54UtQuYEyvMUdN8ceh3XGXeD9ndOsCha7PsW18kopAyjFnAYRlzzzpzF6WXzhsw2SPvJI482is7jQAe+n8KOEVTwFvSPAvRVsaIuw1KiNTigtpQ8QQCSPB2eTCtFpL6S43tJVVYmKIjDGcx5hL/I1FsTOOmpwJl98JdB0GtCRbnOwW/ZI5aL3cBNi0MgToT6g==;X++U5mImxnUvWOZk94Jglg=="
 ---

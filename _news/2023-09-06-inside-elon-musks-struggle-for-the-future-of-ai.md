@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6310076/elon-musk-ai-walter-isaacson-biography/"
 webUrl: "https://time.com/6310076/elon-musk-ai-walter-isaacson-biography/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Artificial Intelligence-generated image of Elon Musk in Arab attire takes the internet by storm"
-    excerpt: "In the photo published on X account bearing the name Elon Musk (Parody), the Artificial Intelligence-generated image shows Musk appearing smiling, wearing a white dress, with embroidery on the chest, a ghutra and a headband, with the caption ..."
-    publishedDateTime: 2023-09-04T19:09:00Z
-    webUrl: "https://gulftoday.ae/news/2023/09/04/artificial-intelligence-generated-image-of-elon-musk-in-arab-attire-takes-the-internet-by-storm"
-    type: article
-    provider:
-      name: gulftoday
-      domain: gulftoday.ae
-    quality: 5
 
 secured: "HBkanGwDhkDKAafQInMXusfLkewkAPvWMoKnbJUmBK5AG5zlhrO8Q9wwDg0+WlbIbM60jzbjG1wHrnO3nzFZM3ajAXHWPHOGJ0Qz7SbhgNQ+tpxzP+Ic1X2BnU7b51C8Iro8MD9BcpkU+7MKUgqqzZFOKKotyAsca/cENTm8jPXXRZRctMzTKKk2q5xeTIPfrgzwbZvEm2RM2UQ4YfAXdkGTZ2D80+n3buzjA1NggqWKFyMXa87rK04G2GjmMeo+P5oTSq4NjQpqxNcar/765dVKlcRaNBefGfOmN00ES3Nlr39I0pei1v2TgAW2rOsJyGho0fvyyY0MzSAhoO0sGy/qF4OvmM7iZu/p2dVn8sDlSMwZEDRuIQcSvL7/YVfoQvLgF2+5OeuZ5LGr5GW0thxrN8WO6rp/ViufLkJRXYUetKewHAyB5WkzpbP+ZDqb7rwM4wUCRFo3acZv3gM0r0IX20BUx5PyoUkct17Ce75gHV2utkjKIxR9GBn2utsJcv1dOE1obwYGEfPInmrhOg==;J+7TGK5sGrX9hS7Xa+czLw=="
 ---

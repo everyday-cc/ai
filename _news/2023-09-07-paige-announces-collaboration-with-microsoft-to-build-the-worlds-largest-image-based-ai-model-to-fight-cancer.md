@@ -65,6 +65,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft announced its first customer product features powered by … – Microsoft"
+    excerpt: "At its Build developers conference, Microsoft unveiled its first features in a customer product powered by GPT-3, the powerful natural language model developed by OpenAI, which will help users build apps without needing to know how to write computer code or formulas."
+    publishedDateTime: 2023-09-09T11:02:00Z
+    webUrl: "https://www.inferse.com/708328/microsoft-announced-its-first-customer-product-features-powered-by-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 14
 
 secured: "vI6+jlVvBUQMeIJXayjmzF2xGC+vEUuf2WN+VBPUQTCC7A1IdgJxOTJj9YmSlyP98ootf9oHSyjKKdx1jTRAcUJV3Ufhkeb70xFc8svxrUyf70MPUkGg9rL8TMq/1YUGKayOkwiTilshASW4jK5FmqFc6jJ/gCarcVEG8OOat26OtMPd2XgP3R6DTi3UpCJvEoZP0Z6AsIHf01SjMR2i9fmxKGndgQtVjz/AVcs29Ru+Qdu6Cres/cyvfuDYWVPoOZDO9v8yzbnb3NdpdUrpoGUSxX1+CCvnGbxM551Aq6941GpGXFZGmY74VvIhCr4fucJLio0GfPa0mva59XBjddd9nuS5eNMRU8KY5vwWQVg=;MI2cRNbODMCpJ8YvyKgaSg=="
 ---

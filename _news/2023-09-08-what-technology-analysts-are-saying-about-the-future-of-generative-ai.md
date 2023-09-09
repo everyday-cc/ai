@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/what-analyst-are-saying-abo
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-analyst-are-saying-about-the-future-of-generative-ai/"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -141,6 +141,15 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 17
+  - title: "Employing Generative AI: Unpacking the Cybersecurity Implications of Generative AI Tools"
+    excerpt: "It’s fair to say that generative AI has now caught the attention of every boardroom and business leader in the land. Once a fringe technology that was difficult to wield, much less master, the doors to generative AI have now been thrown wide open thanks to applications such as ChatGPT or DALL-E."
+    publishedDateTime: 2023-09-05T18:40:00Z
+    webUrl: "https://www.unite.ai/employing-generative-ai-unpacking-the-cybersecurity-implications-of-generative-ai-tools/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 8
 
 secured: "0dnd9AF+yuNk8Fv9wEIkUXk3x6C7aeB6WkpoOUUGQkQkJrtFRvq6L6miIw6TYU0gZbnPbnzH81T0PN8bCQ8Wt8tOCvvadFMGEqSLsGbKFP/2YLfgUBiWVt+TwHfxipPvXbvwhcXn/PJkclL5L/J9JIOrXljcYMoXw+lpDIlEm5z/rGCIV1T8NloRZy2Tfi6bwDOUhWdqGyI9+/M7jsKbOUWppZ9TbeR/IY5tawpf2t2EW1ZAdQS9gvoaPU3F8+96HW654S6OA6NLL09W3zbUxvaZ4KbPwp0XP7Uvsi/9jt1uCLxf4l+MjeM326fqRSTuSd63pVmqFKl4RwjZWwWcP4BLcReTQ2a93sopB6NbgeqEa2OrD5/CH6cdn8BffZgzHuKG/hr10ym2ZvB2IIthjUo2TzSgZLDH3nrNXKY4ZSOCYZBSx2g2PHSi+VDM9vHofBZ3/MLv7PExvRIVq27lJ56C/S6FisHzD/bPhy/CLJtdygfPERrfPmJhXGVAaiVYNVoAuQ3oEIDs+a7wfqjiMA==;58Bo8LT6jjJe2uhizntN+Q=="
 ---

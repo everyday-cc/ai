@@ -295,6 +295,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
+  - title: "Microsoft, Paige to build world’s largest AI model to fight cancer"
+    excerpt: "Paige developed the first large foundation model using over one billion images from half a million pathology slides across multiple cancer types."
+    publishedDateTime: 2023-09-09T13:19:00Z
+    webUrl: "https://telanganatoday.com/microsoft-paige-to-build-worlds-largest-ai-model-to-fight-cancer"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 34
   - title: "Charlotte firm partners with Microsoft to leverage generative artificial intelligence"
     excerpt: "Ally Financial Inc. is fully embracing generative AI after the launch of ChatGPT late last year unveiled the technology's revolutionary potential."
     publishedDateTime: 2023-09-07T18:25:00Z

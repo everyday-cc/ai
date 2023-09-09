@@ -41,6 +41,22 @@ related:
         width: 533
         height: 405
         isCached: true
+  - title: "BIZCLIK MEDIA LAUNCHES SEPTEMBER EDITIONS OF FINTECH MAGAZINE & INSURTECH DIGITAL"
+    excerpt: "The September editions of FinTech Magazine and InsurTech Digital includes interviews with leading experts and executives from Volt.io, Fiserv, HSB Canada and Generali Vitality LONDON, Sept. 8, 2023 /P"
+    publishedDateTime: 2023-09-08T15:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/n34364571/bizclik-media-launches-september-editions-of-fintech-magazine-insurtech-digital"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34364571"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34364571"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "You Don't Have to Pick a Winner in Fintech. Here's Why."
     excerpt: "Artificial intelligence (AI) is on every investor's mind these days ... As you can see, there are lots of ways to gain direct exposure to the fintech sector. Investors who prioritize safety and thus want less risky options can look at Visa and Mastercard."
     publishedDateTime: 2023-09-05T06:26:00Z
@@ -132,15 +148,6 @@ related:
     provider:
       name: Mint
       domain: livemint.com
-    quality: 0
-  - title: "BIZCLIK MEDIA LAUNCHES SEPTEMBER EDITIONS OF FINTECH MAGAZINE & INSURTECH DIGITAL"
-    excerpt: "This month's edition features an extensive lead interview with, HSB Canada's Vice President Client Solutions and Innovation, Lasith Lansakara and VP, Head of Information Technology, Michael Scarbeau about the company's journey through almost 150 years of insurance transfomation."
-    publishedDateTime: 2023-09-08T16:36:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/09/08/9877716.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
     quality: 0
 
 secured: "uEZEo9synl2AUKBhEz/vCoXPkbb26RWZuJjvXCu62+Uu/oiuIPsgnWcQez+okCTHr0GhCM6m+my+O9EN15jzXmXdS7c1iQPHfWkVEbjdVA6Zt2ZcyrggZv9vWlAxsxFdKpblirc6HKT8qSXyXdT4+IyRW8bYwKLlQDfTcbQgKrBmQ51sPTIIhoOQpA1WYviCvHrYSjdmrxf+L/sqt5F6rHvVXibkYrqdFpS0ZXoRPQKzSqyW2DnMbwuTVdExi85Qv1eocULyQ8gtYoRqk5fvJ6cqFnGI5zJCH/Qo8lDjh7SSJH7AF6+m78kxi0zSZc/GwKJe6i6mdk44ww/yRo5vongKAjhqvM8Hw7lB2ezH5kXNsjPJNXRpy3iUPVhmaDxXDkqvVzYxXSlH1V1kq/GaCXhONWy+B/W6jHvGkOdl3sTmdHymaaI658WntQkWjlAol1J5a6vxtpfP2qZGSY89y3CQ9r16sySXXjDGSq2+gI6P/LJDnH2L4aTrc7SOgfBxu6VArWwuRahpjVbcu7LZoQ==;lYouEgak+C+t/ff3J1/mHw=="

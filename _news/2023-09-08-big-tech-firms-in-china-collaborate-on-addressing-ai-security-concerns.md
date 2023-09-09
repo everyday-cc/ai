@@ -7,7 +7,7 @@ originalUrl: "https://technode.com/2023/09/08/big-tech-firms-in-china-collaborat
 webUrl: "https://technode.com/2023/09/08/big-tech-firms-in-china-collaborate-on-addressing-ai-security-concerns/"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 2479
     height: 1372
     isCached: true
+
+related:
+  - title: "Global DevSecOps Report on AI Shows Cybersecurity and Privacy Concerns Create an Adoption Dilemma"
+    excerpt: "GitLab survey finds organizations are optimistic about AI, but AI adoption requires attention to privacy and security, productivity, and"
+    publishedDateTime: 2023-09-05T21:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-devsecops-report-on-ai-shows-cybersecurity-and-privacy-concerns-create-an-adoption-dilemma-1032606858"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
 
 secured: "0qRNjUAzzEvaWzqF2osMAMth0aw4wyJ2ToriHUflKplQs0nKFRySD8sHtmNdLqiDkwvpLNMlOVnNUoia21cV4h+t8YEKgL6FiQQcAZ1sCveT9Bbv9guOh6xYCOxpy27Rh0bSXomq5gmVKzhQ8dCgNsK+a2M4VuXbGjFbWnSa8AYEcAgKrO9JvJY+3HsFkzunZy/hfWcWreKy7Ga4afzzLVKhnWKnGBkYSSgp+rbmliwpNfAAf8U674LF5lGUEHpXlCcoRerZuFmrCr+5zHYCzMO+c9T2dEjTi0XcVQupcnfDfxoedIHtUn+AcvoLqHuofSRLjOneVlMPlEXorlH4mXAeU0cqHfLmcUZ4ZwckQVc=;e4BxcqvnMbOmg/gh1dfDDg=="
 ---

@@ -3,12 +3,10 @@ category: news
 title: "Amazon to require some authors to disclose the use of AI material"
 excerpt: "NEW YORK -- After months of complaints from the Authors Guild and other groups, Amazon .com has started requiring writers who want to sell books through its e-book program to tell the company in advance that their work includes artificial intelligence material."
 publishedDateTime: 2023-09-08T18:09:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/amazon-require-authors-disclose-ai-material-103042284"
-webUrl: "https://abcnews.go.com/US/wireStory/amazon-require-authors-disclose-ai-material-103042284"
-ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/amazon-require-authors-disclose-ai-material-103042284"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/amazon-require-authors-disclose-ai-material-103042284"
+originalUrl: "https://abcnews.go.com/Technology/wireStory/amazon-require-authors-disclose-ai-material-103042285"
+webUrl: "https://abcnews.go.com/Technology/wireStory/amazon-require-authors-disclose-ai-material-103042285"
 type: article
-quality: 57
+quality: 17
 heat: -1
 published: false
 
@@ -18,12 +16,6 @@ provider:
 
 topics:
   - AI
-
-images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
-    isCached: true
 
 related:
   - title: "Google: Political adverts must disclose use of AI"
@@ -153,6 +145,6 @@ related:
         height: 377
         isCached: true
 
-secured: "aC8GfJ2oxMzsFTWPnglK86A91ocK1KhDuOE68Yb7YqZfTg2buxybTvxRZpYq9diTlpM9BTth7FRaggEIolDdpA5DqgfjB56eR0vxDIKLdbBWir6jhBJLG+r8z27DODOKS+ub6qmzqN9ELdwW1N2XXtsFRbVVg+c6QY0XgHnelnuoj/KmnqR/DLxp39ALzvXLPnc+zXDtC8ISkJ3TvoKLEHl+LqY9ZFgq0ueTcXyUcJfgtVWRdN2U/IHKJ+mSXztLSpvHmGZ4AeAqUW+CLLX7RQNRez+wpUAH9b/sJ2D7qotOIJxTqeFM9aCb2oWuzMfnj6emff44wwj7PWgnUrIml/U4O5gee//1VQHbJRGISBs=;1TlgiIPma+bGoOodfLT3gQ=="
+secured: "I9t/8L/LisvMTcj6N9a8Nygyh4PB541Ex9/yj4xiB7khB3xCz+HyXDrjt5tOTOTwWTYek9tB2tnL2nmao99XUv56SlYlpb9kWlXLHIQtPcsMc3AmwmNw5CtmKFPh2eepkeGdU20fPPXCAuruMGr2V1xcfL1KFYb10eQpRpJT3MdgDzDlpjcfS84hmhCR7olPbX89Yb/vPqkrgNb0QqQaPK09gtbsFolpTsnH3xbukbL0kuRQhXMxNscdk0Kovnrn6D3OwEffovQsPXe799yvbvcPcb+JCUiZfdNvo4maSDochx1QrZ0fjCer0Ykvp/gKN6p8A4KWU48Mb2+U8YzBAG7e+ux+lr/UBzqxYdVw5QJsRUbaaTbfnGbQ18s5lh67HHm0N5J691cVgV9RI3TImfXPDW4e3i5UFkdT3SGWxYfEmu32/Z+H+FKo1JpBfl7gOfYVUgXWYWWYYa2/irvYMnG0+q941bWka+vulrJfLa4oZOhijsSgR0o7+nOkCxfhkGzqWLoWPDgP7/KCoXcWnA==;pBDhLJd7D1yafeREDBTzsQ=="
 ---
 

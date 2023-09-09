@@ -7,7 +7,7 @@ originalUrl: "https://www.economist.com/podcasts/2023/09/08/how-will-ai-influenc
 webUrl: "https://www.economist.com/podcasts/2023/09/08/how-will-ai-influence-the-2024-election"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,24 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI at an inflection point: What’s next for real-world adoption?"
-    excerpt: "All of this points to the current scarcity of these chips in the face of surging demand. Does this current demand mark the peak moment for gen AI, or might it instead point to the beginning of the next wave of its development? How generative tech is ..."
-    publishedDateTime: 2023-09-04T19:31:00Z
-    webUrl: "https://venturebeat.com/ai/generative-ai-at-an-inflection-point-whats-next-for-real-world-adoption/"
+  - title: "Artificial intelligence in 2024 election: What might that look like?"
+    excerpt: "Chat GPT is worried that people will use OpenAI to generate targeted political ads filled with misinformation. That could spell bad news for U.S. politics. Keep KCRW Independent. KCRW is here to provide you with local news, music discovery, and cultural ..."
+    publishedDateTime: 2023-09-06T21:16:00Z
+    webUrl: "https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/far-right-opioids-ai-mikki-kendall/chatgpt-political-speech"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "Don’t rush ethics in generative AI adoption plans"
-    excerpt: "Even when leaders feel the pressure to adopt generative AI quickly, ethical frameworks and use case policies should guide their plans."
-    publishedDateTime: 2023-09-05T12:58:00Z
-    webUrl: "https://www.ciodive.com/news/generative-AI-ethics-policy/692590/"
+      name: KCRW
+      domain: kcrw.com
+    quality: 37
+    images:
+      - url: "https://www.kcrw.com/++theme++kcrw.theme/images/KCRW_Logo_White.png"
+        width: 542
+        height: 384
+        isCached: true
+  - title: "Inflection AI co-founder Mustafa Suleyman: ‘Ban the use of AI in elections–right now’"
+    excerpt: "Free and fair elections are the foundation of American society–and next year’s are going to be the first of the generative AI era."
+    publishedDateTime: 2023-09-05T19:33:00Z
+    webUrl: "https://www.aol.com/finance/inflection-ai-co-founder-mustafa-163416358.html"
     type: article
     provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 34
+      name: AOL
+      domain: aol.com
+    quality: 10
 
 secured: "SMUVHZuK5Gzg6IoG7S1MOPxwo/ureB7zj1FE8jpJO2d8w9X4q0C0qr4s2ac6ZSc+dan9ReXNq2vjK5CsAZC8iOSnYjfCh8t1xcYqSqY1xD0uePKAAfdjR8lozNPBoUbKcw6cMPzhbUqziEGzFBsnILzFpDppCEc7sNcTGHONkJnYZKwdu4y7vrzDlfV8WW9EqoVrnmQOgNXzEhpUOw+baICSw2KqwtfUI+O6nYB9DY9wKvwRYL0UUpNzlyiT32my4R4C6aWVqJGEymtfrJM5GTAbw0EKprr50D7oVt8O8sXO2mukUjHwBslKz/dRJKXl+H+rYGMGpWhRYKwh4GMq01DUVqncX2bR3TfpU/jUlAU=;EGTrbuoKMbm4dgLhu52oGA=="
 ---

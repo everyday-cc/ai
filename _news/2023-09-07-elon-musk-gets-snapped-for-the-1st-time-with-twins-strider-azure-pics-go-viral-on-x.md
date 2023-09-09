@@ -41,15 +41,6 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "Artificial Intelligence-generated image of Elon Musk in Arab attire takes the internet by storm"
-    excerpt: "In the photo published on X account bearing the name Elon Musk (Parody), the Artificial Intelligence-generated image shows Musk appearing smiling, wearing a white dress, with embroidery on the chest, a ghutra and a headband, with the caption ..."
-    publishedDateTime: 2023-09-04T19:09:00Z
-    webUrl: "https://gulftoday.ae/news/2023/09/04/artificial-intelligence-generated-image-of-elon-musk-in-arab-attire-takes-the-internet-by-storm"
-    type: article
-    provider:
-      name: gulftoday
-      domain: gulftoday.ae
-    quality: 5
 
 secured: "lCkpcFBQCP2RWE9CBJvv6m7VgDePDXQIftrqM1eb6SjnlEcX/sYw475CC5I+H+09xVxsFTbXCQltaUqV9bmF34o89jfg5Gg4srbBYuRSDG26N3xY4L25mqUV169SQ3O5h7cNe2FQJlCraf/LdpPTucV+PY23eEnsdB60iAzsU9cnfu5Q/XeWfb/xr4CBwU5DUJc1DX9jrX+s5rqOqyEq9QaJJb+L5PSj3KzBPIbkSLj9YF77d7dlkEyn6hxSNFNrnnFgssIMaICH1aoXjsle7k+/MUeRY3qAPc4j6CcaMaMEBOm2ICsBfSNC/Jx2iUw2540khxsL8RZfVLG7eQA8G2OKFzSJhwYnCoD9LoTzbxc=;zAHP4tRpcP5y+1htkFj5pA=="
 ---

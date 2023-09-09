@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/uk/advisor/investing/best-artificial-intell
 webUrl: "https://www.forbes.com/uk/advisor/investing/best-artificial-intelligence-ai-stocks-shares/"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Best Artificial Intelligence (AI) Stock to Buy: Nvidia Stock vs. Snowflake Stock"
-    excerpt: "Fool.com contributor Parkev Tatevosian compares Nvidia (NVDA-1.71%) and Snowflake (SNOW 0.15%) to determine which stock is better for investors looking to capitalize on the AI trend. *Stock prices used were the afternoon prices of Sept. 2, 2023. The video ..."
-    publishedDateTime: 2023-09-04T19:24:00Z
-    webUrl: "https://www.fool.com/investing/2023/09/04/best-artificial-intelligence-ai-stock-to-buy-nvidi/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 57
   - title: "10 Fastest Growing AI Stocks To Buy"
     excerpt: "Artificial intelligence (AI) stocks started to take the market by storm at the start of this year and this AI boom remains heating up."
     publishedDateTime: 2023-09-07T20:21:00Z

@@ -53,6 +53,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "How savvy trillion-dollar chipmaker Nvidia is powering the AI goldrush"
+    excerpt: "The US firm best known for its gaming tech has long been ahead of the curve in supplying the tools needed by tech developers"
+    publishedDateTime: 2023-09-09T13:59:00Z
+    webUrl: "https://www.theguardian.com/technology/commentisfree/2023/sep/09/nvidia-processors-ai-artificial-intelligence-chip-goldrush-intel?ref=biztoc.com"
+    ampWebUrl: "https://amp.theguardian.com/technology/commentisfree/2023/sep/09/nvidia-processors-ai-artificial-intelligence-chip-goldrush-intel"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/commentisfree/2023/sep/09/nvidia-processors-ai-artificial-intelligence-chip-goldrush-intel"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/1def897e33dc15835e4b3582d4f63cd562cd7c71/0_100_3000_1800/master/3000.jpg?width=620&quality=85&auto=format&fit=max&s=0ca5b66faf04cf8a4a7bd4a33935725f"
+        width: 620
+        height: 372
+        isCached: true
   - title: "NVIDIA, Tata Group to work together on AI computing infrastructure, platforms"
     excerpt: "The companies will work together to build an AI supercomputer powered by the next-generation NVIDIA GH200 Grace Hopper Superchip to achieve high quality performance."
     publishedDateTime: 2023-09-08T15:09:00Z
@@ -150,15 +166,6 @@ related:
       name: devdiscourse
       domain: devdiscourse.com
     quality: 35
-  - title: "Saudi Arabia and UAE race to buy Nvidia chips to power AI ambitions"
-    excerpt: "Saudi Arabian Crown Prince Mohammed bin Salman, left, and Nvidia chief Jensen Huang. The Gulf state’s interest in AI has sparked concerns over the technology’s ..."
-    publishedDateTime: 2023-09-04T20:11:00Z
-    webUrl: "https://www.ft.com/content/c93d2a76-16f3-4585-af61-86667c5090ba?sharetype=blocked"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
   - title: "Nvidia partners with Reliance Jio for 2,000MW of AI data centers, Tata for AI cloud in India"
     excerpt: "With Reliance, Nvidia will build AI infrastructure that is \"over an order of magnitude more powerful than the fastest supercomputer in India today,\" it claimed. Reliance will use"
     publishedDateTime: 2023-09-08T15:48:00Z
@@ -191,15 +198,6 @@ related:
       name: Mint
       domain: livemint.com
     quality: 16
-  - title: "Nvidia's Jensen Huang Eyes India's AI Future In High-Level Meeting With Prime Minister Modi"
-    excerpt: "Nvidia's latest A100 AI chip, powered by the Ampere architecture, is widely used for training ChatGPT and other large-language models. See Also: Best Artificial Intelligence Stocks Why It’s Important: Commenting on Huang’s India visit, Nvidia said in a ..."
-    publishedDateTime: 2023-09-04T19:11:00Z
-    webUrl: "https://www.benzinga.com/markets/asia/23/09/34213117/nvidias-jensen-huang-eyes-indias-ai-future-in-high-level-meeting-with-prime-minister-modi"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 9
 
 secured: "Sj/viXcj9Id38EdtBGUo0Uux/FxrTHhlxQt3qbS76zgE9fLOKFzREDtNfDgET+ZuwehgHBgaMWnhR0rneG24uhbhC5Sl7ZpPv9iKLCsXCol5lSM9JIZXA7o2Zb7ptHdIlStkC+HY3bG+nhZHmB8mVBo/gqWExluZTMnVr8/olcKC//LQ4wg0Za3WspCNGdKT1wsLeSYGb61hbWsW848GKqwkDohrCbFIFdASc6fbN3v40DmEWUvyTd1j4XPcXS9jS96sS8WGGRP0rN3KHJUAv5clL7TKah06Kh4RVZYKVSg6uu+D+q3X7V8lunJfwiRDZMlTA44A1nMlrrbsTiswVivgPV9OpBAdwdGCLdEKpl1oMpsNu/14G+plGIfMnS2S4gAEsT5mStuHrXjJeRGZk1fjW6B5e6tWgocKkU/aWlaF/Tx6SyzqrhX3+2vykEWCuRpFbzdXd7H/Ehm0m8IBQHOfSY6Do1eQG3Ec1eGkAfb42iIyMifPqd6f+MhTtYgfaurWAwSHWVoFuYlUs2zcPQ==;8HOVZJBVR9bE1hH0Vd6EIA=="
 ---

@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "How will AI influence the 2024 election?"
+    excerpt: "How worried do we really need to be about AI’s potential to undermine democracy? Chihhao Yu of the Taiwan Information Environment Research Centre explains the threat posed by Chinese misinformation campaigns. We go back to when sensationalist journalism ..."
+    publishedDateTime: 2023-09-08T16:52:00Z
+    webUrl: "https://www.economist.com/podcasts/2023/09/08/how-will-ai-influence-the-2024-election"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 39
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230909_PDP508.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Artificial intelligence in 2024 election: What might that look like?"
     excerpt: "Chat GPT is worried that people will use OpenAI to generate targeted political ads filled with misinformation. That could spell bad news for U.S. politics. Keep KCRW Independent. KCRW is here to provide you with local news, music discovery, and cultural ..."
     publishedDateTime: 2023-09-06T21:16:00Z

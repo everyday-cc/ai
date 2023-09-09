@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "September Rally? 3 AI Stocks to Buy Before Liftoff"
-    excerpt: "Executives at AMD have said that the new microchip, which they plan to begin shipping by year-end, is a direct challenge to Nvidia’s current dominance with AI chips. The biggest foray yet into AI for AMD, the MI300X chip was designed for large language ..."
-    publishedDateTime: 2023-09-04T22:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/september-rally-3-ai-stocks-to-buy-before-liftoff-1032603562"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Ranking the 5 Best Meme Coins for September 2023"
     excerpt: "Shiba Memu leverages artificial intelligence to interact with crypto forums and social media platforms, and by using advanced natural language processing (NLP), it creates a bridge between technology and community, reaching new audiences and maintaining an ..."
     publishedDateTime: 2023-09-05T05:12:00Z

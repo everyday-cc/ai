@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-to-reveal-ai-plan
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-reveal-ai-plans-for-onedrive-in-october-event/"
 type: article
 quality: 104
-heat: 334
+heat: 344
 published: true
 
 provider:
@@ -289,6 +289,15 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
+    quality: 34
+  - title: "Microsoft, Paige to build world’s largest AI model to fight cancer"
+    excerpt: "Paige developed the first large foundation model using over one billion images from half a million pathology slides across multiple cancer types."
+    publishedDateTime: 2023-09-09T13:19:00Z
+    webUrl: "https://telanganatoday.com/microsoft-paige-to-build-worlds-largest-ai-model-to-fight-cancer"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
     quality: 34
   - title: "Microsoft Says It Will Pay Tab for Infringement Suits Against Its AI Customers"
     excerpt: "The tech giant says it doesn't want uncertainties surrounding patent infringement law for generative AI to scare away customers from its Copilot tool."
