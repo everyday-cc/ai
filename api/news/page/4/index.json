@@ -522,6 +522,57 @@
       ]
     },
     {
+      "path": "_news/2023-09-06-kindo-raises-7m-for-ai-productivity-platform-for-businesses.md",
+      "title": "Kindo raises $7M for AI productivity platform for businesses",
+      "excerpt": "Kindo has successfully raised $7 million in seed funding for the launch of its secure AI productivity platform for businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/kindo-raises-7m-for-ai-productivity-platform-for-businesses/",
+      "originalUrl": "https://venturebeat.com/ai/kindo-raises-7m-for-ai-productivity-platform-for-businesses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/09/kindo.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-05T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-05-how-carrier-predicts-hvac-faults-using-aws-glue-and-amazon-sagemaker.md",
       "title": "How Carrier predicts HVAC faults using AWS Glue and Amazon SageMaker",
       "excerpt": "In this post, we show how the Carrier and AWS teams applied ML to predict faults across large fleets of equipment using a single model. We first highlight how we use AWS Glue for highly parallel data processing. We then discuss how Amazon SageMaker helps us with feature engineering and building a scalable",
@@ -582,7 +633,7 @@
       "originalUrl": "https://www.forbes.com/sites/stevenaquino/2023/09/05/inside-googles-image-qa-on-android-and-using-ai-for-all/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1134,59 +1185,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-what-openai-really-wants.md",
-      "title": "What OpenAI Really Wants",
-      "excerpt": "Then we’re going to have systems that can do basic cognitive labor ... one of the world’s most desirable new customers for its Azure web services. With those rewards in sight, Microsoft wasn’t even bothered by the clause that demands reconsideration ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/what-openai-really-wants/",
-      "originalUrl": "https://www.wired.com/story/what-openai-really-wants/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/64ed0bc52da6c6d86e70e575/191:100/w_1280,c_limit/WI100123_FF_OpenAI_01.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-05T04:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

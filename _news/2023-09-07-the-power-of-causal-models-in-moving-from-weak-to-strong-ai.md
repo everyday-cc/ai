@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/07/the-power-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/07/the-power-of-causal-models-in-moving-from-weak-to-strong-ai/amp/"
 type: article
 quality: 87
-heat: 99
+heat: 97
 published: true
 
 provider:

@@ -2,6 +2,59 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-09-05-what-openai-really-wants.md",
+      "title": "What OpenAI Really Wants",
+      "excerpt": "Then we’re going to have systems that can do basic cognitive labor ... one of the world’s most desirable new customers for its Azure web services. With those rewards in sight, Microsoft wasn’t even bothered by the clause that demands reconsideration ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/what-openai-really-wants/",
+      "originalUrl": "https://www.wired.com/story/what-openai-really-wants/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/64ed0bc52da6c6d86e70e575/191:100/w_1280,c_limit/WI100123_FF_OpenAI_01.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-05T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-09-05-the-human-touch-unleashing-competitive-advantage-in-the-age-of-artificial-intelligence.md",
       "title": "The Human Touch: Unleashing Competitive Advantage In The Age Of Artificial Intelligence",
       "excerpt": "The human touch, comprising judgment, creativity, and emotional intelligence, remains a crucial element in creating a unique and lasting edge in today's highly competitive business landscape.",
@@ -1171,57 +1224,6 @@
         "AI Ethics",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-09-04-your-ai-doctor-will-see-you-now-how-technology-is-disrupting-medicine-and-beyond-in-south-africa.md",
-      "title": "Your AI doctor will see you now: How technology is disrupting medicine and beyond in South Africa",
-      "excerpt": "Artificial intelligence remains hotly contested, but scientists in South Africa are spearheading its development across various sectors, from healthcare to hospitality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/videos/tv/2023/08/31/inside-africa-technology-is-disrupting-medicine-and-beyond-in-south-africa-spc-intl.cnn",
-      "originalUrl": "https://www.cnn.com/videos/tv/2023/08/31/inside-africa-technology-is-disrupting-medicine-and-beyond-in-south-africa-spc-intl.cnn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230904095302-inside-africa-technology-is-disrupting-medicine-and-beyond-in-south-africa-spc-intl-00023730.png?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/tv/2023/08/31/inside-africa-technology-is-disrupting-medicine-and-beyond-in-south-africa-spc-intl.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/tv/2023/08/31/inside-africa-technology-is-disrupting-medicine-and-beyond-in-south-africa-spc-intl.cnn",
-      "publishedDateTime": "2023-09-04T02:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

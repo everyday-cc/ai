@@ -37,6 +37,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Indigenous voice to parliament is nothing to fear"
+    excerpt: "Before I get into this horridly divisive and increasingly personal voice debate, let me share some positive words about what is, after all, an optimistic and uplifting proposal. The case for voting Yes has not been put more eloquently,"
+    publishedDateTime: 2023-09-08T23:30:00Z
+    webUrl: "https://www.theaustralian.com.au/inquirer/the-indigenous-voice-to-parliament-is-nothing-to-fear/news-story/7eaf8e870065d930ebcdd0cd367dab78"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 4
 
 secured: "/TPSadDIfor2Sh7zO4H4h8+B6D0zftPv/pamZH44c56xq6RNS7iCpZSMG8cn4+JC5yCoYiBafOBFuUy5M9mzfZt3Qw753p3SsmmFwSP9XNOmiC5mShL1ZNlvlXSN0CMDSFWV6s06gsF/Zm8lunAQzQnmzVEdPSgchwCq//KSvhY5dJAcyBr1bF9xyEYQSFZeW0KGpAhGtRAmZWPKbnc6qnHC5YQdZWFiEfYcauyWXSm+Zxc1gtL5AZxMlspoCUiMuVceLL4pBp90QGQjVkAfOmzzEpidU3N7MD9lkzml4PkKEBBVJoUOycsG8YIUC6R0X2QuuTC94i9sCeIHBL5NGNDSNtPaUqI7G7VJXuM1r0sJ92jAiTfihjh1CtUH6k9T/fO7lCKeOAF4wDWizjoehfxHDtBqtjmw36OOeRCmuydDH9iM/63uYqJyq4idE13jCR2fkba8Hwe9hQLx6Q9SnSmo6vroWSyCovuu+WS8rpm1caFzTUVoVgyZd/8n7oI4MGYBlZHpttWwq+yRZOXmoA==;AVpjyJirurl8HmYFcisGcQ=="
 ---

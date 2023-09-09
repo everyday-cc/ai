@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Self-driving car revolution is coming, but slowly"
+title: "Self-driving Car Revolution Is Coming, But Slowly"
 excerpt: "In Munich, where this week's IAA motor show is taking place, an interactive street survey elicits an overwhelming \"yes\" when asking passers-by if they would take a self-driving taxi from the station to the Oktoberfest beer festival."
-publishedDateTime: 2023-09-07T08:01:00Z
-originalUrl: "https://techxplore.com/news/2023-09-self-driving-car-revolution-slowly.html"
-webUrl: "https://techxplore.com/news/2023-09-self-driving-car-revolution-slowly.html"
-ampWebUrl: "https://techxplore.com/news/2023-09-self-driving-car-revolution-slowly.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-self-driving-car-revolution-slowly.amp"
+publishedDateTime: 2023-09-07T05:30:00Z
+originalUrl: "https://www.barrons.com/news/self-driving-car-revolution-is-coming-but-slowly-9c5588b2"
+webUrl: "https://www.barrons.com/news/self-driving-car-revolution-is-coming-but-slowly-9c5588b2"
+ampWebUrl: "https://www.barrons.com/amp/news/self-driving-car-revolution-is-coming-but-slowly-9c5588b2"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/self-driving-car-revolution-is-coming-but-slowly-9c5588b2"
 type: article
 quality: 44
 heat: 44
 published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: Barron's
+  domain: barrons.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2023/so-far-full-self-drivi.jpg"
-    width: 1280
-    height: 800
+  - url: "https://www.barrons.com/asset/external-media/afp/AFP9643577245828168390437146037747688022783---1.jpg"
+    width: 768
+    height: 480
     isCached: true
 
 related:
@@ -124,6 +124,6 @@ related:
       domain: barrons.com
     quality: 4
 
-secured: "cy0n8Fr5ihBYpMpqYedUGJkIXpEvhz2RwruQpCo1Q6efRQHWuX+IADsExD/mbwf0VyosTGkN8bNQwugUrh5VDseu/huidnE7t8nQcN5cM6oVNZYtxt4FRtq2kuJWnih0sTqRr61XrZ9D6E3klDBf3CHYn6S+2O8npGIr4XI4NdC6v11CJtd3kglfvE1CkC+7hhrSUmESx7QTQxuLQN+tNccnij1fxyBppJ4NyBuBSy2ctmuzzjgG1dg8KRtVt/UPfmOZWICwKeI5tk8DUx2DOVXwx5K6eO7eW6OsGKvRQSO5HPnruKLOUs0fs51/QhGVdR70C7ZHnpS45nRseetXUudQQk/w+nH22l2INeaTxdza8DXO5feHSEEF6AYqvYNX2ax3nvddH2tHRl9efJrJ7DrBIKIvilGvBpMXPODnajF5JJxPZI2okV9E3i1JVRkRW7hCpkUVsdbUQ0pw82PkSuY18N3l7zSy/lGCH84quwzvYOSrgc+Zh2sTLKMEqR+WsngRSTp5SBKdofWcPFCWeA==;RDY4Sl2quu28v7whH8JwnQ=="
+secured: "0DTsKHphdNNK9J1UxrWgCvinoHQvEN68tDxS0/RN6yYuDn5jMUp3Sci8bL/CrPPY5ZBCszCzNbx10HqRaKw/JRNrXNqzZsrngQj2o9AsMb98Ug2eyWLGZ7rS0l5H3N7bhI8K/e3+GFq76qgvLf+E0jTKtijeqP9unnGs8ad/i6Zy1SOuu4AFGfGlEYJykpmmJFOQ/M/R7Vrn9pff+zOd6Fzd+g/89j+BidynfgTMaNYBRcWwcGOKPfwTs2NwiEq9PX81kGwzzAimMTp+lMVz1hvSnwlDMtEz0EUqJpjBsG46vonSp03e62j7pj5jK1Im5hHnJMSdZHV16gVRHaT8yAo3EE3z+bSIJCfB+50Oddc=;fJRWZ6jvWOfVGXlJoLlb3A=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2023-07-26-ge-healthcare-ceo-on-advances-in-alzheimers-treatment-a-breakthrough-moment-for-patients.md",
+      "title": "GE HealthCare CEO on advances in Alzheimer's treatment: 'A breakthrough moment for patients'",
+      "excerpt": "GE HealthCare CEO Peter Arduini discussed his company's role in Alzheimer's treatment with CNBC's Jim Cramer on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/07/25/ge-healthcare-ceo-touts-breakthrough-moment-for-alzheimers-patients.html",
+      "originalUrl": "https://www.cnbc.com/2023/07/25/ge-healthcare-ceo-touts-breakthrough-moment-for-alzheimers-patients.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107253594-1686246162711-gettyimages-1418953592-vcg111398371069.jpeg?v=1690327099",
+          "width": 5310,
+          "height": 3540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/25/ge-healthcare-ceo-touts-breakthrough-moment-for-alzheimers-patients.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/25/ge-healthcare-ceo-touts-breakthrough-moment-for-alzheimers-patients.html",
+      "publishedDateTime": "2023-07-25T14:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-26-microsoft-reports-201b-quarterly-profit-as-it-promises-to-lead-the-new-ai-platform-shift.md",
       "title": "Microsoft reports $20.1B quarterly profit as it promises to lead 'the new AI platform shift'",
       "excerpt": "Analysts polled by FactSet Research had been looking for revenue of $55.49 billion. CEO Satya Nadella said the company remains focused on “leading the new AI platform shift,\" though its push to ...",
@@ -1189,40 +1241,6 @@
         "AI in Robotics",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-google-deepmind-strategy-partner-technology-claudia-van-der-salm-proposed-for-election-to-greater-thans-board-of-directors.md",
-      "title": "Google DeepMind, Strategy Partner, Technology, Claudia van der Salm proposed for election to Greater Than's Board of Directors",
-      "excerpt": "Van der Salm currently holds the position of Strategy Partner, Technology, at Google DeepMind, a unit of Google. Google DeepMind is committed to solving intelligence to advance science and benefit ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/google-deepmind-strategy-partner-technology-claudia-van-der-salm-proposed-for-election-to-greater-thans-board-of-directors-301885059.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/google-deepmind-strategy-partner-technology-claudia-van-der-salm-proposed-for-election-to-greater-thans-board-of-directors-301885059.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-25T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

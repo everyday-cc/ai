@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevenaquino/2023/09/05/inside-googles-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2023/09/05/inside-googles-image-qa-on-android-and-using-ai-for-all/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 109
 published: true
 
 provider:

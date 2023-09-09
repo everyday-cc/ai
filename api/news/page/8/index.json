@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-09-01-the-true-cost-of-bad-data-and-how-it-can-hinder-the-benefits-of-ai.md",
+      "title": "The True Cost Of Bad Data And How It Can Hinder The Benefits Of AI",
+      "excerpt": "As AI becomes more sophisticated, it is imperative for organizations to develop standards for ethics within AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/01/the-true-cost-of-bad-data-and-how-it-can-hinder-the-benefits-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/01/the-true-cost-of-bad-data-and-how-it-can-hinder-the-benefits-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64f0c1d38a74946c489f530e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 591,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/01/the-true-cost-of-bad-data-and-how-it-can-hinder-the-benefits-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/01/the-true-cost-of-bad-data-and-how-it-can-hinder-the-benefits-of-ai/amp/",
+      "publishedDateTime": "2023-09-01T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-01-us-denies-imposing-export-controls-on-nvidias-ai-chips-for-select-middle-eastern-countries.md",
       "title": "US denies imposing export controls on Nvidia’s AI Chips for select Middle Eastern countries",
       "excerpt": "Biden administration to restrict the export of Nvidia's cutting-edge (AI) computer chips to select countries in the Middle East",
@@ -1153,40 +1205,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-datavisor-appoints-financial-services-industry-expert-kevin-mcwey-as-new-chief-revenue-officer.md",
-      "title": "DataVisor Appoints Financial Services Industry Expert Kevin McWey as New Chief Revenue Officer",
-      "excerpt": "DataVisor, the world’s leading AI-powered fraud and risk platform, today announced the appointment of Kevin McWey as the new Chief Revenue Officer (CR",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20230831574733/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20230831574733/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-31T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

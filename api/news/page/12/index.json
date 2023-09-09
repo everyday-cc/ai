@@ -2,6 +2,57 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-08-30-exclusive-hex-adds-to-ai-grab-for-san-francisco-office-space-with-new-lease.md",
+      "title": "Exclusive: Hex adds to AI grab for San Francisco office space with new lease",
+      "excerpt": "Hex is the latest AI company to add lease office space in San Francisco, a bright spot in a city looking for a recovery. Hex, a startup focused on data and artificial intelligence, is the latest tech company to bolster San Francisco’s reeling downtown ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/exclusive-hex-adds-to-ai-grab-for-san-francisco-office-space-with-new-lease-3fe0e3ca",
+      "originalUrl": "https://www.marketwatch.com/story/exclusive-hex-adds-to-ai-grab-for-san-francisco-office-space-with-new-lease-3fe0e3ca",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-844188/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/exclusive-hex-adds-to-ai-grab-for-san-francisco-office-space-with-new-lease-3fe0e3ca",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/exclusive-hex-adds-to-ai-grab-for-san-francisco-office-space-with-new-lease-3fe0e3ca",
+      "publishedDateTime": "2023-08-30T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-30-google-unveils-enterprise-artificial-intelligence-tools-new-ai-chip.md",
       "title": "Google unveils enterprise artificial intelligence tools, new AI chip",
       "excerpt": "File Google unveiled a swath of fresh artificial-intelligence technology and partnerships on Tuesday that were geared toward bringing more of the growing technology to large businesses. The batch of announcements from its Google Next conference in San ...",
@@ -1120,58 +1171,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-30-a-disturbing-ai-phenomenon-could-completely-upend-the-internet-as-we-know-it.md",
-      "title": "A disturbing AI phenomenon could completely upend the internet as we know it",
-      "excerpt": "Researchers are worried that the deluge of AI content on the internet could throw is into the \"dark ages of public information.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-model-collapse-threatens-to-break-internet-2023-8",
-      "originalUrl": "https://www.businessinsider.com/ai-model-collapse-threatens-to-break-internet-2023-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64ee4af326dda200194d39e9?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-model-collapse-threatens-to-break-internet-2023-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-model-collapse-threatens-to-break-internet-2023-8?amp",
-      "publishedDateTime": "2023-08-29T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

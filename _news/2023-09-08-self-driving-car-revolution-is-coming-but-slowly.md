@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving car revolution is coming, but slowly"
+  - title: "Self-driving Car Revolution Is Coming, But Slowly"
     excerpt: "In Munich, where this week's IAA motor show is taking place, an interactive street survey elicits an overwhelming \"yes\" when asking passers-by if they would take a self-driving taxi from the station to the Oktoberfest beer festival."
-    publishedDateTime: 2023-09-07T08:01:00Z
-    webUrl: "https://techxplore.com/news/2023-09-self-driving-car-revolution-slowly.html"
-    ampWebUrl: "https://techxplore.com/news/2023-09-self-driving-car-revolution-slowly.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-self-driving-car-revolution-slowly.amp"
+    publishedDateTime: 2023-09-07T05:30:00Z
+    webUrl: "https://www.barrons.com/news/self-driving-car-revolution-is-coming-but-slowly-9c5588b2"
+    ampWebUrl: "https://www.barrons.com/amp/news/self-driving-car-revolution-is-coming-but-slowly-9c5588b2"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/self-driving-car-revolution-is-coming-but-slowly-9c5588b2"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
+      name: Barron's
+      domain: barrons.com
     quality: 44
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/so-far-full-self-drivi.jpg"
-        width: 1280
-        height: 800
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP9643577245828168390437146037747688022783---1.jpg"
+        width: 768
+        height: 480
         isCached: true
   - title: "X post about self-driving cars prompts discussion on Indian roads and driving"
     excerpt: "As the world is rapidly moving towards automation, many countries are experimenting with driverless cars. Recently, a tweet about the possibility of introducing self-driving cars in India has sparked debate about the dismal state of roads and lack of respect towards traffic rules."

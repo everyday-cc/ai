@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbctv18.com/technology/ant-group-launches-finance-ai-mo
 cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/ant-group-launches-finance-ai-model-as-race-heats-up-17752271.htm/amp"
 type: article
 quality: 74
-heat: 74
+heat: 94
 published: true
 
 provider:
@@ -25,6 +25,33 @@ images:
     width: 1019
     height: 573
     isCached: true
+
+related:
+  - title: "China Eyes To Develop a New Finance-Oriented AI Model"
+    excerpt: "Following China's highly competitive AI market, big players like Xiaomi, Ant Group (Ant), and Tencent are investing in AI for finance."
+    publishedDateTime: 2023-09-08T21:59:00Z
+    webUrl: "https://techreport.com/news/china-eyes-to-develop-a-new-finance-oriented-ai-model/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 54
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2023/09/AI-Motherboard-scaled-1-scaled.jpg"
+        width: 2048
+        height: 1102
+        isCached: true
+  - title: "Senate tees up AI hearings"
+    excerpt: "Welcome to The Hill’s Technology newsletter{beacon} Technology Technology   The Big Story Senate to take on AI rules The Senate will set their sights on artificial intelligence"
+    publishedDateTime: 2023-09-08T22:52:00Z
+    webUrl: "https://thehill.com/newsletters/technology/4195086-senate-tees-up-ai-hearings/"
+    ampWebUrl: "https://thehill.com/newsletters/technology/4195086-senate-tees-up-ai-hearings/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/newsletters/technology/4195086-senate-tees-up-ai-hearings/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 39
 
 secured: "3YpoaVbiJDMrehWFbR5O89LXwBE3vkH4DkqwlQVlfHfKJen5rclx8k7je0hAoCIsWHO4q0kSzq869Ptsk6l1qYNeGLLAlccurSY8VRbIeFyGb4IJDU4d75NOXYRQbh+9sKEI2FEVulnoC9GA8ca3Yc1vrEOUKLbopxpZ9Y5V2icUYsMhp6X+FwTJmREogk91JKp1shwMvfA7zeclIfNvCOw19uOH4wLMp1UyR10hsR6MpJBwhaVbOi8l3yShGryi/DcTSlOfgWOaf7Ho1oXqoxQNnjZpSx8FdG6Cp3G/c+UMcjqekv+T0vBEA2rYZ9W2XULRBtJMYFxjPdB/2NBefncLyLZGwiiEJWGVgnXDa+Y=;fivWDuJDXMQQd0ejYHUM3A=="
 ---

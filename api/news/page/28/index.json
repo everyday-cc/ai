@@ -2,6 +2,49 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2023-08-18-driverless-rideshare-company-tests-cars-in-charlotte.md",
+      "title": "Driverless rideshare company tests cars in Charlotte",
+      "excerpt": "Cruise, an all-electric, driverless car company ... The sensors send that data to the artificial intelligence that runs the cars, allowing it to make “real-time predictions on what’s happening ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsoctv.com/news/local/driverless-vehicle-company-tests-cars-charlotte/N23TJDKCCBC5LFNN24SKDX64MI/",
+      "originalUrl": "https://www.wsoctv.com/news/local/driverless-vehicle-company-tests-cars-charlotte/N23TJDKCCBC5LFNN24SKDX64MI/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/fJgu43u2hruEwJutewQz0DqyqNU=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/E6BUORQT6REBLLD37GP76BO7JE.jpeg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsoctv.com/news/local/driverless-vehicle-company-tests-cars-charlotte/N23TJDKCCBC5LFNN24SKDX64MI/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wsoctv-com.cdn.ampproject.org/c/s/www.wsoctv.com/news/local/driverless-vehicle-company-tests-cars-charlotte/N23TJDKCCBC5LFNN24SKDX64MI/?outputType=amp",
+      "publishedDateTime": "2023-08-17T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WSOC-TV",
+        "domain": "wsoctv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-18-governments-including-washington-state-making-policy-for-use-of-generative-ai.md",
       "title": "Governments, including Washington State, making policy for use of generative AI",
       "excerpt": "() - Increasingly, government agencies are developing policies to guide employees in the use of generative artificial intelligence while considering the legal and ethical issues and potential cyber",
@@ -1175,58 +1218,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-generative-ai-for-content-creation-how-marketers-can-use-it.md",
-      "title": "Generative AI For Content Creation: How Marketers Can Use It",
-      "excerpt": "Generative AI is changing how marketers interact with their target demographic, creating new opportunities for creative campaigns and generating significant outcomes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2023/08/17/generative-ai-for-content-creation-how-marketers-can-use-it/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2023/08/17/generative-ai-for-content-creation-how-marketers-can-use-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/637e7f49c0cf9ed11c365146/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2023/08/17/generative-ai-for-content-creation-how-marketers-can-use-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/08/17/generative-ai-for-content-creation-how-marketers-can-use-it/amp/",
-      "publishedDateTime": "2023-08-17T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=13442
 webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1344222&cat=PR News Wire"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "FLOW WFM wins the \"Emerging leader in WFM\" award at BPO and Contact Center Summit 2023"
-    excerpt: "The award highlights FLOW's ability to seamlessly integrate with other contact center technologies, eliminating the need for an expensive 'rip and replace'. • FLOW WFM showcased a plethora of features and benefits that empower contact centers to automate routine tasks,"
-    publishedDateTime: 2023-09-04T06:31:00Z
-    webUrl: "https://www.theweek.in/wire-updates/business/2023/09/04/dcm8-intellicus-technologies.html"
-    ampWebUrl: "https://www.theweek.in/wire-updates/business/2023/09/04/dcm8-intellicus-technologies.amp.html"
-    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/wire-updates/business/2023/09/04/dcm8-intellicus-technologies.amp.html"
-    type: article
-    provider:
-      name: The Week
-      domain: theweek.in
-    quality: 16
   - title: "FLOW WFM wins the \"Emerging leader in WFM\" award at BPO and Contact Center Summit 2023"
     excerpt: "The solution enables BPOs to stay ahead of the game through AutoML capabilities which enhance accurate forecasting. What-if analysis based capacity planning ensures that the BPMs and contact centers are optimally staffed and equipped for any scenario."
     publishedDateTime: 2023-09-05T20:41:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://m.scoop.co.nz/stories/BU2309/S00100/boxfish-research-renames
 cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2309/S00100/boxfish-research-renames-to-boxfish-robotics.htm"
 type: article
 quality: 74
-heat: 78
+heat: 74
 published: true
 
 provider:
