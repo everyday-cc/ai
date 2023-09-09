@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/my-5-favorite-ai-tools-for-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/my-5-favorite-ai-tools-for-school-class-is-in-session-and-generative-ai-can-help/"
 type: article
 quality: 81
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Governments Urged To Get A Grip On AI In Schools"
+    excerpt: "Regulation is needed to protect students and teachers, according to new guidance on the use of Artificial Intelligence in schools."
+    publishedDateTime: 2023-09-07T14:14:00Z
+    webUrl: "https://www.forbes.com/sites/nickmorrison/2023/09/07/governments-urged-to-get-a-grip-on-ai-in-schools/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64f9d707743b486272f9e2c7/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Governments Must Quickly Regulate Generative Ai In Schools, Unesco"
     excerpt: "designed to address the disruptions caused by Generative AI technologies. Building on UNESCO's 2021 Recommendation on the Ethics of Artificial Intelligence and the 2019 Beijing Consenon Artificial Intelligence in Education , the guidance promotes human ..."
     publishedDateTime: 2023-09-08T19:43:00Z

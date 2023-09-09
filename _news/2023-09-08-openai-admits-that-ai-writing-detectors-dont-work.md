@@ -9,8 +9,8 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/09/openai-admits
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/openai-admits-that-ai-writing-detectors-dont-work/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 137
+published: true
 
 provider:
   name: Ars Technica
@@ -30,73 +30,48 @@ images:
     isCached: true
 
 related:
-  - title: "Rethinking open source for AI"
-    excerpt: "Mehul Shah, founder and CEO of Aryn, a stealth startup that aims to reimagine enterprise search through AI, first outlined the problem for me in an interview. Shah, who spearheaded AWS’ OpenSearch business, is betting big on AI and also on open source."
-    publishedDateTime: 2023-09-04T09:02:00Z
-    webUrl: "https://www.infoworld.com/article/3706091/rethinking-open-source-for-ai.html"
-    ampWebUrl: "https://www.infoworld.com/article/3706091/rethinking-open-source-for-ai.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706091/rethinking-open-source-for-ai.amp.html"
+  - title: "What OpenAI Really Wants"
+    excerpt: "Then we’re going to have systems that can do basic cognitive labor ... one of the world’s most desirable new customers for its Azure web services. With those rewards in sight, Microsoft wasn’t even bothered by the clause that demands reconsideration ..."
+    publishedDateTime: 2023-09-05T11:36:00Z
+    webUrl: "https://www.wired.com/story/what-openai-really-wants/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
+      name: Wired
+      domain: wired.com
+    quality: 71
     images:
-      - url: "https://images.idgesg.net/images/article/2020/09/artificial-intelligence-neural-network-human-face-picture-id1150038843-100860324-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
+      - url: "https://media.wired.com/photos/64ed0bc52da6c6d86e70e575/191:100/w_1280,c_limit/WI100123_FF_OpenAI_01.jpg"
+        width: 1280
+        height: 670
         isCached: true
-  - title: "Analyst Ratings for C3.ai"
-    excerpt: "Within the last quarter, C3.ai (NYSE:AI) has observed the following analyst ratings: According to 5 analyst offering 12-month price targets in the last 3 months, C3.ai has an average price target of $35.8 with a high of $42.00 and a low of $28.00."
-    publishedDateTime: 2023-09-08T16:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/analyst-ratings-for-c3-ai-1032616827"
+  - title: "Why the latest $1 billion AI startup doesn’t want to beat OpenAI"
+    excerpt: "Focusing on explainable AI agents, the vision is that reasoned, trustworthy AI tools will unlock vast potential when widely accessible."
+    publishedDateTime: 2023-09-08T15:17:00Z
+    webUrl: "https://venturebeat.com/ai/why-the-latest-1-billion-ai-startup-doesnt-want-to-beat-openai/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 69
     images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/analyst_ratings_image_0.png"
-        width: 1024
-        height: 768
+      - url: "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_line_art_vector_line_flat_illustration_minimal_surreal__67423beb-041c-40ed-aaf5-4306fbe95146.png?w=1200&strip=all"
+        width: 1200
+        height: 672
         isCached: true
-  - title: "Efficient training for artificial intelligence"
-    excerpt: "Víctor López-Pastor and Florian Marquardt, two scientists at the Max Planck Institute for the Science of Light in Erlangen, Germany, present a method by which artificial intelligence could be trained much more efficiently. Their approach relies on ..."
-    publishedDateTime: 2023-09-08T14:01:00Z
-    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=63602.php"
+  - title: "OpenAI to Announce GPT 5?"
+    excerpt: "OpenAI, a prominent AI lab, has announced that its first developer conference, OpenAI DevDay, will take place on November 6, 2023."
+    publishedDateTime: 2023-09-08T16:51:00Z
+    webUrl: "https://www.dmnews.com/openai-to-announce-gpt-5/"
     type: article
     provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 54
-    images:
-      - url: "https://www.nanowerk.com/news2/robotics/id63602_2.jpg"
-        width: 800
-        height: 412
-        isCached: true
-  - title: "Some CT schools are using artificial intelligence for student tutoring"
-    excerpt: "CT is partnering with tech company Varsity Tutors, which uses AI to connect students with tutors and design tutoring lesson plans."
-    publishedDateTime: 2023-09-06T09:00:00Z
-    webUrl: "https://ctmirror.org/2023/09/06/ct-schools-ai-artificial-intelligence-tutoring/"
-    type: article
-    provider:
-      name: The Connecticut Mirror
-      domain: ctmirror.org
+      name: Direct Marketing News
+      domain: dmnews.com
     quality: 39
     images:
-      - url: "https://ctmirror-images.s3.amazonaws.com/wp-content/uploads/2023/08/2023_0823_SR_AIinSchools_017_1-scaled.jpeg"
-        width: 2560
-        height: 1707
+      - url: "https://images.dmnews.com/wp-content/uploads/2023/09/GPT-5.jpg"
+        width: 1000
+        height: 667
         isCached: true
-  - title: "Hugging Face Raises $235M for its Open Platform for AI and Machine Learning"
-    excerpt: "Hugging Face is the most-used open platform for AI builders. More than 50,000 organizations are using it to build, train, and deploy AI models like Stable diffusion, StarCoder, Llama, and more. It hosts over 300k models, 250k datasets, and 250k spaces."
-    publishedDateTime: 2023-09-07T13:29:00Z
-    webUrl: "https://www.alleywatch.com/2023/09/hugging-face-open-source-ai-platform-machine-learning-github-brigitte-tousignant/"
-    type: article
-    provider:
-      name: alleywatch.com
-      domain: alleywatch.com
-    quality: 32
   - title: "A|I: The AI Times – Cohere reportedly hunting for fresh funding as OpenAI passes $1B revenue pace"
     excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
     publishedDateTime: 2023-09-07T09:00:00Z
@@ -111,15 +86,15 @@ related:
         width: 1050
         height: 700
         isCached: true
-  - title: "Explainable-AI Image Recognition achieves precise 3D descriptions of objects for US Air Force, a major AI breakthrough"
-    excerpt: "Z Advanced Computing, Inc. (ZAC), the pioneer CognitiveExplainable-AI (Artificial Intelligence) (Cognitive XAIor CXAI) software startup, has developed the \"Describer\""
-    publishedDateTime: 2023-09-05T17:03:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/n34245972/explainable-ai-image-recognition-achieves-precise-3d-descriptions-of-objects-for-us-air-force-a-ma"
+  - title: "Soon UAE Will Dethrone OpenAI"
+    excerpt: "UAE’s Technological Innovation Institute (TII) yesterday released Falcon 180B, a highly scaled-up version of Falcon 40B."
+    publishedDateTime: 2023-09-07T12:20:00Z
+    webUrl: "https://analyticsindiamag.com/soon-uae-will-dethrone-openai/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 19
 
 secured: "TdBLcTUuyshdopK0EOSypQXHctNdxWjwML7oSD7KbcYyrGSl7R9gtqn0VdrF8hBKxvY5TbXfaaTQp7RHPmSI5i1yT9nu0vuMm/cx2C5PT7whvtWr6rji9Jq9evizjiksYBBO47ZRI/11SSKYQ7OFYcPkc34dNw1CBRxnAm+E/2QmfNOE8q1WhB6DCQdYK9gNQoKKuLPmNnAVl1HpWAPyfIL5wDszjEztR3lxExuoUQtiXMffjUzDoGFDtvHcPErTos+yHjdm+fe8SAOdxw6l0uwkrGN76Xi905krX98nuySHFtIJ6w5SMEThpQfhjx1I0biXXF+sEjdF8oBHRjfZtW4YFx9wojcqBJYr4cJPNhbjbsg59BJYfp/WaSOvXylLoFvt88zPQ6mlUmY3OWNsKRLSGgxFPco+rVMF2ZJEAx4+9qg+ftIsbF9AIyl5xwo9mtzgDM3+l3GkN1fAaNv+H79wqK2NHDp5M6g7hfiHVynIr67TL49XTBZXhF4oYS10CbVnKKzv8mineuvG/DLHMw==;EF1zk9F9sE9dJzTbtL6lGQ=="
 ---

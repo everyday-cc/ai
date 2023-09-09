@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "OpenAI admits that AI writing detectors don’t work"
+    excerpt: "In a section of the FAQ titled \"Do AI detectors work?\", OpenAI writes, \"In short, no. While some (including OpenAI) have released tools that purport to detect AI-generated content, none of these have proven to reliably distinguish between AI-generated and human-generated content.\""
+    publishedDateTime: 2023-09-08T15:42:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/09/openai-admits-that-ai-writing-detectors-dont-work/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/09/openai-admits-that-ai-writing-detectors-dont-work/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/openai-admits-that-ai-writing-detectors-dont-work/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 87
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/09/ai_detector_hero_2-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "What OpenAI Really Wants"
     excerpt: "Then we’re going to have systems that can do basic cognitive labor ... one of the world’s most desirable new customers for its Azure web services. With those rewards in sight, Microsoft wasn’t even bothered by the clause that demands reconsideration ..."
     publishedDateTime: 2023-09-05T11:36:00Z
@@ -56,6 +72,20 @@ related:
       - url: "https://images.dmnews.com/wp-content/uploads/2023/09/GPT-5.jpg"
         width: 1000
         height: 667
+        isCached: true
+  - title: "A|I: The AI Times – Cohere reportedly hunting for fresh funding as OpenAI passes $1B revenue pace"
+    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
+    publishedDateTime: 2023-09-07T09:00:00Z
+    webUrl: "https://betakit.com/ai-the-ai-times-cohere-reportedly-hunting-for-fresh-funding-as-openai-passes-1b-revenue-pace/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 26
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2023/06/Cohere.jpg"
+        width: 1050
+        height: 700
         isCached: true
   - title: "Soon UAE Will Dethrone OpenAI"
     excerpt: "UAE’s Technological Innovation Institute (TII) yesterday released Falcon 180B, a highly scaled-up version of Falcon 40B."

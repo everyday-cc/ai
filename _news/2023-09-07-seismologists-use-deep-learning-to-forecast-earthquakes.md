@@ -7,7 +7,7 @@ originalUrl: "https://www.universityofcalifornia.edu/news/seismologists-use-deep
 webUrl: "https://www.universityofcalifornia.edu/news/seismologists-use-deep-learning-forecast-earthquakes"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1680
     height: 940
     isCached: true
-
-related:
-  - title: "Deep learning model boosts earthquake analysis"
-    excerpt: "Seismologists in California and Germany have developed a deep learning model for forecasting earthquake aftershocks that can outperform existing data analysis methods."
-    publishedDateTime: 2023-09-04T08:55:00Z
-    webUrl: "https://www.theengineer.co.uk/content/news/deep-learning-model-boosts-earthquake-analysis"
-    type: article
-    provider:
-      name: The Engineer
-      domain: theengineer.co.uk
-    quality: 39
-    images:
-      - url: "https://www.theengineer.co.uk/media/syqfn4is/low-res_20200116_074623_047.jpg?width=1200&height=630&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "ILtboW9NOJZQYCIgvAvA/Ax6LpSwUpL7IPfJSVHHE1SNu8fP1kkUy9B5rMUzXnXr9BvDYAGyhMdpRh+inD8POKDOWLuhmGL8dcqQ0x0sObIEUnBs4bE1kh3vZOH4/wGorJc606yaSSxm3vjzGOvklgFYU+KB+3QqCFma3RnzJ/NPyzI8nMl38YDHjypLOcXPnYt/PpXD5UjvPk048+R5/lQ/9LAKkgyF/XaF06T1IuruvseeVBOF165q/l591QxJaKuKNiILLOvn8z1Glfe5NRvTd9jFVxX2iv5JndrCCRaq9FCs+/RW6ZFd85pk+YySbA5/sIGnV5ZQumxfsHVvZRKTn8aNDm7HjAEbokG93JE=;ldQovOLEA8xZtTSg5FExcQ=="
 ---

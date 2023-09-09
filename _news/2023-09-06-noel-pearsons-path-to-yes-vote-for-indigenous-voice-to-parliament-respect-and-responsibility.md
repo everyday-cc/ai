@@ -41,6 +41,15 @@ related:
       name: Sky News Australia
       domain: skynews.com.au
     quality: 0
+  - title: "Victorian Liberal leader John Pesutto confirms he’ll say No on Indigenous voice to parliament"
+    excerpt: "John Pesutto has declared he will vote No in next month’s referendum, arguing that the objectives of the voice can be achieved without changing the Constitution."
+    publishedDateTime: 2023-09-04T09:36:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/indigenous/victorian-liberal-leader-john-pesutto-confirms-hell-say-no-on-indigenous-voice-to-parliament/news-story/60ba7f11830bd1857f4d73bec5cd5c8e"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 0
 
 secured: "4P2c08frAdUBOjun74qdJNGbWJwgj4JBVdpEh1EJCOHlNewlooH4k+gcGk2FOSphJSY0j2LLtoR/zYU6EMXLRW+1l4NT8DuAOSMJp89fHF3ck1OJXIjN2GLFX4NRkupKMa514QnzveiDsvphK4aBTKHtahekvLIgJ7YhITibmSOnXyAvYTCLJiTvwBMy/PN1YfEFib6oZaVDKCw0W6Haa++CGCym71Liiy9bkkxXYy0pAohZsLqO+TlQLXdUog/mZAZyQcMoZa7SejK+3uppd+VW8dhbLCwLLFoVaNxCnG1STy2HYUuVOANPYpSH/fTFkDAuNPsUksWu8SsGKygQr+Z4GdJZF48meq5XzZqV7FmViiB1bZ8PWIKPcXDkWTHvR/PdUYD7ZLz1iTNRDJt49UQG7+MEUCX5/LsWYKdqnrQjqsdlL2PHJbho2Z7tOgBUj1e8jv1U8NnzRDaIDzkNmmtR9OIVyijrcjEBWYyVxNCkQbNqO+O1tN2dXTIJG80BoKkzyd2ju4DJm/VqXuxN8g==;ywVsdkbQnzaW7mXNBLy+ZQ=="
 ---

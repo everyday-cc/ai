@@ -26,20 +26,6 @@ images:
 
 related:
   - title: "Robots are pouring drinks in Vegas. As AI grows, the city's workers brace for change"
-    excerpt: "Workers in Las Vegas have been watching automation and technology inch into their workplace. Now with AI, the city is preparing to adapt its service-heavy tourism economy."
-    publishedDateTime: 2023-09-04T09:07:00Z
-    webUrl: "https://www.capradio.org/news/npr/story?storyid=1197138244"
-    type: article
-    provider:
-      name: Capital Public Radio
-      domain: capradio.org
-    quality: 47
-    images:
-      - url: "https://media.npr.org/assets/img/2023/09/01/img_2227-e4ff9eafcd401e007a1ed90c4b090f30f5244767.jpg?s=6"
-        width: 948
-        height: 711
-        isCached: true
-  - title: "Robots are pouring drinks in Vegas. As AI grows, the city's workers brace for change"
     excerpt: "Robots can serve food ... And then there's the brand-new jobs that AI could create that don't even exist yet. In Las Vegas, city officials know they have to start preparing for whatever changes are coming right now, and that starts with getting the ..."
     publishedDateTime: 2023-09-05T06:31:00Z
     webUrl: "https://www.houstonpublicmedia.org/npr/2023/09/04/1197138244/robots-are-pouring-drinks-in-vegas-as-ai-grows-the-citys-workers-brace-for-change/"

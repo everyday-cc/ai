@@ -151,6 +151,22 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Jio, Tata Group enter pacts with Nvidia to develop advance artificial intelligence applications in India"
+    excerpt: "The partnership with RIL-owned Jio Platforms comes a week after the company outlined its aggressive plans for artificial intelligence."
+    publishedDateTime: 2023-09-09T00:00:00Z
+    webUrl: "https://www.financialexpress.com/business/industry-jio-tata-group-enter-pacts-with-nvidia-to-develop-advance-artificial-intelligence-applications-in-india-3237555/"
+    ampWebUrl: "https://www.financialexpress.com/business/industry-jio-tata-group-enter-pacts-with-nvidia-to-develop-advance-artificial-intelligence-applications-in-india-3237555/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/industry-jio-tata-group-enter-pacts-with-nvidia-to-develop-advance-artificial-intelligence-applications-in-india-3237555/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 42
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/art.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI startup Imbue closes $200M funding round backed by Nvidia"
     excerpt: "The Series B investment values Imbue at $1 billion. It included contributions from Nvidia Corp. and Astera Institute, a nonprofit that backs promising research initiatives. Cruise LLC Chief Executive Officer Kyle Vogt, Notion Labs Inc. co-founder Simon Last and a number of other backers participated as well."
     publishedDateTime: 2023-09-07T21:20:00Z

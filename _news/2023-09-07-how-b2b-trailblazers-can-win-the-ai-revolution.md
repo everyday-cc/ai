@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/09/07/how-b2b-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/09/07/how-b2b-trailblazers-can-win-the-ai-revolution/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://techreport.com/wp-content/uploads/2023/09/robo-advisor-chatbot-robotic-concept-robot-finger-point-laptop-button-generative-ai-scaled.jpg"
         width: 2048
         height: 1147
-        isCached: true
-  - title: "The AI Hype Has Subsided, But the Revolution Continues"
-    excerpt: "The stock market has also had time to digest this information, leading to much higher valuations for Nvidia, but there are no signs in market prices that AI heralds the end of the"
-    publishedDateTime: 2023-09-04T07:27:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/09/04/ai-hype-has-subsided-but-technology-remains-as-powerful-as-ever/e18bfdcc-4b1e-11ee-bfca-04e0ac43f9e4_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4EPIWNCLDYI65P6KATQKYQ7Z4Q.jpg&w=1440"
-        width: 1024
-        height: 683
         isCached: true
 
 secured: "o730M3l39NSsv67ygLsQo5Beue770PMokHYMFhQcDLB1u1F59s3KGpEA1t809QVJBtd38pGORFk6cl84HdwJJDBwB7qRak1jtU1fjb1PE7xmjGyKRdtAWRZ6T+2yd7oIuod1sOyBomj4x0j50nuXUdCHO+7MyAczeuHBQLsuAAQrSAlspPuxAEGDLBbg8zvVHqAeHhh0JarI1wpSr+u3scz7pOgIW0TBkaXN/hj8HjT2cMkv7PJvxLYMvGN8MgB9HEPqLAjoil0jm5HwQeeqoIJ9FUTtsnsmhybBXXl6fckJM8uralJLw844po+9ji22G+OU9QrrR7t5RvSPSSrjalQ2OuY52Uw7HJ/V4g0cCL4=;0XW0ob8NnYdHTjmlTN0SJg=="

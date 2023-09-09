@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/09/07/softbank-group-backs-former-argo-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/07/softbank-group-backs-former-argo-ai-founders-on-new-self-driving-trucks-startup/amp/"
 type: article
 quality: 85
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -73,15 +73,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "How SoftBank’s Arm Plans to Ride the AI Wave to Biggest IPO of 2023"
-    excerpt: "What’s set to be the biggest initial public offering of 2023 comes from a company unknown to most consumers, though they use its products. Arm Ltd. designs key parts of the chips powering almost every smartphone on the planet."
-    publishedDateTime: 2023-09-04T07:30:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/09/04/how-softbank-s-arm-plans-to-ride-the-ai-wave-to-biggest-ipo-of-2023/f3697b80-4b20-11ee-bfca-04e0ac43f9e4_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 17
 
 secured: "OOZlW5Kl5Iyqw4kKylmHYEZpphJyhm3Wk6bNHCOkHWQ/FFFL98p6cgRckkNsRGF6jc2B0rVMP8Ql9g/c8v+KNfIgAZVDYf/TteYdMceB+lKgQiK/hWi9C5DU9SLx87tfSsPnBhgKcmg2v2cccf9m/0VItFy4Lk+EK0RJppMnY0i5hTqLuCLtCGY4KSkzAyWVL9qM+ukGLlEi3Ie+PK5TslnGELabIJ8zVS9UD0dPrpaT2q0WV2GQe5lH2ulIlJeU3NC5IjU2oXOUMdwEMPcV32sJxiQEV3yQyhQU71vyjvhuvs0xElD9LewX+ljHuNjPqx3zy5tY7XPacFINhjfIDWI3G2c269rEe32/VDgCx3I=;/JTZUfXtEHkFjDqVVs7hPg=="
 ---

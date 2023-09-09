@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2023-09-machine-contributes-quantum-error.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-machine-contributes-quantum-error.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Phys.org
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Machine learning contributes to better quantum error correction"
+    excerpt: "Researchers have used machine learning to perform error correction for quantum computers -- a crucial step for making these devices practical -- using an autonomous correction system that despite being approximate,"
+    publishedDateTime: 2023-09-09T01:03:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/09/230907105848.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Machine learning contributes to better quantum error correction"
     excerpt: "Researchers from the RIKEN Center for Quantum Computing have used machine learning to perform error correction for quantum computers—a crucial step"
     publishedDateTime: 2023-09-07T05:52:00Z

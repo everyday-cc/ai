@@ -7,7 +7,7 @@ originalUrl: "https://semiengineering.com/sweeping-changes-for-leading-edge-chip
 webUrl: "https://semiengineering.com/sweeping-changes-for-leading-edge-chip-architectures/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 530
     height: 586
     isCached: true
-
-related:
-  - title: "Architecting agility into a leading South African retail company"
-    excerpt: "The SAP technologies included SAP ECC, SAP BW, SAP HANA Microsoft Azure Data Lake, Data Factory, Synapse and Machine Learning The consumer goods company is well-known in the country and also has a strong global presence. It uses Azure Synapse to store and ..."
-    publishedDateTime: 2023-09-04T08:59:00Z
-    webUrl: "https://www.itweb.co.za/content/8OKdWqDXDPWqbznQ"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/8OKdWqDXDPWqbznQ"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/8OKdWqDXDPWqbznQ"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 59
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2018/02/resized/-fs-Agility-speedometer-2018.xl.jpg"
-        width: 816
-        height: 459
-        isCached: true
 
 secured: "zX7QWykjojvCOhJdC9GifeZB1PyGUCgxFx7GPXrheiM9c8o92yCFuHU0BN7UMrZY4xsW2Ntcw6b9opwNL8AhXv4GGP8E3qLzZp391w50KeqXwQQUQCgLmwB2Of9qdFmsVN0Kc0PW8rqE9yAdLshLvQ/6gsBJTZochygCaT8Mbo27BgMRMERyejv/vfwNp/1ywGwX5fIvLEsG795i9pLKgpyEcw3GoM63XijmT/bwU8sRg1/zMFqb2bLc8uOivp2y4DZhF0Xodgt716REvuT9S2fk/EFry6dicCiWXcNsOm6GjCrrIP/LkH6pkCmRiTrD9Q1wYVeEi22T50FevgTQY0boRyw8biTW6gCBWguJN4qoM8dgdLnTaFlQM05UQHUpdThlSYPOjvuBIZnqJsMjhmlo6c2v38O7xHAKer9emOrWCXHLPGVdc1OT/VddhP3N/iqbzm/oYokE0GN0FVqRAIbr7EPe0uyA/YkXi8TMgi+ju56EeS72QHAN+Jm7eLDnA9uoh7Q6sJevIlvliMlDnA==;/vTUwPVpUvQdpUFFXgivGw=="
 ---

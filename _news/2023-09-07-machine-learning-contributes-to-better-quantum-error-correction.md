@@ -41,6 +41,15 @@ related:
         width: 1280
         height: 1113
         isCached: true
+  - title: "Machine learning contributes to better quantum error correction"
+    excerpt: "Researchers have used machine learning to perform error correction for quantum computers -- a crucial step for making these devices practical -- using an autonomous correction system that despite being approximate,"
+    publishedDateTime: 2023-09-09T01:03:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/09/230907105848.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
 secured: "LSciJP91zCsBaikN8UMO2dEdY8FVU6q3WDk3q+UFXBhaRudvjMJitn7BHMVN/kc7qDTH8fVk+JoUguu0slXr0TIt069eGW/WLoTtAXDdS3uAq7dDtwqbxJSHDI0WZDc8CyXyYFax2mZxe80kIMqLlcKkFbgSsljXHrGS9pVMa+EfJl4AtaUMiFuhlKxgWZT/B7fBUMsSI9hH08g1lj6VQrL32r/u6xnbPPefdDdO0AyjuyHlY4v20M73XR9oEOGMYCZQeZ2pGqD/ZLATVc+GMdjzuJwbeBMs9cEwrniVSS4oKSj/ekBfz3cB18CGVCfvH7Ta5EGkvV238oiXiP6l0TZ8qYdr/zz4MUtthaN6K8UTlqKNzUuMvUr2qfTR2TzJ64whUoGgEbAnDeqI7mqQMFu13i/J8mByQ1wEYYfhbBJ4wh6kXEgS9KkEa4rrIZEx7dxTlE4oOI3UcRZLzIGTkh96zSw4898n7zCtaZiok5kELwuCUD9pXoq1vsdFmofXTm1hCXJl7FRoeNajEa5L2Q==;GCcyu8a0YshCqtIi/2PeXg=="
 ---

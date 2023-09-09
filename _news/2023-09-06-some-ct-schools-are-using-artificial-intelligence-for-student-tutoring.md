@@ -25,98 +25,57 @@ images:
     isCached: true
 
 related:
-  - title: "Rethinking open source for AI"
-    excerpt: "Mehul Shah, founder and CEO of Aryn, a stealth startup that aims to reimagine enterprise search through AI, first outlined the problem for me in an interview. Shah, who spearheaded AWS’ OpenSearch business, is betting big on AI and also on open source."
-    publishedDateTime: 2023-09-04T09:02:00Z
-    webUrl: "https://www.infoworld.com/article/3706091/rethinking-open-source-for-ai.html"
-    ampWebUrl: "https://www.infoworld.com/article/3706091/rethinking-open-source-for-ai.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706091/rethinking-open-source-for-ai.amp.html"
+  - title: "Combining Robotics and AI in Schools is a Sufficient Introduction to Prepare Students for a Tech-Centric Future"
+    excerpt: "Jason Innes, Director of Curriculum, Training, and Product Management at KinderLab Robotics, Inc, explores robotics and AI in schools."
+    publishedDateTime: 2023-09-08T23:00:00Z
+    webUrl: "https://marketscale.com/industries/education-technology/combining-robotics-and-ai-in-schools-is-sufficient-introduction-to-prepare-students-for-tech-centric-future/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
+      name: marketscale
+      domain: marketscale.com
+    quality: 49
     images:
-      - url: "https://images.idgesg.net/images/article/2020/09/artificial-intelligence-neural-network-human-face-picture-id1150038843-100860324-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
+      - url: "https://marketscale.com/wp-content/uploads/2023/09/Screenshot-2023-09-06-at-2.30.24-PM-2.png"
+        width: 916
+        height: 510
         isCached: true
-  - title: "OpenAI admits that AI writing detectors don’t work"
-    excerpt: "In a section of the FAQ titled \"Do AI detectors work?\", OpenAI writes, \"In short, no. While some (including OpenAI) have released tools that purport to detect AI-generated content, none of these have proven to reliably distinguish between AI-generated and human-generated content.\""
-    publishedDateTime: 2023-09-08T15:42:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/09/openai-admits-that-ai-writing-detectors-dont-work/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/09/openai-admits-that-ai-writing-detectors-dont-work/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/openai-admits-that-ai-writing-detectors-dont-work/amp/"
+  - title: "Combining Robotics and AI in Schools is a Sufficient Introduction to Prepare Students for a Technological Future"
+    excerpt: "Jason Innes, Director of Curriculum, Training, and Product Management at KinderLab Robotics, Inc, explores robotics and AI in schools."
+    publishedDateTime: 2023-09-08T22:26:00Z
+    webUrl: "https://marketscale.com/industries/education-technology/combining-robotics-and-ai-in-schools-is-sufficient-introduction-to-prepare-students-for-technological-future/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 87
+      name: marketscale
+      domain: marketscale.com
+    quality: 48
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/09/ai_detector_hero_2-800x450.jpg"
-        width: 800
-        height: 450
+      - url: "https://marketscale.com/wp-content/uploads/2023/09/Screenshot-2023-09-06-at-2.30.24-PM-2.png"
+        width: 916
+        height: 510
         isCached: true
-  - title: "Analyst Ratings for C3.ai"
-    excerpt: "Within the last quarter, C3.ai (NYSE:AI) has observed the following analyst ratings: According to 5 analyst offering 12-month price targets in the last 3 months, C3.ai has an average price target of $35.8 with a high of $42.00 and a low of $28.00."
-    publishedDateTime: 2023-09-08T16:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/analyst-ratings-for-c3-ai-1032616827"
+  - title: "Connecting Robotics and AI in Schools is a Sufficient Introduction to Prepare Students for a Technological Future"
+    excerpt: "Jason Innes, Director of Curriculum, Training, and Product Management at KinderLab Robotics, Inc, explores robotics and AI in schools."
+    publishedDateTime: 2023-09-08T22:16:00Z
+    webUrl: "https://marketscale.com/industries/education-technology/connecting-robotics-and-ai-in-schools-is-sufficient-introduction-to-prepare-students-for-technological-future/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
+      name: marketscale
+      domain: marketscale.com
+    quality: 48
     images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/analyst_ratings_image_0.png"
-        width: 1024
-        height: 768
+      - url: "https://marketscale.com/wp-content/uploads/2023/09/Screenshot-2023-09-06-at-2.30.24-PM-2.png"
+        width: 916
+        height: 510
         isCached: true
-  - title: "Efficient training for artificial intelligence"
-    excerpt: "Víctor López-Pastor and Florian Marquardt, two scientists at the Max Planck Institute for the Science of Light in Erlangen, Germany, present a method by which artificial intelligence could be trained much more efficiently. Their approach relies on ..."
-    publishedDateTime: 2023-09-08T14:01:00Z
-    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=63602.php"
+  - title: "Some Connecticut schools are using artificial intelligence for student tutoring"
+    excerpt: "The Connecticut Department of Education is partnering with a tech company to bring artificial intelligence classrooms this upcoming school year. With AI tools such as ChatGPT bursting onto the scene, state education officials have decided to embrace the ..."
+    publishedDateTime: 2023-09-06T15:07:00Z
+    webUrl: "https://www.wshu.org/connecticut-news/2023-09-06/some-connecticut-schools-are-using-artificial-intelligence-for-student-tutoring"
     type: article
     provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 54
-    images:
-      - url: "https://www.nanowerk.com/news2/robotics/id63602_2.jpg"
-        width: 800
-        height: 412
-        isCached: true
-  - title: "Hugging Face Raises $235M for its Open Platform for AI and Machine Learning"
-    excerpt: "Hugging Face is the most-used open platform for AI builders. More than 50,000 organizations are using it to build, train, and deploy AI models like Stable diffusion, StarCoder, Llama, and more. It hosts over 300k models, 250k datasets, and 250k spaces."
-    publishedDateTime: 2023-09-07T13:29:00Z
-    webUrl: "https://www.alleywatch.com/2023/09/hugging-face-open-source-ai-platform-machine-learning-github-brigitte-tousignant/"
-    type: article
-    provider:
-      name: alleywatch.com
-      domain: alleywatch.com
-    quality: 32
-  - title: "A|I: The AI Times – Cohere reportedly hunting for fresh funding as OpenAI passes $1B revenue pace"
-    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
-    publishedDateTime: 2023-09-07T09:00:00Z
-    webUrl: "https://betakit.com/ai-the-ai-times-cohere-reportedly-hunting-for-fresh-funding-as-openai-passes-1b-revenue-pace/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 26
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2023/06/Cohere.jpg"
-        width: 1050
-        height: 700
-        isCached: true
-  - title: "Explainable-AI Image Recognition achieves precise 3D descriptions of objects for US Air Force, a major AI breakthrough"
-    excerpt: "Z Advanced Computing, Inc. (ZAC), the pioneer CognitiveExplainable-AI (Artificial Intelligence) (Cognitive XAIor CXAI) software startup, has developed the \"Describer\""
-    publishedDateTime: 2023-09-05T17:03:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/n34245972/explainable-ai-image-recognition-achieves-precise-3d-descriptions-of-objects-for-us-air-force-a-ma"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
+      name: WSHU news
+      domain: wshu.org
+    quality: 13
 
 secured: "cfkxT1OEaMz9rSfEr0z1toDP2RnYUO75NCA8gJ3P5cM9VlBJJg++ZLk+Tr76/8HmstgbP0Y6p3KX6y55euiOSb4wHpiN14wKj1l/Bzz1RZ/ms5oSGLNBvRtXsfU3YrFfDVGPCOuTboFrGeBtlbDI/QVuYNoIcPESTsjb7lGkfCYjl3Fw8/8qeONx5EBmVceEv2y0q97Y+0spoGDU05C3irSWUWFYbzoaMsT6c5ySZvPWyykFofklXfdOmNKqlNTkWeudgP+kMJ/HZUlmeyp13qUwjU8OOep7pOojGt+0AhhH1i6t5FL7gMLhtjByegRWzMdxR0youodUW+uumNhh+cJ6bayo300ggnuXMHN2v/ODZEcC3zJlGizTZ7jYWq1mel5Cb5am3XV7E9RHYS/vG1Bw4J7PyVa3fq7QPV4N0tycwL7h9sidlL8uoFQTi7F1FFLUIQkcE5suGZvKURNWGacjEIKkWnf882jS/HP9sUjswlW5WuVsgoQZhRQ1//JXsifwMOrELazcjtRNysCjBw==;FI5WmLhaM4W/w1hNyIkJHQ=="
 ---

@@ -152,6 +152,22 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Jio, Tata Group enter pacts with Nvidia to develop advance artificial intelligence applications in India"
+    excerpt: "The partnership with RIL-owned Jio Platforms comes a week after the company outlined its aggressive plans for artificial intelligence."
+    publishedDateTime: 2023-09-09T00:00:00Z
+    webUrl: "https://www.financialexpress.com/business/industry-jio-tata-group-enter-pacts-with-nvidia-to-develop-advance-artificial-intelligence-applications-in-india-3237555/"
+    ampWebUrl: "https://www.financialexpress.com/business/industry-jio-tata-group-enter-pacts-with-nvidia-to-develop-advance-artificial-intelligence-applications-in-india-3237555/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/industry-jio-tata-group-enter-pacts-with-nvidia-to-develop-advance-artificial-intelligence-applications-in-india-3237555/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 42
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/art.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The AI market will be worth $600 billion, Nvidia exec says"
     excerpt: "According to Das, the total addressable market for AI will consist of $300 billion in chips and systems, $150 billion in generative AI software, and $150 billion in omniverse enterprise software. These figures represent growth over the \"long term,\" Das said, though he did not specify a target date."
     publishedDateTime: 2023-09-05T23:56:00Z

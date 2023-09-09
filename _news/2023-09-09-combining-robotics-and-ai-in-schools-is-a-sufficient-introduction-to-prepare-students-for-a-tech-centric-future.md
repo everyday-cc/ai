@@ -53,6 +53,20 @@ related:
         width: 916
         height: 510
         isCached: true
+  - title: "Some CT schools are using artificial intelligence for student tutoring"
+    excerpt: "CT is partnering with tech company Varsity Tutors, which uses AI to connect students with tutors and design tutoring lesson plans."
+    publishedDateTime: 2023-09-06T09:00:00Z
+    webUrl: "https://ctmirror.org/2023/09/06/ct-schools-ai-artificial-intelligence-tutoring/"
+    type: article
+    provider:
+      name: The Connecticut Mirror
+      domain: ctmirror.org
+    quality: 39
+    images:
+      - url: "https://ctmirror-images.s3.amazonaws.com/wp-content/uploads/2023/08/2023_0823_SR_AIinSchools_017_1-scaled.jpeg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Some Connecticut schools are using artificial intelligence for student tutoring"
     excerpt: "The Connecticut Department of Education is partnering with a tech company to bring artificial intelligence classrooms this upcoming school year. With AI tools such as ChatGPT bursting onto the scene, state education officials have decided to embrace the ..."
     publishedDateTime: 2023-09-06T15:07:00Z
@@ -63,6 +77,6 @@ related:
       domain: wshu.org
     quality: 13
 
-secured: "h25gaaln9hPGj9Q4i4TfeZ3qWdjzPTiJDBoLjieeGKjHDV3S5NsJXGual0uk7b8r6X9Fk7oRqc/H+X5NDkUfEiXlAJj3ZXxVp8FVZzmPG/gaz+6N5Alnuyq7wrpZg7XQ0EM8+8M3XTSM1DgN+UBNoNFOLqZ8IGaU3mUyyMPfchLkkA6CbHdQKJeY1NFCSqp7autuLk1VTKWfoi7LWck9dID6ZWC4iy/aJQ07KUgF6M77B0sw6+2BZSenxFJSO4GioOkQfNEvrhQ0ka8dTmXxcqNWxFwMrgONWscirZPnu0Tu7bnIDkNkUdXmLOPrNKxXEJ9+qamgYYjsWZHulSOSY1ed8WNy5rFQ9zW7YZL7khQ=;E0S0vH/RttJFk/BxxJXSiA=="
+secured: "FodrbDsNvfwgDGRkpfDXvgA7QGkIoeNbagY8nPVL/crN1vi2o5IGb281CF+nXxugBFm4mOU0kucY6VjUsS8egopmQVjSXd9/mxiQ0FtHJRVBomSpHUc2fn+xEH3awmGw7tJzzxVGpSOR9a6yJNbZ6/AB0umHNbUfUMN0jUL11StMAvtH5SB+KgDMumXobB1u4jXUBcvJ/hWLlhrwwahy3rVtv4q8RRPnvOZ5xWr/TQqiNIIPBcBvQkF9kNY+F+NhYMr4ynRLaBP8ZcZvjM3Lrj27kcuqvFz7yE4gcUmh7QQsiDX03o8S5+ep3aCGo7dEkIFy7gTYVI+zf0XGTgXoaOZ9Agk2jawXzQyCJjHQRaWDUKsZ+i5IKfvbPAfXUDiKXDnSemVryEBKTHvRvNJdVLUHu/jqEyabcePldsjz6UkxjA5AUrHeHRBiegnjcME1sJ8Nd5EpZcZONuuXMVQ70H0kH5DnousS61KWU52kX5nYliuhh2WwYacjNIru8xCrRClmKIiltqiw+I5RTCMnqQ==;1WdnpLFDfc7GQJt9I1NQfg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.co.uk/news/business-66608073.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-66608073.amp"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-
-related:
-  - title: "How artificial intelligence is driving change in insurance"
-    excerpt: "Even as AI technology continues to develop, there is much for us to do so we can prepare for the future and meet it head-on."
-    publishedDateTime: 2023-09-04T07:46:00Z
-    webUrl: "https://www.business-reporter.co.uk/finance/how-artificial-intelligence-is-driving-change-in-insurance"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 39
-    images:
-      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/033/iStock-1309799098.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "15bf23ei4NcAH5h1HDI0MsuWi14ioRjIPxv3hXak4VGu/nZ4Zj4JMGLzxNz8EpiSly5kUbFE96vTIip4oB0x41USoJpcgleFGWwRCVnSc1Z2iiJ9DOrIlacb0ZLFcbkZ4yxBxJPMt+wm15vRAXtqgUZ2yNMnZ/uFYrsz0k2FqCU7Vh/KUGlucC67O5u8xIXHqx6w6plbq1oop7AEV7zcDtsz9ncqbM4cpP56F40urASjJrsB2is37QOeY1IimSE1i2tE2y5PEzcKXWVPsHg1RsCPnQND2qsu3VTX+4Ih7uR3lz9CBIuB6aR6tBZm2j4Dt0cYYVbiGjnvEeo+ZfFgJx3o0ct787AmJHQIEacJHF8CCXIROtY+nfSKxKROaWQDONR0/21ZvKV0+DL2eX3yCixyVg4vWxwmP4E59OKf7HDX5jTJkON+xvH7WZZwtK33MefV61h7peW/4ItTrDJ7yoPmxgG23nkvekbaZ2dHQG2d63OiOaxe58ITSn/7Z9IBAJgM+BPVXaPWTMFKsqYcng==;frt5Ctbt9lhagSLipf056A=="
 ---

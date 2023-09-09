@@ -28,50 +28,31 @@ images:
     isCached: true
 
 related:
-  - title: "How to get a handle on shadow AI"
-    excerpt: "By allowing the use of AI tools proven to be safe, but requiring them to be used within explicit guidelines, you can alleviate both employee frustration and organizational risk."
-    publishedDateTime: 2023-09-04T09:06:00Z
-    webUrl: "https://www.infoworld.com/article/3705493/how-to-get-a-handle-on-shadow-ai.html"
-    ampWebUrl: "https://www.infoworld.com/article/3705493/how-to-get-a-handle-on-shadow-ai.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705493/how-to-get-a-handle-on-shadow-ai.amp.html"
+  - title: "My 5 favorite AI tools for school: Class is in session, and generative AI can help"
+    excerpt: "During last year's back-to-school season, ChatGPT had not yet been unveiled, and generative AI wasn't on everyone's radar. However, today, the topic is more popular than ever, and new helpful AI tools for students are released daily."
+    publishedDateTime: 2023-09-08T07:26:00Z
+    webUrl: "https://www.zdnet.com/article/my-5-favorite-ai-tools-for-school-class-is-in-session-and-generative-ai-can-help/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/my-5-favorite-ai-tools-for-school-class-is-in-session-and-generative-ai-can-help/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/my-5-favorite-ai-tools-for-school-class-is-in-session-and-generative-ai-can-help/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
+      name: ZDNet
+      domain: zdnet.com
+    quality: 81
     images:
-      - url: "https://images.idgesg.net/images/article/2020/07/shadow_of_hand_hovering_over_keyboard_cybercrime_cybersecurity_data_theft_hacking_by_dimitris66_gettyimages-509258975_2400x1600_cso_nw-100852242-large.jpg?auto=webp&quality=85,70"
+      - url: "https://www.zdnet.com/a/img/resize/949a661a78ead34fee854ac7a7d758e36b74306a/2023/09/07/1c6fb698-f446-4f99-87ef-04b1c12e5445/gettyimages-1467277901.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "Five Best Books to Read to Get Smart About AI"
-    excerpt: "It’s the hot topic that everyone is talking about. Here’s where to start to find out what it’s all about."
-    publishedDateTime: 2023-09-08T14:00:00Z
-    webUrl: "https://www.wsj.com/tech/ai/five-best-books-ai-24428966"
+  - title: "Governments Must Quickly Regulate Generative Ai In Schools, Unesco"
+    excerpt: "designed to address the disruptions caused by Generative AI technologies. Building on UNESCO's 2021 Recommendation on the Ethics of Artificial Intelligence and the 2019 Beijing Consenon Artificial Intelligence in Education , the guidance promotes human ..."
+    publishedDateTime: 2023-09-08T19:43:00Z
+    webUrl: "https://menafn.com/1107035192/Governments-Must-Quickly-Regulate-Generative-Ai-In-Schools-Unesco"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-848001/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "How The Gene of AI Dives into Human Problems"
-    excerpt: "True hard sci-fi examines human problems through the lens of new tech. This is The Gene of AI to a tee - here's why."
-    publishedDateTime: 2023-09-04T11:00:00Z
-    webUrl: "https://otakuusamagazine.com/gene-of-ai-themes/"
-    type: article
-    provider:
-      name: Otaku USA
-      domain: otakuusamagazine.com
-    quality: 39
-    images:
-      - url: "https://otakuusamagazine.com/wp-content/uploads/2023/09/ousa_ai_hero.png"
-        width: 848
-        height: 478
-        isCached: true
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
 
 secured: "k5cCIKnaE9oD07jblpTArEa9GrD55sr/SscMrWTf9sSkM6HLp854YRedXTkiAZafnOfdoQevVuSqfUpX3NzGGChc4POQ1NgXGR2p2MrrHN+xTZSh24Me+VSAgNK6kEOSlXPyDJTZxJUsdcOUcKQIBC21EycvCOVyK6WQfU6OBe9/n0sPGG1eup+m/0FjLNHt7lLx8wYYuUxlIhEyXWR4oB2cOfGsbDgSXhj+js0SLLdukrulpsRJtxTp6Ym+lWb1EopSsr5Z3SC+GY3ZiQRJiqobWCc/lqXy6QnUNkGdgvW6SkE6BOd/lDAO8XNxHk+4rCSQaGGoy/V9qPpXajTVUIU8Saml1g3EnoaQ8lfRHbQ=;mS0MheWay1sqOEp5FDbPfQ=="
 ---

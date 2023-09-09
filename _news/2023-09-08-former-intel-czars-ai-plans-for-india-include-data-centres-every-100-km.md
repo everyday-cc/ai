@@ -47,6 +47,20 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Efficient training for artificial intelligence"
+    excerpt: "Training an artificial intelligence consumes more energy the more demanding the tasks are. Víctor López-Pastor and Florian Marquardt, two scientists at the Max Planck Institute for the Physics of Light in Erlangen,"
+    publishedDateTime: 2023-09-08T16:32:00Z
+    webUrl: "https://www.mpg.de/20826914/neuromorphic-computer"
+    type: article
+    provider:
+      name: Max Planck Society
+      domain: www.mpg.de
+    quality: 54
+    images:
+      - url: "https://www.mpg.de/20826890/original-1694190147.jpg?t=eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0IjpudWxsLCJmaXQiOm51bGwsIm9ial9pZCI6MjA4MjY4OTB9--a52183c84030f9304a9d34521956318b35e6ac0f"
+        width: 1200
+        height: 1206
+        isCached: true
   - title: "Former Intel Exec Joins Untether AI as President to Drive Commercial Efforts in the Burgeoning AI Acceleration Market"
     excerpt: "View the full release here:  \"Untether AI has been growing at a rapid pace and Chris brings unique experience, growing world-leading chip businesses at the highest level,\" said Arun Iyengar, Untether AI CEO."
     publishedDateTime: 2023-09-05T16:45:00Z

@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The AI Hype Has Subsided, But the Revolution Continues"
-    excerpt: "The stock market has also had time to digest this information, leading to much higher valuations for Nvidia, but there are no signs in market prices that AI heralds the end of the"
-    publishedDateTime: 2023-09-04T07:27:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/09/04/ai-hype-has-subsided-but-technology-remains-as-powerful-as-ever/e18bfdcc-4b1e-11ee-bfca-04e0ac43f9e4_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4EPIWNCLDYI65P6KATQKYQ7Z4Q.jpg&w=1440"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "3xCaFlvDkjhbD0Z7winI25QHHPP1Wge+DQwKUnFltu/W80glUzfFbdZzCk85ZVLeGEFqLcJDhCk79+6OVNntdQHEfU+7RrKCogdeZ8Taf3rJCTa6QOGcyYpHUx5Rpj6+AASepUytTxfjJsrEFVybrK4ExrXX36E3brQhr3cxMs5LL1wP9K9NEJCb8W/QEoucJYegSjENEdC2auW2TGmTba2gY0yT7XSIAgeh3+AXyBUVIEO6+4noMFhr1aO5gJugnhVdB/v8yyWx6C4qCYry6PvPUxSvhC2ogpx5z/V3pYNWVJKaXZLh3BY7igQNn/L64/2ewf7chcLQPOmr1tcjH1EbXn5fvqofWTiJsOhw5Qs=;Klg+39Jx0X7HGTb/64I/VA=="
 ---

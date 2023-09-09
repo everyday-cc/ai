@@ -7,7 +7,7 @@ originalUrl: "https://www.houstonpublicmedia.org/npr/2023/09/04/1197138244/robot
 webUrl: "https://www.houstonpublicmedia.org/npr/2023/09/04/1197138244/robots-are-pouring-drinks-in-vegas-as-ai-grows-the-citys-workers-brace-for-change/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robots are pouring drinks in Vegas. As AI grows, the city's workers brace for change"
-    excerpt: "Workers in Las Vegas have been watching automation and technology inch into their workplace. Now with AI, the city is preparing to adapt its service-heavy tourism economy."
-    publishedDateTime: 2023-09-04T09:07:00Z
-    webUrl: "https://www.capradio.org/news/npr/story?storyid=1197138244"
-    type: article
-    provider:
-      name: Capital Public Radio
-      domain: capradio.org
-    quality: 47
-    images:
-      - url: "https://media.npr.org/assets/img/2023/09/01/img_2227-e4ff9eafcd401e007a1ed90c4b090f30f5244767.jpg?s=6"
-        width: 948
-        height: 711
-        isCached: true
   - title: "City of North Las Vegas expands AI-powered translation service to include 30 languages"
     excerpt: "The City of North Las Vegas has expanded its AI-powered translation technology to be available in 30 languages this week."
     publishedDateTime: 2023-09-07T15:12:00Z

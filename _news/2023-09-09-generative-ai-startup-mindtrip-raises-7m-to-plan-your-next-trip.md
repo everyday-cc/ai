@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 670
         isCached: true
+  - title: "Hugging Face Raises $235M for its Open Platform for AI and Machine Learning"
+    excerpt: "Hugging Face is the most-used open platform for AI builders. More than 50,000 organizations are using it to build, train, and deploy AI models like Stable diffusion, StarCoder, Llama, and more. It hosts over 300k models, 250k datasets, and 250k spaces."
+    publishedDateTime: 2023-09-07T13:29:00Z
+    webUrl: "https://www.alleywatch.com/2023/09/hugging-face-open-source-ai-platform-machine-learning-github-brigitte-tousignant/"
+    type: article
+    provider:
+      name: alleywatch.com
+      domain: alleywatch.com
+    quality: 32
 
 secured: "qbYvjdoxjVsrW257oDVF3QmAUTULV7CcnatbFFruJzXNW83879dhHxINSiW03Pn/s136F2DUyfPcOYJngMuVKeeAJhsAAIqScVbxPT1PZcSeHa1+JTh7LOltVSzx9IxSnPz2/fByCpBgMXW0plYVk6U+pp+o8rIhaxcfB8NGG3xHH0/JoQl6S5QVXkdrkrAwqek2HLQWsrSW1kZH0NEtIAkPUK5Zt4Lu7rze8sCB7He3FESaClV+k91TsDo67QGOO30Az6gfeihwX2GPJGSxA3eJZkcEQZuhbPyk0LX80BqsXIPaof9PL+KbcVm7KWhdi7Oyq/X68AlEAgZjAd581Xt7hqbaNGeQWeXnKEN3jEM=;7GfVPXSxaUZQYz4XQeXfZg=="
 ---

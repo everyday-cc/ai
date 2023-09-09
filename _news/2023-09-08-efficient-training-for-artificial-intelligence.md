@@ -1,123 +1,77 @@
 ---
 category: news
 title: "Efficient training for artificial intelligence"
-excerpt: "Víctor López-Pastor and Florian Marquardt, two scientists at the Max Planck Institute for the Science of Light in Erlangen, Germany, present a method by which artificial intelligence could be trained much more efficiently. Their approach relies on ..."
-publishedDateTime: 2023-09-08T14:01:00Z
-originalUrl: "https://www.nanowerk.com/news2/robotics/newsid=63602.php"
-webUrl: "https://www.nanowerk.com/news2/robotics/newsid=63602.php"
+excerpt: "Training an artificial intelligence consumes more energy the more demanding the tasks are. Víctor López-Pastor and Florian Marquardt, two scientists at the Max Planck Institute for the Physics of Light in Erlangen,"
+publishedDateTime: 2023-09-08T16:32:00Z
+originalUrl: "https://www.mpg.de/20826914/neuromorphic-computer"
+webUrl: "https://www.mpg.de/20826914/neuromorphic-computer"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Nanowerk
-  domain: nanowerk.com
+  name: Max Planck Society
+  domain: www.mpg.de
 
 topics:
-  - AI in Robotics
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://www.nanowerk.com/news2/robotics/id63602_2.jpg"
-    width: 800
-    height: 412
+  - url: "https://www.mpg.de/20826890/original-1694190147.jpg?t=eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0IjpudWxsLCJmaXQiOm51bGwsIm9ial9pZCI6MjA4MjY4OTB9--a52183c84030f9304a9d34521956318b35e6ac0f"
+    width: 1200
+    height: 1206
     isCached: true
 
 related:
-  - title: "Rethinking open source for AI"
-    excerpt: "Mehul Shah, founder and CEO of Aryn, a stealth startup that aims to reimagine enterprise search through AI, first outlined the problem for me in an interview. Shah, who spearheaded AWS’ OpenSearch business, is betting big on AI and also on open source."
-    publishedDateTime: 2023-09-04T09:02:00Z
-    webUrl: "https://www.infoworld.com/article/3706091/rethinking-open-source-for-ai.html"
-    ampWebUrl: "https://www.infoworld.com/article/3706091/rethinking-open-source-for-ai.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706091/rethinking-open-source-for-ai.amp.html"
+  - title: "Intel wants to beat bias AI training data"
+    excerpt: "He optimistically noted that, despite Nvidia's lead, it won't take long for Intel to start racking up orders for AI chips. \"They're doing well. We all have to give them credit,\" Gelsinger said. \"But we're going to show up.\" Plus, with Intel's recent debut ..."
+    publishedDateTime: 2023-09-04T17:00:00Z
+    webUrl: "https://www.fool.com/investing/2023/09/04/intel-wants-to-beat-bias-ai-training-data/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/09/artificial-intelligence-neural-network-human-face-picture-id1150038843-100860324-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "OpenAI admits that AI writing detectors don’t work"
-    excerpt: "In a section of the FAQ titled \"Do AI detectors work?\", OpenAI writes, \"In short, no. While some (including OpenAI) have released tools that purport to detect AI-generated content, none of these have proven to reliably distinguish between AI-generated and human-generated content.\""
-    publishedDateTime: 2023-09-08T15:42:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/09/openai-admits-that-ai-writing-detectors-dont-work/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/09/openai-admits-that-ai-writing-detectors-dont-work/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/openai-admits-that-ai-writing-detectors-dont-work/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 87
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/09/ai_detector_hero_2-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Analyst Ratings for C3.ai"
-    excerpt: "Within the last quarter, C3.ai (NYSE:AI) has observed the following analyst ratings: According to 5 analyst offering 12-month price targets in the last 3 months, C3.ai has an average price target of $35.8 with a high of $42.00 and a low of $28.00."
-    publishedDateTime: 2023-09-08T16:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/analyst-ratings-for-c3-ai-1032616827"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: The Motley Fool
+      domain: fool.com
     quality: 69
     images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/analyst_ratings_image_0.png"
-        width: 1024
-        height: 768
+      - url: "https://g.foolcdn.com/editorial/images/746485/featured-daily-upside-image.png"
+        width: 1390
+        height: 927
         isCached: true
-  - title: "Some CT schools are using artificial intelligence for student tutoring"
-    excerpt: "CT is partnering with tech company Varsity Tutors, which uses AI to connect students with tutors and design tutoring lesson plans."
-    publishedDateTime: 2023-09-06T09:00:00Z
-    webUrl: "https://ctmirror.org/2023/09/06/ct-schools-ai-artificial-intelligence-tutoring/"
+  - title: "How AI and machine learning are transforming data centers"
+    excerpt: "Impact of AI and machine learning on data center management and a colocation market poised for growth to US$65.2 billion by 2027."
+    publishedDateTime: 2023-09-06T01:05:00Z
+    webUrl: "https://techwireasia.com/2023/09/how-are-ai-and-machine-learning-meeting-data-center-demands/"
     type: article
     provider:
-      name: The Connecticut Mirror
-      domain: ctmirror.org
-    quality: 39
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 54
     images:
-      - url: "https://ctmirror-images.s3.amazonaws.com/wp-content/uploads/2023/08/2023_0823_SR_AIinSchools_017_1-scaled.jpeg"
+      - url: "https://techwireasia.com/wp-content/uploads/2023/09/AI-is-making-an-impact-to-transform-data-centers-and-meet-its-demands-scaled.jpg"
         width: 2560
         height: 1707
         isCached: true
-  - title: "Hugging Face Raises $235M for its Open Platform for AI and Machine Learning"
-    excerpt: "Hugging Face is the most-used open platform for AI builders. More than 50,000 organizations are using it to build, train, and deploy AI models like Stable diffusion, StarCoder, Llama, and more. It hosts over 300k models, 250k datasets, and 250k spaces."
-    publishedDateTime: 2023-09-07T13:29:00Z
-    webUrl: "https://www.alleywatch.com/2023/09/hugging-face-open-source-ai-platform-machine-learning-github-brigitte-tousignant/"
+  - title: "Former Intel czar’s AI plans for India include data centres every 100 km"
+    excerpt: "From how one of his memos led to ‘propaganda’ about chip packaging continuing Moore’s Law to the fate of soft-knowledge jobs in the post-AI era, former Intel chief architect Raja Koduri opens up in a"
+    publishedDateTime: 2023-09-08T13:11:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/startup/former-intel-czars-ai-plans-for-india-include-data-centres-every-100-km-11336021.html"
     type: article
     provider:
-      name: alleywatch.com
-      domain: alleywatch.com
-    quality: 32
-  - title: "A|I: The AI Times – Cohere reportedly hunting for fresh funding as OpenAI passes $1B revenue pace"
-    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
-    publishedDateTime: 2023-09-07T09:00:00Z
-    webUrl: "https://betakit.com/ai-the-ai-times-cohere-reportedly-hunting-for-fresh-funding-as-openai-passes-1b-revenue-pace/"
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 18
+  - title: "Former Intel Exec Joins Untether AI as President to Drive Commercial Efforts in the Burgeoning AI Acceleration Market"
+    excerpt: "View the full release here:  \"Untether AI has been growing at a rapid pace and Chris brings unique experience, growing world-leading chip businesses at the highest level,\" said Arun Iyengar, Untether AI CEO."
+    publishedDateTime: 2023-09-05T16:45:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/09/05/9874889.htm"
     type: article
     provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 26
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2023/06/Cohere.jpg"
-        width: 1050
-        height: 700
-        isCached: true
-  - title: "Explainable-AI Image Recognition achieves precise 3D descriptions of objects for US Air Force, a major AI breakthrough"
-    excerpt: "Z Advanced Computing, Inc. (ZAC), the pioneer CognitiveExplainable-AI (Artificial Intelligence) (Cognitive XAIor CXAI) software startup, has developed the \"Describer\""
-    publishedDateTime: 2023-09-05T17:03:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/n34245972/explainable-ai-image-recognition-achieves-precise-3d-descriptions-of-objects-for-us-air-force-a-ma"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
-secured: "k78kF6O6hl/9F/2bBf1E8GpPLg3169ZkQhiAF2XK/sx4kq9ZjcDh3XmK5WtxiNk/g7P3M7utLcXygojeXnGOqes+Jzh/v9tOXbSWRqfWG+YLEijgP+JPLSY7QzyeHmc1jzbTqiKF2+9H537bOBOqyYhPWHWhLHfUzbnmQA4f4kOqQDe3t8eaEG69IbjhKiz9H73S2zOaKwODg5c7dWMLyxJJAbpxKGhG58aUIiEzo3bfiSRreU3TThTgsn5pNIkMtW/n63JGojtMmxYsHYcD75wtuWzoXaLIJ9lBwv7ovMGxe1E+K8Sf4Wp54KzLvVARC1Z8f7mzerQqAGzMPepasfdh7g7Q+p9tIAbQ9v9xzJE=;kV0fPF+6cE36uA1A8EyKsw=="
+secured: "0IMeQO3Gf6by2e/Cs0h1FhDOrbyKTPWPJivgSWbo4+cufl+NclhkQTpbDVgmtuE0vcxuVLGQX2Y8KLos07TxdT5KnSc410jbPSYV+K1ny+30afzY4aGVyXWLsgoxJKM5yVdHb4TIAb8h/mUMMogFL0wAggwp8HIrpThS/4oTyQNcRccL7e2M5DpHupZqPJj+A1NxK+DPAxt/wMZ2brquJ15b4hYAA5130T2H17JDPNrm+4PEnvxaNjFFZYwbf2NVoaH537PzznCUHYYesXWnElkZSR+Gwp75gYoXcGilZOVTd8GY4uM/jOlzzIw52gxEPw4r96LoUatIq7I9Roo5Td6QFkc9Az0Xt5oMV7shLkw=;1PXqN5yd83IV3YWdQvzkPA=="
 ---
 

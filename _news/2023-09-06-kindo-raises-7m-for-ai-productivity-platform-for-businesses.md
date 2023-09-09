@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/kindo-raises-7m-for-ai-productivity-pla
 webUrl: "https://venturebeat.com/ai/kindo-raises-7m-for-ai-productivity-platform-for-businesses/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Hugging Face Raises $235M for its Open Platform for AI and Machine Learning"
+    excerpt: "Hugging Face is the most-used open platform for AI builders. More than 50,000 organizations are using it to build, train, and deploy AI models like Stable diffusion, StarCoder, Llama, and more. It hosts over 300k models, 250k datasets, and 250k spaces."
+    publishedDateTime: 2023-09-07T13:29:00Z
+    webUrl: "https://www.alleywatch.com/2023/09/hugging-face-open-source-ai-platform-machine-learning-github-brigitte-tousignant/"
+    type: article
+    provider:
+      name: alleywatch.com
+      domain: alleywatch.com
+    quality: 32
 
 secured: "k6CtoRUN6cNx6ooBEyK/P/Sk7HY9kGOg9c0NQwsfCCDBLCdCeloWFuWZ3J8mQeQ3U1g4SifRn8hXR82cwX790wpBRRp5Slo06qfUKnFdpWDPJGi1S1qLm5xoPhruF8W4Hp21TxVvx9r8J1IMqx5+QalHfNehVuo5yISiwNN1s+k/67fDNZXAbX3KQVegnPJ/wvBJBIbvy20FnQ3SXwfHLOt+hW7IMxKti/wHjWUbjok5WyXrP9+2w8shiFoD1OnCUcf+DS10qBY/M9QaEdeZQi8pdJKa81nnTpwArVcHOwCsTLj3RHrCcgWVTXZe5kCcvggQ9ir2T3UmHRaRMnKTqnNqCZBRcJ9Z7IJilrpPtS1GFVGxbqgjfc0ppchlNDPSdYk1+RyHSbpl5uS0TIczpqZm10PHL2gKIphmrkE4BqKxKIc68q7nchMvMzggGcbpmGwZlmpmSJOo//O6g6GjOJ7rL+Ncj1ogVbJ23SR0+2AkBNg6SQ7LBKUYpqMrJjYIT2jgeeiP0GajBe+uR36m2A==;d53TrOjuKKUxibz31Xdj+A=="
 ---
