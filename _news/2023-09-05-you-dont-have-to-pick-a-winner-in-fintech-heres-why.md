@@ -55,22 +55,6 @@ related:
         width: 533
         height: 405
         isCached: true
-  - title: "BIZCLIK MEDIA LAUNCHES SEPTEMBER EDITIONS OF FINTECH MAGAZINE & INSURTECH DIGITAL"
-    excerpt: "The September editions of FinTech Magazine and InsurTech Digital includes interviews with leading experts and executives from Volt.io, Fiserv, HSB Canada and Generali Vitality LONDON, Sept. 8, 2023 /P"
-    publishedDateTime: 2023-09-08T15:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/n34364571/bizclik-media-launches-september-editions-of-fintech-magazine-insurtech-digital"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34364571"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34364571"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "4 big FinTech funding rounds in MENA in August 2023"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-09-06T07:56:00Z
@@ -148,6 +132,15 @@ related:
     provider:
       name: Mint
       domain: livemint.com
+    quality: 0
+  - title: "BIZCLIK MEDIA LAUNCHES SEPTEMBER EDITIONS OF FINTECH MAGAZINE & INSURTECH DIGITAL"
+    excerpt: "This month's edition features an extensive lead interview with, HSB Canada's Vice President Client Solutions and Innovation, Lasith Lansakara and VP, Head of Information Technology, Michael Scarbeau about the company's journey through almost 150 years of insurance transfomation."
+    publishedDateTime: 2023-09-08T16:36:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/09/08/9877716.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "E7nbB8X5sZhtgS1DA9tYN4A45MXr1JmY7IP2AEnis30Urb8kZiQtB3K65BYNs9uqyg/PDDC/LH83uLl2eXPA2lVyEW68KIMgqVIaMUGv8rnI2ZjcyVhtCHdTN5SZzc0fqVvAS0UFXQ/6+aM47HOWLRVdiB6nFPEr+OasdKXE1ynlUblGyDoLc9pU8jKOX0l7fS3wHxF3/SBqtzVXFPJTkt6J+9vvtnP6TkhQtpdFuFNnR/xlrSdsCP91QysF+i65Jgg0rnYwdutZ2gLDhI0c5EW0vcoJiCgccLqiM30EFco2SMg4e2/5MrRwHdDTFWgDi9T2iLLPCSU/LJ6DvB2gFooSC2wvejszzKnW0otSUjM=;+pEh5dNIw/eP966WrY1N0g=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-09-machine-playing-field-fixinghelp
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-machine-playing-field-fixinghelping.amp"
 type: article
 quality: 60
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -71,15 +71,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Liberals doing everything they can to 'sabotage' the Voice while 'planning the sequel'"
-    excerpt: "“Their second referendum though won’t be on what indigenous people have asked for – just recognition, not a Voice … but then on the Voice they say they’re going to legislate for a Voice as well. “Beneath all of this fear campaign, both sides ..."
-    publishedDateTime: 2023-09-04T18:49:00Z
-    webUrl: "https://www.theaustralian.com.au/news/liberals-doing-everything-they-can-to-sabotage-the-voice-while-planning-the-sequel/video/3a29e44f26166090c0fe80138a7a9c45"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 0
 
 secured: "Awekdaib+xEUrSgK1fkWCVyZFXiFLCQUaSZNaJ+7S0a/OjyBixUd1uupLtHlJ1j9cZlqx6dQwxqEEwxuVkc14pcLMFcNgzdeH/UMK2NRA+3hRFoqyCG7adPacnbEwJmFsl6nRQfhldEIC7dJZfFMVNXHNefi/b/VDUbLVSFIJa0/8sip+3sHmg07I4GNtR6iKKdpW5GOYq/WHsrQKFs6PTOuloRPNE6MD1uX+n9JduBda+HWAKX3emznLJQ1DQApBhV9XFisqz9E2KbKX1m6+uE8NAkZtO+/B11kAUc8JyYwhh4Nhg4x2GlgM/xZ8yEb6uW3MyTBiynD04fUdfz8OMKq76YkQIYyZ5fMKeE48E9UcFYeQrd7TVBma5SMnzqynhqY2Eprg72/OcOJ/ngiOWJknzZWYEVippWLCReyU26xskXM/Ky6nJyuzgJESOi3mEB7zLzJ3zYIH6YdiyJB9KeidRrqEU6PUrxPEDd2ZdvUUVe3Tm5VBwkGuHDO1OAq0TD9xQWTwecpgVDi214UMA==;DiB1L1ZRg3FKpcUNjgcO4Q=="
 ---

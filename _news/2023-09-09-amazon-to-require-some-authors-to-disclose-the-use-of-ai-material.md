@@ -3,10 +3,10 @@ category: news
 title: "Amazon to require some authors to disclose the use of AI material"
 excerpt: "NEW YORK -- After months of complaints from the Authors Guild and other groups, Amazon .com has started requiring writers who want to sell books through its e-book program to tell the company in advance that their work includes artificial intelligence material."
 publishedDateTime: 2023-09-08T18:09:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/amazon-require-authors-disclose-ai-material-103042285"
-webUrl: "https://abcnews.go.com/Technology/wireStory/amazon-require-authors-disclose-ai-material-103042285"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/amazon-require-authors-disclose-ai-material-103042285"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/amazon-require-authors-disclose-ai-material-103042285"
+originalUrl: "https://abcnews.go.com/US/wireStory/amazon-require-authors-disclose-ai-material-103042284"
+webUrl: "https://abcnews.go.com/US/wireStory/amazon-require-authors-disclose-ai-material-103042284"
+ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/amazon-require-authors-disclose-ai-material-103042284"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/amazon-require-authors-disclose-ai-material-103042284"
 type: article
 quality: 57
 heat: -1
@@ -153,6 +153,6 @@ related:
         height: 377
         isCached: true
 
-secured: "/OVH6cMZLf+pZf2BjINn4MjZaVbGM63+ataD02n8+E9K02gbqFk2HQLEGCMoYfAgVqRwHHBCo+ek30b4ZPk8+ln1MVei8V32frFTcUvfcXV1PVVn8IAbzCxmmlyqkP4Mhk6TqCejMzhVDnuqsMczTD3I8zOv26k34JV+WVE+R0mpGPUEDRdu4gOS/Lt45OZemKDdyjIwl5wZ0VNrkfYHOmncfJz2f0jTM6QraU+Ny6oQgMwk1cuhl8BWlW7N2I1EOuTHjCxOb+ZDh7L4wPUQLngLvZtBZpzEFbzz/z/cftsWITgeJv7wKugwaTJhKCG2y1ndMv8bh1bHA/VtprlWFHb4NXKSVyoP1N86scZHK3k=;rshImDAaImVTkAUI9PslfQ=="
+secured: "aC8GfJ2oxMzsFTWPnglK86A91ocK1KhDuOE68Yb7YqZfTg2buxybTvxRZpYq9diTlpM9BTth7FRaggEIolDdpA5DqgfjB56eR0vxDIKLdbBWir6jhBJLG+r8z27DODOKS+ub6qmzqN9ELdwW1N2XXtsFRbVVg+c6QY0XgHnelnuoj/KmnqR/DLxp39ALzvXLPnc+zXDtC8ISkJ3TvoKLEHl+LqY9ZFgq0ueTcXyUcJfgtVWRdN2U/IHKJ+mSXztLSpvHmGZ4AeAqUW+CLLX7RQNRez+wpUAH9b/sJ2D7qotOIJxTqeFM9aCb2oWuzMfnj6emff44wwj7PWgnUrIml/U4O5gee//1VQHbJRGISBs=;1TlgiIPma+bGoOodfLT3gQ=="
 ---
 

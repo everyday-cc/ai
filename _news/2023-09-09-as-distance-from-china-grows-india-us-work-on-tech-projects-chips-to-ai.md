@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/india/as-distance-from-china-grows
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/india/as-distance-from-china-grows-india-us-work-on-tech-projects-chips-to-ai-8931140/lite/"
 type: article
 quality: 71
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -123,15 +123,6 @@ related:
       name: ThePrint
       domain: theprint.in
     quality: 16
-  - title: "PM Modi, Nvidia CEO discuss India's rich potential in artificial intelligence"
-    excerpt: "PM Modi in a post on X wrote, \"Had an excellent meeting with Mr. Jensen Huang, the CEO of @nvidia. We talked at length about the rich potential India offers in the world of AI. Mr. Jensen Huang was appreciative of the strides India has made in this sector and was equally upbeat about the talented youth of India.\""
-    publishedDateTime: 2023-09-04T17:43:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/World/20230904/4115578.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 14
 
 secured: "DlSmA7Vd3Pj6cmNRxqGrszJCIBhqUC6ybZGMKVkPahYvACSAg5CGqMB1iqowiqb8NwiUrqzJr0tZ7W12zeCXV64CscUiWP0qPzhcMqgrak4Q8d4E6BnSKvRhptYfFeryLG2WOHhVtDT/BbAlF709f23WgXOB1snQpSdvpJawgi7wMJhNI0tuVUAozAdtOu+RnfKWVdFF+R2o2tKJrFkLe0LlRPzqi51PhWQwvNXLomTRt3+6xEBkuwEszPEvgtitNOqTstOqrhto/FtPyVvEE2o0iz2h/BVTDKNTTx7j9TLEHH6cf7UiZ2+e/gNGDbPhpAw1W4FyXh/eAAqsii+yq3Tx99c0qRlgSetFwolckNRtkp0FhFnf26bARaeyL98H/xz5yULOCY3Y9brDmmRpVWKNL5wK78W7Cg72Aa3scXUGxcKwdFX2W0EKOF101PCi8UaRTTIRYug2Y43jTSutnJ+DDko2sT5rfOkIYSPfX/TaiABUk5DLjpQ/BCUYRop3KfkRE29HA4Vwy6UoMa8K3g==;UKl5iBLcgCrUZqeBTF2hxw=="
 ---

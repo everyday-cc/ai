@@ -297,15 +297,6 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 15
-  - title: "Is there a ChatGPT app?"
-    excerpt: "Powered by the advanced GPT-3.5 architecture, it represents a remarkable milestone in the field of natural language processing. ChatGPT has been trained on a diverse range of internet text, equipping it with the ability to engage in coherent and ..."
-    publishedDateTime: 2023-09-04T18:01:00Z
-    webUrl: "https://www.dailydot.com/debug/chatgpt-app/"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 4
 
 secured: "dwXg2M2XB9H5DYvZuUJPeC8XiJDHSPBOj6KU2KYipsrtuIe3a9hFY5sxQPzmJ2bKlRqkrmgYtr1s28dzJZDB9zGb5TVRHdvj+FaMsOsxdJ2cpKdgv+qKkuvcjIP3Q82C7xhd/qntr3Z+0QtWEzKNvp2oseBJktlUC/iFZLZmcIRIiDDE44dL/kNy7YS2zuK+o6aVR8ZjlCgGdJBdhX6vOci2t9fzjQtHFjw+mqRphjURCdNxyoc6qb35y04cS8VksgR7FbomPIKHJjJnxrG+pqi8yOAuk5JvRvkAp9itB+RqSeZTZw5jJWE55OEZw/t7nYV6cIZxOa3yUKYNNpQUG8YMBqBy2GPbLt07p27XGJRlLA1PK9lfBbjP7po5E09OvduOBMEehz4ZzsytY9qkjF1A9G9uTL8gw/osDTWjMRNnv0jm2GQF9R7zOsrXLHaVrEPre1Ov9yGLJaS0uDfkXnYEaWJok1EeUE2jqqGQhQGl62ovfM/ZzLtSKHEfFHtHx7gxQP/u1hK0TAeyhmEewA==;5oHiTo1f8py1brFP4OMj4w=="
 ---

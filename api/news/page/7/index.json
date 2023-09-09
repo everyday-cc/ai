@@ -2,6 +2,50 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-09-03-bridging-the-human-ai-coexistence-ethical-landscape.md",
+      "title": "Bridging the human-AI coexistence ethical landscape",
+      "excerpt": "Language translation: AI language translation services can help humans communicate across language barriers, but they still require human oversight to ensure accuracy and cultural sensitivity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/digital-transformation-bridging-the-human-ai-coexistence-ethical-landscape-3230866/",
+      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-bridging-the-human-ai-coexistence-ethical-landscape-3230866/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design209.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-bridging-the-human-ai-coexistence-ethical-landscape-3230866/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-bridging-the-human-ai-coexistence-ethical-landscape-3230866/lite/",
+      "publishedDateTime": "2023-09-02T21:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-09-03-revealed-home-office-secretly-lobbied-for-facial-recognition-spy-company.md",
       "title": "Revealed: Home Office secretly lobbied for facial recognition ‘spy’ company",
       "excerpt": "The use of facial recognition has provoked fierce criticism over its impact on privacy and human rights, with the European Union seeking to ban the technology in public spaces through proposed ...",
@@ -1128,49 +1172,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-02-seismologists-use-deep-learning-to-forecast-earthquakes.md",
-      "title": "Seismologists use deep learning to forecast earthquakes",
-      "excerpt": "To continue applying deep learning models to aftershock forecasting, Dascher-Cousineau says the field needs a better system for benchmarking. In order to demonstrate the capabilities of the RECAST model, the group first used an ETAS model to simulate an ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-09-seismologists-deep-earthquakes.html",
-      "originalUrl": "https://phys.org/news/2023-09-seismologists-deep-earthquakes.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/seismologists-use-deep-1.jpg",
-          "width": 2128,
-          "height": 1022,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-09-seismologists-deep-earthquakes.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-seismologists-deep-earthquakes.amp",
-      "publishedDateTime": "2023-09-01T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

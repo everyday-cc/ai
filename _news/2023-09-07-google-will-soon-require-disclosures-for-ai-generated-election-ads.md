@@ -63,9 +63,9 @@ related:
   - title: "Amazon to require some authors to disclose the use of AI material"
     excerpt: "NEW YORK -- After months of complaints from the Authors Guild and other groups, Amazon .com has started requiring writers who want to sell books through its e-book program to tell the company in advance that their work includes artificial intelligence material."
     publishedDateTime: 2023-09-08T18:09:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/amazon-require-authors-disclose-ai-material-103042285"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/amazon-require-authors-disclose-ai-material-103042285"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/amazon-require-authors-disclose-ai-material-103042285"
+    webUrl: "https://abcnews.go.com/US/wireStory/amazon-require-authors-disclose-ai-material-103042284"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/amazon-require-authors-disclose-ai-material-103042284"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/amazon-require-authors-disclose-ai-material-103042284"
     type: article
     provider:
       name: ABC

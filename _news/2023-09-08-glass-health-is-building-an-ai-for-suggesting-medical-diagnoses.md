@@ -21,22 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Regulating AI is a mistake"
-    excerpt: "Although AI regulation will eventually be necessary, following Altman’s roadmap to regulate at such an early stage would be a mistake."
-    publishedDateTime: 2023-09-08T00:10:00Z
-    webUrl: "https://www.michigandaily.com/opinion/regulating-ai-is-a-mistake/"
-    type: article
-    provider:
-      name: The Michigan Daily
-      domain: michigandaily.com
-    quality: 41
-    images:
-      - url: "https://www.michigandaily.com/wp-content/uploads/2023/09/AI.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
-
 secured: "DnwGb4op3oCveT1wXOcEOIDD+FYt8Q+36EGxnD20xg23wlwmkfQkHqrKSaZJA51keu0/KXmKOAB0cthp7iOg9TynFeWOFzp4+Z05Cw7ThdTBQkZM2YM+2tVape3vGEdBgBo9ZD2b9TrzfFaefyAswsZKXEgBGtUBoLFgHinMJAJuyBmXwdP2nigaqwflyvWE0mnb1VVXzvDU4vnQGYCUL4HxjzbWe/y0MJYTxS5KUV5tHyATrFPMCDcbgWgB83/vnT9hZicqoWAAxaQ6Y3EmW8QRVNUR6U1XEAwf/YA8t8R3+7hXWhzRF6jiwIvingq9FOHtUxVCEJ+y0qcwZCtcbXXcXDdvhfQBefoWBPCDAZg=;ZCmGpT+YGdCnOdxRtxHg1g=="
 ---
 

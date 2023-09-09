@@ -2,6 +2,108 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-08-my-5-favorite-ai-tools-for-school-class-is-in-session-and-generative-ai-can-help.md",
+      "title": "My 5 favorite AI tools for school: Class is in session, and generative AI can help",
+      "excerpt": "During last year's back-to-school season, ChatGPT had not yet been unveiled, and generative AI wasn't on everyone's radar. However, today, the topic is more popular than ever, and new helpful AI tools for students are released daily.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/my-5-favorite-ai-tools-for-school-class-is-in-session-and-generative-ai-can-help/",
+      "originalUrl": "https://www.zdnet.com/article/my-5-favorite-ai-tools-for-school-class-is-in-session-and-generative-ai-can-help/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/949a661a78ead34fee854ac7a7d758e36b74306a/2023/09/07/1c6fb698-f446-4f99-87ef-04b1c12e5445/gettyimages-1467277901.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/my-5-favorite-ai-tools-for-school-class-is-in-session-and-generative-ai-can-help/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/my-5-favorite-ai-tools-for-school-class-is-in-session-and-generative-ai-can-help/",
+      "publishedDateTime": "2023-09-08T00:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-08-agt-judge-simon-cowell-reveals-he-is-not-a-fan-of-ai.md",
+      "title": "'AGT' judge Simon Cowell reveals he is ‘not a fan’ of AI",
+      "excerpt": "\"A lot of people said why, and I said I miss it, I really, really do,\" Cowell, who got his start in music publishing ... the music industry is already facing concerns about the use of AI in the creation of new works. In July, the Recording Academy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/agt-judge-simon-cowell-reveals-not-fan-of-ai",
+      "originalUrl": "https://www.foxnews.com/entertainment/agt-judge-simon-cowell-reveals-not-fan-of-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/09/1200/675/Simon-Cowell.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/agt-judge-simon-cowell-reveals-not-fan-of-ai.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/agt-judge-simon-cowell-reveals-not-fan-of-ai.amp",
+      "publishedDateTime": "2023-09-08T00:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-08-studio-chiefs-talk-barbie-ai-and-strike-at-goldman-sachs-tech-summit.md",
       "title": "Studio Chiefs Talk Barbie, AI And Strike At Goldman Sachs Tech Summit",
       "excerpt": "Warner Bros. Discovery, Paramount, News Corp. and Mattel CEOs weigh in on the new Hollywood hit machine, all dressed up in pink.",
@@ -300,57 +402,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-california-joins-the-ai-regulation-frenzy.md",
-      "title": "California Joins the AI Regulation Frenzy",
-      "excerpt": "California Gov. Gavin Newsom signs an executive order that calls for agencies to study how generative AI can help, and potentially hurt, California's economy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/california-joins-the-ai-regulation-frenzy",
-      "originalUrl": "https://www.pcmag.com/news/california-joins-the-ai-regulation-frenzy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/02UrbFudsb8dgXt2l49YO4Q-2.fit_lim.size_1200x630.v1694123436.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-07T14:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -993,7 +1044,7 @@
       "originalUrl": "https://techcrunch.com/2023/09/07/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 319,
+      "heat": 309,
       "tags": null,
       "images": [
         {
@@ -1180,58 +1231,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-facebook-trains-its-ai-on-your-data-opting-out-may-be-futile.md",
-      "title": "Facebook Trains Its AI on Your Data. Opting Out May Be Futile",
-      "excerpt": "Here's how to request that your personal information not be used to train Meta's AI model. \"Request\" is the operative word here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/facebook-trains-ai-your-data-opt-out/",
-      "originalUrl": "https://www.wired.com/story/facebook-trains-ai-your-data-opt-out/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/64f8e6ac3e1a7b4810e35758/191:100/w_1280,c_limit/Facebook-Trains-Its-AI-on-Your-Data.-Opting-Out-May-Be-Futile-Security-GettyImages-1408270724.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-07T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

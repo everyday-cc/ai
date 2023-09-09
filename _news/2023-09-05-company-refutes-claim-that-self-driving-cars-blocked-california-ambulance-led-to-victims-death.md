@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ksn.com/news/national-world/company-refutes-claim-that-s
 cdnAmpWebUrl: "https://www-ksn-com.cdn.ampproject.org/c/s/www.ksn.com/news/national-world/company-refutes-claim-that-self-driving-cars-blocked-california-ambulance-led-to-victims-death/amp/"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -27,29 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "California Joins the AI Regulation Frenzy"
-    excerpt: "California Gov. Gavin Newsom signs an executive order that calls for agencies to study how generative AI can help, and potentially hurt, California's economy."
-    publishedDateTime: 2023-09-07T21:51:00Z
-    webUrl: "https://www.pcmag.com/news/california-joins-the-ai-regulation-frenzy"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/02UrbFudsb8dgXt2l49YO4Q-2.fit_lim.size_1200x630.v1694123436.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "AI Regulation: Why It's Already Going Off The Rails"
-    excerpt: "Taking a laissez faire approach to AI is no solution. This technology can be misused or can have unintended consequences."
-    publishedDateTime: 2023-09-07T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/07/ai-regulation-why-its-already-going-off-the-rails/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "California to set guidelines for public sector generative AI"
     excerpt: "The state, which joins a growing number of governing bodies scrutinizing generative AI, will issue public sector usage guidelines by January."
     publishedDateTime: 2023-09-08T11:44:00Z
@@ -64,19 +41,21 @@ related:
         width: 770
         height: 435
         isCached: true
-  - title: "Governor Gavin Newsom signs executive order to prepare California for progress of Artificial Intelligence."
-    excerpt: "SANTA BARBARA, Calif.— Governor Gavin Newsom signed an executive order to prepare California for the progress of Artificial Intelligence. This technology has the potential to reshape our lives, for better or for worse. Newsom’s executive order aims to ..."
-    publishedDateTime: 2023-09-07T00:52:00Z
-    webUrl: "https://keyt.com/news/santa-barbara-s-county/2023/09/06/governor-gavin-newsom-signs-executive-order-to-prepare-california-for-progress-of-artificial-intelligence/"
+  - title: "Self-driving car blocking road ‘delayed patient care’, San Francisco officials say"
+    excerpt: "The rebel group stopping self-driving cars in San Francisco – one cone at a time The company denied the city’s claims and shared video with the Guardian that shows one of the vehicles quickly ..."
+    publishedDateTime: 2023-09-06T15:18:00Z
+    webUrl: "https://www.theguardian.com/us-news/2023/sep/05/san-francisco-cruise-robotaxi-death-ambulance"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2023/sep/05/san-francisco-cruise-robotaxi-death-ambulance"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/sep/05/san-francisco-cruise-robotaxi-death-ambulance"
     type: article
     provider:
-      name: KEYT
-      domain: keyt.com
-    quality: 19
+      name: The Guardian
+      domain: theguardian.com
+    quality: 38
     images:
-      - url: "https://keyt.b-cdn.net/2023/09/Screen-Shot-2023-09-06-at-5.51.03-PM.png"
-        width: 1198
-        height: 576
+      - url: "https://i.guim.co.uk/img/media/4a1c4e0fa44e260e73747e614402cdba4dd05189/0_271_5928_3557/master/5928.jpg?width=620&quality=85&auto=format&fit=max&s=519bb133fd5f8c0c20116a62d0ea34c2"
+        width: 620
+        height: 372
         isCached: true
 
 secured: "9rgbI8FT7/Bbe0T8HrKdVIDu2Yx2gf/c/ehzyxBt87zzTF3rb1E8gMkvAl6e+xugEywXiD8w9nBMu2AUzenjLpy/ocrvCmiUpiVg5fAxegYTYo3XIFNYainxi8oMXQU2Xc+RiMoEqHTZKqhPTqju1xdp2XCUtuWc8GAdIYFImVv2G9+7NUkR9c0vebahW2apNQjN3UdxUF4O3wSPwFTRKr4xEosPo5TX+07nDmQ5AaXdCqHhqKJJnsItTtGpVW6wKhPYwLMOqcgpWGJAln9Q7l5ClY66rnETBAI2CpgTSjZBz5DwphddW9KfaL1lTVO4SfobBVw0aMq0mipdeN/CKnzz1hO2sHRRxNAeTrf/xK1Yyre1fWHF7i9VJmZJC/cbbipGvCOkfNmxN5AozeSNft1wA6iTEIRgNpxaINcGfv4dbt7/k1+az6N78jGtLew5RyMlStJPoolw/BLAYDz244t9FOYf/JlfccHuRsBidTzHty3Yx1QsDgcatW9c5Pp/mgwEI0GyWPUQzWXOg1LGNA==;RaFU58igVOAp39m0VWvvxg=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/0
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/06/ai-implementation-moving-from-buzz-to-tangible-business-solutions/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 1500
         height: 800
         isCached: true
-  - title: "Impulse AI Revolutionizes Marketing and Content Creation With Cutting-Edge AI Solutions"
-    excerpt: "This tool is a game-changer.\" - Lawrence Schroth, Managing Director. Impulse AI offers various subscription packages tailored to different needs: - Essential Start - Free package with Curie (Good) Open AI Model, 36 AI Templates, 5 Images per month ..."
-    publishedDateTime: 2023-09-04T18:40:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/ab34213002/impulse-ai-revolutionizes-marketing-and-content-creation-with-cutting-edge-ai-solutions"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 26
 
 secured: "fQjquWrOWpH1w7Cqp4CKYXfMAMlP/Ab06gfAhVDjPS73FndRSUCWUAnrlng9J9uLtirdkM7QMq/9N6u0MwdNCekV1gKzGhsEkFXwHCI6UyXq2mjaEfPctlkTJHhVXnEwij031V+RJ1GLEwM46lfaES+et3PtAcIbAGd+R6cIUe6J9ZvB8fGJmndbEnRXolIeqOPS8hkwpgdOxouvhlore/GlTYox6aRjzKL7lHCbftxfbzxJ0gqXywM+JL6JoAII/RfkL8xkwpH8Ya8p1T4VVGW2wOVqKVh0VbgOoYcTpWgCKNmT08DyVjPBQcEfJrzWi6ESYJfsqw1/Vhkly6PRdz76T3OhJQ4RUOGRZXmh2pRbE8IL6exiVioxlQ/JRue/ZmVLUcIHA0yKJErfmeweER5fMSLwCCv28eUiNJ4vorhIxuGJpiK0wefOnjKiaadsKI8L+F7vDwo5ARMbJIwxTBCj+zLKyibtnJDm62xudP4KFXWJGBCW/86ZwaNxDRfRyYRGqdpQMXJW9PAj/0sUfQ==;Q7Y4+CKI7B2NvCBmH2FYTw=="
 ---

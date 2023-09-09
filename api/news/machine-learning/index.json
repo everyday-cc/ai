@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-09-indigenous-knowledge-informing-machine-learning-could-prevent-stolen-art-and-other-culturally-unsafe-ai-practices.md",
+      "title": "Indigenous knowledge informing 'machine learning' could prevent stolen art and other culturally unsafe AI practices",
+      "excerpt": "Artificial intelligence (AI) relies on its creators for training, otherwise known as \"machine learning.\" Machine learning is the process by which the machine generates its intelligence through outside input.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-09-indigenous-knowledge-machine-stolen-art.html",
+      "originalUrl": "https://techxplore.com/news/2023-09-indigenous-knowledge-machine-stolen-art.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/aboriginalart.jpg",
+          "width": 1920,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-09-indigenous-knowledge-machine-stolen-art.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-indigenous-knowledge-machine-stolen-art.amp",
+      "publishedDateTime": "2023-09-09T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-08-improving-asset-health-and-grid-resilience-using-machine-learning.md",
       "title": "Improving asset health and grid resilience using machine learning",
       "excerpt": "Machine learning (ML) is transforming every industry, process, and business, but the path to success is not always straightforward. In this blog post, we demonstrate how Duke Energy, a Fortune 150 company headquartered in Charlotte, NC., collaborated with the AWS Machine Learning Solutions Lab (MLSL)",
@@ -63,7 +106,7 @@
       "originalUrl": "https://techxplore.com/news/2023-09-machine-playing-field-fixinghelping.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -1315,50 +1358,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-ibms-brain-inspired-analog-chip-aims-to-make-ai-more-sustainable.md",
-      "title": "IBM’s Brain-Inspired Analog Chip Aims to Make AI More Sustainable",
-      "excerpt": "When pitted against conventional computers, the chip used less than a tenth of the energy normally required for some tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2023/08/25/ibms-brain-inspired-analog-chip-aims-to-make-ai-more-sustainable/",
-      "originalUrl": "https://singularityhub.com/2023/08/25/ibms-brain-inspired-analog-chip-aims-to-make-ai-more-sustainable/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2023/08/Analog-AI_testing-board.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2023/08/25/ibms-brain-inspired-analog-chip-aims-to-make-ai-more-sustainable/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/08/25/ibms-brain-inspired-analog-chip-aims-to-make-ai-more-sustainable/?amp=1",
-      "publishedDateTime": "2023-08-25T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -71,15 +71,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Liberals doing everything they can to 'sabotage' the Voice while 'planning the sequel'"
-    excerpt: "“Their second referendum though won’t be on what indigenous people have asked for – just recognition, not a Voice … but then on the Voice they say they’re going to legislate for a Voice as well. “Beneath all of this fear campaign, both sides ..."
-    publishedDateTime: 2023-09-04T18:49:00Z
-    webUrl: "https://www.theaustralian.com.au/news/liberals-doing-everything-they-can-to-sabotage-the-voice-while-planning-the-sequel/video/3a29e44f26166090c0fe80138a7a9c45"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 0
 
 secured: "tE3/zU6S7l/SAVrDuNNE8Fov328Xw/emUUFaAzaRXJOf6AfK/6p+Mw9fD29jorbg1OCrlLuB3bR0Zd+b2GvxlcKAswlVX9M21QMXZlxdudVNw++mADW1BIhqBTYBzi6N7EjuOA6myn0ubhQanO4vbd1zkHmdlrd6+yoKZwAFnY881CdBbGAWEjXqm4HOUsfOkpCuQDzSZ8tzWU5fwO0/12+VDF/cBXh7DEHwB/GGP0dJfwjBgq6JQIPT929IZNp6qlo+9Nmvc6vXC44U8D/0a6rOVI1t9NT4vQE8Mdz/d3OUe4nVli7k9+3UELtukGm+0epw7fy9zIy0ODHEby2Ke6p3JHTbbO5RflxwccpxVhU/HH7qqPAWAVINaRGU30WcSxvYk9ElILuUpVzwFlE8QzA7u62UKKEMcLMcidzD417DbajmM0yszqJWUn/B5WcBVxkeDCN3T+DgD1uPM7AKV7VPeAFoCmWJCYHvXSAeqHox35pW+7SAaOWvTrKODJJcmRrab5ElpyVTJi1YRs96NA==;tN+TKalZTUZWxNbDC1KjIA=="
 ---

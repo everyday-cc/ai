@@ -7,8 +7,8 @@ originalUrl: "https://www.pcmag.com/news/california-joins-the-ai-regulation-fren
 webUrl: "https://www.pcmag.com/news/california-joins-the-ai-regulation-frenzy"
 type: article
 quality: 67
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: PC Magazine
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Europe In The Lead In AI Regulation"
+    excerpt: "Europe leads in AI regulation and the UK wants to be the locus of AI standards - if so it should locate its efforts in Northern Ireland."
+    publishedDateTime: 2023-09-09T06:49:00Z
+    webUrl: "https://www.forbes.com/sites/mikeosullivan/2023/09/09/europe-in-the-lead-in-ai-regulation/"
+    ampWebUrl: "https://www.forbes.com/sites/mikeosullivan/2023/09/09/europe-in-the-lead-in-ai-regulation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/09/09/europe-in-the-lead-in-ai-regulation/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64fc13766cd5e984ea1a562f/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 904
+        isCached: true
   - title: "AI Regulation: Why It's Already Going Off The Rails"
     excerpt: "Taking a laissez faire approach to AI is no solution. This technology can be misused or can have unintended consequences."
     publishedDateTime: 2023-09-07T12:15:00Z
@@ -37,49 +53,19 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Company refutes claim that self-driving cars blocked California ambulance, led to victim’s death"
-    excerpt: "Authorities say the self-driving cars blocked an ambulance from getting to the hospital, a claim the car company is now refuting."
-    publishedDateTime: 2023-09-05T14:18:00Z
-    webUrl: "https://www.ksn.com/news/national-world/company-refutes-claim-that-self-driving-cars-blocked-california-ambulance-led-to-victims-death/"
-    ampWebUrl: "https://www.ksn.com/news/national-world/company-refutes-claim-that-self-driving-cars-blocked-california-ambulance-led-to-victims-death/amp/"
-    cdnAmpWebUrl: "https://www-ksn-com.cdn.ampproject.org/c/s/www.ksn.com/news/national-world/company-refutes-claim-that-self-driving-cars-blocked-california-ambulance-led-to-victims-death/amp/"
+  - title: "Regulating AI is a mistake"
+    excerpt: "Although AI regulation will eventually be necessary, following Altman’s roadmap to regulate at such an early stage would be a mistake."
+    publishedDateTime: 2023-09-08T00:10:00Z
+    webUrl: "https://www.michigandaily.com/opinion/regulating-ai-is-a-mistake/"
     type: article
     provider:
-      name: ksn.com
-      domain: ksn.com
-    quality: 46
+      name: The Michigan Daily
+      domain: michigandaily.com
+    quality: 41
     images:
-      - url: "https://www.ksn.com/wp-content/uploads/sites/13/2023/09/gettyimages-1529168853-594x594-1.jpg?w=1280"
-        width: 594
-        height: 371
-        isCached: true
-  - title: "California to set guidelines for public sector generative AI"
-    excerpt: "The state, which joins a growing number of governing bodies scrutinizing generative AI, will issue public sector usage guidelines by January."
-    publishedDateTime: 2023-09-08T11:44:00Z
-    webUrl: "https://www.ciodive.com/news/California-executive-order-generative-AI-Zoom-FTC/693012/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 39
-    images:
-      - url: "https://www.ciodive.com/imgproxy/A2J69zpCMgQaptSWvERjGTJUqgKmWsT0ccrh8tl2bEM/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0NjE0NDM3MTcuanBn.jpg"
-        width: 770
-        height: 435
-        isCached: true
-  - title: "Governor Gavin Newsom signs executive order to prepare California for progress of Artificial Intelligence."
-    excerpt: "SANTA BARBARA, Calif.— Governor Gavin Newsom signed an executive order to prepare California for the progress of Artificial Intelligence. This technology has the potential to reshape our lives, for better or for worse. Newsom’s executive order aims to ..."
-    publishedDateTime: 2023-09-07T00:52:00Z
-    webUrl: "https://keyt.com/news/santa-barbara-s-county/2023/09/06/governor-gavin-newsom-signs-executive-order-to-prepare-california-for-progress-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: KEYT
-      domain: keyt.com
-    quality: 19
-    images:
-      - url: "https://keyt.b-cdn.net/2023/09/Screen-Shot-2023-09-06-at-5.51.03-PM.png"
-        width: 1198
-        height: 576
+      - url: "https://www.michigandaily.com/wp-content/uploads/2023/09/AI.jpg"
+        width: 2400
+        height: 1600
         isCached: true
 
 secured: "kywA/oBpeJBJAKQ5BZCUmOEa0Z668aaFKT3vId3rDSHqHUXXEroYdvbp6THBMvsLTeE7Y++zSas60QM7SC1V8LR+fPz5aQGoSZrUU/I1lV9v0Je1Fxd3JejiL41lSZBNZ5XpjjHsZLhGz7osdVwKipR8KnY5R+8/RudcsRD176YJL4i+OIxOdS/N70V6SDtcTpGvjuKug6w6/yHI5rXHIm3qIWwqgaIZEmRmG0f43O6xEo32QZ+mgp/4zzcmZgJw/RVtbxYCeiOpMHzV31MiZ9TyKVH/3gMiFyjZw2HcwsXDvj8Z7fYMOPyVizc63NFRpA9X+iqqX0V+zHBM6ogvdWGCCuxX2/03mAc3SzVrw/5gbh9sSv0jynUKR5YFk/Xu6k+VrE3ojsJ9IBAdPZXiKB/MoiQdNFUG/iCboKqmvfQ4+bTIrdE7eeH8k/kYkMr1a7wB3G4fY4yIGVkFiYRVVBuwtsvWXg+8cLbqzyi7K2VQWvb1qOVRAr20fVZEGcaBVdY8UtguIxn9W1uyUQYmEg==;BpMOOWUBZpt0YFff+B91DA=="

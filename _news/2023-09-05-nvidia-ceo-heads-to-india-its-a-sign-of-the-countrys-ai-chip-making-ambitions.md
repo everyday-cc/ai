@@ -123,15 +123,6 @@ related:
       name: ThePrint
       domain: theprint.in
     quality: 16
-  - title: "PM Modi, Nvidia CEO discuss India's rich potential in artificial intelligence"
-    excerpt: "PM Modi in a post on X wrote, \"Had an excellent meeting with Mr. Jensen Huang, the CEO of @nvidia. We talked at length about the rich potential India offers in the world of AI. Mr. Jensen Huang was appreciative of the strides India has made in this sector and was equally upbeat about the talented youth of India.\""
-    publishedDateTime: 2023-09-04T17:43:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/World/20230904/4115578.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 14
 
 secured: "MRa1FzMfcwmRvH83mQRzr0RdLnw8JRsdF+LY9Ol1corGmGbzGfprUWIxwD9CRIwKWuO2jjSfNJL6SGIcRYU8SW7h28i8WlSsO7YdiJsGw5LQJeW/IgUg3SVKJ2e9IqEVy/1Dm1FZn0YhoU2RSD8awW3x9x/9IMJsk1K0pyJY2Uv/JyuH/nipcJMj47olNaOMjHL3OEh0xPJ0yj/HMNH+7F6DBvS4dARYVcogDg6+tZ7hFdYcmFiDqy4spcb2z5IGkK7CkdZcOJbPhbA/SIGuRpUv3m1ag/U60mFD7wC2yPC00WB1wKLjYgJMyYyk+MJtK3sD1PcHuQxttrNgL3hT/sqwH+T0VVmvQYLn7sraAHOEkErESF6/ecZDWxC+gDzsmGKvnt1D6AfCwLzL6jrSYHK7wc1uD/mBoLY0S3Jfbd6QORd66enDmBi30jssfl/T8TwYuZsM+ne5ONb66PPKRqjrZwhwHwswaAIlXYPZWOwGqliytTENBliy6awj4xekV3kBRu9AxPvyg+dsMNEdpw==;z8GjAg0PVLYAH4RybuD9lw=="
 ---
