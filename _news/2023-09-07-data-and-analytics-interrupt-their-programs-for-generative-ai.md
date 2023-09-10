@@ -85,15 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Best analytics and business intelligence platforms"
-    excerpt: "Some of the leaders in the analytics and business intelligence platform market include Microsoft, Salesforce, Tableau, and Qlik."
-    publishedDateTime: 2023-09-05T13:44:00Z
-    webUrl: "https://mybroadband.co.za/news/software/506648-best-analytics-and-business-intelligence-platforms.html"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 4
 
 secured: "jZRhfCoRuDUm6eoSXv6bq6/lB1AX76hYZY1n4bxIxFfItzfgWeMmslJ/8WxLb8XisIl3DeLFAIZ+6jacL/8AMuIITdx2EfWDlHGj+vmDdnWdA4J4V22lbSrlgbgoJezAEOF6ZOGvG4qqZeH+VDDlRR4xs+TCVr3m1GaBaqhhksQOW7BkoMfy20N0/Bo3Op5pUbVpKwx0jx2kN2heQ/1PXEXNDEjlN97cOFUJC1cWtfhB34xWHCrfgu8U0ixiEWQJK0BcJH/0noLYlIDi+jhribiDapaPNFDx8jL+A4rJoqTiY2Wq09WmtbShZYeXO4bbza0yJJmTbqPVHdSPQ7kuf70mnzsdiSvqStPrgPl63QAyDD/LRSIQgQKLO4m45QRxAXlcszra5ocLSOSdowhttIwP3vNRjuL4bIg+l+T2N1JYmoDMff+yUAsgR+/wx4atK+9RVhpAk4AinoSe4ZPG6b2MS3/43tGLBoXLWvl1Y2yHMEMg3mW5uSu9Y+MCAVp7nPWWHlXRXrY2VqxkQMokQw==;bd8pZCzXVRyUmyindPKsSg=="
 ---

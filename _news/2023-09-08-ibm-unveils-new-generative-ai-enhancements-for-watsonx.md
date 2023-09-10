@@ -34,6 +34,22 @@ related:
       name: IBM
       domain: ibm.com
     quality: 97
+  - title: "Healthcare AI Market 2023 Value with Status and Global Analysis -Apple, GE Healthcare, Google Deepmind Health, IBM Watson Health"
+    excerpt: "Global Healthcare AI Market Research Report 2023 begins with ... Google Deepmind Health, IBM Watson Health, Imagen Technologies, Microsoft, Intel, Medalogix, Lumiata, NextHealth Technologies ..."
+    publishedDateTime: 2023-09-07T06:07:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/34302987/healthcare-ai-market-2023-value-with-status-and-global-analysis-apple-ge-healthcare-google-deepmind"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34302987"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34302987"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 79
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "IBM Announces Advanced Generative AI Models and Upgrades for watsonx Platform"
     excerpt: "IBM today announced plans for new generative AI foundation models and enhancements coming to watsonx – its AI and data"
     publishedDateTime: 2023-09-07T16:32:00Z

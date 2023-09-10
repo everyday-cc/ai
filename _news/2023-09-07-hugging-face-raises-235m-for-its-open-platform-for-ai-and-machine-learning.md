@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 670
         isCached: true
+  - title: "Artificial Intelligence: Mujin Raises $85m to Expand AI-Powered Robotics Platform"
+    excerpt: "Tokyo-based intelligent robotics startup Mujin has announced raising $85 million in its Series C funding round, further boosting its market share in the realm of AI-powered robotics for manufacturing, logistics, and supply chain operations. The funding ..."
+    publishedDateTime: 2023-09-09T19:35:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/09/212693-artificial-intelligence-mujin-raises-85m-to-expand-ai-powered-robotics-platform/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 59
   - title: "Generative AI Startup Mindtrip Raises $7M to Plan Your Next Trip"
     excerpt: "Mindtrip, a Generative AI-native company building a new way to plan and book trips, announces today it closed a $7M seed round led by Costanoa Ventures. Mindtrip is an"
     publishedDateTime: 2023-09-08T22:29:00Z

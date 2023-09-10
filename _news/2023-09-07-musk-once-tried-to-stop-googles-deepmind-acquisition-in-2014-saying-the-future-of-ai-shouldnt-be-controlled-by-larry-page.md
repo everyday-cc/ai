@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/elon-musk-google-larry-page-future-o
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-google-larry-page-future-of-ai-2023-9?amp"
 type: article
 quality: 77
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google’s Deepmind develops watermark to detect AI images"
-    excerpt: "Google's AI arm, DeepMind, is testing digital watermark called SynthID to identify images created by artificial intelligence (AI). This technology aim"
-    publishedDateTime: 2023-09-05T14:07:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/ai/googles-deepmind-develops-watermark-to-detect-ai-images/articleshow/103401531.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/ai/googles-deepmind-develops-watermark-to-detect-ai-images/amp_articleshow/103401531.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/ai/googles-deepmind-develops-watermark-to-detect-ai-images/amp_articleshow/103401531.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://static.toiimg.com/photo/msid-103401856/103401856.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "The cofounder of Google's AI division DeepMind says everybody will have their own AI-powered 'chief of staff' over the next five years"
     excerpt: "Mustafa Suleyman said AI will \"intimately know your personal information\" and be able to serve you 24-7."
     publishedDateTime: 2023-09-05T17:15:00Z

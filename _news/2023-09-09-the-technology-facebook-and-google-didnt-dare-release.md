@@ -43,6 +43,20 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "A New Facebook Setting Tells Meta Not to Use Your Data for AI"
+    excerpt: "Meta, the maker of Facebook and Instagram, introduced a new privacy setting Thursday that lets you ask, pretty please, for the company not to use your data to train its AI models. Buried in the ..."
+    publishedDateTime: 2023-09-09T04:24:00Z
+    webUrl: "https://gizmodo.com/new-facebook-do-not-use-my-data-for-generative-ai-llama-1850792025"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 69
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c048ad4abe4cfb2558e1894d2ccde06f.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "EJycpuR8JRpQSyFtlNP4OTlz6V01NUnLDTQk1lMSpvoKGoZGA5ZTHPVobA/Crk2kAUdco/SsiGaI9+uTeymrFRy/0p7Biyo6IfTCOhBN1CjVJn3aX9qfqZ7mJc2fMzjY1Al3jwRIFYRHNrFeIjvamSuao5dNOnIrY3Zu34liojS/3KiqhlR3UoIR7otb7w4V35Vpkwh2EgAtCts6cIvxqPb1wcymAZPsVKZQmOTmGqET3d2l+ZZy4C1gvfIZ4JgekgVLKV20vSE4Y4tSwRcZSD57sM/he8kYgptKYc0PJGnCZLhd7v7RO4G7WkA62gCzpKwa/FTFQ6GrjbXFtjNhTzk2L65thFDKv6hHJ7KWr+qEWoJ+Ymi7sVWxt1fOqTehzHePQabPKVb631iWg1cankKx34RmT9RJ4dQC/bavPSS8Oj3pZ9AXqPMev66NbgA4VQ5kpE6b3XMPqsxFSXsw8oaj10kRJRGnyxUGUCrgpMGL+et5PqbjmSqYq7oLBmXxqLfiriU8azzgozQlEXJx9A==;QPQRFDojMfAFZ6a2+XfmQQ=="
 ---

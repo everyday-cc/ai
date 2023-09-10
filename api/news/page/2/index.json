@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-08-ant-group-launches-finance-ai-model-as-race-heats-up.md",
+      "title": "Ant Group launches finance AI model as race heats up",
+      "excerpt": "Ant follows AI announcements by tech giants Tencent and Xiaomi on Thursday and Ant's affiliate Alibaba in April. By July in China, more than 130 companies had introduced \"large language models\", the type that powers OpenAI's seminal ChatGPT generative AI app,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbctv18.com/technology/ant-group-launches-finance-ai-model-as-race-heats-up-17752271.htm",
+      "originalUrl": "https://www.cnbctv18.com/technology/ant-group-launches-finance-ai-model-as-race-heats-up-17752271.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cnbctv18.com/wp-content/uploads/2023/09/ant-group-1019x573.jpg",
+          "width": 1019,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbctv18.com/technology/ant-group-launches-finance-ai-model-as-race-heats-up-17752271.htm/amp",
+      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/ant-group-launches-finance-ai-model-as-race-heats-up-17752271.htm/amp",
+      "publishedDateTime": "2023-09-08T03:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cnbctv18",
+        "domain": "cnbctv18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-08-the-best-movies-on-amazon-prime-video-september-2023.md",
       "title": "The best movies on Amazon Prime Video (September 2023)",
       "excerpt": "The best movies on Amazon Prime Video have something for everyone. For most of this year, Prime Video has welcomed movies from Universal Pictures and Paramount to shore up its library. But this ...",
@@ -166,7 +209,7 @@
       "originalUrl": "https://www.zdnet.com/article/what-analyst-are-saying-about-the-future-of-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -956,7 +999,7 @@
       "originalUrl": "https://www.ibm.com/blog/harnessing-ai-and-data-analytics-can-make-clean-energy-more-viable/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 149,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1187,49 +1230,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-keralas-sastra-robotics-to-export-150-robots-to-britain.md",
-      "title": "Kerala’s Sastra Robotics to export 150 robots to Britain",
-      "excerpt": "Kochi: Sastra Robotics, a startup incubating under Kerala Startup Mission (KSUM), will export 150 robots to Britain following an agreement with one of the top IT companies in the United Kingdom (UK).",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiablooms.com/finance-details/19074/kerala-s-sastra-robotics-to-export-150-robots-to-britain.html",
-      "originalUrl": "https://www.indiablooms.com/finance-details/19074/kerala-s-sastra-robotics-to-export-150-robots-to-britain.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.indiablooms.com/finance_pic/2023/bb0283f1eb0d7b4a044b3297683116e3.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-07T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Blooms",
-        "domain": "indiablooms.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

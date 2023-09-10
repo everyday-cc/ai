@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 670
         isCached: true
+  - title: "Artificial Intelligence: Mujin Raises $85m to Expand AI-Powered Robotics Platform"
+    excerpt: "Tokyo-based intelligent robotics startup Mujin has announced raising $85 million in its Series C funding round, further boosting its market share in the realm of AI-powered robotics for manufacturing, logistics, and supply chain operations. The funding ..."
+    publishedDateTime: 2023-09-09T19:35:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/09/212693-artificial-intelligence-mujin-raises-85m-to-expand-ai-powered-robotics-platform/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 59
   - title: "Hugging Face Raises $235M for its Open Platform for AI and Machine Learning"
     excerpt: "Hugging Face is the most-used open platform for AI builders. More than 50,000 organizations are using it to build, train, and deploy AI models like Stable diffusion, StarCoder, Llama, and more. It hosts over 300k models, 250k datasets, and 250k spaces."
     publishedDateTime: 2023-09-07T13:29:00Z

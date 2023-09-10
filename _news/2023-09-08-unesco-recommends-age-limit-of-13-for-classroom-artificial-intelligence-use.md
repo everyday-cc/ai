@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonexaminer.com/news/education/unesco-age-limit
 webUrl: "https://www.washingtonexaminer.com/news/education/unesco-age-limit-classroom-ai-use"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI Ethics
   - AI
+
+related:
+  - title: "UNESCO trains Indonesian Teachers on AI Ethics"
+    excerpt: "On 23-24 August 2023, UNESCO held an Ethics Teachers Training Course (ETTC) focused on AI ethics in Yogyakarta, in collaboration with the University Gadjah Mada. The interactive event brought together 30 participants from various backgrounds and ..."
+    publishedDateTime: 2023-09-07T11:04:00Z
+    webUrl: "https://www.unesco.org/en/articles/unesco-trains-indonesian-teachers-ai-ethics"
+    type: article
+    provider:
+      name: UNESCO
+      domain: unesco.org
+    quality: 54
+    images:
+      - url: "https://www.unesco.org/sites/default/files/styles/best_image/article/2023-09/DSC08865.JPG?itok=7ESnS-fx"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "37I403BAnRJn08ujPOvSN3889wwHMA3XO3tNDT88k/61K5lFPoFRi06VXFK8FksEEXoYh7EXFxS+AT7N/NKcqofttLZJ1GxYL7JqFuQ2oFkfRcWQCGPyyJ7/BUx7Cnc1TA2aYZI5bGvF84B5mecwx7c/2NGn/Xt2in6pJm6lwEgubin8m/kFvqVsiKW+6lJ2+XLDKsxpiAP9cg6kjNtIIL0dtU5AjQrsH0Z2IrHTXNjntDtBM6hRYLA7ev52snfD336JFkFvzKNGrKxIwzLJac+A82W8ZfNWE/sRw/3bvCjB77KrSA4IKScBgr9RrsG8PSXA0n+R/j4I3mymyFXyaBVN+fZUDGXI2wFf7FjHKZOVJOYyANpa/RSmTYgZF81ANF8YDXPokAqxbW7xyCmLM0X8XvGYWYr7FDQRjDMubaVkRIKG3NitSPpB4KWjjRQmVNRV40r8sXRPBCk8WPRRbIhnDIiM1u9rjtnbt7qG1XodrXAu+8L5WVrFztprdAOvJx0nrUa2SMA1VDv4nU+Guw==;sOB4iJs3Lek2HszWMO1MOg=="
 ---

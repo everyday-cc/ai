@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Computer Vision Market Size 2023 Booming Worldwide by 2031"
-    excerpt: "Global \"AI in Computer Vision Market\" surveys the evolving technology industry and the responses of both established and emerging players to long-term opportunities and short-term challenges."
-    publishedDateTime: 2023-09-06T19:34:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/34291543/ai-in-computer-vision-market-size-2023-booming-worldwide-by-2031"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 34
   - title: "How Small and Mid-Size Law Firms Can Use Artificial Intelligence in Their Marketing Efforts"
     excerpt: "In the rapidly evolving world of legal services, artificial intelligence (AI) is no longer just an emerging technology; it’s a pivotal force revolutionizing how law firms of all sizes operate and market themselves. AI is helping law firm professionals ..."
     publishedDateTime: 2023-09-08T17:38:00Z

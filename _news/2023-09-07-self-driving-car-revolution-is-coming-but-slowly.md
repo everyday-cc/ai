@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Company refutes claim that self-driving cars blocked California ambulance, led to victim’s death"
-    excerpt: "Authorities say the self-driving cars blocked an ambulance from getting to the hospital, a claim the car company is now refuting."
-    publishedDateTime: 2023-09-05T14:18:00Z
-    webUrl: "https://www.ksn.com/news/national-world/company-refutes-claim-that-self-driving-cars-blocked-california-ambulance-led-to-victims-death/"
-    ampWebUrl: "https://www.ksn.com/news/national-world/company-refutes-claim-that-self-driving-cars-blocked-california-ambulance-led-to-victims-death/amp/"
-    cdnAmpWebUrl: "https://www-ksn-com.cdn.ampproject.org/c/s/www.ksn.com/news/national-world/company-refutes-claim-that-self-driving-cars-blocked-california-ambulance-led-to-victims-death/amp/"
-    type: article
-    provider:
-      name: ksn.com
-      domain: ksn.com
-    quality: 46
-    images:
-      - url: "https://www.ksn.com/wp-content/uploads/sites/13/2023/09/gettyimages-1529168853-594x594-1.jpg?w=1280"
-        width: 594
-        height: 371
-        isCached: true
   - title: "Self-driving car revolution is coming, but slowly"
     excerpt: "Pandemic-related disruptions to the car industry, a shift towards investing in electrification and the sheer complexity of the technology have all contributed to keeping the autonomous-driving revolution stuck in the slow lane. Now, \"we're more inclined to say it will happen by 2030,\" Aufrere told AFP."
     publishedDateTime: 2023-09-08T09:00:00Z

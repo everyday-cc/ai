@@ -21,7 +21,14 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Facebook AI
 
-secured: "PdvtzOuPJn44Wfnd9gwS1szEdufVrkOCBbSGDqMluXYDcN0hn2e3TQiXmovpts+mj4kCItTk8kN1YLc85u76XsUcPP3b6h2Moofgk/1w9RvKef5syvlDeFbXz0ZDp00u/dE+PWE1JS0h3e+jqPFDkYmy5TW4+j5bipp5we4N/ZRAfcA8mA8EZfQdr/Ki9G91pW3y0IHPyAotl/Zu3KAXIlPOVxlDlLI4O/k6/Y9rH4iixwitCi3UJ5j9xUG3Jf4bX5PtukuEncpVKdVNj2gKTukwrcmCqx+IStvtcqygUreosgaXdIjX3AD4IHmV7XiWSK6wTjF2Jr6w8PCFa0W9nGgj4VRyBUl9G7kgZ19RR8Z5x99Y1oI6kfGjB0ZMGRsZ4umTx1Q7kaXzgF+jtISrZEPKLQsi1mfd5OHbTT4ibcOhtml4ATPcBUWsUfou4BRkgj9/6tsoHtsGk0jFXkD8Aj4qaHU8hDUStaxl1WKds6yEYDX4lpIPcq0vyDUSx4R3URaGKKfrx3oEMls3uGvP9A==;QWngBmifqht8djQE1s0OaQ=="
+images:
+  - url: "https://g.foolcdn.com/editorial/images/744745/ai-robot-looks-into-the-eyes-of-a-robot-dragon.jpg"
+    width: 2363
+    height: 1269
+    isCached: true
+
+secured: "AjfaYr3yLtlTlIVzNpLiTTBgLxZ7wV2zyMDnsNS87nYWosMBKvQD0SVSelnhiIb9NGYWQu2WSx4E4XOKVgpzQu4yJr4YOZJItBNRq2Mq/aucXPhg643eRZ6pQZJ1Znjmh+GQpJeiET5+ZLJXCACq/dX4wT0vicFB1N/LIEve5vNMIKAZHZVZpxXYFVlm0Dr0OCM5yynzy3myBh51K91lEEBD5m1CXHOt0zJ8qAVLGxg8bkM8ytN4dEvuTs8IaKpLxkja4YV5fHx8m+Rev9hR/N7Ggnxhu6afDqHzjSBOEKSR1DqzXl3pTozPyQ+U3Zkhn9cjEbXtpIuYkDNJeH7QoK85wWbKiNEMeDgddS4snXU=;kl507/8g+drvUMWfbKWswQ=="
 ---
 

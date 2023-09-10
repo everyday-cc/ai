@@ -103,22 +103,6 @@ related:
         width: 690
         height: 407
         isCached: true
-  - title: "Dell Becomes One Of The Early Generative AI Winners"
-    excerpt: "Dell Technologies Inc (NYSE: DELL) had its best stock market day since its 2018 return to the public market after it reported its fiscal second quarter results."
-    publishedDateTime: 2023-09-05T13:59:00Z
-    webUrl: "https://www.benzinga.com/23/09/34237167/dell-becomes-one-of-the-early-generative-ai-winners"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34237167"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34237167"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://cdn.benzinga.com/files/close-up-entrepreneur-going-through-business-reports-taking-notes-office.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Unlocking creativity with AI in the future workforce"
     excerpt: "Generative AI is transforming digital content production, offering new tools that enhance the capabilities of creative professionals, as well as those not typically involved in creative roles. This fundamental shift will influence the future of work across all industries, according to software company Adobe."
     publishedDateTime: 2023-09-07T21:29:00Z

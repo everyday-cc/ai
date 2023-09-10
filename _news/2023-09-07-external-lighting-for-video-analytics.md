@@ -87,15 +87,6 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 17
-  - title: "Best analytics and business intelligence platforms"
-    excerpt: "Some of the leaders in the analytics and business intelligence platform market include Microsoft, Salesforce, Tableau, and Qlik."
-    publishedDateTime: 2023-09-05T13:44:00Z
-    webUrl: "https://mybroadband.co.za/news/software/506648-best-analytics-and-business-intelligence-platforms.html"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 4
 
 secured: "Ij/ZTyoYaM5BzsepLhiBmhDwoemLznMfVm/HaiRVngv/mxHXVHR9A1NX5ydILBONjVrVUXArni1U8ymrljBHWhjEfotjywAIwqZ18WVJTo/T0c4V/Lono0TEMoa0EC+xvdrOt2VKGz7cVpmLGYoZqR8QhpQVfZ7p1P5vRAkJpZXHw9T6sL21PXuJ6CThZEpSpcm9VXNNwh0rhTqEC7Fw29ZS1RLMvYHT+1V9TOxx76JsPLWE6kZKIxmDdqCKDyj4Vb0kB2JdTvjRTktaqxuewuDIlj1ZHRbnn3XhjrYGaXFFpFPP3Qn8e/tAe9MQXOP7KW5yY3mzPIgbfSmK8cfSKS/TATEdOSrrhnm1GBpQ0E4=;2CW1Nm7iiOsruRGafrKyDQ=="
 ---

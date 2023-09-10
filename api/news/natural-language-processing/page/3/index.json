@@ -2,6 +2,92 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-08-23-ai-software-roped-in-to-translate-mbbs-textbooks.md",
+      "title": "AI software roped in to translate MBBS textbooks",
+      "excerpt": "Indore: Medical education department is using an open-source artificial intelligence (AI) software tool for transliteration of all textbooks of MBBS c.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/city/indore/ai-software-roped-in-to-translate-mbbs-textbooks/articleshow/102962341.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/city/indore/ai-software-roped-in-to-translate-mbbs-textbooks/articleshow/102962341.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1070,
+          "height": 579,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/city/indore/ai-software-roped-in-to-translate-mbbs-textbooks/amp_articleshow/102962341.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/indore/ai-software-roped-in-to-translate-mbbs-textbooks/amp_articleshow/102962341.cms",
+      "publishedDateTime": "2023-08-22T20:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-23-metas-new-ai-model-is-a-real-time-translation-expert.md",
+      "title": "Meta's new AI model is a real-time translation expert",
+      "excerpt": "Meta's latest AI output is a major advancement for real-time text and speech translation. On Tuesday, the company released SeamlessM4T: a multimodal model that translates text to speech and vice versa.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/metas-ai-model-real-time-200728287.html",
+      "originalUrl": "https://www.aol.com/metas-ai-model-real-time-200728287.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/BgNJI31cnHuufEMZ4rCbRg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_mashable_370/38dc5aa082fba818e4fe45f494572fa0",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-22T16:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-23-ibm-watsonx-to-use-generative-ai-to-translate-cobol-code-into-java.md",
       "title": "IBM Watsonx to use generative AI to translate COBOL code into Java",
       "excerpt": "In a bid to help enterprises running IBM Z systems modernise their applications, IBM is expanding the abilities of its generative AI based Watson Code Assistant to include COBOL code translation into Java. The Big Blue claims that the introduction of the ...",
@@ -1292,101 +1378,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-generative-ai-friend-or-foe-for-the-translation-industry.md",
-      "title": "Generative AI: Friend Or Foe For The Translation Industry?",
-      "excerpt": "Understanding the specific dynamics of how GenAI will affect different industries and functions is a complex and nuanced undertaking.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/generative-ai-friend-or-foe-for-the-translation-industry/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/generative-ai-friend-or-foe-for-the-translation-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5fd8bff049e58c7220248800/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/generative-ai-friend-or-foe-for-the-translation-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/11/generative-ai-friend-or-foe-for-the-translation-industry/amp/",
-      "publishedDateTime": "2023-08-11T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-global-speech-recognition-software-market-research-report-for-upcoming-years-2023-2030.md",
-      "title": "Global Speech Recognition Software Market Research Report for Upcoming Years [2023-2030]",
-      "excerpt": "Global Speech Recognition Software Market Outlook [2023] -Global Speech Recognition Software Market (2023-2030) research report features an extensive Analysis of the current market landscape and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33722241/global-speech-recognition-software-market-research-report-for-upcoming-years-2023-2030",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33722241/global-speech-recognition-software-market-research-report-for-upcoming-years-2023-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33722241",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33722241",
-      "publishedDateTime": "2023-08-11T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

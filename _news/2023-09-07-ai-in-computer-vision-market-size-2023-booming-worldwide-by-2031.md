@@ -19,29 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "How Small and Mid-Size Law Firms Can Use Artificial Intelligence in Their Marketing Efforts"
-    excerpt: "In the rapidly evolving world of legal services, artificial intelligence (AI) is no longer just an emerging technology; it’s a pivotal force revolutionizing how law firms of all sizes operate an"
-    publishedDateTime: 2023-09-07T20:18:00Z
-    webUrl: "https://www.natlawreview.com/article/how-small-and-mid-size-law-firms-can-use-artificial-intelligence-their-marketing"
+  - title: "Data and AI Ethics Market Size, Regional Status and Outlook 2023-2030"
+    excerpt: "The Data and AI Ethics Market Insights of 2023 is an extensive and comprehensive report that provides a complete analysis of the market's size, shares, revenues, various segments, drivers ..."
+    publishedDateTime: 2023-09-07T10:41:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/34310484/data-and-ai-ethics-market-size-regional-status-and-outlook-2023-2030"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34310484"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34310484"
     type: article
     provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 44
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
     images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/55596/legal%20marketing%20on%20Internet%20business%20women%20on%20laptop_1_0.jpg?itok=5IlrKdkV"
-        width: 500
-        height: 350
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "How Small and Mid-Size Law Firms Can Use Artificial Intelligence in Their Marketing Efforts"
-    excerpt: "In the rapidly evolving world of legal services, artificial intelligence (AI) is no longer just an emerging technology; it’s a pivotal force revolutionizing how law firms of all sizes operate and market themselves. AI is helping law firm professionals ..."
-    publishedDateTime: 2023-09-08T17:38:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/how-small-and-mid-size-law-firms-can-3685235/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 24
 
 secured: "wn8X817ZAtVV3iEf9V0UDJghVifDmFCP2ysuhprLwQDDypkZgoSH6UeR15E9K18m6vNew1CVkVY/BmctF8W6Ym9a44ne97afs8RMMkvwCfaWk4u0d+tVURt6MQt+NoUfXb1+RmdwL1mASFxExDe4xZ9iwfI0OsPyCSe4JvIgGWFg0K+2rzClDul17Wxq6lf+5EIDp3xDqHgoq2aL/x+Aza6+fWBOOCfVv3F9DaclxRGKDLtuEV377OJHcBD5qt85ws0JshRYkHOEXPj4yJARYh4DBsMj1f2ZqCQcZXPKEdPNABW+C4GQqdZ9nsJFkwphDuHj+LhvZacNwvInYv5dFtBa4q2r3GUIGqwuzVrNjpQ=;eULSFlEqonKfcTGZ5SWMJg=="
 ---

@@ -2,6 +2,206 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2023-08-29-robots-learning-in-multiple-fun-ways-and-getting-more-dextrous.md",
+      "title": "Robots Learning In Multiple Fun Ways And Getting More Dextrous",
+      "excerpt": "Agarwal is also using the term \"artificial physical intelligence\" or API, which might be slightly confusing to people who work with application programming",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/08/28/robots-learning-in-multiple-fun-ways-and-getting-more-dextrous/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/08/28/robots-learning-in-multiple-fun-ways-and-getting-more-dextrous/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ecfbe9e9c37dfe813b0612/0x0.jpg?format=jpg&width=1200",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/08/28/robots-learning-in-multiple-fun-ways-and-getting-more-dextrous/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/08/28/robots-learning-in-multiple-fun-ways-and-getting-more-dextrous/amp/",
+      "publishedDateTime": "2023-08-28T12:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-3-artificial-intelligence-stocks-leading-the-robotics-revolution.md",
+      "title": "3 Artificial Intelligence Stocks Leading the Robotics Revolution",
+      "excerpt": "The company’s automation and robotics technologies are critical ... from high-performance computing segments tied to artificial intelligence. While its robotic unit faces macro uncertainty ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-leading-the-robotics-revolution-1032587043",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-leading-the-robotics-revolution-1032587043",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-28T12:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-the-tech-world-is-being-dividing-into-gpu-rich-and-gpu-poor-here-are-the-companies-in-each-group.md",
+      "title": "The tech world is being dividing into 'GPU rich' and 'GPU poor.' Here are the companies in each group.",
+      "excerpt": "Much of this article is behind a paywall, so anyone who is serious about AI should subscribe to their great newsletter. I'm just sharing my thoughts on the free parts of the post here. The GPU ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/gpu-rich-vs-gpu-poor-tech-companies-in-each-group-2023-8",
+      "originalUrl": "https://www.businessinsider.com/gpu-rich-vs-gpu-poor-tech-companies-in-each-group-2023-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64ece05a3c42320019c02740?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/gpu-rich-vs-gpu-poor-tech-companies-in-each-group-2023-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gpu-rich-vs-gpu-poor-tech-companies-in-each-group-2023-8?amp",
+      "publishedDateTime": "2023-08-28T12:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-nutanix-introduces-a-turnkey-generative-ai-solution-stack.md",
+      "title": "Nutanix Introduces A Turnkey Generative AI Solution Stack",
+      "excerpt": "Nutanix's new GPT-in-a-Box brings together the elements necessary to deploy a large language model (LLM) into production.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/08/28/nutanix-introduces-a-turnkey-generative-ai-solution-stack/",
+      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/08/28/nutanix-introduces-a-turnkey-generative-ai-solution-stack/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ececc62874c313484af6bb/0x0.jpg?format=jpg&width=1200",
+          "width": 787,
+          "height": 1037,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/08/28/nutanix-introduces-a-turnkey-generative-ai-solution-stack/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/08/28/nutanix-introduces-a-turnkey-generative-ai-solution-stack/amp/",
+      "publishedDateTime": "2023-08-28T11:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-08-29-generative-ai-makes-grammarly-an-essential-student-learning-tool.md",
       "title": "Generative AI Makes Grammarly An Essential Student Learning Tool",
       "excerpt": "With the release of a host of generative AI features for Grammarly, students now have a rich set of tools available to help them with every aspect of their writing.",
@@ -962,169 +1162,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-how-artificial-intelligence-gave-a-paralyzed-woman-her-voice-back.md",
-      "title": "How Artificial Intelligence Gave a Paralyzed Woman Her Voice Back",
-      "excerpt": "At the age of 30, Ann suffered a brainstem stroke that left her severely paralyzed. She lost control of all the muscles in her body and was unable even to breathe. It came on suddenly one afternoon, f",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearscience.com/2023/08/28/how_artificial_intelligence_gave_a_paralyzed_woman_her_voice_back_975671.html",
-      "originalUrl": "https://www.realclearscience.com/2023/08/28/how_artificial_intelligence_gave_a_paralyzed_woman_her_voice_back_975671.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-27T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearScience",
-        "domain": "realclearscience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-china-gpu-firms-aim-at-ai-chip-orders-in-the-long-term.md",
-      "title": "China GPU firms aim at AI chip orders in the long term",
-      "excerpt": "Despite Nvidia's whooping 90% share in the high-end AI GPU sector, China-based GPU chip makers are still keen on contracting their customers frequently to improve their products, eyeing to tighten the partnerships in the hopes of gaining their orders in the long term.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20230828PD209/artificial-intelligence-china-gpu-nvidia.html",
-      "originalUrl": "https://www.digitimes.com/news/a20230828PD209/artificial-intelligence-china-gpu-nvidia.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/newsshow/20230828pd209_files/3_2b.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-27T21:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-cheap-chinese-robot-waiters-worry-south-korean-tech-firms-amid-labour-shortage.md",
-      "title": "Cheap Chinese robot waiters worry South Korean tech firms amid labour shortage",
-      "excerpt": "Tech executives are concerned about the business impact from cheap Chinese robots that can cost one-fifth of the price of domestically made equivalents.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/asia/east-asia/article/3232505/cheap-chinese-robot-waiters-worry-south-korean-tech-firms-amid-labour-shortage?module=live&pgtype=homepage",
-      "originalUrl": "https://www.scmp.com/news/asia/east-asia/article/3232505/cheap-chinese-robot-waiters-worry-south-korean-tech-firms-amid-labour-shortage?module=live&pgtype=homepage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/08/28/5e880516-8465-4e5b-b955-dc0d12ec5535_6ad7cbed.jpg?itok=c2ArTYvn&v=1693190899",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-27T21:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-3-artificial-intelligence-stocks-leading-the-robotics-revolution.md",
-      "title": "3 Artificial Intelligence Stocks Leading the Robotics Revolution",
-      "excerpt": "The company’s automation and robotics technologies are critical ... from high-performance computing segments tied to artificial intelligence. While its robotic unit faces macro uncertainty ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-artificial-intelligence-stocks-leading-the-robotics-revolution",
-      "originalUrl": "https://www.nasdaq.com/articles/3-artificial-intelligence-stocks-leading-the-robotics-revolution",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-27T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Artificial intelligence technology behind ChatGPT was built in Iowa -- with a lot of water"
-excerpt: "Microsoft made its first $1 billion investment in San Francisco-based OpenAI in 2019, more than two years before the startup introduced ChatGPT and sparked worldwide fascination with AI advancements. As part of the deal, the software giant would supply computing power needed to train the AI models."
-publishedDateTime: 2023-09-09T19:14:00Z
-originalUrl: "https://www.seattlepi.com/business/article/artificial-intelligence-technology-behind-chatgpt-18356707.php"
-webUrl: "https://www.seattlepi.com/business/article/artificial-intelligence-technology-behind-chatgpt-18356707.php"
+title: "Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water"
+excerpt: "As they race to capitalize on a craze for generative AI, leading tech developers including Microsoft, OpenAI and Google have acknowledged that growing demand for their AI tools carries hefty"
+publishedDateTime: 2023-09-09T20:39:00Z
+originalUrl: "https://tulsaworld.com/ap/business/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water/article_3379d8ad-289b-59cd-af57-adfc57af0969.html"
+webUrl: "https://tulsaworld.com/ap/business/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water/article_3379d8ad-289b-59cd-af57-adfc57af0969.html"
 type: article
-quality: 9
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: seattlepi.com
-  domain: seattlepi.com
+  name: Tulsa World
+  domain: tulsaworld.com
 
 topics:
-  - AI in Autos
+  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/6/5e/65eddd27-5f7e-51af-a65c-5d8ff9c1f88d/64fc7131358f7.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
@@ -81,6 +87,22 @@ related:
         width: 1068
         height: 601
         isCached: true
+  - title: "ChatGPT broke the EU plan to regulate AI"
+    excerpt: "Artificial intelligence's newest sensation — the gabby chatbot-on-steroids ChatGPT — is sending European rulemakers back to the drawing board on how to regulate AI. But after months of internet lolz — and doomsaying from critics — the technology is ..."
+    publishedDateTime: 2023-09-08T10:13:00Z
+    webUrl: "https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/"
+    ampWebUrl: "https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/amp/"
+    type: article
+    provider:
+      name: Politico Europe
+      domain: politico.eu
+    quality: 59
+    images:
+      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/03/02/GettyImages-1462188008-scaled.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "ChatGPT’s AI technology was built in Iowa, with tons of water"
     excerpt: "Building a large language model requires analyzing patterns across a huge trove of human-written text. All of that computing takes a lot of electricity and generates a lot of heat. To keep it cool"
     publishedDateTime: 2023-09-09T21:27:00Z
@@ -128,22 +150,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2023/07/shutterstock_2284126663-100943536-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
-        isCached: true
-  - title: "ChatGPT broke the EU plan to regulate AI"
-    excerpt: "Artificial intelligence's newest sensation — the gabby chatbot-on-steroids ChatGPT — is sending European rulemakers back to the drawing board on how to regulate AI. But after months of internet lolz — and doomsaying from critics — the technology is ..."
-    publishedDateTime: 2023-09-08T10:13:00Z
-    webUrl: "https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/"
-    ampWebUrl: "https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/amp/"
-    type: article
-    provider:
-      name: Politico Europe
-      domain: politico.eu
-    quality: 57
-    images:
-      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/03/02/GettyImages-1462188008-scaled.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Artificial intelligence technology behind ChatGPT was built in Iowa"
     excerpt: "Water pulled from the Raccoon and Des Moines rivers in central Iowa cools a powerful supercomputer as it helped teach its AI systems how to mimic human writing."
@@ -348,6 +354,6 @@ related:
       domain: scientificamerican.com
     quality: 4
 
-secured: "l6/pQPBRAo+K2Uqk53gkwsrCrRDeRBUj7d+bCfNqnx3gO/JQJytZBfhdTssqCSTSdOkifCCsaAMua01loppjlXS/ensurBZ1rYxPX/2gFvlcvISEEMuc8ZAVtVoZGwlKzHd/tY7rMYCe7z+uyJnLP93yUPWkRxQ2fDqYqb/vr2EC0xIFQOmehWUFvGI2Z1xTi697Lp9qr3VB6zWP1hWf/snYnll6kBi7YsS2dq+IcWpztkHPdMKS2P+HCXW1EA22PVhionvHI2wO+PpCQxGzpKjdKrZbYUQjuhYHoWKorR7kVETmMy3W07rIaQgVjZd7UVk/V2oBzZylEUA3+5tKXCt9IF58cFknL2Hj4q5hZWs=;rMfDxagcqMkpF5E4QpmFSA=="
+secured: "GFWmbjzGu/SHhPEd2u9yArAsDBqjww72TUgMWQDub4CYuDwLNZ2xsbdMrM8DL7pzgDHKtxBZANugGvsXdlu92ObIhmzVFjzKsvnyYHoO3RNv58/9E608oVYlV+9EBwQ6a4DFUv9vezYBVBr8zm5veSvRWbEu1Z9Jb99ZhGeH7xu8QNeUG7iBdAZ/EvLO06ZueCQOefnLvuK7Bi/yyYtEtcwBu3UFDmCt0kZQDdak0dBtFrE9JUT3fwZ1MwPO7ZzjAdUBRlHCTVadIj2i31jq15Vwe68Zd30YbmBU8JxLIK4ZQfX7D/HDWOke+Panzsgl/hf/Al1qYfpL0gJKCp2RwDcPt+eGrRBAyH3gXItzvFE=;iAzgdtJCNROYfpl8/mmcQw=="
 ---
 

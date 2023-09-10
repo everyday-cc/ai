@@ -15,6 +15,7 @@ topics:
   - AI in Robotics
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://www.cfr.org//themes/custom/cfr_theme/src/assets/images/cfr-logo-og.png"

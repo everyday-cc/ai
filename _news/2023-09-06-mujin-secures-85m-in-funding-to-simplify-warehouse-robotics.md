@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/09/05/mujin-secures-85m-funding-simp
 webUrl: "https://siliconangle.com/2023/09/05/mujin-secures-85m-funding-simplify-warehouse-robotics/"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,33 +23,6 @@ images:
     width: 933
     height: 519
     isCached: true
-
-related:
-  - title: "Robot software firm Mujin raises $85M"
-    excerpt: "An increasing number of companies are looking to automate as a shortage of skilled workers is expected to take a toll on manufacturers through 2030.  Mujin, a Japan-based robotics platform developing company,"
-    publishedDateTime: 2023-09-05T15:00:00Z
-    webUrl: "https://techcrunch.com/2023/09/05/robot-software-firm-mujin-raises-85m/"
-    ampWebUrl: "https://techcrunch.com/2023/09/05/robot-software-firm-mujin-raises-85m/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/05/robot-software-firm-mujin-raises-85m/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/09/Mujin-Robot-Spotlight-In-Dark.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Artificial Intelligence: Mujin Raises $85m to Expand AI-Powered Robotics Platform"
-    excerpt: "Tokyo-based intelligent robotics startup Mujin has announced raising $85 million in its Series C funding round, further boosting its market share in the realm of AI-powered robotics for manufacturing, logistics, and supply chain operations. The funding ..."
-    publishedDateTime: 2023-09-09T19:35:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/09/212693-artificial-intelligence-mujin-raises-85m-to-expand-ai-powered-robotics-platform/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 59
 
 secured: "Po7tiqbHIKsnMzPwC4RTXY0tv8LW91+SzW/vpqnWizfAeopLKzNGWirJO+D9hk6SNPdBBZGgbwEfFj+1mgPcjgzNUntJR0+gYrUml7IbZQd8wGgpZ/q6A+8H+IIuwh7umchSZne+HIIRnkV922ekIrJ8H4yMWjhLTvX5GwX6z+IfhBkDVwAwuVUosW9+Y1PKJcQTPsQj1xHP1r3IqPdrQFMYaX8pa1+zDBEqbuPjEW8rPaVgqfDFxcjJlw3+6HQrKmynR+ifXF61nJodsSGJ2q8slybdzJtcoWQK/lEWnK4MBXoUYxKVS0Y3EkoL4Mr2nmztFO3avBxtl57OKnPgxzsttkA/lu8r1JiKyW0eHSDX93+4Dg0vpOORwCzTi3h+s5v7w1K4S6PEPR/sKGez+zxhmZOtN1+Zg+g6W0jJOdSPwYS6g9wITnuIBIQY7FOebTw2XevhdIZxZpT7pbqm1miID2FkVVGyOUpT6ho11L6B7t9DjDS/y0ztH/bW7+v32GWHzfak1NqDPOjw0xn4SQ==;vJnNEX6qi64CHjJvI0dt8g=="
 ---

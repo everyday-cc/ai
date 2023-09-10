@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Company refutes claim that self-driving cars blocked California ambulance, led to victim’s death"
-    excerpt: "Authorities say the self-driving cars blocked an ambulance from getting to the hospital, a claim the car company is now refuting."
-    publishedDateTime: 2023-09-05T14:18:00Z
-    webUrl: "https://www.ksn.com/news/national-world/company-refutes-claim-that-self-driving-cars-blocked-california-ambulance-led-to-victims-death/"
-    ampWebUrl: "https://www.ksn.com/news/national-world/company-refutes-claim-that-self-driving-cars-blocked-california-ambulance-led-to-victims-death/amp/"
-    cdnAmpWebUrl: "https://www-ksn-com.cdn.ampproject.org/c/s/www.ksn.com/news/national-world/company-refutes-claim-that-self-driving-cars-blocked-california-ambulance-led-to-victims-death/amp/"
-    type: article
-    provider:
-      name: ksn.com
-      domain: ksn.com
-    quality: 46
-    images:
-      - url: "https://www.ksn.com/wp-content/uploads/sites/13/2023/09/gettyimages-1529168853-594x594-1.jpg?w=1280"
-        width: 594
-        height: 371
-        isCached: true
   - title: "Self-driving Car Revolution Is Coming, But Slowly"
     excerpt: "In Munich, where this week's IAA motor show is taking place, an interactive street survey elicits an overwhelming \"yes\" when asking passers-by if they would take a self-driving taxi from the station to the Oktoberfest beer festival."
     publishedDateTime: 2023-09-07T05:30:00Z

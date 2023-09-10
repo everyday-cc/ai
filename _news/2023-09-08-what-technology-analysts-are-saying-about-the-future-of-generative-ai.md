@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/what-analyst-are-saying-abo
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-analyst-are-saying-about-the-future-of-generative-ai/"
 type: article
 quality: 89
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -92,22 +92,6 @@ related:
       - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/549546"
         width: 690
         height: 407
-        isCached: true
-  - title: "Dell Becomes One Of The Early Generative AI Winners"
-    excerpt: "Dell Technologies Inc (NYSE: DELL) had its best stock market day since its 2018 return to the public market after it reported its fiscal second quarter results."
-    publishedDateTime: 2023-09-05T13:59:00Z
-    webUrl: "https://www.benzinga.com/23/09/34237167/dell-becomes-one-of-the-early-generative-ai-winners"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34237167"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34237167"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://cdn.benzinga.com/files/close-up-entrepreneur-going-through-business-reports-taking-notes-office.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Five Things: Responsible artificial intelligence and the future of business"
     excerpt: "She recently spoke at the Business Ethics Allia nce luncheon in Omaha about artificial intelligence and the future of business. Here are a few key takeaways from the event. We’ll share event highlights, founder profiles and feature stories digging into ..."

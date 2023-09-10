@@ -107,6 +107,101 @@
       ]
     },
     {
+      "path": "_news/2023-09-07-north-las-vegas-launching-ai-powered-translation-software-in-30-languages.md",
+      "title": "North Las Vegas launching AI-powered translation software in 30 languages",
+      "excerpt": "LAS VEGAS, Nev. (FOX5) - The City of North Las Vegas will officially launch the acquisition of over 30 languages through the previously released AI-powered, real-time translation technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox5vegas.com/2023/09/06/north-las-vegas-launching-ai-powered-translation-software-30-languages/",
+      "originalUrl": "https://www.fox5vegas.com/2023/09/06/north-las-vegas-launching-ai-powered-translation-software-30-languages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-kvvu-prod.cdn.arcpublishing.com/resizer/GFG0LSWzkeLWG-meVduRX4w-qpI=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/JB2QIFVWHNENLAQW6NWXKYLLWQ.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox5vegas.com/2023/09/06/north-las-vegas-launching-ai-powered-translation-software-30-languages/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-fox5vegas-com.cdn.ampproject.org/c/s/www.fox5vegas.com/2023/09/06/north-las-vegas-launching-ai-powered-translation-software-30-languages/?outputType=amp",
+      "publishedDateTime": "2023-09-06T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX5 Las Vegas",
+        "domain": "fox5vegas.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-06-ai-took-my-job-literallygizmodo-fires-spanish-staff-amid-switch-to-ai-translator.md",
+      "title": "“AI took my job, literally”—Gizmodo fires Spanish staff amid switch to AI translator",
+      "excerpt": "It's easy to imagine even more embarrassing mistakes due to autonomous translation between languages. So far, we've seen in our AI coverage that automated publishing does not tend to go well ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/09/ai-took-my-job-literally-gizmodo-fires-spanish-staff-amid-switch-to-ai-translator/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/09/ai-took-my-job-literally-gizmodo-fires-spanish-staff-amid-switch-to-ai-translator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot_translator_hero-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/09/ai-took-my-job-literally-gizmodo-fires-spanish-staff-amid-switch-to-ai-translator/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/ai-took-my-job-literally-gizmodo-fires-spanish-staff-amid-switch-to-ai-translator/amp/",
+      "publishedDateTime": "2023-09-06T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-06-ai-implementation-moving-from-buzz-to-tangible-business-solutions.md",
       "title": "AI Implementation: Moving From Buzz To Tangible Business Solutions",
       "excerpt": "As a result, today's leaders need to inform themselves about the various technologies within the field of artificial intelligence, including natural language processing and machine learning. Moreover, they have to become knowledgeable in a balanced way ...",
@@ -1367,84 +1462,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-30-meet-jais-the-worlds-most-advanced-arabic-large-language-model-open-sourced-by-g42s-inception.md",
-      "title": "Meet “Jais”, the world’s most advanced Arabic large language model open sourced by G42’s inception",
-      "excerpt": "MBZUAI offers various graduate programs designed to pursue advanced, specialized knowledge and skills in artificial intelligence, including computer vision, machine learning, natural language processing, robotics, and computer science. For more information ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/meet-jais-the-worlds-most-advanced-arabic-large-language-model-open-sourced-by-g42s-inception-kn6ea200",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/meet-jais-the-worlds-most-advanced-arabic-large-language-model-open-sourced-by-g42s-inception-kn6ea200",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/meet-jais-the-worlds-most-advanced-arabic-large-language-model-open-sourced-by-g42s-inception-kn6ea200?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/meet-jais-the-worlds-most-advanced-arabic-large-language-model-open-sourced-by-g42s-inception-kn6ea200?amp=1",
-      "publishedDateTime": "2023-08-30T01:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-30-presentation-translator-lets-you-add-live-subtitles-and-translate-presentations.md",
-      "title": "Presentation Translator lets you add live subtitles and translate presentations",
-      "excerpt": "Presentation Translator is built on Microsoft Translator API and powered by Microsoft Cognitive Services. It actively uses Machine Learning to teach itself from your voice and speech. If you start ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thewindowsclub.com/presentation-translator-powepoint-addon",
-      "originalUrl": "https://www.thewindowsclub.com/presentation-translator-powepoint-addon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thewindowsclub.com/wp-content/uploads/2017/07/PowerPoint-Translator-Windows.jpg",
-          "width": 700,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TWCN Tech News",
-        "domain": "thewindowsclub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Google’s Deepmind develops watermark to detect AI images"
-    excerpt: "Google's AI arm, DeepMind, is testing digital watermark called SynthID to identify images created by artificial intelligence (AI). This technology aim"
-    publishedDateTime: 2023-09-05T14:07:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/ai/googles-deepmind-develops-watermark-to-detect-ai-images/articleshow/103401531.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/ai/googles-deepmind-develops-watermark-to-detect-ai-images/amp_articleshow/103401531.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/ai/googles-deepmind-develops-watermark-to-detect-ai-images/amp_articleshow/103401531.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://static.toiimg.com/photo/msid-103401856/103401856.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Elon Musk’s Attempt to Halt Google’s DeepMind Acquisition Over AI Concerns"
     excerpt: "San Francisco, CA In a revealing excerpt from the forthcoming biography “Elon Musk” by Walter Isaacson, it has been disclosed that Elon Musk once attempted to thwart Google’s acquisition of DeepMind in 2014."
     publishedDateTime: 2023-09-07T11:20:00Z

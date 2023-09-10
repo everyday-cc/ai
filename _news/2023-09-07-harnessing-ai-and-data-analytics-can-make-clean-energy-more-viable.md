@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/harnessing-ai-and-data-analytics-can-make
 webUrl: "https://www.ibm.com/blog/harnessing-ai-and-data-analytics-can-make-clean-energy-more-viable/"
 type: article
 quality: 99
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -90,15 +90,6 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 17
-  - title: "Best analytics and business intelligence platforms"
-    excerpt: "Some of the leaders in the analytics and business intelligence platform market include Microsoft, Salesforce, Tableau, and Qlik."
-    publishedDateTime: 2023-09-05T13:44:00Z
-    webUrl: "https://mybroadband.co.za/news/software/506648-best-analytics-and-business-intelligence-platforms.html"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 4
 
 secured: "/4Ayt8clbmLLBzCA6SHwcJR2QhOd4zCp9rJiZ0vws/IutdJpVPEMCVbwA4rl0Zc3m4RR81IySc1HxYJf9+XhMxTgABpYtHFlPtvv5LdwYapFPRAkUYOE2o4KqBjdyNVD3lwFDdHWZSdJqmvdlGJeGIt6lsEiZY9XjSlt074/54+wnTPaknzunMqRG6z2wixiLKmasmKMS9n7x86bGLCr3rTvOiyCC4DH9gzIVAp0Gu59GTSvlsebGNVTGWv0tusUIzjAvtlNvhFUlwNA990EuFaHxzTBKvTxBNVlhPnISC34LPz8UjK9fvQWOPz8AcNfCX4UatkCG0qswiqnCxvg5SHo2onE17WhCOhG99tyAMo=;LHNQrUIFbLk1B2cBmaIF6Q=="
 ---

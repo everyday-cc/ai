@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-07-keralas-sastra-robotics-to-export-150-robots-to-britain.md",
+      "title": "Kerala’s Sastra Robotics to export 150 robots to Britain",
+      "excerpt": "Kochi: Sastra Robotics, a startup incubating under Kerala Startup Mission (KSUM), will export 150 robots to Britain following an agreement with one of the top IT companies in the United Kingdom (UK).",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiablooms.com/finance-details/19074/kerala-s-sastra-robotics-to-export-150-robots-to-britain.html",
+      "originalUrl": "https://www.indiablooms.com/finance-details/19074/kerala-s-sastra-robotics-to-export-150-robots-to-britain.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.indiablooms.com/finance_pic/2023/bb0283f1eb0d7b4a044b3297683116e3.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-07T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Blooms",
+        "domain": "indiablooms.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-07-microsoft-to-reveal-ai-plans-for-onedrive-in-october-event.md",
       "title": "Microsoft to reveal AI plans for OneDrive in October event",
       "excerpt": "Mark your calendar if you want a \"sneak peek\" at how AI will fuel new search, sharing, and queries for your OneDrive files.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-to-reveal-ai-plans-for-onedrive-in-october-event/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 354,
+      "heat": 344,
       "tags": null,
       "images": [
         {
@@ -217,7 +260,7 @@
       "originalUrl": "https://www.ibm.com/blog/managing-your-cloud-ecosystems-migrating-to-a-new-ubuntu-operating-system-version/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -302,7 +345,7 @@
       "originalUrl": "https://www.wired.com/story/facebook-trains-ai-your-data-opt-out/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -688,6 +731,49 @@
       ]
     },
     {
+      "path": "_news/2023-09-07-data-and-ai-ethics-market-size-regional-status-and-outlook-2023-2030.md",
+      "title": "Data and AI Ethics Market Size, Regional Status and Outlook 2023-2030",
+      "excerpt": "The Data and AI Ethics Market Insights of 2023 is an extensive and comprehensive report that provides a complete analysis of the market's size, shares, revenues, various segments, drivers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34310484/data-and-ai-ethics-market-size-regional-status-and-outlook-2023-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34310484/data-and-ai-ethics-market-size-regional-status-and-outlook-2023-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34310484",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34310484",
+      "publishedDateTime": "2023-09-07T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-07-good-housing-policy-still-depends-on-human-not-artificial-intelligence.md",
       "title": "Good Housing Policy Still Depends On Human Not Artificial Intelligence",
       "excerpt": "It’s time for a post on artificial intelligence (AI) and affordable housing. The topic is interesting but AI comes with a great deal of hype. First of all, based on my experience with OpenAI’s free version of ChatGPT,",
@@ -747,7 +833,7 @@
       "originalUrl": "https://www.businessinsider.com/elon-musk-google-larry-page-future-of-ai-2023-9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -929,6 +1015,49 @@
       ]
     },
     {
+      "path": "_news/2023-09-07-north-las-vegas-launching-ai-powered-translation-software-in-30-languages.md",
+      "title": "North Las Vegas launching AI-powered translation software in 30 languages",
+      "excerpt": "LAS VEGAS, Nev. (FOX5) - The City of North Las Vegas will officially launch the acquisition of over 30 languages through the previously released AI-powered, real-time translation technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox5vegas.com/2023/09/06/north-las-vegas-launching-ai-powered-translation-software-30-languages/",
+      "originalUrl": "https://www.fox5vegas.com/2023/09/06/north-las-vegas-launching-ai-powered-translation-software-30-languages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-kvvu-prod.cdn.arcpublishing.com/resizer/GFG0LSWzkeLWG-meVduRX4w-qpI=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/JB2QIFVWHNENLAQW6NWXKYLLWQ.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox5vegas.com/2023/09/06/north-las-vegas-launching-ai-powered-translation-software-30-languages/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-fox5vegas-com.cdn.ampproject.org/c/s/www.fox5vegas.com/2023/09/06/north-las-vegas-launching-ai-powered-translation-software-30-languages/?outputType=amp",
+      "publishedDateTime": "2023-09-06T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX5 Las Vegas",
+        "domain": "fox5vegas.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-07-boxfish-research-renames-to-boxfish-robotics.md",
       "title": "Boxfish Research Renames To Boxfish Robotics",
       "excerpt": "ARV-i, is powered by advanced Artificial Intelligence and sensor integration, facilitates automated and remote operations, while ensuring efficient and precise data collection. \"As Boxfish Robotics, we are delighted to announce the renaming, symbolising a ...",
@@ -1058,151 +1187,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-cedar-taps-google-cloud-ai-to-speed-up-healthcare-billing-process.md",
-      "title": "Cedar taps Google Cloud AI to speed up healthcare billing process",
-      "excerpt": "Cedar is using Google Cloud's AI tools to help patients with their healthcare bills. Vertex AI and Generative AI App Builder will be used to build algorithms to",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/digital-health/cedar-taps-google-cloud-ai-to-speed-up-healthcare-billing-process.html",
-      "originalUrl": "https://www.beckershospitalreview.com/digital-health/cedar-taps-google-cloud-ai-to-speed-up-healthcare-billing-process.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-06T15:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-talk-to-your-taxes-turbotaxs-new-ai-agent-makes-it-possible.md",
-      "title": "Talk to your taxes? TurboTax’s new AI agent makes it possible",
-      "excerpt": "The AI assistant will reportedly help shorten the time it takes to file taxes and provide faster access to refunds, as well as offer personalized financial advice. Intuit Chief Data Officer Ashok Srivastava told Reuters that the company's AI models \"competed favorably\" against other AI systems in internal accuracy tests.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/09/talk-to-your-taxes-turbotaxs-new-ai-agent-makes-it-possible/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/09/talk-to-your-taxes-turbotaxs-new-ai-agent-makes-it-possible/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot_piggybank-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/09/talk-to-your-taxes-turbotaxs-new-ai-agent-makes-it-possible/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/talk-to-your-taxes-turbotaxs-new-ai-agent-makes-it-possible/amp/",
-      "publishedDateTime": "2023-09-06T15:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-ai-generated-child-sex-imagery-has-every-us-attorney-general-calling-for-action.md",
-      "title": "AI-generated child sex imagery has every US attorney general calling for action",
-      "excerpt": "Second, after considering the expert commission’s recommendations, Congress should act to deter and address child exploitation, such as by expanding existing restrictions on CSAM to explicitly cover AI-generated CSAM. This will ensure prosecutors have the tools they need to protect our children.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/09/ai-generated-child-sex-imagery-has-every-us-attorney-general-calling-for-action/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/09/ai-generated-child-sex-imagery-has-every-us-attorney-general-calling-for-action/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/us_capitol_hero-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/09/ai-generated-child-sex-imagery-has-every-us-attorney-general-calling-for-action/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/ai-generated-child-sex-imagery-has-every-us-attorney-general-calling-for-action/amp/",
-      "publishedDateTime": "2023-09-06T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

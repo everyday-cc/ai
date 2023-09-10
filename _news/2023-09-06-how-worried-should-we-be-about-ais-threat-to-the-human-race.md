@@ -19,47 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Three Things That Services Businesses Should Know About AI Right Now"
-    excerpt: "No matter where your services business is in its digital transformation journey, you should take an active role in collaborating on AI readiness."
-    publishedDateTime: 2023-09-05T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/05/three-things-that-services-businesses-should-know-about-ai-right-now/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/05/three-things-that-services-businesses-should-know-about-ai-right-now/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/05/three-things-that-services-businesses-should-know-about-ai-right-now/amp/"
+  - title: "Now We Got to Worry About AI Cops?"
+    excerpt: "it’s also without doubt a capitalistic endeavor (McKinsey predicts that generative AI will add as much as $4.4 trillion to the annual global economy), a point that ensures people will compromise their ethics. And for untold Black and brown folks ..."
+    publishedDateTime: 2023-09-07T17:38:00Z
+    webUrl: "https://www.esquire.com/news-politics/a44730873/ai-policing-artificial-intelligence-facial-recognition-bias/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Esquire
+      domain: esquire.com
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64ee017ce0404c2794d8ae21/0x0.jpg?format=jpg&width=1200"
+      - url: "https://hips.hearstapps.com/hmg-prod/images/index-64f8a50a0b3e9.jpg?crop=0.748xw:0.752xh;0.121xw,0&resize=1200:*"
         width: 1200
-        height: 855
+        height: 601
         isCached: true
-  - title: "You need to talk to your kid about AI. Here are 6 things you should say."
-    excerpt: "As children start back at school this week, it’s not just ChatGPT you need to be thinking about. In the past year, kids, teachers, and parents have had a crash course in artificial intelligence, thanks to the wildly popular AI chatbot ChatGPT."
-    publishedDateTime: 2023-09-05T16:45:00Z
-    webUrl: "https://www.technologyreview.com/2023/09/05/1079009/you-need-to-talk-to-your-kid-about-ai-here-are-6-things-you-should-say/"
-    ampWebUrl: "https://www.technologyreview.com/2023/09/05/1079009/you-need-to-talk-to-your-kid-about-ai-here-are-6-things-you-should-say/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/05/1079009/you-need-to-talk-to-your-kid-about-ai-here-are-6-things-you-should-say/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 56
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/09/talk-kids-AI2.jpeg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
-  - title: "7 AI Secrets Every Investor Should Know"
-    excerpt: "Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report"
-    publishedDateTime: 2023-09-08T18:36:00Z
-    webUrl: "https://www.nasdaq.com/articles/7-ai-secrets-every-investor-should-know"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
 
 secured: "sK8pvIhoOOcRgNQVvlbdzh8oo0/j4hxkubDE5sKd1ImFITCAaaZtS2VVAK4m7grK71ZacDfqAqUdcl0shan7+nkZHxvo8GUxWZyNGti6nVQdh+IdWlF8v8t+gzfm9WSu/TbGOnLR68UH2dIpYQ8RbEMu93lbRLpghdBNaeBjWc2R8FbdnfBRw4oJ+5xZ1YgH2vuNg3IG3DmdGgOm17r7yQBzEEFuJztWJUeYAhDEQECKYpyKk80isKouxJ+1fz6Ut0OzE/b4RF3OmyuCcydIfrVgYciKc5rgZt8dCYp1lNGuiMAq7vEpF5TeA0cA5LuIQY586xNyBqTL1UatVFJyDLhCraWmQZcjKZ8HIyNoQ5vkQuWJqNmUMCyr2Mr0kEClhkADQl3RacIsPf9xos1br3a1sbxsmNo6pkDHDvQSyOPIL4d9pdSkVTAfilOHAQZmc6QXTXQPXP4+1DPcnD76FO453yAzm+45C2K41gq8iWBGV18QTRSCS3wgu1aSj2iVOuDzEqNVRW71lKd6lq948w==;CkMfazZYRqZGNtm74E/tJw=="
 ---

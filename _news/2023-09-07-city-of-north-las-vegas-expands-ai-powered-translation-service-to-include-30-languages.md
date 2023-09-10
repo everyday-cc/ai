@@ -7,7 +7,7 @@ originalUrl: "https://www.ktnv.com/news/city-of-north-las-vegas-expands-ai-power
 webUrl: "https://www.ktnv.com/news/city-of-north-las-vegas-expands-ai-powered-translation-service-to-include-30-languages"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,84 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "North Las Vegas launching AI-powered translation software in 30 languages"
+    excerpt: "LAS VEGAS, Nev. (FOX5) - The City of North Las Vegas will officially launch the acquisition of over 30 languages through the previously released AI-powered, real-time translation technology ..."
+    publishedDateTime: 2023-09-07T04:00:00Z
+    webUrl: "https://www.fox5vegas.com/2023/09/06/north-las-vegas-launching-ai-powered-translation-software-30-languages/"
+    ampWebUrl: "https://www.fox5vegas.com/2023/09/06/north-las-vegas-launching-ai-powered-translation-software-30-languages/?outputType=amp"
+    cdnAmpWebUrl: "https://www-fox5vegas-com.cdn.ampproject.org/c/s/www.fox5vegas.com/2023/09/06/north-las-vegas-launching-ai-powered-translation-software-30-languages/?outputType=amp"
+    type: article
+    provider:
+      name: FOX5 Las Vegas
+      domain: fox5vegas.com
+    quality: 58
+    images:
+      - url: "https://gray-kvvu-prod.cdn.arcpublishing.com/resizer/GFG0LSWzkeLWG-meVduRX4w-qpI=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/JB2QIFVWHNENLAQW6NWXKYLLWQ.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Lost in AI translation: growing reliance on language apps jeopardizes some asylum applications"
+    excerpt: "Translators say the US immigration system relies on AI-powered translations, without grasping the limits of the tools"
+    publishedDateTime: 2023-09-07T09:00:00Z
+    webUrl: "https://www.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 47
+    images:
+      - url: "https://i.guim.co.uk/img/media/59ee6e688c280cd8673684e1f6265293e1acbe3f/0_0_1500_900/master/1500.jpg?width=620&quality=85&auto=format&fit=max&s=bb1ac6185c487d23e428a6ef7f8e1b02"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Lost in AI translation: growing reliance on language apps jeopardizes some asylum applications"
+    excerpt: "They should never be used to replace translators Ariel Koren AI-powered translation tools are particularly unreliable for languages that are considerably different from English or are less ..."
+    publishedDateTime: 2023-09-08T01:06:00Z
+    webUrl: "https://www.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps?trk=public_post_comment-text"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 47
+    images:
+      - url: "https://i.guim.co.uk/img/media/59ee6e688c280cd8673684e1f6265293e1acbe3f/0_0_1500_900/master/1500.jpg?width=620&quality=85&auto=format&fit=max&s=bb1ac6185c487d23e428a6ef7f8e1b02"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Professor awarded grant to create AI-based language translation app"
+    excerpt: "Associate professor of computer science Chetan Jaiswal is working on technology that will translate up to 100 languages through a phone call."
+    publishedDateTime: 2023-09-06T04:37:00Z
+    webUrl: "https://quchronicle.com/82736/news/professor-creates-ai-based-language-translation-app/"
+    type: article
+    provider:
+      name: The Quinnipiac Chronicle
+      domain: quchronicle.com
+    quality: 39
+    images:
+      - url: "https://quchronicle.com/wp-content/uploads/2023/09/jaiswal-20230901-psm.jpeg"
+        width: 2001
+        height: 1385
+        isCached: true
+  - title: "With AI, future of hearing aids might include language translation"
+    excerpt: "Sawalich says, \"If somebody falls, it'll text up to three people.\" They can also translate foreign languages. These AI hearing aids recalibrate up to 80 million times an hour, allowing them to ..."
+    publishedDateTime: 2023-09-05T19:30:00Z
+    webUrl: "https://www.thetimes-tribune.com/news/nation-world/with-ai-future-of-hearing-aids-might-include-language-translation/video_2d527935-5f49-542e-b87e-3cd7d8380040.html"
+    type: article
+    provider:
+      name: The Scranton Times-Tribune
+      domain: thetimes-tribune.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/thetimes-tribune.com/content/tncms/assets/v3/editorial/2/d5/2d527935-5f49-542e-b87e-3cd7d8380040/64f77e9127098.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "MLzKp75z3bGAFjcaCC9ohE9oBUApGBysahFWdI8cbr9H6diF0wgCtKWoQlbuC7uZN6t1EKjTxvq7O8DanATsA7h47toNgWvkNMI9x8L4SKYw45ZxvTXtxbwHc14TOKe+HHzcmxQy8wnvLQWMNmjxYQ331ot8mSH43AE+MdGfMcQeq5x1wxL9UJRarlbug2UM3uk/GdTLtKmJaAwn1okwbulmi+CNbsAnaJX6RRUNV7Zjsqgzmg7QBJDa97U27c+rwnlQtT86PATupaQgd7rmaN/8NIEqZrug5ho6meKB9a2jl4NuhekFZpR1/V+AhmTQI5tjjuZIl1xH59EVfaSTRwn84exOpwGWLFHiFcBwAYNJrr1czlLdnNZiAfbNaydRrRJLpuXBvZAXFp0ZuyGdCyGW4WcUeGSEP3d6Adfne0vvs8sLsOmVmY0wWJjS6fWY74rAbQAqAT1ilYk1WSTJ0Li/n4jB8z2JvsM+XZoX0pwZDim7xswTdO6DBRhu0EWxj0egz+VLgXYssMXEMSe+4Q==;aKvrgVi5tG2lr8oc7cUzew=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/facebook-trains-ai-your-data-opt-out/"
 webUrl: "https://www.wired.com/story/facebook-trains-ai-your-data-opt-out/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "A New Facebook Setting Tells Meta Not to Use Your Data for AI"
+    excerpt: "Meta, the maker of Facebook and Instagram, introduced a new privacy setting Thursday that lets you ask, pretty please, for the company not to use your data to train its AI models. Buried in the ..."
+    publishedDateTime: 2023-09-09T04:24:00Z
+    webUrl: "https://gizmodo.com/new-facebook-do-not-use-my-data-for-generative-ai-llama-1850792025"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 69
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c048ad4abe4cfb2558e1894d2ccde06f.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Technology Facebook and Google Didn’t Dare Release"
     excerpt: "Engineers at the tech giants built tools years ago that could put a name to any face but, for once, Silicon Valley did not want to move fast and break things."
     publishedDateTime: 2023-09-09T09:00:00Z
