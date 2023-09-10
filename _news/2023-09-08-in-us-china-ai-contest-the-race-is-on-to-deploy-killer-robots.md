@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/investigates/special-report/us-china-tech-
 webUrl: "https://www.reuters.com/investigates/special-report/us-china-tech-drones/"
 type: article
 quality: 84
-heat: 115
+heat: 114
 published: true
 
 provider:

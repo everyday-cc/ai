@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/companies-want-workers-to-trust-aibut
 webUrl: "https://www.wsj.com/articles/companies-want-workers-to-trust-aibut-not-completely-3ce09029"
 type: article
 quality: 67
-heat: 77
+heat: 78
 published: true
 
 provider:

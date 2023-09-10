@@ -169,6 +169,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "Artificial intelligence technology behind ChatGPT was built in Iowa -- with a lot of water"
+    excerpt: "Microsoft made its first $1 billion investment in San Francisco-based OpenAI in 2019, more than two years before the startup introduced ChatGPT and sparked worldwide fascination with AI advancements. As part of the deal, the software giant would supply computing power needed to train the AI models."
+    publishedDateTime: 2023-09-09T20:13:00Z
+    webUrl: "https://www.kcrg.com/2023/09/09/artificial-intelligence-technology-behind-chatgpt-was-built-iowa-with-lot-water/"
+    ampWebUrl: "https://www.kcrg.com/2023/09/09/artificial-intelligence-technology-behind-chatgpt-was-built-iowa-with-lot-water/?outputType=amp"
+    cdnAmpWebUrl: "https://www-kcrg-com.cdn.ampproject.org/c/s/www.kcrg.com/2023/09/09/artificial-intelligence-technology-behind-chatgpt-was-built-iowa-with-lot-water/?outputType=amp"
+    type: article
+    provider:
+      name: ABC Kcrg  9
+      domain: kcrg.com
+    quality: 49
+    images:
+      - url: "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/cgv4oWmyVvNoS8WdJ0PzDvXBwd0=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/QASNNXALLVHMPL2U6GKJDORIZQ.JPG"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Morgan Stanley to Launch AI Chatbot to Woo Wealthy"
     excerpt: "JPMorgan Chase named Teresa Heitsenrether its chief data and analytics officer in June to lead AI adoption across the largest U.S. lender. Rival Bank of America's virtual assistant, Erica, has had more than a billion interactions with clients since it was introduced in 2018."
     publishedDateTime: 2023-09-07T10:09:00Z
@@ -280,20 +296,6 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 34
-  - title: "Artificial intelligence technology behind ChatGPT was built in Iowa -- with a lot of water"
-    excerpt: "As they race to capitalize on a craze for generative AI, leading tech developers including Microsoft, OpenAI and Google have acknowledged that growing demand for their AI tools carries hefty costs, from expensive semiconductors to an increase in water consumption."
-    publishedDateTime: 2023-09-09T18:15:00Z
-    webUrl: "https://www.ksat.com/business/2023/09/09/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water/"
-    type: article
-    provider:
-      name: KSAT
-      domain: ksat.com
-    quality: 29
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/E3CWF7KYJFHBRDFTVO46YRMBM4.jpg?_a=ATAPphC0"
-        width: 700
-        height: 467
-        isCached: true
   - title: "Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water"
     excerpt: "As they race to capitalize on a craze for generative AI, leading tech developers including Microsoft, OpenAI and Google have acknowledged that growing demand for their AI tools carries hefty costs, from expensive semiconductors to an increase in water consumption."
     publishedDateTime: 2023-09-09T13:15:00Z

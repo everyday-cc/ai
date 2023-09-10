@@ -7,7 +7,7 @@ originalUrl: "https://www.reseller.co.nz/article/708622/aws-hints-partner-progra
 webUrl: "https://www.reseller.co.nz/article/708622/aws-hints-partner-program-changes-ai-partner-engagement/?fpid=1"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AWS AI
   - AI
-
-related:
-  - title: "AWS hints at partner program changes for AI and partner engagement"
-    excerpt: "AWS is set to shake up its current partner programs, hinting towards changes regarding genAI and partner-to-partner engagement."
-    publishedDateTime: 2023-09-05T05:36:00Z
-    webUrl: "https://www.arnnet.com.au/article/708622/aws-hints-at-partner-program-changes-for-ai-and-partner-engagement/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 54
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/promoted_content/promo/aws_dreamstime_12_1.jpg"
-        width: 505
-        height: 315
-        isCached: true
 
 secured: "C0VmcvIVo37AqGzTWPlMOH9Cimlvwc+Lsd/En/bEdYu8h6AkK0VfqdlTz3fnl9/8wbFF3TP/C+UG7Bw9dqwfzvkwS30IKYAqBWuFzFKDCQ20QJ5M028MtO7X2/T2pkbFKMXa4//NFRcmAuHqzt2aGZvovE9WhHsU3Si/W8kHqlKPiqqoVDjT8w4+nG3P41XhUFuRYCnerufKZkvatOAWzkm7zOKMkhsnT3X8A3dxql5QnXfUzhLqjq3uKdDN9GPu3f+DHKtiY7r/u/rqaiAxp16ENx5dNUrxuzA09P0Odpw5c4BkQh6xdkvgHoWLb7B93oiZsa2aZym4nLJBZ7PI1J+yhxSTOY0Ajy7E58heieHs4MFSGBD01TGYFOQtzIw2Q2t1J/yEGNDfTmGgNYvua3GsueskjB3AnX8n02u7LSuQ/cE0duMYNMin6oXAk6bpF5CErtcNIVW1Upj+fp4Q7XfxJYN6+TK7z796i2JUdV8LUVlIeNeV4AqjZ0leuGsC3qHqGhGStVnCGvwjbytUmQ==;uv1NOEq+MK7N2H6QmxpLAA=="
 ---

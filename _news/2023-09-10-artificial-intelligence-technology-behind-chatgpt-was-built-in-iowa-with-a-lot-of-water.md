@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Artificial intelligence technology behind ChatGPT was built in Iowa -- with a lot of water"
-excerpt: "As they race to capitalize on a craze for generative AI, leading tech developers including Microsoft, OpenAI and Google have acknowledged that growing demand for their AI tools carries hefty costs, from expensive semiconductors to an increase in water consumption."
-publishedDateTime: 2023-09-09T18:15:00Z
-originalUrl: "https://www.ksat.com/business/2023/09/09/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water/"
-webUrl: "https://www.ksat.com/business/2023/09/09/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water/"
+excerpt: "Microsoft made its first $1 billion investment in San Francisco-based OpenAI in 2019, more than two years before the startup introduced ChatGPT and sparked worldwide fascination with AI advancements. As part of the deal, the software giant would supply computing power needed to train the AI models."
+publishedDateTime: 2023-09-09T20:13:00Z
+originalUrl: "https://www.kcrg.com/2023/09/09/artificial-intelligence-technology-behind-chatgpt-was-built-iowa-with-lot-water/"
+webUrl: "https://www.kcrg.com/2023/09/09/artificial-intelligence-technology-behind-chatgpt-was-built-iowa-with-lot-water/"
+ampWebUrl: "https://www.kcrg.com/2023/09/09/artificial-intelligence-technology-behind-chatgpt-was-built-iowa-with-lot-water/?outputType=amp"
+cdnAmpWebUrl: "https://www-kcrg-com.cdn.ampproject.org/c/s/www.kcrg.com/2023/09/09/artificial-intelligence-technology-behind-chatgpt-was-built-iowa-with-lot-water/?outputType=amp"
 type: article
-quality: 29
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: KSAT
-  domain: ksat.com
+  name: ABC Kcrg  9
+  domain: kcrg.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/E3CWF7KYJFHBRDFTVO46YRMBM4.jpg?_a=ATAPphC0"
-    width: 700
-    height: 467
+  - url: "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/cgv4oWmyVvNoS8WdJ0PzDvXBwd0=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/QASNNXALLVHMPL2U6GKJDORIZQ.JPG"
+    width: 800
+    height: 450
     isCached: true
 
 related:
@@ -347,6 +349,6 @@ related:
       domain: scientificamerican.com
     quality: 4
 
-secured: "dvoQxBSt1w6QcYdTLKD+ftEQd+L4T08qnoWFBZaWXRzs0HsqSqAMMcjdtGFmGKq0mDBBgkCGgYP8YwV0y/fZlfJXxFoKyOBea34iSE1Mmm9o0ZUh7G2GuTahKgY7NITdtj1rxlpRYIwoIUFwVbOkvHpUlPaD0/vyXm2pYouB77JvMx+RWK7mME0V+5E+tcuEU91yRujk0IQCqVVl0DqB82koNk7Kx32wnFv/j2iVgM2AUiVtt+oawCamnkiMoOP80+o0wOvfJcWanY/iYgisvTaNWfrmyWq3/L4C1gjzExXI+nXRMCPumJCJcnLfviFlIJJeqGxpuWb0GgS+4wkVA+DnJpH6GHmSpV2Fifm9TVU=;ma/EVaop0qv4+jveS2nw2g=="
+secured: "CwnYX6H7/s4mBVhY96VVH9C9z6eU0L+UJVKmD1lXZ0sQzgPAksDhX4256gry9MGq6Cez1KwcKSNds+1nSx1lc6hpxvsceytSf+Y+BGV1UNnxq8Xq4g88WGjHs5+bnLu62LcPLvSN/WiODAguTPUWuXMxHm6fkx+WuL4tXO7sCi7pMh926O0R+31e/t08JZQDS1YJykg29fy80RCkSBzS2ccYBfnjToUy6vv+OD4UYKuk9BJlbBSTh0WpsbbvQtEDlQh6dxVqCekosuV1Kfv+WLIIti7ZexH6gvBWNpcQJ17r0vWH56GUPJsVw9Yup7NBOe9r4TxD4l7lV39tWDTl0onWuL3wgETJlYcrBpb0lcA=;1vcx9xvYqO9Cjv2XK5Gobw=="
 ---
 

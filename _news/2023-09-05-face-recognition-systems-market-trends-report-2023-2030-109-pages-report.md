@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) Robots Market Insights and Data Solutions for [2023-2030]"
-    excerpt: "The global Artificial Intelligence (AI) Robots market size was valued at USD 8919.76 million in 2022 and is expected to expand at a CAGR of 33.67 Percentage during the forecast period, reaching ..."
-    publishedDateTime: 2023-09-05T05:27:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/34217473/artificial-intelligence-ai-robots-market-insights-and-data-solutions-for-2023-2030"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34217473"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34217473"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 81
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Artificial Intelligence (AI) in Healthcare Market Insights Report 2023-2030 | 100 Pages Report"
     excerpt: "The Global Artificial Intelligence (AI) in Healthcare market is anticipated to rise at a considerable rate during the forecast period, between 2023 and 2030. In 2022, the market is growing at a ..."
     publishedDateTime: 2023-09-05T15:21:00Z
@@ -54,6 +38,54 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 77
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market 2023-2030 | The Revolution of Analytics Industry"
+    excerpt: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Latest Research Report provides [111 Pages Report] with a detailed analysis of qualitative and quantitative research such ..."
+    publishedDateTime: 2023-09-05T13:25:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/34235343/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2023-2030-the-revolution-of-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34235343"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34235343"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 66
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Artificial Neural Networks Market Size Report 2023-2030 | 121 Pages Report"
+    excerpt: "Short Description About Artificial Neural Networks Market: The Global Artificial Neural Networks market is anticipated to rise at a considerable rate during the forecast period, between 2023 and 2030."
+    publishedDateTime: 2023-09-05T07:16:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/34222000/artificial-neural-networks-market-size-report-2023-2030-121-pages-report"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34222000"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34222000"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Self-Driving Taxi Market Size Report 2023-2030 | 86 Pages Report"
+    excerpt: "The Global Self-Driving Taxi market is anticipated to rise at a considerable rate during the forecast period, between 2023 and 2030. In 2022, the market is growing at a steady rate and with the ..."
+    publishedDateTime: 2023-09-05T14:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/34215310/self-driving-taxi-market-size-report-2023-2030-86-pages-report"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34215310"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34215310"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
     images:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043

@@ -7,7 +7,7 @@ originalUrl: "https://www.ktnv.com/news/city-of-north-las-vegas-expands-ai-power
 webUrl: "https://www.ktnv.com/news/city-of-north-las-vegas-expands-ai-powered-translation-service-to-include-30-languages"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Robots are pouring drinks in Vegas. As AI grows, the city's workers brace for change"
-    excerpt: "Robots can serve food ... And then there's the brand-new jobs that AI could create that don't even exist yet. In Las Vegas, city officials know they have to start preparing for whatever changes are coming right now, and that starts with getting the ..."
-    publishedDateTime: 2023-09-05T06:31:00Z
-    webUrl: "https://www.houstonpublicmedia.org/npr/2023/09/04/1197138244/robots-are-pouring-drinks-in-vegas-as-ai-grows-the-citys-workers-brace-for-change/"
-    type: article
-    provider:
-      name: Houston Public Media
-      domain: houstonpublicmedia.org
-    quality: 47
-    images:
-      - url: "https://media.npr.org/assets/img/2023/09/01/img_2227-e4ff9eafcd401e007a1ed90c4b090f30f5244767.jpg"
-        width: 3420
-        height: 2565
-        isCached: true
 
 secured: "MLzKp75z3bGAFjcaCC9ohE9oBUApGBysahFWdI8cbr9H6diF0wgCtKWoQlbuC7uZN6t1EKjTxvq7O8DanATsA7h47toNgWvkNMI9x8L4SKYw45ZxvTXtxbwHc14TOKe+HHzcmxQy8wnvLQWMNmjxYQ331ot8mSH43AE+MdGfMcQeq5x1wxL9UJRarlbug2UM3uk/GdTLtKmJaAwn1okwbulmi+CNbsAnaJX6RRUNV7Zjsqgzmg7QBJDa97U27c+rwnlQtT86PATupaQgd7rmaN/8NIEqZrug5ho6meKB9a2jl4NuhekFZpR1/V+AhmTQI5tjjuZIl1xH59EVfaSTRwn84exOpwGWLFHiFcBwAYNJrr1czlLdnNZiAfbNaydRrRJLpuXBvZAXFp0ZuyGdCyGW4WcUeGSEP3d6Adfne0vvs8sLsOmVmY0wWJjS6fWY74rAbQAqAT1ilYk1WSTJ0Li/n4jB8z2JvsM+XZoX0pwZDim7xswTdO6DBRhu0EWxj0egz+VLgXYssMXEMSe+4Q==;aKvrgVi5tG2lr8oc7cUzew=="
 ---

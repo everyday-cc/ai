@@ -65,20 +65,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "You Don't Have to Pick a Winner in Fintech. Here's Why."
-    excerpt: "Artificial intelligence (AI) is on every investor's mind these days ... As you can see, there are lots of ways to gain direct exposure to the fintech sector. Investors who prioritize safety and thus want less risky options can look at Visa and Mastercard."
-    publishedDateTime: 2023-09-05T06:26:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MA-N/pressreleases/19946368/you-dont-have-to-pick-a-winner-in-fintech-heres-why/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 24
-    images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/8dd204abcbccfff5bcdbe02efb4f1179/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f743336%252ffintech-payment-app-hands-smartphone.jpg%26amp%3Bw%3D700"
-        width: 2374
-        height: 1263
-        isCached: true
   - title: "4 big FinTech funding rounds in MENA in August 2023"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-09-06T07:56:00Z

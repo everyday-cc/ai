@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2023/09/05/tech-and-cannabis-compan
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/09/05/tech-and-cannabis-companies-are-worth-watching-amidst-ai-boomforbes-ai-newsletter-september-2nd/amp/"
 type: article
 quality: 73
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "Ranking the 5 Best Meme Coins for September 2023"
-    excerpt: "Shiba Memu leverages artificial intelligence to interact with crypto forums and social media platforms, and by using advanced natural language processing (NLP), it creates a bridge between technology and community, reaching new audiences and maintaining an ..."
-    publishedDateTime: 2023-09-05T05:12:00Z
-    webUrl: "https://www.tribuneindia.com/news/impact-feature/ranking-the-5-best-meme-coins-for-september-2023-541527"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 24
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/9/2023_9$largeimg_828696836.png"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "Q3k96eAAn8GMUyMU8gDTjgX5sXAIypom0ZrYJR2UWiLaN0VKZOGC2Hrv2/6tQqStoHwJARP3fl4wyuvQNF9YJ8rTsPNuD7BzM+7kDmFtkSpZMuNI+Us9w32Ny+UqC96zSjEWbaP4YspjWnE5HYdumKgjj15UY11/Om3xgRFnjIJ6PW8tNq8LDHlOtFRX4YnWddpt3Ym13P1osmktsw8tYWJoZ4vCI1F1Qz2glooRSsxAs5iY2NIN0Lz5qeoXL9xbLGEbD3AR9M5TekMZ5YhO7NiUveQqGygJH1qfKriTFdd/qh/2U73/vqfLBHlsVpv1B9fX8FBIuKnAuH2mV7quLCUW/np5yb65EjzWRbufsXXxXNEK4tNa6zPA9RCPe/cRiv9yDjTyMWrsaz0fblcA93LW31N7cJUpUB0tBQqL9PbTSj0FbGn59cS2pbVGMnb/QW2Hc/KhHhExo3mtMJf4L10L7dxzSRNdaq0M2zYvDsWozH2pzLbJLBx8yaM+iceYhgJo5pn5Z6KJZv6+0oyl6Q==;3R/glFfiPEAZSwkEIB5f6g=="
 ---

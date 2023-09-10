@@ -155,6 +155,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "Artificial intelligence technology behind ChatGPT was built in Iowa -- with a lot of water"
+    excerpt: "Microsoft made its first $1 billion investment in San Francisco-based OpenAI in 2019, more than two years before the startup introduced ChatGPT and sparked worldwide fascination with AI advancements. As part of the deal, the software giant would supply computing power needed to train the AI models."
+    publishedDateTime: 2023-09-09T20:13:00Z
+    webUrl: "https://www.kcrg.com/2023/09/09/artificial-intelligence-technology-behind-chatgpt-was-built-iowa-with-lot-water/"
+    ampWebUrl: "https://www.kcrg.com/2023/09/09/artificial-intelligence-technology-behind-chatgpt-was-built-iowa-with-lot-water/?outputType=amp"
+    cdnAmpWebUrl: "https://www-kcrg-com.cdn.ampproject.org/c/s/www.kcrg.com/2023/09/09/artificial-intelligence-technology-behind-chatgpt-was-built-iowa-with-lot-water/?outputType=amp"
+    type: article
+    provider:
+      name: ABC Kcrg  9
+      domain: kcrg.com
+    quality: 49
+    images:
+      - url: "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/cgv4oWmyVvNoS8WdJ0PzDvXBwd0=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/QASNNXALLVHMPL2U6GKJDORIZQ.JPG"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Morgan Stanley to Launch AI Chatbot to Woo Wealthy"
     excerpt: "JPMorgan Chase named Teresa Heitsenrether its chief data and analytics officer in June to lead AI adoption across the largest U.S. lender. Rival Bank of America's virtual assistant, Erica, has had more than a billion interactions with clients since it was introduced in 2018."
     publishedDateTime: 2023-09-07T10:09:00Z
@@ -280,20 +296,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "Artificial intelligence technology behind ChatGPT was built in Iowa -- with a lot of water"
-    excerpt: "As they race to capitalize on a craze for generative AI, leading tech developers including Microsoft, OpenAI and Google have acknowledged that growing demand for their AI tools carries hefty costs, from expensive semiconductors to an increase in water consumption."
-    publishedDateTime: 2023-09-09T18:15:00Z
-    webUrl: "https://www.ksat.com/business/2023/09/09/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water/"
-    type: article
-    provider:
-      name: KSAT
-      domain: ksat.com
-    quality: 29
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/E3CWF7KYJFHBRDFTVO46YRMBM4.jpg?_a=ATAPphC0"
-        width: 700
-        height: 467
-        isCached: true
   - title: "Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water"
     excerpt: "As they race to capitalize on a craze for generative AI, leading tech developers including Microsoft, OpenAI and Google have acknowledged that growing demand for their AI tools carries hefty costs, from expensive semiconductors to an increase in water consumption."
     publishedDateTime: 2023-09-09T13:15:00Z
@@ -347,6 +349,6 @@ related:
       domain: scientificamerican.com
     quality: 4
 
-secured: "nnBbV/qAXNlnhPjLIRSy3aBU/OGS/0yg0broWJKqVW5JOKmJcaIe858gHl0BTpEv9/Xm+8ghjyYKhY3o1wexgQgSjIu4mruZ+M1vemeV6VR3IT1NyD3A4rr2BLwUvRmSj93JnknNe51akyS4O1uJDla+upnALEpbAleyOGtAhxYtEnYwUz86RMrGbSSEMxCN9HbL3Ci+Cxiftqg9VRfxu9rSmBN8w+d16IL2WVq8ZoNbOVqX2QDw90jOo6l7QHRUWUTc57mioA/krLwDLZdBSjx3aKsh9miJX0zKu2gfoyD+DJZujnEEoqDcjZEBorV5wuqF5z+zJ9L5RwbdbItKyQzjzCdhfJkTpjq+qSBH2Ds=;/XqQjfKVKADS2tqDf7YKTg=="
+secured: "yYZ7ecxYy5kIKu03K9YrjL9wzmqrhHx9OUj37CyOowR2aL4/QJSnBYsSjnrdn4uE7WTeQwSa4u8Wdaq/hXNJmNI2PAFoS/uxx+B5LFsQGe2cQrk6U8fvkWPSkE99RxZbKP3fqSZcsxIZBeqAsrw1/naihEsyK8w8eGoMbaBA+RDeZn9AgWF/XDY1aotKpVUi5p3GmMi0vN9vrXGTCL9VXJdfvtItccWvsg4ZBoYQFNdPsAc32eGpOhYtGYmN1OJCx/LU8B2aFiCGJvADzc0YSgMFIfvUfVaQKJ+Z82TxwHzMcwFbH8pbyxSzffJpG7TXpdOPmTHLps5DfS04xPwEk+cEoo0SikXbnJsYYQGiDQ2/4P6oKAy3kcO2ET3bqHf+yX1NmLNa+XHW8qi51WtIj/u9SkQZtX3VN/eHYaZDD/yrmmJ20ojb+JE8cUITnUquRmwO6ZIwHhInqq+DFqq/9CbAQlz6Ss5CDqwQlh1+Of+SrMrsk9b/PEV2CXDbgtQmS8+hOPHYx3oqjl+Q7oAmgQ==;wqzfGFwQp9v/+JhRWftx4w=="
 ---
 

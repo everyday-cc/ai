@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/09/06/in-the-
 webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/09/06/in-the-ai-era-elevating-human-centered-leadership-has-never-been-more-important/"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "As regulators talk tough, tackling AI bias has never been more urgent"
+    excerpt: "AI bias must not be overly politicized. Governments, scientists, enterprises and academics must unite to tackle it as a societal issue."
+    publishedDateTime: 2023-09-09T23:40:00Z
+    webUrl: "https://venturebeat.com/ai/as-regulators-talk-tough-tackling-ai-bias-has-never-been-more-urgent/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/08/regulation.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "IPcL14bPDY9Pwr5WoyM5BW8Wyk9INYObfk2FVHlvju8U5suAtMzQdTDpn3d1IjpXJBd7SLG7GMQLs1eFrEMojr2cc5nOJVHvrDFXH/mitvVhgVaObyajO72XLGFeS6Hr/TgMAUR5GKuNgCNZnepSrdRqqmN8YDDZdmVdzUnrcoUaADiNewv3qtT2tc5UCp5pFSIKDqFkzIQrLAS4eGjDhkdG3zkPv6B7LTT9kxemMBuv0F3Ju81ym09taARD+6duThq9RI2AUPYZXkb7tdqXqEXHu5CZFducwBHmpx6y4hk+BHnF2r1YM/BxMcHfLBukGb4kQEVXjKPi8YnzlKyPuC2gAe8N8Ez0a/Xbincts0NtC87u0zL9OiBgILxKtiUtVHD6Bn7MsV2qwCGsLqSPqh1WM+Nty5R3/QED6qccaBZqTXyt+dSgU+ng1PQY5QwchcjyyJLA+bcTbgxzBwjG8KdKRZjsFNAaFoQTC1N8MpoZgETn+km6/nnOhzeN1EYdFM0DqnnRunC66mC4tTZjtw==;9b9elwI3tuHpx5jq2ocAnQ=="
 ---

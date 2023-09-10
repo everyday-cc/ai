@@ -7,8 +7,8 @@ originalUrl: "https://gizmodo.com/9-stadiums-using-facial-recognition-games-rose
 webUrl: "https://gizmodo.com/9-stadiums-using-facial-recognition-games-rose-bowl-met-1850798207"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Gizmodo
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "The 9 U.S. Stadiums Already Using Facial Recognition at Games"
+    excerpt: "When the Philadelphia Phillies baseball team introduced its new “Go-Ahead Entry” facial recognition authentication method last week, it was intended to decrease wait times and increase efficiency. In reality,"
+    publishedDateTime: 2023-09-09T21:30:00Z
+    webUrl: "https://gizmodo.com.au/2023/09/the-9-u-s-stadiums-already-using-facial-recognition-at-games/"
+    type: article
+    provider:
+      name: gizmodo
+      domain: gizmodo.com.au
+    quality: 39
+    images:
+      - url: "https://gizmodo.com.au/wp-content/uploads/2023/09/d5ad754baa503fe4d030e26538bbc050.jpg?quality=75&w=640&h=360&crop=1"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "Bi9Kr0/HXRZprE9RkeXTpi6EUAO9gCC+D90EKUEPGGZX38Dy+Z4NH8I3lezwm8oMelUFT/dMw9pkg7rEJ5+Y5BTypS6tAMbeNAV1QdR09HhsnbMtkaW1I2i8mN0nWmwVUxq5cnwRTzWN9cp/7+R+YAcA442CwkJ41hh8aA6Klop2fsuLxcOEAWTjFiJtLe4/64QLA22N6gVAmPr5tyjen1SLsFsGpuBd0DVri04HKbHU/lDifGX/n9Dz6KkKQTL5dPi12RSrkZRwUyW7XhTJ16TYLtFcu0O7w8/synOOJ7NOfeJtzTVLnGzA3usqU6HYrdO07D4jU8Ew6YKTQHXeug+YF3onfhqkkBT0elB0zKsECcUrxcQynhPkR7ivhLsaD5kf9gcsEmN26TLIvSfB97R2x//2ZSX00MeR9fVcrOdFcjEEYeClquhclXRoC/OHmuZjIafqBDpC94qDcU1x3vBokVTEyeqrddEBaVVv0D7xCMb5CQ6PUeKhQzVD82175OTchv8F8dHS9eKwoIhD7g==;57YkZWlcZLqqConRT5mCVA=="
 ---

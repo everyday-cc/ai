@@ -22,24 +22,6 @@ topics:
   - Facebook AI
   - AI
 
-related:
-  - title: "The evolution of malware prevention"
-    excerpt: "Next-generation methodologies are required to deliver effective threat prevention in an era of unprecedented attacker activity, says iSSC Group."
-    publishedDateTime: 2023-09-05T06:36:00Z
-    webUrl: "https://www.itweb.co.za/content/VgZeyvJl8n9MdjX9"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/VgZeyvJl8n9MdjX9"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/VgZeyvJl8n9MdjX9"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 44
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2019/03/-fs-malware-hooded-man-2019.jpg"
-        width: 816
-        height: 459
-        isCached: true
-
 secured: "2MFEvUKkRhs4nnoHlePzlcDZCVrXrHM/t4j1eTIahU4pTZVGfjgTvVBZhg8F6sHinMgPPWN5XIPFoIxZIMD5Y5JTrzoe+hbVBHvBvprdRMipwhzN9xasd4I5vkTdTnoQPqfeBtVp9J0RfCzjkAtLGmAniTwXosbqnNRPTRRG9udtiWzZrgg/OIXfEGFFSZ2hgznNEpI8zgdbcMrmSLgXvIIwLwt4JgUwdDitAacX9Gipb45fpBLnooKkZ0EjqL5lgEc+m4V07XRvw3ObJ3ZyrWoOFvzgxKkws7OXnKvwvOGcbA6HbEsa5Go2eE/ZIjcn+KSzFbtIV21+LabIJzoR8aQKIz7ZmfUGzIhOfcXpYj0=;aOLRKLpbcysAanpmT7sRjQ=="
 ---
 

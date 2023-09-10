@@ -1,0 +1,43 @@
+---
+category: news
+title: "As regulators talk tough, tackling AI bias has never been more urgent"
+excerpt: "AI bias must not be overly politicized. Governments, scientists, enterprises and academics must unite to tackle it as a societal issue."
+publishedDateTime: 2023-09-09T23:40:00Z
+originalUrl: "https://venturebeat.com/ai/as-regulators-talk-tough-tackling-ai-bias-has-never-been-more-urgent/"
+webUrl: "https://venturebeat.com/ai/as-regulators-talk-tough-tackling-ai-bias-has-never-been-more-urgent/"
+type: article
+quality: 67
+heat: 77
+published: true
+
+provider:
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2020/08/regulation.jpg?w=1200&strip=all"
+    width: 1200
+    height: 800
+    isCached: true
+
+related:
+  - title: "In The AI Era, Elevating Human-Centered Leadership Has Never Been More Important"
+    excerpt: "New generative AI models are dazzling, but they represent knowledge without heart or soul. That's why a human-centered leadership approach is critical."
+    publishedDateTime: 2023-09-06T19:09:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/09/06/in-the-ai-era-elevating-human-centered-leadership-has-never-been-more-important/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 42
+
+secured: "+mj9T7j9iyqxUMdx9N0a5MtNeaZ564mrJ+AY+7YmQNNbbbUXyOnw2BwEjEKjl7bCcBJiTnf7kZijOyKS9c0VZIuYQ/qY84u9pmA7Vq7tdA5+UttPxiMU57dj8WrNeNhDjeN7GBfPlQ4WDvoA53zbjN/Payhs/nShdi3QpOtw5qOt/UXxlyAAUBqpK/0CuGiTgppMup4z6/sggAD2wjL7HwaMeWxceyi7744mfU4iLns/aiufPGLBxS1tKdLqynDkBJf4icSmN04d4T8jvEBZJgrl4+562Yn/sPAUNFFRW6sTWGQNyr+tE+HZFJqfQ0EPbC0mSFo8Vx/IWGpITwkNbWwrZ888R60SB4FKRSTUCDI=;LYiYY5HJvVV9DbNUY/ib5w=="
+---
+

@@ -7,7 +7,7 @@ originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=13446
 webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1344621&cat=PR News Wire"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "iTechGenic Partners with Microsoft Azure and G7 CR Technologies to Revolutionize Engineering Management with AI-Driven Insights"
+    excerpt: "India], September 8: iTechGenic, a pioneering AI-based engineering intelligence platform, has joined forces with Microsoft Azure and G7 CR Technologies- A Noventiq Company as a part of their STAB program for ISVs."
+    publishedDateTime: 2023-09-08T08:44:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20230908/4116878.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 21
 
 secured: "zosIt6LKJcILrqXosbozz9KPzwJt3C7hUYafKujlIW5TL5wmA6yLURltMwjvQAK4uGJw/VnlId0RpTEGI043F0kRfPPArcUBncNGXiYUHirwabsSZJYMC4vWf/KgaxmiWqlrFwsu+dc6e/hqP4RpDn1Vm9LkYV5nqiMDwhKNErJUeqJ11BE4kRmOW0VHe76cxU3VzzmOK/z5iAn9BlFHRp3hgOHBz8LumW3F4pElYTzSgRbvisOOmf8Qx3SjUL5L0icxPRjiBaZwNQ2DD2RtQHHQwdSwpY+ZGKV8G4wOhct0CtcWVGtF4rMNx5Sy5snk19hTJ8z+FkFaW8EakI4dO2ERkPBJXIP2SA/X81d3VeY=;2NniSKFAIjIKOLxz/STJGg=="
 ---
