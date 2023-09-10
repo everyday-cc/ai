@@ -1,28 +1,30 @@
 ---
 category: news
-title: "Cloudera Signs Strategic Collaboration Agreement with AWS"
-excerpt: "Sept. 6, 2023 — Cloudera, the data company for trusted enterprise artificial intelligence (AI), announced today that it has signed a Strategic Collaboration Agreement (SCA) with Amazon Web Services, Inc. (AWS). This agreement strengthens Cloudera’s ..."
-publishedDateTime: 2023-09-06T16:03:00Z
-originalUrl: "https://www.datanami.com/this-just-in/cloudera-signs-strategic-collaboration-agreement-with-aws/"
-webUrl: "https://www.datanami.com/this-just-in/cloudera-signs-strategic-collaboration-agreement-with-aws/"
+title: "Amazon Now Requires Authors to Disclose AI-Generated Content"
+excerpt: "After complaints from the Authors Guild and others, Amazon is now requiring writers to disclose the use of AI, though it's not yet publicly identifying those books in its marketplace."
+publishedDateTime: 2023-09-09T17:29:00Z
+originalUrl: "https://www.pcmag.com/news/amazon-starts-requiring-writers-to-disclose-ai-generated-content"
+webUrl: "https://www.pcmag.com/news/amazon-starts-requiring-writers-to-disclose-ai-generated-content"
 type: article
-quality: 41
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: datanami.com
-  domain: datanami.com
+  name: PC Magazine
+  domain: pcmag.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AWS AI
   - AI
-  - AI in Healthcare
 
 images:
-  - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
-    width: 1893
-    height: 767
+  - url: "https://i.pcmag.com/imagery/articles/05fDpqPt4Tw50fbQCuGXvAr-1.fit_lim.size_1200x630.v1694278993.jpg"
+    width: 1120
+    height: 630
     isCached: true
 
 related:
@@ -42,20 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Amazon Now Requires Authors to Disclose AI-Generated Content"
-    excerpt: "After complaints from the Authors Guild and others, Amazon is now requiring writers to disclose the use of AI, though it's not yet publicly identifying those books in its marketplace."
-    publishedDateTime: 2023-09-09T17:29:00Z
-    webUrl: "https://www.pcmag.com/news/amazon-starts-requiring-writers-to-disclose-ai-generated-content"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/05fDpqPt4Tw50fbQCuGXvAr-1.fit_lim.size_1200x630.v1694278993.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "IBM to continue collaboration with IIT-B and IISc, Bangalore over hybrid cloud and AI solutions"
     excerpt: "According to an official release, the development aims to extend the prior research in natural language processing"
     publishedDateTime: 2023-09-06T11:02:00Z
@@ -71,6 +59,20 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-06T162824.938.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Cloudera Signs Strategic Collaboration Agreement with AWS"
+    excerpt: "Sept. 6, 2023 — Cloudera, the data company for trusted enterprise artificial intelligence (AI), announced today that it has signed a Strategic Collaboration Agreement (SCA) with Amazon Web Services, Inc. (AWS). This agreement strengthens Cloudera’s ..."
+    publishedDateTime: 2023-09-06T16:03:00Z
+    webUrl: "https://www.datanami.com/this-just-in/cloudera-signs-strategic-collaboration-agreement-with-aws/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 41
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
         isCached: true
   - title: "Cloudera signs strategic collaboration agreement with AWS"
     excerpt: "Cloudera, the data company for trusted enterprise artificial intelligence (AI), announced today that it has signed a Strategic Collaboration Agreement (SCA) with Amazon Web Services. This agreement strengthens Cloudera’s relationship with AWS and demonstrates their commitment to"
@@ -119,6 +121,6 @@ related:
       domain: miamiherald.com
     quality: 3
 
-secured: "z8dvXIAQcRhCmDONYiv5YaWiCvcNzSnp/WPo45BgcHJBqHogj0iyJx2YGm8ncDCwDJ65UdlhDnC298rt0bUUcnsXVCuJ16wvaym2aEdOAPAdwG3zHOeR7swsyBEasJDaFOuzOk0aBmJPmPAT2s2lCJNaepcm0Ip+JLgXgMK28uWNm8K+6n/eAtiPkJZW7HPaaezkzXtk8sNlP/XnG3c7DNS5iUWz5HV+jtaLCyr/MMrY65J7wMFNV0/EItCYn8+7NvRzQgLxFDIZvHcXsqzQu3N/eZqysOVX6K1bbmHBOLZnOFzN2RlCqNk+kSTc0Q3hDCUmAHI7vW3ZByiRbpWkDh2eS5jlWqU1JdUPWMv74NbF3I7CkR0zru3QxSgTkOXf763Irphw5bvPME7f7nNtrzVNvYnNZHX5H7tyBCQnO6zCopiPiCltMZKCp9NdN9ZukZyBkGpWGfsusZzwxcMrxkNelF9ETD/sUw8G97siyoaYIMHjFK9rPJ4ZVEMijiNi9l0UYvYeNJKJq/0yy6hQBw==;MEA+JkvZW8qLCC/DTlsAMg=="
+secured: "qntx5ALXwrJ24n3Hzs60+r9w3/amDoD0KtM2GsnFEb3xG9eBwYUfGtWtvnWKbGu9lJk7bCwiR2f/tSKTSF5tf1+GyR/ldzRuvMYcUyAidpMw9je/YL7dKOX5mSyh2FP8PAfF9EA0reJF9uD+WWlADXMsBEAkk18y45+XWOTl/IVkddoqZdO8su4uQY1SRxRSmSNCSw2/o8ZiufChZPYgBzVbT6uwzFhh2tTM9p2EMwQOWwkZWf5VpYZX2QuCe/3LNIEyPTjj7pQqA7i4oJZHyNDayTHtZ3LSuqtKZ5R6fQzvLe4Jw+nM/zxISnsrhq90f63CcWUwuW5PcemuZUxyDzz6iRs4j3hoahTvHEPy0CM=;FIHGhxOZT6xVxCl4g5cw9A=="
 ---
 

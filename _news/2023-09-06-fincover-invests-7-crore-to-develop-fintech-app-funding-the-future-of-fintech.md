@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Fintechs can drive financial inclusion through AI, says Kora"
+    excerpt: "The Nigerian fintech industry can leverage Artificial Technology to drive financial inclusion, increase efficiency, and improve consumer"
+    publishedDateTime: 2023-09-10T01:50:00Z
+    webUrl: "https://punchng.com/fintechs-can-drive-financial-inclusion-through-ai-says-kora/"
+    ampWebUrl: "https://punchng.com/fintechs-can-drive-financial-inclusion-through-ai-says-kora/?amp"
+    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/fintechs-can-drive-financial-inclusion-through-ai-says-kora/?amp"
+    type: article
+    provider:
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 59
+    images:
+      - url: "https://cdn.punchng.com/wp-content/uploads/2019/01/31111416/artificial-intelligence-e1548929675751.jpg"
+        width: 800
+        height: 372
+        isCached: true
   - title: "New fintech targets AI product to scale sustainable finance in debt markets"
     excerpt: "Company uses machine learning technology to render climate and sustainability credentials of bonds and issuers transparent and comparable, through a single access point"
     publishedDateTime: 2023-09-07T14:34:00Z
@@ -33,57 +49,22 @@ related:
         width: 533
         height: 405
         isCached: true
-  - title: "Google finally made its At a Glance widget usable, thanks to AI"
-    excerpt: "The latest version of Google's At a Glance widget will finally bring AI to the table, making it more useful than ever."
-    publishedDateTime: 2023-09-07T02:01:00Z
-    webUrl: "https://bgr.com/tech/google-finally-made-its-at-a-glance-widget-usable-thanks-to-ai/"
+  - title: "Uldis Tēraudkalns, CEO of Nexpay: Fintech Veteran Comments on Implications of MiCA Regulation for European Fintechs"
+    excerpt: "Pioneering fintech solutions such as Revolut ... Additionally, Artificial Intelligence (AI) is poised to revolutionise payment processes, from invoicing to compliance checks, slashing the costs and duration of cross-border transactions."
+    publishedDateTime: 2023-09-07T01:35:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/09/212385-uldis-teraudkalns-ceo-of-nexpay-fintech-veteran-comments-on-implications-of-mica-regulation-for-european-fintechs/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/09/212385-uldis-teraudkalns-ceo-of-nexpay-fintech-veteran-comments-on-implications-of-mica-regulation-for-european-fintechs/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/09/212385-uldis-teraudkalns-ceo-of-nexpay-fintech-veteran-comments-on-implications-of-mica-regulation-for-european-fintechs/amp/"
     type: article
     provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 22
     images:
-      - url: "https://bgr.com/wp-content/uploads/2023/09/Do-more-at-a-glance-with-new-productivity-features-for-your-Android-devices-0-27-screenshot-1.png"
-        width: 1920
-        height: 1080
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/11/EU-flags-at-the-European-Commission-Berlaymont-building-guillaume-perigois-unsplash-600x460.jpg"
+        width: 600
+        height: 460
         isCached: true
-  - title: "Fable Fintech and iPiD Announce Strategic Partnership at Global Fintech Fest, Mumbai"
-    excerpt: "As digital payments continue to gain ground, overshadowing traditional cash transactions, the demand for secure and efficient payment platforms is on the rise. The collaboration between iPiD and Fable Fintech comes at a pivotal moment, promising to address this demand."
-    publishedDateTime: 2023-09-06T11:57:00Z
-    webUrl: "https://www.businesswireindia.com/fable-fintech-and-ipid-announce-strategic-partnership-at-global-fintech-fest-mumbai-86255.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 32
-    images:
-      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_86255.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "4 big FinTech funding rounds in MENA in August 2023"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-09-06T07:56:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/4-big-fintech-funding-rounds-in-mena-in-august-2023/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/11/Funding.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "FINCOVER Bootstraps 7 Crore For Fintech App Development"
-    excerpt: "In the ever-changing Fintech landscape, Fintech companies constantly flood the market with cutting-edge tools and apps to be a part of this transformative evolution."
-    publishedDateTime: 2023-09-06T15:35:00Z
-    webUrl: "https://www.outlookindia.com/business-spotlight/fincover-bootstraps-7-crore-for-fintech-app-development-news-316271"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 4
 
 secured: "pdYIcopFaZpAPNawz0jBRrTH/rIftSf5IGX5l5wwqX59Tplfh/ily1tMGeJiNNho1Lv4cwweUJyz2qHImnRZhX3GavysO3QDwLEopKhYM5+K8TTjaT1A05qe7Eh9SF2HEWXc7AnU4hFHj+YyEn8dCBvesu/gxDvDulms0L7kBpaT2Rn+fZjlJ3J2UrXeBO/vX3Zm/dFx4NTSQ2l8FYBYPFO1OS6KSDsvNDL6f013qcjnjs/NHO1aYnn4UE6B4wGmmqJCx5XogZW80aA3qzJmT/8UhbMyXuMgQHMyPJebZyC/nPu0mGP63b2hF/low324/g5Tpt3TMmJyrvWqynUfTygMUpUwaUrlvxC8hO2d/XFePOz2jXW4tM6clkm0ckbnFapY5Q610T1gawZhib/EhQpUH99St9S5pqii97TNAoCQUwSn5l3wwnZBahYvjDT6LRAEVONw+QiS2M4GzLcRDetUQD7Ke0msum/9LOKg0ri3oh3yjW3N76hysvnwkd3NEMsK0aqzYjXPPpfitEcVJQ==;nEoHWNyWf95BRB2Ovx5JsA=="
 ---

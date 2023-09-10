@@ -50,6 +50,22 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 66
+  - title: "Bid to find fintech solutions to NE’s problems"
+    excerpt: "Guwahati: From empowering the farmers of Nagaland through organic pre-order vegetable delivery services to developing a tech-based platform to streaml."
+    publishedDateTime: 2023-09-10T03:17:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/guwahati/bid-to-find-fintech-solutions-to-nes-problems/articleshow/103545872.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/guwahati/bid-to-find-fintech-solutions-to-nes-problems/amp_articleshow/103545872.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/guwahati/bid-to-find-fintech-solutions-to-nes-problems/amp_articleshow/103545872.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1070
+        height: 579
+        isCached: true
   - title: "SliceUp Selected to Participate in Startup Battlefield 200 at TechCrunch Disrupt 2023"
     excerpt: "TechCrunch Disrupt 2023 will be held from Tuesday, September 19 - Thursday, September 21 at the Moscone Center in San Francisco. Startup Battlefield 200 is bringing together the foremost startups from around the globe in twelve different categories, giving them a platform to showcase their latest innovations to the tech world."
     publishedDateTime: 2023-09-08T15:48:00Z

@@ -26,6 +26,22 @@ images:
     height: 1043
     isCached: true
 
+related:
+  - title: "4 big FinTech funding rounds in MENA in August 2023"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-09-06T07:56:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/4-big-fintech-funding-rounds-in-mena-in-august-2023/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/11/Funding.jpg"
+        width: 300
+        height: 300
+        isCached: true
+
 secured: "rRZKCmJxMWYo3mfX4g1nsodZDY/TreOx3Sd3pQ1OOa03Y1r7BACQK7JmA2A6hvFX1u7mkK+eUx9xb88HF2ux/4V1YgSJngqga1DGJokxsayHnThcY9TLEolh6k/gtDA71nHwJ7juRZVQtSVbHF4+eIPmRgzlYQFtqhjx1giHoPX0oU4s+jEIBmbfWVMykYi4kwUB8h2k/cVVO+hRI46nGC8EFdg3X+tBq1/qYj/wbwAkd1uXettMjtBP4BS+y+82SlSFu4HZ8AcOea6ILGPEqEyqtHS05NDNp/FpnKoJzB5iBnk8Dt7qYiDYt5ZUlHPidWOJF3rLViZtRKfqALqKVBB4jsZZrzkz/HO9SPXVXcI=;ruFVejZhlrh495DdYswXCA=="
 ---
 

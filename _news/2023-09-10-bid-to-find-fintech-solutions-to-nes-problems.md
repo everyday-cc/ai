@@ -1,28 +1,30 @@
 ---
 category: news
-title: "Meet the AI, fintech, SaaS and security industry chairs at TC Disrupt 2023"
-excerpt: "This dynamic conversation promises to empower tech enthusiasts and entrepreneurs with real-world strategies to implement AI effectively in their projects. Fintech Industry Chair: Nik Milanović Nik Milanović, general partner at the Fintech Fund ..."
-publishedDateTime: 2023-09-06T13:00:00Z
-originalUrl: "https://techcrunch.com/2023/09/06/meet-the-ai-fintech-saas-and-security-industry-chairs-at-tc-disrupt-2023/"
-webUrl: "https://techcrunch.com/2023/09/06/meet-the-ai-fintech-saas-and-security-industry-chairs-at-tc-disrupt-2023/"
+title: "Bid to find fintech solutions to NE’s problems"
+excerpt: "Guwahati: From empowering the farmers of Nagaland through organic pre-order vegetable delivery services to developing a tech-based platform to streaml."
+publishedDateTime: 2023-09-10T03:17:00Z
+originalUrl: "https://timesofindia.indiatimes.com/city/guwahati/bid-to-find-fintech-solutions-to-nes-problems/articleshow/103545872.cms"
+webUrl: "https://timesofindia.indiatimes.com/city/guwahati/bid-to-find-fintech-solutions-to-nes-problems/articleshow/103545872.cms"
+ampWebUrl: "https://m.timesofindia.com/city/guwahati/bid-to-find-fintech-solutions-to-nes-problems/amp_articleshow/103545872.cms"
+cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/guwahati/bid-to-find-fintech-solutions-to-nes-problems/amp_articleshow/103545872.cms"
 type: article
-quality: 66
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Indiatimes
+  domain: indiatimes.com
 
 topics:
   - AI in Finance
   - AI
-  - AI in Security
-  - AI Ethics
+
+images:
+  - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+    width: 1070
+    height: 579
+    isCached: true
 
 related:
   - title: "Startup Battlefield 200: Fintech and Hardware edition at TC Disrupt 2003"
@@ -41,22 +43,15 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Bid to find fintech solutions to NE’s problems"
-    excerpt: "Guwahati: From empowering the farmers of Nagaland through organic pre-order vegetable delivery services to developing a tech-based platform to streaml."
-    publishedDateTime: 2023-09-10T03:17:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/guwahati/bid-to-find-fintech-solutions-to-nes-problems/articleshow/103545872.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/guwahati/bid-to-find-fintech-solutions-to-nes-problems/amp_articleshow/103545872.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/guwahati/bid-to-find-fintech-solutions-to-nes-problems/amp_articleshow/103545872.cms"
+  - title: "Meet the AI, fintech, SaaS and security industry chairs at TC Disrupt 2023"
+    excerpt: "This dynamic conversation promises to empower tech enthusiasts and entrepreneurs with real-world strategies to implement AI effectively in their projects. Fintech Industry Chair: Nik Milanović Nik Milanović, general partner at the Fintech Fund ..."
+    publishedDateTime: 2023-09-06T13:00:00Z
+    webUrl: "https://techcrunch.com/2023/09/06/meet-the-ai-fintech-saas-and-security-industry-chairs-at-tc-disrupt-2023/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1070
-        height: 579
-        isCached: true
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 66
   - title: "Emerging Fintech Brands & Their Leaders of 2023"
     excerpt: "The utilization of AI and ML on the platform simplifies the debt process ... Ajay Lakhotia: Founder of StockGro In the ever-evolving landscape of fintech in 2023, StockGro emerges as a beacon for novice and seasoned investors. It is recognised as India's ..."
     publishedDateTime: 2023-09-07T05:36:00Z
@@ -81,6 +76,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "rf4xsdMIQZ4fzvbJq/jZ45P9WTn4z/t6aZxyuGQyTYjfqta0Rn1FQWKWbL6fOZtBvZJFUfAuQoAkvmYvzalJ8JzwB5jHkoA2lDNct/Exo5K02+9lLOY0o1j24aIYGZAHEb1gpBZpBnG9c5WWVpV3z9M+uQW3JkFArz1D34PXO8RFq+LQ4ynT1VReKMLE/D4zF8Ul7nJn9taaF8H0JTZgBNbUY/fD7+N0N4X/v+3SVpnJZhyDNuypsGrW0Pr+WMhmYB/dv6bonAqt+uXVmqFeIKfjBO3rdfVt/39DZd4b0iyNB4dmqkeRfp2nZQdWTlboLEtOHvtSvy3nyfm65qqsvGBk31o2nfq5OflWOw+tmj8=;jq7eSA5X19ld4T6H5oB/nw=="
+secured: "y2CV9Uq+1eotnmHvKmJIOwaKZWpEf6v7ZZlZCeBBVccsICm0+IXnctxD+2Moi1VEDfMIBTYBcgIW+DaRW4r4g4pFs5MAdKnczzpV7PqNThkkykb/UGBzih6jdfx5Iwnvn+3cHT8YEDqmnwFBkXLygZlreCRvlEMmcZte6agVPBDt8s9hfKmuIiM7LXfrUapb46gB0Td8UKiRxziEQ7kca6qwyjSkupEw0m2DIDVw4mMvG/5wChuw0iZY5ck88SM99KUYltmzIsAp3GLcDGBkFFbG7RLgl9gamneIq7JOXCq9IcSs4zuOY8+WdYLwJgaew1cccJPG6UgZixhhE8nogurK7hRHQkuxnsTSiExsZUM=;tPPZRarN1Bg9XYNTUuWzTg=="
 ---
 

@@ -65,15 +65,6 @@ related:
         width: 296
         height: 250
         isCached: true
-  - title: "Catheter Market: Continuous Expansion Anticipated with a Predicted CAGR of 8.7% to Reach USD 43.63 Billion by 2032"
-    excerpt: "For instance, on April 13, 2022, researchers from the Massachusetts Institute of Technology’s Lincoln Laboratory unveiled an ultrasound tool guided by Artificial Intelligence (AI ... signals and administering therapy for the treatment of Ventricular ..."
-    publishedDateTime: 2023-09-05T10:25:00Z
-    webUrl: "https://www.medgadget.com/2023/09/catheter-market-continuous-expansion-anticipated-with-a-predicted-cagr-of-8-7-to-reach-usd-43-63-billion-by-2032.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 0
   - title: "Global Self-Paced E-Learning Market Expand At A Cagr Of 17.12% To Reach Usd 839 Billion By 2032 I Say Insights X Herald"
     excerpt: "With the omnipresence of smartphones and tablets, mobile learning has emerged as a dominant force. Learners increasingly seek the flexibility and convenience of accessing content from their mobile devices. This trend has expanded the reach of self-paced e-learning, enabling users to learn anytime, anywhere."
     publishedDateTime: 2023-09-07T05:54:00Z

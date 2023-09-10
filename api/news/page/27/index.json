@@ -2,6 +2,49 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2023-08-21-implement-machine-learning-to-secure-your-iot-network.md",
+      "title": "Implement Machine Learning to Secure Your IoT Network",
+      "excerpt": "By Zac Amos, Features Editor, ReHack Connected devices pose unique security risks and are prone to bot attacks, requiring a tool capable of quickly processing a large amount of information. A machine",
+      "sourceUrl": null,
+      "webUrl": "https://www.cyberdefensemagazine.com/implement-machine-learning-to-secure-your-iot-network/",
+      "originalUrl": "https://www.cyberdefensemagazine.com/implement-machine-learning-to-secure-your-iot-network/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cyberdefensemagazine.com/wp-content/uploads/2023/08/Implement-Machine-Learning-to-Secure-Your-IoT-Network.jpg",
+          "width": 780,
+          "height": 588,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-20T10:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cyber Defense Magazine",
+        "domain": "cyberdefensemagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-20-christians-shouldnt-fear-ai-they-should-partner-with-it.md",
       "title": "Christians shouldn’t fear AI, they should partner with it",
       "excerpt": "Christians shouldn't fear AI, they should put their faith in it. Christianity has always made good use of new tech from the bible to the internet -- to share the Good News.",
@@ -1148,49 +1191,6 @@
         "Facebook AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-18-ai-in-fintech-market-size-share-analysis-growth-trends-forecasts-2023-2028.md",
-      "title": "Ai In Fintech Market Size & Share Analysis - Growth Trends & Forecasts (2023 - 2028)",
-      "excerpt": "(MENAFN- GlobeNewsWire - Nasdaq) New York, Aug. 18, 2023 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"AI in Fintech Market Size & Share Analysis - Growth Trends ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1106887035/Ai-In-Fintech-Market-Size-Share-Analysis-Growth-Trends-Forecasts-2023-2028",
-      "originalUrl": "https://menafn.com/1106887035/Ai-In-Fintech-Market-Size-Share-Analysis-Growth-Trends-Forecasts-2023-2028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?630076",
-          "width": 321,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-18T08:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

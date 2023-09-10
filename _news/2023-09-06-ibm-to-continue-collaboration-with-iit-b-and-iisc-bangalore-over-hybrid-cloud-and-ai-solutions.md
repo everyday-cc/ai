@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Amazon Now Requires Authors to Disclose AI-Generated Content"
+    excerpt: "After complaints from the Authors Guild and others, Amazon is now requiring writers to disclose the use of AI, though it's not yet publicly identifying those books in its marketplace."
+    publishedDateTime: 2023-09-09T17:29:00Z
+    webUrl: "https://www.pcmag.com/news/amazon-starts-requiring-writers-to-disclose-ai-generated-content"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/05fDpqPt4Tw50fbQCuGXvAr-1.fit_lim.size_1200x630.v1694278993.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Cloudera Signs Strategic Collaboration Agreement with AWS"
     excerpt: "Sept. 6, 2023 — Cloudera, the data company for trusted enterprise artificial intelligence (AI), announced today that it has signed a Strategic Collaboration Agreement (SCA) with Amazon Web Services, Inc. (AWS). This agreement strengthens Cloudera’s ..."
     publishedDateTime: 2023-09-06T16:03:00Z

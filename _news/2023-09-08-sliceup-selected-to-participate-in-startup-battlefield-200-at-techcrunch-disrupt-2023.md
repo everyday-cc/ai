@@ -43,6 +43,22 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 66
+  - title: "Bid to find fintech solutions to NE’s problems"
+    excerpt: "Guwahati: From empowering the farmers of Nagaland through organic pre-order vegetable delivery services to developing a tech-based platform to streaml."
+    publishedDateTime: 2023-09-10T03:17:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/guwahati/bid-to-find-fintech-solutions-to-nes-problems/articleshow/103545872.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/guwahati/bid-to-find-fintech-solutions-to-nes-problems/amp_articleshow/103545872.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/guwahati/bid-to-find-fintech-solutions-to-nes-problems/amp_articleshow/103545872.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1070
+        height: 579
+        isCached: true
   - title: "Emerging Fintech Brands & Their Leaders of 2023"
     excerpt: "The utilization of AI and ML on the platform simplifies the debt process ... Ajay Lakhotia: Founder of StockGro In the ever-evolving landscape of fintech in 2023, StockGro emerges as a beacon for novice and seasoned investors. It is recognised as India's ..."
     publishedDateTime: 2023-09-07T05:36:00Z

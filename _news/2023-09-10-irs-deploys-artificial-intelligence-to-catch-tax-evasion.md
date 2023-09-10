@@ -20,19 +20,21 @@ topics:
   - AI
 
 related:
-  - title: "Say hello to Coach AI"
-    excerpt: "Coursera chief executive officer Jeff Maggioncalda wants to give you an AI-generated personal tutor. The online learning platform has recently launched Coach, a chatbot tool that plugs into ChatGPT. It answers questions by sifting through and summarising Coursera’s entire curricula."
-    publishedDateTime: 2023-09-10T01:10:00Z
-    webUrl: "https://gulfbusiness.com/coursera-say-hello-to-coach-ai/"
+  - title: "The IRS is going after 1,600 millionaires who owe hundreds of millions in overdue taxes, and it's using AI to catch them"
+    excerpt: "\"If you pay your taxes on time it should be particularly frustrating when you see that wealthy filers are not,\" IRS Commissioner Daniel Werfel said."
+    publishedDateTime: 2023-09-08T13:52:00Z
+    webUrl: "https://www.businessinsider.com/irs-going-after-millionaires-big-business-partnerships-for-overdue-taxes-2023-9"
+    ampWebUrl: "https://www.businessinsider.com/irs-going-after-millionaires-big-business-partnerships-for-overdue-taxes-2023-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/irs-going-after-millionaires-big-business-partnerships-for-overdue-taxes-2023-9?amp"
     type: article
     provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
     images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2023/09/coach-ai2.jpg"
-        width: 930
-        height: 620
+      - url: "https://i.insider.com/64fb23183d3923001976a9c0?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "GNOiLWdN2fLACH24pwvaLrgBrBAUtv1MHCbOBUkNKFh0qjqKrZJb3W62GQjqHjEYb/ynQr2DnBMQatoaip3vlh07GUZJFVaz/rFrkrCoptu2hoR6SKj5v8RwQMI8kPgySlR7SpeS6UP7nb/Z4JnCZjlwy9SlU5x0wdwAk9cOi8wklipXB0fxVitUpy0bh6dmr6V2wvZXeJ83Q47L2hrjRYqXkQdD421j/bh+ZWLf8LtkugzL/NvXXplTYldk3Z5J7FSsSPyNUdjj0jWQ4HZWteL68zt79kKc83LAjfQw2ql1YR4mpvOnfMjWVTVPqyb81TH3/gkfHKcTsWd+1DkgpIDuOYe8BA1VWp3pU34Z/YHAoIdfbh/IEmWZ5I49DGzJjdNSjJEaN+VhUzlVZc5e7eR67ASGLqZ8ZmXGcbuq5ByeFWfKLaCTxBVNn61PJ3qzZFxsBCzOQ21f5/+GcaWlrK5OeRWZRAt50DTmuaHc1IMp8iiUDCbeDETDW6UUj9r70nJFxIE2IfyPQgQA50sTpg==;mGmJ/vrjT41wvOSmi1pMDA=="

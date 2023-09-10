@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Artificial intelligence technology behind ChatGPT was built in Iowa -- with a lot of water"
-excerpt: "Microsoft made its first $1 billion investment in San Francisco-based OpenAI in 2019, more than two years before the startup introduced ChatGPT and sparked worldwide fascination with AI advancements. As part of the deal, the software giant would supply computing power needed to train the AI models."
-publishedDateTime: 2023-09-09T19:14:00Z
-originalUrl: "https://www.seattlepi.com/business/article/artificial-intelligence-technology-behind-chatgpt-18356707.php"
-webUrl: "https://www.seattlepi.com/business/article/artificial-intelligence-technology-behind-chatgpt-18356707.php"
+title: "Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water"
+excerpt: "As they race to capitalize on a craze for generative AI, leading tech developers including Microsoft, OpenAI and Google have acknowledged that growing demand for their AI tools carries hefty"
+publishedDateTime: 2023-09-09T20:39:00Z
+originalUrl: "https://tulsaworld.com/ap/business/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water/article_3379d8ad-289b-59cd-af57-adfc57af0969.html"
+webUrl: "https://tulsaworld.com/ap/business/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water/article_3379d8ad-289b-59cd-af57-adfc57af0969.html"
 type: article
-quality: 9
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: seattlepi.com
-  domain: seattlepi.com
+  name: Tulsa World
+  domain: tulsaworld.com
 
 topics:
-  - AI in Autos
+  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/6/5e/65eddd27-5f7e-51af-a65c-5d8ff9c1f88d/64fc7131358f7.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
@@ -181,20 +187,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 46
-  - title: "Easily build an army of AI chatbots using Textbase"
-    excerpt: "The use of AI chatbots has has exploded this year with the release of ChatGPT 4, Google Bard, Claude, Stable Diffusion and more. They are now an integral"
-    publishedDateTime: 2023-09-05T09:40:00Z
-    webUrl: "https://www.geeky-gadgets.com/how-to-build-ai-chatbot/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/Easily-build-AI-chatbots-using-TextBase.jpg"
-        width: 700
-        height: 466
-        isCached: true
   - title: "9 useful AI tools in addition to Midjorney and ChatGPT"
     excerpt: "Watch this video on YouTube. Perplexity AI combines a large language model with natural language processing (NLP) search capabilities, providing a personalized browsing experience. It offers a number of AI features, including personalized language models ..."
     publishedDateTime: 2023-09-08T10:56:00Z
@@ -236,6 +228,20 @@ related:
       - url: "https://cdn.the-scientist.com/assets/articleNo/71315/aImg/50759/article-ai-feature-m.jpg"
         width: 800
         height: 560
+        isCached: true
+  - title: "Forget ChatGPT—Law Firms Are Launching Their Own Gen AI Chatbots"
+    excerpt: "What a growing number of law firms have realized is that they can safely allow their lawyers to experiment with the underlying generative AI models—so long as it is through their own proprietary chatbots."
+    publishedDateTime: 2023-09-08T21:27:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/09/07/forget-chatgpt-law-firms-are-launching-their-own-gen-ai-chatbots/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/292/2023/08/AdobeStock_612806082-767x633.jpg"
+        width: 768
+        height: 633
         isCached: true
   - title: "Apple is quietly spending millions on AI to make Siri as smart as ChatGPT"
     excerpt: "Apple is spending millions of dollars a day to train its large-language models, and it might be readying to tackle OpenAI ChatGPT."
@@ -341,6 +347,6 @@ related:
       domain: scientificamerican.com
     quality: 4
 
-secured: "tmEwhnPB51FPsv01frPErld25P/mnx7RQiAqwQAm5upcsW1vg1oa21lRbfEemuqCF34zXZK8vXQME/dQul1qEBaeFy1YMAq1cFXIeHi6oAagyR4oiPXOeGArH92BosHlaqGGcE/4dV4E2Po9ojUN2Daz0+bOir/jKVOQrNJFZUlmy69rVu1hVNL9KSyJ5zUZov7Hmvpbeej5DtxiyFxgOZrrBvc4+Bsl2cPt86Tf0O14fXF70OPpnlUW1/hKwZGxRtL4FtWK4yfWMslb+Dhrm5kuOK8M/cK0OdfVlSLuum06lQaCudnJrAih4dIoZIobM5Vyv4e1yhuzMcKObMf+yBdNX+putJ9as0gedpSjdbw=;ZF84BRh6jzU9KObAeFH0Sg=="
+secured: "YdZ/WlPSKpHfW6JsHKLAHwd5tw0aJ1NceGELy2/fXv6Brb70UnPFARNJjboU1tPcLabulywPOIEvGgVS1vSt5N2bLSuZCYd5fe3ITet8/VrEKNF9bHfJQfqMiyCzDTn6rHWWwsDAQfZz1ejDSFXCTy13zFZ3q4BUl3eozY01UhThUBVCOdv8mPycUzgqgY45APABzvhw3pbHwjk6AvwYnMWo00oNQhm9p+W2PIIuj7NPPNuiDzM5NZEXGE4Ahy3IPnJaSkTKN3urYDc7fI8P5iVDy5n2KPW4NRJf0lfWpZb4T+tX48gMZnZSj0nin89RgGFHVzshktw8G7x8iBb+vAniToNTG6qpeYOsc7dMifE=;aqOjxSBKgITPW3MizjuqcQ=="
 ---
 

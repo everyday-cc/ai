@@ -6,7 +6,7 @@ publishedDateTime: 2023-09-07T12:00:00Z
 originalUrl: "https://wtop.com/news/2023/09/artificial-intelligence-stocks-the-10-best-ai-companies-18/"
 webUrl: "https://wtop.com/news/2023/09/artificial-intelligence-stocks-the-10-best-ai-companies-18/"
 type: article
-quality: 34
+quality: 56
 heat: -1
 published: false
 
@@ -17,56 +17,29 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Microsoft AI
+
+images:
+  - url: "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png"
+    width: 512
+    height: 512
+    isCached: true
 
 related:
-  - title: "Riding the Wave of Artificial Intelligence: A Comprehensive Look at AI Stocks"
-    excerpt: "Erica Fluer Artificial Intelligence (AI) isn't merely a buzzword, or a futuristic concept confined to science fiction novels; it's an integral part of the modern world that is shaping the future in unprecedented ways."
-    publishedDateTime: 2023-09-05T09:33:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/34225651/riding-the-wave-of-artificial-intelligence-a-comprehensive-look-at-ai-stocks"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34225651"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34225651"
+  - title: "Wall Street analyst sees 3 companies as next $3 trillion stocks due to AI. Here's our take"
+    excerpt: "Amazon, Microsoft and Alphabet are advancing their generative AI capabilities, which should tremendously accelerate their future growth."
+    publishedDateTime: 2023-09-07T18:30:00Z
+    webUrl: "https://www.cnbc.com/2023/09/07/alphabet-amazon-microsoft-could-be-next-3-trillion-stocks-due-to-ai-says-analyst.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 73
+      name: CNBC
+      domain: cnbc.com
+    quality: 57
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://image.cnbcfm.com/api/v1/image/107200349-16775183662023-02-27t170818z_1823284669_rc2rjz9gd7u8_rtrmadp_0_tech-conference-mwc.jpeg?v=1694118649&w=1920&h=1080"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Meta lost the battle of the AI lamas"
-    excerpt: "Alarming lama loss Meta Platforms' might have completely mucked up the development of its large-language model, Llama and Llama 2 AI projects and lost some important staff as a result. Llama and Llama 2 might be praised by the senior managers for offering free,"
-    publishedDateTime: 2023-09-06T09:47:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/57546-meta-lost-the-battle-of-the-ai-lamas"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/27ea78f3fd31ab764b5ac8ec707175fc_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
-  - title: "The rise of AI in health care"
-    excerpt: "Artificial intelligence is rapidly gaining steam across the health care industry, bringing with it new risk-reward scenarios."
-    publishedDateTime: 2023-09-08T11:59:00Z
-    webUrl: "https://www.bizjournals.com/triangle/news/2023/09/08/uses-for-artificial-intelligence-in-health-care.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
-  - title: "The Unfathomable Cognitive Landscape of AI"
-    excerpt: "The real conundrum is whether human minds can grasp the profound complexity these machines are starting to unfold. It's an inverse Turing Test of sorts, where the subject of examination is no longer the machine but humanity itself. The stakes are high; the consequences tear at the very fabric of humanity."
-    publishedDateTime: 2023-09-09T17:14:00Z
-    webUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202309/the-unfathomable-cognitive-landscape-of-ai"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 17
 
 secured: "RpgURORdsT9GVApXWkPrIyb3sdcPbCfuYI0BXpnYyb8KHbB6kcs6lYmKTU5pYOnv0HXDr6vvOJmGuHzLL5woc3HPe04LQWTtXeedJb6NXdq3hzWqsIQ87FbQOpGOefQxHXVbytJzdsPDRMdYsc8SF2HFFmooDM0uOQpSKhXGPl9ee4SIj+Xk5dcX1v3oIild0lyROLGw9ULUKOArJZnZoshxvho+QkkCq8lQdmJ+4tGnyXsdGGMykZLDUx4kKpnzkJbI5gVbbTb4TBTPhnG1we7GYHA0ACSyC4xDSalH9tjbnD/zijBp78YyMvvmL2T+osCP8mxQj1FrLAtIfOh1+cEscl/ZAbtHHHvrP/lm+iE=;QVMa9JXEUrp9rJXyLACWMQ=="
 ---

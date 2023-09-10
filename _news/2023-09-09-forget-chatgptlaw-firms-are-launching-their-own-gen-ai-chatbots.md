@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Tencent unveils ChatGPT rival in China amid continuing US AI chip ban"
-excerpt: "Chinese technology corporation Tencent unveiled its “Hunyuan” artificial intelligence (AI) system, a multimodal large language model (LLM) similar to OpenAI’s ChatGPT, at the Global Digital Ecosystem Summit in Shenzhen on Aug. 7."
-publishedDateTime: 2023-09-07T18:12:00Z
-originalUrl: "https://cointelegraph.com/news/tencent-unveils-chat-gpt-rival-china-us-ai-chip-ban"
-webUrl: "https://cointelegraph.com/news/tencent-unveils-chat-gpt-rival-china-us-ai-chip-ban"
+title: "Forget ChatGPT—Law Firms Are Launching Their Own Gen AI Chatbots"
+excerpt: "What a growing number of law firms have realized is that they can safely allow their lawyers to experiment with the underlying generative AI models—so long as it is through their own proprietary chatbots."
+publishedDateTime: 2023-09-08T21:27:00Z
+originalUrl: "https://www.law.com/legaltechnews/2023/09/07/forget-chatgpt-law-firms-are-launching-their-own-gen-ai-chatbots/"
+webUrl: "https://www.law.com/legaltechnews/2023/09/07/forget-chatgpt-law-firms-are-launching-their-own-gen-ai-chatbots/"
 type: article
-quality: 34
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: CoinTelegraph
-  domain: cointelegraph.com
+  name: Law
+  domain: law.com
 
 topics:
-  - AI Hardware
+  - Microsoft AI
   - AI
+
+images:
+  - url: "https://images.law.com/contrib/content/uploads/sites/292/2023/08/AdobeStock_612806082-767x633.jpg"
+    width: 768
+    height: 633
+    isCached: true
 
 related:
   - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
@@ -223,20 +229,6 @@ related:
         width: 800
         height: 560
         isCached: true
-  - title: "Forget ChatGPT—Law Firms Are Launching Their Own Gen AI Chatbots"
-    excerpt: "What a growing number of law firms have realized is that they can safely allow their lawyers to experiment with the underlying generative AI models—so long as it is through their own proprietary chatbots."
-    publishedDateTime: 2023-09-08T21:27:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/09/07/forget-chatgpt-law-firms-are-launching-their-own-gen-ai-chatbots/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/292/2023/08/AdobeStock_612806082-767x633.jpg"
-        width: 768
-        height: 633
-        isCached: true
   - title: "Apple is quietly spending millions on AI to make Siri as smart as ChatGPT"
     excerpt: "Apple is spending millions of dollars a day to train its large-language models, and it might be readying to tackle OpenAI ChatGPT."
     publishedDateTime: 2023-09-06T19:07:00Z
@@ -265,6 +257,15 @@ related:
         width: 1024
         height: 701
         isCached: true
+  - title: "Tencent unveils ChatGPT rival in China amid continuing US AI chip ban"
+    excerpt: "Chinese technology corporation Tencent unveiled its “Hunyuan” artificial intelligence (AI) system, a multimodal large language model (LLM) similar to OpenAI’s ChatGPT, at the Global Digital Ecosystem Summit in Shenzhen on Aug. 7."
+    publishedDateTime: 2023-09-07T18:12:00Z
+    webUrl: "https://cointelegraph.com/news/tencent-unveils-chat-gpt-rival-china-us-ai-chip-ban"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 34
   - title: "For Law Firms, Launching Generative AI Chatbots Requires More Than Just Novel Technology"
     excerpt: "Several law firms have consulted with their insurance providers and updated their trainings and policies to support launching generative AI powered chatbots internally. But it is still early days, and more changes may be needed ahead."
     publishedDateTime: 2023-09-06T21:20:00Z
@@ -346,6 +347,6 @@ related:
       domain: scientificamerican.com
     quality: 4
 
-secured: "bZGiw9RovAGnzTrQd+3ffu6EaU4gZYQWRCeCX8xhOdFZSHQvJqiUvVLbkf6OPCKQ/tS58QZOyzM/BLiyeJpt+rxs90NvwEvCB8QgrKKwrs4M6bqAoFW6zjMNdIgJYbK9vPTSBaqQ64e8E9CUdr3HTEaq1gts2eqR+Hh+JM5EsfmvKCrTjr13kqzWF7YA5Wb4Cex28MsTbqz6IEuSYoJI+ZR9uXMoAbYTRhzARjrBa2zpVjh4xTEgF6R7EQs/+K8U+J0SoBy5wXQy6slk2viHep+A9VS11WMpppPSD0Vclc/jWDHz4YpHqcXn801MSlBn0jQv9uegfhk8Pu9Jhr7BdKNkED9fzPpNmRRJttvZXzJW44pvthgGeUBAHUQnNE382rxB4CTnO+elV8wfARZC1Jqsg3bTq/c+MBGftZDSyUNixgol3pmhZJOdjDh+j6en6C1jU7K8DHkQ4+qP83h2BEQ3anGFyWJf5hUs9aqHL4Z1QGOW7otZuLEYISoPnu8e2jgCN6XxCzDKhlsXMD2rIw==;oG4KJ8NenonQH08Xqy2PwQ=="
+secured: "6dGfb+5jDKoCOK4njX16i/QDn1L3gqPJCax9Fz6rDLLGsibbNxCgiQR9GpQQw5lcW6zK+WlGM/hD3IVJPa2jDnPJlH6hydXoFNu8E8o26dFs8rELGwY7vB5ig+mSi2Zxs+VAaerRNI3wNiY8P/6gRcy5J0/kZ8ZuqX9JHv/M/jywisKV8ejglr93gj1y0CmrkxnltgMSCw2da6c0ljWOEuUF+chIxekluR/W/7d4f22dfEaD94miE+xlAa5WgLE0m5iD4rkMPCGR5wOzUh2ztzh+yZ1DIiTYSyk1N0klZsJyvpogGb7IdW3NLdOyBp8q89hEzOZ8zcG5zvPJrAWaon7gCrgCgliRxO9Y3Gsz/4w=;wBPs3j48oWEtNYC+optgsQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/elon-musk-google-larry-page-future-o
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-google-larry-page-future-of-ai-2023-9?amp"
 type: article
 quality: 77
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -77,15 +77,6 @@ related:
         width: 1024
         height: 1024
         isCached: true
-  - title: "DeepMind’s Path to Better Large Language Models Runs Through Machine Translation"
-    excerpt: "DeepMind introduces a new method to improve the quality of LLMs and chooses MT as a use case to show how well the new approach works."
-    publishedDateTime: 2023-09-05T10:20:00Z
-    webUrl: "https://slator.com/deepminds-path-to-better-large-language-models-runs-through-machine-translation/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 31
 
 secured: "lf/bDdhUh+TLscJW0CbqdYyOvPH3U4ZikNXrSkEDa3arDUNhVoSm0JufTihotCp/vwgxmAS7hkQZEs4SUWho4+QJ2dPQwrIxsx1H9t00SFral5dc+UKehHcJ571shoLsZPDRHdZWJnQj3yAZV2TcDv1YXmeG1whxZC8R6ZS1rffhtTe7Ihx/117MtHBxGATP2GhN8bFXvzAG5sQduQGkrBaRnDGCQdeax4o3R1TAci8AJlpCITbyNguQ5zgghxpjI7rYEcjb5WALX5PJIczB8RRGt9THJJTS6y390avXriXFnPo9sA7H682gW2qRoL9Jsl29TVwSQ4SnxJH2SH2mTyG9rP5rbBoPXE4MPOnkndZw1v2iSFC/HYVaf353Dxdfot1bZonZlMW6RzQshh5k1U1PVa2aC7iQ81dYVwXsBJmunqcgQo+bTEtagtlvfasJE2qeKzCs2XUhYCnbA6tx77R5UmQgjMEQSbnpJRL2PiyzjtxlQxo7semqYAophtOJGNGWTAphVVrpQDJ6450E6Q==;tLTuwJFZf1Y5PT249IIqzg=="
 ---

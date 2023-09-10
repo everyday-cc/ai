@@ -80,15 +80,6 @@ related:
       name: Medgadget
       domain: medgadget.com
     quality: 1
-  - title: "Catheter Market: Continuous Expansion Anticipated with a Predicted CAGR of 8.7% to Reach USD 43.63 Billion by 2032"
-    excerpt: "For instance, on April 13, 2022, researchers from the Massachusetts Institute of Technology’s Lincoln Laboratory unveiled an ultrasound tool guided by Artificial Intelligence (AI ... signals and administering therapy for the treatment of Ventricular ..."
-    publishedDateTime: 2023-09-05T10:25:00Z
-    webUrl: "https://www.medgadget.com/2023/09/catheter-market-continuous-expansion-anticipated-with-a-predicted-cagr-of-8-7-to-reach-usd-43-63-billion-by-2032.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 0
 
 secured: "lcRMyj7ZJz05dfqHXTtWG0thA+tt05x0bo16qgKBj7Eb7XZnYSVf5yvznC47X8p4dV2itlmYlzdoRolNW2mysVl53kZZ3emMZzhhL0cPBsaf6+FFGetxExvND0Ynwj7yWzZT4yy8h7sQHVvP2ArG3tjHHEKpEAX0JA1fJVtov9LhUAGUWx0P2mYow9Hs2sqyvna4Rb2sDSUPoeWqW1+pWf4wPym4o/tbgNUE+SoSYPjZ7TqG4M7ZUiEqI3bfPnAPzWmr9gWgz+0eJiNiPhmzDMjx0f2pJBIxdTsR6GwiVWY2p22tD6GHG4afHmhvsknkPNTosJIkxzjdIEiP+WLfJJ9+Qg54OqxTbSYjqQXI13g=;tCK4HR6Li2vkoOTf5YYJgg=="
 ---

@@ -22,10 +22,10 @@ topics:
   - AI
 
 related:
-  - title: "Forget AI Mania! 3 Penny Stocks With Serious Upside Potential"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips While the market remains enamored with artificial intelligence stocks, many"
-    publishedDateTime: 2023-09-05T11:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/forget-ai-mania-3-penny-stocks-with-serious-upside-potential-1032604820"
+  - title: "Stocks to Watch: 3 Smaller AI Players Ready for a Breakout"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence is an innovative technology with incredible potential."
+    publishedDateTime: 2023-09-05T17:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/stocks-to-watch-3-smaller-ai-players-ready-for-a-breakout-1032606543"
     type: article
     provider:
       name: Business Insider

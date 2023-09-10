@@ -73,15 +73,6 @@ related:
         width: 1024
         height: 1024
         isCached: true
-  - title: "DeepMind’s Path to Better Large Language Models Runs Through Machine Translation"
-    excerpt: "DeepMind introduces a new method to improve the quality of LLMs and chooses MT as a use case to show how well the new approach works."
-    publishedDateTime: 2023-09-05T10:20:00Z
-    webUrl: "https://slator.com/deepminds-path-to-better-large-language-models-runs-through-machine-translation/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 31
 
 secured: "jE7Qvc+njXSrsl2HnxYRIGqeXlSikbwedGEKSwiUQjBuhGYAgIuv4OzV8tAgWzFWnAhN/LgdwGsUwrX+EbFk0esyQIJZTieTh38laG3Rl2bsBIyq9ERRUflg3TAFLvET3jxhpfC70P0VlBG1a0Y6qdfZ/FIY+JH7YLieQBz4e4obEYvSv5tNKoweiTtUvhG04mJ4LgxuNGswzybxcPMeHslrlexjfQIrahW5YIhWLbYxIZMZJDH/YMVoM6OZh4K31WholYOywfHkOnroDOprKG47pPFLH7v4ObvbXIMT5oeTa9gPZcM0h8S8VD0ZvcjCLEaa0vNY0C6HAjZLx4I/GBfkfcvo8PQyf6V74Oe3HIbrypRmvCc6FxVy/j4Wk8s4uKfgMvSbAoFP1i0uou8AMgZnccwk5JbiPcUJrmttOh5OurIjeTAyoJQkYqJeCFSO1wp7YJUjopKQ7QmwQYUa5oufLrd/d9FMd8e8KXMMKMWco51ZNBIMhoKSuQsKJZCoTnb6WYfcmKLp2fEjXkQtIg==;wyr0Hhz2F+uSgGZz4gLgdw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/09/06/qualcomm-upgrad
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/09/06/qualcomm-upgrades-and-expands-its-handheld-gaming-chip-lineup/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -32,15 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Qualcomm focuses on AI and auto as Nvidia takes over as world’s biggest fabless chip company"
-    excerpt: "Qualcomm pioneered cellular technology, with chips in nearly every smartphone today. Now it's shifting focus to autos and AI as Apple works on its own modems."
-    publishedDateTime: 2023-09-05T11:00:00Z
-    webUrl: "https://www.cnbc.com/2023/09/05/qualcomm-focuses-on-auto-and-ai-as-apple-business-faces-uncertainty.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 53
   - title: "Qualcomm and AWS Commit to Long-term Co-Innovation to Advance the Future of Software-Defined Mobility"
     excerpt: "AWS brings its long-standing experience in artificial intelligence, machine learning, data processing and analysis, and high-performance computing. Combined, the two companies expect to experiment and integrate new insights into future automotive solutions ..."
     publishedDateTime: 2023-09-06T15:07:00Z

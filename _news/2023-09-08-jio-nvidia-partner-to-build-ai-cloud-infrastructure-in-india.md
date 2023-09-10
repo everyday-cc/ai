@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "Nvidia CEO Heads to India. It’s a Sign of the Country’s AI Chip-Making Ambitions."
-    excerpt: "Nvidia NVDA –1.71% CEO Jensen Huang is a man in demand and his movements bear watching. His latest meeting with India’s Prime Minister Narendra Modi could be a clue to the hopes of making India a new chip-..."
-    publishedDateTime: 2023-09-05T09:18:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-stock-ceo-jensen-huang-india-modi-chip-manufacturing-72345daf"
-    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-ceo-jensen-huang-india-modi-chip-manufacturing-72345daf"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-ceo-jensen-huang-india-modi-chip-manufacturing-72345daf"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 69
-    images:
-      - url: "https://images.barrons.com/im-231723/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "NVIDIA Partners with Tata Group to Develop AI Supercomputer, Cloud in India"
     excerpt: "U.S. chipmaker NVIDIA and Indian conglomerate Tata Group have announced a major partnership to accelerate the adoption of artificial intelligence (AI) in India. The announcement follows, the US chip designer’s collaboration with Mukesh Ambani’s ..."
     publishedDateTime: 2023-09-09T09:05:00Z

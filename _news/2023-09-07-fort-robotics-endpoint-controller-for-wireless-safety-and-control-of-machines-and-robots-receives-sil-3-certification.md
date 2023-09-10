@@ -1,29 +1,31 @@
 ---
 category: news
 title: "FORT Robotics Endpoint Controller for Wireless Safety and Control of Machines and Robots Receives SIL 3 Certification"
-excerpt: "FORT Robotics has announced that its Endpoint Controller—which brings safe, secure, dynamic wireless control to mobile, automated or autonomous machines—has received SIL 3 functional safety certification,"
-publishedDateTime: 2023-09-06T18:50:00Z
-originalUrl: "https://www.automation.com/en-us/articles/september-2023/fort-robotics-endpoint-controller-wireless-safety"
-webUrl: "https://www.automation.com/en-us/articles/september-2023/fort-robotics-endpoint-controller-wireless-safety"
+excerpt: "FORT Robotics, a pioneer in robotic control solutions, announces that its Endpoint Controller received SIL 3 (safety integrity level 3) functional safety certification, as defined by IEC 61508 ..."
+publishedDateTime: 2023-09-06T20:14:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/09/n34292136/fort-robotics-endpoint-controller-for-wireless-safety-and-control-of-machines-and-robots-receives-"
+webUrl: "https://www.benzinga.com/pressreleases/23/09/n34292136/fort-robotics-endpoint-controller-for-wireless-safety-and-control-of-machines-and-robots-receives-"
+ampWebUrl: "https://www.benzinga.com/amp/content/34292136"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34292136"
 type: article
-quality: 31
-heat: 31
+quality: 51
+heat: 51
 published: false
 
 provider:
-  name: Automation
-  domain: automation.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.automation.com/getmedia/3056748b-46c7-425d-b58f-23cef025fd84/FORT-news-Sept-6-2023-web_1.png?width=500&height=313&ext=.png"
-    width: 500
-    height: 313
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "zFvW2Kr2yZ6ixFOMVA27Vqow0KBS4qVT1/R55zRqpMx6sAYAdsnVIW7mzI6OZUcDaBGWMZ0zQEKJ9JsbZPUR35MZReGMRgUb7iS/J2Ec7F2lMfW33K1GLs6CVQbo0TyIfK4N2nhqcNRwL+9+IUUYEWoIIZFy8aHBhm6/8jgPIdr4oB1QWaWOFrguSfhp7rEbdz27nZypZbYG+bdC34rgXFeqmpUlbbpbYFDehhTJLiXODHl6yFpxbQfLz+p90zoWyDQrIqNLrXJCOft84l6YucS+ak0z2ykSAQTEZ3/7EqbH5lEvTaaYbZaUfUXm1S+LYUfzwaeSq/TLDQOX9Ab0f1YON17I3AKpLXL5rwuUkBKbbZOCLakqGS3qlGJjbMSc1iQjzjPRiKHlMXPfJvzxNl8XEmao6M2uJkAjGSMsnhuIioHkh9FmvulB0G4RxvXADNGEJ/9VMbAG+ZQdTEpVedrKsZwpv+VDhP48RgIxsHJD1X7R0FR8AmEHWa2EELeM9aHumHpjm4dg1srr/o0Qqg==;AfWTM9wY9EVdpjMt2hEWTA=="
+secured: "pK6gsgqj1CLVB6yzzfR6ARywA22HNVT/1zBzqe0MAMZRJmEr/mkxCxhbO5Ma/fy8TOQa2/3tdN4uGTwPNlco/+v2nVrwpTYgjP/34zZ+zshXixhhYLDt7CnvERKkl+jyTbcurHvwPg6peXLNnxNzoJYELFGM7JGTr1Z2fgtUtaE1h/DrmDPIpLoCdRg9pH3omlGAebUXa+n4Dmd66GAYP81W+ONRHErGV1LCGsqGbqs5Dmtah8fy3MhzP7UMXijkjF69cay/fUz7kWWl6m127P7VAru/883BkdCTMe2UQjEPi3IUPaV8Coyl3ITc9D5DZc77oDLGDedWKfi/l+T8bBJWJo8ugJALuhKl7JoeXF0=;LFU8JIOo1zAEY4ui8c6H2A=="
 ---
 

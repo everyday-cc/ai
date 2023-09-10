@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-clo
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-cloudera-collaborates-with-aws-to-deliver-enterprise-generative-ai-based-solutions-3235922/lite/"
 type: article
 quality: 68
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon Now Requires Authors to Disclose AI-Generated Content"
+    excerpt: "After complaints from the Authors Guild and others, Amazon is now requiring writers to disclose the use of AI, though it's not yet publicly identifying those books in its marketplace."
+    publishedDateTime: 2023-09-09T17:29:00Z
+    webUrl: "https://www.pcmag.com/news/amazon-starts-requiring-writers-to-disclose-ai-generated-content"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/05fDpqPt4Tw50fbQCuGXvAr-1.fit_lim.size_1200x630.v1694278993.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "IBM to continue collaboration with IIT-B and IISc, Bangalore over hybrid cloud and AI solutions"
     excerpt: "According to an official release, the development aims to extend the prior research in natural language processing"
     publishedDateTime: 2023-09-06T11:02:00Z

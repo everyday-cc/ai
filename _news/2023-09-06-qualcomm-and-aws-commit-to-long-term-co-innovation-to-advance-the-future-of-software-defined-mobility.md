@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 724
         isCached: true
-  - title: "Qualcomm focuses on AI and auto as Nvidia takes over as world’s biggest fabless chip company"
-    excerpt: "Qualcomm pioneered cellular technology, with chips in nearly every smartphone today. Now it's shifting focus to autos and AI as Apple works on its own modems."
-    publishedDateTime: 2023-09-05T11:00:00Z
-    webUrl: "https://www.cnbc.com/2023/09/05/qualcomm-focuses-on-auto-and-ai-as-apple-business-faces-uncertainty.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 53
 
 secured: "aOwE/fp6XZtaUw4OTIbq2cJrxL/0znd42GrYf6PItQ+Vs5sLbx8/Lny4/j2N2aKH3Rl3mDSsiNGPPLlI2+vP3CUlAivF1w08HZk/OX36ZSeUF4JN9PpBL6EVdpqUGm7dV0Ai6QOzEaZIiwmTvbZ3kmCulH9F0sF2MxImZFX9ovv4mIMp7E0JKRWtV4AM2LB7AfJCJmqU1JHiMejIzWBWvL6ESeZ44Iww3ccv1egYZH5a6uHWPjw5NvnF78gE6JqFZZj6j2kA5zB4KEJt8lBM6R61zerOBpjppq5bLQu3VwAW+XAbGLJwmRPYJNiX3KHEFYNfLCtgQMNqwIk9QoCMTL0pGYJjO5GNwT4OhmqxT4M=;kEE9RGv18QSe/+Lfn3rsqg=="
 ---

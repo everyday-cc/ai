@@ -9,7 +9,7 @@ ampWebUrl: "https://biztechmagazine.com/article/2023/09/how-mitigate-risk-artifi
 cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2023/09/how-mitigate-risk-artificial-intelligence-driven-threat-landscape?amp"
 type: article
 quality: 55
-heat: 55
+heat: 65
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 1440
     height: 500
     isCached: true
+
+related:
+  - title: "The Unfathomable Cognitive Landscape of AI"
+    excerpt: "The real conundrum is whether human minds can grasp the profound complexity these machines are starting to unfold. It's an inverse Turing Test of sorts, where the subject of examination is no longer the machine but humanity itself. The stakes are high; the consequences tear at the very fabric of humanity."
+    publishedDateTime: 2023-09-09T17:14:00Z
+    webUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202309/the-unfathomable-cognitive-landscape-of-ai"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 17
 
 secured: "cimE4tpWXal+wJip/F3vgrVKkbZBQLm9o0DCvADo+pW8N87ctZ+invh6+fhbTNrlseTzPPGq+C4ZyEygrC0nW3FsotmzTtDgocs0TVd8Lxlcs4yd1iymBPfWIRqGv1rXmRniAb/78UIenOFXad3T/LfxxkEAUSzThCaE5R/Pc5cYid9DZ0EqN86YpEpRU5QsF/hSEkihxJmYoMTCawKNrJUELIFt/TAKGYHakkJG6PFmBfOiI+FnRaj8BN4OE11D54/KAK48V8y5Mo88T/M+xBfbxHCH/Dd3pIqRGdg7RogrBpgsLmEsrbOUeyiQKhH/Ll6nQsOj89bCBC/OrbEBu69x+BPfPHu7+s+NtYeaC61HPVVQ9/Aan/n6MG7NLlLxOx4CaxZUzO+8b9Jqa9ODl5QXWaBM9mpzfERA8aAIRzfu8uZKL6nbkHKAYrZZJtPdsqqJwG+ojWQqurcdxkYMSeYicuAgEqvD7YH9Rk+EpXmxxfd6zLRDTAbTLB5gkmXB5D68lv1CVcGtBxiiupQN3A==;+wP1p7WlnCdJ0SbtL5XhqA=="
 ---

@@ -27,20 +27,45 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech and the New Economy: Opportunities and Challenges for Businesses"
-    excerpt: "Modern FinTech companies provide innovative New Economy solutions that simplify our lives. The adoption of FinTech solutions still needs to be on the rise by a few traditional businesses. Most face innovation challenges and need the right talent to train their staff."
-    publishedDateTime: 2023-09-05T09:12:00Z
-    webUrl: "https://techbullion.com/fintech-and-the-new-economy-opportunities-and-challenges-for-businesses/"
+  - title: "Fintechs can drive financial inclusion through AI, says Kora"
+    excerpt: "The Nigerian fintech industry can leverage Artificial Technology to drive financial inclusion, increase efficiency, and improve consumer"
+    publishedDateTime: 2023-09-10T01:50:00Z
+    webUrl: "https://punchng.com/fintechs-can-drive-financial-inclusion-through-ai-says-kora/"
+    ampWebUrl: "https://punchng.com/fintechs-can-drive-financial-inclusion-through-ai-says-kora/?amp"
+    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/fintechs-can-drive-financial-inclusion-through-ai-says-kora/?amp"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 23
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 59
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/09/1-8-1000x600.png"
-        width: 1000
-        height: 600
+      - url: "https://cdn.punchng.com/wp-content/uploads/2019/01/31111416/artificial-intelligence-e1548929675751.jpg"
+        width: 800
+        height: 372
         isCached: true
+  - title: "New fintech targets AI product to scale sustainable finance in debt markets"
+    excerpt: "Company uses machine learning technology to render climate and sustainability credentials of bonds and issuers transparent and comparable, through a single access point"
+    publishedDateTime: 2023-09-07T14:34:00Z
+    webUrl: "https://www.ipe.com/news/new-fintech-targets-ai-product-to-scale-sustainable-finance-in-debt-markets/10068720.article"
+    type: article
+    provider:
+      name: IPE
+      domain: ipe.com
+    quality: 52
+    images:
+      - url: "https://d3ese01zxankcs.cloudfront.net/Pictures/1024x536/2/2/6/143226_aiapplicationsinfinancialservices_993008.jpg"
+        width: 533
+        height: 405
+        isCached: true
+  - title: "Fincover invests 7 crore to develop Fintech App - Funding the Future of Fintech"
+    excerpt: "We have leveraged AI and machine learning technologies to incorporate image ... the financial ecosystem in India with the launch of our Fincover app\". Finfotune is a fintech company based in Chennai. We have partnered with India's leading banks, NBFCs ..."
+    publishedDateTime: 2023-09-06T12:33:00Z
+    webUrl: "https://www.livemint.com/brand-stories/fincover-invests-7-crore-to-develop-fintech-app-funding-the-future-of-fintech-11686302457526.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 0
 
 secured: "DoDiLSdUByAPHy0iiY6iApzDK9No4atnE/SOJ2OGJ1GpUd6Q8iYLJIn8JwytMCOGyWwcbs53wggaF11cJTlb3NFHBJ2k4GVEZPsnS7W391rKuUiccxaLBJYZtXgMCtOohOcfvQeisYOAPVE/4Exaligo9hk+sDRAJOXsHeZcx8yP0IeZAtT4IY8aWlmaGFKGsqjd1ycG0lYls1pDCqOYgSMkYoOQU8D57tF+PH4BjZahphW3e/vx2DvdUcasWYuvMooEbQ9AyGfgl0iKJ4BRKSeFSM/0HJM91cHhuvMVykHOnHDPRadSdCXNjw8tyooaTXUdertAvIWBvBYm7eIBh0dEQQwFBHvOtemCzVOdDnHAs2Amf+vKeVDqeU4yS6tcvAedaOTwTmQO9D5OrORTm3GE+0MppGcflsH/GQ00DwdNkSNYiOjVUotuakKYf5J9oDmlWmQ43SX3/aRUA5kRfRGw0Vt5ux4QCWP4H+S1VdE1nknrYB1XNS0gQEYu7jmN2de/X/LMlrQprtOfayoXmQ==;WU1YLsDWyRRxupscWIlgww=="
 ---
