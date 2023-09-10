@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2023/09/06/intuit-assist-generative-ai-assist
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/06/intuit-assist-generative-ai-assistant/amp/"
 type: article
 quality: 77
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -30,33 +30,22 @@ images:
     isCached: true
 
 related:
-  - title: "Bristol Myers Squibb Tech and Digital Chief Develops A Game Plan For Generative AI"
-    excerpt: "Bristol Myers Squibb Chief Digital and Technology Officer Greg Meyers recognized the power generative AI early by immersing himself early and often in the tech."
-    publishedDateTime: 2023-09-06T15:03:00Z
-    webUrl: "https://www.forbes.com/sites/peterhigh/2023/09/06/bristol-myers-squibb-tech-and-digital-chief-develops-a-game-plan-for-generative-ai/"
+  - title: "Small Business Tech Roundup: Intuit Introduces An AI Assistant"
+    excerpt: "Intuit's AI assistant, Google Workspace now integrates with Slack and Teams, Zoom has a new notes feature and other tech news impacting your business."
+    publishedDateTime: 2023-09-10T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/quickerbettertech/2023/09/10/small-business-tech-roundup-intuit-introduces-an-ai-assistant/"
+    ampWebUrl: "https://www.forbes.com/sites/quickerbettertech/2023/09/10/small-business-tech-roundup-intuit-introduces-an-ai-assistant/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2023/09/10/small-business-tech-roundup-intuit-introduces-an-ai-assistant/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 43
-  - title: "Revive Launches AI Tool For Real Estate Professionals"
-    excerpt: "Irvine-based Revive said this morning that it has launched a new, AI-powered tool aimed at real estate professionals. According to the company, its new software--"
-    publishedDateTime: 2023-09-06T14:47:00Z
-    webUrl: "https://www.socaltech.com/revive_launches_ai_tool_for_real_estate_professionals/s-0083617.html"
-    type: article
-    provider:
-      name: Incubators
-      domain: socaltech.com
-    quality: 17
-  - title: "Sizzle AI for its AI-Powered Learning Assistant That Helps Students Solve Any Problem With Step-by-Step Guidance"
-    excerpt: "Sizzle is the free personalized app that uses the power of AI to help learners work through any problem, step by step. Rather than providing answers to problems outright, Sizzle guides students through each step, building problem-solving skills and a mastery of underlying concepts."
-    publishedDateTime: 2023-09-08T13:48:00Z
-    webUrl: "https://www.alleywatch.com/2023/09/sizzle-ai-ai-step-by-step-problem-solving-tutoring-app-students-jerome-presenti/"
-    type: article
-    provider:
-      name: alleywatch.com
-      domain: alleywatch.com
-    quality: 0
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64fb0f4b79156fda1073b636/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 1801
+        isCached: true
 
 secured: "MWGX1c3ddHzNSG1oilMpFfA8jG+ne4AGbcRAZNyUxafZF2sPCUdvC14JOPIOY5/1akBK5RcMYuD2yWW9As6BwkfG29agdCv2L5QpLMSU9EsVv6xA+EBvtFGIzF5zbdUTejK9HOTRDgDp5YvM51Qx9VKzM2Xpegk1B/6O2O7ceTb6wftoLyuFIZSfNqPd8R5ociHqUG/5J/LMP+Svm0ng4fsEKBADtn+oKS38pppfGuh4oQ1bEv2WjMG7k6DLoKfjqDz38UTfNo7e3YUbt/sUwxSenr7YomiUwev0m++lAoCfW3WEH9yzzlBeMcm3w6ISDIYqSaW1ymkCmBlRUsJIZlLwk/6jt38fbeI+m/nHsKQ=;KVI0fhOzwO8nJBKZcKb7Ag=="
 ---

@@ -33,6 +33,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 51
+  - title: "2 AI Stocks to Transform Your Portfolio"
+    excerpt: "while some companies have yet to monetize their AI efforts, shares of specialized chip designer Nvidia (NVDA) have more than tripled year-to-date, largely on the strength of its footing in AI applications. With that said, let's look at two other top tech ..."
+    publishedDateTime: 2023-09-10T21:57:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/indices/SOX/pressreleases/20133527/2-ai-stocks-to-transform-your-portfolio/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 39
+    images:
+      - url: "https://barchart-news-media-prod.aws.barchart.com/EXCLSV/1fe54a927c86ef3174b1850b28f337a5/c7iy1twp44bn2a3c.png"
+        width: 1031
+        height: 745
+        isCached: true
   - title: "10 Fastest Growing AI Stocks To Buy"
     excerpt: "Artificial intelligence (AI) stocks started to take the market by storm at the start of this year and this AI boom remains heating up."
     publishedDateTime: 2023-09-07T20:21:00Z

@@ -231,20 +231,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "G42, Microsoft alliance expands to include joint sovereign cloud and AI offering"
-    excerpt: "This announcement marks the first significant outcome since G42 and Microsoft announced their intention to partner earlier this year, in April"
-    publishedDateTime: 2023-09-06T04:55:00Z
-    webUrl: "https://gulfbusiness.com/g42-microsoft-joint-sovereign-cloud-ai-offering/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 49
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2023/09/Microsoft-and-G42-to-offer-joint-sovereign-cloud-and-AI-offerings-Image-Microsoft.jpg"
-        width: 930
-        height: 620
-        isCached: true
   - title: "Microsoft and Paige join forces to develop world’s biggest AI model to detect cancer"
     excerpt: "Yesterday, a partnership was announced between Paige, a pioneering cancer diagnostics company, and Microsoft. The collaboration is to build the largest"
     publishedDateTime: 2023-09-08T14:23:00Z

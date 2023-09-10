@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/peterhigh/2023/09/06/bristol-myers-sq
 webUrl: "https://www.forbes.com/sites/peterhigh/2023/09/06/bristol-myers-squibb-tech-and-digital-chief-develops-a-game-plan-for-generative-ai/"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -21,42 +21,6 @@ provider:
 topics:
   - Microsoft AI
   - AI
-
-related:
-  - title: "Intuit launches generative AI-powered digital assistant for small businesses and consumers"
-    excerpt: "AI-powered Tax Knowledge Engine to determine consumers’ specific tax situation and navigate the tax code. It will create a personalized tax checklist based on data a customer shares at the start of the tax preparation process to provide answers to their ..."
-    publishedDateTime: 2023-09-06T23:23:00Z
-    webUrl: "https://techcrunch.com/2023/09/06/intuit-assist-generative-ai-assistant/"
-    ampWebUrl: "https://techcrunch.com/2023/09/06/intuit-assist-generative-ai-assistant/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/06/intuit-assist-generative-ai-assistant/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 77
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/09/intuit-assist.jpg?w=1200"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "Revive Launches AI Tool For Real Estate Professionals"
-    excerpt: "Irvine-based Revive said this morning that it has launched a new, AI-powered tool aimed at real estate professionals. According to the company, its new software--"
-    publishedDateTime: 2023-09-06T14:47:00Z
-    webUrl: "https://www.socaltech.com/revive_launches_ai_tool_for_real_estate_professionals/s-0083617.html"
-    type: article
-    provider:
-      name: Incubators
-      domain: socaltech.com
-    quality: 17
-  - title: "Sizzle AI for its AI-Powered Learning Assistant That Helps Students Solve Any Problem With Step-by-Step Guidance"
-    excerpt: "Sizzle is the free personalized app that uses the power of AI to help learners work through any problem, step by step. Rather than providing answers to problems outright, Sizzle guides students through each step, building problem-solving skills and a mastery of underlying concepts."
-    publishedDateTime: 2023-09-08T13:48:00Z
-    webUrl: "https://www.alleywatch.com/2023/09/sizzle-ai-ai-step-by-step-problem-solving-tutoring-app-students-jerome-presenti/"
-    type: article
-    provider:
-      name: alleywatch.com
-      domain: alleywatch.com
-    quality: 0
 
 secured: "nYxU25AuRQzmIBP5tYUSwxSOGOXo9tTUkUCf7g9VKrm1w3tsfvBmjve9/cOqufv31RjMABo7PQyG5+A0AObO35tp+HJMDA2ZqrI6WOZWCIN+zhF4hcBsgYTK9eJ6TldH8o5kcPxrkcpgVyDj+eGQRcr8xZQqbOFXlZja/u9czRWxxW/Laph2eJmmZFs8yraNE3vq5ETJvqZUDKrqoFstEMAZew00esTlCqNWSJ9TH+7XBSTUW9d0GzgatF3xKVgeXyCZMqdXNTXyEtihApKy1csmD6kMGGoNvWYEbSc+DQ+7TTCDEp5oBsX27+WCvZ1MpKNeXI0kr8mSWZiBiDwQrM189CAgAfAY0LFX0U78t1KcRaBkPA4n+1bGg2S7LoYB5o36mNLFgz2uib2x0TWqUiISTWQrIvt/f8BwEPPHNt2GRIjanYD3M3qL9UwMq9fiPDwuqQCksnuuJFgmGYGYyYXCH7ALCd23trhXdIOPwwE1pwIiHzUIPyF2olYgIILV1F6yy6ZMT9bRmDcslm8Utw==;6QMPiLUwidz6f+/jIOEA5A=="
 ---

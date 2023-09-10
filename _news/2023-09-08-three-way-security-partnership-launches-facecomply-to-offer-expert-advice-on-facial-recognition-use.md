@@ -27,18 +27,18 @@ images:
 
 related:
   - title: "FaceComply Facilitates Facial Recognition Compliance Through Corsight AI, Anekanta® AI, Advent IM Partnership"
-    excerpt: "Corsight AI, Anekanta® AI, and Advent IM have joined forces to empower organizations with tailored guidance and comprehensive support to implement ethical, compliant facial recognition technology. The basic service is for free to encourage widespread adoption of ethical and compliant facial recognition technology."
-    publishedDateTime: 2023-09-07T00:02:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/facecomply-facilitates-facial-recognition-compliance-through-corsight-ai-anekanta-ai-advent-im-partnership/article_25bbf6f6-24d6-57ca-8890-d065932e3962.html"
+    excerpt: "Corsight AI, Anekanta® AI, and Advent IM have joined forces to empower organizations with tailored guidance and comprehensive support to implement ethical, compliant facial recognition technology. The basic service is for free to encourage widespread ..."
+    publishedDateTime: 2023-09-07T00:24:00Z
+    webUrl: "https://www.bakersfield.com/ap/news/facecomply-facilitates-facial-recognition-compliance-through-corsight-ai-anekanta-ai-advent-im-partnership/article_e0f99ff8-cf74-592b-a2f3-ba6fad4c018f.html"
     type: article
     provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
+      name: The Bakersfield Californian
+      domain: bakersfield.com
     quality: 35
     images:
-      - url: "http://static.cnhionline.com/joplinglobe/jmag/jmag-cover-july-2023.jpg"
-        width: 437
-        height: 563
+      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "JJWScIuF2e6KiAXu+uR5nxGZULnIWCjNFnLRIG3tlCrGHQvCF97MzZy6nBeX6MbfW8fR0lkamsogx7PqH+C5ieMd884agN4sWRIsW6xnRgAGU+RlxrHj/+CHo6v+r/izWus0l8f0DJVjDM3/SOjYK7ARVHL4p+aaqVlQk9C7SlPUEVMIJMI8aX1LnhwJjricSCpDbroyFyJ/gqQBnGrDw3FMXStsfgFnR84ambXeC6yFlkLvMTAXdoNn9NMENX5+311omC3SPPCGuEyMiOE7WxvcJead2qbgsiD86fXWpQlHdSUkxkvbOFRuC34o2FIBKIEpT3hGkwDhKKtw7gkXw/Gv8QbM3EqZorttQvJxLVfdGybBI7GZskGCGIq5QDwGA25Iv4/K0Gp7NyVuy6sfT5kWQZMBuumXUXzlTHa2YIHfWneDDffasR2GgiKLQOtMQ7m/q99XM7UnHcU6PCTwaFlmhWJrPSm+vk2Np+0MJZGviF11HwFG5c8t/gPUI7ewcuGsBXQeFdzP1yldnitlnQ==;FO2uAfEqiQfDlldKnQSIiQ=="

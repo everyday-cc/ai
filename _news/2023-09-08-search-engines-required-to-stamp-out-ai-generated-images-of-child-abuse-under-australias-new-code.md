@@ -60,20 +60,6 @@ related:
         width: 728
         height: 381
         isCached: true
-  - title: "Prosecutors in all 50 US states urge Congress to protect children from AI-generated sexual abuse images"
-    excerpt: "Attorneys general from all 50 US states have called on federal lawmakers to study the ways that AI can be used to exploit children."
-    publishedDateTime: 2023-09-06T02:54:00Z
-    webUrl: "https://www.scmp.com/tech/policy/article/3233554/prosecutors-all-50-us-states-urge-congress-protect-children-ai-generated-sexual-abuse-images"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 53
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/09/06/560741d1-b74f-416b-8984-121925892aae_f864c992.jpg?itok=WAT8osZC&v=1693968787"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Suspected Chinese operatives using AI generated images to spread disinformation among US voters, Microsoft says"
     excerpt: "Suspected Chinese operatives have used images made by artificial intelligence to mimic American voters online in an attempt to spread disinformation and provoke discussion on divisive political issues as the 2024 US election approaches,"
     publishedDateTime: 2023-09-07T14:08:00Z

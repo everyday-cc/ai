@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/improving-asset-heal
 webUrl: "https://aws.amazon.com/blogs/machine-learning/improving-asset-health-and-grid-resilience-using-machine-learning/"
 type: article
 quality: 91
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1120
     height: 630
     isCached: true
+
+related:
+  - title: "Deep Instinct takes a prevention-first approach to stopping ransomware and other malware using deep learning"
+    excerpt: "Many thanks to the great folks at Deep Instinct, who have sponsored my writing for the past week. If you’re interested in sponsoring my site for a week, and reaching an IT-savvy audience that"
+    publishedDateTime: 2023-09-10T20:35:00Z
+    webUrl: "https://grahamcluley.com/sponsor-deep-instinct/"
+    type: article
+    provider:
+      name: Graham Cluley
+      domain: grahamcluley.com
+    quality: 0
 
 secured: "UsM/ideHmT5H67dMG7+P1LgEM9z7SfKAq5JSl+NLbCEZXaq24Con/0aOMLWGvXfMzxBYmuY5l7lWxyYEeHqMcYCp3kEd0VcwXAhxm/6ooEov4uBDLxjoQGCiVYOWxieu4nP4JlW5nLbMhhPO0cEArIl8G9tkQKw0IQPNvLY4dCO253RjjfSxcXQgfwem4TS5I04SUf9JmDrVo1j5zBd66VZAZppJiOYm+dWyoozIRv22bR9soWo6lYL4HaevJf9AU3NQnac9UXJ+eAvDs9BEWsEMRFXz/i8gtcWZPnxWeBk0+FhlFr0UnyYcVUz/pDAwoCNFPXfEBIo8uqZvaKySwS8N09AFEooMmJ5RjrZlenQ=;2iuK0gx527m1TBGrVseXFA=="
 ---

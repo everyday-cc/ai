@@ -25,17 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Jio Platforms and NVIDIA team up to build new AI cloud infrastructure in India"
-    excerpt: "Jio Platforms Limited, a subsidiary of Reliance Industries Limited, has collaborated with NVIDIA to build a cloud-based AI computing infrastructure in India in order to accelerate the country's AI development efforts and address social challenges."
-    publishedDateTime: 2023-09-08T13:30:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2586535-jio-platforms-and-nvidia-team-up-to-build-new-ai-cloud-infrastructure-in-india"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2586535-jio-platforms-and-nvidia-team-up-to-build-new-ai-cloud-infrastructure-in-india?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2586535-jio-platforms-and-nvidia-team-up-to-build-new-ai-cloud-infrastructure-in-india?amp"
+  - title: "Nvidia claims new software library doubles LLM inference speed on H100 GPU"
+    excerpt: "Nvidia plans to release an open-source software library that it claims will double the speed of inferencing large language models (LLMs) on its H100 GPUs. TensorRT-LLM will be integrated into Nvidia's NeMo LLM framework as part of the Nvidia AI Enterprise software suite early next month. It is currently available in early access."
+    publishedDateTime: 2023-09-10T19:48:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-claims-new-software-library-doubles-llm-inference-speed-on-h100-gpu/"
     type: article
     provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 35
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 32
   - title: "TSMC Candidly Explains Why It Can't Keep Up With NVIDIA's Red Hot AI Chip Demand"
     excerpt: "Unlike many computing trends, AI has practical purposes, so it has stuck around beyond the initial fad period. People are using AI for anything and everything, even when it isn't particularly-suited for the task."
     publishedDateTime: 2023-09-08T18:52:00Z

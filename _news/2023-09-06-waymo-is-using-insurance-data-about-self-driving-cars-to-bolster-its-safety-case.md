@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2023/9/6/23860029/waymo-insurance-injury-
 webUrl: "https://www.theverge.com/2023/9/6/23860029/waymo-insurance-injury-claims-autonomous-vehicle-swiss-re"
 type: article
 quality: 64
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -153,6 +153,15 @@ related:
       name: 9to5google
       domain: 9to5google.com
     quality: 17
+  - title: "Self-driving car revolution coming, but slowly"
+    excerpt: "In Munich at last week's IAA motor show, an interactive street survey elicits an overwhelming \"yes\" when asking passers-by if they would take a self-driving taxi from the station to the Oktoberfest beer festival."
+    publishedDateTime: 2023-09-10T21:38:00Z
+    webUrl: "https://japantoday.com/category/tech/self-driving-car-revolution-is-coming-but-slowly"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 4
 
 secured: "fgxbu441Ycn8X44ZsqzYP8O5UjY7TcNnZTcu332AcvtcWFHFkQHC1EPJ31zn7kl3M4gUA86JaTG6xSadiHI95FIPVmJhMVJychdSBNhf1rRUKlHevwhyTpDrjCFX/oLdqL6uYFQn0B6bq5Be0xFsKqUV9lyxkVQ2vw7G86w/JfiYn6TRfzOeb4yESUE0qzhWxwCi2tO9k195H6tskHis96smRPhNB+WW4MEI7A2WzpP/eVKpDgN9h5guoQzshgqJsvhNUwFym+sxl9SqURa1qLrkRDwdyMTvuhtKK93ALiVDADYXOB87cAZTB4LtaEg9poMr4GG753PVn9KuBAhAK44ap6CC0GzR0NyQRwcjTSk=;SyuXmKgJ406I6kDLOrsorA=="
 ---

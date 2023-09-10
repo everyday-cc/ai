@@ -1,29 +1,22 @@
 ---
 category: news
-title: "Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water"
-excerpt: "As they race to capitalize on a craze for generative AI, leading tech developers including Microsoft, OpenAI and Google have acknowledged that growing demand for their AI tools carries hefty costs, from expensive semiconductors to an increase in water"
-publishedDateTime: 2023-09-09T21:02:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/artificial-intelligence-technology-chatgpt-built-iowa-lot-water-103052515"
-webUrl: "https://abcnews.go.com/Technology/wireStory/artificial-intelligence-technology-chatgpt-built-iowa-lot-water-103052515"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/artificial-intelligence-technology-chatgpt-built-iowa-lot-water-103052515"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/artificial-intelligence-technology-chatgpt-built-iowa-lot-water-103052515"
+title: "Artificial intelligence technology behind ChatGPT was built in Iowa -- with a lot of water"
+excerpt: "Microsoft made its first $1 billion investment in San Francisco-based OpenAI in 2019, more than two years before the startup introduced ChatGPT and sparked worldwide fascination with AI advancements. As part of the deal, the software giant would supply computing power needed to train the AI models."
+publishedDateTime: 2023-09-09T19:14:00Z
+originalUrl: "https://www.seattlepi.com/business/article/artificial-intelligence-technology-behind-chatgpt-18356707.php"
+webUrl: "https://www.seattlepi.com/business/article/artificial-intelligence-technology-behind-chatgpt-18356707.php"
 type: article
-quality: 48
+quality: 9
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: seattlepi.com
+  domain: seattlepi.com
 
 topics:
+  - AI in Autos
   - AI
-
-images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
-    isCached: true
 
 related:
   - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
@@ -200,15 +193,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
-  - title: "China's Tencent to Unveil AI Chatbot Release After Beijing Clears Hurdles"
-    excerpt: "HONG KONG (Reuters) - China's internet giant Tencent Holdings said that it will unveil an artificial intelligence (AI) chatbot on Thursday, according to a social media post it published on Wednesday. The post featured a demo conversation a user had with the AI chatbot, which helped the user write promotional materials."
-    publishedDateTime: 2023-09-06T02:27:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2023-09-05/chinas-tencent-to-unveil-ai-chatbot-release-after-beijing-clears-hurdles"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 46
   - title: "9 useful AI tools in addition to Midjorney and ChatGPT"
     excerpt: "Watch this video on YouTube. Perplexity AI combines a large language model with natural language processing (NLP) search capabilities, providing a personalized browsing experience. It offers a number of AI features, including personalized language models ..."
     publishedDateTime: 2023-09-08T10:56:00Z
@@ -383,6 +367,6 @@ related:
       domain: scientificamerican.com
     quality: 4
 
-secured: "8uUQUj+Zp3iAc4t3dWYWNrx9AJ2dRcurM5VoSBPHuB7kb/f01tjiIHX8+anyxmnPGi/Ll87cKhtvfLvrE+2+pHKlqwoajD4udxdUXs5kPt6OTO24Zgs3hptM4CI790GjtrvCLTrlJ26h/EAThSp2sErqQicafE7Ry9S0l6QcOn2V2X6ge2jbUJcraXTEIsrZq8A36llhP99Il+uEAV09yRTGJF58Raul3MKZkSptU/qOklufjrTK13yGSrc+cDc3k6MTPYC8dPRPmUa31vrI2OM64dzBmUivtd0laITrDWq1/vOSyt+BzkLMb8M/wAolvG/nAnHB5xnq8+bAG8eavTkdyaJIrqGDKRR9EwFmL64=;8lXN6nAnMVF0XQQyKir0ow=="
+secured: "N3L3sWkaqVaX81/LGfBeZ/LJ4gD+gqOPbkLCVDzKujp2SIaugDPAGUU77wUnp/IvC9emFzQiRmBfKw/WKO51PgDTwukHtGFusvRWwIxlsCphVyakEEweTweQb1h1dwvJ2OGRPgwLy93RXYFKpPVflxLMXKqW3IQkEzkGE1ubDayTZ95NBZRgh3UAnZWkcyoqHUY51OuNNeXuz7kmzMp6N6wt//zuqUYC9AJgbCsu6KcLjQ9cKA4AFiv5v3tZFdRka+MMKi8+d3lulX92i6/jCbnQsgGXmuEf7RckRGtZhUT12YOOHeb5gMNQQpomMjFp6hSIU0A5xD4FwCGj91fMXy14tAWpdfqLUZXVCTFSA+Y=;gXPvAmqayBOgASnJnE2R4Q=="
 ---
 

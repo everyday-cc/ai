@@ -42,6 +42,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Oppenheimer Reaffirms Their Hold Rating on C3ai (AI)"
+    excerpt: "Oppenheimer analyst Timothy Horan maintained a Hold rating on C3ai (AI – Research Report) on September 7. The company’s shares closed last Friday at $28.04. Horan covers the Technology sector, focusing on stocks such as Microsoft, Extreme Networks ..."
+    publishedDateTime: 2023-09-10T18:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/oppenheimer-reaffirms-their-hold-rating-on-c3ai-ai-1032618293"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "77P4EisHsC7CafMn7XQhcnFrF2BJYOWgac5qz6RjaHBNLLRNcKKhELbMrKkcJOUKSbsV2zoXS5IfvavVdbAxq2YXwJswaG/jhaHhKtvfuBX33OHpqbGhAGUQRfQChSC9EYyYw6xfRa3qPLvdNk07RrH2rWfrqKh76QIwBYaDlaDZBhEkArNbfZ3H/ya4fCToFqO0GQy1uMsh4phz2+DDaEuIuNkzAho5WZJiS7L4w1JHJf7JkicJuoQf17X4k1oeO+ACUzfuoeR+araewRlQYu0DwoMNgk8HmZSQQS2FEHdQtjFjJAswzjPQ8nA1zU2Ipqrmwub5TOVIE/digYjdclRDe0axbO28Aha7sI8D8W0=;5MIBkvbF38j9p3suZV9Izw=="
 ---

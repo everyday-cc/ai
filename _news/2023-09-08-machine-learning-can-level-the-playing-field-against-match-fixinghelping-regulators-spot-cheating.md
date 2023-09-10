@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-09-machine-playing-field-fixinghelp
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-machine-playing-field-fixinghelping.amp"
 type: article
 quality: 60
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep learning to quake forecasting’s rescue"
-    excerpt: "Deep learning is a type of machine learning based on artificial neural networks in which multiple layers of processing are used to extract progressively higher-level features from data."
-    publishedDateTime: 2023-09-06T03:25:00Z
-    webUrl: "https://www.newindianexpress.com/xplore/2023/sep/06/deep-learning-to-quake-forecastings-rescue-2612024.html"
-    ampWebUrl: "https://www.newindianexpress.com/xplore/2023/sep/06/deep-learning-to-quake-forecastings-rescue-2612024.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/xplore/2023/sep/06/deep-learning-to-quake-forecastings-rescue-2612024.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 59
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/2/12/w600X390/AI.jpg"
-        width: 600
-        height: 390
-        isCached: true
   - title: "Machine learning can level the playing field against match fixing – helping regulators spot cheating"
     excerpt: "Read more about Machine learning can level the playing field against match fixing – helping regulators spot cheating on Devdiscourse"
     publishedDateTime: 2023-09-10T05:11:00Z

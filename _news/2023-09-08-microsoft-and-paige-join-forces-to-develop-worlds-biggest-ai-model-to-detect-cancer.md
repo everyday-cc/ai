@@ -246,20 +246,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "G42, Microsoft alliance expands to include joint sovereign cloud and AI offering"
-    excerpt: "This announcement marks the first significant outcome since G42 and Microsoft announced their intention to partner earlier this year, in April"
-    publishedDateTime: 2023-09-06T04:55:00Z
-    webUrl: "https://gulfbusiness.com/g42-microsoft-joint-sovereign-cloud-ai-offering/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 49
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2023/09/Microsoft-and-G42-to-offer-joint-sovereign-cloud-and-AI-offerings-Image-Microsoft.jpg"
-        width: 930
-        height: 620
-        isCached: true
   - title: "Microsoft says China may have used AI to sway US voters"
     excerpt: "A Chinese embassy spokesman in Washington said that accusations of China using AI to create fake social media accounts were “full of prejudice and malicious speculation” and that China advocates for the safe use of AI. In a new research report, Microsoft said the social media accounts were part of a suspected Chinese information operation."
     publishedDateTime: 2023-09-07T14:35:00Z

@@ -149,6 +149,15 @@ related:
       name: 9to5google
       domain: 9to5google.com
     quality: 17
+  - title: "Self-driving car revolution coming, but slowly"
+    excerpt: "In Munich at last week's IAA motor show, an interactive street survey elicits an overwhelming \"yes\" when asking passers-by if they would take a self-driving taxi from the station to the Oktoberfest beer festival."
+    publishedDateTime: 2023-09-10T21:38:00Z
+    webUrl: "https://japantoday.com/category/tech/self-driving-car-revolution-is-coming-but-slowly"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 4
 
 secured: "Fkb6zb5RO8qOROXE8Gk9xojS8nsq8JwYBT1KuH3sgN5TEZ6IsbXjvzuSoIqU9WqHVRhiJQMdIW/8EPBO7n/3KdlkbLR3LNYOlv3p7+pDIv3dOClOqJUvjpGCzL1zJQb4E1QNyHdNxoXygrvrr9cahbzlOLJWEM0vuI0xCebk9hWoIQZItnpZef0LsO8Nf0Oeey2M/pzIdUA9p9+EHqFAnxYfh7B1fHX57x2Kkyix03OyRgE2RWbDTZPXnsB7wPfaBumD9VZfiUAN0X0KNxCVb068MwO5J9v5VHeEWon77hyyXGbB8JNULYMEo/W956uRZ5BGWGqZQPTy1wbKge9p3281oZvZ8ujc9PU6q/fNhhs=;7gh4yzdLWmadFXeHPuXGzQ=="
 ---

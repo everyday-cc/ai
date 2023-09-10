@@ -54,6 +54,15 @@ related:
         width: 770
         height: 500
         isCached: true
+  - title: "SoftBank bets on ex-Argo AI founders, Flexport’s founder cleans house and Cruise digs in"
+    excerpt: "If anything, the anti-robotaxi group in San Francisco seems more motivated than ever. Deeproute.ai, the Shenzhen-headquartered robotaxi startup backed by Alibaba, plans to open an operations center in Germany in 2024. TuSimple finally filed its Q4 and ..."
+    publishedDateTime: 2023-09-10T19:15:00Z
+    webUrl: "https://techcrunch.com/2023/09/10/softbank-bets-on-ex-argo-ai-founders-flexports-founder-cleans-house-and-cruise-digs-in/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 38
   - title: "Self-driving truck startup launches in Pittsburgh"
     excerpt: "Almost a year after Argo AI closed its doors in Pittsburgh’s Strip District, the founders of that autonomous vehicle startup have embarked on a new venture focusing on self-driving trucks. Called Stack AV,"
     publishedDateTime: 2023-09-07T16:29:00Z
@@ -69,19 +78,14 @@ related:
         height: 320
         isCached: true
   - title: "SoftBank backs autonomous trucking firm started by ex-Ford self-driving executives"
-    excerpt: "The founders of the former self-driving unit of Ford Motor Co. and Volkswagen AG are launching a new autonomous trucking startup with backing said to be more than $1 billion from Japan’s ..."
-    publishedDateTime: 2023-09-08T12:36:00Z
-    webUrl: "https://www.autonews.com/mobility-report/softbank-backs-autonomous-trucking-firm"
+    excerpt: "Stack AV is led by Bryan Salesky, Pete Rander and Brett Browning, who ran Argo AI, the self-driving operation that Ford and VW shut down last year."
+    publishedDateTime: 2023-09-07T20:26:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/ford/2023/09/07/autonomous-trucking-firm-started-by-ex-ford-self-driving-execs/70788975007/"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 18
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/STACK.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 0
 
 secured: "2bRHuqJHS4cpS+FMyXwUMOW04ZBeGkYhpBwTtEfKgWkyY1xN2YAVJKSzWWXVjteXEzQyhacr6vcUxHOrUcJu4zxMF9CHkCityX/HsIXW/mlL6yhasCfRfIlUGV9+QWcgxg6utUjWqvkDeqCYeFVOgUKPHprcsUSgwY0/vTawfSWg9WuvtmeKjnWnTgF4etiOnEgnI0Tu6j1rYlzk27YfJDtvffTHMEoMvWmgIosiEnzFxPqM8fNPZ+3ek083pJ7HLa+KJ4yUMcBSjP6Ht0sw07gGZeIBiUqNPt0JDmZReVaFmc1EKDVKFrQqrDuspqDbYWmao2ewTS4VktGlPgpr08QcctZr7SmgjHGufzIclggV071e3T3/75L/2ljiU8sYOJ2bMxRqd/LrOJmJv8+LG5oNt7Crg3apL6nYysInNMzW2wQMxpQa5fxwUc/IRWtE70XsQZYOpNnNenAzsRSoSS9qc5B0HmOmj3WSM/K9kq8BWn6zIp646C5nVNcUzZBbzHnY/BLe8f8MULfwjcUqtg==;ePwSUPJ+89+QJi1hjtSSjg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/09/ai-generated-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/ai-generated-child-sex-imagery-has-every-us-attorney-general-calling-for-action/amp/"
 type: article
 quality: 83
-heat: 143
+heat: 133
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://www.reuters.com/resizer/obog_o_zVai_ANfSJsOBGf9EywA=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JSX7UODPNVM4PKCR3XEOWCDN6U.jpg"
         width: 728
         height: 381
-        isCached: true
-  - title: "Prosecutors in all 50 US states urge Congress to protect children from AI-generated sexual abuse images"
-    excerpt: "Attorneys general from all 50 US states have called on federal lawmakers to study the ways that AI can be used to exploit children."
-    publishedDateTime: 2023-09-06T02:54:00Z
-    webUrl: "https://www.scmp.com/tech/policy/article/3233554/prosecutors-all-50-us-states-urge-congress-protect-children-ai-generated-sexual-abuse-images"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 53
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/09/06/560741d1-b74f-416b-8984-121925892aae_f864c992.jpg?itok=WAT8osZC&v=1693968787"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Search engines required to stamp out AI-generated images of child abuse under Australia’s new code"
     excerpt: "Exclusive: eSafety Commissioner says companies must work on building tools to promote greater online safety, including detecting deep fake images"

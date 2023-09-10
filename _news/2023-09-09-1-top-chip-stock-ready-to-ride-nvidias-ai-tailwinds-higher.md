@@ -34,6 +34,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
+  - title: "3 Chip Stocks That Should Be on Every Investor’s Radar"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The semiconductor sector has been on a tear in 2023, but while giants like"
+    publishedDateTime: 2023-09-10T20:32:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-chip-stocks-that-should-be-on-every-investors-radar-1032618325"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "/lfRFFYLXlYxfw2tAPrpvsAEirNt/9CF4E5IuSt1sJyVqzbSHcwKdaipv6lEA87euKIcobbDTMxiBSBliuboQphcYkmFhgZCSJl/3C4Nwp5ZZLf+qhL4bsCZ1a9O0HJTF1PSv6RzBLe4CBPZ8B6NZyH8ka0t08Ixbm9VYlCSdAS/u+0pENrC0pJ++JXYdrDzTSJU5HBd+LkBjScnw7e4tiUta8qJ2CTA1hO23WdSJE9BeFXhgryuFVOHVDylM6Gr5tKxXXW5lJDGerNea94rNAZV/mVIybG98kZxWmIE6xvOgtVRoJO3rIUiKBsstnzCVBWUvUqW2TTUurFLMKdvjP+VCZUr9VQy3aN0LJfRAHs=;+0mzwpIMGPBtdmv9DraDlw=="
 ---

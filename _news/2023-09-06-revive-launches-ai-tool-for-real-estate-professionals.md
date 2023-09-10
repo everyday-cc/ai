@@ -18,40 +18,61 @@ topics:
   - AI
 
 related:
-  - title: "Intuit launches generative AI-powered digital assistant for small businesses and consumers"
-    excerpt: "AI-powered Tax Knowledge Engine to determine consumers’ specific tax situation and navigate the tax code. It will create a personalized tax checklist based on data a customer shares at the start of the tax preparation process to provide answers to their ..."
-    publishedDateTime: 2023-09-06T23:23:00Z
-    webUrl: "https://techcrunch.com/2023/09/06/intuit-assist-generative-ai-assistant/"
-    ampWebUrl: "https://techcrunch.com/2023/09/06/intuit-assist-generative-ai-assistant/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/06/intuit-assist-generative-ai-assistant/amp/"
+  - title: "North Las Vegas launching AI-powered translation software in 30 languages"
+    excerpt: "LAS VEGAS, Nev. (FOX5) - The City of North Las Vegas will officially launch the acquisition of over 30 languages through the previously released AI-powered, real-time translation technology ..."
+    publishedDateTime: 2023-09-07T04:00:00Z
+    webUrl: "https://www.fox5vegas.com/2023/09/06/north-las-vegas-launching-ai-powered-translation-software-30-languages/"
+    ampWebUrl: "https://www.fox5vegas.com/2023/09/06/north-las-vegas-launching-ai-powered-translation-software-30-languages/?outputType=amp"
+    cdnAmpWebUrl: "https://www-fox5vegas-com.cdn.ampproject.org/c/s/www.fox5vegas.com/2023/09/06/north-las-vegas-launching-ai-powered-translation-software-30-languages/?outputType=amp"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 77
+      name: FOX5 Las Vegas
+      domain: fox5vegas.com
+    quality: 58
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/09/intuit-assist.jpg?w=1200"
-        width: 1200
-        height: 700
+      - url: "https://gray-kvvu-prod.cdn.arcpublishing.com/resizer/GFG0LSWzkeLWG-meVduRX4w-qpI=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/JB2QIFVWHNENLAQW6NWXKYLLWQ.jpg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "Bristol Myers Squibb Tech and Digital Chief Develops A Game Plan For Generative AI"
-    excerpt: "Bristol Myers Squibb Chief Digital and Technology Officer Greg Meyers recognized the power generative AI early by immersing himself early and often in the tech."
-    publishedDateTime: 2023-09-06T15:03:00Z
-    webUrl: "https://www.forbes.com/sites/peterhigh/2023/09/06/bristol-myers-squibb-tech-and-digital-chief-develops-a-game-plan-for-generative-ai/"
+  - title: "Lost in AI translation: growing reliance on language apps jeopardizes some asylum applications"
+    excerpt: "They should never be used to replace translators Ariel Koren AI-powered translation tools are particularly unreliable for languages that are considerably different from English or are less ..."
+    publishedDateTime: 2023-09-08T01:06:00Z
+    webUrl: "https://www.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps?trk=public_post_comment-text"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 43
-  - title: "Sizzle AI for its AI-Powered Learning Assistant That Helps Students Solve Any Problem With Step-by-Step Guidance"
-    excerpt: "Sizzle is the free personalized app that uses the power of AI to help learners work through any problem, step by step. Rather than providing answers to problems outright, Sizzle guides students through each step, building problem-solving skills and a mastery of underlying concepts."
-    publishedDateTime: 2023-09-08T13:48:00Z
-    webUrl: "https://www.alleywatch.com/2023/09/sizzle-ai-ai-step-by-step-problem-solving-tutoring-app-students-jerome-presenti/"
+      name: The Guardian
+      domain: theguardian.com
+    quality: 47
+    images:
+      - url: "https://i.guim.co.uk/img/media/59ee6e688c280cd8673684e1f6265293e1acbe3f/0_0_1500_900/master/1500.jpg?width=620&quality=85&auto=format&fit=max&s=bb1ac6185c487d23e428a6ef7f8e1b02"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "City of North Las Vegas expands AI-powered translation service to include 30 languages"
+    excerpt: "The City of North Las Vegas has expanded its AI-powered translation technology to be available in 30 languages this week."
+    publishedDateTime: 2023-09-07T15:12:00Z
+    webUrl: "https://www.ktnv.com/news/city-of-north-las-vegas-expands-ai-powered-translation-service-to-include-30-languages"
     type: article
     provider:
-      name: alleywatch.com
-      domain: alleywatch.com
-    quality: 0
+      name: KTNV Las Vegas
+      domain: ktnv.com
+    quality: 31
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/3b9afb4/2147483647/strip/true/crop/1280x672+0+48/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F14%2Fc8%2F6fb7f99c43cca611c0d3d1996b53%2Fnorth-las-vegas-logo.jfif"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Lost in AI translation: growing reliance on language apps jeopardizes some asylum applications"
+    excerpt: "They should never be used to replace translators Ariel Koren AI-powered translation tools are particularly unreliable for languages that are considerably different from English or are less ..."
+    publishedDateTime: 2023-09-07T16:26:00Z
+    webUrl: "https://www.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps?ref=upstract.com"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 7
 
 secured: "zxZCxkKe4jTehpbsQnBNKGvs74JzvvgR448C6RX6eW/7RMoGh6M28U6vBtwbj6hmKIAt6Rn3pxOuYg20jteu/eUz+T64QH8uBRSBqdc+ffyWgGdHjjkSq91ZxcZugpjCxQZKM0S3M3MGeX0Nin/sxPiAar1dvgAbfwSG3Fx76Q6gyoizScgMjh8mKlsmmicT/9uqfDjwyBsjDRv6lTprQWYvQyG8frim/swbvMs6mtmYGzAJSeNXNLD1jg2ti22meGGFsNJF/TdQ4IvCzpTUiztsNwkYnOdALGW6UXyJbBamZVeugZ24CCo+0HPjT3icjV66CczC9mHaNKfYB++rhVUdd2zV1CAHSJr/eEQgvd4=;coAtPLK1Yir0VhHVtQRDrg=="
 ---

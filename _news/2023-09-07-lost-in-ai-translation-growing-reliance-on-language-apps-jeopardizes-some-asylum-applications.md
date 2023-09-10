@@ -1,14 +1,12 @@
 ---
 category: news
 title: "Lost in AI translation: growing reliance on language apps jeopardizes some asylum applications"
-excerpt: "Translators say the US immigration system relies on AI-powered translations, without grasping the limits of the tools"
-publishedDateTime: 2023-09-07T09:00:00Z
-originalUrl: "https://www.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps"
-webUrl: "https://www.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps"
-ampWebUrl: "https://amp.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps"
+excerpt: "They should never be used to replace translators Ariel Koren AI-powered translation tools are particularly unreliable for languages that are considerably different from English or are less ..."
+publishedDateTime: 2023-09-07T16:26:00Z
+originalUrl: "https://www.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps?ref=upstract.com"
+webUrl: "https://www.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps?ref=upstract.com"
 type: article
-quality: 47
+quality: 7
 heat: -1
 published: false
 
@@ -21,14 +19,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - Natural Language Processing
-
-images:
-  - url: "https://i.guim.co.uk/img/media/59ee6e688c280cd8673684e1f6265293e1acbe3f/0_0_1500_900/master/1500.jpg?width=620&quality=85&auto=format&fit=max&s=bb1ac6185c487d23e428a6ef7f8e1b02"
-    width: 620
-    height: 372
-    isCached: true
+  - AI
 
 related:
   - title: "North Las Vegas launching AI-powered translation software in 30 languages"
@@ -63,34 +55,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Professor awarded grant to create AI-based language translation app"
-    excerpt: "Associate professor of computer science Chetan Jaiswal is working on technology that will translate up to 100 languages through a phone call."
-    publishedDateTime: 2023-09-06T04:37:00Z
-    webUrl: "https://quchronicle.com/82736/news/professor-creates-ai-based-language-translation-app/"
-    type: article
-    provider:
-      name: The Quinnipiac Chronicle
-      domain: quchronicle.com
-    quality: 39
-    images:
-      - url: "https://quchronicle.com/wp-content/uploads/2023/09/jaiswal-20230901-psm.jpeg"
-        width: 2001
-        height: 1385
-        isCached: true
-  - title: "With AI, future of hearing aids might include language translation"
-    excerpt: "Sawalich says, \"If somebody falls, it'll text up to three people.\" They can also translate foreign languages. These AI hearing aids recalibrate up to 80 million times an hour, allowing them to ..."
-    publishedDateTime: 2023-09-06T04:32:00Z
-    webUrl: "https://www.guampdn.com/news/national/with-ai-future-of-hearing-aids-might-include-language-translation/video_0471ba7b-8f06-505f-b6d0-fe970b47c741.html"
-    type: article
-    provider:
-      name: Pacific Daily News
-      domain: guampdn.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/guampdn.com/content/tncms/assets/v3/editorial/0/47/0471ba7b-8f06-505f-b6d0-fe970b47c741/64f77e6adc556.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "City of North Las Vegas expands AI-powered translation service to include 30 languages"
     excerpt: "The City of North Las Vegas has expanded its AI-powered translation technology to be available in 30 languages this week."
     publishedDateTime: 2023-09-07T15:12:00Z
@@ -105,7 +69,16 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Revive Launches AI Tool For Real Estate Professionals"
+    excerpt: "Irvine-based Revive said this morning that it has launched a new, AI-powered tool aimed at real estate professionals. According to the company, its new software--"
+    publishedDateTime: 2023-09-06T14:47:00Z
+    webUrl: "https://www.socaltech.com/revive_launches_ai_tool_for_real_estate_professionals/s-0083617.html"
+    type: article
+    provider:
+      name: Incubators
+      domain: socaltech.com
+    quality: 17
 
-secured: "5/w5vJhV9sYdQTc4ORQEFZhlXtCdhH76NRDAEb6xR4WZvkSwszDm2k5adXtHOAOBhKc2E8taDbOorLU3QzlcCiHGlNV51wNJ9Tx2JF0z/3ib0qmmrcqUG8XK1TFW4031JNx1iG/ITWWx+I3tgHnw72oN3kWrmcHaYiWdiLp6gu077ICHPN5RCkhMJcfdpxmQD8Ey+ulG0tF6ohlVVIyb5UttYKw/G9xIJF1DbCJ5dU/2FOVdxu9GuKNI6TVvr03q3FALRPX4+xMGU7FTi8qx7e7qLQX+ThHE9SyzojismT4RD1X9ETNwZJQFoCDmmt0Qm7gXf/maib872ax7e2W9PKrVH+XgjeZXafT8xN6eUbA=;qLwq9hyKZMn9/skJgTyozQ=="
+secured: "iouQsyRE1MmBeO4g1QLtamI/h7cOz2tqWSl0ZKaka7wgiYsxoDwPuTwgfNV1OJIB/StHOc13pZS/SKAR7127Mn8ug/qawBHaV6Yo/bXreCNg6VRw0WR6N46DwU6GD7lDqUOsE0auX/h/lr5lNKKUMW4i2OWD/vM1lRwQRFjk2gojkuydByQcxtT3Qf5OJFCaHVjFN8j/YI2G3IxSenJJlFdEnxeEAg4NYBt1vxBFf2Aw0zwb6bVODYs2Y2Z78zMyKKLzOBXKAqmJgBLCwdzR52wcFh89Q1Ul91W40Ki46G+XXMZyNj2ZFEC+CCbEe5/j6ybRVPzTI/dOw9E+WEcIPVokVEi+Usp4bg4FNGKRe0E=;qEBK9Do6mYoowAMc9fgnwQ=="
 ---
 

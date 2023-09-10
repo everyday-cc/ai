@@ -19,40 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "Intuit launches generative AI-powered digital assistant for small businesses and consumers"
-    excerpt: "AI-powered Tax Knowledge Engine to determine consumers’ specific tax situation and navigate the tax code. It will create a personalized tax checklist based on data a customer shares at the start of the tax preparation process to provide answers to their ..."
-    publishedDateTime: 2023-09-06T23:23:00Z
-    webUrl: "https://techcrunch.com/2023/09/06/intuit-assist-generative-ai-assistant/"
-    ampWebUrl: "https://techcrunch.com/2023/09/06/intuit-assist-generative-ai-assistant/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/06/intuit-assist-generative-ai-assistant/amp/"
+  - title: "Robots Manipulate Objects with Their Whole Bodies with AI Assistance"
+    excerpt: "Imagine you want to carry a large, heavy box up a flight of stairs. You might spread your fingers out and lift that box with both hands, then hold it on top of your forearms and balance it against your chest,"
+    publishedDateTime: 2023-09-06T11:13:00Z
+    webUrl: "https://indiaeducationdiary.in/robots-manipulate-objects-with-their-whole-bodies-with-ai-assistance/"
+    ampWebUrl: "https://indiaeducationdiary.in/robots-manipulate-objects-with-their-whole-bodies-with-ai-assistance/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/robots-manipulate-objects-with-their-whole-bodies-with-ai-assistance/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 77
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 74
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/09/intuit-assist.jpg?w=1200"
-        width: 1200
-        height: 700
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2023/09/MIT-Manipulation-Planning-01-press_0.jpg"
+        width: 900
+        height: 600
         isCached: true
-  - title: "Bristol Myers Squibb Tech and Digital Chief Develops A Game Plan For Generative AI"
-    excerpt: "Bristol Myers Squibb Chief Digital and Technology Officer Greg Meyers recognized the power generative AI early by immersing himself early and often in the tech."
-    publishedDateTime: 2023-09-06T15:03:00Z
-    webUrl: "https://www.forbes.com/sites/peterhigh/2023/09/06/bristol-myers-squibb-tech-and-digital-chief-develops-a-game-plan-for-generative-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 43
-  - title: "Revive Launches AI Tool For Real Estate Professionals"
-    excerpt: "Irvine-based Revive said this morning that it has launched a new, AI-powered tool aimed at real estate professionals. According to the company, its new software--"
-    publishedDateTime: 2023-09-06T14:47:00Z
-    webUrl: "https://www.socaltech.com/revive_launches_ai_tool_for_real_estate_professionals/s-0083617.html"
-    type: article
-    provider:
-      name: Incubators
-      domain: socaltech.com
-    quality: 17
 
 secured: "791D9DLPSKu60wbBa6nQThbKMmdfhTDfGUrx0DKnpH+ujCSSMkUZaEg0BtIlCkkPiM4Lb07b9a4XNmdQS9lVxXsQsVSvhg1i6SAX4sB05CBACJtkOOSBlsDAKjPFCIwH63iBtewoDgnpEtsULUWJ8UO/P6jAXQKERgFgY1WvxVNmJnSufLvp1zKjejqcdCjCiZn8LXtXu2LMsQG2n6jDfcbS1W/NQx+9BIvazElE8vOpCfKD4KC40vVmyHhfTPI8ixHueTBz+SkFhAz8TxCQ/OZ6LqA6Hec3NCzglJnixWrcUbja4HJPNisMMTbv46bUYLIVatRdCfQlauLNMvGHNaHwIZ0+siHs+boJCemKP/fd7IzAof/wtugTTrkMWPPzCjdz/4TbpTXMncRV1Talyf1E9iHDbGYd8CIzMvkzwYArNxRHzInLOfnorPbiJwl9dRwbBTPDakXDQaRYt3Ck8Zm2KkavUueYUeavzPGxkN9NZvNLJrLVv7k1WPVBCKBgzzvaqtf2BrIhDqVIE/EZ9w==;+2Bf8nIB1bD19rY2kQkztA=="
 ---

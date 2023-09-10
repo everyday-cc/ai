@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/bank-of-america-se
 webUrl: "https://markets.businessinsider.com/news/stocks/bank-of-america-securities-remains-a-sell-on-c3ai-ai-1032612242"
 type: article
 quality: 66
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -37,6 +37,15 @@ related:
     excerpt: "Wolfe Research analyst Joshua Tilton reiterated a Sell rating on C3ai (AI – Research Report) today and set a price target of $14.00. The"
     publishedDateTime: 2023-09-07T09:06:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/wolfe-research-keeps-their-sell-rating-on-c3ai-ai-1032611920"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Oppenheimer Reaffirms Their Hold Rating on C3ai (AI)"
+    excerpt: "Oppenheimer analyst Timothy Horan maintained a Hold rating on C3ai (AI – Research Report) on September 7. The company’s shares closed last Friday at $28.04. Horan covers the Technology sector, focusing on stocks such as Microsoft, Extreme Networks ..."
+    publishedDateTime: 2023-09-10T18:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/oppenheimer-reaffirms-their-hold-rating-on-c3ai-ai-1032618293"
     type: article
     provider:
       name: Business Insider

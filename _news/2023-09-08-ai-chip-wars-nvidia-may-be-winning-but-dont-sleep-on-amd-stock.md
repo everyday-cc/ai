@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ai-chip-wars-nvidi
 webUrl: "https://markets.businessinsider.com/news/stocks/ai-chip-wars-nvidia-may-be-winning-but-dont-sleep-on-amd-stock-1032615709"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -37,6 +37,15 @@ related:
         width: 883
         height: 637
         isCached: true
+  - title: "3 Chip Stocks That Should Be on Every Investor’s Radar"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The semiconductor sector has been on a tear in 2023, but while giants like"
+    publishedDateTime: 2023-09-10T20:32:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-chip-stocks-that-should-be-on-every-investors-radar-1032618325"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "w0WqRos485V22DXRni3PsUDiiLQ0e/KMP0JTA0kCZhHu1IdZzzl7KxpikIVqwLWJaKScaaZzxiWeAlKLTxdkaZtBVlzy00bEXWMkwLXxoZpcbPWsPOoRyeu3z0TyO41GNnVyxH3u6B3Y5EXw+EqnE6x3YeHTdjovkNTvoRjqcQeqQQzQRdS38kMNwwhn7kqp14zIA5AdV46BYksUNAAn+iy8LdibRc3RtYI9x8yI3ZAP6z+qTOPDo24oA6sVX6ouYhAIZwk0p3kL/omvuoo48rnNUtrRhGHJjrnzuB6LeAypevJQ42ePLfiShvDdK3KOc10dQvfEEKRB961hgsybUWDqzM2KtA0DT0r2+mihN3w=;cFNQXCol2jtzC/ZmcrRG/Q=="
 ---

@@ -43,22 +43,6 @@ related:
         width: 2880
         height: 1920
         isCached: true
-  - title: "Deep learning to quake forecasting’s rescue"
-    excerpt: "Deep learning is a type of machine learning based on artificial neural networks in which multiple layers of processing are used to extract progressively higher-level features from data."
-    publishedDateTime: 2023-09-06T03:25:00Z
-    webUrl: "https://www.newindianexpress.com/xplore/2023/sep/06/deep-learning-to-quake-forecastings-rescue-2612024.html"
-    ampWebUrl: "https://www.newindianexpress.com/xplore/2023/sep/06/deep-learning-to-quake-forecastings-rescue-2612024.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/xplore/2023/sep/06/deep-learning-to-quake-forecastings-rescue-2612024.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 59
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/2/12/w600X390/AI.jpg"
-        width: 600
-        height: 390
-        isCached: true
   - title: "Machine learning can level the playing field against match fixing – helping regulators spot cheating"
     excerpt: "A new machine learning model can pinpoint anomalies in sports results – whether from match fixing, strategic losses or poor player performance. It could be a useful tool in the fight against cheating."
     publishedDateTime: 2023-09-08T02:44:00Z
