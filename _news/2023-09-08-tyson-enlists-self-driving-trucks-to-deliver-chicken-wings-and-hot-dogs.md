@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/finance/tyson-enlists-self-driving-trucks-1423
 webUrl: "https://www.aol.com/finance/tyson-enlists-self-driving-trucks-142304058.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving delivery trucks could be sharing the roads with drivers very soon"
-    excerpt: "The day is coming when that 18-wheeler rolling down the highway won’t have a driver behind the wheel, it’ll be running autonomously and that frightens some."
-    publishedDateTime: 2023-09-05T16:24:00Z
-    webUrl: "https://www.cbs17.com/news/investigators/self-driving-delivery-trucks-could-be-sharing-the-roads-with-drivers-very-soon/"
-    ampWebUrl: "https://www.cbs17.com/news/investigators/self-driving-delivery-trucks-could-be-sharing-the-roads-with-drivers-very-soon/amp/"
-    cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/investigators/self-driving-delivery-trucks-could-be-sharing-the-roads-with-drivers-very-soon/amp/"
+  - title: "Gatik robot trucks will haul Tyson chicken, sausage and hot dogs"
+    excerpt: "Tyson Foods has signed a three-year contract to use Gatik autonomous trucks to move its protein products on the middle mile."
+    publishedDateTime: 2023-09-06T09:00:00Z
+    webUrl: "https://www.freightwaves.com/news/gatik-robot-trucks-will-haul-tyson-chicken-sausage-and-hot-dogs"
     type: article
     provider:
-      name: cbs17.com
-      domain: cbs17.com
-    quality: 40
-    images:
-      - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2023/09/thumbnail_web-6.jpg?w=1280"
-        width: 681
-        height: 397
-        isCached: true
+      name: freightwaves.com
+      domain: freightwaves.com
+    quality: 19
 
 secured: "RzUoiuHKTNiVCkmligYiOenIDzPJbsrd1GQVHElOeJ5wHEm0U6HXnZfqrjoMuspWuuHV4X+XsdABceA+z5qdppDMYVZTItrdKXep21utpa8bPL6abDkKrJd4x99z4EyqWmFE0hUmiqb8tuyTBK+bq80sRMO8m+oG1xMpZ/eOXdWiSGXiaZfCidbpuusWGES5PSUq9noN/Irf0VqF7aXu98auFR9/wTi3edSVNdWoT8JSBiFrCop40nJreKWrEWRiASRiUsCVowkG1Fc/XboP1AQdyVyMDbf54KWl9JoCOpOku2qrDNDkeIPIOoyOi8PAvVNEeZziONP+EL7izISwZx+nQWD1KrykBpM62Oe+lJDY0apVmdoLn6uWis/pqahaftQA0/imoQNR1qQ4EXJOo4N/91Q8U3BJeW4ZVsDhg/xbq+QiaBfD95RVbwA0Vma7Ex2d8jJY5vG70eoyHq+SOceJu2wsTrYoYyEYIAo7sOvEcL4hPgBWnKe8h50zrzZ3c82HjIYXRkwZjKkR/eVnLg==;gT0ApUjFdg2LxLTtpKEWMg=="
 ---

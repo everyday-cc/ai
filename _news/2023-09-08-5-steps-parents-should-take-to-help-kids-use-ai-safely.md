@@ -7,8 +7,8 @@ originalUrl: "https://time.com/6310886/parents-kids-ai-safety-essay/"
 webUrl: "https://time.com/6310886/parents-kids-ai-safety-essay/"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Time
@@ -27,24 +27,6 @@ images:
     width: 2121
     height: 1414
     isCached: true
-
-related:
-  - title: "You need to talk to your kid about AI. Here are 6 things you should say."
-    excerpt: "As children start back at school this week, it’s not just ChatGPT you need to be thinking about. In the past year, kids, teachers, and parents have had a crash course in artificial intelligence, thanks to the wildly popular AI chatbot ChatGPT."
-    publishedDateTime: 2023-09-05T16:45:00Z
-    webUrl: "https://www.technologyreview.com/2023/09/05/1079009/you-need-to-talk-to-your-kid-about-ai-here-are-6-things-you-should-say/"
-    ampWebUrl: "https://www.technologyreview.com/2023/09/05/1079009/you-need-to-talk-to-your-kid-about-ai-here-are-6-things-you-should-say/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/05/1079009/you-need-to-talk-to-your-kid-about-ai-here-are-6-things-you-should-say/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 56
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/09/talk-kids-AI2.jpeg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
 
 secured: "1MGw5aUDreaN0ya4XJ/bY2qp0Hx2rxSTNcWOINWFYluFCGjcysUgUyLcLkxjUbXyH2SNrlKt9gnuPHInLL72grPdfZ3JDv6n0WLX9wgnp3lc9rEmVSRJ1OyLAYBYVBLljublK8NAlnLVCTb9+b8y35dQNJQP8bJ2x6mpjkiXAifVx0KRIxlSCygwwvsmpYkKI3mUgGaClwQM0W4R9EI3BomeWlFg22uMTfaqioREgeKC+Q6jdIAz7vABTQ+HrCZUpOlhR3sDaiGUFO0VCPEk0PzWAki0efQjMY/cOhPZS5bokNHJ0ls18Nm3oLYmJgf28qCUh5aF0LwLiLT6isqrKFPSVBAMPn8d72IZvIZIVsbLz0FVvrMVVKPeCAoXvGb6viHrxpSMvAl0g0lEbfb2L19dL/HnjzvfrUOmiOXWRv5Pn1IM/GowHXK8pcRQ+lb5d9IJWa6WZrw+hmvAVpICCHd259N5OlvEkIMBuAkLMlhjG4OmmXWAsFO1GxS5IeXEs9Tnvt699bbODfH3fONpdQ==;3bfAncl7giN4BfUfbiDe/w=="
 ---

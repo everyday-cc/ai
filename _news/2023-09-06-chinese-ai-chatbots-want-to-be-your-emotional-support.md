@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Senators Want ChatGPT-Level AI to Require a Government License"
+    excerpt: "A new US government body would force companies to seek a license before working on powerful AI models like OpenAI's GPT-4, under a bipartisan proposal by senators Richard Blumenthal and Josh Hawley."
+    publishedDateTime: 2023-09-09T11:00:00Z
+    webUrl: "https://www.wired.com/story/senators-want-chatgpt-ai-to-require-government-license/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 69
+    images:
+      - url: "https://media.wired.com/photos/64fb53a873e79c7f595a2185/191:100/w_1280,c_limit/Senate-AI-Bill-Business-Alamy-2RE6CJN.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "Focus: Morgan Stanley to launch AI chatbot to woo wealthy"
     excerpt: "Wealthy clients going to a Morgan Stanley banker to discuss their investments may soon have a different sort of experience: having a chatbot listen to their conversation."
     publishedDateTime: 2023-09-07T09:09:00Z
@@ -161,6 +175,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water"
+    excerpt: "As they race to capitalize on a craze for generative AI, leading tech developers including Microsoft, OpenAI and Google have acknowledged that growing demand for their AI tools carries hefty costs, from expensive semiconductors to an increase in water"
+    publishedDateTime: 2023-09-09T21:02:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/artificial-intelligence-technology-chatgpt-built-iowa-lot-water-103052515"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/artificial-intelligence-technology-chatgpt-built-iowa-lot-water-103052515"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/artificial-intelligence-technology-chatgpt-built-iowa-lot-water-103052515"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 48
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "Morgan Stanley to Launch AI Chatbot to Woo Wealthy"
     excerpt: "JPMorgan Chase named Teresa Heitsenrether its chief data and analytics officer in June to lead AI adoption across the largest U.S. lender. Rival Bank of America's virtual assistant, Erica, has had more than a billion interactions with clients since it was introduced in 2018."
     publishedDateTime: 2023-09-07T10:09:00Z
@@ -263,6 +293,20 @@ related:
         width: 1024
         height: 701
         isCached: true
+  - title: "AI technology behind ChatGPT was built in Iowa — with a lot of water"
+    excerpt: "Microsoft made its first $1 billion investment in San Francisco-based OpenAI in 2019, more than two years before the startup introduced ChatGPT and sparked worldwide fascination with AI advancements. As part of the deal, the software giant would supply computing power needed to train the AI models."
+    publishedDateTime: 2023-09-10T09:11:00Z
+    webUrl: "https://www.newstribune.com/news/2023/sep/10/ai-technology-behind-chatgpt-was-built-in-iowa/"
+    type: article
+    provider:
+      name: News Tribune
+      domain: newstribune.com
+    quality: 37
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/205284161_205284161-4c363406331a4942848999df02e84f49_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Tencent unveils ChatGPT rival in China amid continuing US AI chip ban"
     excerpt: "Chinese technology corporation Tencent unveiled its “Hunyuan” artificial intelligence (AI) system, a multimodal large language model (LLM) similar to OpenAI’s ChatGPT, at the Global Digital Ecosystem Summit in Shenzhen on Aug. 7."
     publishedDateTime: 2023-09-07T18:12:00Z
@@ -285,20 +329,6 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/09/AI-Chatbot-767x633.jpg"
         width: 767
         height: 633
-        isCached: true
-  - title: "Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water"
-    excerpt: "As they race to capitalize on a craze for generative AI, leading tech developers including Microsoft, OpenAI and Google have acknowledged that growing demand for their AI tools carries hefty"
-    publishedDateTime: 2023-09-09T20:39:00Z
-    webUrl: "https://tulsaworld.com/ap/business/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water/article_3379d8ad-289b-59cd-af57-adfc57af0969.html"
-    type: article
-    provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 30
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/6/5e/65eddd27-5f7e-51af-a65c-5d8ff9c1f88d/64fc7131358f7.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water"
     excerpt: "As they race to capitalize on a craze for generative AI, leading tech developers including Microsoft, OpenAI and Google have acknowledged that growing demand for their AI tools carries hefty costs, from expensive semiconductors to an increase in water consumption."

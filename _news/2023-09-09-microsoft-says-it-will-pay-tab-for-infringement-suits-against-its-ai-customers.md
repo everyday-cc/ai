@@ -80,6 +80,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "SkyPoint AI Platform for Senior Living Now Available in the Microsoft Azure Marketplace"
+    excerpt: "PORTLAND, Ore., Sept. 6, 2023 /PRNewswire-PRWeb/ -- SkyPoint Cloud today announced the availability of its SkyPoint AI Platform for Senior Living in the Microsoft Azure Marketplace, an online ..."
+    publishedDateTime: 2023-09-06T11:46:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/n34272741/skypoint-ai-platform-for-senior-living-now-available-in-the-microsoft-azure-marketplace"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34272741"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34272741"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 81
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "China may be using AI to sway U.S. voters: Microsoft"
     excerpt: "Microsoft researchers found Chinese-controlled AI-generated social media accounts attempting to influence U.S. voters. The campaign used generative AI to create content mimicking U.S. voters. Microsoft said the accounts had attempted to appear American and shared politically charged content."
     publishedDateTime: 2023-09-07T16:17:00Z
@@ -253,15 +269,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "G42 and Microsoft unlock new opportunities for digital transformation with joint sovereign cloud and AI offering"
-    excerpt: "Microsoft's sovereign cloud offering public sector and regulated industries to use new platform capabilities for securing access to the latest cloud and AI features available on Azure public cloud and helping local privacy and regulatory requirements."
-    publishedDateTime: 2023-09-05T16:43:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/g42-and-microsoft-unlock-new-opportunities-for-digital-transformation-with-joint-sovereign-cloud-and-ai-offering-1032606400"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 43
   - title: "Microsoft says China may have used AI to sway US voters"
     excerpt: "A Chinese embassy spokesman in Washington said that accusations of China using AI to create fake social media accounts were “full of prejudice and malicious speculation” and that China advocates for the safe use of AI. In a new research report, Microsoft said the social media accounts were part of a suspected Chinese information operation."
     publishedDateTime: 2023-09-07T14:35:00Z
@@ -307,6 +314,15 @@ related:
       name: Telangana Today
       domain: telanganatoday.com
     quality: 34
+  - title: "NobleAI Launches New AI-Powered Chemical and Materials Informatics Solutions on Microsoft's Azure Marketplace"
+    excerpt: "07, 2023 (GLOBE NEWSWIRE) -- NobleAI, a pioneer in Science-Based AI solutions for Chemical and Material Informatics, today announced general availability of its offerings on Microsoft's Azure ..."
+    publishedDateTime: 2023-09-07T14:57:00Z
+    webUrl: "https://www.kake.com/story/49605338/nobleai-launches-new-ai-powered-chemical-and-materials-informatics-solutions-on-microsofts-azure-marketplace"
+    type: article
+    provider:
+      name: KAKE.com
+      domain: kake.com
+    quality: 30
   - title: "Charlotte firm partners with Microsoft to leverage generative artificial intelligence"
     excerpt: "Ally Financial Inc. is fully embracing generative AI after the launch of ChatGPT late last year unveiled the technology's revolutionary potential."
     publishedDateTime: 2023-09-07T18:25:00Z

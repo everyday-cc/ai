@@ -33,6 +33,20 @@ related:
         width: 1400
         height: 900
         isCached: true
+  - title: "The Generative AI Boom Could Fuel a New International Arms Race"
+    excerpt: "Two new studies of the potential of text- and image-generating algorithms suggest they could add scary new scale and power to online disinformation campaigns."
+    publishedDateTime: 2023-09-07T09:00:00Z
+    webUrl: "https://www.wired.com/story/fast-forward-generative-ai-could-fuel-a-new-international-arms-race/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 69
+    images:
+      - url: "https://media.wired.com/photos/64f8fe9c2af6d929ce8aee78/191:100/w_1280,c_limit/AI-Arms-Race-Fast-Forward-Culture-1368514518.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "Code Conversion and Documentation Through Artificial Intelligence"
     excerpt: "Emerson's generative AI tool Revamp helps users automate system configuration. With artificial intelligence (AI) taking a larger role in the workforce, tools like Emerson’s cloud-based Revamp software are more important than ever. Generative AI can ..."
     publishedDateTime: 2023-09-06T19:38:00Z

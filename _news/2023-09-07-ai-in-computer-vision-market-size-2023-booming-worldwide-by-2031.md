@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Artificial Intelligence (AI) Robots Market Size, Trend, Analysis 2023-2030"
+    excerpt: "Artificial Intelligence (AI) Robots Market 2023 with 117 Pages Report and enhance with extents shares into sub-counties are covered in this market. Artificial Intelligence (AI) Robots Market ..."
+    publishedDateTime: 2023-09-07T15:59:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/34317861/artificial-intelligence-ai-robots-market-size-trend-analysis-2023-2030"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34317861"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34317861"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 87
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Data and AI Ethics Market Size, Regional Status and Outlook 2023-2030"
     excerpt: "The Data and AI Ethics Market Insights of 2023 is an extensive and comprehensive report that provides a complete analysis of the market's size, shares, revenues, various segments, drivers ..."
     publishedDateTime: 2023-09-07T10:41:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/technology-66739858.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66739858.amp"
 type: article
 quality: 87
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/107276696-1690329079763-gettyimages-1459457877-ussuesgoogleforabusingmonopolyinadtechnology009.jpeg?v=1694098706"
         width: 3500
         height: 2332
+        isCached: true
+  - title: "Politics and AI: Google to require artificial intelligence disclosures on ads"
+    excerpt: "Google is the first tech company to require an AI disclosure, Politico reported. The Federal Election Commission has yet to regulate if and when AI can be used in campaigns, but in August it agreed to seek public comment on whether to make updates to its policies to include AI advertisements."
+    publishedDateTime: 2023-09-07T23:41:00Z
+    webUrl: "https://www.kiro7.com/news/trending/politics-ai-google-require-artificial-intelligence-disclosures-ads/D33TEJ2I5NE4NNAWQMRQKJAMAA/"
+    ampWebUrl: "https://www.kiro7.com/news/trending/politics-ai-google-require-artificial-intelligence-disclosures-ads/D33TEJ2I5NE4NNAWQMRQKJAMAA/?outputType=amp"
+    cdnAmpWebUrl: "https://www-kiro7-com.cdn.ampproject.org/c/s/www.kiro7.com/news/trending/politics-ai-google-require-artificial-intelligence-disclosures-ads/D33TEJ2I5NE4NNAWQMRQKJAMAA/?outputType=amp"
+    type: article
+    provider:
+      name: KIRO-TV
+      domain: kiro7.com
+    quality: 69
+    images:
+      - url: "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/7InCH-vu-cPef2OtufK0V-lZnNQ=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/74ROHO3S3JDAVCBSNLZYGZ5DME.jpg"
+        width: 1440
+        height: 810
         isCached: true
   - title: "Google to Require Political Ads to Disclose If They Are AI-Generated"
     excerpt: "The company rolls out the policy as some US political groups have sponsored AI-generated ads for the upcoming election season."

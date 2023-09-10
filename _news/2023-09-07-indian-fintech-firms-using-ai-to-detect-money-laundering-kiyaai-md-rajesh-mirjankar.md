@@ -19,15 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Banking and Fintech: A Symbiotic Relationship of Innovation"
-    excerpt: "In an interview with Muraleedhar Ramapai, Executive Director at Maveric Systems, we delve into the dynamic landscape of banking and"
-    publishedDateTime: 2023-09-06T08:44:00Z
-    webUrl: "https://www.dqindia.com/banking-and-fintech-a-symbiotic-relationship-of-innovation/"
+  - title: "Fintech Outsourcing India: CX, Data Security, and Compliance"
+    excerpt: "India, with its formidable prowess in IT and financial services, has emerged as a leading destination for fintech outsourcing. Leading the charge in bridging global businesses with India’s top fintech service providers is Cynergy BPO."
+    publishedDateTime: 2023-09-08T13:50:00Z
+    webUrl: "https://www.hindustantimes.com/brand-stories/fintech-outsourcing-india-cx-data-security-and-compliance-101694023544371.html"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 19
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 21
 
 secured: "GCQDc54CoPchp481r7ohVWUkzR2IhuhwROILk4rea4xA1HN3VXfRINJJfF9/s5wHNcCC9ARVUk44nO+I6SoXrVkD+fg4u9mMzsZhnZz0i6yNZChhjoLSNs5dMFOgjJoCWu2ZkJ0lTaLlbuapU31kBzlBiGNiPq1l0QuRH5o/Gk0tp97xnfQsUh+3cCTrZNH9fx3Z8uSnPxKVC8hTH5cm69yPXT7rW3+JNFgb5S8JEZAlXNZtzk4jNvzUBse74oZiRmCuQIHT0q4hsv02xH2yRy3189U394l8ugu5BjokRnEoFT66cpVlf8lRLS6wD1W6Mgx0YD72p7Kn7YuRznEdVxbkRE4HpNx6nWCaqAY6uZw=;ondqqgJMwZ8h0BWccTzHwQ=="
 ---

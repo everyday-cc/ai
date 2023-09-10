@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Tencent unveils large language model"
-excerpt: "Tencent Holdings, a leading homegrown technology company, debuted its much-awaited universal large language model Hunyuan on Thursday, as Chinese enterprises strive to gain a foothold in the global artificial intelligence race."
-publishedDateTime: 2023-09-08T01:23:00Z
-originalUrl: "https://global.chinadaily.com.cn/a/202309/08/WS64fa6d78a310d2dce4bb49b6.html"
-webUrl: "https://global.chinadaily.com.cn/a/202309/08/WS64fa6d78a310d2dce4bb49b6.html"
+excerpt: "A view of the booth of Tencent at an expo in Shanghai. [Photo/CHINA DAILY] Tencent Holdings, a leading homegrown technology company, debuted its much-awaited universal large language model Hunyuan on Thursday,"
+publishedDateTime: 2023-09-08T01:12:00Z
+originalUrl: "https://www.chinadaily.com.cn/a/202309/08/WS64fa6d78a310d2dce4bb49b6.html"
+webUrl: "https://www.chinadaily.com.cn/a/202309/08/WS64fa6d78a310d2dce4bb49b6.html"
 type: article
 quality: 24
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://img2.chinadaily.com.cn/images/202309/08/64fa6d78a310d2dc6d277476.jpeg"
+  - url: "http://img2.chinadaily.com.cn/images/202309/08/64fa6d78a310d2dc6d277476.jpeg"
     width: 689
     height: 459
     isCached: true
@@ -56,6 +56,6 @@ related:
         height: 510
         isCached: true
 
-secured: "1AJAvdfXDn2YvpePZ6kCReYbGn1+uD2MgfqcJtm7vcdTo+LWfwdJkAHA9hjjJHu77FqKSVsAMgpeGKrjCKLyRnTNyG+xmSMHteryAsKpA/JwsdDa6W0ojNuORPmSBP7VW54+GKTuOOw7W51/4FViieJpCtio0wpe1rU0+Nbclzd3CvojK1fIL6QdHaDQ4zllceS9OwYuvbFMPVqRmus1bsoXJSOc41oH6LWM3fN+bjdlOxMmBdI8iqXBjTPIWvFBu9G5KsV9rBZDzwiK2U34vE/w+K5jasAYtKixa/SgQ1bM50aYpqPdp7VKsHAW8tAoOGotAZo7B5JEe/omsazqmlJPLG4W1EKSjalsgkk3X+7zPkOdmD34LsOJ727YcqK1YGlXBm9ZHeiGQnaN4s3LIugDL/9LXjPDbzw+ihEu81Y+qO1ROo/sVjQzjCbATrWxOUonF1rgoF9N5K0g82thTnZov81sEOgb6xS2+nKmviAFlJL0VSjO1DTbP8iT0z4WFO/USP3oBIncO5BUl1FnFw==;8nG9LMEqnFClzlTdzoR/Eg=="
+secured: "EqxWekCZrKVl4gn/+xnIR/Ek1RXKcZFOhbRpJRU0zKmqhxwenHo6OI/UuilySb/QbU9CguXI/vbi2DarW74lPXeMkoP+/GDZey4tsxJKR0z2Q4nx1tsgbVns6PV6ok7vYn/19na9arbI4MBUy5v4CMXZ5dXzFtQn9PnVFTb0QCe5g3EQbTSryzOPdeQ5+BWRSY13pkcsJbxfROwTJ7wZXq7uAtuqKrCapfvojHKp23+zSUy2Hi3Izx36L4ePxlAAsFAe3f/XRMrz1qjgMaHTVvm+kFBDl4pbdhoH543aV3jx6ICLhJwb9oPbGkta5h3MP6Pidi+uisHPU1pHkuK/1jvaLUkyuOXilnr0/4O1u1k=;zSo7w7J8omTMHMLOeqhwiw=="
 ---
 

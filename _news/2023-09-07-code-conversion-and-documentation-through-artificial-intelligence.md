@@ -32,6 +32,20 @@ related:
         width: 1400
         height: 900
         isCached: true
+  - title: "The Generative AI Boom Could Fuel a New International Arms Race"
+    excerpt: "Two new studies of the potential of text- and image-generating algorithms suggest they could add scary new scale and power to online disinformation campaigns."
+    publishedDateTime: 2023-09-07T09:00:00Z
+    webUrl: "https://www.wired.com/story/fast-forward-generative-ai-could-fuel-a-new-international-arms-race/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 69
+    images:
+      - url: "https://media.wired.com/photos/64f8fe9c2af6d929ce8aee78/191:100/w_1280,c_limit/AI-Arms-Race-Fast-Forward-Culture-1368514518.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "Apple Spending Millions of Dollars a Day on Conversational AI"
     excerpt: "according to a new report from The Information that highlights Apple's AI and machine learning research. Though Apple's AI chief John Giannandrea is said to be skeptical of AI chatbots, he established a team that is working on conversational AI four years ago."
     publishedDateTime: 2023-09-06T18:30:00Z
