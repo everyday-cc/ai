@@ -32,7 +32,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 49
+    quality: 51
   - title: "10 Fastest Growing AI Stocks To Buy"
     excerpt: "Artificial intelligence (AI) stocks started to take the market by storm at the start of this year and this AI boom remains heating up."
     publishedDateTime: 2023-09-07T20:21:00Z

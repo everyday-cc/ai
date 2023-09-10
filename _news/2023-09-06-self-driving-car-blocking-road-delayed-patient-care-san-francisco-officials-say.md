@@ -107,6 +107,20 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "An Android Phone Powers A Self Driving Car"
+    excerpt: "As auto manufacturers have brought self-driving features to their products, we’re told about how impressive their technologies are and just how much computing power is on board to make it happen."
+    publishedDateTime: 2023-09-10T00:00:00Z
+    webUrl: "https://hackaday.com/2023/06/27/an-android-phone-powers-a-self-driving-car/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 39
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2023/06/android-self-drive-featured.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Self-Driving Cars Might Finally Be For Real This Time"
     excerpt: "A decade ago, there was a lot of hype about self driving cars. In fact, there was more interest in self-driving cars than there was in electric vehicles, in terms of the future of the auto industry. But progress in developing these robotic cars has turned ..."
     publishedDateTime: 2023-09-06T21:16:00Z

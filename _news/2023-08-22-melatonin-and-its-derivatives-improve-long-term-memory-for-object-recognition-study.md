@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Melatonin and its derivatives improve long-term memory for object recognition: Study"
-excerpt: "Tokyo [Japan], August 21 (ANI): Multiple research in animal models have shown that melatonin and its compounds improve memory. It is also known that the phosphorylation of specific memory-related ..."
-publishedDateTime: 2023-08-21T23:16:00Z
-originalUrl: "https://www.aninews.in/news/health/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study20230821231750/"
-webUrl: "https://www.aninews.in/news/health/melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study20230821231750/"
+excerpt: "Talking about the studys results, Prof. Chiba concluded, Our findings suggest that melatonin is involved in promoting the formation of long-term object recognition memory by modulating the phosphorylation levels of memory-related proteins such as ERK, CaMKIIs, and CREB in both receptor-mediated and nonreceptor-mediated signalling pathways."
+publishedDateTime: 2023-08-22T06:44:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/Health/20230822/4110943.html"
+webUrl: "https://news.webindia123.com/news/Articles/Health/20230822/4110943.html"
 type: article
 
 provider:
-  name: Asian News International
-  domain: aninews.in
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20230821174743.jpg"
-    width: 600
-    height: 450
-    isCached: true
-
-secured: "VWNfEEp8CNnJht/BaBbFJvQHdmzMQFysnjCmVOHQzNiB8f1AH3swQuRwjdEfVSawZ40R5aaN0HzQ77MmqZg4njDo3PWzGqiPDIa53GPYLaViGDwT99B77QFP6Px5FW5kgb/93qMyKmU/6Xzj7mZh0SzuMvDiMRVhBwteKX4KY+6hi+cHHssDUDzJrxk2Nl4/gWGbEgp4alw8fwhrRdZS2xjfW9CSi2rjh9iOkr4i9RjNREaNUKh7pbFm39vuRnUBd2fCKtyKVkIhRehxqQSqHFWfxiQVmx5KRSqDGNmo6rZgLK6vlsV6A//d0QcG/cC3Id88og7Rul1A579hDhclSP0KYaTAxjEXqr3PaQx6Ld0=;qCIQAMpIIWqhqcvfo4wcJA=="
+secured: "Osufpg3eEVKTowSd/uJGTjYbMu7JoV0TLD6IvdLtvhXFn1YeZ4pH/lIQ/mqhoAyftJZ7008hPCjFJo2GtdYqlu5uvRCL+JLEKkB4JbPpmsR4Xd3+jqgsUdRfCMbNNtr0PXNE13mw/wjzM1q99dsSdGk98bQZFnkwZLYXa6qjKDyDiWDCKWth7Ycdjq+xRwTDASYYs4oy2LkClRgrRq9ROpzr99pAayOFza5kBUslL259ak4PqkV00vH8UQBXMAEgTpsoOeDUGL0aEz9DrxbpPf2WKK77bo2OKfOaxM44zExMaG8dxr78Yk0YQ3b5eaWgRv1gDtlw4EvU2Z4s2L9r4UwMkpaGrZu89HZMq8IlxXQ=;WktJNVCuTsJNOHgg+/1kuQ=="
 ---
 

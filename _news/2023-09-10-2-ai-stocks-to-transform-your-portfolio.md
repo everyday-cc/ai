@@ -6,9 +6,9 @@ publishedDateTime: 2023-09-10T13:00:00Z
 originalUrl: "https://www.nasdaq.com/articles/2-ai-stocks-to-transform-your-portfolio"
 webUrl: "https://www.nasdaq.com/articles/2-ai-stocks-to-transform-your-portfolio"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 51
+heat: 71
+published: true
 
 provider:
   name: Nasdaq
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 related:
   - title: "10 Fastest Growing AI Stocks To Buy"

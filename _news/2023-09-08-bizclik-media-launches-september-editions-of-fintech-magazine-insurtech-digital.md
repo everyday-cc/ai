@@ -2,9 +2,9 @@
 category: news
 title: "BIZCLIK MEDIA LAUNCHES SEPTEMBER EDITIONS OF FINTECH MAGAZINE & INSURTECH DIGITAL"
 excerpt: "This month's edition features an extensive lead interview with, HSB Canada's Vice President Client Solutions and Innovation, Lasith Lansakara and VP, Head of Information Technology, Michael Scarbeau about the company's journey through almost 150 years of insurance transfomation."
-publishedDateTime: 2023-09-08T16:36:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/09/08/9877716.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/09/08/9877716.htm"
+publishedDateTime: 2023-09-08T15:27:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/09/08/9877716.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/09/08/9877716.htm"
 type: article
 quality: 0
 heat: -1
@@ -75,6 +75,6 @@ related:
       domain: financialexpress.com
     quality: 4
 
-secured: "IY56RAw/VcLSw05CDocvF3KcjcyGjMnytr4ZNR5fv4zBWHeBpekZdg2fj7woYwAT///+8BQrca9idb8sqjd6qX+XFGSBJBKdudrw4V6luDYJPBScVp9Gt26Xdmw5TWRKoNErBezWa37oSOA0eeHc3oxCnxq2g6d5/DgZRq3WcT9Mx2jAOc+yPwaScWk1fH9gGoOqN/ocENhUvikn2YbY9e7G/EFR1lZ/DPPeewGwM3NjMnq4Rk+jYpB1ffxNonGM6TwvcmMfcrE0yzMGT2Y/8O018QOC3OQldpoca7JYcquJ/XTxsBlkEXKnG0Z1YeFra3qx1h/DUqrwfUfuAiD9WUNfA0wG6EKY8+mV3HWmoYM=;JWT5votMXSz3iUWY0d+L/Q=="
+secured: "033dWlmbheeUn9vC9nyFLkNXAMqDrGmgJYi9GTMDqI/p2sra0goOi4UX31pOCeCdk70zxFH+N+sX3SxLFpaq8QAWpYhjjaxcCoo0DjcJbkwV40Z1ZmXtP4lH/ilui05CKxF0jIUXH4uP79xVjiQOudawvs0LIrrMWxUroAWf7G/G/YLDpsnytdgSZLs0vJkIxXgScelV0/vIEISEaP9TtwVUG8TgwLBIpRtnB8uMhiEdyUyCyHt+i+Pr42Zu8I4FGltwUjBhQsQPsD+8Vp4LCW8sChKzhzVzmMyyJA8T5cO3Ds2zXgDBqJKQDr7Zr00l00P3GiLTTE3hdC5552h/vli8lir3dtj4Ad6ivikJkIk=;CFyD0MdE/VfCybeeWoZvmg=="
 ---
 

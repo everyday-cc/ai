@@ -44,20 +44,6 @@ related:
         width: 480
         height: 254
         isCached: true
-  - title: "Zoom Announces New 'AI Companion' Features"
-    excerpt: "Formerly Zoom IQ, updates to the generative AI tool will roll out over the coming months and be available at no extra cost if you already pay for Zoom."
-    publishedDateTime: 2023-09-05T23:25:00Z
-    webUrl: "https://www.cnet.com/tech/services-and-software/zoom-announces-new-ai-companion-features/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 67
-    images:
-      - url: "https://www.cnet.com/a/img/resize/089c254824ce38bdca6979888a458669a1817baf/hub/2023/09/05/e7503035-ec6e-4548-99e5-5d68976361ab/gettyimages-1211208100.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Slack's New AI Feature Will Catch You Up on Work Conversations"
     excerpt: "With Slack AI, in-app capabilities will include channel recaps that provide key highlights and one-click thread summaries that give you the gist of a thread. Another feature will be search answers, a question-and-answer feature that returns related messages, files, channels and an AI-generated summary."
     publishedDateTime: 2023-09-09T13:09:00Z

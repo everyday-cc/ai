@@ -88,6 +88,20 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "An Android Phone Powers A Self Driving Car"
+    excerpt: "As auto manufacturers have brought self-driving features to their products, we’re told about how impressive their technologies are and just how much computing power is on board to make it happen."
+    publishedDateTime: 2023-09-10T00:00:00Z
+    webUrl: "https://hackaday.com/2023/06/27/an-android-phone-powers-a-self-driving-car/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 39
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2023/06/android-self-drive-featured.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Self-driving car blocking road ‘delayed patient care’, San Francisco officials say"
     excerpt: "The rebel group stopping self-driving cars in San Francisco – one cone at a time The company denied the city’s claims and shared video with the Guardian that shows one of the vehicles quickly ..."
     publishedDateTime: 2023-09-06T15:18:00Z
@@ -137,6 +151,6 @@ related:
       domain: 9to5google.com
     quality: 17
 
-secured: "KT4Zx6kzXDWYC2XEirVAyU/ZcL6Pkl044PHcTHkga2tp0llBuUwHRnjh+taxwjqTnmXz/89mfrOoL7wkfmJalbney/+9wrGzObmnclQ/kL1TNJ13Hiv6NkhbUYYQNENnzNjZqXui2rqEbhySB9FDIyayG3fZvnFLSg+q9120YLu8r4eGoVh/NtCvvSOe2GSE7vZPigon7mOmR3TwOptTavQdnc1z81F1tF+lw0rZJp09UkxE70tirIuTeP59ox+YKnlG44My8eSeHSKQsLt998ZfbSCJ2J82MZ1a4BVHo3jtkETo/0qYiVYrvrkQjRMz5sRVs+UXMCyNA0nIFMLvM6D+B6UkmTU4P3HtFGWfhNE=;22WYnvtcu4S2KN1n6VYqeg=="
+secured: "PUYjZE7nTpYTPi6/PnMihh7ctqHG8csKIGHAfCx86ZahCqlFkAO3KmyPB6b7LaDcckJsC3/L17OcLPQ9O+vqmC1b3IYYXaJPDkzNHo4muDYW2RhQB7pcnNcKdBFGV0BwDBlf1a/14+wurbcH4VkkfA+EuO+lkNCHafZ+gj+8e+zwsCkyp3BfXWUTsaRC3+rNHUVNJqrGQ21HaNYA7FNICppXfySw8PbWHcwVHGx/N7DWM6sJ778EUb0Kc5oFyGcF09KC9vq4ujJUzhbK4KuCJ/Oxx2oABr1sawv+FOatIN+i3Vig0u2kb75+cchKcsM6fqffzENOprLPdjoi9H/2f5uf1ZxnwmhX7SxJMSd9j+2ZnhnmFrg7/dMsu1RwpFg1v1Wq03QPez5FJ+ezJMZOvC6RaopjfD1/pNDgkuNf8hE2BEKowov+57ndWxSewtq5EuhFX/kVmnlKNobVw+NTGN+mZ3svt1vHi0phEMecLgAkWlSyKX8auCd+LyMF9HZHfrSnk3JxI5IOCJezsW4zzg==;Gdmafd8wJI5fAQRIQYhBvw=="
 ---
 

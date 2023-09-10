@@ -32,7 +32,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 49
+    quality: 51
   - title: "How to Unlock Your Business Potential with Artificial Intelligence"
     excerpt: "One game-changing tool that has taken the business world by storm is artificial intelligence (AI). From streamlining operations to enhancing customer experiences, AI holds immense potential for your business. In this article, we'll explore how you ..."
     publishedDateTime: 2023-09-08T10:27:00Z

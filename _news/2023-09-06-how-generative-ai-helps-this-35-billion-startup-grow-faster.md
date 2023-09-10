@@ -56,20 +56,6 @@ related:
         width: 1019
         height: 573
         isCached: true
-  - title: "The AI market will be worth $600 billion, Nvidia exec says"
-    excerpt: "According to Das, the total addressable market for AI will consist of $300 billion in chips and systems, $150 billion in generative AI software, and $150 billion in omniverse enterprise software. These figures represent growth over the \"long term,\" Das said, though he did not specify a target date."
-    publishedDateTime: 2023-09-05T23:56:00Z
-    webUrl: "https://www.aol.com/finance/ai-market-worth-600-billion-205624655.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/rmz_QozPwo5_5vIDus3yvw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTY-/https://media.zenfs.com/en/aol_yahoo_finance_433/a02e06f983d467398544fdfa4d288964"
-        width: 1199
-        height: 796
-        isCached: true
   - title: "AI startup Imbue closes $200M funding round backed by Nvidia"
     excerpt: "The Series B investment values Imbue at $1 billion. It included contributions from Nvidia Corp. and Astera Institute, a nonprofit that backs promising research initiatives. Cruise LLC Chief Executive Officer Kyle Vogt, Notion Labs Inc. co-founder Simon Last and a number of other backers participated as well."
     publishedDateTime: 2023-09-07T21:20:00Z

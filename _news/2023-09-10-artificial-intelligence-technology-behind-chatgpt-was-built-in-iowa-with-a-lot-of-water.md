@@ -1,27 +1,28 @@
 ---
 category: news
 title: "Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water"
-excerpt: "As they race to capitalize on a craze for generative AI, leading tech developers including Microsoft, OpenAI and Google have acknowledged that growing demand for their AI tools carries hefty"
-publishedDateTime: 2023-09-09T20:39:00Z
-originalUrl: "https://tulsaworld.com/ap/business/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water/article_3379d8ad-289b-59cd-af57-adfc57af0969.html"
-webUrl: "https://tulsaworld.com/ap/business/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water/article_3379d8ad-289b-59cd-af57-adfc57af0969.html"
+excerpt: "As they race to capitalize on a craze for generative AI, leading tech developers including Microsoft, OpenAI and Google have acknowledged that growing demand for their AI tools carries hefty costs, from expensive semiconductors to an increase in water"
+publishedDateTime: 2023-09-09T21:02:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/artificial-intelligence-technology-chatgpt-built-iowa-lot-water-103052515"
+webUrl: "https://abcnews.go.com/Technology/wireStory/artificial-intelligence-technology-chatgpt-built-iowa-lot-water-103052515"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/artificial-intelligence-technology-chatgpt-built-iowa-lot-water-103052515"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/artificial-intelligence-technology-chatgpt-built-iowa-lot-water-103052515"
 type: article
-quality: 30
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: Tulsa World
-  domain: tulsaworld.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/6/5e/65eddd27-5f7e-51af-a65c-5d8ff9c1f88d/64fc7131358f7.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+    width: 834
+    height: 308
     isCached: true
 
 related:
@@ -382,6 +383,6 @@ related:
       domain: scientificamerican.com
     quality: 4
 
-secured: "G8+Tb6PM2fs57tCi+y323sbQiRsMERDifoXvFhDz/0HjplsFI59QJyoW7W+JrGg+0U06Jr01fr2e4iHBMRT12pYI6FCS/kihZrxW/77plShOqPH8gakBGex5CiBTC1XgFGD/1lGnvSuomcXo4aORlzopf4R7alnXewn5z8b3nyGceyM3quuOQAsVejka9cMut82zO8vPNbV10J/+JGtadWo9BkaF6fzLxRv0OSuAQ2++SPcFuMi+6/1ar2J5pMnsuczYYC4NpK9hHPwPBB4VDARgSz/hm6ICAK3/59GJeav9e0akofnw/PO0QvhKLrAjph0Bf5cZQFeVxyDp7CsRAsF3tDYmipaM8NCU+Hl0N60=;7tdfGC0pJSU0rYARfQMEfw=="
+secured: "8uUQUj+Zp3iAc4t3dWYWNrx9AJ2dRcurM5VoSBPHuB7kb/f01tjiIHX8+anyxmnPGi/Ll87cKhtvfLvrE+2+pHKlqwoajD4udxdUXs5kPt6OTO24Zgs3hptM4CI790GjtrvCLTrlJ26h/EAThSp2sErqQicafE7Ry9S0l6QcOn2V2X6ge2jbUJcraXTEIsrZq8A36llhP99Il+uEAV09yRTGJF58Raul3MKZkSptU/qOklufjrTK13yGSrc+cDc3k6MTPYC8dPRPmUa31vrI2OM64dzBmUivtd0laITrDWq1/vOSyt+BzkLMb8M/wAolvG/nAnHB5xnq8+bAG8eavTkdyaJIrqGDKRR9EwFmL64=;8lXN6nAnMVF0XQQyKir0ow=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/09/08/zoom-unveils-ne
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/09/08/zoom-unveils-new-ai-companion-features/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Zoom Announces New 'AI Companion' Features"
-    excerpt: "Formerly Zoom IQ, updates to the generative AI tool will roll out over the coming months and be available at no extra cost if you already pay for Zoom."
-    publishedDateTime: 2023-09-05T23:25:00Z
-    webUrl: "https://www.cnet.com/tech/services-and-software/zoom-announces-new-ai-companion-features/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 67
-    images:
-      - url: "https://www.cnet.com/a/img/resize/089c254824ce38bdca6979888a458669a1817baf/hub/2023/09/05/e7503035-ec6e-4548-99e5-5d68976361ab/gettyimages-1211208100.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Zoom launches AI Companion to summarize meetings for late attendees"
     excerpt: "It can also answer specific questions about meeting content and automatically generate summaries, identify important information,"
     publishedDateTime: 2023-09-06T16:33:00Z
