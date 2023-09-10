@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Self-driving truck startup launches in Pittsburgh"
-excerpt: "Almost a year after Argo AI closed its doors in Pittsburgh’s Strip District, the founders of that autonomous vehicle startup have embarked on a new venture focusing on self-driving trucks. Called Stack AV,"
-publishedDateTime: 2023-09-07T16:29:00Z
-originalUrl: "https://triblive.com/business/self-driving-truck-startup-launches-in-pittsburgh/"
-webUrl: "https://triblive.com/business/self-driving-truck-startup-launches-in-pittsburgh/"
+title: "SoftBank backs autonomous trucking firm started by ex-Ford self-driving executives"
+excerpt: "The founders of the former self-driving unit of Ford Motor Co. and Volkswagen AG are launching a new autonomous trucking startup with backing said to be more than $1 billion from Japan’s ..."
+publishedDateTime: 2023-09-08T12:36:00Z
+originalUrl: "https://www.autonews.com/mobility-report/softbank-backs-autonomous-trucking-firm"
+webUrl: "https://www.autonews.com/mobility-report/softbank-backs-autonomous-trucking-firm"
 type: article
-quality: 24
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: TribLIVE.com
-  domain: triblive.com
+  name: Automotive News
+  domain: autonews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://assets-varnish.triblive.com/2023/09/6548567_web1_stack-av.jpg"
-    width: 640
-    height: 320
+  - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/STACK.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -69,21 +69,21 @@ related:
         width: 6000
         height: 4000
         isCached: true
-  - title: "SoftBank backs autonomous trucking firm started by ex-Ford self-driving executives"
-    excerpt: "The founders of the former self-driving unit of Ford Motor Co. and Volkswagen AG are launching a new autonomous trucking startup with backing said to be more than $1 billion from Japan’s ..."
-    publishedDateTime: 2023-09-08T12:36:00Z
-    webUrl: "https://www.autonews.com/mobility-report/softbank-backs-autonomous-trucking-firm"
+  - title: "Self-driving truck startup launches in Pittsburgh"
+    excerpt: "Almost a year after Argo AI closed its doors in Pittsburgh’s Strip District, the founders of that autonomous vehicle startup have embarked on a new venture focusing on self-driving trucks. Called Stack AV,"
+    publishedDateTime: 2023-09-07T16:29:00Z
+    webUrl: "https://triblive.com/business/self-driving-truck-startup-launches-in-pittsburgh/"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 18
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 24
     images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/STACK.jpg"
-        width: 1200
-        height: 630
+      - url: "https://assets-varnish.triblive.com/2023/09/6548567_web1_stack-av.jpg"
+        width: 640
+        height: 320
         isCached: true
 
-secured: "yiwlFYFqbcORJCQL0gRt7/wJ5nXx35KTSqQ6fSmJ8ipPsYr0EX4mJiBMZ63TlhLvsKBDT7SRYQHIsuwO5F6qYzqgizltoZC98Do489jJXSZDjdgv6EYiGsuqJaR+CGGwysMzESLoOnAjNNij0rl5p8xJfLqR9hkq150STp14rmtClBCJob1zbKlCvNDXhY8obfxTpIaa3t0JlDiLbo58zpDj1plxyir5hqivHTBfFEvieGR+DNAMUOzgkxT17QyjB25FYp7986LK1FKnKRHAfrmujcjur5izhqSYXZl1KITDJ0bP2nBWntiOJ815S7ILT/KtU5XFyDN2/y0WalVlpdAv4BT/JIhaTCQVDTUthZPAuyGRCY/LV19uOLzvWw90taMeS/aKayTvbCVYdfF5rkhClmkAWs/hSNm/c5WIaDacfGhh6cltXWNmoMp1oD4F23HRika1/KeQ9FhgpyAhW8GrymVrqtutb1eyUCtUHL+7/qwE7RZs+8EhM6kFp0Ip2bsL02u0a1h5eSBVCceoQA==;AQgjMuprS/XyDoHkyOq//Q=="
+secured: "4QvBQtLEqcnpaFjtS1RotrS5YyVNmWdG0trQkrbjuRq0XuO62Cs58ndw1Qv0ySFH5fd45bhftbLmrckYDgneq9ByFNCKtwxw6Hp2NiJvRFKqiFfHLZ8ih39BgJIdz7xs6Lyu5VNPxbCKDhK2TQYrop9PAs511ZTQkaqs3SAridyuyZ1im3Kia5K48XRzmeMJj6nFeLCuVY0bskEzSvlaMPWPo2X+S4kMtj4VL1JzEvnrTR63DEkePbEssTNvYQTC4cIx1NLdvLk57N1FFDfFCVVGWrbBxS0WMdSz45f40/A7Ke/RLADBTKpct1BdrrESD1M8QzbDszSIV70KPJQ6r2499apGeaw3SjtSKAoicic=;fV+7ouxdVAVmDW0htjIdzQ=="
 ---
 

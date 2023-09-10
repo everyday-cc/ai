@@ -47,15 +47,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Five Ways To Be More Intelligent About Artificial Intelligence"
-    excerpt: "So, how can we be more intelligent about AI? Here are my top five things to remember as your business scales its AI infrastructure."
-    publishedDateTime: 2023-09-05T12:44:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/05/five-ways-to-be-more-intelligent-about-artificial-intelligence/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "AI-powered market intelligence firm AMPLYFI closes funding round to ‘democratise intelligence’"
     excerpt: "AMPLYFI, has closed a significant funding round to unlock knowledge capital through a powerful combination of machine learning and generative AI."
     publishedDateTime: 2023-09-07T07:40:00Z

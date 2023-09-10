@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/09/05/robot-software-firm-mujin-raises-8
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/05/robot-software-firm-mujin-raises-85m/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Mujin.png"
         width: 933
         height: 519
-        isCached: true
-  - title: "Japanese robotics startup Mujin secures $83M in series C for Europe expansion"
-    excerpt: "Tokyo-based Mujin, the Japanese startup developing intelligent robotics solutions for ... by presenting the app combining the company’s own technology with the latest AI technology. The app is offered on a freemium basis, but if users choose a paid ..."
-    publishedDateTime: 2023-09-05T11:45:00Z
-    webUrl: "https://thebridge.jp/en/2023/09/mujin-series-c-round-funding"
-    type: article
-    provider:
-      name: BRIDGE
-      domain: thebridge.jp
-    quality: 51
-    images:
-      - url: "https://thebridge.jp/en/wp-content/uploads/2023/09/mujin-robotics.jpg"
-        width: 1240
-        height: 780
         isCached: true
 
 secured: "KrfM2mEiNNisLVfKbEDe9nnkyw7vKWJ06SwRn7mQsFe9D5eGpqz37t78ARAPGWJu2WIa8IF3TcZqDbv9rqBdXG8hgPQ2+R0LgiW1tNBFdUCJPUYciTtZQinSgE431VHaq8l6+SMTwiiRiql2jt0qHN2b8RFnQtNCT5mr7/Hf5p2MbUZFTi9NoACbwaa0yq+5NmXAsSt0odMiYEbl3f235gPfXNORrr/HYydemSAGZb9OA+L32KnMa0sdl9NvibUX0LEN9x/qRfpCs77ZvkEbnCQ6eRb9NqQVw/FjbPsd2EIJidnEJzTeNJzWq9u1fvp7DBTuuU+PMUYsCuEaGY6ZaKvbTCZLomS177RZYQB/sCJCy3G6SVdBNmcZ4G+MEvAnAgR4DqQrzR4mLyPtONe1CaqsVEOFyecMgI31X0H2TxWmO6K9Wtszgi9Mf3p6fgO9UYgsihErXcGWnBHItBpKQO4a7+EPuJFRxdL4rhEnxvvSRWjbwHTXVs6/VVAqNL215L1lXG3pct5OgrH2U3e/2g==;olrHyKJtGzB55uYyOLAJnQ=="

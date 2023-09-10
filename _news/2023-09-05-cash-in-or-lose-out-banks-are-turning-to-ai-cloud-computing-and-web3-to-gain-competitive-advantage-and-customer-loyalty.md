@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/how-ai-cloud-technology-web3-metaver
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-ai-cloud-technology-web3-metaverse-disrupting-banking-industry-2023-9?amp"
 type: article
 quality: 61
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -28,33 +28,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "The Human Touch: Unleashing Competitive Advantage In The Age Of Artificial Intelligence"
-    excerpt: "The human touch, comprising judgment, creativity, and emotional intelligence, remains a crucial element in creating a unique and lasting edge in today's highly competitive business landscape."
-    publishedDateTime: 2023-09-05T11:08:00Z
-    webUrl: "https://www.forbes.com/sites/georgebradt/2023/09/05/the-human-touch-unleashing-competitive-advantage-in-the-age-of-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/georgebradt/2023/09/05/the-human-touch-unleashing-competitive-advantage-in-the-age-of-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/georgebradt/2023/09/05/the-human-touch-unleashing-competitive-advantage-in-the-age-of-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 79
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64f70b6749b4c1767385cc99/0x0.jpg?format=jpg&crop=3414,1920,x0,y383,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The human costs of data-driven AI"
-    excerpt: "That is pretty much the universal reaction I get when I ask people about Josh Dzieza’s recent article in The Verge."
-    publishedDateTime: 2023-09-06T13:06:00Z
-    webUrl: "https://digileaders.com/the-human-costs-of-data-driven-ai/"
-    type: article
-    provider:
-      name: Digital Leaders
-      domain: digileaders.com
-    quality: 19
 
 secured: "CfEYW4fY3yY8S5uoe0Uik4uOuLVRt3/1V0jLGU0cv/iSdJff6p1J+H6hfnAMczNpilFh8HsIh6kc2wf4iUIzhgxc+qBnUHJkd6X+C+cK4dvsoeLWoLui1kI3MuvKxihJFYxZowSkWbaE470BqepylEYf7ajtb5ubOmg85QkdlJ0BrNNm6bXS06naCWGAIkBjJDi1VaZLcIYYH8LHfqmUAjKSV33CcYzm5YMUw3HMsqdUgMOx1MuAjcCcWKshR1+CoR9klX6b28rlInnl4qrXO3JA08f9OU9RekAFZdAb7qTI/+/MC9cD3oeocoOZb22oa398oMAbAHPv1B+iRdCoNxJqf6VfvsQ6NGXpBI7q2eScnfSsOjcUd2LfkENFjvWSX5CwqL4Xdsvn1iJnMsxVyBfhdUWUHxC9lZN0thCBhCCzrfj662B3v+3fUPOj3UaikDL1fQpkZe/COL4KgzdJuHCwQRipnqbsupXtBEtSx6ih7r8vQqnzF+2zcqc+CcoGxNYKqdRykf49i+6J+Q7MrQ==;OoSqwwWZkGR/xB9tg7e2vw=="
 ---

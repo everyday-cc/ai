@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/zendesk/2023/09/06/how-ai-is-boosting-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zendesk/2023/09/06/how-ai-is-boosting-agent-intelligence-and-evolving-the-cx-team/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 1400
         height: 1050
         isCached: true
-  - title: "Five Ways To Be More Intelligent About Artificial Intelligence"
-    excerpt: "So, how can we be more intelligent about AI? Here are my top five things to remember as your business scales its AI infrastructure."
-    publishedDateTime: 2023-09-05T12:44:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/05/five-ways-to-be-more-intelligent-about-artificial-intelligence/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "AI-powered market intelligence firm AMPLYFI closes funding round to ‘democratise intelligence’"
     excerpt: "AMPLYFI, has closed a significant funding round to unlock knowledge capital through a powerful combination of machine learning and generative AI."
     publishedDateTime: 2023-09-07T07:40:00Z

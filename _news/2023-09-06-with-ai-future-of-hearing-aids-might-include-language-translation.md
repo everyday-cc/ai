@@ -2,24 +2,24 @@
 category: news
 title: "With AI, future of hearing aids might include language translation"
 excerpt: "Sawalich says, \"If somebody falls, it'll text up to three people.\" They can also translate foreign languages. These AI hearing aids recalibrate up to 80 million times an hour, allowing them to ..."
-publishedDateTime: 2023-09-06T04:32:00Z
-originalUrl: "https://www.guampdn.com/news/national/with-ai-future-of-hearing-aids-might-include-language-translation/video_0471ba7b-8f06-505f-b6d0-fe970b47c741.html"
-webUrl: "https://www.guampdn.com/news/national/with-ai-future-of-hearing-aids-might-include-language-translation/video_0471ba7b-8f06-505f-b6d0-fe970b47c741.html"
+publishedDateTime: 2023-09-05T19:30:00Z
+originalUrl: "https://www.thetimes-tribune.com/news/nation-world/with-ai-future-of-hearing-aids-might-include-language-translation/video_2d527935-5f49-542e-b87e-3cd7d8380040.html"
+webUrl: "https://www.thetimes-tribune.com/news/nation-world/with-ai-future-of-hearing-aids-might-include-language-translation/video_2d527935-5f49-542e-b87e-3cd7d8380040.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Pacific Daily News
-  domain: guampdn.com
+  name: The Scranton Times-Tribune
+  domain: thetimes-tribune.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/guampdn.com/content/tncms/assets/v3/editorial/0/47/0471ba7b-8f06-505f-b6d0-fe970b47c741/64f77e6adc556.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/thetimes-tribune.com/content/tncms/assets/v3/editorial/2/d5/2d527935-5f49-542e-b87e-3cd7d8380040/64f77e9127098.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -40,6 +40,6 @@ related:
         height: 1385
         isCached: true
 
-secured: "Ik6t0od8vG3hlXNEiQg7PtPArk9H+/+D1LrXLYOloOwvUxx2MOvNam4iDIwBMzkVthUm1ipwyhDQTfkLvcsCqyIg+AcZkpr4qWl5+QXZww38qMuai2FeFOf2HlstES4sx8NQeMl5uK5eLf0qXALTkbsOqFJ/jfcb4ctTbSdnEVe/uU+p3kWZKZ1uBvPkCKuqJVLDunVhKIfZUydvJZHQzv4nqRDY6iWI+tSMiAW2JlZyQwRjbhN3Tra708n78HARlqAvPPMZ7e7GXDHqMugvA5HDTcT/l2XtPz0nh6dBZAfvS1JNO17TeQXemvdTZWemV2tcF9CyGpqOcw2PC68uHgFQ1zk6s2OQMPHkgVYK804=;7tv9ipxStqawz28Gt0mdow=="
+secured: "N3ZDbGDJAllsRz3Phbf+15WSqCWLQSHqnLGBFLZWBQpE98rGZZdyUYsGJ/e0tthEfuumKTVrbzfi/0b/LIN4/IMuvxLtUMoOPtZYGn/eDxE4xBcycTW5Pizsgt1DblPg1NUfLLGcj2D3fU6HEWaNu78dc3SnUx0lIc9Yg3CVrwhozItG7mEhA/SHYnkzLdg0ZN72dk/hMXQWLx+2A7nW28LeOvX32Upjc2rYNjL/s+jX366ayXaYMVEqB0RGR6B0rUFXtJ4H0bJqsuuQK4cwE06U2NPTNj51fayTiK5u+z+o7HhUd5U3GeikGRbJOcZoU+EzkeOlyCy5VjXaHT+1fV0IXuhBgCr3/FwybBsn9c0=;n7dYKbmah7FjynSaTQQMYA=="
 ---
 

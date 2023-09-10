@@ -94,15 +94,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Zoom Adds AI Companion That Can Summarize Meetings, Write Responses"
-    excerpt: "In offering the AI assistant, the video-conferencing provider is taking a “federated” approach, meaning customers will be able to choose which large language model they’d like to power the AI companion, whether it be from Zoom itself, Meta, OpenAI or Anthropic."
-    publishedDateTime: 2023-09-05T13:00:00Z
-    webUrl: "https://www.pcmag.com/news/zoom-adds-ai-companion-that-can-summarize-meetings-write-responses"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 47
   - title: "State Legislatures Eye AI Regulation"
     excerpt: "A growing number of states have enacted laws this year to study artificial intelligence (AI), ahead of possible legislative action to address expected threats to jobs, civil liberties, and property ri"
     publishedDateTime: 2023-09-07T21:57:00Z

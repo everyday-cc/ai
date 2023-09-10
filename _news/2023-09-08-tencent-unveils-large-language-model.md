@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Tencent unveils large language model"
-excerpt: "A view of the booth of Tencent at an expo in Shanghai. [Photo/CHINA DAILY] Tencent Holdings, a leading homegrown technology company, debuted its much-awaited universal large language model Hunyuan on Thursday,"
-publishedDateTime: 2023-09-08T01:12:00Z
-originalUrl: "https://www.chinadaily.com.cn/a/202309/08/WS64fa6d78a310d2dce4bb49b6.html"
-webUrl: "https://www.chinadaily.com.cn/a/202309/08/WS64fa6d78a310d2dce4bb49b6.html"
+excerpt: "Tencent Holdings, a leading homegrown technology company, debuted its much-awaited universal large language model Hunyuan on Thursday, as Chinese enterprises strive to gain a foothold in the global artificial intelligence race."
+publishedDateTime: 2023-09-08T01:23:00Z
+originalUrl: "https://global.chinadaily.com.cn/a/202309/08/WS64fa6d78a310d2dce4bb49b6.html"
+webUrl: "https://global.chinadaily.com.cn/a/202309/08/WS64fa6d78a310d2dce4bb49b6.html"
 type: article
 quality: 24
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "http://img2.chinadaily.com.cn/images/202309/08/64fa6d78a310d2dc6d277476.jpeg"
+  - url: "https://img2.chinadaily.com.cn/images/202309/08/64fa6d78a310d2dc6d277476.jpeg"
     width: 689
     height: 459
     isCached: true
@@ -56,6 +56,6 @@ related:
         height: 510
         isCached: true
 
-secured: "TaSrEUwTZp4JzkmQS2tNymiqA1SEf0BuIqsAXKCTrnhi5O+4A27cCUadaxfGkrfcjWVAcTKEa3AAZl29cDQDmAcPWuTIfbdvP8GkmJ8w/XNji/3BDmT6trJVfLqjQsPbOmuJ07Sg79WyVnbNF95Pu6E1yAYhco/Iyvg7hhWJ/7YOovSO8tUMrgRV4bq54N9xbHe86ntWKtQ4aROwOwCKvfIyLJymkNcUEdN4qnLOcsP6rgV7yFzH5qq+wSNqdPUn64GAS3xpavQNAuCFSvHi/ecHo7WmNkX5z6EMnNXvXvSEPYQar5kw5OETIyX3YKsnWPjCq/FW4ah6x2RH6BfhPGWQOqkMg9gC3D6pU6aKFoo=;Who0mUDo17EzRlgiU2HreA=="
+secured: "d5g2mjWQmz7ZRxjNXi4RE476WK7zxdMS7jDtQeiX5sSLqZJP2FR3sZ4twPh0dqr2zw2Bqgjoaa3dNCQ5N7Ha8TosCTpYUiePj+5SQdubtREuJ0VxmYtn6V+IMntniJ9s1ZKw+MUpZyfkbcllf2GemwU76V8VJaNGUDX7si5tEuSPN25OdbNbyLAJWx8vn/BvwusHz+VG2PXbJZLfw1fvn52hLxTPSq7SQttS3C2g6TyTtY+2JP4nmW51VAFxm4Yl957+fA/RjRM6reHYY8vF9n1zWdX+jeaCWmNQEqr1ID6zjzpsmRrbl9qTeGumuZ4pszFfR6FbN+1cBaYbjkBaadvSz1rUXA2uYKqflBa9p/g=;+ENwm+A04OYasH1JoxmQoA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/09/08/zoom-unveils-ne
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/09/08/zoom-unveils-new-ai-companion-features/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -87,15 +87,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Zoom Adds AI Companion That Can Summarize Meetings, Write Responses"
-    excerpt: "In offering the AI assistant, the video-conferencing provider is taking a “federated” approach, meaning customers will be able to choose which large language model they’d like to power the AI companion, whether it be from Zoom itself, Meta, OpenAI or Anthropic."
-    publishedDateTime: 2023-09-05T13:00:00Z
-    webUrl: "https://www.pcmag.com/news/zoom-adds-ai-companion-that-can-summarize-meetings-write-responses"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 47
   - title: "Hiber unveils generative AI for 3D world creation"
     excerpt: "Hiber announced an upgrade of its 3D world creation tools with the integration of generative AI that makes it a lot easier to build worlds."
     publishedDateTime: 2023-09-08T13:30:00Z

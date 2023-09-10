@@ -49,20 +49,6 @@ related:
         width: 933
         height: 519
         isCached: true
-  - title: "Japanese robotics startup Mujin secures $83M in series C for Europe expansion"
-    excerpt: "Tokyo-based Mujin, the Japanese startup developing intelligent robotics solutions for ... by presenting the app combining the company’s own technology with the latest AI technology. The app is offered on a freemium basis, but if users choose a paid ..."
-    publishedDateTime: 2023-09-05T11:45:00Z
-    webUrl: "https://thebridge.jp/en/2023/09/mujin-series-c-round-funding"
-    type: article
-    provider:
-      name: BRIDGE
-      domain: thebridge.jp
-    quality: 51
-    images:
-      - url: "https://thebridge.jp/en/wp-content/uploads/2023/09/mujin-robotics.jpg"
-        width: 1240
-        height: 780
-        isCached: true
 
 secured: "IhEQlFX7c7idCfoXT7TEisAhIcwozRoR3lR/8LmaJ+McJK79hCNRTfyM49kLTHrRJrprN6PGBE1mcURFVIT1zMlp5Su/+YXjG5OQAK5zdfEdbzwDbwtvPK+ZxXXha4CEmIKb7ZCXEj7tzyIZgTE2ex+TOufMAZ4YldW6P8SohNxXW6X2wBONbfkmR+g8fZGDY6EnWhOBxhPK/M4tAh6mmZgbK8PPYpp9nXTV/Rg+kol/epfcpCljEM4FLYVgje7aqOwcYISB8KheZJptz77mDNpjLnfRNGWkakSsAXoNX14YqP8f5Bk9EcAkigBnM0maXGKNbeL2rupWzLzFj9DSeoEPW+KkwQO+fbXiLzux0wb9P5x3onxSayz/qlbRFJ/zZ+0NGHaFKJCcIJnD3PeOg7Yyp6MIvJG0BbqPaNuDMCkgT+sTEAqAzGPDz6TaAJ+i2t8dv5sJeoHesK0JUXSp0n912wkQVhjbqMcnKdTb11Gfp4ut+hpYEdPmwFtxkRYAPPdt2aVH0EeUFq4BxpSlsQ==;e84V/qOk6gjoov12PSsWXw=="
 ---

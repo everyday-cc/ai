@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/data-is-essential-building-an-effective-g
 webUrl: "https://www.ibm.com/blog/data-is-essential-building-an-effective-generative-ai-marketing-strategy/"
 type: article
 quality: 115
-heat: 175
+heat: 165
 published: true
 
 provider:
@@ -48,22 +48,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64f881680386820459f9e2c7/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 642
-        isCached: true
-  - title: "Generative AI Drugs Are Coming"
-    excerpt: "The merging of deep, quality data and expertise with increasingly sophisticated AI capabilities has the potential to truly shift the future of medicine."
-    publishedDateTime: 2023-09-05T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/05/generative-ai-drugs-are-coming/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/05/generative-ai-drugs-are-coming/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/05/generative-ai-drugs-are-coming/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64f22325ebec7ec31b17ee9b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 801
         isCached: true
   - title: "20 Effective Ways Small Businesses Can Leverage Generative AI"
     excerpt: "From communications to customer service to coding, tech experts see a lot of ways that generative AI can boost a small business."

@@ -7,7 +7,7 @@ originalUrl: "https://www.insidermonkey.com/blog/10-fastest-growing-ai-stocks-to
 webUrl: "https://www.insidermonkey.com/blog/10-fastest-growing-ai-stocks-to-buy-1189431/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1920
     height: 1280
     isCached: true
-
-related:
-  - title: "Our Pick Of The Best Artificial Intelligence (AI) Stocks and Shares"
-    excerpt: "From self-driving cars to surgery-performing robots, artificial intelligence (AI) is helping to transform every part of our lives. And the potential opportunity created by this high-growth ..."
-    publishedDateTime: 2023-09-05T11:52:00Z
-    webUrl: "https://www.forbes.com/uk/advisor/investing/best-artificial-intelligence-ai-stocks-shares/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/01/Image-1-e1675170541788.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "PtIcTLHxHYCIsx1tMdg5qas/lOX8SS0IO4nb0dfuH4UveMx94KBHUnfeYI+jrBwcwFX/1Ohi61WGri8+pqp5xl/6xlUuf9Xmp1Jebj5PerjO1Te8l+Qc/G7sWBZ9PeqDJ+kLzSdflmTezIpsCoRrJeiSQ7xQlLoT8YkX+pyB0RyFt2AZdcG4UZxYdrEdLXQ/bLh2CaLNOIzeyfIh8QxXJMekM4+aachqZoJnCZlgI49QDZ9OKKQ0njsHR4/zY3n72ntCw8pVgNysaYuzBshDkKOiKs3dvlG8ilL72wsgz3iP6BawyEVSjRQpD3jXrvGfKwfAerxg2+j6fOjEkP727lT82i9HAAh3abPGCWL/r+Q=;qkADs0POhgNroL12BsbA8w=="
 ---

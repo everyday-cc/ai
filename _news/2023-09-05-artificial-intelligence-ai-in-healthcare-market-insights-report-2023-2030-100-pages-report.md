@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/34221806"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34221806"
 type: article
 quality: 77
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -38,22 +38,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 66
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Face Recognition Systems Market Trends Report 2023-2030 | 109 Pages Report"
-    excerpt: "The Global Face Recognition Systems market is anticipated to rise at a considerable rate during the forecast period, between 2023 and 2030. In 2022, the market is growing at a steady rate and with ..."
-    publishedDateTime: 2023-09-05T11:39:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/34223393/face-recognition-systems-market-trends-report-2023-2030-109-pages-report"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34223393"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34223393"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
     images:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043

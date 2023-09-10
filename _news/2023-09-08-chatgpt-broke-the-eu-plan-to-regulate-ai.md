@@ -1,27 +1,28 @@
 ---
 category: news
-title: "Forget ChatGPT—Law Firms Are Launching Their Own Gen AI Chatbots"
-excerpt: "Tracking Key Shifts in the Legal Ecosystem Each week, the Law.com Barometer newsletter, powered by the ALM Global"
-publishedDateTime: 2023-09-07T20:17:00Z
-originalUrl: "https://www.law.com/2023/09/07/forget-chatgpt-law-firms-are-launching-their-own-gen-ai-chatbots/"
-webUrl: "https://www.law.com/2023/09/07/forget-chatgpt-law-firms-are-launching-their-own-gen-ai-chatbots/"
+title: "ChatGPT broke the EU plan to regulate AI"
+excerpt: "Artificial intelligence's newest sensation — the gabby chatbot-on-steroids ChatGPT — is sending European rulemakers back to the drawing board on how to regulate AI. But after months of internet lolz — and doomsaying from critics — the technology is ..."
+publishedDateTime: 2023-09-08T10:13:00Z
+originalUrl: "https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/"
+webUrl: "https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/"
+ampWebUrl: "https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/amp/"
+cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/amp/"
 type: article
-quality: 39
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Law
-  domain: law.com
+  name: Politico Europe
+  domain: politico.eu
 
 topics:
-  - Microsoft AI
   - AI
 
 images:
-  - url: "https://images.law.com/contrib/content/uploads/sites/292/2023/08/AdobeStock_612806082-767x633.jpg"
-    width: 768
-    height: 633
+  - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/03/02/GettyImages-1462188008-scaled.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -135,22 +136,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "ChatGPT broke the EU plan to regulate AI"
-    excerpt: "Artificial intelligence's newest sensation — the gabby chatbot-on-steroids ChatGPT — is sending European rulemakers back to the drawing board on how to regulate AI. But after months of internet lolz — and doomsaying from critics — the technology is ..."
-    publishedDateTime: 2023-09-08T10:13:00Z
-    webUrl: "https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/"
-    ampWebUrl: "https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/amp/"
-    type: article
-    provider:
-      name: Politico Europe
-      domain: politico.eu
-    quality: 57
-    images:
-      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/03/02/GettyImages-1462188008-scaled.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial intelligence technology behind ChatGPT was built in Iowa"
     excerpt: "Water pulled from the Raccoon and Des Moines rivers in central Iowa cools a powerful supercomputer as it helped teach its AI systems how to mimic human writing."
     publishedDateTime: 2023-09-09T20:31:00Z
@@ -207,6 +192,20 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/9-AI-tools-you-should-be-using-in-addition-to-Midjorney-and-ChatGPT.jpg"
         width: 700
         height: 466
+        isCached: true
+  - title: "Forget ChatGPT—Law Firms Are Launching Their Own Gen AI Chatbots"
+    excerpt: "Tracking Key Shifts in the Legal Ecosystem Each week, the Law.com Barometer newsletter, powered by the ALM Global"
+    publishedDateTime: 2023-09-07T20:17:00Z
+    webUrl: "https://www.law.com/2023/09/07/forget-chatgpt-law-firms-are-launching-their-own-gen-ai-chatbots/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/292/2023/08/AdobeStock_612806082-767x633.jpg"
+        width: 768
+        height: 633
         isCached: true
   - title: "What Can ChatGPT-like Language Models Tell Us About the Brain?"
     excerpt: "A renaissance in natural language modeling may help researchers explore how the brain extracts and organizes meaning."
@@ -349,6 +348,6 @@ related:
       domain: scientificamerican.com
     quality: 4
 
-secured: "M19SF6y4DiW1Qp4n75i6Cp8qoyGiKx+fUkVT/vYMpgv64LgLLWICtqbMBQpf6+wkKtlryLpIwqC7o4U4bQ7O+2RGneg3S1OCy/wjj95MwdMmrxLa5LQGxSILBGR5GBY9rzoh0MhjGN2Z48PdWupNCxDBqR8mAJ/EBv5EyZJhxXzm3hvwsMJdp8+2HhLL616gzhvzKbT1F54Et6UQUWyxTfLRTHTGXNTnVzQzWaBBhQMBZuJ0acbgauTS1HH+obgUprUYWmpFLeHFkJ0TU7BEfFtW+KStA5ojiRHf3+sEsnU8OvWb1uT9Pk1yVbRxjuqw8G8DB96auwh3OLWZHrZqrhu9yIME1oLBQzGkM4N3CgHAX0rK0Ga39LB5L9cUiBKxobzmAU77fSN36ZckpL4J7LK9DDuq3lhjJmec518G5r2YV6rJ847IM85u1BfHz0kNYtXHq4OzfKTTLg6oDlJWsKRLK14qI/4l10ykR0o/O6mtRDOEeNQWAJRXU3Ug9dVVqwdJQSlh6o4PpM2PceytrA==;1D89Gkg3mf2i/69iQK1kAQ=="
+secured: "TQxOJ5Oj1uqHGpAlwEYDDMeVaFqbuxGt2QYxZyY/GO9Euk+h2fwMi83psf8a4GEcRhaetBmqyb9Tmy9GrH3J/7khvG9TZ2Wwqylg93wjS/N5niGKDq2xaE+pHJ2jccj+iD66+tadMJT83c655hMakcFXyMwjb8AYl9ZpQ8vCYGBTGiIQsK/tiYC7Yej7IBHnK/VkGMfQiKRChRrnV3d5MKEpqBL6V6il9QRyUYy7Fa2xGnKOScvd7+57IZVHTVSDj4pu3gheK2YhKxUBEjLB0wqo8kL8SIF5BcRI+9u/ifkvcEBDbSwkbYGC7TcidExkLtOLP7pjBEJDNlkBtpVkvGv5UdWTMs3fN0a6kpzjOOo=;glDkH5H4gEJF0Ij3MyfNyg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/09/07/softbank-group-backs-former-argo-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/07/softbank-group-backs-former-argo-ai-founders-on-new-self-driving-trucks-startup/amp/"
 type: article
 quality: 85
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://assets-varnish.triblive.com/2023/09/6548567_web1_stack-av.jpg"
         width: 640
         height: 320
+        isCached: true
+  - title: "SoftBank backs autonomous trucking firm started by ex-Ford self-driving executives"
+    excerpt: "The founders of the former self-driving unit of Ford Motor Co. and Volkswagen AG are launching a new autonomous trucking startup with backing said to be more than $1 billion from Japan’s ..."
+    publishedDateTime: 2023-09-08T12:36:00Z
+    webUrl: "https://www.autonews.com/mobility-report/softbank-backs-autonomous-trucking-firm"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 18
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/STACK.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "OOZlW5Kl5Iyqw4kKylmHYEZpphJyhm3Wk6bNHCOkHWQ/FFFL98p6cgRckkNsRGF6jc2B0rVMP8Ql9g/c8v+KNfIgAZVDYf/TteYdMceB+lKgQiK/hWi9C5DU9SLx87tfSsPnBhgKcmg2v2cccf9m/0VItFy4Lk+EK0RJppMnY0i5hTqLuCLtCGY4KSkzAyWVL9qM+ukGLlEi3Ie+PK5TslnGELabIJ8zVS9UD0dPrpaT2q0WV2GQe5lH2ulIlJeU3NC5IjU2oXOUMdwEMPcV32sJxiQEV3yQyhQU71vyjvhuvs0xElD9LewX+ljHuNjPqx3zy5tY7XPacFINhjfIDWI3G2c269rEe32/VDgCx3I=;/JTZUfXtEHkFjDqVVs7hPg=="

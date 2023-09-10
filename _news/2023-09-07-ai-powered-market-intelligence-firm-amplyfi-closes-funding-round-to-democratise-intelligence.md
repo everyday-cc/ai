@@ -59,15 +59,6 @@ related:
         width: 1400
         height: 1050
         isCached: true
-  - title: "Five Ways To Be More Intelligent About Artificial Intelligence"
-    excerpt: "So, how can we be more intelligent about AI? Here are my top five things to remember as your business scales its AI infrastructure."
-    publishedDateTime: 2023-09-05T12:44:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/05/five-ways-to-be-more-intelligent-about-artificial-intelligence/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "How wealth management can apply AI … intelligently"
     excerpt: "Used as directed, superbots are particularly well suited to the needs of financial advisory firms, argues the founder and CEO of TIFIN."
     publishedDateTime: 2023-09-07T10:01:00Z

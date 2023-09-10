@@ -58,15 +58,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "5 types of chatbot and how to choose the right one for your business"
-    excerpt: "Chatbots are playing an increasingly prevalent role in our lives. Here are five types of chatbot and how to pick the best one for your business.\nThe post 5 types of chatbot and how to choose the right one for your business appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-09-05T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/chatbot-types/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 82
   - title: "Focus: Morgan Stanley to launch AI chatbot to woo wealthy"
     excerpt: "Wealthy clients going to a Morgan Stanley banker to discuss their investments may soon have a different sort of experience: having a chatbot listen to their conversation."
     publishedDateTime: 2023-09-07T09:09:00Z
@@ -144,6 +135,22 @@ related:
       - url: "https://images.idgesg.net/images/article/2023/07/shutterstock_2284126663-100943536-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
+        isCached: true
+  - title: "ChatGPT broke the EU plan to regulate AI"
+    excerpt: "Artificial intelligence's newest sensation — the gabby chatbot-on-steroids ChatGPT — is sending European rulemakers back to the drawing board on how to regulate AI. But after months of internet lolz — and doomsaying from critics — the technology is ..."
+    publishedDateTime: 2023-09-08T10:13:00Z
+    webUrl: "https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/"
+    ampWebUrl: "https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/amp/"
+    type: article
+    provider:
+      name: Politico Europe
+      domain: politico.eu
+    quality: 57
+    images:
+      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/03/02/GettyImages-1462188008-scaled.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "The Catch-22 Of AI Chatbots"
     excerpt: "Since ChatGPT launched current data scraping (automated data collection from a website) now includes data created by AI, not just original material as it did initially."
@@ -280,20 +287,6 @@ related:
         height: 633
         isCached: true
   - title: "Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water"
-    excerpt: "As they race to capitalize on a craze for generative AI, leading tech developers including Microsoft, OpenAI and Google have acknowledged that growing demand for their AI tools carries hefty"
-    publishedDateTime: 2023-09-09T20:39:00Z
-    webUrl: "https://tulsaworld.com/ap/business/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water/article_3379d8ad-289b-59cd-af57-adfc57af0969.html"
-    type: article
-    provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 30
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/6/5e/65eddd27-5f7e-51af-a65c-5d8ff9c1f88d/64fc7131358f7.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water"
     excerpt: "As they race to capitalize on a craze for generative AI, leading tech developers including Microsoft, OpenAI and Google have acknowledged that growing demand for their AI tools carries hefty costs, from expensive semiconductors to an increase in water consumption."
     publishedDateTime: 2023-09-09T13:15:00Z
     webUrl: "https://www.seattletimes.com/business/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water/"
@@ -336,6 +329,15 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 15
+  - title: "Artificial intelligence technology behind ChatGPT was built in Iowa -- with a lot of water"
+    excerpt: "Microsoft made its first $1 billion investment in San Francisco-based OpenAI in 2019, more than two years before the startup introduced ChatGPT and sparked worldwide fascination with AI advancements. As part of the deal, the software giant would supply computing power needed to train the AI models."
+    publishedDateTime: 2023-09-09T19:14:00Z
+    webUrl: "https://www.seattlepi.com/business/article/artificial-intelligence-technology-behind-chatgpt-18356707.php"
+    type: article
+    provider:
+      name: seattlepi.com
+      domain: seattlepi.com
+    quality: 9
   - title: "What Does It ‘Feel’ Like to Be a Chatbot?"
     excerpt: "For an AI to run amok, it doesn’t matter one iota whether it feels like anything. All that matters is that it has a goal that is not aligned with humanity’s long-term well-being. Whether or not the AI knows what it is trying to do,"
     publishedDateTime: 2023-09-08T13:31:00Z
@@ -346,6 +348,6 @@ related:
       domain: scientificamerican.com
     quality: 4
 
-secured: "7JGRzjLvEm+l4OW0hl3CviwfKkqsmjqXCqArLvHJrsZj+oruJkwYqCezllzwg4V5J85cCYd9jYKEG3469gTJculKWXXpowV+95sWtCh3r8w7VI2xrMEJv+77AgTUTiQVSy9NcXAQuzoujxqCxFcbEm7XCvxG+sKybndFsWYzBOviNv2lN6zNuIO/yZXRLvFyrtBiENPUX0P95VOjeVnPSV7cDpmEM6fxS1t/+GEX7xk+pSraLxcARiMNTgYL6nyc92sE/AKTzZhDPw3Mn5PrEaNkP9U0C94IlvKHAcsSAmlnK2ZOjcvVLQLTanOWQzyyT1IO/ildGo1CFSPb1jgTT3hfml2nLJ6QTN+x9BhSXAc=;PrFV0CyDPuaekHs7c7l2/g=="
+secured: "iJ2DRB4sKyeEYGWbtdEkneUALSbd4vnv0OjaUCQQT8deKBKVHXgr1/rC7w7x1YDASRorLf1ZFZGWqG+OZ9n6yeVYuSiYNJiNJBjvlcD/PAiLZ9r/3JSkbSSvOemgFjzKF5LTVsLWN07p6g8Bcq1iwuSzMgvWfkAUGL/U2jofcENdVzDQiey6/YfPmGK3xJA41HPFlxTdUIkhDVS/zD1R1vhcKXlUvClKKuRCrV7Bc1RCH+s7iSNzWMKXZ8ycuIyjuJCmD1CYOA+hxslEH8/R1T6qCTYn0F8jvot0Ma+7Iv3GR+gQN/xJH0vA0efHB+v58rFHfMTKVWd2zE+H7K3I+u+gHntqlIgAeUdJOOsQl229SSzawvwdoGiefFnWKq+5qyWmpTMS62rmmwp2v2qe+OVeodkEjIl4bvGk8IJVfK2LgpWeLp602dLjTt14FrRGsNRBzGOq7FoF4kn1pvtTgFKvcV2Sd3r/YmyCNzsz3ovwDPvqKevCIq5BdvTKc+AwTLKKhiQ0zeexmzrUN6nPiQ==;ORDr7Px1IVkXOrK9Dk3ZyQ=="
 ---
 
