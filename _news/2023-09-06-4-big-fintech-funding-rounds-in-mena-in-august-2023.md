@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Outsourcing India: Crafting the Future of Global Finance with Tech Mastery"
-    excerpt: "Emerging fintech trends, like AI-driven financial analysis, blockchain in banking, and automation of complex financial processes, further solidify India's reputation"
-    publishedDateTime: 2023-09-05T08:42:00Z
-    webUrl: "https://theprint.in/theprint-valuead-initiative/fintech-outsourcing-india-crafting-the-future-of-global-finance-with-tech-mastery/1747072/"
-    ampWebUrl: "https://theprint.in/theprint-valuead-initiative/fintech-outsourcing-india-crafting-the-future-of-global-finance-with-tech-mastery/1747072/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/theprint-valuead-initiative/fintech-outsourcing-india-crafting-the-future-of-global-finance-with-tech-mastery/1747072/?amp"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 53
-    images:
-      - url: "https://static.theprint.in/wp-content/uploads/2023/09/Untitled-design-6-1.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "New fintech targets AI product to scale sustainable finance in debt markets"
     excerpt: "Company uses machine learning technology to render climate and sustainability credentials of bonds and issuers transparent and comparable, through a single access point"
     publishedDateTime: 2023-09-07T14:34:00Z
@@ -55,68 +39,34 @@ related:
         width: 533
         height: 405
         isCached: true
-  - title: "BIZCLIK MEDIA LAUNCHES SEPTEMBER EDITIONS OF FINTECH MAGAZINE & INSURTECH DIGITAL"
-    excerpt: "The September editions of FinTech Magazine and InsurTech Digital includes interviews with leading experts and executives from Volt.io, Fiserv, HSB Canada and Generali Vitality LONDON, Sept. 8, 2023 /P"
-    publishedDateTime: 2023-09-08T15:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/n34364571/bizclik-media-launches-september-editions-of-fintech-magazine-insurtech-digital"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34364571"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34364571"
+  - title: "Google finally made its At a Glance widget usable, thanks to AI"
+    excerpt: "The latest version of Google's At a Glance widget will finally bring AI to the table, making it more useful than ever."
+    publishedDateTime: 2023-09-07T02:01:00Z
+    webUrl: "https://bgr.com/tech/google-finally-made-its-at-a-glance-widget-usable-thanks-to-ai/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
+      name: BGR
+      domain: bgr.com
+    quality: 37
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://bgr.com/wp-content/uploads/2023/09/Do-more-at-a-glance-with-new-productivity-features-for-your-Android-devices-0-27-screenshot-1.png"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Want a new fintech job? These are the skills employers want now"
-    excerpt: "Here are the most in-demand skills for fintech companies recruiting fresh talent, and some advertised tech vacancies in the space"
-    publishedDateTime: 2023-09-06T09:25:00Z
-    webUrl: "https://www.information-age.com/want-new-fintech-job-these-are-skills-employers-want-now-123507093/"
+  - title: "Fable Fintech and iPiD Announce Strategic Partnership at Global Fintech Fest, Mumbai"
+    excerpt: "As digital payments continue to gain ground, overshadowing traditional cash transactions, the demand for secure and efficient payment platforms is on the rise. The collaboration between iPiD and Fable Fintech comes at a pivotal moment, promising to address this demand."
+    publishedDateTime: 2023-09-06T11:57:00Z
+    webUrl: "https://www.businesswireindia.com/fable-fintech-and-ipid-announce-strategic-partnership-at-global-fintech-fest-mumbai-86255.html"
     type: article
     provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 24
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 32
     images:
-      - url: "https://informationage-production.s3.amazonaws.com/uploads/2023/09/want-new-fintech-job-these-are-skills-employers-want-now-scaled.jpg"
-        width: 2560
-        height: 1616
+      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_86255.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "4 FinTech funding rounds that occurred in the MENA region in August 2023"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-09-06T07:35:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/4-fintech-funding-rounds-that-occurred-in-the-mena-region-in-august-2023/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 23
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/11/Funding.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Fintech Outsourcing India: CX, Data Security, and Compliance"
-    excerpt: "India, with its formidable prowess in IT and financial services, has emerged as a leading destination for fintech outsourcing. Leading the charge in bridging global businesses with India’s top fintech service providers is Cynergy BPO."
-    publishedDateTime: 2023-09-08T13:50:00Z
-    webUrl: "https://www.hindustantimes.com/brand-stories/fintech-outsourcing-india-cx-data-security-and-compliance-101694023544371.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 21
-  - title: "Indian fintech firms using AI to detect money laundering: Kiya.ai MD Rajesh Mirjankar"
-    excerpt: "Talking to ANI during the ongoing Global Fintech Fest 2023 in Mumbai, Rajesh Mirjankar, Managing Director of Kiya.ai, an innovative digital solutions service provider, said that investigation patterns of investigative agencies and government institutions have changed with technology transformations."
-    publishedDateTime: 2023-09-07T00:16:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20230906/4116197.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 12
   - title: "FINCOVER Bootstraps 7 Crore For Fintech App Development"
     excerpt: "In the ever-changing Fintech landscape, Fintech companies constantly flood the market with cutting-edge tools and apps to be a part of this transformative evolution."
     publishedDateTime: 2023-09-06T15:35:00Z

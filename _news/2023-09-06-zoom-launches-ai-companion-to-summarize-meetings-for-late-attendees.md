@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Slack's New AI Feature Will Catch You Up on Work Conversations"
+    excerpt: "With Slack AI, in-app capabilities will include channel recaps that provide key highlights and one-click thread summaries that give you the gist of a thread. Another feature will be search answers, a question-and-answer feature that returns related messages, files, channels and an AI-generated summary."
+    publishedDateTime: 2023-09-09T13:09:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/slacks-new-ai-feature-will-catch-you-up-on-work-conversations/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 67
+    images:
+      - url: "https://www.cnet.com/a/img/resize/c66165b74f6021d0782637aebf6aa6387fc41627/hub/2022/04/15/a4b504ed-a603-4f7b-be7b-f04269a18872/slack-logo-2022-236.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Zoom's New 'AI Companion' Will Catch You Up When You're Late to Meetings"
     excerpt: "The generative AI tool has multiple new updates, and will soon be available at no extra cost if you already pay for Zoom."
     publishedDateTime: 2023-09-06T21:21:00Z

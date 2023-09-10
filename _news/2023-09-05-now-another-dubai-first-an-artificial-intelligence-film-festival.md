@@ -7,7 +7,7 @@ originalUrl: "https://www.gulftoday.ae/lifestyle/2023/09/05/now-another-dubai-fi
 webUrl: "https://www.gulftoday.ae/lifestyle/2023/09/05/now-another-dubai-first-an-artificial-intelligence-film-festival"
 type: article
 quality: 52
-heat: -1
+heat: 52
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 750
     height: 450
     isCached: true
-
-related:
-  - title: "Expo City Dubai launches region’s first Artificial Intelligence Film Festival"
-    excerpt: "The event establishes Expo City Dubai as the epicentre of AI innovation, a future-focused community and a global platform for collaboration on big ideas"
-    publishedDateTime: 2023-09-05T07:36:00Z
-    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/expo-city-dubai-launches-regions-first-artificial-intelligence-film-festival-buhpqsni"
-    ampWebUrl: "https://www.zawya.com/en/business/technology-and-telecom/expo-city-dubai-launches-regions-first-artificial-intelligence-film-festival-buhpqsni?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/expo-city-dubai-launches-regions-first-artificial-intelligence-film-festival-buhpqsni?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 69
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NjgwY2Q3NjMtZTY2NC00/17/1463605211.jpeg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
 
 secured: "RQUpoG9BBFJ3hqEYmglMaOdJZtSoq/wDptoazC5jcv+ZnJEzXjvQMGo9QHlHVkp4rxAUD/BhENUbSDrcDJ8tTO+3quCkwkA7nnCFgq68YupW46P4IrzGV2YSlj12bfBF8V9qE2qOPN6QLH34UzI6JBmVEkq3GO9bXaOniyTF9XIUCh9/EUBXNBGliz1YcpCr1dUbDg55ry2wpJm8s+Jy/vNSQ8rI/b2+D8immnLwGfdcahPU6msmQgFkSTwBDwsH8RuSb0arndWZfGWQ/6nC2HlXFUoPrzmuDkgp8tXb64vjF+XEGVC3sy8dxh4X1zi3+YeovZlKYgd0SpL+dFggbibCkrwxpQ+GEKzs0caTZ3Y=;hq0AJgfJLyp9+IEco65Ing=="
 ---

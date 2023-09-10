@@ -23,21 +23,21 @@ topics:
   - AI
 
 related:
-  - title: "Tech And Cannabis Companies Are Worth Watching Amidst AI Boom - Forbes AI Newsletter September 2nd"
-    excerpt: "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend."
-    publishedDateTime: 2023-09-05T14:36:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2023/09/05/tech-and-cannabis-companies-are-worth-watching-amidst-ai-boomforbes-ai-newsletter-september-2nd/"
-    ampWebUrl: "https://www.forbes.com/sites/qai/2023/09/05/tech-and-cannabis-companies-are-worth-watching-amidst-ai-boomforbes-ai-newsletter-september-2nd/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/09/05/tech-and-cannabis-companies-are-worth-watching-amidst-ai-boomforbes-ai-newsletter-september-2nd/amp/"
+  - title: "The best movies on Amazon Prime Video (September 2023)"
+    excerpt: "The best movies on Amazon Prime Video have something for everyone. For most of this year, Prime Video has welcomed movies from Universal Pictures and Paramount to shore up its library. But this ..."
+    publishedDateTime: 2023-09-08T09:30:00Z
+    webUrl: "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/"
+    ampWebUrl: "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 73
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 74
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64f73cca5d77775f8cb01580/0x0.jpg?format=jpg&width=1200"
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2022/05/Elvis-Trailer-2.jpg?resize=1200%2C630&p=1"
         width: 1200
-        height: 801
+        height: 630
         isCached: true
 
 secured: "CwTNm1jvBSKz95PExkfnRMmhqp3st4Z9XCPrO3qow9Hou40kqFlP8jzMPjFAL2DstFoSPibIk1TJ247yNPCUF934b2shR5F1EMIlo1sXppOaY9iqjI+GtjsZRqvTqCJQJlKjkknnAfSWNKbBuCHtmkSI8p+AjWUGlIjuQOJ+XWoeEwyDrxVr4/XZFju3JlazpA60fBe1SkJUEMCl7afVilpNs2WXg2KiEzu7+yovoGtHbOS0UI50fut2s7JGAsodpuXMGBsx8it7kaWXZFWM9pV9c/E6qYc/Dg14cZ5vCiICc6zAKPkPjd7lys2oCKDZgC/kNKAewNT5f8KY7Szg96W66tKuj46g4oJOJObxZ6Uh9YOL2P2HwjQV0xzbkkZN8KY3oLL5Kkl1jKBmLuHIbWwDVUopAg0g97Q5JWj/3Q1u7pWJQ/eqUmFZ+yUlftMabL7b+9lqzNr706rBBIIFByQEkbPF9/ZHLOpWUw5wMMbFdcHsWrtcb5TdDQ7qTKouNKFkOQRo/g9z/jRSOzeY4g==;CJ42gP+P3PAOxBzESyPJ2g=="

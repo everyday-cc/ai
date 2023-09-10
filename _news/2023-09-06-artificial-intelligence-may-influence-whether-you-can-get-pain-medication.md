@@ -9,7 +9,7 @@ ampWebUrl: "https://www.seattletimes.com/nation-world/artificial-intelligence-ma
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/artificial-intelligence-may-influence-whether-you-can-get-pain-medication/?amp=1"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -19,22 +19,6 @@ provider:
 topics:
   - AI
   - AI in Healthcare
-
-related:
-  - title: "Artificial Intelligence May Influence Whether You Can Get Pain Medication"
-    excerpt: "Elizabeth Amirault had never heard of a Narx Score. But she said she learned last year the tool had been used to track her medication use. During an August 2022 visit to a hospital in Fort Wayne, Indiana, Amirault told a nurse practitioner she was in ..."
-    publishedDateTime: 2023-09-05T08:32:00Z
-    webUrl: "https://www.gazettextra.com/news/nation_world/artificial-intelligence-may-influence-whether-you-can-get-pain-medication/article_45514437-0484-576f-a923-5729814a7bda.html"
-    type: article
-    provider:
-      name: Janesville Gazette
-      domain: gazettextra.com
-    quality: 51
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gazettextra.com/content/tncms/custom/image/bd5993ec-56a6-11ec-a43c-8f7b005e099d.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "GpeNwZKhORWrLmAxc8H41/cnrrh/gzg22UFKnlVAdhDXQI0On9SlzulOrmBYUbfBVEfMhdVB3SHJtjEAhlJWPmAYc1EZu1UP8eC5m7IE2HIc8f/6fteqQYkTEuuWejPAy9TLFIllmt0sRIPofe52TCE6hmI88InxX3mFoyL75nr3182HpuYn1fsSeZT7B4n/wAAlojRa21F89qb//Z2pNiFi0ENKPzXTUpKMPdfH4QvnkZKbQu3GMVgvOsJTkez7l72Zcspg97e0vl3/9pzgdlr+uzMgxQGkLQTR8jOoy/NQjCnawIiKrXXu2ibl2EEhyWWYze/2OzaW2w3af4VoxN9B0HA9lG6Qxfg7R4IDEjYUdo8nerpPEtayh/4hYIHakzA/wx6b5om+KUTzyKHg1q1PmQRm6jJtos6uBm9PXweqMT1ZHUET3gyWr4YjdGoODeaMDCG1DChDvTyVPRnO8DHfJKbtRnovxbEEJdj6Rsiw/u5BsJgC0pAdLLjBdp1O5XTe/YzcBnAnwXPHiwd3Kw==;fUVNoxAqcz2tktyzckJTmg=="
 ---

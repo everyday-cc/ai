@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "AI has a finger on the pulse of the transport industry"
-    excerpt: "The transport sector is tapping into the potential of artificial intelligence to curtail emissions and boost efficiency."
-    publishedDateTime: 2023-09-05T08:39:00Z
-    webUrl: "https://www.greenbiz.com/article/ai-has-finger-pulse-transport-industry"
+  - title: "Propane industry considers impacts of artificial intelligence"
+    excerpt: "I set out to learn about artificial intelligence's role in the propane industry and its potential future impacts. Here’s what I shared with my colleagues."
+    publishedDateTime: 2023-09-08T18:54:00Z
+    webUrl: "https://www.lpgasmagazine.com/propane-industry-considers-impacts-of-artificial-intelligence/"
     type: article
     provider:
-      name: GreenBiz
-      domain: greenbiz.com
-    quality: 37
+      name: LP Gas
+      domain: lpgasmagazine.com
+    quality: 39
     images:
-      - url: "https://www.greenbiz.com/sites/default/files/styles/og_image_1200x630/public/2023-09/AI%20transport_metamorworks_shutterstock.jpg?itok=v5eArWHZ"
+      - url: "https://www.lpgasmagazine.com/wp-content/uploads/2018/09/LPG-social-default-iStock-162819887.jpg"
         width: 1200
-        height: 630
+        height: 720
         isCached: true
   - title: "How AI is the disrupting the photography industry"
     excerpt: "During the last few years, nearly every industry around the world has been disrupted by the growth and trend of artificial intelligence (AI). By David Preston, MD of Canon South Africa The archetypal vision of mechanical robots coming to replace humans at their workstations is not really applicable anymore."

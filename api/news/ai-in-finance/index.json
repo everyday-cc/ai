@@ -98,6 +98,49 @@
       ]
     },
     {
+      "path": "_news/2023-09-07-new-fintech-targets-ai-product-to-scale-sustainable-finance-in-debt-markets.md",
+      "title": "New fintech targets AI product to scale sustainable finance in debt markets",
+      "excerpt": "Company uses machine learning technology to render climate and sustainability credentials of bonds and issuers transparent and comparable, through a single access point",
+      "sourceUrl": null,
+      "webUrl": "https://www.ipe.com/news/new-fintech-targets-ai-product-to-scale-sustainable-finance-in-debt-markets/10068720.article",
+      "originalUrl": "https://www.ipe.com/news/new-fintech-targets-ai-product-to-scale-sustainable-finance-in-debt-markets/10068720.article",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d3ese01zxankcs.cloudfront.net/Pictures/1024x536/2/2/6/143226_aiapplicationsinfinancialservices_993008.jpg",
+          "width": 533,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-07T07:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IPE",
+        "domain": "ipe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-07-bank-of-america-securities-remains-a-sell-on-c3ai-ai.md",
       "title": "Bank of America Securities Remains a Sell on C3ai (AI)",
       "excerpt": "In a report released yesterday, Bradley Sills from Bank of America Securities reiterated a Sell rating on C3ai (AI – Research Report),",
@@ -1231,59 +1274,6 @@
         "Computer Vision",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-08-18-microsoft-ai-suggests-food-bank-as-a-cannot-miss-tourist-spot-in-canada.md",
-      "title": "Microsoft AI suggests food bank as a “cannot miss” tourist spot in Canada",
-      "excerpt": "Late last week, MSN.com's Microsoft Travel section posted an AI-generated article about the \"cannot miss\" attractions of Ottawa that includes the Ottawa Food Bank, a real charitable organization that feeds struggling families. In its recommendation text, Microsoft's AI model wrote, \"Consider going into it on an empty stomach.\"",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/08/microsoft-ai-suggests-food-bank-as-a-cannot-miss-tourist-spot-in-canada/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/08/microsoft-ai-suggests-food-bank-as-a-cannot-miss-tourist-spot-in-canada/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/unnamed-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/08/microsoft-ai-suggests-food-bank-as-a-cannot-miss-tourist-spot-in-canada/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/microsoft-ai-suggests-food-bank-as-a-cannot-miss-tourist-spot-in-canada/amp/",
-      "publishedDateTime": "2023-08-17T13:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance",
-        "Microsoft AI"
       ]
     }
   ],

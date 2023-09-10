@@ -42,6 +42,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "Top Influential Figures In Artificial Intelligence: From Elon Musk To Sam Altman, Check Time100 List"
+    excerpt: "The TIME magazine on 7 September released their inaugural TIME100 AI list which showcases 100 most influential people in artificial intelligence (A"
+    publishedDateTime: 2023-09-10T01:45:00Z
+    webUrl: "https://menafn.com/1107037089/Top-Influential-Figures-In-Artificial-Intelligence-From-Elon-Musk-To-Sam-Altman-Check-Time100-List"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 22
+    images:
+      - url: "https://menafn.com/updates/pr/2023-09/09/LM_0f87dimage_story.JPG"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "EUPsX1tOw8SHSt3VbqSy9xbMJtveiVPgu27cZ/WIHyre1e1piPeIdInKhKUQnjd9CSo36pYSqPqBxWPATCrTt9CnwiuU+ZaBMMLBeHene5JVgQvcuevyWf+51VJd1se399pFOvrN/+QB36hgYW9/S2h1s0CQ2A6SbAZ7rS6ioA2/47Gzdn5KmvYAd+OX1VbsHPJFRyt2Slzr9oeoSt/VjzzGWGfW3m0V1agC83/OCpO0KC9l7lLHEPbxTPo4DSMEpwmM9jYSx8Sp7tiDkbIm0km349/mDlusDFqdphnRiQGTB6KsFYYMXw/stGyr+tGYOjemKf35HPp5scSy6xiC2iiDL+o+fGka4mruxc7704U=;EFmzlg3c8BIeaC+HWzUGHg=="
 ---

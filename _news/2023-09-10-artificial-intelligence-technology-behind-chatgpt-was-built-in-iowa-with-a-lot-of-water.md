@@ -2,29 +2,21 @@
 category: news
 title: "Artificial intelligence technology behind ChatGPT was built in Iowa -- with a lot of water"
 excerpt: "Microsoft made its first $1 billion investment in San Francisco-based OpenAI in 2019, more than two years before the startup introduced ChatGPT and sparked worldwide fascination with AI advancements. As part of the deal, the software giant would supply computing power needed to train the AI models."
-publishedDateTime: 2023-09-09T20:13:00Z
-originalUrl: "https://www.kcrg.com/2023/09/09/artificial-intelligence-technology-behind-chatgpt-was-built-iowa-with-lot-water/"
-webUrl: "https://www.kcrg.com/2023/09/09/artificial-intelligence-technology-behind-chatgpt-was-built-iowa-with-lot-water/"
-ampWebUrl: "https://www.kcrg.com/2023/09/09/artificial-intelligence-technology-behind-chatgpt-was-built-iowa-with-lot-water/?outputType=amp"
-cdnAmpWebUrl: "https://www-kcrg-com.cdn.ampproject.org/c/s/www.kcrg.com/2023/09/09/artificial-intelligence-technology-behind-chatgpt-was-built-iowa-with-lot-water/?outputType=amp"
+publishedDateTime: 2023-09-09T19:14:00Z
+originalUrl: "https://www.seattlepi.com/business/article/artificial-intelligence-technology-behind-chatgpt-18356707.php"
+webUrl: "https://www.seattlepi.com/business/article/artificial-intelligence-technology-behind-chatgpt-18356707.php"
 type: article
-quality: 49
+quality: 9
 heat: -1
 published: false
 
 provider:
-  name: ABC Kcrg  9
-  domain: kcrg.com
+  name: seattlepi.com
+  domain: seattlepi.com
 
 topics:
-  - Facebook AI
+  - AI in Autos
   - AI
-
-images:
-  - url: "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/cgv4oWmyVvNoS8WdJ0PzDvXBwd0=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/QASNNXALLVHMPL2U6GKJDORIZQ.JPG"
-    width: 800
-    height: 450
-    isCached: true
 
 related:
   - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
@@ -349,6 +341,6 @@ related:
       domain: scientificamerican.com
     quality: 4
 
-secured: "CwnYX6H7/s4mBVhY96VVH9C9z6eU0L+UJVKmD1lXZ0sQzgPAksDhX4256gry9MGq6Cez1KwcKSNds+1nSx1lc6hpxvsceytSf+Y+BGV1UNnxq8Xq4g88WGjHs5+bnLu62LcPLvSN/WiODAguTPUWuXMxHm6fkx+WuL4tXO7sCi7pMh926O0R+31e/t08JZQDS1YJykg29fy80RCkSBzS2ccYBfnjToUy6vv+OD4UYKuk9BJlbBSTh0WpsbbvQtEDlQh6dxVqCekosuV1Kfv+WLIIti7ZexH6gvBWNpcQJ17r0vWH56GUPJsVw9Yup7NBOe9r4TxD4l7lV39tWDTl0onWuL3wgETJlYcrBpb0lcA=;1vcx9xvYqO9Cjv2XK5Gobw=="
+secured: "tmEwhnPB51FPsv01frPErld25P/mnx7RQiAqwQAm5upcsW1vg1oa21lRbfEemuqCF34zXZK8vXQME/dQul1qEBaeFy1YMAq1cFXIeHi6oAagyR4oiPXOeGArH92BosHlaqGGcE/4dV4E2Po9ojUN2Daz0+bOir/jKVOQrNJFZUlmy69rVu1hVNL9KSyJ5zUZov7Hmvpbeej5DtxiyFxgOZrrBvc4+Bsl2cPt86Tf0O14fXF70OPpnlUW1/hKwZGxRtL4FtWK4yfWMslb+Dhrm5kuOK8M/cK0OdfVlSLuum06lQaCudnJrAih4dIoZIobM5Vyv4e1yhuzMcKObMf+yBdNX+putJ9as0gedpSjdbw=;ZF84BRh6jzU9KObAeFH0Sg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/data-is-essential-building-an-effective-g
 webUrl: "https://www.ibm.com/blog/data-is-essential-building-an-effective-generative-ai-marketing-strategy/"
 type: article
 quality: 115
-heat: 185
+heat: 175
 published: true
 
 provider:
@@ -48,22 +48,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64f881680386820459f9e2c7/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 642
-        isCached: true
-  - title: "What CTOs are learning from generative AI"
-    excerpt: "These tools use machine learning algorithms and natural language processing (NLP) to help developers automate some aspects of coding. “AI-generated coding enables developers to work on more creative and fulfilling tasks,” Rotar says. “By spending ..."
-    publishedDateTime: 2023-09-05T09:01:00Z
-    webUrl: "https://www.infoworld.com/article/3705048/what-ctos-are-learning-from-generative-ai.html"
-    ampWebUrl: "https://www.infoworld.com/article/3705048/what-ctos-are-learning-from-generative-ai.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705048/what-ctos-are-learning-from-generative-ai.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 93
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/08/shutterstock_767182213-100945458-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Generative AI Drugs Are Coming"
     excerpt: "The merging of deep, quality data and expertise with increasingly sophisticated AI capabilities has the potential to truly shift the future of medicine."

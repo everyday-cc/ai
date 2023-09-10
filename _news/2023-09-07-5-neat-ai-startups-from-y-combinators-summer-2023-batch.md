@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Rise In 'AI-Generated SEO Bait' Content Worries Y Combinator Co-Founder Advocate Paul Graham"
-    excerpt: "Paul Graham, the co-founder of startup accelerator Y Combinator, recently expressed his concerns over the role of generative artificial intelligence (AI) in degrading the quality of web content, Business Insider reported. Graham took to X, formerly known ..."
-    publishedDateTime: 2023-09-05T07:09:00Z
-    webUrl: "https://www.benzinga.com/news/23/09/34221320/rise-in-ai-generated-seo-bait-content-worries-y-combinator-co-founder-advocate-paul-graham"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34221320"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34221320"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 46
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/Artificial_Intelligence_AI_0.jpeg?width=1200&height=800&fit=crop"
-        width: 864
-        height: 576
-        isCached: true
 
 secured: "LYXRKPQBHU/O4uzHuuBmmvQMTgJL2ptlYCj4MwL26+YR6GNPXga8g0fZu+K4SQgQ2GBy/RXP9rL5p/xk+7sbMnTYiZ9AscDvit0it00zxuWcWG7+oSdf8jNh2YIR37OPHK/ILfFcnuOn0M5wELoMjpfTUkPJ5Nfk/7fp3elbfOYeWytyNaNUNVBtKYb3R4rU4LZKubcSfnZ1xTaSnSTylUs9JN2mcAWMC+bkyOODNkYSDyboZLiypaSf7ZcWNTZcTLSC8F+MF2htLvRo9R/hURALR9ORY2cUyzFF4AsvYnST3IL3xdY/VxRWWe53uYS9XJJ1BfctVxAuvBPInx59o6x6qYLBNqO/KA5o7a+7Its=;h8ANhoXTkzQIzSCTO+M6nQ=="
 ---

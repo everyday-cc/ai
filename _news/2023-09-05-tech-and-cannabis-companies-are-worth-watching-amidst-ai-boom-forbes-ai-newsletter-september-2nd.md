@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2023/09/05/tech-and-cannabis-compan
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/09/05/tech-and-cannabis-companies-are-worth-watching-amidst-ai-boomforbes-ai-newsletter-september-2nd/amp/"
 type: article
 quality: 73
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 801
     isCached: true
-
-related:
-  - title: "The 3 Best Long-Term Stocks to Buy Now: September 2023"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The United States economy added 187,000 new jobs last month, and this is"
-    publishedDateTime: 2023-09-05T22:52:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-long-term-stocks-to-buy-now-september-2023-1032606992"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
 
 secured: "Q3k96eAAn8GMUyMU8gDTjgX5sXAIypom0ZrYJR2UWiLaN0VKZOGC2Hrv2/6tQqStoHwJARP3fl4wyuvQNF9YJ8rTsPNuD7BzM+7kDmFtkSpZMuNI+Us9w32Ny+UqC96zSjEWbaP4YspjWnE5HYdumKgjj15UY11/Om3xgRFnjIJ6PW8tNq8LDHlOtFRX4YnWddpt3Ym13P1osmktsw8tYWJoZ4vCI1F1Qz2glooRSsxAs5iY2NIN0Lz5qeoXL9xbLGEbD3AR9M5TekMZ5YhO7NiUveQqGygJH1qfKriTFdd/qh/2U73/vqfLBHlsVpv1B9fX8FBIuKnAuH2mV7quLCUW/np5yb65EjzWRbufsXXxXNEK4tNa6zPA9RCPe/cRiv9yDjTyMWrsaz0fblcA93LW31N7cJUpUB0tBQqL9PbTSj0FbGn59cS2pbVGMnb/QW2Hc/KhHhExo3mtMJf4L10L7dxzSRNdaq0M2zYvDsWozH2pzLbJLBx8yaM+iceYhgJo5pn5Z6KJZv6+0oyl6Q==;3R/glFfiPEAZSwkEIB5f6g=="
 ---

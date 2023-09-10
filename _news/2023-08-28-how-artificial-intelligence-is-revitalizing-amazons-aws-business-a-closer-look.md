@@ -2,9 +2,9 @@
 category: news
 title: "How Artificial Intelligence Is Revitalizing Amazon's AWS Business: A Closer Look"
 excerpt: "Amazon Web Services (AWS) has been at the forefront of innovation since its inception. In recent years, the company has been doubling down on its efforts to integrate artificial intelligence (AI ..."
-publishedDateTime: 2023-08-27T18:37:00Z
-originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/19736510/"
-webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/19736510/"
+publishedDateTime: 2023-08-27T19:11:00Z
+originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/19736510/how-artificial-intelligence-is-revitalizing-amazons-aws-business-a-closer-look/"
+webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/19736510/how-artificial-intelligence-is-revitalizing-amazons-aws-business-a-closer-look/"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - AWS AI
   - AI
 
-secured: "EUlpHIjPYzchxY5viGvTyTGPQ5g1aHYycDIzcpmOZgYKDtFX/sHJETVLmQwy0Vw7ea5MmCYjYEvtDE3PzgCF3y6CZS8xftlE9awXDVlDmIlCfrVV+/0+TwFfqcSagwxaD+A0R7DhJQ80wyk3Is1p+UAKR7QflWVwwobD6gN07E4lXpqoJbOX1LuRYnNlDbbLWo4T50fELPE4DiOStM1qm7YNtPECSVwTJFCuP/c6z3Ir0Mek9Bkfh0+DUQm3YNYq1/Ycp4+vI5izoWvdCdEeHYjs2UP0siD60DPQPovrprszSfB5TM3VQF/BxHK96xkGlC7mfNI2atAojO0ror26SIwFAj6PWvhDVD/TGzOyZ4k=;2OmlhoZtblnvp4ytA0aCSA=="
+secured: "BBuo6Qonet4OdSr/2bdCIJCfMQ0nP7JZRMnG+bn4AMHIN9Ps3/YOIzD2v7ucxrOpujlxHxSlZj1qTvnIgTJzkkbPepoK7UKBGaR/QfZMUUncYser203SNg7VtUj2X3/pgu5vqXdEhfqcK2ek7zJD2FZyOh8IMJTY+m0iugnr1ZFsFRRelIXlNr5GlDHAl8AL7xGrviwLMaXPKDpIHJBkHqRKQaax5W29J3DHBo9Iqx10GJ9WDIo83GBIXknftC/q1YnkRnWl2hWB0iDz13p5WwOS9rfDLQ6X+1475SPaUuKx7kDxLedKc7PLSOsG5SGi+KMR8l2gsQtp5DqY6+iTKpuHi+3+pAf/d7MzvcR25VE=;YwqEsVghyVbcKrOTCPYInw=="
 ---
 

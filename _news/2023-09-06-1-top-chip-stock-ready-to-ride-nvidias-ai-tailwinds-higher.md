@@ -47,7 +47,7 @@ related:
   - title: "How savvy trillion-dollar chipmaker Nvidia is powering the AI goldrush"
     excerpt: "The US firm best known for its gaming tech has long been ahead of the curve in supplying the tools needed by tech developers"
     publishedDateTime: 2023-09-09T13:59:00Z
-    webUrl: "https://www.theguardian.com/technology/commentisfree/2023/sep/09/nvidia-processors-ai-artificial-intelligence-chip-goldrush-intel?ref=upstract.com"
+    webUrl: "https://www.theguardian.com/technology/commentisfree/2023/sep/09/nvidia-processors-ai-artificial-intelligence-chip-goldrush-intel"
     ampWebUrl: "https://amp.theguardian.com/technology/commentisfree/2023/sep/09/nvidia-processors-ai-artificial-intelligence-chip-goldrush-intel"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/commentisfree/2023/sep/09/nvidia-processors-ai-artificial-intelligence-chip-goldrush-intel"
     type: article

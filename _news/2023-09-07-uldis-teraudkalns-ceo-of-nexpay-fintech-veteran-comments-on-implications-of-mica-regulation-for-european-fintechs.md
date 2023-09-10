@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Fable Fintech and iPiD Announce Strategic Partnership at Global Fintech Fest, Mumbai"
-    excerpt: "As digital payments continue to gain ground, overshadowing traditional cash transactions, the demand for secure and efficient payment platforms is on the rise. The collaboration between iPiD and Fable Fintech comes at a pivotal moment, promising to address this demand."
-    publishedDateTime: 2023-09-06T11:57:00Z
-    webUrl: "https://www.businesswireindia.com/fable-fintech-and-ipid-announce-strategic-partnership-at-global-fintech-fest-mumbai-86255.html"
+  - title: "Fintech and the New Economy: Opportunities and Challenges for Businesses"
+    excerpt: "Modern FinTech companies provide innovative New Economy solutions that simplify our lives. The adoption of FinTech solutions still needs to be on the rise by a few traditional businesses. Most face innovation challenges and need the right talent to train their staff."
+    publishedDateTime: 2023-09-05T09:12:00Z
+    webUrl: "https://techbullion.com/fintech-and-the-new-economy-opportunities-and-challenges-for-businesses/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 32
+      name: Impacts
+      domain: techbullion.com
+    quality: 23
     images:
-      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_86255.jpg"
-        width: 1200
-        height: 630
+      - url: "https://techbullion.com/wp-content/uploads/2023/09/1-8-1000x600.png"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "DoDiLSdUByAPHy0iiY6iApzDK9No4atnE/SOJ2OGJ1GpUd6Q8iYLJIn8JwytMCOGyWwcbs53wggaF11cJTlb3NFHBJ2k4GVEZPsnS7W391rKuUiccxaLBJYZtXgMCtOohOcfvQeisYOAPVE/4Exaligo9hk+sDRAJOXsHeZcx8yP0IeZAtT4IY8aWlmaGFKGsqjd1ycG0lYls1pDCqOYgSMkYoOQU8D57tF+PH4BjZahphW3e/vx2DvdUcasWYuvMooEbQ9AyGfgl0iKJ4BRKSeFSM/0HJM91cHhuvMVykHOnHDPRadSdCXNjw8tyooaTXUdertAvIWBvBYm7eIBh0dEQQwFBHvOtemCzVOdDnHAs2Amf+vKeVDqeU4yS6tcvAedaOTwTmQO9D5OrORTm3GE+0MppGcflsH/GQ00DwdNkSNYiOjVUotuakKYf5J9oDmlWmQ43SX3/aRUA5kRfRGw0Vt5ux4QCWP4H+S1VdE1nknrYB1XNS0gQEYu7jmN2de/X/LMlrQprtOfayoXmQ==;WU1YLsDWyRRxupscWIlgww=="

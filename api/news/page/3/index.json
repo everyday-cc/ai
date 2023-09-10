@@ -2,6 +2,100 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-07-new-fintech-targets-ai-product-to-scale-sustainable-finance-in-debt-markets.md",
+      "title": "New fintech targets AI product to scale sustainable finance in debt markets",
+      "excerpt": "Company uses machine learning technology to render climate and sustainability credentials of bonds and issuers transparent and comparable, through a single access point",
+      "sourceUrl": null,
+      "webUrl": "https://www.ipe.com/news/new-fintech-targets-ai-product-to-scale-sustainable-finance-in-debt-markets/10068720.article",
+      "originalUrl": "https://www.ipe.com/news/new-fintech-targets-ai-product-to-scale-sustainable-finance-in-debt-markets/10068720.article",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d3ese01zxankcs.cloudfront.net/Pictures/1024x536/2/2/6/143226_aiapplicationsinfinancialservices_993008.jpg",
+          "width": 533,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-07T07:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IPE",
+        "domain": "ipe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-07-the-power-of-causal-models-in-moving-from-weak-to-strong-ai.md",
+      "title": "The Power Of Causal Models In Moving From Weak To Strong AI",
+      "excerpt": "Businesses need to employ a system thinking approach in which causal modeling is the foundation for AI, allowing them to continue to stay on the bleeding edge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/07/the-power-of-causal-models-in-moving-from-weak-to-strong-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/07/the-power-of-causal-models-in-moving-from-weak-to-strong-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/621f7b036e1c008edddcafb7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/07/the-power-of-causal-models-in-moving-from-weak-to-strong-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/07/the-power-of-causal-models-in-moving-from-weak-to-strong-ai/amp/",
+      "publishedDateTime": "2023-09-07T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-07-making-a-sales-call-otterai-wants-to-listen-summarize-and-help.md",
       "title": "Making a sales call? Otter.ai wants to listen, summarize, and help",
       "excerpt": "This week, the 7-year-old company debuted OtterPilot for Sales, an AI assistant that automatically listens to sales calls,",
@@ -302,7 +396,7 @@
       "originalUrl": "https://time.com/6311323/how-we-chose-time100-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1125,112 +1219,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-qualcomm-upgrades-and-expands-its-handheld-gaming-chip-lineup.md",
-      "title": "Qualcomm Upgrades And Expands Its Handheld Gaming Chip Lineup",
-      "excerpt": "Today, Microsoft and Nvidia rule the cloud gaming space ... Moor Insights & Strategy provides or has provided paid services to technology companies like all research and tech industry analyst firms. These services include research, analysis, advising ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/09/06/qualcomm-upgrades-and-expands-its-handheld-gaming-chip-lineup/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/09/06/qualcomm-upgrades-and-expands-its-handheld-gaming-chip-lineup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64f8db50a1eda175c6dcb95f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 724,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/09/06/qualcomm-upgrades-and-expands-its-handheld-gaming-chip-lineup/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/09/06/qualcomm-upgrades-and-expands-its-handheld-gaming-chip-lineup/amp/",
-      "publishedDateTime": "2023-09-06T13:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-compass-pathways-explores-ai-powered-predictive-model-on-psilocybin-therapy-for-depression.md",
-      "title": "Compass Pathways Explores AI-Powered Predictive Model On Psilocybin Therapy For Depression",
-      "excerpt": "COMPASS Pathways plc (NASDAQ: CMPS) shared the results from research on the potential of its novel AI technologies to support its proprietary COM",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/compass-pathways-explores-ai-powered-predictive-model-on-psilocybin-therapy-for-depression-1032610657",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/compass-pathways-explores-ai-powered-predictive-model-on-psilocybin-therapy-for-depression-1032610657",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/09/06/advanced_technology_clinic_dmt_psilocybin_mdma_bacsica_aiyoshi597_gisele_yashar_and_metamorworks_on_shutterstock.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-06T13:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

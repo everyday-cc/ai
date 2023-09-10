@@ -55,20 +55,6 @@ related:
         width: 375
         height: 251
         isCached: true
-  - title: "Microsoft Launches New Bing Likely Powered by OpenAI’s GPT-4 A.I – The New York Times"
-    excerpt: "Advertisement Supported by Amid the tech industry’s worst slump in decades, industry leaders are predicting an era built on new chatbots and other types of artificial intelligen"
-    publishedDateTime: 2023-09-05T07:54:00Z
-    webUrl: "https://www.inferse.com/704049/microsoft-launches-new-bing-likely-powered-by-openais-gpt-4-a-i-the-new-york-times/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 49
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/09/wp-header-logo-1712.png"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Abu Dhabi’s G42, Microsoft to offer joint sovereign cloud and AI capabilities"
     excerpt: "Microsoft’s sovereign cloud offering will allow UAE public sector and regulated industries to use new platform capabilities for securing sensitive data, providing access to the latest cloud and AI features available on Azure public cloud and helping them ..."
     publishedDateTime: 2023-09-06T12:07:00Z

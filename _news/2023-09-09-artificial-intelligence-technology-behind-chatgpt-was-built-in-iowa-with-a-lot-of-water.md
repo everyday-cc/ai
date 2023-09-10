@@ -164,22 +164,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "Artificial intelligence technology behind ChatGPT was built in Iowa -- with a lot of water"
-    excerpt: "Microsoft made its first $1 billion investment in San Francisco-based OpenAI in 2019, more than two years before the startup introduced ChatGPT and sparked worldwide fascination with AI advancements. As part of the deal, the software giant would supply computing power needed to train the AI models."
-    publishedDateTime: 2023-09-09T20:13:00Z
-    webUrl: "https://www.kcrg.com/2023/09/09/artificial-intelligence-technology-behind-chatgpt-was-built-iowa-with-lot-water/"
-    ampWebUrl: "https://www.kcrg.com/2023/09/09/artificial-intelligence-technology-behind-chatgpt-was-built-iowa-with-lot-water/?outputType=amp"
-    cdnAmpWebUrl: "https://www-kcrg-com.cdn.ampproject.org/c/s/www.kcrg.com/2023/09/09/artificial-intelligence-technology-behind-chatgpt-was-built-iowa-with-lot-water/?outputType=amp"
-    type: article
-    provider:
-      name: ABC Kcrg  9
-      domain: kcrg.com
-    quality: 49
-    images:
-      - url: "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/cgv4oWmyVvNoS8WdJ0PzDvXBwd0=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/QASNNXALLVHMPL2U6GKJDORIZQ.JPG"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Morgan Stanley to Launch AI Chatbot to Woo Wealthy"
     excerpt: "JPMorgan Chase named Teresa Heitsenrether its chief data and analytics officer in June to lead AI adoption across the largest U.S. lender. Rival Bank of America's virtual assistant, Erica, has had more than a billion interactions with clients since it was introduced in 2018."
     publishedDateTime: 2023-09-07T10:09:00Z
@@ -337,6 +321,15 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 15
+  - title: "Artificial intelligence technology behind ChatGPT was built in Iowa -- with a lot of water"
+    excerpt: "Microsoft made its first $1 billion investment in San Francisco-based OpenAI in 2019, more than two years before the startup introduced ChatGPT and sparked worldwide fascination with AI advancements. As part of the deal, the software giant would supply computing power needed to train the AI models."
+    publishedDateTime: 2023-09-09T19:14:00Z
+    webUrl: "https://www.seattlepi.com/business/article/artificial-intelligence-technology-behind-chatgpt-18356707.php"
+    type: article
+    provider:
+      name: seattlepi.com
+      domain: seattlepi.com
+    quality: 9
   - title: "What Does It ‘Feel’ Like to Be a Chatbot?"
     excerpt: "For an AI to run amok, it doesn’t matter one iota whether it feels like anything. All that matters is that it has a goal that is not aligned with humanity’s long-term well-being. Whether or not the AI knows what it is trying to do,"
     publishedDateTime: 2023-09-08T13:31:00Z

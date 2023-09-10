@@ -3,8 +3,8 @@ category: news
 title: "How savvy trillion-dollar chipmaker Nvidia is powering the AI goldrush"
 excerpt: "The US firm best known for its gaming tech has long been ahead of the curve in supplying the tools needed by tech developers"
 publishedDateTime: 2023-09-09T13:59:00Z
-originalUrl: "https://www.theguardian.com/technology/commentisfree/2023/sep/09/nvidia-processors-ai-artificial-intelligence-chip-goldrush-intel?ref=upstract.com"
-webUrl: "https://www.theguardian.com/technology/commentisfree/2023/sep/09/nvidia-processors-ai-artificial-intelligence-chip-goldrush-intel?ref=upstract.com"
+originalUrl: "https://www.theguardian.com/technology/commentisfree/2023/sep/09/nvidia-processors-ai-artificial-intelligence-chip-goldrush-intel"
+webUrl: "https://www.theguardian.com/technology/commentisfree/2023/sep/09/nvidia-processors-ai-artificial-intelligence-chip-goldrush-intel"
 ampWebUrl: "https://amp.theguardian.com/technology/commentisfree/2023/sep/09/nvidia-processors-ai-artificial-intelligence-chip-goldrush-intel"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/commentisfree/2023/sep/09/nvidia-processors-ai-artificial-intelligence-chip-goldrush-intel"
 type: article
@@ -226,6 +226,6 @@ related:
       domain: livemint.com
     quality: 16
 
-secured: "IAe1CciR9mugVeqllASvxEtbKjnjmULhTk5tTIRVnamJRL/BsJ2YV3e8+pYqkOK1aZgP0VHvu4S+9kExPku3GyGDVYTdQ2bHFTk5lNpCe0jUXDxzHVxjpscAmRcSaq+J8NzCP+Y7DYyadQecgDNV1W1J1DO3xdijb1iB9UUV05YBo/PJ0zTqR/TL0mbthhzTEtsb3bk8wI6yu7xU45a9ag5hRzTpwEpiy0BQmNzhRxcUvqHdxIa9SbtlRVyzh1xiGlndlvgR8j16zYa7tqYe3ItPDBlhihVgJUFioa/nB7GXo8N7wcWCU0t5/U7rN8HBAiCsUVwhRpv6O2qmujbHxTU3B0COL4XSr5vNqmhKcWb5w3w9PFSU/xXkSAqTqHA73z6bCA84VBEqUjc5JlzfG4PN6hphY+zXCQ+bSOCBL3YUxnHyU0tjq3YsB0rX3Ua8pNwpZqsmbvbV1FLPBYLIe4iLCVucVFPRQ3V/L2Z2TP1iI/p+3d9j7kpSQgeRor6CSAG3ccojWUaC1Gd7i0LseQ==;Ox4bdxhYB1Vp2+Sm7+bZoQ=="
+secured: "qGwu3xta/W0w7bhG4XtEYg7etx5QbByB9BzUuDBXMe0dzgFdoVwbH6Fxo/b+1ByoIRETh0PGPZ/LmTHdhxtPKiAiOapjMR18fLS6INMwmdsZvGZBiBo60QvKw++Q47aPjZupTOQ30jGVGiX1P4BxBRKnebD5VIy0mdY8uj1CQsz/jW6z22KIIWqs1sqk5TxR5droGgT1gEcFEc57T9HTApgFSgqsRsTGznINeDP8zcQwk0+XKbpMKSTN1AJph9MJN2p7/jqg4MkkXO/njQnaMDqxqSizasn7BI/F+8Rz/HZqtE2yBrIPsw5toJFSmXPW8M+hmK5LwHTv4u9jZfpQ2OARPTZTG0g2wcNQZyxeX5o=;z+DyqxUlswvSOoGTkg4QZQ=="
 ---
 

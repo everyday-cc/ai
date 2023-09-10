@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-unveils-new-features-coming-to-
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-unveils-new-features-coming-to-outlook-and-other-microsoft-365-services/"
 type: article
 quality: 84
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://itwire.com/media/k2/items/cache/ee5f0279f75ffcb53cda826bd0cbceea_M.jpg"
         width: 375
         height: 251
-        isCached: true
-  - title: "Microsoft Launches New Bing Likely Powered by OpenAI’s GPT-4 A.I – The New York Times"
-    excerpt: "Advertisement Supported by Amid the tech industry’s worst slump in decades, industry leaders are predicting an era built on new chatbots and other types of artificial intelligen"
-    publishedDateTime: 2023-09-05T07:54:00Z
-    webUrl: "https://www.inferse.com/704049/microsoft-launches-new-bing-likely-powered-by-openais-gpt-4-a-i-the-new-york-times/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 49
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/09/wp-header-logo-1712.png"
-        width: 1050
-        height: 550
         isCached: true
   - title: "Apparently, Microsoft and Azure have made an enemy of the Dutch farming community"
     excerpt: "Skies aren't always blue for Azure. An interesting report from Wired recently detailed the latest community Microsoft seems to have upset, and it's somewhat unexpected."

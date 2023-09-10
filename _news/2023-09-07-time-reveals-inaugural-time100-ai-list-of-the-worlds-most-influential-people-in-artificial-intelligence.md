@@ -37,6 +37,20 @@ related:
         width: 2363
         height: 3150
         isCached: true
+  - title: "Top Influential Figures In Artificial Intelligence: From Elon Musk To Sam Altman, Check Time100 List"
+    excerpt: "The TIME magazine on 7 September released their inaugural TIME100 AI list which showcases 100 most influential people in artificial intelligence (A"
+    publishedDateTime: 2023-09-10T01:45:00Z
+    webUrl: "https://menafn.com/1107037089/Top-Influential-Figures-In-Artificial-Intelligence-From-Elon-Musk-To-Sam-Altman-Check-Time100-List"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 22
+    images:
+      - url: "https://menafn.com/updates/pr/2023-09/09/LM_0f87dimage_story.JPG"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Woebot Health Founder, Alison Darcy, Named to 2023 TIME100 AI List, Recognizing the 100 Most Influential Individuals Advancing Artificial Intelligence"
     excerpt: "Woebot Health is proud to announce that its Founder and President, Dr. Alison Darcy, has been named to the prestigious 2023 TIME100 AI list, an honor that recognizes the 100 most influential individuals who are advancing conversations about how Artificial Intelligence is reshaping the world. The announcement was made by TIME Magazine today."
     publishedDateTime: 2023-09-07T13:13:00Z
