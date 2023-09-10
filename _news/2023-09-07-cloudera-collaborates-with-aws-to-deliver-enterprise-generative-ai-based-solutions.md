@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-clo
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-cloudera-collaborates-with-aws-to-deliver-enterprise-generative-ai-based-solutions-3235922/lite/"
 type: article
 quality: 68
-heat: 138
+heat: 118
 published: true
 
 provider:
@@ -99,24 +99,6 @@ related:
         width: 437
         height: 563
         isCached: true
-  - title: "AVIA’s National Generative AI Collaborative Announces New Experts, Enhanced Health System Participation"
-    excerpt: "The Generative AI Strategic Collaborative reveals a slate of 10 clinical, ethics, technology, and regulatory experts for its national consortium"
-    publishedDateTime: 2023-09-07T16:04:00Z
-    webUrl: "https://www.newsobserver.com/press-releases/article279063044.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 3
-  - title: "AVIA’s National Generative AI Collaborative Announces New Experts, Enhanced Health System Participation"
-    excerpt: "The Generative AI Strategic Collaborative reveals a slate of 10 clinical, ethics, technology, and regulatory experts for its national consortium"
-    publishedDateTime: 2023-09-07T17:04:00Z
-    webUrl: "https://www.miamiherald.com/press-releases/article279063044.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 3
 
 secured: "BnpdeHiBxXS4MWjzrnIINLZLI59JvGSIoDnzigMhydQ1l3RIAU6hnkuvIMffsRYtAnDIUIQwSDotIpTW3ODBzIhX4Ob508D144xWbq/u+Hl3GAYPPOJ/DPdDhSW7kciIuWMR498sDpInan0W1EWXFVI5NqWoGzsKTseA02CVMlbOpzJ5mrnA+x67TtmmWpXDNFn/XTZbSZqKx4wywqudjVIEnVriVjsbOAur9X/J3dTxZILJw2awquRV6ym+0084zrkyqLl9TMD3XhEI2uhGPsbXTjpnmMiZz1pp6BssnbOI+7YRMt/jqTL8OcJGbSss1P54hREN4SadPBVXVHX4Ry5FEvJaFNb5b4mUqOW/fBQxTk/jc0TFC3qfBAsAA1JRnxtSkgXVZuhZKFIJkv0HTY6AO79QMF61rclSnHWndKmVc349IDZeQ/+BLSJUjfnrGrXkq/xKrHLSbZyVGIIUwYqxUaKT6I2irVCPlDim8/ewB69PdavYCsv3X9N84uXoEF4pwxKFVbZtNjSSyFl0Hg==;0gSL7AovexJ5CNsGJZujSg=="
 ---

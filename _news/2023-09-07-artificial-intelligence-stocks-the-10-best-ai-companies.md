@@ -26,19 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "Wall Street analyst sees 3 companies as next $3 trillion stocks due to AI. Here's our take"
-    excerpt: "Amazon, Microsoft and Alphabet are advancing their generative AI capabilities, which should tremendously accelerate their future growth."
-    publishedDateTime: 2023-09-07T18:30:00Z
-    webUrl: "https://www.cnbc.com/2023/09/07/alphabet-amazon-microsoft-could-be-next-3-trillion-stocks-due-to-ai-says-analyst.html"
+  - title: "Just how much is the AI discourse helping stocks? An analyst scoured earnings calls for clues"
+    excerpt: "More S&P 500 index companies during the second quarter mentioned \"AI\" than at any point since at least 2010, according to an analysis published on Friday."
+    publishedDateTime: 2023-09-10T14:30:00Z
+    webUrl: "https://www.marketwatch.com/story/just-how-much-is-the-ai-discourse-helping-stocks-an-analyst-scoured-earnings-calls-for-clues-8c4a3c04"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/just-how-much-is-the-ai-discourse-helping-stocks-an-analyst-scoured-earnings-calls-for-clues-8c4a3c04"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/just-how-much-is-the-ai-discourse-helping-stocks-an-analyst-scoured-earnings-calls-for-clues-8c4a3c04"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 57
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 76
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107200349-16775183662023-02-27t170818z_1823284669_rc2rjz9gd7u8_rtrmadp_0_tech-conference-mwc.jpeg?v=1694118649&w=1920&h=1080"
-        width: 1920
-        height: 1080
+      - url: "https://images.mktw.net/im-849154/social"
+        width: 1279
+        height: 640
+        isCached: true
+  - title: "Analyst Ratings for C3.ai"
+    excerpt: "Within the last quarter, C3.ai (NYSE:AI) has observed the following analyst ratings: According to 5 analyst offering 12-month price targets in the last 3 months, C3.ai has an average price target of $35.8 with a high of $42.00 and a low of $28.00."
+    publishedDateTime: 2023-09-08T16:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/analyst-ratings-for-c3-ai-1032616827"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/analyst_ratings_image_0.png"
+        width: 1024
+        height: 768
         isCached: true
 
 secured: "RpgURORdsT9GVApXWkPrIyb3sdcPbCfuYI0BXpnYyb8KHbB6kcs6lYmKTU5pYOnv0HXDr6vvOJmGuHzLL5woc3HPe04LQWTtXeedJb6NXdq3hzWqsIQ87FbQOpGOefQxHXVbytJzdsPDRMdYsc8SF2HFFmooDM0uOQpSKhXGPl9ee4SIj+Xk5dcX1v3oIild0lyROLGw9ULUKOArJZnZoshxvho+QkkCq8lQdmJ+4tGnyXsdGGMykZLDUx4kKpnzkJbI5gVbbTb4TBTPhnG1we7GYHA0ACSyC4xDSalH9tjbnD/zijBp78YyMvvmL2T+osCP8mxQj1FrLAtIfOh1+cEscl/ZAbtHHHvrP/lm+iE=;QVMa9JXEUrp9rJXyLACWMQ=="

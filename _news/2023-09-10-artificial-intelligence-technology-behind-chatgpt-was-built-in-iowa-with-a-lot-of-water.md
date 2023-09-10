@@ -382,6 +382,6 @@ related:
       domain: scientificamerican.com
     quality: 4
 
-secured: "ZIUmKmWyguR4fWfAuIWPLeZW/rHTzjeAvNBwq6jIYUPxDVBiMU4uPPPXMwjgeF2eeeJz16781P3qSdGkMCwHB6/vYm25Gd1kdVGJXeJPs0BAFBTDa6mrj/0D+HmIZkjxQUgIkomRpXjtpMsRrIjJyUR4F5LlmesODKez3du0ACI9SgCWxdROT7qvfx0pKzho7moRG933R732U5pJwpk1iVWvk4k//OmoUKqFu4vUlLXPYZSVr3aHTpVFAfhXmzSGR/arYnKT3eLvFTKBv0zh/azb3eSrKiJff8wb5FlLU7caB2PNx/uBB9pK5JJO//wXO4G1BDo91fiBb5zcNPMKG3wVMxD+Xp1imEE76zjluec=;a2ZoxVBGS6AhvVib+NxPQA=="
+secured: "G8+Tb6PM2fs57tCi+y323sbQiRsMERDifoXvFhDz/0HjplsFI59QJyoW7W+JrGg+0U06Jr01fr2e4iHBMRT12pYI6FCS/kihZrxW/77plShOqPH8gakBGex5CiBTC1XgFGD/1lGnvSuomcXo4aORlzopf4R7alnXewn5z8b3nyGceyM3quuOQAsVejka9cMut82zO8vPNbV10J/+JGtadWo9BkaF6fzLxRv0OSuAQ2++SPcFuMi+6/1ar2J5pMnsuczYYC4NpK9hHPwPBB4VDARgSz/hm6ICAK3/59GJeav9e0akofnw/PO0QvhKLrAjph0Bf5cZQFeVxyDp7CsRAsF3tDYmipaM8NCU+Hl0N60=;7tdfGC0pJSU0rYARfQMEfw=="
 ---
 

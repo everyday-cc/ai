@@ -36,6 +36,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Apple Spending Millions of Dollars a Day on Conversational AI"
+    excerpt: "according to a new report from The Information that highlights Apple's AI and machine learning research. Though Apple's AI chief John Giannandrea is said to be skeptical of AI chatbots, he established a team that is working on conversational AI four years ago."
+    publishedDateTime: 2023-09-06T18:30:00Z
+    webUrl: "https://www.macrumors.com/2023/09/06/apple-conversational-ai-spending/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 19
 
 secured: "GNOiLWdN2fLACH24pwvaLrgBrBAUtv1MHCbOBUkNKFh0qjqKrZJb3W62GQjqHjEYb/ynQr2DnBMQatoaip3vlh07GUZJFVaz/rFrkrCoptu2hoR6SKj5v8RwQMI8kPgySlR7SpeS6UP7nb/Z4JnCZjlwy9SlU5x0wdwAk9cOi8wklipXB0fxVitUpy0bh6dmr6V2wvZXeJ83Q47L2hrjRYqXkQdD421j/bh+ZWLf8LtkugzL/NvXXplTYldk3Z5J7FSsSPyNUdjj0jWQ4HZWteL68zt79kKc83LAjfQw2ql1YR4mpvOnfMjWVTVPqyb81TH3/gkfHKcTsWd+1DkgpIDuOYe8BA1VWp3pU34Z/YHAoIdfbh/IEmWZ5I49DGzJjdNSjJEaN+VhUzlVZc5e7eR67ASGLqZ8ZmXGcbuq5ByeFWfKLaCTxBVNn61PJ3qzZFxsBCzOQ21f5/+GcaWlrK5OeRWZRAt50DTmuaHc1IMp8iiUDCbeDETDW6UUj9r70nJFxIE2IfyPQgQA50sTpg==;mGmJ/vrjT41wvOSmi1pMDA=="
 ---

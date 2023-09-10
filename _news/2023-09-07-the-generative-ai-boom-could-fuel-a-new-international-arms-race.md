@@ -7,8 +7,8 @@ originalUrl: "https://www.wired.com/story/fast-forward-generative-ai-could-fuel-
 webUrl: "https://www.wired.com/story/fast-forward-generative-ai-could-fuel-a-new-international-arms-race/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: Wired
@@ -29,38 +29,33 @@ images:
     isCached: true
 
 related:
-  - title: "Top 10 Conversational AI Platforms 2023"
-    excerpt: "$0.00075 per text request Built on deep learning, machine learning, and natural language processing (NLP) models, the IBM Watson Assistant conversational AI platform enables your teams to build AI-powered voice agents and chatbots that deliver automated ..."
-    publishedDateTime: 2023-09-05T22:15:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/conversational-ai-platforms/"
+  - title: "C3 AI Releases New C3 Generative AI Suite"
+    excerpt: "Initially released in March 2023, C3 Generative AI has been well received by the market with projects now in place at Georgia-Pacific, Flint Hills Resources, Nucor, Pantaleon, Con Edison, the U.S. Missile Defense Agency, and a U.S. intelligence agency."
+    publishedDateTime: 2023-09-06T21:55:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/09/06/9876233.htm"
     type: article
     provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 71
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2023/08/ew08292023-conversational-ai-platforms.png"
-        width: 1400
-        height: 900
-        isCached: true
-  - title: "Apple Spending Millions of Dollars a Day on Conversational AI"
-    excerpt: "according to a new report from The Information that highlights Apple's AI and machine learning research. Though Apple's AI chief John Giannandrea is said to be skeptical of AI chatbots, he established a team that is working on conversational AI four years ago."
-    publishedDateTime: 2023-09-06T18:30:00Z
-    webUrl: "https://www.macrumors.com/2023/09/06/apple-conversational-ai-spending/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 19
-  - title: "Code Conversion and Documentation Through Artificial Intelligence"
-    excerpt: "Emerson's generative AI tool Revamp helps users automate system configuration. With artificial intelligence (AI) taking a larger role in the workforce, tools like Emerson’s cloud-based Revamp software are more important than ever. Generative AI can ..."
-    publishedDateTime: 2023-09-06T19:38:00Z
-    webUrl: "https://www.automationworld.com/leaders/analysis-software/article/33011131/code-conversion-and-documentation-through-artificial-intelligence"
+  - title: "AVIA’s National Generative AI Collaborative Announces New Experts, Enhanced Health System Participation"
+    excerpt: "The Generative AI Strategic Collaborative reveals a slate of 10 clinical, ethics, technology, and regulatory experts for its national consortium"
+    publishedDateTime: 2023-09-07T16:04:00Z
+    webUrl: "https://www.newsobserver.com/press-releases/article279063044.html"
     type: article
     provider:
-      name: Automation World
-      domain: automationworld.com
-    quality: 17
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 3
+  - title: "AVIA’s National Generative AI Collaborative Announces New Experts, Enhanced Health System Participation"
+    excerpt: "The Generative AI Strategic Collaborative reveals a slate of 10 clinical, ethics, technology, and regulatory experts for its national consortium"
+    publishedDateTime: 2023-09-07T17:04:00Z
+    webUrl: "https://www.miamiherald.com/press-releases/article279063044.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 3
 
 secured: "JbJvzmZGra/xjGBWSZu04i26mlHbOeVXH530b0OOYeuktXWYPUe6PVrfAnBfi0diGbpp57h8xZVIaRz6jkm/HruhkhnuUITPEz78FfAYtsUFcL2X1Zndi0fNfxhi7xcT6VP0grklVZsDwFAjEB66z8Jo6n+60x2uQHcSchE+OKWyPxFkxFRTDSZUsvOdLZ+g7hlriW5//HWkUigwrD1RNOYHzswFGw0X419cO6GG5fVdbdv5R/38Wv2wA+kB1xtPVGo+vbLwio2oOjhl/Odc8ougSyGvmmwB+b4RlpEFt6EoAMqO5Dey0+rJFreQOZd/kJnSZ2x59osmObs4brwXiTXdKfkH9I56chps//LUNohSPnDI1IbXsg5oi6IitDPFZcnEsJahico7ddLT4HItAzPnDLjXQoBG75MKej9OlMKcEqzfq+ugUY3DOxBBN533HEvho3aUz3CIdGtNb3fkUkaJydVEL55xhFzxJPdreBrQV5Amh4VBM+bgNg/nHK2eYOSxNmlLfKsJqndX/XRWpA==;tLEnNjOX7dH8IRBTDlERxA=="
 ---

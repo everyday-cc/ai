@@ -124,6 +124,15 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 17
+  - title: "Gathering the news for the AI-powered future"
+    excerpt: "The bottom line: AI-generated news content is coming. The death toll from the powerful earthquake that hit Morocco late Friday surpassed 2,000 on Saturday as rescue workers raced to find survivors, state media reported, citing the country's Interior Ministry."
+    publishedDateTime: 2023-09-10T13:02:00Z
+    webUrl: "https://www.axios.com/2023/09/10/infobot-ai-news"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 17
 
 secured: "ARAUssx8yiy5g5U7orrRe4y6idwIcSdbLlGQTqFIbH9j/FAzDaTc3OjQ6Nr+AlojabC2ZteCVO/vjTSl+U8Nke7cDRR2LuXsR+aw/170j6M1GA/uGSkrEwlK2PtQd7NeKmcuEjML6cv4ZGTmH/9wXzeQ4d1efVGn7/FHnsPZ2BmjX8Ym9K6UKf6reQUvRVkNcmr3cHKa8qknfFeRo4IvcSOLoQaidr5JFzbP7HOgdm4gVE+2czCdCtyXOiVrjpZcDi7PoByVW/GYrfc/BGNOiJhJPAhPmfv734RdbO6y9aDThLcPX+BrPAhtnpIS/RbeSAQeg+yBp40hVC05DDbJGN7JyrllIqvQldu2Ed7X8JfODWmzbGKdOZkPcPfVUkO2MbWZG4saz4rmnptyJU1/WmRS1whqjAdheEygxdrX8v+jMMSpvqukYVEFNuSNGoq5nurLGPFhKYox7FClffCpOAQ432OvBpJrejAGPlRNrhW+aF46Kvski7SZbmtmkwo7N2TkC+IowQaFApHmM7l+8w==;Vek0zobz/OYht111kogmwg=="
 ---

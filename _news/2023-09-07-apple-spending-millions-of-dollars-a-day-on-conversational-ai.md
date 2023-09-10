@@ -19,43 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "Top 10 Conversational AI Platforms 2023"
-    excerpt: "$0.00075 per text request Built on deep learning, machine learning, and natural language processing (NLP) models, the IBM Watson Assistant conversational AI platform enables your teams to build AI-powered voice agents and chatbots that deliver automated ..."
-    publishedDateTime: 2023-09-05T22:15:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/conversational-ai-platforms/"
+  - title: "The IRS is going after 1,600 millionaires who owe hundreds of millions in overdue taxes, and it's using AI to catch them"
+    excerpt: "\"If you pay your taxes on time it should be particularly frustrating when you see that wealthy filers are not,\" IRS Commissioner Daniel Werfel said."
+    publishedDateTime: 2023-09-08T13:52:00Z
+    webUrl: "https://www.businessinsider.com/irs-going-after-millionaires-big-business-partnerships-for-overdue-taxes-2023-9"
+    ampWebUrl: "https://www.businessinsider.com/irs-going-after-millionaires-big-business-partnerships-for-overdue-taxes-2023-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/irs-going-after-millionaires-big-business-partnerships-for-overdue-taxes-2023-9?amp"
     type: article
     provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 71
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
     images:
-      - url: "https://www.eweek.com/wp-content/uploads/2023/08/ew08292023-conversational-ai-platforms.png"
-        width: 1400
-        height: 900
+      - url: "https://i.insider.com/64fb23183d3923001976a9c0?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "The Generative AI Boom Could Fuel a New International Arms Race"
-    excerpt: "Two new studies of the potential of text- and image-generating algorithms suggest they could add scary new scale and power to online disinformation campaigns."
-    publishedDateTime: 2023-09-07T09:00:00Z
-    webUrl: "https://www.wired.com/story/fast-forward-generative-ai-could-fuel-a-new-international-arms-race/"
+  - title: "IRS deploys artificial intelligence to catch tax evasion"
+    excerpt: "The tax agency is opening examinations into large hedge funds, private equity groups, real estate investors and law firms"
+    publishedDateTime: 2023-09-09T20:00:00Z
+    webUrl: "https://www.seattletimes.com/business/irs-deploys-artificial-intelligence-to-catch-tax-evasion/"
+    ampWebUrl: "https://www.seattletimes.com/business/irs-deploys-artificial-intelligence-to-catch-tax-evasion/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/irs-deploys-artificial-intelligence-to-catch-tax-evasion/?amp=1"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
-    images:
-      - url: "https://media.wired.com/photos/64f8fe9c2af6d929ce8aee78/191:100/w_1280,c_limit/AI-Arms-Race-Fast-Forward-Culture-1368514518.jpg"
-        width: 1280
-        height: 670
-        isCached: true
-  - title: "Code Conversion and Documentation Through Artificial Intelligence"
-    excerpt: "Emerson's generative AI tool Revamp helps users automate system configuration. With artificial intelligence (AI) taking a larger role in the workforce, tools like Emerson’s cloud-based Revamp software are more important than ever. Generative AI can ..."
-    publishedDateTime: 2023-09-06T19:38:00Z
-    webUrl: "https://www.automationworld.com/leaders/analysis-software/article/33011131/code-conversion-and-documentation-through-artificial-intelligence"
-    type: article
-    provider:
-      name: Automation World
-      domain: automationworld.com
-    quality: 17
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
 
 secured: "5RMcN5wHNXllsB5YcGvZFlJNnEi67ywFOiki30iZiS1Q5GihJHEE4LOXcUdpesjY69Dv2b2WpY/fvNhKF0Pa3w3iUd65HaYfU8Sr8EHSFg2GFc2D7UdJCESORSXn9mPnwWhBgZhL6dylFQLDi0DG0c8mA6NB5Q2C6FsslrnBRaXADiYvn0DG/X5rV1qQ7qFoQ2plV4JjspmXO5b2jmVqzre5q/LmGyuwYpDmTrgtHkYkNhFKCbauv7Uu4vFpEcbMkiW4dJ2sNbl/YkztRXKuOb1u78CzVrCXsDeI5foTw2jy+NkceSrqO5JklqgP+5EaNoE2QKaTzk9ru6t9wYx4g3tOFUkLg90lKMh6YslU8qHVPz/c87VcBftWQ592yf8BdDV57Xl+gPQd3fF3IV4xMbix6RMQASD+2VZ8hJxAZUu3OxQupj4t97+8iPigSJEF3jyx3GosCv6jo5zErRNyf0T7IrVTb07VXsoOIYhMMkfYvutBVBIHQD31fxdxANk6+vbbTcbb0kwIS9JSsQGiFw==;SebXqods1p/H3oDICXpl8w=="
 ---

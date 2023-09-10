@@ -20,19 +20,6 @@ topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "Noel Pearson’s path to Yes vote for Indigenous voice to parliament: respect and responsibility"
-    excerpt: "Indigenous leader Noel Pearson has reframed the strategy of the faltering Yes campaign, declaring “a secret weapon” that could yet win the vote on the voice over the next six weeks."
-    publishedDateTime: 2023-09-05T21:37:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/indigenous/noel-pearsons-path-to-yes-vote-for-indigenous-voice-to-parliament-respect-and-responsibility/news-story/5f688fe801458213d17f6071a522ee31"
-    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/noel-pearsons-path-to-yes-vote-for-indigenous-voice-to-parliament-respect-and-responsibility/news-story/5f688fe801458213d17f6071a522ee31?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/noel-pearsons-path-to-yes-vote-for-indigenous-voice-to-parliament-respect-and-responsibility/news-story/5f688fe801458213d17f6071a522ee31?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 12
-
 secured: "Uc2IdsRq8ON32kjEZTVovSgf0N54fANHBdfCViecMLpJ3ZZNqGLmF9RhfbECE1r7cYQ+E23utIkmu7sqbY697gY3UmBnCSzACL0zIfqyk77a+YFy8zaiKKlW2IXZqMSeW53ExmgPsWXgKND2OHNm0aumkhXRVUS/OBJPllL4DMCiBDzZuX7vkc7SHQ1fqyLmigV2+nUhQQZoQqQ/Go3rUZ3oO4Zl4kacwm5+TEZt6x9mx/vBiCsjsWcpcTyJV3v4qpz9RjREJ7KrglI10K8WSISZWCLgFAk0nLvgVC7bR3MwiM1g9L1WPuteqDu4Isl5zg6hYgz502+CBWBXo33ObuqOWn5opMaGqnfm19EkaYQLiCiiJGBWx2YXkN7l/BvhSEog+59DNscDxVp4tY9vzHzDJXPZXzI4R6459RIHOljWb7sZ0NbCK/AKLhLvf4mKbIwCUId4+9rAtr9Uf62RdZOQSyHtZeV3iMZyzrYrNCEhmwlyDA2bESU4YPXcVuqZn4tOTK/BmHIJJ7G8xHyo3Q==;bUkKCQGvUV733AWZBqVMSQ=="
 ---
 

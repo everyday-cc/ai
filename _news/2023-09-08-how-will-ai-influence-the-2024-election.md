@@ -39,15 +39,6 @@ related:
         width: 542
         height: 384
         isCached: true
-  - title: "Inflection AI co-founder Mustafa Suleyman: ‘Ban the use of AI in elections–right now’"
-    excerpt: "Free and fair elections are the foundation of American society–and next year’s are going to be the first of the generative AI era."
-    publishedDateTime: 2023-09-05T19:33:00Z
-    webUrl: "https://www.aol.com/finance/inflection-ai-co-founder-mustafa-163416358.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 10
 
 secured: "SMUVHZuK5Gzg6IoG7S1MOPxwo/ureB7zj1FE8jpJO2d8w9X4q0C0qr4s2ac6ZSc+dan9ReXNq2vjK5CsAZC8iOSnYjfCh8t1xcYqSqY1xD0uePKAAfdjR8lozNPBoUbKcw6cMPzhbUqziEGzFBsnILzFpDppCEc7sNcTGHONkJnYZKwdu4y7vrzDlfV8WW9EqoVrnmQOgNXzEhpUOw+baICSw2KqwtfUI+O6nYB9DY9wKvwRYL0UUpNzlyiT32my4R4C6aWVqJGEymtfrJM5GTAbw0EKprr50D7oVt8O8sXO2mukUjHwBslKz/dRJKXl+H+rYGMGpWhRYKwh4GMq01DUVqncX2bR3TfpU/jUlAU=;EGTrbuoKMbm4dgLhu52oGA=="
 ---

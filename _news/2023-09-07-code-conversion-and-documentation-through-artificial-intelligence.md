@@ -18,43 +18,20 @@ topics:
   - AI
 
 related:
-  - title: "Top 10 Conversational AI Platforms 2023"
-    excerpt: "$0.00075 per text request Built on deep learning, machine learning, and natural language processing (NLP) models, the IBM Watson Assistant conversational AI platform enables your teams to build AI-powered voice agents and chatbots that deliver automated ..."
-    publishedDateTime: 2023-09-05T22:15:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/conversational-ai-platforms/"
+  - title: "Google's content moderation tech may need human-AI teamwork"
+    excerpt: "Google wants to make sure the content it serves to users is of the highest quality.  The company filed a patent application for a system"
+    publishedDateTime: 2023-09-07T15:59:00Z
+    webUrl: "https://www.fool.com/investing/2023/09/07/googles-content-moderation-tech-may-need-human-ai/"
     type: article
     provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 71
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2023/08/ew08292023-conversational-ai-platforms.png"
-        width: 1400
-        height: 900
-        isCached: true
-  - title: "The Generative AI Boom Could Fuel a New International Arms Race"
-    excerpt: "Two new studies of the potential of text- and image-generating algorithms suggest they could add scary new scale and power to online disinformation campaigns."
-    publishedDateTime: 2023-09-07T09:00:00Z
-    webUrl: "https://www.wired.com/story/fast-forward-generative-ai-could-fuel-a-new-international-arms-race/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
+      name: The Motley Fool
+      domain: fool.com
     quality: 69
     images:
-      - url: "https://media.wired.com/photos/64f8fe9c2af6d929ce8aee78/191:100/w_1280,c_limit/AI-Arms-Race-Fast-Forward-Culture-1368514518.jpg"
-        width: 1280
-        height: 670
+      - url: "https://www.thedailyupside.com/wp-content/uploads/2023/09/Google-patent-1200x1192.jpg"
+        width: 1200
+        height: 1192
         isCached: true
-  - title: "Apple Spending Millions of Dollars a Day on Conversational AI"
-    excerpt: "according to a new report from The Information that highlights Apple's AI and machine learning research. Though Apple's AI chief John Giannandrea is said to be skeptical of AI chatbots, he established a team that is working on conversational AI four years ago."
-    publishedDateTime: 2023-09-06T18:30:00Z
-    webUrl: "https://www.macrumors.com/2023/09/06/apple-conversational-ai-spending/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 19
 
 secured: "LFmeTuO0fqH/XJ1r+4GRXh9ZvzLKsQ57Gtg0L2CmLut4mzLXFYJA7rVlFlSk2RV3tBhm54vGK2LqkI2gQvMHcsvkzJzZcGRPInnm9aQqYPx9PN4hyzU+kGaZlR8/1tbejxEaoa1TkF4MM3FyGEUKG0GX12XbHRfG+BOL3Ge19HlWFqrhNspnIfb6puJRmFSLw0y6Mi9EoPnqBeX97UM1DwCpp05v+NYIKyztcPP79SASSqJ1gLq17evjq87xEA8U1KPXELRLQ1KpEc/H9xPBlsiKZLHsBuxz9pEySqLokr4wdWGFzwrgBEUoFX4ukdWFnqGjmBpuf2SRFz8iQ6bBoHN7u3n0Y+Cx2JWMm4qqR+HFBolIOlDUxFUvOfNhYhPHHUpIC/bJ9s/REj1pp/D33yIWx7qZxapqs0YTW26j8HRXHb4DW9dpjnKYeDAqEz0yWPrCG2Vp2UWyixy2dfnCqLMUbfAoiu7DaK8eyo+s09h/0/FDI14F79njxH9l/mCDOgQ7oWbvU6vlsKbz0YWC/Q==;UV0SfUcx1n4w8g8WsUrO3w=="
 ---

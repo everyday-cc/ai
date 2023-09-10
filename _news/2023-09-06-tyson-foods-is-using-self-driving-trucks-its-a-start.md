@@ -19,36 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "What it's like to ride in a self-driving taxi"
-    excerpt: "Christine Crosby, a mom of two, said she is a fan of self-driving taxis, having been a rider in Waymo's pilot program in San Francisco. She said she tried out the service on her own first, without her kids, ages 6 and 1, but now brings her with them."
-    publishedDateTime: 2023-09-05T19:40:00Z
-    webUrl: "https://abcnews.go.com/GMA/Living/ride-driving-taxi/story?id=102927242"
-    ampWebUrl: "https://abcnews.go.com/amp/GMA/Living/ride-driving-taxi/story?id=102927242"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/GMA/Living/ride-driving-taxi/story?id=102927242"
+  - title: "Tyson enlists self-driving trucks to deliver chicken wings and hot dogs"
+    excerpt: "Your chicken wings, hot dogs, and breakfast sausage could soon essentially transport themselves with the help of artificial intelligence. Tyson Foods announced Wednesday it teamed"
+    publishedDateTime: 2023-09-07T17:22:00Z
+    webUrl: "https://www.aol.com/finance/tyson-enlists-self-driving-trucks-142304058.html"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 44
-    images:
-      - url: "https://s.abcnews.com/images/GMA/self-driving-taxi-4-abc-gmh-230905_1693924999498_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "More self-driving cars are coming to Austin"
-    excerpt: "The mayors of Austin and Tuscaloosa made a barbecue bet on this weekend's big game between Texas and Alabama. Mayor Kirk Watson will put up Central Texas BBQ from Micklethwait Craft Meat. Tuscaloosa Mayor Walt Maddox will wager a spread from Dreamland BBQ."
-    publishedDateTime: 2023-09-07T14:34:00Z
-    webUrl: "https://www.kxan.com/video/more-self-driving-cars-are-coming-to-austin/8966813/"
-    type: article
-    provider:
-      name: KXAN
-      domain: kxan.com
+      name: AOL
+      domain: aol.com
     quality: 24
     images:
-      - url: "https://www.kxan.com/wp-content/themes/nexstar/client/src/images/footer/nexstar-logo-white-nmg.png"
-        width: 396
-        height: 202
+      - url: "https://s.yimg.com/ny/api/res/1.2/INErVWkIMYl_S0j4fzkbJg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/202362a5869bdad57285fe57296a1412"
+        width: 1200
+        height: 800
         isCached: true
+  - title: "Gatik robot trucks will haul Tyson chicken, sausage and hot dogs"
+    excerpt: "Tyson Foods has signed a three-year contract to use Gatik autonomous trucks to move its protein products on the middle mile."
+    publishedDateTime: 2023-09-06T09:00:00Z
+    webUrl: "https://www.freightwaves.com/news/gatik-robot-trucks-will-haul-tyson-chicken-sausage-and-hot-dogs"
+    type: article
+    provider:
+      name: freightwaves.com
+      domain: freightwaves.com
+    quality: 19
 
 secured: "MFHpnOvemxjRxh7Mk3+5GPHGByzurTji8w6EXei9uAQtcS638UjrbiAHtgjVbBS6lL5cmvTptwFNPmEAd0pHRVYzk+aT8AvMCn9TZo7ILQ1Fu+Qv3fSB39EdOLLJTX7nLuK57KPudElyq9ZE/CERd3pyJ+6CthTbG9Dx4z44GJM39EFcqKyeh5tQM7zgRxkxsdxB5trC3yOdesYoo2yZ7RWFZ9YhBG8IVFewjyqg7ruA7jhFopcf5XIO6GF2blpp5M6rX4CIztFRQUDSSSQjBv5uaxqejiNAi1Fa3/W1cNSEMSoy0hJewSBQ9hYBXSjUs7GeWUjIS1CuOCcHjTOpIdGtROV3/e3rnmckbdBSMByZPmYANLsfchKvvf3BWENIA576THmsetIr3ZVSnsciSBWjGSXYa1AK3gAv1kGnsZxcoIFvj2EvdEYzxzh+rJWcwaUzZVeiIiX3RwvouUNEuRkLh3coLcAuMK0cwXNILyj55bH1htPXXmK93nes/lwUEaSlNm6dxzFk8Cml7GDuig==;hqyOi7yDdbhdtLeMX/MIqA=="
 ---

@@ -89,15 +89,15 @@ related:
         isCached: true
   - title: "With AI, future of hearing aids might include language translation"
     excerpt: "Sawalich says, \"If somebody falls, it'll text up to three people.\" They can also translate foreign languages. These AI hearing aids recalibrate up to 80 million times an hour, allowing them to ..."
-    publishedDateTime: 2023-09-05T19:30:00Z
-    webUrl: "https://www.thetimes-tribune.com/news/nation-world/with-ai-future-of-hearing-aids-might-include-language-translation/video_2d527935-5f49-542e-b87e-3cd7d8380040.html"
+    publishedDateTime: 2023-09-06T04:32:00Z
+    webUrl: "https://www.guampdn.com/news/national/with-ai-future-of-hearing-aids-might-include-language-translation/video_0471ba7b-8f06-505f-b6d0-fe970b47c741.html"
     type: article
     provider:
-      name: The Scranton Times-Tribune
-      domain: thetimes-tribune.com
+      name: Pacific Daily News
+      domain: guampdn.com
     quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/thetimes-tribune.com/content/tncms/assets/v3/editorial/2/d5/2d527935-5f49-542e-b87e-3cd7d8380040/64f77e9127098.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/guampdn.com/content/tncms/assets/v3/editorial/0/47/0471ba7b-8f06-505f-b6d0-fe970b47c741/64f77e6adc556.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

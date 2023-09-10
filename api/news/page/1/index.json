@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-10-rise-of-the-machine-learningdeep-fakes-could-threaten-our-democracy.md",
+      "title": "Rise Of The Machine Learning—Deep Fakes Could Threaten Our Democracy",
+      "excerpt": "The threat from AI-generated content is magnified due to the fact that so many Americans now rely on social media as a primary news source",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/petersuciu/2023/09/10/rise-of-the-machine-learning-deep-fakes-could-threaten-our-democracy/",
+      "originalUrl": "https://www.forbes.com/sites/petersuciu/2023/09/10/rise-of-the-machine-learning-deep-fakes-could-threaten-our-democracy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64fdd705c0bf9d89266445b6/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/petersuciu/2023/09/10/rise-of-the-machine-learning-deep-fakes-could-threaten-our-democracy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petersuciu/2023/09/10/rise-of-the-machine-learning-deep-fakes-could-threaten-our-democracy/amp/",
+      "publishedDateTime": "2023-09-10T07:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-10-just-how-much-is-the-ai-discourse-helping-stocks-an-analyst-scoured-earnings-calls-for-clues.md",
+      "title": "Just how much is the AI discourse helping stocks? An analyst scoured earnings calls for clues",
+      "excerpt": "More S&P 500 index companies during the second quarter mentioned \"AI\" than at any point since at least 2010, according to an analysis published on Friday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/just-how-much-is-the-ai-discourse-helping-stocks-an-analyst-scoured-earnings-calls-for-clues-8c4a3c04",
+      "originalUrl": "https://www.marketwatch.com/story/just-how-much-is-the-ai-discourse-helping-stocks-an-analyst-scoured-earnings-calls-for-clues-8c4a3c04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-849154/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/just-how-much-is-the-ai-discourse-helping-stocks-an-analyst-scoured-earnings-calls-for-clues-8c4a3c04",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/just-how-much-is-the-ai-discourse-helping-stocks-an-analyst-scoured-earnings-calls-for-clues-8c4a3c04",
+      "publishedDateTime": "2023-09-10T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-10-unesco-trains-indonesian-teachers-on-ai-ethics.md",
       "title": "UNESCO trains Indonesian Teachers on AI Ethics",
       "excerpt": "UNESCO held an Ethics Teachers Training Course (ETTC) focused on AI ethics in Yogyakarta, in collaboration with the University Gadjah Mada.The interactive event brought together 30 participants from v",
@@ -491,6 +594,49 @@
       ]
     },
     {
+      "path": "_news/2023-09-09-nvidia-debuts-new-software-to-boost-ai-model-performance-on-its-high-end-chips.md",
+      "title": "Nvidia debuts new software to boost AI model performance on its high-end chips",
+      "excerpt": "Nvidia Corp. today announced a new open-source software suite called TensorRT-LLM that expands the capabilities of large language model optimizations on Nvidia graphics processing units and pushes the limits of artificial intelligence inference performance after deployment.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/09/08/nvidia-unveils-tensorrt-llm-boost-ai-inference-performance-h100-gpus/",
+      "originalUrl": "https://siliconangle.com/2023/09/08/nvidia-unveils-tensorrt-llm-boost-ai-inference-performance-h100-gpus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/nvidia-brand-logo-2-1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-08T11:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-08-companies-want-workers-to-trust-aibut-not-completely.md",
       "title": "Companies Want Workers to Trust AI—But Not Completely",
       "excerpt": "Businesses are increasingly looking to their workers to be fact checkers and roadside sobriety testers of AI, but are sometimes uncertain how to set up the new workflow.",
@@ -687,58 +833,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-analyst-ratings-for-c3ai.md",
-      "title": "Analyst Ratings for C3.ai",
-      "excerpt": "Within the last quarter, C3.ai (NYSE:AI) has observed the following analyst ratings: According to 5 analyst offering 12-month price targets in the last 3 months, C3.ai has an average price target of $35.8 with a high of $42.00 and a low of $28.00.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/analyst-ratings-for-c3-ai-1032616827",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/analyst-ratings-for-c3-ai-1032616827",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/analyst_ratings_image_0.png",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-08T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     },
@@ -1000,7 +1094,7 @@
       "originalUrl": "https://www.businessinsider.com/irs-going-after-millionaires-big-business-partnerships-for-overdue-taxes-2023-9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -1094,26 +1188,17 @@
       ]
     },
     {
-      "path": "_news/2023-09-08-in-us-china-ai-contest-the-race-is-on-to-deploy-killer-robots.md",
-      "title": "In U.S.-China AI contest, the race is on to deploy killer robots",
-      "excerpt": "Washington and Beijing are in a contest to develop AI-controlled weapons that will operate autonomously. The outcome could decide the global balance of power.",
+      "path": "_news/2023-09-08-ai-chip-wars-nvidia-may-be-winning-but-dont-sleep-on-amd-stock.md",
+      "title": "AI Chip Wars: Nvidia May Be Winning, But Don’t Sleep on AMD Stock!",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In the first half of 2023, Advanced Micro Devices (NASDAQ:AMD) stock, commonly",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/investigates/special-report/us-china-tech-drones/",
-      "originalUrl": "https://www.reuters.com/investigates/special-report/us-china-tech-drones/",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-chip-wars-nvidia-may-be-winning-but-dont-sleep-on-amd-stock-1032615709",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-chip-wars-nvidia-may-be-winning-but-dont-sleep-on-amd-stock-1032615709",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 74,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/investigates/special-report/assets/us-china-tech-drones/mastheads/share_drones.jpg?v=314607080923",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -1121,11 +1206,11 @@
       "publishedDateTime": "2023-09-08T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1141,110 +1226,7 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-product-management-steering-innovation-in-ai-and-web3-startups.md",
-      "title": "Product Management: Steering Innovation In AI And Web3 Startups",
-      "excerpt": "Product managers have become the unsung hero that shape and steer innovation strategies to guide startups through uncharted territories.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/08/product-management-steering-innovation-in-ai-and-web3-startups/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/08/product-management-steering-innovation-in-ai-and-web3-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5fbbc3ed6379c6ef3bc9a97d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/08/product-management-steering-innovation-in-ai-and-web3-startups/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/08/product-management-steering-innovation-in-ai-and-web3-startups/amp/",
-      "publishedDateTime": "2023-09-08T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-prompt-engineering-embraces-tree-of-thoughts-as-latest-new-technique-to-solve-generative-ai-toughest-problems.md",
-      "title": "Prompt Engineering Embraces Tree-Of-Thoughts As Latest New Technique To Solve Generative AI Toughest Problems",
-      "excerpt": "An advanced prompt engineering technique known as Tree of Thoughts is emerging for generative AI. A great deal can be accomplished. Take a close look at what works.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/09/08/prompt-engineering-embraces-tree-of-thoughts-as-latest-new-technique-to-solve-generative-ai-toughest-problems/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/09/08/prompt-engineering-embraces-tree-of-thoughts-as-latest-new-technique-to-solve-generative-ai-toughest-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64faaefd875152868af9e2c7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/09/08/prompt-engineering-embraces-tree-of-thoughts-as-latest-new-technique-to-solve-generative-ai-toughest-problems/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/09/08/prompt-engineering-embraces-tree-of-thoughts-as-latest-new-technique-to-solve-generative-ai-toughest-problems/amp/",
-      "publishedDateTime": "2023-09-08T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
+        "AI Hardware",
         "AI"
       ]
     }

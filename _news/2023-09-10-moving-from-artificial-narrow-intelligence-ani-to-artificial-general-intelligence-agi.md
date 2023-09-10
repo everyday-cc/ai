@@ -8,8 +8,8 @@ webUrl: "https://www.financialexpress.com/business/digital-transformation-moving
 ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-moving-from-artificial-narrow-intelligence-ani-to-artificial-general-intelligence-agi-3238637/lite/"
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-moving-from-artificial-narrow-intelligence-ani-to-artificial-general-intelligence-agi-3238637/lite/"
 type: article
-quality: 35
-heat: 35
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+  - Machine Learning
 
 images:
   - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design221.jpg"
@@ -26,6 +27,6 @@ images:
     height: 675
     isCached: true
 
-secured: "e3dTHJwO6qi+VDafDmp5doXGmBymK+pRHitFoBOzoGWkWJzP/dScGUhWY5S/U53aoD/mXChzuuRdfy/x1Zq3pcDWder6VJ9N/DuuSI2eCbAVXRS1Va/POIPZMuvDEWaibNdf5GAT8OOp25W5wNMOFhrrVP/NUdO+c8vzbfaHNEz+ZuMBMqZfZFj9HgBaK9DWQ4rwkILAXu2ReaBfZ9V6UCu8OrWQE/VnNHdxngBNwZeORFmORFgdm9rsuWMMdFbiA6297v9WCzCLW7HqgNMARdwxOQ8UNp2JDHvBjLfN37iQ3YcEieX64oaFPMZCnPxZfByI+BKuqp0nyxU47gvY5O83hy7649GULNG7NCfZDAY=;o5QFU5qAoEMsS5sWgIuYOA=="
+secured: "UJOlvNyiWInOUl+2Xo0HQkRasdjJFW863EcSVQxQ1vrrd5Avel5bXhOO+INu3IZsOauGgynKMCIP2fND972putx+6dWIQx+bSMdNmdavaVnZSdBFcJ1MPvt6PJzZGQqNYjiYkQ7KNRsorbwLD1cJ8OCAxmMbYakNoOocEOq+TtQpNtIF7cE+7EcELopv+gb15WTsDTAAlf7uUVVTRH0cG6T8z3J9Wv6YsSPOXTXMAsJ9R3Xyr9s+Xw0AsaNjlRqH8aIuGdIYTdReBH9WAXLKdfPpklRM/sm5VJyv/wAsXuTVB8eFFpwXXzFAp6hPBBSp/Ui3Ts8UAwXI++XCuNxfQzy4h1Jc3GUXZYdeRyFciC1IOjwzyOVEu/xiAMRhhCQxtlVyPGEYfL2qOia4Zcw5dkzZP4FWSh+tLLZVlUKxT+ts5Qjs3YLWsBv2kU8lHHXvPN4BO3i7X/IiOki8m1QIt4AmRhd0pqF5lZ1O/eMpZHkQ2GL2Fa1mslrejuNns9k4SCoaQXwwf5uiB7s0N8S8+Q==;CV/70XmRQjbdwie+L+551g=="
 ---
 

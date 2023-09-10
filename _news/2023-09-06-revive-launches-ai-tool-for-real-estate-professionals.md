@@ -43,15 +43,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 43
-  - title: "GoDaddy Studio introduces AI-Powered Instant Video feature to enable entrepreneurs create engaging video and grow their businesses online"
-    excerpt: "GoDaddy (NYSE: GDDY) the company that helps entrepreneurs thrive, announced the launch of a new AI-powered feature called Instant Video within the GoDaddy Studio app."
-    publishedDateTime: 2023-09-05T19:59:00Z
-    webUrl: "https://www.thehansindia.com/tech/godaddy-studio-introduces-ai-powered-instant-video-feature-to-enable-entrepreneurs-create-engaging-video-and-grow-their-businesses-online-820509"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 0
   - title: "Sizzle AI for its AI-Powered Learning Assistant That Helps Students Solve Any Problem With Step-by-Step Guidance"
     excerpt: "Sizzle is the free personalized app that uses the power of AI to help learners work through any problem, step by step. Rather than providing answers to problems outright, Sizzle guides students through each step, building problem-solving skills and a mastery of underlying concepts."
     publishedDateTime: 2023-09-08T13:48:00Z

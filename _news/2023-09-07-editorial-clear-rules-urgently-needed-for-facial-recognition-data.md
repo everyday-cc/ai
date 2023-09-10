@@ -24,6 +24,22 @@ images:
     height: 381
     isCached: true
 
+related:
+  - title: "Live Facial Recognition deployment leads to arrest of wanted man"
+    excerpt: "The man had been found in possession of two knives in Woodfield Road, W2 and had failed to appear for sentencing"
+    publishedDateTime: 2023-09-10T14:13:00Z
+    webUrl: "https://news.met.police.uk/news/live-facial-recognition-deployment-leads-to-arrest-of-wanted-man-472005"
+    type: article
+    provider:
+      name: Metropolitan Police Service
+      domain: police.uk
+    quality: 39
+    images:
+      - url: "https://resources.mynewsdesk.com/image/upload/ar_16:9,c_fill,dpr_auto,f_auto,g_auto,q_auto:good,w_1782/itacfh0dgvzmgaqjklqk"
+        width: 1782
+        height: 1002
+        isCached: true
+
 secured: "GGGl91AgXJci+ZjyzPfqso4B2991TbWz2X4sX/sMBothFSvu7dVlCRzVYGDMrRG7hO7Xo3ShtbHwOVGIHlbyC9IkYGkPQgSS/0xrpdpC9pkvhgVauG6Ugx8kiSD/nEV/UvNSk1XzFKfXRgQkVOlq6TSMeqkn74TQeQKUP35k7/o3J9RNHw+PotjkiGxEkSwVhNaTh9HVKtJ5/K3JK4ReNFhJ8CXCV8tymuURoYzxej4OXGi+xg9EZSoxtMB7HuvKvtGh4RcLXa7/iiFl/is7FdX2+i2gaPaq0gnVnso+/UbMHFCW11GCObJb+DJLX/3mUyMFj/DcDOEdZmaGwtqwL4heBDn4XrCw/B4hCogKWVs=;K3+rGHGlUvb1NkGnxzaE2w=="
 ---
 

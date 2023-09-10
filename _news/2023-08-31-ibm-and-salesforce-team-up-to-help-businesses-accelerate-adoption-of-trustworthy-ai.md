@@ -1,24 +1,28 @@
 ---
 category: news
 title: "IBM and Salesforce Team Up To Help Businesses Accelerate Adoption of Trustworthy AI"
-excerpt: "Tech giants collaborate to drive productivity and growth with generative AIARMONK, N.Y. and SAN FRANCISCO, Aug. 31, 2023 /PRNewswire/ -- Today,"
-publishedDateTime: 2023-08-31T14:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-and-salesforce-team-up-to-help-businesses-accelerate-adoption-of-trustworthy-ai-1032596011"
-webUrl: "https://markets.businessinsider.com/news/stocks/ibm-and-salesforce-team-up-to-help-businesses-accelerate-adoption-of-trustworthy-ai-1032596011"
+excerpt: "ARMONK, N.Y. and SAN FRANCISCO, Aug. 31, 2023 /CNW/ -- Today, IBM IBM and Salesforce CRM announced a collaboration to help businesses worldwide across industries accelerate their adoption of AI ..."
+publishedDateTime: 2023-08-31T12:17:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/08/n34140598/ibm-and-salesforce-team-up-to-help-businesses-accelerate-adoption-of-trustworthy-ai"
+webUrl: "https://www.benzinga.com/pressreleases/23/08/n34140598/ibm-and-salesforce-team-up-to-help-businesses-accelerate-adoption-of-trustworthy-ai"
+ampWebUrl: "https://www.benzinga.com/amp/content/34140598"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34140598"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "0a88pDT+1bInoVM8/Pi8EZtMh4iDjJ9IJB2GctIDXn1S8WG5woMiUGTyAsBsjaDysrxWrlCAiRQEI5lXPLuIA8FeoSC0avHkxdJv9SP7zuLf8X5kULFOgkfCD/waP4XHqwagu6kHSxqL7z7GZ/M3nKi/WKNp2Y5crhy2vvZ4844OLGm72eCRSSfCytXwLeQ7mUxmYsJ5fiXowjVyzaLKT63gHe7Zml2OE50BX8QVn4Mh88GD39qWN17YREb4VkQcyBzEmejEvCkz/y0a8Xf4geECapd1FQBJ3VQwd/LJJd11xotimDv7lZ2iFBXqTF4GnGh4im4fV7NCRFFKxHaQVUeYSz6K7qnV7VHFsTi0D0zo3pGX8+ND+zYjKY65TNAT5oexT9dTbb3RPzJ3nnbWT4ux9+/LVHERN4Q/sOyUly7vwY9hszLkonesvehLLF0wO1DiriF9oTKFIDnpy+3ppOF4aTmh+Vx2Ciy4B8QRBweGGZVDRa0AqJGI1EdLm83LLwv3HVa3+UvKVkB5gB7dXA==;2JhbDaV8QSC4qCqtTOxnyA=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "AXYqjM5gY47FGZ4eiFjujn/A4vOBRptJ9hpTyM0zmGPoAnJ+CWskDm2LkqFUdID82OogqU3WzPQHMiYdXpLIVae8CJwMX9rVoJ18jGpqSldhDtKUlZcD9JpFhdPaHMrgjglqgGEZH0Sv9sUdDn5XOnDwVNVtg0BIOAp0YLW6NEg73DglVju3o/O5iQVqpcMNlPMroQRu6bbS+aV0EaHOqpwWNzfb6vzHYjF6vspGZvcDlouCZEUiSCctbYDoSc4bLGjOLBBP50AYVyZOCV9nAqo7Hd02GYiwCpNPbTYk+cSEy6WKUk2EpGKgG+pBew7SUaMehzOANsPXBt4VO3qCQ9TWpQUTb9g+hTLktAXe8tI=;rrokTrgGGN7FyOEHF4jDXw=="
 ---
 

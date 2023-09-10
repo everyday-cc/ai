@@ -19,43 +19,38 @@ topics:
   - AI
 
 related:
-  - title: "Analyst Ratings for C3.ai"
-    excerpt: "Within the last quarter, C3.ai (NYSE:AI) has observed the following analyst ratings: According to 5 analyst offering 12-month price targets in the last 3 months, C3.ai has an average price target of $35.8 with a high of $42.00 and a low of $28.00."
-    publishedDateTime: 2023-09-08T16:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/analyst-ratings-for-c3-ai-1032616827"
+  - title: "The Generative AI Boom Could Fuel a New International Arms Race"
+    excerpt: "Two new studies of the potential of text- and image-generating algorithms suggest they could add scary new scale and power to online disinformation campaigns."
+    publishedDateTime: 2023-09-07T09:00:00Z
+    webUrl: "https://www.wired.com/story/fast-forward-generative-ai-could-fuel-a-new-international-arms-race/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Wired
+      domain: wired.com
     quality: 69
     images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/analyst_ratings_image_0.png"
-        width: 1024
-        height: 768
+      - url: "https://media.wired.com/photos/64f8fe9c2af6d929ce8aee78/191:100/w_1280,c_limit/AI-Arms-Race-Fast-Forward-Culture-1368514518.jpg"
+        width: 1280
+        height: 670
         isCached: true
-  - title: "C3 AI releases 28 domain-specific generative AI models"
-    excerpt: "The platform works on structured and unstructured textual data and can also orchestrate inferences from machine learning and deep learning models ... AWS and Microsoft Azure marketplaces."
-    publishedDateTime: 2023-09-06T20:32:00Z
-    webUrl: "https://siliconangle.com/2023/09/06/c3-ai-releases-28-domain-specific-generative-ai-models/"
+  - title: "AVIA’s National Generative AI Collaborative Announces New Experts, Enhanced Health System Participation"
+    excerpt: "The Generative AI Strategic Collaborative reveals a slate of 10 clinical, ethics, technology, and regulatory experts for its national consortium"
+    publishedDateTime: 2023-09-07T16:04:00Z
+    webUrl: "https://www.newsobserver.com/press-releases/article279063044.html"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/deepmind-LIlsk-UFVxk-unsplash.jpg"
-        width: 7111
-        height: 4000
-        isCached: true
-  - title: "Efficient training for artificial intelligence"
-    excerpt: "Training an artificial intelligence consumes more energy the more demanding the tasks are. Víctor López-Pastor and Florian Marquardt, two scientists at the Max Planck Institute for the Physics of Light in Erlangen,"
-    publishedDateTime: 2023-09-08T16:32:00Z
-    webUrl: "https://www.mpg.de/20826914/neuromorphic-computer"
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 3
+  - title: "AVIA’s National Generative AI Collaborative Announces New Experts, Enhanced Health System Participation"
+    excerpt: "The Generative AI Strategic Collaborative reveals a slate of 10 clinical, ethics, technology, and regulatory experts for its national consortium"
+    publishedDateTime: 2023-09-07T17:04:00Z
+    webUrl: "https://www.miamiherald.com/press-releases/article279063044.html"
     type: article
     provider:
-      name: Max Planck Society
-      domain: www.mpg.de
-    quality: 34
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 3
 
 secured: "FN5+ltVWRP9vpdMzrzSIr+qOqQMdwDxWEnWW49Qdwlx7FrcFfm4mCjgJ5igkIv2KyfYLvZwbczp0CTiCirEOi2ilf2U1ctvxCfTAbm5PN3T5pf+FDuQIsi6dUcB4ZIKV8pFb2DHFZKEPR2Zv6fpzIIWusYKUXmy1rO9yE5oxExxKvx5nWQTIOGq9vkbHsS/9Pk/R8Kmwbz9Kc6qRbpTFaSqXkxfl7q1VdyKMjS6Ip5dwmtOwmdpzBf1T04OlqC7m6ae54KaXOW6mukSKEyKgO20fKyEQmPn1eY8b1sVmGZdQ1Bu2IX/+NfdzxD1zyMYFKyTyPnI0AUsjyU7BQxR4Nclg6RY12MygeuJidzv+n/s=;xL9TpRfhDEEYDekE9061lQ=="
 ---

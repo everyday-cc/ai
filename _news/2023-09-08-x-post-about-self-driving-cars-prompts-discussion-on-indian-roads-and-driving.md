@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Self-driving cars raise issue of AI ethics as well as road safety"
+    excerpt: "The issues surrounding self-driving cars illustrate many of the ethical questions raised by the impact of artificial intelligence on everyday life"
+    publishedDateTime: 2023-09-09T16:00:00Z
+    webUrl: "https://www.irishexaminer.com/opinion/commentanalysis/arid-41222965.html"
+    type: article
+    provider:
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 56
+    images:
+      - url: "https://www.irishexaminer.com/cms_media/module_img/7496/3748045_11_seoimageog_iStock-967522166_1_.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Self-driving Car Revolution Is Coming, But Slowly"
     excerpt: "In Munich, where this week's IAA motor show is taking place, an interactive street survey elicits an overwhelming \"yes\" when asking passers-by if they would take a self-driving taxi from the station to the Oktoberfest beer festival."
     publishedDateTime: 2023-09-07T05:30:00Z

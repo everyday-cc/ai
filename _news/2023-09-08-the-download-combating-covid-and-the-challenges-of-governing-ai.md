@@ -119,6 +119,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 19
+  - title: "Gathering the news for the AI-powered future"
+    excerpt: "The bottom line: AI-generated news content is coming. The death toll from the powerful earthquake that hit Morocco late Friday surpassed 2,000 on Saturday as rescue workers raced to find survivors, state media reported, citing the country's Interior Ministry."
+    publishedDateTime: 2023-09-10T13:02:00Z
+    webUrl: "https://www.axios.com/2023/09/10/infobot-ai-news"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 17
 
 secured: "lkfgz/WG+ZooYnoEsdCt3Wi2Ci9FoghHpAMAQ/AsQo84DvpORPK6BgBpI0htcNSlSqPX3+QmkEO5Xn8/OIKJsuZDVFMku3EZYw8OZcQb6U7QplOERrfHxOO6p+4f1F8RSb2D2SehdHjetvjrTV8xgSR4hlqsB+Q2l/+MmOU7PDr4koIm1tq7jyo91+cfCyw8LllCdC1HXhq1icNTIyV1KNyFk2s4YcqJ45fqD2noEuO1ca/bap+Hexiyn8sMztMiE9OEojjPdlsa0ZLu02QMbUpAi7USy4AMp3B1yLcEHy2kkIoMwS9vq5RkyBEpFSbPJ+ZD75Jj1c0+l1G2HCw6iQOt8XAYHQsJgGZ44MzOCYjQqxnZeLPN7LF/SIwAcK4mSiM3c/rCKtyUiqZoOPqX7rij6R4abhC3YZGe3IY+9FlC3qDatLZFyV4UhQBXXK0hEnJl9ejqZyDr5/Py752qUphToSeqQZ+VqIyX5vHqsxjuvLo1fPcWJ80/y0sZl/K2yPPHm1+2VSnMsSQEZ6wv/w==;AWAcFB7qijEs9qQqEPQDTg=="
 ---

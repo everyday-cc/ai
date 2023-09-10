@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/34375696"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34375696"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,38 +26,17 @@ images:
     isCached: true
 
 related:
-  - title: "Kindo raises $7M for AI productivity platform for businesses"
-    excerpt: "Kindo has successfully raised $7 million in seed funding for the launch of its secure AI productivity platform for businesses."
-    publishedDateTime: 2023-09-05T20:30:00Z
-    webUrl: "https://venturebeat.com/ai/kindo-raises-7m-for-ai-productivity-platform-for-businesses/"
+  - title: "Mindtrip Raises $7 Million for AI Trip Planner: Startup Funding Roundup"
+    excerpt: "Ten travel tech startups from a variety of sectors announced over $78 million in funding over the past two weeks."
+    publishedDateTime: 2023-09-08T22:05:00Z
+    webUrl: "https://skift.com/2023/09/08/mindtrip-raises-7-million-for-ai-trip-planner-startup-funding-roundup/"
+    ampWebUrl: "https://skift.com/2023/09/08/mindtrip-raises-7-million-for-ai-trip-planner-startup-funding-roundup/amp/"
+    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2023/09/08/mindtrip-raises-7-million-for-ai-trip-planner-startup-funding-roundup/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/09/kindo.jpg?w=1200&strip=all"
-        width: 1200
-        height: 670
-        isCached: true
-  - title: "Artificial Intelligence: Mujin Raises $85m to Expand AI-Powered Robotics Platform"
-    excerpt: "Tokyo-based intelligent robotics startup Mujin has announced raising $85 million in its Series C funding round, further boosting its market share in the realm of AI-powered robotics for manufacturing, logistics, and supply chain operations. The funding ..."
-    publishedDateTime: 2023-09-09T19:35:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/09/212693-artificial-intelligence-mujin-raises-85m-to-expand-ai-powered-robotics-platform/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 59
-  - title: "Hugging Face Raises $235M for its Open Platform for AI and Machine Learning"
-    excerpt: "Hugging Face is the most-used open platform for AI builders. More than 50,000 organizations are using it to build, train, and deploy AI models like Stable diffusion, StarCoder, Llama, and more. It hosts over 300k models, 250k datasets, and 250k spaces."
-    publishedDateTime: 2023-09-07T13:29:00Z
-    webUrl: "https://www.alleywatch.com/2023/09/hugging-face-open-source-ai-platform-machine-learning-github-brigitte-tousignant/"
-    type: article
-    provider:
-      name: alleywatch.com
-      domain: alleywatch.com
-    quality: 32
+      name: Skift
+      domain: skift.com
+    quality: 37
 
 secured: "qbYvjdoxjVsrW257oDVF3QmAUTULV7CcnatbFFruJzXNW83879dhHxINSiW03Pn/s136F2DUyfPcOYJngMuVKeeAJhsAAIqScVbxPT1PZcSeHa1+JTh7LOltVSzx9IxSnPz2/fByCpBgMXW0plYVk6U+pp+o8rIhaxcfB8NGG3xHH0/JoQl6S5QVXkdrkrAwqek2HLQWsrSW1kZH0NEtIAkPUK5Zt4Lu7rze8sCB7He3FESaClV+k91TsDo67QGOO30Az6gfeihwX2GPJGSxA3eJZkcEQZuhbPyk0LX80BqsXIPaof9PL+KbcVm7KWhdi7Oyq/X68AlEAgZjAd581Xt7hqbaNGeQWeXnKEN3jEM=;7GfVPXSxaUZQYz4XQeXfZg=="
 ---

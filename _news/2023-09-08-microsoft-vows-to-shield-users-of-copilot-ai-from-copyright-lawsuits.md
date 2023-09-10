@@ -318,6 +318,15 @@ related:
       name: Law
       domain: law.com
     quality: 32
+  - title: "Microsoft and Paige Collaborate on World's Largest Cancer-Fighting AI Model"
+    excerpt: "Microsoft, a technology behemoth, has partnered with Paige, a digital pathology company, to construct the largest image-based artificial intelligence (AI) models globally, designed to combat cancer."
+    publishedDateTime: 2023-09-10T12:43:00Z
+    webUrl: "https://www.medindia.net/news/microsoft-and-paige-collaborate-on-worlds-largest-cancer-fighting-ai-model-213420-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 32
   - title: "NobleAI Launches New AI-Powered Chemical and Materials Informatics Solutions on Microsoft's Azure Marketplace"
     excerpt: "07, 2023 (GLOBE NEWSWIRE) -- NobleAI, a pioneer in Science-Based AI solutions for Chemical and Material Informatics, today announced general availability of its offerings on Microsoft's Azure ..."
     publishedDateTime: 2023-09-07T14:57:00Z
@@ -326,6 +335,15 @@ related:
     provider:
       name: KAKE.com
       domain: kake.com
+    quality: 30
+  - title: "Microsoft and Paige team up to develop world's largest cancer-fighting AI model"
+    excerpt: "The image-based AI model will capture cancer's complexities, fueling the next-gen clinical apps and biomarkers in oncology and pathology"
+    publishedDateTime: 2023-09-10T13:18:00Z
+    webUrl: "https://www.nationalheraldindia.com/science-tech/microsoft-and-paige-team-up-to-develop-worlds-largest-cancer-fighting-ai-model"
+    type: article
+    provider:
+      name: National Herald
+      domain: nationalheraldindia.com
     quality: 30
   - title: "Charlotte firm partners with Microsoft to leverage generative artificial intelligence"
     excerpt: "Ally Financial Inc. is fully embracing generative AI after the launch of ChatGPT late last year unveiled the technology's revolutionary potential."

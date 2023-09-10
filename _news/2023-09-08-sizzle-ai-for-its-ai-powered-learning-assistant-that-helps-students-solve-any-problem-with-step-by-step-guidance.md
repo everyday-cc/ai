@@ -53,15 +53,6 @@ related:
       name: Incubators
       domain: socaltech.com
     quality: 17
-  - title: "GoDaddy Studio introduces AI-Powered Instant Video feature to enable entrepreneurs create engaging video and grow their businesses online"
-    excerpt: "GoDaddy (NYSE: GDDY) the company that helps entrepreneurs thrive, announced the launch of a new AI-powered feature called Instant Video within the GoDaddy Studio app."
-    publishedDateTime: 2023-09-05T19:59:00Z
-    webUrl: "https://www.thehansindia.com/tech/godaddy-studio-introduces-ai-powered-instant-video-feature-to-enable-entrepreneurs-create-engaging-video-and-grow-their-businesses-online-820509"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 0
 
 secured: "791D9DLPSKu60wbBa6nQThbKMmdfhTDfGUrx0DKnpH+ujCSSMkUZaEg0BtIlCkkPiM4Lb07b9a4XNmdQS9lVxXsQsVSvhg1i6SAX4sB05CBACJtkOOSBlsDAKjPFCIwH63iBtewoDgnpEtsULUWJ8UO/P6jAXQKERgFgY1WvxVNmJnSufLvp1zKjejqcdCjCiZn8LXtXu2LMsQG2n6jDfcbS1W/NQx+9BIvazElE8vOpCfKD4KC40vVmyHhfTPI8ixHueTBz+SkFhAz8TxCQ/OZ6LqA6Hec3NCzglJnixWrcUbja4HJPNisMMTbv46bUYLIVatRdCfQlauLNMvGHNaHwIZ0+siHs+boJCemKP/fd7IzAof/wtugTTrkMWPPzCjdz/4TbpTXMncRV1Talyf1E9iHDbGYd8CIzMvkzwYArNxRHzInLOfnorPbiJwl9dRwbBTPDakXDQaRYt3Ck8Zm2KkavUueYUeavzPGxkN9NZvNLJrLVv7k1WPVBCKBgzzvaqtf2BrIhDqVIE/EZ9w==;+2Bf8nIB1bD19rY2kQkztA=="
 ---

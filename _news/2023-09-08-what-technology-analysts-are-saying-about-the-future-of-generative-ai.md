@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/what-analyst-are-saying-abo
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-analyst-are-saying-about-the-future-of-generative-ai/"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -124,6 +124,15 @@ related:
     provider:
       name: MIT Technology Review
       domain: technologyreview.com
+    quality: 17
+  - title: "Gathering the news for the AI-powered future"
+    excerpt: "The bottom line: AI-generated news content is coming. The death toll from the powerful earthquake that hit Morocco late Friday surpassed 2,000 on Saturday as rescue workers raced to find survivors, state media reported, citing the country's Interior Ministry."
+    publishedDateTime: 2023-09-10T13:02:00Z
+    webUrl: "https://www.axios.com/2023/09/10/infobot-ai-news"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
     quality: 17
 
 secured: "0dnd9AF+yuNk8Fv9wEIkUXk3x6C7aeB6WkpoOUUGQkQkJrtFRvq6L6miIw6TYU0gZbnPbnzH81T0PN8bCQ8Wt8tOCvvadFMGEqSLsGbKFP/2YLfgUBiWVt+TwHfxipPvXbvwhcXn/PJkclL5L/J9JIOrXljcYMoXw+lpDIlEm5z/rGCIV1T8NloRZy2Tfi6bwDOUhWdqGyI9+/M7jsKbOUWppZ9TbeR/IY5tawpf2t2EW1ZAdQS9gvoaPU3F8+96HW654S6OA6NLL09W3zbUxvaZ4KbPwp0XP7Uvsi/9jt1uCLxf4l+MjeM326fqRSTuSd63pVmqFKl4RwjZWwWcP4BLcReTQ2a93sopB6NbgeqEa2OrD5/CH6cdn8BffZgzHuKG/hr10ym2ZvB2IIthjUo2TzSgZLDH3nrNXKY4ZSOCYZBSx2g2PHSi+VDM9vHofBZ3/MLv7PExvRIVq27lJ56C/S6FisHzD/bPhy/CLJtdygfPERrfPmJhXGVAaiVYNVoAuQ3oEIDs+a7wfqjiMA==;58Bo8LT6jjJe2uhizntN+Q=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/?am
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "The 3 Best Long-Term Stocks to Buy Now: September 2023"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The United States economy added 187,000 new jobs last month, and this is"
-    publishedDateTime: 2023-09-05T22:52:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-long-term-stocks-to-buy-now-september-2023-1032606992"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
 
 secured: "7FUNdi2EPJVLoFeWTIcG7qU3/l+HVpRxeicOgXqHCBOkvbn1EwaVfdWY6PyBoqb7EGRRsRW2cqxsxTa1a86Bq2i+Xu+0cXhW926UrCJQJk6O8ZBruGrzLk8+b2uzR0OfWnvxM4YEPQe5VUVjrwcAiTaeAehuRI2ErePf9L1iZEulBhvCd0lA/cFPJ99WXqg8z8akqUUP7qWeEQ29l4ph1Y6Erdq28Fxw83jDwjeVKeVAVL/0pEJeQfYUs99qz282+ixxUPzfC9F6Rgxp7SRRKiTP2T/12+osXWP10K5AruEhyU71YMdDumf7ynWGqL+sPOTgzfLdrcTD7RamfB6TnRQ50DT4p6IZBXjdEKsZz9I=;0I9qsvMQu+qfYvMqcCGkNA=="
 ---
