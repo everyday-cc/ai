@@ -7,7 +7,7 @@ originalUrl: "https://www.unesco.org/en/articles/unesco-trains-indonesian-teache
 webUrl: "https://www.unesco.org/en/articles/unesco-trains-indonesian-teachers-ai-ethics"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "UNESCO trains Indonesian Teachers on AI Ethics"
+    excerpt: "UNESCO held an Ethics Teachers Training Course (ETTC) focused on AI ethics in Yogyakarta, in collaboration with the University Gadjah Mada.The interactive event brought together 30 participants from v"
+    publishedDateTime: 2023-09-10T05:45:00Z
+    webUrl: "https://indiaeducationdiary.in/unesco-trains-indonesian-teachers-on-ai-ethics/"
+    ampWebUrl: "https://indiaeducationdiary.in/unesco-trains-indonesian-teachers-on-ai-ethics/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/unesco-trains-indonesian-teachers-on-ai-ethics/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 74
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
+        width: 534
+        height: 462
+        isCached: true
   - title: "UNESCO recommends age limit of 13 for classroom artificial intelligence use"
     excerpt: "This guidance lists a seven-step recommendation which includes regulations on data, generative AI, and AI ethics, along with updates to current copyright laws and whole-of-government strategies regarding the technology. It also acknowledged what it called ..."
     publishedDateTime: 2023-09-07T19:57:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/elon-musk-google-larry-page-future-o
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-google-larry-page-future-of-ai-2023-9?amp"
 type: article
 quality: 77
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "The cofounder of Google's AI division DeepMind says everybody will have their own AI-powered 'chief of staff' over the next five years"
-    excerpt: "Mustafa Suleyman said AI will \"intimately know your personal information\" and be able to serve you 24-7."
-    publishedDateTime: 2023-09-05T17:15:00Z
-    webUrl: "https://www.businessinsider.com/google-deepmind-cofounder-mustafa-suleyman-everyone-will-have-ai-assistant-2023-9"
-    ampWebUrl: "https://www.businessinsider.com/google-deepmind-cofounder-mustafa-suleyman-everyone-will-have-ai-assistant-2023-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-deepmind-cofounder-mustafa-suleyman-everyone-will-have-ai-assistant-2023-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 72
-    images:
-      - url: "https://i.insider.com/64f757c47819260019117624?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Elon Musk’s Attempt to Halt Google’s DeepMind Acquisition Over AI Concerns"
     excerpt: "San Francisco, CA In a revealing excerpt from the forthcoming biography “Elon Musk” by Walter Isaacson, it has been disclosed that Elon Musk once attempted to thwart Google’s acquisition of DeepMind in 2014."
     publishedDateTime: 2023-09-07T11:20:00Z

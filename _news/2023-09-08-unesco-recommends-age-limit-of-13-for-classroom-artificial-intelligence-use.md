@@ -20,6 +20,22 @@ topics:
 
 related:
   - title: "UNESCO trains Indonesian Teachers on AI Ethics"
+    excerpt: "UNESCO held an Ethics Teachers Training Course (ETTC) focused on AI ethics in Yogyakarta, in collaboration with the University Gadjah Mada.The interactive event brought together 30 participants from v"
+    publishedDateTime: 2023-09-10T05:45:00Z
+    webUrl: "https://indiaeducationdiary.in/unesco-trains-indonesian-teachers-on-ai-ethics/"
+    ampWebUrl: "https://indiaeducationdiary.in/unesco-trains-indonesian-teachers-on-ai-ethics/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/unesco-trains-indonesian-teachers-on-ai-ethics/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 74
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
+        width: 534
+        height: 462
+        isCached: true
+  - title: "UNESCO trains Indonesian Teachers on AI Ethics"
     excerpt: "On 23-24 August 2023, UNESCO held an Ethics Teachers Training Course (ETTC) focused on AI ethics in Yogyakarta, in collaboration with the University Gadjah Mada. The interactive event brought together 30 participants from various backgrounds and ..."
     publishedDateTime: 2023-09-07T11:04:00Z
     webUrl: "https://www.unesco.org/en/articles/unesco-trains-indonesian-teachers-ai-ethics"

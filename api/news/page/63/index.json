@@ -2,6 +2,144 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2023-07-27-sk-hynix-says-chip-market-seeing-signs-of-recovery-ai-demand-aiding-turnaround.md",
+      "title": "SK Hynix Says Chip Market Seeing Signs Of Recovery, AI Demand Aiding Turnaround",
+      "excerpt": "While the memory chip market is showing signs of improvement, market conditions remain varied depending on the type of chips. ( Image Source : Getty ) SK Hynix, a prominent memory chip manufacturer based in South Korea,",
+      "sourceUrl": null,
+      "webUrl": "https://news.abplive.com/technology/sk-hynix-earnings-quarterly-report-says-chip-market-seeing-signs-of-recovery-ai-demand-aiding-turnaround-1618524",
+      "originalUrl": "https://news.abplive.com/technology/sk-hynix-earnings-quarterly-report-says-chip-market-seeing-signs-of-recovery-ai-demand-aiding-turnaround-1618524",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/07/26/d14f205ccc3e0ef87051c8d62f884b581690358371133402_original.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://news.abplive.com/technology/sk-hynix-earnings-quarterly-report-says-chip-market-seeing-signs-of-recovery-ai-demand-aiding-turnaround-1618524/amp",
+      "cdnAmpWebUrl": "https://news-abplive-com.cdn.ampproject.org/c/s/news.abplive.com/technology/sk-hynix-earnings-quarterly-report-says-chip-market-seeing-signs-of-recovery-ai-demand-aiding-turnaround-1618524/amp",
+      "publishedDateTime": "2023-07-26T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "abp LIVE",
+        "domain": "abplive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-openai-discontinues-its-ai-writing-detector-due-to-low-rate-of-accuracy.md",
+      "title": "OpenAI discontinues its AI writing detector due to “low rate of accuracy”",
+      "excerpt": "As of July 20, 2023, the AI classifier is no longer available due to its low rate of accuracy. We are working to incorporate feedback and are currently researching more effective provenance techniques for text, and have made a commitment to develop and deploy mechanisms that enable users to understand if audio or visual content is AI-generated.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/07/openai-discontinues-its-ai-writing-detector-due-to-low-rate-of-accuracy/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/07/openai-discontinues-its-ai-writing-detector-due-to-low-rate-of-accuracy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/desert_slots-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/07/openai-discontinues-its-ai-writing-detector-due-to-low-rate-of-accuracy/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/07/openai-discontinues-its-ai-writing-detector-due-to-low-rate-of-accuracy/amp/",
+      "publishedDateTime": "2023-07-26T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-flag-harmful-language-in-spoken-conversations-with-amazon-transcribe-toxicity-detection.md",
+      "title": "Flag harmful language in spoken conversations with Amazon Transcribe Toxicity Detection",
+      "excerpt": "The increase in online social activities such as social networking or online gaming is often riddled with hostile or aggressive behavior that can lead to unsolicited manifestations of hate speech, cyberbullying, or harassment. For example, many online gaming communities offer voice chat functionality",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/flag-harmful-language-in-spoken-conversations-with-amazon-transcribe-toxicity-detection/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/flag-harmful-language-in-spoken-conversations-with-amazon-transcribe-toxicity-detection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T11:48:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-07-27-changing-workforce-underscores-growth-of-artificial-intelligence.md",
       "title": "Changing Workforce Underscores Growth of Artificial Intelligence",
       "excerpt": "In particular, for the short term, consider the Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X ETF (UBOT). UBOT seeks daily investment results equal to 200% of the ...",
@@ -1047,163 +1185,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-how-to-invest-in-mistral-ai-in-2023.md",
-      "title": "How to Invest in Mistral AI in 2023",
-      "excerpt": "Mistral AI was founded in May 2023, and the company raised $113 million just four weeks later with an estimated valuation of $260 million, a sign of how much confidence venture capital investors have in the founders and how much potential they see in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-mistral-ai-stock/",
-      "originalUrl": "https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-mistral-ai-stock/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.foolcdn.com/media/dubs/images/AI-head-dollar-signs-Getty-Images.width-600.jpg",
-          "width": 600,
-          "height": 424,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T07:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-graft-is-building-an-ai-development-platform-for-the-masses.md",
-      "title": "Graft is building an AI development platform for the masses",
-      "excerpt": "Graft is attempting to take the complexity out of building AI applications with a templatized approach to development.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/07/26/graft-is-building-an-ai-development-platform-for-the-masses/",
-      "originalUrl": "https://techcrunch.com/2023/07/26/graft-is-building-an-ai-development-platform-for-the-masses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1481095076.jpg?resize=1200,694",
-          "width": 1200,
-          "height": 694,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/07/26/graft-is-building-an-ai-development-platform-for-the-masses/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/26/graft-is-building-an-ai-development-platform-for-the-masses/amp/",
-      "publishedDateTime": "2023-07-26T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-how-does-artificial-intelligence-create-new-jobs.md",
-      "title": "How Does Artificial Intelligence Create New Jobs?",
-      "excerpt": "While AI may reduce the demand for some jobs, it can also create new employment opportunities in previously unexplored areas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/26/how-does-artificial-intelligence-create-new-jobs/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/26/how-does-artificial-intelligence-create-new-jobs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64bfeb8f0100529935b8ced8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/26/how-does-artificial-intelligence-create-new-jobs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/26/how-does-artificial-intelligence-create-new-jobs/amp/",
-      "publishedDateTime": "2023-07-26T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

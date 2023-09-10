@@ -2,6 +2,196 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-08-30-loom-launches-ai-upgrades-to-maintain-lead-async-communication-space.md",
+      "title": "Loom Launches AI Upgrades To Maintain Lead Async Communication Space",
+      "excerpt": "Video messaging platform Loom unveiled several generative-AI focused upgrades this week, as it aims to stay ahead of the competition in the red-hot asynchronous",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johanmoreno/2023/08/30/loom-launches-ai-upgrades-to-maintain-lead-async-communication-space/",
+      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/08/30/loom-launches-ai-upgrades-to-maintain-lead-async-communication-space/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64eed1d70a6722fa073b0616/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/08/30/loom-launches-ai-upgrades-to-maintain-lead-async-communication-space/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/08/30/loom-launches-ai-upgrades-to-maintain-lead-async-communication-space/amp/",
+      "publishedDateTime": "2023-08-29T22:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-30-gpunet-raises-500k-from-momentum-6-alphablockz-nvidia-backs-testnet-launch.md",
+      "title": "GPU.Net Raises 500K from Momentum 6 & Alphablockz. Nvidia Backs Testnet Launch",
+      "excerpt": "Backed by a substantial $500,000 investment from Momentum 6 & Alphablockz, GPU.Net is empowered to take its ambitions to new heights. This infusion of capital not only validates the platform's potential but also enables the team to enhance their efforts in creating a robust infrastructure that meets the global GPU resource challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/gpu-net-raises-500k-from-momentum-6-alphablockz-nvidia-backs-testnet-launch-1032590957",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/gpu-net-raises-500k-from-momentum-6-alphablockz-nvidia-backs-testnet-launch-1032590957",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://newsroom.submitmypressrelease.com/system/media_files/images/000/042/685/original_jpeg/image.jpg",
+          "width": 936,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-29T22:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-30-precision-and-progress-surgical-robots-drive-growth-in-the-global-healthcare-robotics-market.md",
+      "title": "Precision And Progress: Surgical Robots Drive Growth In The Global Healthcare Robotics Market",
+      "excerpt": "Continuresearch and development efforts in healthcare robots result in technological advances and new inventions. From better imaging and sensors to the incorporation of artificial intelligence and machine learning, these advancements improve the ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1106983372/Precision-And-Progress-Surgical-Robots-Drive-Growth-In-The-Global-Healthcare-Robotics-Market",
+      "originalUrl": "https://menafn.com/1106983372/Precision-And-Progress-Surgical-Robots-Drive-Growth-In-The-Global-Healthcare-Robotics-Market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?507904",
+          "width": 284,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-29T18:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-08-30-baidu-leads-public-rollout-of-ai-chatbots-in-china.md",
+      "title": "Baidu Leads Public Rollout Of AI Chatbots In China",
+      "excerpt": "When asked about Taiwan, a self-ruling island that China claims as its territory ... it has also looked to grow its cloud computing business and develop autonomous driving technology. Baidu shares were up 3.2 percent in Hong Kong at around 0430 GMT ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-699ddf3b",
+      "originalUrl": "https://www.barrons.com/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-699ddf3b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.barrons.com/asset/external-media/afp/AFP1042030856798214602168971352978388989576---1.jpg",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-699ddf3b",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-699ddf3b",
+      "publishedDateTime": "2023-08-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-30-ibm-bids-farewell-to-watson-health-assets.md",
       "title": "IBM Bids Farewell to Watson Health Assets",
       "excerpt": "IBM shook up the digital health space Friday with the news that it is selling its healthcare data and analytics assets, currently part of the Watson Health business, to an investment firm. The sale price is reportedly more than $1 billion, although the ...",
@@ -129,49 +319,6 @@
         "Microsoft AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-30-unveiling-global-warmings-impact-on-daily-precipitation-with-deep-learning.md",
-      "title": "Unveiling global warming's impact on daily precipitation with deep learning",
-      "excerpt": "Using a deep learning approach, they have unveiled a significant change in the characteristics of global daily precipitation for the first time. Their research findings were published on August 30 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/08/230830131932.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/08/230830131932.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {
@@ -1050,153 +1197,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-oracles-stock-wins-an-upgrade-as-wall-street-may-be-underestimating-its-ai-advantage.md",
-      "title": "Oracle’s stock wins an upgrade, as Wall Street may be underestimating its AI advantage",
-      "excerpt": "“We could be sitting in front of 6-12 months of GPU shortage noise and we haven’t even seen the $2 [billion] in AI start-up commitments convert to OCI usage.” He added that he had been skeptical “about the existence and certainly sustainability of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/oracles-stock-wins-an-upgrade-as-wall-street-may-be-underestimating-its-ai-advantage-402a21b0",
-      "originalUrl": "https://www.marketwatch.com/story/oracles-stock-wins-an-upgrade-as-wall-street-may-be-underestimating-its-ai-advantage-402a21b0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-798898/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/oracles-stock-wins-an-upgrade-as-wall-street-may-be-underestimating-its-ai-advantage-402a21b0",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/oracles-stock-wins-an-upgrade-as-wall-street-may-be-underestimating-its-ai-advantage-402a21b0",
-      "publishedDateTime": "2023-08-29T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-ai-to-star-in-the-launch-of-webflows-built-in-app-ecosystem.md",
-      "title": "AI to star in the launch of Webflow’s built-in app ecosystem",
-      "excerpt": "Leinwand invites developers to bring their ideas and start developing on the platform. In a call with VentureBeat, Jasper AI President Shane Orlick discussed the company’s partnership with Webflow, emphasizing how gen AI is empowering creators.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-to-star-in-the-launch-of-webflows-built-in-app-ecosystem/",
-      "originalUrl": "https://venturebeat.com/ai/ai-to-star-in-the-launch-of-webflows-built-in-app-ecosystem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/08/IMG_0455.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-29T07:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-finance-transformation-with-ai-and-open-banking.md",
-      "title": "Finance Transformation With AI And Open Banking",
-      "excerpt": "Oracle Cloud is one good choice, but Amazon Web Services (AWS), Azure, Google Cloud Platform or a combination ... Guardrails And Governance: Applying STAGE And TOTAL Security To Machine Learning If you need to read more on the banking STAGE framework ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/29/finance-transformation-with-ai-and-open-banking/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/29/finance-transformation-with-ai-and-open-banking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-29T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

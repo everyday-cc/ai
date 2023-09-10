@@ -7,7 +7,7 @@ originalUrl: "https://triblive.com/opinion/dietram-a-scheufele-dominique-brossar
 webUrl: "https://triblive.com/opinion/dietram-a-scheufele-dominique-brossard-and-todd-newman-experts-alone-cant-handle-ai-the-public-needs-a-seat-at-the-table/"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI Ethics
   - AI
+
+related:
+  - title: "Experts Alone Can’t Handle AI. The Public Needs A Seat At The Table"
+    excerpt: "Industry leaders, scientists and policymakers may see AI’s technical potential, but societies have trouble adapting to revolutionary advances without broad public participation."
+    publishedDateTime: 2023-09-10T10:01:00Z
+    webUrl: "https://www.civilbeat.org/2023/09/experts-alone-cant-handle-ai-the-public-needs-a-seat-at-the-table/"
+    type: article
+    provider:
+      name: Civil Beat
+      domain: civilbeat.org
+    quality: 39
+    images:
+      - url: "https://d1l18ops95qbzp.cloudfront.net/wp-content/2023/07/23152240/iStock-1464561797.jpg"
+        width: 2309
+        height: 1299
+        isCached: true
 
 secured: "OzFhuGfJJXR577jPBNxq2AIhB3BlDo5m9XUDJ+zy97hLm0neSlwNPWJa5nZ9SUUwBXOY2oyzvli3O16HJqfzDjUiYztIbwOw8wG9af46BU25n3ClhprMY22DCUWus00XV0CRYPC4SIHhGljW9dstpHDCu/2Ky8cH30dpioOYovDpmp2g8xoqEE5qmw0f/BHeViYe8Hj47NWFN9IP0b3gvyV3UG6AjJJutXtaEFaMiV4pFjVuiVHvs6w50A28xc1Hf3MGi/e0s/Dg1JVByVvtSTwh69oJZComme4HR2Bx6ZEjsJVFgal1tlU8KRJ6skMsLmVvNctAqKL/upqdLYjsldZs+mg2nOzI2so4Xyyz97xjhMfGytZ/r9H7l6vEfgDv6fq6fwoq362EpLaTYWHCAJGAmn8KDBLu0AZksh8HjtVS0ZXt4U1xLvEVg4PMe+x5dnC/G+37xyBWSwv1OSHBdoXwpH10ORu6WEn2C1WfVZ2HDfLDOOCGf2Imqcohz4jcS6iA+PpeTuYF1USZNfy80g==;ZWEXy2QGb30oDjgq3Y0iOw=="
 ---

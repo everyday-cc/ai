@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Unveiling global warming's impact on daily precipitation with deep learning"
-excerpt: "Using a deep learning approach, they have unveiled a significant change in the characteristics of global daily precipitation for the first time. Their research findings were published on August 30 ..."
-publishedDateTime: 2023-08-30T00:00:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2023/08/230830131932.htm"
-webUrl: "https://www.sciencedaily.com/releases/2023/08/230830131932.htm"
+excerpt: "A collaborative international research team led by Professor Yoo-Geun Ham from Chonnam National University and Professor Seung-Ki Min from Pohang University of Science and Technology (POSTECH) has made a discovery on the impact of global warming on global daily precipitation."
+publishedDateTime: 2023-08-30T16:08:00Z
+originalUrl: "https://phys.org/news/2023-08-unveiling-global-impact-daily-precipitation.html"
+webUrl: "https://phys.org/news/2023-08-unveiling-global-impact-daily-precipitation.html"
+ampWebUrl: "https://phys.org/news/2023-08-unveiling-global-impact-daily-precipitation.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-08-unveiling-global-impact-daily-precipitation.amp"
 type: article
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - Machine Learning
   - AI
 
-secured: "AjCsqvPEQ5MGa28pLIQ4l/+643Ah45wjYmRB5Zo7NcxPjdFl8ED2L2WZLhMy13mp4JVLx5dz/HmVn7Ih0LJomXp4UwR9T+ch/RAho9fjESCyRVq7du0vuMpGOtz8CHFzbq38gZZRVVo046Wtyk8//e9Ntq4KV4+USXCkTE7gc2F27TH67E/O28jHnEx8+T9NV8K6l7ss89U7jQ7hgtWQoaWHEWwBkISiOHKzS9Dyb1dHhX8fKU3mu+po5YahnUeK/evwZNiC21SsGYvvlCzOr+43YsO5DwnfU/iwkMUsJVAvI6Dxui50y27UV552G6Kd5Wlxa/EFMlbm43W3i3nbktr2/Cs18VKAhuOiC2la8qA=;1dUQeTc0Y5Z6esudRurmhQ=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2023/unveiling-global-warmi.jpg"
+    width: 1280
+    height: 1057
+    isCached: true
+
+secured: "3302N4TaJYk1KQYnAy4NW7ilV+8265he++nKcXq7NxF9AMLrIG5xVb/HPCmSc+6MAj4lmlH2kMwFRcUds5Z4i1EfmfjuoRnWMvuGHu2w7Q9Qh0QUIVhzv/HKrW0bAbsZS6QutI6U7CZZu0G22GCmzg5+5s29DevttIagYPCtxYsiJzfO2O3pPwmlddlj6p2szyypC9ver/hEmpLnLEGh9fOR9HDY0gAoV2ywqc3t+3ajHLzuILrNomG2jaA3hjdmKCeTR0Sc8KR50LMpwNv6ACY3Gdi32Ldc8dffhRYnPS1IZ46mvX6FyTkI+PGs886g0N/OXR1ZejqoV6/Jya+UPjgIvmbFe9MMIgzgqcNfLTM=;G4qpTQHXdR4bC3XG2DKdoQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/my-5-favorite-ai-tools-for-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/my-5-favorite-ai-tools-for-school-class-is-in-session-and-generative-ai-can-help/"
 type: article
 quality: 81
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64f9d707743b486272f9e2c7/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "5 AI tools to automate passive income generation"
+    excerpt: "Learn how you can automate passive income generation using a variety of different AI tools currently available. Benefit from the technology"
+    publishedDateTime: 2023-09-10T10:27:00Z
+    webUrl: "https://www.geeky-gadgets.com/automate-passive-income/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/5-AI-tools-to-generate-passive-income-streams.jpg"
+        width: 700
+        height: 466
         isCached: true
   - title: "Governments Must Quickly Regulate Generative Ai In Schools, Unesco"
     excerpt: "designed to address the disruptions caused by Generative AI technologies. Building on UNESCO's 2021 Recommendation on the Ethics of Artificial Intelligence and the 2019 Beijing Consenon Artificial Intelligence in Education , the guidance promotes human ..."

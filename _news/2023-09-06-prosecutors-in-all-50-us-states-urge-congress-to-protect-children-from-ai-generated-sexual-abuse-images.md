@@ -75,15 +75,6 @@ related:
         width: 620
         height: 413
         isCached: true
-  - title: "Attorneys General from all 50 states urge Congress to help fight AI-generated CSAM"
-    excerpt: "The attorneys general from all 50 states have banned together and sent an open letter to Congress, asking for increased protective measures against AI-enhanced child sexual abuse images."
-    publishedDateTime: 2023-09-05T18:54:00Z
-    webUrl: "https://www.engadget.com/attorneys-general-from-all-50-states-urge-congress-to-help-fight-ai-generated-csam-184938825.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 41
   - title: "Suspected Chinese operatives using AI generated images to spread disinformation among US voters, Microsoft says"
     excerpt: "Suspected Chinese operatives have used images made by artificial intelligence to mimic American voters online in an attempt to spread disinformation and provoke discussion on divisive political issues as the 2024 US election approaches,"
     publishedDateTime: 2023-09-07T14:08:00Z

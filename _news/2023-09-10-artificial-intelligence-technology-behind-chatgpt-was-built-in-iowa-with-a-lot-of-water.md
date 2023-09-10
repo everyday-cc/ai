@@ -1,28 +1,27 @@
 ---
 category: news
 title: "Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water"
-excerpt: "As they race to capitalize on a craze for generative AI, leading tech developers including Microsoft, OpenAI and Google have acknowledged that growing demand for their AI tools carries hefty costs, from expensive semiconductors to an increase in water"
-publishedDateTime: 2023-09-09T21:02:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/artificial-intelligence-technology-chatgpt-built-iowa-lot-water-103052515"
-webUrl: "https://abcnews.go.com/Technology/wireStory/artificial-intelligence-technology-chatgpt-built-iowa-lot-water-103052515"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/artificial-intelligence-technology-chatgpt-built-iowa-lot-water-103052515"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/artificial-intelligence-technology-chatgpt-built-iowa-lot-water-103052515"
+excerpt: "As they race to capitalize on a craze for generative AI, leading tech developers including Microsoft, OpenAI and Google have acknowledged that growing demand for their AI tools carries hefty"
+publishedDateTime: 2023-09-09T20:39:00Z
+originalUrl: "https://tulsaworld.com/ap/business/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water/article_3379d8ad-289b-59cd-af57-adfc57af0969.html"
+webUrl: "https://tulsaworld.com/ap/business/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water/article_3379d8ad-289b-59cd-af57-adfc57af0969.html"
 type: article
-quality: 48
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Tulsa World
+  domain: tulsaworld.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
+  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/6/5e/65eddd27-5f7e-51af-a65c-5d8ff9c1f88d/64fc7131358f7.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -265,6 +264,20 @@ related:
         width: 768
         height: 633
         isCached: true
+  - title: "AI technology behind ChatGPT was built in Iowa — with a lot of water"
+    excerpt: "Microsoft made its first $1 billion investment in San Francisco-based OpenAI in 2019, more than two years before the startup introduced ChatGPT and sparked worldwide fascination with AI advancements. As part of the deal, the software giant would supply computing power needed to train the AI models."
+    publishedDateTime: 2023-09-10T09:11:00Z
+    webUrl: "https://www.newstribune.com/news/2023/sep/10/ai-technology-behind-chatgpt-was-built-in-iowa/"
+    type: article
+    provider:
+      name: News Tribune
+      domain: newstribune.com
+    quality: 39
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/205284161_205284161-4c363406331a4942848999df02e84f49_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Apple is quietly spending millions on AI to make Siri as smart as ChatGPT"
     excerpt: "Apple is spending millions of dollars a day to train its large-language models, and it might be readying to tackle OpenAI ChatGPT."
     publishedDateTime: 2023-09-06T19:07:00Z
@@ -292,20 +305,6 @@ related:
       - url: "https://menafn.com/updates/pr/2023-09/08/I_6f83cimage_story.png"
         width: 1024
         height: 701
-        isCached: true
-  - title: "AI technology behind ChatGPT was built in Iowa — with a lot of water"
-    excerpt: "Microsoft made its first $1 billion investment in San Francisco-based OpenAI in 2019, more than two years before the startup introduced ChatGPT and sparked worldwide fascination with AI advancements. As part of the deal, the software giant would supply computing power needed to train the AI models."
-    publishedDateTime: 2023-09-10T09:11:00Z
-    webUrl: "https://www.newstribune.com/news/2023/sep/10/ai-technology-behind-chatgpt-was-built-in-iowa/"
-    type: article
-    provider:
-      name: News Tribune
-      domain: newstribune.com
-    quality: 37
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/205284161_205284161-4c363406331a4942848999df02e84f49_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 400
         isCached: true
   - title: "Tencent unveils ChatGPT rival in China amid continuing US AI chip ban"
     excerpt: "Chinese technology corporation Tencent unveiled its “Hunyuan” artificial intelligence (AI) system, a multimodal large language model (LLM) similar to OpenAI’s ChatGPT, at the Global Digital Ecosystem Summit in Shenzhen on Aug. 7."
@@ -383,6 +382,6 @@ related:
       domain: scientificamerican.com
     quality: 4
 
-secured: "pJmvai15so66AozXjZqxlqNhAHg6WKvqdYIPhRWaK1J+1+igb1ESAUHzrLWriu4djvkGkdZu/hU+43qjdOVeP1mn/m3ZvFe2NPERLrSGyY9f6+IsncCKEoHxcMVD/scqsQg+qo8r8LoJ+GgO3OZyaTmZmmOZY+F23Gt2WucgDMumx4cthnIrOJpzmCtJ4EVjYp3JZs5yPvvBnzlN8gkPNGqiEmyjvhr0Kn3Aaep8IJ6toZkQeU6EgqyQMWkHZl+EvCEejD57d2dgwh/xutIjY17wdSr0Iw6Zx4lIcSnBfSH22/ruYH8LYDrOchO9IZ4wjEBBw11dGTCIB3Oh08pp994O+kjR1X+7+mWijJjQbcE=;/B48Q3KVIvxvY751MKnCKA=="
+secured: "ZIUmKmWyguR4fWfAuIWPLeZW/rHTzjeAvNBwq6jIYUPxDVBiMU4uPPPXMwjgeF2eeeJz16781P3qSdGkMCwHB6/vYm25Gd1kdVGJXeJPs0BAFBTDa6mrj/0D+HmIZkjxQUgIkomRpXjtpMsRrIjJyUR4F5LlmesODKez3du0ACI9SgCWxdROT7qvfx0pKzho7moRG933R732U5pJwpk1iVWvk4k//OmoUKqFu4vUlLXPYZSVr3aHTpVFAfhXmzSGR/arYnKT3eLvFTKBv0zh/azb3eSrKiJff8wb5FlLU7caB2PNx/uBB9pK5JJO//wXO4G1BDo91fiBb5zcNPMKG3wVMxD+Xp1imEE76zjluec=;a2ZoxVBGS6AhvVib+NxPQA=="
 ---
 
