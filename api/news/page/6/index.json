@@ -2,21 +2,21 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2023-09-06-with-ai-future-of-hearing-aids-might-include-language-translation.md",
-      "title": "With AI, future of hearing aids might include language translation",
-      "excerpt": "We hear a lot of headlines about concerns over artificial intelligence and what it might mean for the future. But it's not all bad: Consider hearing loss.Friendly AI could be",
+      "path": "_news/2023-09-06-kindo-raises-7m-for-ai-productivity-platform-for-businesses.md",
+      "title": "Kindo raises $7M for AI productivity platform for businesses",
+      "excerpt": "Kindo has successfully raised $7 million in seed funding for the launch of its secure AI productivity platform for businesses.",
       "sourceUrl": null,
-      "webUrl": "https://www.djournal.com/news/national/with-ai-future-of-hearing-aids-might-include-language-translation/video_9e5519be-2dbf-53fc-b29e-9b55cab042d8.html",
-      "originalUrl": "https://www.djournal.com/news/national/with-ai-future-of-hearing-aids-might-include-language-translation/video_9e5519be-2dbf-53fc-b29e-9b55cab042d8.html",
+      "webUrl": "https://venturebeat.com/ai/kindo-raises-7m-for-ai-productivity-platform-for-businesses/",
+      "originalUrl": "https://venturebeat.com/ai/kindo-raises-7m-for-ai-productivity-platform-for-businesses/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 97,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/9/e5/9e5519be-2dbf-53fc-b29e-9b55cab042d8/64f77e3bf228f.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
+          "url": "https://venturebeat.com/wp-content/uploads/2023/09/kindo.jpg?w=1200&strip=all",
           "width": 1200,
-          "height": 630,
+          "height": 670,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,11 +26,53 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-05T11:32:00-07:00",
+      "publishedDateTime": "2023-09-05T13:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Daily Journal",
-        "domain": "djournal.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-06-1-top-chip-stock-ready-to-ride-nvidias-ai-tailwinds-higher.md",
+      "title": "1 Top Chip Stock Ready to Ride Nvidia's AI Tailwinds Higher",
+      "excerpt": "(up more than 232%) since the beginning of the year. For the most recent quarter, Nvidia racked up $13.51 billion in revenue, more than doubling last year's figure and setting a new second-quarter company record.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/1-top-chip-stock-ready-to-ride-nvidias-ai-tailwinds-higher",
+      "originalUrl": "https://www.nasdaq.com/articles/1-top-chip-stock-ready-to-ride-nvidias-ai-tailwinds-higher",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 224,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-05T13:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,7 +82,7 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "AI Hardware",
         "AI"
       ]
     },
@@ -1140,59 +1182,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-civo-adds-speech-to-text-to-greener-cloud.md",
-      "title": "Civo Adds Speech-To-Text To Greener Cloud",
-      "excerpt": "Using a ‘digital boiler’, the system immerses computers in mineral oil to capture the generated heat, this is then passed through a heat exchanger to heat the water.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/09/05/civo-adds-speech-to-text-to-greener-cloud/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/09/05/civo-adds-speech-to-text-to-greener-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64f2f48d3b7f168d7417ee9d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/09/05/civo-adds-speech-to-text-to-greener-cloud/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/09/05/civo-adds-speech-to-text-to-greener-cloud/amp/",
-      "publishedDateTime": "2023-09-05T00:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

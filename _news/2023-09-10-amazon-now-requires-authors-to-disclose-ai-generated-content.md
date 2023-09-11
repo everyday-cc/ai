@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "IBM to continue collaboration with IIT-B and IISc, Bangalore over hybrid cloud and AI solutions"
-    excerpt: "According to an official release, the development aims to extend the prior research in natural language processing"
-    publishedDateTime: 2023-09-06T11:02:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-ibm-to-continue-collaboration-with-iit-b-and-iisc-bangalore-over-hybrid-cloud-and-ai-solutions-3235040/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ibm-to-continue-collaboration-with-iit-b-and-iisc-bangalore-over-hybrid-cloud-and-ai-solutions-3235040/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ibm-to-continue-collaboration-with-iit-b-and-iisc-bangalore-over-hybrid-cloud-and-ai-solutions-3235040/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 47
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-06T162824.938.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Cloudera Signs Strategic Collaboration Agreement with AWS"
     excerpt: "Sept. 6, 2023 — Cloudera, the data company for trusted enterprise artificial intelligence (AI), announced today that it has signed a Strategic Collaboration Agreement (SCA) with Amazon Web Services, Inc. (AWS). This agreement strengthens Cloudera’s ..."
     publishedDateTime: 2023-09-06T16:03:00Z

@@ -2,57 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-09-07-good-housing-policy-still-depends-on-human-not-artificial-intelligence.md",
-      "title": "Good Housing Policy Still Depends On Human Not Artificial Intelligence",
-      "excerpt": "It’s time for a post on artificial intelligence (AI) and affordable housing. The topic is interesting but AI comes with a great deal of hype. First of all, based on my experience with OpenAI’s free version of ChatGPT,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rogervaldez/2023/09/07/good-housing-policy-still-depends-on-human-not-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/rogervaldez/2023/09/07/good-housing-policy-still-depends-on-human-not-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64ec10923ce9ac868b4af6bf/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rogervaldez/2023/09/07/good-housing-policy-still-depends-on-human-not-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rogervaldez/2023/09/07/good-housing-policy-still-depends-on-human-not-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-09-07T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-07-musk-once-tried-to-stop-googles-deepmind-acquisition-in-2014-saying-the-future-of-ai-shouldnt-be-controlled-by-larry-page.md",
       "title": "Musk once tried to stop Google's DeepMind acquisition in 2014, saying the future of AI shouldn't be controlled by Larry Page",
       "excerpt": "Walter Isaacson, a writer who spent three years trailing Musk, recounted the background of Musk and Page's conversation in his forthcoming biography, 'Elon Musk.'",
@@ -164,7 +113,7 @@
       "originalUrl": "https://www.financialexpress.com/business/digital-transformation-cloudera-collaborates-with-aws-to-deliver-enterprise-generative-ai-based-solutions-3235922/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -196,6 +145,50 @@
       "topics": [
         "AWS AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-07-ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft.md",
+      "title": "AI chip startup d-Matrix raises $110 mln with backing from Microsoft",
+      "excerpt": "Microsoft: Nvidia's dominant position in the AI chip market due to a powerful combination of hardware and software has scared off potential investors in some startups, according to sources Reuters interviewed.",
+      "sourceUrl": null,
+      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231",
+      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 231,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-103460231,imgsize-1539213,width-1200,height=765,overlay-etbrandequity/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft.jpg",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231",
+      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231",
+      "publishedDateTime": "2023-09-07T00:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "brandequity.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Microsoft AI"
       ]
     },
     {
@@ -528,7 +521,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/09/ai-generated-child-sex-imagery-has-every-us-attorney-general-calling-for-action/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -630,7 +623,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/09/06/110m-in-funding-will-help-d-matrix-get-generative-ai-inference-platform-to-market/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -788,7 +781,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/09/06/synopsys-opens-the-next-chapter-of-ai-tools-for-chip-design-and-manufacturing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 131,
       "tags": null,
       "images": [
         {

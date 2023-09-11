@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/09/07/chatgpt-everything-you-need-to-kno
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/07/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
 type: article
 quality: 89
-heat: 359
+heat: 349
 published: true
 
 provider:
@@ -138,22 +138,6 @@ related:
       - url: "https://www.bostonherald.com/wp-content/uploads/2023/09/chat-gpt-iowa.jpg?w=1024&h=683"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Chinese AI chatbots want to be your emotional support"
-    excerpt: "Xiaoice, one of the first Chinese AI assistants, made its name by allowing users to customize the perfect romantic partner. And another startup, Timedomain, left a trail of broken hearts this year when it shut down its AI boyfriend voice service."
-    publishedDateTime: 2023-09-06T10:40:00Z
-    webUrl: "https://www.technologyreview.com/2023/09/06/1079026/chinese-ai-chatbots-emotional-support"
-    ampWebUrl: "https://www.technologyreview.com/2023/09/06/1079026/chinese-ai-chatbots-emotional-support/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/06/1079026/chinese-ai-chatbots-emotional-support/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/09/AP23243203838995.jpeg?w=3000"
-        width: 3000
-        height: 1688
         isCached: true
   - title: "Artificial intelligence technology behind ChatGPT was built in Iowa"
     excerpt: "Water pulled from the Raccoon and Des Moines rivers in central Iowa cools a powerful supercomputer as it helped teach its AI systems how to mimic human writing."

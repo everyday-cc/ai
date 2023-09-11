@@ -10,7 +10,7 @@
       "originalUrl": "https://indianexpress.com/article/india/as-distance-from-china-grows-india-us-work-on-tech-projects-chips-to-ai-8931140/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -340,6 +340,50 @@
       ]
     },
     {
+      "path": "_news/2023-09-07-ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft.md",
+      "title": "AI chip startup d-Matrix raises $110 mln with backing from Microsoft",
+      "excerpt": "Microsoft: Nvidia's dominant position in the AI chip market due to a powerful combination of hardware and software has scared off potential investors in some startups, according to sources Reuters interviewed.",
+      "sourceUrl": null,
+      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231",
+      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 231,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-103460231,imgsize-1539213,width-1200,height=765,overlay-etbrandequity/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft.jpg",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231",
+      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231",
+      "publishedDateTime": "2023-09-07T00:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "brandequity.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-07-110m-in-funding-will-help-d-matrix-get-generative-ai-inference-platform-to-market.md",
       "title": "$110M In Funding Will Help d-Matrix Get Generative AI Inference Platform To Market",
       "excerpt": "made possible by testing on earlier chips that demonstrated the in-memory architecture. d-Matrix roadmap: all roads lead to Corsair, the company's first scalable AI solution. \"We're entering the production phase when large language model (LLM) inference ...",
@@ -348,7 +392,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/09/06/110m-in-funding-will-help-d-matrix-get-generative-ai-inference-platform-to-market/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -453,7 +497,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/09/06/synopsys-opens-the-next-chapter-of-ai-tools-for-chip-design-and-manufacturing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -1383,50 +1427,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-chip-innovations-key-to-the-future-of-aiml.md",
-      "title": "Chip innovations key to the future of AI/ML",
-      "excerpt": "Dramatic gains in hardware performance have spawned generative AI, and a rich pipeline of ideas for future speedups that will drive machine learning to new heights. This is the word from Bill Dally, Nvidia’s chief scientist and senior vice president of research,",
-      "sourceUrl": null,
-      "webUrl": "https://it-online.co.za/2023/08/31/chip-innovations-key-to-the-future-of-ai-ml/",
-      "originalUrl": "https://it-online.co.za/2023/08/31/chip-innovations-key-to-the-future-of-ai-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://it-online.co.za/wp-content/uploads/2023/04/circuit-board.jpg",
-          "width": 1075,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-31T02:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT-Online",
-        "domain": "it-online.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

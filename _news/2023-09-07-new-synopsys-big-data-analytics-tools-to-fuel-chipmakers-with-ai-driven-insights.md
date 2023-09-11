@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 589
         isCached: true
-  - title: "8 AI and ML Trends and Predictions for the Next Decade"
-    excerpt: "As we step into the next decade, we are also stepping into an ever-evolving technology landscape. Artificial Intelligence (AI) and Machine Learning (ML) are the twin engines propelling us toward an exciting future."
-    publishedDateTime: 2023-09-06T10:04:00Z
-    webUrl: "https://techbullion.com/8-ai-and-ml-trends-and-predictions-for-the-next-decade/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 56
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/09/predicaton.jpg"
-        width: 667
-        height: 449
-        isCached: true
   - title: "Easier and faster materials microstructure analysis through human-AI collaboration"
     excerpt: "A research team led by Dr. Se-Jong Kim and Dr. Juwon Na of the Materials Data Management Center in the Materials Digital Platform Division together with a research team led by Professor Seungchul Lee of POSTECH has developed a technology that can automatically identify and quantify materials microstructure from microscopic images through human-in-the-loop machine learning."
     publishedDateTime: 2023-09-06T17:57:00Z

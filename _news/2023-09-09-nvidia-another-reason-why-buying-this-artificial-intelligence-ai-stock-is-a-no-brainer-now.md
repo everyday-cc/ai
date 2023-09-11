@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/articles/nvidia:-another-reason-why-buying-
 webUrl: "https://www.nasdaq.com/articles/nvidia:-another-reason-why-buying-this-artificial-intelligence-ai-stock-is-a-no-brainer"
 type: article
 quality: 53
-heat: -1
+heat: 63
 published: false
 
 provider:
@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia: Why This Phenomenal Artificial Intelligence (AI) Stalwart Is Still a Screaming Buy"
-    excerpt: "According to the Financial Times (via Tom's Hardware), Nvidia could ship 550,000 of its H100 data center graphics processing units (GPUs) for AI workloads in 2023. Given that the cheapest version of this GPU is sold for around $30,000, Nvidia could ..."
-    publishedDateTime: 2023-09-06T09:21:00Z
-    webUrl: "https://www.nasdaq.com/articles/nvidia:-why-this-phenomenal-artificial-intelligence-ai-stalwart-is-still-a-screaming-buy"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "Nvidia: Another Reason Why Buying This Artificial Intelligence (AI) Stock Is a No-Brainer Now"
     excerpt: "Nvidia revealed its GH200 Grace Hopper Superchip last month for accelerated computing and generative AI workloads. Third-party reviews indicate that this chip is way more powerful than competing chips from the likes of AMD and Intel. That's not surprising ..."
     publishedDateTime: 2023-09-09T21:56:00Z

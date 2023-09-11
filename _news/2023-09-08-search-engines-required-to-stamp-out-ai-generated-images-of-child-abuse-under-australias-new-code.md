@@ -60,20 +60,6 @@ related:
         width: 728
         height: 381
         isCached: true
-  - title: "Suspected Chinese operatives using AI generated images to spread disinformation among US voters, Microsoft says"
-    excerpt: "Suspected Chinese operatives have used images made by artificial intelligence to mimic American voters online in an attempt to spread disinformation and provoke discussion on divisive political issues as the 2024 US election approaches,"
-    publishedDateTime: 2023-09-07T14:08:00Z
-    webUrl: "https://abc17news.com/politics/national-politics/cnn-us-politics/2023/09/07/suspected-chinese-operatives-using-ai-generated-images-to-spread-disinformation-among-us-voters-microsoft-says/"
-    type: article
-    provider:
-      name: ABC 17 News
-      domain: abc17news.com
-    quality: 36
-    images:
-      - url: "https://abc17news.b-cdn.net/abc17news.com/2023/09/web-9.7-375x225.jpg"
-        width: 375
-        height: 225
-        isCached: true
   - title: "Crafting persuasion: mastering compelling arguments in the age of AI and the video generation"
     excerpt: "Stratton Horres and Karen L. Bashor of Wilson Elser provide tips on combining AI and video evidence with the human connection in trial presentations, and opening and closing arguments."
     publishedDateTime: 2023-09-07T17:29:00Z

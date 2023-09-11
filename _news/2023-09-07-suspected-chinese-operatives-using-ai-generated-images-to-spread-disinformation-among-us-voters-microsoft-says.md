@@ -26,70 +26,178 @@ images:
     isCached: true
 
 related:
-  - title: "AI-generated child sex imagery has every US attorney general calling for action"
-    excerpt: "Second, after considering the expert commission’s recommendations, Congress should act to deter and address child exploitation, such as by expanding existing restrictions on CSAM to explicitly cover AI-generated CSAM. This will ensure prosecutors have the tools they need to protect our children."
-    publishedDateTime: 2023-09-06T21:48:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/09/ai-generated-child-sex-imagery-has-every-us-attorney-general-calling-for-action/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/09/ai-generated-child-sex-imagery-has-every-us-attorney-general-calling-for-action/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/ai-generated-child-sex-imagery-has-every-us-attorney-general-calling-for-action/amp/"
+  - title: "AI chip startup d-Matrix raises $110 mln with backing from Microsoft"
+    excerpt: "Microsoft: Nvidia's dominant position in the AI chip market due to a powerful combination of hardware and software has scared off potential investors in some startups, according to sources Reuters interviewed."
+    publishedDateTime: 2023-09-07T07:10:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 83
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 91
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/09/us_capitol_hero-800x450.jpg"
-        width: 800
-        height: 450
+      - url: "https://etimg.etb2bimg.com/thumb/msid-103460231,imgsize-1539213,width-1200,height=765,overlay-etbrandequity/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft.jpg"
+        width: 1200
+        height: 765
         isCached: true
-  - title: "US Copyright Office denies protection for another AI-created image"
-    excerpt: "The U.S. Copyright Office has again rejected copyright protection for art created using artificial intelligence, denying a request by artist Jason M. Allen for a copyright covering an award-winning image he created with the generative AI system Midjourney."
-    publishedDateTime: 2023-09-06T21:20:00Z
-    webUrl: "https://www.reuters.com/legal/litigation/us-copyright-office-denies-protection-another-ai-created-image-2023-09-06/"
+  - title: "GPU Alternative d-Matrix Raises $110 Million for AI Inference"
+    excerpt: "GPU Alternative d-Matrix Raises $110 Million for AI Inference Your email has been sent Microsoft's venture group is among d-Matrix's supporters, investing in making ..."
+    publishedDateTime: 2023-09-06T20:36:00Z
+    webUrl: "https://www.techrepublic.com/article/gpu-alternative-d-matrix-raises-110-million-for-ai-inference/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 84
     images:
-      - url: "https://www.reuters.com/resizer/obog_o_zVai_ANfSJsOBGf9EywA=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JSX7UODPNVM4PKCR3XEOWCDN6U.jpg"
-        width: 728
-        height: 381
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/09/tr_09062023-gpu-alternative-d-matrix-raises-110-million-for-ai-inference.jpg"
+        width: 1400
+        height: 900
         isCached: true
-  - title: "Search engines required to stamp out AI-generated images of child abuse under Australia’s new code"
-    excerpt: "Exclusive: eSafety Commissioner says companies must work on building tools to promote greater online safety, including detecting deep fake images"
-    publishedDateTime: 2023-09-07T19:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/sep/08/search-engines-required-to-stamp-out-ai-generated-images-of-child-abuse-under-australias-new-code"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/sep/08/search-engines-required-to-stamp-out-ai-generated-images-of-child-abuse-under-australias-new-code"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/sep/08/search-engines-required-to-stamp-out-ai-generated-images-of-child-abuse-under-australias-new-code"
+  - title: "Microsoft says it will defend customers of its AI Copilots from copyright lawsuits"
+    excerpt: "The tech giant is integrating many of its biggest products with generative AI, which scoops up existing content to create new material, potentially putting customers in legal jeopardy."
+    publishedDateTime: 2023-09-08T02:43:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3233809/microsoft-says-it-will-defend-customers-its-ai-copilots-copyright-lawsuits"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: scmp.com
+      domain: scmp.com
+    quality: 78
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/09/08/10c71d6a-cc47-4b03-9730-1a8be73eed4c_9b7595cc.jpg?itok=6bBTINm9&v=1694140957"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "World's Largest Image-Based AI Model For Identifying Cancer: Microsoft Teams Up With Paige To Build One"
+    excerpt: "Microsoft Corp MSFT +0.27% + Free Alerts has announced a collaboration with digital pathology provider Paige to develop the world's largest image-based artificial intelligence model for cancer detection."
+    publishedDateTime: 2023-09-07T17:21:00Z
+    webUrl: "https://www.benzinga.com/news/large-cap/23/09/34325288/worlds-largest-image-based-ai-model-for-identifying-cancer-microsoft-teams-up-with-paige-to-build-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34325288"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34325288"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 58
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/09/07/msft.png?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Beijing Denies Microsoft’s Claims China is Using AI to Target US Voters"
+    excerpt: "Microsoft researchers claim to have discovered a network of fraudulent, China-controlled social media accounts attempting to influence US voters through artificial intelligence. A Chinese embassy official in Washington,"
+    publishedDateTime: 2023-09-07T23:54:00Z
+    webUrl: "https://www.chiangraitimes.com/tech/beijing-denies-microsofts-claims-china-is-using-ai-to-target-us-voters/"
+    type: article
+    provider:
+      name: Chiangrai Times
+      domain: chiangraitimes.com
+    quality: 56
+    images:
+      - url: "https://www.chiangraitimes.com/wp-content/uploads/2023/09/Beijing-Denies-Microsofts-Claims-China-is-Using-AI-to-Target-US-Voters-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Microsoft’s AI WARNING against China! Fake social media accounts trying to influence US voters, says tech giant"
+    excerpt: "Microsoft uncovers Chinese-controlled AI-driven fake social media network Influencing US voters, raising election concerns."
+    publishedDateTime: 2023-09-08T09:39:00Z
+    webUrl: "https://www.financialexpress.com/life/technology/microsofts-ai-warning-against-china-fake-social-media-accounts-trying-to-influence-us-voters-says-tech-giant-bkg/3237074/"
+    ampWebUrl: "https://www.financialexpress.com/life/technology/microsofts-ai-warning-against-china-fake-social-media-accounts-trying-to-influence-us-voters-says-tech-giant-bkg/3237074/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology/microsofts-ai-warning-against-china-fake-social-media-accounts-trying-to-influence-us-voters-says-tech-giant-bkg/3237074/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 56
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/US-China.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Gen AI Chip Startup d-Matrix Announces $110M in Series B Funding"
+    excerpt: "Gerative AI chip startup d-Matrix has closed $110 million in a Series-B funding round led by Singapore-based global investment firm Temasek. The goal of the fundraise is to enable d-Matrix to begin commercializing Corsair,"
+    publishedDateTime: 2023-09-06T21:16:00Z
+    webUrl: "https://insidehpc.com/2023/09/gen-ai-chip-startup-d-matrix-announces-110m-in-series-b-funding/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 54
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2023/07/Dell-Technologies-logo-square-0723.png"
+        width: 312
+        height: 207
+        isCached: true
+  - title: "Microsoft joins $110m fundraise of AI chip start-up d-Matrix"
+    excerpt: "Matrix claims its chips are optimised to support generative AI systems, as the company pushes into a sector largely dominated by Nvidia."
+    publishedDateTime: 2023-09-06T15:08:00Z
+    webUrl: "https://www.siliconrepublic.com/start-ups/dmatrix-microsoft-ai-chip-startup-nvidia"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 51
+  - title: "AI chip startup d-Matrix raises $110 million in funding from Temasek, Microsoft, others"
+    excerpt: "D-Matrix: Nvidia's dominant position in the AI chip markdue to a powerful combination of hardware and software has scared off potential investors in some startups, according to sources Reuters interviewed."
+    publishedDateTime: 2023-09-06T14:30:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/devices/ai-chip-startup-d-matrix-raises-110-million-in-funding-from-temasek-microsoft-others/103439827"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
     quality: 43
+  - title: "Generative AI Compute Platform D-Matrix Raises $110M Series B"
+    excerpt: "Generative AI chip designer D-Matrix was able to close a $110 million Series B in a year that has not seen a lot of money for U.S.-based semiconductor startups."
+    publishedDateTime: 2023-09-06T17:02:00Z
+    webUrl: "https://news.crunchbase.com/semiconductors-and-5g/generative-ai-compute-platform-d-matrix-temasek/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 39
     images:
-      - url: "https://i.guim.co.uk/img/media/29c483ff236461b51ae1d495b265d380467d1dae/0_0_5827_3877/master/5827.jpg?width=620&quality=85&auto=format&fit=max&s=8e101a37894f6ed4697f59004b645097"
-        width: 620
-        height: 413
+      - url: "https://news.crunchbase.com/wp-content/uploads/computer-chip.jpg"
+        width: 900
+        height: 506
         isCached: true
-  - title: "Crafting persuasion: mastering compelling arguments in the age of AI and the video generation"
-    excerpt: "Stratton Horres and Karen L. Bashor of Wilson Elser provide tips on combining AI and video evidence with the human connection in trial presentations, and opening and closing arguments."
-    publishedDateTime: 2023-09-07T17:29:00Z
-    webUrl: "https://www.reuters.com/legal/legalindustry/crafting-persuasion-mastering-compelling-arguments-age-ai-video-generation-2023-09-07/"
+  - title: "Chinese social media accounts swaying US voters using AI: Microsoft"
+    excerpt: "In a new research report, Microsoft said the social media accounts were part of a suspected Chinese information operation, according to Reuters."
+    publishedDateTime: 2023-09-07T18:45:00Z
+    webUrl: "https://www.cnbctv18.com/world/chinese-social-media-accounts-swaying-us-voters-using-ai-microsoft-17746271.htm"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: cnbctv18
+      domain: cnbctv18.com
     quality: 36
-  - title: "NC attorney general, other AGs call for crackdown on artificial intelligence threats to children"
-    excerpt: "N.C. Attorney General Josh Stein and 53 other AGs are calling on Congress to crack down on artificial intelligence, citing possible harm to children through \"deepfake\" images."
-    publishedDateTime: 2023-09-06T18:28:00Z
-    webUrl: "https://wraltechwire.com/2023/09/06/nc-attorney-general-other-ags-call-for-crackdown-on-artificial-intelligence-threats-to-children/"
+  - title: "Microsft-backed AI startup d-Matrix raises $110 million"
+    excerpt: "Generative AI compute startup d-Matrix has successfully closed a $110 million Series-B funding round led by Singapore-based global investment firm"
+    publishedDateTime: 2023-09-06T12:01:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/1025652/microsft-backed-ai-startup-d-matrix-raises-110-million-1025652.html"
     type: article
     provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 4
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 17
+  - title: "LSEG and Microsoft launch 10-year strategic partnership for next … – Microsoft"
+    excerpt: "Strategic partnership highlightsFinancial effects for LSEGEditor’s note – Dec. 13, 2022 – The name of Microsoft Purview was corrected.LONDON — Dec. 12, 2022 —"
+    publishedDateTime: 2023-09-09T16:56:00Z
+    webUrl: "https://www.inferse.com/708920/lseg-and-microsoft-launch-10-year-strategic-partnership-for-next-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 15
+  - title: "Paige Announces Collaboration with Microsoft to Build the World's Largest Image-Based AI Model to Fight Cancer"
+    excerpt: "Paige, a technology disruptor in healthcare, has joined forces with Microsoft in the fight against cancer, making headway in their collaboration to transform cancer diagnosis and patient care by building the world's largest image-based artificial intelligence (AI) models for digital pathology and oncology."
+    publishedDateTime: 2023-09-07T15:26:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-paige-announces-collaboration-with-microsoft-build-worlds-largest-/2023/09/07/9877029.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 14
 
 secured: "Vd8KSD0V/2mJgPf1eMASedi+n9EmpteMsNSoihTyfJqeihmv461/3RAg1FIDeqo6SuWn4qAFRUzIHlETR5X5bDaG4xRLOKVpOaxU9Hc73srDD+l7afF/+SE4ElLsUw2mDBdj3qsy2NHMp/sUk5uLpQyMF5mpibx2y2hfcvnGdywi2cYQQgf+lpE3PTfq5K+KeZwXCXTzZwh8UCWxI/uutpTC57VKDCmBZoHJoZ0Zy+GBZC1T86k1ZIEyrShVEi/yVrIqWbceXbc6dFoQHHu5hVjd6sZ3z+LnD4+vK29jjpmnYfUrntCnfRUhplESJVkwCfJYSLPwqqItrmnW/4wNqwF84UtfOSyACUStkc3kVl4=;kVs37jfvqtKmk+13ew3AVA=="
 ---

@@ -97,6 +97,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Nvidia to build AI infrastructure and train engineers in India"
+    excerpt: "Following the meeting between India's Prime MInister Narendra Modia and Nvidia CEO Jensen Huang, Nvidia announced a partnership with Reliance Industries for buildning AI infrastructure and to train engineers at Tata Consultancy Services,"
+    publishedDateTime: 2023-09-11T02:14:00Z
+    webUrl: "https://www.digitimes.com/news/a20230911VL201/nvidia-india-ai-infrastructure-it+ce-software-big-data.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230911vl201_files/4_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "US chipmaker Nvidia, Reliance to develop a large AI language model for India"
     excerpt: "Nvidia will provide computing power for the project, while Reliance will develop AI apps, including a local language app for farmers to access weather info and crop prices."
     publishedDateTime: 2023-09-08T05:07:00Z

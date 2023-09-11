@@ -388,7 +388,7 @@
       "originalUrl": "https://www.theverge.com/2023/9/6/23860029/waymo-insurance-injury-claims-autonomous-vehicle-swiss-re",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -806,6 +806,82 @@
       ]
     },
     {
+      "path": "_news/2023-09-06-with-ai-future-of-hearing-aids-might-include-language-translation.md",
+      "title": "With AI, future of hearing aids might include language translation",
+      "excerpt": "Sawalich says, \"If somebody falls, it'll text up to three people.\" They can also translate foreign languages. These AI hearing aids recalibrate up to 80 million times an hour, allowing them to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.guampdn.com/news/national/with-ai-future-of-hearing-aids-might-include-language-translation/video_0471ba7b-8f06-505f-b6d0-fe970b47c741.html",
+      "originalUrl": "https://www.guampdn.com/news/national/with-ai-future-of-hearing-aids-might-include-language-translation/video_0471ba7b-8f06-505f-b6d0-fe970b47c741.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/guampdn.com/content/tncms/assets/v3/editorial/0/47/0471ba7b-8f06-505f-b6d0-fe970b47c741/64f77e6adc556.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-05T21:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pacific Daily News",
+        "domain": "guampdn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-06-artificial-intelligence-the-future-is-now.md",
+      "title": "Artificial Intelligence: The Future is NOW",
+      "excerpt": "Companies and Investors are very focused on Artificial Intelligence. We think it is a significant, durable theme. The big tech companies are likely to have a competitive advantage, in our view.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/artificial-intelligence%3A-the-future-is-now",
+      "originalUrl": "https://www.nasdaq.com/articles/artificial-intelligence%3A-the-future-is-now",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-05-questions-shrugs-and-what-comes-next-a-quarter-century-of-change.md",
       "title": "Questions, shrugs and what comes next: A quarter century of change",
       "excerpt": "Since Google was founded, we’ve worked to answer hard questions, help people get answers to theirs, and move technology forward for the world.",
@@ -1070,91 +1146,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-kindo-raises-7m-for-ai-productivity-platform-for-businesses.md",
-      "title": "Kindo raises $7M for AI productivity platform for businesses",
-      "excerpt": "Kindo has successfully raised $7 million in seed funding for the launch of its secure AI productivity platform for businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/kindo-raises-7m-for-ai-productivity-platform-for-businesses/",
-      "originalUrl": "https://venturebeat.com/ai/kindo-raises-7m-for-ai-productivity-platform-for-businesses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/09/kindo.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-05T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-1-top-chip-stock-ready-to-ride-nvidias-ai-tailwinds-higher.md",
-      "title": "1 Top Chip Stock Ready to Ride Nvidia's AI Tailwinds Higher",
-      "excerpt": "(up more than 232%) since the beginning of the year. For the most recent quarter, Nvidia racked up $13.51 billion in revenue, more than doubling last year's figure and setting a new second-quarter company record.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/1-top-chip-stock-ready-to-ride-nvidias-ai-tailwinds-higher",
-      "originalUrl": "https://www.nasdaq.com/articles/1-top-chip-stock-ready-to-ride-nvidias-ai-tailwinds-higher",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 224,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-05T13:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

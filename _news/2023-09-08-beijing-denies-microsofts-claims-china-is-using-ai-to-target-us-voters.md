@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Exclusive: AI chip startup d-Matrix raises $110 mln with backing from Microsoft"
-    excerpt: "Silicon Valley-based artificial intelligence chip startup d-Matrix has raised $110 million from investors that include Microsoft Corp at a time when many chip companies are struggling to raise cash."
-    publishedDateTime: 2023-09-06T09:13:00Z
-    webUrl: "https://www.reuters.com/technology/ai-chip-startup-d-matrix-raises-110-mln-with-backing-microsoft-2023-09-06/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 97
-    images:
-      - url: "https://www.reuters.com/resizer/wGOVN9VOmABurktWbqvXa9yCre8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VP35N4V2DRKPDFZB2DP2TS7BQY.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "AI chip startup d-Matrix raises $110 mln with backing from Microsoft"
     excerpt: "Microsoft: Nvidia's dominant position in the AI chip market due to a powerful combination of hardware and software has scared off potential investors in some startups, according to sources Reuters interviewed."
     publishedDateTime: 2023-09-07T07:10:00Z
@@ -56,22 +42,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "AI chip startup d-Matrix raises $110 million with backing from Microsoft"
-    excerpt: "Silicon Valley-based artificial intelligence chip startup d-Matrix has raised $110 million from investors that include Microsoft Corp at a time when many chip companies are struggling to raise cash. Nvidia's dominant position in the AI chip market due to a ..."
-    publishedDateTime: 2023-09-06T10:32:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/ai-chip-startup-d-matrix-raises-110-million-with-backing-from-microsoft-11322321.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/business/ai-chip-startup-d-matrix-raises-110-million-with-backing-from-microsoft-11322321.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/ai-chip-startup-d-matrix-raises-110-million-with-backing-from-microsoft-11322321.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 90
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/08/artificial-intelligence-rep.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "GPU Alternative d-Matrix Raises $110 Million for AI Inference"
     excerpt: "GPU Alternative d-Matrix Raises $110 Million for AI Inference Your email has been sent Microsoft's venture group is among d-Matrix's supporters, investing in making ..."
     publishedDateTime: 2023-09-06T20:36:00Z
@@ -85,6 +55,52 @@ related:
       - url: "https://www.techrepublic.com/wp-content/uploads/2023/09/tr_09062023-gpu-alternative-d-matrix-raises-110-million-for-ai-inference.jpg"
         width: 1400
         height: 900
+        isCached: true
+  - title: "Microsoft says it will defend customers of its AI Copilots from copyright lawsuits"
+    excerpt: "The tech giant is integrating many of its biggest products with generative AI, which scoops up existing content to create new material, potentially putting customers in legal jeopardy."
+    publishedDateTime: 2023-09-08T02:43:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3233809/microsoft-says-it-will-defend-customers-its-ai-copilots-copyright-lawsuits"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 78
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/09/08/10c71d6a-cc47-4b03-9730-1a8be73eed4c_9b7595cc.jpg?itok=6bBTINm9&v=1694140957"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "World's Largest Image-Based AI Model For Identifying Cancer: Microsoft Teams Up With Paige To Build One"
+    excerpt: "Microsoft Corp MSFT +0.27% + Free Alerts has announced a collaboration with digital pathology provider Paige to develop the world's largest image-based artificial intelligence model for cancer detection."
+    publishedDateTime: 2023-09-07T17:21:00Z
+    webUrl: "https://www.benzinga.com/news/large-cap/23/09/34325288/worlds-largest-image-based-ai-model-for-identifying-cancer-microsoft-teams-up-with-paige-to-build-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34325288"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34325288"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 58
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/09/07/msft.png?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Microsoft’s AI WARNING against China! Fake social media accounts trying to influence US voters, says tech giant"
+    excerpt: "Microsoft uncovers Chinese-controlled AI-driven fake social media network Influencing US voters, raising election concerns."
+    publishedDateTime: 2023-09-08T09:39:00Z
+    webUrl: "https://www.financialexpress.com/life/technology/microsofts-ai-warning-against-china-fake-social-media-accounts-trying-to-influence-us-voters-says-tech-giant-bkg/3237074/"
+    ampWebUrl: "https://www.financialexpress.com/life/technology/microsofts-ai-warning-against-china-fake-social-media-accounts-trying-to-influence-us-voters-says-tech-giant-bkg/3237074/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology/microsofts-ai-warning-against-china-fake-social-media-accounts-trying-to-influence-us-voters-says-tech-giant-bkg/3237074/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 56
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/US-China.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Gen AI Chip Startup d-Matrix Announces $110M in Series B Funding"
     excerpt: "Gerative AI chip startup d-Matrix has closed $110 million in a Series-B funding round led by Singapore-based global investment firm Temasek. The goal of the fundraise is to enable d-Matrix to begin commercializing Corsair,"
@@ -109,34 +125,6 @@ related:
       name: SiliconRepublic
       domain: siliconrepublic.com
     quality: 51
-  - title: "D-Matrix raises $110M to commercialize next-gen generative AI-processing chips"
-    excerpt: "D-Matrix Corp., a startup that designs and builds high-efficiency silicon and generative artificial intelligence compute platforms for data centers, today announced it raised $110 million in an oversubscribed Series B funding round led by Singapore-based global investment firm Temasek."
-    publishedDateTime: 2023-09-06T16:34:00Z
-    webUrl: "https://siliconangle.com/2023/09/06/d-matrix-raises-110m-commercialize-next-gen-generative-ai-processing-chips/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 50
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/dmatrix-corsair-screenshot.png"
-        width: 1133
-        height: 755
-        isCached: true
-  - title: "Silicon Valley AI chip start-up d-Matrix raises $150m in Temasek-led funding round"
-    excerpt: "SAN FRANCISCO - Silicon Valley-based artificial intelligence (AI) chip start-up d-Matrix has raised US$110 million (S$150 million) from investors that include Microsoft Corp at a time when many chip companies are struggling to raise cash."
-    publishedDateTime: 2023-09-06T10:47:00Z
-    webUrl: "https://www.straitstimes.com/business/companies-markets/silicon-valley-ai-chip-start-up-d-matrix-raises-150m-in-temasek-led-funding-round"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 48
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/09/06/btchat20230906.jpg"
-        width: 860
-        height: 573
-        isCached: true
   - title: "AI chip startup d-Matrix raises $110 million in funding from Temasek, Microsoft, others"
     excerpt: "D-Matrix: Nvidia's dominant position in the AI chip markdue to a powerful combination of hardware and software has scared off potential investors in some startups, according to sources Reuters interviewed."
     publishedDateTime: 2023-09-06T14:30:00Z
@@ -160,6 +148,29 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "Suspected Chinese operatives using AI generated images to spread disinformation among US voters, Microsoft says"
+    excerpt: "Suspected Chinese operatives have used images made by artificial intelligence to mimic American voters online in an attempt to spread disinformation and provoke discussion on divisive political issues as the 2024 US election approaches,"
+    publishedDateTime: 2023-09-07T14:08:00Z
+    webUrl: "https://abc17news.com/politics/national-politics/cnn-us-politics/2023/09/07/suspected-chinese-operatives-using-ai-generated-images-to-spread-disinformation-among-us-voters-microsoft-says/"
+    type: article
+    provider:
+      name: ABC 17 News
+      domain: abc17news.com
+    quality: 36
+    images:
+      - url: "https://abc17news.b-cdn.net/abc17news.com/2023/09/web-9.7-375x225.jpg"
+        width: 375
+        height: 225
+        isCached: true
+  - title: "Chinese social media accounts swaying US voters using AI: Microsoft"
+    excerpt: "In a new research report, Microsoft said the social media accounts were part of a suspected Chinese information operation, according to Reuters."
+    publishedDateTime: 2023-09-07T18:45:00Z
+    webUrl: "https://www.cnbctv18.com/world/chinese-social-media-accounts-swaying-us-voters-using-ai-microsoft-17746271.htm"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 36
   - title: "Microsft-backed AI startup d-Matrix raises $110 million"
     excerpt: "Generative AI compute startup d-Matrix has successfully closed a $110 million Series-B funding round led by Singapore-based global investment firm"
     publishedDateTime: 2023-09-06T12:01:00Z
@@ -169,6 +180,24 @@ related:
       name: Proactiveinvestors
       domain: proactiveinvestors.com
     quality: 17
+  - title: "LSEG and Microsoft launch 10-year strategic partnership for next … – Microsoft"
+    excerpt: "Strategic partnership highlightsFinancial effects for LSEGEditor’s note – Dec. 13, 2022 – The name of Microsoft Purview was corrected.LONDON — Dec. 12, 2022 —"
+    publishedDateTime: 2023-09-09T16:56:00Z
+    webUrl: "https://www.inferse.com/708920/lseg-and-microsoft-launch-10-year-strategic-partnership-for-next-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 15
+  - title: "Paige Announces Collaboration with Microsoft to Build the World's Largest Image-Based AI Model to Fight Cancer"
+    excerpt: "Paige, a technology disruptor in healthcare, has joined forces with Microsoft in the fight against cancer, making headway in their collaboration to transform cancer diagnosis and patient care by building the world's largest image-based artificial intelligence (AI) models for digital pathology and oncology."
+    publishedDateTime: 2023-09-07T15:26:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-paige-announces-collaboration-with-microsoft-build-worlds-largest-/2023/09/07/9877029.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 14
 
 secured: "okwHzuMbIBuDj9gCmr8iJq7xDabb9hY452VFnfPw85Au3hVeEBdlCk+VzE6UD8vNZEQz6pu8tctulUbcU/AfSz75Gt1ktl58Jjr55Tl7xR+3SvzLMiDeSwkSp2EKpc6lIa8A4RKcfnWMrDiCXaq80lE9ltOuXhE2yG4nRyqrUfVbIWH5SFrdbVrSeKC7ZpeqPSrU6M/hXNMYCew4ScsYwVwPxh9gryCyh6CPOwBTUTgxoYx2Wlg49nvYR7g/IZ+peNeDzVC7RysQRBvoYKovLVmykSNXWdlFDJL1fXcjc2s5QL5KdMfET8UeCjlme0G6GnwfmAGmnRatgOpLknL89o3r1Q5t2wbgzm5IrJmJ6/4=;5l+4Y8KOKkafuI3yL63PdA=="
 ---

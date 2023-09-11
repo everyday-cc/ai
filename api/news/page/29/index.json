@@ -2,6 +2,59 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2023-08-18-communication-using-thought-alone-unbabel-unveils-ai-project-to-give-us-superhuman-capabilities.md",
+      "title": "Communication using thought alone? Unbabel unveils AI project to give us superhuman capabilities",
+      "excerpt": "For instance, a device made by Facebook-owned CTRL-labs had an EMG wristband in 2019 ... several Portuguese startups and research centers to invest €78 million in AI research, creating 210 jobs under the Portuguese Recovery and Resilience Plan.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/18/communication-using-thought-alone-unbabel-unveils-ai-project-to-give-us-superhuman-capabilities/",
+      "originalUrl": "https://techcrunch.com/2023/08/18/communication-using-thought-alone-unbabel-unveils-ai-project-to-give-us-superhuman-capabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/08/Unbabel-Halo-2.jpg?resize=1200,682",
+          "width": 1200,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/18/communication-using-thought-alone-unbabel-unveils-ai-project-to-give-us-superhuman-capabilities/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/18/communication-using-thought-alone-unbabel-unveils-ai-project-to-give-us-superhuman-capabilities/amp/",
+      "publishedDateTime": "2023-08-18T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-08-18-ai-in-fintech-market-size-share-analysis-growth-trends-forecasts-2023-2028.md",
       "title": "Ai In Fintech Market Size & Share Analysis - Growth Trends & Forecasts (2023 - 2028)",
       "excerpt": "(MENAFN- GlobeNewsWire - Nasdaq) New York, Aug. 18, 2023 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"AI in Fintech Market Size & Share Analysis - Growth Trends ...",
@@ -1105,58 +1158,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-18-sparse-models-the-math-and-a-new-theory-for-ground-breaking-ai.md",
-      "title": "Sparse Models, The Math, And A New Theory For Ground-Breaking AI",
-      "excerpt": "We have sort of an intuitive understanding of a big need in artificial intelligence and machine learning, which has to do with making sure that systems converge well,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/08/17/sparse-models-the-math-and-a-new-theory-for-ground-breaking-ai/",
-      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/08/17/sparse-models-the-math-and-a-new-theory-for-ground-breaking-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64ded953d9f5fce5d70eda18/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/08/17/sparse-models-the-math-and-a-new-theory-for-ground-breaking-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/08/17/sparse-models-the-math-and-a-new-theory-for-ground-breaking-ai/amp/",
-      "publishedDateTime": "2023-08-17T19:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Math for AI"
       ]
     }
   ],

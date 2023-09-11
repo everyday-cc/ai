@@ -2,6 +2,58 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2023-08-21-were-adding-to-our-position-in-this-ai-software-leader-on-a-post-earnings-pullback.md",
+      "title": "We're adding to our position in this AI software leader on a post-earnings pullback",
+      "excerpt": "With the stock market still in oversold territory Monday, we remain on the hunt for stocks of high-quality companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/08/21/were-adding-to-our-position-in-this-ai-software-leader.html",
+      "originalUrl": "https://www.cnbc.com/2023/08/21/were-adding-to-our-position-in-this-ai-software-leader.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107279969-1690906498059-gettyimages-1569410256-Omarques_01082023_techPOL_8_of_21.jpeg?v=1692640426&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-21T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-21-the-voice-actor-behind-nintendos-mario-is-retiring.md",
       "title": "The voice actor behind Nintendo’s Mario is retiring",
       "excerpt": "Charles Martinet, who has been the voice of Mario in every Nintendo game since 1991 ... ‘Yippee!,’ ‘Whee!’ and I get recognition for that. Subscribe to Well Adjusted, our newsletter full of simple strategies to work smarter and live better ...",
@@ -1135,57 +1187,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-21-loftie-magic-storymaker-a-groundbreaking-ai-powered-personalized-bedtime-story-experience.md",
-      "title": "Loftie “Magic Storymaker” - A Groundbreaking AI-Powered Personalized Bedtime Story Experience",
-      "excerpt": "This article discusses the importance of sleep and how new innovations, aided by AI can help improve health and wellness and business productivity Loftie is a company to watch with a very talented CEO who has a brilliant mind and a big heart.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/08/20/loftie-magic-storymakera-groundbreaking-ai-powered-personalized-bedtime-story-experience/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/08/20/loftie-magic-storymakera-groundbreaking-ai-powered-personalized-bedtime-story-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64e26b9257642d1784c71423/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/08/20/loftie-magic-storymakera-groundbreaking-ai-powered-personalized-bedtime-story-experience/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/08/20/loftie-magic-storymakera-groundbreaking-ai-powered-personalized-bedtime-story-experience/amp/",
-      "publishedDateTime": "2023-08-20T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

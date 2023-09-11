@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/meta-is-developing-new-more-pow
 webUrl: "https://www.reuters.com/technology/meta-is-developing-new-more-powerful-ai-system-wsj-2023-09-10/"
 type: article
 quality: 67
-heat: 88
+heat: 108
 published: true
 
 provider:
@@ -55,6 +55,38 @@ related:
       - url: "https://www.reuters.com/resizer/GxcCqkTOYEBLp3n3AwPZzikNBmo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AFO2TSIYMZOXTGDHCLFWN2IQCA.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Meta is developing a new, more powerful AI system: Report"
+    excerpt: "Llama 2 is Meta's open source AI language model launched in July, and distributed by Microsoft's cloud Azure services to compete with OpenAI's ChatGPT and Google's Bard."
+    publishedDateTime: 2023-09-11T02:07:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/meta-is-developing-a-new-more-powerful-ai-system-report/103563732"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/meta-is-developing-a-new-more-powerful-ai-system-report/103563732"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/meta-is-developing-a-new-more-powerful-ai-system-report/103563732"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-103563732,imgsize-59692,width-1200,height=765,overlay-ettelecom/internet/meta-is-developing-a-new-more-powerful-ai-system-report.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "Meta is developing a new, more powerful AI system"
+    excerpt: "Llama 2 is Meta's open source AI language model launched in July, and distributed by Microsoft's cloud Azure services."
+    publishedDateTime: 2023-09-11T03:11:00Z
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/meta-is-developing-a-new-more-powerful-ai-system-8934112/"
+    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/meta-is-developing-a-new-more-powerful-ai-system-8934112/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/meta-is-developing-a-new-more-powerful-ai-system-8934112/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 59
+    images:
+      - url: "https://images.indianexpress.com/2023/09/meta-1.jpg"
+        width: 1200
+        height: 667
         isCached: true
 
 secured: "XwUX7X8yBIUTSEZYrz2h+f8UwkXgzwb41eZGrUNiGTQTVD9/oMK1XxYaTqIKmv5Ek/0Z2Jf41Fp9Z+A/f7MRgzJnPU0zTNql5laaOU3MWNtKTl51xQu8Qq/m0RsvucGmB21wTR26QfLcUUvwXKBM2kf4O0rV8izmxy/HgMPYX3Zs1Fcgn2CFoMbdXnohd6C0cQuXY5w9Wa0mYuRbMK4aejgPfkUa+h2SpfAUbKiTAFCyEwJKdVWBr2KsWNB+1qnW4bWnIS2yXVsghrAI225wzIb8Wm74obPxA39RWf0dwGGXQXBzunbRnb7iBnuFSz1mvra6slr2YjBApOfysD7Epf8iwJKTIwufw72PJNl9VL0=;gcInzephJmYRWm63v0NsaQ=="

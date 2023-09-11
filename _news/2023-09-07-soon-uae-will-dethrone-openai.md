@@ -49,6 +49,38 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "Meta is working on new AI model even more powerful than OpenAI's GPT-4, says report"
+    excerpt: "Meta is working on a new AI system expected to be more powerful than OpenAI's GPT-4. It could be ready next year."
+    publishedDateTime: 2023-09-11T02:28:00Z
+    webUrl: "https://www.livemint.com/ai/artificial-intelligence/meta-is-working-on-new-ai-model-even-more-powerful-than-openais-gpt-4-says-report-11694396138923.html"
+    ampWebUrl: "https://www.livemint.com/ai/artificial-intelligence/meta-is-working-on-new-ai-model-even-more-powerful-than-openais-gpt-4-says-report/amp-11694396138923.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/meta-is-working-on-new-ai-model-even-more-powerful-than-openais-gpt-4-says-report/amp-11694396138923.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 53
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/09/11/600x338/META-PLATFORMS-PRIVACY-DECISION-0_1694398908885_1694398951117.JPG"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Mark Zuckerberg’s Meta working on a new, more advanced AI model to rival OpenAI’s GPT-4"
+    excerpt: "Mark Zuckerberg’s Meta is working on building a new AI model that will be more powerful than its current model Llama 2, and will rival the capabilities of OpenAI’s GPT-4."
+    publishedDateTime: 2023-09-11T03:35:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/mark-zuckerberg-s-meta-working-on-a-new-more-advanced-ai-model-to-rival-openai-s-gpt4-71694403038916.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/mark-zuckerberg-s-meta-working-on-a-new-more-advanced-ai-model-to-rival-openai-s-gpt4-71694403038916.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/mark-zuckerberg-s-meta-working-on-a-new-more-advanced-ai-model-to-rival-openai-s-gpt4-71694403038916.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 51
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/09/11/1600x900/FILES-CANADA-INTERNET-MEDIA-ADVERTISING-GOOGLE-1_1694403099531_1694403116763.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "OpenAI to Announce GPT 5?"
     excerpt: "OpenAI, a prominent AI lab, has announced that its first developer conference, OpenAI DevDay, will take place on November 6, 2023."
     publishedDateTime: 2023-09-08T16:51:00Z

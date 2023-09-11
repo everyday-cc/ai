@@ -149,58 +149,6 @@
       ]
     },
     {
-      "path": "_news/2023-09-08-microsoft-says-it-will-defend-customers-of-its-ai-copilots-from-copyright-lawsuits.md",
-      "title": "Microsoft says it will defend customers of its AI Copilots from copyright lawsuits",
-      "excerpt": "The tech giant is integrating many of its biggest products with generative AI, which scoops up existing content to create new material, potentially putting customers in legal jeopardy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3233809/microsoft-says-it-will-defend-customers-its-ai-copilots-copyright-lawsuits",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3233809/microsoft-says-it-will-defend-customers-its-ai-copilots-copyright-lawsuits",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/09/08/10c71d6a-cc47-4b03-9730-1a8be73eed4c_9b7595cc.jpg?itok=6bBTINm9&v=1694140957",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-07T19:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-07-ibm-expands-cloud-security-and-compliance-center.md",
       "title": "IBM Expands Cloud Security and Compliance Center",
       "excerpt": "IBM added features around data protection for workloads and AI data repositories to its Cloud Security and Compliance Center.",
@@ -262,7 +210,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-to-reveal-ai-plans-for-onedrive-in-october-event/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 374,
+      "heat": 384,
       "tags": null,
       "images": [
         {
@@ -314,7 +262,7 @@
       "originalUrl": "https://techcrunch.com/2023/09/07/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 359,
+      "heat": 349,
       "tags": null,
       "images": [
         {
@@ -355,6 +303,50 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-07-ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft.md",
+      "title": "AI chip startup d-Matrix raises $110 mln with backing from Microsoft",
+      "excerpt": "Microsoft: Nvidia's dominant position in the AI chip market due to a powerful combination of hardware and software has scared off potential investors in some startups, according to sources Reuters interviewed.",
+      "sourceUrl": null,
+      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231",
+      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 231,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-103460231,imgsize-1539213,width-1200,height=765,overlay-etbrandequity/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft.jpg",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231",
+      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231",
+      "publishedDateTime": "2023-09-07T00:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "brandequity.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Microsoft AI"
       ]
     },
     {

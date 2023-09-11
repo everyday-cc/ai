@@ -149,22 +149,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Chinese AI chatbots want to be your emotional support"
-    excerpt: "Xiaoice, one of the first Chinese AI assistants, made its name by allowing users to customize the perfect romantic partner. And another startup, Timedomain, left a trail of broken hearts this year when it shut down its AI boyfriend voice service."
-    publishedDateTime: 2023-09-06T10:40:00Z
-    webUrl: "https://www.technologyreview.com/2023/09/06/1079026/chinese-ai-chatbots-emotional-support"
-    ampWebUrl: "https://www.technologyreview.com/2023/09/06/1079026/chinese-ai-chatbots-emotional-support/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/06/1079026/chinese-ai-chatbots-emotional-support/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/09/AP23243203838995.jpeg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
   - title: "Artificial intelligence technology behind ChatGPT was built in Iowa"
     excerpt: "Water pulled from the Raccoon and Des Moines rivers in central Iowa cools a powerful supercomputer as it helped teach its AI systems how to mimic human writing."
     publishedDateTime: 2023-09-09T20:31:00Z
@@ -387,6 +371,6 @@ related:
       domain: scientificamerican.com
     quality: 4
 
-secured: "smFMGujpCrAGkJLiBTlAZQkLPjcmQlmJHqXgyQyfjPpyVOi44G/7W68qjWr6mKVKkstcN5dGwzJavCOCbXT2598wHVVFzLFyphKmR1X0/fNae554Cd5FC9h6qfkC/EgRHKFpqCAhiAnV9X9ZRj5ZltJMDkY62KkGpotaF42xKqgLUW+Vu4TaYaYpX258Ygt0mFkzcQAhisEd67g8+/YdRKHUGk2DHA730DVNwivRSUYOnwR/ptJiPAvxIn+qr3GmaSEdh6ufXZC8XEaaXulw4JqwR1SwUm8+PYsomJMHD+YhFSCRG95EN1oJ8BwMJYDtm0Lf4242bNRw0I/DMDbiVw+HkgPzYA3ddSOeMSJtgoA=;9hADwEGFvzkWJFI1+lev5w=="
+secured: "K2wHn1K7wSiS/8OpeYZrhkTyfx5TDn8CvYpDsldx0khtzKCrYM3s54XDAMTka4o+q5CHSZpQWopV48tyu6pVrv229mxrl6IAWROUPpN+h6WJYB7GWMd+k4/HUBEAJY0copSIHn1KKX+Du44gBwQ0v4WJCJ07HuzYbKiepv3+BPXaGsCS5AvSerjEzBMig8QFD5qcVe2WRPHlhIQNQEUGY/ypHyziPLNAospNOq+L76n79qKiWE0Kh2IsxVBKNkO8+3gUSgk1KFEgdY8bEnOEiY3AeOGm02YHfW6sDWbHTsNIpLxBE7WpGdkalMdpJlNcS763b1zgHbRpjC5Ll3Y/kssBa8lMu+iYsa8xdZjMRk0m0gxXue0yPPVyUte1kVo/13EG1PqbwrWqx04B4mUWmsu5W/3Uxwr8HIk2XULG9EV63voQvJlcukJRkNj86p0CuSUfYTGNRl4kQYmTzc5ux4XIpMMtTvatWXSkRfRkyQEW+7VfkcQIPoD2y3e0R8MLg382Yt9jXuOpg395KeHkQQ==;XRl0B/cQGwcCSJHypMjPwQ=="
 ---
 

@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Meta is developing a new, more powerful AI system"
-    excerpt: "The Facebook parent is aiming for its new AI model to be ready next year, the Journal said, adding it will be several times more powerful than its commercial version dubbed Llama 2."
-    publishedDateTime: 2023-09-11T00:46:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/meta-is-developing-a-new-more-powerful-ai-system-11344571.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/meta-is-developing-a-new-more-powerful-ai-system-11344571.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/meta-is-developing-a-new-more-powerful-ai-system-11344571.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 59
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/07/Meta.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "LIpCbBNoc1NNe4xt9H8NvF++UOfWquV8Pmjf/ntIFNdgFQhr/ht01xQACktRCgzhseGNZKZmCeZcohVirAaplRa1HiOhfguLUEQZIkwNcnANtltqx7200KlIZX9evA4/NuXtcL/i/kp3GRilghl9zSwsUbWk70SD3RQ+pKn2efkptlj2quPA+18IiWra5mzzapHo/Yu4JksFRK+cro095TGU1i2JfbxIJmhx7IgeGYoFLqcS1mXVoz98uz7cDRMCwEfyn6BOWYEeuRb4aE7GQuETyiqpe6Axy3AFi24ASXl2iM31KNrpBFdMy0V6VXVRdWGlQ2udygMgf3xGTFeVLrd7Z8mB9gX7aUMzSJG+WrpQ/xxSKBZiuKETRT1OHm8tcstQcWgCt2FI2nO1Q6dhdoD6uMDgLT7befloMLuvSX5x5ixz1vj74PLDLKjVZlnuq6TQqClYZ+VNEB0AZZsUjNIHU0DCiweIDJMC9D9rxmMSwcksz0wekiupx0/QXRAm7govruI5DObx8Fzvpsrekw==;gkHaLZfxw/mQtv/x5a4giA=="
 ---

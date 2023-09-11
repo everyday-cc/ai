@@ -35,17 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Marcia Langton says the government must explain what happens if the Indigenous voice to parliament vote fails"
-    excerpt: "Indigenous leader Marcia Langton has urged the Albanese government to lay out what the future holds for Aboriginal Australians in the event of a No vote for the voice referendum on October 14, fearing it could give governments a mandate to “do nothing and to make our lives worse”."
-    publishedDateTime: 2023-09-06T10:36:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/indigenous/marcia-langton-says-the-government-must-explain-what-happens-if-the-indigenous-voice-to-parliament-vote-fails/news-story/c1a5b3a7bc07bce8c6b7dbb872aaf029"
-    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/marcia-langton-says-the-government-must-explain-what-happens-if-the-indigenous-voice-to-parliament-vote-fails/news-story/c1a5b3a7bc07bce8c6b7dbb872aaf029?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/marcia-langton-says-the-government-must-explain-what-happens-if-the-indigenous-voice-to-parliament-vote-fails/news-story/c1a5b3a7bc07bce8c6b7dbb872aaf029?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 20
 
 secured: "x8hO5eDmje5xU/ydYIbmUPHAazD0ckLfR+7Q7LvpDQGzVLoQzJEOYCHga53KbWx3y3XahGxQmleowzCZkfCbCKLo8pH4o8xREUvi9hu1KGZiHsNvBnWTLqmp7+16mi9WW+vpPpYkcblTr77ItXsdLxPHkibSwBQBz1gwfTdlUkIwTHkVW3VYZY278oXISNHOaBXlaK+MtSttJMQ9ijwA5KD4QcpKeVGcu5+KRtO6K15fju5nvSyVNtJObbb5+aKhCHSJW9JQhZAbmCUKHZNwIl3BUmB6SHWFjk7TKlzMklNcU3DiIXV1vP+TfQ9Rwpig6TfK2EeibZSUP2Get64sVxsu/UpcOL7bRz2dyJOw0YU=;AHXS+eRnyq1RA0MCrQhQlQ=="
 ---

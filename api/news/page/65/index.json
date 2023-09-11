@@ -2,6 +2,49 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2023-07-26-this-bluetooth-controlled-robotic-arm-kit-helps-ease-you-into-the-world-of-robotics-and-is-now-over-90-off.md",
+      "title": "This Bluetooth-controlled robotic arm kit helps ease you into the world of robotics and is now over $90 off",
+      "excerpt": "Dive into emerging robotic technologies with a variety of hands-on tools. By Stack Commerce | Published Jul 26, 2023 9:00 AM EDT We may earn revenue from the products available on this page and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/sponsored-content/bluetooth-robot-arm-kit-deal/",
+      "originalUrl": "https://www.popsci.com/sponsored-content/bluetooth-robot-arm-kit-deal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2023/07/24/image-2.jpeg?auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/sponsored-content/bluetooth-robot-arm-kit-deal/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/sponsored-content/bluetooth-robot-arm-kit-deal/?amp",
+      "publishedDateTime": "2023-07-26T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-26-10-ways-the-oil-and-gas-industry-can-leverage-digital-twin-technology.md",
       "title": "10 ways the oil and gas industry can leverage digital twin technology",
       "excerpt": "In the era of digital transformation, digital twins are emerging as a potent solution to energy production challenges. \nThe post 10 ways the oil and gas industry can leverage digital twin technology appeared first on IBM Blog.\n",
@@ -1122,49 +1165,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-alphabet-cfo-ruth-porat-takes-on-new-role-overseeing-its-investments-and-new-initiatives.md",
-      "title": "Alphabet CFO Ruth Porat takes on new role overseeing its investments and new initiatives",
-      "excerpt": "Alphabet Inc. finance chief Ruth Porat is taking on a new role at the company, overseeing its investment strategy and various initiatives in its Other Bets portfolio, such as Nest, Verily, Waymo and X.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/07/25/alphabet-cfo-ruth-porat-takes-new-role-overseeing-investments-new-initiatives/",
-      "originalUrl": "https://siliconangle.com/2023/07/25/alphabet-cfo-ruth-porat-takes-new-role-overseeing-investments-new-initiatives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/RuthPorat2016.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-25T19:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Marcia Langton says the government must explain what happens if the Indigenous voice to parliament vote fails"
-    excerpt: "Indigenous leader Marcia Langton has urged the Albanese government to lay out what the future holds for Aboriginal Australians in the event of a No vote for the voice referendum on October 14, fearing it could give governments a mandate to “do nothing and to make our lives worse”."
-    publishedDateTime: 2023-09-06T10:36:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/indigenous/marcia-langton-says-the-government-must-explain-what-happens-if-the-indigenous-voice-to-parliament-vote-fails/news-story/c1a5b3a7bc07bce8c6b7dbb872aaf029"
-    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/marcia-langton-says-the-government-must-explain-what-happens-if-the-indigenous-voice-to-parliament-vote-fails/news-story/c1a5b3a7bc07bce8c6b7dbb872aaf029?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/marcia-langton-says-the-government-must-explain-what-happens-if-the-indigenous-voice-to-parliament-vote-fails/news-story/c1a5b3a7bc07bce8c6b7dbb872aaf029?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 20
   - title: "The Indigenous voice to parliament is nothing to fear"
     excerpt: "Before I get into this horridly divisive and increasingly personal voice debate, let me share some positive words about what is, after all, an optimistic and uplifting proposal. The case for voting Yes has not been put more eloquently,"
     publishedDateTime: 2023-09-08T23:30:00Z

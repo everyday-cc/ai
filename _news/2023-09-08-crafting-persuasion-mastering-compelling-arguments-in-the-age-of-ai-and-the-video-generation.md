@@ -68,20 +68,6 @@ related:
         width: 620
         height: 413
         isCached: true
-  - title: "Suspected Chinese operatives using AI generated images to spread disinformation among US voters, Microsoft says"
-    excerpt: "Suspected Chinese operatives have used images made by artificial intelligence to mimic American voters online in an attempt to spread disinformation and provoke discussion on divisive political issues as the 2024 US election approaches,"
-    publishedDateTime: 2023-09-07T14:08:00Z
-    webUrl: "https://abc17news.com/politics/national-politics/cnn-us-politics/2023/09/07/suspected-chinese-operatives-using-ai-generated-images-to-spread-disinformation-among-us-voters-microsoft-says/"
-    type: article
-    provider:
-      name: ABC 17 News
-      domain: abc17news.com
-    quality: 36
-    images:
-      - url: "https://abc17news.b-cdn.net/abc17news.com/2023/09/web-9.7-375x225.jpg"
-        width: 375
-        height: 225
-        isCached: true
   - title: "NC attorney general, other AGs call for crackdown on artificial intelligence threats to children"
     excerpt: "N.C. Attorney General Josh Stein and 53 other AGs are calling on Congress to crack down on artificial intelligence, citing possible harm to children through \"deepfake\" images."
     publishedDateTime: 2023-09-06T18:28:00Z

@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Pentagon plans vast AI fleet to counter China - WSJ"
-    excerpt: "The Pentagon is considering the development of a vast network of Artificial Intelligence-powered technology, drones and autonomous systems within the next two years to counter threats from China, the Wall Street Journal reported on Wednesday."
-    publishedDateTime: 2023-09-06T09:20:00Z
-    webUrl: "https://www.reuters.com/world/us/pentagon-plans-vast-ai-fleet-counter-china-wsj-2023-09-06/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/aP4_6MyqLRQ3qSc6A2TkBihUPD4=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OT7ZI6KWLRPBHP5FRFGM2PDCZA.jpg"
-        width: 800
-        height: 419
-        isCached: true
   - title: "SPECIAL REPORT-In U.S.-China AI contest, the race is on to deploy killer robots"
     excerpt: "The United States and China have both tested swarms of AI-powered drones. Last year, the U.S. military released footage of troops training with drone swarms. Another video shows personnel at Fort Campbell, Tennessee, testing swarms of drones in late 2021. The footage shows a man wearing video game-like goggles during the experiment."
     publishedDateTime: 2023-09-08T11:00:00Z

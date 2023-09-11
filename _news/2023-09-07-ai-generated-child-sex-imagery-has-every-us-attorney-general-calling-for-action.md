@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/09/ai-generated-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/ai-generated-child-sex-imagery-has-every-us-attorney-general-calling-for-action/amp/"
 type: article
 quality: 83
-heat: 133
+heat: 123
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/29c483ff236461b51ae1d495b265d380467d1dae/0_0_5827_3877/master/5827.jpg?width=620&quality=85&auto=format&fit=max&s=8e101a37894f6ed4697f59004b645097"
         width: 620
         height: 413
-        isCached: true
-  - title: "Suspected Chinese operatives using AI generated images to spread disinformation among US voters, Microsoft says"
-    excerpt: "Suspected Chinese operatives have used images made by artificial intelligence to mimic American voters online in an attempt to spread disinformation and provoke discussion on divisive political issues as the 2024 US election approaches,"
-    publishedDateTime: 2023-09-07T14:08:00Z
-    webUrl: "https://abc17news.com/politics/national-politics/cnn-us-politics/2023/09/07/suspected-chinese-operatives-using-ai-generated-images-to-spread-disinformation-among-us-voters-microsoft-says/"
-    type: article
-    provider:
-      name: ABC 17 News
-      domain: abc17news.com
-    quality: 36
-    images:
-      - url: "https://abc17news.b-cdn.net/abc17news.com/2023/09/web-9.7-375x225.jpg"
-        width: 375
-        height: 225
         isCached: true
   - title: "Crafting persuasion: mastering compelling arguments in the age of AI and the video generation"
     excerpt: "Stratton Horres and Karen L. Bashor of Wilson Elser provide tips on combining AI and video evidence with the human connection in trial presentations, and opening and closing arguments."

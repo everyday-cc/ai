@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-11-jaipur-police-harness-ai-facial-recognition-to-enhance-security.md",
+      "title": "Jaipur police harness AI facial recognition to enhance security",
+      "excerpt": "Jaipur: The city police have adopted Artificial Intelligence (AI) technology to monitor potential miscreants moving within the city using the Facial R.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/city/jaipur/jaipur-police-harness-ai-facial-recognition-to-enhance-security/articleshow/103564720.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/city/jaipur/jaipur-police-harness-ai-facial-recognition-to-enhance-security/articleshow/103564720.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1070,
+          "height": 579,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/city/jaipur/jaipur-police-harness-ai-facial-recognition-to-enhance-security/amp_articleshow/103564720.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/jaipur/jaipur-police-harness-ai-facial-recognition-to-enhance-security/amp_articleshow/103564720.cms",
+      "publishedDateTime": "2023-09-10T19:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-09-11-hundreds-of-schools-across-us-using-ai-to-help-detect-guns.md",
       "title": "Hundreds of schools across U.S. using AI to help detect guns",
       "excerpt": "Hundreds of schools across the United States are using an artificial intelligence system that is designed to detect guns and prevent mass shootings. NBC News’ Rehema Ellis has a closer look at how the technology works.",
@@ -138,7 +182,7 @@
       "originalUrl": "https://www.reuters.com/technology/meta-is-developing-new-more-powerful-ai-system-wsj-2023-09-10/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -583,7 +627,7 @@
       "originalUrl": "https://indianexpress.com/article/india/as-distance-from-china-grows-india-us-work-on-tech-projects-chips-to-ai-8931140/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -666,57 +710,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-09-mckinsey-partners-with-salesforce-to-offer-speedy-ai-adoption-plans-for-enterprises.md",
-      "title": "McKinsey partners with Salesforce to offer speedy AI adoption plans for enterprises",
-      "excerpt": "With 40 percent of enterprises planning to invest in this kind of AI, the collaboration between Salesforce and McKinsey could be a",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/mckinsey-partners-with-salesforce-to-offer-speedy-ai-adoption-plans-for-enterprises/",
-      "originalUrl": "https://venturebeat.com/business/mckinsey-partners-with-salesforce-to-offer-speedy-ai-adoption-plans-for-enterprises/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_vector_art_line_art_flat_illustration_surreal_abstract__c44a7f93-a2da-4c9b-9693-9e05e6c629b2.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-08T14:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -1032,7 +1025,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/09/openai-admits-that-ai-writing-detectors-dont-work/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 147,
       "tags": null,
       "images": [
         {

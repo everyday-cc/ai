@@ -2,6 +2,59 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-09-05-civo-adds-speech-to-text-to-greener-cloud.md",
+      "title": "Civo Adds Speech-To-Text To Greener Cloud",
+      "excerpt": "Using a ‘digital boiler’, the system immerses computers in mineral oil to capture the generated heat, this is then passed through a heat exchanger to heat the water.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/09/05/civo-adds-speech-to-text-to-greener-cloud/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/09/05/civo-adds-speech-to-text-to-greener-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64f2f48d3b7f168d7417ee9d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/09/05/civo-adds-speech-to-text-to-greener-cloud/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/09/05/civo-adds-speech-to-text-to-greener-cloud/amp/",
+      "publishedDateTime": "2023-09-05T00:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-05-expo-city-dubai-launches-regions-first-artificial-intelligence-film-festival.md",
       "title": "Expo City Dubai launches region’s first Artificial Intelligence Film Festival",
       "excerpt": "The event establishes Expo City Dubai as the epicentre of AI innovation, a future-focused community and a global platform for collaboration on big ideas",
@@ -1152,57 +1205,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-04-venice-film-festival-2023-is-cinematic-ais-coming-out-party.md",
-      "title": "Venice Film Festival 2023 Is Cinematic AI’s Coming Out Party",
-      "excerpt": "While promoting his AI-powered movie Here by Robert Zemeckis, Hanks said he could see an AI version of himself acting after his death. Joe Russo, director of Avengers Endgame envisions a future where people can come home after a long day to ask their AI TV for a new movie starring themselves and Marilyn Monroe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charliefink/2023/09/03/venice-film-festival-2023-is-ais-coming-out-party-for-hollywood/",
-      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/09/03/venice-film-festival-2023-is-ais-coming-out-party-for-hollywood/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64f52968cad6167132b0157e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 791,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/09/03/venice-film-festival-2023-is-ais-coming-out-party-for-hollywood/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/09/03/venice-film-festival-2023-is-ais-coming-out-party-for-hollywood/amp/",
-      "publishedDateTime": "2023-09-03T18:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

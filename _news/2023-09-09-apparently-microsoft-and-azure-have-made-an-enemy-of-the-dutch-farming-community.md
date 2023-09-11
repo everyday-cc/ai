@@ -39,15 +39,15 @@ related:
         width: 375
         height: 251
         isCached: true
-  - title: "Chinese social media accounts swaying US voters using AI: Microsoft"
-    excerpt: "In a new research report, Microsoft said the social media accounts were part of a suspected Chinese information operation, according to Reuters."
-    publishedDateTime: 2023-09-07T18:45:00Z
-    webUrl: "https://www.cnbctv18.com/world/chinese-social-media-accounts-swaying-us-voters-using-ai-microsoft-17746271.htm"
+  - title: "Microsoft announced its first customer product features powered by … – Microsoft"
+    excerpt: "At its Build developers conference, Microsoft unveiled its first features in a customer product powered by GPT-3, the powerful natural language model developed by OpenAI, which will help users build apps without needing to know how to write computer code or formulas."
+    publishedDateTime: 2023-09-09T11:02:00Z
+    webUrl: "https://www.inferse.com/708328/microsoft-announced-its-first-customer-product-features-powered-by-microsoft/"
     type: article
     provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 36
+      name: Inferse
+      domain: inferse.com
+    quality: 14
 
 secured: "Te7G5QXw+aGg3724TOCT+CvqM1jex07zYQZwR7jgJLOgnGHcVAKjWgcoQB2x446wohQ9ia9ZS62uau79Upqb5nLcty51azspV5exQSDHUgm6GbIFP70+qJfIIa51RvV/Nb+ZVwEZwr+sQ3QZ1cnMWMImElaxnpkHWu1x7QdUHa7ecy5NIc7qKldzCTv1WA06F8a59RJJFC+rtQpq7HFUDPtoWc8c/yDuBQwizHUPVyt4ttEPiAaWOvPNoaqlIFolkAjF57Xs796jgzB/s/nL+LIpQDoIXeljBqCzhmY5fj2wI5+AXvkhVXbVq9h0PGSkypDLA3epJmwt9wNw3K8ECkxY3Qmy8rTSDDqkj4q6+us=;HEt6cleqmnhMkeL88W4slw=="
 ---

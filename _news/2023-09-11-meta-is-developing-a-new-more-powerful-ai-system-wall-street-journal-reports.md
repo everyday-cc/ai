@@ -56,7 +56,39 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Meta is developing a new, more powerful AI system: Report"
+    excerpt: "Llama 2 is Meta's open source AI language model launched in July, and distributed by Microsoft's cloud Azure services to compete with OpenAI's ChatGPT and Google's Bard."
+    publishedDateTime: 2023-09-11T02:07:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/meta-is-developing-a-new-more-powerful-ai-system-report/103563732"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/meta-is-developing-a-new-more-powerful-ai-system-report/103563732"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/meta-is-developing-a-new-more-powerful-ai-system-report/103563732"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-103563732,imgsize-59692,width-1200,height=765,overlay-ettelecom/internet/meta-is-developing-a-new-more-powerful-ai-system-report.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "Meta is developing a new, more powerful AI system"
+    excerpt: "Llama 2 is Meta's open source AI language model launched in July, and distributed by Microsoft's cloud Azure services."
+    publishedDateTime: 2023-09-11T03:11:00Z
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/meta-is-developing-a-new-more-powerful-ai-system-8934112/"
+    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/meta-is-developing-a-new-more-powerful-ai-system-8934112/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/meta-is-developing-a-new-more-powerful-ai-system-8934112/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 59
+    images:
+      - url: "https://images.indianexpress.com/2023/09/meta-1.jpg"
+        width: 1200
+        height: 667
+        isCached: true
 
-secured: "hbZCrRKmmajumsZdDJmUcQKLnZijLkdp8mEIt4xAr8ygPfq6xuePWlXybk5P1soktrLjGfWS4BoOozutipk/My7bJHcMCr6Nc9WqxZpu9VPZdgN4J1+Uu1811+nDDWuXLbrgC1Lt3fNkPZXFoTxAOORLFPRT+4TnYvfe+ryDZLO7iDoGuVMRox1w/0u97BRD/HjY0SylFb2cquBNuInqGOBYlmDeu+kLBiZPTt3K4c5lMo222T0e7EIK7+0wzUyXZago88UlQ1xeQxvs6CWn1hgc2E4RZy5g1gwQKF0miauxTbepip5mYyp6wOtW5QHEKRZlwGZTpq/koJH0wK9kXAIVkHW5/JTWTQFZq+iuDnsbO1dMGsTlvHdACE1cJhKiAUO8qX2Xscxs79op2rbiCU4WlL3Cr6OUweTrwkonzlK11V7PhFyxRkrgd6aDHgfPGgIvKbo6ZcfkgWd3V1CV2H6IGX3ft7PfKqNRjcscFefxCSmXEweL+9rwzMveLVdbaVcZ1eamUwS2LXAp2RBw3A==;dB0CJKO5CsOFiZYhJj5FmQ=="
+secured: "+O0BdFuIQuznn2+I429y8mZF+D49mV+Lmnbkjzs7qAZJq8HERTxmu6ZILidOqIvbL8lbn9sV/lhGE4z21R8rgjZdCleyiimdS5l7BMB/ohOixNRC2p2yDyswWl7B/juT1mjFa/18Lh3DsYtTmvn0yanq5ta9cYIZEHTFtDNphrKIByGPUDSichNR0RUA8fyqvYt9hC+TjbHD2yrNDkFP019A7kfO6/XYFb/6BghjkbhTRdNfWesyHi5TJFMehCCrXHw5MpuNhuRHxpxpaavL1fezZxTFqLJddyFPkvkjAJPYWkqhJQSV36ar1DZbZxog93u2mbdUZ8x98G/o+STYHnzLYuzQIkQsN+ptuTPkSEg=;IKhePu0Wk481JqSk0QpeuA=="
 ---
 

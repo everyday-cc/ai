@@ -94,20 +94,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How AI and machine learning are actively contributing to workplace security"
-    excerpt: "These are just a few examples of how AI and Machine Learning are actively contributing to workplace security. By automating and enhancing traditional security measures, these technologies are helping to create safer and more secure work environments. In the next section, we'll delve into a specific case study: employee badging systems."
-    publishedDateTime: 2023-09-06T10:25:00Z
-    webUrl: "https://www.jpost.com/special-content/how-ai-and-machine-learning-are-actively-contributing-to-workplace-security-756007"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 69
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/549546"
-        width: 690
-        height: 407
-        isCached: true
   - title: "Five Things: Responsible artificial intelligence and the future of business"
     excerpt: "She recently spoke at the Business Ethics Allia nce luncheon in Omaha about artificial intelligence and the future of business. Here are a few key takeaways from the event. We’ll share event highlights, founder profiles and feature stories digging into ..."
     publishedDateTime: 2023-09-06T17:53:00Z

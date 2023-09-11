@@ -1031,6 +1031,49 @@
       ]
     },
     {
+      "path": "_news/2023-08-30-unveiling-global-warmings-impact-on-daily-precipitation-with-deep-learning.md",
+      "title": "Unveiling global warming's impact on daily precipitation with deep learning",
+      "excerpt": "Using a deep learning approach, they have unveiled a significant change in the characteristics of global daily precipitation for the first time. Their research findings were published on August 30 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/08/230830131932.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/08/230830131932.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-30-techcrunch-disrupt-2023-startup-battlefield-200-ai-and-security-edition.md",
       "title": "TechCrunch Disrupt 2023 Startup Battlefield 200: AI and Security edition",
       "excerpt": "we’re breaking them out by industry tracks — starting with AI and Security. Keep cross-collaboration opportunities in mind — you won’t find such a magnificent mix of standout startups under one roof anywhere else. Coming soon! The list of Startup ...",
@@ -1113,58 +1156,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-30-connecting-a-distributed-workforce-with-employee-experience-platforms.md",
-      "title": "Connecting A Distributed Workforce With Employee Experience Platforms",
-      "excerpt": "This means Applaud users can easily integrate with Microsoft Teams, Salesforce, SAP SuccessFactors and many others. In short, the platform unites existing data and knowledge sources to bring users' services and tasks into one place. The EXP connection ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/08/29/connecting-a-distributed-workforce-with-employee-experience-platforms/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/08/29/connecting-a-distributed-workforce-with-employee-experience-platforms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64ee613e7f6fe7f3003b061c/0x0.png?format=png&width=1200",
-          "width": 624,
-          "height": 284,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/08/29/connecting-a-distributed-workforce-with-employee-experience-platforms/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/08/29/connecting-a-distributed-workforce-with-employee-experience-platforms/amp/",
-      "publishedDateTime": "2023-08-29T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

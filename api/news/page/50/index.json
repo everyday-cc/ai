@@ -2,6 +2,57 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2023-08-04-experience-scammers-used-ai-to-fake-my-daughters-kidnap.md",
+      "title": "Experience: scammers used AI to fake my daughter’s kidnap",
+      "excerpt": "No part of me questioned whether this was real - I had to save my baby",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/lifeandstyle/2023/aug/04/experience-scammers-used-ai-to-fake-my-daughters-kidnap?ref=upstract.com",
+      "originalUrl": "https://www.theguardian.com/lifeandstyle/2023/aug/04/experience-scammers-used-ai-to-fake-my-daughters-kidnap?ref=upstract.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/8577d10c56ad1547410b78513c9eb79635a4d369/0_270_4000_2400/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=f605c29b644e24da2d51b8fcf9ddc591",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/lifeandstyle/2023/aug/04/experience-scammers-used-ai-to-fake-my-daughters-kidnap",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/lifeandstyle/2023/aug/04/experience-scammers-used-ai-to-fake-my-daughters-kidnap",
+      "publishedDateTime": "2023-08-04T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-04-karachi-airport-gets-facial-recognition-system.md",
       "title": "Karachi Airport Gets Facial Recognition System",
       "excerpt": "The authorities at Karachi airport have taken significant steps to enhance security and prevent criminals from fleeing the country. The installation of",
@@ -1116,58 +1167,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-this-talent-collective-helps-businesses-access-top-ai-talent-from-openai-google-and-other-innovators.md",
-      "title": "This Talent Collective Helps Businesses Access Top AI Talent From OpenAI, Google, And Other Innovators",
-      "excerpt": "In the rapidly evolving world of AI and machine learning, businesses are trying to keep up with ever-changing needs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/garydrenik/2023/08/03/this-talent-collective-helps-businesses-access-top-ai-talent-from-openai-google-and-other-innovators/",
-      "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/08/03/this-talent-collective-helps-businesses-access-top-ai-talent-from-openai-google-and-other-innovators/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c99016bea27fc14269db67/0x0.jpg?format=jpg&width=1200",
-          "width": 640,
-          "height": 395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/08/03/this-talent-collective-helps-businesses-access-top-ai-talent-from-openai-google-and-other-innovators/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/08/03/this-talent-collective-helps-businesses-access-top-ai-talent-from-openai-google-and-other-innovators/amp/",
-      "publishedDateTime": "2023-08-03T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

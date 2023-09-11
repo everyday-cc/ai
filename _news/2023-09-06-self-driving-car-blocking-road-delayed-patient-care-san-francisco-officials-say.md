@@ -144,6 +144,17 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "City of Austin releases new data on self-driving cars"
+    excerpt: "Self-driving cars may be the way of the future, but they're encountering quite a few glitches in the here and now. The City of Austin is out with some new numbers on just how many incidents there have been involving those driverless cars."
+    publishedDateTime: 2023-09-11T02:37:00Z
+    webUrl: "https://www.fox7austin.com/news/austin-texas-self-driving-cars"
+    ampWebUrl: "https://www.fox7austin.com/news/austin-texas-self-driving-cars.amp"
+    cdnAmpWebUrl: "https://www-fox7austin-com.cdn.ampproject.org/c/s/www.fox7austin.com/news/austin-texas-self-driving-cars.amp"
+    type: article
+    provider:
+      name: FOX 7 Austin KTBC
+      domain: fox7austin.com
+    quality: 24
   - title: "Using Google Cast in a car is cool, I guess the self-driving Waymo was too"
     excerpt: "I've been writing about Waymo since 2017, so finally being able to actually use the product was a trip, literally. I took two"
     publishedDateTime: 2023-09-08T19:44:00Z

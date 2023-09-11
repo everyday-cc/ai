@@ -239,6 +239,20 @@ related:
         width: 825
         height: 450
         isCached: true
+  - title: "Microsoft says it will protect customers from AI copyright lawsuits"
+    excerpt: "In 2017, Microsoft, by then a seller of open-source software itself, offered to protect customers of its Azure cloud products from legal claims. The company in June announced a program to help customers ensure the AI programs they run on Microsoft ..."
+    publishedDateTime: 2023-09-11T03:04:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/09/11/microsoft-says-it-willprotect-customers-from-ai-copyright-lawsuits"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/09/10/2276799.JPG"
+        width: 1240
+        height: 828
+        isCached: true
   - title: "China is using artificial intelligence to target U.S. voters, Microsoft says"
     excerpt: "A new report by Microsoft says China is using artificial intelligence to influence voters in the U.S. CBS News intelligence and national security reporter Olivia Gazis has more on the type of AI imagery and content being put out as part of the cyber campaign."
     publishedDateTime: 2023-09-08T01:08:00Z
