@@ -1,23 +1,24 @@
 ---
 category: news
-title: "Artificial intelligence e discusses ways for humans to ride a 'coming wave' of new technology"
-excerpt: "Now Suleyman has co-written a book, “The Coming Wave,” focused on AI's promise and need to limit its potential perils. He expanded upon his ideas in a recent interview with The Associated Press. Q: How should we be thinking of artificial intelligence at this juncture?"
+title: "Artificial intelligence e discusses ways for humans to ride a ‘coming wave’ of new technology"
+excerpt: "If you have watched a telecast involving basketball superstar LeBron James during the past 20 years, you probably have heard an announcer declare: “You can’t stop him, you can only hope to contain him."
 publishedDateTime: 2023-09-11T12:01:00Z
-originalUrl: "https://www.thehour.com/business/article/artificial-intelligence-e-discusses-ways-for-18359250.php"
-webUrl: "https://www.thehour.com/business/article/artificial-intelligence-e-discusses-ways-for-18359250.php"
+originalUrl: "https://www.seattletimes.com/business/artificial-intelligence-e-discusses-ways-for-humans-to-ride-a-coming-wave-of-new-technology/"
+webUrl: "https://www.seattletimes.com/business/artificial-intelligence-e-discusses-ways-for-humans-to-ride-a-coming-wave-of-new-technology/"
+ampWebUrl: "https://www.seattletimes.com/business/artificial-intelligence-e-discusses-ways-for-humans-to-ride-a-coming-wave-of-new-technology/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/artificial-intelligence-e-discusses-ways-for-humans-to-ride-a-coming-wave-of-new-technology/?amp=1"
 type: article
-quality: 8
-heat: 8
+quality: 26
+heat: 26
 published: false
 
 provider:
-  name: The Hour
-  domain: thehour.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
-  - AI in Healthcare
   - AI
 
-secured: "mHrsCv4ymw/FyJsQo0lqGe+z7CmATIP4PC78vEWtiCXnSexKwJ3w0CNcQop6OX5M/jCcyX6P1s7lGApK/thsMDsaccZfxtw0HOhq+xZgsYA+nbbzWLLyx2QntsDahmV/Cc6L7fAr6pcivDoa3AHU59smToscd6pa2m+hIUKqddRnv7jfLsfXayxJJ4cZbgST6c71ztEOw1xfF3Q2lv3Og1kpTiB24OCHJqR9DjzZLRpaepzPbNgGjsxuO6+xs/CTGsZRLFfh8CNJzk1WtW23Vg/dBHalGSCTtPSm5e775TmZlbVR0S9dx7s1E8gNMdU68dCdROO+hZ2xezj7h+8ONaS7JPxkANDvNcgwIGS16m/cUS+xJAtrPq38QNMVlcsbxYng90kKXoh2tNAnLweXIokCvpN2D8Z42g/d82xqe+k4UIl/3gz29PivOJi6mSHDqqtEyPz8aBl5NPEsE8cg49F5XN4FXPTeZgynPr/8LW9MjsR3YUHwSnAy8KvrNTIERtH8vkbctnRZEFsP9oGs3w==;7wARP6FsRP3/g327ygdGDg=="
+secured: "GEm0hyzoiG/CNBWiLLtLrgBamJXDHyyj5rMO6G0T2YuOLX4+qYQEvnw1KFzkpXo+m8EFKHRcRtE7Ftvfjy4vwlCU2SkE+PTJOQgNdHt8WgyqwB7eV7DHgJAotynGc0btq3HKcBfFCGg0W1HvXfpAGXzsK3om6GHid0Vi67GChBQhhGEOKsv5alDxzvugfEOrrL6Shl8jb4NyjRGUxbwmTN1TzP8oYtapWyEyeWYUPa1VRfsnVPt+eHMkaT8QH4NbeyuUdX8wOL26YswuNZEdiWM0WeLDF3SFEOaE+m2Xaq1mBVGHkQT12K1ygthuq+JqV+wfilCKr/Go5L2uxawwBiTTwXPXQChepCEaLPNxGYV2BA7Cq4VjO7vCcQDlL3DwhRH5w7psflnBWGCT4tZAgb4202cPlNcQo8/Jp4pcV/9smyl9OsXLea65eQXVl/uhpxjGgK5jNlRJl7X3SP13BZapXJcLmulXRAE0pb+CFm4P+f2Kx610qlDTKR6udPfuxpNU6A/X3tnBGTdBFmN1ew==;HnTml5OHMQXXzgjSLbC8Pw=="
 ---
 

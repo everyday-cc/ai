@@ -115,6 +115,20 @@ related:
         width: 930
         height: 620
         isCached: true
+  - title: "An AI reality check"
+    excerpt: "While thousands and thousands of people have been working with artificial intelligence for years ... at AI’s medical applications and drug development — how you can tailor therapy and predict response to treatment. If humans ask the right questions ..."
+    publishedDateTime: 2023-09-11T17:00:00Z
+    webUrl: "https://www.mmm-online.com/home/channel/features/an-ai-reality-check/"
+    type: article
+    provider:
+      name: MM&M
+      domain: mmm-online.com
+    quality: 39
+    images:
+      - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2023/09/MMM_September-2023-_Web-Art0011280-x-900.jpg"
+        width: 1024
+        height: 720
+        isCached: true
   - title: "How to Unlock Your Business Potential with Artificial Intelligence"
     excerpt: "One game-changing tool that has taken the business world by storm is artificial intelligence (AI). From streamlining operations to enhancing customer experiences, AI holds immense potential for your business. In this article, we'll explore how you ..."
     publishedDateTime: 2023-09-08T10:27:00Z

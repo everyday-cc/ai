@@ -20,15 +20,6 @@ topics:
   - AI in Security
 
 related:
-  - title: "Indian fintech firms using AI to detect money laundering: Kiya.ai MD Rajesh Mirjankar"
-    excerpt: "Talking to ANI during the ongoing Global Fintech Fest 2023 in Mumbai, Rajesh Mirjankar, Managing Director of Kiya.ai, an innovative digital solutions service provider, said that investigation patterns of investigative agencies and government institutions have changed with technology transformations."
-    publishedDateTime: 2023-09-07T00:16:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20230906/4116197.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 12
   - title: "A look at emerging technologies and cybersecurity challenges in fintech"
     excerpt: "Fintech now has a broader palette of options attributable to the confluence of blockchain, AI, and IoT, which offer improved effectiveness, transparency, and customer experience. Artificial intelligence and blockchain technologies find extensive application within the realm of the Internet of Things (IoT)."
     publishedDateTime: 2023-09-10T12:50:00Z

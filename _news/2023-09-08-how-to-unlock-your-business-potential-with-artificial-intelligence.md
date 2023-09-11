@@ -125,6 +125,20 @@ related:
         width: 930
         height: 620
         isCached: true
+  - title: "An AI reality check"
+    excerpt: "While thousands and thousands of people have been working with artificial intelligence for years ... at AI’s medical applications and drug development — how you can tailor therapy and predict response to treatment. If humans ask the right questions ..."
+    publishedDateTime: 2023-09-11T17:00:00Z
+    webUrl: "https://www.mmm-online.com/home/channel/features/an-ai-reality-check/"
+    type: article
+    provider:
+      name: MM&M
+      domain: mmm-online.com
+    quality: 39
+    images:
+      - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2023/09/MMM_September-2023-_Web-Art0011280-x-900.jpg"
+        width: 1024
+        height: 720
+        isCached: true
 
 secured: "z1pG/a1ded5x3EDhhd9M27kpH4vw9yE+bGXDYNsiL2CACcAdiUeZTlWhpr6Des9cWCo4qOUSwQYvxEqkkMIQxqRR19YgB57hJbDgcWsunij6iLIvzZLKJeDFcEhH1dvUKRs4CyaPvfYjH4a6ZdewuM5/KGE/WhB1XnHFnhlxOaM3NZ39iBYRckpxIEHM0BHaPkooxMZGGJ0ByQly2uG4PEWb7gJy3a3ZXxRL7UIyCESU1Sj7gCPrbPTGaZd37MUnvyMMri3T+DZY3kPyLX3NuehZ7MIdn0gQ1HE84N2mr5x35WOlwTN6zrkwvMmvOcS9523077kbeR26i87RAL3dALP2kZXRq7g/GRXwzWPYuvs=;pbeIY3CisUoi3Eosp46uDw=="
 ---

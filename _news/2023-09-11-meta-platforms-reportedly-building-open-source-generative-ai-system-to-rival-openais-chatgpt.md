@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "AI app Character.ai is catching up to ChatGPT in the U.S."
+    excerpt: "That’s notable growth following Character.ai’s May 2023 launch, when the startup shared it had topped 1.7 million installs in its first week. Of course, installs don’t equate to users, much less active ones. In fact, the average mobile app has a 30 ..."
+    publishedDateTime: 2023-09-11T17:35:00Z
+    webUrl: "https://techcrunch.com/2023/09/11/ai-app-character-ai-is-catching-up-to-chatgpt-in-the-u-s/"
+    ampWebUrl: "https://techcrunch.com/2023/09/11/ai-app-character-ai-is-catching-up-to-chatgpt-in-the-u-s/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/11/ai-app-character-ai-is-catching-up-to-chatgpt-in-the-u-s/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/characterai-Mobile-App.png?w=1011"
+        width: 1011
+        height: 497
+        isCached: true
   - title: "Partner, helper, or boss? ChatGPT was asked to design a robot and this happened"
     excerpt: "\"We wanted ChatGPT to design not just a robot, but one that is actually useful,\" said Della Santina in a paper published in Nature Machine Intelligence. And so began a series of question-and-answer sessions between the researchers and the bot to try and ..."
     publishedDateTime: 2023-09-07T17:00:00Z
@@ -102,6 +118,20 @@ related:
       - url: "https://i.insider.com/64fb856f3d39230019774d64?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "As Senate tackles AI regulation, everyone has an opinion (except ChatGPT) | The AI Beat"
+    excerpt: "The chatbot continued: “I’m not aware of specific AI regulation forums taking place this week or ... He also says the United States should use its dominance in advanced chips to enforce global standards, and has called for the creation of a governance ..."
+    publishedDateTime: 2023-09-11T16:28:00Z
+    webUrl: "https://venturebeat.com/ai/as-senate-tackles-ai-regulation-everyone-has-an-opinion-except-chatgpt-the-ai-beat/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 61
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/09/sharogold_vector_illustration_of_US_capital_building_with_peopl_3bb05faf-cd21-4366-a551-57d6b709e91e.png?w=1200&strip=all"
+        width: 1200
+        height: 672
         isCached: true
   - title: "ChatGPT broke the EU plan to regulate AI"
     excerpt: "Artificial intelligence's newest sensation — the gabby chatbot-on-steroids ChatGPT — is sending European rulemakers back to the drawing board on how to regulate AI. But after months of internet lolz — and doomsaying from critics — the technology is ..."
@@ -280,6 +310,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/6/5e/65eddd27-5f7e-51af-a65c-5d8ff9c1f88d/64fc7131358f7.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Popping the chatbot hype balloon"
+    excerpt: "Understanding how chatbots work and the human labor and data involved can better help evaluate the validity of concerns about them—which although innovative, are hardly the stuff of science fiction."
+    publishedDateTime: 2023-09-11T17:01:00Z
+    webUrl: "https://thebulletin.org/premium/2023-09/popping-the-chatbot-hype-balloon/"
+    type: article
+    provider:
+      name: Bulletin of the Atomic Scientists
+      domain: thebulletin.org
+    quality: 26
+    images:
+      - url: "https://thebulletin.org/wp-content/uploads/2023/09/Pop-balloon-landscape.png"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Beyond ChatGPT: How big tech is changing lives (and fortunes)"
     excerpt: "Beyond machine learning, Ogden still believes neurology, neurobiology and neurodegeneration is a big theme. It's a difficult space with longer lead times. \" [But] we now have an antibody commercially available for Alzheimer's disease, for instance. We look more at biomarkers to improve patient screening."

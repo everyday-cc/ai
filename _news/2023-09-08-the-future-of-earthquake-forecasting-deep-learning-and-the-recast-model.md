@@ -9,7 +9,7 @@ ampWebUrl: "https://www.labroots.com/trending/earth-and-the-environment/25868/fu
 cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/earth-and-the-environment/25868/future-earthquake-forecasting-deep-learning-recast-model-2/amp"
 type: article
 quality: 58
-heat: 68
+heat: 58
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 700
     height: 394
     isCached: true
-
-related:
-  - title: "Seismologists use deep learning to forecast earthquakes"
-    excerpt: "To address this limitation, a team of researchers at the University of California, Santa Cruz, and the Technical University of Munich created a new model that uses deep learning to forecast aftershocks: the Recurrent Earthquake foreCAST (RECAST)."
-    publishedDateTime: 2023-09-07T00:00:00Z
-    webUrl: "https://www.universityofcalifornia.edu/news/seismologists-use-deep-learning-forecast-earthquakes"
-    type: article
-    provider:
-      name: University of California
-      domain: universityofcalifornia.edu
-    quality: 39
-    images:
-      - url: "https://www.universityofcalifornia.edu/sites/default/files/styles/article_default_banner/public/deep-learning-earthquakes.png?h=0704619c&itok=7VC5GOSc"
-        width: 1680
-        height: 940
-        isCached: true
 
 secured: "0Z1N3lSU0ROatTE6Fa8JCVzIT0MYZelujjlQmP429V5QOHde7yDCPjQ2TTPxurZTGOCzgDu+ko0OpuvXIptamg03qVsVoeKm4tcVr+KVgb9lvm4AHtgcHD3rvRG5Y63h+HjZzaa4TqtU54TgaaaQOeFh0x/+MosK04wSG9Um26FhVMgijrcgYfmfKuhMqehJc+2J7RF6iIGyyqAoz31qeXAZJDE2Qio2mby3E18BnhxaxVFlc2V1XWE+xTL8DqEbii3yhd8s0x0EP8B1AdpQgwaCgEKoBTuNOXUCu3C1NWP9+Q0crHl1a2nqdCWw/xsjRKSv0B477XDhgSqwk94SW1yGBYWWSeSNrEuTi995Iz/yacjC4BMc3j/3BdwTfXv3+cjP4Vi2uy95dl3aeIHfaKOz8Wm0E5gffmnEC7OGzvi3FoDe+RvLq0fE19Xvla7ahHEp2WWaxnNeCcMUsgl3+spcUhckRxXndVj+WPvt4BgyY34g+bOtYwsmVASvI2CWWWGCZltAnvWRhpjNNxG//Q==;GY8EN2mpGLhkHZJ/wdUHZA=="
 ---

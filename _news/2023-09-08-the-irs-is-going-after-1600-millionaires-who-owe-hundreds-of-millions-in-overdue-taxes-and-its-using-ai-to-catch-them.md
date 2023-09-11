@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/irs-going-after-millionaires-big-bus
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/irs-going-after-millionaires-big-business-partnerships-for-overdue-taxes-2023-9?amp"
 type: article
 quality: 62
-heat: 72
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -30,6 +30,34 @@ images:
     isCached: true
 
 related:
+  - title: "IRS to Use Artificial Intelligence to Catch Wealthy Tax Cheaters"
+    excerpt: "In response, the IRS is tapping artificial intelligence and improved technology to help identify tax-cheating schemes that previously went undetected, including tax fraud schemes that can ensnare unsuspecting victims."
+    publishedDateTime: 2023-09-11T16:50:00Z
+    webUrl: "https://www.pcmag.com/news/irs-to-use-artificial-intelligence-to-catch-wealthy-tax-cheaters"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/03dy9aKYyJ9IxDEs7NsiNY7-1.fit_lim.size_1200x630.v1694438424.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Valley researchers working to use AI to improve lives"
+    excerpt: "Artificial intelligence can attract plenty of critics as we consider how to address the ethics of it, but some researchers in the Valley are hoping to advance the work of AI for social good."
+    publishedDateTime: 2023-09-08T00:20:00Z
+    webUrl: "https://www.abc15.com/news/local-news/valley-researchers-working-to-use-ai-to-improve-lives"
+    type: article
+    provider:
+      name: ABC15 Arizona
+      domain: abc15.com
+    quality: 39
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/3698b9a/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fause%2Fslices%2F041%2F5c3d34b8b29a45469a86c02775b7a2cf%2F041f51eac12e47809d9ea373e14d1972%2Fposter_8f2b1720578244ccbaa378ef52682e8d.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "IRS deploys artificial intelligence to catch tax evasion"
     excerpt: "The tax agency is opening examinations into large hedge funds, private equity groups, real estate investors and law firms"
     publishedDateTime: 2023-09-09T20:00:00Z
@@ -41,6 +69,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
+  - title: "IRS will use AI to crack down on wealthy potential tax violators"
+    excerpt: "The IRS said Friday it leveraged AI to open investigations into 75 of the largest partnerships in the U.S. that each have more than $10 billion in assets on average."
+    publishedDateTime: 2023-09-08T16:47:00Z
+    webUrl: "https://www.axios.com/2023/09/08/irs-artificial-intelligence-tax-violations"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 17
 
 secured: "njHvVuVlT56JbBfyVo/lU/1UMpCSNgrzT7jgrqeqdK0e2mfvO7T5kK2znt5gyqk45ocmyc8Zzs+kfM4t8h8Vy/MajbJCQ8nbpaEA6FgULXTKqxl7ZJTIFo6FOwxdb5n4BFokILSWmJTuWp7eww/yYkNQ07WmjI+5h8kEOFv8dSf3YEV+OYx80EV6S9nQpnVqzd8MXxTO4e0MGDQEpRha3z1RflIJFVZCahJIuXmZPsftSAKrA94EOx33FjZyjxf/EaJGZUQoUJuHvR8i1wKv6JHaRa3WMSGtB0f24JVhvpFS8OOflaPqp4tYHCL8OOG85klpfv6TuomtoTRKUnd46AMu0Re2h/8wsRQJh+fHcqo1np43DL1bwT+ljgEDd9EZEoWND8LyMQ79+lDq84jJtM9+Z5+oNeEDFvqO2Obwz4sTOzkM/CsPgaVv9AdVRabP6OT6JD0yph2iQblmQLACGXdhoYznETn6+REXWJutGCS0Q6EcctXz4ZR1jese9D9mlFBVZAAnGRt97x1S4hGmzA==;/MPQCgiDA0JU5f0wS59FOQ=="
 ---

@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "artec technologies AG: New development of AI-based speech recognition with integrated translation function"
+    excerpt: "Diepholz - September 11, 2023 - artec technologies AG, a provider of audiovisual solutions for media monitoring, sets new standards in the industry with its latest development: an AI-driven, multilingual speech recognition (Speech-to-text, S2T) with integrated translation function."
+    publishedDateTime: 2023-09-11T16:28:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/ab34448580/artec-technologies-ag-new-development-of-ai-based-speech-recognition-with-integrated-translation-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34448580"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34448580"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 56
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "How Edge AI Enhances Video Surveillance"
     excerpt: "This website uses cookies to enhance your browsing experience and serve personalized content. Privacy Policy"
     publishedDateTime: 2023-09-07T14:50:00Z
@@ -78,6 +94,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 36
+  - title: "How Applied AI is Transforming the Future of Transportation: A Deep Dive into Self-Driving Cars"
+    excerpt: "Envision a world where commuting ceases to be a tiresome chore and instead becomes an opportunity for relaxation or productivity. In this vision, accidents are nearly eradicated, and traffic jams fade into the distant past."
+    publishedDateTime: 2023-09-11T16:12:00Z
+    webUrl: "https://techbullion.com/how-applied-ai-is-transforming-the-future-of-transportation-a-deep-dive-into-self-driving-cars/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 27
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/09/Untitled-design-2023-09-11T171123.595.png"
+        width: 800
+        height: 400
+        isCached: true
   - title: "AVIA’s National Generative AI Collaborative Announces New Experts, Enhanced Health System Participation"
     excerpt: "The Generative AI Strategic Collaborative reveals a slate of 10 clinical, ethics, technology, and regulatory experts for its national consortium"
     publishedDateTime: 2023-09-07T16:04:00Z

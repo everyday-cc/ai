@@ -153,6 +153,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 19
+  - title: "State laws are putting AI in the driver’s seat"
+    excerpt: "Are you riding alongside driverless vehicles in your state? TruckInfo.net analyzed legislation across the U.S. to make sense of the range of laws."
+    publishedDateTime: 2023-09-11T16:30:00Z
+    webUrl: "https://www.miamiherald.com/news/business/article279208249.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 19
   - title: "The Download: combating covid, and the challenges of governing AI"
     excerpt: "Deciding how to regulate AI is one of the biggest challenges facing politicians and experts alike. On September 12 we’re holding the second MIT Technology Review Roundtable: a 30-minute conversation with our writers and editors—and this one’s all about governing AI."
     publishedDateTime: 2023-09-08T12:10:00Z
@@ -172,6 +181,6 @@ related:
       domain: axios.com
     quality: 17
 
-secured: "kfcS3+gR/7zzma1BQZGTMnQVgh/rHt5Khoq3YZ06rFVBp0BMzfSGP44nlUv/niFwb2PUm2xLJreES7jt3KIUeesALgq5J+v4F8KAkiAZpXkdyYAsSHKN3O0WZXdlVyk5R2zL4D752TVovhLkgJsi7IshnACTM0fxzzvdlE9sS1Fz79y2RfAnoDWBmN4Wgbtsw7cmHSdeZ1SmAdsfLPocu8+wvYnISxAmHimKqaDzNw4zdi6c5OyJWpHAz1nZHbpXCGR/4ZTtMYdL+ILAnSSS+ryjqwrqIosm8jF4glo/f34eeH3w/nv7HAi0vkmxvOGEEqIk/vnckdauFCWnURmdHGhh3GjTRExCrw9zP5c1Lcg=;kcVtJWzJ6PkyXypnlC7pNQ=="
+secured: "h2fH5Lzv69rJAYq/WI5UkzLC4zkb3kc5cbrppnUerOhTeV2dclda863sIaxt76AtvcBbx/FhrIATdsxaq2aLHyFl9aC8pIY9mbXgNbCRbFtkG9wi6nLy5lwZQyrTT7gyTIunETkDD3MG/Wr5H7b3C1WWMbQVzPzSiP++r/wCJ+DFubMFs5ld+p7k90DNoysnKBmcMMmP4zEHY9l1C6VYyl0KP+tQabz45siMiU3Wgi9m1sNJ7JMk83MeivL79anmPO3ecdg4hIUYk0Lhk60fwu4xHkw60EefIH0kao21u0aYTkpHi4k1+DiuXDJqCUoVmNd2wRz2rTwLpNVfPaKURl2oJZpYYyWEgPV81wFqIKQ+khP7kVymhmV/oYLo4VCZ/Kho2k8T8n/UImsGc6uWSHK3KkyCi8/0XGHHieHUQahSEM7GKV04cac9yj9neJ2+J3JAVhMkgMlxyGVP8XlNY3mEhhrPsFLuccV1qQwAwcURkSLROsiGb9ZM7ttjCL/n5YQwIwRZsJC6XtZsS5bCCw==;LVIyNHrPBuFVp8ktyIgzeA=="
 ---
 

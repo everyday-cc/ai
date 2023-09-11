@@ -1,59 +1,28 @@
 ---
 category: news
-title: "Robots are pouring drinks in Vegas. As AI grows, the city's workers brace for change"
-excerpt: "Workers in Las Vegas have been watching automation and technology inch into their workplace. Now with AI, the city is preparing to adapt its service-heavy tourism economy."
-publishedDateTime: 2023-09-04T09:07:00Z
-originalUrl: "https://www.capradio.org/news/npr/story?storyid=1197138244"
-webUrl: "https://www.capradio.org/news/npr/story?storyid=1197138244"
+title: "Robots are pouring drinks in Vegas. As AI grows, the city’s workers brace for change"
+excerpt: "Walk any direction in Las Vegas and it's easy to find machines doing human work. Check-in kiosks have replaced people at the front desk of hotels. Text-bots now make restaurant recommendations"
+publishedDateTime: 2023-09-04T10:11:00Z
+originalUrl: "https://wbhm.org/npr_story_post/robots-are-pouring-drinks-in-vegas-as-ai-grows-the-citys-workers-brace-for-change/"
+webUrl: "https://wbhm.org/npr_story_post/robots-are-pouring-drinks-in-vegas-as-ai-grows-the-citys-workers-brace-for-change/"
+ampWebUrl: "https://wbhm.org/npr_story_post/robots-are-pouring-drinks-in-vegas-as-ai-grows-the-citys-workers-brace-for-change/amp/"
+cdnAmpWebUrl: "https://wbhm-org.cdn.ampproject.org/c/s/wbhm.org/npr_story_post/robots-are-pouring-drinks-in-vegas-as-ai-grows-the-citys-workers-brace-for-change/amp/"
 type: article
-quality: 47
-heat: 47
-published: false
 
 provider:
-  name: Capital Public Radio
-  domain: capradio.org
+  name: WBHM
+  domain: wbhm.org
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://media.npr.org/assets/img/2023/09/01/img_2227-e4ff9eafcd401e007a1ed90c4b090f30f5244767.jpg?s=6"
-    width: 948
-    height: 711
+  - url: "https://wbhm.org/wp-content/uploads/2023/09/img_2227-e4ff9eafcd401e007a1ed90c4b090f30f5244767-1-771x578.jpg"
+    width: 771
+    height: 578
     isCached: true
 
-related:
-  - title: "Robots are pouring drinks in Vegas. As AI grows, the city's workers brace for change"
-    excerpt: "Robots can serve food ... And then there's the brand-new jobs that AI could create that don't even exist yet. In Las Vegas, city officials know they have to start preparing for whatever changes are coming right now, and that starts with getting the ..."
-    publishedDateTime: 2023-09-05T06:31:00Z
-    webUrl: "https://www.houstonpublicmedia.org/npr/2023/09/04/1197138244/robots-are-pouring-drinks-in-vegas-as-ai-grows-the-citys-workers-brace-for-change/"
-    type: article
-    provider:
-      name: Houston Public Media
-      domain: houstonpublicmedia.org
-    quality: 47
-    images:
-      - url: "https://media.npr.org/assets/img/2023/09/01/img_2227-e4ff9eafcd401e007a1ed90c4b090f30f5244767.jpg"
-        width: 3420
-        height: 2565
-        isCached: true
-  - title: "City of North Las Vegas expands AI-powered translation service to include 30 languages"
-    excerpt: "The City of North Las Vegas has expanded its AI-powered translation technology to be available in 30 languages this week."
-    publishedDateTime: 2023-09-07T15:12:00Z
-    webUrl: "https://www.ktnv.com/news/city-of-north-las-vegas-expands-ai-powered-translation-service-to-include-30-languages"
-    type: article
-    provider:
-      name: KTNV Las Vegas
-      domain: ktnv.com
-    quality: 31
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/3b9afb4/2147483647/strip/true/crop/1280x672+0+48/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F14%2Fc8%2F6fb7f99c43cca611c0d3d1996b53%2Fnorth-las-vegas-logo.jfif"
-        width: 1200
-        height: 630
-        isCached: true
-
-secured: "mtPPl9ILI+W2bu+2XGt3zEOOeBTiIValGmyO5cVZNo0Y26vbxF8pPey4GYuO8v4ztPJrPH9AwKZdaVkWCbL8GWtZOjqZGKW6W+6BZxxRzymXducVn0WxChtvuv+9OYtI2m49nkwzQV60Eb35hYjBFP21muTHf0KQhHanuyjvhKTTRQhwpo5LceWE2upSiLsI7xA4d0h3Z6bqqkc/cbte+zODEjir4BbWJQR5BKJOPN9lsGOh2ASdvzMhlSyyP0fz8+EkibuYpxR/Pw+Qb6CS3pkLSuPQ7PHgEvEnoaFyPUMiescj5pswPPUlAbuV1YW8PpkH2NPd/DVRLvkgRLuYYViRFstZ65/NssKasHTmeuvw9LfLAxpX6dwJCXrNZTv974CPd9reuL58E8zXcTkutoxcBK7C0d4mBcIRdeeDAvtAJ09kni994mCkUIUTfF2E3Vg2jYOKByM/f4cPhXyKydkcd7xohwVot7BDtHfvZZNtwsXusPQuDqbDygjHT/EjEiAEM0uwXdYpP58/qBWAqQ==;NiFSeRvE+d9US66xv/B2Fw=="
+secured: "U08q/DzMMbthz8lHb8EHF8oUuKuSCcI8MZGZ5vGWPNfz3xBoQVC3A5Haizv0U4yirm6ln2uUM1keJO9x3h/L7E87l1rG9qnuD089XmvHGV1rR/HTU7Vkgb0Vzu2JsIqvqfNJCeK2bDzT+RxKilQwQ2Ldgi4FT7YvsCBDVQE0k1ALZE8bW6NNeh4Vi5o2bzfNIrrHmNHjasOc5t6mqCZl4b1oojm94JmM1bWLvbNIRLVIRDv+521hX1CcvZiT+tx9g+zO02cZaw3wkxIozJaSbXZJoZ5FsZYF1ScumJ1wLjpU1ruHDOgy6qx0g5mLahgoN3IlnukkhxQFN5jUhcP8dGlI1gdHAd61Fvl5d6kisfw=;vCdGCnFejU9CvLeDX6RPiw=="
 ---
 

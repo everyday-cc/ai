@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "G20 leaders bat for 'responsible Artificial Intelligence', eye ethics-based regulation"
-    excerpt: "Amid the rise of generative artificial intelligence, leaders from G20 countries discussed how to harness the technology to benefit development, while ensuring that safeguards are built in to check misuse. Citing the example of AI, Prime Minister Narendra ..."
-    publishedDateTime: 2023-09-11T05:39:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/government-policy/g20-leaders-bat-for-responsible-artificial-intelligence-eye-ethics-based-regulation/103567716"
+  - title: "An outline for teaching responsible use of AI in high schools"
+    excerpt: "The researchers recommend teachers follow the \"Ideas-Connections-Extensions framework\" (ICE) education model when instructing students on interacting with AI writing programs. In this model, students start to learn by grasping foundational ideas and their ..."
+    publishedDateTime: 2023-09-11T17:40:00Z
+    webUrl: "https://phys.org/news/2023-09-outline-responsible-ai-high-schools.html"
+    ampWebUrl: "https://phys.org/news/2023-09-outline-responsible-ai-high-schools.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-outline-responsible-ai-high-schools.amp"
     type: article
     provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 46
+      name: Phys.org
+      domain: phys.org
+    quality: 57
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-103567716,imgsize-34756,width-1200,height=765,overlay-etcio/government-policy/g20-leaders-bat-for-responsible-artificial-intelligence-eye-ethics-based-regulation.jpg"
-        width: 1200
-        height: 765
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-in-school.jpg"
+        width: 2880
+        height: 1920
         isCached: true
 
 secured: "OTQcnxVux6MSp8T2uPTJFifzXArKPRgGATmjV/xZSVwodXrlWRxcE8Lft8CBxyVt8G6GHdce+WoucmjqJASTT4PRuUkybzhe+AqLxMHQlRLGwKGvwWA8RfSfwvgZqz3GSsr9k8DzGp7/znRUzhsTFSX1/iymX2oBVz0nKUBs+WmkKHgFX5Haq7mrTPZQ1Hpoqe5ncSKJh+vEbcWbvnrF1YzvUWX+nslOXg+0gZCFOqf8hxCS3AHpbsUmrT2MSdNVkPWkJFsljJYYvRyUwreIjKKcIq8KnP0gmeXeAuDtKGuc1J4TFlw8vh6sEvpWrBSteCdphLu+jV3NHwf51FZBdHJaa5/sB1qmDcYvIP3Lxp4=;4f2baNzOiZeoizbp16TloQ=="

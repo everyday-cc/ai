@@ -58,20 +58,6 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 49
-  - title: "Cloudera signs strategic collaboration agreement with AWS"
-    excerpt: "Cloudera, the data company for trusted enterprise artificial intelligence (AI), announced today that it has signed a Strategic Collaboration Agreement (SCA) with Amazon Web Services. This agreement strengthens Cloudera’s relationship with AWS and demonstrates their commitment to"
-    publishedDateTime: 2023-09-07T00:28:00Z
-    webUrl: "https://itwire.com/guest-articles/company-news/cloudera-signs-strategic-collaboration-agreement-with-aws.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 39
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/c63fc15cc828883c5de916ed5cf9bab1_M.jpg"
-        width: 375
-        height: 300
-        isCached: true
 
 secured: "YL77uU9NVJcYJ27b2zRpy2M907dyDBhjiqCWMje0QMeUkCuJIctWJftmXBoEj9qFOZSz6iBE1wtnn5d6LNKlnmiLhqiO3Q/l0Oeey+/qQg4nT56SSKOSMR3wdnJ8grAhMM2sizuiH9op3KH3uSIzBO4LEvBp+xbJBZuzx4F5phAEGZkQRPnXz14Dm0nAW86AP4XEsHDVpZ6s6d175hKvPRV92heHGJeooPS0YI0VZqvPmnF22vxdybjsQ2f6J/8n8dufHwiVhB/j52B6Jkp49yZru2g0XxrpSvIgSLCbBaD8qa87y1ZuQ/G6cwqo6uKYx+XPvAkYM1zb7GJXce31Rk64q0nvscn9z3cugPqeAX0=;XNkmkLfSYUY6DSJzSd/Stg=="
 ---

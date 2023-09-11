@@ -115,6 +115,20 @@ related:
         width: 930
         height: 620
         isCached: true
+  - title: "An AI reality check"
+    excerpt: "While thousands and thousands of people have been working with artificial intelligence for years ... at AI’s medical applications and drug development — how you can tailor therapy and predict response to treatment. If humans ask the right questions ..."
+    publishedDateTime: 2023-09-11T17:00:00Z
+    webUrl: "https://www.mmm-online.com/home/channel/features/an-ai-reality-check/"
+    type: article
+    provider:
+      name: MM&M
+      domain: mmm-online.com
+    quality: 39
+    images:
+      - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2023/09/MMM_September-2023-_Web-Art0011280-x-900.jpg"
+        width: 1024
+        height: 720
+        isCached: true
   - title: "How to Unlock Your Business Potential with Artificial Intelligence"
     excerpt: "One game-changing tool that has taken the business world by storm is artificial intelligence (AI). From streamlining operations to enhancing customer experiences, AI holds immense potential for your business. In this article, we'll explore how you ..."
     publishedDateTime: 2023-09-08T10:27:00Z
@@ -130,6 +144,6 @@ related:
         height: 576
         isCached: true
 
-secured: "RqKf/ytKpOBeqlHOt6uMSnl9mqfMylDHKjegIUJc2bXTlsY0WDwfkRNr3EYJYfjVctL/T+rKsa/jSZSvlwaO+DbOIQQCyOVyiURLKVVEzpHXEuhr9PDywI/Fnwe7nz11FR0L0m3+rjPoBDKdn5n1UhZ8CifWR3xVX3IEVxG9GbI4GHTdszFXmm1tiNeUG2BjEQaBu0U4YZD74a0KYbEHWY6FOa03LkunfeYfRinjD25HnVHPegGpgKqbgBeEGRpoqjnBaoqghjrMKjKgZmHwwCt27UFepT4cm36THatjKqoA3+PCMjIB78YTKL2IGZCNljwC6aPAG7feZIaPU39cLXZSAWXErI1kZDKdEul22U4=;3bZy72mLovNdwS2Xrpn96w=="
+secured: "C+xXXK15j67LooBJwJRXcoILZrY1MNfviniH0mOJaCqbJGiQRRWHI6p+KRZWVsz3mfimNWt9930YXfJxxQzQeREO2MCAbPl4VUa80k3vSXjeFcE3HKtLjdNC4yIIZi3I23toDPvdQUlxFLbBKpy8eqirFkirlZZtDnauycmdgVBc4kSLzzSSgSvd/BM0w0BHxS9fJIikPNPjCZ0iiY23qDW/F8fIZTnib2OJcd3nDiswa2DE57QavFAsOdS83zYsSw6KBjTlyvDBhSroSGnX9jJDHK9Y+KxbhPRX2JnpvKpC7CJs1OsdBimjDiYBwQn33eoOPFfQGdxE/ceiJhz554gRjLSR9+Wyo5IbkXtU+xt06Lrmbjpp5n3Cedj5g5At0xOztUyrCDJ5H3XL4gA96JdouJkiaFL7lEz7xA4mXHW6gtKLfRit99O0XpxPCz7VITxMVpuy7m+DrLCAMxyy3XrmD4NG98EGS9eZg3JUm8zIqq1JHYZpvXcuwluO0dwcgZXhgqjNzkEU1YI44S3Pfw==;YF55j5scWcUy27vSzuhHQA=="
 ---
 

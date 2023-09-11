@@ -7,7 +7,7 @@ originalUrl: "https://news.met.police.uk/news/live-facial-recognition-deployment
 webUrl: "https://news.met.police.uk/news/live-facial-recognition-deployment-leads-to-arrest-of-wanted-man-472005"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1782
     height: 1002
     isCached: true
-
-related:
-  - title: "EDITORIAL: Clear rules urgently needed for facial recognition data"
-    excerpt: "Since summer, East Japan Railway Co. has been using thousands of security cameras with facial recognition technology at 110 major railway stations and other facilities in the Tokyo metropolitan ..."
-    publishedDateTime: 2023-09-07T00:00:00Z
-    webUrl: "https://www.asahi.com/ajw/articles/14456292"
-    type: article
-    provider:
-      name: 朝日新聞社
-      domain: asahi.com
-    quality: 39
-    images:
-      - url: "https://p.potaufeu.asahi.com/1fc2-p/picture/26409728/12d3330251bcbabbe9f42ef7c07b84e0.jpg"
-        width: 660
-        height: 381
-        isCached: true
 
 secured: "gg6z0NVcw3zlC6JGUOel4knSO06tuF/YdvhZ4wxr0ijIMLc0DqKHKvXYULWOuhRkDflYxus5aKemVpiqBVhLCLgBc38cs7OoXAv5F19brdMzz0mG+0b5qIEQZq1ml7VLotAprAEH0CmiLg3PeD/qEpOJtTswG+q1wfZW4WEELzHO6PC4FsKUd3zsz7efsCy062EmJcoch22iP+bvztuUjLsUiQoOHWMctelBuR0hVfddpkyjndRAAhZCPaPFn+Co4tkbM2mRBbSVsu6QG++oJlorXin0Rb9O8QmN2vUSeqWL3KwgS+zZv+CKJ3NPC+SRVkA79s+2fNT0sLHLEWdXbWQhzsI73z5H8OTHtrKVJfjQD5YvtOR6G+xYreOL1fuFBxKThAlCWQHtuEED24ah2kmLdQ4MifoU8ofv9C4WpIY9v9IRTTjbquty/7sbwnxtOejTYpWQ6zQIka0BP+Buz9cVc+Q6LwKAtQRFhZoZ5bxoAN0pYsgJtcYSXhqByyB6s+319aQ8xKrAr539LJzuow==;wGgAGww6Tckhu+biZx1YVQ=="
 ---

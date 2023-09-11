@@ -28,15 +28,6 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 21
-  - title: "Indian fintech firms using AI to detect money laundering: Kiya.ai MD Rajesh Mirjankar"
-    excerpt: "Talking to ANI during the ongoing Global Fintech Fest 2023 in Mumbai, Rajesh Mirjankar, Managing Director of Kiya.ai, an innovative digital solutions service provider, said that investigation patterns of investigative agencies and government institutions have changed with technology transformations."
-    publishedDateTime: 2023-09-07T00:16:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20230906/4116197.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 12
 
 secured: "m/9ksTyAEhYUumCz8ulz+dCaJms2CXfiFOGubm7E/fTKFzRPgI3e2MDS9PdkSU1JmuIqL4Sj1PYSESYkMUOX2mzpmcb1cm0C/1Tq8+0xw/GG0ITVsz/NQ9oj+pu9MgakK4lJyZjDQRap22/T2S9zHvvOsOygP8xK7nPT/U5f7beTCn0Y1wf9MxLg0/W7ni0fRAoMEKs6bxkF8HJIadcl+FHjJMqwyu1LotWQLpL4MMX4Hjsrm0pe3FHgcr4NHnx0ZKLXh7aBud7qwo4R+Tj+3V10/qmInhk09MgwNfXaRsRt/kTFRKmx9cF/Cresn/b+My15hx+4gupgL7ekZctErIXFV/e2sYWLcne8ZkWxrbGOXvFYEM8sDDki3v8Ye+qObQvpDrEmJNUBGqReayGYsoTIZFpk4DhmswQIYrOA3LdT1y2bWm7fmePNvzmSVSb8tjFZOItcALJErRj5p7pwHgQV4ykhhavh5CGSldAW6FDkzh/heQhprYAUK+wyNjt6TpVJTc86FTPq/Dj7CkE6Pw==;pO3M8LOa/9QuPsyS3LraFQ=="
 ---

@@ -97,19 +97,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Nvidia to build AI infrastructure and train engineers in India"
-    excerpt: "Following the meeting between India's Prime MInister Narendra Modia and Nvidia CEO Jensen Huang, Nvidia announced a partnership with Reliance Industries for buildning AI infrastructure and to train engineers at Tata Consultancy Services,"
-    publishedDateTime: 2023-09-11T02:14:00Z
-    webUrl: "https://www.digitimes.com/news/a20230911VL201/nvidia-india-ai-infrastructure-it+ce-software-big-data.html"
+  - title: "Nvidia bets on India with Tata Group, Reliance Industries AI partnerships"
+    excerpt: "According to Nvidia CEO Jensen Huang, India 'possesses [the] size, data, and skill' necessary to be a leader in AI."
+    publishedDateTime: 2023-09-11T16:26:00Z
+    webUrl: "https://www.rcrwireless.com/20230911/ai-ml/nvidia-bets-on-india-with-tata-group-reliance-industries-ai-partnerships"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 39
+      name: RCR Wireless News
+      domain: rcrwireless.com
+    quality: 38
     images:
-      - url: "https://img.digitimes.com/newsshow/20230911vl201_files/4_2b.jpg"
-        width: 1280
-        height: 853
+      - url: "https://www.rcrwireless.com/wp-content/uploads/2023/09/138346920_m_normal_none-scaled.jpg"
+        width: 2560
+        height: 1536
         isCached: true
   - title: "Nvidia's dominance in AI chips deters funding for startups"
     excerpt: "Nvidia's supremacy in building computer chips for artificial intelligence has chilled venture funding for would-be rivals, investors said, with the number of U.S. deals this quarter falling 80% from a year ago."

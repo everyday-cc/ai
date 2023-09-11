@@ -6,8 +6,8 @@ publishedDateTime: 2023-09-11T15:33:00Z
 originalUrl: "https://www.christianitytoday.com/ct/2023/october/artificial-intelligence-robots-soul-formation.html"
 webUrl: "https://www.christianitytoday.com/ct/2023/october/artificial-intelligence-robots-soul-formation.html"
 type: article
-quality: 39
-heat: 39
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -17,6 +17,8 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Ethics
+  - AI in Healthcare
 
 images:
   - url: "https://www-images.christianitytoday.com/images/136165.jpg?h=675&w=1200"

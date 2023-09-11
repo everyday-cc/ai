@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-09-machine-playing-field-fixinghelp
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-machine-playing-field-fixinghelping.amp"
 type: article
 quality: 60
-heat: 120
+heat: 110
 published: true
 
 provider:
@@ -104,20 +104,6 @@ related:
       - url: "https://assets.telegraphindia.com/telegraph/2023/Sep/1694430652_untitled-design-16.jpg"
         width: 900
         height: 600
-        isCached: true
-  - title: "Navigating Self-Driving Cars By Looking At What’s Underneath The Road"
-    excerpt: "For self-driving cars, tackling the latter is relatively easy, as the system would use the same information in a similar way: when to to change lanes, and when to take a left or right. The former ..."
-    publishedDateTime: 2023-09-07T00:00:00Z
-    webUrl: "https://hackaday.com/2020/04/06/navigating-self-driving-cars-by-looking-at-whats-underneath-the-road/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 24
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2020/04/lgpr_feat2.jpg"
-        width: 800
-        height: 450
         isCached: true
 
 secured: "Awekdaib+xEUrSgK1fkWCVyZFXiFLCQUaSZNaJ+7S0a/OjyBixUd1uupLtHlJ1j9cZlqx6dQwxqEEwxuVkc14pcLMFcNgzdeH/UMK2NRA+3hRFoqyCG7adPacnbEwJmFsl6nRQfhldEIC7dJZfFMVNXHNefi/b/VDUbLVSFIJa0/8sip+3sHmg07I4GNtR6iKKdpW5GOYq/WHsrQKFs6PTOuloRPNE6MD1uX+n9JduBda+HWAKX3emznLJQ1DQApBhV9XFisqz9E2KbKX1m6+uE8NAkZtO+/B11kAUc8JyYwhh4Nhg4x2GlgM/xZ8yEb6uW3MyTBiynD04fUdfz8OMKq76YkQIYyZ5fMKeE48E9UcFYeQrd7TVBma5SMnzqynhqY2Eprg72/OcOJ/ngiOWJknzZWYEVippWLCReyU26xskXM/Ky6nJyuzgJESOi3mEB7zLzJ3zYIH6YdiyJB9KeidRrqEU6PUrxPEDd2ZdvUUVe3Tm5VBwkGuHDO1OAq0TD9xQWTwecpgVDi214UMA==;DiB1L1ZRg3FKpcUNjgcO4Q=="

@@ -160,6 +160,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 19
+  - title: "State laws are putting AI in the driver’s seat"
+    excerpt: "Are you riding alongside driverless vehicles in your state? TruckInfo.net analyzed legislation across the U.S. to make sense of the range of laws."
+    publishedDateTime: 2023-09-11T16:30:00Z
+    webUrl: "https://www.miamiherald.com/news/business/article279208249.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 19
   - title: "Gathering the news for the AI-powered future"
     excerpt: "The bottom line: AI-generated news content is coming. The death toll from the powerful earthquake that hit Morocco late Friday surpassed 2,000 on Saturday as rescue workers raced to find survivors, state media reported, citing the country's Interior Ministry."
     publishedDateTime: 2023-09-10T13:02:00Z

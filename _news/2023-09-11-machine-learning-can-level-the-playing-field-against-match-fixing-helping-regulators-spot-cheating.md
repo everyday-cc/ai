@@ -105,20 +105,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Navigating Self-Driving Cars By Looking At What’s Underneath The Road"
-    excerpt: "For self-driving cars, tackling the latter is relatively easy, as the system would use the same information in a similar way: when to to change lanes, and when to take a left or right. The former ..."
-    publishedDateTime: 2023-09-07T00:00:00Z
-    webUrl: "https://hackaday.com/2020/04/06/navigating-self-driving-cars-by-looking-at-whats-underneath-the-road/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 24
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2020/04/lgpr_feat2.jpg"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "V9T5kkQLb8Ui9ZrFOx9Bx/thFFGG8drZTesAdSHhsPQCSc+WIpbcfsnLgdaqjlbeV3oU17LP/QDl1y+sW7D5amkujlTwJkqWURNWkphyyxFpdo3leP2bZQ5NVi/lmABb7NjARpgAHPhbRtkhWkyWsUhkeIKj3J1Iwwse9SH0m/enTtxSbAOdnTam/C5vsxeTx5gMTQqlqFHQevDALJgD2F+FHzAtOvR53VzlRUc1pPBrRGUYTqnW/zlICONe4HJ6OR83UwM9+MsV/BJZv5ympIasIQiCZeb3rlziAg9+OlI9KVXYWZ3RMNi+q+sBplaHZzW72aGI2nraKu8ebQBJWTndERpJjIctCUC7468kW7v8+bBnMaC4gWEtNteBQDYuznY6ViZBRnycQyanrvqS3p0ZfHCxeRNu6aTwgL97lyWwV3ZdQvI2Y9ijNLte75phobSAmgfTeYSllsZKL+P2uh5vkBGYMXEgl3MbzrvCX0L+waCUr3vD6xIAxY+LB4yy7Obs8e+ftPuP9bKUAcAeYA==;1IfWAdfbADlEQ3u2bc/a/g=="
 ---
