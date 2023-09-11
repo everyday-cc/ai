@@ -10,7 +10,7 @@
       "originalUrl": "https://www.businessinsider.com/elon-musk-google-larry-page-future-of-ai-2023-9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -51,6 +51,51 @@
       "topics": [
         "Google AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-07-healthcare-ai-market-2023-value-with-status-and-global-analysis-apple-ge-healthcare-google-deepmind-health-ibm-watson-health.md",
+      "title": "Healthcare AI Market 2023 Value with Status and Global Analysis -Apple, GE Healthcare, Google Deepmind Health, IBM Watson Health",
+      "excerpt": "Global Healthcare AI Market Research Report 2023 begins with ... Google Deepmind Health, IBM Watson Health, Imagen Technologies, Microsoft, Intel, Medalogix, Lumiata, NextHealth Technologies ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34302987/healthcare-ai-market-2023-value-with-status-and-global-analysis-apple-ge-healthcare-google-deepmind",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34302987/healthcare-ai-market-2023-value-with-status-and-global-analysis-apple-ge-healthcare-google-deepmind",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34302987",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34302987",
+      "publishedDateTime": "2023-09-06T23:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare",
+        "Google AI"
       ]
     },
     {
@@ -1405,49 +1450,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-genai-is-making-data-science-more-accessible-dataiku-says.md",
-      "title": "GenAI Is Making Data Science More Accessible, Dataiku Says",
-      "excerpt": "Large language models and generative AI are being adopted for all kinds of new and interesting use cases, which we explore daily in these pages. One of",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2023/08/14/genai-is-making-data-science-more-accessible-dataiku-says/",
-      "originalUrl": "https://www.datanami.com/2023/08/14/genai-is-making-data-science-more-accessible-dataiku-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.datanami.com/wp-content/uploads/2023/08/maze_shutterstock_patpitchaya.jpg",
-          "width": 1000,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-14T15:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

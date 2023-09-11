@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/07/the-power-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/07/the-power-of-causal-models-in-moving-from-weak-to-strong-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://images.wsj.net/im-848428/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Meta is building AI model to rival OpenAI's most powerful system"
+    excerpt: "Related: Nvidia drops new AI chip expected to cut development costs The sources ... Microsoft is a primary backer of OpenAI and also collaborated with Meta to help make Llama 2 available on Azure, its cloud-computing platform. However, the sources said ..."
+    publishedDateTime: 2023-09-11T08:50:00Z
+    webUrl: "https://cointelegraph.com/news/meta-building-ai-model-rivals-open-ai"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 41
+    images:
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDkvOTE3ZjliNGYtMDE1NC00MjlkLWE0YjUtZGRhNmY0NTgxMzA3LmpwZw==.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Meta is developing a much more powerful AI"
     excerpt: "Meta is reportedly working on a new AI system intended to be as powerful as the most advanced model from OpenAI."

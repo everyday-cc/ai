@@ -135,22 +135,6 @@ related:
         width: 1718
         height: 892
         isCached: true
-  - title: "Microsoft-Backed Startup D-Matrix To Compete With Nvidia In Bid For AI Dominance"
-    excerpt: "The chips are down in the artificial intelligence (AI) market, and Nvidia Corporation’s (NASDAQ: NVDA) stronghold appears unshakeable."
-    publishedDateTime: 2023-09-06T16:30:00Z
-    webUrl: "https://www.benzinga.com/news/large-cap/23/09/34282592/microsoft-backed-startup-d-matrix-to-compete-with-nvidia-in-bid-for-ai-dominance"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34282592"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34282592"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 71
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/09/06/d-matrix_logo.jpg?width=1200&height=800&fit=crop"
-        width: 941
-        height: 627
-        isCached: true
   - title: "China, North Korea developing new strategies and targets for AI-powered operations, Microsoft warns"
     excerpt: "Tech giant Microsoft is warning that artificial intelligence-powered threats to the U.S. public are being developed and rolled out by China and North Korea."
     publishedDateTime: 2023-09-07T15:48:00Z

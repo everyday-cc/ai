@@ -78,6 +78,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How generative AI changes IT operations"
+    excerpt: "Generative AI can provide valuable analysis and insights to IT operators. But what about data security, reliability, workflow integration, and the conditions needed for successful deployment?"
+    publishedDateTime: 2023-09-11T09:34:00Z
+    webUrl: "https://www.infoworld.com/article/3706370/how-generative-ai-changes-it-operations.html"
+    ampWebUrl: "https://www.infoworld.com/article/3706370/how-generative-ai-changes-it-operations.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706370/how-generative-ai-changes-it-operations.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
+    images:
+      - url: "https://images.idgesg.net/images/article/2018/02/artificial_intelligence_ai_virtual_assistant_machine_learning_autonomous_automation_virtual_reality_vr_digital_mind_brain_thinkstock_892854798-100749920-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Move over AI, quantum computing will be the most powerful and worrying technology"
     excerpt: "While short-term projections about quantum computing might be overhyped, the long-term outcomes are likely to be game-changing."
     publishedDateTime: 2023-09-10T23:07:00Z
@@ -91,6 +107,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/08/annevb_quantum_sensors_and_robotics._Colorful_futuristic_tech_81265ed8-1888-44a7-b3de-91845c435505.png?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "What to know about Congress’s inaugural AI meeting"
+    excerpt: "We’re going to be hearing a lot about various plans and positions on AI regulation in the coming weeks."
+    publishedDateTime: 2023-09-11T08:08:00Z
+    webUrl: "https://www.technologyreview.com/2023/09/11/1079244/what-to-know-congress-ai-insight-forum-meeting/"
+    ampWebUrl: "https://www.technologyreview.com/2023/09/11/1079244/what-to-know-congress-ai-insight-forum-meeting/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/11/1079244/what-to-know-congress-ai-insight-forum-meeting/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/09/GettyImages-1651323207.jpeg?w=3000"
+        width: 3000
+        height: 1687
         isCached: true
   - title: "Five Things: Responsible artificial intelligence and the future of business"
     excerpt: "She recently spoke at the Business Ethics Allia nce luncheon in Omaha about artificial intelligence and the future of business. Here are a few key takeaways from the event. We’ll share event highlights, founder profiles and feature stories digging into ..."

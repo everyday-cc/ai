@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ai-chip-wars-nvidi
 webUrl: "https://markets.businessinsider.com/news/stocks/ai-chip-wars-nvidia-may-be-winning-but-dont-sleep-on-amd-stock-1032615709"
 type: article
 quality: 64
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -36,6 +36,20 @@ related:
       - url: "https://barchart-news-media-prod.aws.barchart.com/EXCLSV/f247ddb2d1b5881d07e0f448cddfcdd5/zlpnpfkrvfnub2io.png"
         width: 883
         height: 637
+        isCached: true
+  - title: "Intel benefits from Nvidia AI chip shortage"
+    excerpt: "Customers will use any old chip The shortage of Nvidia’s GPUs has customers searching for scrap heap to kickstart makeshift AI projects, and Intel is benefitting from it. During a meeting with financial analysts at the Citi Global Technology Conference this week,"
+    publishedDateTime: 2023-09-11T09:56:00Z
+    webUrl: "https://www.fudzilla.com/news/57569-intel-benefits-from-nvidia-ai-chip-shortage"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/00ca31a2a16d4c95f1cc4d5619f98a35_L.jpg"
+        width: 620
+        height: 436
         isCached: true
   - title: "3 Chip Stocks That Should Be on Every Investor’s Radar"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The semiconductor sector has been on a tear in 2023, but while giants like"

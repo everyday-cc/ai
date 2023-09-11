@@ -7,7 +7,7 @@ originalUrl: "https://www.geeky-gadgets.com/ibm-watsonx/"
 webUrl: "https://www.geeky-gadgets.com/ibm-watsonx/"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -17,61 +17,6 @@ provider:
 topics:
   - IBM AI
   - AI
-
-related:
-  - title: "Tennis, football, and IBM watsonx"
-    excerpt: "The process of introducing new features to the US Open digital experience has never been smoother than it was this year, thanks to watsonx.\nThe post Tennis, football, and IBM watsonx appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-09-06T16:24:03Z
-    webUrl: "https://www.ibm.com/blog/tennis-football-and-ibm-watsonx/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 97
-  - title: "Healthcare AI Market 2023 Value with Status and Global Analysis -Apple, GE Healthcare, Google Deepmind Health, IBM Watson Health"
-    excerpt: "Global Healthcare AI Market Research Report 2023 begins with ... Google Deepmind Health, IBM Watson Health, Imagen Technologies, Microsoft, Intel, Medalogix, Lumiata, NextHealth Technologies ..."
-    publishedDateTime: 2023-09-07T06:07:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/34302987/healthcare-ai-market-2023-value-with-status-and-global-analysis-apple-ge-healthcare-google-deepmind"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34302987"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34302987"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 79
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "IBM unveils new generative AI enhancements for watsonx"
-    excerpt: "IBM has announced a host of new enhancements for its watsonx platform, which include new generative AI foundation models and new capabilities. Designed to help enterprises scale and accelerate the impact of artificial intelligence,"
-    publishedDateTime: 2023-09-08T16:02:00Z
-    webUrl: "https://www.techcentral.ie/ibm-unveils-new-generative-ai-enhancements-for-watsonx/"
-    type: article
-    provider:
-      name: Mozilla
-      domain: techcentral.ie
-    quality: 54
-    images:
-      - url: "https://www.techcentral.ie/wp-content/uploads/2022/01/IBM_21.jpg"
-        width: 620
-        height: 349
-        isCached: true
-  - title: "IBM Announces Advanced Generative AI Models and Upgrades for watsonx Platform"
-    excerpt: "IBM today announced plans for new generative AI foundation models and enhancements coming to watsonx – its AI and data"
-    publishedDateTime: 2023-09-07T16:32:00Z
-    webUrl: "https://www.datanami.com/this-just-in/ibm-announces-advanced-generative-ai-models-and-upgrades-for-watsonx-platform/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 51
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/08/watsonx-300x235.png"
-        width: 300
-        height: 235
-        isCached: true
 
 secured: "Zamhjitv69ffNnz2nQYb35inLNzaZjrRwJ5e6bFYD4Z3x1/FOao5BYR12bdF8oUN3O7PAdx4qtUPC9kijjLHO21EH14q74hbC8aUBq3Q6QFBKT1gYY4uqZdXsXt2QndeUinjZ8U2JqDux3kbSUbrjizAQHiKNQM/WWysh1KMF2veALP4pL11w5hZCYeOVsGpgdesvX+ecCdmD0sNAkJQWAbRiAg/JcyVdUS5VVyhGj7jcmc2lVkGif70h9sHBgBfgLH7In80+7YI2Xm1KEIL7uwuHKq0FzMvFSWwoXhOZczRDVerHd7PP8jg6mqE8T2H91odfSyH+BuB6SUT5pVp6DYtSXz4v6W1af9MBsaUZkU=;uTYBqMvOZvoBUbrxaxVL2w=="
 ---

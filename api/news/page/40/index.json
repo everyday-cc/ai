@@ -2,6 +2,151 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2023-08-11-how-can-enterprises-fortify-digital-identity-amidst-rising-ai-threats.md",
+      "title": "How Can Enterprises Fortify Digital Identity Amidst Rising AI Threats?",
+      "excerpt": "Employers and users are the last line of defense as their actions and security hygiene affect overall security posture. They should be continually trained about various traditional and emerging threats, such as AI-based spear phishing and social engineering, especially as AI-written spear phishing emails are harder to spot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/how-can-enterprises-fortify-digital-identity-amidst-rising-ai-threats/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/how-can-enterprises-fortify-digital-identity-amidst-rising-ai-threats/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/642445004586b4330e81b689/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/how-can-enterprises-fortify-digital-identity-amidst-rising-ai-threats/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/11/how-can-enterprises-fortify-digital-identity-amidst-rising-ai-threats/amp/",
+      "publishedDateTime": "2023-08-11T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-11-ibm-set-to-deliver-mainframe-ai-services-support-x.md",
+      "title": "IBM set to deliver mainframe AI services, support x",
+      "excerpt": "Developer support for IBM Wazi, the cloud-native development environment. A Wazi Sandbox lets developers build and test z/OS application components in a virtualized, containerized, self-service, personal sandbox running on Red Hat OpenShift that runs on x86 hardware.",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/3704491/ibm-set-to-deliver-mainframe-ai-services-support-x.html",
+      "originalUrl": "https://www.networkworld.com/article/3704491/ibm-set-to-deliver-mainframe-ai-services-support-x.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/24/09/thinkstockphotos-520137237-100610459-large-100922664-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 1031,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/3704491/ibm-set-to-deliver-mainframe-ai-services-support-x.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3704491/ibm-set-to-deliver-mainframe-ai-services-support-x.amp.html",
+      "publishedDateTime": "2023-08-11T04:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-11-california-firefighters-use-ai-to-spot-wildfires.md",
+      "title": "California firefighters use AI to spot wildfires",
+      "excerpt": "California firefighters are using artificial intelligence to help spot wildfires, feeding video from more than 1,000 cameras strategically placed across the state into a machine that alerts first responders when to mobilize. Alex Cohen has more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/idsA$n?now=true",
+      "originalUrl": "https://www.reuters.com/video/watch/idsA$n?now=true",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ajo.prod.reuters.tv/api/v2/img/64d611b0e4b068bf74a564d1-1691750835338?location=LANDSCAPE",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-11T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-11-generative-ai-is-not-a-tool-its-an-employee.md",
       "title": "Generative AI Is Not A Tool; It's An Employee",
       "excerpt": "By taking the time to properly onboard and manage generative AI, you enable it to become a seamless member of your marketing team.",
@@ -1025,145 +1170,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-real-estate-computer-vision-leader-restbai-named-2023-innovation-award-winner-for-technology.md",
-      "title": "Real estate computer vision leader Restb.ai named 2023 Innovation Award Winner for Technology",
-      "excerpt": "LAS VEGAS, Aug. 10, 2023 (GLOBE NEWSWIRE) -- Restb.ai, a global leader in computer vision and artificial intelligence (AI) solutions for the real estate industry, was named the 2023 Inman Innovator Award Winner for Top Technology, besting hundreds of nominations of leading technology firms.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/08/10/9862987.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/08/10/9862987.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ml.globenewswire.com/Resource/Download/680d4129-1a79-4cf7-a00c-970eceb3e11b",
-          "width": 2701,
-          "height": 1618,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-10T12:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-3-robotics-stocks-you-better-be-buying-on-each-and-every-dip.md",
-      "title": "3 Robotics Stocks You Better Be Buying on Each and Every Dip",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The global robotics industry is taking off, and investors are keeping a close",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-you-better-be-buying-on-each-and-every-dip-1032541918",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-you-better-be-buying-on-each-and-every-dip-1032541918",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-10T12:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-rasgo-launches-rasgo-ai-a-generative-ai-agent-for-enterprise-data-warehouse-analytics.md",
-      "title": "Rasgo launches Rasgo AI, a generative AI agent for enterprise data warehouse analytics",
-      "excerpt": "Rasgo said its AI employs GPT for “intelligent reasoning,” which enables it to think and act like a business analyst for data warehouses.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/enterprise-analytics/rasgo-launches-rasgo-ai-generative-ai-agent-enterprise-data-warehouse-analytics/",
-      "originalUrl": "https://venturebeat.com/enterprise-analytics/rasgo-launches-rasgo-ai-generative-ai-agent-enterprise-data-warehouse-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/08/rasgo.png?w=1200&strip=all",
-          "width": 1032,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-10T11:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 579
         isCached: true
-  - title: "D-Matrix raises $110M to commercialize next-gen generative AI-processing chips"
-    excerpt: "D-Matrix Corp., a startup that designs and builds high-efficiency silicon and generative artificial intelligence compute platforms for data centers, today announced it raised $110 million in an oversubscribed Series B funding round led by Singapore-based global investment firm Temasek."
-    publishedDateTime: 2023-09-06T16:34:00Z
-    webUrl: "https://siliconangle.com/2023/09/06/d-matrix-raises-110m-commercialize-next-gen-generative-ai-processing-chips/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 50
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/dmatrix-corsair-screenshot.png"
-        width: 1133
-        height: 755
-        isCached: true
 
 secured: "Oa3rbjtV/tCW4xIbO7zIMwi8pWZa9u2QvDdrGKjaYMSee/Pt1aiJLRsimw3hPB30IqpQUjYCoIjcSQQApwy2cEzQbUd2xwsfSjY3GNEWFCHchJfdwJKYTyjI5/93xoCd7EsRmJWKUD6ksbpsoMgqfnHYI5USx6UjueLSJsplKDLpycRiZD6iecliPSfvnjUySHJUknhtf1qbYvYk1AgHEr1zng66f0RwB36Hhq0sE17wXnEE83dl43mwwyIdK3GZMP122vvix9he66d55RtCJl/RBOAaFXKYvIPIdhyiY+FBlHCluB5rQEJxbLwWXIl5jS8dfBp3ePvgaxptu+Aqr4tGnaa1LSA7IZDgYG8z/ZQTN/vlxE6cWThvpuwtF2jR5qdPrDYaSeMMq3E7B39KstYqf9EUaa9dae5AbHUewV/jTeh8l+GCh+ULoxJq+cUFURXggCaScAbnM0stekeby3P6zLeV/ryGlPikLJkoxiALA59uPc1ZpJUZ1OHQn7TUIl4mk6+4pVvD4jtuciN9VQ==;dwHmO9uY5wh+tb1uLnUjpA=="
 ---

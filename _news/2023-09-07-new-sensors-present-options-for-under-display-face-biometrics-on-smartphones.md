@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "ID R&D introduces voice biometrics for securing access to ChatGPT"
-    excerpt: "While ChatGPT is most well-known for its capabilities in generating written content, it can also create voice-enabled content."
-    publishedDateTime: 2023-09-06T16:48:00Z
-    webUrl: "https://www.biometricupdate.com/202309/id-rd-introduces-voice-biometrics-for-securing-access-to-chatgpt"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/18164532/laptop-video-call-scaled.jpg"
-        width: 2048
-        height: 1367
-        isCached: true
   - title: "NIST splits FRVT into face biometrics and facial analysis evaluations"
     excerpt: "The FRVT will be replaced with the Face Recognition Technology Evaluation (FRTE) and the Face Analysis Technology Evaluation (FATE)."
     publishedDateTime: 2023-09-08T16:17:00Z

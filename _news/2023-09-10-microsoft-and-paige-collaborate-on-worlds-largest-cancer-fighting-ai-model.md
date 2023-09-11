@@ -127,22 +127,6 @@ related:
         width: 1718
         height: 892
         isCached: true
-  - title: "Microsoft-Backed Startup D-Matrix To Compete With Nvidia In Bid For AI Dominance"
-    excerpt: "The chips are down in the artificial intelligence (AI) market, and Nvidia Corporation’s (NASDAQ: NVDA) stronghold appears unshakeable."
-    publishedDateTime: 2023-09-06T16:30:00Z
-    webUrl: "https://www.benzinga.com/news/large-cap/23/09/34282592/microsoft-backed-startup-d-matrix-to-compete-with-nvidia-in-bid-for-ai-dominance"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34282592"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34282592"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 71
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/09/06/d-matrix_logo.jpg?width=1200&height=800&fit=crop"
-        width: 941
-        height: 627
-        isCached: true
   - title: "Microsoft joins hands with Paige to build world’s largest AI model to fight cancer"
     excerpt: "Tech giant Microsoft has joined hands with Paige, a digital pathology provider, to build world’s largest image-based artificial intelligence (AI) models that can fight against cancer. The new AI model is orders-of-magnitude larger than any other image-based AI model existing today, configured with billions of parameters, the companies said."
     publishedDateTime: 2023-09-11T06:34:00Z

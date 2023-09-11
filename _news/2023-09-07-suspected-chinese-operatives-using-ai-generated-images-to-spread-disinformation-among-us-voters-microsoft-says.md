@@ -130,20 +130,6 @@ related:
         width: 312
         height: 207
         isCached: true
-  - title: "Generative AI Compute Platform D-Matrix Raises $110M Series B"
-    excerpt: "Generative AI chip designer D-Matrix was able to close a $110 million Series B in a year that has not seen a lot of money for U.S.-based semiconductor startups."
-    publishedDateTime: 2023-09-06T17:02:00Z
-    webUrl: "https://news.crunchbase.com/semiconductors-and-5g/generative-ai-compute-platform-d-matrix-temasek/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 39
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/computer-chip.jpg"
-        width: 900
-        height: 506
-        isCached: true
   - title: "Chinese social media accounts swaying US voters using AI: Microsoft"
     excerpt: "In a new research report, Microsoft said the social media accounts were part of a suspected Chinese information operation, according to Reuters."
     publishedDateTime: 2023-09-07T18:45:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://vator.tv/news/2023-09-06-mass-general-brigham-and-ge-healt
 webUrl: "https://vator.tv/news/2023-09-06-mass-general-brigham-and-ge-healthcare-partner-on-ai-algorithm"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 320
     height: 240
     isCached: true
-
-related:
-  - title: "GE HealthCare and Mass General Brigham Collaborate on an AI Algorithm to Predict Missed Care Opportunities"
-    excerpt: "GE HealthCare and Mass General Brigham announced, as part of its initial collaboration, the co-development of an artificial intelligence (AI) algorith"
-    publishedDateTime: 2023-09-06T16:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230906773062/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 16
 
 secured: "X/S3M72sPaOLjO0Ay7w4+5p+uEAOf+/XJr5AUuKaXKbPTwmHNJLGROiqNJ87sio2uwlQL9tDUjCWoVCdxUpXgyhsJhBXflzRipMRo72HJcVG2xBv5vytLcbJMH3gGuqL8VOOOf08GnQUSo1o2TYJ1A6dTaWfm1rkU83Th2wbZ3hKLFGhk+nT/DsJMVZEuhGIfmAP3y0PS3ouLyVPHeLN4SkQzgosTgabm2/QLSMBz7Wj6c4nO6qer+KY5UUHWTuiq1c3tv0sg24tSlEWsLA6uy0ozwaNOVmW7p8e648Fme8DuJDDnmqJ+xJZUMiCVHxS7NOG7czQ2YEuzsx7HuS11uYA9lUOAnSVq5j2x8HuRG11ISkT4je8mhGUvQ3WAy99y6HKNnH5tPrtT8EdD1eq+pZ44DpzwY1Yi6CAJhc9nX/yzOTl12ufCiSH1FhMf49eGxLBswPN6qp7hK64m/p8LqnNj3Rq6bXmQqklpUOiH4n4eqVZekc5h9jk65ezts5zQBauMvcNg8kfcl3+BcUsUw==;5cERAEFMb3jTnNXx0GwxvA=="
 ---

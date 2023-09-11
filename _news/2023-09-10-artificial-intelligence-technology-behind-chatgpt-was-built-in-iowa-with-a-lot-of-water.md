@@ -1,27 +1,28 @@
 ---
 category: news
 title: "Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water"
-excerpt: "As they race to capitalize on a craze for generative AI, leading tech developers including Microsoft, OpenAI and Google have acknowledged that growing demand for their AI tools carries hefty"
-publishedDateTime: 2023-09-09T20:39:00Z
-originalUrl: "https://tulsaworld.com/ap/business/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water/article_3379d8ad-289b-59cd-af57-adfc57af0969.html"
-webUrl: "https://tulsaworld.com/ap/business/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water/article_3379d8ad-289b-59cd-af57-adfc57af0969.html"
+excerpt: "As they race to capitalize on a craze for generative AI, leading tech developers including Microsoft, OpenAI and Google have acknowledged that growing demand for their AI tools carries hefty costs, from expensive semiconductors to an increase in water"
+publishedDateTime: 2023-09-09T21:02:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/artificial-intelligence-technology-chatgpt-built-iowa-lot-water-103052515"
+webUrl: "https://abcnews.go.com/Technology/wireStory/artificial-intelligence-technology-chatgpt-built-iowa-lot-water-103052515"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/artificial-intelligence-technology-chatgpt-built-iowa-lot-water-103052515"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/artificial-intelligence-technology-chatgpt-built-iowa-lot-water-103052515"
 type: article
-quality: 30
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: Tulsa World
-  domain: tulsaworld.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/6/5e/65eddd27-5f7e-51af-a65c-5d8ff9c1f88d/64fc7131358f7.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+    width: 834
+    height: 308
     isCached: true
 
 related:
@@ -295,17 +296,20 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water"
-    excerpt: "As they race to capitalize on a craze for generative AI, leading tech developers including Microsoft, OpenAI and Google have acknowledged that growing demand for their AI tools carries hefty costs, from expensive semiconductors to an increase in water consumption."
-    publishedDateTime: 2023-09-09T13:15:00Z
-    webUrl: "https://www.seattletimes.com/business/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water/"
-    ampWebUrl: "https://www.seattletimes.com/business/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water/?amp=1"
+  - title: "Artificial intelligence technology behind ChatGPT was built in Iowa -- with a lot of water"
+    excerpt: "As they race to capitalize on a craze for generative AI, leading tech developers including Microsoft, OpenAI and Google have acknowledged that growing demand for their AI tools carries hefty"
+    publishedDateTime: 2023-09-09T13:14:00Z
+    webUrl: "https://tulsaworld.com/ap/business/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa----with-a-lot/article_3379d8ad-289b-59cd-af57-adfc57af0969.html"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 28
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 29
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/6/5e/65eddd27-5f7e-51af-a65c-5d8ff9c1f88d/64fc7131358f7.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Meta Platforms reportedly building open-source generative AI system to rival OpenAI’s ChatGPT"
     excerpt: "Facebook and Instagram parent Meta Platforms Inc. is looking to rival OpenAI LP in the generative artificial intelligence landscape with an alternative, but open-source model that’s likely to be as powerful as GPT-4."
     publishedDateTime: 2023-09-11T00:20:00Z
@@ -362,6 +366,6 @@ related:
       domain: scientificamerican.com
     quality: 4
 
-secured: "Hfpz8gTFWUmhYxKC4p8TjwgcMzr1aaIIivhKsSFPKA77FNNJHN0k2Liz8mZwWPoDXwC4bDfuFK8KHArR0FQAaPOMo9Sv1AnBCeY3oOWsDY3He6ZyMHgY6WwcHBe9VufxWrt//0Qle0tYcGZTUM+WNvqpV4ssrutnXwPWMAimmU7JzUDNvwZwG+EmSWHE8yAsSbtz8PQBotWX2hEoozodAhl3DCX20saUK4w/bzR21ovGuaYVzyEfgd6uv5caw3QmB0iqcgl6SFkugnnzzkB3qwkZkxUkvoGzELDrIQ5Q4Y+btKTmFVd1rjI5igHc0ngyWUNdHkdiccHJL5p1LmuFU7CWYkVvO8YDg6UVDwgC+dOrMDheA4E29ViyS6F8QxUPfX+zicjCLllxBywuFUFJGtflYVoLJks7IOe2T1osSk71oNOfLRmLsFAVA2F3CYlxWzUTALIXGF8mOZ4K5WsNUw8W33cg5SKtSRd/hG8SSAsdv1t0A+I9mP258sPY+cEDyV7tcnXoKscEIZUs5OSQzQ==;34uSXajrCK4c+pHrh1E+7A=="
+secured: "poFbOEKhGevx3aavL/CINQUY6uNSAdoXCje9WTCvVD9Ez7PJ7SSvLQSCJnFIR1quyLNdq/MGFOa1KgUvYsIameE3si2qRYdNJXW0FNvsikrxGrwTDRIuMGdcYTy4NBEGHvncPFdr4p6R3dNJ3c5JXfM3EQ/AU4A3rW+ZtIbSIUaqI+7lw1TJn69BCPcYdJGe6g6Uekwd7bewh+nEqjiMDigL/6EuTSYVgBJ0WoGhYdMH6P5j0souZOVAdk/JKcOqUY49WguEB5sHPe9HQuLGoue0WvkMd94fvuhpAk4uTKKER5I+w/qq3+wtLZ5ZFyU22qWLjHzWdVAHHlly2HXPAxUGoxoWfZrneQzkdlm1FiA=;0HOp7KDwf6Q2mQjpTh/g6Q=="
 ---
 

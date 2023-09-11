@@ -1,23 +1,28 @@
 ---
 category: news
-title: "Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water"
-excerpt: "As they race to capitalize on a craze for generative AI, leading tech developers including Microsoft, OpenAI and Google have acknowledged that growing demand for their AI tools carries hefty costs, from expensive semiconductors to an increase in water consumption."
-publishedDateTime: 2023-09-09T13:15:00Z
-originalUrl: "https://www.seattletimes.com/business/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water/"
-webUrl: "https://www.seattletimes.com/business/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water/"
-ampWebUrl: "https://www.seattletimes.com/business/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water/?amp=1"
+title: "Artificial intelligence technology behind ChatGPT was built in Iowa -- with a lot of water"
+excerpt: "As they race to capitalize on a craze for generative AI, leading tech developers including Microsoft, OpenAI and Google have acknowledged that growing demand for their AI tools carries hefty"
+publishedDateTime: 2023-09-09T13:14:00Z
+originalUrl: "https://tulsaworld.com/ap/business/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa----with-a-lot/article_3379d8ad-289b-59cd-af57-adfc57af0969.html"
+webUrl: "https://tulsaworld.com/ap/business/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa----with-a-lot/article_3379d8ad-289b-59cd-af57-adfc57af0969.html"
 type: article
-quality: 28
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: Tulsa World
+  domain: tulsaworld.com
 
 topics:
+  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/6/5e/65eddd27-5f7e-51af-a65c-5d8ff9c1f88d/64fc7131358f7.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
@@ -160,6 +165,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water"
+    excerpt: "As they race to capitalize on a craze for generative AI, leading tech developers including Microsoft, OpenAI and Google have acknowledged that growing demand for their AI tools carries hefty costs, from expensive semiconductors to an increase in water"
+    publishedDateTime: 2023-09-09T21:02:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/artificial-intelligence-technology-chatgpt-built-iowa-lot-water-103052515"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/artificial-intelligence-technology-chatgpt-built-iowa-lot-water-103052515"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/artificial-intelligence-technology-chatgpt-built-iowa-lot-water-103052515"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 48
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "Morgan Stanley to Launch AI Chatbot to Woo Wealthy"
     excerpt: "JPMorgan Chase named Teresa Heitsenrether its chief data and analytics officer in June to lead AI adoption across the largest U.S. lender. Rival Bank of America's virtual assistant, Erica, has had more than a billion interactions with clients since it was introduced in 2018."
     publishedDateTime: 2023-09-07T10:09:00Z
@@ -290,20 +311,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water"
-    excerpt: "As they race to capitalize on a craze for generative AI, leading tech developers including Microsoft, OpenAI and Google have acknowledged that growing demand for their AI tools carries hefty"
-    publishedDateTime: 2023-09-09T20:39:00Z
-    webUrl: "https://tulsaworld.com/ap/business/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water/article_3379d8ad-289b-59cd-af57-adfc57af0969.html"
-    type: article
-    provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 30
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/6/5e/65eddd27-5f7e-51af-a65c-5d8ff9c1f88d/64fc7131358f7.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Meta Platforms reportedly building open-source generative AI system to rival OpenAI’s ChatGPT"
     excerpt: "Facebook and Instagram parent Meta Platforms Inc. is looking to rival OpenAI LP in the generative artificial intelligence landscape with an alternative, but open-source model that’s likely to be as powerful as GPT-4."
     publishedDateTime: 2023-09-11T00:20:00Z
@@ -360,6 +367,6 @@ related:
       domain: scientificamerican.com
     quality: 4
 
-secured: "sHull6ycldP+2C51JRGfPuU4yQHJgdwdDH2qoKwD3zJm7QY6Sf66cMM8Er/zIkRRAPIX127/p7hMFr65zT/m7wPWAW81E4HNWcRj8uoSBe5Za+7vlKXODQ/tlub/oKP0rav1Rtod+9Rbz6eQWK6UFkh4RHavglk4mIDOdYQEzu27B6ShncZaX520E02vNHycVVc9Oi47nFc3Bqq9wnM1EUA1Tgkc4hYGK6P/QbygLPFPCT9MGa9nLmQtfiNmErsFyrsk7uFuGTgeLrjv0boVl7LEV+3No7MtZxzjyZSfkSP2ugFII9KJ939RlWC80BjptzRlAulj9M2txjwp/mLLL5Wvj6hXp6gbYbDe/gmU/JrbHt3VEgE1g07It0LqdjUP1eL6RBZQnoojDgmudraxzaiVTtygRfPrJtIHBkcDovnFci27gRY5ApexPaMKyWHOwMOLZzlcS4TTEK15BVFP9d31Py2hzI3yfo0UHjC5QdIW9Tx7/Y6nEdJ3D/fGaV1UNX+KtQUYq7piqeDiplB9og==;zNWzAsQEwLLvcROteWBnWA=="
+secured: "VVQiMvb2zZ61n4RKnn+4KYELKgiuh+BxNHYS2f1uwctpanbSVRlgh4FRS2TX5K3g7Etq9OV5rXFmgkVH8C5KW3oi8rPNR7JBeD5R6rpm1ZC9aqod6wORKCqpU8qnl/xUJrXSDmW04hJGzoWALaRyKmHBbiPLwbsaE94w/oJQKAJKiuWl4IgZe0RepUDrL/4fA23mEJcy8yqarrPvJ7YI1/Nq0V8Qh4L3apT0gCH02YZvQrdcpKl7Y0tDJZq6VrVOIBhNoTM+QaW/0glGNi7iaO7ZG7lFnKzPSEe02CuqFxEcns0pO8GwaQoRKWKf3I/RVWfgFOHyu6nW1f+3gbXaOt5aQSAkfL2Kc1vFpOqmvk4=;KSQIV8jQj6TEKNjM8m/1bg=="
 ---
 

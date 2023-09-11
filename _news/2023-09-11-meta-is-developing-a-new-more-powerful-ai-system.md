@@ -1,17 +1,19 @@
 ---
 category: news
 title: "Meta is developing a new, more powerful AI system"
-excerpt: "Llama 2 is Meta's open source AI language model launched in July, and distributed by Microsoft's cloud Azure services to compete with OpenAI's ChatGPT and Google's Bard. Meta Platforms is working on a new artificial-intelligence system intended to be as ..."
-publishedDateTime: 2023-09-11T05:32:00Z
-originalUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/meta-is-developing-a-new-more-powerful-ai-system/103567113"
-webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/meta-is-developing-a-new-more-powerful-ai-system/103567113"
+excerpt: "Meta: The Facebook parent is aiming for its new AI model to be ready next year, the Journal said, adding it will be several times more powerful than its commercial version dubbed Llama 2."
+publishedDateTime: 2023-09-11T07:39:00Z
+originalUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/meta-is-developing-a-new-more-powerful-ai-system/103569344"
+webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/meta-is-developing-a-new-more-powerful-ai-system/103569344"
+ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/meta-is-developing-a-new-more-powerful-ai-system/103569344"
+cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/meta-is-developing-a-new-more-powerful-ai-system/103569344"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: cio.economictimes.indiatimes
+  name: brandequity.economictimes.indiatimes
   domain: indiatimes.com
 
 topics:
@@ -19,7 +21,7 @@ topics:
   - AI
 
 images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-103567113,imgsize-7254,width-1200,height=765,overlay-etcio/artificial-intelligence/meta-is-developing-a-new-more-powerful-ai-system.jpg"
+  - url: "https://etimg.etb2bimg.com/thumb/msid-103569344,imgsize-7254,width-1200,height=765,overlay-etbrandequity/digital/meta-is-developing-a-new-more-powerful-ai-system.jpg"
     width: 1200
     height: 765
     isCached: true
@@ -116,6 +118,6 @@ related:
         height: 720
         isCached: true
 
-secured: "Ypm0Z9NSDsaWfhL8IYztWgtJuFQ7sc1vjoIpNeNKHVli+7iqXMfN1Mui6PrfAX5yUc8zwl1oBnrnx1I2BPqCJCK4iftRLTxsuUX18LZ4w5HPNhHHM14azoZOF2AmUszkHpO69Cm8sIMF0357Z8gSXHhlosuUpb8W+5ojbaPSkEOZGD7lAPSW5NM93xd8//MACh0tKjhkl0vgvPr2DSg5KRuu88FHfChtzTgKtUIF7Qg5mGmbOvaogR3n9y5Ipo8G7HqqUth4tl+PorM4nuaypy3SExSTf+W5qCYdMLYDepPClXcHCuk9lBN0l2B+rbL0qfh5OSb+m4M3aRhLYD8AxFc5OYOI5G2uPpjQ/bYMg46qU+mB7Rx9CXaKPmquscBCbu5F6NUqO+pjNvdZaNpupSk652EdecDMuT15Q5dM34Ws0SphwRI37zNHfCHoQoRs0yXixzNaITgH6OM2bxlqy00rZe03ptuZtYUyfE8ofhJWkBG4vV4CDXh3LPJ9zAi1TB4pCj8x0cX0ZRjMwbgngw==;ASwcW/MWo6FHZEKG43PgcA=="
+secured: "4fksigOveMtw8bTQ4IizkJOl4di4knkNmpCx3pNvgj5UwNjeDQ0dYgrnjGEPI4YiDhTta583uKAn6FuUUSrN6Pp0pCPdWE31Bwb4QMjZEW1KuZEtG08kx1SrKNhLkODyPmaMNK6/2elIeJRlvdjxbZmZP/1jO51Qi6JGvT76kZMNo0yDojFDDzeDZ4VRkx9ETVXU9Rqrj2Y4ycroHMjdljUi+B8PrGuoF5vTBXL2CNInJzgpju41nwG9yb41fM3cSpINahJTXB9nea8cLV4kyK1R2WQxjp2kTCWcQ+6wf/ipFuxEq0G19uuEcZdXW1rKsR4DgmDV63S0HEc8srctKwJ9umVqPWSgN4zjHOBGnRk=;FOfDUmUT0Ao+Q5/hOocFpQ=="
 ---
 

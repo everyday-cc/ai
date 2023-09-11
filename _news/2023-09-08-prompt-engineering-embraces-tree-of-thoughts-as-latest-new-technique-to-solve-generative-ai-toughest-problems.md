@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/09/08/prompt-engineerin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/09/08/prompt-engineering-embraces-tree-of-thoughts-as-latest-new-technique-to-solve-generative-ai-toughest-problems/amp/"
 type: article
 quality: 70
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "This State-Of-The-Art Directional-Stimulus Prompt Engineering Technique For Generative AI Earns Bigtime Payoffs Via Hints"
+    excerpt: "A technique for prompt engineering known as directional stimulus prompting makes extensive use of hints to improve your generative AI results. Here's the scoop."
+    publishedDateTime: 2023-09-11T08:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/09/11/this-state-of-the-art-directional-stimulus-prompt-engineering-technique-for-generative-ai-earns-bigtime-payoffs-via-hints/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/09/11/this-state-of-the-art-directional-stimulus-prompt-engineering-technique-for-generative-ai-earns-bigtime-payoffs-via-hints/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/09/11/this-state-of-the-art-directional-stimulus-prompt-engineering-technique-for-generative-ai-earns-bigtime-payoffs-via-hints/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64fe9b122ed65d5b4173b638/0x0.jpg?format=jpg&crop=3882,2183,x0,y0,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "jRXdSELf79W4PyKLTUZXhZWhyTAIaH+6+0OmJs1vNRDluBlqIu6H4NwWKwlV8DEdp+4SIJ9qmGn7p3sWPVdScLGXQyxCGtQpw/De2riiSvWsUrIn0PrM0PtAdM5vlkxBlT/bJhg53OIy+CdfBhl7RPFtGiN6zcfKrbvrb5rpbuG4xITyxSUJeqgBP3lrbZ7/RjJbTVNaHHuccnpf89RZre79u5tuSqxT1cAf1pzUHdIBOoTtf7yw9kA7+j/0tzdYJAEWC/sP0377TmqRnO4a9crL1IeBBW3SplY9CJbbFNhhjVv7GAtYJXJYMA/QLY1jsHeOu2ch0GlJ9nJJBwMXILFnN6B3sV744eiTrI4XBi1Vj59GCj9la+JzF1V1dY8EnZkmeY/E534GHFw49n6XOtyH0rIARQhe5aRrkbo39wA6qxsAnxy/N8LixWrQ3O8+1E2KpQnpbYdW1FMR4bfYGXLvPo3f1Kj3ESTtMcTtEw6TdfJ9XJf7N2B0YWMYCEx48f5coJzr6Ky6+Qs3ju7swA==;s2n3ohx2lHIuR0Fch6W/oQ=="
 ---

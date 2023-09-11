@@ -162,6 +162,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water"
+    excerpt: "As they race to capitalize on a craze for generative AI, leading tech developers including Microsoft, OpenAI and Google have acknowledged that growing demand for their AI tools carries hefty costs, from expensive semiconductors to an increase in water"
+    publishedDateTime: 2023-09-09T21:02:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/artificial-intelligence-technology-chatgpt-built-iowa-lot-water-103052515"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/artificial-intelligence-technology-chatgpt-built-iowa-lot-water-103052515"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/artificial-intelligence-technology-chatgpt-built-iowa-lot-water-103052515"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 48
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "9 useful AI tools in addition to Midjorney and ChatGPT"
     excerpt: "Watch this video on YouTube. Perplexity AI combines a large language model with natural language processing (NLP) search capabilities, providing a personalized browsing experience. It offers a number of AI features, including personalized language models ..."
     publishedDateTime: 2023-09-08T10:56:00Z
@@ -283,31 +299,20 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water"
+  - title: "Artificial intelligence technology behind ChatGPT was built in Iowa -- with a lot of water"
     excerpt: "As they race to capitalize on a craze for generative AI, leading tech developers including Microsoft, OpenAI and Google have acknowledged that growing demand for their AI tools carries hefty"
-    publishedDateTime: 2023-09-09T20:39:00Z
-    webUrl: "https://tulsaworld.com/ap/business/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water/article_3379d8ad-289b-59cd-af57-adfc57af0969.html"
+    publishedDateTime: 2023-09-09T13:14:00Z
+    webUrl: "https://tulsaworld.com/ap/business/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa----with-a-lot/article_3379d8ad-289b-59cd-af57-adfc57af0969.html"
     type: article
     provider:
       name: Tulsa World
       domain: tulsaworld.com
-    quality: 30
+    quality: 29
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/6/5e/65eddd27-5f7e-51af-a65c-5d8ff9c1f88d/64fc7131358f7.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water"
-    excerpt: "As they race to capitalize on a craze for generative AI, leading tech developers including Microsoft, OpenAI and Google have acknowledged that growing demand for their AI tools carries hefty costs, from expensive semiconductors to an increase in water consumption."
-    publishedDateTime: 2023-09-09T13:15:00Z
-    webUrl: "https://www.seattletimes.com/business/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water/"
-    ampWebUrl: "https://www.seattletimes.com/business/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 28
   - title: "Meta Platforms reportedly building open-source generative AI system to rival OpenAI’s ChatGPT"
     excerpt: "Facebook and Instagram parent Meta Platforms Inc. is looking to rival OpenAI LP in the generative artificial intelligence landscape with an alternative, but open-source model that’s likely to be as powerful as GPT-4."
     publishedDateTime: 2023-09-11T00:20:00Z

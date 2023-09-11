@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ndtv.com/world-news/now-robots-to-cook-fried-chicken-to-
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/now-robots-to-cook-fried-chicken-to-improve-south-koreas-favourite-food-4378915/amp/1"
 type: article
 quality: 59
-heat: 79
+heat: 99
 published: true
 
 provider:
@@ -43,21 +43,51 @@ related:
         width: 1280
         height: 852
         isCached: true
-  - title: "Robot fried chicken: Entrepreneur seeks to improve South Korea's favourite food"
-    excerpt: "In fried-chicken-obsessed South Korea, restaurants serving the nation's favourite fast-food dish dot every street corner. But Kang Ji-young's establishment brings something a little different to the table: A robot is cooking the chicken."
-    publishedDateTime: 2023-09-11T06:45:00Z
-    webUrl: "https://www.rte.ie/news/newslens/2023/0911/1404569-robot-fried-chicken-taking-on-south-korean-favourite/"
+  - title: "Taste this robot fried chicken: Entrepreneur seeks to improve S. Korea's favourite food"
+    excerpt: "Kang's robot is capable of frying 100 chickens in two hours – a task that would require around five people and several deep fryers"
+    publishedDateTime: 2023-09-11T07:52:00Z
+    webUrl: "https://www.khaleejtimes.com/world/asia/taste-this-robot-fried-chicken-entrepreneur-seeks-to-improve-s-koreas-favourite-food"
+    ampWebUrl: "https://www.khaleejtimes.com/world/asia/taste-this-robot-fried-chicken-entrepreneur-seeks-to-improve-s-koreas-favourite-food?amp=1"
+    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/world/asia/taste-this-robot-fried-chicken-entrepreneur-seeks-to-improve-s-koreas-favourite-food?amp=1"
     type: article
     provider:
-      name: RTE Online
-      domain: www.rte.ie
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 51
+    images:
+      - url: "https://image.khaleejtimes.com?uuid=3fc8a78f-d43e-5b91-9249-b747c8c6d605&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.8427&width=1200&height=675&x=1.0E-5&y=0.07865"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Robot fried chicken: Entrepreneur seeks to improve South Korea's favorite food"
+    excerpt: "In fried-chicken-obsessed South Korea, restaurants serving the nation's favorite fast-food dish dot every street corner. But Kang Ji-young's establishment brings something a little different to the table: a robot is cooking the chicken."
+    publishedDateTime: 2023-09-11T09:28:00Z
+    webUrl: "https://www.philstar.com/business/2023/09/11/2295545/robot-fried-chicken-entrepreneur-seeks-improve-south-koreas-favorite-food"
+    type: article
+    provider:
+      name: philstar.com
+      domain: philstar.com
     quality: 35
     images:
-      - url: "https://img.rasset.ie/001ebd1d-1600.jpg"
-        width: 1600
-        height: 900
+      - url: "https://media.philstar.com/photos/2023/09/11/korean-fried-chicken_2023-09-11_17-28-26.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Robot fried chicken: Entrepreneur seeks to improve South Korea’s favourite food"
+    excerpt: "A robot fries chicken as an employee washes dishes at a Robert Chicken restaurant in Seoul. In fried-chicken obsessed South Korea, restaurants serving the nation's favourite fast-food dish dot every street corner. But Kang Ji-young's establishment is a little different: a robot is cooking the chicken. — AFP"
+    publishedDateTime: 2023-09-11T08:47:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/09/11/robot-fried-chicken-entrepreneur-seeks-to-improve-south-koreas-favourite-food"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 35
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/09/11/2278558.jpg"
+        width: 1240
+        height: 826
         isCached: true
 
-secured: "Hb2L5FEpyNatDS3BnuDf8WpckI3f2b4YLkugPLPHwbKYSBGS0F0M9z42Yj4OB5MYF43Lw1QLRQ2ANV8UKqdq28TF8LcTFJD2mTqomtvRN7hrsHn/+SjmvBgiAO+fSbJaJve4Wsr0/BKAG2Hj6khO8qbihNRDv+s9v9EvzainMLy7GN6PN8ob9Gem4cEsVJqgM3c4EZgYFvrf+e9eF7UrT/V24vQPuF3OJdMbRxGloR5jYG9LtlE4vW4phc0+iorbDJuOmhEwTeuIyRNONbQK/7n/BN1hXMnwTNMcsavviEks2UwKJ1bKIs+NW5FGKgb1IaZRqkF8tLZFENRwrP6y3Odx8HuUNZpvPUKfpzSdL+0=;lrzeRDb83RM19lEnG44BMw=="
+secured: "zALXGFUh8rhnOUHAOIqq/+tuBFVsZGg7JqdlqK5vsy2SgNeOeDfBCfESI1zazNHCfc9jJ26AUS7qftzmJf37ki2+ZhoMQJ8gHSPGrl2AHKkuDZQBrhMGhbpRHpFJWll7u4qBqPvE04n7eWM2oKOdTXo/oG63PWmGREsFpKekguQ7yQ4HGr9/zF1OzVoZ1jzhL+q5dKpp1waDZjAB7tNWXh0HGIVfx7u9AJ1VBiWJjHwp6f3OmNIJvZiqxfNxGX7g8ExW+mYKNT7HvVrqbHv6UnjA0fW1Ju5xT+fY0/w2HtqC/bL5Y30e9N7PVwx1/NxUjXh6gQrMl9mNNVa338gHC0KT9yzbjtPOiGIxesCW+iyKWTnhnNk9V7n/vftAYLrW1BZhoZ+PMHmzTRWoOsOVB+/sE6OK3iG2m5Wnma01GBHI1y1Qqv/qy5CIPCL3yhw1SNvEMc7ljbD8sYjky7WnY61tjxFmplrjR0HjM7DqdMDxK2rRfiFFOD+0F9iy8IrJWvMomqQ+Pa8F+dIhMOvBww==;U2xVemJzZV4pOKnLHsq1vg=="
 ---
 

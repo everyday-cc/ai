@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Cloudera Signs Strategic Collaboration Agreement with AWS"
-    excerpt: "Sept. 6, 2023 — Cloudera, the data company for trusted enterprise artificial intelligence (AI), announced today that it has signed a Strategic Collaboration Agreement (SCA) with Amazon Web Services, Inc. (AWS). This agreement strengthens Cloudera’s ..."
-    publishedDateTime: 2023-09-06T16:03:00Z
-    webUrl: "https://www.datanami.com/this-just-in/cloudera-signs-strategic-collaboration-agreement-with-aws/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 41
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
-        width: 1893
-        height: 767
-        isCached: true
   - title: "Cloudera signs strategic collaboration agreement with AWS"
     excerpt: "Cloudera, the data company for trusted enterprise artificial intelligence (AI), announced today that it has signed a Strategic Collaboration Agreement (SCA) with Amazon Web Services. This agreement strengthens Cloudera’s relationship with AWS and demonstrates their commitment to"
     publishedDateTime: 2023-09-07T00:28:00Z
@@ -86,24 +72,6 @@ related:
         width: 437
         height: 563
         isCached: true
-  - title: "AVIA’s National Generative AI Collaborative Announces New Experts, Enhanced Health System Participation"
-    excerpt: "The Generative AI Strategic Collaborative reveals a slate of 10 clinical, ethics, technology, and regulatory experts for its national consortium"
-    publishedDateTime: 2023-09-07T16:04:00Z
-    webUrl: "https://www.kansascity.com/press-releases/article279063044.html"
-    type: article
-    provider:
-      name: Kansas City Star
-      domain: kansascity.com
-    quality: 3
-  - title: "AVIA’s National Generative AI Collaborative Announces New Experts, Enhanced Health System Participation"
-    excerpt: "The Generative AI Strategic Collaborative reveals a slate of 10 clinical, ethics, technology, and regulatory experts for its national consortium"
-    publishedDateTime: 2023-09-07T17:04:00Z
-    webUrl: "https://www.miamiherald.com/press-releases/article279063044.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 3
 
 secured: "/FbRUL31Xm/b3eaMEwuC1TrOc79dL6wUrWfITn7MYb49V3xsCXY/gq6+rQeuB3ARs5U019MQDT9+Jqw5ZrwlVakmRtMdBYO74bHj645X7a6iJrXKu7TQh0BaxpYddSo5rkERcPtmzsqiLS/CHNpBbFzKhcL47WIQN+P6RfiLEIC4XZDYj5O3OzIpz2ZP3cqO7SjAVzSitYe/dVwwTEtr88uOW+XfqO67XUscOMwtr+pQPZqz+zrUrRpCYGkE4eqT0z+EYdLDrbNGiwCVwXngUgAlmDpnn9GS1nEALNKtaavKPW+UH3kt8m4Y/lrTI9ptVZzB2yXVCUEL86RLKZPYrmZrjhL8WhEBH4hFUaIRkI4A133eSR307ImSYS057BNkiXisN5ZP+OVYbrRIm9Hzne23xllJMyPrvOWJllfWZwrNQcucwsOYX/8vkH2Y286UkTpgG9wVxx4E2pZODaBpnWHRlFhqAEBkwBfHvpgTyBrLn6dtRnboej/zRBNId+U4K3SdzR2rftwL25aUehTVQA==;oaEkElLEk2mtUqyN4h/vFg=="
 ---

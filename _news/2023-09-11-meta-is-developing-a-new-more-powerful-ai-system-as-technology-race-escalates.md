@@ -58,6 +58,22 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "Meta is developing a new, more powerful AI system"
+    excerpt: "Meta: The Facebook parent is aiming for its new AI model to be ready next year, the Journal said, adding it will be several times more powerful than its commercial version dubbed Llama 2."
+    publishedDateTime: 2023-09-11T07:39:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/meta-is-developing-a-new-more-powerful-ai-system/103569344"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/meta-is-developing-a-new-more-powerful-ai-system/103569344"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/meta-is-developing-a-new-more-powerful-ai-system/103569344"
+    type: article
+    provider:
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-103569344,imgsize-7254,width-1200,height=765,overlay-etbrandequity/digital/meta-is-developing-a-new-more-powerful-ai-system.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "Meta is developing a new, more powerful AI system, Wall Street Journal reports"
     excerpt: "Meta Platforms (META.O) is working on a new artificial-intelligence system intended to be as powerful as the most advanced model offered by OpenAI, the Wall Street Journal reported on Sunday, citing people familiar with the matter."
     publishedDateTime: 2023-09-11T03:04:00Z
@@ -87,20 +103,6 @@ related:
       - url: "https://img.rasset.ie/001c1023-1600.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Meta is developing a new, more powerful AI system"
-    excerpt: "Llama 2 is Meta's open source AI language model launched in July, and distributed by Microsoft's cloud Azure services to compete with OpenAI's ChatGPT and Google's Bard. Meta Platforms is working on a new artificial-intelligence system intended to be as ..."
-    publishedDateTime: 2023-09-11T05:32:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/meta-is-developing-a-new-more-powerful-ai-system/103567113"
-    type: article
-    provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 39
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-103567113,imgsize-7254,width-1200,height=765,overlay-etcio/artificial-intelligence/meta-is-developing-a-new-more-powerful-ai-system.jpg"
-        width: 1200
-        height: 765
         isCached: true
   - title: "Today in AI: Meta is developing a new AI system, Google rolls out AI-generated search enhancement outside US, and more"
     excerpt: "On August 31, the company expanded its search feature powered by SGE (Smart Global Engine) to two other regions, namely India and Japan. These two countries are noteworthy for being the first to have access to the new AI extension outside of the US. More here."

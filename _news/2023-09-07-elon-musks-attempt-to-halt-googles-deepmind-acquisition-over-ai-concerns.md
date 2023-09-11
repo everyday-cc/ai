@@ -26,21 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "Musk once tried to stop Google's DeepMind acquisition in 2014, saying the future of AI shouldn't be controlled by Larry Page"
-    excerpt: "Walter Isaacson, a writer who spent three years trailing Musk, recounted the background of Musk and Page's conversation in his forthcoming biography, 'Elon Musk.'"
-    publishedDateTime: 2023-09-07T10:09:00Z
-    webUrl: "https://www.businessinsider.com/elon-musk-google-larry-page-future-of-ai-2023-9"
-    ampWebUrl: "https://www.businessinsider.com/elon-musk-google-larry-page-future-of-ai-2023-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-google-larry-page-future-of-ai-2023-9?amp"
+  - title: "Healthcare AI Market 2023 Value with Status and Global Analysis -Apple, GE Healthcare, Google Deepmind Health, IBM Watson Health"
+    excerpt: "Global Healthcare AI Market Research Report 2023 begins with ... Google Deepmind Health, IBM Watson Health, Imagen Technologies, Microsoft, Intel, Medalogix, Lumiata, NextHealth Technologies ..."
+    publishedDateTime: 2023-09-07T06:07:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/34302987/healthcare-ai-market-2023-value-with-status-and-global-analysis-apple-ge-healthcare-google-deepmind"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34302987"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34302987"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 79
     images:
-      - url: "https://i.insider.com/64f94cb056f5190019fca07b?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "IBM Announces Advanced Generative AI Models and Upgrades for watsonx Platform"
+    excerpt: "IBM today announced plans for new generative AI foundation models and enhancements coming to watsonx – its AI and data"
+    publishedDateTime: 2023-09-07T16:32:00Z
+    webUrl: "https://www.datanami.com/this-just-in/ibm-announces-advanced-generative-ai-models-and-upgrades-for-watsonx-platform/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 51
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/08/watsonx-300x235.png"
+        width: 300
+        height: 235
         isCached: true
 
 secured: "7rFcT0IVjPdivgFgZZLKWQmO16H4lCHxhMVP8a/LQW82Ol3UjJNGixj1ax5R18yPhnju0/iMd7rgQuSZjJSDNHFr8khs189BX47aaB9mEAWrZ8GaWUlZbj0K/QN0YlJnQeFNUXbQTGEBJbAOHqtUy7ZyR3s/LLYOeDjaEhIPFxZCvBExf7XvGeovHr67j0aqRDXTCmP7yrkwKOeQFvTS3O6LXu7o5g3iTthKycAdY+rPmDKIflzRdvvFA40cU1HVafY2WgnkCU6/yhPlVLY1LHKimfoGcQSCrsqSj2SAMrwaPPCAsnZ0yuxLe4os/of/n9VYSZr1/FaM0kPoIGAoQYRcwfJtTmhwRxpmlf/h0VADSWqc0v0Uh/MNgzM/S+4ArUzBd4DlW7dMxhhfMyrCqq85hQ7cOuhK2/mNrIYXC1S08Mk9udeQLoFtYbnnb56N0s5ksZ14UANf9YRO/f8sXYAmqFaD5cHPYehwO9f8Vfmlr2D8dsKwRn1vL6PE6SXt6er0vdu5DEPZTCmhUJGnmg==;9pF4pqgw5UiTReUEfs+eRQ=="

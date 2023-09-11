@@ -24,6 +24,22 @@ images:
     height: 765
     isCached: true
 
+related:
+  - title: "G20 nations reaffirm responsible use and development of AI technology"
+    excerpt: "G20 members reaffirmed their commitment to G20 AI Principles, drafted in 2019, which detail global policies and cooperation around building “trustworthy AI.”"
+    publishedDateTime: 2023-09-11T07:58:00Z
+    webUrl: "https://cointelegraph.com/news/g20-ai-use-and-development-india"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 39
+    images:
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDkvOTc5MmE4NWEtNWVkYS00ZjcyLWIxNTAtMGVjODRlNmNkZWQwLmpwZw==.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+
 secured: "jqEWzuVkxlS8YqGmFO+JRgGNYgSaELd4MhL6EZc1pZn05nDMzF09PjahXnvhTzXjMlaDE0ENEvFLxY6e3idVn/SBSFOpFVrR0wrAxLkHGBS5zkzaL8kUdehLfz/yA4cujMmXhYZ4S/CRtnnKRAQLjGXqsKenkwqceefkhUXwmqXeZOYVUugouk5xheryOYI4E0FWVnUizshDw04ujr6IEZsadNZsnyKZth7u2zfMjQdVzxyirWec7Y0JARZY83v92oqVpy1cKkTNdMyBFIOw2Vr7EEGZ/JTS7698rqge+DGoTIr1WyX0lg0E3NEo1VLHRqLxpm7/SaTVABQW2IakEGtYvbFO+EefX6PDg17ilxA=;rfo+Jdn5VLrIy/MT/o738g=="
 ---
 

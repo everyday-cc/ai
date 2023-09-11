@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/09/06/c3-ai-releases-28-domain-speci
 webUrl: "https://siliconangle.com/2023/09/06/c3-ai-releases-28-domain-specific-generative-ai-models/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,72 +23,6 @@ images:
     width: 7111
     height: 4000
     isCached: true
-
-related:
-  - title: "20 Effective Ways Small Businesses Can Leverage Generative AI"
-    excerpt: "From communications to customer service to coding, tech experts see a lot of ways that generative AI can boost a small business."
-    publishedDateTime: 2023-09-06T16:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/06/20-effective-ways-small-businesses-can-leverage-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/06/20-effective-ways-small-businesses-can-leverage-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/06/20-effective-ways-small-businesses-can-leverage-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64f89d669038c96f4a86eae0/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Intuit launches generative AI-powered digital assistant for small businesses and consumers"
-    excerpt: "AI-powered Tax Knowledge Engine to determine consumers’ specific tax situation and navigate the tax code. It will create a personalized tax checklist based on data a customer shares at the start of the tax preparation process to provide answers to their ..."
-    publishedDateTime: 2023-09-06T23:23:00Z
-    webUrl: "https://techcrunch.com/2023/09/06/intuit-assist-generative-ai-assistant/"
-    ampWebUrl: "https://techcrunch.com/2023/09/06/intuit-assist-generative-ai-assistant/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/06/intuit-assist-generative-ai-assistant/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 77
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/09/intuit-assist.jpg?w=1200"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "The Generative AI Boom Could Fuel a New International Arms Race"
-    excerpt: "Two new studies of the potential of text- and image-generating algorithms suggest they could add scary new scale and power to online disinformation campaigns."
-    publishedDateTime: 2023-09-07T09:00:00Z
-    webUrl: "https://www.wired.com/story/fast-forward-generative-ai-could-fuel-a-new-international-arms-race/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
-    images:
-      - url: "https://media.wired.com/photos/64f8fe9c2af6d929ce8aee78/191:100/w_1280,c_limit/AI-Arms-Race-Fast-Forward-Culture-1368514518.jpg"
-        width: 1280
-        height: 670
-        isCached: true
-  - title: "How Generative AI Will Rewrite DevOps Best Practices"
-    excerpt: "The full impact of GenAI on the DevOps processes of major enterprises is still in its infancy, but it will rewrite the best practices for software development."
-    publishedDateTime: 2023-09-08T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/08/how-generative-ai-will-rewrite-devops-best-practices/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "C3 AI Releases New C3 Generative AI Suite"
-    excerpt: "Initially released in March 2023, C3 Generative AI has been well received by the market with projects now in place at Georgia-Pacific, Flint Hills Resources, Nucor, Pantaleon, Con Edison, the U.S. Missile Defense Agency, and a U.S. intelligence agency."
-    publishedDateTime: 2023-09-06T21:55:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/09/06/9876233.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "7M9cBB3VGBCdIjLxvRoOea0DTpB20boEBxzwskIH08irgxIUTa7R6a7/USysrrg7prP1gaNbfOVukVjL8LqLqEIa/agDvhyShulJpEyJw6dHkC7kzsmS+WjvSu9tkiZbezSTmqtP4DkshjQuZ/UztDu5o6qoiV9O7IgvJ3gWd9Zz3NsR2rTIjViMlhrDGO9K4jej70NhgRhF08DXrdOi4tXDyjAbsUXJWs5dJusn0sSlxTOn//GxUGQQ3jrTsIFI5NyYL7TG7Eri66Ev7syQD/pNHPwV7CGodUlJzb1Z0of6DUfgrTxI2YBAY7MGg1xicxpdYIk0YF3fRPydDJnCvfR5OF9VnSAIYKPum1SA70W8Uvd/KENoRiaJMAlFUe9nn83yomm6XVQEX/KWT507Y01wV8jP+/DU9RaE1JjuKpJbA72+Yxj5bGXGHHWa8ciT2nuzVTlXxOyewiOr9qZ7dOWfsle6+wFT38+eKin6zr+cyCX/pxXXlT9nbJro0vRCSnZCBFYiFqYw1J7bSCJHdA==;D8HnZ1dgOgoudup+1vuJlw=="
 ---

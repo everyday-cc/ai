@@ -7,7 +7,7 @@ originalUrl: "https://www.bostonglobe.com/2023/09/07/business/boston-quantum-com
 webUrl: "https://www.bostonglobe.com/2023/09/07/business/boston-quantum-computing-startup-zapata-looks-go-public/"
 type: article
 quality: 2
-heat: -1
+heat: 2
 published: false
 
 provider:
@@ -16,22 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Andretti special purpose acquisition company to merge with Boston-based AI startup"
-    excerpt: "The Indianapolis-based blank-check company started by former IndyCar driver Michael Andretti is merging with Boston-based artificial intelligence startup Zapata AI, the companies announced Wednesday morning. The merger with Andretti Acquisition Corp ..."
-    publishedDateTime: 2023-09-06T16:10:00Z
-    webUrl: "https://www.ibj.com/articles/andretti-spac-announces-merger-with-boston-based-ai-startup"
-    type: article
-    provider:
-      name: Ibj.com
-      domain: ibj.com
-    quality: 31
-    images:
-      - url: "https://cdn.ibj.com/wp-content/uploads/2022/12/YIR_Andretti_Book22.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "jGfYumhkyx54GmCQikFWX1EomwWavTNmGnxe0nKqRY3YRcVIIKx46ltJUsz0zCa91vgAVBhG1v+goxeAleljE7E9q1xaHGgwUw3LAVJhp9Oyhp5KdIR/a7a70ij3DXO/oNd9dKAuAPY8nG8DDFaRyLv5deAmUdi+RtuvhcV7W73qJ/KBgxB0LRp4YiZShv2ga3XQegIUhi2C7GnSW8WZKwwDlm1FbwPe5Wl1OJh7e0ijPgu0HRjYcOt4Wgk5cJJ25ImLgoxDvjUDzZ7LBDWlz4t3PoIFiWBoffcGpUq9RjTOlPAqEoFopvx0bpi8ivVuHDouhjm6sFzJf3v1Ptg72VReFQ1oOhH9YNL9yHNHb8L/liUXOjivr+IKT0C8Tew93+fRwkshrZiMGWoN3c7BINSOTQXlWd5jr83PLLSJtqZpCzP+80ylMYGXO1trkQgToQnaVzoRI2ikiTmV2znnHUOx6vzVR+6kgmLcprz/+J8eIcCkQgFdyZsLntQGdB1M8zdbT17dDt2009/H8jdvpQ==;fGQ2dNN/KEvcioxiJ1RZlA=="
 ---

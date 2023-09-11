@@ -46,6 +46,20 @@ related:
         width: 883
         height: 637
         isCached: true
+  - title: "Intel benefits from Nvidia AI chip shortage"
+    excerpt: "Customers will use any old chip The shortage of Nvidia’s GPUs has customers searching for scrap heap to kickstart makeshift AI projects, and Intel is benefitting from it. During a meeting with financial analysts at the Citi Global Technology Conference this week,"
+    publishedDateTime: 2023-09-11T09:56:00Z
+    webUrl: "https://www.fudzilla.com/news/57569-intel-benefits-from-nvidia-ai-chip-shortage"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/00ca31a2a16d4c95f1cc4d5619f98a35_L.jpg"
+        width: 620
+        height: 436
+        isCached: true
 
 secured: "hbW4QQZINAwQXdo2zFbuibfuAwhL4nu6TYMpFA2TqFiHgMP2o6G2k9cnjJoa1Hm1sGyMzwYjb9dslrqcMg1mMtBMg7IBZr+L/HoyMIxtfRJ1AjIduhCJmMrZBqUC6Q7mwRuWXZhkgRliI2AC3wRHHeM5s/nVwhCK+8iwu5ZB1Kbb0/x03/H7+i11dG8xLXkqcBn8yhSRhqeQmDbjyWmrnleZh+rqdAYbzehcld8QMtMNFb7Unw/0rqb58YHj24Th8EOCI8m6DnIi/kSGEcZZ/2qQKff2ZMdf/6WxF0zoIRSnQH875Blq2eys32WyGaEDbfUYbP5U3OhbmAb3vI6gt/XCHQBdKJ8nu9nLRb7BAh99m+K/+hLMi3gmrfH8Sgj0+AFb4IaPD1BtEjpsmmdyMU4qJYRbJACnVYumktP9sZi3wU9nP6uFVkiBKToHr1LiVIwWzJ0oIcLVJSXKGW78hBA8MU1aBX2HoUzXT0xHaeGJxyqGAcKcC4jjHPyD2nJYaMkzVuz3yl6e696HCp5PaA==;y5inyIMPDZO36PtJtonnVg=="
 ---

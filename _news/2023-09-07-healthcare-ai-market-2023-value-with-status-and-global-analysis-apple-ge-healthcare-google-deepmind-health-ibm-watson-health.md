@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/34302987"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34302987"
 type: article
 quality: 79
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: Benzinga.com
@@ -29,28 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Tennis, football, and IBM watsonx"
-    excerpt: "The process of introducing new features to the US Open digital experience has never been smoother than it was this year, thanks to watsonx.\nThe post Tennis, football, and IBM watsonx appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-09-06T16:24:03Z
-    webUrl: "https://www.ibm.com/blog/tennis-football-and-ibm-watsonx/"
+  - title: "Elon Musk’s Attempt to Halt Google’s DeepMind Acquisition Over AI Concerns"
+    excerpt: "San Francisco, CA In a revealing excerpt from the forthcoming biography “Elon Musk” by Walter Isaacson, it has been disclosed that Elon Musk once attempted to thwart Google’s acquisition of DeepMind in 2014."
+    publishedDateTime: 2023-09-07T11:20:00Z
+    webUrl: "https://www.cryptopolitan.com/musks-attempt-to-halt-deepmind-acquisition/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 97
-  - title: "IBM unveils new generative AI enhancements for watsonx"
-    excerpt: "IBM has announced a host of new enhancements for its watsonx platform, which include new generative AI foundation models and new capabilities. Designed to help enterprises scale and accelerate the impact of artificial intelligence,"
-    publishedDateTime: 2023-09-08T16:02:00Z
-    webUrl: "https://www.techcentral.ie/ibm-unveils-new-generative-ai-enhancements-for-watsonx/"
-    type: article
-    provider:
-      name: Mozilla
-      domain: techcentral.ie
+      name: cryptopolitan
+      domain: cryptopolitan.com
     quality: 54
     images:
-      - url: "https://www.techcentral.ie/wp-content/uploads/2022/01/IBM_21.jpg"
-        width: 620
-        height: 349
+      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/09/msg-906142390-6573-1.jpg"
+        width: 1024
+        height: 1024
         isCached: true
   - title: "IBM Announces Advanced Generative AI Models and Upgrades for watsonx Platform"
     excerpt: "IBM today announced plans for new generative AI foundation models and enhancements coming to watsonx – its AI and data"
@@ -66,15 +57,6 @@ related:
         width: 300
         height: 235
         isCached: true
-  - title: "IBM Watsonx open source Codeflare explained"
-    excerpt: "IBM has recently announced the launch of Watsonx, its latest AI platform offering a unique blend of AI and data platform that is specifically built for businesses. It comes with a set of AI assistants that are designed to help businesses scale and ..."
-    publishedDateTime: 2023-09-08T12:53:00Z
-    webUrl: "https://www.geeky-gadgets.com/ibm-watsonx/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 34
 
 secured: "6wd79HcdRs6nzxWSBCmZ4Fwl6/ujNKR4dPjvMaqa7i3DWcKJKvwCZCnXJJFHnLFdTZX0AL6Ye2brvLn2F+RUfv+zrm9sNEpiurFzjcHUng9lLdv+vrxHMXGWFaboYHl8j+DBp5fvSN9CRfsLitwYECYf50fuzJAIDXxJ3KWzgs1QOM4GoOMOwXbgUOZccYEP+XzaErJJjJmz2eFndo19H60Poxg16pUFQqEpOYG0zpGqL+EVNfSC+swyAnvwRf8/YQc7ibt9L00jK34160slXcF6kq12IJ4txhNhKTkpCfywDMeNSRvaCc63EcUE+u4yzQpJJD5utFgCdQkyC2yO0t5CDR7nJXtLMKBYirJx0c4=;fQEl82c+nHqA5ttgN32kzA=="
 ---

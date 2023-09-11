@@ -35,20 +35,6 @@ related:
         width: 480
         height: 254
         isCached: true
-  - title: "Zoom launches AI Companion to summarize meetings for late attendees"
-    excerpt: "It can also answer specific questions about meeting content and automatically generate summaries, identify important information,"
-    publishedDateTime: 2023-09-06T16:33:00Z
-    webUrl: "https://venturebeat.com/virtual/zoom-launches-ai-companion-to-summarize-meetings-for-late-attendees/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/09/AI-Companion-meeting-query.jpg?w=1200&strip=all"
-        width: 1200
-        height: 636
-        isCached: true
   - title: "Slack's New AI Feature Will Catch You Up on Work Conversations"
     excerpt: "With Slack AI, in-app capabilities will include channel recaps that provide key highlights and one-click thread summaries that give you the gist of a thread. Another feature will be search answers, a question-and-answer feature that returns related messages, files, channels and an AI-generated summary."
     publishedDateTime: 2023-09-09T13:09:00Z
@@ -76,6 +62,20 @@ related:
       - url: "https://www.cnet.com/a/img/resize/089c254824ce38bdca6979888a458669a1817baf/hub/2023/09/05/e7503035-ec6e-4548-99e5-5d68976361ab/gettyimages-1211208100.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "IBM unveils new generative AI enhancements for watsonx"
+    excerpt: "IBM has announced a host of new enhancements for its watsonx platform, which include new generative AI foundation models and new capabilities. Designed to help enterprises scale and accelerate the impact of artificial intelligence,"
+    publishedDateTime: 2023-09-08T16:02:00Z
+    webUrl: "https://www.techcentral.ie/ibm-unveils-new-generative-ai-enhancements-for-watsonx/"
+    type: article
+    provider:
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 54
+    images:
+      - url: "https://www.techcentral.ie/wp-content/uploads/2022/01/IBM_21.jpg"
+        width: 620
+        height: 349
         isCached: true
   - title: "Hiber unveils generative AI for 3D world creation"
     excerpt: "Hiber announced an upgrade of its 3D world creation tools with the integration of generative AI that makes it a lot easier to build worlds."
