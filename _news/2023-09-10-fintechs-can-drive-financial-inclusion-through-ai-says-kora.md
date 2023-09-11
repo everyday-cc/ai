@@ -9,7 +9,7 @@ ampWebUrl: "https://punchng.com/fintechs-can-drive-financial-inclusion-through-a
 cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/fintechs-can-drive-financial-inclusion-through-ai-says-kora/?amp"
 type: article
 quality: 59
-heat: 89
+heat: 90
 published: true
 
 provider:

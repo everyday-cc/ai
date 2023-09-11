@@ -25,57 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "Combining Robotics and AI in Schools is a Sufficient Introduction to Prepare Students for a Tech-Centric Future"
-    excerpt: "Jason Innes, Director of Curriculum, Training, and Product Management at KinderLab Robotics, Inc, explores robotics and AI in schools."
-    publishedDateTime: 2023-09-08T23:00:00Z
-    webUrl: "https://marketscale.com/industries/education-technology/combining-robotics-and-ai-in-schools-is-sufficient-introduction-to-prepare-students-for-tech-centric-future/"
+  - title: "Hundreds of schools across U.S. using AI to help detect guns"
+    excerpt: "Hundreds of schools across the United States are using an artificial intelligence system that is designed to detect guns and prevent mass shootings. NBC News’ Rehema Ellis has a closer look at how the technology works."
+    publishedDateTime: 2023-09-10T23:19:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/hundreds-of-schools-across-u-s-using-ai-to-help-detect-guns-192654405889"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo192654405889"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo192654405889"
     type: article
     provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 49
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
     images:
-      - url: "https://marketscale.com/wp-content/uploads/2023/09/Screenshot-2023-09-06-at-2.30.24-PM-2.png"
-        width: 916
-        height: 510
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_09/1694387934266_nn_rel_ai_school_security_230910_1920x1080-svvab6.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Combining Robotics and AI in Schools is a Sufficient Introduction to Prepare Students for a Technological Future"
-    excerpt: "Jason Innes, Director of Curriculum, Training, and Product Management at KinderLab Robotics, Inc, explores robotics and AI in schools."
-    publishedDateTime: 2023-09-08T22:26:00Z
-    webUrl: "https://marketscale.com/industries/education-technology/combining-robotics-and-ai-in-schools-is-sufficient-introduction-to-prepare-students-for-technological-future/"
+  - title: "New Jersey's Ocean City taps AI gun detection in hopes of thwarting mass shootings"
+    excerpt: "The Ocean City School District, as well as the city’s boardwalk, have implemented new technology that uses artificial intelligence to scan camera feeds for guns."
+    publishedDateTime: 2023-09-07T19:44:00Z
+    webUrl: "https://abcnews.go.com/US/new-jerseys-ocean-city-taps-ai-gun-detection/story?id=102960788"
+    ampWebUrl: "https://abcnews.go.com/amp/US/new-jerseys-ocean-city-taps-ai-gun-detection/story?id=102960788"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/new-jerseys-ocean-city-taps-ai-gun-detection/story?id=102960788"
     type: article
     provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 48
+      name: ABC
+      domain: abcnews.go.com
+    quality: 51
     images:
-      - url: "https://marketscale.com/wp-content/uploads/2023/09/Screenshot-2023-09-06-at-2.30.24-PM-2.png"
-        width: 916
-        height: 510
+      - url: "https://s.abcnews.com/images/US/interview2-abc-ml-230906_1694026159744_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Connecting Robotics and AI in Schools is a Sufficient Introduction to Prepare Students for a Technological Future"
-    excerpt: "Jason Innes, Director of Curriculum, Training, and Product Management at KinderLab Robotics, Inc, explores robotics and AI in schools."
-    publishedDateTime: 2023-09-08T22:16:00Z
-    webUrl: "https://marketscale.com/industries/education-technology/connecting-robotics-and-ai-in-schools-is-sufficient-introduction-to-prepare-students-for-technological-future/"
-    type: article
-    provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 48
-    images:
-      - url: "https://marketscale.com/wp-content/uploads/2023/09/Screenshot-2023-09-06-at-2.30.24-PM-2.png"
-        width: 916
-        height: 510
-        isCached: true
-  - title: "Some Connecticut schools are using artificial intelligence for student tutoring"
-    excerpt: "The Connecticut Department of Education is partnering with a tech company to bring artificial intelligence classrooms this upcoming school year. With AI tools such as ChatGPT bursting onto the scene, state education officials have decided to embrace the ..."
-    publishedDateTime: 2023-09-06T15:07:00Z
-    webUrl: "https://www.wshu.org/connecticut-news/2023-09-06/some-connecticut-schools-are-using-artificial-intelligence-for-student-tutoring"
-    type: article
-    provider:
-      name: WSHU news
-      domain: wshu.org
-    quality: 13
 
 secured: "cfkxT1OEaMz9rSfEr0z1toDP2RnYUO75NCA8gJ3P5cM9VlBJJg++ZLk+Tr76/8HmstgbP0Y6p3KX6y55euiOSb4wHpiN14wKj1l/Bzz1RZ/ms5oSGLNBvRtXsfU3YrFfDVGPCOuTboFrGeBtlbDI/QVuYNoIcPESTsjb7lGkfCYjl3Fw8/8qeONx5EBmVceEv2y0q97Y+0spoGDU05C3irSWUWFYbzoaMsT6c5ySZvPWyykFofklXfdOmNKqlNTkWeudgP+kMJ/HZUlmeyp13qUwjU8OOep7pOojGt+0AhhH1i6t5FL7gMLhtjByegRWzMdxR0youodUW+uumNhh+cJ6bayo300ggnuXMHN2v/ODZEcC3zJlGizTZ7jYWq1mel5Cb5am3XV7E9RHYS/vG1Bw4J7PyVa3fq7QPV4N0tycwL7h9sidlL8uoFQTi7F1FFLUIQkcE5suGZvKURNWGacjEIKkWnf882jS/HP9sUjswlW5WuVsgoQZhRQ1//JXsifwMOrELazcjtRNysCjBw==;FI5WmLhaM4W/w1hNyIkJHQ=="
 ---

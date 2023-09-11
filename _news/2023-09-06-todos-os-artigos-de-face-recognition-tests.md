@@ -7,7 +7,7 @@ originalUrl: "https://theconversation.com/br/topics/face-recognition-tests-68893
 webUrl: "https://theconversation.com/br/topics/face-recognition-tests-68893"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Todos os artigos de Deep learning"
-    excerpt: "AlphaZero is a machine capable of defeating the most complex board games for the human mind, based only on its own learning experience, not on accumulated human knowledge."
-    publishedDateTime: 2023-09-06T06:12:00Z
-    webUrl: "https://theconversation.com/br/topics/deep-learning-8331?page=2"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 39
-    images:
-      - url: "https://images.theconversation.com/files/503372/original/file-20230106-23-9vo8lt.jpg?ixlib=rb-1.1.0&rect=0%2C0%2C5499%2C3663&q=45&auto=format&w=496&fit=clip"
-        width: 496
-        height: 330
-        isCached: true
   - title: "Todos os artigos de Artificial intelligence (AI)"
     excerpt: "It’s easy to get excited about the potential for robots to help care for the sick, injured and elderly, but we need the right regulations in place to deal with issues as they emerge. One-third of roads in the U.S. are unpaved; plenty more have faded or ..."
     publishedDateTime: 2023-09-06T12:56:00Z

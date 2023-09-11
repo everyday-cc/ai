@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/business/mckinsey-partners-with-salesforce
 webUrl: "https://venturebeat.com/business/mckinsey-partners-with-salesforce-to-offer-speedy-ai-adoption-plans-for-enterprises/"
 type: article
 quality: 61
-heat: 73
+heat: 71
 published: true
 
 provider:

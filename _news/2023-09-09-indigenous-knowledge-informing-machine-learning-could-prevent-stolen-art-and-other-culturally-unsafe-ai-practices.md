@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-09-indigenous-knowledge-machine-sto
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-indigenous-knowledge-machine-stolen-art.amp"
 type: article
 quality: 52
-heat: 64
+heat: 62
 published: false
 
 provider:

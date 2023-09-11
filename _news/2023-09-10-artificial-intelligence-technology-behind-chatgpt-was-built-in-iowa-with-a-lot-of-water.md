@@ -1,22 +1,29 @@
 ---
 category: news
-title: "Artificial intelligence technology behind ChatGPT was built in Iowa -- with a lot of water"
-excerpt: "Microsoft made its first $1 billion investment in San Francisco-based OpenAI in 2019, more than two years before the startup introduced ChatGPT and sparked worldwide fascination with AI advancements. As part of the deal, the software giant would supply computing power needed to train the AI models."
-publishedDateTime: 2023-09-09T19:14:00Z
-originalUrl: "https://www.seattlepi.com/business/article/artificial-intelligence-technology-behind-chatgpt-18356707.php"
-webUrl: "https://www.seattlepi.com/business/article/artificial-intelligence-technology-behind-chatgpt-18356707.php"
+title: "Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water"
+excerpt: "As they race to capitalize on a craze for generative AI, leading tech developers including Microsoft, OpenAI and Google have acknowledged that growing demand for their AI tools carries hefty costs, from expensive semiconductors to an increase in water"
+publishedDateTime: 2023-09-09T21:02:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/artificial-intelligence-technology-chatgpt-built-iowa-lot-water-103052515"
+webUrl: "https://abcnews.go.com/Technology/wireStory/artificial-intelligence-technology-chatgpt-built-iowa-lot-water-103052515"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/artificial-intelligence-technology-chatgpt-built-iowa-lot-water-103052515"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/artificial-intelligence-technology-chatgpt-built-iowa-lot-water-103052515"
 type: article
-quality: 9
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: seattlepi.com
-  domain: seattlepi.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
-  - AI in Autos
   - AI
+
+images:
+  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+    width: 834
+    height: 308
+    isCached: true
 
 related:
   - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
@@ -142,22 +149,6 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2023/09/AP23243203838995.jpeg?w=3000"
         width: 3000
         height: 1688
-        isCached: true
-  - title: "Q&A: What ChatGPT Enterprise means for AI business adoption"
-    excerpt: "ChatGPT Enterprise will likely spur greater adoption of generative AI technology by addressing two of the main concerns businesses have: security and privacy. Claire Trachet, CEO of tech business advisory firm Trachet,"
-    publishedDateTime: 2023-09-06T06:59:00Z
-    webUrl: "https://www.computerworld.com/article/3706049/qa-what-chatgpt-enterprise-means-for-ai-business-adoption.html"
-    ampWebUrl: "https://www.computerworld.com/article/3706049/qa-what-chatgpt-enterprise-means-for-ai-business-adoption.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3706049/qa-what-chatgpt-enterprise-means-for-ai-business-adoption.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/07/shutterstock_2284126663-100943536-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Artificial intelligence technology behind ChatGPT was built in Iowa"
     excerpt: "Water pulled from the Raccoon and Des Moines rivers in central Iowa cools a powerful supercomputer as it helped teach its AI systems how to mimic human writing."
@@ -367,6 +358,6 @@ related:
       domain: scientificamerican.com
     quality: 4
 
-secured: "N3L3sWkaqVaX81/LGfBeZ/LJ4gD+gqOPbkLCVDzKujp2SIaugDPAGUU77wUnp/IvC9emFzQiRmBfKw/WKO51PgDTwukHtGFusvRWwIxlsCphVyakEEweTweQb1h1dwvJ2OGRPgwLy93RXYFKpPVflxLMXKqW3IQkEzkGE1ubDayTZ95NBZRgh3UAnZWkcyoqHUY51OuNNeXuz7kmzMp6N6wt//zuqUYC9AJgbCsu6KcLjQ9cKA4AFiv5v3tZFdRka+MMKi8+d3lulX92i6/jCbnQsgGXmuEf7RckRGtZhUT12YOOHeb5gMNQQpomMjFp6hSIU0A5xD4FwCGj91fMXy14tAWpdfqLUZXVCTFSA+Y=;gXPvAmqayBOgASnJnE2R4Q=="
+secured: "r/LuYdSiOH34F4w+SOF6m+Sz7jiiQ9qzs+tcLP7E/8EAo0ai4GAnO2Bn3JjmJLMPMjiJZAqLnOo+lJOHoTelM5rCbXTUsAWlmbP810hNIho0Wj+WDN80LxrTQEUa0qw20fy7UrqOKzA13ndDHBfyU+SzEy2MSGJlt3PuB/Ac+tbu5IZbWOMIyepagFuN1/NNL5SyLvLM7xf29Mu007AKZAu/n0gQAADgIG8Rx+oU1r8K+rfGjyHAflWCn5QpvowI38KkticnEPr6ps/q8FTSD8d5fFwQJZGQWc/NtjrtQSDtDl3lxWshWY8uRgLukI5jmEHLH4xNbg1Q+0C/PXFVMUmddCOiYBPFkx9aQW+HZ50=;g1LMUaW8qFcHg6/xtqoE5Q=="
 ---
 

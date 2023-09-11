@@ -129,6 +129,22 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Microsoft could use AI to make your Windows 11 desktop background exciting"
+    excerpt: "Windows Copilot is not the only AI-powered feature coming to Windows 11. According to internal documents seen by Windows Latest, Microsoft is testing at least one AI-powered feature that could revolutionize how users interact with the desktop."
+    publishedDateTime: 2023-09-10T22:48:00Z
+    webUrl: "https://www.windowslatest.com/2023/09/11/microsoft-could-use-ai-to-make-your-windows-11-desktop-background-exciting/"
+    ampWebUrl: "https://www.windowslatest.com/2023/09/11/microsoft-could-use-ai-to-make-your-windows-11-desktop-background-exciting/amp/"
+    cdnAmpWebUrl: "https://www-windowslatest-com.cdn.ampproject.org/c/s/www.windowslatest.com/2023/09/11/microsoft-could-use-ai-to-make-your-windows-11-desktop-background-exciting/amp/"
+    type: article
+    provider:
+      name: Windows Latest
+      domain: windowslatest.com
+    quality: 72
+    images:
+      - url: "https://www.windowslatest.com/wp-content/uploads/2023/09/Windows-11-AI-background-upgrade.jpg"
+        width: 1718
+        height: 892
+        isCached: true
   - title: "Microsoft-Backed Startup D-Matrix To Compete With Nvidia In Bid For AI Dominance"
     excerpt: "The chips are down in the artificial intelligence (AI) market, and Nvidia Corporation’s (NASDAQ: NVDA) stronghold appears unshakeable."
     publishedDateTime: 2023-09-06T16:30:00Z

@@ -42,7 +42,21 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Meta is developing a new, more powerful AI system, Wall Street Journal reports"
+    excerpt: "Meta Platforms is working on a new artificial-intelligence system intended to be as powerful as the most advanced model offered by OpenAI, the Wall Street Journal reported on Sunday, citing people familiar with the matter."
+    publishedDateTime: 2023-09-10T20:13:00Z
+    webUrl: "https://www.reuters.com/technology/meta-is-developing-new-more-powerful-ai-system-wsj-2023-09-10/?ref=biztoc.com"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 63
+    images:
+      - url: "https://www.reuters.com/resizer/GxcCqkTOYEBLp3n3AwPZzikNBmo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AFO2TSIYMZOXTGDHCLFWN2IQCA.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
-secured: "lIq+CEUq0NpHdPir+WfjF/BaE+SAGvKW6G3hxTClfPywZ0V2iFKZH46904PIG4HAauiKMzEeKqtV6gZ7W9eCwn1DQsopNJlUOUpze3Wxk1UzfizOpgwmbWtdUSATj2To6215Cw9SqJaJHK5KFeWFaYMeK/58DJKwaJbGgqK+O+5S98c1zZaIdA55Wx9AuQXWu4rmEFa869S7Qc16clzMPb1ogX+AfVVLiuDVbN60Lr0hV3vsyfpNXywGyfcOHED1hSTzp+SXDDvxXk13o+Wq3m2wQEYFaT/QcvU3UN6qqB/j4U9TK2zP+v0o5K9o3wKc5sLMgpS2gtLeXLyebg9nz2p40jEyWpbG7GkpE1JU4MY=;GiI5Xj1DLp8Y2Ls2Chdt/w=="
+secured: "TSwuEVCHFLJco/5K9iwZb/zhbcbR5nGk0J3QcLxnUcH/PdrwV5dJJLy9lQQQ1SiI6NULb2gCc0bd5z2vnfUY35jP1BlKQmbsOAZdl4KSp0j7rwkwg4yuHUpDB+E5VcEaQlifpFU/ikCVHFRWBUC1OJ7drNAYZz+NfG9tRRYvarr5N+uZRIhyXobJjUiKvuGZU5RbreeWGTXNFSJcJAwjLPSK6hUPSQAkpfxa5fCfiYW5IdCmhlLsfGLaQqqSkTLgjBdwSwskJVc6FEARmUV8R0EfjJAQgRr15WY8ATyDsU+1uMQLCXDPG+ibgm8PmmhTU8xrN3GCQLDOyFlgQHw9z+YSXfcjqlanSHx5JJPS7HYff/zQCX8KRd6aFgnZUF7DDzNPtebTuoVEOrUxGV7YPxaGWOdrHPcBCIxtqpMi9JuD/iGonDdqTkmkvzc5V2yaj7vKZG0szQxtfvmhgkLumpBio3Fol/3CLIJAFdPHc8R4spHGk0ZMr2/TLwhgemWrIoiyeusCSS11kjLPLQ3Efg==;ZRko7PaYH7RhurxjKJJqVQ=="
 ---
 

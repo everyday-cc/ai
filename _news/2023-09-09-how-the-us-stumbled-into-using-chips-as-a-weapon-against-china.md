@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/politics/policy/how-the-u-s-stumbled-into-usin
 webUrl: "https://www.wsj.com/politics/policy/how-the-u-s-stumbled-into-using-chips-as-a-weapon-against-china-ec37e32"
 type: article
 quality: 84
-heat: 85
+heat: 84
 published: true
 
 provider:

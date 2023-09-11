@@ -33,24 +33,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Nvidia claims new software library doubles LLM inference speed on H100 GPU"
-    excerpt: "Nvidia plans to release an open-source software library that it claims will double the speed of inferencing large language models (LLMs) on its H100 GPUs. TensorRT-LLM will be integrated into Nvidia's NeMo LLM framework as part of the Nvidia AI Enterprise software suite early next month. It is currently available in early access."
-    publishedDateTime: 2023-09-10T19:48:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-claims-new-software-library-doubles-llm-inference-speed-on-h100-gpu/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 32
-  - title: "Nvidia Says New Software Will Double LLM Inference Speed On H100 GPU"
-    excerpt: "Nvidia said it plans to release open-source software that will significantly speed up inference performance for large language models powered by its GPUs, including the H100."
-    publishedDateTime: 2023-09-08T18:42:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/nvidia-says-new-software-will-double-llm-inference-speed-on-h100-gpu"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 19
 
 secured: "Z4TYvimcIE4VkEewkUXFx5IcDlvLPsGe1lHk50uqAab/u5f0ohKmBz6xz1/sr9Ib8RocDuNeoXevjG1ML+73M5ikqs9SO7Cok6ZEUZh5xMO464kgnIO7VSvoGiSjnGRWbKGLXZFhUTU66l1dvbaHMnHHY6w9kHzbi6CmIZZ7yFaQD6k+nvG0EAdSGRkdGgXoxZWQiGZlyytne0mQREt4XAmilrnKpbw6RLQYIatsXQT0SUO9cl25n1diziX4t3iyLts0QCTxQ0QBrE47VHH2c1ejkVTgSImjL/KrugT0Rh2RpZS66x6gH3ssTon44XTnOCbBymKykSGbqB81UPhbVLB+6I07lD/u0dCqDNy83p7DdyBkgvmL1na/S/Xd4VUCnRLj/kA8N0olPMbbacBBXmplsi80c8dkeFtA5Y8fapMzrqowiiTUM22/XCpNVUGQnag5R84GFOkTR2/BtzbURWiwzVBklFGGgfwA/O3f063SirG6QETpyKryNemFdOIQf+zTLVuABSkeJ4zZvmfZMA==;8jkxKnh4TKkYfIUpZ3ue8w=="
 ---

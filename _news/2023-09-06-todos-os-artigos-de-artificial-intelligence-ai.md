@@ -20,20 +20,6 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Todos os artigos de Deep learning"
-    excerpt: "AlphaZero is a machine capable of defeating the most complex board games for the human mind, based only on its own learning experience, not on accumulated human knowledge."
-    publishedDateTime: 2023-09-06T06:12:00Z
-    webUrl: "https://theconversation.com/br/topics/deep-learning-8331?page=2"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 39
-    images:
-      - url: "https://images.theconversation.com/files/503372/original/file-20230106-23-9vo8lt.jpg?ixlib=rb-1.1.0&rect=0%2C0%2C5499%2C3663&q=45&auto=format&w=496&fit=clip"
-        width: 496
-        height: 330
-        isCached: true
   - title: "Todos os artigos de Face recognition tests"
     excerpt: "Psychologists are hoping a new, extra-difficult facial recognition test will help unearth more of Australia’s top performers in facial recognition — known as ‘super-recognisers’."
     publishedDateTime: 2023-09-06T10:51:00Z

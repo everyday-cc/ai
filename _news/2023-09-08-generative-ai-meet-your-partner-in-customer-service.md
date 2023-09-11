@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/generative-ai-meet-your-partner-in-custom
 webUrl: "https://www.ibm.com/blog/generative-ai-meet-your-partner-in-customer-service/"
 type: article
 quality: 119
-heat: 140
+heat: 139
 published: true
 
 provider:

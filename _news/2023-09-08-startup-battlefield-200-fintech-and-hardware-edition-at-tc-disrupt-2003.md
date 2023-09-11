@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/09/07/startup-battlefield-200-fintech-an
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/07/startup-battlefield-200-fintech-and-hardware-edition-at-tc-disrupt-2003/amp/"
 type: article
 quality: 75
-heat: 116
+heat: 115
 published: true
 
 provider:

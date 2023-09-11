@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Labor must plan for Voice failure: Marcia Langton"
-    excerpt: "The Indigenous academic and longtime campaigner said she would have no part in a second referendum, as proposed by Opposition Leader Peter Dutton."
-    publishedDateTime: 2023-09-06T05:52:00Z
-    webUrl: "https://www.afr.com/politics/federal/labor-must-plan-for-voice-failure-marcia-langton-20230906-p5e2dz"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 39
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.1931%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/f60a2fc04af9350d26f0608823a735846834a815"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Peter Dutton says there is 'overwhelming support for constitutional recognition' after pitching second referendum if Voice fails"
     excerpt: "“I do think there is overwhelming support for constitutional recognition, it’s been the policy of the Liberal Party back to John Howard days.” Voters just did not support Prime Minister Anthony Albanese's Voice proposal because they do not want it in ..."
     publishedDateTime: 2023-09-06T12:10:00Z
