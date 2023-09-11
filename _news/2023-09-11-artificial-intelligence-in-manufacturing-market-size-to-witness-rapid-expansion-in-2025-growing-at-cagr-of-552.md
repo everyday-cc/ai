@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1107045123/Artificial-Intelligence-In-Manufactu
 webUrl: "https://menafn.com/1107045123/Artificial-Intelligence-In-Manufacturing-Market-Size-To-Witness-Rapid-Expansion-In-2025-Growing-At-Cagr-Of-552"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "Rehabilitation Robots Market Revenue To Cross Usd 3.5 Billion By 2031 At A Cagr Of 18.2% | Transparency Market Research"
+    excerpt: "Rehabilitation Robots Market Rise in prevalence of brain-related disorders, increase in number of patients with physical disabilities, an"
+    publishedDateTime: 2023-09-11T08:53:00Z
+    webUrl: "https://menafn.com/1107043430/Rehabilitation-Robots-Market-Revenue-To-Cross-Usd-35-Billion-By-2031-At-A-Cagr-Of-182-Transparency-Market-Research"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 15
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?245305"
+        width: 436
+        height: 250
+        isCached: true
 
 secured: "bWc6+sX3hDd193rEDtQ03JaEDm2zNI8hxIzGy5gkav5p1MDXGlqg2aeVfRExsP48XqyxuBZl++EkGy9kECoB0KzEWHNE5K4b1KKD9cKhfJ3+E3Z7agYC92SAPWYytha0BNAAmptr+HUBs3hMZVWai7E5OYwsVKMPzerL8cRNTn4SgTCo1xUdUmcrHvFouXzK/fxMSROQOmgF5CXozuhcUTxaVfV3urtiRV3/RqyaAChxEB4tjcYvKl3bcsVtRGMWQFV/Ly0kT/5fvO1NRnzzQHP8RpHDAv3qIT71NEVvd+8VSgEbij86KOkYUuG6cH1iTfHWvJJ/8L86AvPmPpUaUCf91CrH08QeBsd8WkwVj5E=;bgyaHniQlTYEHXhNPNxcxQ=="
 ---

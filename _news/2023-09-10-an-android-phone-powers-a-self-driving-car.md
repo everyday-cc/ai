@@ -25,67 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving Car Revolution Is Coming, But Slowly"
-    excerpt: "In Munich, where this week's IAA motor show is taking place, an interactive street survey elicits an overwhelming \"yes\" when asking passers-by if they would take a self-driving taxi from the station to the Oktoberfest beer festival."
-    publishedDateTime: 2023-09-07T05:30:00Z
-    webUrl: "https://www.barrons.com/news/self-driving-car-revolution-is-coming-but-slowly-9c5588b2"
-    ampWebUrl: "https://www.barrons.com/amp/news/self-driving-car-revolution-is-coming-but-slowly-9c5588b2"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/self-driving-car-revolution-is-coming-but-slowly-9c5588b2"
+  - title: "Are electric and self-driving cars really a good idea?"
+    excerpt: "They just need occasional tires and wiper blades. It’s been about 5 years since sages predicted self-driving cars would be available for all in 5 years. It turns out that it’s a lot harder than they thought. Several attempts have disappointed or failed ..."
+    publishedDateTime: 2023-09-09T10:06:00Z
+    webUrl: "https://www.westhawaiitoday.com/2023/09/09/opinion/are-electric-and-self-driving-cars-really-a-good-idea/"
+    ampWebUrl: "https://www.westhawaiitoday.com/2023/09/09/opinion/are-electric-and-self-driving-cars-really-a-good-idea/amp/"
+    cdnAmpWebUrl: "https://www-westhawaiitoday-com.cdn.ampproject.org/c/s/www.westhawaiitoday.com/2023/09/09/opinion/are-electric-and-self-driving-cars-really-a-good-idea/amp/"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
+      name: West Hawaii Today
+      domain: westhawaiitoday.com
     quality: 44
     images:
-      - url: "https://www.barrons.com/asset/external-media/afp/AFP9643577245828168390437146037747688022783---1.jpg"
-        width: 768
-        height: 480
-        isCached: true
-  - title: "Self-driving car revolution is coming, but slowly"
-    excerpt: "Pandemic-related disruptions to the car industry, a shift towards investing in electrification and the sheer complexity of the technology have all contributed to keeping the autonomous-driving revolution stuck in the slow lane. Now, \"we're more inclined to say it will happen by 2030,\" Aufrere told AFP."
-    publishedDateTime: 2023-09-08T09:00:00Z
-    webUrl: "https://www.theeastafrican.co.ke/tea/science-health/self-driving-car-revolution-is-coming-but-slowly-4362258"
-    ampWebUrl: "https://www.theeastafrican.co.ke/tea/science-health/self-driving-car-revolution-is-coming-but-slowly-4362258?view=htmlamp"
-    cdnAmpWebUrl: "https://www-theeastafrican-co-ke.cdn.ampproject.org/c/s/www.theeastafrican.co.ke/tea/science-health/self-driving-car-revolution-is-coming-but-slowly-4362258?view=htmlamp"
-    type: article
-    provider:
-      name: The EastAfrican
-      domain: theeastafrican.co.ke
-    quality: 44
-    images:
-      - url: "https://www.theeastafrican.co.ke/resource/blob/4362272/93c4c276d2a5b72180c6a801c040f6ee/iaa-data.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Why experts feel self-driving car revolution still a decade away despite enthusiasm"
-    excerpt: "In Munich, where this week's IAA motor show is taking place, an interactive street survey elicits an overwhelming \"yes\" when asking passers-by if they would take a self-driving taxi from the station to the Oktoberfest beer festival. A modified self-driving ..."
-    publishedDateTime: 2023-09-07T04:25:00Z
-    webUrl: "https://www.hindustantimes.com/car-bike/why-experts-feel-self-driving-car-revolution-still-a-decade-away-despite-enthusiasm-101694058998684.html"
-    ampWebUrl: "https://www.hindustantimes.com/car-bike/why-experts-feel-self-driving-car-revolution-still-a-decade-away-despite-enthusiasm-101694058998684-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/car-bike/why-experts-feel-self-driving-car-revolution-still-a-decade-away-despite-enthusiasm-101694058998684-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 38
-    images:
-      - url: "https://www.hindustantimes.com/ht-img/img/2023/09/07/1600x900/GERMANY-AUTOMOBILE-SHOW-IAA-29_1694060041436_1694060073296.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "More self-driving cars are coming to Austin"
-    excerpt: "The mayors of Austin and Tuscaloosa made a barbecue bet on this weekend's big game between Texas and Alabama. Mayor Kirk Watson will put up Central Texas BBQ from Micklethwait Craft Meat. Tuscaloosa Mayor Walt Maddox will wager a spread from Dreamland BBQ."
-    publishedDateTime: 2023-09-07T14:34:00Z
-    webUrl: "https://www.kxan.com/video/more-self-driving-cars-are-coming-to-austin/8966813/"
-    type: article
-    provider:
-      name: KXAN
-      domain: kxan.com
-    quality: 24
-    images:
-      - url: "https://www.kxan.com/wp-content/themes/nexstar/client/src/images/footer/nexstar-logo-white-nmg.png"
-        width: 396
-        height: 202
+      - url: "https://www.westhawaiitoday.com/wp-content/uploads/2021/08/og_image_logo.png"
+        width: 400
+        height: 400
         isCached: true
   - title: "City of Austin releases new data on self-driving cars"
     excerpt: "Self-driving cars may be the way of the future, but they're encountering quite a few glitches in the here and now. The City of Austin is out with some new numbers on just how many incidents there have been involving those driverless cars."
@@ -98,15 +52,6 @@ related:
       name: FOX 7 Austin KTBC
       domain: fox7austin.com
     quality: 24
-  - title: "Self-driving car revolution coming, but slowly"
-    excerpt: "In Munich at last week's IAA motor show, an interactive street survey elicits an overwhelming \"yes\" when asking passers-by if they would take a self-driving taxi from the station to the Oktoberfest beer festival."
-    publishedDateTime: 2023-09-10T21:38:00Z
-    webUrl: "https://japantoday.com/category/tech/self-driving-car-revolution-is-coming-but-slowly"
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 4
 
 secured: "Fkb6zb5RO8qOROXE8Gk9xojS8nsq8JwYBT1KuH3sgN5TEZ6IsbXjvzuSoIqU9WqHVRhiJQMdIW/8EPBO7n/3KdlkbLR3LNYOlv3p7+pDIv3dOClOqJUvjpGCzL1zJQb4E1QNyHdNxoXygrvrr9cahbzlOLJWEM0vuI0xCebk9hWoIQZItnpZef0LsO8Nf0Oeey2M/pzIdUA9p9+EHqFAnxYfh7B1fHX57x2Kkyix03OyRgE2RWbDTZPXnsB7wPfaBumD9VZfiUAN0X0KNxCVb068MwO5J9v5VHeEWon77hyyXGbB8JNULYMEo/W956uRZ5BGWGqZQPTy1wbKge9p3281oZvZ8ujc9PU6q/fNhhs=;7gh4yzdLWmadFXeHPuXGzQ=="
 ---

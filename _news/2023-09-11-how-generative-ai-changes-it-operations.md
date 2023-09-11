@@ -183,6 +183,15 @@ related:
       name: Axios
       domain: axios.com
     quality: 17
+  - title: "MLCommons Releases New MLPerf Results that Highlight Growing Importance of Generative AI and Storage"
+    excerpt: "Submitters include: ASUSTeK, Azure, cTuning, Connect Tech ... and optimizing storage for machine learning applications, as well as for designing next-generation systems and technologies. Training neural networks is both a compute and data-intensive ..."
+    publishedDateTime: 2023-09-11T16:21:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/b34447445/mlcommons-releases-new-mlperf-results-that-highlight-growing-importance-of-generative-ai-and-stora"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 4
 
 secured: "7DhoQVWMMiinxjeNeZs9qLsw/j5pTa4XS4TsSw3v7b9itzMCFGU6aBwqwd17PUO5YAh8Haeep1Nen3r7KdRV7WKelYeiNOA9y/l/HctJ8SQuBLUJyOQPHCYw9jvXVxFyUX94+nMXwzoXHPmDsRZwiW8x/L8cqgismuBMqvT5b2K85hIIvLJ2q6HznjI6u0QBYWkTdu9fg6uB5I0BD0mstr61P7ZASpSLqZkKgEJibt8RsF0S2ILHSvUB/6ZBD0Cu7kXrYvJpWGSgmWwyoLxxmHAETMUxLdYzzY3DwaHN6Cl1fL29FvhZ5zRosr+Rhoeda84ZK5V0ReJDY8cofdYr+yKHhYxfeCjMUAK9l8kDaqnNa3JGlcpzIeD1cnbwUCcZO2A3/VX7+xu98pedw2CrRHrNFN1EuavnX3TRGpoV78Q3SGpth2yVNSKfv7N5ToWycQS2cpd/F96kv3arll5HXPoOMlZe4TsYvX3G+nSr4z6qnqKBEjQdE3ZUI80+gV81LBcqRuL5juaABfXB0BMekA==;YrFeQQngPwjAFpQnYBTnsw=="
 ---

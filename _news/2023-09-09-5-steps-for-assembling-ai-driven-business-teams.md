@@ -101,6 +101,15 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
+    quality: 49
+  - title: "AI-generated music used for business branding"
+    excerpt: "This is an example of AI-generated music, created by amp's Sonic Hub tool using 'Sonic DNA', which was composed for a finance client."
+    publishedDateTime: 2023-09-11T19:26:00Z
+    webUrl: "https://www.bbc.com/news/av/business-66781641"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
     quality: 47
   - title: "How to build an AI Agent run virtual business"
     excerpt: "If you have interested in fully automating workflows using artificial intelligence you might be interested in ... the datasets ensure that the project remains open for academic and research use. These licenses also stipulate the boundaries for usage ..."

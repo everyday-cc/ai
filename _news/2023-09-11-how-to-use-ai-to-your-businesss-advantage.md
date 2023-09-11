@@ -6,7 +6,7 @@ publishedDateTime: 2023-09-11T13:15:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/how-to-use-ai-to-your-businesss-advantage/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/how-to-use-ai-to-your-businesss-advantage/"
 type: article
-quality: 47
+quality: 49
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 related:
   - title: "Building AI for business: IBM’s Granite foundation models"
@@ -101,6 +102,15 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
+    quality: 47
+  - title: "AI-generated music used for business branding"
+    excerpt: "This is an example of AI-generated music, created by amp's Sonic Hub tool using 'Sonic DNA', which was composed for a finance client."
+    publishedDateTime: 2023-09-11T19:26:00Z
+    webUrl: "https://www.bbc.com/news/av/business-66781641"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
     quality: 47
   - title: "How to build an AI Agent run virtual business"
     excerpt: "If you have interested in fully automating workflows using artificial intelligence you might be interested in ... the datasets ensure that the project remains open for academic and research use. These licenses also stipulate the boundaries for usage ..."

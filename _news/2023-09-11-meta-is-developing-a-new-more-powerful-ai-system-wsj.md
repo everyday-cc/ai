@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/meta-is-developing-new-more-pow
 webUrl: "https://www.reuters.com/technology/meta-is-developing-new-more-powerful-ai-system-wsj-2023-09-10/"
 type: article
 quality: 67
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -103,6 +103,20 @@ related:
       - url: "https://img.rasset.ie/001c1023-1600.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Meta is developing a new, more powerful AI system, Wall Street Journal reports"
+    excerpt: "The Wall Street Journal reported on September 10, 2023, that Meta is on a mission to create an AI system that can compete with OpenAI's state-of-the-art models."
+    publishedDateTime: 2023-09-11T18:15:00Z
+    webUrl: "https://techstory.in/meta-is-developing-a-new-more-powerful-ai-system-wall-street-journal-reports/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 37
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2023/09/107101365-1660073087949-gettyimages-1242008364-RAFAPRESS_19072022-01776-360x240.jpeg"
+        width: 360
+        height: 240
         isCached: true
   - title: "Today in AI: Meta is developing a new AI system, Google rolls out AI-generated search enhancement outside US, and more"
     excerpt: "On August 31, the company expanded its search feature powered by SGE (Smart Global Engine) to two other regions, namely India and Japan. These two countries are noteworthy for being the first to have access to the new AI extension outside of the US. More here."

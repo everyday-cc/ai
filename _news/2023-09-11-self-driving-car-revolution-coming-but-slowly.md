@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "I took my first self-driving car ride with my teenage son and it felt comfortably dull"
+    excerpt: "Consumers, investors and regulators better get ready, because the technology is here and it's so advanced it seems natural and safe upon first use."
+    publishedDateTime: 2023-09-11T19:45:00Z
+    webUrl: "https://www.cnbc.com/2023/09/11/first-waymo-trip-comfortably-dull-easy-to-see-becoming-normal.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/09/11/first-waymo-trip-comfortably-dull-easy-to-see-becoming-normal.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/11/first-waymo-trip-comfortably-dull-easy-to-see-becoming-normal.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 66
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107298772-1694468448203-Inside_waymo.jpg?v=1694468756"
+        width: 1177
+        height: 661
+        isCached: true
   - title: "Self-driving Car Revolution Is Coming, But Slowly"
     excerpt: "In Munich, where this week's IAA motor show is taking place, an interactive street survey elicits an overwhelming \"yes\" when asking passers-by if they would take a self-driving taxi from the station to the Oktoberfest beer festival."
     publishedDateTime: 2023-09-07T05:30:00Z
@@ -51,61 +67,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "An Android Phone Powers A Self Driving Car"
-    excerpt: "As auto manufacturers have brought self-driving features to their products, we’re told about how impressive their technologies are and just how much computing power is on board to make it happen."
-    publishedDateTime: 2023-09-10T00:00:00Z
-    webUrl: "https://hackaday.com/2023/06/27/an-android-phone-powers-a-self-driving-car/"
+  - title: "The Self-Driving Car Era May Finally Be Arriving"
+    excerpt: "Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world"
+    publishedDateTime: 2023-09-07T16:29:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-09-07/the-self-driving-car-era-may-finally-be-arriving"
     type: article
     provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 39
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2023/06/android-self-drive-featured.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Why experts feel self-driving car revolution still a decade away despite enthusiasm"
-    excerpt: "In Munich, where this week's IAA motor show is taking place, an interactive street survey elicits an overwhelming \"yes\" when asking passers-by if they would take a self-driving taxi from the station to the Oktoberfest beer festival. A modified self-driving ..."
-    publishedDateTime: 2023-09-07T04:25:00Z
-    webUrl: "https://www.hindustantimes.com/car-bike/why-experts-feel-self-driving-car-revolution-still-a-decade-away-despite-enthusiasm-101694058998684.html"
-    ampWebUrl: "https://www.hindustantimes.com/car-bike/why-experts-feel-self-driving-car-revolution-still-a-decade-away-despite-enthusiasm-101694058998684-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/car-bike/why-experts-feel-self-driving-car-revolution-still-a-decade-away-despite-enthusiasm-101694058998684-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 38
-    images:
-      - url: "https://www.hindustantimes.com/ht-img/img/2023/09/07/1600x900/GERMANY-AUTOMOBILE-SHOW-IAA-29_1694060041436_1694060073296.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "More self-driving cars are coming to Austin"
-    excerpt: "The mayors of Austin and Tuscaloosa made a barbecue bet on this weekend's big game between Texas and Alabama. Mayor Kirk Watson will put up Central Texas BBQ from Micklethwait Craft Meat. Tuscaloosa Mayor Walt Maddox will wager a spread from Dreamland BBQ."
-    publishedDateTime: 2023-09-07T14:34:00Z
-    webUrl: "https://www.kxan.com/video/more-self-driving-cars-are-coming-to-austin/8966813/"
-    type: article
-    provider:
-      name: KXAN
-      domain: kxan.com
-    quality: 24
-    images:
-      - url: "https://www.kxan.com/wp-content/themes/nexstar/client/src/images/footer/nexstar-logo-white-nmg.png"
-        width: 396
-        height: 202
-        isCached: true
-  - title: "City of Austin releases new data on self-driving cars"
-    excerpt: "Self-driving cars may be the way of the future, but they're encountering quite a few glitches in the here and now. The City of Austin is out with some new numbers on just how many incidents there have been involving those driverless cars."
-    publishedDateTime: 2023-09-11T02:37:00Z
-    webUrl: "https://www.fox7austin.com/news/austin-texas-self-driving-cars"
-    ampWebUrl: "https://www.fox7austin.com/news/austin-texas-self-driving-cars.amp"
-    cdnAmpWebUrl: "https://www-fox7austin-com.cdn.ampproject.org/c/s/www.fox7austin.com/news/austin-texas-self-driving-cars.amp"
-    type: article
-    provider:
-      name: FOX 7 Austin KTBC
-      domain: fox7austin.com
-    quality: 24
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 34
 
 secured: "tqHMGNZ2RHgjOtuTSqmdm3EiCBwQeBMQDcTMS2c+vLsbJONvRagx8pHSlz0+zlMy2m0zqanNEipWiwtrtsy7G3qFWplYed7O7zZRdnxOP1+sqeETDC8br2WFFNOkpIYG4PpUB2nD+XuxL0eo1b8gVpQp3wxkkDX4U+JssUN8j/Lv3OqgpqvO9nQSweHR5vPruef98TWFxi9aJyMig2rbyQE1HiIkQ07iX6vZGo/xeyp3kYZU9Aj3HEM05VT5WgpoDIm7TUiI8gkTHbwQO64ogB2bXgHjUch/eP7Uqu2DNiJTIzhK57aVuKoY+2jhOsboPXEvpAbVpmDaHmsx2CvWN70THgadZMdceNZZV+9G4Lg0KPXrtEPQItCVNjPkSnlAO0/MlbtqHW2aOOr+4A0f/7Yh/61415TplTL+8/Qj/CtgNYNVRMyqoThCVyU/NBjCFSJ369D1pBOsVsIlARjtUWt+FDsJK4a3iCVVynxg5Cju5IBGdf0Wjk+EhUBhT9XGqnNbqp9VZyJpbR79kuZydA==;h8ELMxExukwccewNV0QGVQ=="
 ---

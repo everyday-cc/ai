@@ -67,6 +67,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "US STOCKS-Wall Street rises on Tesla soars on AI optimism"
+    excerpt: "Wall Street stocks rose on Monday, with the Nasdaq jumping over 1% as Tesla surged on optimism around artificial intelligence and investors awaited inflation data due later this week. Tesla rallied almost 10% after Morgan Stanley upgraded the electric car maker to \"overweight\" from \"equal-weight,"
+    publishedDateTime: 2023-09-11T18:33:00Z
+    webUrl: "https://www.devdiscourse.com/article/headlines/2589843-us-stocks-wall-street-rises-on-tesla-soars-on-ai-optimism"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 36
 
 secured: "mCTKa69oMW22/IGSArn5nOeqPmlKPuyQMkG5LL4AnLUUN3gIXTiXpMe6jMOmFwp8o9DMQcc9vfXyfpc9FXgEyaAWxMH7KmSJDJXZ7yKTcQCG8YRS5JG+kQ8WZBEtwaFgU8WnWXlaHmgV0xoVs864n5eZcmnWU+KT1M2lMtig1ceoLzrvx8qeBbb96QtL0Z+FEMN+Hr91yA1b2A8HBQRXy3eJ4k719n2etkYzF/Q768mG+ublsYfZimIWC35kTPh84JnptZrBq7SGVWsjr7WeRME4HjP0YDGm4R87ootUA31WaUuTa6/H2sgVCJ3ltDJO9wbHQoWHiZrbyG0LG25cGb4lNQmGx68Mp7ZcYKCChEQ=;96cqFD+Q/4osjQJhrVmR/w=="
 ---

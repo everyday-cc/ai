@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-tr
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -31,21 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "North Las Vegas launching AI-powered translation software in 30 languages"
-    excerpt: "LAS VEGAS, Nev. (FOX5) - The City of North Las Vegas will officially launch the acquisition of over 30 languages through the previously released AI-powered, real-time translation technology ..."
-    publishedDateTime: 2023-09-07T04:00:00Z
-    webUrl: "https://www.fox5vegas.com/2023/09/06/north-las-vegas-launching-ai-powered-translation-software-30-languages/"
-    ampWebUrl: "https://www.fox5vegas.com/2023/09/06/north-las-vegas-launching-ai-powered-translation-software-30-languages/?outputType=amp"
-    cdnAmpWebUrl: "https://www-fox5vegas-com.cdn.ampproject.org/c/s/www.fox5vegas.com/2023/09/06/north-las-vegas-launching-ai-powered-translation-software-30-languages/?outputType=amp"
+  - title: "ICE Is Using Busted Translation AI That Can't Understand Detainees"
+    excerpt: "Bad AI has a price — and in the case of the United States immigration system's translation AI, that price could cost people their freedom."
+    publishedDateTime: 2023-09-10T09:37:00Z
+    webUrl: "https://futurism.com/the-byte/immigration-ai-services"
     type: article
     provider:
-      name: FOX5 Las Vegas
-      domain: fox5vegas.com
-    quality: 58
+      name: Futurism
+      domain: futurism.com
+    quality: 39
     images:
-      - url: "https://gray-kvvu-prod.cdn.arcpublishing.com/resizer/GFG0LSWzkeLWG-meVduRX4w-qpI=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/JB2QIFVWHNENLAQW6NWXKYLLWQ.jpg"
-        width: 800
-        height: 450
+      - url: "https://wp-assets.futurism.com/2023/09/immigration-ai-services.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "City of North Las Vegas expands AI-powered translation service to include 30 languages"
     excerpt: "The City of North Las Vegas has expanded its AI-powered translation technology to be available in 30 languages this week."

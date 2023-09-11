@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/09/openai-admits
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/openai-admits-that-ai-writing-detectors-dont-work/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -113,6 +113,15 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "OpenAI CEO Sam Altman Discusses Ethics & Global Scale Of Changes AI Brings"
+    excerpt: "Altman questions whose morality defines AI safety and importance of making GPT-4 available, even if used in ways he disagrees with"
+    publishedDateTime: 2023-09-11T18:25:00Z
+    webUrl: "https://www.searchenginejournal.com/openai-ceo-sam-altman-discusses-ethics-global-scale-of-changes-ai-brings/495991/"
+    type: article
+    provider:
+      name: Searchenginejournal.com
+      domain: searchenginejournal.com
+    quality: 32
   - title: "A|I: The AI Times – Cohere reportedly hunting for fresh funding as OpenAI passes $1B revenue pace"
     excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
     publishedDateTime: 2023-09-07T09:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/tesla-shares-climb-5-8-after-m
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tesla-shares-climb-5-8-after-morgan-stanley-upgrades-to-buy-citing-ai-prowess-via-dojo-10b3e7dd"
 type: article
 quality: 99
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -68,6 +68,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "US STOCKS-Wall Street rises on Tesla soars on AI optimism"
+    excerpt: "Wall Street stocks rose on Monday, with the Nasdaq jumping over 1% as Tesla surged on optimism around artificial intelligence and investors awaited inflation data due later this week. Tesla rallied almost 10% after Morgan Stanley upgraded the electric car maker to \"overweight\" from \"equal-weight,"
+    publishedDateTime: 2023-09-11T18:33:00Z
+    webUrl: "https://www.devdiscourse.com/article/headlines/2589843-us-stocks-wall-street-rises-on-tesla-soars-on-ai-optimism"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 36
 
 secured: "a/Zpaj80WzTRQHpL1+LbMmQYdlUIlrAYFrork+ak3KZdiUhLuErd7dWsVmh7qyqQUIUtPi4uHfScN7Yjc55OPiGjmWZh4fXF/V2w14Ugab1fPy1ne9oH6md0+AhgUW3U3CWGmCGKIJE7XusF0VBSkNwd5JP5OOrJIfM7nEaVEA58M8a58JWzgfJJy+RTLjIhbeRSSK0m1ooHyhVLCXg6LELQoqgx4u4J6JciQbCX2CE2j5r7Prp6fW1b92m+/uCSKF9T1Rruvki15W+/kPqKsemvgd1MvbhwECp/eh7uRt/pShMSy1xzr+NUgbZadbrDZVYQ4YBymXyBB2IvN90jzr9caek/p5XYxcBYT+OlHG4=;oz8ooSqVuwz5bLnKJtGSlw=="
 ---

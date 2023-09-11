@@ -33,15 +33,6 @@ related:
         width: 1600
         height: 1066
         isCached: true
-  - title: "The Self-Driving Car Era May Finally Be Arriving"
-    excerpt: "Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world"
-    publishedDateTime: 2023-09-07T16:29:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-09-07/the-self-driving-car-era-may-finally-be-arriving"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 34
 
 secured: "BvaF5Zl4ER0iC8DhqKyiKiCsi+g34rEXvc2/qS1/ahhuogthEN3lCgNVfNlfUwWLDH0wphZHkC9M+JTG7t4jAUppN/y1XSAbnhbT1Y6aeV+ocfuy/3I1JLQb35RpDZVzmTQsEhMB8Y27zY2UF4WzymkZbghuCBfcfqYmahrE34ytWYAger8MG+Ncjc5eoIm7qxt0PObXL+xUuhr01Rph9ckVTBxNltzSF/sU9y12gy4cZtFGwOPq1WDqUGi2C/nWd+W0sUqmO2a965O0mlS1qH2LbVG5hSLbjoN+Dv9xAUuy+83hB2+ouNx8p3kSLnU4Mony0X2QM/pGdTiVQIntDbDoSdNoddolWevJc+JX5vw=;sA4VT+WVyntwUe3kNagTag=="
 ---

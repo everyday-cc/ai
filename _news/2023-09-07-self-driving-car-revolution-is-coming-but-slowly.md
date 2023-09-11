@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/news/self-driving-car-revolution-is-comi
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/self-driving-car-revolution-is-coming-but-slowly-9c5588b2"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "I took my first self-driving car ride with my teenage son and it felt comfortably dull"
+    excerpt: "Consumers, investors and regulators better get ready, because the technology is here and it's so advanced it seems natural and safe upon first use."
+    publishedDateTime: 2023-09-11T19:45:00Z
+    webUrl: "https://www.cnbc.com/2023/09/11/first-waymo-trip-comfortably-dull-easy-to-see-becoming-normal.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/09/11/first-waymo-trip-comfortably-dull-easy-to-see-becoming-normal.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/11/first-waymo-trip-comfortably-dull-easy-to-see-becoming-normal.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 66
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107298772-1694468448203-Inside_waymo.jpg?v=1694468756"
+        width: 1177
+        height: 661
+        isCached: true
   - title: "Self-driving car revolution is coming, but slowly"
     excerpt: "Pandemic-related disruptions to the car industry, a shift towards investing in electrification and the sheer complexity of the technology have all contributed to keeping the autonomous-driving revolution stuck in the slow lane. Now, \"we're more inclined to say it will happen by 2030,\" Aufrere told AFP."
     publishedDateTime: 2023-09-08T09:00:00Z
@@ -43,61 +59,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "An Android Phone Powers A Self Driving Car"
-    excerpt: "As auto manufacturers have brought self-driving features to their products, we’re told about how impressive their technologies are and just how much computing power is on board to make it happen."
-    publishedDateTime: 2023-09-10T00:00:00Z
-    webUrl: "https://hackaday.com/2023/06/27/an-android-phone-powers-a-self-driving-car/"
+  - title: "The Self-Driving Car Era May Finally Be Arriving"
+    excerpt: "Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world"
+    publishedDateTime: 2023-09-07T16:29:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-09-07/the-self-driving-car-era-may-finally-be-arriving"
     type: article
     provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 39
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2023/06/android-self-drive-featured.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Why experts feel self-driving car revolution still a decade away despite enthusiasm"
-    excerpt: "In Munich, where this week's IAA motor show is taking place, an interactive street survey elicits an overwhelming \"yes\" when asking passers-by if they would take a self-driving taxi from the station to the Oktoberfest beer festival. A modified self-driving ..."
-    publishedDateTime: 2023-09-07T04:25:00Z
-    webUrl: "https://www.hindustantimes.com/car-bike/why-experts-feel-self-driving-car-revolution-still-a-decade-away-despite-enthusiasm-101694058998684.html"
-    ampWebUrl: "https://www.hindustantimes.com/car-bike/why-experts-feel-self-driving-car-revolution-still-a-decade-away-despite-enthusiasm-101694058998684-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/car-bike/why-experts-feel-self-driving-car-revolution-still-a-decade-away-despite-enthusiasm-101694058998684-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 38
-    images:
-      - url: "https://www.hindustantimes.com/ht-img/img/2023/09/07/1600x900/GERMANY-AUTOMOBILE-SHOW-IAA-29_1694060041436_1694060073296.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "More self-driving cars are coming to Austin"
-    excerpt: "The mayors of Austin and Tuscaloosa made a barbecue bet on this weekend's big game between Texas and Alabama. Mayor Kirk Watson will put up Central Texas BBQ from Micklethwait Craft Meat. Tuscaloosa Mayor Walt Maddox will wager a spread from Dreamland BBQ."
-    publishedDateTime: 2023-09-07T14:34:00Z
-    webUrl: "https://www.kxan.com/video/more-self-driving-cars-are-coming-to-austin/8966813/"
-    type: article
-    provider:
-      name: KXAN
-      domain: kxan.com
-    quality: 24
-    images:
-      - url: "https://www.kxan.com/wp-content/themes/nexstar/client/src/images/footer/nexstar-logo-white-nmg.png"
-        width: 396
-        height: 202
-        isCached: true
-  - title: "City of Austin releases new data on self-driving cars"
-    excerpt: "Self-driving cars may be the way of the future, but they're encountering quite a few glitches in the here and now. The City of Austin is out with some new numbers on just how many incidents there have been involving those driverless cars."
-    publishedDateTime: 2023-09-11T02:37:00Z
-    webUrl: "https://www.fox7austin.com/news/austin-texas-self-driving-cars"
-    ampWebUrl: "https://www.fox7austin.com/news/austin-texas-self-driving-cars.amp"
-    cdnAmpWebUrl: "https://www-fox7austin-com.cdn.ampproject.org/c/s/www.fox7austin.com/news/austin-texas-self-driving-cars.amp"
-    type: article
-    provider:
-      name: FOX 7 Austin KTBC
-      domain: fox7austin.com
-    quality: 24
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 34
   - title: "Self-driving car revolution coming, but slowly"
     excerpt: "In Munich at last week's IAA motor show, an interactive street survey elicits an overwhelming \"yes\" when asking passers-by if they would take a self-driving taxi from the station to the Oktoberfest beer festival."
     publishedDateTime: 2023-09-10T21:38:00Z

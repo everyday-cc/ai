@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/08/Gen_AIM.jpg"
@@ -24,6 +25,6 @@ images:
     height: 900
     isCached: true
 
-secured: "d5pXSPrbiDWtQaPOpNOfCbP56K9oJcCH+6WRKWiykxzRO6v5D9gyRSXoI4Tj4tj/w/Q42LCFpLA5k5liYb3jV0w6qYg+6b4iIWf+gDQRBBF3nWlvzuHSS/GXf93kekGj/wvCqCflS8ZPgsjr97pAm6eUcMi4+cIwUxqGC/mDjQyzR44CZps2x9eJuv/96SZTpRoP7REIgTFd5pKt2668yxNXIzqvd1PO5JVQGBdY8zZVo8tT8VRP6yCRv0LhK/OW6bqoOEsOURoH6gFdhZVcgWpKWmUJviL/fBkiDP3FZDdScso61tYIhNAiWAY+c/qMg8gnBzXisVt9ljCt996EGdbaq26ajtUDcIyOlPRpSK8=;qIDjO/Ae8NqUyKs/vo+tuw=="
+secured: "trX+ZXZvZ9CBqJWEpIbaK7htWwWQSadiplDdb9ccsvT4wX/7xHWA0T1e9eTL81zTocezoiFYVuVDI6xPDjJDI1TtBIAEq/CAKxD4qBHaEq2pVC1SPoqLuEOWRIVuj14i9cJhKQY4SB17ahLzogR70iz3FTDbHBjdtQHDH3jpyxMJtlfGoDQPDLszPFqF+tio7dEEB+o6JoVl8rjAByqv8u1/xWCXZZ5VMTOgwvuyHnARC7ZSvHEeXtvuZRmBKWSMdYDzRtK/0ZK2dwHlR2tdyvm4vWASX4ZfZOXpSZlRqY0GRLeJSUPB9I7cJ6FPmjkJySue3gBwcnS2Exn5sqoRGWG9RLo8zXIEGcnoQQ5uQl6ZWNYTfwmOfMUV/x8OZeXIRKDL56pMDQhYT2qCccSi2fDTH5szHU8m3XwKZwdo6D8icRi8Otw9KODHJMsqQPgMpu71eQ8Ktf+ZHw+Mcr/RLNoynEq1k836yq9ylVY+DUl34KpOZL4gLX54cF2zK6A3IiWTsM2jtAhgKzZtyvf8CA==;scoY9Q0FRFIf6AeBx945sw=="
 ---
 

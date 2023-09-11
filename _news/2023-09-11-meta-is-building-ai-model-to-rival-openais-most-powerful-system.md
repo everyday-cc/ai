@@ -70,6 +70,20 @@ related:
         width: 1024
         height: 532
         isCached: true
+  - title: "Meta developing an AI model more powerful than LLaMa 2"
+    excerpt: "Meta believes that the new model will be as powerful as GPT-4, OpenAI's most impressive LLM yet. Meta is competing with the likes of Google, OpenAI, Microsoft, and Apple, all in a deep race and a rush to invest their resources and finances in developing the latest artificial intelligence models."
+    publishedDateTime: 2023-09-11T19:03:00Z
+    webUrl: "https://interestingengineering.com/innovation/meta-ai-model-more-powerful-llama-2"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/09/11/image/jpeg/FjZIX0P2fuHnGgDSH6Ie34qgvPiaK5ghlmTAYdzB.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "z8ZCyfDVQ8n+ulQ9TllXnl0TK0kEEO6L0pDxPiY6LJeAZ2mS/BtFpJ6c59P3lCiiWDL7wSeVp0eG3Z5sjFTp6IYJhLhejsP1FHBpkvwMUe278hCkjj/NRmCcnHE/WNDjJWFWLhM7gHu3cZTqqbUtFeA7a+secUkdQvlYW7FN9Vkc5C2a58hEWk5BkY1JWS4ieF8yg20K7VpNTUM7N8ckLbtfrs0Kr4zE8nDzwam8QlyjOBetlDI5hUFk4ZEPxkdi8egn83PQd9Qe95c/qEm3wBfEmAA4u2LgoZYPzOaKZEokjMFOQNNYN9wvmbTnk2ZkHEJQuDce7pL9UVJtuJy4dhsdGkg1pkiLF/5MpEDN4WDDJxmYnIjsuHWnSyAPQC0CdMN+/OEa9ZvL0+z5sxf1az01Vptoy4UvQcX5a3R2Pg990FZKl7aDfB9hA2In+XWZA8yjsQVY3llePAF+jK7Be0KmdW/LT+HekmIf1gWi0v/E1XhzByfO9ais/rMBym1C3y7pf5Sb8/6kVpLl/bBmzw==;DMe5Xkr/iCWKoJ8Vi9P1Uw=="
 ---

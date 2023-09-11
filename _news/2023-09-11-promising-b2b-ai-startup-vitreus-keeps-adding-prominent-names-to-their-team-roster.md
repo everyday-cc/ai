@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Promising B2B AI-startup VITREUS Keeps Adding Prominent Names to Their Team Roster"
-excerpt: "LAKE MARY, Fla., Sept. 11, 2023 /PRNewswire/ -- Exciting news from VITREUS, the trailblazing AI startup set to revolutionize Regulatory Compliance through Artificial Intelligence, as they welcome another Web3 celebrity into their core team. Vitreus not ..."
-publishedDateTime: 2023-09-11T13:55:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/09/n34441643/promising-b2b-ai-startup-vitreus-keeps-adding-prominent-names-to-their-team-roster"
-webUrl: "https://www.benzinga.com/pressreleases/23/09/n34441643/promising-b2b-ai-startup-vitreus-keeps-adding-prominent-names-to-their-team-roster"
+excerpt: "Vitreus not only has recently been accepted into the WebSummit ALPHA program as a \"startup of extreme innovation\", but they're also making waves across numerous fields. Fresh on the heels of appointing the esteemed Brian Harrel of AVANGRID, VITREUS is also adding another prominent name to their roster."
+publishedDateTime: 2023-09-11T13:53:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/09/11/9878303.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/09/11/9878303.htm"
 type: article
-quality: 11
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/2206831/1.jpg"
+    width: 400
+    height: 300
+    isCached: true
 
 related:
   - title: "Promising B2b Ai-Startup Vitreus Keeps Adding Prominent Names To Their Team Roster"
@@ -33,6 +39,6 @@ related:
         height: 250
         isCached: true
 
-secured: "OkhAR+cmgojSxGkrasg4EL3YLl5HoX5tRfXW9qWkVMo65ZjZY+dVIlpVAyc1W8umZsQcB4HB7Tkc/NAlxOIrtMuoch5zzc4GKJMlErcWG6FTKTMMjarcuYXrat1I3qIAgSV1yPMjCKIYTlglIRd4/AD8YRyZunN/pOVdKdVtlbHCB5yt9O6kRCAtSd+z2P6NXohbd4NZlusDuhT4B8yODSoQBDu+BflTIp/0N5ASXHcLLjVpxCQADcER2+WzafyT9RdICWa6IfcGq5HHU/EGeaIQcTHFUFEpF7L3MEH57SsMkKm2Npngd60S6KAkLy/xxmXAvc+bTj5KiiPBB7Q7gVOmFKcbJ519tvbyGYejc7s=;JH1w5xUQa7comjM2oka5Rg=="
+secured: "EdAbkuMhatt96BILr7xdfAthly6UtapeWLgEGL97gvbWNe8iM2/hSnJFjVGIJ11muI+UYa05HY2LLYG60HOUSIHQoDNRr1TzxHrtl27F7j2XAHw7CT6RqPuIEPJCqcOqXTwsAbkFBxXKM0hzqfi77qK1NPGammkwIc++/UdmqqFa6HhGfyS/qjshbrJprtkcZy1VLUPUx47Cblo3Bj2SH3gNLNml79TowozbieSUTZIJFU4rKDygfInFaJ7YVEmfaaPSrBEepXWZvI2cPnCizHndTi3FKCmIsA5JqoFkd/THUr8e6wTKgmvRc8FOXN1qTemEbiVL2HV1nw7FSrYL4i0WoYSH4cMwBSHUJ3k1ZKw=;jMs4BYmvr4Idjl8O6t7LwA=="
 ---
 

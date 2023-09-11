@@ -66,6 +66,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "US STOCKS-Wall Street rises on Tesla soars on AI optimism"
+    excerpt: "Wall Street stocks rose on Monday, with the Nasdaq jumping over 1% as Tesla surged on optimism around artificial intelligence and investors awaited inflation data due later this week. Tesla rallied almost 10% after Morgan Stanley upgraded the electric car maker to \"overweight\" from \"equal-weight,"
+    publishedDateTime: 2023-09-11T18:33:00Z
+    webUrl: "https://www.devdiscourse.com/article/headlines/2589843-us-stocks-wall-street-rises-on-tesla-soars-on-ai-optimism"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 36
 
 secured: "e9q/ZLqfhk7O3dO0tW7NqHwD6s6bAwWF+ffQkAifFEpj/TeK2isZELNKAP3imwyPWjR34tHj0/FqIY1QskdcR+CwFbJUkk0sukMqpkMlfP36RnSkgdBPzRE2yyvUSjjKxPTavmfmthiNsbqiySwAEQERuMwk3q258KgKPbxSDRRQPfftXz5jDHW4zYTZEeOjCbNiwSabw4/i4qsxvQV/88XwXzL+uCzHG2FKR9kB4vBCkODBzR7IU92AM+w/F8lvHNeL6bPJ3ZT/qk4jhlFLHO8i6Ki2siJ5/DYFek0i33ZqmzN/YdMOn58hhcAkL9ZoUDhrlf5sL0kzlNAYOPe5WsQosmj/8NBHuiAwfQuJccZl5YEeI1e+00Br3hNrpDA89EjLLY5pBWA9HyEYYOBu8mbe7RVGIGt2m8D8z4RHZ/n2txfQoZ3fmAGMMBNcKHkl7/Qtx3kasctJraucKsdBWxhrktCR4bANvap3vEuYkyrQJgw63DQd70wWnt8qt7lMD4H1P1vhMI8XukosONbxTw==;orn7knUcOK2TxlMli0O8cQ=="
 ---

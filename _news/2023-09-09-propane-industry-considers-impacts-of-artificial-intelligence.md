@@ -27,15 +27,15 @@ images:
 related:
   - title: "AI leaders focus on impact on education at Derry conference"
     excerpt: "AI is the \"greatest threat but also potentially the greatest benefit to our students, staff and schools\", the group of teachers, led by Sir Anthony Seldon, headteacher of Epsom College in England, said in the letter. Prime Minister Rishi Sunak said regulation had to evolve at the same time as rapid changes are made in AI."
-    publishedDateTime: 2023-09-11T10:21:00Z
-    webUrl: "https://www.bbc.com/news/uk-northern-ireland-66774275"
-    ampWebUrl: "https://www.bbc.com/news/uk-northern-ireland-66774275.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-northern-ireland-66774275.amp"
+    publishedDateTime: 2023-09-11T15:07:00Z
+    webUrl: "https://www.bbc.co.uk/news/uk-northern-ireland-66774275"
+    ampWebUrl: "https://www.bbc.co.uk/news/uk-northern-ireland-66774275.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-northern-ireland-66774275.amp"
     type: article
     provider:
       name: BBC
-      domain: bbc.com
-    quality: 104
+      domain: bbc.co.uk
+    quality: 74
     images:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/ED53/production/_131055706_gettyimages-1498385993.jpg"
         width: 1024

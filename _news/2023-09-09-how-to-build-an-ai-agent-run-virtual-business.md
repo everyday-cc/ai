@@ -96,6 +96,15 @@ related:
         width: 1920
         height: 671
         isCached: true
+  - title: "How To Use AI To Your Business’s Advantage"
+    excerpt: "When incorporated wisely, AI technologies open new horizons for delivering products that stand out on the market and bring unique value to your customers."
+    publishedDateTime: 2023-09-11T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/how-to-use-ai-to-your-businesss-advantage/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "5 steps for assembling AI-driven business teams"
     excerpt: "We used OpenAI’s ChatGPT to assemble an AI-driven team: the results obtained were solid, and the evidence was clear."
     publishedDateTime: 2023-09-08T17:59:00Z
@@ -105,14 +114,14 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
-  - title: "How To Use AI To Your Business’s Advantage"
-    excerpt: "When incorporated wisely, AI technologies open new horizons for delivering products that stand out on the market and bring unique value to your customers."
-    publishedDateTime: 2023-09-11T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/how-to-use-ai-to-your-businesss-advantage/"
+  - title: "AI-generated music used for business branding"
+    excerpt: "This is an example of AI-generated music, created by amp's Sonic Hub tool using 'Sonic DNA', which was composed for a finance client."
+    publishedDateTime: 2023-09-11T19:26:00Z
+    webUrl: "https://www.bbc.com/news/av/business-66781641"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: BBC
+      domain: bbc.com
     quality: 47
 
 secured: "Lpvn3aTQ4kryj/8yw6YVZzVP5I9jBcsR8GOJHjH4jzjCXm4oiMOuu9ckdn+66e/sKi4zRQDILGK8H6SLxd5dvXdTv6X+4ISDqmX6lHfku1+aYJuKUYfVimQlqeqtDFG4xs3TXrsBUjcEbkHfNYMvIAw4fx8WZuzX5nMu8SyjCcHubTZ1cVZNS327PW/MHMLKe03cGGJBomGtCVdC473O1uEfhgPPBEI16gikJgUW5bQIjffuTEYOiIOuHXsZywAQBQ5h+c/zU9hUHAD8HTdxq6fX9sbC3+ltT0fTEHL+s2Y1011U4KxLqXDuXVPaJ+K2JBsVnF2LEBBcdG4aYmgxHe52oahqbQByeaJlKZ9RxwQ=;BpIH54yOB2zs8Hbyx3dT2w=="

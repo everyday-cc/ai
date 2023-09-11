@@ -268,6 +268,20 @@ related:
         width: 1024
         height: 701
         isCached: true
+  - title: "A boy saw 17 doctors over 3 years for chronic pain. ChatGPT found the diagnosis"
+    excerpt: "But before starting physical therapy, Alex had already been experiencing severe ... excitement for his future.\" ChatGPT is a type of artificial intelligence program that responds based on input that a person enters into it, but it can't have a conversation ..."
+    publishedDateTime: 2023-09-11T21:21:00Z
+    webUrl: "https://www.aol.com/boy-saw-17-doctors-over-204224516.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 35
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/7IPyOYqFVT8sb6.056ZjjQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/aol_the_today_show_594/a679cc8e7dc07df5f762e35a41a13822"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Tencent unveils ChatGPT rival in China amid continuing US AI chip ban"
     excerpt: "Chinese technology corporation Tencent unveiled its “Hunyuan” artificial intelligence (AI) system, a multimodal large language model (LLM) similar to OpenAI’s ChatGPT, at the Global Digital Ecosystem Summit in Shenzhen on Aug. 7."
     publishedDateTime: 2023-09-07T18:12:00Z
@@ -333,20 +347,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Beyond ChatGPT: How big tech is changing lives (and fortunes)"
-    excerpt: "Beyond machine learning, Ogden still believes neurology, neurobiology and neurodegeneration is a big theme. It's a difficult space with longer lead times. \" [But] we now have an antibody commercially available for Alzheimer's disease, for instance. We look more at biomarkers to improve patient screening."
-    publishedDateTime: 2023-09-07T01:24:00Z
-    webUrl: "https://www.livewiremarkets.com/wires/beyond-chatgpt-how-big-tech-is-changing-lives-and-fortunes"
-    type: article
-    provider:
-      name: Livewire Markets
-      domain: livewiremarkets.com
-    quality: 24
-    images:
-      - url: "https://assets.livewiremarkets.com/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBKytiQ0E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e5be0da20e52ccefd9b3354d5a163c338c5ee204/OGDEN%20primary.png"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "1606 Corp Engages AR XTLabs to Develop AI Chatbot For CBD Industry"
     excerpt: "The CBDW AI product is being strategically engineered to elevate customer interactions, deliver an educational resource, facilitate new customer engagement, and offer CBD product recommendations. The primary objective of the CBDW AI is to bolster sales for CBD industry enterprises while ensuring an immensely enjoyable customer journey."
     publishedDateTime: 2023-09-07T13:56:00Z
@@ -365,6 +365,15 @@ related:
       name: Southeast Missourian
       domain: semissourian.com
     quality: 19
+  - title: "Artificial intelligence tech behind ChatGPT guzzles Iowa water, researchers say"
+    excerpt: "To keep cool on hot days, data centers need to pump in water — often to a cooling tower outside its warehouse-sized buildings."
+    publishedDateTime: 2023-09-11T18:39:00Z
+    webUrl: "https://www.oregonlive.com/business/2023/09/artificial-intelligence-tech-behind-chatgpt-guzzles-iowa-water-researchers-say.html"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 13
 
 secured: "dwXg2M2XB9H5DYvZuUJPeC8XiJDHSPBOj6KU2KYipsrtuIe3a9hFY5sxQPzmJ2bKlRqkrmgYtr1s28dzJZDB9zGb5TVRHdvj+FaMsOsxdJ2cpKdgv+qKkuvcjIP3Q82C7xhd/qntr3Z+0QtWEzKNvp2oseBJktlUC/iFZLZmcIRIiDDE44dL/kNy7YS2zuK+o6aVR8ZjlCgGdJBdhX6vOci2t9fzjQtHFjw+mqRphjURCdNxyoc6qb35y04cS8VksgR7FbomPIKHJjJnxrG+pqi8yOAuk5JvRvkAp9itB+RqSeZTZw5jJWE55OEZw/t7nYV6cIZxOa3yUKYNNpQUG8YMBqBy2GPbLt07p27XGJRlLA1PK9lfBbjP7po5E09OvduOBMEehz4ZzsytY9qkjF1A9G9uTL8gw/osDTWjMRNnv0jm2GQF9R7zOsrXLHaVrEPre1Ov9yGLJaS0uDfkXnYEaWJok1EeUE2jqqGQhQGl62ovfM/ZzLtSKHEfFHtHx7gxQP/u1hK0TAeyhmEewA==;5oHiTo1f8py1brFP4OMj4w=="
 ---

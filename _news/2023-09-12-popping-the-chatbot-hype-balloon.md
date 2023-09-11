@@ -275,6 +275,20 @@ related:
         width: 1024
         height: 701
         isCached: true
+  - title: "A boy saw 17 doctors over 3 years for chronic pain. ChatGPT found the diagnosis"
+    excerpt: "But before starting physical therapy, Alex had already been experiencing severe ... excitement for his future.\" ChatGPT is a type of artificial intelligence program that responds based on input that a person enters into it, but it can't have a conversation ..."
+    publishedDateTime: 2023-09-11T21:21:00Z
+    webUrl: "https://www.aol.com/boy-saw-17-doctors-over-204224516.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 35
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/7IPyOYqFVT8sb6.056ZjjQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/aol_the_today_show_594/a679cc8e7dc07df5f762e35a41a13822"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Tencent unveils ChatGPT rival in China amid continuing US AI chip ban"
     excerpt: "Chinese technology corporation Tencent unveiled its “Hunyuan” artificial intelligence (AI) system, a multimodal large language model (LLM) similar to OpenAI’s ChatGPT, at the Global Digital Ecosystem Summit in Shenzhen on Aug. 7."
     publishedDateTime: 2023-09-07T18:12:00Z
@@ -326,20 +340,6 @@ related:
         width: 768
         height: 525
         isCached: true
-  - title: "Beyond ChatGPT: How big tech is changing lives (and fortunes)"
-    excerpt: "Beyond machine learning, Ogden still believes neurology, neurobiology and neurodegeneration is a big theme. It's a difficult space with longer lead times. \" [But] we now have an antibody commercially available for Alzheimer's disease, for instance. We look more at biomarkers to improve patient screening."
-    publishedDateTime: 2023-09-07T01:24:00Z
-    webUrl: "https://www.livewiremarkets.com/wires/beyond-chatgpt-how-big-tech-is-changing-lives-and-fortunes"
-    type: article
-    provider:
-      name: Livewire Markets
-      domain: livewiremarkets.com
-    quality: 24
-    images:
-      - url: "https://assets.livewiremarkets.com/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBKytiQ0E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e5be0da20e52ccefd9b3354d5a163c338c5ee204/OGDEN%20primary.png"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "1606 Corp Engages AR XTLabs to Develop AI Chatbot For CBD Industry"
     excerpt: "The CBDW AI product is being strategically engineered to elevate customer interactions, deliver an educational resource, facilitate new customer engagement, and offer CBD product recommendations. The primary objective of the CBDW AI is to bolster sales for CBD industry enterprises while ensuring an immensely enjoyable customer journey."
     publishedDateTime: 2023-09-07T13:56:00Z
@@ -358,6 +358,15 @@ related:
       name: Southeast Missourian
       domain: semissourian.com
     quality: 19
+  - title: "Artificial intelligence tech behind ChatGPT guzzles Iowa water, researchers say"
+    excerpt: "To keep cool on hot days, data centers need to pump in water — often to a cooling tower outside its warehouse-sized buildings."
+    publishedDateTime: 2023-09-11T18:39:00Z
+    webUrl: "https://www.oregonlive.com/business/2023/09/artificial-intelligence-tech-behind-chatgpt-guzzles-iowa-water-researchers-say.html"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 13
   - title: "What Does It ‘Feel’ Like to Be a Chatbot?"
     excerpt: "For an AI to run amok, it doesn’t matter one iota whether it feels like anything. All that matters is that it has a goal that is not aligned with humanity’s long-term well-being. Whether or not the AI knows what it is trying to do,"
     publishedDateTime: 2023-09-08T13:31:00Z
@@ -368,6 +377,6 @@ related:
       domain: scientificamerican.com
     quality: 4
 
-secured: "HNWPXkXxVmTNXdKIbP9ssmHdwjGSR4IDTcYGkjfbeRO66CogA0mnScPAE3U/f5Ugrb10oI0xfsJktVMSb++6WLbFVFeGCVaDTGppjgxWcZ+tJT0xacnDLSj96ArtH11q/f0OnlxnTBxyMWaQ5ye6fEwjjHBzclFHQVbsKj6KDbUTLe8kE8+6HZ4Q5w9fJpBndQiTKUqgQ53ed3cTai03fxrZzMMgz6nZBHQg6z29SeQe8+vrkgbnk/mjpeVNCqv4a1S/yTa3uAJOWb/A62rHcnqVMM5oW3t2GqilzzGN4WHshFnpOyfS2Z9HtmCDCXnGIIsnXeqiTNv6xgwlzSOZc+/q2RwlxI+xLIVhSFlFT8w=;K5kMxuoL3aKqY4U2Q0Wwgg=="
+secured: "rUg/zie0BuE+QAJX5K2LUM2bp6MG4JruG0z+W276MhTWoPYp/Fq9FY2GUXell7hrJI41mkyCi4G5rGvEGmprrcojySJm+hJrtzpBmRJwCYI7/fKPaDMWb3rwPE3kLDF8k+QCb0nkGocJTBBi4oFENmWF1HK0mnGgYNMfCELQrh3tT9vp7WFsxKyWQ/rAWnRNLrsGkRV4b1QiutxUv20pHeECAOUzPEdjayLdapSKCNBJEff1gZ6so8fna6Daf1qtT70QBz9/dgRFuRFIm4g87DOZruQDThrBussw3o14tlIT+u5g0R2kn4wlYQHQl/PcTvgGrlHwuS3YZfeNEF1v2Snvd16PdQnQwEnzDzGyfOj6/Aj+zdfQJtJxyPAY2OjP8SW6jW3MJ6Ou/6GbnCA7EMCmllDvvfOh+qiHVOn+mSW4UzvNE1M4rmyG8mGJovRjT0uUcSmCpKYXsz+4tkZO5nlsANqeKx3rQdF5Sf2pSTQsX3N5KtWbSmRHlokGfmTqoZBzCPItLRMoG44Yxbw5FA==;+Fv8g8cZaJoK7tikF3IfSQ=="
 ---
 

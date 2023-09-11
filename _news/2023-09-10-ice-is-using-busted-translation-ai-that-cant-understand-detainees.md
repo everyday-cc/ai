@@ -7,7 +7,7 @@ originalUrl: "https://futurism.com/the-byte/immigration-ai-services"
 webUrl: "https://futurism.com/the-byte/immigration-ai-services"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,47 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Lost in AI translation: growing reliance on language apps jeopardizes some asylum applications"
+    excerpt: "They should never be used to replace translators Ariel Koren AI-powered translation tools are particularly unreliable for languages that are considerably different from English or are less ..."
+    publishedDateTime: 2023-09-08T01:06:00Z
+    webUrl: "https://www.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps?trk=public_post_comment-text"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 47
+    images:
+      - url: "https://i.guim.co.uk/img/media/59ee6e688c280cd8673684e1f6265293e1acbe3f/0_0_1500_900/master/1500.jpg?width=620&quality=85&auto=format&fit=max&s=bb1ac6185c487d23e428a6ef7f8e1b02"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "City of North Las Vegas expands AI-powered translation service to include 30 languages"
+    excerpt: "The City of North Las Vegas has expanded its AI-powered translation technology to be available in 30 languages this week."
+    publishedDateTime: 2023-09-07T15:12:00Z
+    webUrl: "https://www.ktnv.com/news/city-of-north-las-vegas-expands-ai-powered-translation-service-to-include-30-languages"
+    type: article
+    provider:
+      name: KTNV Las Vegas
+      domain: ktnv.com
+    quality: 31
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/3b9afb4/2147483647/strip/true/crop/1280x672+0+48/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F14%2Fc8%2F6fb7f99c43cca611c0d3d1996b53%2Fnorth-las-vegas-logo.jfif"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Lost in AI translation: growing reliance on language apps jeopardizes some asylum applications"
+    excerpt: "They should never be used to replace translators Ariel Koren AI-powered translation tools are particularly unreliable for languages that are considerably different from English or are less ..."
+    publishedDateTime: 2023-09-07T16:26:00Z
+    webUrl: "https://www.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps?ref=upstract.com"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 7
 
 secured: "KoBISBPAFMivLozdD1FDa416m3bkOga/pqAWwPDhXmd3iYfREgz50nOiF1E0hOkThTyEznLmTj5nbG1vJCjOjBItOfRxGr0W2O9kbD86iCYBC/Nc/+KA/ci5EmhhUDKPGKDLl5YW3nrSCEgWy4JCDDnOAiNxHLrNxTZw2NkTQbMNsYS0xKZtTFaNMCASII020mu32pqvCTEeVXOdq6d42BsquJo9qSQ+ptqdfdfwKgFQvNn7qXdozFAmtS1Ki4oPSrvb3bWQ3p+gpxlLue26qm3n0WdUCy9s/ph1YVqW5lVnsdcM4Zt/xlzeYEcWDt1NQ6I4yiiHIqclDAB7nymOCoQRbbtqqzcKZi9V/UDt8YI=;iidBxLeLPI5/QmnoUNDYvQ=="
 ---

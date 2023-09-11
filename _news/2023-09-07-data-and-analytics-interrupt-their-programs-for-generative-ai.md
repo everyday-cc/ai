@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Officeworks' data and analytics investments pay off"
+    excerpt: "Officeworks’ customer data and analytics platform uses a machine learning model built in Amazon SageMaker, which is fed customers’ purchase history, product preferences, and product characteristics; these features are tracked and collected across the ..."
+    publishedDateTime: 2023-09-11T20:54:00Z
+    webUrl: "https://www.itnews.com.au/news/officeworks-data-and-analytics-investments-pay-off-600039"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 24
+    images:
+      - url: "https://i.nextmedia.com.au/News/Office_work_TWO.jpg"
+        width: 1400
+        height: 900
+        isCached: true
 
 secured: "jZRhfCoRuDUm6eoSXv6bq6/lB1AX76hYZY1n4bxIxFfItzfgWeMmslJ/8WxLb8XisIl3DeLFAIZ+6jacL/8AMuIITdx2EfWDlHGj+vmDdnWdA4J4V22lbSrlgbgoJezAEOF6ZOGvG4qqZeH+VDDlRR4xs+TCVr3m1GaBaqhhksQOW7BkoMfy20N0/Bo3Op5pUbVpKwx0jx2kN2heQ/1PXEXNDEjlN97cOFUJC1cWtfhB34xWHCrfgu8U0ixiEWQJK0BcJH/0noLYlIDi+jhribiDapaPNFDx8jL+A4rJoqTiY2Wq09WmtbShZYeXO4bbza0yJJmTbqPVHdSPQ7kuf70mnzsdiSvqStPrgPl63QAyDD/LRSIQgQKLO4m45QRxAXlcszra5ocLSOSdowhttIwP3vNRjuL4bIg+l+T2N1JYmoDMff+yUAsgR+/wx4atK+9RVhpAk4AinoSe4ZPG6b2MS3/43tGLBoXLWvl1Y2yHMEMg3mW5uSu9Y+MCAVp7nPWWHlXRXrY2VqxkQMokQw==;bd8pZCzXVRyUmyindPKsSg=="
 ---

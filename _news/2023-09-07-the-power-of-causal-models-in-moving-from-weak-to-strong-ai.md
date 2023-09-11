@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/07/the-power-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/07/the-power-of-causal-models-in-moving-from-weak-to-strong-ai/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       - url: "https://techcentral.co.za/wp-content/uploads/2021/12/meta-platforms-2156-1120-1024x532.jpg"
         width: 1024
         height: 532
+        isCached: true
+  - title: "Meta developing an AI model more powerful than LLaMa 2"
+    excerpt: "Meta believes that the new model will be as powerful as GPT-4, OpenAI's most impressive LLM yet. Meta is competing with the likes of Google, OpenAI, Microsoft, and Apple, all in a deep race and a rush to invest their resources and finances in developing the latest artificial intelligence models."
+    publishedDateTime: 2023-09-11T19:03:00Z
+    webUrl: "https://interestingengineering.com/innovation/meta-ai-model-more-powerful-llama-2"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/09/11/image/jpeg/FjZIX0P2fuHnGgDSH6Ie34qgvPiaK5ghlmTAYdzB.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "4CoTb31MezL8abBWkbBpOnXhKKUalX18MjhQoB+koLCkYLzlE5qa9lMDezIxpfuAZWqBO1l4sHhwrs8SDchSI2lNGP+6m/Wlmtghm9QApJvA7/ABbaZrghPb0DqqqfGP4CVCweybnEyaOWjP89Y+mtWsi6srU3PtgteM8uWGaJEb1RoLqbDieMQMQRSW2Ka658Ey6nld/d+1iiUOIRjaRsiddf6XGfyKTswdFLklqm8vVvv/xoZ6Dh2on07iilYZ1I9cac4CsgDDA9eYt2f3dy2u0lVJ384JoWmL/HCFjWpvdO+muRjADJmprO6JDN22JSCCOl2R8NzipZHROHXyL4AnC4ikt0rJvoBU7lqyrIc=;KbhTLuJ+5kxD8+IAAOnzcQ=="

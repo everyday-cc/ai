@@ -124,6 +124,15 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "OpenAI CEO Sam Altman Discusses Ethics & Global Scale Of Changes AI Brings"
+    excerpt: "Altman questions whose morality defines AI safety and importance of making GPT-4 available, even if used in ways he disagrees with"
+    publishedDateTime: 2023-09-11T18:25:00Z
+    webUrl: "https://www.searchenginejournal.com/openai-ceo-sam-altman-discusses-ethics-global-scale-of-changes-ai-brings/495991/"
+    type: article
+    provider:
+      name: Searchenginejournal.com
+      domain: searchenginejournal.com
+    quality: 32
   - title: "Soon UAE Will Dethrone OpenAI"
     excerpt: "UAE’s Technological Innovation Institute (TII) yesterday released Falcon 180B, a highly scaled-up version of Falcon 40B."
     publishedDateTime: 2023-09-07T12:20:00Z

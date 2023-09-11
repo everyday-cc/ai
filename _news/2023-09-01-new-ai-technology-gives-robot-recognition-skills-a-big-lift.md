@@ -1,27 +1,29 @@
 ---
 category: news
 title: "New AI technology gives robot recognition skills a big lift"
-excerpt: "The day when robots can cook dinner, clear the kitchen table and empty the dishwasher is still a long way off. First, robots need to be able to recognize the many items of different sizes, shapes and brands in our homes."
-publishedDateTime: 2023-08-31T20:54:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2023/08/230831121804.htm"
-webUrl: "https://www.sciencedaily.com/releases/2023/08/230831121804.htm"
+excerpt: "With every push, the robot is learning to recognize the object through a new system developed by a team of UT Dallas computer scientists. The new system allows the robot to push objects multiple times until a sequence of images are collected, which in turn ..."
+publishedDateTime: 2023-08-31T19:37:00Z
+originalUrl: "https://techxplore.com/news/2023-08-ai-technology-robot-recognition-skills.html"
+webUrl: "https://techxplore.com/news/2023-08-ai-technology-robot-recognition-skills.html"
+ampWebUrl: "https://techxplore.com/news/2023-08-ai-technology-robot-recognition-skills.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-ai-technology-robot-recognition-skills.amp"
 type: article
-quality: 64
-heat: 64
-published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: techxplore
+  domain: techxplore.com
 
 topics:
-  - AI in Robotics
+  - Computer Vision
   - AI
+  - AI in Robotics
 
-secured: "RJ8py00/LmO1VtkHtriNqyKDyyG/FuYzUCfaFSVCmnsY2MnsEGfCYVD9uyIvbw3EXsO+YTSmQfjZL+ktM6v0cP7LDPKtBWBhlmyagL/Tx4sv+wHFxvxjt167Cfre8B6VO6/CthcbmmSgn7jbvDx2WxLqJPaSfKRfhm4N7yLb0r9gsfTTqJFuvfovUXC0kYPcgJoy1fTAJB6WvQYYTw2oMyz/RvnmqUmU+BVOWaAQrlkowVdafZR5cPQwLsVaN12NNneZmQiOYHgg1IYpV2wXIQeeIbSNXOcpwHDSLIMdX60qjG/fsAIXpXB8BEA4TNUMQE+/RvSP7x+NS8pih87pxhMwRTUi1be+guoF4shsN2o=;BcNRWB7WNlDNV/vmWEPzsw=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/teams-new-ai-technolog.jpg"
+    width: 1920
+    height: 1280
+    isCached: true
+
+secured: "z6HJKRn/RBlscx03fXbJ0BFlIaicMYWEf3G/Rq6ntWG/ygOu4XFMZzlhqBYk2akuyeT2MLyd6QjwJQEGHeKnjMw3SrDxviJuexFp4cMrBgstn4YjhPRuzFT38CwncvsQNeOx25nUBDsLS3T4zpnD9yASCFkXsWBOov9+zFkZVBVR7K7lGKWAUt4/de+mrRhfcsQIAizjBmlJycBLELegBsI0dfoaY+8l+kG4beCMuCoq9pXKwYCZYfHIrYkfGCi8F6OXVZ9nBb3+UJvhYac0FOg1pBM15yGp6/TdWso/IrIedYrv2aBoD02K1y6VdTbarIV5OcZVAls3lAowdMmM8AsiEDw7B4lr5wRDWw7Mysg=;YZjM75OWh8rfZPcaPdeiYA=="
 ---
 

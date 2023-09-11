@@ -117,6 +117,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Meta is developing a new, more powerful AI system, Wall Street Journal reports"
+    excerpt: "The Wall Street Journal reported on September 10, 2023, that Meta is on a mission to create an AI system that can compete with OpenAI's state-of-the-art models."
+    publishedDateTime: 2023-09-11T18:15:00Z
+    webUrl: "https://techstory.in/meta-is-developing-a-new-more-powerful-ai-system-wall-street-journal-reports/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 37
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2023/09/107101365-1660073087949-gettyimages-1242008364-RAFAPRESS_19072022-01776-360x240.jpeg"
+        width: 360
+        height: 240
+        isCached: true
   - title: "Meta developing new, more powerful AI system, WSJ reports"
     excerpt: "Meta Platforms (META.O) is working on a new artificial-intelligence system intended to be as powerful as the most advanced model offered by OpenAI, the Wall Street Journal reported on Sunday, citing people familiar with the matter."
     publishedDateTime: 2023-09-11T12:47:00Z

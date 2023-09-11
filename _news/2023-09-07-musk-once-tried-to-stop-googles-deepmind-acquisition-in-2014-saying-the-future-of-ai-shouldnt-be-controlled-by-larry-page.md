@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/elon-musk-google-larry-page-future-o
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-google-larry-page-future-of-ai-2023-9?amp"
 type: article
 quality: 77
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Elon Musk’s Attempt to Halt Google’s DeepMind Acquisition Over AI Concerns"
+    excerpt: "San Francisco, CA In a revealing excerpt from the forthcoming biography “Elon Musk” by Walter Isaacson, it has been disclosed that Elon Musk once attempted to thwart Google’s acquisition of DeepMind in 2014."
+    publishedDateTime: 2023-09-07T11:20:00Z
+    webUrl: "https://www.cryptopolitan.com/musks-attempt-to-halt-deepmind-acquisition/"
+    type: article
+    provider:
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 54
+    images:
+      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/09/msg-906142390-6573-1.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
 
 secured: "lf/bDdhUh+TLscJW0CbqdYyOvPH3U4ZikNXrSkEDa3arDUNhVoSm0JufTihotCp/vwgxmAS7hkQZEs4SUWho4+QJ2dPQwrIxsx1H9t00SFral5dc+UKehHcJ571shoLsZPDRHdZWJnQj3yAZV2TcDv1YXmeG1whxZC8R6ZS1rffhtTe7Ihx/117MtHBxGATP2GhN8bFXvzAG5sQduQGkrBaRnDGCQdeax4o3R1TAci8AJlpCITbyNguQ5zgghxpjI7rYEcjb5WALX5PJIczB8RRGt9THJJTS6y390avXriXFnPo9sA7H682gW2qRoL9Jsl29TVwSQ4SnxJH2SH2mTyG9rP5rbBoPXE4MPOnkndZw1v2iSFC/HYVaf353Dxdfot1bZonZlMW6RzQshh5k1U1PVa2aC7iQ81dYVwXsBJmunqcgQo+bTEtagtlvfasJE2qeKzCs2XUhYCnbA6tx77R5UmQgjMEQSbnpJRL2PiyzjtxlQxo7semqYAophtOJGNGWTAphVVrpQDJ6450E6Q==;tLTuwJFZf1Y5PT249IIqzg=="
 ---

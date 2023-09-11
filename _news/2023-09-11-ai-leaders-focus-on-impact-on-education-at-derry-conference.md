@@ -2,23 +2,19 @@
 category: news
 title: "AI leaders focus on impact on education at Derry conference"
 excerpt: "AI is the \"greatest threat but also potentially the greatest benefit to our students, staff and schools\", the group of teachers, led by Sir Anthony Seldon, headteacher of Epsom College in England, said in the letter. Prime Minister Rishi Sunak said regulation had to evolve at the same time as rapid changes are made in AI."
-publishedDateTime: 2023-09-11T10:21:00Z
-originalUrl: "https://www.bbc.com/news/uk-northern-ireland-66774275"
-webUrl: "https://www.bbc.com/news/uk-northern-ireland-66774275"
-ampWebUrl: "https://www.bbc.com/news/uk-northern-ireland-66774275.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-northern-ireland-66774275.amp"
+publishedDateTime: 2023-09-11T15:07:00Z
+originalUrl: "https://www.bbc.co.uk/news/uk-northern-ireland-66774275"
+webUrl: "https://www.bbc.co.uk/news/uk-northern-ireland-66774275"
+ampWebUrl: "https://www.bbc.co.uk/news/uk-northern-ireland-66774275.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-northern-ireland-66774275.amp"
 type: article
-quality: 104
-heat: 124
+quality: 74
+heat: 94
 published: true
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -60,6 +56,6 @@ related:
         height: 720
         isCached: true
 
-secured: "8ZkRAl33QdVjCNXach5nnuu8hXTnoeBv75GWBNbsIYmtebDqf4IS3QCjpa6VHTqtJUo81OFXVPI3q6VKJBpsdE3HkQiJjGRRfHnHp+KKp7vHcEQ6uEFZPmBZ0fj56Mylkr08fmybTn8tYHLL3EU2R2EJwUjmZzE3H2oBZN0euDBdjw2NoglyMsF1OYLP38Eh1KcYvitVWL65bdiZXcj6vZ5+4souglW4gIgqvIU+ZDURBRzs5keLJH1c7AFTuOyip3Sx7nC4anfWM6MasS6pQV3Zy+Ye3pwyZ7OFpHyvwQ88oCK91LNtkmQVTyeHRZ0eK5Hg2EAVXbi+OtEFPUKucmV1Dce9mAq0U7npGqdMQyY=;rn0qqYEW/eSaFycnuQV8UA=="
+secured: "Ujcnot5Bszo1b9If3gfnscKGjYH1FGNw2GfCyVmwFHXfOymv2dV5lRYqWeAvONTJHnA2AVbYlJWJvy/JvElinYqhDkYMibM7LtR2LkL9M6h54vCdiKV3YxeX1mQmgtiYlJBqPImTj682nxccmiSBnbNHwT+Ix0Dda656gNN1i2VjvWI8W2R+YZckrYwPsBwrk/u3wboASVSYdQOcAsJ5HVF2NvyGipwsDFMwUWLcXSkuDZMuymw39722LFQylxnybPRPEvW+Rn7VKtnNWsH5/4a4VMFUVt2E9/VEsTtcCAwpsSh1xXawOIo9CkS7gnqQe4ZkTSC/PAiLSB670w/MwhErpUV9Z6AkruppmonH//4=;4IOfifN3C7+47S55J9QaUA=="
 ---
 

@@ -82,6 +82,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "How To Use AI To Your Business’s Advantage"
+    excerpt: "When incorporated wisely, AI technologies open new horizons for delivering products that stand out on the market and bring unique value to your customers."
+    publishedDateTime: 2023-09-11T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/how-to-use-ai-to-your-businesss-advantage/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "5 steps for assembling AI-driven business teams"
     excerpt: "We used OpenAI’s ChatGPT to assemble an AI-driven team: the results obtained were solid, and the evidence was clear."
     publishedDateTime: 2023-09-08T17:59:00Z
@@ -91,14 +100,14 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
-  - title: "How To Use AI To Your Business’s Advantage"
-    excerpt: "When incorporated wisely, AI technologies open new horizons for delivering products that stand out on the market and bring unique value to your customers."
-    publishedDateTime: 2023-09-11T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/how-to-use-ai-to-your-businesss-advantage/"
+  - title: "AI-generated music used for business branding"
+    excerpt: "This is an example of AI-generated music, created by amp's Sonic Hub tool using 'Sonic DNA', which was composed for a finance client."
+    publishedDateTime: 2023-09-11T19:26:00Z
+    webUrl: "https://www.bbc.com/news/av/business-66781641"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: BBC
+      domain: bbc.com
     quality: 47
   - title: "How to build an AI Agent run virtual business"
     excerpt: "If you have interested in fully automating workflows using artificial intelligence you might be interested in ... the datasets ensure that the project remains open for academic and research use. These licenses also stipulate the boundaries for usage ..."

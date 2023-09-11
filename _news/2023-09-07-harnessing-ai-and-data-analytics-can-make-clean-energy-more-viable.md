@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/harnessing-ai-and-data-analytics-can-make
 webUrl: "https://www.ibm.com/blog/harnessing-ai-and-data-analytics-can-make-clean-energy-more-viable/"
 type: article
 quality: 99
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -80,6 +80,20 @@ related:
       - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/08/16x9/IR_LIghting_Image.64dfaa4d56d8a.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Officeworks' data and analytics investments pay off"
+    excerpt: "Officeworks’ customer data and analytics platform uses a machine learning model built in Amazon SageMaker, which is fed customers’ purchase history, product preferences, and product characteristics; these features are tracked and collected across the ..."
+    publishedDateTime: 2023-09-11T20:54:00Z
+    webUrl: "https://www.itnews.com.au/news/officeworks-data-and-analytics-investments-pay-off-600039"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 24
+    images:
+      - url: "https://i.nextmedia.com.au/News/Office_work_TWO.jpg"
+        width: 1400
+        height: 900
         isCached: true
   - title: "Data and analytics interrupt their programs for generative AI"
     excerpt: "Amidst all the pronouncements from data and analytics providers on generative over the spring, we found a huge omission. Like all AI, generative will require governance, and most providers are for now paying lip service to that."

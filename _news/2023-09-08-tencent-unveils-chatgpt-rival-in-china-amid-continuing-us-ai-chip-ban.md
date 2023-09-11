@@ -268,6 +268,20 @@ related:
         width: 1024
         height: 701
         isCached: true
+  - title: "A boy saw 17 doctors over 3 years for chronic pain. ChatGPT found the diagnosis"
+    excerpt: "But before starting physical therapy, Alex had already been experiencing severe ... excitement for his future.\" ChatGPT is a type of artificial intelligence program that responds based on input that a person enters into it, but it can't have a conversation ..."
+    publishedDateTime: 2023-09-11T21:21:00Z
+    webUrl: "https://www.aol.com/boy-saw-17-doctors-over-204224516.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 35
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/7IPyOYqFVT8sb6.056ZjjQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/aol_the_today_show_594/a679cc8e7dc07df5f762e35a41a13822"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water"
     excerpt: "As they race to capitalize on a craze for generative AI, leading tech developers including Microsoft, OpenAI and Google have acknowledged that growing demand for their AI tools carries hefty"
     publishedDateTime: 2023-09-09T20:39:00Z
@@ -324,20 +338,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Beyond ChatGPT: How big tech is changing lives (and fortunes)"
-    excerpt: "Beyond machine learning, Ogden still believes neurology, neurobiology and neurodegeneration is a big theme. It's a difficult space with longer lead times. \" [But] we now have an antibody commercially available for Alzheimer's disease, for instance. We look more at biomarkers to improve patient screening."
-    publishedDateTime: 2023-09-07T01:24:00Z
-    webUrl: "https://www.livewiremarkets.com/wires/beyond-chatgpt-how-big-tech-is-changing-lives-and-fortunes"
-    type: article
-    provider:
-      name: Livewire Markets
-      domain: livewiremarkets.com
-    quality: 24
-    images:
-      - url: "https://assets.livewiremarkets.com/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBKytiQ0E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e5be0da20e52ccefd9b3354d5a163c338c5ee204/OGDEN%20primary.png"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "1606 Corp Engages AR XTLabs to Develop AI Chatbot For CBD Industry"
     excerpt: "The CBDW AI product is being strategically engineered to elevate customer interactions, deliver an educational resource, facilitate new customer engagement, and offer CBD product recommendations. The primary objective of the CBDW AI is to bolster sales for CBD industry enterprises while ensuring an immensely enjoyable customer journey."
     publishedDateTime: 2023-09-07T13:56:00Z
@@ -356,6 +356,15 @@ related:
       name: Southeast Missourian
       domain: semissourian.com
     quality: 19
+  - title: "Artificial intelligence tech behind ChatGPT guzzles Iowa water, researchers say"
+    excerpt: "To keep cool on hot days, data centers need to pump in water — often to a cooling tower outside its warehouse-sized buildings."
+    publishedDateTime: 2023-09-11T18:39:00Z
+    webUrl: "https://www.oregonlive.com/business/2023/09/artificial-intelligence-tech-behind-chatgpt-guzzles-iowa-water-researchers-say.html"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 13
   - title: "What Does It ‘Feel’ Like to Be a Chatbot?"
     excerpt: "For an AI to run amok, it doesn’t matter one iota whether it feels like anything. All that matters is that it has a goal that is not aligned with humanity’s long-term well-being. Whether or not the AI knows what it is trying to do,"
     publishedDateTime: 2023-09-08T13:31:00Z
