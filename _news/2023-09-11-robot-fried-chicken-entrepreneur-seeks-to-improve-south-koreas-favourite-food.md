@@ -57,6 +57,22 @@ related:
         width: 1280
         height: 852
         isCached: true
+  - title: "Robot Fried Chicken: Entrepreneur Seeks To Improve S. Korea's Favourite Food"
+    excerpt: "In fried-chicken-obsessed South Korea, restaurants serving the nation's favourite fast-food dish dot every street corner. But Kang Ji-young's establishment brings something a little different to the table: a robot is cooking the chicken."
+    publishedDateTime: 2023-09-11T10:08:00Z
+    webUrl: "https://www.barrons.com/news/robot-fried-chicken-entrepreneur-seeks-to-improve-s-korea-s-favourite-food-a06efd08"
+    ampWebUrl: "https://www.barrons.com/amp/news/robot-fried-chicken-entrepreneur-seeks-to-improve-s-korea-s-favourite-food-a06efd08"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/robot-fried-chicken-entrepreneur-seeks-to-improve-s-korea-s-favourite-food-a06efd08"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 56
+    images:
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP7482220699834898514323190859962703852672---1.jpg"
+        width: 768
+        height: 512
+        isCached: true
   - title: "Taste this robot fried chicken: Entrepreneur seeks to improve S. Korea's favourite food"
     excerpt: "Kang's robot is capable of frying 100 chickens in two hours – a task that would require around five people and several deep fryers"
     publishedDateTime: 2023-09-11T07:52:00Z
@@ -88,6 +104,6 @@ related:
         height: 533
         isCached: true
 
-secured: "1zeau5//Kn+F/xublS3rYvk7uOevc4IF7TPBxfBM9ISIsyLv9cEPCBOXMpV5TwXyLB6C8hpTsKu9aqomBUhFkQcbkE9rwqgBf5yxw6fsbiGlwZM5hK99SpOlYsPAhJZXtlsMkS2WRTqHrw/KIoiy7Vx4FYZMkD9UDdFQQqTm7+DDt9G6wjBlkf8lVYaWdzk9Ovp5U7BVnMxz4u9uSJLGa/UAaEVS3xRBXUvlyZJYlzXnq+LaTHxT8s1RYmZj7NkFShhuOSbPO00N1efeuBVW1aUk5dZrimwQopxheukRz3RqOHzrWOiLWnChxUNzJMK04YaWArJtGuTwBCcirFJ5J5SNiMJ1i0vl6ANPvp0mG9Y=;xrb1fJ9PxcHEKuYQ/8BjmA=="
+secured: "UHei96UtXrgyLMM18cpR3C2nDL4xz+34TtQjySUXuSof9pS0Kb4KwkHgJjT4jhZr2+jm+J3vkvPfaCy9FFbfz0DDK0kDYDA6keS4gRjJiLj7S+x2djDXN6JeckztiK5UxKy3dthvHHPGoJgVc528SGuAzyj86XKNTW3k407LC7+IqubYYDi2ClFcoBgzzuIcr3kNfhAIqt9EAobvb0virI3uK8jG0SqqqZkjrS58NTwLF1dQ7e155+yp48vnMhlMT/D27myjllA0HqunRw9EK2kRGXg1QAidueNwyjsFbtiWX35K0N2qzbSOWj5JENyDQxh/TAH8XAmk0nB+n0z9D0ApKpzj6FXpp2VuSai8pxEl94tyo4z5PkJderYnZLtAgOWwdVq4UH+lyGTkpJFz7vtC4Z3IQG1L55/xxU7t5NqwkWSbTntYARQo6WNBnlPIbPYXZ8DNmwsDHqqgabkM2bQ2T4tF0A8cyxey1BTRE1Xlx22p689KbtNL7qUoxkA3INenaUspGBIa1YOjEqn4Tw==;ZYDf/m3rEb5j/nV38fLEHg=="
 ---
 

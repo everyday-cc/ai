@@ -7,7 +7,7 @@ originalUrl: "https://www.lpgasmagazine.com/propane-industry-considers-impacts-o
 webUrl: "https://www.lpgasmagazine.com/propane-industry-considers-impacts-of-artificial-intelligence/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,24 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "How AI is the disrupting the photography industry"
-    excerpt: "During the last few years, nearly every industry around the world has been disrupted by the growth and trend of artificial intelligence (AI). By David Preston, MD of Canon South Africa The archetypal vision of mechanical robots coming to replace humans at their workstations is not really applicable anymore."
-    publishedDateTime: 2023-09-07T08:55:00Z
-    webUrl: "https://it-online.co.za/2023/09/07/how-ai-is-the-disrupting-the-photography-industry/"
+  - title: "AI leaders focus on impact on education at Derry conference"
+    excerpt: "AI is the \"greatest threat but also potentially the greatest benefit to our students, staff and schools\", the group of teachers, led by Sir Anthony Seldon, headteacher of Epsom College in England, said in the letter. Prime Minister Rishi Sunak said regulation had to evolve at the same time as rapid changes are made in AI."
+    publishedDateTime: 2023-09-11T10:21:00Z
+    webUrl: "https://www.bbc.com/news/uk-northern-ireland-66774275"
+    ampWebUrl: "https://www.bbc.com/news/uk-northern-ireland-66774275.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-northern-ireland-66774275.amp"
     type: article
     provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 19
-  - title: "How valuable is the UK’s AI industry? Here’s one way to not find out"
-    excerpt: "Gee willikers, that’s a lot of artificial intelligence. The estimated current value is more than four times the market cap of the whole FTSE 250 index, a commonly cited measure of British domestic industry, and isn’t too far off the £1.9tn market cap of the FTSE 100."
-    publishedDateTime: 2023-09-07T19:20:00Z
-    webUrl: "https://www.ft.com/content/eeaa57a3-19ed-45d9-8705-2517c81e60ba"
+      name: BBC
+      domain: bbc.com
+    quality: 104
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/ED53/production/_131055706_gettyimages-1498385993.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "SAP acquires LeanIX to focus on AI-assisted IT modernization"
+    excerpt: "A long-standing partner of SAP, LeanIX gives enterprises a common language and single source of truth for their entire IT landscape."
+    publishedDateTime: 2023-09-07T20:10:00Z
+    webUrl: "https://venturebeat.com/programming-development/sap-acquires-leanix-to-focus-on-ai-assisted-it-modernization/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_6_steps_to_seamless_modernization._Colorful_futuristic__d39499e0-5b4e-4d1a-91d0-fde3f1217e83.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "B+m/cvM0EVDilbWWSspzTaj1EbLArrB5kxZVNNU8gADdEdM+bP/rEA3VpJvRoLfKT+XWhvpDnVZD9i0GQ1iRFlpCEwOc03l8H3tdYe2WusdMdoakRYGztLgdIxX6n/Ccf9jY8JMndCrH5tpc4okcHOmpl9P2B2kP30DV7YZJ10TQOXrHPWLmXKNGsR+02jZxvkwKaySMdqkVNu0E5vgnB4CgH08PUbkbUMSH+vSdefnLM3LQU9mEK/nfKIsfGjqbJNFb7mCcCbNgXjZj1/QwYWGYz9cVr7ECcoJpfcqTN7LpeVIRS/HHr47vJOByBXK9BpoErypM6g9FSCbO6rs6BrNaG+7HLbue1fuQ4uvM8k4=;5/nmBC+Ho2E7D93zSOASOA=="
 ---

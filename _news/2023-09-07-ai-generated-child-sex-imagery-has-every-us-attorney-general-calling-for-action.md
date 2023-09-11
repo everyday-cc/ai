@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/09/ai-generated-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/ai-generated-child-sex-imagery-has-every-us-attorney-general-calling-for-action/amp/"
 type: article
 quality: 83
-heat: 123
+heat: 103
 published: true
 
 provider:
@@ -60,24 +60,6 @@ related:
         width: 620
         height: 413
         isCached: true
-  - title: "Crafting persuasion: mastering compelling arguments in the age of AI and the video generation"
-    excerpt: "Stratton Horres and Karen L. Bashor of Wilson Elser provide tips on combining AI and video evidence with the human connection in trial presentations, and opening and closing arguments."
-    publishedDateTime: 2023-09-07T17:29:00Z
-    webUrl: "https://www.reuters.com/legal/legalindustry/crafting-persuasion-mastering-compelling-arguments-age-ai-video-generation-2023-09-07/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 36
-  - title: "NC attorney general, other AGs call for crackdown on artificial intelligence threats to children"
-    excerpt: "N.C. Attorney General Josh Stein and 53 other AGs are calling on Congress to crack down on artificial intelligence, citing possible harm to children through \"deepfake\" images."
-    publishedDateTime: 2023-09-06T18:28:00Z
-    webUrl: "https://wraltechwire.com/2023/09/06/nc-attorney-general-other-ags-call-for-crackdown-on-artificial-intelligence-threats-to-children/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 4
 
 secured: "VDlKIaa4ZhfoQppsPHRB7VEEs96XMTQi1z7/i1QS/2/kj06fYvv/P71rHT3e/d1tFDp+/+0ZTi28dT/cQFUh9D2wyLPdCrwdi+ZucG4L2tqJbyqOSfptUnAtO3nzYqZ01K6MA0momYInFONsUos3j9BJuvh9c8jtBLVTRFsGvssJkpYyf8sVQaXms0mAtuXAKrDT8d7kqXVTlvvFMT+3seJKVdf1kpsHHBh3ZLr3iz8nZ0yK+9NAT9mAatk7NSf/x73eEWbZM8Hd+VK6cjZNypINp3++eLy+2dhu5nZg+2HjQdzQSZVEJqLZ368lXY0IpyWWrieIwUvSX5nJgK7h6jJVkK8pbyfzA045HOlz6x0=;FWL7Rv66R/iDniEi/HpYzA=="
 ---

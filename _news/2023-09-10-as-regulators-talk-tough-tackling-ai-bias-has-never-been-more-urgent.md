@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/as-regulators-talk-tough-tackling-ai-bi
 webUrl: "https://venturebeat.com/ai/as-regulators-talk-tough-tackling-ai-bias-has-never-been-more-urgent/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: VentureBeat
@@ -26,17 +26,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "In The AI Era, Elevating Human-Centered Leadership Has Never Been More Important"
-    excerpt: "New generative AI models are dazzling, but they represent knowledge without heart or soul. That's why a human-centered leadership approach is critical."
-    publishedDateTime: 2023-09-06T19:09:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/09/06/in-the-ai-era-elevating-human-centered-leadership-has-never-been-more-important/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 42
 
 secured: "d/fsAhh+xZO1DPVMHot/i738t4LgvXinf8x/+1wdlHR1ahqkQystfufdfbHcfyhAF5yaHBTp7cOK/b7KZbqfR79fHZOb250K/Bx5AbzZLmX7g7Ig3X6OC4du/jKdYV8QyLML6k4SsWoTuiydabUq8T1l+/o1zwdkwZYoE2iyuXZVmJ5JJTYzpk8j6pZz64CGu0gyOlF8M92vV33u3jfAJjFQLqgp8OY6z/yldrScp8lC3lPp/J1T0w5rywLUod6NVtwVBeQBpf6/InP2jyKNL/IqJ0lHwfMFwwBWKDdIvJK52xuuoruXxtWKEa+nlrDvC7wN+t6f7nw6G8C2ItU0yg22w8rWMFoSeRBrzHZSyb/zZD996CShYPp2v/lEmjVFiDGa8AXVlEaPE/jWf2FQgaNO3FbP12X4Y4roLxlUWX/yWg/A6GU0P7qt6LTNCGOctblB29qJYxupnl3exK/XfVWU6U7nU9/2yU8ZAwZ2ie3+VjXpn699KWdNRl707erQ3PCAN51zB44VBfD1cKdE/Q==;GgcUOfgb8spu+2KiLziFig=="
 ---

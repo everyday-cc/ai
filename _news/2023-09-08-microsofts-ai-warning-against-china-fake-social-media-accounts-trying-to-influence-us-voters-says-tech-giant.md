@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Even AI Hasn't Helped Microsoft's Bing Chip Away at Google's … – The Wall Street Journal"
+    excerpt: "Even AI Hasn't Helped Microsoft's Bing Chip Away at Google's ... The Wall Street Journalsource"
+    publishedDateTime: 2023-09-11T05:52:00Z
+    webUrl: "https://www.inferse.com/712085/even-ai-hasnt-helped-microsofts-bing-chip-away-at-googles-the-wall-street-journal/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 62
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/09/wp-header-logo-3335.png"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "World's Largest Image-Based AI Model For Identifying Cancer: Microsoft Teams Up With Paige To Build One"
     excerpt: "Microsoft Corp MSFT +0.27% + Free Alerts has announced a collaboration with digital pathology provider Paige to develop the world's largest image-based artificial intelligence model for cancer detection."
     publishedDateTime: 2023-09-07T17:21:00Z

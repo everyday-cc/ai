@@ -71,20 +71,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "Focus: Morgan Stanley to launch AI chatbot to woo wealthy"
-    excerpt: "Wealthy clients going to a Morgan Stanley banker to discuss their investments may soon have a different sort of experience: having a chatbot listen to their conversation."
-    publishedDateTime: 2023-09-07T09:09:00Z
-    webUrl: "https://www.reuters.com/technology/morgan-stanley-launch-ai-chatbot-woo-wealthy-2023-09-07/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/hPSaTdJloz96JSAnU_-5WtLtvO4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/26KSAZHUEFJF7G4AECYWU3UVAI.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Anduril founder Palmer Luckey says the ChatGPT buzz is making politicians more interested in AI-powered weapons"
     excerpt: "Palmer Luckey told Breaking Defense that the AI hype cycle has helped those on Capitol Hill and the Pentagon have a \"come-to-Jesus moment\" with AI."
     publishedDateTime: 2023-09-09T15:41:00Z
@@ -100,22 +86,6 @@ related:
       - url: "https://i.insider.com/64fb856f3d39230019774d64?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Why Meta Is Allowing Users to See the Inner Workings of Its AI Chatbot"
-    excerpt: "Meta’s more open approach with Llama 2 contrasts with that of the company OpenAI, which created the AI chatbot ChatGPT."
-    publishedDateTime: 2023-09-06T17:32:00Z
-    webUrl: "https://singularityhub.com/2023/09/06/why-meta-is-allowing-users-to-see-the-inner-workings-of-its-ai-chatbot/"
-    ampWebUrl: "https://singularityhub.com/2023/09/06/why-meta-is-allowing-users-to-see-the-inner-workings-of-its-ai-chatbot/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/09/06/why-meta-is-allowing-users-to-see-the-inner-workings-of-its-ai-chatbot/?amp=1"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 59
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2023/09/chatbot-orange-background.jpeg"
-        width: 1068
-        height: 601
         isCached: true
   - title: "ChatGPT broke the EU plan to regulate AI"
     excerpt: "Artificial intelligence's newest sensation — the gabby chatbot-on-steroids ChatGPT — is sending European rulemakers back to the drawing board on how to regulate AI. But after months of internet lolz — and doomsaying from critics — the technology is ..."
@@ -165,31 +135,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water"
-    excerpt: "As they race to capitalize on a craze for generative AI, leading tech developers including Microsoft, OpenAI and Google have acknowledged that growing demand for their AI tools carries hefty costs, from expensive semiconductors to an increase in water"
-    publishedDateTime: 2023-09-09T21:02:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/artificial-intelligence-technology-chatgpt-built-iowa-lot-water-103052515"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/artificial-intelligence-technology-chatgpt-built-iowa-lot-water-103052515"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/artificial-intelligence-technology-chatgpt-built-iowa-lot-water-103052515"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 48
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
-  - title: "Morgan Stanley to Launch AI Chatbot to Woo Wealthy"
-    excerpt: "JPMorgan Chase named Teresa Heitsenrether its chief data and analytics officer in June to lead AI adoption across the largest U.S. lender. Rival Bank of America's virtual assistant, Erica, has had more than a billion interactions with clients since it was introduced in 2018."
-    publishedDateTime: 2023-09-07T10:09:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-09-07/morgan-stanley-to-launch-ai-chatbot-to-woo-wealthy"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
   - title: "9 useful AI tools in addition to Midjorney and ChatGPT"
     excerpt: "Watch this video on YouTube. Perplexity AI combines a large language model with natural language processing (NLP) search capabilities, providing a personalized browsing experience. It offers a number of AI features, including personalized language models ..."
     publishedDateTime: 2023-09-08T10:56:00Z
@@ -260,20 +205,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Apple is quietly spending millions on AI to make Siri as smart as ChatGPT"
-    excerpt: "Apple is spending millions of dollars a day to train its large-language models, and it might be readying to tackle OpenAI ChatGPT."
-    publishedDateTime: 2023-09-06T19:07:00Z
-    webUrl: "https://bgr.com/tech/apple-is-quietly-spending-millions-on-ai-to-make-siri-as-smart-as-chatgpt/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 38
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/06/apple-wwdc-2023-ios-17-reality-226.jpg?quality=82&strip=all"
-        width: 1600
-        height: 885
-        isCached: true
   - title: "Survey Reveals 16% Of Japanese Have Tried Chatgpt And Other Generative Ai"
     excerpt: "In the graph below titled \"The frequency of AI usage among social networking users,\" a cross-tabulation of Q2 \"Do you refer to social networks Youtube, X (Twitter), Facebook ... we will announce the research results on the use of social networking services ..."
     publishedDateTime: 2023-09-08T06:47:00Z
@@ -310,6 +241,20 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/09/AI-Chatbot-767x633.jpg"
         width: 767
         height: 633
+        isCached: true
+  - title: "Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water"
+    excerpt: "As they race to capitalize on a craze for generative AI, leading tech developers including Microsoft, OpenAI and Google have acknowledged that growing demand for their AI tools carries hefty"
+    publishedDateTime: 2023-09-09T20:39:00Z
+    webUrl: "https://tulsaworld.com/ap/business/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water/article_3379d8ad-289b-59cd-af57-adfc57af0969.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 30
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/6/5e/65eddd27-5f7e-51af-a65c-5d8ff9c1f88d/64fc7131358f7.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Meta Platforms reportedly building open-source generative AI system to rival OpenAI’s ChatGPT"
     excerpt: "Facebook and Instagram parent Meta Platforms Inc. is looking to rival OpenAI LP in the generative artificial intelligence landscape with an alternative, but open-source model that’s likely to be as powerful as GPT-4."

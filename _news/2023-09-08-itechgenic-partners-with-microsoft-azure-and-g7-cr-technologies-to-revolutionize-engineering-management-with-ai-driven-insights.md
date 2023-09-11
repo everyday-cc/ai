@@ -34,15 +34,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 13
-  - title: "EY releases more than 20 new Assurance technology capabilities supported by Microsoft alliance in first year of US$1b investment program"
-    excerpt: "Through these developments, EY teams have been using Azure Cognitive Services, to integrate AI into the audit process. The EY and Microsoft Alliance additionally provides EY Assurance teams with early access to new Microsoft technologies, and the ability ..."
-    publishedDateTime: 2023-09-06T18:43:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1344621&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "4Tm6xTzNK8YJ9Lqa/oTCwrrXTdcSBvYQEa7O+e0C3ySZvuj0BZ7+/vxRY9k5Hl8y0UBvwFhJWJ0NKWrAwUZJYA/WgqX4Z2/hMlTCCSR5EsGqHcopPjtCyB9unVfxE5IIgfhUl+TynXeT4ebpMLyp+auQ1InVsQwZSn+0R8fZi2ILl1n0zk7EKthS9va0rCAh9jkGf0FSNpOoNBnY88KIKwzCcgGHtQL6Ycufcy4VoXxIYitz/M/g2xRg+rcC5yKo6gdNcr+j/6Jmph4khubXIAD0x797lTgP8UPWbft0Q1KtBhSCCtquhzCw7lvfMWPApqN3DRvXCsmDdJlfFkBiKeu4+xHL7yTUgZrka4VbhR4=;nN0PLG7C+dkikPxduWgwmA=="
 ---

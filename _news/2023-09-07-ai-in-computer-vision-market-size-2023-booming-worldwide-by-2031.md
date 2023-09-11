@@ -83,6 +83,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Ai In Computer Vision Market Size, Share, Growth, Analysis, Trends And Forecast 2023-2030 X Herald"
+    excerpt: "AI in Computer Vision Market size was valued at USD 9.18 billion in 2022 and is expected to reach USD 207.09 billion by 2030, growing at a CAGR of 39% from 2023 to 2030."
+    publishedDateTime: 2023-09-11T11:55:00Z
+    webUrl: "https://menafn.com/1107045120/Ai-In-Computer-Vision-Market-Size-Share-Growth-Analysis-Trends-And-Forecast-2023-2030-X-Herald"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 42
+    images:
+      - url: "https://menafn.com/updates/pr/2023-09/11/ADC_6dc55f4e-0_Image_In_Body.png"
+        width: 1024
+        height: 1024
+        isCached: true
 
 secured: "wn8X817ZAtVV3iEf9V0UDJghVifDmFCP2ysuhprLwQDDypkZgoSH6UeR15E9K18m6vNew1CVkVY/BmctF8W6Ym9a44ne97afs8RMMkvwCfaWk4u0d+tVURt6MQt+NoUfXb1+RmdwL1mASFxExDe4xZ9iwfI0OsPyCSe4JvIgGWFg0K+2rzClDul17Wxq6lf+5EIDp3xDqHgoq2aL/x+Aza6+fWBOOCfVv3F9DaclxRGKDLtuEV377OJHcBD5qt85ws0JshRYkHOEXPj4yJARYh4DBsMj1f2ZqCQcZXPKEdPNABW+C4GQqdZ9nsJFkwphDuHj+LhvZacNwvInYv5dFtBa4q2r3GUIGqwuzVrNjpQ=;eULSFlEqonKfcTGZ5SWMJg=="
 ---

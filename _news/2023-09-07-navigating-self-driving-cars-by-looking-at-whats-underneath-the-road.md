@@ -87,6 +87,22 @@ related:
         width: 1356
         height: 668
         isCached: true
+  - title: "Fintech Customer Support India: Cynergy BPO— How Outsourcing Is Levelling the Playing Field"
+    excerpt: "Furthermore, the nation’s technological stride in Artificial Intelligence and Machine Learning ensures that fintech customer support is not just reactive but proactive. Predictive analytics, real-time feedback, and AI-driven chatbots have transformed ..."
+    publishedDateTime: 2023-09-11T11:25:00Z
+    webUrl: "https://www.telegraphindia.com/brand-studio/fintech-customer-support-india-cynergy-bpo-how-outsourcing-is-levelling-the-playing-field/cid/1965443"
+    ampWebUrl: "https://www.telegraphindia.com/amp/brand-studio/fintech-customer-support-india-cynergy-bpo-how-outsourcing-is-levelling-the-playing-field/cid/1965443"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/brand-studio/fintech-customer-support-india-cynergy-bpo-how-outsourcing-is-levelling-the-playing-field/cid/1965443"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 34
+    images:
+      - url: "https://assets.telegraphindia.com/telegraph/2023/Sep/1694430652_untitled-design-16.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "vsTSLXaKo6vjgcorwDnd2zPYGsxvd9SYzUGLBzRUVJLAamXO4+14SYiWq2AB6ieycx/MurcU3RlB5wrOH0XC3WN1+dlsAeTPWiAzTX1Dn1Xg54ql3TcLpheUNDN4k322DfaJP6HrXpkww4xqseOlWzAJMo1E6FXocLvafblVEMkViwU44wTF51xvgWAAP/aCj3UNiiYZ8oF0RtUkmPCLEU3qYRzx6DpRLcqA4tMBLUfBJ/iJhDqP0+j2+Vu//Yrzq1S5Q79mHZNQFiPyIZj5/+ZBgKTXyrNnOUCfIEkcHSWolsQXyfRxFDo+JeQBbQ9PJAbfFYIjpGE1687njCjYXyYzA1zP8JFSQMowC+Xhf1M=;2prpL0sfe9UmcJ+dp4qA3A=="
 ---

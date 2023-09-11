@@ -9,7 +9,7 @@ ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/ai
 cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231"
 type: article
 quality: 91
-heat: 191
+heat: 201
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/09/08/10c71d6a-cc47-4b03-9730-1a8be73eed4c_9b7595cc.jpg?itok=6bBTINm9&v=1694140957"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Even AI Hasn't Helped Microsoft's Bing Chip Away at Google's … – The Wall Street Journal"
+    excerpt: "Even AI Hasn't Helped Microsoft's Bing Chip Away at Google's ... The Wall Street Journalsource"
+    publishedDateTime: 2023-09-11T05:52:00Z
+    webUrl: "https://www.inferse.com/712085/even-ai-hasnt-helped-microsofts-bing-chip-away-at-googles-the-wall-street-journal/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 62
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/09/wp-header-logo-3335.png"
+        width: 1280
+        height: 640
         isCached: true
   - title: "World's Largest Image-Based AI Model For Identifying Cancer: Microsoft Teams Up With Paige To Build One"
     excerpt: "Microsoft Corp MSFT +0.27% + Free Alerts has announced a collaboration with digital pathology provider Paige to develop the world's largest image-based artificial intelligence model for cancer detection."

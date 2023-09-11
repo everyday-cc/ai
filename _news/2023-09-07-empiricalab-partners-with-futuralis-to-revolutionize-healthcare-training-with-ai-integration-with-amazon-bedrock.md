@@ -33,15 +33,6 @@ related:
         width: 630
         height: 473
         isCached: true
-  - title: "EY releases more than 20 new Assurance technology capabilities supported by Microsoft alliance in first year of US$1b investment program"
-    excerpt: "Through these developments, EY teams have been using Azure Cognitive Services, to integrate AI into the audit process. The EY and Microsoft Alliance additionally provides EY Assurance teams with early access to new Microsoft technologies, and the ability ..."
-    publishedDateTime: 2023-09-06T18:43:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1344621&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "JWs1o+2Rc5F4AqHWYHdCPq8iZozKZcUoVvzHc41bk3+ZEmUdSA+SwydMtAxi6DCXxD6qjpzui1QRzLc9p6DS6U/QTmQQ50bumeLQdC/0hKGbfe/xd1V6V1VoJrljlw6jpt8rEdmt++/PnP6kjpQh2jyamF95Sdz9Lk1YYyt+9781pDop0Co5r3zTQ/v4uf9vdMbsQjPWqOFgc0DFxvU6Yb49XehTG2RlVGxAx5Ft1tlsrvDBwOmrVL3Sp1LDWkqEXJiCPUGUsDut89zaqhHJjLyhUzyph3GogmsaJfBHqOzLSV9aBnxCatGUJ5NcUjOPWKUGDc1ZxU5IpkyzXGFwrMnN3JRl3SNW/rtJ1TRNwd4=;cc1FlFs4wGKB5eyTAAMjcA=="
 ---

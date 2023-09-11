@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbctv18.com/technology/ant-group-launches-finance-ai-mo
 cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/ant-group-launches-finance-ai-model-as-race-heats-up-17752271.htm/amp"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "China Eyes To Develop a New Finance-Oriented AI Model"
-    excerpt: "Following China's highly competitive AI market, big players like Xiaomi, Ant Group (Ant), and Tencent are investing in AI for finance."
-    publishedDateTime: 2023-09-08T21:59:00Z
-    webUrl: "https://techreport.com/news/china-eyes-to-develop-a-new-finance-oriented-ai-model/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 54
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2023/09/AI-Motherboard-scaled-1-scaled.jpg"
-        width: 2048
-        height: 1102
-        isCached: true
   - title: "Senate tees up AI hearings"
     excerpt: "Welcome to The Hill’s Technology newsletter{beacon} Technology Technology   The Big Story Senate to take on AI rules The Senate will set their sights on artificial intelligence"
     publishedDateTime: 2023-09-08T22:52:00Z

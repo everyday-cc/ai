@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Propane industry considers impacts of artificial intelligence"
-    excerpt: "I set out to learn about artificial intelligence's role in the propane industry and its potential future impacts. Here’s what I shared with my colleagues."
-    publishedDateTime: 2023-09-08T18:54:00Z
-    webUrl: "https://www.lpgasmagazine.com/propane-industry-considers-impacts-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: LP Gas
-      domain: lpgasmagazine.com
-    quality: 39
-    images:
-      - url: "https://www.lpgasmagazine.com/wp-content/uploads/2018/09/LPG-social-default-iStock-162819887.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "How AI is the disrupting the photography industry"
     excerpt: "During the last few years, nearly every industry around the world has been disrupted by the growth and trend of artificial intelligence (AI). By David Preston, MD of Canon South Africa The archetypal vision of mechanical robots coming to replace humans at their workstations is not really applicable anymore."
     publishedDateTime: 2023-09-07T08:55:00Z

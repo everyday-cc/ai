@@ -60,24 +60,6 @@ related:
         width: 728
         height: 381
         isCached: true
-  - title: "Crafting persuasion: mastering compelling arguments in the age of AI and the video generation"
-    excerpt: "Stratton Horres and Karen L. Bashor of Wilson Elser provide tips on combining AI and video evidence with the human connection in trial presentations, and opening and closing arguments."
-    publishedDateTime: 2023-09-07T17:29:00Z
-    webUrl: "https://www.reuters.com/legal/legalindustry/crafting-persuasion-mastering-compelling-arguments-age-ai-video-generation-2023-09-07/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 36
-  - title: "NC attorney general, other AGs call for crackdown on artificial intelligence threats to children"
-    excerpt: "N.C. Attorney General Josh Stein and 53 other AGs are calling on Congress to crack down on artificial intelligence, citing possible harm to children through \"deepfake\" images."
-    publishedDateTime: 2023-09-06T18:28:00Z
-    webUrl: "https://wraltechwire.com/2023/09/06/nc-attorney-general-other-ags-call-for-crackdown-on-artificial-intelligence-threats-to-children/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 4
 
 secured: "OiEet8dL9KRL83V7pw21jr+gEtQcPJ8IDduBXZRzFBdiQQEOMaOoP+nn7CQGH9j9RIsPQx0TU6yDXn2lQqiTU4xdBmQnHyl+KrclUINLF466PZCrvHrC6LHnNIk/B3laHFKvhXFoPo6g84boqp1AU3v3UzJD1WECfdxosCRxarnSWHaPMCuE4cafQKMkIlOc8ATicNLACNClWfczYmsn8E9ybV4NKveBOaUxkCJe4fNQrTx3BE06RsZgToF6qDgpyalmaNhnRG2869GFLB5WohrgbaOFiz+9UakJMGdD5KihB8wQp78fOKrPWBt+kxKl4qzqdj2h9AwdYIyuC5Q9xeyH11vreMKg9gw+GJG2HD61520OB8dy0FiIBOOC/kF7ywnNiSYnsCBNKcjGvQOCsEWL+oEZxH8oRoktefANXThSAe6WF6CGWN0Xk9pA/5N856/GdawaSkq67Gtgx+9NcHy83i2tJ6MXOJJB26b2E/7YatnamWG5Pn3q99vkE2j0ad1F/NKWVXtRQWePw9QR8w==;wj7gagG1bNneF568/+5eVg=="
 ---

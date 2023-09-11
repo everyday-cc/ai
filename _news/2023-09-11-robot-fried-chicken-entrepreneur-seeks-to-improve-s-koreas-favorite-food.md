@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 738
         isCached: true
+  - title: "Robot Fried Chicken: Entrepreneur Seeks To Improve S. Korea's Favourite Food"
+    excerpt: "In fried-chicken-obsessed South Korea, restaurants serving the nation's favourite fast-food dish dot every street corner. But Kang Ji-young's establishment brings something a little different to the table: a robot is cooking the chicken."
+    publishedDateTime: 2023-09-11T10:08:00Z
+    webUrl: "https://www.barrons.com/news/robot-fried-chicken-entrepreneur-seeks-to-improve-s-korea-s-favourite-food-a06efd08"
+    ampWebUrl: "https://www.barrons.com/amp/news/robot-fried-chicken-entrepreneur-seeks-to-improve-s-korea-s-favourite-food-a06efd08"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/robot-fried-chicken-entrepreneur-seeks-to-improve-s-korea-s-favourite-food-a06efd08"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 56
+    images:
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP7482220699834898514323190859962703852672---1.jpg"
+        width: 768
+        height: 512
+        isCached: true
   - title: "Taste this robot fried chicken: Entrepreneur seeks to improve S. Korea's favourite food"
     excerpt: "Kang's robot is capable of frying 100 chickens in two hours – a task that would require around five people and several deep fryers"
     publishedDateTime: 2023-09-11T07:52:00Z

@@ -2,35 +2,26 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-09-11-the-next-phase-for-us-is-ai-transformation.md",
-      "title": "‘The next phase for us is AI transformation’",
-      "excerpt": "India holds immense importance as a market for Microsoft, and we are committed to supporting its digital acceleration journey.",
+      "path": "_news/2023-09-10-2-ai-stocks-to-transform-your-portfolio.md",
+      "title": "2 AI Stocks to Transform Your Portfolio",
+      "excerpt": "Data from Grand View Research indicates a strong growth trajectory, with AI industry revenue expected to mushroom to $1.181 trillion by 2030, based on a CAGR of 37.3%. Additionally, Accenture's recent findings underscore the potential for enterprise applications,",
       "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/industry/the-next-phase-for-us-is-ai-transformation/3238978/",
-      "originalUrl": "https://www.financialexpress.com/business/industry/the-next-phase-for-us-is-ai-transformation/3238978/",
+      "webUrl": "https://www.nasdaq.com/articles/2-ai-stocks-to-transform-your-portfolio",
+      "originalUrl": "https://www.nasdaq.com/articles/2-ai-stocks-to-transform-your-portfolio",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 81,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/09/Artificial-Intelligence.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/industry/the-next-phase-for-us-is-ai-transformation/3238978/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/industry/the-next-phase-for-us-is-ai-transformation/3238978/lite/",
-      "publishedDateTime": "2023-09-10T16:10:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-10T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,8 +31,9 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI"
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -262,7 +254,7 @@
       "originalUrl": "https://techcrunch.com/2023/09/07/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 339,
+      "heat": 299,
       "tags": null,
       "images": [
         {
@@ -314,7 +306,7 @@
       "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231",
       "featuredContent": null,
       "highlight": null,
-      "heat": 191,
+      "heat": 201,
       "tags": null,
       "images": [
         {

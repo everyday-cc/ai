@@ -124,20 +124,6 @@ related:
         width: 3000
         height: 1687
         isCached: true
-  - title: "Five Things: Responsible artificial intelligence and the future of business"
-    excerpt: "She recently spoke at the Business Ethics Allia nce luncheon in Omaha about artificial intelligence and the future of business. Here are a few key takeaways from the event. We’ll share event highlights, founder profiles and feature stories digging into ..."
-    publishedDateTime: 2023-09-06T17:53:00Z
-    webUrl: "https://siliconprairienews.com/2023/09/responsible-artificial-intelligence/"
-    type: article
-    provider:
-      name: Silicon Prairie News
-      domain: siliconprairienews.com
-    quality: 37
-    images:
-      - url: "https://siliconprairienews.com/wp-content/uploads/2023/08/IMG_7969-scaled-e1694021646173.jpg"
-        width: 2560
-        height: 1642
-        isCached: true
   - title: "Unlocking creativity with AI in the future workforce"
     excerpt: "Generative AI is transforming digital content production, offering new tools that enhance the capabilities of creative professionals, as well as those not typically involved in creative roles. This fundamental shift will influence the future of work across all industries, according to software company Adobe."
     publishedDateTime: 2023-09-07T21:29:00Z
@@ -166,6 +152,6 @@ related:
       domain: axios.com
     quality: 17
 
-secured: "GC59IDAaSaqOpze7qD/Y2UszYa4Fa8AdiwAWi04vu6eYYlpbD7PVOhem/VrMtArf1Do8LdPrOKY2XmUF7mIgMz98mrqtAW1rrqEMKH5WwGuvchjo/+r2dlYBF/mcvDTUCTOtLsU8KOZq46nSI6jE6rOx+z9XhYCPI/7uZ98JM3aoTiHECJq1vWo/jicrBL9ZEntW40aN74n8gKxB75/NBP+9qYR5somyKLeMHVQF72v8Ok4LgcoorlgfqpoK8fQ/f4qOSQD0bZUryfHiztToQpWL3I4yHTIEtcAveAZb25uX+pQ6IRi1ptAO6IlNj9sfCpMTaYmcZj5zaSFg3FuWscYv1tWOeRZQzFyJJDYVae0=;V9bZbpu4Zcw8f4J/ErT3iw=="
+secured: "7DhoQVWMMiinxjeNeZs9qLsw/j5pTa4XS4TsSw3v7b9itzMCFGU6aBwqwd17PUO5YAh8Haeep1Nen3r7KdRV7WKelYeiNOA9y/l/HctJ8SQuBLUJyOQPHCYw9jvXVxFyUX94+nMXwzoXHPmDsRZwiW8x/L8cqgismuBMqvT5b2K85hIIvLJ2q6HznjI6u0QBYWkTdu9fg6uB5I0BD0mstr61P7ZASpSLqZkKgEJibt8RsF0S2ILHSvUB/6ZBD0Cu7kXrYvJpWGSgmWwyoLxxmHAETMUxLdYzzY3DwaHN6Cl1fL29FvhZ5zRosr+Rhoeda84ZK5V0ReJDY8cofdYr+yKHhYxfeCjMUAK9l8kDaqnNa3JGlcpzIeD1cnbwUCcZO2A3/VX7+xu98pedw2CrRHrNFN1EuavnX3TRGpoV78Q3SGpth2yVNSKfv7N5ToWycQS2cpd/F96kv3arll5HXPoOMlZe4TsYvX3G+nSr4z6qnqKBEjQdE3ZUI80+gV81LBcqRuL5juaABfXB0BMekA==;YrFeQQngPwjAFpQnYBTnsw=="
 ---
 

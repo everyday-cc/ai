@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/34317861"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34317861"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
+        isCached: true
+  - title: "Ai In Computer Vision Market Size, Share, Growth, Analysis, Trends And Forecast 2023-2030 X Herald"
+    excerpt: "AI in Computer Vision Market size was valued at USD 9.18 billion in 2022 and is expected to reach USD 207.09 billion by 2030, growing at a CAGR of 39% from 2023 to 2030."
+    publishedDateTime: 2023-09-11T11:55:00Z
+    webUrl: "https://menafn.com/1107045120/Ai-In-Computer-Vision-Market-Size-Share-Growth-Analysis-Trends-And-Forecast-2023-2030-X-Herald"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 42
+    images:
+      - url: "https://menafn.com/updates/pr/2023-09/11/ADC_6dc55f4e-0_Image_In_Body.png"
+        width: 1024
+        height: 1024
         isCached: true
   - title: "AI in Computer Vision Market Size 2023 Booming Worldwide by 2031"
     excerpt: "Global \"AI in Computer Vision Market\" surveys the evolving technology industry and the responses of both established and emerging players to long-term opportunities and short-term challenges."

@@ -49,20 +49,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "5 AI tools to automate passive income generation"
-    excerpt: "Learn how you can automate passive income generation using a variety of different AI tools currently available. Benefit from the technology"
-    publishedDateTime: 2023-09-10T10:27:00Z
-    webUrl: "https://www.geeky-gadgets.com/automate-passive-income/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/5-AI-tools-to-generate-passive-income-streams.jpg"
-        width: 700
-        height: 466
-        isCached: true
 
 secured: "b99hnqajrhR2sQ+/I9Ts6H+feJ7vVJ2TMjdyXcG+cnCzLyVaSsKpxiwzAVfQ7msqVf4pkEgy4YtCUtT6eiC1rxyiBk0SKjPT1B9iEOiajkHqVAl90ZMBTYb+4rlcIpxO9hvZ/n5h+vn254WuUoqSCnAiNM8gCzGGCCvkLnBaUBmZnc4Ob5tAMlq3ade9REEQlUHXFVhkn1PNHpJAepxzpfqFoxYRuO6WEACaDLIEImjToBBNeRZJ+6sp3LxfWDmZJj+vYLGudMZxysjh38oksWNsJHx7s/3lTEZbcu/BbHPCF+u5NpyZAtoW8kWmzq2SunOH90PASUEz5nAUHGEYTgLOxxCKI8MwbxfwQ4nsynTxZWihG7vj45HfiiL1528i3eUwKYhba1Fa0sQsRKtogyQ0gCpDbtcUTSVV+Qzrr70YIM3vjMBemQW27FMNbbNrajPt3/IoQbPs/NWN9QM3VbKEQlKqSlcEu0NpV5vIppvjBvg1ZeNM4RV7n8V1z84cR10GfWSydABaT1XA+NttCA==;f5VnQVk9KvDoMvX9196PvA=="
 ---

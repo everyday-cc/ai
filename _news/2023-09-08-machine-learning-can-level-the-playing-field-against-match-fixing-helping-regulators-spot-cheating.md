@@ -73,6 +73,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Fintech Customer Support India: Cynergy BPO— How Outsourcing Is Levelling the Playing Field"
+    excerpt: "Furthermore, the nation’s technological stride in Artificial Intelligence and Machine Learning ensures that fintech customer support is not just reactive but proactive. Predictive analytics, real-time feedback, and AI-driven chatbots have transformed ..."
+    publishedDateTime: 2023-09-11T11:25:00Z
+    webUrl: "https://www.telegraphindia.com/brand-studio/fintech-customer-support-india-cynergy-bpo-how-outsourcing-is-levelling-the-playing-field/cid/1965443"
+    ampWebUrl: "https://www.telegraphindia.com/amp/brand-studio/fintech-customer-support-india-cynergy-bpo-how-outsourcing-is-levelling-the-playing-field/cid/1965443"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/brand-studio/fintech-customer-support-india-cynergy-bpo-how-outsourcing-is-levelling-the-playing-field/cid/1965443"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 34
+    images:
+      - url: "https://assets.telegraphindia.com/telegraph/2023/Sep/1694430652_untitled-design-16.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Navigating Self-Driving Cars By Looking At What’s Underneath The Road"
     excerpt: "For self-driving cars, tackling the latter is relatively easy, as the system would use the same information in a similar way: when to to change lanes, and when to take a left or right. The former ..."
     publishedDateTime: 2023-09-07T00:00:00Z

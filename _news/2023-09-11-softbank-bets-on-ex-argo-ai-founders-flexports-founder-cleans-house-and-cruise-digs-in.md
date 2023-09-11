@@ -81,19 +81,14 @@ related:
         height: 320
         isCached: true
   - title: "SoftBank backs autonomous trucking firm started by ex-Ford self-driving executives"
-    excerpt: "The founders of the former self-driving unit of Ford Motor Co. and Volkswagen AG are launching a new autonomous trucking startup with backing said to be more than $1 billion from Japan’s ..."
-    publishedDateTime: 2023-09-08T12:36:00Z
-    webUrl: "https://www.autonews.com/mobility-report/softbank-backs-autonomous-trucking-firm"
+    excerpt: "Stack AV is led by Bryan Salesky, Pete Rander and Brett Browning, who ran Argo AI, the self-driving operation that Ford and VW shut down last year."
+    publishedDateTime: 2023-09-07T20:26:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/ford/2023/09/07/autonomous-trucking-firm-started-by-ex-ford-self-driving-execs/70788975007/"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 18
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/STACK.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 0
 
 secured: "u3gJY1I54Wnlr2qX9Qg3QMJvk10pLIxdyJKDAMTCjTYfuxt+3M7/am4ggBJ1lKWzIzv4EaNt3ArHOa9itCz2BTV0DL00a0BqrJsO8BawmSyzeE+sZq0Rf2EUreQV9WEq2zT6m4fBzYPod8IqiegYDZcn9IwIiaflv7eapUYrYMnIfzV8p6QYsckg3m3oNIrx02sSLhrQPnW/mgWHMPsShooaD5YrB0OqEZ8EvXyWR6m9INTDsInLtfWLYHc8J58dvzVsqSeC5iP8J1mZkmZinrPdGs1AWDVIprMdHBE/B9m2BZ3qrPc8Ir56quR1wePSL6GvWaU02Ur0uh1wp99iPSPLGPYgPh40oHC4xgLTlf8=;Cm4QfkiIHqwn+WSVHuvscA=="
 ---

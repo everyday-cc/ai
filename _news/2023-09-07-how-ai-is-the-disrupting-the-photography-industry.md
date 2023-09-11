@@ -7,7 +7,7 @@ originalUrl: "https://it-online.co.za/2023/09/07/how-ai-is-the-disrupting-the-ph
 webUrl: "https://it-online.co.za/2023/09/07/how-ai-is-the-disrupting-the-photography-industry/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Propane industry considers impacts of artificial intelligence"
-    excerpt: "I set out to learn about artificial intelligence's role in the propane industry and its potential future impacts. Here’s what I shared with my colleagues."
-    publishedDateTime: 2023-09-08T18:54:00Z
-    webUrl: "https://www.lpgasmagazine.com/propane-industry-considers-impacts-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: LP Gas
-      domain: lpgasmagazine.com
-    quality: 39
-    images:
-      - url: "https://www.lpgasmagazine.com/wp-content/uploads/2018/09/LPG-social-default-iStock-162819887.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "How valuable is the UK’s AI industry? Here’s one way to not find out"
     excerpt: "Gee willikers, that’s a lot of artificial intelligence. The estimated current value is more than four times the market cap of the whole FTSE 250 index, a commonly cited measure of British domestic industry, and isn’t too far off the £1.9tn market cap of the FTSE 100."
     publishedDateTime: 2023-09-07T19:20:00Z

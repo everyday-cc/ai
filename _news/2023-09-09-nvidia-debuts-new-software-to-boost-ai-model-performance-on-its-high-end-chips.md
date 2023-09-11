@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/09/08/nvidia-unveils-tensorrt-llm-bo
 webUrl: "https://siliconangle.com/2023/09/08/nvidia-unveils-tensorrt-llm-boost-ai-inference-performance-h100-gpus/"
 type: article
 quality: 50
-heat: 60
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "TSMC Candidly Explains Why It Can't Keep Up With NVIDIA's Red Hot AI Chip Demand"
-    excerpt: "Unlike many computing trends, AI has practical purposes, so it has stuck around beyond the initial fad period. People are using AI for anything and everything, even when it isn't particularly-suited for the task."
-    publishedDateTime: 2023-09-08T18:52:00Z
-    webUrl: "https://hothardware.com/news/why-tsmc-cant-keep-up"
+  - title: "Here’s how Slack envisions adding gen AI to its software"
+    excerpt: "Slack is already working to include new generative AI tools in its popular collaboration app. But the company is taking a methodical approach before rolling out any new features."
+    publishedDateTime: 2023-09-11T07:00:00Z
+    webUrl: "https://www.computerworld.com/article/3706290/here-s-how-slack-envisions-adding-gen-ai-to-its-software.html"
+    ampWebUrl: "https://www.computerworld.com/article/3706290/here-s-how-slack-envisions-adding-gen-ai-to-its-software.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3706290/here-s-how-slack-envisions-adding-gen-ai-to-its-software.amp.html"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 29
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/09/screenshot-2023-09-07-at-17.11.58-100945658-large.jpg?auto=webp&quality=85,70"
+        width: 1199
+        height: 819
+        isCached: true
 
 secured: "2jVhuq+I/0KM+oZT/SXofuUvCtFlwu7vjt4YFfs/hl/5y0H96v+LnrasiPdLjocsoa8rI2/mt1P5wcfOJgd3UyF9PL8k6wvBvYiNSFLQlSrKW8S+AiCkYpy+YJ10kMb/n+FPJ0qMBNyvp5ioGVTWEpfPuIVY4wwdadN2yync197zhEn2ySEHbOn8Cyy0oJgZnzVAuu9Rx5mEN3CG0mAPf9Hdprduk13vCg1Bmn5K5VsgMFJvBZEhfSWbUQAL8hG3FzTGlK4JIfjwteWpn0RoWeRY5TyPQVr//Cgwgouy6FwrZ3j8/pkEueq2x0SnaeYzw/OwaIyPXfQLzhAUwIKOJjN0EZcWdETafsPnaxyHeGV3IZYZqeyu8jhhkC0qe3+yMDtpiBJ7LyeAe7SA4FmmyQZwZUzrgf5CuIQct1/9Wkf9ZuGq3C2Ypx+eBSKFSUhjIaORW0FqDXyVhrFg1F5xh63W5BeF+dPjolHEF3YpuvWxZxL7rxwRhYD4jAKrPH3KNwprYepF5GKQ4RZNYEEC0w==;NIt14rmAPFTk0ryLmwfKyQ=="
 ---

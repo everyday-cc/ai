@@ -7,8 +7,8 @@ originalUrl: "https://www.aol.com/news/generation-ai-education-reluctantly-embra
 webUrl: "https://www.aol.com/news/generation-ai-education-reluctantly-embraces-060455884.html"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: AOL
@@ -39,6 +39,20 @@ related:
       - url: "https://thepeninsulaqatar.com/get/maximage/20220507_1651904484-200.jpg?1651904484"
         width: 1080
         height: 810
+        isCached: true
+  - title: "Exploring Amazon’s Advanced Recommendation Systems Driven by AI: A Behind-the-Scenes Look"
+    excerpt: "Welcome to the realm of Amazon, where personalized recommendations reign supreme! Have you ever wondered how this e-commerce giant seems to magically anticipate your needs? The answer lies in Amazon’s cutting-edge recommendation systems,"
+    publishedDateTime: 2023-09-11T11:48:00Z
+    webUrl: "https://techbullion.com/exploring-amazons-advanced-recommendation-systems-driven-by-ai-a-behind-the-scenes-look/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 30
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/09/Untitled-design-2023-09-11T124753.575.png"
+        width: 800
+        height: 400
         isCached: true
 
 secured: "nt/kc07qnOmd8otNLLwzfGLthHfb6v3XF8v1GUgTyGNzPxRZj/lLAi20FGoqnX3mR+DhP1jafYjtUynwjjQNJc2vUX/NpUmqv9elqloLQSfcGB+ayOxNJEkymvy/5f4DWM5fzumJovCg+hHNAP9IrHBUoiSEPbUgr5WcTx3HyHxqGFR9yGRhMbIGgZR/zRIZvUQhHDelHI/WdEGGbUrcaxQpAZivXsJmogOCLGI0zTUANxE2l1oLjSsKwbKTuWF0eqp3oWYFPH4ZB/THLuzaXNQuBQacNpX2iVvNomGRxFAB8Y82Qmx9S8+MHiPcxp3YVMS+Io2hzoh1tT0pXeIghqjn+1+CNl3V0cT76nYxQtVjIWgXhGYhKomvI9jNMbB2ITKu1GIh0wzgIV0gwwMB/46TWkm7orbDr3QK9mgz0scahECQq84xPOJEwfaS3ul9YbiY5qoNBwV7tQPJyPEThF+erRMhFqjzdSkRzhR0IQYHJTX+DEof2Ouc9TVKAog8FJeeFnCeXHcQkdkImB3yjw==;OuPLK3o5vohSpJFqtoufeQ=="

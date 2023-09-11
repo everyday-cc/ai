@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 589
         isCached: true
-  - title: "Easier and faster materials microstructure analysis through human-AI collaboration"
-    excerpt: "A research team led by Dr. Se-Jong Kim and Dr. Juwon Na of the Materials Data Management Center in the Materials Digital Platform Division together with a research team led by Professor Seungchul Lee of POSTECH has developed a technology that can automatically identify and quantify materials microstructure from microscopic images through human-in-the-loop machine learning."
-    publishedDateTime: 2023-09-06T17:57:00Z
-    webUrl: "https://phys.org/news/2023-09-easier-faster-materials-microstructure-analysis.html"
-    ampWebUrl: "https://phys.org/news/2023-09-easier-faster-materials-microstructure-analysis.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-easier-faster-materials-microstructure-analysis.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 51
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/easier-and-faster-mate.jpg"
-        width: 1773
-        height: 1341
-        isCached: true
   - title: "Synopsys extends AI-driven full-stack EDA suite"
     excerpt: "Electronic Design Automation (EDA) giant Synopsys Inc. has extended its Synopsys.ai full-stack suite of artificial intelligence (AI)-driven data analytics."
     publishedDateTime: 2023-09-07T12:22:00Z

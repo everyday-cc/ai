@@ -25,45 +25,86 @@ images:
     isCached: true
 
 related:
-  - title: "My 5 favorite AI tools for school: Class is in session, and generative AI can help"
-    excerpt: "During last year's back-to-school season, ChatGPT had not yet been unveiled, and generative AI wasn't on everyone's radar. However, today, the topic is more popular than ever, and new helpful AI tools for students are released daily."
-    publishedDateTime: 2023-09-08T07:26:00Z
-    webUrl: "https://www.zdnet.com/article/my-5-favorite-ai-tools-for-school-class-is-in-session-and-generative-ai-can-help/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/my-5-favorite-ai-tools-for-school-class-is-in-session-and-generative-ai-can-help/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/my-5-favorite-ai-tools-for-school-class-is-in-session-and-generative-ai-can-help/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 81
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/949a661a78ead34fee854ac7a7d758e36b74306a/2023/09/07/1c6fb698-f446-4f99-87ef-04b1c12e5445/gettyimages-1467277901.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Governments Urged To Get A Grip On AI In Schools"
-    excerpt: "Regulation is needed to protect students and teachers, according to new guidance on the use of Artificial Intelligence in schools."
-    publishedDateTime: 2023-09-07T14:14:00Z
-    webUrl: "https://www.forbes.com/sites/nickmorrison/2023/09/07/governments-urged-to-get-a-grip-on-ai-in-schools/"
+  - title: "A Vision Of AI-Enhanced Test Automation"
+    excerpt: "To further increase testing precision, one could employ feature recognition bolstered by computer vision libraries that can categorize and identify UI elements within application screenshots. Convolutional neural networks (CNNs) step in, classifying ..."
+    publishedDateTime: 2023-09-11T11:16:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/a-vision-of-ai-enhanced-test-automation/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/a-vision-of-ai-enhanced-test-automation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/11/a-vision-of-ai-enhanced-test-automation/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 67
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64f9d707743b486272f9e2c7/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/632dbc560496916bbddd5385/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Governments Must Quickly Regulate Generative Ai In Schools, Unesco"
-    excerpt: "designed to address the disruptions caused by Generative AI technologies. Building on UNESCO's 2021 Recommendation on the Ethics of Artificial Intelligence and the 2019 Beijing Consenon Artificial Intelligence in Education , the guidance promotes human ..."
-    publishedDateTime: 2023-09-08T19:43:00Z
-    webUrl: "https://menafn.com/1107035192/Governments-Must-Quickly-Regulate-Generative-Ai-In-Schools-Unesco"
+  - title: "How Edge AI Enhances Video Surveillance"
+    excerpt: "This website uses cookies to enhance your browsing experience and serve personalized content. Privacy Policy"
+    publishedDateTime: 2023-09-07T14:50:00Z
+    webUrl: "https://www.securityinfowatch.com/video-surveillance/video-analytics/article/53069691/how-edge-ai-enhances-video-surveillance"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 19
+      name: Security
+      domain: securityinfowatch.com
+    quality: 39
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/08/16x9/GettyImages_1379911617.64e8c2d440239.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Crafting persuasion: mastering compelling arguments in the age of AI and the video generation"
+    excerpt: "Stratton Horres and Karen L. Bashor of Wilson Elser provide tips on combining AI and video evidence with the human connection in trial presentations, and opening and closing arguments."
+    publishedDateTime: 2023-09-07T17:29:00Z
+    webUrl: "https://www.reuters.com/legal/legalindustry/crafting-persuasion-mastering-compelling-arguments-age-ai-video-generation-2023-09-07/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 36
+  - title: "U. community discusses integration of AI into academic, points to opportunities for innovation"
+    excerpt: "Provost Francis J. Doyle III identified the intersection of artificial intelligence and higher education as a University priority in an Aug. 31 letter to the community titled “Potential impact of AI on our academic mission."
+    publishedDateTime: 2023-09-11T01:01:00Z
+    webUrl: "https://www.browndailyherald.com/article/2023/09/u-community-discusses-integration-of-ai-into-academic-points-to-opportunities-for-innovation"
+    type: article
+    provider:
+      name: The Brown Daily Herald
+      domain: browndailyherald.com
+    quality: 27
+    images:
+      - url: "https://snworksceo.imgix.net/bdh/e5fe520b-9661-4b62-97b0-0aca8c65a60b.sized-1000x1000.jpg?w=800&dpr=2&ar=16%3A9&fit=crop&crop=faces"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Code Conversion and Documentation Through Artificial Intelligence"
+    excerpt: "Emerson's generative AI tool Revamp helps users automate system configuration. With artificial intelligence (AI) taking a larger role in the workforce, tools like Emerson’s cloud-based Revamp software are more important than ever. Generative AI can ..."
+    publishedDateTime: 2023-09-06T19:38:00Z
+    webUrl: "https://www.automationworld.com/leaders/analysis-software/article/33011131/code-conversion-and-documentation-through-artificial-intelligence"
+    type: article
+    provider:
+      name: Automation World
+      domain: automationworld.com
+    quality: 17
+  - title: "AVIA’s National Generative AI Collaborative Announces New Experts, Enhanced Health System Participation"
+    excerpt: "The Generative AI Strategic Collaborative reveals a slate of 10 clinical, ethics, technology, and regulatory experts for its national consortium"
+    publishedDateTime: 2023-09-07T16:04:00Z
+    webUrl: "https://www.kansascity.com/press-releases/article279063044.html"
+    type: article
+    provider:
+      name: Kansas City Star
+      domain: kansascity.com
+    quality: 3
+  - title: "AVIA’s National Generative AI Collaborative Announces New Experts, Enhanced Health System Participation"
+    excerpt: "The Generative AI Strategic Collaborative reveals a slate of 10 clinical, ethics, technology, and regulatory experts for its national consortium"
+    publishedDateTime: 2023-09-07T17:04:00Z
+    webUrl: "https://www.miamiherald.com/press-releases/article279063044.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 3
 
 secured: "szM2Fkn1G84r8713cO6WcLcknBOhtGTDVsy5SY2p2NkjiKCpBj/xLXuVEiH+H2nlb8d1bSIjUFxbeJuAdA7WfiRcngsY9yQO9zUSszI4Mok6bVuWZiOe9bsotM28ENcs/3cMUUg3K9ZKKdzwHt4PV0QJ706QMCrsm2D7TWSQbBJKXZGRbyQUieg9XKxI1qDcowMALonqm2KsrZloNc2fwthL6hrAz7aq091EiK3kJZynHOcMZgRLYmaKbf3sIY6c5g3Ft21gx8LQw+c3ff+IaNX1rFPYQTUl5ZseaKN9Md6ZBcSD9pyQrMEh5MBcSqQklPxFvsdN6ZffMrkfHjfEUTptHU+TFZPEXG6xfx2EScQ=;mmUhWxC65Fg20205FAJ1OA=="
 ---

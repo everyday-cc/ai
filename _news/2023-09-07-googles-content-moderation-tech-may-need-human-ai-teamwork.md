@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/09/07/googles-content-moderati
 webUrl: "https://www.fool.com/investing/2023/09/07/googles-content-moderation-tech-may-need-human-ai/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1500
         height: 800
         isCached: true
-  - title: "Code Conversion and Documentation Through Artificial Intelligence"
-    excerpt: "Emerson's generative AI tool Revamp helps users automate system configuration. With artificial intelligence (AI) taking a larger role in the workforce, tools like Emerson’s cloud-based Revamp software are more important than ever. Generative AI can ..."
-    publishedDateTime: 2023-09-06T19:38:00Z
-    webUrl: "https://www.automationworld.com/leaders/analysis-software/article/33011131/code-conversion-and-documentation-through-artificial-intelligence"
-    type: article
-    provider:
-      name: Automation World
-      domain: automationworld.com
-    quality: 17
 
 secured: "YgU3Pjw1etagKkLb0aZIzXrIzay76QiQEJPqIEtnTYOdCBWvoIdxI8yzIZK171n2gCFfSCKJIwZT+KF+/RypDtX9ntLnsYV1aMilrak2S4zaTauSJajW35xhoHJagOPz9hL659dnAGmXV6R9xkx6taYZGmI1nOYjsXvhZRrJfjbWaPqO6v0SiHfhmAdYNX/akcAbA+otwOcwAg/LEP9/8yOycvhGkcViamPyIY0Rni7jdFMcxX93nO+16lAqDGqDtrS9zn4DGtZrDaGaL+aZHzhEv8TY9W9vkz40bhLIdV3fm+X7R9vjA331bdZ/1CygTPPFKG1XXKnDybO/kp8yfaxFIH76zJbB9Jjj73mqjy8=;lBmRlp2lxLll+axvR7qffA=="
 ---

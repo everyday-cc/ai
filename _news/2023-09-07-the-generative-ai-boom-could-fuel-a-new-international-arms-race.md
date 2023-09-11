@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/fast-forward-generative-ai-could-fuel-
 webUrl: "https://www.wired.com/story/fast-forward-generative-ai-could-fuel-a-new-international-arms-race/"
 type: article
 quality: 69
-heat: 99
+heat: 79
 published: true
 
 provider:
@@ -38,24 +38,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "AVIA’s National Generative AI Collaborative Announces New Experts, Enhanced Health System Participation"
-    excerpt: "The Generative AI Strategic Collaborative reveals a slate of 10 clinical, ethics, technology, and regulatory experts for its national consortium"
-    publishedDateTime: 2023-09-07T16:04:00Z
-    webUrl: "https://www.kansascity.com/press-releases/article279063044.html"
-    type: article
-    provider:
-      name: Kansas City Star
-      domain: kansascity.com
-    quality: 3
-  - title: "AVIA’s National Generative AI Collaborative Announces New Experts, Enhanced Health System Participation"
-    excerpt: "The Generative AI Strategic Collaborative reveals a slate of 10 clinical, ethics, technology, and regulatory experts for its national consortium"
-    publishedDateTime: 2023-09-07T17:04:00Z
-    webUrl: "https://www.miamiherald.com/press-releases/article279063044.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 3
 
 secured: "JbJvzmZGra/xjGBWSZu04i26mlHbOeVXH530b0OOYeuktXWYPUe6PVrfAnBfi0diGbpp57h8xZVIaRz6jkm/HruhkhnuUITPEz78FfAYtsUFcL2X1Zndi0fNfxhi7xcT6VP0grklVZsDwFAjEB66z8Jo6n+60x2uQHcSchE+OKWyPxFkxFRTDSZUsvOdLZ+g7hlriW5//HWkUigwrD1RNOYHzswFGw0X419cO6GG5fVdbdv5R/38Wv2wA+kB1xtPVGo+vbLwio2oOjhl/Odc8ougSyGvmmwB+b4RlpEFt6EoAMqO5Dey0+rJFreQOZd/kJnSZ2x59osmObs4brwXiTXdKfkH9I56chps//LUNohSPnDI1IbXsg5oi6IitDPFZcnEsJahico7ddLT4HItAzPnDLjXQoBG75MKej9OlMKcEqzfq+ugUY3DOxBBN533HEvho3aUz3CIdGtNb3fkUkaJydVEL55xhFzxJPdreBrQV5Amh4VBM+bgNg/nHK2eYOSxNmlLfKsJqndX/XRWpA==;tLEnNjOX7dH8IRBTDlERxA=="
 ---

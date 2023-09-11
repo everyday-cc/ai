@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "UK researchers start using AI for air traffic control"
+    excerpt: "UK researchers have produced a computer model of air traffic control in which all flight movements are directed by artificial intelligence rather than human beings. Their “digital twin” representation of airspace over England is the initial output of a £15mn project to determine the role that AI could play in advising and eventually replacing human air traffic controllers."
+    publishedDateTime: 2023-09-11T10:00:00Z
+    webUrl: "https://www.ft.com/content/783a9d91-cce3-4177-bfe0-5438aa3b892a"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "cjj/DJ/VWeSdX9FcHrXN8aCweUPJmH9wmHxwaVLNi0lFXYhP/s65XyaqBs5kgkBIrV/7evf/hzWU5zMazJbwHIZvBtIROcvA6MDGgPtRMfmzMeqdfo9hzuaf9tZ1vHtZRpc1C6935UnZeTGIUHi5vzkmf3q1cj36E/g+z093o1EcQus1IcybTYeRubcdmPgWbKoy2BNOY4BvGoUGa64UWyHOLrr+92qsy5PeeGLR44IEoOp9AhwRVRwPLTRldLdoaV+Yktk5z5E6hzJtGXqxQZ0+2jw8rbsJ0vAI/HHcOO8OL1Vr6RL5EV8VWBl5RDnMhd3Nij1a5k6xsysX/BzerOjAIJ+FHX3XOgl0w/Q2HL4=;p+hHHiwY+cMvh66aDomCmw=="
 ---
