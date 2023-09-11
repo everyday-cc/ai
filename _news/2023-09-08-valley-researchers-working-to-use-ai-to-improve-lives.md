@@ -7,7 +7,7 @@ originalUrl: "https://www.abc15.com/news/local-news/valley-researchers-working-t
 webUrl: "https://www.abc15.com/news/local-news/valley-researchers-working-to-use-ai-to-improve-lives"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "How to use Perplexity AI as a research assistant and fact checker"
-    excerpt: "it’s designed to be your AI research assistant. Envisioned to have a conversational interface, contextual awareness, and personalization features, Perplexity aims to redefine how we interact with AI to find information, solve problems, and accomplish tasks."
-    publishedDateTime: 2023-09-06T11:23:00Z
-    webUrl: "https://www.geeky-gadgets.com/how-to-use-perplexity-ai/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/How-to-use-Perplexity-AI-as-a-research-assistant-and-conversational-interface.jpg"
-        width: 700
-        height: 488
-        isCached: true
 
 secured: "0IUWdQotV2RIo0xy7EIcrffUSg15qz6DNqGE3e22yZaDzx9OiPv4kClzenvst7HDV1rsnd13tjhv0qvDmlLr6O33HMLoc9mpGV9PlvyyIq3ys/It/COq+Scv1SH5N1XRvHbrmNQFpsAbpah1cOyg+daNpsyEvJxZvrh18Z08zBuPPAo38kI4X5vDvtTC3Cehsp7DJNHfb9SE6TLGDxWpLvbigGFW/1W7tFFzIl4+SUdbvrsvNdWgK/PLpSW8oikOSQS4zaEDwG+4XiGR2+kKsEw9aCjBYX2rIZ7yvQ7F4Qj9vA8XChebk70hdJ/zFtrwaU9E5LlEwyKZj3+RbIDevC8nRH2jvZaDdQZIZE7UN4GoV37ut3c0ZbFtiF9Ol9hOTUo/CYTGUnx9jyyolVO4Nf97XzggoTiY8iDVGK2yV7ck8DLQvb7m3RIv7goZ/r5aS+Z8oRxxv1tj95E/4wQhGo7PJ/6rrP29t1FgF6kz0Ck5+4CwXEe9GKNLt9ACAePrb/ZecIgQtBGmMuNVx6pXVQ==;kB4m7Naqoud21yMwPksPBw=="
 ---

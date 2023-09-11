@@ -57,15 +57,6 @@ related:
         width: 533
         height: 405
         isCached: true
-  - title: "Fincover invests 7 crore to develop Fintech App - Funding the Future of Fintech"
-    excerpt: "We have leveraged AI and machine learning technologies to incorporate image ... the financial ecosystem in India with the launch of our Fincover app\". Finfotune is a fintech company based in Chennai. We have partnered with India's leading banks, NBFCs ..."
-    publishedDateTime: 2023-09-06T12:33:00Z
-    webUrl: "https://www.livemint.com/brand-stories/fincover-invests-7-crore-to-develop-fintech-app-funding-the-future-of-fintech-11686302457526.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 0
 
 secured: "DoDiLSdUByAPHy0iiY6iApzDK9No4atnE/SOJ2OGJ1GpUd6Q8iYLJIn8JwytMCOGyWwcbs53wggaF11cJTlb3NFHBJ2k4GVEZPsnS7W391rKuUiccxaLBJYZtXgMCtOohOcfvQeisYOAPVE/4Exaligo9hk+sDRAJOXsHeZcx8yP0IeZAtT4IY8aWlmaGFKGsqjd1ycG0lYls1pDCqOYgSMkYoOQU8D57tF+PH4BjZahphW3e/vx2DvdUcasWYuvMooEbQ9AyGfgl0iKJ4BRKSeFSM/0HJM91cHhuvMVykHOnHDPRadSdCXNjw8tyooaTXUdertAvIWBvBYm7eIBh0dEQQwFBHvOtemCzVOdDnHAs2Amf+vKeVDqeU4yS6tcvAedaOTwTmQO9D5OrORTm3GE+0MppGcflsH/GQ00DwdNkSNYiOjVUotuakKYf5J9oDmlWmQ43SX3/aRUA5kRfRGw0Vt5ux4QCWP4H+S1VdE1nknrYB1XNS0gQEYu7jmN2de/X/LMlrQprtOfayoXmQ==;WU1YLsDWyRRxupscWIlgww=="
 ---

@@ -28,15 +28,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "AI and the New Digital Cold War"
-    excerpt: "Globalization is not dead, but it is changing. The United States and China are creating two separate spheres for technology, and artificial intelligence is on the front lines of this new “Digital Cold War."
-    publishedDateTime: 2023-09-06T12:05:00Z
-    webUrl: "https://hbr.org/2023/09/ai-and-the-new-digital-cold-war"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 17
 
 secured: "46V0pIezk9k7Xk8g8lYq1VDlTw4IhzcD11ltD9J90OOCQKFcRHwVx/+C2S4buQgLLWOTGBvtpYkUwZIEuKFMlgLUo0stzN9AZpwYz7QcaS6IHOw7goJHzVyxoBDWuTn7zcKh6i3ImB5T7Vqje8olYCnh6pnrB7aPatWveA4/NS39C0mTGzDcdJE5fc1FUaRDRm7izWImAGv1CMFB41TPtSzthV0mnDW8/TJDJnS8QA+EqffOrNCYg+SCchq6PwZqzAA+4ZmIW0s64wutY3wyU1ZRR1Sw7tHUo6xnXx8pH6DviHG+w90qanow5dlvEulWCcBvYYXMuMfwe7PlmWRiNYnJQ2SSIzQFS7yL5WzlSKo=;p4RcF7m7lBRaHAgT2PucWw=="
 ---

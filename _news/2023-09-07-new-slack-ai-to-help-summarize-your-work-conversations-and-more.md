@@ -36,15 +36,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Otter.ai launches generative AI tool to help sales teams close more deals"
-    excerpt: "OtterPilot for Sales can transcribe calls, provide insights, identify action items -- and automatically syncs with leading CRM and productivity tools."
-    publishedDateTime: 2023-09-06T13:00:00Z
-    webUrl: "https://www.zdnet.com/article/otter-ai-launchesotter-ai-launches-generative-ai-tool-to-help-sales-teams-close-more-deals-generative-ai-tool-to-help-sales-teams-close-more-deals/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 63
 
 secured: "Ak+AU0OtnJ1bwgefgCZtLFMOb1HLqqWfFb2mecX+wLhumfx03iwG8RzOQmPMJ9xYCMvcSXG4NRAcHDJ9Ys7xS1nqr3MAm/LrRQMtFG8OuB8OL/mOxFKJQDZNywJT2WsqlWjy5uSWHx7taC7mZvSdYuCwL/Rax3dgMXu4uO5LThGL1b3HixvGjOT5AYa7YeFt7BlFaL4P3vSVX7+9Gt4qRNoAvhRvyyJXaXWV+DtWZlDcOZmIbGaiaVanlUM+CxQicp02NXH8RYdihEkaBKkRtf9Uqqvxl0ZLKubLIswVuPm8IzFCEGnePUvkBnizOpSqWhxaaNb+1+QgAU9yoiLleGqMyjVtNuWAXxc/Z6YlSD2lIJ+4x8qjAtxCb8hKiA+HLohMwyxcjFbyX/6zlociyCSCRAHyM9r3M08nSqndcLR420EHFGPKZkfWb7entB+VQmDMa4r8UzgO46uF3585gfuitBYzHVe7IKEX53Ss+6cxIQuVvpwbmI5SAejI6dE+3hrj28Nq3i6OqAUp0f86cQ==;3X2MKdKXauRc7sdA6+Aa1g=="
 ---

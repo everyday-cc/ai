@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 579
         isCached: true
-  - title: "Zinfi Introduces Advanced Generative Ai Capabilities For Its Partner Relationship Management Platform"
-    excerpt: "Integrating industry-leading GAI capabilities from Microsoft into the ZINFI platform will help enterprises accelerate marketing content generation,"
-    publishedDateTime: 2023-09-06T11:26:00Z
-    webUrl: "https://menafn.com/1107016994/Zinfi-Introduces-Advanced-Generative-Ai-Capabilities-For-Its-Partner-Relationship-Management-Platform"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_9.jpg?732611"
-        width: 353
-        height: 250
-        isCached: true
   - title: "Funding to generative AI seed startups doubled in Q2"
     excerpt: "So far, at least, the answer is the latter: the true test for any technology is not only when the major tech companies start latching on ... across 48 seed stage deals alone in the generative AI space, nearly doubling the amount of money from the previous ..."
     publishedDateTime: 2023-09-08T19:12:00Z

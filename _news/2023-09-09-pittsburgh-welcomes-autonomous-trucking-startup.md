@@ -26,22 +26,6 @@ images:
     height: 438
     isCached: true
 
-related:
-  - title: "Pittsburgh Power Moves: Alum-founded startup joins Venture for America’s accelerator and robotics founder departs"
-    excerpt: "Carbon Compost is an East Liberty-based sustainability startup aiming to make it easier for people to manage food waste in cost-effective ways. Now, it’s one of six companies that has been selected to participate in the 2023 Venture for America accelerator program,"
-    publishedDateTime: 2023-09-06T12:30:00Z
-    webUrl: "https://technical.ly/startups/pittsburgh-power-venture-for-america-carbon-compost-re2-robotics-sarcos/"
-    type: article
-    provider:
-      name: Technical
-      domain: technical.ly
-    quality: 33
-    images:
-      - url: "https://technical.ly/wp-content/uploads/2022/09/VFA-class-of-2022-2023.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-
 secured: "R12nQwDYfJfNI5tWN4a3+7mZqFuehdRYxKknxKssIeK0+Ebe3s5RIA4kDpJdV0zpJHCcAqhD2wk4W85xjDWek5US3VAkguRWA9FvX7sSF/m3GgD1mPuxytP2BFJ9+dloIK5ezRw6VcgdNKDmyFJrr5gi4NNV0r/vk8il/bnLj3LUhi7T1J8FyGZdRg6JRanngQ7I+wsrM6vgP0BtPeeLHco/Sp8ABNqehYKK3UWvoNKuteGnnTrExGUxyXrziqAdf9CUINr8pz29IZO2pBaGYg0IYSDyD8FSe1RcvRlX1WsLnYU4TO6YCKtdH9fSxgUBx0686VYFo0ttN0iydwYv53LgUUADALZTzbxYLhZ2jJvQjuEnuMN1ydLgtdrxa+s4ZLvY0zFKrbdiFS7vd8XyfcW6krUPO5M+Go5YmFLY46PVDtItyjs0FxikjjA9F1F3AzdyMtas0jq5reC39kkc2qCx04X6DNXtmyFKEhQ4aucYEMlNYex1dEva0pAuBA/bVKblzrqPRP6CTK2L2zpqVw==;Z4GMTW2X8mgq2lgoz+uPvg=="
 ---
 

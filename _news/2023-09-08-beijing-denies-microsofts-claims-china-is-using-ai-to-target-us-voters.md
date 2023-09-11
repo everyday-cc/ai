@@ -171,15 +171,6 @@ related:
       name: cnbctv18
       domain: cnbctv18.com
     quality: 36
-  - title: "Microsft-backed AI startup d-Matrix raises $110 million"
-    excerpt: "Generative AI compute startup d-Matrix has successfully closed a $110 million Series-B funding round led by Singapore-based global investment firm"
-    publishedDateTime: 2023-09-06T12:01:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/1025652/microsft-backed-ai-startup-d-matrix-raises-110-million-1025652.html"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 17
   - title: "LSEG and Microsoft launch 10-year strategic partnership for next … – Microsoft"
     excerpt: "Strategic partnership highlightsFinancial effects for LSEGEditor’s note – Dec. 13, 2022 – The name of Microsoft Purview was corrected.LONDON — Dec. 12, 2022 —"
     publishedDateTime: 2023-09-09T16:56:00Z

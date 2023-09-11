@@ -34,15 +34,6 @@ related:
         width: 1440
         height: 500
         isCached: true
-  - title: "The human costs of data-driven AI"
-    excerpt: "That is pretty much the universal reaction I get when I ask people about Josh Dzieza’s recent article in The Verge."
-    publishedDateTime: 2023-09-06T13:06:00Z
-    webUrl: "https://digileaders.com/the-human-costs-of-data-driven-ai/"
-    type: article
-    provider:
-      name: Digital Leaders
-      domain: digileaders.com
-    quality: 19
 
 secured: "awj2rCrxSq1XffxfQ1ru1yPUCsv+oF0DEpgYpgRzJjZWiIII4YJk7IVKgAC+jbkLtEqysGf0UBfsx656XaWdPPQmzTufSSa7oHhgm+hJXiHOQqJT/jBiPQcqbpkauZS1XuuJMMcG3Tcwqu9LuCqS/p3E2YfSYsWnV2anLIOCVckkzRO1hyjoVDEkjw7QwDtq+Ec4WntWkIHv+uI0ek95iv27kzviWXneJ9FNa3Gt2aYNWxI6zW5rWgDvHxoie6hrY4bYLIloj8JYUzKi+ukStYU+RT4uLjm4ghOOSbSyx4GRUa/F19jktmfV2YAxxvArzULOFSAdqgipNKyzc3fAtlpwQcXWWsGZiJQrbeEDLuuYKRnUuVkvVZFMHP6VlxR6ESyR3R2g9mIdMpUE6fwNYOd3aDKriICoJ+48CtPK26V8jpgw19iaouptdjAtZqpcuqISITYLBlnK6wiCjEk6Ev1qYWY3zLU81fkWGLFnIdUn0IfLQZ0zHWyeJDHN7AeqaV0LcwI0Gr31UsJmnr7H9g==;FR9lg5vPF9cxK+kvxQ2row=="
 ---

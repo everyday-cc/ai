@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/07/the-power-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/07/the-power-of-causal-models-in-moving-from-weak-to-strong-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://images.wsj.net/im-848428/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Meta is developing a much more powerful AI"
+    excerpt: "Meta is reportedly working on a new AI system intended to be as powerful as the most advanced model from OpenAI."
+    publishedDateTime: 2023-09-11T04:52:00Z
+    webUrl: "https://techcentral.co.za/meta-is-developing-much-more-powerful-ai/231341/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 39
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2021/12/meta-platforms-2156-1120-1024x532.jpg"
+        width: 1024
+        height: 532
         isCached: true
 
 secured: "4CoTb31MezL8abBWkbBpOnXhKKUalX18MjhQoB+koLCkYLzlE5qa9lMDezIxpfuAZWqBO1l4sHhwrs8SDchSI2lNGP+6m/Wlmtghm9QApJvA7/ABbaZrghPb0DqqqfGP4CVCweybnEyaOWjP89Y+mtWsi6srU3PtgteM8uWGaJEb1RoLqbDieMQMQRSW2Ka658Ey6nld/d+1iiUOIRjaRsiddf6XGfyKTswdFLklqm8vVvv/xoZ6Dh2on07iilYZ1I9cac4CsgDDA9eYt2f3dy2u0lVJ384JoWmL/HCFjWpvdO+muRjADJmprO6JDN22JSCCOl2R8NzipZHROHXyL4AnC4ikt0rJvoBU7lqyrIc=;KbhTLuJ+5kxD8+IAAOnzcQ=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/machine-learning-can-l
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/machine-learning-can-level-the-playing-field-against-match-fixing-helping-regulators-spot-cheating-71694348321724.html"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Hindustan Times Tech
@@ -41,7 +41,21 @@ related:
         width: 1356
         height: 668
         isCached: true
+  - title: "Navigating Self-Driving Cars By Looking At What’s Underneath The Road"
+    excerpt: "For self-driving cars, tackling the latter is relatively easy, as the system would use the same information in a similar way: when to to change lanes, and when to take a left or right. The former ..."
+    publishedDateTime: 2023-09-07T00:00:00Z
+    webUrl: "https://hackaday.com/2020/04/06/navigating-self-driving-cars-by-looking-at-whats-underneath-the-road/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 24
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2020/04/lgpr_feat2.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
-secured: "5ZMkpVzkylfyEZyNMv5sic/qfzMpd7SqaagTlvDa/Hyw/7W5aamP61qPgE5m4qYFnefRpc/KNOjbDKsHWacTBgJyx3QNAkJFvVD4n3nk4wuZ/rg6lETzKVVgD2yTTwoBUVxLaWReidzZf2k7C7BDO+BODnKPMm0JpzKWevQr08eRDT7rxbDqBdf8y786P7JDKdowYcnqc8XmlT/F0OYemQ3Q3fZiz6z/syHCHEb0nc8DF/hN2RtMe/tR7A1jmMLls1Sioznmkr2ltbAIR9JLcBgzegBgjr3adA4s7XfmF3EyGrFNEb8V/6mlg2mAABXQ8lK4ZyhTWy+gK1Y4x1XPzZ+5NTRJ8ZbKhfGkHaxZEbM=;3GTieqTc8di4YZRG49IT/A=="
+secured: "V9T5kkQLb8Ui9ZrFOx9Bx/thFFGG8drZTesAdSHhsPQCSc+WIpbcfsnLgdaqjlbeV3oU17LP/QDl1y+sW7D5amkujlTwJkqWURNWkphyyxFpdo3leP2bZQ5NVi/lmABb7NjARpgAHPhbRtkhWkyWsUhkeIKj3J1Iwwse9SH0m/enTtxSbAOdnTam/C5vsxeTx5gMTQqlqFHQevDALJgD2F+FHzAtOvR53VzlRUc1pPBrRGUYTqnW/zlICONe4HJ6OR83UwM9+MsV/BJZv5ympIasIQiCZeb3rlziAg9+OlI9KVXYWZ3RMNi+q+sBplaHZzW72aGI2nraKu8ebQBJWTndERpJjIctCUC7468kW7v8+bBnMaC4gWEtNteBQDYuznY6ViZBRnycQyanrvqS3p0ZfHCxeRNu6aTwgL97lyWwV3ZdQvI2Y9ijNLte75phobSAmgfTeYSllsZKL+P2uh5vkBGYMXEgl3MbzrvCX0L+waCUr3vD6xIAxY+LB4yy7Obs8e+ftPuP9bKUAcAeYA==;1IfWAdfbADlEQ3u2bc/a/g=="
 ---
 

@@ -350,15 +350,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "The Download: how to talk to kids about AI, and China’s emotional chatbots"
-    excerpt: "In a knee-jerk reaction, some schools banned the technology—only to cancel the ban months later. Now that many adults have caught up with what ChatGPT is, schools have started exploring ways to use AI systems to teach kids important lessons on critical thinking."
-    publishedDateTime: 2023-09-06T12:10:00Z
-    webUrl: "https://www.technologyreview.com/2023/09/06/1079111/the-download-how-to-talk-to-kids-about-ai-and-chinas-emotional-chatbots/"
+  - title: "AI tech behind ChatGPT was built in Iowa -- with lots of water"
+    excerpt: "The cost of building an artificial intelligence product such as ChatGPT can be hard to measure. But one thing Microsoft-backed OpenAI needed for its technology was plenty of water, pulled from the watershed of the Raccoon and Des Moines rivers in central Iowa to cool a powerful supercomputer as it helped teach its AI systems how to mimic human"
+    publishedDateTime: 2023-09-11T05:00:00Z
+    webUrl: "https://www.semissourian.com/story/3009378.html"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 15
+      name: Southeast Missourian
+      domain: semissourian.com
+    quality: 17
   - title: "What Does It ‘Feel’ Like to Be a Chatbot?"
     excerpt: "For an AI to run amok, it doesn’t matter one iota whether it feels like anything. All that matters is that it has a goal that is not aligned with humanity’s long-term well-being. Whether or not the AI knows what it is trying to do,"
     publishedDateTime: 2023-09-08T13:31:00Z

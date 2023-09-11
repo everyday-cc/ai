@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/09/06/110m-in-funding-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/09/06/110m-in-funding-will-help-d-matrix-get-generative-ai-inference-platform-to-market/amp/"
 type: article
 quality: 83
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/dmatrix-corsair-screenshot.png"
         width: 1133
         height: 755
-        isCached: true
-  - title: "Zinfi Introduces Advanced Generative Ai Capabilities For Its Partner Relationship Management Platform"
-    excerpt: "Integrating industry-leading GAI capabilities from Microsoft into the ZINFI platform will help enterprises accelerate marketing content generation,"
-    publishedDateTime: 2023-09-06T11:26:00Z
-    webUrl: "https://menafn.com/1107016994/Zinfi-Introduces-Advanced-Generative-Ai-Capabilities-For-Its-Partner-Relationship-Management-Platform"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_9.jpg?732611"
-        width: 353
-        height: 250
         isCached: true
   - title: "Funding to generative AI seed startups doubled in Q2"
     excerpt: "So far, at least, the answer is the latter: the true test for any technology is not only when the major tech companies start latching on ... across 48 seed stage deals alone in the generative AI space, nearly doubling the amount of money from the previous ..."

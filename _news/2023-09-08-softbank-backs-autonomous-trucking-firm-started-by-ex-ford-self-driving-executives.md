@@ -1,22 +1,28 @@
 ---
 category: news
 title: "SoftBank backs autonomous trucking firm started by ex-Ford self-driving executives"
-excerpt: "Stack AV is led by Bryan Salesky, Pete Rander and Brett Browning, who ran Argo AI, the self-driving operation that Ford and VW shut down last year."
-publishedDateTime: 2023-09-07T20:26:00Z
-originalUrl: "https://www.detroitnews.com/story/business/autos/ford/2023/09/07/autonomous-trucking-firm-started-by-ex-ford-self-driving-execs/70788975007/"
-webUrl: "https://www.detroitnews.com/story/business/autos/ford/2023/09/07/autonomous-trucking-firm-started-by-ex-ford-self-driving-execs/70788975007/"
+excerpt: "The founders of the former self-driving unit of Ford Motor Co. and Volkswagen AG are launching a new autonomous trucking startup with backing said to be more than $1 billion from Japan’s ..."
+publishedDateTime: 2023-09-08T12:36:00Z
+originalUrl: "https://www.autonews.com/mobility-report/softbank-backs-autonomous-trucking-firm"
+webUrl: "https://www.autonews.com/mobility-report/softbank-backs-autonomous-trucking-firm"
 type: article
-quality: 0
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: Detroit News
-  domain: detroitnews.com
+  name: Automotive News
+  domain: autonews.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/STACK.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Softbank Group backs former Argo AI founders on new self-driving trucks startup"
@@ -87,6 +93,6 @@ related:
         height: 320
         isCached: true
 
-secured: "GesNd6heWScvWflEGBXW+KzF1Pc1WvL1ceXx+XcxftUgWH+XvjsYuJlVmduiCJCC5lA0UiLFEVFWtw4MYMQWN5tWG+QpHsz2ukBJUMVzWySvJdqc2E+W+qZOfJwN7mNJnFJd1TfDpLfX2VeGoeIH1SwmMuT5uPZxuCeKqaCyP2XLr6UEdX+uj5fBMXFR8AC/4SwYaLx2XDZwOteRrl/7xtDpZSOK6I5hCK06Ovj96qcDdDa4h08WW+ihuIh+RqSkJArcGh2lyD8hOOn9S6CvFDxiT45y1r1qllMUu6NwBVOpWX4SXE8g62KLAAxm1CmM4fBMYW9mgYrnZaFhNwIkCxZU0qDDQ6AmXheLf+WDFwRLlYECdnbwe9ly7X3/tZjNE5sRFlSW+9YbsFWLxjlYQKwUambdjgiEaCToZv6PBNVw+wESiOnBge1kFHcu3ScT/XIwUX1Cn9d1KapZtsl57LDR4VdqvBoxYpd/YRGNVKaHtaQEyvgP/5tttVXHQUUG3B5Cszj0IIcOEyBBTRFGng==;zmV/PfBb0BB+3FsDwHpo1w=="
+secured: "sQ8O3XkzaZ4aKNCw/fp8dJ9/667IVn+fbbHlpCUhHZ5Flp406l3we/BZ95E/R697qTYm7xKkhq+xcpPAHwSSl+McXYiKU8oMe+wwjNDvevSQ8BI2o3GEg3SuK6Nuiu69qVGg+q/9zO8GE5cvxmqUYCYZ4F8tvWQ8liA0yIBgnzo7g2NjYNImLZIbSgRlkvtwtSwV0A60pfYAA3U3NJxtg/+SvSGNk55ggzEbJntIaqbJ4ZTVTZtheVROczFJR6k2qwN1JuJwBOe1tC02pM0VWRPs13cX8WPKdDnI1s19svAdb6EniQkY51GqSJQvAmeuORceqM0hj4tgpXMGBxanLrFNyjEM0wTswfwsxOngLo8=;vO4qhajC+jp8U80dIvz8jA=="
 ---
 

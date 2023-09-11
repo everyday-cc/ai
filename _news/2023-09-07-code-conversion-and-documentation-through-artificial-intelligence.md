@@ -32,6 +32,20 @@ related:
         width: 1200
         height: 1192
         isCached: true
+  - title: "Why you need a consistent AI implementation strategy"
+    excerpt: "Businesses must avoid a common misstep when it comes to artificial intelligence: focusing on strategy, not AI implementation."
+    publishedDateTime: 2023-09-07T08:24:00Z
+    webUrl: "https://techcentral.co.za/ai-implementation-strategy-fnb-fnbprom/231189/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 39
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2023/04/mark-nasila-1500-800.jpg"
+        width: 1500
+        height: 800
+        isCached: true
 
 secured: "LFmeTuO0fqH/XJ1r+4GRXh9ZvzLKsQ57Gtg0L2CmLut4mzLXFYJA7rVlFlSk2RV3tBhm54vGK2LqkI2gQvMHcsvkzJzZcGRPInnm9aQqYPx9PN4hyzU+kGaZlR8/1tbejxEaoa1TkF4MM3FyGEUKG0GX12XbHRfG+BOL3Ge19HlWFqrhNspnIfb6puJRmFSLw0y6Mi9EoPnqBeX97UM1DwCpp05v+NYIKyztcPP79SASSqJ1gLq17evjq87xEA8U1KPXELRLQ1KpEc/H9xPBlsiKZLHsBuxz9pEySqLokr4wdWGFzwrgBEUoFX4ukdWFnqGjmBpuf2SRFz8iQ6bBoHN7u3n0Y+Cx2JWMm4qqR+HFBolIOlDUxFUvOfNhYhPHHUpIC/bJ9s/REj1pp/D33yIWx7qZxapqs0YTW26j8HRXHb4DW9dpjnKYeDAqEz0yWPrCG2Vp2UWyixy2dfnCqLMUbfAoiu7DaK8eyo+s09h/0/FDI14F79njxH9l/mCDOgQ7oWbvU6vlsKbz0YWC/Q==;UV0SfUcx1n4w8g8WsUrO3w=="
 ---

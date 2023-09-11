@@ -360,15 +360,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "The Download: how to talk to kids about AI, and China’s emotional chatbots"
-    excerpt: "In a knee-jerk reaction, some schools banned the technology—only to cancel the ban months later. Now that many adults have caught up with what ChatGPT is, schools have started exploring ways to use AI systems to teach kids important lessons on critical thinking."
-    publishedDateTime: 2023-09-06T12:10:00Z
-    webUrl: "https://www.technologyreview.com/2023/09/06/1079111/the-download-how-to-talk-to-kids-about-ai-and-chinas-emotional-chatbots/"
+  - title: "AI tech behind ChatGPT was built in Iowa -- with lots of water"
+    excerpt: "The cost of building an artificial intelligence product such as ChatGPT can be hard to measure. But one thing Microsoft-backed OpenAI needed for its technology was plenty of water, pulled from the watershed of the Raccoon and Des Moines rivers in central Iowa to cool a powerful supercomputer as it helped teach its AI systems how to mimic human"
+    publishedDateTime: 2023-09-11T05:00:00Z
+    webUrl: "https://www.semissourian.com/story/3009378.html"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 15
+      name: Southeast Missourian
+      domain: semissourian.com
+    quality: 17
 
 secured: "dwXg2M2XB9H5DYvZuUJPeC8XiJDHSPBOj6KU2KYipsrtuIe3a9hFY5sxQPzmJ2bKlRqkrmgYtr1s28dzJZDB9zGb5TVRHdvj+FaMsOsxdJ2cpKdgv+qKkuvcjIP3Q82C7xhd/qntr3Z+0QtWEzKNvp2oseBJktlUC/iFZLZmcIRIiDDE44dL/kNy7YS2zuK+o6aVR8ZjlCgGdJBdhX6vOci2t9fzjQtHFjw+mqRphjURCdNxyoc6qb35y04cS8VksgR7FbomPIKHJjJnxrG+pqi8yOAuk5JvRvkAp9itB+RqSeZTZw5jJWE55OEZw/t7nYV6cIZxOa3yUKYNNpQUG8YMBqBy2GPbLt07p27XGJRlLA1PK9lfBbjP7po5E09OvduOBMEehz4ZzsytY9qkjF1A9G9uTL8gw/osDTWjMRNnv0jm2GQF9R7zOsrXLHaVrEPre1Ov9yGLJaS0uDfkXnYEaWJok1EeUE2jqqGQhQGl62ovfM/ZzLtSKHEfFHtHx7gxQP/u1hK0TAeyhmEewA==;5oHiTo1f8py1brFP4OMj4w=="
 ---

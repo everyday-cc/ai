@@ -101,6 +101,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Meta to build an advanced AI Model to Rival OpenAI's GPT-4"
+    excerpt: "Mark Zuckerberg's Meta is building a new AI model that will be more powerful than its current Llama 2 model and rival the capabilities of OpenAI's GPT-4."
+    publishedDateTime: 2023-09-11T04:33:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/meta-to-build-an-advanced-ai-model-to-rival-openais-gpt-4-821757"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 39
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2023/09/11/1379693-meta.jpg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "Soon UAE Will Dethrone OpenAI"
     excerpt: "UAE’s Technological Innovation Institute (TII) yesterday released Falcon 180B, a highly scaled-up version of Falcon 40B."
     publishedDateTime: 2023-09-07T12:20:00Z

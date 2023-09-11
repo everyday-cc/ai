@@ -9,7 +9,7 @@ ampWebUrl: "https://punchng.com/fintechs-can-drive-financial-inclusion-through-a
 cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/fintechs-can-drive-financial-inclusion-through-ai-says-kora/?amp"
 type: article
 quality: 59
-heat: 90
+heat: 79
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 600
         height: 460
         isCached: true
-  - title: "Fincover invests 7 crore to develop Fintech App - Funding the Future of Fintech"
-    excerpt: "We have leveraged AI and machine learning technologies to incorporate image ... the financial ecosystem in India with the launch of our Fincover app\". Finfotune is a fintech company based in Chennai. We have partnered with India's leading banks, NBFCs ..."
-    publishedDateTime: 2023-09-06T12:33:00Z
-    webUrl: "https://www.livemint.com/brand-stories/fincover-invests-7-crore-to-develop-fintech-app-funding-the-future-of-fintech-11686302457526.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 0
 
 secured: "Y78XMb888bOulIE8qcdN/k2NLFnlt3Jnr5bmP3zSadLzO0JVeCG9L3CecUwjGHRVXqQa9guZQU6CABCn1+kbdvlX4P6nmehoUUmGzuwm2nh9HTpZ9YNC5M4RhhhAv0Wm5BYseD3N2TzibPiYnT8rVltSvdHpWFGAMZYWAPEHF/weLywBfclpb/8YIZx+h63CmzZtsqkZ1NRR5edsW9VfWpeNrv461NKjUwztK7zC4TYXKkWbAkLK0iKI3EUY3Qi/bcCYNWfA0LRJ5uVvblmmLGdRNgYFdXqUJN1c8sGTmxijj0ogxgbVLrmZOyXvY2AZr/wvsUamxcxH9PaYJ1oh/PDbsVNf7D2povuEG47DTSw=;NHQxS3oiQTpMSqizeNWf4w=="
 ---

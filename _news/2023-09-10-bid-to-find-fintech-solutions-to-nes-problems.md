@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Meet the AI, fintech, SaaS and security industry chairs at TC Disrupt 2023"
-    excerpt: "This dynamic conversation promises to empower tech enthusiasts and entrepreneurs with real-world strategies to implement AI effectively in their projects. Fintech Industry Chair: Nik Milanović Nik Milanović, general partner at the Fintech Fund ..."
-    publishedDateTime: 2023-09-06T13:00:00Z
-    webUrl: "https://techcrunch.com/2023/09/06/meet-the-ai-fintech-saas-and-security-industry-chairs-at-tc-disrupt-2023/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 66
   - title: "Emerging Fintech Brands & Their Leaders of 2023"
     excerpt: "The utilization of AI and ML on the platform simplifies the debt process ... Ajay Lakhotia: Founder of StockGro In the ever-evolving landscape of fintech in 2023, StockGro emerges as a beacon for novice and seasoned investors. It is recognised as India's ..."
     publishedDateTime: 2023-09-07T05:36:00Z

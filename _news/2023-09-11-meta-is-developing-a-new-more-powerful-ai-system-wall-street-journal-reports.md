@@ -1,30 +1,29 @@
 ---
 category: news
 title: "Meta is developing a new, more powerful AI system, Wall Street Journal reports"
-excerpt: "Meta Platforms is working on a new artificial-intelligence system intended to be as powerful as the most advanced model offered by OpenAI, the Wall Street Journal reported on Sunday, citing people familiar with the matter."
-publishedDateTime: 2023-09-10T20:13:00Z
-originalUrl: "https://www.reuters.com/technology/meta-is-developing-new-more-powerful-ai-system-wsj-2023-09-10/?ref=biztoc.com"
-webUrl: "https://www.reuters.com/technology/meta-is-developing-new-more-powerful-ai-system-wsj-2023-09-10/?ref=biztoc.com"
+excerpt: "Meta Platforms (META.O) is working on a new artificial-intelligence system intended to be as powerful as the most advanced model offered by OpenAI, the Wall Street Journal reported on Sunday, citing people familiar with the matter."
+publishedDateTime: 2023-09-11T03:04:00Z
+originalUrl: "https://www.emirates247.com/technology/meta-is-developing-a-new-more-powerful-ai-system-wall-street-journal-reports-2023-09-11-1.722506"
+webUrl: "https://www.emirates247.com/technology/meta-is-developing-a-new-more-powerful-ai-system-wall-street-journal-reports-2023-09-11-1.722506"
+ampWebUrl: "https://www.emirates247.com/technology/meta-is-developing-a-new-more-powerful-ai-system-wall-street-journal-reports-2023-09-11-1.722506?ot=ot.AMPPageLayout"
+cdnAmpWebUrl: "https://www-emirates247-com.cdn.ampproject.org/c/s/www.emirates247.com/technology/meta-is-developing-a-new-more-powerful-ai-system-wall-street-journal-reports-2023-09-11-1.722506?ot=ot.AMPPageLayout"
 type: article
-quality: 63
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Emirates247
+  domain: emirates247.com
 
 topics:
+  - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.reuters.com/resizer/GxcCqkTOYEBLp3n3AwPZzikNBmo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AFO2TSIYMZOXTGDHCLFWN2IQCA.jpg"
-    width: 1200
-    height: 628
+  - url: "https://www.emirates247.com/polopoly_fs/1.722507.1694401358!/image/image.png"
+    width: 700
+    height: 466
     isCached: true
 
 related:
@@ -73,22 +72,36 @@ related:
         height: 765
         isCached: true
   - title: "Meta is developing a new, more powerful AI system"
-    excerpt: "Llama 2 is Meta's open source AI language model launched in July, and distributed by Microsoft's cloud Azure services."
-    publishedDateTime: 2023-09-11T03:11:00Z
-    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/meta-is-developing-a-new-more-powerful-ai-system-8934112/"
-    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/meta-is-developing-a-new-more-powerful-ai-system-8934112/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/meta-is-developing-a-new-more-powerful-ai-system-8934112/lite/"
+    excerpt: "Llama 2 is Meta's open source AI language model launched in July, and distributed by Microsoft's cloud Azure services to compete with OpenAI's ChatGPT and Google's Bard. Meta Platforms is working on a new artificial-intelligence system intended to be as ..."
+    publishedDateTime: 2023-09-11T05:32:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/meta-is-developing-a-new-more-powerful-ai-system/103567113"
     type: article
     provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 59
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 39
     images:
-      - url: "https://images.indianexpress.com/2023/09/meta-1.jpg"
+      - url: "https://etimg.etb2bimg.com/thumb/msid-103567113,imgsize-7254,width-1200,height=765,overlay-etcio/artificial-intelligence/meta-is-developing-a-new-more-powerful-ai-system.jpg"
         width: 1200
-        height: 667
+        height: 765
+        isCached: true
+  - title: "Today in AI: Meta is developing a new AI system, Google rolls out AI-generated search enhancement outside US, and more"
+    excerpt: "On August 31, the company expanded its search feature powered by SGE (Smart Global Engine) to two other regions, namely India and Japan. These two countries are noteworthy for being the first to have access to the new AI extension outside of the US. More here."
+    publishedDateTime: 2023-09-11T04:40:00Z
+    webUrl: "https://www.moneycontrol.com/news/trends/today-in-ai-meta-is-developing-a-new-ai-system-google-rolls-out-ai-generated-search-enhancement-outside-us-and-more-11345781.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/trends/today-in-ai-meta-is-developing-a-new-ai-system-google-rolls-out-ai-generated-search-enhancement-outside-us-and-more-11345781.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/today-in-ai-meta-is-developing-a-new-ai-system-google-rolls-out-ai-generated-search-enhancement-outside-us-and-more-11345781.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 35
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/05/Today-in-AI-cover-image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
-secured: "+O0BdFuIQuznn2+I429y8mZF+D49mV+Lmnbkjzs7qAZJq8HERTxmu6ZILidOqIvbL8lbn9sV/lhGE4z21R8rgjZdCleyiimdS5l7BMB/ohOixNRC2p2yDyswWl7B/juT1mjFa/18Lh3DsYtTmvn0yanq5ta9cYIZEHTFtDNphrKIByGPUDSichNR0RUA8fyqvYt9hC+TjbHD2yrNDkFP019A7kfO6/XYFb/6BghjkbhTRdNfWesyHi5TJFMehCCrXHw5MpuNhuRHxpxpaavL1fezZxTFqLJddyFPkvkjAJPYWkqhJQSV36ar1DZbZxog93u2mbdUZ8x98G/o+STYHnzLYuzQIkQsN+ptuTPkSEg=;IKhePu0Wk481JqSk0QpeuA=="
+secured: "TrpUrW4XLAso2W7ZzlimmFhEM2OKL7aQ5d6cPonvlwnluh02dldNXkjvbHuRtHd1dPVDdf/big0Oi6dJQQq9J+Fh0XefQGaDiQJMBEQvkeoHNnVF++ZInCQgURHsu+prSI1JgCGfyzQhxeC9NlvDgk1Ac16jwwpPnQg2hpicaQw9o2aGVDt3bAwfCR/AzvJp2W7z2QZ2yS3MJlG7yvcdMjM90S/VnLwm/czLii3JgkhxvfTs4ecg9X2XpCBsUKd232+k6b6ill6TQ9h8RBp96cmsORWcMMBJHDE8mO5i5qCx60Aw5ASwp4rKY0+jMEwmSNrHV99JwDzbpnwxjtkYNLsDmim2GxQxu60hI1ie508=;ER7mWfBcBLG8nFbGyTcFBA=="
 ---
 

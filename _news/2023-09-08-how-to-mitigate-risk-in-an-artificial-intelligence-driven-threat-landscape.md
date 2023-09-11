@@ -9,8 +9,8 @@ ampWebUrl: "https://biztechmagazine.com/article/2023/09/how-mitigate-risk-artifi
 cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2023/09/how-mitigate-risk-artificial-intelligence-driven-threat-landscape?amp"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: BizTech
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "The human costs of data-driven AI"
-    excerpt: "That is pretty much the universal reaction I get when I ask people about Josh Dzieza’s recent article in The Verge."
-    publishedDateTime: 2023-09-06T13:06:00Z
-    webUrl: "https://digileaders.com/the-human-costs-of-data-driven-ai/"
-    type: article
-    provider:
-      name: Digital Leaders
-      domain: digileaders.com
-    quality: 19
   - title: "The Unfathomable Cognitive Landscape of AI"
     excerpt: "The real conundrum is whether human minds can grasp the profound complexity these machines are starting to unfold. It's an inverse Turing Test of sorts, where the subject of examination is no longer the machine but humanity itself. The stakes are high; the consequences tear at the very fabric of humanity."
     publishedDateTime: 2023-09-09T17:14:00Z

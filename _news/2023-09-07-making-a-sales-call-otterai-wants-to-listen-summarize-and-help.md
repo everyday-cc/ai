@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/making-a-sales-call-otter-ai-wants-to-l
 webUrl: "https://venturebeat.com/ai/making-a-sales-call-otter-ai-wants-to-listen-summarize-and-help/"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Otter.ai launches generative AI tool to help sales teams close more deals"
-    excerpt: "OtterPilot for Sales can transcribe calls, provide insights, identify action items -- and automatically syncs with leading CRM and productivity tools."
-    publishedDateTime: 2023-09-06T13:00:00Z
-    webUrl: "https://www.zdnet.com/article/otter-ai-launchesotter-ai-launches-generative-ai-tool-to-help-sales-teams-close-more-deals-generative-ai-tool-to-help-sales-teams-close-more-deals/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 63
   - title: "New Slack AI to Help Summarize Your Work Conversations and More"
     excerpt: "With Slack AI, in-app capabilities will include channel recaps that provide key highlights and one-click thread summaries that give you the gist of a thread. Another feature will be search answers, a question-answer feature that returns related messages, files, channels and an AI-generated summary."
     publishedDateTime: 2023-09-06T19:31:00Z

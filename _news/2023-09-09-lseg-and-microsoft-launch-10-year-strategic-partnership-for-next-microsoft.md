@@ -178,15 +178,6 @@ related:
       name: cnbctv18
       domain: cnbctv18.com
     quality: 36
-  - title: "Microsft-backed AI startup d-Matrix raises $110 million"
-    excerpt: "Generative AI compute startup d-Matrix has successfully closed a $110 million Series-B funding round led by Singapore-based global investment firm"
-    publishedDateTime: 2023-09-06T12:01:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/1025652/microsft-backed-ai-startup-d-matrix-raises-110-million-1025652.html"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 17
   - title: "Paige Announces Collaboration with Microsoft to Build the World's Largest Image-Based AI Model to Fight Cancer"
     excerpt: "Paige, a technology disruptor in healthcare, has joined forces with Microsoft in the fight against cancer, making headway in their collaboration to transform cancer diagnosis and patient care by building the world's largest image-based artificial intelligence (AI) models for digital pathology and oncology."
     publishedDateTime: 2023-09-07T15:26:00Z

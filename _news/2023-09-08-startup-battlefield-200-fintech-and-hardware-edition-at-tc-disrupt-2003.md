@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/09/07/startup-battlefield-200-fintech-an
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/07/startup-battlefield-200-fintech-and-hardware-edition-at-tc-disrupt-2003/amp/"
 type: article
 quality: 75
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -32,15 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meet the AI, fintech, SaaS and security industry chairs at TC Disrupt 2023"
-    excerpt: "This dynamic conversation promises to empower tech enthusiasts and entrepreneurs with real-world strategies to implement AI effectively in their projects. Fintech Industry Chair: Nik Milanović Nik Milanović, general partner at the Fintech Fund ..."
-    publishedDateTime: 2023-09-06T13:00:00Z
-    webUrl: "https://techcrunch.com/2023/09/06/meet-the-ai-fintech-saas-and-security-industry-chairs-at-tc-disrupt-2023/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 66
   - title: "Bid to find fintech solutions to NE’s problems"
     excerpt: "Guwahati: From empowering the farmers of Nagaland through organic pre-order vegetable delivery services to developing a tech-based platform to streaml."
     publishedDateTime: 2023-09-10T03:17:00Z

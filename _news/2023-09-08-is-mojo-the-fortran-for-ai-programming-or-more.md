@@ -29,12 +29,17 @@ related:
   - title: "Efficient training for artificial intelligence"
     excerpt: "Training an artificial intelligence consumes more energy the more demanding the tasks are. Víctor López-Pastor and Florian Marquardt, two scientists at the Max Planck Institute for the Physics of Light in Erlangen,"
     publishedDateTime: 2023-09-08T16:32:00Z
-    webUrl: "https://www.mpg.de/20826914/neuromorphic-computer"
+    webUrl: "https://www.mpg.de/20826914/neuromorphic-computer?c=2249"
     type: article
     provider:
       name: Max Planck Society
       domain: www.mpg.de
-    quality: 34
+    quality: 54
+    images:
+      - url: "https://www.mpg.de/20826890/original-1694190147.jpg?t=eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0IjpudWxsLCJmaXQiOm51bGwsIm9ial9pZCI6MjA4MjY4OTB9--a52183c84030f9304a9d34521956318b35e6ac0f"
+        width: 1200
+        height: 1206
+        isCached: true
 
 secured: "2mHFCxgxsUvnzJ1l39J0Mv1uUKaXpDgB/1q7ZjBJDxw9yOLpl1HQecHw1F2NC99CSGJk6JFWXSgCTLUUvPzEz0D90m+HzA0LSUXaAMZDbvP6k1cq6Dr27G4lVoe1QABteryvGI34+6a3KFMiw9+rV0Ynoc1Wjgt0fSqMcztX82Wt1mvGLbulnkK48cFxVE+tzBEqQNmcNAOM2HjI0S0nd7U3dGMYfa0AAgPThsnBWgT1Hpzjw7QsycA8atb85uHxdtMjp+/dXqv6RsB6KCYkDxGEdpAIkWHC9PfzFtmM1GEgO3+/baK9+8/7bLzlldRACPTd/RQvSpmXMHM9HCzLv3V1o7z5sxap8qhDT6Y7kGQ=;olnM1wjiKiKNP96GjMuKaQ=="
 ---

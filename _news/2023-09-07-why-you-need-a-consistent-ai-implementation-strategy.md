@@ -25,22 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "AI Implementation: Moving From Buzz To Tangible Business Solutions"
-    excerpt: "As a result, today's leaders need to inform themselves about the various technologies within the field of artificial intelligence, including natural language processing and machine learning. Moreover, they have to become knowledgeable in a balanced way ..."
-    publishedDateTime: 2023-09-06T11:35:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/06/ai-implementation-moving-from-buzz-to-tangible-business-solutions/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/06/ai-implementation-moving-from-buzz-to-tangible-business-solutions/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/06/ai-implementation-moving-from-buzz-to-tangible-business-solutions/amp/"
+  - title: "Google's content moderation tech may need human-AI teamwork"
+    excerpt: "Google wants to make sure the content it serves to users is of the highest quality.  The company filed a patent application for a system"
+    publishedDateTime: 2023-09-07T15:59:00Z
+    webUrl: "https://www.fool.com/investing/2023/09/07/googles-content-moderation-tech-may-need-human-ai/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6310bb0b05f088011ae4f55d/0x0.jpg?format=jpg&width=1200"
+      - url: "https://www.thedailyupside.com/wp-content/uploads/2023/09/Google-patent-1200x1192.jpg"
         width: 1200
-        height: 800
+        height: 1192
         isCached: true
+  - title: "Code Conversion and Documentation Through Artificial Intelligence"
+    excerpt: "Emerson's generative AI tool Revamp helps users automate system configuration. With artificial intelligence (AI) taking a larger role in the workforce, tools like Emerson’s cloud-based Revamp software are more important than ever. Generative AI can ..."
+    publishedDateTime: 2023-09-06T19:38:00Z
+    webUrl: "https://www.automationworld.com/leaders/analysis-software/article/33011131/code-conversion-and-documentation-through-artificial-intelligence"
+    type: article
+    provider:
+      name: Automation World
+      domain: automationworld.com
+    quality: 17
 
 secured: "YIEWvCGV6UI1q7eGmTEEOEBk+44HC6S7Vi/mr977QbJ1VJZF32hzuPFMO9MuObIRRyMXDm+bEzpdvZPKhfVH/nmrQ4vgogwVXztM7meKV98TVSb037Ju8zHYngRRIeooCphc9aOdT5K2lkr3SHAiqgsVzy+FigHiOWk4M4hTe1IuJMYpEcpgKSHLlM2AjjlDsf+V/lexjVk7HwSC72uKcb4doQaEPMlZHsrJ2vBX7GXRrZ+UZ4g2SvktHaqeNQLoxrnhxI3vzoqZshQMcCjDVFLCZYWyjekVvbXhr2VUQnCpVX7rAE9c5rPxopGb1t6nf2yLbatFETSYckSQSPFdgefFvrkKYJ39OZtw27U5oxY=;TlMJONY4+SokY1k+16+3eA=="
 ---

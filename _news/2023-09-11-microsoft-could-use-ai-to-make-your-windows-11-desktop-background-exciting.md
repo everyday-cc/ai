@@ -87,22 +87,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "SkyPoint AI Platform for Senior Living Now Available in the Microsoft Azure Marketplace"
-    excerpt: "PORTLAND, Ore., Sept. 6, 2023 /PRNewswire-PRWeb/ -- SkyPoint Cloud today announced the availability of its SkyPoint AI Platform for Senior Living in the Microsoft Azure Marketplace, an online ..."
-    publishedDateTime: 2023-09-06T11:46:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/n34272741/skypoint-ai-platform-for-senior-living-now-available-in-the-microsoft-azure-marketplace"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34272741"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34272741"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 81
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "China may be using AI to sway U.S. voters: Microsoft"
     excerpt: "Microsoft researchers found Chinese-controlled AI-generated social media accounts attempting to influence U.S. voters. The campaign used generative AI to create content mimicking U.S. voters. Microsoft said the accounts had attempted to appear American and shared politically charged content."
     publishedDateTime: 2023-09-07T16:17:00Z
@@ -180,20 +164,6 @@ related:
       - url: "https://i.dawn.com/large/2023/09/080817285c66adf.jpg?r=081734"
         width: 800
         height: 480
-        isCached: true
-  - title: "Microsoft Partners With G42 To Strengthen Cloud, AI Services In UAE"
-    excerpt: "Microsoft aims to add more than $39 billion and about 100,000 jobs to the UAE economy over the next four years."
-    publishedDateTime: 2023-09-06T11:23:00Z
-    webUrl: "https://www.ibtimes.com/microsoft-partners-g42-strengthen-cloud-ai-services-uae-3710865"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 54
-    images:
-      - url: "https://d.ibtimes.com/en/full/4481366/tech-giant-microsoft-has-submitted-new-proposal-buy-activision-blizzard.jpg"
-        width: 768
-        height: 510
         isCached: true
   - title: "Microsoft says it will protect customers from AI copyright lawsuits"
     excerpt: "Microsoft says it will defend buyers of its artificial intelligence products from copyright infringement lawsuits, an effort by the software giant to ease concerns customers might have about using its AI “Copilots” to generate content based on existing work."

@@ -50,15 +50,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 51
-  - title: "Part 2: How Artificial Intelligence is Driving the Transportation Sector Forward"
-    excerpt: "What a ride it's been for the transportation industry since AI! After all, this new technology comes hand-in-hand with the transport sector."
-    publishedDateTime: 2023-09-06T11:32:00Z
-    webUrl: "https://techround.co.uk/tech/part-2-artificial-intelligence-transportation-sector-2/"
-    type: article
-    provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 14
 
 secured: "dpyM0HYCZUp9zL/E6P9I0WO/qnfBw0WCFEnbhLhHbDeWoGX5/TfuMFSROiBgmshkhhqXaRmjCmzzTOnka/Ho2OGmk5Fi1fUvrOMRkTjp1We+/7GKTO5M3lEm7CnjiARWCHrprAV9VI3q60rkmUCilv8mwWzg83ZdWrZvmXOsk+OGrO9YVD1YX2XOsRnolscSV9f00sqUVbXyOtZjsMCIdCSTC2ybUZArFvvzl9Y2ib+vPiTxBwV4bHs+a4fDTYeJZK14vaR0p+Cq/o4juIkrMZ6sVXlfepHY+vVQXYxaAQXb5wNacYQJdnbxmythTTRMPs6WMxL6bA9PjeErwpLx1bDih8LWbd7jlmR56vhtzEw=;vYIp82Ny83FsEO2ua2xcyA=="
 ---

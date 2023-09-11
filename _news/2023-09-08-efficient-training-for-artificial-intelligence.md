@@ -3,10 +3,10 @@ category: news
 title: "Efficient training for artificial intelligence"
 excerpt: "Training an artificial intelligence consumes more energy the more demanding the tasks are. Víctor López-Pastor and Florian Marquardt, two scientists at the Max Planck Institute for the Physics of Light in Erlangen,"
 publishedDateTime: 2023-09-08T16:32:00Z
-originalUrl: "https://www.mpg.de/20826914/neuromorphic-computer"
-webUrl: "https://www.mpg.de/20826914/neuromorphic-computer"
+originalUrl: "https://www.mpg.de/20826914/neuromorphic-computer?c=2249"
+webUrl: "https://www.mpg.de/20826914/neuromorphic-computer?c=2249"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://www.mpg.de/20826890/original-1694190147.jpg?t=eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0IjpudWxsLCJmaXQiOm51bGwsIm9ial9pZCI6MjA4MjY4OTB9--a52183c84030f9304a9d34521956318b35e6ac0f"
+    width: 1200
+    height: 1206
+    isCached: true
 
 related:
   - title: "Is Mojo The Fortran For AI Programming, Or More?"
@@ -36,6 +42,6 @@ related:
         height: 463
         isCached: true
 
-secured: "lXi9NpowlCMd+hkozOQ7o6P4m30iOaDb0YLpxaskavFVMmflzdr2DR0efZTWSxTeIfZ5JvULsJ7knVFdTAf2LQjyRlOz8H7ok1mv5hW4yv/mp6GdXSREF03dFR1XPy0afVRo7qivNMOjYUSj6FpAEdzX7dsZbujyjvrPok5LWXK1Xa0pxHR2KWmSwExKWd92tKO7gfLAM6v9fNy7Zkdjjk4nNfujA2AEsSzwel/HX499ilobDKqYTGlNoIfeWakr7mlTGKvIELtn0vjNwz7mDFUZGGWnSz+moUrUnPAz//b9IdLFaVdKlCSlsDKXTWIU0fSUm8wlbxCReCdBOKWnDz8SQ5u2Q24Pvwrmk/ekU9awvKO789/JgGjUQLWSi57kzt583miyKeTP2roRbGizBDfFyTA0MnAGd4kiUIvY+mqU+zBZ7nbM0XXCGYU3HvJzo040ynLnOUjLmAyfTyzMGFsi6jaEyQCU+eGKbZ894+wdNm+HMbEcKOt+/EjSyUIpCTJcgAAJ2G+ofz6IZfD97Q==;caqXcwpzqkQOFZoFcIPDsA=="
+secured: "bTuZXOczYcSGgTN/g91hAgrjioVybN6g8nycgsUoPgVcbmP3fsiiN7nY/9e11APEwV5LLGmhwb1QMngtDqVis9qgPcXxAaVWhr897EZlRngpHW0OqoK2SVrkWpGnQSmH/htDYEKL4hX/1GPbeoHfSuErF7Ogg4gRLBMPCYHD8PvvC0IWphxjdR/U2955sByXMxhAsHNUZDVCDhEYxA3Ric6h5pAeo5jR8CPjvtt74ftENeQ6/3VygDm3KX2VMAJ2KhVSWcTt8HkSxaDjVeImYc1xZmGYYfgd2nR9UjUuIqN4SpMJ/ke4OOFp7ppvAlJqUnbh2eTRPKZIK2E/ZyyS12BmN7H7A8AAaIVZFeYnqnk=;S9GSP97AWwwP03o5BxGh6g=="
 ---
 

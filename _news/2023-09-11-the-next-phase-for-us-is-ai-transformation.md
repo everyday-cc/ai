@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/industry/the-next-phase-fo
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/industry/the-next-phase-for-us-is-ai-transformation/3238978/lite/"
 type: article
 quality: 59
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -50,15 +50,6 @@ related:
         width: 1031
         height: 745
         isCached: true
-  - title: "Part 2: How Artificial Intelligence is Driving the Transportation Sector Forward"
-    excerpt: "What a ride it's been for the transportation industry since AI! After all, this new technology comes hand-in-hand with the transport sector."
-    publishedDateTime: 2023-09-06T11:32:00Z
-    webUrl: "https://techround.co.uk/tech/part-2-artificial-intelligence-transportation-sector-2/"
-    type: article
-    provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 14
 
 secured: "7qRqipxZYOOJE3VvVeEE7y3jhKSFEx1ZbgTWoSdW6lYCkfxBvvbeHvuxTfQgm5KkuxubytolY0rri+AiR9DyVEztxUniyc59FRz793wj+OdVrcDg5gPYNUn4NJrrRdfwMEI4eWXuFKeMnmAbOo/N+yJGgmnOl8zYAbPkeygCCHr7b8FXif7AWB4B4Uc4sne54+uBj24wMwKzz0AN81si343vZASuoyDa0TMFiiI82oknYPn4xCGtkweBsLKe/y4c+bIff9o6Fek61VQDRuOedJmoSB36Wa2PD2c4KHWgU+nCihWCvCeyEABr3duZeePyCZ8gPq5wj2PfNt4dQoBd/aBF0421WlWt0TVvvj0YC88JO+ACZe9QQgdt9Gd8iuy2bFnHISKnZ5gMM4mYpHizCEB3V/bkudWjCHydd/vn41kbVm7uAKvXYix7OSbrIM7UwA5oj0qMKu2iTR4WLk0PVGVVtH0C8wmYQB9v9PZf7UxcKRV95hZptbeBZDyH9VQXMQckuc/Axv8XSLkuqf8JxA==;NVfTDKw5tQQSzip4uNqlEg=="
 ---

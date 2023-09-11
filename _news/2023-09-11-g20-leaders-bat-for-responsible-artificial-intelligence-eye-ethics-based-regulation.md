@@ -1,31 +1,29 @@
 ---
 category: news
 title: "G20 leaders bat for 'responsible Artificial Intelligence', eye ethics-based regulation"
-excerpt: "In the midst of the increasing prominence of generative artificial intelligence, leaders representing G20 nations deliberated on ways to harness this"
-publishedDateTime: 2023-09-10T21:41:00Z
-originalUrl: "https://timesofindia.indiatimes.com/india/g20-leaders-bat-for-responsible-artificial-intelligence-eye-ethics-based-regulation/articleshow/103560393.cms"
-webUrl: "https://timesofindia.indiatimes.com/india/g20-leaders-bat-for-responsible-artificial-intelligence-eye-ethics-based-regulation/articleshow/103560393.cms"
-ampWebUrl: "https://m.timesofindia.com/india/g20-leaders-bat-for-responsible-artificial-intelligence-eye-ethics-based-regulation/amp_articleshow/103560393.cms"
-cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/india/g20-leaders-bat-for-responsible-artificial-intelligence-eye-ethics-based-regulation/amp_articleshow/103560393.cms"
+excerpt: "Amid the rise of generative artificial intelligence, leaders from G20 countries discussed how to harness the technology to benefit development, while ensuring that safeguards are built in to check misuse. Citing the example of AI, Prime Minister Narendra ..."
+publishedDateTime: 2023-09-11T05:39:00Z
+originalUrl: "https://cio.economictimes.indiatimes.com/news/government-policy/g20-leaders-bat-for-responsible-artificial-intelligence-eye-ethics-based-regulation/103567716"
+webUrl: "https://cio.economictimes.indiatimes.com/news/government-policy/g20-leaders-bat-for-responsible-artificial-intelligence-eye-ethics-based-regulation/103567716"
 type: article
-quality: 66
-heat: 66
+quality: 46
+heat: 46
 published: false
 
 provider:
-  name: Indiatimes
+  name: cio.economictimes.indiatimes
   domain: indiatimes.com
 
 topics:
-  - AI Ethics
   - AI
+  - AI Ethics
 
 images:
-  - url: "https://static.toiimg.com/thumb/msid-103560616,width-1070,height-580,imgsize-41036,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-    width: 1069
-    height: 580
+  - url: "https://etimg.etb2bimg.com/thumb/msid-103567716,imgsize-34756,width-1200,height=765,overlay-etcio/government-policy/g20-leaders-bat-for-responsible-artificial-intelligence-eye-ethics-based-regulation.jpg"
+    width: 1200
+    height: 765
     isCached: true
 
-secured: "3VGW/Dt/mHMe/1/TdcFN4reE1ed2NiC4fQRm5k9yVL7wXx4cxOU+NpmFMRr1lxFRe30wjBTkUDh7Gu/SkQPEHjIxXMRlYutWOzfA4JctUue8b/kMMhqc3MPiT7v9QZ4UUtzImR03q6fny2e/tKyrHbyGbgIzchyV3KD7tRDE+qlOpvhZvwvVA65N0D08D2Mz7UyyMuRQNacxz37sDLywYBeUi0hWgS6Bf2zEKH8LTW+Lktr7+Ad1uQOuoHQEeGfoCA0qht/1qeVyWvY8Ng7lZR+eYtzncAIvPmApJxkaPGSFmdtA6Tl+5x2dtdrZwRVdacR76uK2Qg/ak7Xa4D4LDdZvqtK0JteMzvrIvhC7wqw=;EJK1nSf+fvNcreTsiOb6Pg=="
+secured: "jqEWzuVkxlS8YqGmFO+JRgGNYgSaELd4MhL6EZc1pZn05nDMzF09PjahXnvhTzXjMlaDE0ENEvFLxY6e3idVn/SBSFOpFVrR0wrAxLkHGBS5zkzaL8kUdehLfz/yA4cujMmXhYZ4S/CRtnnKRAQLjGXqsKenkwqceefkhUXwmqXeZOYVUugouk5xheryOYI4E0FWVnUizshDw04ujr6IEZsadNZsnyKZth7u2zfMjQdVzxyirWec7Y0JARZY83v92oqVpy1cKkTNdMyBFIOw2Vr7EEGZ/JTS7698rqge+DGoTIr1WyX0lg0E3NEo1VLHRqLxpm7/SaTVABQW2IakEGtYvbFO+EefX6PDg17ilxA=;rfo+Jdn5VLrIy/MT/o738g=="
 ---
 

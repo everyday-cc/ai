@@ -48,20 +48,6 @@ related:
         width: 1133
         height: 755
         isCached: true
-  - title: "Zinfi Introduces Advanced Generative Ai Capabilities For Its Partner Relationship Management Platform"
-    excerpt: "Integrating industry-leading GAI capabilities from Microsoft into the ZINFI platform will help enterprises accelerate marketing content generation,"
-    publishedDateTime: 2023-09-06T11:26:00Z
-    webUrl: "https://menafn.com/1107016994/Zinfi-Introduces-Advanced-Generative-Ai-Capabilities-For-Its-Partner-Relationship-Management-Platform"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_9.jpg?732611"
-        width: 353
-        height: 250
-        isCached: true
   - title: "d-Matrix Announces $110 Million in Series B Funding to Make Generative AI Commercially Viable with First-of-Its-Kind Inference Compute Platform"
     excerpt: "Matrix, the leader in high-efficiency generative AI compute for data centers, has closed $110 million in a Series-B funding round led by Singapore-based global investment firm Temasek. The goal of the fundraise is to enable d-Matrix to begin commercializing Corsair,"
     publishedDateTime: 2023-09-06T13:11:00Z

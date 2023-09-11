@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/09/07/googles-content-moderati
 webUrl: "https://www.fool.com/investing/2023/09/07/googles-content-moderation-tech-may-need-human-ai/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Why you need a consistent AI implementation strategy"
+    excerpt: "Businesses must avoid a common misstep when it comes to artificial intelligence: focusing on strategy, not AI implementation."
+    publishedDateTime: 2023-09-07T08:24:00Z
+    webUrl: "https://techcentral.co.za/ai-implementation-strategy-fnb-fnbprom/231189/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 39
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2023/04/mark-nasila-1500-800.jpg"
+        width: 1500
+        height: 800
+        isCached: true
   - title: "Code Conversion and Documentation Through Artificial Intelligence"
     excerpt: "Emerson's generative AI tool Revamp helps users automate system configuration. With artificial intelligence (AI) taking a larger role in the workforce, tools like Emerson’s cloud-based Revamp software are more important than ever. Generative AI can ..."
     publishedDateTime: 2023-09-06T19:38:00Z

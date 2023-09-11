@@ -26,17 +26,6 @@ images:
     height: 800
     isCached: true
 
-related:
-  - title: "Face to Face: Wellington's Jean Hynes pulls back veil on firm, health care and market trends"
-    excerpt: "Pensions & Investments sat down with Wellington CEO Jean Hynes for her views on markets, AI and why Wellington's on a tour to be better known."
-    publishedDateTime: 2023-09-06T11:45:00Z
-    webUrl: "https://www.pionline.com/face-face/wellington-managements-jean-hynes-pulls-back-veil-firm-health-care-and-market-trends"
-    type: article
-    provider:
-      name: Pensions&Investments
-      domain: pionline.com
-    quality: 0
-
 secured: "hPe7v4QuAwycfdsB6XF9dCZHAIeCCxRXO25g2zQmshgosiUgnP9lsqRO9tCUoQyJWTmsD+gwCLS2wbTh0vOJQ3poSc6odytvw7Nx+OUmlrl0b7UagnYduI0vD0PEEK+YdzXDD8temq3lpu/zOp9hOf6xEdA5iUSFYC19r2AdFpQlhbhMsIFrJsuD2UJs0Oris2xnlNlg9yOogxIZk/s7i9qMTjv+cv2rbVJ4R1wt/fYkvX368vw7aY5/+k+7GOxysfzVDx/SrTEN50QDRQEfYRSwXj90TMGLl1krNHsRUaAvQunIfyOvxj+oVnPEuLxhLPMue5uYex9YUBqysu64jAkxBQZFnJAZQfbvDuCyrAU=;xLOTJhZHUFtHsBApd6P6vw=="
 ---
 

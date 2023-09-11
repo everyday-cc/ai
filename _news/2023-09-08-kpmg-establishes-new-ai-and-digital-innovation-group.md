@@ -31,15 +31,6 @@ related:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 19
-  - title: "AI and the New Digital Cold War"
-    excerpt: "Globalization is not dead, but it is changing. The United States and China are creating two separate spheres for technology, and artificial intelligence is on the front lines of this new “Digital Cold War."
-    publishedDateTime: 2023-09-06T12:05:00Z
-    webUrl: "https://hbr.org/2023/09/ai-and-the-new-digital-cold-war"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 17
 
 secured: "ZH5yAAE0qCoq9Ak7hRA+9nIkfNjFuBiqkdCSrUK8gBPhEZLl55PF9jaf6BK5UqYtUmSFNUBABj77XWxaSwW9wQGjb0lv+zb72xdnFI8PHpQcLWGpLA8M0HEnZZ46MNHMic82Zz5MvVsSviXPmYH/kHulh/Mtjh/ye0u/82A+syJZ0I0EpCAc3pAbIyD7gu9cjlKoHu/GFFqfYhMXl9v3DoG3nWqSVPRc9LlULGzXUp2BQLeJBEaPYde4mb84++7y10MIssTGgeSfj+6R7aIdxaNTSA80iLR0D8nT8vWGjG5+smp7w5G6SQb3S3adxTp7S/mpftRPHRxUg4GrmD1ubqsgiFbLVOWhASx0ltryxu/OUZRSQlpqOtEKYTdy2IxUcJuL1DftuNUE7oPkfrsnupuDHc2/W5Gncj9jCqZGETis90cyKTrQ/6MysOSzp+5RuU58l+k/ivG8NPNksCYy0gB+OfY3MxpSxY6zT5krUHSm2fXzuuzY5KZFRBiKFr6QYIPozF05Yex82aJporhHbw==;eTmeUeacUV+fjIPS6VD/3A=="
 ---
