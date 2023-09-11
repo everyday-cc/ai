@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-08-31-ai-may-influence-whether-you-can-get-pain-medication.md",
+      "title": "AI may influence whether you can get pain medication",
+      "excerpt": "Even critics of drug-tracking systems and algorithms say there is a place for them in reducing the harms of the opioid crisis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/health/artificial-intelligence-pain-medication/",
+      "originalUrl": "https://www.popsci.com/health/artificial-intelligence-pain-medication/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2023/08/30/Depositphotos_475432208_L-1.jpg?auto=webp",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/health/artificial-intelligence-pain-medication/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/health/artificial-intelligence-pain-medication/?amp",
+      "publishedDateTime": "2023-08-30T18:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-31-bringing-generative-ai-in-search-to-more-people-around-the-world.md",
       "title": "Bringing generative AI in Search to more people around the world",
       "excerpt": "We’re bringing generative AI capabilities in Search (SGE) to more people, making  Search Labs available in India and Japan.",
@@ -1166,58 +1209,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-30-6-ai-tools-to-make-building-business-relationships-10-times-easier.md",
-      "title": "6 AI Tools to Make Building Business Relationships 10 Times Easier",
-      "excerpt": "As AI becomes more and more integrated into our lives, the evolution of AI tools for business networking holds promise. We can anticipate the development of even more sophisticated AI tools designed to assist professionals in maximizing their networking ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/growing-a-business/6-ai-tools-to-make-building-business-relationships-10-times/457361",
-      "originalUrl": "https://www.entrepreneur.com/growing-a-business/6-ai-tools-to-make-building-business-relationships-10-times/457361",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1692992802-ai-tools-business-relationships-0823-g1500238079.jpg?format=pjeg&auto=webp",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-30T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

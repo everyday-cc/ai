@@ -28,15 +28,6 @@ related:
       name: Arabian Business
       domain: arabianbusiness.com
     quality: 31
-  - title: "EY releases more than 20 new Assurance technology capabilities supported by Microsoft alliance in first year of US$1b investment program"
-    excerpt: "Through these developments, EY teams have been using Azure Cognitive Services, to integrate AI into the audit process. The EY and Microsoft Alliance additionally provides EY Assurance teams with early access to new Microsoft technologies, and the ability ..."
-    publishedDateTime: 2023-09-06T18:43:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1344621&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "+A6H22uufukRn4vQNTc/9cflOfNP2bM1X0Oa3XorSqOjlFjX4AH0DFBSkdS2V20dffqEgoqLqbSKXd0uyf073vPRGG0xc7RoF7ZgCk662i6ISTeWRycnfFIcOIdhpjgNd4DstGK6Jn4jcvCo3QmSRU2PP6pijnBqdgdyO5ScsJ/8Zg9ExqiNxwDUHzCqac2kutJ1pKJpKkOEpCtvWZPbX8h6VKrmBUFA1+RE6SSrRD4o6h3cWa8FSGWt/DiSg5g/ScIl2CERCQy3hSfO9AfZ0Agm3YrXSzQnhDU1C6B98o81szRlD3LWjJ1TLyJCVV/Qzi2rEJpbDrxpsWLAACY0RxANyMih13lDH6wahLnl4t0=;AH78K414wj0G9ieL7qNflw=="
 ---

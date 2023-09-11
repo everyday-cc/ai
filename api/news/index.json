@@ -10,7 +10,7 @@
       "originalUrl": "https://www.nbcnews.com/nightly-news/video/hundreds-of-schools-across-u-s-using-ai-to-help-detect-guns-192654405889",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -52,7 +52,7 @@
       "originalUrl": "https://www.financialexpress.com/business/industry/the-next-phase-for-us-is-ai-transformation/3238978/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -138,7 +138,7 @@
       "originalUrl": "https://www.reuters.com/technology/meta-is-developing-new-more-powerful-ai-system-wsj-2023-09-10/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -292,7 +292,7 @@
       "originalUrl": "https://www.forbes.com/sites/quickerbettertech/2023/09/10/small-business-tech-roundup-intuit-introduces-an-ai-assistant/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -981,49 +981,6 @@
       ]
     },
     {
-      "path": "_news/2023-09-08-machine-learning-can-level-the-playing-field-against-match-fixinghelping-regulators-spot-cheating.md",
-      "title": "Machine learning can level the playing field against match fixing—helping regulators spot cheating",
-      "excerpt": "On the eve of the Rugby World Cup kicking off, there have already been whispers of teams spying on each other. Inevitable gamesmanship, perhaps, but there's no doubt cheating in sport is a problem authorities struggle to combat.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-09-machine-playing-field-fixinghelping.html",
-      "originalUrl": "https://techxplore.com/news/2023-09-machine-playing-field-fixinghelping.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/rugby.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-09-machine-playing-field-fixinghelping.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-machine-playing-field-fixinghelping.amp",
-      "publishedDateTime": "2023-09-08T09:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-08-ai-narrated-audiobooks-are-here-and-raise-some-serious-ethical-questions.md",
       "title": "AI-narrated audiobooks are here and raise some serious ethical questions",
       "excerpt": "Meet Madison and Jackson, the AI narrators or \"digital voices\" soon to be reading some of the audiobooks on Apple Books. They sound nothing like Siri or Alexa or the voice telling you about the unexpected item in the bagging area of your supermarket checkout.",
@@ -1217,6 +1174,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-08-ai-gpu-accelerators-will-be-in-short-supply-for-two-more-years-tsmc-warns.md",
+      "title": "AI GPU accelerators will be in short supply for two more years, TSMC warns",
+      "excerpt": "AI servers are expected to explode to an estimated market value of $150 billion by 2027, and Nvidia currently makes the most sought-after GPUs designed to",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/100084-ai-gpu-accelerators-short-supply-two-more-years.html",
+      "originalUrl": "https://www.techspot.com/news/100084-ai-gpu-accelerators-short-supply-two-more-years.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/09/2023-09-08-image-5.jpg",
+          "width": 2000,
+          "height": 1267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-08T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

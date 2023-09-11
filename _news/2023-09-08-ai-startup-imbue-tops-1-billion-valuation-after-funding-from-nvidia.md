@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ai-startup-imbue-tops-
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-startup-imbue-tops-1-billion-valuation-after-funding-from-nvidia-71694110213169.html"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Imbue.png"
         width: 932
         height: 519
-        isCached: true
-  - title: "How Generative AI Helps This $3.5 Billion Startup Grow Faster"
-    excerpt: "Launched in 2016 by former Tesla Chief Information Officer Jay Vijayan, Tekion employs roughly 3,000 people and has raised $451 million in venture capital - valuing the company at $3.5 billion the last time it raised capital in September 2021, according to Pitchbook."
-    publishedDateTime: 2023-09-06T07:31:00Z
-    webUrl: "https://www.inc.com/peter-cohan/how-generative-ai-helps-this-35-billion-startup-grow-faster.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1546442104_533537_djkh3r.jpg"
-        width: 1024
-        height: 576
         isCached: true
 
 secured: "miCmqxm88tqwhJUBYU6/32hCYVRMz4sVUjkQ2avmSPC0UyzXMQmO5AqxQHjWDP3UpbdGYLYga+WXpps3XtC8JWbniJ3Nt3lOmwbfPbJkEp+wO921AzVB5iWEJdkDW6H8PdfW93fVxBEA/erKgOQ7UCjlG2xCqCDM/lgiT8cVfIsNUxoHlyPQQ12Ms+qQjMaGFlE4igZS1NYG/AiRLj7yMO/F9bxAbWGRsw02ryxb5cFjIqU14qNf6gcn+XQ67k5Dr7ps/TTyDEgwbEt6WiLkXIa9oIdzy8/19EP39CKVw5BrRqTtwJzkM50T/8AvhTD5xYSiQvQjkiTvukQg5hP/QU0ifpVJRk0ClEO9d5D+gs8=;bbC9tnx6i1Lu8VaDMxuRnQ=="

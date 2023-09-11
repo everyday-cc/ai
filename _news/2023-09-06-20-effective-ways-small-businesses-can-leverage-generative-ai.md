@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/06/20-effecti
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/06/20-effective-ways-small-businesses-can-leverage-generative-ai/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 137
+published: true
 
 provider:
   name: Forbes
@@ -30,58 +30,68 @@ images:
     isCached: true
 
 related:
-  - title: "Data is essential: Building an effective generative AI marketing strategy"
-    excerpt: "Generative AI for text, visuals and video have the potential to create a more personalized and engaging experience.\nThe post Data is essential: Building an effective generative AI marketing strategy appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-09-06T09:00:00Z
-    webUrl: "https://www.ibm.com/blog/data-is-essential-building-an-effective-generative-ai-marketing-strategy/"
+  - title: "Intuit launches generative AI-powered digital assistant for small businesses and consumers"
+    excerpt: "AI-powered Tax Knowledge Engine to determine consumers’ specific tax situation and navigate the tax code. It will create a personalized tax checklist based on data a customer shares at the start of the tax preparation process to provide answers to their ..."
+    publishedDateTime: 2023-09-06T23:23:00Z
+    webUrl: "https://techcrunch.com/2023/09/06/intuit-assist-generative-ai-assistant/"
+    ampWebUrl: "https://techcrunch.com/2023/09/06/intuit-assist-generative-ai-assistant/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/06/intuit-assist-generative-ai-assistant/amp/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 115
-  - title: "AI in marketing: How to leverage this powerful new technology for your next campaign"
-    excerpt: "Today’s most effective AI marketing solutions utilize AI and ML technologies to enhance customer experiences and deliver meaningful insights.\nThe post AI in marketing: How to leverage this powerful new technology for your next campaign appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-09-06T14:25:25Z
-    webUrl: "https://www.ibm.com/blog/ai-in-marketing/"
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 77
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/09/intuit-assist.jpg?w=1200"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "The Generative AI Boom Could Fuel a New International Arms Race"
+    excerpt: "Two new studies of the potential of text- and image-generating algorithms suggest they could add scary new scale and power to online disinformation campaigns."
+    publishedDateTime: 2023-09-07T09:00:00Z
+    webUrl: "https://www.wired.com/story/fast-forward-generative-ai-could-fuel-a-new-international-arms-race/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 109
-  - title: "Artificial Intelligence Is Taking Over Marketing"
-    excerpt: "AI has made great strides within the marketing department, with a large percentage of companies using it today. Learn the AI tools out there that can help you improve."
-    publishedDateTime: 2023-09-06T13:51:00Z
-    webUrl: "https://www.forbes.com/sites/georgedeeb/2023/09/06/artificial-intelligence-is-taking-over-marketing/"
-    ampWebUrl: "https://www.forbes.com/sites/georgedeeb/2023/09/06/artificial-intelligence-is-taking-over-marketing/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/georgedeeb/2023/09/06/artificial-intelligence-is-taking-over-marketing/amp/"
+      name: Wired
+      domain: wired.com
+    quality: 69
+    images:
+      - url: "https://media.wired.com/photos/64f8fe9c2af6d929ce8aee78/191:100/w_1280,c_limit/AI-Arms-Race-Fast-Forward-Culture-1368514518.jpg"
+        width: 1280
+        height: 670
+        isCached: true
+  - title: "How Generative AI Will Rewrite DevOps Best Practices"
+    excerpt: "The full impact of GenAI on the DevOps processes of major enterprises is still in its infancy, but it will rewrite the best practices for software development."
+    publishedDateTime: 2023-09-08T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/08/how-generative-ai-will-rewrite-devops-best-practices/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 104
+    quality: 47
+  - title: "C3 AI releases 28 domain-specific generative AI models"
+    excerpt: "The platform works on structured and unstructured textual data and can also orchestrate inferences from machine learning and deep learning models ... AWS and Microsoft Azure marketplaces."
+    publishedDateTime: 2023-09-06T20:32:00Z
+    webUrl: "https://siliconangle.com/2023/09/06/c3-ai-releases-28-domain-specific-generative-ai-models/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64f881680386820459f9e2c7/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 642
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/deepmind-LIlsk-UFVxk-unsplash.jpg"
+        width: 7111
+        height: 4000
         isCached: true
-  - title: "Financial planning & budgeting: Navigating the Budgeting Paradox"
-    excerpt: "Financial planning and budgeting are changing. Learn more about the technology helping businesses to navigate these unpredictable waters.\nThe post Financial planning &#038; budgeting: Navigating the Budgeting Paradox appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-09-06T14:00:00Z
-    webUrl: "https://www.ibm.com/blog/financial-planning-budgeting-navigating-the-budgeting-paradox/"
+  - title: "C3 AI Releases New C3 Generative AI Suite"
+    excerpt: "Initially released in March 2023, C3 Generative AI has been well received by the market with projects now in place at Georgia-Pacific, Flint Hills Resources, Nucor, Pantaleon, Con Edison, the U.S. Missile Defense Agency, and a U.S. intelligence agency."
+    publishedDateTime: 2023-09-06T21:55:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/09/06/9876233.htm"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 82
-  - title: "Potential Supreme Court clash looms over copyright issues in generative AI training data"
-    excerpt: "A case related to the data that trained generative AI could “absolutely” be taken up by the Supreme Court, say experts. How did we get here?"
-    publishedDateTime: 2023-09-06T12:00:00Z
-    webUrl: "https://venturebeat.com/ai/potential-supreme-court-clash-looms-over-copyright-issues-in-generative-ai-training-data/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 42
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "JuhIgoezMzgMxF4nYL5h6AiPayEUF78BwL78mWM7VsbJu005ijQGX1Ohjji0jDhs4R7HHdSXop0yV6XBJ5OsrczQAc8F1ook2Z2YClEOMV4SdAflHQ/0uv4Xz/2/SNrqvo2tZVOOfivvPon/ogY5O+1L2sN7YkTklPYF6bKiuJgD+OnRzY9rFCF5EDUV2j8ETrrR2UFpp2xTPZvryd1UUMJCh3kPJUGNlPcolHEVGZL0BkU3ZQTauHzuyNQX3cKAftXLHDF0W+A0wCOacmcU1oCtz/bFIWUE3SlTt0Z5mzU1RN/cLLPdRSjg3uJ7020B3nGFRUrU0nckiX24pA7hfNxjanV5KxVUAuQ9gEaBsZg=;Xzty1wv0ZxRR1/DjBuxbKQ=="
 ---

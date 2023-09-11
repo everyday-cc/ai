@@ -28,15 +28,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 14
-  - title: "EY releases more than 20 new Assurance technology capabilities supported by Microsoft alliance in first year of US$1b investment program"
-    excerpt: "Through these developments, EY teams have been using Azure Cognitive Services, to integrate AI into the audit process. The EY and Microsoft Alliance additionally provides EY Assurance teams with early access to new Microsoft technologies, and the ability ..."
-    publishedDateTime: 2023-09-06T18:43:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1344621&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "GiKw8bpJ5A0LdiAFzWre9rhA50URBJkagAcqFRif8/Vax+ErA73IYiaeXI1mtvBp//6knG4p5BKBMzt0LUeHLCYVrWopCPkDM1d0MKxio7Nvls2eyEuMEX0LcP05mL10TCG4WJJJokM5z7nkCLgX1Gjc1MeAuUfvVFqpxnbyJudSReawlIjGz9d+kjo5jF+um/iK1WExFw8UN2dNPjz4nJVI6JbAp7Y31ynRKxBoegk9X2JIO4p9QtNvW71uiAVbAdNS/vDqVYlwgUaP33h3JpRG9KUV6N5gswLjAGTP3OTlZcAMg4BPs+cF5e9ECmtDfJvUsTaf62YRkjktWwF0nr2XGHnUC0bxS0u0S4WvH/6ddBrTrf3QnTEoXlrI/lSNmhxoZ29mD4bldbmkgHngdoXFrkj1p7i73Dcr33HMNKFNP1/pihVcVxHhGwSIC4/ys0s4rp8CKXvjnlyYmehk+liDpSg0rjbClaj+AKPpbglQIkYlTx6gEFGL92NO73U0k09WwDLML2MjPbDcHc2z4A==;sUv+F3RqU5Jouf4Ndn3h7g=="
 ---

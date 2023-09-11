@@ -68,6 +68,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Why self-regulation of AI is a smart business move"
+    excerpt: "Robust governance is the surest path to AI initiatives that build customer confidence, reduce risk and drive business innovation."
+    publishedDateTime: 2023-09-11T01:41:00Z
+    webUrl: "https://venturebeat.com/ai/why-self-regulation-of-ai-is-a-smart-business-move/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_technology_regulations_and_standards_for_businesses._co_92a54db8-4f4b-4ca9-ba50-acfcc2028868.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "The Potential Of AI As A Catalyst For Business Transformation"
     excerpt: "Artificial intelligence (AI) has rapidly emerged as a disruptive force, influencing humans professionally, socially and culturally. With its ability to process vast amounts of data and make complex decisions, I’ve seen it become a catalyst for transformation across business sectors, from healthcare to transportation."
     publishedDateTime: 2023-09-06T13:15:00Z

@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Data is essential: Building an effective generative AI marketing strategy"
-    excerpt: "Generative AI for text, visuals and video have the potential to create a more personalized and engaging experience.\nThe post Data is essential: Building an effective generative AI marketing strategy appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-09-06T09:00:00Z
-    webUrl: "https://www.ibm.com/blog/data-is-essential-building-an-effective-generative-ai-marketing-strategy/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 115
   - title: "AI in marketing: How to leverage this powerful new technology for your next campaign"
     excerpt: "Today’s most effective AI marketing solutions utilize AI and ML technologies to enhance customer experiences and deliver meaningful insights.\nThe post AI in marketing: How to leverage this powerful new technology for your next campaign appeared first on IBM Blog.\n"
     publishedDateTime: 2023-09-06T14:25:25Z
@@ -49,40 +40,15 @@ related:
       name: IBM
       domain: ibm.com
     quality: 109
-  - title: "20 Effective Ways Small Businesses Can Leverage Generative AI"
-    excerpt: "From communications to customer service to coding, tech experts see a lot of ways that generative AI can boost a small business."
-    publishedDateTime: 2023-09-06T16:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/06/20-effective-ways-small-businesses-can-leverage-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/06/20-effective-ways-small-businesses-can-leverage-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/06/20-effective-ways-small-businesses-can-leverage-generative-ai/amp/"
+  - title: "How Small and Mid-Size Law Firms Can Use Artificial Intelligence in Their Marketing Efforts"
+    excerpt: "In the rapidly evolving world of legal services, artificial intelligence (AI) is no longer just an emerging technology; it’s a pivotal force revolutionizing how law firms of all sizes operate and market themselves. AI is helping law firm professionals ..."
+    publishedDateTime: 2023-09-08T17:38:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/how-small-and-mid-size-law-firms-can-3685235/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64f89d669038c96f4a86eae0/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Financial planning & budgeting: Navigating the Budgeting Paradox"
-    excerpt: "Financial planning and budgeting are changing. Learn more about the technology helping businesses to navigate these unpredictable waters.\nThe post Financial planning &#038; budgeting: Navigating the Budgeting Paradox appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-09-06T14:00:00Z
-    webUrl: "https://www.ibm.com/blog/financial-planning-budgeting-navigating-the-budgeting-paradox/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 82
-  - title: "Potential Supreme Court clash looms over copyright issues in generative AI training data"
-    excerpt: "A case related to the data that trained generative AI could “absolutely” be taken up by the Supreme Court, say experts. How did we get here?"
-    publishedDateTime: 2023-09-06T12:00:00Z
-    webUrl: "https://venturebeat.com/ai/potential-supreme-court-clash-looms-over-copyright-issues-in-generative-ai-training-data/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 42
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 24
 
 secured: "xciV8xqJGME6tR2pMk7omNOdNakRctCkKLkZQnoCC93lS/6hdZ3hFRtGRQSei8vid7mpX01PGS70NF8plQ7QmILZn1Hk7zsp/bi6MsNSMzgQUeOHxH7qwBkt07BaAAVESz/xfUXusffNQw2wcATAJSpKzlDU61wLqNfsnu3HUPxo4Bu1CmpjnBQ1iZ2ccUOnb/Cx/H0y6uQaeLinxXFnoVGefpzjkbAX3y/dL3WhjvJiJsG1KqlH7AB4UN3GPYmGYyi9Mdvok3ApWrMBoV6y1pMztO9G8n9a84w8HxRUFfXNeUbvpiTKWFkhdMRIx6fIKZLfeMPAesssmesNplhmULluLnRgIUIbTuWN/aUMVnhg1EPyI8bS9mnAD0d3MUVHVFIxvVE1YuElFSvT7wvc6q44ALNcqUv6PNCBzZCVoP1PB8CGYqsLJ+1DL3j5Oq8nLfhBs5Vs2tp7weccoCDqVyphbwIoVb65jEitF69y2xoR63UIlSNHH1mHn2I1dTrRAvAd/XRsC3jzv92iM8kAzw==;Jb9pw6miXSWqUIPR8+j52A=="
 ---

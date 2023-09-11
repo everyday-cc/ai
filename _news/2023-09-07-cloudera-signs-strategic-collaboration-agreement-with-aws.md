@@ -99,6 +99,24 @@ related:
         width: 437
         height: 563
         isCached: true
+  - title: "AVIA’s National Generative AI Collaborative Announces New Experts, Enhanced Health System Participation"
+    excerpt: "The Generative AI Strategic Collaborative reveals a slate of 10 clinical, ethics, technology, and regulatory experts for its national consortium"
+    publishedDateTime: 2023-09-07T16:04:00Z
+    webUrl: "https://www.kansascity.com/press-releases/article279063044.html"
+    type: article
+    provider:
+      name: Kansas City Star
+      domain: kansascity.com
+    quality: 3
+  - title: "AVIA’s National Generative AI Collaborative Announces New Experts, Enhanced Health System Participation"
+    excerpt: "The Generative AI Strategic Collaborative reveals a slate of 10 clinical, ethics, technology, and regulatory experts for its national consortium"
+    publishedDateTime: 2023-09-07T17:04:00Z
+    webUrl: "https://www.miamiherald.com/press-releases/article279063044.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 3
 
 secured: "YBXRChK6aymwWvT4H9+I0zsV4KLZ4jDrBLOG96Rfsdy++kM0trQnepIJdNnSU7XTJdGl7y0xsFzAfXGjhPla9JXfL02SgjVjjWl+79Xt9Kx2Ys/wR/kETrA+yBrgmL9tKkldj/8KsSJ5yurFwXDHlv+cOEWMB9KB6Jj1kqZIRbd7KT6J4liUVB4MXD+MMGJCeEvIgheCvbzqF67n1tAAx5lFXs1knzDWtVyXGLA25gMtuk0udmJOjXyfssUXgStmrY4slHd3tJJVgLRLCzcM8/srcxgPvKiv3VwMruebEUlmp8ZZ4hY7nHh6kU616avEUyjUfYQnKhj3W9v8EzhByNneeo40q4ggggwXpyQq1zbg+f7/b1//Pb73SR9BMRhqf1pP/23OAAnxfTedNYhiuWwbIcX24Pkt4yxkUd6ACiK9Hpy8/Gsw+vVxapSIYlXqGQdilozmFP3ybvu5F8FyFCI142gEJxsWBN9d78/A07u9V8ZZgDZR0D8eRWDMO+McSjVNrVrvH4kYZiFygTkc+A==;hJzxg2zLRgT0NNfYKgUTIw=="
 ---

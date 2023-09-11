@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/07/the-power-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/07/the-power-of-causal-models-in-moving-from-weak-to-strong-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://images.wsj.net/im-848428/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Meta is developing a new, more powerful AI system"
+    excerpt: "The Facebook parent is aiming for its new AI model to be ready next year, the Journal said, adding it will be several times more powerful than its commercial version dubbed Llama 2."
+    publishedDateTime: 2023-09-11T00:46:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/meta-is-developing-a-new-more-powerful-ai-system-11344571.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/world/meta-is-developing-a-new-more-powerful-ai-system-11344571.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/meta-is-developing-a-new-more-powerful-ai-system-11344571.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 59
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/07/Meta.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "4CoTb31MezL8abBWkbBpOnXhKKUalX18MjhQoB+koLCkYLzlE5qa9lMDezIxpfuAZWqBO1l4sHhwrs8SDchSI2lNGP+6m/Wlmtghm9QApJvA7/ABbaZrghPb0DqqqfGP4CVCweybnEyaOWjP89Y+mtWsi6srU3PtgteM8uWGaJEb1RoLqbDieMQMQRSW2Ka658Ey6nld/d+1iiUOIRjaRsiddf6XGfyKTswdFLklqm8vVvv/xoZ6Dh2on07iilYZ1I9cac4CsgDDA9eYt2f3dy2u0lVJ384JoWmL/HCFjWpvdO+muRjADJmprO6JDN22JSCCOl2R8NzipZHROHXyL4AnC4ikt0rJvoBU7lqyrIc=;KbhTLuJ+5kxD8+IAAOnzcQ=="

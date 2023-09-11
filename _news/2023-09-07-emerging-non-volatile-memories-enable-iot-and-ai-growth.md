@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomcoughlin/2023/09/06/emerging-non-vol
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2023/09/06/emerging-non-volatile-memories-enable-iot-and-ai-growth/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 968
     height: 580
     isCached: true
-
-related:
-  - title: "Speech enhancement AI eliminates noise in IoT applications"
-    excerpt: "Ambiq, a specialist in ultra-low-power semiconductor solutions, has announced the introduction of the Neural Network Speech Enhancer (NNSE), its latest addition to its neuralSPOT's Model Zoo."
-    publishedDateTime: 2023-09-06T07:50:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/news/speech-enhancement-ai-eliminates-noise-in-iot-applications"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 39
-    images:
-      - url: "https://www.newelectronics.co.uk/media/rfubmvoq/ambiq-speech-enhancement-ai-1200x800.jpg?width=1200&height=630&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "aC67IFX2e8P2sl7OFvfcHVorX1K4mWEl/meTxq/zHNq9ROez6cQFHCw24+jgHBYGSj55w6sxt655Yujkg1UxjWLrfhvR7kWTkVIkKUlx+dTAPdhq+lbgTPZAUjqF6pQrhuaqL2YmnU94LvoxOGt1i2NdT8zFPnZDESNopR12WP6/O8h3oqBPK4LCqzEPXbpOxRKmBe7dxG+DAwxML2Lp79s8rOAHAqRP/lHnPtwPI+UlUPhk+aG1Mv6orVL+Xsx/jcQnZ/BSVq3zt+kHBrjufDA7qylXQJaeLslexGqwPYr0rCcmK5UJ17OMG/rYsoT8nUooWwSz0bWNG5LHsXXEa00BODX6Y0D7qy7WIOqx6ZzR/m77WYnqC2Ca3PAoyd9J34Y7WTzTf8QHO+PnbwJsyt8uWVZrVyrM/l8Tmww3CsX1fnfMf10t7SI+VC/eEwIEt2WP0paN7sivaMrtv6qpe8oNbVrpeSQ7uBNOYKqd59X0Dejlx2Ybo5ksxuRz/8rM1rho+JIVDW8u5ERTbFpnKw==;7rTOFwmBIVsk2VB2OesALw=="
 ---

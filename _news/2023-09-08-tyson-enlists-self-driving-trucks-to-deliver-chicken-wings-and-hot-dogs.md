@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Gatik robot trucks will haul Tyson chicken, sausage and hot dogs"
-    excerpt: "Tyson Foods has signed a three-year contract to use Gatik autonomous trucks to move its protein products on the middle mile."
-    publishedDateTime: 2023-09-06T09:00:00Z
-    webUrl: "https://www.freightwaves.com/news/gatik-robot-trucks-will-haul-tyson-chicken-sausage-and-hot-dogs"
-    type: article
-    provider:
-      name: freightwaves.com
-      domain: freightwaves.com
-    quality: 19
   - title: "Tyson Foods Is Using Self-Driving Trucks. It’s a Start."
     excerpt: "Food giant Tyson is deploying autonomous-trucking technology from start-up Gatik in a pilot test of cost and productivity."
     publishedDateTime: 2023-09-06T13:26:00Z

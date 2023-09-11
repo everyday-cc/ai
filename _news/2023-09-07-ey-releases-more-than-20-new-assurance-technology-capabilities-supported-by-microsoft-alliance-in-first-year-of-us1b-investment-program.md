@@ -19,24 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "Abu Dhabi’s G42, Microsoft to offer joint sovereign cloud and AI capabilities"
-    excerpt: "Microsoft’s sovereign cloud offering will allow UAE public sector and regulated industries to use new platform capabilities for securing sensitive data, providing access to the latest cloud and AI features available on Azure public cloud and helping them ..."
-    publishedDateTime: 2023-09-06T12:07:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/technology/abu-dhabis-g42-microsoft-to-offer-joint-sovereign-cloud-and-ai-capabilities"
+  - title: "iTechGenic Partners with Microsoft Azure and G7 CR Technologies to Revolutionize Engineering Management with AI-Driven Insights"
+    excerpt: "India], September 8: iTechGenic, a pioneering AI-based engineering intelligence platform, has joined forces with Microsoft Azure and G7 CR Technologies- A Noventiq Company as a part of their STAB program for ISVs."
+    publishedDateTime: 2023-09-08T06:51:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273959357/itechgenic-partners-with-microsoft-azure-and-g7-cr-technologies-to-revolutionize-engineering-management-with-ai-driven-insights"
     type: article
     provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 31
-  - title: "Apple and Microsoft fight Brussels over ‘gatekeeper’ label for iMessage and Bing"
-    excerpt: "We’ll send you a myFT Daily Digest email rounding up the latest EU tech regulation news every morning. Apple and Microsoft have argued with Brussels that some of their services are ..."
-    publishedDateTime: 2023-09-07T03:03:00Z
-    webUrl: "https://www.ft.com/content/137d655b-c264-460f-bbe8-a269f0a3d8ac"
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 41
+    images:
+      - url: "https://cdn.bignewsnetwork.com/NTNlM2U1N2UtMDR.jpg"
+        width: 630
+        height: 473
+        isCached: true
+  - title: "EmpiricaLab Partners with Futuralis to Revolutionize Healthcare Training with AI Integration with Amazon Bedrock"
+    excerpt: "EmpiricaLab, a leading provider of innovative cloud-based healthcare training solutions, is excited to announce its strategic partnership with Futuralis, a cutting-edge Amazon Web Services (AWS) Partner and artificial intelligence (AI) technology company."
+    publishedDateTime: 2023-09-07T14:03:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/09/07/9876672.htm"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 14
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
 
 secured: "zosIt6LKJcILrqXosbozz9KPzwJt3C7hUYafKujlIW5TL5wmA6yLURltMwjvQAK4uGJw/VnlId0RpTEGI043F0kRfPPArcUBncNGXiYUHirwabsSZJYMC4vWf/KgaxmiWqlrFwsu+dc6e/hqP4RpDn1Vm9LkYV5nqiMDwhKNErJUeqJ11BE4kRmOW0VHe76cxU3VzzmOK/z5iAn9BlFHRp3hgOHBz8LumW3F4pElYTzSgRbvisOOmf8Qx3SjUL5L0icxPRjiBaZwNQ2DD2RtQHHQwdSwpY+ZGKV8G4wOhct0CtcWVGtF4rMNx5Sy5snk19hTJ8z+FkFaW8EakI4dO2ERkPBJXIP2SA/X81d3VeY=;2NniSKFAIjIKOLxz/STJGg=="
 ---

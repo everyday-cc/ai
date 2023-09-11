@@ -6,7 +6,7 @@ publishedDateTime: 2023-09-10T23:07:00Z
 originalUrl: "https://venturebeat.com/programming-development/move-over-ai-quantum-computing-will-be-the-most-powerful-and-worrying-technology/"
 webUrl: "https://venturebeat.com/programming-development/move-over-ai-quantum-computing-will-be-the-most-powerful-and-worrying-technology/"
 type: article
-quality: 64
+quality: 66
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/08/annevb_quantum_sensors_and_robotics._Colorful_futuristic_tech_81265ed8-1888-44a7-b3de-91845c435505.png?w=1200&strip=all"
@@ -149,6 +150,6 @@ related:
       domain: axios.com
     quality: 17
 
-secured: "mVdF7Z0V8gTAkZOkdudzgWp7BFVPttmeJ3/0UeodZsuAvJGoj7LzFIRBMrLTBjx3E6eZ+yYPaQkepLUDx7BRS4C5BlMKa4D9RhEWl22/DcUnKsZpURJBVS0+Wuy9u65ShWUL6DcfUix1F5Txv4EkF6JQirjPxLdlvYxYcvmsTXA4gisnghDqUTMa0OUp2yqWgc7zihjf+oD+XRPunv2Dc/MfvhdVxc8fZGoLueVC+ItF7sJwGviDYRcTeOTOoBS3SGKHociiIYj7W4uH3cS2b4cstLlMIYCOb2eh00myG3vFsw8pd0aS+R3hgswIr6wGV8CGcwFlk+scJGMQ6EG90tBwr5R65jCbpRaqVNkP4p8=;rKIX7WiSSPwRN7tpFCtvog=="
+secured: "+eTWqoXatpEAx6TRzlzJOuGnopiTNqmWV7NxP6OSR/0dlBHB2ESwcL7lAuaZamZMfsb3jC9jXYY3ANCHIIlxRbPavh0x0FYtVY/wWUBYAIiLUBPS2oD2RD0YcY/g1PE854SkXjt5IDY9/AVU5NyUYuAutK77yOUdpoCXchHug3O8wqM1Z1cXByYET1o7qZfSpStILDXbhJnLy1GB0QwHmsPfmWoROzyfBPSa63UqdJeRRlV1KNx/QVIMOV/ojSzzxvSgxyE9cPFabMZ4k+VQWnkdJ8CpvwiWObXVp1jQP791LAEz/diWbIDfFFiaHlLYPeLXFeFUYbKzKX7atzoWAiYrJFLIq8uoGFDqzBYlVT0OhM4ZvlFe1ghN3JOtbYrF95xAAoN4CDpdCZy3zlXjnEGtdaN0RQqoyHSl3gw9Ax91zv0cqaQQEUW4QJRU78Vu7QN0b/wmibBWXi3WiRipMkcQisejjX0EYsRJwd+mvAYyX05nUydmjmwlqnu6M4nvVmKqTLR6OD4ga87oo2VhzA==;8gJhM7405e80VDM8mYWQaw=="
 ---
 

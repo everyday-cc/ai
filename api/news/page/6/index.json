@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-09-06-with-ai-future-of-hearing-aids-might-include-language-translation.md",
+      "title": "With AI, future of hearing aids might include language translation",
+      "excerpt": "We hear a lot of headlines about concerns over artificial intelligence and what it might mean for the future. But it's not all bad: Consider hearing loss.Friendly AI could be",
+      "sourceUrl": null,
+      "webUrl": "https://www.djournal.com/news/national/with-ai-future-of-hearing-aids-might-include-language-translation/video_9e5519be-2dbf-53fc-b29e-9b55cab042d8.html",
+      "originalUrl": "https://www.djournal.com/news/national/with-ai-future-of-hearing-aids-might-include-language-translation/video_9e5519be-2dbf-53fc-b29e-9b55cab042d8.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/9/e5/9e5519be-2dbf-53fc-b29e-9b55cab042d8/64f77e3bf228f.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-05T11:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Journal",
+        "domain": "djournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-05-how-carrier-predicts-hvac-faults-using-aws-glue-and-amazon-sagemaker.md",
       "title": "How Carrier predicts HVAC faults using AWS Glue and Amazon SageMaker",
       "excerpt": "In this post, we show how the Carrier and AWS teams applied ML to predict faults across large fleets of equipment using a single model. We first highlight how we use AWS Glue for highly parallel data processing. We then discuss how Amazon SageMaker helps us with feature engineering and building a scalable",
@@ -1150,48 +1193,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-expo-city-dubai-launches-regions-first-artificial-intelligence-film-festival.md",
-      "title": "Expo City Dubai launches region’s first Artificial Intelligence Film Festival",
-      "excerpt": "The event establishes Expo City Dubai as the epicentre of AI innovation, a future-focused community and a global platform for collaboration on big ideas",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/business/technology-and-telecom/expo-city-dubai-launches-regions-first-artificial-intelligence-film-festival-buhpqsni",
-      "originalUrl": "https://www.zawya.com/en/business/technology-and-telecom/expo-city-dubai-launches-regions-first-artificial-intelligence-film-festival-buhpqsni",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/NjgwY2Q3NjMtZTY2NC00/17/1463605211.jpeg?f=3%3A2",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/business/technology-and-telecom/expo-city-dubai-launches-regions-first-artificial-intelligence-film-festival-buhpqsni?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/expo-city-dubai-launches-regions-first-artificial-intelligence-film-festival-buhpqsni?amp=1",
-      "publishedDateTime": "2023-09-05T00:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

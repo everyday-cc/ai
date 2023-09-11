@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo192654405889"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo192654405889"
 type: article
 quality: 87
-heat: 107
+heat: 98
 published: true
 
 provider:
@@ -42,21 +42,7 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Some CT schools are using artificial intelligence for student tutoring"
-    excerpt: "CT is partnering with tech company Varsity Tutors, which uses AI to connect students with tutors and design tutoring lesson plans."
-    publishedDateTime: 2023-09-06T09:00:00Z
-    webUrl: "https://ctmirror.org/2023/09/06/ct-schools-ai-artificial-intelligence-tutoring/"
-    type: article
-    provider:
-      name: The Connecticut Mirror
-      domain: ctmirror.org
-    quality: 39
-    images:
-      - url: "https://ctmirror-images.s3.amazonaws.com/wp-content/uploads/2023/08/2023_0823_SR_AIinSchools_017_1-scaled.jpeg"
-        width: 2560
-        height: 1707
-        isCached: true
 
-secured: "3771Pd0ZY3r/K+/0ARXFw21E0UYs4wy5DX5iG2ubAT3DCHZ6dXaMZOzS12BsGnQRAlUxHYmIDpcI3Zr0FrKJUj2KA6kRiDu7DWh3qiQHvKhsALe+uC3bbqum65Dr1wtgjbcVsYfpSYdwWDuHM9IT46muO8yNxUsxPjc7Ren0BtiZl4FVTnTfIHU0cRTlAszG0anGbZiBxp/S9AmQjHRYzfefEzFU1MY/80MAA9WqsjDc75js4j+G5PhGZ5fzKoJ2lQLow2Qelh+S+JT08IxSFYOpqdfX4gA7p2ruVFYhwmXi1vDj2bJ4NybRUDtF1j1zaJYf0vd5WiYqop7lEuZT2kNaGgYERSuf/s1/cZXGP7g=;Wt6nzN2gOnYdy/LFGjPK0g=="
+secured: "fZIy3n5WtOubgRlOqV7YmIfneNoTPmU0rkDlJq06DXQvCSZiCEumHSgRxvSS0B8clBtE20KfwmJG9f1eHXbI0dSyStDgzkPwN2/pYXMm8nkIvH0H4aCIpZKcP3AfrIZtzOq1QDc4uAV9Iy3b8qo4eM2kT3giX8T9CND5+m0Rr37pCiD9uh4lZ7G8aaG2yliuAbym7LvlRhNvsGA3ghUYOMMs1PPHaXVAmZ16e7aaAjvJ6NthNh/yL6cFrQk24JnbeIXbk+3UEwDo2J5KPzpwQX2tNUzMXaxoCTDSaPwZNq/oROggvKESFyLrAk3YhYLZ9pv8KjQa22ATmEeJk/jCKFfgLhFE23wuYxplPzRVzBQmjjzN9SwWAesnKI62UQJHDjyXk2ZxKzAH+70IIuTVuswJtCerS6p8DCHAZXLCt4rgMmj78GOozUH0OP5HRxbVO3ITMpG03sHElRQMWyKqPV37upY53u7s4L+TGtUNsk3aUdFQJeKfqaHvuZ3/HNj/quygEd9zxFAeruhu1hw49w==;OtWAHqhB8LSmnjK0z5wwJA=="
 ---
 

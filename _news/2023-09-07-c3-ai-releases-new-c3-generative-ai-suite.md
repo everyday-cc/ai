@@ -19,6 +19,38 @@ topics:
   - AI
 
 related:
+  - title: "20 Effective Ways Small Businesses Can Leverage Generative AI"
+    excerpt: "From communications to customer service to coding, tech experts see a lot of ways that generative AI can boost a small business."
+    publishedDateTime: 2023-09-06T16:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/06/20-effective-ways-small-businesses-can-leverage-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/06/20-effective-ways-small-businesses-can-leverage-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/06/20-effective-ways-small-businesses-can-leverage-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64f89d669038c96f4a86eae0/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Intuit launches generative AI-powered digital assistant for small businesses and consumers"
+    excerpt: "AI-powered Tax Knowledge Engine to determine consumers’ specific tax situation and navigate the tax code. It will create a personalized tax checklist based on data a customer shares at the start of the tax preparation process to provide answers to their ..."
+    publishedDateTime: 2023-09-06T23:23:00Z
+    webUrl: "https://techcrunch.com/2023/09/06/intuit-assist-generative-ai-assistant/"
+    ampWebUrl: "https://techcrunch.com/2023/09/06/intuit-assist-generative-ai-assistant/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/06/intuit-assist-generative-ai-assistant/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 77
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/09/intuit-assist.jpg?w=1200"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "The Generative AI Boom Could Fuel a New International Arms Race"
     excerpt: "Two new studies of the potential of text- and image-generating algorithms suggest they could add scary new scale and power to online disinformation campaigns."
     publishedDateTime: 2023-09-07T09:00:00Z
@@ -33,24 +65,29 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "AVIA’s National Generative AI Collaborative Announces New Experts, Enhanced Health System Participation"
-    excerpt: "The Generative AI Strategic Collaborative reveals a slate of 10 clinical, ethics, technology, and regulatory experts for its national consortium"
-    publishedDateTime: 2023-09-07T16:04:00Z
-    webUrl: "https://www.newsobserver.com/press-releases/article279063044.html"
+  - title: "How Generative AI Will Rewrite DevOps Best Practices"
+    excerpt: "The full impact of GenAI on the DevOps processes of major enterprises is still in its infancy, but it will rewrite the best practices for software development."
+    publishedDateTime: 2023-09-08T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/08/how-generative-ai-will-rewrite-devops-best-practices/"
     type: article
     provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 3
-  - title: "AVIA’s National Generative AI Collaborative Announces New Experts, Enhanced Health System Participation"
-    excerpt: "The Generative AI Strategic Collaborative reveals a slate of 10 clinical, ethics, technology, and regulatory experts for its national consortium"
-    publishedDateTime: 2023-09-07T17:04:00Z
-    webUrl: "https://www.miamiherald.com/press-releases/article279063044.html"
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "C3 AI releases 28 domain-specific generative AI models"
+    excerpt: "The platform works on structured and unstructured textual data and can also orchestrate inferences from machine learning and deep learning models ... AWS and Microsoft Azure marketplaces."
+    publishedDateTime: 2023-09-06T20:32:00Z
+    webUrl: "https://siliconangle.com/2023/09/06/c3-ai-releases-28-domain-specific-generative-ai-models/"
     type: article
     provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 3
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/deepmind-LIlsk-UFVxk-unsplash.jpg"
+        width: 7111
+        height: 4000
+        isCached: true
 
 secured: "FN5+ltVWRP9vpdMzrzSIr+qOqQMdwDxWEnWW49Qdwlx7FrcFfm4mCjgJ5igkIv2KyfYLvZwbczp0CTiCirEOi2ilf2U1ctvxCfTAbm5PN3T5pf+FDuQIsi6dUcB4ZIKV8pFb2DHFZKEPR2Zv6fpzIIWusYKUXmy1rO9yE5oxExxKvx5nWQTIOGq9vkbHsS/9Pk/R8Kmwbz9Kc6qRbpTFaSqXkxfl7q1VdyKMjS6Ip5dwmtOwmdpzBf1T04OlqC7m6ae54KaXOW6mukSKEyKgO20fKyEQmPn1eY8b1sVmGZdQ1Bu2IX/+NfdzxD1zyMYFKyTyPnI0AUsjyU7BQxR4Nclg6RY12MygeuJidzv+n/s=;xL9TpRfhDEEYDekE9061lQ=="
 ---

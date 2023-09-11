@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/facebook-trains-ai-your-data-opt-out/"
 webUrl: "https://www.wired.com/story/facebook-trains-ai-your-data-opt-out/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://static01.nyt.com/images/2023/09/10/business/10Face-glasses-promo-sub/10Face-glasses-promo-sub-facebookJumbo.png"
         width: 900
         height: 471
+        isCached: true
+  - title: "Facebook parent Meta developing new, more powerful AI system: WSJ"
+    excerpt: "The new AI system is intended to be as powerful as the most advanced model offered by OpenAI, WSJ said. Read more at straitstimes.com."
+    publishedDateTime: 2023-09-11T00:08:00Z
+    webUrl: "https://www.straitstimes.com/business/companies-markets/facebook-parent-meta-developing-new-more-powerful-ai-system-wsj"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 39
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/09/11/2023-07-27T104423Z1220490630RC2LB2AJOXAQRTRMADP3META-PLATFORMS-STOCKS.JPG"
+        width: 860
+        height: 573
         isCached: true
 
 secured: "OOFnQW3uvasV69IV+OkHu0YRptjKfW+39yhjZXPItd0LZSWiP8hnTNBxl020zLMo16aVFzZ+nUM7vmHCZDk1Z45XQEkoMfnQabBirupBfVZiZ8LvOekDrywTPLFPbb+egehJIU49Kh+IhC+mT/wALFaE+PWxOn8ECTo8z7GRLA7sxgKbL9kf4PLftioBFqkbuJ9XT4+9QKYXJW8akQY+RVGQZLfvBUkg0SCUY9jnTd9pRnXO+oWhhon1vxLei4nc49m8hmk9AE0FBuyx2H2cKlARGos0pfMbSzeZlNmzf6xZLw3+oV42mMsGKWYxfJos8reC5vMWDqRSydwZ5F3EAe/J++FqMqvhUXZENzS/FveyrK2OfOrnkGlsUcBDQaiePe7VW3kltw3is09ufDC9WlWO0CALnPGIJs41T9qrKJBjD0SYzojdtmt027l7E6YG91O+NqZ9fg9ukxtMia6qQrH9SIPoKasnKrxd95mNr8NZdF7todd5gDf9AT6URWL1ieTx6EBamaWzc8D/FYi4Mw==;YvrkBs4vg7ybuDd0oMuOdQ=="

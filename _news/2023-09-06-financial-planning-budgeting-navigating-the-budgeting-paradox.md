@@ -7,8 +7,8 @@ originalUrl: "https://www.ibm.com/blog/financial-planning-budgeting-navigating-t
 webUrl: "https://www.ibm.com/blog/financial-planning-budgeting-navigating-the-budgeting-paradox/"
 type: article
 quality: 82
-heat: -1
-published: false
+heat: 102
+published: true
 
 provider:
   name: IBM
@@ -22,65 +22,38 @@ topics:
   - IBM AI
 
 related:
-  - title: "Data is essential: Building an effective generative AI marketing strategy"
-    excerpt: "Generative AI for text, visuals and video have the potential to create a more personalized and engaging experience.\nThe post Data is essential: Building an effective generative AI marketing strategy appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-09-06T09:00:00Z
-    webUrl: "https://www.ibm.com/blog/data-is-essential-building-an-effective-generative-ai-marketing-strategy/"
+  - title: "Machine learning can level the playing field against match fixing—helping regulators spot cheating"
+    excerpt: "On the eve of the Rugby World Cup kicking off, there have already been whispers of teams spying on each other. Inevitable gamesmanship, perhaps, but there's no doubt cheating in sport is a problem authorities struggle to combat."
+    publishedDateTime: 2023-09-08T16:16:00Z
+    webUrl: "https://techxplore.com/news/2023-09-machine-playing-field-fixinghelping.html"
+    ampWebUrl: "https://techxplore.com/news/2023-09-machine-playing-field-fixinghelping.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-machine-playing-field-fixinghelping.amp"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 115
-  - title: "AI in marketing: How to leverage this powerful new technology for your next campaign"
-    excerpt: "Today’s most effective AI marketing solutions utilize AI and ML technologies to enhance customer experiences and deliver meaningful insights.\nThe post AI in marketing: How to leverage this powerful new technology for your next campaign appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-09-06T14:25:25Z
-    webUrl: "https://www.ibm.com/blog/ai-in-marketing/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 109
-  - title: "Artificial Intelligence Is Taking Over Marketing"
-    excerpt: "AI has made great strides within the marketing department, with a large percentage of companies using it today. Learn the AI tools out there that can help you improve."
-    publishedDateTime: 2023-09-06T13:51:00Z
-    webUrl: "https://www.forbes.com/sites/georgedeeb/2023/09/06/artificial-intelligence-is-taking-over-marketing/"
-    ampWebUrl: "https://www.forbes.com/sites/georgedeeb/2023/09/06/artificial-intelligence-is-taking-over-marketing/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/georgedeeb/2023/09/06/artificial-intelligence-is-taking-over-marketing/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: techxplore
+      domain: techxplore.com
+    quality: 60
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64f881680386820459f9e2c7/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 642
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/rugby.jpg"
+        width: 2880
+        height: 1920
         isCached: true
-  - title: "20 Effective Ways Small Businesses Can Leverage Generative AI"
-    excerpt: "From communications to customer service to coding, tech experts see a lot of ways that generative AI can boost a small business."
-    publishedDateTime: 2023-09-06T16:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/06/20-effective-ways-small-businesses-can-leverage-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/06/20-effective-ways-small-businesses-can-leverage-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/06/20-effective-ways-small-businesses-can-leverage-generative-ai/amp/"
+  - title: "Machine learning can level the playing field against match fixing – helping regulators spot cheating"
+    excerpt: "Read more about Machine learning can level the playing field against match fixing – helping regulators spot cheating on Devdiscourse"
+    publishedDateTime: 2023-09-10T05:11:00Z
+    webUrl: "https://www.devdiscourse.com/article/sports-games/2587869-machine-learning-can-level-the-playing-field-against-match-fixing---helping-regulators-spot-cheating"
+    ampWebUrl: "https://www.devdiscourse.com/article/sports-games/2587869-machine-learning-can-level-the-playing-field-against-match-fixing---helping-regulators-spot-cheating?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/sports-games/2587869-machine-learning-can-level-the-playing-field-against-match-fixing---helping-regulators-spot-cheating?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 59
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64f89d669038c96f4a86eae0/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/15_10_2019_12_39_45_6163034.jpg?width=1280"
+        width: 1280
+        height: 853
         isCached: true
-  - title: "Potential Supreme Court clash looms over copyright issues in generative AI training data"
-    excerpt: "A case related to the data that trained generative AI could “absolutely” be taken up by the Supreme Court, say experts. How did we get here?"
-    publishedDateTime: 2023-09-06T12:00:00Z
-    webUrl: "https://venturebeat.com/ai/potential-supreme-court-clash-looms-over-copyright-issues-in-generative-ai-training-data/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 42
 
 secured: "MfPBc/eNpqLjVt8CuFBd0Sc9m8UJcYImsYdK7lWb3C0x4niYxv7tEoTkQw2pFes8QH+j3/Fvpdm3fk13u0JZEQb94ks1/ocTui+wwJLYPhxIsKKIGxkXAbcBsm0p4Xs4oqMRcypJ4PF3VXQcI9z+Oxjdlb88G9qvbC7EHWU1SaXwln0NoBbn4c8FXdZSzWWctIUGeyCaNi0yFb7avDwweobclc0tYglknHCoebk1jWbnDXkaxTcxmsag8oGTcdkaOSyhuPjErAZEv+cCORiYa5EQymvXGpN0zT2mULCAgCFvSt5i1gNpFWmzqB0bGeb4qDdB80DkUgGYxfahriTo7eA6jpOncyQWK2kaeAJyyA8=;q9fEgSMLx+Z8L/D30Neaaw=="
 ---

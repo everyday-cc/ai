@@ -105,7 +105,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 64
+    quality: 66
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2023/08/annevb_quantum_sensors_and_robotics._Colorful_futuristic_tech_81265ed8-1888-44a7-b3de-91845c435505.png?w=1200&strip=all"
         width: 1200

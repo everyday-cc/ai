@@ -57,20 +57,6 @@ related:
         width: 1019
         height: 573
         isCached: true
-  - title: "How Generative AI Helps This $3.5 Billion Startup Grow Faster"
-    excerpt: "Launched in 2016 by former Tesla Chief Information Officer Jay Vijayan, Tekion employs roughly 3,000 people and has raised $451 million in venture capital - valuing the company at $3.5 billion the last time it raised capital in September 2021, according to Pitchbook."
-    publishedDateTime: 2023-09-06T07:31:00Z
-    webUrl: "https://www.inc.com/peter-cohan/how-generative-ai-helps-this-35-billion-startup-grow-faster.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1546442104_533537_djkh3r.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "fGUvORMUgD7RBpra9JziGmT8DIZKIG/6bRrNVZgTVn0x4OrWkZdZ/8HjoikXWCaO2Feoxbl9laTDNBZoiyNYzs3FePzZ0DVxvY2dfM1WpoDKUY+1eyYBy56ZMyezltBWl+bVWZSswimXlub413qRdatj9//l1PSPZSESw2joSlw96h7fqlTIIP0jkZ+QzmmMqRu/AtvI/AjtWKLoT1MaSFXphn+vbggxkV418QZs6aqsM61YQyTjaLwCrI0qO4Jna0R1+HJwsaTJfhSLYsAKvuGdnfjOpMs05ligllTGfdFfvKbN0pVpLl536VF6dhd7Hb2qK0SS0MCuIvey3NfZ8UWFQOulqBbfSidshH/4HfIuYM1jpALuTF11a4FzJ4NQr6K+v7cxjO0prLUF0tavvu8KvFBk0WvpUNQEGjCw3KFAOA6u5feSIRp+vKEbGk4JPy0hIc2JxUYqoxMdEACuozO5XR74vhLBQFaVPLuTIZMU/k3m2REPQti8GxwMu4pJTAUhwt+N1XlU4Ev6CjpfSQ==;f1+rVvhFXqNrsW3l7zRS0Q=="
 ---

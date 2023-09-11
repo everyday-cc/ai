@@ -1,28 +1,27 @@
 ---
 category: news
 title: "Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water"
-excerpt: "As they race to capitalize on a craze for generative AI, leading tech developers including Microsoft, OpenAI and Google have acknowledged that growing demand for their AI tools carries hefty costs, from expensive semiconductors to an increase in water"
-publishedDateTime: 2023-09-09T21:02:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/artificial-intelligence-technology-chatgpt-built-iowa-lot-water-103052515"
-webUrl: "https://abcnews.go.com/Technology/wireStory/artificial-intelligence-technology-chatgpt-built-iowa-lot-water-103052515"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/artificial-intelligence-technology-chatgpt-built-iowa-lot-water-103052515"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/artificial-intelligence-technology-chatgpt-built-iowa-lot-water-103052515"
+excerpt: "As they race to capitalize on a craze for generative AI, leading tech developers including Microsoft, OpenAI and Google have acknowledged that growing demand for their AI tools carries hefty"
+publishedDateTime: 2023-09-09T20:39:00Z
+originalUrl: "https://tulsaworld.com/ap/business/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water/article_3379d8ad-289b-59cd-af57-adfc57af0969.html"
+webUrl: "https://tulsaworld.com/ap/business/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water/article_3379d8ad-289b-59cd-af57-adfc57af0969.html"
 type: article
-quality: 48
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Tulsa World
+  domain: tulsaworld.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
+  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/6/5e/65eddd27-5f7e-51af-a65c-5d8ff9c1f88d/64fc7131358f7.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -85,6 +84,22 @@ related:
       - url: "https://www.reuters.com/resizer/hPSaTdJloz96JSAnU_-5WtLtvO4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/26KSAZHUEFJF7G4AECYWU3UVAI.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Anduril founder Palmer Luckey says the ChatGPT buzz is making politicians more interested in AI-powered weapons"
+    excerpt: "Palmer Luckey told Breaking Defense that the AI hype cycle has helped those on Capitol Hill and the Pentagon have a \"come-to-Jesus moment\" with AI."
+    publishedDateTime: 2023-09-09T15:41:00Z
+    webUrl: "https://www.businessinsider.com/anduril-founder-palmer-luckey-chatgpt-buzz-good-business-weapons-ai-2023-9"
+    ampWebUrl: "https://www.businessinsider.com/anduril-founder-palmer-luckey-chatgpt-buzz-good-business-weapons-ai-2023-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/anduril-founder-palmer-luckey-chatgpt-buzz-good-business-weapons-ai-2023-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://i.insider.com/64fb856f3d39230019774d64?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Why Meta Is Allowing Users to See the Inner Workings of Its AI Chatbot"
     excerpt: "Meta’s more open approach with Llama 2 contrasts with that of the company OpenAI, which created the AI chatbot ChatGPT."
@@ -316,6 +331,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 28
+  - title: "Meta Platforms reportedly building open-source generative AI system to rival OpenAI’s ChatGPT"
+    excerpt: "Facebook and Instagram parent Meta Platforms Inc. is looking to rival OpenAI LP in the generative artificial intelligence landscape with an alternative, but open-source model that’s likely to be as powerful as GPT-4."
+    publishedDateTime: 2023-09-11T00:20:00Z
+    webUrl: "https://siliconangle.com/2023/09/10/meta-platforms-reportedly-building-open-source-generative-ai-system-rival-openais-chatgpt/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 28
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/41118893354_edd6aac12d_k-AnthonyQuintano-Flickr-768x525.jpg"
+        width: 768
+        height: 525
+        isCached: true
   - title: "Beyond ChatGPT: How big tech is changing lives (and fortunes)"
     excerpt: "Beyond machine learning, Ogden still believes neurology, neurobiology and neurodegeneration is a big theme. It's a difficult space with longer lead times. \" [But] we now have an antibody commercially available for Alzheimer's disease, for instance. We look more at biomarkers to improve patient screening."
     publishedDateTime: 2023-09-07T01:24:00Z
@@ -358,6 +387,6 @@ related:
       domain: scientificamerican.com
     quality: 4
 
-secured: "r/LuYdSiOH34F4w+SOF6m+Sz7jiiQ9qzs+tcLP7E/8EAo0ai4GAnO2Bn3JjmJLMPMjiJZAqLnOo+lJOHoTelM5rCbXTUsAWlmbP810hNIho0Wj+WDN80LxrTQEUa0qw20fy7UrqOKzA13ndDHBfyU+SzEy2MSGJlt3PuB/Ac+tbu5IZbWOMIyepagFuN1/NNL5SyLvLM7xf29Mu007AKZAu/n0gQAADgIG8Rx+oU1r8K+rfGjyHAflWCn5QpvowI38KkticnEPr6ps/q8FTSD8d5fFwQJZGQWc/NtjrtQSDtDl3lxWshWY8uRgLukI5jmEHLH4xNbg1Q+0C/PXFVMUmddCOiYBPFkx9aQW+HZ50=;g1LMUaW8qFcHg6/xtqoE5Q=="
+secured: "KWquREPTlJSuZhr/cZjLe0m7LkksmXtWVAeBnCPoEII6mrNLkSfdxK/sfnOIa04qSa+TVg5s1GyRjvgaYNNnAy3sGb0lK2diEvkGqKqSYXPZAU6EadqNsTwsDPuH4pySpoeSJZ138aJ6fYkjpeESGOda7kBj5v1QbmB/SHQHG+O2yozk9cw+j+jZ6rpSypAbmAleHUgAFp5ORLtKuSgPEKc9Eb7O5s0ptrrYk5q0uW4Cnda58fK5VHla470BZv52Fgm55BAtvhQdwNFCKvWrtq0Zb4YaHzopBD39sScsE1dWJM24HtaTITIoYEI1hcEk7CTSZvf9CrXUqSaDq6jdV7W3o0afSVr6vMct3+yhIsY=;oBYuRptj/iTeUL9o29b+AQ=="
 ---
 

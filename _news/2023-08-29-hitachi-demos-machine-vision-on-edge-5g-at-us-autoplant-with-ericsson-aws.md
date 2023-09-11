@@ -19,6 +19,12 @@ topics:
   - AI
   - AWS AI
 
+images:
+  - url: "https://www.rcrwireless.com/wp-content/uploads/2023/08/82a75b2ce2135622_org-scaled.jpg"
+    width: 2560
+    height: 1440
+    isCached: true
+
 related:
   - title: "AWS and Ericsson build 5G machine vision system for Hitachi car factory"
     excerpt: "artificial intelligence (AI), Edge-to-cloud technologies, and private 5G. The system used Ericsson's Private 5G offering, which provides connectivity through a single server dual mode core, and the AWS Snowball Edge device. The Snow Family offerings are ..."
@@ -95,6 +101,6 @@ related:
       domain: voicendata.com
     quality: 16
 
-secured: "/yGer+23ojazycvdh+xCDUxl1lDpm6zmdamRzEDmsdILriJizTfavqUWCyDmC+pwHCG9+aRBn1ODGydEyI6c3rLFexjIzVEd/FMZCV/MATI2k603ixzhiHfqrtc6MFwtIaFXCVfMAprfNcdvY45jDf+e5aBkgdnUu2nLE/WBzpRI7QQSMkQfm0ZoySFs2jNKrXnGjLgKsY1Xasm8xrQb7OIidsN6/W5stJ0aDlcJT5cpZ9tR32tL13pyFOTrd8w+uCVR7EFNhLuqrOhN7ZJwTcSgVsm7sZrD0FCIW5/8k/Tma63KA7oViPzaS0RnX309FLAv3pYAOF1nUId1ERD4AjCPlrW3RaHRLmmKyWKjink=;+fiHJrcsxUrhQ5BC5h6CIA=="
+secured: "MwVGZxAsoscc6X+MWOI32crtlOedgXTDmfUrX9/LUeFeCaX4s7kBgyXv+SxRd5RGiOeW6G2Bji3hVizhDOngwFKwyZsVSjy8MhxKgnc0A13K2mIPdJsLU/DCQK/WfJov3ss7TOMaGrmFl/WlkI1dK1mwf9jTuoxV5k6Vc5mDw0cq/CMZxgx3qNAwreYPJUHqxiLYV39zhnfs0JU1rZiO/yt2K+bO8jbr4/R7CQEex+sUboJV7FXD0km0rIUWl/4FWmjrxEy8twQk10NVBjlvUEqHDj2d4+Jav2L+W2sqecn9Wj+Kz/KPc6fLsCr6GqvKxjRDjAC54hDuUnSE/CH9P330/L7Lliqv+DGi0M+6AhM=;OdMuF+8T9yi2fo5ibT+PKQ=="
 ---
 

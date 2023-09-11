@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2023-09-machine-playing-field-fixinghelp
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-machine-playing-field-fixinghelping.amp"
 type: article
 quality: 60
-heat: 80
-published: true
+heat: -1
+published: false
 
 provider:
   name: techxplore
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Financial planning & budgeting: Navigating the Budgeting Paradox"
+    excerpt: "Financial planning and budgeting are changing. Learn more about the technology helping businesses to navigate these unpredictable waters.\nThe post Financial planning &#038; budgeting: Navigating the Budgeting Paradox appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-09-06T14:00:00Z
+    webUrl: "https://www.ibm.com/blog/financial-planning-budgeting-navigating-the-budgeting-paradox/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 82
   - title: "Machine learning can level the playing field against match fixing – helping regulators spot cheating"
     excerpt: "Read more about Machine learning can level the playing field against match fixing – helping regulators spot cheating on Devdiscourse"
     publishedDateTime: 2023-09-10T05:11:00Z
@@ -42,20 +51,6 @@ related:
       - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/15_10_2019_12_39_45_6163034.jpg?width=1280"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Machine learning can level the playing field against match fixing – helping regulators spot cheating"
-    excerpt: "A new machine learning model can pinpoint anomalies in sports results – whether from match fixing, strategic losses or poor player performance. It could be a useful tool in the fight against cheating."
-    publishedDateTime: 2023-09-08T02:44:00Z
-    webUrl: "https://theconversation.com/machine-learning-can-level-the-playing-field-against-match-fixing-helping-regulators-spot-cheating-209392"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 39
-    images:
-      - url: "https://images.theconversation.com/files/547104/original/file-20230908-19-gz8i1l.jpg?ixlib=rb-1.1.0&rect=51%2C878%2C5700%2C2850&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
         isCached: true
 
 secured: "Awekdaib+xEUrSgK1fkWCVyZFXiFLCQUaSZNaJ+7S0a/OjyBixUd1uupLtHlJ1j9cZlqx6dQwxqEEwxuVkc14pcLMFcNgzdeH/UMK2NRA+3hRFoqyCG7adPacnbEwJmFsl6nRQfhldEIC7dJZfFMVNXHNefi/b/VDUbLVSFIJa0/8sip+3sHmg07I4GNtR6iKKdpW5GOYq/WHsrQKFs6PTOuloRPNE6MD1uX+n9JduBda+HWAKX3emznLJQ1DQApBhV9XFisqz9E2KbKX1m6+uE8NAkZtO+/B11kAUc8JyYwhh4Nhg4x2GlgM/xZ8yEb6uW3MyTBiynD04fUdfz8OMKq76YkQIYyZ5fMKeE48E9UcFYeQrd7TVBma5SMnzqynhqY2Eprg72/OcOJ/ngiOWJknzZWYEVippWLCReyU26xskXM/Ky6nJyuzgJESOi3mEB7zLzJ3zYIH6YdiyJB9KeidRrqEU6PUrxPEDd2ZdvUUVe3Tm5VBwkGuHDO1OAq0TD9xQWTwecpgVDi214UMA==;DiB1L1ZRg3FKpcUNjgcO4Q=="

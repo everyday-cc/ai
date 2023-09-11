@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/potential-supreme-court-clash-looms-ove
 webUrl: "https://venturebeat.com/ai/potential-supreme-court-clash-looms-over-copyright-issues-in-generative-ai-training-data/"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -22,67 +22,6 @@ topics:
   - Facebook AI
   - AI
   - Natural Language Processing
-
-related:
-  - title: "Data is essential: Building an effective generative AI marketing strategy"
-    excerpt: "Generative AI for text, visuals and video have the potential to create a more personalized and engaging experience.\nThe post Data is essential: Building an effective generative AI marketing strategy appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-09-06T09:00:00Z
-    webUrl: "https://www.ibm.com/blog/data-is-essential-building-an-effective-generative-ai-marketing-strategy/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 115
-  - title: "AI in marketing: How to leverage this powerful new technology for your next campaign"
-    excerpt: "Today’s most effective AI marketing solutions utilize AI and ML technologies to enhance customer experiences and deliver meaningful insights.\nThe post AI in marketing: How to leverage this powerful new technology for your next campaign appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-09-06T14:25:25Z
-    webUrl: "https://www.ibm.com/blog/ai-in-marketing/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 109
-  - title: "Artificial Intelligence Is Taking Over Marketing"
-    excerpt: "AI has made great strides within the marketing department, with a large percentage of companies using it today. Learn the AI tools out there that can help you improve."
-    publishedDateTime: 2023-09-06T13:51:00Z
-    webUrl: "https://www.forbes.com/sites/georgedeeb/2023/09/06/artificial-intelligence-is-taking-over-marketing/"
-    ampWebUrl: "https://www.forbes.com/sites/georgedeeb/2023/09/06/artificial-intelligence-is-taking-over-marketing/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/georgedeeb/2023/09/06/artificial-intelligence-is-taking-over-marketing/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64f881680386820459f9e2c7/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 642
-        isCached: true
-  - title: "20 Effective Ways Small Businesses Can Leverage Generative AI"
-    excerpt: "From communications to customer service to coding, tech experts see a lot of ways that generative AI can boost a small business."
-    publishedDateTime: 2023-09-06T16:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/06/20-effective-ways-small-businesses-can-leverage-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/06/20-effective-ways-small-businesses-can-leverage-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/06/20-effective-ways-small-businesses-can-leverage-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64f89d669038c96f4a86eae0/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Financial planning & budgeting: Navigating the Budgeting Paradox"
-    excerpt: "Financial planning and budgeting are changing. Learn more about the technology helping businesses to navigate these unpredictable waters.\nThe post Financial planning &#038; budgeting: Navigating the Budgeting Paradox appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-09-06T14:00:00Z
-    webUrl: "https://www.ibm.com/blog/financial-planning-budgeting-navigating-the-budgeting-paradox/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 82
 
 secured: "QrhoAnwkwCDp8UR31BHo8nHTHF/eNxKb9Mti0SamJRy72vTQkzMeU2gMtIdlF19IKwQbruf1imBlvRMSZN5oko13v5ObAgB1cXuT8stOR+PY0KsQZNqHBP0cTZ04DNNAYc1txmQsj8GniKNy0Z8YKqB67/hFTTZQrYrKBB7g4p+Uv9OQUAY4vG4gRhj/Bp2hEZ5aYv/L6IhlCVFfoNiafFXW4Kph8D+wwxy0PMHc5J9hfXkT4AQ2SK1d+SZmNhtHy1AtnzqUlH/8nb9s7CjMjQWomJI2ZJoXTJFANtxUjBvn75BI00DFTEgTBPC+6p1xalZLwsUcp++DeZ/dq4EbW2AK585Ugra02Tem2SyPDsnILz87euXHWPSM8Y4Adu2aeH4u1E8eP8RK1nn/qWpUInWYCGpJxd3O2K6hQxuR6NIJQe+xejPEEfClOGp7kyPBXz6P7UtUvwWEE3NW3alXjClq700Q/lTtuxM1XqJ5TkfAWUos34iCoE5vAr8gytC+PQngfi9wZv3Ccm7DcQQKlQ==;DRXp5bn8d6WiW85fKpDbfA=="
 ---

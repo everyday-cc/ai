@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/meta-is-developing-new-more-pow
 webUrl: "https://www.reuters.com/technology/meta-is-developing-new-more-powerful-ai-system-wsj-2023-09-10/"
 type: article
 quality: 67
-heat: 87
+heat: 88
 published: true
 
 provider:

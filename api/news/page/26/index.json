@@ -2,6 +2,40 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2023-08-22-melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study.md",
+      "title": "Melatonin and its derivatives improve long-term memory for object recognition: Study",
+      "excerpt": "Talking about the studys results, Prof. Chiba concluded, Our findings suggest that melatonin is involved in promoting the formation of long-term object recognition memory by modulating the phosphorylation levels of memory-related proteins such as ERK, CaMKIIs, and CREB in both receptor-mediated and nonreceptor-mediated signalling pathways.",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/Articles/Health/20230822/4110943.html",
+      "originalUrl": "https://news.webindia123.com/news/Articles/Health/20230822/4110943.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-21T23:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-22-cipia-uses-computer-vision-ai-to-empower-driver-monitoring-technology.md",
       "title": "Cipia uses computer vision AI to empower driver-monitoring technology",
       "excerpt": "Israel-based Cipia develops driver-monitoring systems enabled by computer vision AI. The company has gained a presence in China, poised to scale up in the US and Europe. Cipia, formerly Eyesight Technologies, concentrated on using computer vision ...",
@@ -1099,58 +1133,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-21-the-voice-actor-behind-nintendos-mario-is-retiring.md",
-      "title": "The voice actor behind Nintendo’s Mario is retiring",
-      "excerpt": "Charles Martinet, who has been the voice of Mario in every Nintendo game since 1991 ... ‘Yippee!,’ ‘Whee!’ and I get recognition for that. Subscribe to Well Adjusted, our newsletter full of simple strategies to work smarter and live better ...",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/2023/08/21/mario-voice-actor-nintendo-retires-charles-martinet/",
-      "originalUrl": "https://fortune.com/2023/08/21/mario-voice-actor-nintendo-retires-charles-martinet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.fortune.com/wp-content/uploads/2023/08/Switch_SMO_ND0913_SCRN07.bmp?w=840",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/2023/08/21/mario-voice-actor-nintendo-retires-charles-martinet/amp/",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/08/21/mario-voice-actor-nintendo-retires-charles-martinet/amp/",
-      "publishedDateTime": "2023-08-21T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

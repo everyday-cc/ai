@@ -2,6 +2,58 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2023-08-15-the-marketmaster-ai-system-using-machine-learning-to-pick-stocks.md",
+      "title": "The MarketMaster AI System: Using Machine Learning to Pick Stocks",
+      "excerpt": "Fortunately, advances in artificial intelligence now make this possible. This is especially true with machine learning, which creates models that improve with time. It’s how Google’s AlphaGo managed to beat a world champion in 2016. And it’s why ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/the-marketmaster-ai-system-using-machine-learning-to-pick-stocks-1032552884",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-marketmaster-ai-system-using-machine-learning-to-pick-stocks-1032552884",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2023/07/marketmaster-a-vs-f-stocks-bar-chart2.png",
+          "width": 777,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-14T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-15-twin-cities-selected-as-host-site-for-a-2nd-time-for-artificial-intelligence-bootcamp-applications-closing-soon.md",
       "title": "Twin Cities Selected as Host Site for a 2nd Time for Artificial Intelligence Bootcamp - APPLICATIONS CLOSING SOON!",
       "excerpt": "TWIN CITIES, Minn., Aug. 14, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Strategic Education, Inc. in the Twin Cities. Applications for the no-cost bootcamp are closing soon!",
@@ -1068,59 +1120,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-upgrading-healthcare-security-strategies-to-combat-ai-based-threats.md",
-      "title": "Upgrading Healthcare Security Strategies To Combat AI-Based Threats",
-      "excerpt": "• Use AI to combat AI: The bright side of artificial intelligence is it can deliver as many effective capabilities to cybersecurity solutions as it does to criminals. Software should leverage sophisticated AI-based tools, including optical character recognition and algorithms that recognize “red flag” keywords that could indicate a breach.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/14/upgrading-healthcare-security-strategies-to-combat-ai-based-threats/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/14/upgrading-healthcare-security-strategies-to-combat-ai-based-threats/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/820808708/0x0.jpg?format=jpg&crop=4765,3178,x0,y314,safe&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/14/upgrading-healthcare-security-strategies-to-combat-ai-based-threats/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/14/upgrading-healthcare-security-strategies-to-combat-ai-based-threats/amp/",
-      "publishedDateTime": "2023-08-14T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

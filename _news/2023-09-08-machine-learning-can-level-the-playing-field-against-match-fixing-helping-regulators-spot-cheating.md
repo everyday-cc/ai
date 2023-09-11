@@ -7,7 +7,7 @@ originalUrl: "https://theconversation.com/machine-learning-can-level-the-playing
 webUrl: "https://theconversation.com/machine-learning-can-level-the-playing-field-against-match-fixing-helping-regulators-spot-cheating-209392"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,40 +23,6 @@ images:
     width: 1356
     height: 668
     isCached: true
-
-related:
-  - title: "Machine learning can level the playing field against match fixing—helping regulators spot cheating"
-    excerpt: "On the eve of the Rugby World Cup kicking off, there have already been whispers of teams spying on each other. Inevitable gamesmanship, perhaps, but there's no doubt cheating in sport is a problem authorities struggle to combat."
-    publishedDateTime: 2023-09-08T16:16:00Z
-    webUrl: "https://techxplore.com/news/2023-09-machine-playing-field-fixinghelping.html"
-    ampWebUrl: "https://techxplore.com/news/2023-09-machine-playing-field-fixinghelping.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-machine-playing-field-fixinghelping.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 60
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/rugby.jpg"
-        width: 2880
-        height: 1920
-        isCached: true
-  - title: "Machine learning can level the playing field against match fixing – helping regulators spot cheating"
-    excerpt: "Read more about Machine learning can level the playing field against match fixing – helping regulators spot cheating on Devdiscourse"
-    publishedDateTime: 2023-09-10T05:11:00Z
-    webUrl: "https://www.devdiscourse.com/article/sports-games/2587869-machine-learning-can-level-the-playing-field-against-match-fixing---helping-regulators-spot-cheating"
-    ampWebUrl: "https://www.devdiscourse.com/article/sports-games/2587869-machine-learning-can-level-the-playing-field-against-match-fixing---helping-regulators-spot-cheating?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/sports-games/2587869-machine-learning-can-level-the-playing-field-against-match-fixing---helping-regulators-spot-cheating?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 59
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/15_10_2019_12_39_45_6163034.jpg?width=1280"
-        width: 1280
-        height: 853
-        isCached: true
 
 secured: "Ymd8t++TXaB/4Ij4gmAjahJ1CfI27Cc0OY9L+uxkqorpeR8tTWdtxTukEUS+pw4/aodXKSZ9OWiqJjAuh8lh3oxoYSVXxOZp1KatWKJiczP79BC1huFZmhKy6wTWoBXrGNq+RksRGFBtijD+86JBEr3Lpwe0U6m5iQ7g2xfC+Y8ZAfo24sPPQwhEbasucakmdZzz8psxJwM4yTlEQ2xiQJZA0v9m4NE5gSN/3LFnn6A7dr6b+mDu90HfP3w/TviM/v7okeTrrU5lT+CTHidEjHq+r8dW5t+A3tT0mO6J+mVkjC0t/i2Wk1H4MYbdOw2tCDg9bjTHHE2c2LjarNJ1V3h6Q3n89bjI/nh+rQ+NA6LxRTRaBn2WcgDBDllpXIq43x6iFit7SJXgR4UtpvaKp4CFj11XZgtIFROH37exnOt6KEF2Cv0Me/HWpEs5e1xAlCOHCCD0OOGu0Ri2jbI9uTGGaFsWm2CPHwfLVpAeI05Oi3FJtv2G/2vl7Ty7piBLpsc6DeXQeWoaHtVyA17u7w==;e5frk24U6PUUwTgFNiWU/Q=="
 ---

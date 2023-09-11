@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/industry/the-next-phase-fo
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/industry/the-next-phase-for-us-is-ai-transformation/3238978/lite/"
 type: article
 quality: 59
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -60,6 +60,6 @@ related:
       domain: techround.co.uk
     quality: 14
 
-secured: "Hb3hK5KL20XzSWlRf6sH/Li6ROU7hQ/jHf6vFnng6Zx8ZbP+og6NlGsJhQiCl4VbzTyz1GHlx8AdU24WsAtiTVvQCTWT85aM7BWrxMajhkky7ylzIg41mpS1B/0E+T4oOYT3qcLePhJn/uqj6oA9iaBeUoJHxc2eSD/io6J2pP3BF+suT/81TxKK42g6wcQh6YtoyIRMw912D1y1rVPWwTGqO0hjvc//V9kFEpA5xmX76Rn4Xt4nYCT3vU8YaCcOHLfPYiIOXOXoSXWrv8K0GV8WBfAJwMUt2VUwVmOqvDzTHd7HKLpo2YFqiyyxl6fGj8C9MQ3xQbsuIvuMVYTHJdSwUduNxQolJ+Lbn16/aco=;cxSU4/Sf8k3CV0IGkakepA=="
+secured: "7qRqipxZYOOJE3VvVeEE7y3jhKSFEx1ZbgTWoSdW6lYCkfxBvvbeHvuxTfQgm5KkuxubytolY0rri+AiR9DyVEztxUniyc59FRz793wj+OdVrcDg5gPYNUn4NJrrRdfwMEI4eWXuFKeMnmAbOo/N+yJGgmnOl8zYAbPkeygCCHr7b8FXif7AWB4B4Uc4sne54+uBj24wMwKzz0AN81si343vZASuoyDa0TMFiiI82oknYPn4xCGtkweBsLKe/y4c+bIff9o6Fek61VQDRuOedJmoSB36Wa2PD2c4KHWgU+nCihWCvCeyEABr3duZeePyCZ8gPq5wj2PfNt4dQoBd/aBF0421WlWt0TVvvj0YC88JO+ACZe9QQgdt9Gd8iuy2bFnHISKnZ5gMM4mYpHizCEB3V/bkudWjCHydd/vn41kbVm7uAKvXYix7OSbrIM7UwA5oj0qMKu2iTR4WLk0PVGVVtH0C8wmYQB9v9PZf7UxcKRV95hZptbeBZDyH9VQXMQckuc/Axv8XSLkuqf8JxA==;NVfTDKw5tQQSzip4uNqlEg=="
 ---
 

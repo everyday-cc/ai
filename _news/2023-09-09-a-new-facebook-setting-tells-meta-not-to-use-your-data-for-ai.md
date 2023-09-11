@@ -57,6 +57,20 @@ related:
         width: 900
         height: 471
         isCached: true
+  - title: "Facebook parent Meta developing new, more powerful AI system: WSJ"
+    excerpt: "The new AI system is intended to be as powerful as the most advanced model offered by OpenAI, WSJ said. Read more at straitstimes.com."
+    publishedDateTime: 2023-09-11T00:08:00Z
+    webUrl: "https://www.straitstimes.com/business/companies-markets/facebook-parent-meta-developing-new-more-powerful-ai-system-wsj"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 39
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/09/11/2023-07-27T104423Z1220490630RC2LB2AJOXAQRTRMADP3META-PLATFORMS-STOCKS.JPG"
+        width: 860
+        height: 573
+        isCached: true
 
 secured: "i0fkd+0ndqf7fvFCbNNcL/N2i20wJM01Zf2MgWXEbR/RBmbJxymckNPp9ff2TaG74UUZm2CxaYbC8A0RZV20NmScR13UAsHU2d3z/fRAwBwcCnzxCE4Ph3xf+9kGG9hi64N8QmnLhOUDkSELNHrqOfgl3x6f/EsRy17SatznyXv2uKlkFLjz8JTNvQxHgDpflkhXLqjAXo4f1wyszJ/WR19z4BivZLq94ottEH72PH86iuki8YiZ3aUNssSQ9b7hTfn7ohF2ZQJ2mwRYMRQ2ouFyMKMVYHn2WcBcGFkhRDGpnMoIq7R/napK+hgog55e4Vx34IC1rnoST98HrnqjBcejtLoK969++z9EygnEx6o=;AOjxwh+j9tL1nPOiBPwSoA=="
 ---

@@ -2,21 +2,21 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2023-09-06-ai-took-my-job-literallygizmodo-fires-spanish-staff-amid-switch-to-ai-translator.md",
-      "title": "“AI took my job, literally”—Gizmodo fires Spanish staff amid switch to AI translator",
-      "excerpt": "It's easy to imagine even more embarrassing mistakes due to autonomous translation between languages. So far, we've seen in our AI coverage that automated publishing does not tend to go well ...",
+      "path": "_news/2023-09-06-20-effective-ways-small-businesses-can-leverage-generative-ai.md",
+      "title": "20 Effective Ways Small Businesses Can Leverage Generative AI",
+      "excerpt": "From communications to customer service to coding, tech experts see a lot of ways that generative AI can boost a small business.",
       "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/09/ai-took-my-job-literally-gizmodo-fires-spanish-staff-amid-switch-to-ai-translator/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/09/ai-took-my-job-literally-gizmodo-fires-spanish-staff-amid-switch-to-ai-translator/",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/06/20-effective-ways-small-businesses-can-leverage-generative-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/06/20-effective-ways-small-businesses-can-leverage-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 137,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot_translator_hero-800x450.jpg",
-          "width": 800,
-          "height": 450,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64f89d669038c96f4a86eae0/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/09/ai-took-my-job-literally-gizmodo-fires-spanish-staff-amid-switch-to-ai-translator/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/ai-took-my-job-literally-gizmodo-fires-spanish-staff-amid-switch-to-ai-translator/amp/",
-      "publishedDateTime": "2023-09-06T09:30:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/06/20-effective-ways-small-businesses-can-leverage-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/06/20-effective-ways-small-businesses-can-leverage-generative-ai/amp/",
+      "publishedDateTime": "2023-09-06T09:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,50 +49,7 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-tennis-football-and-ibm-watsonx.md",
-      "title": "Tennis, football, and IBM watsonx",
-      "excerpt": "The process of introducing new features to the US Open digital experience has never been smoother than it was this year, thanks to watsonx.\nThe post Tennis, football, and IBM watsonx appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/tennis-football-and-ibm-watsonx/",
-      "originalUrl": "https://www.ibm.com/blog/tennis-football-and-ibm-watsonx/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-06T09:24:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     },
     {
@@ -136,6 +93,50 @@
       "topics": [
         "Facebook AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-06-ai-in-marketing-how-to-leverage-this-powerful-new-technology-for-your-next-campaign.md",
+      "title": "AI in marketing: How to leverage this powerful new technology for your next campaign",
+      "excerpt": "Today’s most effective AI marketing solutions utilize AI and ML technologies to enhance customer experiences and deliver meaningful insights.\nThe post AI in marketing: How to leverage this powerful new technology for your next campaign appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ai-in-marketing/",
+      "originalUrl": "https://www.ibm.com/blog/ai-in-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-06T07:25:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Marketing"
       ]
     },
     {
@@ -188,6 +189,48 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-06-financial-planning-budgeting-navigating-the-budgeting-paradox.md",
+      "title": "Financial planning & budgeting: Navigating the Budgeting Paradox",
+      "excerpt": "Financial planning and budgeting are changing. Learn more about the technology helping businesses to navigate these unpredictable waters.\nThe post Financial planning &#038; budgeting: Navigating the Budgeting Paradox appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/financial-planning-budgeting-navigating-the-budgeting-paradox/",
+      "originalUrl": "https://www.ibm.com/blog/financial-planning-budgeting-navigating-the-budgeting-paradox/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-06T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
       ]
     },
     {
@@ -1112,49 +1155,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-with-ai-future-of-hearing-aids-might-include-language-translation.md",
-      "title": "With AI, future of hearing aids might include language translation",
-      "excerpt": "We hear a lot of headlines about concerns over artificial intelligence and what it might mean for the future. But it's not all bad: Consider hearing loss.Friendly AI could be",
-      "sourceUrl": null,
-      "webUrl": "https://www.wyomingnews.com/news/national/with-ai-future-of-hearing-aids-might-include-language-translation/video_a29c183a-5613-5e23-8999-104e6725abd1.html",
-      "originalUrl": "https://www.wyomingnews.com/news/national/with-ai-future-of-hearing-aids-might-include-language-translation/video_a29c183a-5613-5e23-8999-104e6725abd1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/a/29/a29c183a-5613-5e23-8999-104e6725abd1/64f77ead551b6.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-05T11:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wyoming News",
-        "domain": "wyomingnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

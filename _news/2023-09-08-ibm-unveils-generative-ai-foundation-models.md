@@ -56,6 +56,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Why self-regulation of AI is a smart business move"
+    excerpt: "Robust governance is the surest path to AI initiatives that build customer confidence, reduce risk and drive business innovation."
+    publishedDateTime: 2023-09-11T01:41:00Z
+    webUrl: "https://venturebeat.com/ai/why-self-regulation-of-ai-is-a-smart-business-move/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_technology_regulations_and_standards_for_businesses._co_92a54db8-4f4b-4ca9-ba50-acfcc2028868.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "How to Hire an Ideal Azure Cloud Engineer for your business?"
     excerpt: "The annual growth rates of Google Cloud Platform (GCP) and Azure Management Services (AMS) are almost twice as high as those of Amazon Web Services (AWS), according to CB Insight. Microsoft statistics show that 95% of Fortune 500 businesses rely on and utilize Azure Managed Services."
     publishedDateTime: 2023-09-08T11:15:00Z

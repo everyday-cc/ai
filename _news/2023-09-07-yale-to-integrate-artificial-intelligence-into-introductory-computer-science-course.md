@@ -23,6 +23,22 @@ images:
     height: 662
     isCached: true
 
+related:
+  - title: "U. community discusses integration of AI into academic, points to opportunities for innovation"
+    excerpt: "Provost Francis J. Doyle III identified the intersection of artificial intelligence and higher education as a University priority in an Aug. 31 letter to the community titled “Potential impact of AI on our academic mission."
+    publishedDateTime: 2023-09-11T01:01:00Z
+    webUrl: "https://www.browndailyherald.com/article/2023/09/u-community-discusses-integration-of-ai-into-academic-points-to-opportunities-for-innovation"
+    type: article
+    provider:
+      name: The Brown Daily Herald
+      domain: browndailyherald.com
+    quality: 27
+    images:
+      - url: "https://snworksceo.imgix.net/bdh/e5fe520b-9661-4b62-97b0-0aca8c65a60b.sized-1000x1000.jpg?w=800&dpr=2&ar=16%3A9&fit=crop&crop=faces"
+        width: 1600
+        height: 900
+        isCached: true
+
 secured: "iF/I0MPeZHWO9Yp05AnQsKdCStacINckSbchy54Jy0+85qfReT2kYI6tQUjNJhPnorj5SIilN/hGR2jwYHnM6uY2XAnXMXQHmr6ipLPl6rdrVCxOOG9FX3S6S5ZXYC1WMCRpEEhXmW7tC+mLITDWm0kGykH/IblMH6fOJXxkm3eQG8fkJBTI/0r2g+2ITxov45m/HVOvqIDC0NVuOomxI05eaF8vMQhNiS/xchIpNTJmmnge0yIeZkMlVKeqpoHcGnyCO26Y0MEJfIe1mKd013N5F8FIOv24ZcdyexN/zBCoBs1C1F2bJoF676i6OuNfnUOCvSaJ6+nNe56J6TrqH22Byx6XfOEyzVNTXkGA4klYwai2Dq5MMVEp6EEhmJexKE0Ni5pPlUUrAwBb9KatNcxEKW17N9fIOmya8dTO5VWLgPsSTIB8BjKTFLi+AQraJxMNNXaE0DcMfuuE625tmgr82Md4hX5nBbaWZJxwBl1Wr13vB2aJ9Fwwae9CCT0jsnJTXVCVO67vi/wTJLr8kQ==;bb6B4VVsoP6+GOMb0+LI8w=="
 ---
 

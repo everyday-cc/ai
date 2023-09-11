@@ -147,7 +147,7 @@
       "originalUrl": "https://www.ibm.com/blog/building-ai-for-business-ibms-granite-foundation-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 169,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -249,6 +249,92 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-09-06T09:24:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-06-ai-in-marketing-how-to-leverage-this-powerful-new-technology-for-your-next-campaign.md",
+      "title": "AI in marketing: How to leverage this powerful new technology for your next campaign",
+      "excerpt": "Today’s most effective AI marketing solutions utilize AI and ML technologies to enhance customer experiences and deliver meaningful insights.\nThe post AI in marketing: How to leverage this powerful new technology for your next campaign appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ai-in-marketing/",
+      "originalUrl": "https://www.ibm.com/blog/ai-in-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-06T07:25:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-09-06-financial-planning-budgeting-navigating-the-budgeting-paradox.md",
+      "title": "Financial planning & budgeting: Navigating the Budgeting Paradox",
+      "excerpt": "Financial planning and budgeting are changing. Learn more about the technology helping businesses to navigate these unpredictable waters.\nThe post Financial planning &#038; budgeting: Navigating the Budgeting Paradox appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/financial-planning-budgeting-navigating-the-budgeting-paradox/",
+      "originalUrl": "https://www.ibm.com/blog/financial-planning-budgeting-navigating-the-budgeting-paradox/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-06T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -1215,91 +1301,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-mdm-vs-mam-top-5-differences.md",
-      "title": "MDM vs. MAM: Top 5 differences",
-      "excerpt": "When using MAM software, the IT admins use containerization features and security policies. So, what sets MDM and MAM apart?\nThe post MDM vs. MAM: Top 5 differences appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/mdm-vs-mam-top-5-differences/",
-      "originalUrl": "https://www.ibm.com/blog/mdm-vs-mam-top-5-differences/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-24T03:40:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-aws-ec2-instance-types-challenges-and-best-practices-for-hosting-your-applications-in-aws.md",
-      "title": "AWS EC2 instance types: Challenges and best practices for hosting your applications in AWS",
-      "excerpt": "We will explore the challenges of selecting the best Amazon EC2 instance type and discuss the best practices for how to make the right decision.\nThe post AWS EC2 instance types: Challenges and best practices for hosting your applications in AWS appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/aws-ec2-instance-types-challenges-and-best-practices-for-hosting-your-applications-in-aws/",
-      "originalUrl": "https://www.ibm.com/blog/aws-ec2-instance-types-challenges-and-best-practices-for-hosting-your-applications-in-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-23T14:58:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AWS AI"
       ]
     }
   ],
