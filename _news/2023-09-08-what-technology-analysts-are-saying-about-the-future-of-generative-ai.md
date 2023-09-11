@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/what-analyst-are-saying-abo
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-analyst-are-saying-about-the-future-of-generative-ai/"
 type: article
 quality: 89
-heat: 179
+heat: 199
 published: true
 
 provider:
@@ -124,6 +124,29 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2023/09/GettyImages-1651323207.jpeg?w=3000"
         width: 3000
         height: 1687
+        isCached: true
+  - title: "AI, Liquid Cooling And The Data Center Of The Future"
+    excerpt: "Challenges exist to scaling AI, and among the most significant are those involving the data center infrastructure necessary for supporting these workloads."
+    publishedDateTime: 2023-09-11T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/ai-liquid-cooling-and-the-data-center-of-the-future/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "Scientists Are Beginning to Learn the Language of Bats and Bees Using AI"
+    excerpt: "They record sound 24-7 and create oodles of data, which is where artificial intelligence comes in. Researchers can apply natural language processing algorithms like the ones used by Google translate to detect patterns in these recordings and begin to ..."
+    publishedDateTime: 2023-09-11T14:00:00Z
+    webUrl: "https://www.scientificamerican.com/podcast/episode/scientists-are-beginning-to-learn-the-language-of-bats-and-bees-using-ai/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 38
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/DE4595F2-0F18-4036-A1784E999D4D9485.gif"
+        width: 790
+        height: 496
         isCached: true
   - title: "Unlocking creativity with AI in the future workforce"
     excerpt: "Generative AI is transforming digital content production, offering new tools that enhance the capabilities of creative professionals, as well as those not typically involved in creative roles. This fundamental shift will influence the future of work across all industries, according to software company Adobe."

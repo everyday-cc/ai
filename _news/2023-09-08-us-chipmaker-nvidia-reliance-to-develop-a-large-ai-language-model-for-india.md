@@ -120,6 +120,15 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 19
+  - title: "Nvidia's dominance in AI chips deters funding for startups"
+    excerpt: "Nvidia's supremacy in building computer chips for artificial intelligence has chilled venture funding for would-be rivals, investors said, with the number of U.S. deals this quarter falling 80% from a year ago."
+    publishedDateTime: 2023-09-11T13:05:00Z
+    webUrl: "https://www.aol.com/news/nvidias-dominance-ai-chips-deters-100502653.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 17
 
 secured: "8kweOqJ59q7IkoEv+2v6X0NLbYvEg0T8FisNQGOVoQoegxvjb/WB9pPoLhJSNSOx6whhFkHVx9bDwK1KKV9SotqNyheZDpH6XuRIuhtrwt9o1WZX81/HpZIT2e1O2kSSTV8OhCRhCRNuXewyRKBEzFjfZGEpCjhjJ7nlc770eZlQ7zeyVqKX7pujc3K2LaQ2QBF4xRM7w0yKkAnFpGMiHEiaNOTA7g8zql941F4JeXGKqp7Pl512qWqcI/4sj17584Ud867eN4P6FegWd421S42F/14XeoWYxq2KtcPSPSNGUF0wMhFwpCeg/We7rnoIyfmWa1fQNWAigE6c0iYIXx2rt2OP2WMUBD8Xb1BXhc7kbtGTHEMRZW9LJoEr4CdvZqisRVF1US57lMk0Zy+tsWbAG/KZ9QssMFDAbeXAH9TzZZ1tod7OKg0qbs/V/G2j08FgnCcRTMxRugxiR9qPEM6YFa3G7DWpKjEyqLt49AGGnDtA3nZ1fHqfLgzTVegM9Rl8J1W4k7727uJZOn+qfg==;MP0qyzFtFOWROv3Hgk9BKg=="
 ---

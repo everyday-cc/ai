@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "'AI could trigger biological disruption on scale of Covid pandemic by hacking NHS'"
-    excerpt: "The government has hired tech investor Ian Hogarth to lead its taskforce on artificial intelligence and he fears the NHS could be at risk of a 'biological attack'"
-    publishedDateTime: 2023-09-08T21:25:00Z
-    webUrl: "https://www.mirror.co.uk/news/uk-news/ai-could-trigger-biological-disruption-30898936"
-    ampWebUrl: "https://www.mirror.co.uk/news/uk-news/ai-could-trigger-biological-disruption-30898936.amp"
-    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/uk-news/ai-could-trigger-biological-disruption-30898936.amp"
+  - title: "Facial recognition could transform policing in way DNA testing did, says Met chief"
+    excerpt: "Sir Mark Rowley said the technology could help catch wanted criminals, but rights campaigners are alarmed Britain’s most senior police officer has predicted that facial recognition technology will transform criminal investigations as much as DNA testing ..."
+    publishedDateTime: 2023-09-11T14:44:00Z
+    webUrl: "https://www.theguardian.com/uk-news/2023/sep/11/facial-recognition-could-transform-policing-in-way-dna-testing-did-says-met-chief"
+    ampWebUrl: "https://amp.theguardian.com/uk-news/2023/sep/11/facial-recognition-could-transform-policing-in-way-dna-testing-did-says-met-chief"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2023/sep/11/facial-recognition-could-transform-policing-in-way-dna-testing-did-says-met-chief"
     type: article
     provider:
-      name: The Mirror
-      domain: mirror.co.uk
-    quality: 53
+      name: The Guardian
+      domain: theguardian.com
+    quality: 55
     images:
-      - url: "https://i2-prod.mirror.co.uk/incoming/article30899050.ece/ALTERNATES/s1200/0_GettyImages-1202870693.jpg"
-        width: 1200
-        height: 630
+      - url: "https://i.guim.co.uk/img/media/288649993da44d42f73b01e1237642999e235318/0_374_5607_3364/master/5607.jpg?width=620&quality=85&auto=format&fit=max&s=17f2bf20e0e4ccd6d00d1e671fd15dd5"
+        width: 620
+        height: 372
         isCached: true
 
 secured: "mnmIZOzUISCysfluJG4nTmQsNEIh8KpDO4kUwuSOezgIwwn3/33rPMPd6NwWDQCb+trYXxz2Pi/tXnTVcVTbFITBkDhw6ZPDeUEY0No5rkAf4qXWshdXcHAaFJwkONnzGXxvOgA6CA7xIFdIB8Vb8i+1h0GtUqq944D8l+hCmJTYzMoc6F1OnZeNNEm6+JhV182MTtSTN9iWcEa17lWhDd1CJl9pYu0Jx0PAV6/MgE4J6YPgKtbbpmk7BqPtbiFWpydDi9uVgw/w8Kdpbvyz471H7Z4VSeMM4SsaxabFl6bXEVPHzT6bnLWDwupksMPe55E8l5U9Rjh5ROZqeLslyigHbuJfQRS4aDLKLdZgRBc=;JK4esU5xtCiZzYDkyy46LA=="

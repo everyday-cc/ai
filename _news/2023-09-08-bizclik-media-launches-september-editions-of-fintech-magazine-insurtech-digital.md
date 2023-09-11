@@ -1,31 +1,34 @@
 ---
 category: news
 title: "BIZCLIK MEDIA LAUNCHES SEPTEMBER EDITIONS OF FINTECH MAGAZINE & INSURTECH DIGITAL"
-excerpt: "The September editions of FinTech Magazine and InsurTech Digital includes interviews with leading experts and executives from Volt.io, Fiserv, HSB Canada and Generali Vitality LONDON, Sept. 8, 2023 /P"
-publishedDateTime: 2023-09-08T15:15:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/09/n34364571/bizclik-media-launches-september-editions-of-fintech-magazine-insurtech-digital"
-webUrl: "https://www.benzinga.com/pressreleases/23/09/n34364571/bizclik-media-launches-september-editions-of-fintech-magazine-insurtech-digital"
-ampWebUrl: "https://www.benzinga.com/amp/content/34364571"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34364571"
+excerpt: "This month's edition features an extensive lead interview with, HSB Canada's Vice President Client Solutions and Innovation, Lasith Lansakara and VP, Head of Information Technology, Michael Scarbeau about the company's journey through almost 150 years of insurance transfomation."
+publishedDateTime: 2023-09-08T15:27:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/09/08/9877716.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/09/08/9877716.htm"
 type: article
-quality: 39
-heat: 39
+quality: 0
+heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
+related:
+  - title: "Limited Partners Survey: Investors Lean in on Alternatives, Fintech Automation to Optimize Returns"
+    excerpt: "“Predictions of sentient AI and out-of-control quantum computers get all the headlines ... \"This further explains LPs’ prioritization of FinTech to create workflow efficiency.\" About Dynamo Software, Inc. Dynamo Software’s mission is to be the ..."
+    publishedDateTime: 2023-09-07T11:22:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230907893502/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
-secured: "iIs4TxwL8lbU5zxQDysmxNxSjbLfrRJVxZazlXnXsDlSRy07zBKeU9ZmztpFM2RIR7EEzYUSTB+FCVwL0YoAhZThjiiLdgHH6pVsD3qwcdHxZUp161KW8bNYNnYc/KV2libMBVS2xqZh7FncxlALoB6TLGC215UZY8WO8tbKqZxGgecfEtIqt5ewQM+16WzwXc8Vc2AvE9WKMc7Wp7z8BJjxAwC1dEotE5jI1QDlCkeWtoxkHMDU4Bm5nQukq8CfH9Ja+HsSs8LJNDw1tx4xqyimmFzUdw8DT8LaW1MhzjrTYzxRi6HCGlX6rejw4uLNq/8N6zqihWXrnsYUyIYm21r8bvigfpjJ8zY9mtt/aco=;bU5WV5wOErM9Z2dy80vYIQ=="
+secured: "dDWUn5Gl8PyG+IgMWxntgMm3s+Y1iFztSowGfeZgd9Rp57iz6BU08ANuavjut7Ab6ZhJFS59WIW3l0qZotMEh/RrwBvRwmfdfgDsnghTJrorNhnZOOHRHkCZ6N2kAoSqIiqhuVZSZOSFN8fRdQ2O8YyYlK9V+pVUewB5hvLcuVMEM/4BmKc6w8odTCje4gRGkV47KY86yx7KYEkAaD2ewf1nHS5/bg3eftyjjZlMbyzimQ9sSUzrfIFTQSltYOqbvp/FUh/dzKxnIO8rqEUK7XENgjjHtCPA4Wt7PHYwQ812uREqNPfk4on9Qfhd3e2Y2z2VW/SArXJyUbMoUTDfVQ4gIWLycv9CQWaezG7lePA=;8BhzXSln87GY267sl+jBwQ=="
 ---
 

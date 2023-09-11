@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI might help health care's labor shortage, industry leaders say"
-    excerpt: "Local health care leaders at the City Club talked about the many reasons physicians are leaving the profession."
-    publishedDateTime: 2023-09-06T21:30:00Z
-    webUrl: "https://www.chicagobusiness.com/health-care/health-leaders-city-club-event-talk-labor-shortage-ai"
-    type: article
-    provider:
-      name: Crain's Chicago Business
-      domain: chicagobusiness.com
-    quality: 39
-    images:
-      - url: "https://s3-rd-prod.chicagobusiness.com/styles/1200x630/s3/_A7_0916.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "LDyozYTacBRMTGLPY8krOUmcJM5SPDCh+6bSMLJKL7nydI2q2NKYGYBDxSQdCyXTbNqF5AF5b2Y2VBvaDzEbrPp1aGtYAtshA+bSTzU0FFpd3JMeWi+rZA8UdcYu6lYC/ycEA4qcX5pD6CpLSt1kN20a7BLHeUDFIXhXnDr9zNi1QRDXHlmSGlg0CJggDbnPW/wkpRBZ470GMPBwR2L/zWiRMBHgYXH7538LBHcoCGZnlSZVTeSyjf+4lZrOL8gcXFyq+1zwEY5Wo0/XTygS9+JSkXwMhM8bPfKis8JPh34ZqlkFyWB+Ji7y5xO7FN1yQqE1hZsYMnS8KfydYEcc6sOoaKCAGhNXwZFmVLY2MpiB8MNhqyqQxd7xt3Zt/cBrylkRE4uH0sUs01Ax5Qj8B3xN6pRqjp2pVuKZ+aAeUVCh6MvSeqfxhE4GviDV5DmJ2LuHDD8bYPTUAxICXHZu2bPTdrgD4xFdokbe/lBQj0wQWA+ThVRXge09TMbf5Oj1vKz3G5pRZ0+da79FHzvcFA==;AsVqR1GNSY3ROW2Sr59gZA=="
 ---

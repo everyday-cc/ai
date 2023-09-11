@@ -38,6 +38,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "FPT Announces US Investment, Workforce Development for AI and Semiconductor amid Biden's Vietnam Visit"
+    excerpt: "Secondly, FPT seeks investment and support for FPT University's initiatives in training engineers specializing in both semiconductor chip design and AI, aiming to bolster the workforce's capabilities in these critical fields. With AI training being a ..."
+    publishedDateTime: 2023-09-11T15:00:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/fpt-announces-us-investment-workforce-development-for-ai-and-semiconductor-amid-bidens-vietnam-visit/article_77890396-c32e-5afc-8b92-77fd849c973b.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 23
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/7/8c/78cd4f25-1c20-59f4-b1dc-863b72fc899e/64ff29ed3e518.image.jpg?crop=1914%2C1005%2C0%2C38&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Qzt2mt9aHE0RSQIvPDjr1N5kMPHAz8uqsUcQUb+iwALTnFwZiha8hEt2AU/KnhnJPIIXRwYjaZSqQ4HoSiBem9+AQu30MzsVloRZLN8loOJ8++K/o+5nRdPD6SagS6SCvhI44NdejB0QVa/YhW5zVr6FnLEuD1Ku4fVlSjm4/N2/UD/206ym/Sl6uuG9rAZ1TJEpCmAqvaOmJLy/f2Dh6e0/ZkO3K/zjl7YNoMH+m/T7HoCWkxaAxSkLqiTk+9foN0K7dwQaKgwEgmdVL6QmltCAJxRKpUSpg1abIzLjLpF8y1trkrTlOnqgNP9ZNPXy/1v7R1/YOtof7T6bKLGULdpX0O8PDxbe8xL2qph4EVY=;c0RBWrIUoMhKtG8/H7GmDQ=="
 ---

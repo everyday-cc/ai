@@ -1,0 +1,135 @@
+---
+category: news
+title: "Back To School With AI"
+excerpt: "Exploration and adoption of artificial intelligence should be intentional not incidental. Mindful, not mindless."
+publishedDateTime: 2023-09-11T14:55:00Z
+originalUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/09/11/back-to-school-with-ai/"
+webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/09/11/back-to-school-with-ai/"
+ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/09/11/back-to-school-with-ai/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/09/11/back-to-school-with-ai/amp/"
+type: article
+quality: 87
+heat: 157
+published: true
+
+provider:
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/64ff285cce8677245973b63c/0x0.jpg?format=jpg&width=1200"
+    width: 1200
+    height: 800
+    isCached: true
+
+related:
+  - title: "How to create your own comic books with AI"
+    excerpt: "Can't draw? No problem. The AI Comic Factory will generate comic book panels and pages based on your descriptions."
+    publishedDateTime: 2023-09-11T14:33:00Z
+    webUrl: "https://www.zdnet.com/article/how-to-create-your-own-comic-books-with-ai/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-create-your-own-comic-books-with-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-create-your-own-comic-books-with-ai/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/19574269e5cd2e2aca58a49d3e037ffe269947d1/2023/09/11/3ed5d18c-4f4e-41de-baea-37cb0fcd0102/figure-top-how-to-use-ai-to-create-your-own-comic-books.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Hundreds of schools across U.S. using AI to help detect guns"
+    excerpt: "Hundreds of schools across the United States are using an artificial intelligence system that is designed to detect guns and prevent mass shootings. NBC News’ Rehema Ellis has a closer look at how the technology works."
+    publishedDateTime: 2023-09-10T23:19:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/hundreds-of-schools-across-u-s-using-ai-to-help-detect-guns-192654405889"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo192654405889"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo192654405889"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_09/1694387934266_nn_rel_ai_school_security_230910_1920x1080-svvab6.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "My 5 favorite AI tools for school: Class is in session, and generative AI can help"
+    excerpt: "During last year's back-to-school season, ChatGPT had not yet been unveiled, and generative AI wasn't on everyone's radar. However, today, the topic is more popular than ever, and new helpful AI tools for students are released daily."
+    publishedDateTime: 2023-09-08T07:26:00Z
+    webUrl: "https://www.zdnet.com/article/my-5-favorite-ai-tools-for-school-class-is-in-session-and-generative-ai-can-help/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/my-5-favorite-ai-tools-for-school-class-is-in-session-and-generative-ai-can-help/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/my-5-favorite-ai-tools-for-school-class-is-in-session-and-generative-ai-can-help/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 81
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/949a661a78ead34fee854ac7a7d758e36b74306a/2023/09/07/1c6fb698-f446-4f99-87ef-04b1c12e5445/gettyimages-1467277901.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Governments Urged To Get A Grip On AI In Schools"
+    excerpt: "Regulation is needed to protect students and teachers, according to new guidance on the use of Artificial Intelligence in schools."
+    publishedDateTime: 2023-09-07T14:14:00Z
+    webUrl: "https://www.forbes.com/sites/nickmorrison/2023/09/07/governments-urged-to-get-a-grip-on-ai-in-schools/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64f9d707743b486272f9e2c7/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Guide to Artificial Intelligence ETFs"
+    excerpt: "Robots and artificial intelligence (AI) are increasingly gaining precedence in our daily life. The pandemic-driven stay-at-home trend made these more important as we have become more dependent on ..."
+    publishedDateTime: 2023-09-07T17:14:00Z
+    webUrl: "https://www.nasdaq.com/articles/guide-to-artificial-intelligence-etfs-0"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
+  - title: "Say hello to Coach AI"
+    excerpt: "Coursera chief executive officer Jeff Maggioncalda wants to give you an AI-generated personal tutor. The online learning platform has recently launched Coach, a chatbot tool that plugs into ChatGPT. It answers questions by sifting through and summarising Coursera’s entire curricula."
+    publishedDateTime: 2023-09-10T01:10:00Z
+    webUrl: "https://gulfbusiness.com/coursera-say-hello-to-coach-ai/"
+    type: article
+    provider:
+      name: Gulf Business
+      domain: gulfbusiness.com
+    quality: 39
+    images:
+      - url: "https://gulfbusiness.com/wp-content/uploads/2023/09/coach-ai2.jpg"
+        width: 930
+        height: 620
+        isCached: true
+  - title: "How to Unlock Your Business Potential with Artificial Intelligence"
+    excerpt: "One game-changing tool that has taken the business world by storm is artificial intelligence (AI). From streamlining operations to enhancing customer experiences, AI holds immense potential for your business. In this article, we'll explore how you ..."
+    publishedDateTime: 2023-09-08T10:27:00Z
+    webUrl: "https://www.inc.com/sean-kim/how-to-unlock-your-business-potential-with-artificial-intelligence.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1495300562_533575_xxmfdk.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+
+secured: "N19YVVnE4Q78HAatA45s9YEY2rnSjSWH80ktA+moOJXTHWHJIn+LtGBciaMTrdWnY8a881TNoLQBS9FzqkKKSCzrdzS/ryGN7dchgQUpBQ/ga8+UUCOHybAULGpkrhdSf9JmAbiWJkEFc/AE91YRYJCZpXfW+bQAU1PLLiMsFfncFrlOOdcH59yJuiDpA6312KhVdlM4P5plLt+QBs9A354pciMGTOsnoZ159EmskkR9yZ/igmhlmoxuKYqNIBJMCWJSrS5WyRk7rDXUIRsJ7ClqLLJEfPsgmbt98JSg389rdPF+bRZIc0vki1y3/mEydWoH569bQROwdzx7gPNDWjLDQgOgL2dUYIXLrMdjfVk=;0w1miq7iwFYdAmOfevKwug=="
+---
+

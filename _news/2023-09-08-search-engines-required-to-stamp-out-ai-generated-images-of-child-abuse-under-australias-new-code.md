@@ -30,35 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI-generated child sex imagery has every US attorney general calling for action"
-    excerpt: "Second, after considering the expert commission’s recommendations, Congress should act to deter and address child exploitation, such as by expanding existing restrictions on CSAM to explicitly cover AI-generated CSAM. This will ensure prosecutors have the tools they need to protect our children."
-    publishedDateTime: 2023-09-06T21:48:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/09/ai-generated-child-sex-imagery-has-every-us-attorney-general-calling-for-action/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/09/ai-generated-child-sex-imagery-has-every-us-attorney-general-calling-for-action/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/ai-generated-child-sex-imagery-has-every-us-attorney-general-calling-for-action/amp/"
+  - title: "Welcome to ‘the robot soundscape’: Australia’s music industry braces for the rise of music AI"
+    excerpt: "The spectre of intelligent technologies is looming over Australian artists, and dominating the chatter at Brisbane’s Bigsound music conference"
+    publishedDateTime: 2023-09-08T04:16:00Z
+    webUrl: "https://www.theguardian.com/music/2023/sep/08/ai-music-bigsound-brisbane-ai-dj-spotify-beatles"
+    ampWebUrl: "https://amp.theguardian.com/music/2023/sep/08/ai-music-bigsound-brisbane-ai-dj-spotify-beatles"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/music/2023/sep/08/ai-music-bigsound-brisbane-ai-dj-spotify-beatles"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 83
+      name: The Guardian
+      domain: theguardian.com
+    quality: 63
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/09/us_capitol_hero-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "US Copyright Office denies protection for another AI-created image"
-    excerpt: "The U.S. Copyright Office has again rejected copyright protection for art created using artificial intelligence, denying a request by artist Jason M. Allen for a copyright covering an award-winning image he created with the generative AI system Midjourney."
-    publishedDateTime: 2023-09-06T21:20:00Z
-    webUrl: "https://www.reuters.com/legal/litigation/us-copyright-office-denies-protection-another-ai-created-image-2023-09-06/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/obog_o_zVai_ANfSJsOBGf9EywA=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JSX7UODPNVM4PKCR3XEOWCDN6U.jpg"
-        width: 728
-        height: 381
+      - url: "https://i.guim.co.uk/img/media/06725909ead3f251a99ee29b980421c8e1732af2/0_97_2200_1320/master/2200.jpg?width=620&quality=85&auto=format&fit=max&s=71feb5e47fb311dad011f56049daf6bf"
+        width: 620
+        height: 372
         isCached: true
 
 secured: "OiEet8dL9KRL83V7pw21jr+gEtQcPJ8IDduBXZRzFBdiQQEOMaOoP+nn7CQGH9j9RIsPQx0TU6yDXn2lQqiTU4xdBmQnHyl+KrclUINLF466PZCrvHrC6LHnNIk/B3laHFKvhXFoPo6g84boqp1AU3v3UzJD1WECfdxosCRxarnSWHaPMCuE4cafQKMkIlOc8ATicNLACNClWfczYmsn8E9ybV4NKveBOaUxkCJe4fNQrTx3BE06RsZgToF6qDgpyalmaNhnRG2869GFLB5WohrgbaOFiz+9UakJMGdD5KihB8wQp78fOKrPWBt+kxKl4qzqdj2h9AwdYIyuC5Q9xeyH11vreMKg9gw+GJG2HD61520OB8dy0FiIBOOC/kF7ywnNiSYnsCBNKcjGvQOCsEWL+oEZxH8oRoktefANXThSAe6WF6CGWN0Xk9pA/5N856/GdawaSkq67Gtgx+9NcHy83i2tJ6MXOJJB26b2E/7YatnamWG5Pn3q99vkE2j0ad1F/NKWVXtRQWePw9QR8w==;wj7gagG1bNneF568/+5eVg=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/building-ai-for-business-ibms-granite-fou
 webUrl: "https://www.ibm.com/blog/building-ai-for-business-ibms-granite-foundation-models/"
 type: article
 quality: 99
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -93,6 +93,15 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
+    quality: 47
+  - title: "How To Use AI To Your Business’s Advantage"
+    excerpt: "When incorporated wisely, AI technologies open new horizons for delivering products that stand out on the market and bring unique value to your customers."
+    publishedDateTime: 2023-09-11T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/how-to-use-ai-to-your-businesss-advantage/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
     quality: 47
   - title: "How to build an AI Agent run virtual business"
     excerpt: "If you have interested in fully automating workflows using artificial intelligence you might be interested in ... the datasets ensure that the project remains open for academic and research use. These licenses also stipulate the boundaries for usage ..."

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.vox.com/platform/amp/the-highlight/23779098/relationship
 cdnAmpWebUrl: "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/the-highlight/23779098/relationships-artificial-intelligence-robots-ai-death-microsoft-openai-chatgpt"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: Vox
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Is Boosting Agent Intelligence—And Evolving The CX Team"
-    excerpt: "When human agents and AI join forces, they form a powerful CX team—one that builds on their strengths, while minimizing their weaknesses."
-    publishedDateTime: 2023-09-06T20:46:00Z
-    webUrl: "https://www.forbes.com/sites/zendesk/2023/09/06/how-ai-is-boosting-agent-intelligence-and-evolving-the-cx-team/"
-    ampWebUrl: "https://www.forbes.com/sites/zendesk/2023/09/06/how-ai-is-boosting-agent-intelligence-and-evolving-the-cx-team/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zendesk/2023/09/06/how-ai-is-boosting-agent-intelligence-and-evolving-the-cx-team/amp/"
+  - title: "The Time Is Now: Why Enterprises Should Invest In Systems Of Intelligence"
+    excerpt: "Though artificial intelligence has been making inroads into the enterprise, the rise of generative AI is accelerating the pace of adoption. It’s time for enterprise CXOs to consider building systems of intelligence that complement systems of record and ..."
+    publishedDateTime: 2023-09-11T05:47:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/09/11/the-time-is-now-why-enterprises-should-invest-in-systems-of-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/09/11/the-time-is-now-why-enterprises-should-invest-in-systems-of-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/09/11/the-time-is-now-why-enterprises-should-invest-in-systems-of-intelligence/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 71
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64f8a24960bbd7f7ae384a0b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64fea75e4f1046194173b638/0x0.jpg?format=jpg&width=1200"
+        width: 1000
+        height: 666
         isCached: true
   - title: "AI-powered market intelligence firm AMPLYFI closes funding round to ‘democratise intelligence’"
     excerpt: "AMPLYFI, has closed a significant funding round to unlock knowledge capital through a powerful combination of machine learning and generative AI."
@@ -63,20 +63,15 @@ related:
         width: 1500
         height: 844
         isCached: true
-  - title: "How wealth management can apply AI … intelligently"
-    excerpt: "Used as directed, superbots are particularly well suited to the needs of financial advisory firms, argues the founder and CEO of TIFIN."
-    publishedDateTime: 2023-09-07T10:01:00Z
-    webUrl: "https://www.financial-planning.com/opinion/best-practices-for-wealth-management-firms-to-apply-ai-intelligently"
+  - title: "Rage against the machine? Why AI may not mean the death of film"
+    excerpt: "Technology is Hollywood’s current arch nemesis, but as exhibitors on Venice film festival’s ‘immersive island’ will tell you, AI, VR and XR could lead to a brighter future"
+    publishedDateTime: 2023-09-08T14:23:00Z
+    webUrl: "https://www.theguardian.com/film/2023/sep/08/ai-may-not-mean-the-death-of-film"
     type: article
     provider:
-      name: Financial Planning
-      domain: financial-planning.com
-    quality: 39
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/cf91b7e/2147483647/strip/true/crop/1277x670+0+57/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F99%2F27%2F2a1039c74a2598d92cce519babf4%2Fvinay-nair-tifin-2023.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
 
 secured: "aLCc+PojRwVYEUERPDeViFHDpuvrrkL2OBf/TiLzXnsvhvgJlUViq/YykJLS0K8vQbumYvgGdCXU8nWzRGmqp4cf25FnNb+FOePKdbOfm61zNGx5+mHtMBXwm33aNE4nlTVAgyDMhNXtMtGIwZ6hVytx5d911A3mVyTLqRzeTat3EToSxNgDO2t1SeGZ6s+aNhjiPh4QUjDaU6Fu3CbcH+poE7uyifBSlEtsL1I7266keONyZDL+9fLb31HbBpkACiHhgnDynLk80WCdd5/z666zBEGQwr7TCWwj4AcoLzapm/bkfi0NoRxYrBjykpnQvhIojdaUd4JzEmhSFh+B/XPHDEAmgtbqzCQ5aDuTl84=;scjmbKC13GBXbmxVqyBisQ=="
 ---

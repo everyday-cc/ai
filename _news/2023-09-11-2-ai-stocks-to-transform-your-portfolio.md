@@ -48,20 +48,15 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "How to Unlock Your Business Potential with Artificial Intelligence"
-    excerpt: "One game-changing tool that has taken the business world by storm is artificial intelligence (AI). From streamlining operations to enhancing customer experiences, AI holds immense potential for your business. In this article, we'll explore how you ..."
-    publishedDateTime: 2023-09-08T10:27:00Z
-    webUrl: "https://www.inc.com/sean-kim/how-to-unlock-your-business-potential-with-artificial-intelligence.html"
+  - title: "Three Artificial Intelligence Stocks Under $10"
+    excerpt: "After peaking at $9.75 in 2021 the company is now “exploring strategic alternatives”, which is street-speak for trying to find a buyer."
+    publishedDateTime: 2023-09-11T13:44:00Z
+    webUrl: "https://www.cantechletter.com/2023/09/three-artificial-intelligence-stocks-under-10/"
     type: article
     provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1495300562_533575_xxmfdk.jpg"
-        width: 1024
-        height: 576
-        isCached: true
+      name: Cantech Letter
+      domain: cantechletter.com
+    quality: 21
 
 secured: "dpyM0HYCZUp9zL/E6P9I0WO/qnfBw0WCFEnbhLhHbDeWoGX5/TfuMFSROiBgmshkhhqXaRmjCmzzTOnka/Ho2OGmk5Fi1fUvrOMRkTjp1We+/7GKTO5M3lEm7CnjiARWCHrprAV9VI3q60rkmUCilv8mwWzg83ZdWrZvmXOsk+OGrO9YVD1YX2XOsRnolscSV9f00sqUVbXyOtZjsMCIdCSTC2ybUZArFvvzl9Y2ib+vPiTxBwV4bHs+a4fDTYeJZK14vaR0p+Cq/o4juIkrMZ6sVXlfepHY+vVQXYxaAQXb5wNacYQJdnbxmythTTRMPs6WMxL6bA9PjeErwpLx1bDih8LWbd7jlmR56vhtzEw=;vYIp82Ny83FsEO2ua2xcyA=="
 ---

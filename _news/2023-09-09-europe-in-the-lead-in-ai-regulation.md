@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mikeosullivan/2023/09/09/europe-in-the-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/09/09/europe-in-the-lead-in-ai-regulation/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "How To Regulate Artificial Intelligence"
+    excerpt: "In summary, this approach to algorithmic regulation gives enumerated existing agencies access to new regulatory tools to control algorithms used in areas under their jurisdiction when the use of these algorithms poses a significant risk of substantial harm that the agency is empowered to prevent under its existing statute."
+    publishedDateTime: 2023-09-11T13:59:00Z
+    webUrl: "https://www.forbes.com/sites/washingtonbytes/2023/09/11/how-to-regulate-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/washingtonbytes/2023/09/11/how-to-regulate-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/washingtonbytes/2023/09/11/how-to-regulate-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64ff1c3b731e9cb353f9e2c7/0x0.jpg?format=jpg&crop=1823,1026,x0,y91,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "California Joins the AI Regulation Frenzy"
     excerpt: "California Gov. Gavin Newsom signs an executive order that calls for agencies to study how generative AI can help, and potentially hurt, California's economy."
     publishedDateTime: 2023-09-07T21:51:00Z

@@ -51,19 +51,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Synopsys Extends Synopsys.ai EDA Suite with Industry's First Full-Stack Big Data Analytics Solution"
-    excerpt: "Uncovers silicon data outliers across the semiconductor supply chain to improve chip quality, yield, and throughput. SUNNYVALE, Calif., Sept. 6, 2023 /PRNewswire/ -- Synopsys, Inc. (Nasdaq: SNPS) today announced the extension of its Synopsys.ai™ full ..."
-    publishedDateTime: 2023-09-06T20:19:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/synopsys-extends-synopsys-ai-eda-suite-with-industry-s-first-full-stack-big-data-analytics-solution-1032610580"
+  - title: "Tekenable invests €1.4m to establish data analytics & AI practice"
+    excerpt: "Irish digital services company Tekenable has announced plans to invest €1.4 million in a new data analytics and AI practice. The move is expected to create 20 jobs in cloud engineering, AI engineering,"
+    publishedDateTime: 2023-09-11T14:15:00Z
+    webUrl: "https://www.techcentral.ie/tekenables-e1-4-million-investment-to-establish-a-data-analytics-ai-practice/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 55
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 39
     images:
-      - url: "https://mma.prnewswire.com/media/2186690/Synopsys_Logo_Purple.jpg"
-        width: 400
-        height: 276
+      - url: "https://www.techcentral.ie/wp-content/uploads/2023/09/pl-rPeter-Rose-Group-CTO-and-Nick-Connors-Group-CEO-TEKenable-1.jpg"
+        width: 525
+        height: 350
         isCached: true
   - title: "External Lighting for Video Analytics"
     excerpt: "As camera resolution has improved, integrators have begun to take advantage of a wide gambit of AI applications, from basic people counting for business intelligence to deep learning-based people and object recognition functionalities. As AI-empowered ..."

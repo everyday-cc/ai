@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "Sundar Pichai on Google’s AI, Microsoft’s AI, OpenAI, and … Did We Mention AI?"
+    excerpt: "The tech giant is 25 years old. In a chatbot war. On trial for antitrust. But its CEO says Google is good for 25 more."
+    publishedDateTime: 2023-09-11T10:00:00Z
+    webUrl: "https://www.wired.com/story/sundar-pichai-google-ai-microsoft-openai/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 62
   - title: "Mark Zuckerberg’s Meta working on a new, more advanced AI model to rival OpenAI’s GPT-4"
     excerpt: "Mark Zuckerberg’s Meta is working on building a new AI model that will be more powerful than its current model Llama 2, and will rival the capabilities of OpenAI’s GPT-4."
     publishedDateTime: 2023-09-11T03:35:00Z

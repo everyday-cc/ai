@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Artificial intelligence is currently booming in the finance industry. But is it here to stay?"
+    excerpt: "By Chrisleen Herard As the finance world takes hold of artificial intelligence, the question arises of how it will continue to influence an industry that manages money […]"
+    publishedDateTime: 2023-09-11T12:24:00Z
+    webUrl: "https://afro.com/artificial-intelligence-is-currently-booming-in-the-finance-industry-but-is-it-here-to-stay/"
+    type: article
+    provider:
+      name: Afro
+      domain: afro.com
+    quality: 47
+    images:
+      - url: "https://i0.wp.com/afro.com/wp-content/uploads/2023/09/AIcoverimage.jpeg?fit=2560%2C1378&ssl=1"
+        width: 2560
+        height: 1378
+        isCached: true
   - title: "How AI is the disrupting the photography industry"
     excerpt: "During the last few years, nearly every industry around the world has been disrupted by the growth and trend of artificial intelligence (AI). By David Preston, MD of Canon South Africa The archetypal vision of mechanical robots coming to replace humans at their workstations is not really applicable anymore."
     publishedDateTime: 2023-09-07T08:55:00Z

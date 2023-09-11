@@ -25,17 +25,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "Why health systems aren't creating gen AI strategies"
-    excerpt: "According to a Bain & Co. survey, 75 percent of health system executives believe generative AI has reached a turning point in the ... to financial constraints like hefty startup costs and ambiguous returns on investment. Regulatory uncertainties involving ..."
-    publishedDateTime: 2023-09-06T19:55:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/why-health-systems-arent-creating-gen-ai-strategies.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 17
-
 secured: "NfTHt91Np6/8fKlkqIOknU4z6+/VgtoWK4m9vi+oCI1C6uXT9l2XjJwpBFLBoz0of0v4NxGwlX6IricvjpkAL+WzrWu6RZMu+UUtu6UtbXW8jU+c+Aj4+TdzueF/zywsIlZYgWNefOPvognZAaW+O+vb0fEzVRVT9ZuOucLmkVRNpHJ49soAKY0oqvpIwZ1/W4t7U3PU8iu2ILOhLkvcYBOH+xv6XVna1n6kMwaCnLwqRSIdK5Tv9AYqe3jeTvXF/FsntvFdTc6lAQjZwi5ZDnWZxtbYEg+rete1yE0CxTtkpnuvnbe2VgBJCJbWoZnkKhBBDfE9vMjE5r6rpKvyzn6vmLRxAIqy/Z04WAvrAlWmNanx7KZ88vSroIfBekyFO60IBQMe1uLyHRkfoOb5/EAJaTNVjxfNcDO3bI+VlSVZTRdeld8lYhijTGDHSdUNfJehAIFO5Ck0CfRZ8c40rObbAIARZhySLagMmhSX/oL/VTgKYWyDB6PFSAV1bgWfr+wT6B1JYQXqY3XLMvrxwQ==;3nh1Xe4mxW5j3cT6pgWYgQ=="
 ---
 

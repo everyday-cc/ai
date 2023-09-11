@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/generative-ai-meet-your-partner-in-custom
 webUrl: "https://www.ibm.com/blog/generative-ai-meet-your-partner-in-customer-service/"
 type: article
 quality: 119
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "Christmas priorities, consumer confidence, generative AI: 5 interesting stats to start your week"
+    excerpt: "This upcoming festive season it seems it will be the thought that counts for shoppers, as almost two-thirds (64%) of consumers say a thoughtful gift is preferred over an expensive one. Almost half of consumers (48%) say they spend a lot of time exploring their options before making festive gift purchases."
+    publishedDateTime: 2023-09-11T13:48:00Z
+    webUrl: "https://www.marketingweek.com/christmas-consumer-confidence-generative-ai-5-interesting-stats/"
+    type: article
+    provider:
+      name: Marketing Week
+      domain: marketingweek.com
+    quality: 4
 
 secured: "1+nTuzfrvsIPa2mgsCev0tjhKtQi3ijiSaI6WAY/cWwWbEh2xXdBTYW+Jpb4PrXBZ7XivF2ipZbil+SY+CydFiN8YTuKAl6QG3gT1xLuIRbvagfUwxY9xlpAHbK04KTA6w+JPomEF13Or4FRYo0OXwOdVTnbbLrj/pThQShKw9CJzgllX/MoOpo++n7rQ7nnHVzsgway4iLNcjyvxjmjyaQAx7C6yLNUz9XVUtErStrwWNBoQ7tWK7OrFwpiAp86w+qDeex3S26bt7SvYcfYtQJjp892uqh8lFDC400dlaWvx3rNeKML4qfP6mj7RbRRxoyTbTBz03vov/zI9MEQxJ5f5zF0Xlp//Z4t8rN7TNg=;ipARwiUDu2Mz9CEKDaDnLA=="
 ---

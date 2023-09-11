@@ -25,54 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Is Boosting Agent Intelligence—And Evolving The CX Team"
-    excerpt: "When human agents and AI join forces, they form a powerful CX team—one that builds on their strengths, while minimizing their weaknesses."
-    publishedDateTime: 2023-09-06T20:46:00Z
-    webUrl: "https://www.forbes.com/sites/zendesk/2023/09/06/how-ai-is-boosting-agent-intelligence-and-evolving-the-cx-team/"
-    ampWebUrl: "https://www.forbes.com/sites/zendesk/2023/09/06/how-ai-is-boosting-agent-intelligence-and-evolving-the-cx-team/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zendesk/2023/09/06/how-ai-is-boosting-agent-intelligence-and-evolving-the-cx-team/amp/"
+  - title: "Product Management: Steering Innovation In AI And Web3 Startups"
+    excerpt: "Product managers have become the unsung hero that shape and steer innovation strategies to guide startups through uncharted territories."
+    publishedDateTime: 2023-09-08T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/08/product-management-steering-innovation-in-ai-and-web3-startups/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/08/product-management-steering-innovation-in-ai-and-web3-startups/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/08/product-management-steering-innovation-in-ai-and-web3-startups/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64f8a24960bbd7f7ae384a0b/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5fbbc3ed6379c6ef3bc9a97d/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "What will love and death mean in the age of machine intelligence?"
-    excerpt: "I hesitate to call it artificial intelligence because that makes it both more and less scary than it truly is. More, because “artificial” reminds us of robots, of colonization and physical dominance, images that have been emblazoned in our minds ..."
-    publishedDateTime: 2023-09-07T11:46:00Z
-    webUrl: "https://www.vox.com/the-highlight/23779098/relationships-artificial-intelligence-robots-ai-death-microsoft-openai-chatgpt"
-    ampWebUrl: "https://www.vox.com/platform/amp/the-highlight/23779098/relationships-artificial-intelligence-robots-ai-death-microsoft-openai-chatgpt"
-    cdnAmpWebUrl: "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/the-highlight/23779098/relationships-artificial-intelligence-robots-ai-death-microsoft-openai-chatgpt"
+  - title: "Ant Unveils AI Language Model for Wealth Management, Insurance"
+    excerpt: "Ant Group Co. unveiled an artificial intelligence tool to use for wealth management and insurance services, joining the race for next-generation AI."
+    publishedDateTime: 2023-09-08T08:06:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-09-08/ant-unveils-ai-language-model-for-wealth-management-insurance"
     type: article
     provider:
-      name: Vox
-      domain: vox.com
-    quality: 74
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/Rb0vBYZWC5UKp_cYmD7PmZzzwiU=/0x0:1920x1080/1400x1050/filters:focal(807x387:1113x693):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72439644/illust_5_1920px_x_1080px_asya_demidova.0.png"
-        width: 1400
-        height: 1050
-        isCached: true
-  - title: "AI-powered market intelligence firm AMPLYFI closes funding round to ‘democratise intelligence’"
-    excerpt: "AMPLYFI, has closed a significant funding round to unlock knowledge capital through a powerful combination of machine learning and generative AI."
-    publishedDateTime: 2023-09-07T07:40:00Z
-    webUrl: "https://enterprisetalk.com/news/ai-powered-market-intelligence-firm-amplyfi-closes-funding-round-to-democratise-intelligence/"
-    ampWebUrl: "https://enterprisetalk.com/news/ai-powered-market-intelligence-firm-amplyfi-closes-funding-round-to-democratise-intelligence/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/ai-powered-market-intelligence-firm-amplyfi-closes-funding-round-to-democratise-intelligence/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 47
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/09/AI-powered-market-intelligence-firm-AMPLYFI-closes.jpg"
-        width: 1500
-        height: 844
-        isCached: true
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 49
 
 secured: "uJzmv56Y+oWllXZPTD/ejuGFfv5uGKI5oGkmmzxw13JB9TXZPxlnHDUQooB8bgps8Z/0M9iK9r8bQut5wSbr2m+78Ao0FxtYdql9yhLlLxE1h7o2y9iBCsRuCRbdSTj8KRL5hXaRyM4QGjpzUFrw4yEkcEiXibf01FXf4PXl7cw8pB7t5o4S+dT+OAEkMt7atlaQCaPXYs99CAp1mkMjLFnNxBtlOMBj579+2Ym1Nb+5vDVqV+VhvQ0QXck+Plz8CBcfUcrS+m6UNr+WKfJDbS0p8zWGHqdabDl7JniLUdhJNpvZQTtpub2B7NHQA6HsOINxzHs9XrETn2Hg5W2tlwa0nZGVk3oy40yXvGW4Om8=;MB2a/2S41l+9Xz3O45e+nQ=="
 ---

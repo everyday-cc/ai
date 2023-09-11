@@ -22,6 +22,15 @@ topics:
   - AI
 
 related:
+  - title: "Generative AI in production: Rethinking development and embracing best practices"
+    excerpt: "For apps built on LLMs, the engineering mindset of predictable debugging and software testing and monitoring is suddenly challenged."
+    publishedDateTime: 2023-09-11T13:38:00Z
+    webUrl: "https://venturebeat.com/ai/generative-ai-in-production-rethinking-development-and-embracing-best-practices/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 42
   - title: "Generative AI will supersede 2.4 million US jobs by 2030"
     excerpt: "Furthermore, Generative AI intends to make up nearly 30 percent of the jobs lost to automation by 2030. “Generative AI will make up a growing percentage of all US jobs lost to automation and AI, climbing from 9.3 percent of jobs lost to automation and AI overall in 2023 to 30.4 percent by 2030,” the report noted."
     publishedDateTime: 2023-09-07T20:33:00Z

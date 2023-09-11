@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/technology-66739858.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66739858.amp"
 type: article
 quality: 87
-heat: 187
+heat: 177
 published: true
 
 provider:
@@ -141,20 +141,6 @@ related:
       - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
         width: 834
         height: 308
-        isCached: true
-  - title: "Google will require election ads to ‘prominently disclose’ AI content"
-    excerpt: "Google will require verified advertisers to “prominently disclose” when a campaign ad “inauthentically depicts” people or events, in a bid to combat the spread of digitally manipulated images for political gain, the company said on Wednesday."
-    publishedDateTime: 2023-09-06T21:35:00Z
-    webUrl: "https://www.ft.com/content/d1e5a0a9-9438-4fb4-905c-3dd737246600"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/us-presidential-election.jpg"
-        width: 619
-        height: 377
         isCached: true
   - title: "Amazon to require some authors to disclose the use of AI material"
     excerpt: "NEW YORK -- After months of complaints from the Authors Guild and other groups, Amazon .com has started requiring writers who want to sell books through its e-book program to tell the company in advance that their work includes artificial intelligence material."

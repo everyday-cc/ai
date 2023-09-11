@@ -73,6 +73,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Optimizing AI Inference Is As Vital As Building AI Training Beasts"
+    excerpt: "The history of computing teaches us that software always and necessarily lags hardware, and unfortunately that lag can stretch for many years when it comes to wringing the best performance out of iron by tweaking algorithms."
+    publishedDateTime: 2023-09-11T15:26:00Z
+    webUrl: "https://www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts/"
+    ampWebUrl: "https://www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
+    images:
+      - url: "http://www.nextplatform.com/wp-content/uploads/2023/09/nvidia-gpu-full-stack-performance-hpc-ai-mix.jpg"
+        width: 714
+        height: 520
+        isCached: true
   - title: "Fintech Customer Support India: Cynergy BPO— How Outsourcing Is Levelling the Playing Field"
     excerpt: "Furthermore, the nation’s technological stride in Artificial Intelligence and Machine Learning ensures that fintech customer support is not just reactive but proactive. Predictive analytics, real-time feedback, and AI-driven chatbots have transformed ..."
     publishedDateTime: 2023-09-11T11:25:00Z

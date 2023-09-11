@@ -7,7 +7,7 @@ originalUrl: "https://www.windowscentral.com/microsoft/apparently-microsoft-and-
 webUrl: "https://www.windowscentral.com/microsoft/apparently-microsoft-and-azure-have-made-an-enemy-of-the-dutch-farming-community"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft says Azure breach 'probably' due to account being cracked"
-    excerpt: "More than three months after its Azure cloud was breached, Microsoft says the \"probable\" cause was the cracking of a staff engineer's corporate account. The company released a blog post on Wednesday which made the surprising admission that its inability to offer a more definitive"
-    publishedDateTime: 2023-09-06T22:02:00Z
-    webUrl: "https://itwire.com/business-it-news/security/microsoft-says-azure-breach-probably-due-to-account-being-cracked.html"
+  - title: "iTechGenic Partners with Microsoft Azure and G7 CR Technologies to Revolutionize Engineering Management with AI-Driven Insights"
+    excerpt: "India], September 8: iTechGenic, a pioneering AI-based engineering intelligence platform, has joined forces with Microsoft Azure and G7 CR Technologies- A Noventiq Company as a part of their STAB program for ISVs."
+    publishedDateTime: 2023-09-08T06:51:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273959357/itechgenic-partners-with-microsoft-azure-and-g7-cr-technologies-to-revolutionize-engineering-management-with-ai-driven-insights"
     type: article
     provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 54
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 41
     images:
-      - url: "https://itwire.com/media/k2/items/cache/ee5f0279f75ffcb53cda826bd0cbceea_M.jpg"
-        width: 375
-        height: 251
+      - url: "https://cdn.bignewsnetwork.com/NTNlM2U1N2UtMDR.jpg"
+        width: 630
+        height: 473
         isCached: true
   - title: "Microsoft announced its first customer product features powered by … – Microsoft"
     excerpt: "At its Build developers conference, Microsoft unveiled its first features in a customer product powered by GPT-3, the powerful natural language model developed by OpenAI, which will help users build apps without needing to know how to write computer code or formulas."

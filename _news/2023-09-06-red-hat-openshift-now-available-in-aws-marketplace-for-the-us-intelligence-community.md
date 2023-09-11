@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Red Hat OpenShift Now Available in AWS Marketplace for the U.S. Intelligence Community"
-excerpt: "and supports a variety of workloads and applications including Artificial Intelligence and Machine Learning (AI/ML) systems, messaging systems, databases, logging and monitoring and more. The Red Hat OpenShift listing in AWS Marketplace for the U.S. IC ..."
-publishedDateTime: 2023-09-06T15:43:00Z
-originalUrl: "https://www.01net.it/red-hat-openshift-now-available-in-aws-marketplace-for-the-u-s-intelligence-community/"
-webUrl: "https://www.01net.it/red-hat-openshift-now-available-in-aws-marketplace-for-the-u-s-intelligence-community/"
+excerpt: "AWS Marketplace includes tools and software ... and supports a variety of workloads and applications including Artificial Intelligence and Machine Learning (AI/ML) systems, messaging systems ..."
+publishedDateTime: 2023-09-06T13:17:00Z
+originalUrl: "https://www.businesswire.com/news/home/20230906254440/en/"
+webUrl: "https://www.businesswire.com/news/home/20230906254440/en/"
 type: article
 
 provider:
-  name: 01Net
-  domain: 01net.it
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "xN5ogYsKuQE9o1Usn5sY52EdPeJXLMLVQBq5Z/eFvhpMCUN7+7o9PnAlL0ZwLcPh7MPVwuwXQ3130BkGSgtGA7eS7QwkDiKgwz2/ZwczHZpaKbN6JKAObn0uzBkZajd/p04V4+sNUF6Cc0Q3Yev9SOvaJsAo6ZNq8tBF9EVDVzD3b1ya4IxbMuxS2NtUakAlwhLMZUKNn8unbVjGEtsEdIaMrgJYKmDwfmJhqoMLEA8yu94sYs5jifvfVCLD8Km958FIDk6C/4z63YnthH8Mm4mAP4KH9blJazVfvTXJDD7wHP0JxCyWyJ4MuMxvqIjso/hvwGJ0k2xGVmW5BAB+c4WHRKlb40lt6vFw0uuxR1U=;E+8eRKeRFk3jTMDkepk/rw=="
+secured: "CpnlLVqfzxhNaSA3TANWHHkR2XdE7rV1r69WGuItkGUw57Vgglb/2iQLNDVIxj4ysPRQo+E8aWZOznJEwkacJEPHZvDV4Ouu1onujRPomU95dX01gOqCB1ob1BgenC1EYl9qaxeDHpCdZy9GNO2uoE0xOQZkKdsqAuNV9A7eg2DFSmqqBzHGh3FMCRsQyAzP4jNNKfyUZVYlvQB9/UOTakZTvjDPbLZHwf7XKkqpUirixiOydhSFR7OAU+8lNvVd8O/oZNSshk5YZ6FOp/Gtb6aE13ofQNXgFn6xxN991UcVQOh5Y3Z567HI2EJiAa+BfS169YRHGkPCu910LyNSuVfXi03u/jdoX7fE/KRFL/A=;4S2RXcefhGhAcn3hoNN+WA=="
 ---
 

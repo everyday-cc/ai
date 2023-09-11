@@ -7,7 +7,7 @@ originalUrl: "https://www.smartcompany.com.au/partner-content/articles/start-you
 webUrl: "https://www.smartcompany.com.au/partner-content/articles/start-your-ai-journey-at-our-exclusive-events/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "US rejects AI copyright for famous state fair-winning Midjourney art"
+    excerpt: "On Tuesday, the US Copyright Office Review Board rejected copyright protection for an AI-generated artwork that won a Colorado State Fair art contest last year because it lacks human authorship required for registration,"
+    publishedDateTime: 2023-09-11T15:12:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/09/us-rejects-ai-copyright-for-famous-state-fair-winning-midjourney-art/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/09/us-rejects-ai-copyright-for-famous-state-fair-winning-midjourney-art/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/us-rejects-ai-copyright-for-famous-state-fair-winning-midjourney-art/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 89
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/08/art_contest_winner-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "nlh6HqTktmLwBP8+kuBXikt8dxB2VEz2XIQqitnWLDqtW3MMJ6GI0v2JkVXHK7cE7InOnBFkC4scOayemy4VvXsdOcGKm/Sup1ZtAXflYhY/R8Sq+2qTddrqkb245AGBEc2HqsncIMf+nyaV2vrUED1w4zJCsufHmvdeEhw2dMtoHxR2jXQripWph3TttygkGZ8UyqDyjq8l/anArsqU28Z02E8+O/m37Y5aMWamkGyaYJJ56hdaJfRBEl5rBYsqzD463//IFwCTFSgsg0KgHa155TJsCyENJPTQtmcbaBzaIy2jESUGmMxlaCEFnZFsmX092XSxNwSFV/vUwKSECAAyW9UCQgCCQRqisJOv1AC5Qott2KZOA0wKul0AH1y2b7iZ58XjoGseORU+C2nfO6sNC4USBWdSeMtJWLuSLIZvvHMEx9qMGDbzXrWQV4ZwzX4ktFxiqAZ9cTCS0eF8/jzKb8PRXpQOPFjHMEShB4Z8OOWV3N0bE11SNkih29dzGXUEbNCbZpSNXFCoz7zt3A==;XSMl0SapM3VPn3E89a5w/Q=="
 ---

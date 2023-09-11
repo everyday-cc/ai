@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-08-tencent-latest-to-join-chinas-genai-race-with-foundation-model-for-enterprises.md",
+      "title": "Tencent latest to join China's GenAI race with foundation model for enterprises",
+      "excerpt": "Called Hunyuan, Tencent's foundation AI model is available for Chinese organziations to test and build their own applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/tencent-latest-to-join-chinas-genai-race-with-foundation-model-for-enterprises/",
+      "originalUrl": "https://www.zdnet.com/article/tencent-latest-to-join-chinas-genai-race-with-foundation-model-for-enterprises/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/0c19a1df65ed28c065d3b48a1be0878897b01cb9/2022/01/13/9eafb7e5-f1f9-4369-a375-256b197f5a21/shutterstock-1732038682.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/tencent-latest-to-join-chinas-genai-race-with-foundation-model-for-enterprises/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tencent-latest-to-join-chinas-genai-race-with-foundation-model-for-enterprises/",
+      "publishedDateTime": "2023-09-08T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-08-generative-ai-meet-your-partner-in-customer-service.md",
+      "title": "Generative AI: Meet your partner in customer service",
+      "excerpt": "Identify specific problems that AI can help solve so you can begin to realize its limits, challenges, and undeniable advantages.\nThe post Generative AI: Meet your partner in customer service appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/generative-ai-meet-your-partner-in-customer-service/",
+      "originalUrl": "https://www.ibm.com/blog/generative-ai-meet-your-partner-in-customer-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/09/Generative-AI-Meet-your-partner-in-customer-service.jpg",
+          "width": 2400,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-08T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-08-what-technology-analysts-are-saying-about-the-future-of-generative-ai.md",
       "title": "What technology analysts are saying about the future of generative AI",
       "excerpt": "According to 2023 research, most people are concerned about the implications of generative AI on data security, ethics, and bias. In fact, 81% of customers want a human to be in the loop, reviewing and validating generative AI outputs. A mere 37% of ...",
@@ -10,7 +114,7 @@
       "originalUrl": "https://www.zdnet.com/article/what-analyst-are-saying-about-the-future-of-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -50,57 +154,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-my-5-favorite-ai-tools-for-school-class-is-in-session-and-generative-ai-can-help.md",
-      "title": "My 5 favorite AI tools for school: Class is in session, and generative AI can help",
-      "excerpt": "During last year's back-to-school season, ChatGPT had not yet been unveiled, and generative AI wasn't on everyone's radar. However, today, the topic is more popular than ever, and new helpful AI tools for students are released daily.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/my-5-favorite-ai-tools-for-school-class-is-in-session-and-generative-ai-can-help/",
-      "originalUrl": "https://www.zdnet.com/article/my-5-favorite-ai-tools-for-school-class-is-in-session-and-generative-ai-can-help/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/949a661a78ead34fee854ac7a7d758e36b74306a/2023/09/07/1c6fb698-f446-4f99-87ef-04b1c12e5445/gettyimages-1467277901.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/my-5-favorite-ai-tools-for-school-class-is-in-session-and-generative-ai-can-help/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/my-5-favorite-ai-tools-for-school-class-is-in-session-and-generative-ai-can-help/",
-      "publishedDateTime": "2023-09-08T00:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -207,6 +260,58 @@
       ]
     },
     {
+      "path": "_news/2023-09-08-welcome-to-the-robot-soundscape-australias-music-industry-braces-for-the-rise-of-music-ai.md",
+      "title": "Welcome to ‘the robot soundscape’: Australia’s music industry braces for the rise of music AI",
+      "excerpt": "The spectre of intelligent technologies is looming over Australian artists, and dominating the chatter at Brisbane’s Bigsound music conference",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/music/2023/sep/08/ai-music-bigsound-brisbane-ai-dj-spotify-beatles",
+      "originalUrl": "https://www.theguardian.com/music/2023/sep/08/ai-music-bigsound-brisbane-ai-dj-spotify-beatles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/06725909ead3f251a99ee29b980421c8e1732af2/0_97_2200_1320/master/2200.jpg?width=620&quality=85&auto=format&fit=max&s=71feb5e47fb311dad011f56049daf6bf",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/music/2023/sep/08/ai-music-bigsound-brisbane-ai-dj-spotify-beatles",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/music/2023/sep/08/ai-music-bigsound-brisbane-ai-dj-spotify-beatles",
+      "publishedDateTime": "2023-09-07T21:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-09-08-ai-firm-brand-engagement-network-to-go-public-via-spac-deal.md",
       "title": "AI firm Brand Engagement Network to go public via SPAC deal",
       "excerpt": "NEW YORK, Sept 7 (Reuters) - Artificial intelligence startup Brand Engagement Network (BEN ... The popularity of ChatGPT has led to a flurry of investments in AI-focused ventures and startups, even as the wider funding environment remains challenging.",
@@ -300,49 +405,6 @@
       ]
     },
     {
-      "path": "_news/2023-09-08-health-care-providers-say-artificial-intelligence-could-transform-medicine.md",
-      "title": "Health care providers say artificial intelligence could transform medicine",
-      "excerpt": "HEALTH CARE PROVIDERS. HERE’S NICOLE. THE PROFOUND SHIFT THAT ARTIFICIAL INTELLIGENCE IS HAVING AND WILL HAVE ON THE FIELD OF MEDICINE CANNOT BE QUANTIFIED. BUT WHAT CAN BE MEASURED IS ONE OF THE MOST SERIOUS ISSUES FACING HEALTH CARE. WE KNOW THAT THERE ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wcvb.com/article/health-care-providers-say-artificial-intelligence-could-transform-medicine-1694113490/45038212",
-      "originalUrl": "https://www.wcvb.com/article/health-care-providers-say-artificial-intelligence-could-transform-medicine-1694113490/45038212",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/vidthumb/9160962b-fb55-48b9-9f1e-fbefe8f25c2d/d2be8e28-8472-4716-8cef-fd7499ad2c20.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wcvb.com/amp/article/health-care-providers-say-artificial-intelligence-could-transform-medicine-1694113490/45038212",
-      "cdnAmpWebUrl": "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/health-care-providers-say-artificial-intelligence-could-transform-medicine-1694113490/45038212",
-      "publishedDateTime": "2023-09-07T17:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WCVB Channel 5 Boston",
-        "domain": "wcvb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-08-this-week-in-xr-the-ai-copyright-mess-nintendo-back-in-xr-game-text-to-3d-virtual-worlds-by-hiber3d.md",
       "title": "This Week In XR: The AI Copyright Mess, Nintendo Back In XR Game, Text to 3D Virtual Worlds By Hiber3D",
       "excerpt": "This may be the venerated Montreal XR Studio's best work yet. Venice Film Festival ‘Seven Ravens’ Mixed Reality Masterpiece Premieres At Venice Film Festival. Award-winning im",
@@ -403,7 +465,7 @@
       "originalUrl": "https://www.techspot.com/news/100076-startup-ai-made-3d-models-2d-art-actually.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -897,7 +959,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34317861/artificial-intelligence-ai-robots-market-size-trend-analysis-2023-2030",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -1172,58 +1234,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-microsoft-to-reveal-ai-plans-for-onedrive-in-october-event.md",
-      "title": "Microsoft to reveal AI plans for OneDrive in October event",
-      "excerpt": "Mark your calendar if you want a \"sneak peek\" at how AI will fuel new search, sharing, and queries for your OneDrive files.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-to-reveal-ai-plans-for-onedrive-in-october-event/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-to-reveal-ai-plans-for-onedrive-in-october-event/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 354,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/52621c88ff4f85caa000cfcdc623220ec0f8ea17/2023/09/07/3d33de39-0d04-4ce2-9326-cfb83bf94a84/onedrive-event.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-to-reveal-ai-plans-for-onedrive-in-october-event/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-reveal-ai-plans-for-onedrive-in-october-event/",
-      "publishedDateTime": "2023-09-07T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

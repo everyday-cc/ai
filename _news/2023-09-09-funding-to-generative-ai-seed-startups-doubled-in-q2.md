@@ -7,7 +7,7 @@ originalUrl: "https://vator.tv/news/2023-09-08-funding-to-generative-ai-seed-sta
 webUrl: "https://vator.tv/news/2023-09-08-funding-to-generative-ai-seed-startups-doubled-in-q2"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -18,22 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "$110M In Funding Will Help d-Matrix Get Generative AI Inference Platform To Market"
-    excerpt: "made possible by testing on earlier chips that demonstrated the in-memory architecture. d-Matrix roadmap: all roads lead to Corsair, the company's first scalable AI solution. \"We're entering the production phase when large language model (LLM) inference ..."
-    publishedDateTime: 2023-09-06T20:28:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2023/09/06/110m-in-funding-will-help-d-matrix-get-generative-ai-inference-platform-to-market/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/09/06/110m-in-funding-will-help-d-matrix-get-generative-ai-inference-platform-to-market/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/09/06/110m-in-funding-will-help-d-matrix-get-generative-ai-inference-platform-to-market/amp/"
+  - title: "Silicon Valley startups lean into AI boom"
+    excerpt: "Why it matters: AI is the hottest technology right now, but the current boom has become equal parts innovation and marketing. Zooming in: Among YC's AI startups, most seem to be focused on providing tools for developing, integrating and managing machine learning and other AI tech."
+    publishedDateTime: 2023-09-09T16:30:00Z
+    webUrl: "https://www.axios.com/2023/09/09/startups-ai-venture-capital"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 83
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64f8a35ebb4b3e7bae86eae0/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 579
-        isCached: true
+      name: Axios
+      domain: axios.com
+    quality: 17
 
 secured: "Oa3rbjtV/tCW4xIbO7zIMwi8pWZa9u2QvDdrGKjaYMSee/Pt1aiJLRsimw3hPB30IqpQUjYCoIjcSQQApwy2cEzQbUd2xwsfSjY3GNEWFCHchJfdwJKYTyjI5/93xoCd7EsRmJWKUD6ksbpsoMgqfnHYI5USx6UjueLSJsplKDLpycRiZD6iecliPSfvnjUySHJUknhtf1qbYvYk1AgHEr1zng66f0RwB36Hhq0sE17wXnEE83dl43mwwyIdK3GZMP122vvix9he66d55RtCJl/RBOAaFXKYvIPIdhyiY+FBlHCluB5rQEJxbLwWXIl5jS8dfBp3ePvgaxptu+Aqr4tGnaa1LSA7IZDgYG8z/ZQTN/vlxE6cWThvpuwtF2jR5qdPrDYaSeMMq3E7B39KstYqf9EUaa9dae5AbHUewV/jTeh8l+GCh+ULoxJq+cUFURXggCaScAbnM0stekeby3P6zLeV/ryGlPikLJkoxiALA59uPc1ZpJUZ1OHQn7TUIl4mk6+4pVvD4jtuciN9VQ==;dwHmO9uY5wh+tb1uLnUjpA=="
 ---

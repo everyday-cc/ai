@@ -50,6 +50,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Revolutionizing The Hospitality Industry With Artificial Intelligence"
+    excerpt: "By harnessing the power of AI, hoteliers can revolutionize the guest experience, personalize service, streamline operations and bring more to the bottom line."
+    publishedDateTime: 2023-09-11T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/11/revolutionizing-the-hospitality-industry-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "3xCaFlvDkjhbD0Z7winI25QHHPP1Wge+DQwKUnFltu/W80glUzfFbdZzCk85ZVLeGEFqLcJDhCk79+6OVNntdQHEfU+7RrKCogdeZ8Taf3rJCTa6QOGcyYpHUx5Rpj6+AASepUytTxfjJsrEFVybrK4ExrXX36E3brQhr3cxMs5LL1wP9K9NEJCb8W/QEoucJYegSjENEdC2auW2TGmTba2gY0yT7XSIAgeh3+AXyBUVIEO6+4noMFhr1aO5gJugnhVdB/v8yyWx6C4qCYry6PvPUxSvhC2ogpx5z/V3pYNWVJKaXZLh3BY7igQNn/L64/2ewf7chcLQPOmr1tcjH1EbXn5fvqofWTiJsOhw5Qs=;Klg+39Jx0X7HGTb/64I/VA=="
 ---

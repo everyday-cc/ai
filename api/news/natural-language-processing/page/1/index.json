@@ -254,49 +254,6 @@
       ]
     },
     {
-      "path": "_news/2023-09-06-with-ai-future-of-hearing-aids-might-include-language-translation.md",
-      "title": "With AI, future of hearing aids might include language translation",
-      "excerpt": "Sawalich says, \"If somebody falls, it'll text up to three people.\" They can also translate foreign languages. These AI hearing aids recalibrate up to 80 million times an hour, allowing them to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.guampdn.com/news/national/with-ai-future-of-hearing-aids-might-include-language-translation/video_0471ba7b-8f06-505f-b6d0-fe970b47c741.html",
-      "originalUrl": "https://www.guampdn.com/news/national/with-ai-future-of-hearing-aids-might-include-language-translation/video_0471ba7b-8f06-505f-b6d0-fe970b47c741.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/guampdn.com/content/tncms/assets/v3/editorial/0/47/0471ba7b-8f06-505f-b6d0-fe970b47c741/64f77e6adc556.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-05T21:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pacific Daily News",
-        "domain": "guampdn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-06-top-10-conversational-ai-platforms-2023.md",
       "title": "Top 10 Conversational AI Platforms 2023",
       "excerpt": "$0.00075 per text request Built on deep learning, machine learning, and natural language processing (NLP) models, the IBM Watson Assistant conversational AI platform enables your teams to build AI-powered voice agents and chatbots that deliver automated ...",
@@ -347,6 +304,49 @@
         "IBM AI",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-09-06-with-ai-future-of-hearing-aids-might-include-language-translation.md",
+      "title": "With AI, future of hearing aids might include language translation",
+      "excerpt": "Sawalich says, \"If somebody falls, it'll text up to three people.\" They can also translate foreign languages. These AI hearing aids recalibrate up to 80 million times an hour, allowing them to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wyomingnews.com/news/national/with-ai-future-of-hearing-aids-might-include-language-translation/video_a29c183a-5613-5e23-8999-104e6725abd1.html",
+      "originalUrl": "https://www.wyomingnews.com/news/national/with-ai-future-of-hearing-aids-might-include-language-translation/video_a29c183a-5613-5e23-8999-104e6725abd1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/a/29/a29c183a-5613-5e23-8999-104e6725abd1/64f77ead551b6.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-05T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wyoming News",
+        "domain": "wyomingnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {

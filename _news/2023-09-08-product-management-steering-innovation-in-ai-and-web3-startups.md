@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/08/product-ma
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/08/product-management-steering-innovation-in-ai-and-web3-startups/amp/"
 type: article
 quality: 87
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 49
+  - title: "How wealth management can apply AI … intelligently"
+    excerpt: "Used as directed, superbots are particularly well suited to the needs of financial advisory firms, argues the founder and CEO of TIFIN."
+    publishedDateTime: 2023-09-07T10:01:00Z
+    webUrl: "https://www.financial-planning.com/opinion/best-practices-for-wealth-management-firms-to-apply-ai-intelligently"
+    type: article
+    provider:
+      name: Financial Planning
+      domain: financial-planning.com
+    quality: 39
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/cf91b7e/2147483647/strip/true/crop/1277x670+0+57/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F99%2F27%2F2a1039c74a2598d92cce519babf4%2Fvinay-nair-tifin-2023.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Dw90KfHwaXxM5fbfeVLNEMoROlXCBIwq/qUKZjSxxsRRNXb0mRWODTJ3s2belMDY/heIfij72BuX1//4Jrdd7GPFTdSVrq3IZw2ojFAD0e8SB6qo+YuX+PSz6E0e0+5Pi7HtERGBmixf56x70N0FbwvWUytKbrBvYXcb0+u7wqXaYX2HMC6XaLzFGIYXCaAUAbkCHiTQScY6LAoCtxJOLd+FAlwPSm56f7yURYhQMwPrmDK/6T1EuF/Mmewqw6+d9c3HQiiWxU6/7UzXXJktl0xcVO7dn3J2Wdcnwnjs22hIu9YgoLyTw5ONi+tJRifBxh22dhY32h0/ahfP/uQj5bdkYf36o+6ktDJCbbly/do=;x5/xJcP7zutUYgyI+AgxFQ=="
 ---

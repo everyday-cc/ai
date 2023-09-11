@@ -111,6 +111,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Nvidia's dominance in AI chips deters funding for startups"
+    excerpt: "Nvidia's supremacy in building computer chips for artificial intelligence has chilled venture funding for would-be rivals, investors said, with the number of U.S. deals this quarter falling 80% from a year ago."
+    publishedDateTime: 2023-09-11T13:05:00Z
+    webUrl: "https://www.aol.com/news/nvidias-dominance-ai-chips-deters-100502653.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 17
   - title: "US chipmaker Nvidia, Reliance to develop a large AI language model for India"
     excerpt: "Nvidia will provide computing power for the project, while Reliance will develop AI apps, including a local language app for farmers to access weather info and crop prices."
     publishedDateTime: 2023-09-08T05:07:00Z

@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/09/11/the-future-
 ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/09/11/the-future-of-artificial-intelligence-predictions-and-trends/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/09/11/the-future-of-artificial-intelligence-predictions-and-trends/amp/"
 type: article
-quality: 87
-heat: 107
+quality: 89
+heat: 109
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/601970d9c8203051a4c3b134/0x0.jpg?format=jpg&width=1200"
@@ -61,6 +62,6 @@ related:
         height: 630
         isCached: true
 
-secured: "0EjcwQyMX3xVlb0fPIg6zwPsoJEIUg+KgB63FgQUYSFC/8EEYxWr5I5J12CKbdXtHZw4aSPMkZVK5l1iLD5W2SqMZ+uqEe/NQAIq3uGVQcJqFPe1yI6GGG9WFfiQEdtcaF32Vmgsj11krTxXsZRgFeS3GbayjGeGIW301LMQWdCA8yg/3hiYpW6iUNc0egzp3agGDgALIZMnbMujeMOVJ1VsM1m+rK9b4Oi4HfPFEcPMiXh1zPZkKePLhmERyoNn/y22fbjn8JsoyZT9gU2wuKV+mghbTyiBcnWEpImHfzlYzLcfLfNa9+/u1KWSd6iqm6IhWr91gfnLDWhWtq0aW7bUPl8Z2poOdDUnU9i9R6k=;vaxRf0TW3Uvbfi8i56kYEA=="
+secured: "/8vIeem3ZQfjh7ycn77apP8yGDtNU/hguA+BZX3tFWNFv5GtT4erMdpzZ3A2cbeP9hwUTp7cDFg724cSAcpGDWgA6u8WGT+lgYNN8XGOUVs5GREzQ7pXZdvkmuadYbHboq8jC6oYLnU/MKecCifb4CjOw5T4SBvpieokz2eHdYG+NbPqcilwvSV5eGlcwpXJEO/O7FfaauYS0+oSw7dLW+TgJuQ270lUrxzRQAtXsCemM1XREAFteYz3oOKTDfid27yAnNZsOGJQrPbvqKKV6bqiXtGvbTmgr3FPfMS4/Ser4B8d1YMdW7qewMtS0Vih9mFsoMPYaxFUvWFh/O2r1ePSOXAgqoDGUfHOSSXvk9tou80g51J8kpWoF/qgSZTw7Qcw74KddWXj9kSmAI+1rL/ikjH3Uy123aoBaYesGSAH6B4MqWTl/qp3vTLvP8Gc4H0s+Bs2c9UxK5TYgmKTTIfhZFxXgpMpsEOZK8fhQFcYdFBRUfaziVdqkgCo8QPO3FKmTJ2M5cIrNnbcv3nSAw==;NPfjBFZpUaQRyvwEIdYDAA=="
 ---
 

@@ -55,20 +55,24 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "InterVision® Announces Multi-Year Strategic Collaboration Agreement with AWS"
-    excerpt: "InterVision, a national, leading cloud and managed services provider, today announced that it has signed a multi-year Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS). This collaboration with AWS fuels InterVision's strategy and vision to expand and accelerate cloud adoption and modernization across its public sector and commercial customer base and beyond."
-    publishedDateTime: 2023-09-06T19:38:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/intervision-announces-multi-year-strategic-collaboration-agreement-with-aws/article_287adc55-0ba1-5dfe-a5c6-80d78ab3292d.html"
+  - title: "Teradata adds ask.ai generative AI assistant to VantageCloud Lake"
+    excerpt: "Enterprises will be able to use the ask.ai natural language assistant to ask questions about their data from within Teradata’s multicloud analytics platform."
+    publishedDateTime: 2023-09-11T13:00:00Z
+    webUrl: "https://www.infoworld.com/article/3706376/teradata-adds-ask-ai-generative-ai-assistant-to-vantagecloud-lake.html"
     type: article
     provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 36
-    images:
-      - url: "http://static.cnhionline.com/joplinglobe/jmag/jmag-cover-july-2023.jpg"
-        width: 437
-        height: 563
-        isCached: true
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 49
+  - title: "Teradata Launches ask.ai, Brings Generative AI Capabilities to VantageCloud Lake"
+    excerpt: "The new natural language interface, now in private preview, delivers the ease of use required to democratize cloud analytics."
+    publishedDateTime: 2023-09-11T13:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230911090555/en/Teradata-Launches-ask.ai-Brings-Generative-AI-Capabilities-to-VantageCloud-Lake"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 14
 
 secured: "YBXRChK6aymwWvT4H9+I0zsV4KLZ4jDrBLOG96Rfsdy++kM0trQnepIJdNnSU7XTJdGl7y0xsFzAfXGjhPla9JXfL02SgjVjjWl+79Xt9Kx2Ys/wR/kETrA+yBrgmL9tKkldj/8KsSJ5yurFwXDHlv+cOEWMB9KB6Jj1kqZIRbd7KT6J4liUVB4MXD+MMGJCeEvIgheCvbzqF67n1tAAx5lFXs1knzDWtVyXGLA25gMtuk0udmJOjXyfssUXgStmrY4slHd3tJJVgLRLCzcM8/srcxgPvKiv3VwMruebEUlmp8ZZ4hY7nHh6kU616avEUyjUfYQnKhj3W9v8EzhByNneeo40q4ggggwXpyQq1zbg+f7/b1//Pb73SR9BMRhqf1pP/23OAAnxfTedNYhiuWwbIcX24Pkt4yxkUd6ACiK9Hpy8/Gsw+vVxapSIYlXqGQdilozmFP3ybvu5F8FyFCI142gEJxsWBN9d78/A07u9V8ZZgDZR0D8eRWDMO+McSjVNrVrvH4kYZiFygTkc+A==;hJzxg2zLRgT0NNfYKgUTIw=="
 ---

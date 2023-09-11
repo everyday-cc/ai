@@ -26,24 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tata partners with Nvidia to build AI supercomputer, cloud infrastructure"
-    excerpt: "Tata Communications and Nvidia will develop an AI cloud in India aimed at providing critical infrastructure that enables computing's next lifecycle. Tata Communications' robust gl"
-    publishedDateTime: 2023-09-08T15:46:00Z
-    webUrl: "https://www.business-standard.com/companies/news/tata-partners-with-nvidia-to-build-ai-supercomputer-cloud-infra-123090801251_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 18
-  - title: "After Reliance, Tata Group set to announce AI partnership with NVIDIA: Report"
-    excerpt: "Hours after billionaire Mukesh Ambani-led Reliance Industries Limited on 8 September announced to partner with US-based chipmaker NVIDIA, reports arrived that Tata Group is set to announce an AI partnership with the same US chipmaker. An announcement is expected later in the day, reported Reuters citing a source."
-    publishedDateTime: 2023-09-08T12:49:00Z
-    webUrl: "https://www.livemint.com/companies/news/after-reliance-tata-group-set-to-announce-ai-partnership-with-nvidia-report-11694177201093.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 16
   - title: "Reliance Jio collaborates with Nvidia for AI infrastructure; hints at a possible homegrown generative AI"
     excerpt: "Reliance Jio partners with Nvidia to set up cloud-based AI infrastructure in India. The partnership will enable researchers, developers, startups, scientists, AI practitioners, and others to access accelerated computing and secure cloud networking."
     publishedDateTime: 2023-09-08T12:45:00Z

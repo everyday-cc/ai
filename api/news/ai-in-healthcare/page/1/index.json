@@ -45,49 +45,6 @@
       ]
     },
     {
-      "path": "_news/2023-09-08-health-care-providers-say-artificial-intelligence-could-transform-medicine.md",
-      "title": "Health care providers say artificial intelligence could transform medicine",
-      "excerpt": "HEALTH CARE PROVIDERS. HERE’S NICOLE. THE PROFOUND SHIFT THAT ARTIFICIAL INTELLIGENCE IS HAVING AND WILL HAVE ON THE FIELD OF MEDICINE CANNOT BE QUANTIFIED. BUT WHAT CAN BE MEASURED IS ONE OF THE MOST SERIOUS ISSUES FACING HEALTH CARE. WE KNOW THAT THERE ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wcvb.com/article/health-care-providers-say-artificial-intelligence-could-transform-medicine-1694113490/45038212",
-      "originalUrl": "https://www.wcvb.com/article/health-care-providers-say-artificial-intelligence-could-transform-medicine-1694113490/45038212",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/vidthumb/9160962b-fb55-48b9-9f1e-fbefe8f25c2d/d2be8e28-8472-4716-8cef-fd7499ad2c20.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wcvb.com/amp/article/health-care-providers-say-artificial-intelligence-could-transform-medicine-1694113490/45038212",
-      "cdnAmpWebUrl": "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/health-care-providers-say-artificial-intelligence-could-transform-medicine-1694113490/45038212",
-      "publishedDateTime": "2023-09-07T17:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WCVB Channel 5 Boston",
-        "domain": "wcvb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-08-artificial-intelligence-a-love-story.md",
       "title": "Artificial intelligence: A love story",
       "excerpt": "It was set in a candy-colored dystopian future, one in which people murmur into wireless earbuds on the subway and rely on artificial intelligence engines to keep them organized and control their ...",
@@ -279,6 +236,41 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-06-artificial-intelligence-the-future-is-now.md",
+      "title": "Artificial Intelligence: The Future is NOW",
+      "excerpt": "Companies and Investors are very focused on Artificial Intelligence. We think it is a significant, durable theme. The big tech companies are likely to have a competitive advantage, in our view.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/artificial-intelligence%3A-the-future-is-now",
+      "originalUrl": "https://www.nasdaq.com/articles/artificial-intelligence%3A-the-future-is-now",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
       ]
     },
     {

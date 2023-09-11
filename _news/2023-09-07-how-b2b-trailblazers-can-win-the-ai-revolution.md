@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/09/07/how-b2b-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/09/07/how-b2b-trailblazers-can-win-the-ai-revolution/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Revolutionizing The Hospitality Industry With Artificial Intelligence"
+    excerpt: "By harnessing the power of AI, hoteliers can revolutionize the guest experience, personalize service, streamline operations and bring more to the bottom line."
+    publishedDateTime: 2023-09-11T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/11/revolutionizing-the-hospitality-industry-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "The AI Revolution to Put 2.4 Million Jobs at Risk in the US by 2030"
     excerpt: "A new Forrester report suggests that Generative AI might replace 2.4 million US jobs by 2030, including proofreaders and administrative roles."
     publishedDateTime: 2023-09-07T22:30:00Z

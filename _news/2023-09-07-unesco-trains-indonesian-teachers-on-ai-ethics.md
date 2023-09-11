@@ -41,6 +41,15 @@ related:
         width: 534
         height: 462
         isCached: true
+  - title: "Governments Must Quickly Regulate Generative Ai In Schools, Unesco"
+    excerpt: "designed to address the disruptions caused by Generative AI technologies. Building on UNESCO's 2021 Recommendation on the Ethics of Artificial Intelligence and the 2019 Beijing Consenon Artificial Intelligence in Education , the guidance promotes human ..."
+    publishedDateTime: 2023-09-08T19:43:00Z
+    webUrl: "https://menafn.com/1107035192/Governments-Must-Quickly-Regulate-Generative-Ai-In-Schools-Unesco"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
   - title: "UNESCO recommends age limit of 13 for classroom artificial intelligence use"
     excerpt: "This guidance lists a seven-step recommendation which includes regulations on data, generative AI, and AI ethics, along with updates to current copyright laws and whole-of-government strategies regarding the technology. It also acknowledged what it called ..."
     publishedDateTime: 2023-09-07T19:57:00Z

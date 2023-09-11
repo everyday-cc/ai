@@ -117,6 +117,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Meta developing new, more powerful AI system, WSJ reports"
+    excerpt: "Meta Platforms (META.O) is working on a new artificial-intelligence system intended to be as powerful as the most advanced model offered by OpenAI, the Wall Street Journal reported on Sunday, citing people familiar with the matter."
+    publishedDateTime: 2023-09-11T12:47:00Z
+    webUrl: "https://www.ariananews.af/meta-developing-new-more-powerful-ai-system-wsj-reports/"
+    type: article
+    provider:
+      name: Ariana News
+      domain: ariananews.af
+    quality: 19
 
 secured: "4fksigOveMtw8bTQ4IizkJOl4di4knkNmpCx3pNvgj5UwNjeDQ0dYgrnjGEPI4YiDhTta583uKAn6FuUUSrN6Pp0pCPdWE31Bwb4QMjZEW1KuZEtG08kx1SrKNhLkODyPmaMNK6/2elIeJRlvdjxbZmZP/1jO51Qi6JGvT76kZMNo0yDojFDDzeDZ4VRkx9ETVXU9Rqrj2Y4ycroHMjdljUi+B8PrGuoF5vTBXL2CNInJzgpju41nwG9yb41fM3cSpINahJTXB9nea8cLV4kyK1R2WQxjp2kTCWcQ+6wf/ipFuxEq0G19uuEcZdXW1rKsR4DgmDV63S0HEc8srctKwJ9umVqPWSgN4zjHOBGnRk=;FOfDUmUT0Ao+Q5/hOocFpQ=="
 ---

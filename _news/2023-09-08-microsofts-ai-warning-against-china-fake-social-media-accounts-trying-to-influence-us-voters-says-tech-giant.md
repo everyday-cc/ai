@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "GPU Alternative d-Matrix Raises $110 Million for AI Inference"
-    excerpt: "GPU Alternative d-Matrix Raises $110 Million for AI Inference Your email has been sent Microsoft's venture group is among d-Matrix's supporters, investing in making ..."
-    publishedDateTime: 2023-09-06T20:36:00Z
-    webUrl: "https://www.techrepublic.com/article/gpu-alternative-d-matrix-raises-110-million-for-ai-inference/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 84
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/09/tr_09062023-gpu-alternative-d-matrix-raises-110-million-for-ai-inference.jpg"
-        width: 1400
-        height: 900
-        isCached: true
   - title: "Microsoft says it will defend customers of its AI Copilots from copyright lawsuits"
     excerpt: "The tech giant is integrating many of its biggest products with generative AI, which scoops up existing content to create new material, potentially putting customers in legal jeopardy."
     publishedDateTime: 2023-09-08T02:43:00Z
@@ -115,20 +101,6 @@ related:
       - url: "https://www.chiangraitimes.com/wp-content/uploads/2023/09/Beijing-Denies-Microsofts-Claims-China-is-Using-AI-to-Target-US-Voters-1000x600.jpg"
         width: 1000
         height: 600
-        isCached: true
-  - title: "Gen AI Chip Startup d-Matrix Announces $110M in Series B Funding"
-    excerpt: "Gerative AI chip startup d-Matrix has closed $110 million in a Series-B funding round led by Singapore-based global investment firm Temasek. The goal of the fundraise is to enable d-Matrix to begin commercializing Corsair,"
-    publishedDateTime: 2023-09-06T21:16:00Z
-    webUrl: "https://insidehpc.com/2023/09/gen-ai-chip-startup-d-matrix-announces-110m-in-series-b-funding/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 54
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2023/07/Dell-Technologies-logo-square-0723.png"
-        width: 312
-        height: 207
         isCached: true
   - title: "Suspected Chinese operatives using AI generated images to spread disinformation among US voters, Microsoft says"
     excerpt: "Suspected Chinese operatives have used images made by artificial intelligence to mimic American voters online in an attempt to spread disinformation and provoke discussion on divisive political issues as the 2024 US election approaches,"

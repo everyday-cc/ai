@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/09/08/zoom-unveils-ne
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/09/08/zoom-unveils-new-ai-companion-features/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
     quality: 67
     images:
       - url: "https://www.cnet.com/a/img/resize/c66165b74f6021d0782637aebf6aa6387fc41627/hub/2022/04/15/a4b504ed-a603-4f7b-be7b-f04269a18872/slack-logo-2022-236.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Zoom's New 'AI Companion' Will Catch You Up When You're Late to Meetings"
-    excerpt: "The generative AI tool has multiple new updates, and will soon be available at no extra cost if you already pay for Zoom."
-    publishedDateTime: 2023-09-06T21:21:00Z
-    webUrl: "https://www.cnet.com/tech/services-and-software/zooms-new-ai-companion-will-catch-you-up-when-youre-late-to-meetings/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 66
-    images:
-      - url: "https://www.cnet.com/a/img/resize/089c254824ce38bdca6979888a458669a1817baf/hub/2023/09/05/e7503035-ec6e-4548-99e5-5d68976361ab/gettyimages-1211208100.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true

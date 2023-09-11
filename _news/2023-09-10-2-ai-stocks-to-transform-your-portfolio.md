@@ -48,21 +48,16 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "How to Unlock Your Business Potential with Artificial Intelligence"
-    excerpt: "One game-changing tool that has taken the business world by storm is artificial intelligence (AI). From streamlining operations to enhancing customer experiences, AI holds immense potential for your business. In this article, we'll explore how you ..."
-    publishedDateTime: 2023-09-08T10:27:00Z
-    webUrl: "https://www.inc.com/sean-kim/how-to-unlock-your-business-potential-with-artificial-intelligence.html"
+  - title: "Three Artificial Intelligence Stocks Under $10"
+    excerpt: "After peaking at $9.75 in 2021 the company is now “exploring strategic alternatives”, which is street-speak for trying to find a buyer."
+    publishedDateTime: 2023-09-11T13:44:00Z
+    webUrl: "https://www.cantechletter.com/2023/09/three-artificial-intelligence-stocks-under-10/"
     type: article
     provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1495300562_533575_xxmfdk.jpg"
-        width: 1024
-        height: 576
-        isCached: true
+      name: Cantech Letter
+      domain: cantechletter.com
+    quality: 21
 
-secured: "B1P+B4l93s5ZMbed/sGwYxd9+oMLoXGFVOtEMCu7CwYJMV39O4OiA/et+AFpoOjkTZQgIKqaANWGUXuvR71jrkQnmXuoh0jF9pjV8nj6BJOimkiFvfCAwBMDl+gw7jQsJDAlUIHv7iQ0Vbn4rOtRfylOS5x7UzKVbLDmFeMlsFARmj4oSp6kzf0sN0p7qqXqkt9TvSkFVcf43iVc20kPqHXTAFja/AYNrYXh3WSozRL75n+RHqXgcURwwJMsM06jDRkLQ7ybXlYdAekOENhicuwBwpCVVBihmLWJwJi5AAbSGgR2vTe7A6NCyBOFVHswQKVpIc1xNRpAqcYL4u1w5NJ3MDlN2r0kPQGWoiIbdAg=;1vyrNUDiBHok8hh3t6NzWg=="
+secured: "rC6+euD/Jfb+UbduVHlP8r3vI9Bxq8ZhGYOO1dT+XgHavSSBWuNsoiAxA4pSUQ7IBLsKuPKqVu1QoKhunSpUq1/bHZu5vqa85vhbLP9yZMeeLw2+YWUT4lmt430jywgqlJhVBTxLUpPM1zA3mGnnPNPboDuKjXtYgxRRI1dHbzhhX15L7J6TTS3lspoNXVu1FHWcD62i4NLEMy9ImEEVZnK4gCDChE1ix9fqkjtWk8QV221KszX4o6QShkh55Yo7TFPA+vdtwPbyA2ZoZw7MJ2cDfx2+g8iGXOadLYVVwreSXwXjwQ6hwppTcKvE2wcq2USsGXMrJ+qQABCq1ETDVObJ+uCcUk0WirYqXOo3bulX6dBkm920ZWvnxfDsW4RQ1kfq/M4w7iiVe4wfXYxqrsv9gZpa7vYwcbQ4ZtwmTAXIs5K3yH2iSDjB8ZvartxwPh56QkwMYduClvAzRQRsIuEHs8eY6hWqAtClQwZ+gAAUFqynsbc2q88HrsV5LKXAYHot9xv/dnSIuqCygIWByg==;PN8Rg5OM4opR4mPc8sQ33Q=="
 ---
 

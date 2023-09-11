@@ -28,6 +28,54 @@ images:
     isCached: true
 
 related:
+  - title: "Back To School With AI"
+    excerpt: "Exploration and adoption of artificial intelligence should be intentional not incidental. Mindful, not mindless."
+    publishedDateTime: 2023-09-11T14:55:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/09/11/back-to-school-with-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/09/11/back-to-school-with-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/09/11/back-to-school-with-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64ff285cce8677245973b63c/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "How to create your own comic books with AI"
+    excerpt: "Can't draw? No problem. The AI Comic Factory will generate comic book panels and pages based on your descriptions."
+    publishedDateTime: 2023-09-11T14:33:00Z
+    webUrl: "https://www.zdnet.com/article/how-to-create-your-own-comic-books-with-ai/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-create-your-own-comic-books-with-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-create-your-own-comic-books-with-ai/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/19574269e5cd2e2aca58a49d3e037ffe269947d1/2023/09/11/3ed5d18c-4f4e-41de-baea-37cb0fcd0102/figure-top-how-to-use-ai-to-create-your-own-comic-books.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Hundreds of schools across U.S. using AI to help detect guns"
+    excerpt: "Hundreds of schools across the United States are using an artificial intelligence system that is designed to detect guns and prevent mass shootings. NBC News’ Rehema Ellis has a closer look at how the technology works."
+    publishedDateTime: 2023-09-10T23:19:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/hundreds-of-schools-across-u-s-using-ai-to-help-detect-guns-192654405889"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo192654405889"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo192654405889"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_09/1694387934266_nn_rel_ai_school_security_230910_1920x1080-svvab6.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "My 5 favorite AI tools for school: Class is in session, and generative AI can help"
     excerpt: "During last year's back-to-school season, ChatGPT had not yet been unveiled, and generative AI wasn't on everyone's radar. However, today, the topic is more popular than ever, and new helpful AI tools for students are released daily."
     publishedDateTime: 2023-09-08T07:26:00Z
@@ -44,15 +92,43 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Governments Must Quickly Regulate Generative Ai In Schools, Unesco"
-    excerpt: "designed to address the disruptions caused by Generative AI technologies. Building on UNESCO's 2021 Recommendation on the Ethics of Artificial Intelligence and the 2019 Beijing Consenon Artificial Intelligence in Education , the guidance promotes human ..."
-    publishedDateTime: 2023-09-08T19:43:00Z
-    webUrl: "https://menafn.com/1107035192/Governments-Must-Quickly-Regulate-Generative-Ai-In-Schools-Unesco"
+  - title: "Guide to Artificial Intelligence ETFs"
+    excerpt: "Robots and artificial intelligence (AI) are increasingly gaining precedence in our daily life. The pandemic-driven stay-at-home trend made these more important as we have become more dependent on ..."
+    publishedDateTime: 2023-09-07T17:14:00Z
+    webUrl: "https://www.nasdaq.com/articles/guide-to-artificial-intelligence-etfs-0"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 19
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
+  - title: "Say hello to Coach AI"
+    excerpt: "Coursera chief executive officer Jeff Maggioncalda wants to give you an AI-generated personal tutor. The online learning platform has recently launched Coach, a chatbot tool that plugs into ChatGPT. It answers questions by sifting through and summarising Coursera’s entire curricula."
+    publishedDateTime: 2023-09-10T01:10:00Z
+    webUrl: "https://gulfbusiness.com/coursera-say-hello-to-coach-ai/"
+    type: article
+    provider:
+      name: Gulf Business
+      domain: gulfbusiness.com
+    quality: 39
+    images:
+      - url: "https://gulfbusiness.com/wp-content/uploads/2023/09/coach-ai2.jpg"
+        width: 930
+        height: 620
+        isCached: true
+  - title: "How to Unlock Your Business Potential with Artificial Intelligence"
+    excerpt: "One game-changing tool that has taken the business world by storm is artificial intelligence (AI). From streamlining operations to enhancing customer experiences, AI holds immense potential for your business. In this article, we'll explore how you ..."
+    publishedDateTime: 2023-09-08T10:27:00Z
+    webUrl: "https://www.inc.com/sean-kim/how-to-unlock-your-business-potential-with-artificial-intelligence.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1495300562_533575_xxmfdk.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "k5cCIKnaE9oD07jblpTArEa9GrD55sr/SscMrWTf9sSkM6HLp854YRedXTkiAZafnOfdoQevVuSqfUpX3NzGGChc4POQ1NgXGR2p2MrrHN+xTZSh24Me+VSAgNK6kEOSlXPyDJTZxJUsdcOUcKQIBC21EycvCOVyK6WQfU6OBe9/n0sPGG1eup+m/0FjLNHt7lLx8wYYuUxlIhEyXWR4oB2cOfGsbDgSXhj+js0SLLdukrulpsRJtxTp6Ym+lWb1EopSsr5Z3SC+GY3ZiQRJiqobWCc/lqXy6QnUNkGdgvW6SkE6BOd/lDAO8XNxHk+4rCSQaGGoy/V9qPpXajTVUIU8Saml1g3EnoaQ8lfRHbQ=;mS0MheWay1sqOEp5FDbPfQ=="
 ---

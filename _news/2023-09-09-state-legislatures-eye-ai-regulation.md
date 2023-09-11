@@ -49,20 +49,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Zoom's New 'AI Companion' Will Catch You Up When You're Late to Meetings"
-    excerpt: "The generative AI tool has multiple new updates, and will soon be available at no extra cost if you already pay for Zoom."
-    publishedDateTime: 2023-09-06T21:21:00Z
-    webUrl: "https://www.cnet.com/tech/services-and-software/zooms-new-ai-companion-will-catch-you-up-when-youre-late-to-meetings/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 66
-    images:
-      - url: "https://www.cnet.com/a/img/resize/089c254824ce38bdca6979888a458669a1817baf/hub/2023/09/05/e7503035-ec6e-4548-99e5-5d68976361ab/gettyimages-1211208100.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "IBM unveils new generative AI enhancements for watsonx"
     excerpt: "IBM has announced a host of new enhancements for its watsonx platform, which include new generative AI foundation models and new capabilities. Designed to help enterprises scale and accelerate the impact of artificial intelligence,"
     publishedDateTime: 2023-09-08T16:02:00Z

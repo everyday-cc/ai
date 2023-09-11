@@ -78,15 +78,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Code Conversion and Documentation Through Artificial Intelligence"
-    excerpt: "Emerson's generative AI tool Revamp helps users automate system configuration. With artificial intelligence (AI) taking a larger role in the workforce, tools like Emerson’s cloud-based Revamp software are more important than ever. Generative AI can ..."
-    publishedDateTime: 2023-09-06T19:38:00Z
-    webUrl: "https://www.automationworld.com/leaders/analysis-software/article/33011131/code-conversion-and-documentation-through-artificial-intelligence"
-    type: article
-    provider:
-      name: Automation World
-      domain: automationworld.com
-    quality: 17
   - title: "AVIA’s National Generative AI Collaborative Announces New Experts, Enhanced Health System Participation"
     excerpt: "The Generative AI Strategic Collaborative reveals a slate of 10 clinical, ethics, technology, and regulatory experts for its national consortium"
     publishedDateTime: 2023-09-07T16:04:00Z

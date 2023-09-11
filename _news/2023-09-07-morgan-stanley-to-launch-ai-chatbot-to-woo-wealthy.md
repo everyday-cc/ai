@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla stocks rises more than 6% on 'AI mojo'"
+    excerpt: "\"With a highly experienced semiconductor team, Tesla has built a custom AI ASIC chip, that, due to its core function of processing vision-based data for autonomous driving use cases, can operate more efficiently (energy consumption, latency) than the ..."
+    publishedDateTime: 2023-09-11T14:25:00Z
+    webUrl: "https://www.aol.com/finance/tesla-stocks-rises-more-6-140524288.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 56
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/WzuMg_og2mMMfUC7sU2bkQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/a1dc025b6d083686b4a35c0a8d9671ab"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "e9q/ZLqfhk7O3dO0tW7NqHwD6s6bAwWF+ffQkAifFEpj/TeK2isZELNKAP3imwyPWjR34tHj0/FqIY1QskdcR+CwFbJUkk0sukMqpkMlfP36RnSkgdBPzRE2yyvUSjjKxPTavmfmthiNsbqiySwAEQERuMwk3q258KgKPbxSDRRQPfftXz5jDHW4zYTZEeOjCbNiwSabw4/i4qsxvQV/88XwXzL+uCzHG2FKR9kB4vBCkODBzR7IU92AM+w/F8lvHNeL6bPJ3ZT/qk4jhlFLHO8i6Ki2siJ5/DYFek0i33ZqmzN/YdMOn58hhcAkL9ZoUDhrlf5sL0kzlNAYOPe5WsQosmj/8NBHuiAwfQuJccZl5YEeI1e+00Br3hNrpDA89EjLLY5pBWA9HyEYYOBu8mbe7RVGIGt2m8D8z4RHZ/n2txfQoZ3fmAGMMBNcKHkl7/Qtx3kasctJraucKsdBWxhrktCR4bANvap3vEuYkyrQJgw63DQd70wWnt8qt7lMD4H1P1vhMI8XukosONbxTw==;orn7knUcOK2TxlMli0O8cQ=="
 ---

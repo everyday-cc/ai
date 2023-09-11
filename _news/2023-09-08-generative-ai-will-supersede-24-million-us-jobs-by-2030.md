@@ -34,6 +34,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Generative AI in production: Rethinking development and embracing best practices"
+    excerpt: "For apps built on LLMs, the engineering mindset of predictable debugging and software testing and monitoring is suddenly challenged."
+    publishedDateTime: 2023-09-11T13:38:00Z
+    webUrl: "https://venturebeat.com/ai/generative-ai-in-production-rethinking-development-and-embracing-best-practices/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 42
 
 secured: "D7D/AftlDQyBujxQLFK8ulb7dTKqMX92gEe/+2VoxC5UtOEApHz4bUtmEoB7t028sFhEgMgmi6rpCM1GlSvxxRx+S+LkbFG5ZvpnBeO4q4GJ6vAy1GDQP6glnuDigrnnEv9UQn8FQqfK7dqOpIk3IWTLqDA/JY6t4ladekH8CYVVlr8PcSN2oe5LlVR0PCYYtdti37UXmzsRjF4uZiD+11t9Vtnb/5ey4nU8wTVZFC+57J4bMDN+JcVD+ZYv13RCZMGGdhuC3Of67hpknHJ/ibKsQuAe/I1NeCWkizB8dj4HZ3cWmQF+3+BjtYU5C355rxj2Y47HZdG21V67Xhk2H2lPOsAvU7QGzFhMrH/K11U=;uyKZL25OS7Llt5qIp5HZSw=="
 ---

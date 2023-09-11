@@ -19,19 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia partners with Reliance Jio for 2,000MW of AI data centers, Tata for AI cloud in India"
-    excerpt: "With Reliance, Nvidia will build AI infrastructure that is \"over an order of magnitude more powerful than the fastest supercomputer in India today,\" it claimed. Reliance will use"
-    publishedDateTime: 2023-09-08T15:48:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-partners-with-reliance-jio-for-2000mw-of-ai-data-centers-tata-for-ai-cloud-in-india/"
+  - title: "Reports: VinFast strikes AI deal with Nvidia, to build 3 new crossovers in US"
+    excerpt: "Vietnam-based manufacturer VinFast is going to work with global chip giant Nvidia and will build three new crossovers at its electrical vehicle manufacturing plant being built in Chatham County."
+    publishedDateTime: 2023-09-11T15:01:00Z
+    webUrl: "https://wraltechwire.com/2023/09/11/reports-vinfast-strikes-ai-deal-with-nvidia-to-build-3-new-crossovers-in-us/"
+    ampWebUrl: "https://wraltechwire.com/2023/09/11/reports-vinfast-strikes-ai-deal-with-nvidia-to-build-3-new-crossovers-in-us/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/09/11/reports-vinfast-strikes-ai-deal-with-nvidia-to-build-3-new-crossovers-in-us/?amp=1"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 30
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 56
     images:
-      - url: "https://media.datacenterdynamics.com/media/images/explore-dgx-h100-1cc-d.2e16d0ba.fill-1200x630.jpg"
-        width: 850
-        height: 448
+      - url: "https://wraltechwire.com/wp-content/uploads/2023/06/vf8-vinfast-61623-e1686925838782.jpg"
+        width: 1194
+        height: 669
         isCached: true
   - title: "Tata partners with Nvidia to build AI supercomputer, cloud infrastructure"
     excerpt: "Tata Communications and Nvidia will develop an AI cloud in India aimed at providing critical infrastructure that enables computing's next lifecycle. Tata Communications' robust gl"
@@ -42,15 +44,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 18
-  - title: "Reliance Jio collaborates with Nvidia for AI infrastructure; hints at a possible homegrown generative AI"
-    excerpt: "Reliance Jio partners with Nvidia to set up cloud-based AI infrastructure in India. The partnership will enable researchers, developers, startups, scientists, AI practitioners, and others to access accelerated computing and secure cloud networking."
-    publishedDateTime: 2023-09-08T12:45:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/reliance-jio-collaborates-with-nvidia-for-ai-infrastructure-hints-at-a-possible-homegrown-generative-ai/article67284725.ece"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 2
 
 secured: "UYugssBauUZ7PoocdK/i8LgFwU9rQesCH+Jm/Rf19wB2RQ0BWkyHWTZBSxoRN5TY3q2Y7fbzxXcHVSTIMldw85fgTZ6/2eCcHYXBxMUdqcVVwnJBIhgRzKddZrFLxvgbckiaOPjhuqRvhoPMG3gA9IEVK5VQOBUvxEnQRRPKiUx2GZsON20Kpu+cDN8KJ/GlVNSGvycl7ubGJqm/Y1vXSo957zxg6r9eWXMqelFegHJe7AZdzSgnYARH+JwLvgL+40XWdJrd244MYbKn+6KKRs9WIzD+K4Q/89b1gKaAehFYfflLV7HgAhKlPmSxHGYRoX5nE+0LjvUigQXHIV6Bx3q2mH6Om6EQ8/72/URvCId3dhB3nh+WEAFPEc8+wpFSRkCisc7atJVuViTAZLQM2aLNYGtd+G54TC+QOEK2uIOqUEXzq8heq611WWM2M7cLjavWOlZLbWSjz97t75VwLj9maRHJbtC0On1/amg76LFrgtEcO6KaGzqqujK+ixgcoB96E3iYFSp8mlgSxYNSLQ==;6OK+LWVsFBuvzvhetYunaw=="
 ---

@@ -8,9 +8,6 @@ webUrl: "https://www.benzinga.com/pressreleases/23/09/n34292136/fort-robotics-en
 ampWebUrl: "https://www.benzinga.com/amp/content/34292136"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34292136"
 type: article
-quality: 51
-heat: 51
-published: false
 
 provider:
   name: Benzinga.com
@@ -26,6 +23,6 @@ images:
     height: 1043
     isCached: true
 
-secured: "E2aXjB3o9uAvIi+4mFezm6GMH1hu1oOjDNwnKQ4ngQCh1jLO7cE03snKg3DcwS2CJseid6OxT9iUCMoterUCSeWxN77Ufdh8QbO2lKPnUaLQiq4p/jZDGUGopjTOeiFL/Yx8vEHfUMm1ltzdVgucpGin62vjdnxFqV7Etvze15RpvQO4z2/6EIUzOsOy7BEE282kWsFmzZsAK9ixT9d3An0HFCRc0CuDTwl2pr9gU4C93SpvS+DvbP9zslYE3vZCuwAkXvHgbwlfANt88rUyESsakECIVpjp5HtO1bPH292xmyR3qZWHjBlJDIfKiUSUMh4K/bvHs+/8srAgryN1FkYfJg9kmOa2QO/EFWafrv4=;x7u9tl26FzeRl7t/dgYo0A=="
+secured: "CyQM8u+ul2tJYwK1JkZlZAsVNCk+jYfmL3p/8/S9qR+G3wePiy3dqT2FaVYj9hRMCrg6j78ecRO+q9ZsfIkx+XSJpE/2U2r2ERNavZLqHGaGW9ZSfzL3BpPrv/n52Nc6S/G/0gZbvhR7AypJRgyoNKKM8joSk9kp0LCTO8sqpKIZuZzqnvYVrMvW9Q8mERR2f8h3AvI6tfr3fHNgeHH8TkOCkDySYcW+2fMcEBgkrgUFmU5vdCNRQhfUqMPFnb09cTMoBZNzkZOOABHzRVI2qA9kTRcDE88ncuN6ENhUJUkyPp2XvGaI9yonD5LVDzQYrOp9NJJD3HgyoN8BV0LoQyVuZv0rJayXOLn3ohD2kqo=;a7swnX0A7T+i7j3veKYmqg=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wcvb.com/amp/article/health-care-providers-say-artificia
 cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/health-care-providers-say-artificial-intelligence-could-transform-medicine-1694113490/45038212"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: WCVB Channel 5 Boston
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI might help health care's labor shortage, industry leaders say"
-    excerpt: "Local health care leaders at the City Club talked about the many reasons physicians are leaving the profession."
-    publishedDateTime: 2023-09-06T21:30:00Z
-    webUrl: "https://www.chicagobusiness.com/health-care/health-leaders-city-club-event-talk-labor-shortage-ai"
-    type: article
-    provider:
-      name: Crain's Chicago Business
-      domain: chicagobusiness.com
-    quality: 39
-    images:
-      - url: "https://s3-rd-prod.chicagobusiness.com/styles/1200x630/s3/_A7_0916.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The rise of AI in health care"
     excerpt: "Artificial intelligence is rapidly gaining steam across the health care industry, bringing with it new risk-reward scenarios."
     publishedDateTime: 2023-09-08T11:59:00Z

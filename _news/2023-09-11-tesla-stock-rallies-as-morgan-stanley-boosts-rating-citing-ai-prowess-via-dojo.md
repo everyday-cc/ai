@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/tesla-shares-climb-5-8-after-m
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tesla-shares-climb-5-8-after-morgan-stanley-upgrades-to-buy-citing-ai-prowess-via-dojo-10b3e7dd"
 type: article
 quality: 99
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://www.reuters.com/resizer/hPSaTdJloz96JSAnU_-5WtLtvO4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/26KSAZHUEFJF7G4AECYWU3UVAI.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Tesla stocks rises more than 6% on 'AI mojo'"
+    excerpt: "\"With a highly experienced semiconductor team, Tesla has built a custom AI ASIC chip, that, due to its core function of processing vision-based data for autonomous driving use cases, can operate more efficiently (energy consumption, latency) than the ..."
+    publishedDateTime: 2023-09-11T14:25:00Z
+    webUrl: "https://www.aol.com/finance/tesla-stocks-rises-more-6-140524288.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 56
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/WzuMg_og2mMMfUC7sU2bkQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/a1dc025b6d083686b4a35c0a8d9671ab"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Morgan Stanley to Launch AI Chatbot to Woo Wealthy"
     excerpt: "JPMorgan Chase named Teresa Heitsenrether its chief data and analytics officer in June to lead AI adoption across the largest U.S. lender. Rival Bank of America's virtual assistant, Erica, has had more than a billion interactions with clients since it was introduced in 2018."

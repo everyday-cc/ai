@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/craigsmith/2023/09/08/what-large-models
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2023/09/08/what-large-models-cost-you--there-is-no-free-ai-lunch/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

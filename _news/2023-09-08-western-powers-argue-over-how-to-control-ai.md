@@ -9,8 +9,8 @@ ampWebUrl: "https://www.politico.eu/article/eu-us-uk-china-artificial-intelligen
 cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/eu-us-uk-china-artificial-intelligence-control/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Politico Europe
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Say hello to Coach AI"
-    excerpt: "Coursera chief executive officer Jeff Maggioncalda wants to give you an AI-generated personal tutor. The online learning platform has recently launched Coach, a chatbot tool that plugs into ChatGPT. It answers questions by sifting through and summarising Coursera’s entire curricula."
-    publishedDateTime: 2023-09-10T01:10:00Z
-    webUrl: "https://gulfbusiness.com/coursera-say-hello-to-coach-ai/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 39
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2023/09/coach-ai2.jpg"
-        width: 930
-        height: 620
-        isCached: true
   - title: "UK researchers start using AI for air traffic control"
     excerpt: "UK researchers have produced a computer model of air traffic control in which all flight movements are directed by artificial intelligence rather than human beings. Their “digital twin” representation of airspace over England is the initial output of a £15mn project to determine the role that AI could play in advising and eventually replacing human air traffic controllers."
     publishedDateTime: 2023-09-11T10:00:00Z

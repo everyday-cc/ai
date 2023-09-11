@@ -7,7 +7,7 @@ originalUrl: "https://it-online.co.za/2023/09/07/how-ai-is-the-disrupting-the-ph
 webUrl: "https://it-online.co.za/2023/09/07/how-ai-is-the-disrupting-the-photography-industry/"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Artificial intelligence is currently booming in the finance industry. But is it here to stay?"
+    excerpt: "By Chrisleen Herard As the finance world takes hold of artificial intelligence, the question arises of how it will continue to influence an industry that manages money […]"
+    publishedDateTime: 2023-09-11T12:24:00Z
+    webUrl: "https://afro.com/artificial-intelligence-is-currently-booming-in-the-finance-industry-but-is-it-here-to-stay/"
+    type: article
+    provider:
+      name: Afro
+      domain: afro.com
+    quality: 47
+    images:
+      - url: "https://i0.wp.com/afro.com/wp-content/uploads/2023/09/AIcoverimage.jpeg?fit=2560%2C1378&ssl=1"
+        width: 2560
+        height: 1378
+        isCached: true
   - title: "How valuable is the UK’s AI industry? Here’s one way to not find out"
     excerpt: "Gee willikers, that’s a lot of artificial intelligence. The estimated current value is more than four times the market cap of the whole FTSE 250 index, a commonly cited measure of British domestic industry, and isn’t too far off the £1.9tn market cap of the FTSE 100."
     publishedDateTime: 2023-09-07T19:20:00Z

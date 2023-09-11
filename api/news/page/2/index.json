@@ -2,6 +2,144 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-10-unesco-trains-indonesian-teachers-on-ai-ethics.md",
+      "title": "UNESCO trains Indonesian Teachers on AI Ethics",
+      "excerpt": "UNESCO held an Ethics Teachers Training Course (ETTC) focused on AI ethics in Yogyakarta, in collaboration with the University Gadjah Mada.The interactive event brought together 30 participants from v",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/unesco-trains-indonesian-teachers-on-ai-ethics/",
+      "originalUrl": "https://indiaeducationdiary.in/unesco-trains-indonesian-teachers-on-ai-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png",
+          "width": 534,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/unesco-trains-indonesian-teachers-on-ai-ethics/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/unesco-trains-indonesian-teachers-on-ai-ethics/",
+      "publishedDateTime": "2023-09-09T22:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-10-fintechs-can-drive-financial-inclusion-through-ai-says-kora.md",
+      "title": "Fintechs can drive financial inclusion through AI, says Kora",
+      "excerpt": "The Nigerian fintech industry can leverage Artificial Technology to drive financial inclusion, increase efficiency, and improve consumer",
+      "sourceUrl": null,
+      "webUrl": "https://punchng.com/fintechs-can-drive-financial-inclusion-through-ai-says-kora/",
+      "originalUrl": "https://punchng.com/fintechs-can-drive-financial-inclusion-through-ai-says-kora/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.punchng.com/wp-content/uploads/2019/01/31111416/artificial-intelligence-e1548929675751.jpg",
+          "width": 800,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://punchng.com/fintechs-can-drive-financial-inclusion-through-ai-says-kora/?amp",
+      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/fintechs-can-drive-financial-inclusion-through-ai-says-kora/?amp",
+      "publishedDateTime": "2023-09-09T18:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Punch Newspapers",
+        "domain": "punchng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-09-sci-fi-fans-meet-their-heroes-at-wiltshire-reme-museum.md",
+      "title": "Sci-fi fans meet their heroes at Wiltshire REME museum",
+      "excerpt": "Science fiction fans have been meeting their favourite film and TV heroes at a special event. The Sci-Fi Day was hosted at the Royal Electrical And Mechanical Engineers (REME) museum at Lyneham in Wiltshire. Fans marvelled at the \"real-life\" creatures and movie memorabilia from franchises such as Star Wars and Doctor Who.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/uk-england-wiltshire-66763292",
+      "originalUrl": "https://www.bbc.com/news/uk-england-wiltshire-66763292",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/23B8/production/_131044190_reme5.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/uk-england-wiltshire-66763292.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-wiltshire-66763292.amp",
+      "publishedDateTime": "2023-09-09T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-09-europe-in-the-lead-in-ai-regulation.md",
       "title": "Europe In The Lead In AI Regulation",
       "excerpt": "Europe leads in AI regulation and the UK wants to be the locus of AI standards - if so it should locate its efforts in Northern Ireland.",
@@ -10,7 +148,7 @@
       "originalUrl": "https://www.forbes.com/sites/mikeosullivan/2023/09/09/europe-in-the-lead-in-ai-regulation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -61,7 +199,7 @@
       "originalUrl": "https://indianexpress.com/article/india/as-distance-from-china-grows-india-us-work-on-tech-projects-chips-to-ai-8931140/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -365,7 +503,7 @@
       "originalUrl": "https://techxplore.com/news/2023-09-machine-playing-field-fixinghelping.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -451,7 +589,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/09/openai-admits-that-ai-writing-detectors-dont-work/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -502,7 +640,7 @@
       "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/09/08/zoom-unveils-new-ai-companion-features/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -554,7 +692,7 @@
       "originalUrl": "https://www.forbes.com/sites/craigsmith/2023/09/08/what-large-models-cost-you--there-is-no-free-ai-lunch/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -906,7 +1044,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/08/product-management-steering-innovation-in-ai-and-web3-startups/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1044,49 +1182,6 @@
       ]
     },
     {
-      "path": "_news/2023-09-08-western-powers-argue-over-how-to-control-ai.md",
-      "title": "Western powers argue over how to control AI",
-      "excerpt": "In the race to rein in artificial intelligence, Western governments have hit a major bump in the road: they all want to win. Officials from the European Union, the United States and other major economies are competing to write the definitive rules for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/eu-us-uk-china-artificial-intelligence-control/",
-      "originalUrl": "https://www.politico.eu/article/eu-us-uk-china-artificial-intelligence-control/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/08/17/GettyImages-1246494152-scaled.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/eu-us-uk-china-artificial-intelligence-control/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/eu-us-uk-china-artificial-intelligence-control/amp/",
-      "publishedDateTime": "2023-09-08T03:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico Europe",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-08-the-best-movies-on-amazon-prime-video-september-2023.md",
       "title": "The best movies on Amazon Prime Video (September 2023)",
       "excerpt": "The best movies on Amazon Prime Video have something for everyone. For most of this year, Prime Video has welcomed movies from Universal Pictures and Paramount to shore up its library. But this ...",
@@ -1135,110 +1230,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-tencent-latest-to-join-chinas-genai-race-with-foundation-model-for-enterprises.md",
-      "title": "Tencent latest to join China's GenAI race with foundation model for enterprises",
-      "excerpt": "Called Hunyuan, Tencent's foundation AI model is available for Chinese organziations to test and build their own applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/tencent-latest-to-join-chinas-genai-race-with-foundation-model-for-enterprises/",
-      "originalUrl": "https://www.zdnet.com/article/tencent-latest-to-join-chinas-genai-race-with-foundation-model-for-enterprises/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/0c19a1df65ed28c065d3b48a1be0878897b01cb9/2022/01/13/9eafb7e5-f1f9-4369-a375-256b197f5a21/shutterstock-1732038682.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/tencent-latest-to-join-chinas-genai-race-with-foundation-model-for-enterprises/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tencent-latest-to-join-chinas-genai-race-with-foundation-model-for-enterprises/",
-      "publishedDateTime": "2023-09-08T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-generative-ai-meet-your-partner-in-customer-service.md",
-      "title": "Generative AI: Meet your partner in customer service",
-      "excerpt": "Identify specific problems that AI can help solve so you can begin to realize its limits, challenges, and undeniable advantages.\nThe post Generative AI: Meet your partner in customer service appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/generative-ai-meet-your-partner-in-customer-service/",
-      "originalUrl": "https://www.ibm.com/blog/generative-ai-meet-your-partner-in-customer-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/09/Generative-AI-Meet-your-partner-in-customer-service.jpg",
-          "width": 2400,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-08T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

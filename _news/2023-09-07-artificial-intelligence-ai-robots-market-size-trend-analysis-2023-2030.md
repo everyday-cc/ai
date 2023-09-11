@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/34317861"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34317861"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -89,15 +89,6 @@ related:
         width: 1024
         height: 1024
         isCached: true
-  - title: "AI in Computer Vision Market Size 2023 Booming Worldwide by 2031"
-    excerpt: "Global \"AI in Computer Vision Market\" surveys the evolving technology industry and the responses of both established and emerging players to long-term opportunities and short-term challenges."
-    publishedDateTime: 2023-09-06T19:34:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/34291543/ai-in-computer-vision-market-size-2023-booming-worldwide-by-2031"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 34
 
 secured: "b7IGoR1XOx2bT/bHWVwPnKLlhpS/IS4Tumwotvc4E6NHCmom8z+W/gtF1uLxzpfH0bUYQ/HH5HmVCDQn3dSJ0bn6dcrqjs3SplZ0gemwYzmStDkNUBIek5asMtfnGlDHfx3crtxyjCmLhwnRD1JmXsNG710PD6zNKCk2hUF6EflNutrIHCvTTtNF/j8BkdWw5Alu2GLWlJH6Jc5KxTqIKO6iW5mtrN5v5j1C30Z+gQ5Jv5Ktc/OqOvI1kCjun7lkdwN02hRydbKILIDHeRYqfyIqxrCEXWF1MoEoGX17U3qKmcusfj2cAKqCkRipw2cxnkz7cha61b7Nb9tae6pDjAGCwQ8L9ggic65eWglKD1E=;GQRUOg4cB9SB0F/l6Kxuyw=="
 ---

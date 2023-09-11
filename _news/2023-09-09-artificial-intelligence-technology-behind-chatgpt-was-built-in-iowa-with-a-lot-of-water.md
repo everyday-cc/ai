@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water"
+    excerpt: "Tech developers have acknowledged that growing demand for their AI tools carries hefty costs, from expensive semiconductors to an increase in water consumption."
+    publishedDateTime: 2023-09-11T12:58:00Z
+    webUrl: "https://www.cnbc.com/2023/09/11/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/09/11/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/11/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 78
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107298466-1694444089106-AP23248706930894.jpg?v=1694444318"
+        width: 5959
+        height: 3973
+        isCached: true
   - title: "Senators Want ChatGPT-Level AI to Require a Government License"
     excerpt: "A new US government body would force companies to seek a license before working on powerful AI models like OpenAI's GPT-4, under a bipartisan proposal by senators Richard Blumenthal and Josh Hawley."
     publishedDateTime: 2023-09-09T11:00:00Z
@@ -135,6 +151,15 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "AI Chatbots Are Invading Your Local Government—and Making Everyone Nervous"
+    excerpt: "State and local governments in the US are scrambling to harness tools like ChatGPT to unburden their bureaucracies, rushing to write their own rules—and avoid generative AI's many pitfalls."
+    publishedDateTime: 2023-09-11T11:00:00Z
+    webUrl: "https://www.wired.com/story/local-governments-generative-ai/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 45
   - title: "9 useful AI tools in addition to Midjorney and ChatGPT"
     excerpt: "Watch this video on YouTube. Perplexity AI combines a large language model with natural language processing (NLP) search capabilities, providing a personalized browsing experience. It offers a number of AI features, including personalized language models ..."
     publishedDateTime: 2023-09-08T10:56:00Z
@@ -228,20 +253,6 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 34
-  - title: "For Law Firms, Launching Generative AI Chatbots Requires More Than Just Novel Technology"
-    excerpt: "Several law firms have consulted with their insurance providers and updated their trainings and policies to support launching generative AI powered chatbots internally. But it is still early days, and more changes may be needed ahead."
-    publishedDateTime: 2023-09-06T21:20:00Z
-    webUrl: "https://www.law.com/americanlawyer/2023/09/06/for-law-firms-launching-generative-ai-chatbots-requires-more-than-just-novel-technology/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 30
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/09/AI-Chatbot-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
   - title: "Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water"
     excerpt: "As they race to capitalize on a craze for generative AI, leading tech developers including Microsoft, OpenAI and Google have acknowledged that growing demand for their AI tools carries hefty"
     publishedDateTime: 2023-09-09T20:39:00Z

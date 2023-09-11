@@ -87,15 +87,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Self-Driving Cars Might Finally Be For Real This Time"
-    excerpt: "A decade ago, there was a lot of hype about self driving cars. In fact, there was more interest in self-driving cars than there was in electric vehicles, in terms of the future of the auto industry. But progress in developing these robotic cars has turned ..."
-    publishedDateTime: 2023-09-06T21:16:00Z
-    webUrl: "https://www.bloomberg.com/news/audio/2023-09-06/self-driving-cars-might-finally-be-for-real-this-time-podcast"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 34
   - title: "City of Austin releases new data on self-driving cars"
     excerpt: "Self-driving cars may be the way of the future, but they're encountering quite a few glitches in the here and now. The City of Austin is out with some new numbers on just how many incidents there have been involving those driverless cars."
     publishedDateTime: 2023-09-11T02:37:00Z

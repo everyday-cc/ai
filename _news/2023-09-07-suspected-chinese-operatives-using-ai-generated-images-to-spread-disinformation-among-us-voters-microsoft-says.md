@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "GPU Alternative d-Matrix Raises $110 Million for AI Inference"
-    excerpt: "GPU Alternative d-Matrix Raises $110 Million for AI Inference Your email has been sent Microsoft's venture group is among d-Matrix's supporters, investing in making ..."
-    publishedDateTime: 2023-09-06T20:36:00Z
-    webUrl: "https://www.techrepublic.com/article/gpu-alternative-d-matrix-raises-110-million-for-ai-inference/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 84
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/09/tr_09062023-gpu-alternative-d-matrix-raises-110-million-for-ai-inference.jpg"
-        width: 1400
-        height: 900
-        isCached: true
   - title: "Microsoft says it will defend customers of its AI Copilots from copyright lawsuits"
     excerpt: "The tech giant is integrating many of its biggest products with generative AI, which scoops up existing content to create new material, potentially putting customers in legal jeopardy."
     publishedDateTime: 2023-09-08T02:43:00Z
@@ -129,20 +115,6 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/US-China.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Gen AI Chip Startup d-Matrix Announces $110M in Series B Funding"
-    excerpt: "Gerative AI chip startup d-Matrix has closed $110 million in a Series-B funding round led by Singapore-based global investment firm Temasek. The goal of the fundraise is to enable d-Matrix to begin commercializing Corsair,"
-    publishedDateTime: 2023-09-06T21:16:00Z
-    webUrl: "https://insidehpc.com/2023/09/gen-ai-chip-startup-d-matrix-announces-110m-in-series-b-funding/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 54
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2023/07/Dell-Technologies-logo-square-0723.png"
-        width: 312
-        height: 207
         isCached: true
   - title: "Chinese social media accounts swaying US voters using AI: Microsoft"
     excerpt: "In a new research report, Microsoft said the social media accounts were part of a suspected Chinese information operation, according to Reuters."

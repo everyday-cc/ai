@@ -146,20 +146,6 @@ related:
         width: 834
         height: 308
         isCached: true
-  - title: "Google will require election ads to ‘prominently disclose’ AI content"
-    excerpt: "Google will require verified advertisers to “prominently disclose” when a campaign ad “inauthentically depicts” people or events, in a bid to combat the spread of digitally manipulated images for political gain, the company said on Wednesday."
-    publishedDateTime: 2023-09-06T21:35:00Z
-    webUrl: "https://www.ft.com/content/d1e5a0a9-9438-4fb4-905c-3dd737246600"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/us-presidential-election.jpg"
-        width: 619
-        height: 377
-        isCached: true
 
 secured: "I9t/8L/LisvMTcj6N9a8Nygyh4PB541Ex9/yj4xiB7khB3xCz+HyXDrjt5tOTOTwWTYek9tB2tnL2nmao99XUv56SlYlpb9kWlXLHIQtPcsMc3AmwmNw5CtmKFPh2eepkeGdU20fPPXCAuruMGr2V1xcfL1KFYb10eQpRpJT3MdgDzDlpjcfS84hmhCR7olPbX89Yb/vPqkrgNb0QqQaPK09gtbsFolpTsnH3xbukbL0kuRQhXMxNscdk0Kovnrn6D3OwEffovQsPXe799yvbvcPcb+JCUiZfdNvo4maSDochx1QrZ0fjCer0Ykvp/gKN6p8A4KWU48Mb2+U8YzBAG7e+ux+lr/UBzqxYdVw5QJsRUbaaTbfnGbQ18s5lh67HHm0N5J691cVgV9RI3TImfXPDW4e3i5UFkdT3SGWxYfEmu32/Z+H+FKo1JpBfl7gOfYVUgXWYWWYYa2/irvYMnG0+q941bWka+vulrJfLa4oZOhijsSgR0o7+nOkCxfhkGzqWLoWPDgP7/KCoXcWnA==;pBDhLJd7D1yafeREDBTzsQ=="
 ---

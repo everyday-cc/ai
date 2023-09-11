@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-clo
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-cloudera-collaborates-with-aws-to-deliver-enterprise-generative-ai-based-solutions-3235922/lite/"
 type: article
 quality: 68
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Teradata adds ask.ai generative AI assistant to VantageCloud Lake"
+    excerpt: "Enterprises will be able to use the ask.ai natural language assistant to ask questions about their data from within Teradata’s multicloud analytics platform."
+    publishedDateTime: 2023-09-11T13:00:00Z
+    webUrl: "https://www.infoworld.com/article/3706376/teradata-adds-ask-ai-generative-ai-assistant-to-vantagecloud-lake.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 49
   - title: "Cloudera signs strategic collaboration agreement with AWS"
     excerpt: "Cloudera, the data company for trusted enterprise artificial intelligence (AI), announced today that it has signed a Strategic Collaboration Agreement (SCA) with Amazon Web Services. This agreement strengthens Cloudera’s relationship with AWS and demonstrates their commitment to"
     publishedDateTime: 2023-09-07T00:28:00Z
@@ -55,20 +64,15 @@ related:
         width: 375
         height: 300
         isCached: true
-  - title: "InterVision® Announces Multi-Year Strategic Collaboration Agreement with AWS"
-    excerpt: "InterVision, a national, leading cloud and managed services provider, today announced that it has signed a multi-year Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS). This collaboration with AWS fuels InterVision's strategy and vision to expand and accelerate cloud adoption and modernization across its public sector and commercial customer base and beyond."
-    publishedDateTime: 2023-09-06T19:38:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/intervision-announces-multi-year-strategic-collaboration-agreement-with-aws/article_287adc55-0ba1-5dfe-a5c6-80d78ab3292d.html"
+  - title: "Teradata Launches ask.ai, Brings Generative AI Capabilities to VantageCloud Lake"
+    excerpt: "The new natural language interface, now in private preview, delivers the ease of use required to democratize cloud analytics."
+    publishedDateTime: 2023-09-11T13:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230911090555/en/Teradata-Launches-ask.ai-Brings-Generative-AI-Capabilities-to-VantageCloud-Lake"
     type: article
     provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 36
-    images:
-      - url: "http://static.cnhionline.com/joplinglobe/jmag/jmag-cover-july-2023.jpg"
-        width: 437
-        height: 563
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 14
 
 secured: "BnpdeHiBxXS4MWjzrnIINLZLI59JvGSIoDnzigMhydQ1l3RIAU6hnkuvIMffsRYtAnDIUIQwSDotIpTW3ODBzIhX4Ob508D144xWbq/u+Hl3GAYPPOJ/DPdDhSW7kciIuWMR498sDpInan0W1EWXFVI5NqWoGzsKTseA02CVMlbOpzJ5mrnA+x67TtmmWpXDNFn/XTZbSZqKx4wywqudjVIEnVriVjsbOAur9X/J3dTxZILJw2awquRV6ym+0084zrkyqLl9TMD3XhEI2uhGPsbXTjpnmMiZz1pp6BssnbOI+7YRMt/jqTL8OcJGbSss1P54hREN4SadPBVXVHX4Ry5FEvJaFNb5b4mUqOW/fBQxTk/jc0TFC3qfBAsAA1JRnxtSkgXVZuhZKFIJkv0HTY6AO79QMF61rclSnHWndKmVc349IDZeQ/+BLSJUjfnrGrXkq/xKrHLSbZyVGIIUwYqxUaKT6I2irVCPlDim8/ewB69PdavYCsv3X9N84uXoEF4pwxKFVbZtNjSSyFl0Hg==;0gSL7AovexJ5CNsGJZujSg=="
 ---

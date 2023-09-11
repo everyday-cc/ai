@@ -7,7 +7,7 @@ originalUrl: "https://it.tmcnet.com/news/2023/09/07/9876672.htm"
 webUrl: "https://it.tmcnet.com/news/2023/09/07/9876672.htm"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -19,20 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "iTechGenic Partners with Microsoft Azure and G7 CR Technologies to Revolutionize Engineering Management with AI-Driven Insights"
-    excerpt: "India], September 8: iTechGenic, a pioneering AI-based engineering intelligence platform, has joined forces with Microsoft Azure and G7 CR Technologies- A Noventiq Company as a part of their STAB program for ISVs."
-    publishedDateTime: 2023-09-08T06:51:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273959357/itechgenic-partners-with-microsoft-azure-and-g7-cr-technologies-to-revolutionize-engineering-management-with-ai-driven-insights"
+  - title: "Ark Ab Capital And Blaize Announce Groundbreaking Partnership To Pioneer The World's First Ai Nation In The Uae"
+    excerpt: "Abu Dhabi, United Arab Emirates– Mark AB Capital, a leading investment firm, and Blaize, a cutting-edge artificial intelligence (AI) technology c"
+    publishedDateTime: 2023-09-07T13:38:00Z
+    webUrl: "https://menafn.com/1107027031/Ark-Ab-Capital-And-Blaize-Announce-Groundbreaking-Partnership-To-Pioneer-The-Worlds-First-Ai-Nation-In-The-Uae"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 41
-    images:
-      - url: "https://cdn.bignewsnetwork.com/NTNlM2U1N2UtMDR.jpg"
-        width: 630
-        height: 473
-        isCached: true
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
 
 secured: "JWs1o+2Rc5F4AqHWYHdCPq8iZozKZcUoVvzHc41bk3+ZEmUdSA+SwydMtAxi6DCXxD6qjpzui1QRzLc9p6DS6U/QTmQQ50bumeLQdC/0hKGbfe/xd1V6V1VoJrljlw6jpt8rEdmt++/PnP6kjpQh2jyamF95Sdz9Lk1YYyt+9781pDop0Co5r3zTQ/v4uf9vdMbsQjPWqOFgc0DFxvU6Yb49XehTG2RlVGxAx5Ft1tlsrvDBwOmrVL3Sp1LDWkqEXJiCPUGUsDut89zaqhHJjLyhUzyph3GogmsaJfBHqOzLSV9aBnxCatGUJ5NcUjOPWKUGDc1ZxU5IpkyzXGFwrMnN3JRl3SNW/rtJ1TRNwd4=;cc1FlFs4wGKB5eyTAAMjcA=="
 ---

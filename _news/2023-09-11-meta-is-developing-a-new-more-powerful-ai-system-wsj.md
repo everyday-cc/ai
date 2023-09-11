@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/meta-is-developing-new-more-pow
 webUrl: "https://www.reuters.com/technology/meta-is-developing-new-more-powerful-ai-system-wsj-2023-09-10/"
 type: article
 quality: 67
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -120,6 +120,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Meta developing new, more powerful AI system, WSJ reports"
+    excerpt: "Meta Platforms (META.O) is working on a new artificial-intelligence system intended to be as powerful as the most advanced model offered by OpenAI, the Wall Street Journal reported on Sunday, citing people familiar with the matter."
+    publishedDateTime: 2023-09-11T12:47:00Z
+    webUrl: "https://www.ariananews.af/meta-developing-new-more-powerful-ai-system-wsj-reports/"
+    type: article
+    provider:
+      name: Ariana News
+      domain: ariananews.af
+    quality: 19
 
 secured: "XwUX7X8yBIUTSEZYrz2h+f8UwkXgzwb41eZGrUNiGTQTVD9/oMK1XxYaTqIKmv5Ek/0Z2Jf41Fp9Z+A/f7MRgzJnPU0zTNql5laaOU3MWNtKTl51xQu8Qq/m0RsvucGmB21wTR26QfLcUUvwXKBM2kf4O0rV8izmxy/HgMPYX3Zs1Fcgn2CFoMbdXnohd6C0cQuXY5w9Wa0mYuRbMK4aejgPfkUa+h2SpfAUbKiTAFCyEwJKdVWBr2KsWNB+1qnW4bWnIS2yXVsghrAI225wzIb8Wm74obPxA39RWf0dwGGXQXBzunbRnb7iBnuFSz1mvra6slr2YjBApOfysD7Epf8iwJKTIwufw72PJNl9VL0=;gcInzephJmYRWm63v0NsaQ=="
 ---

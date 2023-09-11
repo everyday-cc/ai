@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/100076-startup-ai-made-3d-models-2d-
 webUrl: "https://www.techspot.com/news/100076-startup-ai-made-3d-models-2d-art-actually.html"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 1919
         height: 1885
         isCached: true
+  - title: "AI startup ‘magically’ generating 3D images was actually using humans"
+    excerpt: "An AI startup that claimed to “magically” produce 3D models in minutes using machine learning has actually been using human artists to do a lot of the work, according to a new report. Kaedim, founded in London in 2020, claims to use artificial intelligence to convert a client’s 2D drawing into a 3D image in minutes."
+    publishedDateTime: 2023-09-11T12:43:00Z
+    webUrl: "https://ia.acs.org.au/article/2023/ai-startup--magically--generating-3d-images-was-actually-using-humans.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 17
 
 secured: "G4I8SrSpDU5E3KvMJ3mcVEReLiKFtpX1DqrUNGKe83NwwZGa8vdTxpxoUe4cWuK6XdgbVi+aHF6Tqh+7GmgwOnSKfqUDyX60l1HjoSwWt3cbyVwJEOwST+3rrlxceqJto6LugPLkIjZg5jR+ir4S+3anfM9+Ov/6lsNRkc6vbG49RbfnD7nJKvhGMYB4NaffGah7diKgVOHwM8chbowF1CRNnlAFCrCNhu3iKWZ7wOIdYzWdaCZoDGI+UDZ3vLHz+9hhQxl7YakOHJKQoJfP/FFQriK9iFab2gIGJZxPEZpkkvZipjVuG224Zn1XYkLGtXE8RgwiECZkwmDLvG/tGcj4RdNGV3DYYVxn7vE5hvMP2Gl0FHNjTljoUVpsiIHenLU6N70M8oMv+3iefSCKGtjOO0pW0aZPlahpKFId9JnDeVtTxz/BjtZTQJd+18BcXz1TpxN+6vfcHiN94etVdHAuCm6rSooMEnj+BF1hvtqAyQJpdUdrmTXimtkJ73ROWW8/OLswJlrVMqxCWtJ1Cg==;qqQ80XXyG8zisngfuwzSsA=="
 ---
