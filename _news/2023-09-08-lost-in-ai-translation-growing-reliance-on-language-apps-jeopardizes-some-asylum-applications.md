@@ -61,15 +61,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Revive Launches AI Tool For Real Estate Professionals"
-    excerpt: "Irvine-based Revive said this morning that it has launched a new, AI-powered tool aimed at real estate professionals. According to the company, its new software--"
-    publishedDateTime: 2023-09-06T14:47:00Z
-    webUrl: "https://www.socaltech.com/revive_launches_ai_tool_for_real_estate_professionals/s-0083617.html"
-    type: article
-    provider:
-      name: Incubators
-      domain: socaltech.com
-    quality: 17
   - title: "Lost in AI translation: growing reliance on language apps jeopardizes some asylum applications"
     excerpt: "They should never be used to replace translators Ariel Koren AI-powered translation tools are particularly unreliable for languages that are considerably different from English or are less ..."
     publishedDateTime: 2023-09-07T16:26:00Z

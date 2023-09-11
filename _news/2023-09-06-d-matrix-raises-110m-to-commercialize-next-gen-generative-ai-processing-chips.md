@@ -50,15 +50,6 @@ related:
       name: vator
       domain: vator.tv
     quality: 17
-  - title: "d-Matrix Announces $110 Million in Series B Funding to Make Generative AI Commercially Viable with First-of-Its-Kind Inference Compute Platform"
-    excerpt: "Matrix, the leader in high-efficiency generative AI compute for data centers, has closed $110 million in a Series-B funding round led by Singapore-based global investment firm Temasek. The goal of the fundraise is to enable d-Matrix to begin commercializing Corsair,"
-    publishedDateTime: 2023-09-06T13:11:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/09/06/9875417.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "Q9azQbuRhfo7R04FJHGOMCxgcGA02dCaxyVxgDI6+FjK0N5yh+2HvblS07jhil2FCwyDZExa5vbPhLS2fOY+Z7QVDluBOy0vW9oehKPYTYGtPXxgpkjwNOyU5Zusf9Oi8kWWTE41gdmxU86SoLJ09xJMLTEDEMaF1M5TvyUYT674e66/yYdxSzFNdH19fAQY3XXifYDRUwCIdAla8n6nNzZSzpvghDf54Fi6AIC6qW3gGJ+X9/KEfEdOCNWSMKgM4i0511jcarm38KbVqayoKdRfPaGg08sDHb5kmhdTQtJQoTquwkHYVdBTdlNelE0LXqO/KMbKRFu4F3UGGoCYFyLfLh/GWAYWMv8hpt7J041y6mUAinpcEkXHaIvwRq8HPlR88K3VzYN45oS8ldgFdbVCRPQxQ6C8rUbycT7gq6K40tNAOrtYQ8g3J4+WLb1z2YJZulQq5gfGLnU6yaGAQz3gxcxWQ0DYybVLRz3mgFtB4pop1nt0gB3kdzeY+ZeVdV0x0NNraSqQVshp3bf7DQ==;l8GodZ0w+tCUGVOqI94rnQ=="
 ---

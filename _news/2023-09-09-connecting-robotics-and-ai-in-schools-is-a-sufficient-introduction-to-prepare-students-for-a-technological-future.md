@@ -53,15 +53,6 @@ related:
         width: 916
         height: 510
         isCached: true
-  - title: "Some Connecticut schools are using artificial intelligence for student tutoring"
-    excerpt: "The Connecticut Department of Education is partnering with a tech company to bring artificial intelligence classrooms this upcoming school year. With AI tools such as ChatGPT bursting onto the scene, state education officials have decided to embrace the ..."
-    publishedDateTime: 2023-09-06T15:07:00Z
-    webUrl: "https://www.wshu.org/connecticut-news/2023-09-06/some-connecticut-schools-are-using-artificial-intelligence-for-student-tutoring"
-    type: article
-    provider:
-      name: WSHU news
-      domain: wshu.org
-    quality: 13
 
 secured: "7uhF3saj13Zb6MFfvXtTmQLcLh/WIHYkI7BLxCCBya2nk9dNKrKnOmASIQpHwf+4UQdEaT3qyJAnOke3bQOJl+7Zd+m9cr1t15XhXdyag0+FB607c8qir14TpevukaVevp1CMXJB3bJbHgnXO+SAPUL2d+gCT5qVEeTSF3BwslW3RQpBL7/04TRLFUPI910cyzXcuVvtAB0+Yf9JFbN3a2Mkm1E7IIOm8hUKUyN5UZx02H1Oa4PgnOSSZCeajZZp9KiepOV7j+JhPwX7ktP1ceDYJVQkOCLlLE2ZbkBXx4m4xwMiDLFFfj6DepaV6ZgfgHOFDJgzLLWxwnjLuM0DQND8gv8xZTdfb6ieAzGaVMNOVLN3xOguKkrmAI1QYMIsCYKYFa71JX4S15ntxgSfWT11SE8utZ2pgihjXIZlsnlWNbZuM9myNDlxmLbDdt/pPGWez7hVsjNWAjUbRGArPBYCsTl7Q3hec1pFXo2AEUiSG8RNOnv0sPO6zXyFLLIb8EPw7c+2zP7eMEv6rszt0A==;9Jo+bINSaY1oRkCGig7q3A=="
 ---

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "‘I log into a torture chamber each day’: the strain of moderating social media"
-excerpt: "While OpenAI, creator of ChatGPT, has said artificial intelligence could be used to speed up content ... I would have the money to pay for therapy sessions.” Another moderator, Rishi*, 23, who works specifically on content from the EU, says: “I had ..."
-publishedDateTime: 2023-09-11T05:01:00Z
-originalUrl: "https://www.theguardian.com/global-development/2023/sep/11/i-log-into-a-torture-chamber-each-day-strain-of-moderating-social-media-india"
-webUrl: "https://www.theguardian.com/global-development/2023/sep/11/i-log-into-a-torture-chamber-each-day-strain-of-moderating-social-media-india"
+excerpt: "As jobs screening US, UK and EU platforms are shifted to India, viewing ‘gore’ to clean up the web has traumatised moderators"
+publishedDateTime: 2023-09-11T04:23:00Z
+originalUrl: "https://www.theguardian.com/global-development/2023/sep/11/i-log-into-a-torture-chamber-each-day-strain-of-moderating-social-media-india?ref=upstract.com"
+webUrl: "https://www.theguardian.com/global-development/2023/sep/11/i-log-into-a-torture-chamber-each-day-strain-of-moderating-social-media-india?ref=upstract.com"
 ampWebUrl: "https://amp.theguardian.com/global-development/2023/sep/11/i-log-into-a-torture-chamber-each-day-strain-of-moderating-social-media-india"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/global-development/2023/sep/11/i-log-into-a-torture-chamber-each-day-strain-of-moderating-social-media-india"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 372
     isCached: true
 
-secured: "IwmmrUfya8c1Ol11ExVzRyXee4uc5He+gEXKPcftTAVL10gLX4cy+EORzUcs4sLSAtr9KMbb9jnqxHLC6qZXokdZONJbPHCycLOYGI3mwRjQAAa9BLjka8NcB38WyzvYJCbo1phFhU/fOJVlWVAEvsosiBOYsOgQxRR46WhTCDxZUSQDiv3wn+s9gatXtYD2RhDn+xnVoXUoxlGSRWxKDD5Xv4cjZl65iLiok5KAMTvLy5gC843WkYT1qUxQ/h68wKRREdeVSAqye2hOOXY2fUecUpuiMT926gLFIHRRvnw9C9Q7wORJHpRLonIz8RxZu/fAHN2HpwHT8WodIoWm+elXgDA4JvgN8/HEY3vP4IU=;G3qKuQF5oebH+HPS6B0z1w=="
+secured: "Ah0FBy+pB6biRB6Y29tnBfwVjZKxX+/NerL0Mg3FS4BoFNPyVR3nJWfJkEvuNcuDRMKXp3TUXXVO1O75LVtpmIB/Y7qaIyEwCxnbBOawsGOjivLQWsJqH4s60wHCYP3F9fv4vKGyLpB15RCQ7qfsUUe7gESyidzMK5UK7D6YYSsSEEmP8NO+34R9QzsAu+MRWaOVrcQWvnOM07XqHM0QwFRsVW9mPmPeguOhARCCKBzzoNpsfG410OcBy32NaIFnTpFPuZpVr06V2O48ajMe5sYsvBN3IzJLzzZW5jM38isnrRp0f9MhAFHsMC/pqA5hE5VLb1kijdDZ53W2yea+fbotkShCvXBTQq/BcKfDj3U=;0+W1KZ+3b+9arsFy5gGOsA=="
 ---
 

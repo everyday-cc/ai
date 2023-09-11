@@ -85,6 +85,20 @@ related:
         width: 700
         height: 466
         isCached: true
+  - title: "Meta developing new, more powerful AI system - WSJ"
+    excerpt: "Llama 2 is Meta's open source AI language model launched in July, and distributed by Microsoft's cloud Azure services to compete with OpenAI's ChatGPT and Google's Bard. The planned system, details of which could still change, would help other companies ..."
+    publishedDateTime: 2023-09-11T06:35:00Z
+    webUrl: "https://www.rte.ie/news/business/2023/0911/1404572-metas-new-ai-system/"
+    type: article
+    provider:
+      name: RTE Online
+      domain: www.rte.ie
+    quality: 39
+    images:
+      - url: "https://img.rasset.ie/001c1023-1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Today in AI: Meta is developing a new AI system, Google rolls out AI-generated search enhancement outside US, and more"
     excerpt: "On August 31, the company expanded its search feature powered by SGE (Smart Global Engine) to two other regions, namely India and Japan. These two countries are noteworthy for being the first to have access to the new AI extension outside of the US. More here."
     publishedDateTime: 2023-09-11T04:40:00Z
@@ -102,6 +116,6 @@ related:
         height: 720
         isCached: true
 
-secured: "G9aNnhuLbLBGh33myobaF2IMnqv/LYT+bBSIgaPAbYcCVNyGql2J9o9jdnPM2pISK+Rahb1iu8/Q0SHkpATUbmMDssZgVkwV31xQ5dCD/utGiViNhgm2RMfQRll0Cq3BXeXVLjiR2obnGPdCtyQNKUu8fDCq/sODf1O6u9k7j6D3ej9gI/xaTMef58bWaIUnydDqWf2ihtwuaSvfzsyiCBgQ5coo40fAQeiAvTRgiTUVWSzKKuoV08qCIkXlgzf8ycuF0eUk/WQaRB4zhAgvRPgnAtGeYfVMBQ2JSveONkAvscmUktmw9te+B6kc1Qe7OpnOp4hjnuImANlCXnT5dkFnkzBsds1BkMUO2h280zs=;xu/EeexxSQUbxAePTXrCDQ=="
+secured: "Ypm0Z9NSDsaWfhL8IYztWgtJuFQ7sc1vjoIpNeNKHVli+7iqXMfN1Mui6PrfAX5yUc8zwl1oBnrnx1I2BPqCJCK4iftRLTxsuUX18LZ4w5HPNhHHM14azoZOF2AmUszkHpO69Cm8sIMF0357Z8gSXHhlosuUpb8W+5ojbaPSkEOZGD7lAPSW5NM93xd8//MACh0tKjhkl0vgvPr2DSg5KRuu88FHfChtzTgKtUIF7Qg5mGmbOvaogR3n9y5Ipo8G7HqqUth4tl+PorM4nuaypy3SExSTf+W5qCYdMLYDepPClXcHCuk9lBN0l2B+rbL0qfh5OSb+m4M3aRhLYD8AxFc5OYOI5G2uPpjQ/bYMg46qU+mB7Rx9CXaKPmquscBCbu5F6NUqO+pjNvdZaNpupSk652EdecDMuT15Q5dM34Ws0SphwRI37zNHfCHoQoRs0yXixzNaITgH6OM2bxlqy00rZe03ptuZtYUyfE8ofhJWkBG4vV4CDXh3LPJ9zAi1TB4pCj8x0cX0ZRjMwbgngw==;ASwcW/MWo6FHZEKG43PgcA=="
 ---
 

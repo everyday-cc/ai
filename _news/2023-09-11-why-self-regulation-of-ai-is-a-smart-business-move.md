@@ -85,15 +85,6 @@ related:
         width: 1920
         height: 671
         isCached: true
-  - title: "The Potential Of AI As A Catalyst For Business Transformation"
-    excerpt: "Artificial intelligence (AI) has rapidly emerged as a disruptive force, influencing humans professionally, socially and culturally. With its ability to process vast amounts of data and make complex decisions, I’ve seen it become a catalyst for transformation across business sectors, from healthcare to transportation."
-    publishedDateTime: 2023-09-06T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/06/the-potential-of-ai-as-a-catalyst-for-business-transformation/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "5 steps for assembling AI-driven business teams"
     excerpt: "We used OpenAI’s ChatGPT to assemble an AI-driven team: the results obtained were solid, and the evidence was clear."
     publishedDateTime: 2023-09-08T17:59:00Z

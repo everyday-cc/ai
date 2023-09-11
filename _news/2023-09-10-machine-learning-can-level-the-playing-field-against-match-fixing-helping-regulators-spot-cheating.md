@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Financial planning & budgeting: Navigating the Budgeting Paradox"
-    excerpt: "Financial planning and budgeting are changing. Learn more about the technology helping businesses to navigate these unpredictable waters.\nThe post Financial planning &#038; budgeting: Navigating the Budgeting Paradox appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-09-06T14:00:00Z
-    webUrl: "https://www.ibm.com/blog/financial-planning-budgeting-navigating-the-budgeting-paradox/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 82
   - title: "Machine learning can level the playing field against match fixing—helping regulators spot cheating"
     excerpt: "On the eve of the Rugby World Cup kicking off, there have already been whispers of teams spying on each other. Inevitable gamesmanship, perhaps, but there's no doubt cheating in sport is a problem authorities struggle to combat."
     publishedDateTime: 2023-09-08T16:16:00Z
@@ -51,6 +42,50 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/rugby.jpg"
         width: 2880
         height: 1920
+        isCached: true
+  - title: "Machine learning can level the playing field against match fixing – helping regulators spot cheating"
+    excerpt: "The study shows that machine learning can be utilised to help safeguard the integrity of sports competitions, and to assist regulatory bodies, sports organisations and law enforcement agencies maintain fairness and public trust."
+    publishedDateTime: 2023-09-11T01:56:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/machine-learning-can-level-the-playing-field-against-match-fixing-helping-regulators-spot-cheating-71694348321724.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/machine-learning-can-level-the-playing-field-against-match-fixing-helping-regulators-spot-cheating-71694348321724.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/machine-learning-can-level-the-playing-field-against-match-fixing-helping-regulators-spot-cheating-71694348321724.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/09/11/1600x900/Data_Science_Course_1686915589627_1694397187884.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Machine learning can level the playing field against match fixing – helping regulators spot cheating"
+    excerpt: "A new machine learning model can pinpoint anomalies in sports results – whether from match fixing, strategic losses or poor player performance. It could be a useful tool in the fight against cheating."
+    publishedDateTime: 2023-09-08T02:44:00Z
+    webUrl: "https://theconversation.com/machine-learning-can-level-the-playing-field-against-match-fixing-helping-regulators-spot-cheating-209392"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 39
+    images:
+      - url: "https://images.theconversation.com/files/547104/original/file-20230908-19-gz8i1l.jpg?ixlib=rb-1.1.0&rect=51%2C878%2C5700%2C2850&q=45&auto=format&w=1356&h=668&fit=crop"
+        width: 1356
+        height: 668
+        isCached: true
+  - title: "Navigating Self-Driving Cars By Looking At What’s Underneath The Road"
+    excerpt: "For self-driving cars, tackling the latter is relatively easy, as the system would use the same information in a similar way: when to to change lanes, and when to take a left or right. The former ..."
+    publishedDateTime: 2023-09-07T00:00:00Z
+    webUrl: "https://hackaday.com/2020/04/06/navigating-self-driving-cars-by-looking-at-whats-underneath-the-road/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 24
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2020/04/lgpr_feat2.jpg"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "6hGE/27QLUStzCuYfVEgEhL9JrXuK9qssitxcGnNSY+tXfbdzi0FbjAgBSP9XS0DngrYSAfehXViXdoIESt2p2OAaP+rlwupoOBYzg7Ziu9ohXXmK9M3o8Q8mHwJGqJVRKVDcmMObrApPq04Ej5mP8+XqeMvXYkjD88cuoqT/OBUkGK+FRZmIoUPUF86DcppjcrnScwAqG4aBuURfcQnrP8AgUJbdSklhFSikafBWXtCriMKe+mDVlNRGmHyHpECzQHvwBQo8EWk8Z9aYJE1WY/sgVdpUdAjtmNnPpw2BcmXooRHsWF6jFt7UeXgbmw6aBy9mJoPcuKsT9TVGwZJZ0ilKCYAIJvcT4fFsmy1Ds0=;02ruE3GrGS7AuSZlYcEmLA=="

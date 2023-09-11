@@ -32,15 +32,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Zapata AI Set to List on NYSE Following Business Combination with Andretti Acquisition Corp."
-    excerpt: "Zapata AI spun out of Harvard University in 2017 with a mission to create significant value for enterprises with generative AI and other advanced algorithms that leverage quantum techniques. The Company’s proprietary quantum techniques run on classical (non-quantum) hardware such as CPUs and GPUs—and have the potential to revolutionize existing AI solutions by making them cheaper,"
-    publishedDateTime: 2023-09-06T14:51:00Z
-    webUrl: "https://www.datanami.com/this-just-in/zapata-ai-set-to-list-on-nyse-following-business-combination-with-andretti-acquisition-corp/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 8
 
 secured: "jGfYumhkyx54GmCQikFWX1EomwWavTNmGnxe0nKqRY3YRcVIIKx46ltJUsz0zCa91vgAVBhG1v+goxeAleljE7E9q1xaHGgwUw3LAVJhp9Oyhp5KdIR/a7a70ij3DXO/oNd9dKAuAPY8nG8DDFaRyLv5deAmUdi+RtuvhcV7W73qJ/KBgxB0LRp4YiZShv2ga3XQegIUhi2C7GnSW8WZKwwDlm1FbwPe5Wl1OJh7e0ijPgu0HRjYcOt4Wgk5cJJ25ImLgoxDvjUDzZ7LBDWlz4t3PoIFiWBoffcGpUq9RjTOlPAqEoFopvx0bpi8ivVuHDouhjm6sFzJf3v1Ptg72VReFQ1oOhH9YNL9yHNHb8L/liUXOjivr+IKT0C8Tew93+fRwkshrZiMGWoN3c7BINSOTQXlWd5jr83PLLSJtqZpCzP+80ylMYGXO1trkQgToQnaVzoRI2ikiTmV2znnHUOx6vzVR+6kgmLcprz/+J8eIcCkQgFdyZsLntQGdB1M8zdbT17dDt2009/H8jdvpQ==;fGQ2dNN/KEvcioxiJ1RZlA=="
 ---

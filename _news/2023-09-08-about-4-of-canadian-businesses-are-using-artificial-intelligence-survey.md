@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1107027820/About-4-Of-Canadian-Businesses-Are-U
 webUrl: "https://menafn.com/1107027820/About-4-Of-Canadian-Businesses-Are-Using-Artificial-Intelligence-Survey"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Only four per cent of businesses in Canada report using artificial intelligence (AI): TMU study"
-    excerpt: "Across Canada, 4 per cent of businesses report that they are using AI in any way in their business. Québec leads in Canada at a five per cent adoption rate. Ontario, BC, and Saskatchewan follow closely at four per cent. Alberta businesses follow at three per cent. Manitoba, and the combined Atlantic & Territories region trail at two per cent."
-    publishedDateTime: 2023-09-06T14:35:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/only-four-per-cent-of-businesses-in-canada-report-using-artificial-intelligence-ai-tmu-study-1032609735"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 52
   - title: "About 4% Of Canadian Businesses Are Using Artificial Intelligence: Survey"
     excerpt: "A new survey has found that about 4% of Canadian businesses are using artificial intelligence (A.I.) on a regular basis. The research, which was conducted by Toronto Metropolitan University, says that A."
     publishedDateTime: 2023-09-07T13:40:00Z

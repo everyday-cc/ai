@@ -33,15 +33,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Apollo Hospitals, Google Cloud to deliver gen AI-powered healthcare service"
-    excerpt: "Using Google Cloud's latest Vertex AI and gen AI, Apollo Hospitals has developed a new Clinical Intelligence Engine (CIE), to deliver safe and secure healthcare service across the country."
-    publishedDateTime: 2023-09-06T13:26:00Z
-    webUrl: "https://www.deccanherald.com/technology/apollo-hospitals-google-cloud-to-deliver-gen-ai-powered-healthcare-service-2675521"
-    type: article
-    provider:
-      name: Deccan Herald
-      domain: deccanherald.com
-    quality: 32
 
 secured: "T73jApFyPsMMyNfLWCVJSEtYBVAASAN63YMTPlev1ESqEYWuhHsXIB0saswlSUjlwA1qlzb1bsIA2z/7pJvCrVWesMz+7FZ11E3cf7CX1dZ0T0PwMcb47zx5fTv016rUDCoKlSVzcRQv5zwKo9gfRE4zAP5XQ/9SRtJHWWewueqTQWFrABM1NM/ncGHamDri5Qhs4LntAVGk3lxfU3ruI7AoxIZVNpDaEm5m+3ESegyril9oiqKNSU5SqTlSea+k+N8UwMngjceaSy+lIh6LT8SAlMyP7aoB1AlEZUoB2AyxOa2NJHhinPmOfAEvfRVBW0rpJYjzoJD9R9RSrK0imF7Ne8z3YPSrj6CAmBiOxPJwQe+Pk8nnN/uyz4TTiJSfmx4JXfYtuoM46goIfhYxh7B1asa4YhzmrOyUnGN3eyb2gq80kzTi84ho5JFxaN4JKJ3JBPCw6EW6tDzaGJfN+rcicJltCVP8+Cp+H8ShZ2CRw9+spWVBNqTscrzklKiXaUf2c2Svdgrri4Zh7cvrXQ==;cs2Io/4S2OuvtwcwJl1YOA=="
 ---

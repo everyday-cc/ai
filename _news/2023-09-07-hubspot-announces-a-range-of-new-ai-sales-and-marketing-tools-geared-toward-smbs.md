@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/hubspot-announces-a-range-of-new-ai-sal
 webUrl: "https://venturebeat.com/ai/hubspot-announces-a-range-of-new-ai-sales-and-marketing-tools-geared-toward-smbs/"
 type: article
 quality: 98
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 672
     isCached: true
-
-related:
-  - title: "HubSpot unveils strategy to integrate AI across the platform"
-    excerpt: "HubSpot introduced its AI Hub today at the Inbound customer conference in Boston, providing a central place to manage all its AI features."
-    publishedDateTime: 2023-09-06T14:30:00Z
-    webUrl: "https://techcrunch.com/2023/09/06/hubspot-unveils-ai-hub-incorporating-new-and-existing-pieces/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
 
 secured: "YdrMYv4Bf/blijDxVPHnAge9MbqDQ9CYJJT5+DOKUwnjX8mTz614Gq8tzzD7sfHXqahwMyYz1kXxTGeAtMjgQnSG0a7WU1LEGNR+85jtTRxlpwZA/lSIf/4gpu5mmyjtde2Bm+BcbFkVKpKI2R4nL8ssuS6N4SAWgI7WRzhNZc6wvtXbnMhctAZ7nKO/Yjo4s21ZpEeh+CJkchPJEA4kbTPAPD62qFd9ASl3hNy9q9r/+y8eBkN36wmSVPP6LAsavexgC1GAIP3sEWV97snJ3yQrEi6luiqRulpzvGTPTJflY7+SEniyccuWwZ1SEZUQazOWet4NEqFIWgvOK+VPbM7xLs+qu5GIXsa4JIpQsCQndq5CbQ3jkM4WETJp5rdBJ0o6ESQLZOt3fjJsKelb03vSKe9vA0BGjij8VI7POcjBn5eR21S2sQl/O7GAVTHyQWl27bUtlb+hhJpiUj95KrALoo9iFhnnQBLThQLz0HE6loHFPj/Zw+8H6Wbz9RCI39QIjsglOYtLTZMwYlzwwQ==;Z7Tk8ZeoOFilfcnL+avhuQ=="
 ---

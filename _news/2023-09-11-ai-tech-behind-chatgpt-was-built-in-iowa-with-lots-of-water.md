@@ -6,7 +6,7 @@ publishedDateTime: 2023-09-11T05:00:00Z
 originalUrl: "https://www.semissourian.com/story/3009378.html"
 webUrl: "https://www.semissourian.com/story/3009378.html"
 type: article
-quality: 17
+quality: 19
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 related:
   - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
@@ -158,15 +159,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "The Catch-22 Of AI Chatbots"
-    excerpt: "Since ChatGPT launched current data scraping (automated data collection from a website) now includes data created by AI, not just original material as it did initially."
-    publishedDateTime: 2023-09-06T14:01:00Z
-    webUrl: "https://www.forbes.com/sites/timbajarin/2023/09/06/the-catch-22-of-ai-chatbots/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "Morgan Stanley to Launch AI Chatbot to Woo Wealthy"
     excerpt: "JPMorgan Chase named Teresa Heitsenrether its chief data and analytics officer in June to lead AI adoption across the largest U.S. lender. Rival Bank of America's virtual assistant, Erica, has had more than a billion interactions with clients since it was introduced in 2018."
     publishedDateTime: 2023-09-07T10:09:00Z

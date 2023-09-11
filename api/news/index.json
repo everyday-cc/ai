@@ -2,6 +2,92 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-11-now-robots-cook-fried-chicken-to-improve-south-koreas-favourite-food.md",
+      "title": "Now, Robots Cook Fried Chicken To Improve South Korea's Favourite Food",
+      "excerpt": "Korean fried chicken is brined and double-fried, which gives it its signature crispy exterior, but the process -- more elaborate than what is typically used by US fast food chains -- creates additional labour.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/world-news/now-robots-to-cook-fried-chicken-to-improve-south-koreas-favourite-food-4378915",
+      "originalUrl": "https://www.ndtv.com/world-news/now-robots-to-cook-fried-chicken-to-improve-south-koreas-favourite-food-4378915",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2023-09/tveo15fo_south-korean-chicken_625x300_11_September_23.jpg",
+          "width": 1200,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/world-news/now-robots-to-cook-fried-chicken-to-improve-south-koreas-favourite-food-4378915/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/now-robots-to-cook-fried-chicken-to-improve-south-koreas-favourite-food-4378915/amp/1",
+      "publishedDateTime": "2023-09-11T00:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-11-upskilling-with-ai-why-managers-cant-ignore-ethics.md",
+      "title": "Upskilling with AI: Why managers can’t ignore ethics",
+      "excerpt": "Ugh. Another AI article. If you’re anything like me, you might be getting a little AI [1] fatigued - and I’m one of those people you’ll see regularly",
+      "sourceUrl": null,
+      "webUrl": "https://www.hrzone.com/lead/future/upskilling-with-ai-why-managers-cant-ignore-ethics",
+      "originalUrl": "https://www.hrzone.com/lead/future/upskilling-with-ai-why-managers-cant-ignore-ethics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hrzone.com/sites/default/files/istock-1448569430.jpg",
+          "width": 1448,
+          "height": 724,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hrzone.com/lead/future/upskilling-with-ai-why-managers-cant-ignore-ethics?amp",
+      "cdnAmpWebUrl": "https://www-hrzone-com.cdn.ampproject.org/c/s/www.hrzone.com/lead/future/upskilling-with-ai-why-managers-cant-ignore-ethics?amp",
+      "publishedDateTime": "2023-09-11T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HRZone",
+        "domain": "hrzone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-11-the-time-is-now-why-enterprises-should-invest-in-systems-of-intelligence.md",
       "title": "The Time Is Now: Why Enterprises Should Invest In Systems Of Intelligence",
       "excerpt": "Though artificial intelligence has been making inroads into the enterprise, the rise of generative AI is accelerating the pace of adoption. It’s time for enterprise CXOs to consider building systems of intelligence that complement systems of record and ...",
@@ -97,21 +183,21 @@
       ]
     },
     {
-      "path": "_news/2023-09-11-machine-learning-can-level-the-playing-field-against-match-fixing-helping-regulators-spot-cheating.md",
-      "title": "Machine learning can level the playing field against match fixing – helping regulators spot cheating",
-      "excerpt": "The study shows that machine learning can be utilised to help safeguard the integrity of sports competitions, and to assist regulatory bodies, sports organisations and law enforcement agencies maintain fairness and public trust.",
+      "path": "_news/2023-09-11-a-paralyzed-woman-couldnt-speak-for-more-than-20-years-with-ai-now-she-can-just-by-thinking.md",
+      "title": "A paralyzed woman couldn't speak for more than 20 years. With AI, now she can — just by thinking.",
+      "excerpt": "The neurotech, developed by researchers at UC San Francisco and UC Berkeley, reads the stroke survivor's brain signals and converts them to speech.",
       "sourceUrl": null,
-      "webUrl": "https://tech.hindustantimes.com/tech/news/machine-learning-can-level-the-playing-field-against-match-fixing-helping-regulators-spot-cheating-71694348321724.html",
-      "originalUrl": "https://tech.hindustantimes.com/tech/news/machine-learning-can-level-the-playing-field-against-match-fixing-helping-regulators-spot-cheating-71694348321724.html",
+      "webUrl": "https://www.businessinsider.com/ai-neurotech-allows-stroke-survivor-speak-brainwaves-thinking-paralyzed-2023-9",
+      "originalUrl": "https://www.businessinsider.com/ai-neurotech-allows-stroke-survivor-speak-brainwaves-thinking-paralyzed-2023-9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://images.hindustantimes.com/tech/img/2023/09/11/1600x900/Data_Science_Course_1686915589627_1694397187884.jpg",
-          "width": 1600,
-          "height": 900,
+          "url": "https://i.insider.com/64fe3e4ea39a1b00190ccb18?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -119,14 +205,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/machine-learning-can-level-the-playing-field-against-match-fixing-helping-regulators-spot-cheating-71694348321724.html",
-      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/machine-learning-can-level-the-playing-field-against-match-fixing-helping-regulators-spot-cheating-71694348321724.html",
-      "publishedDateTime": "2023-09-10T18:56:00-07:00",
+      "ampWebUrl": "https://www.businessinsider.com/ai-neurotech-allows-stroke-survivor-speak-brainwaves-thinking-paralyzed-2023-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-neurotech-allows-stroke-survivor-speak-brainwaves-thinking-paralyzed-2023-9?amp",
+      "publishedDateTime": "2023-09-10T17:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Hindustan Times Tech",
-        "domain": "hindustantimes.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -135,7 +230,6 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -276,7 +370,7 @@
       "originalUrl": "https://www.reuters.com/technology/meta-is-developing-new-more-powerful-ai-system-wsj-2023-09-10/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -911,57 +1005,6 @@
       ]
     },
     {
-      "path": "_news/2023-09-08-companies-want-workers-to-trust-aibut-not-completely.md",
-      "title": "Companies Want Workers to Trust AI—But Not Completely",
-      "excerpt": "Businesses are increasingly looking to their workers to be fact checkers and roadside sobriety testers of AI, but are sometimes uncertain how to set up the new workflow.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/companies-want-workers-to-trust-aibut-not-completely-3ce09029",
-      "originalUrl": "https://www.wsj.com/articles/companies-want-workers-to-trust-aibut-not-completely-3ce09029",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-848900/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-08T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-08-implement-smart-document-search-index-with-amazon-textract-and-amazon-opensearch.md",
       "title": "Implement smart document search index with Amazon Textract and Amazon OpenSearch",
       "excerpt": "In this post, we’ll take you on a journey to rapidly build and deploy a document search indexing solution that helps your organization to better harness and extract insights from documents. Whether you're in Human Resources looking for specific clauses in employee contracts, or a financial analyst sifting",
@@ -1068,6 +1111,49 @@
       ]
     },
     {
+      "path": "_news/2023-09-08-machine-learning-can-level-the-playing-field-against-match-fixinghelping-regulators-spot-cheating.md",
+      "title": "Machine learning can level the playing field against match fixing—helping regulators spot cheating",
+      "excerpt": "On the eve of the Rugby World Cup kicking off, there have already been whispers of teams spying on each other. Inevitable gamesmanship, perhaps, but there's no doubt cheating in sport is a problem authorities struggle to combat.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-09-machine-playing-field-fixinghelping.html",
+      "originalUrl": "https://techxplore.com/news/2023-09-machine-playing-field-fixinghelping.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/rugby.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-09-machine-playing-field-fixinghelping.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-machine-playing-field-fixinghelping.amp",
+      "publishedDateTime": "2023-09-08T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-08-ai-narrated-audiobooks-are-here-and-raise-some-serious-ethical-questions.md",
       "title": "AI-narrated audiobooks are here and raise some serious ethical questions",
       "excerpt": "Meet Madison and Jackson, the AI narrators or \"digital voices\" soon to be reading some of the audiobooks on Apple Books. They sound nothing like Siri or Alexa or the voice telling you about the unexpected item in the bagging area of your supermarket checkout.",
@@ -1108,109 +1194,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-openai-admits-that-ai-writing-detectors-dont-work.md",
-      "title": "OpenAI admits that AI writing detectors don’t work",
-      "excerpt": "In a section of the FAQ titled \"Do AI detectors work?\", OpenAI writes, \"In short, no. While some (including OpenAI) have released tools that purport to detect AI-generated content, none of these have proven to reliably distinguish between AI-generated and human-generated content.\"",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/09/openai-admits-that-ai-writing-detectors-dont-work/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/09/openai-admits-that-ai-writing-detectors-dont-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/ai_detector_hero_2-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/09/openai-admits-that-ai-writing-detectors-dont-work/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/openai-admits-that-ai-writing-detectors-dont-work/amp/",
-      "publishedDateTime": "2023-09-08T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-zoom-unveils-new-ai-companion-features.md",
-      "title": "Zoom Unveils New AI Companion Features",
-      "excerpt": "Zoom AI Companion. Zoom. This week, Zoom announced its new AI Companion, a suite of generative AI (GAI) tools available at no additional cost to paid Zoom subscribers. Zoom’s fi",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/09/08/zoom-unveils-new-ai-companion-features/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/09/08/zoom-unveils-new-ai-companion-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64fb3648234c67893773b636/0x0.png?format=png&width=1200",
-          "width": 480,
-          "height": 254,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/09/08/zoom-unveils-new-ai-companion-features/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/09/08/zoom-unveils-new-ai-companion-features/amp/",
-      "publishedDateTime": "2023-09-08T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

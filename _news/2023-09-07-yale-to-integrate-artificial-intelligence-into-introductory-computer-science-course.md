@@ -32,7 +32,7 @@ related:
     provider:
       name: Yale Daily News
       domain: yaledailynews.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://yaledailynews.com/wp-content/uploads/2023/09/IMG_1934-1024x1024.jpg"
         width: 1024

@@ -7,8 +7,8 @@ originalUrl: "https://www.beckershospitalreview.com/digital-health/cedar-taps-go
 webUrl: "https://www.beckershospitalreview.com/digital-health/cedar-taps-google-cloud-ai-to-speed-up-healthcare-billing-process.html"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Becker's Hospital Review
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apollo Hospitals, Google Cloud to deliver gen AI-powered healthcare service"
-    excerpt: "Using Google Cloud's latest Vertex AI and gen AI, Apollo Hospitals has developed a new Clinical Intelligence Engine (CIE), to deliver safe and secure healthcare service across the country."
-    publishedDateTime: 2023-09-06T13:26:00Z
-    webUrl: "https://www.deccanherald.com/technology/apollo-hospitals-google-cloud-to-deliver-gen-ai-powered-healthcare-service-2675521"
-    type: article
-    provider:
-      name: Deccan Herald
-      domain: deccanherald.com
-    quality: 32
   - title: "How Google Cloud is helping Culture Amp and others be AI-assisted"
     excerpt: "It is providing the infrastructure and solutions that make it easier for organisations to build and use generative AI at scale."
     publishedDateTime: 2023-09-08T02:00:00Z

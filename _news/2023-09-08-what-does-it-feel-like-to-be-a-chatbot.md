@@ -159,15 +159,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "The Catch-22 Of AI Chatbots"
-    excerpt: "Since ChatGPT launched current data scraping (automated data collection from a website) now includes data created by AI, not just original material as it did initially."
-    publishedDateTime: 2023-09-06T14:01:00Z
-    webUrl: "https://www.forbes.com/sites/timbajarin/2023/09/06/the-catch-22-of-ai-chatbots/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "Morgan Stanley to Launch AI Chatbot to Woo Wealthy"
     excerpt: "JPMorgan Chase named Teresa Heitsenrether its chief data and analytics officer in June to lead AI adoption across the largest U.S. lender. Rival Bank of America's virtual assistant, Erica, has had more than a billion interactions with clients since it was introduced in 2018."
     publishedDateTime: 2023-09-07T10:09:00Z
@@ -368,7 +359,7 @@ related:
     provider:
       name: Southeast Missourian
       domain: semissourian.com
-    quality: 17
+    quality: 19
 
 secured: "dwXg2M2XB9H5DYvZuUJPeC8XiJDHSPBOj6KU2KYipsrtuIe3a9hFY5sxQPzmJ2bKlRqkrmgYtr1s28dzJZDB9zGb5TVRHdvj+FaMsOsxdJ2cpKdgv+qKkuvcjIP3Q82C7xhd/qntr3Z+0QtWEzKNvp2oseBJktlUC/iFZLZmcIRIiDDE44dL/kNy7YS2zuK+o6aVR8ZjlCgGdJBdhX6vOci2t9fzjQtHFjw+mqRphjURCdNxyoc6qb35y04cS8VksgR7FbomPIKHJjJnxrG+pqi8yOAuk5JvRvkAp9itB+RqSeZTZw5jJWE55OEZw/t7nYV6cIZxOa3yUKYNNpQUG8YMBqBy2GPbLt07p27XGJRlLA1PK9lfBbjP7po5E09OvduOBMEehz4ZzsytY9qkjF1A9G9uTL8gw/osDTWjMRNnv0jm2GQF9R7zOsrXLHaVrEPre1Ov9yGLJaS0uDfkXnYEaWJok1EeUE2jqqGQhQGl62ovfM/ZzLtSKHEfFHtHx7gxQP/u1hK0TAeyhmEewA==;5oHiTo1f8py1brFP4OMj4w=="
 ---

@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-08-why-business-partnerships-are-vital-for-achieving-a-true-ai-renaissance.md",
+      "title": "Why business partnerships are vital for achieving a true AI renaissance",
+      "excerpt": "Explore the transformative power of generative AI and the role of collaboration in driving its adoption.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/sc/how-business-partnerships-can-help-drive-generative-ais-adoption-2023-9",
+      "originalUrl": "https://www.businessinsider.com/sc/how-business-partnerships-can-help-drive-generative-ais-adoption-2023-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64f1fdbf5114270019af37db?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-07T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-08-artificial-intelligence-a-love-story.md",
+      "title": "Artificial intelligence: A love story",
+      "excerpt": "It was set in a candy-colored dystopian future, one in which people murmur into wireless earbuds on the subway and rely on artificial intelligence engines to keep them organized and control their ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.vox.com/the-highlight/23779067/artificial-intelligence-ai-her-movies-ex-machina-2001-blade-runner-robots",
+      "originalUrl": "https://www.vox.com/the-highlight/23779067/artificial-intelligence-ai-her-movies-ex-machina-2001-blade-runner-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/dS0eMY1L-cX_HD0mzRUsgAMm8wc=/0x0:1920x1080/1400x1050/filters:focal(793x447:1099x753):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72439648/illust_1_1920px_x_1080px_asya_demidova_UPD2__1_.0.png",
+          "width": 1400,
+          "height": 1050,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vox.com/platform/amp/the-highlight/23779067/artificial-intelligence-ai-her-movies-ex-machina-2001-blade-runner-robots",
+      "cdnAmpWebUrl": "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/the-highlight/23779067/artificial-intelligence-ai-her-movies-ex-machina-2001-blade-runner-robots",
+      "publishedDateTime": "2023-09-07T13:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vox",
+        "domain": "vox.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/vox.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-09-08-machine-learning-contributes-to-better-quantum-error-correction.md",
       "title": "Machine learning contributes to better quantum error correction",
       "excerpt": "Researchers from the RIKEN Center for Quantum Computing have used machine learning to perform error correction for quantum computers—a crucial step for making these ...",
@@ -583,7 +687,7 @@
       "originalUrl": "https://techcrunch.com/2023/09/07/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 349,
+      "heat": 339,
       "tags": null,
       "images": [
         {
@@ -823,6 +927,58 @@
       ]
     },
     {
+      "path": "_news/2023-09-07-100-years-of-fearing-robots.md",
+      "title": "100 years of fearing robots",
+      "excerpt": "Part of The rise of artificial intelligence, explained An oddity of ... If we decide to use them to start writing our stories for us instead of paying writers to do so, they will generate cliché ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.vox.com/the-highlight/2023/7/10/23778610/robot-artificial-intelligence-stories-literature-sydney-bing-rur-asimov-tropes-humanity",
+      "originalUrl": "https://www.vox.com/the-highlight/2023/7/10/23778610/robot-artificial-intelligence-stories-literature-sydney-bing-rur-asimov-tropes-humanity",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/TtZm9RjTR5rv2A9jOueeubvINz0=/0x0:1920x1080/1400x1050/filters:focal(843x617:1149x923):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72439650/illust_4_1920px_x_1080px_asya_demidova.0.png",
+          "width": 1400,
+          "height": 1050,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vox.com/platform/amp/the-highlight/2023/7/10/23778610/robot-artificial-intelligence-stories-literature-sydney-bing-rur-asimov-tropes-humanity",
+      "cdnAmpWebUrl": "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/the-highlight/2023/7/10/23778610/robot-artificial-intelligence-stories-literature-sydney-bing-rur-asimov-tropes-humanity",
+      "publishedDateTime": "2023-09-07T05:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vox",
+        "domain": "vox.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/vox.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-07-building-ai-for-business-ibms-granite-foundation-models.md",
       "title": "Building AI for business: IBM’s Granite foundation models",
       "excerpt": "Explore IBM's Granite foundation models, from how we built them to how they can help you further apply generative AI in your business.\nThe post Building AI for business: IBM&#8217;s Granite foundation models appeared first on IBM Blog.\n",
@@ -831,7 +987,7 @@
       "originalUrl": "https://www.ibm.com/blog/building-ai-for-business-ibms-granite-foundation-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 159,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1059,159 +1215,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-how-we-chose-the-time100-most-influential-people-in-ai.md",
-      "title": "How We Chose the TIME100 Most Influential People in AI",
-      "excerpt": "Our first-ever list of the most influential people in AI features leaders, policymakers, artists and entrepreneurs from around the world",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6311323/how-we-chose-time100-ai/",
-      "originalUrl": "https://time.com/6311323/how-we-chose-time100-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.time.com/wp-content/uploads/2023/09/TIM231009-AI-CoverFINAL.jpg?quality&#x3D;85",
-          "width": 2363,
-          "height": 3150,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-07T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-how-b2b-trailblazers-can-win-the-ai-revolution.md",
-      "title": "How B2B Trailblazers Can Win The AI Revolution",
-      "excerpt": "Blaze A Trail With Existing AI Tools. The internet is littered with promising, powerful AI tools that can radically change the way that B2B merchants conduct business. I don't nee",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/09/07/how-b2b-trailblazers-can-win-the-ai-revolution/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/09/07/how-b2b-trailblazers-can-win-the-ai-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6357e1630645a967cb83bb8b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/09/07/how-b2b-trailblazers-can-win-the-ai-revolution/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/09/07/how-b2b-trailblazers-can-win-the-ai-revolution/amp/",
-      "publishedDateTime": "2023-09-07T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-google-political-adverts-must-disclose-use-of-ai.md",
-      "title": "Google: Political adverts must disclose use of AI",
-      "excerpt": "Google requires political ads to disclose who paid for them, and makes information about the messages available in an online ads library. Disclosures of digitally altered content in election ads must be \"clear and conspicuous\", and put where they are likely to be noticed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-66739858",
-      "originalUrl": "https://www.bbc.com/news/technology-66739858",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/149B1/production/_131010448_gettyimages-1237654891.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/technology-66739858.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66739858.amp",
-      "publishedDateTime": "2023-09-07T03:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

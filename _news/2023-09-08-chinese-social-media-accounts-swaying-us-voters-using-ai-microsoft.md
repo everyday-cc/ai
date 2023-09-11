@@ -124,24 +124,6 @@ related:
         width: 312
         height: 207
         isCached: true
-  - title: "Microsoft joins $110m fundraise of AI chip start-up d-Matrix"
-    excerpt: "Matrix claims its chips are optimised to support generative AI systems, as the company pushes into a sector largely dominated by Nvidia."
-    publishedDateTime: 2023-09-06T15:08:00Z
-    webUrl: "https://www.siliconrepublic.com/start-ups/dmatrix-microsoft-ai-chip-startup-nvidia"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 51
-  - title: "AI chip startup d-Matrix raises $110 million in funding from Temasek, Microsoft, others"
-    excerpt: "D-Matrix: Nvidia's dominant position in the AI chip markdue to a powerful combination of hardware and software has scared off potential investors in some startups, according to sources Reuters interviewed."
-    publishedDateTime: 2023-09-06T14:30:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/devices/ai-chip-startup-d-matrix-raises-110-million-in-funding-from-temasek-microsoft-others/103439827"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 43
   - title: "Generative AI Compute Platform D-Matrix Raises $110M Series B"
     excerpt: "Generative AI chip designer D-Matrix was able to close a $110 million Series B in a year that has not seen a lot of money for U.S.-based semiconductor startups."
     publishedDateTime: 2023-09-06T17:02:00Z

@@ -115,15 +115,6 @@ related:
       name: FOX 7 Austin KTBC
       domain: fox7austin.com
     quality: 24
-  - title: "Tyson Foods Is Using Self-Driving Trucks. It’s a Start."
-    excerpt: "Food giant Tyson is deploying autonomous-trucking technology from start-up Gatik in a pilot test of cost and productivity."
-    publishedDateTime: 2023-09-06T13:26:00Z
-    webUrl: "https://www.barrons.com/articles/tyson-foods-chicken-self-driving-trucks-c1c7545e"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 4
 
 secured: "tqHMGNZ2RHgjOtuTSqmdm3EiCBwQeBMQDcTMS2c+vLsbJONvRagx8pHSlz0+zlMy2m0zqanNEipWiwtrtsy7G3qFWplYed7O7zZRdnxOP1+sqeETDC8br2WFFNOkpIYG4PpUB2nD+XuxL0eo1b8gVpQp3wxkkDX4U+JssUN8j/Lv3OqgpqvO9nQSweHR5vPruef98TWFxi9aJyMig2rbyQE1HiIkQ07iX6vZGo/xeyp3kYZU9Aj3HEM05VT5WgpoDIm7TUiI8gkTHbwQO64ogB2bXgHjUch/eP7Uqu2DNiJTIzhK57aVuKoY+2jhOsboPXEvpAbVpmDaHmsx2CvWN70THgadZMdceNZZV+9G4Lg0KPXrtEPQItCVNjPkSnlAO0/MlbtqHW2aOOr+4A0f/7Yh/61415TplTL+8/Qj/CtgNYNVRMyqoThCVyU/NBjCFSJ369D1pBOsVsIlARjtUWt+FDsJK4a3iCVVynxg5Cju5IBGdf0Wjk+EhUBhT9XGqnNbqp9VZyJpbR79kuZydA==;h8ELMxExukwccewNV0QGVQ=="
 ---
