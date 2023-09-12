@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/09/11/ibm-takes-the-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/09/11/ibm-takes-the-reins-of-enterprise-ai-with-watsonx/amp/"
 type: article
 quality: 106
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "IBM’s AI platform watsonx largely designed and developed in India, says MD Sandip Patel"
+    excerpt: "Sandip Patel, MD, IBM India & South Asia speaks to CNBC-TV18 on the sidelines of IBM's annual flagship event IBM Think."
+    publishedDateTime: 2023-09-12T15:34:00Z
+    webUrl: "https://www.cnbctv18.com/business/ibms-ai-platform-watsonx-largely-designed-and-developed-in-india-md-sandip-patel-17788191.htm"
+    ampWebUrl: "https://www.cnbctv18.com/business/ibms-ai-platform-watsonx-largely-designed-and-developed-in-india-md-sandip-patel-17788191.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/business/ibms-ai-platform-watsonx-largely-designed-and-developed-in-india-md-sandip-patel-17788191.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 66
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/02/IBM-Source-Reuters-1019x573.jpg"
+        width: 1019
+        height: 573
+        isCached: true
   - title: "IBM unveils new generative AI enhancements for watsonx"
     excerpt: "IBM has announced a host of new enhancements for its watsonx platform, which include new generative AI foundation models and new capabilities. Designed to help enterprises scale and accelerate the impact of artificial intelligence,"
     publishedDateTime: 2023-09-08T16:02:00Z

@@ -26,37 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Computer Vision in the Healthcare Market Size, Trends, and Opportunities 2023-2030"
-    excerpt: "Computer Vision In Healthcare Market is expected to grow from USD 993.8 million in 2022 to USD 22266 million by 2030, at a CAGR of 47%. The increasing demand for computer vision systems in the ..."
-    publishedDateTime: 2023-09-07T23:53:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/34319184/computer-vision-in-the-healthcare-market-size-trends-and-opportunities-2023-2030"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34319184"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34319184"
+  - title: "AI Looks Set for Long-Term Growth: ETFs in Focus"
+    excerpt: "According to a report by Fortune Business Insights, the global AI market, valued at $428 billion in 2022, is set to surge from $515 billion in 2023 to an astonishing $2.03 trillion by 2030, marking a remarkable CAGR of 21.6%."
+    publishedDateTime: 2023-09-12T02:40:00Z
+    webUrl: "https://247wallst.com/investing/2023/09/11/ai-looks-set-for-long-term-growth-etfs-in-focus/"
+    ampWebUrl: "https://247wallst.com/investing/2023/09/11/ai-looks-set-for-long-term-growth-etfs-in-focus/"
+    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/investing/2023/09/11/ai-looks-set-for-long-term-growth-etfs-in-focus/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 70
+      name: 24/7 Wall St
+      domain: 247wallst.com
+    quality: 59
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Computer Vision System Market Analysis Latest Trends| Comprehensive Momentum by 2023 - 2030"
-    excerpt: "The Computer Vision System Market is Forecasted to Reach a Multimillion-Dollar Valuation by 2030, Exhibiting an Unexpected CAGR During the Forecast Period of 2023-2030, as Compared to Data from ..."
-    publishedDateTime: 2023-09-08T01:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/34342355/computer-vision-system-market-analysis-latest-trends-comprehensive-momentum-by-2023-2030"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34342355"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34342355"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 49
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://247wallst.com/wp-content/uploads/2019/01/robot_icon.jpg"
+        width: 1366
+        height: 768
         isCached: true
 
 secured: "Cavt5JiOz9jdsF+5zfXwul6P0AmUgMFdmTd6JT2Z6eYLFLJiJ3RmpMc6lP5aqNc810gtkv6zdaUKYSc/0c62DNQHFkifZyDTMDPoOHqV0rnBzgytqQuQWrnbw9XCQBYdYyvfcZDM1op0/yLMqKh+CjT2h2az+EoSXMIbCiRS/erAmWVsn7agR8sLbJ1S7IOeHnhRfkik1lRPQiwd8fijHRbIVqy3/L81gMXILhXe46Ue9ZgUA6yAh677zKSgx7r6GKn6RKhIRgMX01AbrxWqgdn7rhSYXSaTtMEMg/F/zr4396N73TPrmWqXJ23RqeHb7rdREWIxEA0m70mEC3JipDT3m8ZU7jsxLD02gfjH5yUW4Ahs9MQGlm8Gpqe+tInMAGSht3RvrU2RmjqirApP8OXXoBqQGjRkpQxg/uyC2Ips9spU/l5+gpla5FsuTJFzxm4v7LmRM/R8mDCkDTVHN/xz8zmoqVNJCHYv55+CrN50L+8umf7los+n2puCD0hYDpg3UaNr8+s1GE44fuaz+w==;zSwPfsBNswzbFxBJtYA0eA=="

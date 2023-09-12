@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/generative-ai-meet-your-partner-in-custom
 webUrl: "https://www.ibm.com/blog/generative-ai-meet-your-partner-in-customer-service/"
 type: article
 quality: 119
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Salesforce and AWS Deepen Generative AI Partnership with Harmonized Customer Profile Offerings"
+    excerpt: "Salesforce and Amazon Web Services (AWS) today announced an expanded partnership for new Bring Your Own Lake (BYOL) and Bring Your Own"
+    publishedDateTime: 2023-09-12T17:44:00Z
+    webUrl: "https://www.datanami.com/this-just-in/salesforce-and-aws-deepen-generative-ai-partnership-with-harmonized-customer-profile-offerings/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 42
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/09/aws-salesforce-300x236.png"
+        width: 300
+        height: 236
+        isCached: true
   - title: "How To Hire A COO For Your Startup In A Generative AI Era"
     excerpt: "Some think a startup doesn’t really need a COO, but Davidovs Venture Collective's Marina Davidova disagrees and lays out the case for the necessity of this important hire and how generative AI can help."
     publishedDateTime: 2023-09-08T11:00:00Z

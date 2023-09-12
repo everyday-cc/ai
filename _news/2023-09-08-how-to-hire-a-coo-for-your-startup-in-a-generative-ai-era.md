@@ -38,6 +38,20 @@ related:
         width: 2400
         height: 1260
         isCached: true
+  - title: "Salesforce and AWS Deepen Generative AI Partnership with Harmonized Customer Profile Offerings"
+    excerpt: "Salesforce and Amazon Web Services (AWS) today announced an expanded partnership for new Bring Your Own Lake (BYOL) and Bring Your Own"
+    publishedDateTime: 2023-09-12T17:44:00Z
+    webUrl: "https://www.datanami.com/this-just-in/salesforce-and-aws-deepen-generative-ai-partnership-with-harmonized-customer-profile-offerings/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 42
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/09/aws-salesforce-300x236.png"
+        width: 300
+        height: 236
+        isCached: true
   - title: "Christmas priorities, consumer confidence, generative AI: 5 interesting stats to start your week"
     excerpt: "This upcoming festive season it seems it will be the thought that counts for shoppers, as almost two-thirds (64%) of consumers say a thoughtful gift is preferred over an expensive one. Almost half of consumers (48%) say they spend a lot of time exploring their options before making festive gift purchases."
     publishedDateTime: 2023-09-11T13:48:00Z

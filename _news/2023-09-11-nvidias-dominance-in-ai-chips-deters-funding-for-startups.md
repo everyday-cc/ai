@@ -92,6 +92,34 @@ related:
         width: 620
         height: 436
         isCached: true
+  - title: "Enfabrica Raises $125M Series B for AI Infrastructure Networking Chips"
+    excerpt: "Enfabrica Corporation, a startup building converged networking and memory fabric silicon and software for AI and accelerated computing workloads, today announced its close of a $125 million Series B financing round."
+    publishedDateTime: 2023-09-12T16:02:00Z
+    webUrl: "https://insidehpc.com/2023/09/enfabrica-raises-125m-series-b-for-ai-infrastructure-networking-chips/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 54
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2023/08/cover.jpg"
+        width: 843
+        height: 394
+        isCached: true
+  - title: "Nvidia-Backed AI Chip Networking Startup Enfabrica Lands $125M Series B"
+    excerpt: "The deal is the latest example of investors backing the actual hardware, chips and other infrastructure needed for generative AI modeling."
+    publishedDateTime: 2023-09-12T16:57:00Z
+    webUrl: "https://news.crunchbase.com/ai-robotics/enfabrica-ai-networking-chip-startup-funding-nvda/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 54
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/computer-chip.jpg"
+        width: 900
+        height: 506
+        isCached: true
   - title: "Nvidia’s dominance in AI chips deters funding for start-ups"
     excerpt: "Nvidia has “indirectly” contributed to overall AI chip fundraising woes, because investors want “home run only type investments with a huge investment, huge return”, Mythic CEO Dave Rick said. Difficult economic conditions have added to the downturn in the cyclical semiconductor industry, Rick said."
     publishedDateTime: 2023-09-12T06:57:00Z
@@ -106,6 +134,15 @@ related:
         width: 1500
         height: 800
         isCached: true
+  - title: "Enfabrica Raises $125 Million Series B to Fuel Ramp of AI Infrastructure Networking Chips"
+    excerpt: "The oversubscribed $125M Series B round was led by crossover firm Atreides Management, with supporting capital from Series A lead Sutter Hill Ventures, and new capital from IAG Capital, Liberty Global, NVIDIA, Valor Equity Partners, Infinitum and Alumni Ventures."
+    publishedDateTime: 2023-09-12T16:21:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/09/12/9879381.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 25
   - title: "Enfabrica raises $125M to scale up GPUs, memory, networks and storage for distributed AI workloads"
     excerpt: "Enfabrica raises $125M to scale up GPUs, memory, networks and storage for distributed AI workloads - SiliconANGLE"
     publishedDateTime: 2023-09-12T13:00:00Z

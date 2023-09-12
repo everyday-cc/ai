@@ -39,6 +39,20 @@ related:
         width: 1500
         height: 800
         isCached: true
+  - title: "Prosus Launches Generative AI Tool, PlusOne"
+    excerpt: "Naspers-owned Prosus today announced the launch of PlusOne.io, a new all-in-one AI team member that is accelerating the performance of its global network of portfolio businesses, across fintech, food delivery, classifieds and edtech."
+    publishedDateTime: 2023-09-12T17:36:00Z
+    webUrl: "https://za.investing.com/news/prosus-launches-generative-ai-tool-plusone-2865363"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 39
+    images:
+      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
+        width: 251
+        height: 282
+        isCached: true
 
 secured: "mnUHumo5YZy3t+mKNrPY45fHFqrALIuj7dNc6DuGujnnc513U8q1DnW0nbualjNvGdL8qM9XK64EgBuET5TY/KVInbfsQfWFppFYxLBDdGKsZbz7ZIz6662H3XwaMIZmV3AyIRdPyQCQalo3jgOXg4NTcEeKagk5dQ2MyAZw/ZWIA/kM0Ap7umPylHutgRfdHJGetrVMCgygrM2VKVWB/tn9a9d0FjcNVrOeqjnJZX3K+rOxf2gxsMRCS036XrS6WBfgG2R3u5q0/g7Lbpi43xDzJrE+6jY3ZwPITG3MdLY4C9A3gKRI94kxkYPfUA4gVK1sBJBfxtPdXISBeudr8BGOUbpDz39zm8mmiUq4+50=;kB0Y9eQLdN+xOoPSFWrQYg=="
 ---

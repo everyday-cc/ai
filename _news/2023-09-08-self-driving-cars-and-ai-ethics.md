@@ -26,69 +26,28 @@ images:
     isCached: true
 
 related:
-  - title: "Politics and AI: Google to require artificial intelligence disclosures on ads"
-    excerpt: "Google is the first tech company to require an AI disclosure, Politico reported. The Federal Election Commission has yet to regulate if and when AI can be used in campaigns, but in August it agreed to seek public comment on whether to make updates to its policies to include AI advertisements."
-    publishedDateTime: 2023-09-07T23:41:00Z
-    webUrl: "https://www.kiro7.com/news/trending/politics-ai-google-require-artificial-intelligence-disclosures-ads/D33TEJ2I5NE4NNAWQMRQKJAMAA/"
-    ampWebUrl: "https://www.kiro7.com/news/trending/politics-ai-google-require-artificial-intelligence-disclosures-ads/D33TEJ2I5NE4NNAWQMRQKJAMAA/?outputType=amp"
-    cdnAmpWebUrl: "https://www-kiro7-com.cdn.ampproject.org/c/s/www.kiro7.com/news/trending/politics-ai-google-require-artificial-intelligence-disclosures-ads/D33TEJ2I5NE4NNAWQMRQKJAMAA/?outputType=amp"
+  - title: "Siri and Apple’s AI Moves"
+    excerpt: "We’re midway through Apple’s new Watch Series 9 introduction and we’ve heard how Siri has gotten better. The assistant now processes info right on the device and you can ask it about your health data."
+    publishedDateTime: 2023-09-12T17:25:00Z
+    webUrl: "https://www.wsj.com/livecoverage/apple-iphone-event-2023/card/siri-and-apple-s-ai-moves-MptPFrA2JGuuCuS9RDvY"
     type: article
     provider:
-      name: KIRO-TV
-      domain: kiro7.com
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 69
     images:
-      - url: "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/7InCH-vu-cPef2OtufK0V-lZnNQ=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/74ROHO3S3JDAVCBSNLZYGZ5DME.jpg"
-        width: 1440
-        height: 810
-        isCached: true
-  - title: "Amazon Now Requires Authors to Disclose AI-Generated Content"
-    excerpt: "After complaints from the Authors Guild and others, Amazon is now requiring writers to disclose the use of AI, though it's not yet publicly identifying those books in its marketplace."
-    publishedDateTime: 2023-09-09T17:29:00Z
-    webUrl: "https://www.pcmag.com/news/amazon-starts-requiring-writers-to-disclose-ai-generated-content"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/05fDpqPt4Tw50fbQCuGXvAr-1.fit_lim.size_1200x630.v1694278993.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Today in AI: Meta is developing a new AI system, Google rolls out AI-generated search enhancement outside US, and more"
-    excerpt: "On August 31, the company expanded its search feature powered by SGE (Smart Global Engine) to two other regions, namely India and Japan. These two countries are noteworthy for being the first to have access to the new AI extension outside of the US. More here."
-    publishedDateTime: 2023-09-11T04:40:00Z
-    webUrl: "https://www.moneycontrol.com/news/trends/today-in-ai-meta-is-developing-a-new-ai-system-google-rolls-out-ai-generated-search-enhancement-outside-us-and-more-11345781.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/trends/today-in-ai-meta-is-developing-a-new-ai-system-google-rolls-out-ai-generated-search-enhancement-outside-us-and-more-11345781.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/today-in-ai-meta-is-developing-a-new-ai-system-google-rolls-out-ai-generated-search-enhancement-outside-us-and-more-11345781.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 35
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/05/Today-in-AI-cover-image.jpg"
+      - url: "https://images.wsj.net/im-850656/social"
         width: 1280
-        height: 720
+        height: 640
         isCached: true
-  - title: "How Google Cloud is helping Culture Amp and others be AI-assisted"
-    excerpt: "It is providing the infrastructure and solutions that make it easier for organisations to build and use generative AI at scale."
-    publishedDateTime: 2023-09-08T02:00:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/focus/how-google-cloud-helping-culture-amp-and-others-be-ai-assisted"
+  - title: "Bimbo Bakeries Applies Artificial Intelligence"
+    excerpt: "Using Antuit.ai’s AI technology, Bimbo has improved order accuracy and minimized food waste even amid the disruptions caused by COVID-19."
+    publishedDateTime: 2023-09-08T13:22:00Z
+    webUrl: "https://www.automationworld.com/analytics/article/33011010/bimbo-bakeries-applies-artificial-intelligence"
     type: article
     provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 19
-  - title: "Amazon to require some authors to disclose the use of AI material"
-    excerpt: "NEW YORK -- After months of complaints from the Authors Guild and other groups, Amazon .com has started requiring writers who want to sell books through its e-book program to tell the company in advance that their work includes artificial intelligence material."
-    publishedDateTime: 2023-09-08T18:09:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/amazon-require-authors-disclose-ai-material-103042285"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Automation World
+      domain: automationworld.com
     quality: 17
 
 secured: "y+8y1wcPdSJTKHjqTWDuHcXXjcUgy/kR6F13gseN9Kr8eEijuRY/bBQllShxvmKWNvyzZDKmzmW50+ZBcFmUoU8z7+vuKvxQ13wkyYkfZtJOE+/bE0PrmYv6t4obxwfSAagRHLNMe+UCtZfmDn7koHGqnl6lIhmr8GTNRQdZT3BrGYUnWQnfqcQqgcJzjM6ET5VotIOC+Y+2FfGgus7nRiWzL12DdLNEAX5od4qmCp4SeW63yd0BcH6E0SJaSG07+CyjYQ7oOlKTTeAJkr9Mhrw9WlIhQ5lD6LbS5+S82u0eP/aZibHrL7un/fQEzrUksztmy4akBtivLLCKFkdSJpoON5COkOSBxlkVyY+9oiP1MaenfiD5Qp9jcAJ1lYKXEpFL25yc12WlIJLse4gWWvkaevT6ZNIrVzJSKzjq0MXBmi39d1yiDYPljdS5Wlq533sRoJa6I7AmVbXr6DNWhUBCADB/VFNMdoAArulBWW4WJOse5zWekYcOmvZGqU6nWyUIO98bfPsHlFt25o0BOw==;2aWhvu5DO3Rs1va/LAsmOA=="

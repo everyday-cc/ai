@@ -153,6 +153,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Why ChatGPT isn't conscious—but future AI systems might be"
+    excerpt: "Google engineer Blake Lemoine made headlines by claiming the company's LaMDA chatbot had achieved sentience. The software had the conversational ability of a precocious seven-year-old, Lemoine said, and we should assume it possessed a similar awareness of the world."
+    publishedDateTime: 2023-09-12T16:47:00Z
+    webUrl: "https://techxplore.com/news/2023-09-chatgpt-isnt-consciousbut-future-ai.html"
+    ampWebUrl: "https://techxplore.com/news/2023-09-chatgpt-isnt-consciousbut-future-ai.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-chatgpt-isnt-consciousbut-future-ai.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/why-chatgpt-isnt-consc.jpg"
+        width: 1356
+        height: 668
+        isCached: true
   - title: "Artificial intelligence technology behind ChatGPT was built in Iowa"
     excerpt: "Water pulled from the Raccoon and Des Moines rivers in central Iowa cools a powerful supercomputer as it helped teach its AI systems how to mimic human writing."
     publishedDateTime: 2023-09-09T20:31:00Z
@@ -226,6 +242,20 @@ related:
       - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/205284161_205284161-4c363406331a4942848999df02e84f49_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
         width: 600
         height: 400
+        isCached: true
+  - title: "AI Miracle: How ChatGPT Cracked a Boy's Chronic Pain Mystery"
+    excerpt: "Despite numerous efforts - including an orthodontic intervention to address a narrow palate and a brief foray into physical therapy prompted by concerns ... to the potential harmony between artificial intelligence and human perseverance, uniting in the ..."
+    publishedDateTime: 2023-09-12T16:19:00Z
+    webUrl: "https://yourstory.com/2023/09/ai-medical-breakthrough-child-chronic-pain-diagnosis"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 39
+    images:
+      - url: "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/91a00fbe-7dcc-491f-84bb-38390d7bd605-1694526754103.jpg?fm=png&auto=format"
+        width: 3200
+        height: 1600
         isCached: true
   - title: "Survey Reveals 16% Of Japanese Have Tried Chatgpt And Other Generative Ai"
     excerpt: "In the graph below titled \"The frequency of AI usage among social networking users,\" a cross-tabulation of Q2 \"Do you refer to social networks Youtube, X (Twitter), Facebook ... we will announce the research results on the use of social networking services ..."

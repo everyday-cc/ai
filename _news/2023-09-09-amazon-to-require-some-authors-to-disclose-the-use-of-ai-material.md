@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Politics and AI: Google to require artificial intelligence disclosures on ads"
-    excerpt: "Google is the first tech company to require an AI disclosure, Politico reported. The Federal Election Commission has yet to regulate if and when AI can be used in campaigns, but in August it agreed to seek public comment on whether to make updates to its policies to include AI advertisements."
-    publishedDateTime: 2023-09-07T23:41:00Z
-    webUrl: "https://www.kiro7.com/news/trending/politics-ai-google-require-artificial-intelligence-disclosures-ads/D33TEJ2I5NE4NNAWQMRQKJAMAA/"
-    ampWebUrl: "https://www.kiro7.com/news/trending/politics-ai-google-require-artificial-intelligence-disclosures-ads/D33TEJ2I5NE4NNAWQMRQKJAMAA/?outputType=amp"
-    cdnAmpWebUrl: "https://www-kiro7-com.cdn.ampproject.org/c/s/www.kiro7.com/news/trending/politics-ai-google-require-artificial-intelligence-disclosures-ads/D33TEJ2I5NE4NNAWQMRQKJAMAA/?outputType=amp"
-    type: article
-    provider:
-      name: KIRO-TV
-      domain: kiro7.com
-    quality: 69
-    images:
-      - url: "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/7InCH-vu-cPef2OtufK0V-lZnNQ=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/74ROHO3S3JDAVCBSNLZYGZ5DME.jpg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "Amazon Now Requires Authors to Disclose AI-Generated Content"
     excerpt: "After complaints from the Authors Guild and others, Amazon is now requiring writers to disclose the use of AI, though it's not yet publicly identifying those books in its marketplace."
     publishedDateTime: 2023-09-09T17:29:00Z
@@ -48,45 +32,22 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Self-Driving Cars and AI Ethics"
-    excerpt: "Peter Singer & Tse Yip Fai consider the implications of autonomous vehicles for passengers, pedestrians, and the planet."
-    publishedDateTime: 2023-09-08T10:38:00Z
-    webUrl: "https://www.project-syndicate.org/commentary/san-francisco-self-driving-cars-ethical-implications-by-peter-singer-and-tse-yip-fai-2023-09"
+  - title: "Self-publishers must declare if content sold on Amazon’s site is AI-generated"
+    excerpt: "Retailer announces new rules for its Kindle Direct Publishing forum after complaints about AI-produced works being sold under human writers’ names"
+    publishedDateTime: 2023-09-11T16:08:00Z
+    webUrl: "https://www.theguardian.com/books/2023/sep/11/self-publishers-must-declare-if-content-sold-on-amazons-site-is-ai-generated"
+    ampWebUrl: "https://amp.theguardian.com/books/2023/sep/11/self-publishers-must-declare-if-content-sold-on-amazons-site-is-ai-generated"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2023/sep/11/self-publishers-must-declare-if-content-sold-on-amazons-site-is-ai-generated"
     type: article
     provider:
-      name: Project Syndicate
-      domain: project-syndicate.org
-    quality: 56
+      name: The Guardian
+      domain: theguardian.com
+    quality: 54
     images:
-      - url: "https://webapi.project-syndicate.org/library/5871f1e97c2521f4eabc1bc885f6e5c6.2-1-super.1.jpg"
-        width: 1360
-        height: 680
+      - url: "https://i.guim.co.uk/img/media/ab515b8305f51c203d6ffce2a5f9fadb8d7cdc9a/0_384_5758_3455/master/5758.jpg?width=620&quality=85&auto=format&fit=max&s=23576c53c58ed35a413435e7c203cce2"
+        width: 620
+        height: 372
         isCached: true
-  - title: "Today in AI: Meta is developing a new AI system, Google rolls out AI-generated search enhancement outside US, and more"
-    excerpt: "On August 31, the company expanded its search feature powered by SGE (Smart Global Engine) to two other regions, namely India and Japan. These two countries are noteworthy for being the first to have access to the new AI extension outside of the US. More here."
-    publishedDateTime: 2023-09-11T04:40:00Z
-    webUrl: "https://www.moneycontrol.com/news/trends/today-in-ai-meta-is-developing-a-new-ai-system-google-rolls-out-ai-generated-search-enhancement-outside-us-and-more-11345781.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/trends/today-in-ai-meta-is-developing-a-new-ai-system-google-rolls-out-ai-generated-search-enhancement-outside-us-and-more-11345781.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/today-in-ai-meta-is-developing-a-new-ai-system-google-rolls-out-ai-generated-search-enhancement-outside-us-and-more-11345781.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 35
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/05/Today-in-AI-cover-image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "How Google Cloud is helping Culture Amp and others be AI-assisted"
-    excerpt: "It is providing the infrastructure and solutions that make it easier for organisations to build and use generative AI at scale."
-    publishedDateTime: 2023-09-08T02:00:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/focus/how-google-cloud-helping-culture-amp-and-others-be-ai-assisted"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 19
 
 secured: "I9t/8L/LisvMTcj6N9a8Nygyh4PB541Ex9/yj4xiB7khB3xCz+HyXDrjt5tOTOTwWTYek9tB2tnL2nmao99XUv56SlYlpb9kWlXLHIQtPcsMc3AmwmNw5CtmKFPh2eepkeGdU20fPPXCAuruMGr2V1xcfL1KFYb10eQpRpJT3MdgDzDlpjcfS84hmhCR7olPbX89Yb/vPqkrgNb0QqQaPK09gtbsFolpTsnH3xbukbL0kuRQhXMxNscdk0Kovnrn6D3OwEffovQsPXe799yvbvcPcb+JCUiZfdNvo4maSDochx1QrZ0fjCer0Ykvp/gKN6p8A4KWU48Mb2+U8YzBAG7e+ux+lr/UBzqxYdVw5QJsRUbaaTbfnGbQ18s5lh67HHm0N5J691cVgV9RI3TImfXPDW4e3i5UFkdT3SGWxYfEmu32/Z+H+FKo1JpBfl7gOfYVUgXWYWWYYa2/irvYMnG0+q941bWka+vulrJfLa4oZOhijsSgR0o7+nOkCxfhkGzqWLoWPDgP7/KCoXcWnA==;pBDhLJd7D1yafeREDBTzsQ=="
 ---

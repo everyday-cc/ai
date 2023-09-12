@@ -117,6 +117,22 @@ related:
         width: 1718
         height: 892
         isCached: true
+  - title: "Microsoft president and Nvidia chief scientist to testify in Senate AI hearings"
+    excerpt: "Digital advocacy groups warn Senate judiciary committee that tech companies cannot be trusted to regulate themselves"
+    publishedDateTime: 2023-09-12T15:16:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/sep/12/us-senate-ai-hearings-microsoft-nvidia"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/sep/12/us-senate-ai-hearings-microsoft-nvidia"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/sep/12/us-senate-ai-hearings-microsoft-nvidia"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 70
+    images:
+      - url: "https://i.guim.co.uk/img/media/0f30b18e5ff1e2f87f9a61e36a9be575eb4595d7/0_50_4500_2700/master/4500.jpg?width=620&quality=85&auto=format&fit=max&s=239691079d1750a589b4a728380d2704"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Microsoft joins hands with Paige to build world’s largest AI model to fight cancer"
     excerpt: "Tech giant Microsoft has joined hands with Paige, a digital pathology provider, to build world’s largest image-based artificial intelligence (AI) models that can fight against cancer. The new AI model is orders-of-magnitude larger than any other image-based AI model existing today, configured with billions of parameters, the companies said."
     publishedDateTime: 2023-09-11T06:34:00Z
@@ -156,20 +172,6 @@ related:
       name: Wired
       domain: wired.com
     quality: 62
-  - title: "Beijing Denies Microsoft’s Claims China is Using AI to Target US Voters"
-    excerpt: "Microsoft researchers claim to have discovered a network of fraudulent, China-controlled social media accounts attempting to influence US voters through artificial intelligence. A Chinese embassy official in Washington,"
-    publishedDateTime: 2023-09-07T23:54:00Z
-    webUrl: "https://www.chiangraitimes.com/tech/beijing-denies-microsofts-claims-china-is-using-ai-to-target-us-voters/"
-    type: article
-    provider:
-      name: Chiangrai Times
-      domain: chiangraitimes.com
-    quality: 56
-    images:
-      - url: "https://www.chiangraitimes.com/wp-content/uploads/2023/09/Beijing-Denies-Microsofts-Claims-China-is-Using-AI-to-Target-US-Voters-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "China using AI to sway US voters, alleges Microsoft"
     excerpt: "A Chinese embassy spokesperson in Washington said that accusations of China using AI to create fake social media accounts were “full of prejudice and malicious speculation” and that China advocates for the safe use of AI."
     publishedDateTime: 2023-09-08T01:34:00Z
@@ -241,20 +243,6 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2023/09/10/2276799.JPG"
         width: 1240
         height: 828
-        isCached: true
-  - title: "China is using artificial intelligence to target U.S. voters, Microsoft says"
-    excerpt: "A new report by Microsoft says China is using artificial intelligence to influence voters in the U.S. CBS News intelligence and national security reporter Olivia Gazis has more on the type of AI imagery and content being put out as part of the cyber campaign."
-    publishedDateTime: 2023-09-08T01:08:00Z
-    webUrl: "https://www.cbsnews.com/video/microsoft-china-using-ai-to-target-us-voters/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 51
-    images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/09/08/bab07e80-e0b9-40ec-8a25-c5dcc409b462/thumbnail/1200x630/7c3730bf20362c1a335dac60796f326e/cbsn-fusion-microsoft-china-using-ai-to-target-us-voters-thumbnail-2273211-640x360.jpg?v=181d27d1e918a6408b48ea2e220df310"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Microsoft and Paige join forces to develop world’s biggest AI model to detect cancer"
     excerpt: "Yesterday, a partnership was announced between Paige, a pioneering cancer diagnostics company, and Microsoft. The collaboration is to build the largest"

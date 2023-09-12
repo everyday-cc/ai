@@ -24,6 +24,17 @@ images:
     height: 768
     isCached: true
 
+related:
+  - title: "How the customer experience has been transformed by fintech"
+    excerpt: "AI and advanced predictive analytics are by far and away the ... it’s only a matter of time before it’s geared up to deal with more complex queries. Here are some of how fintech is improving customer lives. Finance management tools During these ..."
+    publishedDateTime: 2023-09-12T16:32:00Z
+    webUrl: "https://www.finextra.com/blogposting/24877/how-the-customer-experience-has-been-transformed-by-fintech"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
+
 secured: "NkbdBdeimxZL7CVbwXMfBqsvdCGqVWvYZsvdqIFm+Rn7sRcj93rN/vQltLkaBjYaBRvxx2dOqVZLuWcXUvFUWTjNn57EWqkRIW0QcqxBW8UZ4yWxexKn0ClZnYz2mFY+evQm4Wt4olh1rYyccyH2dgmOlqt5REyIpeBtqGba40F4ioVntkMJPfKf57d8w2s5kBlBhp7xC/56az2ethZi6+JSJYeGjgs6ktHRZo5aCFVgI6l3L0llX+F1km7+E092+bnF31515lnE3+SFQOZt626E9vP+U7iOtcanBF6Z1VqhShv9UKAC4CurNfHR/L3YR8b7cBBUanzs3PfzteaAEjbSVviuD3ILj9y1n3GjL2NoZFwNf6pw6RRsFNhglbZZKt9QZEGps+TubFPs88mfOQw1svj7KmYYL3Nf5xDqkGyMCE5gDhBW8fCcGZ9MvhAGDVNJzOdxJpPwKOR/QLx7jiRky5RvGPNb0BzeV4InuEMVX1seqlH0DBIJgv9ZzDX9io61hYmCx2wX2GFs437nCA==;pmYxEg9/Ps9aQukYdUwaGg=="
 ---
 

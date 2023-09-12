@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The Human Touch in LLMs and GenAI: Shaping the Future of AI Interaction"
+    excerpt: "About the author: Rohan Agrawal is the CEO and Founder of Cogito Tech, a provider of AI training solutions that offers a human-in-the-loop workforce for computer vision, natural language processing, content moderation, and data and document processing."
+    publishedDateTime: 2023-09-12T17:31:00Z
+    webUrl: "https://www.datanami.com/2023/09/12/the-human-touch-in-llms-and-genai-shaping-the-future-of-ai-interaction/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2020/10/robot_finger_shutterstock_Sdecoret.jpg"
+        width: 891
+        height: 525
+        isCached: true
 
 secured: "qj8jFRM07PZXetS+W9Sy5HGAB7AVWkajAXDLemlNXxELEPenlnOTgQdIUeSILLt0G+NFOEIkoetUpUUgYPtN6g2dop9VPfUXZW9Xb2YUaeQSmB6QdJgSYrZRP+TcTW7RrGpWEZEWVMSEMaO9iAjOvtg9D14DynPgsPMhi3WXV5BPBosFBCHneSiO0NzWDoAE+HOJ1TZUP7oViHoPDP9ye5SEqq2CZ+As6O8+ntduI7vrDNbN2LHAKAc/K1QDYpr4AGzlLODhwNaJgqOp6cP2m7bE/l9f6ruODgNT4O3FxWQcy9c3zY0q0j5z1TEEYb1C3OQQ19Z1gIU85Q8ligOTkJqY/76piakOcxo/nnMqEJQ=;Phic0vJt7Qh1u53iU9mAtg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/09/11/the-futu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/09/11/the-future-of-artificial-intelligence-predictions-and-trends/amp/"
 type: article
 quality: 89
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.cio.com/wp-content/uploads/2023/09/iStock-183930658-1.jpg?quality=50&strip=all&w=1024"
         width: 1024
         height: 674
+        isCached: true
+  - title: "The Human Touch in LLMs and GenAI: Shaping the Future of AI Interaction"
+    excerpt: "About the author: Rohan Agrawal is the CEO and Founder of Cogito Tech, a provider of AI training solutions that offers a human-in-the-loop workforce for computer vision, natural language processing, content moderation, and data and document processing."
+    publishedDateTime: 2023-09-12T17:31:00Z
+    webUrl: "https://www.datanami.com/2023/09/12/the-human-touch-in-llms-and-genai-shaping-the-future-of-ai-interaction/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2020/10/robot_finger_shutterstock_Sdecoret.jpg"
+        width: 891
+        height: 525
         isCached: true
 
 secured: "/8vIeem3ZQfjh7ycn77apP8yGDtNU/hguA+BZX3tFWNFv5GtT4erMdpzZ3A2cbeP9hwUTp7cDFg724cSAcpGDWgA6u8WGT+lgYNN8XGOUVs5GREzQ7pXZdvkmuadYbHboq8jC6oYLnU/MKecCifb4CjOw5T4SBvpieokz2eHdYG+NbPqcilwvSV5eGlcwpXJEO/O7FfaauYS0+oSw7dLW+TgJuQ270lUrxzRQAtXsCemM1XREAFteYz3oOKTDfid27yAnNZsOGJQrPbvqKKV6bqiXtGvbTmgr3FPfMS4/Ser4B8d1YMdW7qewMtS0Vih9mFsoMPYaxFUvWFh/O2r1ePSOXAgqoDGUfHOSSXvk9tou80g51J8kpWoF/qgSZTw7Qcw74KddWXj9kSmAI+1rL/ikjH3Uy123aoBaYesGSAH6B4MqWTl/qp3vTLvP8Gc4H0s+Bs2c9UxK5TYgmKTTIfhZFxXgpMpsEOZK8fhQFcYdFBRUfaziVdqkgCo8QPO3FKmTJ2M5cIrNnbcv3nSAw==;NPfjBFZpUaQRyvwEIdYDAA=="

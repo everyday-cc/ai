@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/markets/deals/ai-firm-brand-engagement-net
 webUrl: "https://www.reuters.com/markets/deals/ai-firm-brand-engagement-network-go-public-via-spac-deal-sources-2023-09-07/?ref=biztoc.com"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Reuters
@@ -26,22 +26,6 @@ images:
     width: 255
     height: 255
     isCached: true
-
-related:
-  - title: "AI firm Brand Engagement Network to go public via SPAC deal -sources"
-    excerpt: "Artificial intelligence startup Brand Engagement Network (BEN) has agreed to go public through a merger with a blank check acquisition company in a deal valuing the combined company at $358 million, according to people familiar with the matter."
-    publishedDateTime: 2023-09-07T23:45:00Z
-    webUrl: "https://www.aol.com/news/ai-firm-brand-engagement-network-204552421.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
-    images:
-      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "y+e3mxq7c00MzEapsIYwu0sgCddThBZ+OoCPQgi2JgN7nfVR9n3xoQ/RFrBKFjPENUgeTtjhPvhP0aKn1SeO9OYmfo6iKxcPX1O/r9jTq6FDNv6r+W9MVz6f7eHNzUKp/GTz8j0FTUG8AApqcbCVt3eq3PlJ48m3PQZ0uowlHebhsnd2wfvyiQqbY/rFJDYODsDqIDHZGe+jMYoIrPm4jZ+CIF+S8qTGXHlVjHsDak+Gf9INolFYpuV6G940D5e0ywWDr68Q5gsLjuhWXko6jdAHgqXr97xL1ilZ4/b3zUD2gQTpQYTbnbQ6Ht6I4YOfkTK8khdh9R4WFFqbDzCPVIu6ys9MgBYhl/MYBu8JtuI=;rzB7xSWly4afAtPPGcPEpA=="
 ---

@@ -8,7 +8,7 @@ webUrl: "https://techxplore.com/news/2023-09-ai-high-resolution-vision.html"
 ampWebUrl: "https://techxplore.com/news/2023-09-ai-high-resolution-vision.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-ai-high-resolution-vision.amp"
 type: article
-quality: 74
+quality: 76
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - IBM AI
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2023/ai-model-speeds-up-hig.jpg"
@@ -116,6 +117,6 @@ related:
         height: 900
         isCached: true
 
-secured: "4/yhfonZxAdVNJPaxRZoQrOISpidi48D9p9swta4c4MThfInYYUtC3Xa1OsTQ4wjCNrQQsUBcbsWjqG7p9GWQHkJsLKrzp6nlY75cwpPr0p5xaxGE35zDFxv8PwcvxtndAw9m0w+MfRNM4KycxGd/EV3q0I+UQKerLUOW+pU8SaFHCk6akIfZOVsYfxrv2m42lZG8WhhIhrp77iQBcaCJbPWqEkJ52tvv+Xcfl3CPySU1eQbOeVUGKs3LK4NpaTEBuEbvew+gijL2+0yliLsBJEBhWoblMvyrAdrBiRm65KuZV9dj35YdJ4SDxCdQytXUzFbgKZ6X+fzePxaR1t7mXicsHpKb18hKEy9k85u0Jk=;NRbPY7L/jybFTJIxFLSLJQ=="
+secured: "ZUwsJkgbjX/sUho7Mr+Y+OK6dIU8RA58hcGw29nuQHFI/a2/R5zsd1AEBA2q0y1mriPIzkkkZXjHcxDRFzr+v0nlwpJeNOGEyd1AMKKl5xvrkGbquTTQcQZnx03T4EibZMEn7eyOj2YR4IAPtCie9Preo4bH0YlWkPCdlJ4Q9BqhUJm1Un/QxI9brYoAdY8f6K2mtuvZWwUDYFraglVaXGK+yHe05nLzA57IneakLPyAlZGY43jqUF41JucmOU4fViOKsOqA2oQZKSzLwTm3Dm4+iInh/cotJIwihpi2GrlxrE8vRcXcIRxgGBoxYmXA19WJNnf0ei06Y3Yh6MBtziZY/wzbNRmCX2y263ODE2OYyLyFRjnfzESjPaBOsAk87SC/KdeGucmY9p8NHi7GePWQV5ejT2w8drJII6yS01HvOmX+9mgAa+YSt4hCAWCBUil/zstWHHxr7OVhqhKr5vc94szSCeZHp3EszD6R9DFR7eYCObaD9EEUbRbFN77prLWQ3sErf+rvENKWAxumWw==;a6m7hHP2JVR8y2LHXc7FEg=="
 ---
 
