@@ -97,6 +97,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Revolutionizing The Hospitality Industry With Artificial Intelligence"
+    excerpt: "By harnessing the power of AI, hoteliers can revolutionize the guest experience, personalize service, streamline operations and bring more to the bottom line."
+    publishedDateTime: 2023-09-11T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/11/revolutionizing-the-hospitality-industry-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Say hello to Coach AI"
     excerpt: "Coursera chief executive officer Jeff Maggioncalda wants to give you an AI-generated personal tutor. The online learning platform has recently launched Coach, a chatbot tool that plugs into ChatGPT. It answers questions by sifting through and summarising Coursera’s entire curricula."
     publishedDateTime: 2023-09-10T01:10:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.theaustralian.com.au/inquirer/the-indigenous-voice-to-
 webUrl: "https://www.theaustralian.com.au/inquirer/the-indigenous-voice-to-parliament-is-nothing-to-fear/news-story/7eaf8e870065d930ebcdd0cd367dab78"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -19,15 +19,17 @@ topics:
   - AI
 
 related:
-  - title: "Indigenous voice to parliament No camp’s query: Did Greens MP Dorinda Cox invoke the Ku Klux Klan?"
-    excerpt: "No campaigner Jacinta Nampijinpa Price has questioned whether Greens senator Dorinda Cox made “an offensive and disgusting reference” to the Ku Klux Klan in federal parliament, as both sides of the voice referendum debate lash abuse they’ve received."
-    publishedDateTime: 2023-09-07T19:42:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-no-camps-query-did-greens-mp-dorinda-cox-invoke-the-ku-klux-klan/news-story/99563797af0b292ac47f05ed5bb777d4"
+  - title: "Derryn Hinch shares his ‘wish’ for the Indigenous Voice to Parliament referendum, sparking fury"
+    excerpt: "Controversial former politician and broadcaster Derryn Hinch has divided the internet with his take on the Indigenous Voice to Parliament, offering a late suggestion to the Prime Minister for the upcoming referendum."
+    publishedDateTime: 2023-09-12T03:17:00Z
+    webUrl: "https://www.news.com.au/national/politics/derryn-hinch-shares-his-wish-for-the-indigenous-voice-to-parliament-referendum-sparking-fury/news-story/2d687272ec59c08cc240aed2fde4276a"
+    ampWebUrl: "https://www.news.com.au/national/politics/derryn-hinch-shares-his-wish-for-the-indigenous-voice-to-parliament-referendum-sparking-fury/news-story/2d687272ec59c08cc240aed2fde4276a?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/national/politics/derryn-hinch-shares-his-wish-for-the-indigenous-voice-to-parliament-referendum-sparking-fury/news-story/2d687272ec59c08cc240aed2fde4276a?amp"
     type: article
     provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 0
+      name: Couriermail
+      domain: news.com.au
+    quality: 12
 
 secured: "x8hO5eDmje5xU/ydYIbmUPHAazD0ckLfR+7Q7LvpDQGzVLoQzJEOYCHga53KbWx3y3XahGxQmleowzCZkfCbCKLo8pH4o8xREUvi9hu1KGZiHsNvBnWTLqmp7+16mi9WW+vpPpYkcblTr77ItXsdLxPHkibSwBQBz1gwfTdlUkIwTHkVW3VYZY278oXISNHOaBXlaK+MtSttJMQ9ijwA5KD4QcpKeVGcu5+KRtO6K15fju5nvSyVNtJObbb5+aKhCHSJW9JQhZAbmCUKHZNwIl3BUmB6SHWFjk7TKlzMklNcU3DiIXV1vP+TfQ9Rwpig6TfK2EeibZSUP2Get64sVxsu/UpcOL7bRz2dyJOw0YU=;AHXS+eRnyq1RA0MCrQhQlQ=="
 ---

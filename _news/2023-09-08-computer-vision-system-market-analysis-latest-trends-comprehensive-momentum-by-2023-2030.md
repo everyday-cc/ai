@@ -43,22 +43,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Data and AI Ethics Market Size, Regional Status and Outlook 2023-2030"
-    excerpt: "The Data and AI Ethics Market Insights of 2023 is an extensive and comprehensive report that provides a complete analysis of the market's size, shares, revenues, various segments, drivers ..."
-    publishedDateTime: 2023-09-07T10:41:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/34310484/data-and-ai-ethics-market-size-regional-status-and-outlook-2023-2030"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34310484"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34310484"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 74
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Computer Vision in the Healthcare Market Size, Trends, and Opportunities 2023-2030"
     excerpt: "Computer Vision In Healthcare Market is expected to grow from USD 993.8 million in 2022 to USD 22266 million by 2030, at a CAGR of 47%. The increasing demand for computer vision systems in the ..."
     publishedDateTime: 2023-09-07T23:53:00Z

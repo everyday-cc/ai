@@ -25,40 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "How B2B Trailblazers Can Win The AI Revolution"
-    excerpt: "Blaze A Trail With Existing AI Tools. The internet is littered with promising, powerful AI tools that can radically change the way that B2B merchants conduct business. I don't nee"
-    publishedDateTime: 2023-09-07T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/09/07/how-b2b-trailblazers-can-win-the-ai-revolution/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/09/07/how-b2b-trailblazers-can-win-the-ai-revolution/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/09/07/how-b2b-trailblazers-can-win-the-ai-revolution/amp/"
+  - title: "Artificial Intelligence in Packaging Market to Surpass USD 5,375.28 Million by 2032"
+    excerpt: "Ottawa, Sept. 08, 2023 (GLOBE NEWSWIRE) -- The global artificial intelligence in packaging market size is estimated to reach around USD 4,004.47 million by 2029, According to Precedence Research. North America is estimated to maintain its dominance in the ..."
+    publishedDateTime: 2023-09-08T15:02:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/g34363484/artificial-intelligence-in-packaging-market-to-surpass-usd-5-375-28-million-by-2032"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34363484"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34363484"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 51
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6357e1630645a967cb83bb8b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "The 7 Best Tech Stocks to Buy to Capitalize on the AI Revolution"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Tech stocks are some of the most appealing and popular in the stock market."
-    publishedDateTime: 2023-09-11T10:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-7-best-tech-stocks-to-buy-to-capitalize-on-the-ai-revolution-1032619506"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Revolutionizing The Hospitality Industry With Artificial Intelligence"
-    excerpt: "By harnessing the power of AI, hoteliers can revolutionize the guest experience, personalize service, streamline operations and bring more to the bottom line."
-    publishedDateTime: 2023-09-11T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/11/revolutionizing-the-hospitality-industry-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "3xCaFlvDkjhbD0Z7winI25QHHPP1Wge+DQwKUnFltu/W80glUzfFbdZzCk85ZVLeGEFqLcJDhCk79+6OVNntdQHEfU+7RrKCogdeZ8Taf3rJCTa6QOGcyYpHUx5Rpj6+AASepUytTxfjJsrEFVybrK4ExrXX36E3brQhr3cxMs5LL1wP9K9NEJCb8W/QEoucJYegSjENEdC2auW2TGmTba2gY0yT7XSIAgeh3+AXyBUVIEO6+4noMFhr1aO5gJugnhVdB/v8yyWx6C4qCYry6PvPUxSvhC2ogpx5z/V3pYNWVJKaXZLh3BY7igQNn/L64/2ewf7chcLQPOmr1tcjH1EbXn5fvqofWTiJsOhw5Qs=;Klg+39Jx0X7HGTb/64I/VA=="
 ---

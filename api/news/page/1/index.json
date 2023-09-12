@@ -364,7 +364,7 @@
       "originalUrl": "https://www.cnbc.com/2023/09/11/oracle-orcl-q1-earnings-report-2024.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -646,6 +646,48 @@
       ]
     },
     {
+      "path": "_news/2023-09-11-ai-tool-helps-optimize-antibody-medicines.md",
+      "title": "AI tool helps optimize antibody medicines",
+      "excerpt": "Antibody treatments may be able to activate the immune system to fight diseases like Parkinson's, Alzheimer's and colorectal cancer, but they are less effective when they bind with themselves and other molecules that aren't markers of disease.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-09-ai-tool-optimize-antibody-medicines.html",
+      "originalUrl": "https://phys.org/news/2023-09-ai-tool-optimize-antibody-medicines.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-tool-helps-optimize-1.jpg",
+          "width": 1535,
+          "height": 1371,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-09-ai-tool-optimize-antibody-medicines.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-ai-tool-optimize-antibody-medicines.amp",
+      "publishedDateTime": "2023-09-11T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-11-how-salesforce-stock-nysecrm-can-thrive-from-the-ai-wave.md",
       "title": "How Salesforce Stock (NYSE:CRM) Can Thrive from the AI Wave",
       "excerpt": "Salesforce (NYSE:CRM) seems to be doubling down to gain a better position in the AI race. That much was clear after the company’s latest",
@@ -845,7 +887,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/09/11/back-to-school-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 177,
       "tags": null,
       "images": [
         {
@@ -1165,58 +1207,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-a-vision-of-ai-enhanced-test-automation.md",
-      "title": "A Vision Of AI-Enhanced Test Automation",
-      "excerpt": "To further increase testing precision, one could employ feature recognition bolstered by computer vision libraries that can categorize and identify UI elements within application screenshots. Convolutional neural networks (CNNs) step in, classifying ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/a-vision-of-ai-enhanced-test-automation/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/a-vision-of-ai-enhanced-test-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/632dbc560496916bbddd5385/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/a-vision-of-ai-enhanced-test-automation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/11/a-vision-of-ai-enhanced-test-automation/amp/",
-      "publishedDateTime": "2023-09-11T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

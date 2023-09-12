@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ai-chip-wars-nvidi
 webUrl: "https://markets.businessinsider.com/news/stocks/ai-chip-wars-nvidia-may-be-winning-but-dont-sleep-on-amd-stock-1032615709"
 type: article
 quality: 64
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The semiconductor sector has been on a tear in 2023, but while giants like"
     publishedDateTime: 2023-09-10T20:32:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/3-chip-stocks-that-should-be-on-every-investors-radar-1032618325"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "The 7 Best Tech Stocks to Buy to Capitalize on the AI Revolution"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Tech stocks are some of the most appealing and popular in the stock market."
+    publishedDateTime: 2023-09-11T10:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-7-best-tech-stocks-to-buy-to-capitalize-on-the-ai-revolution-1032619506"
     type: article
     provider:
       name: Business Insider

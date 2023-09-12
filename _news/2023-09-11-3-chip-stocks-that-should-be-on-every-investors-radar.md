@@ -60,6 +60,15 @@ related:
         width: 620
         height: 436
         isCached: true
+  - title: "The 7 Best Tech Stocks to Buy to Capitalize on the AI Revolution"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Tech stocks are some of the most appealing and popular in the stock market."
+    publishedDateTime: 2023-09-11T10:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-7-best-tech-stocks-to-buy-to-capitalize-on-the-ai-revolution-1032619506"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "hbW4QQZINAwQXdo2zFbuibfuAwhL4nu6TYMpFA2TqFiHgMP2o6G2k9cnjJoa1Hm1sGyMzwYjb9dslrqcMg1mMtBMg7IBZr+L/HoyMIxtfRJ1AjIduhCJmMrZBqUC6Q7mwRuWXZhkgRliI2AC3wRHHeM5s/nVwhCK+8iwu5ZB1Kbb0/x03/H7+i11dG8xLXkqcBn8yhSRhqeQmDbjyWmrnleZh+rqdAYbzehcld8QMtMNFb7Unw/0rqb58YHj24Th8EOCI8m6DnIi/kSGEcZZ/2qQKff2ZMdf/6WxF0zoIRSnQH875Blq2eys32WyGaEDbfUYbP5U3OhbmAb3vI6gt/XCHQBdKJ8nu9nLRb7BAh99m+K/+hLMi3gmrfH8Sgj0+AFb4IaPD1BtEjpsmmdyMU4qJYRbJACnVYumktP9sZi3wU9nP6uFVkiBKToHr1LiVIwWzJ0oIcLVJSXKGW78hBA8MU1aBX2HoUzXT0xHaeGJxyqGAcKcC4jjHPyD2nJYaMkzVuz3yl6e696HCp5PaA==;y5inyIMPDZO36PtJtonnVg=="
 ---

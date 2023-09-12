@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/oppenheimer-reaffi
 webUrl: "https://markets.businessinsider.com/news/stocks/oppenheimer-reaffirms-their-hold-rating-on-c3ai-ai-1032618293"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -21,17 +21,6 @@ provider:
 topics:
   - Facebook AI
   - AI
-
-related:
-  - title: "Bank of America Securities Remains a Sell on C3ai (AI)"
-    excerpt: "In a report released yesterday, Bradley Sills from Bank of America Securities reiterated a Sell rating on C3ai (AI – Research Report),"
-    publishedDateTime: 2023-09-07T10:44:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/bank-of-america-securities-remains-a-sell-on-c3ai-ai-1032612242"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
 
 secured: "DOKEZvy1cPg8ng8WCx5uTTRrZrOUl6HmLYGYRSSiIvApmkuSmJvhaTMd1WcB9xDNb6lWUliOzGgw+T1ctKVtyQdMqrqfcBV/LhgqkgW3Lo1hl/XSk103iQLq2P8DEH1KiAhPXpvwFlMt2humAorzWv5nq6jjZvwwe+XLYgaWIfGg16pPhDcCydsnfSOjGy5MU/Mmo6gR3y8Z/pEp/iO9hwbzvUw3KPrfs3LZFKJ/1wi9vUo8fdzNRYu44TjOMpJqVIVEuqfTpGi3l7sm0oyKUlJrnxHpO/+fflZMm5aNWEDtBLp3T8bnYYoU5SkmB+MFzKnZkrVdkfVkb1tBDiba4r49FcwovVjqp5bb6Fr7ND8=;Zeo3ypt35Uo/JGA0Kx4R5A=="
 ---

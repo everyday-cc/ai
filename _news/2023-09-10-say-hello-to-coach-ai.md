@@ -112,6 +112,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
+  - title: "Revolutionizing The Hospitality Industry With Artificial Intelligence"
+    excerpt: "By harnessing the power of AI, hoteliers can revolutionize the guest experience, personalize service, streamline operations and bring more to the bottom line."
+    publishedDateTime: 2023-09-11T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/11/revolutionizing-the-hospitality-industry-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "An AI reality check"
     excerpt: "While thousands and thousands of people have been working with artificial intelligence for years ... at AI’s medical applications and drug development — how you can tailor therapy and predict response to treatment. If humans ask the right questions ..."
     publishedDateTime: 2023-09-11T17:00:00Z

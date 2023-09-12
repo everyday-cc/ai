@@ -2,6 +2,153 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2023-08-04-raz-mobility-has-a-new-smartphone-designed-for-the-visually-impaired.md",
+      "title": "Raz Mobility has a new smartphone designed for the visually impaired",
+      "excerpt": "Raz Mobility is out to change that with the introduction of the SmartVision 3, a smartphone designed specifically for the visually impaired. As the name implies, this isn't Raz's first foray into an accessible smartphone. But it is probably the best.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/raz-mobility-has-a-new-smartphone-designed-for-the-visually-impaired/",
+      "originalUrl": "https://www.zdnet.com/article/raz-mobility-has-a-new-smartphone-designed-for-the-visually-impaired/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/1ab271bffab5edcd63a787c75eae6853cd8d3a94/2023/08/04/07c56efe-b115-4769-aedf-5530258489f8/smartvision3-phone.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/raz-mobility-has-a-new-smartphone-designed-for-the-visually-impaired/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/raz-mobility-has-a-new-smartphone-designed-for-the-visually-impaired/",
+      "publishedDateTime": "2023-08-04T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-04-another-major-university-is-supporting-generative-ai-use-but-with-serious-guardrails.md",
+      "title": "Another major university is supporting generative AI use but with serious guardrails",
+      "excerpt": "The University of Hong Kong will provide its teachers and students free access to various generative AI tools, along with some rules to follow.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/another-major-university-is-supporting-generative-ai-use-but-with-serious-guardrails/",
+      "originalUrl": "https://www.zdnet.com/article/another-major-university-is-supporting-generative-ai-use-but-with-serious-guardrails/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/5dd252c79001f6b9eed07dc403a825de269a8767/2023/08/04/a9b37745-740f-4b1b-b8be-1194639df0d2/gettyimages-1495485230.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/another-major-university-is-supporting-generative-ai-use-but-with-serious-guardrails/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/another-major-university-is-supporting-generative-ai-use-but-with-serious-guardrails/",
+      "publishedDateTime": "2023-08-04T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-04-new-yorkers-treat-these-remote-controlled-robot-garbage-bins-like-people-say-researchers.md",
+      "title": "New Yorkers treat these remote-controlled 'robot' garbage bins like people, say researchers",
+      "excerpt": "A waste bin and a recycling bin, both perched on top of robotic wheeled disks, roll between tables in Brooklyn's Albee Square. They've helped make throwing away trash more convenient for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbc.ca/radio/asithappens/waste-bins-studying-human-interaction-1.6927338",
+      "originalUrl": "https://www.cbc.ca/radio/asithappens/waste-bins-studying-human-interaction-1.6927338",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.cbc.ca/1.6927380.1691178245!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/child-uses-robo-bin.JPG",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbc.ca/amp/1.6927338",
+      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6927338",
+      "publishedDateTime": "2023-08-04T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBC.ca",
+        "domain": "www.cbc.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-04-thanks-to-ai-elvis-likes-big-butts-and-he-cannot-lieheres-how-its-possible.md",
       "title": "Thanks to AI, “Elvis” likes big butts and he cannot lie—here’s how it’s possible",
       "excerpt": "To get more insight into the musical voice cloning process with so-vits-svc-fork (an altered version of the original so-vits-svc), we tracked down Michael van Voorst, the creator of the Elvis voice AI model that Ballard used in his \"Baby Got Back\" video. He walked us through the steps necessary to create an AI mash-up.",
@@ -990,143 +1137,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-how-noshs-ai-powered-robot-chefs-are-all-set-to-transform-indian-kitchens.md",
-      "title": "How Nosh’s AI-Powered Robot Chefs Are All Set To Transform Indian Kitchens",
-      "excerpt": "Founded in March 2018 by Yatin Varachhia, Sudeep Gupta, and Amit Kumar Gupta, Nosh plans to serve the economically well-to-do migrant population of metropolitan cities to sell its cooking robots to make their life easier, bestowing them with the joy of home-cooked meals",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/startups/how-noshs-ai-powered-robot-chefs-are-all-set-to-transform-indian-kitchens/",
-      "originalUrl": "https://inc42.com/startups/how-noshs-ai-powered-robot-chefs-are-all-set-to-transform-indian-kitchens/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.inc42.com/wp-content/uploads/2023/08/Nosh-profile-social.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/startups/how-noshs-ai-powered-robot-chefs-are-all-set-to-transform-indian-kitchens/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/startups/how-noshs-ai-powered-robot-chefs-are-all-set-to-transform-indian-kitchens/amp/",
-      "publishedDateTime": "2023-08-03T22:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-self-driving-taxi-service-coming-to-texas-with-driverless-cars.md",
-      "title": "Self-driving taxi service coming to Texas with driverless cars",
-      "excerpt": "Have you ever wanted to hop in a driverless car? Waymo, a self-driving taxi company, has announced its expansion to Texas bringing its fleet of autonomous vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox26houston.com/news/self-driving-taxi-service-coming-to-texas-with-driverless-cars",
-      "originalUrl": "https://www.fox26houston.com/news/self-driving-taxi-service-coming-to-texas-with-driverless-cars",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2023/08/932/470/waymo.jpg?ve=1&tl=1",
-          "width": 932,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox26houston.com/news/self-driving-taxi-service-coming-to-texas-with-driverless-cars.amp",
-      "cdnAmpWebUrl": "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/news/self-driving-taxi-service-coming-to-texas-with-driverless-cars.amp",
-      "publishedDateTime": "2023-08-03T19:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KRIV",
-        "domain": "fox26houston.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-this-cybersecurity-startup-uses-ai-to-counter-emerging-threats.md",
-      "title": "This Cybersecurity Startup Uses AI To Counter Emerging Threats",
-      "excerpt": "The startup aims to leverage AI to combat increasingly sophisticated phishing attacks resulting from advances in generative technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johanmoreno/2023/08/03/this-cybersecurity-startup-uses-ai-to-counter-emerging-threats/",
-      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/08/03/this-cybersecurity-startup-uses-ai-to-counter-emerging-threats/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64cc492a2329e18539716307/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/08/03/this-cybersecurity-startup-uses-ai-to-counter-emerging-threats/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/08/03/this-cybersecurity-startup-uses-ai-to-counter-emerging-threats/amp/",
-      "publishedDateTime": "2023-08-03T17:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

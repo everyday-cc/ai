@@ -2,6 +2,145 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2023-08-30-google-unveils-enterprise-artificial-intelligence-tools-new-ai-chip.md",
+      "title": "Google unveils enterprise artificial intelligence tools, new AI chip",
+      "excerpt": "File Google unveiled a swath of fresh artificial-intelligence technology and partnerships on Tuesday that were geared toward bringing more of the growing technology to large businesses. The batch of announcements from its Google Next conference in San ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraphindia.com/business/google-unveils-enterprise-artificial-intelligence-tools-new-ai-chip/cid/1962646",
+      "originalUrl": "https://www.telegraphindia.com/business/google-unveils-enterprise-artificial-intelligence-tools-new-ai-chip/cid/1962646",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telegraphindia.com/telegraph/2023/Jun/1687781299_google.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telegraphindia.com/amp/business/google-unveils-enterprise-artificial-intelligence-tools-new-ai-chip/cid/1962646",
+      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/business/google-unveils-enterprise-artificial-intelligence-tools-new-ai-chip/cid/1962646",
+      "publishedDateTime": "2023-08-30T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Telegraph",
+        "domain": "telegraphindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-08-30-voxel-uses-computer-vision-to-increase-workplace-safety.md",
+      "title": "Voxel uses computer vision to increase workplace safety",
+      "excerpt": "The International Labour Organization estimates that there are 340 million workplace incidents every year. Voxel was created to increase workplace safety The International Labour Organization estimates that there are 340 million workplace incidents every year.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/30/voxel/",
+      "originalUrl": "https://techcrunch.com/2023/08/30/voxel/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/08/voxel_nearmiss_video_laptop.png?resize=1200,693",
+          "width": 1200,
+          "height": 693,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/30/voxel/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/30/voxel/amp/",
+      "publishedDateTime": "2023-08-30T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-30-ai-and-ml-are-playing-defining-role-in-driving-fintech-automation-says-stx-next.md",
+      "title": "AI and ML are Playing Defining Role in Driving Fintech Automation, Says STX Next",
+      "excerpt": "AI and ML algorithms that can process large quantities of data are delivering increased efficiency, scalability and accuracy for fintechs pioneering the technology Artificial intelligence (AI) and machine learning (ML) adoption is increasing across virtually every industry,",
+      "sourceUrl": null,
+      "webUrl": "https://financialit.net/news/artificial-intelligence/ai-and-ml-are-playing-defining-role-driving-fintech-automation-says-stx",
+      "originalUrl": "https://financialit.net/news/artificial-intelligence/ai-and-ml-are-playing-defining-role-driving-fintech-automation-says-stx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://financialit.net/sites/default/files/stxnext.png",
+          "width": 1366,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-30T03:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial IT",
+        "domain": "financialit.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-08-30-is-amd-the-dark-horse-of-the-ai-silicon-race.md",
       "title": "Is AMD The Dark Horse Of The AI Silicon Race?",
       "excerpt": "This has turned the spotlight on companies that make graphics processing units, the de-facto chips for running AI-related workloads. Nvidia - the dominant player in the GPU space - has been the biggest beneficiary of the trend thus far. Nvidia stock is up ...",
@@ -1005,144 +1144,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-30-domo-announces-domoai-to-revolutionize-the-way-businesses-manage-and-deploy-artificial-intelligence.md",
-      "title": "Domo Announces Domo.AI to Revolutionize the Way Businesses Manage and Deploy Artificial Intelligence",
-      "excerpt": "Today at the Domo Innovation Summit, Domo (Nasdaq: DOMO) announced Domo.AI, a portfolio of comprehensive and flexible artificial intelligence (AI) services, powered by the company’s award-winning data experience platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/domo-announces-domo-ai-to-revolutionize-the-way-businesses-manage-and-deploy-artificial-intelligence/article_169f8196-9867-59f0-b3d6-9890e0f5ddd0.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/domo-announces-domo-ai-to-revolutionize-the-way-businesses-manage-and-deploy-artificial-intelligence/article_169f8196-9867-59f0-b3d6-9890e0f5ddd0.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-29T13:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-30-a-disturbing-ai-phenomenon-could-completely-upend-the-internet-as-we-know-it.md",
-      "title": "A disturbing AI phenomenon could completely upend the internet as we know it",
-      "excerpt": "Researchers are worried that the deluge of AI content on the internet could throw is into the \"dark ages of public information.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-model-collapse-threatens-to-break-internet-2023-8",
-      "originalUrl": "https://www.businessinsider.com/ai-model-collapse-threatens-to-break-internet-2023-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64ee4af326dda200194d39e9?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-model-collapse-threatens-to-break-internet-2023-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-model-collapse-threatens-to-break-internet-2023-8?amp",
-      "publishedDateTime": "2023-08-29T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-30-self-driving-cars-are-booming-in-san-francisco-is-it-really-a-loss-for-boston.md",
-      "title": "Self-driving cars are booming in San Francisco. Is it really a loss for Boston?",
-      "excerpt": "“They’re flooding the streets now,” McCuan said. She figures every fifth car she sees in San Francisco lately is self-driving. It’s quite different here in Boston. Waymo autonomous ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bostonglobe.com/2023/08/29/business/san-francisco-vs-boston-self-driving-cars/",
-      "originalUrl": "https://www.bostonglobe.com/2023/08/29/business/san-francisco-vs-boston-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/IXrHFemj_ODoBVw6-nPcvYAth68=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/DCI2Q7ASH6CPFIJBGIFD5KDSGA.jpg",
-          "width": 506,
-          "height": 322,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-29T12:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Boston Globe",
-        "domain": "bostonglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

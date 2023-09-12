@@ -7,7 +7,7 @@ originalUrl: "https://www.govtech.com/education/higher-ed/university-at-buffalo-
 webUrl: "https://www.govtech.com/education/higher-ed/university-at-buffalo-spotlights-ai-research-for-public-good"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,31 +17,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-related:
-  - title: "SUNY chancellor at UB to spotlight AI research 'for the public good'"
-    excerpt: "The University at Buffalo is launching a series of talks for its AI researchers to share perspectives on how to harness the power of AI for the public good. The first panel was on Sept. 6, 2023 and featured SUNY Chancellor John King,"
-    publishedDateTime: 2023-09-07T10:01:00Z
-    webUrl: "https://buffalonews.com/news/local/education/suny-chancellor-at-ub-to-spotlight-ai-research-for-the-public-good/article_898d7d78-4cde-11ee-a77f-ef2b4c1eafcc.html"
-    type: article
-    provider:
-      name: Buffalo News
-      domain: buffalonews.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/shared-content/art/tncms/templates/libraries/flex/components/themes/resources/images/user_no_avatar.82c8fc38eb25dca10493a994ca1bfb90.png"
-        width: 256
-        height: 256
-        isCached: true
-  - title: "SUNY chancellor touts UB as national leader in AI"
-    excerpt: "SUNY Chancellor John B. King Jr. joined President Satish K. Tripathi in Capen Hall to kick off the series that features faculty members from a variety of disciplines who are developing ways to use AI for the betterment of society. Approximately 60 audience members from the UB community attended."
-    publishedDateTime: 2023-09-08T12:15:00Z
-    webUrl: "https://www.buffalo.edu/ubnow/stories/2023/09/chancellor-ai-chat.html"
-    type: article
-    provider:
-      name: Medicine Buffalo
-      domain: buffalo.edu
-    quality: 19
 
 secured: "yrnSu/TCK/ij2E8+fzTevB5iC2iZZh3UyzlB//s2EIvq4i4j0Xt/9WGek1yG0YoaWJnAe7L3FZPQAOGpI3d5841zSK5ELJp6gMhPI1OY9rr8AiIMNZYo75sRIt15HSiGen8Je5YPz6ff75Ck6NdYBIG4+i8mkr2jvWa9ZPmUEDdoV1wIQTHGpT3mL9nnm0ERL4/3RJtiCND0IXGJCyR22UqTfm3TkLZAMDkq/ZLTT5UA3f/NOep6PQNzq+BK+64sChZ1TOCqaJRsvCAxV2IF3NqkjfSM5Z9RMQ/lZp00OT7i7QpERmyyJMkfawdy0UICk97yyvn/sQ0tIds95IxH/oUBpYxfdwy/QMBR/aD8EH6h3pDZo+JD1B+QjSPbRzV8YXMntOuXI3ceJQQbu1s9ta77sbFqpNvdbFzMSJdsr8sRff1yVEs+fbmKxrU2w8tk4EB8Xjgp7lYQk3FvJO1TV+iFcpRoWQrQYmPn4Tx/33VzXBfhNlFoj9KSw8AHzeDm/uDBpk0HFTr3SPP2MeylSw==;ZqZqNFgXeQismHs8d6ahKA=="
 ---

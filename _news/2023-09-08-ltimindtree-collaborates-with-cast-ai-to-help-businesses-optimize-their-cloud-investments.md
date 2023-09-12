@@ -35,6 +35,20 @@ related:
         width: 1535
         height: 1371
         isCached: true
+  - title: "New machine-learning algorithms can help optimize the next-generation of therapeutic antibodies"
+    excerpt: "Antibody treatments may be able to activate the immune system to fight diseases like Parkinson’s, Alzheimer’s and colorectal cancer, but they are less effective when they bind with themselves and other molecules that aren’t markers of disease."
+    publishedDateTime: 2023-09-12T03:02:00Z
+    webUrl: "https://www.news-medical.net/news/20230911/New-machine-learning-algorithms-can-help-optimize-the-next-generation-of-therapeutic-antibodies.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 12
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Antibody-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
 
 secured: "U3a/f+EHue5QA61eSrxX68hF3ri75UlnxCR8ZxHgszvMH8VMZuxe3xBeokgrAomVRysv8pgY1EGGXPTvKukt2rklJaSyP4qijus/gCtZbKjMH13SMy/0e+xgBR3mNFKFNvIHnjo3CeAea7gl57yAYYiqQV/gn+eE3Hm+x62K2m5pDPIbYSaG9n48IliaAaQWgExDMQK1o3RHi6dT97Em2tjLnt61vM8BcYDAIgmm/oUfuS9wmYNt7i+6IOS7gt3g/8uabPkP8qi1nxwhbIoYjibHCKVrrKdgyfgTA7uF5E14iEPBiUWhcIP/54Mb8qFHPW0nRIZwwrxAsz12JnSgk8ZPvvjyU2tzf8s5MEq3zbg=;otQfxClZZVrNaQKzHvsQlA=="
 ---

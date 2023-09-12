@@ -1,26 +1,22 @@
 ---
 category: news
 title: "FLOW WFM wins the \"Emerging leader in WFM\" award at BPO and Contact Center Summit 2023"
-excerpt: "FLOW WFM showcased a plethora of features and benefits that empower contact centers to automate routine tasks, freeing up time to focus on delivering exceptional customer experiences."
-publishedDateTime: 2023-09-04T06:51:00Z
-originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1344663&cat=PR News Wire"
-webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1344663&cat=PR News Wire"
+excerpt: "The award highlights FLOW's ability to seamlessly integrate with other contact center technologies, eliminating the need for an expensive 'rip and replace'. • FLOW WFM showcased a plethora of features and benefits that empower contact centers to automate routine tasks,"
+publishedDateTime: 2023-09-04T06:31:00Z
+originalUrl: "https://www.theweek.in/wire-updates/business/2023/09/04/dcm8-intellicus-technologies.html"
+webUrl: "https://www.theweek.in/wire-updates/business/2023/09/04/dcm8-intellicus-technologies.html"
+ampWebUrl: "https://www.theweek.in/wire-updates/business/2023/09/04/dcm8-intellicus-technologies.amp.html"
+cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/wire-updates/business/2023/09/04/dcm8-intellicus-technologies.amp.html"
 type: article
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: The Week
+  domain: theweek.in
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/2199922/Emerging_leader_in_WFM.jpg"
-    width: 400
-    height: 267
-    isCached: true
-
-secured: "gWbc4DKLMn38Yigdz/ZGEu3sas94VOSmmEhRkndTNiGEX9Cd1fWYxgGPxDB8vqpeP59HLQ8xeE4mhQj1I7YjOfLltXinYYZEmqhJbVjyRfwjjt60F7ylHFQtFy+gpHJcsdATk5iRGPG8gRPo+ZIK2vC6wXjdPr+QFrWR9PnOVeNu16AWxxWdqCUehBu3dWKQ72rGvSbG59XOBFfVsHUn9Aap9onbV0HamTbsNhW6ycD7khsTjclLxWH1G5ZpFlB7tX02YNFr628pGvCIckrwO9flzyQGKGIATn3rveudrjimcgNflYCMsaMWC+ISYefRweLDwyJkeO80PTu73wkbhuzgikISHRPGkrHy9dVXqHE=;byi0TkqqIgNTS5JNck2peg=="
+secured: "iMnbLUyMhbmpclET0Hfc9Chkwtf6ilRCY5fNNwo2hIUkEoOW4zf29+pfE9jISOm0pqkpqd9XCMjqe7oKTzXcoE+wPPEhfUqBH8DiZUrUQ3utzQmAAIEUtrvv3kBFBAqwBltZPsiJQcGWXaatjcTQr3ZrfGkt0k/jiIt8+idrx5kwJj0XrIAm4iBcXu40t7b7Xhc7o5qTlgHnmeadOw4C3mU/fwi7A99eIh44cx327tbVGkHpMYhPTUCqr8snx/eO/v1Ae5G7QcOuCd05t+88eUMBcxitRETrRk5K12hKAIIuf91q//CHfDtOQZrxKV1qchw3kHm5gq2Ah7thmKpER4Qb17O5uH+gAQ5bXEiuSlA=;5ryPZ03KqQXfShXpfuq4rA=="
 ---
 

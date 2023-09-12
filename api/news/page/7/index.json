@@ -2,6 +2,145 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-09-06-data-is-essential-building-an-effective-generative-ai-marketing-strategy.md",
+      "title": "Data is essential: Building an effective generative AI marketing strategy",
+      "excerpt": "Generative AI for text, visuals and video have the potential to create a more personalized and engaging experience.\nThe post Data is essential: Building an effective generative AI marketing strategy appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/data-is-essential-building-an-effective-generative-ai-marketing-strategy/",
+      "originalUrl": "https://www.ibm.com/blog/data-is-essential-building-an-effective-generative-ai-marketing-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-06T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-09-06-baidu-launches-a-slew-of-ai-applications-after-its-ernie-chatbot-gets-public-approval.md",
+      "title": "Baidu launches a slew of AI applications after its Ernie chatbot gets public approval",
+      "excerpt": "Baidu also announced that more than 6 million users have used an AI-powered tool that sits inside its Google drive-like cloud product. At Tuesday's event, Baidu also showed off displayed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/09/05/baidu-launches-more-ai-apps-after-ernie-chatbot-gets-public-approval.html",
+      "originalUrl": "https://www.cnbc.com/2023/09/05/baidu-launches-more-ai-apps-after-ernie-chatbot-gets-public-approval.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107295593-1693900544756-gettyimages-1251294603-PGONCHAR_7724.jpeg?v=1693906127",
+          "width": 5000,
+          "height": 3333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/09/05/baidu-launches-more-ai-apps-after-ernie-chatbot-gets-public-approval.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/05/baidu-launches-more-ai-apps-after-ernie-chatbot-gets-public-approval.html",
+      "publishedDateTime": "2023-09-06T01:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-06-banks-must-promote-more-research-on-ai-usage-says-sbis-cto.md",
+      "title": "Banks must promote more research on AI usage, says SBI's CTO",
+      "excerpt": "“There is a need to promote more AI research and researchers in the banking and finance sector,” Balaji Rajagopalan, chief technical officer at the State Bank of India, told Moneycontrol on the sidelines of the Global Fintech Festival in Mumbai on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/business/banks-must-promote-more-research-on-ai-usage-says-sbis-cto-11321311.html",
+      "originalUrl": "https://www.moneycontrol.com/news/business/banks-must-promote-more-research-on-ai-usage-says-sbis-cto-11321311.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/08/SBI.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/business/banks-must-promote-more-research-on-ai-usage-says-sbis-cto-11321311.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/banks-must-promote-more-research-on-ai-usage-says-sbis-cto-11321311.html/amp",
+      "publishedDateTime": "2023-09-06T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-06-with-ai-future-of-hearing-aids-might-include-language-translation.md",
       "title": "With AI, future of hearing aids might include language translation",
       "excerpt": "Sawalich says, \"If somebody falls, it'll text up to three people.\" They can also translate foreign languages. These AI hearing aids recalibrate up to 80 million times an hour, allowing them to ...",
@@ -1004,142 +1143,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-mainframe-and-the-cloud-its-easy-with-open-source.md",
-      "title": "Mainframe and the cloud? It’s easy with open source",
-      "excerpt": "IBM’s unique position as the sole remaining mainframe manufacturer gives it a market-leading role within the broader mainframe community.\nThe post Mainframe and the cloud? It’s easy with open source appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/mainframe-and-the-cloud-its-easy-with-open-source/",
-      "originalUrl": "https://www.ibm.com/blog/mainframe-and-the-cloud-its-easy-with-open-source/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-05T06:04:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-managing-your-cloud-ecosystems-upgrading-your-cluster-to-a-new-version.md",
-      "title": "Managing your cloud ecosystems: Upgrading your cluster to a new version",
-      "excerpt": "Best practices for upgrading your Kubernetes clusters to newer versions.\nThe post Managing your cloud ecosystems: Upgrading your cluster to a new version appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/managing-your-cloud-ecosystems-upgrading-your-cluster-to-a-new-version/",
-      "originalUrl": "https://www.ibm.com/blog/managing-your-cloud-ecosystems-upgrading-your-cluster-to-a-new-version/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-05T06:00:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-our-pick-of-the-best-artificial-intelligence-ai-stocks-and-shares.md",
-      "title": "Our Pick Of The Best Artificial Intelligence (AI) Stocks and Shares",
-      "excerpt": "From self-driving cars to surgery-performing robots, artificial intelligence (AI) is helping to transform every part of our lives. And the potential opportunity created by this high-growth ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/uk/advisor/investing/best-artificial-intelligence-ai-stocks-shares/",
-      "originalUrl": "https://www.forbes.com/uk/advisor/investing/best-artificial-intelligence-ai-stocks-shares/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/01/Image-1-e1675170541788.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-05T04:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

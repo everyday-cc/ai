@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-08-15-majority-of-uk-insurance-executives-investing-in-ai-and-machine-learning.md",
+      "title": "Majority of UK insurance executives investing in AI and machine learning",
+      "excerpt": "Businesses are exploring how they can build trust with existing and potential new clients,' says head of platforms, strategy, operations and venture",
+      "sourceUrl": null,
+      "webUrl": "https://www.insurancetimes.co.uk/news/majority-of-uk-insurance-executives-investing-in-ai-and-machine-learning/1445268.article",
+      "originalUrl": "https://www.insurancetimes.co.uk/news/majority-of-uk-insurance-executives-investing-in-ai-and-machine-learning/1445268.article",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d17mj6xr9uykrr.cloudfront.net/Pictures/1024x536/7/4/4/98744_robothandstackingcoins_418514.jpg",
+          "width": 1024,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-15T02:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insurance Times",
+        "domain": "insurancetimes.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-08-15-the-marketmaster-ai-system-using-machine-learning-to-pick-stocks.md",
       "title": "The MarketMaster AI System: Using Machine Learning to Pick Stocks",
       "excerpt": "Fortunately, advances in artificial intelligence now make this possible. This is especially true with machine learning, which creates models that improve with time. It’s how Google’s AlphaGo managed to beat a world champion in 2016. And it’s why ...",
@@ -1313,49 +1357,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-08-06-performance-metrics-for-convolutional-neural-network-accelerators.md",
-      "title": "Performance Metrics For Convolutional Neural Network Accelerators",
-      "excerpt": "Attempts at a standardized microbenchmarking suite for convolutional kernels and other common neural network operations have not resulted in widespread adoption. Macrobenchmarks, or benchmarks of full models, are better indicators for system-level ...",
-      "sourceUrl": null,
-      "webUrl": "https://semiengineering.com/performance-metrics-for-convolutional-neural-network-accelerators/",
-      "originalUrl": "https://semiengineering.com/performance-metrics-for-convolutional-neural-network-accelerators/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/semiengineering.com/wp-content/uploads/Flex-Logix_performance-metrics-CNN-table1-lg.png?fit=1313%2C804&ssl=1",
-          "width": 1313,
-          "height": 804,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Semiconductor Engineering",
-        "domain": "semiengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

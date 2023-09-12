@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-11-a-vision-of-ai-enhanced-test-automation.md",
+      "title": "A Vision Of AI-Enhanced Test Automation",
+      "excerpt": "To further increase testing precision, one could employ feature recognition bolstered by computer vision libraries that can categorize and identify UI elements within application screenshots. Convolutional neural networks (CNNs) step in, classifying ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/a-vision-of-ai-enhanced-test-automation/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/a-vision-of-ai-enhanced-test-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/632dbc560496916bbddd5385/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/a-vision-of-ai-enhanced-test-automation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/11/a-vision-of-ai-enhanced-test-automation/amp/",
+      "publishedDateTime": "2023-09-11T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-11-the-future-of-artificial-intelligence-predictions-and-trends.md",
       "title": "The Future Of Artificial Intelligence: Predictions And Trends",
       "excerpt": "One of the most significant benefits of integrating AI into our digital marketing strategies is the seamless management of campaigns. With this process, we have found AI-powered tools to analyze campaign performance in real time, making instantaneous adjustments to optimize results.",
@@ -156,7 +208,7 @@
       "originalUrl": "https://www.marketwatch.com/story/tesla-shares-climb-5-8-after-morgan-stanley-upgrades-to-buy-citing-ai-prowess-via-dojo-10b3e7dd?ref=biztoc.com",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -294,7 +346,7 @@
       "originalUrl": "https://www.inferse.com/712085/even-ai-hasnt-helped-microsofts-bing-chip-away-at-googles-the-wall-street-journal/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -382,7 +434,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-neurotech-allows-stroke-survivor-speak-brainwaves-thinking-paralyzed-2023-9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -790,57 +842,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-10-amazon-now-requires-authors-to-disclose-ai-generated-content.md",
-      "title": "Amazon Now Requires Authors to Disclose AI-Generated Content",
-      "excerpt": "After complaints from the Authors Guild and others, Amazon is now requiring writers to disclose the use of AI, though it's not yet publicly identifying those books in its marketplace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/amazon-starts-requiring-writers-to-disclose-ai-generated-content",
-      "originalUrl": "https://www.pcmag.com/news/amazon-starts-requiring-writers-to-disclose-ai-generated-content",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/05fDpqPt4Tw50fbQCuGXvAr-1.fit_lim.size_1200x630.v1694278993.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-09T10:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },

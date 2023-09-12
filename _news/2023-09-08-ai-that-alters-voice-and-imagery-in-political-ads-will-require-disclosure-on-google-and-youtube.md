@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google: Political adverts must disclose use of AI"
-    excerpt: "Google requires political ads to disclose who paid for them, and makes information about the messages available in an online ads library. Disclosures of digitally altered content in election ads must be \"clear and conspicuous\", and put where they are likely to be noticed."
-    publishedDateTime: 2023-09-07T10:53:00Z
-    webUrl: "https://www.bbc.com/news/technology-66739858"
-    ampWebUrl: "https://www.bbc.com/news/technology-66739858.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66739858.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/149B1/production/_131010448_gettyimages-1237654891.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Google will soon require disclosures for AI-generated election ads"
     excerpt: "The policy will take effect in mid-November and will require election advertisers to disclose that ads containing AI-generated elements have been computer-generated or do not show real events. Minor changes like brightening or resizing an image do not require such a disclosure."
     publishedDateTime: 2023-09-07T12:33:00Z
@@ -88,15 +72,20 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Experts Discuss AI at the Google Cloud Conference"
-    excerpt: "Get insights from Google Cloud Next 2023 experts on the latest trends in AI. Learn about the advancements in AI."
-    publishedDateTime: 2023-09-07T18:21:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/google-cloud-next-2023-experts-discuss-ai/"
+  - title: "Amazon Now Requires Authors to Disclose AI-Generated Content"
+    excerpt: "After complaints from the Authors Guild and others, Amazon is now requiring writers to disclose the use of AI, though it's not yet publicly identifying those books in its marketplace."
+    publishedDateTime: 2023-09-09T17:29:00Z
+    webUrl: "https://www.pcmag.com/news/amazon-starts-requiring-writers-to-disclose-ai-generated-content"
     type: article
     provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 49
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/05fDpqPt4Tw50fbQCuGXvAr-1.fit_lim.size_1200x630.v1694278993.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "AI used to alter imagery or sounds in political ads will require prominent disclosure on Google"
     excerpt: "(AP) - Google will soon require that political ads using artificial intelligence be accompanied by a prominent disclosure if imagery or sounds have been synthetically altered."
     publishedDateTime: 2023-09-07T15:42:00Z
@@ -138,6 +127,34 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
+  - title: "How will AI influence the 2024 election?"
+    excerpt: "How worried do we really need to be about AI’s potential to undermine democracy? Chihhao Yu of the Taiwan Information Environment Research Centre explains the threat posed by Chinese misinformation campaigns. We go back to when sensationalist journalism ..."
+    publishedDateTime: 2023-09-08T16:52:00Z
+    webUrl: "https://www.economist.com/podcasts/2023/09/08/how-will-ai-influence-the-2024-election"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 39
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230909_PDP508.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Suspected Chinese operatives using AI generated images to spread disinformation among US voters, Microsoft says"
+    excerpt: "Suspected Chinese operatives have used images made by artificial intelligence to mimic American voters online in an attempt to spread disinformation and provoke discussion on divisive political issues as the 2024 US election approaches,"
+    publishedDateTime: 2023-09-07T14:08:00Z
+    webUrl: "https://abc17news.com/politics/national-politics/cnn-us-politics/2023/09/07/suspected-chinese-operatives-using-ai-generated-images-to-spread-disinformation-among-us-voters-microsoft-says/"
+    type: article
+    provider:
+      name: ABC 17 News
+      domain: abc17news.com
+    quality: 36
+    images:
+      - url: "https://abc17news.b-cdn.net/abc17news.com/2023/09/web-9.7-375x225.jpg"
+        width: 375
+        height: 225
+        isCached: true
   - title: "Amazon to require some authors to disclose the use of AI material"
     excerpt: "NEW YORK -- After months of complaints from the Authors Guild and other groups, Amazon .com has started requiring writers who want to sell books through its e-book program to tell the company in advance that their work includes artificial intelligence material."
     publishedDateTime: 2023-09-08T18:09:00Z

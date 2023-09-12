@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/time-reveals-inaug
 webUrl: "https://markets.businessinsider.com/news/stocks/time-reveals-inaugural-time100-ai-list-of-the-world-s-most-influential-people-in-artificial-intelligence-1032612525"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -23,19 +23,21 @@ topics:
   - AI
 
 related:
-  - title: "How We Chose the TIME100 Most Influential People in AI"
-    excerpt: "Our first-ever list of the most influential people in AI features leaders, policymakers, artists and entrepreneurs from around the world"
-    publishedDateTime: 2023-09-07T11:02:00Z
-    webUrl: "https://time.com/6311323/how-we-chose-time100-ai/"
+  - title: "TIME reveals inclusive 'TIME100 AI' list — names usual suspects Elon Musk, Sam Altman... and more"
+    excerpt: "The list also featured 18-year-old Sneha Revanur, who bats for ethical AI. Musicians like Grimes, renowned science fiction writer Ted Chiang, and Black Mirror creator Charlie Brooker also featured in the list."
+    publishedDateTime: 2023-09-07T15:14:00Z
+    webUrl: "https://www.cnbctv18.com/technology/time100-ai-list-celebrating-ai-titans-musk-altman-hassabis-and-more-17744151.htm"
+    ampWebUrl: "https://www.cnbctv18.com/technology/time100-ai-list-celebrating-ai-titans-musk-altman-hassabis-and-more-17744151.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/time100-ai-list-celebrating-ai-titans-musk-altman-hassabis-and-more-17744151.htm/amp"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 67
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 46
     images:
-      - url: "https://api.time.com/wp-content/uploads/2023/09/TIM231009-AI-CoverFINAL.jpg?quality&#x3D;85"
-        width: 2363
-        height: 3150
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2022/04/Elon-Musk-1-1.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Top Influential Figures In Artificial Intelligence: From Elon Musk To Sam Altman, Check Time100 List"
     excerpt: "The TIME magazine on 7 September released their inaugural TIME100 AI list which showcases 100 most influential people in artificial intelligence (A"

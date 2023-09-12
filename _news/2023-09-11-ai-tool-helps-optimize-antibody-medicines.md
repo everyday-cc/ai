@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2023-09-ai-tool-optimize-antibody-medicines.am
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-ai-tool-optimize-antibody-medicines.amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Phys.org
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "New machine-learning algorithms can help optimize the next-generation of therapeutic antibodies"
+    excerpt: "Antibody treatments may be able to activate the immune system to fight diseases like Parkinson’s, Alzheimer’s and colorectal cancer, but they are less effective when they bind with themselves and other molecules that aren’t markers of disease."
+    publishedDateTime: 2023-09-12T03:02:00Z
+    webUrl: "https://www.news-medical.net/news/20230911/New-machine-learning-algorithms-can-help-optimize-the-next-generation-of-therapeutic-antibodies.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 12
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Antibody-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "LTIMindtree collaborates with CAST AI to help Businesses Optimize Their Cloud Investments"
     excerpt: "Powered by AI, CAST AI provides cloud cost automation for real-life containerized applications running on AWS, GCP, and Azure. CAST AI’s founders are serial entrepreneurs who have been developing advanced AI solutions for over a decade and have ..."
     publishedDateTime: 2023-09-08T16:54:00Z

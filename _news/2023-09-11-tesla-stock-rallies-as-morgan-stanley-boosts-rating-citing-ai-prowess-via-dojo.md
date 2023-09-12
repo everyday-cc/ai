@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/tesla-shares-climb-5-8-after-m
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tesla-shares-climb-5-8-after-morgan-stanley-upgrades-to-buy-citing-ai-prowess-via-dojo-10b3e7dd"
 type: article
 quality: 99
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Morgan Stanley to Launch AI Chatbot to Woo Wealthy"
-    excerpt: "JPMorgan Chase named Teresa Heitsenrether its chief data and analytics officer in June to lead AI adoption across the largest U.S. lender. Rival Bank of America's virtual assistant, Erica, has had more than a billion interactions with clients since it was introduced in 2018."
-    publishedDateTime: 2023-09-07T10:09:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-09-07/morgan-stanley-to-launch-ai-chatbot-to-woo-wealthy"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
   - title: "US STOCKS-Wall Street rises on Tesla soars on AI optimism"
     excerpt: "Wall Street stocks rose on Monday, with the Nasdaq jumping over 1% as Tesla surged on optimism around artificial intelligence and investors awaited inflation data due later this week. Tesla rallied almost 10% after Morgan Stanley upgraded the electric car maker to \"overweight\" from \"equal-weight,"
     publishedDateTime: 2023-09-11T18:33:00Z

@@ -2,6 +2,126 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2023-08-24-dan-odowd-wants-tesla-to-fix-its-self-driving-program-before-it-kills-more-people.md",
+      "title": "Dan O’Dowd Wants Tesla to Fix Its Self-Driving Program Before It Kills More People",
+      "excerpt": "He believes the self-driving software that Tesla uses will kill people. To get the word out, O’Dowd ran for the U.S. Senate on the single issue in 2022, bought a full-page ad in the New York Times last November, and placed a 30-second Super Bowl commerci ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.com/2023/06/23/dan-odowd-wants-tesla-to-fix-its-self-driving-program-before-it-kills-more-people/",
+      "originalUrl": "https://www.independent.com/2023/06/23/dan-odowd-wants-tesla-to-fix-its-self-driving-program-before-it-kills-more-people/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.independent.com/wp-content/uploads/2023/06/Tesla-fails-bus-stop-test-e1687556803267.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.independent.com/2023/06/23/dan-odowd-wants-tesla-to-fix-its-self-driving-program-before-it-kills-more-people/?amp=1",
+      "cdnAmpWebUrl": "https://www-independent-com.cdn.ampproject.org/c/s/www.independent.com/2023/06/23/dan-odowd-wants-tesla-to-fix-its-self-driving-program-before-it-kills-more-people/?amp=1",
+      "publishedDateTime": "2023-08-23T15:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Santa Barbara Independent",
+        "domain": "independent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-dog-robot-keeps-moving-without-motors.md",
+      "title": "Dog robot keeps moving without motors",
+      "excerpt": "A robotics student from Switzerland’s École Polytechnique Fédérale de Lausanne (EPFL) research institute developed a new dog robot design. Mickaël Achkar enabled his canine robot frame body to",
+      "sourceUrl": null,
+      "webUrl": "https://technology.inquirer.net/127294/dog-robot-keeps-moving-without-motors",
+      "originalUrl": "https://technology.inquirer.net/127294/dog-robot-keeps-moving-without-motors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://technology.inquirer.net/files/2023/08/dog-robot-motion.png-620x349.png",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-23T15:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Philippine Daily Inquirer",
+        "domain": "inquirer.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-this-ai-expert-left-meta-to-lead-cmus-language-technologies-institute.md",
+      "title": "This AI expert left Meta to lead CMU’s Language Technologies Institute",
+      "excerpt": "\"We are at an inflection point for this technology and the discipline as a whole,\" Mona Diab said. \"It is a critical time to take into account its impact and sustainability.\"",
+      "sourceUrl": null,
+      "webUrl": "https://technical.ly/professional-development/mona-diab-ai-meta-cmu-language-technologies-institute/",
+      "originalUrl": "https://technical.ly/professional-development/mona-diab-ai-meta-cmu-language-technologies-institute/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-23T15:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Technical",
+        "domain": "technical.ly",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-23-aws-ec2-instance-types-challenges-and-best-practices-for-hosting-your-applications-in-aws.md",
       "title": "AWS EC2 instance types: Challenges and best practices for hosting your applications in AWS",
       "excerpt": "We will explore the challenges of selecting the best Amazon EC2 instance type and discuss the best practices for how to make the right decision.\nThe post AWS EC2 instance types: Challenges and best practices for hosting your applications in AWS appeared first on IBM Blog.\n",
@@ -1026,134 +1146,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-protect-sensitive-data-in-azure-and-microsoft-office-while-keeping-control-over-your-keys.md",
-      "title": "Protect sensitive data in Azure and Microsoft Office while keeping control over your keys",
-      "excerpt": "Hyper Protect Crypto Services with Unified Key Orchestration enables you to enhance total data privacy and maintain control over keys in a cloud-native way.\nThe post Protect sensitive data in Azure and Microsoft Office while keeping control over your keys appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/protect-sensitive-data-in-azure-and-microsoft-office-while-keeping-control-over-your-keys/",
-      "originalUrl": "https://www.ibm.com/blog/protect-sensitive-data-in-azure-and-microsoft-office-while-keeping-control-over-your-keys/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 215,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-23T06:27:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-how-will-leveraging-ai-change-the-future-of-legal-services.md",
-      "title": "How will leveraging AI change the future of legal services?",
-      "excerpt": "Roger E. Barton of Barton LLP discusses issues, concerns and potential changes in the legal industry with the use of artificial intelligence, examining areas such as billing structure, client confidentiality and the business model.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/legal/legalindustry/how-will-leveraging-ai-change-future-legal-services-2023-08-23/",
-      "originalUrl": "https://www.reuters.com/legal/legalindustry/how-will-leveraging-ai-change-future-legal-services-2023-08-23/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/O4iI2t9EIwnpQ8myqaOvjJgFHp0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LZOHKJSIBZKD5GGVP4DOA6JBOI.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-23T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-hcltech-collaborates-with-aws-to-accelerate-genai-adoption.md",
-      "title": "HCLTech Collaborates With AWS to Accelerate GenAI Adoption",
-      "excerpt": "HCLTech, a leading global technology company, announced a collaboration with Amazon Web Services (AWS) to accelerate the adoption of generative artificial intelligence (GenAI) at the company and by enterprises globally.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/08/23/9869009.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/08/23/9869009.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-23T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

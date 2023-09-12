@@ -2,6 +2,144 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2023-08-10-ai-industrial-robotics-latvia.md",
+      "title": "AI Industrial Robotics - Latvia",
+      "excerpt": "Value in the AI Industrial Robotics market is projected to reach US$3m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.36%, resulting in a market volume of US$8m by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/latvia",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/latvia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-10T09:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-10-biden-fuels-tech-trade-war-with-china-banning-ai-chip-and-quantum-system-investments.md",
+      "title": "Biden fuels tech trade war with China, banning AI, chip, and quantum system investments",
+      "excerpt": "US President Joe Biden is escalating the tech trade war with China with an executive order to restrict investment in specific sectors including semiconductors and microelectronics, quantum information technologies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3704610/biden-fuels-tech-trade-war-with-china-banning-ai-chip-and-quantum-system-investments.html",
+      "originalUrl": "https://www.computerworld.com/article/3704610/biden-fuels-tech-trade-war-with-china-banning-ai-chip-and-quantum-system-investments.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/08/china_us_chip_semiconductor-100944587-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3704610/biden-fuels-tech-trade-war-with-china-banning-ai-chip-and-quantum-system-investments.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3704610/biden-fuels-tech-trade-war-with-china-banning-ai-chip-and-quantum-system-investments.amp.html",
+      "publishedDateTime": "2023-08-10T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-10-seattle-mariners-owner-john-stanton-on-mlb-rule-changes-robot-umpires-and-shohei-ohtani.md",
+      "title": "Seattle Mariners owner John Stanton on MLB rule changes, robot umpires, and Shohei Ohtani",
+      "excerpt": "BOT or NOT? This special series explores the evolving relationship between humans and machines, examining the ways that robots, artificial intelligence and automation are impacting our work and lives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2023/seattle-mariners-owner-john-stanton-on-mlb-rule-changes-robot-umpires-and-shohei-ohtani/",
+      "originalUrl": "https://www.geekwire.com/2023/seattle-mariners-owner-john-stanton-on-mlb-rule-changes-robot-umpires-and-shohei-ohtani/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/08/IMG_6429-1260x945.jpeg",
+          "width": 1260,
+          "height": 945,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-10T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-10-datarobot-updates-ai-development-platform-to-cover-entire-generative-ai-lifecycle-for-enterprises.md",
       "title": "DataRobot updates AI development platform to cover entire generative AI lifecycle for enterprises",
       "excerpt": "DataRobot announced new generative AI capabilities and applied services for building business-focused LLM applications quickly and easily.",
@@ -1065,144 +1203,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-100-days-into-strike-netflix-and-disney-hiring-ai-talent-celebrities-seeking-side-jobs.md",
-      "title": "100 Days Into Strike: Netflix And Disney Hiring AI Talent, Celebrities Seeking Side Jobs",
-      "excerpt": "Now one of the longest strikes in Hollywood history, celebrities speak out on the picket line while others seek out side hustles. What's at stake in the fight against AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/martineparis/2023/08/10/100-days-into-strike-netflix-and-disney-hiring-ai-talent-celebrities-seeking-side-jobs/",
-      "originalUrl": "https://www.forbes.com/sites/martineparis/2023/08/10/100-days-into-strike-netflix-and-disney-hiring-ai-talent-celebrities-seeking-side-jobs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64d3dab64223489dddb1ea3f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 837,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2023/08/10/100-days-into-strike-netflix-and-disney-hiring-ai-talent-celebrities-seeking-side-jobs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/08/10/100-days-into-strike-netflix-and-disney-hiring-ai-talent-celebrities-seeking-side-jobs/amp/",
-      "publishedDateTime": "2023-08-09T22:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-investing-in-artificial-intelligence-stocks-things-you-have-to-know.md",
-      "title": "Investing in Artificial Intelligence Stocks: Things You Have to Know",
-      "excerpt": "Artificial Intelligence (AI) has become intertwined with our lives. It’s not just a narrative anymore. We use AI daily in so many ways. Siri, Google assistant, and Alexa come to mind. ChatGPT and Bard have.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know-11691643881461.html",
-      "originalUrl": "https://www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know-11691643881461.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2023/08/10/600x338/TECH-AI-EUROPE-0_1688375295260_1691644413828.JPG",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know/amp-11691643881461.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know/amp-11691643881461.html",
-      "publishedDateTime": "2023-08-09T22:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-ethical-boundaries-for-usage-of-generative-ai-is-key-to-brand-success-experts.md",
-      "title": "Ethical boundaries for usage of generative AI is key to brand success: Experts",
-      "excerpt": "Experts from Google, Marico, Nasscom AI, Khaitan and Co. and ASCI highlighted that while the usage of AI in marketing is not new, one should be mindful of what goes out in the public and that it is no",
-      "sourceUrl": null,
-      "webUrl": "https://bestmediainfo.com/2023/08/ethical-boundaries-for-usage-of-generative-ai-is-key-to-brand-success-experts",
-      "originalUrl": "https://bestmediainfo.com/2023/08/ethical-boundaries-for-usage-of-generative-ai-is-key-to-brand-success-experts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bestmediainfo.com/uploads/2023/08/1691642505.asci-webinar.jpg",
-          "width": 620,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bestmediainfo.com/amp/2023/08/ethical-boundaries-for-usage-of-generative-ai-is-key-to-brand-success-experts",
-      "cdnAmpWebUrl": "https://bestmediainfo-com.cdn.ampproject.org/c/s/bestmediainfo.com/amp/2023/08/ethical-boundaries-for-usage-of-generative-ai-is-key-to-brand-success-experts",
-      "publishedDateTime": "2023-08-09T21:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Best Media",
-        "domain": "bestmediainfo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

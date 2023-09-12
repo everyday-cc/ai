@@ -57,6 +57,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "The 7 Best Tech Stocks to Buy to Capitalize on the AI Revolution"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Tech stocks are some of the most appealing and popular in the stock market."
+    publishedDateTime: 2023-09-11T10:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-7-best-tech-stocks-to-buy-to-capitalize-on-the-ai-revolution-1032619506"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "IpM7owl3WdJnf2lVWjxLPhues9FOgQe42tG5kvLn72vgOdHrhjunxR//Gj0oOd65iFBEY+ukcwZBe6Up/DyHJvjP0gRSg4X43jG7d44FXW6vln2ypdEB3SjR5ZoYGT66IsGB2dz+m6lJb/aBc41bCGMup53p6d4PJu4yGmOFe7ukZ/NaqgkupoRVBrMmkrqxNrGgnJov+Ha43G25Shm0jrHcR/AOoa1SUdStjU+NrPC9ht+1Pfmh/S9nDjOAWg6IeZ3fWLjoNvwTcBqGr4K9hxJ4ggO6LHOmnCzXBYjEzcyxUOLNAvhNuQQAn2FDbA1c/SNSD3RtuMUT+SD/9uIadZtfsu0zTFHhbSDOzwHhyo0=;14kgyVyZzGUMpMk6ga2/bA=="
 ---

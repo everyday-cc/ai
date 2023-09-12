@@ -50,15 +50,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Morgan Stanley to Launch AI Chatbot to Woo Wealthy"
-    excerpt: "JPMorgan Chase named Teresa Heitsenrether its chief data and analytics officer in June to lead AI adoption across the largest U.S. lender. Rival Bank of America's virtual assistant, Erica, has had more than a billion interactions with clients since it was introduced in 2018."
-    publishedDateTime: 2023-09-07T10:09:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-09-07/morgan-stanley-to-launch-ai-chatbot-to-woo-wealthy"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
 
 secured: "rs2RZmPNJUnYw7MDN4GRaXj2yqfOKE9Tqu6Wk91cs2pzH+sV9MdWlT9sNrR5yQmVMS5Q8YXstuRYGiKEGhNo1q6DKxUJyUhenki8B5lQK6zpMwvHlIByfBe12DunMy+lyLI+0BgfjbHIRR+wD/dUYklsnEw1Clt6YYeozG04c86qS25VygZw5M5sEBphVXErGvn8GEOxWeI8QLlAPQYTDqaMNO3bwF+TZhE7XJZlytUyrBcQhZ0hca+JNg7LFqebWVDzHlfxfhA1KFmpwuHGRFUw9S0hZLdHsthMV57U84C9lbmCu8p4HkLIweC+KYx1UgDwTDJaayo3oG1cfXX9VvC+VS2ZGJnQIDMmCzG9vR8=;tQGXi4mbB9ZHEg+rVa1DWg=="
 ---

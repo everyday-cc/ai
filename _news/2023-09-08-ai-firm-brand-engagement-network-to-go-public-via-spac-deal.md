@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/markets/deals/ai-firm-brand-engagement-net
 webUrl: "https://www.reuters.com/markets/deals/ai-firm-brand-engagement-network-go-public-via-spac-deal-sources-2023-09-07/?ref=biztoc.com"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Boston AI startup is the latest tech company to go public, via SPAC"
-    excerpt: "A Boston company that bills itself as an \"industrial generative AI software company,\" has found its way towards the public markets — one of just a few this year to do so."
-    publishedDateTime: 2023-09-07T10:21:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2023/09/07/zapata-computing-reverse-merger.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "y+e3mxq7c00MzEapsIYwu0sgCddThBZ+OoCPQgi2JgN7nfVR9n3xoQ/RFrBKFjPENUgeTtjhPvhP0aKn1SeO9OYmfo6iKxcPX1O/r9jTq6FDNv6r+W9MVz6f7eHNzUKp/GTz8j0FTUG8AApqcbCVt3eq3PlJ48m3PQZ0uowlHebhsnd2wfvyiQqbY/rFJDYODsDqIDHZGe+jMYoIrPm4jZ+CIF+S8qTGXHlVjHsDak+Gf9INolFYpuV6G940D5e0ywWDr68Q5gsLjuhWXko6jdAHgqXr97xL1ilZ4/b3zUD2gQTpQYTbnbQ6Ht6I4YOfkTK8khdh9R4WFFqbDzCPVIu6ys9MgBYhl/MYBu8JtuI=;rzB7xSWly4afAtPPGcPEpA=="
 ---
