@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ai-startup-imbue-tops-
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-startup-imbue-tops-1-billion-valuation-after-funding-from-nvidia-71694110213169.html"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://images.cnbctv18.com/wp-content/uploads/2023/05/nvidia-1019x573.png"
         width: 1019
         height: 573
+        isCached: true
+  - title: "AI Lab Imbue Gets $200M From Nvidia, Others; Hits $1B Valuation"
+    excerpt: "Imbue, a San Francisco-based AI research lab, has reached unicorn status with a massive Astera Institute-led $200 million Series B."
+    publishedDateTime: 2023-09-07T17:44:00Z
+    webUrl: "https://news.crunchbase.com/ai-robotics/new-ai-unicorn-imbue-astera-nvidia/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 41
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/AI-1.jpg"
+        width: 900
+        height: 506
         isCached: true
   - title: "AI startup Imbue closes $200M funding round backed by Nvidia"
     excerpt: "The Series B investment values Imbue at $1 billion. It included contributions from Nvidia Corp. and Astera Institute, a nonprofit that backs promising research initiatives. Cruise LLC Chief Executive Officer Kyle Vogt, Notion Labs Inc. co-founder Simon Last and a number of other backers participated as well."

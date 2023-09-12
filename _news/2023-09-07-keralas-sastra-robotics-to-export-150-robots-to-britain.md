@@ -7,7 +7,7 @@ originalUrl: "https://www.indiablooms.com/finance-details/19074/kerala-s-sastra-
 webUrl: "https://www.indiablooms.com/finance-details/19074/kerala-s-sastra-robotics-to-export-150-robots-to-britain.html"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -39,15 +39,6 @@ related:
         width: 1248
         height: 650
         isCached: true
-  - title: "KSUM-incubated startup to export 150 robots to British IT company"
-    excerpt: "The customers of Sastra Robotics, which has won several awards at national and international level, include big names like German company Robert Bosch, HCL, Qualcomm, Tech Mahindra, and ABB."
-    publishedDateTime: 2023-09-07T13:28:00Z
-    webUrl: "https://www.financialexpress.com/business/sme-ksum-incubated-startup-to-export-150-robots-to-british-it-company-3236264/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 19
 
 secured: "Gvh/QBft5GaFLYfU8F+JMz55C0ryZckBYLXUPgvgFSA2HaPDQFSS2GczEsYwyZRR2HWU/XwVxvtNObFiZ47Ip+ZShiLqdNflSBUVY3oZPTvF3V1RdxXNFYzgClvoZfhHmoi+9q3SggNSBpypKRdJ7TtQrItRLyQiOtKGhlJk0LuXL/SdSk/DiidJqTDkzlkNcCOSmS0HQ6GzhyaIlH9n0PRfL2kNOJym9utlChfpXAa4XdxCDgdy82+2DhPM1lWaeBwrmFBZFGrl1rB9wfvddvgrUoXO/5CWHMdmFvm5r6y0Rh8nRa2JiUsp69+UM//eNSKDju9QLI0uegA2nHt4m+pR3/fxVGtG58iTEQ3SPI0=;kxdheisR0r9pVA/7A3+bWw=="
 ---

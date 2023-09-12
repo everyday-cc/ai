@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/09/11/the-futu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/09/11/the-future-of-artificial-intelligence-predictions-and-trends/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 111
 published: true
 
 provider:

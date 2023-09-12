@@ -25,49 +25,95 @@ images:
     isCached: true
 
 related:
-  - title: "The Power Of Causal Models In Moving From Weak To Strong AI"
-    excerpt: "Businesses need to employ a system thinking approach in which causal modeling is the foundation for AI, allowing them to continue to stay on the bleeding edge."
-    publishedDateTime: 2023-09-07T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/07/the-power-of-causal-models-in-moving-from-weak-to-strong-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/07/the-power-of-causal-models-in-moving-from-weak-to-strong-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/07/the-power-of-causal-models-in-moving-from-weak-to-strong-ai/amp/"
+  - title: "Meta is developing a new, more powerful AI system -WSJ"
+    excerpt: "Meta Platforms is working on a new artificial-intelligence system intended to be as powerful as the most advanced model offered by OpenAI, the Wall Street Journal reported on Sunday, citing people familiar with the matter."
+    publishedDateTime: 2023-09-10T20:13:00Z
+    webUrl: "https://www.reuters.com/technology/meta-is-developing-new-more-powerful-ai-system-wsj-2023-09-10/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Reuters
+      domain: reuters.com
+    quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/621f7b036e1c008edddcafb7/0x0.jpg?format=jpg&width=1200"
+      - url: "https://www.reuters.com/resizer/GxcCqkTOYEBLp3n3AwPZzikNBmo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AFO2TSIYMZOXTGDHCLFWN2IQCA.jpg"
         width: 1200
-        height: 675
+        height: 628
         isCached: true
-  - title: "Companies Look to Squeeze More Power Out of AI Chips"
-    excerpt: "Strategies that boost the power of advanced processors are in demand as limited chip supplies force companies to get creative"
-    publishedDateTime: 2023-09-08T10:00:00Z
-    webUrl: "https://www.wsj.com/articles/companies-look-to-squeeze-more-power-out-of-ai-chips-fe33e2f2"
+  - title: "Meta Is Developing a New, More Powerful AI System as Technology Race Escalates"
+    excerpt: "Parent of Facebook and Instagram wants artificial-intelligence system to be as capable as OpenAI’s most advanced model."
+    publishedDateTime: 2023-09-10T20:01:00Z
+    webUrl: "https://www.wsj.com/tech/ai/meta-is-developing-a-new-more-powerful-ai-system-as-technology-race-escalates-decf9451"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 84
+    quality: 63
     images:
-      - url: "https://images.wsj.net/im-848428/social"
+      - url: "https://images.wsj.net/im-849561/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "Meta is building AI model to rival OpenAI's most powerful system"
-    excerpt: "Related: Nvidia drops new AI chip expected to cut development costs The sources ... Microsoft is a primary backer of OpenAI and also collaborated with Meta to help make Llama 2 available on Azure, its cloud-computing platform. However, the sources said ..."
-    publishedDateTime: 2023-09-11T08:50:00Z
-    webUrl: "https://cointelegraph.com/news/meta-building-ai-model-rivals-open-ai"
+  - title: "Meta is developing a new, more powerful AI system: Report"
+    excerpt: "Llama 2 is Meta's open source AI language model launched in July, and distributed by Microsoft's cloud Azure services to compete with OpenAI's ChatGPT and Google's Bard."
+    publishedDateTime: 2023-09-11T02:07:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/meta-is-developing-a-new-more-powerful-ai-system-report/103563732"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/meta-is-developing-a-new-more-powerful-ai-system-report/103563732"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/meta-is-developing-a-new-more-powerful-ai-system-report/103563732"
     type: article
     provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 41
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDkvOTE3ZjliNGYtMDE1NC00MjlkLWE0YjUtZGRhNmY0NTgxMzA3LmpwZw==.jpg"
-        width: 1160
-        height: 773
+      - url: "https://etimg.etb2bimg.com/thumb/msid-103563732,imgsize-59692,width-1200,height=765,overlay-ettelecom/internet/meta-is-developing-a-new-more-powerful-ai-system-report.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "Meta is developing a new, more powerful AI system"
+    excerpt: "Meta: The Facebook parent is aiming for its new AI model to be ready next year, the Journal said, adding it will be several times more powerful than its commercial version dubbed Llama 2."
+    publishedDateTime: 2023-09-11T07:39:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/meta-is-developing-a-new-more-powerful-ai-system/103569344"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/meta-is-developing-a-new-more-powerful-ai-system/103569344"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/meta-is-developing-a-new-more-powerful-ai-system/103569344"
+    type: article
+    provider:
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-103569344,imgsize-7254,width-1200,height=765,overlay-etbrandequity/digital/meta-is-developing-a-new-more-powerful-ai-system.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "Meta is developing a new, more powerful AI system, Wall Street Journal reports"
+    excerpt: "Meta Platforms (META.O) is working on a new artificial-intelligence system intended to be as powerful as the most advanced model offered by OpenAI, the Wall Street Journal reported on Sunday, citing people familiar with the matter."
+    publishedDateTime: 2023-09-11T03:04:00Z
+    webUrl: "https://www.emirates247.com/technology/meta-is-developing-a-new-more-powerful-ai-system-wall-street-journal-reports-2023-09-11-1.722506"
+    ampWebUrl: "https://www.emirates247.com/technology/meta-is-developing-a-new-more-powerful-ai-system-wall-street-journal-reports-2023-09-11-1.722506?ot=ot.AMPPageLayout"
+    cdnAmpWebUrl: "https://www-emirates247-com.cdn.ampproject.org/c/s/www.emirates247.com/technology/meta-is-developing-a-new-more-powerful-ai-system-wall-street-journal-reports-2023-09-11-1.722506?ot=ot.AMPPageLayout"
+    type: article
+    provider:
+      name: Emirates247
+      domain: emirates247.com
+    quality: 55
+    images:
+      - url: "https://www.emirates247.com/polopoly_fs/1.722507.1694401358!/image/image.png"
+        width: 700
+        height: 466
+        isCached: true
+  - title: "Meta developing new, more powerful AI system - WSJ"
+    excerpt: "Llama 2 is Meta's open source AI language model launched in July, and distributed by Microsoft's cloud Azure services to compete with OpenAI's ChatGPT and Google's Bard. The planned system, details of which could still change, would help other companies ..."
+    publishedDateTime: 2023-09-11T06:35:00Z
+    webUrl: "https://www.rte.ie/news/business/2023/0911/1404572-metas-new-ai-system/"
+    type: article
+    provider:
+      name: RTE Online
+      domain: www.rte.ie
+    quality: 39
+    images:
+      - url: "https://img.rasset.ie/001c1023-1600.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Meta developing an AI model more powerful than LLaMa 2"
     excerpt: "Meta believes that the new model will be as powerful as GPT-4, OpenAI's most impressive LLM yet. Meta is competing with the likes of Google, OpenAI, Microsoft, and Apple, all in a deep race and a rush to invest their resources and finances in developing the latest artificial intelligence models."
@@ -83,6 +129,29 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Meta is developing a new, more powerful AI system, Wall Street Journal reports"
+    excerpt: "The Wall Street Journal reported on September 10, 2023, that Meta is on a mission to create an AI system that can compete with OpenAI's state-of-the-art models."
+    publishedDateTime: 2023-09-11T18:15:00Z
+    webUrl: "https://techstory.in/meta-is-developing-a-new-more-powerful-ai-system-wall-street-journal-reports/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 37
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2023/09/107101365-1660073087949-gettyimages-1242008364-RAFAPRESS_19072022-01776-360x240.jpeg"
+        width: 360
+        height: 240
+        isCached: true
+  - title: "Meta developing new, more powerful AI system, WSJ reports"
+    excerpt: "Meta Platforms (META.O) is working on a new artificial-intelligence system intended to be as powerful as the most advanced model offered by OpenAI, the Wall Street Journal reported on Sunday, citing people familiar with the matter."
+    publishedDateTime: 2023-09-11T12:47:00Z
+    webUrl: "https://www.ariananews.af/meta-developing-new-more-powerful-ai-system-wsj-reports/"
+    type: article
+    provider:
+      name: Ariana News
+      domain: ariananews.af
+    quality: 19
 
 secured: "+kotOD0EKEeoo9w214FwR5u0spnjyYIglUrGTOgTiZk5KBrtEWUJA6UjaUTVAhfIfuTATuNSgskQk8AIdFa1JHFyaeEiNqw6nFYQLueS12X5YuK+hj4J39grtbysTdpJl+Ve+gs0kOnZNP8PD/Z8ilgumegndW8wSssGbtOnEiUgq+GJRRVPwD5tF5haLDo0A3nv3eJFdyB1MEhtOveZEXA/WJO59sb39lQflv7gpdj0ulLdfO0EJUlby9q/2zzh1QDjtckjI0b01R6oYSFO6m7ax6crHZOttZV+wH0q0qIY0RGzFaa/NZIrUUSR3Up2/nzJFk9PJSaR5yAGSU3VC78ofQ0AnDUkUyhF3TOKi5E=;+4xcCwouRmPJ4Zd+wOC96Q=="
 ---

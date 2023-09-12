@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ndtv.com/world-news/now-robots-to-cook-fried-chicken-to-
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/now-robots-to-cook-fried-chicken-to-improve-south-koreas-favourite-food-4378915/amp/1"
 type: article
 quality: 59
-heat: 119
+heat: 121
 published: true
 
 provider:

@@ -24,17 +24,6 @@ images:
     height: 473
     isCached: true
 
-related:
-  - title: "EmpiricaLab Partners with Futuralis to Revolutionize Healthcare Training with AI Integration with Amazon Bedrock"
-    excerpt: "EmpiricaLab, a leading provider of innovative cloud-based healthcare training solutions, is excited to announce its strategic partnership with Futuralis, a cutting-edge Amazon Web Services (AWS) Partner and artificial intelligence (AI) technology company."
-    publishedDateTime: 2023-09-07T14:03:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/09/07/9876672.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
-
 secured: "4Tm6xTzNK8YJ9Lqa/oTCwrrXTdcSBvYQEa7O+e0C3ySZvuj0BZ7+/vxRY9k5Hl8y0UBvwFhJWJ0NKWrAwUZJYA/WgqX4Z2/hMlTCCSR5EsGqHcopPjtCyB9unVfxE5IIgfhUl+TynXeT4ebpMLyp+auQ1InVsQwZSn+0R8fZi2ILl1n0zk7EKthS9va0rCAh9jkGf0FSNpOoNBnY88KIKwzCcgGHtQL6Ycufcy4VoXxIYitz/M/g2xRg+rcC5yKo6gdNcr+j/6Jmph4khubXIAD0x797lTgP8UPWbft0Q1KtBhSCCtquhzCw7lvfMWPApqN3DRvXCsmDdJlfFkBiKeu4+xHL7yTUgZrka4VbhR4=;nN0PLG7C+dkikPxduWgwmA=="
 ---
 

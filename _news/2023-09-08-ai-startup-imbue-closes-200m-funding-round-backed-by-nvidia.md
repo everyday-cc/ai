@@ -57,6 +57,20 @@ related:
         width: 1019
         height: 573
         isCached: true
+  - title: "AI Lab Imbue Gets $200M From Nvidia, Others; Hits $1B Valuation"
+    excerpt: "Imbue, a San Francisco-based AI research lab, has reached unicorn status with a massive Astera Institute-led $200 million Series B."
+    publishedDateTime: 2023-09-07T17:44:00Z
+    webUrl: "https://news.crunchbase.com/ai-robotics/new-ai-unicorn-imbue-astera-nvidia/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 41
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/AI-1.jpg"
+        width: 900
+        height: 506
+        isCached: true
 
 secured: "fGUvORMUgD7RBpra9JziGmT8DIZKIG/6bRrNVZgTVn0x4OrWkZdZ/8HjoikXWCaO2Feoxbl9laTDNBZoiyNYzs3FePzZ0DVxvY2dfM1WpoDKUY+1eyYBy56ZMyezltBWl+bVWZSswimXlub413qRdatj9//l1PSPZSESw2joSlw96h7fqlTIIP0jkZ+QzmmMqRu/AtvI/AjtWKLoT1MaSFXphn+vbggxkV418QZs6aqsM61YQyTjaLwCrI0qO4Jna0R1+HJwsaTJfhSLYsAKvuGdnfjOpMs05ligllTGfdFfvKbN0pVpLl536VF6dhd7Hb2qK0SS0MCuIvey3NfZ8UWFQOulqBbfSidshH/4HfIuYM1jpALuTF11a4FzJ4NQr6K+v7cxjO0prLUF0tavvu8KvFBk0WvpUNQEGjCw3KFAOA6u5feSIRp+vKEbGk4JPy0hIc2JxUYqoxMdEACuozO5XR74vhLBQFaVPLuTIZMU/k3m2REPQti8GxwMu4pJTAUhwt+N1XlU4Ev6CjpfSQ==;f1+rVvhFXqNrsW3l7zRS0Q=="
 ---

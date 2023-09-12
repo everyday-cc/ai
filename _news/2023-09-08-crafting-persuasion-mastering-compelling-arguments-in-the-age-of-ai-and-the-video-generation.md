@@ -68,20 +68,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "How Edge AI Enhances Video Surveillance"
-    excerpt: "This website uses cookies to enhance your browsing experience and serve personalized content. Privacy Policy"
-    publishedDateTime: 2023-09-07T14:50:00Z
-    webUrl: "https://www.securityinfowatch.com/video-surveillance/video-analytics/article/53069691/how-edge-ai-enhances-video-surveillance"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 39
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/08/16x9/GettyImages_1379911617.64e8c2d440239.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "How Applied AI is Transforming the Future of Transportation: A Deep Dive into Self-Driving Cars"
     excerpt: "Envision a world where commuting ceases to be a tiresome chore and instead becomes an opportunity for relaxation or productivity. In this vision, accidents are nearly eradicated, and traffic jams fade into the distant past."
     publishedDateTime: 2023-09-11T16:12:00Z

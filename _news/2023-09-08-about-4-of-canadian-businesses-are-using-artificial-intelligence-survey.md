@@ -23,17 +23,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "About 4% Of Canadian Businesses Are Using Artificial Intelligence: Survey"
-    excerpt: "A new survey has found that about 4% of Canadian businesses are using artificial intelligence (A.I.) on a regular basis. The research, which was conducted by Toronto Metropolitan University, says that A."
-    publishedDateTime: 2023-09-07T13:40:00Z
-    webUrl: "https://www.baystreet.ca/techinsider/3765/About-4-Of-Canadian-Businesses-Are-Using-Artificial-Intelligence-Survey"
-    type: article
-    provider:
-      name: BayStreet
-      domain: baystreet.ca
-    quality: 16
-
 secured: "FNi2gUwP6siF/UhMVDW1xRdcZ4GWKw045qAzQrEnv1OX+Y1GfbL0uctfEdQEavCVutNIAw4qLiCCqJOXBxjH3fzgMU5unhNS0IUgh7iAT9tvUjZfT0dGC8XNrtCxd6tBiGc//K9mGvRc/AEtj8CfUpVJFTR2djMLdqLH/8zIGRvn2IX6vwhIkwpFKbmG5IXMoKeNobmavSZak1Is/KR2Pm1BLwXZHNdwYkWEpep4KUMYzH4dG4qCpWDQyuJFssjurYo8nEN0TY9QTx6rztuwTyBLopYfb708+SqDWo/ac9nWQMeQgZRyfB0fOX5nMSN1snwJvSKLbrjJTTa0fy+/aiB2PVF+jvVNqr9t7A0hvKo=;ivoR0Ez9NM4wh1VCjBVBRg=="
 ---
 

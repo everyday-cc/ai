@@ -58,15 +58,6 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 14
-  - title: "New Copilot capabilities help Microsoft’s own customer service engineers deliver faster, smarter results"
-    excerpt: "The insights gained from having thousands of Microsoft’s own customer support engineers test Copilot capabilities in their own workflows has helped fine tune the product and make it more useful for everyone, said Geoff Maxwell, general manager for Microsoft’s Customer and Digital Experience."
-    publishedDateTime: 2023-09-07T14:58:00Z
-    webUrl: "https://news.microsoft.com/source/features/ai/copilot-dynamics-365-customer-service/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 2
 
 secured: "vI6+jlVvBUQMeIJXayjmzF2xGC+vEUuf2WN+VBPUQTCC7A1IdgJxOTJj9YmSlyP98ootf9oHSyjKKdx1jTRAcUJV3Ufhkeb70xFc8svxrUyf70MPUkGg9rL8TMq/1YUGKayOkwiTilshASW4jK5FmqFc6jJ/gCarcVEG8OOat26OtMPd2XgP3R6DTi3UpCJvEoZP0Z6AsIHf01SjMR2i9fmxKGndgQtVjz/AVcs29Ru+Qdu6Cres/cyvfuDYWVPoOZDO9v8yzbnb3NdpdUrpoGUSxX1+CCvnGbxM551Aq6941GpGXFZGmY74VvIhCr4fucJLio0GfPa0mva59XBjddd9nuS5eNMRU8KY5vwWQVg=;MI2cRNbODMCpJ8YvyKgaSg=="
 ---

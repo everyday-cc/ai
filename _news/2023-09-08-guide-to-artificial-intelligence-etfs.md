@@ -83,20 +83,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Governments Urged To Get A Grip On AI In Schools"
-    excerpt: "Regulation is needed to protect students and teachers, according to new guidance on the use of Artificial Intelligence in schools."
-    publishedDateTime: 2023-09-07T14:14:00Z
-    webUrl: "https://www.forbes.com/sites/nickmorrison/2023/09/07/governments-urged-to-get-a-grip-on-ai-in-schools/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64f9d707743b486272f9e2c7/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Revolutionizing The Hospitality Industry With Artificial Intelligence"
     excerpt: "By harnessing the power of AI, hoteliers can revolutionize the guest experience, personalize service, streamline operations and bring more to the bottom line."
     publishedDateTime: 2023-09-11T13:00:00Z

@@ -110,6 +110,20 @@ related:
         width: 2560
         height: 1536
         isCached: true
+  - title: "Nvidia’s dominance in AI chips deters funding for start-ups"
+    excerpt: "Nvidia has “indirectly” contributed to overall AI chip fundraising woes, because investors want “home run only type investments with a huge investment, huge return”, Mythic CEO Dave Rick said. Difficult economic conditions have added to the downturn in the cyclical semiconductor industry, Rick said."
+    publishedDateTime: 2023-09-12T06:57:00Z
+    webUrl: "https://techcentral.co.za/nvidias-dominance-ai-chips-start-ups/231421/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 37
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2022/06/nvidia-1500-800-2.jpg"
+        width: 1500
+        height: 800
+        isCached: true
   - title: "Jio, Nvidia partner to build AI Cloud infrastructure in India"
     excerpt: "Jio Platforms and Nvidia have partnered to build a cloud-based AI infrastructure in India. The collaboration aims to accelerate AI development efforts"
     publishedDateTime: 2023-09-08T12:49:00Z

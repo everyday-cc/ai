@@ -254,15 +254,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Microsoft says China may have used AI to sway US voters"
-    excerpt: "A Chinese embassy spokesman in Washington said that accusations of China using AI to create fake social media accounts were “full of prejudice and malicious speculation” and that China advocates for the safe use of AI. In a new research report, Microsoft said the social media accounts were part of a suspected Chinese information operation."
-    publishedDateTime: 2023-09-07T14:35:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/09/07/microsoft-says-china-may-have-used-ai-to-sway-us-voters/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 36
   - title: "Microsoft teams up with Paige on AI-powered cancer detection"
     excerpt: "Microsoft has partnered with Paige on world's largest AI model for cancer detection. Paige has a wealth of data to train the said model that far exceeds data on Netflix. Shares of Microsoft Corp are currently up close to 40% versus the start of the year."
     publishedDateTime: 2023-09-07T17:41:00Z
@@ -308,15 +299,6 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 32
-  - title: "NobleAI Launches New AI-Powered Chemical and Materials Informatics Solutions on Microsoft's Azure Marketplace"
-    excerpt: "07, 2023 (GLOBE NEWSWIRE) -- NobleAI, a pioneer in Science-Based AI solutions for Chemical and Material Informatics, today announced general availability of its offerings on Microsoft's Azure ..."
-    publishedDateTime: 2023-09-07T14:57:00Z
-    webUrl: "https://www.kake.com/story/49605338/nobleai-launches-new-ai-powered-chemical-and-materials-informatics-solutions-on-microsofts-azure-marketplace"
-    type: article
-    provider:
-      name: KAKE.com
-      domain: kake.com
-    quality: 30
   - title: "Microsoft and Paige team up to develop world's largest cancer-fighting AI model"
     excerpt: "The image-based AI model will capture cancer's complexities, fueling the next-gen clinical apps and biomarkers in oncology and pathology"
     publishedDateTime: 2023-09-10T13:18:00Z

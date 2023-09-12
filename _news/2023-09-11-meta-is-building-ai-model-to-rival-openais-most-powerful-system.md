@@ -26,64 +26,114 @@ images:
     isCached: true
 
 related:
-  - title: "The Power Of Causal Models In Moving From Weak To Strong AI"
-    excerpt: "Businesses need to employ a system thinking approach in which causal modeling is the foundation for AI, allowing them to continue to stay on the bleeding edge."
-    publishedDateTime: 2023-09-07T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/07/the-power-of-causal-models-in-moving-from-weak-to-strong-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/07/the-power-of-causal-models-in-moving-from-weak-to-strong-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/07/the-power-of-causal-models-in-moving-from-weak-to-strong-ai/amp/"
+  - title: "OpenAI admits that AI writing detectors don’t work"
+    excerpt: "In a section of the FAQ titled \"Do AI detectors work?\", OpenAI writes, \"In short, no. While some (including OpenAI) have released tools that purport to detect AI-generated content, none of these have proven to reliably distinguish between AI-generated and human-generated content.\""
+    publishedDateTime: 2023-09-08T15:42:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/09/openai-admits-that-ai-writing-detectors-dont-work/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/09/openai-admits-that-ai-writing-detectors-dont-work/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/openai-admits-that-ai-writing-detectors-dont-work/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: Ars Technica
+      domain: arstechnica.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/621f7b036e1c008edddcafb7/0x0.jpg?format=jpg&width=1200"
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/09/ai_detector_hero_2-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Why the latest $1 billion AI startup doesn’t want to beat OpenAI"
+    excerpt: "Focusing on explainable AI agents, the vision is that reasoned, trustworthy AI tools will unlock vast potential when widely accessible."
+    publishedDateTime: 2023-09-08T15:17:00Z
+    webUrl: "https://venturebeat.com/ai/why-the-latest-1-billion-ai-startup-doesnt-want-to-beat-openai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_line_art_vector_line_flat_illustration_minimal_surreal__67423beb-041c-40ed-aaf5-4306fbe95146.png?w=1200&strip=all"
         width: 1200
-        height: 675
+        height: 672
         isCached: true
-  - title: "Companies Look to Squeeze More Power Out of AI Chips"
-    excerpt: "Strategies that boost the power of advanced processors are in demand as limited chip supplies force companies to get creative"
-    publishedDateTime: 2023-09-08T10:00:00Z
-    webUrl: "https://www.wsj.com/articles/companies-look-to-squeeze-more-power-out-of-ai-chips-fe33e2f2"
+  - title: "Sundar Pichai on Google’s AI, Microsoft’s AI, OpenAI, and … Did We Mention AI?"
+    excerpt: "The tech giant is 25 years old. In a chatbot war. On trial for antitrust. But its CEO says Google is good for 25 more."
+    publishedDateTime: 2023-09-11T10:00:00Z
+    webUrl: "https://www.wired.com/story/sundar-pichai-google-ai-microsoft-openai/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
+      name: Wired
+      domain: wired.com
+    quality: 62
+  - title: "Meta is working on new AI model even more powerful than OpenAI's GPT-4, says report"
+    excerpt: "Meta is working on a new AI system expected to be more powerful than OpenAI's GPT-4. It could be ready next year."
+    publishedDateTime: 2023-09-11T02:28:00Z
+    webUrl: "https://www.livemint.com/ai/artificial-intelligence/meta-is-working-on-new-ai-model-even-more-powerful-than-openais-gpt-4-says-report-11694396138923.html"
+    ampWebUrl: "https://www.livemint.com/ai/artificial-intelligence/meta-is-working-on-new-ai-model-even-more-powerful-than-openais-gpt-4-says-report/amp-11694396138923.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/meta-is-working-on-new-ai-model-even-more-powerful-than-openais-gpt-4-says-report/amp-11694396138923.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 53
     images:
-      - url: "https://images.wsj.net/im-848428/social"
-        width: 1280
-        height: 640
+      - url: "https://www.livemint.com/lm-img/img/2023/09/11/600x338/META-PLATFORMS-PRIVACY-DECISION-0_1694398908885_1694398951117.JPG"
+        width: 600
+        height: 338
         isCached: true
-  - title: "Meta is developing a much more powerful AI"
-    excerpt: "Meta is reportedly working on a new AI system intended to be as powerful as the most advanced model from OpenAI."
-    publishedDateTime: 2023-09-11T04:52:00Z
-    webUrl: "https://techcentral.co.za/meta-is-developing-much-more-powerful-ai/231341/"
+  - title: "Mark Zuckerberg’s Meta working on a new, more advanced AI model to rival OpenAI’s GPT-4"
+    excerpt: "Mark Zuckerberg’s Meta is working on building a new AI model that will be more powerful than its current model Llama 2, and will rival the capabilities of OpenAI’s GPT-4."
+    publishedDateTime: 2023-09-11T03:35:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/mark-zuckerberg-s-meta-working-on-a-new-more-advanced-ai-model-to-rival-openai-s-gpt4-71694403038916.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/mark-zuckerberg-s-meta-working-on-a-new-more-advanced-ai-model-to-rival-openai-s-gpt4-71694403038916.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/mark-zuckerberg-s-meta-working-on-a-new-more-advanced-ai-model-to-rival-openai-s-gpt4-71694403038916.html"
     type: article
     provider:
-      name: TechCentral
-      domain: techcentral.co.za
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 51
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/09/11/1600x900/FILES-CANADA-INTERNET-MEDIA-ADVERTISING-GOOGLE-1_1694403099531_1694403116763.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "OpenAI to Announce GPT 5?"
+    excerpt: "OpenAI, a prominent AI lab, has announced that its first developer conference, OpenAI DevDay, will take place on November 6, 2023."
+    publishedDateTime: 2023-09-08T16:51:00Z
+    webUrl: "https://www.dmnews.com/openai-to-announce-gpt-5/"
+    type: article
+    provider:
+      name: Direct Marketing News
+      domain: dmnews.com
     quality: 39
     images:
-      - url: "https://techcentral.co.za/wp-content/uploads/2021/12/meta-platforms-2156-1120-1024x532.jpg"
-        width: 1024
-        height: 532
+      - url: "https://images.dmnews.com/wp-content/uploads/2023/09/GPT-5.jpg"
+        width: 1000
+        height: 667
         isCached: true
-  - title: "Meta developing an AI model more powerful than LLaMa 2"
-    excerpt: "Meta believes that the new model will be as powerful as GPT-4, OpenAI's most impressive LLM yet. Meta is competing with the likes of Google, OpenAI, Microsoft, and Apple, all in a deep race and a rush to invest their resources and finances in developing the latest artificial intelligence models."
-    publishedDateTime: 2023-09-11T19:03:00Z
-    webUrl: "https://interestingengineering.com/innovation/meta-ai-model-more-powerful-llama-2"
+  - title: "Meta to build an advanced AI Model to Rival OpenAI's GPT-4"
+    excerpt: "Mark Zuckerberg's Meta is building a new AI model that will be more powerful than its current Llama 2 model and rival the capabilities of OpenAI's GPT-4."
+    publishedDateTime: 2023-09-11T04:33:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/meta-to-build-an-advanced-ai-model-to-rival-openais-gpt-4-821757"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
+      name: The Hans India
+      domain: thehansindia.com
     quality: 39
     images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/09/11/image/jpeg/FjZIX0P2fuHnGgDSH6Ie34qgvPiaK5ghlmTAYdzB.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://assets.thehansindia.com/h-upload/2023/09/11/1379693-meta.jpg"
+        width: 1200
+        height: 720
         isCached: true
+  - title: "OpenAI CEO Sam Altman Discusses Ethics & Global Scale Of Changes AI Brings"
+    excerpt: "Altman questions whose morality defines AI safety and importance of making GPT-4 available, even if used in ways he disagrees with"
+    publishedDateTime: 2023-09-11T18:25:00Z
+    webUrl: "https://www.searchenginejournal.com/openai-ceo-sam-altman-discusses-ethics-global-scale-of-changes-ai-brings/495991/"
+    type: article
+    provider:
+      name: Searchenginejournal.com
+      domain: searchenginejournal.com
+    quality: 32
 
 secured: "z8ZCyfDVQ8n+ulQ9TllXnl0TK0kEEO6L0pDxPiY6LJeAZ2mS/BtFpJ6c59P3lCiiWDL7wSeVp0eG3Z5sjFTp6IYJhLhejsP1FHBpkvwMUe278hCkjj/NRmCcnHE/WNDjJWFWLhM7gHu3cZTqqbUtFeA7a+secUkdQvlYW7FN9Vkc5C2a58hEWk5BkY1JWS4ieF8yg20K7VpNTUM7N8ckLbtfrs0Kr4zE8nDzwam8QlyjOBetlDI5hUFk4ZEPxkdi8egn83PQd9Qe95c/qEm3wBfEmAA4u2LgoZYPzOaKZEokjMFOQNNYN9wvmbTnk2ZkHEJQuDce7pL9UVJtuJy4dhsdGkg1pkiLF/5MpEDN4WDDJxmYnIjsuHWnSyAPQC0CdMN+/OEa9ZvL0+z5sxf1az01Vptoy4UvQcX5a3R2Pg990FZKl7aDfB9hA2In+XWZA8yjsQVY3llePAF+jK7Be0KmdW/LT+HekmIf1gWi0v/E1XhzByfO9ais/rMBym1C3y7pf5Sb8/6kVpLl/bBmzw==;DMe5Xkr/iCWKoJ8Vi9P1Uw=="
 ---

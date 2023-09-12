@@ -101,22 +101,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "What to know about Congress’s inaugural AI meeting"
-    excerpt: "We’re going to be hearing a lot about various plans and positions on AI regulation in the coming weeks."
-    publishedDateTime: 2023-09-11T08:08:00Z
-    webUrl: "https://www.technologyreview.com/2023/09/11/1079244/what-to-know-congress-ai-insight-forum-meeting/"
-    ampWebUrl: "https://www.technologyreview.com/2023/09/11/1079244/what-to-know-congress-ai-insight-forum-meeting/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/11/1079244/what-to-know-congress-ai-insight-forum-meeting/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/09/GettyImages-1651323207.jpeg?w=3000"
-        width: 3000
-        height: 1687
-        isCached: true
   - title: "Scientists Are Beginning to Learn the Language of Bats and Bees Using AI"
     excerpt: "They record sound 24-7 and create oodles of data, which is where artificial intelligence comes in. Researchers can apply natural language processing algorithms like the ones used by Google translate to detect patterns in these recordings and begin to ..."
     publishedDateTime: 2023-09-11T14:00:00Z

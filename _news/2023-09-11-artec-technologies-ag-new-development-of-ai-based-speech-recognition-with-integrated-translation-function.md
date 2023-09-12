@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "How Edge AI Enhances Video Surveillance"
-    excerpt: "This website uses cookies to enhance your browsing experience and serve personalized content. Privacy Policy"
-    publishedDateTime: 2023-09-07T14:50:00Z
-    webUrl: "https://www.securityinfowatch.com/video-surveillance/video-analytics/article/53069691/how-edge-ai-enhances-video-surveillance"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 39
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/08/16x9/GettyImages_1379911617.64e8c2d440239.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Crafting persuasion: mastering compelling arguments in the age of AI and the video generation"
     excerpt: "Stratton Horres and Karen L. Bashor of Wilson Elser provide tips on combining AI and video evidence with the human connection in trial presentations, and opening and closing arguments."
     publishedDateTime: 2023-09-07T17:29:00Z

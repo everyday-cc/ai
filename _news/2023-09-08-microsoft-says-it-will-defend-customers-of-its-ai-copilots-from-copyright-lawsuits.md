@@ -7,7 +7,7 @@ originalUrl: "https://www.scmp.com/tech/big-tech/article/3233809/microsoft-says-
 webUrl: "https://www.scmp.com/tech/big-tech/article/3233809/microsoft-says-it-will-defend-customers-its-ai-copilots-copyright-lawsuits"
 type: article
 quality: 78
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -63,15 +63,6 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 14
-  - title: "New Copilot capabilities help Microsoft’s own customer service engineers deliver faster, smarter results"
-    excerpt: "The insights gained from having thousands of Microsoft’s own customer support engineers test Copilot capabilities in their own workflows has helped fine tune the product and make it more useful for everyone, said Geoff Maxwell, general manager for Microsoft’s Customer and Digital Experience."
-    publishedDateTime: 2023-09-07T14:58:00Z
-    webUrl: "https://news.microsoft.com/source/features/ai/copilot-dynamics-365-customer-service/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 2
 
 secured: "a42+r5CLmp3N9iweb6sS5y9B9eJTQU5fEFu/dRsFWyGxVz6tqs1PCK3FdQiTH7TTMs1VFzIkG4a084qckEWNwlmu2dA23B26szDnKaK2ZOJallVKLvn907Ub12pXNSVPhPplLNRjgVCM54OxNiJsUdBCzzZ4obL4JVRhoOiL4+Y9JKtQ10u33PtvM4WMzkInarwkBZdYLMyxGnhzeLeH90/x5+f+w5ckdOR6tWdQRyn1d1X9guMZkqvuq4r8WjcnTOVUHsW4ZkcMaBW5P1apHOo4e2BNxGwTJ0KsVjckIlulyceo0iD9p1M+FS3QPmlbOldn+NQcd+iulZqzS0PGPyRbbM7upAVTXO0cRkDAm9knpNiTDXPkhd8EEaZri9zffZGdJBwXOKCR/6CpYiTb4axKGgH0Zm5Cc/guaT4ykiTrsZGr0M3bTAaZjW6uEHrK3XHeLHSAIHKxHLVaRotiUVdv+w5WGMJwi7lwLEw6j0hxwNVVK1nOOr7EkyntmOvT3MDazD9JwWwnsPDesiOhsw==;3TD3hPRb+86UJ8NKLev3Iw=="
 ---

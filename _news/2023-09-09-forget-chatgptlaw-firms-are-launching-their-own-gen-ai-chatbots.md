@@ -339,15 +339,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "1606 Corp Engages AR XTLabs to Develop AI Chatbot For CBD Industry"
-    excerpt: "The CBDW AI product is being strategically engineered to elevate customer interactions, deliver an educational resource, facilitate new customer engagement, and offer CBD product recommendations. The primary objective of the CBDW AI is to bolster sales for CBD industry enterprises while ensuring an immensely enjoyable customer journey."
-    publishedDateTime: 2023-09-07T13:56:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/09/07/9876702.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "AI tech behind ChatGPT was built in Iowa -- with lots of water"
     excerpt: "The cost of building an artificial intelligence product such as ChatGPT can be hard to measure. But one thing Microsoft-backed OpenAI needed for its technology was plenty of water, pulled from the watershed of the Raccoon and Des Moines rivers in central Iowa to cool a powerful supercomputer as it helped teach its AI systems how to mimic human"
     publishedDateTime: 2023-09-11T05:00:00Z

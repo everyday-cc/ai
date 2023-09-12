@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Unveiling global warming's impact on daily precipitation with deep learning"
-excerpt: "A collaborative international research team led by Professor Yoo-Geun Ham from Chonnam National University and Professor Seung-Ki Min from Pohang University of Science and Technology (POSTECH) has made a discovery on the impact of global warming on global daily precipitation."
-publishedDateTime: 2023-08-30T16:08:00Z
-originalUrl: "https://phys.org/news/2023-08-unveiling-global-impact-daily-precipitation.html"
-webUrl: "https://phys.org/news/2023-08-unveiling-global-impact-daily-precipitation.html"
-ampWebUrl: "https://phys.org/news/2023-08-unveiling-global-impact-daily-precipitation.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-08-unveiling-global-impact-daily-precipitation.amp"
+excerpt: "Using a deep learning approach, they have unveiled a significant change in the characteristics of global daily precipitation for the first time. Their research findings were published on August 30 ..."
+publishedDateTime: 2023-08-30T00:00:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2023/08/230830131932.htm"
+webUrl: "https://www.sciencedaily.com/releases/2023/08/230830131932.htm"
 type: article
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2023/unveiling-global-warmi.jpg"
-    width: 1280
-    height: 1057
-    isCached: true
-
-secured: "ZNx61wZK7pPfbdxeL0iFgo0gtVndzVRO2gWbKJdspzazmJwPKVKOiwcV+83BUM1bhQ2pRj8IRYkTM4T8Euh4S2bIyNwTA7qhI2BE8EGCCVyEVDtvw8KnLLA2WFcEovABQjRYP+7dNSGfFhAlJK7OmMYC0zVUuB53jJpTcg+RnOvyLepIksHhC51a3QbtmpEIY5FpXHMqSA+rcVMVdljVidoOcp3hmRfb99Fx2lEbloPDX1kwh3/3tCzwI7qXhvBQWKJouOOJxjP/b9QNQGyHgGNgyV428u9QvOe/Eagm9EPNpjE63SutWhLqwbedXum7c4D5AiBl7mE4rN/VGjfBg0Hn7EGczhIkRheEya6GMg8=;BQo7EpPSiSNle9PjKBQz+g=="
+secured: "6o/XpH8wtjq/IKA8McGkysspsA00kXZQXia0143XPNVRVvwzlP+Sfc8xNyryHJkkKUnQ98vzdEsjo56Zu7MKrHyqCw9WzHJtPrENLX/h/Hjc78ZsE6Grh7z7jtnV6lg45iSuNMAyLF/JfRlcvUkE0ydkhhlIcJggQ/qQ7h2FmcE81/qUK8MlTpif4CUVrXTxndLZ/ccprMN/J4Kf/UfA8v1ZpK/u5KGG3tgElU+TcIAB1GzudlSQZprxGrAelTumv+WrYK/fveFACwYzKMWGCa0z3vJ6CCa/bFtA8ysd6861Du/PhiXl9A9siqaDiXEaWZkXL195E21J6WrsxNTZxdy6nRisvFsdIcb3trd+ZVs=;WYWpe1104bAMePu8C82QpQ=="
 ---
 

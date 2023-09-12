@@ -94,22 +94,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "What to know about Congress’s inaugural AI meeting"
-    excerpt: "We’re going to be hearing a lot about various plans and positions on AI regulation in the coming weeks."
-    publishedDateTime: 2023-09-11T08:08:00Z
-    webUrl: "https://www.technologyreview.com/2023/09/11/1079244/what-to-know-congress-ai-insight-forum-meeting/"
-    ampWebUrl: "https://www.technologyreview.com/2023/09/11/1079244/what-to-know-congress-ai-insight-forum-meeting/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/11/1079244/what-to-know-congress-ai-insight-forum-meeting/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/09/GettyImages-1651323207.jpeg?w=3000"
-        width: 3000
-        height: 1687
-        isCached: true
   - title: "AI, Liquid Cooling And The Data Center Of The Future"
     excerpt: "Challenges exist to scaling AI, and among the most significant are those involving the data center infrastructure necessary for supporting these workloads."
     publishedDateTime: 2023-09-11T12:45:00Z

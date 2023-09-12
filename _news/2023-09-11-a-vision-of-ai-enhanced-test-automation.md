@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/a-vision-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/11/a-vision-of-ai-enhanced-test-automation/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
-        isCached: true
-  - title: "How Edge AI Enhances Video Surveillance"
-    excerpt: "This website uses cookies to enhance your browsing experience and serve personalized content. Privacy Policy"
-    publishedDateTime: 2023-09-07T14:50:00Z
-    webUrl: "https://www.securityinfowatch.com/video-surveillance/video-analytics/article/53069691/how-edge-ai-enhances-video-surveillance"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 39
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/08/16x9/GettyImages_1379911617.64e8c2d440239.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Crafting persuasion: mastering compelling arguments in the age of AI and the video generation"
     excerpt: "Stratton Horres and Karen L. Bashor of Wilson Elser provide tips on combining AI and video evidence with the human connection in trial presentations, and opening and closing arguments."

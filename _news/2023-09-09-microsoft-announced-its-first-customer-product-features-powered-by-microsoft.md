@@ -58,15 +58,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 14
-  - title: "New Copilot capabilities help Microsoft’s own customer service engineers deliver faster, smarter results"
-    excerpt: "The insights gained from having thousands of Microsoft’s own customer support engineers test Copilot capabilities in their own workflows has helped fine tune the product and make it more useful for everyone, said Geoff Maxwell, general manager for Microsoft’s Customer and Digital Experience."
-    publishedDateTime: 2023-09-07T14:58:00Z
-    webUrl: "https://news.microsoft.com/source/features/ai/copilot-dynamics-365-customer-service/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 2
 
 secured: "k+wVfuDusJg2hYpAaXHYY37SvcIUVYmgMAaYNxY4NSIGu9Trl+7HeLqTBNBvXt8srGIgDHxGM9uZHhqjyqGbWwH4wqPOEIrhCUoyn/cgHEEuidlXoaj9v7I+IFE/VDRaUCBTcKAVof0ygyYp2ap3qbzQMyzaQ45vBAXatbsNvf3S/H8QTAoyaZJbWUe7/HJVEJi+zMvSN/nFm4Snv2Q6+T0hGlP90uphCFjtkFLoniJcDHTw7k2O4QWcBq6QzWaHSzSfI3PyX+9OG+cAZi0UAQTcZSNeYTxwBgl6Ddbr82uhntAkQWYUXPWmmRUFOmt1gg4MeM1vDn6Qh+agoEGoyETMJiuanLrTzwW5q73kL/M=;HgqQwPE5ZpLoxrmgYdFl2w=="
 ---

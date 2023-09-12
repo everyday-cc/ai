@@ -39,15 +39,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "KSUM-incubated startup to export 150 robots to British IT company"
-    excerpt: "The customers of Sastra Robotics, which has won several awards at national and international level, include big names like German company Robert Bosch, HCL, Qualcomm, Tech Mahindra, and ABB."
-    publishedDateTime: 2023-09-07T13:28:00Z
-    webUrl: "https://www.financialexpress.com/business/sme-ksum-incubated-startup-to-export-150-robots-to-british-it-company-3236264/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 19
 
 secured: "njfopNMHEoiih1xp8s0Eawg18X77b+WHVO/098B2604zjibY3YilILxPXYwtOgBT9k21KL5AwbfSy6CxRsZcMSRxy1qgA42xLgeUOUxBewkJDfFXeH2Xj1kxDBZGy7NVBmAbEmsz3UQ9XJy4sWt+2+LXfB0Z7MXm5J2+Ip9HV88dTMreq+JbsEsAMMRa321tiKQ/UFIQ3RDvpePMg/8aIAZfMSQirAH2fsbE7Sz4hjeiqYCGi3jfKtZaZ70408RAjhGJXKNJ9XAd36LfWo40QoIjNppkzDEtYER/cTPpBP+VkFGsvPaNWim9ZS7pDcaozFbzuNmFALC7UcELskJQnuxDq3OnNnTJpKyte/s4bwvHbL5nmFe+8P/u162yYVwque8DkE+t2PQlmE/9bvGNLGNuMS1dX5XyQ0QS9p/+BLoHxhJO9Xw2nqsNKMits7fIcYjQ0CGKWc34EKN3vRZkUUKpGIVJzxM3Qgjmgox0H7Y8+TqOtIKF9y4z6eTK1nX1meQUln+Hw+vNHsgTnWpQUw==;HbfZTrop7k9SZDFQUAIEnQ=="
 ---
