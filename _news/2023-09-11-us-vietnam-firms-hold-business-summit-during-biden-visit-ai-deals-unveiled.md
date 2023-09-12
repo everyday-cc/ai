@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "US and Vietnam make deals on AI chips and tech worth billions"
+    excerpt: "President Joe Biden called the move a formal “upgrading” of the U.S.'s relationship with Vietnam and aims to create a “stable base” in the region rather than “contain China.”"
+    publishedDateTime: 2023-09-12T11:33:00Z
+    webUrl: "https://cointelegraph.com/news/us-vietnam-make-deals-on-ai-chips-tech"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 54
+    images:
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDkvM2YxMjg1MmEtOGRjYy00YmU3LTk1YmMtMDg4NDEyYjA3NjVmLmpwZw==.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "US and Vietnam unveil billions in semiconductor and AI deals"
     excerpt: "The US and Vietnam have agreed billions of dollars in business deals and partnerships led by companies including Boeing, Microsoft and Nvidia, after the former foes upgraded their ties in a historic shift in response to China’s growing influence."
     publishedDateTime: 2023-09-11T10:54:00Z

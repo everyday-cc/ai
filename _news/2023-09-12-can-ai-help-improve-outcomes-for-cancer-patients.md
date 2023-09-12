@@ -6,8 +6,8 @@ publishedDateTime: 2023-09-12T09:31:00Z
 originalUrl: "https://thedailyrecord.com/2023/09/12/can-ai-help-improve-outcomes-for-cancer-patients/"
 webUrl: "https://thedailyrecord.com/2023/09/12/can-ai-help-improve-outcomes-for-cancer-patients/"
 type: article
-quality: 19
-heat: 19
+quality: 21
+heat: 21
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Healthcare
 
 related:
   - title: "AI startup raises $7.5M to help patients predict health outcomes. Here's how."

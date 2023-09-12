@@ -160,22 +160,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "World's Largest Image-Based AI Model For Identifying Cancer: Microsoft Teams Up With Paige To Build One"
-    excerpt: "Microsoft Corp MSFT +0.27% + Free Alerts has announced a collaboration with digital pathology provider Paige to develop the world's largest image-based artificial intelligence model for cancer detection."
-    publishedDateTime: 2023-09-07T17:21:00Z
-    webUrl: "https://www.benzinga.com/news/large-cap/23/09/34325288/worlds-largest-image-based-ai-model-for-identifying-cancer-microsoft-teams-up-with-paige-to-build-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34325288"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34325288"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 58
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/09/07/msft.png?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Beijing Denies Microsoft’s Claims China is Using AI to Target US Voters"
     excerpt: "Microsoft researchers claim to have discovered a network of fraudulent, China-controlled social media accounts attempting to influence US voters through artificial intelligence. A Chinese embassy official in Washington,"
     publishedDateTime: 2023-09-07T23:54:00Z
@@ -220,17 +204,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft says it will protect customers from AI copyright lawsuits"
-    excerpt: "Microsoft says it will defend buyers of its artificial intelligence products from copyright infringement lawsuits, an effort by the software giant to ease concerns customers might have about using its AI “Copilots” to generate content based on existing work."
-    publishedDateTime: 2023-09-07T17:58:00Z
-    webUrl: "https://www.seattletimes.com/business/microsoft/microsoft-says-it-will-protect-customers-from-ai-copyright-lawsuits/?n=%5CL"
-    ampWebUrl: "https://www.seattletimes.com/business/microsoft/microsoft-says-it-will-protect-customers-from-ai-copyright-lawsuits/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/microsoft/microsoft-says-it-will-protect-customers-from-ai-copyright-lawsuits/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 54
   - title: "Microsoft to build AI model for detecting cancer: All the details"
     excerpt: "The model will be trained on up to four million digitised microscopy slides across multiple types of cancer, from Paige's unmatched petabyte-scale archive of clinical data. Paige will utilise Microsoft's advanced supercomputing infrastructure to train the technology at scale and ultimately deploy it to hospitals and laboratories across the globe using Azure."
     publishedDateTime: 2023-09-08T10:19:00Z
@@ -352,24 +325,6 @@ related:
         width: 630
         height: 473
         isCached: true
-  - title: "Chinese social media accounts swaying US voters using AI: Microsoft"
-    excerpt: "In a new research report, Microsoft said the social media accounts were part of a suspected Chinese information operation, according to Reuters."
-    publishedDateTime: 2023-09-07T18:45:00Z
-    webUrl: "https://www.cnbctv18.com/world/chinese-social-media-accounts-swaying-us-voters-using-ai-microsoft-17746271.htm"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 36
-  - title: "Microsoft teams up with Paige on AI-powered cancer detection"
-    excerpt: "Microsoft has partnered with Paige on world's largest AI model for cancer detection. Paige has a wealth of data to train the said model that far exceeds data on Netflix. Shares of Microsoft Corp are currently up close to 40% versus the start of the year."
-    publishedDateTime: 2023-09-07T17:41:00Z
-    webUrl: "https://invezz.com/news/2023/09/07/microsoft-paige-ai-powered-cancer-detection/"
-    type: article
-    provider:
-      name: Invezz
-      domain: invezz.com
-    quality: 36
   - title: "Microsoft, Paige to build world’s largest AI model to fight cancer"
     excerpt: "Paige developed the first large foundation model using over one billion images from half a million pathology slides across multiple cancer types."
     publishedDateTime: 2023-09-09T13:19:00Z
@@ -406,15 +361,6 @@ related:
       name: National Herald
       domain: nationalheraldindia.com
     quality: 30
-  - title: "Charlotte firm partners with Microsoft to leverage generative artificial intelligence"
-    excerpt: "Ally Financial Inc. is fully embracing generative AI after the launch of ChatGPT late last year unveiled the technology's revolutionary potential."
-    publishedDateTime: 2023-09-07T18:25:00Z
-    webUrl: "https://www.bizjournals.com/triad/news/2023/09/07/ally-bank-charlotte-generative-ai-microsoft.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 27
   - title: "LSEG and Microsoft launch 10-year strategic partnership for next … – Microsoft"
     excerpt: "Strategic partnership highlightsFinancial effects for LSEGEditor’s note – Dec. 13, 2022 – The name of Microsoft Purview was corrected.LONDON — Dec. 12, 2022 —"
     publishedDateTime: 2023-09-09T16:56:00Z

@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Dutton urges Albanese to abandon the Voice referendum"
+    excerpt: "Mr Dutton also floated the idea of hosting another referendum, focusing on symbolic Indigenous recognition if the Voice fails to pass. Polling suggests the referendum is on track to be defeated in all states except Tasmania. The Opposition leader has ..."
+    publishedDateTime: 2023-09-12T11:12:00Z
+    webUrl: "https://www.theaustralian.com.au/news/dutton-urges-albanese-to-abandon-the-voice-referendum/video/db0d6a4975e01fdcf2edb3e672612f11"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 4
   - title: "Ben O’Shea: Dutton is using the idea of a second referendum to provide cover for people to vote ‘No’ to Voice"
     excerpt: "They say a bird in the hand is worth two in the bush. Going by that established exchange rate, a bird in the hand must be worth approximately 10,000 birds that are promised to you by a politician."
     publishedDateTime: 2023-09-08T17:59:00Z

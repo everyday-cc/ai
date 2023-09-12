@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "A lot of IBM’s AI platform watsonx was built in India: Country head Sandip Patel"
+    excerpt: "Around 80 percent of IBM’s India workforce has been working on building IBM’s global AI capabilities, Sriram Raghavan, VP, IBM Research AI told Moneycontrol."
+    publishedDateTime: 2023-09-12T10:34:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/a-lot-of-ibms-ai-platform-watsonx-was-built-in-india-country-head-sandip-patil-11355341.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 49
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2022/10/Sandip_Patel-653x435.jpg"
+        width: 653
+        height: 435
+        isCached: true
   - title: "IBM Watsonx open source Codeflare explained"
     excerpt: "IBM has recently announced the launch of Watsonx, its latest AI platform offering a unique blend of AI and data platform that is specifically built for businesses. It comes with a set of AI assistants that are designed to help businesses scale and ..."
     publishedDateTime: 2023-09-08T12:53:00Z

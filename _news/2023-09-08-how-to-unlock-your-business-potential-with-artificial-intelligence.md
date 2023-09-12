@@ -88,15 +88,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Guide to Artificial Intelligence ETFs"
-    excerpt: "Robots and artificial intelligence (AI) are increasingly gaining precedence in our daily life. The pandemic-driven stay-at-home trend made these more important as we have become more dependent on ..."
-    publishedDateTime: 2023-09-07T17:14:00Z
-    webUrl: "https://www.nasdaq.com/articles/guide-to-artificial-intelligence-etfs-0"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
   - title: "Revolutionizing The Hospitality Industry With Artificial Intelligence"
     excerpt: "By harnessing the power of AI, hoteliers can revolutionize the guest experience, personalize service, streamline operations and bring more to the bottom line."
     publishedDateTime: 2023-09-11T13:00:00Z

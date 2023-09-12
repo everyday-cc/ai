@@ -26,7 +26,7 @@ related:
     provider:
       name: The Daily Record (Maryland)
       domain: thedailyrecord.com
-    quality: 19
+    quality: 21
 
 secured: "hNeARvJjBaZLywKmYkTYQ0oLgHOmQASgOnX2/a47OxTcRG5ZvIvlctnnJXIhj47rg9fWMxMnZWObcZoy5GLvYM4NMq6aCF3eR754Aps8TAziB1wRajCxL8ZpHmqBW5kffGVmMq2AKVjGnFr392iX7OYJwI5v0YL1uFCl0Uoe0FD/7x90vju+FgjDl2YUt9u2ic8CrJYIc35UtBGXrtXA7E65Y4c3JMdtgjC4Bi6pXuelGvMRwy2VVMC8RjKbHwwpZLkNYTKofl99Ry5oXRwAL5yQgTrplAKULIaewGJqo+pVcWPuFctY8lmM7vvEszqMpvKtSbd9/e+MuGQUvbTF6zNUrtAmkFEC/VTrk3KNAFqnSo4ZV2tM0c6ZRYWlyvsc27//uLPUn8oO7eWl6Fr07RFLsRixNIDflnVSklSBE4Y6qefhzWChboae2vctFLNYjB2p1ZEwqblx2T5zOPJKCwH0YCgew2iAS4aGimJX7mCK3rOjZ/WolYJwXu0ZHaPNBB53clnqw1C6iqCOLkvqvg==;6c7NOutbsOuGLP7tLCjv+g=="
 ---

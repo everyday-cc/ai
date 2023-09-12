@@ -44,20 +44,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Google to Require Political Ads to Disclose If They Are AI-Generated"
-    excerpt: "The company rolls out the policy as some US political groups have sponsored AI-generated ads for the upcoming election season."
-    publishedDateTime: 2023-09-07T17:03:00Z
-    webUrl: "https://www.pcmag.com/news/google-to-require-political-ads-to-disclose-if-they-are-ai-generated"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/03WwWLDQGzRHmNCIO7S4lYY-1.fit_lim.size_1200x630.v1694099631.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Self-Driving Cars and AI Ethics"
     excerpt: "Peter Singer & Tse Yip Fai consider the implications of autonomous vehicles for passengers, pedestrians, and the planet."
     publishedDateTime: 2023-09-08T10:38:00Z
@@ -71,47 +57,6 @@ related:
       - url: "https://webapi.project-syndicate.org/library/5871f1e97c2521f4eabc1bc885f6e5c6.2-1-super.1.jpg"
         width: 1360
         height: 680
-        isCached: true
-  - title: "AI used to alter imagery or sounds in political ads will require prominent disclosure on Google"
-    excerpt: "(AP) - Google will soon require that political ads using artificial intelligence be accompanied by a prominent disclosure if imagery or sounds have been synthetically altered."
-    publishedDateTime: 2023-09-07T18:42:00Z
-    webUrl: "https://www.nbc11news.com/2023/09/07/ai-used-alter-imagery-or-sounds-political-ads-will-require-prominent-disclosure-google/"
-    ampWebUrl: "https://www.nbc11news.com/2023/09/07/ai-used-alter-imagery-or-sounds-political-ads-will-require-prominent-disclosure-google/?outputType=amp"
-    cdnAmpWebUrl: "https://www-nbc11news-com.cdn.ampproject.org/c/s/www.nbc11news.com/2023/09/07/ai-used-alter-imagery-or-sounds-political-ads-will-require-prominent-disclosure-google/?outputType=amp"
-    type: article
-    provider:
-      name: KKCO
-      domain: nbc11news.com
-    quality: 47
-    images:
-      - url: "https://gray-kkco-prod.cdn.arcpublishing.com/resizer/rzzSW2P3kdbmYsKW-ZnJwtFSrww=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/7VV4MOJ4QZBBJGCIIXCM52PV2M.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Google to require political ads to reveal if they're AI-generated"
-    excerpt: "AI-generated political ads that appear on a Google platform must disclose to users if they contain 'synthetic' content."
-    publishedDateTime: 2023-09-07T18:22:00Z
-    webUrl: "https://www.zdnet.com/article/google-to-require-political-ads-to-reveal-if-theyre-ai-generated/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 47
-  - title: "AI that alters voice and imagery in political ads will require disclosure on Google and YouTube"
-    excerpt: "Political ads using artificial intelligence on Google and YouTube must soon be accompanied by a prominent disclosure if imagery or sounds have been synthetically altered"
-    publishedDateTime: 2023-09-07T17:10:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/ai-alter-imagery-sounds-political-ads-require-prominent-102992666"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ai-alter-imagery-sounds-political-ads-require-prominent-102992666"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ai-alter-imagery-sounds-political-ads-require-prominent-102992666"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 45
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
         isCached: true
   - title: "Today in AI: Meta is developing a new AI system, Google rolls out AI-generated search enhancement outside US, and more"
     excerpt: "On August 31, the company expanded its search feature powered by SGE (Smart Global Engine) to two other regions, namely India and Japan. These two countries are noteworthy for being the first to have access to the new AI extension outside of the US. More here."

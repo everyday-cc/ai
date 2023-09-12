@@ -105,6 +105,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Oracle expects data-hungry generative AI to drive revenue growth"
+    excerpt: "“Generative AI is changing everything. As of today ... Oracle also plans to expand its existing multicloud partnership with Microsoft by making it easier for Microsoft Azure customers to buy and use Oracle cloud database technology in combination ..."
+    publishedDateTime: 2023-09-12T11:00:00Z
+    webUrl: "https://www.cio.com/article/652022/oracle-expects-data-hungry-generative-ai-to-drive-revenue-growth.html"
+    ampWebUrl: "https://www.cio.com/article/652022/oracle-expects-data-hungry-generative-ai-to-drive-revenue-growth.html/amp/"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/652022/oracle-expects-data-hungry-generative-ai-to-drive-revenue-growth.html/amp/"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 59
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2023/09/larryellison-100443445-orig-100938366-orig.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 681
+        isCached: true
   - title: "Ant Unveils AI Language Model for Wealth Management, Insurance"
     excerpt: "Ant Group Co. unveiled an artificial intelligence tool to use for wealth management and insurance services, joining the race for next-generation AI."
     publishedDateTime: 2023-09-08T08:06:00Z
@@ -151,33 +167,19 @@ related:
         width: 700
         height: 466
         isCached: true
-  - title: "SoftServe Launches Generative AI Lab"
-    excerpt: "Specialized lab expands SoftServe’s AI/ML capabilities to accelerate Generative AI value discovery and real-world adoption SINGAPORE - Media OutReach - 12 September 2023 - SoftServe , a premier IT consulting and digital services provider,"
-    publishedDateTime: 2023-09-12T02:25:00Z
-    webUrl: "https://www.asiaone.com/business/softserve-launches-generative-ai-lab"
+  - title: "Softserve Launches Generative Ai Lab"
+    excerpt: "Specialized lab expands SoftServe's AI/ML capabilities to accelerate Generative AI value discovery and real-world adoptionSINGAPORE - Media"
+    publishedDateTime: 2023-09-12T11:54:00Z
+    webUrl: "https://menafn.com/1107051285/Softserve-Launches-Generative-Ai-Lab"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
+      name: Mena FN
+      domain: menafn.com
     quality: 39
     images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Sep2023/404637-SoftServe-Logo-2-jpg-1200.jpeg?h=bde28bee&itok=VFcdKfYN"
-        width: 600
-        height: 316
-        isCached: true
-  - title: "IBM debuts Granite series of hardware-efficient language models"
-    excerpt: "The Granite series is rolling out to watsonx.ai alongside two open-source AI models. The first is Llama-2, a general-purpose large language model from Meta Platforms Inc. IBM is also adding StarCoder, a neural network optimized for programming tasks that ServiceNow Inc. and Hugging Face Inc. released in May."
-    publishedDateTime: 2023-09-07T17:52:00Z
-    webUrl: "https://siliconangle.com/2023/09/07/ibm-debuts-granite-series-hardware-efficient-language-models/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 26
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Watsonx.png"
-        width: 718
-        height: 400
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?132894"
+        width: 309
+        height: 250
         isCached: true
   - title: "Emagia Introduces GiaGPT: A Groundbreaking Generative AI Solution for Finance Operations"
     excerpt: "Hyderabad (Telangana) [India], September 11: Today, Emagia, a leading innovator in Autonomous Finance solutions, announced the launch of GiaGPT, their latest Generative AI solution tailored for finance operations executives."
@@ -188,15 +190,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 25
-  - title: "AVIA’s National Generative AI Collaborative Announces New Experts, Enhanced Health System Participation"
-    excerpt: "The Generative AI Strategic Collaborative reveals a slate of 10 clinical, ethics, technology, and regulatory experts for its national consortium"
-    publishedDateTime: 2023-09-07T17:04:00Z
-    webUrl: "https://www.miamiherald.com/press-releases/article279063044.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 3
 
 secured: "MhXPwllbkIAeVNQ+XF1ZrsElesOx35yDye8ieggIoWAwk2CREZMvyCBrw57TWeTfYyd63DGsdT1X53ccJEyccF7cs7qQPQ16Akq4sRKyBrz5wH5FQnWI12GX7sg2xzFFGUAwVaodq4oiMWW9X1+cdC793lpGtpeOuYAIXVmvhJ1OJ91R7r7F++jD+MuoWhWI3q5HBeR7/hkN18kPqTjtdq/D3g7ztUaH2ArdtGtxo0qR4iYM+31bOq30zz2xoCPBLCZ87mZtMcedL2BHwfJ748XTaSPSw+CYDVUXsEZaEkQm0Ui/t/j7KnHrv+jwZf2jxOxWZVWHoVfbX+qgEccfCt8jTXJx9+FPP+eDfZOGy8wNk8UWczecKqDfcgCw3nmG8k4MhGYqcCmZxcxjzFhqeX0hdgYjjlAuy9EYLlg6s/p3rk7XLsJE83XS8YqcsLG/jpUh2mrj7WjfQGoDfVibr7jh1dli7L6VRrubrma+EWPLVij2tIFVn70L+IboaVDKjOl3x95Tm7srEQqsKG5EPQ==;/IOMKd6q0fPbLW5TnlLEzg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/how-salesforce-sto
 webUrl: "https://markets.businessinsider.com/news/stocks/how-salesforce-stock-nyse-crm-can-thrive-from-the-ai-wave-1032620810"
 type: article
 quality: 101
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_vector_art_line_art_flat_illustration_surreal_abstract__c44a7f93-a2da-4c9b-9693-9e05e6c629b2.png?w=1200&strip=all"
         width: 1200
         height: 672
+        isCached: true
+  - title: "Dreamforce 2023 - how to be an AI Pioneer, according to IBM's State of Salesforce study"
+    excerpt: "The State of Salesforce report has a number of recommendations here. Approach generative AI as a team sport. IBM’s CEO research concludes that 55% of stakeholders, including customers, boards of directors, and investors - are urging CEOs to accelerate ..."
+    publishedDateTime: 2023-09-12T11:03:00Z
+    webUrl: "https://diginomica.com/dreamforce-2023-how-be-ai-pioneer-according-ibms-state-salesforce-study"
+    ampWebUrl: "https://diginomica.com/dreamforce-2023-how-be-ai-pioneer-according-ibms-state-salesforce-study?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/dreamforce-2023-how-be-ai-pioneer-according-ibms-state-salesforce-study?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 51
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-09/Screenshot%202023-09-08%20at%2010.27.06.png"
+        width: 874
+        height: 704
         isCached: true
 
 secured: "KEyI5wSG709WFtjVhBfEBeGi9VyhGzq4AQSuo3fwRZeVA5pPqMgyxrMo5h6oERT8J5KRh3uYslz+kjNlF7TI8z8ANC7o441X3RrzLDDQvriDjpqODxW1cczswnuoCzAXcSQxLD5KJpUOJZrL7qXgXU9WDgNmg0Jp0ll6QFq1OIef9lO9XtNW0Yk8tq1BG5Z17T3heWhlQPjdeGb2uGNXN/dDQu2CFtcLfFEf0QqB4Hgjt6GLaAVBH0CPLq/SrX+/ieo+qsLX7Q9W8VRFs0uHkJ3400W/wlQeK4tVkZ8l26n8aM0lqHcAjIwKP+yYvWMKezbn3M5+S4UXsEthefHr46CglzbXVZmUfDpp5pEaZ7c=;D/1tgbD4gFLE8yPiJI4Sqg=="

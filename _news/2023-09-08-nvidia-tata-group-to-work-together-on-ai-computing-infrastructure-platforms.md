@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnbctv18.com/technology/nvidia-tata-group-work-on-ai-com
 cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/nvidia-tata-group-work-on-ai-computing-infrastructure-platform-gh200-grace-hopper-superchip-17755921.htm/amp"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 106
+published: true
 
 provider:
   name: cnbctv18
@@ -27,50 +27,61 @@ images:
     isCached: true
 
 related:
-  - title: "AI startup Imbue tops $1 billion valuation after funding from Nvidia"
-    excerpt: "Kanjun Qiu, co-founder and CEO of Imbue, previously launched Sourceress, an AI recruiting startup, and Ember Hardware, a virtual reality startup. The company is a rare AI unicorn, or startup with a valuation of more than $1 billion, to have a woman CEO."
-    publishedDateTime: 2023-09-08T01:55:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/ai-startup-imbue-tops-1-billion-valuation-after-funding-from-nvidia-71694110213169.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ai-startup-imbue-tops-1-billion-valuation-after-funding-from-nvidia-71694110213169.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-startup-imbue-tops-1-billion-valuation-after-funding-from-nvidia-71694110213169.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 57
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/09/08/1600x900/Nvidia_1694137934885_1694137935126.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "AI Lab Imbue Gets $200M From Nvidia, Others; Hits $1B Valuation"
-    excerpt: "Imbue, a San Francisco-based AI research lab, has reached unicorn status with a massive Astera Institute-led $200 million Series B."
-    publishedDateTime: 2023-09-07T17:44:00Z
-    webUrl: "https://news.crunchbase.com/ai-robotics/new-ai-unicorn-imbue-astera-nvidia/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 41
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/AI-1.jpg"
-        width: 900
-        height: 506
-        isCached: true
-  - title: "AI startup Imbue closes $200M funding round backed by Nvidia"
-    excerpt: "The Series B investment values Imbue at $1 billion. It included contributions from Nvidia Corp. and Astera Institute, a nonprofit that backs promising research initiatives. Cruise LLC Chief Executive Officer Kyle Vogt, Notion Labs Inc. co-founder Simon Last and a number of other backers participated as well."
-    publishedDateTime: 2023-09-07T21:20:00Z
-    webUrl: "https://siliconangle.com/2023/09/07/ai-startup-imbue-closes-200m-funding-round-backed-nvidia/"
+  - title: "Nvidia debuts new software to boost AI model performance on its high-end chips"
+    excerpt: "Nvidia Corp. today announced a new open-source software suite called TensorRT-LLM that expands the capabilities of large language model optimizations on Nvidia graphics processing units and pushes the limits of artificial intelligence inference performance after deployment."
+    publishedDateTime: 2023-09-08T18:02:00Z
+    webUrl: "https://siliconangle.com/2023/09/08/nvidia-unveils-tensorrt-llm-boost-ai-inference-performance-h100-gpus/"
     type: article
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 39
+    quality: 50
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Imbue.png"
-        width: 932
-        height: 519
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/nvidia-brand-logo-2-1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
+  - title: "Nvidia partners with Reliance Jio for 2,000MW of AI data centers, Tata for AI cloud in India"
+    excerpt: "With Reliance, Nvidia will build AI infrastructure that is \"over an order of magnitude more powerful than the fastest supercomputer in India today,\" it claimed. Reliance will use"
+    publishedDateTime: 2023-09-08T15:48:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-partners-with-reliance-jio-for-2000mw-of-ai-data-centers-tata-for-ai-cloud-in-india/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 30
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/explore-dgx-h100-1cc-d.2e16d0ba.fill-1200x630.jpg"
+        width: 850
+        height: 448
+        isCached: true
+  - title: "Tata partners with Nvidia to build AI supercomputer, cloud infrastructure"
+    excerpt: "Tata Communications and Nvidia will develop an AI cloud in India aimed at providing critical infrastructure that enables computing's next lifecycle. Tata Communications' robust gl"
+    publishedDateTime: 2023-09-08T15:46:00Z
+    webUrl: "https://www.business-standard.com/companies/news/tata-partners-with-nvidia-to-build-ai-supercomputer-cloud-infra-123090801251_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 18
+  - title: "After Reliance, Tata Group set to announce AI partnership with NVIDIA: Report"
+    excerpt: "Hours after billionaire Mukesh Ambani-led Reliance Industries Limited on 8 September announced to partner with US-based chipmaker NVIDIA, reports arrived that Tata Group is set to announce an AI partnership with the same US chipmaker. An announcement is expected later in the day, reported Reuters citing a source."
+    publishedDateTime: 2023-09-08T12:49:00Z
+    webUrl: "https://www.livemint.com/companies/news/after-reliance-tata-group-set-to-announce-ai-partnership-with-nvidia-report-11694177201093.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 16
+  - title: "Reliance Jio collaborates with Nvidia for AI infrastructure; hints at a possible homegrown generative AI"
+    excerpt: "Reliance Jio partners with Nvidia to set up cloud-based AI infrastructure in India. The partnership will enable researchers, developers, startups, scientists, AI practitioners, and others to access accelerated computing and secure cloud networking."
+    publishedDateTime: 2023-09-08T12:45:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/reliance-jio-collaborates-with-nvidia-for-ai-infrastructure-hints-at-a-possible-homegrown-generative-ai/article67284725.ece"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 2
 
 secured: "wswf4wo+w8AQPxU8KwwhZgdsBCzHaIlWE/Z1qYQYVqGXNTpvtw1jBn4cUbDrVKcQXSMnI+v+lMG9LbP/TV6N384xz4B2Av83ZPcnf+Vmy9DSfw3ty6mr0ko872pu029Ar+6c4reTC5j36PgO2iHXtQoENkBi4AwgM2DXG3e+wOP2ypvsuYNSK+ppvCasJiBoXBpKoxnxwhhYx4j8VgiQhi72C14u3u6iTCgfLd/xeBlUQLULb6Ag8XgUChnAl5CjYMIaivfPFfZTXMhb8/PlNZ8bJ3x1HNX/NUbuMVgJZWb+F+PCz/cMYq/ubNjfMEm/FmjJURKnwnvr+JennXaC7OTLLFn0wG22oWAfwO/PB38=;ydm7su5xg+Jc2RftDQItcA=="
 ---

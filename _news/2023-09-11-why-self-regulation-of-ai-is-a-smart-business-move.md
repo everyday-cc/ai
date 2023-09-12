@@ -60,15 +60,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Crafting persuasion: mastering compelling arguments in the age of AI and the video generation"
-    excerpt: "Stratton Horres and Karen L. Bashor of Wilson Elser provide tips on combining AI and video evidence with the human connection in trial presentations, and opening and closing arguments."
-    publishedDateTime: 2023-09-07T17:29:00Z
-    webUrl: "https://www.reuters.com/legal/legalindustry/crafting-persuasion-mastering-compelling-arguments-age-ai-video-generation-2023-09-07/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 36
   - title: "How Applied AI is Transforming the Future of Transportation: A Deep Dive into Self-Driving Cars"
     excerpt: "Envision a world where commuting ceases to be a tiresome chore and instead becomes an opportunity for relaxation or productivity. In this vision, accidents are nearly eradicated, and traffic jams fade into the distant past."
     publishedDateTime: 2023-09-11T16:12:00Z

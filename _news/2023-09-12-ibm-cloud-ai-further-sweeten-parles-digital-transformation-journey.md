@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1107051293/IBM-Cloud-AI-Further-Sweeten-Parles-
 webUrl: "https://menafn.com/1107051293/IBM-Cloud-AI-Further-Sweeten-Parles-Digital-Transformation-Journey"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,52 @@ images:
     width: 1382
     height: 1020
     isCached: true
+
+related:
+  - title: "Parle Products extends collaboration with IBM over cloud and AI solutions"
+    excerpt: "IBM has announced the expansion of its collaboration with Parle Products, an Indian biscuit brand, to further the company’s digital transformation journey. By deploying cloud and artificial intelligence (AI) for business solutions,"
+    publishedDateTime: 2023-09-12T10:55:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-parle-products-extends-collaboration-with-ibm-over-cloud-and-ai-solutions-3241176/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-parle-products-extends-collaboration-with-ibm-over-cloud-and-ai-solutions-3241176/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-parle-products-extends-collaboration-with-ibm-over-cloud-and-ai-solutions-3241176/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 58
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-12T161744.255.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Parle Products Collaborates With Ibm To Drive Digital Transformation Using Cloud And Ai"
+    excerpt: "Bengaluru, India, September 12, 2023 -- IBM (NYSE: IBM) today announced the expansion of its collaboration with Parle Products, the largest selling biscuit brand in India, to further the company's digital transformation journey."
+    publishedDateTime: 2023-09-12T11:35:00Z
+    webUrl: "https://menafn.com/1107052400/Parle-Products-Collaborates-With-Ibm-To-Drive-Digital-Transformation-Using-Cloud-And-Ai"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 31
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?132894"
+        width: 309
+        height: 250
+        isCached: true
+  - title: "Biscuit brand Parle collaborates with IBM to drive digital transformation using cloud and AI"
+    excerpt: "Advt In the latest phase of the engagement, IBM Consulting is also collaborating with Microsoft to implement the Azure Databricks Lakehouse, AI engine for Auto Replenishment and SAP Ariba solutions at Parle. By helping Parle better leverage Azure platform ..."
+    publishedDateTime: 2023-09-12T10:52:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/biscuit-brand-parle-collaborates-with-ibm-to-drive-digital-transformation-using-cloud-and-ai/103606372"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 28
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-103606372,imgsize-167464,width-1200,height=765,overlay-etcio/artificial-intelligence/biscuit-brand-parle-collaborates-with-ibm-to-drive-digital-transformation-using-cloud-and-ai.jpg"
+        width: 1200
+        height: 765
+        isCached: true
 
 secured: "O3ujJaUc3id5yN9NdOwmkAE1XU6i6Aep3LVstc173QnXPoN86Z8+MRTZrPGlwAjXpuErUcdgiQY2gYsW9oiW3AN+K6WMN1HO0P3ud4jjbRiCDaPXiw+WhePNT6mtj3zWD33qQdKnLF0lDTdFPqwWeG6iN2RBrQl6cG8KfKPBPELjWgoiArxnMXP1nSsAVtEdZOB9ylzBUOOHCRFCTRfhI3UDfsNistgfvT29/sdGMkGY6Tv2L3L+53h3WsVskIPJrvtUsmjjElP0oWTPBKo0PiumH20D2EbrrhE0MS9p/spZBETRjPrllFBq06EoBhE+8E8Cob7hBZWiDK5aVlhM21K06sLRrqr/ht7znelWoo0=;tSwb7vOMZIferWXYy1SA6A=="
 ---

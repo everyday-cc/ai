@@ -27,15 +27,36 @@ images:
     isCached: true
 
 related:
-  - title: "AI Chip Wars: Nvidia May Be Winning, But Don’t Sleep on AMD Stock!"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In the first half of 2023, Advanced Micro Devices (NASDAQ:AMD) stock, commonly"
-    publishedDateTime: 2023-09-08T11:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-chip-wars-nvidia-may-be-winning-but-dont-sleep-on-amd-stock-1032615709"
+  - title: "AI chip startup Enfabrica raises $125 mln, with backing from Nvidia"
+    excerpt: "Enfabrica, a Silicon Valley chip startup working on networking chips for artificial intelligence data centers, said on Tuesday that it has raised $125 million in venture capital, with Nvidia joining as a strategic investor."
+    publishedDateTime: 2023-09-12T09:26:00Z
+    webUrl: "https://www.reuters.com/technology/ai-chip-startup-enfabrica-raises-125-mln-with-backing-nvidia-2023-09-12/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/5ccws5i9lMfwHWfZpThzWDo6z18=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PC3XN3V5DZJZPELJFOE4NKYHKA.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "AI startup Imbue tops $1 billion valuation after funding from Nvidia"
+    excerpt: "Kanjun Qiu, co-founder and CEO of Imbue, previously launched Sourceress, an AI recruiting startup, and Ember Hardware, a virtual reality startup. The company is a rare AI unicorn, or startup with a valuation of more than $1 billion, to have a woman CEO."
+    publishedDateTime: 2023-09-08T01:55:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/ai-startup-imbue-tops-1-billion-valuation-after-funding-from-nvidia-71694110213169.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ai-startup-imbue-tops-1-billion-valuation-after-funding-from-nvidia-71694110213169.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-startup-imbue-tops-1-billion-valuation-after-funding-from-nvidia-71694110213169.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 57
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/09/08/1600x900/Nvidia_1694137934885_1694137935126.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "1 Top Chip Stock Ready to Ride Nvidia's AI Tailwinds Higher"
     excerpt: "The jump in sales was mostly driven by its data center business, which includes the H100 and A100 chips - two advanced artificial intelligence (AI) chips that are used to build and run AI models and applications. Going forward, the company projected even ..."
     publishedDateTime: 2023-09-08T20:10:00Z
@@ -64,24 +85,43 @@ related:
         width: 620
         height: 436
         isCached: true
-  - title: "3 Chip Stocks That Should Be on Every Investor’s Radar"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The semiconductor sector has been on a tear in 2023, but while giants like"
-    publishedDateTime: 2023-09-10T20:32:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-chip-stocks-that-should-be-on-every-investors-radar-1032618325"
+  - title: "AI startup Imbue closes $200M funding round backed by Nvidia"
+    excerpt: "The Series B investment values Imbue at $1 billion. It included contributions from Nvidia Corp. and Astera Institute, a nonprofit that backs promising research initiatives. Cruise LLC Chief Executive Officer Kyle Vogt, Notion Labs Inc. co-founder Simon Last and a number of other backers participated as well."
+    publishedDateTime: 2023-09-07T21:20:00Z
+    webUrl: "https://siliconangle.com/2023/09/07/ai-startup-imbue-closes-200m-funding-round-backed-nvidia/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "The 7 Best Tech Stocks to Buy to Capitalize on the AI Revolution"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Tech stocks are some of the most appealing and popular in the stock market."
-    publishedDateTime: 2023-09-11T10:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-7-best-tech-stocks-to-buy-to-capitalize-on-the-ai-revolution-1032619506"
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Imbue.png"
+        width: 932
+        height: 519
+        isCached: true
+  - title: "Nvidia’s dominance in AI chips deters funding for start-ups"
+    excerpt: "Nvidia has “indirectly” contributed to overall AI chip fundraising woes, because investors want “home run only type investments with a huge investment, huge return”, Mythic CEO Dave Rick said. Difficult economic conditions have added to the downturn in the cyclical semiconductor industry, Rick said."
+    publishedDateTime: 2023-09-12T06:57:00Z
+    webUrl: "https://techcentral.co.za/nvidias-dominance-ai-chips-start-ups/231421/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 37
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2022/06/nvidia-1500-800-2.jpg"
+        width: 1500
+        height: 800
+        isCached: true
+  - title: "Nvidia's dominance in AI chips deters funding for startups"
+    excerpt: "Nvidia's supremacy in building computer chips for artificial intelligence has chilled venture funding for would-be rivals, investors said, with the number of U.S. deals this quarter falling 80% from a year ago."
+    publishedDateTime: 2023-09-11T13:05:00Z
+    webUrl: "https://www.aol.com/news/nvidias-dominance-ai-chips-deters-100502653.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 17
 
 secured: "toNn9r1phEu2jkDLVjST+sMOc8JfTXFpIRQyPwGVDN6i4Cd6m2tqlfavnke7GuJTKVZnu9p7BYPXXzI1iraQB4Z2LxTEDSZE8NZsHcr7wq9vndJnpmDV4lh1o8p2g0Mw+rYGQIF2fhA08ccOT8TRj86xKswi19kQu4xLLAnzQsnn5afFqPuJrgxnGhmbJG/Y/KdMMv18pTv/Yp1OsbAPKy3BCWxqnj9XLXI8ZAivgVUD+MIvJRrjln4+4w8Qrofiw1+tkDh1h9T5QB6m04fiPiDr/DeyFSlvI/X7fSaqQySxqnax7zqgFuNbt9vU4xBY4i+I+VFFW8/McT0WH14vKKALUovMWd/dIkDa1UIRoBc6Hr3O3brtxsUwiEs24h9SBCxNdSCMYoozwrc/lai9dSSzJ3c58g4lssT7+GzDsshi+osIRmhQ/c3Ugvf5g/4C4qYhOp9hZ+uYWXYXiKolRTd7CZx1rPIilQ8SC4Mv1r9mc3SjB99WV+IU8Jj18dbbndZ9R/5Kc+oWF0XQuneIxw==;zbNB/xzyvqfoedZSJGpYPA=="
 ---

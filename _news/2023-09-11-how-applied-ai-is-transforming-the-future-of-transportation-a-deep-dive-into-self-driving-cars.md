@@ -71,15 +71,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Crafting persuasion: mastering compelling arguments in the age of AI and the video generation"
-    excerpt: "Stratton Horres and Karen L. Bashor of Wilson Elser provide tips on combining AI and video evidence with the human connection in trial presentations, and opening and closing arguments."
-    publishedDateTime: 2023-09-07T17:29:00Z
-    webUrl: "https://www.reuters.com/legal/legalindustry/crafting-persuasion-mastering-compelling-arguments-age-ai-video-generation-2023-09-07/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 36
   - title: "U. community discusses integration of AI into academic, points to opportunities for innovation"
     excerpt: "Provost Francis J. Doyle III identified the intersection of artificial intelligence and higher education as a University priority in an Aug. 31 letter to the community titled “Potential impact of AI on our academic mission."
     publishedDateTime: 2023-09-11T01:01:00Z

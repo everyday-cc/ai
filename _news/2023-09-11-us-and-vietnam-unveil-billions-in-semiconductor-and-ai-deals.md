@@ -7,7 +7,7 @@ originalUrl: "https://www.ft.com/content/a162bc92-806f-48f0-adae-367daaf7f982"
 webUrl: "https://www.ft.com/content/a162bc92-806f-48f0-adae-367daaf7f982"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "US and Vietnam make deals on AI chips and tech worth billions"
+    excerpt: "President Joe Biden called the move a formal “upgrading” of the U.S.'s relationship with Vietnam and aims to create a “stable base” in the region rather than “contain China.”"
+    publishedDateTime: 2023-09-12T11:33:00Z
+    webUrl: "https://cointelegraph.com/news/us-vietnam-make-deals-on-ai-chips-tech"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 54
+    images:
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDkvM2YxMjg1MmEtOGRjYy00YmU3LTk1YmMtMDg4NDEyYjA3NjVmLmpwZw==.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "US, Vietnam firms hold business summit during Biden visit; AI deals unveiled"
     excerpt: "Executives at top U.S. and Vietnamese firms in the semiconductor, tech and aviation sectors are meeting on Monday as part of U.S. President Joe Biden's visit to Hanoi, seeking to forge business partnerships with new deals in AI unveiled."
     publishedDateTime: 2023-09-11T10:50:00Z

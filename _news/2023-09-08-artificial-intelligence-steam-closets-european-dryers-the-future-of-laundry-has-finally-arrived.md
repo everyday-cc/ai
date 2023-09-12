@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/tech/personal-tech/artificial-intelligence-ste
 webUrl: "https://www.wsj.com/tech/personal-tech/artificial-intelligence-steam-closets-european-dryers-the-future-of-laundry-has-finally-arrived-121978bf"
 type: article
 quality: 53
-heat: 53
+heat: 63
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 1279
     height: 640
     isCached: true
+
+related:
+  - title: "European fintech investment plummets, but more sustainable future lies ahead"
+    excerpt: "Investment in European fintechs has seen a dramatic drop, but a more sustainable sector will result from investment discipline."
+    publishedDateTime: 2023-09-12T06:30:00Z
+    webUrl: "https://www.computerweekly.com/news/366551814/European-fintech-investment-plummets-but-more-sustainable-future-ahead"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 36
+    images:
+      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-120923-cover-500px.jpg"
+        width: 500
+        height: 354
+        isCached: true
 
 secured: "x7z3Imm5+sm0V9CipB4KDh73+j8hDBXBmr7c+pXfv8XrNqWFGWMZSbIQolkMNDhuypEawJXEdJui/eQH71HmsDChOsfsiiaDKvRZy8IWRt4rt1nzcapVnFBdEDdGGIly5yPaSvuXq6Di9RORB8pQH59UESJUVboEzjF/Da7vyTtGCPLFEwKm7SItzEQxvFShiKQO8wAXi4SC6jLq5wK6Uddc8ZB57usZKmSIXRPSE6nvRAuawrZhzVgo7zr/5YCk/WhB9nKPp/yXLp8+p9qSHidMeTdKRPoPwbv5IYLbYVR39k1Lp35FLPGeh2frqNXkhamRUZq/ap4V5mMrkBeuGmKPSm70oBlDYL4APGeF2htxEBw7VjfiBkDrCujuQwj8LapJGonB3aaHZIy5kUPjFSM7WJl1s6rScfttibSXRUjbr5ySgPOkAk6SMh0Uyk9YvHPw2Dswn3yPeLADwr1Lq/65y/3/fmkAYJOQ1aQV6hm7Xg9cpY32toKbAdWYXikS/Tx4g0Sr6Ocei4DhzyQzhg==;unC/KSTsY4+Xd0tRh0j1YA=="
 ---
