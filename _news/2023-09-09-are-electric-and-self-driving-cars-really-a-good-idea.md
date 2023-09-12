@@ -52,6 +52,15 @@ related:
       name: FOX 7 Austin KTBC
       domain: fox7austin.com
     quality: 24
+  - title: "Here's what needs to happen to achieve safe self-driving cars"
+    excerpt: "Tesla has since released a few versions of advanced driver assist software, Autopilot and Full Self-Driving. But Tesla's FSD is a bit of a misnomer; cars using FSD do not truly drive themselves. The driver has to be ready to take over if necessary ..."
+    publishedDateTime: 2023-09-11T15:47:00Z
+    webUrl: "https://www.thestreet.com/electric-vehicles/heres-what-needs-to-happen-to-achieve-safe-self-driving-cars"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 4
 
 secured: "dOW+v4nY6K+PhVuCA9VHcBVJKsPXuE+rOOVFatr0VGe0Kbznkz0JNsdUl783kz9QTM2TK/OUbiRg0NJCPZ97/u1kRD0Rxg1f0ut+ovku/tiOYUCUw+s6nkRzLKQVIDsbg6Rkb0e3/rUGPNo9aOL+r1bkL5p06HjqBCU5fWHKg9hShOISbEGEKMMO7ylOut8v9Kqlf6BT4IXmo6FK8iQBSqH4Kp9U0IOvVZVxKCDXlnUQJRyWopRej1vLhifNo5NP5kLGguo9sobgJ0pr6fUhOAeGAA7WoreP1lN6B6t2NQzsALZOdvMXIZlni7jFa2XaCOYEzX69wS2M8YK39v1MKVUdztezce/UJmeq7YMCT28=;XSXqTYl808TIqJRvPILe+Q=="
 ---

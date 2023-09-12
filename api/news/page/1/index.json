@@ -2,6 +2,185 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-12-15-projects-using-ai-to-reach-the-uns-global-goals.md",
+      "title": "15 projects using AI to reach the UN’s Global Goals",
+      "excerpt": "Google.org is funding 15 projects that will use AI to make progress on the UN’s Sustainable Development Goals.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/google-org/httpsbloggoogleoutreach-initiativesgoogle-orgunited-nations-global-goals-google-ai-/",
+      "originalUrl": "https://blog.google/outreach-initiatives/google-org/httpsbloggoogleoutreach-initiativesgoogle-orgunited-nations-global-goals-google-ai-/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HeroGrid_2096x1182_01.width-1300.png",
+          "width": 1300,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/google-org/httpsbloggoogleoutreach-initiativesgoogle-orgunited-nations-global-goals-google-ai-/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-org/httpsbloggoogleoutreach-initiativesgoogle-orgunited-nations-global-goals-google-ai-/amp/",
+      "publishedDateTime": "2023-09-12T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-facing-supply-glut-for-chips-apple-supplier-iqe-targets-asian-and-ai-markets.md",
+      "title": "Facing supply glut for chips, Apple-supplier IQE targets Asian and AI markets",
+      "excerpt": "IQE offers GaN Power electronics which aims to serve power hungry AI infrastructure as the likes of generative AI ChatGPT consumes a lot more energy.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/facing-supply-glut-for-chips-apple-supplier-iqe-targets-asian-and-ai-markets/articleshow/103604444.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/facing-supply-glut-for-chips-apple-supplier-iqe-targets-asian-and-ai-markets/articleshow/103604444.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-78466,msid-103604505/chips-istock.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/facing-supply-glut-for-chips-apple-supplier-iqe-targets-asian-and-ai-markets/amp_articleshow/103604444.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/facing-supply-glut-for-chips-apple-supplier-iqe-targets-asian-and-ai-markets/amp_articleshow/103604444.cms",
+      "publishedDateTime": "2023-09-12T02:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-uk-government-tests-frictionless-trade-models-with-ecosystem-of-trust-pilots.md",
+      "title": "UK Government tests frictionless trade models with Ecosystem of Trust pilots",
+      "excerpt": "Novel, digital, risk-based methods for border control can provide higher quality data and could decrease decision-making.\nThe post UK Government tests frictionless trade models with Ecosystem of Trust pilots appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/uk-government-tests-frictionless-trade-models-with-ecosystem-of-trust-pilots/",
+      "originalUrl": "https://www.ibm.com/blog/uk-government-tests-frictionless-trade-models-with-ecosystem-of-trust-pilots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-12T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-california-firefighters-use-ai-to-battle-wildfires.md",
+      "title": "California firefighters use AI to battle wildfires",
+      "excerpt": "Neal Driscoll says the AI system for spotting wildfires is already offering a jump on about 40 percent of fires, and he expects it to get more effective. Over the last few years, its application has spread to include areas as diverse as weather forecasting, stock-picking, art and journalism.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-09-california-firefighters-ai-wildfires.html",
+      "originalUrl": "https://phys.org/news/2023-09-california-firefighters-ai-wildfires.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/computers-are-learning.jpg",
+          "width": 1280,
+          "height": 852,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-09-california-firefighters-ai-wildfires.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-california-firefighters-ai-wildfires.amp",
+      "publishedDateTime": "2023-09-12T01:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-12-machine-social-network-to-update-air-force-ai-robots-on-the-fly.md",
       "title": "Machine ‘Social Network’ To Update Air Force AI Robots On The Fly",
       "excerpt": "No machine-learning system can be trained on every possible situation, and when it encounters something new it may not be able to deal with it. Dolev says this could be something as simple as an object recognition system seeing snow for the first time and ...",
@@ -10,7 +189,7 @@
       "originalUrl": "https://www.forbes.com/sites/davidhambling/2023/09/12/machine-social-network-to-update-air-force-ai-robots-on-the-fly/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -50,7 +229,8 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -167,7 +347,7 @@
       "originalUrl": "https://www.entrepreneur.com/business-news/irs-uses-ai-to-fight-tax-evasion-millionaires-dodging-taxes/458884",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -218,7 +398,7 @@
       "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/09/11/ibm-takes-the-reins-of-enterprise-ai-with-watsonx/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -468,7 +648,7 @@
       "originalUrl": "https://www.cnbc.com/2023/09/11/first-waymo-trip-comfortably-dull-easy-to-see-becoming-normal.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -645,6 +825,57 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-ai-app-characterai-is-catching-up-to-chatgpt-in-the-us.md",
+      "title": "AI app Character.ai is catching up to ChatGPT in the U.S.",
+      "excerpt": "That’s notable growth following Character.ai’s May 2023 launch, when the startup shared it had topped 1.7 million installs in its first week. Of course, installs don’t equate to users, much less active ones. In fact, the average mobile app has a 30 ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/09/11/ai-app-character-ai-is-catching-up-to-chatgpt-in-the-u-s/",
+      "originalUrl": "https://techcrunch.com/2023/09/11/ai-app-character-ai-is-catching-up-to-chatgpt-in-the-u-s/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 297,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/05/characterai-Mobile-App.png?w=1011",
+          "width": 1011,
+          "height": 497,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/09/11/ai-app-character-ai-is-catching-up-to-chatgpt-in-the-u-s/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/11/ai-app-character-ai-is-catching-up-to-chatgpt-in-the-u-s/amp/",
+      "publishedDateTime": "2023-09-11T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -897,7 +1128,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/09/us-rejects-ai-copyright-for-famous-state-fair-winning-midjourney-art/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -981,238 +1212,6 @@
       "topics": [
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-reports-vinfast-strikes-ai-deal-with-nvidia-to-build-3-new-crossovers-in-us.md",
-      "title": "Reports: VinFast strikes AI deal with Nvidia, to build 3 new crossovers in US",
-      "excerpt": "Vietnam-based manufacturer VinFast is going to work with global chip giant Nvidia and will build three new crossovers at its electrical vehicle manufacturing plant being built in Chatham County.",
-      "sourceUrl": null,
-      "webUrl": "https://wraltechwire.com/2023/09/11/reports-vinfast-strikes-ai-deal-with-nvidia-to-build-3-new-crossovers-in-us/",
-      "originalUrl": "https://wraltechwire.com/2023/09/11/reports-vinfast-strikes-ai-deal-with-nvidia-to-build-3-new-crossovers-in-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wraltechwire.com/wp-content/uploads/2023/06/vf8-vinfast-61623-e1686925838782.jpg",
-          "width": 1194,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wraltechwire.com/2023/09/11/reports-vinfast-strikes-ai-deal-with-nvidia-to-build-3-new-crossovers-in-us/?amp=1",
-      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/09/11/reports-vinfast-strikes-ai-deal-with-nvidia-to-build-3-new-crossovers-in-us/?amp=1",
-      "publishedDateTime": "2023-09-11T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-back-to-school-with-ai.md",
-      "title": "Back To School With AI",
-      "excerpt": "Exploration and adoption of artificial intelligence should be intentional not incidental. Mindful, not mindless.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/09/11/back-to-school-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/09/11/back-to-school-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64ff285cce8677245973b63c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/09/11/back-to-school-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/09/11/back-to-school-with-ai/amp/",
-      "publishedDateTime": "2023-09-11T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-enterprise-dpu-advances-are-spurred-by-ai-security-networking-apps.md",
-      "title": "Enterprise DPU advances are spurred by AI, security, networking apps",
-      "excerpt": "Nvidia is capitalizing in a monster way on AI and its use of its GPU technology, largely in hyperscaler networks at this point. The company’s second-quarter revenue came in at $13.51 billion, a 101% jump year-over-year that it credited largely to AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3706089/enterprise-dpu-advances-are-spurred-by-ai-security-networking-apps.html",
-      "originalUrl": "https://www.networkworld.com/article/3706089/enterprise-dpu-advances-are-spurred-by-ai-security-networking-apps.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/08/server_virtualization_virtual_data_center_storage_by_henrik5000_gettyimages-175015817_1200x800-100768153-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3706089/enterprise-dpu-advances-are-spurred-by-ai-security-networking-apps.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3706089/enterprise-dpu-advances-are-spurred-by-ai-security-networking-apps.amp.html",
-      "publishedDateTime": "2023-09-11T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-ai-exploits-our-social-media-habits-to-supercharge-scam-attacks.md",
-      "title": "AI Exploits Our Social Media Habits To Supercharge Scam Attacks",
-      "excerpt": "Even new technologies aren't safe from AI-based attacks. Over the past three years, banks worldwide have introduced biometrics to enhance security. The two most common attributes were face profiles and voice samples.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/ai-exploits-our-social-media-habits-to-supercharge-scam-attacks/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/ai-exploits-our-social-media-habits-to-supercharge-scam-attacks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62630f412ad721ef13d25f23/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/ai-exploits-our-social-media-habits-to-supercharge-scam-attacks/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/11/ai-exploits-our-social-media-habits-to-supercharge-scam-attacks/amp/",
-      "publishedDateTime": "2023-09-11T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-managing-your-cloud-ecosystems-keeping-your-setup-consistent.md",
-      "title": "Managing your cloud ecosystems: Keeping your setup consistent",
-      "excerpt": "Keeping components consistent across IBM Cloud Kubernetes Service clusters and environments.\nThe post Managing your cloud ecosystems: Keeping your setup consistent appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/managing-your-cloud-ecosystems-keeping-your-setup-consistent/",
-      "originalUrl": "https://www.ibm.com/blog/managing-your-cloud-ecosystems-keeping-your-setup-consistent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-11T05:44:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

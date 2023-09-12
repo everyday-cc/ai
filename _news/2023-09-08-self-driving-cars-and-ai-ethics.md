@@ -26,73 +26,125 @@ images:
     isCached: true
 
 related:
-  - title: "Harnessing AI and data analytics can make clean energy more viable"
-    excerpt: "Based on 14 years of development and input from electric utility experts, IBM has created the Clean Electrification Maturity Model.\nThe post Harnessing AI and data analytics can make clean energy more viable appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-09-07T16:11:30Z
-    webUrl: "https://www.ibm.com/blog/harnessing-ai-and-data-analytics-can-make-clean-energy-more-viable/"
+  - title: "Politics and AI: Google to require artificial intelligence disclosures on ads"
+    excerpt: "Google is the first tech company to require an AI disclosure, Politico reported. The Federal Election Commission has yet to regulate if and when AI can be used in campaigns, but in August it agreed to seek public comment on whether to make updates to its policies to include AI advertisements."
+    publishedDateTime: 2023-09-07T23:41:00Z
+    webUrl: "https://www.kiro7.com/news/trending/politics-ai-google-require-artificial-intelligence-disclosures-ads/D33TEJ2I5NE4NNAWQMRQKJAMAA/"
+    ampWebUrl: "https://www.kiro7.com/news/trending/politics-ai-google-require-artificial-intelligence-disclosures-ads/D33TEJ2I5NE4NNAWQMRQKJAMAA/?outputType=amp"
+    cdnAmpWebUrl: "https://www-kiro7-com.cdn.ampproject.org/c/s/www.kiro7.com/news/trending/politics-ai-google-require-artificial-intelligence-disclosures-ads/D33TEJ2I5NE4NNAWQMRQKJAMAA/?outputType=amp"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
-  - title: "The Transformative Power Of AI, Automation, And Big Data Analytics In Civilian And Defense Agencies"
-    excerpt: "AI, Automation, and Big Data Analytics and IT Modernization have had a big impact in Civilian and Defense Agencies"
-    publishedDateTime: 2023-09-08T21:01:00Z
-    webUrl: "https://www.forbes.com/sites/cognitiveworld/2023/09/08/the-transformative-power-of-ai-automation-and-big-data-analytics-in-civilian-and-defense-agencies/"
-    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2023/09/08/the-transformative-power-of-ai-automation-and-big-data-analytics-in-civilian-and-defense-agencies/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2023/09/08/the-transformative-power-of-ai-automation-and-big-data-analytics-in-civilian-and-defense-agencies/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 75
+      name: KIRO-TV
+      domain: kiro7.com
+    quality: 69
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64fb8add02f97585562b0c5e/0x0.jpg?format=jpg&crop=2314,1542,x566,y607,safe&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/7InCH-vu-cPef2OtufK0V-lZnNQ=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/74ROHO3S3JDAVCBSNLZYGZ5DME.jpg"
+        width: 1440
+        height: 810
         isCached: true
-  - title: "Tekenable invests €1.4m to establish data analytics & AI practice"
-    excerpt: "Irish digital services company Tekenable has announced plans to invest €1.4 million in a new data analytics and AI practice. The move is expected to create 20 jobs in cloud engineering, AI engineering,"
-    publishedDateTime: 2023-09-11T14:15:00Z
-    webUrl: "https://www.techcentral.ie/tekenables-e1-4-million-investment-to-establish-a-data-analytics-ai-practice/"
+  - title: "Google to Require Political Ads to Disclose If They Are AI-Generated"
+    excerpt: "The company rolls out the policy as some US political groups have sponsored AI-generated ads for the upcoming election season."
+    publishedDateTime: 2023-09-07T17:03:00Z
+    webUrl: "https://www.pcmag.com/news/google-to-require-political-ads-to-disclose-if-they-are-ai-generated"
     type: article
     provider:
-      name: Mozilla
-      domain: techcentral.ie
-    quality: 39
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
     images:
-      - url: "https://www.techcentral.ie/wp-content/uploads/2023/09/pl-rPeter-Rose-Group-CTO-and-Nick-Connors-Group-CEO-TEKenable-1.jpg"
-        width: 525
-        height: 350
+      - url: "https://i.pcmag.com/imagery/articles/03WwWLDQGzRHmNCIO7S4lYY-1.fit_lim.size_1200x630.v1694099631.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "External Lighting for Video Analytics"
-    excerpt: "As camera resolution has improved, integrators have begun to take advantage of a wide gambit of AI applications, from basic people counting for business intelligence to deep learning-based people and object recognition functionalities. As AI-empowered ..."
-    publishedDateTime: 2023-09-07T15:11:00Z
-    webUrl: "https://www.securityinfowatch.com/video-surveillance/infrared-illuminators/article/53069703/external-lighting-for-video-analytics"
+  - title: "Amazon Now Requires Authors to Disclose AI-Generated Content"
+    excerpt: "After complaints from the Authors Guild and others, Amazon is now requiring writers to disclose the use of AI, though it's not yet publicly identifying those books in its marketplace."
+    publishedDateTime: 2023-09-09T17:29:00Z
+    webUrl: "https://www.pcmag.com/news/amazon-starts-requiring-writers-to-disclose-ai-generated-content"
     type: article
     provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 24
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
     images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/08/16x9/IR_LIghting_Image.64dfaa4d56d8a.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
+      - url: "https://i.pcmag.com/imagery/articles/05fDpqPt4Tw50fbQCuGXvAr-1.fit_lim.size_1200x630.v1694278993.jpg"
+        width: 1120
         height: 630
         isCached: true
-  - title: "Officeworks' data and analytics investments pay off"
-    excerpt: "Officeworks’ customer data and analytics platform uses a machine learning model built in Amazon SageMaker, which is fed customers’ purchase history, product preferences, and product characteristics; these features are tracked and collected across the ..."
-    publishedDateTime: 2023-09-11T20:54:00Z
-    webUrl: "https://www.itnews.com.au/news/officeworks-data-and-analytics-investments-pay-off-600039"
+  - title: "AI used to alter imagery or sounds in political ads will require prominent disclosure on Google"
+    excerpt: "(AP) - Google will soon require that political ads using artificial intelligence be accompanied by a prominent disclosure if imagery or sounds have been synthetically altered."
+    publishedDateTime: 2023-09-07T18:42:00Z
+    webUrl: "https://www.nbc11news.com/2023/09/07/ai-used-alter-imagery-or-sounds-political-ads-will-require-prominent-disclosure-google/"
+    ampWebUrl: "https://www.nbc11news.com/2023/09/07/ai-used-alter-imagery-or-sounds-political-ads-will-require-prominent-disclosure-google/?outputType=amp"
+    cdnAmpWebUrl: "https://www-nbc11news-com.cdn.ampproject.org/c/s/www.nbc11news.com/2023/09/07/ai-used-alter-imagery-or-sounds-political-ads-will-require-prominent-disclosure-google/?outputType=amp"
     type: article
     provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 24
+      name: KKCO
+      domain: nbc11news.com
+    quality: 47
     images:
-      - url: "https://i.nextmedia.com.au/News/Office_work_TWO.jpg"
-        width: 1400
-        height: 900
+      - url: "https://gray-kkco-prod.cdn.arcpublishing.com/resizer/rzzSW2P3kdbmYsKW-ZnJwtFSrww=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/7VV4MOJ4QZBBJGCIIXCM52PV2M.jpg"
+        width: 800
+        height: 450
         isCached: true
+  - title: "Google to require political ads to reveal if they're AI-generated"
+    excerpt: "AI-generated political ads that appear on a Google platform must disclose to users if they contain 'synthetic' content."
+    publishedDateTime: 2023-09-07T18:22:00Z
+    webUrl: "https://www.zdnet.com/article/google-to-require-political-ads-to-reveal-if-theyre-ai-generated/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
+  - title: "AI that alters voice and imagery in political ads will require disclosure on Google and YouTube"
+    excerpt: "Political ads using artificial intelligence on Google and YouTube must soon be accompanied by a prominent disclosure if imagery or sounds have been synthetically altered"
+    publishedDateTime: 2023-09-07T17:10:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ai-alter-imagery-sounds-political-ads-require-prominent-102992666"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ai-alter-imagery-sounds-political-ads-require-prominent-102992666"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ai-alter-imagery-sounds-political-ads-require-prominent-102992666"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 45
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "Today in AI: Meta is developing a new AI system, Google rolls out AI-generated search enhancement outside US, and more"
+    excerpt: "On August 31, the company expanded its search feature powered by SGE (Smart Global Engine) to two other regions, namely India and Japan. These two countries are noteworthy for being the first to have access to the new AI extension outside of the US. More here."
+    publishedDateTime: 2023-09-11T04:40:00Z
+    webUrl: "https://www.moneycontrol.com/news/trends/today-in-ai-meta-is-developing-a-new-ai-system-google-rolls-out-ai-generated-search-enhancement-outside-us-and-more-11345781.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/trends/today-in-ai-meta-is-developing-a-new-ai-system-google-rolls-out-ai-generated-search-enhancement-outside-us-and-more-11345781.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/today-in-ai-meta-is-developing-a-new-ai-system-google-rolls-out-ai-generated-search-enhancement-outside-us-and-more-11345781.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 35
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/05/Today-in-AI-cover-image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "How Google Cloud is helping Culture Amp and others be AI-assisted"
+    excerpt: "It is providing the infrastructure and solutions that make it easier for organisations to build and use generative AI at scale."
+    publishedDateTime: 2023-09-08T02:00:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/focus/how-google-cloud-helping-culture-amp-and-others-be-ai-assisted"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 19
+  - title: "Amazon to require some authors to disclose the use of AI material"
+    excerpt: "NEW YORK -- After months of complaints from the Authors Guild and other groups, Amazon .com has started requiring writers who want to sell books through its e-book program to tell the company in advance that their work includes artificial intelligence material."
+    publishedDateTime: 2023-09-08T18:09:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/amazon-require-authors-disclose-ai-material-103042285"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 17
 
 secured: "y+8y1wcPdSJTKHjqTWDuHcXXjcUgy/kR6F13gseN9Kr8eEijuRY/bBQllShxvmKWNvyzZDKmzmW50+ZBcFmUoU8z7+vuKvxQ13wkyYkfZtJOE+/bE0PrmYv6t4obxwfSAagRHLNMe+UCtZfmDn7koHGqnl6lIhmr8GTNRQdZT3BrGYUnWQnfqcQqgcJzjM6ET5VotIOC+Y+2FfGgus7nRiWzL12DdLNEAX5od4qmCp4SeW63yd0BcH6E0SJaSG07+CyjYQ7oOlKTTeAJkr9Mhrw9WlIhQ5lD6LbS5+S82u0eP/aZibHrL7un/fQEzrUksztmy4akBtivLLCKFkdSJpoON5COkOSBxlkVyY+9oiP1MaenfiD5Qp9jcAJ1lYKXEpFL25yc12WlIJLse4gWWvkaevT6ZNIrVzJSKzjq0MXBmi39d1yiDYPljdS5Wlq533sRoJa6I7AmVbXr6DNWhUBCADB/VFNMdoAArulBWW4WJOse5zWekYcOmvZGqU6nWyUIO98bfPsHlFt25o0BOw==;2aWhvu5DO3Rs1va/LAsmOA=="
 ---

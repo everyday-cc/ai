@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI is great at coding, but there are some massive caveats"
-    excerpt: "Creating and testing code at the touch of a button through generative artificial intelligence (AI) models, such as GitHub CoPilot or ChatGPT, almost seems too good to be true. So good, in fact, that there has to be a catch."
-    publishedDateTime: 2023-09-07T16:10:00Z
-    webUrl: "https://www.zdnet.com/article/ai-is-great-at-coding-but-there-are-some-massive-caveats/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-is-great-at-coding-but-there-are-some-massive-caveats/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-is-great-at-coding-but-there-are-some-massive-caveats/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/66f422e98f107a6ec4cc4ae71fdc9c011b9170da/2023/09/07/837973ac-6fdc-438c-bd08-86bf4aafff69/gettyimages-1243560129.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The Amazing Ways Coca-Cola Uses Generative AI In Art And Advertising"
     excerpt: "Discover how Coca-Cola is revolutionizing the worlds of art and advertising with generative AI, blending human creativity with machine intelligence for stunning campaigns"
     publishedDateTime: 2023-09-08T05:20:00Z

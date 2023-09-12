@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2023/09/11/ai-app-character-ai-is-catching-up
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/11/ai-app-character-ai-is-catching-up-to-chatgpt-in-the-u-s/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 297
+published: true
 
 provider:
   name: TechCrunch
@@ -30,37 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
-    excerpt: "“AI presents a whole set of opportunities ... ChatGPT is generally available through the Azure OpenAI Service, Microsoft’s fully managed, corporate-focused offering. Customers, who must already be “Microsoft managed customers and partners ..."
-    publishedDateTime: 2023-09-07T15:18:00Z
-    webUrl: "https://techcrunch.com/2023/09/07/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
-    ampWebUrl: "https://techcrunch.com/2023/09/07/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/07/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
+  - title: "In U.S.-China AI contest, the race is on to deploy killer robots"
+    excerpt: "Washington and Beijing are in a contest to develop AI-controlled weapons that will operate autonomously. The outcome could decide the global balance of power."
+    publishedDateTime: 2023-09-08T11:00:00Z
+    webUrl: "https://www.reuters.com/investigates/special-report/us-china-tech-drones/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
+      name: Reuters
+      domain: reuters.com
+    quality: 84
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
+      - url: "https://www.reuters.com/investigates/special-report/assets/us-china-tech-drones/mastheads/share_drones.jpg?v=314607080923"
         width: 1200
-        height: 798
-        isCached: true
-  - title: "Partner, helper, or boss? ChatGPT was asked to design a robot and this happened"
-    excerpt: "\"We wanted ChatGPT to design not just a robot, but one that is actually useful,\" said Della Santina in a paper published in Nature Machine Intelligence. And so began a series of question-and-answer sessions between the researchers and the bot to try and ..."
-    publishedDateTime: 2023-09-07T17:00:00Z
-    webUrl: "https://www.zdnet.com/article/partner-helper-or-boss-chatgpt-was-asked-to-design-a-robot-and-this-happened/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/partner-helper-or-boss-chatgpt-was-asked-to-design-a-robot-and-this-happened/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/partner-helper-or-boss-chatgpt-was-asked-to-design-a-robot-and-this-happened/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/bb51fdea340543e6ccc2f59f72451a1b5110bb00/2023/08/23/a66f09f2-06c9-4df1-9b47-e94d31a55d16/testing-tomato-robot.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+        height: 628
         isCached: true
   - title: "Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water"
     excerpt: "Tech developers have acknowledged that growing demand for their AI tools carries hefty costs, from expensive semiconductors to an increase in water consumption."
@@ -77,6 +59,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/107298466-1694444089106-AP23248706930894.jpg?v=1694444318"
         width: 5959
         height: 3973
+        isCached: true
+  - title: "In U.S.-China AI contest, the race is on to deploy killer robots"
+    excerpt: "The Australian Navy is investing in two different submarine technologies to counter the rising power of China. One approach involves building expensive nuclear-powered submarines, while the other focuses on developing cheap and fast unmanned submarines powered by artificial intelligence (AI),"
+    publishedDateTime: 2023-09-09T03:41:00Z
+    webUrl: "https://economictimes.indiatimes.com/news/defence/in-u-s-china-ai-contest-the-race-is-on-to-deploy-killer-robots/articleshow/103524729.cms"
+    ampWebUrl: "https://m.economictimes.com/news/defence/in-u-s-china-ai-contest-the-race-is-on-to-deploy-killer-robots/amp_articleshow/103524729.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/defence/in-u-s-china-ai-contest-the-race-is-on-to-deploy-killer-robots/amp_articleshow/103524729.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-171898,msid-103524768/to-match-special-report-us-china-tech/drones.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "Senators Want ChatGPT-Level AI to Require a Government License"
     excerpt: "A new US government body would force companies to seek a license before working on powerful AI models like OpenAI's GPT-4, under a bipartisan proposal by senators Richard Blumenthal and Josh Hawley."
@@ -170,28 +168,21 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "AI Chatbots Are Invading Your Local Government—and Making Everyone Nervous"
-    excerpt: "State and local governments in the US are scrambling to harness tools like ChatGPT to unburden their bureaucracies, rushing to write their own rules—and avoid generative AI's many pitfalls."
-    publishedDateTime: 2023-09-11T11:00:00Z
-    webUrl: "https://www.wired.com/story/local-governments-generative-ai/"
+  - title: "A boy saw 17 doctors over 3 years for chronic pain. ChatGPT found the right diagnosis"
+    excerpt: "Alex experienced pain that stopped him from playing with other children but doctors had no answers to why. His frustrated mom asked ChatGPT for help."
+    publishedDateTime: 2023-09-11T14:42:00Z
+    webUrl: "https://www.today.com/health/mom-chatgpt-diagnosis-pain-rcna101843"
+    ampWebUrl: "https://www.today.com/today/amp/rcna101843"
+    cdnAmpWebUrl: "https://www-today-com.cdn.ampproject.org/c/s/www.today.com/today/amp/rcna101843"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 45
-  - title: "9 useful AI tools in addition to Midjorney and ChatGPT"
-    excerpt: "Watch this video on YouTube. Perplexity AI combines a large language model with natural language processing (NLP) search capabilities, providing a personalized browsing experience. It offers a number of AI features, including personalized language models ..."
-    publishedDateTime: 2023-09-08T10:56:00Z
-    webUrl: "https://www.geeky-gadgets.com/ai-tools-you-should-be-using/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
+      name: Today
+      domain: today.com
+    quality: 52
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/9-AI-tools-you-should-be-using-in-addition-to-Midjorney-and-ChatGPT.jpg"
-        width: 700
-        height: 466
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-08/doctors-ChatGPT-2x1-zz-230825-43e31c.jpg"
+        width: 2400
+        height: 1200
         isCached: true
   - title: "Forget ChatGPT—Law Firms Are Launching Their Own Gen AI Chatbots"
     excerpt: "Tracking Key Shifts in the Legal Ecosystem Each week, the Law.com Barometer newsletter, powered by the ALM Global"
@@ -314,34 +305,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Meta Platforms reportedly building open-source generative AI system to rival OpenAI’s ChatGPT"
-    excerpt: "Facebook and Instagram parent Meta Platforms Inc. is looking to rival OpenAI LP in the generative artificial intelligence landscape with an alternative, but open-source model that’s likely to be as powerful as GPT-4."
-    publishedDateTime: 2023-09-11T00:20:00Z
-    webUrl: "https://siliconangle.com/2023/09/10/meta-platforms-reportedly-building-open-source-generative-ai-system-rival-openais-chatgpt/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 28
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/41118893354_edd6aac12d_k-AnthonyQuintano-Flickr-768x525.jpg"
-        width: 768
-        height: 525
-        isCached: true
-  - title: "Popping the chatbot hype balloon"
-    excerpt: "Understanding how chatbots work and the human labor and data involved can better help evaluate the validity of concerns about them—which although innovative, are hardly the stuff of science fiction."
-    publishedDateTime: 2023-09-11T17:01:00Z
-    webUrl: "https://thebulletin.org/premium/2023-09/popping-the-chatbot-hype-balloon/"
-    type: article
-    provider:
-      name: Bulletin of the Atomic Scientists
-      domain: thebulletin.org
-    quality: 26
-    images:
-      - url: "https://thebulletin.org/wp-content/uploads/2023/09/Pop-balloon-landscape.png"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "AI tech behind ChatGPT was built in Iowa -- with lots of water"
     excerpt: "The cost of building an artificial intelligence product such as ChatGPT can be hard to measure. But one thing Microsoft-backed OpenAI needed for its technology was plenty of water, pulled from the watershed of the Raccoon and Des Moines rivers in central Iowa to cool a powerful supercomputer as it helped teach its AI systems how to mimic human"
     publishedDateTime: 2023-09-11T05:00:00Z
@@ -360,15 +323,6 @@ related:
       name: Oregonian
       domain: oregonlive.com
     quality: 13
-  - title: "What Does It ‘Feel’ Like to Be a Chatbot?"
-    excerpt: "For an AI to run amok, it doesn’t matter one iota whether it feels like anything. All that matters is that it has a goal that is not aligned with humanity’s long-term well-being. Whether or not the AI knows what it is trying to do,"
-    publishedDateTime: 2023-09-08T13:31:00Z
-    webUrl: "https://www.scientificamerican.com/article/what-does-it-feel-like-to-be-a-chatbot/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 4
 
 secured: "I3E+AhMuuAsy2xkhom9KKihakL2zKJK6HqZrtTRLv1dX32tF3G6dLvGBNagUHaepibMhD3Mq3InPiN/X/re+b1AAVvLZA7c3AE1uq6MCWeDYzhF7RT1GmmvXj3s3kjv5IcY5LqIXny8FtF9YwNZElX2nQBAqPWQmXu86KNgSpHfJVGdqVcHrlCd2GWlGZpir94RqpvHwaRRLp34UvzuCSZPzd0R0/YmK78agFx4UQuKtN/TTOT7Z4yV7L67Nf3Tw0CmxImV90b1FN8bdrtBbKllAckaeMqg+/pUlTMjKIPEYT2YdXcs9RK0hGMO1RJ32bDWCyepkWxQGp1BdnGydH3qvvWi7iplrinOmx3hOOTU=;MwqYlUXlbbmZigvZ6QLo3w=="
 ---

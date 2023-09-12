@@ -24,22 +24,6 @@ images:
     height: 2048
     isCached: true
 
-related:
-  - title: "New sensors present options for under-display face biometrics on smartphones"
-    excerpt: "New hardware image sensors are starting to emerge as possibilities for integration into smartphones and other electronic devices."
-    publishedDateTime: 2023-09-07T16:54:00Z
-    webUrl: "https://www.biometricupdate.com/202309/new-sensors-present-options-for-under-display-face-biometrics-on-smartphones"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 21
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/08/30104619/selfie-biometrics-scaled.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-
 secured: "xMScX0N0Q1bIW5nZVElPW47k/H3KN1/4kL7GmDeYs7405ODamtnvqF+qpKsr7moEuUnKn/AWu5TxzphSXUGdw3tvqeoYt+tbrU/pC9dbD6CTe5a7MkJ0001KxYjoc/rwtJDamXAfgo2r4+CGQY3Xa7ZoOy9qWbkQ9lceg/tCXdXt0ioT1xZi205uMyztC6a8DbzGpGLL50RZPXFnFDuoOsKiKsbaEgaOZcihLSGFfYR3vKX+GONBMoY74bzss4wuN70KvPkcAXq0BJRcuGqFqB7xgzl1+LEiIpfwahZSzfqZikmkuSF0FEaE+kb/Anx4O1ZXRiVdlkXSxI78ZwrTzcKcO00MUFZ3iNmNUVH9+Zxp4m7UbxZTFwR97OP1bKJzXOKGi2lzW19Fji/S2guS2UH8A21z91GXrna8HQ3SyI6bHNxdipdQmnJo95xbGvvrI0BRsY+4DUBf6rdCLFXK49M3Ah/UuluwnbZXA8ZtESNVBdRJLLx3FyiMVyG4M5vl11X5FuabXGNeRsNi65zPVg==;mK6Hg24ZDAUI6lJvYSfXbw=="
 ---
 

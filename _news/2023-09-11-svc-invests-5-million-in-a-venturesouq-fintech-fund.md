@@ -19,17 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Fintech Company Alix Secures $5.5 Million To Unlock $84 Trillion In Wealth Transfers"
-    excerpt: "The estate settlement process is costly and time-consuming. Fintech startup Alix provides the world's first seamless wealth transfer platform, harnessing AI and humans."
-    publishedDateTime: 2023-09-07T15:59:00Z
-    webUrl: "https://www.forbes.com/sites/meimeifox/2023/09/07/fintech-company-alix-secures-55-million-to-unlock-84-trillion-in-wealth-transfers/"
-    ampWebUrl: "https://www.forbes.com/sites/meimeifox/2023/09/07/fintech-company-alix-secures-55-million-to-unlock-84-trillion-in-wealth-transfers/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/meimeifox/2023/09/07/fintech-company-alix-secures-55-million-to-unlock-84-trillion-in-wealth-transfers/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Svc Invests $5 Million In A Venturesouq Fintech Fund"
     excerpt: "Maan Eshgi commented:“Fintech continues to be one of the largest, most dynamic and most consequential spheres of innovation in the world. It serves the application of new technologies, including web3, AI, and quantum computing. From a magnitude of impact ..."
     publishedDateTime: 2023-09-11T20:04:00Z
@@ -44,6 +33,24 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "FinTech GenTwo raises $15m Series A led by Point72 Ventures"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-09-11T12:13:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/fintech-gentwo-raises-15m-series-a-led-by-point72-ventures/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 19
+  - title: "BIZCLIK MEDIA LAUNCHES SEPTEMBER EDITIONS OF FINTECH MAGAZINE & INSURTECH DIGITAL"
+    excerpt: "This month's edition features an extensive lead interview with, HSB Canada's Vice President Client Solutions and Innovation, Lasith Lansakara and VP, Head of Information Technology, Michael Scarbeau about the company's journey through almost 150 years of insurance transfomation."
+    publishedDateTime: 2023-09-08T15:27:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/09/08/9877716.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "v6bhh5EIN6+UtQWfG8hG3OL8FKmmy0ZREYfGWsz0yEX1H03r0GBjTgtZ4XOIDceyRE50Hx4dSN+gt3tQpT6tjYA0SY0/LCDiRotlPicQB52BQ2yZs8YYeRHHXJhWk3IIwRgrD9Hohk80HBQ28lqHiQ7XN24Qvt4oqELrXTlN6mWahGxJpibiQlTbtgtwuSsnv5TBM+1ekZlolkQW6Kf9PTdKwn4PXXzHeDXXVAWBVl1lo7qnreDWo0Ww94AJb8OuiKyyp9ypM6MLT6p0/pR2QgIYEOrqNRD3HV7NCqk/WbG5j0/4y4njm6CZHlxZpOVIOBWUuMjjj/jA448qwp6MQroZn+u4fsQlQuFX2UuO2rU=;cElSapwuyPiN8wFni8U3pg=="
 ---

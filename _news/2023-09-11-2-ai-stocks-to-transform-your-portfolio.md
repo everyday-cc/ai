@@ -34,6 +34,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 51
+  - title: "3 Reddit-Approved AI Stocks for Your Buy-List"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips When it comes to identifying the pulse of contemporary stock market trends,"
+    publishedDateTime: 2023-09-12T09:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-reddit-approved-ai-stocks-for-your-buy-list-1032622401"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
   - title: "Three Artificial Intelligence Stocks Under $10"
     excerpt: "After peaking at $9.75 in 2021 the company is now “exploring strategic alternatives”, which is street-speak for trying to find a buyer."
     publishedDateTime: 2023-09-11T13:44:00Z

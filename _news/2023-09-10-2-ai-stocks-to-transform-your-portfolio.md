@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/articles/2-ai-stocks-to-transform-your-port
 webUrl: "https://www.nasdaq.com/articles/2-ai-stocks-to-transform-your-portfolio"
 type: article
 quality: 51
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -20,6 +20,15 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "3 Reddit-Approved AI Stocks for Your Buy-List"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips When it comes to identifying the pulse of contemporary stock market trends,"
+    publishedDateTime: 2023-09-12T09:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-reddit-approved-ai-stocks-for-your-buy-list-1032622401"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
   - title: "2 AI Stocks to Transform Your Portfolio"
     excerpt: "Furthermore, Amazon CEO Andy Jassy said Machine Learning and AI has already driven “a very significant ... while seamlessly layering AI into its software suite and Azure cloud computing platform. Consequently, MSFT is up a respectable 40% year-to ..."
     publishedDateTime: 2023-09-10T23:26:00Z

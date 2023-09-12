@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3706449/ibm-unveils-generative-ai-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706449/ibm-unveils-generative-ai-foundation-models.amp.html"
 type: article
 quality: 89
-heat: 229
+heat: 219
 published: true
 
 provider:
@@ -192,15 +192,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 25
-  - title: "AVIA’s National Generative AI Collaborative Announces New Experts, Enhanced Health System Participation"
-    excerpt: "The Generative AI Strategic Collaborative reveals a slate of 10 clinical, ethics, technology, and regulatory experts for its national consortium"
-    publishedDateTime: 2023-09-07T16:04:00Z
-    webUrl: "https://www.kansascity.com/press-releases/article279063044.html"
-    type: article
-    provider:
-      name: Kansas City Star
-      domain: kansascity.com
-    quality: 3
   - title: "AVIA’s National Generative AI Collaborative Announces New Experts, Enhanced Health System Participation"
     excerpt: "The Generative AI Strategic Collaborative reveals a slate of 10 clinical, ethics, technology, and regulatory experts for its national consortium"
     publishedDateTime: 2023-09-07T17:04:00Z

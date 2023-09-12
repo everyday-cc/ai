@@ -2,6 +2,238 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-11-reports-vinfast-strikes-ai-deal-with-nvidia-to-build-3-new-crossovers-in-us.md",
+      "title": "Reports: VinFast strikes AI deal with Nvidia, to build 3 new crossovers in US",
+      "excerpt": "Vietnam-based manufacturer VinFast is going to work with global chip giant Nvidia and will build three new crossovers at its electrical vehicle manufacturing plant being built in Chatham County.",
+      "sourceUrl": null,
+      "webUrl": "https://wraltechwire.com/2023/09/11/reports-vinfast-strikes-ai-deal-with-nvidia-to-build-3-new-crossovers-in-us/",
+      "originalUrl": "https://wraltechwire.com/2023/09/11/reports-vinfast-strikes-ai-deal-with-nvidia-to-build-3-new-crossovers-in-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wraltechwire.com/wp-content/uploads/2023/06/vf8-vinfast-61623-e1686925838782.jpg",
+          "width": 1194,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wraltechwire.com/2023/09/11/reports-vinfast-strikes-ai-deal-with-nvidia-to-build-3-new-crossovers-in-us/?amp=1",
+      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/09/11/reports-vinfast-strikes-ai-deal-with-nvidia-to-build-3-new-crossovers-in-us/?amp=1",
+      "publishedDateTime": "2023-09-11T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-11-back-to-school-with-ai.md",
+      "title": "Back To School With AI",
+      "excerpt": "Exploration and adoption of artificial intelligence should be intentional not incidental. Mindful, not mindless.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/09/11/back-to-school-with-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/09/11/back-to-school-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ff285cce8677245973b63c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/09/11/back-to-school-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/09/11/back-to-school-with-ai/amp/",
+      "publishedDateTime": "2023-09-11T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-11-enterprise-dpu-advances-are-spurred-by-ai-security-networking-apps.md",
+      "title": "Enterprise DPU advances are spurred by AI, security, networking apps",
+      "excerpt": "Nvidia is capitalizing in a monster way on AI and its use of its GPU technology, largely in hyperscaler networks at this point. The company’s second-quarter revenue came in at $13.51 billion, a 101% jump year-over-year that it credited largely to AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/3706089/enterprise-dpu-advances-are-spurred-by-ai-security-networking-apps.html",
+      "originalUrl": "https://www.networkworld.com/article/3706089/enterprise-dpu-advances-are-spurred-by-ai-security-networking-apps.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/08/server_virtualization_virtual_data_center_storage_by_henrik5000_gettyimages-175015817_1200x800-100768153-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/3706089/enterprise-dpu-advances-are-spurred-by-ai-security-networking-apps.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3706089/enterprise-dpu-advances-are-spurred-by-ai-security-networking-apps.amp.html",
+      "publishedDateTime": "2023-09-11T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-09-11-ai-exploits-our-social-media-habits-to-supercharge-scam-attacks.md",
+      "title": "AI Exploits Our Social Media Habits To Supercharge Scam Attacks",
+      "excerpt": "Even new technologies aren't safe from AI-based attacks. Over the past three years, banks worldwide have introduced biometrics to enhance security. The two most common attributes were face profiles and voice samples.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/ai-exploits-our-social-media-habits-to-supercharge-scam-attacks/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/ai-exploits-our-social-media-habits-to-supercharge-scam-attacks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62630f412ad721ef13d25f23/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/ai-exploits-our-social-media-habits-to-supercharge-scam-attacks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/11/ai-exploits-our-social-media-habits-to-supercharge-scam-attacks/amp/",
+      "publishedDateTime": "2023-09-11T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-09-11-managing-your-cloud-ecosystems-keeping-your-setup-consistent.md",
+      "title": "Managing your cloud ecosystems: Keeping your setup consistent",
+      "excerpt": "Keeping components consistent across IBM Cloud Kubernetes Service clusters and environments.\nThe post Managing your cloud ecosystems: Keeping your setup consistent appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/managing-your-cloud-ecosystems-keeping-your-setup-consistent/",
+      "originalUrl": "https://www.ibm.com/blog/managing-your-cloud-ecosystems-keeping-your-setup-consistent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-11T05:44:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-11-celebrating-40-years-of-db2-running-the-worlds-mission-critical-workloads.md",
       "title": "Celebrating 40 years of Db2: Running the world’s mission critical workloads",
       "excerpt": "IBM Db2 keeps business applications and analytics protected, highly performant, and resilient, anywhere.\nThe post Celebrating 40 years of Db2: Running the world’s mission critical workloads appeared first on IBM Blog.\n",
@@ -352,7 +584,7 @@
       "originalUrl": "https://www.insidermonkey.com/blog/top-5-ai-and-robotics-companies-transforming-the-agriculture-sector-1192684/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -574,50 +806,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-even-ai-hasnt-helped-microsofts-bing-chip-away-at-googles-the-wall-street-journal.md",
-      "title": "Even AI Hasn't Helped Microsoft's Bing Chip Away at Google's … – The Wall Street Journal",
-      "excerpt": "Even AI Hasn't Helped Microsoft's Bing Chip Away at Google's ... The Wall Street Journalsource",
-      "sourceUrl": null,
-      "webUrl": "https://www.inferse.com/712085/even-ai-hasnt-helped-microsofts-bing-chip-away-at-googles-the-wall-street-journal/",
-      "originalUrl": "https://www.inferse.com/712085/even-ai-hasnt-helped-microsofts-bing-chip-away-at-googles-the-wall-street-journal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.inferse.com/wp-content/uploads/2023/09/wp-header-logo-3335.png",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-10T22:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inferse",
-        "domain": "inferse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -1003,187 +1191,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-10-2-ai-stocks-to-transform-your-portfolio.md",
-      "title": "2 AI Stocks to Transform Your Portfolio",
-      "excerpt": "Data from Grand View Research indicates a strong growth trajectory, with AI industry revenue expected to mushroom to $1.181 trillion by 2030, based on a CAGR of 37.3%. Additionally, Accenture's recent findings underscore the potential for enterprise applications,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/2-ai-stocks-to-transform-your-portfolio",
-      "originalUrl": "https://www.nasdaq.com/articles/2-ai-stocks-to-transform-your-portfolio",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-10T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-10-small-business-tech-roundup-intuit-introduces-an-ai-assistant.md",
-      "title": "Small Business Tech Roundup: Intuit Introduces An AI Assistant",
-      "excerpt": "Intuit's AI assistant, Google Workspace now integrates with Slack and Teams, Zoom has a new notes feature and other tech news impacting your business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/quickerbettertech/2023/09/10/small-business-tech-roundup-intuit-introduces-an-ai-assistant/",
-      "originalUrl": "https://www.forbes.com/sites/quickerbettertech/2023/09/10/small-business-tech-roundup-intuit-introduces-an-ai-assistant/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64fb0f4b79156fda1073b636/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/quickerbettertech/2023/09/10/small-business-tech-roundup-intuit-introduces-an-ai-assistant/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2023/09/10/small-business-tech-roundup-intuit-introduces-an-ai-assistant/amp/",
-      "publishedDateTime": "2023-09-10T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-10-unesco-trains-indonesian-teachers-on-ai-ethics.md",
-      "title": "UNESCO trains Indonesian Teachers on AI Ethics",
-      "excerpt": "UNESCO held an Ethics Teachers Training Course (ETTC) focused on AI ethics in Yogyakarta, in collaboration with the University Gadjah Mada.The interactive event brought together 30 participants from v",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/unesco-trains-indonesian-teachers-on-ai-ethics/",
-      "originalUrl": "https://indiaeducationdiary.in/unesco-trains-indonesian-teachers-on-ai-ethics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png",
-          "width": 534,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/unesco-trains-indonesian-teachers-on-ai-ethics/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/unesco-trains-indonesian-teachers-on-ai-ethics/",
-      "publishedDateTime": "2023-09-09T22:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-09-sci-fi-fans-meet-their-heroes-at-wiltshire-reme-museum.md",
-      "title": "Sci-fi fans meet their heroes at Wiltshire REME museum",
-      "excerpt": "Science fiction fans have been meeting their favourite film and TV heroes at a special event. The Sci-Fi Day was hosted at the Royal Electrical And Mechanical Engineers (REME) museum at Lyneham in Wiltshire. Fans marvelled at the \"real-life\" creatures and movie memorabilia from franchises such as Star Wars and Doctor Who.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-england-wiltshire-66763292",
-      "originalUrl": "https://www.bbc.com/news/uk-england-wiltshire-66763292",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/23B8/production/_131044190_reme5.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/uk-england-wiltshire-66763292.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-wiltshire-66763292.amp",
-      "publishedDateTime": "2023-09-09T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

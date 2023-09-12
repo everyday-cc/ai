@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI is great at coding, but there are some massive caveats"
-    excerpt: "Creating and testing code at the touch of a button through generative artificial intelligence (AI) models, such as GitHub CoPilot or ChatGPT, almost seems too good to be true. So good, in fact, that there has to be a catch."
-    publishedDateTime: 2023-09-07T16:10:00Z
-    webUrl: "https://www.zdnet.com/article/ai-is-great-at-coding-but-there-are-some-massive-caveats/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-is-great-at-coding-but-there-are-some-massive-caveats/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-is-great-at-coding-but-there-are-some-massive-caveats/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/66f422e98f107a6ec4cc4ae71fdc9c011b9170da/2023/09/07/837973ac-6fdc-438c-bd08-86bf4aafff69/gettyimages-1243560129.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Three Ways To Prepare For The AI-Enabled Future"
     excerpt: "Technically speaking, AI can and probably will replace many professions. Compared to a human, AI is faster and smarter. AI can complete a task in seconds that would take a human artist weeks. When creating text, AI-generated content may still need editing or proofreading today, but give it time."
     publishedDateTime: 2023-09-08T10:00:00Z

@@ -2,6 +2,193 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2023-07-26-spotify-ceo-teases-potential-upcoming-ai-powered-capabilities-surrounding-personalization-and-ads.md",
+      "title": "Spotify CEO teases potential upcoming AI-powered capabilities surrounding personalization and ads",
+      "excerpt": "Spotify CEO Daniel Ek teased a few ways the streaming service could introduce additional AI-powered functionality.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/07/25/spotify-ceo-teases-potential-upcoming-ai-powered-capabilities-surrounding-personalization-and-ads/",
+      "originalUrl": "https://techcrunch.com/2023/07/25/spotify-ceo-teases-potential-upcoming-ai-powered-capabilities-surrounding-personalization-and-ads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-1013933224.jpg?resize=1200,709",
+          "width": 1200,
+          "height": 709,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/07/25/spotify-ceo-teases-potential-upcoming-ai-powered-capabilities-surrounding-personalization-and-ads/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/25/spotify-ceo-teases-potential-upcoming-ai-powered-capabilities-surrounding-personalization-and-ads/amp/",
+      "publishedDateTime": "2023-07-25T13:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-indian-tech-giant-wipro-to-invest-1b-in-ai.md",
+      "title": "Indian tech giant Wipro to invest $1B in AI",
+      "excerpt": "'Where's the evidence?': Democrat reacts to McCarthy's impeachment threat against Biden",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/business/2023/07/25/exp-ai-investment-wipro-delaporte-live-072503pseg2-cnni-business.cnn",
+      "originalUrl": "https://www.cnn.com/videos/business/2023/07/25/exp-ai-investment-wipro-delaporte-live-072503pseg2-cnni-business.cnn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230725160137-exp-ai-investment-wipro-delaporte-live-072503pseg2-cnni-business-00002001.png?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2023/07/25/exp-ai-investment-wipro-delaporte-live-072503pseg2-cnni-business.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2023/07/25/exp-ai-investment-wipro-delaporte-live-072503pseg2-cnni-business.cnn",
+      "publishedDateTime": "2023-07-25T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-25-debunking-observability-myths-part-1-why-you-cant-skip-monitoring-and-rely-only-on-logs.md",
+      "title": "Debunking observability myths – Part 1: Why you can’t skip monitoring and rely only on logs",
+      "excerpt": "In this blog post, we will shed light on a myth surrounding observability: \"You can skip monitoring and rely on logs.”\nThe post Debunking observability myths &#8211; Part 1: Why you can’t skip monitoring and rely only on logs appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/debunking-observability-myths-part-1-why-you-cant-skip-monitoring-and-rely-only-on-logs/",
+      "originalUrl": "https://www.ibm.com/blog/debunking-observability-myths-part-1-why-you-cant-skip-monitoring-and-rely-only-on-logs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-25T11:33:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-hitpaw-introduces-online-ai-video-translator-breaking-language-barriers-in-video-content.md",
+      "title": "HitPaw Introduces Online AI Video Translator: Breaking Language Barriers in Video Content",
+      "excerpt": "HitPaw's Online AI Video Translator is set to revolutionize the video translation landscape, offering a user-friendly platform to effortlessly translate video content from one language to another.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-journal.com/hitpaw-introduces-online-ai-video-translator-breaking-language-barriers-in-video-content/article_140ca8c3-824e-5d8d-a703-817d7f272344.html",
+      "originalUrl": "https://www.news-journal.com/hitpaw-introduces-online-ai-video-translator-breaking-language-barriers-in-video-content/article_140ca8c3-824e-5d8d-a703-817d7f272344.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/7/16/716a182d-05bf-52e4-b749-3c7403e01ca5/64bffc28c486b.image.jpg?crop=800%2C420%2C0%2C90&resize=800%2C420&order=crop%2Cresize",
+          "width": 800,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-25T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Longview News-Journal",
+        "domain": "news-journal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-26-openai-scuttles-ai-written-text-detector-over-low-rate-of-accuracy.md",
       "title": "OpenAI scuttles AI-written text detector over ‘low rate of accuracy’",
       "excerpt": "Many perhaps unwisely relied on the tool to catch low-effort cheats, but OpenAI has retired it over its widely noted \"low rate of accuracy.\"",
@@ -1025,215 +1212,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-the-generative-ai-battle-has-a-fundamental-flaw.md",
-      "title": "The Generative AI Battle Has a Fundamental Flaw",
-      "excerpt": "As Stephanie Bell, a research fellow at the nonprofit Partnership on AI, notes, setting a precedent where creative works can be treated like uncredited data is “very concerning.” To fully address a problem like this, the regulations AI needs aren't yet ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/artificial-intelligence-copyright-law/",
-      "originalUrl": "https://www.wired.com/story/artificial-intelligence-copyright-law/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/64bf0d2ac859c4a1cdecc4c5/master/pass/Generative-AI-Battle-Flaw-Copyright-Culture-1176669763.jpg",
-          "width": 2400,
-          "height": 1800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/artificial-intelligence-copyright-law/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-copyright-law/amp",
-      "publishedDateTime": "2023-07-25T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-goodbye-to-graphics-how-gpus-came-to-dominate-compute-and-ai.md",
-      "title": "Goodbye to Graphics: How GPUs Came to Dominate Compute and AI",
-      "excerpt": "TechSpot is celebrating its 25th anniversary. TechSpot means tech analysis and advice you can trust. When you buy through our links, we may earn a commission. Learn more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/article/2702-gpu-compute-ai/",
-      "originalUrl": "https://www.techspot.com/article/2702-gpu-compute-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/articles-info/2702/images/2023-07-24-image.jpg",
-          "width": 3213,
-          "height": 1806,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-25T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-how-decentralized-networks-reduce-the-ai-costs.md",
-      "title": "How Decentralized Networks Reduce The AI Costs",
-      "excerpt": "This untapped potential provides a remarkable opportunity for AIGC. As an illustration, an AI startup based in New York could dispatch its training tasks to servers located in the Middle East. By doing so, the aggregated costs, encompassing server expenses ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/digital-assets/2023/07/25/how-decentralized-networks-reduce-the-ai-costs/",
-      "originalUrl": "https://www.forbes.com/sites/digital-assets/2023/07/25/how-decentralized-networks-reduce-the-ai-costs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64bfa27ae60700645ff13678/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2023/07/25/how-decentralized-networks-reduce-the-ai-costs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/07/25/how-decentralized-networks-reduce-the-ai-costs/amp/",
-      "publishedDateTime": "2023-07-25T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-is-this-ai-and-robotics-chip-stock-a-buy-now.md",
-      "title": "Is This AI and Robotics Chip Stock a Buy Now?",
-      "excerpt": "Teradyne sounds like a great little AI and robotics stock for chips and industrial automation alike, but it's not all rosy. Like any manufacturing business, Teradyne can go through some nasty cyclical downturns. That's exactly what is transpiring right now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/25/is-this-ai-and-robotics-chip-stock-a-buy-now/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/25/is-this-ai-and-robotics-chip-stock-a-buy-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/740713/ai-robotics-cloud-software-metaverse.jpg",
-          "width": 3372,
-          "height": 1809,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-25T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

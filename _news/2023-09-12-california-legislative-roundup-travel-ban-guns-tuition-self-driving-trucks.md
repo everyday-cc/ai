@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marinij.com/2023/09/11/california-lawmakers-vote-to-end-
 cdnAmpWebUrl: "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2023/09/11/california-lawmakers-vote-to-end-travel-ban-to-states-with-anti-lgbtq-laws/amp/"
 type: article
 quality: 40
-heat: 40
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "California firefighters use AI to battle wildfires"
+    excerpt: "Neal Driscoll says the AI system for spotting wildfires is already offering a jump on about 40 percent of fires, and he expects it to get more effective. Over the last few years, its application has spread to include areas as diverse as weather forecasting, stock-picking, art and journalism."
+    publishedDateTime: 2023-09-12T08:31:00Z
+    webUrl: "https://phys.org/news/2023-09-california-firefighters-ai-wildfires.html"
+    ampWebUrl: "https://phys.org/news/2023-09-california-firefighters-ai-wildfires.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-california-firefighters-ai-wildfires.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/computers-are-learning.jpg"
+        width: 1280
+        height: 852
+        isCached: true
   - title: "California to set guidelines for public sector generative AI"
     excerpt: "The state, which joins a growing number of governing bodies scrutinizing generative AI, will issue public sector usage guidelines by January."
     publishedDateTime: 2023-09-08T11:44:00Z

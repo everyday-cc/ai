@@ -66,21 +66,19 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "AI used to alter imagery or sounds in political ads will require prominent disclosure on Google"
-    excerpt: "(AP) - Google will soon require that political ads using artificial intelligence be accompanied by a prominent disclosure if imagery or sounds have been synthetically altered."
-    publishedDateTime: 2023-09-07T15:42:00Z
-    webUrl: "https://www.mysuncoast.com/2023/09/07/ai-used-alter-imagery-or-sounds-political-ads-will-require-prominent-disclosure-google/"
-    ampWebUrl: "https://www.mysuncoast.com/2023/09/07/ai-used-alter-imagery-or-sounds-political-ads-will-require-prominent-disclosure-google/?outputType=amp"
-    cdnAmpWebUrl: "https://www-mysuncoast-com.cdn.ampproject.org/c/s/www.mysuncoast.com/2023/09/07/ai-used-alter-imagery-or-sounds-political-ads-will-require-prominent-disclosure-google/?outputType=amp"
+  - title: "Self-Driving Cars and AI Ethics"
+    excerpt: "Peter Singer & Tse Yip Fai consider the implications of autonomous vehicles for passengers, pedestrians, and the planet."
+    publishedDateTime: 2023-09-08T10:38:00Z
+    webUrl: "https://www.project-syndicate.org/commentary/san-francisco-self-driving-cars-ethical-implications-by-peter-singer-and-tse-yip-fai-2023-09"
     type: article
     provider:
-      name: WWSB
-      domain: mysuncoast.com
-    quality: 47
+      name: Project Syndicate
+      domain: project-syndicate.org
+    quality: 56
     images:
-      - url: "https://gray-wwsb-prod.cdn.arcpublishing.com/resizer/0fvrw_eCnvDh0Gck22UJeFUp0bk=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/XLKFL55KTFH4HEAJ2NOMY7XY3I.jpg"
-        width: 800
-        height: 450
+      - url: "https://webapi.project-syndicate.org/library/5871f1e97c2521f4eabc1bc885f6e5c6.2-1-super.1.jpg"
+        width: 1360
+        height: 680
         isCached: true
   - title: "AI used to alter imagery or sounds in political ads will require prominent disclosure on Google"
     excerpt: "(AP) - Google will soon require that political ads using artificial intelligence be accompanied by a prominent disclosure if imagery or sounds have been synthetically altered."

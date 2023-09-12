@@ -2,6 +2,177 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2023-07-29-a-year-ago-deepminds-alphafold-ai-changed-the-shape-of-science-but-there-is-more-work-to-do.md",
+      "title": "A year ago, DeepMind’s AlphaFold AI changed the shape of science — but there is more work to do",
+      "excerpt": "OpenAI’s ChatGPT may have captured the AI zeitgeist last fall, but it was DeepMind’s AlphaFold AI that shook the science world last summer. A year ago, on July 28, 2022, the A",
+      "sourceUrl": null,
+      "webUrl": "https://www.inferse.com/650188/a-year-ago-deepminds-alphafold-ai-changed-the-shape-of-science-but-there-is-more-work-to-do/",
+      "originalUrl": "https://www.inferse.com/650188/a-year-ago-deepminds-alphafold-ai-changed-the-shape-of-science-but-there-is-more-work-to-do/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-6918.png",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-28T18:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inferse",
+        "domain": "inferse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-29-taking-killer-robots-seriously.md",
+      "title": "Taking Killer Robots Seriously",
+      "excerpt": "Now’s as good a time as any to start taking killer robots seriously ... Our guess is that solving the AI and autonomy problems are just a matter of time. While gadflys like Elon Musk and ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2016/06/27/taking-killer-robots-seriously/",
+      "originalUrl": "https://hackaday.com/2016/06/27/taking-killer-robots-seriously/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2016/06/robotkill.jpg",
+          "width": 3519,
+          "height": 2039,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-29-hearing-aids-counselling-may-slow-cognitive-decline-for-some-seniors-new-study-finds.md",
+      "title": "Hearing aids, counselling may slow cognitive decline for some seniors, new study finds",
+      "excerpt": "(Rick Bowmer/The Associated Press) Seniors at risk of dementia who were given hearing aids and counselling had less cognitive decline over a three-year period, a randomized trial finds. Research ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbc.ca/news/health/hearing-aids-cognitive-decline-dementia-1.6909911",
+      "originalUrl": "https://www.cbc.ca/news/health/hearing-aids-cognitive-decline-dementia-1.6909911",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.cbc.ca/1.6622234.1666216761!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/hearing-loss-captions-everywhere.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbc.ca/amp/1.6909911",
+      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6909911",
+      "publishedDateTime": "2023-07-28T16:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBC.ca",
+        "domain": "www.cbc.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-29-walmart-using-ai-to-streamline-organization-what-will-it-mean-for-workers.md",
+      "title": "Walmart using AI to streamline organization – what will it mean for workers?",
+      "excerpt": "Walmart is using artificial intelligence to help streamline their product organization. That raises questions about how workers' jobs could change. NBC News’ Jacob Ward has more details.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/walmart-using-ai-to-streamline-organization-what-will-it-mean-for-workers-189519429834",
+      "originalUrl": "https://www.nbcnews.com/nightly-news/video/walmart-using-ai-to-streamline-organization-what-will-it-mean-for-workers-189519429834",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_07/1690586636299_nn_jwa_walmart_embraces_new_tech_230728_1920x1080-4596y2.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo189519429834",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo189519429834",
+      "publishedDateTime": "2023-07-28T16:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-29-gen-ai-movie-trailer-for-sci-fi-epic-genesis.md",
       "title": "Gen-AI Movie Trailer For Sci Fi Epic “Genesis”",
       "excerpt": "Genesis” trailer images we done in Midjourney and limited animation and camera moves added in Runway. The music is from Stringer_Bell via Pixabay. I messaged Neubert on Twitter and a few hours later we met on Zoom.",
@@ -1016,167 +1187,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-what-is-the-vulnerability-management-lifecycle.md",
-      "title": "What is the vulnerability management lifecycle?",
-      "excerpt": "The vulnerability management lifecycle is a continuous process for discovering, prioritizing and addressing vulnerabilities in a company's IT assets.\nThe post What is the vulnerability management lifecycle? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/vulnerability-management-lifecycle/",
-      "originalUrl": "https://www.ibm.com/blog/vulnerability-management-lifecycle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T06:19:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-how-open-liberty-and-ibm-semeru-runtime-proved-to-be-the-perfect-pillars-for-primeur.md",
-      "title": "How Open Liberty and IBM Semeru Runtime proved to be the perfect pillars for Primeur",
-      "excerpt": "As an independent software vendor (ISV), we at Primeur embed the Open Liberty Java runtime in our flagship data integration platform, DATA ONE.\nThe post How Open Liberty and IBM Semeru Runtime proved to be the perfect pillars for Primeur appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-open-liberty-and-ibm-semeru-runtime-proved-to-be-the-perfect-pillars-for-primeur/",
-      "originalUrl": "https://www.ibm.com/blog/how-open-liberty-and-ibm-semeru-runtime-proved-to-be-the-perfect-pillars-for-primeur/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T06:07:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-the-download-how-ai-could-change-politics-and-lifting-the-lid-on-facebook.md",
-      "title": "The Download: how AI could change politics, and lifting the lid on Facebook",
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/07/28/1076839/the-download-how-ai-could-change-politics-and-lifting-the-lid-on-facebook/",
-      "originalUrl": "https://www.technologyreview.com/2023/07/28/1076839/the-download-how-ai-could-change-politics-and-lifting-the-lid-on-facebook/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-us-lawmakers-urge-biden-administration-to-tighten-ai-chip-export-rules.md",
-      "title": "U.S. lawmakers urge Biden administration to tighten AI chip export rules",
-      "excerpt": "Two U.S. lawmakers who head a committee focused on China on Friday urged the Biden administration to tighten export restrictions on artificial intelligence chips in the wake of industry lobbying to leave the rules unchanged.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/us-lawmakers-urge-biden-administration-tighten-ai-chip-export-rules-2023-07-28/",
-      "originalUrl": "https://www.reuters.com/technology/us-lawmakers-urge-biden-administration-tighten-ai-chip-export-rules-2023-07-28/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-12-15-projects-using-ai-to-reach-the-uns-global-goals.md",
+      "title": "15 projects using AI to reach the UN’s Global Goals",
+      "excerpt": "Google.org is funding 15 projects that will use AI to make progress on the UN’s Sustainable Development Goals.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/google-org/httpsbloggoogleoutreach-initiativesgoogle-orgunited-nations-global-goals-google-ai-/",
+      "originalUrl": "https://blog.google/outreach-initiatives/google-org/httpsbloggoogleoutreach-initiativesgoogle-orgunited-nations-global-goals-google-ai-/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HeroGrid_2096x1182_01.width-1300.png",
+          "width": 1300,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/google-org/httpsbloggoogleoutreach-initiativesgoogle-orgunited-nations-global-goals-google-ai-/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-org/httpsbloggoogleoutreach-initiativesgoogle-orgunited-nations-global-goals-google-ai-/amp/",
+      "publishedDateTime": "2023-09-12T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-07-musk-once-tried-to-stop-googles-deepmind-acquisition-in-2014-saying-the-future-of-ai-shouldnt-be-controlled-by-larry-page.md",
       "title": "Musk once tried to stop Google's DeepMind acquisition in 2014, saying the future of AI shouldn't be controlled by Larry Page",
       "excerpt": "Walter Isaacson, a writer who spent three years trailing Musk, recounted the background of Musk and Page's conversation in his forthcoming biography, 'Elon Musk.'",
@@ -1405,49 +1457,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-genai-is-making-data-science-more-accessible-dataiku-says.md",
-      "title": "GenAI Is Making Data Science More Accessible, Dataiku Says",
-      "excerpt": "Large language models and generative AI are being adopted for all kinds of new and interesting use cases, which we explore daily in these pages. One of",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2023/08/14/genai-is-making-data-science-more-accessible-dataiku-says/",
-      "originalUrl": "https://www.datanami.com/2023/08/14/genai-is-making-data-science-more-accessible-dataiku-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.datanami.com/wp-content/uploads/2023/08/maze_shutterstock_patpitchaya.jpg",
-          "width": 1000,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-14T15:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

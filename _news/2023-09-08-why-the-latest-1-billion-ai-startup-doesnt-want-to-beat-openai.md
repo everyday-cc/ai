@@ -45,15 +45,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Sundar Pichai on Google’s AI, Microsoft’s AI, OpenAI, and … Did We Mention AI?"
-    excerpt: "The tech giant is 25 years old. In a chatbot war. On trial for antitrust. But its CEO says Google is good for 25 more."
-    publishedDateTime: 2023-09-11T10:00:00Z
-    webUrl: "https://www.wired.com/story/sundar-pichai-google-ai-microsoft-openai/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 62
   - title: "Meta is working on new AI model even more powerful than OpenAI's GPT-4, says report"
     excerpt: "Meta is working on a new AI system expected to be more powerful than OpenAI's GPT-4. It could be ready next year."
     publishedDateTime: 2023-09-11T02:28:00Z
@@ -137,6 +128,20 @@ related:
       name: Searchenginejournal.com
       domain: searchenginejournal.com
     quality: 32
+  - title: "Meta Platforms reportedly building open-source generative AI system to rival OpenAI’s ChatGPT"
+    excerpt: "Facebook and Instagram parent Meta Platforms Inc. is looking to rival OpenAI LP in the generative artificial intelligence landscape with an alternative, but open-source model that’s likely to be as powerful as GPT-4."
+    publishedDateTime: 2023-09-11T00:20:00Z
+    webUrl: "https://siliconangle.com/2023/09/10/meta-platforms-reportedly-building-open-source-generative-ai-system-rival-openais-chatgpt/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 28
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/41118893354_edd6aac12d_k-AnthonyQuintano-Flickr-768x525.jpg"
+        width: 768
+        height: 525
+        isCached: true
 
 secured: "Sp0SsWF8iuLsYNLsFThzSiPUVzXLLFWHKKgh3wyGbKXmC2t8dvo2qjmH03VBa8Gj8MeqofbPA6KIdczCdpRQUneCBNYjL+/FMiKJs6hNUq0Sq88cMQV7kSqjeSmSykQ8pwr4R3G0o3nCU99sUveGh949UrU+djRCOHGwz62VsFwYsHZhhsVTsgkWyV39WHaudG2ukC1pPWDo5lwdzKX8aXbbVLkj3UjIi7SXUgWr0ITmWa1oFs2JiK0HB/FZSY7aycy5BBcmqhT5RPmUBU8ZcPNWwtqIKJ/fUKPYi/rPa2xPeJvmqe9eJA/YVUOgYNpX/Xuwm3CtMuQln2q+LFrRZQSa1JvcaW7TlaRiTRmvTiYUcTV5SJE2QQ6plizc3B//LjH0ehnc7XpWQVXLZGz+mU1HpCXRSPzL7Bl4qF5dNat0Vskyrupzg1k9H4d6pBRc816lM6GYaRGldz17HEMtBEhogHBc4M6dLyQltunRMv8SeKG6Q/tPnEXXaX65b7Ve7aCakIcA1ZOk4Be3PWDRtw==;MjO/LQ4zv7ExOSP1ymCWHw=="
 ---

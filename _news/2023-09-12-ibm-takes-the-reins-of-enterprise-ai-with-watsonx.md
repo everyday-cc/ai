@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/09/11/ibm-takes-the-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/09/11/ibm-takes-the-reins-of-enterprise-ai-with-watsonx/amp/"
 type: article
 quality: 106
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://www.techcentral.ie/wp-content/uploads/2022/01/IBM_21.jpg"
         width: 620
         height: 349
-        isCached: true
-  - title: "IBM Announces Advanced Generative AI Models and Upgrades for watsonx Platform"
-    excerpt: "IBM today announced plans for new generative AI foundation models and enhancements coming to watsonx – its AI and data"
-    publishedDateTime: 2023-09-07T16:32:00Z
-    webUrl: "https://www.datanami.com/this-just-in/ibm-announces-advanced-generative-ai-models-and-upgrades-for-watsonx-platform/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 51
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/08/watsonx-300x235.png"
-        width: 300
-        height: 235
         isCached: true
   - title: "IBM Watsonx open source Codeflare explained"
     excerpt: "IBM has recently announced the launch of Watsonx, its latest AI platform offering a unique blend of AI and data platform that is specifically built for businesses. It comes with a set of AI assistants that are designed to help businesses scale and ..."

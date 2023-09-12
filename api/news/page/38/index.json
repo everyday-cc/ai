@@ -2,6 +2,197 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2023-08-15-what-does-generative-ai-mean-for-websites-and-seo.md",
+      "title": "What Does Generative AI Mean For Websites And SEO?",
+      "excerpt": "Exploring the intersection of generative AI and the future of web search, this article delves into how chatbots could revolutionize SEO and reshape online business models",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/08/15/what-does-generative-ai-mean-for-websites-and-seo/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/08/15/what-does-generative-ai-mean-for-websites-and-seo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64db19be0420c96050635ebc/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/08/15/what-does-generative-ai-mean-for-websites-and-seo/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/08/15/what-does-generative-ai-mean-for-websites-and-seo/amp/",
+      "publishedDateTime": "2023-08-14T23:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-15-kneron-takes-aim-at-gpu-shortage-with-its-neural-processing-unit-npu-update.md",
+      "title": "Kneron takes aim at GPU shortage with its neural processing unit (NPU) update",
+      "excerpt": "With GPUs increasingly hard to come by for AI, Kneron announces its KL730 neural processing unit (NLU) featuring enhanced energy efficiency.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/kneron-takes-aim-at-gpu-shortage-with-its-neural-processing-unit-npu-update/",
+      "originalUrl": "https://venturebeat.com/ai/kneron-takes-aim-at-gpu-shortage-with-its-neural-processing-unit-npu-update/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/08/image1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-14T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-15-microsoft-azure-awards-protiviti-specialisation-in-ai.md",
+      "title": "Microsoft Azure awards Protiviti specialisation in AI",
+      "excerpt": "“Protiviti is proud to collaborate with Microsoft to be a leading provider of AI enabled capabilities,” said Christine Livingston, global leader of Protiviti’s AI services. “Together with Microsoft, we look forward to helping organizations utilize AI solutions responsibly to drive impactful transformation in their businesses.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.consultancy.uk/news/35089/microsoft-azure-awards-protiviti-specialisation-in-ai",
+      "originalUrl": "https://www.consultancy.uk/news/35089/microsoft-azure-awards-protiviti-specialisation-in-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.consultancy.uk/illustrations/news/spotlight/2023-08-10-021905627-Microsoft_Azure_awards_Protiviti_specialisation_in_AI_spot.jpg",
+          "width": 546,
+          "height": 312,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.consultancy.uk/news/amp/35089/microsoft-azure-awards-protiviti-specialisation-in-ai",
+      "cdnAmpWebUrl": "https://www-consultancy-uk.cdn.ampproject.org/c/s/www.consultancy.uk/news/amp/35089/microsoft-azure-awards-protiviti-specialisation-in-ai",
+      "publishedDateTime": "2023-08-14T21:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Consultancy",
+        "domain": "consultancy.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-15-earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales.md",
+      "title": "Earnings preview: Can Nvidia amaze markets with its AI chip sales?",
+      "excerpt": "Nvidia is slated to report its second-quarter earnings after the US markets closing bell on 24 August (APAC time)",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmcmarkets.com/en-nz/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales",
+      "originalUrl": "https://www.cmcmarkets.com/en-nz/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.cmcmarkets.com/images/Nvidia_GettyImages-902419310_1200px_medium.jpg",
+          "width": 768,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmcmarkets.com/en-nz/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales_amp",
+      "cdnAmpWebUrl": "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-nz/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales_amp",
+      "publishedDateTime": "2023-08-14T21:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMC Markets",
+        "domain": "cmcmarkets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-08-15-china-wants-to-regulate-its-artificial-intelligence-sector-without-crushing-it.md",
       "title": "China Wants to Regulate Its Artificial Intelligence Sector Without Crushing It",
       "excerpt": "Beijing issued 24 guidelines that require platform providers to register their services and conduct a security review before they’re brought to market.",
@@ -965,185 +1156,6 @@
         "AI",
         "AI in Security",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-detroit-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon.md",
-      "title": "Detroit Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS CLOSING SOON!",
-      "excerpt": "DETROIT, Aug. 14, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Perficient, the leading global digital consultancy, taking place in Detroit. Applications for the no-cost bootcamp are closing soon!",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/08/14/9864047.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/08/14/9864047.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-14T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-ai-startup-anthropic-gets-100m-to-build-custom-llm-for-telecom-industry.md",
-      "title": "AI startup Anthropic gets $100M to build custom LLM for telecom industry",
-      "excerpt": "AI startup Anthropic with its \"constitutional AI\" approach has raised $100 million from Korean telecom major SK Telecom to build custom LLMs.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-startup-anthropic-gets-100m-to-build-custom-llm-for-telecom-industry/",
-      "originalUrl": "https://venturebeat.com/ai/ai-startup-anthropic-gets-100m-to-build-custom-llm-for-telecom-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1323198492-e1653330450993.jpg?fit=750%2C493&#038;strip=all",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-14T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-uk-allocates-13m-to-boost-use-of-artificial-intelligence-in-healthcare.md",
-      "title": "UK allocates £13m to boost use of artificial intelligence in healthcare",
-      "excerpt": "The government has allocated a £13m investment aimed at advancing research in the field of artificial intelligence (AI) within healthcare. The move, announced by Technology Secretary Michelle ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/news/uk/home-news/uk-nhs-ai-healthcare-artificial-intelligence-b2390607.html",
-      "originalUrl": "https://www.independent.co.uk/news/uk/home-news/uk-nhs-ai-healthcare-artificial-intelligence-b2390607.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.independent.co.uk/2023/08/10/00/0a48a35067bb751bb5abd6562da587f9Y29udGVudHNlYXJjaGFwaSwxNjkxNjc4NzY3-2.69139511.jpg?quality=75&width=1200&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-14T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-how-to-think-about-ai-a-guide-for-manufacturers.md",
-      "title": "How To Think About AI: A Guide For Manufacturers",
-      "excerpt": "The artificial intelligence revolution has arrived, and it’s here to stay. This long-awaited technology is entering a more mature—and more valuable—stage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ethankarp/2023/08/14/how-to-think-about-ai-a-guide-for-manufacturers/",
-      "originalUrl": "https://www.forbes.com/sites/ethankarp/2023/08/14/how-to-think-about-ai-a-guide-for-manufacturers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64da2b32ff720c51d2b1ea41/0x0.jpg?format=jpg&crop=4732,2661,x132,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ethankarp/2023/08/14/how-to-think-about-ai-a-guide-for-manufacturers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ethankarp/2023/08/14/how-to-think-about-ai-a-guide-for-manufacturers/amp/",
-      "publishedDateTime": "2023-08-14T06:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

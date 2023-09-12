@@ -19,43 +19,47 @@ topics:
   - AI
 
 related:
-  - title: "3 Top Self-Driving Car Stocks That Aren't Tesla"
-    excerpt: "While self-driving cars might have seemed like high-concept sci-fi a decade ago, we now have robotaxis from different companies running on our roads. Even though none of them have achieved full ..."
-    publishedDateTime: 2023-09-07T16:51:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-top-self-driving-car-stocks-that-arent-tesla"
+  - title: "Are electric and self-driving cars really a good idea?"
+    excerpt: "They just need occasional tires and wiper blades. It’s been about 5 years since sages predicted self-driving cars would be available for all in 5 years. It turns out that it’s a lot harder than they thought. Several attempts have disappointed or failed ..."
+    publishedDateTime: 2023-09-09T10:06:00Z
+    webUrl: "https://www.westhawaiitoday.com/2023/09/09/opinion/are-electric-and-self-driving-cars-really-a-good-idea/"
+    ampWebUrl: "https://www.westhawaiitoday.com/2023/09/09/opinion/are-electric-and-self-driving-cars-really-a-good-idea/amp/"
+    cdnAmpWebUrl: "https://www-westhawaiitoday-com.cdn.ampproject.org/c/s/www.westhawaiitoday.com/2023/09/09/opinion/are-electric-and-self-driving-cars-really-a-good-idea/amp/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
-  - title: "Tesla Finally Adds Long-Promised Feature To Full Self-Driving Suite"
-    excerpt: "Tesla has added Autosteer on city streets to the available functions for its optional Full Self-Driving Capability suite, a $12,000 option on new Teslas. A visit to the EV maker's website confirms that the feature is no longer listed as \"coming soon ..."
-    publishedDateTime: 2023-09-09T14:15:00Z
-    webUrl: "https://carbuzz.com/news/tesla-finally-adds-long-promised-feature-to-full-self-driving-suite"
+      name: West Hawaii Today
+      domain: westhawaiitoday.com
+    quality: 44
+    images:
+      - url: "https://www.westhawaiitoday.com/wp-content/uploads/2021/08/og_image_logo.png"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "An Android Phone Powers A Self Driving Car"
+    excerpt: "As auto manufacturers have brought self-driving features to their products, we’re told about how impressive their technologies are and just how much computing power is on board to make it happen."
+    publishedDateTime: 2023-09-10T00:00:00Z
+    webUrl: "https://hackaday.com/2023/06/27/an-android-phone-powers-a-self-driving-car/"
     type: article
     provider:
-      name: https//carbuzz
-      domain: carbuzz.com
+      name: Hackaday
+      domain: hackaday.com
     quality: 39
     images:
-      - url: "http://cdn.carbuzz.com/gallery-images/1600/1177000/900/1177942.jpg"
-        width: 1600
-        height: 1066
+      - url: "https://hackaday.com/wp-content/uploads/2023/06/android-self-drive-featured.jpg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "Tesla’s value predicted to boost from new Dojo self-driving supercomputer"
-    excerpt: "Tesla’s Dojo supercomputer only uses video data recordings from Tesla owners’ real-life driving situations to train its machine-learning model and improve its camera-only ‘Tesla Vision’ safety assistance systems. The camera-only Dojo will ditch 300,000-plus lines of code."
-    publishedDateTime: 2023-09-12T04:55:00Z
-    webUrl: "https://www.whichcar.com.au/news/tesla-s-value-predicted-to-boost-from-new-dojo-self-driving-supercomputer"
+  - title: "City of Austin releases new data on self-driving cars"
+    excerpt: "Self-driving cars may be the way of the future, but they're encountering quite a few glitches in the here and now. The City of Austin is out with some new numbers on just how many incidents there have been involving those driverless cars."
+    publishedDateTime: 2023-09-11T02:37:00Z
+    webUrl: "https://www.fox7austin.com/news/austin-texas-self-driving-cars"
+    ampWebUrl: "https://www.fox7austin.com/news/austin-texas-self-driving-cars.amp"
+    cdnAmpWebUrl: "https://www-fox7austin-com.cdn.ampproject.org/c/s/www.fox7austin.com/news/austin-texas-self-driving-cars.amp"
     type: article
     provider:
-      name: whichcar
-      domain: whichcar.com.au
-    quality: 38
-    images:
-      - url: "https://cdn.whichcar.com.au/assets/p_social/b07d09f6/ev-buyers-guide-tesla-model-3-1-interior.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: FOX 7 Austin KTBC
+      domain: fox7austin.com
+    quality: 24
 
 secured: "tKIl4lLMaDrNGNwnQ+gzjK1oRvKi1PR+74xs3b4ReZxLQxGmMQYnRL334bTMidYcnsa9femfU6Oph53cBEy9n5ob2GzURD/nNKQeiywhsc5h1cO65FmnRfKVq8l8v9dOUZNbfCrUKDjqT6Tavo7n3DKR6x9frq0QWNbYUVYWO5rPO8ppz/A26GtSKBtnHx6U6mU4NhAKuAIc2ijr+z9iSEndSwlt2n+RTl9QXywuTRA8UewzR31DbhzynfUjHu8d7pLVDZ4DjpF8hW3ROoem4HxFitE+T/vKo1YTWFffp+E0oBMTWe6gBN9pvOo685fKgmGKwJSDdCRhuUoxKMTSL3jtgOAMhHIAhjO7MyUTOx8nZwd6f4yl7UrV987SMsNmDy4yHUCdJy1Q5qJXIxF7Sc0llx4cl65P8QMJIhbLyHBnlISdaeL1LRILlTCb7lTQ8AoQCKiv2qWAHbmLeYD87fRxhhsxU+zPXsMAv5kLIR3Ivkr3pwFd+r03xjBLy0z++RQuHIAvXvNRDY585QY6gQ==;iym5VMGgTeoHB33ros5QkA=="
 ---

@@ -194,15 +194,6 @@ related:
     quality: 25
   - title: "AVIA’s National Generative AI Collaborative Announces New Experts, Enhanced Health System Participation"
     excerpt: "The Generative AI Strategic Collaborative reveals a slate of 10 clinical, ethics, technology, and regulatory experts for its national consortium"
-    publishedDateTime: 2023-09-07T16:04:00Z
-    webUrl: "https://www.kansascity.com/press-releases/article279063044.html"
-    type: article
-    provider:
-      name: Kansas City Star
-      domain: kansascity.com
-    quality: 3
-  - title: "AVIA’s National Generative AI Collaborative Announces New Experts, Enhanced Health System Participation"
-    excerpt: "The Generative AI Strategic Collaborative reveals a slate of 10 clinical, ethics, technology, and regulatory experts for its national consortium"
     publishedDateTime: 2023-09-07T17:04:00Z
     webUrl: "https://www.miamiherald.com/press-releases/article279063044.html"
     type: article
@@ -211,6 +202,6 @@ related:
       domain: miamiherald.com
     quality: 3
 
-secured: "1qMy+ZJPUno8WqmWPoqIXjXPA8/MJOyJcnkc9jvsPhaDO7y6kMVivnzkfrlvsxszYTj0Ofl8vzauSXPLKKhWGXDLLwWDduwgFuG8HzF4JDjuIGVUk+PuoEnFig9ACJ71N79o2kYrHXHLgGmflOdTOLCOIfXYm61q+yC5MCm4wvqySzMXtqWPtUrSQiCOCK50g0JmXqOaa9eSjAHaxn+p+R3XkpEp1N3yCTSwiONM1Q16mH22qV+VavPbEiEKIcIjfXwkp+bG7XeObuyRkt8vH9o8PiX1ngGIQMqKlpqSgBtplBd3ORX93obHdedtWVW0T1jMlKTGWL5tFFiE2LL4g+3POIjJMmuV3cY53rVximg=;BmXGB3PPobtl6jcpZTi6/Q=="
+secured: "OQNNs2cIrbKemTYyGcr92U1yvg1iPQktHxBd7P9XrnHgmwwI+O4FmC67kKdb9rIvt9LYYzABfXCeweWoWu0l51uGUp2gDaemlRZh5kRyZFo1arQ5eOU0Z5Nz/As5mE9/VuOal5yAgB+GdoVpQT17uLqObzi+ua1THaSR13hd8fmR3KRFiWFw5eOPpEfmOkW5n02IJIGOgwUGEAKlTPQp9WDFlJ6TLl+uedHVc4Kv0+I4+hjrZZGSqMy88sUnAz56kgXcxIUhPHM18xx6ZuB3nCWmBvtfSX+sUyzX1ec8ROUVQrdDotoHhqv2hoGBAAkOnIoLSephWc/swVPmoKW8J5OKGVMIFC9OoOzlX/shT57by+3dqGal9J9Z2lzi5yC6Qv1WXmoiCjK2OFv7b+unFD9sjVEVp/Vhuu7qBBMW42hkR0ulWDlB61jet0EkAX4o+XyISoj3/S28uHZn4R/Qo9+jNQG6M/o2FZEu+QcavIV++jJqb0gQd2OxAwxVl21PXpyCj43yz53YaWH6/yKNDQ==;qmrUYPH4MKaVQQOHo6AQTA=="
 ---
 

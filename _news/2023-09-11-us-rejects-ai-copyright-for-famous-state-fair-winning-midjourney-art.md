@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/09/us-rejects-ai
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/us-rejects-ai-copyright-for-famous-state-fair-winning-midjourney-art/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "9 useful AI tools in addition to Midjorney and ChatGPT"
+    excerpt: "Watch this video on YouTube. Perplexity AI combines a large language model with natural language processing (NLP) search capabilities, providing a personalized browsing experience. It offers a number of AI features, including personalized language models ..."
+    publishedDateTime: 2023-09-08T10:56:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-tools-you-should-be-using/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/9-AI-tools-you-should-be-using-in-addition-to-Midjorney-and-ChatGPT.jpg"
+        width: 700
+        height: 466
+        isCached: true
   - title: "Start your AI journey at our exclusive events"
     excerpt: "Salesforce and SmartCompany are combining forces to help small businesses understand how to implement artificial intelligence (AI) across their operations safely and ethically."
     publishedDateTime: 2023-09-10T22:59:00Z

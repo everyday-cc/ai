@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "California firefighters use AI to battle wildfires"
+    excerpt: "Neal Driscoll says the AI system for spotting wildfires is already offering a jump on about 40 percent of fires, and he expects it to get more effective. Over the last few years, its application has spread to include areas as diverse as weather forecasting, stock-picking, art and journalism."
+    publishedDateTime: 2023-09-12T08:31:00Z
+    webUrl: "https://phys.org/news/2023-09-california-firefighters-ai-wildfires.html"
+    ampWebUrl: "https://phys.org/news/2023-09-california-firefighters-ai-wildfires.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-california-firefighters-ai-wildfires.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/computers-are-learning.jpg"
+        width: 1280
+        height: 852
+        isCached: true
   - title: "California legislative roundup: Travel ban, guns, tuition, self-driving trucks"
     excerpt: "California may soon lift a ban on state-funded travel to states with anti-LGBTQ+ laws and instead focus on an advertising campaign to bring anti-discrimination messages to red states."
     publishedDateTime: 2023-09-12T03:47:00Z

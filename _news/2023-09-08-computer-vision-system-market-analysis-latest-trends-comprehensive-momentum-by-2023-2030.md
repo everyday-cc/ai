@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) Robots Market Size, Trend, Analysis 2023-2030"
-    excerpt: "Artificial Intelligence (AI) Robots Market 2023 with 117 Pages Report and enhance with extents shares into sub-counties are covered in this market. Artificial Intelligence (AI) Robots Market ..."
-    publishedDateTime: 2023-09-07T15:59:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/34317861/artificial-intelligence-ai-robots-market-size-trend-analysis-2023-2030"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34317861"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34317861"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 87
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Computer Vision in the Healthcare Market Size, Trends, and Opportunities 2023-2030"
     excerpt: "Computer Vision In Healthcare Market is expected to grow from USD 993.8 million in 2022 to USD 22266 million by 2030, at a CAGR of 47%. The increasing demand for computer vision systems in the ..."
     publishedDateTime: 2023-09-07T23:53:00Z

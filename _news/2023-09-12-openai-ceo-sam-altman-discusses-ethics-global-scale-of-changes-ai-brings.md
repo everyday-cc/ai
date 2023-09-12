@@ -49,15 +49,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Sundar Pichai on Google’s AI, Microsoft’s AI, OpenAI, and … Did We Mention AI?"
-    excerpt: "The tech giant is 25 years old. In a chatbot war. On trial for antitrust. But its CEO says Google is good for 25 more."
-    publishedDateTime: 2023-09-11T10:00:00Z
-    webUrl: "https://www.wired.com/story/sundar-pichai-google-ai-microsoft-openai/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 62
   - title: "Meta is working on new AI model even more powerful than OpenAI's GPT-4, says report"
     excerpt: "Meta is working on a new AI system expected to be more powerful than OpenAI's GPT-4. It could be ready next year."
     publishedDateTime: 2023-09-11T02:28:00Z
@@ -131,6 +122,20 @@ related:
       - url: "https://assets.thehansindia.com/h-upload/2023/09/11/1379693-meta.jpg"
         width: 1200
         height: 720
+        isCached: true
+  - title: "Meta Platforms reportedly building open-source generative AI system to rival OpenAI’s ChatGPT"
+    excerpt: "Facebook and Instagram parent Meta Platforms Inc. is looking to rival OpenAI LP in the generative artificial intelligence landscape with an alternative, but open-source model that’s likely to be as powerful as GPT-4."
+    publishedDateTime: 2023-09-11T00:20:00Z
+    webUrl: "https://siliconangle.com/2023/09/10/meta-platforms-reportedly-building-open-source-generative-ai-system-rival-openais-chatgpt/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 28
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/41118893354_edd6aac12d_k-AnthonyQuintano-Flickr-768x525.jpg"
+        width: 768
+        height: 525
         isCached: true
 
 secured: "+87WMeHWc1rNx5FZTPs95516JJHLhV5MfqxNUP6YLtSWqL7tTS2//7jDi0NhoDWDV4imDdQ41AuIkmS8UUvuEn2DFTD5r5yS4YrE7T6GtjPwsWzOTRbtQTGThWph7l9x3MDaYo2s0NEAlOpIhKFhQYM2fHqSWKrwhD05jM6guesgyw5tjGCIEJVIkstw+QKRDMTmgCcj0d9tioGKrZGYQnjlTtM7YevBuCMuhWPoQtV1uPjRZU7MhwHWN+5wVwa/Hy5hdppZcYCrE4KrGA8R9su3yYiNRsp7rxnMmq1rhmuxwK0S7ePVCL6VkDTTvSzNGpmB34iPLw5VnItcpllD2PvpaVJbbl7UaE2Y25MpqWY=;GpaA/tYaDxc5GmW7JoAZ3g=="
