@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/harnessing-ai-and-data-analytics-can-make
 webUrl: "https://www.ibm.com/blog/harnessing-ai-and-data-analytics-can-make-clean-energy-more-viable/"
 type: article
 quality: 99
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -95,15 +95,6 @@ related:
         width: 1400
         height: 900
         isCached: true
-  - title: "Data and analytics interrupt their programs for generative AI"
-    excerpt: "Amidst all the pronouncements from data and analytics providers on generative over the spring, we found a huge omission. Like all AI, generative will require governance, and most providers are for now paying lip service to that."
-    publishedDateTime: 2023-09-07T13:00:00Z
-    webUrl: "https://siliconangle.com/2023/09/07/data-analytics-interrupt-programs-generative-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 17
 
 secured: "/4Ayt8clbmLLBzCA6SHwcJR2QhOd4zCp9rJiZ0vws/IutdJpVPEMCVbwA4rl0Zc3m4RR81IySc1HxYJf9+XhMxTgABpYtHFlPtvv5LdwYapFPRAkUYOE2o4KqBjdyNVD3lwFDdHWZSdJqmvdlGJeGIt6lsEiZY9XjSlt074/54+wnTPaknzunMqRG6z2wixiLKmasmKMS9n7x86bGLCr3rTvOiyCC4DH9gzIVAp0Gu59GTSvlsebGNVTGWv0tusUIzjAvtlNvhFUlwNA990EuFaHxzTBKvTxBNVlhPnISC34LPz8UjK9fvQWOPz8AcNfCX4UatkCG0qswiqnCxvg5SHo2onE17WhCOhG99tyAMo=;LHNQrUIFbLk1B2cBmaIF6Q=="
 ---

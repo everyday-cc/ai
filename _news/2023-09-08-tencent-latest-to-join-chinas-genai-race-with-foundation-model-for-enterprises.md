@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/tencent-latest-to-join-chin
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tencent-latest-to-join-chinas-genai-race-with-foundation-model-for-enterprises/"
 type: article
 quality: 85
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "UNESCO calls for regulations on use of GenAI in schools"
+    excerpt: "The United Nations Educational, Scientific and Cultural Organisation (UNESCO) called on governments to regulate the use of Generative Artificial Intelligence (GenAI) in education and research."
+    publishedDateTime: 2023-09-08T14:25:00Z
+    webUrl: "https://www.onmanorama.com/news/world/2023/09/08/disadvantages-of-chatgpt-genai.html"
+    type: article
+    provider:
+      name: onmanorama
+      domain: onmanorama.com
+    quality: 39
+    images:
+      - url: "https://img.onmanorama.com/content/dam/mm/en/news/world/images/2023/9/8/chatgpt-onmanorama.jpg"
+        width: 1248
+        height: 650
+        isCached: true
   - title: "China’s Tencent Unveils Its First General Large Language AI Model Hunyuan"
     excerpt: "(Yicai) Sept. 8 -- Chinese internet titan Tencent Holdings debuted its first large language artificial intelligence model Hunyuan at its Global Digital Ecosystem Summit in Shenzhen."
     publishedDateTime: 2023-09-08T06:58:00Z

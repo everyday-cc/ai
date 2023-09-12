@@ -34,6 +34,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
+  - title: "Nvidia’s AI Chip Dominance Stifles Rival Venture Funding, Creating Challenges for Startups"
+    excerpt: "The number of deals plummeted from 23 to just four by the end of August. AI chip startup Mythic, which has accumulated approximately $160 million in funding overall, faced financial difficulties last year, nearly prompting a halt to its operations ..."
+    publishedDateTime: 2023-09-12T04:39:00Z
+    webUrl: "https://infotechlead.com/artificial-intelligence/nvidias-ai-chip-dominance-stifles-rival-venture-funding-creating-challenges-for-startups-80508"
+    ampWebUrl: "https://infotechlead.com/artificial-intelligence/nvidias-ai-chip-dominance-stifles-rival-venture-funding-creating-challenges-for-startups-80508?amp=1"
+    cdnAmpWebUrl: "https://infotechlead-com.cdn.ampproject.org/c/s/infotechlead.com/artificial-intelligence/nvidias-ai-chip-dominance-stifles-rival-venture-funding-creating-challenges-for-startups-80508?amp=1"
+    type: article
+    provider:
+      name: infotechlead
+      domain: infotechlead.com
+    quality: 64
+    images:
+      - url: "https://infotechlead.com/wp-content/uploads/2023/01/NVIDIA-DGX-A100-systems.jpg"
+        width: 640
+        height: 442
+        isCached: true
   - title: "1 Top Chip Stock Ready to Ride Nvidia's AI Tailwinds Higher"
     excerpt: "The jump in sales was mostly driven by its data center business, which includes the H100 and A100 chips - two advanced artificial intelligence (AI) chips that are used to build and run AI models and applications. Going forward, the company projected even ..."
     publishedDateTime: 2023-09-08T20:10:00Z

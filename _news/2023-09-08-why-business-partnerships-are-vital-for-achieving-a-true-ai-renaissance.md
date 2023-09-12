@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/sc/how-business-partnerships-can-h
 webUrl: "https://www.businessinsider.com/sc/how-business-partnerships-can-help-drive-generative-ais-adoption-2023-9"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -36,6 +36,15 @@ related:
     provider:
       name: The New York Times
       domain: nytimes.com
+    quality: 47
+  - title: "5 steps for assembling AI-driven business teams"
+    excerpt: "We used OpenAI’s ChatGPT to assemble an AI-driven team: the results obtained were solid, and the evidence was clear."
+    publishedDateTime: 2023-09-08T17:59:00Z
+    webUrl: "https://techcrunch.com/2023/09/08/5-steps-for-assembling-ai-driven-business-teams/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
     quality: 47
   - title: "Tata Partners With NVIDIA to Build Large-Scale AI Infrastructure"
     excerpt: "TCS will utilize the AI infrastructure and capabilities to build and process generative AI applications. The NVIDIA partnership will further enable TCS in collaborating with its customers to drive reimagination with an AI-first approach. Additionally, TCS will upskill its 600,000-strong workforce leveraging the partnership."

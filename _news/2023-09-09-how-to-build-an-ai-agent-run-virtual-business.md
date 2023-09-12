@@ -25,103 +25,30 @@ images:
     isCached: true
 
 related:
-  - title: "Building AI for business: IBM’s Granite foundation models"
-    excerpt: "Explore IBM's Granite foundation models, from how we built them to how they can help you further apply generative AI in your business.\nThe post Building AI for business: IBM&#8217;s Granite foundation models appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-09-07T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/building-ai-for-business-ibms-granite-foundation-models/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
-  - title: "IBM rolls out new generative AI features and models"
-    excerpt: "detect model bias and drift and help organizations meet ethics standards. And starting next week, IBM will launch Intelligent Remediation, which the company says will leverage generative AI models to assist IT teams with summarizing incidents and ..."
-    publishedDateTime: 2023-09-07T13:00:00Z
-    webUrl: "https://techcrunch.com/2023/09/07/ibm-rolls-out-new-generative-ai-features-and-models/"
-    ampWebUrl: "https://techcrunch.com/2023/09/07/ibm-rolls-out-new-generative-ai-features-and-models/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/07/ibm-rolls-out-new-generative-ai-features-and-models/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1127480719.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "IBM unveils generative AI foundation models"
-    excerpt: "IBM Granite series foundation models apply generative AI to natural language and coding tasks. Plus, Watsonx generative AI capabilities are coming to the Watsonx data lakehouse."
-    publishedDateTime: 2023-09-07T22:14:00Z
-    webUrl: "https://www.infoworld.com/article/3706449/ibm-unveils-generative-ai-foundation-models.html"
-    ampWebUrl: "https://www.infoworld.com/article/3706449/ibm-unveils-generative-ai-foundation-models.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706449/ibm-unveils-generative-ai-foundation-models.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/09/06/11/shutterstock_editorial_157995017-100945577-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Why self-regulation of AI is a smart business move"
-    excerpt: "Robust governance is the surest path to AI initiatives that build customer confidence, reduce risk and drive business innovation."
-    publishedDateTime: 2023-09-11T01:41:00Z
-    webUrl: "https://venturebeat.com/ai/why-self-regulation-of-ai-is-a-smart-business-move/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_technology_regulations_and_standards_for_businesses._co_92a54db8-4f4b-4ca9-ba50-acfcc2028868.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "How to Hire an Ideal Azure Cloud Engineer for your business?"
-    excerpt: "The annual growth rates of Google Cloud Platform (GCP) and Azure Management Services (AMS) are almost twice as high as those of Amazon Web Services (AWS), according to CB Insight. Microsoft statistics show that 95% of Fortune 500 businesses rely on and utilize Azure Managed Services."
-    publishedDateTime: 2023-09-08T11:15:00Z
-    webUrl: "https://securityboulevard.com/2023/09/how-to-hire-an-ideal-azure-cloud-engineer-for-your-business/"
-    ampWebUrl: "https://securityboulevard.com/2023/09/how-to-hire-an-ideal-azure-cloud-engineer-for-your-business/amp/"
-    cdnAmpWebUrl: "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2023/09/how-to-hire-an-ideal-azure-cloud-engineer-for-your-business/amp/"
-    type: article
-    provider:
-      name: Security Boulevard
-      domain: securityboulevard.com
-    quality: 59
-    images:
-      - url: "https://peoplactive.com/wp-content/uploads/2023/09/main-banner-1.jpg"
-        width: 1920
-        height: 671
-        isCached: true
-  - title: "How To Use AI To Your Business’s Advantage"
-    excerpt: "When incorporated wisely, AI technologies open new horizons for delivering products that stand out on the market and bring unique value to your customers."
-    publishedDateTime: 2023-09-11T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/how-to-use-ai-to-your-businesss-advantage/"
+  - title: "Small Business Tech Roundup: Intuit Introduces An AI Assistant"
+    excerpt: "Intuit's AI assistant, Google Workspace now integrates with Slack and Teams, Zoom has a new notes feature and other tech news impacting your business."
+    publishedDateTime: 2023-09-10T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/quickerbettertech/2023/09/10/small-business-tech-roundup-intuit-introduces-an-ai-assistant/"
+    ampWebUrl: "https://www.forbes.com/sites/quickerbettertech/2023/09/10/small-business-tech-roundup-intuit-introduces-an-ai-assistant/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2023/09/10/small-business-tech-roundup-intuit-introduces-an-ai-assistant/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 49
-  - title: "5 steps for assembling AI-driven business teams"
-    excerpt: "We used OpenAI’s ChatGPT to assemble an AI-driven team: the results obtained were solid, and the evidence was clear."
-    publishedDateTime: 2023-09-08T17:59:00Z
-    webUrl: "https://techcrunch.com/2023/09/08/5-steps-for-assembling-ai-driven-business-teams/"
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64fb0f4b79156fda1073b636/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 1801
+        isCached: true
+  - title: "Intuit Assist Brings Generative AI To Small Business And Consumer Portfolio"
+    excerpt: "Ranked Industry Analyst Patrick Moorhead focuses on how Intuit Assist could give a boost to each of Intuit’s major products."
+    publishedDateTime: 2023-09-11T19:14:00Z
+    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/09/11/intuit-assist-brings-generative-ai-to-small-business-and-consumer-portfolio/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
-  - title: "AI-generated music used for business branding"
-    excerpt: "This is an example of AI-generated music, created by amp's Sonic Hub tool using 'Sonic DNA', which was composed for a finance client."
-    publishedDateTime: 2023-09-11T19:26:00Z
-    webUrl: "https://www.bbc.com/news/av/business-66781641"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
+      name: Forbes
+      domain: forbes.com
     quality: 47
 
 secured: "Lpvn3aTQ4kryj/8yw6YVZzVP5I9jBcsR8GOJHjH4jzjCXm4oiMOuu9ckdn+66e/sKi4zRQDILGK8H6SLxd5dvXdTv6X+4ISDqmX6lHfku1+aYJuKUYfVimQlqeqtDFG4xs3TXrsBUjcEbkHfNYMvIAw4fx8WZuzX5nMu8SyjCcHubTZ1cVZNS327PW/MHMLKe03cGGJBomGtCVdC473O1uEfhgPPBEI16gikJgUW5bQIjffuTEYOiIOuHXsZywAQBQ5h+c/zU9hUHAD8HTdxq6fX9sbC3+ltT0fTEHL+s2Y1011U4KxLqXDuXVPaJ+K2JBsVnF2LEBBcdG4aYmgxHe52oahqbQByeaJlKZ9RxwQ=;BpIH54yOB2zs8Hbyx3dT2w=="

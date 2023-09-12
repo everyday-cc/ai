@@ -6,7 +6,7 @@ publishedDateTime: 2023-09-07T23:56:00Z
 originalUrl: "https://siliconangle.com/2023/09/07/argo-ai-founders-return-new-softbank-backed-autonomous-truck-startup/"
 webUrl: "https://siliconangle.com/2023/09/07/argo-ai-founders-return-new-softbank-backed-autonomous-truck-startup/"
 type: article
-quality: 31
+quality: 33
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/stackav.jpg"

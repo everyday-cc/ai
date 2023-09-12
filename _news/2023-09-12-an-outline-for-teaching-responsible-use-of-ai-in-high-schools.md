@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-09-outline-responsible-ai-high-schools.am
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-outline-responsible-ai-high-schools.amp"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "G20 nations reaffirm responsible use and development of AI technology"
-    excerpt: "G20 members reaffirmed their commitment to G20 AI Principles, drafted in 2019, which detail global policies and cooperation around building “trustworthy AI.”"
-    publishedDateTime: 2023-09-11T07:58:00Z
-    webUrl: "https://cointelegraph.com/news/g20-ai-use-and-development-india"
+  - title: "Top 5 things to look for when selecting machine learning technology"
+    excerpt: "In the race to take advantage of AI, many organisations are rushing into machine learning projects only to crash and burn before the project even gets off the ground. Common pitfalls include technical complexity,"
+    publishedDateTime: 2023-09-12T04:48:00Z
+    webUrl: "https://www.cio.com/article/652002/top-5-things-to-look-for-when-selecting-machine-learning-technology.html"
+    ampWebUrl: "https://www.cio.com/article/652002/top-5-things-to-look-for-when-selecting-machine-learning-technology.html/amp/"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/652002/top-5-things-to-look-for-when-selecting-machine-learning-technology.html/amp/"
     type: article
     provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 39
+      name: CIO
+      domain: cio.com
+    quality: 59
     images:
-      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDkvOTc5MmE4NWEtNWVkYS00ZjcyLWIxNTAtMGVjODRlNmNkZWQwLmpwZw==.jpg"
-        width: 1160
-        height: 773
+      - url: "https://www.cio.com/wp-content/uploads/2023/09/shutterstock_1178406460-1.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 640
         isCached: true
 
 secured: "o0ydHoikqaf9G5NOcSWZbTBMblm3eRxjWHQ9n2dXUGpYOivgTxlgXFH507WX/LWbe4e4pogrDFFCK8rZVfgoqaB6oTADEA8s03lX8reN3QXnDBtdLsJDsbOMFzo2SYO6sRI1D1orwK+Mgj69dgyLuoLGtWwiX16GQiLKm544IhOat3waC6CsI74oM64bIXbPeVFkcRYmyJ0r2AKXCuBv9+JItxD+XTv1cxiCMT4YJa7BUBQfnSmUKqxiOzIOpB1B44xj8RzdhKU2blc8Wo5lSwo/Q1PBFaHe8VHCrw2VLEtjRTzM5nqIHqbcXXw43cN41TnkDtUsKH0bcYrer10WYEZ77o/HzXxw3eJz9T8Xt74=;wL2u0ne2BvhO1nCHo2ZFqA=="

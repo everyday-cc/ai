@@ -6,8 +6,8 @@ publishedDateTime: 2023-09-11T15:55:00Z
 originalUrl: "https://www.law.com/legaltechnews/2023/09/11/ltn-startup-spotlight-paladin-founder-on-why-they-avoid-the-ai-hype/"
 webUrl: "https://www.law.com/legaltechnews/2023/09/11/ltn-startup-spotlight-paladin-founder-on-why-they-avoid-the-ai-hype/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/09/Kristen-Sonday-767x633.jpg"

@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/09/openai-admits
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/openai-admits-that-ai-writing-detectors-dont-work/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -122,15 +122,6 @@ related:
       name: Searchenginejournal.com
       domain: searchenginejournal.com
     quality: 32
-  - title: "Soon UAE Will Dethrone OpenAI"
-    excerpt: "UAE’s Technological Innovation Institute (TII) yesterday released Falcon 180B, a highly scaled-up version of Falcon 40B."
-    publishedDateTime: 2023-09-07T12:20:00Z
-    webUrl: "https://analyticsindiamag.com/soon-uae-will-dethrone-openai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 19
 
 secured: "TdBLcTUuyshdopK0EOSypQXHctNdxWjwML7oSD7KbcYyrGSl7R9gtqn0VdrF8hBKxvY5TbXfaaTQp7RHPmSI5i1yT9nu0vuMm/cx2C5PT7whvtWr6rji9Jq9evizjiksYBBO47ZRI/11SSKYQ7OFYcPkc34dNw1CBRxnAm+E/2QmfNOE8q1WhB6DCQdYK9gNQoKKuLPmNnAVl1HpWAPyfIL5wDszjEztR3lxExuoUQtiXMffjUzDoGFDtvHcPErTos+yHjdm+fe8SAOdxw6l0uwkrGN76Xi905krX98nuySHFtIJ6w5SMEThpQfhjx1I0biXXF+sEjdF8oBHRjfZtW4YFx9wojcqBJYr4cJPNhbjbsg59BJYfp/WaSOvXylLoFvt88zPQ6mlUmY3OWNsKRLSGgxFPco+rVMF2ZJEAx4+9qg+ftIsbF9AIyl5xwo9mtzgDM3+l3GkN1fAaNv+H79wqK2NHDp5M6g7hfiHVynIr67TL49XTBZXhF4oYS10CbVnKKzv8mineuvG/DLHMw==;EF1zk9F9sE9dJzTbtL6lGQ=="
 ---

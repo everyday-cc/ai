@@ -42,6 +42,20 @@ related:
         width: 1600
         height: 1066
         isCached: true
+  - title: "Tesla’s value predicted to boost from new Dojo self-driving supercomputer"
+    excerpt: "Tesla’s Dojo supercomputer only uses video data recordings from Tesla owners’ real-life driving situations to train its machine-learning model and improve its camera-only ‘Tesla Vision’ safety assistance systems. The camera-only Dojo will ditch 300,000-plus lines of code."
+    publishedDateTime: 2023-09-12T04:55:00Z
+    webUrl: "https://www.whichcar.com.au/news/tesla-s-value-predicted-to-boost-from-new-dojo-self-driving-supercomputer"
+    type: article
+    provider:
+      name: whichcar
+      domain: whichcar.com.au
+    quality: 38
+    images:
+      - url: "https://cdn.whichcar.com.au/assets/p_social/b07d09f6/ev-buyers-guide-tesla-model-3-1-interior.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "tKIl4lLMaDrNGNwnQ+gzjK1oRvKi1PR+74xs3b4ReZxLQxGmMQYnRL334bTMidYcnsa9femfU6Oph53cBEy9n5ob2GzURD/nNKQeiywhsc5h1cO65FmnRfKVq8l8v9dOUZNbfCrUKDjqT6Tavo7n3DKR6x9frq0QWNbYUVYWO5rPO8ppz/A26GtSKBtnHx6U6mU4NhAKuAIc2ijr+z9iSEndSwlt2n+RTl9QXywuTRA8UewzR31DbhzynfUjHu8d7pLVDZ4DjpF8hW3ROoem4HxFitE+T/vKo1YTWFffp+E0oBMTWe6gBN9pvOo685fKgmGKwJSDdCRhuUoxKMTSL3jtgOAMhHIAhjO7MyUTOx8nZwd6f4yl7UrV987SMsNmDy4yHUCdJy1Q5qJXIxF7Sc0llx4cl65P8QMJIhbLyHBnlISdaeL1LRILlTCb7lTQ8AoQCKiv2qWAHbmLeYD87fRxhhsxU+zPXsMAv5kLIR3Ivkr3pwFd+r03xjBLy0z++RQuHIAvXvNRDY585QY6gQ==;iym5VMGgTeoHB33ros5QkA=="
 ---

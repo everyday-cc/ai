@@ -60,15 +60,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI Regulation: Why It's Already Going Off The Rails"
-    excerpt: "Taking a laissez faire approach to AI is no solution. This technology can be misused or can have unintended consequences."
-    publishedDateTime: 2023-09-07T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/07/ai-regulation-why-its-already-going-off-the-rails/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Regulating AI is a mistake"
     excerpt: "Although AI regulation will eventually be necessary, following Altman’s roadmap to regulate at such an early stage would be a mistake."
     publishedDateTime: 2023-09-08T00:10:00Z
@@ -83,6 +74,29 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "State Legislatures Eye AI Regulation"
+    excerpt: "A growing number of states have enacted laws this year to study artificial intelligence (AI), ahead of possible legislative action to address expected threats to jobs, civil liberties, and property ri"
+    publishedDateTime: 2023-09-07T21:57:00Z
+    webUrl: "https://www.natlawreview.com/article/state-legislatures-eye-ai-regulation"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 39
+    images:
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/55596/AI%20Law%20gavel%20SMALL_0.jpg?itok=kp0Z5h9K"
+        width: 500
+        height: 500
+        isCached: true
+  - title: "State Legislatures Eye AI Regulation"
+    excerpt: "The state plans to use this information to develop a robust AI ethics board and audit procedures to protect the rights of Vermont citizens amidst future AI developments. Industry-specific guidance has begun to emerge as well. For instance, many state ..."
+    publishedDateTime: 2023-09-08T18:28:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/state-legislatures-eye-ai-regulation-7796939/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 19
 
 secured: "kywA/oBpeJBJAKQ5BZCUmOEa0Z668aaFKT3vId3rDSHqHUXXEroYdvbp6THBMvsLTeE7Y++zSas60QM7SC1V8LR+fPz5aQGoSZrUU/I1lV9v0Je1Fxd3JejiL41lSZBNZ5XpjjHsZLhGz7osdVwKipR8KnY5R+8/RudcsRD176YJL4i+OIxOdS/N70V6SDtcTpGvjuKug6w6/yHI5rXHIm3qIWwqgaIZEmRmG0f43O6xEo32QZ+mgp/4zzcmZgJw/RVtbxYCeiOpMHzV31MiZ9TyKVH/3gMiFyjZw2HcwsXDvj8Z7fYMOPyVizc63NFRpA9X+iqqX0V+zHBM6ogvdWGCCuxX2/03mAc3SzVrw/5gbh9sSv0jynUKR5YFk/Xu6k+VrE3ojsJ9IBAdPZXiKB/MoiQdNFUG/iCboKqmvfQ4+bTIrdE7eeH8k/kYkMr1a7wB3G4fY4yIGVkFiYRVVBuwtsvWXg+8cLbqzyi7K2VQWvb1qOVRAr20fVZEGcaBVdY8UtguIxn9W1uyUQYmEg==;BpMOOWUBZpt0YFff+B91DA=="
 ---

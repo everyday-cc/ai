@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "The IRS Is Using Artificial Intelligence to Catch Millionaires Dodging Taxes"
+    excerpt: "The IRS is using artificial intelligence to strengthen its efforts in cracking down on illegal tax practices. The initiative is part of a broader effort by the IRS to scrutinize wealthier taxpayers in 2024—focusing on pursuing millionaires with ..."
+    publishedDateTime: 2023-09-11T21:47:00Z
+    webUrl: "https://www.entrepreneur.com/business-news/irs-uses-ai-to-fight-tax-evasion-millionaires-dodging-taxes/458884"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 79
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1694456730-IRS-Uses-AI.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "IRS to Use Artificial Intelligence to Catch Wealthy Tax Cheaters"
     excerpt: "In response, the IRS is tapping artificial intelligence and improved technology to help identify tax-cheating schemes that previously went undetected, including tax fraud schemes that can ensnare unsuspecting victims."
     publishedDateTime: 2023-09-11T16:50:00Z
@@ -44,19 +58,19 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Valley researchers working to use AI to improve lives"
-    excerpt: "Artificial intelligence can attract plenty of critics as we consider how to address the ethics of it, but some researchers in the Valley are hoping to advance the work of AI for social good."
-    publishedDateTime: 2023-09-08T00:20:00Z
-    webUrl: "https://www.abc15.com/news/local-news/valley-researchers-working-to-use-ai-to-improve-lives"
+  - title: "Beijing Denies Microsoft’s Claims China is Using AI to Target US Voters"
+    excerpt: "Microsoft researchers claim to have discovered a network of fraudulent, China-controlled social media accounts attempting to influence US voters through artificial intelligence. A Chinese embassy official in Washington,"
+    publishedDateTime: 2023-09-07T23:54:00Z
+    webUrl: "https://www.chiangraitimes.com/tech/beijing-denies-microsofts-claims-china-is-using-ai-to-target-us-voters/"
     type: article
     provider:
-      name: ABC15 Arizona
-      domain: abc15.com
-    quality: 39
+      name: Chiangrai Times
+      domain: chiangraitimes.com
+    quality: 56
     images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/3698b9a/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fause%2Fslices%2F041%2F5c3d34b8b29a45469a86c02775b7a2cf%2F041f51eac12e47809d9ea373e14d1972%2Fposter_8f2b1720578244ccbaa378ef52682e8d.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.chiangraitimes.com/wp-content/uploads/2023/09/Beijing-Denies-Microsofts-Claims-China-is-Using-AI-to-Target-US-Voters-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "IRS deploys artificial intelligence to catch tax evasion"
     excerpt: "The tax agency is opening examinations into large hedge funds, private equity groups, real estate investors and law firms"
@@ -69,6 +83,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
+  - title: "IRS uses AI to step up audits of large partnerships"
+    excerpt: "The Internal Revenue Service is leveraging artificial intelligence to detect tax evasion as it uses the extra funding from the Inflation Reduction Act to ramp up compliance efforts."
+    publishedDateTime: 2023-09-08T13:00:00Z
+    webUrl: "https://www.accountingtoday.com/news/irs-uses-ai-to-step-up-audits-of-large-partnerships-corporations-and-wealthy"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 17
   - title: "IRS will use AI to crack down on wealthy potential tax violators"
     excerpt: "The IRS said Friday it leveraged AI to open investigations into 75 of the largest partnerships in the U.S. that each have more than $10 billion in assets on average."
     publishedDateTime: 2023-09-08T16:47:00Z

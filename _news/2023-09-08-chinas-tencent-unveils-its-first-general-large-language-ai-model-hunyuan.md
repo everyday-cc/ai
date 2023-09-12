@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "UNESCO calls for regulations on use of GenAI in schools"
+    excerpt: "The United Nations Educational, Scientific and Cultural Organisation (UNESCO) called on governments to regulate the use of Generative Artificial Intelligence (GenAI) in education and research."
+    publishedDateTime: 2023-09-08T14:25:00Z
+    webUrl: "https://www.onmanorama.com/news/world/2023/09/08/disadvantages-of-chatgpt-genai.html"
+    type: article
+    provider:
+      name: onmanorama
+      domain: onmanorama.com
+    quality: 39
+    images:
+      - url: "https://img.onmanorama.com/content/dam/mm/en/news/world/images/2023/9/8/chatgpt-onmanorama.jpg"
+        width: 1248
+        height: 650
+        isCached: true
   - title: "Tencent unveils large language model"
     excerpt: "Tencent Holdings, a leading homegrown technology company, debuted its much-awaited universal large language model Hunyuan on Thursday, as Chinese enterprises strive to gain a foothold in the global artificial intelligence race."
     publishedDateTime: 2023-09-08T01:23:00Z

@@ -30,168 +30,169 @@ images:
     isCached: true
 
 related:
-  - title: "What technology analysts are saying about the future of generative AI"
-    excerpt: "According to 2023 research, most people are concerned about the implications of generative AI on data security, ethics, and bias. In fact, 81% of customers want a human to be in the loop, reviewing and validating generative AI outputs. A mere 37% of ..."
-    publishedDateTime: 2023-09-08T08:36:00Z
-    webUrl: "https://www.zdnet.com/article/what-analyst-are-saying-about-the-future-of-generative-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/what-analyst-are-saying-about-the-future-of-generative-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-analyst-are-saying-about-the-future-of-generative-ai/"
+  - title: "IBM unveils generative AI foundation models"
+    excerpt: "IBM Granite series foundation models apply generative AI to natural language and coding tasks. Plus, Watsonx generative AI capabilities are coming to the Watsonx data lakehouse."
+    publishedDateTime: 2023-09-07T22:14:00Z
+    webUrl: "https://www.infoworld.com/article/3706449/ibm-unveils-generative-ai-foundation-models.html"
+    ampWebUrl: "https://www.infoworld.com/article/3706449/ibm-unveils-generative-ai-foundation-models.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706449/ibm-unveils-generative-ai-foundation-models.amp.html"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: InfoWorld
+      domain: infoworld.com
     quality: 89
     images:
-      - url: "https://www.zdnet.com/a/img/resize/2f08899a4acb2e57b5ed4ba56a04c7532b14368f/2023/09/07/f61c50b3-818b-46f4-b2f4-d50361e42604/gettyimages-1648872451.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/09/06/11/shutterstock_editorial_157995017-100945577-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 675
         isCached: true
-  - title: "AI is great at coding, but there are some massive caveats"
-    excerpt: "Creating and testing code at the touch of a button through generative artificial intelligence (AI) models, such as GitHub CoPilot or ChatGPT, almost seems too good to be true. So good, in fact, that there has to be a catch."
-    publishedDateTime: 2023-09-07T16:10:00Z
-    webUrl: "https://www.zdnet.com/article/ai-is-great-at-coding-but-there-are-some-massive-caveats/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-is-great-at-coding-but-there-are-some-massive-caveats/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-is-great-at-coding-but-there-are-some-massive-caveats/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/66f422e98f107a6ec4cc4ae71fdc9c011b9170da/2023/09/07/837973ac-6fdc-438c-bd08-86bf4aafff69/gettyimages-1243560129.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The Amazing Ways Coca-Cola Uses Generative AI In Art And Advertising"
-    excerpt: "Discover how Coca-Cola is revolutionizing the worlds of art and advertising with generative AI, blending human creativity with machine intelligence for stunning campaigns"
-    publishedDateTime: 2023-09-08T05:20:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/09/08/the-amazing-ways-coca-cola-uses-generative-ai-in-art-and-advertising/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/09/08/the-amazing-ways-coca-cola-uses-generative-ai-in-art-and-advertising/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/09/08/the-amazing-ways-coca-cola-uses-generative-ai-in-art-and-advertising/amp/"
+  - title: "Zoom Unveils New AI Companion Features"
+    excerpt: "Zoom AI Companion. Zoom. This week, Zoom announced its new AI Companion, a suite of generative AI (GAI) tools available at no additional cost to paid Zoom subscribers. Zoom’s fi"
+    publishedDateTime: 2023-09-08T15:04:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2023/09/08/zoom-unveils-new-ai-companion-features/"
+    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/09/08/zoom-unveils-new-ai-companion-features/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/09/08/zoom-unveils-new-ai-companion-features/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64faaf12b127c5b16f73b636/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64fb3648234c67893773b636/0x0.png?format=png&width=1200"
+        width: 480
+        height: 254
         isCached: true
-  - title: "Three Ways To Prepare For The AI-Enabled Future"
-    excerpt: "Technically speaking, AI can and probably will replace many professions. Compared to a human, AI is faster and smarter. AI can complete a task in seconds that would take a human artist weeks. When creating text, AI-generated content may still need editing or proofreading today, but give it time."
-    publishedDateTime: 2023-09-08T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/08/three-ways-to-prepare-for-the-ai-enabled-future/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/08/three-ways-to-prepare-for-the-ai-enabled-future/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/08/three-ways-to-prepare-for-the-ai-enabled-future/amp/"
+  - title: "Generative AI Generation Gap: 70% Of Gen Z Use It While Gen X, Boomers Don’t Get It"
+    excerpt: "Americans who use generative AI use it for work and 70% of Gen Z uses new generative AI technologies, according to a new 4,000-person survey."
+    publishedDateTime: 2023-09-09T20:28:00Z
+    webUrl: "https://www.forbes.com/sites/johnkoetsier/2023/09/09/generative-ai-generation-gap-70-of-gen-z-use-it-while-gen-x-boomers-dont-get-it/"
+    ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2023/09/09/generative-ai-generation-gap-70-of-gen-z-use-it-while-gen-x-boomers-dont-get-it/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/09/09/generative-ai-generation-gap-70-of-gen-z-use-it-while-gen-x-boomers-dont-get-it/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 81
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/60a3d454598e7ff4af15615b/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64fcd4ddbff0fa87a61a5633/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "Move over AI, quantum computing will be the most powerful and worrying technology"
-    excerpt: "While short-term projections about quantum computing might be overhyped, the long-term outcomes are likely to be game-changing."
-    publishedDateTime: 2023-09-10T23:07:00Z
-    webUrl: "https://venturebeat.com/programming-development/move-over-ai-quantum-computing-will-be-the-most-powerful-and-worrying-technology/"
+  - title: "Ant Unveils AI Language Model for Wealth Management, Insurance"
+    excerpt: "Ant Group Co. unveiled an artificial intelligence tool to use for wealth management and insurance services, joining the race for next-generation AI."
+    publishedDateTime: 2023-09-08T08:06:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-09-08/ant-unveils-ai-language-model-for-wealth-management-insurance"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 49
+  - title: "Hiber unveils generative AI for 3D world creation"
+    excerpt: "Hiber announced an upgrade of its 3D world creation tools with the integration of generative AI that makes it a lot easier to build worlds."
+    publishedDateTime: 2023-09-08T13:30:00Z
+    webUrl: "https://venturebeat.com/games/hiber-unveils-generative-ai-for-3d-world-creation/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 66
+    quality: 47
+  - title: "Emagia Introduces GiaGPT: A Groundbreaking Generative AI Solution for Finance Operations"
+    excerpt: "Sept. 6, 2023 -- Today, Emagia, a leading innovator in Autonomous Finance solutions, announced the launch of GiaGPT, their latest Generative AI solution tailored for finance operations executives."
+    publishedDateTime: 2023-09-08T15:38:00Z
+    webUrl: "https://www.cfo.com/press-release/20230908-emagia-introduces-giagpt-a-groundbreaking-generative-ai-solution-for-finan/"
+    type: article
+    provider:
+      name: CFO
+      domain: cfo.com
+    quality: 45
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/annevb_quantum_sensors_and_robotics._Colorful_futuristic_tech_81265ed8-1888-44a7-b3de-91845c435505.png?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "http://res.cloudinary.com/dmgi9movl/image/upload/v1694184122/press_release/assets/header_images/giagpt-banner_marfrb.png"
+        width: 1500
+        height: 700
         isCached: true
-  - title: "What to know about Congress’s inaugural AI meeting"
-    excerpt: "We’re going to be hearing a lot about various plans and positions on AI regulation in the coming weeks."
-    publishedDateTime: 2023-09-11T08:08:00Z
-    webUrl: "https://www.technologyreview.com/2023/09/11/1079244/what-to-know-congress-ai-insight-forum-meeting/"
-    ampWebUrl: "https://www.technologyreview.com/2023/09/11/1079244/what-to-know-congress-ai-insight-forum-meeting/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/11/1079244/what-to-know-congress-ai-insight-forum-meeting/amp/"
+  - title: "Generative AI will supersede 2.4 million US jobs by 2030"
+    excerpt: "Furthermore, Generative AI intends to make up nearly 30 percent of the jobs lost to automation by 2030. “Generative AI will make up a growing percentage of all US jobs lost to automation and AI, climbing from 9.3 percent of jobs lost to automation and AI overall in 2023 to 30.4 percent by 2030,” the report noted."
+    publishedDateTime: 2023-09-07T20:33:00Z
+    webUrl: "https://interestingengineering.com/culture/ai-supersede-24-million-jobs-2030"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/09/GettyImages-1651323207.jpeg?w=3000"
-        width: 3000
-        height: 1687
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/09/07/image/jpeg/i1FDGBOUInzoZnIP8WIcEeh7dyJGTVDWv5YMndVe.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "AI, Liquid Cooling And The Data Center Of The Future"
-    excerpt: "Challenges exist to scaling AI, and among the most significant are those involving the data center infrastructure necessary for supporting these workloads."
-    publishedDateTime: 2023-09-11T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/ai-liquid-cooling-and-the-data-center-of-the-future/"
+  - title: "5 AI tools to automate passive income generation"
+    excerpt: "Learn how you can automate passive income generation using a variety of different AI tools currently available. Benefit from the technology"
+    publishedDateTime: 2023-09-10T10:27:00Z
+    webUrl: "https://www.geeky-gadgets.com/automate-passive-income/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "Scientists Are Beginning to Learn the Language of Bats and Bees Using AI"
-    excerpt: "They record sound 24-7 and create oodles of data, which is where artificial intelligence comes in. Researchers can apply natural language processing algorithms like the ones used by Google translate to detect patterns in these recordings and begin to ..."
-    publishedDateTime: 2023-09-11T14:00:00Z
-    webUrl: "https://www.scientificamerican.com/podcast/episode/scientists-are-beginning-to-learn-the-language-of-bats-and-bees-using-ai/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 38
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
     images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/DE4595F2-0F18-4036-A1784E999D4D9485.gif"
-        width: 790
-        height: 496
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/5-AI-tools-to-generate-passive-income-streams.jpg"
+        width: 700
+        height: 466
         isCached: true
-  - title: "Unlocking creativity with AI in the future workforce"
-    excerpt: "Generative AI is transforming digital content production, offering new tools that enhance the capabilities of creative professionals, as well as those not typically involved in creative roles. This fundamental shift will influence the future of work across all industries, according to software company Adobe."
-    publishedDateTime: 2023-09-07T21:29:00Z
-    webUrl: "https://www.theaustralian.com.au/sponsored/zXktpQXeYeY6d5YQxjrx/unlocking-creativity-with-ai-in-the-future-workforce/"
+  - title: "SoftServe Launches Generative AI Lab"
+    excerpt: "Specialized lab expands SoftServe’s AI/ML capabilities to accelerate Generative AI value discovery and real-world adoption SINGAPORE - Media OutReach - 12 September 2023 - SoftServe , a premier IT consulting and digital services provider,"
+    publishedDateTime: 2023-09-12T02:25:00Z
+    webUrl: "https://www.asiaone.com/business/softserve-launches-generative-ai-lab"
     type: article
     provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 19
-  - title: "State laws are putting AI in the driver’s seat"
-    excerpt: "Are you riding alongside driverless vehicles in your state? TruckInfo.net analyzed legislation across the U.S. to make sense of the range of laws."
-    publishedDateTime: 2023-09-11T16:30:00Z
-    webUrl: "https://www.miamiherald.com/news/business/article279208249.html"
+      name: Asia One
+      domain: asiaone.com
+    quality: 39
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Sep2023/404637-SoftServe-Logo-2-jpg-1200.jpeg?h=bde28bee&itok=VFcdKfYN"
+        width: 600
+        height: 316
+        isCached: true
+  - title: "IBM debuts Granite series of hardware-efficient language models"
+    excerpt: "The Granite series is rolling out to watsonx.ai alongside two open-source AI models. The first is Llama-2, a general-purpose large language model from Meta Platforms Inc. IBM is also adding StarCoder, a neural network optimized for programming tasks that ServiceNow Inc. and Hugging Face Inc. released in May."
+    publishedDateTime: 2023-09-07T17:52:00Z
+    webUrl: "https://siliconangle.com/2023/09/07/ibm-debuts-granite-series-hardware-efficient-language-models/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 26
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Watsonx.png"
+        width: 718
+        height: 400
+        isCached: true
+  - title: "Emagia Introduces GiaGPT: A Groundbreaking Generative AI Solution for Finance Operations"
+    excerpt: "Hyderabad (Telangana) [India], September 11: Today, Emagia, a leading innovator in Autonomous Finance solutions, announced the launch of GiaGPT, their latest Generative AI solution tailored for finance operations executives."
+    publishedDateTime: 2023-09-11T14:14:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20230911/4118006.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 25
+  - title: "AVIA’s National Generative AI Collaborative Announces New Experts, Enhanced Health System Participation"
+    excerpt: "The Generative AI Strategic Collaborative reveals a slate of 10 clinical, ethics, technology, and regulatory experts for its national consortium"
+    publishedDateTime: 2023-09-07T16:04:00Z
+    webUrl: "https://www.kansascity.com/press-releases/article279063044.html"
+    type: article
+    provider:
+      name: Kansas City Star
+      domain: kansascity.com
+    quality: 3
+  - title: "AVIA’s National Generative AI Collaborative Announces New Experts, Enhanced Health System Participation"
+    excerpt: "The Generative AI Strategic Collaborative reveals a slate of 10 clinical, ethics, technology, and regulatory experts for its national consortium"
+    publishedDateTime: 2023-09-07T17:04:00Z
+    webUrl: "https://www.miamiherald.com/press-releases/article279063044.html"
     type: article
     provider:
       name: Miami Herald
       domain: miamiherald.com
-    quality: 19
-  - title: "The Download: combating covid, and the challenges of governing AI"
-    excerpt: "Deciding how to regulate AI is one of the biggest challenges facing politicians and experts alike. On September 12 we’re holding the second MIT Technology Review Roundtable: a 30-minute conversation with our writers and editors—and this one’s all about governing AI."
-    publishedDateTime: 2023-09-08T12:10:00Z
-    webUrl: "https://www.technologyreview.com/2023/09/08/1079233/the-download-combating-covid-and-the-challenges-of-governing-ai/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 17
-  - title: "Gathering the news for the AI-powered future"
-    excerpt: "The bottom line: AI-generated news content is coming. The death toll from the powerful earthquake that hit Morocco late Friday surpassed 2,000 on Saturday as rescue workers raced to find survivors, state media reported, citing the country's Interior Ministry."
-    publishedDateTime: 2023-09-10T13:02:00Z
-    webUrl: "https://www.axios.com/2023/09/10/infobot-ai-news"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 17
-  - title: "MLCommons Releases New MLPerf Results that Highlight Growing Importance of Generative AI and Storage"
-    excerpt: "Submitters include: ASUSTeK, Azure, cTuning, Connect Tech ... and optimizing storage for machine learning applications, as well as for designing next-generation systems and technologies. Training neural networks is both a compute and data-intensive ..."
-    publishedDateTime: 2023-09-11T16:29:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230911417519/en/MLCommons-Releases-New-MLPerf-Results-that-Highlight-Growing-Importance-of-Generative-AI-and-Storage"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 4
+    quality: 3
 
 secured: "7DhoQVWMMiinxjeNeZs9qLsw/j5pTa4XS4TsSw3v7b9itzMCFGU6aBwqwd17PUO5YAh8Haeep1Nen3r7KdRV7WKelYeiNOA9y/l/HctJ8SQuBLUJyOQPHCYw9jvXVxFyUX94+nMXwzoXHPmDsRZwiW8x/L8cqgismuBMqvT5b2K85hIIvLJ2q6HznjI6u0QBYWkTdu9fg6uB5I0BD0mstr61P7ZASpSLqZkKgEJibt8RsF0S2ILHSvUB/6ZBD0Cu7kXrYvJpWGSgmWwyoLxxmHAETMUxLdYzzY3DwaHN6Cl1fL29FvhZ5zRosr+Rhoeda84ZK5V0ReJDY8cofdYr+yKHhYxfeCjMUAK9l8kDaqnNa3JGlcpzIeD1cnbwUCcZO2A3/VX7+xu98pedw2CrRHrNFN1EuavnX3TRGpoV78Q3SGpth2yVNSKfv7N5ToWycQS2cpd/F96kv3arll5HXPoOMlZe4TsYvX3G+nSr4z6qnqKBEjQdE3ZUI80+gV81LBcqRuL5juaABfXB0BMekA==;YrFeQQngPwjAFpQnYBTnsw=="
 ---

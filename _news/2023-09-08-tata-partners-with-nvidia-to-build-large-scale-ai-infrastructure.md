@@ -42,6 +42,15 @@ related:
       name: The New York Times
       domain: nytimes.com
     quality: 47
+  - title: "5 steps for assembling AI-driven business teams"
+    excerpt: "We used OpenAI’s ChatGPT to assemble an AI-driven team: the results obtained were solid, and the evidence was clear."
+    publishedDateTime: 2023-09-08T17:59:00Z
+    webUrl: "https://techcrunch.com/2023/09/08/5-steps-for-assembling-ai-driven-business-teams/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
 
 secured: "3ddMctnRa0sjuOnDPthJzMEO0PP9AVVRBGNOtIYrRD5WHX4thOB4jeVZZoSm95C4SJmfs8VN0rL8vtZfwhdVmafM75OFWr5/cm8d60zyjhJEnO2BuXmAJyECwkTRZUPWdUrouoVc9aGA1Ir9enSxbz8RI4ffuV6gYnYOewa9wg/+XwrqvcvxTHj3drXYWWSoOoQc7CcLQ5GDY+xQMe+grYoRpdwcbqQ3L1YJcR9ibCV0mpE7noHLP9MEtuCxv4qJtkb8qnbpp+uaau5UvW47uEzRRrgfRS+MFXCzsyCun6aSpiV2a40peHOoAJ72spQdKO3pSiuO6L/UEqkdiBj5lkDKdOZrhXs7oXQsiQDFixA=;WvxKF90gGaYX3FwGzYt5Ng=="
 ---

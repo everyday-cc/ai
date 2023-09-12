@@ -28,103 +28,88 @@ images:
     isCached: true
 
 related:
-  - title: "Building AI for business: IBM’s Granite foundation models"
-    excerpt: "Explore IBM's Granite foundation models, from how we built them to how they can help you further apply generative AI in your business.\nThe post Building AI for business: IBM&#8217;s Granite foundation models appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-09-07T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/building-ai-for-business-ibms-granite-foundation-models/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
-  - title: "IBM rolls out new generative AI features and models"
-    excerpt: "detect model bias and drift and help organizations meet ethics standards. And starting next week, IBM will launch Intelligent Remediation, which the company says will leverage generative AI models to assist IT teams with summarizing incidents and ..."
-    publishedDateTime: 2023-09-07T13:00:00Z
-    webUrl: "https://techcrunch.com/2023/09/07/ibm-rolls-out-new-generative-ai-features-and-models/"
-    ampWebUrl: "https://techcrunch.com/2023/09/07/ibm-rolls-out-new-generative-ai-features-and-models/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/07/ibm-rolls-out-new-generative-ai-features-and-models/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1127480719.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "IBM unveils generative AI foundation models"
-    excerpt: "IBM Granite series foundation models apply generative AI to natural language and coding tasks. Plus, Watsonx generative AI capabilities are coming to the Watsonx data lakehouse."
-    publishedDateTime: 2023-09-07T22:14:00Z
-    webUrl: "https://www.infoworld.com/article/3706449/ibm-unveils-generative-ai-foundation-models.html"
-    ampWebUrl: "https://www.infoworld.com/article/3706449/ibm-unveils-generative-ai-foundation-models.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706449/ibm-unveils-generative-ai-foundation-models.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/09/06/11/shutterstock_editorial_157995017-100945577-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How to Hire an Ideal Azure Cloud Engineer for your business?"
-    excerpt: "The annual growth rates of Google Cloud Platform (GCP) and Azure Management Services (AMS) are almost twice as high as those of Amazon Web Services (AWS), according to CB Insight. Microsoft statistics show that 95% of Fortune 500 businesses rely on and utilize Azure Managed Services."
-    publishedDateTime: 2023-09-08T11:15:00Z
-    webUrl: "https://securityboulevard.com/2023/09/how-to-hire-an-ideal-azure-cloud-engineer-for-your-business/"
-    ampWebUrl: "https://securityboulevard.com/2023/09/how-to-hire-an-ideal-azure-cloud-engineer-for-your-business/amp/"
-    cdnAmpWebUrl: "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2023/09/how-to-hire-an-ideal-azure-cloud-engineer-for-your-business/amp/"
-    type: article
-    provider:
-      name: Security Boulevard
-      domain: securityboulevard.com
-    quality: 59
-    images:
-      - url: "https://peoplactive.com/wp-content/uploads/2023/09/main-banner-1.jpg"
-        width: 1920
-        height: 671
-        isCached: true
-  - title: "How To Use AI To Your Business’s Advantage"
-    excerpt: "When incorporated wisely, AI technologies open new horizons for delivering products that stand out on the market and bring unique value to your customers."
-    publishedDateTime: 2023-09-11T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/how-to-use-ai-to-your-businesss-advantage/"
+  - title: "A Vision Of AI-Enhanced Test Automation"
+    excerpt: "To further increase testing precision, one could employ feature recognition bolstered by computer vision libraries that can categorize and identify UI elements within application screenshots. Convolutional neural networks (CNNs) step in, classifying ..."
+    publishedDateTime: 2023-09-11T11:16:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/a-vision-of-ai-enhanced-test-automation/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/a-vision-of-ai-enhanced-test-automation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/11/a-vision-of-ai-enhanced-test-automation/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 49
-  - title: "5 steps for assembling AI-driven business teams"
-    excerpt: "We used OpenAI’s ChatGPT to assemble an AI-driven team: the results obtained were solid, and the evidence was clear."
-    publishedDateTime: 2023-09-08T17:59:00Z
-    webUrl: "https://techcrunch.com/2023/09/08/5-steps-for-assembling-ai-driven-business-teams/"
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/632dbc560496916bbddd5385/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "artec technologies AG: New development of AI-based speech recognition with integrated translation function"
+    excerpt: "Diepholz - September 11, 2023 - artec technologies AG, a provider of audiovisual solutions for media monitoring, sets new standards in the industry with its latest development: an AI-driven, multilingual speech recognition (Speech-to-text, S2T) with integrated translation function."
+    publishedDateTime: 2023-09-11T16:28:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/ab34448580/artec-technologies-ag-new-development-of-ai-based-speech-recognition-with-integrated-translation-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34448580"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34448580"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
-  - title: "AI-generated music used for business branding"
-    excerpt: "This is an example of AI-generated music, created by amp's Sonic Hub tool using 'Sonic DNA', which was composed for a finance client."
-    publishedDateTime: 2023-09-11T19:26:00Z
-    webUrl: "https://www.bbc.com/news/av/business-66781641"
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 56
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "How Edge AI Enhances Video Surveillance"
+    excerpt: "This website uses cookies to enhance your browsing experience and serve personalized content. Privacy Policy"
+    publishedDateTime: 2023-09-07T14:50:00Z
+    webUrl: "https://www.securityinfowatch.com/video-surveillance/video-analytics/article/53069691/how-edge-ai-enhances-video-surveillance"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 47
-  - title: "How to build an AI Agent run virtual business"
-    excerpt: "If you have interested in fully automating workflows using artificial intelligence you might be interested in ... the datasets ensure that the project remains open for academic and research use. These licenses also stipulate the boundaries for usage ..."
-    publishedDateTime: 2023-09-09T09:16:00Z
-    webUrl: "https://www.geeky-gadgets.com/build-an-ai-agent-run-virtual-business/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
+      name: Security
+      domain: securityinfowatch.com
     quality: 39
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/How-to-build-an-AI-Agent-run-virtual-business.jpg"
-        width: 700
-        height: 466
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/08/16x9/GettyImages_1379911617.64e8c2d440239.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Crafting persuasion: mastering compelling arguments in the age of AI and the video generation"
+    excerpt: "Stratton Horres and Karen L. Bashor of Wilson Elser provide tips on combining AI and video evidence with the human connection in trial presentations, and opening and closing arguments."
+    publishedDateTime: 2023-09-07T17:29:00Z
+    webUrl: "https://www.reuters.com/legal/legalindustry/crafting-persuasion-mastering-compelling-arguments-age-ai-video-generation-2023-09-07/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 36
+  - title: "How Applied AI is Transforming the Future of Transportation: A Deep Dive into Self-Driving Cars"
+    excerpt: "Envision a world where commuting ceases to be a tiresome chore and instead becomes an opportunity for relaxation or productivity. In this vision, accidents are nearly eradicated, and traffic jams fade into the distant past."
+    publishedDateTime: 2023-09-11T16:12:00Z
+    webUrl: "https://techbullion.com/how-applied-ai-is-transforming-the-future-of-transportation-a-deep-dive-into-self-driving-cars/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 27
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/09/Untitled-design-2023-09-11T171123.595.png"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "U. community discusses integration of AI into academic, points to opportunities for innovation"
+    excerpt: "Provost Francis J. Doyle III identified the intersection of artificial intelligence and higher education as a University priority in an Aug. 31 letter to the community titled “Potential impact of AI on our academic mission."
+    publishedDateTime: 2023-09-11T01:01:00Z
+    webUrl: "https://www.browndailyherald.com/article/2023/09/u-community-discusses-integration-of-ai-into-academic-points-to-opportunities-for-innovation"
+    type: article
+    provider:
+      name: The Brown Daily Herald
+      domain: browndailyherald.com
+    quality: 27
+    images:
+      - url: "https://snworksceo.imgix.net/bdh/e5fe520b-9661-4b62-97b0-0aca8c65a60b.sized-1000x1000.jpg?w=800&dpr=2&ar=16%3A9&fit=crop&crop=faces"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "RPFj2GGSsgiyreeGmscZ7Uh72gDDt1LY7vRofndTccUwRxZX7YlV52+Eqrg4UJvS+4g9NFsiX/O8jfg1S5GKaW0eyTP0crUQSm07M3LQzpF+rblKyZAp1r39Jk+lDoWTX8EnZ7bse77olHIhwOpHNMxhOengCcbx5JjnSfqEcQ1Sa5C0yGKynqlGtvHzkFgLf2dmS8Cz8j28EP61bNPG4MjSvj7Y+kC5X2L9e82VNn7+GaIirOMtMN+XDyxM3rHKIuD9Q1Uf04ENlji0wkJMWV+WahP6IevCIgRKLq3b5jFmbxWCjo+9N/GaIS/eJcA+8sdeRpnpFt2TXcGKk19YKlzqGYy/h7fmgAFUqey16Nw62giIv40JC1cpOiIHBPdD8PtfjQxzx6Tj5EOYJEi6PxHG8gF8kOFi+Ya1ssqfqJyPins11IP+YhAORpdGPZelrmVvSHw23nfPt1jLBitOSv0nSpHAQKwLPWyImHq/RxwUJzsVfr1RkchKnWQHEnL45RUCrPRvNqIFsk/c9L5CDg==;tloHwYbEtZwURYhIbxIBLQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/unesco-trains-indonesian-teachers-on-
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/unesco-trains-indonesian-teachers-on-ai-ethics/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "UNESCO trains Indonesian Teachers on AI Ethics"
-    excerpt: "On 23-24 August 2023, UNESCO held an Ethics Teachers Training Course (ETTC) focused on AI ethics in Yogyakarta, in collaboration with the University Gadjah Mada. The interactive event brought together 30 participants from various backgrounds and ..."
-    publishedDateTime: 2023-09-07T11:04:00Z
-    webUrl: "https://www.unesco.org/en/articles/unesco-trains-indonesian-teachers-ai-ethics"
-    type: article
-    provider:
-      name: UNESCO
-      domain: unesco.org
-    quality: 54
-    images:
-      - url: "https://www.unesco.org/sites/default/files/styles/best_image/article/2023-09/DSC08865.JPG?itok=7ESnS-fx"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Governments Must Quickly Regulate Generative Ai In Schools, Unesco"
     excerpt: "designed to address the disruptions caused by Generative AI technologies. Building on UNESCO's 2021 Recommendation on the Ethics of Artificial Intelligence and the 2019 Beijing Consenon Artificial Intelligence in Education , the guidance promotes human ..."
     publishedDateTime: 2023-09-08T19:43:00Z

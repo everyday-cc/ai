@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook Trains Its AI on Your Data. Opting Out May Be Futile"
-    excerpt: "Here's how to request that your personal information not be used to train Meta's AI model. \"Request\" is the operative word here."
-    publishedDateTime: 2023-09-07T12:00:00Z
-    webUrl: "https://www.wired.com/story/facebook-trains-ai-your-data-opt-out/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
-    images:
-      - url: "https://media.wired.com/photos/64f8e6ac3e1a7b4810e35758/191:100/w_1280,c_limit/Facebook-Trains-Its-AI-on-Your-Data.-Opting-Out-May-Be-Futile-Security-GettyImages-1408270724.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "A New Facebook Setting Tells Meta Not to Use Your Data for AI"
     excerpt: "Meta, the maker of Facebook and Instagram, introduced a new privacy setting Thursday that lets you ask, pretty please, for the company not to use your data to train its AI models. Buried in the ..."
     publishedDateTime: 2023-09-09T04:24:00Z

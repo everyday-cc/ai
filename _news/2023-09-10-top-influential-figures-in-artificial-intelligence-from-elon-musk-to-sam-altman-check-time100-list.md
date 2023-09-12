@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "TIME Reveals Inaugural TIME100 AI List of the World's Most Influential People in Artificial Intelligence"
-    excerpt: "The 2023 TIME100 AI issue features a worldwide cover with illustrations by Neil Jamieson for TIME, featuring 28 list-makers including Sam Altman of OpenAI, Dario and Daniela Amodei of Anthropic, Demis Hassabis of Google DeepMind, and more from the new list."
-    publishedDateTime: 2023-09-07T12:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/time-reveals-inaugural-time100-ai-list-of-the-world-s-most-influential-people-in-artificial-intelligence-1032612525"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "TIME reveals inclusive 'TIME100 AI' list — names usual suspects Elon Musk, Sam Altman... and more"
     excerpt: "The list also featured 18-year-old Sneha Revanur, who bats for ethical AI. Musicians like Grimes, renowned science fiction writer Ted Chiang, and Black Mirror creator Charlie Brooker also featured in the list."
     publishedDateTime: 2023-09-07T15:14:00Z
@@ -49,15 +40,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Woebot Health Founder, Alison Darcy, Named to 2023 TIME100 AI List, Recognizing the 100 Most Influential Individuals Advancing Artificial Intelligence"
-    excerpt: "Woebot Health is proud to announce that its Founder and President, Dr. Alison Darcy, has been named to the prestigious 2023 TIME100 AI list, an honor that recognizes the 100 most influential individuals who are advancing conversations about how Artificial Intelligence is reshaping the world. The announcement was made by TIME Magazine today."
-    publishedDateTime: 2023-09-07T13:13:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/09/07/9876768.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "rhB0C3+d8AqzvdcIaJJhUBASGE1LCjtXN53HdcCo2VKo1R5vNEcjDE4Q4WKtnO3zn2zgxvLca9oT4sQA2MYTvP5JmObWTt+hWHiz0FtIB1S85LDwytRXUpKv1JddtM2QycIBJ8XhlcLJO1ezBeQBqdPQyFhQoiJziS1aI+/z7WYDBdgdhVBOMwsFaV/mlIOWh2+Jc1FMwAvUuO/4f1ZtvF9LY9ouCKDIP63lDi68N+oRW5ee+mYUgRZ2nZCkFksc2Xsuc7+mHDp/U3RxuYWPu0mQD2KtqSKMDRRAMgoNecmLnFx/aCxi1GXaDVtAkR4VQFL0Q0nCFdJtfB5nHNN4eMc0i3qvsU1vccc4w9U2H6o=;KHHEjB7MtPDTBkFpgrQJpg=="
 ---

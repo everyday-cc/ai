@@ -24,17 +24,6 @@ images:
     height: 585
     isCached: true
 
-related:
-  - title: "Mobileye finds successful route to autonomous driving tech"
-    excerpt: "Rather than tie its fortunes to fully autonomous tech, Israeli tech supplier Mobileye has developed a two-pronged approach that relies on expertise in today's driver-assistance systems as a bridge to tomorrow's self-driving."
-    publishedDateTime: 2023-09-07T12:00:00Z
-    webUrl: "https://www.autonews.com/mobility-report/mobileye-ceo-amnon-sashuas-successful-route-automated-driving"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 4
-
-secured: "bMa5SpyiCmF+bOigAvrTl1ijKetyV/n68uDdGI5PIgXeY/tkV0Wz7Wu1Y1zh89sCP6fQRACJAF9iX7Ar1HzhnMJdE9bCJ0z/jyeTO+AMUfC+o6ac1ioJRFPosx2z0ZZLPKXAuYuMq9bmnctT7mddy3M++saj3APTG5IHk4aMXPShuxMCGFueXi02vIuvzlfuscwPVYUMOiVVSaa7hogmJs+nNeTGOtzeAX6elwKyoimKLUcLjgpFrENfK8oE69Ru5C36zmGGgxp9I5bkCsJX7JCYwL9SUHKK6hkI7yZiIWcnwvahqhz+z640JJG+YFR1/+VzCdwzC/wMCyqahD6tP6AYMfolS62ro+z52JMsCdw=;ZqCiesr62HGi9+AvuUpSCQ=="
+secured: "u/Jqf5FWZQW0JHmkzPaFVSq+pHuaF3WuHbY/VnCa/HWBbca43cGftspWo5kDhiOSe4lAocpn6yxWcAnpJCZ5HRohUtTfwrVpxavW4+3N7vjpPSFnuox1xl5HxLHLTVnFiSxJldXWOVvseBWqAeDm6nN0q0aBD+WaiIWs9mrvQd1o5hu1wgzvEQQ4JHgxpUMI29pobR/cSd5LDehGTwkwKWIIa879ARklYMdCUvy6Ji62z471pUinsg7qDHynMhuI77Rj0OnLn7/fzGvL9WWbL3oi35ID0QAJstgdSerYGZG9/HoGn1rhT/IYCc42rIrW+KUvG7giz8dkv46rlzAsAwxFzjsrK4N9yFS6HJigfZFjERIQHniBHn7kXfOdrvbRuatFJWCKQ4K/wMVtjFWywmY3dT/y/tiXkV5cwRjpDLxHxkxDQu6E3caHH5Ya3QQFC9UMuY3YHDFa0k5azgKypV3PB/WBZ9y9WFwtxhhBojj9+79vSDSHAFkkxscjhtVo2DAiRY9TrUjqRR487F8LQg==;mbplIHuoxpJSTk/7bD5Quw=="
 ---
 

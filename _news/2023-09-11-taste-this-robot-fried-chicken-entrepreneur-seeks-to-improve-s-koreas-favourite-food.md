@@ -75,6 +75,22 @@ related:
         width: 768
         height: 512
         isCached: true
+  - title: "Robot fried chicken: Entrepreneur seeks to improve South Korea's favourite food"
+    excerpt: "Kang, a 38-year-old entrepreneur, saw an opportunity to improve the fried chicken business model - and the dish itself"
+    publishedDateTime: 2023-09-12T05:15:00Z
+    webUrl: "https://tribune.com.pk/story/2435408/robot-fried-chicken-entrepreneur-seeks-to-improve-south-koreas-favourite-food"
+    ampWebUrl: "https://tribune.com.pk/story/2435408/robot-fried-chicken-entrepreneur-seeks-to-improve-south-koreas-favourite-food?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2435408/robot-fried-chicken-entrepreneur-seeks-to-improve-south-koreas-favourite-food?amp=1"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 55
+    images:
+      - url: "https://i.tribune.com.pk/media/images/8E238A71-880B-4E5D-8CCC-4E893E6CD0D51694495632-0/8E238A71-880B-4E5D-8CCC-4E893E6CD0D51694495632-0.jpeg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Robot fried chicken: Entrepreneur seeks to improve South Korea's favorite food"
     excerpt: "In fried-chicken-obsessed South Korea, restaurants serving the nation's favorite fast-food dish dot every street corner. But Kang Ji-young's establishment brings something a little different to the table: a robot is cooking the chicken."
     publishedDateTime: 2023-09-11T09:28:00Z

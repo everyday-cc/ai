@@ -25,45 +25,66 @@ images:
     isCached: true
 
 related:
-  - title: "Zoom Unveils New AI Companion Features"
-    excerpt: "Zoom AI Companion. Zoom. This week, Zoom announced its new AI Companion, a suite of generative AI (GAI) tools available at no additional cost to paid Zoom subscribers. Zoom’s fi"
-    publishedDateTime: 2023-09-08T15:04:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2023/09/08/zoom-unveils-new-ai-companion-features/"
-    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/09/08/zoom-unveils-new-ai-companion-features/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/09/08/zoom-unveils-new-ai-companion-features/amp/"
+  - title: "Europe In The Lead In AI Regulation"
+    excerpt: "Europe leads in AI regulation and the UK wants to be the locus of AI standards - if so it should locate its efforts in Northern Ireland."
+    publishedDateTime: 2023-09-09T06:49:00Z
+    webUrl: "https://www.forbes.com/sites/mikeosullivan/2023/09/09/europe-in-the-lead-in-ai-regulation/"
+    ampWebUrl: "https://www.forbes.com/sites/mikeosullivan/2023/09/09/europe-in-the-lead-in-ai-regulation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/09/09/europe-in-the-lead-in-ai-regulation/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64fb3648234c67893773b636/0x0.png?format=png&width=1200"
-        width: 480
-        height: 254
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64fc13766cd5e984ea1a562f/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 904
         isCached: true
-  - title: "Slack's New AI Feature Will Catch You Up on Work Conversations"
-    excerpt: "With Slack AI, in-app capabilities will include channel recaps that provide key highlights and one-click thread summaries that give you the gist of a thread. Another feature will be search answers, a question-and-answer feature that returns related messages, files, channels and an AI-generated summary."
-    publishedDateTime: 2023-09-09T13:09:00Z
-    webUrl: "https://www.cnet.com/tech/services-and-software/slacks-new-ai-feature-will-catch-you-up-on-work-conversations/"
+  - title: "How To Regulate Artificial Intelligence"
+    excerpt: "In summary, this approach to algorithmic regulation gives enumerated existing agencies access to new regulatory tools to control algorithms used in areas under their jurisdiction when the use of these algorithms poses a significant risk of substantial harm that the agency is empowered to prevent under its existing statute."
+    publishedDateTime: 2023-09-11T13:59:00Z
+    webUrl: "https://www.forbes.com/sites/washingtonbytes/2023/09/11/how-to-regulate-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/washingtonbytes/2023/09/11/how-to-regulate-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/washingtonbytes/2023/09/11/how-to-regulate-artificial-intelligence/amp/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.cnet.com/a/img/resize/c66165b74f6021d0782637aebf6aa6387fc41627/hub/2022/04/15/a4b504ed-a603-4f7b-be7b-f04269a18872/slack-logo-2022-236.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64ff1c3b731e9cb353f9e2c7/0x0.jpg?format=jpg&crop=1823,1026,x0,y91,safe&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Hiber unveils generative AI for 3D world creation"
-    excerpt: "Hiber announced an upgrade of its 3D world creation tools with the integration of generative AI that makes it a lot easier to build worlds."
-    publishedDateTime: 2023-09-08T13:30:00Z
-    webUrl: "https://venturebeat.com/games/hiber-unveils-generative-ai-for-3d-world-creation/"
+  - title: "California Joins the AI Regulation Frenzy"
+    excerpt: "California Gov. Gavin Newsom signs an executive order that calls for agencies to study how generative AI can help, and potentially hurt, California's economy."
+    publishedDateTime: 2023-09-07T21:51:00Z
+    webUrl: "https://www.pcmag.com/news/california-joins-the-ai-regulation-frenzy"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/02UrbFudsb8dgXt2l49YO4Q-2.fit_lim.size_1200x630.v1694123436.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Regulating AI is a mistake"
+    excerpt: "Although AI regulation will eventually be necessary, following Altman’s roadmap to regulate at such an early stage would be a mistake."
+    publishedDateTime: 2023-09-08T00:10:00Z
+    webUrl: "https://www.michigandaily.com/opinion/regulating-ai-is-a-mistake/"
+    type: article
+    provider:
+      name: The Michigan Daily
+      domain: michigandaily.com
+    quality: 41
+    images:
+      - url: "https://www.michigandaily.com/wp-content/uploads/2023/09/AI.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "State Legislatures Eye AI Regulation"
     excerpt: "The state plans to use this information to develop a robust AI ethics board and audit procedures to protect the rights of Vermont citizens amidst future AI developments. Industry-specific guidance has begun to emerge as well. For instance, many state ..."
     publishedDateTime: 2023-09-08T18:28:00Z

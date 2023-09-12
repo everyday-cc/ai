@@ -119,15 +119,6 @@ related:
       name: Searchenginejournal.com
       domain: searchenginejournal.com
     quality: 32
-  - title: "Soon UAE Will Dethrone OpenAI"
-    excerpt: "UAE’s Technological Innovation Institute (TII) yesterday released Falcon 180B, a highly scaled-up version of Falcon 40B."
-    publishedDateTime: 2023-09-07T12:20:00Z
-    webUrl: "https://analyticsindiamag.com/soon-uae-will-dethrone-openai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 19
 
 secured: "B6AKsyTcRnGY4mCbOW8CCfnbih8Vd6iP5y9YUQf3zi7o2J5AEIpwqygaI6X8rcpHdEScfV45DBODhFsjWpr+icGp1LnrXzFfH1vubF8yH0oDrLbcRbucdLMtrP/EPTni03TBoZhnwDo/zb1Jqkt4jirMChJ2euiePcNzbDOafLaQeS6UgoGaXP+P2sUBwzaZGrtgI/YXP/EoUG0bvkIWOwbAr9HSfWl+8k1hunJPBmFUWCh1QQ/Hc4tqvpNpsTuYz+I77RV3MqEMjRTHuQBEk/I7yhJ7OKP7+Imk4ok/U0YSAVz9ynjolBRK86sfvtjbNgx3XqGeQbNA8pHXGEj2m8QizzHV65Jh+/yAD/A2GcY=;Yalof9ciSXOy1SBmErjbKg=="
 ---

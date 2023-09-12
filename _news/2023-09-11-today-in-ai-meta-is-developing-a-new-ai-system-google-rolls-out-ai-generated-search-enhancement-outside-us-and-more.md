@@ -27,119 +27,125 @@ images:
     isCached: true
 
 related:
-  - title: "Meta is developing a new, more powerful AI system -WSJ"
-    excerpt: "Meta Platforms is working on a new artificial-intelligence system intended to be as powerful as the most advanced model offered by OpenAI, the Wall Street Journal reported on Sunday, citing people familiar with the matter."
-    publishedDateTime: 2023-09-10T20:13:00Z
-    webUrl: "https://www.reuters.com/technology/meta-is-developing-new-more-powerful-ai-system-wsj-2023-09-10/"
+  - title: "Politics and AI: Google to require artificial intelligence disclosures on ads"
+    excerpt: "Google is the first tech company to require an AI disclosure, Politico reported. The Federal Election Commission has yet to regulate if and when AI can be used in campaigns, but in August it agreed to seek public comment on whether to make updates to its policies to include AI advertisements."
+    publishedDateTime: 2023-09-07T23:41:00Z
+    webUrl: "https://www.kiro7.com/news/trending/politics-ai-google-require-artificial-intelligence-disclosures-ads/D33TEJ2I5NE4NNAWQMRQKJAMAA/"
+    ampWebUrl: "https://www.kiro7.com/news/trending/politics-ai-google-require-artificial-intelligence-disclosures-ads/D33TEJ2I5NE4NNAWQMRQKJAMAA/?outputType=amp"
+    cdnAmpWebUrl: "https://www-kiro7-com.cdn.ampproject.org/c/s/www.kiro7.com/news/trending/politics-ai-google-require-artificial-intelligence-disclosures-ads/D33TEJ2I5NE4NNAWQMRQKJAMAA/?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: KIRO-TV
+      domain: kiro7.com
+    quality: 69
+    images:
+      - url: "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/7InCH-vu-cPef2OtufK0V-lZnNQ=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/74ROHO3S3JDAVCBSNLZYGZ5DME.jpg"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Google to Require Political Ads to Disclose If They Are AI-Generated"
+    excerpt: "The company rolls out the policy as some US political groups have sponsored AI-generated ads for the upcoming election season."
+    publishedDateTime: 2023-09-07T17:03:00Z
+    webUrl: "https://www.pcmag.com/news/google-to-require-political-ads-to-disclose-if-they-are-ai-generated"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
     quality: 67
     images:
-      - url: "https://www.reuters.com/resizer/GxcCqkTOYEBLp3n3AwPZzikNBmo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AFO2TSIYMZOXTGDHCLFWN2IQCA.jpg"
-        width: 1200
-        height: 628
+      - url: "https://i.pcmag.com/imagery/articles/03WwWLDQGzRHmNCIO7S4lYY-1.fit_lim.size_1200x630.v1694099631.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Meta Is Developing a New, More Powerful AI System as Technology Race Escalates"
-    excerpt: "Parent of Facebook and Instagram wants artificial-intelligence system to be as capable as OpenAI’s most advanced model."
-    publishedDateTime: 2023-09-10T20:01:00Z
-    webUrl: "https://www.wsj.com/tech/ai/meta-is-developing-a-new-more-powerful-ai-system-as-technology-race-escalates-decf9451"
+  - title: "Amazon Now Requires Authors to Disclose AI-Generated Content"
+    excerpt: "After complaints from the Authors Guild and others, Amazon is now requiring writers to disclose the use of AI, though it's not yet publicly identifying those books in its marketplace."
+    publishedDateTime: 2023-09-09T17:29:00Z
+    webUrl: "https://www.pcmag.com/news/amazon-starts-requiring-writers-to-disclose-ai-generated-content"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 63
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
     images:
-      - url: "https://images.wsj.net/im-849561/social"
-        width: 1280
-        height: 640
+      - url: "https://i.pcmag.com/imagery/articles/05fDpqPt4Tw50fbQCuGXvAr-1.fit_lim.size_1200x630.v1694278993.jpg"
+        width: 1120
+        height: 630
         isCached: true
-  - title: "Meta is developing a new, more powerful AI system: Report"
-    excerpt: "Llama 2 is Meta's open source AI language model launched in July, and distributed by Microsoft's cloud Azure services to compete with OpenAI's ChatGPT and Google's Bard."
-    publishedDateTime: 2023-09-11T02:07:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/meta-is-developing-a-new-more-powerful-ai-system-report/103563732"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/meta-is-developing-a-new-more-powerful-ai-system-report/103563732"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/meta-is-developing-a-new-more-powerful-ai-system-report/103563732"
+  - title: "AI used to alter imagery or sounds in political ads will require prominent disclosure on Google"
+    excerpt: "(AP) - Google will soon require that political ads using artificial intelligence be accompanied by a prominent disclosure if imagery or sounds have been synthetically altered."
+    publishedDateTime: 2023-09-07T15:42:00Z
+    webUrl: "https://www.mysuncoast.com/2023/09/07/ai-used-alter-imagery-or-sounds-political-ads-will-require-prominent-disclosure-google/"
+    ampWebUrl: "https://www.mysuncoast.com/2023/09/07/ai-used-alter-imagery-or-sounds-political-ads-will-require-prominent-disclosure-google/?outputType=amp"
+    cdnAmpWebUrl: "https://www-mysuncoast-com.cdn.ampproject.org/c/s/www.mysuncoast.com/2023/09/07/ai-used-alter-imagery-or-sounds-political-ads-will-require-prominent-disclosure-google/?outputType=amp"
     type: article
     provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 59
+      name: WWSB
+      domain: mysuncoast.com
+    quality: 47
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-103563732,imgsize-59692,width-1200,height=765,overlay-ettelecom/internet/meta-is-developing-a-new-more-powerful-ai-system-report.jpg"
-        width: 1200
-        height: 765
+      - url: "https://gray-wwsb-prod.cdn.arcpublishing.com/resizer/0fvrw_eCnvDh0Gck22UJeFUp0bk=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/XLKFL55KTFH4HEAJ2NOMY7XY3I.jpg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "Meta is developing a new, more powerful AI system"
-    excerpt: "Meta: The Facebook parent is aiming for its new AI model to be ready next year, the Journal said, adding it will be several times more powerful than its commercial version dubbed Llama 2."
-    publishedDateTime: 2023-09-11T07:39:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/meta-is-developing-a-new-more-powerful-ai-system/103569344"
-    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/meta-is-developing-a-new-more-powerful-ai-system/103569344"
-    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/meta-is-developing-a-new-more-powerful-ai-system/103569344"
+  - title: "AI used to alter imagery or sounds in political ads will require prominent disclosure on Google"
+    excerpt: "(AP) - Google will soon require that political ads using artificial intelligence be accompanied by a prominent disclosure if imagery or sounds have been synthetically altered."
+    publishedDateTime: 2023-09-07T18:42:00Z
+    webUrl: "https://www.nbc11news.com/2023/09/07/ai-used-alter-imagery-or-sounds-political-ads-will-require-prominent-disclosure-google/"
+    ampWebUrl: "https://www.nbc11news.com/2023/09/07/ai-used-alter-imagery-or-sounds-political-ads-will-require-prominent-disclosure-google/?outputType=amp"
+    cdnAmpWebUrl: "https://www-nbc11news-com.cdn.ampproject.org/c/s/www.nbc11news.com/2023/09/07/ai-used-alter-imagery-or-sounds-political-ads-will-require-prominent-disclosure-google/?outputType=amp"
     type: article
     provider:
-      name: brandequity.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 59
+      name: KKCO
+      domain: nbc11news.com
+    quality: 47
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-103569344,imgsize-7254,width-1200,height=765,overlay-etbrandequity/digital/meta-is-developing-a-new-more-powerful-ai-system.jpg"
-        width: 1200
-        height: 765
+      - url: "https://gray-kkco-prod.cdn.arcpublishing.com/resizer/rzzSW2P3kdbmYsKW-ZnJwtFSrww=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/7VV4MOJ4QZBBJGCIIXCM52PV2M.jpg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "Meta is developing a new, more powerful AI system, Wall Street Journal reports"
-    excerpt: "Meta Platforms (META.O) is working on a new artificial-intelligence system intended to be as powerful as the most advanced model offered by OpenAI, the Wall Street Journal reported on Sunday, citing people familiar with the matter."
-    publishedDateTime: 2023-09-11T03:04:00Z
-    webUrl: "https://www.emirates247.com/technology/meta-is-developing-a-new-more-powerful-ai-system-wall-street-journal-reports-2023-09-11-1.722506"
-    ampWebUrl: "https://www.emirates247.com/technology/meta-is-developing-a-new-more-powerful-ai-system-wall-street-journal-reports-2023-09-11-1.722506?ot=ot.AMPPageLayout"
-    cdnAmpWebUrl: "https://www-emirates247-com.cdn.ampproject.org/c/s/www.emirates247.com/technology/meta-is-developing-a-new-more-powerful-ai-system-wall-street-journal-reports-2023-09-11-1.722506?ot=ot.AMPPageLayout"
+  - title: "Google to require political ads to reveal if they're AI-generated"
+    excerpt: "AI-generated political ads that appear on a Google platform must disclose to users if they contain 'synthetic' content."
+    publishedDateTime: 2023-09-07T18:22:00Z
+    webUrl: "https://www.zdnet.com/article/google-to-require-political-ads-to-reveal-if-theyre-ai-generated/"
     type: article
     provider:
-      name: Emirates247
-      domain: emirates247.com
-    quality: 55
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
+  - title: "AI that alters voice and imagery in political ads will require disclosure on Google and YouTube"
+    excerpt: "Political ads using artificial intelligence on Google and YouTube must soon be accompanied by a prominent disclosure if imagery or sounds have been synthetically altered"
+    publishedDateTime: 2023-09-07T17:10:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ai-alter-imagery-sounds-political-ads-require-prominent-102992666"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ai-alter-imagery-sounds-political-ads-require-prominent-102992666"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ai-alter-imagery-sounds-political-ads-require-prominent-102992666"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 45
     images:
-      - url: "https://www.emirates247.com/polopoly_fs/1.722507.1694401358!/image/image.png"
-        width: 700
-        height: 466
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
-  - title: "Meta developing new, more powerful AI system - WSJ"
-    excerpt: "Llama 2 is Meta's open source AI language model launched in July, and distributed by Microsoft's cloud Azure services to compete with OpenAI's ChatGPT and Google's Bard. The planned system, details of which could still change, would help other companies ..."
-    publishedDateTime: 2023-09-11T06:35:00Z
-    webUrl: "https://www.rte.ie/news/business/2023/0911/1404572-metas-new-ai-system/"
+  - title: "How Google Cloud is helping Culture Amp and others be AI-assisted"
+    excerpt: "It is providing the infrastructure and solutions that make it easier for organisations to build and use generative AI at scale."
+    publishedDateTime: 2023-09-08T02:00:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/focus/how-google-cloud-helping-culture-amp-and-others-be-ai-assisted"
     type: article
     provider:
-      name: RTE Online
-      domain: www.rte.ie
-    quality: 39
-    images:
-      - url: "https://img.rasset.ie/001c1023-1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Meta is developing a new, more powerful AI system, Wall Street Journal reports"
-    excerpt: "The Wall Street Journal reported on September 10, 2023, that Meta is on a mission to create an AI system that can compete with OpenAI's state-of-the-art models."
-    publishedDateTime: 2023-09-11T18:15:00Z
-    webUrl: "https://techstory.in/meta-is-developing-a-new-more-powerful-ai-system-wall-street-journal-reports/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 37
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2023/09/107101365-1660073087949-gettyimages-1242008364-RAFAPRESS_19072022-01776-360x240.jpeg"
-        width: 360
-        height: 240
-        isCached: true
-  - title: "Meta developing new, more powerful AI system, WSJ reports"
-    excerpt: "Meta Platforms (META.O) is working on a new artificial-intelligence system intended to be as powerful as the most advanced model offered by OpenAI, the Wall Street Journal reported on Sunday, citing people familiar with the matter."
-    publishedDateTime: 2023-09-11T12:47:00Z
-    webUrl: "https://www.ariananews.af/meta-developing-new-more-powerful-ai-system-wsj-reports/"
-    type: article
-    provider:
-      name: Ariana News
-      domain: ariananews.af
+      name: The Edge Singapore
+      domain: theedgesingapore.com
     quality: 19
+  - title: "Amazon to require some authors to disclose the use of AI material"
+    excerpt: "NEW YORK -- After months of complaints from the Authors Guild and other groups, Amazon .com has started requiring writers who want to sell books through its e-book program to tell the company in advance that their work includes artificial intelligence material."
+    publishedDateTime: 2023-09-08T18:09:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/amazon-require-authors-disclose-ai-material-103042285"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 17
 
 secured: "QffS+JylWMFXUjfq8Z+q/0xu/+22FSde1NhkJqDNmAN0/UkDBqIKykYFyCURKnwwpjbL1g59YPZdz7g0I/xu5mSN737/lxvkjrRlXKQpCWww3uCM5NzaFGzTqw94CUSj+5yYB15XIxPatGpcMk1NYrd9PGo19s6qOL+La8vTkBeQlDhMwnowB/+hE5xbh4Nb61nIke8BrkQ1Is1Jjq4Alt0NtrRTzTmLr/padMfjNldy0lsLxTDqr5IJZEw1QUQfyE+8A0kNCnQSJU8igtwKbjER8p+radm6FcgtSiz2VBUKwOI3IDEpRb+hruuBUmVQXNE++7pl90coVUY9lP1e3a5JMA+4uxYIWbY0ZxW+IcU=;RrldLzAf+1GfazsRIc6VeQ=="
 ---

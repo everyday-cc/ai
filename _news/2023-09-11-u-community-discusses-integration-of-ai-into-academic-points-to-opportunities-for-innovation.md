@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Why self-regulation of AI is a smart business move"
+    excerpt: "Robust governance is the surest path to AI initiatives that build customer confidence, reduce risk and drive business innovation."
+    publishedDateTime: 2023-09-11T01:41:00Z
+    webUrl: "https://venturebeat.com/ai/why-self-regulation-of-ai-is-a-smart-business-move/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_technology_regulations_and_standards_for_businesses._co_92a54db8-4f4b-4ca9-ba50-acfcc2028868.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "artec technologies AG: New development of AI-based speech recognition with integrated translation function"
     excerpt: "Diepholz - September 11, 2023 - artec technologies AG, a provider of audiovisual solutions for media monitoring, sets new standards in the industry with its latest development: an AI-driven, multilingual speech recognition (Speech-to-text, S2T) with integrated translation function."
     publishedDateTime: 2023-09-11T16:28:00Z
@@ -71,20 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "5 AI tools to automate passive income generation"
-    excerpt: "Learn how you can automate passive income generation using a variety of different AI tools currently available. Benefit from the technology"
-    publishedDateTime: 2023-09-10T10:27:00Z
-    webUrl: "https://www.geeky-gadgets.com/automate-passive-income/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/5-AI-tools-to-generate-passive-income-streams.jpg"
-        width: 700
-        height: 466
-        isCached: true
   - title: "Crafting persuasion: mastering compelling arguments in the age of AI and the video generation"
     excerpt: "Stratton Horres and Karen L. Bashor of Wilson Elser provide tips on combining AI and video evidence with the human connection in trial presentations, and opening and closing arguments."
     publishedDateTime: 2023-09-07T17:29:00Z
@@ -108,24 +108,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "AVIA’s National Generative AI Collaborative Announces New Experts, Enhanced Health System Participation"
-    excerpt: "The Generative AI Strategic Collaborative reveals a slate of 10 clinical, ethics, technology, and regulatory experts for its national consortium"
-    publishedDateTime: 2023-09-07T16:04:00Z
-    webUrl: "https://www.kansascity.com/press-releases/article279063044.html"
-    type: article
-    provider:
-      name: Kansas City Star
-      domain: kansascity.com
-    quality: 3
-  - title: "AVIA’s National Generative AI Collaborative Announces New Experts, Enhanced Health System Participation"
-    excerpt: "The Generative AI Strategic Collaborative reveals a slate of 10 clinical, ethics, technology, and regulatory experts for its national consortium"
-    publishedDateTime: 2023-09-07T17:04:00Z
-    webUrl: "https://www.miamiherald.com/press-releases/article279063044.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 3
 
 secured: "BGvck+z9N1Mn/WYy3JR1ajdq1CCq57DLgz9ckMiEYDJMnBfWqUCjmi/5hnEVYFvpiCR5JtDDhDiKAQLL+zb8PQ0gQOQ26Ykosxnjt7+sXPhWDmMy+mDfhw5ledpbm9LZk+Xo46nB68sCxhAMMPNMKrsvOr3lwlR73cfNTp/Dlh2YTqITuUfG6WIarys5DOHEoDsOs945dcuL2S4ik4XeTKuaIixbmij9WqBrC0dzvnSXYJHn4tmz0ttxGspCw3OG67oZi+DrPvE0Fy0DgHkESEfNgDQqyqP9N7uJgNfvQVCynR/ed+/M/OR41NYaG+4EsQTY9fEnuPvMuDZ9MnVbQ6wCydYacgNbX+YEJKz+P/Mssaqb5IaayxpiCUlIFUlu+iNddsEWkFXyp58qfXlHw8nJ6yZHV6hMYRKRYAfV+BFlA/v6ZWCjCAlQdf2/jla1UQANIABNTiSL1fk/UcUiAe5tTmQCqWpL33rSrXssyJYhbs3Z12pK7UW9DfqLML87M4aemJ5r9Akq1V/v0FSD4Q==;0xsZo7XbX9uCNqlvljC8DQ=="
 ---

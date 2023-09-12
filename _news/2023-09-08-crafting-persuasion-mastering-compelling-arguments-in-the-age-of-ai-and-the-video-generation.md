@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Why self-regulation of AI is a smart business move"
+    excerpt: "Robust governance is the surest path to AI initiatives that build customer confidence, reduce risk and drive business innovation."
+    publishedDateTime: 2023-09-11T01:41:00Z
+    webUrl: "https://venturebeat.com/ai/why-self-regulation-of-ai-is-a-smart-business-move/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_technology_regulations_and_standards_for_businesses._co_92a54db8-4f4b-4ca9-ba50-acfcc2028868.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "artec technologies AG: New development of AI-based speech recognition with integrated translation function"
     excerpt: "Diepholz - September 11, 2023 - artec technologies AG, a provider of audiovisual solutions for media monitoring, sets new standards in the industry with its latest development: an AI-driven, multilingual speech recognition (Speech-to-text, S2T) with integrated translation function."
     publishedDateTime: 2023-09-11T16:28:00Z
@@ -68,20 +82,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "5 AI tools to automate passive income generation"
-    excerpt: "Learn how you can automate passive income generation using a variety of different AI tools currently available. Benefit from the technology"
-    publishedDateTime: 2023-09-10T10:27:00Z
-    webUrl: "https://www.geeky-gadgets.com/automate-passive-income/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/5-AI-tools-to-generate-passive-income-streams.jpg"
-        width: 700
-        height: 466
-        isCached: true
   - title: "How Applied AI is Transforming the Future of Transportation: A Deep Dive into Self-Driving Cars"
     excerpt: "Envision a world where commuting ceases to be a tiresome chore and instead becomes an opportunity for relaxation or productivity. In this vision, accidents are nearly eradicated, and traffic jams fade into the distant past."
     publishedDateTime: 2023-09-11T16:12:00Z
@@ -110,24 +110,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "AVIA’s National Generative AI Collaborative Announces New Experts, Enhanced Health System Participation"
-    excerpt: "The Generative AI Strategic Collaborative reveals a slate of 10 clinical, ethics, technology, and regulatory experts for its national consortium"
-    publishedDateTime: 2023-09-07T16:04:00Z
-    webUrl: "https://www.kansascity.com/press-releases/article279063044.html"
-    type: article
-    provider:
-      name: Kansas City Star
-      domain: kansascity.com
-    quality: 3
-  - title: "AVIA’s National Generative AI Collaborative Announces New Experts, Enhanced Health System Participation"
-    excerpt: "The Generative AI Strategic Collaborative reveals a slate of 10 clinical, ethics, technology, and regulatory experts for its national consortium"
-    publishedDateTime: 2023-09-07T17:04:00Z
-    webUrl: "https://www.miamiherald.com/press-releases/article279063044.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 3
 
 secured: "fTJ2HtO09bkqtzAKu8qQP4sH14B08tsthW41NPMh52gloCB8jgCN8FVnnNO9O1/nwFn4NfvMJ7yrcdEkWBYjdH/QZDYVAM+ugdjx/LQPW9YRYHMbIglSvbB79xraycfqn8wjWoUgtSReoGm8wlXyeVT1rb6qRcIhqP2/W6vjXT7ExZ+WIPpbBiES/lEB6YCeCHa8jTKQ0QmoqS2xBTcUU8iG12p5NT84/MsBC5/xPGvrIrIGh8UBmUvWr/K8jhPr8lMkuEp9LOgwKPn46hbZh/32wsrJX7zLGa2R49zYshgV7t+jfPQPFqp1uo3atlnJIeEEfW1/+sbLuHjH0Qx95gvJVTNbx/iiF4WRNY5s5cuSXxOWHQ+9wi49eyBg5OBPuRuLSwJLpFNI99sx4kWvH9kbHXBp+ql6j1Gz1edCNDWx1ofZxJd9za12xl0UwdtJeY1TRhQho9EaYgZ+GrnYnSag29+WXR7E9BkbAbTuiZ/z8buE/B8k0nQsXytJPBg5qOzdsStK8epx/yX3Hd5pUQ==;0EISMHzVv+FQK8xjyPGDWA=="
 ---

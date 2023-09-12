@@ -7,8 +7,8 @@ originalUrl: "https://gizmodo.com/new-facebook-do-not-use-my-data-for-generative
 webUrl: "https://gizmodo.com/new-facebook-do-not-use-my-data-for-generative-ai-llama-1850792025"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: Gizmodo
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook Trains Its AI on Your Data. Opting Out May Be Futile"
-    excerpt: "Here's how to request that your personal information not be used to train Meta's AI model. \"Request\" is the operative word here."
-    publishedDateTime: 2023-09-07T12:00:00Z
-    webUrl: "https://www.wired.com/story/facebook-trains-ai-your-data-opt-out/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
-    images:
-      - url: "https://media.wired.com/photos/64f8e6ac3e1a7b4810e35758/191:100/w_1280,c_limit/Facebook-Trains-Its-AI-on-Your-Data.-Opting-Out-May-Be-Futile-Security-GettyImages-1408270724.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "How Facebook's new AI system may be 'good news' for Nvidia"
     excerpt: "In order to run this model, Meta is reportedly buying more Nvidia H100 AI-training chips and is making the infrastructure more powerful so that it won't need to rely on Microsoft's Azure cloud platform to train the new chatbot. The chip is in high demand ..."
     publishedDateTime: 2023-09-11T14:44:00Z

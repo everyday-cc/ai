@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Google will soon require disclosures for AI-generated election ads"
-    excerpt: "The policy will take effect in mid-November and will require election advertisers to disclose that ads containing AI-generated elements have been computer-generated or do not show real events. Minor changes like brightening or resizing an image do not require such a disclosure."
-    publishedDateTime: 2023-09-07T12:33:00Z
-    webUrl: "https://www.cnbc.com/2023/09/07/google-will-soon-require-disclosures-for-ai-generated-election-ads-.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/09/07/google-will-soon-require-disclosures-for-ai-generated-election-ads-.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/07/google-will-soon-require-disclosures-for-ai-generated-election-ads-.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 87
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107276696-1690329079763-gettyimages-1459457877-ussuesgoogleforabusingmonopolyinadtechnology009.jpeg?v=1694098706"
-        width: 3500
-        height: 2332
-        isCached: true
   - title: "Politics and AI: Google to require artificial intelligence disclosures on ads"
     excerpt: "Google is the first tech company to require an AI disclosure, Politico reported. The Federal Election Commission has yet to regulate if and when AI can be used in campaigns, but in August it agreed to seek public comment on whether to make updates to its policies to include AI advertisements."
     publishedDateTime: 2023-09-07T23:41:00Z
@@ -135,34 +119,31 @@ related:
         width: 834
         height: 308
         isCached: true
-  - title: "How will AI influence the 2024 election?"
-    excerpt: "How worried do we really need to be about AI’s potential to undermine democracy? Chihhao Yu of the Taiwan Information Environment Research Centre explains the threat posed by Chinese misinformation campaigns. We go back to when sensationalist journalism ..."
-    publishedDateTime: 2023-09-08T16:52:00Z
-    webUrl: "https://www.economist.com/podcasts/2023/09/08/how-will-ai-influence-the-2024-election"
+  - title: "Today in AI: Meta is developing a new AI system, Google rolls out AI-generated search enhancement outside US, and more"
+    excerpt: "On August 31, the company expanded its search feature powered by SGE (Smart Global Engine) to two other regions, namely India and Japan. These two countries are noteworthy for being the first to have access to the new AI extension outside of the US. More here."
+    publishedDateTime: 2023-09-11T04:40:00Z
+    webUrl: "https://www.moneycontrol.com/news/trends/today-in-ai-meta-is-developing-a-new-ai-system-google-rolls-out-ai-generated-search-enhancement-outside-us-and-more-11345781.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/trends/today-in-ai-meta-is-developing-a-new-ai-system-google-rolls-out-ai-generated-search-enhancement-outside-us-and-more-11345781.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/today-in-ai-meta-is-developing-a-new-ai-system-google-rolls-out-ai-generated-search-enhancement-outside-us-and-more-11345781.html/amp"
     type: article
     provider:
-      name: The Economist
-      domain: economist.com
-    quality: 39
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 35
     images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230909_PDP508.jpg"
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/05/Today-in-AI-cover-image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Suspected Chinese operatives using AI generated images to spread disinformation among US voters, Microsoft says"
-    excerpt: "Suspected Chinese operatives have used images made by artificial intelligence to mimic American voters online in an attempt to spread disinformation and provoke discussion on divisive political issues as the 2024 US election approaches,"
-    publishedDateTime: 2023-09-07T14:08:00Z
-    webUrl: "https://abc17news.com/politics/national-politics/cnn-us-politics/2023/09/07/suspected-chinese-operatives-using-ai-generated-images-to-spread-disinformation-among-us-voters-microsoft-says/"
+  - title: "How Google Cloud is helping Culture Amp and others be AI-assisted"
+    excerpt: "It is providing the infrastructure and solutions that make it easier for organisations to build and use generative AI at scale."
+    publishedDateTime: 2023-09-08T02:00:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/focus/how-google-cloud-helping-culture-amp-and-others-be-ai-assisted"
     type: article
     provider:
-      name: ABC 17 News
-      domain: abc17news.com
-    quality: 36
-    images:
-      - url: "https://abc17news.b-cdn.net/abc17news.com/2023/09/web-9.7-375x225.jpg"
-        width: 375
-        height: 225
-        isCached: true
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 19
 
 secured: "I9t/8L/LisvMTcj6N9a8Nygyh4PB541Ex9/yj4xiB7khB3xCz+HyXDrjt5tOTOTwWTYek9tB2tnL2nmao99XUv56SlYlpb9kWlXLHIQtPcsMc3AmwmNw5CtmKFPh2eepkeGdU20fPPXCAuruMGr2V1xcfL1KFYb10eQpRpJT3MdgDzDlpjcfS84hmhCR7olPbX89Yb/vPqkrgNb0QqQaPK09gtbsFolpTsnH3xbukbL0kuRQhXMxNscdk0Kovnrn6D3OwEffovQsPXe799yvbvcPcb+JCUiZfdNvo4maSDochx1QrZ0fjCer0Ykvp/gKN6p8A4KWU48Mb2+U8YzBAG7e+ux+lr/UBzqxYdVw5QJsRUbaaTbfnGbQ18s5lh67HHm0N5J691cVgV9RI3TImfXPDW4e3i5UFkdT3SGWxYfEmu32/Z+H+FKo1JpBfl7gOfYVUgXWYWWYYa2/irvYMnG0+q941bWka+vulrJfLa4oZOhijsSgR0o7+nOkCxfhkGzqWLoWPDgP7/KCoXcWnA==;pBDhLJd7D1yafeREDBTzsQ=="
 ---

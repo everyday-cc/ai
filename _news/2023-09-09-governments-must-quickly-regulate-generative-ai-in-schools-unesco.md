@@ -35,20 +35,6 @@ related:
         width: 534
         height: 462
         isCached: true
-  - title: "UNESCO trains Indonesian Teachers on AI Ethics"
-    excerpt: "On 23-24 August 2023, UNESCO held an Ethics Teachers Training Course (ETTC) focused on AI ethics in Yogyakarta, in collaboration with the University Gadjah Mada. The interactive event brought together 30 participants from various backgrounds and ..."
-    publishedDateTime: 2023-09-07T11:04:00Z
-    webUrl: "https://www.unesco.org/en/articles/unesco-trains-indonesian-teachers-ai-ethics"
-    type: article
-    provider:
-      name: UNESCO
-      domain: unesco.org
-    quality: 54
-    images:
-      - url: "https://www.unesco.org/sites/default/files/styles/best_image/article/2023-09/DSC08865.JPG?itok=7ESnS-fx"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "UNESCO recommends age limit of 13 for classroom artificial intelligence use"
     excerpt: "This guidance lists a seven-step recommendation which includes regulations on data, generative AI, and AI ethics, along with updates to current copyright laws and whole-of-government strategies regarding the technology. It also acknowledged what it called ..."
     publishedDateTime: 2023-09-07T19:57:00Z

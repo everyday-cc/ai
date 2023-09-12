@@ -25,37 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "Meet generative AI's 'super users': 70% of Gen Z use GenAI"
-    excerpt: "Gen Z and Millenials are generative AI's \"super users,\" or users who use the technology frequently and believe that they are close to mastering it. Almost half (48%) of Gen Z believe they are on their way to mastering the technology."
-    publishedDateTime: 2023-09-07T12:00:00Z
-    webUrl: "https://www.zdnet.com/article/meet-generative-ais-super-users-70-of-gen-z-use-genai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/meet-generative-ais-super-users-70-of-gen-z-use-genai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meet-generative-ais-super-users-70-of-gen-z-use-genai/"
+  - title: "Tencent latest to join China's GenAI race with foundation model for enterprises"
+    excerpt: "Called Hunyuan, Tencent's foundation AI model is available for Chinese organziations to test and build their own applications."
+    publishedDateTime: 2023-09-08T09:01:00Z
+    webUrl: "https://www.zdnet.com/article/tencent-latest-to-join-chinas-genai-race-with-foundation-model-for-enterprises/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/tencent-latest-to-join-chinas-genai-race-with-foundation-model-for-enterprises/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tencent-latest-to-join-chinas-genai-race-with-foundation-model-for-enterprises/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 87
+    quality: 85
     images:
-      - url: "https://www.zdnet.com/a/img/resize/474efc9bfad8c3d8a9d90f6d09c8677405713299/2023/09/07/71f4bcfe-1d17-4eb6-a88c-3b0c8c028e32/gettyimages-1359131910.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://www.zdnet.com/a/img/resize/0c19a1df65ed28c065d3b48a1be0878897b01cb9/2022/01/13/9eafb7e5-f1f9-4369-a375-256b197f5a21/shutterstock-1732038682.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Generative AI Generation Gap: 70% Of Gen Z Use It While Gen X, Boomers Don’t Get It"
-    excerpt: "Americans who use generative AI use it for work and 70% of Gen Z uses new generative AI technologies, according to a new 4,000-person survey."
-    publishedDateTime: 2023-09-09T20:28:00Z
-    webUrl: "https://www.forbes.com/sites/johnkoetsier/2023/09/09/generative-ai-generation-gap-70-of-gen-z-use-it-while-gen-x-boomers-dont-get-it/"
-    ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2023/09/09/generative-ai-generation-gap-70-of-gen-z-use-it-while-gen-x-boomers-dont-get-it/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/09/09/generative-ai-generation-gap-70-of-gen-z-use-it-while-gen-x-boomers-dont-get-it/amp/"
+  - title: "China’s Tencent Unveils Its First General Large Language AI Model Hunyuan"
+    excerpt: "(Yicai) Sept. 8 -- Chinese internet titan Tencent Holdings debuted its first large language artificial intelligence model Hunyuan at its Global Digital Ecosystem Summit in Shenzhen."
+    publishedDateTime: 2023-09-08T06:58:00Z
+    webUrl: "https://www.yicaiglobal.com/news/chinas-tencent-unveils-its-first-general-large-language-ai-model-hunyuan"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 38
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64fcd4ddbff0fa87a61a5633/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "http://img.yicaiglobal.com/src/image/2023/09/32931611694789.jpg"
+        width: 770
+        height: 510
+        isCached: true
+  - title: "Tencent unveils large language model"
+    excerpt: "Tencent Holdings, a leading homegrown technology company, debuted its much-awaited universal large language model Hunyuan on Thursday, as Chinese enterprises strive to gain a foothold in the global artificial intelligence race."
+    publishedDateTime: 2023-09-08T01:23:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202309/08/WS64fa6d78a310d2dce4bb49b6.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 24
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202309/08/64fa6d78a310d2dc6d277476.jpeg"
+        width: 689
+        height: 459
         isCached: true
 
 secured: "qOtGgkhZYqjgeY6E2MILMcW8FY0LnO2eoXWf2V7U5zpZXfoxaJmrj6o6SAcFC77ZoxBX20NcFGeMsv/1ql6jwyyttMyJvtb/2+Ihf4ZBQMTXi4xiM3j0IYUTLBRu4TcRlDGnCANQfGBkb4HjsXR5KrAfeX6oEWn4MxYv54VwZ8DXK6uEMD0mrvl3uMwP/cSXVkPLyrTTd2cd+Y3N4q7/HCJlHiDIEu5FxP5K/62QBYqPZ3cUXVytfBxBNq17+Q2cOJLwA+tg1yDWap78ZtaWnlqNADrOvXSlE28uIx/YsxFMk5/ywg0n1zy+gaO6gTzPchdwKc4ftao95cErVJaMBOjFqZI+tLe4TWvzzm1oQQw=;pi5PtX6a+WKBrDwu83W24g=="

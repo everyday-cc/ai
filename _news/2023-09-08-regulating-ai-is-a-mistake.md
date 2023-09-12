@@ -72,15 +72,29 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "AI Regulation: Why It's Already Going Off The Rails"
-    excerpt: "Taking a laissez faire approach to AI is no solution. This technology can be misused or can have unintended consequences."
-    publishedDateTime: 2023-09-07T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/07/ai-regulation-why-its-already-going-off-the-rails/"
+  - title: "State Legislatures Eye AI Regulation"
+    excerpt: "A growing number of states have enacted laws this year to study artificial intelligence (AI), ahead of possible legislative action to address expected threats to jobs, civil liberties, and property ri"
+    publishedDateTime: 2023-09-07T21:57:00Z
+    webUrl: "https://www.natlawreview.com/article/state-legislatures-eye-ai-regulation"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 39
+    images:
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/55596/AI%20Law%20gavel%20SMALL_0.jpg?itok=kp0Z5h9K"
+        width: 500
+        height: 500
+        isCached: true
+  - title: "State Legislatures Eye AI Regulation"
+    excerpt: "The state plans to use this information to develop a robust AI ethics board and audit procedures to protect the rights of Vermont citizens amidst future AI developments. Industry-specific guidance has begun to emerge as well. For instance, many state ..."
+    publishedDateTime: 2023-09-08T18:28:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/state-legislatures-eye-ai-regulation-7796939/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 19
 
 secured: "2anlpPkJud0hL7pVKzZ/skAjHUBFoWVOwTA7UTKN3GGAUMqYkky0ccQjuxQpvh5DaceVu5WEsp0LK7mKCKwlADe8NMQgaqXVTQZrLW46Ii20fLy4KYHxhgv3bwaKOaTz3ueuQMG2v6JOeGkPbtZZtje4V2pMzDxiN3O4KKZLEVUjBAwdlKwDtTEYNssI1YYNt53rAFW59aJD/AobGjGE9vAvf7czsez9XUJy1Yl1aOi1KrrE0IC8GE0ov1rMWu8Lng7diy7ZmMaihRMV4QKVdAPA3GwM1aUF1Jw7GJez4OtHnmhmqj85qSoxykUKkb/2wCrBtaZ46mstrEpB3MI7xPBmsZbGRLX1bGi6LH3NVVwVKuXtJh0nrLV1ulOgi32ypF01Zz/XPF75AAzVURSpzkzEH3RoLpk9CBz0G83ox4U3qujTLxBYra+yTEXW6HB+ztFx9M6AUvuYTn5e1D5Ex3sSj7GIpOth64PkKKKxGcqd2ed0jaM+yu2SUpqd+UvhzjoMwt/Si3S13SiiXGz8jA==;nHmjKUVX6qubtgYvRXS+3A=="
 ---

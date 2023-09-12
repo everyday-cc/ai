@@ -34,6 +34,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
+  - title: "Tesla’s value predicted to boost from new Dojo self-driving supercomputer"
+    excerpt: "Tesla’s Dojo supercomputer only uses video data recordings from Tesla owners’ real-life driving situations to train its machine-learning model and improve its camera-only ‘Tesla Vision’ safety assistance systems. The camera-only Dojo will ditch 300,000-plus lines of code."
+    publishedDateTime: 2023-09-12T04:55:00Z
+    webUrl: "https://www.whichcar.com.au/news/tesla-s-value-predicted-to-boost-from-new-dojo-self-driving-supercomputer"
+    type: article
+    provider:
+      name: whichcar
+      domain: whichcar.com.au
+    quality: 38
+    images:
+      - url: "https://cdn.whichcar.com.au/assets/p_social/b07d09f6/ev-buyers-guide-tesla-model-3-1-interior.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Here's what needs to happen to achieve safe self-driving cars"
     excerpt: "Tesla has since released a few versions of advanced driver assist software, Autopilot and Full Self-Driving. But Tesla's FSD is a bit of a misnomer; cars using FSD do not truly drive themselves. The driver has to be ready to take over if necessary ..."
     publishedDateTime: 2023-09-11T15:47:00Z

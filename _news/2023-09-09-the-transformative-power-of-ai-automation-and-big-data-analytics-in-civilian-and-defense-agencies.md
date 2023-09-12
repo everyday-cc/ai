@@ -96,15 +96,6 @@ related:
         width: 1400
         height: 900
         isCached: true
-  - title: "Data and analytics interrupt their programs for generative AI"
-    excerpt: "Amidst all the pronouncements from data and analytics providers on generative over the spring, we found a huge omission. Like all AI, generative will require governance, and most providers are for now paying lip service to that."
-    publishedDateTime: 2023-09-07T13:00:00Z
-    webUrl: "https://siliconangle.com/2023/09/07/data-analytics-interrupt-programs-generative-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 17
 
 secured: "uEj6jqwsnwr5ie2nXLXtpYkewW8x3sqhCEpFn85rTT8iIFBvBsMqHfPQ4MuetKoBvJ5IdLic7pLJcs9aOidTfv5lY5D0vEn9UAOsyiYbVEG4s046pfYBsliPPLQvrZ+1II1IOuv40XE7x1UyMJeNMmXSAthhBHaqTKl5fBs1VDK4p40pSsd1LulIgHI5U1qOy11OdHCGkmP8iedPAIGVwoBMbJ1XtfmLkpWgMekR+ufDK7CIbCOjEDFmg3pDlnBcokTG/FjVSVYKZ5ZJEjpMA4cXKqPh0Uvmb2gsAXhOGZaeC0IWBFKW9ubBGs7HWPVOgHBm7f7oR0wg3fM4pvWmpvnYWkOP8GpwXifRYe3k1NMoQczFUTOerEKxmAd27z7eb8QLxGPqqNNjfNilWQ8ZmUKwKpi88QGk7vS/GH5y1R0F9vtK2u/2/zV5w019pxUa5KZwCbp+B6c4cNZgrHsHDGDRRq5a6YW42fWBYrknyY938M/AYLEfPumO8h1awGircuZa4K35h17FuhrjYU6aHQ==;YVTmcpVfYQvLp6u+M15LQg=="
 ---
