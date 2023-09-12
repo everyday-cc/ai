@@ -188,20 +188,6 @@ related:
         width: 2400
         height: 1200
         isCached: true
-  - title: "Forget ChatGPT—Law Firms Are Launching Their Own Gen AI Chatbots"
-    excerpt: "Tracking Key Shifts in the Legal Ecosystem Each week, the Law.com Barometer newsletter, powered by the ALM Global"
-    publishedDateTime: 2023-09-07T20:17:00Z
-    webUrl: "https://www.law.com/2023/09/07/forget-chatgpt-law-firms-are-launching-their-own-gen-ai-chatbots/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/292/2023/08/AdobeStock_612806082-767x633.jpg"
-        width: 768
-        height: 633
-        isCached: true
   - title: "What Can ChatGPT-like Language Models Tell Us About the Brain?"
     excerpt: "A renaissance in natural language modeling may help researchers explore how the brain extracts and organizes meaning."
     publishedDateTime: 2023-09-08T06:55:00Z
@@ -272,6 +258,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Druid, a conversational AI platform for enterprises that integrates with ChatGPT, raises $24M"
+    excerpt: "Conversational AI startup Druid has raised $24 million in a Series B round of funding, as it looks to double down on its U.S. growth."
+    publishedDateTime: 2023-09-12T13:08:00Z
+    webUrl: "https://techcrunch.com/2023/09/12/druid-a-conversational-ai-platform-for-enterprises-that-integrates-with-chatgpt-raises-24m/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 36
   - title: "A boy saw 17 doctors over 3 years for chronic pain. ChatGPT found the diagnosis"
     excerpt: "But before starting physical therapy, Alex had already been experiencing severe ... excitement for his future.\" ChatGPT is a type of artificial intelligence program that responds based on input that a person enters into it, but it can't have a conversation ..."
     publishedDateTime: 2023-09-11T21:21:00Z
@@ -322,6 +317,15 @@ related:
     provider:
       name: Southeast Missourian
       domain: semissourian.com
+    quality: 19
+  - title: "Tackling Loneliness With ChatGPT and Robots"
+    excerpt: "Doctors Qi and Wu presented to Neurology Live a survey of the benefits of AI in their June paper, “ChatGPT: A Promising Tool to Combat Social Isolation and Loneliness in Older Adults With Mild Cognitive Impairment."
+    publishedDateTime: 2023-09-12T12:39:00Z
+    webUrl: "https://www.alleywatch.com/2023/09/tackling-loneliness-with-chatgpt-and-robots/"
+    type: article
+    provider:
+      name: alleywatch.com
+      domain: alleywatch.com
     quality: 19
 
 secured: "Xe2rIOc9JDc8iTTfy1ucE9yBgwkXWhSFC663NvkHBPPQQPF6EYMbVnqIf5r3SxPGWZauO2hVK+NvyMOfGgDrZcYKnn9f8dlgAAjoaJrKrwLRo5+42Do7S/eGLVjT5LpIFrCetc/0GwQZ5GEDoBLzRUKzTc66f2GwNMkq0zA/e2qHvzyFVZMj/84flAFD13evK7GkWyOx8r1h2vUXC7rE9jLYOyHE32SV/DULvR+O9Wgg4aVvG4XlSny/LCJCl+OQ9Qwp9Tai5ZFiBg4x/QBcNmUAjzxbgIoKrPOHCIDb/YOGTrhZSRjjEz3fvpNcIURZwsBhU4IUGWVS7iVon4N94PhN9VsXOXznx0ErV41DwXUoRil9sh2bDpqYdkUoC5L5oax+V3z26+90Y/H7lSa+7G+gW9n9JYm5uNEJhUHbpgVMzWsFIw44NJJMArVImReItlk0l3Jo5Jw6teDXkL7OeiN4yjRfyeOP6MuFHE3ccVEEVsrW/6xJV2MJkMqR9U2xZLUcJN/guEEEJ9g76ooGGw==;nXuM9VXi2sr743w2B2dd/w=="

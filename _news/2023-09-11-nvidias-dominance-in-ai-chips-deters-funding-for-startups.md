@@ -92,20 +92,6 @@ related:
         width: 620
         height: 436
         isCached: true
-  - title: "AI startup Imbue closes $200M funding round backed by Nvidia"
-    excerpt: "The Series B investment values Imbue at $1 billion. It included contributions from Nvidia Corp. and Astera Institute, a nonprofit that backs promising research initiatives. Cruise LLC Chief Executive Officer Kyle Vogt, Notion Labs Inc. co-founder Simon Last and a number of other backers participated as well."
-    publishedDateTime: 2023-09-07T21:20:00Z
-    webUrl: "https://siliconangle.com/2023/09/07/ai-startup-imbue-closes-200m-funding-round-backed-nvidia/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Imbue.png"
-        width: 932
-        height: 519
-        isCached: true
   - title: "Nvidia’s dominance in AI chips deters funding for start-ups"
     excerpt: "Nvidia has “indirectly” contributed to overall AI chip fundraising woes, because investors want “home run only type investments with a huge investment, huge return”, Mythic CEO Dave Rick said. Difficult economic conditions have added to the downturn in the cyclical semiconductor industry, Rick said."
     publishedDateTime: 2023-09-12T06:57:00Z
@@ -120,6 +106,15 @@ related:
         width: 1500
         height: 800
         isCached: true
+  - title: "Enfabrica raises $125M to scale up GPUs, memory, networks and storage for distributed AI workloads"
+    excerpt: "Enfabrica raises $125M to scale up GPUs, memory, networks and storage for distributed AI workloads - SiliconANGLE"
+    publishedDateTime: 2023-09-12T13:00:00Z
+    webUrl: "https://siliconangle.com/2023/09/12/enfabrica-raises-125m-scale-gpus-memory-storage-distributed-ai-workloads/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 20
 
 secured: "UYBPSLoXFm/rxgVWXcEtUt4V/y8o5MDVAmnHF921b/tLZIDbiuC0zcpgAyvYnYlOypzNdebRq9f/NRa7N/nv0s2nH+dLkAiPvjUlhBr3qYZvvgOrq9l2SLOEy88TbyI+JJ2rQJrRsmHqslqQp0SfKtHKyV/dWkb5+XCyYuItunAq1//jjF2HpStzT+sSWv9kiDyMUJSDw51bGrAJDLewkH26G58bMrLYZkqwr631jGl2ffbiWFU0RZ6FYCHobaFwX3lG8WTwmM+fs2Ugr9skLSPXV1jMct7OskKX2h6htBZuEJx4rGzEkqj06Ft67UqGHBtFeezHRQIH0LgcV4F5taKYLoXGOZYR4wKhktaFosrZ8AK/6BhTZjqklLaQBzpd9GhnOp6SdgBMqpVaQAQuN+6HGAwxefBZaRYKkHVj7ga1XmhQQ74Bsd4IjY1IRyxGssyXbYfuOf8sJ4W3mIy74KlFqqrSxJn64M1WnZAYWgUkgww+LmpX6+UrvsOZW88aPGtzjUrU3jGR+bWZ7n/aOA==;LpV+wEGsO0x/hxHKyt+ZKw=="
 ---

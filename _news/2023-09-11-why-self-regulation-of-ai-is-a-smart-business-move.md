@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI model speeds up high-resolution computer vision"
+    excerpt: "An autonomous vehicle must rapidly and accurately recognize objects that it encounters, from an idling delivery truck parked at the corner to a cyclist whizzing toward an approaching intersection."
+    publishedDateTime: 2023-09-12T15:42:00Z
+    webUrl: "https://techxplore.com/news/2023-09-ai-high-resolution-vision.html"
+    ampWebUrl: "https://techxplore.com/news/2023-09-ai-high-resolution-vision.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-ai-high-resolution-vision.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/ai-model-speeds-up-hig.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "artec technologies AG: New development of AI-based speech recognition with integrated translation function"
     excerpt: "Diepholz - September 11, 2023 - artec technologies AG, a provider of audiovisual solutions for media monitoring, sets new standards in the industry with its latest development: an AI-driven, multilingual speech recognition (Speech-to-text, S2T) with integrated translation function."
     publishedDateTime: 2023-09-11T16:28:00Z
@@ -59,6 +75,20 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
+        isCached: true
+  - title: "5 AI tools to automate passive income generation"
+    excerpt: "Learn how you can automate passive income generation using a variety of different AI tools currently available. Benefit from the technology"
+    publishedDateTime: 2023-09-10T10:27:00Z
+    webUrl: "https://www.geeky-gadgets.com/automate-passive-income/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/5-AI-tools-to-generate-passive-income-streams.jpg"
+        width: 700
+        height: 466
         isCached: true
   - title: "How Applied AI is Transforming the Future of Transportation: A Deep Dive into Self-Driving Cars"
     excerpt: "Envision a world where commuting ceases to be a tiresome chore and instead becomes an opportunity for relaxation or productivity. In this vision, accidents are nearly eradicated, and traffic jams fade into the distant past."

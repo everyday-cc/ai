@@ -25,17 +25,6 @@ images:
     height: 563
     isCached: true
 
-related:
-  - title: "IRS, With AI Help, Readies Audits of Large Hedge Funds, Real Estate Partnerships"
-    excerpt: "Move comes as the tax agency tries to build its case for keeping what is left of a pot of money Congress gave it last year."
-    publishedDateTime: 2023-09-08T12:01:00Z
-    webUrl: "https://www.wsj.com/politics/policy/irs-with-ai-help-readies-audits-of-large-hedge-funds-real-estate-partnerships-c70c9aea"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 42
-
 secured: "wNHuW/g5hacbm6yNXRxssCnniGRALBsFHb7iVLzjM8mqaCtvg4QweHWIch9DU2Y6ZV2GrYGcy7WqjTcB/JEpfDSh2eeGx8n1+UrZjCJEzTOZzCBdzvjSak2nZ1xt+dPVd4ujqgADDlYJwYx/mIU2Ndm/nxnKxoT4O34kThF3y4bomuYlP4axbDjgJ6KqMjq3c+6jzjAbsVIrplsp+X1eC3bjmGEgDoyCRrLbV9yupPAdqOSgv0mQ0AgKhhss6CTLT51OmBCgTblX5ZC8b52wAoGwJJNImWjFl9qg6e8buefC5bCXU41+8PhhMuOR2XyJqO0x8ZUg7Ztu/U4IPi5gLDsnEv7UAh6JD0vXuz1xfZk=;56Y9VzyxiTKPgx5G2Pz/Lg=="
 ---
 

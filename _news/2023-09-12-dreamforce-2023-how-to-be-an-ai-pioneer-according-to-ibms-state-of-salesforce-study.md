@@ -41,6 +41,29 @@ related:
         width: 778
         height: 445
         isCached: true
+  - title: "Salesforce introduces new AI assistant, Einstein Copilot, for all its CRM apps"
+    excerpt: "You can bring data in from Databricks and even run Einstein Copilot using a private Einstein instance available on Amazon Sagemaker. All the data is then analyzed and sorted into a visual relationship graph showing lines connecting products, contacts ..."
+    publishedDateTime: 2023-09-12T12:04:00Z
+    webUrl: "https://venturebeat.com/business/salesforce-introduces-new-ai-assistant-einstein-copilot-for-all-its-crm-apps/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 77
+  - title: "Dreamforce 2023: Salesforce Expands Einstein AI and Data Cloud Platform"
+    excerpt: "The Einstein 1 platform links Salesforce CRM data and generative AI. Plus, Trust Layer allows organizations control over their own data."
+    publishedDateTime: 2023-09-12T14:34:00Z
+    webUrl: "https://www.techrepublic.com/article/dreamforce-2023-salesforce-ai-announcement/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/09/tr_09122023-dreamforce-2023-salesforce-ai-announcement.jpg"
+        width: 1400
+        height: 900
+        isCached: true
   - title: "McKinsey partners with Salesforce to offer speedy AI adoption plans for enterprises"
     excerpt: "With 40 percent of enterprises planning to invest in this kind of AI, the collaboration between Salesforce and McKinsey could be a"
     publishedDateTime: 2023-09-08T21:17:00Z
@@ -55,6 +78,24 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "Salesforce embeds conversational AI across the platform with Einstein Copilot"
+    excerpt: "Salesforce introduced Einstein Copilot today, a conversational bot, available on demand across the Salesforce platform."
+    publishedDateTime: 2023-09-12T12:26:00Z
+    webUrl: "https://techcrunch.com/2023/09/12/salesforce-embeds-conversational-ai-across-the-platform-with-einstein-copilot/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 44
+  - title: "Salesforce to bring AI assistant to all of its applications with Einstein Copilot"
+    excerpt: "Using the Model Builder, Einstein Copilot can support a “bring your own model” sort of integration with LLMs from Anthropic, Cohere Inc., Databricks Inc., Google LLC’s Vertex AI, Amazon Web Services Inc.’s SageMaker and others. “If you’re a ..."
+    publishedDateTime: 2023-09-12T12:22:00Z
+    webUrl: "https://siliconangle.com/2023/09/12/salesforce-bring-ai-assistant-applications-einstein-copilot/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 14
 
 secured: "v+WCQBN8kMajdDhVWGFx719qO4gQz+5pOAskpGErVyAAzpHAZZ7xVr1spPm3iyklGtMKmsLosXSR5wFQvZ6GQFPVl5WqtQExS1SdivggqAN8IHz77fGiyONt3H0X+Z63/KeFFum/SmO5IRnCpI++ITeFrVIPF3rgoK60Uu4nnA9dSUl5YR9FJ1Q6CsRjwglrPC8ExAKBZ6mCoMbLhBW+LSLaGni8hU3x8IPV8pdoBNNW19MhSQwTJKFZMiZyyCSLA7/bjMvQkCzt6KgpDRIWKQjzaasCSRF0P9QFJ+bNV1l0aMuUIVw+3eqZ3y6M85nqnQGFigh03a73fJqDC8HI40otpcZ9tUgcpNVm4X6qadI=;KLxfExrelbwzJuWphYZ/hA=="
 ---

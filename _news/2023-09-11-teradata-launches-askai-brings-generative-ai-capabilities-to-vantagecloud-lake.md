@@ -19,42 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Teradata adds ask.ai generative AI assistant to VantageCloud Lake"
-    excerpt: "Enterprises will be able to use the ask.ai natural language assistant to ask questions about their data from within Teradata’s multicloud analytics platform."
-    publishedDateTime: 2023-09-11T13:00:00Z
-    webUrl: "https://www.infoworld.com/article/3706376/teradata-adds-ask-ai-generative-ai-assistant-to-vantagecloud-lake.html"
+  - title: "The Amazing Ways Snowflake Uses Generative AI For Synthetic Data And Natural Language Queries"
+    excerpt: "Discover how cloud data giant Snowflake is revolutionizing the use of synthetic data created through generative AI to overcome the challenges of realworld data collection"
+    publishedDateTime: 2023-09-12T06:19:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/09/12/the-amazing-ways-snowflake-uses-generative-ai-for-synthetic-data-and-natural-language-queries/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/09/12/the-amazing-ways-snowflake-uses-generative-ai-for-synthetic-data-and-natural-language-queries/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/09/12/the-amazing-ways-snowflake-uses-generative-ai-for-synthetic-data-and-natural-language-queries/amp/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 49
-  - title: "Teradata adds ask.ai generative AI assistant to VantageCloud Lake"
-    excerpt: "Enterprises will be able to use the ask.ai natural language assistant to ask questions about their data from within Teradata’s multicloud analytics platform."
-    publishedDateTime: 2023-09-11T23:32:00Z
-    webUrl: "https://www.arnnet.com.au/article/708705/teradata-adds-ask-ai-generative-ai-assistant-vantagecloud-lake/?fp=2&fpid=1"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 78
     images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_teradata_1.jpg"
-        width: 504
-        height: 315
-        isCached: true
-  - title: "Teradata Gives Customers Their Own LLMs with Ask.ai"
-    excerpt: "Enterprises that want to train their own custom large language model (LLM) have a new option today with the launch of Teradata’s ask.ai. The analytics"
-    publishedDateTime: 2023-09-11T20:57:00Z
-    webUrl: "https://www.datanami.com/2023/09/11/teradata-gives-customers-their-own-llms-with-ask-ai/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/09/brain_shutterstock_Horoscope.jpg"
-        width: 1000
-        height: 667
+      - url: "https://imageio.forbes.com/specials-images/imageserve/650002763f0c19e47373b638/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "YL77uU9NVJcYJ27b2zRpy2M907dyDBhjiqCWMje0QMeUkCuJIctWJftmXBoEj9qFOZSz6iBE1wtnn5d6LNKlnmiLhqiO3Q/l0Oeey+/qQg4nT56SSKOSMR3wdnJ8grAhMM2sizuiH9op3KH3uSIzBO4LEvBp+xbJBZuzx4F5phAEGZkQRPnXz14Dm0nAW86AP4XEsHDVpZ6s6d175hKvPRV92heHGJeooPS0YI0VZqvPmnF22vxdybjsQ2f6J/8n8dufHwiVhB/j52B6Jkp49yZru2g0XxrpSvIgSLCbBaD8qa87y1ZuQ/G6cwqo6uKYx+XPvAkYM1zb7GJXce31Rk64q0nvscn9z3cugPqeAX0=;XNkmkLfSYUY6DSJzSd/Stg=="

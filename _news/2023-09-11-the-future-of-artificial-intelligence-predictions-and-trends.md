@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/09/11/the-futu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/09/11/the-future-of-artificial-intelligence-predictions-and-trends/amp/"
 type: article
 quality: 89
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://www.cio.com/wp-content/uploads/2023/09/iStock-183930658-1.jpg?quality=50&strip=all&w=1024"
         width: 1024
         height: 674
-        isCached: true
-  - title: "The future of voice recognition: Predictions for the next decade"
-    excerpt: "C CapCut. Find out how voice recognition technology blurs the line between human and machine, creating new ways to interact with technology."
-    publishedDateTime: 2023-09-07T20:44:00Z
-    webUrl: "https://journaltimes.com/life-entertainment/the-future-of-voice-recognition-predictions-for-the-next-decade/article_ee094f04-0d81-50be-9302-9e3f0264ce27.html"
-    type: article
-    provider:
-      name: The Journal Times
-      domain: journaltimes.com
-    quality: 24
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/assets/v3/editorial/e/e0/ee094f04-0d81-50be-9302-9e3f0264ce27/64fa35b741ecf.preview.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "/8vIeem3ZQfjh7ycn77apP8yGDtNU/hguA+BZX3tFWNFv5GtT4erMdpzZ3A2cbeP9hwUTp7cDFg724cSAcpGDWgA6u8WGT+lgYNN8XGOUVs5GREzQ7pXZdvkmuadYbHboq8jC6oYLnU/MKecCifb4CjOw5T4SBvpieokz2eHdYG+NbPqcilwvSV5eGlcwpXJEO/O7FfaauYS0+oSw7dLW+TgJuQ270lUrxzRQAtXsCemM1XREAFteYz3oOKTDfid27yAnNZsOGJQrPbvqKKV6bqiXtGvbTmgr3FPfMS4/Ser4B8d1YMdW7qewMtS0Vih9mFsoMPYaxFUvWFh/O2r1ePSOXAgqoDGUfHOSSXvk9tou80g51J8kpWoF/qgSZTw7Qcw74KddWXj9kSmAI+1rL/ikjH3Uy123aoBaYesGSAH6B4MqWTl/qp3vTLvP8Gc4H0s+Bs2c9UxK5TYgmKTTIfhZFxXgpMpsEOZK8fhQFcYdFBRUfaziVdqkgCo8QPO3FKmTJ2M5cIrNnbcv3nSAw==;NPfjBFZpUaQRyvwEIdYDAA=="

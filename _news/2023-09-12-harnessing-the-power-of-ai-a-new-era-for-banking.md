@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/blogposting/24871/harnessing-the-power-of
 webUrl: "https://www.finextra.com/blogposting/24871/harnessing-the-power-of-ai-a-new-era-for-banking"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 500
     height: 281
     isCached: true
-
-related:
-  - title: "Artificial intelligence: A love story"
-    excerpt: "It was set in a candy-colored dystopian future, one in which people murmur into wireless earbuds on the subway and rely on artificial intelligence engines to keep them organized and control their ..."
-    publishedDateTime: 2023-09-07T20:15:00Z
-    webUrl: "https://www.vox.com/the-highlight/23779067/artificial-intelligence-ai-her-movies-ex-machina-2001-blade-runner-robots"
-    ampWebUrl: "https://www.vox.com/platform/amp/the-highlight/23779067/artificial-intelligence-ai-her-movies-ex-machina-2001-blade-runner-robots"
-    cdnAmpWebUrl: "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/the-highlight/23779067/artificial-intelligence-ai-her-movies-ex-machina-2001-blade-runner-robots"
-    type: article
-    provider:
-      name: Vox
-      domain: vox.com
-    quality: 93
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/dS0eMY1L-cX_HD0mzRUsgAMm8wc=/0x0:1920x1080/1400x1050/filters:focal(793x447:1099x753):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72439648/illust_1_1920px_x_1080px_asya_demidova_UPD2__1_.0.png"
-        width: 1400
-        height: 1050
-        isCached: true
 
 secured: "k2TSYRrgrcr0F8N0LsNS6XHAJ6xK+eOKQ6nMVQInaU46UvR7UwOsJ4gyRKG0lcR0Q8Bi5j3ka3/nffbD4zI6o72wKKaK5Cu+wl2CeGyN4s1a99TuL0IQxQL8fO7WAmJf6XT9oQPLeabFeEAA+OGR9mJOkOg9BMrbymVSlo+8w3fw2LcxTJkGqIc2UjgWEyM2p35UjPNZqdyW6rh9LGZnWytR0OjJKXyCGhoTRdGUlimhb1GMSKfajieoFA6tFsAfGeoTEYTJGmfbKxE45wO99GUSfTMHlZ9Db3vJce8j2asGSp68A3paLXgohJMhJBPvH5ZDqyZlTHmlbbfFC+yR1GeAO1C3/3O2jTWI3wm2eog2UszYIptDECMifnQNoR3Fl5fWGLf/Va8TjdgXJXmVk4ByZn+E7SQYfhLpgD0N+5upe6WyiO9FpRIjzfhrpY/PHhFPn1nB24OK2zCgcp31cnmmRpgb/CSLVU4fsY1wly5GWuR5PKN9zuq4DpbWJ+QxPrNlmqIK0BToDliMmJvWow==;946D/RlvusTp5Xj5b/g44g=="
 ---

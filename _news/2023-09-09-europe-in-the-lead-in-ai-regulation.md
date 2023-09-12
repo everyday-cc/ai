@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mikeosullivan/2023/09/09/europe-in-the-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/09/09/europe-in-the-lead-in-ai-regulation/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 107
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "California Joins the AI Regulation Frenzy"
-    excerpt: "California Gov. Gavin Newsom signs an executive order that calls for agencies to study how generative AI can help, and potentially hurt, California's economy."
-    publishedDateTime: 2023-09-07T21:51:00Z
-    webUrl: "https://www.pcmag.com/news/california-joins-the-ai-regulation-frenzy"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/02UrbFudsb8dgXt2l49YO4Q-2.fit_lim.size_1200x630.v1694123436.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Regulating AI is a mistake"
     excerpt: "Although AI regulation will eventually be necessary, following Altman’s roadmap to regulate at such an early stage would be a mistake."
     publishedDateTime: 2023-09-08T00:10:00Z
@@ -74,29 +60,6 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "State Legislatures Eye AI Regulation"
-    excerpt: "A growing number of states have enacted laws this year to study artificial intelligence (AI), ahead of possible legislative action to address expected threats to jobs, civil liberties, and property ri"
-    publishedDateTime: 2023-09-07T21:57:00Z
-    webUrl: "https://www.natlawreview.com/article/state-legislatures-eye-ai-regulation"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 39
-    images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/55596/AI%20Law%20gavel%20SMALL_0.jpg?itok=kp0Z5h9K"
-        width: 500
-        height: 500
-        isCached: true
-  - title: "State Legislatures Eye AI Regulation"
-    excerpt: "The state plans to use this information to develop a robust AI ethics board and audit procedures to protect the rights of Vermont citizens amidst future AI developments. Industry-specific guidance has begun to emerge as well. For instance, many state ..."
-    publishedDateTime: 2023-09-08T18:28:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/state-legislatures-eye-ai-regulation-7796939/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 19
 
 secured: "mwh2OfEJlqFPXstblh4jk9bHpszrIycxfnn1aq22xHWqkRRPUhiZst61dgqn7mSkCmhx0eriu42SU7ZUBjsEy4q/7EXX1Z0q07gyAPaW4JcawRVX+HYLhoeKDjPuGfUT27Shmtl2ynhG/LIbPxbIfvgsIlR+LBeLe6mt3Nu5Vk9kcb1HEOBRZcsrNkw1vHB306qKRKXu3R7FsH6tv+Zg0uDwMcvH834PpandrZNReoIE8BQ0tK1isq7MqIpvwGyQhk3b5GCwKCNGcABXkJImDpwWLlcU6JbXVh7LsrdSqoCILtdGZnhWk72lTcVYjg+AfiPA6MkIfY0zJkf84dBTrGAB8QC3Bps6n0POh/C/DCA1A5GCRvswCh1bO2CnlYdJy4C4f5BsAH05yXjAcTzmSpQZ6vroC9J2ZIN8XqvUKEJfgIx1UUHzNiAlvSjuNrJfffNRWFpSbMxmyLqsqQUuD5EzRUo2+9AYGOmppEGkPml2VL9BGqpxU9omIsgadXB9fw1BkRDWpFA/GDeaY1z2iQ==;Tp/LsuZhoHbTqQm+5DSP6g=="
 ---

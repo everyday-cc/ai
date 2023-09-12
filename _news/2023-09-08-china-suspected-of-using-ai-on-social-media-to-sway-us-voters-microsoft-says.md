@@ -46,20 +46,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Microsoft Vows to Shield Users of Copilot AI From Copyright Lawsuits"
-    excerpt: "Microsoft makes the commitment as artists and writers sue to stop generative AI programs from plagiarizing their work without paying up."
-    publishedDateTime: 2023-09-07T21:20:00Z
-    webUrl: "https://www.pcmag.com/news/microsoft-vows-to-shield-users-of-copilot-ai-from-copyright-lawsuits"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 84
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/06YvlqJVdOHHYRxLbLenLLJ-1.fit_lim.size_1200x630.v1694117923.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Microsoft says it will defend customers of its AI Copilots from copyright lawsuits"
     excerpt: "The tech giant is integrating many of its biggest products with generative AI, which scoops up existing content to create new material, potentially putting customers in legal jeopardy."
     publishedDateTime: 2023-09-08T02:43:00Z
@@ -334,6 +320,15 @@ related:
     provider:
       name: Telangana Today
       domain: telanganatoday.com
+    quality: 34
+  - title: "Blackstraw Partners with Microsoft to Drive Enterprise-wide AI Adoption"
+    excerpt: "Blackstraw AI announces partnership with Microsoft for its Solutions Partner Designation for Data & AI (Azure) and Digital & App Innovation (Azure)."
+    publishedDateTime: 2023-09-12T12:41:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/blackstraw-partners-with-microsoft-to-drive-enterprise-wide-ai-adoption/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
     quality: 34
   - title: "Microsoft Says It Will Pay Tab for Infringement Suits Against Its AI Customers"
     excerpt: "The tech giant says it doesn't want uncertainties surrounding patent infringement law for generative AI to scare away customers from its Copilot tool."

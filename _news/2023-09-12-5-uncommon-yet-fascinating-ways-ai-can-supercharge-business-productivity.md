@@ -7,8 +7,8 @@ originalUrl: "https://www.entrepreneur.com/en-gb/science-technology/5-uncommon-y
 webUrl: "https://www.entrepreneur.com/en-gb/science-technology/5-uncommon-yet-fascinating-ways-ai-can-supercharge-business/458418"
 type: article
 quality: 68
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Entrepreneur
@@ -27,6 +27,17 @@ images:
     width: 2000
     height: 1333
     isCached: true
+
+related:
+  - title: "5 Ways Property Managers Can Use AI To Improve Their Business"
+    excerpt: "and as our industry continues to embrace AI, I believe we’ll start to see even more possibilities and innovations on the horizon."
+    publishedDateTime: 2023-09-12T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/12/5-ways-property-managers-can-use-ai-to-improve-their-business/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "NTdsoOkBbDd+9+aJ6d370JtopNu2Z8y/RLyBG1VRw5+4y/c3YV1ItGirbPub/avnV1QkNRdL8UI1KlRZqhdG8jYMMG82jBqy20p16xUBGYIxLidjGOYkl75VIa3T8Vyy9LOPg8EjPTkVoRP0ldYmSWNO4ujUQGG6FuEqxG5STmhJWmsI/scEq9IJCmTLAz8E1e0wJKHIIlLHBjbTLpzKz2UkgEF+Kd7gHaUBH6a1eb0Z+hp1i+8jV1kL/UVbgRTJZKyWhgYiE1Yzp3aqJhYvX8oq77BY8mAX/xgsEjIShO/reDt12YoLvOEIcUNjuFCXPomszUXaUDBtQlW1mDhsawvNwT9Hw1Fr4TkfPJNWY6g=;l6ydzq5AHjKtaVSkC6GWrQ=="
 ---

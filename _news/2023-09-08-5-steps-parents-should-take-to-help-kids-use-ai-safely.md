@@ -7,8 +7,8 @@ originalUrl: "https://time.com/6310886/parents-kids-ai-safety-essay/"
 webUrl: "https://time.com/6310886/parents-kids-ai-safety-essay/"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Time
@@ -27,17 +27,6 @@ images:
     width: 2121
     height: 1414
     isCached: true
-
-related:
-  - title: "Sizzle AI for its AI-Powered Learning Assistant That Helps Students Solve Any Problem With Step-by-Step Guidance"
-    excerpt: "Sizzle is the free personalized app that uses the power of AI to help learners work through any problem, step by step. Rather than providing answers to problems outright, Sizzle guides students through each step, building problem-solving skills and a mastery of underlying concepts."
-    publishedDateTime: 2023-09-08T13:48:00Z
-    webUrl: "https://www.alleywatch.com/2023/09/sizzle-ai-ai-step-by-step-problem-solving-tutoring-app-students-jerome-presenti/"
-    type: article
-    provider:
-      name: alleywatch.com
-      domain: alleywatch.com
-    quality: 0
 
 secured: "1MGw5aUDreaN0ya4XJ/bY2qp0Hx2rxSTNcWOINWFYluFCGjcysUgUyLcLkxjUbXyH2SNrlKt9gnuPHInLL72grPdfZ3JDv6n0WLX9wgnp3lc9rEmVSRJ1OyLAYBYVBLljublK8NAlnLVCTb9+b8y35dQNJQP8bJ2x6mpjkiXAifVx0KRIxlSCygwwvsmpYkKI3mUgGaClwQM0W4R9EI3BomeWlFg22uMTfaqioREgeKC+Q6jdIAz7vABTQ+HrCZUpOlhR3sDaiGUFO0VCPEk0PzWAki0efQjMY/cOhPZS5bokNHJ0ls18Nm3oLYmJgf28qCUh5aF0LwLiLT6isqrKFPSVBAMPn8d72IZvIZIVsbLz0FVvrMVVKPeCAoXvGb6viHrxpSMvAl0g0lEbfb2L19dL/HnjzvfrUOmiOXWRv5Pn1IM/GowHXK8pcRQ+lb5d9IJWa6WZrw+hmvAVpICCHd259N5OlvEkIMBuAkLMlhjG4OmmXWAsFO1GxS5IeXEs9Tnvt699bbODfH3fONpdQ==;3bfAncl7giN4BfUfbiDe/w=="
 ---

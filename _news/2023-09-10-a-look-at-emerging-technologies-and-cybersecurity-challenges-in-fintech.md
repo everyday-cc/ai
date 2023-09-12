@@ -19,15 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Fintech Outsourcing India: CX, Data Security, and Compliance"
-    excerpt: "India, with its formidable prowess in IT and financial services, has emerged as a leading destination for fintech outsourcing. Leading the charge in bridging global businesses with India’s top fintech service providers is Cynergy BPO."
-    publishedDateTime: 2023-09-08T13:50:00Z
-    webUrl: "https://www.hindustantimes.com/brand-stories/fintech-outsourcing-india-cx-data-security-and-compliance-101694023544371.html"
+  - title: "HiddenLayer raises $50M for its AI-defending cybersecurity tools"
+    excerpt: "HiddenLayer, a security startup focused on protecting AI systems from adversarial attacks, today announced that it raised $50 million in a funding round co-led by M12 and Moore Strategic Ventures with participation from Booz Allen Hamilton, IBM ..."
+    publishedDateTime: 2023-09-12T13:00:00Z
+    webUrl: "https://techcrunch.com/2023/09/12/hiddenlayer-raises-50m-for-its-ai-defending-cybersecurity-tools/"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 21
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
 
 secured: "m/9ksTyAEhYUumCz8ulz+dCaJms2CXfiFOGubm7E/fTKFzRPgI3e2MDS9PdkSU1JmuIqL4Sj1PYSESYkMUOX2mzpmcb1cm0C/1Tq8+0xw/GG0ITVsz/NQ9oj+pu9MgakK4lJyZjDQRap22/T2S9zHvvOsOygP8xK7nPT/U5f7beTCn0Y1wf9MxLg0/W7ni0fRAoMEKs6bxkF8HJIadcl+FHjJMqwyu1LotWQLpL4MMX4Hjsrm0pe3FHgcr4NHnx0ZKLXh7aBud7qwo4R+Tj+3V10/qmInhk09MgwNfXaRsRt/kTFRKmx9cF/Cresn/b+My15hx+4gupgL7ekZctErIXFV/e2sYWLcne8ZkWxrbGOXvFYEM8sDDki3v8Ye+qObQvpDrEmJNUBGqReayGYsoTIZFpk4DhmswQIYrOA3LdT1y2bWm7fmePNvzmSVSb8tjFZOItcALJErRj5p7pwHgQV4ykhhavh5CGSldAW6FDkzh/heQhprYAUK+wyNjt6TpVJTc86FTPq/Dj7CkE6Pw==;pO3M8LOa/9QuPsyS3LraFQ=="
 ---

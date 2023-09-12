@@ -27,31 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Startup Battlefield 200: Fintech and Hardware edition at TC Disrupt 2003"
-    excerpt: "That’s where you’ll find the Startup Battlefield 200 ... without some cool hardware gadgets and robots. Early-stage startups are using their genius to create firefighting hardware, testing devices, a special AI-enabled machine that tells you exactly ..."
-    publishedDateTime: 2023-09-07T19:16:00Z
-    webUrl: "https://techcrunch.com/2023/09/07/startup-battlefield-200-fintech-and-hardware-edition-at-tc-disrupt-2003/"
-    ampWebUrl: "https://techcrunch.com/2023/09/07/startup-battlefield-200-fintech-and-hardware-edition-at-tc-disrupt-2003/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/07/startup-battlefield-200-fintech-and-hardware-edition-at-tc-disrupt-2003/amp/"
+  - title: "Fintechs can drive financial inclusion through AI, says Kora"
+    excerpt: "The Nigerian fintech industry can leverage Artificial Technology to drive financial inclusion, increase efficiency, and improve consumer"
+    publishedDateTime: 2023-09-10T01:50:00Z
+    webUrl: "https://punchng.com/fintechs-can-drive-financial-inclusion-through-ai-says-kora/"
+    ampWebUrl: "https://punchng.com/fintechs-can-drive-financial-inclusion-through-ai-says-kora/?amp"
+    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/fintechs-can-drive-financial-inclusion-through-ai-says-kora/?amp"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 75
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 59
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/04/SUB200-General-Article-Image-Header-1920x1080-1.png?resize=1200,675"
-        width: 1200
-        height: 675
+      - url: "https://cdn.punchng.com/wp-content/uploads/2019/01/31111416/artificial-intelligence-e1548929675751.jpg"
+        width: 800
+        height: 372
         isCached: true
-  - title: "SliceUp Selected to Participate in Startup Battlefield 200 at TechCrunch Disrupt 2023"
-    excerpt: "TechCrunch Disrupt 2023 will be held from Tuesday, September 19 - Thursday, September 21 at the Moscone Center in San Francisco. Startup Battlefield 200 is bringing together the foremost startups from around the globe in twelve different categories, giving them a platform to showcase their latest innovations to the tech world."
-    publishedDateTime: 2023-09-08T15:48:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/09/08/9877725.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "y2CV9Uq+1eotnmHvKmJIOwaKZWpEf6v7ZZlZCeBBVccsICm0+IXnctxD+2Moi1VEDfMIBTYBcgIW+DaRW4r4g4pFs5MAdKnczzpV7PqNThkkykb/UGBzih6jdfx5Iwnvn+3cHT8YEDqmnwFBkXLygZlreCRvlEMmcZte6agVPBDt8s9hfKmuIiM7LXfrUapb46gB0Td8UKiRxziEQ7kca6qwyjSkupEw0m2DIDVw4mMvG/5wChuw0iZY5ck88SM99KUYltmzIsAp3GLcDGBkFFbG7RLgl9gamneIq7JOXCq9IcSs4zuOY8+WdYLwJgaew1cccJPG6UgZixhhE8nogurK7hRHQkuxnsTSiExsZUM=;tPPZRarN1Bg9XYNTUuWzTg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/what-analyst-are-saying-abo
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-analyst-are-saying-about-the-future-of-generative-ai/"
 type: article
 quality: 89
-heat: 189
+heat: 209
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How generative AI changes IT operations"
+    excerpt: "Generative AI can provide valuable analysis and insights to IT operators. But what about data security, reliability, workflow integration, and the conditions needed for successful deployment?"
+    publishedDateTime: 2023-09-11T09:34:00Z
+    webUrl: "https://www.infoworld.com/article/3706370/how-generative-ai-changes-it-operations.html"
+    ampWebUrl: "https://www.infoworld.com/article/3706370/how-generative-ai-changes-it-operations.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706370/how-generative-ai-changes-it-operations.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
+    images:
+      - url: "https://images.idgesg.net/images/article/2018/02/artificial_intelligence_ai_virtual_assistant_machine_learning_autonomous_automation_virtual_reality_vr_digital_mind_brain_thinkstock_892854798-100749920-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Move over AI, quantum computing will be the most powerful and worrying technology"
     excerpt: "While short-term projections about quantum computing might be overhyped, the long-term outcomes are likely to be game-changing."
     publishedDateTime: 2023-09-10T23:07:00Z
@@ -77,6 +93,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Oracle expects data-hungry generative AI to drive revenue growth"
+    excerpt: "“Generative AI is changing everything. As of today ... Oracle also plans to expand its existing multicloud partnership with Microsoft by making it easier for Microsoft Azure customers to buy and use Oracle cloud database technology in combination ..."
+    publishedDateTime: 2023-09-12T11:00:00Z
+    webUrl: "https://www.cio.com/article/652022/oracle-expects-data-hungry-generative-ai-to-drive-revenue-growth.html"
+    ampWebUrl: "https://www.cio.com/article/652022/oracle-expects-data-hungry-generative-ai-to-drive-revenue-growth.html/amp/"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/652022/oracle-expects-data-hungry-generative-ai-to-drive-revenue-growth.html/amp/"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 59
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2023/09/larryellison-100443445-orig-100938366-orig.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 681
+        isCached: true
   - title: "AI, Liquid Cooling And The Data Center Of The Future"
     excerpt: "Challenges exist to scaling AI, and among the most significant are those involving the data center infrastructure necessary for supporting these workloads."
     publishedDateTime: 2023-09-11T12:45:00Z
@@ -86,6 +118,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "Harnessing AI And ChatGPT Technology: The Next Industrial Revolution"
+    excerpt: "The future is here—let's embrace it and drive the industrial revolution of tomorrow. And remember: Be Courageous! Be Digital! Be Remarkable!"
+    publishedDateTime: 2023-09-12T13:16:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/12/harnessing-ai-and-chatgpt-technology-the-next-industrial-revolution/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Scientists Are Beginning to Learn the Language of Bats and Bees Using AI"
     excerpt: "They record sound 24-7 and create oodles of data, which is where artificial intelligence comes in. Researchers can apply natural language processing algorithms like the ones used by Google translate to detect patterns in these recordings and begin to ..."
     publishedDateTime: 2023-09-11T14:00:00Z
@@ -100,15 +141,6 @@ related:
         width: 790
         height: 496
         isCached: true
-  - title: "Unlocking creativity with AI in the future workforce"
-    excerpt: "Generative AI is transforming digital content production, offering new tools that enhance the capabilities of creative professionals, as well as those not typically involved in creative roles. This fundamental shift will influence the future of work across all industries, according to software company Adobe."
-    publishedDateTime: 2023-09-07T21:29:00Z
-    webUrl: "https://www.theaustralian.com.au/sponsored/zXktpQXeYeY6d5YQxjrx/unlocking-creativity-with-ai-in-the-future-workforce/"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 19
   - title: "State laws are putting AI in the driver’s seat"
     excerpt: "Are you riding alongside driverless vehicles in your state? TruckInfo.net analyzed legislation across the U.S. to make sense of the range of laws."
     publishedDateTime: 2023-09-11T16:30:00Z

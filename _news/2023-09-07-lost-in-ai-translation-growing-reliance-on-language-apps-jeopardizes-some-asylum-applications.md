@@ -3,12 +3,11 @@ category: news
 title: "Lost in AI translation: growing reliance on language apps jeopardizes some asylum applications"
 excerpt: "They should never be used to replace translators Ariel Koren AI-powered translation tools are particularly unreliable for languages that are considerably different from English or are less ..."
 publishedDateTime: 2023-09-07T16:26:00Z
-originalUrl: "https://www.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps?ref=upstract.com"
-webUrl: "https://www.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps?ref=upstract.com"
+originalUrl: "https://www.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps"
+webUrl: "https://www.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps"
+ampWebUrl: "https://amp.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps"
 type: article
-quality: 7
-heat: -1
-published: false
 
 provider:
   name: The Guardian
@@ -22,52 +21,12 @@ topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "Lost in AI translation: growing reliance on language apps jeopardizes some asylum applications"
-    excerpt: "They should never be used to replace translators Ariel Koren AI-powered translation tools are particularly unreliable for languages that are considerably different from English or are less ..."
-    publishedDateTime: 2023-09-08T01:06:00Z
-    webUrl: "https://www.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps?trk=public_post_comment-text"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 47
-    images:
-      - url: "https://i.guim.co.uk/img/media/59ee6e688c280cd8673684e1f6265293e1acbe3f/0_0_1500_900/master/1500.jpg?width=620&quality=85&auto=format&fit=max&s=bb1ac6185c487d23e428a6ef7f8e1b02"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "ICE Is Using Busted Translation AI That Can't Understand Detainees"
-    excerpt: "Bad AI has a price — and in the case of the United States immigration system's translation AI, that price could cost people their freedom."
-    publishedDateTime: 2023-09-10T09:37:00Z
-    webUrl: "https://futurism.com/the-byte/immigration-ai-services"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 39
-    images:
-      - url: "https://wp-assets.futurism.com/2023/09/immigration-ai-services.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "City of North Las Vegas expands AI-powered translation service to include 30 languages"
-    excerpt: "The City of North Las Vegas has expanded its AI-powered translation technology to be available in 30 languages this week."
-    publishedDateTime: 2023-09-07T15:12:00Z
-    webUrl: "https://www.ktnv.com/news/city-of-north-las-vegas-expands-ai-powered-translation-service-to-include-30-languages"
-    type: article
-    provider:
-      name: KTNV Las Vegas
-      domain: ktnv.com
-    quality: 31
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/3b9afb4/2147483647/strip/true/crop/1280x672+0+48/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F14%2Fc8%2F6fb7f99c43cca611c0d3d1996b53%2Fnorth-las-vegas-logo.jfif"
-        width: 1200
-        height: 630
-        isCached: true
+images:
+  - url: "https://i.guim.co.uk/img/media/59ee6e688c280cd8673684e1f6265293e1acbe3f/0_0_1500_900/master/1500.jpg?width=620&quality=85&auto=format&fit=max&s=bb1ac6185c487d23e428a6ef7f8e1b02"
+    width: 620
+    height: 372
+    isCached: true
 
-secured: "iouQsyRE1MmBeO4g1QLtamI/h7cOz2tqWSl0ZKaka7wgiYsxoDwPuTwgfNV1OJIB/StHOc13pZS/SKAR7127Mn8ug/qawBHaV6Yo/bXreCNg6VRw0WR6N46DwU6GD7lDqUOsE0auX/h/lr5lNKKUMW4i2OWD/vM1lRwQRFjk2gojkuydByQcxtT3Qf5OJFCaHVjFN8j/YI2G3IxSenJJlFdEnxeEAg4NYBt1vxBFf2Aw0zwb6bVODYs2Y2Z78zMyKKLzOBXKAqmJgBLCwdzR52wcFh89Q1Ul91W40Ki46G+XXMZyNj2ZFEC+CCbEe5/j6ybRVPzTI/dOw9E+WEcIPVokVEi+Usp4bg4FNGKRe0E=;qEBK9Do6mYoowAMc9fgnwQ=="
+secured: "pJJ1sTCHpA1duPg6LCMPzAYzc+aJ4cyXjZ8oFNG/OZxPn0q2mBWDnN9oocggcokMqYl21XWnVu80gHfNom9/hoZK6njNsCRRSfmaNI8a1odIIHQrbqojaAF+ZpW3XY9fyi1gpqsuiZY2GF+X47yo9TNfERfzLo2W5rHdtwk3AvwZRx/jx8fuhGeHkGiAv7pjeiuOEnrvIrLdDUJzThDQJaBbHrjjOAo6WIxGZErEdJXPXCGJVP2pytnJsfkwCLTdU6Zg9dPzW+5ZocZomyTtZKXpZ2WZvcHm83OV/H3dTSsIi9U9Z6JFDe5r8EQzCzfqsRA7JkDNG+LMbdrQh+20JYsz+/msZcD/tTq9xLL/dYo=;kk6S7WmKVgiNhdM7ua481A=="
 ---
 

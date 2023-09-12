@@ -48,14 +48,23 @@ related:
         width: 504
         height: 315
         isCached: true
-  - title: "Teradata Launches ask.ai, Brings Generative AI Capabilities to VantageCloud Lake"
-    excerpt: "The new natural language interface, now in private preview, delivers the ease of use required to democratize cloud analytics."
-    publishedDateTime: 2023-09-11T13:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230911090555/en/Teradata-Launches-ask.ai-Brings-Generative-AI-Capabilities-to-VantageCloud-Lake"
+  - title: "Teradata brings Generative AI to VantageCloud Lake with ask.ai"
+    excerpt: "Teradata is bringing generative AI to VantageCloud Lake with the launch of ask.ai. The solution is being made available only on VantageCloud Lake"
+    publishedDateTime: 2023-09-12T12:51:00Z
+    webUrl: "https://www.enterprisetimes.co.uk/2023/09/12/teradata-brings-generative-ai-to-vantagecloud-lake-with-ask-ai/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: enterprisetimes.co.uk
+      domain: enterprisetimes.co.uk
+    quality: 19
+  - title: "Teradata Launches ask.ai, Brings Generative AI Capabilities to VantageCloud Lake"
+    excerpt: "Teradata has announced ask.ai, a new generative AI capability for VantageCloud Lake. The natural language interface is"
+    publishedDateTime: 2023-09-12T12:44:00Z
+    webUrl: "https://www.datanami.com/this-just-in/teradata-launches-ask-ai-brings-generative-ai-capabilities-to-vantagecloud-lake/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
     quality: 14
 
 secured: "VppPNIpglpbpLYII4myIq5EvLGedsvuz/qzMQBHzc6DwsSss5ltfHPadv/rbG6WbCoGXF4sIdcjCIuaOEPUNSUuVY0dqx+J0iWaoLTNoTAT+XUHBSQ0Z9uKznbcpnAbQiFS4lJYrYQKiYbB9q8jfMwN/jZuw+dbIUTnMZ48F4A6o9MUIfk8nwZ0KMDnkMGsiajhCq6ubcs7CA50vYEAWhXYFoypEuBM2B9pMrQPIGfd+QG3tN1miMfeeJHx4XOLNOo2e+lgfL+zTF+Q1cPJY1hq6hShDl6tSUZeSMaa7NNtQpwEy9fErAqwUfFZPnnKKs8gTvfYQZ3taNzoJB8xULV2iqXI10Ot3aNwhGPQ7z+wNQNvC1X0qq4uQ+hxq7uqBB6yDFRcWQCtMHy4K4Q3YcCufZhY2PIaXmw1m8Lg/3DpmSaYZikDxNDhWYT09aQK/hpbCS5VpJSJrLFUU4Mx/zZzKs4aZK86ug7tnj6Ib67Z+aAFld6I0OAxrDvTmXA+xWkvn9vVIAL68PZCIJTSsfw==;nxuku/sPcJfeURCK7+w6xg=="

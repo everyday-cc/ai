@@ -82,6 +82,15 @@ related:
       name: Axios
       domain: axios.com
     quality: 17
+  - title: "Artificial intelligence among tools IRS will use for enforcement push"
+    excerpt: "AI will be part of a new tax-enforcement effort that will target high-income earners, partnerships, and large corporations."
+    publishedDateTime: 2023-09-12T12:12:00Z
+    webUrl: "https://www.bondbuyer.com/news/artificial-intelligence-among-tools-irs-will-use-for-enforcement-push"
+    type: article
+    provider:
+      name: The Bond Buyer
+      domain: bondbuyer.com
+    quality: 17
 
 secured: "CYx07fILbzna0SAVirrTVdbgS3XVwpLiwYVQ1+WEn+NmsOlxNYuF4Cj6wTqEc7GdOE5fbtbiRzCEyRhX4rNVvX2kkY81EYp9ikNfmpjpwSEgMU+qYmksE4t+lAUo+ynAn79HyF8DXLRG9Q3v6n9NmHTsjE7A6EmdoRuUWgVxEBiGxlki4/mtbwN0hGI7G+XiN9VpzpaA8RMsUpJb+qAGFbOTtFMasoI2h/DknKc6pGOS6NKtZhz07qsV835/aJ7R3f0Ch3A888l9BKRadYeb6xXc+Z1cNUpVleAu/FIypcZ5xA/fCqM+AhqkPntndfXNF+CXVeRFAof2ivNqXp3F+gi/RWdLO/F08RxahmzxoQvwKmCpYmESgLANJSg+/bAsrVfk5QNWzRvQmafYC5Q/xk6AhFQUMiBqOQ2khJzql6FdM4foAO6woINNZIen3XKIkp4WFWgTg2YfQ2kU1SX9CXJHnbtaTbMLtn2+wwHZ2AM9uRvLH9Zo6gLar5+ndmyKd1G/d0/5NW+lOcSy0OA5pg==;Rjk0la8bJEJpsE5ASipKrw=="
 ---

@@ -53,6 +53,15 @@ related:
         width: 320
         height: 213
         isCached: true
+  - title: "State of play: Artificial intelligence in the supply chain"
+    excerpt: "Venture capital investors are increasingly putting their money on artificial intelligence in supply chains. Why it matters: AI has often been seen as a means to drive efficiency, and no other industry is riper for this tech than the supply chain,"
+    publishedDateTime: 2023-09-12T14:29:00Z
+    webUrl: "https://www.axios.com/pro/retail-deals/2023/09/12/state-of-play-artificial-intelligence-in-the-supply-chain"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 32
   - title: "Former Intel czar’s AI plans for India include data centres every 100 km"
     excerpt: "From how one of his memos led to ‘propaganda’ about chip packaging continuing Moore’s Law to the fate of soft-knowledge jobs in the post-AI era, former Intel chief architect Raja Koduri opens up in a"
     publishedDateTime: 2023-09-08T13:11:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/unesco-trains-indonesian-teachers-on-
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/unesco-trains-indonesian-teachers-on-ai-ethics/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -36,15 +36,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 19
-  - title: "UNESCO recommends age limit of 13 for classroom artificial intelligence use"
-    excerpt: "This guidance lists a seven-step recommendation which includes regulations on data, generative AI, and AI ethics, along with updates to current copyright laws and whole-of-government strategies regarding the technology. It also acknowledged what it called ..."
-    publishedDateTime: 2023-09-07T19:57:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/education/unesco-age-limit-classroom-ai-use"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 17
 
 secured: "XRhIX1Uk7puMMyTXw/n4IOS65Nc+gy/P9zSM1TlVuBUaweXbuT/7fnqi4Rk2Vi9wtjKGoA05+8vrOccN5Ix74yntYD5dfAwE7XCk1RXnJSp2df0NR54jeaIcme4S+27VOIx1C/iadFyc1hMliGkMKonBfS82CtHv7K8KQ+07DpJNaD19GkL7yOqkTsOdl9i7rj3MsobKYehG8n1F7L44nszlZW05KDxoYW++mJQewa04c4UTDlfgmV8MODflgfoe/qVcDA02HeSkPexs+YR5IiWVSZA6fqcWMBAdcfyA8vm4bxinvLONY4MOghRtOeQUdyCIj3SX562RZ4pprypahdLepx8RINz+6Km0EDhi0KY=;WKezCR9g0N4xX244X7H5FA=="
 ---

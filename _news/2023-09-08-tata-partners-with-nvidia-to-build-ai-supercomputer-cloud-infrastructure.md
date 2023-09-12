@@ -63,6 +63,15 @@ related:
         width: 850
         height: 448
         isCached: true
+  - title: "Tata Partners With NVIDIA to Build Large-Scale AI Infrastructure"
+    excerpt: "TCS will utilize the AI infrastructure and capabilities to build and process generative AI applications. The NVIDIA partnership will further enable TCS in collaborating with its customers to drive reimagination with an AI-first approach. Additionally, TCS will upskill its 600,000-strong workforce leveraging the partnership."
+    publishedDateTime: 2023-09-08T16:40:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/09/08/9877690.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
   - title: "After Reliance, Tata Group set to announce AI partnership with NVIDIA: Report"
     excerpt: "Hours after billionaire Mukesh Ambani-led Reliance Industries Limited on 8 September announced to partner with US-based chipmaker NVIDIA, reports arrived that Tata Group is set to announce an AI partnership with the same US chipmaker. An announcement is expected later in the day, reported Reuters citing a source."
     publishedDateTime: 2023-09-08T12:49:00Z

@@ -26,22 +26,6 @@ images:
 
 related:
   - title: "Machine learning contributes to better quantum error correction"
-    excerpt: "Researchers from the RIKEN Center for Quantum Computing have used machine learning to perform error correction for quantum computers—a crucial step for making these ..."
-    publishedDateTime: 2023-09-07T20:00:00Z
-    webUrl: "https://phys.org/news/2023-09-machine-contributes-quantum-error.html"
-    ampWebUrl: "https://phys.org/news/2023-09-machine-contributes-quantum-error.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-machine-contributes-quantum-error.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/machine-learning-contr-1.jpg"
-        width: 1280
-        height: 1113
-        isCached: true
-  - title: "Machine learning contributes to better quantum error correction"
     excerpt: "Researchers have used machine learning to perform error correction for quantum computers -- a crucial step for making these devices practical -- using an autonomous correction system that despite being approximate,"
     publishedDateTime: 2023-09-09T01:03:00Z
     webUrl: "https://www.sciencedaily.com/releases/2023/09/230907105848.htm"

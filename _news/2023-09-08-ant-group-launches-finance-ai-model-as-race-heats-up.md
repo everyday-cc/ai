@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbctv18.com/technology/ant-group-launches-finance-ai-mo
 cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/ant-group-launches-finance-ai-model-as-race-heats-up-17752271.htm/amp"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: The Hill
       domain: thehill.com
     quality: 39
+  - title: "Swoop Launches Predictive AI Adherence Targeting"
+    excerpt: "First-of-its-kind targeting predicts which patients will become non-adherent in the next 30 daysNew offering leverages Swoop’s best-in-class machine learning and artificial intelligenceNEW YORK--(BUSINESS WIRE)--Swoop,"
+    publishedDateTime: 2023-09-12T15:01:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2023-09-12/swoop-launches-predictive-ai-adherence-targeting"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 39
+    images:
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
+        isCached: true
 
 secured: "3YpoaVbiJDMrehWFbR5O89LXwBE3vkH4DkqwlQVlfHfKJen5rclx8k7je0hAoCIsWHO4q0kSzq869Ptsk6l1qYNeGLLAlccurSY8VRbIeFyGb4IJDU4d75NOXYRQbh+9sKEI2FEVulnoC9GA8ca3Yc1vrEOUKLbopxpZ9Y5V2icUYsMhp6X+FwTJmREogk91JKp1shwMvfA7zeclIfNvCOw19uOH4wLMp1UyR10hsR6MpJBwhaVbOi8l3yShGryi/DcTSlOfgWOaf7Ho1oXqoxQNnjZpSx8FdG6Cp3G/c+UMcjqekv+T0vBEA2rYZ9W2XULRBtJMYFxjPdB/2NBefncLyLZGwiiEJWGVgnXDa+Y=;fivWDuJDXMQQd0ejYHUM3A=="
 ---

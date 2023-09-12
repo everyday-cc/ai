@@ -48,14 +48,23 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Teradata Launches ask.ai, Brings Generative AI Capabilities to VantageCloud Lake"
-    excerpt: "The new natural language interface, now in private preview, delivers the ease of use required to democratize cloud analytics."
-    publishedDateTime: 2023-09-11T13:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230911090555/en/Teradata-Launches-ask.ai-Brings-Generative-AI-Capabilities-to-VantageCloud-Lake"
+  - title: "Teradata brings Generative AI to VantageCloud Lake with ask.ai"
+    excerpt: "Teradata is bringing generative AI to VantageCloud Lake with the launch of ask.ai. The solution is being made available only on VantageCloud Lake"
+    publishedDateTime: 2023-09-12T12:51:00Z
+    webUrl: "https://www.enterprisetimes.co.uk/2023/09/12/teradata-brings-generative-ai-to-vantagecloud-lake-with-ask-ai/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: enterprisetimes.co.uk
+      domain: enterprisetimes.co.uk
+    quality: 19
+  - title: "Teradata Launches ask.ai, Brings Generative AI Capabilities to VantageCloud Lake"
+    excerpt: "Teradata has announced ask.ai, a new generative AI capability for VantageCloud Lake. The natural language interface is"
+    publishedDateTime: 2023-09-12T12:44:00Z
+    webUrl: "https://www.datanami.com/this-just-in/teradata-launches-ask-ai-brings-generative-ai-capabilities-to-vantagecloud-lake/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
     quality: 14
 
 secured: "1WoRPxgqZDw0Y1ByDH6IqAve9QCFg9F7wQzi/A/r5rZioZBSOeiPahEGC9NRGTkx3RR8TEhvm5tTgSjby5mScTfbNgU9bcp7RbmxP96uu6EriTwlt9DaywfAnAdZH58bxJBGL4S/QexnaGLTIMgDY8y3+zLX96QZ8iHntkaiWMIcXTqqTkcbreIVFYJK1DVE8KmDaN4hnZTkZV99k3+e6biqeAZ69GgpGpzpXz2WaZueyYvzS33ItTXajpA3jnPriClTFQLB3X/GpSmiI8hE9gHxxhxOoWyI2Rg+tB6f5izh8uiRdVjMa2Vo1Qnh9Vpg/Fpj8rW1VU4q81VxxKkvmPBhkWUWTXfReZ+cecS+0f8=;m9CAK8N0X2LgKcL1QIvUPA=="

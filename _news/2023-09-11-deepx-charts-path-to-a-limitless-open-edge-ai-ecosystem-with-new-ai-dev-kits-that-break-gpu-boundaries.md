@@ -24,6 +24,17 @@ images:
     height: 267
     isCached: true
 
+related:
+  - title: "DEEPX Open Edge AI developer kits and more"
+    excerpt: "DEEPX, a leading AI semiconductor technology company, is making significant strides in the world of artificial intelligence with its innovative Edge AI"
+    publishedDateTime: 2023-09-12T12:17:00Z
+    webUrl: "https://www.geeky-gadgets.com/deepx-open-edge-ai-developer-kits-and-more/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 19
+
 secured: "5BXU/ftik6wdCSJE59Y2aTnXBcADMvnHPnhJ0bLAokZSzVz2RjQAsG5q7Zt8erOIvnyGOKM5JdfjHpFuPdCRys+ZChFlh3AGWzK/mLqtDVzDBTae3XIr5FK1cxVOZptwy81Pwk2LW5QOrjVnTUOW1ch7xPG8NCFaMBbQ8UND/hH7gALwHC3ahDbhoMYQHg2L/c0SrqAi6E+MrIwKOVv8A05LnMAH4WNqsEPZEJKDBFi1DwQewcX3CHEq3xgPmRUnnlxVU5gG5J4AZTJZeglHY7zNRDSgsZ/C90DTcNwxhzSfTW4+BrGevSVZzJhVd0PGb2LyHCJUPhK5AWxRtK4YBOB71r/eK6QAQ1YF0nq1/Wtc77H1bTyYS+rr+Eepv42yxHgoR47MjXn3dGSIy8QMgbCTsI0qV1qfDm8MCLy3GLyZhOjsK8tyS25O2bSNSFjNrkvee3pmN/63d//1Q9NVEB+rMaU2mMRazh/EHV+ue9Oa5yNj/3eQywZzgWdI2tgQkV4hFM4lSUNt8yxWsz45Qw==;Imj7fzxr2Ot0VClbYCfLkg=="
 ---
 

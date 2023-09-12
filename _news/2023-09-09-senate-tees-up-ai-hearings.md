@@ -37,6 +37,20 @@ related:
         width: 1019
         height: 573
         isCached: true
+  - title: "Swoop Launches Predictive AI Adherence Targeting"
+    excerpt: "First-of-its-kind targeting predicts which patients will become non-adherent in the next 30 daysNew offering leverages Swoop’s best-in-class machine learning and artificial intelligenceNEW YORK--(BUSINESS WIRE)--Swoop,"
+    publishedDateTime: 2023-09-12T15:01:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2023-09-12/swoop-launches-predictive-ai-adherence-targeting"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 39
+    images:
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
+        isCached: true
 
 secured: "htOh0Ov1F9AQL8wu7EjZYL6ovL71L8GVaAmS61ei7xZHTIvD6PQ69fsc43SIBNgDWM23gXJ2A74hTKtr2qq10K2l1Jo5JUej9sqUgmI8lP5zl03i94i1yaC/Sq4o67ZuCBqaJJTat8qZNBS96xS6XSR7QpVziRjQ0fJxz8LPGLAPkpElx9UMocPRXKg3AzogFsfOdFpGltHgbJGuhF0WAapU6fXz/++QPV5A6/tzAma2dmjlaNsIcyTkSELVHAxO2wA7rgQbXfRaCGGEeDReuSVtwVcb9lOm6AS+uHtW2ejP65/+RK/jVQLjEof6gH5TsgZ3v/leeqi3QwzDf5Y7Hd+XqOBA/Vr2KAGHCv2RSUd9l+g0D0WGiC1QR4pUAfRYjfR74fioSiAnEmYin4RCTOyOVk4f5wLcvEh80F/oL3h+Dht0HPNecX86letqBrLJJBmFZ96JoGn5JqoHY2Ub6KGCVLvb8Wz2B9fSOnFwHWTUJx1Jjw6FXszEKLbfXBG4S2kCzTAzyzC9wJIjjuGjZw==;sRQKLgnsgFSUlPq2EndeTQ=="
 ---

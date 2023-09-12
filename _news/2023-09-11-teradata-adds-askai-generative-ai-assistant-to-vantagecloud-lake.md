@@ -51,14 +51,23 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Teradata Launches ask.ai, Brings Generative AI Capabilities to VantageCloud Lake"
-    excerpt: "The new natural language interface, now in private preview, delivers the ease of use required to democratize cloud analytics."
-    publishedDateTime: 2023-09-11T13:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230911090555/en/Teradata-Launches-ask.ai-Brings-Generative-AI-Capabilities-to-VantageCloud-Lake"
+  - title: "Teradata brings Generative AI to VantageCloud Lake with ask.ai"
+    excerpt: "Teradata is bringing generative AI to VantageCloud Lake with the launch of ask.ai. The solution is being made available only on VantageCloud Lake"
+    publishedDateTime: 2023-09-12T12:51:00Z
+    webUrl: "https://www.enterprisetimes.co.uk/2023/09/12/teradata-brings-generative-ai-to-vantagecloud-lake-with-ask-ai/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: enterprisetimes.co.uk
+      domain: enterprisetimes.co.uk
+    quality: 19
+  - title: "Teradata Launches ask.ai, Brings Generative AI Capabilities to VantageCloud Lake"
+    excerpt: "Teradata has announced ask.ai, a new generative AI capability for VantageCloud Lake. The natural language interface is"
+    publishedDateTime: 2023-09-12T12:44:00Z
+    webUrl: "https://www.datanami.com/this-just-in/teradata-launches-ask-ai-brings-generative-ai-capabilities-to-vantagecloud-lake/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
     quality: 14
 
 secured: "P8P4G/wv+pR/P5KpVhuCyaIzYr9UioITj5/XRYNCs6dP1wnp7z+hypOr3etSEpMbeDZopL0b7jA3wJVr6N9URonHm5yX66LBr0j1JOH2LPYZKOvPENJVAr6HHuomoFla7WY6PCYjH6udDXqB2BTvJXU3NtnWXwe6tjQWx9bVjrTAkoR5LuyKbz1BMAq3o5Jc+i5Yb0huFXPCbZH63JtjRGp1lpdN1WuTkuFZOPjakdVYCrlXUBrFr41wt6uV21BJmT8v2rZa048k33uK/Yod7u5rhlUGQ/pWdmrcaov5I0EZ/6CTdYlZWVPJXuIIVD9pcDZ+ukMKZPUywjwV5yJzKpvuUTFNBJbLSjakFA3AUzm+kKoT8cORvHep73WyymGvcnO7iZirzAL1b4Rv3cedFse/AKVmuLW/da/hlCAgX5YUSeWngXF+JwCFyOmm3/JvI368WMNs3vR/NSwXonW9QLMu9YhU8f58E3aK76Z52mCsmCs5G/dEbY0v/LBD8r3KiltbTxjZWJ5x6efSinY8qA==;OZH5cMggUnW84bNR4In7pw=="

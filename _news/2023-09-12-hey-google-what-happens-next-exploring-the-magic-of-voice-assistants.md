@@ -1,15 +1,13 @@
 ---
 category: news
 title: "Hey Google, What happens next? Exploring the magic of voice assistants"
-excerpt: "In the age of technology, the concept of talking to your devices and having them respond intelligently is no longer the stuff of science fiction. With voice assistants like Google Assistant, the future is here,"
-publishedDateTime: 2023-09-12T07:04:00Z
-originalUrl: "https://timesofindia.indiatimes.com/blogs/digital-mehta/hey-google-what-happens-next-exploring-the-magic-of-voice-assistants/"
-webUrl: "https://timesofindia.indiatimes.com/blogs/digital-mehta/hey-google-what-happens-next-exploring-the-magic-of-voice-assistants/"
-ampWebUrl: "https://timesofindia.indiatimes.com/blogs/digital-mehta/hey-google-what-happens-next-exploring-the-magic-of-voice-assistants/"
-cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/digital-mehta/hey-google-what-happens-next-exploring-the-magic-of-voice-assistants/"
+excerpt: "The wake words are designed to trigger the assistant into action. Voice Recognition: Voice recognition technology is at the heart of every voice assistant. Once activated, your device starts processing the audio it hears and converts it into a digital format."
+publishedDateTime: 2023-09-12T13:06:00Z
+originalUrl: "https://timesofindia.indiatimes.com/blogs/digital-mehta/hey-google-what-happens-next-exploring-the-magic-of-voice-assistants/?source=app&frmapp=yes"
+webUrl: "https://timesofindia.indiatimes.com/blogs/digital-mehta/hey-google-what-happens-next-exploring-the-magic-of-voice-assistants/?source=app&frmapp=yes"
 type: article
-quality: 44
-heat: 44
+quality: 4
+heat: -1
 published: false
 
 provider:
@@ -19,12 +17,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2021/09/rohit1.jpeg"
-    width: 416
-    height: 425
-    isCached: true
 
 related:
   - title: "The Rise of Smart Voice Assistants: How Alexa is Transforming Technology Interaction"
@@ -42,6 +34,6 @@ related:
         height: 400
         isCached: true
 
-secured: "GFfH+n9bjFmKqISrarmiTXTG4VmuOFVjjNbRqwkghp0yjqOLg5+Npdu15xyt/3NFKToiKNgH6DLcZuzb+UwDIsUrVD/5nbSFHS6xzQLXV09fsA0Y6kDsy9+yE/sjS7cE7BeKcD9ZYz1YHQBhMwrpSg432AQtqz+jZajVOjCqDmjp9hylZqvNECowgATFO0imKIaXxJNuruICrHcrzpVUB9dOqU7oaZ3TIZpXD+SxoXKfKsdbM4PouPAdfhLNwVIU5yUaSUjvOS+0lx/dd3v0whj0eDNGZhNxXyLD9jgYUB2ChYc03I0ITuA5Ry/2w3IXz8B0cpdQB3nJFpOzuIRt+nOjZo0Hk6fSR7fubbFU+FQ=;BHRUqQ/lOUaiprlIK3Qakw=="
+secured: "fOQwHI8Np1WbomkB/o2YeP5t9YT+6a4aRZZXZfCOBcr3fHxFX7xC7nTOqnFIiJsTosdvtIQ4dXkI8t8y5rJl0CF8FSlJscOAP9VIirfuAgZVCFBbzFdavvyo+vLVG815Gi8nKX8EDPaLpyJiyyu9ZFQ5yVr+wZEQjacsnXu1FMu5xlOGPpydav66DIj7aWxAc17dxQyYvigt2uFD1BmfMYCiVkJYFG+O0nLADa8GlvwaCV/lrknHkLdj+ZzH1yi+QsYv58JxfPLZydsIJNg1H2HwpZH63j6BK7H65KN3N4bt5ejyU97YvDVqPKpMFfbjcjDOazjFSozsYeSGz4CtzHyBtcxtGRDZZEy0zUXPlzC0Zjhq4R1ciSqhyzNOLZKnxVN/8OkwHNy3o5iys7cFtNGhk/2PupwZ04a6q/dZIo6YKSnol7pkTqJ4dhpfaWb3UnM92G6FxTG3Pq8tev1QOUl3wWSiJOelD5P68FZBiLHozG/dOUWgJgkvTa8i+GuQ+T0dRgvptCfvInlTkKkjjg==;o0fq8bcPFsvlgSh/vKf4CQ=="
 ---
 

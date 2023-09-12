@@ -89,20 +89,6 @@ related:
         width: 620
         height: 436
         isCached: true
-  - title: "AI startup Imbue closes $200M funding round backed by Nvidia"
-    excerpt: "The Series B investment values Imbue at $1 billion. It included contributions from Nvidia Corp. and Astera Institute, a nonprofit that backs promising research initiatives. Cruise LLC Chief Executive Officer Kyle Vogt, Notion Labs Inc. co-founder Simon Last and a number of other backers participated as well."
-    publishedDateTime: 2023-09-07T21:20:00Z
-    webUrl: "https://siliconangle.com/2023/09/07/ai-startup-imbue-closes-200m-funding-round-backed-nvidia/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Imbue.png"
-        width: 932
-        height: 519
-        isCached: true
   - title: "Nvidia’s dominance in AI chips deters funding for start-ups"
     excerpt: "Nvidia has “indirectly” contributed to overall AI chip fundraising woes, because investors want “home run only type investments with a huge investment, huge return”, Mythic CEO Dave Rick said. Difficult economic conditions have added to the downturn in the cyclical semiconductor industry, Rick said."
     publishedDateTime: 2023-09-12T06:57:00Z
@@ -117,6 +103,15 @@ related:
         width: 1500
         height: 800
         isCached: true
+  - title: "Enfabrica raises $125M to scale up GPUs, memory, networks and storage for distributed AI workloads"
+    excerpt: "Enfabrica raises $125M to scale up GPUs, memory, networks and storage for distributed AI workloads - SiliconANGLE"
+    publishedDateTime: 2023-09-12T13:00:00Z
+    webUrl: "https://siliconangle.com/2023/09/12/enfabrica-raises-125m-scale-gpus-memory-storage-distributed-ai-workloads/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 20
   - title: "Nvidia's dominance in AI chips deters funding for startups"
     excerpt: "Nvidia's supremacy in building computer chips for artificial intelligence has chilled venture funding for would-be rivals, investors said, with the number of U.S. deals this quarter falling 80% from a year ago."
     publishedDateTime: 2023-09-11T13:05:00Z
@@ -127,6 +122,6 @@ related:
       domain: aol.com
     quality: 17
 
-secured: "2yG5Vq7SoS07PT3s+Mp8js7In0AJwM7yT8s6+PltpfSmWP7H24pwlgZlhqGsMXGQvIuBdHDHbAfJGNubUPP5P252jDzh+lRwEyug9InnFCSWl/Mqrw9c23f+DzWykZIPryl6UuKy820fVW5YHq+CCMBJNvXcD3mGvfkGm8/fddXWl7laZj8GBR8GXQAytY3qrNJClIfU9HnobQHFsUvOGWUsHD6i7qGZlKHEyC/ARJrOHFGhyqJdlgkJCPlva4OCTWKPPdPuvWIWxl+JgXG1jcLMmGAVauFsIBJBw+qMyX9Yo0V8rv2LSfQ/UpLEnBgfvrsPjn0tw230LWviNYdGBbTTFq+KZ8aMfu7GW4SGdlU=;FxbKH7tXiHI4icIoGsuvoQ=="
+secured: "SXBUbkQ/oIsjdlpCfmb6e0AxTsa8QUB5qLGPpNehF0/r/ql/ooa8BZia1tqtUUYgszI3aze4sGoU++L8xJbNbv9LfGeYIwaP7e1NUzU5Bn31NGTaDcInx1o7bi5suWGit58XkXkom8ubhwP3/UzlIOSc8o4/0xrJ5oMv1DURbBDe5LSa0a1KkI9a5sUhYO8vRP13SHNMd2PD+TqGFWcHU1CPT5SqkNljMDMPJnw0JMOSwcDmTQxws9kPXkWw+6l/z0cxwGNiXSaNhFV0esPE4IA6zqCZIWGSIUxXpeYzTmU3a70QBpvKQgPWoK1LSg+0540CuJUPgxUegaMTHY6MZQpH1v9IFzj/uwlvOip+vvA0ot/4/gEblI+Kx4MPk3I5UfJjTCPNEC3ytathefgknDLQRGCi/SiwgdqRP2BkA5pfNxcW9L3yKYskMnme2fQj8lzOsrLJJEcPN+Lop9MKCYbOtt2b7obj/xjeMCmWw3Zn87xnMH96ERQ+GsB7Q6F+Xqy0LDWPYOOpRF6NqZSpiQ==;jZIaEBNNW1R4tAhrhqAplw=="
 ---
 

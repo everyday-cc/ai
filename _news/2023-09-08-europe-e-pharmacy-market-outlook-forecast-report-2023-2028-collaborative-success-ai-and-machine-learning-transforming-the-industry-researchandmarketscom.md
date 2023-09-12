@@ -18,6 +18,17 @@ topics:
   - Machine Learning
   - AI
 
+related:
+  - title: "Clinical Decision Support Systems (CDSS) Market worth $2.5 billion | MarketsandMarkets"
+    excerpt: "The Clinical Decision Support Systems (CDSS) industry is poised for remarkable growth in the near future. With rapid advancements in artificial intelligence"
+    publishedDateTime: 2023-09-12T15:03:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-09/60089679-clinical-decision-support-systems-cdss-market-worth-dollar-2-5-billion-marketsandmarkets-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
+
 secured: "tSyUjFdp/v2sRR6JVIj0BUSZNClGXvI8G4DnxhSHu7lPH+FhPC9m9gTn2G3PoFMqJ6dk1XXcmSMpofVmtQEG7Vj7FH53JXDJZBxa+UwtDT5uCuSLCDJWNahCR4zQwTxAghLysrDpG8pK/wK7JJXUSxVgeZO84TMQ7OujT8h6xc9fonfQi/FNmYoxfdhz0yRFZzEZck50ohBa2xJa/41U9ULN5zlS6OzLIpcwKYfuFA0vEuBabcKvLkYjnhQu5b8R8GVlecdl3otVbWe7+LdimLAHsqvssoXOsWsE4SixItNMYbbALAsqmHEh4xfIx5PKrg+AUUYsJG8YvECbAdSACIF0XWZ6jSn0g//aHAgB2is=;N82VmZ72Z/x9wLRRyU8VwA=="
 ---
 

@@ -36,20 +36,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Microsoft Vows to Shield Users of Copilot AI From Copyright Lawsuits"
-    excerpt: "Microsoft makes the commitment as artists and writers sue to stop generative AI programs from plagiarizing their work without paying up."
-    publishedDateTime: 2023-09-07T21:20:00Z
-    webUrl: "https://www.pcmag.com/news/microsoft-vows-to-shield-users-of-copilot-ai-from-copyright-lawsuits"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 84
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/06YvlqJVdOHHYRxLbLenLLJ-1.fit_lim.size_1200x630.v1694117923.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "China suspected of using AI on social media to sway US voters, Microsoft says"
     excerpt: "The AI-generated content is more ‘eye-catching than the awkward visuals’ used in previous such campaigns, such as digital drawings and photo collages."
     publishedDateTime: 2023-09-08T04:05:00Z
@@ -338,6 +324,15 @@ related:
     provider:
       name: Telangana Today
       domain: telanganatoday.com
+    quality: 34
+  - title: "Blackstraw Partners with Microsoft to Drive Enterprise-wide AI Adoption"
+    excerpt: "Blackstraw AI announces partnership with Microsoft for its Solutions Partner Designation for Data & AI (Azure) and Digital & App Innovation (Azure)."
+    publishedDateTime: 2023-09-12T12:41:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/blackstraw-partners-with-microsoft-to-drive-enterprise-wide-ai-adoption/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
     quality: 34
   - title: "Microsoft and Paige Collaborate on World's Largest Cancer-Fighting AI Model"
     excerpt: "Microsoft, a technology behemoth, has partnered with Paige, a digital pathology company, to construct the largest image-based artificial intelligence (AI) models globally, designed to combat cancer."

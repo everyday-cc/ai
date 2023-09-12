@@ -6,8 +6,8 @@ publishedDateTime: 2023-09-11T15:28:00Z
 originalUrl: "https://mynorthwest.com/3929822/ross-its-probably-too-late-to-stop-universal-face-recognition/"
 webUrl: "https://mynorthwest.com/3929822/ross-its-probably-too-late-to-stop-universal-face-recognition/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://mynorthwest.com/wp-content/uploads/2023/09/GettyImages-72326316-e1694444969785.jpg"
@@ -24,6 +25,6 @@ images:
     height: 506
     isCached: true
 
-secured: "y3S21zrKm3Vte61QokSnrXoIH1fnHO+OnP5gSXg0sY/qf2nZMi2sDAIsRV6R1DV42SWCymLZLEvCDhktFoA5wvVP4AuRx4SbGHoCZwY3j4dhOs8g+ls/+7n3c+RtfTXVHdwyn7mQ+ukhdMYF7VrYrsSml3G8DKsGmj1u1LrHupe42DM1NGFgpwNZHN+yvHXzaieS9XVAn+k8+uxHIxa+0OEPHtEClzg2r3vRcT8qLeVriqIfVpDEGLeK3MYk2cn/SsWNZMLuDZHEjgrWfSFyVYsLx4AlsJN/oRZkaEmVbtA3xxzIzX3NAO6Ntz+CpVxMNoL6GlfAtXCjuBqKNQ+1Lungnfl9swX+BvGQd3W1cH4=;hU5JIrlz4o96o1WHS1m/9w=="
+secured: "gtYQMXWNxfTuhJLQmsuya/701pJ2PtEvStWDFg76Qv6mLdGddn0ZHhpLl6tMJiJOajbpRoXcJgNej3l00NV4/alrRcma/hAs48HkQQ6ChCq2CAFi9F58bdiwlUMc727IUwQlVzZt318vdHRuVQ4tsXhUzkRWmkkxEF7i3rjnKFf4JSxrjOLKKuxWKmfTsBVKX6gOpnbw2UhK6isTihrRF4hg/PeM8TQXQHs1qYKqWzQ9VBaEtDFG6flwD4QICeDXhxW7eZmeieUnSS7hVZSIMlTargboj0Bjpxh0epDgNkvfnfp2gAMO0UGtaFPWMWi7AoPPBp094PHkVdT9RIJxua1m0Cdc3opSLDJ7VP56G0wYIcxnsy78+7dZCIBhDM+Wy4WTIMVyEecyct5Ou/liDUP5eK9yWAYZdPVXXCpiOlOspmCvA7ZP3cGBU/f2U2fYkeG2cx4uzjKyRIgq5svf7lUaZDzm8A61UbHn0vD4PK7VqUFayV+zqQ2ldwooz0ZhNF641vuM5418Pde7Z2tBKA==;2o1GQbtbb6IS1E43AOAmig=="
 ---
 

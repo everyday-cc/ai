@@ -56,6 +56,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Tata Partners With NVIDIA to Build Large-Scale AI Infrastructure"
+    excerpt: "TCS will utilize the AI infrastructure and capabilities to build and process generative AI applications. The NVIDIA partnership will further enable TCS in collaborating with its customers to drive reimagination with an AI-first approach. Additionally, TCS will upskill its 600,000-strong workforce leveraging the partnership."
+    publishedDateTime: 2023-09-08T16:40:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/09/08/9877690.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
   - title: "Tata partners with Nvidia to build AI supercomputer, cloud infrastructure"
     excerpt: "Tata Communications and Nvidia will develop an AI cloud in India aimed at providing critical infrastructure that enables computing's next lifecycle. Tata Communications' robust gl"
     publishedDateTime: 2023-09-08T15:46:00Z

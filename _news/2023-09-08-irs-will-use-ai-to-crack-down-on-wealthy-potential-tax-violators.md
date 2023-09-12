@@ -82,6 +82,15 @@ related:
       name: Accounting Today
       domain: accountingtoday.com
     quality: 17
+  - title: "Artificial intelligence among tools IRS will use for enforcement push"
+    excerpt: "AI will be part of a new tax-enforcement effort that will target high-income earners, partnerships, and large corporations."
+    publishedDateTime: 2023-09-12T12:12:00Z
+    webUrl: "https://www.bondbuyer.com/news/artificial-intelligence-among-tools-irs-will-use-for-enforcement-push"
+    type: article
+    provider:
+      name: The Bond Buyer
+      domain: bondbuyer.com
+    quality: 17
 
 secured: "NnbqILS0TjS/zYaBs42um3iDSnj9cEih18+s+GGnDvQEtPwgqFxmUz3dv3SryouXl1CMiDZxCgCMgu1qbBgQSRBBtz0tbVUBGSyLlFzJADCo8maqAjmCDTcP4EHGpZCse7ulvFBBgEgN9TOq0zBRXqeXKL+XiaR9FQjkgNKpMP4DcajyNHzBfvHaPAZjnGkaBfPWdzv44h+6a25NY68sXxG+zroGYQAtwoYORXmMgV/ATiflb9FJlesDaiO9eoA1ECF8SChXIoZ3+QayB8HG10kLBjaqjaOzv4p1jWLUbkENPmeUaGKoslrmYbrlTVSglTY/l2A7YhWNsyApPMomUwyUFdlZXhbHxdUPlEJzG7chCMDEqiADyit92m2Jt7yUYQRpfHlJ2eh+azsZJLdRPRhpogxAs/LlqOUFxoE0cnEoIPoDSFDVxuiA8GAAA0UGp/4G6CnQgRjdYcAeaYIYYxMY61j7CO9l+Zq7A5qMmJys29We6yLE22+lO22W46Kd8iibuZK9pz6lXtktx8bL2Q==;wCrA6sVdZfhdBU/6EA75PA=="
 ---

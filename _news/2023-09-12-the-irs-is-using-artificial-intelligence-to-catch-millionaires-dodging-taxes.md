@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/business-news/irs-uses-ai-to-fight-ta
 webUrl: "https://www.entrepreneur.com/business-news/irs-uses-ai-to-fight-tax-evasion-millionaires-dodging-taxes/458884"
 type: article
 quality: 79
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -86,6 +86,15 @@ related:
     provider:
       name: Axios
       domain: axios.com
+    quality: 17
+  - title: "Artificial intelligence among tools IRS will use for enforcement push"
+    excerpt: "AI will be part of a new tax-enforcement effort that will target high-income earners, partnerships, and large corporations."
+    publishedDateTime: 2023-09-12T12:12:00Z
+    webUrl: "https://www.bondbuyer.com/news/artificial-intelligence-among-tools-irs-will-use-for-enforcement-push"
+    type: article
+    provider:
+      name: The Bond Buyer
+      domain: bondbuyer.com
     quality: 17
 
 secured: "C7Kb8/IBoTDPg6avWkk9Q6vhQ0mkeRMCiSP5rap3BFbpwDJleT2bcfxg2QYVY4YB6rW5NK2wLtx0SvuqNl6LAk3HiC5tQZrUJTspbmLjtQurMA/QjlN8h2SA13xAcgkY9UMMlZHswn6tz90y1kZja1O2Y4EVxEoQHUTm/ideE0kUqHZLcmauCCvfEUy/JrGJ4kw/wRgaltohq2VgKOCA5LGvPLjdp6WPiLb9/vQNEL8shHi3mqd4ocBp6Na2hrpb3vo/+JATRKvo77PYAqgDU/xilU8RthJVMZxKnsru7Mwx/KNJ1WcOJFUAkHFSYrKFCYGszAScTi65oNX5JZpHfy+3VYE9MxfqzvwgS5b01Uo=;DODFYGFi9FUbyBbP4ZPdYw=="

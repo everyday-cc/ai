@@ -18,15 +18,29 @@ topics:
   - AI
 
 related:
-  - title: "Can AI help improve outcomes for cancer patients?"
-    excerpt: "Using a voice-assisted, remote patient symptom monitoring system (VARSMS) developed through artificial intelligence and natural language processing technology, patients can be monitored remotely for post-recovery. With the goal of improving communication ..."
-    publishedDateTime: 2023-09-12T09:31:00Z
-    webUrl: "https://thedailyrecord.com/2023/09/12/can-ai-help-improve-outcomes-for-cancer-patients/"
+  - title: "Here’s how we raised a Series B for our AI startup during a downturn"
+    excerpt: "Not so fast. Already, the headline-grabbing funding rounds for generative AI companies are beginning to slow, and with almost every startup calling itself an “AI company,” it will become more difficult for true AI startups to stand out. For founders ..."
+    publishedDateTime: 2023-09-12T14:30:00Z
+    webUrl: "https://techcrunch.com/2023/09/12/how-we-raised-a-series-b-for-our-ai-startup/"
     type: article
     provider:
-      name: The Daily Record (Maryland)
-      domain: thedailyrecord.com
-    quality: 21
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 67
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1054956204.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Funding to generative AI seed startups doubled in Q2"
+    excerpt: "So far, at least, the answer is the latter: the true test for any technology is not only when the major tech companies start latching on ... across 48 seed stage deals alone in the generative AI space, nearly doubling the amount of money from the previous ..."
+    publishedDateTime: 2023-09-08T19:12:00Z
+    webUrl: "https://vator.tv/news/2023-09-08-funding-to-generative-ai-seed-startups-doubled-in-q2"
+    type: article
+    provider:
+      name: vator
+      domain: vator.tv
+    quality: 17
 
 secured: "hNeARvJjBaZLywKmYkTYQ0oLgHOmQASgOnX2/a47OxTcRG5ZvIvlctnnJXIhj47rg9fWMxMnZWObcZoy5GLvYM4NMq6aCF3eR754Aps8TAziB1wRajCxL8ZpHmqBW5kffGVmMq2AKVjGnFr392iX7OYJwI5v0YL1uFCl0Uoe0FD/7x90vju+FgjDl2YUt9u2ic8CrJYIc35UtBGXrtXA7E65Y4c3JMdtgjC4Bi6pXuelGvMRwy2VVMC8RjKbHwwpZLkNYTKofl99Ry5oXRwAL5yQgTrplAKULIaewGJqo+pVcWPuFctY8lmM7vvEszqMpvKtSbd9/e+MuGQUvbTF6zNUrtAmkFEC/VTrk3KNAFqnSo4ZV2tM0c6ZRYWlyvsc27//uLPUn8oO7eWl6Fr07RFLsRixNIDflnVSklSBE4Y6qefhzWChboae2vctFLNYjB2p1ZEwqblx2T5zOPJKCwH0YCgew2iAS4aGimJX7mCK3rOjZ/WolYJwXu0ZHaPNBB53clnqw1C6iqCOLkvqvg==;6c7NOutbsOuGLP7tLCjv+g=="
 ---

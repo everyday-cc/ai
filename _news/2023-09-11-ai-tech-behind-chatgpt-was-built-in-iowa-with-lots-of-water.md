@@ -189,20 +189,6 @@ related:
         width: 2400
         height: 1200
         isCached: true
-  - title: "Forget ChatGPT—Law Firms Are Launching Their Own Gen AI Chatbots"
-    excerpt: "Tracking Key Shifts in the Legal Ecosystem Each week, the Law.com Barometer newsletter, powered by the ALM Global"
-    publishedDateTime: 2023-09-07T20:17:00Z
-    webUrl: "https://www.law.com/2023/09/07/forget-chatgpt-law-firms-are-launching-their-own-gen-ai-chatbots/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/292/2023/08/AdobeStock_612806082-767x633.jpg"
-        width: 768
-        height: 633
-        isCached: true
   - title: "What Can ChatGPT-like Language Models Tell Us About the Brain?"
     excerpt: "A renaissance in natural language modeling may help researchers explore how the brain extracts and organizes meaning."
     publishedDateTime: 2023-09-08T06:55:00Z
@@ -273,6 +259,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Druid, a conversational AI platform for enterprises that integrates with ChatGPT, raises $24M"
+    excerpt: "Conversational AI startup Druid has raised $24 million in a Series B round of funding, as it looks to double down on its U.S. growth."
+    publishedDateTime: 2023-09-12T13:08:00Z
+    webUrl: "https://techcrunch.com/2023/09/12/druid-a-conversational-ai-platform-for-enterprises-that-integrates-with-chatgpt-raises-24m/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 36
   - title: "A boy saw 17 doctors over 3 years for chronic pain. ChatGPT found the diagnosis"
     excerpt: "But before starting physical therapy, Alex had already been experiencing severe ... excitement for his future.\" ChatGPT is a type of artificial intelligence program that responds based on input that a person enters into it, but it can't have a conversation ..."
     publishedDateTime: 2023-09-11T21:21:00Z
@@ -315,6 +310,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tackling Loneliness With ChatGPT and Robots"
+    excerpt: "Doctors Qi and Wu presented to Neurology Live a survey of the benefits of AI in their June paper, “ChatGPT: A Promising Tool to Combat Social Isolation and Loneliness in Older Adults With Mild Cognitive Impairment."
+    publishedDateTime: 2023-09-12T12:39:00Z
+    webUrl: "https://www.alleywatch.com/2023/09/tackling-loneliness-with-chatgpt-and-robots/"
+    type: article
+    provider:
+      name: alleywatch.com
+      domain: alleywatch.com
+    quality: 19
   - title: "Artificial intelligence tech behind ChatGPT guzzles Iowa water, researchers say"
     excerpt: "To keep cool on hot days, data centers need to pump in water — often to a cooling tower outside its warehouse-sized buildings."
     publishedDateTime: 2023-09-11T18:39:00Z

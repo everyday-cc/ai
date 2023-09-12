@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.co.uk/news/uk-northern-ireland-66774275.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-northern-ireland-66774275.amp"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "SAP acquires LeanIX to focus on AI-assisted IT modernization"
-    excerpt: "A long-standing partner of SAP, LeanIX gives enterprises a common language and single source of truth for their entire IT landscape."
-    publishedDateTime: 2023-09-07T20:10:00Z
-    webUrl: "https://venturebeat.com/programming-development/sap-acquires-leanix-to-focus-on-ai-assisted-it-modernization/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_6_steps_to_seamless_modernization._Colorful_futuristic__d39499e0-5b4e-4d1a-91d0-fde3f1217e83.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Propane industry considers impacts of artificial intelligence"
     excerpt: "I set out to learn about artificial intelligence's role in the propane industry and its potential future impacts. Here’s what I shared with my colleagues."
     publishedDateTime: 2023-09-08T18:54:00Z

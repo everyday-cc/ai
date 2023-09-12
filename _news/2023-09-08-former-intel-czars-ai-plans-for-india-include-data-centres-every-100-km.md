@@ -62,6 +62,15 @@ related:
       name: devdiscourse
       domain: devdiscourse.com
     quality: 35
+  - title: "State of play: Artificial intelligence in the supply chain"
+    excerpt: "Venture capital investors are increasingly putting their money on artificial intelligence in supply chains. Why it matters: AI has often been seen as a means to drive efficiency, and no other industry is riper for this tech than the supply chain,"
+    publishedDateTime: 2023-09-12T14:29:00Z
+    webUrl: "https://www.axios.com/pro/retail-deals/2023/09/12/state-of-play-artificial-intelligence-in-the-supply-chain"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 32
 
 secured: "RDkORR7fQA8LQTnw3sCEZMqZpiyZXBdYgxMrIa2pumlA5T+kkOM4mxOAOrLfQjrOPNtftbLiWXfW6Dp7VeJlrE5yKn4XxxFm5itLqGnZoF8ce1o1CXF9x0OM80bWwtsBwzPMQSpzMwHwXroikHcZa8nadqbSXneQh2L3SodQ4CCd0AlGNoW8Jjs3zmrc7jqKodWrzCYozpVymMmXGcULhB8QE5jMYtEnKLy/7rq+nx//kEbl9h278iAmsf1fVjPs6F1lCc1BxTdjXWgmuXaau/IMlykVS8yL7KzeRFyQ/E/X/xfQJdjlznSPryaajl3jhnk1fZe+H0QpmidNo63S6m1geyBn50pY0HOGg+j4dUEPaMgUrXz73Z44QUprELb0g69aij/q4otAm7QSCvS2pK7G8S6gUQOAID22wOF1Mu5FWssi+KGOfvXAkQCKovrItd0KIX+GRTjljAaHG4NRaDvRlFvVNxdNTa2Z6qKSKmSG/zsHsAM87zZDjLk4WrWJGiuIxhEBSk1vLfBhh5i2Mg==;7b6QG+uhP1UYUTMksMwofQ=="
 ---
