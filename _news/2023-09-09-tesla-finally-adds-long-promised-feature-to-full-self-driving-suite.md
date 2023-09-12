@@ -34,6 +34,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
+  - title: "Here's what needs to happen to achieve safe self-driving cars"
+    excerpt: "Tesla has since released a few versions of advanced driver assist software, Autopilot and Full Self-Driving. But Tesla's FSD is a bit of a misnomer; cars using FSD do not truly drive themselves. The driver has to be ready to take over if necessary ..."
+    publishedDateTime: 2023-09-11T15:47:00Z
+    webUrl: "https://www.thestreet.com/electric-vehicles/heres-what-needs-to-happen-to-achieve-safe-self-driving-cars"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 4
 
 secured: "H2eXq43HiG06qdVrk5rqRkzO0MglosUHw8M+/LbM9dxJ7lF5TNjFKm9FBVMnZ4KPWxRNjpx29m2IA1tQ6QXx73/A0Y3z68dquzzXF5jJyo8YmC837R5+wqThW4+BYI9z3yIp8Re9V8GwCiHq1oyLvPRUxAOwXgP9hXde+urgIVpAqjFgJckLq8BBdkmhoxHbc+rbz7HnlgbdKGlTw7WPSCusmObA+poKYcReIBXGC0S/mu0rcxkXUrks3OCS+ElhRRVtB53nkoive+SVuYrK7Oyf8V3roX7TRO/GWlUQBFjSqQVF179AcYouPJM7UPDpqnDbDCHbQhq0IxFlpNtQsZauaQqDx9GkrWYkeI26b80=;u8HLUw43hV+iU3ii30y7tQ=="
 ---

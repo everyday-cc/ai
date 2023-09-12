@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Emerging Fintech Brands & Their Leaders of 2023"
-    excerpt: "The utilization of AI and ML on the platform simplifies the debt process ... Ajay Lakhotia: Founder of StockGro In the ever-evolving landscape of fintech in 2023, StockGro emerges as a beacon for novice and seasoned investors. It is recognised as India's ..."
-    publishedDateTime: 2023-09-07T05:36:00Z
-    webUrl: "https://timesofindia.indiatimes.com/business/india-business/emerging-fintech-brands-their-leaders-of-2023/articleshow/103455358.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 24
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-103455358,width-1070,height-580,imgsize-742754,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
-        isCached: true
   - title: "SliceUp Selected to Participate in Startup Battlefield 200 at TechCrunch Disrupt 2023"
     excerpt: "TechCrunch Disrupt 2023 will be held from Tuesday, September 19 - Thursday, September 21 at the Moscone Center in San Francisco. Startup Battlefield 200 is bringing together the foremost startups from around the globe in twelve different categories, giving them a platform to showcase their latest innovations to the tech world."
     publishedDateTime: 2023-09-08T15:48:00Z

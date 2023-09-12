@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/stevemcdowell/2023/09/11/ibm-takes-the-rei
 ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/09/11/ibm-takes-the-reins-of-enterprise-ai-with-watsonx/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/09/11/ibm-takes-the-reins-of-enterprise-ai-with-watsonx/amp/"
 type: article
-quality: 89
-heat: 119
+quality: 106
+heat: 136
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - IBM AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/64ff7f160015846d656445cc/0x0.jpg?format=jpg&width=1200"
@@ -31,21 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare AI Market 2023 Value with Status and Global Analysis -Apple, GE Healthcare, Google Deepmind Health, IBM Watson Health"
-    excerpt: "Global Healthcare AI Market Research Report 2023 begins with ... Google Deepmind Health, IBM Watson Health, Imagen Technologies, Microsoft, Intel, Medalogix, Lumiata, NextHealth Technologies ..."
-    publishedDateTime: 2023-09-07T06:07:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/34302987/healthcare-ai-market-2023-value-with-status-and-global-analysis-apple-ge-healthcare-google-deepmind"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34302987"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34302987"
+  - title: "IBM unveils new generative AI enhancements for watsonx"
+    excerpt: "IBM has announced a host of new enhancements for its watsonx platform, which include new generative AI foundation models and new capabilities. Designed to help enterprises scale and accelerate the impact of artificial intelligence,"
+    publishedDateTime: 2023-09-08T16:02:00Z
+    webUrl: "https://www.techcentral.ie/ibm-unveils-new-generative-ai-enhancements-for-watsonx/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 79
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 54
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://www.techcentral.ie/wp-content/uploads/2022/01/IBM_21.jpg"
+        width: 620
+        height: 349
         isCached: true
   - title: "IBM Announces Advanced Generative AI Models and Upgrades for watsonx Platform"
     excerpt: "IBM today announced plans for new generative AI foundation models and enhancements coming to watsonx – its AI and data"
@@ -71,6 +70,6 @@ related:
       domain: geeky-gadgets.com
     quality: 34
 
-secured: "7xzgnANYsBwJsbBY7z2zqPxFuswSEtJSbC8YIOpnilomGuPbwQO7G+C7xW+acbWxyHWVTclvjqd59AKkAC4lDUQArqEwKK5TQD0Ai6wrLjzjL7LjmZHmLOx9pbE/Hpn964tWeE1cokSvzXuEKkqTyB5aude5xg2jVDYeos3iJ2f2/VnzFIDdEcLqBvGBA0Y5jHWWZQLnR2izXxBicIeJHV7O0HHx1AEPikdj1ub8M4hv8e6mS1sB6PDM+peJnkcrWP2H91C2DtzDGg6+LDRodVSfBKLJMd4SGY20mnlFInpe6fpykiOCIJiw9agouAYUtikNLOJ1kRHHmEO7UAdmkimfStvNRKrKBL5XHebcK2E=;Lov9BiVeHsPvuaNr0qFGmQ=="
+secured: "pcGgRIZ9IlU5tAL+Bn2De+zrMysyMEUvTuCH1bvWUuBdG3a/01WHdH+sXnMwI/H9NCr7CNvSqjMTldmrGGurwaBoahEe7BE/C79Tk6QLI0igw6beQ1VW4YfZpvkW/PU4FX5zq+vn7cioed1LU9qcvSlHCFYxw5LIn14unZnZgd2PX7czRb1j/Dw/lg7OIDLfd1Cm8sh9DPEXVHfrvRthNuyjZNbVeHI9wGiip56uYzl0O5lL3M9JCnqU68a+/x7+ASl5pTZW1ay0WYHW1pyyeAk+terPn5ifUOofpqom9wFroD+C3Y8OEQBDs6dP5ykFHh/p9VbDL+Q48oyHqFoPJta7wLRblryllEqJh5PBySHYoct1BGaY1HwMoOvA9yOUzvq6MVL3HFzJ9I/IyochSyttM92Uq++tnTBr5ybUyyfdqEAdQ6f1NoHbHArcAzs+us8LKEAqng8bG3tn32SGumxiB2ExmJO/mArMf6wN2Z0oAoe0v8ccl+VuMqmHDocT2700/ZSw5xNSbh8eytvhew==;Q6aUnWgqS6oKff9NIypylA=="
 ---
 

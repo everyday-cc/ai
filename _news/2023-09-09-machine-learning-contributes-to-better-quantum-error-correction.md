@@ -39,20 +39,6 @@ related:
         width: 1280
         height: 1113
         isCached: true
-  - title: "Machine learning contributes to better quantum error correction"
-    excerpt: "Researchers from the RIKEN Center for Quantum Computing have used machine learning to perform error correction for quantum computers—a crucial step"
-    publishedDateTime: 2023-09-07T05:52:00Z
-    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/237143"
-    type: article
-    provider:
-      name: AlphaGalileo
-      domain: alphagalileo.org
-    quality: 39
-    images:
-      - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/16e5dedc-fda4-44a8-a470-b9b862cd9cbc-773a43cd-87d5-46df-91bf-eeaddfe85613--logo-horizontal-black.png"
-        width: 654
-        height: 274
-        isCached: true
 
 secured: "Swk5ols8pH02rY+HAmAQoAEOqhCglW1R2E6Lr6ggOMqWvzQKWCkH9FlOove+N0qt9BxNQigKe4uXeIHozTnBo17GSIOGwHdiWIsqF2UeY5ukxWnOtzlDYF+AX0MudAq4c9oZ9P8SM1cTDxDwwB0i+IHmaMYbxm8PondEFe3nJ485YbvMah9FzaMZpQTZYApQ3mbz4h9WS/EbF/Yhdz28abujUgU5CzG3TxJ8cxUu8Yf9DUTlKZug4cRmCNG2HtESysqTJlLB4WtjW0whqB25Lwua65MXPBdSRC3G6sRi/J3y2MF36q7hvc8DEx34ALLrY9Woj+BNrb/YnxCCqko81q0VYLkqJuaYn1rKtFTbeyk=;TL1S1aiOlbM92XEb7bAaWA=="
 ---

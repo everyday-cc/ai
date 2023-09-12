@@ -2,6 +2,152 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-11-open-cosmos-a-uk-satellite-startup-focused-on-sustainability-raises-50m.md",
+      "title": "Open Cosmos, a UK satellite startup focused on sustainability, raises $50M",
+      "excerpt": "Now, UK startup Open Cosmos, which is building what it describes as ... the amplifying effects of climate change and the rapidly growing number of AI/ML solutions that extract insights from this data that the market is now ready to reach its full ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/09/11/open-cosmos-a-uk-satellite-startup-focused-on-sustainability-raises-50m/",
+      "originalUrl": "https://techcrunch.com/2023/09/11/open-cosmos-a-uk-satellite-startup-focused-on-sustainability-raises-50m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/09/open-cosmos-data.jpg?resize=1200,611",
+          "width": 1200,
+          "height": 611,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/09/11/open-cosmos-a-uk-satellite-startup-focused-on-sustainability-raises-50m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/11/open-cosmos-a-uk-satellite-startup-focused-on-sustainability-raises-50m/amp/",
+      "publishedDateTime": "2023-09-11T03:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-11-top-5-ai-and-robotics-companies-transforming-the-agriculture-sector.md",
+      "title": "Top 5 AI and Robotics Companies Transforming the Agriculture Sector",
+      "excerpt": "In this article, we will look at the top 5 AI and robotics companies transforming the agriculture sector. If you are interested in reading an in-depth industrial analysis along with a more extensive list of the topic, head straight to the the Top 20 AI and Robotics Companies Transforming the Agriculture Sector .",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/top-5-ai-and-robotics-companies-transforming-the-agriculture-sector-1192684/",
+      "originalUrl": "https://www.insidermonkey.com/blog/top-5-ai-and-robotics-companies-transforming-the-agriculture-sector-1192684/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2021/10/11061545/Stocks.jpg?auto=format&expires=1725926400&w=400&h=225&fit=crop",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.insidermonkey.com/blog/top-5-ai-and-robotics-companies-transforming-the-agriculture-sector-1192684/?amp=1",
+      "cdnAmpWebUrl": "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/top-5-ai-and-robotics-companies-transforming-the-agriculture-sector-1192684/?amp=1",
+      "publishedDateTime": "2023-09-11T03:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-11-tesla-stock-rallies-as-morgan-stanley-boosts-rating-citing-ai-prowess-via-dojo.md",
+      "title": "Tesla stock rallies as Morgan Stanley boosts rating, citing AI prowess via ‘Dojo’",
+      "excerpt": "Morgan Stanley upgraded Tesla to buy from hold in a note to clients, saying the company's Dojo supercomputer holds \"proprietary technology.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/tesla-shares-climb-5-8-after-morgan-stanley-upgrades-to-buy-citing-ai-prowess-via-dojo-10b3e7dd?ref=biztoc.com",
+      "originalUrl": "https://www.marketwatch.com/story/tesla-shares-climb-5-8-after-morgan-stanley-upgrades-to-buy-citing-ai-prowess-via-dojo-10b3e7dd?ref=biztoc.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-849720/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/tesla-shares-climb-5-8-after-morgan-stanley-upgrades-to-buy-citing-ai-prowess-via-dojo-10b3e7dd",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tesla-shares-climb-5-8-after-morgan-stanley-upgrades-to-buy-citing-ai-prowess-via-dojo-10b3e7dd",
+      "publishedDateTime": "2023-09-11T02:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-09-11-now-robots-cook-fried-chicken-to-improve-south-koreas-favourite-food.md",
       "title": "Now, Robots Cook Fried Chicken To Improve South Korea's Favourite Food",
       "excerpt": "Korean fried chicken is brined and double-fried, which gives it its signature crispy exterior, but the process -- more elaborate than what is typically used by US fast food chains -- creates additional labour.",
@@ -140,7 +286,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-neurotech-allows-stroke-survivor-speak-brainwaves-thinking-paralyzed-2023-9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -285,7 +431,7 @@
       "originalUrl": "https://www.forbes.com/sites/petersuciu/2023/09/10/rise-of-the-machine-learning-deep-fakes-could-threaten-our-democracy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -388,7 +534,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/2-ai-stocks-to-transform-your-portfolio",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 73,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -474,7 +620,7 @@
       "originalUrl": "https://indiaeducationdiary.in/unesco-trains-indonesian-teachers-on-ai-ethics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1049,161 +1195,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-zoom-unveils-new-ai-companion-features.md",
-      "title": "Zoom Unveils New AI Companion Features",
-      "excerpt": "Zoom AI Companion. Zoom. This week, Zoom announced its new AI Companion, a suite of generative AI (GAI) tools available at no additional cost to paid Zoom subscribers. Zoom’s fi",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/09/08/zoom-unveils-new-ai-companion-features/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/09/08/zoom-unveils-new-ai-companion-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64fb3648234c67893773b636/0x0.png?format=png&width=1200",
-          "width": 480,
-          "height": 254,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/09/08/zoom-unveils-new-ai-companion-features/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/09/08/zoom-unveils-new-ai-companion-features/amp/",
-      "publishedDateTime": "2023-09-08T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-what-large-models-cost-you-there-is-no-free-ai-lunch.md",
-      "title": "What Large Models Cost You – There Is No Free AI Lunch",
-      "excerpt": "Recent research reveals that a substantial portion of the computational operations in large models is wasted, with over 99% of floating-point operations resulting in zero calculations. Relying solely on massive models that consume vast amounts of resources is unsustainable in the long term.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/craigsmith/2023/09/08/what-large-models-cost-you--there-is-no-free-ai-lunch/",
-      "originalUrl": "https://www.forbes.com/sites/craigsmith/2023/09/08/what-large-models-cost-you--there-is-no-free-ai-lunch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64fb30f65900cea4b773b640/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/craigsmith/2023/09/08/what-large-models-cost-you--there-is-no-free-ai-lunch/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2023/09/08/what-large-models-cost-you--there-is-no-free-ai-lunch/amp/",
-      "publishedDateTime": "2023-09-08T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-ai-gpu-accelerators-will-be-in-short-supply-for-two-more-years-tsmc-warns.md",
-      "title": "AI GPU accelerators will be in short supply for two more years, TSMC warns",
-      "excerpt": "AI servers are expected to explode to an estimated market value of $150 billion by 2027, and Nvidia currently makes the most sought-after GPUs designed to",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/100084-ai-gpu-accelerators-short-supply-two-more-years.html",
-      "originalUrl": "https://www.techspot.com/news/100084-ai-gpu-accelerators-short-supply-two-more-years.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/09/2023-09-08-image-5.jpg",
-          "width": 2000,
-          "height": 1267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-08T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

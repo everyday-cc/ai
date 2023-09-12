@@ -1,10 +1,10 @@
 ---
 category: news
 title: "A boy saw 17 doctors over 3 years for chronic pain. ChatGPT found the diagnosis"
-excerpt: "But before starting physical therapy, Alex had already been experiencing severe ... excitement for his future.\" ChatGPT is a type of artificial intelligence program that responds based on input that a person enters into it, but it can't have a conversation ..."
-publishedDateTime: 2023-09-11T21:21:00Z
-originalUrl: "https://www.aol.com/boy-saw-17-doctors-over-204224516.html"
-webUrl: "https://www.aol.com/boy-saw-17-doctors-over-204224516.html"
+excerpt: "Soon after, her son, Alex, then 4, began experiencing pain. “(Our nanny) started telling me, ‘I have to give him Motrin every day, or he has these gigantic meltdowns,’” Courtney, who asked not to use her last name to protect her family’s privacy,"
+publishedDateTime: 2023-09-11T23:43:00Z
+originalUrl: "https://www.aol.com/news/boy-saw-17-doctors-over-204224516.html"
+webUrl: "https://www.aol.com/news/boy-saw-17-doctors-over-204224516.html"
 type: article
 quality: 35
 heat: -1
@@ -376,6 +376,6 @@ related:
       domain: scientificamerican.com
     quality: 4
 
-secured: "Lo0iIGeQK8dxkyj+GWNdwCj+xoI23BKaQZBfYl14K1nGvQXkMHfR77qJfNjiHt3hPsuGOtgfOgo6V4jhyVWk4YAGydVq+ycLdxQ3kps+H2ugSukT+rpklgbLsqjbq4fYpRejlWIiASsxUOBpCqh92U4UsJOz+tylmxFY9xmh+qIeUOLGql/gzEt2m2ASwzjLbcYl7U1SchKnPcY+ivMBzd72pYFSfZ9C9XGhqT+zYvzP48i8Baot657+N6+OAXMVZU8ZKQ1LVap1XTaMsKQ7VSIBcileAg1G4iy3fOUILTAPe8w7WLUipwauN6hTIjGSI86ZUyPeZXrL9TADzZQd8CvYs9enSm0pEod07u5eeVo=;Yyt+xd1FKlr1MbvP7RczZg=="
+secured: "goy2W4zPsGPKiyYsdlL7mIsZ74+J4ST+ESwviWc5Oup0z9M0mXY4XEwFvAI4s/boU+jC8XBrvE87LgFfMJOAKHOJ3amY9WgzQr3Km34silv7/oHCvTE4qeYlwje+myPknWiM41Yw2q9MZJVUbanc04SA5M/FMnMy0kwgUEdDY+TtwCMHn8U7JZf607R2mq0Qghpz9Nrs+6YRewx4BIeugrTHVpv00vzQmHNARp8AGBiKCCVhddYM+0yJpUAjubWr6meqk7QZ0i2BrYd51pOyhORZ+AHncNGtNCvt4hkCa7xSSEmkmGtrxrOsuH/hQFGBXBMopJ+GeobQRRQa5IMrKRdBx9IbFU8q0WkLzoD+JA0=;zkUVugCvTR/dIaUpWFSkvQ=="
 ---
 

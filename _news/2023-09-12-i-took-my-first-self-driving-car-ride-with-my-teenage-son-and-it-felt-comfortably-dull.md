@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/09/11/first-waymo-trip-comfortably-dul
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/11/first-waymo-trip-comfortably-dull-easy-to-see-becoming-normal.html"
 type: article
 quality: 66
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving Car Revolution Is Coming, But Slowly"
-    excerpt: "In Munich, where this week's IAA motor show is taking place, an interactive street survey elicits an overwhelming \"yes\" when asking passers-by if they would take a self-driving taxi from the station to the Oktoberfest beer festival."
-    publishedDateTime: 2023-09-07T05:30:00Z
-    webUrl: "https://www.barrons.com/news/self-driving-car-revolution-is-coming-but-slowly-9c5588b2"
-    ampWebUrl: "https://www.barrons.com/amp/news/self-driving-car-revolution-is-coming-but-slowly-9c5588b2"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/self-driving-car-revolution-is-coming-but-slowly-9c5588b2"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 44
-    images:
-      - url: "https://www.barrons.com/asset/external-media/afp/AFP9643577245828168390437146037747688022783---1.jpg"
-        width: 768
-        height: 480
-        isCached: true
   - title: "Self-driving car revolution is coming, but slowly"
     excerpt: "Pandemic-related disruptions to the car industry, a shift towards investing in electrification and the sheer complexity of the technology have all contributed to keeping the autonomous-driving revolution stuck in the slow lane. Now, \"we're more inclined to say it will happen by 2030,\" Aufrere told AFP."
     publishedDateTime: 2023-09-08T09:00:00Z
@@ -82,6 +66,6 @@ related:
       domain: japantoday.com
     quality: 4
 
-secured: "N4xktppYDaKZuq0UIUKEqfMDN9q90lfikDPX99sd2Idvt6tRl0NvMDLUoUkVG2IjbAedr2gbx+I9Hl0xQ9zQtqyUqLs6QDu5mgdIvHrA5MEtfgpuhcv40oubeQ50CnB+KXI2XH5gdhWLersBwdtjFVGHxmo6Ksy6dx4LQr0iKDy4atDCcl24H1mv0nb7tA4CXlCajDQ97LIOLWXeaYIwu03mC67iApPyPejMrmX86THIl9AMcTteeDI1gpp9xG7jA0lHtywi5OHNQtanR8C5B071dLGTLCssV/52OLf7oGgWbz82jt5xxpVeypsYXr571lc/1eufJinoQXTPqL32b5UakD80Y2Ddva47NK0JGxI=;DaY0healTidltgH4q/jy+A=="
+secured: "KhndPokZ7TGKqm2nTOD+hkFsU42sa34ZqUHWF2n+Ip0z5G2KmjbE43qzelKmTlPL/u7Og1KKmjgrpRwWEFJf34Vh7/Hw1jLUw8Eh1IEL/GHCrHLhxNGiurKPynk6Bz8CSESQNVAXq7H2Nf9zm4sfvP9kb3ZL4WqA890zzREDMHOsW3As007+KRkdZux8LBuBK52xszriVqrf6R5CT8Gam70PeSyeW+DZHnQ2aMmYPZtqFd3fxkNJnLbIk3kg1AiJm8fbaMC6SK2SJf1cwNo4omuyu+/MnNcou7Y68Lyg1rJBTml4nVYHMEe9WVCcdAmBFSe7t5A1npjQPMGXBQesGdK+Ebx4LdfAIqmDFYP9NnDBIO7PcTwTrWyH2o8CPMBMg3cq0AUpj1TtJwXaGlk5XoT7Dl9Dhlvwv+oUDOfAG7Yqq8iWJhbKMtCn+RA35yteWQ7ewkDZaBicR9fCvxk0dzZdUwblTcKQSOzfj2lEoCokH2jQ9d9lLsWyW3LId14NqdDtbfs9gGIVqRdt8pJLIg==;N5wJSOdlXLMYiUWiAOAaGA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/unesco-trains-indonesian-teachers-on-
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/unesco-trains-indonesian-teachers-on-ai-ethics/"
 type: article
 quality: 74
-heat: 105
+heat: 104
 published: true
 
 provider:

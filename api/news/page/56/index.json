@@ -2,6 +2,99 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2023-08-02-some-us-government-agencies-are-testing-out-ai-to-help-fulfill-public-records-requests.md",
+      "title": "Some U.S. government agencies are testing out AI to help fulfill public records requests",
+      "excerpt": "Open government and civil rights advocates warn that using AI to answer Freedom of Information Act requests may create new problems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/us-news/federal-agencies-testing-ai-foia-concerns-rcna97313",
+      "originalUrl": "https://www.nbcnews.com/news/us-news/federal-agencies-testing-ai-foia-concerns-rcna97313",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-08/230801-artificial-intelligence-foia-cs-c68acf.jpg",
+          "width": 2500,
+          "height": 1400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna97313",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna97313",
+      "publishedDateTime": "2023-08-01T11:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-02-gen-ai-to-increase-us-production-with-caveats.md",
+      "title": "Gen AI to Increase US Production — With Caveats",
+      "excerpt": "Discover how businesses use generative AI and automation and how they will affect the future of work, based on McKinsey's report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/generative-ai-and-the-future-of-work/",
+      "originalUrl": "https://www.techrepublic.com/article/generative-ai-and-the-future-of-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/08/tr8123-future-ai.jpeg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-01T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-01-new-deepmind-ai-model-can-control-robotic-actions-it-was-never-trained-to-do.md",
       "title": "New DeepMind AI model can control robotic actions it was never trained to do",
       "excerpt": "Google DeepMind has a new AI model that can direct robotic tasks it was never trained to perform. Named RT-2, the model learns from web and robotics data. It then turns this information into simple instructions for machines.",
@@ -1103,110 +1196,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-01-cyngn-arauco-deal-tackles-labor-shortage-with-driverless-forklifts.md",
-      "title": "Cyngn-Arauco Deal Tackles Labor Shortage With Driverless Forklifts",
-      "excerpt": "Tech company Cyngn has stuck a major deal to help logistics giant Arauco deal with labor shortages by providing forklifts that drive themselves.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/edgarsten/2023/08/01/cyngn-arauco-deal-tackles-labor-shortage-with-driverless-forklifts/",
-      "originalUrl": "https://www.forbes.com/sites/edgarsten/2023/08/01/cyngn-arauco-deal-tackles-labor-shortage-with-driverless-forklifts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c82903d23dff027cc6f9a9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/edgarsten/2023/08/01/cyngn-arauco-deal-tackles-labor-shortage-with-driverless-forklifts/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2023/08/01/cyngn-arauco-deal-tackles-labor-shortage-with-driverless-forklifts/amp/",
-      "publishedDateTime": "2023-08-01T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-01-how-ai-may-be-used-to-create-custom-disinformation-ahead-of-2024.md",
-      "title": "How AI May Be Used to Create Custom Disinformation Ahead of 2024",
-      "excerpt": "Generative AI won't just flood the internet with more lies—it may also create convincing disinformation that's targeted at groups or even individuals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/generative-ai-custom-disinformation/",
-      "originalUrl": "https://www.wired.com/story/generative-ai-custom-disinformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/64c83a397bdca8cda5f9f36b/191:100/w_1280,c_limit/head_reflection_ai_disinfo_sec_GettyImages-1250060818.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-01T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

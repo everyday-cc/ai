@@ -35,22 +35,6 @@ related:
         width: 1177
         height: 661
         isCached: true
-  - title: "Self-driving Car Revolution Is Coming, But Slowly"
-    excerpt: "In Munich, where this week's IAA motor show is taking place, an interactive street survey elicits an overwhelming \"yes\" when asking passers-by if they would take a self-driving taxi from the station to the Oktoberfest beer festival."
-    publishedDateTime: 2023-09-07T05:30:00Z
-    webUrl: "https://www.barrons.com/news/self-driving-car-revolution-is-coming-but-slowly-9c5588b2"
-    ampWebUrl: "https://www.barrons.com/amp/news/self-driving-car-revolution-is-coming-but-slowly-9c5588b2"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/self-driving-car-revolution-is-coming-but-slowly-9c5588b2"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 44
-    images:
-      - url: "https://www.barrons.com/asset/external-media/afp/AFP9643577245828168390437146037747688022783---1.jpg"
-        width: 768
-        height: 480
-        isCached: true
   - title: "Self-driving car revolution is coming, but slowly"
     excerpt: "Pandemic-related disruptions to the car industry, a shift towards investing in electrification and the sheer complexity of the technology have all contributed to keeping the autonomous-driving revolution stuck in the slow lane. Now, \"we're more inclined to say it will happen by 2030,\" Aufrere told AFP."
     publishedDateTime: 2023-09-08T09:00:00Z

@@ -19,6 +19,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Artificial intelligence e discusses ways for humans to ride a 'coming wave' of new technology"
+    excerpt: "Now Suleyman has co-written a book, “The Coming Wave,” focused on AI's promise and need to limit its potential perils. He expanded upon his ideas in a recent interview with The Associated Press. Q: How should we be thinking of artificial intelligence at this juncture?"
+    publishedDateTime: 2023-09-11T17:01:00Z
+    webUrl: "https://www.houstonchronicle.com/business/article/artificial-intelligence-e-discusses-ways-for-18359250.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 6
+
 secured: "GEm0hyzoiG/CNBWiLLtLrgBamJXDHyyj5rMO6G0T2YuOLX4+qYQEvnw1KFzkpXo+m8EFKHRcRtE7Ftvfjy4vwlCU2SkE+PTJOQgNdHt8WgyqwB7eV7DHgJAotynGc0btq3HKcBfFCGg0W1HvXfpAGXzsK3om6GHid0Vi67GChBQhhGEOKsv5alDxzvugfEOrrL6Shl8jb4NyjRGUxbwmTN1TzP8oYtapWyEyeWYUPa1VRfsnVPt+eHMkaT8QH4NbeyuUdX8wOL26YswuNZEdiWM0WeLDF3SFEOaE+m2Xaq1mBVGHkQT12K1ygthuq+JqV+wfilCKr/Go5L2uxawwBiTTwXPXQChepCEaLPNxGYV2BA7Cq4VjO7vCcQDlL3DwhRH5w7psflnBWGCT4tZAgb4202cPlNcQo8/Jp4pcV/9smyl9OsXLea65eQXVl/uhpxjGgK5jNlRJl7X3SP13BZapXJcLmulXRAE0pb+CFm4P+f2Kx610qlDTKR6udPfuxpNU6A/X3tnBGTdBFmN1ew==;HnTml5OHMQXXzgjSLbC8Pw=="
 ---
 

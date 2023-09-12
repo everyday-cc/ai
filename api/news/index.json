@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-12-snowflake-nasdaqsnow-this-ai-stock-is-a-strong-buy-say-analysts.md",
+      "title": "Snowflake (NASDAQ:SNOW): This AI Stock is a Strong Buy, Say Analysts",
+      "excerpt": "Impressive capabilities are one thing, but developing an effective business model on top of the technology is another. From AI Chips to Software and Infrastructure For now, it seems doubtful that Snowflake will perform as well as AI chip kingpin Nvidia did ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/snowflake-nasdaq-snow-this-ai-stock-is-a-strong-buy-say-analysts-1032621437",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/snowflake-nasdaq-snow-this-ai-stock-is-a-strong-buy-say-analysts-1032621437",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.tipranks.com/wp-content/uploads/2023/09/image-190.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+          "width": 777,
+          "height": 436,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-11T15:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-12-ibm-takes-the-reins-of-enterprise-ai-with-watsonx.md",
       "title": "IBM Takes the Reins of Enterprise AI with Watsonx",
       "excerpt": "IBM’s updated AI portfolio, “watsonx,” is an enterprise-ready AI and data platform consisting of three solution stacks: watsonx.ai, wastonx.data, watsonx.governance",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/09/11/ibm-takes-the-reins-of-enterprise-ai-with-watsonx/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -50,6 +102,110 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-5-ways-to-use-ai-and-machine-learning-in-dataops.md",
+      "title": "5 ways to use AI and machine learning in dataops",
+      "excerpt": "The tools for automating data pipelines are improving, and many leverage machine learning and artificial intelligence capabilities. AI and machine learning dataops techniques shift data operations from manual- and rule-based approaches toward intelligent ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3706090/5-ways-to-use-ai-and-machine-learning-in-dataops.html",
+      "originalUrl": "https://www.infoworld.com/article/3706090/5-ways-to-use-ai-and-machine-learning-in-dataops.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/09/shutterstock_2299528137-100945614-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3706090/5-ways-to-use-ai-and-machine-learning-in-dataops.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706090/5-ways-to-use-ai-and-machine-learning-in-dataops.amp.html",
+      "publishedDateTime": "2023-09-11T14:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-the-pentagon-plans-to-build-a-vast-ai-fleet.md",
+      "title": "The Pentagon Plans to Build a Vast AI Fleet",
+      "excerpt": "The Pentagon plans to build a vast network of artificial-intelligence powered technology, drones, and autonomous systems. WSJ national security correspondent Na",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/video/series/tech-news-briefing/the-pentagon-plans-to-build-a-vast-ai-fleet/8F97223C-88BC-4C2C-A636-4359D0663ECA",
+      "originalUrl": "https://www.wsj.com/video/series/tech-news-briefing/the-pentagon-plans-to-build-a-vast-ai-fleet/8F97223C-88BC-4C2C-A636-4359D0663ECA",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://images.wsj.net/im-850325?width=1280&height=720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-11T14:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -113,7 +269,7 @@
       "originalUrl": "https://www.cnbc.com/2023/09/11/first-waymo-trip-comfortably-dull-easy-to-see-becoming-normal.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1045,152 +1201,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-open-cosmos-a-uk-satellite-startup-focused-on-sustainability-raises-50m.md",
-      "title": "Open Cosmos, a UK satellite startup focused on sustainability, raises $50M",
-      "excerpt": "Now, UK startup Open Cosmos, which is building what it describes as ... the amplifying effects of climate change and the rapidly growing number of AI/ML solutions that extract insights from this data that the market is now ready to reach its full ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/09/11/open-cosmos-a-uk-satellite-startup-focused-on-sustainability-raises-50m/",
-      "originalUrl": "https://techcrunch.com/2023/09/11/open-cosmos-a-uk-satellite-startup-focused-on-sustainability-raises-50m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/09/open-cosmos-data.jpg?resize=1200,611",
-          "width": 1200,
-          "height": 611,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/09/11/open-cosmos-a-uk-satellite-startup-focused-on-sustainability-raises-50m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/11/open-cosmos-a-uk-satellite-startup-focused-on-sustainability-raises-50m/amp/",
-      "publishedDateTime": "2023-09-11T03:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-top-5-ai-and-robotics-companies-transforming-the-agriculture-sector.md",
-      "title": "Top 5 AI and Robotics Companies Transforming the Agriculture Sector",
-      "excerpt": "In this article, we will look at the top 5 AI and robotics companies transforming the agriculture sector. If you are interested in reading an in-depth industrial analysis along with a more extensive list of the topic, head straight to the the Top 20 AI and Robotics Companies Transforming the Agriculture Sector .",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/top-5-ai-and-robotics-companies-transforming-the-agriculture-sector-1192684/",
-      "originalUrl": "https://www.insidermonkey.com/blog/top-5-ai-and-robotics-companies-transforming-the-agriculture-sector-1192684/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2021/10/11061545/Stocks.jpg?auto=format&expires=1725926400&w=400&h=225&fit=crop",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.insidermonkey.com/blog/top-5-ai-and-robotics-companies-transforming-the-agriculture-sector-1192684/?amp=1",
-      "cdnAmpWebUrl": "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/top-5-ai-and-robotics-companies-transforming-the-agriculture-sector-1192684/?amp=1",
-      "publishedDateTime": "2023-09-11T03:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-tesla-stock-rallies-as-morgan-stanley-boosts-rating-citing-ai-prowess-via-dojo.md",
-      "title": "Tesla stock rallies as Morgan Stanley boosts rating, citing AI prowess via ‘Dojo’",
-      "excerpt": "Morgan Stanley upgraded Tesla to buy from hold in a note to clients, saying the company's Dojo supercomputer holds \"proprietary technology.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/tesla-shares-climb-5-8-after-morgan-stanley-upgrades-to-buy-citing-ai-prowess-via-dojo-10b3e7dd?ref=biztoc.com",
-      "originalUrl": "https://www.marketwatch.com/story/tesla-shares-climb-5-8-after-morgan-stanley-upgrades-to-buy-citing-ai-prowess-via-dojo-10b3e7dd?ref=biztoc.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-849720/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/tesla-shares-climb-5-8-after-morgan-stanley-upgrades-to-buy-citing-ai-prowess-via-dojo-10b3e7dd",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tesla-shares-climb-5-8-after-morgan-stanley-upgrades-to-buy-citing-ai-prowess-via-dojo-10b3e7dd",
-      "publishedDateTime": "2023-09-11T02:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

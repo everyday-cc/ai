@@ -52,20 +52,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "IBM unveils new generative AI enhancements for watsonx"
-    excerpt: "IBM has announced a host of new enhancements for its watsonx platform, which include new generative AI foundation models and new capabilities. Designed to help enterprises scale and accelerate the impact of artificial intelligence,"
-    publishedDateTime: 2023-09-08T16:02:00Z
-    webUrl: "https://www.techcentral.ie/ibm-unveils-new-generative-ai-enhancements-for-watsonx/"
-    type: article
-    provider:
-      name: Mozilla
-      domain: techcentral.ie
-    quality: 54
-    images:
-      - url: "https://www.techcentral.ie/wp-content/uploads/2022/01/IBM_21.jpg"
-        width: 620
-        height: 349
-        isCached: true
   - title: "State Legislatures Eye AI Regulation"
     excerpt: "A growing number of states have enacted laws this year to study artificial intelligence (AI), ahead of possible legislative action to address expected threats to jobs, civil liberties, and property ri"
     publishedDateTime: 2023-09-07T21:57:00Z

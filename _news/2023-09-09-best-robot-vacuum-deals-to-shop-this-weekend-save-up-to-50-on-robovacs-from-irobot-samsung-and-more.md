@@ -34,17 +34,6 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 49
-  - title: "9 best robot vacuums 2023 | Top-rated vacuum cleaners"
-    excerpt: "While we may not be driving hover cars (at least, for now), the Jetsons got it right with Rosie, their robotic maid. Robot vacuums have become a must-have, with many shoppers even naming their appliance to officially welcome it to the family."
-    publishedDateTime: 2023-09-07T05:37:00Z
-    webUrl: "https://www.news.com.au/checkout/home-and-garden/cleaning/robot-vacuums/best-robot-vacuum/news-story/20250dff99e702cf51266a8ee90f2857"
-    ampWebUrl: "https://www.news.com.au/checkout/home-and-garden/cleaning/robot-vacuums/best-robot-vacuum/news-story/20250dff99e702cf51266a8ee90f2857?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/checkout/home-and-garden/cleaning/robot-vacuums/best-robot-vacuum/news-story/20250dff99e702cf51266a8ee90f2857?amp"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 39
 
 secured: "dSJLC47ve73XRlB7ZtTuGHAg6Ad8NOaAfUoa3lrB510Zg40plEGoe5Ie+xIeedD1qlUN5iBYyLTQ9PJhPsjE9ITrE8cGN4AU5ogOVH2D3V9FdJYsCyt+gfwu4TdeO24s32xAcpXi229K2ATmxGogBoAO36NzxW4MRI/Oi/FFHYiQYr7xWKi+Dl5O8e9Yppp0HjfvL3SVinC9mS/tV6T+5Zo7CN/WvHokQmwhZmEQfJ4+2rm3Pwc0klz2BX7LbYekM0QpHl45jF81UoD9ctjM/YNfiLkY26uMCQ1WoKbhET9iwdbx/COCDAs4HzIuVDYX5WFEYtk/S+oqQkCcXinflqhUDPJ7QVyiWY8NIWJfDbI=;G6GqzCswNNpmn8tOZGsDaQ=="
 ---

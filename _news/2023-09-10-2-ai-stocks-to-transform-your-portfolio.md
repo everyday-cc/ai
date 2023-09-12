@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/articles/2-ai-stocks-to-transform-your-port
 webUrl: "https://www.nasdaq.com/articles/2-ai-stocks-to-transform-your-portfolio"
 type: article
 quality: 51
-heat: 81
+heat: 73
 published: true
 
 provider:
@@ -33,20 +33,6 @@ related:
       - url: "https://barchart-news-media-prod.aws.barchart.com/EXCLSV/1fe54a927c86ef3174b1850b28f337a5/c7iy1twp44bn2a3c.png"
         width: 1031
         height: 745
-        isCached: true
-  - title: "10 Fastest Growing AI Stocks To Buy"
-    excerpt: "Artificial intelligence (AI) stocks started to take the market by storm at the start of this year and this AI boom remains heating up."
-    publishedDateTime: 2023-09-07T20:21:00Z
-    webUrl: "https://www.insidermonkey.com/blog/10-fastest-growing-ai-stocks-to-buy-1189431/"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 37
-    images:
-      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/07/31154004/maximalfocus-0n4jhVGS4zs-unsplash.jpg"
-        width: 1920
-        height: 1280
         isCached: true
   - title: "Three Artificial Intelligence Stocks Under $10"
     excerpt: "After peaking at $9.75 in 2021 the company is now “exploring strategic alternatives”, which is street-speak for trying to find a buyer."

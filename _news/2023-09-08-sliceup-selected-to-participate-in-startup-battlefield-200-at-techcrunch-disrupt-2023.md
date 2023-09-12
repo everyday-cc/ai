@@ -50,20 +50,6 @@ related:
         width: 1070
         height: 579
         isCached: true
-  - title: "Emerging Fintech Brands & Their Leaders of 2023"
-    excerpt: "The utilization of AI and ML on the platform simplifies the debt process ... Ajay Lakhotia: Founder of StockGro In the ever-evolving landscape of fintech in 2023, StockGro emerges as a beacon for novice and seasoned investors. It is recognised as India's ..."
-    publishedDateTime: 2023-09-07T05:36:00Z
-    webUrl: "https://timesofindia.indiatimes.com/business/india-business/emerging-fintech-brands-their-leaders-of-2023/articleshow/103455358.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 24
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-103455358,width-1070,height-580,imgsize-742754,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
-        isCached: true
 
 secured: "/iIXrckHlYHULfI8hPEo2bIgmVMC2Nz1So3Ot5YIGkaGXypxZXOgqqMisLvXakn2KrGxFIHsOiw+HHgDipr3kwDO53paQ/KKddhUQ7ZfxGM5iLVWPOdCEsVv2PYjAysP0kVYoTgGxrFJaq6+zcyuydBx2OQHDCme+XM6g5iQbRm2+gjyV259jQnxmNYWu0EEHCI/IqU0rlfKXQhxw8xht4jHYTAa5CYCScT0rsfW2rGA4OWkcDHdnrz/rpFnEEs+vc8J90Vck+TJotHGOdEg8Ahmw1AdrJk9ujClH+vlpMdVstN2g1cWcvn/8iX5ZTgebxuhE/MpoTfc38shPQQIBqFERRKqksgMXuMfqRLXSUM=;aLoOoRfG+Wl9HRe/zqk/EA=="
 ---

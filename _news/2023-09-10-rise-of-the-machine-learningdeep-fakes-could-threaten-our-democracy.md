@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/petersuciu/2023/09/10/rise-of-the-machi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petersuciu/2023/09/10/rise-of-the-machine-learning-deep-fakes-could-threaten-our-democracy/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 91
 published: true
 
 provider:

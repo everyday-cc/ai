@@ -23,17 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "9 best robot vacuums 2023 | Top-rated vacuum cleaners"
-    excerpt: "While we may not be driving hover cars (at least, for now), the Jetsons got it right with Rosie, their robotic maid. Robot vacuums have become a must-have, with many shoppers even naming their appliance to officially welcome it to the family."
-    publishedDateTime: 2023-09-07T05:37:00Z
-    webUrl: "https://www.news.com.au/checkout/home-and-garden/cleaning/robot-vacuums/best-robot-vacuum/news-story/20250dff99e702cf51266a8ee90f2857"
-    ampWebUrl: "https://www.news.com.au/checkout/home-and-garden/cleaning/robot-vacuums/best-robot-vacuum/news-story/20250dff99e702cf51266a8ee90f2857?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/checkout/home-and-garden/cleaning/robot-vacuums/best-robot-vacuum/news-story/20250dff99e702cf51266a8ee90f2857?amp"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 39
   - title: "Best robot vacuum deals to shop this weekend: Save up to 50% on robovacs from iRobot, Samsung and more"
     excerpt: "The Samsung JetBot AI+ Robot Vacuum is one of the best on the market. It's certainly a splurge, but its distinct features like remote home monitoring and object recognition set it apart from the rest of the pack. Plus, you can score it on sale now at a huge discount."
     publishedDateTime: 2023-09-08T17:52:00Z

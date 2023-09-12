@@ -44,20 +44,6 @@ related:
         width: 480
         height: 254
         isCached: true
-  - title: "IBM unveils new generative AI enhancements for watsonx"
-    excerpt: "IBM has announced a host of new enhancements for its watsonx platform, which include new generative AI foundation models and new capabilities. Designed to help enterprises scale and accelerate the impact of artificial intelligence,"
-    publishedDateTime: 2023-09-08T16:02:00Z
-    webUrl: "https://www.techcentral.ie/ibm-unveils-new-generative-ai-enhancements-for-watsonx/"
-    type: article
-    provider:
-      name: Mozilla
-      domain: techcentral.ie
-    quality: 54
-    images:
-      - url: "https://www.techcentral.ie/wp-content/uploads/2022/01/IBM_21.jpg"
-        width: 620
-        height: 349
-        isCached: true
   - title: "Hiber unveils generative AI for 3D world creation"
     excerpt: "Hiber announced an upgrade of its 3D world creation tools with the integration of generative AI that makes it a lot easier to build worlds."
     publishedDateTime: 2023-09-08T13:30:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vox.com/platform/amp/the-highlight/23779067/artificial-i
 cdnAmpWebUrl: "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/the-highlight/23779067/artificial-intelligence-ai-her-movies-ex-machina-2001-blade-runner-robots"
 type: article
 quality: 93
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     width: 1400
     height: 1050
     isCached: true
+
+related:
+  - title: "Harnessing the Power of AI: A New Era for Banking"
+    excerpt: "In today's banking and fintech landscape, artificial intelligence (AI) is reshaping our industries and redefining the way we conduct business. The banking sector is no exception. Recent headlines, such as Bank of America emphasizing the potential catalysts ..."
+    publishedDateTime: 2023-09-11T22:24:00Z
+    webUrl: "https://www.finextra.com/blogposting/24871/harnessing-the-power-of-ai-a-new-era-for-banking"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 54
+    images:
+      - url: "https://www.finextra.com/finextra-images/visible_pictures/4105db07-3e06-4507-b703-a7ff7a62d957.jpg"
+        width: 500
+        height: 281
+        isCached: true
 
 secured: "EWlyDuHFe3P5P5uQp23B1j6jPsHI6dKeHOSv1WN5j7do34qTZeFhVIvXMOV56oCuqZxNn8A7mTasYarRarA0wzbmTuF1RIV9hhxWcIwIyudafq4wYr8GJbaXSRfisa/wh1QqJvrNNyj9h3h45skW+oG5A5oQv073+M41IPVhldbyuMWb8BYWK40WIZS7qabKaMeaijncbixTVFFKU1ym1Dpn94DI8Ve43mteNfwMsg1SjyLywGt1RDVyDh3TzoIqzwQY25uK/txWWYtOofa9qlFOmw/pHSPTz1uzxuHSE6bh3qRNwruDHh6vJJ5RwNA+PeeBNGLqLyvYP08C/jU+KbDf992xJB9fg48mjQ9oYio=;pBcqKjbjfGRfyoW4cdp2zQ=="
 ---

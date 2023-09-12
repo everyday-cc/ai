@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-12-snowflake-nasdaqsnow-this-ai-stock-is-a-strong-buy-say-analysts.md",
+      "title": "Snowflake (NASDAQ:SNOW): This AI Stock is a Strong Buy, Say Analysts",
+      "excerpt": "Impressive capabilities are one thing, but developing an effective business model on top of the technology is another. From AI Chips to Software and Infrastructure For now, it seems doubtful that Snowflake will perform as well as AI chip kingpin Nvidia did ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/snowflake-nasdaq-snow-this-ai-stock-is-a-strong-buy-say-analysts-1032621437",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/snowflake-nasdaq-snow-this-ai-stock-is-a-strong-buy-say-analysts-1032621437",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.tipranks.com/wp-content/uploads/2023/09/image-190.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+          "width": 777,
+          "height": 436,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-11T15:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-11-how-salesforce-stock-nysecrm-can-thrive-from-the-ai-wave.md",
       "title": "How Salesforce Stock (NYSE:CRM) Can Thrive from the AI Wave",
       "excerpt": "Salesforce (NYSE:CRM) seems to be doubling down to gain a better position in the AI race. That much was clear after the company’s latest",
@@ -106,7 +158,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/2-ai-stocks-to-transform-your-portfolio",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 73,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1368,58 +1420,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-us-denies-imposing-export-controls-on-nvidias-ai-chips-for-select-middle-eastern-countries.md",
-      "title": "US denies imposing export controls on Nvidia’s AI Chips for select Middle Eastern countries",
-      "excerpt": "Biden administration to restrict the export of Nvidia's cutting-edge (AI) computer chips to select countries in the Middle East",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/09/01/us-denies-imposing-export-controls-on-nvidias-ai-chips-for-select-middle-eastern-countries/",
-      "originalUrl": "https://www.gizmochina.com/2023/09/01/us-denies-imposing-export-controls-on-nvidias-ai-chips-for-select-middle-eastern-countries/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/09/Screenshot-2023-09-01-152431.png",
-          "width": 1008,
-          "height": 664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-01T03:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],
