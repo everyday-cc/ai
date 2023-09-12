@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/quickerbettertech/2023/09/10/small-busi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2023/09/10/small-business-tech-roundup-intuit-introduces-an-ai-assistant/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
         width: 700
         height: 466
         isCached: true
+  - title: "TechCrunch+ Roundup: Raising follow-on AI funding, Instacart’s IPO, both sides on SB 54"
+    excerpt: "Despite the surge of interest in AI, startups hoping to use it as a springboard to their next funding round should think twice."
+    publishedDateTime: 2023-09-12T17:20:00Z
+    webUrl: "https://techcrunch.com/2023/09/12/techcrunch-roundup-raising-follow-on-ai-funding-instacarts-ipo-both-sides-on-sb-54/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 39
 
 secured: "yJB5xlE7QHdRKJDsdIzMgg9UtL+hIOwfZPx7yJ5ChjpuM4YEICX0LB14uK6AZpP4gI1va6AJdX2PbTlwKdPJcYID1bDFXksyCgJYK4h7n3QfU5qksVVY10QddOTOnkLsjePI+WCqW6OwfhW1nJDPnxWHUuZdfiIhR0gpchGxNsOl0g8ZMg/Ak8WbOMccn3FP4R5rgEElGYrpYysb8ZWrK8jukvFYcjmm9XZGO9I2LJt5SXWDmZnytQ/hho4JVlUhfnMXn625wAc3i4Bjp0QMi40wWXhxAxfbaKJioji1jI2f1F4az9fL6jZ8uNys4KvHoYHMS39Sznv1fZF47ud3zGbAOfNz7hU0sw/q+4nc+QjWuc1ZMnMlwPekKKud2sMjWkAYgcBtytyK04gLjUMAoIPQP0LUSb99SP7uCZuTpxWcDVUAaIuIiGtA3l+qa2J+26rrS98NGrTsihW/e5akv2i284gGwGWRaaXhJQcOT7s8pZyMvtErxZY77kh/DHD+CDTAQ7HhesBDhjOccXy83w==;XhgwKUH9rpCzPx7sD5lz6g=="
 ---

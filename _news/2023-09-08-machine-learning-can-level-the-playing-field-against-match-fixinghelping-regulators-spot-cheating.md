@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-09-machine-playing-field-fixinghelp
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-machine-playing-field-fixinghelping.amp"
 type: article
 quality: 60
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "http://www.nextplatform.com/wp-content/uploads/2023/09/nvidia-gpu-full-stack-performance-hpc-ai-mix.jpg"
         width: 714
         height: 520
-        isCached: true
-  - title: "Machine learning can level the playing field against match fixing – helping regulators spot cheating"
-    excerpt: "A new machine learning model can pinpoint anomalies in sports results – whether from match fixing, strategic losses or poor player performance. It could be a useful tool in the fight against cheating."
-    publishedDateTime: 2023-09-08T02:44:00Z
-    webUrl: "https://theconversation.com/machine-learning-can-level-the-playing-field-against-match-fixing-helping-regulators-spot-cheating-209392"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 39
-    images:
-      - url: "https://images.theconversation.com/files/547104/original/file-20230908-19-gz8i1l.jpg?ixlib=rb-1.1.0&rect=51%2C878%2C5700%2C2850&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
         isCached: true
   - title: "Fintech Customer Support India: Cynergy BPO— How Outsourcing Is Levelling the Playing Field"
     excerpt: "Furthermore, the nation’s technological stride in Artificial Intelligence and Machine Learning ensures that fintech customer support is not just reactive but proactive. Predictive analytics, real-time feedback, and AI-driven chatbots have transformed ..."

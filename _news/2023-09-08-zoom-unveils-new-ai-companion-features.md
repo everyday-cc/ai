@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/09/08/zoom-unveils-ne
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/09/08/zoom-unveils-new-ai-companion-features/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
       name: JD Supra
       domain: jdsupra.com
     quality: 19
+  - title: "Administration Secures Voluntary Commitments from Eight Additional Artificial Intelligence Companies to Manage the Risks Posed by AI"
+    excerpt: "The companies commit to investing in cybersecurity and insider threat safeguards to protect proprietary and unreleased model weights. These model weights are the most essential part of an AI system, and the companies agree that it is vital that the model weights be released only when intended and when security risks are considered."
+    publishedDateTime: 2023-09-12T18:17:00Z
+    webUrl: "https://www.hstoday.us/subject-matter-areas/cybersecurity/administration-secures-voluntary-commitments-from-eight-additional-artificial-intelligence-companies-to-manage-the-risks-posed-by-ai/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 1
 
 secured: "ExXTb5ANbcu7Ei7ye9LXYUOA9vSTQgIP9w35ryBMprDa1/8yfzVAyZ/hrf3ay6rpx0/5MKrEexgGAlHRWxrMRV4YFH1c3UbO4PfhiYBM+c4EgmZEWqwlF+CXvOM8JFyLJF+pkgMFxg6Lf8XD6bT8o7svPICdWtpjxn+eCS5N0XMWImj91wtGgfykZsYlGblgpXJD2BwNzpeD1PCel1zU+hIV7ojGSMUa5uLBkHbC+2XDg3vVSo55Sfo02Q8SZNgckGIsynOkTuPEqETCM3oBLoKwv3cH0Si6JrlR2gx2ujPr2xUstpD2a4edqhJmCevikgXcZxEx1OuzVraYP640QAJcLZpWOn0rXPoDHL0VMnFSP2cH/ZW3JTQdFZ4/APUzAsJxGD9kQ7lmQwFRL4EOHvc5gLXxGsIO6lMkC2QoZMD1tVCMG8GcCmzpL7aJ6iiqv6rx6+0Wprr3jJ2IAPZ9ras1aN5ZZo58UQfyPa+MFcwSvEAzVsQeXLUWPrZcL4b+ZvdVf+A3rjh9uqwTzkypJQ==;NLyPZ0BE7NAisIdumrAUYw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/tencent-latest-to-join-chin
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tencent-latest-to-join-chinas-genai-race-with-foundation-model-for-enterprises/"
 type: article
 quality: 85
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "http://img.yicaiglobal.com/src/image/2023/09/32931611694789.jpg"
         width: 770
         height: 510
-        isCached: true
-  - title: "Tencent unveils large language model"
-    excerpt: "Tencent Holdings, a leading homegrown technology company, debuted its much-awaited universal large language model Hunyuan on Thursday, as Chinese enterprises strive to gain a foothold in the global artificial intelligence race."
-    publishedDateTime: 2023-09-08T01:23:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202309/08/WS64fa6d78a310d2dce4bb49b6.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 24
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202309/08/64fa6d78a310d2dc6d277476.jpeg"
-        width: 689
-        height: 459
         isCached: true
 
 secured: "xLRdZYTykMeSlvwlQSqo+2dW4UaObyY/cc/rfHju+IYkeH7eMkXDNw0cxQk4V1SBTbhB8zmXrEw6rNkD1OjPS6/kFjNlO2EJAB4nixAmKh/M/5KZHZp+ylDmUaA6z+QZC6tKAZkInQ2UBJeeVPD7hITykomjcbzCkDL6r8azDHDf3zBoqSMtEZFz3HAvNTEKPV3yRsrKMG36wV6l3ClNuLMQFVtrUt5cb3b2Sr1RcLkxS1PeUH6+dYNVbFw09Ce5P3VqBTjkMlv3sTviediTRInXcqMPtg2G+unp3o0zbM9eARSzmyBanzD9Ax8MWyivzsGY1HB0hhUsxQhgo4uT+3HwwgF63tX90PR6s/FyCRIvjyyDpgJ9oJm96e7mGYdq+DC8HOEPPjwslo84mJ3eKpO8bLDIxMK/F1fylDRqTK25NWkkYnBYS3HgoqeENKohKXbESI6RICOJAVjU8FWsNgFvIkk1CZvZHSNT7nx1GNtNhRhYBy+zREJqTtSi9xvutIRtPoCfxSfKa9IBzA/aSg==;bmZ+exBHrcW5wRYmGP77SQ=="

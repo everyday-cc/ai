@@ -61,6 +61,15 @@ related:
       name: JD Supra
       domain: jdsupra.com
     quality: 19
+  - title: "Administration Secures Voluntary Commitments from Eight Additional Artificial Intelligence Companies to Manage the Risks Posed by AI"
+    excerpt: "The companies commit to investing in cybersecurity and insider threat safeguards to protect proprietary and unreleased model weights. These model weights are the most essential part of an AI system, and the companies agree that it is vital that the model weights be released only when intended and when security risks are considered."
+    publishedDateTime: 2023-09-12T18:17:00Z
+    webUrl: "https://www.hstoday.us/subject-matter-areas/cybersecurity/administration-secures-voluntary-commitments-from-eight-additional-artificial-intelligence-companies-to-manage-the-risks-posed-by-ai/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 1
 
 secured: "PoGiylnDiRFinC8a3B2adwIENihpRtgstZtYZ7nri4OryivjJeDQoYBoMTmJKVbrss/08aDTxAJdfDEhUOZWVPpqJY8ydY2MOeODswWsTsDDYFooat0CdPSldXekgGPpxbYsMEk69xIWgCUapFqYV6LZhu2nrjY0KU2bBk/PnxSa7HUAp/A6qAWN+5BLhTPTf9O0gDRt/4U6pjlwAMeqTC4xzNq0qwyqwIR4WUgQ6LDfo5z67AMzMOpXw7m4qYKmnpbyb0qF1XblkLpiScV6/YikO+fN1JPIIWCTjmvF47qjIcxUPtGKpFyUJ+pXj+SkWVomU9Fhsk9tNSbhaYxfg58TpkvrRD3KunZb4ljhrK0ZKYFXzuAwhMcObx2wdPMehiMyYN04pYJ/CHoZVWR7Mk4k9JsFOmq6raQdCjScOPTv+07MyUW2CBcrCN9Mq46mHRyMDXwaT9uMzI11TiFb/MEpGzvcElbH73ZhZjh/NCa2d3SjBRT2q1rdeS9ZC1tUr6TxhDs4spd3Q00Jj+XTrg==;WEEdLrc/9gqgWRxaDLh6SA=="
 ---

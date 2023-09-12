@@ -6,7 +6,7 @@ publishedDateTime: 2023-09-12T16:57:00Z
 originalUrl: "https://news.crunchbase.com/ai-robotics/enfabrica-ai-networking-chip-startup-funding-nvda/"
 webUrl: "https://news.crunchbase.com/ai-robotics/enfabrica-ai-networking-chip-startup-funding-nvda/"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - AI in Robotics
 
 images:
   - url: "https://news.crunchbase.com/wp-content/uploads/computer-chip.jpg"
@@ -54,22 +55,6 @@ related:
       - url: "https://infotechlead.com/wp-content/uploads/2023/01/NVIDIA-DGX-A100-systems.jpg"
         width: 640
         height: 442
-        isCached: true
-  - title: "AI startup Imbue tops $1 billion valuation after funding from Nvidia"
-    excerpt: "Kanjun Qiu, co-founder and CEO of Imbue, previously launched Sourceress, an AI recruiting startup, and Ember Hardware, a virtual reality startup. The company is a rare AI unicorn, or startup with a valuation of more than $1 billion, to have a woman CEO."
-    publishedDateTime: 2023-09-08T01:55:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/ai-startup-imbue-tops-1-billion-valuation-after-funding-from-nvidia-71694110213169.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ai-startup-imbue-tops-1-billion-valuation-after-funding-from-nvidia-71694110213169.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-startup-imbue-tops-1-billion-valuation-after-funding-from-nvidia-71694110213169.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 57
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/09/08/1600x900/Nvidia_1694137934885_1694137935126.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "1 Top Chip Stock Ready to Ride Nvidia's AI Tailwinds Higher"
     excerpt: "The jump in sales was mostly driven by its data center business, which includes the H100 and A100 chips - two advanced artificial intelligence (AI) chips that are used to build and run AI models and applications. Going forward, the company projected even ..."
@@ -155,6 +140,6 @@ related:
       domain: aol.com
     quality: 17
 
-secured: "6/YoKPLf6leLCUx4IUJ9csjL3NF3qzgVwwuosip4XqS+J295jgS2IjAV7P2hilBbNPed+DLnoD+U0sewni+ZJE/bmNGSpHM1h5zcag/cXsSYKPjQW7ld7XEQ1PmWTcfUXL5A+umxfh2ZOx2AjNl57O5v/iOKDTS5i3nidTsYz4T2WiYPjj0UBRwHVUgQo9zXFnU4vN43oGRBUJhxljADMGQscBISgKNgErI4Omm9D0Ru1LO1YyfgZnGGXSJfNQPaP+ir/6lt0oLY+0oiW54a+NHTmA+MyQSwS5Z4grAoy+lIKzBzSZJ8XkhTeSkO6WPATAUe+VNfLh4nVfF+HX6/WxoLJ+F/TCJB6vP+XBZv/+I=;mxpLU9l/cmMQchjif4Qj2A=="
+secured: "h9nzr/Oyge8Q2t7gBp45EUC3+3KeyorKw4v8dGBS8NnqujF2nhpF3d2WA4/fbNIqYtWzA5QTY3DEQfYEGVbQk7NDfxit4ZL+CFuBXfchEkW+O1WTYF8MoXG4oY7Eg0v+XtViNE8pfk5Be3hQ14QKMX7pH5atZ1K+uGfQVXkrW7QFP9sgyPMqyLgJIZVzCyq+hVJg3DeXA6khuijDQ5l7QDMNbFYcPnv5A4gRjWmsQwY01Badtlo45u/lv5DmIYb1UkCA4O0Ak109/rM/L7uUMYqPlqt3a2Wt6KpilU3GrwGD4Z33CT0FCKNEMMi9Fw5+BB4PwcHvrZv0yuz7x7xB5QYa/HmZvZyNr1AmOLKLL+5Ix/LhVJ4gsALBx3P1JJsiQJaz8wuzZ3849Lwgk9OZi0Cq29n5b9SE3JWtx7/6dl0Te91p8BsghQjgBQC2tMz7/dIpb9/uHtDbQbjqzsCFPacYXFE15UiYV/PmfFcQ5KTR7KE8GzkmxjKOOtkozHvNktmsyuZ6uo5/Mjy/Ijx/nA==;oBDzPzlcrFYnOK82QbDraQ=="
 ---
 

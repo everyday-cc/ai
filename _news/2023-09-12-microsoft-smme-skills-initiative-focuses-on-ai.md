@@ -43,50 +43,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "China suspected of using AI on social media to sway US voters, Microsoft says"
-    excerpt: "The AI-generated content is more ‘eye-catching than the awkward visuals’ used in previous such campaigns, such as digital drawings and photo collages."
-    publishedDateTime: 2023-09-08T04:05:00Z
-    webUrl: "https://www.scmp.com/news/world/united-states-canada/article/3233795/china-suspected-using-ai-social-media-sway-us-voters-microsoft-says"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 83
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/09/08/8438f40e-2aba-48ed-b552-e615240048b0_ab7bf349.jpg?itok=t1JRKHiO&v=1694117038"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Microsoft says it will defend customers of its AI Copilots from copyright lawsuits"
-    excerpt: "The tech giant is integrating many of its biggest products with generative AI, which scoops up existing content to create new material, potentially putting customers in legal jeopardy."
-    publishedDateTime: 2023-09-08T02:43:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3233809/microsoft-says-it-will-defend-customers-its-ai-copilots-copyright-lawsuits"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 78
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/09/08/10c71d6a-cc47-4b03-9730-1a8be73eed4c_9b7595cc.jpg?itok=6bBTINm9&v=1694140957"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "China suspected of using AI on social media to sway US voters, says Microsoft"
-    excerpt: "In a new research report, Microsoft said the social media accounts were part of a suspected Chinese information operation"
-    publishedDateTime: 2023-09-08T01:30:00Z
-    webUrl: "https://www.telegraphindia.com/world/china-suspected-of-using-artificial-intelligence-on-social-media-to-sway-united-states-voters-says-microsoft/cid/1964577"
-    ampWebUrl: "https://www.telegraphindia.com/amp/world/china-suspected-of-using-artificial-intelligence-on-social-media-to-sway-united-states-voters-says-microsoft/cid/1964577"
-    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/world/china-suspected-of-using-artificial-intelligence-on-social-media-to-sway-united-states-voters-says-microsoft/cid/1964577"
-    type: article
-    provider:
-      name: The Telegraph
-      domain: telegraphindia.com
-    quality: 73
-    images:
-      - url: "https://assets.telegraphindia.com/telegraph/2023/Jul/1688746000_microsoft-2.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Microsoft could use AI to make your Windows 11 desktop background exciting"
     excerpt: "Windows Copilot is not the only AI-powered feature coming to Windows 11. According to internal documents seen by Windows Latest, Microsoft is testing at least one AI-powered feature that could revolutionize how users interact with the desktop."
     publishedDateTime: 2023-09-10T22:48:00Z
@@ -158,20 +114,6 @@ related:
       name: Wired
       domain: wired.com
     quality: 62
-  - title: "China using AI to sway US voters, alleges Microsoft"
-    excerpt: "A Chinese embassy spokesperson in Washington said that accusations of China using AI to create fake social media accounts were “full of prejudice and malicious speculation” and that China advocates for the safe use of AI."
-    publishedDateTime: 2023-09-08T01:34:00Z
-    webUrl: "https://www.dawn.com/news/1774695"
-    type: article
-    provider:
-      name: Dawn
-      domain: dawn.com
-    quality: 56
-    images:
-      - url: "https://i.dawn.com/large/2023/09/080817285c66adf.jpg?r=081734"
-        width: 800
-        height: 480
-        isCached: true
   - title: "Microsoft’s AI WARNING against China! Fake social media accounts trying to influence US voters, says tech giant"
     excerpt: "Microsoft uncovers Chinese-controlled AI-driven fake social media network Influencing US voters, raising election concerns."
     publishedDateTime: 2023-09-08T09:39:00Z
@@ -331,6 +273,15 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 32
+  - title: "From ‘digital twins’ to new Microsoft partnership, SAS deepens embrace of AI"
+    excerpt: "SAS announced a pledge to commit $1 billion to AI-powered industry solutions. Today they're using the SAS Explore event to share some recent results of that investment."
+    publishedDateTime: 2023-09-12T19:00:00Z
+    webUrl: "https://wraltechwire.com/2023/09/12/from-digital-twins-to-new-microsoft-partnership-sas-deepens-embrace-of-ai/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 31
   - title: "Microsoft and Paige team up to develop world's largest cancer-fighting AI model"
     excerpt: "The image-based AI model will capture cancer's complexities, fueling the next-gen clinical apps and biomarkers in oncology and pathology"
     publishedDateTime: 2023-09-10T13:18:00Z

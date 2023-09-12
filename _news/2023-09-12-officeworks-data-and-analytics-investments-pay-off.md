@@ -39,6 +39,15 @@ related:
         width: 525
         height: 350
         isCached: true
+  - title: "SAS ups AI features in its analytics and CRM platforms"
+    excerpt: "The company said it’s working with Microsoft Corp. to develop a generative AI integration that combines Microsoft Azure OpenAI with SAS’ enterprise task orchestration and analytics in a product to be previewed in the fourth quarter."
+    publishedDateTime: 2023-09-12T18:26:00Z
+    webUrl: "https://siliconangle.com/2023/09/12/sas-ups-ai-features-analytics-crm-platforms/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
 
 secured: "MhdgMLlQP7MGxLTp0DHRxjQbv7huCwqwkvuJubQBeZjN9w8i2GiT474GJmMqtwu8GfNt6GIo8Mu1/O9DVlHBAXXDMIa7PDzt8u55q+L/sdIMZkhQHW/zqyKu1Un4QQ1cu5vfdPRPvD26QaIvD6NhMXJ4CuQmOhQEwJQTIUF7WbUhQhmj7c2dFGtAykugibPEVZjWCx70X5kvMeC1ODaNpDmR4vDtZ/gjXkcI0y3wBBoNEbV/50vadPV2QBQ0apkjoppbgSGciCfEIDy4XZGW1SKAK71D2NFKTkjLIJfH17+k3riRPmPgRg3jRXvri50FYTmW21zetX+AiQs8IIV+H/CNJm7y5k0NUGqURF1zllOZHD84QPulKt7Cfj0BtpqnTE2KecD6HuC+/5H7RFmsrUJKmqRTOe/jMvppHdN7T8ObPhI9w/QwbdYJE+ICMreXHmdpo/900zGavOFYZYXs/xop28+EuJKy4tZAQCk1wMnyyH6FxRbDRP+bC8XGftiplx+KqLL4gdI7XmupPckCnw==;WKw9JMoSq8V62IP0zmUstg=="
 ---

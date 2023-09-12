@@ -48,6 +48,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
+  - title: "Best Amazon deals in September 2023: Today's best sales"
+    excerpt: "Amazon deals can be found any day of the week. Whether you're shopping for a new MacBook or our favorite pair of headphones, Amazon is renown for offering sitewide sales every day. Remember ..."
+    publishedDateTime: 2023-09-11T14:10:00Z
+    webUrl: "https://www.tomsguide.com/news/best-amazon-deals"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 41
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/HHXzc9LDV6bEXvHVEVqbFY-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The 7 Best Autonomous Driving Stocks to Buy Now: September 2023"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With self-driving autos likely to become the next big trend, investors may"
     publishedDateTime: 2023-09-10T19:36:00Z

@@ -91,20 +91,6 @@ related:
         width: 714
         height: 520
         isCached: true
-  - title: "Machine learning can level the playing field against match fixing – helping regulators spot cheating"
-    excerpt: "A new machine learning model can pinpoint anomalies in sports results – whether from match fixing, strategic losses or poor player performance. It could be a useful tool in the fight against cheating."
-    publishedDateTime: 2023-09-08T02:44:00Z
-    webUrl: "https://theconversation.com/machine-learning-can-level-the-playing-field-against-match-fixing-helping-regulators-spot-cheating-209392"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 39
-    images:
-      - url: "https://images.theconversation.com/files/547104/original/file-20230908-19-gz8i1l.jpg?ixlib=rb-1.1.0&rect=51%2C878%2C5700%2C2850&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
-        isCached: true
 
 secured: "A0HYXXRFkuAG6eid5Vq7FsHKSbgUZXs//ZaP6t9W4+wmAtt9x1B6BgrtWUPifv3+STQY9sF5ZwYRS+8T0F1uLkBFipSY7eSoK/WuwPj2aAEWJUubHTB2p+mx19zlPf8JJ7bCch7NPdTgnLVAnpz639nhN+ZbZ6e/rdfIOxmiFW3ani+0VJvdMU2qe4LIWE6O6FtsWgaAYEyUPNokUustgd/NIsy0vQpQZYO7MR7qanHEF5X/TVE4RCqkLDzDKKlrrupBh8WyuPIibU9eql+cpCNeg/XQ4kQeh/uu0pJnKDEnKN+qe8B7UbNKpe8UTRxTEypOMDaovYl9uZvy5GEODqGmrCKddw8vCpkIsVgeGQM=;1miqBC7GbByUkQm15/69OA=="
 ---

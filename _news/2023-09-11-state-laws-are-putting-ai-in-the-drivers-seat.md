@@ -2,17 +2,17 @@
 category: news
 title: "State laws are putting AI in the driver’s seat"
 excerpt: "Are you riding alongside driverless vehicles in your state? TruckInfo.net analyzed legislation across the U.S. to make sense of the range of laws."
-publishedDateTime: 2023-09-11T16:30:00Z
-originalUrl: "https://www.miamiherald.com/news/business/article279208249.html"
-webUrl: "https://www.miamiherald.com/news/business/article279208249.html"
+publishedDateTime: 2023-09-11T15:31:00Z
+originalUrl: "https://www.sacbee.com/news/business/article279208249.html"
+webUrl: "https://www.sacbee.com/news/business/article279208249.html"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Miami Herald
-  domain: miamiherald.com
+  name: Sacramento Bee
+  domain: sacbee.com
 
 topics:
   - AI in Autos
@@ -173,6 +173,6 @@ related:
       domain: businesswire.com
     quality: 4
 
-secured: "qkfPpV6eVPLK/3CvGm2+TYuxs0n2o1eaTU7Y2YsB+q3IPQD5vVLNUPJ254ocp/OIu0qGm706MmWcKuIYcbp1zXB7lPgQFpk7aXQCZuI3pdMvPpcryh3dPhsHTUI95GRSrG5uuWvmUJqwkXDGsPwHYQUumtc8pWsIFDBsGUCzhEGEOpU4829QSqS4Mf+07p8CzTf5GALNDTqakJF2Etisp1O96ErxwnqXoXzEAiyz6pGODJN2vb6OH16/inl05pFJXRHV82JlE3xulcpSjTsCDrpoKPQS56C06I8ypMw9rh+W5wIzaEQuOndA6/hqk81Y7DxZMsjGOVaGU0yxfkxqS6ZanR60LDEgupidZLBsxkhRgRPWrLy0z8OuX0J+LXlrF/KLGgFVxy12w6essiU1b2f2lafC4MBhGKl2x7+Tl73Krdwjc/MhvDFfiOUL8K+P0uIaFzd9RLnWlfcLQF37+SdK6/wYyhk/hsVyiNuoLEaHSLwQBDWhc71rA4iyvCpjUsk8E6OcwJZmgo0Vl5A/GA==;lbktGyZLfHL2jMqdVG8RXQ=="
+secured: "gQ8cuXUZTvKYIOo0RWAPrPosOPFkEgPfI/EItnemoBLq8PI0jylB0DOujdAaKS58E/9Etwn99f9wapUTiOlCBqmOR8vhOd96JV/fa5PbNUD7FRUwoA1PtCcLWfmdQCoP4l17HIU+lVPZEuERNH3Fed5Y+FypAUjDMYmuqFZp51oK9j3UNlqIyZH+nzbL9h52zP+uzicaPMmHkIiuWqfcvpWOKKXFzG06cxzpJxH6H+ULXDQMiJMpn2B7GNUxHmbZcFoDsHQ/7gvAhrZzd2vzVEPhDBjRstynTyVafgog2HBb8Q56VS5chy9WoUlfpOws2+TfM0zpTXkV78t4UQJw2fOXCiZuPa+1faWe1ibXyu5EpqZfUTByexDyTWBGqznfMQLuHlgwp3lj+EcbPm9QL3eD5yt4V38jRmF9qXCOcp54qNXfDJWL3W4aQprbDB3LjawDgg/+WnqJDSbQougLoTkUuMURCapgol9oxqC+oufBnPUgUvJQaSRv91LMvsys4RItwrOIe5IDuDcnf9TOrg==;kOHnwQllBqXyaeg38YC5wg=="
 ---
 

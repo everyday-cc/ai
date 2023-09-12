@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mikeosullivan/2023/09/09/europe-in-the-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/09/09/europe-in-the-lead-in-ai-regulation/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Congress huddles with tech experts in new push for AI rules: ‘There will be regulation’"
+    excerpt: "Senators are meeting with leading Big Tech executives this week as part of a new push to write rules for artificial intelligence focused on limiting danger and safeguarding innovation."
+    publishedDateTime: 2023-09-12T19:56:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/sep/12/congress-huddles-tech-experts-new-push-ai-rules-th/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 11
 
 secured: "mwh2OfEJlqFPXstblh4jk9bHpszrIycxfnn1aq22xHWqkRRPUhiZst61dgqn7mSkCmhx0eriu42SU7ZUBjsEy4q/7EXX1Z0q07gyAPaW4JcawRVX+HYLhoeKDjPuGfUT27Shmtl2ynhG/LIbPxbIfvgsIlR+LBeLe6mt3Nu5Vk9kcb1HEOBRZcsrNkw1vHB306qKRKXu3R7FsH6tv+Zg0uDwMcvH834PpandrZNReoIE8BQ0tK1isq7MqIpvwGyQhk3b5GCwKCNGcABXkJImDpwWLlcU6JbXVh7LsrdSqoCILtdGZnhWk72lTcVYjg+AfiPA6MkIfY0zJkf84dBTrGAB8QC3Bps6n0POh/C/DCA1A5GCRvswCh1bO2CnlYdJy4C4f5BsAH05yXjAcTzmSpQZ6vroC9J2ZIN8XqvUKEJfgIx1UUHzNiAlvSjuNrJfffNRWFpSbMxmyLqsqQUuD5EzRUo2+9AYGOmppEGkPml2VL9BGqpxU9omIsgadXB9fw1BkRDWpFA/GDeaY1z2iQ==;Tp/LsuZhoHbTqQm+5DSP6g=="
 ---

@@ -53,6 +53,15 @@ related:
         width: 700
         height: 466
         isCached: true
+  - title: "TechCrunch+ Roundup: Raising follow-on AI funding, Instacart’s IPO, both sides on SB 54"
+    excerpt: "Despite the surge of interest in AI, startups hoping to use it as a springboard to their next funding round should think twice."
+    publishedDateTime: 2023-09-12T17:20:00Z
+    webUrl: "https://techcrunch.com/2023/09/12/techcrunch-roundup-raising-follow-on-ai-funding-instacarts-ipo-both-sides-on-sb-54/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 39
 
 secured: "0if3UfZK7EGp/TpYszkTOBsriAcmzzkVArIR+ewzwOGj6NmLFs4v0capj6P2qCBOdAyZ7rcsAuv2AHfQqWhEotQ9FKbQ00aJEMCrJf9t/w7SGj0toTm1VUWFedruupdqDcnbB0XVskxlrierohNb7tig7pH7ZNV0G0QdW0BOB/gAul6+NwW/tuQPAwVnAgFfhzP/4fF6xBJBeAhatq0gFIcCljP9voZ2K79oMGLajvH/igZ2IFqtDWIY1+KN6YbNkntOjXPfk+7vhD7UH9AqBf9M6cJYAXuBPr7AbUT/jI74Hdsb1ilbfw4PQzuvyGbkF/jc3ohjsVlilvKnJL+uRWRdEOSf6wp5/GyAQDSnizAM78Cr52DTK4vIJ+bIbTi3zG/IY/Jgl+/UTfkJApxFjcdH4CsZg5MqdgrW7rSZAJrm5XWptf+BAGdleuvA+5UerlLTWJQVYEHUQSb1+NtE/8zPECMSn6TrhwdsDtOt+MEYNbbP2UjDdGBPRJcGEbg8KZxMyhvlO4XJPqMSZNA5UA==;yaTo1ouZG+Lgf7vleJ2lJA=="
 ---

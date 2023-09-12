@@ -69,6 +69,15 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "Labelbox Introduces LLM Solution to Help Enterprises Innovate with Generative AI, Expands Partnership with Google Cloud"
+    excerpt: "models for vision and natural language processing (NLP) and to automate key workflows. These integrations can be used to shorten the development cycles for generative AI applications by using Labelbox to empower human experts to evaluate LLM outputs more ..."
+    publishedDateTime: 2023-09-12T19:30:00Z
+    webUrl: "https://www.datanami.com/this-just-in/labelbox-introduces-llm-solution-to-help-enterprises-innovate-with-generative-ai-expands-partnership-with-google-cloud/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 0
 
 secured: "O3ujJaUc3id5yN9NdOwmkAE1XU6i6Aep3LVstc173QnXPoN86Z8+MRTZrPGlwAjXpuErUcdgiQY2gYsW9oiW3AN+K6WMN1HO0P3ud4jjbRiCDaPXiw+WhePNT6mtj3zWD33qQdKnLF0lDTdFPqwWeG6iN2RBrQl6cG8KfKPBPELjWgoiArxnMXP1nSsAVtEdZOB9ylzBUOOHCRFCTRfhI3UDfsNistgfvT29/sdGMkGY6Tv2L3L+53h3WsVskIPJrvtUsmjjElP0oWTPBKo0PiumH20D2EbrrhE0MS9p/spZBETRjPrllFBq06EoBhE+8E8Cob7hBZWiDK5aVlhM21K06sLRrqr/ht7znelWoo0=;tSwb7vOMZIferWXYy1SA6A=="
 ---

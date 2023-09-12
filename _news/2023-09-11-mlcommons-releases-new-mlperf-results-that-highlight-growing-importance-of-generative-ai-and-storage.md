@@ -147,12 +147,12 @@ related:
         isCached: true
   - title: "State laws are putting AI in the driver’s seat"
     excerpt: "Are you riding alongside driverless vehicles in your state? TruckInfo.net analyzed legislation across the U.S. to make sense of the range of laws."
-    publishedDateTime: 2023-09-11T16:30:00Z
-    webUrl: "https://www.miamiherald.com/news/business/article279208249.html"
+    publishedDateTime: 2023-09-11T15:31:00Z
+    webUrl: "https://www.sacbee.com/news/business/article279208249.html"
     type: article
     provider:
-      name: Miami Herald
-      domain: miamiherald.com
+      name: Sacramento Bee
+      domain: sacbee.com
     quality: 19
   - title: "The Download: combating covid, and the challenges of governing AI"
     excerpt: "Deciding how to regulate AI is one of the biggest challenges facing politicians and experts alike. On September 12 we’re holding the second MIT Technology Review Roundtable: a 30-minute conversation with our writers and editors—and this one’s all about governing AI."
@@ -173,6 +173,6 @@ related:
       domain: axios.com
     quality: 17
 
-secured: "D6iz46WDXfZL1fZQyY/f7Rwby+KkCwUuoc0sH+Z5HkMAby0zW6rGH+KAmUtFCV3xSYj/YN6/70xldFzKcadoJSTwr2pNZcSMquC/V8krPT0c8rP6u7LezlpT4UjfpYnVfCilxnLCzWocw/iW5x2/KWWgK49sQoXb/VFm0ohW2pRG/pDolFIxMWYLuHnYYz6ROuec5ehS0MCLmbz9ot97DXMy6mKRBySXzeLebTngw6AP8KlfZxlRR7TlRp41NirQ/LETbK0bTlMXiG6tVLVJTlAAJYp5rC+wp4I0LreIERaCgmC+K2FIXYznpj/gDSwT8a4+MSLsGV/8pU8QYd7FUmyGNT8AyiPKsISfTh6z0CM=;ep9QW6rvz7N2cX/jI4IGoA=="
+secured: "F3KwqYZCF9zhF5+x0oyzKWrYXYJfFJxF1ep3D/8Cfvd4LZqs/v4iD7vXhANKavL0Cvs7o/0ZPsLk6JG4zWgDNAZcUFVAhn88p+JXNrzJqz2jKp6QEqsZR/PgB+DS+4zg8eOekfWJdlTbMyLX5B+rIMdDFfPAcuQ+dMX625V/X8TM8vYPfs+No2wFSiEIfToUNMntfg5OBvOqcRJcvoI3jH+0PQ4lWkOuErkoRFkfhKf7pryn/+ywaO/QX8KqJN9as2uPGIxEkGA4ebcMqEhRbk3Sg5xWY0Dta3x9gQCnWYeO9RoDMWi9ek3DklpgoxDFqebH3lnMOYq+9NhsNJg2/TCth4giv1gMId69Y/1PwXQXyOwopnglL+5r/DkRh/DzUbvuJB9/B1aqTedASNQLim1+SFoZuwuixrm3DVJ2zJYgQq/rDjlZgKPAK+uvT8fKsracvZ3JGfUKXKCDVUos581GCU0fOus8CPT/fr1nZg2vJhFT5cZr3NBbnI9nd95InEX82s5i7IcQfsnuChuV8w==;U3e2ToTlKgwyESpAu1twYA=="
 ---
 

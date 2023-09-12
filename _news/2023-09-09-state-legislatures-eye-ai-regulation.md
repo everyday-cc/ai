@@ -58,6 +58,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "Administration Secures Voluntary Commitments from Eight Additional Artificial Intelligence Companies to Manage the Risks Posed by AI"
+    excerpt: "The companies commit to investing in cybersecurity and insider threat safeguards to protect proprietary and unreleased model weights. These model weights are the most essential part of an AI system, and the companies agree that it is vital that the model weights be released only when intended and when security risks are considered."
+    publishedDateTime: 2023-09-12T18:17:00Z
+    webUrl: "https://www.hstoday.us/subject-matter-areas/cybersecurity/administration-secures-voluntary-commitments-from-eight-additional-artificial-intelligence-companies-to-manage-the-risks-posed-by-ai/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 1
 
 secured: "xAnNpNmG/0F/iwop43IPJ7jJk9ueahIDFr59Oqr5RpQoJKOpOdewQjXgcGJmiKel9vpn3LFRSqDgS1gUMxTMar5+IOT4Rf6LXSFwBJXUBjU5GEX+RSgCO1Gc72QNs3OANLbOkkUHf9CvwaD2QAdh6kSU64QoGx/VajD6/2remlzn0JXttMihzoBEyaa3NjCiORc4bzUfqUNdGOwuuhp70A6MgbCEY7ByGTBdp8ID+2t/VzN96vWW+r7/JPbWg1ebBr9p/iFo5vICvNMP9JJ1rK5sTjiu/xARZVoGEDElC4sYSdydYVImHaZL2PA7o3T4f6hLYb1MK/dO0dcVG/WSY7ikA018KIi+LbtadDcU1DE=;9+D0AsyTX3Z1/fxP281ZAw=="
 ---

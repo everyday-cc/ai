@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/ai-chip-startup-enfabrica-raise
 webUrl: "https://www.reuters.com/technology/ai-chip-startup-enfabrica-raises-125-mln-with-backing-nvidia-2023-09-12/"
 type: article
 quality: 84
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -45,21 +45,19 @@ related:
         width: 640
         height: 442
         isCached: true
-  - title: "AI startup Imbue tops $1 billion valuation after funding from Nvidia"
-    excerpt: "Kanjun Qiu, co-founder and CEO of Imbue, previously launched Sourceress, an AI recruiting startup, and Ember Hardware, a virtual reality startup. The company is a rare AI unicorn, or startup with a valuation of more than $1 billion, to have a woman CEO."
-    publishedDateTime: 2023-09-08T01:55:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/ai-startup-imbue-tops-1-billion-valuation-after-funding-from-nvidia-71694110213169.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ai-startup-imbue-tops-1-billion-valuation-after-funding-from-nvidia-71694110213169.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-startup-imbue-tops-1-billion-valuation-after-funding-from-nvidia-71694110213169.html"
+  - title: "Nvidia-Backed AI Chip Networking Startup Enfabrica Lands $125M Series B"
+    excerpt: "The deal is the latest example of investors backing the actual hardware, chips and other infrastructure needed for generative AI modeling."
+    publishedDateTime: 2023-09-12T16:57:00Z
+    webUrl: "https://news.crunchbase.com/ai-robotics/enfabrica-ai-networking-chip-startup-funding-nvda/"
     type: article
     provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 57
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 56
     images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/09/08/1600x900/Nvidia_1694137934885_1694137935126.jpg"
-        width: 1600
-        height: 900
+      - url: "https://news.crunchbase.com/wp-content/uploads/computer-chip.jpg"
+        width: 900
+        height: 506
         isCached: true
   - title: "1 Top Chip Stock Ready to Ride Nvidia's AI Tailwinds Higher"
     excerpt: "The jump in sales was mostly driven by its data center business, which includes the H100 and A100 chips - two advanced artificial intelligence (AI) chips that are used to build and run AI models and applications. Going forward, the company projected even ..."
@@ -102,20 +100,6 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2023/08/cover.jpg"
         width: 843
         height: 394
-        isCached: true
-  - title: "Nvidia-Backed AI Chip Networking Startup Enfabrica Lands $125M Series B"
-    excerpt: "The deal is the latest example of investors backing the actual hardware, chips and other infrastructure needed for generative AI modeling."
-    publishedDateTime: 2023-09-12T16:57:00Z
-    webUrl: "https://news.crunchbase.com/ai-robotics/enfabrica-ai-networking-chip-startup-funding-nvda/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 54
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/computer-chip.jpg"
-        width: 900
-        height: 506
         isCached: true
   - title: "Nvidia’s dominance in AI chips deters funding for start-ups"
     excerpt: "Nvidia has “indirectly” contributed to overall AI chip fundraising woes, because investors want “home run only type investments with a huge investment, huge return”, Mythic CEO Dave Rick said. Difficult economic conditions have added to the downturn in the cyclical semiconductor industry, Rick said."

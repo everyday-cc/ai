@@ -19,77 +19,59 @@ topics:
   - AI
 
 related:
-  - title: "NVIDIA, Tata Group to work together on AI computing infrastructure, platforms"
-    excerpt: "The companies will work together to build an AI supercomputer powered by the next-generation NVIDIA GH200 Grace Hopper Superchip to achieve high quality performance."
-    publishedDateTime: 2023-09-08T15:09:00Z
-    webUrl: "https://www.cnbctv18.com/technology/nvidia-tata-group-work-on-ai-computing-infrastructure-platform-gh200-grace-hopper-superchip-17755921.htm"
-    ampWebUrl: "https://www.cnbctv18.com/technology/nvidia-tata-group-work-on-ai-computing-infrastructure-platform-gh200-grace-hopper-superchip-17755921.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/nvidia-tata-group-work-on-ai-computing-infrastructure-platform-gh200-grace-hopper-superchip-17755921.htm/amp"
+  - title: "RoboBusiness: NVIDIA to discuss role of Generative AI in robotics"
+    excerpt: "We have seen a huge leap in the capabilities of Generative AI algorithms as demonstrated through ChatGPT, Stable Diffusion, and other algorithms. It is expected that Generative AI will also have a large impact on robotic reasoning, visual understanding, and physical execution abilities."
+    publishedDateTime: 2023-09-12T21:17:00Z
+    webUrl: "https://www.therobotreport.com/robobusiness-nvidia-to-discuss-role-of-generative-ai-in-robotics/"
     type: article
     provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 56
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 99
     images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/05/nvidia-1019x573.png"
-        width: 1019
-        height: 573
+      - url: "https://www.therobotreport.com/wp-content/uploads/2023/06/chatgpt-robotics.jpg"
+        width: 800
+        height: 554
         isCached: true
-  - title: "Nvidia debuts new software to boost AI model performance on its high-end chips"
-    excerpt: "Nvidia Corp. today announced a new open-source software suite called TensorRT-LLM that expands the capabilities of large language model optimizations on Nvidia graphics processing units and pushes the limits of artificial intelligence inference performance after deployment."
-    publishedDateTime: 2023-09-08T18:02:00Z
-    webUrl: "https://siliconangle.com/2023/09/08/nvidia-unveils-tensorrt-llm-boost-ai-inference-performance-h100-gpus/"
+  - title: "Reliance Partners NVIDIA To Develop Large AI Language Model For India"
+    excerpt: "Reliance's Jio Platforms Limited has partnered with chip designer major NVIDIA to construct an advanced cloud-based AI computing infrastructure"
+    publishedDateTime: 2023-09-08T10:44:00Z
+    webUrl: "https://inc42.com/buzz/reliance-partners-nvidia-to-develop-large-ai-language-model-for-india/"
+    ampWebUrl: "https://inc42.com/buzz/reliance-partners-nvidia-to-develop-large-ai-language-model-for-india/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/reliance-partners-nvidia-to-develop-large-ai-language-model-for-india/amp/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 50
+      name: inc42
+      domain: inc42.com
+    quality: 59
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/nvidia-brand-logo-2-1920x1080.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://cdn.inc42.com/wp-content/uploads/2023/04/cloud-social.png"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "Nvidia partners with Reliance Jio for 2,000MW of AI data centers, Tata for AI cloud in India"
-    excerpt: "With Reliance, Nvidia will build AI infrastructure that is \"over an order of magnitude more powerful than the fastest supercomputer in India today,\" it claimed. Reliance will use"
-    publishedDateTime: 2023-09-08T15:48:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-partners-with-reliance-jio-for-2000mw-of-ai-data-centers-tata-for-ai-cloud-in-india/"
+  - title: "Nvidia to build AI infrastructure and train engineers in India"
+    excerpt: "Following the meeting between India's Prime MInister Narendra Modia and Nvidia CEO Jensen Huang, Nvidia announced a partnership with Reliance Industries for buildning AI infrastructure and to train engineers at Tata Consultancy Services,"
+    publishedDateTime: 2023-09-11T02:14:00Z
+    webUrl: "https://www.digitimes.com/news/a20230911VL201/nvidia-india-ai-infrastructure-it+ce-software-big-data.html"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 30
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
     images:
-      - url: "https://media.datacenterdynamics.com/media/images/explore-dgx-h100-1cc-d.2e16d0ba.fill-1200x630.jpg"
-        width: 850
-        height: 448
+      - url: "https://img.digitimes.com/newsshow/20230911vl201_files/4_2b.jpg"
+        width: 1280
+        height: 853
         isCached: true
-  - title: "Tata partners with Nvidia to build AI supercomputer, cloud infrastructure"
-    excerpt: "Tata Communications and Nvidia will develop an AI cloud in India aimed at providing critical infrastructure that enables computing's next lifecycle. Tata Communications' robust gl"
-    publishedDateTime: 2023-09-08T15:46:00Z
-    webUrl: "https://www.business-standard.com/companies/news/tata-partners-with-nvidia-to-build-ai-supercomputer-cloud-infra-123090801251_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 18
-  - title: "After Reliance, Tata Group set to announce AI partnership with NVIDIA: Report"
-    excerpt: "Hours after billionaire Mukesh Ambani-led Reliance Industries Limited on 8 September announced to partner with US-based chipmaker NVIDIA, reports arrived that Tata Group is set to announce an AI partnership with the same US chipmaker. An announcement is expected later in the day, reported Reuters citing a source."
+  - title: "Jio, Nvidia partner to build AI Cloud infrastructure in India"
+    excerpt: "Jio Platforms and Nvidia have partnered to build a cloud-based AI infrastructure in India. The collaboration aims to accelerate AI development efforts"
     publishedDateTime: 2023-09-08T12:49:00Z
-    webUrl: "https://www.livemint.com/companies/news/after-reliance-tata-group-set-to-announce-ai-partnership-with-nvidia-report-11694177201093.html"
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/jio-nvidia-partner-to-build-ai-cloud-infrastructure-in-india/articleshow/103512248.cms"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 16
-  - title: "Reliance Jio collaborates with Nvidia for AI infrastructure; hints at a possible homegrown generative AI"
-    excerpt: "Reliance Jio partners with Nvidia to set up cloud-based AI infrastructure in India. The partnership will enable researchers, developers, startups, scientists, AI practitioners, and others to access accelerated computing and secure cloud networking."
-    publishedDateTime: 2023-09-08T12:45:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/reliance-jio-collaborates-with-nvidia-for-ai-infrastructure-hints-at-a-possible-homegrown-generative-ai/article67284725.ece"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 2
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 19
 
 secured: "3ddMctnRa0sjuOnDPthJzMEO0PP9AVVRBGNOtIYrRD5WHX4thOB4jeVZZoSm95C4SJmfs8VN0rL8vtZfwhdVmafM75OFWr5/cm8d60zyjhJEnO2BuXmAJyECwkTRZUPWdUrouoVc9aGA1Ir9enSxbz8RI4ffuV6gYnYOewa9wg/+XwrqvcvxTHj3drXYWWSoOoQc7CcLQ5GDY+xQMe+grYoRpdwcbqQ3L1YJcR9ibCV0mpE7noHLP9MEtuCxv4qJtkb8qnbpp+uaau5UvW47uEzRRrgfRS+MFXCzsyCun6aSpiV2a40peHOoAJ72spQdKO3pSiuO6L/UEqkdiBj5lkDKdOZrhXs7oXQsiQDFixA=;WvxKF90gGaYX3FwGzYt5Ng=="
 ---

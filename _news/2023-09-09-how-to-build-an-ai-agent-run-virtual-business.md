@@ -50,6 +50,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "TechCrunch+ Roundup: Raising follow-on AI funding, Instacart’s IPO, both sides on SB 54"
+    excerpt: "Despite the surge of interest in AI, startups hoping to use it as a springboard to their next funding round should think twice."
+    publishedDateTime: 2023-09-12T17:20:00Z
+    webUrl: "https://techcrunch.com/2023/09/12/techcrunch-roundup-raising-follow-on-ai-funding-instacarts-ipo-both-sides-on-sb-54/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 39
 
 secured: "Lpvn3aTQ4kryj/8yw6YVZzVP5I9jBcsR8GOJHjH4jzjCXm4oiMOuu9ckdn+66e/sKi4zRQDILGK8H6SLxd5dvXdTv6X+4ISDqmX6lHfku1+aYJuKUYfVimQlqeqtDFG4xs3TXrsBUjcEbkHfNYMvIAw4fx8WZuzX5nMu8SyjCcHubTZ1cVZNS327PW/MHMLKe03cGGJBomGtCVdC473O1uEfhgPPBEI16gikJgUW5bQIjffuTEYOiIOuHXsZywAQBQ5h+c/zU9hUHAD8HTdxq6fX9sbC3+ltT0fTEHL+s2Y1011U4KxLqXDuXVPaJ+K2JBsVnF2LEBBcdG4aYmgxHe52oahqbQByeaJlKZ9RxwQ=;BpIH54yOB2zs8Hbyx3dT2w=="
 ---

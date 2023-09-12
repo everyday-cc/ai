@@ -46,6 +46,15 @@ related:
         width: 1200
         height: 904
         isCached: true
+  - title: "Congress huddles with tech experts in new push for AI rules: ‘There will be regulation’"
+    excerpt: "Senators are meeting with leading Big Tech executives this week as part of a new push to write rules for artificial intelligence focused on limiting danger and safeguarding innovation."
+    publishedDateTime: 2023-09-12T19:56:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/sep/12/congress-huddles-tech-experts-new-push-ai-rules-th/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 11
 
 secured: "kc86Aqka1jXpDLCqgGfS4Tnpf4+uQ0e+Bnn0sPrtWOqLPnIpv45VN5HzuvAoRaWm+oFMw6PPTzpLFL9pYoAdzHmO9FmMYS5RuQRQSwmiA1gj5ug+Gt13rv+SGNd11MEwVHM3hlEUV4W5p0L1O3fynDqhhc2Ul9EWcDWvPl9kxgW7DStictXzX836gBhYhaI7ieAh16KnsmKIKJTxGk2/JDgStTPupvX/Bg5dpuhiJPzdt90Q3EnKkZh4fCt7zRJkHmkfXzZQlVvlNsGKfq8iuzJYJKrkQa6L9LgRiyBWR447vauKgP3dqvYReE2OtsxW4sAfar8lPo3to5J9r24QilVSKUZdifJA1gaD45w+Mo3dehQogs6Ynt4LHncjQcM+x7qnT4019bvHyrmFQeMt70dL2W6FeeOZQg7cvfntsqDcCcV2IyYfc2FJsWB/CRDshT6CAYoGykr5qjiOGVwUm9ix3a94kJgxA6+C39idC1D/jjhRUY/zpI0HAPRhSVCWfB6EoDqQxkuimxCn3R9fNg==;VjxAhIW8OabUOwUIze7SBA=="
 ---

@@ -189,6 +189,20 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "UGOT modular AI robot kit with support for ChatGPT, Python and more"
+    excerpt: "face recognition, and text and object recognition. If the UGOT campaign successfully raises its required pledge goal and production progresses smoothly, worldwide shipping is expected to take place sometime around December 2023. To learn more about the ..."
+    publishedDateTime: 2023-09-12T13:38:00Z
+    webUrl: "https://www.geeky-gadgets.com/modular-ai-robot-kit/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 56
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/modular-AI-robot-kit.jpg"
+        width: 700
+        height: 473
+        isCached: true
   - title: "A boy saw 17 doctors over 3 years for chronic pain. ChatGPT found the right diagnosis"
     excerpt: "Alex experienced pain that stopped him from playing with other children but doctors had no answers to why. His frustrated mom asked ChatGPT for help."
     publishedDateTime: 2023-09-11T14:42:00Z
@@ -348,6 +362,15 @@ related:
     provider:
       name: Southeast Missourian
       domain: semissourian.com
+    quality: 19
+  - title: "Doctors see potential in ChatGPT diagnoses, but questions still remain"
+    excerpt: "With the rise of generative AI, people who once turned to “Dr. Google” to check on medical symptoms are now turning to chatbots. Researchers are urging caution."
+    publishedDateTime: 2023-09-12T13:28:00Z
+    webUrl: "https://www.modernhealthcare.com/digital-health/chatgpt-generative-ai-diagnoses-google-emory-university-mayo-clinic"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
     quality: 19
   - title: "Artificial intelligence tech behind ChatGPT guzzles Iowa water, researchers say"
     excerpt: "To keep cool on hot days, data centers need to pump in water — often to a cooling tower outside its warehouse-sized buildings."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-par
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-parle-products-extends-collaboration-with-ibm-over-cloud-and-ai-solutions-3241176/lite/"
 type: article
 quality: 58
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -69,6 +69,15 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "Labelbox Introduces LLM Solution to Help Enterprises Innovate with Generative AI, Expands Partnership with Google Cloud"
+    excerpt: "models for vision and natural language processing (NLP) and to automate key workflows. These integrations can be used to shorten the development cycles for generative AI applications by using Labelbox to empower human experts to evaluate LLM outputs more ..."
+    publishedDateTime: 2023-09-12T19:30:00Z
+    webUrl: "https://www.datanami.com/this-just-in/labelbox-introduces-llm-solution-to-help-enterprises-innovate-with-generative-ai-expands-partnership-with-google-cloud/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 0
 
 secured: "bnrBmEO8QMKqu8yW1gOQ7z+LkSA9kD4+GFfVFDP6F/zu2y73Pi65aUDJx7fyO9F/ZbO932Af41j8BsjWko5QvBw2VH1hZvWVAkTLw2x47SKJ4UoshJFJRzbSKDbYWZAt5OrRvPZon2BUyXzN3rY2WJi0l2sY9RQmiDOa5L2P3tQrdWA/jpgrYBoj5WG9CKhHYMBqVGc/4m6Ka2/xUWZeV0tVIdYHVRLWQYIVMQcOraajVBqgsz4thZHXV+gIZGPmRYLlvHGIAHf5+XTQHWKAW/0DGacDrQeo2yZKyJqvPQxYT1CFmb3jks0A67yREXo1IXA3aJziZP9UgJRwELNOVH9+DzzyCe+Iov1DxrBzoWs=;eZNLDD55+HhiVDh8dild8g=="
 ---

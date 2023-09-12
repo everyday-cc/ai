@@ -111,6 +111,29 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "20 Ways Organizations Use AI To Interact With And Serve Customers"
+    excerpt: "From tailored experiences to engaging conversations to delivery tracking—and more—AI is changing the ways organizations interact with the people they serve."
+    publishedDateTime: 2023-09-12T19:14:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/12/20-ways-organizations-use-ai-to-interact-with-and-serve-customers/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "How to learn a new language with AI"
+    excerpt: "Artificial intelligence (AI) has made significant strides ... While not originally designed as educational tools for language learning, translation applications like Google Translate, DeepL ..."
+    publishedDateTime: 2023-09-08T14:05:00Z
+    webUrl: "https://www.geeky-gadgets.com/how-to-learn-a-new-language-with-ai/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/learning.jpg"
+        width: 700
+        height: 525
+        isCached: true
   - title: "Say hello to Coach AI"
     excerpt: "Coursera chief executive officer Jeff Maggioncalda wants to give you an AI-generated personal tutor. The online learning platform has recently launched Coach, a chatbot tool that plugs into ChatGPT. It answers questions by sifting through and summarising Coursera’s entire curricula."
     publishedDateTime: 2023-09-10T01:10:00Z

@@ -27,81 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "As distance from China grows, India & US work on tech projects – chips to AI"
-    excerpt: "The leaders continue to look forward to the participation of Indian companies in the US Rip and Replace programme, a joint statement issued by India and the US said."
-    publishedDateTime: 2023-09-09T05:48:00Z
-    webUrl: "https://indianexpress.com/article/india/as-distance-from-china-grows-india-us-work-on-tech-projects-chips-to-ai-8931140/"
-    ampWebUrl: "https://indianexpress.com/article/india/as-distance-from-china-grows-india-us-work-on-tech-projects-chips-to-ai-8931140/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/india/as-distance-from-china-grows-india-us-work-on-tech-projects-chips-to-ai-8931140/lite/"
+  - title: "RoboBusiness: NVIDIA to discuss role of Generative AI in robotics"
+    excerpt: "We have seen a huge leap in the capabilities of Generative AI algorithms as demonstrated through ChatGPT, Stable Diffusion, and other algorithms. It is expected that Generative AI will also have a large impact on robotic reasoning, visual understanding, and physical execution abilities."
+    publishedDateTime: 2023-09-12T21:17:00Z
+    webUrl: "https://www.therobotreport.com/robobusiness-nvidia-to-discuss-role-of-generative-ai-in-robotics/"
     type: article
     provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 71
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 99
     images:
-      - url: "https://images.indianexpress.com/2023/09/modibiden-3col.jpg"
-        width: 1200
-        height: 667
+      - url: "https://www.therobotreport.com/wp-content/uploads/2023/06/chatgpt-robotics.jpg"
+        width: 800
+        height: 554
         isCached: true
-  - title: "NVIDIA Partners with Tata Group to Develop AI Supercomputer, Cloud in India"
-    excerpt: "U.S. chipmaker NVIDIA and Indian conglomerate Tata Group have announced a major partnership to accelerate the adoption of artificial intelligence (AI) in India. The announcement follows, the US chip designer’s collaboration with Mukesh Ambani’s ..."
-    publishedDateTime: 2023-09-09T09:05:00Z
-    webUrl: "https://www.gizmochina.com/2023/09/09/nvidia-tata-ai-partnership/"
+  - title: "Nvidia to build AI infrastructure and train engineers in India"
+    excerpt: "Following the meeting between India's Prime MInister Narendra Modia and Nvidia CEO Jensen Huang, Nvidia announced a partnership with Reliance Industries for buildning AI infrastructure and to train engineers at Tata Consultancy Services,"
+    publishedDateTime: 2023-09-11T02:14:00Z
+    webUrl: "https://www.digitimes.com/news/a20230911VL201/nvidia-india-ai-infrastructure-it+ce-software-big-data.html"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 67
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
     images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/09/Nvidia-Partners-Tata.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "NVIDIA Helps India Achieve AI Dominance: After Reliance, Pens Deal With Tata"
-    excerpt: "As per the partnership, Tata Communications and NVIDIA will create an AI cloud in India to offer critical infrastructure to drive computing's next lifecycle. The companies will jointly build an AI supercomputer powered by the NVIDIA's GH200 Grace Hopper Superchip to boost performance."
-    publishedDateTime: 2023-09-08T16:56:00Z
-    webUrl: "https://www.benzinga.com/markets/equities/23/09/34364787/nvidia-helps-india-achieve-ai-dominance-after-reliance-pens-deal-with-tata"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34364787"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34364787"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 56
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/09/08/nvda_0.png?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Jio, Tata Group enter pacts with Nvidia to develop advance artificial intelligence applications in India"
-    excerpt: "The partnership with RIL-owned Jio Platforms comes a week after the company outlined its aggressive plans for artificial intelligence."
-    publishedDateTime: 2023-09-09T00:00:00Z
-    webUrl: "https://www.financialexpress.com/business/industry-jio-tata-group-enter-pacts-with-nvidia-to-develop-advance-artificial-intelligence-applications-in-india-3237555/"
-    ampWebUrl: "https://www.financialexpress.com/business/industry-jio-tata-group-enter-pacts-with-nvidia-to-develop-advance-artificial-intelligence-applications-in-india-3237555/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/industry-jio-tata-group-enter-pacts-with-nvidia-to-develop-advance-artificial-intelligence-applications-in-india-3237555/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 42
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/art.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Nvidia bets on India with Tata Group, Reliance Industries AI partnerships"
-    excerpt: "According to Nvidia CEO Jensen Huang, India 'possesses [the] size, data, and skill' necessary to be a leader in AI."
-    publishedDateTime: 2023-09-11T16:26:00Z
-    webUrl: "https://www.rcrwireless.com/20230911/ai-ml/nvidia-bets-on-india-with-tata-group-reliance-industries-ai-partnerships"
-    type: article
-    provider:
-      name: RCR Wireless News
-      domain: rcrwireless.com
-    quality: 38
-    images:
-      - url: "https://www.rcrwireless.com/wp-content/uploads/2023/09/138346920_m_normal_none-scaled.jpg"
-        width: 2560
-        height: 1536
+      - url: "https://img.digitimes.com/newsshow/20230911vl201_files/4_2b.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Jio, Nvidia partner to build AI Cloud infrastructure in India"
     excerpt: "Jio Platforms and Nvidia have partnered to build a cloud-based AI infrastructure in India. The collaboration aims to accelerate AI development efforts"
@@ -112,15 +64,15 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 19
-  - title: "US chipmaker Nvidia, Reliance to develop a large AI language model for India"
-    excerpt: "Nvidia will provide computing power for the project, while Reliance will develop AI apps, including a local language app for farmers to access weather info and crop prices."
-    publishedDateTime: 2023-09-08T05:07:00Z
-    webUrl: "https://theprint.in/tech/nvidia-reliance-to-develop-a-large-ai-language-model-for-india/1752293/"
+  - title: "Tata Partners With NVIDIA to Build Large-Scale AI Infrastructure"
+    excerpt: "TCS will utilize the AI infrastructure and capabilities to build and process generative AI applications. The NVIDIA partnership will further enable TCS in collaborating with its customers to drive reimagination with an AI-first approach. Additionally, TCS will upskill its 600,000-strong workforce leveraging the partnership."
+    publishedDateTime: 2023-09-08T16:40:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/09/08/9877690.htm"
     type: article
     provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 16
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "y++L42nT87wcoPt1MN8RRBnG7Hy3RsN2Qo50Ggx7qOf0NLvvPcBLAPwALu//BXyIiclmpd/0bRuVdeFvVe3MI2pILkvNPd8g/0/G0led4amW6e52Xx4PH+oEPKTWfmJ9BzjnUuM5r9fNeJOgJrKXrknLo4SdzrnYVANDfBR4fbaCXzDE4/QFxPe1hiHshkcFhKJ6hUs3GeiRm6xiWeawana0hJeqNVN6eW2/uCdTEPMou2YMcx2roVp9aVQYf2D8wLOtlY4cr8sNwsBYF+2Yin99+jB5qECZCcvFkw9x7u7iHRt608UW/5f712/BagNVA9sd3i/Lgq72qV7+ZiVossoV/wOEKkWEYNlM0qsbV1KtyK8rYpfM39FRtV79ifhdeUw4WUeFetFUvT8NBSYDzdtN7f+zXge8kngE5BUhZYP0ICcArvq3Bbc14ZJh194AaYYutFMpq4kslAcBh6dHo0QV7RXlMgUhBF1Q62r/q1Y9TWmX35cN7h1SRUcG4qWP6bdJfbrKXR+rmZt/zG2HIA==;hweNSpjHkRcEHd37mgjKUQ=="
 ---

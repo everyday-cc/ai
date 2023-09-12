@@ -55,20 +55,6 @@ related:
         width: 770
         height: 510
         isCached: true
-  - title: "Tencent unveils large language model"
-    excerpt: "Tencent Holdings, a leading homegrown technology company, debuted its much-awaited universal large language model Hunyuan on Thursday, as Chinese enterprises strive to gain a foothold in the global artificial intelligence race."
-    publishedDateTime: 2023-09-08T01:23:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202309/08/WS64fa6d78a310d2dce4bb49b6.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 24
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202309/08/64fa6d78a310d2dc6d277476.jpeg"
-        width: 689
-        height: 459
-        isCached: true
 
 secured: "qOtGgkhZYqjgeY6E2MILMcW8FY0LnO2eoXWf2V7U5zpZXfoxaJmrj6o6SAcFC77ZoxBX20NcFGeMsv/1ql6jwyyttMyJvtb/2+Ihf4ZBQMTXi4xiM3j0IYUTLBRu4TcRlDGnCANQfGBkb4HjsXR5KrAfeX6oEWn4MxYv54VwZ8DXK6uEMD0mrvl3uMwP/cSXVkPLyrTTd2cd+Y3N4q7/HCJlHiDIEu5FxP5K/62QBYqPZ3cUXVytfBxBNq17+Q2cOJLwA+tg1yDWap78ZtaWnlqNADrOvXSlE28uIx/YsxFMk5/ywg0n1zy+gaO6gTzPchdwKc4ftao95cErVJaMBOjFqZI+tLe4TWvzzm1oQQw=;pi5PtX6a+WKBrDwu83W24g=="
 ---

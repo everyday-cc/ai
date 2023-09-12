@@ -25,6 +25,17 @@ images:
     height: 767
     isCached: true
 
-secured: "gwtUOIR0WE8vfuy6oFUaqNVjGFFK4POZdMEpb4VN+DDAkbUWUgetfwYzVzEaLa6UlGAs1tEwaUrZ5PHXbhJDG9CGP4kKTdXN6mdgKUwnbfgKm9KmuaR3h9rH72yfUcGWwlzNcEwLXRRB9UNT5s4VAfM54SUTBZCisxwxZ4z0QP9fhiyWqdeoSlC9XCa77t8tGT/0086k2/qNLrOoN6tT3YGZWwX58lEwfOOULwX74e7QW6iGBxgjbArgIXIJN7r1le7z8Xs5znd9Z+9DfDIw60auhUwS40BV7W/0GLJdkPPwV0DtCaaG1gNG3HoIXwdztOglSv69gs98yDuSOS/Xm2mwb/FhSccuYOtk+KWNxLk=;InWotuqCkGs0mCZgGigc4Q=="
+related:
+  - title: "SQream reels in $45M for its speedy GPU-powered database"
+    excerpt: "SQreamDB provides integrations with Tableau and several other popular BI products. “As generative AI shines a light on the importance of leveraging AI and ML within enterprises, as well as the value of GPUs as part of the analytics process, we have seen ..."
+    publishedDateTime: 2023-09-12T19:25:00Z
+    webUrl: "https://siliconangle.com/2023/09/12/sqream-reels-45m-speedy-gpu-powered-database/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
+
+secured: "YBEgrECpZ1xiDq76mBmwzQAnZtbkahVl3+vHi5tq8EGjK4+0pTWbB0GrdXMC8LxLo+X+g91ViNoJnPVJs8Xu8dNodKnOatVavdFOufP/56N/Sb93Uq5jk1fTjSCk4O6zTX5oClmyyyTYcrDLGQs2bHfbb+5x7VOTANJcqqTlGP3mCn5QgIOwx8/ffhoonOvGm4xcn+sR06bd9IU9egFrrArJ2mfONjmDQF10rU+DYXNKXSWGrE7k1mWFLCxc9tEv3fLi85gskkxlxgFuXku51ZvJrfFnz/19NjnfGLnk1Q11WVX46d0BJDkVwjt8XYMyvGhD/YYb8qa5Nqn+flKSW95ECmFF07fblfwNeeRHsC/EujswU3iZvuO8pxWSjyh+f6b9FuDjngQrHc97KjeqeXAwNKCRFeEK+Blv3gWKvZhlQ4ID6JvR1XfFYN3NiAzCvwdsZ1uTqwMmHqfibJssGXLt3sGbMdP7X4Ix1SK4nvWISckdahltaZjIbHRFOl9C7QThBlYJlB+jM+q+oDZE2A==;JBsXrHZMUg8UgTK2g6z7Cw=="
 ---
 

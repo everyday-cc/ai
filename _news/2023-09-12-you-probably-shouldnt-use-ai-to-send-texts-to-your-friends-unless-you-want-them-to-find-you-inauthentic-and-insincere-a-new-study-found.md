@@ -8,8 +8,8 @@ webUrl: "https://www.businessinsider.com/ai-text-friends-dont-use-study-finds-20
 ampWebUrl: "https://www.businessinsider.com/ai-text-friends-dont-use-study-finds-2023-9?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-text-friends-dont-use-study-finds-2023-9?amp"
 type: article
-quality: 52
-heat: 52
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://i.insider.com/65004f764717fd0019fc9816?width=1200&format=jpeg"

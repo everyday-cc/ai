@@ -181,6 +181,20 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "UGOT modular AI robot kit with support for ChatGPT, Python and more"
+    excerpt: "face recognition, and text and object recognition. If the UGOT campaign successfully raises its required pledge goal and production progresses smoothly, worldwide shipping is expected to take place sometime around December 2023. To learn more about the ..."
+    publishedDateTime: 2023-09-12T13:38:00Z
+    webUrl: "https://www.geeky-gadgets.com/modular-ai-robot-kit/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 56
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/modular-AI-robot-kit.jpg"
+        width: 700
+        height: 473
+        isCached: true
   - title: "A boy saw 17 doctors over 3 years for chronic pain. ChatGPT found the right diagnosis"
     excerpt: "Alex experienced pain that stopped him from playing with other children but doctors had no answers to why. His frustrated mom asked ChatGPT for help."
     publishedDateTime: 2023-09-11T14:42:00Z
@@ -341,6 +355,15 @@ related:
       name: Southeast Missourian
       domain: semissourian.com
     quality: 19
+  - title: "Doctors see potential in ChatGPT diagnoses, but questions still remain"
+    excerpt: "With the rise of generative AI, people who once turned to “Dr. Google” to check on medical symptoms are now turning to chatbots. Researchers are urging caution."
+    publishedDateTime: 2023-09-12T13:28:00Z
+    webUrl: "https://www.modernhealthcare.com/digital-health/chatgpt-generative-ai-diagnoses-google-emory-university-mayo-clinic"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 19
   - title: "Tackling Loneliness With ChatGPT and Robots"
     excerpt: "Doctors Qi and Wu presented to Neurology Live a survey of the benefits of AI in their June paper, “ChatGPT: A Promising Tool to Combat Social Isolation and Loneliness in Older Adults With Mild Cognitive Impairment."
     publishedDateTime: 2023-09-12T12:39:00Z
@@ -360,6 +383,6 @@ related:
       domain: oregonlive.com
     quality: 13
 
-secured: "W7l3xxxmgAScZqDluC0rV4pkD1gpTL1nxVFrmW1toBD3B8GXXsoh5h/PQCJyG8X93g3GrduJmvPDNluv12tbCUtDC/FyPccPP/yX4aRMBTj5kBkE5suVhkJIBC5OpUuAiiJx+snsDZzjqGFkrlY2TfPtuNhnSfPG+BVoto2sqWytTr/AUs09yQNUkyaWh+bG0ZvR72OsK9pFVVZP0zWu4AKuDmxCT7XAwLBR1ulo8Xv3Tszn4GCo2OeBUQ/fMSblc1LIz6/Ow9FkEnK0k9ywcgwyFfGbnTsDIzi0ICmdD5PG3eq5dsn1Liktq1pkXKr7wI9ggd5fdWdZrcmZKzy/bFwcgBpRFBpBqXKMwZurims=;WRJtoR3wqdt6uUQiYBr1IQ=="
+secured: "gofN0/XorwTsuhOM7Cb459Sl+1WYUdP+RMrPBaoId0zyWfGEXi4YOdh9NIvz+sgdW4eC6oLKp5VsHcBgZVHUyjAb/zXu61fv0NmudWt6vNE73e0UddMQwVFBaLDUhnaRw/iERcGzzG6wdipgB+IVEB0elymH/FR7XfKwbplYx1xPbtZKnO3sBwPVnpEO488W808/OYKkkyTOu/jbR5+M792BoEZVtaCTJd4/nl/31XHV8WPgZqVVknqCQmKEuNZ9m3hmyF7mRY1ApfWYEIkpaVl+XMR1j6BVoX5AoepO32cLFQ0ZAAd7kRw7wpsJej8PjCN4wPFHcvfvaM5C3/tYlN3EvzXoy6giabFCRYOulH9YZbgVBOtIRXHUNlr7fQ9tQnaJ5gQe92oX41oj4Zq4sJVL8mafvai62FCGbp0JvmRW0CTMnQ+Wy7W5pVvfzOFVp1ILv4oKqFXSzHwG75Y3xhJFZCSpdEgNHg+QGj73fXs+1mq6Qz2KMZRY6LFH/mxDf9hRP0/zUEG19k4rXNh3Vw==;05HOHjYUUa6y3f/ekDedag=="
 ---
 
