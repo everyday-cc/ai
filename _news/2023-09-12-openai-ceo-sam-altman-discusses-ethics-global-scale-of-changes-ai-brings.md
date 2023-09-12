@@ -118,20 +118,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "A|I: The AI Times – Cohere reportedly hunting for fresh funding as OpenAI passes $1B revenue pace"
-    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
-    publishedDateTime: 2023-09-07T09:00:00Z
-    webUrl: "https://betakit.com/ai-the-ai-times-cohere-reportedly-hunting-for-fresh-funding-as-openai-passes-1b-revenue-pace/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 26
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2023/06/Cohere.jpg"
-        width: 1050
-        height: 700
-        isCached: true
   - title: "Soon UAE Will Dethrone OpenAI"
     excerpt: "UAE’s Technological Innovation Institute (TII) yesterday released Falcon 180B, a highly scaled-up version of Falcon 40B."
     publishedDateTime: 2023-09-07T12:20:00Z

@@ -46,22 +46,6 @@ related:
         width: 1400
         height: 1050
         isCached: true
-  - title: "AI-powered market intelligence firm AMPLYFI closes funding round to ‘democratise intelligence’"
-    excerpt: "AMPLYFI, has closed a significant funding round to unlock knowledge capital through a powerful combination of machine learning and generative AI."
-    publishedDateTime: 2023-09-07T07:40:00Z
-    webUrl: "https://enterprisetalk.com/news/ai-powered-market-intelligence-firm-amplyfi-closes-funding-round-to-democratise-intelligence/"
-    ampWebUrl: "https://enterprisetalk.com/news/ai-powered-market-intelligence-firm-amplyfi-closes-funding-round-to-democratise-intelligence/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/ai-powered-market-intelligence-firm-amplyfi-closes-funding-round-to-democratise-intelligence/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 47
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/09/AI-powered-market-intelligence-firm-AMPLYFI-closes.jpg"
-        width: 1500
-        height: 844
-        isCached: true
   - title: "Rage against the machine? Why AI may not mean the death of film"
     excerpt: "Technology is Hollywood’s current arch nemesis, but as exhibitors on Venice film festival’s ‘immersive island’ will tell you, AI, VR and XR could lead to a brighter future"
     publishedDateTime: 2023-09-08T14:23:00Z

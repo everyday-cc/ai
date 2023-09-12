@@ -7,8 +7,8 @@ originalUrl: "https://www.scmp.com/tech/big-tech/article/3233809/microsoft-says-
 webUrl: "https://www.scmp.com/tech/big-tech/article/3233809/microsoft-says-it-will-defend-customers-its-ai-copilots-copyright-lawsuits"
 type: article
 quality: 78
-heat: -1
-published: false
+heat: 128
+published: true
 
 provider:
   name: scmp.com
@@ -29,52 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI chip startup d-Matrix raises $110 mln with backing from Microsoft"
-    excerpt: "Microsoft: Nvidia's dominant position in the AI chip market due to a powerful combination of hardware and software has scared off potential investors in some startups, according to sources Reuters interviewed."
-    publishedDateTime: 2023-09-07T07:10:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231"
-    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231"
-    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231"
-    type: article
-    provider:
-      name: brandequity.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 91
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-103460231,imgsize-1539213,width-1200,height=765,overlay-etbrandequity/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft.jpg"
-        width: 1200
-        height: 765
-        isCached: true
-  - title: "Even AI Hasn't Helped Microsoft's Bing Chip Away at Google's … – The Wall Street Journal"
-    excerpt: "Even AI Hasn't Helped Microsoft's Bing Chip Away at Google's ... The Wall Street Journalsource"
-    publishedDateTime: 2023-09-11T05:52:00Z
-    webUrl: "https://www.inferse.com/712085/even-ai-hasnt-helped-microsofts-bing-chip-away-at-googles-the-wall-street-journal/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 62
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/09/wp-header-logo-3335.png"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "World's Largest Image-Based AI Model For Identifying Cancer: Microsoft Teams Up With Paige To Build One"
-    excerpt: "Microsoft Corp MSFT +0.27% + Free Alerts has announced a collaboration with digital pathology provider Paige to develop the world's largest image-based artificial intelligence model for cancer detection."
-    publishedDateTime: 2023-09-07T17:21:00Z
-    webUrl: "https://www.benzinga.com/news/large-cap/23/09/34325288/worlds-largest-image-based-ai-model-for-identifying-cancer-microsoft-teams-up-with-paige-to-build-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34325288"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34325288"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 58
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/09/07/msft.png?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Beijing Denies Microsoft’s Claims China is Using AI to Target US Voters"
     excerpt: "Microsoft researchers claim to have discovered a network of fraudulent, China-controlled social media accounts attempting to influence US voters through artificial intelligence. A Chinese embassy official in Washington,"
     publishedDateTime: 2023-09-07T23:54:00Z
@@ -105,38 +59,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Suspected Chinese operatives using AI generated images to spread disinformation among US voters, Microsoft says"
-    excerpt: "Suspected Chinese operatives have used images made by artificial intelligence to mimic American voters online in an attempt to spread disinformation and provoke discussion on divisive political issues as the 2024 US election approaches,"
-    publishedDateTime: 2023-09-07T14:08:00Z
-    webUrl: "https://abc17news.com/politics/national-politics/cnn-us-politics/2023/09/07/suspected-chinese-operatives-using-ai-generated-images-to-spread-disinformation-among-us-voters-microsoft-says/"
-    type: article
-    provider:
-      name: ABC 17 News
-      domain: abc17news.com
-    quality: 36
-    images:
-      - url: "https://abc17news.b-cdn.net/abc17news.com/2023/09/web-9.7-375x225.jpg"
-        width: 375
-        height: 225
-        isCached: true
-  - title: "Chinese social media accounts swaying US voters using AI: Microsoft"
-    excerpt: "In a new research report, Microsoft said the social media accounts were part of a suspected Chinese information operation, according to Reuters."
-    publishedDateTime: 2023-09-07T18:45:00Z
-    webUrl: "https://www.cnbctv18.com/world/chinese-social-media-accounts-swaying-us-voters-using-ai-microsoft-17746271.htm"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 36
-  - title: "LSEG and Microsoft launch 10-year strategic partnership for next … – Microsoft"
-    excerpt: "Strategic partnership highlightsFinancial effects for LSEGEditor’s note – Dec. 13, 2022 – The name of Microsoft Purview was corrected.LONDON — Dec. 12, 2022 —"
-    publishedDateTime: 2023-09-09T16:56:00Z
-    webUrl: "https://www.inferse.com/708920/lseg-and-microsoft-launch-10-year-strategic-partnership-for-next-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 15
   - title: "Paige Announces Collaboration with Microsoft to Build the World's Largest Image-Based AI Model to Fight Cancer"
     excerpt: "Paige, a technology disruptor in healthcare, has joined forces with Microsoft in the fight against cancer, making headway in their collaboration to transform cancer diagnosis and patient care by building the world's largest image-based artificial intelligence (AI) models for digital pathology and oncology."
     publishedDateTime: 2023-09-07T15:26:00Z
@@ -146,6 +68,24 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 14
+  - title: "Microsoft announced its first customer product features powered by … – Microsoft"
+    excerpt: "At its Build developers conference, Microsoft unveiled its first features in a customer product powered by GPT-3, the powerful natural language model developed by OpenAI, which will help users build apps without needing to know how to write computer code or formulas."
+    publishedDateTime: 2023-09-09T11:02:00Z
+    webUrl: "https://www.inferse.com/708328/microsoft-announced-its-first-customer-product-features-powered-by-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 14
+  - title: "New Copilot capabilities help Microsoft’s own customer service engineers deliver faster, smarter results"
+    excerpt: "The insights gained from having thousands of Microsoft’s own customer support engineers test Copilot capabilities in their own workflows has helped fine tune the product and make it more useful for everyone, said Geoff Maxwell, general manager for Microsoft’s Customer and Digital Experience."
+    publishedDateTime: 2023-09-07T14:58:00Z
+    webUrl: "https://news.microsoft.com/source/features/ai/copilot-dynamics-365-customer-service/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 2
 
 secured: "a42+r5CLmp3N9iweb6sS5y9B9eJTQU5fEFu/dRsFWyGxVz6tqs1PCK3FdQiTH7TTMs1VFzIkG4a084qckEWNwlmu2dA23B26szDnKaK2ZOJallVKLvn907Ub12pXNSVPhPplLNRjgVCM54OxNiJsUdBCzzZ4obL4JVRhoOiL4+Y9JKtQ10u33PtvM4WMzkInarwkBZdYLMyxGnhzeLeH90/x5+f+w5ckdOR6tWdQRyn1d1X9guMZkqvuq4r8WjcnTOVUHsW4ZkcMaBW5P1apHOo4e2BNxGwTJ0KsVjckIlulyceo0iD9p1M+FS3QPmlbOldn+NQcd+iulZqzS0PGPyRbbM7upAVTXO0cRkDAm9knpNiTDXPkhd8EEaZri9zffZGdJBwXOKCR/6CpYiTb4axKGgH0Zm5Cc/guaT4ykiTrsZGr0M3bTAaZjW6uEHrK3XHeLHSAIHKxHLVaRotiUVdv+w5WGMJwi7lwLEw6j0hxwNVVK1nOOr7EkyntmOvT3MDazD9JwWwnsPDesiOhsw==;3TD3hPRb+86UJ8NKLev3Iw=="
 ---

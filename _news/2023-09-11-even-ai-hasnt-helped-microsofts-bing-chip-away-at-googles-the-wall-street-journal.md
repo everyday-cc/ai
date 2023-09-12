@@ -7,8 +7,8 @@ originalUrl: "https://www.inferse.com/712085/even-ai-hasnt-helped-microsofts-bin
 webUrl: "https://www.inferse.com/712085/even-ai-hasnt-helped-microsofts-bing-chip-away-at-googles-the-wall-street-journal/"
 type: article
 quality: 62
-heat: -1
-published: false
+heat: 102
+published: true
 
 provider:
   name: Inferse
@@ -26,79 +26,17 @@ images:
     isCached: true
 
 related:
-  - title: "AI chip startup d-Matrix raises $110 mln with backing from Microsoft"
-    excerpt: "Microsoft: Nvidia's dominant position in the AI chip market due to a powerful combination of hardware and software has scared off potential investors in some startups, according to sources Reuters interviewed."
-    publishedDateTime: 2023-09-07T07:10:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231"
-    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231"
-    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231"
+  - title: "Apparently, Microsoft and Azure have made an enemy of the Dutch farming community"
+    excerpt: "Skies aren't always blue for Azure. An interesting report from Wired recently detailed the latest community Microsoft seems to have upset, and it's somewhat unexpected."
+    publishedDateTime: 2023-09-08T19:36:00Z
+    webUrl: "https://www.windowscentral.com/microsoft/apparently-microsoft-and-azure-have-made-an-enemy-of-the-dutch-farming-community"
     type: article
     provider:
-      name: brandequity.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 91
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 49
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-103460231,imgsize-1539213,width-1200,height=765,overlay-etbrandequity/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft.jpg"
-        width: 1200
-        height: 765
-        isCached: true
-  - title: "Microsoft says it will defend customers of its AI Copilots from copyright lawsuits"
-    excerpt: "The tech giant is integrating many of its biggest products with generative AI, which scoops up existing content to create new material, potentially putting customers in legal jeopardy."
-    publishedDateTime: 2023-09-08T02:43:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3233809/microsoft-says-it-will-defend-customers-its-ai-copilots-copyright-lawsuits"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 78
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/09/08/10c71d6a-cc47-4b03-9730-1a8be73eed4c_9b7595cc.jpg?itok=6bBTINm9&v=1694140957"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "World's Largest Image-Based AI Model For Identifying Cancer: Microsoft Teams Up With Paige To Build One"
-    excerpt: "Microsoft Corp MSFT +0.27% + Free Alerts has announced a collaboration with digital pathology provider Paige to develop the world's largest image-based artificial intelligence model for cancer detection."
-    publishedDateTime: 2023-09-07T17:21:00Z
-    webUrl: "https://www.benzinga.com/news/large-cap/23/09/34325288/worlds-largest-image-based-ai-model-for-identifying-cancer-microsoft-teams-up-with-paige-to-build-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34325288"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34325288"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 58
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/09/07/msft.png?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Beijing Denies Microsoft’s Claims China is Using AI to Target US Voters"
-    excerpt: "Microsoft researchers claim to have discovered a network of fraudulent, China-controlled social media accounts attempting to influence US voters through artificial intelligence. A Chinese embassy official in Washington,"
-    publishedDateTime: 2023-09-07T23:54:00Z
-    webUrl: "https://www.chiangraitimes.com/tech/beijing-denies-microsofts-claims-china-is-using-ai-to-target-us-voters/"
-    type: article
-    provider:
-      name: Chiangrai Times
-      domain: chiangraitimes.com
-    quality: 56
-    images:
-      - url: "https://www.chiangraitimes.com/wp-content/uploads/2023/09/Beijing-Denies-Microsofts-Claims-China-is-Using-AI-to-Target-US-Voters-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Microsoft’s AI WARNING against China! Fake social media accounts trying to influence US voters, says tech giant"
-    excerpt: "Microsoft uncovers Chinese-controlled AI-driven fake social media network Influencing US voters, raising election concerns."
-    publishedDateTime: 2023-09-08T09:39:00Z
-    webUrl: "https://www.financialexpress.com/life/technology/microsofts-ai-warning-against-china-fake-social-media-accounts-trying-to-influence-us-voters-says-tech-giant-bkg/3237074/"
-    ampWebUrl: "https://www.financialexpress.com/life/technology/microsofts-ai-warning-against-china-fake-social-media-accounts-trying-to-influence-us-voters-says-tech-giant-bkg/3237074/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology/microsofts-ai-warning-against-china-fake-social-media-accounts-trying-to-influence-us-voters-says-tech-giant-bkg/3237074/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 56
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/US-China.jpg"
+      - url: "https://cdn.mos.cms.futurecdn.net/pWRjPDRfzbKR5LodtPeLx5-1200-80.jpg"
         width: 1200
         height: 675
         isCached: true
@@ -134,15 +72,6 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 15
-  - title: "Paige Announces Collaboration with Microsoft to Build the World's Largest Image-Based AI Model to Fight Cancer"
-    excerpt: "Paige, a technology disruptor in healthcare, has joined forces with Microsoft in the fight against cancer, making headway in their collaboration to transform cancer diagnosis and patient care by building the world's largest image-based artificial intelligence (AI) models for digital pathology and oncology."
-    publishedDateTime: 2023-09-07T15:26:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-paige-announces-collaboration-with-microsoft-build-worlds-largest-/2023/09/07/9877029.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 14
 
 secured: "WS3vDw1oEUhUGagaeJzdhgEgu0mLhtebubv2k6eu4vTh2ojqJj9U0wF90EJ/xjpk+OWFYRWCd91Y/41LIKzSNmYEtAKSIJ2bDbrzWreToAs2U/FO+Ife5uRryrDRRorwDg9ekRKhfjJ+8Gu0cJLfur75KJsenVuZhH2CeAr4rx172iQzjMIrM4GzU7HxBcL+JMbL7Lt/puJxc3+7ps/PvQcKsirfsSlpvYP8LXPz4cwl7szUcZcKYOn24pga52HQdqE/JGSzjxBg2LgLRYATiDesWbriLDjJQwKQizeNFdVZZV0wpcvJCAwfQXkQZpi+17ChY8T6qHR06t2N7YNmH9BIYaU0R10Lovk059ORT1vaRsXOs1n42f/rCfmEN36Nv/rRjAtNbKNHIpogU48P93pgcfynsQ4noO9m4wof+QYGgv3x/tzVp+MABu3988lU24pdcwF134cN327zHfyBniLGsTyod7BMoR3K5SUBFlpXjvDMync22uVkzP2pcugVzJMshbgcdOvmYl5sRee8gQ==;Wx4Li1Gfc3LGBLJIQpLsdA=="
 ---

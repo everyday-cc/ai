@@ -7,8 +7,8 @@ originalUrl: "https://www.fool.com/investing/2023/09/07/googles-content-moderati
 webUrl: "https://www.fool.com/investing/2023/09/07/googles-content-moderation-tech-may-need-human-ai/"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Motley Fool
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 1192
     isCached: true
-
-related:
-  - title: "Why you need a consistent AI implementation strategy"
-    excerpt: "Businesses must avoid a common misstep when it comes to artificial intelligence: focusing on strategy, not AI implementation."
-    publishedDateTime: 2023-09-07T08:24:00Z
-    webUrl: "https://techcentral.co.za/ai-implementation-strategy-fnb-fnbprom/231189/"
-    type: article
-    provider:
-      name: TechCentral
-      domain: techcentral.co.za
-    quality: 39
-    images:
-      - url: "https://techcentral.co.za/wp-content/uploads/2023/04/mark-nasila-1500-800.jpg"
-        width: 1500
-        height: 800
-        isCached: true
 
 secured: "YgU3Pjw1etagKkLb0aZIzXrIzay76QiQEJPqIEtnTYOdCBWvoIdxI8yzIZK171n2gCFfSCKJIwZT+KF+/RypDtX9ntLnsYV1aMilrak2S4zaTauSJajW35xhoHJagOPz9hL659dnAGmXV6R9xkx6taYZGmI1nOYjsXvhZRrJfjbWaPqO6v0SiHfhmAdYNX/akcAbA+otwOcwAg/LEP9/8yOycvhGkcViamPyIY0Rni7jdFMcxX93nO+16lAqDGqDtrS9zn4DGtZrDaGaL+aZHzhEv8TY9W9vkz40bhLIdV3fm+X7R9vjA331bdZ/1CygTPPFKG1XXKnDybO/kp8yfaxFIH76zJbB9Jjj73mqjy8=;lBmRlp2lxLll+axvR7qffA=="
 ---

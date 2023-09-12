@@ -263,9 +263,9 @@ related:
         height: 701
         isCached: true
   - title: "A boy saw 17 doctors over 3 years for chronic pain. ChatGPT found the diagnosis"
-    excerpt: "Soon after, her son, Alex, then 4, began experiencing pain. “(Our nanny) started telling me, ‘I have to give him Motrin every day, or he has these gigantic meltdowns,’” Courtney, who asked not to use her last name to protect her family’s privacy,"
-    publishedDateTime: 2023-09-11T23:43:00Z
-    webUrl: "https://www.aol.com/news/boy-saw-17-doctors-over-204224516.html"
+    excerpt: "But before starting physical therapy, Alex had already been experiencing severe ... excitement for his future.\" ChatGPT is a type of artificial intelligence program that responds based on input that a person enters into it, but it can't have a conversation ..."
+    publishedDateTime: 2023-09-11T21:21:00Z
+    webUrl: "https://www.aol.com/boy-saw-17-doctors-over-204224516.html"
     type: article
     provider:
       name: AOL

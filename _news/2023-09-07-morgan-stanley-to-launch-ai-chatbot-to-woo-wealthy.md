@@ -38,20 +38,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Focus: Morgan Stanley to launch AI chatbot to woo wealthy"
-    excerpt: "Wealthy clients going to a Morgan Stanley banker to discuss their investments may soon have a different sort of experience: having a chatbot listen to their conversation."
-    publishedDateTime: 2023-09-07T09:09:00Z
-    webUrl: "https://www.reuters.com/technology/morgan-stanley-launch-ai-chatbot-woo-wealthy-2023-09-07/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/hPSaTdJloz96JSAnU_-5WtLtvO4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/26KSAZHUEFJF7G4AECYWU3UVAI.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla stocks rises more than 6% on 'AI mojo'"
     excerpt: "\"With a highly experienced semiconductor team, Tesla has built a custom AI ASIC chip, that, due to its core function of processing vision-based data for autonomous driving use cases, can operate more efficiently (energy consumption, latency) than the ..."
     publishedDateTime: 2023-09-11T14:25:00Z

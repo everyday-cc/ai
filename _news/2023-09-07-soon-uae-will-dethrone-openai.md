@@ -127,20 +127,6 @@ related:
       name: Searchenginejournal.com
       domain: searchenginejournal.com
     quality: 32
-  - title: "A|I: The AI Times – Cohere reportedly hunting for fresh funding as OpenAI passes $1B revenue pace"
-    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
-    publishedDateTime: 2023-09-07T09:00:00Z
-    webUrl: "https://betakit.com/ai-the-ai-times-cohere-reportedly-hunting-for-fresh-funding-as-openai-passes-1b-revenue-pace/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 26
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2023/06/Cohere.jpg"
-        width: 1050
-        height: 700
-        isCached: true
 
 secured: "hKxRiVhynw86ySZ67e+eVU57z9OcSkC3PMjOqLxdBGpiOGJ8+61xkgsVjxqmtKsm0bJLr9a61zWhn6jO1b9SsuE3axEufq1CRhUafPN7vl4ykQc3aHtDX5VlmeqLjIkdMQ19h92LhNZ/OtCM9DZfDYg91Oxy19vgbzUDBgYA6DqJfqdn98xJLMlVWg0hAjnTQNYOVkpA4Nbjrsk94K9eSE6B9kblvL2Qc+q7hyVGi1fgG1BpZhBnVabAWW+YaKxIE+MmqPMiKGD7pPKgFcmnl8RQKOZaSPh5bjbdQShKK1tXCDPySkGCLS0DlnyPBIN78kFYu7UqQv/xlQRBO5QvMUrmGP8kxuvq5MgISnx3caLJvZ64CmOcaKUEV+rbF5LSjVp1sa20/vnMonkpmOMBFgWNpTv45EMDFcXIB4JqbPE0s1q2EkH7M23boyMjBxsTWgJKdsAa6c3/X3dwLhnKXpAteujaaGDgbYzK6HlAyqpeN2RFBh96lBFi5Fl/INGZp0ncyaBOSccduKKQZOtCOw==;8WENVVT/y96uZtgpthQUog=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.datacenterdynamics.com/en/news/nvidia-claims-new-softw
 webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-claims-new-software-library-doubles-llm-inference-speed-on-h100-gpu/?n=@"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: Datacenter Dynamics
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "How NVIDIA’s TensorRT-LLM is making AI and LLMs more accessible"
+    excerpt: "NVIDIA's TensorRT-LLM streamlines the deployment of LLMs, enhancing their performance and accessibility for AI applications."
+    publishedDateTime: 2023-09-12T01:25:00Z
+    webUrl: "https://techwireasia.com/2023/09/can-tensorrt-llm-unlock-the-full-potential-of-llms-ai/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/09/11092023_NVIDIAs-solution-for-scalable-AI-and-LLMs-e1694420342925.png"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Nvidia Says New Software Will Double LLM Inference Speed On H100 GPU"
     excerpt: "Nvidia said it plans to release open-source software that will significantly speed up inference performance for large language models powered by its GPUs, including the H100."
     publishedDateTime: 2023-09-08T18:42:00Z

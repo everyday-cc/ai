@@ -54,22 +54,6 @@ related:
         width: 1000
         height: 666
         isCached: true
-  - title: "AI-powered market intelligence firm AMPLYFI closes funding round to ‘democratise intelligence’"
-    excerpt: "AMPLYFI, has closed a significant funding round to unlock knowledge capital through a powerful combination of machine learning and generative AI."
-    publishedDateTime: 2023-09-07T07:40:00Z
-    webUrl: "https://enterprisetalk.com/news/ai-powered-market-intelligence-firm-amplyfi-closes-funding-round-to-democratise-intelligence/"
-    ampWebUrl: "https://enterprisetalk.com/news/ai-powered-market-intelligence-firm-amplyfi-closes-funding-round-to-democratise-intelligence/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/ai-powered-market-intelligence-firm-amplyfi-closes-funding-round-to-democratise-intelligence/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 47
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/09/AI-powered-market-intelligence-firm-AMPLYFI-closes.jpg"
-        width: 1500
-        height: 844
-        isCached: true
 
 secured: "ijjrabx4PH71LjcdeOc49/7kK+J4hEhNtS/pA6QMkz0zEp/GmWZxslFzTsxgISlkMAfY014T/0j+fH+AfeTMbtzZ8Y6gn3IW3P2houo3LgdVuKwcKEFugEy1iZTONQ2mCpdbeOiM+dRfHSt5b8sk7z9PbdpaftWJ8/dwNwi4RzUUF/vxx1sUEHewYxKUady/qGjSwpLQbpBcnCfyClZbi4+wirZMFTX1Kz1j4VcK547cjeAE6h6IFvVsiiwZYyn3jSbFTq1Brv90gY/Q1Et/oQ3kRSernA/aHbkIUEuh4n2xBxLDr3nnlC/KJbrhvrZnyt4KbOGyTf9WEtAUvLfoRdG92O8fremWyFxIKOlX5wxIRt1JbMA2kaaa2xP0Vg5SPBPfEoxzs5iXo3X1B3jgg15dWHcGS2DzW/ro2OKlsbAULwicfveutrxEcZ22+CkDNIqy1GeU0U5WutvgsQO+6GPNfr5lnc2JXtZsuKhC1jQEc8pY5jy8hqa6ha4+70998nfg50NWv740NTgivVgFsg==;gvxJoQkOUOpFXyDuPe5UXg=="
 ---

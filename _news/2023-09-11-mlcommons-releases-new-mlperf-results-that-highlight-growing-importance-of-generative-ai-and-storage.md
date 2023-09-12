@@ -2,17 +2,17 @@
 category: news
 title: "MLCommons Releases New MLPerf Results that Highlight Growing Importance of Generative AI and Storage"
 excerpt: "Submitters include: ASUSTeK, Azure, cTuning, Connect Tech ... and optimizing storage for machine learning applications, as well as for designing next-generation systems and technologies. Training neural networks is both a compute and data-intensive ..."
-publishedDateTime: 2023-09-11T16:21:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/09/b34447445/mlcommons-releases-new-mlperf-results-that-highlight-growing-importance-of-generative-ai-and-stora"
-webUrl: "https://www.benzinga.com/pressreleases/23/09/b34447445/mlcommons-releases-new-mlperf-results-that-highlight-growing-importance-of-generative-ai-and-stora"
+publishedDateTime: 2023-09-11T16:29:00Z
+originalUrl: "https://www.businesswire.com/news/home/20230911417519/en/MLCommons-Releases-New-MLPerf-Results-that-Highlight-Growing-Importance-of-Generative-AI-and-Storage"
+webUrl: "https://www.businesswire.com/news/home/20230911417519/en/MLCommons-Releases-New-MLPerf-Results-that-Highlight-Growing-Importance-of-Generative-AI-and-Storage"
 type: article
 quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
@@ -189,6 +189,6 @@ related:
       domain: axios.com
     quality: 17
 
-secured: "PgALFsq4Yz1hd1cCiMyNG8XPA/42yQpYt/fiV2pnyS2EqyKwnk1Ypm3AMlARuKoiJ71MWcXJ2hhBaz9g3i9klwQL6ckR06wA9Yt9zHQN+6pLry8jinJnG29JwpEp3tt00uzXXlP+UCnKsmBXqZJ5Tsnd5EEd85gGH8nK3EZdgE2XZ4vc7jNhl183SjXLsGgBuShoKs/9O9aF+OlSmQ+9rBZXJpIZHqar5PG3QCb30qj4ei80I44HtxnRv7dmLPHS6w8yq8cfvafxH8rnH+0HipXgrjKDLjBy2+sziacuBBsj9cGXkl/V1rf+mCjs5gZgnSu90oNK4j0EskMYc3PY8GrhmKTTgTMmsqQ91eLnKiU=;nODWSmV38dwtEsMupp3KzQ=="
+secured: "D6iz46WDXfZL1fZQyY/f7Rwby+KkCwUuoc0sH+Z5HkMAby0zW6rGH+KAmUtFCV3xSYj/YN6/70xldFzKcadoJSTwr2pNZcSMquC/V8krPT0c8rP6u7LezlpT4UjfpYnVfCilxnLCzWocw/iW5x2/KWWgK49sQoXb/VFm0ohW2pRG/pDolFIxMWYLuHnYYz6ROuec5ehS0MCLmbz9ot97DXMy6mKRBySXzeLebTngw6AP8KlfZxlRR7TlRp41NirQ/LETbK0bTlMXiG6tVLVJTlAAJYp5rC+wp4I0LreIERaCgmC+K2FIXYznpj/gDSwT8a4+MSLsGV/8pU8QYd7FUmyGNT8AyiPKsISfTh6z0CM=;ep9QW6rvz7N2cX/jI4IGoA=="
 ---
 

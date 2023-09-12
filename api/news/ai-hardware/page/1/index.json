@@ -150,6 +150,93 @@
       ]
     },
     {
+      "path": "_news/2023-09-11-even-ai-hasnt-helped-microsofts-bing-chip-away-at-googles-the-wall-street-journal.md",
+      "title": "Even AI Hasn't Helped Microsoft's Bing Chip Away at Google's … – The Wall Street Journal",
+      "excerpt": "Even AI Hasn't Helped Microsoft's Bing Chip Away at Google's ... The Wall Street Journalsource",
+      "sourceUrl": null,
+      "webUrl": "https://www.inferse.com/712085/even-ai-hasnt-helped-microsofts-bing-chip-away-at-googles-the-wall-street-journal/",
+      "originalUrl": "https://www.inferse.com/712085/even-ai-hasnt-helped-microsofts-bing-chip-away-at-googles-the-wall-street-journal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.inferse.com/wp-content/uploads/2023/09/wp-header-logo-3335.png",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-10T22:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inferse",
+        "domain": "inferse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-11-nvidia-claims-new-software-library-doubles-llm-inference-speed-on-h100-gpu.md",
+      "title": "Nvidia claims new software library doubles LLM inference speed on H100 GPU",
+      "excerpt": "TensorRT-LLM will be integrated into Nvidia's NeMo LLM framework as part of the Nvidia AI Enterprise software suite early next ... batching' scheduler which allows work to enter and exit the GPU independent of other tasks. The library also offers automatic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.datacenterdynamics.com/en/news/nvidia-claims-new-software-library-doubles-llm-inference-speed-on-h100-gpu/?n=@",
+      "originalUrl": "https://www.datacenterdynamics.com/en/news/nvidia-claims-new-software-library-doubles-llm-inference-speed-on-h100-gpu/?n=@",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.datacenterdynamics.com/media/images/NvidiaLogo.2e16d0ba.fill-1200x630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-10T15:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datacenter Dynamics",
+        "domain": "datacenterdynamics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-10-2-ai-stocks-to-transform-your-portfolio.md",
       "title": "2 AI Stocks to Transform Your Portfolio",
       "excerpt": "Data from Grand View Research indicates a strong growth trajectory, with AI industry revenue expected to mushroom to $1.181 trillion by 2030, based on a CAGR of 37.3%. Additionally, Accenture's recent findings underscore the potential for enterprise applications,",
@@ -1314,112 +1401,6 @@
         "AI",
         "AI Hardware",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-cerebras-and-abu-dhabi-build-worlds-most-powerful-arabic-language-ai-model.md",
-      "title": "Cerebras and Abu Dhabi build world's most powerful Arabic-language AI model",
-      "excerpt": "The language disparity in AI has been observed and given considerable attention ... but even languages with prevalent translation material such as Greek and Icelandic. And so-called multi-modal programs such as the NLLB successor, SeamlessM4T from Meta ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/cerebras-and-abu-dhabi-build-worlds-most-powerful-arabic-language-ai-model/",
-      "originalUrl": "https://www.zdnet.com/article/cerebras-and-abu-dhabi-build-worlds-most-powerful-arabic-language-ai-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/482ef735b9e3d7e3f787fd6aae61832874a0a4e8/2023/08/31/b450a6fc-3314-4c7a-8815-89fcd8aed339/neural-net-as-calligraphy-3.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-01T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-intels-gaudi-2-beats-nvidias-h100-in-certain-ai-tasks.md",
-      "title": "Intel's Gaudi 2 Beats Nvidia's H100 in Certain AI Tasks",
-      "excerpt": "While Nvidia's latest data center GPU is the top dog among AI accelerators, Intel offers a viable alternative with its Gaudi 2 chip. Gaudi 2 can't match Nvidia's H100 in most cases, but it comes out way ahead in one type of AI workload.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/09/01/intels-gaudi-2-beats-nvidias-h100-in-certain-ai-ta/",
-      "originalUrl": "https://www.fool.com/investing/2023/09/01/intels-gaudi-2-beats-nvidias-h100-in-certain-ai-ta/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/746219/gettyimages-1452877140.jpg",
-          "width": 2000,
-          "height": 1500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-01T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

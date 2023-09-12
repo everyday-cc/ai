@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-11-ai-exploits-our-social-media-habits-to-supercharge-scam-attacks.md",
+      "title": "AI Exploits Our Social Media Habits To Supercharge Scam Attacks",
+      "excerpt": "Even new technologies aren't safe from AI-based attacks. Over the past three years, banks worldwide have introduced biometrics to enhance security. The two most common attributes were face profiles and voice samples.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/ai-exploits-our-social-media-habits-to-supercharge-scam-attacks/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/ai-exploits-our-social-media-habits-to-supercharge-scam-attacks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62630f412ad721ef13d25f23/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/ai-exploits-our-social-media-habits-to-supercharge-scam-attacks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/11/ai-exploits-our-social-media-habits-to-supercharge-scam-attacks/amp/",
+      "publishedDateTime": "2023-09-11T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2023-09-11-a-vision-of-ai-enhanced-test-automation.md",
       "title": "A Vision Of AI-Enhanced Test Automation",
       "excerpt": "To further increase testing precision, one could employ feature recognition bolstered by computer vision libraries that can categorize and identify UI elements within application screenshots. Convolutional neural networks (CNNs) step in, classifying ...",
@@ -1287,49 +1339,6 @@
         "AI",
         "Computer Vision",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-08-21-melatonin-and-its-derivatives-found-to-enhance-long-term-object-recognition-memory.md",
-      "title": "Melatonin and its derivatives found to enhance long-term object recognition memory",
-      "excerpt": "Multiple studies have demonstrated the memory-enhancing effects of melatonin and its derivatives in animal models. It is also known that the formation of both short- and long-term memories require the phosphorylation of certain memory-related proteins.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-08-melatonin-derivatives-long-term-recognition-memory.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-08-melatonin-derivatives-long-term-recognition-memory.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/melatonin-and-its-deri.jpg",
-          "width": 2880,
-          "height": 1620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-08-melatonin-derivatives-long-term-recognition-memory.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-melatonin-derivatives-long-term-recognition-memory.amp",
-      "publishedDateTime": "2023-08-21T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],
