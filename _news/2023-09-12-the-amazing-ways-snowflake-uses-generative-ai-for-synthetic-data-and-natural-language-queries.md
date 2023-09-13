@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/09/12/the-amazing-ways
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/09/12/the-amazing-ways-snowflake-uses-generative-ai-for-synthetic-data-and-natural-language-queries/amp/"
 type: article
 quality: 78
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -49,15 +49,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 14
-  - title: "Smartcat, the Essential Language AI Platform for the Global Enterprise, Launches Multilingual Generative AI Content Creator"
-    excerpt: "Smartcat, the essential language AI platform for the enterprise, today announced the release of its multilingual generative AI content creator, which allows each company to use its own proprietary content as the basis for new content development in all languages."
-    publishedDateTime: 2023-09-13T10:13:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/09/13/9879982.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "OQNNs2cIrbKemTYyGcr92U1yvg1iPQktHxBd7P9XrnHgmwwI+O4FmC67kKdb9rIvt9LYYzABfXCeweWoWu0l51uGUp2gDaemlRZh5kRyZFo1arQ5eOU0Z5Nz/As5mE9/VuOal5yAgB+GdoVpQT17uLqObzi+ua1THaSR13hd8fmR3KRFiWFw5eOPpEfmOkW5n02IJIGOgwUGEAKlTPQp9WDFlJ6TLl+uedHVc4Kv0+I4+hjrZZGSqMy88sUnAz56kgXcxIUhPHM18xx6ZuB3nCWmBvtfSX+sUyzX1ec8ROUVQrdDotoHhqv2hoGBAAkOnIoLSephWc/swVPmoKW8J5OKGVMIFC9OoOzlX/shT57by+3dqGal9J9Z2lzi5yC6Qv1WXmoiCjK2OFv7b+unFD9sjVEVp/Vhuu7qBBMW42hkR0ulWDlB61jet0EkAX4o+XyISoj3/S28uHZn4R/Qo9+jNQG6M/o2FZEu+QcavIV++jJqb0gQd2OxAwxVl21PXpyCj43yz53YaWH6/yKNDQ==;qmrUYPH4MKaVQQOHo6AQTA=="
 ---

@@ -60,6 +60,20 @@ related:
         width: 2000
         height: 1077
         isCached: true
+  - title: "The power of data and AI: Transforming industries through collaboration"
+    excerpt: "The world is in the midst of a data revolution, and the integration of AI into industries is at the forefront of this transformation. Understanding the data that is being used, its source, representation, structure and format is essential for making AI and generative AI more effective and impactful, according to Day."
+    publishedDateTime: 2023-09-13T21:11:00Z
+    webUrl: "https://siliconangle.com/2023/09/13/power-data-ai-transforming-industries-collaboration-exploresas/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Michael-Glaros-Gavin-Day-SAS-Explore-September-2023.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Qlik Announces Qlik Staige to Help Organizations Manage Risk, Embrace Complexity and Scale the Impact of AI"
     excerpt: "Build a trusted data foundation for AI – Qlik helps deliver governed and trusted data to organizations like Airbus and J.B. Hunt. Qlik’s data integration and quality solutions leverage AI to automate data delivery and transformation, reducing complexity, mitigating risk, and enabling data fabrics. Innovations include:"
     publishedDateTime: 2023-09-12T13:09:00Z

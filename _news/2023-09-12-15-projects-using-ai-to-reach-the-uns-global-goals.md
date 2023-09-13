@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/outreach-initiatives/google-org/httpsbloggoogleo
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-org/httpsbloggoogleoutreach-initiativesgoogle-orgunited-nations-global-goals-google-ai-/amp/"
 type: article
 quality: 109
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1300
     height: 733
     isCached: true
+
+related:
+  - title: "How scientists are using artificial intelligence"
+    excerpt: "In 2019, scientists at the Massachusetts Institute of Technology (MIT) did something unusual in modern medicine—they found a new antibiotic, halicin. In May this year another team found a second antibiotic,"
+    publishedDateTime: 2023-09-13T18:52:00Z
+    webUrl: "https://www.economist.com/science-and-technology/2023/09/13/how-scientists-are-using-artificial-intelligence"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 37
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230916_STD001.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "u6kPvSeRHuAPdc1mDtRhwyffxejkUwVP9swh0YYCROLUs6u55Ysyz5zzPul6WB3JC35saWrusCK43m+zvyvepNt74lBmfrqRE8m1BsXI7KVfL79/g6OVcvrhQQARdO5eTGHfur3x0zqhHIXGVxCTuBqJTIntTF2gwsOZQt01SSN0GmIJJRJubbPhcgwKZVl8pfwH25gq2wa/NLwQf4GOj8k64QvCHDaGdWjp3MorfWGwdGN4oIVDbLolUWd5PGAaDXpqg6+QZXFqjWDBd67QuTHa/WWW1jGJEWyzEdJnl7jVMubL5NzYCBAxH4BzWAoSjszG3GJplOZ+LV5VsHXqhWoM97Q8IGaeqh4UrJ+kK7s=;VnVYH2tUVGmTE1n5H2I/sw=="
 ---

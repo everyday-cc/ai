@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/09/11/ai-app-character-ai-is-catching-up
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/11/ai-app-character-ai-is-catching-up-to-chatgpt-in-the-u-s/amp/"
 type: article
 quality: 87
-heat: 317
+heat: 307
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/107298466-1694444089106-AP23248706930894.jpg?v=1694444318"
         width: 5959
         height: 3973
-        isCached: true
-  - title: "In U.S.-China AI contest, the race is on to deploy killer robots"
-    excerpt: "The Australian Navy is investing in two different submarine technologies to counter the rising power of China. One approach involves building expensive nuclear-powered submarines, while the other focuses on developing cheap and fast unmanned submarines powered by artificial intelligence (AI),"
-    publishedDateTime: 2023-09-09T03:41:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/defence/in-u-s-china-ai-contest-the-race-is-on-to-deploy-killer-robots/articleshow/103524729.cms"
-    ampWebUrl: "https://m.economictimes.com/news/defence/in-u-s-china-ai-contest-the-race-is-on-to-deploy-killer-robots/amp_articleshow/103524729.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/defence/in-u-s-china-ai-contest-the-race-is-on-to-deploy-killer-robots/amp_articleshow/103524729.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-171898,msid-103524768/to-match-special-report-us-china-tech/drones.jpg"
-        width: 600
-        height: 450
         isCached: true
   - title: "Senators Want ChatGPT-Level AI to Require a Government License"
     excerpt: "A new US government body would force companies to seek a license before working on powerful AI models like OpenAI's GPT-4, under a bipartisan proposal by senators Richard Blumenthal and Josh Hawley."

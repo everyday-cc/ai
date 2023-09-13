@@ -6,8 +6,8 @@ publishedDateTime: 2023-09-13T15:00:00Z
 originalUrl: "https://www.businesswire.com/news/home/20230913779273/en/Soniox-Speech-AI-Achieves-Extreme-Accuracy"
 webUrl: "https://www.businesswire.com/news/home/20230913779273/en/Soniox-Speech-AI-Achieves-Extreme-Accuracy"
 type: article
-quality: 19
-heat: 19
+quality: 21
+heat: 21
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Robotics
 
 related:
   - title: "Soniox Speech AI Achieves Extreme Accuracy"

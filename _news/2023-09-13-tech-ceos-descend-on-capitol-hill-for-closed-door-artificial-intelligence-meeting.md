@@ -9,7 +9,7 @@ ampWebUrl: "https://www.huffpost.com/entry/tech-ceos-descend-on-senate-for-close
 cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/tech-ceos-descend-on-senate-for-closed-door-ai-meeting_n_6501dad6e4b04bad69ec286e/amp"
 type: article
 quality: 82
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -30,39 +30,23 @@ images:
     isCached: true
 
 related:
-  - title: "Tech titans are giving senators advice on artificial intelligence in a closed-door forum"
-    excerpt: "Senate Majority Leader Chuck Schumer convened a meeting of some of the country’s most prominent technology executives to ask them how Congress should do it."
-    publishedDateTime: 2023-09-13T14:19:00Z
-    webUrl: "https://www.wyomingnewsnow.tv/2023/09/13/tech-titans-are-giving-senators-advice-artificial-intelligence-closed-door-forum/"
-    ampWebUrl: "https://www.wyomingnewsnow.tv/2023/09/13/tech-titans-are-giving-senators-advice-artificial-intelligence-closed-door-forum/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wyomingnewsnow-tv.cdn.ampproject.org/c/s/www.wyomingnewsnow.tv/2023/09/13/tech-titans-are-giving-senators-advice-artificial-intelligence-closed-door-forum/?outputType=amp"
+  - title: "Top tech leaders and experts convene in Washington for forum on AI safety"
+    excerpt: "Bill Gates, Mark Zuckerberg, Elon Musk, Sundar Pichai and others gathered for ‘one of the most important conversations of the year’"
+    publishedDateTime: 2023-09-13T19:08:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/sep/13/tech-leaders-washington-ai-saferty-forum-elon-musk-zuckerberg-pichai?ref=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/sep/13/tech-leaders-washington-ai-saferty-forum-elon-musk-zuckerberg-pichai"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/sep/13/tech-leaders-washington-ai-saferty-forum-elon-musk-zuckerberg-pichai"
     type: article
     provider:
-      name: wyomingnewsnow
-      domain: wyomingnewsnow.tv
-    quality: 50
+      name: The Guardian
+      domain: theguardian.com
+    quality: 56
     images:
-      - url: "https://gray-kgwn-prod.cdn.arcpublishing.com/resizer/7cdAMr1OmpsfuDwEed0A6oFedDA=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/OQJNV346WBEMLNMZZGUTTTLFH4.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Tech titans are giving senators advice on artificial intelligence in a closed-door forum"
-    excerpt: "Senate Majority Leader Chuck Schumer convened a meeting of some of the country’s most prominent technology executives to ask them how Congress should do it."
-    publishedDateTime: 2023-09-13T17:19:00Z
-    webUrl: "https://www.wflx.com/2023/09/13/tech-titans-are-giving-senators-advice-artificial-intelligence-closed-door-forum/"
-    ampWebUrl: "https://www.wflx.com/2023/09/13/tech-titans-are-giving-senators-advice-artificial-intelligence-closed-door-forum/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wflx-com.cdn.ampproject.org/c/s/www.wflx.com/2023/09/13/tech-titans-are-giving-senators-advice-artificial-intelligence-closed-door-forum/?outputType=amp"
-    type: article
-    provider:
-      name: WFLX
-      domain: wflx.com
-    quality: 50
-    images:
-      - url: "https://gray-wflx-prod.cdn.arcpublishing.com/resizer/V7xMg3q83eJoTUNI6uCzXXAPWfY=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/S7JYFW32USJAFEAILG6CJFMPCU.com"
-        width: 800
-        height: 450
+      - url: "https://i.guim.co.uk/img/media/744ecef2f0e77400e54ca14bbfd1f09e01a142e5/0_353_6052_3632/master/6052.jpg?width=620&quality=85&auto=format&fit=max&s=ac941ca885e7881395202455f3fc4c09"
+        width: 620
+        height: 372
         isCached: true
 
-secured: "gEDAB5VIn0MWs+XFgkXqSTtftZ27bUR703568oLrPc+nVBQNQynXuVEBrSGKH81klbIbUNFilF+E6kRbvJlTA2UCUMmAqPFwwOd/bKVbX4Y1S6UNgH65108FO/kIWXOMKM69Iw+SHZxMkXGuPrLprPSmfxXHpvaFucgnw4PFGPRU7S2AY4gN5KM9wgIqWJgfZYwPF5xfPeWvkoPF6/1q9ieI/sQlzPo0q5XhykfZG6iuoIwgS3WPOr6J/RRHBTVu+xNMJQ0h4gGZigAnoRC/VkWH575IRnQwOu+5ZQqeSyWZQCK0PHSprVGHAkPGakBodlBa2DpaIxN5bmptZDS25yqYXmjLBcGfbGQvoWScvcY=;KWJ6Z6QSwegrKiwEZaFJKA=="
+secured: "WdKK5chpZPtf8u2TRORRimUE0UZwlnuO+sxSDa3FNNcFD+xMRpjl3y7HE24nYTtzXIL7RsNprVvsaElTczgvbMlBH1p3unv3mVgU2pkSLcm/KJORetnFYVLStyAEiTuc1q5uWvMwLcbYPZMMa4uiNIbYxQChMfv3y+i4FnmWTCx3DykdFDdAKzSLnSwhrc3vCtabPaEKfgDamAN5FdoOpNSFESvc9W7sgorvL2+lDcut+Soti5jwov5tDyDoMpNALmLJYvFyix1pw07aqWzGb6b2J2eh7AUTmCP8xn1S2WEPhAGl0LH16xAcF3lB3slCueVXZV4aBVXPt8w0ls8sZkwRT4K1J9nIvbCjgrOTINHpwLwycIwTceV9OhGhIobDh4WKZCLq9Ne3bdMDHoXMaoHiykmGuBghRhQjXMSb/bjsjrVMC02UkXrMGaaxp/O9tDpD9DnKs4toIJuo0VI0ibuJJWrR5Z36lh01GraKvUsha+Z1wFtjqn4P3pB3eOenBb42ELXiv3txCXJRVOkP2w==;eyPgHsLNOQGqvAZ/z9ReoQ=="
 ---
 

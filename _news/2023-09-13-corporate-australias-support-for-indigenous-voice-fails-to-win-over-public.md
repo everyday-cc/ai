@@ -9,7 +9,7 @@ ampWebUrl: "https://www.aljazeera.com/amp/economy/2023/9/13/corporate-australia-
 cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2023/9/13/corporate-australia-backed-a-voice-on-indigenous-rights-it-now-faces-defeat"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/aee193e0499c6cb902265e7fb643e0fcdc323ff3/0_239_4080_2448/master/4080.jpg?width=620&quality=85&auto=format&fit=max&s=27953997f7720fc22d1f6a1a39685756"
         width: 620
         height: 372
+        isCached: true
+  - title: "Less 1:N facial recognition searches, data sharing proposed in Australia gov’t ID bills"
+    excerpt: "The Identity Verification Services Bill 2023 would block most of the planned government uses of one-to-many facial recognition."
+    publishedDateTime: 2023-09-13T20:09:00Z
+    webUrl: "https://www.biometricupdate.com/202309/less-1n-facial-recognition-searches-data-sharing-proposed-in-australia-govt-id-bills"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 31
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/07/10101537/face-biometric-close-up.jpg"
+        width: 1312
+        height: 1325
         isCached: true
 
 secured: "hflV162pyA49VfKoRcxjqpcI01pVyHm5vJTT+T3qvznzxeat3Kz5QABNywkqNt9wacQDDoLOCr5SS9XOMO4qRBvL3XZcRw08tssConhNQwo16TRA5wuTeOy7UvMbTf//dEcpqNPVYG6RvfIqpPp0Ju88h5WzYHMvpzENLsxtQEKP4xSMhgPkhMicvkFPera82FxlzqOu7g0CAKrCfEekanQiFq3nPPlS5NSdHkEvt49DB8xEgHSsEzkhQSO9CmaoX6rJWC/Di9zV3zMapbySrZbZN3M76qCohwi4EFrw72tBPVBgCsv5HzIIeJBBkdJAc3nzegQkSwAa4u+iJ6SDwJg6h7+gaUQGyFt3ZRfsFDU=;zt2ayNZ/mmIEwdyRhQwutQ=="

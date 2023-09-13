@@ -1,24 +1,21 @@
 ---
 category: news
 title: "New AI technology gives robot recognition skills a big lift"
-excerpt: "A team has now made a significant advance toward that technology with a robotic system that uses artificial intelligence to help robots better identify and remember objects. A robot moves a toy ..."
-publishedDateTime: 2023-08-31T20:38:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2023/08/230831121804.htm"
-webUrl: "https://www.sciencedaily.com/releases/2023/08/230831121804.htm"
+excerpt: "With every push, the robot is learning to recognize the object through a new system developed by a team of UT Dallas computer scientists. The new system allows the robot to push objects multiple times until a sequence of images are collected, which in turn ..."
+publishedDateTime: 2023-08-31T19:37:00Z
+originalUrl: "https://techxplore.com/news/2023-08-ai-technology-robot-recognition-skills.html"
+webUrl: "https://techxplore.com/news/2023-08-ai-technology-robot-recognition-skills.html"
 type: article
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: techxplore
+  domain: techxplore.com
 
 topics:
-  - AI in Robotics
+  - Computer Vision
   - AI
+  - AI in Robotics
 
-secured: "ivVJCrXsi4vF/s9ZBvPGEOclLJCE6L+XveP2YdXx+DU3JkHXH9QtitNmepohhYAS/JcrvVKagbdtwpogMJWGrEQVP2CdJV2nuwvbF+AODZ/Cnw0N92ZstqiqHx6L7oSYrfzRf+lsdo/sfzyw1RbQCZE744Y/cNlijf/VzJ3PZIbD7Dy1VvnwCNpLHOUgf/wvfcSAgjsUlEVfD2qXbHnqTu+4mG/Gw98g2knmg7L1urcINDor3rbCPJFI4auu9n/nTkW/uhbWRrLmWPTsO8FzIFUQ5w2PzoWYE6t/BGFK8X7/hD4dVhBEhS2VJjzzAvvDEYgEWavA5ZAq5GF90MDW3MkO4/c5RdHph5SrGfByQUM=;2vWB91k8mxDCgsI6UylsHA=="
+secured: "SpK4FKpcD9Rz+6oTYAROFOl/wTHZyyFsjoAffcZnAc724MGFOcQUcsBxrWadq3mqgauGCll5tHbmE9amlFyUDStuuYTf1UZJ7qMDb/fE14bB6pRW7ZVoaTh1TNMMK5JmzFXXwQrDCoF2C27xBVHUDvQyabLCP0HKMi3CdaQkaC3+BCYAbASTCPGNUACa9IedLjpksznNwaFTawvw93GzxglOoiJGNcItiHe0Iv6rx5BxYFyTczcDauw+EDAV+og3djNm5m94h0om8ocM81bikrghfQANAzx4WnxvtD6JIoISCv9e67U1RBlvd0FNu4HpiyWuURu4bMSi6DZMad382WpB9DTmdrqRhgIANbQj6kF/FFJ4Gx2pe8DlG1TDMV+GFuz42VoA6ejhxvq6CEbw9AMHjQgHfJzoeK7dWiBiFwUvsSdg1LqXyMbADspHb7P/yjA6FqgBantBiQM0le/Gg1cK9oB4TvwYJAk5A2MTRBUcX6OdIYaUvVXyiNLa2HB0k99V+0R/hZvB7Tif5etYYA==;w4RBBv7M92G8A5Z+GKfYyg=="
 ---
 

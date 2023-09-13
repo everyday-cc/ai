@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/livecoverage/apple-iphone-event-2023/card/siri
 webUrl: "https://www.wsj.com/livecoverage/apple-iphone-event-2023/card/siri-and-apple-s-ai-moves-MptPFrA2JGuuCuS9RDvY"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://www.mactech.com/wp-content/uploads/2023/09/Apple-and-AI-1024x699.jpg"
         width: 1024
         height: 699
+        isCached: true
+  - title: "Stethoscopes, Electronics, And Artificial Intelligence"
+    excerpt: "What’s more, since the Hopkins smart stethoscope is a digital instrument, it can serve as input for an artificial intelligence application that automatically analyzes the data for signs of ..."
+    publishedDateTime: 2023-09-13T00:00:00Z
+    webUrl: "https://hackaday.com/2019/02/25/stethoscopes-electronics-and-artificial-intelligence/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 39
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2019/02/smart-stethoscopes-featured.jpg"
+        width: 4350
+        height: 2900
         isCached: true
 
 secured: "O8RGKW/uEtNAoQvqj6QNnTOkxTzjGaiyrPeJ0r89sEFPVvOy7+tBPW4BepgWtxgBJYrwmxZndQEC/c6HBX87Yr+/dtW8syMM80fipH5CSQ9ZjISGYgaPzYdZqhIgb7mZKfMtBid3T4tmOgiwlqvUzegpacCkUnEjpNeUxDzZyv7bpD4oWhj5Rg8V3Jss7H3qbZBTfHNvLQtZydtXTtle+qVZrKUuBqCp1kQbBetovPUMoJKtI7/MkGxEN2ABk4Wmky5AJDQsOAbA2x36Aj9wUFpzK5pgg2poN9ysqHM0bBiTaYSAQnGKR9SbTmmA7aVYroEqjDacAAR9JNNtN2lu0KoCAv/JDEpmsqREIDvGIqErMGe0R19rGKxOMjcR3ivleJJAEl3BvZyC8Y56bnRCYsFdO+CHiuasWlHgx4qT5h357PvpRcFE1Sy8wEbFuRZV4g0h+mzoq/MxxaazifW/sesnPV2eRFq9Di4mJZWePZvxfvXPdqjdNfnc6YQXXbW6roWNcCUVD6SZdTobXRoePA==;Pj6QhkCMTGbCWIFt2J84Lg=="

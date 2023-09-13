@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Rev joins a long list of tech companies from Instacart to Microsoft, that are rushing to update terms to use people's data to train AI"
+    excerpt: "More companies are quietly giving themselves permission to use consumer data to train generative AI models and tools."
+    publishedDateTime: 2023-09-13T21:47:00Z
+    webUrl: "https://www.businessinsider.com/tech-updated-terms-to-use-customer-data-to-train-ai-2023-9"
+    ampWebUrl: "https://www.businessinsider.com/tech-updated-terms-to-use-customer-data-to-train-ai-2023-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tech-updated-terms-to-use-customer-data-to-train-ai-2023-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 74
+    images:
+      - url: "https://i.insider.com/6501fe85992da60019ebafa0?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Microsoft president and Nvidia chief scientist to testify in Senate AI hearings"
     excerpt: "Digital advocacy groups warn Senate judiciary committee that tech companies cannot be trusted to regulate themselves"
     publishedDateTime: 2023-09-12T15:16:00Z

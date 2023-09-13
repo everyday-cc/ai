@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/09/13/cadence-design-an
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/09/13/cadence-design-announces-second-generation-ip-for-edge-ai/amp/"
 type: article
 quality: 89
-heat: 119
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Stability AI, gunning for a hit, launches an AI-powered music generator"
-    excerpt: "A year ago, Stability AI, the London-based startup behind the open source image-generating AI model Stable Diffusion, quietly released Dance Diffusion, a model that can generate songs and sound effects given a text description of the songs and sound effects in question."
-    publishedDateTime: 2023-09-13T11:33:00Z
-    webUrl: "https://techcrunch.com/2023/09/13/stability-ai-gunning-for-a-hit-launches-an-ai-powered-music-generator/"
-    ampWebUrl: "https://techcrunch.com/2023/09/13/stability-ai-gunning-for-a-hit-launches-an-ai-powered-music-generator/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/13/stability-ai-gunning-for-a-hit-launches-an-ai-powered-music-generator/amp/"
+  - title: "Renesas Taps Cadence For ChipGPT-Like AI-Powered Semiconductor Design"
+    excerpt: "Generative AI has once again proven itself capable of alleviating semiconductor design teams from large portions of iterative optimization and verification work."
+    publishedDateTime: 2023-09-13T20:42:00Z
+    webUrl: "https://www.forbes.com/sites/davealtavilla/2023/09/13/renesas-taps-cadence-for-chipgpt-like-ai-powered-semiconductor-design/"
+    ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2023/09/13/renesas-taps-cadence-for-chipgpt-like-ai-powered-semiconductor-design/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/09/13/renesas-taps-cadence-for-chipgpt-like-ai-powered-semiconductor-design/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1352457907.jpg?resize=1200,752"
-        width: 1200
-        height: 752
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6501fe561c9dae31705e700f/Renesas-SVP-And-CTO--Shinichi-Yoshioka/960x0.jpg?height=532&width=711&fit=bounds"
+        width: 711
+        height: 532
         isCached: true
   - title: "Efabless Design Challenge Winners Advance the Power of AI in Chip Design"
     excerpt: "The AI Generated Open-Source Silicon Design Challenges are a part of Efabless’ initiative to democratize the use of Generative AI for chip design. The initiative drives innovation and learning in the chip design community by: Advancing the capabilities of generative AI use for chip design and verification, as well as secure device implementation."
@@ -56,15 +56,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 63
-  - title: "Cadence Accelerates On-Device and Edge AI Performance and Efficiency with New Neo NPU IP and NeuroWeave SDK for Silicon Design"
-    excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today unveiled its next-generation AI IP and software tools to address the escalating demand for on-device and edge AI processing. The new highly scalable Cadence ® Neo ™ Neural Processing Units (NPUs) deliver a wide range of AI performance in a low-energy footprint,"
-    publishedDateTime: 2023-09-13T16:47:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/09/13/9880533.htm"
+  - title: "Cadence Design Is Working With Renesas To Build The World’s First LLM Tool For Up-Front Chip Design"
+    excerpt: "Company sees this as an augmentation, not a replacement, for its portfolio of reinforcement learning AI tools that improve productivity of chip design teams."
+    publishedDateTime: 2023-09-11T11:59:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2023/09/11/cadence-design-is-working-with-renesas-to-build-the-worlds-first-llm-tool-for-up-front-chip-design/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Forbes
+      domain: forbes.com
+    quality: 35
 
 secured: "aOG0NxTyaVLYEHnje+7xvG2MyJVouFYDFjPDcwCEz0Gip38pSHZrvNUH1V13lBbEyP2QuuMzobAeY/CihYhKKw3YegdRYiUdAoCEobOOps0RrCuhON+1I0gMAij8YTDuhDIEzoqEhMLIiWTGADkOzwOpqYL8H3oZGNJUwz+o7rP23oXk6u/3Glf4blHoxIBAsooEt4HQYIiWkAWyOMYuw+jXGiLiWVIG4v71D0A6h/fMwKi5ThpenckX5ZczZK7LktAEffsbktYKMmDdlFbQweGK821CrFXvLQXfDOBvO1rrKVhZt2YlUFUI5fYEJgX3bDzHUevrLt26oYM3LZAUPHi5iT0gffSUUGMW4JqIQ5U=;rYi8z920Y1iEDq1B7gHJUA=="
 ---

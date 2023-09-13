@@ -1,28 +1,36 @@
 ---
 category: news
 title: "Tech titans have ‘a very civilized discussion’ with senators on artificial intelligence, Musk says"
-excerpt: "At a closed-door Senate forum on artificial intelligence, tech leaders are getting their chance to outline their views about possible oversight legislation. The guest list featured some of the"
-publishedDateTime: 2023-09-13T17:29:00Z
-originalUrl: "https://www.orlandosentinel.com/2023/09/13/tech-titans-have-a-very-civilized-discussion-with-senators-on-artificial-intelligence-musk-says/"
-webUrl: "https://www.orlandosentinel.com/2023/09/13/tech-titans-have-a-very-civilized-discussion-with-senators-on-artificial-intelligence-musk-says/"
+excerpt: "Senate Majority Leader Chuck Schumer has been talking for months about accomplishing a potentially impossible task: passing bipartisan legislation within the next year that"
+publishedDateTime: 2023-09-13T18:22:00Z
+originalUrl: "https://thehill.com/policy/technology/ap-in-closed-forum-tech-titans-to-give-senators-advice-on-artificial-intelligence/"
+webUrl: "https://thehill.com/policy/technology/ap-in-closed-forum-tech-titans-to-give-senators-advice-on-artificial-intelligence/"
+ampWebUrl: "https://thehill.com/policy/technology/ap-in-closed-forum-tech-titans-to-give-senators-advice-on-artificial-intelligence/amp/"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/ap-in-closed-forum-tech-titans-to-give-senators-advice-on-artificial-intelligence/amp/"
 type: article
-quality: 23
-heat: 23
+quality: 25
+heat: 25
 published: false
 
 provider:
-  name: Orlando Sentinel
-  domain: orlandosentinel.com
+  name: The Hill
+  domain: thehill.com
 
 topics:
+  - Facebook AI
   - AI
 
-images:
-  - url: "https://www.orlandosentinel.com/wp-content/uploads/2023/09/Senate_Artifical_Intelligence_20655.jpg?w=1024&#038;h=682"
-    width: 1024
-    height: 682
-    isCached: true
+related:
+  - title: "Tech titans have ‘civilized discussion’ with senators on artificial intelligence, Musk says"
+    excerpt: "At a closed-door Senate forum on artificial intelligence, tech leaders are getting their chance to outline their views about possible oversight legislation."
+    publishedDateTime: 2023-09-13T19:16:00Z
+    webUrl: "https://www.adn.com/nation-world/2023/09/13/tech-titans-have-civilized-discussion-with-senators-on-artificial-intelligence-musk-says/"
+    type: article
+    provider:
+      name: Alaska Dispatch News
+      domain: adn.com
+    quality: 7
 
-secured: "HVUCV4altNKCFMbrkmIB3pLxJg4/Jfwh1Dp2PnjRt9XeuUiEmuRrXMBU49ZLnVbMDFgb5vd73vUWuRTec/QJwE5aPc6yDHg5cBAOZRjbUDCmgsSIxmOLk5Ms04sajmvXuq2p5tvIbSogZn2C4Ny6TuiSYWKGeMV7eWTc1lDVkB/NnCHqHYGBKbeKIwFAkD6bqK7kllbbncLVDxLwv2bchcrJErVlFWElufzGYQAevKpIdyWq82DWv4U7d2PRhHVR+dP6igJw07gOj1JvsmRbqEPCQ0fbYzr0VgFP92svdXlFgr0oehxFhxopycQoBc+1IdQ9ihuHw++iEQzfsrb5M+V+7boh9bZJKjbwzT/Oc2Q=;F4txocLpv9lLRnCqEGASwA=="
+secured: "dW/MqgyOnkwZCN7ssS0v+7kCrS8n0nqjeD7p0Qr0Eq2AOzoea1BBIxmnyHTBMoGOQjldgbBC3tNWvwDzyeUXk5T+pV19oxK3cK7aGZCP6f/F9EixWdDkIWNz530DUX5ew8Uk0GOKY5a+CJ1Y6U3ya/ZgYwfalpEDJ5Io5jjIFU1+1F4MUrj/n8hLWqbG3pG9M/vVizi+3dBa6GMc1k4Kr0UnnzM0pzao3BKtB/H1fW466IgDNgCXnf0PVqOUPKozAwM5ZGN5WZXQYd1orr2ShDE1WEEyp2sNlakIY8ZjiPiVroQAHJVayBMoMKR9j7w58ZW6qDN0vBQJS+HR5/11YjKR43D8BtvYu5DLzmONtFMTI4Y6uSPF2pWRBfcBa9JnV8adnhJa4OnaovZpvGK3OfqWlAckHfufbqJOSDj35iBPZgJJBto6xHb7ODGmjmAuhPpqsASwVVFVbJ4W1RJo6YiDm18kivOtVHGTjynEdT+P9HL13OAoBx0VHa4DLK0giT23Fg7va7hJmt7P7DPQ+Q==;iMJbkUYXbaGh0a34Avxc8Q=="
 ---
 

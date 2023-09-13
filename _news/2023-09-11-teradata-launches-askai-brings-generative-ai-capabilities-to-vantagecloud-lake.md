@@ -44,15 +44,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 46
-  - title: "Smartcat, the Essential Language AI Platform for the Global Enterprise, Launches Multilingual Generative AI Content Creator"
-    excerpt: "Smartcat, the essential language AI platform for the enterprise, today announced the release of its multilingual generative AI content creator, which allows each company to use its own proprietary content as the basis for new content development in all languages."
-    publishedDateTime: 2023-09-13T10:13:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/09/13/9879982.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "YL77uU9NVJcYJ27b2zRpy2M907dyDBhjiqCWMje0QMeUkCuJIctWJftmXBoEj9qFOZSz6iBE1wtnn5d6LNKlnmiLhqiO3Q/l0Oeey+/qQg4nT56SSKOSMR3wdnJ8grAhMM2sizuiH9op3KH3uSIzBO4LEvBp+xbJBZuzx4F5phAEGZkQRPnXz14Dm0nAW86AP4XEsHDVpZ6s6d175hKvPRV92heHGJeooPS0YI0VZqvPmnF22vxdybjsQ2f6J/8n8dufHwiVhB/j52B6Jkp49yZru2g0XxrpSvIgSLCbBaD8qa87y1ZuQ/G6cwqo6uKYx+XPvAkYM1zb7GJXce31Rk64q0nvscn9z3cugPqeAX0=;XNkmkLfSYUY6DSJzSd/Stg=="
 ---

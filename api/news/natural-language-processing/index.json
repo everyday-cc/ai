@@ -63,7 +63,7 @@
       "originalUrl": "https://www.aljazeera.com/economy/2023/9/13/corporate-australia-backed-a-voice-on-indigenous-rights-it-now-faces-defeat",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -201,6 +201,49 @@
         "Natural Language Processing",
         "AI",
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-09-speech-and-voice-recognition-technology-market-with-cagr-status-till-2031.md",
+      "title": "Speech and Voice Recognition Technology Market with CAGR Status till 2031",
+      "excerpt": "Speech and Voice Recognition Technology Market Snapshot: In this report analysis, we thoroughly examine the Speech and Voice Recognition Technology Market by exploring it into different segments ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34379333/speech-and-voice-recognition-technology-market-with-cagr-status-till-2031",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34379333/speech-and-voice-recognition-technology-market-with-cagr-status-till-2031",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34379333",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34379333",
+      "publishedDateTime": "2023-09-08T17:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -800,22 +843,31 @@
       "title": "With AI, future of hearing aids might include language translation",
       "excerpt": "Sawalich says, \"If somebody falls, it'll text up to three people.\" They can also translate foreign languages. These AI hearing aids recalibrate up to 80 million times an hour, allowing them to ...",
       "sourceUrl": null,
-      "webUrl": "https://www.thetimes-tribune.com/news/nation-world/with-ai-future-of-hearing-aids-might-include-language-translation/video_2d527935-5f49-542e-b87e-3cd7d8380040.html",
-      "originalUrl": "https://www.thetimes-tribune.com/news/nation-world/with-ai-future-of-hearing-aids-might-include-language-translation/video_2d527935-5f49-542e-b87e-3cd7d8380040.html",
+      "webUrl": "https://www.gjsentinel.com/news/national/with-ai-future-of-hearing-aids-might-include-language-translation/video_839a89b0-fa74-51fd-b8b2-66ec62e97197.html",
+      "originalUrl": "https://www.gjsentinel.com/news/national/with-ai-future-of-hearing-aids-might-include-language-translation/video_839a89b0-fa74-51fd-b8b2-66ec62e97197.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/gjsentinel.com/content/tncms/assets/v3/editorial/8/39/839a89b0-fa74-51fd-b8b2-66ec62e97197/64f77e3d81979.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-05T12:30:00-07:00",
+      "publishedDateTime": "2023-09-05T12:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Scranton Times-Tribune",
-        "domain": "thetimes-tribune.com",
+        "name": "The Grand Junction Daily Sentinel",
+        "domain": "gjsentinel.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1413,50 +1465,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-korean-internet-giant-naver-explores-robotics-ai-and-autonomous-driving.md",
-      "title": "Korean internet giant Naver explores robotics, AI and autonomous driving",
-      "excerpt": "Naver, maker of the search engine known as the \"Google of South Korea,\" opened its new second headquarters, Naver 1784. The building's",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/09/01/korean-internet-giant-naver-explores-robotics-ai-and-autonomous-driving/",
-      "originalUrl": "https://techcrunch.com/2023/09/01/korean-internet-giant-naver-explores-robotics-ai-and-autonomous-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-01T05:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

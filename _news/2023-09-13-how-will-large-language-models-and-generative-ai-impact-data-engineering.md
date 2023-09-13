@@ -47,15 +47,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 14
-  - title: "Smartcat, the Essential Language AI Platform for the Global Enterprise, Launches Multilingual Generative AI Content Creator"
-    excerpt: "Smartcat, the essential language AI platform for the enterprise, today announced the release of its multilingual generative AI content creator, which allows each company to use its own proprietary content as the basis for new content development in all languages."
-    publishedDateTime: 2023-09-13T10:13:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/09/13/9879982.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "Bqy4cW2C6GaUUcK7AwDNXWV17zSoBEUaLamJVLEgBfSXDr9BrkCMNt3ZZej4rPswg2hfrZUWX9WPPbeL05HS8pH9mooGX2ZqUV2xuy4+OOl8ehP9SyCgxjiRXHWsNMbsDNFwLY/DO0Txpxd3kdxxj6S5AoXlBJEO3kYMwEVqjpoj+m7cOdrmBP4G3iJTN5G8dHAxywSxrqt+aDr8pqFpG5aGFY8aMGPIkqMJVLZm5CZjRLFV/8GJaQ782g66q7Loh29qChVvXcCU54/AtqmJIMKu6FJ/DVIOW1s/ECVP8341u+2zVCeD2eQlb2KLFWY6A8G01cPmXG/JQ2mA6x2t2K7QDqpUNlIYZGoJIas6csD/QOR9DV+Le2PlZIDj7QsM4jO+ESklmGK7af0qrJadnClgPjeU7YRhjAoBIJDO2Px4AGuyIZNfk4RppgND4i80RYNRAJBbG+kgx9Rd4UHnimpM8FigVcSx/RVdJuJjio645GB/MqA1SXuQ7EcTeBBPldj6b0QME8QNIld+0fqkFg==;TxmF3COlB33XBa4vxJsCVA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://diginomica.com/dreamforce-2023-supermums-aims-train-raft-wom
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/dreamforce-2023-supermums-aims-train-raft-women-ai-experts?amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Diginomica
@@ -36,6 +36,15 @@ related:
       name: Diginomica
       domain: diginomica.com
     quality: 2
+  - title: "Dreamforce 2023 - A lot of generative AI value actually comes from hallucinations, says OpenAI founder Sam Altman"
+    excerpt: "That’s a bold point, but not one that’s likely to assuage the legitimate concerns around ethics and values in relation to generative AI. Altman counters: We want to have the smartest, most capable, most customizable models out there because we so ..."
+    publishedDateTime: 2023-09-13T19:52:00Z
+    webUrl: "https://diginomica.com/dreamforce-2023-lot-generative-ai-value-actually-comes-hallucinations-says-openai-founder-sam"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 0
 
 secured: "U94NAYNBEA94NQzDfOqjEvNtd794sVYyk+3nHF6aZH/jK8eu/UD1PgDDZlt33tib0BL3v+UDRTeZpYh+xkMmyuw0BLoX06iXkSMiyL8D7Ps9vE6Hr85xpTDFOUm1c4TZ6vxgEEWqKUTxbNYGEXCpKacjug4rGYZ68xOZyYf6krcaGaJ9cPz0h/ODORmmgLoGpuG3uJ15eMRIG+nyE0a/lofw/OUWzBoN820zmeZWZZGejHxBXHmxT8I8/Ae1Ew5Z9iQ00dlOv3wwtS20tCJZEgf/jSsXFg80Go7MLLQIQhkY4OhRWGYyZhLkKoBgFNS9LhoNKNlDTFS7eghbEsUXrFfrMOxyFuyMyTinteiO/5Y=;2AO9eeuPFBNGbu0CoYloYg=="
 ---

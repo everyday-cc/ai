@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mikeosullivan/2023/09/09/europe-in-the-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/09/09/europe-in-the-lead-in-ai-regulation/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://www.thebanker.com/var/ezflow_site/storage/images/media/images/ai-in-the-workplace/13076761-1-eng-GB/Ai-in-the-workplace.jpg"
         width: 3000
         height: 1687
+        isCached: true
+  - title: "Congress Is Blowing It When It Comes to AI Regulation"
+    excerpt: "Critics have likened the decision to invite tech CEOs like Elon Musk and Mark Zuckerberg to Capitol Hill to discuss regulating AI as akin to letting “the fox design the henhouse.”"
+    publishedDateTime: 2023-09-13T21:10:00Z
+    webUrl: "https://www.thedailybeast.com/chuck-schumers-ai-summit-is-already-a-bust"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1694639222/BrowserPreview_tmp_nhuoyv"
+        width: 1480
+        height: 832
         isCached: true
   - title: "Congress huddles with tech experts in new push for AI rules: ‘There will be regulation’"
     excerpt: "Senators are meeting with leading Big Tech executives this week as part of a new push to write rules for artificial intelligence focused on limiting danger and safeguarding innovation."

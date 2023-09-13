@@ -7,8 +7,8 @@ originalUrl: "https://www.roboticsbusinessreview.com/ai/robobusiness-nvidia-to-d
 webUrl: "https://www.roboticsbusinessreview.com/ai/robobusiness-nvidia-to-discuss-role-of-generative-ai-in-robotics/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Robotics
@@ -23,6 +23,17 @@ images:
     width: 800
     height: 554
     isCached: true
+
+related:
+  - title: "AI Trends In International Business: Insights from Three Leaders"
+    excerpt: "Three industry leaders in AI stand out by demonstrating their shared backgrounds and training that led them each to have unparalleled success in AI: Kai-Fu Lee, Harry Shum and Qi Lu."
+    publishedDateTime: 2023-09-13T18:52:00Z
+    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/09/13/ai-trends-in-international-business-insights-from-three-leaders/70844708007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 17
 
 secured: "gOqqZe6bEnHZKCLdor7b6c2dIa7Wg3dE1sWsANdtU2wQEd9Lul4JfSFrf6WqwmdkV7udLM938a0jVBkbiM5w60AttQEeeasfpny0PYaOCNbB4JAcSQxVSHy3GsO6VFiOQb/WYUJka7U29LLKgopt1SdGJn+UkTjcjz6+7zOI9ySI8lDkFLTe/ZHVaPGCnxYmGTAie5Bvy89N2DILVA0VQsjhNQVDMHZGbha2KUKOfTsbDEMXcfKQs6iLunvFqrXU+pqQkpob5hRPGSWWNpegX2qciDJqIcb4lcrhtTljD0u8CWToBKgC3iobfcO87J1ELFXCk3h1lprd4Jw8Btsk9cM0+dZpblZz2cfoZ/sMhCyhTVsuuOC5mk9WGlgKpkD0Q42A9EHxKDVUj27mK764PVxA2+T5yA8AcA6/ODkuTNjUTCaPm3viBa83bkQWE+5UFuJf6HHWwCPPjSdVEz138G+srV0QhXVH0OqJIZk+sFvvrtKf4oCkEqjg7jufTNA7BU3hkLLgY4XPtZkCpyTrXQ==;PzPDhAR7UdW83AzwCTv9MA=="
 ---

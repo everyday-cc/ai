@@ -43,6 +43,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
+  - title: "How science will be transformed by AI"
+    excerpt: "This week, Alok Jha, The Economist ’s science and technology editor speaks to Mustafa Suleyman, the founder of Inflection AI, and co-founder of Google DeepMind. Mustafa outlines how he thinks the technology can develop responsibly, what hurdles need to be overcome and how society should prepare for this new age of ubiquitous AI."
+    publishedDateTime: 2023-09-13T19:16:00Z
+    webUrl: "https://www.economist.com/AI-science"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 37
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230916_PDP508.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Three Artificial Intelligence Stocks Under $10"
     excerpt: "After peaking at $9.75 in 2021 the company is now “exploring strategic alternatives”, which is street-speak for trying to find a buyer."
     publishedDateTime: 2023-09-11T13:44:00Z

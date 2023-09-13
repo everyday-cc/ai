@@ -36,6 +36,15 @@ related:
         width: 672
         height: 538
         isCached: true
+  - title: "Dreamforce 2023 - A lot of generative AI value actually comes from hallucinations, says OpenAI founder Sam Altman"
+    excerpt: "That’s a bold point, but not one that’s likely to assuage the legitimate concerns around ethics and values in relation to generative AI. Altman counters: We want to have the smartest, most capable, most customizable models out there because we so ..."
+    publishedDateTime: 2023-09-13T19:52:00Z
+    webUrl: "https://diginomica.com/dreamforce-2023-lot-generative-ai-value-actually-comes-hallucinations-says-openai-founder-sam"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 0
 
 secured: "AYPjxPNfExfxugucwdGwCOBuRD0keN9jQ4gESr9AJ5fAUDrsn0HVyS08ChgWVz6KWT9K2eF412rHd3sitamJ9CFsBFT72MtglRHD7ZzgcefYEeDnzKIkreauthT22nfTc8lICZfFHotHhTHiMcUafcQ6KmAX2Q59BSk6up56BagZMdBDXSqPVLIhVdJ+QvwfTWPXAQ7didrn4v8Hv6Zn86ilqYJ1ymkFF+jG+z7sxHqIQwfT7OQSn+d5sLO7Hrq5cfMMn3Wpi9K6qsC2fCJ+Oio5NDD34UDut7SkiM6twDUy9RAwtKiS6HdnOEfroP1bZasBUWmqacbCFlbdpW1/i+XkX3FE4MobKt0lEhhO3JcyBYSml4R8n0PvMnS+v5TNPenvyv5hsXaUOcW9n0zu0eBKUMGgpuM36r2GVqW5OQIwr/90VhoiTu5Ww1JjsLte/aKeDloPPdvAmjcfXpwBjVnFhNCBqbVpunzsSWnyw3TvGfK97V5yB2YFtBzshsfiwVW8ojXHlKyCZjC3MyMJYw==;lwk6JNxVQ9bEuxzqwWutZg=="
 ---

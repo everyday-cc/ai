@@ -10,7 +10,7 @@
       "originalUrl": "https://blog.google/technology/ai/google-data-commons-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -62,7 +62,7 @@
       "originalUrl": "https://blog.google/outreach-initiatives/google-org/httpsbloggoogleoutreach-initiativesgoogle-orgunited-nations-global-goals-google-ai-/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -450,11 +450,11 @@
     },
     {
       "path": "_news/2023-09-01-google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-ft.md",
-      "title": "Google DeepMind co-founder calls for US to enforce AI standards - FT",
-      "excerpt": "Sept 1 (Reuters) - The U.S. should allow Nvidia's NVDA.Oartificial intelligence (AI) chips only to buyers who agree to ethically use the technology, Google DeepMind's co-founder Mustafa Suleyman ...",
+      "title": "Google DeepMind Co-Founder Calls for US to Enforce AI Standards - FT",
+      "excerpt": "(Reuters) - The U.S. should allow Nvidia's artificial intelligence (AI) chips only to buyers who agree to ethically use the technology, Google DeepMind's co-founder Mustafa Suleyman told the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-ft",
-      "originalUrl": "https://www.nasdaq.com/articles/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-ft",
+      "webUrl": "https://money.usnews.com/investing/news/articles/2023-09-01/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-ft",
+      "originalUrl": "https://money.usnews.com/investing/news/articles/2023-09-01/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-ft",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -464,12 +464,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-01T01:22:00-07:00",
+      "publishedDateTime": "2023-08-31T23:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

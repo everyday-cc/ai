@@ -24,6 +24,17 @@ images:
     height: 314
     isCached: true
 
+related:
+  - title: "FDA clears Insight Medbotics’ MRI-compatible surgical robot"
+    excerpt: "Insight Medbotics announced today that it received FDA 510(k) clearance for its IGAR MRI-compatible surgical robot system."
+    publishedDateTime: 2023-09-13T18:20:00Z
+    webUrl: "https://www.massdevice.com/fda-clears-insight-medbotics-mri-compatible-surgical-robot/"
+    type: article
+    provider:
+      name: MassDevice
+      domain: massdevice.com
+    quality: 19
+
 secured: "vfhpOX6hs6PR5pdQRY+PRNDwPO8r29aaYSaxvuycroMgHdZKsKKqGCxpTMxpEuSpKMCsmcXWzPYQyTvQlDmWJIZXhwXx53ibdAEXWO/FkKjCrcItWp5eZCV+lt08l4YCUQYcSzfaIHOeeKxB66uipB6H8jr5tXurOSHAVhXkQzHc1FXo/lqJDKuxkT9HGDUZYAk73PEAGY8pKewxJdRLyrPw+T+6C/qUqtHaWdd4m/KaSTlA98XecZbLjr4JHPAUs5L8OSHs8T59rO+Orm638nroPzks4H3MauZCSwTHx4oGnLilVBwxjJuI5hH0w/czNIuD2xz3Wkc3JT6IJaWJKGmc6poTP3/hlNWTQAWMR3s=;w3z8+mNTxUi5TCWu0xAbgA=="
 ---
 

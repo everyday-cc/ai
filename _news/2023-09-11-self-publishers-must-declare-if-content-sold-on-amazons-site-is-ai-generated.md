@@ -53,6 +53,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
+  - title: "As Cloud Giants Wrestle with AI-Generated Content, AWS Demands Kindle Notifications"
+    excerpt: "As cloud giants continue to wrestle with AI-generated content causing copyright issues, Amazon Web Services (AWS) is now demanding that self publishers on its Kindle platform indicate whether their new content comes from machines."
+    publishedDateTime: 2023-09-13T18:54:00Z
+    webUrl: "https://virtualizationreview.com/articles/2023/09/13/ai-content.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 28
 
 secured: "7wteGi+381obFziCDkbYx7yYrFccdfZEnt+ywftxQHVDS0gkis0NWlCfmfl79Gv0e3yeQfIk/DvBuDM/KR8wilTZTleYHGka9LIgwZZIkZK80tDGRdQUz9VuG0mvU7wQa7kdRXP1I7ABN1JY/onWAReDZk0rWqXJRkJoTmhFf36qMM7t/5bG5nGekQzMvk7qhbpPWNzWLz+6LU6EB1VOC74Ui6htj4JAt3KRxSA57lDHQpo+xUZ55+Gzh3Lr0Ha3GcD1E0bwFv1q4lhFwCG6ogHZtaErDQWls4uB1qBo8qfb3USRdF+DOUwd3I3v7VSZl6Hcfj2XZO8kaIzBkHKB/Wv2vQvBzFtykAQzFkRAva9l0YzZfU2bxKmEgffIXeC5d6npxhamgg9rknjYQ/aYXa6CKrHzceBoLieqGAMYFkyfpv/72xZS8ugflY/ceAxeHq/2jOvZYVEp7SW04ld2ji/Ewu9Lm8+m5Ng/fXtyMIeKJJxdv1eyS2/xrgM5jnK8ygbXwvqdOqUwIbggsPfm6w==;M+qyNDoM/PjeWRtc9s5QDw=="
 ---

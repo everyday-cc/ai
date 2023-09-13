@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/elon-musk-and-mark-zuckerberg-
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/elon-musk-and-mark-zuckerberg-will-talk-ai-rules-in-senate-forum-on-wednesday-296d6ffe"
 type: article
 quality: 84
-heat: 126
+heat: 146
 published: true
 
 provider:
@@ -30,6 +30,38 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk, Mark Zuckerberg, Bill Gates and other tech leaders in closed Senate session about AI"
+    excerpt: "N.Y., hosted the panel of tech, labor and civil rights leaders as part of the Senate's inaugural \"AI Insight Forum.\""
+    publishedDateTime: 2023-09-13T18:48:00Z
+    webUrl: "https://www.cnbc.com/2023/09/13/musk-zuckerberg-among-tech-leaders-visiting-senate-to-speak-about-ai-.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/09/13/musk-zuckerberg-among-tech-leaders-visiting-senate-to-speak-about-ai-.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/13/musk-zuckerberg-among-tech-leaders-visiting-senate-to-speak-about-ai-.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 75
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107300100-16946163562023-09-13t142809z_977388899_rc2m73a815je_rtrmadp_0_usa-ai-congress.jpeg?v=1694638090"
+        width: 3500
+        height: 2434
+        isCached: true
+  - title: "Elon Musk, Mark Zuckerberg, Bill Gates and other tech names head to Washington for a closed-door meeting on policing AI"
+    excerpt: "Some of the biggest tech leaders in the world, like Elon Musk and Mark Zuckerberg, gathered in Washington to discuss ways to potentially police AI."
+    publishedDateTime: 2023-09-13T20:53:00Z
+    webUrl: "https://www.businessinsider.com/how-to-regulate-ai-tech-washington-musk-zuckerberg-gates-altman-2023-9"
+    ampWebUrl: "https://www.businessinsider.com/how-to-regulate-ai-tech-washington-musk-zuckerberg-gates-altman-2023-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-regulate-ai-tech-washington-musk-zuckerberg-gates-altman-2023-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
+    images:
+      - url: "https://i.insider.com/6501f7f8992da60019eba99b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Mark Zuckerberg’s Meta working on a new, more advanced AI model to rival OpenAI’s GPT-4"
     excerpt: "Mark Zuckerberg’s Meta is working on building a new AI model that will be more powerful than its current model Llama 2, and will rival the capabilities of OpenAI’s GPT-4."
     publishedDateTime: 2023-09-11T03:35:00Z

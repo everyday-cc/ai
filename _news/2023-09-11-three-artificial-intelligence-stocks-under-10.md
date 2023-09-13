@@ -52,6 +52,20 @@ related:
         width: 1031
         height: 745
         isCached: true
+  - title: "How science will be transformed by AI"
+    excerpt: "This week, Alok Jha, The Economist ’s science and technology editor speaks to Mustafa Suleyman, the founder of Inflection AI, and co-founder of Google DeepMind. Mustafa outlines how he thinks the technology can develop responsibly, what hurdles need to be overcome and how society should prepare for this new age of ubiquitous AI."
+    publishedDateTime: 2023-09-13T19:16:00Z
+    webUrl: "https://www.economist.com/AI-science"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 37
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230916_PDP508.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "m3k3GGbP9DSxwN6rxJOvSJrkGUpzbE1M4yCLkFwEbUUUYjQTH6+cEzhDXvSGP1mza1rN+UAhFNkxs+tfx1x4hctSogidbu02MQz9lf0uo8DD38IsltXCKKusjor/8TrbmbO1AAZRE10Ammf8sCzP2ogjwRI7x7Mrzme7NltBH011ZvjoNQYxBgSFWP1FkcniNeG4Yb+/ezEY4w7aASUKQ9aUYWzJrgBppgpCqMob/uelA5wQduHvSD+zjUTD8TMR63aEGCSrQ4XEx/tM7RkAusUPK4sOfjOANwQYPRmpn7H44gZme7c99UCJjyJPVjJHUiB1qqeorRf/wZbCZx4xm82Sc0P9QaNVXeCIea0hHs7VdNlf1dcqyUWTt0X43LNjoYppMKieMiQ0chTNRsakuropmi1/w4CSCcFVVBKIpqOwm5H1lF9X7hYJEA80Iunz6hOHM4Xc+z54UiLRYYb1/U6EY5jtOyZRaAOnoDHG0unzbOjqW0MKABXSidSrgeDY1eagYlq6gUqKgy3zCdw5cQ==;NPi2h4rGMHH3Cq09Droupg=="
 ---

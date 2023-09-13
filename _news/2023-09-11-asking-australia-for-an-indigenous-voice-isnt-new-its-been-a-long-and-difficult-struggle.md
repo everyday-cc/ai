@@ -77,6 +77,20 @@ related:
         width: 374
         height: 374
         isCached: true
+  - title: "Less 1:N facial recognition searches, data sharing proposed in Australia gov’t ID bills"
+    excerpt: "The Identity Verification Services Bill 2023 would block most of the planned government uses of one-to-many facial recognition."
+    publishedDateTime: 2023-09-13T20:09:00Z
+    webUrl: "https://www.biometricupdate.com/202309/less-1n-facial-recognition-searches-data-sharing-proposed-in-australia-govt-id-bills"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 31
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/07/10101537/face-biometric-close-up.jpg"
+        width: 1312
+        height: 1325
+        isCached: true
 
 secured: "mNm2rpaChqqx0i6SphT5sRI1QKSjdbboEro6U7ZGW3sRifGETFQQm0xmdBpE5Nv9zK7sWlQLnlUokgnUVUHE4ZowwovoLK/58L+uo/2rLol6eJAAc2pOhNh2ts1kRNdB+EKhHVXxe1JGRQ7TIIjRo4kXQKtwm6K0Z38Fx+8whHgpfAas7eg7HQ8Lbx0Zi+LQqfcr9w9wg+ng2R9K91ObLMkfaawDPgfwB3+4jdhYjnQuIi4hJcd3bYG+RC6m6OJVfCAu7F0hGnhPZHY40ZbrHlERJc19kb41cpGZzpnuVAprjl241OZEA2+BXeLRtt6kMb7zM09dBNv7GFAea8OmQt/6tCmVtBSvnY8z7goOj9WSkM4FLwrIBq3ScG4TmehbTkY7AktrMIs2Z/Fo8M3EkB+/MLFywCkRCZq0YCxEFGmO5wSDd76EIGwc7AR24NSSWS3L9cCeSlKz9Xqc9NU9XjP45z8tB+Sn78KOp89QWCR/u2UVkEnbebVleAtwBp6ldFS2VBeDh3SdG+LPN/EJtw==;xU1moF08UHL+EA50tXaYEw=="
 ---

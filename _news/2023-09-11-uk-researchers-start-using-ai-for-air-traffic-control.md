@@ -7,7 +7,7 @@ originalUrl: "https://www.ft.com/content/783a9d91-cce3-4177-bfe0-5438aa3b892a"
 webUrl: "https://www.ft.com/content/783a9d91-cce3-4177-bfe0-5438aa3b892a"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,210 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Stability AI, gunning for a hit, launches an AI-powered music generator"
+    excerpt: "A year ago, Stability AI, the London-based startup behind the open source image-generating AI model Stable Diffusion, quietly released Dance Diffusion, a model that can generate songs and sound effects given a text description of the songs and sound effects in question."
+    publishedDateTime: 2023-09-13T11:33:00Z
+    webUrl: "https://techcrunch.com/2023/09/13/stability-ai-gunning-for-a-hit-launches-an-ai-powered-music-generator/"
+    ampWebUrl: "https://techcrunch.com/2023/09/13/stability-ai-gunning-for-a-hit-launches-an-ai-powered-music-generator/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/13/stability-ai-gunning-for-a-hit-launches-an-ai-powered-music-generator/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1352457907.jpg?resize=1200,752"
+        width: 1200
+        height: 752
+        isCached: true
+  - title: "Businesses need pricing clarity as generative AI services hit the market"
+    excerpt: "Transparency around how exactly services are charged will be essential as organizations look to avoid bill shock from consuming generative artificial intelligence tools."
+    publishedDateTime: 2023-09-13T16:30:00Z
+    webUrl: "https://www.zdnet.com/article/businesses-need-pricing-clarity-as-genai-services-hit-market/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/businesses-need-pricing-clarity-as-genai-services-hit-market/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/businesses-need-pricing-clarity-as-genai-services-hit-market/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 86
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/d4ea5b28fdf0cd75bc8dd9f69f727fdabb9516ec/2023/09/13/d7a94305-a93c-4d75-aaa8-2a2a3a076a46/gettyimages-1295039478.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AI can now generate CD-quality music from text, and it’s only getting better"
+    excerpt: "If you'll recall, Stability AI is the company that helped fund the creation of Stable Diffusion, a latent diffusion image synthesis model released in August 2022. Not content to limit itself to generating images, the company branched out into audio by backing Harmonai, an AI lab that launched music generator Dance Diffusion in September."
+    publishedDateTime: 2023-09-13T20:59:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/09/ai-can-now-generate-cd-quality-music-from-text-and-its-only-getting-better/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/09/ai-can-now-generate-cd-quality-music-from-text-and-its-only-getting-better/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/ai-can-now-generate-cd-quality-music-from-text-and-its-only-getting-better/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 86
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot_singing_3-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Here’s how we raised a Series B for our AI startup during a downturn"
+    excerpt: "Not so fast. Already, the headline-grabbing funding rounds for generative AI companies are beginning to slow, and with almost every startup calling itself an “AI company,” it will become more difficult for true AI startups to stand out. For founders ..."
+    publishedDateTime: 2023-09-12T14:30:00Z
+    webUrl: "https://techcrunch.com/2023/09/12/how-we-raised-a-series-b-for-our-ai-startup/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 67
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1054956204.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Stability AI debuts Stable Audio bringing text to audio generation to the masses"
+    excerpt: "Stability AI today announced the initial public release of its Stable Audio technology, providing anyone with ability to use simple text prompts to generate short audio clips."
+    publishedDateTime: 2023-09-13T08:14:00Z
+    webUrl: "https://venturebeat.com/ai/stability-ai-debuts-stable-audio-bringing-text-to-audio-generation-to-the-masses/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/09/robot-making-music.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "'Sonic DNA' is composed for a finance firm to generate AI-powered branding"
+    excerpt: "This is an example of 'Sonic DNA' which digital agency amp composed for a major financial firm, so that AI could generate multiple musical compositions from it."
+    publishedDateTime: 2023-09-11T19:51:00Z
+    webUrl: "https://www.bbc.com/news/av/business-66781639"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 62
+  - title: "Tech titans are giving senators advice on artificial intelligence in a closed-door forum"
+    excerpt: "Senate Majority Leader Chuck Schumer convened a meeting of some of the country’s most prominent technology executives to ask them how Congress should do it."
+    publishedDateTime: 2023-09-13T14:19:00Z
+    webUrl: "https://www.wyomingnewsnow.tv/2023/09/13/tech-titans-are-giving-senators-advice-artificial-intelligence-closed-door-forum/"
+    ampWebUrl: "https://www.wyomingnewsnow.tv/2023/09/13/tech-titans-are-giving-senators-advice-artificial-intelligence-closed-door-forum/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wyomingnewsnow-tv.cdn.ampproject.org/c/s/www.wyomingnewsnow.tv/2023/09/13/tech-titans-are-giving-senators-advice-artificial-intelligence-closed-door-forum/?outputType=amp"
+    type: article
+    provider:
+      name: wyomingnewsnow
+      domain: wyomingnewsnow.tv
+    quality: 50
+    images:
+      - url: "https://gray-kgwn-prod.cdn.arcpublishing.com/resizer/7cdAMr1OmpsfuDwEed0A6oFedDA=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/OQJNV346WBEMLNMZZGUTTTLFH4.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Pilot Trading Launches Innovative AI Signals Only Mode for Traders"
+    excerpt: "- Brokerage Compatibility: The Pilot Trading app in Signals Only Mode, stands independently, allowing you to continue using your preferred brokerage, ensuring a hassle-free and flexible trading experience."
+    publishedDateTime: 2023-09-12T11:54:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/pilot-trading-launches-innovative-ai-signals-only-mode-for-traders-1032622845"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "AI-generated music used for business branding"
+    excerpt: "This is an example of AI-generated music, created by amp's Sonic Hub tool using 'Sonic DNA', which was composed for a finance client."
+    publishedDateTime: 2023-09-11T19:26:00Z
+    webUrl: "https://www.bbc.com/news/av/business-66781641"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 47
+  - title: "Meta is developing a much more powerful AI"
+    excerpt: "Meta is reportedly working on a new AI system intended to be as powerful as the most advanced model from OpenAI."
+    publishedDateTime: 2023-09-11T04:52:00Z
+    webUrl: "https://techcentral.co.za/meta-is-developing-much-more-powerful-ai/231341/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 39
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2021/12/meta-platforms-2156-1120-1024x532.jpg"
+        width: 1024
+        height: 532
+        isCached: true
+  - title: "Softserve Launches Generative Ai Lab"
+    excerpt: "Specialized lab expands SoftServe's AI/ML capabilities to accelerate Generative AI value discovery and real-world adoptionSINGAPORE - Media"
+    publishedDateTime: 2023-09-12T11:54:00Z
+    webUrl: "https://menafn.com/1107051285/Softserve-Launches-Generative-Ai-Lab"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?132894"
+        width: 309
+        height: 250
+        isCached: true
+  - title: "Swoop Launches Predictive AI Adherence Targeting"
+    excerpt: "First-of-its-kind targeting predicts which patients will become non-adherent in the next 30 daysNew offering leverages Swoop’s best-in-class machine learning and artificial intelligenceNEW YORK--(BUSINESS WIRE)--Swoop,"
+    publishedDateTime: 2023-09-12T15:01:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2023-09-12/swoop-launches-predictive-ai-adherence-targeting"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 39
+    images:
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
+        isCached: true
+  - title: "How artificial intelligence could scrap humanity’s ability to lie"
+    excerpt: "“Lying tends to have a high negative effect: you feel a lot of guilt, shame or anxiety that you might get caught. And those negative affective words also pop out into your speech when you lie,” Hyde said."
+    publishedDateTime: 2023-09-11T20:21:00Z
+    webUrl: "https://www.boisestate.edu/news/2023/09/11/how-artificial-intelligence-could-scrap-humanitys-ability-to-lie/"
+    type: article
+    provider:
+      name: Boise State University
+      domain: boisestate.edu
+    quality: 37
+    images:
+      - url: "https://wpwww-prod.s3.us-west-2.amazonaws.com/uploads/sites/164/2023/09/report-3183779_640.jpg"
+        width: 640
+        height: 488
+        isCached: true
+  - title: "Tech titans are giving senators advice on artificial intelligence in a closed-door forum"
+    excerpt: "Senate Majority Leader Chuck Schumer convened a meeting of some of the country’s most prominent technology executives to ask them how Congress should do it."
+    publishedDateTime: 2023-09-13T19:19:00Z
+    webUrl: "https://www.wsfa.com/2023/09/13/tech-titans-are-giving-senators-advice-artificial-intelligence-closed-door-forum/"
+    type: article
+    provider:
+      name: WSFA
+      domain: wsfa.com
+    quality: 10
+  - title: "Phenom AI Day Agenda Preview: Technical Experts to Demonstrate and Explain AI's Application for Human Resources"
+    excerpt: "AI Day agenda published - Phenom experts to demonstrate and explain AI's role for empowering organizations to hire faster, develop better and retain longer, while reaching new levels of efficiency. This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20230913537994/en/"
+    publishedDateTime: 2023-09-13T14:17:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/09/13/9880494.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+  - title: "Smartcat, the Essential Language AI Platform for the Global Enterprise, Launches Multilingual Generative AI Content Creator"
+    excerpt: "Smartcat, the essential language AI platform for the enterprise, today announced the release of its multilingual generative AI content creator, which allows each company to use its own proprietary content as the basis for new content development in all languages."
+    publishedDateTime: 2023-09-13T10:13:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/09/13/9879982.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "P08hdL2E4V/Y3OXC1eQP+Qx18xmh+llGdFKkjC8a6zASRO9YgPSTKo513PpbIQ5t9N6frGCp89I4e3o3NLw0aXXiN/qGB9dC7pl8UbQ3wcg9KyqqzyYm57oKhkmIAiVunkunhPxf8eZL/AeXgL0uio3DyH/3derDvu2ZKgEt6fmvBMn1hGm2962Ro6V0W/mp5SMoY2Od6RQGcSUnLpwN/+S/XNJec87akkAL1S9meRdNU12f3/j8pHgONDo+PqwF/hVjEGUnoOxmLTIkOrxc/Ycb1cEeiV58zlDnVdF4qW/XVPcM+hs10V0vY8I7pRF9eTVronPqSp4LOeZzwnODHzdWRN8Lu20BUyB2Vcc6Yyw=;KGScFNNNMNjip9cFgcOc+Q=="
 ---

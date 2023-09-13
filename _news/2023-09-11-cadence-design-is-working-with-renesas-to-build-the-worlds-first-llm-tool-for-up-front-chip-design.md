@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/karlfreund/2023/09/11/cadence-design-
 webUrl: "https://www.forbes.com/sites/karlfreund/2023/09/11/cadence-design-is-working-with-renesas-to-build-the-worlds-first-llm-tool-for-up-front-chip-design/"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,49 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "Renesas Taps Cadence For ChipGPT-Like AI-Powered Semiconductor Design"
+    excerpt: "Generative AI has once again proven itself capable of alleviating semiconductor design teams from large portions of iterative optimization and verification work."
+    publishedDateTime: 2023-09-13T20:42:00Z
+    webUrl: "https://www.forbes.com/sites/davealtavilla/2023/09/13/renesas-taps-cadence-for-chipgpt-like-ai-powered-semiconductor-design/"
+    ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2023/09/13/renesas-taps-cadence-for-chipgpt-like-ai-powered-semiconductor-design/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/09/13/renesas-taps-cadence-for-chipgpt-like-ai-powered-semiconductor-design/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6501fe561c9dae31705e700f/Renesas-SVP-And-CTO--Shinichi-Yoshioka/960x0.jpg?height=532&width=711&fit=bounds"
+        width: 711
+        height: 532
+        isCached: true
+  - title: "Cadence Design Announces Second-Generation IP For Edge AI"
+    excerpt: "AI is penetrating nearly every market and every device, causing leading microprocessor developers to rethink their SoC to enable fast AI execution at low power."
+    publishedDateTime: 2023-09-13T14:45:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2023/09/13/cadence-design-announces-second-generation-ip-for-edge-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/09/13/cadence-design-announces-second-generation-ip-for-edge-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/09/13/cadence-design-announces-second-generation-ip-for-edge-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64fceaa2f1c8b4da2a73b63c/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 604
+        isCached: true
+  - title: "Efabless Design Challenge Winners Advance the Power of AI in Chip Design"
+    excerpt: "The AI Generated Open-Source Silicon Design Challenges are a part of Efabless’ initiative to democratize the use of Generative AI for chip design. The initiative drives innovation and learning in the chip design community by: Advancing the capabilities of generative AI use for chip design and verification, as well as secure device implementation."
+    publishedDateTime: 2023-09-13T14:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/efabless-design-challenge-winners-advance-the-power-of-ai-in-chip-design-1032627625"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
 
 secured: "aW19dCzLmC+oUyN3oRMoroKE2FUQEQpGFqAvS7Ar//0h0A9F5a6QypSb3rZHoSL3Xviqzb3D48GeJVTCJ7ahusy0FxVWFhJON78wMnnmrC1XnZ60U3pP3RnDjuEq8MR7DMLNAZ+YGAGRXmtSucKM/kbFXAiZ6QWDMtK192GV54UPf8Un9uePhagEYVlJ+Nz+nthl8vaNKq8JYER/MHOsGYTk6+BIsXt2aw+UjXxWHLj6QN3Pr9hl/geuqjy60DlVkt8IXRLTxXzavCwIfK9fKrMSA1GI9krcDNk+KjIxzvMMDO4Fxq60Zuq0YrklZE5iDgJaDnqAVivOrzBzwDhCZtfAcgn9CjLwuOQ7Nmkbnak7q0OjQhJVpErTW7MTFbo+1EyO1YSXMIfVeZpAXUQcs7bx5/2vYnjKMMxtjQCWEpXucTmrVC9r04CyOs0x89muoHQneTeRg+5hVr2DuQECXv8Y0uktNCi2isuEUDihKm2P31Xng2fMwXoa78vCXUXjSPTrmAj/bNAO/yoMvs7V4A==;rETqGAtbB1ed521gOzx7zQ=="
 ---

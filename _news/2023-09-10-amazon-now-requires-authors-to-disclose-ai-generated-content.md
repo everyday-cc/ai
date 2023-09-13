@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/amazon-starts-requiring-writers-to-disc
 webUrl: "https://www.pcmag.com/news/amazon-starts-requiring-writers-to-disclose-ai-generated-content"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
+  - title: "As Cloud Giants Wrestle with AI-Generated Content, AWS Demands Kindle Notifications"
+    excerpt: "As cloud giants continue to wrestle with AI-generated content causing copyright issues, Amazon Web Services (AWS) is now demanding that self publishers on its Kindle platform indicate whether their new content comes from machines."
+    publishedDateTime: 2023-09-13T18:54:00Z
+    webUrl: "https://virtualizationreview.com/articles/2023/09/13/ai-content.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 28
 
 secured: "/FbRUL31Xm/b3eaMEwuC1TrOc79dL6wUrWfITn7MYb49V3xsCXY/gq6+rQeuB3ARs5U019MQDT9+Jqw5ZrwlVakmRtMdBYO74bHj645X7a6iJrXKu7TQh0BaxpYddSo5rkERcPtmzsqiLS/CHNpBbFzKhcL47WIQN+P6RfiLEIC4XZDYj5O3OzIpz2ZP3cqO7SjAVzSitYe/dVwwTEtr88uOW+XfqO67XUscOMwtr+pQPZqz+zrUrRpCYGkE4eqT0z+EYdLDrbNGiwCVwXngUgAlmDpnn9GS1nEALNKtaavKPW+UH3kt8m4Y/lrTI9ptVZzB2yXVCUEL86RLKZPYrmZrjhL8WhEBH4hFUaIRkI4A133eSR307ImSYS057BNkiXisN5ZP+OVYbrRIm9Hzne23xllJMyPrvOWJllfWZwrNQcucwsOYX/8vkH2Y286UkTpgG9wVxx4E2pZODaBpnWHRlFhqAEBkwBfHvpgTyBrLn6dtRnboej/zRBNId+U4K3SdzR2rftwL25aUehTVQA==;oaEkElLEk2mtUqyN4h/vFg=="
 ---
