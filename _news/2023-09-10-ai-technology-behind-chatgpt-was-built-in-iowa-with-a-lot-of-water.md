@@ -220,20 +220,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Forget ChatGPT—Law Firms Are Launching Their Own Gen AI Chatbots"
-    excerpt: "What a growing number of law firms have realized is that they can safely allow their lawyers to experiment with the underlying generative AI models—so long as it is through their own proprietary chatbots."
-    publishedDateTime: 2023-09-08T21:27:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/09/07/forget-chatgpt-law-firms-are-launching-their-own-gen-ai-chatbots/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/292/2023/08/AdobeStock_612806082-767x633.jpg"
-        width: 768
-        height: 633
-        isCached: true
   - title: "AI Miracle: How ChatGPT Cracked a Boy's Chronic Pain Mystery"
     excerpt: "Despite numerous efforts - including an orthodontic intervention to address a narrow palate and a brief foray into physical therapy prompted by concerns ... to the potential harmony between artificial intelligence and human perseverance, uniting in the ..."
     publishedDateTime: 2023-09-12T16:19:00Z

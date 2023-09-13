@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "China Eyes To Develop a New Finance-Oriented AI Model"
-    excerpt: "Following China's highly competitive AI market, big players like Xiaomi, Ant Group (Ant), and Tencent are investing in AI for finance."
-    publishedDateTime: 2023-09-08T21:59:00Z
-    webUrl: "https://techreport.com/news/china-eyes-to-develop-a-new-finance-oriented-ai-model/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 54
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2023/09/AI-Motherboard-scaled-1-scaled.jpg"
-        width: 2048
-        height: 1102
-        isCached: true
 
 secured: "lNnRDj8NUn9+18wsiomMDWKJDxDijqWjPHxYKD4udDLgH6roYJNoA2uRjaXxx33GHHPVDYUQB6KdSJYexO80GcNwc7c12guj4xuXtUjenBKvmtq2iARe/JlaztLWaXidOJKA6VHb54YJK1CLmIZ0ISD+ToUraPc37Ba3EAniDZoov3tSXpXI+TJmaGyLpOoB09IbYD6XRcHkcRBYJYDXNIpBu+bRGZ2GSjT2ifzf3rnTBHNBPzTA7WNUkVKCY/d7lM00JauIyyPJ5poj8QlBT4q+a+CboNFbL+XcmBosbO/JWB40ScpqtWyvr8pEGodCsK9gWuMniD1Ci4DeE/z0DcjsrAmGUcQhQ8ZuCI9IrGc=;95tvnqpICgm5lBbKs84EZw=="
 ---

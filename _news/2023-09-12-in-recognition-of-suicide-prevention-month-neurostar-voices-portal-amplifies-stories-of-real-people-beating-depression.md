@@ -23,22 +23,29 @@ topics:
   - AI
 
 related:
-  - title: "“Together”, a new app that uses voice recognition to detect anxiety and depression"
-    excerpt: "Many Americans suffer from having symptoms of depression and anxiety, but a new AI app can screen for mental health symptoms using only your voice on a smartphone."
-    publishedDateTime: 2023-09-08T21:37:00Z
-    webUrl: "https://www.nbcmiami.com/news/local/theres-no-health-without-mental-health-new-app-uses-ai-to-detect-anxiety-and-depression/3106742/"
-    ampWebUrl: "https://www.nbcmiami.com/news/local/theres-no-health-without-mental-health-new-app-uses-ai-to-detect-anxiety-and-depression/3106742/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/news/local/theres-no-health-without-mental-health-new-app-uses-ai-to-detect-anxiety-and-depression/3106742/?amp=1"
+  - title: "How Artificial Intelligence Is Bolstering Impressive Billion Dollar Growth Opportunities In Healthcare Sector - Financial News Media"
+    excerpt: "The implementation of AI/ML technologies in enhancing patient care, reducing machine downtime, and minimizing care expenses are some of the driving forces of artificial intelligence (AI) in healthcare market growth."
+    publishedDateTime: 2023-09-12T18:50:00Z
+    webUrl: "https://menafn.com/1107054723/How-Artificial-Intelligence-Is-Bolstering-Impressive-Billion-Dollar-Growth-Opportunities-In-Healthcare-Sector-Financial-News-Media"
     type: article
     provider:
-      name: NBC 6 South Florida
-      domain: nbcmiami.com
-    quality: 40
+      name: Mena FN
+      domain: menafn.com
+    quality: 23
     images:
-      - url: "https://media.nbcmiami.com/2023/09/app.jpeg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?802913"
+        width: 388
+        height: 250
         isCached: true
+  - title: "FinancialNewsMedia.com: How Artificial Intelligence is Bolstering Impressive Billion Dollar Growth Opportunities in Healthcare Sector"
+    excerpt: "FinancialNewsMedia.com News Commentary PALM BEACH, Fla., Sept. 12, 2023 /PRNewswire/ -- Artificial Intelligence (AI) and machine learning (ML) algorithms are being widely adopted and integrated"
+    publishedDateTime: 2023-09-12T13:24:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-09/60088174-financialnewsmedia-com-how-artificial-intelligence-is-bolstering-impressive-billion-dollar-growth-opportunities-in-healthcare-sector-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 3
 
 secured: "Wran9DtNVo2AF2gAvVvUTeWrt+GnpQ4BbUqMqdHGEGhpFssYu12s5AvCZ0uPDBtyBXkFAkuXpancRHkCeTFfVpj2Jn2MQcJs96Ls18n145HbxVPird0b8hBW88ACRdmCT9EnU2VpI3dqEwW+u8g765VNWsmnAV++RpHlSk3thy40piiLcD8z+4ipQOUOL7n3a9zgBqlSF/HyHSs+hHvxAHFCFN+25m2vSc8XZ+/XN3Y5gusD17wDd4eiXmpSz1ItD7wFrhT8LKyg+T4qUlcPO51LD2jLUpMAPRHuvFJrJPspT36VXO/kAYANdzXn0AOdv1pa6UDD77y8dgcroz09CZW5pJlhphnA16ou7somUiM=;WaZnVdRdtMmqxWj7fD52/A=="
 ---

@@ -43,14 +43,23 @@ related:
         width: 800
         height: 372
         isCached: true
-  - title: "Leading the Fintech Revolution: FORMS Syntron Presents Generative AI and Web 3.0 Financial Platforms"
-    excerpt: "Empowered by Microsoft, FORMS Syntron unleashes Banking Copilot and FINNOSafe to transform the financial sectorHONG KONG SAR – Media OutReach – 13 September 2023 – Today, a leading fintech thought leader,"
-    publishedDateTime: 2023-09-13T09:01:00Z
-    webUrl: "https://www.sinchew.com.my/news/20230913/mysinchew/4981684"
+  - title: "Samunnati joins FinTech finbots.ai to facilitate AI-based credit risk management"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-09-13T11:51:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/samunnati-joins-fintech-finbots-ai-to-facilitate-ai-based-credit-risk-management/"
     type: article
     provider:
-      name: sinchew
-      domain: sinchew.com.my
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 14
+  - title: "Leading the Fintech Revolution: FORMS Syntron Presents Generative AI and Web 3.0 Financial Platforms"
+    excerpt: "Empowered by Microsoft, FORMS Syntron unleashes Banking Copilot and FINNOSafe to transform the financial sector HONG KONG SAR - Media OutReach - 13 September 2023 - Today, a leading fintech thought leader,"
+    publishedDateTime: 2023-09-13T08:10:00Z
+    webUrl: "https://www.asiaone.com/business/leading-fintech-revolution-forms-syntron-presents-generative-ai-and-web-30-financial"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
     quality: 4
 
 secured: "y2CV9Uq+1eotnmHvKmJIOwaKZWpEf6v7ZZlZCeBBVccsICm0+IXnctxD+2Moi1VEDfMIBTYBcgIW+DaRW4r4g4pFs5MAdKnczzpV7PqNThkkykb/UGBzih6jdfx5Iwnvn+3cHT8YEDqmnwFBkXLygZlreCRvlEMmcZte6agVPBDt8s9hfKmuIiM7LXfrUapb46gB0Td8UKiRxziEQ7kca6qwyjSkupEw0m2DIDVw4mMvG/5wChuw0iZY5ck88SM99KUYltmzIsAp3GLcDGBkFFbG7RLgl9gamneIq7JOXCq9IcSs4zuOY8+WdYLwJgaew1cccJPG6UgZixhhE8nogurK7hRHQkuxnsTSiExsZUM=;tPPZRarN1Bg9XYNTUuWzTg=="

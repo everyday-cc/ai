@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Softserve Launches Generative Ai Lab"
+    excerpt: "Specialized lab expands SoftServe's AI/ML capabilities to accelerate Generative AI value discovery and real-world adoptionSINGAPORE - Media"
+    publishedDateTime: 2023-09-12T11:54:00Z
+    webUrl: "https://menafn.com/1107051285/Softserve-Launches-Generative-Ai-Lab"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?132894"
+        width: 309
+        height: 250
+        isCached: true
   - title: "Prosus Launches Generative AI Tool, PlusOne"
     excerpt: "Naspers-owned Prosus today announced the launch of PlusOne.io, a new all-in-one AI team member that is accelerating the performance of its global network of portfolio businesses, across fintech, food delivery, classifieds and edtech."
     publishedDateTime: 2023-09-12T17:36:00Z

@@ -30,38 +30,56 @@ images:
     isCached: true
 
 related:
-  - title: "Google Provides More Details On Its Cloud Generative AI Play At Next Event"
-    excerpt: "Ranked Industry Analyst Patrick Moorhead digs into the announcements about generative AI and other developments from the recent Google Cloud Next event."
-    publishedDateTime: 2023-09-12T21:23:00Z
-    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/09/12/google-provides-more-details-on-its-cloud-generative-ai-play-at-next-event/"
-    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/09/12/google-provides-more-details-on-its-cloud-generative-ai-play-at-next-event/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/09/12/google-provides-more-details-on-its-cloud-generative-ai-play-at-next-event/amp/"
+  - title: "Cadence Design Announces Second-Generation IP For Edge AI"
+    excerpt: "AI is penetrating nearly every market and every device, causing leading microprocessor developers to rethink their SoC to enable fast AI execution at low power."
+    publishedDateTime: 2023-09-13T14:45:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2023/09/13/cadence-design-announces-second-generation-ip-for-edge-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/09/13/cadence-design-announces-second-generation-ip-for-edge-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/09/13/cadence-design-announces-second-generation-ip-for-edge-ai/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6500d13862dfb07c0e5e700f/0x0.jpg?format=jpg&width=1200"
-        width: 902
-        height: 444
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64fceaa2f1c8b4da2a73b63c/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 604
         isCached: true
-  - title: "Today in AI: Meta is developing a new AI system, Google rolls out AI-generated search enhancement outside US, and more"
-    excerpt: "On August 31, the company expanded its search feature powered by SGE (Smart Global Engine) to two other regions, namely India and Japan. These two countries are noteworthy for being the first to have access to the new AI extension outside of the US. More here."
-    publishedDateTime: 2023-09-11T04:40:00Z
-    webUrl: "https://www.moneycontrol.com/news/trends/today-in-ai-meta-is-developing-a-new-ai-system-google-rolls-out-ai-generated-search-enhancement-outside-us-and-more-11345781.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/trends/today-in-ai-meta-is-developing-a-new-ai-system-google-rolls-out-ai-generated-search-enhancement-outside-us-and-more-11345781.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/today-in-ai-meta-is-developing-a-new-ai-system-google-rolls-out-ai-generated-search-enhancement-outside-us-and-more-11345781.html/amp"
+  - title: "Stability AI, gunning for a hit, launches an AI-powered music generator"
+    excerpt: "A year ago, Stability AI, the London-based startup behind the open source image-generating AI model Stable Diffusion, quietly released Dance Diffusion, a model that can generate songs and sound effects given a text description of the songs and sound effects in question."
+    publishedDateTime: 2023-09-13T11:33:00Z
+    webUrl: "https://techcrunch.com/2023/09/13/stability-ai-gunning-for-a-hit-launches-an-ai-powered-music-generator/"
+    ampWebUrl: "https://techcrunch.com/2023/09/13/stability-ai-gunning-for-a-hit-launches-an-ai-powered-music-generator/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/13/stability-ai-gunning-for-a-hit-launches-an-ai-powered-music-generator/amp/"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 35
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/05/Today-in-AI-cover-image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1352457907.jpg?resize=1200,752"
+        width: 1200
+        height: 752
         isCached: true
+  - title: "Efabless Design Challenge Winners Advance the Power of AI in Chip Design"
+    excerpt: "The AI Generated Open-Source Silicon Design Challenges are a part of Efabless’ initiative to democratize the use of Generative AI for chip design. The initiative drives innovation and learning in the chip design community by: Advancing the capabilities of generative AI use for chip design and verification, as well as secure device implementation."
+    publishedDateTime: 2023-09-13T14:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/efabless-design-challenge-winners-advance-the-power-of-ai-in-chip-design-1032627625"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
+  - title: "5 Cool Chip Solutions For Edge AI"
+    excerpt: "CRN rounds up five cool edge AI solutions from AMD, Axelera AI, Intel, Nvidia and SiMa.ai for the growing number of IoT devices entering the world."
+    publishedDateTime: 2023-09-11T18:33:00Z
+    webUrl: "https://www.crn.com/news/internet-of-things/5-cool-chip-solutions-for-edge-ai"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 34
 
 secured: "7DhoQVWMMiinxjeNeZs9qLsw/j5pTa4XS4TsSw3v7b9itzMCFGU6aBwqwd17PUO5YAh8Haeep1Nen3r7KdRV7WKelYeiNOA9y/l/HctJ8SQuBLUJyOQPHCYw9jvXVxFyUX94+nMXwzoXHPmDsRZwiW8x/L8cqgismuBMqvT5b2K85hIIvLJ2q6HznjI6u0QBYWkTdu9fg6uB5I0BD0mstr61P7ZASpSLqZkKgEJibt8RsF0S2ILHSvUB/6ZBD0Cu7kXrYvJpWGSgmWwyoLxxmHAETMUxLdYzzY3DwaHN6Cl1fL29FvhZ5zRosr+Rhoeda84ZK5V0ReJDY8cofdYr+yKHhYxfeCjMUAK9l8kDaqnNa3JGlcpzIeD1cnbwUCcZO2A3/VX7+xu98pedw2CrRHrNFN1EuavnX3TRGpoV78Q3SGpth2yVNSKfv7N5ToWycQS2cpd/F96kv3arll5HXPoOMlZe4TsYvX3G+nSr4z6qnqKBEjQdE3ZUI80+gV81LBcqRuL5juaABfXB0BMekA==;YrFeQQngPwjAFpQnYBTnsw=="
 ---

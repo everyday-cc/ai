@@ -6,7 +6,7 @@ publishedDateTime: 2023-09-13T04:56:00Z
 originalUrl: "https://www.washingtonpost.com/politics/2023/09/13/schumer-artificial-intelligence-elon-musk-senate/aa38d8cc-51ea-11ee-accf-88c266213aac_story.html"
 webUrl: "https://www.washingtonpost.com/politics/2023/09/13/schumer-artificial-intelligence-elon-musk-senate/aa38d8cc-51ea-11ee-accf-88c266213aac_story.html"
 type: article
-quality: 29
+quality: 9
 heat: -1
 published: false
 
@@ -16,12 +16,6 @@ provider:
 
 topics:
   - AI
-
-images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UTL6RKSR5II65LGPRDBGMIJ2VQ_size-normalized.jpg&w=1440"
-    width: 1440
-    height: 960
-    isCached: true
 
 related:
   - title: "Elon Musk and Mark Zuckerberg will talk AI rules in Senate forum on Wednesday"
@@ -65,7 +59,16 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 41
+  - title: "In closed forum, tech titans to give senators advice on artificial intelligence"
+    excerpt: "Senate Majority Leader Chuck Schumer has been talking for several months about accomplishing a potentially impossible task: Passing bipartisan legislation within the next year that both encourages the rapid development of artificial intelligence and"
+    publishedDateTime: 2023-09-13T06:47:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/closed-forum-tech-titans-give-senators-advice-artificial-103142197"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 13
 
-secured: "Pacc8wCp1w8rowIFpgQEdjE0cwe63QtI1YuCBamJJLOdJoggcECKeAQ/PgdpfrOAFdIdIE9xlnNq7RI1KJ8oOrnrMgJxqMnwWFwWNT+yrkt6G8SiRjV75R5+Uet6BOlfxDiqLCnrrLUGKQXX5f+9K8k9JQk8zzvdcJHNrapWUIyMw5d2S96Vad9i0CaZUlTpX99OpVu+cmH7mjuY4fm2r0qCaEbf2GXaU17wkVvx510rlCBNZFUBBLHQWLpg9kJ7pmW5REY0feW7H3mCgj50buJETDin6wxxVT7oTiqB1fg8P3st47kwYjL6v/s+ztPannteL8kUyaiu8OlQmM43b6SxMDGnh6WaD5vk59e57uU=;9QQzT6a4FRTaagAmEheqhA=="
+secured: "ul42akHMrEUQTpqMGlfoZW4koBcqaVvPm32PVoGl7aQsPfEBYZuEct6aG1oNsSHH1E8eS5muBqCkjZZUUk5FNDj4RRPkGl4IC5N9/mdNqZPOwBnGL76bawW+X5hyiYRaZto/YfCmCBk9s8uZam+RZvftB3NC5ZWQksqdBEowwchyLpIhJLHBuiSogFBADcfbFH/irOhVykzm7k6RjxnL5aangxgo1GcWaFmY8gVZZBWsElVpD9vSz5fAyKccsWas0TIpAHPAn21CuH86XhXs5yXCgXmI46EUxbaUclSUKK9yonMiKzKSl4v0x5lqbtNqyWbosn14lH5HxuMCuBfPzuVjkm4L6GedmyiXBT3gjA1rRP3AYMN04JDS1XFX1kk/QlVrYcKpHnytKh0ij3Sh9os5L6naq3cFH6E0seQ/0+K8TgB1OuQUk9YCFwWG/p92eyoctpllWFY95x5oqWb56SIIvvOfZgNpIDsBz8n5cduKeaCBY5XMfXnakylEFj2Jvljt11fcKSpq9+4dbxEvvA==;XIIOldu/GPi1gkU0s64Fsg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/ascento-guard-patrolling-security-robo
 webUrl: "https://thenextweb.com/news/ascento-guard-patrolling-security-robot"
 type: article
 quality: 86
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "Ascento rolls out autonomous security patrolling robot with new $4.3m funding round"
+    excerpt: "Labour shortages have affected large parts of the world and various industries.The security industry is also feeling the crunch, with many countries around the world facing a 52% staff shortage"
+    publishedDateTime: 2023-09-13T15:38:00Z
+    webUrl: "https://www.sourcesecurity.com/news/ascento-rolls-autonomous-security-patrolling-robot-co-1694595066-ga-npr.1694596615.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/ascento-rolls-autonomous-security-patrolling-robot-co-1694595066-ga-npr.1694596615.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/ascento-rolls-autonomous-security-patrolling-robot-co-1694595066-ga-npr.1694596615.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 50
 
 secured: "LUc1w/tJ8aD65zadxfYbFuz2CQJ6S1GMRQxuJfhWo++OL+Gl7KgPFh9Q4/UMECH92Evdpuys545Uoohvkq7f6Nv3JoQ4BxWwu21YRA+wYCVNjYvgteLSfoKzpA5nfmjUKdXs2R4lXrSImOaI70Rpx2wEntF9HQtcEM+YD4Jd1StubMBDy6Ex4692l9wM27H0M1w70XYp5ZK2oH5SrPTjb1ta5AsG74zhurwaVjhbns3sNi3hxHXMrIl7LnkFEA7d00NR9Ob8rIUJ/yDn6AB3FfOC2U6668lRXI9bWujOfjgFL8i/ghKtLVH6jeOI0XVO9y4zRNdjWYrohk7lDQZVT77uvljYmLxH3sxL7zywSeEUDbFrukEclS/e0dznCjeDNjW59ZKnxyITY4WHPVfCxI6I3SR63S1ARkZRFpzU+hZ7i6ZtP2sEnqZNnGY8n33+Jz659hWkbiIxqcbp0O0pGva0KA1C8gnvLm/QQUVTcopMHUQqY2v7HaqKW9nXXobIqWQ12l9eJawftRW/hNbKzw==;aMdBh/V9RCVITbz6vR7wyQ=="
 ---

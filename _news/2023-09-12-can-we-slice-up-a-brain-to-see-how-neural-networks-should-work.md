@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnwerner/2023/09/12/can-we-slice-up-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/09/12/can-we-slice-up-a-brain-to-see-how-neural-networks-should-work/amp/"
 type: article
 quality: 104
-heat: 105
+heat: 104
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 868
     isCached: true
 
-secured: "6PRaD5MCUuMDApk2BwfnFl71OIsbYMlhP8dYK1HN2FLQzKUELphF3H1hW/oUykPEyQbd7WEp/D1b897kphzZ2ovKWLS9fQHMMv0f/VjOhADdBr15MnFn7GMt/tUl8Eqntx+eXqzxKiZw4lS2EWk7EAXKPknIszPlLWoCGPLGUeRGNFrgkj8qILvst+xk5XYBYi5bAtwo8gwlnTI7oYNk44Djw8NWFg6D5oV/Ky+J37MPRkDME4dFieXRO32SN09G8Q3meCe3cLH+5C1KIHvcZRYv6IFdHEnV2q72ovuQzPZi2FvikbYoQu2B2lLGHRLGaMLmufwFpI2smvTnyKQ57k1RgG2q7+JY4hdRhYV5brg=;6yamEhG38CoGVe6zlLdcTw=="
+secured: "/GHKx4srEN85lqKB0o43vSG1YACvPPHS6+QaQaZpixAfBqd00rd9mr2gFbFuKasARYN24lsLOu9+uNlv6gs0my4drVPEAdfrpTmO3ebt6qc/XZaHlqQFPH7aEm0X1XEJ3s6mXaKZuHVgS5/IBOrN+FtH8SaN6c9jvW69IOC7xYaiMahPwjzeUJiIhg20VTiuCWK0gV2tT6DQKmputyTX0xlrNx5Pm0BXYriexoSkRSHVFwRffFIrAP4qm/TkfDSMZ0ReTE+0uGB7019stVc2QbX3lRegSbGtg51erpDTEJ7mBeuBM+b4FbSZPQIP7rOktgKGIw8lXhDkjrElmw0pWkm4s6LxgUUHOI56xMXWCkQ11qrP3z6EiszrqQ6UbRq3NZ1pdJGNmSqbzQBjY3BXHijTETrfIHHH9CVCKJIGuQdqjsyFlfuiWTFoGM0zW5tIu78nv37TJ0srgjekM/V3qpymZB9G8ttKmiDaH7a2Ew3rCjltpPnp5btO6AbOzbH6107ZRuMF4SgCWg95dy5oMg==;EiQprrMZke8wgFgR43M12g=="
 ---
 

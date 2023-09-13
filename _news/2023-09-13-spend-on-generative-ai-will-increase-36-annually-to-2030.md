@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forrester/2023/09/12/spend-on-generativ
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/09/12/spend-on-generative-ai-will-increase-36-annually-to-2030/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 717
     height: 538
     isCached: true
+
+related:
+  - title: "The Making of a Generative AI Powerhouse"
+    excerpt: "Adobe Firefly —a family of creative models that reimagines how content is designed, as well as how users and computers interact—is the next step in the company’s AI evolution. Says Ely Greenfield, CTO, Digital Media at Adobe, “The nature of Firefly’s advancements puts it in a category all its own.”"
+    publishedDateTime: 2023-09-13T14:01:00Z
+    webUrl: "https://www.wired.com/sponsored/story/the-making-of-a-generative-ai-powerhouse/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 69
+    images:
+      - url: "https://media.wired.com/photos/650099e7c5b3862d31e27557/191:100/w_1280,c_limit/Adobe_WIRED_Firefly_Article_2000x1333%20(1)%5B62%5D.png"
+        width: 1280
+        height: 670
+        isCached: true
 
 secured: "EXwaBOnBPWjr7a3jlq84RvMzQ9Bum2q1L9OYFxWwim6Fy1TAL9J2+udtP1qvuedN98x4srKdaQ5mM4rdOYl7R2pRo30WyP1DAVm0DqXBAyzfP6HKu5eQ6nv3NfsEbioZ9QYs+NX4hjk8p0w1LVFyfh9KBiEJP13UAPZS5VNixZfZt3JB5WHIShGaZOUbu91GfjU1OvAlVfCoNOiepzyiFKz/0BH+sIUJhlwgZcoTHTihREGhLCDkcqlgur3O9A2ul+svmeU4y2P6EpXvPEr18/jwgfwvYzS4ABbBbVgZ/RSolLuaZiGJCU5k6n5MQJYn8j/kV1fqJNo02RXBfwfMcMZ9YPL1G3Mr0uMcBD6RO07Tuunr/eNFKiH31FLQIxztWRkg1+4sjKRBvBHpQABPf/hT/cx0/V5OFZqeGI9td9HHljSZbVWyX/bAU9syp2gvWe2r5xAndbGWMo2yBPRSez4L7pYNhte6jIvoJ/yQ+1OCI64It7QArdnahZYKt+m1ZhBorwiwHsRpVOxTw4d9IQ==;T/EvH3cr+Z/IIsBTeVaN5Q=="
 ---

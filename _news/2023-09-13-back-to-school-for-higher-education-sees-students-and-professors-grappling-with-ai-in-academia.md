@@ -75,6 +75,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Adobe’s Firefly AI art tools go live, but with a credit plan"
+    excerpt: "Adobe has brought its Firefly generative AI tool out of beta, but with a complicate credit plan that will charge you free \"credits\" that will top up every month."
+    publishedDateTime: 2023-09-13T15:44:00Z
+    webUrl: "https://www.pcworld.com/article/2067182/adobe-fireflys-ai-tools-go-live-but-with-a-credit-plan.html"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 69
+    images:
+      - url: "https://www.pcworld.com/wp-content/uploads/2023/09/Adobe-Firefly-home-page.png?w=1024"
+        width: 1024
+        height: 611
+        isCached: true
   - title: "How To Stay Afloat In The AI Surge"
     excerpt: "AI isn’t just a fleeting trend – AI is becoming more and more intertwined with our workflows. This rapid evolution offers immense technological benefits but has also introduced considerable challenges,"
     publishedDateTime: 2023-09-12T13:00:00Z
@@ -101,6 +115,15 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
+    quality: 47
+  - title: "Governments race to regulate AI tools"
+    excerpt: "Rapid advances in artificial intelligence (AI) such as Microsoft-backed OpenAI's ChatGPT are complicating governments' efforts to agree laws governing the use of the technology."
+    publishedDateTime: 2023-09-13T12:30:00Z
+    webUrl: "https://www.reuters.com/technology/governments-race-regulate-ai-tools-2023-09-13/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
     quality: 47
   - title: "Say hello to Coach AI"
     excerpt: "Coursera chief executive officer Jeff Maggioncalda wants to give you an AI-generated personal tutor. The online learning platform has recently launched Coach, a chatbot tool that plugs into ChatGPT. It answers questions by sifting through and summarising Coursera’s entire curricula."

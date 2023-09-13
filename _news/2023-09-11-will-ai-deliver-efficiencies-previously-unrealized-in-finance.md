@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/09/11/will-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/09/11/will-ai-deliver-efficiencies-previously-unrealized-in-finance/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "China Eyes To Develop a New Finance-Oriented AI Model"
-    excerpt: "Following China's highly competitive AI market, big players like Xiaomi, Ant Group (Ant), and Tencent are investing in AI for finance."
-    publishedDateTime: 2023-09-08T21:59:00Z
-    webUrl: "https://techreport.com/news/china-eyes-to-develop-a-new-finance-oriented-ai-model/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 54
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2023/09/AI-Motherboard-scaled-1-scaled.jpg"
-        width: 2048
-        height: 1102
-        isCached: true
   - title: "Ant Group unveils finance-focused AI model"
     excerpt: "Ant Group, the owner of one-billion-user payment app Alipay, unveiled a financial-purpose large language model along with two AI-powered wealth management ... according to the fintech giant. Zhixiaobao 2.0, which is designed to answer financial-related ..."
     publishedDateTime: 2023-09-11T11:24:00Z

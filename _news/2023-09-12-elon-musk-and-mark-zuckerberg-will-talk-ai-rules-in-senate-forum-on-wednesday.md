@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/elon-musk-and-mark-zuckerberg-
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/elon-musk-and-mark-zuckerberg-will-talk-ai-rules-in-senate-forum-on-wednesday-296d6ffe"
 type: article
 quality: 84
-heat: 115
+heat: 126
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 41
+  - title: "In closed forum, tech titans to give senators advice on artificial intelligence"
+    excerpt: "Senate Majority Leader Chuck Schumer has been talking for several months about accomplishing a potentially impossible task: Passing bipartisan legislation within the next year that both encourages the rapid development of artificial intelligence and"
+    publishedDateTime: 2023-09-13T06:47:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/closed-forum-tech-titans-give-senators-advice-artificial-103142197"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 13
   - title: "Tech titans will give senators advice on artificial intelligence in a closed-door forum"
     excerpt: "Senate Majority Leader Chuck Schumer has been talking for months about accomplishing a potentially impossible task: passing bipartisan legislation within the next year that encourages the rapid develo"
     publishedDateTime: 2023-09-13T04:56:00Z
@@ -63,12 +72,7 @@ related:
     provider:
       name: The Washington Post
       domain: washingtonpost.com
-    quality: 29
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UTL6RKSR5II65LGPRDBGMIJ2VQ_size-normalized.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
+    quality: 9
 
 secured: "LSGt6WhoYJ5z9PQSHRtajsVLXrap1Ga/CgN5/pBR1bvjLoQPYoElVlOniMSCTGrQ8BYR73B2tcSDI38iMAi/uQJQRGfFxCo1Sr4OLcxORG8mV3FK4OOPvFnJ0UD8HZBo3MGHs+AUQaoEGUfqyBGHSwMjTLeS6PavTT4cCgzWO6/95kykKBmgJLxaJzxA+Au947nuIQ85ahgFATE41JyrXJrvJUj/NFMeB+kR2uoRQ2+I6oV3g2kv67BphK+NQ00Zv60Mg2pnkn1CVub4zhRdziIt0w025lvgVf1yE8ucqwgQOHWU8gQttvEoFfZCrP64/AP5V5HtdxX9ozn3jxtUc6sgTgqhkSr4lWxpwTT5b7U=;UatdMT9nVvR4SRDmfikvQA=="
 ---

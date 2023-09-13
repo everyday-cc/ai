@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2023/09/13/stability-ai-gunning-for-a-hit-lau
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/13/stability-ai-gunning-for-a-hit-launches-an-ai-powered-music-generator/amp/"
 type: article
 quality: 87
-heat: 217
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -30,156 +30,57 @@ images:
     isCached: true
 
 related:
-  - title: "Here’s how we raised a Series B for our AI startup during a downturn"
-    excerpt: "Not so fast. Already, the headline-grabbing funding rounds for generative AI companies are beginning to slow, and with almost every startup calling itself an “AI company,” it will become more difficult for true AI startups to stand out. For founders ..."
-    publishedDateTime: 2023-09-12T14:30:00Z
-    webUrl: "https://techcrunch.com/2023/09/12/how-we-raised-a-series-b-for-our-ai-startup/"
+  - title: "Cadence Design Announces Second-Generation IP For Edge AI"
+    excerpt: "AI is penetrating nearly every market and every device, causing leading microprocessor developers to rethink their SoC to enable fast AI execution at low power."
+    publishedDateTime: 2023-09-13T14:45:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2023/09/13/cadence-design-announces-second-generation-ip-for-edge-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/09/13/cadence-design-announces-second-generation-ip-for-edge-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/09/13/cadence-design-announces-second-generation-ip-for-edge-ai/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1054956204.jpg?resize=1200,800"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64fceaa2f1c8b4da2a73b63c/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 604
+        isCached: true
+  - title: "How generative AI changes IT operations"
+    excerpt: "Generative AI can provide valuable analysis and insights to IT operators. But what about data security, reliability, workflow integration, and the conditions needed for successful deployment?"
+    publishedDateTime: 2023-09-11T09:34:00Z
+    webUrl: "https://www.infoworld.com/article/3706370/how-generative-ai-changes-it-operations.html"
+    ampWebUrl: "https://www.infoworld.com/article/3706370/how-generative-ai-changes-it-operations.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706370/how-generative-ai-changes-it-operations.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
+    images:
+      - url: "https://images.idgesg.net/images/article/2018/02/artificial_intelligence_ai_virtual_assistant_machine_learning_autonomous_automation_virtual_reality_vr_digital_mind_brain_thinkstock_892854798-100749920-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
         isCached: true
-  - title: "Stability AI debuts Stable Audio bringing text to audio generation to the masses"
-    excerpt: "Stability AI today announced the initial public release of its Stable Audio technology, providing anyone with ability to use simple text prompts to generate short audio clips."
-    publishedDateTime: 2023-09-13T08:14:00Z
-    webUrl: "https://venturebeat.com/ai/stability-ai-debuts-stable-audio-bringing-text-to-audio-generation-to-the-masses/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/09/robot-making-music.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "'Sonic DNA' is composed for a finance firm to generate AI-powered branding"
-    excerpt: "This is an example of 'Sonic DNA' which digital agency amp composed for a major financial firm, so that AI could generate multiple musical compositions from it."
-    publishedDateTime: 2023-09-11T19:51:00Z
-    webUrl: "https://www.bbc.com/news/av/business-66781639"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 62
-  - title: "Pilot Trading Launches Innovative AI Signals Only Mode for Traders"
-    excerpt: "- Brokerage Compatibility: The Pilot Trading app in Signals Only Mode, stands independently, allowing you to continue using your preferred brokerage, ensuring a hassle-free and flexible trading experience."
-    publishedDateTime: 2023-09-12T11:54:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/pilot-trading-launches-innovative-ai-signals-only-mode-for-traders-1032622845"
+  - title: "Efabless Design Challenge Winners Advance the Power of AI in Chip Design"
+    excerpt: "The AI Generated Open-Source Silicon Design Challenges are a part of Efabless’ initiative to democratize the use of Generative AI for chip design. The initiative drives innovation and learning in the chip design community by: Advancing the capabilities of generative AI use for chip design and verification, as well as secure device implementation."
+    publishedDateTime: 2023-09-13T14:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/efabless-design-challenge-winners-advance-the-power-of-ai-in-chip-design-1032627625"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 49
-  - title: "AI-generated music used for business branding"
-    excerpt: "This is an example of AI-generated music, created by amp's Sonic Hub tool using 'Sonic DNA', which was composed for a finance client."
-    publishedDateTime: 2023-09-11T19:26:00Z
-    webUrl: "https://www.bbc.com/news/av/business-66781641"
+    quality: 63
+  - title: "5 Cool Chip Solutions For Edge AI"
+    excerpt: "CRN rounds up five cool edge AI solutions from AMD, Axelera AI, Intel, Nvidia and SiMa.ai for the growing number of IoT devices entering the world."
+    publishedDateTime: 2023-09-11T18:33:00Z
+    webUrl: "https://www.crn.com/news/internet-of-things/5-cool-chip-solutions-for-edge-ai"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 47
-  - title: "Senate tees up AI hearings"
-    excerpt: "Welcome to The Hill’s Technology newsletter{beacon} Technology Technology   The Big Story Senate to take on AI rules The Senate will set their sights on artificial intelligence"
-    publishedDateTime: 2023-09-08T22:52:00Z
-    webUrl: "https://thehill.com/newsletters/technology/4195086-senate-tees-up-ai-hearings/"
-    ampWebUrl: "https://thehill.com/newsletters/technology/4195086-senate-tees-up-ai-hearings/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/newsletters/technology/4195086-senate-tees-up-ai-hearings/amp/"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 39
-  - title: "Meta is developing a much more powerful AI"
-    excerpt: "Meta is reportedly working on a new AI system intended to be as powerful as the most advanced model from OpenAI."
-    publishedDateTime: 2023-09-11T04:52:00Z
-    webUrl: "https://techcentral.co.za/meta-is-developing-much-more-powerful-ai/231341/"
-    type: article
-    provider:
-      name: TechCentral
-      domain: techcentral.co.za
-    quality: 39
-    images:
-      - url: "https://techcentral.co.za/wp-content/uploads/2021/12/meta-platforms-2156-1120-1024x532.jpg"
-        width: 1024
-        height: 532
-        isCached: true
-  - title: "Softserve Launches Generative Ai Lab"
-    excerpt: "Specialized lab expands SoftServe's AI/ML capabilities to accelerate Generative AI value discovery and real-world adoptionSINGAPORE - Media"
-    publishedDateTime: 2023-09-12T11:54:00Z
-    webUrl: "https://menafn.com/1107051285/Softserve-Launches-Generative-Ai-Lab"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?132894"
-        width: 309
-        height: 250
-        isCached: true
-  - title: "Swoop Launches Predictive AI Adherence Targeting"
-    excerpt: "First-of-its-kind targeting predicts which patients will become non-adherent in the next 30 daysNew offering leverages Swoop’s best-in-class machine learning and artificial intelligenceNEW YORK--(BUSINESS WIRE)--Swoop,"
-    publishedDateTime: 2023-09-12T15:01:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2023-09-12/swoop-launches-predictive-ai-adherence-targeting"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 39
-    images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
-        isCached: true
-  - title: "How artificial intelligence could scrap humanity’s ability to lie"
-    excerpt: "“Lying tends to have a high negative effect: you feel a lot of guilt, shame or anxiety that you might get caught. And those negative affective words also pop out into your speech when you lie,” Hyde said."
-    publishedDateTime: 2023-09-11T20:21:00Z
-    webUrl: "https://www.boisestate.edu/news/2023/09/11/how-artificial-intelligence-could-scrap-humanitys-ability-to-lie/"
-    type: article
-    provider:
-      name: Boise State University
-      domain: boisestate.edu
-    quality: 37
-    images:
-      - url: "https://wpwww-prod.s3.us-west-2.amazonaws.com/uploads/sites/164/2023/09/report-3183779_640.jpg"
-        width: 640
-        height: 488
-        isCached: true
-  - title: "Funding to generative AI seed startups doubled in Q2"
-    excerpt: "So far, at least, the answer is the latter: the true test for any technology is not only when the major tech companies start latching on ... across 48 seed stage deals alone in the generative AI space, nearly doubling the amount of money from the previous ..."
-    publishedDateTime: 2023-09-08T19:12:00Z
-    webUrl: "https://vator.tv/news/2023-09-08-funding-to-generative-ai-seed-startups-doubled-in-q2"
-    type: article
-    provider:
-      name: vator
-      domain: vator.tv
-    quality: 17
-  - title: "UK researchers start using AI for air traffic control"
-    excerpt: "UK researchers have produced a computer model of air traffic control in which all flight movements are directed by artificial intelligence rather than human beings. Their “digital twin” representation of airspace over England is the initial output of a £15mn project to determine the role that AI could play in advising and eventually replacing human air traffic controllers."
-    publishedDateTime: 2023-09-11T10:00:00Z
-    webUrl: "https://www.ft.com/content/783a9d91-cce3-4177-bfe0-5438aa3b892a"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
-  - title: "Smartcat, the Essential Language AI Platform for the Global Enterprise, Launches Multilingual Generative AI Content Creator"
-    excerpt: "Smartcat, the essential language AI platform for the enterprise, today announced the release of its multilingual generative AI content creator, which allows each company to use its own proprietary content as the basis for new content development in all languages."
-    publishedDateTime: 2023-09-13T10:13:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/09/13/9879982.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: CRN
+      domain: crn.com
+    quality: 34
 
-secured: "gWk+HSraM0+bVmLaRWuu1rrsHv7q3ej/bjbLvEx1gtajTjRMaRV/GuX4MA4zEznHbbKpFXSx93yfd7zr0XMd7p+F1jTwOJpEtG234+Q3o1LibnXybEE9y5Fcnok0vwrjUR5sOcoXWYagKMnPJGnqmDDtoTea072byEIdHi5RSpv0hFd/c/cjTobUmuZz/56q3bwHJVghGDSDEoAAAA7Q9JPGv7R2B/73JD2z6t6kFikoGJLpVAWP6kFBvQa6OqajB/N55RppagbwF76WRnk1Yo2zjpFgG6QfyWXRwk3eO7+6hJyeAgoe8zmV10S89HydxblQqaLwWm+4sfFBqDXPKVlXOPfgzZIDJqAotliZpB4=;kRhXM6pcmsrRjx/j/ulKag=="
+secured: "rI+qVOcZuGyEYJSsyqKa1YIFfh3sXJqE1rbl0CCUEbdDcKl06mH/l5kfjKio0KA3oNQ5RU+l+h8FajJIFeSPSZU0qPdjC9/+fggMfGSGv27pSnoikheKO+HtQb+ZhNjizB8doqv1piTJvMVL3QWcCwYMmBmm8PHeYP6XkTM3Ik5KX+nFRzZ0OOG31mWROcqCiRWrMl2yawhrobYyAduKI4bVwXTHb+B5GC0URZNUS5zs746dU2lnUMizUI3ZEA6fMH0N0j4gDDGq4Raw8f/dO+O2WhT+5Ap/jdi+jceQGrQk9Hmc3OqCoPgGj+deDTcRMgadHrJ5+HqK2rbh7XdhUQCG7hJmJqIOvan3MDDNwhmRmpo6vysXIFUb9bJnJjVsVuoWIvlXvQt23Biy9zWAxE+bVbZP1hkEhM1O5BPZaOJMtDPe7BZ7oJMLnNaVpQD6yzwVSMVefC+CeOYc7ynC8zyDWh/6FyKSqcKiiy6xlvyhdcNF4kC9VbrE9b010SASVhi5uDkp/8XMdgysHxjL+A==;kelsQ2emu2DGZ45MnAXB5Q=="
 ---
 

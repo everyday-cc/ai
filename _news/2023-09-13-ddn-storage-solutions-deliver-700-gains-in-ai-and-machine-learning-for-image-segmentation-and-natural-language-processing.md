@@ -6,8 +6,8 @@ publishedDateTime: 2023-09-13T10:26:00Z
 originalUrl: "https://technews.tmcnet.com/news/2023/09/13/9879990.htm"
 webUrl: "https://technews.tmcnet.com/news/2023/09/13/9879990.htm"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -19,6 +19,7 @@ topics:
   - AI
   - Machine Learning
   - Natural Language Processing
+  - AI in Finance
 
 images:
   - url: "https://mma.prnewswire.com/media/53574/datadirect_networks_logo.jpg"
@@ -26,17 +27,6 @@ images:
     height: 275
     isCached: true
 
-related:
-  - title: "5 Cool Chip Solutions For Edge AI"
-    excerpt: "CRN rounds up five cool edge AI solutions from AMD, Axelera AI, Intel, Nvidia and SiMa.ai for the growing number of IoT devices entering the world."
-    publishedDateTime: 2023-09-11T18:33:00Z
-    webUrl: "https://www.crn.com/news/internet-of-things/5-cool-chip-solutions-for-edge-ai"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 34
-
-secured: "k3CXil6rTp5yVTFvwoUNrI7kT77aYjyhRu02flsdN7SsjJ9JnjVTku+mK+l+dj5dnsrQNq4jcpKokwcTXJQVz9J3rj82zYg7FprI4/GdY2XC0TZXhCdi9SWzdVX7IJ0YahFzb2EfUV34mkKHbpy5DYtFup/gNntX0eCKT0dlTVH7A0q13tqw+GpoAHv0XQwRdFO/x/Xa2sQ367FiXHt417qgSM4BsGU7V9z3DFSyvGoeni91KrMvolt3qz2BChjU9amgz5g1K90Rt2wX+gc2qF/4AA5aC8Lne84SrphoHOCI4nfGER59b6cazu8kkUA2voe3F5CQOL3XgU37fxRXHSXCyeGotD35kwyl9pgr+D4=;jtleMN41V110zDSaHMSXGg=="
+secured: "CzZjk3i0ki8W9CEg/oc2fNgshcRBrFRthVNsLne8sbhcQrUzVRgfwIWgOSVYZ/ToyYlm0ZbG7FuiDIcWnGx9zcHAJDUpqOvja/GfD29hF02sziLysKDd5TVydvZbl30AUg0DsadsnOkebL9SDFbA9oS3iFAOum5XHj8YtbVLHv4LoT7kHOSZmsordWrSVMCfRoveWO3V5+AAd9V1drRlg9BTWceqse2nYldNuMS9dqlhQrcVF1kUMcIf+Vv8wlYO+NaJLlqGPaDerrVIgwMIbLRJJKzIGAsLlsI3CauIOJ6JhUjxVKwdop7PK8zgx3sryg8b4I6aXc0CkQLV9Fs1GFbo5DlODLZDA6RzQzM6uaeFQ28El5+HWUjRBLiHzRHs+mBNUFkiys3vAwWZVUSlfRP/AWNrAz0JA8oZZ3gsQy8JJsCpGyHCyedSWQRczbHuAlo3QT87qs2nigwMAE9i/sCdkmdM+cw9LbmfjgB/PZf5DrCAxh0sV0Asrb8IlWtBaV9kn4jur9lKnmMQ3Jig9A==;fjWsZnxGVycXmtzkDHibHg=="
 ---
 

@@ -76,20 +76,6 @@ related:
         width: 900
         height: 506
         isCached: true
-  - title: "1 Top Chip Stock Ready to Ride Nvidia's AI Tailwinds Higher"
-    excerpt: "The jump in sales was mostly driven by its data center business, which includes the H100 and A100 chips - two advanced artificial intelligence (AI) chips that are used to build and run AI models and applications. Going forward, the company projected even ..."
-    publishedDateTime: 2023-09-08T20:10:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMD-Q/pressreleases/19991358/1-top-chip-stock-ready-to-ride-nvidias-ai-tailwinds-higher/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 54
-    images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/EXCLSV/f247ddb2d1b5881d07e0f448cddfcdd5/zlpnpfkrvfnub2io.png"
-        width: 883
-        height: 637
-        isCached: true
   - title: "Intel benefits from Nvidia AI chip shortage"
     excerpt: "Customers will use any old chip The shortage of Nvidia’s GPUs has customers searching for scrap heap to kickstart makeshift AI projects, and Intel is benefitting from it. During a meeting with financial analysts at the Citi Global Technology Conference this week,"
     publishedDateTime: 2023-09-11T09:56:00Z
@@ -117,6 +103,20 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2023/08/cover.jpg"
         width: 843
         height: 394
+        isCached: true
+  - title: "AI chip startup Enfabrica raises $125m in venture capital"
+    excerpt: "AI chip startup Enfabrica has successfully raised $125 million in venture capital. First reported by Reuters, the company is developing networking chips designed for artificial intelligence (AI) data centers and counts Nvidia as a strategic investor."
+    publishedDateTime: 2023-09-13T15:25:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/ai-chip-startup-enfabrica-raises-125m-in-venture-capital/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/1694581916246.2e16d0ba.fill-1200x630.jpg"
+        width: 786
+        height: 412
         isCached: true
   - title: "NVidia’s Supremacy in AI Chip Market Affects New Star-ups"
     excerpt: "AI chip investors in the US pull back on investments as NVidia maintains dominance in the AI chip market Data from PitchBook"

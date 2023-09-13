@@ -18,6 +18,17 @@ topics:
   - AI in Autos
   - AI
 
+related:
+  - title: "Chinese video game designers experiment with AI"
+    excerpt: "Some video game designers see AI as a skill enhancer. The software still needs human input to design characters."
+    publishedDateTime: 2023-09-13T13:39:00Z
+    webUrl: "https://www.marketplace.org/2023/09/13/chinese-video-game-designers-experiment-with-ai/"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 17
+
 secured: "iOpB2DlYnREusCGkJ+k/i4rSLVLBCCkICfYm/ZyiLQYwhbvKI1dRF4Y5B3l/CoJsS1o1v+0WB36DpYzGJ1VQFVrQFHhczwxvxLgnSXlmDcGI88KdPMNXet78hoTQ/t0YLnvLOAT6chJ0tmkzaY4z40I34BUf6ZAFuZJQqjWGzbL301fbqB+R/FOljAq5TgMdEa3oOPsoawEwyj4nT6hDpv+/qoHNRIwpekrgQIXFq9Xt42A5VwY+mlNoqCbVdMXS4jzoA0iidYiYKH6+OvGnO+7Wg4s5TzprpJ5ITYFkWLYoD1410xRC6FdB33FZqO1ewY6QmPh1vEWObDmXeXXI5jv6j1HxBwDgGqMHRsPIpqEn4rrT8HYy9YR+4HkShznqhsJx2VWErHqmP00JFTATfTNw0w4gterfXnFb38te8UN2LSIktm7nfmas5p7c8KOzycRHYv3to4nwKsFNqJ+D1FOPMqYUidRy1g0+2y0nlIm/GobrQUNI5klBtQrJdcxV6ToMFRiJzzJJ+LOEA1DaSw==;Taij4YzpYRN9FKYq6InB+A=="
 ---
 

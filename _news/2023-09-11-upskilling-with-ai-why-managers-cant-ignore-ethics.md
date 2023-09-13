@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hrzone.com/lead/future/upskilling-with-ai-why-managers-c
 cdnAmpWebUrl: "https://www-hrzone-com.cdn.ampproject.org/c/s/www.hrzone.com/lead/future/upskilling-with-ai-why-managers-cant-ignore-ethics?amp"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

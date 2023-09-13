@@ -35,22 +35,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "The Transformative Power Of AI, Automation, And Big Data Analytics In Civilian And Defense Agencies"
-    excerpt: "AI, Automation, and Big Data Analytics and IT Modernization have had a big impact in Civilian and Defense Agencies"
-    publishedDateTime: 2023-09-08T21:01:00Z
-    webUrl: "https://www.forbes.com/sites/cognitiveworld/2023/09/08/the-transformative-power-of-ai-automation-and-big-data-analytics-in-civilian-and-defense-agencies/"
-    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2023/09/08/the-transformative-power-of-ai-automation-and-big-data-analytics-in-civilian-and-defense-agencies/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2023/09/08/the-transformative-power-of-ai-automation-and-big-data-analytics-in-civilian-and-defense-agencies/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 75
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64fb8add02f97585562b0c5e/0x0.jpg?format=jpg&crop=2314,1542,x566,y607,safe&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "‘The next phase for us is AI transformation’"
     excerpt: "India holds immense importance as a market for Microsoft, and we are committed to supporting its digital acceleration journey."
     publishedDateTime: 2023-09-10T23:10:00Z
@@ -66,6 +50,20 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/Artificial-Intelligence.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "The AI age brings promise and troubles"
+    excerpt: "“If you’re doing a deal, and you’re getting a bunch of representations and warranties, there are different ways that AI events could manifest to impact them.” Mr Willmott thought that we might soon start to see AI exclusions included in insurance ..."
+    publishedDateTime: 2023-09-13T15:57:00Z
+    webUrl: "https://www.royalgazette.com/re-insurance/business/article/20230913/the-ai-age-brings-promise-and-troubles/"
+    type: article
+    provider:
+      name: The Royal Gazette
+      domain: royalgazette.com
+    quality: 37
+    images:
+      - url: "https://imengine.editorial.prod.rgb.navigacloud.com/?uuid=80409c81-d099-5225-9b64-36e4b7ff7646&type=primary&function=cover&source=false&width=800"
+        width: 386
+        height: 386
         isCached: true
   - title: "Gathering the news for the AI-powered future"
     excerpt: "The bottom line: AI-generated news content is coming. The death toll from the powerful earthquake that hit Morocco late Friday surpassed 2,000 on Saturday as rescue workers raced to find survivors, state media reported, citing the country's Interior Ministry."

@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "How generative AI changes IT operations"
-    excerpt: "Generative AI can provide valuable analysis and insights to IT operators. But what about data security, reliability, workflow integration, and the conditions needed for successful deployment?"
-    publishedDateTime: 2023-09-11T09:34:00Z
-    webUrl: "https://www.infoworld.com/article/3706370/how-generative-ai-changes-it-operations.html"
-    ampWebUrl: "https://www.infoworld.com/article/3706370/how-generative-ai-changes-it-operations.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706370/how-generative-ai-changes-it-operations.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
-    images:
-      - url: "https://images.idgesg.net/images/article/2018/02/artificial_intelligence_ai_virtual_assistant_machine_learning_autonomous_automation_virtual_reality_vr_digital_mind_brain_thinkstock_892854798-100749920-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Today in AI: Meta is developing a new AI system, Google rolls out AI-generated search enhancement outside US, and more"
     excerpt: "On August 31, the company expanded its search feature powered by SGE (Smart Global Engine) to two other regions, namely India and Japan. These two countries are noteworthy for being the first to have access to the new AI extension outside of the US. More here."
     publishedDateTime: 2023-09-11T04:40:00Z
@@ -64,6 +48,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Adobe generative AI tool Firefly is now generally available"
+    excerpt: "The new generative AI image creation and editing tool has been trained on stock images and content in the public domain."
+    publishedDateTime: 2023-09-13T09:59:00Z
+    webUrl: "https://www.computerworld.com/article/3706648/adobe-generative-ai-tool-firefly-is-now-generally-available.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 17
 
 secured: "apB9kuqoZpr3HELNzXXF+J99WIuaeaYXXtAHTGY/p2MbFbrB3rKBhShpaQWnnN89jxzzyVpRaCNtlFGZsFkcvCXGwcsPu5JPKTN7nkVO6SBc4lHtKh3bfgaPPjlVUsKhF+EToLsl9hjivBR8NBn1hekIp3OMnFaL1xeDP/hAHCa4egMfiXhwUFuQ4flQDhVTfNK+ieT1m8CboKmE85e2qeReBFPcsz3qBkC4Z5LP5Px/sGFA51xCG+eAJzZY42y1RQRNW2nLoHX8agFwP30vhVwFKBOBVfNsXUa3usdz/VGfBu3hZFa+izzpQZKg4eLIt6jFxnaWvpyZvPsswXu0ieQiQMkUkMTK9jjs1VBXaKby1rvLwiDrpT1BbEuwOq1OxxRRzwbg3KXa/vnTfq+fogXO55kM6rqUZp9+lCT5IfzuV2tFc/V9I9YNdcNC0mD4a/ZKi8j9TN34FICTYq8KlqXkGg2CEcqllqgk3BPL4c2tQeDWdjv8bhfF+r5JCBYxaRcTWbbdVaFVX1ohBwrNAw==;c08w1QFABYcNL5qXaN2M1w=="
 ---

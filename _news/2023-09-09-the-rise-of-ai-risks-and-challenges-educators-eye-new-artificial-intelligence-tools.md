@@ -7,7 +7,7 @@ originalUrl: "https://www.tribstar.com/indiana/news/the-rise-of-ai-risks-and-cha
 webUrl: "https://www.tribstar.com/indiana/news/the-rise-of-ai-risks-and-challenges-educators-eye-new-artificial-intelligence-tools/article_c4810175-52bf-5874-a151-1a96a2160688.html"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Capabilities And Challenges Of AI-Enabled Fitness Applications"
+    excerpt: "With AI constantly improving and becoming more popular, the world of AI-enabled fitness apps will likely only grow."
+    publishedDateTime: 2023-09-13T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/13/capabilities-and-challenges-of-ai-enabled-fitness-applications/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
 
 secured: "Dr1bkZjTROkYEy+g6DXa3VAE6pM5iEKAl7PrLY8hsV+1fxDBGZIgrsSPb84xVUo9qCzVykmtX/j7ppxhGnOeKWy67HYotzCNMahiTSlHv1YhEny0UM0nHPmo0KmJjVMnnVVRdnkIX4mWASJlCZlKXXaJorSAdwTMCl8dlcFYvna4AMOK6rAVcYWYUtZfd5qWF1/g/OpYhDudbwCh2jkpoqhfHDAzXzzc+bdiGH9Huraakhb3W7MuRxaYtTHJKcIcNZMqr9mehjLfovSETmjdnPgAogS6kjZTcIyf37MZMfHcPTLlRZWtXoGfWdivRd6OiT8NLK9AuANAWFWF0KtPYVK9cFogj8PniSQVNNZy/ausyM2DlFwHbH2UPrQKD4CV84N1Q507oKN+dPA8y9ad28pv4AUKT/DD/TIBuisL8+fsixnObFd2/i4Scgh6ZbSbNaKYaT5nIUCPGR9qEgVIUJVwcVsWv6V7XR9QXNHtJuqZkpAiSZ+plKPmygSDhwVAlsydz5U1xCgDT+/gu+uO4Q==;WLqsdr742jMD2PjIXwt3ZA=="
 ---

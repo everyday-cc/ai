@@ -54,6 +54,22 @@ related:
         width: 3600
         height: 2400
         isCached: true
+  - title: "How AI Is A Game Changer For Recruiting And Retention At Salesforce And Other Companies"
+    excerpt: "AI has become a positive game changer for recruiting, retention, learning and development programs. In an exclusive interview with Salesforce interim chief people officer Nathalie Scardino, she discussed how the cloud computing and social enterprise software-as-a-service provider is leveraging AI for the company and its clients."
+    publishedDateTime: 2023-09-13T15:00:00Z
+    webUrl: "https://www.forbes.com/sites/jackkelly/2023/09/13/how-ai-is-a-game-changer-for-recruiting-and-retention-at-salesforce-and-other-companies/"
+    ampWebUrl: "https://www.forbes.com/sites/jackkelly/2023/09/13/how-ai-is-a-game-changer-for-recruiting-and-retention-at-salesforce-and-other-companies/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2023/09/13/how-ai-is-a-game-changer-for-recruiting-and-retention-at-salesforce-and-other-companies/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 79
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6501b86f58ec578e535e700f/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 855
+        isCached: true
   - title: "Dreamforce 2023: Salesforce Expands Einstein AI and Data Cloud Platform"
     excerpt: "The Einstein 1 platform links Salesforce CRM data and generative AI. Plus, Trust Layer allows organizations control over their own data."
     publishedDateTime: 2023-09-12T14:34:00Z
@@ -67,20 +83,6 @@ related:
       - url: "https://www.techrepublic.com/wp-content/uploads/2023/09/tr_09122023-dreamforce-2023-salesforce-ai-announcement.jpg"
         width: 1400
         height: 900
-        isCached: true
-  - title: "McKinsey partners with Salesforce to offer speedy AI adoption plans for enterprises"
-    excerpt: "With 40 percent of enterprises planning to invest in this kind of AI, the collaboration between Salesforce and McKinsey could be a"
-    publishedDateTime: 2023-09-08T21:17:00Z
-    webUrl: "https://venturebeat.com/business/mckinsey-partners-with-salesforce-to-offer-speedy-ai-adoption-plans-for-enterprises/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 61
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_vector_art_line_art_flat_illustration_surreal_abstract__c44a7f93-a2da-4c9b-9693-9e05e6c629b2.png?w=1200&strip=all"
-        width: 1200
-        height: 672
         isCached: true
   - title: "Dreamforce 2023 - how to be an AI Pioneer, according to IBM's State of Salesforce study"
     excerpt: "The State of Salesforce report has a number of recommendations here. Approach generative AI as a team sport. IBM’s CEO research concludes that 55% of stakeholders, including customers, boards of directors, and investors - are urging CEOs to accelerate ..."

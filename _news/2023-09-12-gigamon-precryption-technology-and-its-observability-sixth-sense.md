@@ -23,22 +23,15 @@ topics:
   - AI
 
 related:
-  - title: "LoRaWAN And Its Global Sustainability Mission"
-    excerpt: "Vice President, Security, Carriers and Enterprise Networking, Will Townsend, shares details from LoRaWAN Live Orlando this past spring."
-    publishedDateTime: 2023-09-08T20:36:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2023/09/08/lorawan-and-its-global-sustainability-mission/"
-    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/09/08/lorawan-and-its-global-sustainability-mission/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/09/08/lorawan-and-its-global-sustainability-mission/amp/"
+  - title: "Debunking observability myths – Part 5: You can create an observable system without observability-driven automation"
+    excerpt: "In this post, we'll tackle another myth about observability—that you can create an observable system without observability driven by automation.\nThe post Debunking observability myths – Part 5: You can create an observable system without observability-driven automation appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-09-12T15:19:18Z
+    webUrl: "https://www.ibm.com/blog/debunking-observability-myths-part-5-you-can-create-an-observable-system-without-observability-driven-automation/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64fb852a7247c222d81a5641/0x0.jpg?format=jpg&width=1200"
-        width: 624
-        height: 371
-        isCached: true
+      name: IBM
+      domain: ibm.com
+    quality: 60
 
 secured: "QbTxWQxOOLGjOPV/woM0appZ29Oa87JE9f0TRlt9Y99l/+6rJPLDZNTPBIPv31hhvtA6WkWv4WHZDHu0TdYpwVGjqRAFSrLB6XHxW91aq5iIEHatXknOmPrDzQf0UkI5PHP4njuRP50l6Jvd6addgtFASd4JgZ8cIY79H1hePbbJP6csMphz0FnywrLbVlY60pcz2yxgkHbSmMDsE5Awq1Uz7Avuomm4sGx7rP6USgaUhGKvc9H0HdrIrsRdrMEHjoUncidEELsSl5zROFeoc6Gb2psLUzE/tQ/8/DO4p+FrRaL2vQSOHzVbtrS8s9yfWMb+cFTKe0WqNwx21uWvlRHtb5udW3rzZNB4sWKUEq8=;QEkaFMVl/wrRUfZ2Y9H1hw=="
 ---

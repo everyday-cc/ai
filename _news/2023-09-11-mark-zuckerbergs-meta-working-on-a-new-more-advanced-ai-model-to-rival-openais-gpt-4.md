@@ -52,6 +52,15 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 41
+  - title: "In closed forum, tech titans to give senators advice on artificial intelligence"
+    excerpt: "Senate Majority Leader Chuck Schumer has been talking for several months about accomplishing a potentially impossible task: Passing bipartisan legislation within the next year that both encourages the rapid development of artificial intelligence and"
+    publishedDateTime: 2023-09-13T06:47:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/closed-forum-tech-titans-give-senators-advice-artificial-103142197"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 13
   - title: "Tech titans will give senators advice on artificial intelligence in a closed-door forum"
     excerpt: "Senate Majority Leader Chuck Schumer has been talking for months about accomplishing a potentially impossible task: passing bipartisan legislation within the next year that encourages the rapid develo"
     publishedDateTime: 2023-09-13T04:56:00Z
@@ -60,12 +69,7 @@ related:
     provider:
       name: The Washington Post
       domain: washingtonpost.com
-    quality: 29
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UTL6RKSR5II65LGPRDBGMIJ2VQ_size-normalized.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
+    quality: 9
 
 secured: "B6AKsyTcRnGY4mCbOW8CCfnbih8Vd6iP5y9YUQf3zi7o2J5AEIpwqygaI6X8rcpHdEScfV45DBODhFsjWpr+icGp1LnrXzFfH1vubF8yH0oDrLbcRbucdLMtrP/EPTni03TBoZhnwDo/zb1Jqkt4jirMChJ2euiePcNzbDOafLaQeS6UgoGaXP+P2sUBwzaZGrtgI/YXP/EoUG0bvkIWOwbAr9HSfWl+8k1hunJPBmFUWCh1QQ/Hc4tqvpNpsTuYz+I77RV3MqEMjRTHuQBEk/I7yhJ7OKP7+Imk4ok/U0YSAVz9ynjolBRK86sfvtjbNgx3XqGeQbNA8pHXGEj2m8QizzHV65Jh+/yAD/A2GcY=;Yalof9ciSXOy1SBmErjbKg=="
 ---

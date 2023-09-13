@@ -25,15 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence is Bolstering Impressive Billion Dollar Growth Opportunities in Healthcare Sector"
-    excerpt: "The implementation of AI/ML technologies in enhancing patient care, reducing machine downtime, and minimizing care expenses are some of the driving forces of artificial intelligence (AI) in healthcare market growth."
-    publishedDateTime: 2023-09-12T15:18:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/09/12/9879146.htm"
+  - title: "In Recognition of Suicide Prevention Month, NeuroStar Voices Portal Amplifies Stories of Real People Beating Depression"
+    excerpt: "Depression can be isolating, and we want people suffering from it to realize they are not alone. The NeuroStar Voices Portal allows us to share real-world examples of how depression affects people, along with the positive impact that NeuroStar has had on their lives,"
+    publishedDateTime: 2023-09-12T13:29:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/in-recognition-of-suicide-prevention-month-neurostar-voices-portal-amplifies-stories-of-real-people-beating-depression-1032623409"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 10
   - title: "FinancialNewsMedia.com: How Artificial Intelligence is Bolstering Impressive Billion Dollar Growth Opportunities in Healthcare Sector"
     excerpt: "FinancialNewsMedia.com News Commentary PALM BEACH, Fla., Sept. 12, 2023 /PRNewswire/ -- Artificial Intelligence (AI) and machine learning (ML) algorithms are being widely adopted and integrated"
     publishedDateTime: 2023-09-12T13:24:00Z

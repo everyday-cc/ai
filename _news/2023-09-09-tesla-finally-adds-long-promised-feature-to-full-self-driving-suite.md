@@ -7,7 +7,7 @@ originalUrl: "https://carbuzz.com/news/tesla-finally-adds-long-promised-feature-
 webUrl: "https://carbuzz.com/news/tesla-finally-adds-long-promised-feature-to-full-self-driving-suite"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla’s value predicted to boost from new Dojo self-driving supercomputer"
-    excerpt: "Tesla’s Dojo supercomputer only uses video data recordings from Tesla owners’ real-life driving situations to train its machine-learning model and improve its camera-only ‘Tesla Vision’ safety assistance systems. The camera-only Dojo will ditch 300,000-plus lines of code."
-    publishedDateTime: 2023-09-12T04:55:00Z
-    webUrl: "https://www.whichcar.com.au/news/tesla-s-value-predicted-to-boost-from-new-dojo-self-driving-supercomputer"
+  - title: "Tesla’s (Driverless) Route to Dominance?"
+    excerpt: "In 2016, Elon Musk promised every Tesla (TSLA) shipped would “have the hardware needed for full self-driving capability at a safety level substantially greater than that of a human driver.” It sounded grand. But who’s fooling who?"
+    publishedDateTime: 2023-09-13T11:20:00Z
+    webUrl: "https://moneymorning.com/2023/09/13/teslas-driverless-course-to-dominance/"
+    ampWebUrl: "https://moneymorning.com/2023/09/13/teslas-driverless-course-to-dominance/amp/"
+    cdnAmpWebUrl: "https://moneymorning-com.cdn.ampproject.org/c/s/moneymorning.com/2023/09/13/teslas-driverless-course-to-dominance/amp/"
     type: article
     provider:
-      name: whichcar
-      domain: whichcar.com.au
-    quality: 38
+      name: Money Morning
+      domain: moneymorning.com
+    quality: 74
     images:
-      - url: "https://cdn.whichcar.com.au/assets/p_social/b07d09f6/ev-buyers-guide-tesla-model-3-1-interior.jpg"
+      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2020/12/Tesla-Cell-Phone.jpg"
         width: 1200
-        height: 630
+        height: 774
         isCached: true
 
 secured: "H2eXq43HiG06qdVrk5rqRkzO0MglosUHw8M+/LbM9dxJ7lF5TNjFKm9FBVMnZ4KPWxRNjpx29m2IA1tQ6QXx73/A0Y3z68dquzzXF5jJyo8YmC837R5+wqThW4+BYI9z3yIp8Re9V8GwCiHq1oyLvPRUxAOwXgP9hXde+urgIVpAqjFgJckLq8BBdkmhoxHbc+rbz7HnlgbdKGlTw7WPSCusmObA+poKYcReIBXGC0S/mu0rcxkXUrks3OCS+ElhRRVtB53nkoive+SVuYrK7Oyf8V3roX7TRO/GWlUQBFjSqQVF179AcYouPJM7UPDpqnDbDCHbQhq0IxFlpNtQsZauaQqDx9GkrWYkeI26b80=;u8HLUw43hV+iU3ii30y7tQ=="

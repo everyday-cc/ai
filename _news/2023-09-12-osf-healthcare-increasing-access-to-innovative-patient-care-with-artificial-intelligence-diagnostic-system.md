@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-osf-healthcare-increasing-access-i
 webUrl: "https://www.tmcnet.com/usubmit/-osf-healthcare-increasing-access-innovative-patient-care-with-/2023/09/12/9878881.htm"
 type: article
 quality: 16
-heat: 16
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,40 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "Exploring Patient, Provider Perceptions of Healthcare AI"
+    excerpt: "Advances in healthcare artificial intelligence have received significant hype, but patients and providers are still cautious of these new technologies."
+    publishedDateTime: 2023-09-13T13:29:00Z
+    webUrl: "https://healthitanalytics.com/features/exploring-patient-provider-perceptions-of-healthcare-ai"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 56
+    images:
+      - url: "https://healthitanalytics.com/images/site/features/_normal/Getty_correct_size_sdoh.png"
+        width: 690
+        height: 400
+        isCached: true
+  - title: "Can AI help improve outcomes for cancer patients?"
+    excerpt: "Using a voice-assisted, remote patient symptom monitoring system (VARSMS) developed through artificial intelligence and natural language processing technology, patients can be monitored remotely for post-recovery. With the goal of improving communication ..."
+    publishedDateTime: 2023-09-12T09:31:00Z
+    webUrl: "https://thedailyrecord.com/2023/09/12/can-ai-help-improve-outcomes-for-cancer-patients/"
+    type: article
+    provider:
+      name: The Daily Record (Maryland)
+      domain: thedailyrecord.com
+    quality: 21
+  - title: "How Artificial Intelligence is Bolstering Impressive Billion Dollar Growth Opportunities in Healthcare Sector"
+    excerpt: "The implementation of AI/ML technologies in enhancing patient care, reducing machine downtime, and minimizing care expenses are some of the driving forces of artificial intelligence (AI) in healthcare market growth."
+    publishedDateTime: 2023-09-12T15:18:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/09/12/9879146.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
 
 secured: "UtSZ1eH6AIUS+4J8AlIxR3jgFx/I21Tu9Q66mIotCn5/0vNjdgEA/Jn/pzO5c7iIIhqrMvOSnb1pU6xfixz5NkjQBRzTashuEtCWXybI4J09uIoMHZ3QrioNwlNWn1TMnCCvOMykGvqPZBq4IolkXBQSdpYmcGWjdhUJefCjtPVUXuwpQ+/bBvlUFqUNXbVnsMGYt+HAu0v9r4DQdhJhW4+Z3RFPU8hZpbn68GcPfZdpdPc66NIEl5loE9xJY0kEhDjaZ5NgJF/LeclnO3G7YCiRnZH69ksJ300So/gOfTKvtYC2NOrmOBkLO32NzVFAnvnr3wgUG2MfNeHxTV0T50hCicvOAHfOSNfczpGDaR7IUOFeqbmB1RNRyjfhYKTSmYGlNcg7f8SE0HIvwd4uo384LL37cIxqJmEwzleFxjj8RrQX/IswdXZqlR0+IPrC/E3JfBgS+sHJcV99vorhspKFVEmpgm/JbnjpvjcDaYULatLNEeuH2KDtcwA6iIdUBkVQ3EpW6vE2dR1S2UMM1g==;E0/XuJbbgtdXZzrVtqpOZQ=="
 ---

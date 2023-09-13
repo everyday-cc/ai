@@ -7,7 +7,7 @@ originalUrl: "https://thedailyrecord.com/2023/09/12/can-ai-help-improve-outcomes
 webUrl: "https://thedailyrecord.com/2023/09/12/can-ai-help-improve-outcomes-for-cancer-patients/"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -20,15 +20,38 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "AI startup raises $7.5M to help patients predict health outcomes. Here's how."
-    excerpt: "The funding comes as investment in AI explodes across the globe, with businesses turning to the technology to increase productivity and revenue. The average budget allocation for AI spending at health care companies alone is projected to rise from 5.7% in 2022 to 10.5% in 2024, according to Morgan Stanley."
-    publishedDateTime: 2023-09-11T16:51:00Z
-    webUrl: "https://www.bizjournals.com/southflorida/inno/stories/fundings/2023/09/11/company-developing-medical-ai-raises-millions.html"
+  - title: "Exploring Patient, Provider Perceptions of Healthcare AI"
+    excerpt: "Advances in healthcare artificial intelligence have received significant hype, but patients and providers are still cautious of these new technologies."
+    publishedDateTime: 2023-09-13T13:29:00Z
+    webUrl: "https://healthitanalytics.com/features/exploring-patient-provider-perceptions-of-healthcare-ai"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 14
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 56
+    images:
+      - url: "https://healthitanalytics.com/images/site/features/_normal/Getty_correct_size_sdoh.png"
+        width: 690
+        height: 400
+        isCached: true
+  - title: "OSF HealthCare Increasing Access to Innovative Patient Care with Artificial Intelligence Diagnostic System"
+    excerpt: "Digital Diagnostics, a leading artificial intelligence (AI) diagnostic healthcare company's flagship product, LumineticsCore™ ( formerly IDx-DR), is increasing access to innovative care at OSF HealthCare for people living with diabetes."
+    publishedDateTime: 2023-09-12T13:02:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-osf-healthcare-increasing-access-innovative-patient-care-with-/2023/09/12/9878881.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 16
+  - title: "How Artificial Intelligence is Bolstering Impressive Billion Dollar Growth Opportunities in Healthcare Sector"
+    excerpt: "The implementation of AI/ML technologies in enhancing patient care, reducing machine downtime, and minimizing care expenses are some of the driving forces of artificial intelligence (AI) in healthcare market growth."
+    publishedDateTime: 2023-09-12T15:18:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/09/12/9879146.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
 
 secured: "6gfVrVpRPR8zNuqKCPJTJBBxP53kUVtRnoQERLVmgKYYOp+Jk49IMGALnPocPc9rOlgMRfk18ikpLkPGyp3Fj6NA/0BL/HBd3mhT8vC68BQVBYTXjayCWqW6VyN+Tc3+EKKj1HRdtNSv/993ojaRoTT8r/s6ckOTu0AC47Co+C/3iPes7Iv+7MXwb4U676kfOHesQMAr20DJrgDEnVYOkqfaYJvuZI9oQpplJrxQg9WTECVQE3E+DG3S7toSwjYkr600yG3HhgeTX8HSaH8pNKY51uxEs8RHi+oeOF3qoHZ7j8JnuyKB5bmyc5+ORKo/Js8J/CeMvYshn1xG4GCRhoBDT2fQ4vqzNVxFmU0XX/XLrpKuzKeCGpc0NZ7ZtU6BmJpNVfKN+DTywupuHyZrtsxSqEZR+s2FE3Gb2U1T+OKa1tFO4qKjF+qCl6YU2TdLGaDiN2eSRMUGThfEtHnWom4EjJbraevG3z5eFT2wFlrw/oBihJWrVhGmtxkyM+/DXWUstq7DBU8PTr0Cjo9EWg==;XL+MJfd5d9iq+eT5epi5Ng=="
 ---

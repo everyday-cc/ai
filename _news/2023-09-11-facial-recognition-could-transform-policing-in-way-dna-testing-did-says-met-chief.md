@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/uk-news/2023/sep/11/facial-recognition-c
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2023/sep/11/facial-recognition-could-transform-policing-in-way-dna-testing-did-says-met-chief"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: The Guardian
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Facial recognition will ‘transform investigative work,’ says UK’s top cop"
+    excerpt: "The Metropolitan Police and the South Wales Police have been using live facial recognition software in trials over the past five years"
+    publishedDateTime: 2023-09-13T15:49:00Z
+    webUrl: "https://www.biometricupdate.com/202309/facial-recognition-will-transform-investigative-work-says-uks-top-cop"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 38
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
+        width: 2048
+        height: 1333
+        isCached: true
   - title: "Facial Recognition For Covid-19 Tracking In Seoul"
     excerpt: "The city of Bucheon, population 830,000, is a satellite city southwest of Seoul and part of the greater metropolitan area and the site of a pilot program to apply AI facial recognition and ..."
     publishedDateTime: 2023-09-09T00:00:00Z

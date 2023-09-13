@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Emory Healthcare names 1st data, analytics chief"
+    excerpt: "Joe Depa has been named the inaugural chief data and analytics officer of Emory Healthcare. In this role, he will use data and AI to improve patient outcomes and ease clinician burnout."
+    publishedDateTime: 2023-09-13T14:24:00Z
+    webUrl: "https://www.beckershospitalreview.com/hospital-executive-moves/emory-healthcare-names-1st-data-analytics-chief.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "SQream reels in $45M for its speedy GPU-powered database"
     excerpt: "SQreamDB provides integrations with Tableau and several other popular BI products. “As generative AI shines a light on the importance of leveraging AI and ML within enterprises, as well as the value of GPUs as part of the analytics process, we have seen ..."
     publishedDateTime: 2023-09-12T19:25:00Z

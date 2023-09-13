@@ -1,29 +1,24 @@
 ---
 category: news
 title: "New AI technology gives robot recognition skills a big lift"
-excerpt: "With every push, the robot is learning to recognize the object through a new system developed by a team of UT Dallas computer scientists. The new system allows the robot to push objects multiple times until a sequence of images are collected, which in turn ..."
-publishedDateTime: 2023-08-31T19:37:00Z
-originalUrl: "https://techxplore.com/news/2023-08-ai-technology-robot-recognition-skills.html"
-webUrl: "https://techxplore.com/news/2023-08-ai-technology-robot-recognition-skills.html"
-ampWebUrl: "https://techxplore.com/news/2023-08-ai-technology-robot-recognition-skills.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-ai-technology-robot-recognition-skills.amp"
+excerpt: "A team has now made a significant advance toward that technology with a robotic system that uses artificial intelligence to help robots better identify and remember objects. A robot moves a toy ..."
+publishedDateTime: 2023-08-31T20:38:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2023/08/230831121804.htm"
+webUrl: "https://www.sciencedaily.com/releases/2023/08/230831121804.htm"
 type: article
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Computer Vision
-  - AI
   - AI in Robotics
+  - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/teams-new-ai-technolog.jpg"
-    width: 1920
-    height: 1280
-    isCached: true
-
-secured: "3jxEbVrzvMKxlaxb+P8cc8TwHJpWE6sa7TkXgebV9SyjB7JrbsMkqQJ/lLRUnfNbN6YjhD4tLDOwvJymgyrwFmFQT/UszIfk3nZusF/rdC/G7TU4JM+Zd/Rag+EZFelyhac3FQBRE3AYTPRXRh5gZIlp/ZLEzPwO6mWPRL/K4GhccXByYhX8D66VC0dEwDBFD0aMgNjCgTXbls5/LC8UK8x6uYuDlT/2KQJWdRlNZ4ObeIJjaKhh+mLIhf3N9qD6WI6UPmjDN+GySmFkZedb/RE95uckWG04/S3A8BbEATuTlpuZBYx168rB3AJs/xR56v0j1ueskO1TNXi4gbbRC4doVEIAQ1KBx8+ng6Ifo+KqOaWak99/sxtfL/4mn8ogbTsk0CsWufISaGMCwvT15g7vWmenO0ufgd0k1og06I77sQ1x3Q9XGYHg+iAnKtX86Ba2NwwMh89g+wQ73eTV2LqVqCAJPw5kj5p/2Smb3dKx3egEScRitxaQf50zTWc/npIeJiwIpaIeQ3DO/GLCGQ==;UhlbED70KBAbg+B7lHxnwA=="
+secured: "ivVJCrXsi4vF/s9ZBvPGEOclLJCE6L+XveP2YdXx+DU3JkHXH9QtitNmepohhYAS/JcrvVKagbdtwpogMJWGrEQVP2CdJV2nuwvbF+AODZ/Cnw0N92ZstqiqHx6L7oSYrfzRf+lsdo/sfzyw1RbQCZE744Y/cNlijf/VzJ3PZIbD7Dy1VvnwCNpLHOUgf/wvfcSAgjsUlEVfD2qXbHnqTu+4mG/Gw98g2knmg7L1urcINDor3rbCPJFI4auu9n/nTkW/uhbWRrLmWPTsO8FzIFUQ5w2PzoWYE6t/BGFK8X7/hD4dVhBEhS2VJjzzAvvDEYgEWavA5ZAq5GF90MDW3MkO4/c5RdHph5SrGfByQUM=;2vWB91k8mxDCgsI6UylsHA=="
 ---
 

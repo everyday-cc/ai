@@ -7,8 +7,8 @@ originalUrl: "https://www.roboticsbusinessreview.com/ai/robobusiness-nvidia-to-d
 webUrl: "https://www.roboticsbusinessreview.com/ai/robobusiness-nvidia-to-discuss-role-of-generative-ai-in-robotics/"
 type: article
 quality: 69
-heat: 70
-published: true
+heat: 69
+published: false
 
 provider:
   name: Robotics

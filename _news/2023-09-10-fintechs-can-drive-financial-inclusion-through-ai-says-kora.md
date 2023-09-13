@@ -9,7 +9,7 @@ ampWebUrl: "https://punchng.com/fintechs-can-drive-financial-inclusion-through-a
 cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/fintechs-can-drive-financial-inclusion-through-ai-says-kora/?amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -43,14 +43,23 @@ related:
         width: 1070
         height: 579
         isCached: true
-  - title: "Leading the Fintech Revolution: FORMS Syntron Presents Generative AI and Web 3.0 Financial Platforms"
-    excerpt: "Empowered by Microsoft, FORMS Syntron unleashes Banking Copilot and FINNOSafe to transform the financial sectorHONG KONG SAR – Media OutReach – 13 September 2023 – Today, a leading fintech thought leader,"
-    publishedDateTime: 2023-09-13T09:01:00Z
-    webUrl: "https://www.sinchew.com.my/news/20230913/mysinchew/4981684"
+  - title: "Samunnati joins FinTech finbots.ai to facilitate AI-based credit risk management"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-09-13T11:51:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/samunnati-joins-fintech-finbots-ai-to-facilitate-ai-based-credit-risk-management/"
     type: article
     provider:
-      name: sinchew
-      domain: sinchew.com.my
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 14
+  - title: "Leading the Fintech Revolution: FORMS Syntron Presents Generative AI and Web 3.0 Financial Platforms"
+    excerpt: "Empowered by Microsoft, FORMS Syntron unleashes Banking Copilot and FINNOSafe to transform the financial sector HONG KONG SAR - Media OutReach - 13 September 2023 - Today, a leading fintech thought leader,"
+    publishedDateTime: 2023-09-13T08:10:00Z
+    webUrl: "https://www.asiaone.com/business/leading-fintech-revolution-forms-syntron-presents-generative-ai-and-web-30-financial"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
     quality: 4
 
 secured: "Y78XMb888bOulIE8qcdN/k2NLFnlt3Jnr5bmP3zSadLzO0JVeCG9L3CecUwjGHRVXqQa9guZQU6CABCn1+kbdvlX4P6nmehoUUmGzuwm2nh9HTpZ9YNC5M4RhhhAv0Wm5BYseD3N2TzibPiYnT8rVltSvdHpWFGAMZYWAPEHF/weLywBfclpb/8YIZx+h63CmzZtsqkZ1NRR5edsW9VfWpeNrv461NKjUwztK7zC4TYXKkWbAkLK0iKI3EUY3Qi/bcCYNWfA0LRJ5uVvblmmLGdRNgYFdXqUJN1c8sGTmxijj0ogxgbVLrmZOyXvY2AZr/wvsUamxcxH9PaYJ1oh/PDbsVNf7D2povuEG47DTSw=;NHQxS3oiQTpMSqizeNWf4w=="

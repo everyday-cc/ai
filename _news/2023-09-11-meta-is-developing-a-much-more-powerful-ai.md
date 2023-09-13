@@ -25,157 +25,163 @@ images:
     isCached: true
 
 related:
-  - title: "Stability AI, gunning for a hit, launches an AI-powered music generator"
-    excerpt: "A year ago, Stability AI, the London-based startup behind the open source image-generating AI model Stable Diffusion, quietly released Dance Diffusion, a model that can generate songs and sound effects given a text description of the songs and sound effects in question."
-    publishedDateTime: 2023-09-13T11:33:00Z
-    webUrl: "https://techcrunch.com/2023/09/13/stability-ai-gunning-for-a-hit-launches-an-ai-powered-music-generator/"
-    ampWebUrl: "https://techcrunch.com/2023/09/13/stability-ai-gunning-for-a-hit-launches-an-ai-powered-music-generator/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/13/stability-ai-gunning-for-a-hit-launches-an-ai-powered-music-generator/amp/"
+  - title: "Meta is developing a new, more powerful AI system -WSJ"
+    excerpt: "Meta Platforms is working on a new artificial-intelligence system intended to be as powerful as the most advanced model offered by OpenAI, the Wall Street Journal reported on Sunday, citing people familiar with the matter."
+    publishedDateTime: 2023-09-10T20:13:00Z
+    webUrl: "https://www.reuters.com/technology/meta-is-developing-new-more-powerful-ai-system-wsj-2023-09-10/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1352457907.jpg?resize=1200,752"
-        width: 1200
-        height: 752
-        isCached: true
-  - title: "Here’s how we raised a Series B for our AI startup during a downturn"
-    excerpt: "Not so fast. Already, the headline-grabbing funding rounds for generative AI companies are beginning to slow, and with almost every startup calling itself an “AI company,” it will become more difficult for true AI startups to stand out. For founders ..."
-    publishedDateTime: 2023-09-12T14:30:00Z
-    webUrl: "https://techcrunch.com/2023/09/12/how-we-raised-a-series-b-for-our-ai-startup/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
+      name: Reuters
+      domain: reuters.com
     quality: 67
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1054956204.jpg?resize=1200,800"
+      - url: "https://www.reuters.com/resizer/GxcCqkTOYEBLp3n3AwPZzikNBmo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AFO2TSIYMZOXTGDHCLFWN2IQCA.jpg"
         width: 1200
-        height: 800
+        height: 628
         isCached: true
-  - title: "Stability AI debuts Stable Audio bringing text to audio generation to the masses"
-    excerpt: "Stability AI today announced the initial public release of its Stable Audio technology, providing anyone with ability to use simple text prompts to generate short audio clips."
-    publishedDateTime: 2023-09-13T08:14:00Z
-    webUrl: "https://venturebeat.com/ai/stability-ai-debuts-stable-audio-bringing-text-to-audio-generation-to-the-masses/"
+  - title: "Meta Is Developing a New, More Powerful AI System as Technology Race Escalates"
+    excerpt: "Parent of Facebook and Instagram wants artificial-intelligence system to be as capable as OpenAI’s most advanced model."
+    publishedDateTime: 2023-09-10T20:01:00Z
+    webUrl: "https://www.wsj.com/tech/ai/meta-is-developing-a-new-more-powerful-ai-system-as-technology-race-escalates-decf9451"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 63
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/09/robot-making-music.jpg?w=1200&strip=all"
+      - url: "https://images.wsj.net/im-849561/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Meta is developing a new, more powerful AI system: Report"
+    excerpt: "Llama 2 is Meta's open source AI language model launched in July, and distributed by Microsoft's cloud Azure services to compete with OpenAI's ChatGPT and Google's Bard."
+    publishedDateTime: 2023-09-11T02:07:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/meta-is-developing-a-new-more-powerful-ai-system-report/103563732"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/meta-is-developing-a-new-more-powerful-ai-system-report/103563732"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/meta-is-developing-a-new-more-powerful-ai-system-report/103563732"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-103563732,imgsize-59692,width-1200,height=765,overlay-ettelecom/internet/meta-is-developing-a-new-more-powerful-ai-system-report.jpg"
         width: 1200
-        height: 675
+        height: 765
         isCached: true
-  - title: "'Sonic DNA' is composed for a finance firm to generate AI-powered branding"
-    excerpt: "This is an example of 'Sonic DNA' which digital agency amp composed for a major financial firm, so that AI could generate multiple musical compositions from it."
-    publishedDateTime: 2023-09-11T19:51:00Z
-    webUrl: "https://www.bbc.com/news/av/business-66781639"
+  - title: "Meta is developing a new, more powerful AI system"
+    excerpt: "Meta: The Facebook parent is aiming for its new AI model to be ready next year, the Journal said, adding it will be several times more powerful than its commercial version dubbed Llama 2."
+    publishedDateTime: 2023-09-11T07:39:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/meta-is-developing-a-new-more-powerful-ai-system/103569344"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/meta-is-developing-a-new-more-powerful-ai-system/103569344"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/meta-is-developing-a-new-more-powerful-ai-system/103569344"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 62
-  - title: "Pilot Trading Launches Innovative AI Signals Only Mode for Traders"
-    excerpt: "- Brokerage Compatibility: The Pilot Trading app in Signals Only Mode, stands independently, allowing you to continue using your preferred brokerage, ensuring a hassle-free and flexible trading experience."
-    publishedDateTime: 2023-09-12T11:54:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/pilot-trading-launches-innovative-ai-signals-only-mode-for-traders-1032622845"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "AI-generated music used for business branding"
-    excerpt: "This is an example of AI-generated music, created by amp's Sonic Hub tool using 'Sonic DNA', which was composed for a finance client."
-    publishedDateTime: 2023-09-11T19:26:00Z
-    webUrl: "https://www.bbc.com/news/av/business-66781641"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 47
-  - title: "Senate tees up AI hearings"
-    excerpt: "Welcome to The Hill’s Technology newsletter{beacon} Technology Technology   The Big Story Senate to take on AI rules The Senate will set their sights on artificial intelligence"
-    publishedDateTime: 2023-09-08T22:52:00Z
-    webUrl: "https://thehill.com/newsletters/technology/4195086-senate-tees-up-ai-hearings/"
-    ampWebUrl: "https://thehill.com/newsletters/technology/4195086-senate-tees-up-ai-hearings/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/newsletters/technology/4195086-senate-tees-up-ai-hearings/amp/"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 39
-  - title: "Softserve Launches Generative Ai Lab"
-    excerpt: "Specialized lab expands SoftServe's AI/ML capabilities to accelerate Generative AI value discovery and real-world adoptionSINGAPORE - Media"
-    publishedDateTime: 2023-09-12T11:54:00Z
-    webUrl: "https://menafn.com/1107051285/Softserve-Launches-Generative-Ai-Lab"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?132894"
-        width: 309
-        height: 250
-        isCached: true
-  - title: "Swoop Launches Predictive AI Adherence Targeting"
-    excerpt: "First-of-its-kind targeting predicts which patients will become non-adherent in the next 30 daysNew offering leverages Swoop’s best-in-class machine learning and artificial intelligenceNEW YORK--(BUSINESS WIRE)--Swoop,"
-    publishedDateTime: 2023-09-12T15:01:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2023-09-12/swoop-launches-predictive-ai-adherence-targeting"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 39
-    images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+      - url: "https://etimg.etb2bimg.com/thumb/msid-103569344,imgsize-7254,width-1200,height=765,overlay-etbrandequity/digital/meta-is-developing-a-new-more-powerful-ai-system.jpg"
         width: 1200
-        height: 448
+        height: 765
         isCached: true
-  - title: "How artificial intelligence could scrap humanity’s ability to lie"
-    excerpt: "“Lying tends to have a high negative effect: you feel a lot of guilt, shame or anxiety that you might get caught. And those negative affective words also pop out into your speech when you lie,” Hyde said."
-    publishedDateTime: 2023-09-11T20:21:00Z
-    webUrl: "https://www.boisestate.edu/news/2023/09/11/how-artificial-intelligence-could-scrap-humanitys-ability-to-lie/"
+  - title: "Meta is developing a new, more powerful AI system, Wall Street Journal reports"
+    excerpt: "Meta Platforms (META.O) is working on a new artificial-intelligence system intended to be as powerful as the most advanced model offered by OpenAI, the Wall Street Journal reported on Sunday, citing people familiar with the matter."
+    publishedDateTime: 2023-09-11T03:04:00Z
+    webUrl: "https://www.emirates247.com/technology/meta-is-developing-a-new-more-powerful-ai-system-wall-street-journal-reports-2023-09-11-1.722506"
+    ampWebUrl: "https://www.emirates247.com/technology/meta-is-developing-a-new-more-powerful-ai-system-wall-street-journal-reports-2023-09-11-1.722506?ot=ot.AMPPageLayout"
+    cdnAmpWebUrl: "https://www-emirates247-com.cdn.ampproject.org/c/s/www.emirates247.com/technology/meta-is-developing-a-new-more-powerful-ai-system-wall-street-journal-reports-2023-09-11-1.722506?ot=ot.AMPPageLayout"
     type: article
     provider:
-      name: Boise State University
-      domain: boisestate.edu
+      name: Emirates247
+      domain: emirates247.com
+    quality: 55
+    images:
+      - url: "https://www.emirates247.com/polopoly_fs/1.722507.1694401358!/image/image.png"
+        width: 700
+        height: 466
+        isCached: true
+  - title: "Meta is working on new AI model even more powerful than OpenAI's GPT-4, says report"
+    excerpt: "Meta is working on a new AI system expected to be more powerful than OpenAI's GPT-4. It could be ready next year."
+    publishedDateTime: 2023-09-11T02:28:00Z
+    webUrl: "https://www.livemint.com/ai/artificial-intelligence/meta-is-working-on-new-ai-model-even-more-powerful-than-openais-gpt-4-says-report-11694396138923.html"
+    ampWebUrl: "https://www.livemint.com/ai/artificial-intelligence/meta-is-working-on-new-ai-model-even-more-powerful-than-openais-gpt-4-says-report/amp-11694396138923.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/meta-is-working-on-new-ai-model-even-more-powerful-than-openais-gpt-4-says-report/amp-11694396138923.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 53
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/09/11/600x338/META-PLATFORMS-PRIVACY-DECISION-0_1694398908885_1694398951117.JPG"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Meta is building AI model to rival OpenAI's most powerful system"
+    excerpt: "Related: Nvidia drops new AI chip expected to cut development costs The sources ... Microsoft is a primary backer of OpenAI and also collaborated with Meta to help make Llama 2 available on Azure, its cloud-computing platform. However, the sources said ..."
+    publishedDateTime: 2023-09-11T08:50:00Z
+    webUrl: "https://cointelegraph.com/news/meta-building-ai-model-rivals-open-ai"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 41
+    images:
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDkvOTE3ZjliNGYtMDE1NC00MjlkLWE0YjUtZGRhNmY0NTgxMzA3LmpwZw==.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Meta developing new, more powerful AI system - WSJ"
+    excerpt: "Llama 2 is Meta's open source AI language model launched in July, and distributed by Microsoft's cloud Azure services to compete with OpenAI's ChatGPT and Google's Bard. The planned system, details of which could still change, would help other companies ..."
+    publishedDateTime: 2023-09-11T06:35:00Z
+    webUrl: "https://www.rte.ie/news/business/2023/0911/1404572-metas-new-ai-system/"
+    type: article
+    provider:
+      name: RTE Online
+      domain: www.rte.ie
+    quality: 39
+    images:
+      - url: "https://img.rasset.ie/001c1023-1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Meta developing an AI model more powerful than LLaMa 2"
+    excerpt: "Meta believes that the new model will be as powerful as GPT-4, OpenAI's most impressive LLM yet. Meta is competing with the likes of Google, OpenAI, Microsoft, and Apple, all in a deep race and a rush to invest their resources and finances in developing the latest artificial intelligence models."
+    publishedDateTime: 2023-09-11T19:03:00Z
+    webUrl: "https://interestingengineering.com/innovation/meta-ai-model-more-powerful-llama-2"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/09/11/image/jpeg/FjZIX0P2fuHnGgDSH6Ie34qgvPiaK5ghlmTAYdzB.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Meta is developing a new, more powerful AI system, Wall Street Journal reports"
+    excerpt: "The Wall Street Journal reported on September 10, 2023, that Meta is on a mission to create an AI system that can compete with OpenAI's state-of-the-art models."
+    publishedDateTime: 2023-09-11T18:15:00Z
+    webUrl: "https://techstory.in/meta-is-developing-a-new-more-powerful-ai-system-wall-street-journal-reports/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
     quality: 37
     images:
-      - url: "https://wpwww-prod.s3.us-west-2.amazonaws.com/uploads/sites/164/2023/09/report-3183779_640.jpg"
-        width: 640
-        height: 488
+      - url: "https://techstory.in/wp-content/uploads/2023/09/107101365-1660073087949-gettyimages-1242008364-RAFAPRESS_19072022-01776-360x240.jpeg"
+        width: 360
+        height: 240
         isCached: true
-  - title: "Funding to generative AI seed startups doubled in Q2"
-    excerpt: "So far, at least, the answer is the latter: the true test for any technology is not only when the major tech companies start latching on ... across 48 seed stage deals alone in the generative AI space, nearly doubling the amount of money from the previous ..."
-    publishedDateTime: 2023-09-08T19:12:00Z
-    webUrl: "https://vator.tv/news/2023-09-08-funding-to-generative-ai-seed-startups-doubled-in-q2"
+  - title: "Meta developing new, more powerful AI system, WSJ reports"
+    excerpt: "Meta Platforms (META.O) is working on a new artificial-intelligence system intended to be as powerful as the most advanced model offered by OpenAI, the Wall Street Journal reported on Sunday, citing people familiar with the matter."
+    publishedDateTime: 2023-09-11T12:47:00Z
+    webUrl: "https://www.ariananews.af/meta-developing-new-more-powerful-ai-system-wsj-reports/"
     type: article
     provider:
-      name: vator
-      domain: vator.tv
-    quality: 17
-  - title: "UK researchers start using AI for air traffic control"
-    excerpt: "UK researchers have produced a computer model of air traffic control in which all flight movements are directed by artificial intelligence rather than human beings. Their “digital twin” representation of airspace over England is the initial output of a £15mn project to determine the role that AI could play in advising and eventually replacing human air traffic controllers."
-    publishedDateTime: 2023-09-11T10:00:00Z
-    webUrl: "https://www.ft.com/content/783a9d91-cce3-4177-bfe0-5438aa3b892a"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
-  - title: "Smartcat, the Essential Language AI Platform for the Global Enterprise, Launches Multilingual Generative AI Content Creator"
-    excerpt: "Smartcat, the essential language AI platform for the enterprise, today announced the release of its multilingual generative AI content creator, which allows each company to use its own proprietary content as the basis for new content development in all languages."
-    publishedDateTime: 2023-09-13T10:13:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/09/13/9879982.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Ariana News
+      domain: ariananews.af
+    quality: 19
 
 secured: "+kotOD0EKEeoo9w214FwR5u0spnjyYIglUrGTOgTiZk5KBrtEWUJA6UjaUTVAhfIfuTATuNSgskQk8AIdFa1JHFyaeEiNqw6nFYQLueS12X5YuK+hj4J39grtbysTdpJl+Ve+gs0kOnZNP8PD/Z8ilgumegndW8wSssGbtOnEiUgq+GJRRVPwD5tF5haLDo0A3nv3eJFdyB1MEhtOveZEXA/WJO59sb39lQflv7gpdj0ulLdfO0EJUlby9q/2zzh1QDjtckjI0b01R6oYSFO6m7ax6crHZOttZV+wH0q0qIY0RGzFaa/NZIrUUSR3Up2/nzJFk9PJSaR5yAGSU3VC78ofQ0AnDUkUyhF3TOKi5E=;+4xcCwouRmPJ4Zd+wOC96Q=="
 ---

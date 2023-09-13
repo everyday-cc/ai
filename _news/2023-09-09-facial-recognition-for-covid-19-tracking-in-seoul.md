@@ -35,6 +35,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Facial recognition will ‘transform investigative work,’ says UK’s top cop"
+    excerpt: "The Metropolitan Police and the South Wales Police have been using live facial recognition software in trials over the past five years"
+    publishedDateTime: 2023-09-13T15:49:00Z
+    webUrl: "https://www.biometricupdate.com/202309/facial-recognition-will-transform-investigative-work-says-uks-top-cop"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 38
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
+        width: 2048
+        height: 1333
+        isCached: true
 
 secured: "mnmIZOzUISCysfluJG4nTmQsNEIh8KpDO4kUwuSOezgIwwn3/33rPMPd6NwWDQCb+trYXxz2Pi/tXnTVcVTbFITBkDhw6ZPDeUEY0No5rkAf4qXWshdXcHAaFJwkONnzGXxvOgA6CA7xIFdIB8Vb8i+1h0GtUqq944D8l+hCmJTYzMoc6F1OnZeNNEm6+JhV182MTtSTN9iWcEa17lWhDd1CJl9pYu0Jx0PAV6/MgE4J6YPgKtbbpmk7BqPtbiFWpydDi9uVgw/w8Kdpbvyz471H7Z4VSeMM4SsaxabFl6bXEVPHzT6bnLWDwupksMPe55E8l5U9Rjh5ROZqeLslyigHbuJfQRS4aDLKLdZgRBc=;JK4esU5xtCiZzYDkyy46LA=="
 ---
