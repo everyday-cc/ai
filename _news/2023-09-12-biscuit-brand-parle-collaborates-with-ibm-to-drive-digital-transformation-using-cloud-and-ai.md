@@ -25,59 +25,78 @@ images:
     isCached: true
 
 related:
-  - title: "Parle Products extends collaboration with IBM over cloud and AI solutions"
-    excerpt: "IBM has announced the expansion of its collaboration with Parle Products, an Indian biscuit brand, to further the company’s digital transformation journey. By deploying cloud and artificial intelligence (AI) for business solutions,"
-    publishedDateTime: 2023-09-12T10:55:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-parle-products-extends-collaboration-with-ibm-over-cloud-and-ai-solutions-3241176/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-parle-products-extends-collaboration-with-ibm-over-cloud-and-ai-solutions-3241176/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-parle-products-extends-collaboration-with-ibm-over-cloud-and-ai-solutions-3241176/lite/"
+  - title: "Joe Biden collaborates with Vietnam to raise funds for AI chips"
+    excerpt: "Sources revealed that Joe Biden, President, the United States (US), mentioned that the move is a formal “upgrading” of the relationship between the two countries. This collaboration is also believed to highlight critical sectors, including cloud computing, semiconductors and AI, Cointelegraph added."
+    publishedDateTime: 2023-09-13T06:27:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-joe-biden-collaborates-with-vietnam-to-raise-funds-for-ai-chips-3242009/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-joe-biden-collaborates-with-vietnam-to-raise-funds-for-ai-chips-3242009/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-joe-biden-collaborates-with-vietnam-to-raise-funds-for-ai-chips-3242009/lite/"
     type: article
     provider:
       name: The Financial Express
       domain: financialexpress.com
-    quality: 58
+    quality: 74
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-12T161744.255.jpg"
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/Artificial-Intelligence.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "IBM Cloud & AI Further Sweeten Parle's Digital Transformation Journey"
-    excerpt: "Tech major IBM on Tuesday announced the expansion of its collaboration with Parle Products to boost the company's digital tr"
-    publishedDateTime: 2023-09-12T09:24:00Z
-    webUrl: "https://menafn.com/1107051293/IBM-Cloud-AI-Further-Sweeten-Parles-Digital-Transformation-Journey"
+  - title: "US and Vietnam make deals on AI chips and tech worth billions"
+    excerpt: "President Joe Biden called the move a formal “upgrading” of the U.S.'s relationship with Vietnam and aims to create a “stable base” in the region rather than “contain China.”"
+    publishedDateTime: 2023-09-12T11:33:00Z
+    webUrl: "https://cointelegraph.com/news/us-vietnam-make-deals-on-ai-chips-tech"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 54
     images:
-      - url: "https://menafn.com/updates/pr/2023-09/12/I_f6348image_story.jpg"
-        width: 1382
-        height: 1020
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDkvM2YxMjg1MmEtOGRjYy00YmU3LTk1YmMtMDg4NDEyYjA3NjVmLmpwZw==.jpg"
+        width: 1160
+        height: 773
         isCached: true
-  - title: "Parle Products Collaborates With Ibm To Drive Digital Transformation Using Cloud And Ai"
-    excerpt: "Bengaluru, India, September 12, 2023 -- IBM (NYSE: IBM) today announced the expansion of its collaboration with Parle Products, the largest selling biscuit brand in India, to further the company's digital transformation journey."
-    publishedDateTime: 2023-09-12T11:35:00Z
-    webUrl: "https://menafn.com/1107052400/Parle-Products-Collaborates-With-Ibm-To-Drive-Digital-Transformation-Using-Cloud-And-Ai"
+  - title: "US and Vietnam unveil billions in semiconductor and AI deals"
+    excerpt: "The US and Vietnam have agreed billions of dollars in business deals and partnerships led by companies including Boeing, Microsoft and Nvidia, after the former foes upgraded their ties in a historic shift in response to China’s growing influence."
+    publishedDateTime: 2023-09-11T10:54:00Z
+    webUrl: "https://www.ft.com/content/a162bc92-806f-48f0-adae-367daaf7f982"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 31
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?132894"
-        width: 309
-        height: 250
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/global-trade.jpg"
+        width: 619
+        height: 377
         isCached: true
-  - title: "Labelbox Introduces LLM Solution to Help Enterprises Innovate with Generative AI, Expands Partnership with Google Cloud"
-    excerpt: "models for vision and natural language processing (NLP) and to automate key workflows. These integrations can be used to shorten the development cycles for generative AI applications by using Labelbox to empower human experts to evaluate LLM outputs more ..."
-    publishedDateTime: 2023-09-12T19:30:00Z
-    webUrl: "https://www.datanami.com/this-just-in/labelbox-introduces-llm-solution-to-help-enterprises-innovate-with-generative-ai-expands-partnership-with-google-cloud/"
+  - title: "US, Vietnam firms hold business summit during Biden visit; AI deals unveiled"
+    excerpt: "Executives at top U.S. and Vietnamese firms in the semiconductor, tech and aviation sectors are meeting on Monday as part of U.S. President Joe Biden's visit to Hanoi, seeking to forge business partnerships with new deals in AI unveiled."
+    publishedDateTime: 2023-09-11T10:50:00Z
+    webUrl: "https://www.aol.com/news/us-vietnam-firms-hold-business-035036981.html"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 0
+      name: AOL
+      domain: aol.com
+    quality: 36
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/90022d437fefea6ab164f70a45f067eb"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "FPT Announces US Investment, Workforce Development for AI and Semiconductor amid Biden's Vietnam Visit"
+    excerpt: "Secondly, FPT seeks investment and support for FPT University's initiatives in training engineers specializing in both semiconductor chip design and AI, aiming to bolster the workforce's capabilities in these critical fields. With AI training being a ..."
+    publishedDateTime: 2023-09-11T15:00:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/fpt-announces-us-investment-workforce-development-for-ai-and-semiconductor-amid-bidens-vietnam-visit/article_77890396-c32e-5afc-8b92-77fd849c973b.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 23
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/7/8c/78cd4f25-1c20-59f4-b1dc-863b72fc899e/64ff29ed3e518.image.jpg?crop=1914%2C1005%2C0%2C38&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "iqxOuU59rituH9t3/po8V3wGNgRlmB0ECcJipvHzBlN/BPLESy1HByGj2PRE5u7TVI2leJSM7cZMCOvbdpbKbcZQSU+QDonkJ1NTASQ9Bl3lNRd1JuKikwRRWr35z9yvv1eA/3P/iugHLo0E7iC9pBJog2pUNnf2aK2dTmLjkQAYv6hxgQ9byJxawJGONPIrwuEn2xggp6WUnhY00K63WEMIA463//9qsI9Rgz14zNDFe9HbD0ST5eHko8fOT+zoAJLWIQelripirTUG++mS1iQgLIPEiK9DLvU3CR411UGuHS2X3MSnnixHD+jNufFdvSivrs8ww4CX/3JCbT3rdUybyo/cwr0DhhlZH6SdSs4=;lNTf4lc+fTYnQHm91NlhzA=="
 ---

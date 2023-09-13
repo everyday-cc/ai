@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ai-integration-in-
 webUrl: "https://markets.businessinsider.com/news/stocks/ai-integration-in-biotech-pharma-companies-positioned-to-benefit-1032621068"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Business Insider
@@ -27,6 +27,17 @@ images:
     width: 1024
     height: 768
     isCached: true
+
+related:
+  - title: "Administration Secures Voluntary Commitments from Eight Additional Artificial Intelligence Companies to Manage the Risks Posed by AI"
+    excerpt: "The companies commit to investing in cybersecurity and insider threat safeguards to protect proprietary and unreleased model weights. These model weights are the most essential part of an AI system, and the companies agree that it is vital that the model weights be released only when intended and when security risks are considered."
+    publishedDateTime: 2023-09-12T18:17:00Z
+    webUrl: "https://www.hstoday.us/subject-matter-areas/cybersecurity/administration-secures-voluntary-commitments-from-eight-additional-artificial-intelligence-companies-to-manage-the-risks-posed-by-ai/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 1
 
 secured: "YZP8s9SDZ6R1o3cFmJ/3jc0QX+E0+U2pBbT0mDzc9nH4LigXR04q8VuYnSEbrlQIpL8Rs6kzPQd5xmifiyKfEh4fbFk5kXzYxF52tQJSjVpmebji01ywhpZY/6PffNSChImrIvybJEBc9U3CDV6McxozeicHf7p2o3qiGTcNua0cTlIQOvA2IgUlPc1yqng+q8NzBTpC9kJNGRhx6wmXtkJn8KP7w0BOJBrdJDoXfb6Wq4oKBV3fUeTurkHlz40lCi4aaNRflgvANMMiW0DLIiZqsM3Okrft/rjfw0q48Br1Gea4G1QDjTgMvUiSRooncXGyGpxb3N4QcUydC8lcZmI2qXuqu93dtbK8pWMzu7s=;YTwti/LMxby36MzZSamlVQ=="
 ---

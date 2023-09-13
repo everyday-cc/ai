@@ -156,20 +156,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft and Paige join forces to develop world’s biggest AI model to detect cancer"
-    excerpt: "Yesterday, a partnership was announced between Paige, a pioneering cancer diagnostics company, and Microsoft. The collaboration is to build the largest"
-    publishedDateTime: 2023-09-08T14:23:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-and-paige-join-forces-to-develop-worlds-biggest-ai-model-to-detect-cancer/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 47
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2021/01/Artificial-intelligence-1024x768-1.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Blumenthal-Led Subcommittee to Hear From Microsoft President on Artificial Intelligence"
     excerpt: "Microsoft President Brad Smith and the chief scientist of NVIDIA Corporation are among the witnesses slated to offer testimony on artificial intelligence Tuesday before a Senate subcommittee led by U."
     publishedDateTime: 2023-09-12T09:00:00Z

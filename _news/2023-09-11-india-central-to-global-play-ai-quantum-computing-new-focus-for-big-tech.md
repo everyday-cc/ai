@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/life/technology-india-central-to-gl
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-india-central-to-global-play-ai-quantum-computing-new-focus-for-big-tech-3238807/lite/"
 type: article
 quality: 57
-heat: 97
+heat: 77
 published: true
 
 provider:
@@ -43,17 +43,6 @@ related:
         width: 320
         height: 213
         isCached: true
-  - title: "Jio Platforms and NVIDIA team up to build new AI cloud infrastructure in India"
-    excerpt: "Jio Platforms Limited, a subsidiary of Reliance Industries Limited, has collaborated with NVIDIA to build a cloud-based AI computing infrastructure in India in order to accelerate the country's AI development efforts and address social challenges."
-    publishedDateTime: 2023-09-08T13:30:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2586535-jio-platforms-and-nvidia-team-up-to-build-new-ai-cloud-infrastructure-in-india"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2586535-jio-platforms-and-nvidia-team-up-to-build-new-ai-cloud-infrastructure-in-india?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2586535-jio-platforms-and-nvidia-team-up-to-build-new-ai-cloud-infrastructure-in-india?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 35
   - title: "State of play: Artificial intelligence in the supply chain"
     excerpt: "Venture capital investors are increasingly putting their money on artificial intelligence in supply chains. Why it matters: AI has often been seen as a means to drive efficiency, and no other industry is riper for this tech than the supply chain,"
     publishedDateTime: 2023-09-12T14:29:00Z
@@ -63,15 +52,6 @@ related:
       name: Axios
       domain: axios.com
     quality: 32
-  - title: "Former Intel czar’s AI plans for India include data centres every 100 km"
-    excerpt: "From how one of his memos led to ‘propaganda’ about chip packaging continuing Moore’s Law to the fate of soft-knowledge jobs in the post-AI era, former Intel chief architect Raja Koduri opens up in a"
-    publishedDateTime: 2023-09-08T13:11:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/startup/former-intel-czars-ai-plans-for-india-include-data-centres-every-100-km-11336021.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 18
 
 secured: "kiv79Uq6bWPkD1OH2pageYRXjYywnt7lraZkaEivLljMNWUAzLQlu+QWsqTPiSif5k0FkIa5Yg9JHqJa/6z1Rjy+30xffRTIBdY07iURx5/WX96rjoTONANdQDKDo77fZfAkKwtAJCUZ3WY7LqINUqkakURqFDxxeS2mQiK+922gWVENMZq6OroAqXa4GPWoik+ETJb/9b3HW4iRSNAcj231WRgQXcxWxwyeeJaScA3ivEToVEraIdjwVl9Mal2DSwceFnyK3ZbVqTt2R5zGbE4aUqNd19CGpkFuxkMvGxFrJruDzwuLOVCH0lhZhgqvl7yIhlqW/I6zo4UwT9h1QozG0vT2s+7R/NxexznrGRI=;HSNMYDUGI1LZxYVlJsGVQg=="
 ---

@@ -89,22 +89,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Guide to Artificial Intelligence ETFs"
-    excerpt: "Robots and artificial intelligence (AI) are increasingly gaining precedence in our daily life. The pandemic-driven stay-at-home trend made these more important as we have become more dependent on ..."
-    publishedDateTime: 2023-09-08T16:21:00Z
-    webUrl: "https://247wallst.com/investing/2023/09/07/guide-to-artificial-intelligence-etfs/"
-    ampWebUrl: "https://247wallst.com/investing/2023/09/07/guide-to-artificial-intelligence-etfs/"
-    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/investing/2023/09/07/guide-to-artificial-intelligence-etfs/"
-    type: article
-    provider:
-      name: 24/7 Wall St
-      domain: 247wallst.com
-    quality: 59
-    images:
-      - url: "https://247wallst.com/wp-content/uploads/2019/01/robot_icon.jpg"
-        width: 1366
-        height: 768
-        isCached: true
   - title: "How To Stay Afloat In The AI Surge"
     excerpt: "AI isn’t just a fleeting trend – AI is becoming more and more intertwined with our workflows. This rapid evolution offers immense technological benefits but has also introduced considerable challenges,"
     publishedDateTime: 2023-09-12T13:00:00Z
@@ -132,20 +116,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "How to learn a new language with AI"
-    excerpt: "Artificial intelligence (AI) has made significant strides ... While not originally designed as educational tools for language learning, translation applications like Google Translate, DeepL ..."
-    publishedDateTime: 2023-09-08T14:05:00Z
-    webUrl: "https://www.geeky-gadgets.com/how-to-learn-a-new-language-with-ai/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/learning.jpg"
-        width: 700
-        height: 525
-        isCached: true
   - title: "An AI reality check"
     excerpt: "While thousands and thousands of people have been working with artificial intelligence for years ... at AI’s medical applications and drug development — how you can tailor therapy and predict response to treatment. If humans ask the right questions ..."
     publishedDateTime: 2023-09-11T17:00:00Z

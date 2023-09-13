@@ -7,7 +7,7 @@ originalUrl: "https://www.hrw.org/news/2023/09/11/qa-australias-referendum-abori
 webUrl: "https://www.hrw.org/news/2023/09/11/qa-australias-referendum-aboriginal-and-torres-strait-islander-voice"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Corporate Australia’s support for Indigenous Voice fails to win over public"
+    excerpt: "Australian businesses’ support for the Voice is doing little to boost the flagging fortunes of the ‘yes’ campaign."
+    publishedDateTime: 2023-09-13T05:16:00Z
+    webUrl: "https://www.aljazeera.com/economy/2023/9/13/corporate-australia-backed-a-voice-on-indigenous-rights-it-now-faces-defeat"
+    ampWebUrl: "https://www.aljazeera.com/amp/economy/2023/9/13/corporate-australia-backed-a-voice-on-indigenous-rights-it-now-faces-defeat"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2023/9/13/corporate-australia-backed-a-voice-on-indigenous-rights-it-now-faces-defeat"
+    type: article
+    provider:
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 57
+    images:
+      - url: "https://www.aljazeera.com/wp-content/uploads/2023/09/GettyImages-1632671710-1694568922.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Asking Australia for an Indigenous voice isn’t new – it’s been a long and difficult struggle"
     excerpt: "Without knowledge of this history we believe it’s impossible for voters to understand where the campaign for Indigenous recognition and the voice has come from. We believe that empathy can only be built on knowledge and understanding. In the words of ..."
     publishedDateTime: 2023-09-11T00:29:00Z

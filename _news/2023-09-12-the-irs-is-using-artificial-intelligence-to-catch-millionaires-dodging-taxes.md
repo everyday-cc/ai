@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/business-news/irs-uses-ai-to-fight-ta
 webUrl: "https://www.entrepreneur.com/business-news/irs-uses-ai-to-fight-tax-evasion-millionaires-dodging-taxes/458884"
 type: article
 quality: 79
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -41,22 +41,6 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/03dy9aKYyJ9IxDEs7NsiNY7-1.fit_lim.size_1200x630.v1694438424.jpg"
         width: 1120
         height: 630
-        isCached: true
-  - title: "The IRS is going after 1,600 millionaires who owe hundreds of millions in overdue taxes, and it's using AI to catch them"
-    excerpt: "\"If you pay your taxes on time it should be particularly frustrating when you see that wealthy filers are not,\" IRS Commissioner Daniel Werfel said."
-    publishedDateTime: 2023-09-08T13:52:00Z
-    webUrl: "https://www.businessinsider.com/irs-going-after-millionaires-big-business-partnerships-for-overdue-taxes-2023-9"
-    ampWebUrl: "https://www.businessinsider.com/irs-going-after-millionaires-big-business-partnerships-for-overdue-taxes-2023-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/irs-going-after-millionaires-big-business-partnerships-for-overdue-taxes-2023-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
-    images:
-      - url: "https://i.insider.com/64fb23183d3923001976a9c0?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "IRS deploys artificial intelligence to catch tax evasion"
     excerpt: "The tax agency is opening examinations into large hedge funds, private equity groups, real estate investors and law firms"

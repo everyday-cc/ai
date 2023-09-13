@@ -35,20 +35,6 @@ related:
         width: 534
         height: 462
         isCached: true
-  - title: "UNESCO calls for regulations on use of GenAI in schools"
-    excerpt: "The United Nations Educational, Scientific and Cultural Organisation (UNESCO) called on governments to regulate the use of Generative Artificial Intelligence (GenAI) in education and research."
-    publishedDateTime: 2023-09-08T14:25:00Z
-    webUrl: "https://www.onmanorama.com/news/world/2023/09/08/disadvantages-of-chatgpt-genai.html"
-    type: article
-    provider:
-      name: onmanorama
-      domain: onmanorama.com
-    quality: 39
-    images:
-      - url: "https://img.onmanorama.com/content/dam/mm/en/news/world/images/2023/9/8/chatgpt-onmanorama.jpg"
-        width: 1248
-        height: 650
-        isCached: true
 
 secured: "b99hnqajrhR2sQ+/I9Ts6H+feJ7vVJ2TMjdyXcG+cnCzLyVaSsKpxiwzAVfQ7msqVf4pkEgy4YtCUtT6eiC1rxyiBk0SKjPT1B9iEOiajkHqVAl90ZMBTYb+4rlcIpxO9hvZ/n5h+vn254WuUoqSCnAiNM8gCzGGCCvkLnBaUBmZnc4Ob5tAMlq3ade9REEQlUHXFVhkn1PNHpJAepxzpfqFoxYRuO6WEACaDLIEImjToBBNeRZJ+6sp3LxfWDmZJj+vYLGudMZxysjh38oksWNsJHx7s/3lTEZbcu/BbHPCF+u5NpyZAtoW8kWmzq2SunOH90PASUEz5nAUHGEYTgLOxxCKI8MwbxfwQ4nsynTxZWihG7vj45HfiiL1528i3eUwKYhba1Fa0sQsRKtogyQ0gCpDbtcUTSVV+Qzrr70YIM3vjMBemQW27FMNbbNrajPt3/IoQbPs/NWN9QM3VbKEQlKqSlcEu0NpV5vIppvjBvg1ZeNM4RV7n8V1z84cR10GfWSydABaT1XA+NttCA==;f5VnQVk9KvDoMvX9196PvA=="
 ---

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-13-the-best-smart-watches-in-2023-2024-from-blood-sugar-monitoring-to-ai-personal-training.md",
+      "title": "The Best Smart Watches In 2023 / 2024: From Blood Sugar Monitoring To AI Personal Training",
+      "excerpt": "Discover the future on your wrist with 2023/2024's top smartwatches, featuring groundbreaking advancements such as non-invasive blood glucose monitoring and AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/13/the-best-smart-watches-in-2023--2024-from-blood-sugar-monitoring-to-ai-personal-training/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/13/the-best-smart-watches-in-2023--2024-from-blood-sugar-monitoring-to-ai-personal-training/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65015a9ae9ddcd7ea0e63cdb/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/13/the-best-smart-watches-in-2023--2024-from-blood-sugar-monitoring-to-ai-personal-training/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/09/13/the-best-smart-watches-in-2023--2024-from-blood-sugar-monitoring-to-ai-personal-training/amp/",
+      "publishedDateTime": "2023-09-12T23:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-12-uk-government-tests-frictionless-trade-models-with-ecosystem-of-trust-pilots.md",
       "title": "UK Government tests frictionless trade models with Ecosystem of Trust pilots",
       "excerpt": "Novel, digital, risk-based methods for border control can provide higher quality data and could decrease decision-making.\nThe post UK Government tests frictionless trade models with Ecosystem of Trust pilots appeared first on IBM Blog.\n",
@@ -1010,10 +1062,10 @@
     {
       "path": "_news/2023-08-31-ibm-and-salesforce-team-up-to-help-businesses-accelerate-adoption-of-trustworthy-ai.md",
       "title": "IBM and Salesforce Team Up To Help Businesses Accelerate Adoption of Trustworthy AI",
-      "excerpt": "ARMONK, N.Y. and SAN FRANCISCO, Aug. 31, 2023 /CNW/ -- Today, IBM IBM and Salesforce CRM announced a collaboration to help businesses worldwide across industries accelerate their adoption of AI ...",
+      "excerpt": "ARMONK, N.Y. and SAN FRANCISCO, Aug. 31, 2023 /PRNewswire/ -- Today, IBM IBM and Salesforce CRM announced a collaboration to help businesses worldwide across industries accelerate their adoption ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/n34140598/ibm-and-salesforce-team-up-to-help-businesses-accelerate-adoption-of-trustworthy-ai",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/n34140598/ibm-and-salesforce-team-up-to-help-businesses-accelerate-adoption-of-trustworthy-ai",
+      "webUrl": "https://www.benzinga.com/pressreleases/23/08/n34140555/ibm-and-salesforce-team-up-to-help-businesses-accelerate-adoption-of-trustworthy-ai",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/n34140555/ibm-and-salesforce-team-up-to-help-businesses-accelerate-adoption-of-trustworthy-ai",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1030,8 +1082,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34140598",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34140598",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34140555",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34140555",
       "publishedDateTime": "2023-08-31T05:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1270,49 +1322,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-ibm-introduces-watsonx-your-business.md",
-      "title": "Ibm Introduces 'Watsonx Your Business'",
-      "excerpt": "(MENAFN- PR Newswire) New Advertising Reinforces the Transformative Power of Innovative AI Solutions Tailored to Business ARMONK, N.Y., Aug. 28, 2023 /PRNewswire/ -- IBM (NYSE: IBM ) today ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1106974965/Ibm-Introduces-Watsonx-Your-Business",
-      "originalUrl": "https://menafn.com/1106974965/Ibm-Introduces-Watsonx-Your-Business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2023-08/28/PN_bef0e01b-8_Image_In_Body.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-28T10:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

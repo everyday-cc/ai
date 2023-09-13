@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/09/microsoft-off
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/microsoft-offers-legal-protection-for-ai-copyright-infringement-challenges/amp/"
 type: article
 quality: 102
-heat: 312
+heat: 302
 published: true
 
 provider:
@@ -159,20 +159,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/pWRjPDRfzbKR5LodtPeLx5-1200-80.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Microsoft and Paige join forces to develop world’s biggest AI model to detect cancer"
-    excerpt: "Yesterday, a partnership was announced between Paige, a pioneering cancer diagnostics company, and Microsoft. The collaboration is to build the largest"
-    publishedDateTime: 2023-09-08T14:23:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-and-paige-join-forces-to-develop-worlds-biggest-ai-model-to-detect-cancer/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 47
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2021/01/Artificial-intelligence-1024x768-1.jpg"
-        width: 1024
-        height: 768
         isCached: true
   - title: "Blumenthal-Led Subcommittee to Hear From Microsoft President on Artificial Intelligence"
     excerpt: "Microsoft President Brad Smith and the chief scientist of NVIDIA Corporation are among the witnesses slated to offer testimony on artificial intelligence Tuesday before a Senate subcommittee led by U."

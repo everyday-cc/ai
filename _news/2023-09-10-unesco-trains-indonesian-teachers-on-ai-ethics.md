@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/unesco-trains-indonesian-teachers-on-
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/unesco-trains-indonesian-teachers-on-ai-ethics/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "UNESCO calls for regulations on use of GenAI in schools"
-    excerpt: "The United Nations Educational, Scientific and Cultural Organisation (UNESCO) called on governments to regulate the use of Generative Artificial Intelligence (GenAI) in education and research."
-    publishedDateTime: 2023-09-08T14:25:00Z
-    webUrl: "https://www.onmanorama.com/news/world/2023/09/08/disadvantages-of-chatgpt-genai.html"
-    type: article
-    provider:
-      name: onmanorama
-      domain: onmanorama.com
-    quality: 39
-    images:
-      - url: "https://img.onmanorama.com/content/dam/mm/en/news/world/images/2023/9/8/chatgpt-onmanorama.jpg"
-        width: 1248
-        height: 650
-        isCached: true
   - title: "Governments Must Quickly Regulate Generative Ai In Schools, Unesco"
     excerpt: "designed to address the disruptions caused by Generative AI technologies. Building on UNESCO's 2021 Recommendation on the Ethics of Artificial Intelligence and the 2019 Beijing Consenon Artificial Intelligence in Education , the guidance promotes human ..."
     publishedDateTime: 2023-09-08T19:43:00Z

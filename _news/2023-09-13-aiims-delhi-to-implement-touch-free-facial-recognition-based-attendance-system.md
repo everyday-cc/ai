@@ -7,7 +7,7 @@ originalUrl: "https://www.deccanherald.com/india/delhi/aiims-delhi-to-implement-
 webUrl: "https://www.deccanherald.com/india/delhi/aiims-delhi-to-implement-touch-free-facial-recognition-based-attendance-system-2683534"
 type: article
 quality: 50
-heat: 60
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "IIT Madras students urge admin to roll back new facial recognition attendance system"
-    excerpt: "Student collective ChintaBAR expresses students’ concern that the data might be misused by the administration to monitor student activity"
-    publishedDateTime: 2023-09-09T13:26:00Z
-    webUrl: "https://www.edexlive.com/campus/2023/sep/09/iit-madras-students-urge-admin-to-roll-back-new-facial-recognition-attendance-system-37551.html"
+  - title: "AIIMS Delhi to adopt touch-free facial recognition for employee attendance"
+    excerpt: "The All India Institute of Medical Sciences in New Delhi is set to implement a touch-free facial recognition-based and Aadhaar-enabled attendance system for its employees, prioritizing health and safety."
+    publishedDateTime: 2023-09-13T06:59:00Z
+    webUrl: "https://www.cnbctv18.com/healthcare/aiims-delhi-facial-recognition-attendance-aadhaar-biometric-system-aebas-17793491.htm"
     type: article
     provider:
-      name: edexlive
-      domain: edexlive.com
-    quality: 12
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 52
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/09/pti12-11-2022-000121b-1019x573.jpg"
+        width: 1019
+        height: 573
+        isCached: true
 
 secured: "BvEfo+znjT30d29A1WLQJc6OGsAxuNpTSAgVwW2gSi25jvtxRaOWYfGP1y/kcEpHt1w2KmFowJdgQvX6z6Psp/3sSB11rXlQHf5AX6+gDgWkJY0AWPwQk6K1ZlsB4GWf31EVJFlmspD4MmsNK+Ns7G2/pyduJqr2VCEPK6pW4O0mOICt30Ac76OSP/DYfWjFvz4xYQyLAtbBvZ/SBWgObb3R3ertdgf1deRFZBPINR2lQiRwpn4vJSCeQGZDb8KwqCRx7hT4H75qScyMiZcFe8iVWTil0omPL5IktShVN2v+OUw8Nb4QTKnw7JfodGStdM6KAcPNyZD41GaZIF3skzY8yrgwryJtcHXNe0Pquw7NwGUdm6BiDiMOY2FgvNX8EG0j2tUUDWxcNqNfRyJgLgCOJlrvWZJQqeMcbkJcK0MbyUKXnmS2RcG5Ws6Zyb15h1eKuAc+SalT+oEA+tjKTMHMl1PzTz86vrPqF+LTr9EMKy5PAV+vkBLjmyfsyPJ9wcXMCSFAk+UBmJhebRJK7g==;Wj42sAMU1mpEpN6SCqDmZw=="
 ---
