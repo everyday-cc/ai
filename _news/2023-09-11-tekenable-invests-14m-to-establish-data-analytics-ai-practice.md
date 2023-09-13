@@ -24,31 +24,6 @@ images:
     height: 350
     isCached: true
 
-related:
-  - title: "SAS ups AI features in its analytics and CRM platforms"
-    excerpt: "The company said it’s working with Microsoft Corp. to develop a generative AI integration that combines Microsoft Azure OpenAI with SAS’ enterprise task orchestration and analytics in a product to be previewed in the fourth quarter."
-    publishedDateTime: 2023-09-12T18:26:00Z
-    webUrl: "https://siliconangle.com/2023/09/12/sas-ups-ai-features-analytics-crm-platforms/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
-  - title: "Officeworks' data and analytics investments pay off"
-    excerpt: "Officeworks’ customer data and analytics platform uses a machine learning model built in Amazon SageMaker, which is fed customers’ purchase history, product preferences, and product characteristics; these features are tracked and collected across the ..."
-    publishedDateTime: 2023-09-11T20:54:00Z
-    webUrl: "https://www.itnews.com.au/news/officeworks-data-and-analytics-investments-pay-off-600039"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 24
-    images:
-      - url: "https://i.nextmedia.com.au/News/Office_work_TWO.jpg"
-        width: 1400
-        height: 900
-        isCached: true
-
 secured: "GWQqwuZSRcttLUSdhA+rkAHxOsaMHFsQFmX6rdVIq7fLUPIg4PpY4mjRoWEI3sdgTAAtY76DH8ofPxS9r8z6up6U68Gn2WXzZBnUsdksYOBipa05JWKAik+UD/GvQ5GcYtL4zy2PuYvFUgpY3mRIqK9mwvrBZ55QL62QPY/hRzPUjK3lsnpB3fohegVOyD16kC3wXjQmm71s1Fco2rgortWxoREyJM6O+kq90dAZkis3HbILJIYJhxg5i/ls1xXzUqBPKOXA8pRS2zq724ncRn6JXE9I3bAvzH+DwjBoYMRfk2+mNK1wXI51BRiw45GyAlQXI8EmiwUx3QrH9GB7TlJvQA1InY2l796eNGdjmFw=;nSdh2sA/lMQ/KfhUR+R9YA=="
 ---
 

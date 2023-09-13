@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-neurotech-allows-stroke-survivor-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-neurotech-allows-stroke-survivor-speak-brainwaves-thinking-paralyzed-2023-9?amp"
 type: article
 quality: 74
-heat: 76
+heat: 74
 published: true
 
 provider:

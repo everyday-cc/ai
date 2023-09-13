@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/articles/2-ai-stocks-to-transform-your-port
 webUrl: "https://www.nasdaq.com/articles/2-ai-stocks-to-transform-your-portfolio"
 type: article
 quality: 51
-heat: 83
+heat: 81
 published: true
 
 provider:

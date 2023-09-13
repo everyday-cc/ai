@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/tencent-latest-to-join-chin
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tencent-latest-to-join-chinas-genai-race-with-foundation-model-for-enterprises/"
 type: article
 quality: 85
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://img.onmanorama.com/content/dam/mm/en/news/world/images/2023/9/8/chatgpt-onmanorama.jpg"
         width: 1248
         height: 650
-        isCached: true
-  - title: "China’s Tencent Unveils Its First General Large Language AI Model Hunyuan"
-    excerpt: "(Yicai) Sept. 8 -- Chinese internet titan Tencent Holdings debuted its first large language artificial intelligence model Hunyuan at its Global Digital Ecosystem Summit in Shenzhen."
-    publishedDateTime: 2023-09-08T06:58:00Z
-    webUrl: "https://www.yicaiglobal.com/news/chinas-tencent-unveils-its-first-general-large-language-ai-model-hunyuan"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 38
-    images:
-      - url: "http://img.yicaiglobal.com/src/image/2023/09/32931611694789.jpg"
-        width: 770
-        height: 510
         isCached: true
 
 secured: "xLRdZYTykMeSlvwlQSqo+2dW4UaObyY/cc/rfHju+IYkeH7eMkXDNw0cxQk4V1SBTbhB8zmXrEw6rNkD1OjPS6/kFjNlO2EJAB4nixAmKh/M/5KZHZp+ylDmUaA6z+QZC6tKAZkInQ2UBJeeVPD7hITykomjcbzCkDL6r8azDHDf3zBoqSMtEZFz3HAvNTEKPV3yRsrKMG36wV6l3ClNuLMQFVtrUt5cb3b2Sr1RcLkxS1PeUH6+dYNVbFw09Ce5P3VqBTjkMlv3sTviediTRInXcqMPtg2G+unp3o0zbM9eARSzmyBanzD9Ax8MWyivzsGY1HB0hhUsxQhgo4uT+3HwwgF63tX90PR6s/FyCRIvjyyDpgJ9oJm96e7mGYdq+DC8HOEPPjwslo84mJ3eKpO8bLDIxMK/F1fylDRqTK25NWkkYnBYS3HgoqeENKohKXbESI6RICOJAVjU8FWsNgFvIkk1CZvZHSNT7nx1GNtNhRhYBy+zREJqTtSi9xvutIRtPoCfxSfKa9IBzA/aSg==;bmZ+exBHrcW5wRYmGP77SQ=="

@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Tekenable invests €1.4m to establish data analytics & AI practice"
-    excerpt: "Irish digital services company Tekenable has announced plans to invest €1.4 million in a new data analytics and AI practice. The move is expected to create 20 jobs in cloud engineering, AI engineering,"
-    publishedDateTime: 2023-09-11T14:15:00Z
-    webUrl: "https://www.techcentral.ie/tekenables-e1-4-million-investment-to-establish-a-data-analytics-ai-practice/"
+  - title: "SQream calls in $45M to expand its GPU-based big data analytics platform"
+    excerpt: "Israeli data analytics startup SQream made a bet on the potential of GPUs as a cornerstone of enabling the processing and querying of big"
+    publishedDateTime: 2023-09-12T16:30:00Z
+    webUrl: "https://techcrunch.com/2023/09/12/sqream-series-c/"
+    ampWebUrl: "https://techcrunch.com/2023/09/12/sqream-series-c/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/12/sqream-series-c/amp/"
     type: article
     provider:
-      name: Mozilla
-      domain: techcentral.ie
-    quality: 39
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 88
     images:
-      - url: "https://www.techcentral.ie/wp-content/uploads/2023/09/pl-rPeter-Rose-Group-CTO-and-Nick-Connors-Group-CEO-TEKenable-1.jpg"
-        width: 525
-        height: 350
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1352189853-1.jpg?resize=1200,800"
+        width: 1200
+        height: 800
         isCached: true
   - title: "SAS ups AI features in its analytics and CRM platforms"
     excerpt: "The company said it’s working with Microsoft Corp. to develop a generative AI integration that combines Microsoft Azure OpenAI with SAS’ enterprise task orchestration and analytics in a product to be previewed in the fourth quarter."
@@ -48,6 +50,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 36
+  - title: "SQream reels in $45M for its speedy GPU-powered database"
+    excerpt: "SQreamDB provides integrations with Tableau and several other popular BI products. “As generative AI shines a light on the importance of leveraging AI and ML within enterprises, as well as the value of GPUs as part of the analytics process, we have seen ..."
+    publishedDateTime: 2023-09-12T19:25:00Z
+    webUrl: "https://siliconangle.com/2023/09/12/sqream-reels-45m-speedy-gpu-powered-database/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
 
 secured: "MhdgMLlQP7MGxLTp0DHRxjQbv7huCwqwkvuJubQBeZjN9w8i2GiT474GJmMqtwu8GfNt6GIo8Mu1/O9DVlHBAXXDMIa7PDzt8u55q+L/sdIMZkhQHW/zqyKu1Un4QQ1cu5vfdPRPvD26QaIvD6NhMXJ4CuQmOhQEwJQTIUF7WbUhQhmj7c2dFGtAykugibPEVZjWCx70X5kvMeC1ODaNpDmR4vDtZ/gjXkcI0y3wBBoNEbV/50vadPV2QBQ0apkjoppbgSGciCfEIDy4XZGW1SKAK71D2NFKTkjLIJfH17+k3riRPmPgRg3jRXvri50FYTmW21zetX+AiQs8IIV+H/CNJm7y5k0NUGqURF1zllOZHD84QPulKt7Cfj0BtpqnTE2KecD6HuC+/5H7RFmsrUJKmqRTOe/jMvppHdN7T8ObPhI9w/QwbdYJE+ICMreXHmdpo/900zGavOFYZYXs/xop28+EuJKy4tZAQCk1wMnyyH6FxRbDRP+bC8XGftiplx+KqLL4gdI7XmupPckCnw==;WKw9JMoSq8V62IP0zmUstg=="
 ---

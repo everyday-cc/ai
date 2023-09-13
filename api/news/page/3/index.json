@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-11-us-rejects-ai-copyright-for-famous-state-fair-winning-midjourney-art.md",
+      "title": "US rejects AI copyright for famous state fair-winning Midjourney art",
+      "excerpt": "On Tuesday, the US Copyright Office Review Board rejected copyright protection for an AI-generated artwork that won a Colorado State Fair art contest last year because it lacks human authorship required for registration,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/09/us-rejects-ai-copyright-for-famous-state-fair-winning-midjourney-art/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/09/us-rejects-ai-copyright-for-famous-state-fair-winning-midjourney-art/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/art_contest_winner-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/09/us-rejects-ai-copyright-for-famous-state-fair-winning-midjourney-art/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/us-rejects-ai-copyright-for-famous-state-fair-winning-midjourney-art/amp/",
+      "publishedDateTime": "2023-09-11T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-11-ai-leaders-focus-on-impact-on-education-at-derry-conference.md",
+      "title": "AI leaders focus on impact on education at Derry conference",
+      "excerpt": "AI is the \"greatest threat but also potentially the greatest benefit to our students, staff and schools\", the group of teachers, led by Sir Anthony Seldon, headteacher of Epsom College in England, said in the letter. Prime Minister Rishi Sunak said regulation had to evolve at the same time as rapid changes are made in AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/uk-northern-ireland-66774275",
+      "originalUrl": "https://www.bbc.co.uk/news/uk-northern-ireland-66774275",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/ED53/production/_131055706_gettyimages-1498385993.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/uk-northern-ireland-66774275.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-northern-ireland-66774275.amp",
+      "publishedDateTime": "2023-09-11T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2023-09-11-back-to-school-with-ai.md",
       "title": "Back To School With AI",
       "excerpt": "Exploration and adoption of artificial intelligence should be intentional not incidental. Mindful, not mindless.",
@@ -541,7 +636,7 @@
       "originalUrl": "https://www.insidermonkey.com/blog/top-5-ai-and-robotics-companies-transforming-the-agriculture-sector-1192684/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -584,7 +679,7 @@
       "originalUrl": "https://www.marketwatch.com/story/arm-ipo-5-things-to-know-about-the-chip-designer-central-to-the-ai-transition-154d7059",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -731,7 +826,7 @@
       "originalUrl": "https://www.hrzone.com/lead/future/upskilling-with-ai-why-managers-cant-ignore-ethics",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -869,7 +964,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-neurotech-allows-stroke-survivor-speak-brainwaves-thinking-paralyzed-2023-9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1006,7 +1101,7 @@
       "originalUrl": "https://www.reuters.com/technology/meta-is-developing-new-more-powerful-ai-system-wsj-2023-09-10/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -1098,92 +1193,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-10-just-how-much-is-the-ai-discourse-helping-stocks-an-analyst-scoured-earnings-calls-for-clues.md",
-      "title": "Just how much is the AI discourse helping stocks? An analyst scoured earnings calls for clues",
-      "excerpt": "More S&P 500 index companies during the second quarter mentioned \"AI\" than at any point since at least 2010, according to an analysis published on Friday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/just-how-much-is-the-ai-discourse-helping-stocks-an-analyst-scoured-earnings-calls-for-clues-8c4a3c04",
-      "originalUrl": "https://www.marketwatch.com/story/just-how-much-is-the-ai-discourse-helping-stocks-an-analyst-scoured-earnings-calls-for-clues-8c4a3c04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-849154/social",
-          "width": 1279,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/just-how-much-is-the-ai-discourse-helping-stocks-an-analyst-scoured-earnings-calls-for-clues-8c4a3c04",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/just-how-much-is-the-ai-discourse-helping-stocks-an-analyst-scoured-earnings-calls-for-clues-8c4a3c04",
-      "publishedDateTime": "2023-09-10T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-10-2-ai-stocks-to-transform-your-portfolio.md",
-      "title": "2 AI Stocks to Transform Your Portfolio",
-      "excerpt": "Data from Grand View Research indicates a strong growth trajectory, with AI industry revenue expected to mushroom to $1.181 trillion by 2030, based on a CAGR of 37.3%. Additionally, Accenture's recent findings underscore the potential for enterprise applications,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/2-ai-stocks-to-transform-your-portfolio",
-      "originalUrl": "https://www.nasdaq.com/articles/2-ai-stocks-to-transform-your-portfolio",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-10T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

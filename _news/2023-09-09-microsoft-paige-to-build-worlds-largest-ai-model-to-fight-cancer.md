@@ -231,20 +231,6 @@ related:
       name: Slator
       domain: slator.com
     quality: 42
-  - title: "iTechGenic Partners with Microsoft Azure and G7 CR Technologies to Revolutionize Engineering Management with AI-Driven Insights"
-    excerpt: "India], September 8: iTechGenic, a pioneering AI-based engineering intelligence platform, has joined forces with Microsoft Azure and G7 CR Technologies- A Noventiq Company as a part of their STAB program for ISVs."
-    publishedDateTime: 2023-09-08T06:51:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273959357/itechgenic-partners-with-microsoft-azure-and-g7-cr-technologies-to-revolutionize-engineering-management-with-ai-driven-insights"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 41
-    images:
-      - url: "https://cdn.bignewsnetwork.com/NTNlM2U1N2UtMDR.jpg"
-        width: 630
-        height: 473
-        isCached: true
   - title: "Blackstraw Partners with Microsoft to Drive Enterprise-wide AI Adoption"
     excerpt: "Blackstraw AI announces partnership with Microsoft for its Solutions Partner Designation for Data & AI (Azure) and Digital & App Innovation (Azure)."
     publishedDateTime: 2023-09-12T12:41:00Z

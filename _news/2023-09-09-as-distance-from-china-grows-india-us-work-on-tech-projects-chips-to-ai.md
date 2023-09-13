@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/india/as-distance-from-china-grows
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/india/as-distance-from-china-grows-india-us-work-on-tech-projects-chips-to-ai-8931140/lite/"
 type: article
 quality: 71
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -87,15 +87,6 @@ related:
         width: 2560
         height: 1536
         isCached: true
-  - title: "US chipmaker Nvidia, Reliance to develop a large AI language model for India"
-    excerpt: "Nvidia will provide computing power for the project, while Reliance will develop AI apps, including a local language app for farmers to access weather info and crop prices."
-    publishedDateTime: 2023-09-08T05:07:00Z
-    webUrl: "https://theprint.in/tech/nvidia-reliance-to-develop-a-large-ai-language-model-for-india/1752293/"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 16
 
 secured: "DlSmA7Vd3Pj6cmNRxqGrszJCIBhqUC6ybZGMKVkPahYvACSAg5CGqMB1iqowiqb8NwiUrqzJr0tZ7W12zeCXV64CscUiWP0qPzhcMqgrak4Q8d4E6BnSKvRhptYfFeryLG2WOHhVtDT/BbAlF709f23WgXOB1snQpSdvpJawgi7wMJhNI0tuVUAozAdtOu+RnfKWVdFF+R2o2tKJrFkLe0LlRPzqi51PhWQwvNXLomTRt3+6xEBkuwEszPEvgtitNOqTstOqrhto/FtPyVvEE2o0iz2h/BVTDKNTTx7j9TLEHH6cf7UiZ2+e/gNGDbPhpAw1W4FyXh/eAAqsii+yq3Tx99c0qRlgSetFwolckNRtkp0FhFnf26bARaeyL98H/xz5yULOCY3Y9brDmmRpVWKNL5wK78W7Cg72Aa3scXUGxcKwdFX2W0EKOF101PCi8UaRTTIRYug2Y43jTSutnJ+DDko2sT5rfOkIYSPfX/TaiABUk5DLjpQ/BCUYRop3KfkRE29HA4Vwy6UoMa8K3g==;UKl5iBLcgCrUZqeBTF2hxw=="
 ---

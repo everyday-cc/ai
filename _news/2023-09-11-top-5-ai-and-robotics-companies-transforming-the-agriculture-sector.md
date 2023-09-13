@@ -9,7 +9,7 @@ ampWebUrl: "https://www.insidermonkey.com/blog/top-5-ai-and-robotics-companies-t
 cdnAmpWebUrl: "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/top-5-ai-and-robotics-companies-transforming-the-agriculture-sector-1192684/?amp=1"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "As the built environment changes, AI and machine learning tell a more complete story"
+    excerpt: "AI-supported monitoring of the built environment is transforming communities across the country and around the world. This article will outline some of the key ways that intelligent imaging, data retrieval and AI-driven analysis can provide ongoing benefits like cost and labor savings,"
+    publishedDateTime: 2023-09-12T22:41:00Z
+    webUrl: "https://www.govexec.com/assets/built-environment-changes-ai-and-machine-learning-.pdf"
+    type: article
+    provider:
+      name: Government Executive
+      domain: govexec.com
+    quality: 27
 
 secured: "kFdNEZ5o5i5eYupCtMmxXRt3U6QB+1XAmhfF7GcHFNK4lpFkY01UKRUdIyWqM6oGKf5dE9R/N7xYPNjpP0Ewi9DLwkR9VBC/4CC6IAJobzJngRcQpOyeKqJQ7hVfsXOV0cIZnH+tsnFLVNWnznluGn2c3+eqfmNaOx+9OKnNh/PCUhqad9YwviQu6MNW8VP13+mu06gK6Uli3UOO0k92UT+o9t0ZLtkwTvMNHChc9fQyo0DflsMedsQddvkI4lPrxB92banF+qKmYgpbYJri07UO4HYbSPL42423o55Z7CIBWlIWGXTqzYFM/5hxgu8sPcXbGX/AN+S2d586nSP+RVzVNbLAcDUDtAGzTJwzgn3j647TrSpLMwFW77X/RWz7LguRd0WIy0PfLCvJRUp/RvKULYr8xg+MWqOlYLsK26sLp5UooFeBwiNOzxe5z8hi9AwWYtBOYuFa7f5p+dioyc7jz5IGOwKewJtfTO8TyX+FiZGAQDfGSr5D1FY4fg3XpTu9wZCb6yYE1QHAWbcHcg==;IsaZDYW/6kw9gIqbv05Ikw=="
 ---

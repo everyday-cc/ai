@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "China’s Tencent Unveils Its First General Large Language AI Model Hunyuan"
-    excerpt: "(Yicai) Sept. 8 -- Chinese internet titan Tencent Holdings debuted its first large language artificial intelligence model Hunyuan at its Global Digital Ecosystem Summit in Shenzhen."
-    publishedDateTime: 2023-09-08T06:58:00Z
-    webUrl: "https://www.yicaiglobal.com/news/chinas-tencent-unveils-its-first-general-large-language-ai-model-hunyuan"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 38
-    images:
-      - url: "http://img.yicaiglobal.com/src/image/2023/09/32931611694789.jpg"
-        width: 770
-        height: 510
-        isCached: true
 
 secured: "qOtGgkhZYqjgeY6E2MILMcW8FY0LnO2eoXWf2V7U5zpZXfoxaJmrj6o6SAcFC77ZoxBX20NcFGeMsv/1ql6jwyyttMyJvtb/2+Ihf4ZBQMTXi4xiM3j0IYUTLBRu4TcRlDGnCANQfGBkb4HjsXR5KrAfeX6oEWn4MxYv54VwZ8DXK6uEMD0mrvl3uMwP/cSXVkPLyrTTd2cd+Y3N4q7/HCJlHiDIEu5FxP5K/62QBYqPZ3cUXVytfBxBNq17+Q2cOJLwA+tg1yDWap78ZtaWnlqNADrOvXSlE28uIx/YsxFMk5/ywg0n1zy+gaO6gTzPchdwKc4ftao95cErVJaMBOjFqZI+tLe4TWvzzm1oQQw=;pi5PtX6a+WKBrDwu83W24g=="
 ---

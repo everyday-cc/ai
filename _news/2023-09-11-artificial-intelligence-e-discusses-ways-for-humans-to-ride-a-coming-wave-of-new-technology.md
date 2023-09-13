@@ -1,22 +1,21 @@
 ---
 category: news
-title: "Artificial intelligence e discusses ways for humans to ride a ‘coming wave’ of new technology"
-excerpt: "If you have watched a telecast involving basketball superstar LeBron James during the past 20 years, you probably have heard an announcer declare: “You can’t stop him, you can only hope to contain him."
-publishedDateTime: 2023-09-11T12:01:00Z
-originalUrl: "https://www.seattletimes.com/business/artificial-intelligence-e-discusses-ways-for-humans-to-ride-a-coming-wave-of-new-technology/"
-webUrl: "https://www.seattletimes.com/business/artificial-intelligence-e-discusses-ways-for-humans-to-ride-a-coming-wave-of-new-technology/"
-ampWebUrl: "https://www.seattletimes.com/business/artificial-intelligence-e-discusses-ways-for-humans-to-ride-a-coming-wave-of-new-technology/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/artificial-intelligence-e-discusses-ways-for-humans-to-ride-a-coming-wave-of-new-technology/?amp=1"
+title: "Artificial intelligence e discusses ways for humans to ride a 'coming wave' of new technology"
+excerpt: "Now Suleyman has co-written a book, “The Coming Wave,” focused on AI's promise and need to limit its potential perils. He expanded upon his ideas in a recent interview with The Associated Press. Q: How should we be thinking of artificial intelligence at this juncture?"
+publishedDateTime: 2023-09-11T16:01:00Z
+originalUrl: "https://www.nhregister.com/business/article/artificial-intelligence-e-discusses-ways-for-18359250.php"
+webUrl: "https://www.nhregister.com/business/article/artificial-intelligence-e-discusses-ways-for-18359250.php"
 type: article
-quality: 26
-heat: 26
+quality: 8
+heat: 8
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: New Haven Register
+  domain: nhregister.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 related:
@@ -30,6 +29,6 @@ related:
       domain: houstonchronicle.com
     quality: 6
 
-secured: "GEm0hyzoiG/CNBWiLLtLrgBamJXDHyyj5rMO6G0T2YuOLX4+qYQEvnw1KFzkpXo+m8EFKHRcRtE7Ftvfjy4vwlCU2SkE+PTJOQgNdHt8WgyqwB7eV7DHgJAotynGc0btq3HKcBfFCGg0W1HvXfpAGXzsK3om6GHid0Vi67GChBQhhGEOKsv5alDxzvugfEOrrL6Shl8jb4NyjRGUxbwmTN1TzP8oYtapWyEyeWYUPa1VRfsnVPt+eHMkaT8QH4NbeyuUdX8wOL26YswuNZEdiWM0WeLDF3SFEOaE+m2Xaq1mBVGHkQT12K1ygthuq+JqV+wfilCKr/Go5L2uxawwBiTTwXPXQChepCEaLPNxGYV2BA7Cq4VjO7vCcQDlL3DwhRH5w7psflnBWGCT4tZAgb4202cPlNcQo8/Jp4pcV/9smyl9OsXLea65eQXVl/uhpxjGgK5jNlRJl7X3SP13BZapXJcLmulXRAE0pb+CFm4P+f2Kx610qlDTKR6udPfuxpNU6A/X3tnBGTdBFmN1ew==;HnTml5OHMQXXzgjSLbC8Pw=="
+secured: "AxuX2xAqFkcvUxEQ7QiYnd7YErcvd5wzaH+nITlYV2LlwC33yAoJLMlqNI7DdoktdMxOtc/35pgYSwFgQq4wLBb/EIUnK3UbnE1qJGZnPeHhpzA4FQ9OojA0uV18/X7gYEi9nepXQhfOTs1sL/dqV1Lrro+djKCHntR7RetN/lB+5UJhBbeDxpVdLx3AsgqGygyemkeXcqgftuWQBm4Hxlw7wln8zE7Zg2zX7ZxKG1KrCrhhm7nBACuzrbdQGJ4+n62dGF4CJCkUr4qVGWgnJWEtxjmjodGE/PRZbQYJ9729NRPTHlfuhWAGgQn0acwFgEpX9WVk9Zo8VYlMvMAaGo3oFGxta3eFUNlWs9wo572vuh6wG6gOhg00quV5qnGv3yDzlgYmCqWrqIKnL3pcza1roDfpVwhNSolpGd0CpTIV+WMoCkhswr9iHARuAGcFEv7PqxEMHe4PzjxA3GACALBD3ssbou8rZzkMQ74CS56ooeEZPV94qaKs1W77d+ObUYWFoqd8eAKVb6J8hR8xjg==;TkCN1C9zwccaYJSDdyuS3w=="
 ---
 

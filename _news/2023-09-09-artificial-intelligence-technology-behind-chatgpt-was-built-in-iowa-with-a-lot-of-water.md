@@ -225,20 +225,6 @@ related:
         width: 2400
         height: 1200
         isCached: true
-  - title: "What Can ChatGPT-like Language Models Tell Us About the Brain?"
-    excerpt: "A renaissance in natural language modeling may help researchers explore how the brain extracts and organizes meaning."
-    publishedDateTime: 2023-09-08T06:55:00Z
-    webUrl: "https://www.the-scientist.com/features/what-can-chatgpt-like-language-models-tell-us-about-the-brain-71315"
-    type: article
-    provider:
-      name: The Scientist
-      domain: the-scientist.com
-    quality: 39
-    images:
-      - url: "https://cdn.the-scientist.com/assets/articleNo/71315/aImg/50759/article-ai-feature-m.jpg"
-        width: 800
-        height: 560
-        isCached: true
   - title: "Forget ChatGPT—Law Firms Are Launching Their Own Gen AI Chatbots"
     excerpt: "What a growing number of law firms have realized is that they can safely allow their lawyers to experiment with the underlying generative AI models—so long as it is through their own proprietary chatbots."
     publishedDateTime: 2023-09-08T21:27:00Z
@@ -280,20 +266,6 @@ related:
       - url: "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/91a00fbe-7dcc-491f-84bb-38390d7bd605-1694526754103.jpg?fm=png&auto=format"
         width: 3200
         height: 1600
-        isCached: true
-  - title: "Survey Reveals 16% Of Japanese Have Tried Chatgpt And Other Generative Ai"
-    excerpt: "In the graph below titled \"The frequency of AI usage among social networking users,\" a cross-tabulation of Q2 \"Do you refer to social networks Youtube, X (Twitter), Facebook ... we will announce the research results on the use of social networking services ..."
-    publishedDateTime: 2023-09-08T06:47:00Z
-    webUrl: "https://menafn.com/1107031730/Survey-Reveals-16-Of-Japanese-Have-Tried-Chatgpt-And-Other-Generative-Ai"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 38
-    images:
-      - url: "https://menafn.com/updates/pr/2023-09/08/I_6f83cimage_story.png"
-        width: 1024
-        height: 701
         isCached: true
   - title: "Artificial intelligence technology behind ChatGPT was built in Iowa"
     excerpt: "DES MOINES — The cost of building an artificial intelligence product like ChatGPT can be hard to measure. But one thing Microsoft-backed OpenAI needed for its technology was plenty of water, pulled from the watershed of the Raccoon and Des Moines rivers ..."
@@ -383,6 +355,6 @@ related:
       domain: oregonlive.com
     quality: 13
 
-secured: "VVQiMvb2zZ61n4RKnn+4KYELKgiuh+BxNHYS2f1uwctpanbSVRlgh4FRS2TX5K3g7Etq9OV5rXFmgkVH8C5KW3oi8rPNR7JBeD5R6rpm1ZC9aqod6wORKCqpU8qnl/xUJrXSDmW04hJGzoWALaRyKmHBbiPLwbsaE94w/oJQKAJKiuWl4IgZe0RepUDrL/4fA23mEJcy8yqarrPvJ7YI1/Nq0V8Qh4L3apT0gCH02YZvQrdcpKl7Y0tDJZq6VrVOIBhNoTM+QaW/0glGNi7iaO7ZG7lFnKzPSEe02CuqFxEcns0pO8GwaQoRKWKf3I/RVWfgFOHyu6nW1f+3gbXaOt5aQSAkfL2Kc1vFpOqmvk4=;KSQIV8jQj6TEKNjM8m/1bg=="
+secured: "kjbFyHdRcQ++6KCyEe8IjBZgmzkRGJEmGVay+GV6DT37tngQlLMMJSfg74E/2oo9NWQmHzzqe5QLQbwTC6Vqq6CKLCIErVOL60S0qxBkwRje4BjI3WfYGLP5Q/doXk4qeg7nwa/XGxSXuQmCkCB295+Y0uIa6W5HzUmlboI1ZxctqIWyg2I7BS+FB9NCcrh4lHdBdoCK1el0Sx23UZniZfzZwGOPG0KMT5MYJojS7FfcsMoZG4AWXhbcPpziTOm5OGbqby5+mSpHyBMOyn+jk6e01SyYUwvp43ME0CoZFciu8T7nXuowpCOZ34Eabetb8U9n0QSRdWyNqXKeuGnBd+xeHzsuYlclleLVGEUDxR9v3psFrV29j+5z7dJhtO3jJJ0bTchAUTyRxZO2ANIfVl/iPXrhfZVQfkzW+3vAzt2uThH2aKstTjuDBu6aD/HSGe/bNiSgTdx2xfp8IB+gk0HXsy73REnQXVsZODtOYbFQt51eqMLF2XoYcuBtiUnk4NTud6uNJyHXtVcEGyVNCQ==;stOzO/3nHW7i8U0BIRLLjg=="
 ---
 

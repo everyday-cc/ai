@@ -1,18 +1,18 @@
 ---
 category: news
 title: "How Artificial Intelligence is Bolstering Impressive Billion Dollar Growth Opportunities in Healthcare Sector"
-excerpt: "The implementation of AI/ML technologies in enhancing patient care, reducing machine downtime, and minimizing care expenses are some of the driving forces of artificial intelligence (AI) in healthcare market growth."
-publishedDateTime: 2023-09-12T15:18:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/09/12/9879146.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/09/12/9879146.htm"
+excerpt: "Artificial Intelligence (AI) and machine learning (ML) algorithms are being widely adopted and integrated into healthcare systems to"
+publishedDateTime: 2023-09-12T12:45:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/how-artificial-intelligence-is-bolstering-impressive-billion-dollar-growth-opportunities-in-healthcare-sector-301924462.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/how-artificial-intelligence-is-bolstering-impressive-billion-dollar-growth-opportunities-in-healthcare-sector-301924462.html"
 type: article
 quality: 15
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
   - AI in Healthcare
@@ -43,6 +43,6 @@ related:
       domain: finanznachrichten.de
     quality: 3
 
-secured: "OQEU00WfTuNIk8UfM1Kc7d5gjl1WhPoWu6hu3tED/twjzWdr6D4jjg/HGxG3PR2QxQXTA7HurQjAd6kbv92JRxfX53fT71odGszcHBnHlgjWZuO6BYlmlW0hiBDntTE7ozUjBJKGr0AuEmn6ZGL/vKQmPqEM44X3eslkFW8TzG3LXKZnqwJdNPxpRBxUwv8xyA3Mv48DaCrjogy5E/cQQi8NOWcwLlx6R2PajE9Nalv7/LNxZd6G0AOjydLzPd0/cLrnySox9rAC26yswnbW+5soyuQ6tx5zSlLE/uE7QmdnR55vF3B4iUycbXzvsY62MSYAUCGuzjb91Hh9tAcCS/JdD7qX0KyyALqEnkeZ/Hc=;VoGq6F+HnP5EgHxXFSB2sw=="
+secured: "r4bs4sllrKspdIurYzjhsN5Chb9wRilBrIYYy4iWj93abgz0LbROZF8oO+/eAkGkaWlcvEueuvEoRG0+RkqRDgO6tds99qa67uwNZ7ym6BvyUasNZbL6Wyv0ZcC5e2fW/1OBqbtDT4IDkVKWjWBjRSp4wWrcKokiISE7aIxd6TikntuM4lIx3qne/khHDITyw6JWONqrpCfeQn8Sz3r9e4Sm0G15wHCLsL2WvEpRUnB+v64s4dkwyWsnlDFJA3DxCDwfAkEPXCACbIwmZ6JWIoBF3j91Pv5+dPFGtKv6NNcj98mibj+jpsik+YWPwQ544OuMDvWr7J6kXjrKzsVykODyLmay9itObFKzF2iAzEw=;thb4co+FqMPOCdHRK51aHw=="
 ---
 

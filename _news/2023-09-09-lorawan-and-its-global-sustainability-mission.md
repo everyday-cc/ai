@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/09/08/lorawan-and-its
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/09/08/lorawan-and-its-global-sustainability-mission/amp/"
 type: article
 quality: 89
-heat: 101
+heat: 99
 published: true
 
 provider:

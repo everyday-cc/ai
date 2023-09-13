@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/arm-ipo-5-things-to-know-about
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/arm-ipo-5-things-to-know-about-the-chip-designer-central-to-the-ai-transition-154d7059"
 type: article
 quality: 100
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "3 AI Chip Stocks to Buy Instead of the Arm IPO"
+    excerpt: "and it has shipped over 250 billion chips to date. Part of the catalyst behind the IPO is to raise cash for investments in artificial intelligence (AI), where Arm hopes to compete with chip design rivals like Nvidia (NVDA). So if you're looking for an ..."
+    publishedDateTime: 2023-09-12T19:16:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-ai-chip-stocks-to-buy-instead-of-the-arm-ipo"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
   - title: "What to know about Congress’s inaugural AI meeting"
     excerpt: "We’re going to be hearing a lot about various plans and positions on AI regulation in the coming weeks."
     publishedDateTime: 2023-09-11T08:08:00Z

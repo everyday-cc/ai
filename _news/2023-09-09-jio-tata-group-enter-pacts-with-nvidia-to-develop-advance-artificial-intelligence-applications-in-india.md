@@ -87,15 +87,6 @@ related:
         width: 2560
         height: 1536
         isCached: true
-  - title: "US chipmaker Nvidia, Reliance to develop a large AI language model for India"
-    excerpt: "Nvidia will provide computing power for the project, while Reliance will develop AI apps, including a local language app for farmers to access weather info and crop prices."
-    publishedDateTime: 2023-09-08T05:07:00Z
-    webUrl: "https://theprint.in/tech/nvidia-reliance-to-develop-a-large-ai-language-model-for-india/1752293/"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 16
 
 secured: "ZyMM7MvTBam5t8ArXIDXk6gBeUAn9IUD2bzbi8P3VyrcDeiQIVcLNPLVGmzuLJdaOe4nagUvvMiqm5Xo3pMtZR1hRTYKr1shvdBfF5pZtAho58FpVPjHQzhXNWwHhGYBaSsR7e2z6IS62m7vd083O1enmSj2xdOC94UryU2DRxmMiwnDtt79VWX0Kc1xSW20d5Py6DOcO2mZAU/ZCIc9QEyu8FQxzME95mRZU1J2aH1hE+DJs6msrEX5hwSwdi/ZEzkbMEJq5q10y2PmULwXsJjdvQyZFs1CWRUiu5bXtmcjihJglT4fPojnzAxDHEClljWyPrm5tYc4rpBxOhWXhKSmvrlcd3tST47naVCpB5A=;yt30mHQQO9BvIu1kBTPhww=="
 ---

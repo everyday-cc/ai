@@ -19,19 +19,44 @@ topics:
   - AI
 
 related:
-  - title: "SQream Secures $45M in Series C Funding Led to Supercharge AI/ML Enterprise Capabilities"
-    excerpt: "SQream announced today the successful completion of a $45 million Series C financing round. The round was led by World"
-    publishedDateTime: 2023-09-12T17:54:00Z
-    webUrl: "https://www.datanami.com/this-just-in/sqream-secures-45m-in-series-c-funding-led-to-supercharge-ai-ml-enterprise-capabilities/"
+  - title: "SQream calls in $45M to expand its GPU-based big data analytics platform"
+    excerpt: "Israeli data analytics startup SQream made a bet on the potential of GPUs as a cornerstone of enabling the processing and querying of big"
+    publishedDateTime: 2023-09-12T16:30:00Z
+    webUrl: "https://techcrunch.com/2023/09/12/sqream-series-c/"
+    ampWebUrl: "https://techcrunch.com/2023/09/12/sqream-series-c/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/12/sqream-series-c/amp/"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 47
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 88
     images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
-        width: 1893
-        height: 767
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1352189853-1.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "SAS ups AI features in its analytics and CRM platforms"
+    excerpt: "The company said it’s working with Microsoft Corp. to develop a generative AI integration that combines Microsoft Azure OpenAI with SAS’ enterprise task orchestration and analytics in a product to be previewed in the fourth quarter."
+    publishedDateTime: 2023-09-12T18:26:00Z
+    webUrl: "https://siliconangle.com/2023/09/12/sas-ups-ai-features-analytics-crm-platforms/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+  - title: "Officeworks' data and analytics investments pay off"
+    excerpt: "Officeworks’ customer data and analytics platform uses a machine learning model built in Amazon SageMaker, which is fed customers’ purchase history, product preferences, and product characteristics; these features are tracked and collected across the ..."
+    publishedDateTime: 2023-09-11T20:54:00Z
+    webUrl: "https://www.itnews.com.au/news/officeworks-data-and-analytics-investments-pay-off-600039"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 24
+    images:
+      - url: "https://i.nextmedia.com.au/News/Office_work_TWO.jpg"
+        width: 1400
+        height: 900
         isCached: true
 
 secured: "iWIkkNV0Gj46IrZ+UyYeoAYoB7f28ewfCpJFZUr1hUlxnIkEx+2cBzQSNRt3kpPK5LTu4ekyO9umBKgYIGAkdG+IjSXSmPa7lnN5Ho7HNN4winr7FrxaJSXTLdU+hus4HEevv6EklCoL5gOvB27CeA6owUmB3diuP4FSUP2HV2WmmnQ9r+GiUDObWNshSn2mpgA5NOTYZGMjIAcP7GQOlnM6dHtwUMfEZxL4+HxKEJ4gfHWj1kt0PdFxlCV3qCwrSTN99EiBNDRdXzsL7HyQutwcdpODPpZ4B7H80abuW1l0AHj504KuKQ1V/Shq12guKz0E1J5oWfXuer63hs0369nIYaKgPaUTW541mOBBCuNgMOzMsHy7L/UpS7rgR0h91H3+rd91KQWMH3C5E9T3wHVW26mpjiPfcOaK3fpGNgoA2h6mz695+TDfHx6px5/6JfvVmwKFFQOFeOsXBkOmVgBKbCa1J8dXHbinR4rrQobjOgZBppbTvbYos7RRUrStffd7R6UzDkGvWEQIkHFUXQ==;V0ssmjQnl48S+J9A1BY66Q=="

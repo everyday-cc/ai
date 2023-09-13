@@ -59,6 +59,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "As the built environment changes, AI and machine learning tell a more complete story"
+    excerpt: "AI-supported monitoring of the built environment is transforming communities across the country and around the world. This article will outline some of the key ways that intelligent imaging, data retrieval and AI-driven analysis can provide ongoing benefits like cost and labor savings,"
+    publishedDateTime: 2023-09-12T22:41:00Z
+    webUrl: "https://www.govexec.com/assets/built-environment-changes-ai-and-machine-learning-.pdf"
+    type: article
+    provider:
+      name: Government Executive
+      domain: govexec.com
+    quality: 27
 
 secured: "7qRqipxZYOOJE3VvVeEE7y3jhKSFEx1ZbgTWoSdW6lYCkfxBvvbeHvuxTfQgm5KkuxubytolY0rri+AiR9DyVEztxUniyc59FRz793wj+OdVrcDg5gPYNUn4NJrrRdfwMEI4eWXuFKeMnmAbOo/N+yJGgmnOl8zYAbPkeygCCHr7b8FXif7AWB4B4Uc4sne54+uBj24wMwKzz0AN81si343vZASuoyDa0TMFiiI82oknYPn4xCGtkweBsLKe/y4c+bIff9o6Fek61VQDRuOedJmoSB36Wa2PD2c4KHWgU+nCihWCvCeyEABr3duZeePyCZ8gPq5wj2PfNt4dQoBd/aBF0421WlWt0TVvvj0YC88JO+ACZe9QQgdt9Gd8iuy2bFnHISKnZ5gMM4mYpHizCEB3V/bkudWjCHydd/vn41kbVm7uAKvXYix7OSbrIM7UwA5oj0qMKu2iTR4WLk0PVGVVtH0C8wmYQB9v9PZf7UxcKRV95hZptbeBZDyH9VQXMQckuc/Axv8XSLkuqf8JxA==;NVfTDKw5tQQSzip4uNqlEg=="
 ---
