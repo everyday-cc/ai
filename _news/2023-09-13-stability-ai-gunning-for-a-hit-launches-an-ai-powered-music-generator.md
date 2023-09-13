@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 604
         isCached: true
-  - title: "How generative AI changes IT operations"
-    excerpt: "Generative AI can provide valuable analysis and insights to IT operators. But what about data security, reliability, workflow integration, and the conditions needed for successful deployment?"
-    publishedDateTime: 2023-09-11T09:34:00Z
-    webUrl: "https://www.infoworld.com/article/3706370/how-generative-ai-changes-it-operations.html"
-    ampWebUrl: "https://www.infoworld.com/article/3706370/how-generative-ai-changes-it-operations.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706370/how-generative-ai-changes-it-operations.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
-    images:
-      - url: "https://images.idgesg.net/images/article/2018/02/artificial_intelligence_ai_virtual_assistant_machine_learning_autonomous_automation_virtual_reality_vr_digital_mind_brain_thinkstock_892854798-100749920-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Efabless Design Challenge Winners Advance the Power of AI in Chip Design"
     excerpt: "The AI Generated Open-Source Silicon Design Challenges are a part of Efabless’ initiative to democratize the use of Generative AI for chip design. The initiative drives innovation and learning in the chip design community by: Advancing the capabilities of generative AI use for chip design and verification, as well as secure device implementation."
     publishedDateTime: 2023-09-13T14:23:00Z
@@ -71,15 +55,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 63
-  - title: "5 Cool Chip Solutions For Edge AI"
-    excerpt: "CRN rounds up five cool edge AI solutions from AMD, Axelera AI, Intel, Nvidia and SiMa.ai for the growing number of IoT devices entering the world."
-    publishedDateTime: 2023-09-11T18:33:00Z
-    webUrl: "https://www.crn.com/news/internet-of-things/5-cool-chip-solutions-for-edge-ai"
+  - title: "Cadence Accelerates On-Device and Edge AI Performance and Efficiency with New Neo NPU IP and NeuroWeave SDK for Silicon Design"
+    excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today unveiled its next-generation AI IP and software tools to address the escalating demand for on-device and edge AI processing. The new highly scalable Cadence ® Neo ™ Neural Processing Units (NPUs) deliver a wide range of AI performance in a low-energy footprint,"
+    publishedDateTime: 2023-09-13T16:47:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/09/13/9880533.htm"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 34
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "rI+qVOcZuGyEYJSsyqKa1YIFfh3sXJqE1rbl0CCUEbdDcKl06mH/l5kfjKio0KA3oNQ5RU+l+h8FajJIFeSPSZU0qPdjC9/+fggMfGSGv27pSnoikheKO+HtQb+ZhNjizB8doqv1piTJvMVL3QWcCwYMmBmm8PHeYP6XkTM3Ik5KX+nFRzZ0OOG31mWROcqCiRWrMl2yawhrobYyAduKI4bVwXTHb+B5GC0URZNUS5zs746dU2lnUMizUI3ZEA6fMH0N0j4gDDGq4Raw8f/dO+O2WhT+5Ap/jdi+jceQGrQk9Hmc3OqCoPgGj+deDTcRMgadHrJ5+HqK2rbh7XdhUQCG7hJmJqIOvan3MDDNwhmRmpo6vysXIFUb9bJnJjVsVuoWIvlXvQt23Biy9zWAxE+bVbZP1hkEhM1O5BPZaOJMtDPe7BZ7oJMLnNaVpQD6yzwVSMVefC+CeOYc7ynC8zyDWh/6FyKSqcKiiy6xlvyhdcNF4kC9VbrE9b010SASVhi5uDkp/8XMdgysHxjL+A==;kelsQ2emu2DGZ45MnAXB5Q=="
 ---

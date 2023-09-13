@@ -1,12 +1,12 @@
 ---
 category: news
 title: "IBM and Salesforce Team Up To Help Businesses Accelerate Adoption of Trustworthy AI"
-excerpt: "ARMONK, N.Y. and SAN FRANCISCO, Aug. 31, 2023 /PRNewswire/ -- Today, IBM IBM and Salesforce CRM announced a collaboration to help businesses worldwide across industries accelerate their adoption ..."
+excerpt: "ARMONK, N.Y. and SAN FRANCISCO, Aug. 31, 2023 /CNW/ -- Today, IBM IBM and Salesforce CRM announced a collaboration to help businesses worldwide across industries accelerate their adoption of AI ..."
 publishedDateTime: 2023-08-31T12:17:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/08/n34140555/ibm-and-salesforce-team-up-to-help-businesses-accelerate-adoption-of-trustworthy-ai"
-webUrl: "https://www.benzinga.com/pressreleases/23/08/n34140555/ibm-and-salesforce-team-up-to-help-businesses-accelerate-adoption-of-trustworthy-ai"
-ampWebUrl: "https://www.benzinga.com/amp/content/34140555"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34140555"
+originalUrl: "https://www.benzinga.com/pressreleases/23/08/n34140598/ibm-and-salesforce-team-up-to-help-businesses-accelerate-adoption-of-trustworthy-ai"
+webUrl: "https://www.benzinga.com/pressreleases/23/08/n34140598/ibm-and-salesforce-team-up-to-help-businesses-accelerate-adoption-of-trustworthy-ai"
+ampWebUrl: "https://www.benzinga.com/amp/content/34140598"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34140598"
 type: article
 
 provider:
@@ -23,6 +23,6 @@ images:
     height: 1043
     isCached: true
 
-secured: "/cYRbtbORW+f8V/P6pVmh3ilQqTeL/broNI9ZHJyK0A/u0zjqcOg++UX1zlLC/MRcoxkLyjGGTi13A2RfbgIGDJiEb+WyYWFXYrA5Z1o8JAVfMhUuYn1gJcG58IyTPl02Z9F5YO5EVCZG8FqBZ7FIhnpKAMx9duXY7XhhzcAWWYWyoBsnLI0+fGVw+6H3BLT4OOEY65Q8Py713eXwLTxifYWMUIA9mz3Vh1MJGTB59uMNQNcROFie5sxo52IjrhZlIkXAd8hp8lkdhMg5+NYQRnJRpg3wX+lDkbdnzENvYM39wBZzwo9Qz3NaoKnk0NquyCIFVlv5CmtbprRx1qjh7Bq79mMtQSuTbv2o5PK2Fw=;zEthn8rM/WKagli2oejQig=="
+secured: "X4bc3sRCB9Pwc8g2WV2G3fn0EQPFnaFl6zx5msWJyzEg2VAAYWOQjyWtNEQa7C4YGBywrPDaiiWEL1/kaCzllwmfjtdbgllPFZFWezsa8uKeEsBgNOOhvwM/GAR34xhf1qpD63Cl4+S6XHrmupMg2vKfNnSqcm4yJS9Cp9knS/riSqdhXm4hjpJbEFCiO14ux4Rt6ItrCbdRiIF/g9cDws1t2DfeDp/Ydtuw4pLW7Jvx0dwpobCYGVi7KqMAcdmYfIcDQtpb6UsYnp8qF/cqXCkIxzMgNWQRvqhitNz2Q2GF3haF5KwFb7c2K+J3kFkA5PTCFeEjSsCV5KZGl0/LFTr0oKJrQq0c3wIKiexjhnk=;9AKtg5o/ZAbYjg9nyEJEWg=="
 ---
 

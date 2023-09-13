@@ -57,22 +57,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Haltia.AI champions ethical AI revolution"
-    excerpt: "Consistent with the UAE leadership’s vision for international impact and technological advancement, Haltia.AI invites companies and institutions worldwide to collaborate. \"The UAE stands as a beacon for global innovation and we aim to contribute to the UAE government’s legacy by spearheading partnerships in the ethical sphere,\" says Talal Thabet."
-    publishedDateTime: 2023-09-13T10:18:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/haltiaai-champions-ethical-ai-revolution-k7ctg65g"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/haltiaai-champions-ethical-ai-revolution-k7ctg65g?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/haltiaai-champions-ethical-ai-revolution-k7ctg65g?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 74
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NzgwZTg3ZWQtOGY5Ny00/0/talal-jpg.jpeg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Why self-regulation of AI is a smart business move"
     excerpt: "Robust governance is the surest path to AI initiatives that build customer confidence, reduce risk and drive business innovation."
     publishedDateTime: 2023-09-11T01:41:00Z
@@ -103,20 +87,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "5 AI tools to automate passive income generation"
-    excerpt: "Learn how you can automate passive income generation using a variety of different AI tools currently available. Benefit from the technology"
-    publishedDateTime: 2023-09-10T10:27:00Z
-    webUrl: "https://www.geeky-gadgets.com/automate-passive-income/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/5-AI-tools-to-generate-passive-income-streams.jpg"
-        width: 700
-        height: 466
-        isCached: true
   - title: "U. community discusses integration of AI into academic, points to opportunities for innovation"
     excerpt: "Provost Francis J. Doyle III identified the intersection of artificial intelligence and higher education as a University priority in an Aug. 31 letter to the community titled “Potential impact of AI on our academic mission."
     publishedDateTime: 2023-09-11T01:01:00Z
@@ -131,6 +101,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Tekion Unveils Enhanced AI Engine, Tekion AI, with Generative AI Capabilities in its Automotive Retail Cloud Platform"
+    excerpt: "Tekion, transforming the automotive retail ecosystem and delivering modern customer experiences through its AI powered business applications, today an"
+    publishedDateTime: 2023-09-13T15:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230913087802/en/Tekion-Unveils-Enhanced-AI-Engine-Tekion-AI-with-Generative-AI-Capabilities-in-its-Automotive-Retail-Cloud-Platform"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "srMK6waB2jZkrxAHWBTjTfUTQevhfnmCM28Joa0JF2vzcRkijg8+OfniUHpmOXUNhtIJGwq0UzHZDZdSDXFo6IbO4oxUQETgu2dBevRdVKPbwGPr7ZyJ4/Gi6P46pNY4mW0M858S7jO+KPMMoI+QaUXdET6Q4ABa/l6hGKTT5e46cKKAL8T8y+OHz4oIoFM7LRzm+emsXLZf5zqzc/JWUTsb0vJpoOgT5KoCQ5z8BBeYBjBwtZHWLux3anl2SNEhStAWk8rVyg6OUVO3Xy1t7WiFoDXRIZUkZHaes9ANOf3YjuZiqEXTHWZ4aSNoCdzdvn5TPh7Qt/LN+/GQ1p142iy9bYkoa/dnNF5iPaz5VTK/ohxX/98QATBm5bQTa02vDnEAipn0Z/gtuENn5qqoJ1rVHWCnV61k24lKeFs3lwiY/BzbAFM7t6/bJ2DXK/Z4WhGGB1Mwf8rPbazDeginpFWtPvhz2ltzjit71TPD6FxBVSMy4ENP1eazA6WRd76kVgZIEtYkubIV80Tj/GVcmA==;drf+jZ2mMjFngaOlWamDNg=="
 ---

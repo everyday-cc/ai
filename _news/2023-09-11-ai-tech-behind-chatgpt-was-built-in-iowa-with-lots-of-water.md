@@ -242,6 +242,20 @@ related:
         width: 3200
         height: 1600
         isCached: true
+  - title: "ChatGPT diagnosis detects disease after 17 doctors failed"
+    excerpt: "A nervous mom figured out her son’s illness from an unlikely source: ChatGPT. Courtney’s four-year-old son, Alex, was experiencing chronic pain, but doctors couldn’t pinpoint the cause. After"
+    publishedDateTime: 2023-09-13T16:04:00Z
+    webUrl: "https://technology.inquirer.net/127967/chatgpt-diagnosis-detects-disease"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 39
+    images:
+      - url: "https://technology.inquirer.net/files/2023/09/chatgpt-ai-healthcare.png-620x349.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "Artificial intelligence technology behind ChatGPT was built in Iowa"
     excerpt: "DES MOINES — The cost of building an artificial intelligence product like ChatGPT can be hard to measure. But one thing Microsoft-backed OpenAI needed for its technology was plenty of water, pulled from the watershed of the Raccoon and Des Moines rivers ..."
     publishedDateTime: 2023-09-12T10:37:00Z
@@ -292,20 +306,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/6/5e/65eddd27-5f7e-51af-a65c-5d8ff9c1f88d/64fc7131358f7.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Meta Platforms reportedly building open-source generative AI system to rival OpenAI’s ChatGPT"
-    excerpt: "Facebook and Instagram parent Meta Platforms Inc. is looking to rival OpenAI LP in the generative artificial intelligence landscape with an alternative, but open-source model that’s likely to be as powerful as GPT-4."
-    publishedDateTime: 2023-09-11T00:20:00Z
-    webUrl: "https://siliconangle.com/2023/09/10/meta-platforms-reportedly-building-open-source-generative-ai-system-rival-openais-chatgpt/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 28
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/41118893354_edd6aac12d_k-AnthonyQuintano-Flickr-768x525.jpg"
-        width: 768
-        height: 525
         isCached: true
   - title: "Doctors see potential in ChatGPT diagnoses, but questions still remain"
     excerpt: "With the rise of generative AI, people who once turned to “Dr. Google” to check on medical symptoms are now turning to chatbots. Researchers are urging caution."

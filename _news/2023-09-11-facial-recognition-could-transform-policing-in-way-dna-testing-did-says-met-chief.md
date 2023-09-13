@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/uk-news/2023/sep/11/facial-recognition-c
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2023/sep/11/facial-recognition-could-transform-policing-in-way-dna-testing-did-says-met-chief"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: The Guardian
@@ -46,15 +46,6 @@ related:
         width: 2048
         height: 1333
         isCached: true
-  - title: "Facial Recognition For Covid-19 Tracking In Seoul"
-    excerpt: "The city of Bucheon, population 830,000, is a satellite city southwest of Seoul and part of the greater metropolitan area and the site of a pilot program to apply AI facial recognition and ..."
-    publishedDateTime: 2023-09-09T00:00:00Z
-    webUrl: "https://hackaday.com/2021/12/31/facial-recognition-for-covid-19-tracking-in-seoul/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 19
 
 secured: "NkJyCXKlMtNmqzuWK6G3o2+ZcEs30APdRYywlI+BqvfrjqCZv/9N562pnYTx5sm5GVQsvJJXqs3EgqFBSDYcaikP5Yx1C2mCjHvdhZB2hcmHog46OlV26d2P8LvyLQHAcFou+cVnlOQAZgHP51fzKRx2WLp7ofLxt9TxO47f4eVlIsSSrI1ge+b9gfRj1hDjeq/8n/FBwJ80gBGZjP7DBMwZxmSLiA6F2AyL1WTMoRjOavOyDC0W9MtVqsfF+lzhrGb8C/V3H2Kx3TUMSmZCGgOpMPzqwKu3cR9eMx2HdcSyNNAFtBJy1vCaWQiQNzulhEA19izLg8gmf7snFUJiS0yVUXUP9EjmrStBfWceXN0q9wHSBDp4WrAFkogfTxtn/FqW/WXHNeyEcda9EknkJPhW7i/w5Sy4zycZtbrnmISqAoRoKiHb9AhjgAv4dsnkG7vaTwkaqz0NH3oXnHMBgSmqcgduws25U3TtfKvbL6droEueuZzJkPxq/p1BO2nvg9HR9aYCWbTj+FGBBK6zNw==;VXiYRpLZMoMnXMkW0cr7NQ=="
 ---

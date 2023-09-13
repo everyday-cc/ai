@@ -43,15 +43,22 @@ related:
         width: 902
         height: 444
         isCached: true
-  - title: "Adobe generative AI tool Firefly is now generally available"
-    excerpt: "The new generative AI image creation and editing tool has been trained on stock images and content in the public domain."
-    publishedDateTime: 2023-09-13T09:59:00Z
-    webUrl: "https://www.computerworld.com/article/3706648/adobe-generative-ai-tool-firefly-is-now-generally-available.html"
+  - title: "Google Cloud Is Betting On Gen AI To Drive Sustainability"
+    excerpt: "Gen Ai can play a key role in fostering data transparency across the supply chain, in this article I explain why Google Cloud wants to be at the forefront on this."
+    publishedDateTime: 2023-09-13T17:01:00Z
+    webUrl: "https://www.forbes.com/sites/carolinamilanesi/2023/09/13/google-cloud-is-betting-on-gen-ai-to-drive-sustainability/"
+    ampWebUrl: "https://www.forbes.com/sites/carolinamilanesi/2023/09/13/google-cloud-is-betting-on-gen-ai-to-drive-sustainability/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinamilanesi/2023/09/13/google-cloud-is-betting-on-gen-ai-to-drive-sustainability/amp/"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 17
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6501e94fcb263d23895e700d/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "QffS+JylWMFXUjfq8Z+q/0xu/+22FSde1NhkJqDNmAN0/UkDBqIKykYFyCURKnwwpjbL1g59YPZdz7g0I/xu5mSN737/lxvkjrRlXKQpCWww3uCM5NzaFGzTqw94CUSj+5yYB15XIxPatGpcMk1NYrd9PGo19s6qOL+La8vTkBeQlDhMwnowB/+hE5xbh4Nb61nIke8BrkQ1Is1Jjq4Alt0NtrRTzTmLr/padMfjNldy0lsLxTDqr5IJZEw1QUQfyE+8A0kNCnQSJU8igtwKbjER8p+radm6FcgtSiz2VBUKwOI3IDEpRb+hruuBUmVQXNE++7pl90coVUY9lP1e3a5JMA+4uxYIWbY0ZxW+IcU=;RrldLzAf+1GfazsRIc6VeQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://punchng.com/fintechs-can-drive-financial-inclusion-through-a
 cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/fintechs-can-drive-financial-inclusion-through-ai-says-kora/?amp"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -52,15 +52,6 @@ related:
       name: IBS
       domain: ibsintelligence.com
     quality: 14
-  - title: "Leading the Fintech Revolution: FORMS Syntron Presents Generative AI and Web 3.0 Financial Platforms"
-    excerpt: "Empowered by Microsoft, FORMS Syntron unleashes Banking Copilot and FINNOSafe to transform the financial sector HONG KONG SAR - Media OutReach - 13 September 2023 - Today, a leading fintech thought leader,"
-    publishedDateTime: 2023-09-13T08:10:00Z
-    webUrl: "https://www.asiaone.com/business/leading-fintech-revolution-forms-syntron-presents-generative-ai-and-web-30-financial"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 4
 
 secured: "Y78XMb888bOulIE8qcdN/k2NLFnlt3Jnr5bmP3zSadLzO0JVeCG9L3CecUwjGHRVXqQa9guZQU6CABCn1+kbdvlX4P6nmehoUUmGzuwm2nh9HTpZ9YNC5M4RhhhAv0Wm5BYseD3N2TzibPiYnT8rVltSvdHpWFGAMZYWAPEHF/weLywBfclpb/8YIZx+h63CmzZtsqkZ1NRR5edsW9VfWpeNrv461NKjUwztK7zC4TYXKkWbAkLK0iKI3EUY3Qi/bcCYNWfA0LRJ5uVvblmmLGdRNgYFdXqUJN1c8sGTmxijj0ogxgbVLrmZOyXvY2AZr/wvsUamxcxH9PaYJ1oh/PDbsVNf7D2povuEG47DTSw=;NHQxS3oiQTpMSqizeNWf4w=="
 ---

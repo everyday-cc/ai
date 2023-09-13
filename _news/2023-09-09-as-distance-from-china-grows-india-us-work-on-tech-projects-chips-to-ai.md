@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/india/as-distance-from-china-grows
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/india/as-distance-from-china-grows-india-us-work-on-tech-projects-chips-to-ai-8931140/lite/"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Jio, Tata Group enter pacts with Nvidia to develop advance artificial intelligence applications in India"
-    excerpt: "The partnership with RIL-owned Jio Platforms comes a week after the company outlined its aggressive plans for artificial intelligence."
-    publishedDateTime: 2023-09-09T00:00:00Z
-    webUrl: "https://www.financialexpress.com/business/industry-jio-tata-group-enter-pacts-with-nvidia-to-develop-advance-artificial-intelligence-applications-in-india-3237555/"
-    ampWebUrl: "https://www.financialexpress.com/business/industry-jio-tata-group-enter-pacts-with-nvidia-to-develop-advance-artificial-intelligence-applications-in-india-3237555/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/industry-jio-tata-group-enter-pacts-with-nvidia-to-develop-advance-artificial-intelligence-applications-in-india-3237555/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 42
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/art.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Nvidia bets on India with Tata Group, Reliance Industries AI partnerships"
     excerpt: "According to Nvidia CEO Jensen Huang, India 'possesses [the] size, data, and skill' necessary to be a leader in AI."
     publishedDateTime: 2023-09-11T16:26:00Z

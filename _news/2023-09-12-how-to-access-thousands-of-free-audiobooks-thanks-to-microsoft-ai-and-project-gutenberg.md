@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/heres-how-to-access-thousan
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/heres-how-to-access-thousands-of-free-audiobooks-thanks-to-microsoft-ai-and-project-gutenberg/"
 type: article
 quality: 95
-heat: 135
+heat: 145
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google AI Head On Data Privacy, GenAI Lead Vs. AWS, Microsoft"
+    excerpt: "Moyer, global vice president of Google’s artificial intelligence business ... Moyer was managing director of global financial services at AWS in charge of AWS sales, technical and customer experience teams that supported some of AWS’ largest customers."
+    publishedDateTime: 2023-09-13T15:55:00Z
+    webUrl: "https://www.crn.com/news/software/google-ai-head-on-data-privacy-genai-lead-vs-aws-microsoft"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 71
+    images:
+      - url: "https://www.crn.com/resources/0285-18f85d37f0c5-7ba70e58e5f1-1000/philip-moyer-google.jpeg"
+        width: 611
+        height: 459
+        isCached: true
   - title: "Microsoft says it will protect customers from AI copyright lawsuits"
     excerpt: "In 2017, Microsoft, by then a seller of open-source software itself, offered to protect customers of its Azure cloud products from legal claims. The company in June announced a program to help customers ensure the AI programs they run on Microsoft ..."
     publishedDateTime: 2023-09-11T03:04:00Z

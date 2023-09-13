@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "EY launches AI platform and LLM after $1.4 billion investment"
+    excerpt: "Today professional services leader EY announced the launch of EY.ai, a comprehensive platform to help clients boost AI adoption."
+    publishedDateTime: 2023-09-13T16:23:00Z
+    webUrl: "https://venturebeat.com/ai/ey-launches-ai-platform-and-llm-after-1-4-billion-investment/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/09/Untitled-design-2023-09-13T115630.104.png?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
   - title: "EY rolls out AI-powered platform after $1.4 bln tech investment"
     excerpt: "Professional services firm EY said on Wednesday it has invested $1.4 billion in artificial intelligence and was rolling out a platform offering AI-powered versions of its consulting products to businesses,"
     publishedDateTime: 2023-09-13T13:07:00Z

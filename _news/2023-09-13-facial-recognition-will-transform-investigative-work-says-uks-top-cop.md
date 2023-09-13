@@ -41,15 +41,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Facial Recognition For Covid-19 Tracking In Seoul"
-    excerpt: "The city of Bucheon, population 830,000, is a satellite city southwest of Seoul and part of the greater metropolitan area and the site of a pilot program to apply AI facial recognition and ..."
-    publishedDateTime: 2023-09-09T00:00:00Z
-    webUrl: "https://hackaday.com/2021/12/31/facial-recognition-for-covid-19-tracking-in-seoul/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 19
 
 secured: "bcHNOnuaotjAa81w7cuUgmka16jE4kYhxiN/Ql1cXH8QKnQb1lBIlH/ZAcrVYvUypLRh2rFLxiCrnf3bVuIid3Try9cihYez6Vexv39B9EwCL0cv4nLjkm1OneS32kaxUniKS4h8vL/NVu/4tQMJX8xR4+3zLSTTiGVEv3KKnLbJjM0YzmKyhA6EoODyygAguBBIG7PCHGl0fgaTCgO7BjMfOGQTnq2d8hhlw5FZjD1UQOcrVbp/7jsB9tIItU+B0pOuUfpnjbIDlutjOO2+f1zbfFsX524NA6Y05g06spCy7BHJJcEtzwukzZZANoL77kAuaed6DBhi1WNf0M1VqjmPd8Nv5ymajV4aSDzl1g4=;MvAConqj+9KCimloSojUjw=="
 ---

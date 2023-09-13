@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/8OKdWMDXKJNMbznQ"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/8OKdWMDXKJNMbznQ"
 type: article
 quality: 74
-heat: 234
+heat: 224
 published: true
 
 provider:
@@ -203,15 +203,6 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 14
-  - title: "Netcracker Expands Collaboration with Microsoft to Deliver High-Value Generative AI Solutions to Telecom Operators"
-    excerpt: "Netcracker Technology announced today that it has expanded its partnership with Microsoft to support Netcracker's recently launched GenAI Telco Solution, which unlocks the potential of generative AI technology to deliver exceptional business value to the telecom industry."
-    publishedDateTime: 2023-09-13T10:12:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/09/13/9879980.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 12
 
 secured: "hgIXmqNLUiViLUKHI9d7VI9KPD7stZo9dAozgDqZO/WBpNcSJjOglHJIK5fBPRCCEQWd9pdLh9WU/WYLxCuSzP3mv9AMw4YzQaX1H8hInItGkWYAL4eaKsNkobYWHC3BLlZaGsL59G7McjUDgfRGU4b3F3PvqBYJVe8OipHp17f0sUIiYaVBtNqELI7M9y+h0gKn/OvCXm+Lrf2zC9JR97rbjM1Y9v7LJdhmwycyTiyI4KTfntVRe3AlEJST8vWg8zgP2wy6xCTVz8AqxXpOq0dZd1jpEAq2QwEUzOMkhi7PpG9yhcOFNN2ubjFTj09FFHtc1pnE4YJ5jJX23p3WYx3Svr4icJ71kUz03X5+4OM=;K08S5b3nh1q7wJIeWLk5Og=="
 ---

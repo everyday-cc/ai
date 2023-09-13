@@ -85,15 +85,6 @@ related:
         width: 540
         height: 405
         isCached: true
-  - title: "Generative AI in production: Rethinking development and embracing best practices"
-    excerpt: "For apps built on LLMs, the engineering mindset of predictable debugging and software testing and monitoring is suddenly challenged."
-    publishedDateTime: 2023-09-11T13:38:00Z
-    webUrl: "https://venturebeat.com/ai/generative-ai-in-production-rethinking-development-and-embracing-best-practices/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 42
   - title: "Intel shows strong AI inference performance"
     excerpt: "Intel has shown up well on competitive performance for AI inference as it attempt to make artificial intelligence (AI) more accessible at scale across the continuum of AI workloads, from client and edge to the network and cloud."
     publishedDateTime: 2023-09-13T09:29:00Z

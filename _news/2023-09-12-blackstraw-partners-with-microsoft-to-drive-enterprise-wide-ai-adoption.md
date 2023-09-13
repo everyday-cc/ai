@@ -202,15 +202,6 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 14
-  - title: "Netcracker Expands Collaboration with Microsoft to Deliver High-Value Generative AI Solutions to Telecom Operators"
-    excerpt: "Netcracker Technology announced today that it has expanded its partnership with Microsoft to support Netcracker's recently launched GenAI Telco Solution, which unlocks the potential of generative AI technology to deliver exceptional business value to the telecom industry."
-    publishedDateTime: 2023-09-13T10:12:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/09/13/9879980.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 12
 
 secured: "8evO4g9xYcT2mFSoMfQDzP+YBRexwbVjFgs8pQTwmv082TNCiazrMbtQUQrgW6NXkuphDaa1dZqNIE2UZZyXmqjey1V99Xu7t0WHRYyzFEQj/ZD8C3tMEmDWCoXG7BkWuJiPYsL1hieslUE+zX1rG4Jkn6KgxJG8vUdpi4mZMYaya0v01Ws6k0/VQ66istQsMeMS8GhQOs6cYKeQbavblgmRe6ZnqxtzJpD3dFnNDS7uEnld6Y+StFZ87PVnj+HsUfqYnGbeHBFLsMJPGmk6asReG1HT/B2d/Vi5lNtthyn68pkny3ozdPGlsqUh4dKjwto9eZHigRyAryjrqLp6C+yVgRM+tYc8GTsvzCrZXsU=;m1HYhLKeDyRX2lK09Kchnw=="
 ---

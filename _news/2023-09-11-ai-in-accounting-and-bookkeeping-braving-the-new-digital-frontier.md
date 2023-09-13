@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 773
         isCached: true
+  - title: "Navigating the AI frontier: Insights from SAS Explore"
+    excerpt: "Over the past 25 years, SAS Institute Inc. has been actively implementing neural networks in practical applications with its customers. As the broader market increasingly recognizes the potential of AI, the company’s focus has shifted toward enhancing productivity and efficiency."
+    publishedDateTime: 2023-09-13T16:48:00Z
+    webUrl: "https://siliconangle.com/2023/09/13/navigating-ai-frontier-insights-sas-explore-exploresas/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Brian-Harris-and-Reggie-Townsend-SAS-Explore-September-2023-1.jpg"
+        width: 5472
+        height: 3648
+        isCached: true
 
 secured: "Hibs+m25qbQt7jB2EFgAS6QuK7uAvzXX/RYOjHfvUiTZPu4tFmI37nSoQLehfaBtkJpT0+jeyOlcKEbjY2XwDeUrfx96Dz5MVKWBkAM3yL/BDKV2AxmzqvsepW+KA0bxa4j8zD5UYlE5+z1aTkixR31s67Nsy1JjJbPv5YEe+gWEo8RyFwlct2DjJp1Bo3MUFPlPd9HwP5o32PCRcZ9ikEMZtadxzl1e+vqcGnKsz0bB6ZARn/1ZtCrt2U8D+2NEz/s7hr4yFx8F0WDTqwC3gDfrJI9Oj2EwTXIKJ9CrgrMRMXl67xl2oREgFaI54cOu7jkBskzedegXyDN44Sxub24tY5bKv8uV4pVmvr3QNNYDiSNBhP52/giupyG5E6Eq5CmEw7ES1Cv07T+cdyDDxSSYFcpctgET3YXgACjNG/MgZBOA5CNSnuh9LhrC/LaxT366yCboQzAmREvdeECriSQP2k4QVKWzMAwZzJtlDNuiICtzmyn/qSXZnEQ+dIt5GB1eikiLf1C7GRW9D/tlbA==;UaoKziw3wdas6far1/A5Fg=="
 ---

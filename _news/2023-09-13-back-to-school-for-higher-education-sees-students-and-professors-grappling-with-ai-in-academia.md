@@ -98,15 +98,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "Revolutionizing The Hospitality Industry With Artificial Intelligence"
-    excerpt: "By harnessing the power of AI, hoteliers can revolutionize the guest experience, personalize service, streamline operations and bring more to the bottom line."
-    publishedDateTime: 2023-09-11T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/11/revolutionizing-the-hospitality-industry-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "20 Ways Organizations Use AI To Interact With And Serve Customers"
     excerpt: "From tailored experiences to engaging conversations to delivery tracking—and more—AI is changing the ways organizations interact with the people they serve."
     publishedDateTime: 2023-09-12T19:14:00Z

@@ -100,6 +100,22 @@ related:
         width: 874
         height: 704
         isCached: true
+  - title: "Dreamforce 2023 - Salesforce COO Brian Millham on IT budgets, AI investment and loving his job"
+    excerpt: "An ideal person to answer that question is Brian Millham, the firm’s Chief Operating Officer and a man who’s been with the company since 1999 when he was employee 13. If anyone’s in a position to comment on how things have changed over the past year, it’s him. His response is refreshingly candid:"
+    publishedDateTime: 2023-09-13T17:37:00Z
+    webUrl: "https://diginomica.com/dreamforce-2023-salesforce-coo-brian-millham-it-budgets-ai-investment-and-loving-his-job"
+    ampWebUrl: "https://diginomica.com/dreamforce-2023-salesforce-coo-brian-millham-it-budgets-ai-investment-and-loving-his-job?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/dreamforce-2023-salesforce-coo-brian-millham-it-budgets-ai-investment-and-loving-his-job?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 47
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-09/Screenshot%202023-09-13%20at%2010.33.58.png"
+        width: 1322
+        height: 940
+        isCached: true
   - title: "Salesforce embeds conversational AI across the platform with Einstein Copilot"
     excerpt: "Salesforce introduced Einstein Copilot today, a conversational bot, available on demand across the Salesforce platform."
     publishedDateTime: 2023-09-12T12:26:00Z

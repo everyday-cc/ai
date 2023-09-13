@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Say What?! The Rise of AI-Generated Voice Deepfakes"
+    excerpt: "By now most of us are used to interacting with synthetic or artificial voices. Just call a customer service help line or summon a digital personal assistant (like Alexa or Siri) and you would expect t"
+    publishedDateTime: 2023-09-13T16:09:00Z
+    webUrl: "https://www.natlawreview.com/article/say-what-rise-ai-generated-voice-deepfakes"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 39
+    images:
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/44926/Generative%20AI%20artificial%20intelligence_0.jpg?itok=YpjR61wt"
+        width: 500
+        height: 214
+        isCached: true
   - title: "AI Deepfakes in Campaigns Are Detectable, But Does It Matter?"
     excerpt: "Deepfake audio, authentic-sounding but false recordings built from short snippets of a subject talking, have become so realistic that they present painfully obvious potential for underhanded political tactics."
     publishedDateTime: 2023-09-11T17:42:00Z

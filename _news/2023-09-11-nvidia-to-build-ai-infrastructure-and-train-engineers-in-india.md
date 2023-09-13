@@ -41,20 +41,6 @@ related:
         width: 800
         height: 448
         isCached: true
-  - title: "6 Generative AI Jobs in India"
-    excerpt: "The role aims to contribute to Apple’s generative AI-based developer platform, collaborating with data scientists and software engineers to provide ML solutions for internal use, with a focus on improving the developer experience."
-    publishedDateTime: 2023-09-13T07:31:00Z
-    webUrl: "https://analyticsindiamag.com/6-generative-ai-jobs-in-india/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/09/6-Generative-AI-Jobs-in-India.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "saeYwQizbz8x9xIGBHwvNfLxdCMQnOwnehuDwJ8c1Udp28SaPvE0HoVcW9zt3JTGZ2hdY3MB+Crn86qcagX0ASJM6ChvBhND51WuSIKaAXrb0km3kWQ+UEdjLeWuQoNJuoLcf3yvV2uinEmUxRKgnBa+1IgSIQmrlSgLEYw1NVPhtKjl6KNRdmE+493iupjc2hxNfoe3AEy4C1R7nXejWUNFvig48Wt6AfMxwPuMX49VQlBgbGzQvXRR565cWpFhZuZwkwIHFjqZq0HVn5xAUvKpSC7fLQFC/4zjlvAoWywiSRQ+GTPel/EMcgyb4WljTpfkY1jLv7BZRZh34dQFGIzGoX9Sa+p+3luWCdycqOs=;n2u09bm7aZCofuPP9hCgzQ=="
 ---

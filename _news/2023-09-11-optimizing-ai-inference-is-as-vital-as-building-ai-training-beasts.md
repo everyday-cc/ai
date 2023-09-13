@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-a
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts/amp/"
 type: article
 quality: 59
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -75,15 +75,6 @@ related:
         width: 540
         height: 405
         isCached: true
-  - title: "Generative AI in production: Rethinking development and embracing best practices"
-    excerpt: "For apps built on LLMs, the engineering mindset of predictable debugging and software testing and monitoring is suddenly challenged."
-    publishedDateTime: 2023-09-11T13:38:00Z
-    webUrl: "https://venturebeat.com/ai/generative-ai-in-production-rethinking-development-and-embracing-best-practices/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 42
   - title: "Artificial intelligence in hiring: risks for employers"
     excerpt: "As many employers race to embrace artificial intelligence, there are risks to be aware of when it comes to using the technology in hiring."
     publishedDateTime: 2023-09-11T11:33:00Z

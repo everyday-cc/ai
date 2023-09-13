@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20230911PD213/advanced-packaging-a
 webUrl: "https://www.digitimes.com/news/a20230911PD213/advanced-packaging-ai-analysis-and-verification-lab-hpc.html"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 640
     height: 427
     isCached: true
-
-related:
-  - title: "How AI Can Revolutionize The Business Banking User Experience"
-    excerpt: "AI is poised to revolutionize the user experience in any field, including for small businesses in Business Banking. By leveraging cutting-edge technologies and advanced data analytics, the integration of AI by banks,"
-    publishedDateTime: 2023-09-13T11:03:00Z
-    webUrl: "https://www.finextra.com/blogposting/24880/how-ai-can-revolutionize-the-business-banking-user-experience"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 54
-    images:
-      - url: "https://www.finextra.com/finextra-images/visible_pictures/8912b45e-e69f-4108-a79d-f6764d2d493e.png"
-        width: 500
-        height: 285
-        isCached: true
 
 secured: "VMs3YCEVQIAifi8vB7m/I442zcTNTmqNeFnM9KewP0OenpQU7rto+uMFrh2HkIwInfUBs0PHasc2hiGTNUM/tvQlMxHz6m6TF/YL/6wlVNtMXXwPG0L72QTwpFmR9PMJ2eXJ1Y/84tz9I1/J6x3VadeOK0m/EtwPehSS47PuyK27NKNu4og0F9f+XYETcnukGJqK4JsVdu8j3+EJkeDb0K7kRWv9wk806PrRVEkC/kliXdJ5M7a0kmL3vsM59Ctul5LyCAWPkdkgBFE7Rha4Tk/O1ttQhhQxu6SeAqExa5hWpSc+loPHerJVACqjS6d7ijBKiZVB+RUc3LRKPNiNhG0Y/q6s2MM8lQebUygJfaj6ik5lzs2WsXCDvkXYNVjb9EnxkaqvtyNN705k6TQS/pj3MwDw/DYJGkH1GN6Gmwmgrgag+LC4cvALB7WVFuT26PjGDpZaqCMmbvyxwAOCDhlTGC1p//wHQZ6Yw2auMVaD+BPGyFyZFh/oSmwncd7buwsz/bRPrEfJISC0AQkcXg==;De5Vzlqiv/3mEIHfl7rs1g=="
 ---

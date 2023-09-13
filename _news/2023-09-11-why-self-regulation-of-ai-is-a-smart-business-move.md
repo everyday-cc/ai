@@ -60,22 +60,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Haltia.AI champions ethical AI revolution"
-    excerpt: "Consistent with the UAE leadership’s vision for international impact and technological advancement, Haltia.AI invites companies and institutions worldwide to collaborate. \"The UAE stands as a beacon for global innovation and we aim to contribute to the UAE government’s legacy by spearheading partnerships in the ethical sphere,\" says Talal Thabet."
-    publishedDateTime: 2023-09-13T10:18:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/haltiaai-champions-ethical-ai-revolution-k7ctg65g"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/haltiaai-champions-ethical-ai-revolution-k7ctg65g?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/haltiaai-champions-ethical-ai-revolution-k7ctg65g?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 74
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NzgwZTg3ZWQtOGY5Ny00/0/talal-jpg.jpeg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
   - title: "artec technologies AG: New development of AI-based speech recognition with integrated translation function"
     excerpt: "Diepholz - September 11, 2023 - artec technologies AG, a provider of audiovisual solutions for media monitoring, sets new standards in the industry with its latest development: an AI-driven, multilingual speech recognition (Speech-to-text, S2T) with integrated translation function."
     publishedDateTime: 2023-09-11T16:28:00Z
@@ -91,20 +75,6 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
-        isCached: true
-  - title: "5 AI tools to automate passive income generation"
-    excerpt: "Learn how you can automate passive income generation using a variety of different AI tools currently available. Benefit from the technology"
-    publishedDateTime: 2023-09-10T10:27:00Z
-    webUrl: "https://www.geeky-gadgets.com/automate-passive-income/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/5-AI-tools-to-generate-passive-income-streams.jpg"
-        width: 700
-        height: 466
         isCached: true
   - title: "How Applied AI is Transforming the Future of Transportation: A Deep Dive into Self-Driving Cars"
     excerpt: "Envision a world where commuting ceases to be a tiresome chore and instead becomes an opportunity for relaxation or productivity. In this vision, accidents are nearly eradicated, and traffic jams fade into the distant past."
@@ -134,6 +104,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Tekion Unveils Enhanced AI Engine, Tekion AI, with Generative AI Capabilities in its Automotive Retail Cloud Platform"
+    excerpt: "Tekion, transforming the automotive retail ecosystem and delivering modern customer experiences through its AI powered business applications, today an"
+    publishedDateTime: 2023-09-13T15:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230913087802/en/Tekion-Unveils-Enhanced-AI-Engine-Tekion-AI-with-Generative-AI-Capabilities-in-its-Automotive-Retail-Cloud-Platform"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "RPFj2GGSsgiyreeGmscZ7Uh72gDDt1LY7vRofndTccUwRxZX7YlV52+Eqrg4UJvS+4g9NFsiX/O8jfg1S5GKaW0eyTP0crUQSm07M3LQzpF+rblKyZAp1r39Jk+lDoWTX8EnZ7bse77olHIhwOpHNMxhOengCcbx5JjnSfqEcQ1Sa5C0yGKynqlGtvHzkFgLf2dmS8Cz8j28EP61bNPG4MjSvj7Y+kC5X2L9e82VNn7+GaIirOMtMN+XDyxM3rHKIuD9Q1Uf04ENlji0wkJMWV+WahP6IevCIgRKLq3b5jFmbxWCjo+9N/GaIS/eJcA+8sdeRpnpFt2TXcGKk19YKlzqGYy/h7fmgAFUqey16Nw62giIv40JC1cpOiIHBPdD8PtfjQxzx6Tj5EOYJEi6PxHG8gF8kOFi+Ya1ssqfqJyPins11IP+YhAORpdGPZelrmVvSHw23nfPt1jLBitOSv0nSpHAQKwLPWyImHq/RxwUJzsVfr1RkchKnWQHEnL45RUCrPRvNqIFsk/c9L5CDg==;tloHwYbEtZwURYhIbxIBLQ=="
 ---

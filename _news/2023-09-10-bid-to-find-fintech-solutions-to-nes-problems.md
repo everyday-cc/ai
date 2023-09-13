@@ -52,15 +52,6 @@ related:
       name: IBS
       domain: ibsintelligence.com
     quality: 14
-  - title: "Leading the Fintech Revolution: FORMS Syntron Presents Generative AI and Web 3.0 Financial Platforms"
-    excerpt: "Empowered by Microsoft, FORMS Syntron unleashes Banking Copilot and FINNOSafe to transform the financial sector HONG KONG SAR - Media OutReach - 13 September 2023 - Today, a leading fintech thought leader,"
-    publishedDateTime: 2023-09-13T08:10:00Z
-    webUrl: "https://www.asiaone.com/business/leading-fintech-revolution-forms-syntron-presents-generative-ai-and-web-30-financial"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 4
 
 secured: "y2CV9Uq+1eotnmHvKmJIOwaKZWpEf6v7ZZlZCeBBVccsICm0+IXnctxD+2Moi1VEDfMIBTYBcgIW+DaRW4r4g4pFs5MAdKnczzpV7PqNThkkykb/UGBzih6jdfx5Iwnvn+3cHT8YEDqmnwFBkXLygZlreCRvlEMmcZte6agVPBDt8s9hfKmuIiM7LXfrUapb46gB0Td8UKiRxziEQ7kca6qwyjSkupEw0m2DIDVw4mMvG/5wChuw0iZY5ck88SM99KUYltmzIsAp3GLcDGBkFFbG7RLgl9gamneIq7JOXCq9IcSs4zuOY8+WdYLwJgaew1cccJPG6UgZixhhE8nogurK7hRHQkuxnsTSiExsZUM=;tPPZRarN1Bg9XYNTUuWzTg=="
 ---

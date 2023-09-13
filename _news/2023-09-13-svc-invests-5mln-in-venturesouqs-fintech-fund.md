@@ -87,6 +87,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 4
+  - title: "Crypto company with $3.4B valuation to invest in fintech, gaming and more"
+    excerpt: "The Miami company is launching a new venture division focused on directing funds to early-stage fintech, gaming and web3 infrastructure startups. MoonPay Ventures has already invested in multiple businesses, including California-based Mythical Games and BeatClub, a digital marketplace for the music industry."
+    publishedDateTime: 2023-09-13T16:26:00Z
+    webUrl: "https://www.bizjournals.com/southflorida/news/2023/09/13/moonpay-launches-venture-investment-arm.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 3
 
 secured: "gMYyIqWEudbnqoZ3ax7nTvKL9FNpc/RDpgu9s2pDuRfVl+3huL+GqtTadQ5BAi1xuKppuvHXk9+1du94EcCm0iKxc1nKszEMszKZp0v1PkgG/6T8W1Gy5qi0ygP+kpZJGSYbfPZTGs9MxlYZ+u9MI86ZhyBjEvgEmeohob0o56gXioWM+Jj9wJ7o+mOMWPXJBqPBWP0uF4t815YHVasHuui5lNJTz6i09s0qyFzg35OIp4UrJMv9DGUm3QIelBAyZZYvTuCoo0hILE9SRgBzgM4pOG9jxFJ0Xog+vd6SpCiCCl58Qp3G5xCcTGvmiLXOCjsMPoAQQ4jNc5uySgLOrCbHYxhg4O9qVanZanHbxqw=;9WZq2MZZMfaTNqZ+jRUB6A=="
 ---

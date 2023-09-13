@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google AI Head On Data Privacy, GenAI Lead Vs. AWS, Microsoft"
+    excerpt: "Moyer, global vice president of Google’s artificial intelligence business ... Moyer was managing director of global financial services at AWS in charge of AWS sales, technical and customer experience teams that supported some of AWS’ largest customers."
+    publishedDateTime: 2023-09-13T15:55:00Z
+    webUrl: "https://www.crn.com/news/software/google-ai-head-on-data-privacy-genai-lead-vs-aws-microsoft"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 71
+    images:
+      - url: "https://www.crn.com/resources/0285-18f85d37f0c5-7ba70e58e5f1-1000/philip-moyer-google.jpeg"
+        width: 611
+        height: 459
+        isCached: true
   - title: "Tilde and Microsoft Collaborate Towards Inclusive Education With AI Speech-to-Text Technology"
     excerpt: "Tilde, in partnership with Microsoft, aims to advance inclusive education through automatic speech recognition solutions."
     publishedDateTime: 2023-09-12T08:20:00Z

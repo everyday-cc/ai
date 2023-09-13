@@ -86,6 +86,15 @@ related:
       name: IBS
       domain: ibsintelligence.com
     quality: 19
+  - title: "Crypto company with $3.4B valuation to invest in fintech, gaming and more"
+    excerpt: "The Miami company is launching a new venture division focused on directing funds to early-stage fintech, gaming and web3 infrastructure startups. MoonPay Ventures has already invested in multiple businesses, including California-based Mythical Games and BeatClub, a digital marketplace for the music industry."
+    publishedDateTime: 2023-09-13T16:26:00Z
+    webUrl: "https://www.bizjournals.com/southflorida/news/2023/09/13/moonpay-launches-venture-investment-arm.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 3
 
 secured: "v6bhh5EIN6+UtQWfG8hG3OL8FKmmy0ZREYfGWsz0yEX1H03r0GBjTgtZ4XOIDceyRE50Hx4dSN+gt3tQpT6tjYA0SY0/LCDiRotlPicQB52BQ2yZs8YYeRHHXJhWk3IIwRgrD9Hohk80HBQ28lqHiQ7XN24Qvt4oqELrXTlN6mWahGxJpibiQlTbtgtwuSsnv5TBM+1ekZlolkQW6Kf9PTdKwn4PXXzHeDXXVAWBVl1lo7qnreDWo0Ww94AJb8OuiKyyp9ypM6MLT6p0/pR2QgIYEOrqNRD3HV7NCqk/WbG5j0/4y4njm6CZHlxZpOVIOBWUuMjjj/jA448qwp6MQroZn+u4fsQlQuFX2UuO2rU=;cElSapwuyPiN8wFni8U3pg=="
 ---

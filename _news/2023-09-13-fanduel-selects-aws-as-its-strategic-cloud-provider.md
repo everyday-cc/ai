@@ -33,6 +33,15 @@ related:
         width: 1400
         height: 900
         isCached: true
+  - title: "FanDuel Selects AWS as Its Strategic Cloud Provider"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that FanDuel, the leading sports gaming company in the U."
+    publishedDateTime: 2023-09-13T17:01:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230913559977/en/FanDuel-Selects-AWS-as-Its-Strategic-Cloud-Provider"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 19
 
 secured: "ZnXrxG70mbg+2cB/1VfsZM7JB3FYX4qx1M5hQ3Yw443tI7UhntD4f29ubaM5dyI/YSbA35r1LEfdXjmE/XHhUz03d2X0N+jikcf9z/thpg3hqBx/BXg6xzy1OO/Ztf2ZRo15M8ImLn9aJu8f2b8MYundSxyDjvA8beOUZ1Otb4oKefPhaecIV6jt+XX3gnC1mjQNixoePeiRj64IX3aa2xTGJnXv0nc9MerMr9OEziAxwZghczW+USPHkhTsYO2vkDVeBgLbi6Kk5/RyZhOVe5xzEv4oEbJlm3dDEE4UsKi8/DK3ER1H004g5CJJx/srk5nQhqUVJgpMQzbf+zIVhNYaX8qIty+pRBlOalQNIFo=;urgQFAFViH7AQcud884fwA=="
 ---
