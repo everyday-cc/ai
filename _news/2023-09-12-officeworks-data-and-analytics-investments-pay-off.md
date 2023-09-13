@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "SAS ups AI features in its analytics and CRM platforms"
-    excerpt: "The company said it’s working with Microsoft Corp. to develop a generative AI integration that combines Microsoft Azure OpenAI with SAS’ enterprise task orchestration and analytics in a product to be previewed in the fourth quarter."
-    publishedDateTime: 2023-09-12T18:26:00Z
-    webUrl: "https://siliconangle.com/2023/09/12/sas-ups-ai-features-analytics-crm-platforms/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
   - title: "SQream reels in $45M for its speedy GPU-powered database"
     excerpt: "SQreamDB provides integrations with Tableau and several other popular BI products. “As generative AI shines a light on the importance of leveraging AI and ML within enterprises, as well as the value of GPUs as part of the analytics process, we have seen ..."
     publishedDateTime: 2023-09-12T19:25:00Z

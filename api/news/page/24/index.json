@@ -2,6 +2,57 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2023-08-25-psychologists-reveal-why-some-people-are-more-welcoming-of-the-ai-revolution-than-others.md",
+      "title": "Psychologists Reveal Why Some People Are More Welcoming Of The AI Revolution Than Others",
+      "excerpt": "People who feel capable, connected, and in control tend to have more positive attitudes toward AI. Specifically, those who believe they can use technology on their own terms, like Finnish respondents, tend to view AI more favorably.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/traversmark/2023/08/25/psychologists-reveal-why-some-people-are-more-welcoming-of-the-ai-revolution-than-others/",
+      "originalUrl": "https://www.forbes.com/sites/traversmark/2023/08/25/psychologists-reveal-why-some-people-are-more-welcoming-of-the-ai-revolution-than-others/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e7d04bc8894ab10a4af6bd/0x0.jpg?format=jpg&crop=3607,1689,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/traversmark/2023/08/25/psychologists-reveal-why-some-people-are-more-welcoming-of-the-ai-revolution-than-others/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traversmark/2023/08/25/psychologists-reveal-why-some-people-are-more-welcoming-of-the-ai-revolution-than-others/amp/",
+      "publishedDateTime": "2023-08-25T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-25-amds-radeon-rx-7700-xt-and-rx-7800-xt-fill-the-gaps-in-its-next-gen-gpu-lineup.md",
       "title": "AMD’s Radeon RX 7700 XT and RX 7800 XT fill the gaps in its next-gen GPU lineup",
       "excerpt": "AMD has been slower than Nvidia to fill out its next-generation GPU lineup, and for months there has been a huge gap between the Radeon RX 7900 XT (currently retailing between $750 and $850) and the Radeon RX 7600 (holding steady at $270ish).",
@@ -1151,57 +1202,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-kevin-sorbo-wife-sam-believe-ai-is-extraordinarily-dangerous.md",
-      "title": "Kevin Sorbo, wife Sam believe AI is 'extraordinarily dangerous'",
-      "excerpt": "Kevin Sorbo and wife Sam Sorbo shared their concerns about artificial intelligence and why the actors strike is necessary as negotiations continue to be at a standstill between SAG-AFTRA and the AMPTP.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/kevin-sorbo-wife-sam-believe-ai-extraordinarily-dangerous",
-      "originalUrl": "https://www.foxnews.com/entertainment/kevin-sorbo-wife-sam-believe-ai-extraordinarily-dangerous",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/08/1200/675/KevinSorboSamSorbo.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/kevin-sorbo-wife-sam-believe-ai-extraordinarily-dangerous.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/kevin-sorbo-wife-sam-believe-ai-extraordinarily-dangerous.amp",
-      "publishedDateTime": "2023-08-24T23:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

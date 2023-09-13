@@ -22,17 +22,6 @@ topics:
   - AI
   - AI in Marketing
 
-related:
-  - title: "5 Cool Chip Solutions For Edge AI"
-    excerpt: "CRN rounds up five cool edge AI solutions from AMD, Axelera AI, Intel, Nvidia and SiMa.ai for the growing number of IoT devices entering the world."
-    publishedDateTime: 2023-09-11T18:33:00Z
-    webUrl: "https://www.crn.com/news/internet-of-things/5-cool-chip-solutions-for-edge-ai"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 34
-
 secured: "WbOUBNeabuIQfPXCd/QxkjVw4pBjuOmLYrH1nwnB5iDAAJEPpdo+1KtQ/v1uWkIQ1KBgJROzHKCNLGrHUJw10bwTY3nnuWUiLQynK434W8JxhNY4hopCoKrGo09Oys7UW1TSW6OXoeUr7kyg0OkMvgkYOh67JCrtCOKVM85HVctE0NP5uzP6GSsKFR4ZQoIbjSotXAy2coGePP6BrQ8cAXsqIX1IxKYM/Pl4IrCIH0tFmPNCZJw4QWMntWo0U9U0KTqaskeSSz6cDyrpfCovDc2mhbXhkNYZujpZSwXXyiOvMJ7+shYf5iP2mMxw65Z+YoKyDtYywxTislLsHpU4A4PKXrznV+5yK3CaM760gWE=;w+teGJqeARxhDM407T+0iQ=="
 ---
 

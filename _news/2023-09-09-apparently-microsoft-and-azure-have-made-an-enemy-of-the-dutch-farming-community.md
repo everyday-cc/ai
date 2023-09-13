@@ -197,15 +197,6 @@ related:
       name: enterprisetalk
       domain: enterprisetalk.com
     quality: 34
-  - title: "Microsoft Says It Will Pay Tab for Infringement Suits Against Its AI Customers"
-    excerpt: "The tech giant says it doesn't want uncertainties surrounding patent infringement law for generative AI to scare away customers from its Copilot tool."
-    publishedDateTime: 2023-09-08T17:40:00Z
-    webUrl: "https://www.law.com/corpcounsel/2023/09/08/microsoft-says-it-will-pay-tab-for-infringement-suits-against-its-ai-customers/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 32
   - title: "Microsoft and Paige Collaborate on World's Largest Cancer-Fighting AI Model"
     excerpt: "Microsoft, a technology behemoth, has partnered with Paige, a digital pathology company, to construct the largest image-based artificial intelligence (AI) models globally, designed to combat cancer."
     publishedDateTime: 2023-09-10T12:43:00Z
@@ -260,6 +251,15 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 14
+  - title: "Netcracker Expands Collaboration with Microsoft to Deliver High-Value Generative AI Solutions to Telecom Operators"
+    excerpt: "Netcracker Technology announced today that it has expanded its partnership with Microsoft to support Netcracker's recently launched GenAI Telco Solution, which unlocks the potential of generative AI technology to deliver exceptional business value to the telecom industry."
+    publishedDateTime: 2023-09-13T11:24:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-netcracker-expands-collaboration-with-microsoft-deliver-high-value-/2023/09/13/9879980.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 12
 
 secured: "Te7G5QXw+aGg3724TOCT+CvqM1jex07zYQZwR7jgJLOgnGHcVAKjWgcoQB2x446wohQ9ia9ZS62uau79Upqb5nLcty51azspV5exQSDHUgm6GbIFP70+qJfIIa51RvV/Nb+ZVwEZwr+sQ3QZ1cnMWMImElaxnpkHWu1x7QdUHa7ecy5NIc7qKldzCTv1WA06F8a59RJJFC+rtQpq7HFUDPtoWc8c/yDuBQwizHUPVyt4ttEPiAaWOvPNoaqlIFolkAjF57Xs796jgzB/s/nL+LIpQDoIXeljBqCzhmY5fj2wI5+AXvkhVXbVq9h0PGSkypDLA3epJmwt9wNw3K8ECkxY3Qmy8rTSDDqkj4q6+us=;HEt6cleqmnhMkeL88W4slw=="
 ---

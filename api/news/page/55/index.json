@@ -2,6 +2,49 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2023-08-04-voice-recognition-and-medical-transcription.md",
+      "title": "Voice Recognition and Medical Transcription",
+      "excerpt": "A speech-recognition engine simply replaces the keyboard and mouse. To realize the potential benefits of a local, PC-based voice-recognition system (as in Figures 1 and 2), you probably have to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medscape.com/viewarticle/487524_4",
+      "originalUrl": "https://www.medscape.com/viewarticle/487524_4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.medscape.com/thumbnail_library/Social_Facebook_806x806.jpg",
+          "width": 640,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medscape",
+        "domain": "medscape.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-04-new-microsoft-azure-ad-cts-feature-can-be-abused-for-lateral-movement.md",
       "title": "New Microsoft Azure AD CTS feature can be abused for lateral movement",
       "excerpt": "Microsoft's new Azure Active Directory Cross-Tenant Synchronization (CTS) feature, introduced in June 2023, has created a new potential attack surface that might allow threat actors to more easily spread laterally to other Azure tenants.",
@@ -1136,57 +1179,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-vsbltys-ai-technology-protects-one-of-americas-largest-synagogues.md",
-      "title": "VSBLTY'S AI TECHNOLOGY PROTECTS ONE OF AMERICA'S LARGEST SYNAGOGUES",
-      "excerpt": "Intelligent Perimeter Security Shield Deployed Around the SynagoguePHILADELPHIA, Aug. 3, 2023 /PRNewswire/ -- VSBLTY Groupe Technologies Corp.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/vsblty-s-ai-technology-protects-one-of-america-s-largest-synagogues-1032512087",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/vsblty-s-ai-technology-protects-one-of-america-s-largest-synagogues-1032512087",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/817114/VSBLTY_Logo.jpg",
-          "width": 400,
-          "height": 283,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-03T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

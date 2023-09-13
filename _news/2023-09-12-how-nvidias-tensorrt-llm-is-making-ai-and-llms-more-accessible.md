@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Nvidia Says New Software Will Double LLM Inference Speed On H100 GPU"
-    excerpt: "Nvidia said it plans to release open-source software that will significantly speed up inference performance for large language models powered by its GPUs, including the H100."
-    publishedDateTime: 2023-09-08T18:42:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/nvidia-says-new-software-will-double-llm-inference-speed-on-h100-gpu"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 19
 
 secured: "SXkVu/Tk8BBlUwRVUtwAozvYijdshtRsqD7mvQZd1GY8r3m5/fYekD/XAvCUtN1kWGXk7fOr7A8Kcqb+Og/yamMCHO4Af+NlqCxO29pOJOIilVEqYmvp2kxxiyeOXleUlftMMMm6/xwr3I090xek+C9jzNEi3qc+ljQLOwgzrJns+FZ7UbOcowS0pTU3Ud5FvGY0lyJoT7rHZpIIGIzlgobZ4tU3h1Bi1UNrIKoxFPrw41paCPh7l+anlbrGKt9NvHatfMIHuAQhm34dEsl2UFFq/usE4cBNUvlZqWA/fyMx3tH9pXcqXx29O47stwn1LCX73dTb+DtNXCOo3IJqbrCuGgB3WLb0rg94oNKpIy0=;Z/033yXjrP1cVCmFuTKc4A=="
 ---

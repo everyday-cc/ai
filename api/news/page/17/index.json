@@ -2,6 +2,49 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2023-08-31-baidu-leads-public-rollout-of-ai-chatbots-in-china.md",
+      "title": "Baidu Leads Public Rollout Of AI Chatbots In China",
+      "excerpt": "Tech giant Baidu launched China's first public artificial intelligence chatbot on Thursday, with ERNIE trained to censor highly sensitive topics for the ruling Communist Party such as the Tiananmen crackdown.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d?refsec=topics_afp-news",
+      "originalUrl": "https://www.barrons.com/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d?refsec=topics_afp-news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.barrons.com/asset/external-media/afp/AFP9640123735043191226260508873486149274090---1.jpg",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d",
+      "publishedDateTime": "2023-08-31T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-31-arnold-schwarzeneggers-stunt-coordinator-wants-fair-contract-as-ai-continues-to-loom-over-hollywood-strike.md",
       "title": "Arnold Schwarzenegger's stunt coordinator wants ‘fair contract’ as AI continues to loom over Hollywood strike",
       "excerpt": "A stunt coordinator who's worked with the likes of Arnold Schwarzenegger and Ryan Reynolds, explains he just wants a fair contract out of the ongoing actors strike.",
@@ -1147,57 +1190,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-how-to-use-claude-ai-and-how-its-different-from-chatgpt.md",
-      "title": "How to use Claude AI (and how it's different from ChatGPT)",
-      "excerpt": "The Claude AI chatbot is trained on the latest real-time data and is accessible through Slack. Here's what else you need to know.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/how-to-use-claude-ai-and-how-its-different-from-chatgpt/",
-      "originalUrl": "https://www.zdnet.com/article/how-to-use-claude-ai-and-how-its-different-from-chatgpt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/be7b18f7d66f3a2675ca79cd4a5948999b093312/2023/08/30/950b5064-6d1b-4dfe-a250-10df6189607c/silo-gettyimages-1348371250.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-to-use-claude-ai-and-how-its-different-from-chatgpt/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-use-claude-ai-and-how-its-different-from-chatgpt/",
-      "publishedDateTime": "2023-08-30T13:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

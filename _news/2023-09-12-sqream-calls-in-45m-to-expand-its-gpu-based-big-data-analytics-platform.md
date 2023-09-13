@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/09/12/sqream-series-c/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/12/sqream-series-c/amp/"
 type: article
 quality: 88
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "SAS ups AI features in its analytics and CRM platforms"
-    excerpt: "The company said it’s working with Microsoft Corp. to develop a generative AI integration that combines Microsoft Azure OpenAI with SAS’ enterprise task orchestration and analytics in a product to be previewed in the fourth quarter."
-    publishedDateTime: 2023-09-12T18:26:00Z
-    webUrl: "https://siliconangle.com/2023/09/12/sas-ups-ai-features-analytics-crm-platforms/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
   - title: "Officeworks' data and analytics investments pay off"
     excerpt: "Officeworks’ customer data and analytics platform uses a machine learning model built in Amazon SageMaker, which is fed customers’ purchase history, product preferences, and product characteristics; these features are tracked and collected across the ..."
     publishedDateTime: 2023-09-11T20:54:00Z

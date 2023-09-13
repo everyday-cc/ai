@@ -2,6 +2,41 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2023-08-14-amazons-facial-recognition-system-flags-dozens-of-california-lawmakers-as-criminals.md",
+      "title": "Amazon’s facial recognition system flags dozens of California lawmakers as criminals",
+      "excerpt": "Amazon’s facial scanning software, called Rekognition, won’t unlock your phone, but it is currently being used by some law enforcement agencies to identify criminals based on their mugshots.",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/science/rekognition-test-amazon-facial-software/",
+      "originalUrl": "https://bgr.com/science/rekognition-test-amazon-facial-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-13T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2023-08-14-natural-language-processing-nlp-software-market-scope-and-business-revenue-insight-2030.md",
       "title": "Natural Language Processing (NLP) Software Market Scope and Business revenue Insight, 2030",
       "excerpt": "Natural Language Processing (NLP) Software Market | Outlook 2023-2028 | Tables and Figures with Pre and Post-COVID Research is Covered, Report Information | Updated 115 Pages Report The extent and ...",
@@ -1072,58 +1107,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-12-regulators-open-floodgates-for-driverless-taxis-in-san-francisco-whether-theyre-wanted-or-not.md",
-      "title": "Regulators open floodgates for driverless taxis in San Francisco, whether they’re wanted or not",
-      "excerpt": "On a pair of 3-1 votes, regulators approved allowing Waymo and Cruise to offer fared driverless rides across San Francisco, at all hours of the day, with an unlimited number of vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/regulators-open-floodgates-for-driverless-taxis-in-san-francisco-whether-theyre-wanted-or-not-f966c029",
-      "originalUrl": "https://www.marketwatch.com/story/regulators-open-floodgates-for-driverless-taxis-in-san-francisco-whether-theyre-wanted-or-not-f966c029",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-833917/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/regulators-open-floodgates-for-driverless-taxis-in-san-francisco-whether-theyre-wanted-or-not-f966c029",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/regulators-open-floodgates-for-driverless-taxis-in-san-francisco-whether-theyre-wanted-or-not-f966c029",
-      "publishedDateTime": "2023-08-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

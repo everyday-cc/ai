@@ -7,7 +7,7 @@ originalUrl: "https://it.tmcnet.com/news/2023/09/11/9878148.htm"
 webUrl: "https://it.tmcnet.com/news/2023/09/11/9878148.htm"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "UK researchers start using AI for air traffic control"
-    excerpt: "UK researchers have produced a computer model of air traffic control in which all flight movements are directed by artificial intelligence rather than human beings. Their “digital twin” representation of airspace over England is the initial output of a £15mn project to determine the role that AI could play in advising and eventually replacing human air traffic controllers."
-    publishedDateTime: 2023-09-11T10:00:00Z
-    webUrl: "https://www.ft.com/content/783a9d91-cce3-4177-bfe0-5438aa3b892a"
+  - title: "Private Equity Recruits Data-Science Talent as Industry Tackles Machine Learning"
+    excerpt: "More firms are adding chief data officers and other data-science and engineering talent as they incorporate machine learning into their operations."
+    publishedDateTime: 2023-09-13T09:30:00Z
+    webUrl: "https://www.wsj.com/articles/private-equity-recruits-data-science-talent-as-industry-tackles-machine-learning-7f6dcba7"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 64
+    images:
+      - url: "https://images.wsj.net/im-850853/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "T4/NCqrAiFZ45MIIkkIcykjxwiATl8msIiYevLw7qyLFtcGo5NrnLYf4UKj1SkfCacYZlDWuaNvLwrnhNEDv0NNpIqBlKQO0NGlWqIKRO++Befe//IhyViExQhJPXaeX9sotIyDtzTx7038s7C7fWwzu+WcVoBzPHjqf1TN1QS92lVZU0eWkRowEtZF5FYQhcmtJC5TripbY5LSvAaNN0N5YD36BTOfyeB0RrPU0WiPCQUpDyEGIFOLdX5OVTUZyPQizP5jNIvFpJmtGfkPCzCQ+ZGdQIp1qux0ppLJJlDULSKnZyKXFVVzA2prvShCsNqTrrVpFQUQK3WMB9Ch4W4t+C+lM8zWuiXJf9EB64T0=;+b14UlIMOHNkws4xJb6Iug=="
 ---

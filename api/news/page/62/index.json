@@ -2,6 +2,49 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2023-07-31-how-researchers-train-machine-learning-model-in-outer-space-on-satellite.md",
+      "title": "How Researchers Train Machine Learning Model in Outer Space on Satellite",
+      "excerpt": "In a groundbreaking development, a group of researchers led by DPhil student Vít Růžička from the Department of Computer Science at the University of Oxford successfully trained a machine learning model in outer space.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cryptopolitan.com/machine-learning-model-in-space-on-satellite/",
+      "originalUrl": "https://www.cryptopolitan.com/machine-learning-model-in-space-on-satellite/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cryptopolitan.com/wp-content/uploads/2023/07/photo_2023-07-31_11-25-04.jpg",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-30T20:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cryptopolitan",
+        "domain": "cryptopolitan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-31-how-is-machine-learning-different-from-deep-learning.md",
       "title": "How is machine learning different from deep learning?",
       "excerpt": "The confusion between machine learning and deep learning is an obvious one. Oftentimes, many people use the two interchangeably. However, these are",
@@ -1125,58 +1168,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-the-robots-we-were-afraid-of-are-already-here.md",
-      "title": "The Robots We Were Afraid of Are Already Here",
-      "excerpt": "The long-anticipated automation revolution has begun. Robots are ready to operate forklifts and do laundry. It’s not as scary as it sounds.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/07/29/business/robots-workers-future.html",
-      "originalUrl": "https://www.nytimes.com/2023/07/29/business/robots-workers-future.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/07/30/multimedia/00mr-robot-01-zmfw/00mr-robot-01-zmfw-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-29T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

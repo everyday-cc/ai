@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/amazon-starts-requiring-writers-to-disc
 webUrl: "https://www.pcmag.com/news/amazon-starts-requiring-writers-to-disclose-ai-generated-content"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Amazon to require some authors to disclose the use of AI material"
-    excerpt: "NEW YORK -- After months of complaints from the Authors Guild and other groups, Amazon .com has started requiring writers who want to sell books through its e-book program to tell the company in advance that their work includes artificial intelligence material."
-    publishedDateTime: 2023-09-08T18:09:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/amazon-require-authors-disclose-ai-material-103042285"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 17
 
 secured: "/FbRUL31Xm/b3eaMEwuC1TrOc79dL6wUrWfITn7MYb49V3xsCXY/gq6+rQeuB3ARs5U019MQDT9+Jqw5ZrwlVakmRtMdBYO74bHj645X7a6iJrXKu7TQh0BaxpYddSo5rkERcPtmzsqiLS/CHNpBbFzKhcL47WIQN+P6RfiLEIC4XZDYj5O3OzIpz2ZP3cqO7SjAVzSitYe/dVwwTEtr88uOW+XfqO67XUscOMwtr+pQPZqz+zrUrRpCYGkE4eqT0z+EYdLDrbNGiwCVwXngUgAlmDpnn9GS1nEALNKtaavKPW+UH3kt8m4Y/lrTI9ptVZzB2yXVCUEL86RLKZPYrmZrjhL8WhEBH4hFUaIRkI4A133eSR307ImSYS057BNkiXisN5ZP+OVYbrRIm9Hzne23xllJMyPrvOWJllfWZwrNQcucwsOYX/8vkH2Y286UkTpgG9wVxx4E2pZODaBpnWHRlFhqAEBkwBfHvpgTyBrLn6dtRnboej/zRBNId+U4K3SdzR2rftwL25aUehTVQA==;oaEkElLEk2mtUqyN4h/vFg=="
 ---

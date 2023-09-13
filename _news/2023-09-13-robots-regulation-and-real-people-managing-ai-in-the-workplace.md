@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "State Legislatures Eye AI Regulation"
-    excerpt: "The state plans to use this information to develop a robust AI ethics board and audit procedures to protect the rights of Vermont citizens amidst future AI developments. Industry-specific guidance has begun to emerge as well. For instance, many state ..."
-    publishedDateTime: 2023-09-08T18:28:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/state-legislatures-eye-ai-regulation-7796939/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 19
   - title: "Congress huddles with tech experts in new push for AI rules: ‘There will be regulation’"
     excerpt: "Senators are meeting with leading Big Tech executives this week as part of a new push to write rules for artificial intelligence focused on limiting danger and safeguarding innovation."
     publishedDateTime: 2023-09-12T19:56:00Z
@@ -76,6 +67,6 @@ related:
       domain: washingtontimes.com
     quality: 11
 
-secured: "lVdwo8Y4S0wuTdTu979fIEog4DqDT6Qmc985FGjAIGxcQsceSSVU5U4unOKBOj/Uv8iESI2yoAGgkzq5GTBp+nc3hQdrV/u8WRwjuhu9XHqWdILo2YN8w/wAxy+AVjexu4TZIH0NqG5u2XMXdmzsBXYLHoDI42aeycEvLt8ZlpS6gVQyLJRo7Ta9yuMFlSGOrzx0d0LycLyTJFiWRrl4S44kcO3RenAFHlcvLfM9XmrOogaRlGVUoSNDLKYv9Ht14sFeuJ+3EnTa+8YWLlV6BbKvFvN2S/6kenYXGYxZJg84R2PA58FUxt0Ntj08kqno07cs1rNy623tj5CsxBPqhsF2wsxLdMjDownbbl9oxKw=;66J4dckg9sDZcc0IgC7VLA=="
+secured: "UwgaDzy4bVroUbI69lmfxo63iiis0rY3sPyriYWFCmUJ3zYP5oRlcYHvAxzpmOQx49VUNInQoh4FXULLdiHNIbZgfeyRE9sBRK8fuuw+SGv5rMp2hEaCyKu9TYFjBOSRWttviZNjTervIS3aHNYb2OnH8x2pTi6Q9dBXZCatwJC0wVp2HPpjBRwwNt1+5xarDfH342piYTk31HR4DcVf1dj4x2oFCDEK5qUtBbMsSkg/9k07AUPJGLcJLta/KF9YvZZ5xDNrXopqnGje+eYfj/tAzkjx2jwy93wguimi2ApxwpWaRr0HlRQUJYTUXwTx7rKTzJenOZH+ybp7FEYx5h9nznDDRSMK2aVPriRpjqF7zO3hTUA811NmNCW96UsXo2FlVqaffh1IM5PhvgoYxqaEpr2DdpXaT1lyu0Y/COVcWrfVBfpSxW84DnWzo5zz9C3cNFbXcz19S9QbL0lT4HpER64KgSFV3XZe9oCiu3y3wNFeHCx3Ya8szzyF1Z7TF/j+sWpDB0f0Nycm3Z3Isw==;SUSS4Wm6R24PXFk1uDIrww=="
 ---
 

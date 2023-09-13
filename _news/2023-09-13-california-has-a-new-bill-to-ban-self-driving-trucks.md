@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Exclusive: California Bill Proposes Regulating AI at State Level"
+    excerpt: "A new bill in California, where many tech companies are based, adds to national and global efforts to regulate AI"
+    publishedDateTime: 2023-09-13T11:00:00Z
+    webUrl: "https://time.com/6313588/california-ai-regulation-bill/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 67
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2023/09/GettyImages-1298883331.jpg?quality&#x3D;85"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "California firefighters use AI to battle wildfires"
     excerpt: "Neal Driscoll says the AI system for spotting wildfires is already offering a jump on about 40 percent of fires, and he expects it to get more effective. Over the last few years, its application has spread to include areas as diverse as weather forecasting, stock-picking, art and journalism."
     publishedDateTime: 2023-09-12T08:31:00Z

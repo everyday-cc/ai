@@ -2,6 +2,58 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2023-08-16-5-blue-chip-stocks-ai-thinks-will-double-your-money-by-2027.md",
+      "title": "5 Blue-Chip Stocks AI Thinks Will Double Your Money by 2027",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In June, I introduced five stocks that AI predicted could double a portfolio",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/5-blue-chip-stocks-ai-thinks-will-double-your-money-by-2027-1032560778",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/5-blue-chip-stocks-ai-thinks-will-double-your-money-by-2027-1032560778",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2023/07/marketmaster-performance-1.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-16T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-16-the-machine-economy-and-the-convergence-of-web3-ai-and-fintech.md",
       "title": "The Machine Economy and the Convergence of Web3, AI and Fintech",
       "excerpt": "Humans, software machines, and our ever-evolving hybrids are connected through fintech financial networks and anchored to blockchains. Digital production, powered and accelerated by generative AI ...",
@@ -1073,58 +1125,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-superglue-benchmark-challenges-natural-language-processing-tasks.md",
-      "title": "SuperGLUE benchmark challenges natural language processing tasks",
-      "excerpt": "Artificial intelligence researchers want to advance natural language processing with the release of SuperGLUE. SuperGLUE builds off of the previous General Language Understanding Evaluation (GLUE ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/superglue-benchmark-challenges-natural-language-processing-tasks/",
-      "originalUrl": "https://sdtimes.com/ai/superglue-benchmark-challenges-natural-language-processing-tasks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2019/08/wood-glue-596161_640.jpg",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -60,6 +60,22 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Haltia.AI champions ethical AI revolution"
+    excerpt: "Consistent with the UAE leadership’s vision for international impact and technological advancement, Haltia.AI invites companies and institutions worldwide to collaborate. \"The UAE stands as a beacon for global innovation and we aim to contribute to the UAE government’s legacy by spearheading partnerships in the ethical sphere,\" says Talal Thabet."
+    publishedDateTime: 2023-09-13T10:18:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/haltiaai-champions-ethical-ai-revolution-k7ctg65g"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/haltiaai-champions-ethical-ai-revolution-k7ctg65g?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/haltiaai-champions-ethical-ai-revolution-k7ctg65g?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 74
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NzgwZTg3ZWQtOGY5Ny00/0/talal-jpg.jpeg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
   - title: "artec technologies AG: New development of AI-based speech recognition with integrated translation function"
     excerpt: "Diepholz - September 11, 2023 - artec technologies AG, a provider of audiovisual solutions for media monitoring, sets new standards in the industry with its latest development: an AI-driven, multilingual speech recognition (Speech-to-text, S2T) with integrated translation function."
     publishedDateTime: 2023-09-11T16:28:00Z

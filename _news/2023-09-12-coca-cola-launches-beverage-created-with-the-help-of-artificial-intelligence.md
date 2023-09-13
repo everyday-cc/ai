@@ -34,6 +34,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Coca-Cola embraces controversial AI image generator with new “Y3000” flavor"
+    excerpt: "Stable Diffusion, a technology which is mentioned by name when launching the \"Coca-Cola Y3000 AI Cam\" mobile app, gained its ability to generate images by scraping hundreds of millions of copyrighted works found on the Internet without copyright holder permission and is currently the subject of litigation related to copyright infringement."
+    publishedDateTime: 2023-09-12T22:41:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/09/ai-hype-reaches-coca-cola-with-new-y3000-flavor-co-created-with-ai/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/09/ai-hype-reaches-coca-cola-with-new-y3000-flavor-co-created-with-ai/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/ai-hype-reaches-coca-cola-with-new-y3000-flavor-co-created-with-ai/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 85
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/09/coke_y3000-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "GRYqGCUASkt8/TU8+D8/t6lP8Nn2tYD69PbNmvefbZxTKcxyR0F83vrOAY8eBMaCgcP9UmOts+CKsxmRvREMoksh/QJI6XXuLpgX6LwL4Gzywi9H3OoHmRMRuBivmwINhl5zt2AcpqrUAXPLdx2Hib8FpGCwC1SPMOO29YrotvPbUkB+XpvynmK1Sy3jPN9q0DmS9JENKj6nDwcM/hCfuxhGaSeT7RwJiUle4eL7oPfpsIY3lIHbm+gjEQvPwWzWtmi7Nf306CP9FO0i+u7F6wLon2vM0h7Ysz9vCq2Up/w5tE2RKHlpgO1vvycHFU5FITBDMFbqcdeaSruDedGuLPn2aVWxT7PsS2+sLqPhdmQ=;Op5+77jHalACpBzA0oRZTw=="
 ---

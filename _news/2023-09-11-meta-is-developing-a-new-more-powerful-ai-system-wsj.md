@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/meta-is-developing-new-more-pow
 webUrl: "https://www.reuters.com/technology/meta-is-developing-new-more-powerful-ai-system-wsj-2023-09-10/"
 type: article
 quality: 67
-heat: 177
+heat: 167
 published: true
 
 provider:
@@ -133,20 +133,6 @@ related:
       - url: "https://img.rasset.ie/001c1023-1600.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Meta is developing a much more powerful AI"
-    excerpt: "Meta is reportedly working on a new AI system intended to be as powerful as the most advanced model from OpenAI."
-    publishedDateTime: 2023-09-11T04:52:00Z
-    webUrl: "https://techcentral.co.za/meta-is-developing-much-more-powerful-ai/231341/"
-    type: article
-    provider:
-      name: TechCentral
-      domain: techcentral.co.za
-    quality: 39
-    images:
-      - url: "https://techcentral.co.za/wp-content/uploads/2021/12/meta-platforms-2156-1120-1024x532.jpg"
-        width: 1024
-        height: 532
         isCached: true
   - title: "Meta developing an AI model more powerful than LLaMa 2"
     excerpt: "Meta believes that the new model will be as powerful as GPT-4, OpenAI's most impressive LLM yet. Meta is competing with the likes of Google, OpenAI, Microsoft, and Apple, all in a deep race and a rush to invest their resources and finances in developing the latest artificial intelligence models."

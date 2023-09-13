@@ -2,6 +2,57 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2023-08-23-generative-ai-predicting-the-tax-departments-next-best-move.md",
+      "title": "Generative AI: Predicting The Tax Department’s Next Best Move",
+      "excerpt": "C-suite leaders clearly recognize the power of data. However, the age-old view that tax only serves one purpose—compliance—lingers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/23/generative-ai-predicting-the-tax-departments-next-best-move/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/23/generative-ai-predicting-the-tax-departments-next-best-move/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648334bbb7a645bee5fbe46d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/23/generative-ai-predicting-the-tax-departments-next-best-move/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/08/23/generative-ai-predicting-the-tax-departments-next-best-move/amp/",
+      "publishedDateTime": "2023-08-23T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-23-unleash-the-full-potential-of-ai-and-robotics-with-automa-health-2023.md",
       "title": "Unleash the full potential of AI and robotics with Automa+ Health 2023",
       "excerpt": "Machines are getting smarter every day, and companies across the world are discovering new ways in which they can use AI to significantly enhance engagement and customer experience. That is why decision-makers from pharmaceutical companies,",
@@ -1095,40 +1146,6 @@
       "ampWebUrl": "https://thehill.com/policy/technology/4164126-microsoft-revamps-activision-blizzard-deal-over-uk-demands/amp/",
       "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/4164126-microsoft-revamps-activision-blizzard-deal-over-uk-demands/amp/",
       "publishedDateTime": "2023-08-22T14:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-microsoft-seeks-to-save-activision-deal.md",
-      "title": "Microsoft seeks to save Activision deal",
-      "excerpt": "Ubisoft will “compensate Microsoft” for the cloud streaming ... the licensing terms of Activision Blizzard games for rival services,” Smith wrote. The CMA said it opened a new investigation ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/newsletters/4165362-microsoft-seeks-to-save-activision-deal/",
-      "originalUrl": "https://thehill.com/newsletters/4165362-microsoft-seeks-to-save-activision-deal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/newsletters/4165362-microsoft-seeks-to-save-activision-deal/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/newsletters/4165362-microsoft-seeks-to-save-activision-deal/amp/",
-      "publishedDateTime": "2023-08-22T14:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Hill",

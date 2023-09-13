@@ -198,15 +198,6 @@ related:
       name: enterprisetalk
       domain: enterprisetalk.com
     quality: 34
-  - title: "Microsoft Says It Will Pay Tab for Infringement Suits Against Its AI Customers"
-    excerpt: "The tech giant says it doesn't want uncertainties surrounding patent infringement law for generative AI to scare away customers from its Copilot tool."
-    publishedDateTime: 2023-09-08T17:40:00Z
-    webUrl: "https://www.law.com/corpcounsel/2023/09/08/microsoft-says-it-will-pay-tab-for-infringement-suits-against-its-ai-customers/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 32
   - title: "Microsoft and Paige Collaborate on World's Largest Cancer-Fighting AI Model"
     excerpt: "Microsoft, a technology behemoth, has partnered with Paige, a digital pathology company, to construct the largest image-based artificial intelligence (AI) models globally, designed to combat cancer."
     publishedDateTime: 2023-09-10T12:43:00Z
@@ -261,6 +252,15 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 14
+  - title: "Netcracker Expands Collaboration with Microsoft to Deliver High-Value Generative AI Solutions to Telecom Operators"
+    excerpt: "Netcracker Technology announced today that it has expanded its partnership with Microsoft to support Netcracker's recently launched GenAI Telco Solution, which unlocks the potential of generative AI technology to deliver exceptional business value to the telecom industry."
+    publishedDateTime: 2023-09-13T11:24:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-netcracker-expands-collaboration-with-microsoft-deliver-high-value-/2023/09/13/9879980.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 12
 
 secured: "jlWv2sxVSKFQVc7FGUnlW6vhhgwUVW1PLsUW+9sszKOkWzjw0pEh1jgXA8l0ObC4ChARUbXttDYqEQ7ictzD1aysr+Y2zfKN7Mb4ueE3ja54fANTi0n43WUiUe9BQPlQkZXDEMM2yInUZ7IfnKM5ZsYHxk4ZrlNiy7g6JoVTZN5xgcsk02QlQfErFyl0YuVr+u5cb/VG5wWqGNHvUe+/wk286mOc0I8SmJ8iwuWfN+8XDJSgMYCj1a/qDTYp+6uj0yy/pLk4xWrZA3v6+vLrIR95Q59z/4UzXl7ugiYREsCocWX+OIPlpC4pnSfe/k7h5InS8dx2NTcPT7hnX7JAeyxZvgnvWuTDE/FFBfdfaVxgEkT4CdN3lm0A6VTl2E80nFTMf+ffHyMvLg7Y5hpQ0YculQRnZ5KDgYjOtKQKHXvKdR/om3FWisUSoVZAeAzX10R6QNcNDv5iGtfQoghCeFV4/rAH5KAZEL8YhgjXL1JYcByqxplN8JE5nUbChVkwo5HNzP75WQ342sU9KG2qfQ==;yb5t9r+2/+opzrXLADIOww=="
 ---

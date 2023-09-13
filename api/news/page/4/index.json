@@ -2,6 +2,92 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-09-11-now-robots-cook-fried-chicken-to-improve-south-koreas-favourite-food.md",
+      "title": "Now, Robots Cook Fried Chicken To Improve South Korea's Favourite Food",
+      "excerpt": "Korean fried chicken is brined and double-fried, which gives it its signature crispy exterior, but the process -- more elaborate than what is typically used by US fast food chains -- creates additional labour.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/world-news/now-robots-to-cook-fried-chicken-to-improve-south-koreas-favourite-food-4378915",
+      "originalUrl": "https://www.ndtv.com/world-news/now-robots-to-cook-fried-chicken-to-improve-south-koreas-favourite-food-4378915",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2023-09/tveo15fo_south-korean-chicken_625x300_11_September_23.jpg",
+          "width": 1200,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/world-news/now-robots-to-cook-fried-chicken-to-improve-south-koreas-favourite-food-4378915/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/now-robots-to-cook-fried-chicken-to-improve-south-koreas-favourite-food-4378915/amp/1",
+      "publishedDateTime": "2023-09-11T00:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-11-upskilling-with-ai-why-managers-cant-ignore-ethics.md",
+      "title": "Upskilling with AI: Why managers can’t ignore ethics",
+      "excerpt": "Ugh. Another AI article. If you’re anything like me, you might be getting a little AI [1] fatigued - and I’m one of those people you’ll see regularly",
+      "sourceUrl": null,
+      "webUrl": "https://www.hrzone.com/lead/future/upskilling-with-ai-why-managers-cant-ignore-ethics",
+      "originalUrl": "https://www.hrzone.com/lead/future/upskilling-with-ai-why-managers-cant-ignore-ethics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hrzone.com/sites/default/files/istock-1448569430.jpg",
+          "width": 1448,
+          "height": 724,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hrzone.com/lead/future/upskilling-with-ai-why-managers-cant-ignore-ethics?amp",
+      "cdnAmpWebUrl": "https://www-hrzone-com.cdn.ampproject.org/c/s/www.hrzone.com/lead/future/upskilling-with-ai-why-managers-cant-ignore-ethics?amp",
+      "publishedDateTime": "2023-09-11T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HRZone",
+        "domain": "hrzone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-11-the-time-is-now-why-enterprises-should-invest-in-systems-of-intelligence.md",
       "title": "The Time Is Now: Why Enterprises Should Invest In Systems Of Intelligence",
       "excerpt": "Though artificial intelligence has been making inroads into the enterprise, the rise of generative AI is accelerating the pace of adoption. It’s time for enterprise CXOs to consider building systems of intelligence that complement systems of record and ...",
@@ -201,49 +287,6 @@
       ]
     },
     {
-      "path": "_news/2023-09-11-nvidia-claims-new-software-library-doubles-llm-inference-speed-on-h100-gpu.md",
-      "title": "Nvidia claims new software library doubles LLM inference speed on H100 GPU",
-      "excerpt": "TensorRT-LLM will be integrated into Nvidia's NeMo LLM framework as part of the Nvidia AI Enterprise software suite early next ... batching' scheduler which allows work to enter and exit the GPU independent of other tasks. The library also offers automatic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.datacenterdynamics.com/en/news/nvidia-claims-new-software-library-doubles-llm-inference-speed-on-h100-gpu/?n=@",
-      "originalUrl": "https://www.datacenterdynamics.com/en/news/nvidia-claims-new-software-library-doubles-llm-inference-speed-on-h100-gpu/?n=@",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.datacenterdynamics.com/media/images/NvidiaLogo.2e16d0ba.fill-1200x630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-10T15:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datacenter Dynamics",
-        "domain": "datacenterdynamics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-11-india-central-to-global-play-ai-quantum-computing-new-focus-for-big-tech.md",
       "title": "INDIA CENTRAL TO GLOBAL PLAY: AI, quantum computing new focus for Big Tech",
       "excerpt": "IBM recently launched its enterprise artificial intelligence (AI) and data platform watsonx which ... patient twinning which enables personalisation of diagnosis, therapy selection, monitoring, aftercare, and managing health; precision therapy which ...",
@@ -295,7 +338,7 @@
       "originalUrl": "https://www.reuters.com/technology/meta-is-developing-new-more-powerful-ai-system-wsj-2023-09-10/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -707,7 +750,7 @@
       "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2023/09/09/generative-ai-generation-gap-70-of-gen-z-use-it-while-gen-x-boomers-dont-get-it/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -758,7 +801,7 @@
       "originalUrl": "https://www.pcmag.com/news/amazon-starts-requiring-writers-to-disclose-ai-generated-content",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -861,7 +904,7 @@
       "originalUrl": "https://www.forbes.com/sites/mikeosullivan/2023/09/09/europe-in-the-lead-in-ai-regulation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1151,57 +1194,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-09-ebays-new-magical-ai-tool-writes-product-descriptions-for-you-from-a-single-photo.md",
-      "title": "eBay's new 'magical' AI tool writes product descriptions for you from a single photo",
-      "excerpt": "On Thursday, eBay announced its new image-based magical listing tool that uses AI to generate a product description for a listing from a single product photo.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ebays-new-magical-ai-tool-writes-product-descriptions-for-you-from-a-single-photo/",
-      "originalUrl": "https://www.zdnet.com/article/ebays-new-magical-ai-tool-writes-product-descriptions-for-you-from-a-single-photo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/099e2f67c0d40db969766ce2573e8c88f3dea8a2/2023/09/08/6b0c229f-3a47-4be5-98bc-b9e4680910b6/2022-21.png?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ebays-new-magical-ai-tool-writes-product-descriptions-for-you-from-a-single-photo/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ebays-new-magical-ai-tool-writes-product-descriptions-for-you-from-a-single-photo/",
-      "publishedDateTime": "2023-09-08T13:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

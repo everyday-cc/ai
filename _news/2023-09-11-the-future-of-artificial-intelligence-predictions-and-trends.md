@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Governance for responsible AI: The easy things and the hard ones"
-    excerpt: "Responsibly governing AI requires constantly evolving frameworks that are attuned to new capabilities and risks. Following the straightforward—and sometimes challenging—practices above will put organizations on the right path as they shape how they can benefit from AI, and how it can benefit society."
-    publishedDateTime: 2023-09-08T17:08:00Z
-    webUrl: "https://www.cio.com/article/651796/governance-for-responsible-ai-the-easy-things-and-the-hard-ones.html"
-    ampWebUrl: "https://www.cio.com/article/651796/governance-for-responsible-ai-the-easy-things-and-the-hard-ones.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/651796/governance-for-responsible-ai-the-easy-things-and-the-hard-ones.html/amp/"
+  - title: "The Future Of AI In Business: Predictions And How To Prepare"
+    excerpt: "AI has exploded in popularity in 2023. Here are my predictions for what's to come with AI and how your business can prepare."
+    publishedDateTime: 2023-09-13T11:44:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/09/13/the-future-of-ai-in-business-predictions-and-how-to-prepare/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/09/13/the-future-of-ai-in-business-predictions-and-how-to-prepare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/09/13/the-future-of-ai-in-business-predictions-and-how-to-prepare/amp/"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.cio.com/wp-content/uploads/2023/09/iStock-183930658-1.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 674
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63d3d76c6f41b0b2774c5504/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 799
         isCached: true
   - title: "The Human Touch in LLMs and GenAI: Shaping the Future of AI Interaction"
     excerpt: "About the author: Rohan Agrawal is the CEO and Founder of Cogito Tech, a provider of AI training solutions that offers a human-in-the-loop workforce for computer vision, natural language processing, content moderation, and data and document processing."

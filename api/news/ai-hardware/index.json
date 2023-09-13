@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-13-7-promising-blue-chip-bargains-for-long-term-growth.md",
+      "title": "7 Promising Blue-Chip Bargains for Long-Term Growth",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Blue-Chip bargains are a sure way to add value to your portfolio. During high",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/7-promising-blue-chip-bargains-for-long-term-growth-1032626517",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/7-promising-blue-chip-bargains-for-long-term-growth-1032626517",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-13T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-13-joe-biden-collaborates-with-vietnam-to-raise-funds-for-ai-chips.md",
       "title": "Joe Biden collaborates with Vietnam to raise funds for AI chips",
       "excerpt": "Sources revealed that Joe Biden, President, the United States (US), mentioned that the move is a formal “upgrading” of the relationship between the two countries. This collaboration is also believed to highlight critical sectors, including cloud computing, semiconductors and AI, Cointelegraph added.",
@@ -106,7 +149,7 @@
       "originalUrl": "https://techcrunch.com/2023/09/12/sqream-series-c/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -199,50 +242,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-simaai-says-it-can-beat-nvidia-by-offering-no-code-machine-learning-for-edge-devices.md",
-      "title": "SiMa.ai says it can beat Nvidia by offering no-code machine learning for edge devices",
-      "excerpt": "Palette Edgematic is a no-code, drag-and-drop software platform for deploying machine learning models quickly, reliably, by non-specialists.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/sima-ai-says-it-can-beat-nvidia-by-offering-no-code-machine-learning-for-edge-devices/",
-      "originalUrl": "https://venturebeat.com/business/sima-ai-says-it-can-beat-nvidia-by-offering-no-code-machine-learning-for-edge-devices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-12T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
       ]
     },
     {
@@ -635,49 +634,6 @@
         "AI Hardware",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-nvidia-claims-new-software-library-doubles-llm-inference-speed-on-h100-gpu.md",
-      "title": "Nvidia claims new software library doubles LLM inference speed on H100 GPU",
-      "excerpt": "TensorRT-LLM will be integrated into Nvidia's NeMo LLM framework as part of the Nvidia AI Enterprise software suite early next ... batching' scheduler which allows work to enter and exit the GPU independent of other tasks. The library also offers automatic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.datacenterdynamics.com/en/news/nvidia-claims-new-software-library-doubles-llm-inference-speed-on-h100-gpu/?n=@",
-      "originalUrl": "https://www.datacenterdynamics.com/en/news/nvidia-claims-new-software-library-doubles-llm-inference-speed-on-h100-gpu/?n=@",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.datacenterdynamics.com/media/images/NvidiaLogo.2e16d0ba.fill-1200x630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-10T15:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datacenter Dynamics",
-        "domain": "datacenterdynamics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {
@@ -1451,6 +1407,40 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-09-06-nvidia-why-this-phenomenal-artificial-intelligence-ai-stalwart-is-still-a-screaming-buy.md",
+      "title": "Nvidia: Why This Phenomenal Artificial Intelligence (AI) Stalwart Is Still a Screaming Buy",
+      "excerpt": "According to the Financial Times (via Tom's Hardware), Nvidia could ship 550,000 of its H100 data center graphics processing units (GPUs) for AI workloads in 2023. Given that the cheapest version of this GPU is sold for around $30,000, Nvidia could ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/nvidia:-why-this-phenomenal-artificial-intelligence-ai-stalwart-is-still-a-screaming-buy",
+      "originalUrl": "https://www.nasdaq.com/articles/nvidia:-why-this-phenomenal-artificial-intelligence-ai-stalwart-is-still-a-screaming-buy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-06T02:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     }
   ],

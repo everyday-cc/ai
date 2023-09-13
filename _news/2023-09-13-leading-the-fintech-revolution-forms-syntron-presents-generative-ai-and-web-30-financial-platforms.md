@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Leading the Fintech Revolution: FORMS Syntron Presents Generative AI and Web 3.0 Financial Platforms"
-excerpt: "Empowered by Microsoft, FORMS Syntron unleashes Banking Copilot and FINNOSafe to transform the financial sector HONG KONG SAR - Media OutReach - 13 September 2023 - Today, a leading fintech thought leader,"
-publishedDateTime: 2023-09-13T08:10:00Z
-originalUrl: "https://www.asiaone.com/business/leading-fintech-revolution-forms-syntron-presents-generative-ai-and-web-30-financial"
-webUrl: "https://www.asiaone.com/business/leading-fintech-revolution-forms-syntron-presents-generative-ai-and-web-30-financial"
+excerpt: "Empowered by Microsoft, FORMS Syntron unleashes Banking Copilot and FINNOSafe to transform the financial sectorHONG KONG SAR – Media OutReach – 13 September 2023 – Today, a leading fintech thought leader,"
+publishedDateTime: 2023-09-13T09:01:00Z
+originalUrl: "https://www.sinchew.com.my/news/20230913/mysinchew/4981684"
+webUrl: "https://www.sinchew.com.my/news/20230913/mysinchew/4981684"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: sinchew
+  domain: sinchew.com.my
 
 topics:
-  - AI in Finance
+  - Microsoft AI
   - AI
-
-images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Sep2023/405617-L27-Forms-Syntron-Logo-jp.jpeg?h=bde28bee&itok=YVDnaoqJ"
-    width: 600
-    height: 316
-    isCached: true
 
 related:
   - title: "Fintechs can drive financial inclusion through AI, says Kora"
@@ -58,6 +52,6 @@ related:
         height: 579
         isCached: true
 
-secured: "MDDPYfb6u3DYc+imMJ/+lpby2N3/fiIm32MC5LYhsaIOJw7xdiXxmwN4W0QnrgxZamFKSsmr2LB1j/VW6Mgd7l3P6DlzBwh8SaG001zC9fwZnI/eO2qLwZ4qzGP+GACQyKRwY72APar20i1iS4o2lLraaMbrutIoFkJptIEJFo3NUEurtTsu91ioDfis68Jl8HfK6hhVRcFsKQfcxb0Bx3Hcrr4VyzNlDS/wCyNjrZCDfom93Lok1+N4Mzt1NIb8V5+I2NZO+A7QPQBl/0NBmPANK2UGT76fpUzdjICxBEMi3lOtlkzpeydOKsk+qQyDwHj250Q/TOg5jQNRJz5uVTwi5IDIN+JKBTOnhfJeQlc=;rr7jWVyebg+TNn+19sE2RQ=="
+secured: "8N3Fl/TUr4eYS8B8o3fqzxY5hSgm/1v1OhPj9fa59m5jTWiCBFCtaoZYWzZYs/COMuTUtet6FZaJiTpjCKNaxHbYQ53RtTqTnwfrP+JC5LQXARlGV6A8EHjOyySEDAyPkQEOhSHNi42yULpOYkgovKu908L66IroAo+C5mwkXspE6EYbLsE3MZadV59SiZohx/nqXRBukh/4qHneC+JJYZBar3Li+hHueO5q7T5tR7mGmcXgaGtMpCYib4E0VRijk8U83cqvxk9Hg0K5nn0puJOHQGTLhdB04vvBjcScM1U6NyP4sxC4+a7t+Oul536q+6boWCISpYH9aHg+Gs8WrDfeOubDieTYMqSwlAz2Y9c=;QBoK+CdDAL3q49nc61osBg=="
 ---
 

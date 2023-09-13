@@ -55,19 +55,19 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 41
-  - title: "In closed forum, tech titans to give senators advice on artificial intelligence"
-    excerpt: "Senate Majority Leader Chuck Schumer has been talking for several months about accomplishing a potentially impossible task: Passing bipartisan legislation within the next year that both encourages the rapid development of artificial intelligence and also mitigates its biggest risks."
-    publishedDateTime: 2023-09-13T04:03:00Z
-    webUrl: "https://www.clickondetroit.com/news/politics/2023/09/13/in-closed-forum-tech-titans-to-give-senators-advice-on-artificial-intelligence/"
+  - title: "Tech titans will give senators advice on artificial intelligence in a closed-door forum"
+    excerpt: "Senate Majority Leader Chuck Schumer has been talking for months about accomplishing a potentially impossible task: passing bipartisan legislation within the next year that encourages the rapid develo"
+    publishedDateTime: 2023-09-13T04:56:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2023/09/13/schumer-artificial-intelligence-elon-musk-senate/aa38d8cc-51ea-11ee-accf-88c266213aac_story.html"
     type: article
     provider:
-      name: clickondetroit.com
-      domain: clickondetroit.com
-    quality: 35
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 29
     images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/A35YS5TQWZGX5P5M63TWS2U74I.jpg?_a=ATAPphC0"
-        width: 700
-        height: 467
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UTL6RKSR5II65LGPRDBGMIJ2VQ_size-normalized.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "LSGt6WhoYJ5z9PQSHRtajsVLXrap1Ga/CgN5/pBR1bvjLoQPYoElVlOniMSCTGrQ8BYR73B2tcSDI38iMAi/uQJQRGfFxCo1Sr4OLcxORG8mV3FK4OOPvFnJ0UD8HZBo3MGHs+AUQaoEGUfqyBGHSwMjTLeS6PavTT4cCgzWO6/95kykKBmgJLxaJzxA+Au947nuIQ85ahgFATE41JyrXJrvJUj/NFMeB+kR2uoRQ2+I6oV3g2kv67BphK+NQ00Zv60Mg2pnkn1CVub4zhRdziIt0w025lvgVf1yE8ucqwgQOHWU8gQttvEoFfZCrP64/AP5V5HtdxX9ozn3jxtUc6sgTgqhkSr4lWxpwTT5b7U=;UatdMT9nVvR4SRDmfikvQA=="

@@ -2,6 +2,214 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-12-study-ai-and-machine-learning-with-this-30-e-degree-program.md",
+      "title": "Study AI and machine learning with this $30 e-degree program",
+      "excerpt": "Understanding how to use them can not only streamline your day-to-day productivity, but could also boost your career potential in developing, data engineering, and machine learning. Instead of trying to learn these tools and their tricks yourself ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/study-ai-and-machine-learning-with-this-30-e-degree-program/",
+      "originalUrl": "https://www.zdnet.com/article/study-ai-and-machine-learning-with-this-30-e-degree-program/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/238ded4c8739979dd867601b99cadd75de4f38f7/2023/09/12/ccc0c90e-3e32-4d76-a7b9-6613100e6f1e/stacksocial-ai-degree.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/study-ai-and-machine-learning-with-this-30-e-degree-program/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/study-ai-and-machine-learning-with-this-30-e-degree-program/",
+      "publishedDateTime": "2023-09-12T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-simaai-creates-drag-and-drop-platform-for-building-ai-workflows.md",
+      "title": "SiMa.ai Creates Drag-And-Drop Platform For Building AI Workflows",
+      "excerpt": "Assuming it is the software that enables or prevents the adoption of a new AI chip, a reasonable assumption, SiMa has created a new tool called Palette Edgematic to simplify AI solution creation greatly. And build demand for their silicon. As everyone says ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/09/12/simaai-creates-drag-and-drop-platform-for-building-ai-workflows/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/09/12/simaai-creates-drag-and-drop-platform-for-building-ai-workflows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64f8d4391ebaaae8f11a562f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 748,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/09/12/simaai-creates-drag-and-drop-platform-for-building-ai-workflows/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/09/12/simaai-creates-drag-and-drop-platform-for-building-ai-workflows/amp/",
+      "publishedDateTime": "2023-09-12T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-can-we-slice-up-a-brain-to-see-how-neural-networks-should-work.md",
+      "title": "Can We Slice Up A Brain To See How Neural Networks Should Work",
+      "excerpt": "If you can follow this, you're seeing that what you're actually doing is using artificial intelligence to help fine-tune the study of biological neural networks. So one type of neural network is allowing us to study another. Video: Some insights into ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/09/12/can-we-slice-up-a-brain-to-see-how-neural-networks-should-work/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/09/12/can-we-slice-up-a-brain-to-see-how-neural-networks-should-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65006a5cd3f9218d80f9e2c7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 868,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/09/12/can-we-slice-up-a-brain-to-see-how-neural-networks-should-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/09/12/can-we-slice-up-a-brain-to-see-how-neural-networks-should-work/amp/",
+      "publishedDateTime": "2023-09-12T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-customer-service-and-sales-ais-role-alongside-its-human-counterparts.md",
+      "title": "Customer Service And Sales: AI’s Role Alongside Its Human Counterparts",
+      "excerpt": "As AI becomes more sophisticated, how will we maintain the symbiotic relationship between its technological capabilities and human expertise?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/garydrenik/2023/09/12/customer-service-and-sales-ais-role-alongside-its-human-counterparts/",
+      "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/09/12/customer-service-and-sales-ais-role-alongside-its-human-counterparts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ff17f7a604d2697273b636/0x0.jpg?format=jpg&width=1200",
+          "width": 640,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/09/12/customer-service-and-sales-ais-role-alongside-its-human-counterparts/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/09/12/customer-service-and-sales-ais-role-alongside-its-human-counterparts/amp/",
+      "publishedDateTime": "2023-09-12T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-09-12-6-skills-writers-need-to-hone-amid-the-ai-boom.md",
       "title": "6 Skills Writers Need To Hone Amid The AI Boom",
       "excerpt": "While AI is an impressive generalist with a solid base of knowledge across many domains, these models can't easily acquaint themselves with the intricacies of specific workplaces and fields of research. The writers best positioned to thrive in the AI boom are writers with specialized, industry-specific knowledge.",
@@ -431,48 +639,6 @@
       ]
     },
     {
-      "path": "_news/2023-09-12-california-firefighters-use-ai-to-battle-wildfires.md",
-      "title": "California firefighters use AI to battle wildfires",
-      "excerpt": "Neal Driscoll says the AI system for spotting wildfires is already offering a jump on about 40 percent of fires, and he expects it to get more effective. Over the last few years, its application has spread to include areas as diverse as weather forecasting, stock-picking, art and journalism.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-09-california-firefighters-ai-wildfires.html",
-      "originalUrl": "https://phys.org/news/2023-09-california-firefighters-ai-wildfires.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/computers-are-learning.jpg",
-          "width": 1280,
-          "height": 852,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-09-california-firefighters-ai-wildfires.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-california-firefighters-ai-wildfires.amp",
-      "publishedDateTime": "2023-09-12T01:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-12-machine-social-network-to-update-air-force-ai-robots-on-the-fly.md",
       "title": "Machine ‘Social Network’ To Update Air Force AI Robots On The Fly",
       "excerpt": "No machine-learning system can be trained on every possible situation, and when it encounters something new it may not be able to deal with it. Dolev says this could be something as simple as an object recognition system seeing snow for the first time and ...",
@@ -736,7 +902,7 @@
       "originalUrl": "https://www.entrepreneur.com/business-news/irs-uses-ai-to-fight-tax-evasion-millionaires-dodging-taxes/458884",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -986,49 +1152,6 @@
       ]
     },
     {
-      "path": "_news/2023-09-12-sonic-dna-is-composed-for-a-finance-firm-to-generate-ai-powered-branding.md",
-      "title": "'Sonic DNA' is composed for a finance firm to generate AI-powered branding",
-      "excerpt": "This is an example of 'Sonic DNA' which digital agency amp composed for a major financial firm, so that AI could generate multiple musical compositions from it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/av/business-66781639",
-      "originalUrl": "https://www.bbc.com/news/av/business-66781639",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-11T12:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2023-09-12-i-took-my-first-self-driving-car-ride-with-my-teenage-son-and-it-felt-comfortably-dull.md",
       "title": "I took my first self-driving car ride with my teenage son and it felt comfortably dull",
       "excerpt": "Consumers, investors and regulators better get ready, because the technology is here and it's so advanced it seems natural and safe upon first use.",
@@ -1128,101 +1251,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-ai-integration-in-biotech-pharma-companies-positioned-to-benefit.md",
-      "title": "AI Integration In Biotech & Pharma: Companies Positioned To Benefit",
-      "excerpt": "From optimizing clinical trial design to analyzing vast datasets for potential drug candidates, Novartis sees AI as instrumental in advancing its research. Roche's (OTC:RHHBY) interest in AI isn't just theoretical. They've acquired several companies and ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-integration-in-biotech-pharma-companies-positioned-to-benefit-1032621068",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-integration-in-biotech-pharma-companies-positioned-to-benefit-1032621068",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/national-cancer-institute-xknubmnjbkg-unsplash_1.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-11T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-hyderabad-can-emerge-as-indias-ai-robotics-hub-experts.md",
-      "title": "Hyderabad can emerge as India's AI, robotics hub: Experts",
-      "excerpt": "Boston, USA: Experts in the fields of artificial intelligence (AI), robotics and data protection in the US appreciated the progress being made by India in general and Telangana state in particular, saying Hyderabad has emerged as the new technology hub of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.deccanchronicle.com/technology/in-other-news/110923/hyderabad-can-emerge-as-indias-ai-robotics-hub-experts.html",
-      "originalUrl": "https://www.deccanchronicle.com/technology/in-other-news/110923/hyderabad-can-emerge-as-indias-ai-robotics-hub-experts.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-qdjlmll247sgamvbuhqasf3u62-20230911230129.Medi.jpeg",
-          "width": 800,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.deccanchronicle.com/amp/technology/in-other-news/110923/hyderabad-can-emerge-as-indias-ai-robotics-hub-experts.html",
-      "cdnAmpWebUrl": "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/110923/hyderabad-can-emerge-as-indias-ai-robotics-hub-experts.html",
-      "publishedDateTime": "2023-09-11T10:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deccan Chronicle",
-        "domain": "deccanchronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

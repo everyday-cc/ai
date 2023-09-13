@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-08-21-the-3-most-undervalued-ai-chip-stocks-to-buy-now-august-2023.md",
-      "title": "The 3 Most Undervalued AI Chip Stocks to Buy Now: August 2023",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips For much of 2023, the AI boom has sent chip stocks to dizzying highs. It",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/the-3-most-undervalued-ai-chip-stocks-to-buy-now-august-2023-1032569273",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-3-most-undervalued-ai-chip-stocks-to-buy-now-august-2023-1032569273",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-21T03:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-21-openai-meta-and-tesla-desperately-want-this-nvidia-gpu-but-why.md",
       "title": "OpenAI, Meta and Tesla desperately want this Nvidia GPU: But why?",
       "excerpt": "AI faces Nvidia H100 GPU crunch, stalling projects. Dive into its tech features, production challenges, and the ripple effect on AI's future.",
@@ -1413,6 +1370,49 @@
       "provider": {
         "name": "Computerworld",
         "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-10-chinas-internet-giants-order-5-billion-of-nvidia-chips-to-power-ai-ambitions-report.md",
+      "title": "China's internet giants order $5 billion of Nvidia chips to power AI ambitions: Report",
+      "excerpt": "China's internet giants are rushing to acquire high-performance Nvidia chips vital for building generative artificial intelligence systems, making orders worth $5 billion, the Financial Times reported on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/china-internet-giants-order-5-billion-nvidia-chips-power-ai-ambitions-report/article67179110.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/china-internet-giants-order-5-billion-nvidia-chips-power-ai-ambitions-report/article67179110.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th-i.thgim.com/public/incoming/v7usrh/article67179111.ece/alternates/FREE_1200/2023-08-03T124237Z_1663218347_RC2L91A0ORCI_RTRMADP_3_COREWEAVE-FUNDING.JPG",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/china-internet-giants-order-5-billion-nvidia-chips-power-ai-ambitions-report/article67179110.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/china-internet-giants-order-5-billion-nvidia-chips-power-ai-ambitions-report/article67179110.ece/amp/",
+      "publishedDateTime": "2023-08-09T21:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
         "images": null,
         "publishers": null,
         "authors": null

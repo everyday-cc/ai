@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/09/12/1078360/lerrel-pinto-hom
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/12/1078360/lerrel-pinto-home-robots-ai/amp/"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,35 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI Demands A New Kind Of In-The-Job Learning"
-    excerpt: "As AI takes the work world by storm, Learning & Development as usual isn’t going to cut it. Here is what L&D leaders can do about it."
-    publishedDateTime: 2023-09-12T14:43:00Z
-    webUrl: "https://www.forbes.com/sites/allisondulinsalisbury/2023/09/12/ai-demands-a-new-kind-of-in-the-job-learning/"
-    ampWebUrl: "https://www.forbes.com/sites/allisondulinsalisbury/2023/09/12/ai-demands-a-new-kind-of-in-the-job-learning/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/allisondulinsalisbury/2023/09/12/ai-demands-a-new-kind-of-in-the-job-learning/amp/"
+  - title: "Opinion | How journalism should face the unchecked threats of generative AI"
+    excerpt: "as seems to have happened with both Google’s and Microsoft’s new AI-powered tools.” They point readers to references that do not exist. In other words, they lie. Convincingly. Frequently. Fluently. I address this in my media ethics syllabus ..."
+    publishedDateTime: 2023-09-12T11:42:00Z
+    webUrl: "https://www.poynter.org/commentary/2023/how-journalism-should-face-the-unchecked-threats-of-generative-ai/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Poynter
+      domain: poynter.org
+    quality: 37
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64ff63bec81f6ac3566445ba/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Scientists Are Beginning to Learn the Language of Bats and Bees Using AI"
-    excerpt: "They record sound 24-7 and create oodles of data, which is where artificial intelligence comes in. Researchers can apply natural language processing algorithms like the ones used by Google translate to detect patterns in these recordings and begin to ..."
-    publishedDateTime: 2023-09-11T14:00:00Z
-    webUrl: "https://www.scientificamerican.com/podcast/episode/scientists-are-beginning-to-learn-the-language-of-bats-and-bees-using-ai/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 38
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/DE4595F2-0F18-4036-A1784E999D4D9485.gif"
-        width: 790
-        height: 496
+      - url: "https://www.poynter.org/wp-content/uploads/2023/09/shutterstock_225929176.jpg"
+        width: 1080
+        height: 810
         isCached: true
 
 secured: "1uCnCIKF2HNrkf2jmNUTNo2CCNJuoNO3qnmhCMH5srcbeBH0YgahkPLrMxcO8Qb9paNtsYhtqWCPLXHUPT5ycNDmxLRG70k7c4sbxhDjrUuBUwDsWNLjXkLQMl+3xwdTzPzLoE+au7UrmyCW2obqqsr8DR0OqRbyzbnw3tFI3y6Y5469tMs537IrsrTBfRGz0mc1pvumpSICTBAviJetbJtejExOawSfaLhpM6Wj/i47cH5mbBFoaB1E4PrpnonGJCmnEmS5YK6tC63bA72dHsiYHlOltJDrz09SlsE5YEQLCagikXpjTedQb7UkFiIS9kmC8t1KLpRez4em9n6VNS2HVpHpZyb0yWJ5Z912MhHCtSYTmUxt7wwa5FATzuvRHCBV2FYaOmzOYz8w3sSt1ZQfqlanhF0m22uzDt9Lf7cOgtLd3mBGjs8SkCPwaPshm2vDb5rjU2Ub9CRg1IfwWgeYoRlcd4M9avevZBCYxEY6gU9EPxTv58a66MB4Yz5am9ME+vfZ810CrkN5LbUSaw==;LZCP4t8j+kT38FIX7ktwxA=="

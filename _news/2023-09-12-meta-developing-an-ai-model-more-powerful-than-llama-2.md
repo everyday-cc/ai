@@ -145,20 +145,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Meta is developing a much more powerful AI"
-    excerpt: "Meta is reportedly working on a new AI system intended to be as powerful as the most advanced model from OpenAI."
-    publishedDateTime: 2023-09-11T04:52:00Z
-    webUrl: "https://techcentral.co.za/meta-is-developing-much-more-powerful-ai/231341/"
-    type: article
-    provider:
-      name: TechCentral
-      domain: techcentral.co.za
-    quality: 39
-    images:
-      - url: "https://techcentral.co.za/wp-content/uploads/2021/12/meta-platforms-2156-1120-1024x532.jpg"
-        width: 1024
-        height: 532
-        isCached: true
   - title: "Meta is developing a new, more powerful AI system, Wall Street Journal reports"
     excerpt: "The Wall Street Journal reported on September 10, 2023, that Meta is on a mission to create an AI system that can compete with OpenAI's state-of-the-art models."
     publishedDateTime: 2023-09-11T18:15:00Z

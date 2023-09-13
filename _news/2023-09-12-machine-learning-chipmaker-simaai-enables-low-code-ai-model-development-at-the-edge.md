@@ -29,15 +29,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 59
-  - title: "TSMC Candidly Explains Why It Can't Keep Up With NVIDIA's Red Hot AI Chip Demand"
-    excerpt: "Unlike many computing trends, AI has practical purposes, so it has stuck around beyond the initial fad period. People are using AI for anything and everything, even when it isn't particularly-suited for the task."
-    publishedDateTime: 2023-09-08T18:52:00Z
-    webUrl: "https://hothardware.com/news/why-tsmc-cant-keep-up"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 29
 
 secured: "ocbR3CMycTsHqSzvWdpOqb7woT55jYVXbT8c5mALPL12HjsxyKeJNCxVA+vdF5CN4hBV7QvxkafdLKSTQcMeCmVKgnYukO0YegmLCwKnQZWc6mbxdGBwTUeZ3UmQ9q6eMvm+Z+dRnvF3uCEgC6i871BhLdHHtEJjI6+oyO2PPXZVF9xJNzOVkhvf4YIIdZu3JHRgH594RDLTeFDsZUcZKRfEVDZSsXIVLmfvZEilcTwzgM8rvarVsyE0luvpPQhDp4rnVjzhWh2m48kgeQsJCVrFH2lFtQv0DOHq8ozIAyDnIV5+lJ7BtzHokqJBA+n3MTCg6mkkQRVE+A+LAm8RthHObNCNF8Z0pT94Txeh1Z+LDm7DVvwovM8kpN9UUasbDlREY7M7XQrNsKvpi+zX+eaU4KUnkWcVnnftETqaLRjoQon1D68f6DMpXSyWHVsqyeU7jz2027/vGqCSmGiX+oKtTJJsmhtVAB6hz84MAPTc8dDim2GrWk9IEMftenWCgMgVqeqaXz29TroYlBzeww==;/t69FFZ6VBHSS8dFhaYJdA=="
 ---

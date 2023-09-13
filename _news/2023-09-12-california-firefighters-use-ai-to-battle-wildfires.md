@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2023-09-california-firefighters-ai-wildfires.a
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-california-firefighters-ai-wildfires.amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: Phys.org
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Exclusive: California Bill Proposes Regulating AI at State Level"
+    excerpt: "A new bill in California, where many tech companies are based, adds to national and global efforts to regulate AI"
+    publishedDateTime: 2023-09-13T11:00:00Z
+    webUrl: "https://time.com/6313588/california-ai-regulation-bill/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 67
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2023/09/GettyImages-1298883331.jpg?quality&#x3D;85"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "California legislative roundup: Travel ban, guns, tuition, self-driving trucks"
     excerpt: "California may soon lift a ban on state-funded travel to states with anti-LGBTQ+ laws and instead focus on an advertising campaign to bring anti-discrimination messages to red states."
     publishedDateTime: 2023-09-12T03:47:00Z

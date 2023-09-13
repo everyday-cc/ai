@@ -25,38 +25,54 @@ images:
     isCached: true
 
 related:
-  - title: "AI Demands A New Kind Of In-The-Job Learning"
-    excerpt: "As AI takes the work world by storm, Learning & Development as usual isn’t going to cut it. Here is what L&D leaders can do about it."
-    publishedDateTime: 2023-09-12T14:43:00Z
-    webUrl: "https://www.forbes.com/sites/allisondulinsalisbury/2023/09/12/ai-demands-a-new-kind-of-in-the-job-learning/"
-    ampWebUrl: "https://www.forbes.com/sites/allisondulinsalisbury/2023/09/12/ai-demands-a-new-kind-of-in-the-job-learning/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/allisondulinsalisbury/2023/09/12/ai-demands-a-new-kind-of-in-the-job-learning/amp/"
+  - title: "The IRS Is Using Artificial Intelligence to Catch Millionaires Dodging Taxes"
+    excerpt: "The IRS is using artificial intelligence to strengthen its efforts in cracking down on illegal tax practices. The initiative is part of a broader effort by the IRS to scrutinize wealthier taxpayers in 2024—focusing on pursuing millionaires with ..."
+    publishedDateTime: 2023-09-11T21:47:00Z
+    webUrl: "https://www.entrepreneur.com/business-news/irs-uses-ai-to-fight-tax-evasion-millionaires-dodging-taxes/458884"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 79
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64ff63bec81f6ac3566445ba/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1694456730-IRS-Uses-AI.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "Robots that learn as they fail could unlock a new era of AI"
-    excerpt: "In effect, Pinto is hoping to give robots their large-language-model moment. In doing so, he could help unlock a whole new era in AI. “There’s this idea that the reason we have brains is to move,” he says. “It’s what evolution primed us to do to survive, to find food."
-    publishedDateTime: 2023-09-12T10:38:00Z
-    webUrl: "https://www.technologyreview.com/2023/09/12/1078360/lerrel-pinto-home-robots-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/09/12/1078360/lerrel-pinto-home-robots-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/12/1078360/lerrel-pinto-home-robots-ai/amp/"
+  - title: "IRS to Use Artificial Intelligence to Catch Wealthy Tax Cheaters"
+    excerpt: "In response, the IRS is tapping artificial intelligence and improved technology to help identify tax-cheating schemes that previously went undetected, including tax fraud schemes that can ensnare unsuspecting victims."
+    publishedDateTime: 2023-09-11T16:50:00Z
+    webUrl: "https://www.pcmag.com/news/irs-to-use-artificial-intelligence-to-catch-wealthy-tax-cheaters"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/08/230705_TR35_LerrelPinto_058.jpeg?w=1500"
-        width: 1500
-        height: 2000
+      - url: "https://i.pcmag.com/imagery/articles/03dy9aKYyJ9IxDEs7NsiNY7-1.fit_lim.size_1200x630.v1694438424.jpg"
+        width: 1120
+        height: 630
         isCached: true
+  - title: "IRS deploys artificial intelligence to catch tax evasion"
+    excerpt: "The tax agency is opening examinations into large hedge funds, private equity groups, real estate investors and law firms"
+    publishedDateTime: 2023-09-09T20:00:00Z
+    webUrl: "https://www.seattletimes.com/business/irs-deploys-artificial-intelligence-to-catch-tax-evasion/"
+    ampWebUrl: "https://www.seattletimes.com/business/irs-deploys-artificial-intelligence-to-catch-tax-evasion/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/irs-deploys-artificial-intelligence-to-catch-tax-evasion/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
+  - title: "Artificial intelligence among tools IRS will use for enforcement push"
+    excerpt: "AI will be part of a new tax-enforcement effort that will target high-income earners, partnerships, and large corporations."
+    publishedDateTime: 2023-09-12T12:12:00Z
+    webUrl: "https://www.bondbuyer.com/news/artificial-intelligence-among-tools-irs-will-use-for-enforcement-push"
+    type: article
+    provider:
+      name: The Bond Buyer
+      domain: bondbuyer.com
+    quality: 17
 
 secured: "bOxG+sN7FIkEqCZQ5JfcJoTVd4EW9dy7LpA5gRa7o5/TWQcys1NrkQy9py9g91TWmYbQN/U4rFfIY2dbPENkCg2iqltGOA/FDq01nfac3PwEd9b5PR/ZfFCSBh20TP6dW4oXWaWzulS8unsR2P0JX1hi73ZN95FMUIkiCeXQ6VTcDFL7ywdjp8EhW/N1Xny4d3usGrODV06jZmV9I1N4gYQGDRr9xgxCoZoEfTJR5TA0W8ffoMfN02mA0ld9UHspjT7bFk27z5dp4bbNFo7DYIXhVSpM164JTRPGfcXBmFur2V+YHonIwFeiQR3m0e5XQ9dl7SRBKiddDzF8B0xdixYUdKZTdauqzc3EbfN2474=;L8PNsx2GxdRBEqnO83gOQA=="
 ---

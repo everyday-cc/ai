@@ -3,19 +3,18 @@ category: news
 title: "Artificial intelligence e discusses ways for humans to ride a 'coming wave' of new technology"
 excerpt: "Now Suleyman has co-written a book, “The Coming Wave,” focused on AI's promise and need to limit its potential perils. He expanded upon his ideas in a recent interview with The Associated Press. Q: How should we be thinking of artificial intelligence at this juncture?"
 publishedDateTime: 2023-09-11T16:01:00Z
-originalUrl: "https://www.thehour.com/business/article/artificial-intelligence-e-discusses-ways-for-18359250.php"
-webUrl: "https://www.thehour.com/business/article/artificial-intelligence-e-discusses-ways-for-18359250.php"
+originalUrl: "https://www.middletownpress.com/business/article/artificial-intelligence-e-discusses-ways-for-18359250.php"
+webUrl: "https://www.middletownpress.com/business/article/artificial-intelligence-e-discusses-ways-for-18359250.php"
 type: article
-quality: 8
-heat: 8
+quality: 6
+heat: 6
 published: false
 
 provider:
-  name: The Hour
-  domain: thehour.com
+  name: The Middletown Press
+  domain: middletownpress.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 related:
@@ -29,6 +28,6 @@ related:
       domain: houstonchronicle.com
     quality: 6
 
-secured: "150B3+TtbZdzAixZgrbtd813oIJ7ZFyw+Rj4xCRk0vId5Lz0d+GKqg5o9Z2Iz/mTEFS5/c3Ws/o2MxRJwnRS67yucaAlohhb4vOoO6Yj6yC8zhaUO8yRonLtK8bXnBXtOZe3T0U4mlUDYNbnZIv67jixwSNzawGOmlqpyXA702gKMUeKdIwoOYr+8VtZg/jZ1r3fK5HrSlw58K69b2osbUc7KEVSoyfX48RCgwT7kKo1N0M5ZWvx1MONyemtfHK4KI2FHmpzP5BnbMkAz7Z8MY3J4DKZEUmTyLuOIg2WrdhZxd3wW9Z1ppdBisfhxQSiRiuZbnYxg94CX0/7N5pPj0tekmduW3nFW8RRYaambEWy7EFqUWSYSj6TIzz220OvsZr8OCE+t/Cqjy45NKGwWk/P6i2oJxR9a9VAvch1Fh6ZSIpmjP4eScadzANeszGdZlUouN0RblPno+imcaIiwGz5OmatrPihlC6n4IN76F7B5Tw9uygc3iFudymNbsEFi/b15I3XksLu2HXd8ryLFA==;U+6RnrW3ZVHF+w/ljqDouQ=="
+secured: "KFdwonnbzxkch+ltoZ4Z5TG5yAoBaW1Id237qHJ7i1cVIv4B1E/yjkGyyQZZHhAc02/eNXzLJOnqPwqj4srrx1j6g/Mi/xNztM41RSCXqYu5ivNj1wVQTNzujR3ZRcgGgW5UJJ/iLAQT1QyTkpSsuI7SG+JA/SOHIqIzP9t59T/kM/imwLe0rnQ1Q3ZoUU7KfRoAoLgX53/lTnOSLxew2hic0i9DU5vtiD8DwSNn5VnyMA5yFpdRJel2We6igKa18FcyZlz579EV1dYrrfVLbzaK4PK7nrGYsXKYqce46JTf/mgQqbSqo1i4tyAZQzwqg9FUR9/smhhp3oG+Pt3UxKA4kIBEdo/l+su/FKHTmw2GEpbML8GmztzQKOG1LitZo90EZpQp+h6i/Jh0NBEN33Khm3nSJznmVG6OELj1e+yJPpoDVVYjK9MfPlRHW53UxJgab9CVyAvkwJ60kEXNXaZB5+/DtC1oQrRQFOna2iuk6ZlTlb+oOwp4zrBm6dZL6RkHabPPKiqQEvEGXG4Luw==;e22bMXi11AdTO8RWPueYJw=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2023-08-08-mindsdb-raises-funding-from-nvidia-to-democratize-ai-application-development.md",
+      "title": "MindsDB raises funding from Nvidia to democratize AI application development",
+      "excerpt": "MindsDB aims to democratize AI development and production for all stripes of developers without requiring specialized AI training.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/mindsdb-raises-funding-from-nvidia-to-democratize-ai-application-development/",
+      "originalUrl": "https://venturebeat.com/ai/mindsdb-raises-funding-from-nvidia-to-democratize-ai-application-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/08/634aea6929d4e1802257ff90_prev.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 701,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-08T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-08-goldman-sees-15-trillion-flowing-to-ai-heres-where-to-invest.md",
       "title": "Goldman Sees $1.5 Trillion Flowing To AI. Here’s Where To Invest",
       "excerpt": "Innovations in electricity and personal computers unleashed investment booms of as much as 2% of U.S. GDP as the technologies were adopted into the broader economy.",
@@ -1173,58 +1225,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-08-black-mom-sues-city-of-detroit-claiming-she-was-falsely-arrested-while-8-months-pregnant-by-officers-using-facial-recognition-technology.md",
-      "title": "Black mom sues city of Detroit claiming she was falsely arrested while 8 months pregnant by officers using facial recognition technology",
-      "excerpt": "Woodruff later learned she was implicated in the alleged incident after the facial recognition software hit as well as the carjacking victim allegedly identified her in a lineup of six photos that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/08/07/us/detroit-facial-recognition-technology-false-arrest-lawsuit/index.html",
-      "originalUrl": "https://www.cnn.com/2023/08/07/us/detroit-facial-recognition-technology-false-arrest-lawsuit/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 261,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230807154058-porcha-woodruff.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/08/07/us/detroit-facial-recognition-technology-false-arrest-lawsuit/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/08/07/us/detroit-facial-recognition-technology-false-arrest-lawsuit/index.html",
-      "publishedDateTime": "2023-08-07T17:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

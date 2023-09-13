@@ -57,6 +57,22 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Haltia.AI champions ethical AI revolution"
+    excerpt: "Consistent with the UAE leadership’s vision for international impact and technological advancement, Haltia.AI invites companies and institutions worldwide to collaborate. \"The UAE stands as a beacon for global innovation and we aim to contribute to the UAE government’s legacy by spearheading partnerships in the ethical sphere,\" says Talal Thabet."
+    publishedDateTime: 2023-09-13T10:18:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/haltiaai-champions-ethical-ai-revolution-k7ctg65g"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/haltiaai-champions-ethical-ai-revolution-k7ctg65g?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/haltiaai-champions-ethical-ai-revolution-k7ctg65g?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 74
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NzgwZTg3ZWQtOGY5Ny00/0/talal-jpg.jpeg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Why self-regulation of AI is a smart business move"
     excerpt: "Robust governance is the surest path to AI initiatives that build customer confidence, reduce risk and drive business innovation."
     publishedDateTime: 2023-09-11T01:41:00Z

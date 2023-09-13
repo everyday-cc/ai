@@ -42,6 +42,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Scientists Are Beginning to Learn the Language of Bats and Bees Using AI"
+    excerpt: "They record sound 24-7 and create oodles of data, which is where artificial intelligence comes in. Researchers can apply natural language processing algorithms like the ones used by Google translate to detect patterns in these recordings and begin to ..."
+    publishedDateTime: 2023-09-11T14:00:00Z
+    webUrl: "https://www.scientificamerican.com/podcast/episode/scientists-are-beginning-to-learn-the-language-of-bats-and-bees-using-ai/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 38
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/DE4595F2-0F18-4036-A1784E999D4D9485.gif"
+        width: 790
+        height: 496
+        isCached: true
   - title: "IRS deploys artificial intelligence to catch tax evasion"
     excerpt: "The tax agency is opening examinations into large hedge funds, private equity groups, real estate investors and law firms"
     publishedDateTime: 2023-09-09T20:00:00Z

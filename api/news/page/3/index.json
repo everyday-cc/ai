@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-12-ai-integration-in-biotech-pharma-companies-positioned-to-benefit.md",
+      "title": "AI Integration In Biotech & Pharma: Companies Positioned To Benefit",
+      "excerpt": "From optimizing clinical trial design to analyzing vast datasets for potential drug candidates, Novartis sees AI as instrumental in advancing its research. Roche's (OTC:RHHBY) interest in AI isn't just theoretical. They've acquired several companies and ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-integration-in-biotech-pharma-companies-positioned-to-benefit-1032621068",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-integration-in-biotech-pharma-companies-positioned-to-benefit-1032621068",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/national-cancer-institute-xknubmnjbkg-unsplash_1.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-11T10:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-hyderabad-can-emerge-as-indias-ai-robotics-hub-experts.md",
+      "title": "Hyderabad can emerge as India's AI, robotics hub: Experts",
+      "excerpt": "Boston, USA: Experts in the fields of artificial intelligence (AI), robotics and data protection in the US appreciated the progress being made by India in general and Telangana state in particular, saying Hyderabad has emerged as the new technology hub of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.deccanchronicle.com/technology/in-other-news/110923/hyderabad-can-emerge-as-indias-ai-robotics-hub-experts.html",
+      "originalUrl": "https://www.deccanchronicle.com/technology/in-other-news/110923/hyderabad-can-emerge-as-indias-ai-robotics-hub-experts.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-qdjlmll247sgamvbuhqasf3u62-20230911230129.Medi.jpeg",
+          "width": 800,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.deccanchronicle.com/amp/technology/in-other-news/110923/hyderabad-can-emerge-as-indias-ai-robotics-hub-experts.html",
+      "cdnAmpWebUrl": "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/110923/hyderabad-can-emerge-as-indias-ai-robotics-hub-experts.html",
+      "publishedDateTime": "2023-09-11T10:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deccan Chronicle",
+        "domain": "deccanchronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-12-ai-app-characterai-is-catching-up-to-chatgpt-in-the-us.md",
       "title": "AI app Character.ai is catching up to ChatGPT in the U.S.",
       "excerpt": "That’s notable growth following Character.ai’s May 2023 launch, when the startup shared it had topped 1.7 million installs in its first week. Of course, installs don’t equate to users, much less active ones. In fact, the average mobile app has a 30 ...",
@@ -354,7 +449,7 @@
       "originalUrl": "https://www.bbc.co.uk/news/uk-northern-ireland-66774275",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -824,7 +919,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/a-vision-of-ai-enhanced-test-automation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -1115,92 +1210,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-now-robots-cook-fried-chicken-to-improve-south-koreas-favourite-food.md",
-      "title": "Now, Robots Cook Fried Chicken To Improve South Korea's Favourite Food",
-      "excerpt": "Korean fried chicken is brined and double-fried, which gives it its signature crispy exterior, but the process -- more elaborate than what is typically used by US fast food chains -- creates additional labour.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/world-news/now-robots-to-cook-fried-chicken-to-improve-south-koreas-favourite-food-4378915",
-      "originalUrl": "https://www.ndtv.com/world-news/now-robots-to-cook-fried-chicken-to-improve-south-koreas-favourite-food-4378915",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2023-09/tveo15fo_south-korean-chicken_625x300_11_September_23.jpg",
-          "width": 1200,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/world-news/now-robots-to-cook-fried-chicken-to-improve-south-koreas-favourite-food-4378915/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/now-robots-to-cook-fried-chicken-to-improve-south-koreas-favourite-food-4378915/amp/1",
-      "publishedDateTime": "2023-09-11T00:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-upskilling-with-ai-why-managers-cant-ignore-ethics.md",
-      "title": "Upskilling with AI: Why managers can’t ignore ethics",
-      "excerpt": "Ugh. Another AI article. If you’re anything like me, you might be getting a little AI [1] fatigued - and I’m one of those people you’ll see regularly",
-      "sourceUrl": null,
-      "webUrl": "https://www.hrzone.com/lead/future/upskilling-with-ai-why-managers-cant-ignore-ethics",
-      "originalUrl": "https://www.hrzone.com/lead/future/upskilling-with-ai-why-managers-cant-ignore-ethics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hrzone.com/sites/default/files/istock-1448569430.jpg",
-          "width": 1448,
-          "height": 724,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hrzone.com/lead/future/upskilling-with-ai-why-managers-cant-ignore-ethics?amp",
-      "cdnAmpWebUrl": "https://www-hrzone-com.cdn.ampproject.org/c/s/www.hrzone.com/lead/future/upskilling-with-ai-why-managers-cant-ignore-ethics?amp",
-      "publishedDateTime": "2023-09-11T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HRZone",
-        "domain": "hrzone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],
