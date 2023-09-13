@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/india/as-distance-from-china-grows
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/india/as-distance-from-china-grows-india-us-work-on-tech-projects-chips-to-ai-8931140/lite/"
 type: article
 quality: 71
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -38,22 +38,6 @@ related:
     quality: 67
     images:
       - url: "https://www.gizmochina.com/wp-content/uploads/2023/09/Nvidia-Partners-Tata.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Reliance Partners NVIDIA To Develop Large AI Language Model For India"
-    excerpt: "Reliance's Jio Platforms Limited has partnered with chip designer major NVIDIA to construct an advanced cloud-based AI computing infrastructure"
-    publishedDateTime: 2023-09-08T10:44:00Z
-    webUrl: "https://inc42.com/buzz/reliance-partners-nvidia-to-develop-large-ai-language-model-for-india/"
-    ampWebUrl: "https://inc42.com/buzz/reliance-partners-nvidia-to-develop-large-ai-language-model-for-india/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/reliance-partners-nvidia-to-develop-large-ai-language-model-for-india/amp/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 59
-    images:
-      - url: "https://cdn.inc42.com/wp-content/uploads/2023/04/cloud-social.png"
         width: 1200
         height: 628
         isCached: true

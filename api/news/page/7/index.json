@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-09-07-how-we-chose-the-time100-most-influential-people-in-ai.md",
+      "title": "How We Chose the TIME100 Most Influential People in AI",
+      "excerpt": "Our first-ever list of the most influential people in AI features leaders, policymakers, artists and entrepreneurs from around the world",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6311323/how-we-chose-time100-ai/",
+      "originalUrl": "https://time.com/6311323/how-we-chose-time100-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2023/09/TIM231009-AI-CoverFINAL.jpg?quality&#x3D;85",
+          "width": 2363,
+          "height": 3150,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-07T04:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-07-how-b2b-trailblazers-can-win-the-ai-revolution.md",
       "title": "How B2B Trailblazers Can Win The AI Revolution",
       "excerpt": "Blaze A Trail With Existing AI Tools. The internet is littered with promising, powerful AI tools that can radically change the way that B2B merchants conduct business. I don't nee",
@@ -1131,58 +1182,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-synopsys-opens-the-next-chapter-of-ai-tools-for-chip-design-and-manufacturing.md",
-      "title": "Synopsys Opens The Next Chapter Of AI Tools For Chip Design And Manufacturing",
-      "excerpt": "The EDA leader has generated over $500M to date in AI tools and technologies. Now a new data analytics solution applies data management, curation, and analysis across the entire pipeline of chip creation. Synopsys was the first EDA company to apply ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/09/06/synopsys-opens-the-next-chapter-of-ai-tools-for-chip-design-and-manufacturing/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/09/06/synopsys-opens-the-next-chapter-of-ai-tools-for-chip-design-and-manufacturing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64f8d7ebc965b8833973b636/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 589,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/09/06/synopsys-opens-the-next-chapter-of-ai-tools-for-chip-design-and-manufacturing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/09/06/synopsys-opens-the-next-chapter-of-ai-tools-for-chip-design-and-manufacturing/amp/",
-      "publishedDateTime": "2023-09-06T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

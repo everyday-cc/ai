@@ -1,10 +1,10 @@
 ---
 category: news
 title: "A Softer Approach to Robotics"
-excerpt: "Assistive and internal medicine, agriculture, food packaging, and search and rescue are just a few areas that soft robotics could touch. Yet despite enormous progress in the field, numerous challenges remain."
+excerpt: "However, a new genre of robotic devices is taking shape. Incorporating exoskeletons and artificial skins, pneumatic logic circuits, soft actuators, flexible electronics, and entirely different engineering and design methods than their rigid cousins, soft robots are moving from the research lab to the real world."
 publishedDateTime: 2023-09-12T16:06:00Z
-originalUrl: "https://cacm.acm.org/news/276269-a-softer-approach-to-robotics"
-webUrl: "https://cacm.acm.org/news/276269-a-softer-approach-to-robotics"
+originalUrl: "https://cacm.acm.org/news/276269-a-softer-approach-to-robotics/fulltext"
+webUrl: "https://cacm.acm.org/news/276269-a-softer-approach-to-robotics/fulltext"
 type: article
 quality: 34
 heat: 34
@@ -18,6 +18,17 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "JFZAb+N4uQPBZraXl6h/GjPs4G1Hc828AiS+vHsWHMNfj9p0t2aLbRcpYhw3sV3x/iqDse1T1HfPKto7wONx+icKgWZSewgFQ3z5/3zJ8CyUJkH9xln1q7MwduOorUE4Zp93V9qY0lq4rOyZFXokfYmKWZtK38kCaxMqBVFv6HODchw6S+CURtnNHUnFF6YJH0snt3/Hz4jteMPhEUECJXmyRCGyPIVSJYEn0YUMxnLu/FmywG5Yaic7ohelk6SkSeOydBEFhAaL5/Iac1wXckVuPQvn8DCuhKlDX7NB6FVAkWlARha9/ViovdT8ngmVNFTbPWk1JLOf0lI+Q+OY67GMn3AYaTG+DmehlHXURXR2uJ50+peM8aDpqWtAsvY64+7fAALAchtEQ/BzTMXTNRfHJexgRtuAo3ph8OIMYfmID6ycVNheXHiFH69WshSZySrUqkLcm8Pr8lIX41ANzvOhbU0KfU2n9TPfAqCB6HUCuYhQtyVLEMDfnrC12AIV82OjqlOhRkIvPv63qN/knA==;zj3iIxloeZtzutm+XJvUrw=="
+related:
+  - title: "MIT SoftZoo: Open-Source Platform Simulates Wildlife for Soft Robotics Designers"
+    excerpt: "SoftZoo is a soft robot co-design platform that can test optimal shapes and sizes for robotic performance in different environments. Since the term “soft robotics” was adopted in 2008, engineers in the field have been building diverse representations of flexible machines useful in exploration,"
+    publishedDateTime: 2023-09-09T19:51:00Z
+    webUrl: "https://scitechdaily.com/mit-softzoo-open-source-platform-simulates-wildlife-for-soft-robotics-designers/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 29
+
+secured: "dX9LSj39/4pXkyqgQ224W1ssIyr61ZZsFKuWBaXm1Nmia0/3SorXp5dbJN3Qy7MrtshUE9faV6aLppsbt2aCzcgEm4MmWkM4cUnfbVvKGKZq9pEZUFzaDfu6k38mveCPbh47Ybc0B16F3bMeGJBLKZnilrNIG7e0ubf7UZKak0XG4QbJyZiuCDVPKKdefQgxKLGyvB+P3RjkvE+qJ5oPv/Nxbpp9jeod16WrstATXocoQV9FZxDJ9l5t+8HJPV0qNsYndbCbmLs+6IzDB2JFJ5XWmpDW3r7jQp3875MxdWGWgS8Et3ou/SNdZ2QKIdAwTgkU8Ycbfd77+7ZyTq4r/audZTVRVqa5R1pwdUndIiI=;5E/sl+CJrND3ej7LK9Sj3Q=="
 ---
 

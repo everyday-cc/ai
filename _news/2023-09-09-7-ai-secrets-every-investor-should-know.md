@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "3 Chip Stocks That Should Be on Every Investor’s Radar"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The semiconductor sector has been on a tear in 2023, but while giants like"
+    publishedDateTime: 2023-09-10T20:32:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-chip-stocks-that-should-be-on-every-investors-radar-1032618325"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Artificial Intelligence should not be seen as a threat"
     excerpt: "OPINION: Its is essential to tread carefully in the implementation of artificial intelligence within the public sector communication to ensure accuracy, address misinformation and digital divide, writes Ireen Manyuha."
     publishedDateTime: 2023-09-12T17:51:00Z

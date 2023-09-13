@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Reliance Partners NVIDIA To Develop Large AI Language Model For India"
-    excerpt: "Reliance's Jio Platforms Limited has partnered with chip designer major NVIDIA to construct an advanced cloud-based AI computing infrastructure"
-    publishedDateTime: 2023-09-08T10:44:00Z
-    webUrl: "https://inc42.com/buzz/reliance-partners-nvidia-to-develop-large-ai-language-model-for-india/"
-    ampWebUrl: "https://inc42.com/buzz/reliance-partners-nvidia-to-develop-large-ai-language-model-for-india/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/reliance-partners-nvidia-to-develop-large-ai-language-model-for-india/amp/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 59
-    images:
-      - url: "https://cdn.inc42.com/wp-content/uploads/2023/04/cloud-social.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Jio, Tata Group enter pacts with Nvidia to develop advance artificial intelligence applications in India"
     excerpt: "The partnership with RIL-owned Jio Platforms comes a week after the company outlined its aggressive plans for artificial intelligence."
     publishedDateTime: 2023-09-09T00:00:00Z

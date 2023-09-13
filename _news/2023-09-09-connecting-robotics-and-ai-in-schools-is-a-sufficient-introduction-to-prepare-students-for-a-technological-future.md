@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Three Ways To Prepare For The AI-Enabled Future"
-    excerpt: "Technically speaking, AI can and probably will replace many professions. Compared to a human, AI is faster and smarter. AI can complete a task in seconds that would take a human artist weeks. When creating text, AI-generated content may still need editing or proofreading today, but give it time."
-    publishedDateTime: 2023-09-08T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/08/three-ways-to-prepare-for-the-ai-enabled-future/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/08/three-ways-to-prepare-for-the-ai-enabled-future/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/08/three-ways-to-prepare-for-the-ai-enabled-future/amp/"
+  - title: "Combining Robotics and AI in Schools is a Sufficient Introduction to Prepare Students for a Tech-Centric Future"
+    excerpt: "Jason Innes, Director of Curriculum, Training, and Product Management at KinderLab Robotics, Inc, explores robotics and AI in schools."
+    publishedDateTime: 2023-09-08T23:00:00Z
+    webUrl: "https://marketscale.com/industries/education-technology/combining-robotics-and-ai-in-schools-is-sufficient-introduction-to-prepare-students-for-tech-centric-future/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: marketscale
+      domain: marketscale.com
+    quality: 49
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/60a3d454598e7ff4af15615b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://marketscale.com/wp-content/uploads/2023/09/Screenshot-2023-09-06-at-2.30.24-PM-2.png"
+        width: 916
+        height: 510
         isCached: true
   - title: "Combining Robotics and AI in Schools is a Sufficient Introduction to Prepare Students for a Technological Future"
     excerpt: "Jason Innes, Director of Curriculum, Training, and Product Management at KinderLab Robotics, Inc, explores robotics and AI in schools."
@@ -54,20 +52,6 @@ related:
       - url: "https://marketscale.com/wp-content/uploads/2023/09/Screenshot-2023-09-06-at-2.30.24-PM-2.png"
         width: 916
         height: 510
-        isCached: true
-  - title: "Poised to profit from emerging world of AI"
-    excerpt: "Since only a portion of a company’s shares are typically sold via an IPO, the rest remain in the hands of insiders or private investors. When those folks cash in their shares – with the proceeds going to the sellers, not the company – it’s generally referred to as a secondary offering."
-    publishedDateTime: 2023-09-08T21:36:00Z
-    webUrl: "https://www.spokesman.com/stories/2023/sep/06/poised-to-profit-from-emerging-world-of-ai/"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 39
-    images:
-      - url: "https://thumb.spokesman.com/-QnTg9i0O4ZEnfGh3SAe3gxlnJU=/1200x630/smart/media.spokesman.com/photos/2023/09/08/6348c10b7f2ea.hires.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "7uhF3saj13Zb6MFfvXtTmQLcLh/WIHYkI7BLxCCBya2nk9dNKrKnOmASIQpHwf+4UQdEaT3qyJAnOke3bQOJl+7Zd+m9cr1t15XhXdyag0+FB607c8qir14TpevukaVevp1CMXJB3bJbHgnXO+SAPUL2d+gCT5qVEeTSF3BwslW3RQpBL7/04TRLFUPI910cyzXcuVvtAB0+Yf9JFbN3a2Mkm1E7IIOm8hUKUyN5UZx02H1Oa4PgnOSSZCeajZZp9KiepOV7j+JhPwX7ktP1ceDYJVQkOCLlLE2ZbkBXx4m4xwMiDLFFfj6DepaV6ZgfgHOFDJgzLLWxwnjLuM0DQND8gv8xZTdfb6ieAzGaVMNOVLN3xOguKkrmAI1QYMIsCYKYFa71JX4S15ntxgSfWT11SE8utZ2pgihjXIZlsnlWNbZuM9myNDlxmLbDdt/pPGWez7hVsjNWAjUbRGArPBYCsTl7Q3hec1pFXo2AEUiSG8RNOnv0sPO6zXyFLLIb8EPw7c+2zP7eMEv6rszt0A==;9Jo+bINSaY1oRkCGig7q3A=="

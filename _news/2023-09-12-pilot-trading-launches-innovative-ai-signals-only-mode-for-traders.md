@@ -22,6 +22,22 @@ topics:
   - AI in Finance
   - AI
 
+related:
+  - title: "Swoop Launches Predictive AI Adherence Targeting"
+    excerpt: "First-of-its-kind targeting predicts which patients will become non-adherent in the next 30 daysNew offering leverages Swoop’s best-in-class machine learning and artificial intelligenceNEW YORK--(BUSINESS WIRE)--Swoop,"
+    publishedDateTime: 2023-09-12T15:01:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2023-09-12/swoop-launches-predictive-ai-adherence-targeting"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 39
+    images:
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
+        isCached: true
+
 secured: "BVf9oMzn4fJ2cFouxjjUaueZUB9BkfSflGbsRE3/gThceGhT/LgXaEUk8J5te7evu2zgPOO/aBbyfA4X85ObvvYYQWL0UcJkAwQ3NPzHIqjUxnj+huo5cI7oXR8+lkHRd1sQEYxh4P/6nm5PhcPMuIGzPZcGw+U+C+UghbGFDC8mGh9QpvxwIEq/YQ1wK3+WDvZVQCv6eoUo2JltIsb86pu7HlQnR9YEBiZ/JLx/ijRnG/F4V0FNpnU0hoLOhT7dEWSdMs7kaFFVpSMkqUihobPhf6rXwSJokoSGfoMwd9VBn6rTaKjuUrIzr8WyajIt7pdc9MFZjg8Xj/oubFYOq8DXtvomgFbbA59/gXgKwME=;MQW1LtXnuxJ42Y8rhDLv9Q=="
 ---
 

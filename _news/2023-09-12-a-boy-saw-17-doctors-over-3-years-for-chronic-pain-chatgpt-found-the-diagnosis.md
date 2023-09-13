@@ -1,27 +1,29 @@
 ---
 category: news
 title: "A boy saw 17 doctors over 3 years for chronic pain. ChatGPT found the diagnosis"
-excerpt: "But before starting physical therapy, Alex had already been experiencing severe ... excitement for his future.\" ChatGPT is a type of artificial intelligence program that responds based on input that a person enters into it, but it can't have a conversation ..."
-publishedDateTime: 2023-09-11T21:21:00Z
-originalUrl: "https://www.aol.com/boy-saw-17-doctors-over-204224516.html"
-webUrl: "https://www.aol.com/boy-saw-17-doctors-over-204224516.html"
+excerpt: "Alex experienced pain that stopped him from playing with other children but doctors had no answers to why. His frustrated mom asked ChatGPT for help."
+publishedDateTime: 2023-09-12T14:31:00Z
+originalUrl: "https://www.today.com/health/mom-chatgpt-diagnosis-pain-rcna101843"
+webUrl: "https://www.today.com/health/mom-chatgpt-diagnosis-pain-rcna101843"
+ampWebUrl: "https://www.today.com/today/amp/rcna101843"
+cdnAmpWebUrl: "https://www-today-com.cdn.ampproject.org/c/s/www.today.com/today/amp/rcna101843"
 type: article
-quality: 35
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: Today
+  domain: today.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://s.yimg.com/ny/api/res/1.2/7IPyOYqFVT8sb6.056ZjjQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/aol_the_today_show_594/a679cc8e7dc07df5f762e35a41a13822"
-    width: 1200
-    height: 600
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-09/chat-gpt-diagnosis-jp-230911-f1cc83.jpg"
+    width: 3024
+    height: 4032
     isCached: true
 
 related:
@@ -40,20 +42,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2023/05/characterai-Mobile-App.png?w=1011"
         width: 1011
         height: 497
-        isCached: true
-  - title: "In U.S.-China AI contest, the race is on to deploy killer robots"
-    excerpt: "Washington and Beijing are in a contest to develop AI-controlled weapons that will operate autonomously. The outcome could decide the global balance of power."
-    publishedDateTime: 2023-09-08T11:00:00Z
-    webUrl: "https://www.reuters.com/investigates/special-report/us-china-tech-drones/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://www.reuters.com/investigates/special-report/assets/us-china-tech-drones/mastheads/share_drones.jpg?v=314607080923"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water"
     excerpt: "Tech developers have acknowledged that growing demand for their AI tools carries hefty costs, from expensive semiconductors to an increase in water consumption."
@@ -130,22 +118,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/09/sharogold_vector_illustration_of_US_capital_building_with_peopl_3bb05faf-cd21-4366-a551-57d6b709e91e.png?w=1200&strip=all"
         width: 1200
         height: 672
-        isCached: true
-  - title: "ChatGPT broke the EU plan to regulate AI"
-    excerpt: "Artificial intelligence's newest sensation — the gabby chatbot-on-steroids ChatGPT — is sending European rulemakers back to the drawing board on how to regulate AI. But after months of internet lolz — and doomsaying from critics — the technology is ..."
-    publishedDateTime: 2023-09-08T10:13:00Z
-    webUrl: "https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/"
-    ampWebUrl: "https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/amp/"
-    type: article
-    provider:
-      name: Politico Europe
-      domain: politico.eu
-    quality: 59
-    images:
-      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/03/02/GettyImages-1462188008-scaled.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "ChatGPT’s AI technology was built in Iowa, with tons of water"
     excerpt: "Building a large language model requires analyzing patterns across a huge trove of human-written text. All of that computing takes a lot of electricity and generates a lot of heat. To keep it cool"
@@ -364,6 +336,6 @@ related:
       domain: oregonlive.com
     quality: 13
 
-secured: "yCbHdzxUSeuj3nkIZ8Ucq0lz5wh0Nt9voUuGIgHERMto9Xvwk+dm9Gg/yQg/zmbhWBHB5kGCVK49fGKqGTpTnGQDn+RAZvXD57NCTGsG9Y0V/eXDayhpKlvD/DCDxbA79vaOOyZucgmz0CYim8jW4D33F0s7QnV9nTfA7qpcBKOR9iu1u9bQeIjezF6P+zswwMEFNS+Pk3k9WUi+qQI0KHEwWH2L7YhL1Urq9RnrqX7NScneXKsN6jOQBC58xgZ24OwxjYylb6GLQXGGArmX7BSemLjOf0/tVANrTEDM4eE8F8/0ug5b8TTG+LG8j3B7goBh5HqdSlDdTV9xk7kXvPiCCUAGEKc0AsD54dseTfqFaSSowuVt4BdFmRUeGywreEaxJVbuAFQl4eGMBoS7vC23tZYSGXWupqhimmje/ub0yzlWS9318qlZwFTwF0CmcUkFW/W7bjIyjgRa1oDeR7Jkl0jknOe7l4n6rw/Biix5J8mCtmwuinJd7rrJpLmG98Xg07ACDkREqhRZgHMzTg==;Q1Yi7bjgSKcXRU6VZ9ufqQ=="
+secured: "BcLHT5pt5BD3PFBmHrJUQoh47Mi2SknLI1sFcz+k389aJOnL6OMGzH5HkfK1cvk63gZsM9LeSduT4GhR/UnWr4RryBcDBAsa0oB2qE+HEgP2uz8xVseULg5WVn+6oFzoefJ0MNxzjQatvUY/tnITSDYffjfJPrjKV24rUeTLpkQLXQ1OQsimg7L8P3iQskO985QwzjP/rWKpsBPz7/kjtBgUTg5XJ+04/SC7dXNQkDCF5s4aw2JLPDxPHF2aDh87xiO7AsUZPUbwCxKODRQv8XfLf3GsreWruBc202IuXML8HIr7Q1eoIwyH+RAYe8JoIX7IsndlVS2U5S49mufD0fX+upUbylJkP5gEcJImwLo=;jv6i2sLWFyNorI/yfPKFEg=="
 ---
 

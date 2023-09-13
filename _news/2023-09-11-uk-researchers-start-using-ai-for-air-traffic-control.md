@@ -18,21 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "Western powers argue over how to control AI"
-    excerpt: "In the race to rein in artificial intelligence, Western governments have hit a major bump in the road: they all want to win. Officials from the European Union, the United States and other major economies are competing to write the definitive rules for ..."
-    publishedDateTime: 2023-09-08T10:13:00Z
-    webUrl: "https://www.politico.eu/article/eu-us-uk-china-artificial-intelligence-control/"
-    ampWebUrl: "https://www.politico.eu/article/eu-us-uk-china-artificial-intelligence-control/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/eu-us-uk-china-artificial-intelligence-control/amp/"
+  - title: "TargetRecruit Unveils Copilot: Revolutionizing Artificial Intelligence for the Staffing and Recruiting Industry"
+    excerpt: "Copilot represents a significant milestone in TargetRecruit's commitment to excellence where the power of Artificial Intelligence is propelling staffing and recruiting software into an era of unparalleled efficiency and innovation. As we move forward, we are excited to continue leading the way in recruitment software and artificial intelligence."
+    publishedDateTime: 2023-09-11T14:22:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/09/11/9878148.htm"
     type: article
     provider:
-      name: Politico Europe
-      domain: politico.eu
-    quality: 59
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
     images:
-      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/08/17/GettyImages-1246494152-scaled.jpg"
-        width: 1200
-        height: 630
+      - url: "https://mma.prnewswire.com/media/2203990/4259906/TargetRecruit_Logo.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "P08hdL2E4V/Y3OXC1eQP+Qx18xmh+llGdFKkjC8a6zASRO9YgPSTKo513PpbIQ5t9N6frGCp89I4e3o3NLw0aXXiN/qGB9dC7pl8UbQ3wcg9KyqqzyYm57oKhkmIAiVunkunhPxf8eZL/AeXgL0uio3DyH/3derDvu2ZKgEt6fmvBMn1hGm2962Ro6V0W/mp5SMoY2Od6RQGcSUnLpwN/+S/XNJec87akkAL1S9meRdNU12f3/j8pHgONDo+PqwF/hVjEGUnoOxmLTIkOrxc/Ycb1cEeiV58zlDnVdF4qW/XVPcM+hs10V0vY8I7pRF9eTVronPqSp4LOeZzwnODHzdWRN8Lu20BUyB2Vcc6Yyw=;KGScFNNNMNjip9cFgcOc+Q=="

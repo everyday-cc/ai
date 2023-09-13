@@ -41,20 +41,6 @@ related:
         width: 1011
         height: 497
         isCached: true
-  - title: "In U.S.-China AI contest, the race is on to deploy killer robots"
-    excerpt: "Washington and Beijing are in a contest to develop AI-controlled weapons that will operate autonomously. The outcome could decide the global balance of power."
-    publishedDateTime: 2023-09-08T11:00:00Z
-    webUrl: "https://www.reuters.com/investigates/special-report/us-china-tech-drones/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://www.reuters.com/investigates/special-report/assets/us-china-tech-drones/mastheads/share_drones.jpg?v=314607080923"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water"
     excerpt: "Tech developers have acknowledged that growing demand for their AI tools carries hefty costs, from expensive semiconductors to an increase in water consumption."
     publishedDateTime: 2023-09-11T12:58:00Z
@@ -131,22 +117,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "ChatGPT broke the EU plan to regulate AI"
-    excerpt: "Artificial intelligence's newest sensation — the gabby chatbot-on-steroids ChatGPT — is sending European rulemakers back to the drawing board on how to regulate AI. But after months of internet lolz — and doomsaying from critics — the technology is ..."
-    publishedDateTime: 2023-09-08T10:13:00Z
-    webUrl: "https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/"
-    ampWebUrl: "https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/amp/"
-    type: article
-    provider:
-      name: Politico Europe
-      domain: politico.eu
-    quality: 59
-    images:
-      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/03/02/GettyImages-1462188008-scaled.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "ChatGPT’s AI technology was built in Iowa, with tons of water"
     excerpt: "Building a large language model requires analyzing patterns across a huge trove of human-written text. All of that computing takes a lot of electricity and generates a lot of heat. To keep it cool"
     publishedDateTime: 2023-09-09T21:27:00Z
@@ -208,6 +178,22 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/modular-AI-robot-kit.jpg"
         width: 700
         height: 473
+        isCached: true
+  - title: "A boy saw 17 doctors over 3 years for chronic pain. ChatGPT found the diagnosis"
+    excerpt: "Alex experienced pain that stopped him from playing with other children but doctors had no answers to why. His frustrated mom asked ChatGPT for help."
+    publishedDateTime: 2023-09-12T14:31:00Z
+    webUrl: "https://www.today.com/health/mom-chatgpt-diagnosis-pain-rcna101843"
+    ampWebUrl: "https://www.today.com/today/amp/rcna101843"
+    cdnAmpWebUrl: "https://www-today-com.cdn.ampproject.org/c/s/www.today.com/today/amp/rcna101843"
+    type: article
+    provider:
+      name: Today
+      domain: today.com
+    quality: 55
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-09/chat-gpt-diagnosis-jp-230911-f1cc83.jpg"
+        width: 3024
+        height: 4032
         isCached: true
   - title: "A boy saw 17 doctors over 3 years for chronic pain. ChatGPT found the right diagnosis"
     excerpt: "Alex experienced pain that stopped him from playing with other children but doctors had no answers to why. His frustrated mom asked ChatGPT for help."
@@ -299,20 +285,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 36
-  - title: "A boy saw 17 doctors over 3 years for chronic pain. ChatGPT found the diagnosis"
-    excerpt: "But before starting physical therapy, Alex had already been experiencing severe ... excitement for his future.\" ChatGPT is a type of artificial intelligence program that responds based on input that a person enters into it, but it can't have a conversation ..."
-    publishedDateTime: 2023-09-11T21:21:00Z
-    webUrl: "https://www.aol.com/boy-saw-17-doctors-over-204224516.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 35
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/7IPyOYqFVT8sb6.056ZjjQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/aol_the_today_show_594/a679cc8e7dc07df5f762e35a41a13822"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water"
     excerpt: "As they race to capitalize on a craze for generative AI, leading tech developers including Microsoft, OpenAI and Google have acknowledged that growing demand for their AI tools carries hefty"
     publishedDateTime: 2023-09-09T20:39:00Z

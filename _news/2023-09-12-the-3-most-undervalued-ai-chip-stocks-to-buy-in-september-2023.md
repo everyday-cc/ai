@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "The best movies on Amazon Prime Video (September 2023)"
-    excerpt: "The best movies on Amazon Prime Video have something for everyone. For most of this year, Prime Video has welcomed movies from Universal Pictures and Paramount to shore up its library. But this ..."
-    publishedDateTime: 2023-09-08T09:30:00Z
-    webUrl: "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/"
-    ampWebUrl: "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 74
-    images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2022/05/Elvis-Trailer-2.jpg?resize=1200%2C630&p=1"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The 7 Best Robotics Stocks to Buy Now: September 2023"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips While artificial intelligence stocks have seen a meteoric rise in recent"
     publishedDateTime: 2023-09-10T19:39:00Z
@@ -48,6 +32,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
+  - title: "The 7 Best Tech Stocks to Buy to Capitalize on the AI Revolution"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Tech stocks are some of the most appealing and popular in the stock market."
+    publishedDateTime: 2023-09-11T10:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-7-best-tech-stocks-to-buy-to-capitalize-on-the-ai-revolution-1032619506"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Best Amazon deals in September 2023: Today's best sales"
     excerpt: "Amazon deals can be found any day of the week. Whether you're shopping for a new MacBook or our favorite pair of headphones, Amazon is renown for offering sitewide sales every day. Remember ..."
     publishedDateTime: 2023-09-11T14:10:00Z
@@ -71,6 +64,29 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
+  - title: "Oss To Showcase Specialized High-Performance Ai Computing Solutions At Dsei On September 12-15, 2023"
+    excerpt: "In February, won a $1.3 million contract from the U.S. Army for the design, development and prototypes for a vehicle mounted 360-degree situational awareness system using OSS PCIe Gen 4 switched fabric technology and market leading embedded GPU system on modules."
+    publishedDateTime: 2023-09-11T17:46:00Z
+    webUrl: "https://menafn.com/1107046949/Oss-To-Showcase-Specialized-High-Performance-Ai-Computing-Solutions-At-Dsei-On-September-12-15-2023"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?131741"
+        width: 319
+        height: 250
+        isCached: true
+  - title: "OSS to Showcase Specialized High-Performance AI Computing Solutions at DSEI on September 12-15, 2023"
+    excerpt: "One Stop Systems, Inc. (NASDAQ:OSS), a leader in AI Transportable solutions on the edge, will showcase its specialized high-performance AI computing solutions at"
+    publishedDateTime: 2023-09-11T16:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/g34447447/oss-to-showcase-specialized-high-performance-ai-computing-solutions-at-dsei-on-september-12-15-202"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 4
 
 secured: "TH7I2EqIna5aoT/RTI9unA1Y81CKatI+9ExDj6HXcU79UbxNom0bUmnCiSscDTJg1BfpwTgVy3+0DpCMsj0+GtFj1jOj7IhOL9LUit2a4DTqNf6hykNSO0hibzvlo74O7wfRGajzptRwms+m+KFadrhUrMAmCf8doCF1Ee6QVbQXk1giA2yR7cEdPzWkK8lXuR1uYz6M2MGLDotVUgo75r9msyyzllbZrEk2R53M80OSqjDi5UBR/UZfuK2/Ir6lPwS8vCeeOfULUrBN0kAIEOSoA+3zXOLhWy3EkiMDM3Ob2A8EtsUvlfOvryDZgnEllGdH2JkjI2OeD9Fo7LaWyBtdrbsecK8Dxkiro8KqhqnWD5bMk/gnNoRhFKzuk95H/aD7khjWeNHhU0zhAq4VMG8QMd5hzMm2T1ec3Tugx0/wE3f5Yt1NVPM8GLyASroCM0BZQwGoMj7448nTT8PSfzozVB4iCb4yuJh0F7rnGYUj7RN1DHZCdIeacIeOuDF8LgAoW4sLAxUbWatlafp+Ag==;guaEehhsLUqQ2AtQCeNqSA=="
 ---

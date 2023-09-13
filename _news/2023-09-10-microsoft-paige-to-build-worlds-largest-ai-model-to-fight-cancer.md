@@ -128,36 +128,6 @@ related:
       name: Wired
       domain: wired.com
     quality: 62
-  - title: "Microsoft’s AI WARNING against China! Fake social media accounts trying to influence US voters, says tech giant"
-    excerpt: "Microsoft uncovers Chinese-controlled AI-driven fake social media network Influencing US voters, raising election concerns."
-    publishedDateTime: 2023-09-08T09:39:00Z
-    webUrl: "https://www.financialexpress.com/life/technology/microsofts-ai-warning-against-china-fake-social-media-accounts-trying-to-influence-us-voters-says-tech-giant-bkg/3237074/"
-    ampWebUrl: "https://www.financialexpress.com/life/technology/microsofts-ai-warning-against-china-fake-social-media-accounts-trying-to-influence-us-voters-says-tech-giant-bkg/3237074/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology/microsofts-ai-warning-against-china-fake-social-media-accounts-trying-to-influence-us-voters-says-tech-giant-bkg/3237074/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 56
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/US-China.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Microsoft to build AI model for detecting cancer: All the details"
-    excerpt: "The model will be trained on up to four million digitised microscopy slides across multiple types of cancer, from Paige's unmatched petabyte-scale archive of clinical data. Paige will utilise Microsoft's advanced supercomputing infrastructure to train the technology at scale and ultimately deploy it to hospitals and laboratories across the globe using Azure."
-    publishedDateTime: 2023-09-08T10:19:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/microsoft-to-build-ai-model-for-detecting-cancer-all-the-details/103505919"
-    type: article
-    provider:
-      name: health.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 54
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-103505919,imgsize-13786,width-1200,height=765,overlay-ethealth/health-it/microsoft-to-build-ai-model-for-detecting-cancer-all-the-details.jpg"
-        width: 1200
-        height: 765
-        isCached: true
   - title: "Microsoft says it will protect customers from AI copyright lawsuits"
     excerpt: "In 2017, Microsoft, by then a seller of open-source software itself, offered to protect customers of its Azure cloud products from legal claims. The company in June announced a program to help customers ensure the AI programs they run on Microsoft ..."
     publishedDateTime: 2023-09-11T03:04:00Z

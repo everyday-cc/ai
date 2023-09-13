@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/livecoverage/apple-iphone-event-2023/card/siri
 webUrl: "https://www.wsj.com/livecoverage/apple-iphone-event-2023/card/siri-and-apple-s-ai-moves-MptPFrA2JGuuCuS9RDvY"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Cars and AI Ethics"
-    excerpt: "Peter Singer & Tse Yip Fai consider the implications of autonomous vehicles for passengers, pedestrians, and the planet."
-    publishedDateTime: 2023-09-08T10:38:00Z
-    webUrl: "https://www.project-syndicate.org/commentary/san-francisco-self-driving-cars-ethical-implications-by-peter-singer-and-tse-yip-fai-2023-09"
-    type: article
-    provider:
-      name: Project Syndicate
-      domain: project-syndicate.org
-    quality: 56
-    images:
-      - url: "https://webapi.project-syndicate.org/library/5871f1e97c2521f4eabc1bc885f6e5c6.2-1-super.1.jpg"
-        width: 1360
-        height: 680
-        isCached: true
   - title: "Bimbo Bakeries Applies Artificial Intelligence"
     excerpt: "Using Antuit.ai’s AI technology, Bimbo has improved order accuracy and minimized food waste even amid the disruptions caused by COVID-19."
     publishedDateTime: 2023-09-08T13:22:00Z

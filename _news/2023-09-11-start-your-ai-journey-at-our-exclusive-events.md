@@ -41,20 +41,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "9 useful AI tools in addition to Midjorney and ChatGPT"
-    excerpt: "Watch this video on YouTube. Perplexity AI combines a large language model with natural language processing (NLP) search capabilities, providing a personalized browsing experience. It offers a number of AI features, including personalized language models ..."
-    publishedDateTime: 2023-09-08T10:56:00Z
-    webUrl: "https://www.geeky-gadgets.com/ai-tools-you-should-be-using/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/9-AI-tools-you-should-be-using-in-addition-to-Midjorney-and-ChatGPT.jpg"
-        width: 700
-        height: 466
-        isCached: true
 
 secured: "nlh6HqTktmLwBP8+kuBXikt8dxB2VEz2XIQqitnWLDqtW3MMJ6GI0v2JkVXHK7cE7InOnBFkC4scOayemy4VvXsdOcGKm/Sup1ZtAXflYhY/R8Sq+2qTddrqkb245AGBEc2HqsncIMf+nyaV2vrUED1w4zJCsufHmvdeEhw2dMtoHxR2jXQripWph3TttygkGZ8UyqDyjq8l/anArsqU28Z02E8+O/m37Y5aMWamkGyaYJJ56hdaJfRBEl5rBYsqzD463//IFwCTFSgsg0KgHa155TJsCyENJPTQtmcbaBzaIy2jESUGmMxlaCEFnZFsmX092XSxNwSFV/vUwKSECAAyW9UCQgCCQRqisJOv1AC5Qott2KZOA0wKul0AH1y2b7iZ58XjoGseORU+C2nfO6sNC4USBWdSeMtJWLuSLIZvvHMEx9qMGDbzXrWQV4ZwzX4ktFxiqAZ9cTCS0eF8/jzKb8PRXpQOPFjHMEShB4Z8OOWV3N0bE11SNkih29dzGXUEbNCbZpSNXFCoz7zt3A==;XSMl0SapM3VPn3E89a5w/Q=="
 ---

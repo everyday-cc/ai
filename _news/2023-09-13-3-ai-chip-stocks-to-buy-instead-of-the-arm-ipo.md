@@ -2,27 +2,21 @@
 category: news
 title: "3 AI Chip Stocks to Buy Instead of the Arm IPO"
 excerpt: "and it has shipped over 250 billion chips to date. Part of the catalyst behind the IPO is to raise cash for investments in artificial intelligence (AI), where Arm hopes to compete with chip design rivals like Nvidia (NVDA). So if you're looking for an ..."
-publishedDateTime: 2023-09-12T23:49:00Z
-originalUrl: "https://www.theglobeandmail.com/investing/markets/commodities/VIX22/pressreleases/20200102/3-ai-chip-stocks-to-buy-instead-of-the-arm-ipo/"
-webUrl: "https://www.theglobeandmail.com/investing/markets/commodities/VIX22/pressreleases/20200102/3-ai-chip-stocks-to-buy-instead-of-the-arm-ipo/"
+publishedDateTime: 2023-09-12T19:16:00Z
+originalUrl: "https://www.nasdaq.com/articles/3-ai-chip-stocks-to-buy-instead-of-the-arm-ipo"
+webUrl: "https://www.nasdaq.com/articles/3-ai-chip-stocks-to-buy-instead-of-the-arm-ipo"
 type: article
-quality: 54
+quality: 64
 heat: -1
 published: false
 
 provider:
-  name: The Globe and Mail
-  domain: theglobeandmail.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://barchart-news-media-prod.aws.barchart.com/EXCLSV/c69ca1a5513c06e5b38374952eed56f7/nliok12k82ja8jdo.png"
-    width: 790
-    height: 739
-    isCached: true
 
 related:
   - title: "Arm IPO: 5 things to know about the chip designer central to the AI transition"
@@ -58,6 +52,6 @@ related:
         height: 1687
         isCached: true
 
-secured: "LfLxpn8Klp0lgO1lYo0IltTmydSc5IQE/jyI6WLStqIcer6ov/l37YN6RSFcSBlhhMq+lBK3OIT1ypSiJXKHyrZLAepmInf4y471AuGs2auR8IRuqFTxD9cK39KtA9GU5Fr47BNhBV4CKdci09fB2GLzWpk+2e7OVaTonomRE/KI+rlceihj+V1XNddWcL818mMzD2X7psbw1EAiV6tLlQCfPIOC/y8GtFl67Nw36irtM9MN9Mxw5hDRjR1HazmhWmqBOjxMhjWrd4zuxF9Ne6Bx6pfwK9FGBYXwurzEJuVObXJ9oxenCE287HRN6Yqj6THjTJSA4zLQx3c9ea7DJT36lx11iklC6e/kXD2dhFI=;NAq1q80khn8r94WD5hzIuQ=="
+secured: "8PBfCpVJeWLhP3Cy4BCIH/5KilkunUAvoqudkCtEKxKpGX1iGrKah3SCvIjVliw0RXf+4viyBit9aIb4Xd+C6n0F2f9kTBmxIVkZeeMcG4cOegEPEd3QSz8JKL1nEq/UQ9txXi/WoDWmaXJyhl7+yJPbiKysYDVKko2DEvOPuWNRw2Pgq6DWhEWkZ4W/WDyZpNYylUHd5gTaymSEgfNF0vCNSAndt8BiZNYosKmgGXrn4uKL2XYRwea9Lsls8Rn5QC4zwv5xy1yzRwT2pFLC239SEa6MrQHEQau7aJEZjTwRYb3Ei7XW/VgJldyrK/ai2NZpNh5jBpspZCIouOVAfUxIXtWYK85dqBgQ+ylRpGHbS8ee/kX5O4i7WqU5ZUYtYx1/rq59mGkoK8lNNgAmKy3ojadm/xIVrjPQiSI4VUP4yumhYwyXwF3Vr07mZ6qaESQXhgDfA/68mpD5xeOKnQt/oZZZWbeVZmvm3a8hB/enB7vBD5PJUins6/rr0CTd8N6R8zaVJ7TzHO71N5cz9A==;KiuOQxDDyqbNDIcLoikCOA=="
 ---
 
