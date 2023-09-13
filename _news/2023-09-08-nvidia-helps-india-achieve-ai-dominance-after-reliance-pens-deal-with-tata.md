@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Reliance Partners NVIDIA To Develop Large AI Language Model For India"
+    excerpt: "Reliance's Jio Platforms Limited has partnered with chip designer major NVIDIA to construct an advanced cloud-based AI computing infrastructure"
+    publishedDateTime: 2023-09-08T10:44:00Z
+    webUrl: "https://inc42.com/buzz/reliance-partners-nvidia-to-develop-large-ai-language-model-for-india/"
+    ampWebUrl: "https://inc42.com/buzz/reliance-partners-nvidia-to-develop-large-ai-language-model-for-india/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/reliance-partners-nvidia-to-develop-large-ai-language-model-for-india/amp/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 59
+    images:
+      - url: "https://cdn.inc42.com/wp-content/uploads/2023/04/cloud-social.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Jio, Tata Group enter pacts with Nvidia to develop advance artificial intelligence applications in India"
     excerpt: "The partnership with RIL-owned Jio Platforms comes a week after the company outlined its aggressive plans for artificial intelligence."
     publishedDateTime: 2023-09-09T00:00:00Z
@@ -87,6 +103,15 @@ related:
         width: 2560
         height: 1536
         isCached: true
+  - title: "Jio, Nvidia partner to build AI Cloud infrastructure in India"
+    excerpt: "Jio Platforms and Nvidia have partnered to build a cloud-based AI infrastructure in India. The collaboration aims to accelerate AI development efforts"
+    publishedDateTime: 2023-09-08T12:49:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/jio-nvidia-partner-to-build-ai-cloud-infrastructure-in-india/articleshow/103512248.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 19
 
 secured: "kzRbi6IykG8rOAzjoFIZnoNnS/GBDoyNfk6hcSroxlBnxs+crQ8dnmqlkzmG7ESLeb/8XDW6Q0gAeG2HcYPSGMWtEt3gQngWZlXdjs0GzQvZ+nZn77pkqixwtMGEz/DeI/R6MhcUIirjUUp47Ku+yHENHmC99dlzUY4MpRrCEa/7x3kK/u6ta3ZDMr8zNhXvMTATJ1XOwevGJBjyzPKAMdiwpHFKSATHGY/UUs+gQ5/GKx5h8JE75RyFhh0VgLeMAj8pCuHD1ZmWYSbcU9XioCBLbLy6TPUp1XZEvM80IYdhy58UUdHtNFF8wxgc5MQ2KBZJijPxOF923R7aF00w5szeUDB8hB1wqqM3KsxRVWQ=;CE65PGD+suvYlzY643Dxzg=="
 ---

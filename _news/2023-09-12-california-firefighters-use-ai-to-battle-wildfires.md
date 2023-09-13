@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-09-california-firefighters-ai-wildfires.a
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-california-firefighters-ai-wildfires.amp"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://www.ciodive.com/imgproxy/A2J69zpCMgQaptSWvERjGTJUqgKmWsT0ccrh8tl2bEM/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0NjE0NDM3MTcuanBn.jpg"
         width: 770
         height: 435
+        isCached: true
+  - title: "California Has a New Bill to Ban Self-Driving Trucks"
+    excerpt: "California's Senate has passed a bill that would require the presence of a human safety operator whenever a self-driving truck is operating ... lot of the arguments that surround the rise of artificial intelligence across plenty of other industries."
+    publishedDateTime: 2023-09-13T00:49:00Z
+    webUrl: "https://tech.co/news/california-bill-ban-self-driving-trucks"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 24
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2023/07/21014335/truck-route-highway.jpg"
+        width: 1920
+        height: 960
         isCached: true
 
 secured: "ocvZublS+i1+l+/dr+6jEq06kMCU7MCiNyCkJAIKIcoPDqTINsC1Yv98B/FLkKhotB1kpjG8zx9bOZeEoiIl27TEImd0TS6klJSMfFIXRS0BBUkPoVe/QuW5z9KFgsam0roBmjRxFYWLubreYwIkrSCTX98KU1TbSvvUgKk/D3B9aD1nYiKx/KirXidLnCk0ZsW0eMJVDcAnjjtkuUFyOaA7wc5x1Kaq3eRJKbkNJj3a/eFybjJefGnzGmlSrcKV84eNyqh9xziUiTto2A/rfPSmYHnGsse/l2zmEiCpl6G9u0eTMj4eCi/Ha7eXHSb4rTEz+Dbpp/Y12S97TpzFiasYzfKWkhrBd8gHXGn+0hPnfJX19Fuf7khdvR7qLmLZN8Meam0eDfoacPUm4K9l/TDycomaImtB06hp12Z+N7tEgfX+YsEF+dxvZMcEMS1Yheilw78c9idbNwwp1y8chaKlQg8NKw1fS0gyPa0NbHxEAon1oBDbvwGaeW5NMDMfsIoQtr7drz3sK3LCLlPFjQ==;Oqc55YdDGdfhzEhS232nGQ=="

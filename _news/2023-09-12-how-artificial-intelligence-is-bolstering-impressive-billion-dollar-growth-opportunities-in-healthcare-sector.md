@@ -1,18 +1,18 @@
 ---
 category: news
 title: "How Artificial Intelligence is Bolstering Impressive Billion Dollar Growth Opportunities in Healthcare Sector"
-excerpt: "Artificial Intelligence (AI) and machine learning (ML) algorithms are being widely adopted and integrated into healthcare systems to"
-publishedDateTime: 2023-09-12T12:45:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/how-artificial-intelligence-is-bolstering-impressive-billion-dollar-growth-opportunities-in-healthcare-sector-301924462.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/how-artificial-intelligence-is-bolstering-impressive-billion-dollar-growth-opportunities-in-healthcare-sector-301924462.html"
+excerpt: "The implementation of AI/ML technologies in enhancing patient care, reducing machine downtime, and minimizing care expenses are some of the driving forces of artificial intelligence (AI) in healthcare market growth."
+publishedDateTime: 2023-09-12T15:18:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2023/09/12/9879146.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/09/12/9879146.htm"
 type: article
 quality: 15
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
@@ -43,6 +43,6 @@ related:
       domain: finanznachrichten.de
     quality: 3
 
-secured: "r4bs4sllrKspdIurYzjhsN5Chb9wRilBrIYYy4iWj93abgz0LbROZF8oO+/eAkGkaWlcvEueuvEoRG0+RkqRDgO6tds99qa67uwNZ7ym6BvyUasNZbL6Wyv0ZcC5e2fW/1OBqbtDT4IDkVKWjWBjRSp4wWrcKokiISE7aIxd6TikntuM4lIx3qne/khHDITyw6JWONqrpCfeQn8Sz3r9e4Sm0G15wHCLsL2WvEpRUnB+v64s4dkwyWsnlDFJA3DxCDwfAkEPXCACbIwmZ6JWIoBF3j91Pv5+dPFGtKv6NNcj98mibj+jpsik+YWPwQ544OuMDvWr7J6kXjrKzsVykODyLmay9itObFKzF2iAzEw=;thb4co+FqMPOCdHRK51aHw=="
+secured: "mALFhZUOGmZLBXiOezJjB9dPzCajMBk+uI9SslFHOUGD2TOfYLy+e4z+MduXHrulU4dfCC5HDFuuuNf/yP49HNu/yY7FJM1BmYEB8+o77q3IHNengV799NfCjWH9IxO86+Yo2wjFIqwFWCu3k5cR3TvI3KiufWFjEGu60Bl47hh4EoOQJ5IixnPLPnYkVDjhrCcWXolhn47Xo5njEPEXkCyhYPhWTUjKObAWakoybg4Y/wO1BiPu1GOkgxzkIyf2P4qN3eJBmqXBkgHQqPF6I4NhiZ3tKpL2SwIlEnbDsbQNJq1bMCp2ALMpc/Qf70mH+dNQjoRZkfM5NwQmFRP8c8vjs65BPfgOlIHtiWoZsCA=;al3JmikR8+OVH8dyUsIohQ=="
 ---
 

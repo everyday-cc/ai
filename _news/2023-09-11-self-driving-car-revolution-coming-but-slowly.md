@@ -35,22 +35,6 @@ related:
         width: 1177
         height: 661
         isCached: true
-  - title: "Self-driving car revolution is coming, but slowly"
-    excerpt: "Pandemic-related disruptions to the car industry, a shift towards investing in electrification and the sheer complexity of the technology have all contributed to keeping the autonomous-driving revolution stuck in the slow lane. Now, \"we're more inclined to say it will happen by 2030,\" Aufrere told AFP."
-    publishedDateTime: 2023-09-08T09:00:00Z
-    webUrl: "https://www.theeastafrican.co.ke/tea/science-health/self-driving-car-revolution-is-coming-but-slowly-4362258"
-    ampWebUrl: "https://www.theeastafrican.co.ke/tea/science-health/self-driving-car-revolution-is-coming-but-slowly-4362258?view=htmlamp"
-    cdnAmpWebUrl: "https://www-theeastafrican-co-ke.cdn.ampproject.org/c/s/www.theeastafrican.co.ke/tea/science-health/self-driving-car-revolution-is-coming-but-slowly-4362258?view=htmlamp"
-    type: article
-    provider:
-      name: The EastAfrican
-      domain: theeastafrican.co.ke
-    quality: 44
-    images:
-      - url: "https://www.theeastafrican.co.ke/resource/blob/4362272/93c4c276d2a5b72180c6a801c040f6ee/iaa-data.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "tqHMGNZ2RHgjOtuTSqmdm3EiCBwQeBMQDcTMS2c+vLsbJONvRagx8pHSlz0+zlMy2m0zqanNEipWiwtrtsy7G3qFWplYed7O7zZRdnxOP1+sqeETDC8br2WFFNOkpIYG4PpUB2nD+XuxL0eo1b8gVpQp3wxkkDX4U+JssUN8j/Lv3OqgpqvO9nQSweHR5vPruef98TWFxi9aJyMig2rbyQE1HiIkQ07iX6vZGo/xeyp3kYZU9Aj3HEM05VT5WgpoDIm7TUiI8gkTHbwQO64ogB2bXgHjUch/eP7Uqu2DNiJTIzhK57aVuKoY+2jhOsboPXEvpAbVpmDaHmsx2CvWN70THgadZMdceNZZV+9G4Lg0KPXrtEPQItCVNjPkSnlAO0/MlbtqHW2aOOr+4A0f/7Yh/61415TplTL+8/Qj/CtgNYNVRMyqoThCVyU/NBjCFSJ369D1pBOsVsIlARjtUWt+FDsJK4a3iCVVynxg5Cju5IBGdf0Wjk+EhUBhT9XGqnNbqp9VZyJpbR79kuZydA==;h8ELMxExukwccewNV0QGVQ=="
 ---

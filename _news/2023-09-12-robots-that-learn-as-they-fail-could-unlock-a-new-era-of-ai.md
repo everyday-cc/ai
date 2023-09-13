@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Scientists Are Beginning to Learn the Language of Bats and Bees Using AI"
+    excerpt: "They record sound 24-7 and create oodles of data, which is where artificial intelligence comes in. Researchers can apply natural language processing algorithms like the ones used by Google translate to detect patterns in these recordings and begin to ..."
+    publishedDateTime: 2023-09-11T14:00:00Z
+    webUrl: "https://www.scientificamerican.com/podcast/episode/scientists-are-beginning-to-learn-the-language-of-bats-and-bees-using-ai/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 38
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/DE4595F2-0F18-4036-A1784E999D4D9485.gif"
+        width: 790
+        height: 496
+        isCached: true
 
 secured: "1uCnCIKF2HNrkf2jmNUTNo2CCNJuoNO3qnmhCMH5srcbeBH0YgahkPLrMxcO8Qb9paNtsYhtqWCPLXHUPT5ycNDmxLRG70k7c4sbxhDjrUuBUwDsWNLjXkLQMl+3xwdTzPzLoE+au7UrmyCW2obqqsr8DR0OqRbyzbnw3tFI3y6Y5469tMs537IrsrTBfRGz0mc1pvumpSICTBAviJetbJtejExOawSfaLhpM6Wj/i47cH5mbBFoaB1E4PrpnonGJCmnEmS5YK6tC63bA72dHsiYHlOltJDrz09SlsE5YEQLCagikXpjTedQb7UkFiIS9kmC8t1KLpRez4em9n6VNS2HVpHpZyb0yWJ5Z912MhHCtSYTmUxt7wwa5FATzuvRHCBV2FYaOmzOYz8w3sSt1ZQfqlanhF0m22uzDt9Lf7cOgtLd3mBGjs8SkCPwaPshm2vDb5rjU2Ub9CRg1IfwWgeYoRlcd4M9avevZBCYxEY6gU9EPxTv58a66MB4Yz5am9ME+vfZ810CrkN5LbUSaw==;LZCP4t8j+kT38FIX7ktwxA=="
 ---

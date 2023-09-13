@@ -57,6 +57,20 @@ related:
         width: 770
         height: 435
         isCached: true
+  - title: "California Has a New Bill to Ban Self-Driving Trucks"
+    excerpt: "California's Senate has passed a bill that would require the presence of a human safety operator whenever a self-driving truck is operating ... lot of the arguments that surround the rise of artificial intelligence across plenty of other industries."
+    publishedDateTime: 2023-09-13T00:49:00Z
+    webUrl: "https://tech.co/news/california-bill-ban-self-driving-trucks"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 24
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2023/07/21014335/truck-route-highway.jpg"
+        width: 1920
+        height: 960
+        isCached: true
 
 secured: "L/0a0U/6CBxcaeN6bigpivT8Rm3mA655HEli6T1zNaTnBKZgSnsyPufta3waXLE3j4VFK63iTphKJKaUqxmhDIYRllLa2K509LeoXT0xdp6QjTwvoWHpFFrHUCAbIyQmuy0V44/4jBPAuS+9ylyaEtX6omMjZrRywNv3MHovBM7NZYeVnMqlsbkaB04nH9uJtGgLlKESzVwhz7hett5sQM/vXqOSI9tzgoE+peaiJtfEoDHJcjBRAdPA1sgYgPa75nlbJvgPrmaCY48mMeCeB6zUG6dySiu+aX8ND/+HF+VjxpHyS+uywLQfeR5POj4iMX7KC91IOj3q4izde1pUuJE1AMHcQSRsTRgl18682KM8F7xJFWCXe5Xca2jj88tAEQyFUV1ghXzwmOZMvk1Zop5zlpdCw3fNa+tm3AIH/H/Z0A0Dwf1Z+sUNQuFW1OCu2dB0Ngcfs/X8jIqSD1lFr87cUlhjmDcmQ0ccxRtGK+CDIJ7pL6o8ofZHdoUBUBe8GDZDqL+FcYfaHPRHqKQ3TA==;N0pQJ5tt9YCTHMZRiPey0g=="
 ---

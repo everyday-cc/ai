@@ -34,13 +34,13 @@ related:
         height: 250
         isCached: true
   - title: "How Artificial Intelligence is Bolstering Impressive Billion Dollar Growth Opportunities in Healthcare Sector"
-    excerpt: "Artificial Intelligence (AI) and machine learning (ML) algorithms are being widely adopted and integrated into healthcare systems to"
-    publishedDateTime: 2023-09-12T12:45:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/how-artificial-intelligence-is-bolstering-impressive-billion-dollar-growth-opportunities-in-healthcare-sector-301924462.html"
+    excerpt: "The implementation of AI/ML technologies in enhancing patient care, reducing machine downtime, and minimizing care expenses are some of the driving forces of artificial intelligence (AI) in healthcare market growth."
+    publishedDateTime: 2023-09-12T15:18:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/09/12/9879146.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
+      name: TMCnet
+      domain: tmcnet.com
     quality: 15
 
 secured: "bHtnztHnj7PYM2SW+JB0dzcgGLRTxw6+RPCLMAJvuW2yOlxMCsAN6iyByR3Js1A6YFZ627JXF5y0GsmY9Uksazq5WtE9SomAyrOlzyZRcbVhvpjFiM4ByoqHixXwtD3Xq8xsxadK+P9EfADm9MA07qo3E4OEIMnBUNSepuaNjaNmwHD/o1e6UYfK2dD7TV5VHJUlQZk9ExxBUr/tkClrllvRBdMP2Mx9PXZuqraZOsN2NKGW13HILKCPH24sLlrWi3hXPEfmIgqeqQq8+R01vIbUBfwbFFs+UIYbnizTjT5OTULHrhE+wjX1CDuXqaEbRmX6oXq2LJSHse0YgN3passIqMuek+8qkrjK8lWMcEs=;DKC3r8Kv3tFMAWVhM0PY5g=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202309/the-
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-digital-self/202309/the-inverse-turing-test-navigating-an-ai-created-complexity?amp"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 320
     height: 219
     isCached: true
-
-related:
-  - title: "Coca-Cola’s CMO on Sidestepping the Culture Wars, Navigating AI and Boosting Events Over Ads"
-    excerpt: "An aversion to political controversy and a reliance on creators for AI-generated content have helped guide the soft-drink giant’s recent strategy."
-    publishedDateTime: 2023-09-08T09:00:00Z
-    webUrl: "https://www.wsj.com/articles/coca-colas-cmo-on-sidestepping-the-culture-wars-navigating-ai-and-boosting-events-over-ads-4b81acf4"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 56
-    images:
-      - url: "https://images.wsj.net/im-848208/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "356onj/kcpYy1H37x+OCzF0j83btFrit+3zXECqbqGSalZKTYAuUP6IgBbbE8k5Y1sSS7mrA0PCDmVsV+9vpNKhijxbgrFeX6JWQ5IaAdm6dQZ1pGUrnVEW0Mrp02mA6ToaWud1KX8XoxDAy8BwMy6s/4+aE734SLsSlKis26S6cZLPiPDGjH+ogQFR0pn1Ya2AVxCwEUSPCPTzww0kAy+4sgfCY9DuALWt9U7rMh4znDa4c5k/h0v7gj6HKazcZRM5/3MyRO9Y9lq/x8GjorvAyUm26Qy+uJyjTD2gcgMQY8Ko6ygMLWeLd/b8b/IC41xbb++Cb/YvFNGuGXSrkRqi3qdgR55u3yjglyKbtDpxFtZ9aYF62xc/yNeuB6LeGXnrIevR0LHASz2hSLaoghuDL4FaAVfJuNs82BPxAEjLphdFpgowjc63kwb//R+b98DardHkmS9JFnd01aiAXzR2rSvsc7x4X6R4nqZrbnkNPBjJB2BeU9+RteAS/MEQJ8T0hsehYSmgQRe2ksa14tg==;q7yfo4exAUSa3UfInUR6Ug=="
 ---

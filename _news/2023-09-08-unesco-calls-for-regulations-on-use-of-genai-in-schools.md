@@ -25,22 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Tencent latest to join China's GenAI race with foundation model for enterprises"
-    excerpt: "Called Hunyuan, Tencent's foundation AI model is available for Chinese organziations to test and build their own applications."
-    publishedDateTime: 2023-09-08T09:01:00Z
-    webUrl: "https://www.zdnet.com/article/tencent-latest-to-join-chinas-genai-race-with-foundation-model-for-enterprises/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/tencent-latest-to-join-chinas-genai-race-with-foundation-model-for-enterprises/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tencent-latest-to-join-chinas-genai-race-with-foundation-model-for-enterprises/"
+  - title: "UNESCO trains Indonesian Teachers on AI Ethics"
+    excerpt: "UNESCO held an Ethics Teachers Training Course (ETTC) focused on AI ethics in Yogyakarta, in collaboration with the University Gadjah Mada.The interactive event brought together 30 participants from v"
+    publishedDateTime: 2023-09-10T05:45:00Z
+    webUrl: "https://indiaeducationdiary.in/unesco-trains-indonesian-teachers-on-ai-ethics/"
+    ampWebUrl: "https://indiaeducationdiary.in/unesco-trains-indonesian-teachers-on-ai-ethics/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/unesco-trains-indonesian-teachers-on-ai-ethics/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 74
     images:
-      - url: "https://www.zdnet.com/a/img/resize/0c19a1df65ed28c065d3b48a1be0878897b01cb9/2022/01/13/9eafb7e5-f1f9-4369-a375-256b197f5a21/shutterstock-1732038682.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
+        width: 534
+        height: 462
         isCached: true
+  - title: "Governments Must Quickly Regulate Generative Ai In Schools, Unesco"
+    excerpt: "designed to address the disruptions caused by Generative AI technologies. Building on UNESCO's 2021 Recommendation on the Ethics of Artificial Intelligence and the 2019 Beijing Consenon Artificial Intelligence in Education , the guidance promotes human ..."
+    publishedDateTime: 2023-09-08T19:43:00Z
+    webUrl: "https://menafn.com/1107035192/Governments-Must-Quickly-Regulate-Generative-Ai-In-Schools-Unesco"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
 
 secured: "qOtGgkhZYqjgeY6E2MILMcW8FY0LnO2eoXWf2V7U5zpZXfoxaJmrj6o6SAcFC77ZoxBX20NcFGeMsv/1ql6jwyyttMyJvtb/2+Ihf4ZBQMTXi4xiM3j0IYUTLBRu4TcRlDGnCANQfGBkb4HjsXR5KrAfeX6oEWn4MxYv54VwZ8DXK6uEMD0mrvl3uMwP/cSXVkPLyrTTd2cd+Y3N4q7/HCJlHiDIEu5FxP5K/62QBYqPZ3cUXVytfBxBNq17+Q2cOJLwA+tg1yDWap78ZtaWnlqNADrOvXSlE28uIx/YsxFMk5/ywg0n1zy+gaO6gTzPchdwKc4ftao95cErVJaMBOjFqZI+tLe4TWvzzm1oQQw=;pi5PtX6a+WKBrDwu83W24g=="
 ---

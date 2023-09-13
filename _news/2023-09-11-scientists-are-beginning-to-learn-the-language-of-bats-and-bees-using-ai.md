@@ -25,138 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "What technology analysts are saying about the future of generative AI"
-    excerpt: "According to 2023 research, most people are concerned about the implications of generative AI on data security, ethics, and bias. In fact, 81% of customers want a human to be in the loop, reviewing and validating generative AI outputs. A mere 37% of ..."
-    publishedDateTime: 2023-09-08T08:36:00Z
-    webUrl: "https://www.zdnet.com/article/what-analyst-are-saying-about-the-future-of-generative-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/what-analyst-are-saying-about-the-future-of-generative-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-analyst-are-saying-about-the-future-of-generative-ai/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/2f08899a4acb2e57b5ed4ba56a04c7532b14368f/2023/09/07/f61c50b3-818b-46f4-b2f4-d50361e42604/gettyimages-1648872451.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Three Ways To Prepare For The AI-Enabled Future"
-    excerpt: "Technically speaking, AI can and probably will replace many professions. Compared to a human, AI is faster and smarter. AI can complete a task in seconds that would take a human artist weeks. When creating text, AI-generated content may still need editing or proofreading today, but give it time."
-    publishedDateTime: 2023-09-08T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/08/three-ways-to-prepare-for-the-ai-enabled-future/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/08/three-ways-to-prepare-for-the-ai-enabled-future/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/08/three-ways-to-prepare-for-the-ai-enabled-future/amp/"
+  - title: "AI Demands A New Kind Of In-The-Job Learning"
+    excerpt: "As AI takes the work world by storm, Learning & Development as usual isn’t going to cut it. Here is what L&D leaders can do about it."
+    publishedDateTime: 2023-09-12T14:43:00Z
+    webUrl: "https://www.forbes.com/sites/allisondulinsalisbury/2023/09/12/ai-demands-a-new-kind-of-in-the-job-learning/"
+    ampWebUrl: "https://www.forbes.com/sites/allisondulinsalisbury/2023/09/12/ai-demands-a-new-kind-of-in-the-job-learning/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/allisondulinsalisbury/2023/09/12/ai-demands-a-new-kind-of-in-the-job-learning/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/60a3d454598e7ff4af15615b/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64ff63bec81f6ac3566445ba/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "How generative AI changes IT operations"
-    excerpt: "Generative AI can provide valuable analysis and insights to IT operators. But what about data security, reliability, workflow integration, and the conditions needed for successful deployment?"
-    publishedDateTime: 2023-09-11T09:34:00Z
-    webUrl: "https://www.infoworld.com/article/3706370/how-generative-ai-changes-it-operations.html"
-    ampWebUrl: "https://www.infoworld.com/article/3706370/how-generative-ai-changes-it-operations.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706370/how-generative-ai-changes-it-operations.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
-    images:
-      - url: "https://images.idgesg.net/images/article/2018/02/artificial_intelligence_ai_virtual_assistant_machine_learning_autonomous_automation_virtual_reality_vr_digital_mind_brain_thinkstock_892854798-100749920-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Move over AI, quantum computing will be the most powerful and worrying technology"
-    excerpt: "While short-term projections about quantum computing might be overhyped, the long-term outcomes are likely to be game-changing."
-    publishedDateTime: 2023-09-10T23:07:00Z
-    webUrl: "https://venturebeat.com/programming-development/move-over-ai-quantum-computing-will-be-the-most-powerful-and-worrying-technology/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 66
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/annevb_quantum_sensors_and_robotics._Colorful_futuristic_tech_81265ed8-1888-44a7-b3de-91845c435505.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Oracle expects data-hungry generative AI to drive revenue growth"
-    excerpt: "“Generative AI is changing everything. As of today ... Oracle also plans to expand its existing multicloud partnership with Microsoft by making it easier for Microsoft Azure customers to buy and use Oracle cloud database technology in combination ..."
-    publishedDateTime: 2023-09-12T11:00:00Z
-    webUrl: "https://www.cio.com/article/652022/oracle-expects-data-hungry-generative-ai-to-drive-revenue-growth.html"
-    ampWebUrl: "https://www.cio.com/article/652022/oracle-expects-data-hungry-generative-ai-to-drive-revenue-growth.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/652022/oracle-expects-data-hungry-generative-ai-to-drive-revenue-growth.html/amp/"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 59
-    images:
-      - url: "https://www.cio.com/wp-content/uploads/2023/09/larryellison-100443445-orig-100938366-orig.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 681
-        isCached: true
-  - title: "AI, Liquid Cooling And The Data Center Of The Future"
-    excerpt: "Challenges exist to scaling AI, and among the most significant are those involving the data center infrastructure necessary for supporting these workloads."
-    publishedDateTime: 2023-09-11T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/ai-liquid-cooling-and-the-data-center-of-the-future/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "Harnessing AI And ChatGPT Technology: The Next Industrial Revolution"
-    excerpt: "The future is here—let's embrace it and drive the industrial revolution of tomorrow. And remember: Be Courageous! Be Digital! Be Remarkable!"
-    publishedDateTime: 2023-09-12T13:16:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/12/harnessing-ai-and-chatgpt-technology-the-next-industrial-revolution/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "State laws are putting AI in the driver’s seat"
-    excerpt: "Are you riding alongside driverless vehicles in your state? TruckInfo.net analyzed legislation across the U.S. to make sense of the range of laws."
-    publishedDateTime: 2023-09-11T15:31:00Z
-    webUrl: "https://www.sacbee.com/news/business/article279208249.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 19
-  - title: "The Download: combating covid, and the challenges of governing AI"
-    excerpt: "Deciding how to regulate AI is one of the biggest challenges facing politicians and experts alike. On September 12 we’re holding the second MIT Technology Review Roundtable: a 30-minute conversation with our writers and editors—and this one’s all about governing AI."
-    publishedDateTime: 2023-09-08T12:10:00Z
-    webUrl: "https://www.technologyreview.com/2023/09/08/1079233/the-download-combating-covid-and-the-challenges-of-governing-ai/"
+  - title: "Robots that learn as they fail could unlock a new era of AI"
+    excerpt: "In effect, Pinto is hoping to give robots their large-language-model moment. In doing so, he could help unlock a whole new era in AI. “There’s this idea that the reason we have brains is to move,” he says. “It’s what evolution primed us to do to survive, to find food."
+    publishedDateTime: 2023-09-12T10:38:00Z
+    webUrl: "https://www.technologyreview.com/2023/09/12/1078360/lerrel-pinto-home-robots-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2023/09/12/1078360/lerrel-pinto-home-robots-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/12/1078360/lerrel-pinto-home-robots-ai/amp/"
     type: article
     provider:
       name: MIT Technology Review
       domain: technologyreview.com
-    quality: 17
-  - title: "Gathering the news for the AI-powered future"
-    excerpt: "The bottom line: AI-generated news content is coming. The death toll from the powerful earthquake that hit Morocco late Friday surpassed 2,000 on Saturday as rescue workers raced to find survivors, state media reported, citing the country's Interior Ministry."
-    publishedDateTime: 2023-09-10T13:02:00Z
-    webUrl: "https://www.axios.com/2023/09/10/infobot-ai-news"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 17
-  - title: "MLCommons Releases New MLPerf Results that Highlight Growing Importance of Generative AI and Storage"
-    excerpt: "Submitters include: ASUSTeK, Azure, cTuning, Connect Tech ... and optimizing storage for machine learning applications, as well as for designing next-generation systems and technologies. Training neural networks is both a compute and data-intensive ..."
-    publishedDateTime: 2023-09-11T16:29:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230911417519/en/MLCommons-Releases-New-MLPerf-Results-that-Highlight-Growing-Importance-of-Generative-AI-and-Storage"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 4
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/08/230705_TR35_LerrelPinto_058.jpeg?w=1500"
+        width: 1500
+        height: 2000
+        isCached: true
 
 secured: "bOxG+sN7FIkEqCZQ5JfcJoTVd4EW9dy7LpA5gRa7o5/TWQcys1NrkQy9py9g91TWmYbQN/U4rFfIY2dbPENkCg2iqltGOA/FDq01nfac3PwEd9b5PR/ZfFCSBh20TP6dW4oXWaWzulS8unsR2P0JX1hi73ZN95FMUIkiCeXQ6VTcDFL7ywdjp8EhW/N1Xny4d3usGrODV06jZmV9I1N4gYQGDRr9xgxCoZoEfTJR5TA0W8ffoMfN02mA0ld9UHspjT7bFk27z5dp4bbNFo7DYIXhVSpM164JTRPGfcXBmFur2V+YHonIwFeiQR3m0e5XQ9dl7SRBKiddDzF8B0xdixYUdKZTdauqzc3EbfN2474=;L8PNsx2GxdRBEqnO83gOQA=="
 ---

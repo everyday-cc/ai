@@ -193,6 +193,58 @@
       ]
     },
     {
+      "path": "_news/2023-09-08-can-empathy-boost-customer-service-levels-in-banking.md",
+      "title": "Can Empathy Boost Customer Service Levels In Banking?",
+      "excerpt": "While empathy in banking isn’t new and it has been benefitting financial ... engagement and better service levels in banking. In fact, new tech – cloud platforms and new data tools like Artificial Intelligence and Machine Learning are empowering ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sap/2023/09/07/can-empathy-boost-customer-service-levels-in-banking/",
+      "originalUrl": "https://www.forbes.com/sites/sap/2023/09/07/can-empathy-boost-customer-service-levels-in-banking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64fa0ece32f53f146873b636/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 783,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-07T11:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-07-bank-of-america-securities-remains-a-sell-on-c3ai-ai.md",
       "title": "Bank of America Securities Remains a Sell on C3ai (AI)",
       "excerpt": "In a report released yesterday, Bradley Sills from Bank of America Securities reiterated a Sell rating on C3ai (AI – Research Report),",
@@ -1228,49 +1280,6 @@
       "provider": {
         "name": "Mena FN",
         "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-18-the-machine-economy-and-the-convergence-of-web3-ai-and-fintech.md",
-      "title": "The Machine Economy and the Convergence of Web3, AI and Fintech",
-      "excerpt": "Humans, software machines, and our ever-evolving hybrids are connected through fintech financial networks and anchored to blockchains. Digital production, powered and accelerated by generative AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.coindesk.com/consensus-magazine/2023/08/16/the-machine-economy-and-the-convergence-of-web3-ai-and-fintech/",
-      "originalUrl": "https://www.coindesk.com/consensus-magazine/2023/08/16/the-machine-economy-and-the-convergence-of-web3-ai-and-fintech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.coindesk.com/resizer/JOrjM9OPnYjbZa7YfM1INBhcvAI=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/PXVXPW2XQ5EJBNK7TVP3IQWPYM.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.coindesk.com/consensus-magazine/2023/08/16/the-machine-economy-and-the-convergence-of-web3-ai-and-fintech/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/consensus-magazine/2023/08/16/the-machine-economy-and-the-convergence-of-web3-ai-and-fintech/?outputType=amp",
-      "publishedDateTime": "2023-08-18T06:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinDesk",
-        "domain": "coindesk.com",
         "images": null,
         "publishers": null,
         "authors": null

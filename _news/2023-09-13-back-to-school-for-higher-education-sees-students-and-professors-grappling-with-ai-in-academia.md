@@ -75,21 +75,21 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "My 5 favorite AI tools for school: Class is in session, and generative AI can help"
-    excerpt: "During last year's back-to-school season, ChatGPT had not yet been unveiled, and generative AI wasn't on everyone's radar. However, today, the topic is more popular than ever, and new helpful AI tools for students are released daily."
-    publishedDateTime: 2023-09-08T07:26:00Z
-    webUrl: "https://www.zdnet.com/article/my-5-favorite-ai-tools-for-school-class-is-in-session-and-generative-ai-can-help/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/my-5-favorite-ai-tools-for-school-class-is-in-session-and-generative-ai-can-help/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/my-5-favorite-ai-tools-for-school-class-is-in-session-and-generative-ai-can-help/"
+  - title: "Guide to Artificial Intelligence ETFs"
+    excerpt: "Robots and artificial intelligence (AI) are increasingly gaining precedence in our daily life. The pandemic-driven stay-at-home trend made these more important as we have become more dependent on ..."
+    publishedDateTime: 2023-09-08T16:21:00Z
+    webUrl: "https://247wallst.com/investing/2023/09/07/guide-to-artificial-intelligence-etfs/"
+    ampWebUrl: "https://247wallst.com/investing/2023/09/07/guide-to-artificial-intelligence-etfs/"
+    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/investing/2023/09/07/guide-to-artificial-intelligence-etfs/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 81
+      name: 24/7 Wall St
+      domain: 247wallst.com
+    quality: 59
     images:
-      - url: "https://www.zdnet.com/a/img/resize/949a661a78ead34fee854ac7a7d758e36b74306a/2023/09/07/1c6fb698-f446-4f99-87ef-04b1c12e5445/gettyimages-1467277901.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://247wallst.com/wp-content/uploads/2019/01/robot_icon.jpg"
+        width: 1366
+        height: 768
         isCached: true
   - title: "How To Stay Afloat In The AI Surge"
     excerpt: "AI isn’t just a fleeting trend – AI is becoming more and more intertwined with our workflows. This rapid evolution offers immense technological benefits but has also introduced considerable challenges,"

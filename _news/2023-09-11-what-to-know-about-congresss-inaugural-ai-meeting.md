@@ -45,13 +45,18 @@ related:
         isCached: true
   - title: "3 AI Chip Stocks to Buy Instead of the Arm IPO"
     excerpt: "and it has shipped over 250 billion chips to date. Part of the catalyst behind the IPO is to raise cash for investments in artificial intelligence (AI), where Arm hopes to compete with chip design rivals like Nvidia (NVDA). So if you're looking for an ..."
-    publishedDateTime: 2023-09-12T19:16:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-ai-chip-stocks-to-buy-instead-of-the-arm-ipo"
+    publishedDateTime: 2023-09-12T23:49:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/commodities/VIX22/pressreleases/20200102/3-ai-chip-stocks-to-buy-instead-of-the-arm-ipo/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 54
+    images:
+      - url: "https://barchart-news-media-prod.aws.barchart.com/EXCLSV/c69ca1a5513c06e5b38374952eed56f7/nliok12k82ja8jdo.png"
+        width: 790
+        height: 739
+        isCached: true
 
 secured: "h2fH5Lzv69rJAYq/WI5UkzLC4zkb3kc5cbrppnUerOhTeV2dclda863sIaxt76AtvcBbx/FhrIATdsxaq2aLHyFl9aC8pIY9mbXgNbCRbFtkG9wi6nLy5lwZQyrTT7gyTIunETkDD3MG/Wr5H7b3C1WWMbQVzPzSiP++r/wCJ+DFubMFs5ld+p7k90DNoysnKBmcMMmP4zEHY9l1C6VYyl0KP+tQabz45siMiU3Wgi9m1sNJ7JMk83MeivL79anmPO3ecdg4hIUYk0Lhk60fwu4xHkw60EefIH0kao21u0aYTkpHi4k1+DiuXDJqCUoVmNd2wRz2rTwLpNVfPaKURl2oJZpYYyWEgPV81wFqIKQ+khP7kVymhmV/oYLo4VCZ/Kho2k8T8n/UImsGc6uWSHK3KkyCi8/0XGHHieHUQahSEM7GKV04cac9yj9neJ2+J3JAVhMkgMlxyGVP8XlNY3mEhhrPsFLuccV1qQwAwcURkSLROsiGb9ZM7ttjCL/n5YQwIwRZsJC6XtZsS5bCCw==;LVIyNHrPBuFVp8ktyIgzeA=="
 ---

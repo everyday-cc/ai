@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "Reliance Partners NVIDIA To Develop Large AI Language Model For India"
+    excerpt: "Reliance's Jio Platforms Limited has partnered with chip designer major NVIDIA to construct an advanced cloud-based AI computing infrastructure"
+    publishedDateTime: 2023-09-08T10:44:00Z
+    webUrl: "https://inc42.com/buzz/reliance-partners-nvidia-to-develop-large-ai-language-model-for-india/"
+    ampWebUrl: "https://inc42.com/buzz/reliance-partners-nvidia-to-develop-large-ai-language-model-for-india/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/reliance-partners-nvidia-to-develop-large-ai-language-model-for-india/amp/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 59
+    images:
+      - url: "https://cdn.inc42.com/wp-content/uploads/2023/04/cloud-social.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "NVIDIA Helps India Achieve AI Dominance: After Reliance, Pens Deal With Tata"
     excerpt: "As per the partnership, Tata Communications and NVIDIA will create an AI cloud in India to offer critical infrastructure to drive computing's next lifecycle. The companies will jointly build an AI supercomputer powered by the NVIDIA's GH200 Grace Hopper Superchip to boost performance."
     publishedDateTime: 2023-09-08T16:56:00Z
@@ -91,6 +107,15 @@ related:
         width: 2560
         height: 1536
         isCached: true
+  - title: "Jio, Nvidia partner to build AI Cloud infrastructure in India"
+    excerpt: "Jio Platforms and Nvidia have partnered to build a cloud-based AI infrastructure in India. The collaboration aims to accelerate AI development efforts"
+    publishedDateTime: 2023-09-08T12:49:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/jio-nvidia-partner-to-build-ai-cloud-infrastructure-in-india/articleshow/103512248.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 19
 
 secured: "TP2p2pHYKOZbC3wd6fzg6fYhgS93imyjfUnnPf3peIbEZRRFo9tohUl9tHe5cTr0vE0s+lGwu4bBzP7/6ux39k9fdiBd8zLmnmPLZmo37usKEFoHsUlcryW/zCC0YnXLmGqxs8+d5HlF57mqUHYA4r3naEP1zAKiY15Qj382K6vCsmuXrYVqZF1QAPnklp83IPaU5PokY4KQ3l2YYXv974hHNTwiuXEHtpLdwVRrKABWPPTAg5H6y/uRzklyrgQWeruhRz5A3AyJMbStcAGa+/mOmw6IYq369adrPSyf75pO4pgkXdyO18Plv/4+FnKDWQikvnDjh3DVys+Im/zSLKp7CZfgaV1wF9hAaHbGZHU=;th3cQEK+GmOU47xIDFqn+Q=="
 ---

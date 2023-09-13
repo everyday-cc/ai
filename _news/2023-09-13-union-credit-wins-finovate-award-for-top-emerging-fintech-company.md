@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Union Credit wins Finovate award for Top Emerging Fintech Company"
-excerpt: "Union Credit, the first marketplace for credit unions to make firm, one-click credit offers at the point of purchase, wins 2023 Finovate award for Top"
-publishedDateTime: 2023-09-12T22:00:00Z
-originalUrl: "https://www.cuinsight.com/press-release/union-credit-wins-finovate-award-for-top-emerging-fintech-company/"
-webUrl: "https://www.cuinsight.com/press-release/union-credit-wins-finovate-award-for-top-emerging-fintech-company/"
+title: "Union Credit Wins Finovate Award for Top Emerging Fintech Company"
+excerpt: "Fintech startup recognized for marketplace of trusted lenders ... Union Credit also formed a key partnership with Zest.ai, to allow credit unions to leverage the Zest model to extend fairer and more inclusive credit access to all consumers."
+publishedDateTime: 2023-09-12T17:32:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/09/b34498188/union-credit-wins-finovate-award-for-top-emerging-fintech-company"
+webUrl: "https://www.benzinga.com/pressreleases/23/09/b34498188/union-credit-wins-finovate-award-for-top-emerging-fintech-company"
+ampWebUrl: "https://www.benzinga.com/amp/content/34498188"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34498188"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: CUInsight
-  domain: cuinsight.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
-    width: 792
-    height: 266
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
 related:
@@ -42,6 +44,6 @@ related:
         height: 675
         isCached: true
 
-secured: "IKXFxrqXIPn6kFORVHbTGImeB3CdXGB5OdJcq+Kj4kbuqTYlLdQFpg2rstk3RmtAV/bS6TyNVDkXXc2O2K800i9leWWWwUIHuJaYhbrLnbHrr76vMIWjeTaDWAKYsGnQy2LExf1oYqsk2e/JtL6vdVspOHfi39zQ4YhKqsaf4YFB9sGXcEZ5n4hMY4MYuMv+fasBTwOJuRsYeyJzK58FEEiZKkfM8tos57VA4rKrBUqmVbl08P3f/87WBqxAKJuDjOviGP5rCvHGsb5QkjmsrhbtA5YwMXpuOhDNh1mJLvV3k6NS019BVf6NTtZCqNeETk8iFx7mFezbFEV0okw1V4zFNpS/PjKd9UrUkLWmfkE=;bhpxW7LUjv7zgttT5/KGJw=="
+secured: "Slf9PiccFL32Izjv34nV3guF9352OPydBfOODl5yR+TQJhXypJIidQ5dL60lDfoPT0kbxaxA1Gfkb0dB4e5ko/l1SyFriHqpSH1PUvDTq6VVlO37wASgia8CXz/XcdjcByUWphq3ErgeXH3ZRIktwNiJriDPvkttbQnELiS/Klh3/1qTWg+y25Zc/+IHOdO60c+63b7U+0eLtEg3z72NjnwaSs3I7btahRJyYeGq6PPmItBMC9fQ3mXKXeHs/QTiMoZkx5iB9mbCnmdOdkN/QflRDgKCkx0gvFw/kghl5gHuV9fR6X258Rh7mxXPl0Z6HEVED3oOWd1sK4F3ORxWA25OkKZZi/QkEYIjkDwxOzA=;qOqm4B0wt3qiNFyUPOh3VQ=="
 ---
 

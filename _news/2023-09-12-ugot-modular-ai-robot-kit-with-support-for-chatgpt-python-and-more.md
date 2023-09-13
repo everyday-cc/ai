@@ -212,6 +212,15 @@ related:
         width: 2400
         height: 1200
         isCached: true
+  - title: "Harnessing AI And ChatGPT Technology: The Next Industrial Revolution"
+    excerpt: "The future is here—let's embrace it and drive the industrial revolution of tomorrow. And remember: Be Courageous! Be Digital! Be Remarkable!"
+    publishedDateTime: 2023-09-12T13:16:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/12/harnessing-ai-and-chatgpt-technology-the-next-industrial-revolution/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Forget ChatGPT—Law Firms Are Launching Their Own Gen AI Chatbots"
     excerpt: "What a growing number of law firms have realized is that they can safely allow their lawyers to experiment with the underlying generative AI models—so long as it is through their own proprietary chatbots."
     publishedDateTime: 2023-09-08T21:27:00Z
