@@ -64,24 +64,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 18
-  - title: "After Reliance, Tata Group set to announce AI partnership with NVIDIA: Report"
-    excerpt: "Hours after billionaire Mukesh Ambani-led Reliance Industries Limited on 8 September announced to partner with US-based chipmaker NVIDIA, reports arrived that Tata Group is set to announce an AI partnership with the same US chipmaker. An announcement is expected later in the day, reported Reuters citing a source."
-    publishedDateTime: 2023-09-08T12:49:00Z
-    webUrl: "https://www.livemint.com/companies/news/after-reliance-tata-group-set-to-announce-ai-partnership-with-nvidia-report-11694177201093.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 16
-  - title: "Reliance Jio collaborates with Nvidia for AI infrastructure; hints at a possible homegrown generative AI"
-    excerpt: "Reliance Jio partners with Nvidia to set up cloud-based AI infrastructure in India. The partnership will enable researchers, developers, startups, scientists, AI practitioners, and others to access accelerated computing and secure cloud networking."
-    publishedDateTime: 2023-09-08T12:45:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/reliance-jio-collaborates-with-nvidia-for-ai-infrastructure-hints-at-a-possible-homegrown-generative-ai/article67284725.ece"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 2
 
 secured: "2jVhuq+I/0KM+oZT/SXofuUvCtFlwu7vjt4YFfs/hl/5y0H96v+LnrasiPdLjocsoa8rI2/mt1P5wcfOJgd3UyF9PL8k6wvBvYiNSFLQlSrKW8S+AiCkYpy+YJ10kMb/n+FPJ0qMBNyvp5ioGVTWEpfPuIVY4wwdadN2yync197zhEn2ySEHbOn8Cyy0oJgZnzVAuu9Rx5mEN3CG0mAPf9Hdprduk13vCg1Bmn5K5VsgMFJvBZEhfSWbUQAL8hG3FzTGlK4JIfjwteWpn0RoWeRY5TyPQVr//Cgwgouy6FwrZ3j8/pkEueq2x0SnaeYzw/OwaIyPXfQLzhAUwIKOJjN0EZcWdETafsPnaxyHeGV3IZYZqeyu8jhhkC0qe3+yMDtpiBJ7LyeAe7SA4FmmyQZwZUzrgf5CuIQct1/9Wkf9ZuGq3C2Ypx+eBSKFSUhjIaORW0FqDXyVhrFg1F5xh63W5BeF+dPjolHEF3YpuvWxZxL7rxwRhYD4jAKrPH3KNwprYepF5GKQ4RZNYEEC0w==;NIt14rmAPFTk0ryLmwfKyQ=="
 ---

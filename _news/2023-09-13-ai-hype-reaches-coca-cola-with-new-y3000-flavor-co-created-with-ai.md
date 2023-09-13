@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/09/ai-hype-reach
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/ai-hype-reaches-coca-cola-with-new-y3000-flavor-co-created-with-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:

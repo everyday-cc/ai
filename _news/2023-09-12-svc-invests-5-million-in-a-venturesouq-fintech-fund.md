@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Saudi Venture Capital invests $5m in VentureSouq FinTech fund"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-09-13T04:35:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/saudi-venture-capital-invests-5m-in-venturesouq-fintech-fund/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/05/MicrosoftTeams-image-187.png"
+        width: 600
+        height: 500
+        isCached: true
   - title: "FinTech GenTwo raises $15m Series A led by Point72 Ventures"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-09-11T12:13:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/india/as-distance-from-china-grows
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/india/as-distance-from-china-grows-india-us-work-on-tech-projects-chips-to-ai-8931140/lite/"
 type: article
 quality: 71
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -87,15 +87,6 @@ related:
         width: 2560
         height: 1536
         isCached: true
-  - title: "Jio, Nvidia partner to build AI Cloud infrastructure in India"
-    excerpt: "Jio Platforms and Nvidia have partnered to build a cloud-based AI infrastructure in India. The collaboration aims to accelerate AI development efforts"
-    publishedDateTime: 2023-09-08T12:49:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/jio-nvidia-partner-to-build-ai-cloud-infrastructure-in-india/articleshow/103512248.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 19
 
 secured: "DlSmA7Vd3Pj6cmNRxqGrszJCIBhqUC6ybZGMKVkPahYvACSAg5CGqMB1iqowiqb8NwiUrqzJr0tZ7W12zeCXV64CscUiWP0qPzhcMqgrak4Q8d4E6BnSKvRhptYfFeryLG2WOHhVtDT/BbAlF709f23WgXOB1snQpSdvpJawgi7wMJhNI0tuVUAozAdtOu+RnfKWVdFF+R2o2tKJrFkLe0LlRPzqi51PhWQwvNXLomTRt3+6xEBkuwEszPEvgtitNOqTstOqrhto/FtPyVvEE2o0iz2h/BVTDKNTTx7j9TLEHH6cf7UiZ2+e/gNGDbPhpAw1W4FyXh/eAAqsii+yq3Tx99c0qRlgSetFwolckNRtkp0FhFnf26bARaeyL98H/xz5yULOCY3Y9brDmmRpVWKNL5wK78W7Cg72Aa3scXUGxcKwdFX2W0EKOF101PCi8UaRTTIRYug2Y43jTSutnJ+DDko2sT5rfOkIYSPfX/TaiABUk5DLjpQ/BCUYRop3KfkRE29HA4Vwy6UoMa8K3g==;UKl5iBLcgCrUZqeBTF2hxw=="
 ---

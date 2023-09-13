@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbctv18.com/technology/nvidia-tata-group-work-on-ai-com
 cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/nvidia-tata-group-work-on-ai-computing-infrastructure-platform-gh200-grace-hopper-superchip-17755921.htm/amp"
 type: article
 quality: 56
-heat: 106
+heat: 86
 published: true
 
 provider:
@@ -64,24 +64,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 18
-  - title: "After Reliance, Tata Group set to announce AI partnership with NVIDIA: Report"
-    excerpt: "Hours after billionaire Mukesh Ambani-led Reliance Industries Limited on 8 September announced to partner with US-based chipmaker NVIDIA, reports arrived that Tata Group is set to announce an AI partnership with the same US chipmaker. An announcement is expected later in the day, reported Reuters citing a source."
-    publishedDateTime: 2023-09-08T12:49:00Z
-    webUrl: "https://www.livemint.com/companies/news/after-reliance-tata-group-set-to-announce-ai-partnership-with-nvidia-report-11694177201093.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 16
-  - title: "Reliance Jio collaborates with Nvidia for AI infrastructure; hints at a possible homegrown generative AI"
-    excerpt: "Reliance Jio partners with Nvidia to set up cloud-based AI infrastructure in India. The partnership will enable researchers, developers, startups, scientists, AI practitioners, and others to access accelerated computing and secure cloud networking."
-    publishedDateTime: 2023-09-08T12:45:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/reliance-jio-collaborates-with-nvidia-for-ai-infrastructure-hints-at-a-possible-homegrown-generative-ai/article67284725.ece"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 2
 
 secured: "wswf4wo+w8AQPxU8KwwhZgdsBCzHaIlWE/Z1qYQYVqGXNTpvtw1jBn4cUbDrVKcQXSMnI+v+lMG9LbP/TV6N384xz4B2Av83ZPcnf+Vmy9DSfw3ty6mr0ko872pu029Ar+6c4reTC5j36PgO2iHXtQoENkBi4AwgM2DXG3e+wOP2ypvsuYNSK+ppvCasJiBoXBpKoxnxwhhYx4j8VgiQhi72C14u3u6iTCgfLd/xeBlUQLULb6Ag8XgUChnAl5CjYMIaivfPFfZTXMhb8/PlNZ8bJ3x1HNX/NUbuMVgJZWb+F+PCz/cMYq/ubNjfMEm/FmjJURKnwnvr+JennXaC7OTLLFn0wG22oWAfwO/PB38=;ydm7su5xg+Jc2RftDQItcA=="
 ---

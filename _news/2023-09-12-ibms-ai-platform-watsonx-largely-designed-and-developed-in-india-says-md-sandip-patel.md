@@ -71,15 +71,6 @@ related:
         width: 653
         height: 435
         isCached: true
-  - title: "IBM Watsonx open source Codeflare explained"
-    excerpt: "IBM has recently announced the launch of Watsonx, its latest AI platform offering a unique blend of AI and data platform that is specifically built for businesses. It comes with a set of AI assistants that are designed to help businesses scale and ..."
-    publishedDateTime: 2023-09-08T12:53:00Z
-    webUrl: "https://www.geeky-gadgets.com/ibm-watsonx/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 34
 
 secured: "x+SKFGrLLapv79ySiVMnsWD3z+fo9HIAunCpovRp0r8ysW+hHyAJ6ZhmzPsPMl5apyNM20YbZMtRzQkD5j7I2XKvkxscfoJmDGH/PvWengeYwHabGp9cOL/sU6M1Py4S8HiuPfXUTg12XKvsdgO9S8tojT5mnfArW1JKBSpmz6h+mdJllvSNUW08gsesaxbcgzCLyrroTlwjkVxuZCLLMaGrZ9xJftrwk5YJn4nAg/JGLP5QrqoMLje62fLc4QuUUcMczljpswj0haw/HEpTrC7AQhaCcO459UY1ohPCa7bLRbFF9WFB/bIP9cziWA+Ft/mCdNK5OMFIVAqneW80h2tVkwG1sZOeGRDb9AER1lM=;cmFAXNkti7WXCIzYkgheHw=="
 ---

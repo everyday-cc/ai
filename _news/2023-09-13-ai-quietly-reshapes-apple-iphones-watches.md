@@ -1,29 +1,29 @@
 ---
 category: news
 title: "AI quietly reshapes Apple iPhones, Watches"
-excerpt: "Unlike other companies that are attempting significant transformations with artificial intelligence, Apple is using the emerging technology to improve basic functions in its new gadgets. Without using the words \"artificial intelligence\" to describe the emerging technology,"
-publishedDateTime: 2023-09-12T21:09:00Z
-originalUrl: "https://www.aol.com/news/ai-quietly-reshapes-apple-iphones-210956437.html"
-webUrl: "https://www.aol.com/news/ai-quietly-reshapes-apple-iphones-210956437.html"
+excerpt: "Industry leaders have warned about the potential harms of the unchecked development of new tools such as generative AI. Apple built the Series 9 Watch with a new chip that includes improved data crunching capabilities, notably adding a four-core \"Neural ..."
+publishedDateTime: 2023-09-13T04:01:00Z
+originalUrl: "https://www.ksl.com/article/50729128/ai-quietly-reshapes-apple-iphones-watches"
+webUrl: "https://www.ksl.com/article/50729128/ai-quietly-reshapes-apple-iphones-watches"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: KSL
+  domain: ksl.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://media.zenfs.com/en/aol_reuters_29/ceba99c466956b03e20faabc283dead9"
-    width: 800
-    height: 533
+  - url: "https://img.ksl.com/slc/2947/294713/29471390.JPG?filter=kslv2/responsive_story_lg"
+    width: 1228
+    height: 690
     isCached: true
 
-secured: "cwF2c9k0kJlWIubGaPF0us4on7WOl2IDnztBpuIAcsQ4EbrqELKWcu4sk6qIrd/Yt1Qsz1EJ+sVN5xTAi6vKQPjNd4u+0XSAiQKvZNx6oCJSoqmxNWODSwLAbyD4xxpGJdSQ0I5oQuHTQebjHSaEwN4YsTfTOqpLgTcUsLWMqPy4vtATumAGW5q9WYLrmJb3sRGs0r/Dmq43xSZK113/QcgElc3RhYIGjCj9t3n084Pl+OS6OCu4RnEPPyB1bhhRCDy2tKIxNqWezCajEWaqdQe7ZDTh7BKtAUfN8vjviZCcHnEARy+PWxyur9bxy4onOMa/wV1kdV3p6QKHLWn7buGlxEMwCcTw8dy5YPk9Cc10OxdhJtFllIN+pvgMzUuQC1r263DKF5DGLE2rOxUwWLutP/Vucxr5JFOi975N88heshjobAk9DpLDTknMhQDHMjKF1FExsuh5Dgd7SQBOcVYe7gSyYJe1Nbkkt6GoHunfW0xq4UPpaJCzosbhBSE+4QY61FeeKe4PEIZSC/wMEQ==;YQLLkMh3/1s5ZJU2GNnGIg=="
+secured: "P5VaOMagwwNGXG2xf7O0AK/jJf/IwNR3t1xehu5GhFDshYp3T3/u5Hn4fAWzcwlTfj9hT/VvaXxGMDYBB62s/tCXr/fYZC/3OAbNFt7YCkJBK+Y1bsAPPMoXEqU8FSNHOXPcJE+uKz4+Bjf/gP3SSTIozNePB5gLem8b4OOlKpybzksZ5douWm2o2rUkSjyWiJiHcpuFFHRDdu1vSebPNmui6Y33EnkGxxX16hsTZtKfNUVwqeMZE7h9PvJxYXxG8+ioyxqT6WdJKd5Rm9gwB1rE3VzFXz3nAtCqG8t2C5phAUZikxOMFBpCTBulcQA51dGOR58QNWm6HMW5p3n5e9u7tJa09Rb4QlegWXwTebM=;q1IJ08BtjdlZFbDJXSznlQ=="
 ---
 

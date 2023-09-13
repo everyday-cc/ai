@@ -2,6 +2,102 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2023-08-15-miami-dade-college-will-once-again-host-artificial-intelligence-bootcamp-applications-closing-soon.md",
+      "title": "Miami Dade College Will Once Again Host Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!",
+      "excerpt": "MIAMI, Aug. 14, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Miami Dade College (Wolfson Campus) in Miami. Applications for the no-cost bootcamp are closing soon!",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/miami-dade-college-will-once-again-host-artificial-intelligence-bootcamp-applications-closing-soon-1032552838",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/miami-dade-college-will-once-again-host-artificial-intelligence-bootcamp-applications-closing-soon-1032552838",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-14T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-08-15-robomart-is-banking-on-store-hailing-to-bring-self-driving-stores-directly-to-customers.md",
+      "title": "Robomart is banking on ‘store-hailing’ to bring self-driving stores directly to customers",
+      "excerpt": "Los Angeles–based firm Robomart is announcing a $2 million seed round, putting its to-date funding at $3.4 million.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/14/robomart-is-banking-on-store-hailing-to-bring-self-driving-stores-directly-to-customers/",
+      "originalUrl": "https://techcrunch.com/2023/08/14/robomart-is-banking-on-store-hailing-to-bring-self-driving-stores-directly-to-customers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/08/Screenshot-2023-08-11-at-4.37.55 PM.jpg?resize=1200,659",
+          "width": 1200,
+          "height": 659,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/14/robomart-is-banking-on-store-hailing-to-bring-self-driving-stores-directly-to-customers/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/14/robomart-is-banking-on-store-hailing-to-bring-self-driving-stores-directly-to-customers/amp/",
+      "publishedDateTime": "2023-08-14T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-15-amazon-taps-generative-ai-to-enhance-product-reviews.md",
       "title": "Amazon taps generative AI to enhance product reviews",
       "excerpt": "Amazon will begin to leverage generative AI to help customers better understand what customers are saying about a product, without having to read dozens of individual reviews.",
@@ -1031,102 +1127,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-new-ibm-study-reveals-how-ai-is-changing-work-and-what-hr-leaders-should-do-about-it.md",
-      "title": "New IBM study reveals how AI is changing work and what HR leaders should do about it",
-      "excerpt": "Tomorrow may not be able to run with yesterday’s talent, and tomorrow’s talent may not be able be rely on yesterday’s ways of working. \nThe post New IBM study reveals how AI is changing work and what HR leaders should do about it appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/new-ibm-study-reveals-how-ai-is-changing-work-and-what-hr-leaders-should-do-about-it/",
-      "originalUrl": "https://www.ibm.com/blog/new-ibm-study-reveals-how-ai-is-changing-work-and-what-hr-leaders-should-do-about-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-14T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-leading-the-ai-revolution-best-practices-for-executive-leaders.md",
-      "title": "Leading The AI Revolution: Best Practices For Executive Leaders",
-      "excerpt": "Regardless of where you might be on the AI journey, it is a must-have conversation that includes leadership, executives and teams across the organization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/08/14/leading-the-ai-revolution-best-practices-for-executive-leaders/",
-      "originalUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/08/14/leading-the-ai-revolution-best-practices-for-executive-leaders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/640653232a8f09e0f7c603ac/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 660,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/08/14/leading-the-ai-revolution-best-practices-for-executive-leaders/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/08/14/leading-the-ai-revolution-best-practices-for-executive-leaders/amp/",
-      "publishedDateTime": "2023-08-14T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

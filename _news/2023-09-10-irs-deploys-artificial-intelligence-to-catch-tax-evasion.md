@@ -64,15 +64,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "IRS uses AI to step up audits of large partnerships"
-    excerpt: "The Internal Revenue Service is leveraging artificial intelligence to detect tax evasion as it uses the extra funding from the Inflation Reduction Act to ramp up compliance efforts."
-    publishedDateTime: 2023-09-08T13:00:00Z
-    webUrl: "https://www.accountingtoday.com/news/irs-uses-ai-to-step-up-audits-of-large-partnerships-corporations-and-wealthy"
-    type: article
-    provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 17
   - title: "IRS will use AI to crack down on wealthy potential tax violators"
     excerpt: "The IRS said Friday it leveraged AI to open investigations into 75 of the largest partnerships in the U.S. that each have more than $10 billion in assets on average."
     publishedDateTime: 2023-09-08T16:47:00Z

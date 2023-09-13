@@ -43,20 +43,6 @@ related:
         width: 1280
         height: 852
         isCached: true
-  - title: "California to set guidelines for public sector generative AI"
-    excerpt: "The state, which joins a growing number of governing bodies scrutinizing generative AI, will issue public sector usage guidelines by January."
-    publishedDateTime: 2023-09-08T11:44:00Z
-    webUrl: "https://www.ciodive.com/news/California-executive-order-generative-AI-Zoom-FTC/693012/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 39
-    images:
-      - url: "https://www.ciodive.com/imgproxy/A2J69zpCMgQaptSWvERjGTJUqgKmWsT0ccrh8tl2bEM/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0NjE0NDM3MTcuanBn.jpg"
-        width: 770
-        height: 435
-        isCached: true
   - title: "California Has a New Bill to Ban Self-Driving Trucks"
     excerpt: "California's Senate has passed a bill that would require the presence of a human safety operator whenever a self-driving truck is operating ... lot of the arguments that surround the rise of artificial intelligence across plenty of other industries."
     publishedDateTime: 2023-09-13T00:49:00Z

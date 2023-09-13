@@ -73,15 +73,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
-  - title: "IRS uses AI to step up audits of large partnerships"
-    excerpt: "The Internal Revenue Service is leveraging artificial intelligence to detect tax evasion as it uses the extra funding from the Inflation Reduction Act to ramp up compliance efforts."
-    publishedDateTime: 2023-09-08T13:00:00Z
-    webUrl: "https://www.accountingtoday.com/news/irs-uses-ai-to-step-up-audits-of-large-partnerships-corporations-and-wealthy"
-    type: article
-    provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 17
   - title: "Artificial intelligence among tools IRS will use for enforcement push"
     excerpt: "AI will be part of a new tax-enforcement effort that will target high-income earners, partnerships, and large corporations."
     publishedDateTime: 2023-09-12T12:12:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/09/11/ibm-takes-the-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/09/11/ibm-takes-the-reins-of-enterprise-ai-with-watsonx/amp/"
 type: article
 quality: 106
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -76,15 +76,6 @@ related:
         width: 653
         height: 435
         isCached: true
-  - title: "IBM Watsonx open source Codeflare explained"
-    excerpt: "IBM has recently announced the launch of Watsonx, its latest AI platform offering a unique blend of AI and data platform that is specifically built for businesses. It comes with a set of AI assistants that are designed to help businesses scale and ..."
-    publishedDateTime: 2023-09-08T12:53:00Z
-    webUrl: "https://www.geeky-gadgets.com/ibm-watsonx/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 34
 
 secured: "pcGgRIZ9IlU5tAL+Bn2De+zrMysyMEUvTuCH1bvWUuBdG3a/01WHdH+sXnMwI/H9NCr7CNvSqjMTldmrGGurwaBoahEe7BE/C79Tk6QLI0igw6beQ1VW4YfZpvkW/PU4FX5zq+vn7cioed1LU9qcvSlHCFYxw5LIn14unZnZgd2PX7czRb1j/Dw/lg7OIDLfd1Cm8sh9DPEXVHfrvRthNuyjZNbVeHI9wGiip56uYzl0O5lL3M9JCnqU68a+/x7+ASl5pTZW1ay0WYHW1pyyeAk+terPn5ifUOofpqom9wFroD+C3Y8OEQBDs6dP5ykFHh/p9VbDL+Q48oyHqFoPJta7wLRblryllEqJh5PBySHYoct1BGaY1HwMoOvA9yOUzvq6MVL3HFzJ9I/IyochSyttM92Uq++tnTBr5ybUyyfdqEAdQ6f1NoHbHArcAzs+us8LKEAqng8bG3tn32SGumxiB2ExmJO/mArMf6wN2Z0oAoe0v8ccl+VuMqmHDocT2700/ZSw5xNSbh8eytvhew==;Q6aUnWgqS6oKff9NIypylA=="
 ---

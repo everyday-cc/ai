@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/generative-ai-in-production-rethinking-
 webUrl: "https://venturebeat.com/ai/generative-ai-in-production-rethinking-development-and-embracing-best-practices/"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -22,15 +22,20 @@ topics:
   - AI
 
 related:
-  - title: "How Generative AI Will Rewrite DevOps Best Practices"
-    excerpt: "The full impact of GenAI on the DevOps processes of major enterprises is still in its infancy, but it will rewrite the best practices for software development."
-    publishedDateTime: 2023-09-08T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/08/how-generative-ai-will-rewrite-devops-best-practices/"
+  - title: "Bytes to Bites part one: Digitizing consumption insights. Leveraging AI in food product development"
+    excerpt: "AI is transforming everything from drug discovery to customer service. But what does it mean for the food industry? Peakbridge takes a look"
+    publishedDateTime: 2023-09-12T16:00:00Z
+    webUrl: "https://agfundernews.com/bytes-to-bites-part-one-digitizing-consumption-insights-leveraging-ai-in-food-product-development"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
+      name: Ag Funder News
+      domain: agfundernews.com
+    quality: 25
+    images:
+      - url: "https://agfundernews.com/wp-content/uploads/2023/09/Artficial-intelligence-in-food.jpg"
+        width: 699
+        height: 603
+        isCached: true
 
 secured: "j1ImkNAHMO7BmJ5YwrokFNtESWYrG1vCu66LGkMATeNTU9KsBUwUB2ZIurAm2XHEAwbQAY1+/o+7WqKXZtHsPK4NWAo6vW/cJ/y18q5iJcilXByIhFfsV7eftYqDqpgNxioBQ9V1tGYCwPFB6H2MokcQBq7uQ/gpJscvJAu+DNyxaRlXaCNLXQ16M6pk6xzzOjvA36iCMMVSh8qARRCcAZhH1jcpCUP1uJwiqBPk2Rz8ZsNyewUmYKt72q/7F34ocXOTlRLn0KFQm6qcMLxCuBKx2JpGRCNQiu43C3Xx0VXF6XXv0D+GsAKzXvpUq9vu8cD5i3iBmDCMTx4oNbo9EOzKqQnDIGzMmt/qQjiE34MeInSESCdC/iNgorTDWmmTQi7Jz4iDrUH7Pcg8Cm8CL6TZC+BEPKWtF7cPT7q3PvRAOfLiVGEyxPPxh7NzdV/MiPuQKAwc9jrLgyf6T9RKjfTGIbI/Pg5DY4E/BMUtOQaKEx9ZWyNfT9ydafvXS0MQxqjHtU7S5IS4bjxlfcCCNQ==;PvuPNSPINEjzR6r0QBqMNg=="
 ---

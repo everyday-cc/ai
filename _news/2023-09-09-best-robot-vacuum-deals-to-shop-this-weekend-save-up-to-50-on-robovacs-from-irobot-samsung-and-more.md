@@ -7,7 +7,7 @@ originalUrl: "https://www.cbsnews.com/essentials/best-robot-vacuum-deals-you-can
 webUrl: "https://www.cbsnews.com/essentials/best-robot-vacuum-deals-you-can-get-right-now-2023-09-08/"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "The best budget robot vacuums"
-    excerpt: "Few truly budget bots use the vSLAM (visual simultaneous localization and mapping) or lidar-powered navigation or mapping found on higher-end robots. Instead, the cheapest use the bump and roll technique, with more now adding a gyroscope function that at least makes them go in a straight line."
-    publishedDateTime: 2023-09-08T13:00:00Z
-    webUrl: "https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 49
 
 secured: "dSJLC47ve73XRlB7ZtTuGHAg6Ad8NOaAfUoa3lrB510Zg40plEGoe5Ie+xIeedD1qlUN5iBYyLTQ9PJhPsjE9ITrE8cGN4AU5ogOVH2D3V9FdJYsCyt+gfwu4TdeO24s32xAcpXi229K2ATmxGogBoAO36NzxW4MRI/Oi/FFHYiQYr7xWKi+Dl5O8e9Yppp0HjfvL3SVinC9mS/tV6T+5Zo7CN/WvHokQmwhZmEQfJ4+2rm3Pwc0klz2BX7LbYekM0QpHl45jF81UoD9ctjM/YNfiLkY26uMCQ1WoKbhET9iwdbx/COCDAs4HzIuVDYX5WFEYtk/S+oqQkCcXinflqhUDPJ7QVyiWY8NIWJfDbI=;G6GqzCswNNpmn8tOZGsDaQ=="
 ---

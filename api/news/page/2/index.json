@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-12-parle-products-extends-collaboration-with-ibm-over-cloud-and-ai-solutions.md",
+      "title": "Parle Products extends collaboration with IBM over cloud and AI solutions",
+      "excerpt": "IBM has announced the expansion of its collaboration with Parle Products, an Indian biscuit brand, to further the company’s digital transformation journey. By deploying cloud and artificial intelligence (AI) for business solutions,",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/digital-transformation-parle-products-extends-collaboration-with-ibm-over-cloud-and-ai-solutions-3241176/",
+      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-parle-products-extends-collaboration-with-ibm-over-cloud-and-ai-solutions-3241176/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-12T161744.255.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-parle-products-extends-collaboration-with-ibm-over-cloud-and-ai-solutions-3241176/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-parle-products-extends-collaboration-with-ibm-over-cloud-and-ai-solutions-3241176/lite/",
+      "publishedDateTime": "2023-09-12T03:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-12-15-projects-using-ai-to-reach-the-uns-global-goals.md",
       "title": "15 projects using AI to reach the UN’s Global Goals",
       "excerpt": "Google.org is funding 15 projects that will use AI to make progress on the UN’s Sustainable Development Goals.",
@@ -105,7 +148,7 @@
       "originalUrl": "https://www.reuters.com/technology/ai-chip-startup-enfabrica-raises-125-mln-with-backing-nvidia-2023-09-12/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -199,7 +242,7 @@
       "originalUrl": "https://phys.org/news/2023-09-california-firefighters-ai-wildfires.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -548,7 +591,7 @@
       "originalUrl": "https://www.entrepreneur.com/business-news/irs-uses-ai-to-fight-tax-evasion-millionaires-dodging-taxes/458884",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -599,7 +642,7 @@
       "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/09/11/ibm-takes-the-reins-of-enterprise-ai-with-watsonx/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -1171,59 +1214,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-how-salesforce-stock-nysecrm-can-thrive-from-the-ai-wave.md",
-      "title": "How Salesforce Stock (NYSE:CRM) Can Thrive from the AI Wave",
-      "excerpt": "Salesforce (NYSE:CRM) seems to be doubling down to gain a better position in the AI race. That much was clear after the company’s latest",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/how-salesforce-stock-nyse-crm-can-thrive-from-the-ai-wave-1032620810",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/how-salesforce-stock-nyse-crm-can-thrive-from-the-ai-wave-1032620810",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.tipranks.com/wp-content/uploads/2023/09/image-179.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-          "width": 778,
-          "height": 445,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-11T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

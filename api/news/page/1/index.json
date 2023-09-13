@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-13-alibaba-introduces-ai-model-to-public.md",
+      "title": "Alibaba Introduces AI Model to Public",
+      "excerpt": "Alibaba has launched its artificial-intelligence model, making it the latest Chinese company to tap the country’s fast-growing AI market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/tech/ai/alibaba-introduces-ai-model-to-public-bd120c33",
+      "originalUrl": "https://www.wsj.com/tech/ai/alibaba-introduces-ai-model-to-public-bd120c33",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-851207/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-12T21:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-13-robobusiness-nvidia-to-discuss-role-of-generative-ai-in-robotics.md",
       "title": "RoboBusiness: NVIDIA to discuss role of Generative AI in robotics",
       "excerpt": "We have seen a huge leap in the capabilities of Generative AI algorithms as demonstrated through ChatGPT, Stable Diffusion, and other algorithms. It is expected that Generative AI will also have a large impact on robotic reasoning, visual understanding, and physical execution abilities.",
@@ -10,7 +61,7 @@
       "originalUrl": "https://www.roboticsbusinessreview.com/ai/robobusiness-nvidia-to-discuss-role-of-generative-ai-in-robotics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -53,7 +104,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/09/ai-hype-reaches-coca-cola-with-new-y3000-flavor-co-created-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -575,7 +626,7 @@
       "originalUrl": "https://www.nbcnews.com/politics/congress/senators-voice-skepticism-leader-schumers-ai-summit-rcna104615",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -669,7 +720,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/09/12/simaai-creates-drag-and-drop-platform-for-building-ai-workflows/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -823,7 +874,7 @@
       "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/09/12/can-we-slice-up-a-brain-to-see-how-neural-networks-should-work/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -1014,7 +1065,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/09/12/6-skills-writers-need-to-hone-amid-the-ai-boom/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1108,7 +1159,7 @@
       "originalUrl": "https://www.marketwatch.com/story/elon-musk-and-mark-zuckerberg-will-talk-ai-rules-in-senate-forum-on-wednesday-296d6ffe",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -1199,49 +1250,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-parle-products-extends-collaboration-with-ibm-over-cloud-and-ai-solutions.md",
-      "title": "Parle Products extends collaboration with IBM over cloud and AI solutions",
-      "excerpt": "IBM has announced the expansion of its collaboration with Parle Products, an Indian biscuit brand, to further the company’s digital transformation journey. By deploying cloud and artificial intelligence (AI) for business solutions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-parle-products-extends-collaboration-with-ibm-over-cloud-and-ai-solutions-3241176/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-parle-products-extends-collaboration-with-ibm-over-cloud-and-ai-solutions-3241176/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-12T161744.255.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-parle-products-extends-collaboration-with-ibm-over-cloud-and-ai-solutions-3241176/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-parle-products-extends-collaboration-with-ibm-over-cloud-and-ai-solutions-3241176/lite/",
-      "publishedDateTime": "2023-09-12T03:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

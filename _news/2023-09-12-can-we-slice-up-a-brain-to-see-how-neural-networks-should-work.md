@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnwerner/2023/09/12/can-we-slice-up-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/09/12/can-we-slice-up-a-brain-to-see-how-neural-networks-should-work/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 105
 published: true
 
 provider:

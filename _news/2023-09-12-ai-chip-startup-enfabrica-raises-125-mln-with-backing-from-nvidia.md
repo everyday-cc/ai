@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/ai-chip-startup-enfabrica-raise
 webUrl: "https://www.reuters.com/technology/ai-chip-startup-enfabrica-raises-125-mln-with-backing-nvidia-2023-09-12/"
 type: article
 quality: 84
-heat: 185
+heat: 184
 published: true
 
 provider:

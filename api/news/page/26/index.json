@@ -2,6 +2,83 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2023-08-24-computer-vision-software-developer-visualcortex-to-exhibit-at-asial-2023-with-axis-communications.md",
+      "title": "Computer vision software developer VisualCortex to exhibit at ASIAL 2023 with Axis Communications",
+      "excerpt": "VisualCortex is offering conference delegates and Axis clients the chance to win a complimentary computer vision Proof-of-Concept (POC). Applicants can follow the link below to su",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/08/24/9869504.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/08/24/9869504.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-23T21:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-north-hills-christian-school-unveils-state-of-the-art-smartlab.md",
+      "title": "North Hills Christian School unveils state-of-the-art SmartLab",
+      "excerpt": "The future of education at North Hills Christian School took a giant leap forward last week with the unveiling of a brand-new SmartLab HQ, a cutting-edge learning facility geared towards enriching the STEM experience for its students.",
+      "sourceUrl": null,
+      "webUrl": "https://www.salisburypost.com/2023/08/24/north-hills-christian-school-unveils-state-of-the-art-smartlab/",
+      "originalUrl": "https://www.salisburypost.com/2023/08/24/north-hills-christian-school-unveils-state-of-the-art-smartlab/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.salisburypost.com/wp-content/uploads/sites/9/2023/09/RCCC-LIVINGSTONE-AGREEMENT-PHOTO-1.jpg?w=400&h=220&crop=1",
+          "width": 400,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-23T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "salisburypost",
+        "domain": "salisburypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-24-meta-releases-ai-to-translate-dozens-of-languages-using-speech-and-text.md",
       "title": "Meta Releases AI to Translate Dozens of Languages Using Speech and Text",
       "excerpt": "Meta took a step towards a universal language translator on Tuesday with the release of its new Seamless M4T AI model, which the company says can quickly and efficiently understand language from ...",
@@ -1050,102 +1127,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-nvidias-earnings-wednesday-will-be-a-big-test-for-ai-bulls.md",
-      "title": "Nvidia's earnings Wednesday will be a big test for AI bulls",
-      "excerpt": "Nvidia reports second-quarter earnings on Wednesday against a backdrop of elevated expectations driven by a surge of interest in artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/08/23/nvidia-nvda-earnings-report-q2-2024.html",
-      "originalUrl": "https://www.cnbc.com/2023/08/23/nvidia-nvda-earnings-report-q2-2024.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104887925-1635881993219-niv.jpg?v=1692822734",
-          "width": 1521,
-          "height": 1013,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/08/23/nvidia-nvda-earnings-report-q2-2024.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/08/23/nvidia-nvda-earnings-report-q2-2024.html",
-      "publishedDateTime": "2023-08-23T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-armored-core-6-review-elden-robots.md",
-      "title": "Armored Core 6 review – elden robots",
-      "excerpt": "The creators of Elden Ring return with a new entry in their giant mech franchise, that takes more than a few cues from their previous games.",
-      "sourceUrl": null,
-      "webUrl": "https://metro.co.uk/2023/08/23/armored-core-6-review-elden-robots-19384159/",
-      "originalUrl": "https://metro.co.uk/2023/08/23/armored-core-6-review-elden-robots-19384159/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://metro.co.uk/wp-content/uploads/2023/08/ARMORED-CORE-VI_03_4K-c46f.jpg?quality=90&strip=all&zoom=1&resize=600%2C337",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://metro.co.uk/2023/08/23/armored-core-6-review-elden-robots-19384159/amp/",
-      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/08/23/armored-core-6-review-elden-robots-19384159/amp/",
-      "publishedDateTime": "2023-08-23T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

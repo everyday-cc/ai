@@ -1,20 +1,28 @@
 ---
 category: news
 title: "IBM and Salesforce Team Up To Help Businesses Accelerate Adoption of Trustworthy AI"
-excerpt: "ARMONK, N.Y. and SAN FRANCISCO, Aug. 31, 2023 /PRNewswire/ -- Today, IBM (NYSE: IBM) and Salesforce (NYSE: CRM) announced a collaboration to help businesses worldwide across industries accelerate ..."
-publishedDateTime: 2023-08-31T12:59:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20230831ny97038/ibm-and-salesforce-team-up-to-help-businesses-accelerate-adoption-of-trustworthy-ai"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20230831ny97038/ibm-and-salesforce-team-up-to-help-businesses-accelerate-adoption-of-trustworthy-ai"
+excerpt: "ARMONK, N.Y. and SAN FRANCISCO, Aug. 31, 2023 /CNW/ -- Today, IBM IBM and Salesforce CRM announced a collaboration to help businesses worldwide across industries accelerate their adoption of AI ..."
+publishedDateTime: 2023-08-31T12:17:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/08/n34140598/ibm-and-salesforce-team-up-to-help-businesses-accelerate-adoption-of-trustworthy-ai"
+webUrl: "https://www.benzinga.com/pressreleases/23/08/n34140598/ibm-and-salesforce-team-up-to-help-businesses-accelerate-adoption-of-trustworthy-ai"
+ampWebUrl: "https://www.benzinga.com/amp/content/34140598"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34140598"
 type: article
 
 provider:
-  name: Morningstar
-  domain: morningstar.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "0mKltMKoO5ERydnDR+UJClVeoSFMszlrqYFtk554w4Rtus5pJosQJ1FnPUw3zCHiIhI1N4Gg3Mj6Io1Ok63KW+U0yzDGke+JQBDQqJnEEbo8e4NHjbI/vrPMZiquzFFKoS9BjPOx1sDx5V3CeYUAr3AwMtHWJx5UFSriilWEjGDk110Euze1KGPhkEhmURk8pf+Oavyc2efCrPtubGvTDf4SiBn4iw+iuwdybnhYTyNCVb576NuqDaZZpKq0jaC6iKHdVFvcFO574TBT5P1/FxaRdgIlx7CsRLxyv79udR8qcbtuoBlz61WrXZqIhkAHNbWkvDYrgTgS7I0tnUXNe20sfZwEVGHzFLDDQ87XLB8=;c9B+GWWOWI0oH1Pt52wTCA=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "ncdAmssKlbheJn+wbi+nLCc/yw8CdwT5BsSaPEsk+/JHB9tAvOsRFbwZZsfvwf7WghdJFi2S3Anm6nEGz2ZYdDen5iV9j1LHQQXWAkDUDGx+2uLwoPOgY7s5sPPbM3dp7tOZwKl6W2zSG5NJ1BQZVhsDQij6JvB39yF+h6vBt4pGsffBtjB3RoeqK7lw3eFm8vfmdv8iRBPVDHrBXnMi6plq1LiPRRSs6VTaLcYn0u9bIw6KBVyxzj0h9T4dNZ3zwmCUFSh8V5KRzcUf2vw7SeVw0JFebkU5fLpwgDaHxSwdCPZJguJI0Xjl3YB7WW/7efxNfenmsqYhdWmbBDcGc9n3i8LsFaAnxemaTrFT6WI=;OC9UtIwyj85uQKFiOGZccg=="
 ---
 

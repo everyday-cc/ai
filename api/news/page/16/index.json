@@ -2,6 +2,93 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2023-08-31-us-restricts-advanced-nvidia-ai-chips-sales-to-middle-east-taiwanplus-news.md",
+      "title": "U.S. Restricts Advanced Nvidia AI Chips Sales to Middle East - TaiwanPlus News",
+      "excerpt": "The U.S. has blocked the sale of some Nvidia AI chips from being sold in the Middle East over fears they could be resold to China. The American tech giant",
+      "sourceUrl": null,
+      "webUrl": "https://www.djournal.com/news/national/u-s-restricts-advanced-nvidia-ai-chips-sales-to-middle-east---taiwanplus-news/video_daffce92-ccf4-534a-b8f1-8883839e1d1d.html",
+      "originalUrl": "https://www.djournal.com/news/national/u-s-restricts-advanced-nvidia-ai-chips-sales-to-middle-east---taiwanplus-news/video_daffce92-ccf4-534a-b8f1-8883839e1d1d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/d/af/daffce92-ccf4-534a-b8f1-8883839e1d1d/64f08b71550b7.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-31T05:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Journal",
+        "domain": "djournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-08-31-ibm-and-salesforce-team-up-to-help-businesses-accelerate-adoption-of-trustworthy-ai.md",
+      "title": "IBM and Salesforce Team Up To Help Businesses Accelerate Adoption of Trustworthy AI",
+      "excerpt": "ARMONK, N.Y. and SAN FRANCISCO, Aug. 31, 2023 /CNW/ -- Today, IBM IBM and Salesforce CRM announced a collaboration to help businesses worldwide across industries accelerate their adoption of AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/08/n34140598/ibm-and-salesforce-team-up-to-help-businesses-accelerate-adoption-of-trustworthy-ai",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/n34140598/ibm-and-salesforce-team-up-to-help-businesses-accelerate-adoption-of-trustworthy-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34140598",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34140598",
+      "publishedDateTime": "2023-08-31T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-31-five-lessons-learned-on-using-ai-in-hr-and-compliance.md",
       "title": "Five Lessons Learned On Using AI In HR And Compliance",
       "excerpt": "The value of generative AI's answers depends on the quality of the questions. The problem is that HR and compliance topics are often nuanced. Expertise is required to distill the parameters and frame the underlying question correctly.",
@@ -1092,109 +1179,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-ai-in-viral-work-kill-the-cells.md",
-      "title": "AI In Viral Work: Kill The Cells!",
-      "excerpt": "You could say that, as a rule, antiviral work is the process of enabling antibodies. The problem, as Gifford puts it, is that viruses can ‘escape’ from the roving healers that consume infected cells.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/08/30/ai-in-viral-work-kill-the-cells/",
-      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/08/30/ai-in-viral-work-kill-the-cells/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64efedee9894ff252cdcb96f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/08/30/ai-in-viral-work-kill-the-cells/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/08/30/ai-in-viral-work-kill-the-cells/amp/",
-      "publishedDateTime": "2023-08-30T18:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-whats-the-human-brain-doing-lets-see.md",
-      "title": "What’s The Human Brain Doing? Let’s See!",
-      "excerpt": "Every once in a while, we humans can use a reminder that while our mental supremacy was fairly enshrined in the 20th century, things in the 21st century are looking a",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/08/30/whats-the-human-brain-doing-lets-see/",
-      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/08/30/whats-the-human-brain-doing-lets-see/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64efea9a331d881abcb575a3/0x0.jpg?format=jpg&crop=2047,1153,x0,y105,safe&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/08/30/whats-the-human-brain-doing-lets-see/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/08/30/whats-the-human-brain-doing-lets-see/amp/",
-      "publishedDateTime": "2023-08-30T18:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

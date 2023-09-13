@@ -87,15 +87,6 @@ related:
         width: 2560
         height: 1536
         isCached: true
-  - title: "Jio, Nvidia partner to build AI Cloud infrastructure in India"
-    excerpt: "Jio Platforms and Nvidia have partnered to build a cloud-based AI infrastructure in India. The collaboration aims to accelerate AI development efforts"
-    publishedDateTime: 2023-09-08T12:49:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/jio-nvidia-partner-to-build-ai-cloud-infrastructure-in-india/articleshow/103512248.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 19
 
 secured: "ZyMM7MvTBam5t8ArXIDXk6gBeUAn9IUD2bzbi8P3VyrcDeiQIVcLNPLVGmzuLJdaOe4nagUvvMiqm5Xo3pMtZR1hRTYKr1shvdBfF5pZtAho58FpVPjHQzhXNWwHhGYBaSsR7e2z6IS62m7vd083O1enmSj2xdOC94UryU2DRxmMiwnDtt79VWX0Kc1xSW20d5Py6DOcO2mZAU/ZCIc9QEyu8FQxzME95mRZU1J2aH1hE+DJs6msrEX5hwSwdi/ZEzkbMEJq5q10y2PmULwXsJjdvQyZFs1CWRUiu5bXtmcjihJglT4fPojnzAxDHEClljWyPrm5tYc4rpBxOhWXhKSmvrlcd3tST47naVCpB5A=;yt30mHQQO9BvIu1kBTPhww=="
 ---

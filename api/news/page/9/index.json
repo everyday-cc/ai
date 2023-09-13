@@ -2,6 +2,59 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-09-06-exclusive-ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft.md",
+      "title": "Exclusive: AI chip startup d-Matrix raises $110 mln with backing from Microsoft",
+      "excerpt": "Silicon Valley-based artificial intelligence chip startup d-Matrix has raised $110 million from investors that include Microsoft Corp at a time when many chip companies are struggling to raise cash.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/ai-chip-startup-d-matrix-raises-110-mln-with-backing-microsoft-2023-09-06/",
+      "originalUrl": "https://www.reuters.com/technology/ai-chip-startup-d-matrix-raises-110-mln-with-backing-microsoft-2023-09-06/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/wGOVN9VOmABurktWbqvXa9yCre8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VP35N4V2DRKPDFZB2DP2TS7BQY.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-06T02:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-06-data-is-essential-building-an-effective-generative-ai-marketing-strategy.md",
       "title": "Data is essential: Building an effective generative AI marketing strategy",
       "excerpt": "Generative AI for text, visuals and video have the potential to create a more personalized and engaging experience.\nThe post Data is essential: Building an effective generative AI marketing strategy appeared first on IBM Blog.\n",
@@ -137,40 +190,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-with-ai-future-of-hearing-aids-might-include-language-translation.md",
-      "title": "With AI, future of hearing aids might include language translation",
-      "excerpt": "Sawalich says, \"If somebody falls, it'll text up to three people.\" They can also translate foreign languages. These AI hearing aids recalibrate up to 80 million times an hour, allowing them to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.guampdn.com/news/national/with-ai-future-of-hearing-aids-might-include-language-translation/video_0471ba7b-8f06-505f-b6d0-fe970b47c741.html",
-      "originalUrl": "https://www.guampdn.com/news/national/with-ai-future-of-hearing-aids-might-include-language-translation/video_0471ba7b-8f06-505f-b6d0-fe970b47c741.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-05T21:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pacific Daily News",
-        "domain": "guampdn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     },
@@ -650,6 +669,40 @@
       ]
     },
     {
+      "path": "_news/2023-09-06-with-ai-future-of-hearing-aids-might-include-language-translation.md",
+      "title": "With AI, future of hearing aids might include language translation",
+      "excerpt": "Sawalich says, \"If somebody falls, it'll text up to three people.\" They can also translate foreign languages. These AI hearing aids recalibrate up to 80 million times an hour, allowing them to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thetimes-tribune.com/news/nation-world/with-ai-future-of-hearing-aids-might-include-language-translation/video_2d527935-5f49-542e-b87e-3cd7d8380040.html",
+      "originalUrl": "https://www.thetimes-tribune.com/news/nation-world/with-ai-future-of-hearing-aids-might-include-language-translation/video_2d527935-5f49-542e-b87e-3cd7d8380040.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-05T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Scranton Times-Tribune",
+        "domain": "thetimes-tribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-05-how-carrier-predicts-hvac-faults-using-aws-glue-and-amazon-sagemaker.md",
       "title": "How Carrier predicts HVAC faults using AWS Glue and Amazon SageMaker",
       "excerpt": "In this post, we show how the Carrier and AWS teams applied ML to predict faults across large fleets of equipment using a single model. We first highlight how we use AWS Glue for highly parallel data processing. We then discuss how Amazon SageMaker helps us with feature engineering and building a scalable",
@@ -1076,57 +1129,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-tech-and-cannabis-companies-are-worth-watching-amidst-ai-boom-forbes-ai-newsletter-september-2nd.md",
-      "title": "Tech And Cannabis Companies Are Worth Watching Amidst AI Boom - Forbes AI Newsletter September 2nd",
-      "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/09/05/tech-and-cannabis-companies-are-worth-watching-amidst-ai-boomforbes-ai-newsletter-september-2nd/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/09/05/tech-and-cannabis-companies-are-worth-watching-amidst-ai-boomforbes-ai-newsletter-september-2nd/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64f73cca5d77775f8cb01580/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/09/05/tech-and-cannabis-companies-are-worth-watching-amidst-ai-boomforbes-ai-newsletter-september-2nd/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/09/05/tech-and-cannabis-companies-are-worth-watching-amidst-ai-boomforbes-ai-newsletter-september-2nd/amp/",
-      "publishedDateTime": "2023-09-05T07:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
