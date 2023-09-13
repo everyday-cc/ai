@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Robots, regulation and real people: managing AI in the workplace"
+    excerpt: "While touched upon by existing financial, intellectual property and data protection regulation, the rise of generative AI has prompted regulatory bodies to craft bespoke regulation for AI."
+    publishedDateTime: 2023-09-13T08:54:00Z
+    webUrl: "https://www.thebanker.com/Robots-regulation-and-real-people-managing-AI-in-the-workplace-1694591764"
+    type: article
+    provider:
+      name: The Banker
+      domain: thebanker.com
+    quality: 54
+    images:
+      - url: "https://www.thebanker.com/var/ezflow_site/storage/images/media/images/ai-in-the-workplace/13076761-1-eng-GB/Ai-in-the-workplace.jpg"
+        width: 3000
+        height: 1687
+        isCached: true
   - title: "Congress huddles with tech experts in new push for AI rules: ‘There will be regulation’"
     excerpt: "Senators are meeting with leading Big Tech executives this week as part of a new push to write rules for artificial intelligence focused on limiting danger and safeguarding innovation."
     publishedDateTime: 2023-09-12T19:56:00Z

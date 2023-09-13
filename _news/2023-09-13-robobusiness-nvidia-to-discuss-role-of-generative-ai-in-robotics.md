@@ -7,7 +7,7 @@ originalUrl: "https://www.roboticsbusinessreview.com/ai/robobusiness-nvidia-to-d
 webUrl: "https://www.roboticsbusinessreview.com/ai/robobusiness-nvidia-to-discuss-role-of-generative-ai-in-robotics/"
 type: article
 quality: 69
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 800
     height: 554
     isCached: true
-
-related:
-  - title: "Tata Partners With NVIDIA to Build Large-Scale AI Infrastructure"
-    excerpt: "TCS will utilize the AI infrastructure and capabilities to build and process generative AI applications. The NVIDIA partnership will further enable TCS in collaborating with its customers to drive reimagination with an AI-first approach. Additionally, TCS will upskill its 600,000-strong workforce leveraging the partnership."
-    publishedDateTime: 2023-09-08T16:40:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/09/08/9877690.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "gOqqZe6bEnHZKCLdor7b6c2dIa7Wg3dE1sWsANdtU2wQEd9Lul4JfSFrf6WqwmdkV7udLM938a0jVBkbiM5w60AttQEeeasfpny0PYaOCNbB4JAcSQxVSHy3GsO6VFiOQb/WYUJka7U29LLKgopt1SdGJn+UkTjcjz6+7zOI9ySI8lDkFLTe/ZHVaPGCnxYmGTAie5Bvy89N2DILVA0VQsjhNQVDMHZGbha2KUKOfTsbDEMXcfKQs6iLunvFqrXU+pqQkpob5hRPGSWWNpegX2qciDJqIcb4lcrhtTljD0u8CWToBKgC3iobfcO87J1ELFXCk3h1lprd4Jw8Btsk9cM0+dZpblZz2cfoZ/sMhCyhTVsuuOC5mk9WGlgKpkD0Q42A9EHxKDVUj27mK764PVxA2+T5yA8AcA6/ODkuTNjUTCaPm3viBa83bkQWE+5UFuJf6HHWwCPPjSdVEz138G+srV0QhXVH0OqJIZk+sFvvrtKf4oCkEqjg7jufTNA7BU3hkLLgY4XPtZkCpyTrXQ==;PzPDhAR7UdW83AzwCTv9MA=="
 ---

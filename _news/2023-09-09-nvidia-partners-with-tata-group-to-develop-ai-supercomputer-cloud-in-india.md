@@ -29,67 +29,42 @@ images:
     isCached: true
 
 related:
-  - title: "As distance from China grows, India & US work on tech projects – chips to AI"
-    excerpt: "The leaders continue to look forward to the participation of Indian companies in the US Rip and Replace programme, a joint statement issued by India and the US said."
-    publishedDateTime: 2023-09-09T05:48:00Z
-    webUrl: "https://indianexpress.com/article/india/as-distance-from-china-grows-india-us-work-on-tech-projects-chips-to-ai-8931140/"
-    ampWebUrl: "https://indianexpress.com/article/india/as-distance-from-china-grows-india-us-work-on-tech-projects-chips-to-ai-8931140/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/india/as-distance-from-china-grows-india-us-work-on-tech-projects-chips-to-ai-8931140/lite/"
+  - title: "Better Artificial Intelligence (AI) Stock: Nvidia vs. C3.ai"
+    excerpt: "The Motley Fool recommends C3.ai. The Motley Fool has a disclosure policy. Google CEO Sundar Pichai Says \"Artificial Intelligence (AI) Will Be the Biggest Technological Shift We See in Our Lifetimes.\" 5 Stocks to Buy and Hold If He's Right. What Qualcomm ..."
+    publishedDateTime: 2023-09-13T09:29:00Z
+    webUrl: "https://www.fool.com/investing/2023/09/13/better-ai-stock-nvidia-vs-c3-ai/"
     type: article
     provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 71
+      name: The Motley Fool
+      domain: fool.com
+    quality: 82
     images:
-      - url: "https://images.indianexpress.com/2023/09/modibiden-3col.jpg"
-        width: 1200
-        height: 667
+      - url: "https://g.foolcdn.com/editorial/images/747261/ai-robot.jpg"
+        width: 2051
+        height: 1461
         isCached: true
-  - title: "NVIDIA Helps India Achieve AI Dominance: After Reliance, Pens Deal With Tata"
-    excerpt: "As per the partnership, Tata Communications and NVIDIA will create an AI cloud in India to offer critical infrastructure to drive computing's next lifecycle. The companies will jointly build an AI supercomputer powered by the NVIDIA's GH200 Grace Hopper Superchip to boost performance."
-    publishedDateTime: 2023-09-08T16:56:00Z
-    webUrl: "https://www.benzinga.com/markets/equities/23/09/34364787/nvidia-helps-india-achieve-ai-dominance-after-reliance-pens-deal-with-tata"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34364787"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34364787"
+  - title: "Nvidia: Another Reason Why Buying This Artificial Intelligence (AI) Stock Is a No-Brainer Now"
+    excerpt: "Nvidia's (NASDAQ: NVDA) artificial intelligence (AI)-driven surge shows no signs of stopping. The company's results for the second quarter of fiscal 2024 (ended July 30, 2023), which were released last month,"
+    publishedDateTime: 2023-09-09T13:45:00Z
+    webUrl: "https://www.nasdaq.com/articles/nvidia:-another-reason-why-buying-this-artificial-intelligence-ai-stock-is-a-no-brainer"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 56
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/09/08/nvda_0.png?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Jio, Tata Group enter pacts with Nvidia to develop advance artificial intelligence applications in India"
-    excerpt: "The partnership with RIL-owned Jio Platforms comes a week after the company outlined its aggressive plans for artificial intelligence."
-    publishedDateTime: 2023-09-09T00:00:00Z
-    webUrl: "https://www.financialexpress.com/business/industry-jio-tata-group-enter-pacts-with-nvidia-to-develop-advance-artificial-intelligence-applications-in-india-3237555/"
-    ampWebUrl: "https://www.financialexpress.com/business/industry-jio-tata-group-enter-pacts-with-nvidia-to-develop-advance-artificial-intelligence-applications-in-india-3237555/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/industry-jio-tata-group-enter-pacts-with-nvidia-to-develop-advance-artificial-intelligence-applications-in-india-3237555/lite/"
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 53
+  - title: "Nvidia: Another Reason Why Buying This Artificial Intelligence (AI) Stock Is a No-Brainer Now"
+    excerpt: "Nvidia revealed its GH200 Grace Hopper Superchip last month for accelerated computing and generative AI workloads. Third-party reviews indicate that this chip is way more powerful than competing chips from the likes of AMD and Intel. That's not surprising ..."
+    publishedDateTime: 2023-09-09T21:56:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/INTC-Q/pressreleases/20127656/nvidia-another-reason-why-buying-this-artificial-intelligence-ai-stock-is-a-no-brainer-now/"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 42
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 43
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/art.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Nvidia bets on India with Tata Group, Reliance Industries AI partnerships"
-    excerpt: "According to Nvidia CEO Jensen Huang, India 'possesses [the] size, data, and skill' necessary to be a leader in AI."
-    publishedDateTime: 2023-09-11T16:26:00Z
-    webUrl: "https://www.rcrwireless.com/20230911/ai-ml/nvidia-bets-on-india-with-tata-group-reliance-industries-ai-partnerships"
-    type: article
-    provider:
-      name: RCR Wireless News
-      domain: rcrwireless.com
-    quality: 38
-    images:
-      - url: "https://www.rcrwireless.com/wp-content/uploads/2023/09/138346920_m_normal_none-scaled.jpg"
-        width: 2560
-        height: 1536
+      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/a659097c0ea243066c6d8720c4a8ae00/%3Furl%3Dhttps%253a%252f%252fmedia.ycharts.com%252fcharts%252ff8f479abc5c0bb10ae2eb468d92485fa.png%26amp%3Bw%3D700"
+        width: 720
+        height: 387
         isCached: true
 
 secured: "TP2p2pHYKOZbC3wd6fzg6fYhgS93imyjfUnnPf3peIbEZRRFo9tohUl9tHe5cTr0vE0s+lGwu4bBzP7/6ux39k9fdiBd8zLmnmPLZmo37usKEFoHsUlcryW/zCC0YnXLmGqxs8+d5HlF57mqUHYA4r3naEP1zAKiY15Qj382K6vCsmuXrYVqZF1QAPnklp83IPaU5PokY4KQ3l2YYXv974hHNTwiuXEHtpLdwVRrKABWPPTAg5H6y/uRzklyrgQWeruhRz5A3AyJMbStcAGa+/mOmw6IYq369adrPSyf75pO4pgkXdyO18Plv/4+FnKDWQikvnDjh3DVys+Im/zSLKp7CZfgaV1wF9hAaHbGZHU=;th3cQEK+GmOU47xIDFqn+Q=="

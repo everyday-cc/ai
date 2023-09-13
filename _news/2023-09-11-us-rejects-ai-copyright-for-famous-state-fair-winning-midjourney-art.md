@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/09/us-rejects-ai
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/us-rejects-ai-copyright-for-famous-state-fair-winning-midjourney-art/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://www.smartcompany.com.au/wp-content/uploads/2023/09/Salesforce-event-1466x710-1.png?resize=1200,630"
         width: 1200
         height: 630
+        isCached: true
+  - title: "A|I: The AI Times – Why Midjourney’s founder rejects venture capital"
+    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
+    publishedDateTime: 2023-09-13T08:55:00Z
+    webUrl: "https://betakit.com/ai-the-ai-times-why-midjourneys-founder-rejects-venture-capital/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 39
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2023/09/Husky-Observer-Clearpath.jpg"
+        width: 1050
+        height: 700
         isCached: true
 
 secured: "WfllwmJVBRUAbwDB1D7bihIAjWUJusKWyIkBvKWjcKhHpYd6ReC47LITZWSD4SsvESGem+OxTh0wPTK90J43It31jMU8eK9Q4pW8PC4vDqJG+S89qh5yTiufTB+KILUx5H+CEzLlmtXHgdWCXF8Obt9OgMGKCmX8C8Yk9kXyjVw2rS7LoaUfaBQWJ238Dn2sgd2UcI+lyltafDXmBatEC/z95c9TtQ5KrR74Z3Vp3a/c00ochSdMFH74tH84I5fBl6SIglK4jcNNf2ByPGrrWx8KN3NuLh1magmAiZJkg2FCYbuNMGcCajdtwK3mEv/xG2RvhdlqbYVSrQN4apt95Z2oxmqCAYMVHGP/VZt29f9G30LnzhbnsYl+drL6pKEYPCfRgwYsGd7jMlUBk9i/oObjiuNMJI6WQnQH3yiKRSgxOTOP2B6u1kQnj91cZAQf6SAZNKHhsGOP00Fs7c6Mjom+U7eQEmNa6v3ELekH+sMeYZWJXVlmwKVjVbTj5ISlJ6cyZb6x3+fBxWJ0NOSBdg==;50Wjk9hdP5AVs+LpUFSG4w=="

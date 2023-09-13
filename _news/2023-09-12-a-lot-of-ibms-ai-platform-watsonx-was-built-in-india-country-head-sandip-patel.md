@@ -57,20 +57,6 @@ related:
         width: 1019
         height: 573
         isCached: true
-  - title: "IBM unveils new generative AI enhancements for watsonx"
-    excerpt: "IBM has announced a host of new enhancements for its watsonx platform, which include new generative AI foundation models and new capabilities. Designed to help enterprises scale and accelerate the impact of artificial intelligence,"
-    publishedDateTime: 2023-09-08T16:02:00Z
-    webUrl: "https://www.techcentral.ie/ibm-unveils-new-generative-ai-enhancements-for-watsonx/"
-    type: article
-    provider:
-      name: Mozilla
-      domain: techcentral.ie
-    quality: 54
-    images:
-      - url: "https://www.techcentral.ie/wp-content/uploads/2022/01/IBM_21.jpg"
-        width: 620
-        height: 349
-        isCached: true
 
 secured: "eJ2ssKl+r/LtcSvEEuR2/dYvGiMBPIDKfPwogtBzKnA0QJVnRdLvdYIsvcGo7lCHuMhBH/b6rqNzPNyLHHMxBqPKpUuOgeKX6NnuG2uYc2II1piTQMgkvfVcjVbQVFwrLwrQE8ea/93XqoLhq2pl8fLKHWdd7qpF5qVBx7O0D1eMAVjzA/uYZzR2XBd9Bxwu+U6eRe5MJzOfDvfOJKKQaWw6bEOiVVbklWpX1DJgeEdvuUv6vePpgqG1di3EcCnGUKCO8eW4adHcYBv7l24Yu/SXONA1eBFCQiI1Zl3qBitxHV4xkFh8hXLl9DEk+zY/5fZGWrSN1Gh0BzpHTqYopG/aGm1AMaasy4dQZqq6rcw=;GriU6AXkR6Q+wphNiEpUsg=="
 ---

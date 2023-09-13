@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1107048324/Svc-Invests-5-Million-In-A-Ventureso
 webUrl: "https://menafn.com/1107048324/Svc-Invests-5-Million-In-A-Venturesouq-Fintech-Fund"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,29 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Saudi Venture Capital invests $5m in VentureSouq FinTech fund"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-09-13T04:35:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/saudi-venture-capital-invests-5m-in-venturesouq-fintech-fund/"
+  - title: "European fintech investment plummets, but more sustainable future lies ahead"
+    excerpt: "Investment in European fintechs has seen a dramatic drop, but a more sustainable sector will result from investment discipline."
+    publishedDateTime: 2023-09-12T06:30:00Z
+    webUrl: "https://www.computerweekly.com/news/366551814/European-fintech-investment-plummets-but-more-sustainable-future-ahead"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 36
     images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/05/MicrosoftTeams-image-187.png"
-        width: 600
-        height: 500
+      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-120923-cover-500px.jpg"
+        width: 500
+        height: 354
         isCached: true
-  - title: "FinTech GenTwo raises $15m Series A led by Point72 Ventures"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-09-11T12:13:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/fintech-gentwo-raises-15m-series-a-led-by-point72-ventures/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 19
   - title: "SVC invests $5 million in a VentureSouq fintech fund"
     excerpt: "Saudi Venture Capital (SVC) announced its investment of $5 million in a fintech fund managed by VentureSouq (VSQ). The fund will mainly back early-stage fintech startups."
     publishedDateTime: 2023-09-11T12:50:00Z
@@ -57,15 +48,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 4
-  - title: "BIZCLIK MEDIA LAUNCHES SEPTEMBER EDITIONS OF FINTECH MAGAZINE & INSURTECH DIGITAL"
-    excerpt: "This month's edition features an extensive lead interview with, HSB Canada's Vice President Client Solutions and Innovation, Lasith Lansakara and VP, Head of Information Technology, Michael Scarbeau about the company's journey through almost 150 years of insurance transfomation."
-    publishedDateTime: 2023-09-08T15:27:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/09/08/9877716.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "w/xXsXc7/ySFhr3mBUJyp+5KxUbLF+Obxdn/cNl+UV2dwBRMiPOXmVEA1vmmD7AfSs4JC5Ob0GPoAnXB/a5KmUs7ruzv3CFC8pBdkcAZ+zfDHMPdj6llzhwy7s4QsZlOInc/KZqpTK+cCHP8HWOW08/7QNYfiXAthPKLCSotKjfszgEozkcne5+fNk+zQLGKhN+Aobt+Sn5tBGXCcpmOtz4rZAcmE6QzVtHfyZw6ZGSoC/bc5CMmuZbiu9GL4End2LLQLdiSGBrYgC82MSDgDws0pEz0zN3q7R2pq7FSMh+PkWpf49mm8PKbU7fECMXTcvOwmFTNhp8M5u/dZG41K7DHQzNNWYpb+uVMm1XmH1o=;M8V8EaPJa2LCQS9BWgLoRQ=="
 ---

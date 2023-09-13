@@ -124,6 +124,20 @@ related:
         width: 843
         height: 394
         isCached: true
+  - title: "NVidia’s Supremacy in AI Chip Market Affects New Star-ups"
+    excerpt: "AI chip investors in the US pull back on investments as NVidia maintains dominance in the AI chip market Data from PitchBook"
+    publishedDateTime: 2023-09-13T08:06:00Z
+    webUrl: "https://techreport.com/news/nvidias-supremacy-in-ai-chip-market-affects-new-star-ups/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 54
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2023/09/647748f87f12d.jpeg"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "Enfabrica Raises $125 Million Series B to Fuel Ramp of AI Infrastructure Networking Chips"
     excerpt: "The oversubscribed $125M Series B round was led by crossover firm Atreides Management, with supporting capital from Series A lead Sutter Hill Ventures, and new capital from IAG Capital, Liberty Global, NVIDIA, Valor Equity Partners, Infinitum and Alumni Ventures."
     publishedDateTime: 2023-09-12T16:21:00Z

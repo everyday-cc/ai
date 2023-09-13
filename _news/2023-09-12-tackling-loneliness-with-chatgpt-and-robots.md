@@ -307,6 +307,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Meta Platforms reportedly building open-source generative AI system to rival OpenAI’s ChatGPT"
+    excerpt: "Facebook and Instagram parent Meta Platforms Inc. is looking to rival OpenAI LP in the generative artificial intelligence landscape with an alternative, but open-source model that’s likely to be as powerful as GPT-4."
+    publishedDateTime: 2023-09-11T00:20:00Z
+    webUrl: "https://siliconangle.com/2023/09/10/meta-platforms-reportedly-building-open-source-generative-ai-system-rival-openais-chatgpt/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 28
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/41118893354_edd6aac12d_k-AnthonyQuintano-Flickr-768x525.jpg"
+        width: 768
+        height: 525
+        isCached: true
   - title: "AI tech behind ChatGPT was built in Iowa -- with lots of water"
     excerpt: "The cost of building an artificial intelligence product such as ChatGPT can be hard to measure. But one thing Microsoft-backed OpenAI needed for its technology was plenty of water, pulled from the watershed of the Raccoon and Des Moines rivers in central Iowa to cool a powerful supercomputer as it helped teach its AI systems how to mimic human"
     publishedDateTime: 2023-09-11T05:00:00Z

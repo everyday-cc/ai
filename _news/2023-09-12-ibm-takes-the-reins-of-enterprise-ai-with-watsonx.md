@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/09/11/ibm-takes-the-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/09/11/ibm-takes-the-reins-of-enterprise-ai-with-watsonx/amp/"
 type: article
 quality: 106
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://images.cnbctv18.com/wp-content/uploads/2023/02/IBM-Source-Reuters-1019x573.jpg"
         width: 1019
         height: 573
-        isCached: true
-  - title: "IBM unveils new generative AI enhancements for watsonx"
-    excerpt: "IBM has announced a host of new enhancements for its watsonx platform, which include new generative AI foundation models and new capabilities. Designed to help enterprises scale and accelerate the impact of artificial intelligence,"
-    publishedDateTime: 2023-09-08T16:02:00Z
-    webUrl: "https://www.techcentral.ie/ibm-unveils-new-generative-ai-enhancements-for-watsonx/"
-    type: article
-    provider:
-      name: Mozilla
-      domain: techcentral.ie
-    quality: 54
-    images:
-      - url: "https://www.techcentral.ie/wp-content/uploads/2022/01/IBM_21.jpg"
-        width: 620
-        height: 349
         isCached: true
   - title: "A lot of IBM’s AI platform watsonx was built in India: Country head Sandip Patel"
     excerpt: "Around 80 percent of IBM’s India workforce has been working on building IBM’s global AI capabilities, Sriram Raghavan, VP, IBM Research AI told Moneycontrol."

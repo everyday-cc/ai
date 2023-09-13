@@ -297,7 +297,7 @@
       "originalUrl": "https://www.reuters.com/technology/ai-chip-startup-enfabrica-raises-125-mln-with-backing-nvidia-2023-09-12/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -393,58 +393,6 @@
       ]
     },
     {
-      "path": "_news/2023-09-12-snowflake-nasdaqsnow-this-ai-stock-is-a-strong-buy-say-analysts.md",
-      "title": "Snowflake (NASDAQ:SNOW): This AI Stock is a Strong Buy, Say Analysts",
-      "excerpt": "Impressive capabilities are one thing, but developing an effective business model on top of the technology is another. From AI Chips to Software and Infrastructure For now, it seems doubtful that Snowflake will perform as well as AI chip kingpin Nvidia did ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/snowflake-nasdaq-snow-this-ai-stock-is-a-strong-buy-say-analysts-1032621437",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/snowflake-nasdaq-snow-this-ai-stock-is-a-strong-buy-say-analysts-1032621437",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.tipranks.com/wp-content/uploads/2023/09/image-190.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-          "width": 777,
-          "height": 436,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-11T15:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-11-how-salesforce-stock-nysecrm-can-thrive-from-the-ai-wave.md",
       "title": "How Salesforce Stock (NYSE:CRM) Can Thrive from the AI Wave",
       "excerpt": "Salesforce (NYSE:CRM) seems to be doubling down to gain a better position in the AI race. That much was clear after the company’s latest",
@@ -495,6 +443,49 @@
         "AI Hardware",
         "AI",
         "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-09-11-optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts.md",
+      "title": "Optimizing AI Inference Is As Vital As Building AI Training Beasts",
+      "excerpt": "The history of computing teaches us that software always and necessarily lags hardware, and unfortunately that lag can stretch for many years when it comes to wringing the best performance out of iron by tweaking algorithms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts/",
+      "originalUrl": "https://www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.nextplatform.com/wp-content/uploads/2023/09/nvidia-gpu-full-stack-performance-hpc-ai-mix.jpg",
+          "width": 714,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts/amp/",
+      "publishedDateTime": "2023-09-11T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -733,7 +724,7 @@
       "originalUrl": "https://indianexpress.com/article/india/as-distance-from-china-grows-india-us-work-on-tech-projects-chips-to-ai-8931140/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 91,
       "tags": null,
       "images": [
         {

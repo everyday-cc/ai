@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning can level the playing field against match fixing—helping regulators spot cheating"
-    excerpt: "On the eve of the Rugby World Cup kicking off, there have already been whispers of teams spying on each other. Inevitable gamesmanship, perhaps, but there's no doubt cheating in sport is a problem authorities struggle to combat."
-    publishedDateTime: 2023-09-08T16:16:00Z
-    webUrl: "https://techxplore.com/news/2023-09-machine-playing-field-fixinghelping.html"
-    ampWebUrl: "https://techxplore.com/news/2023-09-machine-playing-field-fixinghelping.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-machine-playing-field-fixinghelping.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 60
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/rugby.jpg"
-        width: 2880
-        height: 1920
-        isCached: true
   - title: "Machine learning can level the playing field against match fixing – helping regulators spot cheating"
     excerpt: "Read more about Machine learning can level the playing field against match fixing – helping regulators spot cheating on Devdiscourse"
     publishedDateTime: 2023-09-10T05:11:00Z
@@ -58,22 +42,6 @@ related:
       - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/15_10_2019_12_39_45_6163034.jpg?width=1280"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Optimizing AI Inference Is As Vital As Building AI Training Beasts"
-    excerpt: "The history of computing teaches us that software always and necessarily lags hardware, and unfortunately that lag can stretch for many years when it comes to wringing the best performance out of iron by tweaking algorithms."
-    publishedDateTime: 2023-09-11T15:26:00Z
-    webUrl: "https://www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts/"
-    ampWebUrl: "https://www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
-    images:
-      - url: "http://www.nextplatform.com/wp-content/uploads/2023/09/nvidia-gpu-full-stack-performance-hpc-ai-mix.jpg"
-        width: 714
-        height: 520
         isCached: true
   - title: "Fintech Customer Support India: Cynergy BPO— How Outsourcing Is Levelling the Playing Field"
     excerpt: "Furthermore, the nation’s technological stride in Artificial Intelligence and Machine Learning ensures that fintech customer support is not just reactive but proactive. Predictive analytics, real-time feedback, and AI-driven chatbots have transformed ..."
@@ -91,6 +59,29 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Robust detection of gallbladder cancer using deep-learning-assisted US imaging"
+    excerpt: "Researchers from India developed and validated a deep-learning (DL) model to automate the detection of gallbladder cancer."
+    publishedDateTime: 2023-09-13T08:25:00Z
+    webUrl: "https://www.news-medical.net/news/20230913/Robust-detection-of-gallbladder-cancer-using-deep-learning-assisted-US-imaging.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 20
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_758815_16945933026073125.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Deep Instinct takes a prevention-first approach to stopping ransomware and other malware using deep learning"
+    excerpt: "Many thanks to the great folks at Deep Instinct, who have sponsored my writing for the past week. If you’re interested in sponsoring my site for a week, and reaching an IT-savvy audience that"
+    publishedDateTime: 2023-09-10T20:35:00Z
+    webUrl: "https://grahamcluley.com/sponsor-deep-instinct/"
+    type: article
+    provider:
+      name: Graham Cluley
+      domain: grahamcluley.com
+    quality: 0
 
 secured: "V9T5kkQLb8Ui9ZrFOx9Bx/thFFGG8drZTesAdSHhsPQCSc+WIpbcfsnLgdaqjlbeV3oU17LP/QDl1y+sW7D5amkujlTwJkqWURNWkphyyxFpdo3leP2bZQ5NVi/lmABb7NjARpgAHPhbRtkhWkyWsUhkeIKj3J1Iwwse9SH0m/enTtxSbAOdnTam/C5vsxeTx5gMTQqlqFHQevDALJgD2F+FHzAtOvR53VzlRUc1pPBrRGUYTqnW/zlICONe4HJ6OR83UwM9+MsV/BJZv5ympIasIQiCZeb3rlziAg9+OlI9KVXYWZ3RMNi+q+sBplaHZzW72aGI2nraKu8ebQBJWTndERpJjIctCUC7468kW7v8+bBnMaC4gWEtNteBQDYuznY6ViZBRnycQyanrvqS3p0ZfHCxeRNu6aTwgL97lyWwV3ZdQvI2Y9ijNLte75phobSAmgfTeYSllsZKL+P2uh5vkBGYMXEgl3MbzrvCX0L+waCUr3vD6xIAxY+LB4yy7Obs8e+ftPuP9bKUAcAeYA==;1IfWAdfbADlEQ3u2bc/a/g=="
 ---

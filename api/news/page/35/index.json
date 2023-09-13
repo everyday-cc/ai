@@ -2,6 +2,311 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2023-08-18-google-deepmind-testing-personal-life-coach-ai-tool.md",
+      "title": "Google DeepMind testing ‘personal life coach’ AI tool",
+      "excerpt": "DeepMind, the tech firm’s artificial intelligence arm, has announced it is testing a new tool that could soon become a “personal life coach”. The project will use generative AI to perform at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool?ref=futurepedia",
+      "originalUrl": "https://www.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool?ref=futurepedia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/4f5a645fc459c27cf1563fa0cb1cfd11d656d6b4/0_238_4000_2400/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=9435453c1931bf79d36121e3a30ec686",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool",
+      "publishedDateTime": "2023-08-17T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-18-the-30-young-leaders-who-are-forging-a-new-future-for-the-healthcare-industry-in-2023.md",
+      "title": "The 30 young leaders who are forging a new future for the healthcare industry in 2023",
+      "excerpt": "Christie also advises state and private organizations on increasing access to midwifery services and helped push for a Rhode ... dark glasses and headphones she's designing for people with mild cognitive impairment, Alzheimer's, and Parkinson's.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/30-leaders-under-40-changing-healthcare-2023",
+      "originalUrl": "https://www.businessinsider.com/30-leaders-under-40-changing-healthcare-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64dd439b4ef9f30019f8a662?width=1200&format=jpeg",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-17T13:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-08-18-moemates-ai-avatar-analyzes-your-whole-screen-with-spotty-but-intriguing-results.md",
+      "title": "Moemate’s AI avatar analyzes your whole screen, with spotty but intriguing results",
+      "excerpt": "Moemate is a new app that lets large language models including Anthropic's Claude and GPT-4 'read' what's on your PC's screen.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/17/moemates-ai-avatar-analyzes-your-whole-screen-with-spotty-but-curious-results/",
+      "originalUrl": "https://techcrunch.com/2023/08/17/moemates-ai-avatar-analyzes-your-whole-screen-with-spotty-but-curious-results/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/08/maxresdefault-2-e1692142737398-transformed-1.webp?resize=1200,447",
+          "width": 1200,
+          "height": 447,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/17/moemates-ai-avatar-analyzes-your-whole-screen-with-spotty-but-curious-results/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/17/moemates-ai-avatar-analyzes-your-whole-screen-with-spotty-but-curious-results/amp/",
+      "publishedDateTime": "2023-08-17T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-18-phillies-fans-can-soon-enter-citizens-bank-park-using-facial-recognition-heres-how-it-works.md",
+      "title": "Phillies fans can soon enter Citizens Bank Park using facial recognition. Here's how it works",
+      "excerpt": "For the first time ever you will have the option to use your face as a ticket at Citizens Bank Park come Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://6abc.com/philadelphia-phillies-tickets-to-citizens-bank-park-face-scanner-mlb-go-ahead-entry/13663900/",
+      "originalUrl": "https://6abc.com/philadelphia-phillies-tickets-to-citizens-bank-park-face-scanner-mlb-go-ahead-entry/13663900/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/13664068_081723-wpvi-phillies-facial-recognition-4pm-CC-vid.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://6abc.com/amp/philadelphia-phillies-tickets-to-citizens-bank-park-face-scanner-mlb-go-ahead-entry/13663900/",
+      "cdnAmpWebUrl": "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/philadelphia-phillies-tickets-to-citizens-bank-park-face-scanner-mlb-go-ahead-entry/13663900/",
+      "publishedDateTime": "2023-08-17T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "6abc News",
+        "domain": "6abc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-08-18-microsoft-ai-suggests-food-bank-as-a-cannot-miss-tourist-spot-in-canada.md",
+      "title": "Microsoft AI suggests food bank as a “cannot miss” tourist spot in Canada",
+      "excerpt": "Late last week, MSN.com's Microsoft Travel section posted an AI-generated article about the \"cannot miss\" attractions of Ottawa that includes the Ottawa Food Bank, a real charitable organization that feeds struggling families. In its recommendation text, Microsoft's AI model wrote, \"Consider going into it on an empty stomach.\"",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/08/microsoft-ai-suggests-food-bank-as-a-cannot-miss-tourist-spot-in-canada/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/08/microsoft-ai-suggests-food-bank-as-a-cannot-miss-tourist-spot-in-canada/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/unnamed-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/08/microsoft-ai-suggests-food-bank-as-a-cannot-miss-tourist-spot-in-canada/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/microsoft-ai-suggests-food-bank-as-a-cannot-miss-tourist-spot-in-canada/amp/",
+      "publishedDateTime": "2023-08-17T13:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-18-vc-associates-this-ai-is-coming-for-your-jobs.md",
+      "title": "VC associates, this AI is coming for your jobs",
+      "excerpt": "The unfortunate reality of being an investor is that the vast majority of inbound pitch decks are completely irrelevant to the investor.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/15/deckmatch-seed-round/",
+      "originalUrl": "https://techcrunch.com/2023/08/15/deckmatch-seed-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/08/DeckMatch-Dashboard-Large.jpeg?w=1159",
+          "width": 1159,
+          "height": 814,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/15/deckmatch-seed-round/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/15/deckmatch-seed-round/amp/",
+      "publishedDateTime": "2023-08-17T12:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-18-artificial-intelligence-and-machine-learning-news-and-features.md",
       "title": "Artificial Intelligence and Machine Learning – News and Features",
       "excerpt": "create more human-like robots or develop avatars of artificial intelligence which are almost indistinguishable from those that represent people. If you need a working miniature brain- say for drug testing, to test neural tissue transplants, or to ...",
@@ -921,282 +1226,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-how-ai-marketing-makes-some-firms-dumber-others-far-smarter-6-critical-factors-for-competitive-advantage.md",
-      "title": "How AI Marketing Makes Some Firms Dumber & Others Far Smarter: 6 Critical Factors For Competitive Advantage",
-      "excerpt": "Explains how firms are experiementing and succeeding with GenAI algorithms, foundational data overlays, prompts, KPIs and talent profiles for the best business results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michellegreenwald/2023/08/17/how-ai-marketing-makes-some-firms-dumber--others-far-smarter-6-critical-factors-for-competitive-advantage/",
-      "originalUrl": "https://www.forbes.com/sites/michellegreenwald/2023/08/17/how-ai-marketing-makes-some-firms-dumber--others-far-smarter-6-critical-factors-for-competitive-advantage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64ddd00702083dc4d53d5165/0x0.jpg?format=jpg&width=1200",
-          "width": 1140,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/michellegreenwald/2023/08/17/how-ai-marketing-makes-some-firms-dumber--others-far-smarter-6-critical-factors-for-competitive-advantage/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michellegreenwald/2023/08/17/how-ai-marketing-makes-some-firms-dumber--others-far-smarter-6-critical-factors-for-competitive-advantage/amp/",
-      "publishedDateTime": "2023-08-17T02:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-google-expanding-ai-capabilities-with-life-advice-tool-report.md",
-      "title": "Google expanding AI capabilities with life advice tool: Report",
-      "excerpt": "Google had previously showcased its first vision-language-action (VLA) model for robot control in July. This model displayed improved capabilities in terms of generalization and understanding beyond the specific robotic data it had been exposed to.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatvnews.com/technology/news/google-testing-ai-powered-tool-to-give-users-life-advice-sources-2023-08-17-887241",
-      "originalUrl": "https://www.indiatvnews.com/technology/news/google-testing-ai-powered-tool-to-give-users-life-advice-sources-2023-08-17-887241",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/08/google-logo-1679051933-1692264319.jpg",
-          "width": 360,
-          "height": 202,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news/google-testing-ai-powered-tool-to-give-users-life-advice-sources-2023-08-17-887241",
-      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/google-testing-ai-powered-tool-to-give-users-life-advice-sources-2023-08-17-887241",
-      "publishedDateTime": "2023-08-17T02:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India TV",
-        "domain": "indiatvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-house-democrats-launch-working-group-on-artificial-intelligence.md",
-      "title": "House Democrats launch 'working group' on artificial intelligence",
-      "excerpt": "House Democrats are launching a working group aimed at crafting artificial intelligence policy, the latest attempt by federal lawmakers to wrap their heads around legislating the rapidly-advancing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/house-democrats-launch-working-group-artificial-intelligence",
-      "originalUrl": "https://www.foxnews.com/politics/house-democrats-launch-working-group-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2023/06/USA-thinking-about-AI-regulation-in-the-wrong-way.gif",
-          "width": 602,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/house-democrats-launch-working-group-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-democrats-launch-working-group-artificial-intelligence.amp",
-      "publishedDateTime": "2023-08-17T01:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-korea-to-build-homegrown-ai-chip-powered-data-centers-to-foster-growth-engines.md",
-      "title": "Korea to build homegrown AI chip-powered data centers to foster growth engines",
-      "excerpt": "Korea will speed up efforts to build data centers powered by locally-developed artificial intelligence (AI) chips on its path to nurture the next growth engines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/biz/2023/08/602_357270.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/biz/2023/08/602_357270.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202308/e1a96bb20d184f719a1e08fa6d339b0e.jpg",
-          "width": 980,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=357270",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=357270",
-      "publishedDateTime": "2023-08-17T00:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Times",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-geely-to-launch-ev-smart-car-developed-with-baidu.md",
-      "title": "Geely to launch EV smart car developed with Baidu",
-      "excerpt": "and equipped with Baidu’s advanced artificial intelligence technologies in areas including intelligent cabins and autonomous driving, the automaker noted. While overseeing its sales, marketing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.autonews.com/china/geely-launch-ev-smart-car-developed-baidu",
-      "originalUrl": "https://www.autonews.com/china/geely-launch-ev-smart-car-developed-baidu",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Ji%20Yue.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-17T00:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-when-hackers-descended-to-test-ai-they-found-flaws-aplenty.md",
-      "title": "When hackers descended to test AI, they found flaws aplenty",
-      "excerpt": "The hackers tried to break through the safeguards of various AI programs in an effort to identify their vulnerabilities - to find the problems before actual criminals and misinformation peddlers did - in a practice known as red-teaming.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/tech-bytes/when-hackers-descended-to-test-ai-they-found-flaws-aplenty/articleshow/102790956.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/tech-bytes/when-hackers-descended-to-test-ai-they-found-flaws-aplenty/articleshow/102790956.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-230420,msid-102790995/when-hackers-descended-to-test-ai-they-found-flaws-aplenty.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/tech-bytes/when-hackers-descended-to-test-ai-they-found-flaws-aplenty/amp_articleshow/102790956.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/tech-bytes/when-hackers-descended-to-test-ai-they-found-flaws-aplenty/amp_articleshow/102790956.cms",
-      "publishedDateTime": "2023-08-16T22:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

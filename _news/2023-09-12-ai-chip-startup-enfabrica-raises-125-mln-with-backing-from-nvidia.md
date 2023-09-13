@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/ai-chip-startup-enfabrica-raise
 webUrl: "https://www.reuters.com/technology/ai-chip-startup-enfabrica-raises-125-mln-with-backing-nvidia-2023-09-12/"
 type: article
 quality: 84
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -114,6 +114,20 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2023/08/cover.jpg"
         width: 843
         height: 394
+        isCached: true
+  - title: "NVidia’s Supremacy in AI Chip Market Affects New Star-ups"
+    excerpt: "AI chip investors in the US pull back on investments as NVidia maintains dominance in the AI chip market Data from PitchBook"
+    publishedDateTime: 2023-09-13T08:06:00Z
+    webUrl: "https://techreport.com/news/nvidias-supremacy-in-ai-chip-market-affects-new-star-ups/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 54
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2023/09/647748f87f12d.jpeg"
+        width: 2000
+        height: 1125
         isCached: true
   - title: "Nvidia’s dominance in AI chips deters funding for start-ups"
     excerpt: "Nvidia has “indirectly” contributed to overall AI chip fundraising woes, because investors want “home run only type investments with a huge investment, huge return”, Mythic CEO Dave Rick said. Difficult economic conditions have added to the downturn in the cyclical semiconductor industry, Rick said."

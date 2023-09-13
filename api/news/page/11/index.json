@@ -2,6 +2,264 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-09-05-usm-tapped-to-develop-ethics-training-in-age-of-artificial-intelligence.md",
+      "title": "USM tapped to develop ethics training in age of artificial intelligence",
+      "excerpt": "The University of Southern Maine has received a federal grant to develop an ethics training program for scientists, engineers and students.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pressherald.com/2023/09/05/usm-tapped-to-develop-ethics-training-in-age-of-artificial-intelligence/",
+      "originalUrl": "https://www.pressherald.com/2023/09/05/usm-tapped-to-develop-ethics-training-in-age-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pressherald.com/wp-content/uploads/sites/4/2023/09/37214095_20230829_USMethics1944-1693877941.jpg?w=1024",
+          "width": 1024,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-05T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Portland Press Herald",
+        "domain": "pressherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-05-civo-adds-speech-to-text-to-greener-cloud.md",
+      "title": "Civo Adds Speech-To-Text To Greener Cloud",
+      "excerpt": "Using a ‘digital boiler’, the system immerses computers in mineral oil to capture the generated heat, this is then passed through a heat exchanger to heat the water.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/09/05/civo-adds-speech-to-text-to-greener-cloud/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/09/05/civo-adds-speech-to-text-to-greener-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64f2f48d3b7f168d7417ee9d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/09/05/civo-adds-speech-to-text-to-greener-cloud/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/09/05/civo-adds-speech-to-text-to-greener-cloud/amp/",
+      "publishedDateTime": "2023-09-05T00:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-05-expo-city-dubai-launches-regions-first-artificial-intelligence-film-festival.md",
+      "title": "Expo City Dubai launches region’s first Artificial Intelligence Film Festival",
+      "excerpt": "The event establishes Expo City Dubai as the epicentre of AI innovation, a future-focused community and a global platform for collaboration on big ideas",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/business/technology-and-telecom/expo-city-dubai-launches-regions-first-artificial-intelligence-film-festival-buhpqsni",
+      "originalUrl": "https://www.zawya.com/en/business/technology-and-telecom/expo-city-dubai-launches-regions-first-artificial-intelligence-film-festival-buhpqsni",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/view/acePublic/alias/contentid/NjgwY2Q3NjMtZTY2NC00/17/1463605211.jpeg?f=3%3A2",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/business/technology-and-telecom/expo-city-dubai-launches-regions-first-artificial-intelligence-film-festival-buhpqsni?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/expo-city-dubai-launches-regions-first-artificial-intelligence-film-festival-buhpqsni?amp=1",
+      "publishedDateTime": "2023-09-05T00:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-05-itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management.md",
+      "title": "iTechGenic teams up with Microsoft Azure, G7 CR for AI-enhanced Engineering management",
+      "excerpt": "The primary objective of this partnership is to empower engineering teams with a 360-degree perspective by harnessing insights from various DevOps tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management/3233431/",
+      "originalUrl": "https://www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management/3233431/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/09/image-2023-09-05T113656.774.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management/3233431/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management/3233431/lite/",
+      "publishedDateTime": "2023-09-04T23:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-05-aws-hints-at-partner-program-changes-for-ai-and-partner-engagement.md",
+      "title": "AWS hints at partner program changes for AI and partner engagement",
+      "excerpt": "AWS is set to shake up its current partner programs, hinting towards changes regarding genAI and partner-to-partner engagement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/article/708622/aws-hints-partner-program-changes-ai-partner-engagement/",
+      "originalUrl": "https://www.arnnet.com.au/article/708622/aws-hints-partner-program-changes-ai-partner-engagement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-04T22:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-05-ai-robotics-western-asia.md",
+      "title": "AI Robotics - Western Asia",
+      "excerpt": "The market size in the AI Robotics market is projected to reach US$240.30m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 13.63%, resulting in a market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/western-asia",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/western-asia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-04T22:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-05-computer-vision-western-asia.md",
       "title": "Computer Vision - Western Asia",
       "excerpt": "The market size in the Computer Vision market is projected to reach US$355.80m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 12.56%, resulting in a market ...",
@@ -912,286 +1170,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-04-your-ai-doctor-will-see-you-now-how-technology-is-disrupting-medicine-and-beyond-in-south-africa.md",
-      "title": "Your AI doctor will see you now: How technology is disrupting medicine and beyond in South Africa",
-      "excerpt": "Artificial intelligence remains hotly contested, but scientists in South Africa are spearheading its development across various sectors, from healthcare to hospitality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/videos/tv/2023/08/31/inside-africa-technology-is-disrupting-medicine-and-beyond-in-south-africa-spc-intl.cnn",
-      "originalUrl": "https://www.cnn.com/videos/tv/2023/08/31/inside-africa-technology-is-disrupting-medicine-and-beyond-in-south-africa-spc-intl.cnn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230904095302-inside-africa-technology-is-disrupting-medicine-and-beyond-in-south-africa-spc-intl-00023730.png?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/tv/2023/08/31/inside-africa-technology-is-disrupting-medicine-and-beyond-in-south-africa-spc-intl.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/tv/2023/08/31/inside-africa-technology-is-disrupting-medicine-and-beyond-in-south-africa-spc-intl.cnn",
-      "publishedDateTime": "2023-09-04T02:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-04-how-to-get-a-handle-on-shadow-ai.md",
-      "title": "How to get a handle on shadow AI",
-      "excerpt": "By allowing the use of AI tools proven to be safe, but requiring them to be used within explicit guidelines, you can alleviate both employee frustration and organizational risk.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3705493/how-to-get-a-handle-on-shadow-ai.html",
-      "originalUrl": "https://www.infoworld.com/article/3705493/how-to-get-a-handle-on-shadow-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/07/shadow_of_hand_hovering_over_keyboard_cybercrime_cybersecurity_data_theft_hacking_by_dimitris66_gettyimages-509258975_2400x1600_cso_nw-100852242-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3705493/how-to-get-a-handle-on-shadow-ai.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705493/how-to-get-a-handle-on-shadow-ai.amp.html",
-      "publishedDateTime": "2023-09-04T02:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-04-rethinking-open-source-for-ai.md",
-      "title": "Rethinking open source for AI",
-      "excerpt": "Mehul Shah, founder and CEO of Aryn, a stealth startup that aims to reimagine enterprise search through AI, first outlined the problem for me in an interview. Shah, who spearheaded AWS’ OpenSearch business, is betting big on AI and also on open source.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3706091/rethinking-open-source-for-ai.html",
-      "originalUrl": "https://www.infoworld.com/article/3706091/rethinking-open-source-for-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/09/artificial-intelligence-neural-network-human-face-picture-id1150038843-100860324-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3706091/rethinking-open-source-for-ai.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706091/rethinking-open-source-for-ai.amp.html",
-      "publishedDateTime": "2023-09-04T02:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-04-artificial-intelligence-top-three-roles-under-threat-in-small-australian-businesses.md",
-      "title": "Artificial intelligence: Top three roles under threat in small Australian businesses",
-      "excerpt": "The top three roles most at risk of being replaced by artificial intelligence in small businesses have been revealed. Sobering results of a new survey of 79,000 companies found that one third of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/news/article-12477067/Artificial-intelligence-three-roles-threat-small-Australian-businesses.html",
-      "originalUrl": "https://www.dailymail.co.uk/news/article-12477067/Artificial-intelligence-three-roles-threat-small-Australian-businesses.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2023/09/04/03/75025821-0-image-a-28_1693794436858.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/news/article-12477067/amp/Artificial-intelligence-three-roles-threat-small-Australian-businesses.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12477067/amp/Artificial-intelligence-three-roles-threat-small-Australian-businesses.html",
-      "publishedDateTime": "2023-09-03T23:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-04-flow-wfm-wins-the-emerging-leader-in-wfm-award-at-bpo-and-contact-center-summit-2023.md",
-      "title": "FLOW WFM wins the \"Emerging leader in WFM\" award at BPO and Contact Center Summit 2023",
-      "excerpt": "The award highlights FLOW's ability to seamlessly integrate with other contact center technologies, eliminating the need for an expensive 'rip and replace'. • FLOW WFM showcased a plethora of features and benefits that empower contact centers to automate routine tasks,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theweek.in/wire-updates/business/2023/09/04/dcm8-intellicus-technologies.html",
-      "originalUrl": "https://www.theweek.in/wire-updates/business/2023/09/04/dcm8-intellicus-technologies.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theweek.in/wire-updates/business/2023/09/04/dcm8-intellicus-technologies.amp.html",
-      "cdnAmpWebUrl": "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/wire-updates/business/2023/09/04/dcm8-intellicus-technologies.amp.html",
-      "publishedDateTime": "2023-09-03T23:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Week",
-        "domain": "theweek.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-04-schumer-pledges-supercharged-path-to-ai-regulation-when-senate-returns-from-recess.md",
-      "title": "Schumer pledges ‘supercharged’ path to AI regulation when Senate returns from recess",
-      "excerpt": "Senate Majority Leader Schumer signaled AI regulation will be a main focus for his chamber when Congress returns from August recess.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/schumer-pledges-supercharged-path-ai-regulation-senate-returns-recess",
-      "originalUrl": "https://www.foxnews.com/politics/schumer-pledges-supercharged-path-ai-regulation-senate-returns-recess",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a465d63-285b-4571-9a28-2e72ee0f2d89/c41ba4c2-a3d5-4705-8858-f818626dece8/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/schumer-pledges-supercharged-path-ai-regulation-senate-returns-recess.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-pledges-supercharged-path-ai-regulation-senate-returns-recess.amp",
-      "publishedDateTime": "2023-09-03T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

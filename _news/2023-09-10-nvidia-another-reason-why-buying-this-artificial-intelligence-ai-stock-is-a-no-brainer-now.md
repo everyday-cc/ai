@@ -25,20 +25,43 @@ images:
     isCached: true
 
 related:
-  - title: "Snowflake (NASDAQ:SNOW): This AI Stock is a Strong Buy, Say Analysts"
-    excerpt: "Impressive capabilities are one thing, but developing an effective business model on top of the technology is another. From AI Chips to Software and Infrastructure For now, it seems doubtful that Snowflake will perform as well as AI chip kingpin Nvidia did ..."
-    publishedDateTime: 2023-09-11T22:46:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/snowflake-nasdaq-snow-this-ai-stock-is-a-strong-buy-say-analysts-1032621437"
+  - title: "Better Artificial Intelligence (AI) Stock: Nvidia vs. C3.ai"
+    excerpt: "The Motley Fool recommends C3.ai. The Motley Fool has a disclosure policy. Google CEO Sundar Pichai Says \"Artificial Intelligence (AI) Will Be the Biggest Technological Shift We See in Our Lifetimes.\" 5 Stocks to Buy and Hold If He's Right. What Qualcomm ..."
+    publishedDateTime: 2023-09-13T09:29:00Z
+    webUrl: "https://www.fool.com/investing/2023/09/13/better-ai-stock-nvidia-vs-c3-ai/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
+      name: The Motley Fool
+      domain: fool.com
+    quality: 82
     images:
-      - url: "https://blog.tipranks.com/wp-content/uploads/2023/09/image-190.png?utm_source=markets.businessinsider.com&utm_medium=referral"
-        width: 777
-        height: 436
+      - url: "https://g.foolcdn.com/editorial/images/747261/ai-robot.jpg"
+        width: 2051
+        height: 1461
         isCached: true
+  - title: "NVIDIA Partners with Tata Group to Develop AI Supercomputer, Cloud in India"
+    excerpt: "U.S. chipmaker NVIDIA and Indian conglomerate Tata Group have announced a major partnership to accelerate the adoption of artificial intelligence (AI) in India. The announcement follows, the US chip designer’s collaboration with Mukesh Ambani’s ..."
+    publishedDateTime: 2023-09-09T09:05:00Z
+    webUrl: "https://www.gizmochina.com/2023/09/09/nvidia-tata-ai-partnership/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 67
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/09/Nvidia-Partners-Tata.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Nvidia: Another Reason Why Buying This Artificial Intelligence (AI) Stock Is a No-Brainer Now"
+    excerpt: "Nvidia's (NASDAQ: NVDA) artificial intelligence (AI)-driven surge shows no signs of stopping. The company's results for the second quarter of fiscal 2024 (ended July 30, 2023), which were released last month,"
+    publishedDateTime: 2023-09-09T13:45:00Z
+    webUrl: "https://www.nasdaq.com/articles/nvidia:-another-reason-why-buying-this-artificial-intelligence-ai-stock-is-a-no-brainer"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 53
 
 secured: "4wKqOHlzeTj1oYMnQs/HKBavMLSU8Utue7UmLORtwb9MG1OWRRO59b8h3QvhyCABuxOnP7NU6qRMSZRoFSBZTsMciEwsUKXqqYlYJrQzsamIgf5z1HKbVyDHWzS2X/vRkHFMq9jugwxoFR9FkgZXx/qfgS/qZYBefSxZVReOplSb6uhHIfGIyJi1fGC4eGKYFAulK8IspF9lmKXtBxG/XCpIJ8fT7MU0orh+vnrXzYBCK674NHZzzcFYLxgkdXlrc3GF8RWI7RTItcnuo7YXjvekOKCcvLKQBM8GKOPbyUDtBZPvTt5VNdTQMSt1CjlsJFFg8qEiTyRsfzZoMPEDJy89G48L3dk899LshQeTavI=;ZmNOIBIBh3hc+oqWFqtL3A=="
 ---

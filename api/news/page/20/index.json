@@ -2,6 +2,300 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2023-08-29-ai-bros-are-at-war-over-declarations-that-googles-upcoming-gemini-ai-model-smashes-openais-gpt-4.md",
+      "title": "AI bros are at war over declarations that Google's upcoming Gemini AI model smashes OpenAI's GPT-4",
+      "excerpt": "Declarations that Google's upcoming Gemini AI model outflanks OpenAI's GPT-4 set the tech world alight.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/google-gemini-ai-model-smashes-gpt4-says-semianalysis-2023-8",
+      "originalUrl": "https://www.businessinsider.com/google-gemini-ai-model-smashes-gpt4-says-semianalysis-2023-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64edd5319664cf0019e7f4fa?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/google-gemini-ai-model-smashes-gpt4-says-semianalysis-2023-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-gemini-ai-model-smashes-gpt4-says-semianalysis-2023-8?amp",
+      "publishedDateTime": "2023-08-29T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-deepmind-says-it-has-a-way-to-identify-ai-imagesbut-only-on-google.md",
+      "title": "DeepMind Says It Has a Way to Identify AI Images...but Only on Google",
+      "excerpt": "We may earn a commission from links on this page. DeepMind says its SynthID system can install a watermark on AI images that won’t be removed via color filters or other image manipulation.Image ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/deepmind-ai-watermark-duet-google-cloud-next-1850783568",
+      "originalUrl": "https://gizmodo.com/deepmind-ai-watermark-duet-google-cloud-next-1850783568",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c6ebab563b7a7c1816be76efed12c4d6.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-29T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-artificial-intelligence-ai-in-cancer-diagnostics-market-to-surpass-usd-208434-million-by-2032.md",
+      "title": "Artificial Intelligence (AI) in Cancer Diagnostics Market to Surpass USD 2,084.34 Million by 2032",
+      "excerpt": "Ottawa, Aug. 29, 2023 (GLOBE NEWSWIRE) -- The global artificial intelligence (AI) in cancer diagnostics market revenue is projected to reach around USD 1,466.72 million by 2029, a Study published by Towards Healthcare a sister firm of Precedence Research.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/08/g34095294/artificial-intelligence-ai-in-cancer-diagnostics-market-to-surpass-usd-2-084-34-million-by-2032",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/g34095294/artificial-intelligence-ai-in-cancer-diagnostics-market-to-surpass-usd-2-084-34-million-by-2032",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34095294",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34095294",
+      "publishedDateTime": "2023-08-29T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-oracles-stock-wins-an-upgrade-as-wall-street-may-be-underestimating-its-ai-advantage.md",
+      "title": "Oracle’s stock wins an upgrade, as Wall Street may be underestimating its AI advantage",
+      "excerpt": "“We could be sitting in front of 6-12 months of GPU shortage noise and we haven’t even seen the $2 [billion] in AI start-up commitments convert to OCI usage.” He added that he had been skeptical “about the existence and certainly sustainability of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/oracles-stock-wins-an-upgrade-as-wall-street-may-be-underestimating-its-ai-advantage-402a21b0",
+      "originalUrl": "https://www.marketwatch.com/story/oracles-stock-wins-an-upgrade-as-wall-street-may-be-underestimating-its-ai-advantage-402a21b0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-798898/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/oracles-stock-wins-an-upgrade-as-wall-street-may-be-underestimating-its-ai-advantage-402a21b0",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/oracles-stock-wins-an-upgrade-as-wall-street-may-be-underestimating-its-ai-advantage-402a21b0",
+      "publishedDateTime": "2023-08-29T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-ai-to-star-in-the-launch-of-webflows-built-in-app-ecosystem.md",
+      "title": "AI to star in the launch of Webflow’s built-in app ecosystem",
+      "excerpt": "Leinwand invites developers to bring their ideas and start developing on the platform. In a call with VentureBeat, Jasper AI President Shane Orlick discussed the company’s partnership with Webflow, emphasizing how gen AI is empowering creators.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-to-star-in-the-launch-of-webflows-built-in-app-ecosystem/",
+      "originalUrl": "https://venturebeat.com/ai/ai-to-star-in-the-launch-of-webflows-built-in-app-ecosystem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/08/IMG_0455.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-29T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-finance-transformation-with-ai-and-open-banking.md",
+      "title": "Finance Transformation With AI And Open Banking",
+      "excerpt": "Oracle Cloud is one good choice, but Amazon Web Services (AWS), Azure, Google Cloud Platform or a combination ... Guardrails And Governance: Applying STAGE And TOTAL Security To Machine Learning If you need to read more on the banking STAGE framework ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/29/finance-transformation-with-ai-and-open-banking/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/29/finance-transformation-with-ai-and-open-banking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-29T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-08-29-better-artificial-intelligence-ai-stock-amazon-vs-nvidia.md",
       "title": "Better Artificial Intelligence (AI) Stock: Amazon vs. Nvidia",
       "excerpt": "Amazon is rapidly expanding its software and hardware offerings in AI. Nvidia has achieved a majority market share in AI chips. You’re reading a free article with opinions that may differ from The Motley Fool’s Premium Investing Services. Become a ...",
@@ -867,306 +1161,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-kaldi-speech-recognition-gains-tensorflow-deep-learning-support.md",
-      "title": "Kaldi speech recognition gains TensorFlow deep learning support",
-      "excerpt": "Kaldi, an open-source speech recognition toolkit, has been updated with integration with the open-source TensorFlow deep learning library. Developers Yishay Carmiel and Hainan Xu of Seattle-based ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/deep-learning/kaldi-speech-tensorflow-deep-learning/",
-      "originalUrl": "https://sdtimes.com/deep-learning/kaldi-speech-tensorflow-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2017/08/DSC2820-1.jpg",
-          "width": 1620,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-robots-and-artificial-intelligence.md",
-      "title": "Robots and Artificial Intelligence",
-      "excerpt": "Lindsay to discuss how artificial intelligence is reshaping great power competition and intensifying the geopolitical rivalry between China and the United States. Heidi A. Campbell, professor of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cfr.org/robots-and-artificial-intelligence",
-      "originalUrl": "https://www.cfr.org/robots-and-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cfr.org//themes/custom/cfr_theme/src/assets/images/cfr-logo-og.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cfr.org",
-        "domain": "cfr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-the-future-of-self-driving-cars-is-here.md",
-      "title": "The Future of Self-Driving Cars Is Here",
-      "excerpt": "But at the same time, opponents of self-driving cars would argue that maybe we're not quite at the point where we should be rolling these out to the masses yet. Jessica Mendoza: Welcome to The ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/podcasts/the-journal/the-future-of-self-driving-cars-is-here/8242f8d7-e3ab-48bc-9afd-1d8f447b7769",
-      "originalUrl": "https://www.wsj.com/podcasts/the-journal/the-future-of-self-driving-cars-is-here/8242f8d7-e3ab-48bc-9afd-1d8f447b7769",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-653169?width=1280",
-          "width": 1280,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-28T15:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-arms-hot-chip-reveal-faster-silicon-development-performance-uplifts.md",
-      "title": "Arm’s Hot Chip Reveal: Faster Silicon Development, Performance Uplifts",
-      "excerpt": "VP & Principal Analyst, Datacenter Compute, Matt Kimball, details Arm's Neoverse CSS and Neoverse V2 platform announcement at the annual Hot Chips event 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/08/28/arms-hot-chip-reveal-faster-silicon-development-performance-uplifts/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/08/28/arms-hot-chip-reveal-faster-silicon-development-performance-uplifts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64ed1cb4d9b05823194af6bd/0x0.jpg?format=jpg&width=1200",
-          "width": 691,
-          "height": 306,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/08/28/arms-hot-chip-reveal-faster-silicon-development-performance-uplifts/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/08/28/arms-hot-chip-reveal-faster-silicon-development-performance-uplifts/amp/",
-      "publishedDateTime": "2023-08-28T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-vmware-explore-2023-recap-its-all-about-your-data.md",
-      "title": "VMware Explore 2023 Recap: It’s All About Your Data",
-      "excerpt": "VP & Principal Analyst, Datacenter Compute, Matt Kimball, shares interesting announcements and his takeaways from VMware Explore 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/08/28/vmware-explore-2023-recap-its-all-about-your-data/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/08/28/vmware-explore-2023-recap-its-all-about-your-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64ed19ff84e76c4fc0d8ae1f/0x0.png?format=png&width=1200",
-          "width": 936,
-          "height": 445,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/08/28/vmware-explore-2023-recap-its-all-about-your-data/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/08/28/vmware-explore-2023-recap-its-all-about-your-data/amp/",
-      "publishedDateTime": "2023-08-28T15:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-u-of-i-researchers-speech-accessibility-project-aims-to-make-voice-recognition-tech-more-useful.md",
-      "title": "U of I researchers’ Speech Accessibility Project aims to make voice recognition tech more useful",
-      "excerpt": "Researchers at the University of Illinois are working on a critical project to help make voice recognition technology more useful for people with a wide range of speech patterns and disabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://wgntv.com/news/medical-watch/u-of-i-researchers-speech-accessibility-project-aims-to-make-voice-recognition-tech-more-useful/",
-      "originalUrl": "https://wgntv.com/news/medical-watch/u-of-i-researchers-speech-accessibility-project-aims-to-make-voice-recognition-tech-more-useful/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wgntv.com/wp-content/uploads/sites/5/2023/08/snapshot-45-1.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wgntv.com/news/medical-watch/u-of-i-researchers-speech-accessibility-project-aims-to-make-voice-recognition-tech-more-useful/amp/",
-      "cdnAmpWebUrl": "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/news/medical-watch/u-of-i-researchers-speech-accessibility-project-aims-to-make-voice-recognition-tech-more-useful/amp/",
-      "publishedDateTime": "2023-08-28T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WGN-TV",
-        "domain": "wgntv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

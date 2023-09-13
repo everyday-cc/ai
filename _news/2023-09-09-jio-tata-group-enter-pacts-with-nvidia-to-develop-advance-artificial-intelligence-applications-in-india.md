@@ -43,36 +43,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "NVIDIA Partners with Tata Group to Develop AI Supercomputer, Cloud in India"
-    excerpt: "U.S. chipmaker NVIDIA and Indian conglomerate Tata Group have announced a major partnership to accelerate the adoption of artificial intelligence (AI) in India. The announcement follows, the US chip designer’s collaboration with Mukesh Ambani’s ..."
-    publishedDateTime: 2023-09-09T09:05:00Z
-    webUrl: "https://www.gizmochina.com/2023/09/09/nvidia-tata-ai-partnership/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 67
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/09/Nvidia-Partners-Tata.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "NVIDIA Helps India Achieve AI Dominance: After Reliance, Pens Deal With Tata"
-    excerpt: "As per the partnership, Tata Communications and NVIDIA will create an AI cloud in India to offer critical infrastructure to drive computing's next lifecycle. The companies will jointly build an AI supercomputer powered by the NVIDIA's GH200 Grace Hopper Superchip to boost performance."
-    publishedDateTime: 2023-09-08T16:56:00Z
-    webUrl: "https://www.benzinga.com/markets/equities/23/09/34364787/nvidia-helps-india-achieve-ai-dominance-after-reliance-pens-deal-with-tata"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34364787"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34364787"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 56
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/09/08/nvda_0.png?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Nvidia bets on India with Tata Group, Reliance Industries AI partnerships"
     excerpt: "According to Nvidia CEO Jensen Huang, India 'possesses [the] size, data, and skill' necessary to be a leader in AI."
     publishedDateTime: 2023-09-11T16:26:00Z

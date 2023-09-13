@@ -57,15 +57,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
-  - title: "IRS will use AI to crack down on wealthy potential tax violators"
-    excerpt: "The IRS said Friday it leveraged AI to open investigations into 75 of the largest partnerships in the U.S. that each have more than $10 billion in assets on average."
-    publishedDateTime: 2023-09-08T16:47:00Z
-    webUrl: "https://www.axios.com/2023/09/08/irs-artificial-intelligence-tax-violations"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 17
 
 secured: "cUBlAiFVGgS3XEFxD6+OIrUZfki82eAToZgKg5/JuzmTUMDpPmzmkpFlxP7J6BCKWmAiyWnOEkSD8xy93OyF4EUeL1LvAHlLeihkqw3P2yYoT9qI+2wpikL/1fV0Mejzs5eqGY0yUNnPsmt3LTAG9fQzEk4YtTiqOwcHRMzNMJFUue6aGC18mBp/bwfffgTWwCYsllsYnOAJmr/vv/uZJnGz4dZh9r8nQ4Xjlq3tpjBqafveZJ2/2IafjDsqfDn89se5yiyNDdqt5ngOb7UtqQQhJKQoWKZ9PaxX+JljZEyR8ZpSG8fz9Vf3ZqU3JN2OfHjnxd6HsnfevRNXBGlQItfFrrV1t3p5C8mXzuhLuix896iP0GpOoWhe5gd7HGegzWemTbGbvUoWFVhvRMHA1+tT3jgNNJV/K9wnuCkMsN8nGuh452cJqoPV8hUD/JO+CFtc7fAsaHsH7pGSla8HT9bBrt2H7DbtOXdSGU9fJ8YoNmdIqo5zAtgWryBWB2Nn9pXaTJQfdf21DAnRWExXeA==;A6C+ctGCbmjHDsHnZppFJQ=="
 ---

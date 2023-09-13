@@ -2,6 +2,159 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-12-ai-app-characterai-is-catching-up-to-chatgpt-in-the-us.md",
+      "title": "AI app Character.ai is catching up to ChatGPT in the U.S.",
+      "excerpt": "That’s notable growth following Character.ai’s May 2023 launch, when the startup shared it had topped 1.7 million installs in its first week. Of course, installs don’t equate to users, much less active ones. In fact, the average mobile app has a 30 ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/09/11/ai-app-character-ai-is-catching-up-to-chatgpt-in-the-u-s/",
+      "originalUrl": "https://techcrunch.com/2023/09/11/ai-app-character-ai-is-catching-up-to-chatgpt-in-the-u-s/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 327,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/05/characterai-Mobile-App.png?w=1011",
+          "width": 1011,
+          "height": 497,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/09/11/ai-app-character-ai-is-catching-up-to-chatgpt-in-the-u-s/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/11/ai-app-character-ai-is-catching-up-to-chatgpt-in-the-u-s/amp/",
+      "publishedDateTime": "2023-09-11T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-tim-burton-says-ai-imitations-of-his-art-style-are-missing-humanity-and-soul-even-if-the-results-are-pretty-good.md",
+      "title": "Tim Burton says AI imitations of his art style are missing 'humanity' and 'soul' — even if the results are 'pretty good'",
+      "excerpt": "Director Tim Burton reacted to a Buzzfeed article with AI renditions of Disney characters in his art style, calling the results \"very disturbing.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/tim-burton-comments-ai-artwork-lacks-soul-humanity-2023-9",
+      "originalUrl": "https://www.businessinsider.com/tim-burton-comments-ai-artwork-lacks-soul-humanity-2023-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64ff2f5d3d39230019782b07?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/tim-burton-comments-ai-artwork-lacks-soul-humanity-2023-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tim-burton-comments-ai-artwork-lacks-soul-humanity-2023-9?amp",
+      "publishedDateTime": "2023-09-11T10:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-even-turbotax-is-adding-an-ai-tool-heres-what-intuit-assist-can-do-for-you.md",
+      "title": "Even TurboTax is adding an AI tool. Here's what Intuit Assist can do for you",
+      "excerpt": "Intuit, the company behind popular tax software TurboTax, has announced a new generative AI tool called Intuit Assist. The AI tool, intended primarily for small entrepreneurs and business owners but available to anyone, is designed to give those users the same leverage as large corporations when it comes to taxes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/even-turbotax-is-adding-an-ai-tool-heres-what-intuit-assist-can-do-for-you/",
+      "originalUrl": "https://www.zdnet.com/article/even-turbotax-is-adding-an-ai-tool-heres-what-intuit-assist-can-do-for-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/814a0f43f23c03c4c7ef58e3508089f746827abd/2023/09/11/bf9e9aec-646a-4ff5-8cee-5496f8db4cba/tax-gettyimages-1170832686.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/even-turbotax-is-adding-an-ai-tool-heres-what-intuit-assist-can-do-for-you/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/even-turbotax-is-adding-an-ai-tool-heres-what-intuit-assist-can-do-for-you/",
+      "publishedDateTime": "2023-09-11T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-11-powering-the-future-the-synergy-of-ibm-and-aws-partnership.md",
       "title": "Powering the future: The synergy of IBM and AWS partnership",
       "excerpt": "The true power of this partnership and its offerings becomes evident when considering real-world scenarios.\nThe post Powering the future: The synergy of IBM and AWS partnership appeared first on IBM Blog.\n",
@@ -42,48 +195,6 @@
       "topics": [
         "IBM AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-ai-tool-helps-optimize-antibody-medicines.md",
-      "title": "AI tool helps optimize antibody medicines",
-      "excerpt": "Antibody treatments may be able to activate the immune system to fight diseases like Parkinson's, Alzheimer's and colorectal cancer, but they are less effective when they bind with themselves and other molecules that aren't markers of disease.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-09-ai-tool-optimize-antibody-medicines.html",
-      "originalUrl": "https://phys.org/news/2023-09-ai-tool-optimize-antibody-medicines.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-tool-helps-optimize-1.jpg",
-          "width": 1535,
-          "height": 1371,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-09-ai-tool-optimize-antibody-medicines.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-ai-tool-optimize-antibody-medicines.amp",
-      "publishedDateTime": "2023-09-11T08:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -140,6 +251,49 @@
       ]
     },
     {
+      "path": "_news/2023-09-11-optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts.md",
+      "title": "Optimizing AI Inference Is As Vital As Building AI Training Beasts",
+      "excerpt": "The history of computing teaches us that software always and necessarily lags hardware, and unfortunately that lag can stretch for many years when it comes to wringing the best performance out of iron by tweaking algorithms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts/",
+      "originalUrl": "https://www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.nextplatform.com/wp-content/uploads/2023/09/nvidia-gpu-full-stack-performance-hpc-ai-mix.jpg",
+          "width": 714,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts/amp/",
+      "publishedDateTime": "2023-09-11T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-11-us-rejects-ai-copyright-for-famous-state-fair-winning-midjourney-art.md",
       "title": "US rejects AI copyright for famous state fair-winning Midjourney art",
       "excerpt": "On Tuesday, the US Copyright Office Review Board rejected copyright protection for an AI-generated artwork that won a Colorado State Fair art contest last year because it lacks human authorship required for registration,",
@@ -148,7 +302,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/09/us-rejects-ai-copyright-for-famous-state-fair-winning-midjourney-art/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1046,152 +1200,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-the-time-is-now-why-enterprises-should-invest-in-systems-of-intelligence.md",
-      "title": "The Time Is Now: Why Enterprises Should Invest In Systems Of Intelligence",
-      "excerpt": "Though artificial intelligence has been making inroads into the enterprise, the rise of generative AI is accelerating the pace of adoption. It’s time for enterprise CXOs to consider building systems of intelligence that complement systems of record and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2023/09/11/the-time-is-now-why-enterprises-should-invest-in-systems-of-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/09/11/the-time-is-now-why-enterprises-should-invest-in-systems-of-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64fea75e4f1046194173b638/0x0.jpg?format=jpg&width=1200",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2023/09/11/the-time-is-now-why-enterprises-should-invest-in-systems-of-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/09/11/the-time-is-now-why-enterprises-should-invest-in-systems-of-intelligence/amp/",
-      "publishedDateTime": "2023-09-10T22:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-jaipur-police-harness-ai-facial-recognition-to-enhance-security.md",
-      "title": "Jaipur police harness AI facial recognition to enhance security",
-      "excerpt": "Jaipur: The city police have adopted Artificial Intelligence (AI) technology to monitor potential miscreants moving within the city using the Facial R.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/jaipur/jaipur-police-harness-ai-facial-recognition-to-enhance-security/articleshow/103564720.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/jaipur/jaipur-police-harness-ai-facial-recognition-to-enhance-security/articleshow/103564720.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1070,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/jaipur/jaipur-police-harness-ai-facial-recognition-to-enhance-security/amp_articleshow/103564720.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/jaipur/jaipur-police-harness-ai-facial-recognition-to-enhance-security/amp_articleshow/103564720.cms",
-      "publishedDateTime": "2023-09-10T19:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-a-paralyzed-woman-couldnt-speak-for-more-than-20-years-with-ai-now-she-can-just-by-thinking.md",
-      "title": "A paralyzed woman couldn't speak for more than 20 years. With AI, now she can — just by thinking.",
-      "excerpt": "The neurotech, developed by researchers at UC San Francisco and UC Berkeley, reads the stroke survivor's brain signals and converts them to speech.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-neurotech-allows-stroke-survivor-speak-brainwaves-thinking-paralyzed-2023-9",
-      "originalUrl": "https://www.businessinsider.com/ai-neurotech-allows-stroke-survivor-speak-brainwaves-thinking-paralyzed-2023-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64fe3e4ea39a1b00190ccb18?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-neurotech-allows-stroke-survivor-speak-brainwaves-thinking-paralyzed-2023-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-neurotech-allows-stroke-survivor-speak-brainwaves-thinking-paralyzed-2023-9?amp",
-      "publishedDateTime": "2023-09-10T17:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

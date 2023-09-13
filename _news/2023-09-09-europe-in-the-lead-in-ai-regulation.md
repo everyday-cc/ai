@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mikeosullivan/2023/09/09/europe-in-the-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/09/09/europe-in-the-lead-in-ai-regulation/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64ff1c3b731e9cb353f9e2c7/0x0.jpg?format=jpg&crop=1823,1026,x0,y91,safe&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Robots, regulation and real people: managing AI in the workplace"
+    excerpt: "While touched upon by existing financial, intellectual property and data protection regulation, the rise of generative AI has prompted regulatory bodies to craft bespoke regulation for AI."
+    publishedDateTime: 2023-09-13T08:54:00Z
+    webUrl: "https://www.thebanker.com/Robots-regulation-and-real-people-managing-AI-in-the-workplace-1694591764"
+    type: article
+    provider:
+      name: The Banker
+      domain: thebanker.com
+    quality: 54
+    images:
+      - url: "https://www.thebanker.com/var/ezflow_site/storage/images/media/images/ai-in-the-workplace/13076761-1-eng-GB/Ai-in-the-workplace.jpg"
+        width: 3000
+        height: 1687
         isCached: true
   - title: "State Legislatures Eye AI Regulation"
     excerpt: "The state plans to use this information to develop a robust AI ethics board and audit procedures to protect the rights of Vermont citizens amidst future AI developments. Industry-specific guidance has begun to emerge as well. For instance, many state ..."

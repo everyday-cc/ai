@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning can level the playing field against match fixing—helping regulators spot cheating"
-    excerpt: "On the eve of the Rugby World Cup kicking off, there have already been whispers of teams spying on each other. Inevitable gamesmanship, perhaps, but there's no doubt cheating in sport is a problem authorities struggle to combat."
-    publishedDateTime: 2023-09-08T16:16:00Z
-    webUrl: "https://techxplore.com/news/2023-09-machine-playing-field-fixinghelping.html"
-    ampWebUrl: "https://techxplore.com/news/2023-09-machine-playing-field-fixinghelping.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-machine-playing-field-fixinghelping.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 60
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/rugby.jpg"
-        width: 2880
-        height: 1920
-        isCached: true
   - title: "Machine learning can level the playing field against match fixing – helping regulators spot cheating"
     excerpt: "Read more about Machine learning can level the playing field against match fixing – helping regulators spot cheating on Devdiscourse"
     publishedDateTime: 2023-09-10T05:11:00Z
@@ -75,22 +59,29 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Optimizing AI Inference Is As Vital As Building AI Training Beasts"
-    excerpt: "The history of computing teaches us that software always and necessarily lags hardware, and unfortunately that lag can stretch for many years when it comes to wringing the best performance out of iron by tweaking algorithms."
-    publishedDateTime: 2023-09-11T15:26:00Z
-    webUrl: "https://www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts/"
-    ampWebUrl: "https://www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts/amp/"
+  - title: "Robust detection of gallbladder cancer using deep-learning-assisted US imaging"
+    excerpt: "Researchers from India developed and validated a deep-learning (DL) model to automate the detection of gallbladder cancer."
+    publishedDateTime: 2023-09-13T08:25:00Z
+    webUrl: "https://www.news-medical.net/news/20230913/Robust-detection-of-gallbladder-cancer-using-deep-learning-assisted-US-imaging.aspx"
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
+      name: News Medical
+      domain: news-medical.net
+    quality: 20
     images:
-      - url: "http://www.nextplatform.com/wp-content/uploads/2023/09/nvidia-gpu-full-stack-performance-hpc-ai-mix.jpg"
-        width: 714
-        height: 520
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_758815_16945933026073125.jpg"
+        width: 2000
+        height: 1333
         isCached: true
+  - title: "Deep Instinct takes a prevention-first approach to stopping ransomware and other malware using deep learning"
+    excerpt: "Many thanks to the great folks at Deep Instinct, who have sponsored my writing for the past week. If you’re interested in sponsoring my site for a week, and reaching an IT-savvy audience that"
+    publishedDateTime: 2023-09-10T20:35:00Z
+    webUrl: "https://grahamcluley.com/sponsor-deep-instinct/"
+    type: article
+    provider:
+      name: Graham Cluley
+      domain: grahamcluley.com
+    quality: 0
 
 secured: "A0HYXXRFkuAG6eid5Vq7FsHKSbgUZXs//ZaP6t9W4+wmAtt9x1B6BgrtWUPifv3+STQY9sF5ZwYRS+8T0F1uLkBFipSY7eSoK/WuwPj2aAEWJUubHTB2p+mx19zlPf8JJ7bCch7NPdTgnLVAnpz639nhN+ZbZ6e/rdfIOxmiFW3ani+0VJvdMU2qe4LIWE6O6FtsWgaAYEyUPNokUustgd/NIsy0vQpQZYO7MR7qanHEF5X/TVE4RCqkLDzDKKlrrupBh8WyuPIibU9eql+cpCNeg/XQ4kQeh/uu0pJnKDEnKN+qe8B7UbNKpe8UTRxTEypOMDaovYl9uZvy5GEODqGmrCKddw8vCpkIsVgeGQM=;1miqBC7GbByUkQm15/69OA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.deccanchronicle.com/amp/technology/in-other-news/110923/
 cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/110923/hyderabad-can-emerge-as-indias-ai-robotics-hub-experts.html"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://img.digitimes.com/newsshow/20230911vl201_files/4_2b.jpg"
         width: 1280
         height: 853
+        isCached: true
+  - title: "6 Generative AI Jobs in India"
+    excerpt: "The role aims to contribute to Apple’s generative AI-based developer platform, collaborating with data scientists and software engineers to provide ML solutions for internal use, with a focus on improving the developer experience."
+    publishedDateTime: 2023-09-13T07:31:00Z
+    webUrl: "https://analyticsindiamag.com/6-generative-ai-jobs-in-india/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/09/6-Generative-AI-Jobs-in-India.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "AhTpGKMYwv4K24cy+oihchnfYJgQfNGN0fwvQiXuC+OTLqmJVhsK1PaP2i+0+4zG1vWQXGELG/PHap6n6SRYWN1/utxWBUj5VHr3kWaIGlbrIkqnvFKaMYZ/p8NvESj8SwfE+3czopQpCvcgRk/82MH8acTeiu2LUhh5IWBlfGsybGOU1CnGMb2p7384I0Jb/k4YMP5Iqv6YApCoIGMIpzxBDAZ2Xk4E0Oc7NiNx9pwkwmwzac32eU+9RkydUnPjVmyv7Lqn1KGIOf6vZmbJ1sNli8+NUswAPgdWMHqCcEHhb7xiOvCMbjSRAk8d6ozKrag0gzjZgJuaUawEV1+ZOxJUp117KoMeM1TgBdzq7LI=;At2EOD7wcyg1dJCxEb7cHg=="

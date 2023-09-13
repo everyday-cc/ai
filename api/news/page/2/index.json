@@ -2,6 +2,151 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-12-6-skills-writers-need-to-hone-amid-the-ai-boom.md",
+      "title": "6 Skills Writers Need To Hone Amid The AI Boom",
+      "excerpt": "While AI is an impressive generalist with a solid base of knowledge across many domains, these models can't easily acquaint themselves with the intricacies of specific workplaces and fields of research. The writers best positioned to thrive in the AI boom are writers with specialized, industry-specific knowledge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/09/12/6-skills-writers-need-to-hone-amid-the-ai-boom/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/09/12/6-skills-writers-need-to-hone-amid-the-ai-boom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6475f9b5e2fec92c8f569955/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 718,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/09/12/6-skills-writers-need-to-hone-amid-the-ai-boom/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/09/12/6-skills-writers-need-to-hone-amid-the-ai-boom/amp/",
+      "publishedDateTime": "2023-09-12T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-an-interactive-platform-that-explains-machine-learning-models-to-its-users.md",
+      "title": "An interactive platform that explains machine learning models to its users",
+      "excerpt": "Machine learning models are now commonly used in various professional fields, while also underpinning the functioning of many smartphone applications, software packages and online services. While most people are exposed to these models and interact with them in some form or the other,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-09-interactive-platform-machine-users.html",
+      "originalUrl": "https://techxplore.com/news/2023-09-interactive-platform-machine-users.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/an-interactive-platfor.jpg",
+          "width": 1280,
+          "height": 1239,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-09-interactive-platform-machine-users.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-interactive-platform-machine-users.amp",
+      "publishedDateTime": "2023-09-12T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-elon-musk-and-mark-zuckerberg-will-talk-ai-rules-in-senate-forum-on-wednesday.md",
+      "title": "Elon Musk and Mark Zuckerberg will talk AI rules in Senate forum on Wednesday",
+      "excerpt": "Senate Majority Leader Chuck Schumer is convening an AI forum on Wednesday, bringing together big names in tech including Mark Zuckerberg and Elon Musk.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/elon-musk-and-mark-zuckerberg-will-talk-ai-rules-in-senate-forum-on-wednesday-296d6ffe",
+      "originalUrl": "https://www.marketwatch.com/story/elon-musk-and-mark-zuckerberg-will-talk-ai-rules-in-senate-forum-on-wednesday-296d6ffe",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-849947/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/elon-musk-and-mark-zuckerberg-will-talk-ai-rules-in-senate-forum-on-wednesday-296d6ffe",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/elon-musk-and-mark-zuckerberg-will-talk-ai-rules-in-senate-forum-on-wednesday-296d6ffe",
+      "publishedDateTime": "2023-09-12T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-12-how-machine-learning-and-ai-could-solve-drug-shortages.md",
       "title": "How Machine Learning And AI Could Solve Drug Shortages",
       "excerpt": "Although AI’s presence on the public stage has become more prevalent in just the past year, it has been used in the medical field for more than four decades.",
@@ -200,7 +345,7 @@
       "originalUrl": "https://www.reuters.com/technology/ai-chip-startup-enfabrica-raises-125-mln-with-backing-nvidia-2023-09-12/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -583,58 +728,6 @@
       ]
     },
     {
-      "path": "_news/2023-09-12-snowflake-nasdaqsnow-this-ai-stock-is-a-strong-buy-say-analysts.md",
-      "title": "Snowflake (NASDAQ:SNOW): This AI Stock is a Strong Buy, Say Analysts",
-      "excerpt": "Impressive capabilities are one thing, but developing an effective business model on top of the technology is another. From AI Chips to Software and Infrastructure For now, it seems doubtful that Snowflake will perform as well as AI chip kingpin Nvidia did ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/snowflake-nasdaq-snow-this-ai-stock-is-a-strong-buy-say-analysts-1032621437",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/snowflake-nasdaq-snow-this-ai-stock-is-a-strong-buy-say-analysts-1032621437",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.tipranks.com/wp-content/uploads/2023/09/image-190.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-          "width": 777,
-          "height": 436,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-11T15:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-12-the-irs-is-using-artificial-intelligence-to-catch-millionaires-dodging-taxes.md",
       "title": "The IRS Is Using Artificial Intelligence to Catch Millionaires Dodging Taxes",
       "excerpt": "The IRS is using artificial intelligence to strengthen its efforts in cracking down on illegal tax practices. The initiative is part of a broader effort by the IRS to scrutinize wealthier taxpayers in 2024—focusing on pursuing millionaires with ...",
@@ -643,7 +736,7 @@
       "originalUrl": "https://www.entrepreneur.com/business-news/irs-uses-ai-to-fight-tax-evasion-millionaires-dodging-taxes/458884",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -694,7 +787,7 @@
       "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/09/11/ibm-takes-the-reins-of-enterprise-ai-with-watsonx/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -787,6 +880,57 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-the-pentagon-plans-to-build-a-vast-ai-fleet.md",
+      "title": "The Pentagon Plans to Build a Vast AI Fleet",
+      "excerpt": "The Pentagon plans to build a vast network of artificial-intelligence powered technology, drones, and autonomous systems. WSJ national security correspondent Na",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/video/series/tech-news-briefing/the-pentagon-plans-to-build-a-vast-ai-fleet/8F97223C-88BC-4C2C-A636-4359D0663ECA",
+      "originalUrl": "https://www.wsj.com/video/series/tech-news-briefing/the-pentagon-plans-to-build-a-vast-ai-fleet/8F97223C-88BC-4C2C-A636-4359D0663ECA",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://images.wsj.net/im-850325?width=1280&height=720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-11T14:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1048,7 +1192,7 @@
       "originalUrl": "https://www.deccanchronicle.com/technology/in-other-news/110923/hyderabad-can-emerge-as-indias-ai-robotics-hub-experts.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1079,159 +1223,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-ai-app-characterai-is-catching-up-to-chatgpt-in-the-us.md",
-      "title": "AI app Character.ai is catching up to ChatGPT in the U.S.",
-      "excerpt": "That’s notable growth following Character.ai’s May 2023 launch, when the startup shared it had topped 1.7 million installs in its first week. Of course, installs don’t equate to users, much less active ones. In fact, the average mobile app has a 30 ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/09/11/ai-app-character-ai-is-catching-up-to-chatgpt-in-the-u-s/",
-      "originalUrl": "https://techcrunch.com/2023/09/11/ai-app-character-ai-is-catching-up-to-chatgpt-in-the-u-s/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 317,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/05/characterai-Mobile-App.png?w=1011",
-          "width": 1011,
-          "height": 497,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/09/11/ai-app-character-ai-is-catching-up-to-chatgpt-in-the-u-s/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/11/ai-app-character-ai-is-catching-up-to-chatgpt-in-the-u-s/amp/",
-      "publishedDateTime": "2023-09-11T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-tim-burton-says-ai-imitations-of-his-art-style-are-missing-humanity-and-soul-even-if-the-results-are-pretty-good.md",
-      "title": "Tim Burton says AI imitations of his art style are missing 'humanity' and 'soul' — even if the results are 'pretty good'",
-      "excerpt": "Director Tim Burton reacted to a Buzzfeed article with AI renditions of Disney characters in his art style, calling the results \"very disturbing.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/tim-burton-comments-ai-artwork-lacks-soul-humanity-2023-9",
-      "originalUrl": "https://www.businessinsider.com/tim-burton-comments-ai-artwork-lacks-soul-humanity-2023-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64ff2f5d3d39230019782b07?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/tim-burton-comments-ai-artwork-lacks-soul-humanity-2023-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tim-burton-comments-ai-artwork-lacks-soul-humanity-2023-9?amp",
-      "publishedDateTime": "2023-09-11T10:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-even-turbotax-is-adding-an-ai-tool-heres-what-intuit-assist-can-do-for-you.md",
-      "title": "Even TurboTax is adding an AI tool. Here's what Intuit Assist can do for you",
-      "excerpt": "Intuit, the company behind popular tax software TurboTax, has announced a new generative AI tool called Intuit Assist. The AI tool, intended primarily for small entrepreneurs and business owners but available to anyone, is designed to give those users the same leverage as large corporations when it comes to taxes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/even-turbotax-is-adding-an-ai-tool-heres-what-intuit-assist-can-do-for-you/",
-      "originalUrl": "https://www.zdnet.com/article/even-turbotax-is-adding-an-ai-tool-heres-what-intuit-assist-can-do-for-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/814a0f43f23c03c4c7ef58e3508089f746827abd/2023/09/11/bf9e9aec-646a-4ff5-8cee-5496f8db4cba/tax-gettyimages-1170832686.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/even-turbotax-is-adding-an-ai-tool-heres-what-intuit-assist-can-do-for-you/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/even-turbotax-is-adding-an-ai-tool-heres-what-intuit-assist-can-do-for-you/",
-      "publishedDateTime": "2023-09-11T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

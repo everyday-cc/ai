@@ -102,6 +102,36 @@ related:
         width: 700
         height: 466
         isCached: true
+  - title: "Meta is working on new AI model even more powerful than OpenAI's GPT-4, says report"
+    excerpt: "Meta is working on a new AI system expected to be more powerful than OpenAI's GPT-4. It could be ready next year."
+    publishedDateTime: 2023-09-11T02:28:00Z
+    webUrl: "https://www.livemint.com/ai/artificial-intelligence/meta-is-working-on-new-ai-model-even-more-powerful-than-openais-gpt-4-says-report-11694396138923.html"
+    ampWebUrl: "https://www.livemint.com/ai/artificial-intelligence/meta-is-working-on-new-ai-model-even-more-powerful-than-openais-gpt-4-says-report/amp-11694396138923.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/meta-is-working-on-new-ai-model-even-more-powerful-than-openais-gpt-4-says-report/amp-11694396138923.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 53
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/09/11/600x338/META-PLATFORMS-PRIVACY-DECISION-0_1694398908885_1694398951117.JPG"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Meta is building AI model to rival OpenAI's most powerful system"
+    excerpt: "Related: Nvidia drops new AI chip expected to cut development costs The sources ... Microsoft is a primary backer of OpenAI and also collaborated with Meta to help make Llama 2 available on Azure, its cloud-computing platform. However, the sources said ..."
+    publishedDateTime: 2023-09-11T08:50:00Z
+    webUrl: "https://cointelegraph.com/news/meta-building-ai-model-rivals-open-ai"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 41
+    images:
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDkvOTE3ZjliNGYtMDE1NC00MjlkLWE0YjUtZGRhNmY0NTgxMzA3LmpwZw==.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Meta developing new, more powerful AI system - WSJ"
     excerpt: "Llama 2 is Meta's open source AI language model launched in July, and distributed by Microsoft's cloud Azure services to compete with OpenAI's ChatGPT and Google's Bard. The planned system, details of which could still change, would help other companies ..."
     publishedDateTime: 2023-09-11T06:35:00Z

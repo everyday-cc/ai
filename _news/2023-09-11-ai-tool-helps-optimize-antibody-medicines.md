@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2023-09-ai-tool-optimize-antibody-medicines.am
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-ai-tool-optimize-antibody-medicines.amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Phys.org
@@ -40,15 +40,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "LTIMindtree collaborates with CAST AI to help Businesses Optimize Their Cloud Investments"
-    excerpt: "Powered by AI, CAST AI provides cloud cost automation for real-life containerized applications running on AWS, GCP, and Azure. CAST AI’s founders are serial entrepreneurs who have been developing advanced AI solutions for over a decade and have ..."
-    publishedDateTime: 2023-09-08T16:54:00Z
-    webUrl: "https://www.afp.com/fr/news/1312/ltimindtree-collaborates-cast-ai-help-businesses-optimize-their-cloud-investments-202308268172881"
-    type: article
-    provider:
-      name: AFP
-      domain: afp.com
-    quality: 10
 
 secured: "guijdvQ1jQEWUvVjefQlYPiWVn2dzbyx6NBlFr0ZbmHdbOB5AOrZgmEJWdg9WWxd+eIf5OJPe3CIt0OkGzW0v7U41oFjHeziqODtXVWzdEqr2JXmLQRJbY78SEE9E2ou0p5e5iWAXBsUiVb00esFFLF/jGd5uqo1/DDl86DYUV6F7LaEdSt1i6Ts5WNcpbrc2MJoiATZV7tQcITsJ5gIj7YH9njgSi8NrY6oNqP1w9aRpkWc0XxXw7Ae6R0jrKk6mtpd7eh+ueUu6Ptng8ouOgsXxPB6jNL1Itjp/uT0RvcTMhIprCE3WmqLGU3FnydfK44dDetN9943kpzIrEqB+Hpm72mg3fQ5GZGnjnJdTJeTdK11rhFDc626uAl+ZgxgCRBayQ4HEuadDOuFpe8V6tI6R80e4yobV/cnLEZTQ39rKhBMxBfCwaRWGFI9+gTPUnD0IDJo+xo0tS5zzFpJtuECXdH3IInM6uZs6i43SmM4sLgE+3QakXlp7PrR++oIX0YvEmnHXg5POms1mVeoLA==;n3JfucxJztFS/nlu2Honig=="
 ---

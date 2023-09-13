@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-a
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 129
+published: true
 
 provider:
   name: The Next Platform
@@ -27,70 +27,92 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning can level the playing field against match fixing—helping regulators spot cheating"
-    excerpt: "On the eve of the Rugby World Cup kicking off, there have already been whispers of teams spying on each other. Inevitable gamesmanship, perhaps, but there's no doubt cheating in sport is a problem authorities struggle to combat."
-    publishedDateTime: 2023-09-08T16:16:00Z
-    webUrl: "https://techxplore.com/news/2023-09-machine-playing-field-fixinghelping.html"
-    ampWebUrl: "https://techxplore.com/news/2023-09-machine-playing-field-fixinghelping.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-machine-playing-field-fixinghelping.amp"
+  - title: "The Inverse Turing Test: Navigating An AI-Created Complexity"
+    excerpt: "The Turing Test, a concept introduced by Alan Turing in 1950, has been a foundation concept for evaluating a machine's ability to exhibit human-like intelligence. But as we edge closer to the singularity—the point where artificial intelligence surpasses human intelligence—a new,"
+    publishedDateTime: 2023-09-10T20:52:00Z
+    webUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202309/the-inverse-turing-test-navigating-an-ai-created-complexity"
+    ampWebUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202309/the-inverse-turing-test-navigating-an-ai-created-complexity?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-digital-self/202309/the-inverse-turing-test-navigating-an-ai-created-complexity?amp"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 60
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/rugby.jpg"
-        width: 2880
-        height: 1920
+      - url: "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2023-09/DripBrain.jpg?itok=u06OTnjt"
+        width: 320
+        height: 219
         isCached: true
-  - title: "Machine learning can level the playing field against match fixing – helping regulators spot cheating"
-    excerpt: "Read more about Machine learning can level the playing field against match fixing – helping regulators spot cheating on Devdiscourse"
-    publishedDateTime: 2023-09-10T05:11:00Z
-    webUrl: "https://www.devdiscourse.com/article/sports-games/2587869-machine-learning-can-level-the-playing-field-against-match-fixing---helping-regulators-spot-cheating"
-    ampWebUrl: "https://www.devdiscourse.com/article/sports-games/2587869-machine-learning-can-level-the-playing-field-against-match-fixing---helping-regulators-spot-cheating?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/sports-games/2587869-machine-learning-can-level-the-playing-field-against-match-fixing---helping-regulators-spot-cheating?amp"
+  - title: "Grab this chance to see ‘Flying Man’ Sam Rogers at Dubai World Congress for Self-Driving Transport"
+    excerpt: "Latest autonomous vehicles, robots to go on show from September 26 to 27 at DWTC Dubai: The opening keynote at the upcoming Dubai World Congress for Self-Driving Transport will be delivered by Sam \"Flying Man\" Rogers, famous for taking off in his jet suit."
+    publishedDateTime: 2023-09-12T06:02:00Z
+    webUrl: "https://gulfnews.com/uae/transport/grab-this-chance-to-see-flying-man-sam-rogers-at-dubai-world-congress-for-self-driving-transport-1.98056754"
+    ampWebUrl: "https://gulfnews.com/amp/uae/transport/grab-the-chance-to-see-flying-man-sam-rogers-at-dubai-self-driving-event-1.98056754"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/transport/grab-the-chance-to-see-flying-man-sam-rogers-at-dubai-self-driving-event-1.98056754"
     type: article
     provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 59
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 45
     images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/15_10_2019_12_39_45_6163034.jpg?width=1280"
-        width: 1280
-        height: 853
+      - url: "https://imagevars.gulfnews.com/2023/09/12/credit-Instagram-Sam-Rogers-1694497367730_18a87e9e6c8_medium.jpg"
+        width: 540
+        height: 405
         isCached: true
-  - title: "Machine learning can level the playing field against match fixing – helping regulators spot cheating"
-    excerpt: "The study shows that machine learning can be utilised to help safeguard the integrity of sports competitions, and to assist regulatory bodies, sports organisations and law enforcement agencies maintain fairness and public trust."
-    publishedDateTime: 2023-09-11T01:56:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/machine-learning-can-level-the-playing-field-against-match-fixing-helping-regulators-spot-cheating-71694348321724.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/machine-learning-can-level-the-playing-field-against-match-fixing-helping-regulators-spot-cheating-71694348321724.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/machine-learning-can-level-the-playing-field-against-match-fixing-helping-regulators-spot-cheating-71694348321724.html"
+  - title: "Here's your chance tp see ‘Flying Man’ Sam Rogers at Dubai World Congress for Self-Driving Transport"
+    excerpt: "Latest autonomous vehicles, robots to go on show from September 26 to 27 at DWTC Dubai: The opening keynote at the upcoming Dubai World Congress for Self-Driving Transport will be delivered by Sam \"Flying Man\" Rogers, famous for taking off in his jet suit."
+    publishedDateTime: 2023-09-12T06:00:00Z
+    webUrl: "https://gulfnews.com/uae/transport/heres-your-chance-tp-see-flying-man-sam-rogers-at-dubai-world-congress-for-self-driving-transport-1.98056754"
+    ampWebUrl: "https://gulfnews.com/amp/uae/transport/heres-your-chance-tp-see-flying-man-sam-rogers-at-dubai-world-congress-for-self-driving-transport-1.98056754"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/transport/heres-your-chance-tp-see-flying-man-sam-rogers-at-dubai-world-congress-for-self-driving-transport-1.98056754"
     type: article
     provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 59
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 44
     images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/09/11/1600x900/Data_Science_Course_1686915589627_1694397187884.jpg"
-        width: 1600
-        height: 900
+      - url: "https://imagevars.gulfnews.com/2023/09/12/credit-Instagram-Sam-Rogers-1694497367730_18a87e9e6c8_medium.jpg"
+        width: 540
+        height: 405
         isCached: true
-  - title: "Fintech Customer Support India: Cynergy BPO— How Outsourcing Is Levelling the Playing Field"
-    excerpt: "Furthermore, the nation’s technological stride in Artificial Intelligence and Machine Learning ensures that fintech customer support is not just reactive but proactive. Predictive analytics, real-time feedback, and AI-driven chatbots have transformed ..."
-    publishedDateTime: 2023-09-11T11:25:00Z
-    webUrl: "https://www.telegraphindia.com/brand-studio/fintech-customer-support-india-cynergy-bpo-how-outsourcing-is-levelling-the-playing-field/cid/1965443"
-    ampWebUrl: "https://www.telegraphindia.com/amp/brand-studio/fintech-customer-support-india-cynergy-bpo-how-outsourcing-is-levelling-the-playing-field/cid/1965443"
-    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/brand-studio/fintech-customer-support-india-cynergy-bpo-how-outsourcing-is-levelling-the-playing-field/cid/1965443"
+  - title: "Generative AI in production: Rethinking development and embracing best practices"
+    excerpt: "For apps built on LLMs, the engineering mindset of predictable debugging and software testing and monitoring is suddenly challenged."
+    publishedDateTime: 2023-09-11T13:38:00Z
+    webUrl: "https://venturebeat.com/ai/generative-ai-in-production-rethinking-development-and-embracing-best-practices/"
     type: article
     provider:
-      name: The Telegraph
-      domain: telegraphindia.com
-    quality: 34
-    images:
-      - url: "https://assets.telegraphindia.com/telegraph/2023/Sep/1694430652_untitled-design-16.jpg"
-        width: 900
-        height: 600
-        isCached: true
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 42
+  - title: "Artificial intelligence in hiring: risks for employers"
+    excerpt: "As many employers race to embrace artificial intelligence, there are risks to be aware of when it comes to using the technology in hiring."
+    publishedDateTime: 2023-09-11T11:33:00Z
+    webUrl: "https://www.bizjournals.com/nashville/news/2023/09/11/artificial-intelligence-hiring-risks-employers.html"
+    ampWebUrl: "https://www.bizjournals.com/nashville/news/2023/09/11/artificial-intelligence-hiring-risks-employers.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/nashville/news/2023/09/11/artificial-intelligence-hiring-risks-employers.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 39
+  - title: "Intel shows strong AI inference performance"
+    excerpt: "Intel has shown up well on competitive performance for AI inference as it attempt to make artificial intelligence (AI) more accessible at scale across the continuum of AI workloads, from client and edge to the network and cloud."
+    publishedDateTime: 2023-09-13T09:29:00Z
+    webUrl: "https://it-online.co.za/2023/09/13/intel-shows-strong-ai-inference-performance/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 19
+  - title: "How AI Can Help Cut Energy Costs While Meeting Ambitious ESG Goals"
+    excerpt: "Implementing AI can help companies slash energy spending and operate sustainably. Tackling these complex challenges by combining AI with human expertise can have an impact far beyond the organizations leading these efforts."
+    publishedDateTime: 2023-09-11T12:59:00Z
+    webUrl: "https://hbr.org/sponsored/2023/09/how-ai-can-help-cut-energy-costs-while-meeting-ambitious-esg-goals"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
 
 secured: "7BV+Ms8/GijJ1zcTIK4IiJ1mOX/pgqNnMN0J4Nj8Cj+bMSMWxOGaX/yhbZH9OJ69mLrumlLLj1MWBw6yayxyIndI4XrxdmIIkCeHxI9i/vgMGYKtPfcRFP0vzDJhs6NCdHUg4DkPaY0Hn6aLSw4LKWrxgXAFfK/HxXR6P6ZaSako44WJ0GrnzsKNFb702JA8sYuoZ2fDzUoqXNyKmOchGvva48R7631+ikgYWakPSvvCN7AN6Q9vX8SfPjh3J6sEFl+3cZl4mCDH5EtApviXdIsc+QJyQuSwBvyrQsDz4QORSMAV/J5akUpJ2DFy7P2haskHOyfhbwe9hyQFulH6wKf/EcBkkkzWSPcgKETnTLmnJzG9ujkEG1CclpBeDV4YW3YQkMdVgXP3TNw+2hzit18diL2IxD1T3Vo8aKWX5lgMbJowUdQhMcYtmGpsbuqnvQkdbxUVgaW+Pa5F8V/9beyBp9WGtuQVILLEU6H77uqkuxgfMsgAhW1bG6zCTDVxkFiJUeNNuWfdyfFuoFF6SQ==;z11ey9uXH0EF6rT7y/SRBw=="
 ---

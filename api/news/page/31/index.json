@@ -2,6 +2,290 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2023-08-22-youtube-and-universal-music-group-join-forces-to-explore-the-future-of-ai-music.md",
+      "title": "YouTube and Universal Music Group join forces to explore the future of AI music",
+      "excerpt": "YouTube announced it is launching an artificial intelligence (AI) incubator designed to explore AI's role in music.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/youtube-and-universal-music-group-join-forces-to-explore-the-future-of-ai-music/",
+      "originalUrl": "https://venturebeat.com/ai/youtube-and-universal-music-group-join-forces-to-explore-the-future-of-ai-music/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/08/nuneybits_robot_piano_player_in_the_style_of_Ernie_Barnes_1db59697-574c-4365-a013-aa6356769289-transformed.png?fit=750%2C600&#038;strip=all",
+          "width": 750,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-21T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-21-new-study-reveals-why-mainframe-application-modernization-is-key-to-accelerating-digital-transformation.md",
+      "title": "New study reveals why mainframe application modernization is key to accelerating digital transformation",
+      "excerpt": "Rapid advancement of emerging technologies are driving organizations to prioritize digital transformation more than ever.\nThe post New study reveals why mainframe application modernization is key to accelerating digital transformation appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/new-study-reveals-why-mainframe-application-modernization-is-key-to-accelerating-digital-transformation/",
+      "originalUrl": "https://www.ibm.com/blog/new-study-reveals-why-mainframe-application-modernization-is-key-to-accelerating-digital-transformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-21T13:50:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-22-siggraph-2023-highlights-new-graphics-technologies-and-missed-opportunities.md",
+      "title": "Siggraph 2023 Highlights New Graphics Technologies — And Missed Opportunities",
+      "excerpt": "Principal Analyst, Mobility & VR, Anshel Sag shares his insights from this year's Siggraph graphics conference—including his disappointment with how it was organized.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/08/21/siggraph-2023-highlights-new-graphics-technologies---and-missed-opportunities/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/08/21/siggraph-2023-highlights-new-graphics-technologies---and-missed-opportunities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e3c5ca0b850136180f2ee6/0x0.jpg?format=jpg&width=1200",
+          "width": 936,
+          "height": 604,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/08/21/siggraph-2023-highlights-new-graphics-technologies---and-missed-opportunities/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/08/21/siggraph-2023-highlights-new-graphics-technologies---and-missed-opportunities/amp/",
+      "publishedDateTime": "2023-08-21T13:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-22-this-ai-generated-crypto-invoice-scam-almost-got-me-and-im-a-security-pro.md",
+      "title": "This AI-generated crypto invoice scam almost got me, and I'm a security pro",
+      "excerpt": "Even a tech pro can fall for a well-laid phishing trap. Here's what happened to me - and how you can avoid a similar fate, too.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/this-ai-generated-crypto-invoice-scam-almost-got-me-and-im-a-security-pro/",
+      "originalUrl": "https://www.zdnet.com/article/this-ai-generated-crypto-invoice-scam-almost-got-me-and-im-a-security-pro/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/3be910b06a4d8796f38d7419f839efc630fba979/2023/08/21/f7f8fc3a-a1e7-4b45-badc-2dc6c05955f7/gettyimages-1468008490.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-ai-generated-crypto-invoice-scam-almost-got-me-and-im-a-security-pro/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-ai-generated-crypto-invoice-scam-almost-got-me-and-im-a-security-pro/",
+      "publishedDateTime": "2023-08-21T13:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-08-22-in-a-win-for-humans-federal-judge-rules-that-ai-generated-artwork-cant-be-copyrighted.md",
+      "title": "In a win for humans, federal judge rules that AI-generated artwork can't be copyrighted",
+      "excerpt": "The ruling, delivered from U.S. District Judge Beryl Howell, said that copyright law has never \"stretched so far\" as to \"protect works generated by new forms of technology operating absent any guiding human hand. Human authorship is a bedrock requirement.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/in-a-win-for-humans-federal-judge-rules-that-ai-generated-artwork-cant-be-copyrighted/",
+      "originalUrl": "https://www.zdnet.com/article/in-a-win-for-humans-federal-judge-rules-that-ai-generated-artwork-cant-be-copyrighted/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/ebc3fbebb1b64c4dc9941626d9803441a45e07a9/2023/08/21/184074f9-120f-46c6-8ce7-918105d0a825/gettyimages-1428512168.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/in-a-win-for-humans-federal-judge-rules-that-ai-generated-artwork-cant-be-copyrighted/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/in-a-win-for-humans-federal-judge-rules-that-ai-generated-artwork-cant-be-copyrighted/",
+      "publishedDateTime": "2023-08-21T13:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-22-phillies-fans-can-now-use-facial-recognition-to-enter-citizens-bank-park.md",
+      "title": "Phillies fans can now use facial recognition to enter Citizens Bank Park",
+      "excerpt": "Starting today at Citizens Bank Park, Phillies fans will have the option to enter the stadium using facial recognition technology instead of presenting their tickets to be scanned by event staff. The Phillies will be the first team to test the MLB's new Go ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.phillyvoice.com/phillies-facial-recognition-go-ahead-entry-mlb-citizens-bank-park/",
+      "originalUrl": "https://www.phillyvoice.com/phillies-facial-recognition-go-ahead-entry-mlb-citizens-bank-park/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.phillyvoice.com/phillies-facial-recognition-go-ahead-entry-mlb-citizens-bank-park/amp/",
+      "cdnAmpWebUrl": "https://www-phillyvoice-com.cdn.ampproject.org/c/s/www.phillyvoice.com/phillies-facial-recognition-go-ahead-entry-mlb-citizens-bank-park/amp/",
+      "publishedDateTime": "2023-08-21T13:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "phillyvoice.com",
+        "domain": "phillyvoice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-08-22-natural-language-processing-to-extract-social-risk-factors-influencing-health.md",
       "title": "Natural language processing to extract social risk factors influencing health",
       "excerpt": "A new study has found that a natural language processing (NLP) system developed with leadership from Regenstrief Institute and Indiana University Richard M. Fairbanks School of Public Health ...",
@@ -882,283 +1166,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-21-technological-advances-in-medicine-how-ai-and-machine-learning-are-revolutionizing-medical-sector.md",
-      "title": "Technological Advances In Medicine: How AI And Machine Learning Are Revolutionizing Medical Sector",
-      "excerpt": "These intelligent machines are revolutionizing the medical sector by introducing advance medical imaging interpretations, early disease detection and personalized treatment planning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehealthsite.com/diseases-conditions/technological-advances-in-medicine-how-ai-and-machine-learning-are-revolutionizing-medical-sector-1002255/",
-      "originalUrl": "https://www.thehealthsite.com/diseases-conditions/technological-advances-in-medicine-how-ai-and-machine-learning-are-revolutionizing-medical-sector-1002255/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://st1.thehealthsite.com/wp-content/uploads/2023/08/artificial-intelligence-technology-futuristic-science.jpg",
-          "width": 1654,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehealthsite.com/diseases-conditions/technological-advances-in-medicine-how-ai-and-machine-learning-are-revolutionizing-medical-sector-1002255/amp/",
-      "cdnAmpWebUrl": "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/diseases-conditions/technological-advances-in-medicine-how-ai-and-machine-learning-are-revolutionizing-medical-sector-1002255/amp/",
-      "publishedDateTime": "2023-08-21T03:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheHealthSite",
-        "domain": "thehealthsite.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-21-openai-meta-and-tesla-desperately-want-this-nvidia-gpu-but-why.md",
-      "title": "OpenAI, Meta and Tesla desperately want this Nvidia GPU: But why?",
-      "excerpt": "AI faces Nvidia H100 GPU crunch, stalling projects. Dive into its tech features, production challenges, and the ripple effect on AI's future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digit.in/news/machine-learning-and-ai/openai-meta-and-tesla-desperately-want-this-nvidia-gpu-68744.html",
-      "originalUrl": "https://www.digit.in/news/machine-learning-and-ai/openai-meta-and-tesla-desperately-want-this-nvidia-gpu-68744.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.digit.in/default/tr:w-1200/nvidia-h100-1280-3c1f6abca9.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digit.in/article/amp/machine-learning-and-ai/68744/openai-meta-and-tesla-desperately-want-this-nvidia-gpu",
-      "cdnAmpWebUrl": "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/machine-learning-and-ai/68744/openai-meta-and-tesla-desperately-want-this-nvidia-gpu",
-      "publishedDateTime": "2023-08-21T02:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digit",
-        "domain": "digit.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-08-21-embracing-generative-ai-opportunities-and-risks-for-cfos.md",
-      "title": "Embracing Generative AI: Opportunities and Risks for CFOs",
-      "excerpt": "By harnessing the power of AI-driven analytics and automation, CFOs can stay ahead of the competition and unlock new avenues for growth and success.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jackmccullough/2023/08/21/embracing-generative-ai-opportunities-and-risks-for-cfos/",
-      "originalUrl": "https://www.forbes.com/sites/jackmccullough/2023/08/21/embracing-generative-ai-opportunities-and-risks-for-cfos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64e215e712d998d1680c8ded/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jackmccullough/2023/08/21/embracing-generative-ai-opportunities-and-risks-for-cfos/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackmccullough/2023/08/21/embracing-generative-ai-opportunities-and-risks-for-cfos/amp/",
-      "publishedDateTime": "2023-08-21T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-21-applying-the-lessons-of-open-source-to-generative-ai.md",
-      "title": "Applying the lessons of open source to generative AI",
-      "excerpt": "The excitement and turmoil surrounding generative AI is not unlike the early days of open source, or the Wild West. We can resolve the uncertainty and confusion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3705051/applying-the-lessons-of-open-source-to-generative-ai.html",
-      "originalUrl": "https://www.infoworld.com/article/3705051/applying-the-lessons-of-open-source-to-generative-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 339,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/08/shutterstock_17221348-100944913-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3705051/applying-the-lessons-of-open-source-to-generative-ai.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705051/applying-the-lessons-of-open-source-to-generative-ai.amp.html",
-      "publishedDateTime": "2023-08-21T02:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-21-can-googles-interactive-ai-tools-transform-education-finally-answered.md",
-      "title": "Can Google's Interactive AI Tools Transform Education? Finally answered",
-      "excerpt": "As technology advances, Google’s AI Platform and AutoML empower educators and students to delve into machine learning, fostering data analysis and predictive modeling skills. By bridging virtual assistants with academic empowerment, Google is paving the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraphindia.com/edugraph/career/can-googles-interactive-ai-tools-transform-education-finally-answered/cid/1960511",
-      "originalUrl": "https://www.telegraphindia.com/edugraph/career/can-googles-interactive-ai-tools-transform-education-finally-answered/cid/1960511",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telegraphindia.com/telegraph/2023/Aug/1692607126_okio.jpg",
-          "width": 558,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telegraphindia.com/amp/edugraph/career/can-googles-interactive-ai-tools-transform-education-finally-answered/cid/1960511",
-      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/career/can-googles-interactive-ai-tools-transform-education-finally-answered/cid/1960511",
-      "publishedDateTime": "2023-08-21T01:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Telegraph",
-        "domain": "telegraphindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-08-21-ai-in-fintech-market-size-share-and-trends-analysis-report-2030.md",
-      "title": "AI In Fintech Market Size, Share And Trends Analysis Report 2030",
-      "excerpt": "In 2023,“ai in fintech market“ Size, Status and Market Insights, It Is Graceful to Raise by 2023 Forecast to 2030 | 93 Pages “Global AI in Fintech market size is projected to reach USD 17440 ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1106899219/AI-In-Fintech-Market-Size-Share-And-Trends-Analysis-Report-2030",
-      "originalUrl": "https://menafn.com/1106899219/AI-In-Fintech-Market-Size-Share-And-Trends-Analysis-Report-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?275953",
-          "width": 370,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-20T23:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

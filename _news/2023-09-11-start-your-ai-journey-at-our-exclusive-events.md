@@ -41,6 +41,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "A|I: The AI Times – Why Midjourney’s founder rejects venture capital"
+    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
+    publishedDateTime: 2023-09-13T08:55:00Z
+    webUrl: "https://betakit.com/ai-the-ai-times-why-midjourneys-founder-rejects-venture-capital/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 39
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2023/09/Husky-Observer-Clearpath.jpg"
+        width: 1050
+        height: 700
+        isCached: true
 
 secured: "nlh6HqTktmLwBP8+kuBXikt8dxB2VEz2XIQqitnWLDqtW3MMJ6GI0v2JkVXHK7cE7InOnBFkC4scOayemy4VvXsdOcGKm/Sup1ZtAXflYhY/R8Sq+2qTddrqkb245AGBEc2HqsncIMf+nyaV2vrUED1w4zJCsufHmvdeEhw2dMtoHxR2jXQripWph3TttygkGZ8UyqDyjq8l/anArsqU28Z02E8+O/m37Y5aMWamkGyaYJJ56hdaJfRBEl5rBYsqzD463//IFwCTFSgsg0KgHa155TJsCyENJPTQtmcbaBzaIy2jESUGmMxlaCEFnZFsmX092XSxNwSFV/vUwKSECAAyW9UCQgCCQRqisJOv1AC5Qott2KZOA0wKul0AH1y2b7iZ58XjoGseORU+C2nfO6sNC4USBWdSeMtJWLuSLIZvvHMEx9qMGDbzXrWQV4ZwzX4ktFxiqAZ9cTCS0eF8/jzKb8PRXpQOPFjHMEShB4Z8OOWV3N0bE11SNkih29dzGXUEbNCbZpSNXFCoz7zt3A==;XSMl0SapM3VPn3E89a5w/Q=="
 ---

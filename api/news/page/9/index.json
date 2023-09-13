@@ -2,6 +2,298 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-09-06-obsessed-with-privacy-keep-tails-on-a-usb-drive-and-secure-most-any-computer.md",
+      "title": "Obsessed with privacy? Keep Tails on a USB drive and secure most any computer",
+      "excerpt": "If you're looking for protection against surveillance and censorship, this Tor-based operating system is worth a try. Here's how you get started.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/obsessed-with-privacy-keep-tails-on-a-usb-drive-and-secure-most-any-computer/",
+      "originalUrl": "https://www.zdnet.com/article/obsessed-with-privacy-keep-tails-on-a-usb-drive-and-secure-most-any-computer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/47ea9eb0c49e09b472e905c01d49372e4e40e3e7/2023/09/06/b145424d-d84b-4e54-8563-f777abaca925/gettyimages-485333161.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/obsessed-with-privacy-keep-tails-on-a-usb-drive-and-secure-most-any-computer/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/obsessed-with-privacy-keep-tails-on-a-usb-drive-and-secure-most-any-computer/",
+      "publishedDateTime": "2023-09-06T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-06-financial-planning-budgeting-navigating-the-budgeting-paradox.md",
+      "title": "Financial planning & budgeting: Navigating the Budgeting Paradox",
+      "excerpt": "Financial planning and budgeting are changing. Learn more about the technology helping businesses to navigate these unpredictable waters.\nThe post Financial planning &#038; budgeting: Navigating the Budgeting Paradox appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/financial-planning-budgeting-navigating-the-budgeting-paradox/",
+      "originalUrl": "https://www.ibm.com/blog/financial-planning-budgeting-navigating-the-budgeting-paradox/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-06T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-06-artificial-intelligence-in-healthcare-market-size-will-surpass-usd-17866-billion-by-2030-at-458-cagr-growth.md",
+      "title": "Artificial Intelligence in Healthcare Market Size Will Surpass USD 178.66 Billion By 2030 at 45.8% CAGR Growth",
+      "excerpt": "Vantage Market Research has published a new report titled \"Global Artificial Intelligence in Healthcare Market - Industry Analysis, Market Segmentation, and Forecast till 2030\". The important ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34276917/artificial-intelligence-in-healthcare-market-size-will-surpass-usd-178-66-billion-by-2030-at-45-8-c",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34276917/artificial-intelligence-in-healthcare-market-size-will-surpass-usd-178-66-billion-by-2030-at-45-8-c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34276917",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34276917",
+      "publishedDateTime": "2023-09-06T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-06-ai-implementation-moving-from-buzz-to-tangible-business-solutions.md",
+      "title": "AI Implementation: Moving From Buzz To Tangible Business Solutions",
+      "excerpt": "As a result, today's leaders need to inform themselves about the various technologies within the field of artificial intelligence, including natural language processing and machine learning. Moreover, they have to become knowledgeable in a balanced way ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/06/ai-implementation-moving-from-buzz-to-tangible-business-solutions/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/06/ai-implementation-moving-from-buzz-to-tangible-business-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6310bb0b05f088011ae4f55d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/06/ai-implementation-moving-from-buzz-to-tangible-business-solutions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/06/ai-implementation-moving-from-buzz-to-tangible-business-solutions/amp/",
+      "publishedDateTime": "2023-09-06T04:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-06-adapting-ai-or-adieu-the-new-evolutionary-rule-and-five-ways-to-embrace-ai.md",
+      "title": "Adapting AI Or Adieu: The New Evolutionary Rule And Five Ways To Embrace AI",
+      "excerpt": "To conclude, it's crucial to remember that AI isn't our competition; it's our co-pilot. If history teaches us anything, it's that humans have an innate ability to adapt and thrive. Whether it’s a switchboard, a dial-up modem or a sophisticated neural network, those willing to embrace change will not only survive but flourish.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/theyec/2023/09/06/adapting-ai-or-adieu-the-new-evolutionary-rule-and-five-ways-to-embrace-ai/",
+      "originalUrl": "https://www.forbes.com/sites/theyec/2023/09/06/adapting-ai-or-adieu-the-new-evolutionary-rule-and-five-ways-to-embrace-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64f760bf6c0c5f8718dcb9e7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2023/09/06/adapting-ai-or-adieu-the-new-evolutionary-rule-and-five-ways-to-embrace-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/09/06/adapting-ai-or-adieu-the-new-evolutionary-rule-and-five-ways-to-embrace-ai/amp/",
+      "publishedDateTime": "2023-09-06T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-06-waymo-is-using-insurance-data-about-self-driving-cars-to-bolster-its-safety-case.md",
+      "title": "Waymo is using insurance data about self-driving cars to bolster its safety case",
+      "excerpt": "Waymo is using insurance data to make the case that its self-driving cars are safer than human drivers. The report, a result of the collaboration first announced last year between the Alphabet ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/9/6/23860029/waymo-insurance-injury-claims-autonomous-vehicle-swiss-re",
+      "originalUrl": "https://www.theverge.com/2023/9/6/23860029/waymo-insurance-injury-claims-autonomous-vehicle-swiss-re",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/au2BrlIJsYbjuGSUh97wHAFrVJk=/0x0:3000x1875/1200x628/filters:focal(1500x938:1501x939)/cdn.vox-cdn.com/uploads/chorus_asset/file/24903258/1626054002.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-06T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-06-robots-manipulate-objects-with-their-whole-bodies-with-ai-assistance.md",
       "title": "Robots Manipulate Objects with Their Whole Bodies with AI Assistance",
       "excerpt": "Imagine you want to carry a large, heavy box up a flight of stairs. You might spread your fingers out and lift that box with both hands, then hold it on top of your forearms and balance it against your chest,",
@@ -847,289 +1139,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-with-ai-future-of-hearing-aids-might-include-language-translation.md",
-      "title": "With AI, future of hearing aids might include language translation",
-      "excerpt": "Sawalich says, \"If somebody falls, it'll text up to three people.\" They can also translate foreign languages. These AI hearing aids recalibrate up to 80 million times an hour, allowing them to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thetimes-tribune.com/news/nation-world/with-ai-future-of-hearing-aids-might-include-language-translation/video_2d527935-5f49-542e-b87e-3cd7d8380040.html",
-      "originalUrl": "https://www.thetimes-tribune.com/news/nation-world/with-ai-future-of-hearing-aids-might-include-language-translation/video_2d527935-5f49-542e-b87e-3cd7d8380040.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-05T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Scranton Times-Tribune",
-        "domain": "thetimes-tribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-how-carrier-predicts-hvac-faults-using-aws-glue-and-amazon-sagemaker.md",
-      "title": "How Carrier predicts HVAC faults using AWS Glue and Amazon SageMaker",
-      "excerpt": "In this post, we show how the Carrier and AWS teams applied ML to predict faults across large fleets of equipment using a single model. We first highlight how we use AWS Glue for highly parallel data processing. We then discuss how Amazon SageMaker helps us with feature engineering and building a scalable",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-carrier-predicts-hvac-faults-using-aws-glue-and-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-carrier-predicts-hvac-faults-using-aws-glue-and-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/05/featured-images-ML-12208-1120x630.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-05T10:25:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-inside-googles-image-qa-on-android-and-using-ai-for-all.md",
-      "title": "Inside Google’s Image Q&A On Android And Using AI For All",
-      "excerpt": "In a post published on its Keyword blog, Google on Tuesday announced a slew of new features for Android designed to \"stay productive and connected.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevenaquino/2023/09/05/inside-googles-image-qa-on-android-and-using-ai-for-all/",
-      "originalUrl": "https://www.forbes.com/sites/stevenaquino/2023/09/05/inside-googles-image-qa-on-android-and-using-ai-for-all/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64f75a941512b57015b0157e/0x0.jpg?format=jpg&width=1200",
-          "width": 1080,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevenaquino/2023/09/05/inside-googles-image-qa-on-android-and-using-ai-for-all/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2023/09/05/inside-googles-image-qa-on-android-and-using-ai-for-all/amp/",
-      "publishedDateTime": "2023-09-05T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-microsoft-unveils-new-features-coming-to-outlook-and-other-microsoft-365-services.md",
-      "title": "Microsoft unveils new features coming to Outlook and other Microsoft 365 services",
-      "excerpt": "There are a ton of Teams features, but other Microsoft 365 services are getting updates as well. Outlook is getting some improvements, as you'd probably expect. Bookings is getting a new UI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-unveils-new-features-coming-to-outlook-and-other-microsoft-365-services/",
-      "originalUrl": "https://www.neowin.net/news/microsoft-unveils-new-features-coming-to-outlook-and-other-microsoft-365-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neowin.com/news/images/uploaded/2019/01/1547572242_ms365-5_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-unveils-new-features-coming-to-outlook-and-other-microsoft-365-services/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-unveils-new-features-coming-to-outlook-and-other-microsoft-365-services/",
-      "publishedDateTime": "2023-09-05T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-jim-cramer-highlights-chip-designer-arms-ties-to-ai-king-nvidia-why-he-expects-ipo-fireworks.md",
-      "title": "Jim Cramer Highlights Chip Designer Arm's Ties To AI 'King' Nvidia: Why He Expects IPO Fireworks",
-      "excerpt": "Softbank's Arm is slated to go public next week in what is expected to be the biggest IPO of the year. Jim Cramer slapped his seal of approval on the name Tuesday morning and suggested demand for the",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/23/09/34241529/jim-cramer-highlights-chip-designer-arms-ties-to-ai-king-nvidia-why-he-expects-ipo-fireworks",
-      "originalUrl": "https://www.benzinga.com/news/23/09/34241529/jim-cramer-highlights-chip-designer-arms-ties-to-ai-king-nvidia-why-he-expects-ipo-fireworks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/09/05/cramer_fireworks.png?width=1200&height=800&fit=crop",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34241529",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34241529",
-      "publishedDateTime": "2023-09-05T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-c3ai-reports-earnings-wednesday-what-to-watch-from-artificial-intelligence-stock.md",
-      "title": "C3.ai Reports Earnings Wednesday: What To Watch From Artificial Intelligence Stock",
-      "excerpt": "Artificial intelligence (AI) stock C3.ai Inc (NYSE:AI) is set to issue fourth-quarter earnings on Wednesday after the closing bell. Here's what you need to know about the print. By The Numbers: Traders pushed C3.ai more than 300% higher during the first half of the year.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/c3-ai-reports-earnings-wednesday-what-to-watch-from-artificial-intelligence-stock-1032606207",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/c3-ai-reports-earnings-wednesday-what-to-watch-from-artificial-intelligence-stock-1032606207",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Ai,Technology,,Artificial,Intelligence.,Man,Using,Technology,Smart,Robot,Ai,_3.jpeg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-05T08:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

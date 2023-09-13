@@ -9,7 +9,7 @@ ampWebUrl: "https://gulfnews.com/amp/uae/transport/grab-the-chance-to-see-flying
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/transport/grab-the-chance-to-see-flying-man-sam-rogers-at-dubai-self-driving-event-1.98056754"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "Optimizing AI Inference Is As Vital As Building AI Training Beasts"
+    excerpt: "The history of computing teaches us that software always and necessarily lags hardware, and unfortunately that lag can stretch for many years when it comes to wringing the best performance out of iron by tweaking algorithms."
+    publishedDateTime: 2023-09-11T15:26:00Z
+    webUrl: "https://www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts/"
+    ampWebUrl: "https://www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
+    images:
+      - url: "http://www.nextplatform.com/wp-content/uploads/2023/09/nvidia-gpu-full-stack-performance-hpc-ai-mix.jpg"
+        width: 714
+        height: 520
+        isCached: true
+  - title: "The Inverse Turing Test: Navigating An AI-Created Complexity"
+    excerpt: "The Turing Test, a concept introduced by Alan Turing in 1950, has been a foundation concept for evaluating a machine's ability to exhibit human-like intelligence. But as we edge closer to the singularity—the point where artificial intelligence surpasses human intelligence—a new,"
+    publishedDateTime: 2023-09-10T20:52:00Z
+    webUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202309/the-inverse-turing-test-navigating-an-ai-created-complexity"
+    ampWebUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202309/the-inverse-turing-test-navigating-an-ai-created-complexity?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-digital-self/202309/the-inverse-turing-test-navigating-an-ai-created-complexity?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2023-09/DripBrain.jpg?itok=u06OTnjt"
+        width: 320
+        height: 219
+        isCached: true
   - title: "Here's your chance tp see ‘Flying Man’ Sam Rogers at Dubai World Congress for Self-Driving Transport"
     excerpt: "Latest autonomous vehicles, robots to go on show from September 26 to 27 at DWTC Dubai: The opening keynote at the upcoming Dubai World Congress for Self-Driving Transport will be delivered by Sam \"Flying Man\" Rogers, famous for taking off in his jet suit."
     publishedDateTime: 2023-09-12T06:00:00Z
@@ -43,20 +75,44 @@ related:
         width: 540
         height: 405
         isCached: true
-  - title: "Can Hong Kong tap the opportunities in autonomous driving?"
-    excerpt: "The Tesla model (self-declared as L2) is based on continuous data ... and traffic signs which are essential for highly automated driving. According to an insider of the Baidu Map, L2 vehicles mainly requires maps for advanced driver assistance systems ..."
-    publishedDateTime: 2023-09-12T03:00:00Z
-    webUrl: "https://www.ejinsight.com/eji/article/id/3561327/20230912-Can-Hong-Kong-tap-the-opportunities-in-autonomous-driving"
+  - title: "Generative AI in production: Rethinking development and embracing best practices"
+    excerpt: "For apps built on LLMs, the engineering mindset of predictable debugging and software testing and monitoring is suddenly challenged."
+    publishedDateTime: 2023-09-11T13:38:00Z
+    webUrl: "https://venturebeat.com/ai/generative-ai-in-production-rethinking-development-and-embracing-best-practices/"
     type: article
     provider:
-      name: EJ Insight
-      domain: ejinsight.com
-    quality: 24
-    images:
-      - url: "https://static.hkej.com/eji/images/2023/09/12/3561327_0a35042db0cd0f916d764bcfee5123df.jpg"
-        width: 891
-        height: 585
-        isCached: true
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 42
+  - title: "Artificial intelligence in hiring: risks for employers"
+    excerpt: "As many employers race to embrace artificial intelligence, there are risks to be aware of when it comes to using the technology in hiring."
+    publishedDateTime: 2023-09-11T11:33:00Z
+    webUrl: "https://www.bizjournals.com/nashville/news/2023/09/11/artificial-intelligence-hiring-risks-employers.html"
+    ampWebUrl: "https://www.bizjournals.com/nashville/news/2023/09/11/artificial-intelligence-hiring-risks-employers.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/nashville/news/2023/09/11/artificial-intelligence-hiring-risks-employers.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 39
+  - title: "Intel shows strong AI inference performance"
+    excerpt: "Intel has shown up well on competitive performance for AI inference as it attempt to make artificial intelligence (AI) more accessible at scale across the continuum of AI workloads, from client and edge to the network and cloud."
+    publishedDateTime: 2023-09-13T09:29:00Z
+    webUrl: "https://it-online.co.za/2023/09/13/intel-shows-strong-ai-inference-performance/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 19
+  - title: "How AI Can Help Cut Energy Costs While Meeting Ambitious ESG Goals"
+    excerpt: "Implementing AI can help companies slash energy spending and operate sustainably. Tackling these complex challenges by combining AI with human expertise can have an impact far beyond the organizations leading these efforts."
+    publishedDateTime: 2023-09-11T12:59:00Z
+    webUrl: "https://hbr.org/sponsored/2023/09/how-ai-can-help-cut-energy-costs-while-meeting-ambitious-esg-goals"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
 
 secured: "ocT7I4QBwq9BJH6qN1J7mNkk1Jo88VhWZOOLUd7mTZvw98pD75J/TV5szHawKmR5Xl+4LrCrMmjThLFYq24+cbqWMfHpU0Q2goRr1KjVDzhp9b+dEgjs2MzQLC1ppEpUwAguX1tUwsgN3omz5QVahaByD+chiFPL8zR6andPeECLVJpEDCP12SGnLfmmQhPGOnGnfDAxQhU45fCDKHNP7eON2VU1oLZC/GaKItygg7mkPqsjlpki5E0umWjtkCI5vEWnyUlacmKj+YDd2o8U/QEPdelW6HZtnp+ee9zo/yVftnSBMKd3lLmHoPKutOX8oBpKn7JmNA6UUtUt7j+BpBEWEDLCOPr+wTEz6cvviLipycQ0PEkCjEWyI9C/JrjirxD3PuyGgF2bs3zIdeZncLh32o+XD1CUNVHKJTS4eNCMTruB31XO5HtVJfo2uLQLUkUSO7219IKwi4y7notgGYXbqGG/u545wJ7PkQL3HQBjP3E7opD/ec6xYgh5Vyz6qqK7Xurci5Qc3ONplWGizg==;W1BukruRQKzoFg9HYwVvfg=="
 ---

@@ -41,15 +41,6 @@ related:
         width: 1535
         height: 1371
         isCached: true
-  - title: "LTIMindtree collaborates with CAST AI to help Businesses Optimize Their Cloud Investments"
-    excerpt: "Powered by AI, CAST AI provides cloud cost automation for real-life containerized applications running on AWS, GCP, and Azure. CAST AI’s founders are serial entrepreneurs who have been developing advanced AI solutions for over a decade and have ..."
-    publishedDateTime: 2023-09-08T16:54:00Z
-    webUrl: "https://www.afp.com/fr/news/1312/ltimindtree-collaborates-cast-ai-help-businesses-optimize-their-cloud-investments-202308268172881"
-    type: article
-    provider:
-      name: AFP
-      domain: afp.com
-    quality: 10
 
 secured: "+9dwt4NwXUo7F4Dv2axnS97nzF/gSGUaeXUFnfdLR0u944cTtmcRpJ0GI+B8ukns9OfJZlVVTHogezZxxNO6wZ8kQI8QgsnWvZRLMQiSulUuCu3LEjtNM9kSb3kaiNRaa1hzWkAzMfYGU0EwQKKIvcxo9+/9Mzxda4a6H+l0TcLFT/RuMXWOsCKoB/nMpI6W4UW8WOgn4Z7JkA/IUa1UgkCArlHGGbp9IcG18/6UsDxM/JmAPbfEXjedNbUPr8OnNhu2kYfTHUmImquECovnGTr/v3q1m5dhtYAF3XYRSlp159PYGn2Roc+sz0IpGYH59xYK3w8lWiZjMsXtv9quyyuebBp9RuQfx2juRcbHCYI=;Af4NDE0BuZp50EbtTLtguQ=="
 ---

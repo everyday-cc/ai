@@ -307,6 +307,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Meta Platforms reportedly building open-source generative AI system to rival OpenAI’s ChatGPT"
+    excerpt: "Facebook and Instagram parent Meta Platforms Inc. is looking to rival OpenAI LP in the generative artificial intelligence landscape with an alternative, but open-source model that’s likely to be as powerful as GPT-4."
+    publishedDateTime: 2023-09-11T00:20:00Z
+    webUrl: "https://siliconangle.com/2023/09/10/meta-platforms-reportedly-building-open-source-generative-ai-system-rival-openais-chatgpt/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 28
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/41118893354_edd6aac12d_k-AnthonyQuintano-Flickr-768x525.jpg"
+        width: 768
+        height: 525
+        isCached: true
   - title: "Doctors see potential in ChatGPT diagnoses, but questions still remain"
     excerpt: "With the rise of generative AI, people who once turned to “Dr. Google” to check on medical symptoms are now turning to chatbots. Researchers are urging caution."
     publishedDateTime: 2023-09-12T13:28:00Z
