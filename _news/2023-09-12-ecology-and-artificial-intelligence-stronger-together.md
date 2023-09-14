@@ -53,15 +53,6 @@ related:
       name: EurekAlert!
       domain: eurekalert.org
     quality: 19
-  - title: "Silicon Valley startups lean into AI boom"
-    excerpt: "Why it matters: AI is the hottest technology right now, but the current boom has become equal parts innovation and marketing. Zooming in: Among YC's AI startups, most seem to be focused on providing tools for developing, integrating and managing machine learning and other AI tech."
-    publishedDateTime: 2023-09-09T16:30:00Z
-    webUrl: "https://www.axios.com/2023/09/09/startups-ai-venture-capital"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 17
 
 secured: "iXlYgD0QMFL8DFwOMUALdO2oCenBQdn//RH30WTR7D1G+vfSephiRwjnLCHSrisxD90+hrKnHVgCfW5YegR7L0vuBmORiGqxmEZbMfHAQKoVWTQg6dSdmRlvVirTJ+K8uFi/TdCQyxwgipaxSE/yMzCPrjJDYHdntZnZ4O4V+hpm27xTN6AxMrx0vHHdThaqH+lJgFgO+V4GTyCCoDJzAigtxXFWgLg8GEBPNJoNkLxgGaQ4sdU6/k9Iryfm5Hh6dR3jwgM979IK17dr5fklILhicUHgGcMjzqRJmXwOSk3vX0OIwfQiCh7ahqspl4MAIay0u2zvIaP9Huqh1acPYDWYQ8jn6Z/Cr/E9tRCr9vyPpri4vIkhvL2Js0Ci/lFFShBr/7wLExqaaV+DqJZ4L1lDr4yZtISShMWgZY0dIV4ixsXomqFpwupykiNKWDgSnVikHLxPCjnKHQEWL3YnS+M3v/xd9bTb34rXn6WnhoD6g/ufGM0u8IfoqDHiJibOTnW6s8HEGV0uvzo7a646fA==;fs024pOM/A51z5d3e+kT3A=="
 ---

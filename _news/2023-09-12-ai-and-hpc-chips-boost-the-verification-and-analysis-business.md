@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20230911PD213/advanced-packaging-a
 webUrl: "https://www.digitimes.com/news/a20230911PD213/advanced-packaging-ai-analysis-and-verification-lab-hpc.html"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 640
     height: 427
     isCached: true
+
+related:
+  - title: "Artificial Intelligence: Catalysing Growth and Innovation for African Businesses"
+    excerpt: "By Yesh Surjoodeen, Managing Director for HP Southern Africa In a continent as diverse and dynamic as Africa, businesses are at the forefront of embracing transformative technologies, and Artificial Intelligence (AI) emerges as a beacon of this innovation."
+    publishedDateTime: 2023-09-14T08:32:00Z
+    webUrl: "https://www.engineeringnews.co.za/article/artificial-intelligence-catalysing-growth-and-innovation-for-african-businesses-2023-09-14"
+    type: article
+    provider:
+      name: Engineering News
+      domain: engineeringnews.co.za
+    quality: 34
+    images:
+      - url: "https://cdn.creamermedia.com/assets/articles/images/resized/0001087212_resized_yesh11022.jpg"
+        width: 1022
+        height: 575
+        isCached: true
 
 secured: "VMs3YCEVQIAifi8vB7m/I442zcTNTmqNeFnM9KewP0OenpQU7rto+uMFrh2HkIwInfUBs0PHasc2hiGTNUM/tvQlMxHz6m6TF/YL/6wlVNtMXXwPG0L72QTwpFmR9PMJ2eXJ1Y/84tz9I1/J6x3VadeOK0m/EtwPehSS47PuyK27NKNu4og0F9f+XYETcnukGJqK4JsVdu8j3+EJkeDb0K7kRWv9wk806PrRVEkC/kliXdJ5M7a0kmL3vsM59Ctul5LyCAWPkdkgBFE7Rha4Tk/O1ttQhhQxu6SeAqExa5hWpSc+loPHerJVACqjS6d7ijBKiZVB+RUc3LRKPNiNhG0Y/q6s2MM8lQebUygJfaj6ik5lzs2WsXCDvkXYNVjb9EnxkaqvtyNN705k6TQS/pj3MwDw/DYJGkH1GN6Gmwmgrgag+LC4cvALB7WVFuT26PjGDpZaqCMmbvyxwAOCDhlTGC1p//wHQZ6Yw2auMVaD+BPGyFyZFh/oSmwncd7buwsz/bRPrEfJISC0AQkcXg==;De5Vzlqiv/3mEIHfl7rs1g=="
 ---

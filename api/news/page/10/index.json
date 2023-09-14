@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-09-06-intelligently-search-adobe-experience-manager-content-using-amazon-kendra.md",
+      "title": "Intelligently search Adobe Experience Manager content using Amazon Kendra",
+      "excerpt": "This post shows you how to configure the Amazon Kendra AEM connector to index your content and search your AEM assets and pages. The connector also ingests the access control list (ACL) information for each document. The ACL information is used to show search results filtered by what a user has access",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/intelligently-search-adobe-experience-manager-content-using-amazon-kendra/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/intelligently-search-adobe-experience-manager-content-using-amazon-kendra/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/06/featured-images-ML-13597-1120x630.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-06T10:28:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-06-fine-tune-llama-2-for-text-generation-on-amazon-sagemaker-jumpstart.md",
       "title": "Fine-tune Llama 2 for text generation on Amazon SageMaker JumpStart",
       "excerpt": "Today, we are excited to announce the capability to fine-tune Llama 2 models by Meta using Amazon SageMaker JumpStart. The Llama 2 family of large language models (LLMs) is a collection of pre-trained and fine-tuned generative text models ranging in scale from 7 billion to 70 billion parameters. Fine-tuned",
@@ -302,40 +354,6 @@
       ]
     },
     {
-      "path": "_news/2023-09-06-red-hat-openshift-now-available-in-aws-marketplace-for-the-us-intelligence-community.md",
-      "title": "Red Hat OpenShift Now Available in AWS Marketplace for the U.S. Intelligence Community",
-      "excerpt": "and supports a variety of workloads and applications including Artificial Intelligence and Machine Learning (AI/ML) systems, messaging systems, databases, logging and monitoring and more. The Red Hat OpenShift listing in AWS Marketplace for the U.S. IC ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/red-hat-openshift-now-available-in-aws-marketplace-for-the-u-s-intelligence-community/",
-      "originalUrl": "https://www.01net.it/red-hat-openshift-now-available-in-aws-marketplace-for-the-u-s-intelligence-community/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-06T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-06-only-four-per-cent-of-businesses-in-canada-report-using-artificial-intelligence-ai-tmu-study.md",
       "title": "Only four per cent of businesses in Canada report using artificial intelligence (AI): TMU study",
       "excerpt": "Across Canada, 4 per cent of businesses report that they are using AI in any way in their business. Québec leads in Canada at a five per cent adoption rate. Ontario, BC, and Saskatchewan follow closely at four per cent. Alberta businesses follow at three per cent. Manitoba, and the combined Atlantic & Territories region trail at two per cent.",
@@ -556,6 +574,49 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-06-red-hat-openshift-now-available-in-aws-marketplace-for-the-us-intelligence-community.md",
+      "title": "Red Hat OpenShift Now Available in AWS Marketplace for the U.S. Intelligence Community",
+      "excerpt": "AWS Marketplace includes tools and software ... and supports a variety of workloads and applications including Artificial Intelligence and Machine Learning (AI/ML) systems, messaging systems ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/b34277789/red-hat-openshift-now-available-in-aws-marketplace-for-the-u-s-intelligence-community",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/b34277789/red-hat-openshift-now-available-in-aws-marketplace-for-the-u-s-intelligence-community",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34277789",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34277789",
+      "publishedDateTime": "2023-09-06T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -1119,49 +1180,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-intra-account-collection-copy-in-azure-cosmos-db-for-mongodb-in-public-preview.md",
-      "title": "Intra-Account Collection Copy in Azure Cosmos DB for MongoDB in Public Preview",
-      "excerpt": "Alasdair Allen discusses the potentially ethical dilemmas, new security concerns, and open questions about the future of software development in the era of machine learning ... of Intra-Account Collection Copy for Azure Cosmos DB for MongoDB, allowing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2023/09/azure-cosmos-intra-account-copy/",
-      "originalUrl": "https://www.infoq.com/news/2023/09/azure-cosmos-intra-account-copy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2023/09/azure-cosmos-intra-account-copy/en/headerimage/generatedHeaderImage-1693574861570.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-05T17:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

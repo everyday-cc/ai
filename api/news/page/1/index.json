@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-14-cloudera-signs-strategic-collaboration-agreement-with-aws.md",
+      "title": "Cloudera signs strategic collaboration agreement with AWS",
+      "excerpt": "Workload Migration Program (WMP) Partner who also has a Cloudera Data Platform (CDP) Public Cloud listing available in AWS Marketplace, Cloudera makes it easy for customers to utilize credits to accelerate migrating workloads to the cloud and purchasing CDP on AWS.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/companies-news/cloudera-signs-strategic-collaboration-agreement-with-aws-vuynti4p",
+      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/cloudera-signs-strategic-collaboration-agreement-with-aws-vuynti4p",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/view/acePublic/alias/contentid/NGZiZTQ2ZDYtN2Y0Yy00/0/paul_codding_05-full_portrait-jpg.jpeg?f=3%3A2",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/cloudera-signs-strategic-collaboration-agreement-with-aws-vuynti4p?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/cloudera-signs-strategic-collaboration-agreement-with-aws-vuynti4p?amp=1",
+      "publishedDateTime": "2023-09-14T02:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-14-thailands-kbank-starts-100m-fund-targeting-ai-and-web3.md",
       "title": "Thailand's KBank Starts $100m Fund Targeting AI and Web3",
       "excerpt": "Thailand-based Kasikornbank (KBank) has started a $100 million fund which will target artificial intelligence (AI), Web3, and fintech startups",
@@ -53,7 +97,7 @@
       "originalUrl": "https://www.foxnews.com/opinion/troubling-trend-woke-ai-threat-free-speech",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -92,7 +136,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -293,7 +338,7 @@
       "originalUrl": "https://www.theguardian.com/technology/2023/sep/13/tech-leaders-washington-ai-saferty-forum-elon-musk-zuckerberg-pichai?ref=biztoc.com",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -535,7 +580,7 @@
       "originalUrl": "https://www.forbes.com/sites/quickerbettertech/2023/09/13/on-ai-if-you-want-to-really-understand-ais-benefits-ask-your-banker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1143,57 +1188,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-how-to-prevent-ai-from-eroding-employees-critical-thinking-skills.md",
-      "title": "How To Prevent AI From Eroding Employees' Critical Thinking Skills",
-      "excerpt": "As AI continues to change the workplace, companies must ensure their employees are empowered to think critically.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/09/13/how-to-prevent-ai-from-eroding-employees-critical-thinking-skills/",
-      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/09/13/how-to-prevent-ai-from-eroding-employees-critical-thinking-skills/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65007fae9d3d8e4c8c3e6761/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/09/13/how-to-prevent-ai-from-eroding-employees-critical-thinking-skills/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2023/09/13/how-to-prevent-ai-from-eroding-employees-critical-thinking-skills/amp/",
-      "publishedDateTime": "2023-09-13T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

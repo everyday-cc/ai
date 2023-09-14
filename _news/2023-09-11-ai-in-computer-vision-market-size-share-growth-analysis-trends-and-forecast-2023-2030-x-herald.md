@@ -42,15 +42,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Object Recognition Imaging Systems Market Size 2023 Booming Worldwide by 2031"
-    excerpt: "[110 Pages Report]\"Object Recognition Imaging Systems Market\" size is projected to reach Multimillion USD by 2029, In comparison to 2023, at unexpected CAGR during 2023-2029 and generated ..."
-    publishedDateTime: 2023-09-09T15:40:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/34394550/object-recognition-imaging-systems-market-size-2023-booming-worldwide-by-2031"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 16
   - title: "Natural Language Processing For Healthcare And Life Sciences Market Size 2023 | Historic Data with New Benchmarks till 2030 | No of Pages 118"
     excerpt: "The Global Natural Language Processing For Healthcare And Life Sciences market is projected to rise at a significant rate during the forecast period, between 2023 and 2030. In 2022, the market is ..."
     publishedDateTime: 2023-09-09T22:44:00Z

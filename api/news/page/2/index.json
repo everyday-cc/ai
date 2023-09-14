@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-13-how-to-prevent-ai-from-eroding-employees-critical-thinking-skills.md",
+      "title": "How To Prevent AI From Eroding Employees' Critical Thinking Skills",
+      "excerpt": "As AI continues to change the workplace, companies must ensure their employees are empowered to think critically.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/09/13/how-to-prevent-ai-from-eroding-employees-critical-thinking-skills/",
+      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/09/13/how-to-prevent-ai-from-eroding-employees-critical-thinking-skills/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65007fae9d3d8e4c8c3e6761/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/09/13/how-to-prevent-ai-from-eroding-employees-critical-thinking-skills/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2023/09/13/how-to-prevent-ai-from-eroding-employees-critical-thinking-skills/amp/",
+      "publishedDateTime": "2023-09-13T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-13-why-your-ai-and-machine-learning-strategy-needs-a-solid-foundation.md",
       "title": "Why Your AI And Machine Learning Strategy Needs A Solid Foundation",
       "excerpt": "Organizations need a clear strategy for how and when they will incorporate AI and machine learning, and they need quality, well-governed data to serve as the bedrock for impactful automation, greater efficiencies and innovation.",
@@ -361,7 +412,7 @@
       "originalUrl": "https://www.ibm.com/blog/how-generative-ai-is-revolutionizing-supply-chain-operations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 309,
+      "heat": 339,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1188,58 +1239,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-study-ai-and-machine-learning-with-this-30-e-degree-program.md",
-      "title": "Study AI and machine learning with this $30 e-degree program",
-      "excerpt": "Understanding how to use them can not only streamline your day-to-day productivity, but could also boost your career potential in developing, data engineering, and machine learning. Instead of trying to learn these tools and their tricks yourself ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/study-ai-and-machine-learning-with-this-30-e-degree-program/",
-      "originalUrl": "https://www.zdnet.com/article/study-ai-and-machine-learning-with-this-30-e-degree-program/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/238ded4c8739979dd867601b99cadd75de4f38f7/2023/09/12/ccc0c90e-3e32-4d76-a7b9-6613100e6f1e/stacksocial-ai-degree.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/study-ai-and-machine-learning-with-this-30-e-degree-program/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/study-ai-and-machine-learning-with-this-30-e-degree-program/",
-      "publishedDateTime": "2023-09-12T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

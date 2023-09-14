@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-14-troubling-trend-of-woke-ai-is-a-big-threat-to-free-speech.md",
+      "title": "Troubling trend of woke AI is a big threat to free speech",
+      "excerpt": "The troubling trend of woke AI is a big threat to free speech. Big Tech’s AI is biased both by employees and the datasets it uses. Result endangers future of American ingenuity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/troubling-trend-woke-ai-threat-free-speech",
+      "originalUrl": "https://www.foxnews.com/opinion/troubling-trend-woke-ai-threat-free-speech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/07e0adc6-497f-4055-9c14-d3c3b47544ba/1261eb20-6365-4070-9874-dcf187ad6798/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/troubling-trend-woke-ai-threat-free-speech.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/troubling-trend-woke-ai-threat-free-speech.amp",
+      "publishedDateTime": "2023-09-13T22:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-13-dreamforce-2023-supermums-aims-to-train-up-raft-of-women-ai-experts.md",
       "title": "Dreamforce 2023 - Supermums aims to train up raft of women AI experts",
       "excerpt": "Looking ahead, Supermums is ensuring it has training and provision across CRM, data and AI. It has appointed an instructor to deliver a CRM analytics course, and is just launching AI provision around that. The company is also looking at introducing training for MuleSoft and Tableau.",
@@ -1442,58 +1494,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-meta-confirms-ai-off-switch-incoming-to-facebook-instagram-in-europe.md",
-      "title": "Meta confirms AI ‘off-switch’ incoming to Facebook, Instagram in Europe",
-      "excerpt": "The bloc’s concern is that AI-driven feeds undermine user ... access to publicly-available content across Facebook and Instagram of any research tool we have built to date.”",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/22/meta-confirms-ai-off-switch-incoming-to-facebook-instagram-in-europe/",
-      "originalUrl": "https://techcrunch.com/2023/08/22/meta-confirms-ai-off-switch-incoming-to-facebook-instagram-in-europe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1467844599.jpg?w=1024",
-          "width": 1024,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/22/meta-confirms-ai-off-switch-incoming-to-facebook-instagram-in-europe/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/22/meta-confirms-ai-off-switch-incoming-to-facebook-instagram-in-europe/amp/",
-      "publishedDateTime": "2023-08-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

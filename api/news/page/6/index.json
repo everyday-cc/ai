@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-09-09-a-new-facebook-setting-tells-meta-not-to-use-your-data-for-ai.md",
+      "title": "A New Facebook Setting Tells Meta Not to Use Your Data for AI",
+      "excerpt": "Meta, the maker of Facebook and Instagram, introduced a new privacy setting Thursday that lets you ask, pretty please, for the company not to use your data to train its AI models. Buried in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/new-facebook-do-not-use-my-data-for-generative-ai-llama-1850792025",
+      "originalUrl": "https://gizmodo.com/new-facebook-do-not-use-my-data-for-generative-ai-llama-1850792025",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c048ad4abe4cfb2558e1894d2ccde06f.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-08T21:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-09-how-the-us-stumbled-into-using-chips-as-a-weapon-against-china.md",
       "title": "How the U.S. Stumbled Into Using Chips as a Weapon Against China",
       "excerpt": "Export restrictions on semiconductors and other cutting-edge tech have become an important foreign-policy tool, but the long-term consequences could be dangerous for America and the world.",
@@ -1145,57 +1197,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-three-ways-to-prepare-for-the-ai-enabled-future.md",
-      "title": "Three Ways To Prepare For The AI-Enabled Future",
-      "excerpt": "Technically speaking, AI can and probably will replace many professions. Compared to a human, AI is faster and smarter. AI can complete a task in seconds that would take a human artist weeks. When creating text, AI-generated content may still need editing or proofreading today, but give it time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/08/three-ways-to-prepare-for-the-ai-enabled-future/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/08/three-ways-to-prepare-for-the-ai-enabled-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/60a3d454598e7ff4af15615b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/08/three-ways-to-prepare-for-the-ai-enabled-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/08/three-ways-to-prepare-for-the-ai-enabled-future/amp/",
-      "publishedDateTime": "2023-09-08T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

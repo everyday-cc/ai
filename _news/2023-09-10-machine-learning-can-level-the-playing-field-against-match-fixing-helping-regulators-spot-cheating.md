@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/sports-games/2587869-machine-le
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/sports-games/2587869-machine-learning-can-level-the-playing-field-against-match-fixing---helping-regulators-spot-cheating?amp"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
     images:
       - url: "https://assets.telegraphindia.com/telegraph/2023/Sep/1694430652_untitled-design-16.jpg"
         width: 900
+        height: 600
+        isCached: true
+  - title: "Some startup founders say VC influence is 'debilitating.' Here's why they are turning down outside funding and bootstrapping instead."
+    excerpt: "Founders are turning down VC funding and instead boostrapping so they can keep control of their business plans and run lean teams."
+    publishedDateTime: 2023-09-14T09:00:00Z
+    webUrl: "https://www.businessinsider.com/startup-founders-are-bootstrapping-instead-of-raising-money-from-vcs-2023-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 21
+    images:
+      - url: "https://i.insider.com/61719cdafee39f0018faadbb?width=1200&format=jpeg"
+        width: 1200
         height: 600
         isCached: true
   - title: "Robust detection of gallbladder cancer using deep-learning-assisted US imaging"

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/09/11/ai-app-character-ai-is-catching-up
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/11/ai-app-character-ai-is-catching-up-to-chatgpt-in-the-u-s/amp/"
 type: article
 quality: 87
-heat: 307
+heat: 297
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/107298466-1694444089106-AP23248706930894.jpg?v=1694444318"
         width: 5959
         height: 3973
-        isCached: true
-  - title: "Anduril founder Palmer Luckey says the ChatGPT buzz is making politicians more interested in AI-powered weapons"
-    excerpt: "Palmer Luckey told Breaking Defense that the AI hype cycle has helped those on Capitol Hill and the Pentagon have a \"come-to-Jesus moment\" with AI."
-    publishedDateTime: 2023-09-09T15:41:00Z
-    webUrl: "https://www.businessinsider.com/anduril-founder-palmer-luckey-chatgpt-buzz-good-business-weapons-ai-2023-9"
-    ampWebUrl: "https://www.businessinsider.com/anduril-founder-palmer-luckey-chatgpt-buzz-good-business-weapons-ai-2023-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/anduril-founder-palmer-luckey-chatgpt-buzz-good-business-weapons-ai-2023-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://i.insider.com/64fb856f3d39230019774d64?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "As Senate tackles AI regulation, everyone has an opinion (except ChatGPT) | The AI Beat"
     excerpt: "The chatbot continued: “I’m not aware of specific AI regulation forums taking place this week or ... He also says the United States should use its dominance in advanced chips to enforce global standards, and has called for the creation of a governance ..."

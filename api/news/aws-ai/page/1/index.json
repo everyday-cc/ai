@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-14-cloudera-signs-strategic-collaboration-agreement-with-aws.md",
+      "title": "Cloudera signs strategic collaboration agreement with AWS",
+      "excerpt": "Workload Migration Program (WMP) Partner who also has a Cloudera Data Platform (CDP) Public Cloud listing available in AWS Marketplace, Cloudera makes it easy for customers to utilize credits to accelerate migrating workloads to the cloud and purchasing CDP on AWS.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/companies-news/cloudera-signs-strategic-collaboration-agreement-with-aws-vuynti4p",
+      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/cloudera-signs-strategic-collaboration-agreement-with-aws-vuynti4p",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/view/acePublic/alias/contentid/NGZiZTQ2ZDYtN2Y0Yy00/0/paul_codding_05-full_portrait-jpg.jpeg?f=3%3A2",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/cloudera-signs-strategic-collaboration-agreement-with-aws-vuynti4p?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/cloudera-signs-strategic-collaboration-agreement-with-aws-vuynti4p?amp=1",
+      "publishedDateTime": "2023-09-14T02:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-13-visualize-an-amazon-comprehend-analysis-with-a-word-cloud-in-amazon-quicksight.md",
       "title": "Visualize an Amazon Comprehend analysis with a word cloud in Amazon QuickSight",
       "excerpt": "Searching for insights in a repository of free-form text documents can be like finding a needle in a haystack. A traditional approach might be to use word counting or other basic analysis to parse documents, but with the power of Amazon AI and machine learning (ML) tools, we can gather deeper understanding",
@@ -660,24 +704,33 @@
     {
       "path": "_news/2023-09-06-red-hat-openshift-now-available-in-aws-marketplace-for-the-us-intelligence-community.md",
       "title": "Red Hat OpenShift Now Available in AWS Marketplace for the U.S. Intelligence Community",
-      "excerpt": "and supports a variety of workloads and applications including Artificial Intelligence and Machine Learning (AI/ML) systems, messaging systems, databases, logging and monitoring and more. The Red Hat OpenShift listing in AWS Marketplace for the U.S. IC ...",
+      "excerpt": "AWS Marketplace includes tools and software ... and supports a variety of workloads and applications including Artificial Intelligence and Machine Learning (AI/ML) systems, messaging systems ...",
       "sourceUrl": null,
-      "webUrl": "https://www.01net.it/red-hat-openshift-now-available-in-aws-marketplace-for-the-u-s-intelligence-community/",
-      "originalUrl": "https://www.01net.it/red-hat-openshift-now-available-in-aws-marketplace-for-the-u-s-intelligence-community/",
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/b34277789/red-hat-openshift-now-available-in-aws-marketplace-for-the-u-s-intelligence-community",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/b34277789/red-hat-openshift-now-available-in-aws-marketplace-for-the-u-s-intelligence-community",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-06T08:43:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34277789",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34277789",
+      "publishedDateTime": "2023-09-06T06:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1327,58 +1380,6 @@
       "topics": [
         "IBM AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-twilio-segment-teams-with-amazon-sagemaker-on-new-customer-predictions-product.md",
-      "title": "Twilio Segment teams with Amazon SageMaker on new customer predictions product",
-      "excerpt": "To build CustomerAI Predictions, the company teamed with Amazon SageMaker. “When we were looking at how to quickly bring this first predictions product to market, AWS and SageMaker were one of ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/23/twilio-segment-teams-with-amazon-sagemaker-on-customer-predictions-product/",
-      "originalUrl": "https://techcrunch.com/2023/08/23/twilio-segment-teams-with-amazon-sagemaker-on-customer-predictions-product/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1133989428.jpg?resize=1200,792",
-          "width": 1200,
-          "height": 792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/23/twilio-segment-teams-with-amazon-sagemaker-on-customer-predictions-product/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/23/twilio-segment-teams-with-amazon-sagemaker-on-customer-predictions-product/amp/",
-      "publishedDateTime": "2023-08-23T11:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

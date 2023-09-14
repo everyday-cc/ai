@@ -149,6 +149,20 @@ related:
         width: 1893
         height: 767
         isCached: true
+  - title: "Chatbot Summit Arrives at ExCeL London on Oct 11-12, Accelerating Conversational and Generative AI"
+    excerpt: "LONDON, Sept. 14, 2023 /PRNewswire/ -- Chatbot Summit, the world's leading Conversational AI Conference & Expo Series, is making its way to the UK for the first time, after previously bringing together an ecosystem of over 10,000 leaders at industry-defining events, held in Tel Aviv, Berlin and Tokyo."
+    publishedDateTime: 2023-09-14T09:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/chatbot-summit-arrives-at-excel-london-on-oct-11-12-accelerating-conversational-and-generative-ai-1032629564"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 53
+    images:
+      - url: "https://mma.prnewswire.com/media/2210752/Chatbot_Summit.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Revolutionizing The Hospitality Industry With Artificial Intelligence"
     excerpt: "By harnessing the power of AI, hoteliers can revolutionize the guest experience, personalize service, streamline operations and bring more to the bottom line."
     publishedDateTime: 2023-09-11T13:00:00Z
@@ -206,6 +220,20 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 39
+  - title: "How artificial intelligence can revolutionise science"
+    excerpt: "Then, starting in the late 19th century, the establishment of research laboratories, which brought together ideas, people and materials on an industrial scale, gave rise to further innovations such as artificial fertiliser,"
+    publishedDateTime: 2023-09-14T08:33:00Z
+    webUrl: "https://www.economist.com/leaders/2023/09/14/how-artificial-intelligence-can-revolutionise-science"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 39
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230916_LDD002.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "5 Cool Chip Solutions For Edge AI"
     excerpt: "CRN rounds up five cool edge AI solutions from AMD, Axelera AI, Intel, Nvidia and SiMa.ai for the growing number of IoT devices entering the world."
     publishedDateTime: 2023-09-11T18:33:00Z
@@ -238,6 +266,20 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 25
+  - title: "Leading The Fintech Revolution: Forms Syntron Presents Generative Ai And Web 3.0 Financial Platforms"
+    excerpt: "Empowered by Microsoft, FORMS Syntron unleashes Banking Copilot and FINNOSafe to transform the financial sectorHONG KONG SAR - Media OutReac"
+    publishedDateTime: 2023-09-14T09:28:00Z
+    webUrl: "https://menafn.com/1107066798/Leading-The-Fintech-Revolution-Forms-Syntron-Presents-Generative-Ai-And-Web-30-Financial-Platforms"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?777459"
+        width: 346
+        height: 250
+        isCached: true
   - title: "Adobe generative AI tool Firefly is now generally available"
     excerpt: "The new generative AI image creation and editing tool has been trained on stock images and content in the public domain."
     publishedDateTime: 2023-09-13T09:59:00Z

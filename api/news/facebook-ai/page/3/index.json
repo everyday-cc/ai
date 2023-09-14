@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-30-workers-at-risk-of-ai-radically-changing-their-jobs-arent-too-worried-about-it.md",
+      "title": "Workers at risk of AI radically changing their jobs aren't too worried about it",
+      "excerpt": "An envelope. It indicates the ability to send an email. An curved arrow pointing right. Over 27 million Americans are in work where key activities involved in their job could \"be replaced or aided ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/jobs-at-risk-ai-will-change-work-pew-research-center-2023-7",
+      "originalUrl": "https://www.businessinsider.com/jobs-at-risk-ai-will-change-work-pew-research-center-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64c0278eed4f4600196381d7?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/jobs-at-risk-ai-will-change-work-pew-research-center-2023-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jobs-at-risk-ai-will-change-work-pew-research-center-2023-7?amp",
+      "publishedDateTime": "2023-07-30T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-30-artificial-intelligence-ai-stocks-will-send-the-sp-500-higher-according-to-these-wall-street-strategists.md",
       "title": "Artificial Intelligence (AI) Stocks Will Send the S&P 500 Higher, According to These Wall Street Strategists",
       "excerpt": "Several Wall Street analysts think artificial intelligence stocks will carry ... 500 could climb another 9% to 4,975 this year. Yardeni Research president Ed Yardeni sees the index rising 18% ...",

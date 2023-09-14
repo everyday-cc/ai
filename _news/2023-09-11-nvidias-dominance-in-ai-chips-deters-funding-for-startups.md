@@ -46,6 +46,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "AI Chip Startup Enfabrica Raises $125 Million, With Backing From Nvidia"
+    excerpt: "(Reuters) - Enfabrica, a Silicon Valley chip startup working on networking chips for artificial intelligence data centers, said on Tuesday that it has raised $125 million in venture capital, with Nvidia joining as a strategic investor."
+    publishedDateTime: 2023-09-12T10:26:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-09-12/ai-chip-startup-enfabrica-raises-125-million-with-backing-from-nvidia"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 64
   - title: "Nvidia’s AI Chip Dominance Stifles Rival Venture Funding, Creating Challenges for Startups"
     excerpt: "The number of deals plummeted from 23 to just four by the end of August. AI chip startup Mythic, which has accumulated approximately $160 million in funding overall, faced financial difficulties last year, nearly prompting a halt to its operations ..."
     publishedDateTime: 2023-09-12T04:39:00Z

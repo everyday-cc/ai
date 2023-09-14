@@ -57,15 +57,6 @@ related:
       name: Phys.org
       domain: phys.org
     quality: 19
-  - title: "Silicon Valley startups lean into AI boom"
-    excerpt: "Why it matters: AI is the hottest technology right now, but the current boom has become equal parts innovation and marketing. Zooming in: Among YC's AI startups, most seem to be focused on providing tools for developing, integrating and managing machine learning and other AI tech."
-    publishedDateTime: 2023-09-09T16:30:00Z
-    webUrl: "https://www.axios.com/2023/09/09/startups-ai-venture-capital"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 17
 
 secured: "GIUX/un+tgQXb9kU4utLYA75OfbdrllpU6hYxmwWWMdw9TJcN0PxZXPz7YHAu28lhYqqfuqOawCYGZYZxXVaX3eHujEzPcbzlVKdzYziQsxX5wm2F80prjGM+U1QZ94uZr20O8/6vZ973sKJohF0Altf7r7obVU1rMfMTfrqfOZLrlGJNpa0yqJnd2JAgYU9LLU2F4nUZVitNLIQkkJDRRGejorq18FrsrHZTwoq/+Y+4PFvgiCNwuDfQ+GiSjiqp/GsviqgV3IXwpnH42oVa+1VQzkl0bdYxF/Sb6vSd0GXkdnML76w00HLPlrMFb4Ifsvxn4+VPdxUAnQhkd8kcqIi9EceaBOJNQtaVUpn1yMXz0a7FOboBkIRgLGLXZLcJbbfOBnBv8uwLutb8Pd/oApmAKRHZdqAfh2CTbg+Nes6oxcPgbV5fs5V1lHtsy4p3qZg1DlspbH0Xz5e76p3noIJLy3zugaCnqk4L9mndI6Rt8Uij9FRO+tYgYLbdOa8loJue9mKGteCG7DGgWX91g==;wUKjIA2jLvHhl6uIM5QkBg=="
 ---

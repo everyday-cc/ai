@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/sep/13/tech-leaders-wash
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/sep/13/tech-leaders-washington-ai-saferty-forum-elon-musk-zuckerberg-pichai"
 type: article
 quality: 55
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://s32566.pcdn.co/wp-content/uploads/2023/08/businessman-touching-the-brain-working-of-artificial-intelligence-automation-predictive.jpg-s1024x1024wisk20cMz2G15YAcE09_ywaRc43p9jmG2urk69uqyopTbaG4cI.jpg.optimal.jpg"
         width: 900
         height: 600
+        isCached: true
+  - title: "Tech Titans Meet Lawmakers On Ai Regulation"
+    excerpt: "Top executives from some of the world's largest tech and web companies have reportedly concluded a closed-door meeting with U.S. lawmakers in Washin"
+    publishedDateTime: 2023-09-14T08:33:00Z
+    webUrl: "https://menafn.com/1107066047/Tech-Titans-Meet-Lawmakers-On-Ai-Regulation"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2023-09/14/C_11f78image_story.jpeg"
+        width: 678
+        height: 452
         isCached: true
   - title: "Tech industry leaders endorse regulating artificial intelligence at rare summit in Washington"
     excerpt: "The nation's biggest technology executives on Wednesday loosely endorsed the idea of government regulations for artificial intelligence at an unusual closed-door meeting in the U.S. Senate. But there is little consensus on what regulation would look like,"

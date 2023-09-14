@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/quickerbettertech/2023/09/13/on-ai-if-y
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2023/09/13/on-ai-if-you-want-to-really-understand-ais-benefits-ask-your-banker/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
       name: Phys.org
       domain: phys.org
     quality: 19
-  - title: "Silicon Valley startups lean into AI boom"
-    excerpt: "Why it matters: AI is the hottest technology right now, but the current boom has become equal parts innovation and marketing. Zooming in: Among YC's AI startups, most seem to be focused on providing tools for developing, integrating and managing machine learning and other AI tech."
-    publishedDateTime: 2023-09-09T16:30:00Z
-    webUrl: "https://www.axios.com/2023/09/09/startups-ai-venture-capital"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 17
 
 secured: "hAiahKU4aUml1bFVN2lyTv017DkrqInmR1VmWkVM9QdsbKEpQJ80dd4OUeZS9Ettvp4fqtlHNzv2Ra0BH24R5Rz7BUN2ao4qgXHshrfcauLr4IKQovhjS9rd/o2WtaR8jYeaW1EvndIPJq6dNcx5ihd+nebW9SK4K3TfAlR4XoQK0om4NDSo+iNU6l42NtQ4eRc6X3s/2gT8n8Ens/w5o/xwUfEjPIE+ALg28gymBgf4h9kV1OAmQEcnrhKZ78ASnn4g4trcZEaHgIVw/7fO1bZ0Iu4XLYCAWza5Elrb4LIYSI/GnKkU1RJdfZOhIYWy1aPFgWr0/cuVJIAt37rjpMvQnujNa7m+yrBaMKEAXP6QyjC1kWGEFH3GK82i6z4HGP1Tb6l5cyaPtrfXQjjk9t+cCCuMTx3b5+3Qbj5kZggD08uA1TmTW/7ks6LJlZVS7Ca1lqxE/hTXk5WObOXvIFPpvrtGiNwoEtn6FPPtPH9MfIUpi0UxdhSGu88pN5P0C/qiv42WEsexGLlbT5K1xA==;PIQmvzvIWmfE8xWMwhBa4A=="
 ---

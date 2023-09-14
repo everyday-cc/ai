@@ -61,22 +61,6 @@ related:
         width: 5959
         height: 3973
         isCached: true
-  - title: "Anduril founder Palmer Luckey says the ChatGPT buzz is making politicians more interested in AI-powered weapons"
-    excerpt: "Palmer Luckey told Breaking Defense that the AI hype cycle has helped those on Capitol Hill and the Pentagon have a \"come-to-Jesus moment\" with AI."
-    publishedDateTime: 2023-09-09T15:41:00Z
-    webUrl: "https://www.businessinsider.com/anduril-founder-palmer-luckey-chatgpt-buzz-good-business-weapons-ai-2023-9"
-    ampWebUrl: "https://www.businessinsider.com/anduril-founder-palmer-luckey-chatgpt-buzz-good-business-weapons-ai-2023-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/anduril-founder-palmer-luckey-chatgpt-buzz-good-business-weapons-ai-2023-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://i.insider.com/64fb856f3d39230019774d64?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "ChatGPT’s AI technology was built in Iowa, with tons of water"
     excerpt: "Building a large language model requires analyzing patterns across a huge trove of human-written text. All of that computing takes a lot of electricity and generates a lot of heat. To keep it cool"
     publishedDateTime: 2023-09-09T21:27:00Z

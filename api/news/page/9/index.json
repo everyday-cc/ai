@@ -2,6 +2,57 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-09-07-marc-andreessen-pushes-back-on-fears-that-ai-will-kill-us-all-thats-not-how-it-works.md",
+      "title": "Marc Andreessen pushes back on fears that AI will kill us all: 'That's not how it works'",
+      "excerpt": "The billionaire investor doesn't even think AI will replace jobs, he said in a new podcast episode.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/marc-andreessen-ai-will-not-kill-us-all-2023-9",
+      "originalUrl": "https://www.businessinsider.com/marc-andreessen-ai-will-not-kill-us-all-2023-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64f8e80d8a7840001961adc1?width=1200&format=jpeg",
+          "width": 1002,
+          "height": 501,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/marc-andreessen-ai-will-not-kill-us-all-2023-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/marc-andreessen-ai-will-not-kill-us-all-2023-9?amp",
+      "publishedDateTime": "2023-09-07T02:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-07-cloudera-collaborates-with-aws-to-deliver-enterprise-generative-ai-based-solutions.md",
       "title": "Cloudera collaborates with AWS to deliver enterprise generative AI-based solutions",
       "excerpt": "According to an official release, Cloudera has chosen AWS to run components of the CDP, including data in motion, data lake house, data warehouse, operational database, AI/machine learning, master data management and end-to-end security.",
@@ -1126,58 +1177,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-intelligently-search-adobe-experience-manager-content-using-amazon-kendra.md",
-      "title": "Intelligently search Adobe Experience Manager content using Amazon Kendra",
-      "excerpt": "This post shows you how to configure the Amazon Kendra AEM connector to index your content and search your AEM assets and pages. The connector also ingests the access control list (ACL) information for each document. The ACL information is used to show search results filtered by what a user has access",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/intelligently-search-adobe-experience-manager-content-using-amazon-kendra/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/intelligently-search-adobe-experience-manager-content-using-amazon-kendra/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/06/featured-images-ML-13597-1120x630.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-06T10:28:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],
