@@ -59,15 +59,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "The Unfathomable Cognitive Landscape of AI"
-    excerpt: "The real conundrum is whether human minds can grasp the profound complexity these machines are starting to unfold. It's an inverse Turing Test of sorts, where the subject of examination is no longer the machine but humanity itself. The stakes are high; the consequences tear at the very fabric of humanity."
-    publishedDateTime: 2023-09-09T17:14:00Z
-    webUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202309/the-unfathomable-cognitive-landscape-of-ai"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 17
 
 secured: "c+bJsV67gkotDq7uRZnqwYcIgDBXd0DLP1VesntUevUVJE20D1PgraRwD966WrWQ9LA89B9yF5Ei2Y0ju27kQ0wM6R6PL8HUJuFFrl1wxRm/GVE4aEhEJcNdqhFveTlcXEACZG0g8p/qqqKBNTUEce5VjPdOi/q1TT6zZRlimRMM53JtMAm1Cx1oAYR/cYGmT3m1J1JLzHLEJgct0EzgdYPnfEJqe1XcYghdAcaC8X/c9lAFi7MNnY00TW9K1VEL9ggtz504olfUoYvtRhH4axZqA1lYqHxok6FcNqDs6kUHipS5chyTH8nb7iTiMRQcM5z0h+uwCF6vfUTbYM9KjPFGVGxf6TEzOQxrmTA5xaHEVPixI6270XWKLYt/cBnpoCt9d3oJZV42uRte+btPxo1UyoD/wE58GH0ivY6sXJ7cuGPabdafVNlEaLktXt6tV9rYnTcDMVS0GvkxY2Sj8xhyaKwdR1aANLwHzuinHdbuGZuHbW95azLHjSLeWTg6zN0aBRMm3OOF0QRaFBDSOg==;g1ffEgvdeZpX+oDym1hxwg=="
 ---

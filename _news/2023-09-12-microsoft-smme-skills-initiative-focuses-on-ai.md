@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/8OKdWMDXKJNMbznQ"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/8OKdWMDXKJNMbznQ"
 type: article
 quality: 74
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -114,20 +114,6 @@ related:
       name: Wired
       domain: wired.com
     quality: 62
-  - title: "Microsoft, Paige To Build World’S Largest AI Model To Fight Cancer"
-    excerpt: "Tech giant Microsoft has joined hands with Paige, a digital pathology provider, to build world's largest image-based artificia"
-    publishedDateTime: 2023-09-09T17:10:00Z
-    webUrl: "https://menafn.com/1107037567/Microsoft-Paige-To-Build-WorldS-Largest-AI-Model-To-Fight-Cancer"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/updates/pr/2023-09/09/I_f83b3image_story.jpg"
-        width: 825
-        height: 450
-        isCached: true
   - title: "AI-powered teaching and learning: Microsoft unleashes new educational tools"
     excerpt: "As classrooms worldwide usher in another academic year, tech giant Microsoft steps forward with its cutting-edge AI-powered solutions to push the boundaries"
     publishedDateTime: 2023-09-13T15:28:00Z

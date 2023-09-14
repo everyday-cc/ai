@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/elon-musk-and-mark-zuckerberg-
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/elon-musk-and-mark-zuckerberg-will-talk-ai-rules-in-senate-forum-on-wednesday-296d6ffe"
 type: article
 quality: 84
-heat: 206
+heat: 216
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/107300100-16946163562023-09-13t142809z_977388899_rc2m73a815je_rtrmadp_0_usa-ai-congress.jpeg?v=1694638090"
         width: 3500
         height: 2434
+        isCached: true
+  - title: "AI Regulation Takes Baby Steps on Capitol Hill"
+    excerpt: "Senate Majority Leader Chuck Schumer tried to start simple. “I asked everyone in the room, 'Is government needed to play a role in regulating AI?'” he told reporters after the meeting. “And every single person raised their hands.” The much-hyped ..."
+    publishedDateTime: 2023-09-14T10:04:00Z
+    webUrl: "https://time.com/6313892/ai-congress-regulation-hearings/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 67
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2023/09/congress-sam-altman-artificial-intelligence.jpg?quality&#x3D;85"
+        width: 2400
+        height: 1600
         isCached: true
   - title: "Elon Musk, Mark Zuckerberg, Bill Gates and other tech names head to Washington for a closed-door meeting on policing AI"
     excerpt: "Some of the biggest tech leaders in the world, like Elon Musk and Mark Zuckerberg, gathered in Washington to discuss ways to potentially police AI."

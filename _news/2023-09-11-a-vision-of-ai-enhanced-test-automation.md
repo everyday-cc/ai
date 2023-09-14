@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/a-vision-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/11/a-vision-of-ai-enhanced-test-automation/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -109,6 +109,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "MIT AI Model Speeds Up High-Resolution Computer Vision for Autonomous Vehicles"
+    excerpt: "A new AI system could improve image quality in video streaming or help autonomous vehicles identify road hazards in real-time. MIT and MIT-IBM Watson AI Lab researchers have introduced EfficientViT, a computer vision model that speeds up real-time semantic segmentation in high-resolution images,"
+    publishedDateTime: 2023-09-12T07:30:00Z
+    webUrl: "https://scitechdaily.com/mit-ai-model-speeds-up-high-resolution-computer-vision-for-autonomous-vehicles/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 32
   - title: "How Applied AI is Transforming the Future of Transportation: A Deep Dive into Self-Driving Cars"
     excerpt: "Envision a world where commuting ceases to be a tiresome chore and instead becomes an opportunity for relaxation or productivity. In this vision, accidents are nearly eradicated, and traffic jams fade into the distant past."
     publishedDateTime: 2023-09-11T16:12:00Z

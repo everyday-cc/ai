@@ -19,45 +19,36 @@ topics:
   - AI
 
 related:
-  - title: "Amazon Now Requires Authors to Disclose AI-Generated Content"
-    excerpt: "After complaints from the Authors Guild and others, Amazon is now requiring writers to disclose the use of AI, though it's not yet publicly identifying those books in its marketplace."
-    publishedDateTime: 2023-09-09T17:29:00Z
-    webUrl: "https://www.pcmag.com/news/amazon-starts-requiring-writers-to-disclose-ai-generated-content"
+  - title: "Cloudera signs strategic collaboration agreement with AWS"
+    excerpt: "Workload Migration Program (WMP) Partner who also has a Cloudera Data Platform (CDP) Public Cloud listing available in AWS Marketplace, Cloudera makes it easy for customers to utilize credits to accelerate migrating workloads to the cloud and purchasing CDP on AWS."
+    publishedDateTime: 2023-09-14T09:37:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/cloudera-signs-strategic-collaboration-agreement-with-aws-vuynti4p"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/cloudera-signs-strategic-collaboration-agreement-with-aws-vuynti4p?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/cloudera-signs-strategic-collaboration-agreement-with-aws-vuynti4p?amp=1"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
+      name: Zawya
+      domain: zawya.com
+    quality: 61
     images:
-      - url: "https://i.pcmag.com/imagery/articles/05fDpqPt4Tw50fbQCuGXvAr-1.fit_lim.size_1200x630.v1694278993.jpg"
-        width: 1120
-        height: 630
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NGZiZTQ2ZDYtN2Y0Yy00/0/paul_codding_05-full_portrait-jpg.jpeg?f=3%3A2"
+        width: 900
+        height: 600
         isCached: true
-  - title: "Self-publishers must declare if content sold on Amazon’s site is AI-generated"
-    excerpt: "Retailer announces new rules for its Kindle Direct Publishing forum after complaints about AI-produced works being sold under human writers’ names"
-    publishedDateTime: 2023-09-11T16:08:00Z
-    webUrl: "https://www.theguardian.com/books/2023/sep/11/self-publishers-must-declare-if-content-sold-on-amazons-site-is-ai-generated"
-    ampWebUrl: "https://amp.theguardian.com/books/2023/sep/11/self-publishers-must-declare-if-content-sold-on-amazons-site-is-ai-generated"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2023/sep/11/self-publishers-must-declare-if-content-sold-on-amazons-site-is-ai-generated"
+  - title: "AWS and Mission Cloud announce multiyear strategic collaboration agreement"
+    excerpt: "Misson Cloud Service Inc., a managed services firm that works with Amazon Web Services Inc., today announced that it has entered into a multiyear strategic collaboration agreement with AWS."
+    publishedDateTime: 2023-09-13T16:00:00Z
+    webUrl: "https://siliconangle.com/2023/09/13/aws-mission-cloud-announce-multi-year-strategic-collaboration-agreement/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 54
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
     images:
-      - url: "https://i.guim.co.uk/img/media/ab515b8305f51c203d6ffce2a5f9fadb8d7cdc9a/0_384_5758_3455/master/5758.jpg?width=620&quality=85&auto=format&fit=max&s=23576c53c58ed35a413435e7c203cce2"
-        width: 620
-        height: 372
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/missioncloud.png"
+        width: 2095
+        height: 1054
         isCached: true
-  - title: "Deduce Raises $9M to Tackle AI-Generated Identity Fraud"
-    excerpt: "fintech, and e-commerce. The rise of Generative AI has accelerated efficiency across industries, including organized fraud, with the introduction of platforms such as FraudGPT. Bolstered by these new technologies, fraudsters can leverage AI and stolen PII ..."
-    publishedDateTime: 2023-09-13T13:26:00Z
-    webUrl: "https://venturebeat.com/business/deduce-raises-9m-to-tackle-ai-generated-identity-fraud/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
 
 secured: "jT4hhZzRdgT8eGs8lrIkVPof32srAz65ZV//mukQxnnfmghVT91MtM5O2rNOmERIpIGrNW921wUWqOhy1pFVxquNeguMPWVDS5LWKZIiIbUC8hpDpwuJ2bOU1QCjUz5UsU5lVFPks7ejqBaMfhytZBZUMvt2YBdmsHKyqUC3fle8CDDMjDyywlcSaX1Hh+3ae+zn60d0z+pVBuEijHDlM9ey7svfRw7fhYUWTfWz8fLemHJd2PmUM7PlRPuGblloyQMvuR2WYPwEV0bMrHODtg5y2ilPulEsoLaRtoT4LzT8OurTXpjmXGzCUlydCWT9kL+5oj+fudbTQSQqE+F9KHzZGvY4+GjLI5trls77EdyzY/qiwlx1psEfq2yQGrxeJLxDR03HC0i141pNMnhjKeBCi63toNVGao1XymNZ/10JadP/aOr65/fEmlBcIHLGAGDFlaiUiUNubnm4n31p8OQ1iOlpuWJPhY2jbnCHX9LmAM2oetzuYyzPVOmSmD6EvEGZ162k8LtslN6XIM9BLA==;v5qtwvYLaEokPensgaKznA=="
 ---

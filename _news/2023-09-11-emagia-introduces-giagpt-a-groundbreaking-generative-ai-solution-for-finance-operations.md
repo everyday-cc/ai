@@ -171,6 +171,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "How artificial intelligence can revolutionise science"
+    excerpt: "Then, starting in the late 19th century, the establishment of research laboratories, which brought together ideas, people and materials on an industrial scale, gave rise to further innovations such as artificial fertiliser,"
+    publishedDateTime: 2023-09-14T08:33:00Z
+    webUrl: "https://www.economist.com/leaders/2023/09/14/how-artificial-intelligence-can-revolutionise-science"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 43
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230916_LDD002.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Generative AI in production: Rethinking development and embracing best practices"
     excerpt: "For apps built on LLMs, the engineering mindset of predictable debugging and software testing and monitoring is suddenly challenged."
     publishedDateTime: 2023-09-11T13:38:00Z
@@ -219,20 +233,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 39
-  - title: "How artificial intelligence can revolutionise science"
-    excerpt: "Then, starting in the late 19th century, the establishment of research laboratories, which brought together ideas, people and materials on an industrial scale, gave rise to further innovations such as artificial fertiliser,"
-    publishedDateTime: 2023-09-14T08:33:00Z
-    webUrl: "https://www.economist.com/leaders/2023/09/14/how-artificial-intelligence-can-revolutionise-science"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 39
-    images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230916_LDD002.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "5 Cool Chip Solutions For Edge AI"
     excerpt: "CRN rounds up five cool edge AI solutions from AMD, Axelera AI, Intel, Nvidia and SiMa.ai for the growing number of IoT devices entering the world."
     publishedDateTime: 2023-09-11T18:33:00Z
@@ -264,7 +264,7 @@ related:
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 24
+    quality: 26
     images:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?777459"
         width: 346

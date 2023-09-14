@@ -2,6 +2,100 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-12-accelerate-client-success-management-through-email-classification-with-hugging-face-on-amazon-sagemaker.md",
+      "title": "Accelerate client success management through email classification with Hugging Face on Amazon SageMaker",
+      "excerpt": "In this post, we share how SageMaker facilitates the data science team at Scalable to manage the lifecycle of a data science project efficiently, namely the email classifier project. The lifecycle starts with the initial phase of data analysis and exploration with SageMaker Studio; moves on to model",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-client-success-management-through-email-classification-with-hugging-face-on-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-client-success-management-through-email-classification-with-hugging-face-on-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/12/accelerate-client-success.jpg",
+          "width": 894,
+          "height": 447,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-12T09:05:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-senators-voice-skepticism-about-leader-schumers-ai-summit.md",
+      "title": "Senators voice skepticism about Leader Schumer's AI summit",
+      "excerpt": "These tech billionaires want to lobby Congress behind closed doors with no questions asked. That’s just plain wrong,” said Sen. Elizabeth Warren, D-Mass.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/congress/senators-voice-skepticism-leader-schumers-ai-summit-rcna104615",
+      "originalUrl": "https://www.nbcnews.com/politics/congress/senators-voice-skepticism-leader-schumers-ai-summit-rcna104615",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-09/230912-elizabeth-warren-se-1038a-81e91c.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna104615",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna104615",
+      "publishedDateTime": "2023-09-12T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-12-study-ai-and-machine-learning-with-this-30-e-degree-program.md",
       "title": "Study AI and machine learning with this $30 e-degree program",
       "excerpt": "Understanding how to use them can not only streamline your day-to-day productivity, but could also boost your career potential in developing, data engineering, and machine learning. Instead of trying to learn these tools and their tricks yourself ...",
@@ -354,7 +448,7 @@
       "originalUrl": "https://www.marketwatch.com/story/elon-musk-and-mark-zuckerberg-will-talk-ai-rules-in-senate-forum-on-wednesday-296d6ffe",
       "featuredContent": null,
       "highlight": null,
-      "heat": 206,
+      "heat": 216,
       "tags": null,
       "images": [
         {
@@ -595,7 +689,7 @@
       "originalUrl": "https://www.itweb.co.za/content/8OKdWMDXKJNMbznQ",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -1131,109 +1225,6 @@
         "Natural Language Processing",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-5-ways-to-use-ai-and-machine-learning-in-dataops.md",
-      "title": "5 ways to use AI and machine learning in dataops",
-      "excerpt": "The tools for automating data pipelines are improving, and many leverage machine learning and artificial intelligence capabilities. AI and machine learning dataops techniques shift data operations from manual- and rule-based approaches toward intelligent ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3706090/5-ways-to-use-ai-and-machine-learning-in-dataops.html",
-      "originalUrl": "https://www.infoworld.com/article/3706090/5-ways-to-use-ai-and-machine-learning-in-dataops.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/09/shutterstock_2299528137-100945614-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3706090/5-ways-to-use-ai-and-machine-learning-in-dataops.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706090/5-ways-to-use-ai-and-machine-learning-in-dataops.amp.html",
-      "publishedDateTime": "2023-09-11T14:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-the-pentagon-plans-to-build-a-vast-ai-fleet.md",
-      "title": "The Pentagon Plans to Build a Vast AI Fleet",
-      "excerpt": "The Pentagon plans to build a vast network of artificial-intelligence powered technology, drones, and autonomous systems. WSJ national security correspondent Na",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/video/series/tech-news-briefing/the-pentagon-plans-to-build-a-vast-ai-fleet/8F97223C-88BC-4C2C-A636-4359D0663ECA",
-      "originalUrl": "https://www.wsj.com/video/series/tech-news-briefing/the-pentagon-plans-to-build-a-vast-ai-fleet/8F97223C-88BC-4C2C-A636-4359D0663ECA",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://images.wsj.net/im-850325?width=1280&height=720",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-11T14:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

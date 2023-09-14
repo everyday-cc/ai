@@ -10,7 +10,7 @@
       "originalUrl": "https://www.ibm.com/blog/ubotica-partners-with-ibm-for-one-click-deployment-of-space-ai-applications/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1230,6 +1230,49 @@
       ]
     },
     {
+      "path": "_news/2023-08-31-ibm-and-salesforce-team-up-to-help-businesses-accelerate-adoption-of-trustworthy-ai.md",
+      "title": "IBM and Salesforce Team Up To Help Businesses Accelerate Adoption of Trustworthy AI",
+      "excerpt": "Tech giants collaborate to drive productivity and growth with generative AIARMONK, N.Y. and SAN FRANCISCO, Aug. 31, 2023 /PRNewswire/ -- Today,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-and-salesforce-team-up-to-help-businesses-accelerate-adoption-of-trustworthy-ai-1032596011",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-and-salesforce-team-up-to-help-businesses-accelerate-adoption-of-trustworthy-ai-1032596011",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-31T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-31-accessing-your-on-premises-network-and-ibm-cloud-vpc-using-a-single-vpn-connection.md",
       "title": "Accessing your on-premises network and IBM Cloud VPC using a single VPN connection",
       "excerpt": "How to connect to your IBM Cloud and on-premises environments using a single Client-to-Site VPN connection.\nThe post Accessing your on-premises network and IBM Cloud VPC using a single VPN connection appeared first on IBM Blog.\n",
@@ -1246,48 +1289,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-08-31T06:28:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-getting-started-with-the-ibm-cloud-command-line-interface.md",
-      "title": "Getting started with the IBM Cloud command line interface",
-      "excerpt": "The CLI allows you to interact with IBM Cloud from a computer shell. We'll show you everything to successfully get started with the IBM Cloud CLI.\nThe post Getting started with the IBM Cloud command line interface appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/getting-started-with-the-ibm-cloud-command-line-interface/",
-      "originalUrl": "https://www.ibm.com/blog/getting-started-with-the-ibm-cloud-command-line-interface/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-31T06:21:31-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",

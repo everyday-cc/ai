@@ -38,6 +38,20 @@ related:
       name: IBM
       domain: ibm.com
     quality: 97
+  - title: "Dublin’s Ubotica to simplify space AI deployment with IBM"
+    excerpt: "Ubotica, now an IBM partner, recently unveiled a hardware platform designed to get AI into orbit through smaller satellites. Irish space-tech company Ubotica has struck a partnership with IBM to use its cloud infrastructure and Watson AI and make deploying ..."
+    publishedDateTime: 2023-09-14T11:17:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/ubotica-ibm-partner-space-ai-applications-startup-satellite-watson"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/11/Ubotica_Press_Image__-_09_Nov_22_.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "lc1l5AVKAzFdekrTnKmC5/zHnLNsQrxyL5DYA8l1kWNgGkEjLRuuliNJtV3Ecx9sA+bkttRcoYD/N5iz7NoPV2YkZIHTIFeV8MNPfbzK3pftmAMasCCgrZiphagCx+R5UailzXhJVUpjz5dtKWNvivqQ+86Z2xA9BvQsezJkKj9PVtoeMWu7iui8pLf3U0GwEtCNZkk5WWzTagcNKLGkUzYV5NAWHcuHQWuYtC4ektHjDiEdsyck3MJSHtVnkoQ0qUqZuSjghqxaj0jaia6hzu6ILATHcFyA0OF0i6LAglGklJ+7RlXo0reBxciDdoFXnbv4neJhWwlfLiFW6ae9EfbiZbrZEe5OEG9j3ZOUfIRlJRrDkpZWJsZjn0yCcTyq1OjKlc3ThCSA5WHyif5y5ZsbTBZ3MOzsuXWUk2JTN2EQZye4lpRN8aQHSAGpMMv7s77/akCVprjLzLSqO6M3sgsZPQg6Wun2s4g99NXDWZpc4XrSmRxrxRXaO+9fFydXFWXlWtriVgKYRQNjZWa8uQ==;rnCOfiz/IQL5Xa5vPWUE4Q=="
 ---

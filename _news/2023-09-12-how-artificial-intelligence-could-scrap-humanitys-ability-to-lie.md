@@ -217,6 +217,20 @@ related:
         width: 1200
         height: 448
         isCached: true
+  - title: "How does Stable Audio generate AI music and sound effects"
+    excerpt: "A new AI sound generator has been released in the form of Stable Audio capable of rendering 95 secs of stereo audio at a 44.1 kHz in seconds"
+    publishedDateTime: 2023-09-14T10:13:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-sound-generator/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/How-does-Stable-Audio-generate-AI-sound.jpg"
+        width: 700
+        height: 463
+        isCached: true
   - title: "UK researchers start using AI for air traffic control"
     excerpt: "UK researchers have produced a computer model of air traffic control in which all flight movements are directed by artificial intelligence rather than human beings. Their “digital twin” representation of airspace over England is the initial output of a £15mn project to determine the role that AI could play in advising and eventually replacing human air traffic controllers."
     publishedDateTime: 2023-09-11T10:00:00Z

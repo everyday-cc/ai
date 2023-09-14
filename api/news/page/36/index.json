@@ -2,6 +2,126 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2023-08-18-googles-deepmind-reportedly-developing-ai-tools-for-life-advice.md",
+      "title": "Google's DeepMind reportedly developing AI Tools for life advice",
+      "excerpt": "Google's artificial intelligence (AI) division, DeepMind, is in the process of creating at least 21 AI tools designed to offer life advice, planning, and tutoring, according to a report by the New York Times. These tools, while not intended for therapeutic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.proactiveinvestors.com/companies/news/1023924/google-s-deepmind-reportedly-developing-ai-tools-for-life-advice-1023924.html",
+      "originalUrl": "https://www.proactiveinvestors.com/companies/news/1023924/google-s-deepmind-reportedly-developing-ai-tools-for-life-advice-1023924.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzA4XC9zaHV0dGVyc3RvY2stNTc3MTc2Nzk2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-18T00:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Proactiveinvestors",
+        "domain": "proactiveinvestors.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-18-microsoft-azure-openai-rivalry-microsoft-debuts-advanced-databricks-amidst-ai-market-shake-up.md",
+      "title": "Microsoft Azure & OpenAI Rivalry: Microsoft Debuts Advanced Databricks Amidst AI Market Shake-Up",
+      "excerpt": "Microsoft Corp MSFT looks to start selling a new version of Databricks software that helps customers make AI apps for their businesses. Microsoft would sell the software through its Azure ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/08/33910068/microsoft-azure-openai-rivalry-microsoft-debuts-advanced-databricks-amidst-ai-market-shake-up",
+      "originalUrl": "https://www.benzinga.com/news/23/08/33910068/microsoft-azure-openai-rivalry-microsoft-debuts-advanced-databricks-amidst-ai-market-shake-up",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33910068",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33910068",
+      "publishedDateTime": "2023-08-18T00:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-18-chinas-new-rules-on-ai-generated-content.md",
+      "title": "China's new rules on AI-generated content",
+      "excerpt": "Here's what you need to know about Beijing's regulations, which target services for the general public: - AI ethics - Generative AI must \"adhere to the core values of socialism\" and refrain from threatening national security and promoting terrorism ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/world/china-and-asia-pacific/chinas-new-rules-on-ai-generated-content-k698bfyb",
+      "originalUrl": "https://www.zawya.com/en/world/china-and-asia-pacific/chinas-new-rules-on-ai-generated-content-k698bfyb",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/view/acePublic/alias/contentid/ZjUxZGU2ZTEtYTI4MS00/0/afp_33r87q8-jpg.jpeg?f=3%3A2",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/world/china-and-asia-pacific/chinas-new-rules-on-ai-generated-content-k698bfyb?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/world/china-and-asia-pacific/chinas-new-rules-on-ai-generated-content-k698bfyb?amp=1",
+      "publishedDateTime": "2023-08-18T00:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-18-why-every-company-needs-a-chief-ai-officer.md",
       "title": "Why Every Company Needs A Chief AI Officer",
       "excerpt": "Unveiling the pivotal role of a Chief AI Officer, this article delves into why businesses, regardless of size or industry, must embed AI in their core strategy.",
@@ -1068,153 +1188,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-unlock-true-kubernetes-cost-savings-without-losing-precious-sleep-over-performance-risks.md",
-      "title": "Unlock true Kubernetes cost savings without losing precious sleep over performance risks",
-      "excerpt": "IBM Turbonomic optimizes your Kubernetes environment through container rightsizing, pod suspension and provisioning, pod moves and cluster scaling actions.\nThe post Unlock true Kubernetes cost savings without losing precious sleep over performance risks appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/kubernetes-cost-savings/",
-      "originalUrl": "https://www.ibm.com/blog/kubernetes-cost-savings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-17T11:46:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-18-the-scientist-behind-ibm-watson-has-raised-60-million-for-his-ai-startup-in-new-york.md",
-      "title": "The scientist behind IBM Watson has raised $60 million for his AI startup in New York",
-      "excerpt": "David Ferrucci, who led the team behind IBM Watson, raised nearly $60 million in funding for his AI startup, Elemental Cognition, according to an SEC filing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/08/17/scientist-behind-ibm-watson-raised-60-million-for-elemental-cognition.html",
-      "originalUrl": "https://www.cnbc.com/2023/08/17/scientist-behind-ibm-watson-raised-60-million-for-elemental-cognition.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107288359-1692300055703-ferruci.jpg?v=1692306945",
-          "width": 2766,
-          "height": 1844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/08/17/scientist-behind-ibm-watson-raised-60-million-for-elemental-cognition.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/08/17/scientist-behind-ibm-watson-raised-60-million-for-elemental-cognition.html",
-      "publishedDateTime": "2023-08-17T11:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-18-6-fintech-investors-sound-off-on-ai-down-rounds-and-whats-ahead.md",
-      "title": "6 fintech investors sound off on AI, down-rounds and what’s ahead",
-      "excerpt": "What is getting the thumbs up and what’s not in the theme of the moment? What’s been surprising to me about AI in fintech is how much of it seems to be under the hood (automating rote internal tasks) rather than facing externally (flashy new features).",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/17/fintech-investors-q2-2023-down-rounds/",
-      "originalUrl": "https://techcrunch.com/2023/08/17/fintech-investors-q2-2023-down-rounds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/08/fintech-survey.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-17T11:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

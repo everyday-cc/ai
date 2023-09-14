@@ -33,6 +33,20 @@ related:
         width: 436
         height: 250
         isCached: true
+  - title: "Collaborative Robot Market Size Is Anticipated To Grow Usd 33.95 Billion At A Cagr Of 41.3% By 2031 - Report By Transparency Market Research, Inc."
+    excerpt: "North America is expected to account for the highest share of the collaborative robot's market during the forecast period. The market in the region is driven by a strong manufacturing base. The increasing foon automation and robust R&D activities contribute to the growth of the collaborative robot market."
+    publishedDateTime: 2023-09-14T11:47:00Z
+    webUrl: "https://menafn.com/1107068230/Collaborative-Robot-Market-Size-Is-Anticipated-To-Grow-Usd-3395-Billion-At-A-Cagr-Of-413-By-2031-Report-By-Transparency-Market-Research-Inc"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 1
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?549013"
+        width: 375
+        height: 250
+        isCached: true
 
 secured: "bWc6+sX3hDd193rEDtQ03JaEDm2zNI8hxIzGy5gkav5p1MDXGlqg2aeVfRExsP48XqyxuBZl++EkGy9kECoB0KzEWHNE5K4b1KKD9cKhfJ3+E3Z7agYC92SAPWYytha0BNAAmptr+HUBs3hMZVWai7E5OYwsVKMPzerL8cRNTn4SgTCo1xUdUmcrHvFouXzK/fxMSROQOmgF5CXozuhcUTxaVfV3urtiRV3/RqyaAChxEB4tjcYvKl3bcsVtRGMWQFV/Ly0kT/5fvO1NRnzzQHP8RpHDAv3qIT71NEVvd+8VSgEbij86KOkYUuG6cH1iTfHWvJJ/8L86AvPmPpUaUCf91CrH08QeBsd8WkwVj5E=;bgyaHniQlTYEHXhNPNxcxQ=="
 ---

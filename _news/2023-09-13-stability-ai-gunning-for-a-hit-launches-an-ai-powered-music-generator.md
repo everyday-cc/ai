@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/09/13/stability-ai-gunning-for-a-hit-lau
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/13/stability-ai-gunning-for-a-hit-launches-an-ai-powered-music-generator/amp/"
 type: article
 quality: 87
-heat: 259
+heat: 269
 published: true
 
 provider:
@@ -206,6 +206,20 @@ related:
       - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
         width: 1200
         height: 448
+        isCached: true
+  - title: "How does Stable Audio generate AI music and sound effects"
+    excerpt: "A new AI sound generator has been released in the form of Stable Audio capable of rendering 95 secs of stereo audio at a 44.1 kHz in seconds"
+    publishedDateTime: 2023-09-14T10:13:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-sound-generator/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/How-does-Stable-Audio-generate-AI-sound.jpg"
+        width: 700
+        height: 463
         isCached: true
   - title: "How artificial intelligence could scrap humanity’s ability to lie"
     excerpt: "“Lying tends to have a high negative effect: you feel a lot of guilt, shame or anxiety that you might get caught. And those negative affective words also pop out into your speech when you lie,” Hyde said."

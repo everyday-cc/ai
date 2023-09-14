@@ -8,8 +8,8 @@ webUrl: "https://www.foxnews.com/opinion/troubling-trend-woke-ai-threat-free-spe
 ampWebUrl: "https://www.foxnews.com/opinion/troubling-trend-woke-ai-threat-free-speech.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/troubling-trend-woke-ai-threat-free-speech.amp"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - Facebook AI
+  - AI Ethics
 
 images:
   - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/07e0adc6-497f-4055-9c14-d3c3b47544ba/1261eb20-6365-4070-9874-dcf187ad6798/1280x720/match/1200/675/image.jpg?ve=1&tl=1"

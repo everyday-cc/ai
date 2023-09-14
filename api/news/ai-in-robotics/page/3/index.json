@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-08-28-cheap-chinese-robot-waiters-worry-south-korean-tech-firms-amid-labour-shortage.md",
+      "title": "Cheap Chinese robot waiters worry South Korean tech firms amid labour shortage",
+      "excerpt": "Tech executives are concerned about the business impact from cheap Chinese robots that can cost one-fifth of the price of domestically made equivalents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/asia/east-asia/article/3232505/cheap-chinese-robot-waiters-worry-south-korean-tech-firms-amid-labour-shortage?module=live&pgtype=homepage",
+      "originalUrl": "https://www.scmp.com/news/asia/east-asia/article/3232505/cheap-chinese-robot-waiters-worry-south-korean-tech-firms-amid-labour-shortage?module=live&pgtype=homepage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/08/28/5e880516-8465-4e5b-b955-dc0d12ec5535_6ad7cbed.jpg?itok=c2ArTYvn&v=1693190899",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-27T21:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-28-3-artificial-intelligence-stocks-leading-the-robotics-revolution.md",
       "title": "3 Artificial Intelligence Stocks Leading the Robotics Revolution",
       "excerpt": "The company’s automation and robotics technologies are critical ... from high-performance computing segments tied to artificial intelligence. While its robotic unit faces macro uncertainty ...",
@@ -1259,49 +1311,6 @@
       "provider": {
         "name": "philstar.com",
         "domain": "philstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-robotics-part-of-mid-year-success-for-ids-imaging.md",
-      "title": "Robotics part of mid-year success for IDS Imaging",
-      "excerpt": "IDS Imaging Development Systems, a leading industrial camera manufacturer, far exceeded industry expectations in the first half of 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/robotics-part-of-mid-year-success-ids-imaging/",
-      "originalUrl": "https://www.therobotreport.com/robotics-part-of-mid-year-success-ids-imaging/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/08/growth-2023.jpeg",
-          "width": 780,
-          "height": 468,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-16T09:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
         "images": null,
         "publishers": null,
         "authors": null

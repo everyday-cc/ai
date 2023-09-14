@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/34434984"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34434984"
 type: article
 quality: 57
-heat: 57
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1043
     height: 1043
     isCached: true
+
+related:
+  - title: "Nauticus Robotics Announces Offshore Service Agreement with Shell"
+    excerpt: "Continuous Successful Collaboration Evolves from the Development Stage to Commercial Offshore Service with a Potential Multi-Year Service"
+    publishedDateTime: 2023-09-14T11:53:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nauticus-robotics-announces-offshore-service-agreement-with-shell-1032630051"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
 
 secured: "bNvOACDPTXMbbOJOFDwSYcN62ce3085fsqTjLHaQ4pHK4/SwLYOcarylY6MjbXIbmsEBexq+kWFPTNG+67fjv0sgmnt3prehXCZ/vq7df4NwGUDf3O08c3dm+FXt9r3UvA2XOHIQUlPDoXDRhVYPf9/c23o4kCr3HQpbZ/VUzhgEyG1ia9znE7tnaaddYRiztinJFRsXHgJbns7OKF/B+QifaSphT5zJ2pBovLEgQeZv7/GneJelGxrpWYdgfrvlTACTe5++xRJrgq6GCdsDTbOQN8twuFPN41tCktKk180Dy/jZv8tPIHE+zK67MkVNlMz0/zuAjlhvN6PYqfdtYUHipoyRfSXE7+6RZDI6tgQ=;NCOo7r6XMsdv9Z3NuegdbQ=="
 ---

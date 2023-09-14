@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/09/ai-hype-reach
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/ai-hype-reaches-coca-cola-with-new-y3000-flavor-co-created-with-ai/amp/"
 type: article
 quality: 87
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/09/coke_y3000-800x450.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Coca-Cola Uses AI to Create a Futuristic Coke Flavor"
+    excerpt: "If you do happen to pick up a bottle, there's a QR code to scan which allows access to the Coca-Cola Creations Hub and your photos can be filtered through a Y3000 AI Cam. Coca-Cola is also making a limited-edition line of apparel and accessories with Ambush that's \"inspired by the future.\""
+    publishedDateTime: 2023-09-14T10:50:00Z
+    webUrl: "https://www.pcmag.com/news/coca-cola-uses-ai-to-create-a-futuristic-coke-flavor"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/03oTCnAZlXwdYN8cMumqm83-1.fit_lim.size_1200x630.v1694687177.jpg"
+        width: 1120
+        height: 630
         isCached: true
   - title: "Coca-Cola launches beverage created with the help of artificial intelligence"
     excerpt: "Coca-Cola Y3000 is the latest flavor to launch under the company’s Creations platform designed to highlight its signature soda while drawing in younger consumers."

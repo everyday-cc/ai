@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/ubotica-partners-with-ibm-for-one-click-d
 webUrl: "https://www.ibm.com/blog/ubotica-partners-with-ibm-for-one-click-deployment-of-space-ai-applications/"
 type: article
 quality: 97
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -36,6 +36,20 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F09%2FUntitled-design-14-8.jpg&signature=612637b66c7d62fd8e9c8397dfacad6e"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Dublin’s Ubotica to simplify space AI deployment with IBM"
+    excerpt: "Ubotica, now an IBM partner, recently unveiled a hardware platform designed to get AI into orbit through smaller satellites. Irish space-tech company Ubotica has struck a partnership with IBM to use its cloud infrastructure and Watson AI and make deploying ..."
+    publishedDateTime: 2023-09-14T11:17:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/ubotica-ibm-partner-space-ai-applications-startup-satellite-watson"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/11/Ubotica_Press_Image__-_09_Nov_22_.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "dtMVTiCes0sIpsDMO6bnENdUANt0mf8ZhDyxDhIK+j45HSohMA01QIm6b0VatKGFe7hNZzXg+c/UUCTatvL+TIH5cOwkPAmGPFF2s9g6lh0nzNPfNT8rNyqRdDmg1hl43RmFG9xb3qSrW44P9390udu9Dxv/OShnPl3wNSZdzp8y1TH/KO0M344tv3oZx9mRy61VUJ55VmLniILfImw4izWVjJeFakCHURrZql/LQbwAmlN6U3yruMTDcjdB6IXbdSlXm9+HY5SIKd4ylS9iCFLajt7ggeI+EhCupHbvsFLdVe/G9reJZfBDoJu/uQK9CF4wgJHMDZ17kPHSSTrqksO0um9aEd2VJ38BSIrZvaQ=;eFRO13ozvJuLl+GKthaSCQ=="

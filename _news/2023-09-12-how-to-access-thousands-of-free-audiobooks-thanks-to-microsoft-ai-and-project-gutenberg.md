@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/heres-how-to-access-thousan
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/heres-how-to-access-thousands-of-free-audiobooks-thanks-to-microsoft-ai-and-project-gutenberg/"
 type: article
 quality: 95
-heat: 145
+heat: 155
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2023/09/10/2276799.JPG"
         width: 1240
         height: 828
+        isCached: true
+  - title: "Viaccess-Orca, Microsoft, generative AI partnership"
+    excerpt: "Viaccess-Orca (VO), a specialist in providing OTT and TV platforms, content protection, and advanced data solutions, is collaborating with Microsoft on new adva"
+    publishedDateTime: 2023-09-14T10:17:00Z
+    webUrl: "https://advanced-television.com/2023/09/14/viaccess-orca-microsoft-generative-ai-partnership/"
+    type: article
+    provider:
+      name: Advanced Television
+      domain: advanced-television.com
+    quality: 54
+    images:
+      - url: "https://advanced-television.com/wp-content/uploads/2022/05/ViaccessOrca.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Tilde and Microsoft Collaborate Towards Inclusive Education With AI Speech-to-Text Technology"
     excerpt: "Tilde, in partnership with Microsoft, aims to advance inclusive education through automatic speech recognition solutions."

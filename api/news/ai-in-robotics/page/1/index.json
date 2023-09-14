@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-14-nauticus-robotics-announces-offshore-service-agreement-with-shell.md",
+      "title": "Nauticus Robotics Announces Offshore Service Agreement with Shell",
+      "excerpt": "Continuous Successful Collaboration Evolves from the Development Stage to Commercial Offshore Service with a Potential Multi-Year Service",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/nauticus-robotics-announces-offshore-service-agreement-with-shell-1032630051",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/nauticus-robotics-announces-offshore-service-agreement-with-shell-1032630051",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-14T04:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-13-robobusiness-nvidia-to-discuss-role-of-generative-ai-in-robotics.md",
       "title": "RoboBusiness: NVIDIA to discuss role of Generative AI in robotics",
       "excerpt": "We have seen a huge leap in the capabilities of Generative AI algorithms as demonstrated through ChatGPT, Stable Diffusion, and other algorithms. It is expected that Generative AI will also have a large impact on robotic reasoning, visual understanding, and physical execution abilities.",
@@ -1320,58 +1363,6 @@
         "AI Ethics",
         "AI in Robotics",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-horizon-robotics-and-stradvision-joined-forces-for-efficient-adas-solutions.md",
-      "title": "Horizon Robotics and STRADVISION Joined Forces for Efficient ADAS Solutions",
-      "excerpt": "STRADVISION's SVNet is now available on Horizon Robotics Journey series computing solutions. Together, both companies will work together to accelerate the mobility transformation of the automobile industry and bring more value to consumers with an enhanced driving experience that prioritizes safety, convenience and enjoyment.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/horizon-robotics-and-stradvision-joined-forces-for-efficient-adas-solutions-1032603340",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/horizon-robotics-and-stradvision-joined-forces-for-efficient-adas-solutions-1032603340",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2200800/jpeg1.jpg",
-          "width": 400,
-          "height": 286,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-04T10:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

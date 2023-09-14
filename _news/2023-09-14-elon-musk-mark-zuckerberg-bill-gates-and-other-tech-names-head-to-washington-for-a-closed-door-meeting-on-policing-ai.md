@@ -62,6 +62,20 @@ related:
         width: 3500
         height: 2434
         isCached: true
+  - title: "AI Regulation Takes Baby Steps on Capitol Hill"
+    excerpt: "Senate Majority Leader Chuck Schumer tried to start simple. “I asked everyone in the room, 'Is government needed to play a role in regulating AI?'” he told reporters after the meeting. “And every single person raised their hands.” The much-hyped ..."
+    publishedDateTime: 2023-09-14T10:04:00Z
+    webUrl: "https://time.com/6313892/ai-congress-regulation-hearings/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 67
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2023/09/congress-sam-altman-artificial-intelligence.jpg?quality&#x3D;85"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "In closed forum, tech titans to give senators advice on artificial intelligence"
     excerpt: "Senate Majority Leader Chuck Schumer has been talking for several months about accomplishing a potentially impossible task: Passing bipartisan legislation within the next year that both encourages the rapid development of artificial intelligence and"
     publishedDateTime: 2023-09-13T04:05:00Z

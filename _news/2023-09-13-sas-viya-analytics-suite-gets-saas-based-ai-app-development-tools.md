@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3706378/sas-viya-analytics-suite-g
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706378/sas-viya-analytics-suite-gets-saas-based-ai-app-development-tools.amp.html"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Beyond Text And Images: How Generative AI Enriches Analytics"
+    excerpt: "Synthetic data isn’t exactly new: the concept has existed since the 1970s. But synthetic data capabilities have improved dramatically in recent years due to advances in AI and modeling. By 2024, Gartner has predicted that 60% of all data used for developing AI and analytics will be synthetically generated."
+    publishedDateTime: 2023-09-14T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/14/beyond-text-and-images-how-generative-ai-enriches-analytics/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/14/beyond-text-and-images-how-generative-ai-enriches-analytics/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/14/beyond-text-and-images-how-generative-ai-enriches-analytics/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/61d7457f3bc1dea938034ea8/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 673
+        isCached: true
   - title: "SAS Viya analytics suite gets SaaS-based AI app development tools"
     excerpt: "The new offerings will allow enterprises to automate the setup and integration of a cloud-native technology stack to let developers focus on getting AI models and AI-driven applications into production."
     publishedDateTime: 2023-09-13T23:36:00Z

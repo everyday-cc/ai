@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-14-troubling-trend-of-woke-ai-is-a-big-threat-to-free-speech.md",
+      "title": "Troubling trend of woke AI is a big threat to free speech",
+      "excerpt": "The troubling trend of woke AI is a big threat to free speech. Big Tech’s AI is biased both by employees and the datasets it uses. Result endangers future of American ingenuity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/troubling-trend-woke-ai-threat-free-speech",
+      "originalUrl": "https://www.foxnews.com/opinion/troubling-trend-woke-ai-threat-free-speech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/07e0adc6-497f-4055-9c14-d3c3b47544ba/1261eb20-6365-4070-9874-dcf187ad6798/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/troubling-trend-woke-ai-threat-free-speech.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/troubling-trend-woke-ai-threat-free-speech.amp",
+      "publishedDateTime": "2023-09-13T22:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-09-13-exploring-patient-provider-perceptions-of-healthcare-ai.md",
       "title": "Exploring Patient, Provider Perceptions of Healthcare AI",
       "excerpt": "Advances in healthcare artificial intelligence have received significant hype, but patients and providers are still cautious of these new technologies.",
@@ -1402,49 +1455,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-ex-google-ai-ethics-chief-boost-worker-power-to-curb-harmful-ai.md",
-      "title": "Ex-Google AI ethics chief: Boost worker power to curb harmful AI",
-      "excerpt": "Google's former AI ethics chief Timnit Gebru told a hearing at the European Parliament on Tuesday. \"When asked what regulations need to be in place,\" she said, \"I say the number one thing that would safeguard us from unsafe uses of AI is curbing the power ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/ex-google-ai-ethics-chief-timnit-gebru-boost-worker-power-to-curb-harmful-ai/",
-      "originalUrl": "https://www.politico.eu/article/ex-google-ai-ethics-chief-timnit-gebru-boost-worker-power-to-curb-harmful-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2021/11/30/GettyImages-1028811892-scaled.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/ex-google-ai-ethics-chief-timnit-gebru-boost-worker-power-to-curb-harmful-ai/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/ex-google-ai-ethics-chief-timnit-gebru-boost-worker-power-to-curb-harmful-ai/amp/",
-      "publishedDateTime": "2023-08-23T03:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico Europe",
-        "domain": "politico.eu",
-        "images": null,
         "publishers": null,
         "authors": null
       },

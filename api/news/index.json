@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-14-nauticus-robotics-announces-offshore-service-agreement-with-shell.md",
+      "title": "Nauticus Robotics Announces Offshore Service Agreement with Shell",
+      "excerpt": "Continuous Successful Collaboration Evolves from the Development Stage to Commercial Offshore Service with a Potential Multi-Year Service",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/nauticus-robotics-announces-offshore-service-agreement-with-shell-1032630051",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/nauticus-robotics-announces-offshore-service-agreement-with-shell-1032630051",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-14T04:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-14-cloudera-signs-strategic-collaboration-agreement-with-aws.md",
       "title": "Cloudera signs strategic collaboration agreement with AWS",
       "excerpt": "Workload Migration Program (WMP) Partner who also has a Cloudera Data Platform (CDP) Public Cloud listing available in AWS Marketplace, Cloudera makes it easy for customers to utilize credits to accelerate migrating workloads to the cloud and purchasing CDP on AWS.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.zawya.com/en/press-release/companies-news/cloudera-signs-strategic-collaboration-agreement-with-aws-vuynti4p",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -97,7 +140,7 @@
       "originalUrl": "https://www.foxnews.com/opinion/troubling-trend-woke-ai-threat-free-speech",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -137,7 +180,8 @@
       ],
       "topics": [
         "AI",
-        "Facebook AI"
+        "Facebook AI",
+        "AI Ethics"
       ]
     },
     {
@@ -252,7 +296,7 @@
       "originalUrl": "https://www.ibm.com/blog/ubotica-partners-with-ibm-for-one-click-deployment-of-space-ai-applications/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -295,7 +339,7 @@
       "originalUrl": "https://www.financialexpress.com/business/digital-transformation-are-ai-chips-the-most-important-part-to-sustain-the-ai-landscape-3242586/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -684,7 +728,7 @@
       "originalUrl": "https://venturebeat.com/ai/ey-launches-ai-platform-and-llm-after-1-4-billion-investment/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -828,6 +872,57 @@
       "topics": [
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-13-amazons-latest-ai-tool-will-generate-product-descriptions-for-sellers.md",
+      "title": "Amazon's Latest AI Tool Will Generate Product Descriptions for Sellers",
+      "excerpt": "Amazon's ChatGPT-style tool will generate product descriptions for sellers. But can it improve listings currently stuffed with incomprehensible keywords to attract buyers?",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/amazons-latest-ai-tool-will-generate-product-descriptions-for-sellers",
+      "originalUrl": "https://www.pcmag.com/news/amazons-latest-ai-tool-will-generate-product-descriptions-for-sellers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/00XBdqkIDD9crTnu3KYwRNo-1.fit_lim.size_1200x630.v1694617870.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-13T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -1063,7 +1158,7 @@
       "originalUrl": "https://techcrunch.com/2023/09/13/stability-ai-gunning-for-a-hit-launches-an-ai-powered-music-generator/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 259,
+      "heat": 269,
       "tags": null,
       "images": [
         {
@@ -1102,92 +1197,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-teslas-driverless-route-to-dominance.md",
-      "title": "Tesla’s (Driverless) Route to Dominance?",
-      "excerpt": "In 2016, Elon Musk promised every Tesla (TSLA) shipped would “have the hardware needed for full self-driving capability at a safety level substantially greater than that of a human driver.” It sounded grand. But who’s fooling who?",
-      "sourceUrl": null,
-      "webUrl": "https://moneymorning.com/2023/09/13/teslas-driverless-course-to-dominance/",
-      "originalUrl": "https://moneymorning.com/2023/09/13/teslas-driverless-course-to-dominance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://moneymorning.com/wp-content/blogs.dir/1/files/2020/12/Tesla-Cell-Phone.jpg",
-          "width": 1200,
-          "height": 774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://moneymorning.com/2023/09/13/teslas-driverless-course-to-dominance/amp/",
-      "cdnAmpWebUrl": "https://moneymorning-com.cdn.ampproject.org/c/s/moneymorning.com/2023/09/13/teslas-driverless-course-to-dominance/amp/",
-      "publishedDateTime": "2023-09-13T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Money Morning",
-        "domain": "moneymorning.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-7-promising-blue-chip-bargains-for-long-term-growth.md",
-      "title": "7 Promising Blue-Chip Bargains for Long-Term Growth",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Blue-Chip bargains are a sure way to add value to your portfolio. During high",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/7-promising-blue-chip-bargains-for-long-term-growth-1032626517",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/7-promising-blue-chip-bargains-for-long-term-growth-1032626517",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-13T04:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

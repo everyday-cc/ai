@@ -2,6 +2,145 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2023-07-27-more-battlefield-ai-will-make-the-fog-of-war-more-deadly.md",
+      "title": "More Battlefield AI Will Make the Fog of War More Deadly",
+      "excerpt": "The Pentagon’s embrace of military AI raises questions about what limits should be placed on the technology—and how to keep humans in control.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/fast-forward-battlefield-ai-will-make-the-fog-of-war-more-deadly/",
+      "originalUrl": "https://www.wired.com/story/fast-forward-battlefield-ai-will-make-the-fog-of-war-more-deadly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/64c1b3dd9ec11a2433532d3d/191:100/w_1280,c_limit/AI-War-US-Fast-Forward-Business-1540566906.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-another-tesla-with-full-self-driving-beta-blasts-through-a-red-light.md",
+      "title": "Another Tesla With Full Self-Driving Beta Blasts Through A Red Light",
+      "excerpt": "A former Tesla employee has shared a frightening video online that shows a Tesla model equipped with the company’s Full Self-Driving beta running a red light in the U.S. John Bernal once worked as an advanced driver assistance systems test operator for Tesla but was fired last year after sharing videos on YouTube of the FSD Beta misbehaving in California.",
+      "sourceUrl": null,
+      "webUrl": "https://www.carscoops.com/2023/07/another-tesla-with-full-self-driving-beta-blasts-through-a-red-light/",
+      "originalUrl": "https://www.carscoops.com/2023/07/another-tesla-with-full-self-driving-beta-blasts-through-a-red-light/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.carscoops.com/wp-content/uploads/2023/07/Tesla.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.carscoops.com/2023/07/another-tesla-with-full-self-driving-beta-blasts-through-a-red-light/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/07/another-tesla-with-full-self-driving-beta-blasts-through-a-red-light/amp/",
+      "publishedDateTime": "2023-07-27T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-himachal-govt-introduces-face-recognition-tech-for-pensioners.md",
+      "title": "Himachal govt introduces face recognition tech for pensioners",
+      "excerpt": "With this initiative, pensioners can get their faces biometrically verified and submit their life certificates from their Android devices without any hassle.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/cities/chandigarh/himachal-govt-introduces-face-recognition-tech-for-pensioners-8863992/",
+      "originalUrl": "https://indianexpress.com/article/cities/chandigarh/himachal-govt-introduces-face-recognition-tech-for-pensioners-8863992/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2023/07/Facial-Recognition-Feat.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/cities/chandigarh/himachal-govt-introduces-face-recognition-tech-for-pensioners-8863992/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/chandigarh/himachal-govt-introduces-face-recognition-tech-for-pensioners-8863992/lite/",
+      "publishedDateTime": "2023-07-27T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-27-instructure-kahn-academy-announce-major-partnership-on-ai-tutoring-teaching.md",
       "title": "Instructure, Kahn Academy Announce Major Partnership On AI Tutoring, Teaching",
       "excerpt": "The news may set the standard for the role of AI in educational delivery and give the company a significant beachhead in the future of personalized learning.",
@@ -1037,119 +1176,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-ai-in-sales-and-marketing-its-here.md",
-      "title": "AI in sales and marketing: It’s here",
-      "excerpt": "Artificial intelligence is improving employee experience and productivity in fields such as sales, marketing and customer service.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/JN1gPvOAr8xMjL6m",
-      "originalUrl": "https://www.itweb.co.za/content/JN1gPvOAr8xMjL6m",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itweb.co.za/static/pictures/2023/07/Paul-Mulder-Jul-2023.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/JN1gPvOAr8xMjL6m",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/JN1gPvOAr8xMjL6m",
-      "publishedDateTime": "2023-07-26T22:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Marketing",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-amazon-is-failing-to-provide-accommodations-for-disabled-workers-labor-group-claims.md",
-      "title": "Amazon is failing to provide accommodations for disabled workers, labor group claims",
-      "excerpt": "Amazon is failing to provide adequate workplace accommodations for disabled employees, a violation of the American Disabilities Act (ADA), according to labor activists. Amazon workers with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/amazon-disabled-workers-american-disabilities-act-violations-report/",
-      "originalUrl": "https://www.cbsnews.com/news/amazon-disabled-workers-american-disabilities-act-violations-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T20:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-musk-optimistic-on-progress-for-self-driving-robots.md",
-      "title": "Musk optimistic on progress for self-driving, robots",
-      "excerpt": "(AP pic) SAN FRANCISCO: Tesla chief executive Elon Musk on Wednesday set new targets for artificial intelligence products including self-driving software and using humanoid robots in factories ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.freemalaysiatoday.com/category//2023/07/20/musk-optimistic-on-progress-for-self-driving-robots/",
-      "originalUrl": "https://www.freemalaysiatoday.com/category//2023/07/20/musk-optimistic-on-progress-for-self-driving-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T20:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Free Malaysia Today",
-        "domain": "freemalaysiatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

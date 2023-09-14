@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/business/deduce-raises-9m-to-tackle-ai-gen
 webUrl: "https://venturebeat.com/business/deduce-raises-9m-to-tackle-ai-generated-identity-fraud/"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,45 +23,20 @@ topics:
   - AI
 
 related:
-  - title: "Amazon Now Requires Authors to Disclose AI-Generated Content"
-    excerpt: "After complaints from the Authors Guild and others, Amazon is now requiring writers to disclose the use of AI, though it's not yet publicly identifying those books in its marketplace."
-    publishedDateTime: 2023-09-09T17:29:00Z
-    webUrl: "https://www.pcmag.com/news/amazon-starts-requiring-writers-to-disclose-ai-generated-content"
+  - title: "Cybersecurity startup Deduce raises $9M for its generative AI Identity fraud solution"
+    excerpt: "Cybersecurity startup Deduce Inc. today announced that it has raised $9 million in new funding to launch its generative AI identity fraud solution and help it scale up to prevent identity fraud across multiple industries."
+    publishedDateTime: 2023-09-13T13:44:00Z
+    webUrl: "https://siliconangle.com/2023/09/13/cybersecurity-startup-deduce-raises-9m-genai-identity-fraud-solution/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 30
     images:
-      - url: "https://i.pcmag.com/imagery/articles/05fDpqPt4Tw50fbQCuGXvAr-1.fit_lim.size_1200x630.v1694278993.jpg"
-        width: 1120
-        height: 630
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/deduce.jpg"
+        width: 2560
+        height: 1583
         isCached: true
-  - title: "Self-publishers must declare if content sold on Amazon’s site is AI-generated"
-    excerpt: "Retailer announces new rules for its Kindle Direct Publishing forum after complaints about AI-produced works being sold under human writers’ names"
-    publishedDateTime: 2023-09-11T16:08:00Z
-    webUrl: "https://www.theguardian.com/books/2023/sep/11/self-publishers-must-declare-if-content-sold-on-amazons-site-is-ai-generated"
-    ampWebUrl: "https://amp.theguardian.com/books/2023/sep/11/self-publishers-must-declare-if-content-sold-on-amazons-site-is-ai-generated"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2023/sep/11/self-publishers-must-declare-if-content-sold-on-amazons-site-is-ai-generated"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 54
-    images:
-      - url: "https://i.guim.co.uk/img/media/ab515b8305f51c203d6ffce2a5f9fadb8d7cdc9a/0_384_5758_3455/master/5758.jpg?width=620&quality=85&auto=format&fit=max&s=23576c53c58ed35a413435e7c203cce2"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "As Cloud Giants Wrestle with AI-Generated Content, AWS Demands Kindle Notifications"
-    excerpt: "As cloud giants continue to wrestle with AI-generated content causing copyright issues, Amazon Web Services (AWS) is now demanding that self publishers on its Kindle platform indicate whether their new content comes from machines."
-    publishedDateTime: 2023-09-13T18:54:00Z
-    webUrl: "https://virtualizationreview.com/articles/2023/09/13/ai-content.aspx"
-    type: article
-    provider:
-      name: Virtualization Review
-      domain: virtualizationreview.com
-    quality: 28
 
 secured: "l5vXR5lE6CGsFCgvuFHqFFQe3oX5LU+B6cmsMSptO1CQhzStXnDOourqIMh6c03mXpZ5aO1I/h59BsmlJg/n3dLLXLA8Ox4Zyrkgh/zGzO23RfCzEQ3MD83+soe26maFSN/VExjR6AQWFeX325jT+64zMcjkWFnunC6c0gfX7TT9FJ6/WIDvKRvG6aXKCuOZQAhzoVCZ7DlD1HXOepupEa8ZMK75z6ZD2IqgPLaLaYyzUW/Yy9Bcons2nPU6BvyCu1JmQ5m3tFLNIgEQtMXX0/MANjRjJQlUvNR0GHr0wP1IylHFzL/uniSr1k93Jvuvwmr2bU5jVg+OnZ86SPSl5t+XlpdWJV1TD9H/5D6DLjU=;eVH0Zu/vhh0pLSAp9gIoqg=="
 ---

@@ -33,13 +33,13 @@ related:
       domain: businessinsider.com
     quality: 64
   - title: "The 3 Most Undervalued AI Chip Stocks to Buy in September 2023"
-    excerpt: "The post The 3 Most Undervalued AI Chip Stocks to Buy in September 2023 appeared first on InvestorPlace."
-    publishedDateTime: 2023-09-11T19:51:00Z
-    webUrl: "https://www.nasdaq.com/articles/the-3-most-undervalued-ai-chip-stocks-to-buy-in-september-2023"
+    excerpt: "Other have plenty of runway to generate robust gains for investors. With that said, artificial intelligence tools and solutions rely heavily upon AI chips. Investors looking for compelling AI chip stocks may want to consider these undervalued picks."
+    publishedDateTime: 2023-09-11T20:02:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-most-undervalued-ai-chip-stocks-to-buy-in-september-2023-1032621207"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 64
   - title: "Best Amazon deals in September 2023: Today's best sales"
     excerpt: "Amazon deals can be found any day of the week. Whether you're shopping for a new MacBook or our favorite pair of headphones, Amazon is renown for offering sitewide sales every day. Remember ..."

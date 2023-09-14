@@ -6,7 +6,7 @@ publishedDateTime: 2023-09-14T08:33:00Z
 originalUrl: "https://www.economist.com/leaders/2023/09/14/how-artificial-intelligence-can-revolutionise-science"
 webUrl: "https://www.economist.com/leaders/2023/09/14/how-artificial-intelligence-can-revolutionise-science"
 type: article
-quality: 39
+quality: 43
 heat: -1
 published: false
 
@@ -17,6 +17,8 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
+  - Facebook AI
 
 images:
   - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230916_LDD002.jpg"
@@ -248,6 +250,20 @@ related:
         width: 768
         height: 525
         isCached: true
+  - title: "Leading The Fintech Revolution: Forms Syntron Presents Generative Ai And Web 3.0 Financial Platforms"
+    excerpt: "Empowered by Microsoft, FORMS Syntron unleashes Banking Copilot and FINNOSafe to transform the financial sectorHONG KONG SAR - Media OutReac"
+    publishedDateTime: 2023-09-14T09:28:00Z
+    webUrl: "https://menafn.com/1107066798/Leading-The-Fintech-Revolution-Forms-Syntron-Presents-Generative-Ai-And-Web-30-Financial-Platforms"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 26
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?777459"
+        width: 346
+        height: 250
+        isCached: true
   - title: "Emagia Introduces GiaGPT: A Groundbreaking Generative AI Solution for Finance Operations"
     excerpt: "Hyderabad (Telangana) [India], September 11: Today, Emagia, a leading innovator in Autonomous Finance solutions, announced the launch of GiaGPT, their latest Generative AI solution tailored for finance operations executives."
     publishedDateTime: 2023-09-11T14:14:00Z
@@ -257,20 +273,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 25
-  - title: "Leading The Fintech Revolution: Forms Syntron Presents Generative Ai And Web 3.0 Financial Platforms"
-    excerpt: "Empowered by Microsoft, FORMS Syntron unleashes Banking Copilot and FINNOSafe to transform the financial sectorHONG KONG SAR - Media OutReac"
-    publishedDateTime: 2023-09-14T09:28:00Z
-    webUrl: "https://menafn.com/1107066798/Leading-The-Fintech-Revolution-Forms-Syntron-Presents-Generative-Ai-And-Web-30-Financial-Platforms"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?777459"
-        width: 346
-        height: 250
-        isCached: true
   - title: "Salesforce Launches Next Generation of Einstein, Bringing a Conversational AI Assistant to Every CRM Application and Customer Experience"
     excerpt: "NYSE:CRM) Salesforce Launches Next Generation of Einstein, Bringing a Conversational AI Assistant to Every CRM Application and Customer Experience"
     publishedDateTime: 2023-09-12T13:44:00Z

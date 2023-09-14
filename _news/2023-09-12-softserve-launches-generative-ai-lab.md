@@ -204,6 +204,20 @@ related:
         width: 1200
         height: 448
         isCached: true
+  - title: "How does Stable Audio generate AI music and sound effects"
+    excerpt: "A new AI sound generator has been released in the form of Stable Audio capable of rendering 95 secs of stereo audio at a 44.1 kHz in seconds"
+    publishedDateTime: 2023-09-14T10:13:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-sound-generator/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/How-does-Stable-Audio-generate-AI-sound.jpg"
+        width: 700
+        height: 463
+        isCached: true
   - title: "How artificial intelligence could scrap humanity’s ability to lie"
     excerpt: "“Lying tends to have a high negative effect: you feel a lot of guilt, shame or anxiety that you might get caught. And those negative affective words also pop out into your speech when you lie,” Hyde said."
     publishedDateTime: 2023-09-11T20:21:00Z

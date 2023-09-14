@@ -119,6 +119,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "MIT AI Model Speeds Up High-Resolution Computer Vision for Autonomous Vehicles"
+    excerpt: "A new AI system could improve image quality in video streaming or help autonomous vehicles identify road hazards in real-time. MIT and MIT-IBM Watson AI Lab researchers have introduced EfficientViT, a computer vision model that speeds up real-time semantic segmentation in high-resolution images,"
+    publishedDateTime: 2023-09-12T07:30:00Z
+    webUrl: "https://scitechdaily.com/mit-ai-model-speeds-up-high-resolution-computer-vision-for-autonomous-vehicles/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 32
   - title: "U. community discusses integration of AI into academic, points to opportunities for innovation"
     excerpt: "Provost Francis J. Doyle III identified the intersection of artificial intelligence and higher education as a University priority in an Aug. 31 letter to the community titled “Potential impact of AI on our academic mission."
     publishedDateTime: 2023-09-11T01:01:00Z

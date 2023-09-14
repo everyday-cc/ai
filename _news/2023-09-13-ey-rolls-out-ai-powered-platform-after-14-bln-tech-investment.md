@@ -71,6 +71,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "EY invests $1.4 billion in AI tech, launches new platform"
+    excerpt: "The Big Four company says its new EY.ai platform aims to help organizations adopt AI technologies and will be embedded into existing EY technologies with millions of users."
+    publishedDateTime: 2023-09-14T11:24:00Z
+    webUrl: "https://cointelegraph.com/news/ernst-young-invests-billions-ai-launches-new-platform"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 39
+    images:
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDkvNWRjN2Q2ODAtMDAxYy00ZWEwLWE2MTQtY2M5ZTA5YmQ0ZDhiLmpwZw==.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "qPH3VuSDleLBTsafFats2NmTE6K+iB4k006oh26V8fnXsuUwIwvtZaiWpfpIan62zNcI0aGK5MDc5WQhF4RxpB2/xcNEmFl2fz1+jxDNhExcQXHPPlNHfR4VVq8krfMtYXznZxvaUGEByhgJPn57xev6iOInH/qK+/BUNwJXb5FWNtOMh8Flx8fZsE4ungzUz9r9lwdwfJMUqNTHVtGCqrzpwVIcKeI/VzYEzrRgPIZIZkfmxbD4VGgXtuNB4gRCdNvQs1FTLGcMLz3O0Q7Wha7VsG2cq/pnhkWGsRg75uamXX4jh0xz4I2A32js2lcEoNR8jjge7+BAJIpobXuE4uuzXdL9/dh38OG5YywRowE=;F7Cin28dlM+HoWTplTGu+A=="
 ---

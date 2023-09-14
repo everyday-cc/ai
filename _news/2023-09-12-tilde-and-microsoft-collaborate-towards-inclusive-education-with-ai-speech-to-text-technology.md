@@ -65,6 +65,20 @@ related:
         width: 1240
         height: 828
         isCached: true
+  - title: "Viaccess-Orca, Microsoft, generative AI partnership"
+    excerpt: "Viaccess-Orca (VO), a specialist in providing OTT and TV platforms, content protection, and advanced data solutions, is collaborating with Microsoft on new adva"
+    publishedDateTime: 2023-09-14T10:17:00Z
+    webUrl: "https://advanced-television.com/2023/09/14/viaccess-orca-microsoft-generative-ai-partnership/"
+    type: article
+    provider:
+      name: Advanced Television
+      domain: advanced-television.com
+    quality: 54
+    images:
+      - url: "https://advanced-television.com/wp-content/uploads/2022/05/ViaccessOrca.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "CEOs of Meta, Alphabet, Microsoft and Nvidia set to talk AI with members of Congress"
     excerpt: "Expected to attend are Meta Platforms Inc. CEO Mark Zuckerberg, Alphabet Inc., and Google LLC CEO Sundar Pichai as well as former Google CEO Eric Schmidt."
     publishedDateTime: 2023-09-13T14:37:00Z

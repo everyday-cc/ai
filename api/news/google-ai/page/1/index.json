@@ -106,6 +106,59 @@
       ]
     },
     {
+      "path": "_news/2023-09-08-all-symbols-in-tensorflow-datasets.md",
+      "title": "All symbols in TensorFlow Datasets",
+      "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Missing the information I need\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/datasets/api_docs/python/tfds/all_symbols",
+      "originalUrl": "https://www.tensorflow.org/datasets/api_docs/python/tfds/all_symbols",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/static/images/tf_logo_social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-07-musk-once-tried-to-stop-googles-deepmind-acquisition-in-2014-saying-the-future-of-ai-shouldnt-be-controlled-by-larry-page.md",
       "title": "Musk once tried to stop Google's DeepMind acquisition in 2014, saying the future of AI shouldn't be controlled by Larry Page",
       "excerpt": "Walter Isaacson, a writer who spent three years trailing Musk, recounted the background of Musk and Page's conversation in his forthcoming biography, 'Elon Musk.'",
@@ -1402,49 +1455,6 @@
       "provider": {
         "name": "India TV",
         "domain": "indiatvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-pick-up-new-coding-skills-with-74-off-this-premium-coding-training.md",
-      "title": "Pick up new coding skills with 74% off this premium coding training",
-      "excerpt": "App development is explored with training on Golang and Android machine learning using TensorFlow Lite. Coding is only going to become more important as both a specialized and general skill. This 14-course bundle gives you top instruction from experienced ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bleepingcomputer.com/offer/deals/pick-up-new-coding-skills-with-74-percent-off-this-premium-coding-training/",
-      "originalUrl": "https://www.bleepingcomputer.com/offer/deals/pick-up-new-coding-skills-with-74-percent-off-this-premium-coding-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bleepstatic.com/content/hl-images/2021/01/26/coder-header.jpg",
-          "width": 1600,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bleepingcomputer.com/offer/deals/pick-up-new-coding-skills-with-74-percent-off-this-premium-coding-training/amp/",
-      "cdnAmpWebUrl": "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/offer/deals/pick-up-new-coding-skills-with-74-percent-off-this-premium-coding-training/amp/",
-      "publishedDateTime": "2023-08-16T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bleeping Computer",
-        "domain": "bleepingcomputer.com",
         "images": null,
         "publishers": null,
         "authors": null

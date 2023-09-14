@@ -50,6 +50,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Coca-Cola Uses AI to Create a Futuristic Coke Flavor"
+    excerpt: "If you do happen to pick up a bottle, there's a QR code to scan which allows access to the Coca-Cola Creations Hub and your photos can be filtered through a Y3000 AI Cam. Coca-Cola is also making a limited-edition line of apparel and accessories with Ambush that's \"inspired by the future.\""
+    publishedDateTime: 2023-09-14T10:50:00Z
+    webUrl: "https://www.pcmag.com/news/coca-cola-uses-ai-to-create-a-futuristic-coke-flavor"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/03oTCnAZlXwdYN8cMumqm83-1.fit_lim.size_1200x630.v1694687177.jpg"
+        width: 1120
+        height: 630
+        isCached: true
 
 secured: "GRYqGCUASkt8/TU8+D8/t6lP8Nn2tYD69PbNmvefbZxTKcxyR0F83vrOAY8eBMaCgcP9UmOts+CKsxmRvREMoksh/QJI6XXuLpgX6LwL4Gzywi9H3OoHmRMRuBivmwINhl5zt2AcpqrUAXPLdx2Hib8FpGCwC1SPMOO29YrotvPbUkB+XpvynmK1Sy3jPN9q0DmS9JENKj6nDwcM/hCfuxhGaSeT7RwJiUle4eL7oPfpsIY3lIHbm+gjEQvPwWzWtmi7Nf306CP9FO0i+u7F6wLon2vM0h7Ysz9vCq2Up/w5tE2RKHlpgO1vvycHFU5FITBDMFbqcdeaSruDedGuLPn2aVWxT7PsS2+sLqPhdmQ=;Op5+77jHalACpBzA0oRZTw=="
 ---
