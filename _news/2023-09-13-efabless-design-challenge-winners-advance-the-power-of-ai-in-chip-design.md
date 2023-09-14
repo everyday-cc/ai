@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 604
         isCached: true
+  - title: "LLM Technology For Chip Design"
+    excerpt: "Cadence is no stranger to generative AI, of which LLMs are one aspect. Our current applications focus on chip design optimization, automation, and acceleration in the later stages of implementation. Yet it’s in the initial, human-led design process where bugs and bottlenecks are most likely to occur—and we can put LLM strengths to good use."
+    publishedDateTime: 2023-09-14T07:02:00Z
+    webUrl: "https://semiengineering.com/llm-technology-for-chip-design/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/semiengineering.com/wp-content/uploads/Cadence_LLM-Technology-For-Chip-Design-fig1.webp?resize=800%2C450&#038;ssl=1"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Cadence Design Is Working With Renesas To Build The World’s First LLM Tool For Up-Front Chip Design"
     excerpt: "Company sees this as an augmentation, not a replacement, for its portfolio of reinforcement learning AI tools that improve productivity of chip design teams."
     publishedDateTime: 2023-09-11T11:59:00Z

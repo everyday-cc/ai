@@ -64,6 +64,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 63
+  - title: "LLM Technology For Chip Design"
+    excerpt: "Cadence is no stranger to generative AI, of which LLMs are one aspect. Our current applications focus on chip design optimization, automation, and acceleration in the later stages of implementation. Yet it’s in the initial, human-led design process where bugs and bottlenecks are most likely to occur—and we can put LLM strengths to good use."
+    publishedDateTime: 2023-09-14T07:02:00Z
+    webUrl: "https://semiengineering.com/llm-technology-for-chip-design/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/semiengineering.com/wp-content/uploads/Cadence_LLM-Technology-For-Chip-Design-fig1.webp?resize=800%2C450&#038;ssl=1"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "aW19dCzLmC+oUyN3oRMoroKE2FUQEQpGFqAvS7Ar//0h0A9F5a6QypSb3rZHoSL3Xviqzb3D48GeJVTCJ7ahusy0FxVWFhJON78wMnnmrC1XnZ60U3pP3RnDjuEq8MR7DMLNAZ+YGAGRXmtSucKM/kbFXAiZ6QWDMtK192GV54UPf8Un9uePhagEYVlJ+Nz+nthl8vaNKq8JYER/MHOsGYTk6+BIsXt2aw+UjXxWHLj6QN3Pr9hl/geuqjy60DlVkt8IXRLTxXzavCwIfK9fKrMSA1GI9krcDNk+KjIxzvMMDO4Fxq60Zuq0YrklZE5iDgJaDnqAVivOrzBzwDhCZtfAcgn9CjLwuOQ7Nmkbnak7q0OjQhJVpErTW7MTFbo+1EyO1YSXMIfVeZpAXUQcs7bx5/2vYnjKMMxtjQCWEpXucTmrVC9r04CyOs0x89muoHQneTeRg+5hVr2DuQECXv8Y0uktNCi2isuEUDihKm2P31Xng2fMwXoa78vCXUXjSPTrmAj/bNAO/yoMvs7V4A==;rETqGAtbB1ed521gOzx7zQ=="
 ---

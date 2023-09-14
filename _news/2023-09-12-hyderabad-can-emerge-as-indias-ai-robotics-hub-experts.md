@@ -9,7 +9,7 @@ ampWebUrl: "https://www.deccanchronicle.com/amp/technology/in-other-news/110923/
 cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/110923/hyderabad-can-emerge-as-indias-ai-robotics-hub-experts.html"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence To Strengthen Indian Army, Made-In India '4-Legged Robot' To Take On Enemies"
+    excerpt: "At the North Tech Symposium 2023 in Jammu, the Indian Army unveiled groundbreaking artificial intelligence advancements that are reshaping contemporary warfare strategies, and a Multi-utility Legged Equipment (MULE),"
+    publishedDateTime: 2023-09-14T06:42:00Z
+    webUrl: "https://www.timesnownews.com/videos/mirror-now/society/artificial-intelligence-to-strengthen-indian-army-made-in-india-4-legged-robot-to-take-on-enemies-video-103655438"
+    ampWebUrl: "https://www.timesnownews.com/videos/mirror-now/society/artificial-intelligence-to-strengthen-indian-army-made-in-india-4-legged-robot-to-take-on-enemies-video-103655438/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/videos/mirror-now/society/artificial-intelligence-to-strengthen-indian-army-made-in-india-4-legged-robot-to-take-on-enemies-video-103655438/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 59
+    images:
+      - url: "https://static.tnn.in/thumb/msid-103655438,updatedat-1694673751837,width-1280,height-720,resizemode-75/103655438.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Nvidia to build AI infrastructure and train engineers in India"
     excerpt: "Following the meeting between India's Prime MInister Narendra Modia and Nvidia CEO Jensen Huang, Nvidia announced a partnership with Reliance Industries for buildning AI infrastructure and to train engineers at Tata Consultancy Services,"
     publishedDateTime: 2023-09-11T02:14:00Z

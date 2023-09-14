@@ -127,6 +127,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Tech leaders including Musk, Zuckerberg call for government action on AI"
+    excerpt: "Meta CEO Mark Zuckerberg, OpenAI CEO Sam Altman, and Microsoft co-founder Bill Gates offered diverging views on the risks of open-source AI research, according to people in the room."
+    publishedDateTime: 2023-09-14T00:13:00Z
+    webUrl: "https://www.pressherald.com/2023/09/13/tech-leaders-discuss-ai-policy-in-closed-door-senate-meeting/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 38
+    images:
+      - url: "https://w2pcms.com/wp-content/uploads/sites/10/2023/09/ai-senate-bg-5d8f1cd2-5269-11ee-9b7a-651fb7f6d786.jpg?w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Elon Musk and Mark Zuckerberg Snub Each Other at Capitol Hill AI Summit"
     excerpt: "Tesla CEO and X owner Elon Musk said he would take Meta CEO Mark Zuckerberg on in a cage fight if he is up to it.  pic.twitter.com/aQXRSuIGyy In all the hubbub surrounding Beetlejuice -gate, there’s one question that has gone unasked: How much of the musical’s score,"
     publishedDateTime: 2023-09-14T05:57:00Z

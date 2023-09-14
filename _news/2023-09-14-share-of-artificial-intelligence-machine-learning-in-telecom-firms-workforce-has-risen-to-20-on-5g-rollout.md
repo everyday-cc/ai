@@ -6,7 +6,7 @@ publishedDateTime: 2023-09-14T04:55:00Z
 originalUrl: "https://www.ibef.org/news/share-of-artificial-intelligence-machine-learning-in-telecom-firms-workforce-has-risen-to-20-on-5g-rollout"
 webUrl: "https://www.ibef.org/news/share-of-artificial-intelligence-machine-learning-in-telecom-firms-workforce-has-risen-to-20-on-5g-rollout"
 type: article
-quality: 35
+quality: 37
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.ibef.org/assets/images/loginImg.jpg"

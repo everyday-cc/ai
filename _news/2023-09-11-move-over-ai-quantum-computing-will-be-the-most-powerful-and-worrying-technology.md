@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/programming-development/move-over-ai-quant
 webUrl: "https://venturebeat.com/programming-development/move-over-ai-quantum-computing-will-be-the-most-powerful-and-worrying-technology/"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2023/Future,Digital,Technology,Cyber,Virtual,Game,Entertainment,Metaverse,,Teenager,Having_0.jpeg?width=1200&height=800&fit=crop"
         width: 390
         height: 260
+        isCached: true
+  - title: "Maxeda Technology: utilizing AI technology to optimize chip layout design, enhancing chip design efficiency and performance"
+    excerpt: "With the rapid development of various digital innovations such as Generative AI, the demand for high-performance chips in the market has surged dramatically, leading to increased complexity in chip design."
+    publishedDateTime: 2023-09-14T07:16:00Z
+    webUrl: "https://www.digitimes.com/news/a20230913PR203/maxeda-technology-press-release.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 28
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230913pr203_files/4_2b.jpg"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "+eTWqoXatpEAx6TRzlzJOuGnopiTNqmWV7NxP6OSR/0dlBHB2ESwcL7lAuaZamZMfsb3jC9jXYY3ANCHIIlxRbPavh0x0FYtVY/wWUBYAIiLUBPS2oD2RD0YcY/g1PE854SkXjt5IDY9/AVU5NyUYuAutK77yOUdpoCXchHug3O8wqM1Z1cXByYET1o7qZfSpStILDXbhJnLy1GB0QwHmsPfmWoROzyfBPSa63UqdJeRRlV1KNx/QVIMOV/ojSzzxvSgxyE9cPFabMZ4k+VQWnkdJ8CpvwiWObXVp1jQP791LAEz/diWbIDfFFiaHlLYPeLXFeFUYbKzKX7atzoWAiYrJFLIq8uoGFDqzBYlVT0OhM4ZvlFe1ghN3JOtbYrF95xAAoN4CDpdCZy3zlXjnEGtdaN0RQqoyHSl3gw9Ax91zv0cqaQQEUW4QJRU78Vu7QN0b/wmibBWXi3WiRipMkcQisejjX0EYsRJwd+mvAYyX05nUydmjmwlqnu6M4nvVmKqTLR6OD4ga87oo2VhzA==;8gJhM7405e80VDM8mYWQaw=="

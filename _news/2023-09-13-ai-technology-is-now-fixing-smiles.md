@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Maxeda Technology: utilizing AI technology to optimize chip layout design, enhancing chip design efficiency and performance"
+    excerpt: "With the rapid development of various digital innovations such as Generative AI, the demand for high-performance chips in the market has surged dramatically, leading to increased complexity in chip design."
+    publishedDateTime: 2023-09-14T07:16:00Z
+    webUrl: "https://www.digitimes.com/news/a20230913PR203/maxeda-technology-press-release.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 28
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230913pr203_files/4_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "wjqFVhq8/g86WpA2SLIwf6AOpTuqRSyqdsmfJVUXWPWdQgQXI+TIHWDy/p9dCN+fGD7qOjdkKhv2hfJbMat0V4BFRad6m4ujyWYFwW6033U8Bs7wjhstFym/FkTB2X6a3950qCMLGB/QWckknqV5rvmTT9C2CTRENhTrOD4+P8PbdxdLPJtDwSKuTVDLrU7pK3tqU/LI7MF9Y8spDieEjrPh8ZtDOCkOQ46YDP0eRWGlFE/zfxDvsE0S5G6uK7mUyiZHzGd00TtI4Cw4TfV1C3lNgH9R8aQv9/eTSI16SCUYbzkUovlCroi2Lud6HiHj06Ut+2Kal4KGITgTBe6SZK+wNvLiMcbsOdYxT3vzP1Y=;kKqhH6w0WWw3sER69dZmuQ=="
 ---

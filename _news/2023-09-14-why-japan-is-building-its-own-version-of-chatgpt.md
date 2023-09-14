@@ -283,20 +283,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial intelligence technology behind ChatGPT was built in Iowa -- with a lot of water"
-    excerpt: "As they race to capitalize on a craze for generative AI, leading tech developers including Microsoft, OpenAI and Google have acknowledged that growing demand for their AI tools carries hefty"
-    publishedDateTime: 2023-09-09T13:14:00Z
-    webUrl: "https://tulsaworld.com/ap/business/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa----with-a-lot/article_3379d8ad-289b-59cd-af57-adfc57af0969.html"
-    type: article
-    provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 29
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/6/5e/65eddd27-5f7e-51af-a65c-5d8ff9c1f88d/64fc7131358f7.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI tech behind ChatGPT was built in Iowa -- with lots of water"
     excerpt: "The cost of building an artificial intelligence product such as ChatGPT can be hard to measure. But one thing Microsoft-backed OpenAI needed for its technology was plenty of water, pulled from the watershed of the Raccoon and Des Moines rivers in central Iowa to cool a powerful supercomputer as it helped teach its AI systems how to mimic human"
     publishedDateTime: 2023-09-11T05:00:00Z

@@ -30,7 +30,7 @@ related:
     provider:
       name: IBEF
       domain: ibef.org
-    quality: 35
+    quality: 37
     images:
       - url: "https://www.ibef.org/assets/images/loginImg.jpg"
         width: 500

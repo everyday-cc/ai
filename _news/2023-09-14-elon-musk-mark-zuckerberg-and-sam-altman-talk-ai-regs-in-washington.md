@@ -114,6 +114,20 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 41
+  - title: "Tech leaders including Musk, Zuckerberg call for government action on AI"
+    excerpt: "Meta CEO Mark Zuckerberg, OpenAI CEO Sam Altman, and Microsoft co-founder Bill Gates offered diverging views on the risks of open-source AI research, according to people in the room."
+    publishedDateTime: 2023-09-14T00:13:00Z
+    webUrl: "https://www.pressherald.com/2023/09/13/tech-leaders-discuss-ai-policy-in-closed-door-senate-meeting/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 38
+    images:
+      - url: "https://w2pcms.com/wp-content/uploads/sites/10/2023/09/ai-senate-bg-5d8f1cd2-5269-11ee-9b7a-651fb7f6d786.jpg?w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Elon Musk and Mark Zuckerberg Snub Each Other at Capitol Hill AI Summit"
     excerpt: "Tesla CEO and X owner Elon Musk said he would take Meta CEO Mark Zuckerberg on in a cage fight if he is up to it.  pic.twitter.com/aQXRSuIGyy In all the hubbub surrounding Beetlejuice -gate, there’s one question that has gone unasked: How much of the musical’s score,"
     publishedDateTime: 2023-09-14T05:57:00Z
@@ -175,6 +189,6 @@ related:
       domain: washingtonpost.com
     quality: 9
 
-secured: "jsYVN6ROyhXd+E9uMG3braGUMfPGpc6+5TvfrkEfBMWulHt8zfqeJHSSLhpGXLpmlxvrODDJm6ZHWeknL18AebCtpxzM7yUFUtvx6YduyAxmJVi9P9SzyKSX9UeIHHlvxy5QbidKOcodw3eVDbBxe+pPzsgIVyYcRqo3Rij8yzyXu5NnxH6OEz9FUTcUF7aimaWlgm9HMOXdnYDRuLaP79q8qfcLmElVUNFc3bE+LSzXWT8I+m/9IvkBAU3U2+O154nnCKDXNrAFMil4pN9s4wp4GgmaJhct2RM7lcmD6bHBs/EOJZCF0O8Ex6dB7FX6gXWIh3CEYFX+T+2aSh6xkJamXjAeoEOTgTt1ujE4g4I=;PyHBIqhhe9mkGxkxCR9ecw=="
+secured: "PzDkSPSRvqPsa+IcVQwPY/Q8teo36Wkak43DS/rwWo0koeXgeSLLpgrmtPlugi8YzMHKQuKEHLzlgzGerKRIqdGz6t2AdNmF26rJzTZcmkHtXHNt71H8QKmBICy5FxNkQwtl8pPZHdw0bBzTix6eyYRI8NyaycntDAwbiaEosa+bzLh5tp1FtkhLuha0KMQDtQjNT7cY9ZcB/0YJ9WrPs21iF8YNdigZ0AyzlLXjbD5Yb4cEMxKAretPtpfOiD1q6sMSHPJcSJFWo2hH48Q0jK1YH71YhZbhmya7HI6eBtFci78Zay+ahkkLW0TZYD8gGrTqoKhE8Wl1Hj49k4fEForCWmw0K+nWNr0d5DSNybX4VllTXJ7D/W7bIMxeJCg3sBhtNj+wtm7QZV7bxfOhUJdT0O8NNMlL7q9q18K5LDXebaqfB9dadT5KyZeC0bVMpC8ATDFvEjNwHXbc1A8oExJ11I3g+QqT5ujrvlVHJdKZlwm/y60aX2nqYWBOeVRg33BAlhb80qfRxXs6QGmKgg==;EAmqYUqlPK8aVTbACtzNuw=="
 ---
 

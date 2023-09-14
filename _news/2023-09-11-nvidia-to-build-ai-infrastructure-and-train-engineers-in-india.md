@@ -41,6 +41,22 @@ related:
         width: 800
         height: 448
         isCached: true
+  - title: "Artificial Intelligence To Strengthen Indian Army, Made-In India '4-Legged Robot' To Take On Enemies"
+    excerpt: "At the North Tech Symposium 2023 in Jammu, the Indian Army unveiled groundbreaking artificial intelligence advancements that are reshaping contemporary warfare strategies, and a Multi-utility Legged Equipment (MULE),"
+    publishedDateTime: 2023-09-14T06:42:00Z
+    webUrl: "https://www.timesnownews.com/videos/mirror-now/society/artificial-intelligence-to-strengthen-indian-army-made-in-india-4-legged-robot-to-take-on-enemies-video-103655438"
+    ampWebUrl: "https://www.timesnownews.com/videos/mirror-now/society/artificial-intelligence-to-strengthen-indian-army-made-in-india-4-legged-robot-to-take-on-enemies-video-103655438/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/videos/mirror-now/society/artificial-intelligence-to-strengthen-indian-army-made-in-india-4-legged-robot-to-take-on-enemies-video-103655438/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 59
+    images:
+      - url: "https://static.tnn.in/thumb/msid-103655438,updatedat-1694673751837,width-1280,height-720,resizemode-75/103655438.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "saeYwQizbz8x9xIGBHwvNfLxdCMQnOwnehuDwJ8c1Udp28SaPvE0HoVcW9zt3JTGZ2hdY3MB+Crn86qcagX0ASJM6ChvBhND51WuSIKaAXrb0km3kWQ+UEdjLeWuQoNJuoLcf3yvV2uinEmUxRKgnBa+1IgSIQmrlSgLEYw1NVPhtKjl6KNRdmE+493iupjc2hxNfoe3AEy4C1R7nXejWUNFvig48Wt6AfMxwPuMX49VQlBgbGzQvXRR565cWpFhZuZwkwIHFjqZq0HVn5xAUvKpSC7fLQFC/4zjlvAoWywiSRQ+GTPel/EMcgyb4WljTpfkY1jLv7BZRZh34dQFGIzGoX9Sa+p+3luWCdycqOs=;n2u09bm7aZCofuPP9hCgzQ=="
 ---

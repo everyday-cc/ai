@@ -39,15 +39,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "AI Deepfakes in Campaigns Are Detectable, But Does It Matter?"
-    excerpt: "Deepfake audio, authentic-sounding but false recordings built from short snippets of a subject talking, have become so realistic that they present painfully obvious potential for underhanded political tactics."
-    publishedDateTime: 2023-09-11T17:42:00Z
-    webUrl: "https://www.govtech.com/artificial-intelligence/ai-deepfakes-in-campaigns-are-detectable-but-does-it-matter"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 19
 
 secured: "7Cv7+tvaqxR9WvA41i9Rpu/CMbTziiNdVu2usms8sRddhJs1cVEBrbtijqLssLWEzt5qY/jq9eYfSVbWaXT4++8CJ2k3EZvqrIC4rwG62j4evaLaI+mTSqElFsJKwKkaZC0VBr4JO6MWAYpovy0lCV0YpQG0crd5aUdKd4a4Feg0F9vl40ekDU66cipkCAgYV2IZ7VnB5r+PqPyxqHKOBiEmkY0i8B/twalb4GxUuXtwxR2twzSwkBlDW6Yx/MeEAd6gKS9HmBAJIeeq8+qFtthrXaPm9judFqIk0LO2dEyIyCaJGWQmKLwfJfMlQV2KQ+TcrG302lBRP5nNRlz0n6qlv//tXV+Zampv/OLhdIvmctt3Z2uVqH+rZdfRRwL09wr1aNV669fL0fMt2v6GcuiepCOkgYDoEQCG5vRYwq6tepi4JCvXCgQ+891AshnxreTZlxXTrf/k5DsUxLp0F3UreMhTb01MatJnVLVOqZoQQwdnO3PfIdE9/JRIAT5bEiM+nHUfdtxg4NkIJJushQ==;qa3zKOQxBLRay1tCNuoK2w=="
 ---

@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 774
         isCached: true
-  - title: "Tesla Finally Adds Long-Promised Feature To Full Self-Driving Suite"
-    excerpt: "Tesla has added Autosteer on city streets to the available functions for its optional Full Self-Driving Capability suite, a $12,000 option on new Teslas. A visit to the EV maker's website confirms that the feature is no longer listed as \"coming soon ..."
-    publishedDateTime: 2023-09-09T14:15:00Z
-    webUrl: "https://carbuzz.com/news/tesla-finally-adds-long-promised-feature-to-full-self-driving-suite"
-    type: article
-    provider:
-      name: https//carbuzz
-      domain: carbuzz.com
-    quality: 39
-    images:
-      - url: "http://cdn.carbuzz.com/gallery-images/1600/1177000/900/1177942.jpg"
-        width: 1600
-        height: 1066
-        isCached: true
 
 secured: "NGL1xmJc8rWjiEWBUNj5dzrQ+QqoUg1qn4XYO6EYk0OwkELlR0J7OT2hmNOXib+W2IyC2oJtno0bNmI46xUnw2NMJGnymwBH7sXGyOgR3CM0OOEc40z3SUtv9la4iFAwNaZGTk1SL4PpIkEfeIDI/6ObRbJoK1mEXCkT5iwEc3XABP9p/Atq9eqr85siowzYreVz7LyzF9iMbovZ76udiCJR5p2C6fzJWJ/Ei0/78f7Oukxl/nJDQtrgoNYXt7q1hAeBR59EOZC/ynxD0nWc5QxcBMvCwPR6oJEZD1N5L7cfK3c9iroDQCcAIO1SrvWRcOdb2OzZZn7A6JqtpM91rdSC6rMjs09L37shaL7eP3A=;L8vfBxQQRJPKzE9dU2fBtg=="
 ---

@@ -157,15 +157,6 @@ related:
         width: 1093
         height: 654
         isCached: true
-  - title: "Microsoft, Paige to build world’s largest AI model to fight cancer"
-    excerpt: "Paige developed the first large foundation model using over one billion images from half a million pathology slides across multiple cancer types."
-    publishedDateTime: 2023-09-09T13:19:00Z
-    webUrl: "https://telanganatoday.com/microsoft-paige-to-build-worlds-largest-ai-model-to-fight-cancer"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 34
   - title: "Blackstraw Partners with Microsoft to Drive Enterprise-wide AI Adoption"
     excerpt: "Blackstraw AI announces partnership with Microsoft for its Solutions Partner Designation for Data & AI (Azure) and Digital & App Innovation (Azure)."
     publishedDateTime: 2023-09-12T12:41:00Z

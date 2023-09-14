@@ -164,15 +164,6 @@ related:
         width: 1093
         height: 654
         isCached: true
-  - title: "Microsoft, Paige to build world’s largest AI model to fight cancer"
-    excerpt: "Paige developed the first large foundation model using over one billion images from half a million pathology slides across multiple cancer types."
-    publishedDateTime: 2023-09-09T13:19:00Z
-    webUrl: "https://telanganatoday.com/microsoft-paige-to-build-worlds-largest-ai-model-to-fight-cancer"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 34
   - title: "Microsoft and Paige Collaborate on World's Largest Cancer-Fighting AI Model"
     excerpt: "Microsoft, a technology behemoth, has partnered with Paige, a digital pathology company, to construct the largest image-based artificial intelligence (AI) models globally, designed to combat cancer."
     publishedDateTime: 2023-09-10T12:43:00Z
