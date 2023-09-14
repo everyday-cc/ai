@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/a-vision-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/11/a-vision-of-ai-enhanced-test-automation/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
+        isCached: true
+  - title: "AI used to target kids with disinformation"
+    excerpt: "YouTube channels that use AI to make videos containing false \"scientific\" information are being recommended to children as \"educational content\"."
+    publishedDateTime: 2023-09-14T05:41:00Z
+    webUrl: "https://www.bbc.co.uk/newsround/66796495"
+    ampWebUrl: "https://www.bbc.co.uk/newsround/66796495.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/newsround/66796495.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/640/cpsprodpb/7C81/production/_128537813_gettyimages-1246745535.jpg"
+        width: 640
+        height: 360
         isCached: true
   - title: "artec technologies AG: New development of AI-based speech recognition with integrated translation function"
     excerpt: "Diepholz - September 11, 2023 - artec technologies AG, a provider of audiovisual solutions for media monitoring, sets new standards in the industry with its latest development: an AI-driven, multilingual speech recognition (Speech-to-text, S2T) with integrated translation function."

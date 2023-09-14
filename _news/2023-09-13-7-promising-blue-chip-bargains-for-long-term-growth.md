@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/7-promising-blue-c
 webUrl: "https://markets.businessinsider.com/news/stocks/7-promising-blue-chip-bargains-for-long-term-growth-1032626517"
 type: article
 quality: 64
-heat: 75
+heat: 74
 published: true
 
 provider:

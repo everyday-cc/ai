@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/09/13/stability-ai-gunning-for-a-hit-lau
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/13/stability-ai-gunning-for-a-hit-launches-an-ai-powered-music-generator/amp/"
 type: article
 quality: 87
-heat: 257
+heat: 259
 published: true
 
 provider:

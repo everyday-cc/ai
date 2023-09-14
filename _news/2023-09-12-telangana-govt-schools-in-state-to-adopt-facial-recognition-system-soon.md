@@ -28,14 +28,14 @@ related:
   - title: "Facial recognition tech stays in schools despite state ban"
     excerpt: "Education groups and school administrators estimate as many as 50 schools could already be using the surveillance technology."
     publishedDateTime: 2023-09-13T14:40:00Z
-    webUrl: "https://helenair.com/news/state-regional/facial-recognition-tech-technology-remains-school-despite-state-ban-frt/article_81a35a96-5243-11ee-9112-4f306f94289c.html"
+    webUrl: "https://mtstandard.com/news/state-regional/facial-recognition-tech-technology-remains-school-despite-state-ban-frt/article_74d543a8-1dc3-5932-b65e-f9455c046274.html"
     type: article
     provider:
-      name: Independent Record
-      domain: helenair.com
+      name: The Montana Standard
+      domain: mtstandard.com
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/helenair.com/content/tncms/assets/v3/editorial/8/1a/81a35a96-5243-11ee-9112-4f306f94289c/650243c6bd382.preview.jpg?crop=1753%2C920%2C0%2C33&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/mtstandard.com/content/tncms/assets/v3/editorial/7/4d/74d543a8-1dc3-5932-b65e-f9455c046274/6502467a9818e.preview.jpg?crop=1753%2C920%2C0%2C33&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

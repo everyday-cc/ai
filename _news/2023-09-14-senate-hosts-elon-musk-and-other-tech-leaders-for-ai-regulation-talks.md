@@ -113,6 +113,34 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 41
+  - title: "Elon Musk, Mark Zuckerberg and Sam Altman talk AI regs in Washington"
+    excerpt: "The world’s web and tech leaders met with Congress to discuss the rise of artificial intelligence and the pressing need for its regulation."
+    publishedDateTime: 2023-09-14T05:12:00Z
+    webUrl: "https://cointelegraph.com/news/elon-musk-sam-altman-bill-gates-discusses-ai-with-congress"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 39
+    images:
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDkvNGRkMDAwYWYtODdhZi00MWNiLWJhZDQtY2Y0YjAzNmI2ZDRhLmpwZw==.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Elon Musk and Mark Zuckerberg Snub Each Other at Capitol Hill AI Summit"
+    excerpt: "Tesla CEO and X owner Elon Musk said he would take Meta CEO Mark Zuckerberg on in a cage fight if he is up to it.  pic.twitter.com/aQXRSuIGyy In all the hubbub surrounding Beetlejuice -gate, there’s one question that has gone unasked: How much of the musical’s score,"
+    publishedDateTime: 2023-09-14T05:57:00Z
+    webUrl: "https://www.thedailybeast.com/musk-and-zuckerberg-snubbed-each-other-at-capitol-hill-ai-meeting"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2182,w_3879,x_0,y_112/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1694659602/2023-09-13T140008Z_1328967948_RC2L73A9YJDK_RTRMADP_3_USA-AI-CONGRESS_jalqic"
+        width: 1480
+        height: 833
+        isCached: true
   - title: "'Overwhelming consensus' to regulate AI, says Elon Musk"
     excerpt: "Top tech leaders, including Elon Musk, Mark Zuckerberg, Sundar Pichai and Bill Gates, met with US lawmakers on Wednesday to discuss AI governance. 'This meeting may go down in history as being very important for the future of civilisation,' Musk said."
     publishedDateTime: 2023-09-13T23:08:00Z

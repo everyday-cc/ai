@@ -18,15 +18,20 @@ topics:
   - AI
 
 related:
-  - title: "Chinese tech giant Baidu gets into EV game with Geely"
-    excerpt: "More details on Ji Yue and its 01 crossover will be revealed closer to the market launch in China later this year, but Baidu has confirmed the crossover is based on Geely's SEA modular EV platform underpinning multiple models across the Geely portfolio of brands, including the Zeekr 001, and upcoming Volvo EX30 and Polestar 4 crossovers."
-    publishedDateTime: 2023-09-12T13:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1130885_baidu-geely-ji-yue-01-revealed"
+  - title: "BABA, JD, BIDU: 3 AI-Savvy Chinese Internet Stocks Analysts Love"
+    excerpt: "Chinese internet stocks (such as BABA, JD, and BIDU) have continued to be up against it this year, not participating in the massive"
+    publishedDateTime: 2023-09-14T04:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/baba-jd-bidu-3-ai-savvy-chinese-internet-stocks-analysts-love-1032628816"
     type: article
     provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 19
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://blog.tipranks.com/wp-content/uploads/2023/09/image-260-1024x344.png?utm_source=markets.businessinsider.com&utm_medium=referral"
+        width: 1024
+        height: 344
+        isCached: true
 
 secured: "NCoNeGdwS4RSPAxqHIM7Qlw13EGmilRY6dwtPzaY/LIDxlUkBOF/o05nebkAdPVHxqFmQj3+MS8AVHMB0/iZ+1e4/tnRyaeZ1rdGnXpNr1C/da0LH0u7gIy2VvojoKUYVoXF7PWH9CkmDhDEWEItMfzwCKKzRnyZpWx+QW1KoU9y77yzYkYREqRhlPNCEtMCer9limcFBjQGnr42XEKZXjv7kgEhPlcPGChQGPgZtm02zmMDZaxwHA5OsNfEl7etCc5YzwTLwPQTzs+LExIC0t9K4gYTkBnHteJmHSCbvvGLjKN0zin4sZc6r58x9dffWSUmMsvXxG7KtFUyovF2MRH3bHjhS5R9+3EywMJ7kRRvSFmB9cXvtn+d3QTtm5+xhBtT52UVNTmibsD1fPGivHBHFZx19XhI7oVZr6EPegmyCXr0bQXyuKJiYl3aMlw71esPV4c9gsQ/EUB5w7e85hMmb+qIPzOr2gsB8JP3DPmkD8jy+iSQbvdfva0+nzUPbIWk1jyrmP/jC3MEX+kIVw==;VFEKrOi0cdf2Yn4zD1TKSw=="
 ---

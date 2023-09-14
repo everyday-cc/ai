@@ -54,6 +54,17 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Vietnam’s top tech company FPT eyes AI, chips growth, no immediate plans for US IPO"
+    excerpt: "VIETNAM’S leading tech company FPT has orders for nearly 70 million chips through 2025 and is eyeing expansion in Artificial Intelligence (AI) and technical training, the company’s chief said. Read more at The Business Times."
+    publishedDateTime: 2023-09-14T04:17:00Z
+    webUrl: "https://www.businesstimes.com.sg/international/asean/vietnams-top-tech-company-fpt-eyes-ai-chips-growth-no-immediate-plans-us-ipo"
+    ampWebUrl: "https://www.businesstimes.com.sg/international/asean/vietnams-top-tech-company-fpt-eyes-ai-chips-growth-no-immediate-plans-us-ipo?amp"
+    cdnAmpWebUrl: "https://www-businesstimes-com-sg.cdn.ampproject.org/c/s/www.businesstimes.com.sg/international/asean/vietnams-top-tech-company-fpt-eyes-ai-chips-growth-no-immediate-plans-us-ipo?amp"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 48
   - title: "US, Vietnam firms hold business summit during Biden visit; AI deals unveiled"
     excerpt: "Executives at top U.S. and Vietnamese firms in the semiconductor, tech and aviation sectors are meeting on Monday as part of U.S. President Joe Biden's visit to Hanoi, seeking to forge business partnerships with new deals in AI unveiled."
     publishedDateTime: 2023-09-11T10:50:00Z

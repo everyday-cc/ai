@@ -45,20 +45,15 @@ related:
         height: 600
         isCached: true
   - title: "Tech industry leaders endorse regulating artificial intelligence at rare summit in Washington"
-    excerpt: "6, 2023. Schumer hopes to pass legislation within the next year that both encourages the rapid development of artificial intelligence and mitigates its biggest risks. He is convening a meeting of prominent technology executives to ask them how Congress ..."
-    publishedDateTime: 2023-09-13T21:27:00Z
-    webUrl: "https://www.wfmz.com/news/ap/ap-business/tech-industry-leaders-endorse-regulating-artificial-intelligence-at-rare-summit-in-washington/article_ff5f872b-0636-50c0-a16d-663f9a203c84.html"
+    excerpt: "The nation's biggest technology executives on Wednesday loosely endorsed the idea of government regulations for artificial intelligence at an unusual closed-door meeting in the U.S. Senate. But there is little consensus on what regulation would look like,"
+    publishedDateTime: 2023-09-14T00:53:00Z
+    webUrl: "https://lasvegassun.com/news/2023/sep/13/tech-industry-leaders-endorse-regulating-artificia/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 26
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/e1/8e1fba02-adcb-54f8-9b62-cf124f762df1/65013580eb40a.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 6
 
-secured: "Lbr73q2Y+poRKO1SpaBrpKhUnbrFcs5w48BE+ApXM2bfUf3D+y/VTwssYdPFlpiPHYemdK6OrDEAmMQK5j3B030P5Oh3d0KN3T29OwJuUCQNyS9/wS+UXqRxncLxePH2EPzF8cMS/D5cb5poWPc5fa/grcG43T2ytQkBDTjW4FUSy/eWr/MQZv783RGThk5DZoatiGLaOtfzHNaK/wqfrCD5frELGRDLzkI6XnoHX1Upa7h1IsggF252GSEd+zJRtvcLYC7KB+JQ9NtI5uuVIGYaoxf6sb0dK1tQHQqerU27OlwW6UiMnKO6yC7CMB25vrP0a/9/nBRsgq5iTcrsr2bW+N3FBYb6fsHByyWdk8w=;VHisznaw2/RRC+n1+EHAdA=="
+secured: "RlMtlZ+D9Ux3vKqDs6FrkKCzqBabm/ufXCBuhZYJT9xH01sJiIJauz3kBvqgUFLnPnISsJ/FMhNCPNc/vE3+RrS2SJffJXnYQnCz2I38ikiqLqvB29E6qFf7CCPrdSM9M9pTf5HoHJFnt6jJ4kTWNxJfmPL25ZhcysQdpEYlXSsC5yld/Zlz6nN9L+Vmjz8FVsG90aFnR1WNMV5+22QQogpGlbno6rbzRW2V4jQz6S5KCYVyUTifQJqicG/9Ljuvb0k7dzM/EgJeb8cENy9A3ZFSkK+kvcrSEF/xJvArWIsLckKLqJosE09uUjjrbHQRMEOaZTuAwnTSJxNJRKslBzcg0JMa9p9eFlB8d5xL+ZXGJyoLtVbQEWErek5NValkNiWtrpG3wWP0aLoVkrZEGhJ4BItSqWN0I5ciPcAJdxVui0MOTTGFym0Lxsau3ar/R3+APfc+UQuw0Ra63pVSsTgumUKuhlib9MzRKluyO+s0V5sVDSHpe7rHuZUpsMMATGe2jyb5qJKM/Zh4zFBb8g==;LIqN34zxcSM2pcxgY++Qvw=="
 ---
 

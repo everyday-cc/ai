@@ -7,7 +7,7 @@ originalUrl: "https://financialit.net/news/artificial-intelligence/samunnati-par
 webUrl: "https://financialit.net/news/artificial-intelligence/samunnati-partners-singapore-headquartered-fintech-finbotsai-transform"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,31 @@ images:
     isCached: true
 
 related:
+  - title: "Samunnati in deal with Singapore firm to use AI for credit risks"
+    excerpt: "Chennai-based agri enterprise Samunnati has partnered with Singapore-based finbotsAI to use AI-based solutions for credit risk management. Samunnati is the first agri enterprise in India to do so, helping to support financial inclusion of smallholder farmers and agri enterprises."
+    publishedDateTime: 2023-09-14T04:10:00Z
+    webUrl: "https://www.thehindubusinessline.com/economy/agri-business/samunnati-in-deal-with-singapore-firm-to-use-ai-for-credit-risks/article67303515.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/economy/agri-business/samunnati-in-deal-with-singapore-firm-to-use-ai-for-credit-risks/article67303515.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/economy/agri-business/samunnati-in-deal-with-singapore-firm-to-use-ai-for-credit-risks/article67303515.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 39
+  - title: "Singapore's first autonomous car model race crowns winners | Video"
+    excerpt: "The Winners of Singapore's first autonomous car model race have been crowned. The DeepRacer League is powered by coding and organisers hope such competitions will get those less digitally savvy to pick up tech skills."
+    publishedDateTime: 2023-09-10T15:38:00Z
+    webUrl: "https://www.channelnewsasia.com/watch/singapores-first-autonomous-car-model-race-crowns-winners-video-3760181"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 24
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--wkF5tIFo--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/09/10/capture_3.png?itok=QKRTpsS5"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Samunnati partners with Singapore-headquartered fintech finbots.ai to transform credit risk management using AI"
     excerpt: "X, will enable Samunnati to build high quality credit risk scorecards faster, accelerating growth of Agri & SME lending business & driving financial inclusion. SINGAPORE, Sept. 14, 2023 /PRNewswire/ -- Samunnati,"
     publishedDateTime: 2023-09-14T01:00:00Z
@@ -39,15 +64,6 @@ related:
         width: 600
         height: 316
         isCached: true
-  - title: "How the customer experience has been transformed by fintech"
-    excerpt: "AI and advanced predictive analytics are by far and away the ... it’s only a matter of time before it’s geared up to deal with more complex queries. Here are some of how fintech is improving customer lives. Finance management tools During these ..."
-    publishedDateTime: 2023-09-12T16:32:00Z
-    webUrl: "https://www.finextra.com/blogposting/24877/how-the-customer-experience-has-been-transformed-by-fintech"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "NkbdBdeimxZL7CVbwXMfBqsvdCGqVWvYZsvdqIFm+Rn7sRcj93rN/vQltLkaBjYaBRvxx2dOqVZLuWcXUvFUWTjNn57EWqkRIW0QcqxBW8UZ4yWxexKn0ClZnYz2mFY+evQm4Wt4olh1rYyccyH2dgmOlqt5REyIpeBtqGba40F4ioVntkMJPfKf57d8w2s5kBlBhp7xC/56az2ethZi6+JSJYeGjgs6ktHRZo5aCFVgI6l3L0llX+F1km7+E092+bnF31515lnE3+SFQOZt626E9vP+U7iOtcanBF6Z1VqhShv9UKAC4CurNfHR/L3YR8b7cBBUanzs3PfzteaAEjbSVviuD3ILj9y1n3GjL2NoZFwNf6pw6RRsFNhglbZZKt9QZEGps+TubFPs88mfOQw1svj7KmYYL3Nf5xDqkGyMCE5gDhBW8fCcGZ9MvhAGDVNJzOdxJpPwKOR/QLx7jiRky5RvGPNb0BzeV4InuEMVX1seqlH0DBIJgv9ZzDX9io61hYmCx2wX2GFs437nCA==;pmYxEg9/Ps9aQukYdUwaGg=="
 ---

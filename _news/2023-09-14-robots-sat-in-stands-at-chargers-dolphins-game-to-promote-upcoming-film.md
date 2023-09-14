@@ -3,25 +3,25 @@ category: news
 title: "Robots sat in stands at Chargers-Dolphins game to promote upcoming film"
 excerpt: "The robots were placed in the stadium among fans to help promote a new sci-fi film from 20th Century Studios called “The Creator,” according to KTLA. The film will be heading to theaters on Sept. 29. “The Creator” is about a war between humans and an AI force that according to USA Today, is threatening to end humanity."
 publishedDateTime: 2023-09-13T18:18:00Z
-originalUrl: "https://www.whio.com/news/trending/robots-sat-stands-chargers-dolphins-game-promote-upcoming-film/PNU5USRW5VATRJIOGHYIO3JZNE/"
-webUrl: "https://www.whio.com/news/trending/robots-sat-stands-chargers-dolphins-game-promote-upcoming-film/PNU5USRW5VATRJIOGHYIO3JZNE/"
-ampWebUrl: "https://www.whio.com/news/trending/robots-sat-stands-chargers-dolphins-game-promote-upcoming-film/PNU5USRW5VATRJIOGHYIO3JZNE/?outputType=amp"
-cdnAmpWebUrl: "https://www-whio-com.cdn.ampproject.org/c/s/www.whio.com/news/trending/robots-sat-stands-chargers-dolphins-game-promote-upcoming-film/PNU5USRW5VATRJIOGHYIO3JZNE/?outputType=amp"
+originalUrl: "https://www.wftv.com/news/trending/robots-sat-stands-chargers-dolphins-game-promote-upcoming-film/PNU5USRW5VATRJIOGHYIO3JZNE/"
+webUrl: "https://www.wftv.com/news/trending/robots-sat-stands-chargers-dolphins-game-promote-upcoming-film/PNU5USRW5VATRJIOGHYIO3JZNE/"
+ampWebUrl: "https://www.wftv.com/news/trending/robots-sat-stands-chargers-dolphins-game-promote-upcoming-film/PNU5USRW5VATRJIOGHYIO3JZNE/?outputType=amp"
+cdnAmpWebUrl: "https://www-wftv-com.cdn.ampproject.org/c/s/www.wftv.com/news/trending/robots-sat-stands-chargers-dolphins-game-promote-upcoming-film/PNU5USRW5VATRJIOGHYIO3JZNE/?outputType=amp"
 type: article
 quality: 59
 heat: 69
 published: false
 
 provider:
-  name: WHIO
-  domain: whio.com
+  name: WFTV
+  domain: wftv.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/5tQ6HG-wGA8Bxjt6Nq1RHzmoQuM=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/727FVPCSCFBVLCOKRAI3UECCGE.jpg"
+  - url: "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/5tQ6HG-wGA8Bxjt6Nq1RHzmoQuM=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/727FVPCSCFBVLCOKRAI3UECCGE.jpg"
     width: 1440
     height: 810
     isCached: true
@@ -42,6 +42,6 @@ related:
         height: 900
         isCached: true
 
-secured: "djmX5FuEMWMYZWWNkVogHqzq+dzUlQ25x2+aCVMziDyxxvme+qiGdSuBspungLXsSQ9RGmBl/ojjptJ5m9NJq8dvglcot2dzwNVADrlPQdOF2f5I2+DbE7bW9+gXSfawZq8K9b9irKsnEnNxGnPlDulNkClJEPfneV8nJOWLLCMXOoi8Vqe7cwPf4syev4Nnm8c4rnJeuCzX/wiOuTQVDJDYViQ9Htb0i5idgRV4t5UNgtbkf+X0sdfbY5EXpoDuXglErJIpAAotxA3OqguS/xynjlj4wLxgfoV/4fpic3W4FFEcRleNhceP3bpTLh3nfz4r2FQhUmNtbQAKBMU/WNSjQs7QhCh3uMM3PoO0bI9Mihd5EYmlBzMAm7dJbQ6YBmQjq0ATcA8tdqPVK4HXzgden5+97CfkAudHjjVkY0fahF8ijOa3YzPZoIS05XxCd0Ug4ch16gaOUPsNd1aIao1lvaxnmHmAxRkf4Rd5gPEEbe7igKY7BTh7pOr+G6axtymP1QCMkWAPI+T3+ufswQ==;/rt9AjIXZwG/Gv8HX28QEg=="
+secured: "cKC09ytNmMv164zzNmywX+yV1TwjAjV4b5rYrOs/Yk0bb8uOXuXbUbok0SgfipRSINfRNYebMH/Fu8j/jWWWOtcUYbTAb0KRCKq3a/6ihsdv3z8tO8jPhjnu0LqvIcas71iUsJwgbWDWSJYDhqm6yvzbgh48qk2Lv5Djzk8g1R3yov8NTU2oFr9kTFkjn550a24X9rF8X6Yf270etPTvrMONQTx99WhzMhyVTtX5Kjy8nDBBsOmm8zVzvLf87j2OIK485XoHOoJF1zWG2SObHS38DmjYVjSM36eP1Rq/wMzXWvjYbhCK65dlL/3fHLYLbZPzGpC24JWeeF1ug1qWS6Apk0VaADqK0nPgqD4H1Kw=;l26QXAdEwGGWd570N69etQ=="
 ---
 

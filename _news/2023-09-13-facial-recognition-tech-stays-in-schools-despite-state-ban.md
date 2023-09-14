@@ -3,23 +3,23 @@ category: news
 title: "Facial recognition tech stays in schools despite state ban"
 excerpt: "Education groups and school administrators estimate as many as 50 schools could already be using the surveillance technology."
 publishedDateTime: 2023-09-13T14:40:00Z
-originalUrl: "https://helenair.com/news/state-regional/facial-recognition-tech-technology-remains-school-despite-state-ban-frt/article_81a35a96-5243-11ee-9112-4f306f94289c.html"
-webUrl: "https://helenair.com/news/state-regional/facial-recognition-tech-technology-remains-school-despite-state-ban-frt/article_81a35a96-5243-11ee-9112-4f306f94289c.html"
+originalUrl: "https://mtstandard.com/news/state-regional/facial-recognition-tech-technology-remains-school-despite-state-ban-frt/article_74d543a8-1dc3-5932-b65e-f9455c046274.html"
+webUrl: "https://mtstandard.com/news/state-regional/facial-recognition-tech-technology-remains-school-despite-state-ban-frt/article_74d543a8-1dc3-5932-b65e-f9455c046274.html"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Independent Record
-  domain: helenair.com
+  name: The Montana Standard
+  domain: mtstandard.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/helenair.com/content/tncms/assets/v3/editorial/8/1a/81a35a96-5243-11ee-9112-4f306f94289c/650243c6bd382.preview.jpg?crop=1753%2C920%2C0%2C33&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/mtstandard.com/content/tncms/assets/v3/editorial/7/4d/74d543a8-1dc3-5932-b65e-f9455c046274/6502467a9818e.preview.jpg?crop=1753%2C920%2C0%2C33&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -54,6 +54,6 @@ related:
         height: 720
         isCached: true
 
-secured: "P4XMToOUovGV8cxGnKvly9upyQcUbcI4UouIW+0pXKAmzWCwhXB7b8FOK+k87txfxkU/4GpWP1usBBjqHg1wj9n5fh5DRv5CzutWW9U+zd8WbDlOAoj4fHznFIN5VuHgkfvAHU0NZmxvsurwO4O6fFER+9YdG6yafxanr6AVSp4uMSniFCtDvNOMPDAa+qUdzHh1hpqI5d4mOA1XK2A5EymDAI9qHQq0ZJaMIQc9YCiDr33knXyu5IgT5imSOBhiBWSG9L2gVwVVwEXR1F5FpXyzAnEBfccy9gOT82cA33JoQpMTXOGV5bXwv07sxXn991W9X1JRo6PVcdGBR9yn8jBRmFN5FYZs47AL1VotAFY=;XBW4yI6KZp+/i98+oltgiA=="
+secured: "Fnh+AegXM51mBHcM/6DY/B/fPjZE+qFtyRHiPOYv8DTpw7Fui9YlE3+YDN4aH6YVk0hTCi/yWeYEOvpRRTehhtvaeZROOzoban6eIskQiEkU5q7CHqDZEaqZmrbBKTWXOTanC4kPaFQOF2rk3Wnt22Fbu4Y0KT0FUiGfHHcWzmb92aq/htszSZU0+ttqLE8ftA7w3h339OqEwaM+UkdCHDzejjM6nB9kB0jtaTPwwgaOF4zomUvQp1Mz7bdHcAACBku8+8+WYpcRbwSYIu8kmZWClYrqROcYjI7oOAjbSZyY3zTY2EUwFR9ZElQmeO+gHOOZcFD2zNmWrbZmEOYkcDCpkAyzn0+b0tITYWsTf5c=;V/18SQQbl6H1ZIrjahRcQg=="
 ---
 

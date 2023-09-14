@@ -255,33 +255,24 @@
     {
       "path": "_news/2023-08-30-domo-announces-domoai-to-revolutionize-the-way-businesses-manage-and-deploy-artificial-intelligence.md",
       "title": "Domo Announces Domo.AI to Revolutionize the Way Businesses Manage and Deploy Artificial Intelligence",
-      "excerpt": "Today at the Domo Innovation Summit, Domo (Nasdaq: DOMO) announced Domo.AI, a portfolio of comprehensive and flexible artificial intelligence (AI) services, powered by the company’s award-winning data experience platform.",
+      "excerpt": "The Domo platform -- and our architectural approach to Domo.AI -- is purpose-built to deliver on this need for unique data experiences that help businesses overcome real-world challenges and accelerate innovation and growth.",
       "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/domo-announces-domo-ai-to-revolutionize-the-way-businesses-manage-and-deploy-artificial-intelligence/article_169f8196-9867-59f0-b3d6-9890e0f5ddd0.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/domo-announces-domo-ai-to-revolutionize-the-way-businesses-manage-and-deploy-artificial-intelligence/article_169f8196-9867-59f0-b3d6-9890e0f5ddd0.html",
+      "webUrl": "https://it.tmcnet.com/news/2023/08/29/9871996.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/08/29/9871996.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-29T13:05:00-07:00",
+      "publishedDateTime": "2023-08-29T15:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

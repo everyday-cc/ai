@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/companies/news/hottest-gpu-maker-s-india-pl
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/hottest-gpu-maker-s-india-playbook/amp-11694625393998.html"
 type: article
 quality: 59
-heat: 79
+heat: 82
 published: true
 
 provider:
@@ -51,6 +51,6 @@ related:
       domain: indiablooms.com
     quality: 6
 
-secured: "KMsXDbXgL9+FgTsELut2GDezBO9v/zHE7RMpS0kUseuKymK4B29x8vHIytkgbJUB/mkXGxyXLPi4Nn0dH+FuT83/G9/fFFC5ebTW8b1lsxJt2DKteeHfuVE7STIkoVfRm0tOiX2DYLzBaKp+wO63netv645e2iYL3hBVowk2kgFhsx2ckvoHF7HGacvLlS5wEMUiJBkwZzrnBfZXvV/UZAjK+T36evwTJ/jGzYuFerAeZ1swB/6ATwrp1+ElGI5L5MXark/O53bwqgPDlawhla1ecwjCl1YpoSCdGyBCG71UYxLoE6UewfeJuQ1p33sW6urFHEtNI2rQ2SeKzQ7odClsrEf4tfa66yhWW6KAv7k=;5vydTxGvRf9yusKo15NFGA=="
+secured: "0rzvg9YHcoJB+ZlSXxs5Q9TxnvApB7Of6lzN8uPAnmDHDYEau7whO2MANkJsPy6RIy9s698NVODQNQ6/YdGoo0tn2EwOICHGLBdwT1MghFdVNQioP7WYrXW7zFLlPwH5h2J4Rjbm+MvzPe9xYLY1VDGpZKDe+O47HOomAOCxDxIcbVSr7YN4T1r7UpQAhU9DYTLaHfmDQOmsp8/XasHXCbmLEb2Oa3OoUObk97/l6gUkjZxEjt3lvkWRPztKxm2ddLPqqpKJVQ1D5NuXvD8+6xzMMEYBu1rKv20UfMsdIqDXnGO8m3a/tFJiM/eif9qml4JMTfPVJcWGb/wTx7fb5kv4549EcadgiSoZ2bZeKtHA/ofVQTSQJ1S4VlHtSl5SkSpWQxp1wvSLB1GVDSVo/pliF7ACLqDRifgd4fcuztDVZmFnG8rfgYUT2xgM9qFl5eOW26aZmaNtbPSi01vzqoibyxzYQwW+BI6BU4LbvmS9Z3IixGC9EaChhWlfFXtXmSsSxMKHeXI6UN0zYfrJrQ==;BXHzgX+ccQL8a2KiCKReSg=="
 ---
 

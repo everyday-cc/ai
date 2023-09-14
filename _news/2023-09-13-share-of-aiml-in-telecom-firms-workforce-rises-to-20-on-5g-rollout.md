@@ -9,7 +9,7 @@ ampWebUrl: "https://www.business-standard.com/amp/industry/news/share-of-ai-ml-i
 cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/industry/news/share-of-ai-ml-in-telecom-firms-workforce-rises-to-20-on-5g-rollout-123091300740_1.html"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -20,6 +20,22 @@ topics:
   - AI in Finance
   - AI
   - Machine Learning
+
+related:
+  - title: "Share of Artificial Intelligence/ Machine Learning in telecom firms' workforce has risen to 20% on 5G rollout"
+    excerpt: "The share of Artificial Intelligence/Machine Learning (AI/ML) in telecom firms’ workforce rises to 20% on the 5G rollout. By the end of the financial year 2023-24, the proportion of AI/ML-led jobs is seen to reach 23%."
+    publishedDateTime: 2023-09-14T04:55:00Z
+    webUrl: "https://www.ibef.org/news/share-of-artificial-intelligence-machine-learning-in-telecom-firms-workforce-has-risen-to-20-on-5g-rollout"
+    type: article
+    provider:
+      name: IBEF
+      domain: ibef.org
+    quality: 35
+    images:
+      - url: "https://www.ibef.org/assets/images/loginImg.jpg"
+        width: 500
+        height: 665
+        isCached: true
 
 secured: "CkboFDjk67Gkc2j80H6Dhqc7oMTnREjV6FtiViWa5FNCB/evJsAJPGuHqDwv/tCguz1g0O8EzNawCHKXPvfpm1aP+ZROG8c7NxvitVMPNRQvsqBdUBTk4/hxHz5gwATK6kRRbG9RTew51sEDsX1CMjK+hJVe6IoTupnCw0IBQQwoHMZH4GnVBSvYa75b7AcJrbjaGKZ8KRkSG7JRLqUVyUqr3B6KRujgTKRZ7r5rH9wPsNxXIcS14jNDUZI+5Ndy5I2yN9k6Xj6kaBEbqsZ+guH4UmRSoBg/zPrOMnSrLaqET0HynEvr4b+Nyyq2U/8Zo1B+e6kZuaePFucc9/iNMURxFwJYCf2vjqGCAfciEfG3mJCmDYZWhNCtxjQnV5lYttMJdVTvNjFi4WEcjXbG5jk6M2l5mY1jL45aDSEgpBOyctR3AgEuwWxPtF/QECbLwpRZwPmNwx7/mcV/ZLiRTOamrvHPKjbXf8Xf8T67TLY4QHO+O2vUbrhUJnz62nvo2F5Tv++MqAoHkoH1aNWwdQ==;CpfcmygTSoAEVZh0Rz9D0Q=="
 ---

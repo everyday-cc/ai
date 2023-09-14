@@ -28,16 +28,16 @@ related:
   - title: "Robots sat in stands at Chargers-Dolphins game to promote upcoming film"
     excerpt: "The robots were placed in the stadium among fans to help promote a new sci-fi film from 20th Century Studios called “The Creator,” according to KTLA. The film will be heading to theaters on Sept. 29. “The Creator” is about a war between humans and an AI force that according to USA Today, is threatening to end humanity."
     publishedDateTime: 2023-09-13T18:18:00Z
-    webUrl: "https://www.whio.com/news/trending/robots-sat-stands-chargers-dolphins-game-promote-upcoming-film/PNU5USRW5VATRJIOGHYIO3JZNE/"
-    ampWebUrl: "https://www.whio.com/news/trending/robots-sat-stands-chargers-dolphins-game-promote-upcoming-film/PNU5USRW5VATRJIOGHYIO3JZNE/?outputType=amp"
-    cdnAmpWebUrl: "https://www-whio-com.cdn.ampproject.org/c/s/www.whio.com/news/trending/robots-sat-stands-chargers-dolphins-game-promote-upcoming-film/PNU5USRW5VATRJIOGHYIO3JZNE/?outputType=amp"
+    webUrl: "https://www.wftv.com/news/trending/robots-sat-stands-chargers-dolphins-game-promote-upcoming-film/PNU5USRW5VATRJIOGHYIO3JZNE/"
+    ampWebUrl: "https://www.wftv.com/news/trending/robots-sat-stands-chargers-dolphins-game-promote-upcoming-film/PNU5USRW5VATRJIOGHYIO3JZNE/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wftv-com.cdn.ampproject.org/c/s/www.wftv.com/news/trending/robots-sat-stands-chargers-dolphins-game-promote-upcoming-film/PNU5USRW5VATRJIOGHYIO3JZNE/?outputType=amp"
     type: article
     provider:
-      name: WHIO
-      domain: whio.com
+      name: WFTV
+      domain: wftv.com
     quality: 59
     images:
-      - url: "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/5tQ6HG-wGA8Bxjt6Nq1RHzmoQuM=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/727FVPCSCFBVLCOKRAI3UECCGE.jpg"
+      - url: "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/5tQ6HG-wGA8Bxjt6Nq1RHzmoQuM=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/727FVPCSCFBVLCOKRAI3UECCGE.jpg"
         width: 1440
         height: 810
         isCached: true
