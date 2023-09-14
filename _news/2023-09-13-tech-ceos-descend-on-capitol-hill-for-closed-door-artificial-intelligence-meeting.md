@@ -9,7 +9,7 @@ ampWebUrl: "https://www.huffpost.com/entry/tech-ceos-descend-on-senate-for-close
 cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/tech-ceos-descend-on-senate-for-closed-door-ai-meeting_n_6501dad6e4b04bad69ec286e/amp"
 type: article
 quality: 82
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tech CEOs tell Congress that it's time to regulate artificial intelligence"
+    excerpt: "The closed-door meeting was attended by 22 guests, including Microsoft CEO Satya Nadella, Microsoft co-founder Bill Gates, Meta CEO Mark Zuckerberg and Alphabet CEO Sundar Pichai as well as 60 senators."
+    publishedDateTime: 2023-09-14T18:48:00Z
+    webUrl: "https://www.bizjournals.com/seattle/news/2023/09/14/artiificial-intelligence-ceos-congress.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "WdKK5chpZPtf8u2TRORRimUE0UZwlnuO+sxSDa3FNNcFD+xMRpjl3y7HE24nYTtzXIL7RsNprVvsaElTczgvbMlBH1p3unv3mVgU2pkSLcm/KJORetnFYVLStyAEiTuc1q5uWvMwLcbYPZMMa4uiNIbYxQChMfv3y+i4FnmWTCx3DykdFDdAKzSLnSwhrc3vCtabPaEKfgDamAN5FdoOpNSFESvc9W7sgorvL2+lDcut+Soti5jwov5tDyDoMpNALmLJYvFyix1pw07aqWzGb6b2J2eh7AUTmCP8xn1S2WEPhAGl0LH16xAcF3lB3slCueVXZV4aBVXPt8w0ls8sZkwRT4K1J9nIvbCjgrOTINHpwLwycIwTceV9OhGhIobDh4WKZCLq9Ne3bdMDHoXMaoHiykmGuBghRhQjXMSb/bjsjrVMC02UkXrMGaaxp/O9tDpD9DnKs4toIJuo0VI0ibuJJWrR5Z36lh01GraKvUsha+Z1wFtjqn4P3pB3eOenBb42ELXiv3txCXJRVOkP2w==;eyPgHsLNOQGqvAZ/z9ReoQ=="
 ---

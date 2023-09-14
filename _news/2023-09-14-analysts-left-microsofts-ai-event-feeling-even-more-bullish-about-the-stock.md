@@ -59,6 +59,22 @@ related:
         width: 611
         height: 459
         isCached: true
+  - title: "Microsoft, Oracle deliver direct access to Oracle database services on Azure"
+    excerpt: "The hyperscalers are joining forces to help customers fully migrate to the cloud — and place their data closer to Microsoft services to facilitate cloud-native development and AI experimentation."
+    publishedDateTime: 2023-09-14T21:52:00Z
+    webUrl: "https://www.cio.com/article/652442/microsoft-oracle-deliver-direct-access-to-oracle-database-services-on-azure.html"
+    ampWebUrl: "https://www.cio.com/article/652442/microsoft-oracle-deliver-direct-access-to-oracle-database-services-on-azure.html/amp/"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/652442/microsoft-oracle-deliver-direct-access-to-oracle-database-services-on-azure.html/amp/"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 71
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2023/09/shutterstock_editorial_2110981163.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Microsoft says it will protect customers from AI copyright lawsuits"
     excerpt: "In 2017, Microsoft, by then a seller of open-source software itself, offered to protect customers of its Azure cloud products from legal claims. The company in June announced a program to help customers ensure the AI programs they run on Microsoft ..."
     publishedDateTime: 2023-09-11T03:04:00Z
@@ -115,6 +131,6 @@ related:
       domain: spacenews.com
     quality: 19
 
-secured: "dMXkeKuTQBwjD8Qaul5vGcNU+1FJohzSr7DZpnjprmLwm6cdYQrEDuCrykPwxD6EVUYlIjdCQPq1943whAwtW2zdI98xWgVW/B3maEtdzhll4mbjoMs/MPDBTDAZxOneY4vbEnD2LHltKm6RCALVn84ILLmONBRvIGpu5XQsSsgR5J8XV9kAKXP+phdFoHa+zU8jXDHoKU2EiySD1Ht8kSBmlcI60pCjANIQ7buhQC9HzX+yRTLzHWyMiUGlFFPACcC8j2LyTVDlIAZQs+Yto+4dKE6drO3hSwRYf1Jv0iiMhGZzhQvAgOndiOjfPYoQ9w2yOMgDjLYBZMLMeMWkB45oTvXNSJi56tOgR0+eyL0=;zaAjiWymNFV9fQbaAy72wA=="
+secured: "fmYlLZL/xYiXXZBwdKUBr/lGF+nyLjC4Nva1+606OsFAExNFBp+oNOcj0skuZ3qjO6oM3A6CDz8lREDxCs21fX7x6cNF/BqzSKfanF+CookHwR2nb4OO4TuLsdTZV/edqyl5qCxxNkeiAE2z2+TPt0GRZ7maxT9sXmXrHpLYkcsRuMq04mvZmyF3H7xZHEz8zbssElaIe6x+V0EghLB3FI45JxTf0b4YEylmQT6RjW9tCtVaycdQVvhPcONPmibroI0/vpQ6T57qUGGXmlZmytBt8bifj+bBvObvDm5cOfgLC1LJt/I7vYuiYWHI+VeoDruB7hLgUo8al7+axGvZ1OEQ0KZ8JfeGq2nLIBac4wZSjVc/9hiZh2LypHMS7EgJghfDsTJmA6ix/aNql8yT899zATVq2Db5eO7N4FQDe2bAnvQI1by7p/0HC0UFATj5XKMPCixkTqgTTa38Dnrc7xZsVp/lTNHe9uzlqccgomD8Ynxzs9sFe+AlG5GRiPBjKQSCN3ezpb7JZOmFmcI9dg==;HxQ2bovPvl+pCYVTHob35g=="
 ---
 

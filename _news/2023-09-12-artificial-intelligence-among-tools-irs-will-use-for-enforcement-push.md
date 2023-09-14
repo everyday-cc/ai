@@ -40,7 +40,7 @@ related:
     provider:
       name: PC Magazine
       domain: pcmag.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://i.pcmag.com/imagery/articles/03dy9aKYyJ9IxDEs7NsiNY7-1.fit_lim.size_1200x630.v1694438424.jpg"
         width: 1120
@@ -60,6 +60,15 @@ related:
         width: 790
         height: 496
         isCached: true
+  - title: "The IRS Says It's Using AI to Bust Zillionaire Tax Cheats"
+    excerpt: "it'll start using \"cutting-edge machine learning technology\" to stop the US' wealthiest individuals and corporations from cheating on their taxes. According to the IRS, it'll use AI to find inconsistencies across a number of tax sectors — including ..."
+    publishedDateTime: 2023-09-14T18:52:00Z
+    webUrl: "https://futurism.com/the-byte/irs-ai-tax-cheats"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 17
 
 secured: "cUBlAiFVGgS3XEFxD6+OIrUZfki82eAToZgKg5/JuzmTUMDpPmzmkpFlxP7J6BCKWmAiyWnOEkSD8xy93OyF4EUeL1LvAHlLeihkqw3P2yYoT9qI+2wpikL/1fV0Mejzs5eqGY0yUNnPsmt3LTAG9fQzEk4YtTiqOwcHRMzNMJFUue6aGC18mBp/bwfffgTWwCYsllsYnOAJmr/vv/uZJnGz4dZh9r8nQ4Xjlq3tpjBqafveZJ2/2IafjDsqfDn89se5yiyNDdqt5ngOb7UtqQQhJKQoWKZ9PaxX+JljZEyR8ZpSG8fz9Vf3ZqU3JN2OfHjnxd6HsnfevRNXBGlQItfFrrV1t3p5C8mXzuhLuix896iP0GpOoWhe5gd7HGegzWemTbGbvUoWFVhvRMHA1+tT3jgNNJV/K9wnuCkMsN8nGuh452cJqoPV8hUD/JO+CFtc7fAsaHsH7pGSla8HT9bBrt2H7DbtOXdSGU9fJ8YoNmdIqo5zAtgWryBWB2Nn9pXaTJQfdf21DAnRWExXeA==;A6C+ctGCbmjHDsHnZppFJQ=="
 ---

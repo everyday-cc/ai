@@ -39,6 +39,15 @@ related:
         width: 928
         height: 582
         isCached: true
+  - title: "Don't Count on Tesla's Dojo Supercomputer to Jump-Start an AI Revolution"
+    excerpt: "Wall Street analysts predicted Tesla’s Dojo supercomputer could unlock a $500 billion ChatGPT-style breakthrough. Don't take it to the bank."
+    publishedDateTime: 2023-09-14T16:00:00Z
+    webUrl: "https://www.wired.com/story/fast-forward-tesla-dojo-supercomputer-elon-musk-ai-revolution/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 63
 
 secured: "K6ZH57HbEykBKnnlwhADRMA0TBg2BrgcZTj0H/wt+PVkry1LbZCLjClcOOMRjvUTK1s/P/4xIgforUmwWsrkpKvk3XalehDFxmj5nXZ5p9Rc9+fJd2YkAuAHXxwPTlYTHQN6JM+feDgKiXFQDlSF1KRDojRWWSeAqCQFUN7bcBBCp95YkDbngC3Tf7U+DvFPCDiYsZkrdjlzTvZONUkm55+7wU3IbaZwY+LMTKXh3RY4aDKLCFpH+28IyDkkmzecT9LwXeNV7n+X0+tN8DnzlDI6+lohKHVDrueKQJRjljDlmMfJkrFk2NiDyyEbNHY0/wLoI7qYBK+PYI9cgCzwHu032pEJQiEPrjmAG+v/CBUaW7+Fc+Jua8GQS3sRN47xOA1YP9jjeb6nGrFpXNLM99s9tX+KOwTfpVQqREZd90aZVu7kgCiMIpAuF/6qbAkK6xFy5rQna0Pwn/NFpyRSITpGmvmF6rOqn/8eBfhyNRVA9KoV7cNwmkhpaU9seeoOklt2Yzi4IN9b09eFKZ7kHQ==;VLdyxbYMxrDTLpIEoZNWlg=="
 ---

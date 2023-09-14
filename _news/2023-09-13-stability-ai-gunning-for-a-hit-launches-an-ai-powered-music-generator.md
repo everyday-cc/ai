@@ -147,22 +147,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Tech titans are giving senators advice on artificial intelligence in a closed-door forum"
-    excerpt: "Senate Majority Leader Chuck Schumer convened a meeting of some of the country’s most prominent technology executives to ask them how Congress should do it."
-    publishedDateTime: 2023-09-13T22:19:00Z
-    webUrl: "https://www.hawaiinewsnow.com/2023/09/13/tech-titans-are-giving-senators-advice-artificial-intelligence-closed-door-forum/"
-    ampWebUrl: "https://www.hawaiinewsnow.com/2023/09/13/tech-titans-are-giving-senators-advice-artificial-intelligence-closed-door-forum/?outputType=amp"
-    cdnAmpWebUrl: "https://www-hawaiinewsnow-com.cdn.ampproject.org/c/s/www.hawaiinewsnow.com/2023/09/13/tech-titans-are-giving-senators-advice-artificial-intelligence-closed-door-forum/?outputType=amp"
-    type: article
-    provider:
-      name: Hawaii News Now
-      domain: hawaiinewsnow.com
-    quality: 50
-    images:
-      - url: "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/eKpFld_qYRBoO53LMYlR5HqEFIc=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/KFPQKURCMVF5HE3LDVSKFMVH2I.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Pilot Trading Launches Innovative AI Signals Only Mode for Traders"
     excerpt: "- Brokerage Compatibility: The Pilot Trading app in Signals Only Mode, stands independently, allowing you to continue using your preferred brokerage, ensuring a hassle-free and flexible trading experience."
     publishedDateTime: 2023-09-12T11:54:00Z
@@ -250,6 +234,20 @@ related:
       - url: "https://wpwww-prod.s3.us-west-2.amazonaws.com/uploads/sites/164/2023/09/report-3183779_640.jpg"
         width: 640
         height: 488
+        isCached: true
+  - title: "Tech titans are giving senators advice on artificial intelligence in a closed-door forum"
+    excerpt: "\"It's going to be a fascinating group because they have different points of view,\" Schumer said in an interview with The Associated Press before the event. \"Hopefully we can weave it into a little bit of some broad consensus."
+    publishedDateTime: 2023-09-13T20:15:00Z
+    webUrl: "https://sentinelcolorado.com/uncategorized/tech-titans-are-giving-senators-advice-on-artificial-intelligence-in-a-closed-door-forum/"
+    type: article
+    provider:
+      name: Sentinel Colorado
+      domain: sentinelcolorado.com
+    quality: 30
+    images:
+      - url: "https://sentinelcolorado.com/wp-content/uploads/2023/09/AP23256017020655-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
   - title: "Deduce Raises $9M to Address AI-Generated Identity Fraud"
     excerpt: "Deduce announced $9M in funding led by Freestyle Capital, with additional investment by Foundry and True Ventures."

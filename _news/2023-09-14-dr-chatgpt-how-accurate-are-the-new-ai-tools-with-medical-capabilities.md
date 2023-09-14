@@ -41,6 +41,22 @@ related:
         width: 1011
         height: 497
         isCached: true
+  - title: "Extending ChatGPT: Can AI chatbot plugins really change the game?"
+    excerpt: "I take a deep dive into how powerful ChatGPT and other AI chatbot plugins really are. Can they actually make a difference in your work life and are they even worth it? Read on."
+    publishedDateTime: 2023-09-14T21:03:00Z
+    webUrl: "https://www.zdnet.com/article/extending-chatgpt-do-ai-chatbot-plugins-really-change-the-game/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/extending-chatgpt-do-ai-chatbot-plugins-really-change-the-game/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/extending-chatgpt-do-ai-chatbot-plugins-really-change-the-game/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/51fda1c51f88c886678acd9b26995e9a0f04e8d6/2023/08/01/642fa39b-9b6e-44e3-a5c9-39935cca0eaf/chatgpt-app.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water"
     excerpt: "Tech developers have acknowledged that growing demand for their AI tools carries hefty costs, from expensive semiconductors to an increase in water consumption."
     publishedDateTime: 2023-09-11T12:58:00Z
@@ -72,6 +88,20 @@ related:
       - url: "https://i.insider.com/64c7a0d5048ff200190de9d2?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "10 Best AI Chatbots 2023"
+    excerpt: "Generative AI chatbots are a major step forward in conversational AI. These chatbots are powered by large language models (LLMs) that can generate human-quality text, translate languages, write creative content, and provide informative answers to your ..."
+    publishedDateTime: 2023-09-14T21:55:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/best-ai-chatbots/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 69
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2023/09/ew_09142023-best-ai-chatbot.png"
+        width: 1400
+        height: 900
         isCached: true
   - title: "As Senate tackles AI regulation, everyone has an opinion (except ChatGPT) | The AI Beat"
     excerpt: "The chatbot continued: “I’m not aware of specific AI regulation forums taking place this week or ... He also says the United States should use its dominance in advanced chips to enforce global standards, and has called for the creation of a governance ..."

@@ -56,6 +56,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Tech CEOs tell Congress that it's time to regulate artificial intelligence"
+    excerpt: "The closed-door meeting was attended by 22 guests, including Microsoft CEO Satya Nadella, Microsoft co-founder Bill Gates, Meta CEO Mark Zuckerberg and Alphabet CEO Sundar Pichai as well as 60 senators."
+    publishedDateTime: 2023-09-14T18:48:00Z
+    webUrl: "https://www.bizjournals.com/seattle/news/2023/09/14/artiificial-intelligence-ceos-congress.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "rjCKmuo24Xi0ZRITAn8VkBxgq1rZCZtwjini4jn0cUBDVpo5C7BeQtcvcOB7/skUEqvKJmh5ErRyeThRVuguyiVafqV39TvOSaGAO2zrBLk2x2QEVUiY69OhxU4VdiqoCGaGOFHvVLffF9WdmPcXNqnmbAFi1+BY6DA7oJNQ1IquR7fZ97usA8rCWQ5rZtdZz4LUvBzyc74ivfLEo8OMf/IYrPOehhe5KcypGnTXmlxcRTvoXJxgHdTwVhel7dbBwYMJ90T1M8L21NJNU2WBdJqB7KY2L9SnocHI+QW4Zy7wRu9TEHvU/vir+54lE/NrJ8QR72hd+ROYeFHWG5fUwWDr+aR9h+Myrp2G42ky1qpjd2X+Gr2NtDHL5E1C679D/3YGMP3wP/71A09Lridjry75tWSN5pS0PP0ns/EW6dHjg0vmYGogq1tNGFW2PaTcHZRCF0imFpPPyPXF2oW5wniPrsR2NoCBgt3wc8lepSBvyiRm42JCPagTeohKPvatPwIdSqFq54e5HHPd3npqWw==;rll5Zf9eDW0nJ8+N1N6Oyw=="
 ---

@@ -23,6 +23,17 @@ images:
     height: 804
     isCached: true
 
+related:
+  - title: "Senate AI Caucus co-chairs on bipartisan efforts to regulate artificial intelligence"
+    excerpt: "Sens. Martin Heinrich (D-N.M.) and Mike Rounds (R-S.D.) join Washington Post Live on Tuesday, Sept. 12. (Video: The Washington Post) “I would suspect that Congress wants to make darn sure that ..."
+    publishedDateTime: 2023-09-12T12:00:00Z
+    webUrl: "https://www.washingtonpost.com/washington-post-live/2023/09/12/senate-ai-caucus-co-chairs-bipartisan-efforts-regulate-artificial-intelligence/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 27
+
 secured: "ayK8a7Va7gfZtQuZxFB62k0bCtphVJd1ZCMBYy9pCJZ4oPKOCMXGG48upHXfHHN+5ifyN2a+/sWKDPTE4Xe+OLTyXUToKFTIlxp31mRVhPT45c6ikZV87DvFWxVV2S0mN+vVA+QNk/p0HwRzlPIPMFRx0QLJe+kIcEVJGwcQMLWKGkkEY1xdDMemUJx/qc7kHCp39OsTt8mZo6tjKn5nL3oWR3+Kp1EpKWK2UUE4SCMPNPlDqEhyHJLos+DqCmu6W++pKEZV5RCRnlg1YEGYmOvt3s60bKqR1GcOqm3jM/4S10AJHOVV0ae5sbRbTCNeCjTHsAqS8C7A0p6+Be5PE8XRNZ0bgGXmPpxP5pHlgVU=;21+mpuO21DszgwkesO0+ww=="
 ---
 

@@ -1,21 +1,25 @@
 ---
 category: news
-title: "Ecology and artificial intelligence: stronger together"
-excerpt: "Many of today’s artificial intelligence systems loosely mimic the human brain. In a new paper, researchers suggest that another branch of biology — ecology — could inspire a whole new generation of AI to be more powerful,"
+title: "Ecology and artificial intelligence: Stronger together"
+excerpt: "Many of today's artificial intelligence systems loosely mimic the human brain. In a new paper, researchers suggest that another branch of biology -- ecology -- could inspire a whole new generation ..."
 publishedDateTime: 2023-09-11T00:00:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/1000768"
-webUrl: "https://www.eurekalert.org/news-releases/1000768"
+originalUrl: "https://www.sciencedaily.com/releases/2023/09/230911191010.htm"
+webUrl: "https://www.sciencedaily.com/releases/2023/09/230911191010.htm"
 type: article
-quality: 19
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
+  - AI in Autos
   - AI
 
 related:
@@ -54,6 +58,6 @@ related:
       domain: phys.org
     quality: 19
 
-secured: "XKVViQmglZUZOoxTRC7wFpAR8BeJnfCzaXcqNtWqGIi63Y+Je1MaQm0HJVRMvW3BG3fajrNHQGid65wYOqEtwjsHzzeGp4nsSLhgpEroTxhaDOn6LkKT5js3dqzfBcqyCNJ7lSnskjyauTN9qvsS7zh/50x/FwCrR8HSeVu1ibHeT8hEH6vMJzXjarp0J/vc35u1knkd9mrxgooCwG/2SIyT9abVAWEy8+WsxJpH9U1pJp16g48jHDMU949UuxX2WQ/zd6+Zyk8jtB1FFJVwqjgNU1zEwDV2sVjoXTcbOFs1AC4ZiVdbnH3pO68lKzJ8qGH+YuJGi5TPXs/20xs+0igRX5kBey1w9yehk+hIVEmKMAEx2xp6yz+olynLM2RIXXHXWyglRfruTXY3q9tGu965lMvJ/7FsSGvgOSZjA/WvbbmeDrcZE1PWiNLIqOmRTxiIjviJrTofqWD8362rXomn5auH3M23XQTAncsyamHbkx7t0c1mLCsnnzMEgFGMnTxN4VtXEAYKqOFMmJMJAQ==;tiwmK76SWH6yPonV+G7QdA=="
+secured: "i3g3ggDC11z9gtYVvK96H2y45iDdsBOsY89bm45w1UEwl0xkYg/SUkb86bCZB0EtttJEtTRERka5yby/Koea/OIsNwDjeIn9bvzHKgbl1Yw4A4xH40petIn7IJltHGJzcxdW0d7dWPYZO3kW+Vn7SK8LkAdmPxkOwJIqtQEUQLCMjOdEUHh6hExH9+5WnQA6XFVeUP63Er29ptv4V/ftmbnS42RrcPmUqbdex0mwwkpxpkhdsYKGt38J/JjDr3iXs+6/gNWGu3+zLGv28/eqoy5sY0f29t2GNsv+hU0YngH12mSxhMtsL+4FHI9HdQRWVitu77Wu1H/S0Krd4uSLnDOR5EAjJJwKAVnDTcW9pzM=;MYyJ3bH1qhmGewzpz/8tbA=="
 ---
 

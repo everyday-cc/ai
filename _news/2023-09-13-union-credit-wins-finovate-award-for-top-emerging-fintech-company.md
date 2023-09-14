@@ -27,22 +27,49 @@ images:
     isCached: true
 
 related:
-  - title: "SRO will give industry recognition, common voice: Fintech players"
-    excerpt: "“Secondly, it provides us with a common voice, enabling us to communicate and collaborate effectively with regulators and fellow industry members,” he said, adding that SROs will play a crucial role in the development of the fintech ecosystem by helping weed out “rogue actors” who may tarnish the industry ‘s reputation."
-    publishedDateTime: 2023-09-11T22:45:00Z
-    webUrl: "https://www.financialexpress.com/business/banking-finance-sro-will-give-industry-recognition-common-voice-fintech-players-3240097/"
-    ampWebUrl: "https://www.financialexpress.com/business/banking-finance-sro-will-give-industry-recognition-common-voice-fintech-players-3240097/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/banking-finance-sro-will-give-industry-recognition-common-voice-fintech-players-3240097/lite/"
+  - title: "Ant Group’s AI efforts build on its fintech heritage"
+    excerpt: "China’s Ant Group has unveiled its large language model (LLM) for the financial services sectorIt’s a market well known to Ant Group, which has more than 1"
+    publishedDateTime: 2023-09-14T15:01:00Z
+    webUrl: "https://www.telecomtv.com/content/digital-platforms-services/ant-group-s-ai-efforts-build-on-its-fintech-heritage-48484/"
+    ampWebUrl: "https://www.telecomtv.com/content/digital-platforms-services/ant-group-s-ai-efforts-build-on-its-fintech-heritage-48484/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/digital-platforms-services/ant-group-s-ai-efforts-build-on-its-fintech-heritage-48484/amp/"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 44
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 59
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/fin.jpg"
+      - url: "https://assets.telecomtv.com/assets/telecomtv/ant-group-17003.jpeg?w=1200"
         width: 1200
         height: 675
         isCached: true
+  - title: "Fintech, Health Care, AI & More: Total Wealth Symposium 2024"
+    excerpt: "Director of VIP services John Wilkinson joins The Banyan Edge Podcast to break down what to expect for Banyan Hill's Total Wealth Symposium 2024."
+    publishedDateTime: 2023-09-11T18:04:00Z
+    webUrl: "https://banyanhill.com/fintech-health-care-ai-more-total-wealth-symposium-2024/"
+    type: article
+    provider:
+      name: Banyan Hill Publishing
+      domain: banyanhill.com
+    quality: 19
+  - title: "Samunnati joins FinTech finbots.ai to facilitate AI-based credit risk management"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-09-13T11:51:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/samunnati-joins-fintech-finbots-ai-to-facilitate-ai-based-credit-risk-management/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 14
+  - title: "How the customer experience has been transformed by fintech"
+    excerpt: "AI and advanced predictive analytics are by far and away the ... it’s only a matter of time before it’s geared up to deal with more complex queries. Here are some of how fintech is improving customer lives. Finance management tools During these ..."
+    publishedDateTime: 2023-09-12T16:32:00Z
+    webUrl: "https://www.finextra.com/blogposting/24877/how-the-customer-experience-has-been-transformed-by-fintech"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "Slf9PiccFL32Izjv34nV3guF9352OPydBfOODl5yR+TQJhXypJIidQ5dL60lDfoPT0kbxaxA1Gfkb0dB4e5ko/l1SyFriHqpSH1PUvDTq6VVlO37wASgia8CXz/XcdjcByUWphq3ErgeXH3ZRIktwNiJriDPvkttbQnELiS/Klh3/1qTWg+y25Zc/+IHOdO60c+63b7U+0eLtEg3z72NjnwaSs3I7btahRJyYeGq6PPmItBMC9fQ3mXKXeHs/QTiMoZkx5iB9mbCnmdOdkN/QflRDgKCkx0gvFw/kghl5gHuV9fR6X258Rh7mxXPl0Z6HEVED3oOWd1sK4F3ORxWA25OkKZZi/QkEYIjkDwxOzA=;qOqm4B0wt3qiNFyUPOh3VQ=="
 ---

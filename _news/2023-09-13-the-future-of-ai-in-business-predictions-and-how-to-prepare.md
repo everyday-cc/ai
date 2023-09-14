@@ -60,6 +60,20 @@ related:
         width: 891
         height: 525
         isCached: true
+  - title: "COUNTER AI: Schools here and across the nation seeking smart AI policies"
+    excerpt: "Schools in Aurora and across the country wade through a jungle of thorny issues surrounding artificial intelligence writing applications"
+    publishedDateTime: 2023-09-14T20:09:00Z
+    webUrl: "https://sentinelcolorado.com/metro/counter-ai-schools-here-and-across-the-nation-seeking-smart-ai-policies/"
+    type: article
+    provider:
+      name: Sentinel Colorado
+      domain: sentinelcolorado.com
+    quality: 38
+    images:
+      - url: "https://sentinelcolorado.com/wp-content/uploads/2023/09/AI.coverart.jpg"
+        width: 648
+        height: 431
+        isCached: true
   - title: "The Future of BaaS: Exploring the Top Predictions for 2022 and Beyond"
     excerpt: "Welcome to the future of BaaS, where innovation and technology collide to reshape the way businesses operate. As we step into 2022 and beyond, it’s time to unravel the top predictions that will revolutionize this ever-evolving landscape."
     publishedDateTime: 2023-09-14T15:33:00Z

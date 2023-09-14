@@ -7,7 +7,7 @@ originalUrl: "https://semiengineering.com/patterns-and-issues-in-ai-chip-design/
 webUrl: "https://semiengineering.com/patterns-and-issues-in-ai-chip-design/"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Shares of AI chip designer Arm jump 16% after largest IPO in nearly two years"
+    excerpt: "UK-based chip designer Arm made its Nasdaq debut on Thursday ... After a nearly two-year drought in the IPO market, AI kingmaker Arm started trading in New York on Thursday afternoon with 95.5 million shares under the ticker ‘ARM’ (ARM)."
+    publishedDateTime: 2023-09-14T19:56:00Z
+    webUrl: "https://www.cbs58.com/news/shares-of-ai-chip-designer-arm-jump-16-after-largest-ipo-in-nearly-two-years"
+    type: article
+    provider:
+      name: CBS 58 News
+      domain: cbs58.com
+    quality: 31
   - title: "AI Deepfakes in Campaigns Are Detectable, But Does It Matter?"
     excerpt: "Deepfake audio, authentic-sounding but false recordings built from short snippets of a subject talking, have become so realistic that they present painfully obvious potential for underhanded political tactics."
     publishedDateTime: 2023-09-11T17:42:00Z

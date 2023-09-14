@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Robust detection of gallbladder cancer using deep-learning-assisted US imaging"
+    excerpt: "Researchers from India developed and validated a deep-learning (DL) model to automate the detection of gallbladder cancer."
+    publishedDateTime: 2023-09-13T08:25:00Z
+    webUrl: "https://www.news-medical.net/news/20230913/Robust-detection-of-gallbladder-cancer-using-deep-learning-assisted-US-imaging.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 20
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_758815_16945933026073125.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Deep-learning enabled ultrasound based detection of gallbladder cancer in northern India: a prospective diagnostic study"
     excerpt: "The DL-based approach demonstrated diagnostic performance comparable to experienced radiologists in detecting GBC using US. However, multicentre studies are warranted to explore the potential of DL-based diagnosis of GBC fully."
     publishedDateTime: 2023-09-11T05:54:00Z

@@ -71,7 +71,21 @@ related:
         width: 891
         height: 525
         isCached: true
+  - title: "COUNTER AI: Schools here and across the nation seeking smart AI policies"
+    excerpt: "Schools in Aurora and across the country wade through a jungle of thorny issues surrounding artificial intelligence writing applications"
+    publishedDateTime: 2023-09-14T20:09:00Z
+    webUrl: "https://sentinelcolorado.com/metro/counter-ai-schools-here-and-across-the-nation-seeking-smart-ai-policies/"
+    type: article
+    provider:
+      name: Sentinel Colorado
+      domain: sentinelcolorado.com
+    quality: 38
+    images:
+      - url: "https://sentinelcolorado.com/wp-content/uploads/2023/09/AI.coverart.jpg"
+        width: 648
+        height: 431
+        isCached: true
 
-secured: "LCl3IU2xdwCPVvJzs8+0M7N3+DliVuyXgq2DI1KNxPo8T538aqIdkgLFbW8wJnL7tuZtk4JNTBeostFhPzqLmPDAVmY8czwhku9yrdvBALB5TjO/SzVLJVznNoKVD5PFjkgg4vVCwSbOtwv5Ighl48b7tL7W9Be6ElHUdyUnQYbFO5b6ftItQOaX4GyKrQNUldj6NaWSud3hXTmBydvR9fpmVRhnvLo/OI5N8fpBmlHENDLpnEwx8BkEGyWErKQqHE7lF3WOFZSgggISbt04JvSC9jqziLhYzP3dv9AEfEesp/Rxb2oRKHlYxeftFbeIIjMlthU4twTDqi2rw84EFUWmudzyl52uGlE+mcPvnDY=;Es+P1MsV2oojGYEyr4ztlg=="
+secured: "gF7XESTLrehdgRuL58jE4vGennHI+OIz1SmiELv47nrCFUabGa2W38iQ30s0pvf8kyRGPlSb//jSK/TDqA9WLbIsN9E6lJYsDbx9QCm+5uGM+OPeTvLY98akOaP1sB8tiGQS5RkZJls+3qMddc2qcK78xd9/Y6nGge7QRAsbm7LdAMkZsbChIT7yRIrtGWmHdqyjEj13EQxT+e3zsDGRITgLiMdN1h1iaIgHp3THV6LUXw6p9CKk6H+a/7O/tUfZIxa6tYeZWxxmFMaQBCYgKrp8GPm9qUu55rJsA9DQXSeNeul3F2JGaW5QQ0ihiOPUs6gcyQnlUI02otDGfBT9pga0oyL5z5ZxZuAiie1wmsyxlz76wztZm471VHPZ0nKS2QvdECUbbuENMsLIlLA9i8aTG6uTKAQ1Mv2GYoCF8gubvQMN/XLwSyuhwfxYZs3a3dQnQKO1DTVGoW3hhuVohBvCeT64UCdF76v2NCaWApr/2gEcBg5MyKdJ201yUvOKoEdLG2dVJKtqHhdBu/shkw==;f9TedD+7vcHSLz0IBvuzOg=="
 ---
 

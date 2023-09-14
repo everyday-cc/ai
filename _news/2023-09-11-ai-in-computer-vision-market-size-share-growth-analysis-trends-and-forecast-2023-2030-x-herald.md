@@ -56,6 +56,15 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Object Recognition Imaging Systems Market Size Report 2023-2030 | 115 Pages Report"
+    excerpt: "The Global Object Recognition Imaging Systems market is anticipated to rise at a considerable rate during the forecast period, between 2023 and 2030. In 2022, the market is growing at a steady ..."
+    publishedDateTime: 2023-09-10T07:52:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/34404368/object-recognition-imaging-systems-market-size-report-2023-2030-115-pages-report"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 13
 
 secured: "Cavt5JiOz9jdsF+5zfXwul6P0AmUgMFdmTd6JT2Z6eYLFLJiJ3RmpMc6lP5aqNc810gtkv6zdaUKYSc/0c62DNQHFkifZyDTMDPoOHqV0rnBzgytqQuQWrnbw9XCQBYdYyvfcZDM1op0/yLMqKh+CjT2h2az+EoSXMIbCiRS/erAmWVsn7agR8sLbJ1S7IOeHnhRfkik1lRPQiwd8fijHRbIVqy3/L81gMXILhXe46Ue9ZgUA6yAh677zKSgx7r6GKn6RKhIRgMX01AbrxWqgdn7rhSYXSaTtMEMg/F/zr4396N73TPrmWqXJ23RqeHb7rdREWIxEA0m70mEC3JipDT3m8ZU7jsxLD02gfjH5yUW4Ahs9MQGlm8Gpqe+tInMAGSht3RvrU2RmjqirApP8OXXoBqQGjRkpQxg/uyC2Ips9spU/l5+gpla5FsuTJFzxm4v7LmRM/R8mDCkDTVHN/xz8zmoqVNJCHYv55+CrN50L+8umf7los+n2puCD0hYDpg3UaNr8+s1GE44fuaz+w==;zSwPfsBNswzbFxBJtYA0eA=="
 ---

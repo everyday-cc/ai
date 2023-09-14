@@ -7,7 +7,7 @@ originalUrl: "https://www.ft.com/content/a5a5f2ea-e95f-4358-9f80-d10c5ed90453"
 webUrl: "https://www.ft.com/content/a5a5f2ea-e95f-4358-9f80-d10c5ed90453"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Cruise unveils self-driving vehicle that's wheelchair accessible"
+    excerpt: "Autonomous vehicle company Cruise on Thursday unveiled what it’s calling the world’s first purpose-built, wheelchair accessible, self-driving vehicle."
+    publishedDateTime: 2023-09-14T11:27:00Z
+    webUrl: "https://www.nbcbayarea.com/news/local/cruise-self-driving-vehicle-wheelchair-accessible/3318024/"
+    type: article
+    provider:
+      name: NBC Bay Area
+      domain: nbcbayarea.com
+    quality: 19
 
 secured: "Xz4TXGY8f3DLf1hx0F9IvTm1YlzGJhESb/cfi7aQkc8VtYv07TUcd/jd+slZ0VMMveu2aHQ9CQ1/rLpX6+D59nZUo1p8PhToA2LHEUOaA6CWYgGl7rN5qytAqyx+osImKOf3PmYg03uX0aVZ4IcYlJ5s3yTITB8fjtcPF7PBlGF+WogYSTKWygTvL1vxy/SZcVt10k6lzMKxl86CQcygifEULbUkh4is75kexgYQtg/XffLCObnh2PwsgyvO/EA9mtH6kWSe0mrwPFrN5S7bRvq9rJVx+8lKFe+Gy+X+wjcJzOO+P+TeRON3whsk0MITpYcPof1DvvI/DQPcEzP0DgCffx8N+znaUB7jOnu/xt0=;id06muBt805K76xp4d5VWQ=="
 ---

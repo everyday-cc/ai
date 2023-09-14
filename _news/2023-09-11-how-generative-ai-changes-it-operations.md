@@ -85,20 +85,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "The Making of a Generative AI Powerhouse"
-    excerpt: "Adobe Firefly —a family of creative models that reimagines how content is designed, as well as how users and computers interact—is the next step in the company’s AI evolution. Says Ely Greenfield, CTO, Digital Media at Adobe, “The nature of Firefly’s advancements puts it in a category all its own.”"
-    publishedDateTime: 2023-09-13T14:01:00Z
-    webUrl: "https://www.wired.com/sponsored/story/the-making-of-a-generative-ai-powerhouse/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
-    images:
-      - url: "https://media.wired.com/photos/650099e7c5b3862d31e27557/191:100/w_1280,c_limit/Adobe_WIRED_Firefly_Article_2000x1333%20(1)%5B62%5D.png"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "The US Congress Has Trust Issues. Generative AI Is Making It Worse"
     excerpt: "As senators meet with Silicon Valley's elite to learn how to deal with AI, experts are asking, can Congress tackle the rapidly emerging tech before working on itself?"
     publishedDateTime: 2023-09-13T11:00:00Z
@@ -242,6 +228,20 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 39
+  - title: "Key Contractual Considerations for Health AI and Hospital Collaborations"
+    excerpt: "If artificial intelligence (AI) is the vehicle that will revolutionize health care, data is the fuel that will propel the revolution. Health AI startups have recognized an unprecedented opportunity to"
+    publishedDateTime: 2023-09-14T21:19:00Z
+    webUrl: "https://www.natlawreview.com/article/key-contractual-considerations-health-ai-and-hospital-collaborations"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 36
+    images:
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/7612/technology%20AI%20artificial%20intelligence%20machine%20learning%20computer_0.jpg?itok=S3Jc_0oL"
+        width: 500
+        height: 338
+        isCached: true
   - title: "5 Cool Chip Solutions For Edge AI"
     excerpt: "CRN rounds up five cool edge AI solutions from AMD, Axelera AI, Intel, Nvidia and SiMa.ai for the growing number of IoT devices entering the world."
     publishedDateTime: 2023-09-11T18:33:00Z

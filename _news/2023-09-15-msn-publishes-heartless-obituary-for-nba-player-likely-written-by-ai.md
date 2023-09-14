@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mattnovak/2023/09/14/msn-publishes-hear
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/09/14/msn-publishes-heartless-obituary-for-nba-player-likely-written-by-ai/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1124
     height: 632
     isCached: true
+
+related:
+  - title: "AI-generated obituary for Brandon Hunter calls deceased NBA player ‘useless’"
+    excerpt: "An obituary headline that appears to be the product of artificial intelligence referred to former NBA player Brandon Hunter as “useless.”"
+    publishedDateTime: 2023-09-14T21:41:00Z
+    webUrl: "https://www.nydailynews.com/2023/09/14/brandon-hunter-death-obituary-useless/"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 36
+    images:
+      - url: "https://www.nydailynews.com/wp-content/uploads/2023/09/GettyImages-110332650.jpg?w=1024&#038;h=850"
+        width: 1024
+        height: 850
+        isCached: true
 
 secured: "N/U1Z3CGeuLtO1FaNU685CwhgZvZE5OAUzebsafGr04NmS7VnF9l+nhDvj7e4G5BAEPVcADRIvpghL/pUeiRTOChHHzi+sxkuTqcGCJT8cHRkTtto4rivXpPOf0Nslzq+tg3xeDEWc5Qnjlq7RVZSzYjxzCxXt+buuFnCiEk6GKyd0d5GOoaRfZuv8h0O/0BOzXLZbRSecvfNCgaZILN2YYVY58Fuee0BXnXenu4ougaDpaBQ3jLfeQ4UBZfjDzq9vVkKDU5wQFVZ/D7AIW0t1nJCv2qDZOA7fn0yav6rCCnJ2kxt8Ua1nedwwg2hnNFKpuovFuvZy1wcehQpN1ARRlFY701juMku8yp+BoRsYQ=;TDQzIr5y4qxnY8CIPVzTxw=="
 ---

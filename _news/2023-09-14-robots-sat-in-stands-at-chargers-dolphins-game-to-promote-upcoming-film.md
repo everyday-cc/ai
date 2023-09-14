@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wftv.com/news/trending/robots-sat-stands-chargers-dolphi
 cdnAmpWebUrl: "https://www-wftv-com.cdn.ampproject.org/c/s/www.wftv.com/news/trending/robots-sat-stands-chargers-dolphins-game-promote-upcoming-film/PNU5USRW5VATRJIOGHYIO3JZNE/?outputType=amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: WFTV
@@ -41,6 +41,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "AI robots went to Dolphins-Chargers game and freaked out everyone"
+    excerpt: "That’s right, among the fans sitting at SoFi Stadium on Sunday to take in the Miami Dolphins game against the Los Angeles Chargers were a bunch of AI robots ... we needed to start 2023 ..."
+    publishedDateTime: 2023-09-12T00:16:00Z
+    webUrl: "https://www.sbnation.com/nfl/2023/9/11/23868498/ai-robots-dolphins-chargers-sofi-stadium"
+    type: article
+    provider:
+      name: SB Nation
+      domain: sbnation.com
+    quality: 34
 
 secured: "HxYcv8wuP473Zg2FAI24AsqyED2BZ97X70CdcsZQBj006cPP3pvQy5oHRrCnlAxNjGAWOADRnowVuX4d7UBW+slOHvzQKR8Sbo7ENVshIUYRW0OVNxp1ESU78euHAETQ8mx7WMKcrqRaSVl8a1xuKL8T7LJ8mR+5cKVNNDnNyyoCR5s4v2mAI1cuLzZaRUSR3YocHlVp9g4hNcPxmsURMc1ph5ka/IDPH6y7vOIJQkv47vYJ/FiYh52AZxXEPoNhC/I+2HhxFOOkCqWwBvCCVfgemB1Fh4xVQNvJefpGdqSbm6aC3yzCWxSx5cDelaIzrOmthl0CYXDDlcjkzwqz67xA74E8dj8nlk5RxbFE3hUEDMU+NUvlGzONmHlwDOM69j9+EfTTuAz64G5nVcSTo4bBi5mrA7OVe9Dtnej0syQ2ioDzFC+gdBmBvNhzaLpbg9QSrEOOkiNoyiyV0c0jEIscAdzBa758pIZdPQ0do/YHnTqootkUuNMCc5j24ZoZfIlwpdQdMH1xZ9tap3UVDg==;+yEE9VMgGEfNwYXEhXMFCw=="
 ---

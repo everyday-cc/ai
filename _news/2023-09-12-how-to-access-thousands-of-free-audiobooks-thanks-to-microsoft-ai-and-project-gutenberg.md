@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/heres-how-to-access-thousan
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/heres-how-to-access-thousands-of-free-audiobooks-thanks-to-microsoft-ai-and-project-gutenberg/"
 type: article
 quality: 95
-heat: 165
+heat: 175
 published: true
 
 provider:
@@ -58,6 +58,22 @@ related:
       - url: "https://www.crn.com/resources/0285-18f85d37f0c5-7ba70e58e5f1-1000/philip-moyer-google.jpeg"
         width: 611
         height: 459
+        isCached: true
+  - title: "Microsoft, Oracle deliver direct access to Oracle database services on Azure"
+    excerpt: "The hyperscalers are joining forces to help customers fully migrate to the cloud — and place their data closer to Microsoft services to facilitate cloud-native development and AI experimentation."
+    publishedDateTime: 2023-09-14T21:52:00Z
+    webUrl: "https://www.cio.com/article/652442/microsoft-oracle-deliver-direct-access-to-oracle-database-services-on-azure.html"
+    ampWebUrl: "https://www.cio.com/article/652442/microsoft-oracle-deliver-direct-access-to-oracle-database-services-on-azure.html/amp/"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/652442/microsoft-oracle-deliver-direct-access-to-oracle-database-services-on-azure.html/amp/"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 71
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2023/09/shutterstock_editorial_2110981163.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Microsoft says it will protect customers from AI copyright lawsuits"
     excerpt: "In 2017, Microsoft, by then a seller of open-source software itself, offered to protect customers of its Azure cloud products from legal claims. The company in June announced a program to help customers ensure the AI programs they run on Microsoft ..."

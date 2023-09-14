@@ -160,6 +160,15 @@ related:
         width: 1024
         height: 640
         isCached: true
+  - title: "Guidelines on artificial intelligence"
+    excerpt: "Artificial intelligence is rapidly evolving and transforming industries, including the media. Here is Rappler's approach to AI. Recognizing the rise of artificial intelligence, Rappler is taking ..."
+    publishedDateTime: 2023-09-12T09:24:00Z
+    webUrl: "https://www.rappler.com/about/guidelines-artificial-intelligence-usage-development/"
+    type: article
+    provider:
+      name: Rappler
+      domain: rappler.com
+    quality: 19
 
 secured: "dB3Bk7cvuuFHp/TLLiMpSXkxv772mTjrBhREtG3FcQHSEpuOy70wzYe8SdID5CZHQ8g1aU5r/e3pE0K5H1j3ouFWEzZkavRSQPEbMUoU5MXfDQTSQow3xqmhdE6/1bu5Er5VLOX/Pv7RQhCrTgzy9TlWEWqe0dkWEni2jqqcqH7XSzk8on2oDOOcQpLPXiowfhS725K2GYvCbuyTeE+VSA5k1p1FYTk01KXdhNRjqCJr7IG/4YWkUxil7NwopljDPeZs8g6NR3nkEBEOdXlIl7MqAGsr1ZhzFjtAv8MxRuspZxDaAZ4RfYsVS1GYkxz5OmXVQ8CfmQr39dU++gLdl+RxZ461dJoDlcevu/3X3/dzEurheD48TrIh9gZQXZeWKHcBI4kP5uM2WOxTb/P+WLY3edXBTu8A64mdd2BAZ7H2iOHhpsUUhJS/7dYRUX60YZ9QCYYvRkRStANd00Y9C9l7jxGrRNQOb1SWh8WkZOwh9d70XCEc1R5Ik0Fr/bM7rc73hTZXBH5Cmu3K4G1HnQ==;GzcUhBP12e6Ov4CuAJWNsw=="
 ---

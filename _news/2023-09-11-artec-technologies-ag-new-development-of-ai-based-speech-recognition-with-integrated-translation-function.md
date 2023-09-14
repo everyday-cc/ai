@@ -114,6 +114,20 @@ related:
       name: SciTech Daily
       domain: scitechdaily.com
     quality: 32
+  - title: "CIO Hysen Named First DHS Chief AI Officer as New Policies Released on AI Acquisition and Facial Recognition Technology"
+    excerpt: "An AI Policy Working Group is tasked with making recommendations to Mayorkas, in coordination with the AI Task Force, and a formal Directive and Instruction on AI/ML is due within 12 months."
+    publishedDateTime: 2023-09-14T20:41:00Z
+    webUrl: "https://www.hstoday.us/featured/cio-hysen-named-first-dhs-chief-ai-officer-as-new-policies-released-on-ai-acquisition-and-facial-recognition-technology/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 30
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2023/06/Screenshot-2023-06-05-at-122928-PM-e1685982969857.png"
+        width: 2421
+        height: 1556
+        isCached: true
   - title: "How Applied AI is Transforming the Future of Transportation: A Deep Dive into Self-Driving Cars"
     excerpt: "Envision a world where commuting ceases to be a tiresome chore and instead becomes an opportunity for relaxation or productivity. In this vision, accidents are nearly eradicated, and traffic jams fade into the distant past."
     publishedDateTime: 2023-09-11T16:12:00Z
@@ -141,6 +155,20 @@ related:
       - url: "https://snworksceo.imgix.net/bdh/e5fe520b-9661-4b62-97b0-0aca8c65a60b.sized-1000x1000.jpg?w=800&dpr=2&ar=16%3A9&fit=crop&crop=faces"
         width: 1600
         height: 900
+        isCached: true
+  - title: "These 3 science fiction authors inspired Elon Musk’s creation of SpaceX, fascination with AI, and quest to colonize Mars"
+    excerpt: "We are learning more and more just how much video games, science fiction, and fantasy shaped Elon Musk's worldview—and dreams for the future."
+    publishedDateTime: 2023-09-14T21:41:00Z
+    webUrl: "https://www.aol.com/finance/3-science-fiction-authors-inspired-184050734.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 16
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/CJc3ykrQeipMrb4GQe82yg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04Mjc-/https://media.zenfs.com/en/aol_fortune_385/bf505f01a7548a4727806b335a8a3e2d"
+        width: 1200
+        height: 827
         isCached: true
   - title: "Tekion Unveils Enhanced AI Engine, Tekion AI, with Generative AI Capabilities in its Automotive Retail Cloud Platform"
     excerpt: "Tekion, transforming the automotive retail ecosystem and delivering modern customer experiences through its AI powered business applications, today an"

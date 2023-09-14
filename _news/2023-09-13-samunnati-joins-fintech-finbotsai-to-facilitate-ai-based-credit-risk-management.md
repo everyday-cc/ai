@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Fintechs can drive financial inclusion through AI, says Kora"
-    excerpt: "The Nigerian fintech industry can leverage Artificial Technology to drive financial inclusion, increase efficiency, and improve consumer"
-    publishedDateTime: 2023-09-10T01:50:00Z
-    webUrl: "https://punchng.com/fintechs-can-drive-financial-inclusion-through-ai-says-kora/"
-    ampWebUrl: "https://punchng.com/fintechs-can-drive-financial-inclusion-through-ai-says-kora/?amp"
-    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/fintechs-can-drive-financial-inclusion-through-ai-says-kora/?amp"
-    type: article
-    provider:
-      name: The Punch Newspapers
-      domain: punchng.com
-    quality: 59
-    images:
-      - url: "https://cdn.punchng.com/wp-content/uploads/2019/01/31111416/artificial-intelligence-e1548929675751.jpg"
-        width: 800
-        height: 372
-        isCached: true
   - title: "Ant Group’s AI efforts build on its fintech heritage"
     excerpt: "China’s Ant Group has unveiled its large language model (LLM) for the financial services sectorIt’s a market well known to Ant Group, which has more than 1"
     publishedDateTime: 2023-09-14T15:01:00Z
@@ -51,22 +35,40 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Bid to find fintech solutions to NE’s problems"
-    excerpt: "Guwahati: From empowering the farmers of Nagaland through organic pre-order vegetable delivery services to developing a tech-based platform to streaml."
-    publishedDateTime: 2023-09-10T03:17:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/guwahati/bid-to-find-fintech-solutions-to-nes-problems/articleshow/103545872.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/guwahati/bid-to-find-fintech-solutions-to-nes-problems/amp_articleshow/103545872.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/guwahati/bid-to-find-fintech-solutions-to-nes-problems/amp_articleshow/103545872.cms"
+  - title: "Union Credit Wins Finovate Award for Top Emerging Fintech Company"
+    excerpt: "Fintech startup recognized for marketplace of trusted lenders ... Union Credit also formed a key partnership with Zest.ai, to allow credit unions to leverage the Zest model to extend fairer and more inclusive credit access to all consumers."
+    publishedDateTime: 2023-09-12T17:32:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/b34498188/union-credit-wins-finovate-award-for-top-emerging-fintech-company"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34498188"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34498188"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 44
     images:
-      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1070
-        height: 579
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
+  - title: "Fintech, Health Care, AI & More: Total Wealth Symposium 2024"
+    excerpt: "Director of VIP services John Wilkinson joins The Banyan Edge Podcast to break down what to expect for Banyan Hill's Total Wealth Symposium 2024."
+    publishedDateTime: 2023-09-11T18:04:00Z
+    webUrl: "https://banyanhill.com/fintech-health-care-ai-more-total-wealth-symposium-2024/"
+    type: article
+    provider:
+      name: Banyan Hill Publishing
+      domain: banyanhill.com
+    quality: 19
+  - title: "How the customer experience has been transformed by fintech"
+    excerpt: "AI and advanced predictive analytics are by far and away the ... it’s only a matter of time before it’s geared up to deal with more complex queries. Here are some of how fintech is improving customer lives. Finance management tools During these ..."
+    publishedDateTime: 2023-09-12T16:32:00Z
+    webUrl: "https://www.finextra.com/blogposting/24877/how-the-customer-experience-has-been-transformed-by-fintech"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "t6ta6Pt1iOiKtlYj07p+mCPdWL5drXqhUo3C2DLGmY5dSS8WM3mTd0WqhWW84RiB43Yss8UC0sZ6dswvgdu0ej+1YbQdmEvNM9k8nGXbASlNe4Tym9PkmddnhUDfpSFvhz0jVGiRsvJXHiGJ/20IanrH/SuxR9UDzitIYkecWuaeet9UpgbXGykY4egHmil259EHKKc3zCOxm+t8Yj+4oDoKWQlu5OqCvX6rVQwt/7kH/96yh6k+M8z7LayRrtbyBMNYrRH2+HImRR8kW5T3ufMnVl2d4VXGc1Edx5GVYs243pgoP8qixk+fs+30GDh/XXw+ucq3yn4Jni3Jt6zGJLeY2vfLRR5wARiZ0453toV1jEevkW5WlY0GhLVFsVmPKlZNxcNnkN4AChdh/n8WvhuZQKtRfhmvMK7tTAOnw3OuK0SX3KXqyN1S6Gq1YSYUy7ubryNlT9ql5Grqfn9WiZ5k8+gaaAHkIJyYs/lm2Q6im/MTPoRsyBLM/GpTCXse+CBMbtn79PV+T2ed/MC4VA==;d2qgubzjjaGvHmaz4MNkhw=="
 ---

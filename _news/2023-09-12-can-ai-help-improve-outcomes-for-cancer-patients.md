@@ -34,6 +34,20 @@ related:
         width: 690
         height: 400
         isCached: true
+  - title: "Healthcare AI adoption hindered by 'switchover disruptions'"
+    excerpt: "The U.S. healthcare industry will struggle to adopt artificial intelligence due to \"switchover disruptions,\" the expensive implementation period for new technologies that can disrupt profitable operations, Harvard Business Review reported Sept. 14."
+    publishedDateTime: 2023-09-14T18:11:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-health/healthcare-ai-adoption-hindered-by-switchover-disruptions.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "OSF HealthCare Increasing Access to Innovative Patient Care with Artificial Intelligence Diagnostic System"
     excerpt: "Digital Diagnostics, a leading artificial intelligence (AI) diagnostic healthcare company's flagship product, LumineticsCore™ ( formerly IDx-DR), is increasing access to innovative care at OSF HealthCare for people living with diabetes."
     publishedDateTime: 2023-09-12T13:02:00Z

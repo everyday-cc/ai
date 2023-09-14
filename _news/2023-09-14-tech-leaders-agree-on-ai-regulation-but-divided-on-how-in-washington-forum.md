@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/sep/13/tech-leaders-wash
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/sep/13/tech-leaders-washington-ai-saferty-forum-elon-musk-zuckerberg-pichai"
 type: article
 quality: 55
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "What Washington should be doing to tackle AI risks"
+    excerpt: "An over-reliance on feedback from industry leaders and choosing to reset the clock on AI policy may benefit tech companies."
+    publishedDateTime: 2023-09-14T20:00:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2023-09-14/what-washington-should-be-doing-to-tackle-ai-risks"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "Wall Street weighs pros and cons of AI as Washington gets to work"
     excerpt: "AI industry juggernauts Google ... “There is plenty of money to be made in financial securities arena by doing things the right way, with ethics and morals, but there are always corner cutters out there. I would hope that regulation would stop this ..."
     publishedDateTime: 2023-09-12T23:23:00Z

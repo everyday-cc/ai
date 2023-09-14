@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Nvidia, Amgen back AI-driven drug firm Generate:Biomedicines' $273 mln fundraise"
-excerpt: "Biomedicines, which uses artificial intelligence (AI) to find new treatments, said on Thursday it has raised $273 million from investors including Nvidia's venture capital arm and Amgen."
-publishedDateTime: 2023-09-14T12:34:00Z
-originalUrl: "https://www.reuters.com/article/generatebio-funding-idUSL4N3AQ2BO"
-webUrl: "https://www.reuters.com/article/generatebio-funding-idUSL4N3AQ2BO"
+excerpt: "Sept 14 (Reuters) - Drug developer Generate:Biomedicines, which uses artificial intelligence (AI ... Generate is testing a monoclonal antibody therapy for COVID-19, its first therapy to reach human testing. \"The company has made significant advancements ..."
+publishedDateTime: 2023-09-14T12:50:00Z
+originalUrl: "https://www.reuters.com/markets/deals/nvidia-amgen-back-ai-driven-drug-firm-generatebiomedicines-273-mln-fundraise-2023-09-14/"
+webUrl: "https://www.reuters.com/markets/deals/nvidia-amgen-back-ai-driven-drug-firm-generatebiomedicines-273-mln-fundraise-2023-09-14/"
 type: article
 quality: 44
 heat: 44
@@ -23,16 +23,21 @@ topics:
   - AI
 
 related:
-  - title: "Amgen-partnered AI biotech startup brings in $273M"
-    excerpt: "A biotech startup using generative AI to create new, protein-based medicines has closed on a $273 million round as it looks to expand its reach."
-    publishedDateTime: 2023-09-14T10:18:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2023/09/14/generate-biomedicines-flagship-273m-series-c.html"
+  - title: "Nvidia, Amgen back AI-driven drug firm Generate:Biomedicines' $273 million fundraise"
+    excerpt: "Generate — founded by venture firm Flagship Pioneering, which has incubated biotech companies, most famously Moderna Inc — uses AI to replace trial-and-error drug discovery methods and create novel protein-based therapeutics."
+    publishedDateTime: 2023-09-14T15:40:00Z
+    webUrl: "https://www.aol.com/news/nvidia-amgen-back-ai-driven-124043474.html"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
+      name: AOL
+      domain: aol.com
+    quality: 32
+    images:
+      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "8qN4U0tVELiPgxVUJZhDFaIKjR9/Gp7W41CmlkQcOsUdo2E+3kXCSmxWUlROyZoI0uLZWHVU58KIZeF2hfDHSvBBUQ/wFClNbOFFxfdEBmPbbOYWwcGxsMEmtr+mwgQ7dxEnjKLhFUVLF16jr6XHZKbUoHEfITdOgK2sHJhmrUL5E1t6s1pnNMtaAA1z031BvUujQnbCef/Fr0NAyoO4zX424NF63bDn/5iLh67HIhpBd2XtnpzpylqmFMk717B5nHkAfrox1/1VV4cgUT94Xtc0AbJ8U3wcJ2n0oGl6F3WsuUzHpAq2ZXcrAsRoPOrskinyXZwKfa6JoxbeRDikIKXKfQvny7n6QoT76onnhYU=;YNcWlYPPR6n3qSTt45sfWw=="
+secured: "m5Hicj0N0/nXmg/RO2bvXQl8gVohrYjuVqSfR2vSdZq4/0iZcV1Rxi/4ULgK/aWzlRv44xEmpdLJSfQ8Gp9EIaLCW8IeW1lFHce43buNw21HEKXnO7i/jOAH5vXCs3r0bezMN+QbHc1A11xIfttE4cD/c8h/VwL/E4KGZMWqNAm0hOAWqTY2yovthRrlZSVsHjsiXGNbbp1jmpLGP9g7rbqqzJQ3ZoJ/NqjARyCNwjZC4gRRVOLRZK1D3l11lcTurT6TnqEFiRlxu+egMVJs7jJYoIx5aOQVN78LW8LzjRdWwzNLD4V6GZLt9kM4jdXz8kKj/EkdOWiLMMqcx4L0+HSViKYD+lRDiqcInEst1eM=;1drX78Av20TMy5d4vbLFZA=="
 ---
 

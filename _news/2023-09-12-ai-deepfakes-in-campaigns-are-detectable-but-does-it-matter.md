@@ -61,6 +61,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Shares of AI chip designer Arm jump 16% after largest IPO in nearly two years"
+    excerpt: "UK-based chip designer Arm made its Nasdaq debut on Thursday ... After a nearly two-year drought in the IPO market, AI kingmaker Arm started trading in New York on Thursday afternoon with 95.5 million shares under the ticker ‘ARM’ (ARM)."
+    publishedDateTime: 2023-09-14T19:56:00Z
+    webUrl: "https://www.cbs58.com/news/shares-of-ai-chip-designer-arm-jump-16-after-largest-ipo-in-nearly-two-years"
+    type: article
+    provider:
+      name: CBS 58 News
+      domain: cbs58.com
+    quality: 31
 
 secured: "cA6mOSlB8B7lxKrlafEzYsi88Nk65xvG7omzvAnGfHOcGyVXJPU8ydu9M2D7hS5mZFaPuYNA7ZApBxJPnn9WZyuadg2WUvoYhyzPpjVc332FmmnkZ9l8GaxNJpQP0xxTYTUR6a0kWdTWLA+dzwOaD6UFKYmSogRhFg+PD5o5dm+xQpeKGHj2NWA3MszdweqVHWGavZJFFb7eEJWXdE5pp8SJl9NN2WkFMiwIVAOCQxm00emvRWcd2q8gN+T4PJ31sMnC+ZSanwSatGGNVciHS11Dz3MgsNFmSVn6O+JmOFDoMelYYAV0s9gycmYm7KJrib4DAB0IPqOrdk0B1M9AzIL1uU+G3Alln07eGeQq3TZTQyuNMjnOAXbJsm2EJ9fTTiFkyRpEXuvWwtHPIztq0lXihMkLqoN874B3SVXQib1buXYEYWtETE0+T7Rd/m6eFMMDHiCsil+NAJfmLYCR3fco2Y1/pWsJKwVEj7zcyQyO064Uz2+pOK10aNv7WksdBUwGtsdRpPpg4LBIE5AE2g==;Y7Nc+LOh35rDy/9/YyVa0w=="
 ---

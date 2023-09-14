@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/sap/2023/09/11/the-rise-of-ai-how-enter
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2023/09/11/the-rise-of-ai-how-enterprises-harness-the-power-of-large-language-models/amp/"
 type: article
 quality: 87
-heat: 117
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,6 +31,36 @@ images:
     isCached: true
 
 related:
+  - title: "The ethics of generative AI: How we can harness this powerful technology"
+    excerpt: "With the great power of generative AI comes great responsibility. Here's how researchers are addressing the ethical concerns and challenges -- the biggest questions of our time."
+    publishedDateTime: 2023-09-14T21:02:00Z
+    webUrl: "https://www.zdnet.com/article/how-we-can-harness-the-power-of-generative-ai-ethically/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-we-can-harness-the-power-of-generative-ai-ethically/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-we-can-harness-the-power-of-generative-ai-ethically/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 105
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/129698eae42671ce2b20b92978a585c39b18409c/2023/07/07/1c2e05f9-713c-4a92-87be-489899091f19/gettyimages-1206756458.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The Making of a Generative AI Powerhouse"
+    excerpt: "Adobe Firefly —a family of creative models that reimagines how content is designed, as well as how users and computers interact—is the next step in the company’s AI evolution. Says Ely Greenfield, CTO, Digital Media at Adobe, “The nature of Firefly’s advancements puts it in a category all its own.”"
+    publishedDateTime: 2023-09-13T14:01:00Z
+    webUrl: "https://www.wired.com/sponsored/story/the-making-of-a-generative-ai-powerhouse/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 69
+    images:
+      - url: "https://media.wired.com/photos/650099e7c5b3862d31e27557/191:100/w_1280,c_limit/Adobe_WIRED_Firefly_Article_2000x1333%20(1)%5B62%5D.png"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "Harnessing the Power of AI: A New Era for Banking"
     excerpt: "In today's banking and fintech landscape, artificial intelligence (AI) is reshaping our industries and redefining the way we conduct business. The banking sector is no exception. Recent headlines, such as Bank of America emphasizing the potential catalysts ..."
     publishedDateTime: 2023-09-11T22:24:00Z
@@ -44,29 +74,6 @@ related:
       - url: "https://www.finextra.com/finextra-images/visible_pictures/4105db07-3e06-4507-b703-a7ff7a62d957.jpg"
         width: 500
         height: 281
-        isCached: true
-  - title: "Leadership In The Age Of AI: Harnessing Data For Informed Choices"
-    excerpt: "The evolving landscape of AI, its impact on data-driven decision-making, and the importance of ethical AI practices in the professional realm is creating debate"
-    publishedDateTime: 2023-09-14T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/benjaminlaker/2023/09/14/leadership-in-the-age-of-ai-harnessing-data-for-informed-choices/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Labelbox Introduces Large Language Model (Llm) Solution To Help Enterprises Innovate With Generative Ai, Expands Partnership With Google Cloud"
-    excerpt: "Labelbox delivers a complete Large Language Models (LLMs) solution to help enterprises build high-quality models and applications by generating huma"
-    publishedDateTime: 2023-09-12T17:21:00Z
-    webUrl: "https://menafn.com/1107053873/Labelbox-Introduces-Large-Language-Model-Llm-Solution-To-Help-Enterprises-Innovate-With-Generative-Ai-Expands-Partnership-With-Google-Cloud"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 3
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?59909"
-        width: 306
-        height: 250
         isCached: true
 
 secured: "T3dIGMzgAD5PHnucYz1QtE2rgf49b2tHz4Z6Ma/FTRxv72UiP4zKZDx6TzLzg06zv7TxmfUfVQWv0Hfdyf/Tvbt7dtn7lL9NRABnC050aw3qb3N7jRxvIf10C0rRDzD4SVKMISuzmX5e/k8ZkppxB3ajTiLMOqIstEeRdseYzfhpezsULOHeeXbXC0wOMG+rw2ixjVh1GpvKTAyFIadmdOItnnhIiUI9yH7FPOdHIRpG+sKtEVsn7EiFf15+lhv5z3GDmI88J0dth8MZvBPVZgyLidERzwit7jsD5bIPCggoSkI7lV8mItOyW4FCTkPJ3E2sT2sEb7ZW8baI8ASay7bBXb5W4jWIaEDbERv23IM=;dGmcYp2Pc11KRvJgaIrQyQ=="

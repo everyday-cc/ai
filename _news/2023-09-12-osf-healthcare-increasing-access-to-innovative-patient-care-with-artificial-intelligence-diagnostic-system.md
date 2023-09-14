@@ -33,6 +33,20 @@ related:
         width: 690
         height: 400
         isCached: true
+  - title: "Healthcare AI adoption hindered by 'switchover disruptions'"
+    excerpt: "The U.S. healthcare industry will struggle to adopt artificial intelligence due to \"switchover disruptions,\" the expensive implementation period for new technologies that can disrupt profitable operations, Harvard Business Review reported Sept. 14."
+    publishedDateTime: 2023-09-14T18:11:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-health/healthcare-ai-adoption-hindered-by-switchover-disruptions.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Can AI help improve outcomes for cancer patients?"
     excerpt: "Using a voice-assisted, remote patient symptom monitoring system (VARSMS) developed through artificial intelligence and natural language processing technology, patients can be monitored remotely for post-recovery. With the goal of improving communication ..."
     publishedDateTime: 2023-09-12T09:31:00Z

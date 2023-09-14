@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/09/11/back-to-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/09/11/back-to-school-with-ai/amp/"
 type: article
 quality: 87
-heat: 187
+heat: 197
 published: true
 
 provider:
@@ -163,6 +163,15 @@ related:
         width: 1024
         height: 640
         isCached: true
+  - title: "Guidelines on artificial intelligence"
+    excerpt: "Artificial intelligence is rapidly evolving and transforming industries, including the media. Here is Rappler's approach to AI. Recognizing the rise of artificial intelligence, Rappler is taking ..."
+    publishedDateTime: 2023-09-12T09:24:00Z
+    webUrl: "https://www.rappler.com/about/guidelines-artificial-intelligence-usage-development/"
+    type: article
+    provider:
+      name: Rappler
+      domain: rappler.com
+    quality: 19
 
 secured: "N19YVVnE4Q78HAatA45s9YEY2rnSjSWH80ktA+moOJXTHWHJIn+LtGBciaMTrdWnY8a881TNoLQBS9FzqkKKSCzrdzS/ryGN7dchgQUpBQ/ga8+UUCOHybAULGpkrhdSf9JmAbiWJkEFc/AE91YRYJCZpXfW+bQAU1PLLiMsFfncFrlOOdcH59yJuiDpA6312KhVdlM4P5plLt+QBs9A354pciMGTOsnoZ159EmskkR9yZ/igmhlmoxuKYqNIBJMCWJSrS5WyRk7rDXUIRsJ7ClqLLJEfPsgmbt98JSg389rdPF+bRZIc0vki1y3/mEydWoH569bQROwdzx7gPNDWjLDQgOgL2dUYIXLrMdjfVk=;0w1miq7iwFYdAmOfevKwug=="
 ---

@@ -79,6 +79,20 @@ related:
         width: 386
         height: 386
         isCached: true
+  - title: "Tech companies using your personal data to train AI"
+    excerpt: "Big tech companies like Google, Meta and Microsoft are accessing your data to teach AI to essentially pretend to be human. Geoffrey Fowler, tech columnist at the Washington Post, joined CBS News to explain how."
+    publishedDateTime: 2023-09-14T20:11:00Z
+    webUrl: "https://www.cbsnews.com/video/how-your-personal-data-can-be-used-to-train-ai/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/14/f9cc8f71-d185-4ad6-8868-3b9d92d1f63f/thumbnail/1200x630/b241d6a4290ba1adbab28687bba2d2aa/cbsn-fusion-how-your-personal-data-can-be-used-to-train-ai-thumbnail-2290873-640x360.jpg?v=6616762727d81e1cb010134e0c556e29"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Gathering the news for the AI-powered future"
     excerpt: "The bottom line: AI-generated news content is coming. The death toll from the powerful earthquake that hit Morocco late Friday surpassed 2,000 on Saturday as rescue workers raced to find survivors, state media reported, citing the country's Interior Ministry."
     publishedDateTime: 2023-09-10T13:02:00Z

@@ -41,6 +41,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "What Washington should be doing to tackle AI risks"
+    excerpt: "An over-reliance on feedback from industry leaders and choosing to reset the clock on AI policy may benefit tech companies."
+    publishedDateTime: 2023-09-14T20:00:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2023-09-14/what-washington-should-be-doing-to-tackle-ai-risks"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "Tech Titans Meet Lawmakers On Ai Regulation"
     excerpt: "Top executives from some of the world's largest tech and web companies have reportedly concluded a closed-door meeting with U.S. lawmakers in Washin"
     publishedDateTime: 2023-09-14T08:33:00Z

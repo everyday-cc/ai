@@ -9,8 +9,8 @@ ampWebUrl: "https://www.telecomtv.com/content/digital-platforms-services/ant-gro
 cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/digital-platforms-services/ant-group-s-ai-efforts-build-on-its-fintech-heritage-48484/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: TelecomTV
@@ -27,38 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "Fintechs can drive financial inclusion through AI, says Kora"
-    excerpt: "The Nigerian fintech industry can leverage Artificial Technology to drive financial inclusion, increase efficiency, and improve consumer"
-    publishedDateTime: 2023-09-10T01:50:00Z
-    webUrl: "https://punchng.com/fintechs-can-drive-financial-inclusion-through-ai-says-kora/"
-    ampWebUrl: "https://punchng.com/fintechs-can-drive-financial-inclusion-through-ai-says-kora/?amp"
-    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/fintechs-can-drive-financial-inclusion-through-ai-says-kora/?amp"
+  - title: "Union Credit Wins Finovate Award for Top Emerging Fintech Company"
+    excerpt: "Fintech startup recognized for marketplace of trusted lenders ... Union Credit also formed a key partnership with Zest.ai, to allow credit unions to leverage the Zest model to extend fairer and more inclusive credit access to all consumers."
+    publishedDateTime: 2023-09-12T17:32:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/b34498188/union-credit-wins-finovate-award-for-top-emerging-fintech-company"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34498188"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34498188"
     type: article
     provider:
-      name: The Punch Newspapers
-      domain: punchng.com
-    quality: 59
-    images:
-      - url: "https://cdn.punchng.com/wp-content/uploads/2019/01/31111416/artificial-intelligence-e1548929675751.jpg"
-        width: 800
-        height: 372
-        isCached: true
-  - title: "Bid to find fintech solutions to NE’s problems"
-    excerpt: "Guwahati: From empowering the farmers of Nagaland through organic pre-order vegetable delivery services to developing a tech-based platform to streaml."
-    publishedDateTime: 2023-09-10T03:17:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/guwahati/bid-to-find-fintech-solutions-to-nes-problems/articleshow/103545872.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/guwahati/bid-to-find-fintech-solutions-to-nes-problems/amp_articleshow/103545872.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/guwahati/bid-to-find-fintech-solutions-to-nes-problems/amp_articleshow/103545872.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 44
     images:
-      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1070
-        height: 579
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
+  - title: "Fintech, Health Care, AI & More: Total Wealth Symposium 2024"
+    excerpt: "Director of VIP services John Wilkinson joins The Banyan Edge Podcast to break down what to expect for Banyan Hill's Total Wealth Symposium 2024."
+    publishedDateTime: 2023-09-11T18:04:00Z
+    webUrl: "https://banyanhill.com/fintech-health-care-ai-more-total-wealth-symposium-2024/"
+    type: article
+    provider:
+      name: Banyan Hill Publishing
+      domain: banyanhill.com
+    quality: 19
   - title: "Samunnati joins FinTech finbots.ai to facilitate AI-based credit risk management"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-09-13T11:51:00Z
@@ -68,6 +61,15 @@ related:
       name: IBS
       domain: ibsintelligence.com
     quality: 14
+  - title: "How the customer experience has been transformed by fintech"
+    excerpt: "AI and advanced predictive analytics are by far and away the ... it’s only a matter of time before it’s geared up to deal with more complex queries. Here are some of how fintech is improving customer lives. Finance management tools During these ..."
+    publishedDateTime: 2023-09-12T16:32:00Z
+    webUrl: "https://www.finextra.com/blogposting/24877/how-the-customer-experience-has-been-transformed-by-fintech"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "Q8xBGFacs47boP7G+WCU/ttJEmDZHU8D59i6n3l1m2X9YNN6dVseVjJqCkh0qG2Zsb6P5D+sZYi7q05C7VXGP4/9nIEmr2/Meaa0H518WPQaqgoHb74hMwSJACCIwxyUl4TnpduJShG3/IqeGFitWTAQpZf+kdHpX0XmPQoEgFGr1f3EVKDdg3gbHF4AhR6lRwpple4I+89cKNvpZf3ry3Jn1viGD6uCOQb/oCSpjRW7UDRJbDPZptJCLge2n2T8H3Oxu7YlbMXy4w27FuN7yXOsf1NGI2VYFJomU8Vfr6OI3ei/yPI7rcpiiQ5pEV5gKClHxYs4FKOUjBwMjokM2URSZV2uog0T/baF6kDbmJDlZRuFkvR7PEM76bLs1PA4HlROZfx0oXbpMq+zcWoe19iJia1zOTSDvyeQ/bMakpmO9L0crxnvWRQLTlrhWewE4uFELFpTD6b/WC+pDHHW2Iy/EuXzATx+LKqF5n4gi8fyhyyrJcNrsOzyGquNeAln7f4GqpucwyHVLWZQIqfZjA==;FIvNjNBlHBO+Rdq/uBeVNw=="
 ---

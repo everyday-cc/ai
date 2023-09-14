@@ -41,6 +41,15 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "AI robots went to Dolphins-Chargers game and freaked out everyone"
+    excerpt: "That’s right, among the fans sitting at SoFi Stadium on Sunday to take in the Miami Dolphins game against the Los Angeles Chargers were a bunch of AI robots ... we needed to start 2023 ..."
+    publishedDateTime: 2023-09-12T00:16:00Z
+    webUrl: "https://www.sbnation.com/nfl/2023/9/11/23868498/ai-robots-dolphins-chargers-sofi-stadium"
+    type: article
+    provider:
+      name: SB Nation
+      domain: sbnation.com
+    quality: 34
 
 secured: "Pt9MELRSfV2HXf4WPcNxsFPiyxxxPBvQ2PEmM7ARQZPj1SDhMj7/3bvkk/J2mcxD2IjcOh8hOzycAEv1txv1c/Seae1UxS7IqkaSQiI6/jmZoSGHjNfI1f+AIbznwTxQMAo6teluin8hP7zZfyjHASdR1BYn3AN+eQgl05lGmdLkbMGv/LcmKPmUMxfxzJx0SUQ1tpaSoe8wW/m31bmMIwIeZB/iDs7Q7vMkSguChQQTLhIapayv+i+YHOy3+yRv1FdR9oAbj5f9i/Ps7WHlei3rOTPN4ZptL4ItElQMEM16DIyVk8RAlv0QHlgFBEn6FPHfXuyqUYsDL+DyuhUEuf2aMXQ636Z+TYCG8QHJYlTMfzgZ/M8DS8qGFvXbB4RGUzMeJh5fRHufre8/bCQSJn2GFyUFZPZyEwjrSF+3xlC23ZiArOTXeQy+nrx2w6jLBEsmGKe2gNpJAN5CSL+/nr0ixZMxigTGDtkzpuR0lMixatBZoB4cApzKw0Y5qwhaqZVzVcZ32BEGFKcznFANuQ==;5qQZWl3SyHZo95hGFnFzYw=="
 ---

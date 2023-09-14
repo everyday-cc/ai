@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/how-teslas-new-sup
 webUrl: "https://markets.businessinsider.com/news/stocks/how-teslas-new-supercomputer-could-upend-the-ai-race-1032631339"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Don't Count on Tesla's Dojo Supercomputer to Jump-Start an AI Revolution"
+    excerpt: "Wall Street analysts predicted Tesla’s Dojo supercomputer could unlock a $500 billion ChatGPT-style breakthrough. Don't take it to the bank."
+    publishedDateTime: 2023-09-14T16:00:00Z
+    webUrl: "https://www.wired.com/story/fast-forward-tesla-dojo-supercomputer-elon-musk-ai-revolution/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 63
   - title: "Tesla’s value predicted to boost from new Dojo self-driving supercomputer"
     excerpt: "Tesla’s Dojo supercomputer only uses video data recordings from Tesla owners’ real-life driving situations to train its machine-learning model and improve its camera-only ‘Tesla Vision’ safety assistance systems. The camera-only Dojo will ditch 300,000-plus lines of code."
     publishedDateTime: 2023-09-12T04:55:00Z

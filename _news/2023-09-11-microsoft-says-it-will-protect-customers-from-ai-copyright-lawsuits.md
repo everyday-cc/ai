@@ -69,6 +69,22 @@ related:
         width: 611
         height: 459
         isCached: true
+  - title: "Microsoft, Oracle deliver direct access to Oracle database services on Azure"
+    excerpt: "The hyperscalers are joining forces to help customers fully migrate to the cloud — and place their data closer to Microsoft services to facilitate cloud-native development and AI experimentation."
+    publishedDateTime: 2023-09-14T21:52:00Z
+    webUrl: "https://www.cio.com/article/652442/microsoft-oracle-deliver-direct-access-to-oracle-database-services-on-azure.html"
+    ampWebUrl: "https://www.cio.com/article/652442/microsoft-oracle-deliver-direct-access-to-oracle-database-services-on-azure.html/amp/"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/652442/microsoft-oracle-deliver-direct-access-to-oracle-database-services-on-azure.html/amp/"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 71
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2023/09/shutterstock_editorial_2110981163.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Viaccess-Orca, Microsoft, generative AI partnership"
     excerpt: "Viaccess-Orca (VO), a specialist in providing OTT and TV platforms, content protection, and advanced data solutions, is collaborating with Microsoft on new adva"
     publishedDateTime: 2023-09-14T10:17:00Z

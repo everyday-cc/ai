@@ -6,8 +6,8 @@ publishedDateTime: 2023-09-14T13:01:00Z
 originalUrl: "https://venturebeat.com/games/generative-ai-will-account-for-half-of-game-development-in-5-to-10-years-bain/"
 webUrl: "https://venturebeat.com/games/generative-ai-will-account-for-half-of-game-development-in-5-to-10-years-bain/"
 type: article
-quality: 43
-heat: 43
+quality: 65
+heat: 65
 published: false
 
 provider:
@@ -20,7 +20,14 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
-secured: "iQbyGroZjbI4y+aRqgq14C1dF7npJjD/MhQs93Y/qORcEsYkaUaHFDsbCpWz6uTzTV18n0ktQSQEJnuF1WaSPVXy2X4dgoo/nZFCBV/GbtL3vYNicF03ncgPv3bT6g8Fs0Z4w/Di1xTvfC8z1HabMOlaD86qv9zNassEEqSy4C4v+ClZe8hGOzXGUgNPDQYewafAKrYYUnOleQaPWMOwowBJb0nmxIqsYcWjVr1GsHewTrpsyJ2VzWIP0rf+xYlrdZuenhNOJzgskrOv4Qil35q/1KcELlIkOtSWy2Z+NqEBl/G8qlg1r/wTsqrr1t2rRU66WQCx4B53mzoYs4kmnuCXMBa8gKfnBYtU1BWShHtyq1aWrHO15v9XILq79TEjyoDxTl8L8NvZv7ksO/24K5Ikhu5tgey8iaJdSvx60bzMbznT1ZIkAg9gna75xEio/EPLgvYSff5zfEy3lKpgPxgSLTcc+JBXInGLQFys63y0+Vp6CYthvJX067/ekrAS9+ns1xZS5rdKkOHnLQQsmw==;Fpa+kh5u3pcrfSCCc0Sa1A=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2023/09/Figure-1-1.jpg?w=1200&strip=all"
+    width: 1051
+    height: 567
+    isCached: true
+
+secured: "1qFmOiEW93fNaZENwzVQKhKl9/c2tgUNGA7grZIlJn1BVgvBJwV+pHZ7PelAxlSc3AFctutku+8Gf7x0Wvzin+qOv99WV6kA0LMLanjgaNIKagI/DAdgpXJq6ivGGsdrlrxZ5dsNom6KormiwfBhOH8vtqeklqvkFR+lkK8Nz6joESjD2iTT8e4KwPErM7N6I14fv1u3ivzO+9jGonw9LAtU5PpJXU+YHZU1aQR3a1ccTqELnyYE0w3QwDiuS9o3twC8e/GBQxAIy2B5lz26tOdcYywOcm1znLECRcf5n0OTxzCnfyQrp0NyZsPFGrEohUemVHc/VFZbcT2s62aD+o9gY3dkiHbKLwZNH9rRVMs=;mHGs3a6jAUXzc45KhHkAjQ=="
 ---
 

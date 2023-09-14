@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Tech titans are giving senators advice on artificial intelligence in a closed-door forum"
-excerpt: "Senate Majority Leader Chuck Schumer convened a meeting of some of the country’s most prominent technology executives to ask them how Congress should do it."
-publishedDateTime: 2023-09-13T22:19:00Z
-originalUrl: "https://www.hawaiinewsnow.com/2023/09/13/tech-titans-are-giving-senators-advice-artificial-intelligence-closed-door-forum/"
-webUrl: "https://www.hawaiinewsnow.com/2023/09/13/tech-titans-are-giving-senators-advice-artificial-intelligence-closed-door-forum/"
-ampWebUrl: "https://www.hawaiinewsnow.com/2023/09/13/tech-titans-are-giving-senators-advice-artificial-intelligence-closed-door-forum/?outputType=amp"
-cdnAmpWebUrl: "https://www-hawaiinewsnow-com.cdn.ampproject.org/c/s/www.hawaiinewsnow.com/2023/09/13/tech-titans-are-giving-senators-advice-artificial-intelligence-closed-door-forum/?outputType=amp"
+excerpt: "\"It's going to be a fascinating group because they have different points of view,\" Schumer said in an interview with The Associated Press before the event. \"Hopefully we can weave it into a little bit of some broad consensus."
+publishedDateTime: 2023-09-13T20:15:00Z
+originalUrl: "https://sentinelcolorado.com/uncategorized/tech-titans-are-giving-senators-advice-on-artificial-intelligence-in-a-closed-door-forum/"
+webUrl: "https://sentinelcolorado.com/uncategorized/tech-titans-are-giving-senators-advice-on-artificial-intelligence-in-a-closed-door-forum/"
 type: article
-quality: 50
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Hawaii News Now
-  domain: hawaiinewsnow.com
+  name: Sentinel Colorado
+  domain: sentinelcolorado.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/eKpFld_qYRBoO53LMYlR5HqEFIc=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/KFPQKURCMVF5HE3LDVSKFMVH2I.jpg"
-    width: 800
-    height: 450
+  - url: "https://sentinelcolorado.com/wp-content/uploads/2023/09/AP23256017020655-scaled.jpg"
+    width: 2560
+    height: 1707
     isCached: true
 
 related:
@@ -294,6 +292,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "cc1/vtI0ZhElMM4oOs16bD/zp6m6ku/VGQt7M2ldAChQQQmjmYVJmMi0ldXzSLRx3INX22fuX/Rh555mX+jFBFwfasG8N1i21IIxHNlgvHxQBEMcTvH70eOwzCoQfdnHQFIchiGLW+HI+wHl4rcGg12GtuDsD/ove07fgf2l0i94L6QLF0bJ9TKetSWo4eKl6TFSxM3RvNONvObtD1WE7UW9w8QejvvtiZTKtV+6KbOPeNMBfSzL+36OkdOzJcZJoywJAWJD9CxUzI42kft90/TTJr5TDIo0nfQagcxThw/8BtNnqGRVvIfRLesSbHtqomBOtnf6ynOeDIb2mUbuYMDjLS4R4+NTY0Sv17V2RlfCDqRVSttxY91KRYg4DAfnbfOwmVQqzpjSueuvk1MA64+e7iNLKMGkpI3jXXcWsLWVSFdNGpIkXMDbTH0HWG6WZ7AM75KlPaq8zWYCEExuJ4B3UBoDIKESzUGp7EVZ2uTGKBDEE6uHejZTXxA9kcTbg9OOcXGwAaoVvpIYEkpM8w==;mU+nv95MBqqgrU+0VgY7ng=="
+secured: "zTZOvqPporjuhB9OI654y3LNj4/cmd9eBwVDALKYKsbjPBX1nd/0z44kLoKzqVTLzPXh8WAeuqVPLoKKoXzpC07Q82AwDdapooeJynPTJIeZIrozWuE5E7gYFkEVw0VjWiknYg8FZB/7D2jq7RsB14SriGtMJLp7oAd/zBBKL6j5JlD/PgbE0JZKxbVhL8y7BjdyGexrJvEuSnVMFv5oCqLK7k7QeQELyYvlz0xVe1OZirvOf1PPmhCRr0vK48RpPVdS4c7mCoPU7WjC5FwSY6xTE8uSzMruZrbomUNAMNHmItSYvUvQ9qb2uBRAdkhTwQg+oLBXboAZt+VlE0I7X/zoDczp9iii6uw1muRJPug=;u2q6KwNnjHwiBo/W8DIVSg=="
 ---
 

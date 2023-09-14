@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Ecology and artificial intelligence: Stronger together"
+    excerpt: "Many of today's artificial intelligence systems loosely mimic the human brain. In a new paper, researchers suggest that another branch of biology -- ecology -- could inspire a whole new generation ..."
+    publishedDateTime: 2023-09-11T00:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/09/230911191010.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "How To Use AI To Your Business’s Advantage"
     excerpt: "When incorporated wisely, AI technologies open new horizons for delivering products that stand out on the market and bring unique value to your customers."
     publishedDateTime: 2023-09-11T13:15:00Z
@@ -39,15 +48,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "Ecology and artificial intelligence: stronger together"
-    excerpt: "Many of today’s artificial intelligence systems loosely mimic the human brain. In a new paper, researchers suggest that another branch of biology — ecology — could inspire a whole new generation of AI to be more powerful,"
-    publishedDateTime: 2023-09-11T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/1000768"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 19
   - title: "Ecology and artificial intelligence: Stronger together"
     excerpt: "Many of today's artificial intelligence systems loosely mimic the human brain. In a paper published in Proceedings of the National Academy of Sciences, researchers suggest that another branch of biology—ecology—could inspire a whole new generation of AI to be more powerful,"
     publishedDateTime: 2023-09-11T19:01:00Z

@@ -67,6 +67,22 @@ related:
         width: 1718
         height: 892
         isCached: true
+  - title: "Why Oracle is putting OCI database services into Microsoft Azure data centers"
+    excerpt: "Oracle and Microsoft have announced Oracle Database@Azure, an offering to provide Oracle database services running on Oracle Cloud Infrastructure [OCI] and deployed in Microsoft Azure data centers. Azure becomes the only cloud platform other than Oracle Cloud Infrastructure to host Oracle services. According to the official announcement:"
+    publishedDateTime: 2023-09-14T21:12:00Z
+    webUrl: "https://diginomica.com/why-oracle-putting-oci-database-services-microsoft-azure-data-centers"
+    ampWebUrl: "https://diginomica.com/why-oracle-putting-oci-database-services-microsoft-azure-data-centers?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/why-oracle-putting-oci-database-services-microsoft-azure-data-centers?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 71
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-09/Screenshot%202023-09-14%20at%2013.54.50.png"
+        width: 1216
+        height: 682
+        isCached: true
   - title: "Microsoft president and Nvidia chief scientist to testify in Senate AI hearings"
     excerpt: "Digital advocacy groups warn Senate judiciary committee that tech companies cannot be trusted to regulate themselves"
     publishedDateTime: 2023-09-12T15:16:00Z
@@ -177,6 +193,20 @@ related:
       name: National Herald
       domain: nationalheraldindia.com
     quality: 30
+  - title: "Microsoft and Oracle Expand Partnership to Deliver Oracle Database Services on Oracle Cloud Infrastructure in Microsoft Azure"
+    excerpt: "AUSTIN, Texas and REDMOND, Wash., Sept. 14, 2023 /PRNewswire/ -- Oracle Corp and Microsoft Corp today announced Oracle Database@Azure, which gives customers direct access to Oracle database services running on Oracle Cloud Infrastructure (OCI) and deployed in Microsoft Azure datacenters."
+    publishedDateTime: 2023-09-14T21:23:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-microsoft-oracle-expand-partnership-deliver-oracle-database-services-/2023/09/14/9881646.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 27
+    images:
+      - url: "https://mma.prnewswire.com/media/2210359/Oracle_Microsoft_Joint_Image.jpg"
+        width: 400
+        height: 300
+        isCached: true
 
 secured: "X4m640fZI4rIVUZtJqNgMlWtCcqGuh41n1U/iEVBKTNekYBTIiZ6uvmXt8PoUo8LrpHSCOkLjOjnlZ8yt/LVZEfcI/RrJptFJ9QeZ5oT635r8DzTAWIxlz1on2MJKhN6W/u3DbIu458eBq9jPJCVbFCNdX8XywLwgAic6UeoO3IUGQOl6dOZfzDXxzJH4xwhKAIJD6SWDk/KdCTLdikS4LpqiCK5j003x64G5+CbyjfE2O18K0hPkk+HWCa2Tw/PmwpnrmdqwcIdefP4yp8pLPLkxxQdDNYQiNidmUP1yAa1pkY5LB8zIL//qM4lI7NvvMVeHuGroiTfyb5l6eV8V06vwrQVAGZZEiyfmvVgKX2ad2al9jku1GME4ZfXEx5LwNWcWrYQp4Vjt41asgXGWIL6s2v3xZCBVCC9YmkVNFjacm2DLSelnIzmeHdLut6MOcUq+cke89QzgoKuUCzswKG18XlnZeL5m213J0ZfHZYuYQipSo8HtP004Ig36Tavl36n0VhuLCXB0ke5VKaPew==;0hyekIMmOqKge5kcX0xN5g=="
 ---
