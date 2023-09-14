@@ -232,6 +232,20 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "AI technology behind ChatGPT was built in Iowa — with lots of water"
+    excerpt: "and 10,000 graphics processors — a kind of chip crucial to AI workloads. Experts said it can make sense to \"pretrain\" an AI model at a single location because of the large amounts of data that need to be transferred between computing cores. It wasn't ..."
+    publishedDateTime: 2023-09-13T23:09:00Z
+    webUrl: "https://newsadvance.com/news/nation-world/business/ai-technology-for-chatgpt-was-built-in-iowa-with-lots-of-water/article_bd1f651a-39ca-5bd1-9348-4c32cf557f9d.html"
+    type: article
+    provider:
+      name: The News & Advance
+      domain: newsadvance.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/newsadvance.com/content/tncms/assets/v3/editorial/b/d1/bd1f651a-39ca-5bd1-9348-4c32cf557f9d/6500b22e0cecb.preview.jpg?crop=1694%2C889%2C42%2C253&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial intelligence technology behind ChatGPT was built in Iowa"
     excerpt: "DES MOINES — The cost of building an artificial intelligence product like ChatGPT can be hard to measure. But one thing Microsoft-backed OpenAI needed for its technology was plenty of water, pulled from the watershed of the Raccoon and Des Moines rivers ..."
     publishedDateTime: 2023-09-12T10:37:00Z

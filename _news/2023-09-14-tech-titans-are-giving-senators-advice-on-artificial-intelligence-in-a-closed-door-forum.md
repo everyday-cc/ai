@@ -2,21 +2,29 @@
 category: news
 title: "Tech titans are giving senators advice on artificial intelligence in a closed-door forum"
 excerpt: "Senate Majority Leader Chuck Schumer convened a meeting of some of the country’s most prominent technology executives to ask them how Congress should do it."
-publishedDateTime: 2023-09-13T19:19:00Z
-originalUrl: "https://www.wsfa.com/2023/09/13/tech-titans-are-giving-senators-advice-artificial-intelligence-closed-door-forum/"
-webUrl: "https://www.wsfa.com/2023/09/13/tech-titans-are-giving-senators-advice-artificial-intelligence-closed-door-forum/"
+publishedDateTime: 2023-09-13T22:19:00Z
+originalUrl: "https://www.hawaiinewsnow.com/2023/09/13/tech-titans-are-giving-senators-advice-artificial-intelligence-closed-door-forum/"
+webUrl: "https://www.hawaiinewsnow.com/2023/09/13/tech-titans-are-giving-senators-advice-artificial-intelligence-closed-door-forum/"
+ampWebUrl: "https://www.hawaiinewsnow.com/2023/09/13/tech-titans-are-giving-senators-advice-artificial-intelligence-closed-door-forum/?outputType=amp"
+cdnAmpWebUrl: "https://www-hawaiinewsnow-com.cdn.ampproject.org/c/s/www.hawaiinewsnow.com/2023/09/13/tech-titans-are-giving-senators-advice-artificial-intelligence-closed-door-forum/?outputType=amp"
 type: article
-quality: 10
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: WSFA
-  domain: wsfa.com
+  name: Hawaii News Now
+  domain: hawaiinewsnow.com
 
 topics:
   - Facebook AI
   - AI
+
+images:
+  - url: "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/eKpFld_qYRBoO53LMYlR5HqEFIc=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/KFPQKURCMVF5HE3LDVSKFMVH2I.jpg"
+    width: 800
+    height: 450
+    isCached: true
 
 related:
   - title: "Stability AI, gunning for a hit, launches an AI-powered music generator"
@@ -222,6 +230,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "NsNqa8KYflVef6uMTbe0N81SZmoomI8Mdxyvw+32OxTY5KW/KQ7Bkh94fdNA+eWMJWS5nEa4Rlj0ja2zSoYIDwg+d0i5ycMcTZyZ7WtnVPwjKeyDOHkUe6tM3G1jzJIU6eCzWqE1b+Gxc3ALLVY2iJbhuLrSx+3ScvplpnGcGn+axaZ5CQ8Eze0jAyE0vaQHWqM+cJ7ESCxTIt07gOWThiyVIlxohWbn/Xfc4WEa2lMP7YRDBLm6TFTRmYYWR+qtJOcHuJLAvMmkf9N4kWzL+Qo0UffuR0Bkj2KuLxgyszP6ocaFSfEUMf/moV6vbnpdlLmK/eP/uEXfbGRTqE0KHHfpIRCFBEMUebCS5mrD/QTVC/0r3bUyWq9zklqoecJbKeGXCrXUJibj7Iz+GQlJS3W3hBjAK134m+L3k3PSGCG6kDOkj/zDhwbLey5zNPOEOBCdiVPIkhQbNPAIVRV3sJHlIMPyWHSi821Vpi6h7kllOeqDssPcR/fsnGnoMbr21m/AMbCUc6DEaEM4OArl9g==;6FOW5VlnRBd3urVlpLJLkA=="
+secured: "UIu1U50WX5JQXx5qfs6Q6DcCozOnmUCyyVeYWo9K64SHAtPs6RdXNFTZ3iCfsc+v7ua6+Hg6s3+KuzIdQDVRtTlrXhQ6CG+apVQDZUSOnw6LS6bx6tkcWdcCE+yLN3fbJmBpYXcKZ8puP2s143+/wufybvGqX+SmX1G3VjJDzsBqUL6+0lD5J8fCeNp2W2n6ajWK6mc6FCkB07qptfLDZsKcc28qep1mCz4Si0VEzPe0iksHBDYuBKx7vTBoUqSTnbVYKXRLan9y5wC497ZfrCguBm/zmPOIQUrIVbk5z2E/l8IOJQ37IAjGlpibRh8HcUYH1+GazvMmbn5kOF5fsZ3zs/oPNTyLkRmtyMSPFlQ=;a4f69nmaoFNawFXBW9muFQ=="
 ---
 

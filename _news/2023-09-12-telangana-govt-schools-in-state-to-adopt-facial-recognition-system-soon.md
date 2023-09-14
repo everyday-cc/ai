@@ -7,7 +7,7 @@ originalUrl: "https://www.thehansindia.com/news/cities/hyderabad/telangana-govt-
 webUrl: "https://www.thehansindia.com/news/cities/hyderabad/telangana-govt-schools-in-state-to-adopt-facial-recognition-system-soon-821972"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,36 @@ images:
     width: 1200
     height: 720
     isCached: true
+
+related:
+  - title: "Facial recognition tech stays in schools despite state ban"
+    excerpt: "Education groups and school administrators estimate as many as 50 schools could already be using the surveillance technology."
+    publishedDateTime: 2023-09-13T14:40:00Z
+    webUrl: "https://helenair.com/news/state-regional/facial-recognition-tech-technology-remains-school-despite-state-ban-frt/article_81a35a96-5243-11ee-9112-4f306f94289c.html"
+    type: article
+    provider:
+      name: Independent Record
+      domain: helenair.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/helenair.com/content/tncms/assets/v3/editorial/8/1a/81a35a96-5243-11ee-9112-4f306f94289c/650243c6bd382.preview.jpg?crop=1753%2C920%2C0%2C33&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Marc Bouwer Art Exhibition 'Facial Recognition' Opens In New York City"
+    excerpt: "Marc Bouwer, Painting Waiting to Walk (acrylic on cardboard) (Photo Credit: Rozella Kim Photography) Paintings Kisses Gone (Left, Acryli"
+    publishedDateTime: 2023-09-12T20:30:00Z
+    webUrl: "https://menafn.com/1107056353/Marc-Bouwer-Art-Exhibition-Facial-Recognition-Opens-In-New-York-City"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?802913"
+        width: 388
+        height: 250
+        isCached: true
 
 secured: "/7peHopXcn+6cAq4ICs5vGUiMmd8+ogA1HOVJyeN6EGLI97D1KBhp1WXTzdKZcR470j//eaViuyj33/5qYTGk5CFY0U/0kWoy9Q8g7HTbXizmDMjkKr0sNFQGXd243X//J8YsSnjKtDE0TfwjxqohczUQnpbY8L1dDEa3OAeLVJdaPvCtXRz7zxP5ygwtNgxNb9HbgLWMRJ9DKIDMEDaDM0iZfS7xaMcxqkXK0JZZSXNaYcGm4ZH8LV33X/cGr08HDtXumom9hlR8ZpTnA45wxAzIPamrK9+Tc+q7d5N2SgGJLkmZ8UV6wlSUkf1pKh4Gnb46Pmw8RsogiVcd+B/7lBxSvwaubrLBYZsFsU1ruenDdqro/8QGCsB1OAvgcOGPtf0/Uv8MLyNLa8iQgHgOBNdjj4Zf991EFi0x0NUMaQY8a0SMjsc0wrUiAKfmKBLWuVUh/wu2WuNQ/o/MJw9LnnTCVQWnB//gvT/ssXcxzKzH7AypHOH6ODP/nVN4iSWhDjl0nKK7tw9Dbj8fU3LyA==;YDSaUWhyHTbFO24OBlbZww=="
 ---

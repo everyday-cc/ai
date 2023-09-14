@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/09/11/back-to-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/09/11/back-to-school-with-ai/amp/"
 type: article
 quality: 87
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
     quality: 87
     images:
       - url: "https://www.zdnet.com/a/img/resize/19574269e5cd2e2aca58a49d3e037ffe269947d1/2023/09/11/3ed5d18c-4f4e-41de-baea-37cb0fcd0102/figure-top-how-to-use-ai-to-create-your-own-comic-books.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How To Regulate Artificial Intelligence"
+    excerpt: "In summary, this approach to algorithmic regulation gives enumerated existing agencies access to new regulatory tools to control algorithms used in areas under their jurisdiction when the use of these algorithms poses a significant risk of substantial harm that the agency is empowered to prevent under its existing statute."
+    publishedDateTime: 2023-09-11T13:59:00Z
+    webUrl: "https://www.forbes.com/sites/washingtonbytes/2023/09/11/how-to-regulate-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/washingtonbytes/2023/09/11/how-to-regulate-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/washingtonbytes/2023/09/11/how-to-regulate-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64ff1c3b731e9cb353f9e2c7/0x0.jpg?format=jpg&crop=1823,1026,x0,y91,safe&width=1200"
         width: 1200
         height: 675
         isCached: true

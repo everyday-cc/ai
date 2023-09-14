@@ -36,6 +36,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "SAS Viya analytics suite gets SaaS-based AI app development tools"
+    excerpt: "The new offerings will allow enterprises to automate the setup and integration of a cloud-native technology stack to let developers focus on getting AI models and AI-driven applications into production."
+    publishedDateTime: 2023-09-13T23:36:00Z
+    webUrl: "https://www.reseller.co.nz/article/708743/sas-viya-analytics-suite-gets-saas-based-ai-app-development-tools/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 39
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_s_sas_institute.jpg"
+        width: 501
+        height: 315
+        isCached: true
   - title: "AI and analytics leader SAS delivers trustworthy generative AI value through industry solutions"
     excerpt: "SAS expands strategic Microsoft partnership and differentiates in the market with synthetic data, digital twins, large language modelsLAS VEGAS,"
     publishedDateTime: 2023-09-12T18:24:00Z

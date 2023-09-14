@@ -35,6 +35,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Nvidia bets on India with Tata Group, Reliance Industries AI partnerships"
+    excerpt: "According to Nvidia CEO Jensen Huang, India 'possesses [the] size, data, and skill' necessary to be a leader in AI."
+    publishedDateTime: 2023-09-11T16:26:00Z
+    webUrl: "https://www.rcrwireless.com/20230911/ai-ml/nvidia-bets-on-india-with-tata-group-reliance-industries-ai-partnerships"
+    type: article
+    provider:
+      name: RCR Wireless News
+      domain: rcrwireless.com
+    quality: 38
+    images:
+      - url: "https://www.rcrwireless.com/wp-content/uploads/2023/09/138346920_m_normal_none-scaled.jpg"
+        width: 2560
+        height: 1536
+        isCached: true
 
 secured: "/URuwxi6Cm8cy15onoCZIMUBw5iYWia8A6nfgAKutB9NvOzBlvZU0NJNRmpyPXctvaiJoC3vRIoP5Kb1L5ieJEZ0PLtV8cvKELbMYuD3fQ6QEhRbBFnI97KtGUYGPdtzynH2EiNQwC9IJn0Qlti1uxPghkTZ6ZsqthjSnPsDIWq8I67eXwNVTfO8Ggin2PpfwBdyz0gKfiiPh506UvFEwYEuhZz4yKS1WY40QlFTvX2/9taD68EQcNox4nQkaDElvXrSHUBPA0gjjvbuaUcVop/HyPFvgZMO3sD68l2QnBpvqKGTdUC9RHHan82GOFlMfpHeRDAUXr2x0VdbeYBIcniwQiTgDEDmUZrvnDbY1sdxI1qe0zVwi+hyrNVG4nl3xPG5NZUZ8t2wrU6OtBXiCWwRD2nZOj1QU+6xMUDUNWbRYcItgvA4OSL/+oSdSo142ZDmG7yllP8JLg+C5Q0Gqt1GxY/AWrlNwhWR2EAXzF3uXuL/ivQ5QT/OY0eaCCUquL6mGP9udpgNFpQMzg5FLw==;YGo2UIoxDRfVUQUD90hqYw=="
 ---

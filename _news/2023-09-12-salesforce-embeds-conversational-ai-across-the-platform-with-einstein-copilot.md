@@ -123,6 +123,20 @@ related:
         width: 1322
         height: 940
         isCached: true
+  - title: "Benioff attacks other Gen AI vendors at Salesforce Dreamforce 2023"
+    excerpt: "Salesforce chief executive and co-founder Marc Benioff used his keynote address at the company's Dreamforce 2023 to make bold attacks on other generative AI (GenAI) vendors, accusing them of not taking trust and hallucinations as seriously as his company."
+    publishedDateTime: 2023-09-13T19:22:00Z
+    webUrl: "https://www.crn.com.au/news/benioff-attacks-other-gen-ai-vendors-at-salesforce-dreamforce-2023-600229"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/Salesforce_einstein-1-copilot-studio.jpeg"
+        width: 611
+        height: 458
+        isCached: true
   - title: "Salesforce to bring AI assistant to all of its applications with Einstein Copilot"
     excerpt: "Using the Model Builder, Einstein Copilot can support a “bring your own model” sort of integration with LLMs from Anthropic, Cohere Inc., Databricks Inc., Google LLC’s Vertex AI, Amazon Web Services Inc.’s SageMaker and others. “If you’re a ..."
     publishedDateTime: 2023-09-12T12:22:00Z

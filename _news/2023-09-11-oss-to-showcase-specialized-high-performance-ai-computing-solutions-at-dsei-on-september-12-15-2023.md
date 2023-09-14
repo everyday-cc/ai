@@ -83,6 +83,15 @@ related:
         width: 319
         height: 250
         isCached: true
+  - title: "Kiromic BioPharma Common Stock to Begin Trading on the OTC Pink Sheets on September 14"
+    excerpt: "Kiromic BioPharma (NASDAQ: KRBP) (“Kiromic” or the “Company”), a clinical-stage, fully-integrated biotherapeutics company using its proprietary DIAMON"
+    publishedDateTime: 2023-09-13T20:35:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230913097444/en/Kiromic-BioPharma-Common-Stock-to-Begin-Trading-on-the-OTC-Pink-Sheets-on-September-14"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "uN3SKXeJbOPE54Arji+uy8ATU4H3nXK6ZorgVlppnIDKJz/K/8GpTNloLPOLPfS2TBxXfKCTefLSwIKaLt4IDSIo8Cqs8f/VU9Yj62Xfdv1a0JaWE/xP16f11V1BTKlawDLAh4ZEDaehW/yWB4Uh5QMV9SCKJFxzc52wFNm/iyAXyHzaQKdCatHyMmoMpz+nRlORD99cxDtFphuMrolu+kg5ByAd7+f9Lw7wdCeyX2339FIiDJXF17v8+Vc2fCsPwf4V6OaoXUgCmIsGWg18hlG1GCTsOdy9OXgumripZ5mHZTjEB2qGJVvq478XBqbxNuShNqzqvMH1LyN4a6bKVSc27Ioa/oMHj8nWhafr6TU=;HMl4PEHUE3yNvHxEYroasQ=="
 ---

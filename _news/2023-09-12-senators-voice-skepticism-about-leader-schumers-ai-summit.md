@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna104615"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna104615"
 type: article
 quality: 87
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 2500
     height: 1667
     isCached: true
+
+related:
+  - title: "Schumer previews the next AI forum"
+    excerpt: "The next Senate AI forum will focus on how the government can encourage innovation to mitigate AI risks and unleash its potential, Senate Majority Leader Chuck Schumer told Axios in an interview ."
+    publishedDateTime: 2023-09-13T23:50:00Z
+    webUrl: "https://www.axios.com/pro/tech-policy/2023/09/13/schumer-previews-the-next-ai-forum"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 19
 
 secured: "CL5FOVgEYbWwvmutFeZ4saWHGONEmYH5sNS+1kmwqCnSS+3r4N3XSL4GvSi0lahc+4nE7Xb0GpVBLNeoCJAKkD/Wo+Pgy3I5g1ESRpGDVgVZLBTL2Z3KCQTthreKkFpVa592IU/w5umymj2akU2tazeJkerJoyS232rAxc0PxIP7QBu7f5f3xfihSDU34NalFEYNwGJDChr/Q4pJcvvHJjWuJwwj92/XjJimn9wuEDupXYy8bAxFI1Qt+/5dsThFEW/ZMpkMPhl3oyNIIcviRYgEF/NcARQgqfSoAJEHVTtG+qwVLI/I8oqhn6VXbjv9oS07HqAKsed5KbfWtzDURoOtjmbP3JVje7mSVelvqM49SlcFzJV5u8S8U9FoWomM1pOOcULVky6S+oleTcVDRRXqbotZIVUIbFb7rnceJSl678PNy6e42yrSVQAwYzv34MNMkP9E0N3GOsX16kcpEc9nLbhT61fHXjsWLDbgeLCtUIjjPXBu5cjdhVfX6w9TsypvL1+oEVggc4Q5lTRadA==;ZTlPfKr96abXcpxMU6KPrg=="
 ---

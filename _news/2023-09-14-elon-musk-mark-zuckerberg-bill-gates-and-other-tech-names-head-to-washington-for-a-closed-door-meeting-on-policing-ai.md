@@ -87,6 +87,20 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 41
+  - title: "'Overwhelming consensus' to regulate AI, says Elon Musk"
+    excerpt: "Top tech leaders, including Elon Musk, Mark Zuckerberg, Sundar Pichai and Bill Gates, met with US lawmakers on Wednesday to discuss AI governance. 'This meeting may go down in history as being very important for the future of civilisation,' Musk said."
+    publishedDateTime: 2023-09-13T23:08:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/world-us-canada-66805038"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 37
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/3466/production/_131041431_p0gdfsjh.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "In closed forum, tech titans to give senators advice on artificial intelligence"
     excerpt: "Senate Majority Leader Chuck Schumer has been talking for several months about accomplishing a potentially impossible task: Passing bipartisan legislation within the next year that both encourages the rapid development of artificial intelligence and"
     publishedDateTime: 2023-09-13T06:47:00Z
@@ -96,6 +110,15 @@ related:
       name: ABC
       domain: abcnews.go.com
     quality: 13
+  - title: "Congress huddles with tech experts in new push for AI rules: ‘There will be regulation’"
+    excerpt: "Senators are meeting with leading Big Tech executives this week as part of a new push to write rules for artificial intelligence focused on limiting danger and safeguarding innovation."
+    publishedDateTime: 2023-09-12T19:56:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/sep/12/congress-huddles-tech-experts-new-push-ai-rules-th/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 11
   - title: "Tech titans will give senators advice on artificial intelligence in a closed-door forum"
     excerpt: "Senate Majority Leader Chuck Schumer has been talking for months about accomplishing a potentially impossible task: passing bipartisan legislation within the next year that encourages the rapid develo"
     publishedDateTime: 2023-09-13T04:56:00Z
@@ -106,6 +129,6 @@ related:
       domain: washingtonpost.com
     quality: 9
 
-secured: "5XDjGPc1YM9xikvC4/HnHEVaRRaodfzXIJNsugIkZMEvt6QOAIIPqHmF1SgE896swrni/HGjt3ZMTCAql1VJ9ss9IaiD94sTnDikYzVEopDZ6RrDmHQErvVpERCarUR7keqo3w0GF3k2RDFBvo6LcispEieeK6WtQulTZJV6AwE6HFByXVcTho6nNWUv7fKZW+KyXrhb1SZoXGooz+9nxve4q63VLSYDM2MwCrEvyUstl+aKMIJ1QCfjAhB6YK7l/gkDkRQ6AHiWuX1b0Oh1Kmnru6DhnTVR775QMztsHv7mN8SadMnZ0dd7f8AgrvTgjIYOhu+shmZUTk42l+KhhyILtqBnlPjRD/7OR/NFr2s=;pd+4PNQrYENSkkcEGgrh0A=="
+secured: "nClTOdx9uint90MMzK/LmVlTOBfu9/FYMYoziVI+OCjcyyfiYZVcspguEnF2n0Jg43XINB9Zj7pEqz3EJbk6pUxuk5rzYRJX6IJywwoaXwdN8NNIApI8fv4S6vahBdSDrFUfcmQD/rGPJcQnvr3xU47bsIohivAjt0Wg9FXafX69uD+U6c5uGDe9KSoVzTfgTdTzFpxSoJgMEZNQFmAkic7lyXFpdD++jqZ1GYR/Mp4pD7KnkF6/X4vI7j/9GpFASnciIlr9JwlP+x73uqt121X1vDVputlC0g9otMGIp1ZhA2IheTu1mIb7uf6wuryW+2mNqG95513DntmZClLmxpJJIaUdhIjVsfiOaEgbzdtI/4Cz1pb0EyZxZAv+PAZjXiBZstREqSFeB+UzA/TYADdF9502npVE+Z1DSLFsakmCyvY4C0TBbiofs4blyjFs3nFSAD4wLHDXi+HIhuXzz5i0AJpjeU9nr51zeo90Fr4uRlfqZg/SdT4yRgStZxTXx9t0ph4wobL6Q5MhmsqDBA==;5lkbjIw8532k3uUAcpeHqA=="
 ---
 

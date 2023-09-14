@@ -1,12 +1,14 @@
 ---
 category: news
 title: "Is AI the Key to Improving Mental Healthcare Accessibility?"
-excerpt: "AI can improve mental health diagnosis, therapy, and treatment, increasing access and personalizing care. AI automation can help address therapist shortages, extend care to more people, and reduce costs. AI can assist people struggling with autism or PTSD, while mitigating biases and enhancing mental healthcare."
+excerpt: "AI uses diverse data sources, including medical records, social media, and online searches, aiding in identifying behavioral changes indicative of mental health issues. It can als"
 publishedDateTime: 2023-09-13T16:46:00Z
-originalUrl: "https://www.psychologytoday.com/intl/blog/motivate/202309/is-ai-the-key-to-improving-mental-healthcare-accessibility"
-webUrl: "https://www.psychologytoday.com/intl/blog/motivate/202309/is-ai-the-key-to-improving-mental-healthcare-accessibility"
+originalUrl: "https://www.psychologytoday.com/za/blog/motivate/202309/is-ai-the-key-to-improving-mental-healthcare-accessibility"
+webUrl: "https://www.psychologytoday.com/za/blog/motivate/202309/is-ai-the-key-to-improving-mental-healthcare-accessibility"
+ampWebUrl: "https://www.psychologytoday.com/za/blog/motivate/202309/is-ai-the-key-to-improving-mental-healthcare-accessibility?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/motivate/202309/is-ai-the-key-to-improving-mental-healthcare-accessibility?amp"
 type: article
-quality: 34
+quality: 74
 heat: -1
 published: false
 
@@ -17,6 +19,12 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-09/pexels-shvets-production-7203955.jpg?itok=IbqNoX8t"
+    width: 1528
+    height: 800
+    isCached: true
 
 related:
   - title: "Data Commons is using AI to make the world’s public data more accessible and helpful"
@@ -36,6 +44,6 @@ related:
         height: 731
         isCached: true
 
-secured: "XkuEVBLF0+qZwDvJXnXorHLjuk56rAY+n7L4B2DUonf802srxB0bFwAKLz0qUQ20YLFXXwYlbg164T7Rt3nwHrbBeixvaj4FD9Z7zniu8OzLXa/rDBJolEYh20l1wFYICxV2fk/QN57h/MUTKgAsR0Bh+yCcmJaRYDcXYvlQ0DPwz/fEjDXVb3HYYBjjKK54KxG3S5mu3O/09XHD9qWkVE4Zy0DLZ9RI0qPIuEWTMVxkUFP2wsnPRJY2PGu39+GRrnIFKI8liv4ZV87k47KQNhkSgheidGpf2DtRoMECleC+H2CsRe8M/WJYSPwoH7LKdw8RrZIgJNksjhJzLfBBZMxeeDROF75prbQAOzqmnLNGtzlWQ2sbW5m7Ahrb27xTOix3xuUx/hIbNTBv0GcTltTwQqFiN4UYe83DSMQ7z/SDMl9lhEcdoCAgVbPEEJaluDZltg7OzIh+rmOH9ExWRxnKgTs9dQsYYDk+8je0+YrBzDnrC5WHppPjDU1/dfiNhWZOY+7nWRmMyQAgXfOG7A==;1ie8HlSsVk1+B7U6YWzLkQ=="
+secured: "vi4PJGuaBd3HO3v8Ex48c/+T97anzKXL5XPR1T5zLn4a1KbAeGUZSiR/YKhR1/mfCm3T+zGC0Yy0y9VOAd9LSDJni3bLt1LeiLdifh356EC9kifLsMvzcKRCaEtNhIbdTHlkGGACAHWrwJJ1FE0TgbFd3tirXuXgDnCtXFe4oqgjQx7tS8Ha/Tn6vhoHqjD8cXCzlOASveiCu0thTdsI2LwsFKbnMRYtkLW5sUwIVlWBu3IdHHvhhiMtUEU3Az7F17Kh0X2yxv+6o4B5zp3HaKn4KbRzIFklP16beEhNyEX7fUXF7wXmsOEc06G7pzAurnkeDrCGegJiuDvqe92E0b2yBEesa7Dj/hBKf9RP6AI=;F0OKnXZPFIANfz0+3a5eSQ=="
 ---
 

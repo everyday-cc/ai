@@ -30,59 +30,139 @@ images:
     isCached: true
 
 related:
-  - title: "Europe In The Lead In AI Regulation"
-    excerpt: "Europe leads in AI regulation and the UK wants to be the locus of AI standards - if so it should locate its efforts in Northern Ireland."
-    publishedDateTime: 2023-09-09T06:49:00Z
-    webUrl: "https://www.forbes.com/sites/mikeosullivan/2023/09/09/europe-in-the-lead-in-ai-regulation/"
-    ampWebUrl: "https://www.forbes.com/sites/mikeosullivan/2023/09/09/europe-in-the-lead-in-ai-regulation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/09/09/europe-in-the-lead-in-ai-regulation/amp/"
+  - title: "Back To School With AI"
+    excerpt: "Exploration and adoption of artificial intelligence should be intentional not incidental. Mindful, not mindless."
+    publishedDateTime: 2023-09-11T14:55:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/09/11/back-to-school-with-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/09/11/back-to-school-with-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/09/11/back-to-school-with-ai/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64fc13766cd5e984ea1a562f/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64ff285cce8677245973b63c/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 904
+        height: 800
         isCached: true
-  - title: "Robots, regulation and real people: managing AI in the workplace"
-    excerpt: "While touched upon by existing financial, intellectual property and data protection regulation, the rise of generative AI has prompted regulatory bodies to craft bespoke regulation for AI."
-    publishedDateTime: 2023-09-13T08:54:00Z
-    webUrl: "https://www.thebanker.com/Robots-regulation-and-real-people-managing-AI-in-the-workplace-1694591764"
+  - title: "How to create your own comic books with AI"
+    excerpt: "Can't draw? No problem. The AI Comic Factory will generate comic book panels and pages based on your descriptions."
+    publishedDateTime: 2023-09-11T14:33:00Z
+    webUrl: "https://www.zdnet.com/article/how-to-create-your-own-comic-books-with-ai/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-create-your-own-comic-books-with-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-create-your-own-comic-books-with-ai/"
     type: article
     provider:
-      name: The Banker
-      domain: thebanker.com
-    quality: 54
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: "https://www.thebanker.com/var/ezflow_site/storage/images/media/images/ai-in-the-workplace/13076761-1-eng-GB/Ai-in-the-workplace.jpg"
-        width: 3000
-        height: 1687
+      - url: "https://www.zdnet.com/a/img/resize/19574269e5cd2e2aca58a49d3e037ffe269947d1/2023/09/11/3ed5d18c-4f4e-41de-baea-37cb0fcd0102/figure-top-how-to-use-ai-to-create-your-own-comic-books.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Congress Is Blowing It When It Comes to AI Regulation"
-    excerpt: "Critics have likened the decision to invite tech CEOs like Elon Musk and Mark Zuckerberg to Capitol Hill to discuss regulating AI as akin to letting “the fox design the henhouse.”"
-    publishedDateTime: 2023-09-13T21:10:00Z
-    webUrl: "https://www.thedailybeast.com/chuck-schumers-ai-summit-is-already-a-bust"
+  - title: "Hundreds of schools across U.S. using AI to help detect guns"
+    excerpt: "Hundreds of schools across the United States are using an artificial intelligence system that is designed to detect guns and prevent mass shootings. NBC News’ Rehema Ellis has a closer look at how the technology works."
+    publishedDateTime: 2023-09-10T23:19:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/hundreds-of-schools-across-u-s-using-ai-to-help-detect-guns-192654405889"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo192654405889"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo192654405889"
     type: article
     provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 37
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
     images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1694639222/BrowserPreview_tmp_nhuoyv"
-        width: 1480
-        height: 832
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_09/1694387934266_nn_rel_ai_school_security_230910_1920x1080-svvab6.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Congress huddles with tech experts in new push for AI rules: ‘There will be regulation’"
-    excerpt: "Senators are meeting with leading Big Tech executives this week as part of a new push to write rules for artificial intelligence focused on limiting danger and safeguarding innovation."
-    publishedDateTime: 2023-09-12T19:56:00Z
-    webUrl: "https://www.washingtontimes.com/news/2023/sep/12/congress-huddles-tech-experts-new-push-ai-rules-th/"
+  - title: "Adobe’s Firefly AI art tools go live, but with a credit plan"
+    excerpt: "Adobe has brought its Firefly generative AI tool out of beta, but with a complicate credit plan that will charge you free \"credits\" that will top up every month."
+    publishedDateTime: 2023-09-13T15:44:00Z
+    webUrl: "https://www.pcworld.com/article/2067182/adobe-fireflys-ai-tools-go-live-but-with-a-credit-plan.html"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 11
+      name: PC World
+      domain: pcworld.com
+    quality: 69
+    images:
+      - url: "https://www.pcworld.com/wp-content/uploads/2023/09/Adobe-Firefly-home-page.png?w=1024"
+        width: 1024
+        height: 611
+        isCached: true
+  - title: "Back-to-school for higher education sees students and professors grappling with AI in academia"
+    excerpt: "Turnitin, a popular resource used by schools to check for plagiarism within student assignments, searches text for signs it was generated by AI. When AI detection is indicated, the company recommends that teachers have conversations with their students and this will usually \"resolve\" the issue one way or another."
+    publishedDateTime: 2023-09-12T17:06:00Z
+    webUrl: "https://abcnews.go.com/US/back-school-higher-education-sees-students-professors-grappling/story?id=102617091"
+    ampWebUrl: "https://abcnews.go.com/amp/US/back-school-higher-education-sees-students-professors-grappling/story?id=102617091"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/back-school-higher-education-sees-students-professors-grappling/story?id=102617091"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 62
+    images:
+      - url: "https://s.abcnews.com/images/US/back-to-school-rf-gty-ml-230906_1694000485601_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "How To Stay Afloat In The AI Surge"
+    excerpt: "AI isn’t just a fleeting trend – AI is becoming more and more intertwined with our workflows. This rapid evolution offers immense technological benefits but has also introduced considerable challenges,"
+    publishedDateTime: 2023-09-12T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/esmtberlin/2023/09/12/how-to-stay-afloat-in-the-ai-surge/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "20 Ways Organizations Use AI To Interact With And Serve Customers"
+    excerpt: "From tailored experiences to engaging conversations to delivery tracking—and more—AI is changing the ways organizations interact with the people they serve."
+    publishedDateTime: 2023-09-12T19:14:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/12/20-ways-organizations-use-ai-to-interact-with-and-serve-customers/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Governments race to regulate AI tools"
+    excerpt: "Rapid advances in artificial intelligence (AI) such as Microsoft-backed OpenAI's ChatGPT are complicating governments' efforts to agree laws governing the use of the technology."
+    publishedDateTime: 2023-09-13T12:30:00Z
+    webUrl: "https://www.reuters.com/technology/governments-race-regulate-ai-tools-2023-09-13/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 47
+  - title: "Say hello to Coach AI"
+    excerpt: "Coursera chief executive officer Jeff Maggioncalda wants to give you an AI-generated personal tutor. The online learning platform has recently launched Coach, a chatbot tool that plugs into ChatGPT. It answers questions by sifting through and summarising Coursera’s entire curricula."
+    publishedDateTime: 2023-09-10T01:10:00Z
+    webUrl: "https://gulfbusiness.com/coursera-say-hello-to-coach-ai/"
+    type: article
+    provider:
+      name: Gulf Business
+      domain: gulfbusiness.com
+    quality: 39
+    images:
+      - url: "https://gulfbusiness.com/wp-content/uploads/2023/09/coach-ai2.jpg"
+        width: 930
+        height: 620
+        isCached: true
+  - title: "An AI reality check"
+    excerpt: "While thousands and thousands of people have been working with artificial intelligence for years ... at AI’s medical applications and drug development — how you can tailor therapy and predict response to treatment. If humans ask the right questions ..."
+    publishedDateTime: 2023-09-11T17:00:00Z
+    webUrl: "https://www.mmm-online.com/home/channel/features/an-ai-reality-check/"
+    type: article
+    provider:
+      name: MM&M
+      domain: mmm-online.com
+    quality: 39
+    images:
+      - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2023/09/MMM_September-2023-_Web-Art0011280-x-900.jpg"
+        width: 1024
+        height: 720
+        isCached: true
 
 secured: "kc86Aqka1jXpDLCqgGfS4Tnpf4+uQ0e+Bnn0sPrtWOqLPnIpv45VN5HzuvAoRaWm+oFMw6PPTzpLFL9pYoAdzHmO9FmMYS5RuQRQSwmiA1gj5ug+Gt13rv+SGNd11MEwVHM3hlEUV4W5p0L1O3fynDqhhc2Ul9EWcDWvPl9kxgW7DStictXzX836gBhYhaI7ieAh16KnsmKIKJTxGk2/JDgStTPupvX/Bg5dpuhiJPzdt90Q3EnKkZh4fCt7zRJkHmkfXzZQlVvlNsGKfq8iuzJYJKrkQa6L9LgRiyBWR447vauKgP3dqvYReE2OtsxW4sAfar8lPo3to5J9r24QilVSKUZdifJA1gaD45w+Mo3dehQogs6Ynt4LHncjQcM+x7qnT4019bvHyrmFQeMt70dL2W6FeeOZQg7cvfntsqDcCcV2IyYfc2FJsWB/CRDshT6CAYoGykr5qjiOGVwUm9ix3a94kJgxA6+C39idC1D/jjhRUY/zpI0HAPRhSVCWfB6EoDqQxkuimxCn3R9fNg==;VjxAhIW8OabUOwUIze7SBA=="
 ---

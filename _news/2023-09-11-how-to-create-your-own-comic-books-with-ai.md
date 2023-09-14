@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How To Regulate Artificial Intelligence"
+    excerpt: "In summary, this approach to algorithmic regulation gives enumerated existing agencies access to new regulatory tools to control algorithms used in areas under their jurisdiction when the use of these algorithms poses a significant risk of substantial harm that the agency is empowered to prevent under its existing statute."
+    publishedDateTime: 2023-09-11T13:59:00Z
+    webUrl: "https://www.forbes.com/sites/washingtonbytes/2023/09/11/how-to-regulate-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/washingtonbytes/2023/09/11/how-to-regulate-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/washingtonbytes/2023/09/11/how-to-regulate-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64ff1c3b731e9cb353f9e2c7/0x0.jpg?format=jpg&crop=1823,1026,x0,y91,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Hundreds of schools across U.S. using AI to help detect guns"
     excerpt: "Hundreds of schools across the United States are using an artificial intelligence system that is designed to detect guns and prevent mass shootings. NBC News’ Rehema Ellis has a closer look at how the technology works."
     publishedDateTime: 2023-09-10T23:19:00Z

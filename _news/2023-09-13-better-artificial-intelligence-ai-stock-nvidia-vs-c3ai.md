@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/09/13/better-ai-stock-nvidia-v
 webUrl: "https://www.fool.com/investing/2023/09/13/better-ai-stock-nvidia-vs-c3-ai/"
 type: article
 quality: 82
-heat: 112
+heat: 123
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "2 Artificial Intelligence (AI) Stocks to Buy in September 2023 That Could Soar Like Nvidia"
+    excerpt: "Amazon Rekognition, and Alexa. The company has also launched a pair of custom AI chips, Trainium and Inferentia, for training and inference of large language models. The market has been taking ..."
+    publishedDateTime: 2023-09-11T02:37:00Z
+    webUrl: "https://www.fool.com/investing/2023/09/10/2-artificial-intelligence-ai-stocks-to-buy-in-sept/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 74
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/746928/analyst_studying_stock_charts.jpg"
+        width: 2120
+        height: 1414
+        isCached: true
   - title: "NVIDIA Partners with Tata Group to Develop AI Supercomputer, Cloud in India"
     excerpt: "U.S. chipmaker NVIDIA and Indian conglomerate Tata Group have announced a major partnership to accelerate the adoption of artificial intelligence (AI) in India. The announcement follows, the US chip designer’s collaboration with Mukesh Ambani’s ..."
     publishedDateTime: 2023-09-09T09:05:00Z

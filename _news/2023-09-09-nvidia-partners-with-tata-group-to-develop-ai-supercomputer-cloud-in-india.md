@@ -43,6 +43,20 @@ related:
         width: 2051
         height: 1461
         isCached: true
+  - title: "2 Artificial Intelligence (AI) Stocks to Buy in September 2023 That Could Soar Like Nvidia"
+    excerpt: "Amazon Rekognition, and Alexa. The company has also launched a pair of custom AI chips, Trainium and Inferentia, for training and inference of large language models. The market has been taking ..."
+    publishedDateTime: 2023-09-11T02:37:00Z
+    webUrl: "https://www.fool.com/investing/2023/09/10/2-artificial-intelligence-ai-stocks-to-buy-in-sept/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 74
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/746928/analyst_studying_stock_charts.jpg"
+        width: 2120
+        height: 1414
+        isCached: true
   - title: "Nvidia: Another Reason Why Buying This Artificial Intelligence (AI) Stock Is a No-Brainer Now"
     excerpt: "Nvidia's (NASDAQ: NVDA) artificial intelligence (AI)-driven surge shows no signs of stopping. The company's results for the second quarter of fiscal 2024 (ended July 30, 2023), which were released last month,"
     publishedDateTime: 2023-09-09T13:45:00Z

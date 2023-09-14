@@ -7,7 +7,7 @@ originalUrl: "https://www.thedailybeast.com/chuck-schumers-ai-summit-is-already-
 webUrl: "https://www.thedailybeast.com/chuck-schumers-ai-summit-is-already-a-bust"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,62 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Europe In The Lead In AI Regulation"
-    excerpt: "Europe leads in AI regulation and the UK wants to be the locus of AI standards - if so it should locate its efforts in Northern Ireland."
-    publishedDateTime: 2023-09-09T06:49:00Z
-    webUrl: "https://www.forbes.com/sites/mikeosullivan/2023/09/09/europe-in-the-lead-in-ai-regulation/"
-    ampWebUrl: "https://www.forbes.com/sites/mikeosullivan/2023/09/09/europe-in-the-lead-in-ai-regulation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/09/09/europe-in-the-lead-in-ai-regulation/amp/"
+  - title: "In a split Congress, artificial intelligence is one area of agreement"
+    excerpt: "The technology community has, so far, seemed to welcome the opportunity to work with lawmakers on a responsible path forward."
+    publishedDateTime: 2023-09-13T17:51:00Z
+    webUrl: "https://www.kristv.com/in-a-split-congress-artificial-intelligence-is-one-area-of-agreement"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: kristv
+      domain: kristv.com
+    quality: 37
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64fc13766cd5e984ea1a562f/0x0.jpg?format=jpg&width=1200"
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/e987c95/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1694621389_zis0IZ.jpg"
         width: 1200
-        height: 904
+        height: 630
         isCached: true
-  - title: "How To Regulate Artificial Intelligence"
-    excerpt: "In summary, this approach to algorithmic regulation gives enumerated existing agencies access to new regulatory tools to control algorithms used in areas under their jurisdiction when the use of these algorithms poses a significant risk of substantial harm that the agency is empowered to prevent under its existing statute."
-    publishedDateTime: 2023-09-11T13:59:00Z
-    webUrl: "https://www.forbes.com/sites/washingtonbytes/2023/09/11/how-to-regulate-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/washingtonbytes/2023/09/11/how-to-regulate-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/washingtonbytes/2023/09/11/how-to-regulate-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64ff1c3b731e9cb353f9e2c7/0x0.jpg?format=jpg&crop=1823,1026,x0,y91,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Robots, regulation and real people: managing AI in the workplace"
-    excerpt: "While touched upon by existing financial, intellectual property and data protection regulation, the rise of generative AI has prompted regulatory bodies to craft bespoke regulation for AI."
-    publishedDateTime: 2023-09-13T08:54:00Z
-    webUrl: "https://www.thebanker.com/Robots-regulation-and-real-people-managing-AI-in-the-workplace-1694591764"
-    type: article
-    provider:
-      name: The Banker
-      domain: thebanker.com
-    quality: 54
-    images:
-      - url: "https://www.thebanker.com/var/ezflow_site/storage/images/media/images/ai-in-the-workplace/13076761-1-eng-GB/Ai-in-the-workplace.jpg"
-        width: 3000
-        height: 1687
-        isCached: true
-  - title: "Congress huddles with tech experts in new push for AI rules: ‘There will be regulation’"
-    excerpt: "Senators are meeting with leading Big Tech executives this week as part of a new push to write rules for artificial intelligence focused on limiting danger and safeguarding innovation."
-    publishedDateTime: 2023-09-12T19:56:00Z
-    webUrl: "https://www.washingtontimes.com/news/2023/sep/12/congress-huddles-tech-experts-new-push-ai-rules-th/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 11
 
-secured: "I9km8TxKPJhMhTdxixVeHiadTb2hY+t2uN+rKK93466qdo56YqM5j6gmVt1Z+ug8ruceDIe10+UIJZ3xFtPlLAaU4M3V1sss7eUHoWOGTA4imwmSRLHIBqJkZdzamJo+n2DUWdw+U1cddLiOw3iPmAZ63nnynMct6zr2Bwl0Jc56kjMDtTdiFAYGVmU8N1o9ufmjga3SfFPswr0RpFGqtHwBiBj0HKoU5wE2bnMcknxolQl9JA42rdNQihhuKh6UKxrR2Dyso9138zJsbXkAKrq6NYixIZ32h820HXSfjLPULmUGJxsFdrsFtPo++EZV0ieWme3R/nSsdJyrY1CRtPouVo8MCWADy+U0kuZRF/E=;Q7cK7Hs/rvtnjMfy4pwlZg=="
+secured: "MC9GLiqGlqAcChCPgzEmGLh1s8cR5wf25FQvYtHHOjuukr/JoLR2uX5RRKpXi8Rs7jLrkrDBE+r47xbPeCZFJY3x9frTdXms0bvfHiLvAEYHOSP/zeAoPAjQTc1GDDORIgybcsasRuk3T1qbz7JGFkqIWtdGRn3qI4KXGzO3QqJEjkSRfQa4J6nhQP8GHMtN6GsgI8ACZCOQPhTkOqfXj7hcV+1Kls8+YnwsO4VB1ZLCRkie4t9uIWmyyPsWV5UGgMfBKksvsFCXzorOprNOIBGiks7fDWZ+2VxHuToDIJaUJfkpCyZexjC5IOsroLXp1rvEKO2RpWUHyH7t9+mbVOopniwrOzaECzhlOCCAPfZugTBHFapS8ukpaHXYuTnDXgtay/TMnFnQp3Ej1Y5/RXQSxlpjo9IQSaGTOW9t6FbUtHu2aPEmetOUyq8Ai1hI4xR8AZspkE2fd7yf2wU8chYUZKag2z8P8afErWVND01Xd8nWiTmYZY6WXXUSrd1ywG68LGggvh2mg2MvXg4Ujg==;O15G2x3UaAdzlXkvDm/q7A=="
 ---
 

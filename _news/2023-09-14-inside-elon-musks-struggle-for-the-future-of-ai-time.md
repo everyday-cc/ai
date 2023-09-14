@@ -24,17 +24,6 @@ images:
     height: 1280
     isCached: true
 
-related:
-  - title: "Elon Musk and Others Call for Pause on A.I., Citing 'Profound Risks … – The New York Times"
-    excerpt: "More than 1,000 technology leaders and researchers, including Elon Musk, have urged artificial intelligence labs to pause development of the most advanced systems, warning in an open letter that A.I."
-    publishedDateTime: 2023-09-09T06:17:00Z
-    webUrl: "https://www.inferse.com/707848/elon-musk-and-others-call-for-pause-on-a-i-citing-profound-risks-the-new-york-times/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 0
-
-secured: "aaS1FXTjJtZXX7ZyThyRYvMtJ+SY4vtpy4btP/GE+0223ktsDzx7T2KfFySYveIWj8hYwFEDw3q9NIxBHh3/3axr7ag9omu6agkBd9h6njCiumyA4v+vh8BkCZdmkTurMkuUJg66LGbXx5Otgx7FoqD3TYX3nM/79QeE6IYSgQwrKTeppnJKgpINBQmS8m/8/fxFk0mJRl/auECm50EjFOjstJ8msHvhqkaKgHA/T0h9Q4gDl+O4QLnb3d+v84CzPaoT97sbkDGomKK+pu9JYZvARP2l8c1nSs0Rv02XJLq4bi0yz2hCD1lEdTbPe68agFwyQHEZS/WURn7DpXDBbI/EXVy4yRXK4XG0hcQ0qeU=;RCEMCIGowYfwR9gkFkg3vQ=="
+secured: "hch43B1zbAkjBPtJ8LDgHeF4ceMeMWwxYufIxPn7NX6w9Y6dBiuPjazX/2iNgYqzxsCTDMBkkImJIBNkm1+X0I1QS6tq0nfCU4pTDQZVSeCtla7f62Xm26+FqP59Ez5bVMmpjD1sozQAuv9KtH6K6Q+R4/0gsu5Fj2bpC9yeZTk+jol/joOFW7OISDY8e8k81f6RHQzruq3Z3h84EgH6lZ51HoB+sO6eSPmE6Il9wiXml7QbXagg1q8QmKLAT3NHT5B8+7MxsjGpBxkmdpCGxXSu9ERXKl+lSwm4Dqo2cKO1YaEQlQDv0kKdzaJyWnn2RHNpojxFddQIK+YyGy4bLk3VwA9yosNZgj0/MEcd5WHK1IhHNca6Lp1v7Suji6NVX+Xb2H6lVM8zgeV8F0ptjm8uIwbSbdpV+cSJumuvyeuDmu48cv+gTUiACpzx4JhdDN76RJ9eVo0wwevh9FEvH+yDnELzv6bGVKLuj6O+VPVhjyFqqUj9Knss3+FV2MftOoVFZ58/y5bozV1yU48Svg==;6/5jn1L8k7xM9LdqpyFWbw=="
 ---
 

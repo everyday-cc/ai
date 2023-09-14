@@ -58,6 +58,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "2023 | AI in Computer Vision Market Size, Restricted Information Analysis Forecast 2030"
+    excerpt: "\"AI in Computer Vision Market| Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest 109 Pages Report The extent and overview of the various commercial ..."
+    publishedDateTime: 2023-09-10T20:07:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/34414042/2023-ai-in-computer-vision-market-size-restricted-information-analysis-forecast-2030"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34414042"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34414042"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 66
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "artec technologies AG: New development of AI-based speech recognition with integrated translation function"
     excerpt: "Diepholz - September 11, 2023 - artec technologies AG, a provider of audiovisual solutions for media monitoring, sets new standards in the industry with its latest development: an AI-driven, multilingual speech recognition (Speech-to-text, S2T) with integrated translation function."
     publishedDateTime: 2023-09-11T16:28:00Z

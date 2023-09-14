@@ -116,6 +116,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Tech titans are giving senators advice on artificial intelligence in a closed-door forum"
+    excerpt: "Senate Majority Leader Chuck Schumer convened a meeting of some of the country’s most prominent technology executives to ask them how Congress should do it."
+    publishedDateTime: 2023-09-13T22:19:00Z
+    webUrl: "https://www.hawaiinewsnow.com/2023/09/13/tech-titans-are-giving-senators-advice-artificial-intelligence-closed-door-forum/"
+    ampWebUrl: "https://www.hawaiinewsnow.com/2023/09/13/tech-titans-are-giving-senators-advice-artificial-intelligence-closed-door-forum/?outputType=amp"
+    cdnAmpWebUrl: "https://www-hawaiinewsnow-com.cdn.ampproject.org/c/s/www.hawaiinewsnow.com/2023/09/13/tech-titans-are-giving-senators-advice-artificial-intelligence-closed-door-forum/?outputType=amp"
+    type: article
+    provider:
+      name: Hawaii News Now
+      domain: hawaiinewsnow.com
+    quality: 50
+    images:
+      - url: "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/eKpFld_qYRBoO53LMYlR5HqEFIc=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/KFPQKURCMVF5HE3LDVSKFMVH2I.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Pilot Trading Launches Innovative AI Signals Only Mode for Traders"
     excerpt: "- Brokerage Compatibility: The Pilot Trading app in Signals Only Mode, stands independently, allowing you to continue using your preferred brokerage, ensuring a hassle-free and flexible trading experience."
     publishedDateTime: 2023-09-12T11:54:00Z
@@ -199,15 +215,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
-  - title: "Tech titans are giving senators advice on artificial intelligence in a closed-door forum"
-    excerpt: "Senate Majority Leader Chuck Schumer convened a meeting of some of the country’s most prominent technology executives to ask them how Congress should do it."
-    publishedDateTime: 2023-09-13T19:19:00Z
-    webUrl: "https://www.wsfa.com/2023/09/13/tech-titans-are-giving-senators-advice-artificial-intelligence-closed-door-forum/"
-    type: article
-    provider:
-      name: WSFA
-      domain: wsfa.com
-    quality: 10
   - title: "Phenom AI Day Agenda Preview: Technical Experts to Demonstrate and Explain AI's Application for Human Resources"
     excerpt: "AI Day agenda published - Phenom experts to demonstrate and explain AI's role for empowering organizations to hire faster, develop better and retain longer, while reaching new levels of efficiency. This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20230913537994/en/"
     publishedDateTime: 2023-09-13T14:17:00Z
@@ -227,6 +234,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "Q6jxYqrKtfYDS/5tusEx+PiytPR54Gy2Y8OsNHMnO5C3FPhznIPnYmyJ/OBy22UI+rXQ+qizqQ9ixk/INYBZg5vH+kZ4Qx4ia7nSt9wzHsDe/Dy7MoyhpNZy+erTPXYNS7mIPH3Ri+uVlxbAInT3ecG1y0NhE7GC0pgFAHpLg4QyNMFzb4z6gbLI6Vx83KrsM9TTsP5svTtjQw4pFTLmcQOqfKUE2DSPLb4HpI+FNbWInyOpVwNT5H5cdcvxbUKcJonkQBEtpnUOYlHKt2FBma5JIkF7+ZVUfp9v6FCcz332uzHPeXyUzyHHW/Y7h205DHsA12OCshRbqjJ88FdoFPGDB9iMfcShnuCTZIq2QQU=;lcvNwRkB47Nd2/z6E+Ds7g=="
+secured: "d2swyUPcu6GpbXtZVHkE9+EH5QbownOI3ucuSLKkgmOC6mmCNd9eowgyW3a/BydlT05mpb6+WKcCsc33tR2Oa+jukn3zpzGFFyv23AModceEIyclM4jGajdUKU0DShDueGO59sB1MA1tNy6jRCQC/wqrazXYz6FbM+wvIzbPAEnj1Nso4Tt8JgDajCWZlSvKjfifDNnRtoPyPiuJaAV3U5ScKGERFBNq9pA7O5RnpgfvYV+ItLLTQl7eWfb14s5VWIq4dW9rYNCHYU8cfeWHfOIoupmTTCC/Gh8iIDE2ETgHb11LxurLwI479lvX9HbmwasVn1NBi8y8EW5I9I8hhuup4VlT/3npYhISOe4CRuXdeo2O4oh13Hs9C/owCoi2DqwOwLYAbEcfuotu4aylW1J9nTtuGBglH0NInzAZS8RpZZVXBqSS6am1UAOjIdumXHKqJi0uQAkoY1PYAilPpj5KMU7BR7RgLhatpUGheCIqir2RRVHxpCDL8bGlg36h2revxIptSbZV026IWywdbA==;CQRdjUyKBIq3RoT9Ihk8yg=="
 ---
 

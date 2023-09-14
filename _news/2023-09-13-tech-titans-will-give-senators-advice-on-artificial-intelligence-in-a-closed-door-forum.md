@@ -91,6 +91,20 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 41
+  - title: "'Overwhelming consensus' to regulate AI, says Elon Musk"
+    excerpt: "Top tech leaders, including Elon Musk, Mark Zuckerberg, Sundar Pichai and Bill Gates, met with US lawmakers on Wednesday to discuss AI governance. 'This meeting may go down in history as being very important for the future of civilisation,' Musk said."
+    publishedDateTime: 2023-09-13T23:08:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/world-us-canada-66805038"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 37
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/3466/production/_131041431_p0gdfsjh.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "In closed forum, tech titans to give senators advice on artificial intelligence"
     excerpt: "Senate Majority Leader Chuck Schumer has been talking for several months about accomplishing a potentially impossible task: Passing bipartisan legislation within the next year that both encourages the rapid development of artificial intelligence and"
     publishedDateTime: 2023-09-13T06:47:00Z
@@ -100,6 +114,15 @@ related:
       name: ABC
       domain: abcnews.go.com
     quality: 13
+  - title: "Congress huddles with tech experts in new push for AI rules: ‘There will be regulation’"
+    excerpt: "Senators are meeting with leading Big Tech executives this week as part of a new push to write rules for artificial intelligence focused on limiting danger and safeguarding innovation."
+    publishedDateTime: 2023-09-12T19:56:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/sep/12/congress-huddles-tech-experts-new-push-ai-rules-th/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 11
 
 secured: "ul42akHMrEUQTpqMGlfoZW4koBcqaVvPm32PVoGl7aQsPfEBYZuEct6aG1oNsSHH1E8eS5muBqCkjZZUUk5FNDj4RRPkGl4IC5N9/mdNqZPOwBnGL76bawW+X5hyiYRaZto/YfCmCBk9s8uZam+RZvftB3NC5ZWQksqdBEowwchyLpIhJLHBuiSogFBADcfbFH/irOhVykzm7k6RjxnL5aangxgo1GcWaFmY8gVZZBWsElVpD9vSz5fAyKccsWas0TIpAHPAn21CuH86XhXs5yXCgXmI46EUxbaUclSUKK9yonMiKzKSl4v0x5lqbtNqyWbosn14lH5HxuMCuBfPzuVjkm4L6GedmyiXBT3gjA1rRP3AYMN04JDS1XFX1kk/QlVrYcKpHnytKh0ij3Sh9os5L6naq3cFH6E0seQ/0+K8TgB1OuQUk9YCFwWG/p92eyoctpllWFY95x5oqWb56SIIvvOfZgNpIDsBz8n5cduKeaCBY5XMfXnakylEFj2Jvljt11fcKSpq9+4dbxEvvA==;XIIOldu/GPi1gkU0s64Fsg=="
 ---

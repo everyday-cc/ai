@@ -6,8 +6,8 @@ publishedDateTime: 2023-09-09T09:00:00Z
 originalUrl: "https://www.nytimes.com/2023/09/09/technology/google-facebook-facial-recognition.html"
 webUrl: "https://www.nytimes.com/2023/09/09/technology/google-facebook-facial-recognition.html"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Computer Vision
 
 images:
   - url: "https://static01.nyt.com/images/2023/09/10/business/10Face-glasses-promo-sub/10Face-glasses-promo-sub-facebookJumbo.png"

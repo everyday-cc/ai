@@ -19,66 +19,111 @@ topics:
   - AI
 
 related:
-  - title: "Europe In The Lead In AI Regulation"
-    excerpt: "Europe leads in AI regulation and the UK wants to be the locus of AI standards - if so it should locate its efforts in Northern Ireland."
-    publishedDateTime: 2023-09-09T06:49:00Z
-    webUrl: "https://www.forbes.com/sites/mikeosullivan/2023/09/09/europe-in-the-lead-in-ai-regulation/"
-    ampWebUrl: "https://www.forbes.com/sites/mikeosullivan/2023/09/09/europe-in-the-lead-in-ai-regulation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/09/09/europe-in-the-lead-in-ai-regulation/amp/"
+  - title: "Elon Musk and Mark Zuckerberg will talk AI rules in Senate forum on Wednesday"
+    excerpt: "Senate Majority Leader Chuck Schumer is convening an AI forum on Wednesday, bringing together big names in tech including Mark Zuckerberg and Elon Musk."
+    publishedDateTime: 2023-09-12T11:00:00Z
+    webUrl: "https://www.marketwatch.com/story/elon-musk-and-mark-zuckerberg-will-talk-ai-rules-in-senate-forum-on-wednesday-296d6ffe"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/elon-musk-and-mark-zuckerberg-will-talk-ai-rules-in-senate-forum-on-wednesday-296d6ffe"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/elon-musk-and-mark-zuckerberg-will-talk-ai-rules-in-senate-forum-on-wednesday-296d6ffe"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64fc13766cd5e984ea1a562f/0x0.jpg?format=jpg&width=1200"
+      - url: "https://images.mktw.net/im-849947/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Elon Musk, Mark Zuckerberg, Bill Gates and other tech leaders in closed Senate session about AI"
+    excerpt: "N.Y., hosted the panel of tech, labor and civil rights leaders as part of the Senate's inaugural \"AI Insight Forum.\""
+    publishedDateTime: 2023-09-13T18:48:00Z
+    webUrl: "https://www.cnbc.com/2023/09/13/musk-zuckerberg-among-tech-leaders-visiting-senate-to-speak-about-ai-.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/09/13/musk-zuckerberg-among-tech-leaders-visiting-senate-to-speak-about-ai-.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/13/musk-zuckerberg-among-tech-leaders-visiting-senate-to-speak-about-ai-.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 75
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107300100-16946163562023-09-13t142809z_977388899_rc2m73a815je_rtrmadp_0_usa-ai-congress.jpeg?v=1694638090"
+        width: 3500
+        height: 2434
+        isCached: true
+  - title: "Elon Musk, Mark Zuckerberg, Bill Gates and other tech names head to Washington for a closed-door meeting on policing AI"
+    excerpt: "Some of the biggest tech leaders in the world, like Elon Musk and Mark Zuckerberg, gathered in Washington to discuss ways to potentially police AI."
+    publishedDateTime: 2023-09-13T20:53:00Z
+    webUrl: "https://www.businessinsider.com/how-to-regulate-ai-tech-washington-musk-zuckerberg-gates-altman-2023-9"
+    ampWebUrl: "https://www.businessinsider.com/how-to-regulate-ai-tech-washington-musk-zuckerberg-gates-altman-2023-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-regulate-ai-tech-washington-musk-zuckerberg-gates-altman-2023-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
+    images:
+      - url: "https://i.insider.com/6501f7f8992da60019eba99b?width=1200&format=jpeg"
         width: 1200
-        height: 904
+        height: 600
         isCached: true
-  - title: "How To Regulate Artificial Intelligence"
-    excerpt: "In summary, this approach to algorithmic regulation gives enumerated existing agencies access to new regulatory tools to control algorithms used in areas under their jurisdiction when the use of these algorithms poses a significant risk of substantial harm that the agency is empowered to prevent under its existing statute."
-    publishedDateTime: 2023-09-11T13:59:00Z
-    webUrl: "https://www.forbes.com/sites/washingtonbytes/2023/09/11/how-to-regulate-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/washingtonbytes/2023/09/11/how-to-regulate-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/washingtonbytes/2023/09/11/how-to-regulate-artificial-intelligence/amp/"
+  - title: "Mark Zuckerberg’s Meta working on a new, more advanced AI model to rival OpenAI’s GPT-4"
+    excerpt: "Mark Zuckerberg’s Meta is working on building a new AI model that will be more powerful than its current model Llama 2, and will rival the capabilities of OpenAI’s GPT-4."
+    publishedDateTime: 2023-09-11T03:35:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/mark-zuckerberg-s-meta-working-on-a-new-more-advanced-ai-model-to-rival-openai-s-gpt4-71694403038916.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/mark-zuckerberg-s-meta-working-on-a-new-more-advanced-ai-model-to-rival-openai-s-gpt4-71694403038916.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/mark-zuckerberg-s-meta-working-on-a-new-more-advanced-ai-model-to-rival-openai-s-gpt4-71694403038916.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 51
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64ff1c3b731e9cb353f9e2c7/0x0.jpg?format=jpg&crop=1823,1026,x0,y91,safe&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://images.hindustantimes.com/tech/img/2023/09/11/1600x900/FILES-CANADA-INTERNET-MEDIA-ADVERTISING-GOOGLE-1_1694403099531_1694403116763.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Robots, regulation and real people: managing AI in the workplace"
-    excerpt: "While touched upon by existing financial, intellectual property and data protection regulation, the rise of generative AI has prompted regulatory bodies to craft bespoke regulation for AI."
-    publishedDateTime: 2023-09-13T08:54:00Z
-    webUrl: "https://www.thebanker.com/Robots-regulation-and-real-people-managing-AI-in-the-workplace-1694591764"
+  - title: "Musk, Zuckerberg, Gates: The titans of tech will talk AI at private Capitol summit"
+    excerpt: "This week will feature a series of public hearings on artificial intelligence. But all eyes will be on the closed-door gathering convened by Senate Majority Leader Chuck Schumer."
+    publishedDateTime: 2023-09-11T12:34:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/musk-zuckerberg-gates-ai-congress-meeting-testify-rcna103922"
     type: article
     provider:
-      name: The Banker
-      domain: thebanker.com
-    quality: 54
-    images:
-      - url: "https://www.thebanker.com/var/ezflow_site/storage/images/media/images/ai-in-the-workplace/13076761-1-eng-GB/Ai-in-the-workplace.jpg"
-        width: 3000
-        height: 1687
-        isCached: true
-  - title: "Congress Is Blowing It When It Comes to AI Regulation"
-    excerpt: "Critics have likened the decision to invite tech CEOs like Elon Musk and Mark Zuckerberg to Capitol Hill to discuss regulating AI as akin to letting “the fox design the henhouse.”"
-    publishedDateTime: 2023-09-13T21:10:00Z
-    webUrl: "https://www.thedailybeast.com/chuck-schumers-ai-summit-is-already-a-bust"
+      name: NBC News
+      domain: nbcnews.com
+    quality: 41
+  - title: "'Overwhelming consensus' to regulate AI, says Elon Musk"
+    excerpt: "Top tech leaders, including Elon Musk, Mark Zuckerberg, Sundar Pichai and Bill Gates, met with US lawmakers on Wednesday to discuss AI governance. 'This meeting may go down in history as being very important for the future of civilisation,' Musk said."
+    publishedDateTime: 2023-09-13T23:08:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/world-us-canada-66805038"
     type: article
     provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
+      name: BBC
+      domain: bbc.co.uk
     quality: 37
     images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1694639222/BrowserPreview_tmp_nhuoyv"
-        width: 1480
-        height: 832
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/3466/production/_131041431_p0gdfsjh.jpg"
+        width: 1024
+        height: 576
         isCached: true
+  - title: "In closed forum, tech titans to give senators advice on artificial intelligence"
+    excerpt: "Senate Majority Leader Chuck Schumer has been talking for several months about accomplishing a potentially impossible task: Passing bipartisan legislation within the next year that both encourages the rapid development of artificial intelligence and"
+    publishedDateTime: 2023-09-13T06:47:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/closed-forum-tech-titans-give-senators-advice-artificial-103142197"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 13
+  - title: "Tech titans will give senators advice on artificial intelligence in a closed-door forum"
+    excerpt: "Senate Majority Leader Chuck Schumer has been talking for months about accomplishing a potentially impossible task: passing bipartisan legislation within the next year that encourages the rapid develo"
+    publishedDateTime: 2023-09-13T04:56:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2023/09/13/schumer-artificial-intelligence-elon-musk-senate/aa38d8cc-51ea-11ee-accf-88c266213aac_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 9
 
 secured: "b31RyOybthO2JcgQIPZcDxaBot1K3ggY/YyAJ0BFkLLPOcj9U7MTozrNoqVedxamxZnM4Mr8BBa8Ai6fitdjoXwbIyWAfifjn3GUsGEorqf6EWe/QbND2d3fPWeHsnEaJMmeYPm6GJj/QDRma915hUsH9LiZtiRTqowgLSm3wvFe43j80NKyjrgHdn0dQFkQbqVJzkH+91VDVjQvgRH0skN6+sndCf0/UC0sdWPM7UuuF7qrHFnwlwItuA93p/VfLNml/ygCgWPNLLu76XaDcRfoWiU0iQAmPPbFv6ATPso56iRNBLYTz6PgHdPGfCyu6oG/tW6SJCH2roU80+Us30gyWCa7/5uQ3KVE5agC9RGVg/X3QJPi5jKL/iNOl7R5p7EHILPCxlqNzroRXBZMWD0CD451N7CVsR7xmGjNZpEaELBLNNBs0E7qCoO6jBp+ddRO74/iBNAGmeDBrN8kIzscsgEfPdukE9D7a4xMs/PxDPPdiCvhHD4WSmU0ii9m8NFyAo5OjdHcDpgrWzEUuQ==;limhIXYAECByGJBnxlb8mw=="
 ---

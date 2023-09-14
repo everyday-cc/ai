@@ -9,7 +9,7 @@ ampWebUrl: "https://www.insidermonkey.com/blog/top-5-ai-and-robotics-companies-t
 cdnAmpWebUrl: "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/top-5-ai-and-robotics-companies-transforming-the-agriculture-sector-1192684/?amp=1"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/Artificial-Intelligence.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "15 Years After The Financial Crisis: Data And AI Transformation Efforts Progress Slowly For Many Leading Companies"
+    excerpt: "Activities requiring advanced analytics, machine learning, and artificial intelligence (AI) have been incorporated into the CDO/CDAO mandate."
+    publishedDateTime: 2023-09-13T23:48:00Z
+    webUrl: "https://www.forbes.com/sites/randybean/2023/09/13/15-years-after-the-financial-crisis-data-and-ai-transformation-efforts-progress-slowly-for-many-leading-companies/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 45
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/650249796bd38da89c9fe77b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "The AI age brings promise and troubles"
     excerpt: "“If you’re doing a deal, and you’re getting a bunch of representations and warranties, there are different ways that AI events could manifest to impact them.” Mr Willmott thought that we might soon start to see AI exclusions included in insurance ..."

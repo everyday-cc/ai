@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/companies/news/hottest-gpu-maker-s-india-pl
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/hottest-gpu-maker-s-india-playbook/amp-11694625393998.html"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Mint
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia bets on India with Tata Group, Reliance Industries AI partnerships"
+    excerpt: "According to Nvidia CEO Jensen Huang, India 'possesses [the] size, data, and skill' necessary to be a leader in AI."
+    publishedDateTime: 2023-09-11T16:26:00Z
+    webUrl: "https://www.rcrwireless.com/20230911/ai-ml/nvidia-bets-on-india-with-tata-group-reliance-industries-ai-partnerships"
+    type: article
+    provider:
+      name: RCR Wireless News
+      domain: rcrwireless.com
+    quality: 38
+    images:
+      - url: "https://www.rcrwireless.com/wp-content/uploads/2023/09/138346920_m_normal_none-scaled.jpg"
+        width: 2560
+        height: 1536
+        isCached: true
   - title: "‘Jugalbandi’ platform in G20 Summit pavilion shows India’s innovative Artificial Intelligence use"
     excerpt: "To showcase India’s reach in power conversation through Artificial Intelligence (AI) solutions in any domain, ‘Jugalbandi’ has been set up at one of the pavillions at the G20 Summit venue in Pragati Maidan."
     publishedDateTime: 2023-09-10T18:03:00Z

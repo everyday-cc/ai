@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/with-github-for-data-gable-ai-wants-to-
 webUrl: "https://venturebeat.com/ai/with-github-for-data-gable-ai-wants-to-connect-software-engineers-and-ml-developers/"
 type: article
 quality: 76
-heat: 76
+heat: 77
 published: true
 
 provider:

@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tech leaders hold closed-door meeting with lawmakers on artificial intelligence"
+    excerpt: "Tech leaders, including Elon Musk, were on Capitol Hill Wednesday to take part in closed-door meetings with congressional lawmakers on the benefits and dangers that artificial intelligence poses. Jo Ling Kent has details."
+    publishedDateTime: 2023-09-13T23:24:00Z
+    webUrl: "https://www.cbsnews.com/video/tech-leaders-hold-closed-door-meeting-with-lawmakers-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 33
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/09/13/33e897a3-896b-4ede-84cc-4268787999ac/thumbnail/1200x630/d200bc2429350f25a71cd2dcd9628b3d/kent.jpg?v=b4264bc5922d2f5b2145bedc5a4d101e"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "6jy7soxpb4oLe2vP0UQ7xQBxmiixR7g0H7gfAaLuRw7kQjibiBRphoeEgNBjlU7N13kAadS8u/I43uoYako0AiFfovrzJTMevwKr7IcCwdKEKr5UVa/JVbBFZGBIMGXCo4ny7r5K2PSPdduXhUKU79NBklWqHucu1Xe/8J+pWldBF4TMFqZeDncJUv5aYrL0r0t4Am8p0x4bryG3RZLUcsa6LIGwsXYl5IojyY9t+gw4tF+FJZxBJ9K7OjG1Wou5QkT97BcYxQLhJ1GkNycXP09fCLa4NIKFJEyPxHbHLd275eEPx0A699ZtOQ/SEY4lTC+rsvpyxM4+stf9iyQNuhKl/P1suALkRA/rNUHLp4o=;FHiavKIl8XZpABqTtKUZNQ=="
 ---

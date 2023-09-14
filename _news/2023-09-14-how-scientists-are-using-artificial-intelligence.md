@@ -6,7 +6,7 @@ publishedDateTime: 2023-09-13T18:52:00Z
 originalUrl: "https://www.economist.com/science-and-technology/2023/09/13/how-scientists-are-using-artificial-intelligence"
 webUrl: "https://www.economist.com/science-and-technology/2023/09/13/how-scientists-are-using-artificial-intelligence"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230916_STD001.jpg"
@@ -41,6 +42,6 @@ related:
         height: 733
         isCached: true
 
-secured: "R3dFUZtG/KYSxBpWMFmFbS/PyAgFa2clGVH80VTOBmOiAXQcYJHwWi0gpa7gL5dkmsc8oXWEsVqF+8OOrM8gSIyQbmGo1MeCCapFx7YGIRBgRcuw/Y9VNTixyjlC9y9gdvwmRq3sZgZsFEdcQIamLOYsrck0OpYF0BWqJIwgZyMiaEdnKDZO4lHkZsj3dj1tzMCl1xUJnYSdnEcD8RldBOmUzdw5B1nDts1UXGN0Kdtrd54tMkcxkOjhh9QTaBsyXfHLCb82TAmEaU9+G6OPYIcyHZX2R9AFJr3n2p21HL/uPx+RHUaBiMIm3MCPH0g5dX1YaD0F3e9MEZR94ql+aIMBc+q9GyoHzq9gv1IS7n8=;LvLBBjfEb8J8enw5IeixRw=="
+secured: "pVuBB6gvLRmDN3kXfOZxscI4C68ymx0yhY7HD3forz01TkiXW6B64b16MfZSUXS+tHcc+L0cKYG9dss+whJELgaOw4HdFAJg0wm5WfwQAB0Uy927rv4pEn8BWlmy13N3CBVRwwnuT+AdzQPhSxwDfLzsitVdYkBqghy0eDZVNSoXCbPjtJHNY74v9qNjGzqw6DWmhmuGNp7VKuXOstqw1Irpx9OkyWnIcGCOc19Y3MuLXH1otf7joh6zFFMN4egFmvwgoImWOZYIIYu7x4y7+lqFOlENnqCS6KNwWLiJ20LS39kNFyD+OlJ1UC1j7P0LpNX0XZS1XXVjd0DYPpDeQKQ+k2tog1lThaArwzRNjferev6SJUa337Hzv/7Hr2IKLJIgjwx6GDOhf21S0hyUTIVwaanFeUXu9bUXINKHR1XZYV3VcC8Ma0mOj7mVCuy756g5yYBvmOLobXznhAShmYcMx0NN2b2Vw7mHxs7+/uFWV5VGcX1Mwej6V+ZsRU65xcX2VXMrxI4Pfy+Wfvg7JQ==;Ec4TLizxJlAhqynJeEXBOQ=="
 ---
 

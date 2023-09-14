@@ -209,15 +209,6 @@ related:
       name: National Herald
       domain: nationalheraldindia.com
     quality: 30
-  - title: "Siemens and Microsoft drive industrial productivity with generative … – Microsoft"
-    excerpt: "April 2023 Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help industrial companies drive innovation and efficiency"
-    publishedDateTime: 2023-09-09T06:07:00Z
-    webUrl: "https://www.inferse.com/707829/siemens-and-microsoft-drive-industrial-productivity-with-generative-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 14
 
 secured: "k+wVfuDusJg2hYpAaXHYY37SvcIUVYmgMAaYNxY4NSIGu9Trl+7HeLqTBNBvXt8srGIgDHxGM9uZHhqjyqGbWwH4wqPOEIrhCUoyn/cgHEEuidlXoaj9v7I+IFE/VDRaUCBTcKAVof0ygyYp2ap3qbzQMyzaQ45vBAXatbsNvf3S/H8QTAoyaZJbWUe7/HJVEJi+zMvSN/nFm4Snv2Q6+T0hGlP90uphCFjtkFLoniJcDHTw7k2O4QWcBq6QzWaHSzSfI3PyX+9OG+cAZi0UAQTcZSNeYTxwBgl6Ddbr82uhntAkQWYUXPWmmRUFOmt1gg4MeM1vDn6Qh+agoEGoyETMJiuanLrTzwW5q73kL/M=;HgqQwPE5ZpLoxrmgYdFl2w=="
 ---

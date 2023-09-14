@@ -129,6 +129,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 44
+  - title: "Benioff attacks other Gen AI vendors at Salesforce Dreamforce 2023"
+    excerpt: "Salesforce chief executive and co-founder Marc Benioff used his keynote address at the company's Dreamforce 2023 to make bold attacks on other generative AI (GenAI) vendors, accusing them of not taking trust and hallucinations as seriously as his company."
+    publishedDateTime: 2023-09-13T19:22:00Z
+    webUrl: "https://www.crn.com.au/news/benioff-attacks-other-gen-ai-vendors-at-salesforce-dreamforce-2023-600229"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/Salesforce_einstein-1-copilot-studio.jpeg"
+        width: 611
+        height: 458
+        isCached: true
 
 secured: "Di/4oFZ7wYgQrMynX0pP3vr0EbhzQ51Jn7HaxjM+5xczS+O6roGLpav4joYikD2/T5pTsffo2IpKT3/BDOuAw+1tcnD0vr0lYOdcBXUCB9WMuVMgTs1JvacDhI3IzaPclM6ff5EeqZmHt4e0KCOwtXTRIJdi6vXsM0E8a3oJJOmfqnaoWWpaJGPBtx0RbW2NpGbH+/PaJI07o+Y7jjAThL7D7c+GHMqgaP35iWkLU4SOA7thEotl93lfwYwOTP6t/Har3gIAPDGTz/mvfo3xclRdmhVpdXLn6lVSzZANeXeezlMsI96oUYkgIEeSRoJUcnIyn7Lf6CFdX3yrM1/pTX1WjppE1yShDYEbBq9SZDqFgaJmKYa/2NH+yl/JXvTRuxylNpqTuVanfbrCsHc35dr7KLZxjeGTkyruqnO2dGSEZddQjZ50A+UuVzBDyzPqw3h6YlzqZQ3M1vGbyLQOfULRz2ctoVvyEGSHFchzD/vmKgpGHo/4YCmpdvMmcvZF3PMIcVekjfTPREBylvTOFA==;7n+C+utOvv6csiYLqOdpaQ=="
 ---

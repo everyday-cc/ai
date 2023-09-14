@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "There’s never been a more important time in AI policy"
-    excerpt: "Inside Meta’s AI drama: Internal feuds over compute power Meta is losing top talent left, right, and center over internal feuds about which AI projects are given computing resources. Of the 14 researchers who authored Meta’s LLaMA research paper, more than half have left the company. ( The Information )"
-    publishedDateTime: 2023-09-12T09:33:00Z
-    webUrl: "https://www.technologyreview.com/2023/09/12/1079315/theres-never-been-a-more-important-time-for-ai-policy/"
-    ampWebUrl: "https://www.technologyreview.com/2023/09/12/1079315/theres-never-been-a-more-important-time-for-ai-policy/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/12/1079315/theres-never-been-a-more-important-time-for-ai-policy/amp/"
+  - title: "Radio broadcasters sound off on artificial intelligence"
+    excerpt: "Artificial intelligence has been making waves, including on the radio airwaves. DALLAS -- A radio station made history this summer by becoming the first in the country to use an AI DJ for an ..."
+    publishedDateTime: 2023-09-12T08:23:00Z
+    webUrl: "https://abcnews.go.com/Technology/radio-broadcasters-sound-off-artificial-intelligence/story?id=102861497"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/radio-broadcasters-sound-off-artificial-intelligence/story?id=102861497"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/radio-broadcasters-sound-off-artificial-intelligence/story?id=102861497"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
+      name: ABC News
+      domain: abcnews.go.com
+    quality: 59
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/09/law-ai2.jpeg?w=3000"
-        width: 3000
-        height: 1688
+      - url: "https://s.abcnews.com/images/Technology/dj-gear-rf-gty-bb-230901_1693579161658_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
 secured: "lU2Ij0LXttUsrES7CMm4s9FoXwQHPgADB7SPRefX+fj3bSkTDXIOOFK5RaTOCM7nI4KwGAvCLSotYIorRL+kXFQ1Ul6ZxLNe+kOObyFB4Huh9Ua/RRvlad8njDoRpVEbFLOdoctPunVoFGdQcXhy6jWFpkRDTWt6FcTJ+yoKegjj+MoBa3fWPTX6/YinOmLezXavMmSrxaGLUL0SLFiizu4f8YHFpk2BRLiop2DIxHArgLYBDi91pyFYsg7C6BkDem9BlsG7zprN8/KdUVELT253sEIgtO3K6AIxUS9D6OXtZf/du3SiM0q/tmP01NUiFSHYPUv4Z4SU9UNBJ81ypfEgqKwmVNxOnKYzd1rcMqnGUTtIG13lFWvJitpnTVK6urLqMDhao8lt6R/8w0yheGel/nWcfvgVfrW36RufFK46xAWcGXFRV/pOeTZsw42H11v/NM/Ncv+nCUsE6Rif+6nJbFzIvVJPhI+jULHRj0SYfoNexSHwuevTsewyDsn1Is+psQADjAaNB3BTl18+qA==;kFGn7q7WJDYXe+MNEy39Qw=="

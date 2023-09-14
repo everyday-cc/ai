@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/news/adobe-rolls-ai-features-plans-131521545.h
 webUrl: "https://www.aol.com/news/adobe-rolls-ai-features-plans-131521545.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 800
     height: 518
     isCached: true
+
+related:
+  - title: "Artificial Intelligence and Machine Learning – News and Features"
+    excerpt: "Injury or disease that afflicts a relatively small number of brain cells causes a chain reaction that stops activity across a vast network of neural circuits, according to new research. with the Breaking Science News daily newsletter"
+    publishedDateTime: 2023-09-11T10:00:00Z
+    webUrl: "https://www.technologynetworks.com/genomics/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/131"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 54
+    images:
+      - url: "https://assets.technologynetworks.com/production/static/images/opengraph/og-image.jpg?cb=20230914"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "K7Stn2CM1hz0PCfQJoD9rnyEBL0sWssALvD4sdn3iShGMoaswHlCXtMXpIqotilLnQvhOXRf/mHzpmSw0N7Zbj8IQLZGawBKFCRBfnjH4fyUzyDv9ZZlzW/uoadAHTaIMS3TJ0yIZEP7o5oersbuDESa/4jLeKCcj9FMSHedaUJprlt+BCddlQKZphnJJ6+DHPrK/iQHR/Rnhh6RpLH8i0y90Sw/IW5clQnLGCCxmVLocbSo3UcSHOhX/6VIrjqlbM41UvtQbtPNWXBvMn9WfPR19bIE0fhkWT5rqjpqTRmxrlctuZXRGGFAxgpSs5oGMtS6k9Lqy2tNKI4UXNPukajy6SpOVb+PKP5VYwgqlrc=;uokOjp9FgM6k3E0Nj5lHqA=="
 ---

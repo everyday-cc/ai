@@ -8,8 +8,8 @@ webUrl: "https://techxplore.com/news/2023-09-vision-language.html"
 ampWebUrl: "https://techxplore.com/news/2023-09-vision-language.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-vision-language.amp"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - IBM AI
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2023/helping-computer-visio.jpg"
