@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-23-aws-ec2-instance-types-challenges-and-best-practices-for-hosting-your-applications-in-aws.md",
+      "title": "AWS EC2 instance types: Challenges and best practices for hosting your applications in AWS",
+      "excerpt": "We will explore the challenges of selecting the best Amazon EC2 instance type and discuss the best practices for how to make the right decision.\nThe post AWS EC2 instance types: Challenges and best practices for hosting your applications in AWS appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/aws-ec2-instance-types-challenges-and-best-practices-for-hosting-your-applications-in-aws/",
+      "originalUrl": "https://www.ibm.com/blog/aws-ec2-instance-types-challenges-and-best-practices-for-hosting-your-applications-in-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-23T14:58:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-24-twilio-segment-teams-with-amazon-sagemaker-on-new-customer-predictions-product.md",
       "title": "Twilio Segment teams with Amazon SageMaker on new customer predictions product",
       "excerpt": "To build CustomerAI Predictions, the company teamed with Amazon SageMaker. “When we were looking at how to quickly bring this first predictions product to market, AWS and SageMaker were one of ...",
@@ -1326,58 +1369,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-optimize-data-preparation-with-new-features-in-aws-sagemaker-data-wrangler.md",
-      "title": "Optimize data preparation with new features in AWS SageMaker Data Wrangler",
-      "excerpt": "Data preparation is a critical step in any data-driven project, and having the right tools can greatly enhance operational efficiency. Amazon SageMaker Data Wrangler reduces the time it takes to aggregate and prepare tabular and image data for machine learning (ML) from weeks to minutes. With SageMaker",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-data-preparation-with-new-features-in-aws-sagemaker-data-wrangler/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-data-preparation-with-new-features-in-aws-sagemaker-data-wrangler/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/04/optimize-data-prepration.jpg",
-          "width": 1016,
-          "height": 507,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-04T08:25:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -192,6 +192,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Musk, Gates, Zuckerberg and other tech leaders meet with senators on AI regulations"
+    excerpt: "Some of the technology world's top leaders met with U.S. senators Wednesday to discuss artificial intelligence regulation, the same week eight companies voluntarily pledged to implement AI safeguards."
+    publishedDateTime: 2023-09-14T16:31:00Z
+    webUrl: "https://www.cbsnews.com/video/tech-leaders-meet-with-senators-on-ai-regulations/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 31
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/14/815ddcc3-a196-42b6-a9d9-663d7d9fcc14/thumbnail/1200x630/de005c834abe02edca0319cf18cc9974/cbsn-fusion-tech-leaders-meet-with-senators-on-ai-regulations-thumbnail-2290233-640x360.jpg?v=b4264bc5922d2f5b2145bedc5a4d101e"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tech titans will give senators advice on artificial intelligence in a closed-door forum"
     excerpt: "Senate Majority Leader Chuck Schumer has been talking for months about accomplishing a potentially impossible task: passing bipartisan legislation within the next year that encourages the rapid develo"
     publishedDateTime: 2023-09-13T04:56:00Z

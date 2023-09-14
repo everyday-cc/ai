@@ -24,6 +24,22 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "Mayo Clinic taps GE HealthCare to improve imaging tech"
+    excerpt: "Mayo Clinic and GE Healthcare are collaborating to create an innovation center that will advance medical imaging and theranostics, using AI, multimodal data, an"
+    publishedDateTime: 2023-09-14T15:03:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-health/mayo-clinic-taps-ge-healthcare-to-improve-imaging-tech.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
+
 secured: "M+oFlRl9Ar+QLgmtSNvYbz80iQPlEt5XvPdc4jVVkUXOSpU4k/srHKNmISxlfbJjw5XQd3PC3eMlnxUw6HjV3AGmJ7G0WMNZTDgagXPNssdbP3I2Sm/c98+62PNLL0qjS0mQ4KxRwB1UpBMIwIaqKdSRfI1kk21QIoDaMJkY//aIZ2keBE9mRgHaq4/bMKpo5T6LPs5aEgsjDZvWQ+8cJK5msctHBmIQWRQjImfGbK3NCoavYqbisiUVAm3nf4PEwpw3YrqwcJBtiBIvCsl6lJYqTknqHTbcH5h7eCYsC0Zizt7UpxE1BVpcFFzrOSkVeKMgILe1IXZegkE+RWYfaPoc6Jexz0oIRAQgwpua1y4=;tluee5UI1yoqw5cDV4nBJQ=="
 ---
 

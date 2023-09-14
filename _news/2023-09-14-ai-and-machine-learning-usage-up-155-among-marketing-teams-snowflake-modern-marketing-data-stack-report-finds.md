@@ -3,8 +3,8 @@ category: news
 title: "AI and Machine Learning Usage up 15.5% Among Marketing Teams, Snowflake Modern Marketing Data Stack Report Finds"
 excerpt: "Snowflake (NYSE: SNOW), the Data Cloud company, today released its Modern Marketing Data Stack 2023: How Data-Forward Marketers Are Redefining Strateg"
 publishedDateTime: 2023-09-14T13:01:00Z
-originalUrl: "https://www.businesswire.com/news/home/20230914222851/en/AI-and-Machine-Learning-Usage-up-15.5-Among-Marketing-Teams-Snowflake-Modern-Marketing-Data-Stack-Report-Finds"
-webUrl: "https://www.businesswire.com/news/home/20230914222851/en/AI-and-Machine-Learning-Usage-up-15.5-Among-Marketing-Teams-Snowflake-Modern-Marketing-Data-Stack-Report-Finds"
+originalUrl: "https://www.businesswire.com/news/home/20230914222851/en/"
+webUrl: "https://www.businesswire.com/news/home/20230914222851/en/"
 type: article
 quality: 30
 heat: 30
@@ -19,6 +19,6 @@ topics:
   - AI
   - AI in Marketing
 
-secured: "4iX6CWme0sHiy3nQJrkI3jPSjOvMMbffmlkdTtJWeG5h5Li8ePsy0lJtRZsGJtlZCMh7x/GXb9y6hfwKgdzhn6ts4uruMcPuyMRUNdZQsOst/w2tcS53nzlXeH1Cu4dOoEnQvCNvSPqAZhCJXXad5yxeTAL5FGMmO8YNmPOeStiWvoQFzvPzMoBoqvhauYYOsKp47fhLuuV4/HSJna6AS55ILzRC/7JWX8kmh6eaXNaxYb3ejX+kgHB3f11W4hwis9aN4SC4lIpXUZt0WSg2Le0ncvzHi7qVe/2P7vDwaIDCXhiSUkc0Bnfr3Nm6XZQR0guLtuTQHWbzRZhif7r98R2gnQhxVmfMbeBv+6W0NnE=;q0oLVQXc7pO2tWVPUSG9NQ=="
+secured: "rj9FcbpjP2+NvtdtNoh3gxZnN7ghsJATE5GZD8WT70uX1hsxroi+WBZ9i9nLW1QdTy8M+Ypjpdr5jji79R/pCzdjUzznBRaUzKj8qobN1Z/GVEO6CvVS/ZXHr/RJaN+Td5Y5/DNpJpKAvd93ml/sXvYVw+GoaLGkF7QII68DRePk+wghk0mLDlmD3EU++8eiyO0YPTdKE9Vb4mccvTSY1jI3jExv4dKas1bBPjLIzBJkJ8FczyypT6eSsZHi2L1CZkJBndeKHw6FonGJ4QasPRJnN9++zNcguXxkfN04IhmabveoakntBCEOHGpUI2ZIC1Tn03O7zXR/+ruSlYj/faYuoF9/pfgQtcEP8D+GGHkz1ZKzPR3ORDMUk6MQu5a11TMMHIV8ledPe7YXSUJEDT+vO9TN8yk660P0F7WRL/2TxwBtrqsdC2xI58hBkQXuQlc7S/vSq4BxYt324G+gIYGmh/bG7zlBiYbhlbRWPWBGAUYVvPmDVYz+ruV/1cfbFlhY+QeJBp8NjhHwiQcraw==;rCUCsUL8vBfSeA2JDZMK6Q=="
 ---
 

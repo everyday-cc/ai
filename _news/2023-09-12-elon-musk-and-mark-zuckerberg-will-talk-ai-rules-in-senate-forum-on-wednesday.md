@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/elon-musk-and-mark-zuckerberg-
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/elon-musk-and-mark-zuckerberg-will-talk-ai-rules-in-senate-forum-on-wednesday-296d6ffe"
 type: article
 quality: 84
-heat: 216
+heat: 226
 published: true
 
 provider:
@@ -184,6 +184,20 @@ related:
     quality: 37
     images:
       - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/14/eacff1ac-9102-4fb3-b092-bc52256724ed/thumbnail/1200x630/aa434577c43d08525c275a123239ce33/cbsn-fusion-what-concerns-major-issues-a-i-regulation-draws-thumbnail-2288760-640x360.jpg?v=b4264bc5922d2f5b2145bedc5a4d101e"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Musk, Gates, Zuckerberg and other tech leaders meet with senators on AI regulations"
+    excerpt: "Some of the technology world's top leaders met with U.S. senators Wednesday to discuss artificial intelligence regulation, the same week eight companies voluntarily pledged to implement AI safeguards."
+    publishedDateTime: 2023-09-14T16:31:00Z
+    webUrl: "https://www.cbsnews.com/video/tech-leaders-meet-with-senators-on-ai-regulations/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 31
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/14/815ddcc3-a196-42b6-a9d9-663d7d9fcc14/thumbnail/1200x630/de005c834abe02edca0319cf18cc9974/cbsn-fusion-tech-leaders-meet-with-senators-on-ai-regulations-thumbnail-2290233-640x360.jpg?v=b4264bc5922d2f5b2145bedc5a4d101e"
         width: 1200
         height: 630
         isCached: true

@@ -43,6 +43,20 @@ related:
         width: 894
         height: 447
         isCached: true
+  - title: "Fine-tune Falcon 7B and other LLMs on Amazon SageMaker with @remote decorator"
+    excerpt: "Today, generative AI models cover a variety of tasks from text summarization, Q&amp;A, and image and video generation. To improve the quality of output, approaches like n-short learning, Prompt engineering, Retrieval Augmented Generation (RAG) and fine tuning are used. Fine-tuning allows you to adjust"
+    publishedDateTime: 2023-09-14T16:53:48Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/fine-tune-falcon-7b-and-other-llms-on-amazon-sagemaker-with-remote-decorator/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 86
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/14/fine-tune-falcon-7b-1260x630.jpg"
+        width: 1260
+        height: 630
+        isCached: true
   - title: "Falcon 180B foundation model from TII is now available via Amazon SageMaker JumpStart"
     excerpt: "Today, we are excited to announce that the Falcon 180B foundation model developed by Technology Innovation Institute (TII) is available for customers through Amazon SageMaker JumpStart to deploy with one-click for running inference. With a 180-billion-parameter size and trained on a massive 3.5-trillion-token"
     publishedDateTime: 2023-09-11T19:33:38Z

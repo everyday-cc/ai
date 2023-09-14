@@ -264,6 +264,15 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 19
+  - title: "Intel Celebrates AI Accessibility and Enables the Next Generation of Innovators"
+    excerpt: "About Intel's Role: Intel is committed to bringing AI skills everywhere, regardless of a person's ethnicity, age, gender or background. The AI Global Impact Festival provides opportunities and platforms for future innovators to learn, showcase and celebrate the impact of AI innovations."
+    publishedDateTime: 2023-09-14T17:56:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-intel-celebrates-ai-accessibility-enables-next-generation-innovators-/2023/09/14/9881521.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
   - title: "Phenom AI Day Agenda Preview: Technical Experts to Demonstrate and Explain AI's Application for Human Resources"
     excerpt: "AI Day agenda published - Phenom experts to demonstrate and explain AI's role for empowering organizations to hire faster, develop better and retain longer, while reaching new levels of efficiency. This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20230913537994/en/"
     publishedDateTime: 2023-09-13T14:17:00Z

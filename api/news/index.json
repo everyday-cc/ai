@@ -2,6 +2,265 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-15-ais-next-leap-from-trillions-of-tokens-to-every-word-ever-written.md",
+      "title": "AI’s Next Leap: From Trillions Of Tokens To Every Word Ever Written",
+      "excerpt": "By John Werner At the AI for Impact course at MIT, in a conversation with Dave Blundin of Link Ventures, the trajectory of AI's evolution was laid out in a manner",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/09/14/ais-next-leap-from-trillions-of-tokens-to-every-word-ever-written/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/09/14/ais-next-leap-from-trillions-of-tokens-to-every-word-ever-written/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65033b85fb3035d47a2250b8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/09/14/ais-next-leap-from-trillions-of-tokens-to-every-word-ever-written/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/09/14/ais-next-leap-from-trillions-of-tokens-to-every-word-ever-written/amp/",
+      "publishedDateTime": "2023-09-14T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-15-drinks-company-appoints-ai-robot-as-experimental-ceo.md",
+      "title": "Drinks company appoints AI robot as 'experimental CEO'",
+      "excerpt": "A drinks company has appointed what it says is the world's first artificial intelligence \"experimental\" chief executive to work in Poland. Angela Johnston explains.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/idRW182413092023RP1",
+      "originalUrl": "https://www.reuters.com/video/watch/idRW182413092023RP1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20230914&i=RW182413092023RP1&r=RW182413092023RP1&t=2",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-14T10:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-09-15-msn-publishes-heartless-obituary-for-nba-player-likely-written-by-ai.md",
+      "title": "MSN Publishes Heartless Obituary For NBA Player Likely Written By AI",
+      "excerpt": "Brandon Hunter, a 42-year-old basketball player who previously played for the Boston Celtics and the Orlando Magic died on Tuesday, collapsing after hot yoga",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mattnovak/2023/09/14/msn-publishes-heartless-obituary-for-nba-player-likely-written-by-ai/",
+      "originalUrl": "https://www.forbes.com/sites/mattnovak/2023/09/14/msn-publishes-heartless-obituary-for-nba-player-likely-written-by-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65033ca4c80694ba3928ff0d/0x0.jpg?format=jpg&crop=1124,632,x0,y15,safe&width=1200",
+          "width": 1124,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mattnovak/2023/09/14/msn-publishes-heartless-obituary-for-nba-player-likely-written-by-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/09/14/msn-publishes-heartless-obituary-for-nba-player-likely-written-by-ai/amp/",
+      "publishedDateTime": "2023-09-14T10:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-14-build-a-classification-pipeline-with-amazon-comprehend-custom-classification-part-i.md",
+      "title": "Build a classification pipeline with Amazon Comprehend custom classification (Part I)",
+      "excerpt": "In first part of this multi-series blog post, you will learn how to create a scalable training pipeline and prepare training data for Comprehend Custom Classification models. We will introduce a custom classifier training pipeline that can be deployed in your AWS account with few clicks.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-classification-pipeline-with-amazon-comprehend-custom-classification-part-i/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-classification-pipeline-with-amazon-comprehend-custom-classification-part-i/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/01/ML14789_1_image_1.jpg",
+          "width": 1022,
+          "height": 544,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-14T09:58:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-09-14-singapore-arms-firefighters-with-ai-glasses.md",
+      "title": "Singapore arms firefighters with AI glasses",
+      "excerpt": "A two-year initiative will see Singapore firefighters using 5G-enabled smart glasses to inspect and identify defects in their equipment, so they can be better prepared to respond to emergencies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/singapore-arms-firefighters-with-ai-glasses/",
+      "originalUrl": "https://www.zdnet.com/article/singapore-arms-firefighters-with-ai-glasses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/87371fc7b94eb81e6924f651340f21a41e628750/2023/09/14/11a698c5-ba64-4f23-9643-d3150dbeacd0/punggol-fire-station-facade.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-arms-firefighters-with-ai-glasses/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-arms-firefighters-with-ai-glasses/",
+      "publishedDateTime": "2023-09-14T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-14-how-teslas-new-supercomputer-could-upend-the-ai-race.md",
       "title": "How Tesla’s New Supercomputer Could Upend the AI Race",
       "excerpt": "Custom-Built AI Tech Is on the Rise In fact, every Big Tech firm building AI models that formerly relied on Nvidia are now developing their own custom-built chips. Amazon (AMZN) has developed two chips customized specifically to build AI models on the firm ...",
@@ -102,6 +361,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-14-ascento-launches-nimble-guard-robot-following-a-new-43m-funding-round.md",
+      "title": "Ascento launches nimble Guard robot following a new $4.3M funding round",
+      "excerpt": "Robotics startup launches latest autonomous outdoor security patrolling robot, Ascento Guard, allowing companies to extend security at a reasonable cost.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/ascento-launches-nimble-guard-robot-following-a-new-4-3m-funding-round/",
+      "originalUrl": "https://www.therobotreport.com/ascento-launches-nimble-guard-robot-following-a-new-4-3m-funding-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/09/Ascento-Guard-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-14T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -441,7 +743,7 @@
       "originalUrl": "https://semiengineering.com/patterns-and-issues-in-ai-chip-design/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -913,300 +1215,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-14-thursday-night-football-to-use-ai-to-help-viewers-better-understand-action-on-field.md",
-      "title": "‘Thursday Night Football’ to use AI to help viewers better understand action on field",
-      "excerpt": "Prime Video’s second season begins Thursday night when the Philadelphia Eagles play host to the Minnesota Vikings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pennlive.com/philadelphiaeagles/2023/09/thursday-night-football-to-use-ai-to-help-viewers-better-understand-action-on-field.html",
-      "originalUrl": "https://www.pennlive.com/philadelphiaeagles/2023/09/thursday-night-football-to-use-ai-to-help-viewers-better-understand-action-on-field.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LHPH3OMIDJBIVHTMKU7UL6VZNQ.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pennlive.com/philadelphiaeagles/2023/09/thursday-night-football-to-use-ai-to-help-viewers-better-understand-action-on-field.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/philadelphiaeagles/2023/09/thursday-night-football-to-use-ai-to-help-viewers-better-understand-action-on-field.html?outputType=amp",
-      "publishedDateTime": "2023-09-13T13:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Penn Live",
-        "domain": "pennlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-14-hottest-gpu-makers-india-playbook.md",
-      "title": "Hottest GPU maker’s India playbook",
-      "excerpt": "Nvidia’s processors power generative AI applications, making it one of the hottest technology firms in the world today. Analysts have predicted its processors to remain in shortage all through 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/companies/news/hottest-gpu-maker-s-india-playbook-11694625393998.html",
-      "originalUrl": "https://www.livemint.com/companies/news/hottest-gpu-maker-s-india-playbook-11694625393998.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2023/09/13/600x338/GPU_1694625629914_1694625634445.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/companies/news/hottest-gpu-maker-s-india-playbook/amp-11694625393998.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/hottest-gpu-maker-s-india-playbook/amp-11694625393998.html",
-      "publishedDateTime": "2023-09-13T10:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-09-14-on-ai-if-you-want-to-really-understand-ais-benefits-ask-your-banker.md",
-      "title": "On AI: If You Want To Really Understand AI's Benefits, Ask Your Banker",
-      "excerpt": "Danske Bank in Denmark and JP Morgan Chase are both implementing deep learning AI tools to detect fraud, automate decisions (like freezing an account) and alerting security analysts. AI is also being used at these institutions to detect and quarantine malware and provide an early warning system for suspected attacks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/quickerbettertech/2023/09/13/on-ai-if-you-want-to-really-understand-ais-benefits-ask-your-banker/",
-      "originalUrl": "https://www.forbes.com/sites/quickerbettertech/2023/09/13/on-ai-if-you-want-to-really-understand-ais-benefits-ask-your-banker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6500998e8cd5ee114a5e700e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 865,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/quickerbettertech/2023/09/13/on-ai-if-you-want-to-really-understand-ais-benefits-ask-your-banker/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2023/09/13/on-ai-if-you-want-to-really-understand-ais-benefits-ask-your-banker/amp/",
-      "publishedDateTime": "2023-09-13T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-visualize-an-amazon-comprehend-analysis-with-a-word-cloud-in-amazon-quicksight.md",
-      "title": "Visualize an Amazon Comprehend analysis with a word cloud in Amazon QuickSight",
-      "excerpt": "Searching for insights in a repository of free-form text documents can be like finding a needle in a haystack. A traditional approach might be to use word counting or other basic analysis to parse documents, but with the power of Amazon AI and machine learning (ML) tools, we can gather deeper understanding",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/visualize-an-amazon-comprehend-analysis-with-a-word-cloud-in-amazon-quicksight/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/visualize-an-amazon-comprehend-analysis-with-a-word-cloud-in-amazon-quicksight/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/13/visualize-comprehend-wordcloud.jpg",
-          "width": 897,
-          "height": 447,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-13T09:23:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-ey-launches-ai-platform-and-llm-after-14-billion-investment.md",
-      "title": "EY launches AI platform and LLM after $1.4 billion investment",
-      "excerpt": "Today professional services leader EY announced the launch of EY.ai, a comprehensive platform to help clients boost AI adoption.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ey-launches-ai-platform-and-llm-after-1-4-billion-investment/",
-      "originalUrl": "https://venturebeat.com/ai/ey-launches-ai-platform-and-llm-after-1-4-billion-investment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/09/Untitled-design-2023-09-13T115630.104.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-13T09:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-tech-ceos-descend-on-capitol-hill-for-closed-door-artificial-intelligence-meeting.md",
-      "title": "Tech CEOs Descend On Capitol Hill For Closed-Door Artificial Intelligence Meeting",
-      "excerpt": "The closed-door forum on Capitol Hill included almost two dozen tech executives, tech advocates, civil rights groups and labor leaders. The guest list featured some of the industry’s biggest names: Meta’s Mark Zuckerberg and X and Tesla’s Elon Musk as well as former Microsoft CEO Bill Gates. All 100 senators were invited; the public was not.",
-      "sourceUrl": null,
-      "webUrl": "https://www.huffpost.com/entry/tech-ceos-descend-on-senate-for-closed-door-ai-meeting_n_6501dad6e4b04bad69ec286e",
-      "originalUrl": "https://www.huffpost.com/entry/tech-ceos-descend-on-senate-for-closed-door-ai-meeting_n_6501dad6e4b04bad69ec286e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.huffingtonpost.com/asset/6501db272400005e00477695.jpeg?cache=zgKAa7n3oH&ops=1200_630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.huffpost.com/entry/tech-ceos-descend-on-senate-for-closed-door-ai-meeting_n_6501dad6e4b04bad69ec286e/amp",
-      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/tech-ceos-descend-on-senate-for-closed-door-ai-meeting_n_6501dad6e4b04bad69ec286e/amp",
-      "publishedDateTime": "2023-09-13T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HuffPost",
-        "domain": "huffpost.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

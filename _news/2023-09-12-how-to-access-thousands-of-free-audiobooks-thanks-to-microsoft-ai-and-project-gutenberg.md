@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/heres-how-to-access-thousan
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/heres-how-to-access-thousands-of-free-audiobooks-thanks-to-microsoft-ai-and-project-gutenberg/"
 type: article
 quality: 95
-heat: 155
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Analysts left Microsoft's AI event feeling even more bullish about the stock"
+    excerpt: "Comments from a recent Microsoft event are giving Wall Street more reasons to get bullish on the technology giant."
+    publishedDateTime: 2023-09-14T14:02:00Z
+    webUrl: "https://www.cnbc.com/2023/09/14/microsoft-ai-event-analysts-feel-even-more-bullish-about-the-stock.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 81
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107183316-16745955982023-01-24t210439z_1989498312_rc29ty9bgi4f_rtrmadp_0_microsoft-results.jpeg?v=1694709338&w=1920&h=1080"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Google AI Head On Data Privacy, GenAI Lead Vs. AWS, Microsoft"
     excerpt: "Moyer, global vice president of Google’s artificial intelligence business ... Moyer was managing director of global financial services at AWS in charge of AWS sales, technical and customer experience teams that supported some of AWS’ largest customers."
     publishedDateTime: 2023-09-13T15:55:00Z

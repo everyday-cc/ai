@@ -6,7 +6,7 @@ publishedDateTime: 2023-09-13T19:16:00Z
 originalUrl: "https://www.economist.com/AI-science"
 webUrl: "https://www.economist.com/AI-science"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230916_PDP508.jpg"
@@ -80,6 +81,6 @@ related:
       domain: cantechletter.com
     quality: 21
 
-secured: "DhW3xYIZ9mliIV68M7I8X+Q+vBI0J6DQvq99zxL9sApHfnY16w+DLClYVYaKDIhsloWNSCCOIssx+sPkCU5ylHw0M5ZKjgNHS+xKCC6CejoNXSpWg+SqHj7RRiVxEuSmyxn/meCbMaZLWfYGmFDybKYUEvHWy0/Ht3TUlqbDhsj+AB9EzKSQ+5p8B9P/6QfBPdCezC2dq8yyXPPb/gkwFwj4+iG5BvHLGyQmQtJ3oZPjSRBJS1DB2TcE1lBPgY4YGDKhtJmJTxYxU+jtHPXh48TZR4YEWsjvkYgWORLIapeLYmdP5VF3qJ13CK2GylKa/CxB3w9wl5Nx6J6lUmv13iw0X7USB5HKmYNkLV29sSw=;EBVpsIxPwG8+kLumiHkD6g=="
+secured: "ftEEZ85m1D2uuXJF3RkHORoOmWvI05o1GqGAaeNomn9GAmu4dTNo24H7DMQ14Nh1E7lCM/uSBBj+j5ML80yvUtALOpXM43j/xs4PR1EWnFVRzZpm5hRE0Zap0zCs2QutG/24bUx2IvYaPFETv7dRmm9N/Vk/qw9497AxI8JrJC/ZJ9NhNEZjBt+J7QqYloo8uHOZrj2iyPxD8J+j447jtymbmuOlzD9pb8w+ZLNUKsR3qynaA8R2BxFPZToBKYDbOHrr+qw00WQYS19BwJTRZvZBI89o/cVDf9RFWJO4mYH9iE2xjBJe0Vt1W8qI4NPauYqCUsNyW8E5gnkEyCrafq8xL9uLyGVlz/A7B0iEVvKBYZ3hs9j+m32383V74zdmve5E2deG49f5oe5XwDvbbV8tppMU4dSoodgFr7SixE9azLdzMkaRLjeO5kk1DAOnhN4J4OwLviAZxvBeP6Lub8GJnXCfivHQIuxyZxzQdAWyK7hemd7LKRMl/jR9WjGfYmO6TTuMDfq6WtVscPPbVA==;12y5rxFqRbEGQ3kausdbNg=="
 ---
 

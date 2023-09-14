@@ -2,6 +2,383 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2023-08-22-alibaba-cloud-named-a-challenger-in-gartner-magic-quadrant-for-cloud-ai-developer-services-for-second-consecutive-year.md",
+      "title": "Alibaba Cloud Named a Challenger in Gartner® Magic Quadrant™ for Cloud AI Developer Services for Second Consecutive Year",
+      "excerpt": "Alibaba Cloud, the digital technology and intelligence backbone of Alibaba Group, has been named a Challenger in this year’s Gartner® Magic Quadrant™ for Cloud AI Developer Services (CAIDS) for the second consecutive year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.lionheartv.net/2023/08/alibaba-cloud-named-a-challenger-in-gartner-magic-quadrant-for-cloud-ai-developer-services-for-second-consecutive-year/",
+      "originalUrl": "https://www.lionheartv.net/2023/08/alibaba-cloud-named-a-challenger-in-gartner-magic-quadrant-for-cloud-ai-developer-services-for-second-consecutive-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lionheartv.net/wp-content/uploads/2023/08/Alibaba-Cloud-1.jpg",
+          "width": 1500,
+          "height": 812,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-22T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LionhearTV",
+        "domain": "lionheartv.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-22-how-microsoft-is-looking-to-ease-uk-antitrust-worries-over-75b-activision-deal.md",
+      "title": "How Microsoft is looking to ease UK antitrust worries over $75B Activision deal",
+      "excerpt": "Ubisoft games are distributed through services such as Amazon Luna and Nvidia’s GeForce Now — consoles that are in direct competition with Microsoft’s Xbox. By bringing Ubisoft into the ...",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2023/08/22/microsoft-looks-to-ease-uk-antitrust-worries-over-activision-deal/",
+      "originalUrl": "https://nypost.com/2023/08/22/microsoft-looks-to-ease-uk-antitrust-worries-over-activision-deal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/08/newspress-collage-5grqt4wsg-1692715112760.jpg?quality=75&strip=all&1692700791&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2023/08/22/microsoft-looks-to-ease-uk-antitrust-worries-over-activision-deal/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/08/22/microsoft-looks-to-ease-uk-antitrust-worries-over-activision-deal/amp/",
+      "publishedDateTime": "2023-08-22T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-22-brainchip-sees-gold-in-sequential-data-analysis-at-the-edge.md",
+      "title": "BrainChip Sees Gold In Sequential Data Analysis At The Edge",
+      "excerpt": "BrainChip has singled out such data processing needs as a key opportunity to apply its Akida technology, which specializes in Event-Based Processing and Spiking",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/08/22/brainchip-sees-gold-in-sequential-data-analysis-at-the-edge/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/08/22/brainchip-sees-gold-in-sequential-data-analysis-at-the-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64d5277aba68f18673d9eed6/0x0.jpg?format=jpg&width=1200",
+          "width": 822,
+          "height": 452,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/08/22/brainchip-sees-gold-in-sequential-data-analysis-at-the-edge/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/08/22/brainchip-sees-gold-in-sequential-data-analysis-at-the-edge/amp/",
+      "publishedDateTime": "2023-08-22T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-22-chip-designer-arm-looks-to-ride-the-ai-boom-with-the-biggest-us-ipo-since-2021.md",
+      "title": "Chip designer Arm looks to ride the AI boom with the biggest US IPO since 2021",
+      "excerpt": "Arm's planned IPO, which hopes to raise up to $10 billion, is set to be the largest US listing since Rivian fetched over $12 billion in October 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/arm-semiconductor-chip-markets-rides-ai-boom-biggest-us-ipo-2023-8",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/arm-semiconductor-chip-markets-rides-ai-boom-biggest-us-ipo-2023-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64e4811fbd98a600197ba266?width=700",
+          "width": 700,
+          "height": 525,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-22T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-22-meet-relume-the-bootstrapped-ai-web-builder-that-wants-to-supercharge-figma-and-webflow.md",
+      "title": "Meet Relume, the bootstrapped AI web builder that wants to supercharge Figma and Webflow",
+      "excerpt": "Relume has amassed some 54,000 users to date, 10,000 of whom signed up following the AI feature launch two weeks ago. The platform, which is the brainchild of a small team of seven who hail from the likes of design giant Canva and early-stage startup ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/22/meet-relume-the-bootstrapped-ai-web-builder-that-wants-to-supercharge-figma-and-webflow/",
+      "originalUrl": "https://techcrunch.com/2023/08/22/meet-relume-the-bootstrapped-ai-web-builder-that-wants-to-supercharge-figma-and-webflow/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/08/WhatsApp-Image-2023-08-22-at-4.10.33-PM.jpeg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/22/meet-relume-the-bootstrapped-ai-web-builder-that-wants-to-supercharge-figma-and-webflow/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/22/meet-relume-the-bootstrapped-ai-web-builder-that-wants-to-supercharge-figma-and-webflow/amp/",
+      "publishedDateTime": "2023-08-22T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-22-provenir-named-us-fintech-awards-2023-finalist-in-two-categories-fintech-of-the-year-and-data-initiative-of-the-year.md",
+      "title": "Provenir Named US Fintech Awards 2023 Finalist in Two Categories, 'Fintech of the Year' and 'Data Initiative of the Year'",
+      "excerpt": "Provenir, a global leader in AI-powered risk decisioning software, today announced that it has been named a finalist in the \"Fintech of the Year\" and \"Data Initiative of the Year\" categories for the US Fintech Awards 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/08/22/9868268.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/08/22/9868268.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-22T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-22-interactive-ai-app-sizzle-guides-student-learning.md",
+      "title": "Interactive AI App Sizzle Guides Student Learning",
+      "excerpt": "Sizzle is a free smartphone app that uses artificial intelligence to help learners work through any problem. It shows a compelling vision for how AI can support learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rayravaglia/2023/08/22/interactive-ai-app-sizzle-guides-student-learning/",
+      "originalUrl": "https://www.forbes.com/sites/rayravaglia/2023/08/22/interactive-ai-app-sizzle-guides-student-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e4b7aa78f7f2f2574af6bb/0x0.jpg?format=jpg&crop=1110,624,x447,y0,safe&width=1200",
+          "width": 1110,
+          "height": 624,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rayravaglia/2023/08/22/interactive-ai-app-sizzle-guides-student-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rayravaglia/2023/08/22/interactive-ai-app-sizzle-guides-student-learning/amp/",
+      "publishedDateTime": "2023-08-22T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-22-retail-redefined-ais-affinity-for-personalized-engagement.md",
+      "title": "Retail Redefined: AI's Affinity For Personalized Engagement",
+      "excerpt": "The retail industry stands on the brink of a radical transformation, driven by the remarkable capabilities of artificial intelligence (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/garydrenik/2023/08/22/retail-redefined-ais-affinity-for-personalized-engagement/",
+      "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/08/22/retail-redefined-ais-affinity-for-personalized-engagement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e15e2645b42f93610c8ded/0x0.jpg?format=jpg&width=1200",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/08/22/retail-redefined-ais-affinity-for-personalized-engagement/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/08/22/retail-redefined-ais-affinity-for-personalized-engagement/amp/",
+      "publishedDateTime": "2023-08-22T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-22-chinas-baidu-reports-15-revenue-growth-beating-expectations.md",
       "title": "China's Baidu reports 15% revenue growth, beating expectations",
       "excerpt": "Baidu also operates self-driving taxis under the Apollo Go brand in China. In the second quarter, Baidu said it ran roughly 714,000 robotaxi rides, up from 660,000 in the first quarter.",
@@ -802,359 +1179,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study.md",
-      "title": "Melatonin and its derivatives improve long-term memory for object recognition: Study",
-      "excerpt": "Talking about the studys results, Prof. Chiba concluded, Our findings suggest that melatonin is involved in promoting the formation of long-term object recognition memory by modulating the phosphorylation levels of memory-related proteins such as ERK, CaMKIIs, and CREB in both receptor-mediated and nonreceptor-mediated signalling pathways.",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/Articles/Health/20230822/4110943.html",
-      "originalUrl": "https://news.webindia123.com/news/Articles/Health/20230822/4110943.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-21T23:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-cipia-uses-computer-vision-ai-to-empower-driver-monitoring-technology.md",
-      "title": "Cipia uses computer vision AI to empower driver-monitoring technology",
-      "excerpt": "Israel-based Cipia develops driver-monitoring systems enabled by computer vision AI. The company has gained a presence in China, poised to scale up in the US and Europe. Cipia, formerly Eyesight Technologies, concentrated on using computer vision ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20230822VL206/cipia-israel-ai-driver-monitoring-china.html",
-      "originalUrl": "https://www.digitimes.com/news/a20230822VL206/cipia-israel-ai-driver-monitoring-china.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/newsshow/20230822vl206_files/1_2b.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-21T23:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-tesla-investor-says-ev-giant-and-nvidias-ai-gpu-fusion-is-the-future-now-its-all-coming-together.md",
-      "title": "Tesla Investor Says EV Giant And Nvidia's AI-GPU Fusion Is The 'Future' Now: 'It's All Coming Together'",
-      "excerpt": "Tesla Inc TSLA investor Ross Gerber highlighted the synergy between Nvidia Corp NVDA and Tesla, emphasizing the convergence of AI autonomy and GPU technology. The tweet came amid the combined market value of the two companies matched the entire value of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/23/08/33976696/tesla-investor-says-ev-giant-and-nvidias-ai-gpu-fusion-is-the-future-now-its-all-coming-together",
-      "originalUrl": "https://www.benzinga.com/news/23/08/33976696/tesla-investor-says-ev-giant-and-nvidias-ai-gpu-fusion-is-the-future-now-its-all-coming-together",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/Tesla.Shutterstock_4.jpeg?width=1200&height=800&fit=crop",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33976696",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33976696",
-      "publishedDateTime": "2023-08-21T22:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-why-waymo-and-cruise-will-go-bankrupt.md",
-      "title": "Why Waymo and Cruise Will Go Bankrupt",
-      "excerpt": "Waymo started in 2009 and Cruise started in 2013 ... It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2023/08/why-waymo-and-cruise-will-go-bankrupt.html",
-      "originalUrl": "https://www.nextbigfuture.com/2023/08/why-waymo-and-cruise-will-go-bankrupt.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2023/08/Screen-Shot-2023-08-21-at-7.25.49-AM.jpg",
-          "width": 1142,
-          "height": 692,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-21T21:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-about-21-million-jobs-held-by-women-and-9-million-jobs-held-by-men-could-be-replaced-by-ai-ilo.md",
-      "title": "About 21 million jobs held by women and 9 million jobs held by men could be replaced by AI: ILO",
-      "excerpt": "A new study by the ILO published on Monday finds admin workers and women face a greater risk of their jobs being replaced by AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-unlikely-destroy-jobs-admin-workers-greatest-risk-chatgpt-2023-8",
-      "originalUrl": "https://www.businessinsider.com/ai-unlikely-destroy-jobs-admin-workers-greatest-risk-chatgpt-2023-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63eb9ca47518920018f33adb?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-unlikely-destroy-jobs-admin-workers-greatest-risk-chatgpt-2023-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-unlikely-destroy-jobs-admin-workers-greatest-risk-chatgpt-2023-8?amp",
-      "publishedDateTime": "2023-08-21T20:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag.md",
-      "title": "Buy Or Build An Autonomous Race Car To Take The Checkered Flag",
-      "excerpt": "For those of us whose interest and expertise lie in software, Amazon Web Services just launched AWS DeepRacer: a complete package for exploring machine learning on autonomous vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2018/11/30/buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag/",
-      "originalUrl": "https://hackaday.com/2018/11/30/buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/11/aws-deepracer-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-meta-confirms-ai-off-switch-incoming-to-facebook-instagram-in-europe.md",
-      "title": "Meta confirms AI ‘off-switch’ incoming to Facebook, Instagram in Europe",
-      "excerpt": "The bloc’s concern is that AI-driven feeds undermine user ... access to publicly-available content across Facebook and Instagram of any research tool we have built to date.”",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/22/meta-confirms-ai-off-switch-incoming-to-facebook-instagram-in-europe/",
-      "originalUrl": "https://techcrunch.com/2023/08/22/meta-confirms-ai-off-switch-incoming-to-facebook-instagram-in-europe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1467844599.jpg?w=1024",
-          "width": 1024,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/22/meta-confirms-ai-off-switch-incoming-to-facebook-instagram-in-europe/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/22/meta-confirms-ai-off-switch-incoming-to-facebook-instagram-in-europe/amp/",
-      "publishedDateTime": "2023-08-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-sends-team-visited-the-fintech-and-ai-event-hosted-by-the-google-cloud.md",
-      "title": "Sends Team visited the Fintech and AI event hosted by the Google Cloud",
-      "excerpt": "On the 18th of August, Google Cloud organised the event, which covered the topic of Fintech and AI. Representatives from leading tech companies gathered at Google London HQ to share their experiences. Sends team took part as the attendees to get insights ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/ab33975069/sends-team-visited-the-fintech-and-ai-event-hosted-by-the-google-cloud",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/ab33975069/sends-team-visited-the-fintech-and-ai-event-hosted-by-the-google-cloud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33975069",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33975069",
-      "publishedDateTime": "2023-08-21T16:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

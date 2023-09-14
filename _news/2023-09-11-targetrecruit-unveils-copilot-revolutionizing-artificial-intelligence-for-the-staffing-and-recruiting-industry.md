@@ -38,6 +38,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Private equity recruits data-science talent as industry tackles machine learning"
+    excerpt: "More firms are adding chief data officers and other data-science and engineering talent as they incorporate machine learning into their operations."
+    publishedDateTime: 2023-09-14T15:45:00Z
+    webUrl: "https://www.livemint.com/market/private-equity-recruits-data-science-talent-as-industry-tackles-machine-learning-11694705904803.html"
+    ampWebUrl: "https://www.livemint.com/market/private-equity-recruits-data-science-talent-as-industry-tackles-machine-learning/amp-11694705904803.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/market/private-equity-recruits-data-science-talent-as-industry-tackles-machine-learning/amp-11694705904803.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 56
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/09/14/600x338/2-0-1206107057-885956164-0_1679663774195_1694706122449.jpg"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "T4/NCqrAiFZ45MIIkkIcykjxwiATl8msIiYevLw7qyLFtcGo5NrnLYf4UKj1SkfCacYZlDWuaNvLwrnhNEDv0NNpIqBlKQO0NGlWqIKRO++Befe//IhyViExQhJPXaeX9sotIyDtzTx7038s7C7fWwzu+WcVoBzPHjqf1TN1QS92lVZU0eWkRowEtZF5FYQhcmtJC5TripbY5LSvAaNN0N5YD36BTOfyeB0RrPU0WiPCQUpDyEGIFOLdX5OVTUZyPQizP5jNIvFpJmtGfkPCzCQ+ZGdQIp1qux0ppLJJlDULSKnZyKXFVVzA2prvShCsNqTrrVpFQUQK3WMB9Ch4W4t+C+lM8zWuiXJf9EB64T0=;+b14UlIMOHNkws4xJb6Iug=="
 ---

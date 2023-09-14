@@ -19,34 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "An Android Phone Powers A Self Driving Car"
-    excerpt: "As auto manufacturers have brought self-driving features to their products, we’re told about how impressive their technologies are and just how much computing power is on board to make it happen."
-    publishedDateTime: 2023-09-10T00:00:00Z
-    webUrl: "https://hackaday.com/2023/06/27/an-android-phone-powers-a-self-driving-car/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 39
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2023/06/android-self-drive-featured.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Voice Controlled Robot Controlled By An Android Phone"
-    excerpt: "[Jeff] sent in a build of a voice controlled robot he just finished based on the Android ADK and an iRobot Create. The robot is able to obey voice commands telling it where to go. Currently the ..."
-    publishedDateTime: 2023-09-11T00:00:00Z
-    webUrl: "https://hackaday.com/2011/07/05/voice-controlled-robot-controlled-by-an-android-phone/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 39
-    images:
-      - url: "http://hackaday.com/wp-content/uploads/2011/07/robot.jpg?w=450"
-        width: 450
-        height: 264
-        isCached: true
   - title: "City of Austin releases new data on self-driving cars"
     excerpt: "Self-driving cars may be the way of the future, but they're encountering quite a few glitches in the here and now. The City of Austin is out with some new numbers on just how many incidents there have been involving those driverless cars."
     publishedDateTime: 2023-09-11T02:37:00Z

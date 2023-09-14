@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-15-drinks-company-appoints-ai-robot-as-experimental-ceo.md",
+      "title": "Drinks company appoints AI robot as 'experimental CEO'",
+      "excerpt": "A drinks company has appointed what it says is the world's first artificial intelligence \"experimental\" chief executive to work in Poland. Angela Johnston explains.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/idRW182413092023RP1",
+      "originalUrl": "https://www.reuters.com/video/watch/idRW182413092023RP1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20230914&i=RW182413092023RP1&r=RW182413092023RP1&t=2",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-14T10:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-09-14-ascento-launches-nimble-guard-robot-following-a-new-43m-funding-round.md",
+      "title": "Ascento launches nimble Guard robot following a new $4.3M funding round",
+      "excerpt": "Robotics startup launches latest autonomous outdoor security patrolling robot, Ascento Guard, allowing companies to extend security at a reasonable cost.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/ascento-launches-nimble-guard-robot-following-a-new-4-3m-funding-round/",
+      "originalUrl": "https://www.therobotreport.com/ascento-launches-nimble-guard-robot-following-a-new-4-3m-funding-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/09/Ascento-Guard-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-14T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-14-abb-spending-280m-on-new-european-robotics-hub.md",
       "title": "ABB spending $280M on new European robotics hub",
       "excerpt": "This new facility will increase ABB's manufacturing capacity for its collaborative and industrial robot arms by 50% and enable it to better serve the European market.",
@@ -1252,92 +1347,6 @@
       "provider": {
         "name": "Statista",
         "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-artificial-intelligence-ai-robots-market-insights-and-data-solutions-for-2023-2030.md",
-      "title": "Artificial Intelligence (AI) Robots Market Insights and Data Solutions for [2023-2030]",
-      "excerpt": "The global Artificial Intelligence (AI) Robots market size was valued at USD 8919.76 million in 2022 and is expected to expand at a CAGR of 33.67 Percentage during the forecast period, reaching ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34217473/artificial-intelligence-ai-robots-market-insights-and-data-solutions-for-2023-2030",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34217473/artificial-intelligence-ai-robots-market-insights-and-data-solutions-for-2023-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34217473",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34217473",
-      "publishedDateTime": "2023-09-04T22:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-use-jedi-mind-tricks-to-control-your-next-drone-swarm.md",
-      "title": "Use Jedi Mind Tricks To Control Your Next Drone Swarm",
-      "excerpt": "Researchers at Skolkovo Institute of Technology decided Jedi mind tricks ... the hand control eliminates much of the preprogramming of paths that is currently common in swarm robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2019/10/04/use-jedi-mind-tricks-to-control-your-next-drone-swarm/",
-      "originalUrl": "https://hackaday.com/2019/10/04/use-jedi-mind-tricks-to-control-your-next-drone-swarm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2019/09/featured-skolov.png",
-          "width": 3312,
-          "height": 1863,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/accelerate-client-su
 webUrl: "https://aws.amazon.com/blogs/machine-learning/accelerate-client-success-management-through-email-classification-with-hugging-face-on-amazon-sagemaker/"
 type: article
 quality: 88
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Fine-tune Falcon 7B and other LLMs on Amazon SageMaker with @remote decorator"
+    excerpt: "Today, generative AI models cover a variety of tasks from text summarization, Q&amp;A, and image and video generation. To improve the quality of output, approaches like n-short learning, Prompt engineering, Retrieval Augmented Generation (RAG) and fine tuning are used. Fine-tuning allows you to adjust"
+    publishedDateTime: 2023-09-14T16:53:48Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/fine-tune-falcon-7b-and-other-llms-on-amazon-sagemaker-with-remote-decorator/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 86
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/14/fine-tune-falcon-7b-1260x630.jpg"
+        width: 1260
+        height: 630
+        isCached: true
   - title: "Amazon SageMaker simplifies the Amazon SageMaker Studio setup for individual users"
     excerpt: "Today, we are excited to announce the simplified Quick setup experience in Amazon SageMaker. With this new capability, individual users can launch Amazon SageMaker Studio with default presets in minutes. SageMaker Studio is an integrated development environment (IDE) for machine learning (ML). ML practitioners"
     publishedDateTime: 2023-09-12T16:43:16Z

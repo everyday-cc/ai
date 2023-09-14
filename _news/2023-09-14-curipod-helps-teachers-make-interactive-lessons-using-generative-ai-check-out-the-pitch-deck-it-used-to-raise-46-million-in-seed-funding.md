@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Here's the 14-slide pitch deck Deft, an AI-powered search engine for e-commerce, used to raise $1.8 million in a round backed by Jason Calacanis"
+    excerpt: "The startup has just emerged from stealth and uses AI and natural language processing to improve e-commerce search for consumers."
+    publishedDateTime: 2023-09-14T16:00:00Z
+    webUrl: "https://www.businessinsider.com/deft-ai-powered-e-commerce-search-engine-raises-vc-funding-2023-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 32
+    images:
+      - url: "https://i.insider.com/6501bb4a1afe8f0019e978c6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "0bf/XLhnWXn63T+SwXqKukxkmVTagIpj4o6EYmbdN9OEmZPvyaaxSaPLlT+zw6WQTSqKsbMAb8ARAtFeLtNYdpX8G5SE5o7191Ej9pJ3ZlpmxJ7KOMCEM+xo0RFSPaI/JTX4ONIAJMpn7DWupp+IjkNffF0R3FdP9Ty1xI1dMAmKNxu5bKTrfcyl/Z7ZUOhrLzXSzwTa8sRCl/RMc3cUXWvtQ95PTZo3nH1jBgQZ/ucYI063P8T1lwEEq5TSRsOX8uns6EY3WX59eO3Ze4uEzKnEVjdAkNTkbfvv5QEnjP/+Ja/p09PtxthE/ff7RVVt8/4QEXpTRo6ziNg142edj70gM5hFxzGLXdeRwbVf5Gs=;lXf6gaSP3ffXIhtyvUcPmg=="
 ---

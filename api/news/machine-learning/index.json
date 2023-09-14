@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-15-ais-next-leap-from-trillions-of-tokens-to-every-word-ever-written.md",
+      "title": "AI’s Next Leap: From Trillions Of Tokens To Every Word Ever Written",
+      "excerpt": "By John Werner At the AI for Impact course at MIT, in a conversation with Dave Blundin of Link Ventures, the trajectory of AI's evolution was laid out in a manner",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/09/14/ais-next-leap-from-trillions-of-tokens-to-every-word-ever-written/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/09/14/ais-next-leap-from-trillions-of-tokens-to-every-word-ever-written/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65033b85fb3035d47a2250b8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/09/14/ais-next-leap-from-trillions-of-tokens-to-every-word-ever-written/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/09/14/ais-next-leap-from-trillions-of-tokens-to-every-word-ever-written/amp/",
+      "publishedDateTime": "2023-09-14T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-13-why-your-ai-and-machine-learning-strategy-needs-a-solid-foundation.md",
       "title": "Why Your AI And Machine Learning Strategy Needs A Solid Foundation",
       "excerpt": "Organizations need a clear strategy for how and when they will incorporate AI and machine learning, and they need quality, well-governed data to serve as the bedrock for impactful automation, greater efficiencies and innovation.",
@@ -62,7 +114,7 @@
       "originalUrl": "https://www.wsj.com/articles/private-equity-recruits-data-science-talent-as-industry-tackles-machine-learning-7f6dcba7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -872,6 +924,49 @@
       ]
     },
     {
+      "path": "_news/2023-09-07-fine-structure-sensitive-deep-learning-framework-for-prediction-of-catalytic-properties-with-high-precision.md",
+      "title": "Fine-structure sensitive deep learning framework for prediction of catalytic properties with high precision",
+      "excerpt": "More information: Yuzhuo Chen et al, Fine-structure sensitive deep learning framework for predicting catalytic properties with high precision, Chinese Journal of Catalysis (2023). DOI: 10.1016/S1872-2067(23)64467-5",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-09-fine-structure-sensitive-deep-framework-catalytic.html",
+      "originalUrl": "https://phys.org/news/2023-09-fine-structure-sensitive-deep-framework-catalytic.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/fine-structure-sensiti.jpg",
+          "width": 1280,
+          "height": 953,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-09-fine-structure-sensitive-deep-framework-catalytic.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-fine-structure-sensitive-deep-framework-catalytic.amp",
+      "publishedDateTime": "2023-09-06T13:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-04-flow-wfm-wins-the-emerging-leader-in-wfm-award-at-bpo-and-contact-center-summit-2023.md",
       "title": "FLOW WFM wins the \"Emerging leader in WFM\" award at BPO and Contact Center Summit 2023",
       "excerpt": "The award highlights FLOW's ability to seamlessly integrate with other contact center technologies, eliminating the need for an expensive 'rip and replace'. • FLOW WFM showcased a plethora of features and benefits that empower contact centers to automate routine tasks,",
@@ -1313,111 +1408,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-kx-accelerates-real-time-analytics-ai-and-machine-learning-for-google-cloud-customers.md",
-      "title": "KX ACCELERATES REAL-TIME ANALYTICS, AI, AND MACHINE LEARNING FOR GOOGLE CLOUD CUSTOMERS",
-      "excerpt": "With native support for Python, SQL, and the ability to process time series and vector data in real-time, KX's technology gives data scientists, data engineers, and application developers the ability to combine real-time, historical, and vector embeddings for smarter, faster business decision making.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/kx-accelerates-real-time-analytics-ai-and-machine-learning-for-google-cloud-customers-1032596010",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/kx-accelerates-real-time-analytics-ai-and-machine-learning-for-google-cloud-customers-1032596010",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1866445/KX_Logo.jpg",
-          "width": 400,
-          "height": 204,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-31T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-openai-backed-language-learning-app-speak-raises-16m-to-expand-to-the-us.md",
-      "title": "OpenAI-backed language learning app Speak raises $16M to expand to the U.S.",
-      "excerpt": "Prior to starting Speak, the pair spent a year studying and researching machine learning and developing accent detection ... which gave Speak not only financing but early access to OpenAI systems and Azure resources from Microsoft, OpenAI’s close ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/31/openai-backed-language-learning-app-speak-raises-16m-to-expand-to-the-u-s/",
-      "originalUrl": "https://techcrunch.com/2023/08/31/openai-backed-language-learning-app-speak-raises-16m-to-expand-to-the-u-s/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/01/ebmpqh7x7jgqejg6uglz.jpg?resize=1196,1200",
-          "width": 1196,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/31/openai-backed-language-learning-app-speak-raises-16m-to-expand-to-the-u-s/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/31/openai-backed-language-learning-app-speak-raises-16m-to-expand-to-the-u-s/amp/",
-      "publishedDateTime": "2023-08-31T04:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -274,6 +274,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
+  - title: "Intel Celebrates AI Accessibility and Enables the Next Generation of Innovators"
+    excerpt: "About Intel's Role: Intel is committed to bringing AI skills everywhere, regardless of a person's ethnicity, age, gender or background. The AI Global Impact Festival provides opportunities and platforms for future innovators to learn, showcase and celebrate the impact of AI innovations."
+    publishedDateTime: 2023-09-14T17:56:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-intel-celebrates-ai-accessibility-enables-next-generation-innovators-/2023/09/14/9881521.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
   - title: "Smartcat, the Essential Language AI Platform for the Global Enterprise, Launches Multilingual Generative AI Content Creator"
     excerpt: "Smartcat, the essential language AI platform for the enterprise, today announced the release of its multilingual generative AI content creator, which allows each company to use its own proprietary content as the basis for new content development in all languages."
     publishedDateTime: 2023-09-13T10:13:00Z

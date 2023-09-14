@@ -71,6 +71,20 @@ related:
         width: 1920
         height: 960
         isCached: true
+  - title: "California Set to Ban Self-Driving Trucks With No Safety Driver"
+    excerpt: "The California Senate has passed a bill that requires autonomous trucks to have a human safety operator behind the wheel at all times while on public roads. Put simply, it's a ban on driverless trucks — a blow to an industry that has already struggled to ..."
+    publishedDateTime: 2023-09-14T17:47:00Z
+    webUrl: "https://futurism.com/the-byte/california-set-to-ban-self-driving-trucks-with-no-safety-driver"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 24
+    images:
+      - url: "https://wp-assets.futurism.com/2023/09/california-set-to-ban-self-driving-trucks-with-no-safety-driver.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "L/0a0U/6CBxcaeN6bigpivT8Rm3mA655HEli6T1zNaTnBKZgSnsyPufta3waXLE3j4VFK63iTphKJKaUqxmhDIYRllLa2K509LeoXT0xdp6QjTwvoWHpFFrHUCAbIyQmuy0V44/4jBPAuS+9ylyaEtX6omMjZrRywNv3MHovBM7NZYeVnMqlsbkaB04nH9uJtGgLlKESzVwhz7hett5sQM/vXqOSI9tzgoE+peaiJtfEoDHJcjBRAdPA1sgYgPa75nlbJvgPrmaCY48mMeCeB6zUG6dySiu+aX8ND/+HF+VjxpHyS+uywLQfeR5POj4iMX7KC91IOj3q4izde1pUuJE1AMHcQSRsTRgl18682KM8F7xJFWCXe5Xca2jj88tAEQyFUV1ghXzwmOZMvk1Zop5zlpdCw3fNa+tm3AIH/H/Z0A0Dwf1Z+sUNQuFW1OCu2dB0Ngcfs/X8jIqSD1lFr87cUlhjmDcmQ0ccxRtGK+CDIJ7pL6o8ofZHdoUBUBe8GDZDqL+FcYfaHPRHqKQ3TA==;N0pQJ5tt9YCTHMZRiPey0g=="
 ---

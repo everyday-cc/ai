@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/economy/agri-business/samunnati
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/economy/agri-business/samunnati-in-deal-with-singapore-firm-to-use-ai-for-credit-risks/article67303515.ece/amp/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Singapore arms firefighters with AI glasses"
+    excerpt: "A two-year initiative will see Singapore firefighters using 5G-enabled smart glasses to inspect and identify defects in their equipment, so they can be better prepared to respond to emergencies."
+    publishedDateTime: 2023-09-14T16:12:00Z
+    webUrl: "https://www.zdnet.com/article/singapore-arms-firefighters-with-ai-glasses/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-arms-firefighters-with-ai-glasses/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-arms-firefighters-with-ai-glasses/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/87371fc7b94eb81e6924f651340f21a41e628750/2023/09/14/11a698c5-ba64-4f23-9643-d3150dbeacd0/punggol-fire-station-facade.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Singapore's first autonomous car model race crowns winners | Video"
     excerpt: "The Winners of Singapore's first autonomous car model race have been crowned. The DeepRacer League is powered by coding and organisers hope such competitions will get those less digitally savvy to pick up tech skills."
     publishedDateTime: 2023-09-10T15:38:00Z

@@ -61,6 +61,22 @@ related:
         width: 5959
         height: 3973
         isCached: true
+  - title: "Americans are over generative AI like ChatGPT, but their bosses are just getting started"
+    excerpt: "Many companies and bosses are still firming up their generative-AI plans. Employees will have to wait a bit longer to see if their fears materialize."
+    publishedDateTime: 2023-09-14T16:31:00Z
+    webUrl: "https://www.businessinsider.com/people-are-bored-with-chatgpt-generative-ai-bosses-are-not-2023-9"
+    ampWebUrl: "https://www.businessinsider.com/people-are-bored-with-chatgpt-generative-ai-bosses-are-not-2023-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/people-are-bored-with-chatgpt-generative-ai-bosses-are-not-2023-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 78
+    images:
+      - url: "https://i.insider.com/64c7a0d5048ff200190de9d2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Why ChatGPT isn't conscious—but future AI systems might be"
     excerpt: "Google engineer Blake Lemoine made headlines by claiming the company's LaMDA chatbot had achieved sentience. The software had the conversational ability of a precocious seven-year-old, Lemoine said, and we should assume it possessed a similar awareness of the world."
     publishedDateTime: 2023-09-12T16:47:00Z

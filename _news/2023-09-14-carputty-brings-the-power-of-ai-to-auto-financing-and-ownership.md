@@ -22,6 +22,22 @@ topics:
   - AI in Finance
   - AI
 
+related:
+  - title: "Why picking the right AI-credit decisioning partner matters"
+    excerpt: "As financial institutions continue to evaluate AI underwriting solutions to incorporate into their lending strategies, recognizing the distinction between"
+    publishedDateTime: 2023-09-14T17:16:00Z
+    webUrl: "https://www.cuinsight.com/why-picking-the-right-ai-credit-decisioning-partner-matters/"
+    type: article
+    provider:
+      name: CUInsight
+      domain: cuinsight.com
+    quality: 37
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2022/09/bigstock-Futuristic-Robot-Artificial-In-452602145.jpg"
+        width: 1000
+        height: 500
+        isCached: true
+
 secured: "5UQ6K+xY9+LPER7HARxYkjeqkSYviIcQqY2piYBFM8WVHk/S6f2WUwRQJoah0AJWUPAW9SLHx3I/Mr+LLph0SPNv+ZVvk6ZqQeadGDIIkwlz4MnO9y+iDwvwivQ3gVQgnkWzjj7Fb3X1dM81lbj3/FEQzQJW/ZLhBbmUuBugVy21qD/vpJxcLYPh3ax7vfF8ZjvLev9X6Za0pIE1LEPwtUGMvxEAOC6Y9MmekLyVPbbcdgoJpgT2UZ98SVBbAW2sethtQdjD3L3RpCkJt6ZPkcS0Zed/kHvkRH1iEdvX4FfGGwNnGRGJxpxoaty5K+h32bgJqpLUtgwuQrcjNF4ywDa+gmW/mpDEx01Xwze1ytM=;iQBUkJmi1qLaVPWy0Zr4NA=="
 ---
 

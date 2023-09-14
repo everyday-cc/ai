@@ -47,6 +47,36 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Mind the trust gap: Data concerns prompt customer caution over generative AI"
+    excerpt: "A general lack of trust in data security and privacy is holding organizations back from going all in with generative artificial intelligence."
+    publishedDateTime: 2023-09-14T16:13:00Z
+    webUrl: "https://www.zdnet.com/article/mind-the-trust-gap-data-concerns-prompt-customer-caution-over-generative-ai/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/mind-the-trust-gap-data-concerns-prompt-customer-caution-over-generative-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mind-the-trust-gap-data-concerns-prompt-customer-caution-over-generative-ai/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/b7229e536aa765caeba8e4af11d71c48fdd64669/2023/09/14/ad2626bd-f76f-456d-bf28-e83d8935ee36/ailockgettyimages-1437761046.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Simplify access to internal information using Retrieval Augmented Generation and LangChain Agents"
+    excerpt: "This post takes you through the most common challenges that customers face when searching internal documents, and gives you concrete guidance on how AWS services can be used to create a generative AI conversational bot that makes internal information more useful. Unstructured data accounts for 80% of"
+    publishedDateTime: 2023-09-14T16:47:56Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/simplify-access-to-internal-information-using-retrieval-augmented-generation-and-langchain-agents/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 76
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/14/DBSBLOG-14696_Image_10-1057x630.jpg"
+        width: 1057
+        height: 630
+        isCached: true
   - title: "Haltia.AI champions ethical AI revolution"
     excerpt: "Consistent with the UAE leadership’s vision for international impact and technological advancement, Haltia.AI invites companies and institutions worldwide to collaborate. \"The UAE stands as a beacon for global innovation and we aim to contribute to the UAE government’s legacy by spearheading partnerships in the ethical sphere,\" says Talal Thabet."
     publishedDateTime: 2023-09-13T10:18:00Z

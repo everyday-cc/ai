@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Singapore arms firefighters with AI glasses"
+    excerpt: "A two-year initiative will see Singapore firefighters using 5G-enabled smart glasses to inspect and identify defects in their equipment, so they can be better prepared to respond to emergencies."
+    publishedDateTime: 2023-09-14T16:12:00Z
+    webUrl: "https://www.zdnet.com/article/singapore-arms-firefighters-with-ai-glasses/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-arms-firefighters-with-ai-glasses/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-arms-firefighters-with-ai-glasses/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/87371fc7b94eb81e6924f651340f21a41e628750/2023/09/14/11a698c5-ba64-4f23-9643-d3150dbeacd0/punggol-fire-station-facade.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Samunnati in deal with Singapore firm to use AI for credit risks"
     excerpt: "Chennai-based agri enterprise Samunnati has partnered with Singapore-based finbotsAI to use AI-based solutions for credit risk management. Samunnati is the first agri enterprise in India to do so, helping to support financial inclusion of smallholder farmers and agri enterprises."
     publishedDateTime: 2023-09-14T04:10:00Z

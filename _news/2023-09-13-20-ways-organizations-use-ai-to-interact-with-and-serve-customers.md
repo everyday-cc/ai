@@ -134,20 +134,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
-  - title: "Say hello to Coach AI"
-    excerpt: "Coursera chief executive officer Jeff Maggioncalda wants to give you an AI-generated personal tutor. The online learning platform has recently launched Coach, a chatbot tool that plugs into ChatGPT. It answers questions by sifting through and summarising Coursera’s entire curricula."
-    publishedDateTime: 2023-09-10T01:10:00Z
-    webUrl: "https://gulfbusiness.com/coursera-say-hello-to-coach-ai/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 39
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2023/09/coach-ai2.jpg"
-        width: 930
-        height: 620
-        isCached: true
   - title: "An AI reality check"
     excerpt: "While thousands and thousands of people have been working with artificial intelligence for years ... at AI’s medical applications and drug development — how you can tailor therapy and predict response to treatment. If humans ask the right questions ..."
     publishedDateTime: 2023-09-11T17:00:00Z

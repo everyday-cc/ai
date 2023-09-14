@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6313588/california-ai-regulation-bill/"
 webUrl: "https://time.com/6313588/california-ai-regulation-bill/"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -73,6 +73,20 @@ related:
       - url: "https://images.tech.co/wp-content/uploads/2023/07/21014335/truck-route-highway.jpg"
         width: 1920
         height: 960
+        isCached: true
+  - title: "California Set to Ban Self-Driving Trucks With No Safety Driver"
+    excerpt: "The California Senate has passed a bill that requires autonomous trucks to have a human safety operator behind the wheel at all times while on public roads. Put simply, it's a ban on driverless trucks — a blow to an industry that has already struggled to ..."
+    publishedDateTime: 2023-09-14T17:47:00Z
+    webUrl: "https://futurism.com/the-byte/california-set-to-ban-self-driving-trucks-with-no-safety-driver"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 24
+    images:
+      - url: "https://wp-assets.futurism.com/2023/09/california-set-to-ban-self-driving-trucks-with-no-safety-driver.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "2nJYZH1s4kiGY0lydGtiSShhxgADjCvf7kHkQ+Hdqj1kCFbRhgcSruM+f+4ZeRS4qlcCZjFl35q/YYiM2+yzlcZFwwb+wTFOfnox67oUoTWSPy5/7xKtugYs5mdBpPFUpfGx5y6JBfAVeAyR9LyQf2+e4ZEIMIrY/PBUIBg1s65vkOwjuqtrsgYU4gQ7TuXZVgp/r1Z9FhWFC5g3K8mFdYdwaoisMpfkAEkcSJtRESJAZqQ9sD8vvuAM3UpJVJgEOxbF5PRH8hoIz1oxngWAW4+5k32J+6fdemk5IAzJzVHtR/40jzeRwTecaXXRHvBvkGoXYl54tAwTyWqJlxRN87tBI5517I3Tj3Tc40PMKXcCxBTTZDzrcjqStbk0HDUuyM2ddBWiDL/p3h+WCsO5oVZEt3SgW9PEx8zEqZqGhlG+BfJCbVNuryRkZVgRNlVqx8lJ16p3tqXZR1QcajNTwdDCjC/4MR2T1eKFJ0gfkfDhuU1U7f/ZC+FZ23lcFayAmxeBXze9E00BE9PoERq8+A==;IrplU90keSyQrFSRHBbkcA=="

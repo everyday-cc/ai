@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Analysts left Microsoft's AI event feeling even more bullish about the stock"
+    excerpt: "Comments from a recent Microsoft event are giving Wall Street more reasons to get bullish on the technology giant."
+    publishedDateTime: 2023-09-14T14:02:00Z
+    webUrl: "https://www.cnbc.com/2023/09/14/microsoft-ai-event-analysts-feel-even-more-bullish-about-the-stock.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 81
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107183316-16745955982023-01-24t210439z_1989498312_rc29ty9bgi4f_rtrmadp_0_microsoft-results.jpeg?v=1694709338&w=1920&h=1080"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Microsoft says it will protect customers from AI copyright lawsuits"
     excerpt: "In 2017, Microsoft, by then a seller of open-source software itself, offered to protect customers of its Azure cloud products from legal claims. The company in June announced a program to help customers ensure the AI programs they run on Microsoft ..."
     publishedDateTime: 2023-09-11T03:04:00Z

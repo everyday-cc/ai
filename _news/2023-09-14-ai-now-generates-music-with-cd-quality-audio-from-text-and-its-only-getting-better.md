@@ -270,6 +270,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
+  - title: "Intel Celebrates AI Accessibility and Enables the Next Generation of Innovators"
+    excerpt: "About Intel's Role: Intel is committed to bringing AI skills everywhere, regardless of a person's ethnicity, age, gender or background. The AI Global Impact Festival provides opportunities and platforms for future innovators to learn, showcase and celebrate the impact of AI innovations."
+    publishedDateTime: 2023-09-14T17:56:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-intel-celebrates-ai-accessibility-enables-next-generation-innovators-/2023/09/14/9881521.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
   - title: "Phenom AI Day Agenda Preview: Technical Experts to Demonstrate and Explain AI's Application for Human Resources"
     excerpt: "AI Day agenda published - Phenom experts to demonstrate and explain AI's role for empowering organizations to hire faster, develop better and retain longer, while reaching new levels of efficiency. This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20230913537994/en/"
     publishedDateTime: 2023-09-13T14:17:00Z
@@ -289,6 +298,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "GIHDSnZtFQ6fjj37JHCofGlxx5v3fcsT8XAOUeSVPbC2uIjL7lGL+lD4Pjr2dN3cXlYD3+gDKDYdBEtQeIbBD2GysCGlF+qLf3wlXjE5ie56YbDXrVDAijEOTBauybLwBTRYoQ3bwl62JDo7xRQLwoxYys1I6yhe5p/OG7M0rK9qx5j6Q67fXtG8f180GlNxz0J89uNfjoz26YAoy95JZKKczrzD/BbfwmGl6rGTXnlQXhLSJVGa+hZJu/4v51+h8wbrT4iyf+fTgxyJR0Rey/EFeOHikesinuNGM0J5qI0SVDKVjUiF94KxSI0HRcl0f52VWYiYiha2YhnBRRYn45wnlb+2GvmJ2SPE6jEPwTo=;APeqtuIf4sBYnegkwgflBQ=="
+secured: "Jem8aSAjlTiHImX462kapyXYS9v4kw1ZiZQ1HqMwWBof0jr9LmNndYmc2P85oMKYVZDnCKV4s4satErQ9chU+yqxh0B1TBTycJSFHHuhRWimNPOI9muKp+ov9rccKS9s5xBlXrFEG+aWgJc3Y5niTSTzWZ4fuCgkeN2YpeyVeBsei4gKsRas4M22y/l+HAYgCkyMUbwQ0oOOhVSNZzE+kjGaGBW9oKuk1QoWw9vOlvKu5iLFRoUUerfr/1qVy08X57iYGXRlrjSjvyJ0X+bUWBaUBGvBu3jUqbnZUH5rxlrjaRVE97xmcI5h6ROd0jA79hQqXComt3k7ZlH6zn1hbOwlnMOHXaW5qKfrC5lrwfN1dcLU8qam+a/65/+m+FJqaL+ixmjV6IUTk9De6nUN1GwVz44Qw4Wrzo1oSwPuLLglcQj0RM0JBUPhTFTYo5bzJwWJfOGxwwH/X57kBuDHQmUyVRZngus+n/C6p9bYV5XUH0PMUoEvsTn+1Ih7/fFLfaVwNPDmnALIBCfg9RPGtA==;btCUXwqyDpeNFDbAeZ7csw=="
 ---
 

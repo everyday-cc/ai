@@ -2,6 +2,367 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2023-08-24-n-chandrasekaran-says-best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india.md",
+      "title": "N Chandrasekaran says best of artificial intelligence, machine learning will be deployed at Air India",
+      "excerpt": "\"In the meantime, we have to refurbish our current fleet at an acceptable level. Our aim is to have the best of machine learning and the best of AI in Air India than any other airline,\" he said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbctv18.com/aviation/n-chandrasekaran-says-best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india-17628751.htm",
+      "originalUrl": "https://www.cnbctv18.com/aviation/n-chandrasekaran-says-best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india-17628751.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cnbctv18.com/wp-content/uploads/2023/08/Air-India-rebrainding-15-1019x573.jpg",
+          "width": 1019,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbctv18.com/aviation/n-chandrasekaran-says-best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india-17628751.htm/amp",
+      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/aviation/n-chandrasekaran-says-best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india-17628751.htm/amp",
+      "publishedDateTime": "2023-08-24T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cnbctv18",
+        "domain": "cnbctv18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-modular-secures-100m-to-build-tools-to-optimize-and-create-ai-models.md",
+      "title": "Modular secures $100M to build tools to optimize and create AI models",
+      "excerpt": "Modular, a startup creating a platform for developing and optimizing AI systems, has raised $100 million in a funding round led by General Catalyst with participation from GV (Google Ventures), SV Angel, Greylock and Factory. Bringing Modular’s total ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/24/modular-raises-100m-for-ai-dev-tools/",
+      "originalUrl": "https://techcrunch.com/2023/08/24/modular-raises-100m-for-ai-dev-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1314979456.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/24/modular-raises-100m-for-ai-dev-tools/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/24/modular-raises-100m-for-ai-dev-tools/amp/",
+      "publishedDateTime": "2023-08-24T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-you-can-dupe-voice-recognition-software-with-pvc-pipes-uw-madison-researchers-discover.md",
+      "title": "You can dupe voice recognition software with PVC pipes, UW-Madison researchers discover",
+      "excerpt": "The research suggests security systems within voice recognition software aren't as secure as people are made to believe. About 60% of Americans use voice recognition technology on a daily basis ...",
+      "sourceUrl": null,
+      "webUrl": "https://journaltimes.com/news/state-and-regional/uw-madison-research-voice-recognition-security/article_12d5f67a-1c8e-5aec-9ed2-479a06ecbd5b.html",
+      "originalUrl": "https://journaltimes.com/news/state-and-regional/uw-madison-research-voice-recognition-security/article_12d5f67a-1c8e-5aec-9ed2-479a06ecbd5b.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/assets/v3/editorial/1/2d/12d5f67a-1c8e-5aec-9ed2-479a06ecbd5b/64e7752ab0b97.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-24T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Journal Times",
+        "domain": "journaltimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-uw-madison-researchers-find-a-way-to-dupe-voice-recognition-security-software.md",
+      "title": "UW-Madison researchers find a way to dupe voice recognition security software",
+      "excerpt": "UW-Madison researchers have found a way to confuse voice recognition software by adjusting their voice frequencies to mimic others using a mathematical model and a plastic or metal tubes.",
+      "sourceUrl": null,
+      "webUrl": "https://madison.com/video/featured/uw-madison-researchers-find-a-way-to-dupe-voice-recognition-security-software/video_e19afa46-8aef-5681-beb9-9966715af6a0.html",
+      "originalUrl": "https://madison.com/video/featured/uw-madison-researchers-find-a-way-to-dupe-voice-recognition-security-software/video_e19afa46-8aef-5681-beb9-9966715af6a0.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-24T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Madison.com",
+        "domain": "madison.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-openai-partners-with-scale-ai-to-allow-companies-to-fine-tune-gpt-35.md",
+      "title": "OpenAI partners with Scale AI to allow companies to fine-tune GPT-3.5",
+      "excerpt": "OpenAI, the AI startup behind the viral AI-powered chatbot ChatGPT, plans to partner with third party vendors to make it easier for developers to fine-tune its AI models using custom data. Scale customers will be able to prep and “enhance” their data ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/24/openai-partners-with-scale-ai-to-allow-companies-to-fine-tune-gpt-3-5/",
+      "originalUrl": "https://techcrunch.com/2023/08/24/openai-partners-with-scale-ai-to-allow-companies-to-fine-tune-gpt-3-5/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/OpenAI-logo-symmetry.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/24/openai-partners-with-scale-ai-to-allow-companies-to-fine-tune-gpt-3-5/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/24/openai-partners-with-scale-ai-to-allow-companies-to-fine-tune-gpt-3-5/amp/",
+      "publishedDateTime": "2023-08-24T07:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-text-em-all-celebrates-2nd-year-of-great-place-to-work-certification-leading-with-transparency-connection-and-recognition.md",
+      "title": "Text-Em-All Celebrates 2nd Year of Great Place to Work Certification, Leading With Transparency, Connection, and Recognition",
+      "excerpt": "With a 95% approval rating from employees, Text-Em-All stands out for its people-first culture, innovative recognition programs ... unwavering commitment to creating a workplace where every voice matters. This year, an impressive 95% of employees declared ...",
+      "sourceUrl": null,
+      "webUrl": "https://wacotrib.com/ap/state/text-em-all-celebrates-2nd-year-of-great-place-to-work-certification-leading-with-transparency/article_3dcc667e-690f-540d-b47e-7b7bf787e42c.html",
+      "originalUrl": "https://wacotrib.com/ap/state/text-em-all-celebrates-2nd-year-of-great-place-to-work-certification-leading-with-transparency/article_3dcc667e-690f-540d-b47e-7b7bf787e42c.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-24T06:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "wacotrib",
+        "domain": "wacotrib.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-were-buying-a-new-chip-stock-and-looking-to-exit-another-to-expand-our-ai-exposure.md",
+      "title": "We're buying a new chip stock and looking to exit another to expand our AI exposure",
+      "excerpt": "Our plan to offset the initiation is to soon exit one of our Club semis that has a murkier near-term line of sight in AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/08/24/were-buying-a-new-chip-stock-and-looking-to-exit-another-to-expand-our-ai-exposure.html",
+      "originalUrl": "https://www.cnbc.com/2023/08/24/were-buying-a-new-chip-stock-and-looking-to-exit-another-to-expand-our-ai-exposure.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107197030-1676850083877-gettyimages-1459193203-nasdaqstockreadytopastq4expectations005.jpeg?v=1692890083&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-24T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-advantages-of-artificial-intelligence-ai-in-2023.md",
+      "title": "Advantages Of Artificial Intelligence (AI) In 2023",
+      "excerpt": "And hence, eventually the significance of artificial intelligence comes into the picture which plays a very vital role in segregating these huge datasets into useful and accurate pieces of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/advisor/in/business/software/advantages-of-ai/",
+      "originalUrl": "https://www.forbes.com/advisor/in/business/software/advantages-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/04/pexels-cottonbro-studio-6153354.png",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-24T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-24-autism-therapy-cannformatics-targets-metabolic-imbalances-using-machine-learning.md",
       "title": "Autism Therapy: Cannformatics Targets Metabolic Imbalances Using Machine Learning",
       "excerpt": "Cannformatics, an early-stage biotechnology company, has unveiled a groundbreaking advancement in the field of medical cannabis treatment for Autism Spectrum Disorder (ASD).",
@@ -797,341 +1158,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-chatgpt-shows-limited-ability-to-recommend-guidelines-based-cancer-treatments.md",
-      "title": "ChatGPT shows limited ability to recommend guidelines-based cancer treatments",
-      "excerpt": "For many patients, the internet serves as a powerful tool for self-education on medical topics. With ChatGPT now at patients’ fingertips, researchers from Brigham and Women’s Hospital, a founding member of the Mass General Brigham healthcare system,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/999410",
-      "originalUrl": "https://www.eurekalert.org/news-releases/999410",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-global-ai-chip-revenue-to-reach-53b-in-2023.md",
-      "title": "Global AI chip revenue to reach $53B in 2023",
-      "excerpt": "The global revenue opportunity for semiconductors designed for AI workloads is set to hit US$53.4 billion in 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/708474/global-ai-chip-revenue-reach-53b-2023/",
-      "originalUrl": "https://www.reseller.co.nz/article/708474/global-ai-chip-revenue-reach-53b-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_s_circuit_board.jpg",
-          "width": 496,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-23T16:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-dan-odowd-wants-tesla-to-fix-its-self-driving-program-before-it-kills-more-people.md",
-      "title": "Dan O’Dowd Wants Tesla to Fix Its Self-Driving Program Before It Kills More People",
-      "excerpt": "He believes the self-driving software that Tesla uses will kill people. To get the word out, O’Dowd ran for the U.S. Senate on the single issue in 2022, bought a full-page ad in the New York Times last November, and placed a 30-second Super Bowl commerci ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.com/2023/06/23/dan-odowd-wants-tesla-to-fix-its-self-driving-program-before-it-kills-more-people/",
-      "originalUrl": "https://www.independent.com/2023/06/23/dan-odowd-wants-tesla-to-fix-its-self-driving-program-before-it-kills-more-people/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.independent.com/wp-content/uploads/2023/06/Tesla-fails-bus-stop-test-e1687556803267.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.independent.com/2023/06/23/dan-odowd-wants-tesla-to-fix-its-self-driving-program-before-it-kills-more-people/?amp=1",
-      "cdnAmpWebUrl": "https://www-independent-com.cdn.ampproject.org/c/s/www.independent.com/2023/06/23/dan-odowd-wants-tesla-to-fix-its-self-driving-program-before-it-kills-more-people/?amp=1",
-      "publishedDateTime": "2023-08-23T15:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Santa Barbara Independent",
-        "domain": "independent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-dog-robot-keeps-moving-without-motors.md",
-      "title": "Dog robot keeps moving without motors",
-      "excerpt": "A robotics student from Switzerland’s École Polytechnique Fédérale de Lausanne (EPFL) research institute developed a new dog robot design. Mickaël Achkar enabled his canine robot frame body to",
-      "sourceUrl": null,
-      "webUrl": "https://technology.inquirer.net/127294/dog-robot-keeps-moving-without-motors",
-      "originalUrl": "https://technology.inquirer.net/127294/dog-robot-keeps-moving-without-motors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://technology.inquirer.net/files/2023/08/dog-robot-motion.png-620x349.png",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-23T15:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Philippine Daily Inquirer",
-        "domain": "inquirer.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-this-ai-expert-left-meta-to-lead-cmus-language-technologies-institute.md",
-      "title": "This AI expert left Meta to lead CMU’s Language Technologies Institute",
-      "excerpt": "\"We are at an inflection point for this technology and the discipline as a whole,\" Mona Diab said. \"It is a critical time to take into account its impact and sustainability.\"",
-      "sourceUrl": null,
-      "webUrl": "https://technical.ly/professional-development/mona-diab-ai-meta-cmu-language-technologies-institute/",
-      "originalUrl": "https://technical.ly/professional-development/mona-diab-ai-meta-cmu-language-technologies-institute/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-23T15:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Technical",
-        "domain": "technical.ly",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-aws-ec2-instance-types-challenges-and-best-practices-for-hosting-your-applications-in-aws.md",
-      "title": "AWS EC2 instance types: Challenges and best practices for hosting your applications in AWS",
-      "excerpt": "We will explore the challenges of selecting the best Amazon EC2 instance type and discuss the best practices for how to make the right decision.\nThe post AWS EC2 instance types: Challenges and best practices for hosting your applications in AWS appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/aws-ec2-instance-types-challenges-and-best-practices-for-hosting-your-applications-in-aws/",
-      "originalUrl": "https://www.ibm.com/blog/aws-ec2-instance-types-challenges-and-best-practices-for-hosting-your-applications-in-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-23T14:58:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-salesforce-predicts-ai-will-drive-194-billion-in-online-holiday-sales.md",
-      "title": "Salesforce Predicts AI Will Drive $194 Billion In Online Holiday Sales",
-      "excerpt": "Tools like AI-generated product recommendations, and social media ads are expected to be key factors in driving sales during a challenging holiday season.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joanverdon/2023/08/23/salesforce-predicts-ai-will-drive-194-billion-in-online-holiday-sales/",
-      "originalUrl": "https://www.forbes.com/sites/joanverdon/2023/08/23/salesforce-predicts-ai-will-drive-194-billion-in-online-holiday-sales/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63e417d475ec314ca09be102/0x0.jpg?format=jpg&crop=3855,2170,x0,y191,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joanverdon/2023/08/23/salesforce-predicts-ai-will-drive-194-billion-in-online-holiday-sales/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joanverdon/2023/08/23/salesforce-predicts-ai-will-drive-194-billion-in-online-holiday-sales/amp/",
-      "publishedDateTime": "2023-08-23T14:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-breakthrough-ai-implants-let-paralyzed-woman-talk-for-first-time-in-years.md",
-      "title": "Breakthrough AI implants let paralyzed woman ‘talk’ for first time in years",
-      "excerpt": "A digital avatar is able to speak what she is thinking, using a copy of her voice recorded during a toast she gave at her own wedding.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2023/08/23/paralyzed-woman-unable-to-speak-for-years-talks-again-with-ai-breakthrough/",
-      "originalUrl": "https://nypost.com/2023/08/23/paralyzed-woman-unable-to-speak-for-years-talks-again-with-ai-breakthrough/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/08/NYPICHPDPICT000026650278.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 524,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2023/08/23/paralyzed-woman-unable-to-speak-for-years-talks-again-with-ai-breakthrough/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/08/23/paralyzed-woman-unable-to-speak-for-years-talks-again-with-ai-breakthrough/amp/",
-      "publishedDateTime": "2023-08-23T14:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }
