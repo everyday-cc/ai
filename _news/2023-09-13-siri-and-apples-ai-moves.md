@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/livecoverage/apple-iphone-event-2023/card/siri
 webUrl: "https://www.wsj.com/livecoverage/apple-iphone-event-2023/card/siri-and-apple-s-ai-moves-MptPFrA2JGuuCuS9RDvY"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple is the most trusted artificial intelligence fitness brand"
-    excerpt: "A new study potentially has good news for Apple’s rumored “Quartz” artificial intelligence health coach. As artificial intelligence (AI) continues to enhance the wellness landscape, questions of how these advancements might impact health and fitness arise."
-    publishedDateTime: 2023-09-13T14:50:00Z
-    webUrl: "https://www.mactech.com/2023/09/13/apple-is-the-most-trusted-artificial-intelligence-fitness-brand/"
-    ampWebUrl: "https://www.mactech.com/2023/09/13/apple-is-the-most-trusted-artificial-intelligence-fitness-brand/amp/"
-    cdnAmpWebUrl: "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2023/09/13/apple-is-the-most-trusted-artificial-intelligence-fitness-brand/amp/"
-    type: article
-    provider:
-      name: MacTech
-      domain: mactech.com
-    quality: 59
-    images:
-      - url: "https://www.mactech.com/wp-content/uploads/2023/09/Apple-and-AI-1024x699.jpg"
-        width: 1024
-        height: 699
-        isCached: true
   - title: "Stethoscopes, Electronics, And Artificial Intelligence"
     excerpt: "What’s more, since the Hopkins smart stethoscope is a digital instrument, it can serve as input for an artificial intelligence application that automatically analyzes the data for signs of ..."
     publishedDateTime: 2023-09-13T00:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://hackaday.com/2023/06/27/an-android-phone-powers-a-self-dri
 webUrl: "https://hackaday.com/2023/06/27/an-android-phone-powers-a-self-driving-car/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Are electric and self-driving cars really a good idea?"
-    excerpt: "They just need occasional tires and wiper blades. It’s been about 5 years since sages predicted self-driving cars would be available for all in 5 years. It turns out that it’s a lot harder than they thought. Several attempts have disappointed or failed ..."
-    publishedDateTime: 2023-09-09T10:06:00Z
-    webUrl: "https://www.westhawaiitoday.com/2023/09/09/opinion/are-electric-and-self-driving-cars-really-a-good-idea/"
-    ampWebUrl: "https://www.westhawaiitoday.com/2023/09/09/opinion/are-electric-and-self-driving-cars-really-a-good-idea/amp/"
-    cdnAmpWebUrl: "https://www-westhawaiitoday-com.cdn.ampproject.org/c/s/www.westhawaiitoday.com/2023/09/09/opinion/are-electric-and-self-driving-cars-really-a-good-idea/amp/"
+  - title: "Voice Controlled Robot Controlled By An Android Phone"
+    excerpt: "[Jeff] sent in a build of a voice controlled robot he just finished based on the Android ADK and an iRobot Create. The robot is able to obey voice commands telling it where to go. Currently the ..."
+    publishedDateTime: 2023-09-11T00:00:00Z
+    webUrl: "https://hackaday.com/2011/07/05/voice-controlled-robot-controlled-by-an-android-phone/"
     type: article
     provider:
-      name: West Hawaii Today
-      domain: westhawaiitoday.com
-    quality: 44
+      name: Hackaday
+      domain: hackaday.com
+    quality: 39
     images:
-      - url: "https://www.westhawaiitoday.com/wp-content/uploads/2021/08/og_image_logo.png"
-        width: 400
-        height: 400
+      - url: "http://hackaday.com/wp-content/uploads/2011/07/robot.jpg?w=450"
+        width: 450
+        height: 264
         isCached: true
   - title: "City of Austin releases new data on self-driving cars"
     excerpt: "Self-driving cars may be the way of the future, but they're encountering quite a few glitches in the here and now. The City of Austin is out with some new numbers on just how many incidents there have been involving those driverless cars."

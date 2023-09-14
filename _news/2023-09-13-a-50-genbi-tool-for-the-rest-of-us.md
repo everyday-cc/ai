@@ -6,8 +6,8 @@ publishedDateTime: 2023-09-13T00:00:00Z
 originalUrl: "https://www.datanami.com/2023/09/13/a-50-genbi-tool-for-the-rest-of-us/"
 webUrl: "https://www.datanami.com/2023/09/13/a-50-genbi-tool-for-the-rest-of-us/"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.datanami.com/wp-content/uploads/2021/02/analytics_shutterstock_Peshkova.jpg"

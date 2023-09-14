@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 1801
         isCached: true
-  - title: "How to build an AI Agent run virtual business"
-    excerpt: "If you have interested in fully automating workflows using artificial intelligence you might be interested in ... the datasets ensure that the project remains open for academic and research use. These licenses also stipulate the boundaries for usage ..."
-    publishedDateTime: 2023-09-09T09:16:00Z
-    webUrl: "https://www.geeky-gadgets.com/build-an-ai-agent-run-virtual-business/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/How-to-build-an-AI-Agent-run-virtual-business.jpg"
-        width: 700
-        height: 466
-        isCached: true
   - title: "TechCrunch+ Roundup: Raising follow-on AI funding, Instacart’s IPO, both sides on SB 54"
     excerpt: "Despite the surge of interest in AI, startups hoping to use it as a springboard to their next funding round should think twice."
     publishedDateTime: 2023-09-12T17:20:00Z

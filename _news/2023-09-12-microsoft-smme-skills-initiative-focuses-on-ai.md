@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/8OKdWMDXKJNMbznQ"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/8OKdWMDXKJNMbznQ"
 type: article
 quality: 74
-heat: 224
+heat: 214
 published: true
 
 provider:
@@ -201,15 +201,6 @@ related:
       name: National Herald
       domain: nationalheraldindia.com
     quality: 30
-  - title: "Microsoft announced its first customer product features powered by … – Microsoft"
-    excerpt: "At its Build developers conference, Microsoft unveiled its first features in a customer product powered by GPT-3, the powerful natural language model developed by OpenAI, which will help users build apps without needing to know how to write computer code or formulas."
-    publishedDateTime: 2023-09-09T11:02:00Z
-    webUrl: "https://www.inferse.com/708328/microsoft-announced-its-first-customer-product-features-powered-by-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 14
 
 secured: "hgIXmqNLUiViLUKHI9d7VI9KPD7stZo9dAozgDqZO/WBpNcSJjOglHJIK5fBPRCCEQWd9pdLh9WU/WYLxCuSzP3mv9AMw4YzQaX1H8hInItGkWYAL4eaKsNkobYWHC3BLlZaGsL59G7McjUDgfRGU4b3F3PvqBYJVe8OipHp17f0sUIiYaVBtNqELI7M9y+h0gKn/OvCXm+Lrf2zC9JR97rbjM1Y9v7LJdhmwycyTiyI4KTfntVRe3AlEJST8vWg8zgP2wy6xCTVz8AqxXpOq0dZd1jpEAq2QwEUzOMkhi7PpG9yhcOFNN2ubjFTj09FFHtc1pnE4YJ5jJX23p3WYx3Svr4icJ71kUz03X5+4OM=;K08S5b3nh1q7wJIeWLk5Og=="
 ---

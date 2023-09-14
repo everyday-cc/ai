@@ -7,7 +7,7 @@ originalUrl: "https://www.investmentnews.com/wall-street-weighs-pros-and-cons-of
 webUrl: "https://www.investmentnews.com/wall-street-weighs-pros-and-cons-of-ai-as-washington-gets-to-work-243429"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tech leaders agree on AI regulation but divided on how in Washington forum"
+    excerpt: "Bill Gates, Sundar Pichai, Sam Altman and others gathered for ‘one of the most important conversations of the year’"
+    publishedDateTime: 2023-09-14T01:14:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/sep/13/tech-leaders-washington-ai-saferty-forum-elon-musk-zuckerberg-pichai?ref=biztoc.com"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/sep/13/tech-leaders-washington-ai-saferty-forum-elon-musk-zuckerberg-pichai"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/sep/13/tech-leaders-washington-ai-saferty-forum-elon-musk-zuckerberg-pichai"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 55
+    images:
+      - url: "https://i.guim.co.uk/img/media/744ecef2f0e77400e54ca14bbfd1f09e01a142e5/0_353_6052_3632/master/6052.jpg?width=620&quality=85&auto=format&fit=max&s=ac941ca885e7881395202455f3fc4c09"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Tech industry leaders endorse regulating artificial intelligence at rare summit in Washington"
     excerpt: "6, 2023. Schumer hopes to pass legislation within the next year that both encourages the rapid development of artificial intelligence and mitigates its biggest risks. He is convening a meeting of prominent technology executives to ask them how Congress ..."
     publishedDateTime: 2023-09-13T21:27:00Z

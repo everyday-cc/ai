@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 774
         isCached: true
+  - title: "Automakers Take On Tesla With Seat Massages, Smartphones, And Driverless Cars"
+    excerpt: "Tech Tesla giants, such as Amazon, Qualcomm, and Samsung, attended this year’s IAA, one of the world’s largest motor shows. Their presence underscores the need for traditional automakers to improve the technology in their vehicles,"
+    publishedDateTime: 2023-09-11T11:16:00Z
+    webUrl: "https://www.chiangraitimes.com/business/automakers-take-on-tesla-with-seat/"
+    type: article
+    provider:
+      name: Chiangrai Times
+      domain: chiangraitimes.com
+    quality: 51
+    images:
+      - url: "https://www.chiangraitimes.com/wp-content/uploads/2023/08/Mobile-app-download-banner-ad-Made-with-PosterMyWall-300x300.jpg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "H2eXq43HiG06qdVrk5rqRkzO0MglosUHw8M+/LbM9dxJ7lF5TNjFKm9FBVMnZ4KPWxRNjpx29m2IA1tQ6QXx73/A0Y3z68dquzzXF5jJyo8YmC837R5+wqThW4+BYI9z3yIp8Re9V8GwCiHq1oyLvPRUxAOwXgP9hXde+urgIVpAqjFgJckLq8BBdkmhoxHbc+rbz7HnlgbdKGlTw7WPSCusmObA+poKYcReIBXGC0S/mu0rcxkXUrks3OCS+ElhRRVtB53nkoive+SVuYrK7Oyf8V3roX7TRO/GWlUQBFjSqQVF179AcYouPJM7UPDpqnDbDCHbQhq0IxFlpNtQsZauaQqDx9GkrWYkeI26b80=;u8HLUw43hV+iU3ii30y7tQ=="
 ---

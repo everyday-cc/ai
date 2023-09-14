@@ -2,11 +2,13 @@
 category: news
 title: "In closed forum, tech titans to give senators advice on artificial intelligence"
 excerpt: "Senate Majority Leader Chuck Schumer has been talking for several months about accomplishing a potentially impossible task: Passing bipartisan legislation within the next year that both encourages the rapid development of artificial intelligence and"
-publishedDateTime: 2023-09-13T06:47:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/closed-forum-tech-titans-give-senators-advice-artificial-103142197"
-webUrl: "https://abcnews.go.com/US/wireStory/closed-forum-tech-titans-give-senators-advice-artificial-103142197"
+publishedDateTime: 2023-09-13T04:05:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/closed-forum-tech-titans-give-senators-advice-artificial-103142205"
+webUrl: "https://abcnews.go.com/Technology/wireStory/closed-forum-tech-titans-give-senators-advice-artificial-103142205"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/closed-forum-tech-titans-give-senators-advice-artificial-103142205"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/closed-forum-tech-titans-give-senators-advice-artificial-103142205"
 type: article
-quality: 13
+quality: 53
 heat: -1
 published: false
 
@@ -16,6 +18,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://s.abcnews.com/images/US/wirestory_efcfb1067d68ad2f595db7e92167943c_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Elon Musk and Mark Zuckerberg will talk AI rules in Senate forum on Wednesday"
@@ -138,6 +146,6 @@ related:
       domain: washingtonpost.com
     quality: 9
 
-secured: "MtqQvhEgLq4Ft7KTe/LVKiIMa0qSIihR6Wwn+Iw3kdrVs7gTFjoxK3+0AaEo7gxfZgPyFVP9qeeprBjfO4tbcwHhsBRJVs0xVqGsu2i8lHnbOp0+3RM5Xj6hRuLdE9qdHIbTZD6VQWQxA/HZIjIt9HbYIjl18OKK84QTT1EywBDW5G4ZJFlcXICw7nvY75+nzcTetIBtjKNTNu4ddqw+jyVdiXE0G4ADo3kwQKtQQLbJrvz2cbWvdcVYrrARGn/SptVsjrbWefR8KHsc/qow5MSg5rHKA5CYDmbSQ7CazFV7Dx/yUA8oNsTKQusWtKc8WcG0tr90xB4tqFBhrc0ln2Mu6bA5O35fZ/CHtgDc+egXhEoXz2udAZqzcAZwdwRKKwtXTsgpUB8bHPxWpkOp24tgEWEnDMOMim00svjaLIvm6YlW4eWeJU5t967kYTpQiqTZgcD5UUDfuopV12mI6dtNglSczlqlvFwHXNIY2jm5LPfNQeRMLBfFNQXm6KKM4uFaIcOq3tsrxRK5AtGMng==;a7HlDd6UMBM1zF9v1T1KAw=="
+secured: "/99iuDVx9D1Fli3jirCJnsTpwRVgeKaG+MIfN5cic4gNdB1A94MwlacvqTBNeByQOQDwDwYiJjTf1k1GsSUZbdGodcHtJSdYCpurB9TdZ22imVEl7y7Ev5BVJYFZfTl4n5AAHLz1ivyqBYMYdeHzuP7OLylddtT1uEtc0fquM5z+fdv87K+aq4poEJgk8neNuOGtziLXTvoDGGqiG8bjPEBhNUEyiZ6F5YyBCxNrxNNhtCZ7ZmwY/Q61b4A0EH42lXxT81K29ZNEVKQVsGs9MKQpXpRjTAMYwWuKK4lYu96LtD6zS+SpjK2G6/SY+X7ZawSY0tUfohujPONYMkLoQb1HynwHxOz8L9nT8GYoXmw=;dkclnp6vo92aFyOUTzEOaA=="
 ---
 

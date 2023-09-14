@@ -39,22 +39,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Apple is the most trusted artificial intelligence fitness brand"
-    excerpt: "A new study potentially has good news for Apple’s rumored “Quartz” artificial intelligence health coach. As artificial intelligence (AI) continues to enhance the wellness landscape, questions of how these advancements might impact health and fitness arise."
-    publishedDateTime: 2023-09-13T14:50:00Z
-    webUrl: "https://www.mactech.com/2023/09/13/apple-is-the-most-trusted-artificial-intelligence-fitness-brand/"
-    ampWebUrl: "https://www.mactech.com/2023/09/13/apple-is-the-most-trusted-artificial-intelligence-fitness-brand/amp/"
-    cdnAmpWebUrl: "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2023/09/13/apple-is-the-most-trusted-artificial-intelligence-fitness-brand/amp/"
-    type: article
-    provider:
-      name: MacTech
-      domain: mactech.com
-    quality: 59
-    images:
-      - url: "https://www.mactech.com/wp-content/uploads/2023/09/Apple-and-AI-1024x699.jpg"
-        width: 1024
-        height: 699
-        isCached: true
 
 secured: "PCCkyuTPY9ANQRBTw7nkv0bRAu/pN1eRM7GkW9wXJVgGPHW4dnLkn4NhFlvSjiCLB/2ue2Vs814j7dgerobNNgLoHJDiU1PYjgM5M0PB1WrdO6RnztKs+uV5bjKp5u+S67Tz4duer774K41xyor6wT+vrv6Pm/ji2tv37EtdEYpihMCCsRUbX1/xraGglMP9+QHJK0z/KAtEsamOXeCWsNg+7r8AJXoj5ui33tk+1px1rt8M6h2z8JlccSvQZRff4krh2G1epSDteWZZnEMXWtTdXxUw0OOQ9t3VhZk7G3uqiVjkVDR1NlRLnUVc0A3QPv5ViUqueQP6jzcanRMTBqWbRacKfwk+2MMTm9TqBKk=;9dU0yFeGXSP1VpvMfxM8MA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/09/11/back-to-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/09/11/back-to-school-with-ai/amp/"
 type: article
 quality: 87
-heat: 187
+heat: 197
 published: true
 
 provider:
@@ -162,6 +162,20 @@ related:
       - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2023/09/MMM_September-2023-_Web-Art0011280-x-900.jpg"
         width: 1024
         height: 720
+        isCached: true
+  - title: "Local educators grapple with AI in the classroom"
+    excerpt: "With the new school year underway, and an increased number of students turning to generative AI for help with homework, college applications and simple amusement, local Jewish educators are determining appropriate usage."
+    publishedDateTime: 2023-09-14T02:01:00Z
+    webUrl: "https://jewishchronicle.timesofisrael.com/local-educators-grapple-with-ai-in-the-classroom/"
+    type: article
+    provider:
+      name: jewishchronicle.timesofisrael
+      domain: timesofisrael.com
+    quality: 39
+    images:
+      - url: "https://static.timesofisrael.com/jewishchronicle/uploads/2023/09/iStock-1214297905-1024x640.jpg"
+        width: 1024
+        height: 640
         isCached: true
 
 secured: "N19YVVnE4Q78HAatA45s9YEY2rnSjSWH80ktA+moOJXTHWHJIn+LtGBciaMTrdWnY8a881TNoLQBS9FzqkKKSCzrdzS/ryGN7dchgQUpBQ/ga8+UUCOHybAULGpkrhdSf9JmAbiWJkEFc/AE91YRYJCZpXfW+bQAU1PLLiMsFfncFrlOOdcH59yJuiDpA6312KhVdlM4P5plLt+QBs9A354pciMGTOsnoZ159EmskkR9yZ/igmhlmoxuKYqNIBJMCWJSrS5WyRk7rDXUIRsJ7ClqLLJEfPsgmbt98JSg389rdPF+bRZIc0vki1y3/mEydWoH569bQROwdzx7gPNDWjLDQgOgL2dUYIXLrMdjfVk=;0w1miq7iwFYdAmOfevKwug=="

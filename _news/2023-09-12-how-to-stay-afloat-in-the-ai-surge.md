@@ -163,6 +163,20 @@ related:
         width: 1024
         height: 720
         isCached: true
+  - title: "Local educators grapple with AI in the classroom"
+    excerpt: "With the new school year underway, and an increased number of students turning to generative AI for help with homework, college applications and simple amusement, local Jewish educators are determining appropriate usage."
+    publishedDateTime: 2023-09-14T02:01:00Z
+    webUrl: "https://jewishchronicle.timesofisrael.com/local-educators-grapple-with-ai-in-the-classroom/"
+    type: article
+    provider:
+      name: jewishchronicle.timesofisrael
+      domain: timesofisrael.com
+    quality: 39
+    images:
+      - url: "https://static.timesofisrael.com/jewishchronicle/uploads/2023/09/iStock-1214297905-1024x640.jpg"
+        width: 1024
+        height: 640
+        isCached: true
 
 secured: "9z83tzg+l9BsO6zuoSoJzvlpdw5ETPTXK6WPHTuk+3qZAkrZuQIv1SDJuWMiZxq7B39HhjuteCFOxU4ZBcsrfzcny5MBie6CyKYZUkhuc9DeYg/NaiK/5pX1NgfKR6qKEeEzMCFM0BdF7eV7Ep/O/m/9xa7n7w549ZfJrtjwOQW6a+lAZYc6GbNh1arfYO+RYENmi9jWeQ7BonTjtVs+M3XZ50Bqv5BdtTreCOzAoR3GVN0N+uhMud1hMNOcfy5QdQS7pmrp6PGF7bfrOlkCPbD4AFFv0j9Y7Gcnz6DFdZiHt8iL85rr37+qNpneGR7enoOmhjNtukL+cX8pyPTKOeFc21cmGtotS4Sdcmx8KJU=;KaAfiNgU8VGr8IGtrpNu1A=="
 ---

@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Are electric and self-driving cars really a good idea?"
-    excerpt: "They just need occasional tires and wiper blades. It’s been about 5 years since sages predicted self-driving cars would be available for all in 5 years. It turns out that it’s a lot harder than they thought. Several attempts have disappointed or failed ..."
-    publishedDateTime: 2023-09-09T10:06:00Z
-    webUrl: "https://www.westhawaiitoday.com/2023/09/09/opinion/are-electric-and-self-driving-cars-really-a-good-idea/"
-    ampWebUrl: "https://www.westhawaiitoday.com/2023/09/09/opinion/are-electric-and-self-driving-cars-really-a-good-idea/amp/"
-    cdnAmpWebUrl: "https://www-westhawaiitoday-com.cdn.ampproject.org/c/s/www.westhawaiitoday.com/2023/09/09/opinion/are-electric-and-self-driving-cars-really-a-good-idea/amp/"
-    type: article
-    provider:
-      name: West Hawaii Today
-      domain: westhawaiitoday.com
-    quality: 44
-    images:
-      - url: "https://www.westhawaiitoday.com/wp-content/uploads/2021/08/og_image_logo.png"
-        width: 400
-        height: 400
-        isCached: true
   - title: "An Android Phone Powers A Self Driving Car"
     excerpt: "As auto manufacturers have brought self-driving features to their products, we’re told about how impressive their technologies are and just how much computing power is on board to make it happen."
     publishedDateTime: 2023-09-10T00:00:00Z
@@ -50,6 +34,20 @@ related:
       - url: "https://hackaday.com/wp-content/uploads/2023/06/android-self-drive-featured.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Voice Controlled Robot Controlled By An Android Phone"
+    excerpt: "[Jeff] sent in a build of a voice controlled robot he just finished based on the Android ADK and an iRobot Create. The robot is able to obey voice commands telling it where to go. Currently the ..."
+    publishedDateTime: 2023-09-11T00:00:00Z
+    webUrl: "https://hackaday.com/2011/07/05/voice-controlled-robot-controlled-by-an-android-phone/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 39
+    images:
+      - url: "http://hackaday.com/wp-content/uploads/2011/07/robot.jpg?w=450"
+        width: 450
+        height: 264
         isCached: true
   - title: "Here's what needs to happen to achieve safe self-driving cars"
     excerpt: "Tesla has since released a few versions of advanced driver assist software, Autopilot and Full Self-Driving. But Tesla's FSD is a bit of a misnomer; cars using FSD do not truly drive themselves. The driver has to be ready to take over if necessary ..."

@@ -9,7 +9,7 @@ ampWebUrl: "https://moneymorning.com/2023/09/13/teslas-driverless-course-to-domi
 cdnAmpWebUrl: "https://moneymorning-com.cdn.ampproject.org/c/s/moneymorning.com/2023/09/13/teslas-driverless-course-to-dominance/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Automakers Take On Tesla With Seat Massages, Smartphones, And Driverless Cars"
+    excerpt: "Tech Tesla giants, such as Amazon, Qualcomm, and Samsung, attended this year’s IAA, one of the world’s largest motor shows. Their presence underscores the need for traditional automakers to improve the technology in their vehicles,"
+    publishedDateTime: 2023-09-11T11:16:00Z
+    webUrl: "https://www.chiangraitimes.com/business/automakers-take-on-tesla-with-seat/"
+    type: article
+    provider:
+      name: Chiangrai Times
+      domain: chiangraitimes.com
+    quality: 51
+    images:
+      - url: "https://www.chiangraitimes.com/wp-content/uploads/2023/08/Mobile-app-download-banner-ad-Made-with-PosterMyWall-300x300.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Tesla Finally Adds Long-Promised Feature To Full Self-Driving Suite"
     excerpt: "Tesla has added Autosteer on city streets to the available functions for its optional Full Self-Driving Capability suite, a $12,000 option on new Teslas. A visit to the EV maker's website confirms that the feature is no longer listed as \"coming soon ..."
     publishedDateTime: 2023-09-09T14:15:00Z

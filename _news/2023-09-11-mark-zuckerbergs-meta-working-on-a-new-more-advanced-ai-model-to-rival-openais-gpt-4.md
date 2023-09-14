@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "In closed forum, tech titans to give senators advice on artificial intelligence"
+    excerpt: "Senate Majority Leader Chuck Schumer has been talking for several months about accomplishing a potentially impossible task: Passing bipartisan legislation within the next year that both encourages the rapid development of artificial intelligence and"
+    publishedDateTime: 2023-09-13T04:05:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/closed-forum-tech-titans-give-senators-advice-artificial-103142205"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/closed-forum-tech-titans-give-senators-advice-artificial-103142205"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/closed-forum-tech-titans-give-senators-advice-artificial-103142205"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 53
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_efcfb1067d68ad2f595db7e92167943c_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Musk, Zuckerberg, Gates: The titans of tech will talk AI at private Capitol summit"
     excerpt: "This week will feature a series of public hearings on artificial intelligence. But all eyes will be on the closed-door gathering convened by Senate Majority Leader Chuck Schumer."
     publishedDateTime: 2023-09-11T12:34:00Z
@@ -112,15 +128,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "In closed forum, tech titans to give senators advice on artificial intelligence"
-    excerpt: "Senate Majority Leader Chuck Schumer has been talking for several months about accomplishing a potentially impossible task: Passing bipartisan legislation within the next year that both encourages the rapid development of artificial intelligence and"
-    publishedDateTime: 2023-09-13T06:47:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/closed-forum-tech-titans-give-senators-advice-artificial-103142197"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 13
   - title: "Congress huddles with tech experts in new push for AI rules: ‘There will be regulation’"
     excerpt: "Senators are meeting with leading Big Tech executives this week as part of a new push to write rules for artificial intelligence focused on limiting danger and safeguarding innovation."
     publishedDateTime: 2023-09-12T19:56:00Z

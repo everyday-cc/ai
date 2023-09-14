@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tech leaders agree on AI regulation but divided on how in Washington forum"
+    excerpt: "Bill Gates, Sundar Pichai, Sam Altman and others gathered for ‘one of the most important conversations of the year’"
+    publishedDateTime: 2023-09-14T01:14:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/sep/13/tech-leaders-washington-ai-saferty-forum-elon-musk-zuckerberg-pichai?ref=biztoc.com"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/sep/13/tech-leaders-washington-ai-saferty-forum-elon-musk-zuckerberg-pichai"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/sep/13/tech-leaders-washington-ai-saferty-forum-elon-musk-zuckerberg-pichai"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 55
+    images:
+      - url: "https://i.guim.co.uk/img/media/744ecef2f0e77400e54ca14bbfd1f09e01a142e5/0_353_6052_3632/master/6052.jpg?width=620&quality=85&auto=format&fit=max&s=ac941ca885e7881395202455f3fc4c09"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Wall Street weighs pros and cons of AI as Washington gets to work"
     excerpt: "AI industry juggernauts Google ... “There is plenty of money to be made in financial securities arena by doing things the right way, with ethics and morals, but there are always corner cutters out there. I would hope that regulation would stop this ..."
     publishedDateTime: 2023-09-12T23:23:00Z

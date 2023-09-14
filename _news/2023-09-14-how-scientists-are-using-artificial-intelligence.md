@@ -1,27 +1,26 @@
 ---
 category: news
 title: "How scientists are using artificial intelligence"
-excerpt: "Automating and speeding up physical experiments and laboratory work is another area of interest. “Self-driving laboratories” can plan an experiment, execute it using a robotic arm, and then analyse the results. Automation can make discovering new compounds, or finding better ways of making old compounds, up to a thousand times faster."
-publishedDateTime: 2023-09-13T21:52:00Z
-originalUrl: "https://www.aol.com/finance/scientists-using-artificial-intelligence-185204515.html"
-webUrl: "https://www.aol.com/finance/scientists-using-artificial-intelligence-185204515.html"
+excerpt: "In 2019, scientists at the Massachusetts Institute of Technology (MIT) did something unusual in modern medicine—they found a new antibiotic, halicin. In May this year another team found a second antibiotic,"
+publishedDateTime: 2023-09-13T18:52:00Z
+originalUrl: "https://www.economist.com/science-and-technology/2023/09/13/how-scientists-are-using-artificial-intelligence"
+webUrl: "https://www.economist.com/science-and-technology/2023/09/13/how-scientists-are-using-artificial-intelligence"
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: The Economist
+  domain: economist.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://media.zenfs.com/en/aol_the_economist_398/bae84b4d519fcdddc9fc85fd84d2acd5"
-    width: 608
-    height: 739
+  - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230916_STD001.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -42,6 +41,6 @@ related:
         height: 733
         isCached: true
 
-secured: "HT1Kf2+fGGIO6ZzJ05IEkkoq72xuYGAEtpQYsNdL55QBhdDYQ9GnUwFj0dEmjaOb8yBFJy6oqsO61fqucjbWEzT09Gme0wVpCDYZmKnJxLnNloid15ayBL4wIccESbt3RURnYmiYqDN8DNqiv9V66wgodX8hSaNEusF25WxdSVT7LJB5ibAd4ne4IyMXkZmnaXo97H9sq91vwI7/O+OUV6bf836GKyvV9VMQEoLrmWNMSCFXvJ09ioigENDxUOaWoYGyOeSzG2Zl7TNlgoJP9vXV/IMBR6jX/q7glyMoTlpWEEzQOBlX4bmTOr3YAifYUYGNw9e5YgjEPAMUAsrQ+vTx6q/recdDbD62XOGuEt4=;DRntExwbCSKBlRNmvByyfQ=="
+secured: "ZMqtWo0pzo1RATMbP2iALmoAdnsRE7oVFiT9qFRJEcascv5jpt688tgmGjrpVA/cVSL7HeY7sPFye8sU2P4iEFnIfMGCVkV4yHzN6uu8iCH3bzPhr7kbb4uAyxqIaffQK5JGixHklkaBRogsZUk/pCUKU1R+QTjRiMWK+juu1ZUCI0eVNiw28AcbYn0HKv47GzF3xHfMd/k6Q3tl1GOsFHarh4Io2FGzY9m2P6p0k0JpO1DxCPrupoaU/qFo9JOeOvYMRd1IlWSWETZTxAM4YN5aPk9EVU4wL/dgSYRDAo6U06u4DtyzDNdl+FIUPYov09ght5KTuOQy1IPE46fMzQR039VXKdu8FHaZoiPOWos=;uXElmQJU3yiutc+rodSBgw=="
 ---
 

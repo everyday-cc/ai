@@ -59,20 +59,6 @@ related:
         width: 5959
         height: 3973
         isCached: true
-  - title: "Senators Want ChatGPT-Level AI to Require a Government License"
-    excerpt: "A new US government body would force companies to seek a license before working on powerful AI models like OpenAI's GPT-4, under a bipartisan proposal by senators Richard Blumenthal and Josh Hawley."
-    publishedDateTime: 2023-09-09T11:00:00Z
-    webUrl: "https://www.wired.com/story/senators-want-chatgpt-ai-to-require-government-license/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
-    images:
-      - url: "https://media.wired.com/photos/64fb53a873e79c7f595a2185/191:100/w_1280,c_limit/Senate-AI-Bill-Business-Alamy-2RE6CJN.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "Anduril founder Palmer Luckey says the ChatGPT buzz is making politicians more interested in AI-powered weapons"
     excerpt: "Palmer Luckey told Breaking Defense that the AI hype cycle has helped those on Capitol Hill and the Pentagon have a \"come-to-Jesus moment\" with AI."
     publishedDateTime: 2023-09-09T15:41:00Z
@@ -296,6 +282,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/6/5e/65eddd27-5f7e-51af-a65c-5d8ff9c1f88d/64fc7131358f7.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Why Japan is building its own version of ChatGPT"
+    excerpt: "Some Japanese researchers feel that AI systems trained on foreign languages cannot grasp the intricacies of Japanese language and culture."
+    publishedDateTime: 2023-09-14T03:41:00Z
+    webUrl: "https://www.nature.com/articles/d41586-023-02868-z"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 24
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-02868-z/d41586-023-02868-z_26031418.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "AI tech behind ChatGPT was built in Iowa -- with lots of water"
     excerpt: "The cost of building an artificial intelligence product such as ChatGPT can be hard to measure. But one thing Microsoft-backed OpenAI needed for its technology was plenty of water, pulled from the watershed of the Raccoon and Des Moines rivers in central Iowa to cool a powerful supercomputer as it helped teach its AI systems how to mimic human"
