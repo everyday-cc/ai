@@ -76,6 +76,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Winn.AI Introduces AI-Powered \"Magic Emails\" To Revolutionize Sales Follow-Ups"
+    excerpt: "Winn.AI, an Israel-based sales tech startup that helps sales teams win more deals with less hassle through its innovative real-time tracking, capturing, and CRM updating features, introduces Magic Emails,"
+    publishedDateTime: 2023-09-14T00:35:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/ab34558719/winn-ai-introduces-ai-powered-magic-emails-to-revolutionize-sales-follow-ups"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34558719"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34558719"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 70
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Stability AI debuts Stable Audio bringing text to audio generation to the masses"
     excerpt: "Stability AI today announced the initial public release of its Stable Audio technology, providing anyone with ability to use simple text prompts to generate short audio clips."
     publishedDateTime: 2023-09-13T08:14:00Z

@@ -94,6 +94,20 @@ related:
         width: 1400
         height: 900
         isCached: true
+  - title: "Here are the six AI nonprofits Salesforce is backing"
+    excerpt: "The list includes Beyond 12, CareerVillage, CodePath, College Possible, Per Scholas and Teacher Development Trust, many education focused."
+    publishedDateTime: 2023-09-14T01:38:00Z
+    webUrl: "https://venturebeat.com/ai/here-are-the-six-ai-nonprofits-salesforce-is-backing/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/02/istock-642810122-e1595440276773.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Dreamforce 2023 - how to be an AI Pioneer, according to IBM's State of Salesforce study"
     excerpt: "The State of Salesforce report has a number of recommendations here. Approach generative AI as a team sport. IBM’s CEO research concludes that 55% of stakeholders, including customers, boards of directors, and investors - are urging CEOs to accelerate ..."
     publishedDateTime: 2023-09-12T11:03:00Z
@@ -145,6 +159,6 @@ related:
       domain: siliconangle.com
     quality: 14
 
-secured: "RfHJDXZ3OLLnJVoXKRV5fz1VHXJuU/B6xzb6Lp1Xy+ncdzPuNplTGzffHmC6fSeUrP0xKAmg+BnECWB+7AYZf7Kha6Wah7+mbgfCuQiz7dfu/06mHCwCRPV92iQZ6oiI+4JhBwcmU8fDLvqMa6F+1EHsRDr9c0PcqffjFyMbpsPdVzhJ+GYnEwo6cmz4W+j4d4qDlIOrwhaK/mioTB28b80vW0eD9mHOYL8wCkGjC7W0w4MLLqfSswXg6klVG8f1SicIlSapdf+cAzZRmV0fO89tddHQWSQ8J/RF/zkho92qkVJN6wajO4XFf94O55qIz9m0WKEjhXo0WWJ5pwwZireuIXuISmuWXGTvuQbTZCY=;ryrEEMz34DLATEPgS9l5bQ=="
+secured: "8XMVN69viD35VFU5cw0VAaJ4V4zdAua7r2eqiNLZs1S3RfYTTzfB+hRQ/XqIJ3uDJ1jYl8miloIPJeIYOuy5TaD/e5fgmjI/ilTxtiOKQQ6Ym7NltbN1VikGAnJafkvSYGRD1WXj9T4RDpKgUoRPS4C/CTgIjPZ1uUUt7wEQiUNvXGMLJ3yBmQxZewS4Q4IySP4YoLryVwcax3JL02bsmPLRmaVF46vxtP+Qw7EBuOW2EstRNMOL/6vLPG6RHFaaPianQjhvr+g62H+kqejsdbqv7C6TehjnUa8OFuwcu9euEpXg6iDHCi8nudA5oM76vH14VFt4as2OeYIYYlPZeqlWkSdOPuNoKS3rsoYonSINMHQBf9F7S/IRyS6bvDYzl/7ryOe3tAqPG5j/V8ojC2st2Se+a5W2SWX1vwiVKdSlq5JwgerQ/sTAlqgi7StQeNg9X6E3luP1cGXWPj6O+8k0KEMOTnYyI4aYEhNrHy7usk3Iz78A3i5RnO0qBxIrZ0p6zpdOIAfMoo7d0RLDuQ==;opH6X54Whkv2OvA2w4NqsA=="
 ---
 

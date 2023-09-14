@@ -32,11 +32,11 @@ images:
 
 related:
   - title: "Is AI the Key to Improving Mental Healthcare Accessibility?"
-    excerpt: "AI uses diverse data sources, including medical records, social media, and online searches, aiding in identifying behavioral changes indicative of mental health issues. It can als"
+    excerpt: "AI can improve mental health diagnosis, therapy, and treatment, increasing access and personalizing care. AI automation can help address therapist shortages, extend care to more people, and reduce costs. AI can assist people struggling with autism or PTSD, while mitigating biases and enhancing mental healthcare."
     publishedDateTime: 2023-09-13T16:46:00Z
-    webUrl: "https://www.psychologytoday.com/za/blog/motivate/202309/is-ai-the-key-to-improving-mental-healthcare-accessibility"
-    ampWebUrl: "https://www.psychologytoday.com/za/blog/motivate/202309/is-ai-the-key-to-improving-mental-healthcare-accessibility?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/motivate/202309/is-ai-the-key-to-improving-mental-healthcare-accessibility?amp"
+    webUrl: "https://www.psychologytoday.com/intl/blog/motivate/202309/is-ai-the-key-to-improving-mental-healthcare-accessibility"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/motivate/202309/is-ai-the-key-to-improving-mental-healthcare-accessibility?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/motivate/202309/is-ai-the-key-to-improving-mental-healthcare-accessibility?amp"
     type: article
     provider:
       name: Psychology Today

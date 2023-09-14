@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/elon-musk-and-mark-zuckerberg-
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/elon-musk-and-mark-zuckerberg-will-talk-ai-rules-in-senate-forum-on-wednesday-296d6ffe"
 type: article
 quality: 84
-heat: 166
+heat: 176
 published: true
 
 provider:
@@ -100,6 +100,20 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/3466/production/_131041431_p0gdfsjh.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Senate hosts Elon Musk and other tech leaders for AI regulation talks"
+    excerpt: "Senate Majority Leader Chuck Schumer called on the biggest names in tech for a bipartisan forum Wednesday on how lawmakers should approach artificial intelligence. CBS News senior business and tech correspondent Jo Ling Kent has more."
+    publishedDateTime: 2023-09-14T00:49:00Z
+    webUrl: "https://www.cbsnews.com/video/senate-hosts-elon-musk-tech-leaders-ai-regulation/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/14/eacff1ac-9102-4fb3-b092-bc52256724ed/thumbnail/1200x630/aa434577c43d08525c275a123239ce33/cbsn-fusion-what-concerns-major-issues-a-i-regulation-draws-thumbnail-2288760-640x360.jpg?v=b4264bc5922d2f5b2145bedc5a4d101e"
+        width: 1200
+        height: 630
         isCached: true
   - title: "In closed forum, tech titans to give senators advice on artificial intelligence"
     excerpt: "Senate Majority Leader Chuck Schumer has been talking for several months about accomplishing a potentially impossible task: Passing bipartisan legislation within the next year that both encourages the rapid development of artificial intelligence and"

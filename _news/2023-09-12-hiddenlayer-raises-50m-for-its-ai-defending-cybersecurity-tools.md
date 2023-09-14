@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "Cybersecurity startup Deduce raises $9M for its generative AI Identity fraud solution"
+    excerpt: "Cybersecurity startup Deduce Inc. today announced that it has raised $9 million in new funding to launch its generative AI identity fraud solution and help it scale up to prevent identity fraud across multiple industries."
+    publishedDateTime: 2023-09-13T13:44:00Z
+    webUrl: "https://siliconangle.com/2023/09/13/cybersecurity-startup-deduce-raises-9m-genai-identity-fraud-solution/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 30
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/deduce.jpg"
+        width: 2560
+        height: 1583
+        isCached: true
   - title: "A look at emerging technologies and cybersecurity challenges in fintech"
     excerpt: "Fintech now has a broader palette of options attributable to the confluence of blockchain, AI, and IoT, which offer improved effectiveness, transparency, and customer experience. Artificial intelligence and blockchain technologies find extensive application within the realm of the Internet of Things (IoT)."
     publishedDateTime: 2023-09-10T12:50:00Z

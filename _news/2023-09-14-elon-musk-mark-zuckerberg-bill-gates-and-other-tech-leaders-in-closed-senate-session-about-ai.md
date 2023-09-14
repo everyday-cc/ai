@@ -101,6 +101,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Senate hosts Elon Musk and other tech leaders for AI regulation talks"
+    excerpt: "Senate Majority Leader Chuck Schumer called on the biggest names in tech for a bipartisan forum Wednesday on how lawmakers should approach artificial intelligence. CBS News senior business and tech correspondent Jo Ling Kent has more."
+    publishedDateTime: 2023-09-14T00:49:00Z
+    webUrl: "https://www.cbsnews.com/video/senate-hosts-elon-musk-tech-leaders-ai-regulation/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/14/eacff1ac-9102-4fb3-b092-bc52256724ed/thumbnail/1200x630/aa434577c43d08525c275a123239ce33/cbsn-fusion-what-concerns-major-issues-a-i-regulation-draws-thumbnail-2288760-640x360.jpg?v=b4264bc5922d2f5b2145bedc5a4d101e"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "In closed forum, tech titans to give senators advice on artificial intelligence"
     excerpt: "Senate Majority Leader Chuck Schumer has been talking for several months about accomplishing a potentially impossible task: Passing bipartisan legislation within the next year that both encourages the rapid development of artificial intelligence and"
     publishedDateTime: 2023-09-13T06:47:00Z
@@ -129,6 +143,6 @@ related:
       domain: washingtonpost.com
     quality: 9
 
-secured: "248JEHIuAYLpD1V5CpSKwPHb/a0LJ3hGRKYIXo4BTrcNZxAeShV8uVJ7xl3SwSHjTTl+rw5Q3Iu6JEPjUXhGvfYzPYZ/TgBLl8SaBcBrFs47QzmIi8acuTMkzaHWskEtUQotWOKdsR/Mflx+MWv7DXrIIOX4N1y6BKlDsVTpG7Kt7U46Wn4V+5fypPKO+6XmJtrbOhXNZU8O7+HdnCPDIXfwrQ4blWqs6RE3oXL2gkR1ZmCwSpnRMuY9KPO0eCn/yws5sr7jISeCdTyl3kAVlxzN/V8CrR8NLFC8ozV4plsrnymuatNHP1Ep/CP90krEJs29/ZrCpVHZCk2qe6FoA9msa5lJTBQZXq27fafb/iA=;QZCgnESweTLMrlrYFgh+pQ=="
+secured: "g+UfiveuAYfJJoH2MMI0CSZXCUvFZyqbZ7HCEY2cmOz1RF2i5x8sztPVc06AAfFPE6nctwDesHmlDhM9Gw6OGtxwNjPooYRqRogWSyYNol4PIN5J5cW0rnLLSIjAL370iHO98riWQ6N65RWKNLsxxpOVv/cagSdnlyby+aB2tmYNObAzQdIe71D31JTIw6q48wALTC1UOf5wm0otGOHa7eAajI1jodHTnx5w3cYfI69AJ3JIqORQqSuFbiJ7/qv6ae3BdabuF432aIOloO+AlXjD8cBVozonHBwTL8tKBbKDjMcTkFTqIUbklO4/Vbzq8QAMdzQcZEb49xd+4wcSgbIzYti6fzuRm3DfJV1XZGSqjAZJT2y9SqsWXzaQYTKm9LYlb08qPngGADg8af6KbnRBPH7vO4M/Tb2wZHWW8VGclmmyHwyC3UjqraRNd2rodnRf0632/E4yEjFAfMV+2oDZC26hE4MIHGX+Oi9mGCexXdaONNM07qmJDHBlDSkuWXk30zu9vwRcnxjDw4+zcA==;t4mhyXTceUuIBucGiJhKfQ=="
 ---
 

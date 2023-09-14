@@ -52,6 +52,20 @@ related:
         width: 1031
         height: 745
         isCached: true
+  - title: "Could AI transform science itself?"
+    excerpt: "With the emergence of the scientific method in the 17th century, researchers came to trust experimental observations, and the theories they derived from them, over the received wisdom of antiquity. Journals created an international scientific community around a shared body of knowledge,"
+    publishedDateTime: 2023-09-13T21:54:00Z
+    webUrl: "https://www.aol.com/finance/could-ai-transform-science-itself-185314463.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How science will be transformed by AI"
     excerpt: "This week, Alok Jha, The Economist ’s science and technology editor speaks to Mustafa Suleyman, the founder of Inflection AI, and co-founder of Google DeepMind. Mustafa outlines how he thinks the technology can develop responsibly, what hurdles need to be overcome and how society should prepare for this new age of ubiquitous AI."
     publishedDateTime: 2023-09-13T19:16:00Z

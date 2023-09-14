@@ -75,6 +75,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Winn.AI Introduces AI-Powered \"Magic Emails\" To Revolutionize Sales Follow-Ups"
+    excerpt: "Winn.AI, an Israel-based sales tech startup that helps sales teams win more deals with less hassle through its innovative real-time tracking, capturing, and CRM updating features, introduces Magic Emails,"
+    publishedDateTime: 2023-09-14T00:35:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/ab34558719/winn-ai-introduces-ai-powered-magic-emails-to-revolutionize-sales-follow-ups"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34558719"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34558719"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 70
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Here’s how we raised a Series B for our AI startup during a downturn"
     excerpt: "Not so fast. Already, the headline-grabbing funding rounds for generative AI companies are beginning to slow, and with almost every startup calling itself an “AI company,” it will become more difficult for true AI startups to stand out. For founders ..."
     publishedDateTime: 2023-09-12T14:30:00Z
@@ -230,6 +246,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "UIu1U50WX5JQXx5qfs6Q6DcCozOnmUCyyVeYWo9K64SHAtPs6RdXNFTZ3iCfsc+v7ua6+Hg6s3+KuzIdQDVRtTlrXhQ6CG+apVQDZUSOnw6LS6bx6tkcWdcCE+yLN3fbJmBpYXcKZ8puP2s143+/wufybvGqX+SmX1G3VjJDzsBqUL6+0lD5J8fCeNp2W2n6ajWK6mc6FCkB07qptfLDZsKcc28qep1mCz4Si0VEzPe0iksHBDYuBKx7vTBoUqSTnbVYKXRLan9y5wC497ZfrCguBm/zmPOIQUrIVbk5z2E/l8IOJQ37IAjGlpibRh8HcUYH1+GazvMmbn5kOF5fsZ3zs/oPNTyLkRmtyMSPFlQ=;a4f69nmaoFNawFXBW9muFQ=="
+secured: "cc1/vtI0ZhElMM4oOs16bD/zp6m6ku/VGQt7M2ldAChQQQmjmYVJmMi0ldXzSLRx3INX22fuX/Rh555mX+jFBFwfasG8N1i21IIxHNlgvHxQBEMcTvH70eOwzCoQfdnHQFIchiGLW+HI+wHl4rcGg12GtuDsD/ove07fgf2l0i94L6QLF0bJ9TKetSWo4eKl6TFSxM3RvNONvObtD1WE7UW9w8QejvvtiZTKtV+6KbOPeNMBfSzL+36OkdOzJcZJoywJAWJD9CxUzI42kft90/TTJr5TDIo0nfQagcxThw/8BtNnqGRVvIfRLesSbHtqomBOtnf6ynOeDIb2mUbuYMDjLS4R4+NTY0Sv17V2RlfCDqRVSttxY91KRYg4DAfnbfOwmVQqzpjSueuvk1MA64+e7iNLKMGkpI3jXXcWsLWVSFdNGpIkXMDbTH0HWG6WZ7AM75KlPaq8zWYCEExuJ4B3UBoDIKESzUGp7EVZ2uTGKBDEE6uHejZTXxA9kcTbg9OOcXGwAaoVvpIYEkpM8w==;mU+nv95MBqqgrU+0VgY7ng=="
 ---
 

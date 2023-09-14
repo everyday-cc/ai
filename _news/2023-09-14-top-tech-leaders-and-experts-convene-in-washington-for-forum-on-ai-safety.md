@@ -2,9 +2,9 @@
 category: news
 title: "Top tech leaders and experts convene in Washington for forum on AI safety"
 excerpt: "Bill Gates, Mark Zuckerberg, Elon Musk, Sundar Pichai and others gathered for ‘one of the most important conversations of the year’"
-publishedDateTime: 2023-09-13T19:08:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/sep/13/tech-leaders-washington-ai-saferty-forum-elon-musk-zuckerberg-pichai?ref=upstract.com"
-webUrl: "https://www.theguardian.com/technology/2023/sep/13/tech-leaders-washington-ai-saferty-forum-elon-musk-zuckerberg-pichai?ref=upstract.com"
+publishedDateTime: 2023-09-13T21:13:00Z
+originalUrl: "https://www.theguardian.com/technology/2023/sep/13/tech-leaders-washington-ai-saferty-forum-elon-musk-zuckerberg-pichai"
+webUrl: "https://www.theguardian.com/technology/2023/sep/13/tech-leaders-washington-ai-saferty-forum-elon-musk-zuckerberg-pichai"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/sep/13/tech-leaders-washington-ai-saferty-forum-elon-musk-zuckerberg-pichai"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/sep/13/tech-leaders-washington-ai-saferty-forum-elon-musk-zuckerberg-pichai"
 type: article
@@ -61,6 +61,6 @@ related:
         height: 630
         isCached: true
 
-secured: "6jy7soxpb4oLe2vP0UQ7xQBxmiixR7g0H7gfAaLuRw7kQjibiBRphoeEgNBjlU7N13kAadS8u/I43uoYako0AiFfovrzJTMevwKr7IcCwdKEKr5UVa/JVbBFZGBIMGXCo4ny7r5K2PSPdduXhUKU79NBklWqHucu1Xe/8J+pWldBF4TMFqZeDncJUv5aYrL0r0t4Am8p0x4bryG3RZLUcsa6LIGwsXYl5IojyY9t+gw4tF+FJZxBJ9K7OjG1Wou5QkT97BcYxQLhJ1GkNycXP09fCLa4NIKFJEyPxHbHLd275eEPx0A699ZtOQ/SEY4lTC+rsvpyxM4+stf9iyQNuhKl/P1suALkRA/rNUHLp4o=;FHiavKIl8XZpABqTtKUZNQ=="
+secured: "YepQu/ee0azwO4jVMCukHL04/VdlAqe9GbhM9q9xiUlnzjz3DZFMwc+GyyFEfspcz+tw5AeetM3VghWDjWeSyPu0td2KkGTQrad4JF3otMF0DDL7Y45qEtBAfeQI+uqEncldaokeILCP3K1AEYbZ2OS8MSB7m8imnn3dlK7UC+uYUzVBSFw7yC5I9aPFXaChta8LnPliFvlkzx47dCGcQDy91/YCsR1AZsHp5Rrt6pNceSXgzPlHVqbFrrHg9vPIOCyM4t7GMUTz/3Vh0rLIuADRuD4pjTin0t6xgbZjZIepO3sZEZOQmwCS91k4uTNKBbsTUs2m2jnYUnwIIBTX242DzTBQDyPVG/Rtfmnnrq4=;WpPcNaqWlq65WGC/sQECwA=="
 ---
 

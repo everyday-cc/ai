@@ -96,6 +96,20 @@ related:
         width: 1400
         height: 900
         isCached: true
+  - title: "Here are the six AI nonprofits Salesforce is backing"
+    excerpt: "The list includes Beyond 12, CareerVillage, CodePath, College Possible, Per Scholas and Teacher Development Trust, many education focused."
+    publishedDateTime: 2023-09-14T01:38:00Z
+    webUrl: "https://venturebeat.com/ai/here-are-the-six-ai-nonprofits-salesforce-is-backing/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/02/istock-642810122-e1595440276773.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Dreamforce 2023 - Salesforce COO Brian Millham on IT budgets, AI investment and loving his job"
     excerpt: "An ideal person to answer that question is Brian Millham, the firm’s Chief Operating Officer and a man who’s been with the company since 1999 when he was employee 13. If anyone’s in a position to comment on how things have changed over the past year, it’s him. His response is refreshingly candid:"
     publishedDateTime: 2023-09-13T17:37:00Z

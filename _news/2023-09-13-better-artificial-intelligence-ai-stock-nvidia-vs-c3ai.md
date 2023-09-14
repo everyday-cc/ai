@@ -42,20 +42,15 @@ related:
         width: 2120
         height: 1414
         isCached: true
-  - title: "NVIDIA Partners with Tata Group to Develop AI Supercomputer, Cloud in India"
-    excerpt: "U.S. chipmaker NVIDIA and Indian conglomerate Tata Group have announced a major partnership to accelerate the adoption of artificial intelligence (AI) in India. The announcement follows, the US chip designer’s collaboration with Mukesh Ambani’s ..."
-    publishedDateTime: 2023-09-09T09:05:00Z
-    webUrl: "https://www.gizmochina.com/2023/09/09/nvidia-tata-ai-partnership/"
+  - title: "2 Artificial Intelligence (AI) Stocks to Buy in September 2023 That Could Soar Like Nvidia"
+    excerpt: "Amazon Rekognition, and Alexa. The company has also launched a pair of custom AI chips, Trainium and Inferentia, for training and inference of large language models. The market has been taking ..."
+    publishedDateTime: 2023-09-10T16:15:00Z
+    webUrl: "https://www.nasdaq.com/articles/2-artificial-intelligence-ai-stocks-to-buy-in-september-2023-that-could-soar-like-nvidia"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 67
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/09/Nvidia-Partners-Tata.jpg"
-        width: 1200
-        height: 628
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Nvidia: Another Reason Why Buying This Artificial Intelligence (AI) Stock Is a No-Brainer Now"
     excerpt: "Nvidia's (NASDAQ: NVDA) artificial intelligence (AI)-driven surge shows no signs of stopping. The company's results for the second quarter of fiscal 2024 (ended July 30, 2023), which were released last month,"
     publishedDateTime: 2023-09-09T13:45:00Z

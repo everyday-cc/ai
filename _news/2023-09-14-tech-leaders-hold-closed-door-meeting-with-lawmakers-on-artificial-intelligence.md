@@ -42,8 +42,8 @@ related:
         isCached: true
   - title: "Top tech leaders and experts convene in Washington for forum on AI safety"
     excerpt: "Bill Gates, Mark Zuckerberg, Elon Musk, Sundar Pichai and others gathered for ‘one of the most important conversations of the year’"
-    publishedDateTime: 2023-09-13T19:08:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/sep/13/tech-leaders-washington-ai-saferty-forum-elon-musk-zuckerberg-pichai?ref=upstract.com"
+    publishedDateTime: 2023-09-13T21:13:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/sep/13/tech-leaders-washington-ai-saferty-forum-elon-musk-zuckerberg-pichai"
     ampWebUrl: "https://amp.theguardian.com/technology/2023/sep/13/tech-leaders-washington-ai-saferty-forum-elon-musk-zuckerberg-pichai"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/sep/13/tech-leaders-washington-ai-saferty-forum-elon-musk-zuckerberg-pichai"
     type: article
@@ -57,6 +57,6 @@ related:
         height: 372
         isCached: true
 
-secured: "ZhaMPwXluIiQ42EiepjLcqCUM3sq9vkbRxgfX/qYpRfrY7pSDwr3M7mQw97dS53mDN4x1q0ohCak4D0IFOTRXGi+sDhgd54aQav/sCswb+d/5qdqrj8hKTHkRRzkgLnrBvQ1555gmzstX+dwlegRSd6veDgNcu5+3ettylanklrIwzsvpkWv7KQyw3UjJKgABsKks2otTzZ6qEwKK2Frx60WhBC81R+DvaYvn6WN+vAush8VlMZao69/olGbP0GBOqFCPA87iI/DS7Yw7g/p5yfW2V4PV0hYo9HgK1kgyQBe1o8+E3tWglowuhSlzsiLd4uk7dYJWOl3vATVymlQIpiiCzNZ+FXLSKBgwHQcX+E=;lyJuesYgyqVlQz4PWDND0A=="
+secured: "rjCKmuo24Xi0ZRITAn8VkBxgq1rZCZtwjini4jn0cUBDVpo5C7BeQtcvcOB7/skUEqvKJmh5ErRyeThRVuguyiVafqV39TvOSaGAO2zrBLk2x2QEVUiY69OhxU4VdiqoCGaGOFHvVLffF9WdmPcXNqnmbAFi1+BY6DA7oJNQ1IquR7fZ97usA8rCWQ5rZtdZz4LUvBzyc74ivfLEo8OMf/IYrPOehhe5KcypGnTXmlxcRTvoXJxgHdTwVhel7dbBwYMJ90T1M8L21NJNU2WBdJqB7KY2L9SnocHI+QW4Zy7wRu9TEHvU/vir+54lE/NrJ8QR72hd+ROYeFHWG5fUwWDr+aR9h+Myrp2G42ky1qpjd2X+Gr2NtDHL5E1C679D/3YGMP3wP/71A09Lridjry75tWSN5pS0PP0ns/EW6dHjg0vmYGogq1tNGFW2PaTcHZRCF0imFpPPyPXF2oW5wniPrsR2NoCBgt3wc8lepSBvyiRm42JCPagTeohKPvatPwIdSqFq54e5HHPd3npqWw==;rll5Zf9eDW0nJ8+N1N6Oyw=="
 ---
 

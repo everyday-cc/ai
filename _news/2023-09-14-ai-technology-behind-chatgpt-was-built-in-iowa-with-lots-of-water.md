@@ -1,25 +1,25 @@
 ---
 category: news
 title: "AI technology behind ChatGPT was built in Iowa — with lots of water"
-excerpt: "and 10,000 graphics processors — a kind of chip crucial to AI workloads. Experts said it can make sense to \"pretrain\" an AI model at a single location because of the large amounts of data that need to be transferred between computing cores. It wasn't ..."
-publishedDateTime: 2023-09-13T23:09:00Z
-originalUrl: "https://newsadvance.com/news/nation-world/business/ai-technology-for-chatgpt-was-built-in-iowa-with-lots-of-water/article_bd1f651a-39ca-5bd1-9348-4c32cf557f9d.html"
-webUrl: "https://newsadvance.com/news/nation-world/business/ai-technology-for-chatgpt-was-built-in-iowa-with-lots-of-water/article_bd1f651a-39ca-5bd1-9348-4c32cf557f9d.html"
+excerpt: "In a paper due to be published later this year, Ren's team estimates ChatGPT gulps up 500 milliliters of water — close to what's in a 16-ounce water bottle — every time you as"
+publishedDateTime: 2023-09-13T22:16:00Z
+originalUrl: "https://omaha.com/news/nation-world/business/ai-technology-for-chatgpt-was-built-in-iowa-with-lots-of-water/article_b0520c57-928d-50a0-b92e-84ec6cb7f532.html"
+webUrl: "https://omaha.com/news/nation-world/business/ai-technology-for-chatgpt-was-built-in-iowa-with-lots-of-water/article_b0520c57-928d-50a0-b92e-84ec6cb7f532.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The News & Advance
-  domain: newsadvance.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/newsadvance.com/content/tncms/assets/v3/editorial/b/d1/bd1f651a-39ca-5bd1-9348-4c32cf557f9d/6500b22e0cecb.preview.jpg?crop=1694%2C889%2C42%2C253&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/b/05/b0520c57-928d-50a0-b92e-84ec6cb7f532/6500b22e260cb.preview.jpg?crop=1694%2C889%2C42%2C253&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -334,6 +334,6 @@ related:
       domain: oregonlive.com
     quality: 13
 
-secured: "x2N/xnfZX3D10zoCFmum6j/mcEapDiyiYnTeq7D85+2HnKH4GZEI671OsZbYzYFmTABIim2A5DUYxrbttOz6+BV1pSNnh+4j6FidizBrF5UvbgeZtJIT1QSe1EwhJaoPcXAHcgZQJy7zLKI+XGFAbTQwrM196Dmt/fp1PVqFeClU0GTaJwT4ruta5552niAmgCBre94lHn+OOzcu/9jzpvVrEsY6eOpdgtkQcaf+jKVj4QSkiOJpsREeJqdEMweKDu4euHW1PQCUtObWELk/LI8/QOgYaJrkZlNdz5eqpODmPITLM7g/uIzkrc+ibiH4oTQmLeQIgt8KRqzuUIjhk4yQ8kItWYw+VYASSKg/DcI=;FniGwr5vDuwlm/AGGmpJbw=="
+secured: "VuzgrVtVkcBwPzAnuA2jV/D0QqwjfCFgwdEmDDqdsauFRHwViqAuloY+5pYxarO4QhslC7MabvOAc1qWfxu5L0OFj0dCEWFQDMtpC0UxZlpA954rPZ1/9lhiOkM5fqFapNQ66Fioi5Mn8NVG/ChgTQL/14GPvDkxAEWd1aacC3C68p916DYxi7g7Jmo+n3uJBiZ922efIzoKX5athisMkp0I0HQ/ZhMBrdb38ptXK3zeJbsmz34LbMYq3hKKh600AcOB/NUvTzEeI/4xp4ZfqJq+yFpN/fiXoKTRJZIKq0ufigMwqxgVKx+PvTyDktOPk82EfiMQ4lRjUv+pkf/xK/kB4fHcifOQt2BASgTAz0A=;6g4r6BDmZ0QbzqMdE9/w3Q=="
 ---
 

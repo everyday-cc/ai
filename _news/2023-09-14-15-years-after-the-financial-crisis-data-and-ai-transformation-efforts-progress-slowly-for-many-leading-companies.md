@@ -6,7 +6,7 @@ publishedDateTime: 2023-09-13T23:48:00Z
 originalUrl: "https://www.forbes.com/sites/randybean/2023/09/13/15-years-after-the-financial-crisis-data-and-ai-transformation-efforts-progress-slowly-for-many-leading-companies/"
 webUrl: "https://www.forbes.com/sites/randybean/2023/09/13/15-years-after-the-financial-crisis-data-and-ai-transformation-efforts-progress-slowly-for-many-leading-companies/"
 type: article
-quality: 45
+quality: 47
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/650249796bd38da89c9fe77b/0x0.jpg?format=jpg&width=1200"
@@ -93,6 +94,6 @@ related:
       domain: axios.com
     quality: 17
 
-secured: "Y10Es1+4hbQ3JTAFlCnXol/QUhJ3j+4laX1yGxthLubgrDEm8NFv1zX6c6hRJEbCk2vYAVr2G3eiVHrWFVuAvrXLdsyUfYFoUSLVIgMswfr3snoBFTZhBmf/YTjxwGcCkj3oL59YEM0H+TRYjjvgelqKx4aON3Q0zY6j4gI0W4t51bqNrB+7zBG47RmDZrxjLpbYq2+ezIbYtFvwxklJFodPqVLQ3AaRavHNNm7NwCo33/Hu2cl/eb6Qy9K7enfhokKQJxojoAvn9viOpLdNWToNsniTHO7h0ANC14UqCmWFegMrYf2GexKpq9gVUjOMmPSlSVeuuu8/wO/B3GkJB6jZGAakTXvtOjC+8dqrK6M=;ESUgfQWhRbJGMofEAKsH7g=="
+secured: "04f2w57dW/BtI6Wwc00Dzh/W53GcN2xN3C5wSVFnyg/HetxD9eeZJHvjSb2akstNNR0jF2TE/YgaCZErY5KIA5K62TrJyi7mppxKYA0S2K2vcdKIfXoI+ODG5HGd5jCzgkTZt8ZT3tOFcfLMB2mxv/rJPdYmeIjMN/xmpfqrh8VfWqxnQYLq6+F5DoHQGClo4xlBIXAebVb4RrOZANIr/RYtUJdmeFpusQsXzNIcF+/TQ5lTMVY9P83EODOciB+kT5aV5tK1d5kvOzky7cI3EMNfsNk4ywclEU1+oE0OaGQLFZuw2Mo7/o0ui6xqmCds3rtBXkdD3tDq6isKH+6Lq3fIi1TXRFcIQ+bxu924gz5e31qpf/eFO0YWzZH2R0QjiqSMV9fq2hAsG286rLazTaTFIu7taX5ffHwTUVcZirlgRcCW3NNcUgSOtqkBK7Bcc6hLvE6xe2PKNQwRS1EMzYDJEjcAMJ9xMBWCz7hmXM5shbBSfpIFTxjagriwMfhdlozytoOVZs0arb+7l5Mu1Q==;eg+G+rye0+DF0cBZ2tEK+A=="
 ---
 

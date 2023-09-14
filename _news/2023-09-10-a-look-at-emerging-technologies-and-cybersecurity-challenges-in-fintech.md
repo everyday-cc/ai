@@ -28,6 +28,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "Cybersecurity startup Deduce raises $9M for its generative AI Identity fraud solution"
+    excerpt: "Cybersecurity startup Deduce Inc. today announced that it has raised $9 million in new funding to launch its generative AI identity fraud solution and help it scale up to prevent identity fraud across multiple industries."
+    publishedDateTime: 2023-09-13T13:44:00Z
+    webUrl: "https://siliconangle.com/2023/09/13/cybersecurity-startup-deduce-raises-9m-genai-identity-fraud-solution/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 30
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/deduce.jpg"
+        width: 2560
+        height: 1583
+        isCached: true
 
 secured: "m/9ksTyAEhYUumCz8ulz+dCaJms2CXfiFOGubm7E/fTKFzRPgI3e2MDS9PdkSU1JmuIqL4Sj1PYSESYkMUOX2mzpmcb1cm0C/1Tq8+0xw/GG0ITVsz/NQ9oj+pu9MgakK4lJyZjDQRap22/T2S9zHvvOsOygP8xK7nPT/U5f7beTCn0Y1wf9MxLg0/W7ni0fRAoMEKs6bxkF8HJIadcl+FHjJMqwyu1LotWQLpL4MMX4Hjsrm0pe3FHgcr4NHnx0ZKLXh7aBud7qwo4R+Tj+3V10/qmInhk09MgwNfXaRsRt/kTFRKmx9cF/Cresn/b+My15hx+4gupgL7ekZctErIXFV/e2sYWLcne8ZkWxrbGOXvFYEM8sDDki3v8Ye+qObQvpDrEmJNUBGqReayGYsoTIZFpk4DhmswQIYrOA3LdT1y2bWm7fmePNvzmSVSb8tjFZOItcALJErRj5p7pwHgQV4ykhhavh5CGSldAW6FDkzh/heQhprYAUK+wyNjt6TpVJTc86FTPq/Dj7CkE6Pw==;pO3M8LOa/9QuPsyS3LraFQ=="
 ---

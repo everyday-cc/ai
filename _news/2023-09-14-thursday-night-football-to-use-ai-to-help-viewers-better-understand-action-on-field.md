@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI is coming to 'Thursday Night Football.' Here's how it will help viewers enjoy football better."
+  - title: "AI is coming to 'Thursday Night Football. Here's how it will help viewers enjoy football better."
     excerpt: "Viewers will be able to see the route trees receivers run along with highlighting who is open and their chances of converting a first down."
-    publishedDateTime: 2023-09-13T23:10:00Z
-    webUrl: "https://www.wfaa.com/article/news/nation-world/thursday-night-football-prime-video-to-use-ai-to-help-fans-understand-action/507-a778a4f6-a01d-4d58-a9bb-c8c1f54b4691"
-    ampWebUrl: "https://www.wfaa.com/amp/article/news/nation-world/thursday-night-football-prime-video-to-use-ai-to-help-fans-understand-action/507-a778a4f6-a01d-4d58-a9bb-c8c1f54b4691"
-    cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/nation-world/thursday-night-football-prime-video-to-use-ai-to-help-fans-understand-action/507-a778a4f6-a01d-4d58-a9bb-c8c1f54b4691"
+    publishedDateTime: 2023-09-14T00:58:00Z
+    webUrl: "https://www.whas11.com/article/news/nation-world/thursday-night-football-prime-video-to-use-ai-to-help-fans-understand-action/507-a778a4f6-a01d-4d58-a9bb-c8c1f54b4691"
+    ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/thursday-night-football-prime-video-to-use-ai-to-help-fans-understand-action/507-a778a4f6-a01d-4d58-a9bb-c8c1f54b4691"
+    cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/thursday-night-football-prime-video-to-use-ai-to-help-fans-understand-action/507-a778a4f6-a01d-4d58-a9bb-c8c1f54b4691"
     type: article
     provider:
-      name: WFAA8
-      domain: wfaa.com
+      name: WHAS11 News
+      domain: whas11.com
     quality: 46
     images:
-      - url: "https://media.wfaa.com/assets/CCT/images/b27c7def-29c5-43e6-8678-cb79bdcd28d6/b27c7def-29c5-43e6-8678-cb79bdcd28d6_1140x641.jpg"
+      - url: "https://media.whas11.com/assets/CCT/images/b27c7def-29c5-43e6-8678-cb79bdcd28d6/b27c7def-29c5-43e6-8678-cb79bdcd28d6_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true
