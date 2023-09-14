@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Yuval Noah Harari and Mustafa Suleyman on the future of AI"
+    excerpt: "T he Economist brought together Yuval Noah Harari, a historian and philosopher, and Mustafa Suleyman, the co-founder of DeepMind, to discuss what the artificial-intelligence revol"
+    publishedDateTime: 2023-09-14T13:19:00Z
+    webUrl: "https://www.economist.com/films/2023/09/14/yuval-noah-harari-and-mustafa-suleyman-on-the-future-of-ai"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 37
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230914_FLP003.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Q&A with AI expert and DeepMind co-founder Mustafa Suleyman: 'Things are about to be very different'"
     excerpt: "In a conversation with Yahoo Finance, DeepMind co-founder and AI leader Mustafa Suleyman discussed how AI will dramatically reshape the world in the next decade."
     publishedDateTime: 2023-09-12T12:47:00Z

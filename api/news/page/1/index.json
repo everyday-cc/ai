@@ -2,6 +2,298 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-14-how-teslas-new-supercomputer-could-upend-the-ai-race.md",
+      "title": "How Tesla’s New Supercomputer Could Upend the AI Race",
+      "excerpt": "Custom-Built AI Tech Is on the Rise In fact, every Big Tech firm building AI models that formerly relied on Nvidia are now developing their own custom-built chips. Amazon (AMZN) has developed two chips customized specifically to build AI models on the firm ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/how-teslas-new-supercomputer-could-upend-the-ai-race-1032631339",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/how-teslas-new-supercomputer-could-upend-the-ai-race-1032631339",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2023/09/nvda-ytd-graph-091423.png",
+          "width": 928,
+          "height": 582,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-14T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-09-14-neil-serebryany-creates-calypsoai-to-make-ai-more-secure.md",
+      "title": "Neil Serebryany Creates CalypsoAI To Make AI More Secure",
+      "excerpt": "Co-Founded in 2018 by the then 19-year-old Neil Serebryany, CalypsoAI provides a platform to create security protocols to secure AI model algorithms and data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brucerogers/2023/09/14/neil-serebryany-creates-calypsoai-to-make-ai-more-secure/",
+      "originalUrl": "https://www.forbes.com/sites/brucerogers/2023/09/14/neil-serebryany-creates-calypsoai-to-make-ai-more-secure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65031ed4e9a948a49e3e675d/0x0.jpg?format=jpg&crop=1247,702,x0,y325,safe&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brucerogers/2023/09/14/neil-serebryany-creates-calypsoai-to-make-ai-more-secure/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucerogers/2023/09/14/neil-serebryany-creates-calypsoai-to-make-ai-more-secure/amp/",
+      "publishedDateTime": "2023-09-14T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-14-abb-spending-280m-on-new-european-robotics-hub.md",
+      "title": "ABB spending $280M on new European robotics hub",
+      "excerpt": "This new facility will increase ABB's manufacturing capacity for its collaborative and industrial robot arms by 50% and enable it to better serve the European market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/abb-spending-280m-on-new-european-robotics-hub/",
+      "originalUrl": "https://www.therobotreport.com/abb-spending-280m-on-new-european-robotics-hub/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/09/ABB-Robotics_Sweden-Robotics-Campus_Production.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-14T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-14-linkedin-cofounder-reid-hoffman-thinks-pausing-ai-development-is-foolish-and-anti-humanist.md",
+      "title": "LinkedIn cofounder Reid Hoffman thinks pausing AI development is 'foolish' and 'anti-humanist'",
+      "excerpt": "LinkedIn cofounder Reid Hoffman is the latest high-profile figure to dismiss suggestions by experts that pausing the development of AI would be good for humanity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/linkedin-cofounder-reid-hoffman-says-pausing-ai-foolish-anti-humanist-2023-9",
+      "originalUrl": "https://www.businessinsider.com/linkedin-cofounder-reid-hoffman-says-pausing-ai-foolish-anti-humanist-2023-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6502fd171afe8f0019ea5242?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/linkedin-cofounder-reid-hoffman-says-pausing-ai-foolish-anti-humanist-2023-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/linkedin-cofounder-reid-hoffman-says-pausing-ai-foolish-anti-humanist-2023-9?amp",
+      "publishedDateTime": "2023-09-14T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-14-multicloud-connectivity-for-regulated-industry-workloads-on-ibm-cloud.md",
+      "title": "Multicloud connectivity for regulated industry workloads on IBM Cloud",
+      "excerpt": "A summary of key concepts and approaches that enterprises adopt for connecting IBM application workloads to other clouds.\nThe post Multicloud connectivity for regulated industry workloads on IBM Cloud appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/multicloud-connectivity-for-regulated-industry-workloads-on-ibm-cloud/",
+      "originalUrl": "https://www.ibm.com/blog/multicloud-connectivity-for-regulated-industry-workloads-on-ibm-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-14T06:08:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-14-craigslist-founder-craig-newmark-is-pouring-millions-of-dollars-into-combating-ais-dark-side.md",
+      "title": "Craigslist founder Craig Newmark is pouring millions of dollars into combating AI's dark side",
+      "excerpt": "Craig Newmark has just donated $3 million to fund a new artificial intelligence and education initiative from Common Sense Media, as he fears future of AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/09/14/craigslists-craig-newmark-funding-common-sense-media-ai-project.html",
+      "originalUrl": "https://www.cnbc.com/2023/09/14/craigslists-craig-newmark-funding-common-sense-media-ai-project.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/103751892-CN-4_Craig_Newmark_Photo_credit_Bleacher+Everard.jpg?v=1694703601",
+          "width": 800,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/09/14/craigslists-craig-newmark-funding-common-sense-media-ai-project.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/14/craigslists-craig-newmark-funding-common-sense-media-ai-project.html",
+      "publishedDateTime": "2023-09-14T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-14-nauticus-robotics-announces-offshore-service-agreement-with-shell.md",
       "title": "Nauticus Robotics Announces Offshore Service Agreement with Shell",
       "excerpt": "Continuous Successful Collaboration Evolves from the Development Stage to Commercial Offshore Service with a Potential Multi-Year Service",
@@ -10,7 +302,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/nauticus-robotics-announces-offshore-service-agreement-with-shell-1032630051",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -86,6 +378,101 @@
         "AI in Healthcare",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-14-unpacking-five-key-claims-from-jacinta-prices-national-press-club-address-on-the-voice.md",
+      "title": "Unpacking five key claims from Jacinta Price’s National Press Club address on the voice",
+      "excerpt": "We look at the shadow Indigenous Australians minister’s comments on issues including colonisation and the power and composition of the voice to parliament",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/australia-news/2023/sep/14/unpacking-five-key-claims-from-jacinta-prices-national-press-club-address-on-the-voice",
+      "originalUrl": "https://www.theguardian.com/australia-news/2023/sep/14/unpacking-five-key-claims-from-jacinta-prices-national-press-club-address-on-the-voice",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/9b4449f199103d90285536814aabaa5e2ce492b0/0_237_4960_2976/master/4960.jpg?width=620&quality=85&auto=format&fit=max&s=cfc8498be2107dfad49887896b72a560",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/australia-news/2023/sep/14/unpacking-five-key-claims-from-jacinta-prices-national-press-club-address-on-the-voice",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/sep/14/unpacking-five-key-claims-from-jacinta-prices-national-press-club-address-on-the-voice",
+      "publishedDateTime": "2023-09-14T01:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-14-patterns-and-issues-in-ai-chip-design.md",
+      "title": "Patterns And Issues In AI Chip Design",
+      "excerpt": "AI is becoming more than a talking point for chip and system design, taking on increasingly complex tasks that are now competitive requirements in many markets. But the inclusion of AI, along with its machine learning and deep learning subcategories ...",
+      "sourceUrl": null,
+      "webUrl": "https://semiengineering.com/patterns-and-issues-in-ai-chip-design/",
+      "originalUrl": "https://semiengineering.com/patterns-and-issues-in-ai-chip-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://semiengineering.com/wp-content/uploads/AdobeStock_164317986-AI-scaled.jpeg?fit=2560%2C1707&ssl=1",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-14T00:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -581,7 +968,7 @@
       "originalUrl": "https://www.livemint.com/companies/news/hottest-gpu-maker-s-india-playbook-11694625393998.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -612,7 +999,8 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -780,7 +1168,7 @@
       "originalUrl": "https://www.huffpost.com/entry/tech-ceos-descend-on-senate-for-closed-door-ai-meeting_n_6501dad6e4b04bad69ec286e",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -804,384 +1192,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-data-commons-is-using-ai-to-make-the-worlds-public-data-more-accessible-and-helpful.md",
-      "title": "Data Commons is using AI to make the world’s public data more accessible and helpful",
-      "excerpt": "A look at Data Commons, Google’s initiative to make publicly available data more useful for people working on solutions to societal challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/google-data-commons-ai/",
-      "originalUrl": "https://blog.google/technology/ai/google-data-commons-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DataCommons_Hero_Image_02_TC_03_49.width-1300.png",
-          "width": 1300,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/google-data-commons-ai/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-data-commons-ai/amp/",
-      "publishedDateTime": "2023-09-13T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-amazons-latest-ai-tool-will-generate-product-descriptions-for-sellers.md",
-      "title": "Amazon's Latest AI Tool Will Generate Product Descriptions for Sellers",
-      "excerpt": "Amazon's ChatGPT-style tool will generate product descriptions for sellers. But can it improve listings currently stuffed with incomprehensible keywords to attract buyers?",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/amazons-latest-ai-tool-will-generate-product-descriptions-for-sellers",
-      "originalUrl": "https://www.pcmag.com/news/amazons-latest-ai-tool-will-generate-product-descriptions-for-sellers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/00XBdqkIDD9crTnu3KYwRNo-1.fit_lim.size_1200x630.v1694617870.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-13T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-fanduel-partners-with-aws-to-meet-demands-and-expand-into-new-markets.md",
-      "title": "FanDuel Partners With AWS to Meet Demands and Expand Into New Markets",
-      "excerpt": "FanDuel continues its relationship with AWS to combat high data infrastructure demands and explore sustainability and innovation strategies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/fanduel-selects-aws-cloud-provider/",
-      "originalUrl": "https://www.techrepublic.com/article/fanduel-selects-aws-cloud-provider/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/09/tr_09132023-fanduel-selects-aws-cloud-provider.jpg",
-          "width": 1400,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-13T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-dreamforce-2023-supermums-aims-to-train-up-raft-of-women-ai-experts.md",
-      "title": "Dreamforce 2023 - Supermums aims to train up raft of women AI experts",
-      "excerpt": "Looking ahead, Supermums is ensuring it has training and provision across CRM, data and AI. It has appointed an instructor to deliver a CRM analytics course, and is just launching AI provision around that. The company is also looking at introducing training for MuleSoft and Tableau.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/dreamforce-2023-supermums-aims-train-raft-women-ai-experts",
-      "originalUrl": "https://diginomica.com/dreamforce-2023-supermums-aims-train-raft-women-ai-experts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2023-09/Screenshot%202023-09-09%20at%2009.15.04.png",
-          "width": 672,
-          "height": 538,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/dreamforce-2023-supermums-aims-train-raft-women-ai-experts?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/dreamforce-2023-supermums-aims-train-raft-women-ai-experts?amp",
-      "publishedDateTime": "2023-09-13T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-exploring-patient-provider-perceptions-of-healthcare-ai.md",
-      "title": "Exploring Patient, Provider Perceptions of Healthcare AI",
-      "excerpt": "Advances in healthcare artificial intelligence have received significant hype, but patients and providers are still cautious of these new technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/features/exploring-patient-provider-perceptions-of-healthcare-ai",
-      "originalUrl": "https://healthitanalytics.com/features/exploring-patient-provider-perceptions-of-healthcare-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/site/features/_normal/Getty_correct_size_sdoh.png",
-          "width": 690,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-13T06:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-unlock-innovation-today-and-for-tomorrow-with-a-future-ready-digital-infrastructure.md",
-      "title": "Unlock innovation today and for tomorrow with a future-ready digital infrastructure",
-      "excerpt": "IBM is assisting clients in making informed architectural decisions to future-ready their businesses, allowing for the creation of sustained value in the long run.\nThe post Unlock innovation today and for tomorrow with a future-ready digital infrastructure appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/unlock-innovation-today-and-for-tomorrow-with-a-future-ready-digital-infrastructure/",
-      "originalUrl": "https://www.ibm.com/blog/unlock-innovation-today-and-for-tomorrow-with-a-future-ready-digital-infrastructure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-13T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-ibm-cloud-for-payments-is-an-imperative-not-a-nice-to-have.md",
-      "title": "IBM Cloud for Payments is an imperative, not a nice-to-have",
-      "excerpt": "The ability to settle payments real-time and provide frictionless customer experience is critical to remaining competitive.\nThe post IBM Cloud for Payments is an imperative, not a nice-to-have appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-cloud-for-payments-is-an-imperative-not-a-nice-to-have/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-cloud-for-payments-is-an-imperative-not-a-nice-to-have/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-13T05:47:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-stability-ai-gunning-for-a-hit-launches-an-ai-powered-music-generator.md",
-      "title": "Stability AI, gunning for a hit, launches an AI-powered music generator",
-      "excerpt": "A year ago, Stability AI, the London-based startup behind the open source image-generating AI model Stable Diffusion, quietly released Dance Diffusion, a model that can generate songs and sound effects given a text description of the songs and sound effects in question.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/09/13/stability-ai-gunning-for-a-hit-launches-an-ai-powered-music-generator/",
-      "originalUrl": "https://techcrunch.com/2023/09/13/stability-ai-gunning-for-a-hit-launches-an-ai-powered-music-generator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 269,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1352457907.jpg?resize=1200,752",
-          "width": 1200,
-          "height": 752,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/09/13/stability-ai-gunning-for-a-hit-launches-an-ai-powered-music-generator/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/13/stability-ai-gunning-for-a-hit-launches-an-ai-powered-music-generator/amp/",
-      "publishedDateTime": "2023-09-13T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

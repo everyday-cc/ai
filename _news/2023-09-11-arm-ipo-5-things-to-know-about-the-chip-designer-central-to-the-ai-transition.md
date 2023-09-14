@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/arm-ipo-5-things-to-know-about
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/arm-ipo-5-things-to-know-about-the-chip-designer-central-to-the-ai-transition-154d7059"
 type: article
 quality: 100
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -55,6 +55,22 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2023/09/GettyImages-1651323207.jpeg?w=3000"
         width: 3000
         height: 1687
+        isCached: true
+  - title: "Five things to know about British chip champion Arm"
+    excerpt: "Here are five things to know about British chip designing giant Arm, which will launch a blockbuster listing on Wall Street on Thursday."
+    publishedDateTime: 2023-09-14T14:39:00Z
+    webUrl: "https://techxplore.com/news/2023-09-british-chip-champion-arm.html"
+    ampWebUrl: "https://techxplore.com/news/2023-09-british-chip-champion-arm.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-british-chip-champion-arm.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/chip.jpg"
+        width: 1885
+        height: 1920
         isCached: true
 
 secured: "BmT7oDDA3nwUdGEV+QcYYWKK1jjVsUef4frjwetf0F/fNKfnNqCYuZvNUFV9Ebn77OfrgPiNTV7cvrfO5AZOgnKc6O1gq6w9oJjAbini6g8cwC0wS1QHIyEUqI/KRwoK45EPnYD9Sgpwde3Oz0XHRwc69GvoOo/fMTn4kNPsg3T4nKff8ArtwoGETX8hcmmmpxfIkhZEowRY+tOBdAJr6Tt7L/eEmdQPYJiacBimomMYI/AJQhHyw+9YF8ecaX4TDVgfOgAlIo8R9YrUuOnu7it20d8iDN1DIRYYSeVQfjv34n8JRVS2kZyvF/29w0vjPZThNnVII4aGRlV8tNP9DE7pBJ3NXv7zZgglSNjdLZs=;oDZZPu4uVHX95y88PWmDDQ=="

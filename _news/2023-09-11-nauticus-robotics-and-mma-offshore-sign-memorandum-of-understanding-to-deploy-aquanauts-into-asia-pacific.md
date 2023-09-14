@@ -36,6 +36,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
+  - title: "Nauticus Robotics stock rises on Shell tie-up in Gulf of Mexico"
+    excerpt: "SHEL), which will use the NASDAQ-listed firm’s marine technology and AI systems to maintain its offshore installations. The automated robot systems will start by inspecting some of Shell’s subsea infrastructure in the Gulf of Mexico. Aquanaut ..."
+    publishedDateTime: 2023-09-14T13:23:00Z
+    webUrl: "https://www.proactiveinvestors.co.uk/companies/news/1026553/nauticus-robotics-stock-rises-on-shell-tie-up-in-gulf-of-mexico-1026553.html"
+    type: article
+    provider:
+      name: Proactive Investors
+      domain: proactiveinvestors.co.uk
+    quality: 34
 
 secured: "bNvOACDPTXMbbOJOFDwSYcN62ce3085fsqTjLHaQ4pHK4/SwLYOcarylY6MjbXIbmsEBexq+kWFPTNG+67fjv0sgmnt3prehXCZ/vq7df4NwGUDf3O08c3dm+FXt9r3UvA2XOHIQUlPDoXDRhVYPf9/c23o4kCr3HQpbZ/VUzhgEyG1ia9znE7tnaaddYRiztinJFRsXHgJbns7OKF/B+QifaSphT5zJ2pBovLEgQeZv7/GneJelGxrpWYdgfrvlTACTe5++xRJrgq6GCdsDTbOQN8twuFPN41tCktKk180Dy/jZv8tPIHE+zK67MkVNlMz0/zuAjlhvN6PYqfdtYUHipoyRfSXE7+6RZDI6tgQ=;NCOo7r6XMsdv9Z3NuegdbQ=="
 ---

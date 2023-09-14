@@ -37,6 +37,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Identity theft and the emergence of artificial intelligence"
+    excerpt: "As tech leaders Bill Gates, Elon Musk and Mark Zuckerberg meet in Washington D.C. to discuss the potential future of artificial intelligence, the tools utilizing AI are sweeping the world; but our"
+    publishedDateTime: 2023-09-14T15:29:00Z
+    webUrl: "https://www.khon2.com/local-news/identity-theft-and-the-emergence-of-artificial-intelligence/"
+    ampWebUrl: "https://www.khon2.com/local-news/identity-theft-and-the-emergence-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-khon2-com.cdn.ampproject.org/c/s/www.khon2.com/local-news/identity-theft-and-the-emergence-of-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: KHON2
+      domain: khon2.com
+    quality: 59
+    images:
+      - url: "https://www.khon2.com/wp-content/uploads/sites/8/2023/09/GettyImages-1239742765.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "emU1aAOxd5E4AIfEOVSSByiNixrZuzzC7bUE4lQjBUVjDXwZLHL4cc0mmnwDaY6Z8gkmHAwD2s/emaut0AOWffwy/4HEBAf23HVxyBk1u8RYbNzpoVSSa2HGMef0DHDPhtSE51EdrFP2KnpM27z9wGmd/I++DmAIw4VRTtHeaU/NElKbRuc++SwdFUVVnbEz1jGU6pBqV37MCQz2FfOLvA+KiFZzi1Z76CCXfhVLobc8GBTl7TKeiRcuxyaM4AKXvCNl0F1+gCCpYy0rtYOM5AyDug/d2P4I1Qxr5oYqUMwqXn9qYz/gcz878STR7feBpdbKdSqtdgX+tSd3cvLjReQx9HnaqUEcqBVZGNvO6vUSy+Mgz4CYYywvD7NkLNceNnKU4tIeyFOQJJUVFbe0u6CsbE6OGXAZlub3HkpwgyfhCWJRzFdVi5Al96afJhG9xmlfHsONrAvbtRus0nGAOIgHd4zngZfQhqdYtr8jK1jtiscJgEc6JgyQMnvAeF0936UbqgH6ZNIh+5HPJdJ/Mw==;SialtMZsPPcWnPOj9n6qyg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/09/13/better-ai-stock-nvidia-v
 webUrl: "https://www.fool.com/investing/2023/09/13/better-ai-stock-nvidia-vs-c3-ai/"
 type: article
 quality: 82
-heat: 112
+heat: 103
 published: true
 
 provider:
@@ -51,20 +51,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "Nvidia: Another Reason Why Buying This Artificial Intelligence (AI) Stock Is a No-Brainer Now"
-    excerpt: "Nvidia revealed its GH200 Grace Hopper Superchip last month for accelerated computing and generative AI workloads. Third-party reviews indicate that this chip is way more powerful than competing chips from the likes of AMD and Intel. That's not surprising ..."
-    publishedDateTime: 2023-09-09T21:56:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/INTC-Q/pressreleases/20127656/nvidia-another-reason-why-buying-this-artificial-intelligence-ai-stock-is-a-no-brainer-now/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 43
-    images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/a659097c0ea243066c6d8720c4a8ae00/%3Furl%3Dhttps%253a%252f%252fmedia.ycharts.com%252fcharts%252ff8f479abc5c0bb10ae2eb468d92485fa.png%26amp%3Bw%3D700"
-        width: 720
-        height: 387
-        isCached: true
 
 secured: "5/VaL1TC+uuLl6wexcTAioktIsI1SBW+DMGAWDtCGo3CW21X1/qCQegT6YBqtC2Bxgs8mNKoJRgm5Y5CV5NAlIHsam6WAuv8+2p1a91XTN6qtiIwa7PcKVzc3ShDtZ0pY4S+V5MgwSSia+/i0AWOK5cIVac5xPO0Fm5/J5OVqYd6O6/Y2kH1eQqh8M+5GCewVw8G3XiNIxTzn6dFeOdVW3fJ9lXhXnte5EDsVzPWsg1JD48BZfeasPpZ//hGhjMcWhjxTiwGXgz3tilUuO1MrrcfA9WHl5w77Fndx8QWtHSayOQRLPc2Ety/vlX70PI+tKWHfka9n5oOhKj+Brbw/mkBnO/ZxfqQwGFXSRev7Dc=;P0chm0xmu+QnMVxh56shcg=="
 ---

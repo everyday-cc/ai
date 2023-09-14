@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/legal/legalindustry/perils-dabbling-ai-pra
 webUrl: "https://www.reuters.com/legal/legalindustry/perils-dabbling-ai-practice-law-2023-09-11/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Identity theft and the emergence of artificial intelligence"
+    excerpt: "As tech leaders Bill Gates, Elon Musk and Mark Zuckerberg meet in Washington D.C. to discuss the potential future of artificial intelligence, the tools utilizing AI are sweeping the world; but our"
+    publishedDateTime: 2023-09-14T15:29:00Z
+    webUrl: "https://www.khon2.com/local-news/identity-theft-and-the-emergence-of-artificial-intelligence/"
+    ampWebUrl: "https://www.khon2.com/local-news/identity-theft-and-the-emergence-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-khon2-com.cdn.ampproject.org/c/s/www.khon2.com/local-news/identity-theft-and-the-emergence-of-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: KHON2
+      domain: khon2.com
+    quality: 59
+    images:
+      - url: "https://www.khon2.com/wp-content/uploads/sites/8/2023/09/GettyImages-1239742765.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "AI, Liquid Cooling And The Data Center Of The Future"
     excerpt: "Challenges exist to scaling AI, and among the most significant are those involving the data center infrastructure necessary for supporting these workloads."
     publishedDateTime: 2023-09-11T12:45:00Z

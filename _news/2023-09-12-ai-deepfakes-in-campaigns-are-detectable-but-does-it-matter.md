@@ -33,6 +33,20 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Why humans can’t trust AI"
+    excerpt: "Researchers are working on programming AI to include ethics, but that’s proving challenging. The self-driving car scenario illustrates this issue. How can you ensure that the car’s AI makes decisions that align with human expectations? For example ..."
+    publishedDateTime: 2023-09-14T13:30:00Z
+    webUrl: "https://www.nextgov.com/ideas/2023/09/why-humans-cant-trust-ai/390282/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 39
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2023/09/14/091423AING/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "cA6mOSlB8B7lxKrlafEzYsi88Nk65xvG7omzvAnGfHOcGyVXJPU8ydu9M2D7hS5mZFaPuYNA7ZApBxJPnn9WZyuadg2WUvoYhyzPpjVc332FmmnkZ9l8GaxNJpQP0xxTYTUR6a0kWdTWLA+dzwOaD6UFKYmSogRhFg+PD5o5dm+xQpeKGHj2NWA3MszdweqVHWGavZJFFb7eEJWXdE5pp8SJl9NN2WkFMiwIVAOCQxm00emvRWcd2q8gN+T4PJ31sMnC+ZSanwSatGGNVciHS11Dz3MgsNFmSVn6O+JmOFDoMelYYAV0s9gycmYm7KJrib4DAB0IPqOrdk0B1M9AzIL1uU+G3Alln07eGeQq3TZTQyuNMjnOAXbJsm2EJ9fTTiFkyRpEXuvWwtHPIztq0lXihMkLqoN874B3SVXQib1buXYEYWtETE0+T7Rd/m6eFMMDHiCsil+NAJfmLYCR3fco2Y1/pWsJKwVEj7zcyQyO064Uz2+pOK10aNv7WksdBUwGtsdRpPpg4LBIE5AE2g==;Y7Nc+LOh35rDy/9/YyVa0w=="
 ---

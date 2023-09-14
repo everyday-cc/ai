@@ -52,6 +52,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 64
+  - title: "Five things to know about British chip champion Arm"
+    excerpt: "Here are five things to know about British chip designing giant Arm, which will launch a blockbuster listing on Wall Street on Thursday."
+    publishedDateTime: 2023-09-14T14:39:00Z
+    webUrl: "https://techxplore.com/news/2023-09-british-chip-champion-arm.html"
+    ampWebUrl: "https://techxplore.com/news/2023-09-british-chip-champion-arm.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-british-chip-champion-arm.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/chip.jpg"
+        width: 1885
+        height: 1920
+        isCached: true
 
 secured: "h2fH5Lzv69rJAYq/WI5UkzLC4zkb3kc5cbrppnUerOhTeV2dclda863sIaxt76AtvcBbx/FhrIATdsxaq2aLHyFl9aC8pIY9mbXgNbCRbFtkG9wi6nLy5lwZQyrTT7gyTIunETkDD3MG/Wr5H7b3C1WWMbQVzPzSiP++r/wCJ+DFubMFs5ld+p7k90DNoysnKBmcMMmP4zEHY9l1C6VYyl0KP+tQabz45siMiU3Wgi9m1sNJ7JMk83MeivL79anmPO3ecdg4hIUYk0Lhk60fwu4xHkw60EefIH0kao21u0aYTkpHi4k1+DiuXDJqCUoVmNd2wRz2rTwLpNVfPaKURl2oJZpYYyWEgPV81wFqIKQ+khP7kVymhmV/oYLo4VCZ/Kho2k8T8n/UImsGc6uWSHK3KkyCi8/0XGHHieHUQahSEM7GKV04cac9yj9neJ2+J3JAVhMkgMlxyGVP8XlNY3mEhhrPsFLuccV1qQwAwcURkSLROsiGb9ZM7ttjCL/n5YQwIwRZsJC6XtZsS5bCCw==;LVIyNHrPBuFVp8ktyIgzeA=="
 ---

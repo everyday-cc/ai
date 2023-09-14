@@ -35,6 +35,22 @@ related:
         width: 800
         height: 372
         isCached: true
+  - title: "Ant Group’s AI efforts build on its fintech heritage"
+    excerpt: "China’s Ant Group has unveiled its large language model (LLM) for the financial services sectorIt’s a market well known to Ant Group, which has more than 1"
+    publishedDateTime: 2023-09-14T15:01:00Z
+    webUrl: "https://www.telecomtv.com/content/digital-platforms-services/ant-group-s-ai-efforts-build-on-its-fintech-heritage-48484/"
+    ampWebUrl: "https://www.telecomtv.com/content/digital-platforms-services/ant-group-s-ai-efforts-build-on-its-fintech-heritage-48484/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/digital-platforms-services/ant-group-s-ai-efforts-build-on-its-fintech-heritage-48484/amp/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 59
+    images:
+      - url: "https://assets.telecomtv.com/assets/telecomtv/ant-group-17003.jpeg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Bid to find fintech solutions to NE’s problems"
     excerpt: "Guwahati: From empowering the farmers of Nagaland through organic pre-order vegetable delivery services to developing a tech-based platform to streaml."
     publishedDateTime: 2023-09-10T03:17:00Z

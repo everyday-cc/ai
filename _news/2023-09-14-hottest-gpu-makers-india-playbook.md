@@ -8,8 +8,8 @@ webUrl: "https://www.livemint.com/companies/news/hottest-gpu-maker-s-india-playb
 ampWebUrl: "https://www.livemint.com/companies/news/hottest-gpu-maker-s-india-playbook/amp-11694625393998.html"
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/hottest-gpu-maker-s-india-playbook/amp-11694625393998.html"
 type: article
-quality: 59
-heat: 82
+quality: 61
+heat: 84
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.livemint.com/lm-img/img/2023/09/13/600x338/GPU_1694625629914_1694625634445.jpg"

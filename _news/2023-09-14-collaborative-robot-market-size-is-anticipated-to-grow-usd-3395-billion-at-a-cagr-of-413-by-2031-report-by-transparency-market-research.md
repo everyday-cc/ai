@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Healthcare Cognitive Computing Market Size is Expected to Reach USD 108.45 Billion by 2028, With 24.78% CAGR | Brandessence Market Research"
+    excerpt: "According to a comprehensive research report by Brandessence Market Research (BMRC), \"Healthcare Cognitive Computing Market Size, Share & Trends Analysis Report By"
+    publishedDateTime: 2023-09-14T14:33:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/n34583752/healthcare-cognitive-computing-market-size-is-expected-to-reach-usd-108-45-billion-by-2028-with-24"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34583752"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34583752"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 27
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Rehabilitation Robots Market Revenue To Cross Usd 3.5 Billion By 2031 At A Cagr Of 18.2% | Transparency Market Research"
     excerpt: "Rehabilitation Robots Market Rise in prevalence of brain-related disorders, increase in number of patients with physical disabilities, an"
     publishedDateTime: 2023-09-11T08:53:00Z
@@ -39,15 +55,6 @@ related:
         width: 436
         height: 250
         isCached: true
-  - title: "Artificial Intelligence In Manufacturing Market Size To Witness Rapid Expansion In 2025 | Growing At Cagr Of 55.2%"
-    excerpt: "Artificial Intelligence in Manufacturing Market Size Enhancement in automation in the manufacturing industry & rise in demand for big dat"
-    publishedDateTime: 2023-09-11T12:48:00Z
-    webUrl: "https://menafn.com/1107045123/Artificial-Intelligence-In-Manufacturing-Market-Size-To-Witness-Rapid-Expansion-In-2025-Growing-At-Cagr-Of-552"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 0
 
 secured: "EqwKYcE2w3Mp2LQeXhz8ESAFgmNPw+qtivaFnPdCUl6P0Fo79O+vU+Ofc2C2IzeRBtuIgq4pp8fCL8AvqOOEqO+3HaQzWyGDOZcfIFbUdWOJwoLHTCIHR2vgBq6Eh34kemo832kckRDrmJgXLx5cXlF+7X8zUXY260SAu2XFtmngdZXRpsu/cu4YCo2qdd/l6eDU+twWpsTnY5ha/scd6O2FOy0DkkLdgJM6m6jvo/heeRekCWp8v6616cODTu0xuBTiCoQSlaWUBmUoC5pHpOmS/JznqIc4SRxptNEiBh6UsKxgoiqj5HpBjR9N3XZw07GrVU/5VxTfqPnDxTAs/OFa2WUfgVA7hTBxOtriBQk=;k0sEwaIcHpmD71uWOG4nDA=="
 ---

@@ -60,17 +60,6 @@ related:
         width: 790
         height: 496
         isCached: true
-  - title: "IRS deploys artificial intelligence to catch tax evasion"
-    excerpt: "The tax agency is opening examinations into large hedge funds, private equity groups, real estate investors and law firms"
-    publishedDateTime: 2023-09-09T20:00:00Z
-    webUrl: "https://www.seattletimes.com/business/irs-deploys-artificial-intelligence-to-catch-tax-evasion/"
-    ampWebUrl: "https://www.seattletimes.com/business/irs-deploys-artificial-intelligence-to-catch-tax-evasion/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/irs-deploys-artificial-intelligence-to-catch-tax-evasion/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
 
 secured: "cUBlAiFVGgS3XEFxD6+OIrUZfki82eAToZgKg5/JuzmTUMDpPmzmkpFlxP7J6BCKWmAiyWnOEkSD8xy93OyF4EUeL1LvAHlLeihkqw3P2yYoT9qI+2wpikL/1fV0Mejzs5eqGY0yUNnPsmt3LTAG9fQzEk4YtTiqOwcHRMzNMJFUue6aGC18mBp/bwfffgTWwCYsllsYnOAJmr/vv/uZJnGz4dZh9r8nQ4Xjlq3tpjBqafveZJ2/2IafjDsqfDn89se5yiyNDdqt5ngOb7UtqQQhJKQoWKZ9PaxX+JljZEyR8ZpSG8fz9Vf3ZqU3JN2OfHjnxd6HsnfevRNXBGlQItfFrrV1t3p5C8mXzuhLuix896iP0GpOoWhe5gd7HGegzWemTbGbvUoWFVhvRMHA1+tT3jgNNJV/K9wnuCkMsN8nGuh452cJqoPV8hUD/JO+CFtc7fAsaHsH7pGSla8HT9bBrt2H7DbtOXdSGU9fJ8YoNmdIqo5zAtgWryBWB2Nn9pXaTJQfdf21DAnRWExXeA==;A6C+ctGCbmjHDsHnZppFJQ=="
 ---

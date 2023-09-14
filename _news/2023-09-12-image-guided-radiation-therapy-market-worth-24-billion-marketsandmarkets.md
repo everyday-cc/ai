@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.co.uk/news-releases/image-guided-radiation-
 webUrl: "https://www.prnewswire.co.uk/news-releases/image-guided-radiation-therapy-market-worth-2-4-billion--marketsandmarkets-301924164.html"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Internal Radiation Therapy Market Aims for US$2.1 Billion Milestone with 8.3% CAGR Growth by 2032 | FMI Insights"
-    excerpt: "The internal radiation therapy market had global sales of US$ 892.9 Mn in ... Over the past decade, healthcare sector has been expanding remarkably, following the advent of artificial Intelligence and the Internet of Things integrated medical devices."
-    publishedDateTime: 2023-09-11T13:16:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2023-09-11/internal-radiation-therapy-market-aims-for-us-21-billion-milestone-with-83-cagr-growth-by-2032"
+  - title: "Blood Group Typing Market worth $3.0 billion | MarketsandMarkets"
+    excerpt: "In the near future, the blood group typing industry is poised for remarkable advancements driven by cutting-edge technologies and a growing emphasis on personalized medicine."
+    publishedDateTime: 2023-09-14T14:46:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/n34584030/blood-group-typing-market-worth-3-0-billion-marketsandmarkets"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34584030"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34584030"
     type: article
     provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 33
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
     images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
   - title: "Clinical Decision Support Systems (CDSS) Market worth $2.5 billion | MarketsandMarkets"
     excerpt: "The Clinical Decision Support Systems (CDSS) industry is poised for remarkable growth in the near future. With rapid advancements in artificial intelligence"

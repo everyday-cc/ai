@@ -52,22 +52,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Generative AI Generation Gap: 70% Of Gen Z Use It While Gen X, Boomers Don’t Get It"
-    excerpt: "Americans who use generative AI use it for work and 70% of Gen Z uses new generative AI technologies, according to a new 4,000-person survey."
-    publishedDateTime: 2023-09-09T20:28:00Z
-    webUrl: "https://www.forbes.com/sites/johnkoetsier/2023/09/09/generative-ai-generation-gap-70-of-gen-z-use-it-while-gen-x-boomers-dont-get-it/"
-    ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2023/09/09/generative-ai-generation-gap-70-of-gen-z-use-it-while-gen-x-boomers-dont-get-it/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/09/09/generative-ai-generation-gap-70-of-gen-z-use-it-while-gen-x-boomers-dont-get-it/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64fcd4ddbff0fa87a61a5633/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Haltia.AI champions ethical AI revolution"
     excerpt: "Consistent with the UAE leadership’s vision for international impact and technological advancement, Haltia.AI invites companies and institutions worldwide to collaborate. \"The UAE stands as a beacon for global innovation and we aim to contribute to the UAE government’s legacy by spearheading partnerships in the ethical sphere,\" says Talal Thabet."
     publishedDateTime: 2023-09-13T10:18:00Z
@@ -307,6 +291,15 @@ related:
       name: Asia One
       domain: asiaone.com
     quality: 4
+  - title: "Nation’s first dual degree in medicine and AI aims to prepare the next generation of health care providers"
+    excerpt: "AI’s presence can already be found in a variety of areas of the medical field including customized patient treatment plans, robotic surgeries and drug dosage. Additionally, UT Health San Antonio and UTSA have several research programs underway to improve health care diagnostics and treatment with the help of AI."
+    publishedDateTime: 2023-09-14T12:35:00Z
+    webUrl: "https://www.utsa.edu/today/2023/09/story/UTSA-UT-Health-first-dual-degree-in-medicine-and-AI.html"
+    type: article
+    provider:
+      name: University of Texas at San Antonio
+      domain: utsa.edu
+    quality: 1
   - title: "Leading Language App ELSA Raises $23M C Round, Launches ELSA AI Tutor to Revolutionize Learning English Using Generative AI"
     excerpt: "ELSA, the premier company leveraging machine learning and speech recognition technology to teach English, has raised a $23 million Series C funding alongside its launch of ELSA AI Tutor ."
     publishedDateTime: 2023-09-12T11:38:00Z

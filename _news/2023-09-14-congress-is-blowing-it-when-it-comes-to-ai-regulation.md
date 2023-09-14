@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Silicon Valley CEOs tell Congress that it's time to regulate artificial intelligence"
+    excerpt: "Leaders of the United States' biggest tech companies appear to have agreed Wednesday that artificial intelligence (AI ... in various AI projects — from the programs behind Tesla's self-driving cars to being an early investor in OpenAI before being ..."
+    publishedDateTime: 2023-09-14T14:43:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/09/14/artiificial-intelligence-silicon-valley-congress.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 12
 
 secured: "MC9GLiqGlqAcChCPgzEmGLh1s8cR5wf25FQvYtHHOjuukr/JoLR2uX5RRKpXi8Rs7jLrkrDBE+r47xbPeCZFJY3x9frTdXms0bvfHiLvAEYHOSP/zeAoPAjQTc1GDDORIgybcsasRuk3T1qbz7JGFkqIWtdGRn3qI4KXGzO3QqJEjkSRfQa4J6nhQP8GHMtN6GsgI8ACZCOQPhTkOqfXj7hcV+1Kls8+YnwsO4VB1ZLCRkie4t9uIWmyyPsWV5UGgMfBKksvsFCXzorOprNOIBGiks7fDWZ+2VxHuToDIJaUJfkpCyZexjC5IOsroLXp1rvEKO2RpWUHyH7t9+mbVOopniwrOzaECzhlOCCAPfZugTBHFapS8ukpaHXYuTnDXgtay/TMnFnQp3Ej1Y5/RXQSxlpjo9IQSaGTOW9t6FbUtHu2aPEmetOUyq8Ai1hI4xR8AZspkE2fd7yf2wU8chYUZKag2z8P8afErWVND01Xd8nWiTmYZY6WXXUSrd1ywG68LGggvh2mg2MvXg4Ujg==;O15G2x3UaAdzlXkvDm/q7A=="
 ---

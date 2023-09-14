@@ -25,29 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Image-Guided Radiation Therapy Market worth $2.4 billion | MarketsandMarkets"
-    excerpt: "In the near future, the Image-Guided Radiation Therapy (IGRT) industry is poised for remarkable growth and transformation, driven"
-    publishedDateTime: 2023-09-12T14:04:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/image-guided-radiation-therapy-market-worth-2-4-billion--marketsandmarkets-301924164.html"
+  - title: "Computer Vision Market Soars: Projected to Reach US$ 26.11 Billion by 2033 – FMI"
+    excerpt: "The global computer vision market is expected to increase from US$ 12.91 billion in 2023 to US$ 26.11 billion by 2033, representing a CAGR of 7.3%. The market is defined as the industry that is equipped with machine learning and deep learning algorithm enabling machines to interpret visual data."
+    publishedDateTime: 2023-09-13T14:34:00Z
+    webUrl: "https://www.fmiblog.com/2023/09/13/computer-vision-market-soars-projected-to-reach-us-26-11-billion-by-2033-fmi/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 36
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 34
     images:
-      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
-        width: 666
-        height: 350
+      - url: "https://www.fmiblog.com/wp-content/uploads/2023/09/computer-vision-1.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Clinical Decision Support Systems (CDSS) Market worth $2.5 billion | MarketsandMarkets"
-    excerpt: "The Clinical Decision Support Systems (CDSS) industry is poised for remarkable growth in the near future. With rapid advancements in artificial intelligence"
-    publishedDateTime: 2023-09-12T15:03:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-09/60089679-clinical-decision-support-systems-cdss-market-worth-dollar-2-5-billion-marketsandmarkets-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "8OFov2RSnR9kQMWQ/+fcm8RJ9/a7KSFcy0hI26IBcP3TUPEjx0etjE1ZGQunn9chfYNkIo6+BX/tt7I0/DzhBY8Irv2YDQljGlKEylpgRn2Xg5ioQnNpovQ9cvJVZQC6mXYD6fqjUpr1RH6MxA4p6RBC5U640WQFqSZx8G1J4ExYoNVszOiueT/TZvUkxjv6dejcKxv3ImOKZ+BO0I0b51TittHzsJRkHIl6zEMq10vtTTWgC2+UlT7VwgJh51bjehK/zuSAOkq1lC/I1Nyo3kCmoGD6khM2fgEG3D2ojyVDa4DfuNcbPewpbi2aiIcicEENj9wf6tw/kaK3M65K2wZ/q7HiCgRkmGCCTFykhLQ=;XfN5w40Jl5s1HT6G92RdZg=="
 ---

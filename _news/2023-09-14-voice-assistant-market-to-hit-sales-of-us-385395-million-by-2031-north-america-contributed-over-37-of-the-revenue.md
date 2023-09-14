@@ -56,15 +56,6 @@ related:
         width: 1024
         height: 1024
         isCached: true
-  - title: "Natural Language Processing For Healthcare And Life Sciences Market Size 2023 | Historic Data with New Benchmarks till 2030 | No of Pages 118"
-    excerpt: "The Global Natural Language Processing For Healthcare And Life Sciences market is projected to rise at a significant rate during the forecast period, between 2023 and 2030. In 2022, the market is ..."
-    publishedDateTime: 2023-09-09T22:44:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/34399250/natural-language-processing-for-healthcare-and-life-sciences-market-size-2023-historic-data-with-ne"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 1
 
 secured: "fzz7jFVAyfXvrXkq+kvV6pkFr++agkKfu2R/jGEp4MRF3fSkOXvDcw/2PVoAx4ML/ixgmpHU7o9MeCW3pzw3zbu1g8Cb+qRx5G1+lz4U3p3lm7jAx1rqL7Uuo1vmmM9jctbMZ6eP31EIxFLdrmVBdw3PuETdmCsSXw3H0F/U2St2zyGdqnglmEaOHOAmU+bzY8l4lFzPNvCsjSbOXnUof4tBwnvwUjPZB09ELRqFSpKtAGYFp43hKuUwmyTNhBIBZS4FMwgP46MRCuRwnPH/4CyW4CgBGqzqQsYXbtvZxG21cKBkmYORtMUKiktKBMJuSb+Hz4dKHDACVBSHOIxKUZkj+cCS99uZTwZaWGiVOXQ=;p+U2Z88L+ao1+e/4bPEb8Q=="
 ---

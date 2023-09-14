@@ -8,8 +8,8 @@ webUrl: "https://www.computerworld.com/article/3706510/ai-language-models-need-t
 ampWebUrl: "https://www.computerworld.com/article/3706510/ai-language-models-need-to-shrink-heres-why-smaller-may-be-better.amp.html"
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3706510/ai-language-models-need-to-shrink-heres-why-smaller-may-be-better.amp.html"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://images.idgesg.net/images/article/2023/09/shutterstock-llm-image-100945775-large.jpg?auto=webp&quality=85,70"
@@ -26,6 +27,6 @@ images:
     height: 800
     isCached: true
 
-secured: "hjIrDYtkvgeQDbt8BMLLST7cw4llv3rFl3MfWdoaWs0FFxdRfO30A6x6Q1I3YhL4MFtUpjskuzN5t3t+vrJXxGWDwBHFfvejXclkGSxyBrA2i7bXh1Z4JB/h6Bwm1doG/lG7OTuY4s9/9j5Yl94YGLmUZdPTcwlfn/lOHmzM4v4w8LOeoVphr4+f7TtbGUi5GQelhX0q3jm9kkHOXVu8Hv2kauhfr967osGOt0fHOQlX3ByE6OR2/TcgDA4LGvHz0ewN+UGkY2HnfixYouqkVXsRwakYV0NQTAN7QCMPW1iCopIaXZMFuLUr3UTGjsbp5PfgPX6ufd/R3UVaaph9Rl3xVZOAW+SzcSXiNs1LKyU=;bjCfd2XdHDoNaUwQC+Ke8w=="
+secured: "xCR4Z0h731N//+lwJxDpAbfjppU2/a3FkjB+sWbmFROPd5IsAtCuwqfEtvcy3JT4vcmfG7ShEs4OHO6GR1U2TAP/HB3NIrMI23/o71S5vrP2F9BrEbfhg2oYhX8d3m3kW+sos9Yd5XnYKk2c8ak1r/Ew2yWN12q3eQBYdLc2wb0m6/m0HjxchTdbMomumVFtUKZZs/Tyd4/H2TNumg74gBqnwNsBsV3UDpKEYesliqUSC9bz4JACnAbCcN1PXlbvuI3A8y4WCfHaW4csFuigElIDGzqmhhqAzpoep4SlljW6ecTSWODvThcAY2+988K3DEFLfWIo/2rmkMYoRGW5dwxn/6sWogSEwMo9CWzeWuPb/e903mA6Kbzna5noao4B8ySupeWvIQ4SgkGeDvoNiabiSuQWcwzMC74sHg9b4vs+OFY3v4JZoxy2OoF9BupysOLxorWzGXXXZW7ebuhMlUKyqU8UpjgmBg8Jfqo6Rb4zP9ZhjYEFktbiBweMfz+zvHBVQK5SV+JxU8se1NdwQA==;zS8gXr1BIiyMD3dzcWIbyA=="
 ---
 

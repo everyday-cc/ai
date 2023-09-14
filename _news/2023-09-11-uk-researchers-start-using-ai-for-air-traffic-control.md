@@ -66,6 +66,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "AI now generates music with CD-quality audio from text, and it’s only getting better"
+    excerpt: "If you'll recall, Stability AI is the company that helped fund the creation of Stable Diffusion, a latent diffusion image synthesis model released in August 2022. Not content to limit itself to generating images, the company branched out into audio by backing Harmonai, an AI lab that launched music generator Dance Diffusion in September."
+    publishedDateTime: 2023-09-13T20:59:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/09/ai-can-now-generate-cd-quality-music-from-text-and-its-only-getting-better/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/09/ai-can-now-generate-cd-quality-music-from-text-and-its-only-getting-better/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/ai-can-now-generate-cd-quality-music-from-text-and-its-only-getting-better/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 82
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot_singing_3-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Winn.AI Introduces AI-Powered \"Magic Emails\" To Revolutionize Sales Follow-Ups"
     excerpt: "Winn.AI, an Israel-based sales tech startup that helps sales teams win more deals with less hassle through its innovative real-time tracking, capturing, and CRM updating features, introduces Magic Emails,"
     publishedDateTime: 2023-09-14T00:35:00Z
@@ -239,6 +255,15 @@ related:
         width: 640
         height: 488
         isCached: true
+  - title: "Deduce Raises $9M to Address AI-Generated Identity Fraud"
+    excerpt: "Deduce announced $9M in funding led by Freestyle Capital, with additional investment by Foundry and True Ventures."
+    publishedDateTime: 2023-09-14T12:02:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/09/212894-deduce-raises-9m-to-address-ai-generated-identity-fraud/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 19
   - title: "Phenom AI Day Agenda Preview: Technical Experts to Demonstrate and Explain AI's Application for Human Resources"
     excerpt: "AI Day agenda published - Phenom experts to demonstrate and explain AI's role for empowering organizations to hire faster, develop better and retain longer, while reaching new levels of efficiency. This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20230913537994/en/"
     publishedDateTime: 2023-09-13T14:17:00Z

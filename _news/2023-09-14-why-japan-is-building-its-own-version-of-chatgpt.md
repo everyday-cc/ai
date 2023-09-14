@@ -71,22 +71,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "ChatGPT’s AI technology was built in Iowa, with tons of water"
-    excerpt: "Building a large language model requires analyzing patterns across a huge trove of human-written text. All of that computing takes a lot of electricity and generates a lot of heat. To keep it cool"
-    publishedDateTime: 2023-09-09T21:27:00Z
-    webUrl: "https://www.bostonherald.com/2023/09/09/chatgpts-ai-technology-was-built-in-iowa-with-tons-of-water/"
-    ampWebUrl: "https://www.bostonherald.com/2023/09/09/chatgpts-ai-technology-was-built-in-iowa-with-tons-of-water/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2023/09/09/chatgpts-ai-technology-was-built-in-iowa-with-tons-of-water/amp/"
-    type: article
-    provider:
-      name: Boston Herald
-      domain: bostonherald.com
-    quality: 59
-    images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2023/09/chat-gpt-iowa.jpg?w=1024&h=683"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Why ChatGPT isn't conscious—but future AI systems might be"
     excerpt: "Google engineer Blake Lemoine made headlines by claiming the company's LaMDA chatbot had achieved sentience. The software had the conversational ability of a precocious seven-year-old, Lemoine said, and we should assume it possessed a similar awareness of the world."
     publishedDateTime: 2023-09-12T16:47:00Z
@@ -102,22 +86,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/why-chatgpt-isnt-consc.jpg"
         width: 1356
         height: 668
-        isCached: true
-  - title: "Artificial intelligence technology behind ChatGPT was built in Iowa"
-    excerpt: "Water pulled from the Raccoon and Des Moines rivers in central Iowa cools a powerful supercomputer as it helped teach its AI systems how to mimic human writing."
-    publishedDateTime: 2023-09-09T20:31:00Z
-    webUrl: "https://www.weareiowa.com/article/tech/artificial-intelligence-technology-behind-chatgpt-built-in-iowa/524-8043400d-93a6-4c05-9085-6f2286d118a8"
-    ampWebUrl: "https://www.weareiowa.com/amp/article/tech/artificial-intelligence-technology-behind-chatgpt-built-in-iowa/524-8043400d-93a6-4c05-9085-6f2286d118a8"
-    cdnAmpWebUrl: "https://www-weareiowa-com.cdn.ampproject.org/c/s/www.weareiowa.com/amp/article/tech/artificial-intelligence-technology-behind-chatgpt-built-in-iowa/524-8043400d-93a6-4c05-9085-6f2286d118a8"
-    type: article
-    provider:
-      name: We Are Iowa
-      domain: weareiowa.com
-    quality: 57
-    images:
-      - url: "https://media.tegna-media.com/assets/WOI/images/a9f42fd0-a197-465f-be28-ff91db96271a/a9f42fd0-a197-465f-be28-ff91db96271a_1140x641.jpg"
-        width: 1140
-        height: 641
         isCached: true
   - title: "UGOT modular AI robot kit with support for ChatGPT, Python and more"
     excerpt: "face recognition, and text and object recognition. If the UGOT campaign successfully raises its required pledge goal and production progresses smoothly, worldwide shipping is expected to take place sometime around December 2023. To learn more about the ..."
@@ -230,6 +198,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Dr. ChatGPT: How accurate are the new AI tools with medical capabilities?"
+    excerpt: "There are still many questions about how to integrate artificial intelligence into health care systems, however, the race is on: The Mayo Clinic is integrating a chatbot into its system."
+    publishedDateTime: 2023-09-14T15:14:00Z
+    webUrl: "https://www.benefitspro.com/2023/09/14/dr-google-meets-its-match-dr-chatgpt/"
+    type: article
+    provider:
+      name: Benefits Pro
+      domain: benefitspro.com
+    quality: 38
+    images:
+      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2023/09/Chat-GPT-Article-202307181246.jpg"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Artificial intelligence technology behind ChatGPT was built in Iowa"
     excerpt: "DES MOINES — The cost of building an artificial intelligence product like ChatGPT can be hard to measure. But one thing Microsoft-backed OpenAI needed for its technology was plenty of water, pulled from the watershed of the Raccoon and Des Moines rivers ..."
     publishedDateTime: 2023-09-12T10:37:00Z
@@ -253,20 +235,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 36
-  - title: "Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water"
-    excerpt: "As they race to capitalize on a craze for generative AI, leading tech developers including Microsoft, OpenAI and Google have acknowledged that growing demand for their AI tools carries hefty"
-    publishedDateTime: 2023-09-09T20:39:00Z
-    webUrl: "https://tulsaworld.com/ap/business/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water/article_3379d8ad-289b-59cd-af57-adfc57af0969.html"
-    type: article
-    provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 30
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/6/5e/65eddd27-5f7e-51af-a65c-5d8ff9c1f88d/64fc7131358f7.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI tech behind ChatGPT was built in Iowa -- with lots of water"
     excerpt: "The cost of building an artificial intelligence product such as ChatGPT can be hard to measure. But one thing Microsoft-backed OpenAI needed for its technology was plenty of water, pulled from the watershed of the Raccoon and Des Moines rivers in central Iowa to cool a powerful supercomputer as it helped teach its AI systems how to mimic human"
     publishedDateTime: 2023-09-11T05:00:00Z

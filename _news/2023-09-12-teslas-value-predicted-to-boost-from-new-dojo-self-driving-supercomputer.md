@@ -7,7 +7,7 @@ originalUrl: "https://www.whichcar.com.au/news/tesla-s-value-predicted-to-boost-
 webUrl: "https://www.whichcar.com.au/news/tesla-s-value-predicted-to-boost-from-new-dojo-self-driving-supercomputer"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "How Tesla’s New Supercomputer Could Upend the AI Race"
+    excerpt: "Custom-Built AI Tech Is on the Rise In fact, every Big Tech firm building AI models that formerly relied on Nvidia are now developing their own custom-built chips. Amazon (AMZN) has developed two chips customized specifically to build AI models on the firm ..."
+    publishedDateTime: 2023-09-14T15:32:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/how-teslas-new-supercomputer-could-upend-the-ai-race-1032631339"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 86
+    images:
+      - url: "https://investorplace.com/wp-content/uploads/2023/09/nvda-ytd-graph-091423.png"
+        width: 928
+        height: 582
+        isCached: true
 
 secured: "K6ZH57HbEykBKnnlwhADRMA0TBg2BrgcZTj0H/wt+PVkry1LbZCLjClcOOMRjvUTK1s/P/4xIgforUmwWsrkpKvk3XalehDFxmj5nXZ5p9Rc9+fJd2YkAuAHXxwPTlYTHQN6JM+feDgKiXFQDlSF1KRDojRWWSeAqCQFUN7bcBBCp95YkDbngC3Tf7U+DvFPCDiYsZkrdjlzTvZONUkm55+7wU3IbaZwY+LMTKXh3RY4aDKLCFpH+28IyDkkmzecT9LwXeNV7n+X0+tN8DnzlDI6+lohKHVDrueKQJRjljDlmMfJkrFk2NiDyyEbNHY0/wLoI7qYBK+PYI9cgCzwHu032pEJQiEPrjmAG+v/CBUaW7+Fc+Jua8GQS3sRN47xOA1YP9jjeb6nGrFpXNLM99s9tX+KOwTfpVQqREZd90aZVu7kgCiMIpAuF/6qbAkK6xFy5rQna0Pwn/NFpyRSITpGmvmF6rOqn/8eBfhyNRVA9KoV7cNwmkhpaU9seeoOklt2Yzi4IN9b09eFKZ7kHQ==;VLdyxbYMxrDTLpIEoZNWlg=="
 ---

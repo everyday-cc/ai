@@ -55,6 +55,15 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Leadership In The Age Of AI: Harnessing Data For Informed Choices"
+    excerpt: "The evolving landscape of AI, its impact on data-driven decision-making, and the importance of ethical AI practices in the professional realm is creating debate"
+    publishedDateTime: 2023-09-14T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/benjaminlaker/2023/09/14/leadership-in-the-age-of-ai-harnessing-data-for-informed-choices/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "s6A0pPtus1jGPYfGCjSSSx+SgWB3NIaqxUOpSlYM+lI5wb5wSdxkUWVdqCkuIXkPmxHx6l4/rpK2P5N2uBHxaweacX2bvTbRk+dj7ca3TOzSatMdzPbzTG+pTZh+D4wT0/1lMwKylp8+PBpaP97cPgXMOnGRzb8vVxegYiX4rgTlaTNFdU3ak1+9axXz37QEmiH5U0Tx12t7lQ1SKGyWQmb9z79B3AIX6wI6r5Agzk3yDvEEzVYKCT0ZMZx9M5vGhH+DlrjajwpBo5+T3MtFNSghES8QwQrmkpcii7izqaYKEqJiCdnYZ9pHFXOvQr4ztXIkp4TFsIbGHpgtHStZ9KJjuxWUYhJY3bFnoRpHzeE=;eeCz/L/TSKphmneqz7RnDQ=="
 ---

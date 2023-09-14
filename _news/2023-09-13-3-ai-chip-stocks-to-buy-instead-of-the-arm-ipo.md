@@ -51,6 +51,22 @@ related:
         width: 3000
         height: 1687
         isCached: true
+  - title: "Five things to know about British chip champion Arm"
+    excerpt: "Here are five things to know about British chip designing giant Arm, which will launch a blockbuster listing on Wall Street on Thursday."
+    publishedDateTime: 2023-09-14T14:39:00Z
+    webUrl: "https://techxplore.com/news/2023-09-british-chip-champion-arm.html"
+    ampWebUrl: "https://techxplore.com/news/2023-09-british-chip-champion-arm.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-british-chip-champion-arm.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/chip.jpg"
+        width: 1885
+        height: 1920
+        isCached: true
 
 secured: "8PBfCpVJeWLhP3Cy4BCIH/5KilkunUAvoqudkCtEKxKpGX1iGrKah3SCvIjVliw0RXf+4viyBit9aIb4Xd+C6n0F2f9kTBmxIVkZeeMcG4cOegEPEd3QSz8JKL1nEq/UQ9txXi/WoDWmaXJyhl7+yJPbiKysYDVKko2DEvOPuWNRw2Pgq6DWhEWkZ4W/WDyZpNYylUHd5gTaymSEgfNF0vCNSAndt8BiZNYosKmgGXrn4uKL2XYRwea9Lsls8Rn5QC4zwv5xy1yzRwT2pFLC239SEa6MrQHEQau7aJEZjTwRYb3Ei7XW/VgJldyrK/ai2NZpNh5jBpspZCIouOVAfUxIXtWYK85dqBgQ+ylRpGHbS8ee/kX5O4i7WqU5ZUYtYx1/rq59mGkoK8lNNgAmKy3ojadm/xIVrjPQiSI4VUP4yumhYwyXwF3Vr07mZ6qaESQXhgDfA/68mpD5xeOKnQt/oZZZWbeVZmvm3a8hB/enB7vBD5PJUins6/rr0CTd8N6R8zaVJ7TzHO71N5cz9A==;KiuOQxDDyqbNDIcLoikCOA=="
 ---

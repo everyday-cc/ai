@@ -7,7 +7,7 @@ originalUrl: "https://healthitanalytics.com/features/exploring-patient-provider-
 webUrl: "https://healthitanalytics.com/features/exploring-patient-provider-perceptions-of-healthcare-ai"
 type: article
 quality: 56
-heat: 87
+heat: 86
 published: true
 
 provider:

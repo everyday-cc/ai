@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/business-news/irs-uses-ai-to-fight-ta
 webUrl: "https://www.entrepreneur.com/business-news/irs-uses-ai-to-fight-tax-evasion-millionaires-dodging-taxes/458884"
 type: article
 quality: 79
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -56,17 +56,6 @@ related:
         width: 790
         height: 496
         isCached: true
-  - title: "IRS deploys artificial intelligence to catch tax evasion"
-    excerpt: "The tax agency is opening examinations into large hedge funds, private equity groups, real estate investors and law firms"
-    publishedDateTime: 2023-09-09T20:00:00Z
-    webUrl: "https://www.seattletimes.com/business/irs-deploys-artificial-intelligence-to-catch-tax-evasion/"
-    ampWebUrl: "https://www.seattletimes.com/business/irs-deploys-artificial-intelligence-to-catch-tax-evasion/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/irs-deploys-artificial-intelligence-to-catch-tax-evasion/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
   - title: "Artificial intelligence among tools IRS will use for enforcement push"
     excerpt: "AI will be part of a new tax-enforcement effort that will target high-income earners, partnerships, and large corporations."
     publishedDateTime: 2023-09-12T12:12:00Z

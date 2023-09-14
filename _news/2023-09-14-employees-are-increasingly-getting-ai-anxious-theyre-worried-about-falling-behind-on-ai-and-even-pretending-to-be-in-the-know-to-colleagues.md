@@ -29,6 +29,17 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "A meeting of the minds: AI and employee mental health"
+    excerpt: "New AI-based chatbot solutions are supporting those with mental health struggles by helping build coping skills and reframing negative thinking."
+    publishedDateTime: 2023-09-14T13:01:00Z
+    webUrl: "https://www.benefitnews.com/opinion/how-ai-can-help-employee-mental-health"
+    type: article
+    provider:
+      name: Employee Benefit News
+      domain: benefitnews.com
+    quality: 19
+
 secured: "LANXFL2NIf3B/G4SNNHC3PbTf+4bHjo7n2SHcW+eoBMH0EhpfLlV5gxkV5YszdMFz6BCZNahmWwC5o6SxgkMia2h/HWvXKSJMMjIOH8cVYTtMUuy0RQLXh6Nb60ie3o/Skb9Yf+qS9wve5ZmSPD4rNNBNXOzYwjMJDVO3+lQrtauPPBjBsbDCsNVlGwJnfL7EBlueyrMVhlfaaMjhTHojl34BokszUwuQG/qZv6UF8onjG0UohtDznlUIhLJiNwjTP56yxeHjrMNbLZ3EkS88lC1FSt7PVa+a+55ie5Fo3DZ+e5frsGfeiX00S5mTx2CXMky2U+PkaMowkmBZm9c2jrRCXl4mJv3jK0skA8h8ZpmF+S7HAHJ2gY9XSjqzCjv1T5X5+Zn0M9EXiuQbn6ThH/7lrRo7BN34tzbXrTMpz616gpkJMhBpz6BriRa4cy2utS2IkdWEfjrY5r55s5gEV1C05cxI64HYGE27UDbyx37GUy/OSKmQAE0Jgy9yk5Ut5H8dJIxwmNkz7RSbD2stw==;JQQynILpBzi84mkebPaQmw=="
 ---
 

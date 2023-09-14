@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sap/2023/09/11/the-rise-of-ai-how-enter
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2023/09/11/the-rise-of-ai-how-enterprises-harness-the-power-of-large-language-models/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Leadership In The Age Of AI: Harnessing Data For Informed Choices"
+    excerpt: "The evolving landscape of AI, its impact on data-driven decision-making, and the importance of ethical AI practices in the professional realm is creating debate"
+    publishedDateTime: 2023-09-14T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/benjaminlaker/2023/09/14/leadership-in-the-age-of-ai-harnessing-data-for-informed-choices/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Labelbox Introduces Large Language Model (Llm) Solution To Help Enterprises Innovate With Generative Ai, Expands Partnership With Google Cloud"
     excerpt: "Labelbox delivers a complete Large Language Models (LLMs) solution to help enterprises build high-quality models and applications by generating huma"
     publishedDateTime: 2023-09-12T17:21:00Z

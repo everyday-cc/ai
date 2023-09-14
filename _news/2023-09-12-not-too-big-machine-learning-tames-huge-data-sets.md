@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Not Too Big: Machine Learning Tames Huge Datasets"
+    excerpt: "The distributed algorithm for modern and heterogeneous high-performance computer systems can be useful on hardware as small as a desktop computer."
+    publishedDateTime: 2023-09-14T13:38:00Z
+    webUrl: "https://www.hstoday.us/subject-matter-areas/information-technology/not-too-big-machine-learning-tames-huge-datasets/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 39
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2019/01/cyber-glasses-1938449_1920.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Not too big: Machine learning tames huge data sets"
     excerpt: "A machine-learning algorithm demonstrated the capability to process data that exceeds a computer’s available memory by identifying a massive data set’s key features and dividing them into manageable batches that don’t choke computer hardware."
     publishedDateTime: 2023-09-11T00:00:00Z

@@ -73,6 +73,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "AI now generates music with CD-quality audio from text, and it’s only getting better"
+    excerpt: "If you'll recall, Stability AI is the company that helped fund the creation of Stable Diffusion, a latent diffusion image synthesis model released in August 2022. Not content to limit itself to generating images, the company branched out into audio by backing Harmonai, an AI lab that launched music generator Dance Diffusion in September."
+    publishedDateTime: 2023-09-13T20:59:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/09/ai-can-now-generate-cd-quality-music-from-text-and-its-only-getting-better/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/09/ai-can-now-generate-cd-quality-music-from-text-and-its-only-getting-better/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/ai-can-now-generate-cd-quality-music-from-text-and-its-only-getting-better/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 82
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot_singing_3-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Winn.AI Introduces AI-Powered \"Magic Emails\" To Revolutionize Sales Follow-Ups"
     excerpt: "Winn.AI, an Israel-based sales tech startup that helps sales teams win more deals with less hassle through its innovative real-time tracking, capturing, and CRM updating features, introduces Magic Emails,"
     publishedDateTime: 2023-09-14T00:35:00Z
@@ -232,6 +248,15 @@ related:
         width: 640
         height: 488
         isCached: true
+  - title: "Deduce Raises $9M to Address AI-Generated Identity Fraud"
+    excerpt: "Deduce announced $9M in funding led by Freestyle Capital, with additional investment by Foundry and True Ventures."
+    publishedDateTime: 2023-09-14T12:02:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/09/212894-deduce-raises-9m-to-address-ai-generated-identity-fraud/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 19
   - title: "UK researchers start using AI for air traffic control"
     excerpt: "UK researchers have produced a computer model of air traffic control in which all flight movements are directed by artificial intelligence rather than human beings. Their “digital twin” representation of airspace over England is the initial output of a £15mn project to determine the role that AI could play in advising and eventually replacing human air traffic controllers."
     publishedDateTime: 2023-09-11T10:00:00Z
@@ -260,6 +285,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "bXusARyL3Mwoun03uC389umPI+4mH5s6G8fGAZPA63f6OftGgMjc43WSAKWbcG7gerZRe+H5sExwN9XHrNkawBjpNtYLbwqKyufimylQUwMBCbS3ZKrnjMAqzzZ+bAwghdypLnUj/kyACKWl3uOCUHqkKirC0RO90wZ5xo0OY0FxBN4A7Tvsntu0zApof40kmwXPvGjrMVabjTUihqffXLcPsHoCAHgk/VAy4hrEWysrwfPLpRjS1Ig5sde90m0sUwz8wX7wBi+sAoEWWPg97y/XUT8Dx/8NFdmrcKVAzjs6/ied8oVl5HJdsXHhV1ZG6bdHqTff/KhSorrsXVMzNPj9cvCoGaepph0j1v4dnto=;4hi86wKkIFYnf/VX1vW4HA=="
+secured: "4hkj6r2LdDjHjucvSpx98e5W0XDnEXS1OJXLPuoYTDlUmKi7XqjVTwaJ2M27ZXQfSGZAEO2Lat/BdS7MVao9pX/E2di/mijyyTyqnlJwCuHEfZuvf+sx4SVFfworiawhYuS37Jn7Cpgz3YdptJd7ZTWOq1OzvM2MzEfQE/hMNCYS2JjG0I0GxxJlGSIHQ8T1/nx//612ZuzDy2EK+JtJlstfFR/fPtrbzBaQHSWN3rJvP+Iyhexg2oJkkSnrchAI0sK4owWHWOuJiZggUY+ZO7HcHzUgEtVATT7FqR7hppmew41p8F4y2dVzwKR92V873KdkUDyOpk15eOQLf9HJuLfReT3d2drNYv6tnuMCCBvYJk6jYUwbQQXEwZ4nPw0FO5AX/6wZHOSB+mRn5n9z8wfUmGsHVXca+sE4LalcUGj2iRPvNC3cIR3aEW6KIapqi13CZE0RBJfmmC9yosiiKbAGdoqjLLbSjANLlr6K0cnejs+8rs1zrwvygkc/IztpJVMUID+tKJ1LEmk2dl640w==;vzx1rxZ/4MO6dtkR1Cr+dg=="
 ---
 

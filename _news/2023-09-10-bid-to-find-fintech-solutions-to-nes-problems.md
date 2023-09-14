@@ -43,6 +43,22 @@ related:
         width: 800
         height: 372
         isCached: true
+  - title: "Ant Group’s AI efforts build on its fintech heritage"
+    excerpt: "China’s Ant Group has unveiled its large language model (LLM) for the financial services sectorIt’s a market well known to Ant Group, which has more than 1"
+    publishedDateTime: 2023-09-14T15:01:00Z
+    webUrl: "https://www.telecomtv.com/content/digital-platforms-services/ant-group-s-ai-efforts-build-on-its-fintech-heritage-48484/"
+    ampWebUrl: "https://www.telecomtv.com/content/digital-platforms-services/ant-group-s-ai-efforts-build-on-its-fintech-heritage-48484/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/digital-platforms-services/ant-group-s-ai-efforts-build-on-its-fintech-heritage-48484/amp/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 59
+    images:
+      - url: "https://assets.telecomtv.com/assets/telecomtv/ant-group-17003.jpeg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Samunnati joins FinTech finbots.ai to facilitate AI-based credit risk management"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-09-13T11:51:00Z

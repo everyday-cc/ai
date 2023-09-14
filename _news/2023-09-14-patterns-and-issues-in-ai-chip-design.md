@@ -7,8 +7,8 @@ originalUrl: "https://semiengineering.com/patterns-and-issues-in-ai-chip-design/
 webUrl: "https://semiengineering.com/patterns-and-issues-in-ai-chip-design/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Semiconductor Engineering
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Why humans can’t trust AI"
+    excerpt: "Researchers are working on programming AI to include ethics, but that’s proving challenging. The self-driving car scenario illustrates this issue. How can you ensure that the car’s AI makes decisions that align with human expectations? For example ..."
+    publishedDateTime: 2023-09-14T13:30:00Z
+    webUrl: "https://www.nextgov.com/ideas/2023/09/why-humans-cant-trust-ai/390282/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 39
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2023/09/14/091423AING/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "AI Deepfakes in Campaigns Are Detectable, But Does It Matter?"
     excerpt: "Deepfake audio, authentic-sounding but false recordings built from short snippets of a subject talking, have become so realistic that they present painfully obvious potential for underhanded political tactics."
     publishedDateTime: 2023-09-11T17:42:00Z

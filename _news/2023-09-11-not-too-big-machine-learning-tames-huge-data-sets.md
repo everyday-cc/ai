@@ -28,6 +28,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
+  - title: "Not Too Big: Machine Learning Tames Huge Datasets"
+    excerpt: "The distributed algorithm for modern and heterogeneous high-performance computer systems can be useful on hardware as small as a desktop computer."
+    publishedDateTime: 2023-09-14T13:38:00Z
+    webUrl: "https://www.hstoday.us/subject-matter-areas/information-technology/not-too-big-machine-learning-tames-huge-datasets/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 39
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2019/01/cyber-glasses-1938449_1920.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
 
 secured: "XedQExAy0WfEMAi7StCQPccs42H7wLQeIVM6M9n7Jmuep/wdNnGE8xzb2sLQiDXHkNyvP98EXGPnpA1eJByEn6qCJOXLbMA2qu6jgS7G8QR2cffzJQWUZxGgksvxIPCVuRSO596uZWwTd8I+nGG0tSqRvavhM46WEqRBqdgK/OHZYb7KOuP17/Nq523DpbUDyTwCzeJLE2PBAe/W7kKDJNlyuivVIcw/Nng5uJNN2hBDa8/fz+h/C8CHvMRV/UpKuZsN/yrPAJTByVaLdg+js3stNDKpfjGrWDOfobF4ZTn+WOzZrz9btHWgT6wd/Z1FR6Nemr0X1OAIwaKzTxYy7z1li2gUEGatuRUSLd/tF4A=;mWU44aoFnIn7B1gNr8dQjQ=="
 ---

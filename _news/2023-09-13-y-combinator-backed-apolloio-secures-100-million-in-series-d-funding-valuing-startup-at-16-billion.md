@@ -40,6 +40,15 @@ related:
         width: 1893
         height: 767
         isCached: true
+  - title: "DRUID raises $30M in Series B to boost enterprise productivity with conversational apps and AI"
+    excerpt: "Tech - DRUID, a global leader in conversational AI technology, announced today its successful $30 million Series B led by TQ Ventures, with participation from"
+    publishedDateTime: 2023-09-14T12:39:00Z
+    webUrl: "https://business-review.eu/tech/druid-raises-30m-in-series-b-to-boost-enterprise-productivity-with-conversational-apps-and-ai-251637"
+    type: article
+    provider:
+      name: business-review.eu
+      domain: business-review.eu
+    quality: 7
 
 secured: "MlPXn0PTcLRL/qifgLWVDvxjzzXo6vUJNPu4ty0uRbRIuyraA2TCm6m9AcqOCqY0Bdi0wgvLCBhh2dSpAX/ElUBNoXPqDOo2avcN3Ks4ADUTGyvU7TgzUnHZhYkMqGix2ZAKBBCtJXAqK1v1YemmWece9gNnOwmg1m5FXXKfrVM2swGcp3yFsoe+P6l+JwOeBCWbshP1cMPzF0wd4ASA3HfMCcPeHV2qkU+ldo8GibuH7QcqaeD1/FxDY60W52VbsYP/Y555ny1+b3xG/9NozOdskmE7lKit8E4Mlc/Z58FGO3NFMuUGUi9H4Q6sGgaWcPfjTvuDXy42/Cs5j6PLE69S9RGm4YLs1vzr+XhWPAc=;qlhTampRyDSfCtPR9VMboA=="
 ---
