@@ -24,6 +24,22 @@ images:
     height: 1414
     isCached: true
 
+related:
+  - title: "techUK welcomes Transport Select Committee’s call to legislate for self-driving vehicles"
+    excerpt: "UK welcomes the House of Commons Transport Select Committee’s call to pass to create the regulatory and legal framework for self-driving vehicles in the UK."
+    publishedDateTime: 2023-09-15T08:40:00Z
+    webUrl: "https://www.techuk.org/resource/techuk-welcomes-transport-select-committee-s-call-to-legislate-for-self-driving-vehicles.html"
+    type: article
+    provider:
+      name: techUK
+      domain: techuk.org
+    quality: 15
+    images:
+      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/b14e9547-51ed-46d0-921f02f463ebccd3/opengraphimage_83f4e8796336604b59d7216d0ecd81a5_4a7c7e45a350/iStock-1194791782-smaller.jpg"
+        width: 400
+        height: 225
+        isCached: true
+
 secured: "niPhMq7TXjycraOj0dHwSIE+iFLM9a4AyWn9IKwwycw7X63dvemgknjSOsuePU8EZ9oCfnuZMqvIiorKDL7/o/1X8aY8ZdEGIeCfDfjRv2J+7wAIlcgzMgRWfFgL+WOcwVUOmXsKwmuQdZild1sRlN2oy+iIhpavG9HfXX1kPjqof/SAZFgQxCf+edwWB5t8WEpJov9aOJ8+iddMKNAdIXc3Ko3++wJq8efyDr5c5EVFxyhGUy5mL6DcBqzQtw0mtx3RKsCL6jzNpCPPkIx8GEAuEQPnWhG4UygIgBRLwF41quaIXctGvv9Dhx27AhfS3XhxHldbtLJMigDEP6vXu6uZZvtsW6Qe023zQM8BBxGg9GQkP512ee452H/k2qZb5qrqORanjtoqnuP78gM2SpIxMtl6wdhUFye/9TKo8F4LxOTF4D0LEYktfo8h41SXgI0wQv2AEZ/vw79RXK6BDoVwoT4opBiF8PYTieJci+cFLKAVw8Xk+D2EvwzkxnpGTuzJIMokwCIEcOM9EixIVg==;3Vo5pchRoY+VjJgmhzN6dg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/09/11/ai-app-character-ai-is-catching-up
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/11/ai-app-character-ai-is-catching-up-to-chatgpt-in-the-u-s/amp/"
 type: article
 quality: 87
-heat: 297
+heat: 307
 published: true
 
 provider:
@@ -218,6 +218,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/b/05/b0520c57-928d-50a0-b92e-84ec6cb7f532/6500b22e260cb.preview.jpg?crop=1694%2C889%2C42%2C253&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
+        isCached: true
+  - title: "ChatGPT alternatives AI21, Falcon 180b, Palm 2 and more"
+    excerpt: "Learn more about ChatGPT alternatives in this quick overview video which provides a look at AI21, Claude 2.0 and more. These AI models can be"
+    publishedDateTime: 2023-09-15T08:07:00Z
+    webUrl: "https://www.geeky-gadgets.com/chatgpt-alternatives/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/ChatGPT-alternatives.jpg"
+        width: 700
+        height: 466
         isCached: true
   - title: "Dr. ChatGPT: How accurate are the new AI tools with medical capabilities?"
     excerpt: "There are still many questions about how to integrate artificial intelligence into health care systems, however, the race is on: The Mayo Clinic is integrating a chatbot into its system."

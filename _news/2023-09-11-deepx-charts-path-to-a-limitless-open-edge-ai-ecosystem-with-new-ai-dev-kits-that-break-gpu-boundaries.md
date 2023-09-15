@@ -35,6 +35,6 @@ related:
       domain: geeky-gadgets.com
     quality: 19
 
-secured: "lvrC+sXUhKSLwTRwqs3Dhdhkma9vgCecAwGUKA35YorVUBLnkzJQ4jtiMwP/5O6RWEPiEPiZy5LJ+LUnC1VybvlSsmAKNgwgH4yKIbS5thextv4B1D1sCd4GzYPLtxb6Y2kEYxCk+JNFN6Z3tHbUoMaUIDN6ZSGorIwXBAvVOoQCMfAXV4XXhlUkfvLh703mk3rI0MF7yG+LDqjL8ZPuKL/jYWpI+RzCM9XG4FnnSOQRuShs5ZPRecj6PPhGcMFDMiNHNErGl7+rPc/YrafS53wgSbm8NDpM1K4DxJkOhtkmk2tJqjN9KTEzBuygiVyuMavvXClcxY7I7XkYiRoc474H84lsetp3wGrTQ8PopIY=;nRLNqBeo4H3FhDe17JFkhQ=="
+secured: "cIVmVhpR++ziqE4O2NCOxHEdvuZYIg80Sx6gybabPajSD/f7tQmh6hVlPxJiqF6iUs+1QriNIc29hINH9uWzGa/GPijZp1qyJl+1N9G/TiH2xQHYF+ELg/BMtbOqF3Ky4QSTe7Nc8Kl8O/WZYcmd/SFzGLBHdonEbynD399razg7u6i1nplGBu1B7TVRg5DEHx5RmxPvr7hrjrz4L1u9EB+XzdBPGB0MhRTAqd0B0Q4Szo5IouoJPtg7wb/wr5yi7uqTwR3bPk7BSWgBUAWbTm5b8njY7XOEalNzORJBjHwsnARM6vBe3jbWNwqowqDX8tdfw7j31tD4jwch/WMkZgHDlWiOGNjrVc2mikVVi/A=;m+IxMsA1i2g+97+V8b1sRw=="
 ---
 

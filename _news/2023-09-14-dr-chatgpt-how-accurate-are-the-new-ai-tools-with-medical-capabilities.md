@@ -230,6 +230,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "ChatGPT alternatives AI21, Falcon 180b, Palm 2 and more"
+    excerpt: "Learn more about ChatGPT alternatives in this quick overview video which provides a look at AI21, Claude 2.0 and more. These AI models can be"
+    publishedDateTime: 2023-09-15T08:07:00Z
+    webUrl: "https://www.geeky-gadgets.com/chatgpt-alternatives/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/ChatGPT-alternatives.jpg"
+        width: 700
+        height: 466
+        isCached: true
   - title: "Artificial intelligence technology behind ChatGPT was built in Iowa"
     excerpt: "DES MOINES — The cost of building an artificial intelligence product like ChatGPT can be hard to measure. But one thing Microsoft-backed OpenAI needed for its technology was plenty of water, pulled from the watershed of the Raccoon and Des Moines rivers ..."
     publishedDateTime: 2023-09-12T10:37:00Z

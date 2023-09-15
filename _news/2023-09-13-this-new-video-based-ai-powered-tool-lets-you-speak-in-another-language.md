@@ -24,6 +24,22 @@ images:
     height: 720
     isCached: true
 
+related:
+  - title: "This new AI video tool clones your voice in 7 languages — and it's blowing up"
+    excerpt: "How many languages do you speak? Thanks to AI, that number could be as many as seven. Los Angeles-based AI video platform HeyGen has launched a new tool that clones your voice from a video and translates what you’re saying into seven different languages."
+    publishedDateTime: 2023-09-15T07:30:00Z
+    webUrl: "https://www.tomsguide.com/news/ai-video-tool-clones-your-voice-in-7-languages-and-i-almost-tried-it"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 36
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/4eQskPrXu7YbziprmdSwNQ-1200-80.jpg"
+        width: 1200
+        height: 677
+        isCached: true
+
 secured: "TpbbEVuQIOwcciXywp79WKSl0mdj1JIXxlufbMZj3e+naP/RsOa6JfUFktDlRmXNU8umBH594qocPW8g/8Ojh7TlZcyZFvG7QD85gioY0wvIUAOwW2xDGaTa77np+4d5uL6ZTe956EDZHTLH2mdllepZaexSQsfB0fAaCzi0xAL1Kmc3vQd9s+dK3XeNw3ZCWftOKzv2wF0HJiKTgsPJyLfHhOH/m8D5+gtoWt82eCSPX3kFxYUrOZQ+cnIWGY5OjCNpA6MPb/TrV3zbT1Y6z6XJ+dhzGHcLvrycqi0+2KD0hjZIftL7CDLOQZlhdFLitKMXh2ooiToxsUzMk8l1egHwk68qNoUIKTUI7Ix0CDJxMxcYjPCfHvCIQjOUTgo3XgQsO8WlPfLKNgbold7r5FV9VMnTgmHgU2hRirJ0ocC4cabVJFf4W3+ZmrFwkvaTLYQpX9C5XNgcOQ6cDf7ToadsYW4nwFQy+mjVbh9Q7T/Wu+uBNbjcp1gudQ8v508hz57e4gYrZBSNAEzOuj3uGg==;wrRBgvMPBGqvq1Njo+oAWw=="
 ---
 

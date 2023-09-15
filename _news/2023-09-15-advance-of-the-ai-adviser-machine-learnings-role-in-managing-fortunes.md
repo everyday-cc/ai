@@ -6,8 +6,8 @@ publishedDateTime: 2023-09-15T05:46:00Z
 originalUrl: "https://www.ft.com/content/6766a3bd-1cec-4e88-9f51-5ed93b39528c?sharetype=gift"
 webUrl: "https://www.ft.com/content/6766a3bd-1cec-4e88-9f51-5ed93b39528c?sharetype=gift"
 type: article
-quality: 54
-heat: 64
+quality: 56
+heat: 66
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/markets.jpg"

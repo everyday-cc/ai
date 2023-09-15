@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The Future Of AI In Business: Predictions And How To Prepare"
+    excerpt: "AI has exploded in popularity in 2023. Here are my predictions for what's to come with AI and how your business can prepare."
+    publishedDateTime: 2023-09-13T11:44:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/09/13/the-future-of-ai-in-business-predictions-and-how-to-prepare/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/09/13/the-future-of-ai-in-business-predictions-and-how-to-prepare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/09/13/the-future-of-ai-in-business-predictions-and-how-to-prepare/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63d3d76c6f41b0b2774c5504/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "The Human Touch in LLMs and GenAI: Shaping the Future of AI Interaction"
     excerpt: "About the author: Rohan Agrawal is the CEO and Founder of Cogito Tech, a provider of AI training solutions that offers a human-in-the-loop workforce for computer vision, natural language processing, content moderation, and data and document processing."
     publishedDateTime: 2023-09-12T17:31:00Z

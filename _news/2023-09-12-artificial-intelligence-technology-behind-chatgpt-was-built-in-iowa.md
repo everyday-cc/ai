@@ -229,6 +229,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "ChatGPT alternatives AI21, Falcon 180b, Palm 2 and more"
+    excerpt: "Learn more about ChatGPT alternatives in this quick overview video which provides a look at AI21, Claude 2.0 and more. These AI models can be"
+    publishedDateTime: 2023-09-15T08:07:00Z
+    webUrl: "https://www.geeky-gadgets.com/chatgpt-alternatives/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/ChatGPT-alternatives.jpg"
+        width: 700
+        height: 466
+        isCached: true
   - title: "Dr. ChatGPT: How accurate are the new AI tools with medical capabilities?"
     excerpt: "There are still many questions about how to integrate artificial intelligence into health care systems, however, the race is on: The Mayo Clinic is integrating a chatbot into its system."
     publishedDateTime: 2023-09-14T15:14:00Z

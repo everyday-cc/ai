@@ -27,7 +27,7 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/markets.jpg"
         width: 619

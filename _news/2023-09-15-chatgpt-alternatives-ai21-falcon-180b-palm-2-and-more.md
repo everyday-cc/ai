@@ -1,25 +1,28 @@
 ---
 category: news
-title: "Druid, a conversational AI platform for enterprises that integrates with ChatGPT, raises $24M"
-excerpt: "Conversational AI startup Druid has raised $24 million in a Series B round of funding, as it looks to double down on its U.S. growth."
-publishedDateTime: 2023-09-12T13:08:00Z
-originalUrl: "https://techcrunch.com/2023/09/12/druid-a-conversational-ai-platform-for-enterprises-that-integrates-with-chatgpt-raises-24m/"
-webUrl: "https://techcrunch.com/2023/09/12/druid-a-conversational-ai-platform-for-enterprises-that-integrates-with-chatgpt-raises-24m/"
+title: "ChatGPT alternatives AI21, Falcon 180b, Palm 2 and more"
+excerpt: "Learn more about ChatGPT alternatives in this quick overview video which provides a look at AI21, Claude 2.0 and more. These AI models can be"
+publishedDateTime: 2023-09-15T08:07:00Z
+originalUrl: "https://www.geeky-gadgets.com/chatgpt-alternatives/"
+webUrl: "https://www.geeky-gadgets.com/chatgpt-alternatives/"
 type: article
-quality: 36
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Geeky Gadgets
+  domain: geeky-gadgets.com
 
 topics:
+  - Natural Language Processing
   - AI
+
+images:
+  - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/ChatGPT-alternatives.jpg"
+    width: 700
+    height: 466
+    isCached: true
 
 related:
   - title: "AI app Character.ai is catching up to ChatGPT in the U.S."
@@ -227,20 +230,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "ChatGPT alternatives AI21, Falcon 180b, Palm 2 and more"
-    excerpt: "Learn more about ChatGPT alternatives in this quick overview video which provides a look at AI21, Claude 2.0 and more. These AI models can be"
-    publishedDateTime: 2023-09-15T08:07:00Z
-    webUrl: "https://www.geeky-gadgets.com/chatgpt-alternatives/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/ChatGPT-alternatives.jpg"
-        width: 700
-        height: 466
-        isCached: true
   - title: "Dr. ChatGPT: How accurate are the new AI tools with medical capabilities?"
     excerpt: "There are still many questions about how to integrate artificial intelligence into health care systems, however, the race is on: The Mayo Clinic is integrating a chatbot into its system."
     publishedDateTime: 2023-09-14T15:14:00Z
@@ -269,6 +258,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Druid, a conversational AI platform for enterprises that integrates with ChatGPT, raises $24M"
+    excerpt: "Conversational AI startup Druid has raised $24 million in a Series B round of funding, as it looks to double down on its U.S. growth."
+    publishedDateTime: 2023-09-12T13:08:00Z
+    webUrl: "https://techcrunch.com/2023/09/12/druid-a-conversational-ai-platform-for-enterprises-that-integrates-with-chatgpt-raises-24m/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 36
   - title: "Why Japan is building its own version of ChatGPT"
     excerpt: "Some Japanese researchers feel that AI systems trained on foreign languages cannot grasp the intricacies of Japanese language and culture."
     publishedDateTime: 2023-09-14T03:41:00Z
@@ -320,6 +318,6 @@ related:
       domain: oregonlive.com
     quality: 13
 
-secured: "ISG82sPmcnyYvtQ/1s6nhGHSXITVn1y32EoY0dy7jLoQrJjo3ik9HURDOIdioceqt1XoaDmaY9N0+wy73wNt3M1Hc69W0WcmieBeG2ACvDpbFgW0adBppaplWZLg2rEccMh7SvdPEPKnraytZFiBAe9LJmlLoDFLgWWVK1fAYcZ2ayRIVkajwaRRmP8BREG/M2OgkiroLMXvbAHEH+Bk+bFk0DEEC8DintRF15GO3MykAjEU5wUqteBwP2/GiMChVoiAmdPZyTN9ydm2CMM6XIGf9EGM7k7v1AWKTy3IY63fbvDZ5fdtNDx682DNng8yH7sbcvfJJB2xX/xRmGY8dMgvEqWg5YP1itzRTXJUmsBupxI9CaeHwaOm6j3J/nOcVgWUTzhF7qIlQHKXcFmzh5pwyP89tqpxJjiOV3E7+HHfYQY+X0b/LZwIsgVow72TZtVZAVOGgUKsJLAvXfU/rO9yG02/e3iHApkIgCQDq31xfZW54ZqMLA1eKEg+sWmd/yooDxDkCIG+8Fix7/7QZQ==;lRABIlCPJIdE/HWrcM8sMQ=="
+secured: "b6zrSs1EBGnY/NmWY4j8ycKPgmuhPTPZew2c9kOm5W68Q2z/zMMJK1HQah5r2YM19mhBL4TNYb3h3PR01lkm/Zd8VbpfLayNX+QZLnTg8jNYfKxQWRaf0noDsow3JTC5iFKCPFZ1DazhL7O0P8mbOX7sFWLFa9pWArO6+6+SHdmu7hg++na95EObTon0nMKL9wUOuErNEUf51BJiszz8COlMvCqJIApN1bdDBUeD9XBvf8XLpf5V52lVIlurPp9GDJAHjUAJofuEAcSBXerszxo0yyktlSOGye9GZnDxTrgZICuBACxPPyRZO/RgwS9zwUgVWR9rl+WPWloErLOHylOAEKnfwJDnSSnsAhqNei4=;BtyBXtEOKDa+WHAhq/UjNA=="
 ---
 

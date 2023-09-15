@@ -9,8 +9,8 @@ ampWebUrl: "https://www.moneycontrol.com/news/business/isro-in-space-ties-up-wit
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/isro-in-space-ties-up-with-aws-to-give-space-startups-a-cloud-boost-11361371.html/amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: moneycontrol.com
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon's cloud computing AWS teams up with ISRO and IN-SPACe to support aerospace startups"
+    excerpt: "This will enable startups to commercialise them faster. ISRO, INSPACe and AWS will also collaborate on a new initiative to train students and educators in cloud computing, artificial intelligence, machine learning, analytics, and security. This will help ..."
+    publishedDateTime: 2023-09-15T04:21:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/amazons-cloud-computing-aws-teams-up-with-isro-and-inspace-to-support-aerospace-startups-nid-225396-cid-19.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 29
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/Zx3bvadg.jpg"
+        width: 570
+        height: 367
+        isCached: true
   - title: "AWS inks pact with ISRO, IN-SPACe to support spacetech innovations through cloud computing"
     excerpt: "The three organisation also aim to collaborate on a new initiative to train students and educators in cloud computing, artificial intelligence, machine learning, analytics, and security, by leveraging AWS education programs."
     publishedDateTime: 2023-09-13T11:58:00Z

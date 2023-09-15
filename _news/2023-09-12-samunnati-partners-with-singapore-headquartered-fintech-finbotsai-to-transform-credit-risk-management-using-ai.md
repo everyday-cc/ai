@@ -52,20 +52,6 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 39
-  - title: "Singapore's first autonomous car model race crowns winners | Video"
-    excerpt: "The Winners of Singapore's first autonomous car model race have been crowned. The DeepRacer League is powered by coding and organisers hope such competitions will get those less digitally savvy to pick up tech skills."
-    publishedDateTime: 2023-09-10T15:38:00Z
-    webUrl: "https://www.channelnewsasia.com/watch/singapores-first-autonomous-car-model-race-crowns-winners-video-3760181"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 24
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--wkF5tIFo--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/09/10/capture_3.png?itok=QKRTpsS5"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Samunnati partners with Singapore-headquartered fintech finbots.ai to transform credit risk management using AI"
     excerpt: "X, will enable Samunnati to build high quality credit risk scorecards faster, accelerating growth of Agri & SME lending business & driving financial inclusion. SINGAPORE, Sept. 14, 2023 /PRNewswire/ -- Samunnati,"
     publishedDateTime: 2023-09-14T01:00:00Z

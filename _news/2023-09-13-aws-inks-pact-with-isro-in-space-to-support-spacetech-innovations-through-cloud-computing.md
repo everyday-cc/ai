@@ -35,6 +35,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Amazon's cloud computing AWS teams up with ISRO and IN-SPACe to support aerospace startups"
+    excerpt: "This will enable startups to commercialise them faster. ISRO, INSPACe and AWS will also collaborate on a new initiative to train students and educators in cloud computing, artificial intelligence, machine learning, analytics, and security. This will help ..."
+    publishedDateTime: 2023-09-15T04:21:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/amazons-cloud-computing-aws-teams-up-with-isro-and-inspace-to-support-aerospace-startups-nid-225396-cid-19.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 29
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/Zx3bvadg.jpg"
+        width: 570
+        height: 367
+        isCached: true
 
 secured: "re6StCktdStXeXoqgdWUW2Unkzs5vEjAeDM9Q/8ZiwNnYcXOIacMBl2E8TBEwG4Orz91xe5ywHjA0cNfLv5S8LCKdE4Z5xIySqcslvrFYik3cu+GV+tl4/31x0Ee0LhYTQMVH0zV01GPR/BFFpUb5Qi+ZoQWj54udRhf4XrF79f7krB62dL3wOB3qVOQ9ZTRVJrkRWV+2x8JftC/3MwCtObBDpO9eVWiV5i2vKSkk7/V5eHEcWdfZ4AvHS4ceTwXAmulvEa4nc27/H6JSe4xBIPd9liXfPDI2b2Qo0/O1V0f7QoN6LgSnIFoHbi3x7C+FBPlzFGRZaw2VtyFHw596H8taVrk7aATf7kNJFgbntY=;x4i7Bi7gIkfdCkK+htsCfQ=="
 ---

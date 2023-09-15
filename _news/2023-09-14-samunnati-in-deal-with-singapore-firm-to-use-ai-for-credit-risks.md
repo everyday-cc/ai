@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Singapore's first autonomous car model race crowns winners | Video"
-    excerpt: "The Winners of Singapore's first autonomous car model race have been crowned. The DeepRacer League is powered by coding and organisers hope such competitions will get those less digitally savvy to pick up tech skills."
-    publishedDateTime: 2023-09-10T15:38:00Z
-    webUrl: "https://www.channelnewsasia.com/watch/singapores-first-autonomous-car-model-race-crowns-winners-video-3760181"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 24
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--wkF5tIFo--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/09/10/capture_3.png?itok=QKRTpsS5"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Samunnati Partners with Singapore-headquartered Fintech finbots.ai to Transform Credit Risk Management Using AI"
     excerpt: "Samunnati, India’s largest agri enterprises, today announced signing an agreement with Singapore-headquartered B2B SaaS FinTech finbotsAI, to transform credit risk management using AI. With this, Samunnati becomes the first Agri Enterprise in India to incorporate advanced AI-based solutions into a key pillar of its business,"
     publishedDateTime: 2023-09-12T07:08:00Z

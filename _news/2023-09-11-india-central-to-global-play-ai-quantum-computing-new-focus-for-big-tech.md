@@ -9,8 +9,8 @@ ampWebUrl: "https://www.financialexpress.com/life/technology-india-central-to-gl
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-india-central-to-global-play-ai-quantum-computing-new-focus-for-big-tech-3238807/lite/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: The Financial Express
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why India Needs sectoral Regulatory Sandboxes for Artificial Intelligence based solutions"
-    excerpt: "Regulatory Sandboxes refer to a controlled experiment under which certain emerging business models or technologies or initiatives can be tested, without attracting the full gamut of regulatory compliances."
-    publishedDateTime: 2023-09-10T16:39:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/niveditas-musings-on-tech-policy/why-india-needs-sectoral-regulatory-sandboxes-for-artificial-intelligence-based-solutions/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/niveditas-musings-on-tech-policy/why-india-needs-sectoral-regulatory-sandboxes-for-artificial-intelligence-based-solutions/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/niveditas-musings-on-tech-policy/why-india-needs-sectoral-regulatory-sandboxes-for-artificial-intelligence-based-solutions/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 50
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/11/NiveditaKrishna_073021_0003.jpeg"
-        width: 320
-        height: 213
-        isCached: true
   - title: "State of play: Artificial intelligence in the supply chain"
     excerpt: "Venture capital investors are increasingly putting their money on artificial intelligence in supply chains. Why it matters: AI has often been seen as a means to drive efficiency, and no other industry is riper for this tech than the supply chain,"
     publishedDateTime: 2023-09-12T14:29:00Z
