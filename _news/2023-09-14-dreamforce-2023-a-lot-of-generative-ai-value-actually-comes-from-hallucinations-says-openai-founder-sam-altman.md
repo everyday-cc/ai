@@ -35,15 +35,6 @@ related:
         width: 672
         height: 538
         isCached: true
-  - title: "Dreamforce 2023 - Salesforce gives $2 million to education non-profits to ensure underserved communities don’t miss out on gen AI benefits"
-    excerpt: "Dreamforce 2023 - Salesforce gives $2 million to education non-profits to ensure underserved communities don’t miss out on gen AI benefits Salesforce has selected six non-profits that will share a $2 million fund to develop equitable and trusted generative AI systems in the education sector."
-    publishedDateTime: 2023-09-13T12:02:00Z
-    webUrl: "https://diginomica.com/dreamforce-2023-salesforce-gives-2-million-education-non-profits-ensure-underserved-communities"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 2
 
 secured: "HJlyeXh5Wbj1tV4rsYq4e360p5tOF4UVUjaENV+kNYK6VBXXHlt/LZYBW6pnFn2+tinajO2DRUYRk57l4uCcK4PRPeRV8veUZtNP31aoRsO7DzyLCfB4+7BT3nOdho91MHwPnZEZhshdd12g/ev+aZKSdzlYG8fEu0TuP7f/nlR1phice8kuqBMZOWaw5U93mHWGH4LP+g8IcfyWpKpkmHztvGwH9k9auMshZQd96OgRC4dGh4X8D+VT2RFUIL72sPf9peib2tXMJZBL4kusP9RiJDGi4D79hQ+eTrSsD+ztPHUsnWcEQFd2esXe58b6etA6DAt0+Ee+nLl6shBmnZRhwJ5EkLevJwnJ9q9+chZgfJk9EShl8NAZGFxwkJVhTpPKi6mW2qorZwAQZKeUvS3TTiuY1ruGS9NgIZWVz73fnKguBDi9EKgKP/vcfN3gc3lO7RiqYlx4ewg149+0b90/gI+IAmB+I8Oc55VtKlMBIwFqohAUZaBOs6+if4YCFTzgaTcBbj69eXIWyS4tZA==;xmdHpzJCCNTKqgRj8d05VQ=="
 ---

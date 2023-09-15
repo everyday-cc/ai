@@ -205,18 +205,18 @@ related:
         height: 250
         isCached: true
   - title: "Swoop Launches Predictive AI Adherence Targeting"
-    excerpt: "First-of-its-kind targeting predicts which patients will become non-adherent in the next 30 daysNew offering leverages Swoop’s best-in-class machine learning and artificial intelligenceNEW YORK--(BUSINESS WIRE)--Swoop,"
-    publishedDateTime: 2023-09-12T15:01:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2023-09-12/swoop-launches-predictive-ai-adherence-targeting"
+    excerpt: "Swoop, the leading provider of custom direct-to-consumer (DTC) and healthcare provider (HCP) audiences for the pharmaceutical and life sciences industry, today announced the launch of Predictive AI Adherence Targeting."
+    publishedDateTime: 2023-09-12T12:02:00Z
+    webUrl: "https://www.bakersfield.com/ap/news/swoop-launches-predictive-ai-adherence-targeting/article_100b10d2-9ec0-551f-99d4-54e0c15f12d0.html"
     type: article
     provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
+      name: The Bakersfield Californian
+      domain: bakersfield.com
     quality: 39
     images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
+      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
   - title: "How does Stable Audio generate AI music and sound effects"
     excerpt: "A new AI sound generator has been released in the form of Stable Audio capable of rendering 95 secs of stereo audio at a 44.1 kHz in seconds"
@@ -292,6 +292,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "zTZOvqPporjuhB9OI654y3LNj4/cmd9eBwVDALKYKsbjPBX1nd/0z44kLoKzqVTLzPXh8WAeuqVPLoKKoXzpC07Q82AwDdapooeJynPTJIeZIrozWuE5E7gYFkEVw0VjWiknYg8FZB/7D2jq7RsB14SriGtMJLp7oAd/zBBKL6j5JlD/PgbE0JZKxbVhL8y7BjdyGexrJvEuSnVMFv5oCqLK7k7QeQELyYvlz0xVe1OZirvOf1PPmhCRr0vK48RpPVdS4c7mCoPU7WjC5FwSY6xTE8uSzMruZrbomUNAMNHmItSYvUvQ9qb2uBRAdkhTwQg+oLBXboAZt+VlE0I7X/zoDczp9iii6uw1muRJPug=;u2q6KwNnjHwiBo/W8DIVSg=="
+secured: "y+lP6pbk83GHlnVAj2i10XIoq7/+WCsZRix1lagTKy88EtIENB9hgrCP9g5cRIUSPp7qV+4Hlt3WI+4jj07JEs4XJDGndSpZJzMnBGqXoEHlIFU09w4F7vfN3QpmLwJ7MHZjLyREGv9sE1ZfTBrn+ve7Uf3CtrDKiELvIhhdDabRf5ujfINztZHSy2vgNM6+y3pdhZrmk00/CNwUz2Btt8KvzZYbrRfDsQCx0PRLpAh87FBYhCeCc9kG33LhtLIKKmKUOysyHtihbWy+DXyqIAPpgQTIBJqG2v3CC1EHxrD149JpC5/XUw8AcXK+6as4f6mf+9pToHhow968yWHXVA4lwyA/wpLKlCgfQopDeNzHVuJjksh66OMS4bHSDmWDnfYN84nRp1yZkwHsVz8u2tZmr5OGyPKZ5L7x8T3JC+eckLiutNG9oYY/1AxEPzcxrQnK2M7b5pHAZ85TOCcDJyKpDtTLxAaQEcVW97aMOvu2vD/jAJ4/V9Gxg896fKJFdWWeWYAadtK2sH/yRmQmJw==;1Qwdnzx/KoEsFoDYwPx9jw=="
 ---
 

@@ -50,20 +50,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
-  - title: "Tech Titans Meet Lawmakers On Ai Regulation"
-    excerpt: "Top executives from some of the world's largest tech and web companies have reportedly concluded a closed-door meeting with U.S. lawmakers in Washin"
-    publishedDateTime: 2023-09-14T08:33:00Z
-    webUrl: "https://menafn.com/1107066047/Tech-Titans-Meet-Lawmakers-On-Ai-Regulation"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2023-09/14/C_11f78image_story.jpeg"
-        width: 678
-        height: 452
-        isCached: true
   - title: "Tech industry leaders endorse regulating artificial intelligence at rare summit in Washington"
     excerpt: "The nation's biggest technology executives on Wednesday loosely endorsed the idea of government regulations for artificial intelligence at an unusual closed-door meeting in the U.S. Senate. But there is little consensus on what regulation would look like,"
     publishedDateTime: 2023-09-14T00:53:00Z

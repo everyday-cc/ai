@@ -119,15 +119,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Musk, Zuckerberg, Gates: The titans of tech will talk AI at private Capitol summit"
-    excerpt: "This week will feature a series of public hearings on artificial intelligence. But all eyes will be on the closed-door gathering convened by Senate Majority Leader Chuck Schumer."
-    publishedDateTime: 2023-09-11T12:34:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/musk-zuckerberg-gates-ai-congress-meeting-testify-rcna103922"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 41
   - title: "Tech leaders including Musk, Zuckerberg call for government action on AI"
     excerpt: "Meta CEO Mark Zuckerberg, OpenAI CEO Sam Altman, and Microsoft co-founder Bill Gates offered diverging views on the risks of open-source AI research, according to people in the room."
     publishedDateTime: 2023-09-14T00:13:00Z

@@ -2,25 +2,19 @@
 category: news
 title: "With AI, future of hearing aids might include language translation"
 excerpt: "Sawalich says, \"If somebody falls, it'll text up to three people.\" They can also translate foreign languages. These AI hearing aids recalibrate up to 80 million times an hour, allowing them to ..."
-publishedDateTime: 2023-09-05T19:24:00Z
-originalUrl: "https://www.eastoregonian.com/news/nation_world/with-ai-future-of-hearing-aids-might-include-language-translation/video_8674e48f-acc4-5a75-922b-21dd581c200d.html"
-webUrl: "https://www.eastoregonian.com/news/nation_world/with-ai-future-of-hearing-aids-might-include-language-translation/video_8674e48f-acc4-5a75-922b-21dd581c200d.html"
+publishedDateTime: 2023-09-06T04:32:00Z
+originalUrl: "https://www.guampdn.com/news/national/with-ai-future-of-hearing-aids-might-include-language-translation/video_0471ba7b-8f06-505f-b6d0-fe970b47c741.html"
+webUrl: "https://www.guampdn.com/news/national/with-ai-future-of-hearing-aids-might-include-language-translation/video_0471ba7b-8f06-505f-b6d0-fe970b47c741.html"
 type: article
 
 provider:
-  name: East Oregonian
-  domain: eastoregonian.com
+  name: Pacific Daily News
+  domain: guampdn.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/eastoregonian.com/content/tncms/assets/v3/editorial/8/67/8674e48f-acc4-5a75-922b-21dd581c200d/64f77e5bd775a.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "Z3Ru0sRn6cD8d3xzqLMOiuPnrpcS6YKXqMjauvxE5oP5dsIeT3RiM4dqWP4oCoZPG3fCY1mzazXpmJhBrx9L8Yz/6yhd/Tgxla8s1w24PK8va1tguBwpJcehyQeIQ2npJtQ0LQoMFkNjGGBl+5Bz4e7oezWPgN6LG0drDBAlvrk7U/MWHCfahO4B02QOLlKRu17Q3Vk2k8G6gtsq9oNLonrwqlk0GhZSXIcvwkhjstr+ktUpB758sh1rFRI/44wfbJUbQ/h5vL2HO+KWCPpoIMdQGvB3R5ObgBj8352CjgxU43cs3O9u9kTCBfcvynXRA15c94vej+srU/oqWNw3nMWL1Ieh4ADRPmpjFui0P0Q=;O8ejT/4ALQT8igRmqh3v4A=="
+secured: "aKiiFD7bfmoJkanp23YBRhw2wZYuu8o3m2YmTUxqXdV7bHq/9ZARAgY4+83iQ6oQCU9NQhqJQt3/Gj8trrEaKG4zQ6HTX4emJrElAQlZ20p6Ji6ABL6aG5B2eW5/paqWlwa2O5hPQpq3KSbbjAXphKS380Qq6Stw3LIV4DH8PWCCh9xPVJGzHQ1oHEXBp25KsoRr2tCETHA1O0yKLTq8h1sMMrJy0jcHPD/GkxOWWeLin4BQZLDbWV2SLxc1JNtPBpNYX3gbus8kh0pHGnqEr4VEx9M2c8RkKR+NOxedki/of/U3INIosYwkbHlkORY4sZQsbwRNEylzdtpfMlXWtNO0qObEw04I985hT/kS/l4=;PDOCgbWtlUbGBjVIpFD15w=="
 ---
 

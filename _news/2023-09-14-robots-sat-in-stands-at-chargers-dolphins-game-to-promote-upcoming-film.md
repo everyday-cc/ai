@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wftv.com/news/trending/robots-sat-stands-chargers-dolphi
 cdnAmpWebUrl: "https://www-wftv-com.cdn.ampproject.org/c/s/www.wftv.com/news/trending/robots-sat-stands-chargers-dolphins-game-promote-upcoming-film/PNU5USRW5VATRJIOGHYIO3JZNE/?outputType=amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: WFTV
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fans startled seeing AI robots at the Los Angeles Chargers-Miami Dolphins game"
+    excerpt: "The robots were seen on the sideline, walking inside the concourse and while others sat in seats throughout the stadium."
+    publishedDateTime: 2023-09-14T23:30:00Z
+    webUrl: "https://www.oregonlive.com/sports/2023/09/fans-startled-seeing-ai-robots-at-the-los-angeles-chargers-miami-dolphins-game.html"
+    ampWebUrl: "https://www.oregonlive.com/sports/2023/09/fans-startled-seeing-ai-robots-at-the-los-angeles-chargers-miami-dolphins-game.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/sports/2023/09/fans-startled-seeing-ai-robots-at-the-los-angeles-chargers-miami-dolphins-game.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 70
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KW563FWD65CH7E4PHD2HNAPE4Y.png"
+        width: 1940
+        height: 1195
+        isCached: true
   - title: "AI robots from The Creator spotted at Chargers game"
     excerpt: "As part of a promotional stunt for new sci-fi drama The Creator, AI robots were spotted at an LA Chargers game."
     publishedDateTime: 2023-09-12T10:33:00Z
@@ -40,6 +56,20 @@ related:
       - url: "https://editors.dexerto.com/wp-content/uploads/2023/09/12/the-creator-robot-ai.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Video: AI robots with ‘human’ faces seen at NFL game"
+    excerpt: "AI robots were featured during the NFL's week one matchup between the Los Angeles Chargers and the Miami Dolphins at SoFi Stadium."
+    publishedDateTime: 2023-09-13T16:42:00Z
+    webUrl: "https://americanmilitarynews.com/2023/09/video-ai-robots-with-human-faces-seen-at-nfl-game/"
+    type: article
+    provider:
+      name: American Military News
+      domain: americanmilitarynews.com
+    quality: 54
+    images:
+      - url: "https://americanmilitarynews.com/wp-content/uploads/Screenshot-2023-09-13-at-12.38.17-PM.png"
+        width: 1920
+        height: 812
         isCached: true
   - title: "AI robots went to Dolphins-Chargers game and freaked out everyone"
     excerpt: "That’s right, among the fans sitting at SoFi Stadium on Sunday to take in the Miami Dolphins game against the Los Angeles Chargers were a bunch of AI robots ... we needed to start 2023 ..."

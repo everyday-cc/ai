@@ -196,8 +196,8 @@ related:
     quality: 30
   - title: "Microsoft and Oracle Expand Partnership to Deliver Oracle Database Services on Oracle Cloud Infrastructure in Microsoft Azure"
     excerpt: "AUSTIN, Texas and REDMOND, Wash., Sept. 14, 2023 /PRNewswire/ -- Oracle Corp and Microsoft Corp today announced Oracle Database@Azure, which gives customers direct access to Oracle database services running on Oracle Cloud Infrastructure (OCI) and deployed in Microsoft Azure datacenters."
-    publishedDateTime: 2023-09-14T21:23:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-microsoft-oracle-expand-partnership-deliver-oracle-database-services-/2023/09/14/9881646.htm"
+    publishedDateTime: 2023-09-14T20:09:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/09/14/9881646.htm"
     type: article
     provider:
       name: TMCnet
@@ -209,6 +209,6 @@ related:
         height: 300
         isCached: true
 
-secured: "fH/bHtC1WQS/Aow7Wv7A6E33Yq8/SnCQ3CxjJh0eT+shlaMoHx5PzQ//zyRpNw/Z68337lRhKGNGVxN9cHXmXQFj687lOD2midpN0pz32Zp0uF86jgL4aAiMb13DeUO3oPEkZxZzYV9dubzlK182nN9qLQ6Vjcu6rYHF34vDltodFqidwvi6UQqeUMe0s8jD/2wXet2RK7Ec/3+j71Xvg5kFnyJmK8L/SFlbPX+wxGCV6tAgXGpC1ADPd2qKIO9Yw8+iW0om52zOitf5wCVXWHmC4R22UVA+wPOuZQyXeuIE11Ejz5snLzsmrVPHFdAsucM/QlMLqU9bzAvJNXU1CdDWDLKkR9uk/MDH6JfDY3Y=;0By/YyZV7p077/MAJfLHZg=="
+secured: "vC/5nNP3zZrHb19dihNdyBXKTovWVS/lZWjYxwyRsbZENleijQVGPLM+R+rQt1sphJHPoPkEBpVLC+MmopP+kp7ldORtY2albfTztQXDsAaJE3KcsE7yEa8aJEnGNIXNFEdThKFXNYIDHmxDxQebTfZ4seyvPsLk9OZG6tJDffEgUeYZV+CwdLIcChsWt5Ja0PUCUBsEeAFS6wCXzSDwxWkg96R9srd+MpAau3oUaXe55IPMHZugMYQXSdE5ZNZk1hIH6I4SKc/vnxwksI1DvAYQ0A3DF1zlWA8DA7kE4Ul4hJ39+qPj9UVdY6keGT/EFI5RIcmvotOf/Tu/Km5SvU5RwTqXHJT2rbUWZWrkaGCL9NvWGQNf6ADPcKg3N1wPXaiPRO+31gLpkAvx8YDj3LZ+L2ULK/lI9wH+Tg6H2bZl3934niAYVIQUKzSuhhG6/GSJQBz/mrN9C5q3dvQdFhkNk/7VLnWAQQ3HVVTNdPYaY9smpnTTCndNB8vtcAltfOQfHWXRibwgjdfNnvW8Gg==;HNW0UjMP1N+8KmWYkk7HCA=="
 ---
 

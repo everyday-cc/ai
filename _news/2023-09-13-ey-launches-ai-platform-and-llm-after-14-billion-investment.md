@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/ey-launches-ai-platform-and-llm-after-1
 webUrl: "https://venturebeat.com/ai/ey-launches-ai-platform-and-llm-after-1-4-billion-investment/"
 type: article
 quality: 69
-heat: 109
+heat: 110
 published: true
 
 provider:

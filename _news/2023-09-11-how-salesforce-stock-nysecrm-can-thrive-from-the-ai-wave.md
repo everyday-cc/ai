@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/how-salesforce-sto
 webUrl: "https://markets.businessinsider.com/news/stocks/how-salesforce-stock-nyse-crm-can-thrive-from-the-ai-wave-1032620810"
 type: article
 quality: 101
-heat: 201
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Salesforce readies AI assistant for CRM"
+    excerpt: "Einstein AI tools due in a fall pilot include the conversational assistant built into every Salesforce app and a studio for building AI-powered apps with custom prompts, skills, and AI models."
+    publishedDateTime: 2023-09-14T19:49:00Z
+    webUrl: "https://www.infoworld.com/article/3706988/salesforce-readies-ai-assistant-for-crm.html"
+    ampWebUrl: "https://www.infoworld.com/article/3706988/salesforce-readies-ai-assistant-for-crm.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706988/salesforce-readies-ai-assistant-for-crm.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 119
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/12/01/17/salesforce-sign-100935102-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Salesforce CEO says Slack will play a prominent role in AI"
     excerpt: "Benioff said Slack is not only a system of engagement, but a system of record, so the program itself can start managing data. Benioff also discussed the next iteration of Salesforce's Einstein, an AI program with capabilities aimed at assisting companies ..."
     publishedDateTime: 2023-09-12T23:55:00Z
@@ -140,6 +156,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 44
+  - title: "Salesforce and AWS Deepen Generative AI Partnership with Harmonized Customer Profile Offerings"
+    excerpt: "Salesforce and Amazon Web Services (AWS) today announced an expanded partnership for new Bring Your Own Lake (BYOL) and Bring Your Own"
+    publishedDateTime: 2023-09-12T17:44:00Z
+    webUrl: "https://www.datanami.com/this-just-in/salesforce-and-aws-deepen-generative-ai-partnership-with-harmonized-customer-profile-offerings/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 42
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/09/aws-salesforce-300x236.png"
+        width: 300
+        height: 236
+        isCached: true
   - title: "Benioff attacks other Gen AI vendors at Salesforce Dreamforce 2023"
     excerpt: "Salesforce chief executive and co-founder Marc Benioff used his keynote address at the company's Dreamforce 2023 to make bold attacks on other generative AI (GenAI) vendors, accusing them of not taking trust and hallucinations as seriously as his company."
     publishedDateTime: 2023-09-13T19:22:00Z
@@ -154,6 +184,15 @@ related:
         width: 611
         height: 458
         isCached: true
+  - title: "Salesforce Launches Next Generation of Einstein, Bringing a Conversational AI Assistant to Every CRM Application and Customer Experience"
+    excerpt: "NYSE:CRM) Salesforce Launches Next Generation of Einstein, Bringing a Conversational AI Assistant to Every CRM Application and Customer Experience"
+    publishedDateTime: 2023-09-12T13:44:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2023/09/12/salesforce-launches-next-generation-of-einstein-bringing-a-conversational-ai"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 18
   - title: "Salesforce to bring AI assistant to all of its applications with Einstein Copilot"
     excerpt: "Using the Model Builder, Einstein Copilot can support a “bring your own model” sort of integration with LLMs from Anthropic, Cohere Inc., Databricks Inc., Google LLC’s Vertex AI, Amazon Web Services Inc.’s SageMaker and others. “If you’re a ..."
     publishedDateTime: 2023-09-12T12:22:00Z
@@ -163,6 +202,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 14
+  - title: "Dreamforce 2023 - Salesforce gives $2 million to education non-profits to ensure underserved communities don’t miss out on gen AI benefits"
+    excerpt: "Dreamforce 2023 - Salesforce gives $2 million to education non-profits to ensure underserved communities don’t miss out on gen AI benefits Salesforce has selected six non-profits that will share a $2 million fund to develop equitable and trusted generative AI systems in the education sector."
+    publishedDateTime: 2023-09-13T12:02:00Z
+    webUrl: "https://diginomica.com/dreamforce-2023-salesforce-gives-2-million-education-non-profits-ensure-underserved-communities"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 2
 
 secured: "KEyI5wSG709WFtjVhBfEBeGi9VyhGzq4AQSuo3fwRZeVA5pPqMgyxrMo5h6oERT8J5KRh3uYslz+kjNlF7TI8z8ANC7o441X3RrzLDDQvriDjpqODxW1cczswnuoCzAXcSQxLD5KJpUOJZrL7qXgXU9WDgNmg0Jp0ll6QFq1OIef9lO9XtNW0Yk8tq1BG5Z17T3heWhlQPjdeGb2uGNXN/dDQu2CFtcLfFEf0QqB4Hgjt6GLaAVBH0CPLq/SrX+/ieo+qsLX7Q9W8VRFs0uHkJ3400W/wlQeK4tVkZ8l26n8aM0lqHcAjIwKP+yYvWMKezbn3M5+S4UXsEthefHr46CglzbXVZmUfDpp5pEaZ7c=;D/1tgbD4gFLE8yPiJI4Sqg=="
 ---

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Salesforce readies AI assistant for CRM"
+    excerpt: "Einstein AI tools due in a fall pilot include the conversational assistant built into every Salesforce app and a studio for building AI-powered apps with custom prompts, skills, and AI models."
+    publishedDateTime: 2023-09-14T19:49:00Z
+    webUrl: "https://www.infoworld.com/article/3706988/salesforce-readies-ai-assistant-for-crm.html"
+    ampWebUrl: "https://www.infoworld.com/article/3706988/salesforce-readies-ai-assistant-for-crm.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706988/salesforce-readies-ai-assistant-for-crm.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 119
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/12/01/17/salesforce-sign-100935102-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How Salesforce Stock (NYSE:CRM) Can Thrive from the AI Wave"
     excerpt: "Salesforce (NYSE:CRM) seems to be doubling down to gain a better position in the AI race. That much was clear after the company’s latest"
     publishedDateTime: 2023-09-11T15:34:00Z
@@ -149,6 +165,29 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 44
+  - title: "Salesforce and AWS Deepen Generative AI Partnership with Harmonized Customer Profile Offerings"
+    excerpt: "Salesforce and Amazon Web Services (AWS) today announced an expanded partnership for new Bring Your Own Lake (BYOL) and Bring Your Own"
+    publishedDateTime: 2023-09-12T17:44:00Z
+    webUrl: "https://www.datanami.com/this-just-in/salesforce-and-aws-deepen-generative-ai-partnership-with-harmonized-customer-profile-offerings/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 42
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/09/aws-salesforce-300x236.png"
+        width: 300
+        height: 236
+        isCached: true
+  - title: "Salesforce Launches Next Generation of Einstein, Bringing a Conversational AI Assistant to Every CRM Application and Customer Experience"
+    excerpt: "NYSE:CRM) Salesforce Launches Next Generation of Einstein, Bringing a Conversational AI Assistant to Every CRM Application and Customer Experience"
+    publishedDateTime: 2023-09-12T13:44:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2023/09/12/salesforce-launches-next-generation-of-einstein-bringing-a-conversational-ai"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 18
   - title: "Salesforce to bring AI assistant to all of its applications with Einstein Copilot"
     excerpt: "Using the Model Builder, Einstein Copilot can support a “bring your own model” sort of integration with LLMs from Anthropic, Cohere Inc., Databricks Inc., Google LLC’s Vertex AI, Amazon Web Services Inc.’s SageMaker and others. “If you’re a ..."
     publishedDateTime: 2023-09-12T12:22:00Z
@@ -158,6 +197,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 14
+  - title: "Dreamforce 2023 - Salesforce gives $2 million to education non-profits to ensure underserved communities don’t miss out on gen AI benefits"
+    excerpt: "Dreamforce 2023 - Salesforce gives $2 million to education non-profits to ensure underserved communities don’t miss out on gen AI benefits Salesforce has selected six non-profits that will share a $2 million fund to develop equitable and trusted generative AI systems in the education sector."
+    publishedDateTime: 2023-09-13T12:02:00Z
+    webUrl: "https://diginomica.com/dreamforce-2023-salesforce-gives-2-million-education-non-profits-ensure-underserved-communities"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 2
 
 secured: "8XMVN69viD35VFU5cw0VAaJ4V4zdAua7r2eqiNLZs1S3RfYTTzfB+hRQ/XqIJ3uDJ1jYl8miloIPJeIYOuy5TaD/e5fgmjI/ilTxtiOKQQ6Ym7NltbN1VikGAnJafkvSYGRD1WXj9T4RDpKgUoRPS4C/CTgIjPZ1uUUt7wEQiUNvXGMLJ3yBmQxZewS4Q4IySP4YoLryVwcax3JL02bsmPLRmaVF46vxtP+Qw7EBuOW2EstRNMOL/6vLPG6RHFaaPianQjhvr+g62H+kqejsdbqv7C6TehjnUa8OFuwcu9euEpXg6iDHCi8nudA5oM76vH14VFt4as2OeYIYYlPZeqlWkSdOPuNoKS3rsoYonSINMHQBf9F7S/IRyS6bvDYzl/7ryOe3tAqPG5j/V8ojC2st2Se+a5W2SWX1vwiVKdSlq5JwgerQ/sTAlqgi7StQeNg9X6E3luP1cGXWPj6O+8k0KEMOTnYyI4aYEhNrHy7usk3Iz78A3i5RnO0qBxIrZ0p6zpdOIAfMoo7d0RLDuQ==;opH6X54Whkv2OvA2w4NqsA=="
 ---

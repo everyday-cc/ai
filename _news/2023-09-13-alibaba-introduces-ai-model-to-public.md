@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/tech/ai/alibaba-introduces-ai-model-to-public-
 webUrl: "https://www.wsj.com/tech/ai/alibaba-introduces-ai-model-to-public-bd120c33"
 type: article
 quality: 67
-heat: 80
+heat: 77
 published: true
 
 provider:

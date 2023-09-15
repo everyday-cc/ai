@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/arm-to-raise-4-7b-in-ipo-that-values-ch
 webUrl: "https://venturebeat.com/ai/arm-to-raise-4-7b-in-ipo-that-values-chip-designer-at-54-5-billion/"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:

@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Salesforce readies AI assistant for CRM"
+    excerpt: "Einstein AI tools due in a fall pilot include the conversational assistant built into every Salesforce app and a studio for building AI-powered apps with custom prompts, skills, and AI models."
+    publishedDateTime: 2023-09-14T19:49:00Z
+    webUrl: "https://www.infoworld.com/article/3706988/salesforce-readies-ai-assistant-for-crm.html"
+    ampWebUrl: "https://www.infoworld.com/article/3706988/salesforce-readies-ai-assistant-for-crm.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706988/salesforce-readies-ai-assistant-for-crm.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 119
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/12/01/17/salesforce-sign-100935102-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How Salesforce Stock (NYSE:CRM) Can Thrive from the AI Wave"
     excerpt: "Salesforce (NYSE:CRM) seems to be doubling down to gain a better position in the AI race. That much was clear after the company’s latest"
     publishedDateTime: 2023-09-11T15:34:00Z
@@ -143,6 +159,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 44
+  - title: "Salesforce and AWS Deepen Generative AI Partnership with Harmonized Customer Profile Offerings"
+    excerpt: "Salesforce and Amazon Web Services (AWS) today announced an expanded partnership for new Bring Your Own Lake (BYOL) and Bring Your Own"
+    publishedDateTime: 2023-09-12T17:44:00Z
+    webUrl: "https://www.datanami.com/this-just-in/salesforce-and-aws-deepen-generative-ai-partnership-with-harmonized-customer-profile-offerings/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 42
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/09/aws-salesforce-300x236.png"
+        width: 300
+        height: 236
+        isCached: true
   - title: "Benioff attacks other Gen AI vendors at Salesforce Dreamforce 2023"
     excerpt: "Salesforce chief executive and co-founder Marc Benioff used his keynote address at the company's Dreamforce 2023 to make bold attacks on other generative AI (GenAI) vendors, accusing them of not taking trust and hallucinations as seriously as his company."
     publishedDateTime: 2023-09-13T19:22:00Z
@@ -157,6 +187,24 @@ related:
         width: 611
         height: 458
         isCached: true
+  - title: "Salesforce Launches Next Generation of Einstein, Bringing a Conversational AI Assistant to Every CRM Application and Customer Experience"
+    excerpt: "NYSE:CRM) Salesforce Launches Next Generation of Einstein, Bringing a Conversational AI Assistant to Every CRM Application and Customer Experience"
+    publishedDateTime: 2023-09-12T13:44:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2023/09/12/salesforce-launches-next-generation-of-einstein-bringing-a-conversational-ai"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 18
+  - title: "Dreamforce 2023 - Salesforce gives $2 million to education non-profits to ensure underserved communities don’t miss out on gen AI benefits"
+    excerpt: "Dreamforce 2023 - Salesforce gives $2 million to education non-profits to ensure underserved communities don’t miss out on gen AI benefits Salesforce has selected six non-profits that will share a $2 million fund to develop equitable and trusted generative AI systems in the education sector."
+    publishedDateTime: 2023-09-13T12:02:00Z
+    webUrl: "https://diginomica.com/dreamforce-2023-salesforce-gives-2-million-education-non-profits-ensure-underserved-communities"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 2
 
 secured: "Di/4oFZ7wYgQrMynX0pP3vr0EbhzQ51Jn7HaxjM+5xczS+O6roGLpav4joYikD2/T5pTsffo2IpKT3/BDOuAw+1tcnD0vr0lYOdcBXUCB9WMuVMgTs1JvacDhI3IzaPclM6ff5EeqZmHt4e0KCOwtXTRIJdi6vXsM0E8a3oJJOmfqnaoWWpaJGPBtx0RbW2NpGbH+/PaJI07o+Y7jjAThL7D7c+GHMqgaP35iWkLU4SOA7thEotl93lfwYwOTP6t/Har3gIAPDGTz/mvfo3xclRdmhVpdXLn6lVSzZANeXeezlMsI96oUYkgIEeSRoJUcnIyn7Lf6CFdX3yrM1/pTX1WjppE1yShDYEbBq9SZDqFgaJmKYa/2NH+yl/JXvTRuxylNpqTuVanfbrCsHc35dr7KLZxjeGTkyruqnO2dGSEZddQjZ50A+UuVzBDyzPqw3h6YlzqZQ3M1vGbyLQOfULRz2ctoVvyEGSHFchzD/vmKgpGHo/4YCmpdvMmcvZF3PMIcVekjfTPREBylvTOFA==;7n+C+utOvv6csiYLqOdpaQ=="
 ---

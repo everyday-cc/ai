@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/09/13/better-ai-stock-nvidia-v
 webUrl: "https://www.fool.com/investing/2023/09/13/better-ai-stock-nvidia-vs-c3-ai/"
 type: article
 quality: 82
-heat: 103
+heat: 102
 published: true
 
 provider:

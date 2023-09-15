@@ -26,6 +26,22 @@ images:
     height: 1043
     isCached: true
 
+related:
+  - title: "Epic Bio Reports Discovery Of Exceptionally Durable Gene Activators And Creation Of Machine Learning Algorithm To Design New Activators"
+    excerpt: "Vast high-throughput screening study used to train unique machine learning algorithm to design synthetic activators -<br /> - Rational e"
+    publishedDateTime: 2023-09-14T23:52:00Z
+    webUrl: "https://menafn.com/1107070151/Epic-Bio-Reports-Discovery-Of-Exceptionally-Durable-Gene-Activators-And-Creation-Of-Machine-Learning-Algorithm-To-Design-New-Activators"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 7
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?146660"
+        width: 375
+        height: 249
+        isCached: true
+
 secured: "43DABea1SxTkEaVMQnm1HzCrECzyBfNQHBJayRQqh9pwSDhmjecqLiISFW2SitJ/HCTXN83L3VDwn62/4ZvMdeR1O03Xg7DDhZTOsGUsJeDTtw+MfaVwr00h6MIRHOl1kFt/Otz3cAjZakkazchK+JYPxFWL+KjHkcoIyfYkIhqsUxfXnbzlKXovwLFsZRUSTCAOIDDbIbWgSGEXxYwOG0TB6om3E+Sc2ufaHz5EQI+fetyuQ09bhB6fl/WVK7voE9X8Rkq+0Pm4z08UZA6ex/omz3JqLRi1/Bi2jvFDgdTa0EOxCJsgfZyK4fWB0YArLYX7m2frtBAiXAcjvu6lcA5jw7HT4bhCEakgYhRGAMA=;q1wh0MOwBZNqoyMXWQHkag=="
 ---
 

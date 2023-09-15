@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Swoop Launches Predictive AI Adherence Targeting"
-excerpt: "First-of-its-kind targeting predicts which patients will become non-adherent in the next 30 daysNew offering leverages Swoop’s best-in-class machine learning and artificial intelligenceNEW YORK--(BUSINESS WIRE)--Swoop,"
-publishedDateTime: 2023-09-12T15:01:00Z
-originalUrl: "https://www.pharmiweb.com/press-release/2023-09-12/swoop-launches-predictive-ai-adherence-targeting"
-webUrl: "https://www.pharmiweb.com/press-release/2023-09-12/swoop-launches-predictive-ai-adherence-targeting"
+excerpt: "Swoop, the leading provider of custom direct-to-consumer (DTC) and healthcare provider (HCP) audiences for the pharmaceutical and life sciences industry, today announced the launch of Predictive AI Adherence Targeting."
+publishedDateTime: 2023-09-12T12:02:00Z
+originalUrl: "https://www.bakersfield.com/ap/news/swoop-launches-predictive-ai-adherence-targeting/article_100b10d2-9ec0-551f-99d4-54e0c15f12d0.html"
+webUrl: "https://www.bakersfield.com/ap/news/swoop-launches-predictive-ai-adherence-targeting/article_100b10d2-9ec0-551f-99d4-54e0c15f12d0.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: PharmiWeb
-  domain: pharmiweb.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-    width: 1200
-    height: 448
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -292,6 +292,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "sb7qe2SCfSthLKCQeZFa6kACrKeD5Z9lyGedt7o04Ez8atmZm+BRb3oJ7JFZ6FBs4xoWg7dnEVCSmghlPcfR5NyMpKk/6hmnj9dVoVJd9EbbW0NtPlhS5zMyyUPkRUK12Ti7k0Jg9nlYGfo986iR7SZ0b4m+aXpZuLk3njj6DNf1vWW6ncEHK5HfThH55CmusFxWSL7oh7wexgi8lxenOYO9wxA2nr24dJbB2EuUtOgdqXlMgshVoMDnl+9h1HnBZS2Wz6X+Jlhq2NDk61aYGzxQHBK9sxQCaWdsMUeN+z1VLxw4mHH/a6AG3HLjAQFLtOWDiT/GBQqmBMABhQ7BUdW4mPwfIuDrqdfSZS25v/g=;sEvM8a8JikE5A1GQnPxQpQ=="
+secured: "LXl0q1HCT2aCpH9Kmcqg6LyjjrXDV13j9gmKyKoooO3O0ko7Q75K3muO6p4qo+cQdIUZuRFvsWDA/wyyNrHEJZp1peXaNQxUGDboYTOUeOFSAA7yypvAu18KZV+ld9S/euWG0Dpuny9BHm8A93BT0yBh1K5yG5xtUr446Y/Jxf1MqXc4fJOVZN/F+LekIZjg43dIbp4xlPzCLjcRnvthbrYsUglhrfvklzIQRbdXEMjabIX5TjUiAvXo5Lgr5sOANVtiNG/Ww/1MqTBe9/A3B7WyfyWxtDC/wIQDMxUKLdxCoEIRjVmS38UrdjsrlllJXlA6PKcc4xZuOAq3p25W2xfv6z9sInUTbrYOc+Es57w=;JNQBSf85jNUgYWN+wZz9ag=="
 ---
 

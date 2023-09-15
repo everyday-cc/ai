@@ -24,6 +24,19 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Ex-Shrewsbury police officer creates facial recognition software to help victims of abuse"
+    excerpt: "The software is called Overwatch. The project started as a tool for sexual assault and domestic violence victims."
+    publishedDateTime: 2023-09-14T22:17:00Z
+    webUrl: "https://newjersey.news12.com/ex-shrewsbury-police-officer-creates-facial-recognition-software-to-help-victims-of-abuse"
+    ampWebUrl: "https://newjersey.news12.com/amp/ex-shrewsbury-police-officer-creates-facial-recognition-software-to-help-victims-of-abuse"
+    cdnAmpWebUrl: "https://newjersey-news12-com.cdn.ampproject.org/c/s/newjersey.news12.com/amp/ex-shrewsbury-police-officer-creates-facial-recognition-software-to-help-victims-of-abuse"
+    type: article
+    provider:
+      name: News 12 Networks
+      domain: news12.com
+    quality: 30
+
 secured: "2bGDzKR91WNES7Z5wgiR+Co+RiMu4Swrru2L2JAOzU0jy9ddI3BWh3tb/P1KNhEESuj1cZQOxlMKHk3pg+lQyOuWy46VIpzLnY+9kSAFUf74pkFG2a9JKq+Yu1igX0orpJSzh619TuYK4PaajLmdndxcOMiWqAqdaM3XbVOzOrvZI3LloyoZT8WWXp1tAL+WEGJnU0NMXa/AYK+C8distIuKml+usGXiz8GcMwklGBNcrxXikroGM/dWMwh07nmyLQlOC6KT6AwVRGcduY/qMLzwowa9djGG8sWfyMOZZZziBKVGIBna7HWY9KlKdP3nrkH5tyx85DbPv51ionN26ah95O/CCaATg1m5IChbL3o=;yT+5EUbmtPQgYrfSlWUVGw=="
 ---
 

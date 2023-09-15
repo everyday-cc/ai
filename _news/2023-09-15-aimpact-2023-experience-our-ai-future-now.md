@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/34592715"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34592715"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     height: 1043
     isCached: true
 
-secured: "z+ew/wDe4afEfSdAJmj0p24+zD+4aCWmI0N8ubSG6wPE9SLq0Tvbx5H0e0xosTG1t1GDle5vx0ltKSs3Y78uOzEw6GFwX30UhCGL0hVRnTaW/vCFmzq/yd681fKw1dldmsN+IKTVIkkany5cOaYq/j0wcd4e99VPHmGaK4ZOph73gw0TtrN3EXaUSa6qNCwGvpMbGdKGO+2nzM2bevgUHryhnsZac/DB/zo9hdwZBcvVaF+smnFqspGusszB8IIgc1d3DvFQ/MQ/Oz7FQ3mkquFiw4JaKvOgzpbgENFqD5ru0E+4aLm+HERlgd+okro7/+pEDN40VcPa/6K4ehFk0ys0uH8kUS5qX8qfoGK4nQg=;kDLLKhm/Il/Kl6wgmd57pw=="
+related:
+  - title: "How will AI really impact your job in the future?"
+    excerpt: "\"AI will be at the core of everyone's job,\" said Dan Diasio, a global artificial intelligence consulting leader with EY."
+    publishedDateTime: 2023-09-14T20:41:00Z
+    webUrl: "https://technical.ly/professional-development/ai-job-future-impact-ey-dan-diasio/"
+    type: article
+    provider:
+      name: Technical
+      domain: technical.ly
+    quality: 39
+    images:
+      - url: "https://technical.ly/wp-content/uploads/2023/09/1rzo9eL5F9cwQ5IzA9rj-4-0w1dg.jpg"
+        width: 1024
+        height: 778
+        isCached: true
+
+secured: "AR3acCMmZaZU7otJa81XTzUg+nuu/jPk4oB+ID2tvetKEPxezpuwpb90vxNz88A8yvxsR4CCjy+2uxpruswNlO1p7bfCmZc9GMIvcWAYjeAXeiTZ7nQC7Kw+/xFtQ9K54vRILQcLT3J7kiFGmcvJEiFFPFVVklxodQxhWSYRNiUnK9kuRgos8VXlD5+gWzKNYlADJkUY95znRVhEw+VICB8IUpp6dc+KjhRUphfXtoPwZAki4+TarA+SDwsJBDQiwtqiLGir2UGlaBGY0PzYSOJqFLXOtnihs9RfCfIhHxsBludzPGOV89Eq0z7rlPLMJUq/M5oiKlU2eFl9efKV77VKToDr6x7inp8hP92H6SaciAhTf5l3aVwdvjnt6/67DKe4elJrwvYIGejMR7QsDKGzSYgowqo3ZgJIqL/adQxVdWpebNqP8MHXye4Cc+u9gpMzM5RCNKZRFbv8ZdEDHNf+4fKbeqtLsICQvmFzpo2nV8bKGI6HbujsBTv1xDRaHMl5ENfZQofaLFHdT3yYJw==;Lju7nomXXt6ZQteIj27y7g=="
 ---
 

@@ -284,15 +284,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 25
-  - title: "Salesforce Launches Next Generation of Einstein, Bringing a Conversational AI Assistant to Every CRM Application and Customer Experience"
-    excerpt: "NYSE:CRM) Salesforce Launches Next Generation of Einstein, Bringing a Conversational AI Assistant to Every CRM Application and Customer Experience"
-    publishedDateTime: 2023-09-12T13:44:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2023/09/12/salesforce-launches-next-generation-of-einstein-bringing-a-conversational-ai"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 18
   - title: "Adobe generative AI tool Firefly is now generally available"
     excerpt: "The new generative AI image creation and editing tool has been trained on stock images and content in the public domain."
     publishedDateTime: 2023-09-13T09:59:00Z
@@ -339,6 +330,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "1jiK5WuAK4X1PWaq7Fx0RPSZeTSa9lt4ZlS+WnZuJbCAgiHfe8zUk2QQUzdiKRYIfFO8Zu9ci7bsCIPp5uIVrT7U7moUYbrJofiRWNLkP8zyRCl4+sKWy7iIkj/H1xcwE55KeM0pkiPYKHysR+WMUTcDhc3q6fmacksg4bVIbVJs77Lv4cVPWtPKOwF9pa/J7/Nq/db8m+hPu5gy7oESXsvhfNNScxTVDI85M8nh/S6QwiUW7QmxF1aqC0duXPsQnB1977ytXnGpjEG5giXhxJut7s22YAVmZwa5r71Kk5EgEdMAT0RTR0XeutIQbEs8+Ai2hrhR9eb1eke/TQIOmzH83PJxDldtUJmLxrN/vmY=;Qs2AJlgW3b/kGkYB3m7P1w=="
+secured: "BKvAxfjZ09jQLxpuPBqi2GEH4HjlLNFSfhOgDrUe3gYSb8KGX+ZNRjWHYywyZHH/f5ynFhgDPrs2K1yNgIa9DTUs0pFYEnHxikz3SSnZQqNzQbw/szsSExjnT0d4w6NOgkzsTOM/B4v3zw6DG9Uox5tH8T/QOtOfEs3HPrw+/ukLYsTnzlbdNFOPt5K4oH9EFC7yCMdUeJAxaVa9GV82BpW/zn3azYeMbHOAd9q/Jc73q7r/RwQe9/+xLZW3KmP9jDlHlzpJhglNrPVciyLcyZeRKQqpBSik/tVNsHhkqZDk9aq74ShvekqIIk2pildH4T0qqRBZspuDHH003kuaRNIMWN/Bg+xXiATt8l+0tCdAivpEYOaPABMW7DwB+QjO1ToOF/BOF/R7wx8s++mQ2uoVAWTWtpKeoZHqo1n/uE5KmCqlqSNyv1esq3Z1a1H41S2N8aeADAHmfFAh5wHhQ161ZDW8R1SUqrgQsPmFmGzc7iciop66tAM1DsYtsotz6nBrGoucBen76TYFACmpOQ==;DfLHboecV4zWq4ESd3xIvw=="
 ---
 

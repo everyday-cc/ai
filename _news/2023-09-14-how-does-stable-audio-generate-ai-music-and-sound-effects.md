@@ -205,18 +205,18 @@ related:
         height: 250
         isCached: true
   - title: "Swoop Launches Predictive AI Adherence Targeting"
-    excerpt: "First-of-its-kind targeting predicts which patients will become non-adherent in the next 30 daysNew offering leverages Swoop’s best-in-class machine learning and artificial intelligenceNEW YORK--(BUSINESS WIRE)--Swoop,"
-    publishedDateTime: 2023-09-12T15:01:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2023-09-12/swoop-launches-predictive-ai-adherence-targeting"
+    excerpt: "Swoop, the leading provider of custom direct-to-consumer (DTC) and healthcare provider (HCP) audiences for the pharmaceutical and life sciences industry, today announced the launch of Predictive AI Adherence Targeting."
+    publishedDateTime: 2023-09-12T12:02:00Z
+    webUrl: "https://www.bakersfield.com/ap/news/swoop-launches-predictive-ai-adherence-targeting/article_100b10d2-9ec0-551f-99d4-54e0c15f12d0.html"
     type: article
     provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
+      name: The Bakersfield Californian
+      domain: bakersfield.com
     quality: 39
     images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
+      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
   - title: "How artificial intelligence could scrap humanity’s ability to lie"
     excerpt: "“Lying tends to have a high negative effect: you feel a lot of guilt, shame or anxiety that you might get caught. And those negative affective words also pop out into your speech when you lie,” Hyde said."

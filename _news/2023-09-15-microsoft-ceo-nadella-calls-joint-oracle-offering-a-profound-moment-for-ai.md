@@ -39,7 +39,35 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Oracle to colocate in Azure data centers under expanded Microsoft partnership"
+    excerpt: "Oracle Corp. and Microsoft Corp. are expanding their four-year-old cloud relationship with a deal that will colocate Oracle’s Exadata database-optimized server and Real Application Clusters in Microsoft Azure data centers."
+    publishedDateTime: 2023-09-14T22:07:00Z
+    webUrl: "https://siliconangle.com/2023/09/14/oracle-colocate-azure-data-centers-expanded-microsoft-partnership/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 51
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Nadella-Ellison.jpg"
+        width: 1576
+        height: 837
+        isCached: true
+  - title: "Microsoft and Oracle Partner on New 'Oracle Database at Azure' Service Offering"
+    excerpt: "Microsoft and Oracle on Thursday announced 'Oracle Database@Azure,' a new collaborative infrastructure-as-a-service effort that lets Oracle database customers more easily tap Azure services."
+    publishedDateTime: 2023-09-14T23:34:00Z
+    webUrl: "https://redmondmag.com/articles/2023/09/14/oracle-database-at-azure.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 50
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/NadellaEllison.gif"
+        width: 647
+        height: 450
+        isCached: true
 
-secured: "kBBRrJcbww4CCOszCqgO3N2SMyoN+/etx9VN+MwAZHkc9e7yb7jKPSy67xJBgTjWgeCILU5y18srGtyFYiuyLkl7wV0+MbvnD0aUE6QP8DJHudS3MtawMQGwF0b382BR9fJa9mPIdJJ3v3o94ZtR7UAlNNfD7AdMuBvGNwvcX/N17baVxJg7nRontLF6JUILygQHknw8x+yFFsXA8dhNWHZ+fPo9x3b0j16smup3DHxFbrUqQU3Fb9MOR5kG+hIRYSXAqztmfzT0CxV/sOAw5dema3c6FYR6/M0lfEn0oyhrxSHvVgG19hK91QT9UoCj20jSWzW2HYMXtZh8MumWjFSpHPq2Av2JoaMaEkHIwpg=;yiBSnu0RPD43XYCp7bBf5Q=="
+secured: "Wh3WK42vcGKrWwmhuPfL6GCkwmzRP7EXjb15Ug+c6cJEij9+vN0PornMNOlINGHEM+sjlzT3q5bhuZS/MFLwz8NM7u8gozbyL1Z5A3J4Yj+aSULK1T/TKwTvrvADYyZXmwKVxbEqMqTzLxb3g6prvWlfnkYXxQQb4VroJvfqsX5pYIlhz0hyADmVH3HO6/dYBh8jgEHy/2DdwEyRFSuAdHDwsJsmJ7lv0D7AUA40xCektELjNl7wwguNyKo6PpsyASGQOSCN37Vuetxd0Z4UaAdDDp0nG6/AexHov/fPrSFIlAyPVu3lK/bqmSqd2175kbOWG9YeTk2ZF2DNC0dpV2CwhmTcrqYmJyXMxcfftfS9eY2I9vY0TELb0nzbt79opuLCj1cY28i8aHu/0IIEUVTGO86U97Zg/hPmXTWkqLlPeMVMsIDNriqQ7NetRjKte8AlHKq79ugVIBLrCmImrVMyCio5P5iJjp3sRBj0xJ/G2s6XMd37QdJom/ojjxIJD+kAcedY/ihRN923y3+EBw==;tQRAO1s+jRwxWkjS6q8z5Q=="
 ---
 

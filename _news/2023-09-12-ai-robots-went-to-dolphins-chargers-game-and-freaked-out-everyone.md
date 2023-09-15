@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Fans startled seeing AI robots at the Los Angeles Chargers-Miami Dolphins game"
+    excerpt: "The robots were seen on the sideline, walking inside the concourse and while others sat in seats throughout the stadium."
+    publishedDateTime: 2023-09-14T23:30:00Z
+    webUrl: "https://www.oregonlive.com/sports/2023/09/fans-startled-seeing-ai-robots-at-the-los-angeles-chargers-miami-dolphins-game.html"
+    ampWebUrl: "https://www.oregonlive.com/sports/2023/09/fans-startled-seeing-ai-robots-at-the-los-angeles-chargers-miami-dolphins-game.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/sports/2023/09/fans-startled-seeing-ai-robots-at-the-los-angeles-chargers-miami-dolphins-game.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 70
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KW563FWD65CH7E4PHD2HNAPE4Y.png"
+        width: 1940
+        height: 1195
+        isCached: true
   - title: "Robots sat in stands at Chargers-Dolphins game to promote upcoming film"
     excerpt: "The robots were placed in the stadium among fans to help promote a new sci-fi film from 20th Century Studios called “The Creator,” according to KTLA. The film will be heading to theaters on Sept. 29. “The Creator” is about a war between humans and an AI force that according to USA Today, is threatening to end humanity."
     publishedDateTime: 2023-09-13T18:18:00Z
@@ -48,6 +64,20 @@ related:
       - url: "https://editors.dexerto.com/wp-content/uploads/2023/09/12/the-creator-robot-ai.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Video: AI robots with ‘human’ faces seen at NFL game"
+    excerpt: "AI robots were featured during the NFL's week one matchup between the Los Angeles Chargers and the Miami Dolphins at SoFi Stadium."
+    publishedDateTime: 2023-09-13T16:42:00Z
+    webUrl: "https://americanmilitarynews.com/2023/09/video-ai-robots-with-human-faces-seen-at-nfl-game/"
+    type: article
+    provider:
+      name: American Military News
+      domain: americanmilitarynews.com
+    quality: 54
+    images:
+      - url: "https://americanmilitarynews.com/wp-content/uploads/Screenshot-2023-09-13-at-12.38.17-PM.png"
+        width: 1920
+        height: 812
         isCached: true
 
 secured: "PRuRzPSxo0JMWi+BNWJ0h9H+FilNVnQZe3OjSY7140+bjZJ+9VMFXSlAM4Ln0FbXBWUlugX97dzKXHuwRslCUqJdjTT0mcy7gorfA500uTMcxgrosSxbILj0m6tBlowTEsW7S1megk/ChTruRBQXieo6h8Ab5+sOYNiCeEJQR8baYc8x9VxUyYfgPOJNn6xFZUajKoNweOBgJHyFInXGD/a6w7EFbcb5aPlzRPeW8OnDJxGI7qvBbVxW61Vr4y9kKDa1l6D+lH/u3RHLTjScM5LikseCgMFWD+Mu8xPx84Nyr1Ki6kjl6OLiEm5ti5j91i3CLLNDLEjNw3VUqPq0LWq1dOOCQpaPmArbqRCjUhw=;T+TcqE7mU99sUyT5DP8TsQ=="
