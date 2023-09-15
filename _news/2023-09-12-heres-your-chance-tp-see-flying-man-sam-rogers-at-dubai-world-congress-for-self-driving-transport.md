@@ -43,22 +43,6 @@ related:
         width: 714
         height: 520
         isCached: true
-  - title: "The Inverse Turing Test: Navigating An AI-Created Complexity"
-    excerpt: "The Turing Test, a concept introduced by Alan Turing in 1950, has been a foundation concept for evaluating a machine's ability to exhibit human-like intelligence. But as we edge closer to the singularity—the point where artificial intelligence surpasses human intelligence—a new,"
-    publishedDateTime: 2023-09-10T20:52:00Z
-    webUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202309/the-inverse-turing-test-navigating-an-ai-created-complexity"
-    ampWebUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202309/the-inverse-turing-test-navigating-an-ai-created-complexity?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-digital-self/202309/the-inverse-turing-test-navigating-an-ai-created-complexity?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2023-09/DripBrain.jpg?itok=u06OTnjt"
-        width: 320
-        height: 219
-        isCached: true
   - title: "Grab this chance to see ‘Flying Man’ Sam Rogers at Dubai World Congress for Self-Driving Transport"
     excerpt: "Latest autonomous vehicles, robots to go on show from September 26 to 27 at DWTC Dubai: The opening keynote at the upcoming Dubai World Congress for Self-Driving Transport will be delivered by Sam \"Flying Man\" Rogers, famous for taking off in his jet suit."
     publishedDateTime: 2023-09-12T06:02:00Z

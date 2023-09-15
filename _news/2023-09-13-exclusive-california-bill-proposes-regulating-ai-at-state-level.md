@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6313588/california-ai-regulation-bill/"
 webUrl: "https://time.com/6313588/california-ai-regulation-bill/"
 type: article
 quality: 67
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -104,6 +104,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Exclusive: From back office to patient diagnostics, AI comes to health care"
+    excerpt: "Artificial intelligence has existed for years, but hospital systems and health care providers are just now getting in on the tech."
+    publishedDateTime: 2023-09-15T11:40:00Z
+    webUrl: "https://www.bizjournals.com/southflorida/news/2023/09/15/ai-in-health-care.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "2nJYZH1s4kiGY0lydGtiSShhxgADjCvf7kHkQ+Hdqj1kCFbRhgcSruM+f+4ZeRS4qlcCZjFl35q/YYiM2+yzlcZFwwb+wTFOfnox67oUoTWSPy5/7xKtugYs5mdBpPFUpfGx5y6JBfAVeAyR9LyQf2+e4ZEIMIrY/PBUIBg1s65vkOwjuqtrsgYU4gQ7TuXZVgp/r1Z9FhWFC5g3K8mFdYdwaoisMpfkAEkcSJtRESJAZqQ9sD8vvuAM3UpJVJgEOxbF5PRH8hoIz1oxngWAW4+5k32J+6fdemk5IAzJzVHtR/40jzeRwTecaXXRHvBvkGoXYl54tAwTyWqJlxRN87tBI5517I3Tj3Tc40PMKXcCxBTTZDzrcjqStbk0HDUuyM2ddBWiDL/p3h+WCsO5oVZEt3SgW9PEx8zEqZqGhlG+BfJCbVNuryRkZVgRNlVqx8lJ16p3tqXZR1QcajNTwdDCjC/4MR2T1eKFJ0gfkfDhuU1U7f/ZC+FZ23lcFayAmxeBXze9E00BE9PoERq8+A==;IrplU90keSyQrFSRHBbkcA=="
 ---

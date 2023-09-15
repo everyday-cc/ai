@@ -9,7 +9,7 @@ ampWebUrl: "https://www.aljazeera.com/amp/economy/2023/9/13/corporate-australia-
 cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2023/9/13/corporate-australia-backed-a-voice-on-indigenous-rights-it-now-faces-defeat"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/69081abf77a67b19cd6d3e0d678c8017139bdc52/0_304_4554_2732/master/4554.jpg?width=620&quality=85&auto=format&fit=max&s=a40d80af7771d04731bde722b09a4510"
         width: 620
         height: 372
-        isCached: true
-  - title: "Q&A: Australia’s Referendum on an Aboriginal and Torres Strait Islander Voice"
-    excerpt: "The Aboriginal and Torres Strait Islander people Voice will be a body representing Aboriginal and Torres Strait Islander people that will give advice to the Australian Parliament and government on issues that affect them."
-    publishedDateTime: 2023-09-10T22:00:00Z
-    webUrl: "https://www.hrw.org/news/2023/09/11/qa-australias-referendum-aboriginal-and-torres-strait-islander-voice"
-    type: article
-    provider:
-      name: Human Rights Watch
-      domain: hrw.org
-    quality: 36
-    images:
-      - url: "https://www.hrw.org/sites/default/files/styles/square/public/media_2023/09/202309asia_australia_uluru_statement_0.JPG?h=1017c59c&itok=s-bwSLuO"
-        width: 374
-        height: 374
         isCached: true
   - title: "Asking Australia for an Indigenous voice isn’t new – it’s been a long and difficult struggle"
     excerpt: "Without knowledge of this history we believe it’s impossible for voters to understand where the campaign for Indigenous recognition and the voice has come from. We believe that empathy can only be built on knowledge and understanding. In the words of ..."

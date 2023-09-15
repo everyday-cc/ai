@@ -71,15 +71,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Deep Instinct takes a prevention-first approach to stopping ransomware and other malware using deep learning"
-    excerpt: "Many thanks to the great folks at Deep Instinct, who have sponsored my writing for the past week. If you’re interested in sponsoring my site for a week, and reaching an IT-savvy audience that"
-    publishedDateTime: 2023-09-10T20:35:00Z
-    webUrl: "https://grahamcluley.com/sponsor-deep-instinct/"
-    type: article
-    provider:
-      name: Graham Cluley
-      domain: grahamcluley.com
-    quality: 0
 
 secured: "P4ktKSNrWwtSc/wiDP5cH86cHH7l2vpDz2RmsfAkJCcCz5mLjOqCqCK8CfvHMqc5zRUaHIpYcrMLiT6HwvW/lnJbFlzTH3SWI6nSb5P49uwOgtsidCEq+xoqegNZuVc70Df8bbHxWLGlKBkcXL7jTe4f9t0gfDB6ed85V5BKKe2Vy4QPWXy7t1PbEYrT9jeAPj7GEB59OpFS338kbOCNjZWPL0zccUpTYzBxcYaSfV3xXDpT/Do3puCE2/I78iVImRDXnHRRKlmNWFXiuChdmC3MEHm70SOAldTqrGx/dsDMPfaqhD637fW8uLu3XeEo79cUtg+0w0I1fQ7IXdnOL5SzA3P+7pS/JgU2UkhlG+4ahlBcPk7Nj0mDlsaa1PFyxue01FsMQUqcJeFsZ1X0xY850/CcLc5HlUyKSpWl+AW7CHneZiwwzA8YZMCMmx5fmXiq+b9C7+rpQRo9hy8nH+anGvXgLb3jR4xlRpwMkP9+2CNFPGsO0fj+uxqymx9sY7DhCjXofHTQAJRzGsZsEg==;kzAFh2fZJ0qMjxnwfF1p/Q=="
 ---

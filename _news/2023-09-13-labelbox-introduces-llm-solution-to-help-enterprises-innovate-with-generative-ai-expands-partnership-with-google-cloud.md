@@ -79,6 +79,20 @@ related:
         width: 309
         height: 250
         isCached: true
+  - title: "Biscuit brand Parle collaborates with IBM to drive digital transformation using cloud and AI"
+    excerpt: "Advt In the latest phase of the engagement, IBM Consulting is also collaborating with Microsoft to implement the Azure Databricks Lakehouse, AI engine for Auto Replenishment and SAP Ariba solutions at Parle. By helping Parle better leverage Azure platform ..."
+    publishedDateTime: 2023-09-12T10:52:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/biscuit-brand-parle-collaborates-with-ibm-to-drive-digital-transformation-using-cloud-and-ai/103606372"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 28
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-103606372,imgsize-167464,width-1200,height=765,overlay-etcio/artificial-intelligence/biscuit-brand-parle-collaborates-with-ibm-to-drive-digital-transformation-using-cloud-and-ai.jpg"
+        width: 1200
+        height: 765
+        isCached: true
 
 secured: "m7kewGAjNL8aGV0aM/wfHpVVpLE3v1ZEeqh0If4WM67m4zYx6ew2Jigqh19rOETYEBt6vMmC7UAP5syyDWGpwzsI84KTFGwyOukCf7WwbtShageQsyC+ZjO540qRmQwKkqvTNQP/wGejpm4rIlAXCmIsj5T4mKrzdRwk0fCoFGoWeQGZyqcfFpZcj6JUEYD/TfWnkW6zO0XamZSvZuQyE5xrdU0F0EE6QR/IbDOm3GIO6bSsmzD+GCXpLSF47cvWiRn889tiY0Spk3FFllCFa7BbiwqK6g3P0DAaN+Or6pVd8QlJawqeHWaecqFNq+chbTRjUOp2luQWKZzE0yAMyAm0Dy2xxg4rd4N9CKtL2eagmSGNAG/0uW4VOGv0CfpMximjg4WLmnXv/IoYp2Z00BHIOeNd6D/UUXCSbSQvS8OtK+IXNYS23KHaYdE+EXkUM2qVwE2zGUYj0jTUVIDI2/c5h4diri3CKXZWKm2PTOFud5jGgfNWT3q8u5ppJTRDRqpoJ4USMWxKrGA3u5XOUA==;Y8NNDlugG+0vXzq/46x9gQ=="
 ---

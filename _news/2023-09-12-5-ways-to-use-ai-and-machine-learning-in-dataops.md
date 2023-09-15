@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3706090/5-ways-to-use-ai-and-machi
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706090/5-ways-to-use-ai-and-machine-learning-in-dataops.amp.html"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How Modern Data Engineering Brings AI, Machine Learning and Data Science to Life"
+    excerpt: "Don’t underestimate the value of artificial intelligence (AI), machine learning (ML) and data science. What once used to be figments of the imagination (like facial recognition, smartphones and driverless cars) are now reality. How did we get here?"
+    publishedDateTime: 2023-09-15T15:42:00Z
+    webUrl: "https://www.dbta.com/DBTA-Downloads/WhitePapers/How-Modern-Data-Engineering-Brings-AI-Machine-Learning-and-Data-Science-to-Life-13035.aspx"
+    type: article
+    provider:
+      name: dbta
+      domain: dbta.com
+    quality: 31
 
 secured: "QrSLrF/RF3mwrYiC0HYEZ/5yi2E7c8Y0EMD4dhmnHdo7k32wT4Ign9CQ5W9TkGWdbg7mpKCzxnQR/DAaGO8789u715EEw/OUHbbY5NyQ0le0nzA1R+AREUGba6Aif1n3p++rGYiHDPukmW20mVFQW9s1dc4eCTgJBx4TQuxHS+eEf6xd02HlGk56c97jSTs35LQVn0KOVIgOd9ABHPOQDdG5QJXlUQnCXxUuok+l36Dnk6As8z2pfqtIPKg/PN6ZhapDjeQJRqAFkEAmetMAivps/BMxQRCgCmOnNtHXSH8OG7tcpyOQAlC2o9t5sLuq4vwHttL72C3pnTd6S3yG6j1VIyJuPcR0w0mjov8g7pU=;d/y6izKQ+Cto4G+F9Tca5Q=="
 ---

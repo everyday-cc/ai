@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/sundar-pichai-google-ai-microsoft-open
 webUrl: "https://www.wired.com/story/sundar-pichai-google-ai-microsoft-openai/"
 type: article
 quality: 62
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       - url: "https://www.crn.com/resources/0285-18fade511d62-cde56fcfc2d3-1000/nadella_ellison.png"
         width: 600
         height: 314
+        isCached: true
+  - title: "Meta is building AI model to rival OpenAI's most powerful system"
+    excerpt: "Related: Nvidia drops new AI chip expected to cut development costs The sources ... Microsoft is a primary backer of OpenAI and also collaborated with Meta to help make Llama 2 available on Azure, its cloud-computing platform. However, the sources said ..."
+    publishedDateTime: 2023-09-11T08:50:00Z
+    webUrl: "https://cointelegraph.com/news/meta-building-ai-model-rivals-open-ai"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 41
+    images:
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDkvOTE3ZjliNGYtMDE1NC00MjlkLWE0YjUtZGRhNmY0NTgxMzA3LmpwZw==.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "OpenAI CEO Sam Altman Discusses Ethics & Global Scale Of Changes AI Brings"
     excerpt: "Altman questions whose morality defines AI safety and importance of making GPT-4 available, even if used in ways he disagrees with"

@@ -42,6 +42,20 @@ related:
         width: 600
         height: 314
         isCached: true
+  - title: "Meta is building AI model to rival OpenAI's most powerful system"
+    excerpt: "Related: Nvidia drops new AI chip expected to cut development costs The sources ... Microsoft is a primary backer of OpenAI and also collaborated with Meta to help make Llama 2 available on Azure, its cloud-computing platform. However, the sources said ..."
+    publishedDateTime: 2023-09-11T08:50:00Z
+    webUrl: "https://cointelegraph.com/news/meta-building-ai-model-rivals-open-ai"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 41
+    images:
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDkvOTE3ZjliNGYtMDE1NC00MjlkLWE0YjUtZGRhNmY0NTgxMzA3LmpwZw==.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "3+Y9qm1WOs8JNkxqwwsXuMGRKzAVdcCmdMKaAWtKq9F2rtvtLW6L91r4eaSm70jST5/s8/kOSpOeS2bI5N9rH5sqY9aKGdNYVkxO+0jnwk1K1Hm2OcbBo2mIiBF7mBCFUH2WiIaXqxW3M4cxUT1b9S8oQ6Ocr7VFIBEYQmmkrtdY/FPBdei2efBkYIBn6a7k5OnGkP1XWz/zs1ihbN8mf38iiH+pO5CM/FcqR06fMnMtX/Mf+JjfAUrpKq3w3Y/LYrWJ8udZ2Fy3Jsf4KFv/xHInrwy0lH0u+3PsMrinUHIo/MyK3xXyEhjibF98I3CkZ9YQ94NrBbOee8PQAYUbgQJYTMUzqJrB4O2KGKd43hklDQ08AKmI0Aj1fgFbDDzjxn5E5FidP7YFDojOtWYwC4RC+ylmcbRU7N/upf95mwk7Nob+vbZv8M1srKQxMFt2ZJKSAP1OwxpiovGZXnAXGa1bVfasQl2ezH4cI7ac+jYmFwWDkeAg/V4sgJendD5MFrlUoUyyBgINvofTkVHDGw==;T+pvNGyDiqyECz0aazQ3vA=="
 ---

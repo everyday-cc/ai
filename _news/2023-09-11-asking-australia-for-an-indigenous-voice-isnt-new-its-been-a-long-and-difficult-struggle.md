@@ -63,20 +63,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Q&A: Australia’s Referendum on an Aboriginal and Torres Strait Islander Voice"
-    excerpt: "The Aboriginal and Torres Strait Islander people Voice will be a body representing Aboriginal and Torres Strait Islander people that will give advice to the Australian Parliament and government on issues that affect them."
-    publishedDateTime: 2023-09-10T22:00:00Z
-    webUrl: "https://www.hrw.org/news/2023/09/11/qa-australias-referendum-aboriginal-and-torres-strait-islander-voice"
-    type: article
-    provider:
-      name: Human Rights Watch
-      domain: hrw.org
-    quality: 36
-    images:
-      - url: "https://www.hrw.org/sites/default/files/styles/square/public/media_2023/09/202309asia_australia_uluru_statement_0.JPG?h=1017c59c&itok=s-bwSLuO"
-        width: 374
-        height: 374
-        isCached: true
   - title: "Less 1:N facial recognition searches, data sharing proposed in Australia gov’t ID bills"
     excerpt: "The Identity Verification Services Bill 2023 would block most of the planned government uses of one-to-many facial recognition."
     publishedDateTime: 2023-09-13T20:09:00Z

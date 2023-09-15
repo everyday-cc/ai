@@ -65,22 +65,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "2023 | AI in Computer Vision Market Size, Restricted Information Analysis Forecast 2030"
-    excerpt: "\"AI in Computer Vision Market| Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest 109 Pages Report The extent and overview of the various commercial ..."
-    publishedDateTime: 2023-09-10T20:07:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/34414042/2023-ai-in-computer-vision-market-size-restricted-information-analysis-forecast-2030"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34414042"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34414042"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 66
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "AI used to target kids with disinformation"
     excerpt: "YouTube channels that use AI to make videos containing false \"scientific\" information are being recommended to children as \"educational content\"."
     publishedDateTime: 2023-09-14T05:41:00Z
@@ -178,6 +162,15 @@ related:
         width: 1200
         height: 827
         isCached: true
+  - title: "The UAW and Other Unions Must Focus More on AI and Automation in Their Negotiations"
+    excerpt: "In its negotiations with the Big 3 car companies, the United Auto Workers’ priority is maximizing pay increases for its members. The UAW and many other trade unions should be equally concerned about the impact of AI and automation on jobs and how to prepare their members for this new world."
+    publishedDateTime: 2023-09-15T12:05:00Z
+    webUrl: "https://hbr.org/2023/09/the-uaw-and-other-unions-must-focus-more-on-ai-and-automation-in-their-negotiations"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 11
 
 secured: "Owiznfz9/BAHHi/37shKqu8gAFOWJImRcMz4/War4000xqonebsurIvPBENNv19gfEzIFXeXxRhNBYUy6NYCBAyk28WskfDVR1sukQUh+DYTuuKPxkJqnmnPpMElY4vpZ9KwCbCJXP7+8P0zx3xTHRjkrOnrI2wdrTbP1D+RqN8K53p/YDUmwtNXvxVxqmZn6hwaQlGymeoAe1eM8w1vff/czdJTy/SIVZelVeIDiTYnYAWVXE6F4rsRCppZUWO1Embwn3SNDYA64mgaIwSaUJkY1c/AijNHBtnZD+nDh37qowoUJobIUvvI+wr+xu1rg1KcIV8FnsnWo0P6xsqv1KaxCDkU9EUGt+0YFu8WKSO/HIzhWj2pQnlZuYCtTqHNWjL0ZjcvLnnqiZDd6J0PIzCAeB9lxLvRhReFusp85xvHQtsLnyE7ElOAXwYSembrZXmjmQwAr64UiNMcvpOI5kTj8nrSu5t2FtEhHSBpYRtqzPW6YJmXA80S198heDvPI2Pu+7OSq8WFFHIRNqN+Ow==;OSSoQ2NNmbIKQmgXO9aU0g=="
 ---

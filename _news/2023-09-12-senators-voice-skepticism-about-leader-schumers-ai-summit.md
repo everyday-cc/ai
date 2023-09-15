@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna104615"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna104615"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -35,6 +35,15 @@ related:
       name: Axios
       domain: axios.com
     quality: 19
+  - title: "Sen. Schumer’s first AI insight forum focuses on 2024 election, federal regulators"
+    excerpt: "More than 65 senators and top tech CEOs debated openness and transparency for AI systems at the first meeting, among other key issues."
+    publishedDateTime: 2023-09-15T12:24:00Z
+    webUrl: "https://fedscoop.com/sen-schumers-first-ai-insight-forum-focuses-on-2024-election-federal-regulators/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 11
 
 secured: "CL5FOVgEYbWwvmutFeZ4saWHGONEmYH5sNS+1kmwqCnSS+3r4N3XSL4GvSi0lahc+4nE7Xb0GpVBLNeoCJAKkD/Wo+Pgy3I5g1ESRpGDVgVZLBTL2Z3KCQTthreKkFpVa592IU/w5umymj2akU2tazeJkerJoyS232rAxc0PxIP7QBu7f5f3xfihSDU34NalFEYNwGJDChr/Q4pJcvvHJjWuJwwj92/XjJimn9wuEDupXYy8bAxFI1Qt+/5dsThFEW/ZMpkMPhl3oyNIIcviRYgEF/NcARQgqfSoAJEHVTtG+qwVLI/I8oqhn6VXbjv9oS07HqAKsed5KbfWtzDURoOtjmbP3JVje7mSVelvqM49SlcFzJV5u8S8U9FoWomM1pOOcULVky6S+oleTcVDRRXqbotZIVUIbFb7rnceJSl678PNy6e42yrSVQAwYzv34MNMkP9E0N3GOsX16kcpEc9nLbhT61fHXjsWLDbgeLCtUIjjPXBu5cjdhVfX6w9TsypvL1+oEVggc4Q5lTRadA==;ZTlPfKr96abXcpxMU6KPrg=="
 ---

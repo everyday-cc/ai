@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Microsoft and Oracle Expand Partnership to Deliver Oracle Database Services on Oracle Cloud Infrastructure in Microsoft Azure"
-excerpt: "AUSTIN, Texas and REDMOND, Wash., Sept. 14, 2023 /PRNewswire/ -- Oracle Corp and Microsoft Corp today announced Oracle Database@Azure, which gives customers direct access to Oracle database services running on Oracle Cloud Infrastructure (OCI) and deployed in Microsoft Azure datacenters."
-publishedDateTime: 2023-09-14T20:09:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/09/14/9881646.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/09/14/9881646.htm"
+title: "Microsoft and Oracle expand partnership to deliver Oracle Database Services on Oracle Cloud Infrastructure in Microsoft Azure"
+excerpt: "Microsoft joins Oracle as the only other hyperscaler to offer Oracle Cloud Infrastructure Database Services to simplify cloud migration, multicloud deployment and management Austin, TX and Redmond, WA — September 14,"
+publishedDateTime: 2023-09-14T20:00:00Z
+originalUrl: "https://news.microsoft.com/2023/09/14/microsoft-and-oracle-expand-partnership-to-deliver-oracle-database-services-on-oracle-cloud-infrastructure-in-microsoft-azure/"
+webUrl: "https://news.microsoft.com/2023/09/14/microsoft-and-oracle-expand-partnership-to-deliver-oracle-database-services-on-oracle-cloud-infrastructure-in-microsoft-azure/"
 type: article
-quality: 27
+quality: 7
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/2210359/Oracle_Microsoft_Joint_Image.jpg"
-    width: 400
-    height: 300
-    isCached: true
 
 related:
   - title: "Oracle brings its database infrastructure to Microsoft Azure"
@@ -86,22 +84,6 @@ related:
       - url: "https://i.insider.com/6501fe85992da60019ebafa0?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Microsoft could use AI to make your Windows 11 desktop background exciting"
-    excerpt: "Windows Copilot is not the only AI-powered feature coming to Windows 11. According to internal documents seen by Windows Latest, Microsoft is testing at least one AI-powered feature that could revolutionize how users interact with the desktop."
-    publishedDateTime: 2023-09-10T22:48:00Z
-    webUrl: "https://www.windowslatest.com/2023/09/11/microsoft-could-use-ai-to-make-your-windows-11-desktop-background-exciting/"
-    ampWebUrl: "https://www.windowslatest.com/2023/09/11/microsoft-could-use-ai-to-make-your-windows-11-desktop-background-exciting/amp/"
-    cdnAmpWebUrl: "https://www-windowslatest-com.cdn.ampproject.org/c/s/www.windowslatest.com/2023/09/11/microsoft-could-use-ai-to-make-your-windows-11-desktop-background-exciting/amp/"
-    type: article
-    provider:
-      name: Windows Latest
-      domain: windowslatest.com
-    quality: 72
-    images:
-      - url: "https://www.windowslatest.com/wp-content/uploads/2023/09/Windows-11-AI-background-upgrade.jpg"
-        width: 1718
-        height: 892
         isCached: true
   - title: "Google AI Head On Data Privacy, GenAI Lead Vs. AWS, Microsoft"
     excerpt: "Moyer, global vice president of Google’s artificial intelligence business ... Moyer was managing director of global financial services at AWS in charge of AWS sales, technical and customer experience teams that supported some of AWS’ largest customers."
@@ -267,6 +249,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft to offer Oracle cloud database on Azure"
+    excerpt: "Oracle and Microsoft have trumpeted an expansion of their joint activity with the launch of an “Oracle Database@Azure” service. Microsoft will be the only other hyperscaler to offer OCI services."
+    publishedDateTime: 2023-09-15T10:45:00Z
+    webUrl: "https://www.computerweekly.com/news/366552212/Microsoft-to-offer-Oracle-cloud-database-on-Azure"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 54
+    images:
+      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-120923-cover-500px.jpg"
+        width: 500
+        height: 354
+        isCached: true
   - title: "Oracle to colocate in Azure data centers under expanded Microsoft partnership"
     excerpt: "Oracle Corp. and Microsoft Corp. are expanding their four-year-old cloud relationship with a deal that will colocate Oracle’s Exadata database-optimized server and Real Application Clusters in Microsoft Azure data centers."
     publishedDateTime: 2023-09-14T22:07:00Z
@@ -360,6 +356,6 @@ related:
       domain: spacenews.com
     quality: 19
 
-secured: "u3HrsleKNHE4exsJSbfq4STS4wJpuk7l7Xd9M9ZCRloqsjLgjr550hY5516lLhVwE1CUHGWvdwYih6RDg8Safan9w0Pt4zd9BnoMcWeGmIgYqNLxjHOq64LLLSDUiZf5CKiXBw1eTgMzx7NdL7c5ZcPOC7va3TfSh77GK6lItBqEORFJZLHOXghiwszLfcElpJ6XtYL7wJbhTUTOYzX4/nxVIBXPEMzTTIxrqrb2k5NcncrZjD5NXvAVUGi1CELGqd/chhnqabZfaWtUK8KYbvLVXgTfc2UsuAZwRBK3OBJXad48sba7uuR9zoF3T5m6EBRkfnnJyb3Bqi+3ed5fYDUmFeuHcjbO9i2TtXsRk4c=;Gp1tDXltOQ5WrOoWEkkjDg=="
+secured: "3Cp+Ha90qsq0v2riE61gzSZ0S7j801NeJH1JGFGIBgDSmXn+nIbzRoyXVjxU8gfqs1cIzwLiv2KWczbM6ilMwzutznY0V77a8lk+WSsJSrQ6Nl78jSd/hn+CCoyL1fbn0+tcGDbjdJvp/zQ8tBn5idDcOdilcW8xxjrbVU1zUjch55QHR+jRfewGI6dSXdeyJxqWENUNrvDd7kY2uD5ye8888NglwqO1B0Halq+Zqd3hio/4jYlRn3zAc7sk/HD1N5oxcPdpRZutHcguSR/XEwX6C3tD5YW2tY3Np3gU0SXguwaJRzEptaRYAet9glcfNg/EO2Ts9DglAcwkrf+FTHYF22t6Ibf0oJNrqMc5Fco=;fFcgH9XSWMxJcRIeKh+cFw=="
 ---
 

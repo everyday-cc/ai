@@ -101,6 +101,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Exclusive: From back office to patient diagnostics, AI comes to health care"
+    excerpt: "Artificial intelligence has existed for years, but hospital systems and health care providers are just now getting in on the tech."
+    publishedDateTime: 2023-09-15T11:40:00Z
+    webUrl: "https://www.bizjournals.com/southflorida/news/2023/09/15/ai-in-health-care.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "L/0a0U/6CBxcaeN6bigpivT8Rm3mA655HEli6T1zNaTnBKZgSnsyPufta3waXLE3j4VFK63iTphKJKaUqxmhDIYRllLa2K509LeoXT0xdp6QjTwvoWHpFFrHUCAbIyQmuy0V44/4jBPAuS+9ylyaEtX6omMjZrRywNv3MHovBM7NZYeVnMqlsbkaB04nH9uJtGgLlKESzVwhz7hett5sQM/vXqOSI9tzgoE+peaiJtfEoDHJcjBRAdPA1sgYgPa75nlbJvgPrmaCY48mMeCeB6zUG6dySiu+aX8ND/+HF+VjxpHyS+uywLQfeR5POj4iMX7KC91IOj3q4izde1pUuJE1AMHcQSRsTRgl18682KM8F7xJFWCXe5Xca2jj88tAEQyFUV1ghXzwmOZMvk1Zop5zlpdCw3fNa+tm3AIH/H/Z0A0Dwf1Z+sUNQuFW1OCu2dB0Ngcfs/X8jIqSD1lFr87cUlhjmDcmQ0ccxRtGK+CDIJ7pL6o8ofZHdoUBUBe8GDZDqL+FcYfaHPRHqKQ3TA==;N0pQJ5tt9YCTHMZRiPey0g=="
 ---

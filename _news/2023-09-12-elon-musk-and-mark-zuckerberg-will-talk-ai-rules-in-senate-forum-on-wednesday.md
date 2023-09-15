@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/elon-musk-and-mark-zuckerberg-
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/elon-musk-and-mark-zuckerberg-will-talk-ai-rules-in-senate-forum-on-wednesday-296d6ffe"
 type: article
 quality: 84
-heat: 214
+heat: 224
 published: true
 
 provider:
@@ -191,6 +191,20 @@ related:
       - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/14/815ddcc3-a196-42b6-a9d9-663d7d9fcc14/thumbnail/1200x630/de005c834abe02edca0319cf18cc9974/cbsn-fusion-tech-leaders-meet-with-senators-on-ai-regulations-thumbnail-2290233-640x360.jpg?v=b4264bc5922d2f5b2145bedc5a4d101e"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Bill Gates, Elon Musk and Mark Zuckerberg meeting in Washington to discuss future AI regulations"
+    excerpt: "Spread the loveIn a groundbreaking meeting, three of the world’s most influential tech leaders – Microsoft co-founder Bill Gates, Tesla and SpaceX CEO Elon Musk, and Facebook CEO Mark Zuckerberg – convened in Washington,"
+    publishedDateTime: 2023-09-15T14:20:00Z
+    webUrl: "https://www.thetechedvocate.org/bill-gates-elon-musk-and-mark-zuckerberg-meeting-in-washington-to-discuss-future-ai-regulations/"
+    type: article
+    provider:
+      name: thetechedvocate.org
+      domain: thetechedvocate.org
+    quality: 26
+    images:
+      - url: "https://www.thetechedvocate.org/wp-content/uploads/2019/01/T1-660x400.jpg"
+        width: 660
+        height: 400
         isCached: true
   - title: "Congress huddles with tech experts in new push for AI rules: ‘There will be regulation’"
     excerpt: "Senators are meeting with leading Big Tech executives this week as part of a new push to write rules for artificial intelligence focused on limiting danger and safeguarding innovation."

@@ -65,15 +65,6 @@ related:
         width: 895
         height: 448
         isCached: true
-  - title: "Falcon 180B foundation model from TII is now available via Amazon SageMaker JumpStart"
-    excerpt: "Today, we are excited to announce that the Falcon 180B foundation model developed by Technology Innovation Institute (TII) is available for customers through Amazon SageMaker JumpStart to deploy with one-click for running inference. With a 180-billion-parameter size and trained on a massive 3.5-trillion-token"
-    publishedDateTime: 2023-09-11T19:33:38Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/falcon-180b-foundation-model-from-tii-is-now-available-via-amazon-sagemaker-jumpstart/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 77
 
 secured: "FxysixirzZxYJ82ttMsV8e25VxQtLEWK24Vyj4iS6J1yBUG9gGUFEG81sTiA7sbRmwHkScW6o7+d1ibE3GeFguBSRzmB8kBDJlIKSta8p4ck21AbOq9C3w1a53F2UXE7gvaGAZ/fyiAFp2UBggXNCVkQkkUFFD8LPp2c2AHNxfpRyIPND/agrO7UsEJE7u+1QEmSOKush3hf3MHQB2PCSARPPqlaZv00+rEbCbtck7c75HOdz+GsUHC2GMPwNxLeVt5gFuSM6Aj6ROdb8rbofI0tVvu5ToMewsvgN/N+i/csfEwrqRgrmF3ixT4/dMSOZhDLxiLeq2wKij+petXZIiJnsLjDot8dysf1Wn0UN8w=;OYUOqruUv6gD78FlPSm2gA=="
 ---

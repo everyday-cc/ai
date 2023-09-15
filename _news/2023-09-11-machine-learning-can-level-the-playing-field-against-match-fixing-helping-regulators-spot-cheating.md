@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/machine-learning-can-l
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/machine-learning-can-level-the-playing-field-against-match-fixing-helping-regulators-spot-cheating-71694348321724.html"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -71,15 +71,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Deep Instinct takes a prevention-first approach to stopping ransomware and other malware using deep learning"
-    excerpt: "Many thanks to the great folks at Deep Instinct, who have sponsored my writing for the past week. If you’re interested in sponsoring my site for a week, and reaching an IT-savvy audience that"
-    publishedDateTime: 2023-09-10T20:35:00Z
-    webUrl: "https://grahamcluley.com/sponsor-deep-instinct/"
-    type: article
-    provider:
-      name: Graham Cluley
-      domain: grahamcluley.com
-    quality: 0
 
 secured: "V9T5kkQLb8Ui9ZrFOx9Bx/thFFGG8drZTesAdSHhsPQCSc+WIpbcfsnLgdaqjlbeV3oU17LP/QDl1y+sW7D5amkujlTwJkqWURNWkphyyxFpdo3leP2bZQ5NVi/lmABb7NjARpgAHPhbRtkhWkyWsUhkeIKj3J1Iwwse9SH0m/enTtxSbAOdnTam/C5vsxeTx5gMTQqlqFHQevDALJgD2F+FHzAtOvR53VzlRUc1pPBrRGUYTqnW/zlICONe4HJ6OR83UwM9+MsV/BJZv5ympIasIQiCZeb3rlziAg9+OlI9KVXYWZ3RMNi+q+sBplaHZzW72aGI2nraKu8ebQBJWTndERpJjIctCUC7468kW7v8+bBnMaC4gWEtNteBQDYuznY6ViZBRnycQyanrvqS3p0ZfHCxeRNu6aTwgL97lyWwV3ZdQvI2Y9ijNLte75phobSAmgfTeYSllsZKL+P2uh5vkBGYMXEgl3MbzrvCX0L+waCUr3vD6xIAxY+LB4yy7Obs8e+ftPuP9bKUAcAeYA==;1IfWAdfbADlEQ3u2bc/a/g=="
 ---

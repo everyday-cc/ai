@@ -187,6 +187,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Claude Pro vs. ChatGPT Plus: Which AI chatbot is better for you?"
+    excerpt: "Claude Pro is a new paid subscription service from AI startup Anthropic and is set to compete directly with OpenAI's ChatGPT Plus."
+    publishedDateTime: 2023-09-15T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/claude-pro-vs-chatgpt-plus-comparison-which-ai-chatbot-is-better-for-you/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "AI Miracle: How ChatGPT Cracked a Boy's Chronic Pain Mystery"
     excerpt: "Despite numerous efforts - including an orthodontic intervention to address a narrow palate and a brief foray into physical therapy prompted by concerns ... to the potential harmony between artificial intelligence and human perseverance, uniting in the ..."
     publishedDateTime: 2023-09-12T16:19:00Z
@@ -279,6 +288,20 @@ related:
       - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-02868-z/d41586-023-02868-z_26031418.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Why Japan Is Building Its Own Version of ChatGPT"
+    excerpt: "Some Japanese researchers feel that AI systems trained on foreign languages cannot grasp the intricacies of Japanese language and culture"
+    publishedDateTime: 2023-09-15T14:04:00Z
+    webUrl: "https://www.scientificamerican.com/article/why-japan-is-building-its-own-version-of-chatgpt/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 24
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/2692254C-BF22-4DF9-8E475D823167954E.jpg"
+        width: 790
+        height: 496
         isCached: true
   - title: "AI tech behind ChatGPT was built in Iowa -- with lots of water"
     excerpt: "The cost of building an artificial intelligence product such as ChatGPT can be hard to measure. But one thing Microsoft-backed OpenAI needed for its technology was plenty of water, pulled from the watershed of the Raccoon and Des Moines rivers in central Iowa to cool a powerful supercomputer as it helped teach its AI systems how to mimic human"

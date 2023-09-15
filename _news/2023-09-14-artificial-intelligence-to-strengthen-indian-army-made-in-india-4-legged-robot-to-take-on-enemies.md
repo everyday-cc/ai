@@ -43,20 +43,6 @@ related:
         width: 800
         height: 448
         isCached: true
-  - title: "Nvidia to build AI infrastructure and train engineers in India"
-    excerpt: "Following the meeting between India's Prime MInister Narendra Modia and Nvidia CEO Jensen Huang, Nvidia announced a partnership with Reliance Industries for buildning AI infrastructure and to train engineers at Tata Consultancy Services,"
-    publishedDateTime: 2023-09-11T02:14:00Z
-    webUrl: "https://www.digitimes.com/news/a20230911VL201/nvidia-india-ai-infrastructure-it+ce-software-big-data.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 39
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230911vl201_files/4_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
 
 secured: "wIx/V5iNvImKTxtkCkEg/5Rz+jkDAJhO1AYQWOfsJWwPx/J6SqJHZKVKZnPJHvjkd53Oy4K9xsXgqj4PuFmGuAVVMlilAKbOjqXolcSEtDrkcyych4keHDJXqvJlG7VQ0/Q87jnXioXpEsH/5J2w6rbF+xl6XXhnigxZxWaPDkT2R/xDBOi/q3X8ShGno3ATVz3x4jd/QCoTIzTvh9+6nBPFRpZwfJsojhTTPV4Qtox1/ljDPypz1EIgGrBjon99ugW6YFc21RroS5x4Iq2vH3IbcB+OodG6jEKOxKOvu2jb8cAo1L4+9djJ70UxU0mCC6Y7aG1+Gj8hcT8GRd683JLJ1YfnPI/V3RbxtjcVyz0H9lw6o9S+dEIeJvq1sMy0ujRcHA8yeDKfwW0KBSOF8YZKdES/+DAzsth2zq4q1ibO+U6HDpdNN84pnyj62mHIzTesTAyXF4bynvgKtsUZrSZTZJ4JELRd+/YLJ0fJj5jzktaMRbqvyZEGkkEQEUlUvwu8v1ZmBnvyHP9zO31KZA==;7pAqTR8vkaFYk/womudcjw=="
 ---

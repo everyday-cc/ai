@@ -7,7 +7,7 @@ originalUrl: "https://www.statnews.com/2023/09/14/generate-biomedicines-flagship
 webUrl: "https://www.statnews.com/2023/09/14/generate-biomedicines-flagship-machine-learning-startup/"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,34 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia, Amgen back AI-driven drug firm Generate:Biomedicines' $273 mln fundraise"
+    excerpt: "Biomedicines, which uses artificial intelligence (AI) to find new treatments, said on Thursday it has raised $273 million from investors including Nvidia's venture capital arm and Amgen."
+    publishedDateTime: 2023-09-14T16:33:00Z
+    webUrl: "https://www.reuters.com/article/generatebio-funding-idUSL4N3AQ2BO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 64
+    images:
+      - url: "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/2VIII4UUOFIAPGOOWT4DO6J5EY.jpg"
+        width: 4966
+        height: 3298
+        isCached: true
+  - title: "Nvidia, Amgen back AI-driven drug firm Generate:Biomedicines' $273 million fundraise"
+    excerpt: "Generate — founded by venture firm Flagship Pioneering, which has incubated biotech companies, most famously Moderna Inc — uses AI to replace trial-and-error drug discovery methods and create novel protein-based therapeutics."
+    publishedDateTime: 2023-09-14T15:40:00Z
+    webUrl: "https://www.aol.com/news/nvidia-amgen-back-ai-driven-124043474.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 32
+    images:
+      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Amgen-partnered AI biotech startup brings in $273M"
     excerpt: "A biotech startup using generative AI to create new, protein-based medicines has closed on a $273 million round as it looks to expand its reach."
     publishedDateTime: 2023-09-14T10:18:00Z

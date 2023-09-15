@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden collaborates with Vietnam to raise funds for AI chips"
-    excerpt: "Sources revealed that Joe Biden, President, the United States (US), mentioned that the move is a formal “upgrading” of the relationship between the two countries. This collaboration is also believed to highlight critical sectors, including cloud computing, semiconductors and AI, Cointelegraph added."
-    publishedDateTime: 2023-09-13T06:27:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-joe-biden-collaborates-with-vietnam-to-raise-funds-for-ai-chips-3242009/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-joe-biden-collaborates-with-vietnam-to-raise-funds-for-ai-chips-3242009/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-joe-biden-collaborates-with-vietnam-to-raise-funds-for-ai-chips-3242009/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 74
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/Artificial-Intelligence.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "US and Vietnam make deals on AI chips and tech worth billions"
     excerpt: "President Joe Biden called the move a formal “upgrading” of the U.S.'s relationship with Vietnam and aims to create a “stable base” in the region rather than “contain China.”"
     publishedDateTime: 2023-09-12T11:33:00Z
@@ -79,20 +63,6 @@ related:
       - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/global-trade.jpg"
         width: 619
         height: 377
-        isCached: true
-  - title: "Biscuit brand Parle collaborates with IBM to drive digital transformation using cloud and AI"
-    excerpt: "Advt In the latest phase of the engagement, IBM Consulting is also collaborating with Microsoft to implement the Azure Databricks Lakehouse, AI engine for Auto Replenishment and SAP Ariba solutions at Parle. By helping Parle better leverage Azure platform ..."
-    publishedDateTime: 2023-09-12T10:52:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/biscuit-brand-parle-collaborates-with-ibm-to-drive-digital-transformation-using-cloud-and-ai/103606372"
-    type: article
-    provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 28
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-103606372,imgsize-167464,width-1200,height=765,overlay-etcio/artificial-intelligence/biscuit-brand-parle-collaborates-with-ibm-to-drive-digital-transformation-using-cloud-and-ai.jpg"
-        width: 1200
-        height: 765
         isCached: true
   - title: "FPT Announces US Investment, Workforce Development for AI and Semiconductor amid Biden's Vietnam Visit"
     excerpt: "Secondly, FPT seeks investment and support for FPT University's initiatives in training engineers specializing in both semiconductor chip design and AI, aiming to bolster the workforce's capabilities in these critical fields. With AI training being a ..."

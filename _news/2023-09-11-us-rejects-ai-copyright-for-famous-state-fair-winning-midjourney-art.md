@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/09/us-rejects-ai
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/us-rejects-ai-copyright-for-famous-state-fair-winning-midjourney-art/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Start your AI journey at our exclusive events"
-    excerpt: "Salesforce and SmartCompany are combining forces to help small businesses understand how to implement artificial intelligence (AI) across their operations safely and ethically."
-    publishedDateTime: 2023-09-10T22:59:00Z
-    webUrl: "https://www.smartcompany.com.au/partner-content/articles/start-your-ai-journey-at-our-exclusive-events/"
-    type: article
-    provider:
-      name: SmartCompany
-      domain: smartcompany.com.au
-    quality: 39
-    images:
-      - url: "https://www.smartcompany.com.au/wp-content/uploads/2023/09/Salesforce-event-1466x710-1.png?resize=1200,630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "A|I: The AI Times – Why Midjourney’s founder rejects venture capital"
     excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
     publishedDateTime: 2023-09-13T08:55:00Z

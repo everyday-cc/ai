@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Self-Driving Cars Could Cause ‘Mass Casualties,’ Warns MP"
+    excerpt: "Lawmakers in the UK warn that self-driving cars could cause \"mass casualties\" if rolled out without strong new laws. \"Self-driving vehicles are a great British success story in the making, but they co"
+    publishedDateTime: 2023-09-15T15:30:00Z
+    webUrl: "https://techround.co.uk/news/self-driving-cars-could-cause-mass-casualties-warns-mp/"
+    ampWebUrl: "https://techround.co.uk/news/self-driving-cars-could-cause-mass-casualties-warns-mp/amp/"
+    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/self-driving-cars-could-cause-mass-casualties-warns-mp/amp/"
+    type: article
+    provider:
+      name: TechRound
+      domain: techround.co.uk
+    quality: 44
+    images:
+      - url: "https://techround.co.uk/wp-content/uploads/2023/09/thisisengineering-raeng-GckgQqyHoa4-unsplash-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "City of Austin releases new data on self-driving cars"
     excerpt: "Self-driving cars may be the way of the future, but they're encountering quite a few glitches in the here and now. The City of Austin is out with some new numbers on just how many incidents there have been involving those driverless cars."
     publishedDateTime: 2023-09-11T02:37:00Z
@@ -36,15 +52,6 @@ related:
       name: FOX 7 Austin KTBC
       domain: fox7austin.com
     quality: 24
-  - title: "Here's what needs to happen to achieve safe self-driving cars"
-    excerpt: "Tesla has since released a few versions of advanced driver assist software, Autopilot and Full Self-Driving. But Tesla's FSD is a bit of a misnomer; cars using FSD do not truly drive themselves. The driver has to be ready to take over if necessary ..."
-    publishedDateTime: 2023-09-11T15:47:00Z
-    webUrl: "https://www.thestreet.com/electric-vehicles/heres-what-needs-to-happen-to-achieve-safe-self-driving-cars"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 4
 
 secured: "yMHhalguMhVGHH2JN2OPQqXwE0TtNvRFyPMbmUE944c42iBlinUJgWF07Dn2u/nNpybTSi5R2x6yLghAl/JrtYRVm1BDN9LrQ82LQIFaZ/3JbVtsnKOuKiUvFh4F5EQ1p+RUZmbZ90lnox1mcAi3hHFw7BsDxxY2kdwhSEsSowRn/A6EmwICqwgw4SjWwfA/dHjQwZ5uzOqOuD9NFNoyvMjDpyyuXG36SuvbI6aYTN8VRhyWlM+9pwWGmWrTMMmZyuA2MGIFWwmZISoUpZCCG+35DuPzB2wvjWXGezmx6/blxNqstALleGqZEYKiIie2lfaB8QuhDYkqwNFT9VpTXIivjie+MPSzadpHCHGlSA1aG2ZCl1BZYQqvqx5iXZCvcPzjzX0pGpQ4Xl1ekHeBXDharnnHcUkZ6dxgMU3Z7MmCc1WVG1s58laJRE/hHIWu2EBwpeFmVe+wxR3RoIk0ylcO2aoelG2buDyg4jZjqt76G4T0EW4d3oaCYi+amRwD8mWD1UdbkGqxOhKafVfLHg==;kQbgSxsh5eUhS4AdT4nd6A=="
 ---

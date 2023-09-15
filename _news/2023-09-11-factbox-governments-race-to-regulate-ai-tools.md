@@ -21,17 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "AI Chatbots Are Invading Your Local Government—and Making Everyone Nervous"
-    excerpt: "State and local governments in the US are scrambling to harness tools like ChatGPT to unburden their bureaucracies, rushing to write their own rules—and avoid generative AI's many pitfalls."
-    publishedDateTime: 2023-09-11T11:00:00Z
-    webUrl: "https://www.wired.com/story/local-governments-generative-ai/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 45
-
 secured: "DsZHyqL9Zcshy8fHJbYwbva7phZPzTaxPiqy6N+XfBOrGxJuWyODIR7zVTLjdgQePiIzfGdlAlo8G0kZnJASydxhpHhLXwXXQH6yDgop0tT01w2G17vkBy9jobLj/jkUuBTKJzy3LURy1aWXHabWparEi1Va3BBw9IrXxFyedYvhC+1d/DzoLsnqvYq9XJ0if76BI+CuSD2h8Fd9wz4UqqB4uRehdSfTWglwkbfD8XXsXcdVk4HOverZ4GZoPVNx7l7xrottE+6H/mq0QvBVT13SVOG5TAYmoMnSftm5Md/IXAppmN5REQRxEPQ/vac5J5lRhRWs2nHK3cGJgMLZAn9Ox9NHaGZHZxyuv1c5yAKtJq8XKGA6ICp15MWR6l/ElbX37N456Mn03YY1mTBetWHUxLMmkkyvmyvc4Lat3V8N+zIikMX5aKMm1NBzsaOrBZzUrPtDUfhMxBTzdA0LGQiOGEmRg4NZUb7Bfp4d9dF6XXHSOvtNi3S2Y0mNKf0VuIlmtH1NODIvgAZW4RRA0A==;KmTIXpwv11Cm2MFJbBfnJw=="
 ---
 

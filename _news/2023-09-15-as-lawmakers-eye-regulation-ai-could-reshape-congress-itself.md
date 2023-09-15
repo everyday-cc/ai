@@ -1,24 +1,62 @@
 ---
 category: news
 title: "As lawmakers eye regulation, AI could reshape Congress itself"
-excerpt: "I understand the fear,” Speaker Kevin McCarthy said at this year’s Congressional Hackathon. But AI is poised to change how the House works."
-publishedDateTime: 2023-09-15T10:10:00Z
-originalUrl: "https://rollcall.com/2023/09/15/ai-could-reshape-congress-hackathon-2023/"
-webUrl: "https://rollcall.com/2023/09/15/ai-could-reshape-congress-hackathon-2023/"
+excerpt: "As tech industry leaders and senators came to a consensus that government should regulate artificial intelligence, a group of lawmakers, staff and advocates leaned into the"
+publishedDateTime: 2023-09-15T15:58:00Z
+originalUrl: "https://www.securityinfowatch.com/cybersecurity/news/53072421/as-lawmakers-eye-regulation-ai-could-reshape-congress-itself"
+webUrl: "https://www.securityinfowatch.com/cybersecurity/news/53072421/as-lawmakers-eye-regulation-ai-could-reshape-congress-itself"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Roll Call
-  domain: rollcall.com
+  name: Security
+  domain: securityinfowatch.com
 
 topics:
   - AI Ethics
   - AI
 
+images:
+  - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/09/16x9/US_NEWS_CONGRESS_AI_GET.65046a78450b8.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+    width: 1200
+    height: 630
+    isCached: true
+
 related:
+  - title: "What Congress Can Get Done On AI Legislation"
+    excerpt: "AI is the hottest topic in Congress, but what legislation has the best chance to pass amidst the heightened attention?"
+    publishedDateTime: 2023-09-15T14:37:00Z
+    webUrl: "https://www.forbes.com/sites/owentedford/2023/09/15/what-congress-can-get-done-on-ai-legislation/"
+    ampWebUrl: "https://www.forbes.com/sites/owentedford/2023/09/15/what-congress-can-get-done-on-ai-legislation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/owentedford/2023/09/15/what-congress-can-get-done-on-ai-legislation/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65046bcf065b9ae61b52ccc5/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "What Congress Can Get Done On AI"
+    excerpt: "AI is the hottest topic in Congress, but what legislation has the best chance to pass amidst the heightened attention?"
+    publishedDateTime: 2023-09-15T14:37:00Z
+    webUrl: "https://www.forbes.com/sites/owentedford/2023/09/15/what-congress-can-get-done-on-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/owentedford/2023/09/15/what-congress-can-get-done-on-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/owentedford/2023/09/15/what-congress-can-get-done-on-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65046bcf065b9ae61b52ccc5/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Congress Is Blowing It When It Comes to AI Regulation"
     excerpt: "Critics have likened the decision to invite tech CEOs like Elon Musk and Mark Zuckerberg to Capitol Hill to discuss regulating AI as akin to letting “the fox design the henhouse.”"
     publishedDateTime: 2023-09-13T21:10:00Z
@@ -57,6 +95,6 @@ related:
       domain: bizjournals.com
     quality: 12
 
-secured: "pdr2qXUYbkGX1X+xtwgzTEgydGXzk+lXkDBM3utS2bwip66kUVPwosMOcMRXXLg1pNt79xuMF7+B8cEx1rfQ+VTY15I4RBjZ1nRuJcZda8ccj7euguNCfrnLQKd/bvdIFoGcG5wChtxQPbGj0z98I5B1T/qTe1MbCLBKxJIwFZW6nmEp1ProiNOIP+UUnmDwy1pUzESD39je1NcglGPPyGyTtnCov8G056/qFKR7GQ+M/JAz7YfWlY53kaxbngzXLhILtLgojdm8iJ72yb3X+nMft8Ze8DsFln2OVjExfPlBpBTNTQbLhGp5mxGUJtoOweWImQ0knAvqYJ1CLz5guF4L3JomERJPMxGUX1bEqEk=;LEYDlv3rE/2BohYAzOrp3Q=="
+secured: "msbaTckTkJibq6odvgh5YNweFiNbjsqTTakZIHSt7gseICJmOBVNmM0lTSSZBU8kgr0/wOBh6FGAbluX14yZ5kS0Ix7avbxnUN0V7jjgwcLC39p0X8Y4xh8a5K1Pfge3x0SrdFwaPFne/b9b5cl62gy0JGlbogCc82y1EZb5JyvBaHHfnwhXcl3vxfH24NkDS429FzuHrcyYfJONDuLO1HJV+1kRqOhxFs4Qhnyv5ZMCiZxENlR9eeY9AF3Mw6pGkFoeBn1XChd5tU4vYf/KNv8XD2WKMQDcKuVokhc6hDJDNlp0YJouUyOMwDBLjEJpSyXCrK+1DvbIXO9gTx/aTbp9kO0y62147xB5pkMOTEo=;91p5XktPL0hbV9dW4ikLHw=="
 ---
 

@@ -197,6 +197,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Bill Gates, Elon Musk and Mark Zuckerberg meeting in Washington to discuss future AI regulations"
+    excerpt: "Spread the loveIn a groundbreaking meeting, three of the world’s most influential tech leaders – Microsoft co-founder Bill Gates, Tesla and SpaceX CEO Elon Musk, and Facebook CEO Mark Zuckerberg – convened in Washington,"
+    publishedDateTime: 2023-09-15T14:20:00Z
+    webUrl: "https://www.thetechedvocate.org/bill-gates-elon-musk-and-mark-zuckerberg-meeting-in-washington-to-discuss-future-ai-regulations/"
+    type: article
+    provider:
+      name: thetechedvocate.org
+      domain: thetechedvocate.org
+    quality: 26
+    images:
+      - url: "https://www.thetechedvocate.org/wp-content/uploads/2019/01/T1-660x400.jpg"
+        width: 660
+        height: 400
+        isCached: true
   - title: "Tech titans will give senators advice on artificial intelligence in a closed-door forum"
     excerpt: "Senate Majority Leader Chuck Schumer has been talking for months about accomplishing a potentially impossible task: passing bipartisan legislation within the next year that encourages the rapid develo"
     publishedDateTime: 2023-09-13T04:56:00Z

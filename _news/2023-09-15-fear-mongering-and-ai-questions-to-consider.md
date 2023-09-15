@@ -8,9 +8,9 @@ webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/15/fear-mong
 ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/15/fear-mongering-and-ai-questions-to-consider/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/09/15/fear-mongering-and-ai-questions-to-consider/amp/"
 type: article
-quality: 89
-heat: -1
-published: false
+quality: 91
+heat: 141
+published: true
 
 provider:
   name: Forbes
@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI Ethics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/64d24a5ca55da9197765f247/0x0.jpg?format=jpg&width=1200"
@@ -47,52 +48,15 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The Future Of AI In Business: Predictions And How To Prepare"
-    excerpt: "AI has exploded in popularity in 2023. Here are my predictions for what's to come with AI and how your business can prepare."
-    publishedDateTime: 2023-09-13T11:44:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/09/13/the-future-of-ai-in-business-predictions-and-how-to-prepare/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/09/13/the-future-of-ai-in-business-predictions-and-how-to-prepare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/09/13/the-future-of-ai-in-business-predictions-and-how-to-prepare/amp/"
+  - title: "Ecology and artificial intelligence: Stronger together"
+    excerpt: "Many of today's artificial intelligence systems loosely mimic the human brain. In a new paper, researchers suggest that another branch of biology -- ecology -- could inspire a whole new generation ..."
+    publishedDateTime: 2023-09-11T00:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/09/230911191010.htm"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63d3d76c6f41b0b2774c5504/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 799
-        isCached: true
-  - title: "Navigating the Age of AI: The Role of a New Brain Industry"
-    excerpt: "To harness the benefits of AI and minimize its risks, we outlined an aggressive brain capital industrial strategy in a new research paper from Rice University’s Baker Institute for Public Policy. A mission-oriented approach is an important aspect of our strategy for advancing America’s brain capital."
-    publishedDateTime: 2023-09-15T01:12:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/building-brain-capital/202309/navigating-the-age-of-ai-the-role-of-a-new-brain-industry"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/building-brain-capital/202309/navigating-the-age-of-ai-the-role-of-a-new-brain-industry?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/building-brain-capital/202309/navigating-the-age-of-ai-the-role-of-a-new-brain-industry?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-09/pexels-thisisengineering-3861969.jpg?itok=O7b4XPWg"
-        width: 1528
-        height: 800
-        isCached: true
-  - title: "The Human Touch in LLMs and GenAI: Shaping the Future of AI Interaction"
-    excerpt: "About the author: Rohan Agrawal is the CEO and Founder of Cogito Tech, a provider of AI training solutions that offers a human-in-the-loop workforce for computer vision, natural language processing, content moderation, and data and document processing."
-    publishedDateTime: 2023-09-12T17:31:00Z
-    webUrl: "https://www.datanami.com/2023/09/12/the-human-touch-in-llms-and-genai-shaping-the-future-of-ai-interaction/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2020/10/robot_finger_shutterstock_Sdecoret.jpg"
-        width: 891
-        height: 525
-        isCached: true
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "COUNTER AI: Schools here and across the nation seeking smart AI policies"
     excerpt: "Schools in Aurora and across the country wade through a jungle of thorny issues surrounding artificial intelligence writing applications"
     publishedDateTime: 2023-09-14T20:09:00Z
@@ -107,21 +71,25 @@ related:
         width: 648
         height: 431
         isCached: true
-  - title: "The Future of BaaS: Exploring the Top Predictions for 2022 and Beyond"
-    excerpt: "Welcome to the future of BaaS, where innovation and technology collide to reshape the way businesses operate. As we step into 2022 and beyond, it’s time to unravel the top predictions that will revolutionize this ever-evolving landscape."
-    publishedDateTime: 2023-09-14T15:33:00Z
-    webUrl: "https://techbullion.com/the-future-of-baas-exploring-the-top-predictions-for-2022-and-beyond/"
+  - title: "Ecology and artificial intelligence: Stronger together"
+    excerpt: "Many of today's artificial intelligence systems loosely mimic the human brain. In a paper published in Proceedings of the National Academy of Sciences, researchers suggest that another branch of biology—ecology—could inspire a whole new generation of AI to be more powerful,"
+    publishedDateTime: 2023-09-11T19:01:00Z
+    webUrl: "https://phys.org/news/2023-09-ecology-artificial-intelligence-stronger.html"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 24
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/09/Untitled-design-2023-09-14T162953.867.png"
-        width: 800
-        height: 400
-        isCached: true
+      name: Phys.org
+      domain: phys.org
+    quality: 19
+  - title: "Artificial intelligence: Compliance considerations for provider organizations"
+    excerpt: "Artificial intelligence (AI) is nothing new to the healthcare industry, as many organizations and clinicians have utilized such tools in some capacity for many years. Imaging-related AI to support radiologists is not uncommon, to use one example."
+    publishedDateTime: 2023-09-11T11:56:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-compliance-2308492/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 16
 
-secured: "mJdi6NyufVYGS9FZTxleGfmHrZ6ga2ie+NMINo6SaQBRJ4PMViBKlsxHfDVxGzpm7rzyhVYxS2LzZfO1RaldqNPjwWjwF/nvenSi31FbQxWQykQq2Bo9GzCOkDTUm2bOUPRs7RtZ1bJYQWEZ0zzHMflgo+JZhyl53OaJrb7PJ+8Y7c5JjDRuEXVDK6AkczwLhk2eetrrksmG+HLbhviLnQVwc3dJ7o58cqstU5YrZ2DkUjdgLY8fgQ3z52LkehOlc55nate1aGJYjTVuyBrMbhxACnTc8or7qXzFGgj/BL/Xci3zQSebFqBlFeEYsk0ZUT0Crme0LbkU3NEVhLW+w60w7DbtxRSwdsBm8UMstO0=;xvYjjom/xigx+W4jAqWj6w=="
+secured: "N9L3xUKXSy0YvEKbkLy2e7Sr3OOu5h39/gINKAAx/ItvDYLHwekeQUq2gBZfd10ogVQ9CLkicjRGOXcj0Gbs/V+zHtk5GT4qDLdo9yMjr6JmPUew1Ln4Ny8fmeK6z4VEhkFEtixRUSj17qJYCgm2t4DMc5OKU+QbcKwBNdXEwzMfIS5q9eZAKydZYb0I66WgN8li3fciSg4Fejw9Vme7A9KjMV6Y+fLe/y4y8bGomZsf/q0LzYWBxMhvD3gBhgn7YiQsna3oW/j3zyuqe+diEfWQYiEErTtLkpuYaOUVpoCEwRnQKzVTUdcZoGFORWkUZsPDwZ//JUvfJi3/T12zAKBfFwjfRmXkfvoGbsrobGlHf9gVoIzroi6gwrGtPzKnGGzrM3KMRNrcU6/OdEPZVMOb1jD3YwYTd0KyPa84hv08NqBNJFsePNjjUCJwe+vddIxZeEtvrls/9MWPwQ3wAqWjq81M6MvsB+xYBhux2kvFlbM1M8SjRD0GHdYqfqtr7wOW3KZLyeS7mNFuLaIaNA==;9hFRMpA2MJRVR0PCrzD6OA=="
 ---
 

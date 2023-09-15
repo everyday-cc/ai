@@ -165,6 +165,15 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Teachers Are Going All In on Generative AI"
+    excerpt: "Surveys suggest teachers use generative AI more than students, to create lesson plans or more interesting word problems. Educators say it can save valuable time but must be used carefully."
+    publishedDateTime: 2023-09-15T11:00:00Z
+    webUrl: "https://www.wired.com/story/teachers-are-going-all-in-on-generative-ai/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 49
   - title: "How artificial intelligence can revolutionise science"
     excerpt: "Then, starting in the late 19th century, the establishment of research laboratories, which brought together ideas, people and materials on an industrial scale, gave rise to further innovations such as artificial fertiliser,"
     publishedDateTime: 2023-09-14T08:33:00Z

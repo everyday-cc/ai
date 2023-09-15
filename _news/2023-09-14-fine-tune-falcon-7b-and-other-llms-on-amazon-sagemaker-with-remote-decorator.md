@@ -57,15 +57,6 @@ related:
         width: 895
         height: 448
         isCached: true
-  - title: "Falcon 180B foundation model from TII is now available via Amazon SageMaker JumpStart"
-    excerpt: "Today, we are excited to announce that the Falcon 180B foundation model developed by Technology Innovation Institute (TII) is available for customers through Amazon SageMaker JumpStart to deploy with one-click for running inference. With a 180-billion-parameter size and trained on a massive 3.5-trillion-token"
-    publishedDateTime: 2023-09-11T19:33:38Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/falcon-180b-foundation-model-from-tii-is-now-available-via-amazon-sagemaker-jumpstart/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 77
   - title: "Amazon SageMaker Domain in VPC only mode to support SageMaker Studio with auto shutdown Lifecycle Configuration and SageMaker Canvas with Terraform"
     excerpt: "Amazon SageMaker Domain supports SageMaker machine learning (ML) environments, including SageMaker Studio and SageMaker Canvas. SageMaker Studio is a fully integrated development environment (IDE) that provides a single web-based visual interface where you can access purpose-built tools to perform all"
     publishedDateTime: 2023-09-11T18:36:37Z

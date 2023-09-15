@@ -2,101 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-08-31-baidu-leads-public-rollout-of-ai-chatbots-in-china.md",
-      "title": "Baidu Leads Public Rollout Of AI Chatbots In China",
-      "excerpt": "Tech giant Baidu launched China's first public artificial intelligence chatbot on Thursday, with ERNIE trained to censor highly sensitive topics for the ruling Communist Party such as the Tiananmen crackdown.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d?refsec=topics_afp-news",
-      "originalUrl": "https://www.barrons.com/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d?refsec=topics_afp-news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.barrons.com/asset/external-media/afp/AFP9640123735043191226260508873486149274090---1.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d",
-      "publishedDateTime": "2023-08-31T00:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-baidu-and-sensetime-launch-chatgpt-style-ai-bots-to-the-public.md",
-      "title": "Baidu and SenseTime launch ChatGPT-style AI bots to the public",
-      "excerpt": "Chinese tech firms Baidu and SenseTime launched their ChatGPT-style AI bots to the public on Thursday, marking a new milestone in the global AI race. Baidu has opened public access to its ERNIE ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/08/31/tech/baidu-sensetime-ai-bot-launch-china-intl-hnk/index.html",
-      "originalUrl": "https://www.cnn.com/2023/08/31/tech/baidu-sensetime-ai-bot-launch-china-intl-hnk/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230830224720-baidu-ernie-bot-083023.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/08/31/tech/baidu-sensetime-ai-bot-launch-china-intl-hnk/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/08/31/tech/baidu-sensetime-ai-bot-launch-china-intl-hnk/index.html",
-      "publishedDateTime": "2023-08-30T22:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-31-chinas-baidu-rolls-out-chatgpt-rival-to-public.md",
       "title": "China's Baidu rolls out ChatGPT rival to public",
       "excerpt": "When asked about Taiwan, a self-ruling island that China claims as its territory ... In addition to AI, it has also looked to grow its cloud computing business and develop autonomous driving tech. Baidu shares were up 3.3 percent in Hong Kong at 0330 ...",
@@ -1358,6 +1263,101 @@
       "provider": {
         "name": "Santa Barbara Independent",
         "domain": "independent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-the-false-promises-of-teslas-full-self-driving.md",
+      "title": "The false promises of Tesla’s Full Self-Driving",
+      "excerpt": "But while Musk would eventually ship an advanced driver-assist system that he called Full Self-Driving (FSD) beta, the idea that any Tesla owner could catch some z’s while their car whisks them ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/8/23/23837598/tesla-elon-musk-self-driving-false-promises-land-of-the-giants",
+      "originalUrl": "https://www.theverge.com/2023/8/23/23837598/tesla-elon-musk-self-driving-false-promises-land-of-the-giants",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/e0jJ5JRr9puinqk81493j67D4ZU=/58x58:5076x3384/1200x628/filters:focal(2633x1673:2634x1674)/cdn.vox-cdn.com/uploads/chorus_asset/file/24801728/Screenshot_2023_07_21_at_1.45.12_PM.jpeg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-23T11:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-23-gavin-newsom-sides-with-the-robots-in-autonomous-vehicle-debate.md",
+      "title": "Gavin Newsom sides with the robots in autonomous vehicle debate",
+      "excerpt": "They argue the advent of transformative technologies — from driverless vehicles to automation and artificial intelligence — require policymakers to be proactive on regulations. “They think I ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2023/08/23/gavin-newsom-autonomous-vehicles-00112358",
+      "originalUrl": "https://www.politico.com/news/2023/08/23/gavin-newsom-autonomous-vehicles-00112358",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/e4/17/a6395f594e628243cf0249200048/gavin-newsom-tesla.jpg",
+          "width": 3913,
+          "height": 2692,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-23T01:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
         "images": null,
         "publishers": null,
         "authors": null

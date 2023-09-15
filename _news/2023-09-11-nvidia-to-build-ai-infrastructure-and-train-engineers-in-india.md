@@ -25,38 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "Hyderabad can emerge as India's AI, robotics hub: Experts"
-    excerpt: "Boston, USA: Experts in the fields of artificial intelligence (AI), robotics and data protection in the US appreciated the progress being made by India in general and Telangana state in particular, saying Hyderabad has emerged as the new technology hub of ..."
-    publishedDateTime: 2023-09-11T17:36:00Z
-    webUrl: "https://www.deccanchronicle.com/technology/in-other-news/110923/hyderabad-can-emerge-as-indias-ai-robotics-hub-experts.html"
-    ampWebUrl: "https://www.deccanchronicle.com/amp/technology/in-other-news/110923/hyderabad-can-emerge-as-indias-ai-robotics-hub-experts.html"
-    cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/110923/hyderabad-can-emerge-as-indias-ai-robotics-hub-experts.html"
+  - title: "RoboBusiness: NVIDIA to discuss role of Generative AI in robotics"
+    excerpt: "We have seen a huge leap in the capabilities of Generative AI algorithms as demonstrated through ChatGPT, Stable Diffusion, and other algorithms. It is expected that Generative AI will also have a large impact on robotic reasoning, visual understanding, and physical execution abilities."
+    publishedDateTime: 2023-09-12T21:17:00Z
+    webUrl: "https://www.therobotreport.com/robobusiness-nvidia-to-discuss-role-of-generative-ai-in-robotics/"
     type: article
     provider:
-      name: Deccan Chronicle
-      domain: deccanchronicle.com
-    quality: 89
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 99
     images:
-      - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-qdjlmll247sgamvbuhqasf3u62-20230911230129.Medi.jpeg"
+      - url: "https://www.therobotreport.com/wp-content/uploads/2023/06/chatgpt-robotics.jpg"
         width: 800
-        height: 448
+        height: 554
         isCached: true
-  - title: "Artificial Intelligence To Strengthen Indian Army, Made-In India '4-Legged Robot' To Take On Enemies"
-    excerpt: "At the North Tech Symposium 2023 in Jammu, the Indian Army unveiled groundbreaking artificial intelligence advancements that are reshaping contemporary warfare strategies, and a Multi-utility Legged Equipment (MULE),"
-    publishedDateTime: 2023-09-14T06:42:00Z
-    webUrl: "https://www.timesnownews.com/videos/mirror-now/society/artificial-intelligence-to-strengthen-indian-army-made-in-india-4-legged-robot-to-take-on-enemies-video-103655438"
-    ampWebUrl: "https://www.timesnownews.com/videos/mirror-now/society/artificial-intelligence-to-strengthen-indian-army-made-in-india-4-legged-robot-to-take-on-enemies-video-103655438/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/videos/mirror-now/society/artificial-intelligence-to-strengthen-indian-army-made-in-india-4-legged-robot-to-take-on-enemies-video-103655438/amp"
+  - title: "The Future Of AI In Business: Predictions And How To Prepare"
+    excerpt: "AI has exploded in popularity in 2023. Here are my predictions for what's to come with AI and how your business can prepare."
+    publishedDateTime: 2023-09-13T11:44:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/09/13/the-future-of-ai-in-business-predictions-and-how-to-prepare/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/09/13/the-future-of-ai-in-business-predictions-and-how-to-prepare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/09/13/the-future-of-ai-in-business-predictions-and-how-to-prepare/amp/"
     type: article
     provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://static.tnn.in/thumb/msid-103655438,updatedat-1694673751837,width-1280,height-720,resizemode-75/103655438.jpg"
-        width: 1280
-        height: 720
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63d3d76c6f41b0b2774c5504/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 799
         isCached: true
+  - title: "AI Trends In International Business: Insights from Three Leaders"
+    excerpt: "Three industry leaders in AI stand out by demonstrating their shared backgrounds and training that led them each to have unparalleled success in AI: Kai-Fu Lee, Harry Shum and Qi Lu."
+    publishedDateTime: 2023-09-13T18:52:00Z
+    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/09/13/ai-trends-in-international-business-insights-from-three-leaders/70844708007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 17
 
 secured: "saeYwQizbz8x9xIGBHwvNfLxdCMQnOwnehuDwJ8c1Udp28SaPvE0HoVcW9zt3JTGZ2hdY3MB+Crn86qcagX0ASJM6ChvBhND51WuSIKaAXrb0km3kWQ+UEdjLeWuQoNJuoLcf3yvV2uinEmUxRKgnBa+1IgSIQmrlSgLEYw1NVPhtKjl6KNRdmE+493iupjc2hxNfoe3AEy4C1R7nXejWUNFvig48Wt6AfMxwPuMX49VQlBgbGzQvXRR565cWpFhZuZwkwIHFjqZq0HVn5xAUvKpSC7fLQFC/4zjlvAoWywiSRQ+GTPel/EMcgyb4WljTpfkY1jLv7BZRZh34dQFGIzGoX9Sa+p+3luWCdycqOs=;n2u09bm7aZCofuPP9hCgzQ=="
 ---

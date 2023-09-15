@@ -7,7 +7,7 @@ originalUrl: "https://technews.tmcnet.com/news/2023/09/13/9879923.htm"
 webUrl: "https://technews.tmcnet.com/news/2023/09/13/9879923.htm"
 type: article
 quality: 27
-heat: 27
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,58 @@ images:
     width: 400
     height: 225
     isCached: true
+
+related:
+  - title: "Verbal nonsense reveals limitations of AI chatbots"
+    excerpt: "The era of artificial-intelligence chatbots that seem to understand and use language the way we humans do has begun. Under the hood, these chatbots use large language models, a particular kind of neural network."
+    publishedDateTime: 2023-09-15T12:22:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/09/230914114704.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
+  - title: "Tencent Backer Prosus Develops AI Chatbot for Its Companies"
+    excerpt: "Dutch e-commerce investor Prosus NV has developed an artificial intelligence chatbot for its portfolio of companies, as tech businesses increasingly turn to the emerging technology to streamline operations."
+    publishedDateTime: 2023-09-12T13:36:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-09-12/tencent-backer-prosus-develops-ai-chatbot-for-its-companies"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
+  - title: "AI Chatbots Are Invading Your Local Government—and Making Everyone Nervous"
+    excerpt: "State and local governments in the US are scrambling to harness tools like ChatGPT to unburden their bureaucracies, rushing to write their own rules—and avoid generative AI's many pitfalls."
+    publishedDateTime: 2023-09-11T11:00:00Z
+    webUrl: "https://www.wired.com/story/local-governments-generative-ai/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 45
+  - title: "Popping the chatbot hype balloon"
+    excerpt: "Understanding how chatbots work and the human labor and data involved can better help evaluate the validity of concerns about them—which although innovative, are hardly the stuff of science fiction."
+    publishedDateTime: 2023-09-11T17:01:00Z
+    webUrl: "https://thebulletin.org/premium/2023-09/popping-the-chatbot-hype-balloon/"
+    type: article
+    provider:
+      name: Bulletin of the Atomic Scientists
+      domain: thebulletin.org
+    quality: 26
+    images:
+      - url: "https://thebulletin.org/wp-content/uploads/2023/09/Pop-balloon-landscape.png"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Gibberish or Genius? Verbal Nonsense Reveals Limitations of AI Chatbots"
+    excerpt: "In a new study, researchers tracked how current language models, such as ChatGPT, mistake nonsense sentences as meaningful. Can these AI flaws open new windows on the brain? We have now entered into a"
+    publishedDateTime: 2023-09-14T15:16:00Z
+    webUrl: "https://scitechdaily.com/gibberish-or-genius-verbal-nonsense-reveals-limitations-of-ai-chatbots/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 19
 
 secured: "ZfRhAE+ao5RzkRjQoEitexKKxcEePl7OB3aNKOlSx7pJHOu/kNx21z9xklzpK2MNyp41mRRToGBK8joW6OGEMzarb8IgG9hmpVKAfTgtFXy2rXgIwFuUrnsAFS+M5zG37cI3BeEJYpfXMyLI1VUl9qezjzNFTYfhrAYoVkWCxKKZgouvJ3MVJ629dH6oFHnIesJTBJE9JlmO+tvMhGndv2Gr0tXXzjyx0vYT+DdGFvhFSvpzE9KS+K4qs0eNIH4ixqLUZ7NQFHo328GsLS6dcZH+iU69aOMEVAViK48OvqM1u3MVNtkOrNA7zq5fu/bcJ34FTt24+h+ipyRSwFVW2fAeLniEEH9WkAi/rOytqlMVXxuz9E2lWKK/5LW4H7gdqEHF3FgpBG/uBT6zPuWHBk/QA/TcORzK8yZ9G9hwvYfIDRSW3ve/m/E0UX7QcJiluwheBI5dh3PAbX9vAHmN7eWptL1vcbmRBDjBic5KYaFazjF9RW2ob60cn2W89I+aDthEHuOysdCZjOyWKd5sNw==;7NNyZRlA3YeIqp2ldXPsLg=="
 ---

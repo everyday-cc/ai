@@ -53,6 +53,24 @@ related:
         width: 1200
         height: 450
         isCached: true
+  - title: "Here's what needs to happen to achieve safe self-driving cars"
+    excerpt: "Tesla has since released a few versions of advanced driver assist software, Autopilot and Full Self-Driving. But Tesla's FSD is a bit of a misnomer; cars using FSD do not truly drive themselves. The driver has to be ready to take over if necessary ..."
+    publishedDateTime: 2023-09-11T15:47:00Z
+    webUrl: "https://www.thestreet.com/electric-vehicles/heres-what-needs-to-happen-to-achieve-safe-self-driving-cars"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 4
+  - title: "New report sets out Government steps to make self-driving cars a reality"
+    excerpt: "Lack of progress has bred public cynicism Small-scale schemes first Self-driving cars not likely for many years Road maintenance and better road markings crucial Changes to driving test and driver education proposed More work needed on legal,"
+    publishedDateTime: 2023-09-15T11:43:00Z
+    webUrl: "https://www.carwow.co.uk/news/7185/report-sets-out-pathway-to-self-driving-cars"
+    type: article
+    provider:
+      name: carwow
+      domain: carwow.co.uk
+    quality: 3
 
 secured: "kiagnObETNv94M4XcDxEz7qkuhueIBRNuINAdUqWrGBy1077BKU9Ox1NSZSK619E3n9TdfXUVbVF7G3LVYdbLbxBgS0A3e4UCesA2UIlcudPXFLZgujSjHpfAaa8DktV/din+x+qoGEslvs2FCDpqVVu1n0TIMBTFIQs80Wj0gZ+VvN4HKL+t/pqMuBhwXmQUoGrSaq8DUdE0ogrxzTwiHwEq/WKxZt2c592udIRqBqgckunnDUw6aUb3zH0A232qI4GsdYwJxR/+Rh/oZRgQx5NFXaao6t1OiM2MgpPJdc6rdIOScNxUStXQGluy+N/QNZMGd8hejVqSwq2HY4uP25YhZfCu9v5+6059hzc8o4=;9wOhpjCOLmi82qBLW6BFUg=="
 ---

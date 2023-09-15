@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-generative-ai-is-revolutionizing-supp
 webUrl: "https://www.ibm.com/blog/how-generative-ai-is-revolutionizing-supply-chain-operations/"
 type: article
 quality: 99
-heat: 339
+heat: 349
 published: true
 
 provider:
@@ -157,6 +157,15 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Teachers Are Going All In on Generative AI"
+    excerpt: "Surveys suggest teachers use generative AI more than students, to create lesson plans or more interesting word problems. Educators say it can save valuable time but must be used carefully."
+    publishedDateTime: 2023-09-15T11:00:00Z
+    webUrl: "https://www.wired.com/story/teachers-are-going-all-in-on-generative-ai/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 49
   - title: "Revolutionizing The Hospitality Industry With Artificial Intelligence"
     excerpt: "By harnessing the power of AI, hoteliers can revolutionize the guest experience, personalize service, streamline operations and bring more to the bottom line."
     publishedDateTime: 2023-09-11T13:00:00Z

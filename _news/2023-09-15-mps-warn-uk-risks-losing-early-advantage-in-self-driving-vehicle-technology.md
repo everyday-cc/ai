@@ -53,7 +53,25 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Here's what needs to happen to achieve safe self-driving cars"
+    excerpt: "Tesla has since released a few versions of advanced driver assist software, Autopilot and Full Self-Driving. But Tesla's FSD is a bit of a misnomer; cars using FSD do not truly drive themselves. The driver has to be ready to take over if necessary ..."
+    publishedDateTime: 2023-09-11T15:47:00Z
+    webUrl: "https://www.thestreet.com/electric-vehicles/heres-what-needs-to-happen-to-achieve-safe-self-driving-cars"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 4
+  - title: "New report sets out Government steps to make self-driving cars a reality"
+    excerpt: "Lack of progress has bred public cynicism Small-scale schemes first Self-driving cars not likely for many years Road maintenance and better road markings crucial Changes to driving test and driver education proposed More work needed on legal,"
+    publishedDateTime: 2023-09-15T11:43:00Z
+    webUrl: "https://www.carwow.co.uk/news/7185/report-sets-out-pathway-to-self-driving-cars"
+    type: article
+    provider:
+      name: carwow
+      domain: carwow.co.uk
+    quality: 3
 
-secured: "sB6UxuiIfpa3N8wkeDR7fGza5iCCYlzSGqjm45ew2N0CIC+LbcfUSxPYBvi5yPDwQGk2P0SVvJEgd5dXTS9loW/wDhI0UYYTzAq7CxOl4v4TL3YpwRQhcIjJSlG5kuHmF6xbauwzbKgAt+iQsH76S3XUS3X00p0XCcYy4o/lQhvzvERHxKOd6gej8Y1fPdQC3o3fbdEzz4g40zxIZGfxIsMYSHUeXCXqV/PMD3/KJwVeRFSAXQiy0WulG7En+kMoX35L4BAY1Vdu5x+cutZ44TfH7HIuD2yxx6i652uZzo0bIMgGwjh/L1btyPMiwTXw6gYJLyvbBf73Qezcu34hx8blCCTP9Xa0cwMP0erXXGM=;s4VWmkljFx42TJIGyM7Luw=="
+secured: "hf1+233k+WvIB90PPQJfB1pXsEWwyB6eXvkd8wH3jh5nwPvsKVrp0lGWUiRtqrniJTnCc0ORAbEmR4DmEXNo9KT/OImWDhyzkDvirIiTtxKnCfssdC0FFKdNvICW/68Uo2PoHikhyC1stpMZNp7vMip6elvMwyqfaht0HUjxkfcf8Ij2Us5l9wpv4cYjWgZFwgnC/l/pFnKn+2Kfm+oPhLgKBi0iJ62I6q0l+LukA3QvQLDfXE5t4uQcb39inBki7qTr9ZkpHRu+0PZf0HNJX0UiwGMimC82WP1X85jnx1zC8HNcQU0mZywYFfb+0oaV12kt1aqoDhnSjWShaYxLIF06zAIorKBCNkSOO9sprHBgWkuSE/dFSPs0WLEJCcy/xaH2J1MjTVA6VzSJ119BNRDSRHCI4J89K9XZ0sJl7gd+vlZVCw81WT8mMYxDj3aepqIukDBjdIjt8I9P0Fsd5loPhLLcPRjr78OCYUJPzVkEy+o/aGHNbnCZuEhQmTMwJoO1iCSLtQ3cj88P186Bbw==;2O8Wonz5lPevGwTAFxzidQ=="
 ---
 
