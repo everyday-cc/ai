@@ -47,15 +47,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Can AI help improve outcomes for cancer patients?"
-    excerpt: "Using a voice-assisted, remote patient symptom monitoring system (VARSMS) developed through artificial intelligence and natural language processing technology, patients can be monitored remotely for post-recovery. With the goal of improving communication ..."
-    publishedDateTime: 2023-09-12T09:31:00Z
-    webUrl: "https://thedailyrecord.com/2023/09/12/can-ai-help-improve-outcomes-for-cancer-patients/"
-    type: article
-    provider:
-      name: The Daily Record (Maryland)
-      domain: thedailyrecord.com
-    quality: 21
   - title: "How Artificial Intelligence is Bolstering Impressive Billion Dollar Growth Opportunities in Healthcare Sector"
     excerpt: "The implementation of AI/ML technologies in enhancing patient care, reducing machine downtime, and minimizing care expenses are some of the driving forces of artificial intelligence (AI) in healthcare market growth."
     publishedDateTime: 2023-09-12T15:18:00Z

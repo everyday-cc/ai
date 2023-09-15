@@ -39,6 +39,20 @@ related:
         width: 2121
         height: 1414
         isCached: true
+  - title: "MPs warn UK risks losing early advantage in self-driving vehicle technology"
+    excerpt: "MPs have urged the government to update self-driving vehicle (SDV) legislation in order to maintain the competitive advantage the UK currently has in the sector."
+    publishedDateTime: 2023-09-15T10:56:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2023/09/mps-warn-uk-risks-losing-early-advantage-in-self-driving-vehicle-technology/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 22
+    images:
+      - url: "https://eandt.theiet.org/media/22377/web-self-drive-conceptual-istock-926550444.jpg?center=0.3511111111111111,0.51&mode=crop&width=1200&height=450&rnd=133392512790000000"
+        width: 1200
+        height: 450
+        isCached: true
 
 secured: "kiagnObETNv94M4XcDxEz7qkuhueIBRNuINAdUqWrGBy1077BKU9Ox1NSZSK619E3n9TdfXUVbVF7G3LVYdbLbxBgS0A3e4UCesA2UIlcudPXFLZgujSjHpfAaa8DktV/din+x+qoGEslvs2FCDpqVVu1n0TIMBTFIQs80Wj0gZ+VvN4HKL+t/pqMuBhwXmQUoGrSaq8DUdE0ogrxzTwiHwEq/WKxZt2c592udIRqBqgckunnDUw6aUb3zH0A232qI4GsdYwJxR/+Rh/oZRgQx5NFXaao6t1OiM2MgpPJdc6rdIOScNxUStXQGluy+N/QNZMGd8hejVqSwq2HY4uP25YhZfCu9v5+6059hzc8o4=;9wOhpjCOLmi82qBLW6BFUg=="
 ---

@@ -34,6 +34,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Private AI summit with senators, titans of tech garners controversy"
+    excerpt: "\"This is the room you pull together when your staffers want pictures with tech industry AI celebrities. It's not the room you'd assemble when you want to better understand what AI is, how (and for whom) it functions,"
+    publishedDateTime: 2023-09-14T22:25:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/09/private-ai-summit-with-senate-titans-of-tech-garners-controversy/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/09/private-ai-summit-with-senate-titans-of-tech-garners-controversy/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/private-ai-summit-with-senate-titans-of-tech-garners-controversy/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 87
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/09/zuckerberg_insight_hero-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Tech Titans Meet Lawmakers On Ai Regulation"
     excerpt: "Top executives from some of the world's largest tech and web companies have reportedly concluded a closed-door meeting with U.S. lawmakers in Washin"
     publishedDateTime: 2023-09-14T08:33:00Z

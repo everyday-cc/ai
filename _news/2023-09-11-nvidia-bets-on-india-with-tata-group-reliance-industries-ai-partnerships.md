@@ -41,15 +41,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "‘Jugalbandi’ platform in G20 Summit pavilion shows India’s innovative Artificial Intelligence use"
-    excerpt: "To showcase India’s reach in power conversation through Artificial Intelligence (AI) solutions in any domain, ‘Jugalbandi’ has been set up at one of the pavillions at the G20 Summit venue in Pragati Maidan."
-    publishedDateTime: 2023-09-10T18:03:00Z
-    webUrl: "https://www.indiablooms.com/news-details/N/92021/-jugalbandi-platform-in-g20-summit-pavilion-shows-india-s-innovative-artificial-intelligence-use.html"
-    type: article
-    provider:
-      name: India Blooms
-      domain: indiablooms.com
-    quality: 6
 
 secured: "rEYpuwgDEZKyJBQRjV61P0NLQ7r2UGfpsHEzdsfTFgR/qOgeANZ6EZPvb24bBwr9FQWJgwkbzxYS8srsmmFlqqM5LE5heSK/3VYuCHJVyfGnM/0vz2ZJJHPhBKpIpAuVIWo3XTTukbmTpveXhFrfwjWom8c36YsVKbUUsgLFjDHNLQSfrXSpoJg5E+jnA/oDrpNynm+ku0UvTa6Xu+WDE0C0H7StSww9mKBLAIirrXgKlwuwbC+fHn+0kEWnTdM/gZdNuX0on3l6nfk8F/E2rXEnMEmoTi+n8cLO8+iMQdBMeUg93jRK5w0n7O1XeUoirlDBnPLvWnEKfcqo3RYvTncwJU2E/pSxZJ95axYGhpgpL22EyJ7SKiMvl4tKaC3EXo6Aamyy6sqD2ZfRX5hO5lEmlGc/AdJEIi2nyp8hKxTi12nzPO3YVc7fq0tUNG8mROjM/JOqTB/cn6UwlTeXBP7yeyLYvC3YE+Q3X0O2YUq8fxnsTQYh78cPNiXYAWUJAGLb4fmvuEcfH8oK3sG0zw==;jJTXUnHOF9fpQE/BrCJSAA=="
 ---

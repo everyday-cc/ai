@@ -36,6 +36,20 @@ related:
         width: 1032
         height: 580
         isCached: true
+  - title: "AI startup Helsing raises $223 million in Series B funding for defense solutions"
+    excerpt: "European artificial intelligence (AI) defense company Helsing revealed on Thursday, Sept.14, that it secured $223 million (approximately 209 million euros) in Series B funding, with General Catalyst, a venture capital firm, taking the lead. Swedish ..."
+    publishedDateTime: 2023-09-15T11:10:00Z
+    webUrl: "https://cointelegraph.com/news/ai-startup-helsing-raises-223-million-in-series-b-funding-for-defense-solutions"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 32
+    images:
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDkvMjVmOWYxODYtYmU0ZS00MmMyLThiNTItMGNlNTM2MjRiOGE5LmpwZw==.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "HpSH0Bk3pna4RUAOqC76t7FRU1kFnoU5ABWsekL2xexhsQxfKLHhOvKinMTd5SvAfTIhDosHOmu4VJSYgRaRN5AN+sIh9obQBUe8YWV96Z+lZda1BapA10Srrt6GbZ/Rj1ayPcACANpay9xqe/Uwi8m+J4yLAHG2NpZynj3xBa1FhbDK7pl5H/6Kge4V/fQieZ1y/G4tBJPJFc8e0XWZOLrkrR3nhIMzDe16cnv8wfZDZ0g3+FGHy8N4L4FdhDc3yu8OnSQVHAh0z4UVeE+rAEkO17Ijl/ItXCC11wOwvdKMe4Iy01onF3/d7+JOYFy272jUUqSigozUy9gyHQBeFygqQIb0SlebN9hK8QQ+b9c=;UG52/XOB0IuwSzllXhNbPg=="
 ---

@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Fear-Mongering And AI: Questions To Consider"
+    excerpt: "The term “artificial intelligence” is often used ubiquitously ... The topic of AI design is varied and includes topics such as deep learning, convolutional neural networks, explainability, transparent or black-box algorithms, locked systems, continuous ..."
+    publishedDateTime: 2023-09-15T11:47:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/15/fear-mongering-and-ai-questions-to-consider/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/15/fear-mongering-and-ai-questions-to-consider/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/09/15/fear-mongering-and-ai-questions-to-consider/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d24a5ca55da9197765f247/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 699
+        isCached: true
   - title: "The Future Of AI In Business: Predictions And How To Prepare"
     excerpt: "AI has exploded in popularity in 2023. Here are my predictions for what's to come with AI and how your business can prepare."
     publishedDateTime: 2023-09-13T11:44:00Z

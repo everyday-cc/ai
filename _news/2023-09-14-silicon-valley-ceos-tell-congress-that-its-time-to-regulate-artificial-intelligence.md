@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "As lawmakers eye regulation, AI could reshape Congress itself"
+    excerpt: "I understand the fear,” Speaker Kevin McCarthy said at this year’s Congressional Hackathon. But AI is poised to change how the House works."
+    publishedDateTime: 2023-09-15T10:10:00Z
+    webUrl: "https://rollcall.com/2023/09/15/ai-could-reshape-congress-hackathon-2023/"
+    type: article
+    provider:
+      name: Roll Call
+      domain: rollcall.com
+    quality: 19
 
 secured: "t6CyeVRkOKTYBldCByhpSkuv7kQlkvjjNkqZsKWZa1LoCs9A6/RqOnEbErVvvQAhNnPEPi+oLjuvGyPIrzl7AzVZfO4ryPXdbr9lJP1ddrBmaifncIIWrMn5ZEyrkcUz5H3dTbs4hg7R24wn/+DFsSecG8dGxaR0+VZ8tdGfmc/CRBgO/yJfk3qZcuDAyW396AY870hMQbZouopgR86dTs2IWVgLxtoru0jCvySu7xAFMjUVL9dIn9JYdiGJJPL4XOl1EOB1/iRUvrpEwO00pNdPfBZjvvQccoPGgM7SxpfZhROiHHVmkPcoV0YtwE9QNzwUMRxK0wexE2jcsejEclR3nivNxL4b0ybwzykaAtsdHxjML+4mDfOQga6LUpFaEU2yerUgEccCg9tZQUo8fAQqe9EMo0hjPXLmMC4xGLsuoQg36tVRkeBXVoxhmvPgrggm9XtHS0FIROKUyfDeeI8WNh+FiZAdE/pDv9qgEjMR5Wi6UwAx9nlx2KG0o0Ku/CY+aYrkuJ5m+sabXu8e9A==;PBOEvSc+cEJx2XH74VvCYw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://healthitanalytics.com/features/exploring-patient-provider-
 webUrl: "https://healthitanalytics.com/features/exploring-patient-provider-perceptions-of-healthcare-ai"
 type: article
 quality: 56
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -40,15 +40,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Can AI help improve outcomes for cancer patients?"
-    excerpt: "Using a voice-assisted, remote patient symptom monitoring system (VARSMS) developed through artificial intelligence and natural language processing technology, patients can be monitored remotely for post-recovery. With the goal of improving communication ..."
-    publishedDateTime: 2023-09-12T09:31:00Z
-    webUrl: "https://thedailyrecord.com/2023/09/12/can-ai-help-improve-outcomes-for-cancer-patients/"
-    type: article
-    provider:
-      name: The Daily Record (Maryland)
-      domain: thedailyrecord.com
-    quality: 21
   - title: "OSF HealthCare Increasing Access to Innovative Patient Care with Artificial Intelligence Diagnostic System"
     excerpt: "Digital Diagnostics, a leading artificial intelligence (AI) diagnostic healthcare company's flagship product, LumineticsCore™ ( formerly IDx-DR), is increasing access to innovative care at OSF HealthCare for people living with diabetes."
     publishedDateTime: 2023-09-12T13:02:00Z

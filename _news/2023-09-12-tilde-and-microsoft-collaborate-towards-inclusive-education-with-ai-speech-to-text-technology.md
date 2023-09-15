@@ -337,6 +337,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 27
+  - title: "Microsoft and Oracle Expand Partnership to Deliver Oracle Database Services on Oracle Cloud Infrastructure in Microsoft Azure"
+    excerpt: "AUSTIN, Texas and REDMOND, Wash., Sept. 14, 2023 /PRNewswire/ -- Oracle Corp and Microsoft Corp today announced Oracle Database@Azure, which gives customers direct access to Oracle database services running on Oracle Cloud Infrastructure (OCI) and deployed in Microsoft Azure datacenters."
+    publishedDateTime: 2023-09-14T20:09:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/09/14/9881646.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 27
+    images:
+      - url: "https://mma.prnewswire.com/media/2210359/Oracle_Microsoft_Joint_Image.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Microsoft and Esri to speed up access to Earth-observation data"
     excerpt: "Microsoft also added the Planetary Computer, a platform that combines multi-petabyte global datasets related to biodiversity and climate change with machine-learning tools, to Azure Space. In addition, NASA Langley Research Center, NASA Goddard Space ..."
     publishedDateTime: 2023-09-13T12:30:00Z
@@ -346,15 +360,6 @@ related:
       name: SpaceNews
       domain: spacenews.com
     quality: 19
-  - title: "Microsoft and Oracle expand partnership to deliver Oracle Database Services on Oracle Cloud Infrastructure in Microsoft Azure"
-    excerpt: "Microsoft joins Oracle as the only other hyperscaler to offer Oracle Cloud Infrastructure Database Services to simplify cloud migration, multicloud deployment and management Austin, TX and Redmond, WA — September 14,"
-    publishedDateTime: 2023-09-14T20:00:00Z
-    webUrl: "https://news.microsoft.com/2023/09/14/microsoft-and-oracle-expand-partnership-to-deliver-oracle-database-services-on-oracle-cloud-infrastructure-in-microsoft-azure/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 7
 
 secured: "jlWv2sxVSKFQVc7FGUnlW6vhhgwUVW1PLsUW+9sszKOkWzjw0pEh1jgXA8l0ObC4ChARUbXttDYqEQ7ictzD1aysr+Y2zfKN7Mb4ueE3ja54fANTi0n43WUiUe9BQPlQkZXDEMM2yInUZ7IfnKM5ZsYHxk4ZrlNiy7g6JoVTZN5xgcsk02QlQfErFyl0YuVr+u5cb/VG5wWqGNHvUe+/wk286mOc0I8SmJ8iwuWfN+8XDJSgMYCj1a/qDTYp+6uj0yy/pLk4xWrZA3v6+vLrIR95Q59z/4UzXl7ugiYREsCocWX+OIPlpC4pnSfe/k7h5InS8dx2NTcPT7hnX7JAeyxZvgnvWuTDE/FFBfdfaVxgEkT4CdN3lm0A6VTl2E80nFTMf+ffHyMvLg7Y5hpQ0YculQRnZ5KDgYjOtKQKHXvKdR/om3FWisUSoVZAeAzX10R6QNcNDv5iGtfQoghCeFV4/rAH5KAZEL8YhgjXL1JYcByqxplN8JE5nUbChVkwo5HNzP75WQ342sU9KG2qfQ==;yb5t9r+2/+opzrXLADIOww=="
 ---

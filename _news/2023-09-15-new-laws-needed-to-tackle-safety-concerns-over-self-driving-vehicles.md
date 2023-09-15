@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "MPs warn UK risks losing early advantage in self-driving vehicle technology"
+    excerpt: "MPs have urged the government to update self-driving vehicle (SDV) legislation in order to maintain the competitive advantage the UK currently has in the sector."
+    publishedDateTime: 2023-09-15T10:56:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2023/09/mps-warn-uk-risks-losing-early-advantage-in-self-driving-vehicle-technology/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 22
+    images:
+      - url: "https://eandt.theiet.org/media/22377/web-self-drive-conceptual-istock-926550444.jpg?center=0.3511111111111111,0.51&mode=crop&width=1200&height=450&rnd=133392512790000000"
+        width: 1200
+        height: 450
+        isCached: true
   - title: "techUK welcomes Transport Select Committee’s call to legislate for self-driving vehicles"
     excerpt: "UK welcomes the House of Commons Transport Select Committee’s call to pass to create the regulatory and legal framework for self-driving vehicles in the UK."
     publishedDateTime: 2023-09-15T08:40:00Z

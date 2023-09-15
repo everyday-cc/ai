@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Microsoft and Oracle expand partnership to deliver Oracle Database Services on Oracle Cloud Infrastructure in Microsoft Azure"
-excerpt: "Microsoft joins Oracle as the only other hyperscaler to offer Oracle Cloud Infrastructure Database Services to simplify cloud migration, multicloud deployment and management Austin, TX and Redmond, WA — September 14,"
-publishedDateTime: 2023-09-14T20:00:00Z
-originalUrl: "https://news.microsoft.com/2023/09/14/microsoft-and-oracle-expand-partnership-to-deliver-oracle-database-services-on-oracle-cloud-infrastructure-in-microsoft-azure/"
-webUrl: "https://news.microsoft.com/2023/09/14/microsoft-and-oracle-expand-partnership-to-deliver-oracle-database-services-on-oracle-cloud-infrastructure-in-microsoft-azure/"
+title: "Microsoft and Oracle Expand Partnership to Deliver Oracle Database Services on Oracle Cloud Infrastructure in Microsoft Azure"
+excerpt: "AUSTIN, Texas and REDMOND, Wash., Sept. 14, 2023 /PRNewswire/ -- Oracle Corp and Microsoft Corp today announced Oracle Database@Azure, which gives customers direct access to Oracle database services running on Oracle Cloud Infrastructure (OCI) and deployed in Microsoft Azure datacenters."
+publishedDateTime: 2023-09-14T20:09:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/09/14/9881646.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/09/14/9881646.htm"
 type: article
-quality: 7
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/2210359/Oracle_Microsoft_Joint_Image.jpg"
+    width: 400
+    height: 300
+    isCached: true
 
 related:
   - title: "Oracle brings its database infrastructure to Microsoft Azure"
@@ -358,6 +360,6 @@ related:
       domain: spacenews.com
     quality: 19
 
-secured: "znf4yJmCmcQSK2zhiXcthaDdFbrnb1NVxILR6lEn++kzzDfHCftFQwKBq9PIquplUrKpApXzlTzHKq3QUGxyiZ1RJfRRTt0LpSkRfcAlIHO+wofZ/iTBxhIOOANys2NaY6fP5J1SiukzVZT5+XMB+0+NM8u7ibd3YH3pkPRMs6Mx+7LC5jgzfLXFKtOf59Wg1h44UCArlanlxlr/F7ytdzXYwsoa7hdNeUnJAd3XNDdOTVcE2H+RdrO/w0aXoqLDX1HRSHTtPL2oy2CQIJmeN5AfsfSjTo4Rcw886iN5pqy3cGWqE0xxhrHOWXb0O1azJV9cVvtV83vRGVDK2yV+N9ZTiTH/WiQ4WPts6HtJ8TI=;G032A/A1XmqjSvgfHpO2CQ=="
+secured: "u3HrsleKNHE4exsJSbfq4STS4wJpuk7l7Xd9M9ZCRloqsjLgjr550hY5516lLhVwE1CUHGWvdwYih6RDg8Safan9w0Pt4zd9BnoMcWeGmIgYqNLxjHOq64LLLSDUiZf5CKiXBw1eTgMzx7NdL7c5ZcPOC7va3TfSh77GK6lItBqEORFJZLHOXghiwszLfcElpJ6XtYL7wJbhTUTOYzX4/nxVIBXPEMzTTIxrqrb2k5NcncrZjD5NXvAVUGi1CELGqd/chhnqabZfaWtUK8KYbvLVXgTfc2UsuAZwRBK3OBJXad48sba7uuR9zoF3T5m6EBRkfnnJyb3Bqi+3ed5fYDUmFeuHcjbO9i2TtXsRk4c=;Gp1tDXltOQ5WrOoWEkkjDg=="
 ---
 

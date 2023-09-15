@@ -38,6 +38,15 @@ related:
         width: 1480
         height: 832
         isCached: true
+  - title: "As lawmakers eye regulation, AI could reshape Congress itself"
+    excerpt: "I understand the fear,” Speaker Kevin McCarthy said at this year’s Congressional Hackathon. But AI is poised to change how the House works."
+    publishedDateTime: 2023-09-15T10:10:00Z
+    webUrl: "https://rollcall.com/2023/09/15/ai-could-reshape-congress-hackathon-2023/"
+    type: article
+    provider:
+      name: Roll Call
+      domain: rollcall.com
+    quality: 19
   - title: "Silicon Valley CEOs tell Congress that it's time to regulate artificial intelligence"
     excerpt: "Leaders of the United States' biggest tech companies appear to have agreed Wednesday that artificial intelligence (AI ... in various AI projects — from the programs behind Tesla's self-driving cars to being an early investor in OpenAI before being ..."
     publishedDateTime: 2023-09-14T14:43:00Z

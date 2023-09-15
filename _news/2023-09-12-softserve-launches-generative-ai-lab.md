@@ -220,6 +220,20 @@ related:
         width: 700
         height: 463
         isCached: true
+  - title: "My life as an AI chatbot operator"
+    excerpt: "Targeting writing and other humanities programmes was a canny recruiting decision. Aspiring writers and artists tend to be detail-oriented, emotionally astute and experienced in writing dialogue – useful traits to impart to a bot that is meant to emulate humans. And many want work that can complement and sustain creative projects or teaching."
+    publishedDateTime: 2023-09-15T10:52:00Z
+    webUrl: "https://www.economist.com/1843/2023/09/15/my-life-as-an-ai-chatbot-operator"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 39
+    images:
+      - url: "https://www.economist.com/img/b/6500/3656/90/media-assets/image/1843_20230915_1843_CHATBOT_TEASER.jpg"
+        width: 6500
+        height: 3656
+        isCached: true
   - title: "How artificial intelligence could scrap humanity’s ability to lie"
     excerpt: "“Lying tends to have a high negative effect: you feel a lot of guilt, shame or anxiety that you might get caught. And those negative affective words also pop out into your speech when you lie,” Hyde said."
     publishedDateTime: 2023-09-11T20:21:00Z
