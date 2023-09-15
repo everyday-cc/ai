@@ -71,6 +71,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Automated evaluation and security platform startup Patronus AI launches with $3M in funding"
+    excerpt: "Automated evaluation and security platform Patronus AI Inc. today launched out of stealth mode and announced that it has raised $3 million in seed funding."
+    publishedDateTime: 2023-09-15T00:28:00Z
+    webUrl: "https://siliconangle.com/2023/09/14/automated-evaluation-security-platform-startup-patronus-ai-launches-3m-funding/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 44
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/patronusai.jpg"
+        width: 2000
+        height: 1028
+        isCached: true
   - title: "EY invests $1.4 billion in AI tech, launches new platform"
     excerpt: "The Big Four company says its new EY.ai platform aims to help organizations adopt AI technologies and will be embedded into existing EY technologies with millions of users."
     publishedDateTime: 2023-09-14T11:24:00Z

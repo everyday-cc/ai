@@ -6,7 +6,7 @@ publishedDateTime: 2023-09-14T20:41:00Z
 originalUrl: "https://technical.ly/professional-development/ai-job-future-impact-ey-dan-diasio/"
 webUrl: "https://technical.ly/professional-development/ai-job-future-impact-ey-dan-diasio/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://technical.ly/wp-content/uploads/2023/09/1rzo9eL5F9cwQ5IzA9rj-4-0w1dg.jpg"

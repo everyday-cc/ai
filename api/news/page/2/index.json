@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-14-unpacking-five-key-claims-from-jacinta-prices-national-press-club-address-on-the-voice.md",
+      "title": "Unpacking five key claims from Jacinta Price’s National Press Club address on the voice",
+      "excerpt": "We look at the shadow Indigenous Australians minister’s comments on issues including colonisation and the power and composition of the voice to parliament",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/australia-news/2023/sep/14/unpacking-five-key-claims-from-jacinta-prices-national-press-club-address-on-the-voice",
+      "originalUrl": "https://www.theguardian.com/australia-news/2023/sep/14/unpacking-five-key-claims-from-jacinta-prices-national-press-club-address-on-the-voice",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/9b4449f199103d90285536814aabaa5e2ce492b0/0_237_4960_2976/master/4960.jpg?width=620&quality=85&auto=format&fit=max&s=cfc8498be2107dfad49887896b72a560",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/australia-news/2023/sep/14/unpacking-five-key-claims-from-jacinta-prices-national-press-club-address-on-the-voice",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/sep/14/unpacking-five-key-claims-from-jacinta-prices-national-press-club-address-on-the-voice",
+      "publishedDateTime": "2023-09-14T01:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-14-patterns-and-issues-in-ai-chip-design.md",
+      "title": "Patterns And Issues In AI Chip Design",
+      "excerpt": "AI is becoming more than a talking point for chip and system design, taking on increasingly complex tasks that are now competitive requirements in many markets. But the inclusion of AI, along with its machine learning and deep learning subcategories ...",
+      "sourceUrl": null,
+      "webUrl": "https://semiengineering.com/patterns-and-issues-in-ai-chip-design/",
+      "originalUrl": "https://semiengineering.com/patterns-and-issues-in-ai-chip-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://semiengineering.com/wp-content/uploads/AdobeStock_164317986-AI-scaled.jpeg?fit=2560%2C1707&ssl=1",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-14T00:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-14-ai-language-models-need-to-shrink-heres-why-smaller-may-be-better.md",
       "title": "AI language models need to shrink; here’s why smaller may be better",
       "excerpt": "Large language models (LLMs) used for generative AI tools can consume vast amounts of processor cycles and be costly to use. Smaller, more industry- or business-tailored models can often provide better results tailored to business needs.",
@@ -686,7 +781,7 @@
       "originalUrl": "https://venturebeat.com/ai/ey-launches-ai-platform-and-llm-after-1-4-billion-investment/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -1112,92 +1207,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-teslas-driverless-route-to-dominance.md",
-      "title": "Tesla’s (Driverless) Route to Dominance?",
-      "excerpt": "In 2016, Elon Musk promised every Tesla (TSLA) shipped would “have the hardware needed for full self-driving capability at a safety level substantially greater than that of a human driver.” It sounded grand. But who’s fooling who?",
-      "sourceUrl": null,
-      "webUrl": "https://moneymorning.com/2023/09/13/teslas-driverless-course-to-dominance/",
-      "originalUrl": "https://moneymorning.com/2023/09/13/teslas-driverless-course-to-dominance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://moneymorning.com/wp-content/blogs.dir/1/files/2020/12/Tesla-Cell-Phone.jpg",
-          "width": 1200,
-          "height": 774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://moneymorning.com/2023/09/13/teslas-driverless-course-to-dominance/amp/",
-      "cdnAmpWebUrl": "https://moneymorning-com.cdn.ampproject.org/c/s/moneymorning.com/2023/09/13/teslas-driverless-course-to-dominance/amp/",
-      "publishedDateTime": "2023-09-13T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Money Morning",
-        "domain": "moneymorning.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-7-promising-blue-chip-bargains-for-long-term-growth.md",
-      "title": "7 Promising Blue-Chip Bargains for Long-Term Growth",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Blue-Chip bargains are a sure way to add value to your portfolio. During high",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/7-promising-blue-chip-bargains-for-long-term-growth-1032626517",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/7-promising-blue-chip-bargains-for-long-term-growth-1032626517",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-13T04:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

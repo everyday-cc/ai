@@ -7,7 +7,7 @@ originalUrl: "https://www.newscientist.com/article/mg25934563-200-disinformation
 webUrl: "https://www.newscientist.com/article/mg25934563-200-disinformation-wars-the-fight-against-fake-news-in-the-age-of-ai/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,17 @@ images:
     width: 1350
     height: 900
     isCached: true
+
+related:
+  - title: "Google Nears Release of AI Software Gemini - the Information"
+    excerpt: "(Reuters) - Alphabet's Google has given a small group of companies access to an early version of Gemini, its conversational artificial intelligence software, The Information reported on Thursday, citing people familiar with the matter. Gemini is intended to compete with OpenAI's GPT-4 model, according to the report."
+    publishedDateTime: 2023-09-15T00:49:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-09-14/google-nears-release-of-ai-software-gemini-the-information"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
 
 secured: "6Oc0AmTHy7wAPMg/K7u+N4Hj3L9mnq6vuoSsikqAMdm88Y8vLVZJmuul6BBnHSkuoVy25KK2h85fmpsu7/Y2NKNv8o3+R+BD/y43ezSkXpaDegbH6BbMAMOEMjY6feQqSyemWmPDbT3vxpDNvPGzyvd5V5cwK4X9WvRxfiQNydD40gLW++xtotzHimdTeGgTUxEDI58LlFV+ke9Er/Ml2Pv4Xdo5PRWkl6KNnT8ycAPKJ963+DnOdqVfTD6dVZvxqJ9ijep/5H76ydwrX5EfUb4oJlp7zHYfpo6Psb+sdI9DDjE4XJ/AS6eOSPMRkgU005cFHd95YIDU1U2G9vxocvgshu/qunc4+8XYkbECXoMCh6+To3A5955MAflxR9nsCO8jfl2MSg+y0bG36SZpd7aOWa8LyChkov0ErGHDvrDwf51h8akeibx8BnLPJJC6/dKN+ip0IlQX1jcayGG5votovUmvZWuBFHnN3MBsbB3dusT6JmNW6Kzs8lY058+F7qWSDpAPefEJb5uztO7iVg==;PZ35bIs/i+OqYJ42nEE71A=="
 ---

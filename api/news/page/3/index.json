@@ -2,6 +2,92 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-13-teslas-driverless-route-to-dominance.md",
+      "title": "Tesla’s (Driverless) Route to Dominance?",
+      "excerpt": "In 2016, Elon Musk promised every Tesla (TSLA) shipped would “have the hardware needed for full self-driving capability at a safety level substantially greater than that of a human driver.” It sounded grand. But who’s fooling who?",
+      "sourceUrl": null,
+      "webUrl": "https://moneymorning.com/2023/09/13/teslas-driverless-course-to-dominance/",
+      "originalUrl": "https://moneymorning.com/2023/09/13/teslas-driverless-course-to-dominance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://moneymorning.com/wp-content/blogs.dir/1/files/2020/12/Tesla-Cell-Phone.jpg",
+          "width": 1200,
+          "height": 774,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://moneymorning.com/2023/09/13/teslas-driverless-course-to-dominance/amp/",
+      "cdnAmpWebUrl": "https://moneymorning-com.cdn.ampproject.org/c/s/moneymorning.com/2023/09/13/teslas-driverless-course-to-dominance/amp/",
+      "publishedDateTime": "2023-09-13T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Money Morning",
+        "domain": "moneymorning.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-13-7-promising-blue-chip-bargains-for-long-term-growth.md",
+      "title": "7 Promising Blue-Chip Bargains for Long-Term Growth",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Blue-Chip bargains are a sure way to add value to your portfolio. During high",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/7-promising-blue-chip-bargains-for-long-term-growth-1032626517",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/7-promising-blue-chip-bargains-for-long-term-growth-1032626517",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-13T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-13-how-to-prevent-ai-from-eroding-employees-critical-thinking-skills.md",
       "title": "How To Prevent AI From Eroding Employees' Critical Thinking Skills",
       "excerpt": "As AI continues to change the workplace, companies must ensure their employees are empowered to think critically.",
@@ -1146,100 +1232,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-accelerate-client-success-management-through-email-classification-with-hugging-face-on-amazon-sagemaker.md",
-      "title": "Accelerate client success management through email classification with Hugging Face on Amazon SageMaker",
-      "excerpt": "In this post, we share how SageMaker facilitates the data science team at Scalable to manage the lifecycle of a data science project efficiently, namely the email classifier project. The lifecycle starts with the initial phase of data analysis and exploration with SageMaker Studio; moves on to model",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-client-success-management-through-email-classification-with-hugging-face-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-client-success-management-through-email-classification-with-hugging-face-on-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/12/accelerate-client-success.jpg",
-          "width": 894,
-          "height": 447,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-12T09:05:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-senators-voice-skepticism-about-leader-schumers-ai-summit.md",
-      "title": "Senators voice skepticism about Leader Schumer's AI summit",
-      "excerpt": "These tech billionaires want to lobby Congress behind closed doors with no questions asked. That’s just plain wrong,” said Sen. Elizabeth Warren, D-Mass.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/congress/senators-voice-skepticism-leader-schumers-ai-summit-rcna104615",
-      "originalUrl": "https://www.nbcnews.com/politics/congress/senators-voice-skepticism-leader-schumers-ai-summit-rcna104615",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-09/230912-elizabeth-warren-se-1038a-81e91c.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna104615",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna104615",
-      "publishedDateTime": "2023-09-12T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

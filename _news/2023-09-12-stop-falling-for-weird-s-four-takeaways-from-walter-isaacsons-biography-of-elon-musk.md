@@ -9,7 +9,7 @@ ampWebUrl: "https://www.eastbaytimes.com/2023/09/12/stop-falling-for-weird-s-fou
 cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/09/12/stop-falling-for-weird-s-four-takeaways-from-walter-isaacsons-biography-of-elon-musk/amp/"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Is Elon Musk calculated or crazed? Walter Isaacson discusses his new book on the GeekWire Podcast"
+    excerpt: "You might not know it from his recent comments, but there was a time in the late-1990s when Elon Musk was a fan of Bill Gates and Microsoft. During his… Read More"
+    publishedDateTime: 2023-09-14T18:07:00Z
+    webUrl: "https://www.geekwire.com/2023/is-elon-musk-calculated-or-crazed-walter-isaacson-discusses-his-new-book-on-the-geekwire-podcast/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 43
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/09/isaacson-musk.png"
+        width: 630
+        height: 473
+        isCached: true
   - title: "Four takeaways from Walter Isaacson’s biography of Elon Musk"
     excerpt: "You’ll never be successful,” Errol Musk in 1989 told his 17-year-old son Elon, who was then preparing to fly from South Africa to Canada to find relatives and a college education."
     publishedDateTime: 2023-09-12T18:06:00Z

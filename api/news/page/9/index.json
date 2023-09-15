@@ -2,6 +2,103 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-09-08-startup-battlefield-200-fintech-and-hardware-edition-at-tc-disrupt-2003.md",
+      "title": "Startup Battlefield 200: Fintech and Hardware edition at TC Disrupt 2003",
+      "excerpt": "That’s where you’ll find the Startup Battlefield 200 ... without some cool hardware gadgets and robots. Early-stage startups are using their genius to create firefighting hardware, testing devices, a special AI-enabled machine that tells you exactly ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/09/07/startup-battlefield-200-fintech-and-hardware-edition-at-tc-disrupt-2003/",
+      "originalUrl": "https://techcrunch.com/2023/09/07/startup-battlefield-200-fintech-and-hardware-edition-at-tc-disrupt-2003/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/04/SUB200-General-Article-Image-Header-1920x1080-1.png?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/09/07/startup-battlefield-200-fintech-and-hardware-edition-at-tc-disrupt-2003/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/07/startup-battlefield-200-fintech-and-hardware-edition-at-tc-disrupt-2003/amp/",
+      "publishedDateTime": "2023-09-07T12:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-09-07-enable-pod-based-gpu-metrics-in-amazon-cloudwatch.md",
+      "title": "Enable pod-based GPU metrics in Amazon CloudWatch",
+      "excerpt": "This post details how to set up container-based GPU metrics and provides an example of collecting these metrics from EKS pods.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enable-pod-based-gpu-metrics-in-amazon-cloudwatch/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/enable-pod-based-gpu-metrics-in-amazon-cloudwatch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-07T11:14:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-09-08-can-empathy-boost-customer-service-levels-in-banking.md",
       "title": "Can Empathy Boost Customer Service Levels In Banking?",
       "excerpt": "While empathy in banking isn’t new and it has been benefitting financial ... engagement and better service levels in banking. In fact, new tech – cloud platforms and new data tools like Artificial Intelligence and Machine Learning are empowering ...",
@@ -1113,100 +1210,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-bengal-man-develops-robots-for-teaching-autistic-children-working-as-waiters.md",
-      "title": "Bengal man develops robots for teaching autistic children, working as waiters",
-      "excerpt": "A 62-year-old retired hospital employee has built robots at his own expense that can perform tasks which can help autistic children learn, spread awareness on diseases such as dengue and even work as a waiter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/health/2585086-bengal-man-develops-robots-for-teaching-autistic-children-working-as-waiters",
-      "originalUrl": "https://www.devdiscourse.com/article/health/2585086-bengal-man-develops-robots-for-teaching-autistic-children-working-as-waiters",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/04_02_2023_12_15_10_8349154.jpg?width=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/health/2585086-bengal-man-develops-robots-for-teaching-autistic-children-working-as-waiters?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/health/2585086-bengal-man-develops-robots-for-teaching-autistic-children-working-as-waiters?amp",
-      "publishedDateTime": "2023-09-07T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-how-we-chose-the-time100-most-influential-people-in-ai.md",
-      "title": "How We Chose the TIME100 Most Influential People in AI",
-      "excerpt": "Our first-ever list of the most influential people in AI features leaders, policymakers, artists and entrepreneurs from around the world",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6311323/how-we-chose-time100-ai/",
-      "originalUrl": "https://time.com/6311323/how-we-chose-time100-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.time.com/wp-content/uploads/2023/09/TIM231009-AI-CoverFINAL.jpg?quality&#x3D;85",
-          "width": 2363,
-          "height": 3150,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-07T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -79,6 +79,20 @@ related:
         width: 600
         height: 316
         isCached: true
+  - title: "Samunnati partners with Singapore-headquartered fintech finbots.ai to transform credit risk management using AI"
+    excerpt: "With this, Samunnati becomes the first Agri Enterprise in India to incorporate advanced AI-based solutions into a key pillar of its business, supporting its mission to drive greater financial inclusion for smallholder farmers and agri enterprises. Through this partnership, Samunnati has become the first client of Accel-backed finbotsAI in India."
+    publishedDateTime: 2023-09-15T01:48:00Z
+    webUrl: "https://www.digitimes.com/biz/news.asp?feed=2502"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 19
+    images:
+      - url: "https://img.digitimes.com/ad/en_20230821_scs1114_bigbutton.jpg"
+        width: 336
+        height: 281
+        isCached: true
 
 secured: "WM4F2j+TI3oqLSstJ/KKE8+IoMyP0/Qjn2XjPUiSX5MewLR7ax60xJko7WKaYVQWt4xYQN8mJ3i7Du0NtzHHlx9/Lk3hRPhwxTZuVZD5duf/4pvulIK0CqrHAhZ6fCoP2hRG5glLW9sNFlp7SFf0gKDj2N9F7EBuoSNIQZ+FT6QlGTsWi+pzI/0t9ysiCIIUH6qDmoskDK88iCgN2K3chvJXFKgmCReDiJMxC+515iEKKQDpsHZd6tGNo3FDlqk6+zKuyv5D/FKLk8JNtOk1LQsvcA6fdiBqYUETw7V8P+ibR24gkJHwJ+DyiRSf/137BBhSCbpaK9gMiRW3oo04JcU8T0HSChtSHHNdHYpiHpaSiF+umXjgN6WdTSZyHmclCfkIB9H8jVyAhxx9oJY4Y0rHt2nXk54Nxxc+tkLMAYGseoaPSgHXpO4/qVTDW7IucYD4U0mKxQKqQKqmy9fJCqm+8r0Jwd0duO9EFP6MxDMyoLgjYmaIz0yfasIHQs/qXzLMOoBkYHXu0qwsJNNM2A==;gsH4PW+bQ4jiU3hNJ0LF5w=="
 ---

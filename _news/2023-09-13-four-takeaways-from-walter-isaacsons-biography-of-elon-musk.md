@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Is Elon Musk calculated or crazed? Walter Isaacson discusses his new book on the GeekWire Podcast"
+    excerpt: "You might not know it from his recent comments, but there was a time in the late-1990s when Elon Musk was a fan of Bill Gates and Microsoft. During his… Read More"
+    publishedDateTime: 2023-09-14T18:07:00Z
+    webUrl: "https://www.geekwire.com/2023/is-elon-musk-calculated-or-crazed-walter-isaacson-discusses-his-new-book-on-the-geekwire-podcast/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 43
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/09/isaacson-musk.png"
+        width: 630
+        height: 473
+        isCached: true
   - title: "‘Stop falling for weird s—’: Four takeaways from Walter Isaacson’s biography of Elon Musk"
     excerpt: "Isaacson portrays Musk as a restless genius with a turbulent upbringing on the cusp of launching a new AI company along with his five other companies."
     publishedDateTime: 2023-09-12T16:57:00Z

@@ -2,6 +2,101 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2023-08-16-scientists-discover-external-protein-network-can-help-stabilize-neural-connections.md",
+      "title": "Scientists discover external protein network can help stabilize neural connections",
+      "excerpt": "used biochemical and genetic methods to explore the complex network of extracellular proteins maintaining the localization of AMPA-type glutamate receptors at neural synapses. The researchers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/08/230816114059.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/08/230816114059.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-16-superglue-benchmark-challenges-natural-language-processing-tasks.md",
+      "title": "SuperGLUE benchmark challenges natural language processing tasks",
+      "excerpt": "Artificial intelligence researchers want to advance natural language processing with the release of SuperGLUE. SuperGLUE builds off of the previous General Language Understanding Evaluation (GLUE ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/ai/superglue-benchmark-challenges-natural-language-processing-tasks/",
+      "originalUrl": "https://sdtimes.com/ai/superglue-benchmark-challenges-natural-language-processing-tasks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2019/08/wood-glue-596161_640.jpg",
+          "width": 640,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-16-aifi-is-using-ai-to-ensure-the-future-of-retail-is-autonomous-and-accessible-for-everyone.md",
       "title": "AiFi Is Using AI To Ensure The Future Of Retail Is Autonomous (And Accessible) For Everyone",
       "excerpt": "At a high level, Jorczak said AiFi exists to modernize and expedite the shopping experience by reducing long lines.",
@@ -1056,93 +1151,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-whatsapp-is-testing-ai-generated-stickers.md",
-      "title": "WhatsApp is testing AI-generated stickers",
-      "excerpt": "WhatsApp is testing the ability to create custom stickers using generative AI. According to WABetaInfo, the feature is available to a small number of testers through the Google Play Beta Program. Meta is said to be preparing to roll out the tool more broadly in the coming weeks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/whatsapp-is-testing-ai-generated-stickers-150614153.html",
-      "originalUrl": "https://www.engadget.com/whatsapp-is-testing-ai-generated-stickers-150614153.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/M4t6RCx511JKkPiOPQ21Vw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-08/8141dc10-3b7a-11ee-bcff-41515f8b20c0.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/whatsapp-is-testing-ai-generated-stickers-150614153.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/whatsapp-is-testing-ai-generated-stickers-150614153.html",
-      "publishedDateTime": "2023-08-15T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-enterprise-security-leaders-see-ai-and-machine-learning-as-the-biggest-near-term-cyberthreats-isg-study-finds.md",
-      "title": "Enterprise Security Leaders See AI and Machine Learning as the Biggest Near-Term Cyberthreats, ISG Study Finds",
-      "excerpt": "Global enterprise leaders see emerging AI and machine learning technologies as the biggest looming threat to cybersecurity, and are focusing future cyber investments on detection and prevention rather than remediation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-enterprise-security-leaders-see-ai-machine-learning-as-/2023/08/15/9864941.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-enterprise-security-leaders-see-ai-machine-learning-as-/2023/08/15/9864941.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-15T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AI in Security"
       ]
     }
   ],

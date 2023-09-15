@@ -35,7 +35,7 @@ related:
     provider:
       name: Technical
       domain: technical.ly
-    quality: 39
+    quality: 41
     images:
       - url: "https://technical.ly/wp-content/uploads/2023/09/1rzo9eL5F9cwQ5IzA9rj-4-0w1dg.jpg"
         width: 1024

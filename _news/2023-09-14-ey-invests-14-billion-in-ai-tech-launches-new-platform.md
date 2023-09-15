@@ -81,6 +81,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Automated evaluation and security platform startup Patronus AI launches with $3M in funding"
+    excerpt: "Automated evaluation and security platform Patronus AI Inc. today launched out of stealth mode and announced that it has raised $3 million in seed funding."
+    publishedDateTime: 2023-09-15T00:28:00Z
+    webUrl: "https://siliconangle.com/2023/09/14/automated-evaluation-security-platform-startup-patronus-ai-launches-3m-funding/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 44
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/patronusai.jpg"
+        width: 2000
+        height: 1028
+        isCached: true
 
 secured: "KLvx6mA0hw37ZL9nNUysRguUkP4uZponx14vE+C0GzCxbuEFaeERzG+mmid5SDEI5FYTWFe2gxsV1qQoL8uIiNyTPv8uVSZ6uJ2V/e1sHKzxk8uIu3MPo+AUgja3geZ1FyWsOXUvVztZuMLkSWc9Ueb/vdewVdFGLdv2ousAiATDBN3EorIofSMifsT7k70bqPjD0+Wmn3bRPrFHJJmrAn5gtfQ4uCGwyXBlBsvT6z8yxD+oEO9Hx8T8GH9dkhnPZ8Y2AdSc+WvhuYXeXAZn6IRnhCBDvZJDyU6L9V/kMcG31wuYfYAlhO+67vIfxniVWaa92baJbBSDlAAoMVbzAx/Kse+wpILazIGm5XaB9BWaF8BvEeb7XhnAtRm7HxEIW3GA1zF44oYD3Z9A776cps+erCEQdIDZdhcg56eHmszxzHLx0FJjwgHs0kycoSW8YR/4Dm4QF0Ux8GEl4KDYFLA15nat8CR3Smr7EJ8Mtz9U+nF7UvWygwbn0S2y5IFqpO4jihPrc7v3k+fbqwlVug==;hDkJOSiSCXwyI/KkMwe/Cw=="
 ---
