@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/15/fear-m
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/09/15/fear-mongering-and-ai-questions-to-consider/amp/"
 type: article
 quality: 91
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -48,15 +48,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Ecology and artificial intelligence: Stronger together"
-    excerpt: "Many of today's artificial intelligence systems loosely mimic the human brain. In a new paper, researchers suggest that another branch of biology -- ecology -- could inspire a whole new generation ..."
-    publishedDateTime: 2023-09-11T00:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/09/230911191010.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "COUNTER AI: Schools here and across the nation seeking smart AI policies"
     excerpt: "Schools in Aurora and across the country wade through a jungle of thorny issues surrounding artificial intelligence writing applications"
     publishedDateTime: 2023-09-14T20:09:00Z

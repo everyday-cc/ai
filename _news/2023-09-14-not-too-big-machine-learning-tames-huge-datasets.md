@@ -34,15 +34,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "Not too big: Machine learning tames huge data sets"
-    excerpt: "A machine-learning algorithm demonstrated the capability to process data that exceeds a computer’s available memory by identifying a massive data set’s key features and dividing them into manageable batches that don’t choke computer hardware."
-    publishedDateTime: 2023-09-11T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/1001033"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 19
 
 secured: "CrreW3NmjDKa53rKDhxpxkNVm3L52R8BaK45iaynS+6nbgNeGcIO4S5um4W49dEbeAFdkVSqITh/SFAEh+BzZ+E4i9jrKRCnhkypVQHv9k3/yG383IkIqGc3/ncGQdYZKJdoWrLUk1WLlX1WzOyUUbTzeZswapApRWDcBRi7jl4g7y9pT4tBWsdz7wPIokR86eKsbIiO/gCwKiXIbWZmXW5YS0O3JcTAP1wLq6bo1ZUNhaeWH5JnRMLW9eOzRhnMwXWTAnKj3+BNPSiRhfavaAnh6ohMANZC0iUzYwVmXq7h0BYFdCvJ3lUJa/ZkfT+OkcJh7wxCEfz8eWIp16dHFAHW5AF3xrp3IWywABr5RcnsAJkwrhJ5C8tpGcPCoSj8FwzhiFVAWTwGa6dJFWLFf9n7JRdSDMz3XYM2XpUFGMwl+GfGu2uTK8vBDEE1V1LHaKnm+KrIh2PvDP/H02t9ejX6YcyvYqyiIeJvklBqqKeSnUxt5qui4JWCOr50ivSIbZMsQ4zeOtajulONRP0mkw==;itOBxCvSR+/Xn2+QlLeu+Q=="
 ---

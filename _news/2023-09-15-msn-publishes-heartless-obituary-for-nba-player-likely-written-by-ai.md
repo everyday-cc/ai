@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mattnovak/2023/09/14/msn-publishes-hear
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/09/14/msn-publishes-heartless-obituary-for-nba-player-likely-written-by-ai/amp/"
 type: article
 quality: 87
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft’s News Portal Published AI-Generated Obituary of NBA Player Called “Useless”"
+    excerpt: "Microsoft's MSN.com news portal has been caught publishing a low-quality AI-written obituary with a shocking headline"
+    publishedDateTime: 2023-09-15T17:11:00Z
+    webUrl: "https://www.thurrott.com/cloud/289176/microsofts-start-ai-generated-obituary-uselss-nba-player"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 46
+    images:
+      - url: "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2023/09/Microsoft-Start-Ai-generated-obituary.jpg"
+        width: 1066
+        height: 600
+        isCached: true
   - title: "AI-generated obituary for Brandon Hunter calls deceased NBA player ‘useless’"
     excerpt: "An obituary headline that appears to be the product of artificial intelligence referred to former NBA player Brandon Hunter as “useless.”"
     publishedDateTime: 2023-09-14T21:41:00Z

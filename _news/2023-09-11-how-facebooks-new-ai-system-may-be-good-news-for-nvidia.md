@@ -9,7 +9,7 @@ ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/how-f
 cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/how-facebooks-new-ai-system-may-be-good-news-for-nvidia/103583656"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 765
     isCached: true
-
-related:
-  - title: "Facebook parent Meta developing new, more powerful AI system: WSJ"
-    excerpt: "The new AI system is intended to be as powerful as the most advanced model offered by OpenAI, WSJ said. Read more at straitstimes.com."
-    publishedDateTime: 2023-09-11T00:08:00Z
-    webUrl: "https://www.straitstimes.com/business/companies-markets/facebook-parent-meta-developing-new-more-powerful-ai-system-wsj"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 39
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/09/11/2023-07-27T104423Z1220490630RC2LB2AJOXAQRTRMADP3META-PLATFORMS-STOCKS.JPG"
-        width: 860
-        height: 573
-        isCached: true
 
 secured: "ja7jSCuSwtMntNJ5SB+4xYXqoZsg1rf859ehanv3musOZRR8gRBRBavBf+adgX2vcbPusXpnGavJx7PudVI83pQejC7qQzcqKoPpR+VvELy0K1OPImJHE8ETNY7IFPlRCNH78jf9zZHKHeyMyhbx+9kEbPczOXPSdwL5YVGmWnZ81us6sUOLR2kv7eyXbZeAay7M4v3z3eMY9sU4l+TiygRP2Bm/b+vRfrjJDMoUjdd+DsO13B2AK1JAHwsXgNf7yLus+u36HBrnUP22KFx121ivCGo22frNCm64DLfcxVttPMQ2Ngbmnm0WzTIBvWR22CxJSMNH6x0cMbc9vAm2/lRIbZkBYO3JfjNEP+DZF6I=;btEjvEZp8gdIUj9WMErjMQ=="
 ---

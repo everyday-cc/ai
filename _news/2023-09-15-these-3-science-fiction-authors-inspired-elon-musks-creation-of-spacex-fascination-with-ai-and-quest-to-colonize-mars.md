@@ -141,20 +141,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "U. community discusses integration of AI into academic, points to opportunities for innovation"
-    excerpt: "Provost Francis J. Doyle III identified the intersection of artificial intelligence and higher education as a University priority in an Aug. 31 letter to the community titled “Potential impact of AI on our academic mission."
-    publishedDateTime: 2023-09-11T01:01:00Z
-    webUrl: "https://www.browndailyherald.com/article/2023/09/u-community-discusses-integration-of-ai-into-academic-points-to-opportunities-for-innovation"
-    type: article
-    provider:
-      name: The Brown Daily Herald
-      domain: browndailyherald.com
-    quality: 27
-    images:
-      - url: "https://snworksceo.imgix.net/bdh/e5fe520b-9661-4b62-97b0-0aca8c65a60b.sized-1000x1000.jpg?w=800&dpr=2&ar=16%3A9&fit=crop&crop=faces"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "The UAW and Other Unions Must Focus More on AI and Automation in Their Negotiations"
     excerpt: "In its negotiations with the Big 3 car companies, the United Auto Workers’ priority is maximizing pay increases for its members. The UAW and many other trade unions should be equally concerned about the impact of AI and automation on jobs and how to prepare their members for this new world."
     publishedDateTime: 2023-09-15T12:05:00Z

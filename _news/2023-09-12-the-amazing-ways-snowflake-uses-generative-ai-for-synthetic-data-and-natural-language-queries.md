@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/09/12/the-amazing-ways
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/09/12/the-amazing-ways-snowflake-uses-generative-ai-for-synthetic-data-and-natural-language-queries/amp/"
 type: article
 quality: 78
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Will Large Language Models And Generative AI Impact Data Engineering?"
-    excerpt: "LLMs and Gen AI will play a pivotal role in shaping the data engineering landscape in the coming months and years."
-    publishedDateTime: 2023-09-13T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/13/how-will-large-language-models-and-generative-ai-impact-data-engineering/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 46
   - title: "Teradata Launches ask.ai, Brings Generative AI Capabilities to VantageCloud Lake"
     excerpt: "The new natural language interface, now in private preview, delivers the ease of use required to democratize cloud analytics."
     publishedDateTime: 2023-09-11T13:00:00Z

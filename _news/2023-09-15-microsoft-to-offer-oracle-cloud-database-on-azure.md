@@ -316,6 +316,20 @@ related:
       name: Slator
       domain: slator.com
     quality: 42
+  - title: "Microsoft and Oracle Expand Partnership to Deliver Oracle Database Services on OCI in Microsoft Azure"
+    excerpt: "and best-in-class services of Microsoft Azure, including best-in-class AI services like Azure OpenAI. This combination provides customers with more flexibility regarding where they run their workloads. It also provides a streamlined environment that ..."
+    publishedDateTime: 2023-09-15T16:20:00Z
+    webUrl: "https://www.datanami.com/this-just-in/microsoft-and-oracle-expand-partnership-to-deliver-oracle-database-services-on-oci-in-microsoft-azure/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
+        isCached: true
   - title: "Blackstraw Partners with Microsoft to Drive Enterprise-wide AI Adoption"
     excerpt: "Blackstraw AI announces partnership with Microsoft for its Solutions Partner Designation for Data & AI (Azure) and Digital & App Innovation (Azure)."
     publishedDateTime: 2023-09-12T12:41:00Z
@@ -353,6 +367,6 @@ related:
       domain: microsoft.com
     quality: 7
 
-secured: "673QzdENsq5RV3xTcqh86EbH8vzxmXf0RTkKHVUWefc9XMQnzu/ohjLnYUtQayWbzatS2v1aQGH7FGytHLFaqGcHdNyX603NVNVtTJ7vcUIHeUpfd9WLo6//G1B9rvZEKUg/h8Df/HLf0aaTsZXIhs3sdW2n0qBRTZ00ITe1lkMbfzHRxTHspfIiu+k0fSOGuXAhMz4Ol70K0qh7j6PRuZE2dhQK3XrSlO5KV4mUdjPaef0lZnbkLMVhuND0p370Q6/KVOsDJeipXQ4p/PjqVO3T3m7vDmhsRvLvq72b/QyPiztRAeYI/cZ+AK8eDjMEtA0mbwJuj70rrcyN4Ok+bpUmTqK7z0CJZu+fTO7VtlI=;Lxjkoov5iYSDT4e0ecOceA=="
+secured: "KeZYGSMxzOzRleVrCyV3ZeL1dpfERpQmBzQSCQUj4S8ZKKp1SBMvH43URSEooI/IoCcMyvKmuoltL5MKIZFU17FQtILbHvMTU857nLYaqvtvzlxScKxKK2hXiZKBmpwle9g8Uj5H5ezBEB9LwIpugN9m7GNnUBeoh4WXu/rHL4bfx1ceFu1MpUYq0yRid99t574XYQJ80b2fOWOqCMR9JmUhYhZWmEe5SBe9zmIOuPX0ySQciGMSO1JJncJTANWPQdi0+9pPLP8DtHsSM63k4mwV+qNt+BjeEWuDqaNTzH8d9bRY3TZ6Dv0XaKg3ZYAWpEK7ktj4x3vmulEnK5L+a+4pGm/It8NpHMsxnvIKGRjYQY7Dc/DNVqanXaKN126ZClNoWKA0JUkeFaO8v5QfgK+CKKiPJjnUjT4OZHtf2ap9NsesfXV4apfT5ujmFaBMJO1USdqpluXz68U6Psga8eyS6xYhpNShmynFJGZXEI7FnlYQAH6SqEn2+SqOnHMaEY32lmVELzt1AUr8YFNijQ==;xHt4znY0xoSnCKbQOaZVnA=="
 ---
 

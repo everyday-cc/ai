@@ -2,24 +2,24 @@
 category: news
 title: "RoboBusiness: NVIDIA to discuss role of Generative AI in robotics"
 excerpt: "We have seen a huge leap in the capabilities of Generative AI algorithms as demonstrated through ChatGPT, Stable Diffusion, and other algorithms. It is expected that Generative AI will also have a large impact on robotic reasoning, visual understanding, and physical execution abilities."
-publishedDateTime: 2023-09-12T21:17:00Z
-originalUrl: "https://www.therobotreport.com/robobusiness-nvidia-to-discuss-role-of-generative-ai-in-robotics/"
-webUrl: "https://www.therobotreport.com/robobusiness-nvidia-to-discuss-role-of-generative-ai-in-robotics/"
+publishedDateTime: 2023-09-13T00:17:00Z
+originalUrl: "https://www.roboticsbusinessreview.com/ai/robobusiness-nvidia-to-discuss-role-of-generative-ai-in-robotics/"
+webUrl: "https://www.roboticsbusinessreview.com/ai/robobusiness-nvidia-to-discuss-role-of-generative-ai-in-robotics/"
 type: article
-quality: 99
-heat: 129
-published: true
+quality: 69
+heat: -1
+published: false
 
 provider:
-  name: The Robot Report
-  domain: therobotreport.com
+  name: Robotics
+  domain: roboticsbusinessreview.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.therobotreport.com/wp-content/uploads/2023/06/chatgpt-robotics.jpg"
+  - url: "https://www.roboticsbusinessreview.com/wp-content/uploads/2023/09/chatgpt-robotics.jpg"
     width: 800
     height: 554
     isCached: true
@@ -41,19 +41,56 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Nvidia to build AI infrastructure and train engineers in India"
-    excerpt: "Following the meeting between India's Prime MInister Narendra Modia and Nvidia CEO Jensen Huang, Nvidia announced a partnership with Reliance Industries for buildning AI infrastructure and to train engineers at Tata Consultancy Services,"
-    publishedDateTime: 2023-09-11T02:14:00Z
-    webUrl: "https://www.digitimes.com/news/a20230911VL201/nvidia-india-ai-infrastructure-it+ce-software-big-data.html"
+  - title: "AI and HPC chips boost the verification and analysis business"
+    excerpt: "Driven by the AI frenzy, high-performance computing (HPC) chips are becoming pivotal in the semiconductor landscape, spotlighting advanced packaging technologies like CoWoS. Heat dissipation characteristics in HPC chips packaged through advanced techniques are now a focal point,"
+    publishedDateTime: 2023-09-12T03:00:00Z
+    webUrl: "https://www.digitimes.com/news/a20230911PD213/advanced-packaging-ai-analysis-and-verification-lab-hpc.html"
     type: article
     provider:
       name: Digi Times
       domain: digitimes.com
-    quality: 39
+    quality: 54
     images:
-      - url: "https://img.digitimes.com/newsshow/20230911vl201_files/4_2b.jpg"
-        width: 1280
-        height: 853
+      - url: "https://img.digitimes.com/newsshow/20230911pd213_files/1_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
+  - title: "As generative AI becomes a competitive advantage, how do you land a strategy right for your business?"
+    excerpt: "Understanding how generative AI can transform the way your organization operates is crucial as it becomes ubiquitous across industries"
+    publishedDateTime: 2023-09-13T13:54:00Z
+    webUrl: "https://venturebeat.com/ai/as-generative-ai-becomes-a-competitive-advantage-how-do-you-land-a-strategy-right-for-your-business/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 52
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/09/AdobeStock_310133876.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How To Use AI To Your Business’s Advantage"
+    excerpt: "When incorporated wisely, AI technologies open new horizons for delivering products that stand out on the market and bring unique value to your customers."
+    publishedDateTime: 2023-09-11T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/how-to-use-ai-to-your-businesss-advantage/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "The Future of BaaS: Exploring the Top Predictions for 2022 and Beyond"
+    excerpt: "Welcome to the future of BaaS, where innovation and technology collide to reshape the way businesses operate. As we step into 2022 and beyond, it’s time to unravel the top predictions that will revolutionize this ever-evolving landscape."
+    publishedDateTime: 2023-09-14T15:33:00Z
+    webUrl: "https://techbullion.com/the-future-of-baas-exploring-the-top-predictions-for-2022-and-beyond/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 24
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/09/Untitled-design-2023-09-14T162953.867.png"
+        width: 800
+        height: 400
         isCached: true
   - title: "AI Trends In International Business: Insights from Three Leaders"
     excerpt: "Three industry leaders in AI stand out by demonstrating their shared backgrounds and training that led them each to have unparalleled success in AI: Kai-Fu Lee, Harry Shum and Qi Lu."
@@ -65,6 +102,6 @@ related:
       domain: usatoday.com
     quality: 17
 
-secured: "PmT1QTjD6FqFhQozdG6OSPjuxgB6d1GetOMmU1sxhzbl2NTqd0v8mTcVZEUcoeYFBz0RXzU9abwF6jASokO6zQIE6sLStZEbmf7uzfOZo0xuQcIcvtpnNiQvtHxuPNgrPzaU4ebjyUMi2sHgH56LBzYSNiccdOu6ptTfhCv+1N1po0L+XwX0Y1KSmzqYRjiIjyYi+lmJUvRuKtsu/Xj72E8ndrSzCYYurpwLHxBBniAUdT5iCPr97pufKdkzwV+ojemtfj2woXJXqQI+KOoBDcnw+GlX+Kd2mIbDDFpN4IWO7LlwkYlF1pgCoyVHkePs1bhoS+e1CXhz6grFL/CNMrcCr8zaLEkSXamcTAmliPc=;kDJ1FqZHefoYrn8zO9xDtg=="
+secured: "fCiPfjd4/i18detevi2YrelJft7FkwS+LS2ZxbtgMPypD7Dk0IMi63RsKsvsPvoXzvTSiVy2XA2QsfPta8gjv2Vt/qEzYLkXUB4V9x2U6a82SJnioo0dkH/4IZl9Dm8Y8seRrfeA9Wp/zxx+MN11kgSwKAgo4olqJxPsZAL0sx1oDhdOKMO/oGhPRjWg8pQatV1aeXiSFDdNjC+GblikC84SKfWefeqCvBMOUs/UDTpOTxtabjmb5HChL29dvUaeSx9zftF5xCz5iH0/3O8U7m2SJBXCqHsVMP2Jl+ipQM8NYGvxfkclJa6sGvF6ZLX8xuGxqxPIJu6yrYuXLMqwdbwKjb81lfbE7QvnE9s570o=;E7TY3wuTqoTzIvZBYtlx6w=="
 ---
 

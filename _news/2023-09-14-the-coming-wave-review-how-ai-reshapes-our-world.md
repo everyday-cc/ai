@@ -23,17 +23,6 @@ images:
     height: 900
     isCached: true
 
-related:
-  - title: "The AI Era Requires a Reskilling Revolution"
-    excerpt: "Artificial intelligence (AI) technologies are on the rise and have already had a positive impact on work: They have reduced repetition and improved efficiency."
-    publishedDateTime: 2023-09-13T18:14:00Z
-    webUrl: "https://www.thestreet.com/csuiteadvisors/stories/sellix-daniele-servadei-the-ai-era-requires-a-reskilling-revolution"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 17
-
 secured: "EMl4Pll5eHD/lpIZDrEBQ8+UurgOirZGvltbb4g5LJ12aPHP5jKP0QE7+O8HKljB49ohpflrfdxJGub2D+ozlmM9iEw/gzEJL0gybeIycLfaOUPEDxwT/gvACWK/y1hE6T6en8qJK0hCYd+myjpIzQAn1dYruMG39HGHxVizzYMNfqhVK2DFpRTVivqqkkw5I58+xEoy0MXu8pCu0DLVzbjK2xmwl125hRWDI9rSTzIafx4KcPIIEa3JTIr/Q3xaFXnU1OKvLOw9PyB8ar96DP0Qg8OZSoUQ2RUJESsOOjjRN5vZScfwTfgcE5nGfUBBQjjP4MvBG03qj4mP3T7M5HDGtIv9lTqCf8OF/A2m8FM=;QSktTE0RmU8FKW1Eo6sMZA=="
 ---
 

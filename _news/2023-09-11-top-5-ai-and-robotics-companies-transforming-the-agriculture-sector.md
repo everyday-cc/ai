@@ -9,7 +9,7 @@ ampWebUrl: "https://www.insidermonkey.com/blog/top-5-ai-and-robotics-companies-t
 cdnAmpWebUrl: "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/top-5-ai-and-robotics-companies-transforming-the-agriculture-sector-1192684/?amp=1"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "‘The next phase for us is AI transformation’"
-    excerpt: "India holds immense importance as a market for Microsoft, and we are committed to supporting its digital acceleration journey."
-    publishedDateTime: 2023-09-10T23:10:00Z
-    webUrl: "https://www.financialexpress.com/business/industry/the-next-phase-for-us-is-ai-transformation/3238978/"
-    ampWebUrl: "https://www.financialexpress.com/business/industry/the-next-phase-for-us-is-ai-transformation/3238978/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/industry/the-next-phase-for-us-is-ai-transformation/3238978/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/Artificial-Intelligence.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "15 Years After The Financial Crisis: Data And AI Transformation Efforts Progress Slowly For Many Leading Companies"
     excerpt: "Activities requiring advanced analytics, machine learning, and artificial intelligence (AI) have been incorporated into the CDO/CDAO mandate."
     publishedDateTime: 2023-09-13T23:48:00Z

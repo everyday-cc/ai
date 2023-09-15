@@ -45,22 +45,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "‘The next phase for us is AI transformation’"
-    excerpt: "India holds immense importance as a market for Microsoft, and we are committed to supporting its digital acceleration journey."
-    publishedDateTime: 2023-09-10T23:10:00Z
-    webUrl: "https://www.financialexpress.com/business/industry/the-next-phase-for-us-is-ai-transformation/3238978/"
-    ampWebUrl: "https://www.financialexpress.com/business/industry/the-next-phase-for-us-is-ai-transformation/3238978/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/industry/the-next-phase-for-us-is-ai-transformation/3238978/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/Artificial-Intelligence.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The AI age brings promise and troubles"
     excerpt: "“If you’re doing a deal, and you’re getting a bunch of representations and warranties, there are different ways that AI events could manifest to impact them.” Mr Willmott thought that we might soon start to see AI exclusions included in insurance ..."
     publishedDateTime: 2023-09-13T15:57:00Z

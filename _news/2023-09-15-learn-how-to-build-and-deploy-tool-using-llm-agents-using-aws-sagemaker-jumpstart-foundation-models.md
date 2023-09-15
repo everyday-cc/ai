@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/learn-how-to-build-a
 webUrl: "https://aws.amazon.com/blogs/machine-learning/learn-how-to-build-and-deploy-tool-using-llm-agents-using-aws-sagemaker-jumpstart-foundation-models/"
 type: article
 quality: 90
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 77
+  - title: "AI and Machine Learning Usage up 15.5% Among Marketing Teams, Snowflake Modern Marketing Data Stack Report Finds"
+    excerpt: "Customer adoption of tools or platforms in the Snowflake Data Cloud that power AI & Machine Learning is up 15.5% YoY as marketers begin to explore the potential impact of large language models and generative AI on their work."
+    publishedDateTime: 2023-09-15T17:04:00Z
+    webUrl: "https://www.datanami.com/this-just-in/ai-and-machine-learning-usage-up-15-5-among-marketing-teams-snowflake-modern-marketing-data-stack-report-finds/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 50
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
+        isCached: true
 
 secured: "BVeKgCSlxkYHtE3OwhV30J+nmH71hSdiYzgTs9tlvuNVAFWoE7Awdx3of7hXtsD0RS1g5rya3cAPMaL18/KeAR4Vx4JCtD2m235LikbNm+rjP5nMrj0jMPOk4mNecY93IfDFWehhJzBh7QRGoyKWPvhbhf32KroyL37ovrb+G4oc1G7A5+Fsd6MWLmxt2nzXbt25CO+ZW9ttH7KDXCGNghMaM6Ba8isM6A4hecP5l+GHdEQZk8sRblv1Erz1TbfrdMfBqG6rCJIVK5bRrcoPf7CcPjiW2naWv3Lt0QpRCWgT549DwBFlc3CwOl6KDwKuil7sJEgiv1jUJJUTmLOUaMXkNH1MIgcQVHt1hNfV3xk=;qYnnf+csXR3JuQkAjEFQxw=="
 ---

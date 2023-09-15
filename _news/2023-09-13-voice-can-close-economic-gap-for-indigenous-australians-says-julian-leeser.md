@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Asking Australia for an Indigenous voice isn’t new – it’s been a long and difficult struggle"
-    excerpt: "Without knowledge of this history we believe it’s impossible for voters to understand where the campaign for Indigenous recognition and the voice has come from. We believe that empathy can only be built on knowledge and understanding. In the words of ..."
-    publishedDateTime: 2023-09-11T00:29:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/sep/11/asking-australia-for-an-indigenous-voice-isnt-new-its-been-a-long-and-difficult-struggle"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/sep/11/asking-australia-for-an-indigenous-voice-isnt-new-its-been-a-long-and-difficult-struggle"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/sep/11/asking-australia-for-an-indigenous-voice-isnt-new-its-been-a-long-and-difficult-struggle"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 33
-    images:
-      - url: "https://i.guim.co.uk/img/media/aee193e0499c6cb902265e7fb643e0fcdc323ff3/0_239_4080_2448/master/4080.jpg?width=620&quality=85&auto=format&fit=max&s=27953997f7720fc22d1f6a1a39685756"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Less 1:N facial recognition searches, data sharing proposed in Australia gov’t ID bills"
     excerpt: "The Identity Verification Services Bill 2023 would block most of the planned government uses of one-to-many facial recognition."
     publishedDateTime: 2023-09-13T20:09:00Z

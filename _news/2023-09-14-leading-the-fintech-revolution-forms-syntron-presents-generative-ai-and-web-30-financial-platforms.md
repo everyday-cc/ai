@@ -258,20 +258,6 @@ related:
       name: CRN
       domain: crn.com
     quality: 34
-  - title: "Meta Platforms reportedly building open-source generative AI system to rival OpenAI’s ChatGPT"
-    excerpt: "Facebook and Instagram parent Meta Platforms Inc. is looking to rival OpenAI LP in the generative artificial intelligence landscape with an alternative, but open-source model that’s likely to be as powerful as GPT-4."
-    publishedDateTime: 2023-09-11T00:20:00Z
-    webUrl: "https://siliconangle.com/2023/09/10/meta-platforms-reportedly-building-open-source-generative-ai-system-rival-openais-chatgpt/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 28
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/41118893354_edd6aac12d_k-AnthonyQuintano-Flickr-768x525.jpg"
-        width: 768
-        height: 525
-        isCached: true
   - title: "Emagia Introduces GiaGPT: A Groundbreaking Generative AI Solution for Finance Operations"
     excerpt: "Hyderabad (Telangana) [India], September 11: Today, Emagia, a leading innovator in Autonomous Finance solutions, announced the launch of GiaGPT, their latest Generative AI solution tailored for finance operations executives."
     publishedDateTime: 2023-09-11T14:14:00Z

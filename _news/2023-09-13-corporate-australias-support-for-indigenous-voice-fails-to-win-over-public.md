@@ -9,7 +9,7 @@ ampWebUrl: "https://www.aljazeera.com/amp/economy/2023/9/13/corporate-australia-
 cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2023/9/13/corporate-australia-backed-a-voice-on-indigenous-rights-it-now-faces-defeat"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -40,22 +40,6 @@ related:
     quality: 42
     images:
       - url: "https://i.guim.co.uk/img/media/69081abf77a67b19cd6d3e0d678c8017139bdc52/0_304_4554_2732/master/4554.jpg?width=620&quality=85&auto=format&fit=max&s=a40d80af7771d04731bde722b09a4510"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Asking Australia for an Indigenous voice isn’t new – it’s been a long and difficult struggle"
-    excerpt: "Without knowledge of this history we believe it’s impossible for voters to understand where the campaign for Indigenous recognition and the voice has come from. We believe that empathy can only be built on knowledge and understanding. In the words of ..."
-    publishedDateTime: 2023-09-11T00:29:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/sep/11/asking-australia-for-an-indigenous-voice-isnt-new-its-been-a-long-and-difficult-struggle"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/sep/11/asking-australia-for-an-indigenous-voice-isnt-new-its-been-a-long-and-difficult-struggle"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/sep/11/asking-australia-for-an-indigenous-voice-isnt-new-its-been-a-long-and-difficult-struggle"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 33
-    images:
-      - url: "https://i.guim.co.uk/img/media/aee193e0499c6cb902265e7fb643e0fcdc323ff3/0_239_4080_2448/master/4080.jpg?width=620&quality=85&auto=format&fit=max&s=27953997f7720fc22d1f6a1a39685756"
         width: 620
         height: 372
         isCached: true

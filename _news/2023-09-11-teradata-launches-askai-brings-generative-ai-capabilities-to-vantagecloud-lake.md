@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How Will Large Language Models And Generative AI Impact Data Engineering?"
-    excerpt: "LLMs and Gen AI will play a pivotal role in shaping the data engineering landscape in the coming months and years."
-    publishedDateTime: 2023-09-13T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/13/how-will-large-language-models-and-generative-ai-impact-data-engineering/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 46
 
 secured: "YL77uU9NVJcYJ27b2zRpy2M907dyDBhjiqCWMje0QMeUkCuJIctWJftmXBoEj9qFOZSz6iBE1wtnn5d6LNKlnmiLhqiO3Q/l0Oeey+/qQg4nT56SSKOSMR3wdnJ8grAhMM2sizuiH9op3KH3uSIzBO4LEvBp+xbJBZuzx4F5phAEGZkQRPnXz14Dm0nAW86AP4XEsHDVpZ6s6d175hKvPRV92heHGJeooPS0YI0VZqvPmnF22vxdybjsQ2f6J/8n8dufHwiVhB/j52B6Jkp49yZru2g0XxrpSvIgSLCbBaD8qa87y1ZuQ/G6cwqo6uKYx+XPvAkYM1zb7GJXce31Rk64q0nvscn9z3cugPqeAX0=;XNkmkLfSYUY6DSJzSd/Stg=="
 ---

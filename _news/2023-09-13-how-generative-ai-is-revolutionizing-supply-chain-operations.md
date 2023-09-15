@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-generative-ai-is-revolutionizing-supp
 webUrl: "https://www.ibm.com/blog/how-generative-ai-is-revolutionizing-supply-chain-operations/"
 type: article
 quality: 99
-heat: 349
+heat: 339
 published: true
 
 provider:
@@ -246,20 +246,6 @@ related:
       name: CRN
       domain: crn.com
     quality: 34
-  - title: "Meta Platforms reportedly building open-source generative AI system to rival OpenAI’s ChatGPT"
-    excerpt: "Facebook and Instagram parent Meta Platforms Inc. is looking to rival OpenAI LP in the generative artificial intelligence landscape with an alternative, but open-source model that’s likely to be as powerful as GPT-4."
-    publishedDateTime: 2023-09-11T00:20:00Z
-    webUrl: "https://siliconangle.com/2023/09/10/meta-platforms-reportedly-building-open-source-generative-ai-system-rival-openais-chatgpt/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 28
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/41118893354_edd6aac12d_k-AnthonyQuintano-Flickr-768x525.jpg"
-        width: 768
-        height: 525
-        isCached: true
   - title: "Leading The Fintech Revolution: Forms Syntron Presents Generative Ai And Web 3.0 Financial Platforms"
     excerpt: "Empowered by Microsoft, FORMS Syntron unleashes Banking Copilot and FINNOSafe to transform the financial sectorHONG KONG SAR - Media OutReac"
     publishedDateTime: 2023-09-14T09:28:00Z

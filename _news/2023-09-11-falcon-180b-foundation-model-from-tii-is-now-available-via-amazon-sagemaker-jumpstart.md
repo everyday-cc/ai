@@ -37,6 +37,20 @@ related:
         width: 821
         height: 521
         isCached: true
+  - title: "AI and Machine Learning Usage up 15.5% Among Marketing Teams, Snowflake Modern Marketing Data Stack Report Finds"
+    excerpt: "Customer adoption of tools or platforms in the Snowflake Data Cloud that power AI & Machine Learning is up 15.5% YoY as marketers begin to explore the potential impact of large language models and generative AI on their work."
+    publishedDateTime: 2023-09-15T17:04:00Z
+    webUrl: "https://www.datanami.com/this-just-in/ai-and-machine-learning-usage-up-15-5-among-marketing-teams-snowflake-modern-marketing-data-stack-report-finds/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 50
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
+        isCached: true
 
 secured: "d/OoGMB3kkTxR1qSI5tx45UIRI+qZLiV3szye9QbQByiE6lSyy64aXryT/l3PfGnigUpa04Efi+G8awMnZnJUEV5FVA5yrlUWZIeUoPFayyTGWQff+foBkHE27ikh+5rkP1cpaKaSh8NS0i4YuOAMICb2wm+z23qAB/jdeloqh5bmOfKSIcijjSdnkHPWnIprShODPO42tUlV3DXD4SLslfXZpQ+HO6bASqfqzqTpryglfriH99hLdGKvzcFsideohq9F5Xez42kDE7eyTwg18l08vXksiiQpwb8qMP1Og3+0jpNg3RoVPm7G9o/bH231qcWmgyqOJi+mR3ZHNgmXqlU+TF1ez4i3hqvh458AqY=;Z8ZuJRLdz7GxtGgBAawioA=="
 ---
