@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/34506273"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34506273"
 type: article
 quality: 63
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Benzinga.com
@@ -25,6 +25,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Repentance and Revolution: A Teaching for Rosh Hashanah"
+    excerpt: "Then I enter Rosh Hashanah services. As the ark is opened, the congregation recites Psalm 24. “Who may ascend the mountain of God? Who may stand in [God’s] holy place? One who has clean hands and a pure heart,"
+    publishedDateTime: 2023-09-15T04:03:00Z
+    webUrl: "https://blogs.timesofisrael.com/repentance-and-revolution-a-teaching-for-rosh-hashanah/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 24
+    images:
+      - url: "https://static.timesofisrael.com/blogs/uploads/2023/09/Screenshot-2023-09-14-213927.png"
+        width: 572
+        height: 373
+        isCached: true
 
 secured: "g/9Vmrk4BQADkhUaqoMPwktxVaad66P2271iZNy/ADoe2b3EU3pmaQJH8l4yXxtEBqVYGra4BQ2nQ//kgMPue/Pi79lef/21uRpnYkGufD9qG/bqQA3vEhxvIQSNNOMW6Jt/Ev7orZdr2cT15ybC+qSEveAKreA4kB9bna3WTnNBMBv6CnWqA8vk8H5WHj0aCiKZ9GaG7SSzQubdtQ8jkjtiIjPIDiEm6tM9VFPcs8Zpz6ykCvKOzWkAsAka85V94Zr1a2IMHhMz4CPyODKRVqQDfMBQyw5kaAVhy8EsFdB7fSlacWy7RHSfteVTgyKYK/1wti8deR1Ziw5ZytlPnHoZyer57mup8VBN1vxNv8A=;BlkOPLQiYVZ2ob7oCJS2Jw=="
 ---

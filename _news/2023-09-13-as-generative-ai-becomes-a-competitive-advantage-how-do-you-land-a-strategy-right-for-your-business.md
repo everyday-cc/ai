@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/as-generative-ai-becomes-a-competitive-
 webUrl: "https://venturebeat.com/ai/as-generative-ai-becomes-a-competitive-advantage-how-do-you-land-a-strategy-right-for-your-business/"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Intuit Assist Brings Generative AI To Small Business And Consumer Portfolio"
+    excerpt: "Ranked Industry Analyst Patrick Moorhead focuses on how Intuit Assist could give a boost to each of Intuit’s major products."
+    publishedDateTime: 2023-09-11T19:14:00Z
+    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/09/11/intuit-assist-brings-generative-ai-to-small-business-and-consumer-portfolio/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "F/2OYf55b1laeSE0GdsWbynMf5Oe6JxXy4JiuSQfOI4ErEP/OMt0x6H7oDS/yahVA+dC3xiSVGSSa3z6zNcUMeFHX2MqJ83XEIGBcv+AsL4RoM66yNA1KpxKAnYd0TzxRZxJskv7aEld5XHrXaBqsw+UiRge76v9z1CHlM9nWwc/IJHsvegJZdHvuZ7q2cxlHf1KbjCB+Cx1hfkSYuf32grtrOxn5rg/lh6lRrd2r2wQIRoTpOJRDqWikTPjp6d32Pls9zILzaOfvvFRkRmPnu8EMGv35qSLWHfiHG32qePR5wkGrYkIcJB/CFLv8nZL/fLdz+j8+YuPOhh/fPjEwwxz3IElCLrwPkJu9rMBFQU=;j1cLONVwcw/xUWm5Hjvt9g=="
 ---

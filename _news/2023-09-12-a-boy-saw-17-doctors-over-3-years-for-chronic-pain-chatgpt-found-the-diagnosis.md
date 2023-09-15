@@ -174,20 +174,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "AI technology behind ChatGPT was built in Iowa — with a lot of water"
-    excerpt: "Microsoft made its first $1 billion investment in San Francisco-based OpenAI in 2019, more than two years before the startup introduced ChatGPT and sparked worldwide fascination with AI advancements. As part of the deal, the software giant would supply computing power needed to train the AI models."
-    publishedDateTime: 2023-09-10T09:11:00Z
-    webUrl: "https://www.newstribune.com/news/2023/sep/10/ai-technology-behind-chatgpt-was-built-in-iowa/"
-    type: article
-    provider:
-      name: News Tribune
-      domain: newstribune.com
-    quality: 39
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/205284161_205284161-4c363406331a4942848999df02e84f49_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 400
-        isCached: true
   - title: "AI Miracle: How ChatGPT Cracked a Boy's Chronic Pain Mystery"
     excerpt: "Despite numerous efforts - including an orthodontic intervention to address a narrow palate and a brief foray into physical therapy prompted by concerns ... to the potential harmony between artificial intelligence and human perseverance, uniting in the ..."
     publishedDateTime: 2023-09-12T16:19:00Z

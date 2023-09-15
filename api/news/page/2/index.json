@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-09-14-unpacking-five-key-claims-from-jacinta-prices-national-press-club-address-on-the-voice.md",
-      "title": "Unpacking five key claims from Jacinta Price’s National Press Club address on the voice",
-      "excerpt": "We look at the shadow Indigenous Australians minister’s comments on issues including colonisation and the power and composition of the voice to parliament",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/australia-news/2023/sep/14/unpacking-five-key-claims-from-jacinta-prices-national-press-club-address-on-the-voice",
-      "originalUrl": "https://www.theguardian.com/australia-news/2023/sep/14/unpacking-five-key-claims-from-jacinta-prices-national-press-club-address-on-the-voice",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/9b4449f199103d90285536814aabaa5e2ce492b0/0_237_4960_2976/master/4960.jpg?width=620&quality=85&auto=format&fit=max&s=cfc8498be2107dfad49887896b72a560",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/australia-news/2023/sep/14/unpacking-five-key-claims-from-jacinta-prices-national-press-club-address-on-the-voice",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/sep/14/unpacking-five-key-claims-from-jacinta-prices-national-press-club-address-on-the-voice",
-      "publishedDateTime": "2023-09-14T01:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-14-patterns-and-issues-in-ai-chip-design.md",
       "title": "Patterns And Issues In AI Chip Design",
       "excerpt": "AI is becoming more than a talking point for chip and system design, taking on increasingly complex tasks that are now competitive requirements in many markets. But the inclusion of AI, along with its machine learning and deep learning subcategories ...",
@@ -149,7 +97,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/currencies/thailands-kbank-starts-100m-fund-targeting-ai-and-web3-1032629219",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -245,7 +193,7 @@
       "originalUrl": "https://venturebeat.com/ai/arm-to-raise-4-7b-in-ipo-that-values-chip-designer-at-54-5-billion/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -434,7 +382,7 @@
       "originalUrl": "https://www.theguardian.com/technology/2023/sep/13/tech-leaders-washington-ai-saferty-forum-elon-musk-zuckerberg-pichai?ref=biztoc.com",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -485,7 +433,7 @@
       "originalUrl": "https://www.forbes.com/sites/eliamdur/2023/09/13/pitfalls-in-artificial-intelligence-at-least-for-now/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -666,6 +614,49 @@
         "AI Hardware",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-09-14-the-ai-revolution-will-artificial-intelligence-shape-the-future-of-cannabis-product-design.md",
+      "title": "The AI Revolution: Will Artificial Intelligence Shape The Future Of Cannabis Product Design?",
+      "excerpt": "The global Artificial Intelligence (AI) market is in the midst of a tremendous growth surge. From a valuation of $387 billion in 2022, it is forecasted to reach a staggering $1.39 trillion by 2029. This meteoric rise is evident from Microsoft Corp. MSFT +1.32% + Free Alerts 's decision to invest a hefty $10 billion for a 49% stake in ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/general/biotech/23/09/34506273/the-ai-revolution-will-artificial-intelligence-shape-the-future-of-cannabis-product-design",
+      "originalUrl": "https://www.benzinga.com/general/biotech/23/09/34506273/the-ai-revolution-will-artificial-intelligence-shape-the-future-of-cannabis-product-design",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/09/12/tyler-casey-f5fyiqgnucm-unsplash.jpg?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34506273",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34506273",
+      "publishedDateTime": "2023-09-13T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1168,7 +1159,7 @@
       "originalUrl": "https://techcrunch.com/2023/09/13/stability-ai-gunning-for-a-hit-launches-an-ai-powered-music-generator/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 299,
+      "heat": 309,
       "tags": null,
       "images": [
         {

@@ -23,31 +23,20 @@ topics:
   - AI
 
 related:
-  - title: "Small Business Tech Roundup: Intuit Introduces An AI Assistant"
-    excerpt: "Intuit's AI assistant, Google Workspace now integrates with Slack and Teams, Zoom has a new notes feature and other tech news impacting your business."
-    publishedDateTime: 2023-09-10T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/quickerbettertech/2023/09/10/small-business-tech-roundup-intuit-introduces-an-ai-assistant/"
-    ampWebUrl: "https://www.forbes.com/sites/quickerbettertech/2023/09/10/small-business-tech-roundup-intuit-introduces-an-ai-assistant/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2023/09/10/small-business-tech-roundup-intuit-introduces-an-ai-assistant/amp/"
+  - title: "As generative AI becomes a competitive advantage, how do you land a strategy right for your business?"
+    excerpt: "Understanding how generative AI can transform the way your organization operates is crucial as it becomes ubiquitous across industries"
+    publishedDateTime: 2023-09-13T13:54:00Z
+    webUrl: "https://venturebeat.com/ai/as-generative-ai-becomes-a-competitive-advantage-how-do-you-land-a-strategy-right-for-your-business/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 52
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64fb0f4b79156fda1073b636/0x0.jpg?format=jpg&width=1200"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/09/AdobeStock_310133876.jpeg?w=1200&strip=all"
         width: 1200
-        height: 1801
+        height: 675
         isCached: true
-  - title: "TechCrunch+ Roundup: Raising follow-on AI funding, Instacart’s IPO, both sides on SB 54"
-    excerpt: "Despite the surge of interest in AI, startups hoping to use it as a springboard to their next funding round should think twice."
-    publishedDateTime: 2023-09-12T17:20:00Z
-    webUrl: "https://techcrunch.com/2023/09/12/techcrunch-roundup-raising-follow-on-ai-funding-instacarts-ipo-both-sides-on-sb-54/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 39
 
 secured: "0if3UfZK7EGp/TpYszkTOBsriAcmzzkVArIR+ewzwOGj6NmLFs4v0capj6P2qCBOdAyZ7rcsAuv2AHfQqWhEotQ9FKbQ00aJEMCrJf9t/w7SGj0toTm1VUWFedruupdqDcnbB0XVskxlrierohNb7tig7pH7ZNV0G0QdW0BOB/gAul6+NwW/tuQPAwVnAgFfhzP/4fF6xBJBeAhatq0gFIcCljP9voZ2K79oMGLajvH/igZ2IFqtDWIY1+KN6YbNkntOjXPfk+7vhD7UH9AqBf9M6cJYAXuBPr7AbUT/jI74Hdsb1ilbfw4PQzuvyGbkF/jc3ohjsVlilvKnJL+uRWRdEOSf6wp5/GyAQDSnizAM78Cr52DTK4vIJ+bIbTi3zG/IY/Jgl+/UTfkJApxFjcdH4CsZg5MqdgrW7rSZAJrm5XWptf+BAGdleuvA+5UerlLTWJQVYEHUQSb1+NtE/8zPECMSn6TrhwdsDtOt+MEYNbbP2UjDdGBPRJcGEbg8KZxMyhvlO4XJPqMSZNA5UA==;yaTo1ouZG+Lgf7vleJ2lJA=="
 ---

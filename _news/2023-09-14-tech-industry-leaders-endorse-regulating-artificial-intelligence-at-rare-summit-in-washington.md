@@ -1,63 +1,106 @@
 ---
 category: news
 title: "Tech industry leaders endorse regulating artificial intelligence at rare summit in Washington"
-excerpt: "The nation's biggest technology executives on Wednesday loosely endorsed the idea of government regulations for artificial intelligence at an unusual closed-door meeting in the U.S. Senate. But there is little consensus on what regulation would look like,"
-publishedDateTime: 2023-09-14T00:53:00Z
-originalUrl: "https://lasvegassun.com/news/2023/sep/13/tech-industry-leaders-endorse-regulating-artificia/"
-webUrl: "https://lasvegassun.com/news/2023/sep/13/tech-industry-leaders-endorse-regulating-artificia/"
+excerpt: "WASHINGTON -- The nation's biggest technology executives on Wednesday loosely endorsed the idea of government regulations for artificial intelligence at an unusual closed-door meeting in the U.S. Senate. But there is little consensus on what regulation would look like, and the political path for legislation is difficult."
+publishedDateTime: 2023-09-14T01:17:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/closed-forum-tech-titans-give-senators-advice-artificial-103142205"
+webUrl: "https://abcnews.go.com/Technology/wireStory/closed-forum-tech-titans-give-senators-advice-artificial-103142205"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/closed-forum-tech-titans-give-senators-advice-artificial-103142205"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/closed-forum-tech-titans-give-senators-advice-artificial-103142205"
 type: article
-quality: 6
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: Las Vegas Sun
-  domain: lasvegassun.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI
 
+images:
+  - url: "https://s.abcnews.com/images/US/wirestory_efcfb1067d68ad2f595db7e92167943c_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
+
 related:
-  - title: "Tech leaders agree on AI regulation but divided on how in Washington forum"
-    excerpt: "Bill Gates, Sundar Pichai, Sam Altman and others gathered for ‘one of the most important conversations of the year’"
-    publishedDateTime: 2023-09-14T01:14:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/sep/13/tech-leaders-washington-ai-saferty-forum-elon-musk-zuckerberg-pichai?ref=biztoc.com"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/sep/13/tech-leaders-washington-ai-saferty-forum-elon-musk-zuckerberg-pichai"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/sep/13/tech-leaders-washington-ai-saferty-forum-elon-musk-zuckerberg-pichai"
+  - title: "Exclusive: California Bill Proposes Regulating AI at State Level"
+    excerpt: "A new bill in California, where many tech companies are based, adds to national and global efforts to regulate AI"
+    publishedDateTime: 2023-09-13T11:00:00Z
+    webUrl: "https://time.com/6313588/california-ai-regulation-bill/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 55
+      name: Time
+      domain: time.com
+    quality: 67
     images:
-      - url: "https://i.guim.co.uk/img/media/744ecef2f0e77400e54ca14bbfd1f09e01a142e5/0_353_6052_3632/master/6052.jpg?width=620&quality=85&auto=format&fit=max&s=ac941ca885e7881395202455f3fc4c09"
-        width: 620
-        height: 372
+      - url: "https://api.time.com/wp-content/uploads/2023/09/GettyImages-1298883331.jpg?quality&#x3D;85"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "What Washington should be doing to tackle AI risks"
-    excerpt: "An over-reliance on feedback from industry leaders and choosing to reset the clock on AI policy may benefit tech companies."
-    publishedDateTime: 2023-09-14T20:00:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2023-09-14/what-washington-should-be-doing-to-tackle-ai-risks"
+  - title: "California firefighters use AI to battle wildfires"
+    excerpt: "Neal Driscoll says the AI system for spotting wildfires is already offering a jump on about 40 percent of fires, and he expects it to get more effective. Over the last few years, its application has spread to include areas as diverse as weather forecasting, stock-picking, art and journalism."
+    publishedDateTime: 2023-09-12T08:31:00Z
+    webUrl: "https://phys.org/news/2023-09-california-firefighters-ai-wildfires.html"
+    ampWebUrl: "https://phys.org/news/2023-09-california-firefighters-ai-wildfires.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-california-firefighters-ai-wildfires.amp"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
-  - title: "Wall Street weighs pros and cons of AI as Washington gets to work"
-    excerpt: "AI industry juggernauts Google ... “There is plenty of money to be made in financial securities arena by doing things the right way, with ethics and morals, but there are always corner cutters out there. I would hope that regulation would stop this ..."
-    publishedDateTime: 2023-09-12T23:23:00Z
-    webUrl: "https://www.investmentnews.com/wall-street-weighs-pros-and-cons-of-ai-as-washington-gets-to-work-243429"
-    type: article
-    provider:
-      name: InvestmentNews
-      domain: investmentnews.com
-    quality: 39
+      name: Phys.org
+      domain: phys.org
+    quality: 57
     images:
-      - url: "https://s32566.pcdn.co/wp-content/uploads/2023/08/businessman-touching-the-brain-working-of-artificial-intelligence-automation-predictive.jpg-s1024x1024wisk20cMz2G15YAcE09_ywaRc43p9jmG2urk69uqyopTbaG4cI.jpg.optimal.jpg"
-        width: 900
-        height: 600
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/computers-are-learning.jpg"
+        width: 1280
+        height: 852
+        isCached: true
+  - title: "California legislative roundup: Travel ban, guns, tuition, self-driving trucks"
+    excerpt: "California may soon lift a ban on state-funded travel to states with anti-LGBTQ+ laws and instead focus on an advertising campaign to bring anti-discrimination messages to red states."
+    publishedDateTime: 2023-09-12T03:47:00Z
+    webUrl: "https://www.marinij.com/2023/09/11/california-lawmakers-vote-to-end-travel-ban-to-states-with-anti-lgbtq-laws/"
+    ampWebUrl: "https://www.marinij.com/2023/09/11/california-lawmakers-vote-to-end-travel-ban-to-states-with-anti-lgbtq-laws/amp/"
+    cdnAmpWebUrl: "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2023/09/11/california-lawmakers-vote-to-end-travel-ban-to-states-with-anti-lgbtq-laws/amp/"
+    type: article
+    provider:
+      name: Marin Independent Journal
+      domain: marinij.com
+    quality: 40
+    images:
+      - url: "https://www.marinij.com/wp-content/uploads/2023/09/SJM-L-ROADSHOW-0803-e1659467854718.jpg?w=1024&h=773"
+        width: 1024
+        height: 772
+        isCached: true
+  - title: "California Has a New Bill to Ban Self-Driving Trucks"
+    excerpt: "California's Senate has passed a bill that would require the presence of a human safety operator whenever a self-driving truck is operating ... lot of the arguments that surround the rise of artificial intelligence across plenty of other industries."
+    publishedDateTime: 2023-09-13T00:49:00Z
+    webUrl: "https://tech.co/news/california-bill-ban-self-driving-trucks"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 24
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2023/07/21014335/truck-route-highway.jpg"
+        width: 1920
+        height: 960
+        isCached: true
+  - title: "California Set to Ban Self-Driving Trucks With No Safety Driver"
+    excerpt: "The California Senate has passed a bill that requires autonomous trucks to have a human safety operator behind the wheel at all times while on public roads. Put simply, it's a ban on driverless trucks — a blow to an industry that has already struggled to ..."
+    publishedDateTime: 2023-09-14T17:47:00Z
+    webUrl: "https://futurism.com/the-byte/california-set-to-ban-self-driving-trucks-with-no-safety-driver"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 24
+    images:
+      - url: "https://wp-assets.futurism.com/2023/09/california-set-to-ban-self-driving-trucks-with-no-safety-driver.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
-secured: "LBMBegUeIfc26IE44lBR+D94tJmnl1TN2+G5Yj3DB+YnIeuTIRfdXB/bKaUjsl2p0zKMmXtJebSclew3+dwakkTuCqQIXwr0KQMxwBfxDVJSDreEZgUm+qoUjIrrrwF39J9YyjFQ5cWBxK8MMd04LwmFglC9IUDV4RjSH414cFjHhYpzZWwhv/MCxbmX4h2opHTE2BuZblN6mbOyCes9vOdNBymyHM0xTHnDsmrzP0/FeFjqrOBFBirwF9HL50gKLrnMOG3wimbRBjp8qVAPkAXg7uRfeiUGQOaKgCVvkFeFyxyGBFQe/EWe3vEHt9oYJL6pd+glkqjFi8CbhUpnjR5DL/nuujH8Ma+I/SoKwclsQyAZEmUHMCCjE+2MERCilxdNB0ZWyo2wtCQ2sSVmFsgexKb2bYcShlPa7WNxFhWOyq0s403eNYOoSug7nG5PUMVHlEIK7/z3roWe2JlLE50YTojKeg1YoCZQvenDw2cR/LDh+6Sldd6lV+/xJZvc/G405k4UIpiUGY5L8ZXMkQ==;d09O0mcZhhls22i5oGTLDQ=="
+secured: "ZAd0x2lHLj1vKVV+HRinLpq9nmLw486iJRnjNCc4nO2OfkwW8BFqUOxtffQYg8gFuhQQhvicZQ/T9ClCGMjuZQpK0UaAo3krC1tbA0VJtUXSst0GRxYaSrYWveECGKUwpUUAQg8dOgm/aL4RVlJzD/tjHQFnrBOnxQ6VHCo1P7NpUUbuAaaRnxFt6eoXh2AyrZNtynkgwutB39fZQCDIhIvkUQQRePGqFcATiyXMr2BiHQ08s8L8DK4EKIyOn/V8Wqxw25raA6TREdOiPECbhS6NvL2wFiuGw3lOJkhnYlY7XFGiPfVF4dOCd3kqxf7BnSoR9UPOVG9yBghHeYL9dJdvAXY6g+bh07XAiGlEBPQ=;J+c7WxhGnEEkB2A5pwZIxA=="
 ---
 

@@ -50,15 +50,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
-  - title: "Tech industry leaders endorse regulating artificial intelligence at rare summit in Washington"
-    excerpt: "The nation's biggest technology executives on Wednesday loosely endorsed the idea of government regulations for artificial intelligence at an unusual closed-door meeting in the U.S. Senate. But there is little consensus on what regulation would look like,"
-    publishedDateTime: 2023-09-14T00:53:00Z
-    webUrl: "https://lasvegassun.com/news/2023/sep/13/tech-industry-leaders-endorse-regulating-artificia/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 6
 
 secured: "LvftxoTq6nURHRtVofDBYwv9z54m/is9Imv5iChp7+bGTvgoBpc1+krJg+Bg5ZcFEuDRYllcSGdpF62hyB30jX2f+5nxsObp+/OlHYjYfvFxnD6d19WR0Wb4/JCbyN+BwQY/3A+lN+7SPpJq9MIM2X+MzGY+N3s0dhnCv04zXtbJe3JCgOu3QuxISjaOtZ0aoKxwgmr7t8dwPbbO8V5NJQvRM1WQil5qCxb726sKU0L3jeOv7jFAalxWC0kheeW1yUk+7kKJas32wVwcReXTu1FCCMWfDbq4d7lnM7zb1Fgy9DCOgUbpoFvq1wWmJor6n9vIISm5ret2ZzewqSF7+1Rf38tKfurFoUjrANjgHNkLVmgaxGuaGyfKlG6zqA7nJE1E1tj0+Nr53vfEhhCODxn1XpUWn1dSzhdBw8PrjIpskR9ruJXhaCJDRChiHZBEjaYou27LhebNrcHfJUvl2n/az9VfuOibJqp1Bq9ikm8/JS0S2/35/kdbHfyvc39uDxvIb977X0PeIaJkQTfv4w==;s/AcJrPKpX/Gc/x4HxkRTw=="
 ---

@@ -194,20 +194,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 42
-  - title: "5 AI tools to automate passive income generation"
-    excerpt: "Learn how you can automate passive income generation using a variety of different AI tools currently available. Benefit from the technology"
-    publishedDateTime: 2023-09-10T10:27:00Z
-    webUrl: "https://www.geeky-gadgets.com/automate-passive-income/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/5-AI-tools-to-generate-passive-income-streams.jpg"
-        width: 700
-        height: 466
-        isCached: true
   - title: "6 Generative AI Jobs in India"
     excerpt: "The role aims to contribute to Apple’s generative AI-based developer platform, collaborating with data scientists and software engineers to provide ML solutions for internal use, with a focus on improving the developer experience."
     publishedDateTime: 2023-09-13T07:31:00Z

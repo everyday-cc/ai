@@ -27,6 +27,36 @@ images:
     isCached: true
 
 related:
+  - title: "Oracle brings its database infrastructure to Microsoft Azure"
+    excerpt: "Oracle has announced a partnership with Microsoft to bring some of its database infrastructure, including hardware and services, to Azure."
+    publishedDateTime: 2023-09-14T23:48:00Z
+    webUrl: "https://techcrunch.com/2023/09/14/oracle-brings-its-database-infrastructure-to-microsoft-azure/"
+    ampWebUrl: "https://techcrunch.com/2023/09/14/oracle-brings-its-database-infrastructure-to-microsoft-azure/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/14/oracle-brings-its-database-infrastructure-to-microsoft-azure/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-528022874.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Analysts left Microsoft's AI event feeling even more bullish about the stock"
+    excerpt: "Comments from a recent Microsoft event are giving Wall Street more reasons to get bullish on the technology giant."
+    publishedDateTime: 2023-09-14T14:02:00Z
+    webUrl: "https://www.cnbc.com/2023/09/14/microsoft-ai-event-analysts-feel-even-more-bullish-about-the-stock.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 81
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107183316-16745955982023-01-24t210439z_1989498312_rc29ty9bgi4f_rtrmadp_0_microsoft-results.jpeg?v=1694709338&w=1920&h=1080"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Microsoft SMME skills initiative focuses on AI"
     excerpt: "According to a statement, the tech giant will equip SMMEs for an AI-powered future, setting them on a trajectory of sustainable growth through the Microsoft for Start-ups Founders Hub, which provides entrepreneurs with free technology resources."
     publishedDateTime: 2023-09-12T09:27:00Z
@@ -75,6 +105,36 @@ related:
         width: 1718
         height: 892
         isCached: true
+  - title: "Google AI Head On Data Privacy, GenAI Lead Vs. AWS, Microsoft"
+    excerpt: "Moyer, global vice president of Google’s artificial intelligence business ... Moyer was managing director of global financial services at AWS in charge of AWS sales, technical and customer experience teams that supported some of AWS’ largest customers."
+    publishedDateTime: 2023-09-13T15:55:00Z
+    webUrl: "https://www.crn.com/news/software/google-ai-head-on-data-privacy-genai-lead-vs-aws-microsoft"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 71
+    images:
+      - url: "https://www.crn.com/resources/0285-18f85d37f0c5-7ba70e58e5f1-1000/philip-moyer-google.jpeg"
+        width: 611
+        height: 459
+        isCached: true
+  - title: "Microsoft, Oracle deliver direct access to Oracle database services on Azure"
+    excerpt: "The hyperscalers are joining forces to help customers fully migrate to the cloud — and place their data closer to Microsoft services to facilitate cloud-native development and AI experimentation."
+    publishedDateTime: 2023-09-14T21:52:00Z
+    webUrl: "https://www.cio.com/article/652442/microsoft-oracle-deliver-direct-access-to-oracle-database-services-on-azure.html"
+    ampWebUrl: "https://www.cio.com/article/652442/microsoft-oracle-deliver-direct-access-to-oracle-database-services-on-azure.html/amp/"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/652442/microsoft-oracle-deliver-direct-access-to-oracle-database-services-on-azure.html/amp/"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 71
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2023/09/shutterstock_editorial_2110981163.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Microsoft president and Nvidia chief scientist to testify in Senate AI hearings"
     excerpt: "Digital advocacy groups warn Senate judiciary committee that tech companies cannot be trusted to regulate themselves"
     publishedDateTime: 2023-09-12T15:16:00Z
@@ -121,15 +181,20 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Sundar Pichai on Google’s AI, Microsoft’s AI, OpenAI, and … Did We Mention AI?"
-    excerpt: "The tech giant is 25 years old. In a chatbot war. On trial for antitrust. But its CEO says Google is good for 25 more."
-    publishedDateTime: 2023-09-11T10:00:00Z
-    webUrl: "https://www.wired.com/story/sundar-pichai-google-ai-microsoft-openai/"
+  - title: "Microsoft says it will protect customers from AI copyright lawsuits"
+    excerpt: "In 2017, Microsoft, by then a seller of open-source software itself, offered to protect customers of its Azure cloud products from legal claims. The company in June announced a program to help customers ensure the AI programs they run on Microsoft ..."
+    publishedDateTime: 2023-09-11T03:04:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/09/11/microsoft-says-it-willprotect-customers-from-ai-copyright-lawsuits"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 62
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/09/10/2276799.JPG"
+        width: 1240
+        height: 828
+        isCached: true
   - title: "AI-powered teaching and learning: Microsoft unleashes new educational tools"
     excerpt: "As classrooms worldwide usher in another academic year, tech giant Microsoft steps forward with its cutting-edge AI-powered solutions to push the boundaries"
     publishedDateTime: 2023-09-13T15:28:00Z
@@ -143,6 +208,76 @@ related:
       - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2022/08/Windows-Blog-promotes-back-to-school-Windows-11-laptops.jpg"
         width: 1024
         height: 768
+        isCached: true
+  - title: "Viaccess-Orca, Microsoft, generative AI partnership"
+    excerpt: "Viaccess-Orca (VO), a specialist in providing OTT and TV platforms, content protection, and advanced data solutions, is collaborating with Microsoft on new adva"
+    publishedDateTime: 2023-09-14T10:17:00Z
+    webUrl: "https://advanced-television.com/2023/09/14/viaccess-orca-microsoft-generative-ai-partnership/"
+    type: article
+    provider:
+      name: Advanced Television
+      domain: advanced-television.com
+    quality: 54
+    images:
+      - url: "https://advanced-television.com/wp-content/uploads/2022/05/ViaccessOrca.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Microsoft and Oracle extend partnership with Oracle Database@Azure"
+    excerpt: "Microsoft and Oracle expand collaboration and make Oracle databases available within Azure. Larry Ellison, the founder of Oracle, said he was at"
+    publishedDateTime: 2023-09-14T20:55:00Z
+    webUrl: "https://www.techzine.eu/news/infrastructure/111301/microsoft-and-oracle-extend-partnership-with-oracle-databaseazure/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 54
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2020/12/1-Microsoft-and-Oracle-1200x675-1.png"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Oracle to colocate in Azure data centers under expanded Microsoft partnership"
+    excerpt: "Oracle Corp. and Microsoft Corp. are expanding their four-year-old cloud relationship with a deal that will colocate Oracle’s Exadata database-optimized server and Real Application Clusters in Microsoft Azure data centers."
+    publishedDateTime: 2023-09-14T22:07:00Z
+    webUrl: "https://siliconangle.com/2023/09/14/oracle-colocate-azure-data-centers-expanded-microsoft-partnership/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 51
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Nadella-Ellison.jpg"
+        width: 1576
+        height: 837
+        isCached: true
+  - title: "Trade Ledger Announces Bank Solution with Microsoft Azure OpenAI Service to Empower Businesses with Faster Access to Working Capital Solutions"
+    excerpt: "Trade Ledger announces it will launch a new solution integrating Microsoft Azure OpenAI Service, designed exclusively for Business Owners, CFOs and Financial Directors in small and medium-sized businesses (SMBs)."
+    publishedDateTime: 2023-09-14T10:56:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/trade-ledger-announces-bank-solution-microsoft-azure-openai-service"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 50
+    images:
+      - url: "https://financialit.net/sites/default/files/trade_ledger_2.png"
+        width: 1366
+        height: 768
+        isCached: true
+  - title: "Microsoft and Oracle Partner on New 'Oracle Database at Azure' Service Offering"
+    excerpt: "Microsoft and Oracle on Thursday announced 'Oracle Database@Azure,' a new collaborative infrastructure-as-a-service effort that lets Oracle database customers more easily tap Azure services."
+    publishedDateTime: 2023-09-14T23:34:00Z
+    webUrl: "https://redmondmag.com/articles/2023/09/14/oracle-database-at-azure.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 50
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/NadellaEllison.gif"
+        width: 647
+        height: 450
         isCached: true
   - title: "Blumenthal-Led Subcommittee to Hear From Microsoft President on Artificial Intelligence"
     excerpt: "Microsoft President Brad Smith and the chief scientist of NVIDIA Corporation are among the witnesses slated to offer testimony on artificial intelligence Tuesday before a Senate subcommittee led by U."
@@ -158,6 +293,15 @@ related:
         width: 1093
         height: 654
         isCached: true
+  - title: "Tilde and Microsoft Collaborate Towards Inclusive Education With AI Speech-to-Text Technology"
+    excerpt: "Tilde, in partnership with Microsoft, aims to advance inclusive education through automatic speech recognition solutions."
+    publishedDateTime: 2023-09-12T08:20:00Z
+    webUrl: "https://slator.com/tilde-microsoft-collaborate-inclusive-education-ai-speech-to-text-technology/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 42
   - title: "Blackstraw Partners with Microsoft to Drive Enterprise-wide AI Adoption"
     excerpt: "Blackstraw AI announces partnership with Microsoft for its Solutions Partner Designation for Data & AI (Azure) and Digital & App Innovation (Azure)."
     publishedDateTime: 2023-09-12T12:41:00Z
@@ -167,24 +311,6 @@ related:
       name: enterprisetalk
       domain: enterprisetalk.com
     quality: 34
-  - title: "Microsoft and Paige Collaborate on World's Largest Cancer-Fighting AI Model"
-    excerpt: "Microsoft, a technology behemoth, has partnered with Paige, a digital pathology company, to construct the largest image-based artificial intelligence (AI) models globally, designed to combat cancer."
-    publishedDateTime: 2023-09-10T12:43:00Z
-    webUrl: "https://www.medindia.net/news/microsoft-and-paige-collaborate-on-worlds-largest-cancer-fighting-ai-model-213420-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 32
-  - title: "From ‘digital twins’ to new Microsoft partnership, SAS deepens embrace of AI"
-    excerpt: "SAS announced a pledge to commit $1 billion to AI-powered industry solutions. Today they're using the SAS Explore event to share some recent results of that investment."
-    publishedDateTime: 2023-09-12T19:00:00Z
-    webUrl: "https://wraltechwire.com/2023/09/12/from-digital-twins-to-new-microsoft-partnership-sas-deepens-embrace-of-ai/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 31
   - title: "Microsoft and Paige team up to develop world's largest cancer-fighting AI model"
     excerpt: "The image-based AI model will capture cancer's complexities, fueling the next-gen clinical apps and biomarkers in oncology and pathology"
     publishedDateTime: 2023-09-10T13:18:00Z
@@ -194,6 +320,15 @@ related:
       name: National Herald
       domain: nationalheraldindia.com
     quality: 30
+  - title: "CEOs of Meta, Alphabet, Microsoft and Nvidia set to talk AI with members of Congress"
+    excerpt: "Expected to attend are Meta Platforms Inc. CEO Mark Zuckerberg, Alphabet Inc., and Google LLC CEO Sundar Pichai as well as former Google CEO Eric Schmidt."
+    publishedDateTime: 2023-09-13T14:37:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/09/13/ceos-of-meta-alphabet-microsoft-and-nvidia-set-to.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 27
   - title: "Microsoft and Oracle Expand Partnership to Deliver Oracle Database Services on Oracle Cloud Infrastructure in Microsoft Azure"
     excerpt: "AUSTIN, Texas and REDMOND, Wash., Sept. 14, 2023 /PRNewswire/ -- Oracle Corp and Microsoft Corp today announced Oracle Database@Azure, which gives customers direct access to Oracle database services running on Oracle Cloud Infrastructure (OCI) and deployed in Microsoft Azure datacenters."
     publishedDateTime: 2023-09-14T20:09:00Z
@@ -208,6 +343,15 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Microsoft and Esri to speed up access to Earth-observation data"
+    excerpt: "Microsoft also added the Planetary Computer, a platform that combines multi-petabyte global datasets related to biodiversity and climate change with machine-learning tools, to Azure Space. In addition, NASA Langley Research Center, NASA Goddard Space ..."
+    publishedDateTime: 2023-09-13T12:30:00Z
+    webUrl: "https://spacenews.com/microsoft-and-esri-to-speed-up-access-to-earth-observation-data/"
+    type: article
+    provider:
+      name: SpaceNews
+      domain: spacenews.com
+    quality: 19
 
 secured: "vC/5nNP3zZrHb19dihNdyBXKTovWVS/lZWjYxwyRsbZENleijQVGPLM+R+rQt1sphJHPoPkEBpVLC+MmopP+kp7ldORtY2albfTztQXDsAaJE3KcsE7yEa8aJEnGNIXNFEdThKFXNYIDHmxDxQebTfZ4seyvPsLk9OZG6tJDffEgUeYZV+CwdLIcChsWt5Ja0PUCUBsEeAFS6wCXzSDwxWkg96R9srd+MpAau3oUaXe55IPMHZugMYQXSdE5ZNZk1hIH6I4SKc/vnxwksI1DvAYQ0A3DF1zlWA8DA7kE4Ul4hJ39+qPj9UVdY6keGT/EFI5RIcmvotOf/Tu/Km5SvU5RwTqXHJT2rbUWZWrkaGCL9NvWGQNf6ADPcKg3N1wPXaiPRO+31gLpkAvx8YDj3LZ+L2ULK/lI9wH+Tg6H2bZl3934niAYVIQUKzSuhhG6/GSJQBz/mrN9C5q3dvQdFhkNk/7VLnWAQQ3HVVTNdPYaY9smpnTTCndNB8vtcAltfOQfHWXRibwgjdfNnvW8Gg==;HNW0UjMP1N+8KmWYkk7HCA=="
 ---

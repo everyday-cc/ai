@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Navigating the Age of AI: The Role of a New Brain Industry"
+    excerpt: "To harness the benefits of AI and minimize its risks, we outlined an aggressive brain capital industrial strategy in a new research paper from Rice University’s Baker Institute for Public Policy. A mission-oriented approach is an important aspect of our strategy for advancing America’s brain capital."
+    publishedDateTime: 2023-09-15T01:12:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/building-brain-capital/202309/navigating-the-age-of-ai-the-role-of-a-new-brain-industry"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/building-brain-capital/202309/navigating-the-age-of-ai-the-role-of-a-new-brain-industry?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/building-brain-capital/202309/navigating-the-age-of-ai-the-role-of-a-new-brain-industry?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-09/pexels-thisisengineering-3861969.jpg?itok=O7b4XPWg"
+        width: 1528
+        height: 800
+        isCached: true
   - title: "COUNTER AI: Schools here and across the nation seeking smart AI policies"
     excerpt: "Schools in Aurora and across the country wade through a jungle of thorny issues surrounding artificial intelligence writing applications"
     publishedDateTime: 2023-09-14T20:09:00Z

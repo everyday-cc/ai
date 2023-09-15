@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "2 AI Stocks to Transform Your Portfolio"
-    excerpt: "Data from Grand View Research indicates a strong growth trajectory, with AI industry revenue expected to mushroom to $1.181 trillion by 2030, based on a CAGR of 37.3%. Additionally, Accenture's recent findings underscore the potential for enterprise applications,"
-    publishedDateTime: 2023-09-10T13:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/2-ai-stocks-to-transform-your-portfolio"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 51
   - title: "3 Reddit-Approved AI Stocks for Your Buy-List"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips When it comes to identifying the pulse of contemporary stock market trends,"
     publishedDateTime: 2023-09-12T09:00:00Z
@@ -43,43 +34,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
-  - title: "Could AI transform science itself?"
-    excerpt: "With the emergence of the scientific method in the 17th century, researchers came to trust experimental observations, and the theories they derived from them, over the received wisdom of antiquity. Journals created an international scientific community around a shared body of knowledge,"
-    publishedDateTime: 2023-09-13T21:54:00Z
-    webUrl: "https://www.aol.com/finance/could-ai-transform-science-itself-185314463.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "How science will be transformed by AI"
-    excerpt: "This week, Alok Jha, The Economist ’s science and technology editor speaks to Mustafa Suleyman, the founder of Inflection AI, and co-founder of Google DeepMind. Mustafa outlines how he thinks the technology can develop responsibly, what hurdles need to be overcome and how society should prepare for this new age of ubiquitous AI."
-    publishedDateTime: 2023-09-13T19:16:00Z
-    webUrl: "https://www.economist.com/AI-science"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 39
-    images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230916_PDP508.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Three Artificial Intelligence Stocks Under $10"
-    excerpt: "After peaking at $9.75 in 2021 the company is now “exploring strategic alternatives”, which is street-speak for trying to find a buyer."
-    publishedDateTime: 2023-09-11T13:44:00Z
-    webUrl: "https://www.cantechletter.com/2023/09/three-artificial-intelligence-stocks-under-10/"
-    type: article
-    provider:
-      name: Cantech Letter
-      domain: cantechletter.com
-    quality: 21
 
 secured: "dpyM0HYCZUp9zL/E6P9I0WO/qnfBw0WCFEnbhLhHbDeWoGX5/TfuMFSROiBgmshkhhqXaRmjCmzzTOnka/Ho2OGmk5Fi1fUvrOMRkTjp1We+/7GKTO5M3lEm7CnjiARWCHrprAV9VI3q60rkmUCilv8mwWzg83ZdWrZvmXOsk+OGrO9YVD1YX2XOsRnolscSV9f00sqUVbXyOtZjsMCIdCSTC2ybUZArFvvzl9Y2ib+vPiTxBwV4bHs+a4fDTYeJZK14vaR0p+Cq/o4juIkrMZ6sVXlfepHY+vVQXYxaAQXb5wNacYQJdnbxmythTTRMPs6WMxL6bA9PjeErwpLx1bDih8LWbd7jlmR56vhtzEw=;vYIp82Ny83FsEO2ua2xcyA=="
 ---

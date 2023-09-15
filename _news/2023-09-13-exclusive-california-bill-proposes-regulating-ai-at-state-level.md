@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6313588/california-ai-regulation-bill/"
 webUrl: "https://time.com/6313588/california-ai-regulation-bill/"
 type: article
 quality: 67
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2023/computers-are-learning.jpg"
         width: 1280
         height: 852
+        isCached: true
+  - title: "Tech industry leaders endorse regulating artificial intelligence at rare summit in Washington"
+    excerpt: "WASHINGTON -- The nation's biggest technology executives on Wednesday loosely endorsed the idea of government regulations for artificial intelligence at an unusual closed-door meeting in the U.S. Senate. But there is little consensus on what regulation would look like, and the political path for legislation is difficult."
+    publishedDateTime: 2023-09-14T01:17:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/closed-forum-tech-titans-give-senators-advice-artificial-103142205"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/closed-forum-tech-titans-give-senators-advice-artificial-103142205"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/closed-forum-tech-titans-give-senators-advice-artificial-103142205"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 46
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_efcfb1067d68ad2f595db7e92167943c_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "California legislative roundup: Travel ban, guns, tuition, self-driving trucks"
     excerpt: "California may soon lift a ban on state-funded travel to states with anti-LGBTQ+ laws and instead focus on an advertising campaign to bring anti-discrimination messages to red states."

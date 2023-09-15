@@ -98,15 +98,6 @@ related:
       name: Government Executive
       domain: govexec.com
     quality: 27
-  - title: "Gathering the news for the AI-powered future"
-    excerpt: "The bottom line: AI-generated news content is coming. The death toll from the powerful earthquake that hit Morocco late Friday surpassed 2,000 on Saturday as rescue workers raced to find survivors, state media reported, citing the country's Interior Ministry."
-    publishedDateTime: 2023-09-10T13:02:00Z
-    webUrl: "https://www.axios.com/2023/09/10/infobot-ai-news"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 17
 
 secured: "04f2w57dW/BtI6Wwc00Dzh/W53GcN2xN3C5wSVFnyg/HetxD9eeZJHvjSb2akstNNR0jF2TE/YgaCZErY5KIA5K62TrJyi7mppxKYA0S2K2vcdKIfXoI+ODG5HGd5jCzgkTZt8ZT3tOFcfLMB2mxv/rJPdYmeIjMN/xmpfqrh8VfWqxnQYLq6+F5DoHQGClo4xlBIXAebVb4RrOZANIr/RYtUJdmeFpusQsXzNIcF+/TQ5lTMVY9P83EODOciB+kT5aV5tK1d5kvOzky7cI3EMNfsNk4ywclEU1+oE0OaGQLFZuw2Mo7/o0ui6xqmCds3rtBXkdD3tDq6isKH+6Lq3fIi1TXRFcIQ+bxu924gz5e31qpf/eFO0YWzZH2R0QjiqSMV9fq2hAsG286rLazTaTFIu7taX5ffHwTUVcZirlgRcCW3NNcUgSOtqkBK7Bcc6hLvE6xe2PKNQwRS1EMzYDJEjcAMJ9xMBWCz7hmXM5shbBSfpIFTxjagriwMfhdlozytoOVZs0arb+7l5Mu1Q==;eg+G+rye0+DF0cBZ2tEK+A=="
 ---

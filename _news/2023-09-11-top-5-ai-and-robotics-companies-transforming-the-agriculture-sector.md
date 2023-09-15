@@ -9,7 +9,7 @@ ampWebUrl: "https://www.insidermonkey.com/blog/top-5-ai-and-robotics-companies-t
 cdnAmpWebUrl: "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/top-5-ai-and-robotics-companies-transforming-the-agriculture-sector-1192684/?amp=1"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -94,15 +94,6 @@ related:
       name: Government Executive
       domain: govexec.com
     quality: 27
-  - title: "Gathering the news for the AI-powered future"
-    excerpt: "The bottom line: AI-generated news content is coming. The death toll from the powerful earthquake that hit Morocco late Friday surpassed 2,000 on Saturday as rescue workers raced to find survivors, state media reported, citing the country's Interior Ministry."
-    publishedDateTime: 2023-09-10T13:02:00Z
-    webUrl: "https://www.axios.com/2023/09/10/infobot-ai-news"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 17
 
 secured: "kFdNEZ5o5i5eYupCtMmxXRt3U6QB+1XAmhfF7GcHFNK4lpFkY01UKRUdIyWqM6oGKf5dE9R/N7xYPNjpP0Ewi9DLwkR9VBC/4CC6IAJobzJngRcQpOyeKqJQ7hVfsXOV0cIZnH+tsnFLVNWnznluGn2c3+eqfmNaOx+9OKnNh/PCUhqad9YwviQu6MNW8VP13+mu06gK6Uli3UOO0k92UT+o9t0ZLtkwTvMNHChc9fQyo0DflsMedsQddvkI4lPrxB92banF+qKmYgpbYJri07UO4HYbSPL42423o55Z7CIBWlIWGXTqzYFM/5hxgu8sPcXbGX/AN+S2d586nSP+RVzVNbLAcDUDtAGzTJwzgn3j647TrSpLMwFW77X/RWz7LguRd0WIy0PfLCvJRUp/RvKULYr8xg+MWqOlYLsK26sLp5UooFeBwiNOzxe5z8hi9AwWYtBOYuFa7f5p+dioyc7jz5IGOwKewJtfTO8TyX+FiZGAQDfGSr5D1FY4fg3XpTu9wZCb6yYE1QHAWbcHcg==;IsaZDYW/6kw9gIqbv05Ikw=="
 ---

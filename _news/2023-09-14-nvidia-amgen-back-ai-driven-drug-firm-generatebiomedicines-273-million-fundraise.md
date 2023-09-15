@@ -26,28 +26,19 @@ images:
 
 related:
   - title: "Nvidia, Amgen back AI-driven drug firm Generate:Biomedicines' $273 mln fundraise"
-    excerpt: "Biomedicines, which uses artificial intelligence (AI) to find new treatments, said on Thursday it has raised $273 million from investors including Nvidia's venture capital arm and Amgen."
-    publishedDateTime: 2023-09-14T16:33:00Z
-    webUrl: "https://www.reuters.com/article/generatebio-funding-idUSL4N3AQ2BO"
+    excerpt: "Sept 14 (Reuters) - Drug developer Generate:Biomedicines, which uses artificial intelligence (AI ... Generate is testing a monoclonal antibody therapy for COVID-19, its first therapy to reach human testing. \"The company has made significant advancements ..."
+    publishedDateTime: 2023-09-14T12:50:00Z
+    webUrl: "https://www.reuters.com/markets/deals/nvidia-amgen-back-ai-driven-drug-firm-generatebiomedicines-273-mln-fundraise-2023-09-14/"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 64
     images:
-      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
-        width: 1200
-        height: 630
+      - url: "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/VJNBR5DSWRL4HAAVQQS5434W5Q.jpg"
+        width: 800
+        height: 513
         isCached: true
-  - title: "Amgen-partnered AI biotech startup brings in $273M"
-    excerpt: "A biotech startup using generative AI to create new, protein-based medicines has closed on a $273 million round as it looks to expand its reach."
-    publishedDateTime: 2023-09-14T10:18:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2023/09/14/generate-biomedicines-flagship-273m-series-c.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "ZmmZFti3HHBvfUUszupihxiuGkHW9HLYal5Qa0boj5Fb4m2mUFSF/uX3T5gVA74ib5DmjOQrIVx4d/47mSckUXiig144yMlMF7DwXP0hAwKvKYvmf01R9Ine8tN2QZ5Jdmtb5aQzmEEFsB0taRXYwScMpIqciOlfH7ratCJc7b+ZbcpZl9Xw2g47EIKE9zdbag0RSnKLXGwFb75b2KorgO5DWJe7KjGpSoR3u3twFK9b3sFZrQXm+3SSHYpE84JUMjCBukVW6FCJfXmx7uOUwDEl826q5jgnmcdmaKKlmp8gZbMdqbzyex08X88hFx92xpxxmNFSi9VeIavuNDdsEQSbwBCUdgQXYwrDMhN7bFc=;FYmVmaigFTWjx38X45qYsA=="
 ---

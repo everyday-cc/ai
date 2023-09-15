@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/linkedin-cofounder-reid-hoffman-says
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/linkedin-cofounder-reid-hoffman-says-pausing-ai-foolish-anti-humanist-2023-9?amp"
 type: article
 quality: 75
-heat: 76
+heat: 75
 published: true
 
 provider:

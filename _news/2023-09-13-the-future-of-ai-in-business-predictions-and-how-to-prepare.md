@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Navigating the Age of AI: The Role of a New Brain Industry"
+    excerpt: "To harness the benefits of AI and minimize its risks, we outlined an aggressive brain capital industrial strategy in a new research paper from Rice University’s Baker Institute for Public Policy. A mission-oriented approach is an important aspect of our strategy for advancing America’s brain capital."
+    publishedDateTime: 2023-09-15T01:12:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/building-brain-capital/202309/navigating-the-age-of-ai-the-role-of-a-new-brain-industry"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/building-brain-capital/202309/navigating-the-age-of-ai-the-role-of-a-new-brain-industry?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/building-brain-capital/202309/navigating-the-age-of-ai-the-role-of-a-new-brain-industry?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-09/pexels-thisisengineering-3861969.jpg?itok=O7b4XPWg"
+        width: 1528
+        height: 800
+        isCached: true
   - title: "The Human Touch in LLMs and GenAI: Shaping the Future of AI Interaction"
     excerpt: "About the author: Rohan Agrawal is the CEO and Founder of Cogito Tech, a provider of AI training solutions that offers a human-in-the-loop workforce for computer vision, natural language processing, content moderation, and data and document processing."
     publishedDateTime: 2023-09-12T17:31:00Z

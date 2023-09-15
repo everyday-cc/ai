@@ -89,6 +89,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Stability AI just unveiled a text-to-music generator, and you can try it. Here's how"
+    excerpt: "The Stable Audio app uses generative AI techniques to create music, sound effects, and audio up to 90 seconds long based on user prompts."
+    publishedDateTime: 2023-09-14T17:55:00Z
+    webUrl: "https://www.zdnet.com/article/stability-ai-just-unveiled-a-text-to-music-generator-and-you-can-try-it-heres-how/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/stability-ai-just-unveiled-a-text-to-music-generator-and-you-can-try-it-heres-how/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/stability-ai-just-unveiled-a-text-to-music-generator-and-you-can-try-it-heres-how/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 80
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/4e067f1f8c2abf3b2db1a2f0abfb7929a278ce41/2023/09/14/5df6af52-6068-4bca-a545-2e56805b3c37/waves-gettyimages-184286397.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Winn.AI Introduces AI-Powered \"Magic Emails\" To Revolutionize Sales Follow-Ups"
     excerpt: "Winn.AI, an Israel-based sales tech startup that helps sales teams win more deals with less hassle through its innovative real-time tracking, capturing, and CRM updating features, introduces Magic Emails,"
     publishedDateTime: 2023-09-14T00:35:00Z
@@ -190,20 +206,6 @@ related:
         width: 1024
         height: 532
         isCached: true
-  - title: "Swoop Launches Predictive AI Adherence Targeting"
-    excerpt: "Swoop, the leading provider of custom direct-to-consumer (DTC) and healthcare provider (HCP) audiences for the pharmaceutical and life sciences industry, today announced the launch of Predictive AI Adherence Targeting."
-    publishedDateTime: 2023-09-12T12:02:00Z
-    webUrl: "https://www.bakersfield.com/ap/news/swoop-launches-predictive-ai-adherence-targeting/article_100b10d2-9ec0-551f-99d4-54e0c15f12d0.html"
-    type: article
-    provider:
-      name: The Bakersfield Californian
-      domain: bakersfield.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
   - title: "How does Stable Audio generate AI music and sound effects"
     excerpt: "A new AI sound generator has been released in the form of Stable Audio capable of rendering 95 secs of stereo audio at a 44.1 kHz in seconds"
     publishedDateTime: 2023-09-14T10:13:00Z
@@ -246,6 +248,15 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Swoop Launches Predictive AI Adherence Targeting"
+    excerpt: "Swoop Predictive AI Adherence Targeting uncovers the patients most likely to become non-adherent within the next 30 days for highly precise marketing."
+    publishedDateTime: 2023-09-12T16:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230912349151/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 19
   - title: "Deduce Raises $9M to Address AI-Generated Identity Fraud"
     excerpt: "Deduce announced $9M in funding led by Freestyle Capital, with additional investment by Foundry and True Ventures."
     publishedDateTime: 2023-09-14T12:02:00Z

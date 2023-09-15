@@ -52,15 +52,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Tech industry leaders endorse regulating artificial intelligence at rare summit in Washington"
-    excerpt: "The nation's biggest technology executives on Wednesday loosely endorsed the idea of government regulations for artificial intelligence at an unusual closed-door meeting in the U.S. Senate. But there is little consensus on what regulation would look like,"
-    publishedDateTime: 2023-09-14T00:53:00Z
-    webUrl: "https://lasvegassun.com/news/2023/sep/13/tech-industry-leaders-endorse-regulating-artificia/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 6
 
 secured: "0DXQ3rCLcI/OQFvYAPTgQ0oHOVuNcs7WiE12wag3MMnQKQGKupbWLf8pZRKNGtmc8YPAYK5Pbq63HRA6qJV1Pcgrj+sganJTW0TsG2lk7sAjHqXVS4GnXu4d93Pzfr5E5C+4QDT3BIORntIiIHTB1HXUvDEgEXHjtmx7JLLMmRa1yscUMIsV0BBKylvXiC8G2Un008KW+w27wIKzNyOVThl+PFcGu/fwPWSTwYOil7hqEbJTfivGm8kJA72/ogFj3CcZW6QGQ1b2xIZFPUE3iYxF5Q7AqIOYxp2vPyho7tPi025XsK7bq6IeJAztDq3kFzEVxYnz7qLwk5YtUPNCsmpGNha4vuycNFK52xVydWsKsMQZ4/dX5BEydEpRjSxQ3ExPWyPkXEUFcZ0lFnwBky9lkhULSyrmOcjWj1LkHfqYAnQfQoJae8qMQHM4n+sTzePRuQnHL/Iy0jdv3G77dUa4T30Z/gc1RtShjlrevJP566TZlu7sTDaK0bg52/egKmwkBuGlCbI1zX2X2BGATA==;9SgB8sS5CW2QIQlXvAiUxg=="
 ---

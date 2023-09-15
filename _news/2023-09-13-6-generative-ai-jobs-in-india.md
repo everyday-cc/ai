@@ -200,20 +200,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 42
-  - title: "5 AI tools to automate passive income generation"
-    excerpt: "Learn how you can automate passive income generation using a variety of different AI tools currently available. Benefit from the technology"
-    publishedDateTime: 2023-09-10T10:27:00Z
-    webUrl: "https://www.geeky-gadgets.com/automate-passive-income/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/5-AI-tools-to-generate-passive-income-streams.jpg"
-        width: 700
-        height: 466
-        isCached: true
   - title: "Generative AI in Manufacturing : A transformational alliance"
     excerpt: "The manufacturing industry in Bharat can attempt to deploy basic AI / ML techniques far more creatively than it does today"
     publishedDateTime: 2023-09-13T05:04:00Z

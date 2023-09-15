@@ -34,6 +34,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
+  - title: "KBTG launches KXVC – a 100 million USD flagship fund targeting global AI, Web3, and Deep Tech startups and funds with potential synergy in APAC"
+    excerpt: "KASIKORN Business-Technology Group (KBTG) – a tech arm of KASIKORNBANK (KBank) – launches KXVC – 100 million USD flagship fund targeting AI, Web3, and Deep Tech fintech startups globally with potential synergy in APAC. Asia-Pacific, especially ..."
+    publishedDateTime: 2023-09-15T02:10:00Z
+    webUrl: "https://www.thaipr.net/en/finance_en/3383341"
+    type: article
+    provider:
+      name: thaipr.net
+      domain: thaipr.net
+    quality: 3
+    images:
+      - url: "https://www.thaipr.net/wp-content/uploads/2023/09/TBN_Photo_BOT-Digital-Finance-Conference-2023-scaled-e1694758222637-768x512.jpg"
+        width: 768
+        height: 512
+        isCached: true
 
 secured: "4kc8RG1Zak3vhZhPHqXnS+b7lbUiawnxoGhW6zPH44JcWkkhymFq7fqIfwRvDclzrTWPk5VTj29z7qkt/CC2LnOc9Fl2RyGWlIC/65yzWR+GTa5d5h6W89a27ySqsxIWVMnNiN/u/B1JLpnuo5Bq7h/ScbxcUKjxt/LTfcbr+GOKFvy02qL/HNtv+itsVJyGy0Mp/eIpiueWSPBky7XEMIajdb2vx6cdKz5jZj89UUyIce1TPKXF1FrYNv/o11eaD3ISQPL07MXUrpdxdd845vJMjYAKUXqr6rZwgI23mLcxMZ4sGSd+xI9wywCZMlPOmL0VjM7RDI6xk7payGbW8v7xp+77FGLPgpln2jalNFz5ioc2Tqb4i20gcSF1SZvv6+ZEoINdO7Xf+g9FZ9BQ2Ww0WhhhL9oy/NaDNCdyqza2LISOL6WY3zGft/I7JOtn/s8jW9tlg07fy/ybQSYSKdw4yI103IpgVjwWE+KbmJP3rNJT3aq/TXeN9Rl+1HDcc1ud1M2awvrQLBNz2dSHMA==;SgMwGvX5o5oUez3GJUI+wA=="
 ---

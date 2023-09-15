@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/currencies/thailands-kban
 webUrl: "https://markets.businessinsider.com/news/currencies/thailands-kbank-starts-100m-fund-targeting-ai-and-web3-1032629219"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -36,6 +36,20 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/11/Money-Dollars-Benjamins-100.jpeg"
         width: 1280
         height: 960
+        isCached: true
+  - title: "KBTG launches KXVC – a 100 million USD flagship fund targeting global AI, Web3, and Deep Tech startups and funds with potential synergy in APAC"
+    excerpt: "KASIKORN Business-Technology Group (KBTG) – a tech arm of KASIKORNBANK (KBank) – launches KXVC – 100 million USD flagship fund targeting AI, Web3, and Deep Tech fintech startups globally with potential synergy in APAC. Asia-Pacific, especially ..."
+    publishedDateTime: 2023-09-15T02:10:00Z
+    webUrl: "https://www.thaipr.net/en/finance_en/3383341"
+    type: article
+    provider:
+      name: thaipr.net
+      domain: thaipr.net
+    quality: 3
+    images:
+      - url: "https://www.thaipr.net/wp-content/uploads/2023/09/TBN_Photo_BOT-Digital-Finance-Conference-2023-scaled-e1694758222637-768x512.jpg"
+        width: 768
+        height: 512
         isCached: true
 
 secured: "+w/ABciGf/BOb7WbVlelxKxAnv0sS3iVSg+rwnUXJaj0S0qxgLbX/KlbN+nOHwtaLw7XlvWaWPDKo0ZRWAmf10nA53HQqGak5ym33QKCYzO5FzWY8scFFu7A8h+bI1Mx7veU5A/Tkjomzh0vv/hacDo0uUPuecYuBzyd1YNIcE7zdv+HUhGGivJH44hbbUgqNcV3jCYN3qISPEcQlM6d6+gXXnOyRuv48H3xS1t3ZkCCw6NgL2UpqquXpUw3No3MJY9pMmgAlcbLlhkYNcqlvgAzUdDjD62aGN0pHrDxF7v0qaw6T8axLCx7FCXKPoe8zkCRMlfB7KpocVm264HR6aq/iiqGjLGfHHy/F6+G4t0=;+9KQ8nUciXN3umVP7x74LQ=="

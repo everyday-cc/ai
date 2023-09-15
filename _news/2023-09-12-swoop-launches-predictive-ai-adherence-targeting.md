@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Swoop Launches Predictive AI Adherence Targeting"
-excerpt: "Swoop, the leading provider of custom direct-to-consumer (DTC) and healthcare provider (HCP) audiences for the pharmaceutical and life sciences industry, today announced the launch of Predictive AI Adherence Targeting."
-publishedDateTime: 2023-09-12T12:02:00Z
-originalUrl: "https://www.bakersfield.com/ap/news/swoop-launches-predictive-ai-adherence-targeting/article_100b10d2-9ec0-551f-99d4-54e0c15f12d0.html"
-webUrl: "https://www.bakersfield.com/ap/news/swoop-launches-predictive-ai-adherence-targeting/article_100b10d2-9ec0-551f-99d4-54e0c15f12d0.html"
+excerpt: "Swoop Predictive AI Adherence Targeting uncovers the patients most likely to become non-adherent within the next 30 days for highly precise marketing."
+publishedDateTime: 2023-09-12T16:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20230912349151/en/"
+webUrl: "https://www.businesswire.com/news/home/20230912349151/en/"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: The Bakersfield Californian
-  domain: bakersfield.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Healthcare
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "Stability AI, gunning for a hit, launches an AI-powered music generator"
@@ -88,6 +82,22 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot_singing_3-800x450.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Stability AI just unveiled a text-to-music generator, and you can try it. Here's how"
+    excerpt: "The Stable Audio app uses generative AI techniques to create music, sound effects, and audio up to 90 seconds long based on user prompts."
+    publishedDateTime: 2023-09-14T17:55:00Z
+    webUrl: "https://www.zdnet.com/article/stability-ai-just-unveiled-a-text-to-music-generator-and-you-can-try-it-heres-how/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/stability-ai-just-unveiled-a-text-to-music-generator-and-you-can-try-it-heres-how/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/stability-ai-just-unveiled-a-text-to-music-generator-and-you-can-try-it-heres-how/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 80
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/4e067f1f8c2abf3b2db1a2f0abfb7929a278ce41/2023/09/14/5df6af52-6068-4bca-a545-2e56805b3c37/waves-gettyimages-184286397.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Winn.AI Introduces AI-Powered \"Magic Emails\" To Revolutionize Sales Follow-Ups"
     excerpt: "Winn.AI, an Israel-based sales tech startup that helps sales teams win more deals with less hassle through its innovative real-time tracking, capturing, and CRM updating features, introduces Magic Emails,"
@@ -292,6 +302,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "LXl0q1HCT2aCpH9Kmcqg6LyjjrXDV13j9gmKyKoooO3O0ko7Q75K3muO6p4qo+cQdIUZuRFvsWDA/wyyNrHEJZp1peXaNQxUGDboYTOUeOFSAA7yypvAu18KZV+ld9S/euWG0Dpuny9BHm8A93BT0yBh1K5yG5xtUr446Y/Jxf1MqXc4fJOVZN/F+LekIZjg43dIbp4xlPzCLjcRnvthbrYsUglhrfvklzIQRbdXEMjabIX5TjUiAvXo5Lgr5sOANVtiNG/Ww/1MqTBe9/A3B7WyfyWxtDC/wIQDMxUKLdxCoEIRjVmS38UrdjsrlllJXlA6PKcc4xZuOAq3p25W2xfv6z9sInUTbrYOc+Es57w=;JNQBSf85jNUgYWN+wZz9ag=="
+secured: "uBQOlEQTmDdele8SF+QjTHwswCCdPJJJijHCzH94s//iJ0eEHGls1noTVQgG4nhFs1tRMqwhx/jLN6Sj3Bi2D48L4oMTUaIV0BmGAzy3ERZYu67nkDq489UUa6/q1j4kAoRsg+FkPOLsvM2CuLNZXVEOfeJA4iduXAfp1YpWOdZrpEmts8RfK0nc0eVhV1UZMIOVSQC4DAX4O5vK2NN7HWEnM0wGmlEl4E/zq8cz0wI0FX022Kt9hT5n+rXLZ9VkinUK1iY80Nl5TTKWQbNbU37jiA9BfscHxztVxJ4Ic4D3ICC+XuRo1jjbN9Ts0axrdMFye5VGuvg4fzG82d6CPezHxf3nhFfbofrNrmWY3b0=;xfWZHMrOoAfy/CWja3H4gQ=="
 ---
 

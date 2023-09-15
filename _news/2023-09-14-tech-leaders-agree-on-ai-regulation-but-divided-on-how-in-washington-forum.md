@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/sep/13/tech-leaders-wash
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/sep/13/tech-leaders-washington-ai-saferty-forum-elon-musk-zuckerberg-pichai"
 type: article
 quality: 55
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -53,15 +53,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Tech industry leaders endorse regulating artificial intelligence at rare summit in Washington"
-    excerpt: "The nation's biggest technology executives on Wednesday loosely endorsed the idea of government regulations for artificial intelligence at an unusual closed-door meeting in the U.S. Senate. But there is little consensus on what regulation would look like,"
-    publishedDateTime: 2023-09-14T00:53:00Z
-    webUrl: "https://lasvegassun.com/news/2023/sep/13/tech-industry-leaders-endorse-regulating-artificia/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 6
 
 secured: "RlMtlZ+D9Ux3vKqDs6FrkKCzqBabm/ufXCBuhZYJT9xH01sJiIJauz3kBvqgUFLnPnISsJ/FMhNCPNc/vE3+RrS2SJffJXnYQnCz2I38ikiqLqvB29E6qFf7CCPrdSM9M9pTf5HoHJFnt6jJ4kTWNxJfmPL25ZhcysQdpEYlXSsC5yld/Zlz6nN9L+Vmjz8FVsG90aFnR1WNMV5+22QQogpGlbno6rbzRW2V4jQz6S5KCYVyUTifQJqicG/9Ljuvb0k7dzM/EgJeb8cENy9A3ZFSkK+kvcrSEF/xJvArWIsLckKLqJosE09uUjjrbHQRMEOaZTuAwnTSJxNJRKslBzcg0JMa9p9eFlB8d5xL+ZXGJyoLtVbQEWErek5NValkNiWtrpG3wWP0aLoVkrZEGhJ4BItSqWN0I5ciPcAJdxVui0MOTTGFym0Lxsau3ar/R3+APfc+UQuw0Ra63pVSsTgumUKuhlib9MzRKluyO+s0V5sVDSHpe7rHuZUpsMMATGe2jyb5qJKM/Zh4zFBb8g==;LIqN34zxcSM2pcxgY++Qvw=="
 ---

@@ -21,17 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "A look at emerging technologies and cybersecurity challenges in fintech"
-    excerpt: "Fintech now has a broader palette of options attributable to the confluence of blockchain, AI, and IoT, which offer improved effectiveness, transparency, and customer experience. Artificial intelligence and blockchain technologies find extensive application within the realm of the Internet of Things (IoT)."
-    publishedDateTime: 2023-09-10T12:50:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-a-look-at-emerging-technologies-and-cybersecurity-challenges-in-fintech-3238705/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 4
-
 secured: "qaxoPqse/XuDbMcD4GuAvVabGkr7g0I2MoejMbSACr5SJaiqZptyBRDcfDeNKFVZYaN8XErgcRWSdJDmyiSCgtbemB6n0BetFw/fGcCSaTiSJpyZwxNmt+K2iFGODqZQP1i1ezPhfqKFFJ4/du0ySjygqDhjEchzsn6JniVOXWUbONGclNE3wD6y2c6ei8SByV27fnLEWBxo2oIgon5VnWnGzHPDikCmSoDYNOWPFqhJhgo4MXLDc2qFF3d65NjszsdXn/+0Hp42M4+xHyb7XMAUMFLiKbpFmTm76KLAWbFvx0mHeuh1G286aNnGjhh3fttSxpxdRTbmM0Fes3nA24pIusZeg7WAyBAmJyXagfY=;hsZB4zNK1eNm5jW8HGftWw=="
 ---
 
