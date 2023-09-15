@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Live Facial Recognition deployment leads to arrest of wanted man"
-    excerpt: "The man had been found in possession of two knives in Woodfield Road, W2 and had failed to appear for sentencing"
-    publishedDateTime: 2023-09-10T14:13:00Z
-    webUrl: "https://news.met.police.uk/news/live-facial-recognition-deployment-leads-to-arrest-of-wanted-man-472005"
+  - title: "Govt ploughs ahead with facial recognition system"
+    excerpt: "One-to-one facial recognition, on the other hand, is used every day for verifying a person’s identity by matching one headshot of a person against another. Think of going through a passport gate or signing up for an app that needs a photo of your driver’s licence and a selfie."
+    publishedDateTime: 2023-09-14T01:08:00Z
+    webUrl: "https://ia.acs.org.au/article/2023/govt-ploughs-ahead-with-facial-recognition-system.html"
     type: article
     provider:
-      name: Metropolitan Police Service
-      domain: police.uk
+      name: ia.acs
+      domain: acs.org.au
     quality: 39
     images:
-      - url: "https://resources.mynewsdesk.com/image/upload/ar_16:9,c_fill,dpr_auto,f_auto,g_auto,q_auto:good,w_1782/itacfh0dgvzmgaqjklqk"
-        width: 1782
-        height: 1002
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/identity_verification.jpg"
+        width: 1333
+        height: 750
         isCached: true
 
 secured: "oKmrtni3Tmu82rf+qUGdRYwsTheUZ1oVgoQUoCZxoWxsfHLQbzTSV7pAcDzA4XElOB8V8RRKZG5bFEkCX23qnJ1oQeGPdVNPPEty+wzjfjJ6NUPNytD54Oxp02bu2kYesqcrZ2bVYQxD6otkNCReh7GBxMRZ+mDyI5icgCIayd3y31q/J3/Ko2QlctQ7SF8q6ab10c7mAz1C5RdlY4M3I1YG7d3h8ThE0ni9NIATIPzqGv3TrA3x1YjkY8Mib/xrdW+Bz7mu0OmJonWRAWPlX2oN6ILsXyYDgVmJmjLqys5jgdCvUhVGL+/WYrYPuONe8SXZXNa5ncKXv32izitOqSPA49Wnuv8wzr99e2ik8NMB5RMF5WfJ5b3KCmXTD9IEV2idljbkFoE/ASd9BWwM/4lQe0v1XgRQx0nDojcb7uZntuGGDQdYnZbpay53/k3VHW5McCTIulwMnD8VvbKmcCDemMEV+CN4YqNjwCOFGEO/BMt60ZaVTi1Q6M5hAiHH6tDInjyTGxrXTn7xyU6oXg==;02LXjGBzBjjU1fJCh3wqQg=="

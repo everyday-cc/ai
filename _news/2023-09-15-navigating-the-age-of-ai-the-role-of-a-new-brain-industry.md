@@ -3,10 +3,10 @@ category: news
 title: "Navigating the Age of AI: The Role of a New Brain Industry"
 excerpt: "To harness the benefits of AI and minimize its risks, we outlined an aggressive brain capital industrial strategy in a new research paper from Rice University’s Baker Institute for Public Policy. A mission-oriented approach is an important aspect of our strategy for advancing America’s brain capital."
 publishedDateTime: 2023-09-15T01:12:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/building-brain-capital/202309/navigating-the-age-of-ai-the-role-of-a-new-brain-industry"
-webUrl: "https://www.psychologytoday.com/us/blog/building-brain-capital/202309/navigating-the-age-of-ai-the-role-of-a-new-brain-industry"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/building-brain-capital/202309/navigating-the-age-of-ai-the-role-of-a-new-brain-industry?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/building-brain-capital/202309/navigating-the-age-of-ai-the-role-of-a-new-brain-industry?amp"
+originalUrl: "https://www.psychologytoday.com/intl/blog/building-brain-capital/202309/navigating-the-age-of-ai-the-role-of-a-new-brain-industry"
+webUrl: "https://www.psychologytoday.com/intl/blog/building-brain-capital/202309/navigating-the-age-of-ai-the-role-of-a-new-brain-industry"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/building-brain-capital/202309/navigating-the-age-of-ai-the-role-of-a-new-brain-industry?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/building-brain-capital/202309/navigating-the-age-of-ai-the-role-of-a-new-brain-industry?amp"
 type: article
 quality: 57
 heat: -1
@@ -41,22 +41,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/601970d9c8203051a4c3b134/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "The Future Of AI In Business: Predictions And How To Prepare"
-    excerpt: "AI has exploded in popularity in 2023. Here are my predictions for what's to come with AI and how your business can prepare."
-    publishedDateTime: 2023-09-13T11:44:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/09/13/the-future-of-ai-in-business-predictions-and-how-to-prepare/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/09/13/the-future-of-ai-in-business-predictions-and-how-to-prepare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/09/13/the-future-of-ai-in-business-predictions-and-how-to-prepare/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63d3d76c6f41b0b2774c5504/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 799
         isCached: true
   - title: "The Human Touch in LLMs and GenAI: Shaping the Future of AI Interaction"
     excerpt: "About the author: Rohan Agrawal is the CEO and Founder of Cogito Tech, a provider of AI training solutions that offers a human-in-the-loop workforce for computer vision, natural language processing, content moderation, and data and document processing."
@@ -101,6 +85,6 @@ related:
         height: 400
         isCached: true
 
-secured: "rHI9FB+suexpkGEC5KbicQpsrUoOUwwZYWsarMGbHDP7Wlpf/dRKrEiGSHG9+H6gf18aGPoMNvrhhYj7DIz+BHwp1XSPLbS3YImmHnQd5R3Ix9f0mtTlPI38M/LgjUG6psgXiIQNC7TG2TIDLzIH1JLY7hP/xIU/oHdOLfxNjUJGpJLnyN+yMuHvtXytk9PxhUKISmsim+/Bu4QBuopbp28LdlyueHgOG/3uyhne0WWFlhUs+jjO0ORvlArrKp7POMClD963dSN2CfC8+w5bmOREegSpZUV+sQ1flNqTm1H/BlzbsWVWdMYvNfDvYhH3IQWQNdRCnXrqOxKImPWjc3r4uZtXtBq0HscgsKJd27A=;tpZOCVOI6u1/6nZ9byPzOQ=="
+secured: "+rw8UyLDV4L8aSlWsmsXVWLLCEqf2rnZU+gUJEroO81RwPP4NfvHH2OjHYA7VPeRxwfzg/gZ80PMEOKVSnUBO55alA6J6nv21VlHE28DAG2rsboeouk0fYaZTV1ffqweWLm/EwvAGnHg0/O8WgfUiYMOMhae6HNhUPR1olPjTAjLto5rxWqqA3lF2QyWq3yvSQvKUzwLmLc+L0z93Hkyr+pTcEgtCJqPBQF9MvMP7vBCMJxaid+XKMf48lQnwaJZc45cIvgfAkcd9uKTtqaox6/gYznihWqiv661Is2ZxWBRtdmjRY/SJdGcrOQRQ66Z3vFfhw1PMG27tYFTF/8P7bJevg/N9BUadeR6lTmZiAY=;kvImKGWTnPcXAxlKh5/Rxw=="
 ---
 

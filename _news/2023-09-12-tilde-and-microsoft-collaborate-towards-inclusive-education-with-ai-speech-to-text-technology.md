@@ -161,6 +161,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Oracle and Microsoft expand partnership to its offer database services on Azure"
+    excerpt: "With this, Microsoft will be the only other hyperscaler to offer Oracle Cloud Infrastructure Database Services. The announcement comes less than a week after Oracle reported slowdown in cloud sales growth making investors question its market competitiveness."
+    publishedDateTime: 2023-09-15T07:16:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/oracle-and-microsoft-expand-partnership-to-its-offer-database-services-on-azure-11374351.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/oracle-and-microsoft-expand-partnership-to-its-offer-database-services-on-azure-11374351.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/oracle-and-microsoft-expand-partnership-to-its-offer-database-services-on-azure-11374351.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 70
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/04/larry-ellison.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Microsoft joins hands with Paige to build world’s largest AI model to fight cancer"
     excerpt: "Tech giant Microsoft has joined hands with Paige, a digital pathology provider, to build world’s largest image-based artificial intelligence (AI) models that can fight against cancer. The new AI model is orders-of-magnitude larger than any other image-based AI model existing today, configured with billions of parameters, the companies said."
     publishedDateTime: 2023-09-11T06:34:00Z
@@ -312,15 +328,6 @@ related:
       name: enterprisetalk
       domain: enterprisetalk.com
     quality: 34
-  - title: "Microsoft and Paige team up to develop world's largest cancer-fighting AI model"
-    excerpt: "The image-based AI model will capture cancer's complexities, fueling the next-gen clinical apps and biomarkers in oncology and pathology"
-    publishedDateTime: 2023-09-10T13:18:00Z
-    webUrl: "https://www.nationalheraldindia.com/science-tech/microsoft-and-paige-team-up-to-develop-worlds-largest-cancer-fighting-ai-model"
-    type: article
-    provider:
-      name: National Herald
-      domain: nationalheraldindia.com
-    quality: 30
   - title: "CEOs of Meta, Alphabet, Microsoft and Nvidia set to talk AI with members of Congress"
     excerpt: "Expected to attend are Meta Platforms Inc. CEO Mark Zuckerberg, Alphabet Inc., and Google LLC CEO Sundar Pichai as well as former Google CEO Eric Schmidt."
     publishedDateTime: 2023-09-13T14:37:00Z
@@ -330,20 +337,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 27
-  - title: "Microsoft and Oracle Expand Partnership to Deliver Oracle Database Services on Oracle Cloud Infrastructure in Microsoft Azure"
-    excerpt: "AUSTIN, Texas and REDMOND, Wash., Sept. 14, 2023 /PRNewswire/ -- Oracle Corp and Microsoft Corp today announced Oracle Database@Azure, which gives customers direct access to Oracle database services running on Oracle Cloud Infrastructure (OCI) and deployed in Microsoft Azure datacenters."
-    publishedDateTime: 2023-09-14T20:09:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/09/14/9881646.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 27
-    images:
-      - url: "https://mma.prnewswire.com/media/2210359/Oracle_Microsoft_Joint_Image.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "Microsoft and Esri to speed up access to Earth-observation data"
     excerpt: "Microsoft also added the Planetary Computer, a platform that combines multi-petabyte global datasets related to biodiversity and climate change with machine-learning tools, to Azure Space. In addition, NASA Langley Research Center, NASA Goddard Space ..."
     publishedDateTime: 2023-09-13T12:30:00Z
@@ -353,6 +346,15 @@ related:
       name: SpaceNews
       domain: spacenews.com
     quality: 19
+  - title: "Microsoft and Oracle expand partnership to deliver Oracle Database Services on Oracle Cloud Infrastructure in Microsoft Azure"
+    excerpt: "Microsoft joins Oracle as the only other hyperscaler to offer Oracle Cloud Infrastructure Database Services to simplify cloud migration, multicloud deployment and management Austin, TX and Redmond, WA — September 14,"
+    publishedDateTime: 2023-09-14T20:00:00Z
+    webUrl: "https://news.microsoft.com/2023/09/14/microsoft-and-oracle-expand-partnership-to-deliver-oracle-database-services-on-oracle-cloud-infrastructure-in-microsoft-azure/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 7
 
 secured: "jlWv2sxVSKFQVc7FGUnlW6vhhgwUVW1PLsUW+9sszKOkWzjw0pEh1jgXA8l0ObC4ChARUbXttDYqEQ7ictzD1aysr+Y2zfKN7Mb4ueE3ja54fANTi0n43WUiUe9BQPlQkZXDEMM2yInUZ7IfnKM5ZsYHxk4ZrlNiy7g6JoVTZN5xgcsk02QlQfErFyl0YuVr+u5cb/VG5wWqGNHvUe+/wk286mOc0I8SmJ8iwuWfN+8XDJSgMYCj1a/qDTYp+6uj0yy/pLk4xWrZA3v6+vLrIR95Q59z/4UzXl7ugiYREsCocWX+OIPlpC4pnSfe/k7h5InS8dx2NTcPT7hnX7JAeyxZvgnvWuTDE/FFBfdfaVxgEkT4CdN3lm0A6VTl2E80nFTMf+ffHyMvLg7Y5hpQ0YculQRnZ5KDgYjOtKQKHXvKdR/om3FWisUSoVZAeAzX10R6QNcNDv5iGtfQoghCeFV4/rAH5KAZEL8YhgjXL1JYcByqxplN8JE5nUbChVkwo5HNzP75WQ342sU9KG2qfQ==;yb5t9r+2/+opzrXLADIOww=="
 ---

@@ -20,13 +20,13 @@ topics:
 
 related:
   - title: "DEEPX Charts Path to a Limitless Open Edge AI Ecosystem with New AI Dev Kits that Break GPU Boundaries"
-    excerpt: "DEEPX is poised to unveil five cutting-edge technologies, encompassing support for the latest AI algorithms, GPU-level AI precision, unmatched power-to-performance efficiency, comprehensive ..."
-    publishedDateTime: 2023-09-11T13:25:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20230911cn05419/deepx-charts-path-to-a-limitless-open-edge-ai-ecosystem-with-new-ai-dev-kits-that-break-gpu-boundaries"
+    excerpt: "In addition, DEEPX is forging strategic partnerships with module and IT system OEMs across the globe. These collaborations aim to integrate DEEPX's products into various embedded systems, with plans to expand the range of open-source hardware products compatible with DEEPX's offerings in the future."
+    publishedDateTime: 2023-09-11T15:40:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/09/11/9878244.htm"
     type: article
     provider:
-      name: Morningstar
-      domain: morningstar.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 38
     images:
       - url: "https://mma.prnewswire.com/media/2206599/DEEPX__M_2_Module_based_Orange_Pi.jpg"

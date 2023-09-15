@@ -159,6 +159,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Oracle and Microsoft expand partnership to its offer database services on Azure"
+    excerpt: "With this, Microsoft will be the only other hyperscaler to offer Oracle Cloud Infrastructure Database Services. The announcement comes less than a week after Oracle reported slowdown in cloud sales growth making investors question its market competitiveness."
+    publishedDateTime: 2023-09-15T07:16:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/oracle-and-microsoft-expand-partnership-to-its-offer-database-services-on-azure-11374351.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/oracle-and-microsoft-expand-partnership-to-its-offer-database-services-on-azure-11374351.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/oracle-and-microsoft-expand-partnership-to-its-offer-database-services-on-azure-11374351.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 70
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/04/larry-ellison.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Microsoft joins hands with Paige to build world’s largest AI model to fight cancer"
     excerpt: "Tech giant Microsoft has joined hands with Paige, a digital pathology provider, to build world’s largest image-based artificial intelligence (AI) models that can fight against cancer. The new AI model is orders-of-magnitude larger than any other image-based AI model existing today, configured with billions of parameters, the companies said."
     publishedDateTime: 2023-09-11T06:34:00Z
@@ -319,15 +335,6 @@ related:
       name: enterprisetalk
       domain: enterprisetalk.com
     quality: 34
-  - title: "Microsoft and Paige team up to develop world's largest cancer-fighting AI model"
-    excerpt: "The image-based AI model will capture cancer's complexities, fueling the next-gen clinical apps and biomarkers in oncology and pathology"
-    publishedDateTime: 2023-09-10T13:18:00Z
-    webUrl: "https://www.nationalheraldindia.com/science-tech/microsoft-and-paige-team-up-to-develop-worlds-largest-cancer-fighting-ai-model"
-    type: article
-    provider:
-      name: National Herald
-      domain: nationalheraldindia.com
-    quality: 30
   - title: "CEOs of Meta, Alphabet, Microsoft and Nvidia set to talk AI with members of Congress"
     excerpt: "Expected to attend are Meta Platforms Inc. CEO Mark Zuckerberg, Alphabet Inc., and Google LLC CEO Sundar Pichai as well as former Google CEO Eric Schmidt."
     publishedDateTime: 2023-09-13T14:37:00Z
@@ -337,20 +344,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 27
-  - title: "Microsoft and Oracle Expand Partnership to Deliver Oracle Database Services on Oracle Cloud Infrastructure in Microsoft Azure"
-    excerpt: "AUSTIN, Texas and REDMOND, Wash., Sept. 14, 2023 /PRNewswire/ -- Oracle Corp and Microsoft Corp today announced Oracle Database@Azure, which gives customers direct access to Oracle database services running on Oracle Cloud Infrastructure (OCI) and deployed in Microsoft Azure datacenters."
-    publishedDateTime: 2023-09-14T20:09:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/09/14/9881646.htm"
+  - title: "Microsoft and Oracle expand partnership to deliver Oracle Database Services on Oracle Cloud Infrastructure in Microsoft Azure"
+    excerpt: "Microsoft joins Oracle as the only other hyperscaler to offer Oracle Cloud Infrastructure Database Services to simplify cloud migration, multicloud deployment and management Austin, TX and Redmond, WA — September 14,"
+    publishedDateTime: 2023-09-14T20:00:00Z
+    webUrl: "https://news.microsoft.com/2023/09/14/microsoft-and-oracle-expand-partnership-to-deliver-oracle-database-services-on-oracle-cloud-infrastructure-in-microsoft-azure/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 27
-    images:
-      - url: "https://mma.prnewswire.com/media/2210359/Oracle_Microsoft_Joint_Image.jpg"
-        width: 400
-        height: 300
-        isCached: true
+      name: Microsoft
+      domain: microsoft.com
+    quality: 7
 
 secured: "zYXKUrSm0Q2f2nsD6Oixa1H7eQtBGTb0p6fBZ1ztTZQAfVe12A6RCbIkSg2imiyWz0rFX82HnWDkNQBK+CqWYoYMW8/sOTBvRK2hrVhgRL4IsQuJaTvSByvW0im3KYZ6YJSdJe/oiJ3CbSKBQz5WgvnA+9yL877HEqkCfMYAxhJ2UDUg1n8fmfIIXuOEBvAfR/wEVIpptKDvnjsklRjY8x6DwULFOz1FmQ8YArq8mddIIOyI//+Pur/s4YgFeJvtF0ePbZEsNVUND5SpLQzH+Fg0LCeedpFCdkaocfYAENxkdGt8v64xvTnmas7f6qXQIQIqJ6jQ6vRQAVd/IMg3q1rFZahTs7DWQFSq/MpxbWz154Kjt4Rdquk3taRF5LBYfQH4Q8vhjqBMkH7709CSD024e5EH+hXMSuTixD8jcJfUTgexehS93EFRwiVQQev/23Xbpfdw3JN9b3BAG2wwba2L3IZJg7J1kXoyJKta7GvXu3oVT7EKR5GncX76wroLO6GjPg2590XTdCaSGGgv9g==;137rGy1QwOASLpTWXYIOgQ=="
 ---

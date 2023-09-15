@@ -30,80 +30,43 @@ images:
     isCached: true
 
 related:
-  - title: "The Future Of Artificial Intelligence: Predictions And Trends"
-    excerpt: "One of the most significant benefits of integrating AI into our digital marketing strategies is the seamless management of campaigns. With this process, we have found AI-powered tools to analyze campaign performance in real time, making instantaneous adjustments to optimize results."
-    publishedDateTime: 2023-09-11T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/09/11/the-future-of-artificial-intelligence-predictions-and-trends/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/09/11/the-future-of-artificial-intelligence-predictions-and-trends/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/09/11/the-future-of-artificial-intelligence-predictions-and-trends/amp/"
+  - title: "RoboBusiness: NVIDIA to discuss role of Generative AI in robotics"
+    excerpt: "We have seen a huge leap in the capabilities of Generative AI algorithms as demonstrated through ChatGPT, Stable Diffusion, and other algorithms. It is expected that Generative AI will also have a large impact on robotic reasoning, visual understanding, and physical execution abilities."
+    publishedDateTime: 2023-09-12T21:17:00Z
+    webUrl: "https://www.therobotreport.com/robobusiness-nvidia-to-discuss-role-of-generative-ai-in-robotics/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 99
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/601970d9c8203051a4c3b134/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://www.therobotreport.com/wp-content/uploads/2023/06/chatgpt-robotics.jpg"
+        width: 800
+        height: 554
         isCached: true
-  - title: "Navigating the Age of AI: The Role of a New Brain Industry"
-    excerpt: "To harness the benefits of AI and minimize its risks, we outlined an aggressive brain capital industrial strategy in a new research paper from Rice University’s Baker Institute for Public Policy. A mission-oriented approach is an important aspect of our strategy for advancing America’s brain capital."
-    publishedDateTime: 2023-09-15T01:12:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/building-brain-capital/202309/navigating-the-age-of-ai-the-role-of-a-new-brain-industry"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/building-brain-capital/202309/navigating-the-age-of-ai-the-role-of-a-new-brain-industry?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/building-brain-capital/202309/navigating-the-age-of-ai-the-role-of-a-new-brain-industry?amp"
+  - title: "Nvidia to build AI infrastructure and train engineers in India"
+    excerpt: "Following the meeting between India's Prime MInister Narendra Modia and Nvidia CEO Jensen Huang, Nvidia announced a partnership with Reliance Industries for buildning AI infrastructure and to train engineers at Tata Consultancy Services,"
+    publishedDateTime: 2023-09-11T02:14:00Z
+    webUrl: "https://www.digitimes.com/news/a20230911VL201/nvidia-india-ai-infrastructure-it+ce-software-big-data.html"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-09/pexels-thisisengineering-3861969.jpg?itok=O7b4XPWg"
-        width: 1528
-        height: 800
-        isCached: true
-  - title: "The Human Touch in LLMs and GenAI: Shaping the Future of AI Interaction"
-    excerpt: "About the author: Rohan Agrawal is the CEO and Founder of Cogito Tech, a provider of AI training solutions that offers a human-in-the-loop workforce for computer vision, natural language processing, content moderation, and data and document processing."
-    publishedDateTime: 2023-09-12T17:31:00Z
-    webUrl: "https://www.datanami.com/2023/09/12/the-human-touch-in-llms-and-genai-shaping-the-future-of-ai-interaction/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
+      name: Digi Times
+      domain: digitimes.com
     quality: 39
     images:
-      - url: "https://www.datanami.com/wp-content/uploads/2020/10/robot_finger_shutterstock_Sdecoret.jpg"
-        width: 891
-        height: 525
+      - url: "https://img.digitimes.com/newsshow/20230911vl201_files/4_2b.jpg"
+        width: 1280
+        height: 853
         isCached: true
-  - title: "COUNTER AI: Schools here and across the nation seeking smart AI policies"
-    excerpt: "Schools in Aurora and across the country wade through a jungle of thorny issues surrounding artificial intelligence writing applications"
-    publishedDateTime: 2023-09-14T20:09:00Z
-    webUrl: "https://sentinelcolorado.com/metro/counter-ai-schools-here-and-across-the-nation-seeking-smart-ai-policies/"
+  - title: "AI Trends In International Business: Insights from Three Leaders"
+    excerpt: "Three industry leaders in AI stand out by demonstrating their shared backgrounds and training that led them each to have unparalleled success in AI: Kai-Fu Lee, Harry Shum and Qi Lu."
+    publishedDateTime: 2023-09-13T18:52:00Z
+    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/09/13/ai-trends-in-international-business-insights-from-three-leaders/70844708007/"
     type: article
     provider:
-      name: Sentinel Colorado
-      domain: sentinelcolorado.com
-    quality: 38
-    images:
-      - url: "https://sentinelcolorado.com/wp-content/uploads/2023/09/AI.coverart.jpg"
-        width: 648
-        height: 431
-        isCached: true
-  - title: "The Future of BaaS: Exploring the Top Predictions for 2022 and Beyond"
-    excerpt: "Welcome to the future of BaaS, where innovation and technology collide to reshape the way businesses operate. As we step into 2022 and beyond, it’s time to unravel the top predictions that will revolutionize this ever-evolving landscape."
-    publishedDateTime: 2023-09-14T15:33:00Z
-    webUrl: "https://techbullion.com/the-future-of-baas-exploring-the-top-predictions-for-2022-and-beyond/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 24
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/09/Untitled-design-2023-09-14T162953.867.png"
-        width: 800
-        height: 400
-        isCached: true
+      name: USA Today
+      domain: usatoday.com
+    quality: 17
 
 secured: "8OobfSz5fgqEe5pYZFKuOtUo1tPt5N3SjP4NDJVipGdjtu38iRtSRH4WzN8lS7iZiXFCZVYN1emlmpA9rTsBVtoJV9qGYUHpbf6R7Ocz2sUvtPg1ZL6by/z8jlP0GFRfTCgGWxqp22hGpVz+mhWZBCmZHggnNOdGPYFxvv6P4l0xTNSeJt6gRk1FKvOvZEFhitpJz55ky5lBRLw/7FwBDNkqumrduOtKbtpDOC0n5reAlLyssQksQV/8zuwLwxOiLT7RMWyTUbKUbXrbWM0G8MEdofCYZoqF36gSZL3JMdUkU/2w3rfLIOIENtYgrqX6glTyW7RtBfnzdIl35nJyukFzYJzjMYYQMeL7mFcjHrodU5VZGDdbrJrFSbFCaTO5GkQ5uuVQpYgBFpM9iqdO4bBINM9ehFpqV1SSWeFKKfD5nvxdPoopV+pEnasOCmWxEY69Q5Uorp47VFUpV1qEq0yfS4Cju7v0YyAvtY3guYCZ+MyFlbUhAThXzj7VHOCPAyj7g4hmldXypXINZu2zeg==;+Hp/WEvMJiIIWqyxrtUYNw=="
 ---

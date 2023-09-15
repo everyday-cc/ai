@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Microsoft and Oracle Expand Partnership to Deliver Oracle Database Services on Oracle Cloud Infrastructure in Microsoft Azure"
-excerpt: "AUSTIN, Texas and REDMOND, Wash., Sept. 14, 2023 /PRNewswire/ -- Oracle Corp and Microsoft Corp today announced Oracle Database@Azure, which gives customers direct access to Oracle database services running on Oracle Cloud Infrastructure (OCI) and deployed in Microsoft Azure datacenters."
-publishedDateTime: 2023-09-14T20:09:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/09/14/9881646.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/09/14/9881646.htm"
+title: "Microsoft and Oracle expand partnership to deliver Oracle Database Services on Oracle Cloud Infrastructure in Microsoft Azure"
+excerpt: "Microsoft joins Oracle as the only other hyperscaler to offer Oracle Cloud Infrastructure Database Services to simplify cloud migration, multicloud deployment and management Austin, TX and Redmond, WA — September 14,"
+publishedDateTime: 2023-09-14T20:00:00Z
+originalUrl: "https://news.microsoft.com/2023/09/14/microsoft-and-oracle-expand-partnership-to-deliver-oracle-database-services-on-oracle-cloud-infrastructure-in-microsoft-azure/"
+webUrl: "https://news.microsoft.com/2023/09/14/microsoft-and-oracle-expand-partnership-to-deliver-oracle-database-services-on-oracle-cloud-infrastructure-in-microsoft-azure/"
 type: article
-quality: 27
+quality: 7
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/2210359/Oracle_Microsoft_Joint_Image.jpg"
-    width: 400
-    height: 300
-    isCached: true
 
 related:
   - title: "Oracle brings its database infrastructure to Microsoft Azure"
@@ -164,6 +162,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/0f30b18e5ff1e2f87f9a61e36a9be575eb4595d7/0_50_4500_2700/master/4500.jpg?width=620&quality=85&auto=format&fit=max&s=239691079d1750a589b4a728380d2704"
         width: 620
         height: 372
+        isCached: true
+  - title: "Oracle and Microsoft expand partnership to its offer database services on Azure"
+    excerpt: "With this, Microsoft will be the only other hyperscaler to offer Oracle Cloud Infrastructure Database Services. The announcement comes less than a week after Oracle reported slowdown in cloud sales growth making investors question its market competitiveness."
+    publishedDateTime: 2023-09-15T07:16:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/oracle-and-microsoft-expand-partnership-to-its-offer-database-services-on-azure-11374351.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/oracle-and-microsoft-expand-partnership-to-its-offer-database-services-on-azure-11374351.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/oracle-and-microsoft-expand-partnership-to-its-offer-database-services-on-azure-11374351.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 70
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/04/larry-ellison.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Microsoft joins hands with Paige to build world’s largest AI model to fight cancer"
     excerpt: "Tech giant Microsoft has joined hands with Paige, a digital pathology provider, to build world’s largest image-based artificial intelligence (AI) models that can fight against cancer. The new AI model is orders-of-magnitude larger than any other image-based AI model existing today, configured with billions of parameters, the companies said."
@@ -325,15 +339,6 @@ related:
       name: enterprisetalk
       domain: enterprisetalk.com
     quality: 34
-  - title: "Microsoft and Paige team up to develop world's largest cancer-fighting AI model"
-    excerpt: "The image-based AI model will capture cancer's complexities, fueling the next-gen clinical apps and biomarkers in oncology and pathology"
-    publishedDateTime: 2023-09-10T13:18:00Z
-    webUrl: "https://www.nationalheraldindia.com/science-tech/microsoft-and-paige-team-up-to-develop-worlds-largest-cancer-fighting-ai-model"
-    type: article
-    provider:
-      name: National Herald
-      domain: nationalheraldindia.com
-    quality: 30
   - title: "CEOs of Meta, Alphabet, Microsoft and Nvidia set to talk AI with members of Congress"
     excerpt: "Expected to attend are Meta Platforms Inc. CEO Mark Zuckerberg, Alphabet Inc., and Google LLC CEO Sundar Pichai as well as former Google CEO Eric Schmidt."
     publishedDateTime: 2023-09-13T14:37:00Z
@@ -353,6 +358,6 @@ related:
       domain: spacenews.com
     quality: 19
 
-secured: "7qY3Jo/Fsl1Bz9IVboI540U5iJU1YTb+t879B/EmNh85mRIEkqTiBPtiaMKtRq0eKClPc05rYXJtdS9hm56UVPMAwTln1wBrFZI3HrFBpSPiNyZdkwpHdqRYJoPV3p9Mxp76Y1E8dQq/sD6ckqaMVEYFfHAVii5YOOzQ2itydK11JmSF6JRD1A8nQo8O/2qPHkfNG8Zez5neG+ksRMOCCB9eUoV2Wg/aVVvklNZMIAczAJfXcnJUd/REB47zkVaykNV9NwyES45rdD2HnTC0AfQyAJ7PFfHTx512XgX+aY9gEhfRbEy8HPCckFrJhirqMJqPHxaqh360EhAKyYHE0Bho3nP1v0RIJ+FUdMJzkAOB+6Kjwy1+KwJ8A7LotEiDkd/wiC9YxICEM6IvG/D8G5e1ks5YahabMMYgIf14mr4xYq1VSBUDMs8DRZ8FE0me8Kao4jqJz8hAU92iTwHBI7CkeUV0q9wgBXSE3yueOMW3tzICsEr8v0xg3J2XD0kWFCnEJqBYluIZs1gTgvUCxA==;rUgWLtde9bwqwxFgXlUIeQ=="
+secured: "znf4yJmCmcQSK2zhiXcthaDdFbrnb1NVxILR6lEn++kzzDfHCftFQwKBq9PIquplUrKpApXzlTzHKq3QUGxyiZ1RJfRRTt0LpSkRfcAlIHO+wofZ/iTBxhIOOANys2NaY6fP5J1SiukzVZT5+XMB+0+NM8u7ibd3YH3pkPRMs6Mx+7LC5jgzfLXFKtOf59Wg1h44UCArlanlxlr/F7ytdzXYwsoa7hdNeUnJAd3XNDdOTVcE2H+RdrO/w0aXoqLDX1HRSHTtPL2oy2CQIJmeN5AfsfSjTo4Rcw886iN5pqy3cGWqE0xxhrHOWXb0O1azJV9cVvtV83vRGVDK2yV+N9ZTiTH/WiQ4WPts6HtJ8TI=;G032A/A1XmqjSvgfHpO2CQ=="
 ---
 
