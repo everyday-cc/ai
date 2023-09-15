@@ -48,6 +48,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Microsoft Surface Laptop Studio 2, Laptop Go 4 Details Leak Ahead of AI Event"
+    excerpt: "Some needed upgrades for the two-year-old Surface Laptop Studio seem to be imminent. Microsoft's upcoming special event on Sept. 21 is going to be more of the \"let us tell you about how wonderful our AI is\" that seems to be in this year's marketing playbook,"
+    publishedDateTime: 2023-09-15T21:57:00Z
+    webUrl: "https://www.cnet.com/tech/computing/microsoft-surface-laptop-studio-2-laptop-go-4-details-leak-ahead-of-ai-event/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 83
+    images:
+      - url: "https://www.cnet.com/a/img/resize/8834c381beb60e3e9d9e3d2e02c4d36345186b77/hub/2022/01/28/25862542-0ad9-4ab9-a880-1c16493e6c54/surface-studio-fresco-dsc00376.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Analysts left Microsoft's AI event feeling even more bullish about the stock"
     excerpt: "Comments from a recent Microsoft event are giving Wall Street more reasons to get bullish on the technology giant."
     publishedDateTime: 2023-09-14T14:02:00Z
@@ -172,6 +186,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Everything we're expecting at Microsoft's Surface and AI event next week"
+    excerpt: "Microsoft's momentous year may culminate in one of its biggest launch events next week. Here's what we're expecting."
+    publishedDateTime: 2023-09-15T18:48:00Z
+    webUrl: "https://www.zdnet.com/article/everything-were-expecting-at-microsofts-surface-and-ai-event-next-week/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 63
   - title: "Even AI Hasn't Helped Microsoft's Bing Chip Away at Google's … – The Wall Street Journal"
     excerpt: "Even AI Hasn't Helped Microsoft's Bing Chip Away at Google's ... The Wall Street Journalsource"
     publishedDateTime: 2023-09-11T05:52:00Z
@@ -185,20 +208,6 @@ related:
       - url: "https://www.inferse.com/wp-content/uploads/2023/09/wp-header-logo-3335.png"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Microsoft says it will protect customers from AI copyright lawsuits"
-    excerpt: "In 2017, Microsoft, by then a seller of open-source software itself, offered to protect customers of its Azure cloud products from legal claims. The company in June announced a program to help customers ensure the AI programs they run on Microsoft ..."
-    publishedDateTime: 2023-09-11T03:04:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/09/11/microsoft-says-it-willprotect-customers-from-ai-copyright-lawsuits"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 54
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/09/10/2276799.JPG"
-        width: 1240
-        height: 828
         isCached: true
   - title: "AI-powered teaching and learning: Microsoft unleashes new educational tools"
     excerpt: "As classrooms worldwide usher in another academic year, tech giant Microsoft steps forward with its cutting-edge AI-powered solutions to push the boundaries"

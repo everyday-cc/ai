@@ -24,6 +24,17 @@ images:
     height: 480
     isCached: true
 
+related:
+  - title: "UTSA, UT Health Partner for Dual Degree Program in Medicine and AI"
+    excerpt: "A five-year program coordinated by the University of Texas at San Antonio and UT Health San Antonio allows students to work toward a medical degree and a master's in artificial intelligence at the same time."
+    publishedDateTime: 2023-09-15T19:36:00Z
+    webUrl: "https://www.govtech.com/education/higher-ed/utsa-ut-health-partner-for-dual-degree-program-in-medicine-and-ai"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 19
+
 secured: "nNBjzrqy5Kwvw5m87vFFtpL2DYzVPWgVuxuITRl67ItHjoC/gvr2NK/1il1ClUWfjF4ecryaR2C4sd23R6GKu5h+Gry6OviUyclV4Ayzd2KanoTDK7T53neGiVHnXTYWsfaGljbjT8jkKLhiiobrAvMKzacfKhNWgnOeQwD//pY9zMmte4TS1YQ+BFanNHR8C/O11HtvyOUzeMRrfvqO77PftvUHZPixd4RhHizFQyI8FKNa8S4gi2efSRtnhcq6IwcVbPHnej2j8Ru8K9MynfEfG/HPtrxrNm1UBDqB57kCEEr6dr854PTGSMM+RY2G3wJ8o8rLRgeHvwfKcJokhxa7V8gHmoGcFSwt6WZGUmM=;BgnsEUdYHuBD8rwW67kv+A=="
 ---
 

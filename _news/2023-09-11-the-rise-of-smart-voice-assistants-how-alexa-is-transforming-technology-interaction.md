@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/the-rise-of-smart-voice-assistants-how-ale
 webUrl: "https://techbullion.com/the-rise-of-smart-voice-assistants-how-alexa-is-transforming-technology-interaction/"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Hey Google, What happens next? Exploring the magic of voice assistants"
-    excerpt: "The wake words are designed to trigger the assistant into action. Voice Recognition: Voice recognition technology is at the heart of every voice assistant. Once activated, your device starts processing the audio it hears and converts it into a digital format."
-    publishedDateTime: 2023-09-12T13:06:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/digital-mehta/hey-google-what-happens-next-exploring-the-magic-of-voice-assistants/?source=app&frmapp=yes"
+  - title: "timeOS wants to transform your calendar into an interactive assistant with AI"
+    excerpt: "TimeAI aims to go further, analyzing realtime and historical data from your calendar, emails, and notes to provide key information on demand."
+    publishedDateTime: 2023-09-15T20:09:00Z
+    webUrl: "https://venturebeat.com/business/timeos-wants-to-transform-your-calendar-into-an-interactive-assistant-with-ai/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 4
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_line_art_flat_illustration_minimal_an_hourglass_in_fron_dc15c87e-a750-40e8-8cad-0d5b0920e5dd.png?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
 
 secured: "dd1XW7LNiKlPYbMgX+N+sT27BEH3rLfwJljM9nU6Ur4zf0qtGWVh8eUnebva2HpnV5/CulCUDOvRSBE7qaB2DMdDU5QfatE+gqmG7/Wamom8a5P3utFA5GNBPwtY2q6R9goB7GGKQaiRtMaFWUhMKzAt/76VNmqJ1drfrffRtRhYA5GiF8ZDanfyHTA/ELcLwKVFZ5k+kweYZjcT5sWB/jNZE4bVKqJHqqVelwdCeTmYwRYzUaaSQbQVfKwslv7ZsR8zY2WrOtkaokN8v4nq99fKS/41Q9S601gqpxw/KvAt6Z+xRUu38m1NREtnITWyR5GxJSOtU3ESDBd2gpKs4ukXznypiLgig+rDoj3R3qo=;YgWImvtC5xRxvLiPHWmAvg=="
 ---

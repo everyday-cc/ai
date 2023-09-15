@@ -27,7 +27,7 @@ related:
     provider:
       name: Wired
       domain: wired.com
-    quality: 62
+    quality: 64
   - title: "Microsoft CEO Nadella Calls Joint Oracle Offering A ‘Profound’ Moment For AI"
     excerpt: "Microsoft has taken an early lead in the generative AI (GenAI) race thanks to Microsoft-backed OpenAI. Oracle Database@Azure promises the performance, scale and workload availability of Oracle Database on OCI with Azure’s security, flexibility and ..."
     publishedDateTime: 2023-09-14T21:47:00Z

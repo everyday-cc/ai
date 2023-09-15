@@ -33,7 +33,7 @@ related:
     provider:
       name: Wired
       domain: wired.com
-    quality: 62
+    quality: 64
   - title: "Meta is building AI model to rival OpenAI's most powerful system"
     excerpt: "Related: Nvidia drops new AI chip expected to cut development costs The sources ... Microsoft is a primary backer of OpenAI and also collaborated with Meta to help make Llama 2 available on Azure, its cloud-computing platform. However, the sources said ..."
     publishedDateTime: 2023-09-11T08:50:00Z

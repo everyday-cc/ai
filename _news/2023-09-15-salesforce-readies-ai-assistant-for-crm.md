@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3706988/salesforce-readies-ai-assi
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706988/salesforce-readies-ai-assistant-for-crm.amp.html"
 type: article
 quality: 119
-heat: 259
+heat: 269
 published: true
 
 provider:
@@ -183,6 +183,15 @@ related:
         width: 611
         height: 458
         isCached: true
+  - title: "Salesforce CEO Marc Benioff says AI models have 'stolen' copyrighted content from media companies"
+    excerpt: "Salesforce CEO Marc Benioff discusses ethical concerns and trust issues around generative AI at the company's Dreamforce conference."
+    publishedDateTime: 2023-09-15T19:41:00Z
+    webUrl: "https://www.businessinsider.com/dreamforce-salesforce-ceo-marc-benioff-generative-ai-2023-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "Salesforce Launches Next Generation of Einstein, Bringing a Conversational AI Assistant to Every CRM Application and Customer Experience"
     excerpt: "NYSE:CRM) Salesforce Launches Next Generation of Einstein, Bringing a Conversational AI Assistant to Every CRM Application and Customer Experience"
     publishedDateTime: 2023-09-12T13:44:00Z

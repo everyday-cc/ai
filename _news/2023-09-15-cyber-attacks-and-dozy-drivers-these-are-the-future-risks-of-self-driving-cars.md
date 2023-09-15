@@ -41,17 +41,15 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "City of Austin releases new data on self-driving cars"
-    excerpt: "Self-driving cars may be the way of the future, but they're encountering quite a few glitches in the here and now. The City of Austin is out with some new numbers on just how many incidents there have been involving those driverless cars."
-    publishedDateTime: 2023-09-11T02:37:00Z
-    webUrl: "https://www.fox7austin.com/news/austin-texas-self-driving-cars"
-    ampWebUrl: "https://www.fox7austin.com/news/austin-texas-self-driving-cars.amp"
-    cdnAmpWebUrl: "https://www-fox7austin-com.cdn.ampproject.org/c/s/www.fox7austin.com/news/austin-texas-self-driving-cars.amp"
+  - title: "Microsoft-backed self-driving car startup Wayve might finally have an answer to the driverless vehicle trust debate"
+    excerpt: "Once the musings of movie makers and authors, self-driving cars are finally beginning to edge into reality. Yet autonomous vehicle (AV) makers have a problem: as exciting as the technology may be, many passengers don't want to put their lives in the ..."
+    publishedDateTime: 2023-09-15T18:06:00Z
+    webUrl: "https://www.aol.com/finance/microsoft-backed-self-driving-car-153624442.html"
     type: article
     provider:
-      name: FOX 7 Austin KTBC
-      domain: fox7austin.com
-    quality: 24
+      name: AOL
+      domain: aol.com
+    quality: 14
 
 secured: "yMHhalguMhVGHH2JN2OPQqXwE0TtNvRFyPMbmUE944c42iBlinUJgWF07Dn2u/nNpybTSi5R2x6yLghAl/JrtYRVm1BDN9LrQ82LQIFaZ/3JbVtsnKOuKiUvFh4F5EQ1p+RUZmbZ90lnox1mcAi3hHFw7BsDxxY2kdwhSEsSowRn/A6EmwICqwgw4SjWwfA/dHjQwZ5uzOqOuD9NFNoyvMjDpyyuXG36SuvbI6aYTN8VRhyWlM+9pwWGmWrTMMmZyuA2MGIFWwmZISoUpZCCG+35DuPzB2wvjWXGezmx6/blxNqstALleGqZEYKiIie2lfaB8QuhDYkqwNFT9VpTXIivjie+MPSzadpHCHGlSA1aG2ZCl1BZYQqvqx5iXZCvcPzjzX0pGpQ4Xl1ekHeBXDharnnHcUkZ6dxgMU3Z7MmCc1WVG1s58laJRE/hHIWu2EBwpeFmVe+wxR3RoIk0ylcO2aoelG2buDyg4jZjqt76G4T0EW4d3oaCYi+amRwD8mWD1UdbkGqxOhKafVfLHg==;kQbgSxsh5eUhS4AdT4nd6A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/09/15/1079499/ai-cancer-screen
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/15/1079499/ai-cancer-screening-overdiagnosis/amp/"
 type: article
 quality: 57
-heat: 77
+heat: 78
 published: true
 
 provider:

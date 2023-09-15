@@ -35,6 +35,20 @@ related:
         width: 714
         height: 520
         isCached: true
+  - title: "How Health Tech is Squashing AI Biases and Leveling the Playing Field in Healthcare"
+    excerpt: "By making large amounts of diverse data widely available, healthcare institutions can feel confident about the evaluation, creation, and validation of algorithms as they're transitioned from ideation to use."
+    publishedDateTime: 2023-09-14T21:34:00Z
+    webUrl: "https://medcitynews.com/2023/09/how-health-tech-is-squashing-ai-biases-and-leveling-the-playing-field-in-healthcare/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 48
+    images:
+      - url: "https://medcitynews.com/uploads/2021/12/GettyImages-177052337.jpg"
+        width: 724
+        height: 483
+        isCached: true
   - title: "Grab this chance to see ‘Flying Man’ Sam Rogers at Dubai World Congress for Self-Driving Transport"
     excerpt: "Latest autonomous vehicles, robots to go on show from September 26 to 27 at DWTC Dubai: The opening keynote at the upcoming Dubai World Congress for Self-Driving Transport will be delivered by Sam \"Flying Man\" Rogers, famous for taking off in his jet suit."
     publishedDateTime: 2023-09-12T06:02:00Z
@@ -78,6 +92,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 39
+  - title: "Some startup founders say VC influence is 'debilitating.' Here's why they are turning down outside funding and bootstrapping instead."
+    excerpt: "Founders are turning down VC funding and instead boostrapping so they can keep control of their business plans and run lean teams."
+    publishedDateTime: 2023-09-14T09:00:00Z
+    webUrl: "https://www.businessinsider.com/startup-founders-are-bootstrapping-instead-of-raising-money-from-vcs-2023-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 21
+    images:
+      - url: "https://i.insider.com/61719cdafee39f0018faadbb?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "How AI Can Help Cut Energy Costs While Meeting Ambitious ESG Goals"
     excerpt: "Implementing AI can help companies slash energy spending and operate sustainably. Tackling these complex challenges by combining AI with human expertise can have an impact far beyond the organizations leading these efforts."
     publishedDateTime: 2023-09-11T12:59:00Z

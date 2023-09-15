@@ -37,6 +37,20 @@ related:
         width: 821
         height: 521
         isCached: true
+  - title: "AWS Unveils Multi-Model Endpoints for PyTorch on SageMaker"
+    excerpt: "Subscribe for free. AWS has introduced Multi-Model Endpoints for PyTorch on Amazon SageMaker. This latest development promises to revolutionize the AI landscape, offering users more flexibility ..."
+    publishedDateTime: 2023-09-12T14:07:00Z
+    webUrl: "https://www.infoq.com/news/2023/09/aws-sagemaker-pytorch/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 71
+    images:
+      - url: "https://res.infoq.com/news/2023/09/aws-sagemaker-pytorch/en/headerimage/generatedHeaderImage-1694464185217.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI and Machine Learning Usage up 15.5% Among Marketing Teams, Snowflake Modern Marketing Data Stack Report Finds"
     excerpt: "Customer adoption of tools or platforms in the Snowflake Data Cloud that power AI & Machine Learning is up 15.5% YoY as marketers begin to explore the potential impact of large language models and generative AI on their work."
     publishedDateTime: 2023-09-15T17:04:00Z

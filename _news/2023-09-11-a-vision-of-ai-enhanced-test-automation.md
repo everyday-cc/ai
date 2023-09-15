@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/a-vision-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/11/a-vision-of-ai-enhanced-test-automation/amp/"
 type: article
 quality: 89
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2023/ai-model-speeds-up-hig.jpg"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Why self-regulation of AI is a smart business move"
-    excerpt: "Robust governance is the surest path to AI initiatives that build customer confidence, reduce risk and drive business innovation."
-    publishedDateTime: 2023-09-11T01:41:00Z
-    webUrl: "https://venturebeat.com/ai/why-self-regulation-of-ai-is-a-smart-business-move/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_technology_regulations_and_standards_for_businesses._co_92a54db8-4f4b-4ca9-ba50-acfcc2028868.png?w=1200&strip=all"
-        width: 1200
-        height: 600
         isCached: true
   - title: "AI used to target kids with disinformation"
     excerpt: "YouTube channels that use AI to make videos containing false \"scientific\" information are being recommended to children as \"educational content\"."

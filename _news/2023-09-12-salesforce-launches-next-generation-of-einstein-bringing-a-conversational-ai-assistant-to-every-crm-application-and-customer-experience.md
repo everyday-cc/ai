@@ -188,6 +188,15 @@ related:
         width: 611
         height: 458
         isCached: true
+  - title: "Salesforce CEO Marc Benioff says AI models have 'stolen' copyrighted content from media companies"
+    excerpt: "Salesforce CEO Marc Benioff discusses ethical concerns and trust issues around generative AI at the company's Dreamforce conference."
+    publishedDateTime: 2023-09-15T19:41:00Z
+    webUrl: "https://www.businessinsider.com/dreamforce-salesforce-ceo-marc-benioff-generative-ai-2023-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "Salesforce to bring AI assistant to all of its applications with Einstein Copilot"
     excerpt: "Using the Model Builder, Einstein Copilot can support a “bring your own model” sort of integration with LLMs from Anthropic, Cohere Inc., Databricks Inc., Google LLC’s Vertex AI, Amazon Web Services Inc.’s SageMaker and others. “If you’re a ..."
     publishedDateTime: 2023-09-12T12:22:00Z

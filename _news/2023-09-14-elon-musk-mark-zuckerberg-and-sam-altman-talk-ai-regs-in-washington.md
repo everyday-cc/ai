@@ -103,22 +103,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Mark Zuckerberg’s Meta working on a new, more advanced AI model to rival OpenAI’s GPT-4"
-    excerpt: "Mark Zuckerberg’s Meta is working on building a new AI model that will be more powerful than its current model Llama 2, and will rival the capabilities of OpenAI’s GPT-4."
-    publishedDateTime: 2023-09-11T03:35:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/mark-zuckerberg-s-meta-working-on-a-new-more-advanced-ai-model-to-rival-openai-s-gpt4-71694403038916.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/mark-zuckerberg-s-meta-working-on-a-new-more-advanced-ai-model-to-rival-openai-s-gpt4-71694403038916.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/mark-zuckerberg-s-meta-working-on-a-new-more-advanced-ai-model-to-rival-openai-s-gpt4-71694403038916.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 51
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/09/11/1600x900/FILES-CANADA-INTERNET-MEDIA-ADVERTISING-GOOGLE-1_1694403099531_1694403116763.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Tech leaders including Musk, Zuckerberg call for government action on AI"
     excerpt: "Meta CEO Mark Zuckerberg, OpenAI CEO Sam Altman, and Microsoft co-founder Bill Gates offered diverging views on the risks of open-source AI research, according to people in the room."
     publishedDateTime: 2023-09-14T00:13:00Z

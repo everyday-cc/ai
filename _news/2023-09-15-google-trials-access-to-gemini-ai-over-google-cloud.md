@@ -42,6 +42,15 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Google Gemini: What We Know So Far"
+    excerpt: "What we know so far indicates Gemini could represent a significant advancement in natural language processing. The fusion of DeepMind’s latest AI research with Google’s vast computational resources makes the potential impact challenging to overstate."
+    publishedDateTime: 2023-09-15T19:55:00Z
+    webUrl: "https://www.searchenginejournal.com/google-gemini-what-we-know-so-far/496494/"
+    type: article
+    provider:
+      name: Searchenginejournal.com
+      domain: searchenginejournal.com
+    quality: 4
 
 secured: "LUPAlsS+eQnX3eCeGOVXZNRVBeMa29fudvBBfbsQPSntr/nE5RVWVMiarkId7WJEcDpoiK1dWNUmp7lpqG9lETFlacuWBXiBgJGT/eS6IgyOvIix1JMPcSCQpQtBDLex/FUMa3XkJzP6oIr5dmE50ByvB4ffo1pJ5syryHxmi9Iskspze4TWMuM+X1W6gacSvb0ZdC/pKJ0yS2xPZI+kxHG6W5bHKU4YuRMD0u8kleN0TBzoP05fbA2MieDbeEOkB91W72q5aBObXapk51Zv6YmqHQ7nejniY1UU81tK1JvUXqgwMLodw892gdKkIdbN8mCOmQChwtn4i1ojV5yNERfp3Zh7WXoUTZG2OOw8j2td/8Z731qtUY9L/x50upphkkJ5knu6yHqbgnoYECJjldo+dVhYdAjUvMLI6Jd94X9aVsUAgLQsUruifeWnnBlvs0xL3e8JLdV6nTUiWugxpbQ9h/b7nxsEOCbq++KalhtZjdtcZanDV9EWuGdp9gDpLw868D2b2vbYm7WcMAswIQ==;jblvQ5WjGRatI3tjHqRx6g=="
 ---

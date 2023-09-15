@@ -3,10 +3,10 @@ category: news
 title: "Why Japan Is Building Its Own Version of ChatGPT"
 excerpt: "Some Japanese researchers feel that AI systems trained on foreign languages cannot grasp the intricacies of Japanese language and culture"
 publishedDateTime: 2023-09-15T14:04:00Z
-originalUrl: "https://www.scientificamerican.com/article/why-japan-is-building-its-own-version-of-chatgpt/"
-webUrl: "https://www.scientificamerican.com/article/why-japan-is-building-its-own-version-of-chatgpt/"
+originalUrl: "https://www.scientificamerican.com/article/why-japan-is-building-its-own-version-of-chatgpt/?ref=upstract.com"
+webUrl: "https://www.scientificamerican.com/article/why-japan-is-building-its-own-version-of-chatgpt/?ref=upstract.com"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
@@ -17,12 +17,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://static.scientificamerican.com/sciam/cache/file/2692254C-BF22-4DF9-8E475D823167954E.jpg"
-    width: 790
-    height: 496
-    isCached: true
 
 related:
   - title: "AI app Character.ai is catching up to ChatGPT in the U.S."
@@ -304,15 +298,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "AI tech behind ChatGPT was built in Iowa -- with lots of water"
-    excerpt: "The cost of building an artificial intelligence product such as ChatGPT can be hard to measure. But one thing Microsoft-backed OpenAI needed for its technology was plenty of water, pulled from the watershed of the Raccoon and Des Moines rivers in central Iowa to cool a powerful supercomputer as it helped teach its AI systems how to mimic human"
-    publishedDateTime: 2023-09-11T05:00:00Z
-    webUrl: "https://www.semissourian.com/story/3009378.html"
-    type: article
-    provider:
-      name: Southeast Missourian
-      domain: semissourian.com
-    quality: 19
   - title: "Doctors see potential in ChatGPT diagnoses, but questions still remain"
     excerpt: "With the rise of generative AI, people who once turned to “Dr. Google” to check on medical symptoms are now turning to chatbots. Researchers are urging caution."
     publishedDateTime: 2023-09-12T13:28:00Z
@@ -341,6 +326,6 @@ related:
       domain: oregonlive.com
     quality: 13
 
-secured: "33xhkAB3V/1emglOUo/bI1MT0UFXokx1U6MwifJ8ioej8PAg5wOxutFyvGFnN38AFlj7OtHqZfSgpEhWlBkSIPF/Bq+7gIZ1U8ylt6fDI63eQj8ud7zLErP5W458t8XUti46TXy9rfJ6r5WR8dmFv3coEAPmAwOWQSmqg1mLW7mNjcX+Tyu+cCbou8+lzGSh4QpIalZVEN8ENomqLLg1zeAkljbPu6WLMyOgUYB4bEDmvRt84wGDbzrymXRyRO/gesESqal/xr44YeqGXc8+TdAN57gH3G+CbOpHRXFSWhg1pmwF9MK1SZSJSPI+HygXud7oJQDDIMqPntOEG0F9rzkYvPXRK0ng0WmcmKONhJ4mzC1LLoq5L9qkFgBu3SQu3rQ13c+XAJ+A/S5hSjaPn2K7PskJAUO800SqK8HcaCwZFib5BC7N+QjQBUU7jUtqRXTKOC/yhuGStuo1uK8tct/xnIjuI6tadtC1RXuJ6ADmsN1mN1HSFDnov0l40RQ83EqnStTtLmh8fOa1wsZdng==;3R91ByORmdbbz4pUKdV4SA=="
+secured: "lPGrGjyzPDwOoktDHgtWxGy+3ZhDlOfqwfXQHth2ae6X90YiuvzyxEixq/qa0qW+7oKFSADorZUEiQyqAWdNDy2caVbXM/6Eq2wyAaajTOL1VxqX8ANkaS7MvKNRRNQ4rc3f/nPAKMXU6/hsLBmaQnkqzJ1ac4dp3i/iQCfwB2F7+OKhbMgxVsmcw3O/nPt6bEO03LF/FhDh9de7p4g5s47qzbwn8li63BIVJkbFK+N5zcxgApaWEmJiSJ531BanDYcbu9KuAyUaQUTON650ArzW9B+E1Ty4a7vvRaRmpQui6Vin9VMaUmdIomj2G1KNdioH1AE6iOMbEdT/slGx5cU6PbNrvd7zamVUgJatAytOjhu3b5YG55ZkXh+SQUf6BqY6bwl2GQXtGF2LE3ZKsiTSersJ1xPxN1CgvNdrCawg3ri0po3Cf0KUtEUhLJBDNa2CngNuaa4Y8DQjoT10bm0tWBiakVJnf5icUUbcEQiH6HiWOWm/fWRaNovk9jL/nCRkGZ1PJbreOoR7RZEQsA==;N9lZHiZamkFRWjnnIM2fjg=="
 ---
 

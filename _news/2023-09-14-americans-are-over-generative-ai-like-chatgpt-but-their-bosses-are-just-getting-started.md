@@ -293,29 +293,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Why Japan Is Building Its Own Version of ChatGPT"
-    excerpt: "Some Japanese researchers feel that AI systems trained on foreign languages cannot grasp the intricacies of Japanese language and culture"
-    publishedDateTime: 2023-09-15T14:04:00Z
-    webUrl: "https://www.scientificamerican.com/article/why-japan-is-building-its-own-version-of-chatgpt/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 24
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/2692254C-BF22-4DF9-8E475D823167954E.jpg"
-        width: 790
-        height: 496
-        isCached: true
-  - title: "AI tech behind ChatGPT was built in Iowa -- with lots of water"
-    excerpt: "The cost of building an artificial intelligence product such as ChatGPT can be hard to measure. But one thing Microsoft-backed OpenAI needed for its technology was plenty of water, pulled from the watershed of the Raccoon and Des Moines rivers in central Iowa to cool a powerful supercomputer as it helped teach its AI systems how to mimic human"
-    publishedDateTime: 2023-09-11T05:00:00Z
-    webUrl: "https://www.semissourian.com/story/3009378.html"
-    type: article
-    provider:
-      name: Southeast Missourian
-      domain: semissourian.com
-    quality: 19
   - title: "Doctors see potential in ChatGPT diagnoses, but questions still remain"
     excerpt: "With the rise of generative AI, people who once turned to “Dr. Google” to check on medical symptoms are now turning to chatbots. Researchers are urging caution."
     publishedDateTime: 2023-09-12T13:28:00Z
@@ -343,6 +320,15 @@ related:
       name: Oregonian
       domain: oregonlive.com
     quality: 13
+  - title: "Why Japan Is Building Its Own Version of ChatGPT"
+    excerpt: "Some Japanese researchers feel that AI systems trained on foreign languages cannot grasp the intricacies of Japanese language and culture"
+    publishedDateTime: 2023-09-15T14:04:00Z
+    webUrl: "https://www.scientificamerican.com/article/why-japan-is-building-its-own-version-of-chatgpt/?ref=upstract.com"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 4
 
 secured: "bxRHKxrFdaaT1ejgCl7Wr3wTfremdyr/ZGvs4Knx01l9Oz8ygPECc95AYtDE0j+hCw6zYB+37kbgC5j671gEeOQvwMESCtDdPtxTRcarN+1m3iZFxnesEXPUZ1vSsXABueQMUi6d9d9y2zitYpZn2rCZUQvdVRkRT/tqzbOiPrnpHNkZ22rYzmUzyoEmiqo4rf3acPZkp2o/gpJZFtTMtbwy4vLc8NFNeUYZYvqihwc9MnvY6uZ17lOtxbMZB7uKmCtMa2Iky2adeDac4mLqlrtDhgVEEan5aXfZPAlwG3KTTCpPivVqW9W7ocshh/uRqvgniNYZPbqGGT3HX2zg/yUVKiKLi+T83v5q0+Td1w9Ru0vvs8ZcGbrvNGlpv1SXVnDwrUkvTsOD46F2FLAp/s+XQFg4vtMFOdKbBhEYAxZiaFWbze1dQgzMZl+BCmEriUAljuXUEN1HTr7LAxuf7l+nZ1HMzYrqnuzCqtFQho1Pzex6nZoYvukTwGngA8j/SyoFpX/BVb794kfkEG1CqQ==;/T0SYz2hNz0mXdxFKjXA4A=="
 ---

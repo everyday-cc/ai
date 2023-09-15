@@ -9,8 +9,8 @@ ampWebUrl: "https://diginomica.com/dreamforce-2023-supermums-aims-train-raft-wom
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/dreamforce-2023-supermums-aims-train-raft-women-ai-experts?amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Diginomica
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Journey into the heart of Dreamforce, where AI and A-list acts collide"
+    excerpt: "With moshing mascots, Matthew McConaughey, and AI aplenty, Salesforce's weeklong extravaganza in San Francisco was a testament to CEO Marc Benioff's instinctive ability to pivot."
+    publishedDateTime: 2023-09-15T21:06:00Z
+    webUrl: "https://www.aol.com/finance/journey-heart-dreamforce-where-ai-180623072.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/2b_9TeRSzMKdcjrCxJ3cCw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/aol_fortune_385/f3c099845744f8b9b1f6b5b2a3a27809"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "Dreamforce 2023 - A lot of generative AI value actually comes from hallucinations, says OpenAI founder Sam Altman"
     excerpt: "That’s a bold point, but not one that’s likely to assuage the legitimate concerns around ethics and values in relation to generative AI. Altman counters: We want to have the smartest, most capable, most customizable models out there because we so ..."
     publishedDateTime: 2023-09-13T19:52:00Z

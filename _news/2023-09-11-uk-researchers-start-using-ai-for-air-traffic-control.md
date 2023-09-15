@@ -185,20 +185,6 @@ related:
       name: BBC
       domain: bbc.com
     quality: 47
-  - title: "Meta is developing a much more powerful AI"
-    excerpt: "Meta is reportedly working on a new AI system intended to be as powerful as the most advanced model from OpenAI."
-    publishedDateTime: 2023-09-11T04:52:00Z
-    webUrl: "https://techcentral.co.za/meta-is-developing-much-more-powerful-ai/231341/"
-    type: article
-    provider:
-      name: TechCentral
-      domain: techcentral.co.za
-    quality: 39
-    images:
-      - url: "https://techcentral.co.za/wp-content/uploads/2021/12/meta-platforms-2156-1120-1024x532.jpg"
-        width: 1024
-        height: 532
-        isCached: true
   - title: "Softserve Launches Generative Ai Lab"
     excerpt: "Specialized lab expands SoftServe's AI/ML capabilities to accelerate Generative AI value discovery and real-world adoptionSINGAPORE - Media"
     publishedDateTime: 2023-09-12T11:54:00Z
@@ -286,6 +272,15 @@ related:
     provider:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
+    quality: 19
+  - title: "Congress’s week of AI"
+    excerpt: "Tech titans, developers and executives descended on Capitol Hill this week for a series of meetings exploring crucial safeguards for AI research and development."
+    publishedDateTime: 2023-09-15T18:09:00Z
+    webUrl: "https://www.nextgov.com/artificial-intelligence/2023/09/congresss-week-ai/390336/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
     quality: 19
   - title: "Intel Celebrates AI Accessibility and Enables the Next Generation of Innovators"
     excerpt: "About Intel's Role: Intel is committed to bringing AI skills everywhere, regardless of a person's ethnicity, age, gender or background. The AI Global Impact Festival provides opportunities and platforms for future innovators to learn, showcase and celebrate the impact of AI innovations."

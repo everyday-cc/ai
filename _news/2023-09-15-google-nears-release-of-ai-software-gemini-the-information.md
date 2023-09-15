@@ -45,6 +45,15 @@ related:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
     quality: 19
+  - title: "Google Gemini: What We Know So Far"
+    excerpt: "What we know so far indicates Gemini could represent a significant advancement in natural language processing. The fusion of DeepMind’s latest AI research with Google’s vast computational resources makes the potential impact challenging to overstate."
+    publishedDateTime: 2023-09-15T19:55:00Z
+    webUrl: "https://www.searchenginejournal.com/google-gemini-what-we-know-so-far/496494/"
+    type: article
+    provider:
+      name: Searchenginejournal.com
+      domain: searchenginejournal.com
+    quality: 4
 
 secured: "ca6Qf1uDKbIH/Z4HgfvdmRURF8bHjz4G3erBj2j4QwtF+bEs45+7FbzFiYcjfQshBNqIX7105G8gYmhgRO537bFTKtWK15A4fbWthEQOlGdBboeFtFPZga/9P8gqermbnQgFxRCgYEomOrg12OfD1jAGNdow3EbJHx1RUQ4TOEKWADyLpARquRkCl2SxLCmDPQiaU4zlRGH89S1eD1yvp5RutMHdPuJpHb7X7SqChYP46yLn+chZ7j5Z0zoB3fK0oXNlg0HPy8Gkk/C0Zh/hMjvhf3RzrqneEtgc2DclUJQujF+BrIOXAh5MBqdg+Y+zuvIeSgz74yfxCgsnw1GGdha0Q9YQ+I6ht2Yk6O15tTRSoemxj1ZkcOGEo96e7HkjMqsdiuAjCgawkdTY4YgMR2ucuqXrDg9nDGj3euKtFz9DdBafj9HtZ7l25Qc530PnHFayIccuoITUADRp4QfGN7XKyVfoyfFJGqtY7fcVEPUlEHwj8Jx4iUMEvokE/FRmzxvd80RdFjuQFFaq6ZN6Mg==;uorXug1XTHhHSR3QsIPsKQ=="
 ---

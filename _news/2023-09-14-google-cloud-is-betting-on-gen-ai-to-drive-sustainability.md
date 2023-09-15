@@ -46,22 +46,6 @@ related:
         width: 902
         height: 444
         isCached: true
-  - title: "Today in AI: Meta is developing a new AI system, Google rolls out AI-generated search enhancement outside US, and more"
-    excerpt: "On August 31, the company expanded its search feature powered by SGE (Smart Global Engine) to two other regions, namely India and Japan. These two countries are noteworthy for being the first to have access to the new AI extension outside of the US. More here."
-    publishedDateTime: 2023-09-11T04:40:00Z
-    webUrl: "https://www.moneycontrol.com/news/trends/today-in-ai-meta-is-developing-a-new-ai-system-google-rolls-out-ai-generated-search-enhancement-outside-us-and-more-11345781.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/trends/today-in-ai-meta-is-developing-a-new-ai-system-google-rolls-out-ai-generated-search-enhancement-outside-us-and-more-11345781.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/today-in-ai-meta-is-developing-a-new-ai-system-google-rolls-out-ai-generated-search-enhancement-outside-us-and-more-11345781.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 35
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/05/Today-in-AI-cover-image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "ETA8udkDcol8ttL/1UOKP/VAvNoEaZNFE7BChoIDYwSQKpZkQRL/TWz/2J8tbtxeVcZiD8roEc6vS2vD8++PVBl903djWf6icb5v0O08Ye19rRmcNQdv4ZvGoPgDGpku8hAeqiOfzDMvPYiXb+D460rZ6CcvCRV/EjxMSUVU10yYKFP7z5blmhLpM6JjA4UF8pPB/IlQB8buQaXcPN+ctP7KSVgGVrCpKDuIN1+iVjuGhVK2hExsJBY2PBjxooQkHkxg5Wk2HAIIOAGN8KljQyYGIHYBMfcXI98URQbiBMclvoSlEODah7auYZrpaXIaw/9rBnC9A0KNarwrRxvnnILWnSrGFvfjO7V3CEO+yCvxwo5Q1Rv85wOsB29hjOHRBqmxPZvdwDg6IskfFAQiXLp18cQAUiiXU4+13vjAN78Bj66ZNOWuT+19M2YYJr0RXoqYQk60v1fpZgeSi1IcEymha836ls6E5G1JVaXczjlwZPyOUZaYlw9goQxyacAHnbptNll1OVK21MilpkiEfw==;ezaT/WjefQtiv8sORPJFCg=="
 ---

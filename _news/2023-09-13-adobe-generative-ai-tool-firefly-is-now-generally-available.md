@@ -179,6 +179,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Indaru Revolutionizes Media Budget Optimization Through Cutting-Edge Machine Learning Solutions"
+    excerpt: "Indaru leverages the power of artificial intelligence and machine learning to provide advertisers with unparalleled insights, enabling data-driven decisions that maximize return on investment. With a mission to help brands extract maximum value from their ..."
+    publishedDateTime: 2023-09-15T19:58:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/ab34628855/indaru-revolutionizes-media-budget-optimization-through-cutting-edge-machine-learning-solutions"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34628855"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34628855"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 47
+    images:
+      - url: "https://www.getnews.info/uploads/03076ad851048fbdad586e761f2d26e6.jpg"
+        width: 600
+        height: 240
+        isCached: true
   - title: "How artificial intelligence can revolutionise science"
     excerpt: "Then, starting in the late 19th century, the establishment of research laboratories, which brought together ideas, people and materials on an industrial scale, gave rise to further innovations such as artificial fertiliser,"
     publishedDateTime: 2023-09-14T08:33:00Z

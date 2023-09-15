@@ -2,27 +2,21 @@
 category: news
 title: "RoboBusiness: NVIDIA to discuss role of Generative AI in robotics"
 excerpt: "We have seen a huge leap in the capabilities of Generative AI algorithms as demonstrated through ChatGPT, Stable Diffusion, and other algorithms. It is expected that Generative AI will also have a large impact on robotic reasoning, visual understanding, and physical execution abilities."
-publishedDateTime: 2023-09-13T00:17:00Z
-originalUrl: "https://www.roboticsbusinessreview.com/ai/robobusiness-nvidia-to-discuss-role-of-generative-ai-in-robotics/"
-webUrl: "https://www.roboticsbusinessreview.com/ai/robobusiness-nvidia-to-discuss-role-of-generative-ai-in-robotics/"
+publishedDateTime: 2023-09-12T21:17:00Z
+originalUrl: "https://www.therobotreport.com/robobusiness-nvidia-to-discuss-role-of-generative-ai-in-robotics/"
+webUrl: "https://www.therobotreport.com/robobusiness-nvidia-to-discuss-role-of-generative-ai-in-robotics/"
 type: article
-quality: 69
+quality: 79
 heat: -1
 published: false
 
 provider:
-  name: Robotics
-  domain: roboticsbusinessreview.com
+  name: The Robot Report
+  domain: therobotreport.com
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://www.roboticsbusinessreview.com/wp-content/uploads/2023/09/chatgpt-robotics.jpg"
-    width: 800
-    height: 554
-    isCached: true
 
 related:
   - title: "The Future Of AI In Business: Predictions And How To Prepare"
@@ -102,6 +96,6 @@ related:
       domain: usatoday.com
     quality: 17
 
-secured: "fCiPfjd4/i18detevi2YrelJft7FkwS+LS2ZxbtgMPypD7Dk0IMi63RsKsvsPvoXzvTSiVy2XA2QsfPta8gjv2Vt/qEzYLkXUB4V9x2U6a82SJnioo0dkH/4IZl9Dm8Y8seRrfeA9Wp/zxx+MN11kgSwKAgo4olqJxPsZAL0sx1oDhdOKMO/oGhPRjWg8pQatV1aeXiSFDdNjC+GblikC84SKfWefeqCvBMOUs/UDTpOTxtabjmb5HChL29dvUaeSx9zftF5xCz5iH0/3O8U7m2SJBXCqHsVMP2Jl+ipQM8NYGvxfkclJa6sGvF6ZLX8xuGxqxPIJu6yrYuXLMqwdbwKjb81lfbE7QvnE9s570o=;E7TY3wuTqoTzIvZBYtlx6w=="
+secured: "ZiTiOg3SFJQ6THEHtZE2qdFIRzGz2vnaYQ5xAhWq4LxSCVPsxEWXhvvlT+guknoUGbgTqtfQcqd53nnMMC7zvxzOl/dTpRa6eO1Gn83u7OiNjdiA1bnKoJcy81sj0CjhF6Vm59Ah1pMBVepvJWS0mIBEXk7DGg63Gw5WqOknwR7Wm90Z8ywG2hb6WBXPYoIvHCHH10iiblThvJTE0xRCSdyPEmtZ4qeMCXa5yTWY/wagU0WErcCF9u9obAMS/DH44a133F9C16Yth7YKw3AgAdw5B/QF/fItTfjKFfHVxYHMPV7OBQs+mZfiO7HVVa6Uw0BecEYPtDkp+mqfKtrQOkUm0G95bksKg95c4G6CbmkZkq0Vl89rseKMSDTUk07hRNSlAGxpQ+wbPnzdlFJj2BHPT7V0VhudrnepYuBFyeTDadV933Yx+Ar84281oVopJY9eo6eI64HRIJRakOPMxdgDz+1JYV0c/V9fynph4RC53EFbSlY0My5gStmWWB3CdSsJrckQuMfrbM7vCQfxlA==;qY65+nRKYP3lsXzc1OyQqg=="
 ---
 

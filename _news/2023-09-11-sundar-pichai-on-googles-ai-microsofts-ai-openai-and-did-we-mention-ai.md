@@ -6,8 +6,8 @@ publishedDateTime: 2023-09-11T10:00:00Z
 originalUrl: "https://www.wired.com/story/sundar-pichai-google-ai-microsoft-openai/"
 webUrl: "https://www.wired.com/story/sundar-pichai-google-ai-microsoft-openai/"
 type: article
-quality: 62
-heat: 92
+quality: 64
+heat: 94
 published: true
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - Facebook AI
   - AI
   - Microsoft AI
+  - Google AI
 
 related:
   - title: "Microsoft CEO Nadella Calls Joint Oracle Offering A ‘Profound’ Moment For AI"

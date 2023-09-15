@@ -7,7 +7,7 @@ originalUrl: "https://www.smartcompany.com.au/tag/artificial-intelligence-in-hea
 webUrl: "https://www.smartcompany.com.au/tag/artificial-intelligence-in-healthcare/"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Yale researchers investigate the future of AI in healthcare"
-    excerpt: "We aren’t there yet, but, according to Harlan Krumholz, a professor of medicine at the School of Medicine, this could be the future of healthcare powered by artificial intelligence. “This is an entirely historic juncture in the history of medicine ..."
-    publishedDateTime: 2023-09-11T04:46:00Z
-    webUrl: "https://yaledailynews.com/blog/2023/09/11/yale-researchers-investigate-the-future-of-ai-in-healthcare/"
-    type: article
-    provider:
-      name: Yale Daily News
-      domain: yaledailynews.com
-    quality: 56
-    images:
-      - url: "https://yaledailynews.com/wp-content/uploads/2023/09/IMG_1934-1024x1024.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
 
 secured: "wr5nTCEawMtMtjxhumK8xz08u/l13GVhnWPC6svYXhd/ZfxgTsJz12l9DQ/a71QKo1MrxpNcYo0G8OAoMsYL87AzA/2jAba1kWlnMppexRgT0mhKp5Uz/iFMadGXW6wuE/PuQEMNQaoN9aWw/1m+AQlEJLyXyObOWlapwinqIciNBgJO8n/pKU20ZXRccqcYckFqK3RkVq5FrXksWHpLU1wURvexasRAB2H50K8MqgQ9/AsTdJf4BVTx/Qt/HKkLLbCQenoQYUU7i744SThcjHkcXMRpK9mesKqq26ChTLdYt9Lj6KuCJfg/pEm6QrBzyUNWcjsoAYlgkVEg0e0a3KZKkUpopE+eSPuLuVace/1u9QIfoYCXHNekmZAQ4jT2qdbRzCYAO026Q7onGRUT43fchWJJ8VO7hCLwa4WyPQHBPkolpxb4dXYgJvZOP3WyXlNrOaHUvWsqGnucHVJ/ymL/88lmxqjdqK2exzVmSBj/E6iZcsMmb4GiOYXbmOY+4vOa473FG3ngERQPCFeL8w==;KS7iX2FIzGOAXuF0r+5w+g=="
 ---

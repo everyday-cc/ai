@@ -26,22 +26,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "METZ Display Announces Partnership with Artificial Intelligence Technologies LLC"
-    excerpt: "The partnership with Artificial Intelligence Technologies LLC, a business entity to promote AI & AV Products, Tools, and services in the United Arab Emirates & Middle East Region will take METZ Display to another new level. We are confident to further ..."
-    publishedDateTime: 2023-09-11T03:52:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/metz-display-announces-partnership-with-artificial-intelligence-technologies-llc-301922907.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 32
-    images:
-      - url: "https://mma.prnewswire.com/media/2206410/image_5026505_6867116.jpg?p=facebook"
-        width: 1264
-        height: 662
-        isCached: true
-
 secured: "PwUujXhckyK5bn7+jCXPP2US3B9BgzGz9bIcDv1Q91MV9jGeECKoREt9/nW4d+of1DiW8VuWnwWCGAxYSE6pzZ6UvGCKRLq5TrhAX3znDadyixzfw5+xPyTmnBd+AxF/+kVtigsvFzYwRXY7l5VVszGNqngZIp+1fm9Um2sJBkbmJPHrCf64S/u/mfEi4QcRaEpnSwn/keBpPTvvayx6xbyTdsbXHLTkdEjhVBTe6NYTYymzU76PhX39x0SBLD5oHZfUl6kUEvG/qN0I3vkSX4vaIeg1JH2nO5fIYHmnS9aSb5FZ/hI/uEqlc5KRUDXu/cFWdzrD2vzugkV1Jl6s/StufJB/GNgZ4uWF7UqrcQ0=;xCXSwfQ239GSH2cynvaUoA=="
 ---
 

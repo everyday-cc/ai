@@ -35,6 +35,20 @@ related:
         width: 672
         height: 538
         isCached: true
+  - title: "Journey into the heart of Dreamforce, where AI and A-list acts collide"
+    excerpt: "With moshing mascots, Matthew McConaughey, and AI aplenty, Salesforce's weeklong extravaganza in San Francisco was a testament to CEO Marc Benioff's instinctive ability to pivot."
+    publishedDateTime: 2023-09-15T21:06:00Z
+    webUrl: "https://www.aol.com/finance/journey-heart-dreamforce-where-ai-180623072.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/2b_9TeRSzMKdcjrCxJ3cCw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/aol_fortune_385/f3c099845744f8b9b1f6b5b2a3a27809"
+        width: 1200
+        height: 801
+        isCached: true
 
 secured: "HJlyeXh5Wbj1tV4rsYq4e360p5tOF4UVUjaENV+kNYK6VBXXHlt/LZYBW6pnFn2+tinajO2DRUYRk57l4uCcK4PRPeRV8veUZtNP31aoRsO7DzyLCfB4+7BT3nOdho91MHwPnZEZhshdd12g/ev+aZKSdzlYG8fEu0TuP7f/nlR1phice8kuqBMZOWaw5U93mHWGH4LP+g8IcfyWpKpkmHztvGwH9k9auMshZQd96OgRC4dGh4X8D+VT2RFUIL72sPf9peib2tXMJZBL4kusP9RiJDGi4D79hQ+eTrSsD+ztPHUsnWcEQFd2esXe58b6etA6DAt0+Ee+nLl6shBmnZRhwJ5EkLevJwnJ9q9+chZgfJk9EShl8NAZGFxwkJVhTpPKi6mW2qorZwAQZKeUvS3TTiuY1ruGS9NgIZWVz73fnKguBDi9EKgKP/vcfN3gc3lO7RiqYlx4ewg149+0b90/gI+IAmB+I8Oc55VtKlMBIwFqohAUZaBOs6+if4YCFTzgaTcBbj69eXIWyS4tZA==;xmdHpzJCCNTKqgRj8d05VQ=="
 ---

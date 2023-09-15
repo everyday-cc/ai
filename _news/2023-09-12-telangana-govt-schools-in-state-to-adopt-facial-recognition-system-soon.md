@@ -53,6 +53,20 @@ related:
         width: 388
         height: 250
         isCached: true
+  - title: "Facial recognition tech stays in schools despite state ban"
+    excerpt: "Education groups and school administrators estimate as many as 50 schools could already be using the surveillance technology."
+    publishedDateTime: 2023-09-15T19:00:00Z
+    webUrl: "https://www.bozemandailychronicle.com/news/education/facial-recognition-tech-technology-remains-school-despite-state-ban-frt/article_f56cb84a-a4e5-54fb-b149-1a3a85b2b0a9.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/assets/v3/editorial/f/56/f56cb84a-a4e5-54fb-b149-1a3a85b2b0a9/6504ced1d074e.preview.jpg?crop=1753%2C920%2C0%2C33&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "/7peHopXcn+6cAq4ICs5vGUiMmd8+ogA1HOVJyeN6EGLI97D1KBhp1WXTzdKZcR470j//eaViuyj33/5qYTGk5CFY0U/0kWoy9Q8g7HTbXizmDMjkKr0sNFQGXd243X//J8YsSnjKtDE0TfwjxqohczUQnpbY8L1dDEa3OAeLVJdaPvCtXRz7zxP5ygwtNgxNb9HbgLWMRJ9DKIDMEDaDM0iZfS7xaMcxqkXK0JZZSXNaYcGm4ZH8LV33X/cGr08HDtXumom9hlR8ZpTnA45wxAzIPamrK9+Tc+q7d5N2SgGJLkmZ8UV6wlSUkf1pKh4Gnb46Pmw8RsogiVcd+B/7lBxSvwaubrLBYZsFsU1ruenDdqro/8QGCsB1OAvgcOGPtf0/Uv8MLyNLa8iQgHgOBNdjj4Zf991EFi0x0NUMaQY8a0SMjsc0wrUiAKfmKBLWuVUh/wu2WuNQ/o/MJw9LnnTCVQWnB//gvT/ssXcxzKzH7AypHOH6ODP/nVN4iSWhDjl0nKK7tw9Dbj8fU3LyA==;YDSaUWhyHTbFO24OBlbZww=="
 ---

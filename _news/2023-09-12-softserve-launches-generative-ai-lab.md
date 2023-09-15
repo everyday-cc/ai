@@ -192,20 +192,6 @@ related:
       name: BBC
       domain: bbc.com
     quality: 47
-  - title: "Meta is developing a much more powerful AI"
-    excerpt: "Meta is reportedly working on a new AI system intended to be as powerful as the most advanced model from OpenAI."
-    publishedDateTime: 2023-09-11T04:52:00Z
-    webUrl: "https://techcentral.co.za/meta-is-developing-much-more-powerful-ai/231341/"
-    type: article
-    provider:
-      name: TechCentral
-      domain: techcentral.co.za
-    quality: 39
-    images:
-      - url: "https://techcentral.co.za/wp-content/uploads/2021/12/meta-platforms-2156-1120-1024x532.jpg"
-        width: 1024
-        height: 532
-        isCached: true
   - title: "How does Stable Audio generate AI music and sound effects"
     excerpt: "A new AI sound generator has been released in the form of Stable Audio capable of rendering 95 secs of stereo audio at a 44.1 kHz in seconds"
     publishedDateTime: 2023-09-14T10:13:00Z
@@ -279,6 +265,15 @@ related:
     provider:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
+    quality: 19
+  - title: "Congress’s week of AI"
+    excerpt: "Tech titans, developers and executives descended on Capitol Hill this week for a series of meetings exploring crucial safeguards for AI research and development."
+    publishedDateTime: 2023-09-15T18:09:00Z
+    webUrl: "https://www.nextgov.com/artificial-intelligence/2023/09/congresss-week-ai/390336/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
     quality: 19
   - title: "UK researchers start using AI for air traffic control"
     excerpt: "UK researchers have produced a computer model of air traffic control in which all flight movements are directed by artificial intelligence rather than human beings. Their “digital twin” representation of airspace over England is the initial output of a £15mn project to determine the role that AI could play in advising and eventually replacing human air traffic controllers."

@@ -46,18 +46,13 @@ related:
         isCached: true
   - title: "RoboBusiness: NVIDIA to discuss role of Generative AI in robotics"
     excerpt: "We have seen a huge leap in the capabilities of Generative AI algorithms as demonstrated through ChatGPT, Stable Diffusion, and other algorithms. It is expected that Generative AI will also have a large impact on robotic reasoning, visual understanding, and physical execution abilities."
-    publishedDateTime: 2023-09-13T00:17:00Z
-    webUrl: "https://www.roboticsbusinessreview.com/ai/robobusiness-nvidia-to-discuss-role-of-generative-ai-in-robotics/"
+    publishedDateTime: 2023-09-12T21:17:00Z
+    webUrl: "https://www.therobotreport.com/robobusiness-nvidia-to-discuss-role-of-generative-ai-in-robotics/"
     type: article
     provider:
-      name: Robotics
-      domain: roboticsbusinessreview.com
-    quality: 69
-    images:
-      - url: "https://www.roboticsbusinessreview.com/wp-content/uploads/2023/09/chatgpt-robotics.jpg"
-        width: 800
-        height: 554
-        isCached: true
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 79
   - title: "AI and HPC chips boost the verification and analysis business"
     excerpt: "Driven by the AI frenzy, high-performance computing (HPC) chips are becoming pivotal in the semiconductor landscape, spotlighting advanced packaging technologies like CoWoS. Heat dissipation characteristics in HPC chips packaged through advanced techniques are now a focal point,"
     publishedDateTime: 2023-09-12T03:00:00Z
