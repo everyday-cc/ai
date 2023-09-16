@@ -41,6 +41,20 @@ related:
         width: 988
         height: 719
         isCached: true
+  - title: "Brain inspires more robust AI"
+    excerpt: "Artificial intelligence (AI) has become a relatively common thing ... but a more serious example could be a driverless car mistaking a stop signal for a right-of-way sign. And it’s not just the already controversial example of driverless cars; there ..."
+    publishedDateTime: 2023-09-16T08:19:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/1001677"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/69a180ba-52cb-4e9c-af98-d9fcc661e76f/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 218
+        isCached: true
   - title: "As the built environment changes, AI and machine learning tell a more complete story"
     excerpt: "AI-supported monitoring of the built environment is transforming communities across the country and around the world. This article will outline some of the key ways that intelligent imaging, data retrieval and AI-driven analysis can provide ongoing benefits like cost and labor savings,"
     publishedDateTime: 2023-09-12T22:41:00Z

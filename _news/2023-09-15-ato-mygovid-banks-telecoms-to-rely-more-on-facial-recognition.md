@@ -41,20 +41,6 @@ related:
         width: 1153
         height: 646
         isCached: true
-  - title: "Ross: It’s probably too late to stop universal face recognition"
-    excerpt: "Not only that, but Facebook, along with Google and Apple, started buying up smaller face recognition companies to shut down their name-dropping operations. A tech version of catch-and-kill. They decided to limit the technology to mundane tasks like ..."
-    publishedDateTime: 2023-09-11T15:28:00Z
-    webUrl: "https://mynorthwest.com/3929822/ross-its-probably-too-late-to-stop-universal-face-recognition/"
-    type: article
-    provider:
-      name: MyNorthwest.com
-      domain: mynorthwest.com
-    quality: 41
-    images:
-      - url: "https://mynorthwest.com/wp-content/uploads/2023/09/GettyImages-72326316-e1694444969785.jpg"
-        width: 900
-        height: 506
-        isCached: true
 
 secured: "uYtMO5nSaZ/zM92Sm4/C9r9y7Wp97zqFSr1MMsqJmxb8/gK3bzusuXyYBmKYIXU6eP544Zw7yqAFQHnQ6m9Rkn79tEUdj2RLE+0Ok7EQLd4TCCaxjQyuMcTfWSzdnA5vWpCdz/e0oAfuHkr2mDatIsWUaavzrUl8qw6O4PamiiapsFjuY/x8zANybfuA1mGUw9+Dnzb4VZ3MyjlG1LkNMVlLh49xuAYq+WmlRQ/F78vxL6MzJVVl9PBIQvQMovs8R/zcMgqO+/qc7wrJjLJ784/4bWS0I8UbzGjsqZI64OY3SU9TKFfKwmezvfrnEq4yYEF2s2ml7WKS5rCwGPylWPPihP+CNAK13C1tz8zUAf3CApoQLWQKIEmm7AdcXX6rQJNn997OIHJw5jr50LusBSqglLcvMd+p5CBj7zNbIRpDDBaZayTDb8m++6nTciL5eEI2PmTbOdghzTlT4y1Fmk4S/e9uD9P2k8SgD+gZ463OKsOvR0zkPno3qrLL6Qoo8UgbUkJOaZf3R+5aBWUElQ==;RhsLnKIF/L0nsTa+yfbqKw=="
 ---

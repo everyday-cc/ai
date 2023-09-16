@@ -64,15 +64,6 @@ related:
         width: 319
         height: 250
         isCached: true
-  - title: "OSS to Showcase Specialized High-Performance AI Computing Solutions at DSEI on September 12-15, 2023"
-    excerpt: "One Stop Systems, Inc. (NASDAQ:OSS), a leader in AI Transportable solutions on the edge, will showcase its specialized high-performance AI computing solutions at"
-    publishedDateTime: 2023-09-11T16:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/g34447447/oss-to-showcase-specialized-high-performance-ai-computing-solutions-at-dsei-on-september-12-15-202"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 4
   - title: "Kiromic BioPharma Common Stock to Begin Trading on the OTC Pink Sheets on September 14"
     excerpt: "Kiromic BioPharma (NASDAQ: KRBP) (“Kiromic” or the “Company”), a clinical-stage, fully-integrated biotherapeutics company using its proprietary DIAMON"
     publishedDateTime: 2023-09-13T20:35:00Z

@@ -61,15 +61,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Here's what needs to happen to achieve safe self-driving cars"
-    excerpt: "Tesla has since released a few versions of advanced driver assist software, Autopilot and Full Self-Driving. But Tesla's FSD is a bit of a misnomer; cars using FSD do not truly drive themselves. The driver has to be ready to take over if necessary ..."
-    publishedDateTime: 2023-09-11T15:47:00Z
-    webUrl: "https://www.thestreet.com/electric-vehicles/heres-what-needs-to-happen-to-achieve-safe-self-driving-cars"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 4
 
 secured: "4wz1pqzLVSzupApeLhgRQ33CCr7q5Y72PruqFNPVjX27qtw5j0/4/qg66yGyG1HVfXWgFOi+trEhKHK1PIw/z5PSdRPZl9ac39ERo9Uiq7sDcCqiXTW8hgzyAKR2ml//MOWWHrnOrkrCeTGWPl/GRLrEtUcP3lRGMMGfhYRo4thoQA0L/FHjRkkr2jOYalTWuHpafRWzgezl8y1YqacAN7obn6QCWdTkwQQhNM/w3G2ge88fVTv96bp1ey52o+BRwqI7Y6CvMPwWwAHcpbPFEtuDvEwn/AOkoFZlTsv4Ic/TQ5XDBB127HirKbqPhqJfclujsLcjvidu8MhEoL1bj3jmzzUDhfm1ppw34TWUBtA=;xaY+08S/Wmw/F74JT9UEcg=="
 ---

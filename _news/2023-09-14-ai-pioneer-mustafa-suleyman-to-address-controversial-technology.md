@@ -33,7 +33,7 @@ related:
     provider:
       name: The Economist
       domain: economist.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230914_FLP003.jpg"
         width: 1280

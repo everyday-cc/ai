@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/business-news/irs-uses-ai-to-fight-ta
 webUrl: "https://www.entrepreneur.com/business-news/irs-uses-ai-to-fight-tax-evasion-millionaires-dodging-taxes/458884"
 type: article
 quality: 79
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "IRS to Use Artificial Intelligence to Catch Wealthy Tax Cheaters"
-    excerpt: "In response, the IRS is tapping artificial intelligence and improved technology to help identify tax-cheating schemes that previously went undetected, including tax fraud schemes that can ensnare unsuspecting victims."
-    publishedDateTime: 2023-09-11T16:50:00Z
-    webUrl: "https://www.pcmag.com/news/irs-to-use-artificial-intelligence-to-catch-wealthy-tax-cheaters"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 69
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/03dy9aKYyJ9IxDEs7NsiNY7-1.fit_lim.size_1200x630.v1694438424.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Artificial intelligence among tools IRS will use for enforcement push"
     excerpt: "AI will be part of a new tax-enforcement effort that will target high-income earners, partnerships, and large corporations."
     publishedDateTime: 2023-09-12T12:12:00Z

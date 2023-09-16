@@ -43,20 +43,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
-  - title: "Popping the chatbot hype balloon"
-    excerpt: "Understanding how chatbots work and the human labor and data involved can better help evaluate the validity of concerns about them—which although innovative, are hardly the stuff of science fiction."
-    publishedDateTime: 2023-09-11T17:01:00Z
-    webUrl: "https://thebulletin.org/premium/2023-09/popping-the-chatbot-hype-balloon/"
-    type: article
-    provider:
-      name: Bulletin of the Atomic Scientists
-      domain: thebulletin.org
-    quality: 26
-    images:
-      - url: "https://thebulletin.org/wp-content/uploads/2023/09/Pop-balloon-landscape.png"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Gibberish or Genius? Verbal Nonsense Reveals Limitations of AI Chatbots"
     excerpt: "In a new study, researchers tracked how current language models, such as ChatGPT, mistake nonsense sentences as meaningful. Can these AI flaws open new windows on the brain? We have now entered into a"
     publishedDateTime: 2023-09-14T15:16:00Z

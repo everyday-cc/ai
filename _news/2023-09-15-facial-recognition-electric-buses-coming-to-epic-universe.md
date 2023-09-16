@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wesh.com/amp/article/facial-recognition-epic-universe/45
 cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/facial-recognition-epic-universe/45145237"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: WESH
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ross: It’s probably too late to stop universal face recognition"
-    excerpt: "Not only that, but Facebook, along with Google and Apple, started buying up smaller face recognition companies to shut down their name-dropping operations. A tech version of catch-and-kill. They decided to limit the technology to mundane tasks like ..."
-    publishedDateTime: 2023-09-11T15:28:00Z
-    webUrl: "https://mynorthwest.com/3929822/ross-its-probably-too-late-to-stop-universal-face-recognition/"
-    type: article
-    provider:
-      name: MyNorthwest.com
-      domain: mynorthwest.com
-    quality: 41
-    images:
-      - url: "https://mynorthwest.com/wp-content/uploads/2023/09/GettyImages-72326316-e1694444969785.jpg"
-        width: 900
-        height: 506
-        isCached: true
   - title: "ATO, MyGovID, banks, telecoms to rely more on facial recognition"
     excerpt: "Identity verification laws introduced this week will allow data matching using systems being developed by the Attorney-General’s Department. The government has introduced laws it says will improve"
     publishedDateTime: 2023-09-14T21:02:00Z

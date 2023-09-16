@@ -40,15 +40,20 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "OSF HealthCare Increasing Access to Innovative Patient Care with Artificial Intelligence Diagnostic System"
-    excerpt: "Digital Diagnostics, a leading artificial intelligence (AI) diagnostic healthcare company's flagship product, LumineticsCore™ ( formerly IDx-DR), is increasing access to innovative care at OSF HealthCare for people living with diabetes."
-    publishedDateTime: 2023-09-12T13:02:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-osf-healthcare-increasing-access-innovative-patient-care-with-/2023/09/12/9878881.htm"
+  - title: "How Health Tech is Squashing AI Biases and Leveling the Playing Field in Healthcare"
+    excerpt: "By making large amounts of diverse data widely available, healthcare institutions can feel confident about the evaluation, creation, and validation of algorithms as they're transitioned from ideation to use."
+    publishedDateTime: 2023-09-14T21:34:00Z
+    webUrl: "https://medcitynews.com/2023/09/how-health-tech-is-squashing-ai-biases-and-leveling-the-playing-field-in-healthcare/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 16
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 48
+    images:
+      - url: "https://medcitynews.com/uploads/2021/12/GettyImages-177052337.jpg"
+        width: 724
+        height: 483
+        isCached: true
   - title: "How Artificial Intelligence is Bolstering Impressive Billion Dollar Growth Opportunities in Healthcare Sector"
     excerpt: "The implementation of AI/ML technologies in enhancing patient care, reducing machine downtime, and minimizing care expenses are some of the driving forces of artificial intelligence (AI) in healthcare market growth."
     publishedDateTime: 2023-09-12T15:18:00Z

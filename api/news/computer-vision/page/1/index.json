@@ -55,49 +55,6 @@
       ]
     },
     {
-      "path": "_news/2023-09-15-facial-recognition-electric-buses-coming-to-epic-universe.md",
-      "title": "Facial recognition, electric buses coming to Epic Universe",
-      "excerpt": "The CEO of Universal Destinations & Experiences called the new theme park, Epic Universe, \"groundbreaking\" and \"technologically advanced.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.wesh.com/article/facial-recognition-epic-universe/45145237",
-      "originalUrl": "https://www.wesh.com/article/facial-recognition-epic-universe/45145237",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/epic-universe-concept-png-1564669802.png?crop=0.888xw:1.00xh;0.0569xw,0&resize=1200:*",
-          "width": 1153,
-          "height": 646,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wesh.com/amp/article/facial-recognition-epic-universe/45145237",
-      "cdnAmpWebUrl": "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/facial-recognition-epic-universe/45145237",
-      "publishedDateTime": "2023-09-14T17:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WESH",
-        "domain": "wesh.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-13-the-twisted-eye-in-the-sky-over-buenos-aires-wired.md",
       "title": "The Twisted Eye in the Sky Over Buenos Aires | WIRED",
       "excerpt": "The Twisted Eye in the Sky Over Buenos Aires | WIRED",
@@ -1357,6 +1314,40 @@
       "provider": {
         "name": "NBC 10 Philadelphia",
         "domain": "nbcphiladelphia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-23-facial-recognition-tech-helps-nab-86-year-old-man-who-stole-dead-brothers-identity-in-1965.md",
+      "title": "Facial recognition tech helps nab 86-year-old man who stole dead brother's identity in 1965",
+      "excerpt": "An 86-year-old man accused of assuming his brother’s identity decades ago and using it to double dip on Social Security benefits has been convicted of several charges, caught by facial recognition technology that matched the same face to two different identities,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnewyork.com/news/national-international/maine-man-86-convicted-of-assuming-dead-brothers-identity-in-1965/4616931/",
+      "originalUrl": "https://www.nbcnewyork.com/news/national-international/maine-man-86-convicted-of-assuming-dead-brothers-identity-in-1965/4616931/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-23T09:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC New York",
+        "domain": "nbcnewyork.com",
         "images": null,
         "publishers": null,
         "authors": null

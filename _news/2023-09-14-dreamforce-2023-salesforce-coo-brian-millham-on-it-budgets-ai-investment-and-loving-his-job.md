@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How Salesforce Stock (NYSE:CRM) Can Thrive from the AI Wave"
-    excerpt: "Salesforce (NYSE:CRM) seems to be doubling down to gain a better position in the AI race. That much was clear after the company’s latest"
-    publishedDateTime: 2023-09-11T15:34:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/how-salesforce-stock-nyse-crm-can-thrive-from-the-ai-wave-1032620810"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 101
-    images:
-      - url: "https://blog.tipranks.com/wp-content/uploads/2023/09/image-179.png?utm_source=markets.businessinsider.com&utm_medium=referral"
-        width: 778
-        height: 445
-        isCached: true
   - title: "Salesforce CEO says Slack will play a prominent role in AI"
     excerpt: "Benioff said Slack is not only a system of engagement, but a system of record, so the program itself can start managing data. Benioff also discussed the next iteration of Salesforce's Einstein, an AI program with capabilities aimed at assisting companies ..."
     publishedDateTime: 2023-09-12T23:55:00Z

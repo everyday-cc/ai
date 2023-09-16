@@ -7,7 +7,7 @@ originalUrl: "https://betakit.com/ai-the-ai-times-why-midjourneys-founder-reject
 webUrl: "https://betakit.com/ai-the-ai-times-why-midjourneys-founder-rejects-venture-capital/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1050
     height: 700
     isCached: true
-
-related:
-  - title: "US rejects AI copyright for famous state fair-winning Midjourney art"
-    excerpt: "On Tuesday, the US Copyright Office Review Board rejected copyright protection for an AI-generated artwork that won a Colorado State Fair art contest last year because it lacks human authorship required for registration,"
-    publishedDateTime: 2023-09-11T15:12:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/09/us-rejects-ai-copyright-for-famous-state-fair-winning-midjourney-art/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/09/us-rejects-ai-copyright-for-famous-state-fair-winning-midjourney-art/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/us-rejects-ai-copyright-for-famous-state-fair-winning-midjourney-art/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 89
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/08/art_contest_winner-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "dFdkCBVL9DhciSs+MPz7f/zUJlSi2tUb03HoYIEwsjmJuAjFDY8IQ3o8tE9xqa5FggAq0MOk5djFy0hbLHw+AWtU6X9aCON2I4SBTCIRqGbiJjOmRGvyR6EryMvQ4XunJXN4rIhi0pntDFLxoNUeesrelti1l/wtXjXHlHxit4R3gkV9kR08Eu69SaHYr0fqoBASA3T3cta5i2tomoTvcYnJV4tI5Jzsumfin4PcW9NwmWR/oW/P94TlYcnyeWyUQ7O6zHe6br0tKgMUY7u95PFR2fLtysOKjTsO6e1NMG/74dGagKtPdW0H8WSjHwHuotR19vwhXif4U7ho0STmn+nHyuLFTD6fuhhZgi1uI8I=;XT5BSk69WPWevoe6MQY9Xg=="
 ---

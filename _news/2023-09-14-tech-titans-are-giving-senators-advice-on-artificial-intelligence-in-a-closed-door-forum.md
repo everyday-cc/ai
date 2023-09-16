@@ -1,27 +1,26 @@
 ---
 category: news
 title: "Tech titans are giving senators advice on artificial intelligence in a closed-door forum"
-excerpt: "\"It's going to be a fascinating group because they have different points of view,\" Schumer said in an interview with The Associated Press before the event. \"Hopefully we can weave it into a little bit of some broad consensus."
-publishedDateTime: 2023-09-13T20:15:00Z
-originalUrl: "https://sentinelcolorado.com/uncategorized/tech-titans-are-giving-senators-advice-on-artificial-intelligence-in-a-closed-door-forum/"
-webUrl: "https://sentinelcolorado.com/uncategorized/tech-titans-are-giving-senators-advice-on-artificial-intelligence-in-a-closed-door-forum/"
+excerpt: "Senate Majority Leader Chuck Schumer has been talking for months about accomplishing a potentially impossible task: passing bipartisan legislation within the next year that encourages the rapid development of artificial intelligence and mitigates its biggest risks."
+publishedDateTime: 2023-09-13T18:28:00Z
+originalUrl: "https://www.chicagotribune.com/nation-world/tech-titans-senators-artifiicial-intelligence-20230913-uacancl5nfbbroed5kpcdq5mey-story.html"
+webUrl: "https://www.chicagotribune.com/nation-world/tech-titans-senators-artifiicial-intelligence-20230913-uacancl5nfbbroed5kpcdq5mey-story.html"
 type: article
-quality: 30
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Sentinel Colorado
-  domain: sentinelcolorado.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
 
 topics:
-  - Facebook AI
   - AI
 
 images:
-  - url: "https://sentinelcolorado.com/wp-content/uploads/2023/09/AP23256017020655-scaled.jpg"
-    width: 2560
-    height: 1707
+  - url: "https://www.chicagotribune.com/resizer/vFnUsBA1w0sBUMvckTOgwa5fEw8=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/VZCWBJHYT4LSPTK3V2V6HHAUNM.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -176,20 +175,6 @@ related:
       name: BBC
       domain: bbc.com
     quality: 47
-  - title: "An AI reality check"
-    excerpt: "While thousands and thousands of people have been working with artificial intelligence for years ... at AI’s medical applications and drug development — how you can tailor therapy and predict response to treatment. If humans ask the right questions ..."
-    publishedDateTime: 2023-09-11T17:00:00Z
-    webUrl: "https://www.mmm-online.com/home/channel/features/an-ai-reality-check/"
-    type: article
-    provider:
-      name: MM&M
-      domain: mmm-online.com
-    quality: 39
-    images:
-      - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2023/09/MMM_September-2023-_Web-Art0011280-x-900.jpg"
-        width: 1024
-        height: 720
-        isCached: true
   - title: "Softserve Launches Generative Ai Lab"
     excerpt: "Specialized lab expands SoftServe's AI/ML capabilities to accelerate Generative AI value discovery and real-world adoptionSINGAPORE - Media"
     publishedDateTime: 2023-09-12T11:54:00Z
@@ -310,6 +295,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "cE5W5I5J0zfZ9y7xx6wXgabn6lgGGkLucaTAbSCbyq3jkQBP7DxYydIRVoeFjCWyRghqqNLeB78VgMzTKiWsvMxPGm5QqCe4KDET76gvo2kX6mxZFxQZRucTaLno4fWeoMheRS984bGESxNAAxg5DhiOUPWnEDdZM7Y81bzalk/y11VS1BxCrL5lPNk9J1A6JNRR7nviCKSXpy+VkQlPBsN0+UOi8tXxbDElvnumisXVfzMJsob6gdES7OQGrd3xPlDhmcec/kLlqgZQ8AfIQ0G0dUdWVr8r3sPT+2snIM7tQNr4J2m4RPIAFkXho5u6VDuTmyHjQZFNkl6H2hyAJS4zcBPtooD8IyLYeLNiGdw=;aZPKSgSnCfWeQlSr6V/TKg=="
+secured: "6JK6IpRYjr6d+G2zrlIX/g/fN+ou3baDWdqyD5cuLBsz9SsnLSpg6+y3yIy42b6rbZxIPZx1gWGMi2rMRhfMAYtpCQbXLN75Tq3MLAeX7fy4KxhqM5zRSI7roOn7B2JOkOg95d51kjfNUVZ6bDXMuRq8EjOcAfKMP00dbC8iMMH+ZawUBgM+hZajMcc2mjBayqxG4znIGu3S/rzRC3X71cb251LI3oD+meJEuiso+QW5IOKKO0/b4hXb8GdmD1WdaPdBU3r+WXe45Cny8PgcFZWMPiZddRcjAbkUKzmk30pXht06HNlaYAhLKyAv+IgLhE8FZC6+v6MvYF6vQ0C0w/kVIvJN27Xc7sh08ScJdFM=;rheawo0j5eccK2z1xuZf8w=="
 ---
 

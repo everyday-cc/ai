@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/how-teslas-new-sup
 webUrl: "https://markets.businessinsider.com/news/stocks/how-teslas-new-supercomputer-could-upend-the-ai-race-1032631339"
 type: article
 quality: 86
-heat: 117
+heat: 116
 published: true
 
 provider:

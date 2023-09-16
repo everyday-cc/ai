@@ -69,15 +69,6 @@ related:
         width: 319
         height: 250
         isCached: true
-  - title: "OSS to Showcase Specialized High-Performance AI Computing Solutions at DSEI on September 12-15, 2023"
-    excerpt: "One Stop Systems, Inc. (NASDAQ:OSS), a leader in AI Transportable solutions on the edge, will showcase its specialized high-performance AI computing solutions at"
-    publishedDateTime: 2023-09-11T16:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/g34447447/oss-to-showcase-specialized-high-performance-ai-computing-solutions-at-dsei-on-september-12-15-202"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 4
 
 secured: "s6bNQNulQHIAyhw0DIe/95MB4KmOk25Od+I3eEsf6nxN9MADrjbsNVGR6JtrTCjnvhuk8tSfpVMiChN76j0wSiJX33N0DBCsNlF6cpCwC80VgsT8pfKq82mA0bK6uaDjsCMe0A2DWe2Cb0QKcsKbNnQzF1D5iL9TTSpsA1Nsxsk0eNyJigMrqBfbRorMjRkLazCnp0JCRVPsBCyrK+bfoR3NASj0+L+ZIIRpKGESqMqtsCJer8vq09rY32dlGIBc/a7BBy8gikpYwzeYhOTkVSeMtp2tpjqBYW9F65SYGlOnL7S6FbHLKXGt8Vi9dSzK6/qaxoDaBWafSsblaYfPKIO7bz/D61q3HmY6f7XTSrr9G1JlTJLG8uQ3IcDWHn5/clgnyMXg7D/S4aEElwuKWOLFpY1UudDMWhORSGoAqPjjqnz/kIPK5PO5C0zSnJM6ce/QERLA/j5VL4LMRC1aHBpFPmB/SARV6RxFgurZ1YGoKwm1R4pPYJ+YfF11vBP3vJ3hCz+GykLV6AbLWxj1hg==;1yTzHMhrxBKj86tZFTjuww=="
 ---

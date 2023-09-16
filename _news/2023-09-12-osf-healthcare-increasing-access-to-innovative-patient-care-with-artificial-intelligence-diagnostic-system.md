@@ -19,43 +19,36 @@ topics:
   - AI
 
 related:
-  - title: "Exploring Patient, Provider Perceptions of Healthcare AI"
-    excerpt: "Advances in healthcare artificial intelligence have received significant hype, but patients and providers are still cautious of these new technologies."
-    publishedDateTime: 2023-09-13T13:29:00Z
-    webUrl: "https://healthitanalytics.com/features/exploring-patient-provider-perceptions-of-healthcare-ai"
+  - title: "Without Small Data, AI in Health Care Contributes to Disparities"
+    excerpt: "To me, one of the fundamental flaws of artificial intelligence in health care is its overreliance on big data, such as medical records, imaging and biomarker values, while ignoring the small data."
+    publishedDateTime: 2023-09-13T02:39:00Z
+    webUrl: "https://www.scientificamerican.com/article/without-small-data-ai-in-health-care-contributes-to-disparities/"
+    ampWebUrl: "https://www.scientificamerican.com/article/without-small-data-ai-in-health-care-contributes-to-disparities/?amp=true"
+    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/without-small-data-ai-in-health-care-contributes-to-disparities/?amp=true"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 56
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 59
     images:
-      - url: "https://healthitanalytics.com/images/site/features/_normal/Getty_correct_size_sdoh.png"
-        width: 690
-        height: 400
+      - url: "https://static.scientificamerican.com/sciam/cache/file/C0C83A37-506D-40DA-A2C44FD79465BB58.jpg"
+        width: 790
+        height: 497
         isCached: true
-  - title: "Healthcare AI adoption hindered by 'switchover disruptions'"
-    excerpt: "The U.S. healthcare industry will struggle to adopt artificial intelligence due to \"switchover disruptions,\" the expensive implementation period for new technologies that can disrupt profitable operations, Harvard Business Review reported Sept. 14."
-    publishedDateTime: 2023-09-14T18:11:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-health/healthcare-ai-adoption-hindered-by-switchover-disruptions.html"
+  - title: "AI Adoption in U.S. Health Care Won’t Be Easy"
+    excerpt: "Artificial Intelligence has the potential to improve every aspect of health care. AI applications can accelerate scientific discovery, help physicians and nurses make better decisions, improve medical advice for patients, and reduce the sometimes-crushing ..."
+    publishedDateTime: 2023-09-14T13:05:00Z
+    webUrl: "https://hbr.org/2023/09/ai-adoption-in-u-s-health-care-wont-be-easy"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 41
     images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
+      - url: "https://hbr.org/resources/images/article_assets/2023/09/Sep23_14_1473680688_488500297.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "How Artificial Intelligence is Bolstering Impressive Billion Dollar Growth Opportunities in Healthcare Sector"
-    excerpt: "The implementation of AI/ML technologies in enhancing patient care, reducing machine downtime, and minimizing care expenses are some of the driving forces of artificial intelligence (AI) in healthcare market growth."
-    publishedDateTime: 2023-09-12T15:18:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/09/12/9879146.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
 
 secured: "UtSZ1eH6AIUS+4J8AlIxR3jgFx/I21Tu9Q66mIotCn5/0vNjdgEA/Jn/pzO5c7iIIhqrMvOSnb1pU6xfixz5NkjQBRzTashuEtCWXybI4J09uIoMHZ3QrioNwlNWn1TMnCCvOMykGvqPZBq4IolkXBQSdpYmcGWjdhUJefCjtPVUXuwpQ+/bBvlUFqUNXbVnsMGYt+HAu0v9r4DQdhJhW4+Z3RFPU8hZpbn68GcPfZdpdPc66NIEl5loE9xJY0kEhDjaZ5NgJF/LeclnO3G7YCiRnZH69ksJ300So/gOfTKvtYC2NOrmOBkLO32NzVFAnvnr3wgUG2MfNeHxTV0T50hCicvOAHfOSNfczpGDaR7IUOFeqbmB1RNRyjfhYKTSmYGlNcg7f8SE0HIvwd4uo384LL37cIxqJmEwzleFxjj8RrQX/IswdXZqlR0+IPrC/E3JfBgS+sHJcV99vorhspKFVEmpgm/JbnjpvjcDaYULatLNEeuH2KDtcwA6iIdUBkVQ3EpW6vE2dR1S2UMM1g==;E0/XuJbbgtdXZzrVtqpOZQ=="
 ---

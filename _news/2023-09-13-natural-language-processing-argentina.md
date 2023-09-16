@@ -7,7 +7,7 @@ originalUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/natur
 webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/argentina"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI Industrial Robotics - Argentina"
+    excerpt: "The market size in the AI Industrial Robotics market is projected to reach US$9.68m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 7.82%, resulting in a ..."
+    publishedDateTime: 2023-09-12T22:44:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/argentina"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 69
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Problems in Argentina’s justice system exacerbated by public facial recognition: report"
     excerpt: "A data entry error in a database used for facial recognition in Argentina has highlighted problems with the country’s justice system."
     publishedDateTime: 2023-09-14T21:04:00Z

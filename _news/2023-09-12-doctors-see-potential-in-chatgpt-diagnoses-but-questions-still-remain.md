@@ -81,20 +81,6 @@ related:
         width: 1400
         height: 900
         isCached: true
-  - title: "As Senate tackles AI regulation, everyone has an opinion (except ChatGPT) | The AI Beat"
-    excerpt: "The chatbot continued: “I’m not aware of specific AI regulation forums taking place this week or ... He also says the United States should use its dominance in advanced chips to enforce global standards, and has called for the creation of a governance ..."
-    publishedDateTime: 2023-09-11T16:28:00Z
-    webUrl: "https://venturebeat.com/ai/as-senate-tackles-ai-regulation-everyone-has-an-opinion-except-chatgpt-the-ai-beat/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 61
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/09/sharogold_vector_illustration_of_US_capital_building_with_peopl_3bb05faf-cd21-4366-a551-57d6b709e91e.png?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
   - title: "Why ChatGPT isn't conscious—but future AI systems might be"
     excerpt: "Google engineer Blake Lemoine made headlines by claiming the company's LaMDA chatbot had achieved sentience. The software had the conversational ability of a precocious seven-year-old, Lemoine said, and we should assume it possessed a similar awareness of the world."
     publishedDateTime: 2023-09-12T16:47:00Z

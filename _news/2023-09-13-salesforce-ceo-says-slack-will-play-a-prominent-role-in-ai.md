@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How Salesforce Stock (NYSE:CRM) Can Thrive from the AI Wave"
-    excerpt: "Salesforce (NYSE:CRM) seems to be doubling down to gain a better position in the AI race. That much was clear after the company’s latest"
-    publishedDateTime: 2023-09-11T15:34:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/how-salesforce-stock-nyse-crm-can-thrive-from-the-ai-wave-1032620810"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 101
-    images:
-      - url: "https://blog.tipranks.com/wp-content/uploads/2023/09/image-179.png?utm_source=markets.businessinsider.com&utm_medium=referral"
-        width: 778
-        height: 445
-        isCached: true
   - title: "How AI Is A Game Changer For Recruiting And Retention At Salesforce And Other Companies"
     excerpt: "AI has become a positive game changer for recruiting, retention, learning and development programs. In an exclusive interview with Salesforce interim chief people officer Nathalie Scardino, she discussed how the cloud computing and social enterprise software-as-a-service provider is leveraging AI for the company and its clients."
     publishedDateTime: 2023-09-13T15:00:00Z

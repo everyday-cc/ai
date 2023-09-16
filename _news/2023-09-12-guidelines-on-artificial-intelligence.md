@@ -170,20 +170,6 @@ related:
       name: BBC
       domain: bbc.com
     quality: 47
-  - title: "An AI reality check"
-    excerpt: "While thousands and thousands of people have been working with artificial intelligence for years ... at AI’s medical applications and drug development — how you can tailor therapy and predict response to treatment. If humans ask the right questions ..."
-    publishedDateTime: 2023-09-11T17:00:00Z
-    webUrl: "https://www.mmm-online.com/home/channel/features/an-ai-reality-check/"
-    type: article
-    provider:
-      name: MM&M
-      domain: mmm-online.com
-    quality: 39
-    images:
-      - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2023/09/MMM_September-2023-_Web-Art0011280-x-900.jpg"
-        width: 1024
-        height: 720
-        isCached: true
   - title: "Softserve Launches Generative Ai Lab"
     excerpt: "Specialized lab expands SoftServe's AI/ML capabilities to accelerate Generative AI value discovery and real-world adoptionSINGAPORE - Media"
     publishedDateTime: 2023-09-12T11:54:00Z
@@ -241,18 +227,18 @@ related:
         height: 488
         isCached: true
   - title: "Tech titans are giving senators advice on artificial intelligence in a closed-door forum"
-    excerpt: "\"It's going to be a fascinating group because they have different points of view,\" Schumer said in an interview with The Associated Press before the event. \"Hopefully we can weave it into a little bit of some broad consensus."
-    publishedDateTime: 2023-09-13T20:15:00Z
-    webUrl: "https://sentinelcolorado.com/uncategorized/tech-titans-are-giving-senators-advice-on-artificial-intelligence-in-a-closed-door-forum/"
+    excerpt: "Senate Majority Leader Chuck Schumer has been talking for months about accomplishing a potentially impossible task: passing bipartisan legislation within the next year that encourages the rapid development of artificial intelligence and mitigates its biggest risks."
+    publishedDateTime: 2023-09-13T18:28:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/tech-titans-senators-artifiicial-intelligence-20230913-uacancl5nfbbroed5kpcdq5mey-story.html"
     type: article
     provider:
-      name: Sentinel Colorado
-      domain: sentinelcolorado.com
-    quality: 30
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 28
     images:
-      - url: "https://sentinelcolorado.com/wp-content/uploads/2023/09/AP23256017020655-scaled.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://www.chicagotribune.com/resizer/vFnUsBA1w0sBUMvckTOgwa5fEw8=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/VZCWBJHYT4LSPTK3V2V6HHAUNM.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Swoop Launches Predictive AI Adherence Targeting"
     excerpt: "Swoop Predictive AI Adherence Targeting uncovers the patients most likely to become non-adherent within the next 30 days for highly precise marketing."

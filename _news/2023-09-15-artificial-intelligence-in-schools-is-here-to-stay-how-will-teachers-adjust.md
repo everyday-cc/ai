@@ -8,7 +8,7 @@ webUrl: "https://www.newsday.com/long-island/education/artificial-intelligence-s
 ampWebUrl: "https://www.newsday.com/amp/long-island/education/artificial-intelligence-schools-chatgpt-uhnxre5w"
 cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/long-island/education/artificial-intelligence-schools-chatgpt-uhnxre5w"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
 
 related:
   - title: "5 handy AI tools for school that students, teachers, and parents can use, too"

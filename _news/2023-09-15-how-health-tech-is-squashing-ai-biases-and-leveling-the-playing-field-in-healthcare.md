@@ -25,77 +25,43 @@ images:
     isCached: true
 
 related:
-  - title: "Optimizing AI Inference Is As Vital As Building AI Training Beasts"
-    excerpt: "The history of computing teaches us that software always and necessarily lags hardware, and unfortunately that lag can stretch for many years when it comes to wringing the best performance out of iron by tweaking algorithms."
-    publishedDateTime: 2023-09-11T15:26:00Z
-    webUrl: "https://www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts/"
-    ampWebUrl: "https://www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts/amp/"
+  - title: "Exploring Patient, Provider Perceptions of Healthcare AI"
+    excerpt: "Advances in healthcare artificial intelligence have received significant hype, but patients and providers are still cautious of these new technologies."
+    publishedDateTime: 2023-09-13T13:29:00Z
+    webUrl: "https://healthitanalytics.com/features/exploring-patient-provider-perceptions-of-healthcare-ai"
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 56
     images:
-      - url: "http://www.nextplatform.com/wp-content/uploads/2023/09/nvidia-gpu-full-stack-performance-hpc-ai-mix.jpg"
-        width: 714
-        height: 520
+      - url: "https://healthitanalytics.com/images/site/features/_normal/Getty_correct_size_sdoh.png"
+        width: 690
+        height: 400
         isCached: true
-  - title: "Grab this chance to see ‘Flying Man’ Sam Rogers at Dubai World Congress for Self-Driving Transport"
-    excerpt: "Latest autonomous vehicles, robots to go on show from September 26 to 27 at DWTC Dubai: The opening keynote at the upcoming Dubai World Congress for Self-Driving Transport will be delivered by Sam \"Flying Man\" Rogers, famous for taking off in his jet suit."
-    publishedDateTime: 2023-09-12T06:02:00Z
-    webUrl: "https://gulfnews.com/uae/transport/grab-this-chance-to-see-flying-man-sam-rogers-at-dubai-world-congress-for-self-driving-transport-1.98056754"
-    ampWebUrl: "https://gulfnews.com/amp/uae/transport/grab-the-chance-to-see-flying-man-sam-rogers-at-dubai-self-driving-event-1.98056754"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/transport/grab-the-chance-to-see-flying-man-sam-rogers-at-dubai-self-driving-event-1.98056754"
+  - title: "Healthcare AI adoption hindered by 'switchover disruptions'"
+    excerpt: "The U.S. healthcare industry will struggle to adopt artificial intelligence due to \"switchover disruptions,\" the expensive implementation period for new technologies that can disrupt profitable operations, Harvard Business Review reported Sept. 14."
+    publishedDateTime: 2023-09-14T18:11:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-health/healthcare-ai-adoption-hindered-by-switchover-disruptions.html"
     type: article
     provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 45
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
     images:
-      - url: "https://imagevars.gulfnews.com/2023/09/12/credit-Instagram-Sam-Rogers-1694497367730_18a87e9e6c8_medium.jpg"
-        width: 540
-        height: 405
-        isCached: true
-  - title: "Here's your chance tp see ‘Flying Man’ Sam Rogers at Dubai World Congress for Self-Driving Transport"
-    excerpt: "Latest autonomous vehicles, robots to go on show from September 26 to 27 at DWTC Dubai: The opening keynote at the upcoming Dubai World Congress for Self-Driving Transport will be delivered by Sam \"Flying Man\" Rogers, famous for taking off in his jet suit."
-    publishedDateTime: 2023-09-12T06:00:00Z
-    webUrl: "https://gulfnews.com/uae/transport/heres-your-chance-tp-see-flying-man-sam-rogers-at-dubai-world-congress-for-self-driving-transport-1.98056754"
-    ampWebUrl: "https://gulfnews.com/amp/uae/transport/heres-your-chance-tp-see-flying-man-sam-rogers-at-dubai-world-congress-for-self-driving-transport-1.98056754"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/transport/heres-your-chance-tp-see-flying-man-sam-rogers-at-dubai-world-congress-for-self-driving-transport-1.98056754"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 44
-    images:
-      - url: "https://imagevars.gulfnews.com/2023/09/12/credit-Instagram-Sam-Rogers-1694497367730_18a87e9e6c8_medium.jpg"
-        width: 540
-        height: 405
-        isCached: true
-  - title: "Some startup founders say VC influence is 'debilitating.' Here's why they are turning down outside funding and bootstrapping instead."
-    excerpt: "Founders are turning down VC funding and instead boostrapping so they can keep control of their business plans and run lean teams."
-    publishedDateTime: 2023-09-14T09:00:00Z
-    webUrl: "https://www.businessinsider.com/startup-founders-are-bootstrapping-instead-of-raising-money-from-vcs-2023-9"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 21
-    images:
-      - url: "https://i.insider.com/61719cdafee39f0018faadbb?width=1200&format=jpeg"
-        width: 1200
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
         height: 600
         isCached: true
-  - title: "Intel shows strong AI inference performance"
-    excerpt: "Intel has shown up well on competitive performance for AI inference as it attempt to make artificial intelligence (AI) more accessible at scale across the continuum of AI workloads, from client and edge to the network and cloud."
-    publishedDateTime: 2023-09-13T09:29:00Z
-    webUrl: "https://it-online.co.za/2023/09/13/intel-shows-strong-ai-inference-performance/"
+  - title: "How Artificial Intelligence is Bolstering Impressive Billion Dollar Growth Opportunities in Healthcare Sector"
+    excerpt: "The implementation of AI/ML technologies in enhancing patient care, reducing machine downtime, and minimizing care expenses are some of the driving forces of artificial intelligence (AI) in healthcare market growth."
+    publishedDateTime: 2023-09-12T15:18:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/09/12/9879146.htm"
     type: article
     provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 19
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
 
 secured: "P4ktKSNrWwtSc/wiDP5cH86cHH7l2vpDz2RmsfAkJCcCz5mLjOqCqCK8CfvHMqc5zRUaHIpYcrMLiT6HwvW/lnJbFlzTH3SWI6nSb5P49uwOgtsidCEq+xoqegNZuVc70Df8bbHxWLGlKBkcXL7jTe4f9t0gfDB6ed85V5BKKe2Vy4QPWXy7t1PbEYrT9jeAPj7GEB59OpFS338kbOCNjZWPL0zccUpTYzBxcYaSfV3xXDpT/Do3puCE2/I78iVImRDXnHRRKlmNWFXiuChdmC3MEHm70SOAldTqrGx/dsDMPfaqhD637fW8uLu3XeEo79cUtg+0w0I1fQ7IXdnOL5SzA3P+7pS/JgU2UkhlG+4ahlBcPk7Nj0mDlsaa1PFyxue01FsMQUqcJeFsZ1X0xY850/CcLc5HlUyKSpWl+AW7CHneZiwwzA8YZMCMmx5fmXiq+b9C7+rpQRo9hy8nH+anGvXgLb3jR4xlRpwMkP9+2CNFPGsO0fj+uxqymx9sY7DhCjXofHTQAJRzGsZsEg==;kzAFh2fZJ0qMjxnwfF1p/Q=="
 ---

@@ -51,20 +51,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Popping the chatbot hype balloon"
-    excerpt: "Understanding how chatbots work and the human labor and data involved can better help evaluate the validity of concerns about them—which although innovative, are hardly the stuff of science fiction."
-    publishedDateTime: 2023-09-11T17:01:00Z
-    webUrl: "https://thebulletin.org/premium/2023-09/popping-the-chatbot-hype-balloon/"
-    type: article
-    provider:
-      name: Bulletin of the Atomic Scientists
-      domain: thebulletin.org
-    quality: 26
-    images:
-      - url: "https://thebulletin.org/wp-content/uploads/2023/09/Pop-balloon-landscape.png"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "e6gKeXUD6h3CBTO65e8I0ShGkhNinCQT9LpYWqq9M0068qzrPCR7u002VhBAzJiuqDYkDLdCbLtXx0T8fcjsIYbxWzVI83ypM8PmP1Ts3RqLGfJNc/w4FTjPaAhCfGLpTidV/Ogxvy8ng789OBYgwyo3S5buTcviVwXFpZ0EvLZa63VgI5niwujfHa+K6YyjjVNjse/anrhcITFo1mL/kNQ72ccj33yWq+tK9oiqF/VGqDD1cYv2JGIVMYF6cInjig6lMV5Plt1N4hGLw4JhX8lAAoA3PkSHHyIp2Vvt6+TADBnB/gxGfSI23PzLQnuAaTZOc6vXju3nwY4DCK0+mXPMsInQJeLCPzKysYu04io=;eAeLG/jl4+oAroqJEVzG0Q=="
 ---

@@ -77,7 +77,7 @@ related:
     provider:
       name: Newsday
       domain: newsday.com
-    quality: 36
+    quality: 38
 
 secured: "o0ydHoikqaf9G5NOcSWZbTBMblm3eRxjWHQ9n2dXUGpYOivgTxlgXFH507WX/LWbe4e4pogrDFFCK8rZVfgoqaB6oTADEA8s03lX8reN3QXnDBtdLsJDsbOMFzo2SYO6sRI1D1orwK+Mgj69dgyLuoLGtWwiX16GQiLKm544IhOat3waC6CsI74oM64bIXbPeVFkcRYmyJ0r2AKXCuBv9+JItxD+XTv1cxiCMT4YJa7BUBQfnSmUKqxiOzIOpB1B44xj8RzdhKU2blc8Wo5lSwo/Q1PBFaHe8VHCrw2VLEtjRTzM5nqIHqbcXXw43cN41TnkDtUsKH0bcYrer10WYEZ77o/HzXxw3eJz9T8Xt74=;wL2u0ne2BvhO1nCHo2ZFqA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://hbr.org/2023/09/ai-adoption-in-u-s-health-care-wont-be-eas
 webUrl: "https://hbr.org/2023/09/ai-adoption-in-u-s-health-care-wont-be-easy"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,20 +26,31 @@ images:
     isCached: true
 
 related:
-  - title: "Eye on America: AI advancements in health care, cosmetics and beyond"
-    excerpt: "In New York, Microsoft’s VP of research and innovation explains how AI is helping the health care industry. Then in California, we see how robots could revolutionize the beauty and cosmetics industry."
-    publishedDateTime: 2023-09-12T00:05:00Z
-    webUrl: "https://www.cbsnews.com/video/eye-on-america-ai-advancements-in-health-care-cosmetics-and-beyond/"
+  - title: "Without Small Data, AI in Health Care Contributes to Disparities"
+    excerpt: "To me, one of the fundamental flaws of artificial intelligence in health care is its overreliance on big data, such as medical records, imaging and biomarker values, while ignoring the small data."
+    publishedDateTime: 2023-09-13T02:39:00Z
+    webUrl: "https://www.scientificamerican.com/article/without-small-data-ai-in-health-care-contributes-to-disparities/"
+    ampWebUrl: "https://www.scientificamerican.com/article/without-small-data-ai-in-health-care-contributes-to-disparities/?amp=true"
+    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/without-small-data-ai-in-health-care-contributes-to-disparities/?amp=true"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 59
     images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/09/12/d5e481ba-c6dc-40ba-b4fe-306a12214d05/thumbnail/1200x630/0a04813d7686ad2b1d378541cc583578/0911-eoa-s2ep34-2271977-640x360.jpg?v=4e5c11166f529429e37bbcbb597e9315"
-        width: 1200
-        height: 630
+      - url: "https://static.scientificamerican.com/sciam/cache/file/C0C83A37-506D-40DA-A2C44FD79465BB58.jpg"
+        width: 790
+        height: 497
         isCached: true
+  - title: "OSF HealthCare Increasing Access to Innovative Patient Care with Artificial Intelligence Diagnostic System"
+    excerpt: "Digital Diagnostics, a leading artificial intelligence (AI) diagnostic healthcare company's flagship product, LumineticsCore™ ( formerly IDx-DR), is increasing access to innovative care at OSF HealthCare for people living with diabetes."
+    publishedDateTime: 2023-09-12T13:02:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-osf-healthcare-increasing-access-innovative-patient-care-with-/2023/09/12/9878881.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 16
 
 secured: "gL95pAjNchWQSmJpyUo6OxR5ilC5fw+rAzflJ2SiSkzXi8GuCGupiPzHQuiCp0y2dcwfpiZe62ZKJdhOnlgI45xFDdraQsfpJaL13Tv8ce7GjxIBYlwM5iFR1zTPMXXIXigbhmDfC+XzNLZfTrd8iAPd1typxC6tleYkFBWjuWiGeYoepm56rHYQ77Qm+dVthKyFuJ8fbYDS2RtKMFiScS7hP/gGpaAB5SUO3gIqRFSNqKYoeza1G7rVqAYz019hJgKw+B2JqCzcBybtzjf7ulnWBTqPXvBdFThT+V+5mKlEZRC73AXtLoFSIbC/SlE9UIqUzHIO5TbgK2QhUhMWL5mevNZalh1rxG30L7ZrhkSQ72evo35mMM3KFqkuem4TWpTa//cDXKX4TS5IZUeLuVQYMo017rTNunMNnOiTU3CXs1FOu7T9sKsYtVxVqYBMkosgsPpWO8RwYhY//MkPR+WcKy4Y5CrKfDvmhDDKvL6pO1mGNNyyr/m5DG3YjzUwaDjfYllqhbg3rEgnMOMQuA==;MddMbpjuABFrYHykAXi/+w=="
 ---

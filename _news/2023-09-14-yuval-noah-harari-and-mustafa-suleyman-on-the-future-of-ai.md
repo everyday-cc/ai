@@ -6,7 +6,7 @@ publishedDateTime: 2023-09-14T13:19:00Z
 originalUrl: "https://www.economist.com/films/2023/09/14/yuval-noah-harari-and-mustafa-suleyman-on-the-future-of-ai"
 webUrl: "https://www.economist.com/films/2023/09/14/yuval-noah-harari-and-mustafa-suleyman-on-the-future-of-ai"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230914_FLP003.jpg"
@@ -48,6 +49,6 @@ related:
       domain: aol.com
     quality: 19
 
-secured: "BshKBn+IbbFcfbCxiJ2pV3JrWaBTHOVpjM4IvNG3rSrBMehKvku0il1qUFeVUXZ0/IQ9SFeR5WZ+6TKsfwChj6EWAgq4hxv4xkhjQ6b6//CCblap/s+FcyxQVh2Qw87ZWlKrdZVkqdEHsWn9ZhipRw/U/JALgm/qwknlppX+GGa9XVFiJ3QaNldoSdcSVa7GaEXMav5m9Dzapg6EO9tyvL3bEvVDaahf/auJoWIq7cwYxHLbRvWCmE86ARtIlMDRRJx67n2ZT2JPd5Yplje8YqHpSW3zxg4Yvg9ruVEG1IH4EHQUYtfY84YrHYH10f2shQvriOydNAf1JIDKo0Ac5Zl8jZZMNxH1uDBYkfq4pao=;q7uN0X/tUQpvXVQKFLkgkQ=="
+secured: "6CphPRIRI1Kfb/ndlsdZhkufi/9IiWxtG3ZOeoRb3lVI47bWifDRnuGgRMra65d6JP6BxNUhCXsZIFF9XZd5dacvbVLRfVe3WhIFdPaynWOv/v6y6XapQTqdpmdk9OE1K0cQfssEC1CMJMDSuj2ZkqflLHVIXWeqnuWlq9fSpeJ/w8HofK01LQQ+Zq3aGP264Mrbom3Lli1HkkLMByLfPNf06H8McGXav0KMWH0WHS+UW5uFyU7JMpd9HQrk0vkQpAhZyFTjArSasPsGMZusr4tWRz8rqZGE+eAnCfp4W8m2znGEBMBM7GZODMdGbAN7Qb3hHPaHN8g/FmDKM9KOh2i/4b2T5+n/KkHI96IcHXgFkyKgotrBkcvXL5/CwdSRnh753v8nEGUildfst8KX8oOfLgACoWWmgZuQNmL21ag1vXSWYU/2a/smQTRSbEVmrYeMSsB/vXT1PZNy65ve7US7yRPYJvg9I1TqZpNWHO4Yhy0dCy59W6YG+v/fzY8+Ym7PuBsQUkcN7CDL6UESvg==;F2wJzfveSfh8w5p09tCuJw=="
 ---
 

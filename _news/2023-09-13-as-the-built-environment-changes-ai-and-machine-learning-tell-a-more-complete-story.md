@@ -49,6 +49,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Brain inspires more robust AI"
+    excerpt: "Artificial intelligence (AI) has become a relatively common thing ... but a more serious example could be a driverless car mistaking a stop signal for a right-of-way sign. And it’s not just the already controversial example of driverless cars; there ..."
+    publishedDateTime: 2023-09-16T08:19:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/1001677"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/69a180ba-52cb-4e9c-af98-d9fcc661e76f/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 218
+        isCached: true
 
 secured: "LKXD5X2k7Jgq9gvLXYT7uCvug2hfHOPglGCPzhiOqiAsc5eHUHhQEQITbOPgXoEsEOUFPumqXgzesdf+exasVO11TMB6gHzHTYCtpaRSeVJtRVV0tBSkZUavPQCMyZjRArCpaTkVGbbvIZKNimmVMaYLgUAqAGyCgkzp6uLhdn4Jo7TyVsMUPsG/K0IjtsMvJPl7zI7ACH/Temk7Fw7rxIBtCGYDvRZJDn1ik0ICX8ml3pBrlwBy1NxXzmhf9kH9pIj0MA9BWlZF+Z0IJ4ABt2ERT4L5vjATGeQSpgnEV0Ivk5itx3i6fiXnCjjV6qhwFDBOKBHdvdaRKpBBJ40VnOIi1710QMaUNFndT2ARcHpcOsadoaafjkBHipYtb0Tog+v6RIDb6VTcQORg8QSxrOJFB/U4nejh9YCpJCzBmTPP5KqIRWsqr2HK3dVXka/xb/fdNf2tTcH3B7fK/4/vn2371MBVQxpp48UD9qLZzpn7ExYdOdHxVztsuRIYBYZjMnQXC7QcqRKtHiTzNJCaFA==;0bwvSysrfssaFT+XdtyMEQ=="
 ---

@@ -1141,35 +1141,26 @@
       ]
     },
     {
-      "path": "_news/2023-09-06-intra-account-collection-copy-in-azure-cosmos-db-for-mongodb-in-public-preview.md",
-      "title": "Intra-Account Collection Copy in Azure Cosmos DB for MongoDB in Public Preview",
-      "excerpt": "Alasdair Allen discusses the potentially ethical dilemmas, new security concerns, and open questions about the future of software development in the era of machine learning ... of Intra-Account Collection Copy for Azure Cosmos DB for MongoDB, allowing ...",
+      "path": "_news/2023-09-06-with-ai-future-of-hearing-aids-might-include-language-translation.md",
+      "title": "With AI, future of hearing aids might include language translation",
+      "excerpt": "Sawalich says, \"If somebody falls, it'll text up to three people.\" They can also translate foreign languages. These AI hearing aids recalibrate up to 80 million times an hour, allowing them to ...",
       "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2023/09/azure-cosmos-intra-account-copy/",
-      "originalUrl": "https://www.infoq.com/news/2023/09/azure-cosmos-intra-account-copy/",
+      "webUrl": "https://www.guampdn.com/news/national/with-ai-future-of-hearing-aids-might-include-language-translation/video_0471ba7b-8f06-505f-b6d0-fe970b47c741.html",
+      "originalUrl": "https://www.guampdn.com/news/national/with-ai-future-of-hearing-aids-might-include-language-translation/video_0471ba7b-8f06-505f-b6d0-fe970b47c741.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2023/09/azure-cosmos-intra-account-copy/en/headerimage/generatedHeaderImage-1693574861570.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-05T17:25:00-07:00",
+      "publishedDateTime": "2023-09-05T21:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
+        "name": "Pacific Daily News",
+        "domain": "guampdn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1179,7 +1170,7 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "Natural Language Processing",
         "AI"
       ]
     }

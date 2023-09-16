@@ -24,22 +24,6 @@ images:
     height: 550
     isCached: true
 
-related:
-  - title: "How Applied AI is Transforming the Future of Transportation: A Deep Dive into Self-Driving Cars"
-    excerpt: "Envision a world where commuting ceases to be a tiresome chore and instead becomes an opportunity for relaxation or productivity. In this vision, accidents are nearly eradicated, and traffic jams fade into the distant past."
-    publishedDateTime: 2023-09-11T16:12:00Z
-    webUrl: "https://techbullion.com/how-applied-ai-is-transforming-the-future-of-transportation-a-deep-dive-into-self-driving-cars/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 27
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/09/Untitled-design-2023-09-11T171123.595.png"
-        width: 800
-        height: 400
-        isCached: true
-
 secured: "8tWvKio4vCe+V6+ym5/kFs8OJNQrBXAY2Ymd0boOA+Y9lyIxhBU4xx78a4wzQRRmAd/Wo4Boxt1wo0VEzPSLtWOL/3wwj5125dTS26zX4lRGk3exsLAi0eWSVUCQ7/kzIMzbnUZClCFBWWUASk1DxOcONgCIIu58Rw9xGrRmZqT15XhF1HKZnoomKAWKIVA+O8EDg9TSohJs6woVwtGWhs8BIdd6FGiRX5dZmoYHxKrWncbyxSR1nFW8kJxA8o7Do/mdmh0A3eyFUx0nIQIUQLV/OQ4te12rsyTozaV9ed1TxgvqfOSDK3qYjTKwdU+BD611QBKYev75f4rlY9MKzcaHMtPYsxkEYSpPfZjd+rxh6OtH39MGkxfCNvpfIIS0kDi1U8moUPwovHV5kH/+A+z3O1VPTX8TR5rPUPjgtstcTGL462bshx0Ov05qjFS+KOXx321k188DHcmKG/BEM0Mtq3u2l0JgCP9GhKAKBJooUAlf/EhqJsoGsqWoEED3+3PfyUJ9lQLZcRl82yocng==;N1h7LbIFoK0SVhndtvHuVw=="
 ---
 
