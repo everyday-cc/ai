@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Meta is developing a new, more powerful AI system"
-    excerpt: "Meta: The Facebook parent is aiming for its new AI model to be ready next year, the Journal said, adding it will be several times more powerful than its commercial version dubbed Llama 2."
-    publishedDateTime: 2023-09-11T07:39:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/meta-is-developing-a-new-more-powerful-ai-system/103569344"
-    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/meta-is-developing-a-new-more-powerful-ai-system/103569344"
-    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/meta-is-developing-a-new-more-powerful-ai-system/103569344"
-    type: article
-    provider:
-      name: brandequity.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-103569344,imgsize-7254,width-1200,height=765,overlay-etbrandequity/digital/meta-is-developing-a-new-more-powerful-ai-system.jpg"
-        width: 1200
-        height: 765
-        isCached: true
   - title: "Meta is developing a new, more powerful AI system, Wall Street Journal reports"
     excerpt: "The Wall Street Journal reported on September 10, 2023, that Meta is on a mission to create an AI system that can compete with OpenAI's state-of-the-art models."
     publishedDateTime: 2023-09-11T18:15:00Z

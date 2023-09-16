@@ -176,6 +176,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tech industry leaders endorse regulating artificial intelligence at rare summit in Washington"
+    excerpt: "Senate Majority Leader Chuck Schumer has been talking for several months about accomplishing a potentially impossible task: Passing bipartisan legislation within the next year that both encourages the rapid development of artificial intelligence and"
+    publishedDateTime: 2023-09-13T06:47:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/closed-forum-tech-titans-give-senators-advice-artificial-103142197"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 26
+    images:
+      - url: "https://i.abcnewsfe.com/a/da88065d-e58b-4c71-9de9-c23764279ca6/wirestory_efcfb1067d68ad2f595db7e92167943c_16x9.jpg?w=992"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Bill Gates, Elon Musk and Mark Zuckerberg meeting in Washington to discuss future AI regulations"
     excerpt: "Spread the loveIn a groundbreaking meeting, three of the world’s most influential tech leaders – Microsoft co-founder Bill Gates, Tesla and SpaceX CEO Elon Musk, and Facebook CEO Mark Zuckerberg – convened in Washington,"
     publishedDateTime: 2023-09-15T14:20:00Z

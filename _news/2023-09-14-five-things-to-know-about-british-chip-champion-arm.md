@@ -52,22 +52,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 64
-  - title: "What to know about Congress’s inaugural AI meeting"
-    excerpt: "We’re going to be hearing a lot about various plans and positions on AI regulation in the coming weeks."
-    publishedDateTime: 2023-09-11T08:08:00Z
-    webUrl: "https://www.technologyreview.com/2023/09/11/1079244/what-to-know-congress-ai-insight-forum-meeting/"
-    ampWebUrl: "https://www.technologyreview.com/2023/09/11/1079244/what-to-know-congress-ai-insight-forum-meeting/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/11/1079244/what-to-know-congress-ai-insight-forum-meeting/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/09/GettyImages-1651323207.jpeg?w=3000"
-        width: 3000
-        height: 1687
-        isCached: true
 
 secured: "TJD6g0FYTJD7DJ1h6bjnUDkCPTZYKWWG9rIEXoTTcttFdaict0rGN/LCufy/YfLHPjM297DO1+YcvQdlbZPlUx4forZQ2W15il6KyHvsgz6QsUSgsij0sqV41WqnGhENr7pjcjd2mODRHwGrbT9QERTEGaTfJR4gYrqbaCSkaPhlZpWXcCWMc6qjVD/WacCek6/oq+3Z5LlDelat+MkI2ud2XojRKBqtNzyCdzOvfvxPB75v3IFuLB5pzbhKcTBWBXLibE6nhw6FfgH6MEZcySFwj0ClSiuuPk5sJqlCrijIxulqajds7cytB2L4/tl5MzkIlZlqGBpTRLlNiCwuwCStQ+mSICUCkAfqX5CSXEo=;WinGlmbwMXT5KydTyVLDiA=="
 ---

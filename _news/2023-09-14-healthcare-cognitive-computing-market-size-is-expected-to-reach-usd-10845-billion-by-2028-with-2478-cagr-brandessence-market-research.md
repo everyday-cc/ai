@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Rehabilitation Robots Market Revenue To Cross Usd 3.5 Billion By 2031 At A Cagr Of 18.2% | Transparency Market Research"
-    excerpt: "Rehabilitation Robots Market Rise in prevalence of brain-related disorders, increase in number of patients with physical disabilities, an"
-    publishedDateTime: 2023-09-11T08:53:00Z
-    webUrl: "https://menafn.com/1107043430/Rehabilitation-Robots-Market-Revenue-To-Cross-Usd-35-Billion-By-2031-At-A-Cagr-Of-182-Transparency-Market-Research"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 15
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?245305"
-        width: 436
-        height: 250
-        isCached: true
   - title: "Collaborative Robot Market Size Is Anticipated To Grow Usd 33.95 Billion At A Cagr Of 41.3% By 2031 - Report By Transparency Market Research, Inc."
     excerpt: "North America is expected to account for the highest share of the collaborative robot's market during the forecast period. The market in the region is driven by a strong manufacturing base. The increasing foon automation and robust R&D activities contribute to the growth of the collaborative robot market."
     publishedDateTime: 2023-09-14T11:47:00Z

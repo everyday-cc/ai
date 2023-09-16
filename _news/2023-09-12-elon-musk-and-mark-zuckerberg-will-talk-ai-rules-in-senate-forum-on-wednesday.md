@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/elon-musk-and-mark-zuckerberg-
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/elon-musk-and-mark-zuckerberg-will-talk-ai-rules-in-senate-forum-on-wednesday-296d6ffe"
 type: article
 quality: 84
-heat: 214
+heat: 224
 published: true
 
 provider:
@@ -175,6 +175,20 @@ related:
       - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/14/815ddcc3-a196-42b6-a9d9-663d7d9fcc14/thumbnail/1200x630/de005c834abe02edca0319cf18cc9974/cbsn-fusion-tech-leaders-meet-with-senators-on-ai-regulations-thumbnail-2290233-640x360.jpg?v=b4264bc5922d2f5b2145bedc5a4d101e"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Tech industry leaders endorse regulating artificial intelligence at rare summit in Washington"
+    excerpt: "Senate Majority Leader Chuck Schumer has been talking for several months about accomplishing a potentially impossible task: Passing bipartisan legislation within the next year that both encourages the rapid development of artificial intelligence and"
+    publishedDateTime: 2023-09-13T06:47:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/closed-forum-tech-titans-give-senators-advice-artificial-103142197"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 26
+    images:
+      - url: "https://i.abcnewsfe.com/a/da88065d-e58b-4c71-9de9-c23764279ca6/wirestory_efcfb1067d68ad2f595db7e92167943c_16x9.jpg?w=992"
+        width: 992
+        height: 558
         isCached: true
   - title: "Bill Gates, Elon Musk and Mark Zuckerberg meeting in Washington to discuss future AI regulations"
     excerpt: "Spread the loveIn a groundbreaking meeting, three of the world’s most influential tech leaders – Microsoft co-founder Bill Gates, Tesla and SpaceX CEO Elon Musk, and Facebook CEO Mark Zuckerberg – convened in Washington,"

@@ -41,20 +41,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Rehabilitation Robots Market Revenue To Cross Usd 3.5 Billion By 2031 At A Cagr Of 18.2% | Transparency Market Research"
-    excerpt: "Rehabilitation Robots Market Rise in prevalence of brain-related disorders, increase in number of patients with physical disabilities, an"
-    publishedDateTime: 2023-09-11T08:53:00Z
-    webUrl: "https://menafn.com/1107043430/Rehabilitation-Robots-Market-Revenue-To-Cross-Usd-35-Billion-By-2031-At-A-Cagr-Of-182-Transparency-Market-Research"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 15
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?245305"
-        width: 436
-        height: 250
-        isCached: true
 
 secured: "EqwKYcE2w3Mp2LQeXhz8ESAFgmNPw+qtivaFnPdCUl6P0Fo79O+vU+Ofc2C2IzeRBtuIgq4pp8fCL8AvqOOEqO+3HaQzWyGDOZcfIFbUdWOJwoLHTCIHR2vgBq6Eh34kemo832kckRDrmJgXLx5cXlF+7X8zUXY260SAu2XFtmngdZXRpsu/cu4YCo2qdd/l6eDU+twWpsTnY5ha/scd6O2FOy0DkkLdgJM6m6jvo/heeRekCWp8v6616cODTu0xuBTiCoQSlaWUBmUoC5pHpOmS/JznqIc4SRxptNEiBh6UsKxgoiqj5HpBjR9N3XZw07GrVU/5VxTfqPnDxTAs/OFa2WUfgVA7hTBxOtriBQk=;k0sEwaIcHpmD71uWOG4nDA=="
 ---

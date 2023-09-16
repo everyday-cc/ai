@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Elon Musk and Mark Zuckerberg Snub Each Other at Capitol Hill AI Summit"
-excerpt: "Tesla CEO and X owner Elon Musk said he would take Meta CEO Mark Zuckerberg on in a cage fight if he is up to it.  pic.twitter.com/aQXRSuIGyy In all the hubbub surrounding Beetlejuice -gate, there’s one question that has gone unasked: How much of the musical’s score,"
-publishedDateTime: 2023-09-14T05:57:00Z
-originalUrl: "https://www.thedailybeast.com/musk-and-zuckerberg-snubbed-each-other-at-capitol-hill-ai-meeting"
-webUrl: "https://www.thedailybeast.com/musk-and-zuckerberg-snubbed-each-other-at-capitol-hill-ai-meeting"
+title: "Tech industry leaders endorse regulating artificial intelligence at rare summit in Washington"
+excerpt: "Senate Majority Leader Chuck Schumer has been talking for several months about accomplishing a potentially impossible task: Passing bipartisan legislation within the next year that both encourages the rapid development of artificial intelligence and"
+publishedDateTime: 2023-09-13T06:47:00Z
+originalUrl: "https://abcnews.go.com/US/wireStory/closed-forum-tech-titans-give-senators-advice-artificial-103142197"
+webUrl: "https://abcnews.go.com/US/wireStory/closed-forum-tech-titans-give-senators-advice-artificial-103142197"
 type: article
-quality: 37
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: The Daily Beast
-  domain: thedailybeast.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI
 
 images:
-  - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2182,w_3879,x_0,y_112/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1694659602/2023-09-13T140008Z_1328967948_RC2L73A9YJDK_RTRMADP_3_USA-AI-CONGRESS_jalqic"
-    width: 1480
-    height: 833
+  - url: "https://i.abcnewsfe.com/a/da88065d-e58b-4c71-9de9-c23764279ca6/wirestory_efcfb1067d68ad2f595db7e92167943c_16x9.jpg?w=992"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -130,6 +130,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Elon Musk and Mark Zuckerberg Snub Each Other at Capitol Hill AI Summit"
+    excerpt: "Tesla CEO and X owner Elon Musk said he would take Meta CEO Mark Zuckerberg on in a cage fight if he is up to it.  pic.twitter.com/aQXRSuIGyy In all the hubbub surrounding Beetlejuice -gate, there’s one question that has gone unasked: How much of the musical’s score,"
+    publishedDateTime: 2023-09-14T05:57:00Z
+    webUrl: "https://www.thedailybeast.com/musk-and-zuckerberg-snubbed-each-other-at-capitol-hill-ai-meeting"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2182,w_3879,x_0,y_112/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1694659602/2023-09-13T140008Z_1328967948_RC2L73A9YJDK_RTRMADP_3_USA-AI-CONGRESS_jalqic"
+        width: 1480
+        height: 833
+        isCached: true
   - title: "'Overwhelming consensus' to regulate AI, says Elon Musk"
     excerpt: "Top tech leaders, including Elon Musk, Mark Zuckerberg, Sundar Pichai and Bill Gates, met with US lawmakers on Wednesday to discuss AI governance. 'This meeting may go down in history as being very important for the future of civilisation,' Musk said."
     publishedDateTime: 2023-09-13T23:08:00Z
@@ -172,20 +186,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tech industry leaders endorse regulating artificial intelligence at rare summit in Washington"
-    excerpt: "Senate Majority Leader Chuck Schumer has been talking for several months about accomplishing a potentially impossible task: Passing bipartisan legislation within the next year that both encourages the rapid development of artificial intelligence and"
-    publishedDateTime: 2023-09-13T06:47:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/closed-forum-tech-titans-give-senators-advice-artificial-103142197"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 26
-    images:
-      - url: "https://i.abcnewsfe.com/a/da88065d-e58b-4c71-9de9-c23764279ca6/wirestory_efcfb1067d68ad2f595db7e92167943c_16x9.jpg?w=992"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Bill Gates, Elon Musk and Mark Zuckerberg meeting in Washington to discuss future AI regulations"
     excerpt: "Spread the loveIn a groundbreaking meeting, three of the world’s most influential tech leaders – Microsoft co-founder Bill Gates, Tesla and SpaceX CEO Elon Musk, and Facebook CEO Mark Zuckerberg – convened in Washington,"
     publishedDateTime: 2023-09-15T14:20:00Z
@@ -219,6 +219,6 @@ related:
       domain: washingtonpost.com
     quality: 9
 
-secured: "Ze9HSnDQoDOt/SawN9hgCkhOdhC5OM0sD4WPJKBooaMoBHVrudohA8USxAZOvWw4F+8NEILydvp3VqdJLGwDDbH9ajHmcXHt7hEHfS2PCi9QmHuTRCHX0/PuWdO6Z1j29ktHAdz9n9O1QHCLtXQd0kf9UD48p5szDQGQjHszl/KC8EG4hGu/mPlWCWxm7TgNWKdOdyG7JqJzP3v/40cXRuV/4wWbOT0VQ4U376Q/RPug1G58sCadqVXECedBaI66usxg+aoYw1FhDlXCqSRttC/XR3jmLw5DwkrOJMdUDwUbdRDd6dyTLvdkw9jF0h6MY0EbKL6qe+5ONzJwRMj7meVACjkemAxFsmM+Pm0Kl0gPSSnmRV7LY1PAKoCxWAhUt5vBUq9nsuGt6r7dvA5ngvDA5F9V7VtDjl8qHUIDpiFnunLuXVxKDToSsK0NPEmoXwbF3xd5VHFjcXNnVEAFsNF8BflLzT/xJ8l3oVGfXsKRPYsS+ofhWXKoiIoaVNBCiCUab2pb+1ve7j2XR0V3Eg==;EgWFK9nTNJISYfAH3zA/1A=="
+secured: "a3lAcmWQIk0h14TgwzfLNjknmclW6uFmCrRYcncYfnrS+FHVVAVJZC2TS9dfWT3Xx/dWK3zUrTEg4h/gp5uph2tfK4yZBm2xOKsagOmagORh41veu16cphGS9guJqHqLYh8SCY0COum0jWzI2+SxJ5/Amw7S/NVREWLmkAUdvg8a5/uvaEFazGnd1bOCEfR8d4yUp1dWnjIjdbXXnUu88/juztJZ/M6cKx9kZaVzaPxJrRb8FolU/LTVYpZAddbmkSfPOj2qIbU++I57o4UElIRqxE+Bs60IU8JvnPgmKmbYRqQGZo9T9qENJBVRRviXcI6POj8P8mWGWeEyO6JeURoVhsDhyYpJtpmrngSMQ8o=;Wx7Q/HcEtgcl6hMBAGMywA=="
 ---
 

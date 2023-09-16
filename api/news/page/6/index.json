@@ -2,57 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2023-09-12-the-7-best-ai-photo-editors-in-2023-to-retouch-and-elevate-your-photos.md",
-      "title": "The 7 best AI photo editors in 2023 to retouch and elevate your photos",
-      "excerpt": "With the power of AI, you no longer need to painstakingly fine-tune your creations. Here are the best AI photo editors available today.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/best-ai-photo-editor-apps-3363313/",
-      "originalUrl": "https://www.androidauthority.com/best-ai-photo-editor-apps-3363313/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2023/04/dreamstudio-ai-stock-image.jpg",
-          "width": 1919,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-11T22:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-12-top-5-things-to-look-for-when-selecting-machine-learning-technology.md",
       "title": "Top 5 things to look for when selecting machine learning technology",
       "excerpt": "In the race to take advantage of AI, many organisations are rushing into machine learning projects only to crash and burn before the project even gets off the ground. Common pitfalls include technical complexity,",
@@ -1161,6 +1110,48 @@
       "featuredContent": null,
       "highlight": null,
       "heat": 80,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-11T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-11-human-centered-design-and-data-driven-insights-elevate-precision-in-government-it-modernization.md",
+      "title": "Human-centered design and data-driven insights elevate precision in government IT modernization",
+      "excerpt": "How to create a data-driven, value-metric orchestrated road map that guides your technology enhancement decisions.\nThe post Human-centered design and data-driven insights elevate precision in government IT modernization appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/human-centered-design-and-data-driven-insights-elevate-precision-in-government-it-modernization/",
+      "originalUrl": "https://www.ibm.com/blog/human-centered-design-and-data-driven-insights-elevate-precision-in-government-it-modernization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
       "tags": null,
       "images": null,
       "content": "\r\n",

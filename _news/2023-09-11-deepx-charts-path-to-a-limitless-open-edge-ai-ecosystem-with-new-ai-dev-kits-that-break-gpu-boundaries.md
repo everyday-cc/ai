@@ -35,6 +35,6 @@ related:
       domain: geeky-gadgets.com
     quality: 19
 
-secured: "7jFGy2aX7WGePY+P8tNHzHQlYsJcwTyjvdgAsF7x7lU7RFsRC88Wz53+SbaHWHMnfu0pZIRTg5+RAQp7nz3zEsY8i1IbFdclvPBRCl/BOB8X2qjUvGNEPpPAUGkJL52dp+P8zNZUOqbzomdRcVfPSOutQ56LUR9UK0WW0AqdprYXtpxxcQP86DX1tdXZS6xc31t0yN4WAzYj+gSSd5pw0pXuXZ8W7IMinaoTNsyrb5oP+UaZotW1jh+4Cm03YH381kTWhhBIjgyYKele8q8gjci8KEH7ekWweOx1ZLn3CRBZMpgs+NCnXzUTcnvJR/95QuaaugbBgH4dY1ZzkihDdEGldan9jgQl3xCo2NYL9hc=;8IiDs9cf7warV6sNo2vPsg=="
+secured: "ECmKFloAWhnvUe8pxEGXlS0cV40j2qSUqhgX+0uogvKgjtOc309Bws7+T6zVKq+o5NTqLW72cYkVV3z98ES0UAf3TkCsUaNPgUoEMzcIJZue+g06g24h1yujCP2Ry8TOOM/QJFnNN2IfXg1DQIvJs/z+DoEZ4iYKxg77r+Clzm1WuGqEN6bPT7NkS2t5bCw1tpsNnRBjTPcda8KGbreBHCyXeoTD1bORnshwsBfS3eS9y9yINJ64h/szW+AI0QBA+bf3TwwpX9IHNOoRpRmN9OATE6xI4iNqzYEOAO6PqLiZqgr2rTsjIR+njkqN/Zt9iAmp1Yl+gN2p7F/mT/mks0DPJq3QpGNAVIpK7edZtOw=;rBxbrmVXY1KjMEIhYN/STQ=="
 ---
 

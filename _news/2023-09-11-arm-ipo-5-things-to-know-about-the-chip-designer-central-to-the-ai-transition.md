@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/arm-ipo-5-things-to-know-about
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/arm-ipo-5-things-to-know-about-the-chip-designer-central-to-the-ai-transition-154d7059"
 type: article
 quality: 100
-heat: 130
+heat: 120
 published: true
 
 provider:
@@ -40,22 +40,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 64
-  - title: "What to know about Congress’s inaugural AI meeting"
-    excerpt: "We’re going to be hearing a lot about various plans and positions on AI regulation in the coming weeks."
-    publishedDateTime: 2023-09-11T08:08:00Z
-    webUrl: "https://www.technologyreview.com/2023/09/11/1079244/what-to-know-congress-ai-insight-forum-meeting/"
-    ampWebUrl: "https://www.technologyreview.com/2023/09/11/1079244/what-to-know-congress-ai-insight-forum-meeting/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/11/1079244/what-to-know-congress-ai-insight-forum-meeting/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/09/GettyImages-1651323207.jpeg?w=3000"
-        width: 3000
-        height: 1687
-        isCached: true
   - title: "Five things to know about British chip champion Arm"
     excerpt: "Here are five things to know about British chip designing giant Arm, which will launch a blockbuster listing on Wall Street on Thursday."
     publishedDateTime: 2023-09-14T14:39:00Z
