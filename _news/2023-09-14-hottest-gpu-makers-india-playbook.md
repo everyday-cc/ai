@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/companies/news/hottest-gpu-maker-s-india-pl
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/hottest-gpu-maker-s-india-playbook/amp-11694625393998.html"
 type: article
 quality: 61
-heat: 74
+heat: 71
 published: true
 
 provider:

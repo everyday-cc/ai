@@ -3,10 +3,10 @@ category: news
 title: "Why Japan Is Building Its Own Version of ChatGPT"
 excerpt: "Some Japanese researchers feel that AI systems trained on foreign languages cannot grasp the intricacies of Japanese language and culture"
 publishedDateTime: 2023-09-15T14:04:00Z
-originalUrl: "https://www.scientificamerican.com/article/why-japan-is-building-its-own-version-of-chatgpt/?ref=upstract.com"
-webUrl: "https://www.scientificamerican.com/article/why-japan-is-building-its-own-version-of-chatgpt/?ref=upstract.com"
+originalUrl: "https://www.scientificamerican.com/article/why-japan-is-building-its-own-version-of-chatgpt/"
+webUrl: "https://www.scientificamerican.com/article/why-japan-is-building-its-own-version-of-chatgpt/"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://static.scientificamerican.com/sciam/cache/file/2692254C-BF22-4DF9-8E475D823167954E.jpg"
+    width: 790
+    height: 496
+    isCached: true
 
 related:
   - title: "AI app Character.ai is catching up to ChatGPT in the U.S."
@@ -326,6 +332,6 @@ related:
       domain: oregonlive.com
     quality: 13
 
-secured: "lPGrGjyzPDwOoktDHgtWxGy+3ZhDlOfqwfXQHth2ae6X90YiuvzyxEixq/qa0qW+7oKFSADorZUEiQyqAWdNDy2caVbXM/6Eq2wyAaajTOL1VxqX8ANkaS7MvKNRRNQ4rc3f/nPAKMXU6/hsLBmaQnkqzJ1ac4dp3i/iQCfwB2F7+OKhbMgxVsmcw3O/nPt6bEO03LF/FhDh9de7p4g5s47qzbwn8li63BIVJkbFK+N5zcxgApaWEmJiSJ531BanDYcbu9KuAyUaQUTON650ArzW9B+E1Ty4a7vvRaRmpQui6Vin9VMaUmdIomj2G1KNdioH1AE6iOMbEdT/slGx5cU6PbNrvd7zamVUgJatAytOjhu3b5YG55ZkXh+SQUf6BqY6bwl2GQXtGF2LE3ZKsiTSersJ1xPxN1CgvNdrCawg3ri0po3Cf0KUtEUhLJBDNa2CngNuaa4Y8DQjoT10bm0tWBiakVJnf5icUUbcEQiH6HiWOWm/fWRaNovk9jL/nCRkGZ1PJbreOoR7RZEQsA==;N9lZHiZamkFRWjnnIM2fjg=="
+secured: "ivigUbqFFs/iSsamEQqR0oCswA13OjSxWzIO+vLn3rxqHiR+TAsWXnCabAKa0SkZH3/2Rjfut47y3WPVruKo81kI6qGEhtHFIdAGTjZrDNS2eiIJ/AXR5/Ne4p8Aaytf/A3eBQoPH9RpTZgmISL0R1Weh77iTKUUxh5ijv7LLlJXS7HaSUf5oyv2crFFYNosZUCzpb8QyBkh8RvnMwvcCZOZWw2p06PwXn/UGxBlzQgyGigEzRKEUP2P+3iM1f7rR5kO0YNPV26CBg/9tq1EDekfjbabAXXfJ3pyownl7fwz6P3r1VB9dQnu3zPb4obL6NHpQ+Be+ibiBB3s9w0Kgao1X5i5BiXsEbVI8YBAL3g=;BGDsP0BZTfoD8wdUsJ03IA=="
 ---
 

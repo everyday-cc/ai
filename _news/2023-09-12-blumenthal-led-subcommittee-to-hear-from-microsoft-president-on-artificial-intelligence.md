@@ -179,22 +179,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Microsoft joins hands with Paige to build world’s largest AI model to fight cancer"
-    excerpt: "Tech giant Microsoft has joined hands with Paige, a digital pathology provider, to build world’s largest image-based artificial intelligence (AI) models that can fight against cancer. The new AI model is orders-of-magnitude larger than any other image-based AI model existing today, configured with billions of parameters, the companies said."
-    publishedDateTime: 2023-09-11T06:34:00Z
-    webUrl: "https://www.mid-day.com/lifestyle/health-and-fitness/article/microsoft-joins-hands-with-paige-to-build-worlds-largest-ai-model-to-fight-cancer-23308419"
-    ampWebUrl: "https://www.mid-day.com/amp/lifestyle/health-and-fitness/article/microsoft-joins-hands-with-paige-to-build-worlds-largest-ai-model-to-fight-cancer-23308419"
-    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/lifestyle/health-and-fitness/article/microsoft-joins-hands-with-paige-to-build-worlds-largest-ai-model-to-fight-cancer-23308419"
-    type: article
-    provider:
-      name: Mid Day
-      domain: mid-day.com
-    quality: 68
-    images:
-      - url: "https://images.mid-day.com/images/images/2023/sep/MicrosoftAFP_d.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Everything we're expecting at Microsoft's Surface and AI event next week"
     excerpt: "Microsoft's momentous year may culminate in one of its biggest launch events next week. Here's what we're expecting."
     publishedDateTime: 2023-09-15T18:48:00Z
@@ -204,20 +188,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 63
-  - title: "Even AI Hasn't Helped Microsoft's Bing Chip Away at Google's … – The Wall Street Journal"
-    excerpt: "Even AI Hasn't Helped Microsoft's Bing Chip Away at Google's ... The Wall Street Journalsource"
-    publishedDateTime: 2023-09-11T05:52:00Z
-    webUrl: "https://www.inferse.com/712085/even-ai-hasnt-helped-microsofts-bing-chip-away-at-googles-the-wall-street-journal/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 62
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/09/wp-header-logo-3335.png"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "AI-powered teaching and learning: Microsoft unleashes new educational tools"
     excerpt: "As classrooms worldwide usher in another academic year, tech giant Microsoft steps forward with its cutting-edge AI-powered solutions to push the boundaries"
     publishedDateTime: 2023-09-13T15:28:00Z

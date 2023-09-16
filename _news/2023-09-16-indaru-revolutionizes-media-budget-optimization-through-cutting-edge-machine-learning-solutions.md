@@ -52,6 +52,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How AI Is Helping Big Fleet Operators Cut Greenhouse Gas Emissions"
+    excerpt: "The trend is accelerating as artificial intelligence and machine learning help fleet management services deliver new efficiencies that weren’t previously possible."
+    publishedDateTime: 2023-09-15T23:05:00Z
+    webUrl: "https://www.forbes.com/sites/zengernews/2023/09/15/how-ai-is-helping-big-fleet-operators-cut-greenhouse-gas-emissions/"
+    ampWebUrl: "https://www.forbes.com/sites/zengernews/2023/09/15/how-ai-is-helping-big-fleet-operators-cut-greenhouse-gas-emissions/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zengernews/2023/09/15/how-ai-is-helping-big-fleet-operators-cut-greenhouse-gas-emissions/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6504e2b2ce4f66f9f328ff09/0x0.jpg?format=jpg&crop=780,439,x0,y193,safe&width=1200"
+        width: 780
+        height: 439
+        isCached: true
   - title: "Mind the trust gap: Data concerns prompt customer caution over generative AI"
     excerpt: "A general lack of trust in data security and privacy is holding organizations back from going all in with generative artificial intelligence."
     publishedDateTime: 2023-09-14T16:13:00Z
@@ -328,6 +344,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "M0nVoMm2epXu36XPiKCWp4/2OFmV4HZvkOlzEfpoxFFEtZpkI1f+tSUD4zHQkt9mM0xAHsWNS3o/ro7G9N4Ck3wosb8lumbFy7KLsHlu8Ok0LguH86N6LGwUFu5yHuyKZqjskvinfDsrYWE4kAsFktNHJLFLRpuTYQOfv4Ckz4jbSMYwvY8+a7783Lyd4yGv95QKoR9ypnS516ATxRg/ZhghQpXTpdKo79Pvew9bD7R/2T4MzHhoat/Z2EpK7KJ2yfSLG3tMq0jZyt+5hGTljlRru+qhZ7Y+jjxg+DPF+IdPlthLrortb0jP4UTTQ+2XOoPhpWVapQeyRsnBEChmXFfADiCqaTOLNOmeeolO/Xg=;PpUgjj0g4IsmCjMxY4/Iqw=="
+secured: "pDFT/6GLM4noFiMVyjQmg4iB2LF+ZyKe8iLCWy8cNaDErQyszNNThbS7ArmfLGfWCewBT6DWRfna/uTm+1t5Wb/k1iBxHrkkftEqCa3jJHnZtfd9DVYAN8y05J/05VCKWl+rtoqvejh/i9dsEUD3ML8W4/0zP6hZWajHWWxEeDi/dpUDX9wMe1EzNTsAJcWL1juqUlclKPAt91R4J12osG7Nr4dKC8iBQcW1d+MZjlk7AUPqsn5Q6hqd8bbOTLJbE4CQmMAwTQQTXkRdZFRTW0RzmLT3lujWKxjv3vVsd5+M39E8o8fBG2/YRNU/v9T2EwM0BZhOupZx1JicNVsrm3myJgiwWP59JU/a7FJlC8Kf3CCH+GP06kDZcvgOIZNJ2WWh6WUoxQQFBatlZGYdihJVnQl8oIC6t4fCakXoVrsjrk8fORz7A2nzi0IFbQi3w07qHxRLu6gzZeYEVYhKOG9mmmL2Mp1zdZvWLUE4PtjukUeI+9FQSJlUEjQ6wQlUqIjjy0ymdUdm+a7iY4yZ6Q==;2LvMo7ksmlqTE5ui4g/hjA=="
 ---
 

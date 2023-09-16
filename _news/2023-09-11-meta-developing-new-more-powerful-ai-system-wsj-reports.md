@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "Meta developing new, more powerful AI system - WSJ"
-    excerpt: "Llama 2 is Meta's open source AI language model launched in July, and distributed by Microsoft's cloud Azure services to compete with OpenAI's ChatGPT and Google's Bard. The planned system, details of which could still change, would help other companies ..."
-    publishedDateTime: 2023-09-11T06:35:00Z
-    webUrl: "https://www.rte.ie/news/business/2023/0911/1404572-metas-new-ai-system/"
-    type: article
-    provider:
-      name: RTE Online
-      domain: www.rte.ie
-    quality: 39
-    images:
-      - url: "https://img.rasset.ie/001c1023-1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Meta is developing a new, more powerful AI system, Wall Street Journal reports"
     excerpt: "The Wall Street Journal reported on September 10, 2023, that Meta is on a mission to create an AI system that can compete with OpenAI's state-of-the-art models."
     publishedDateTime: 2023-09-11T18:15:00Z

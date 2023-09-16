@@ -9,7 +9,7 @@ ampWebUrl: "https://www.huffpost.com/entry/tech-ceos-descend-on-senate-for-close
 cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/tech-ceos-descend-on-senate-for-closed-door-ai-meeting_n_6501dad6e4b04bad69ec286e/amp"
 type: article
 quality: 82
-heat: 117
+heat: 112
 published: true
 
 provider:

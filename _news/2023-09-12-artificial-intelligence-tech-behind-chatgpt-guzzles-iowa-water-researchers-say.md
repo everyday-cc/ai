@@ -297,6 +297,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Why Japan Is Building Its Own Version of ChatGPT"
+    excerpt: "Some Japanese researchers feel that AI systems trained on foreign languages cannot grasp the intricacies of Japanese language and culture"
+    publishedDateTime: 2023-09-15T14:04:00Z
+    webUrl: "https://www.scientificamerican.com/article/why-japan-is-building-its-own-version-of-chatgpt/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 24
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/2692254C-BF22-4DF9-8E475D823167954E.jpg"
+        width: 790
+        height: 496
+        isCached: true
   - title: "Doctors see potential in ChatGPT diagnoses, but questions still remain"
     excerpt: "With the rise of generative AI, people who once turned to “Dr. Google” to check on medical symptoms are now turning to chatbots. Researchers are urging caution."
     publishedDateTime: 2023-09-12T13:28:00Z
@@ -315,15 +329,6 @@ related:
       name: alleywatch.com
       domain: alleywatch.com
     quality: 19
-  - title: "Why Japan Is Building Its Own Version of ChatGPT"
-    excerpt: "Some Japanese researchers feel that AI systems trained on foreign languages cannot grasp the intricacies of Japanese language and culture"
-    publishedDateTime: 2023-09-15T14:04:00Z
-    webUrl: "https://www.scientificamerican.com/article/why-japan-is-building-its-own-version-of-chatgpt/?ref=upstract.com"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 4
 
 secured: "Xe2rIOc9JDc8iTTfy1ucE9yBgwkXWhSFC663NvkHBPPQQPF6EYMbVnqIf5r3SxPGWZauO2hVK+NvyMOfGgDrZcYKnn9f8dlgAAjoaJrKrwLRo5+42Do7S/eGLVjT5LpIFrCetc/0GwQZ5GEDoBLzRUKzTc66f2GwNMkq0zA/e2qHvzyFVZMj/84flAFD13evK7GkWyOx8r1h2vUXC7rE9jLYOyHE32SV/DULvR+O9Wgg4aVvG4XlSny/LCJCl+OQ9Qwp9Tai5ZFiBg4x/QBcNmUAjzxbgIoKrPOHCIDb/YOGTrhZSRjjEz3fvpNcIURZwsBhU4IUGWVS7iVon4N94PhN9VsXOXznx0ErV41DwXUoRil9sh2bDpqYdkUoC5L5oax+V3z26+90Y/H7lSa+7G+gW9n9JYm5uNEJhUHbpgVMzWsFIw44NJJMArVImReItlk0l3Jo5Jw6teDXkL7OeiN4yjRfyeOP6MuFHE3ccVEEVsrW/6xJV2MJkMqR9U2xZLUcJN/guEEEJ9g76ooGGw==;nXuM9VXi2sr743w2B2dd/w=="
 ---

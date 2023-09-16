@@ -38,15 +38,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Deep-learning enabled ultrasound based detection of gallbladder cancer in northern India: a prospective diagnostic study"
-    excerpt: "The DL-based approach demonstrated diagnostic performance comparable to experienced radiologists in detecting GBC using US. However, multicentre studies are warranted to explore the potential of DL-based diagnosis of GBC fully."
-    publishedDateTime: 2023-09-11T05:54:00Z
-    webUrl: "https://www.thelancet.com/journals/lansea/article/PIIS2772-3682(23)00139-7/fulltext"
-    type: article
-    provider:
-      name: The Lancet
-      domain: thelancet.com
-    quality: 0
 
 secured: "DgJVermyF0jjp6UEE1GrQWbiwBrzyq5LJqkMooyKsoM9V1ngg6obv0t8MfvHvzFygzs5JAZN7SwtKRlBWF3aul0WHxpw1kaGBIeKg2LdXuGnxe7k5gWElSyUQTPcVtNCGejGkPzfTTK7oIpea0LErkyG/nunIaiTliP9ZG+xpHIvBp4wldls+zCkSUVNljillD0iiRp+2WPFBm2WAs6j/S6NJ130Txgm2KGeeyfseOQSUtUAfZZx0VoHZcarhtOn15IFg6kdCabiZBkZkwmXg4HCH9isHi6mZMkcBqFJMC9RXJtSc192CYy6/c8gMRUJVYvsP1faSEtCX745ImyWwVW6FEt43BuWio4AfisoEfk=;o27P0vakUOtDQ7nYqBlGMg=="
 ---

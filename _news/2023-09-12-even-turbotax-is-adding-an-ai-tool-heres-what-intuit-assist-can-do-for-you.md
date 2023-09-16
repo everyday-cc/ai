@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/even-turbotax-is-adding-an-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/even-turbotax-is-adding-an-ai-tool-heres-what-intuit-assist-can-do-for-you/"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Here’s how Slack envisions adding gen AI to its software"
-    excerpt: "Slack is already working to include new generative AI tools in its popular collaboration app. But the company is taking a methodical approach before rolling out any new features."
-    publishedDateTime: 2023-09-11T07:00:00Z
-    webUrl: "https://www.computerworld.com/article/3706290/here-s-how-slack-envisions-adding-gen-ai-to-its-software.html"
-    ampWebUrl: "https://www.computerworld.com/article/3706290/here-s-how-slack-envisions-adding-gen-ai-to-its-software.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3706290/here-s-how-slack-envisions-adding-gen-ai-to-its-software.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/09/screenshot-2023-09-07-at-17.11.58-100945658-large.jpg?auto=webp&quality=85,70"
-        width: 1199
-        height: 819
-        isCached: true
 
 secured: "t7C1dvSExOiEPCJhYv5iHgdqzvKWOIsUE/I03WH3h160okbGoBFuV8H7d7uSs1lSk1uZzuC9kEit+/DnkiWK4ln+oDUiGckCYWwr7uV+DBmB/44mdnaYG94p5wWwZEn/h9Y9n1obeKvkxUAUtmUV3MQj6X7nTGnJAbvJVjviOOp2wP4O7wfc1btAUt4fXZonMHAbDo6GN1H4g+Q3tq9VSAMHk3pW30hwgEfgtCbFUyz6KS/hF0uVxfcgNeLHTRTVh6QyGcovnSAF0nIC9QOoqWkrF4Ud50doUVuPU/bxqHT8MaQ/QVvWWQRrtSfI+V3wX0YPgIfr9VnYAZWq5QoZ62Qd7EfAK9Y4JuGJMlf3qu5oUKU4GSWMr7t/D8Pym8/gSdmMOcJQKHArd9fPNgw1kPV53jkiLnFY9mSmwMkZ72/qiF0ojk/r6SaOKYS48uwS9mHTDiYroiWJE3tFe0eF42fQM6KbWNaEgwSAf7HRHE+Wd36eYKRzQgzppc/XAAUC+UG4Uvf/5zZ5M+JQ3cHo/Q==;KxFcbufN6cYr7BbyBug6jg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/09/11/back-to-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/09/11/back-to-school-with-ai/amp/"
 type: article
 quality: 87
-heat: 187
+heat: 197
 published: true
 
 provider:
@@ -59,6 +59,22 @@ related:
     quality: 87
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64ff1c3b731e9cb353f9e2c7/0x0.jpg?format=jpg&crop=1823,1026,x0,y91,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "5 handy AI tools for school that students, teachers, and parents can use, too"
+    excerpt: "A common misconception is that generative AI can harm education by promoting cheating. However, when used properly, these tools have the potential to help students learn more efficiently. They can also help parents and teachers help students with projects, homework, and studying."
+    publishedDateTime: 2023-09-15T16:13:00Z
+    webUrl: "https://www.zdnet.com/article/5-handy-ai-tools-for-school-that-students-teachers-and-parents-can-use-too/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/5-handy-ai-tools-for-school-that-students-teachers-and-parents-can-use-too/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5-handy-ai-tools-for-school-that-students-teachers-and-parents-can-use-too/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/f403aba7bdf5bf4a54cce49ec3c079633af5da3d/2023/09/15/be9e1e9f-7e99-4681-887a-f4ad1e1adca2/gettyimages-1614030114.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true

@@ -89,6 +89,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "UTC to invest in teacher education, consider use of artificial intelligence"
+    excerpt: "UTC is also considering its use of artificial intelligence, Angle said. The university will host two open campus forums later this month on how it should use AI in its instruction, business operations and research."
+    publishedDateTime: 2023-09-15T22:57:00Z
+    webUrl: "https://www.timesfreepress.com/news/2023/sep/15/utc-to-invest-in-teacher-education-consider-ai-tfp/"
+    type: article
+    provider:
+      name: Chattanooga Times Free Press
+      domain: timesfreepress.com
+    quality: 52
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/102950134_State-of-the-University-23-3036_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 393
+        isCached: true
   - title: "MIT AI Model Speeds Up High-Resolution Computer Vision for Autonomous Vehicles"
     excerpt: "A new AI system could improve image quality in video streaming or help autonomous vehicles identify road hazards in real-time. MIT and MIT-IBM Watson AI Lab researchers have introduced EfficientViT, a computer vision model that speeds up real-time semantic segmentation in high-resolution images,"
     publishedDateTime: 2023-09-12T07:30:00Z

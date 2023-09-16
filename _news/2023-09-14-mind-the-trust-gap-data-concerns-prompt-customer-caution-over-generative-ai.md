@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How AI Is Helping Big Fleet Operators Cut Greenhouse Gas Emissions"
+    excerpt: "The trend is accelerating as artificial intelligence and machine learning help fleet management services deliver new efficiencies that weren’t previously possible."
+    publishedDateTime: 2023-09-15T23:05:00Z
+    webUrl: "https://www.forbes.com/sites/zengernews/2023/09/15/how-ai-is-helping-big-fleet-operators-cut-greenhouse-gas-emissions/"
+    ampWebUrl: "https://www.forbes.com/sites/zengernews/2023/09/15/how-ai-is-helping-big-fleet-operators-cut-greenhouse-gas-emissions/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zengernews/2023/09/15/how-ai-is-helping-big-fleet-operators-cut-greenhouse-gas-emissions/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6504e2b2ce4f66f9f328ff09/0x0.jpg?format=jpg&crop=780,439,x0,y193,safe&width=1200"
+        width: 780
+        height: 439
+        isCached: true
   - title: "Simplify access to internal information using Retrieval Augmented Generation and LangChain Agents"
     excerpt: "This post takes you through the most common challenges that customers face when searching internal documents, and gives you concrete guidance on how AWS services can be used to create a generative AI conversational bot that makes internal information more useful. Unstructured data accounts for 80% of"
     publishedDateTime: 2023-09-14T16:47:56Z

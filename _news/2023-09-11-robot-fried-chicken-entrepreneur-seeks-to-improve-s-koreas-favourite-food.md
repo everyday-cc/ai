@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 738
         isCached: true
-  - title: "Robot fried chicken: entrepreneur seeks to improve S. Korea's favorite food"
-    excerpt: "In fried-chicken-obsessed South Korea, restaurants serving the nation's favorite fast-food dish dot every street corner. But Kang Ji-young's establishment brings something a little different to the table: a robot is cooking the chicken."
-    publishedDateTime: 2023-09-11T06:49:00Z
-    webUrl: "https://techxplore.com/news/2023-09-robot-fried-chicken-entrepreneur-korea.html"
-    ampWebUrl: "https://techxplore.com/news/2023-09-robot-fried-chicken-entrepreneur-korea.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-robot-fried-chicken-entrepreneur-korea.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/kangs-robot-composed-o.jpg"
-        width: 1280
-        height: 852
-        isCached: true
   - title: "Robot fried chicken: Entrepreneur seeks to improve South Korea's favourite food"
     excerpt: "Kang, a 38-year-old entrepreneur, saw an opportunity to improve the fried chicken business model - and the dish itself"
     publishedDateTime: 2023-09-12T05:15:00Z

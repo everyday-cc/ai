@@ -290,6 +290,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Why Japan Is Building Its Own Version of ChatGPT"
+    excerpt: "Some Japanese researchers feel that AI systems trained on foreign languages cannot grasp the intricacies of Japanese language and culture"
+    publishedDateTime: 2023-09-15T14:04:00Z
+    webUrl: "https://www.scientificamerican.com/article/why-japan-is-building-its-own-version-of-chatgpt/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 24
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/2692254C-BF22-4DF9-8E475D823167954E.jpg"
+        width: 790
+        height: 496
+        isCached: true
   - title: "Doctors see potential in ChatGPT diagnoses, but questions still remain"
     excerpt: "With the rise of generative AI, people who once turned to “Dr. Google” to check on medical symptoms are now turning to chatbots. Researchers are urging caution."
     publishedDateTime: 2023-09-12T13:28:00Z
@@ -317,15 +331,6 @@ related:
       name: Oregonian
       domain: oregonlive.com
     quality: 13
-  - title: "Why Japan Is Building Its Own Version of ChatGPT"
-    excerpt: "Some Japanese researchers feel that AI systems trained on foreign languages cannot grasp the intricacies of Japanese language and culture"
-    publishedDateTime: 2023-09-15T14:04:00Z
-    webUrl: "https://www.scientificamerican.com/article/why-japan-is-building-its-own-version-of-chatgpt/?ref=upstract.com"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 4
 
 secured: "gofN0/XorwTsuhOM7Cb459Sl+1WYUdP+RMrPBaoId0zyWfGEXi4YOdh9NIvz+sgdW4eC6oLKp5VsHcBgZVHUyjAb/zXu61fv0NmudWt6vNE73e0UddMQwVFBaLDUhnaRw/iERcGzzG6wdipgB+IVEB0elymH/FR7XfKwbplYx1xPbtZKnO3sBwPVnpEO488W808/OYKkkyTOu/jbR5+M792BoEZVtaCTJd4/nl/31XHV8WPgZqVVknqCQmKEuNZ9m3hmyF7mRY1ApfWYEIkpaVl+XMR1j6BVoX5AoepO32cLFQ0ZAAd7kRw7wpsJej8PjCN4wPFHcvfvaM5C3/tYlN3EvzXoy6giabFCRYOulH9YZbgVBOtIRXHUNlr7fQ9tQnaJ5gQe92oX41oj4Zq4sJVL8mafvai62FCGbp0JvmRW0CTMnQ+Wy7W5pVvfzOFVp1ILv4oKqFXSzHwG75Y3xhJFZCSpdEgNHg+QGj73fXs+1mq6Qz2KMZRY6LFH/mxDf9hRP0/zUEG19k4rXNh3Vw==;05HOHjYUUa6y3f/ekDedag=="
 ---

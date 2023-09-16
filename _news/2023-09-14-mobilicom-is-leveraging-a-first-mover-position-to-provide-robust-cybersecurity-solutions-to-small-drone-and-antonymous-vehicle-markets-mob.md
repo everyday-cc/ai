@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/34569734"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34569734"
 type: article
 quality: 9
-heat: 9
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,40 @@ images:
     width: 752
     height: 408
     isCached: true
+
+related:
+  - title: "Redefining cloud security: How AWS and Cribl are transforming enterprise cybersecurity"
+    excerpt: "As a universal receiver that draws data from any observability source, Cribl Stream propels the centralization agenda for enhanced security, according to Sharp. As a result, it is proving to be a differentiator, because it takes the headache of having multiple data copies away."
+    publishedDateTime: 2023-09-15T20:30:00Z
+    webUrl: "https://siliconangle.com/2023/09/15/redefining-cloud-security-aws-cribl-transforming-enterprise-cybersecurity-awsshowcases3e3/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 48
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Clint-Sharp-Ryan-Orsi-Clean.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "HiddenLayer raises $50M for its AI-defending cybersecurity tools"
+    excerpt: "HiddenLayer, a security startup focused on protecting AI systems from adversarial attacks, today announced that it raised $50 million in a funding round co-led by M12 and Moore Strategic Ventures with participation from Booz Allen Hamilton, IBM ..."
+    publishedDateTime: 2023-09-12T13:00:00Z
+    webUrl: "https://techcrunch.com/2023/09/12/hiddenlayer-raises-50m-for-its-ai-defending-cybersecurity-tools/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
+  - title: "The Duality Of AI In Cybersecurity: Risk Factor And Enabler"
+    excerpt: "What will define the cybersecurity sector is how we embrace AI, and how we think critically about it to better protect businesses and individuals."
+    publishedDateTime: 2023-09-15T13:14:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/15/the-duality-of-ai-in-cybersecurity-risk-factor-and-enabler/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "xNXBGmZU6ZZtEtEmBlXqU6r/5AWVOOHYcCmvm7UZUpGrDETnwa+PTtOCuOF44D1RToWjQ7P4AUJkFpOVEIej1Yh1RXOw2CjL2pc2xgG7UqFuIbLWYf6mPls5ci6ErcyriauzGyRc0xBC083vJJXx0iQ+SupqLfxI10ZuuXfQiqsi19gKu3gdHTWODn6vMGm3ZEa/z984lMgCN6o9ZJKS632PYXnolg7ukLTB+sYmNckFU7yora3IBVECDYQG5DYI0nxluVD2yZuWdzbkzswnKiNNj5DdqTtdlxHLVgnoVsvNHu5JbiiHFKwdpa5fSh7UqQuiDDjtZ3BKlaJ0y06c6/ffXtWCxNzpg94+PxkTJPd/MA5LbHnGRq7llB71CWLNoOQOE4oRgJcLFPmqYSTl5C0jqxkjIviryb5qmG5sPMkSvCz/fRKFzG7M91iQWNecfbtucT+kIhIEAHKddn8NeJJUl5jO1RsRUQ9ld5DMkAEJmn/+hiU7140WN2IeRT935srkLpmX5ILJv7O4OL61rA==;zb49CtJjcXZt+FbfnfrMBQ=="
 ---

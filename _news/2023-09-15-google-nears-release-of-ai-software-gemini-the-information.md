@@ -36,6 +36,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Google Gemini: What We Know So Far"
+    excerpt: "What we know so far indicates Gemini could represent a significant advancement in natural language processing. The fusion of DeepMind’s latest AI research with Google’s vast computational resources makes the potential impact challenging to overstate."
+    publishedDateTime: 2023-09-15T19:55:00Z
+    webUrl: "https://www.searchenginejournal.com/google-gemini-what-we-know-so-far/496494/"
+    type: article
+    provider:
+      name: Searchenginejournal.com
+      domain: searchenginejournal.com
+    quality: 26
+    images:
+      - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/09/google-gemini-what-we-know-so-far-6504ab728c86c-sej.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Google trials access to Gemini AI over Google Cloud"
     excerpt: "Gemini is intended to compete with OpenAI’s GPT-4, which is available through Microsoft Azure. Gemini is made up of multiple large ... The company plans to make Gemini available through its Google Cloud Vertex AI service, and will offer access to models ..."
     publishedDateTime: 2023-09-15T13:40:00Z
@@ -45,15 +59,6 @@ related:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
     quality: 19
-  - title: "Google Gemini: What We Know So Far"
-    excerpt: "What we know so far indicates Gemini could represent a significant advancement in natural language processing. The fusion of DeepMind’s latest AI research with Google’s vast computational resources makes the potential impact challenging to overstate."
-    publishedDateTime: 2023-09-15T19:55:00Z
-    webUrl: "https://www.searchenginejournal.com/google-gemini-what-we-know-so-far/496494/"
-    type: article
-    provider:
-      name: Searchenginejournal.com
-      domain: searchenginejournal.com
-    quality: 4
 
 secured: "ca6Qf1uDKbIH/Z4HgfvdmRURF8bHjz4G3erBj2j4QwtF+bEs45+7FbzFiYcjfQshBNqIX7105G8gYmhgRO537bFTKtWK15A4fbWthEQOlGdBboeFtFPZga/9P8gqermbnQgFxRCgYEomOrg12OfD1jAGNdow3EbJHx1RUQ4TOEKWADyLpARquRkCl2SxLCmDPQiaU4zlRGH89S1eD1yvp5RutMHdPuJpHb7X7SqChYP46yLn+chZ7j5Z0zoB3fK0oXNlg0HPy8Gkk/C0Zh/hMjvhf3RzrqneEtgc2DclUJQujF+BrIOXAh5MBqdg+Y+zuvIeSgz74yfxCgsnw1GGdha0Q9YQ+I6ht2Yk6O15tTRSoemxj1ZkcOGEo96e7HkjMqsdiuAjCgawkdTY4YgMR2ucuqXrDg9nDGj3euKtFz9DdBafj9HtZ7l25Qc530PnHFayIccuoITUADRp4QfGN7XKyVfoyfFJGqtY7fcVEPUlEHwj8Jx4iUMEvokE/FRmzxvd80RdFjuQFFaq6ZN6Mg==;uorXug1XTHhHSR3QsIPsKQ=="
 ---

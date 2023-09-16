@@ -6,7 +6,7 @@ publishedDateTime: 2023-09-15T19:55:00Z
 originalUrl: "https://www.searchenginejournal.com/google-gemini-what-we-know-so-far/496494/"
 webUrl: "https://www.searchenginejournal.com/google-gemini-what-we-know-so-far/496494/"
 type: article
-quality: 4
+quality: 26
 heat: -1
 published: false
 
@@ -17,6 +17,13 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Google AI
+
+images:
+  - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/09/google-gemini-what-we-know-so-far-6504ab728c86c-sej.jpg"
+    width: 3000
+    height: 2000
+    isCached: true
 
 related:
   - title: "Google Nears Release of AI Software Gemini - the Information"
@@ -52,6 +59,6 @@ related:
       domain: datacenterdynamics.com
     quality: 19
 
-secured: "mvp4GBY5WijS+e8IJ+md+cs4d7xwo3GrQUF2k5vP0qQS1LA2LzwEQxQY019+Kht9BvGhO3sM/XDCDFQDkTIhGuqKB/pCbsA+nq7BCGNvCoZvfH8G8HNXJzx9i9NdW0+QA04EkZ1+AJ/r3AH9Hlz5FFlIhdLAFbdR/MyewgMuswKBTL4OOw/EiO3JkdXmmhs8IMwK0Xpvt99lGQg6JIHvHClOZ4Dua5OdgcFYIrPJBWkfDKJkpe6AAFVIVbyr6IR1sQw0Kk56o/kKisa1AF7syAe0w+7kF0ZRYsWC8sY50GsX4UDGINNqqtPt4TCa3EC1p1N4V2NXXWCQQjLvoyHJJNDzCvqcVxnzRTvYHaxrD3UXAYRbcukt4+tK+5iPjKrOzQmHwTqTWi/QaIpWyVlPyhcIHZ8eg9BsRIfhPrx7PCn2qtOzfU2FN8AqqMswfBDFe/wnVtriVHgA5cGKSfYAGYR+TQsgB7LQqdZEnWUOXYcRXrrz7dE7sSsl6AZK5tdXg6i8P0HzlH3Rsp6TljOOOA==;tDWgj1mFh9v1D07KRc3yhQ=="
+secured: "sQdlnUrEr2oaInuYJ/maCRpRZqazZcbACbyeLQAQBA26IkHCEGhfSlSaRQjw3t4iVrltzJ63rsShR4qSdFpzT8zp+ZjODZdm7RcMlEv0F08sUoRGFJd3hxvOA9kFfwPhoAjGDywtzxoT8ISvWt5S0+acBifLtb9zdSLPfSJ4DsL/0nH8x9bYyfdvVQm1vFEBOQ2s3XuGWxVBMoQvLzll9lAF97YU/YBcuSkPLX3i7h9zwlO2ogF9KClf+lYU3QKNe8HB+S4Vj3YXry6nG5L28yipcDYlBYIOC7G45y1htGK3jkKRsTM9RH9Vmst4+i9SgPQ198RCy6ViyggN59MJkiS+y5psJCNGJkxpex60Ua8=;txCMfcE3Vizw9NMCHWFQNw=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2023-09-15T21:56:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2023/09/230915163314.htm"
 webUrl: "https://www.sciencedaily.com/releases/2023/09/230915163314.htm"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 secured: "fG/CN+n+kldyWojABApxF94NvcKF08sumMLl5E1dJh3Lp9zlUw33bxDmHWcZJYOUVa6gRA3qve5dKh2Yqn/ZanaJPY+fiO75MUusQRk7587C4OS/qF8hk6ZRpDjcx3mlF7WuZY61JoJhZLvkwOoyNtuYb79LawjVvrV6P8BnRhcLwOihyqraPI/D//sQIcOigQGB9QKloKxop+u8a6jTRrYNej1fp9z4sEYAu5cWWGfq+c4MQGVNKkfeqhktc3UxoM8jp+Reo13RAC927jqqMV1oDuHLT35VTlrU5phVtgMRAtAUR58Dk3wcqTv6gGmEFEX0Q5Yk1PDM8W9ByUMCWanlyRxk8u3bjycJ9cdtqoQ=;TDEtPpsuZxCtXLwCv9DjoQ=="
 ---

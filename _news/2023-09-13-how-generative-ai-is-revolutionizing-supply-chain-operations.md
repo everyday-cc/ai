@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-generative-ai-is-revolutionizing-supp
 webUrl: "https://www.ibm.com/blog/how-generative-ai-is-revolutionizing-supply-chain-operations/"
 type: article
 quality: 99
-heat: 349
+heat: 359
 published: true
 
 provider:
@@ -38,6 +38,22 @@ related:
       - url: "https://images.idgesg.net/images/article/2018/02/artificial_intelligence_ai_virtual_assistant_machine_learning_autonomous_automation_virtual_reality_vr_digital_mind_brain_thinkstock_892854798-100749920-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
+        isCached: true
+  - title: "How AI Is Helping Big Fleet Operators Cut Greenhouse Gas Emissions"
+    excerpt: "The trend is accelerating as artificial intelligence and machine learning help fleet management services deliver new efficiencies that weren’t previously possible."
+    publishedDateTime: 2023-09-15T23:05:00Z
+    webUrl: "https://www.forbes.com/sites/zengernews/2023/09/15/how-ai-is-helping-big-fleet-operators-cut-greenhouse-gas-emissions/"
+    ampWebUrl: "https://www.forbes.com/sites/zengernews/2023/09/15/how-ai-is-helping-big-fleet-operators-cut-greenhouse-gas-emissions/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zengernews/2023/09/15/how-ai-is-helping-big-fleet-operators-cut-greenhouse-gas-emissions/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6504e2b2ce4f66f9f328ff09/0x0.jpg?format=jpg&crop=780,439,x0,y193,safe&width=1200"
+        width: 780
+        height: 439
         isCached: true
   - title: "Mind the trust gap: Data concerns prompt customer caution over generative AI"
     excerpt: "A general lack of trust in data security and privacy is holding organizations back from going all in with generative artificial intelligence."

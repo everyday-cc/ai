@@ -2,6 +2,57 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-09-10-just-how-much-is-the-ai-discourse-helping-stocks-an-analyst-scoured-earnings-calls-for-clues.md",
+      "title": "Just how much is the AI discourse helping stocks? An analyst scoured earnings calls for clues",
+      "excerpt": "More S&P 500 index companies during the second quarter mentioned \"AI\" than at any point since at least 2010, according to an analysis published on Friday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/just-how-much-is-the-ai-discourse-helping-stocks-an-analyst-scoured-earnings-calls-for-clues-8c4a3c04",
+      "originalUrl": "https://www.marketwatch.com/story/just-how-much-is-the-ai-discourse-helping-stocks-an-analyst-scoured-earnings-calls-for-clues-8c4a3c04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-849154/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/just-how-much-is-the-ai-discourse-helping-stocks-an-analyst-scoured-earnings-calls-for-clues-8c4a3c04",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/just-how-much-is-the-ai-discourse-helping-stocks-an-analyst-scoured-earnings-calls-for-clues-8c4a3c04",
+      "publishedDateTime": "2023-09-10T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-10-2-ai-stocks-to-transform-your-portfolio.md",
       "title": "2 AI Stocks to Transform Your Portfolio",
       "excerpt": "Data from Grand View Research indicates a strong growth trajectory, with AI industry revenue expected to mushroom to $1.181 trillion by 2030, based on a CAGR of 37.3%. Additionally, Accenture's recent findings underscore the potential for enterprise applications,",
@@ -1083,40 +1134,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-bizclik-media-launches-september-editions-of-fintech-magazine-insurtech-digital.md",
-      "title": "BIZCLIK MEDIA LAUNCHES SEPTEMBER EDITIONS OF FINTECH MAGAZINE & INSURTECH DIGITAL",
-      "excerpt": "This month's edition features an extensive lead interview with, HSB Canada's Vice President Client Solutions and Innovation, Lasith Lansakara and VP, Head of Information Technology, Michael Scarbeau about the company's journey through almost 150 years of insurance transfomation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2023/09/08/9877716.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2023/09/08/9877716.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-08T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],
