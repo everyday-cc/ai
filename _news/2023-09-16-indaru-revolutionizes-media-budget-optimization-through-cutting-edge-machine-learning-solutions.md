@@ -179,15 +179,6 @@ related:
       name: Wired
       domain: wired.com
     quality: 49
-  - title: "Revolutionizing The Hospitality Industry With Artificial Intelligence"
-    excerpt: "By harnessing the power of AI, hoteliers can revolutionize the guest experience, personalize service, streamline operations and bring more to the bottom line."
-    publishedDateTime: 2023-09-11T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/11/revolutionizing-the-hospitality-industry-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "How artificial intelligence can revolutionise science"
     excerpt: "Then, starting in the late 19th century, the establishment of research laboratories, which brought together ideas, people and materials on an industrial scale, gave rise to further innovations such as artificial fertiliser,"
     publishedDateTime: 2023-09-14T08:33:00Z

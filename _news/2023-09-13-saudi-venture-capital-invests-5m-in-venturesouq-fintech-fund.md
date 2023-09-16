@@ -69,24 +69,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "FinTech GenTwo raises $15m Series A led by Point72 Ventures"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-09-11T12:13:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/fintech-gentwo-raises-15m-series-a-led-by-point72-ventures/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 19
-  - title: "SVC invests $5 million in a VentureSouq fintech fund"
-    excerpt: "Saudi Venture Capital (SVC) announced its investment of $5 million in a fintech fund managed by VentureSouq (VSQ). The fund will mainly back early-stage fintech startups."
-    publishedDateTime: 2023-09-11T12:50:00Z
-    webUrl: "https://www.finextra.com/pressarticle/98006/svc-invests-5-million-in-a-venturesouq-fintech-fund"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
   - title: "Crypto company with $3.4B valuation to invest in fintech, gaming and more"
     excerpt: "The Miami company is launching a new venture division focused on directing funds to early-stage fintech, gaming and web3 infrastructure startups. MoonPay Ventures has already invested in multiple businesses, including California-based Mythical Games and BeatClub, a digital marketplace for the music industry."
     publishedDateTime: 2023-09-13T16:26:00Z

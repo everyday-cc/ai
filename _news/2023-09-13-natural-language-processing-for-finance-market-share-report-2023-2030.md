@@ -28,19 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Ai In Computer Vision Market Size, Share, Growth, Analysis, Trends And Forecast 2023-2030 X Herald"
-    excerpt: "AI in Computer Vision Market size was valued at USD 9.18 billion in 2022 and is expected to reach USD 207.09 billion by 2030, growing at a CAGR of 39% from 2023 to 2030."
-    publishedDateTime: 2023-09-11T11:55:00Z
-    webUrl: "https://menafn.com/1107045120/Ai-In-Computer-Vision-Market-Size-Share-Growth-Analysis-Trends-And-Forecast-2023-2030-X-Herald"
+  - title: "Mobile Speech Recognition Software Market [2023-2030] | Worldwide Size, Share, and Growth"
+    excerpt: "Global Mobile Speech Recognition Software Market (2023-2030) research report provides a detailed evaluation of the market by highlighting information on different aspects which include drivers ..."
+    publishedDateTime: 2023-09-12T14:45:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/34492929/mobile-speech-recognition-software-market-2023-2030-worldwide-size-share-and-growth"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34492929"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34492929"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 42
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 50
     images:
-      - url: "https://menafn.com/updates/pr/2023-09/11/ADC_6dc55f4e-0_Image_In_Body.png"
-        width: 1024
-        height: 1024
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
 secured: "jsmaQKIyFbvp85oqn9ZHAY+we3cr8UyE4ktTw9ElBlNlB41JE39JaPzLK65dgJcbKGwu11mBmit1+XqBmA9Xv0bkrtrOxAEZGSsvz+icWbgRO5k8UXWXy1eQGi85VYlyRQ0T+QFp69ncdZLDwC+PO+aefwJHNaidlMHR4xBwJ5OmjOWZwiibllEZNmnugVTat6oWmgra5rtAsjYXGt8ndMiPHAxZHDGcrZ3N84RvijMGZEWYHUjrzWt084fFFI35Buw58SbFe2YZxL4/ZM+6FgqEHtyh10ylSToZ7rp8DI+xduQCqwJ/OeWALCfiInaXuEeSXE6F+d9aar1MWVUgLXEp8gfAgKQKBLFLXANx9NE=;Mq4/ggBR3GtaXvgX8IAHpg=="

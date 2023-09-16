@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/digital-assets/2023/09/13/from-glass-ce
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/09/13/from-glass-ceiling-to-digital-frontier-women-in-web3-and-ai-are-essential/amp/"
 type: article
 quality: 85
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI In Accounting And Bookkeeping: Braving The New Digital Frontier"
-    excerpt: "Tech leaders are paying close attention, from Microsoft with its launch of an AI for Finance package to IBM’s Watson for finance and accounting. Generative AI tools like ChatGPT and other large language models (LLMs) have begun to change the legacy ..."
-    publishedDateTime: 2023-09-11T12:17:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/ai-in-accounting-and-bookkeeping-braving-the-new-digital-frontier/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "Navigating the AI frontier: Insights from SAS Explore"
     excerpt: "Over the past 25 years, SAS Institute Inc. has been actively implementing neural networks in practical applications with its customers. As the broader market increasingly recognizes the potential of AI, the company’s focus has shifted toward enhancing productivity and efficiency."
     publishedDateTime: 2023-09-13T16:48:00Z

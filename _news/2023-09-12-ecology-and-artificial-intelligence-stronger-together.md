@@ -65,15 +65,6 @@ related:
         width: 648
         height: 431
         isCached: true
-  - title: "Artificial intelligence: Compliance considerations for provider organizations"
-    excerpt: "Artificial intelligence (AI) is nothing new to the healthcare industry, as many organizations and clinicians have utilized such tools in some capacity for many years. Imaging-related AI to support radiologists is not uncommon, to use one example."
-    publishedDateTime: 2023-09-11T11:56:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-compliance-2308492/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 16
 
 secured: "iXlYgD0QMFL8DFwOMUALdO2oCenBQdn//RH30WTR7D1G+vfSephiRwjnLCHSrisxD90+hrKnHVgCfW5YegR7L0vuBmORiGqxmEZbMfHAQKoVWTQg6dSdmRlvVirTJ+K8uFi/TdCQyxwgipaxSE/yMzCPrjJDYHdntZnZ4O4V+hpm27xTN6AxMrx0vHHdThaqH+lJgFgO+V4GTyCCoDJzAigtxXFWgLg8GEBPNJoNkLxgGaQ4sdU6/k9Iryfm5Hh6dR3jwgM979IK17dr5fklILhicUHgGcMjzqRJmXwOSk3vX0OIwfQiCh7ahqspl4MAIay0u2zvIaP9Huqh1acPYDWYQ8jn6Z/Cr/E9tRCr9vyPpri4vIkhvL2Js0Ci/lFFShBr/7wLExqaaV+DqJZ4L1lDr4yZtISShMWgZY0dIV4ixsXomqFpwupykiNKWDgSnVikHLxPCjnKHQEWL3YnS+M3v/xd9bTb34rXn6WnhoD6g/ufGM0u8IfoqDHiJibOTnW6s8HEGV0uvzo7a646fA==;fs024pOM/A51z5d3e+kT3A=="
 ---

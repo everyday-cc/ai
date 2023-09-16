@@ -70,15 +70,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Cadence Design Is Working With Renesas To Build The World’s First LLM Tool For Up-Front Chip Design"
-    excerpt: "Company sees this as an augmentation, not a replacement, for its portfolio of reinforcement learning AI tools that improve productivity of chip design teams."
-    publishedDateTime: 2023-09-11T11:59:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2023/09/11/cadence-design-is-working-with-renesas-to-build-the-worlds-first-llm-tool-for-up-front-chip-design/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 35
 
 secured: "aOG0NxTyaVLYEHnje+7xvG2MyJVouFYDFjPDcwCEz0Gip38pSHZrvNUH1V13lBbEyP2QuuMzobAeY/CihYhKKw3YegdRYiUdAoCEobOOps0RrCuhON+1I0gMAij8YTDuhDIEzoqEhMLIiWTGADkOzwOpqYL8H3oZGNJUwz+o7rP23oXk6u/3Glf4blHoxIBAsooEt4HQYIiWkAWyOMYuw+jXGiLiWVIG4v71D0A6h/fMwKi5ThpenckX5ZczZK7LktAEffsbktYKMmDdlFbQweGK821CrFXvLQXfDOBvO1rrKVhZt2YlUFUI5fYEJgX3bDzHUevrLt26oYM3LZAUPHi5iT0gffSUUGMW4JqIQ5U=;rYi8z920Y1iEDq1B7gHJUA=="
 ---

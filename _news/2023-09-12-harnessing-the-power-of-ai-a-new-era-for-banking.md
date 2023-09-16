@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Rise Of AI: How Enterprises Harness The Power Of Large Language Models"
-    excerpt: "Large Language Models (LLMs) are a class of AI systems uniquely skilled at generating ... contextual question answering, summarization, translation, and sentiment analysis. LLMs like Anthropic ..."
-    publishedDateTime: 2023-09-11T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/sap/2023/09/11/the-rise-of-ai-how-enterprises-harness-the-power-of-large-language-models/"
-    ampWebUrl: "https://www.forbes.com/sites/sap/2023/09/11/the-rise-of-ai-how-enterprises-harness-the-power-of-large-language-models/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2023/09/11/the-rise-of-ai-how-enterprises-harness-the-power-of-large-language-models/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64ff126b9caad68ba26445b6/0x0.jpg?format=jpg&crop=2403,1353,x0,y173,safe&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "The Making of a Generative AI Powerhouse"
     excerpt: "Adobe Firefly —a family of creative models that reimagines how content is designed, as well as how users and computers interact—is the next step in the company’s AI evolution. Says Ely Greenfield, CTO, Digital Media at Adobe, “The nature of Firefly’s advancements puts it in a category all its own.”"
     publishedDateTime: 2023-09-13T14:01:00Z

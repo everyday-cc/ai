@@ -90,17 +90,6 @@ related:
         width: 540
         height: 405
         isCached: true
-  - title: "Artificial intelligence in hiring: risks for employers"
-    excerpt: "As many employers race to embrace artificial intelligence, there are risks to be aware of when it comes to using the technology in hiring."
-    publishedDateTime: 2023-09-11T11:33:00Z
-    webUrl: "https://www.bizjournals.com/nashville/news/2023/09/11/artificial-intelligence-hiring-risks-employers.html"
-    ampWebUrl: "https://www.bizjournals.com/nashville/news/2023/09/11/artificial-intelligence-hiring-risks-employers.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/nashville/news/2023/09/11/artificial-intelligence-hiring-risks-employers.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 39
   - title: "Intel shows strong AI inference performance"
     excerpt: "Intel has shown up well on competitive performance for AI inference as it attempt to make artificial intelligence (AI) more accessible at scale across the continuum of AI workloads, from client and edge to the network and cloud."
     publishedDateTime: 2023-09-13T09:29:00Z
@@ -110,15 +99,6 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 19
-  - title: "How AI Can Help Cut Energy Costs While Meeting Ambitious ESG Goals"
-    excerpt: "Implementing AI can help companies slash energy spending and operate sustainably. Tackling these complex challenges by combining AI with human expertise can have an impact far beyond the organizations leading these efforts."
-    publishedDateTime: 2023-09-11T12:59:00Z
-    webUrl: "https://hbr.org/sponsored/2023/09/how-ai-can-help-cut-energy-costs-while-meeting-ambitious-esg-goals"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 17
 
 secured: "7n/t3sQPbWtgg17dFUZUwZSqtRSUM/ASkikNiSCAQ9Aq/eOPb9tZkekO4Kh4xfgyo4lj5hbT43B0tpH7Cyvlpo68scJTxca4kys/iPr9X0XLBW4BgA0EfufpPMK5fixujO0rS/sxxKQ00yApfMfYKLd6mudPzv34YZwWIF6rpRFxeIxXIOvTYOq+69vLbuRIthCzimg141FwI6ZXB3hI+ZEIILmBMqKjaZWU0Q3oMCbONZYlZwF0r2gRQRBqN59LicCHMs0aditxX9lCyiH0LU78r3BfviT8j6wXBYEq2t7/t5+VCS6mZpZoGMe8OYg2faGxnQLuH0XoC4v8AbLqWVIGfQR+byzzgDYIfFLolcI=;Gf0Of6NZ5+MQQd+xFgX0Yg=="
 ---

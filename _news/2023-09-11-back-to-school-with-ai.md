@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/09/11/back-to-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/09/11/back-to-school-with-ai/amp/"
 type: article
 quality: 87
-heat: 197
+heat: 207
 published: true
 
 provider:
@@ -107,6 +107,22 @@ related:
       - url: "https://s.abcnews.com/images/US/back-to-school-rf-gty-ml-230906_1694000485601_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "AI used to target kids with disinformation"
+    excerpt: "YouTube channels that use AI to make videos containing false \"scientific\" information are being recommended to children as \"educational content\"."
+    publishedDateTime: 2023-09-14T05:41:00Z
+    webUrl: "https://www.bbc.co.uk/newsround/66796495"
+    ampWebUrl: "https://www.bbc.co.uk/newsround/66796495.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/newsround/66796495.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/640/cpsprodpb/7C81/production/_128537813_gettyimages-1246745535.jpg"
+        width: 640
+        height: 360
         isCached: true
   - title: "How To Stay Afloat In The AI Surge"
     excerpt: "AI isn’t just a fleeting trend – AI is becoming more and more intertwined with our workflows. This rapid evolution offers immense technological benefits but has also introduced considerable challenges,"

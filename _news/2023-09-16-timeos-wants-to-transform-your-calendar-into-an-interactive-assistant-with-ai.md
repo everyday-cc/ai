@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/business/timeos-wants-to-transform-your-ca
 webUrl: "https://venturebeat.com/business/timeos-wants-to-transform-your-calendar-into-an-interactive-assistant-with-ai/"
 type: article
 quality: 66
-heat: 66
+heat: 67
 published: false
 
 provider:

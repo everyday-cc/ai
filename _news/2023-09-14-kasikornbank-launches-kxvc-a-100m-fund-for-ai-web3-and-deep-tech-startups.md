@@ -25,15 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Thailand's KBank Starts $100m Fund Targeting AI and Web3"
-    excerpt: "Thailand-based Kasikornbank (KBank) has started a $100 million fund which will target artificial intelligence (AI), Web3, and fintech startups"
-    publishedDateTime: 2023-09-14T06:56:00Z
-    webUrl: "https://markets.businessinsider.com/news/currencies/thailands-kbank-starts-100m-fund-targeting-ai-and-web3-1032629219"
+  - title: "Thailand's KBank Starts $100M Fund Targeting AI and Web3"
+    excerpt: "Thailand-based Kasikornbank (KBank) has started a $100 million fund which will target artificial intelligence (AI), Web3, and fintech startups globally, an announcement said on Thursday. KBank is one of the major banks in South East Asia and also provides digital services."
+    publishedDateTime: 2023-09-14T08:37:00Z
+    webUrl: "https://www.coindesk.com/business/2023/09/14/thailands-kbank-starts-100m-fund-targeting-ai-and-web3/"
+    ampWebUrl: "https://www.coindesk.com/business/2023/09/14/thailands-kbank-starts-100m-fund-targeting-ai-and-web3/?outputType=amp"
+    cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/business/2023/09/14/thailands-kbank-starts-100m-fund-targeting-ai-and-web3/?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
+      name: CoinDesk
+      domain: coindesk.com
+    quality: 74
+    images:
+      - url: "https://www.coindesk.com/resizer/J4n2CZKpFIA_YB1uT9pyyAOfKd8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MT4473XFL5GDBHPET54LSUNLZU.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "KBTG launches KXVC – a 100 million USD flagship fund targeting global AI, Web3, and Deep Tech startups and funds with potential synergy in APAC"
     excerpt: "KASIKORN Business-Technology Group (KBTG) – a tech arm of KASIKORNBANK (KBank) – launches KXVC – 100 million USD flagship fund targeting AI, Web3, and Deep Tech fintech startups globally with potential synergy in APAC. Asia-Pacific, especially ..."
     publishedDateTime: 2023-09-15T02:10:00Z

@@ -62,22 +62,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water"
-    excerpt: "Tech developers have acknowledged that growing demand for their AI tools carries hefty costs, from expensive semiconductors to an increase in water consumption."
-    publishedDateTime: 2023-09-11T12:58:00Z
-    webUrl: "https://www.cnbc.com/2023/09/11/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/09/11/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/11/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 78
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107298466-1694444089106-AP23248706930894.jpg?v=1694444318"
-        width: 5959
-        height: 3973
-        isCached: true
   - title: "10 Best AI Chatbots 2023"
     excerpt: "Generative AI chatbots are a major step forward in conversational AI. These chatbots are powered by large language models (LLMs) that can generate human-quality text, translate languages, write creative content, and provide informative answers to your ..."
     publishedDateTime: 2023-09-14T21:55:00Z

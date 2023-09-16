@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "AI, Liquid Cooling And The Data Center Of The Future"
-    excerpt: "Challenges exist to scaling AI, and among the most significant are those involving the data center infrastructure necessary for supporting these workloads."
-    publishedDateTime: 2023-09-11T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/ai-liquid-cooling-and-the-data-center-of-the-future/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
 
 secured: "5y/RiNALwH43W6xrEpsRtnPApddqescmLIQCpZ1Y9cPDde+Z0nS8yUVBiA5kN56ggp26en19kxtGExakcvvCeJakuACykxcTG4/oS4+Zz1bqIkv5MSlIF98TnIBjh1LYLpwlZBQ8SRW3xac3TYH1JT31x9J84933sNg0AGANY0NURRO8pgEUrVqLSn8gi0GYTMmTxIU0EB+B9CQj5xqEpWNbSyI6tuDLpFML8KUarnMYYQBBkHKKebgIUSndmgK9Gl2pS5oP3D2JcYbcK/zXWmnBlJ3zBCNZRBPQbdsIejXpDaMj1sWCzp5ciw2I6iGrdJzUMcnbt885OhXgpeM6Paho8gDY38Kgn7jKTW3OQdi9J1FVlNpXZMrwPxczryMOkVAd6WQEmYC/AcVGuE+jEklCwVXo76iQH/kei4OtZQqbQKv4hXTuistwVARUiMCU6ZFJ4UkqG6p5jbX1O+4cGNfn9vtKpcYQmjdtFcyO77K8iQW2Nb25qmSpXumexJqWJNiZ/WB4B7ByNoak8CzZYQ==;ljRO8ZDCPzIk53aj/2ssGw=="
 ---

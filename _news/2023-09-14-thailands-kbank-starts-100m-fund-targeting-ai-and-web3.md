@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Thailand's KBank Starts $100m Fund Targeting AI and Web3"
-excerpt: "Thailand-based Kasikornbank (KBank) has started a $100 million fund which will target artificial intelligence (AI), Web3, and fintech startups"
-publishedDateTime: 2023-09-14T06:56:00Z
-originalUrl: "https://markets.businessinsider.com/news/currencies/thailands-kbank-starts-100m-fund-targeting-ai-and-web3-1032629219"
-webUrl: "https://markets.businessinsider.com/news/currencies/thailands-kbank-starts-100m-fund-targeting-ai-and-web3-1032629219"
+title: "Thailand's KBank Starts $100M Fund Targeting AI and Web3"
+excerpt: "Thailand-based Kasikornbank (KBank) has started a $100 million fund which will target artificial intelligence (AI), Web3, and fintech startups globally, an announcement said on Thursday. KBank is one of the major banks in South East Asia and also provides digital services."
+publishedDateTime: 2023-09-14T08:37:00Z
+originalUrl: "https://www.coindesk.com/business/2023/09/14/thailands-kbank-starts-100m-fund-targeting-ai-and-web3/"
+webUrl: "https://www.coindesk.com/business/2023/09/14/thailands-kbank-starts-100m-fund-targeting-ai-and-web3/"
+ampWebUrl: "https://www.coindesk.com/business/2023/09/14/thailands-kbank-starts-100m-fund-targeting-ai-and-web3/?outputType=amp"
+cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/business/2023/09/14/thailands-kbank-starts-100m-fund-targeting-ai-and-web3/?outputType=amp"
 type: article
-quality: 64
-heat: 84
+quality: 74
+heat: 94
 published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: CoinDesk
+  domain: coindesk.com
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://www.coindesk.com/resizer/J4n2CZKpFIA_YB1uT9pyyAOfKd8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MT4473XFL5GDBHPET54LSUNLZU.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "KASIKORNBANK Launches KXVC, a $100m Fund for AI, Web3, and Deep Tech Startups"
@@ -52,6 +56,6 @@ related:
         height: 512
         isCached: true
 
-secured: "+w/ABciGf/BOb7WbVlelxKxAnv0sS3iVSg+rwnUXJaj0S0qxgLbX/KlbN+nOHwtaLw7XlvWaWPDKo0ZRWAmf10nA53HQqGak5ym33QKCYzO5FzWY8scFFu7A8h+bI1Mx7veU5A/Tkjomzh0vv/hacDo0uUPuecYuBzyd1YNIcE7zdv+HUhGGivJH44hbbUgqNcV3jCYN3qISPEcQlM6d6+gXXnOyRuv48H3xS1t3ZkCCw6NgL2UpqquXpUw3No3MJY9pMmgAlcbLlhkYNcqlvgAzUdDjD62aGN0pHrDxF7v0qaw6T8axLCx7FCXKPoe8zkCRMlfB7KpocVm264HR6aq/iiqGjLGfHHy/F6+G4t0=;+9KQ8nUciXN3umVP7x74LQ=="
+secured: "yj05dwoRG/6t+W+2mRn6BSYwPBc4TgfTZWLpAhngZ2Hwo0LoUJhTcD1+rmEA1sOAv4zCZYfgFuvGTxdF6iAq0MeUgk/sv0tzR32D/LCTUHC2JAiR5vY+3dUkOKU8zJWESvUZdFNYw8/d8gY4thDY0YrqEttdZrENHuWJ+1aGEM3AfhxRCAr9ugMyX+0z56IrFSkux3II56p5mZRkjAYfFzaEXwq8bawyZxbIm8CX2u6bivwJKOBlpOXjhECCDa4Kruq74Ly9ZovRHiSMONBvGGtZgf97xs9hnGhQrmqcpDlA4n0ZS1t04U2tnMQ+Wdqm2PKFueiP1JMXUWieyo4RZSddbVXSupj6bIB74NAZt/Q=;1DAPrkCLl6rz5dlyYWtICg=="
 ---
 

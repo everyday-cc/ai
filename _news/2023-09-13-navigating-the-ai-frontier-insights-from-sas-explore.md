@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 773
         isCached: true
-  - title: "AI In Accounting And Bookkeeping: Braving The New Digital Frontier"
-    excerpt: "Tech leaders are paying close attention, from Microsoft with its launch of an AI for Finance package to IBM’s Watson for finance and accounting. Generative AI tools like ChatGPT and other large language models (LLMs) have begun to change the legacy ..."
-    publishedDateTime: 2023-09-11T12:17:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/ai-in-accounting-and-bookkeeping-braving-the-new-digital-frontier/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
 
 secured: "FmVtn+Dw/35+868OMG3A9hIFlMYxLbjpvs1k1EtCmh3LmQy+UpF2hdx7jHp9He9ma7txrlMzHtMImfTilQkZHiQqFxLNpP1A0m7hkHfWXJE/ooRxQXsx5GM44tc7CSt0Qsr+ayLnMMoZ0+8KbwQSN7FhOqZSmx60rf9C5Z+X+p2XI18pdIBsxXi67bPdXGYOLPDmdV/WPjV6aQmekAPoTOXy1RcGHla5m3K17HR2bxAl99pGisd4bDeJzRMSGVCUfUQwGJGYPu3ov+N1NDJ0jFPppzuUGcfzk7+GXjKdRUnWNpJFLOWvZ60pLcnlnmqchASz6LmWo+XOsxSY3CzWkwS5ZDYCveiWYUz0uf1OJ3A=;50AC2XEFw64ybDRwJP1LZA=="
 ---

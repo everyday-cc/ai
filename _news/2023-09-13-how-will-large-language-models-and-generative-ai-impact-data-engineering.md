@@ -32,11 +32,27 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://www.zdnet.com/a/img/resize/49e319eaf42408acb4fced89e8a5fdb0acb93884/2023/09/15/b313851f-5b91-46c9-b4f0-fc038679dd77/932743-a-computer-keyboard-as-big-as-a-football-field-wit-xl-1024-v1-0.png?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "AI can now generate CD-quality music from text, and it’s only getting better"
+    excerpt: "If you'll recall, Stability AI is the company that helped fund the creation of Stable Diffusion, a latent diffusion image synthesis model released in August 2022. Not content to limit itself to generating images, the company branched out into audio by backing Harmonai, an AI lab that launched music generator Dance Diffusion in September."
+    publishedDateTime: 2023-09-13T20:59:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/09/ai-can-now-generate-cd-quality-music-from-text-and-its-only-getting-better/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/09/ai-can-now-generate-cd-quality-music-from-text-and-its-only-getting-better/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/ai-can-now-generate-cd-quality-music-from-text-and-its-only-getting-better/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 86
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot_singing_3-800x450.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Experts say Artificial Intelligence is coming into the workplace faster than previously thought"
     excerpt: "The idea that AI can make work and tasks 100 times faster is appealing, especially for businesses looking to get ahead of competitors."

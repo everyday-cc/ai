@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-16-utc-to-invest-in-teacher-education-consider-use-of-artificial-intelligence.md",
+      "title": "UTC to invest in teacher education, consider use of artificial intelligence",
+      "excerpt": "UTC is also considering its use of artificial intelligence, Angle said. The university will host two open campus forums later this month on how it should use AI in its instruction, business operations and research.",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesfreepress.com/news/2023/sep/15/utc-to-invest-in-teacher-education-consider-ai-tfp/",
+      "originalUrl": "https://www.timesfreepress.com/news/2023/sep/15/utc-to-invest-in-teacher-education-consider-ai-tfp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/102950134_State-of-the-University-23-3036_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676",
+          "width": 600,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-15T15:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chattanooga Times Free Press",
+        "domain": "timesfreepress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2023-09-16-dreamy-ai-generated-geometric-scenes-mesmerize-social-media-users.md",
       "title": "Dreamy AI-generated geometric scenes mesmerize social media users",
       "excerpt": "Using ControlNet and similar prompts, it's easy to replicate Ugleh's work, and others have done so to amusing effect, including checkerboard anime characters, an animation, medieval village \"goatse \" (surprisingly safe for work), and a medieval village version of \" Girl with a Pearl Earring .\"",
@@ -61,7 +104,7 @@
       "originalUrl": "https://techxplore.com/news/2023-09-brain-robust-ai.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -157,7 +200,7 @@
       "originalUrl": "https://www.zdnet.com/article/uh-oh-now-ai-is-better-than-you-at-prompt-engineering/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -196,7 +239,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Google AI"
       ]
     },
     {
@@ -665,7 +709,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/15/fear-mongering-and-ai-questions-to-consider/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -1169,57 +1213,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-15-private-ai-summit-with-senate-titans-of-tech-garners-controversy.md",
-      "title": "Private AI summit with Senate, titans of tech garners controversy",
-      "excerpt": "\"This is the room you pull together when your staffers want pictures with tech industry AI celebrities. It's not the room you'd assemble when you want to better understand what AI is, how (and for whom) it functions,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/09/private-ai-summit-with-senate-titans-of-tech-garners-controversy/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/09/private-ai-summit-with-senate-titans-of-tech-garners-controversy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/zuckerberg_insight_hero-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/09/private-ai-summit-with-senate-titans-of-tech-garners-controversy/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/private-ai-summit-with-senate-titans-of-tech-garners-controversy/amp/",
-      "publishedDateTime": "2023-09-14T15:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

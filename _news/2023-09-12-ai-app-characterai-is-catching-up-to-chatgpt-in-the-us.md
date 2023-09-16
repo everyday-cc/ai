@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/09/11/ai-app-character-ai-is-catching-up
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/11/ai-app-character-ai-is-catching-up-to-chatgpt-in-the-u-s/amp/"
 type: article
 quality: 87
-heat: 317
+heat: 307
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/51fda1c51f88c886678acd9b26995e9a0f04e8d6/2023/08/01/642fa39b-9b6e-44e3-a5c9-39935cca0eaf/chatgpt-app.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water"
-    excerpt: "Tech developers have acknowledged that growing demand for their AI tools carries hefty costs, from expensive semiconductors to an increase in water consumption."
-    publishedDateTime: 2023-09-11T12:58:00Z
-    webUrl: "https://www.cnbc.com/2023/09/11/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/09/11/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/11/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 78
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107298466-1694444089106-AP23248706930894.jpg?v=1694444318"
-        width: 5959
-        height: 3973
         isCached: true
   - title: "Americans are over generative AI like ChatGPT, but their bosses are just getting started"
     excerpt: "Many companies and bosses are still firming up their generative-AI plans. Employees will have to wait a bit longer to see if their fears materialize."

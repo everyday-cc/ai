@@ -66,15 +66,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 63
-  - title: "Cadence Design Is Working With Renesas To Build The World’s First LLM Tool For Up-Front Chip Design"
-    excerpt: "Company sees this as an augmentation, not a replacement, for its portfolio of reinforcement learning AI tools that improve productivity of chip design teams."
-    publishedDateTime: 2023-09-11T11:59:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2023/09/11/cadence-design-is-working-with-renesas-to-build-the-worlds-first-llm-tool-for-up-front-chip-design/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 35
 
 secured: "DfovvNxu+POHzaFADKmVkQoXQhtm0yDsLHDU2hvfi7Y/EOg+OgPrRLOaJssqAmpvBsETRVRHzlnhZFGeNftqo81PT/K1qj2RZIRGueBZ6LwTEaV5UG3d2yJ80NWWYdih9U08xZkaagOvHrxahE8VcHa4CxxpZFfLegoSzjSm/07puznOrYHuMLHypXlU0tEvtF7KW24h7NXuxYCKeCSN/T/f5jRqUq9TISBh9GXy8jNjzxqlLSMIX9eXrqWOm7IWEsLmh5MK78z52tNOW0WFqKHOBfioYHeoNW1yg/P0urL3tzMpYTCtHuSkCYzs1UNBXVuyvzsB5+pNcAMdq7gPvcb1bdpl0wwayPTdWlqsgQQ=;HEdPTsNw+Lna3RcbY3UmhA=="
 ---

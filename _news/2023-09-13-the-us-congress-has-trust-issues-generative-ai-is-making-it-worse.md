@@ -167,15 +167,6 @@ related:
       name: Wired
       domain: wired.com
     quality: 49
-  - title: "Revolutionizing The Hospitality Industry With Artificial Intelligence"
-    excerpt: "By harnessing the power of AI, hoteliers can revolutionize the guest experience, personalize service, streamline operations and bring more to the bottom line."
-    publishedDateTime: 2023-09-11T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/11/revolutionizing-the-hospitality-industry-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Indaru Revolutionizes Media Budget Optimization Through Cutting-Edge Machine Learning Solutions"
     excerpt: "Indaru leverages the power of artificial intelligence and machine learning to provide advertisers with unparalleled insights, enabling data-driven decisions that maximize return on investment. With a mission to help brands extract maximum value from their ..."
     publishedDateTime: 2023-09-15T19:58:00Z

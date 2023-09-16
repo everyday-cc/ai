@@ -2,6 +2,49 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2023-08-08-ai-machine-learning-is-used-to-detect-potential-frauds-under-ayushman-bharat-rajya-sabha-told.md",
+      "title": "AI, Machine Learning Is Used To Detect Potential Frauds Under Ayushman Bharat, Rajya Sabha Told",
+      "excerpt": "Ayushman Bharat-Pradhan Mantri Jan Arogya Yojana (AB-PMJAY) uses artificial intelligence and machine learning (AI/ML) to detect suspicious transactions and frauds.",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/national/ai-machine-learning-is-used-to-detect-potential-frauds-under-ayushman-bharat-rajya-sabha-told-news-309079",
+      "originalUrl": "https://www.outlookindia.com/national/ai-machine-learning-is-used-to-detect-potential-frauds-under-ayushman-bharat-rajya-sabha-told-news-309079",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_1/IMAGE_1646301380.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/national/ai-machine-learning-is-used-to-detect-potential-frauds-under-ayushman-bharat-rajya-sabha-told-news-309079/amp",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/national/ai-machine-learning-is-used-to-detect-potential-frauds-under-ayushman-bharat-rajya-sabha-told-news-309079/amp",
+      "publishedDateTime": "2023-08-08T03:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-08-will-ai-augment-or-replace-workers.md",
       "title": "Will AI Augment Or Replace Workers?",
       "excerpt": "AI and other emerging technologies will shift industry practices and human labor norms. However, the manner in which those shifts occur is not always clear, and history tells us that there will still be work for humans to do when the dust settles.",
@@ -1192,58 +1235,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-08-detroit-woman-sues-city-police-after-being-wrongfully-arrested-due-to-ai-facial-recognition.md",
-      "title": "Detroit Woman Sues City Police After Being Wrongfully Arrested Due To AI Facial Recognition",
-      "excerpt": "Six police officers arrested Porcha Woodruff, who was eight months pregnant, after mistaking her for someone who had robbed a car.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/irenebenedicto/2023/08/07/detroit-woman-sues-city-police-after-being-wrongfully-arrested-due-to-ai-facial-recognition/",
-      "originalUrl": "https://www.forbes.com/sites/irenebenedicto/2023/08/07/detroit-woman-sues-city-police-after-being-wrongfully-arrested-due-to-ai-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 444,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64d10b3a725fca0578d6288b/0x0.jpg?format=jpg&crop=2369,1332,x603,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/irenebenedicto/2023/08/07/detroit-woman-sues-city-police-after-being-wrongfully-arrested-due-to-ai-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/irenebenedicto/2023/08/07/detroit-woman-sues-city-police-after-being-wrongfully-arrested-due-to-ai-facial-recognition/amp/",
-      "publishedDateTime": "2023-08-07T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

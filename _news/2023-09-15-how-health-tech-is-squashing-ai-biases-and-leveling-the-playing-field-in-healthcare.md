@@ -73,17 +73,6 @@ related:
         width: 540
         height: 405
         isCached: true
-  - title: "Artificial intelligence in hiring: risks for employers"
-    excerpt: "As many employers race to embrace artificial intelligence, there are risks to be aware of when it comes to using the technology in hiring."
-    publishedDateTime: 2023-09-11T11:33:00Z
-    webUrl: "https://www.bizjournals.com/nashville/news/2023/09/11/artificial-intelligence-hiring-risks-employers.html"
-    ampWebUrl: "https://www.bizjournals.com/nashville/news/2023/09/11/artificial-intelligence-hiring-risks-employers.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/nashville/news/2023/09/11/artificial-intelligence-hiring-risks-employers.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 39
   - title: "Some startup founders say VC influence is 'debilitating.' Here's why they are turning down outside funding and bootstrapping instead."
     excerpt: "Founders are turning down VC funding and instead boostrapping so they can keep control of their business plans and run lean teams."
     publishedDateTime: 2023-09-14T09:00:00Z
@@ -107,15 +96,6 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 19
-  - title: "How AI Can Help Cut Energy Costs While Meeting Ambitious ESG Goals"
-    excerpt: "Implementing AI can help companies slash energy spending and operate sustainably. Tackling these complex challenges by combining AI with human expertise can have an impact far beyond the organizations leading these efforts."
-    publishedDateTime: 2023-09-11T12:59:00Z
-    webUrl: "https://hbr.org/sponsored/2023/09/how-ai-can-help-cut-energy-costs-while-meeting-ambitious-esg-goals"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 17
 
 secured: "P4ktKSNrWwtSc/wiDP5cH86cHH7l2vpDz2RmsfAkJCcCz5mLjOqCqCK8CfvHMqc5zRUaHIpYcrMLiT6HwvW/lnJbFlzTH3SWI6nSb5P49uwOgtsidCEq+xoqegNZuVc70Df8bbHxWLGlKBkcXL7jTe4f9t0gfDB6ed85V5BKKe2Vy4QPWXy7t1PbEYrT9jeAPj7GEB59OpFS338kbOCNjZWPL0zccUpTYzBxcYaSfV3xXDpT/Do3puCE2/I78iVImRDXnHRRKlmNWFXiuChdmC3MEHm70SOAldTqrGx/dsDMPfaqhD637fW8uLu3XeEo79cUtg+0w0I1fQ7IXdnOL5SzA3P+7pS/JgU2UkhlG+4ahlBcPk7Nj0mDlsaa1PFyxue01FsMQUqcJeFsZ1X0xY850/CcLc5HlUyKSpWl+AW7CHneZiwwzA8YZMCMmx5fmXiq+b9C7+rpQRo9hy8nH+anGvXgLb3jR4xlRpwMkP9+2CNFPGsO0fj+uxqymx9sY7DhCjXofHTQAJRzGsZsEg==;kzAFh2fZJ0qMjxnwfF1p/Q=="
 ---

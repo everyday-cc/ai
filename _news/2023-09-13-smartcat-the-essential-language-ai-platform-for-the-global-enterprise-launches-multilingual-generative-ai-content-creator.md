@@ -51,22 +51,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI can now generate CD-quality music from text, and it’s only getting better"
-    excerpt: "If you'll recall, Stability AI is the company that helped fund the creation of Stable Diffusion, a latent diffusion image synthesis model released in August 2022. Not content to limit itself to generating images, the company branched out into audio by backing Harmonai, an AI lab that launched music generator Dance Diffusion in September."
-    publishedDateTime: 2023-09-13T20:59:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/09/ai-can-now-generate-cd-quality-music-from-text-and-its-only-getting-better/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/09/ai-can-now-generate-cd-quality-music-from-text-and-its-only-getting-better/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/ai-can-now-generate-cd-quality-music-from-text-and-its-only-getting-better/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 86
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot_singing_3-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "AI now generates music with CD-quality audio from text, and it’s only getting better"
     excerpt: "If you'll recall, Stability AI is the company that helped fund the creation of Stable Diffusion, a latent diffusion image synthesis model released in August 2022. Not content to limit itself to generating images, the company branched out into audio by backing Harmonai, an AI lab that launched music generator Dance Diffusion in September."
     publishedDateTime: 2023-09-13T20:59:00Z
@@ -243,18 +227,18 @@ related:
         height: 488
         isCached: true
   - title: "Tech titans are giving senators advice on artificial intelligence in a closed-door forum"
-    excerpt: "\"It's going to be a fascinating group because they have different points of view,\" Schumer said in an interview with The Associated Press before the event. \"Hopefully we can weave it into a little bit of some broad consensus."
-    publishedDateTime: 2023-09-13T20:15:00Z
-    webUrl: "https://sentinelcolorado.com/uncategorized/tech-titans-are-giving-senators-advice-on-artificial-intelligence-in-a-closed-door-forum/"
+    excerpt: "Senate Majority Leader Chuck Schumer has been talking for months about accomplishing a potentially impossible task: passing bipartisan legislation within the next year that encourages the rapid development of artificial intelligence and mitigates its biggest risks."
+    publishedDateTime: 2023-09-13T18:28:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/tech-titans-senators-artifiicial-intelligence-20230913-uacancl5nfbbroed5kpcdq5mey-story.html"
     type: article
     provider:
-      name: Sentinel Colorado
-      domain: sentinelcolorado.com
-    quality: 30
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 28
     images:
-      - url: "https://sentinelcolorado.com/wp-content/uploads/2023/09/AP23256017020655-scaled.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://www.chicagotribune.com/resizer/vFnUsBA1w0sBUMvckTOgwa5fEw8=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/VZCWBJHYT4LSPTK3V2V6HHAUNM.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Swoop Launches Predictive AI Adherence Targeting"
     excerpt: "Swoop Predictive AI Adherence Targeting uncovers the patients most likely to become non-adherent within the next 30 days for highly precise marketing."

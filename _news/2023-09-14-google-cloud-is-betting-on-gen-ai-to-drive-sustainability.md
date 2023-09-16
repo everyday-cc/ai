@@ -46,6 +46,15 @@ related:
         width: 902
         height: 444
         isCached: true
+  - title: "Tekion Unveils Enhanced AI Engine, Tekion AI, with Generative AI Capabilities in its Automotive Retail Cloud Platform"
+    excerpt: "Tekion, transforming the automotive retail ecosystem and delivering modern customer experiences through its AI powered business applications, today an"
+    publishedDateTime: 2023-09-13T15:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230913087802/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "ETA8udkDcol8ttL/1UOKP/VAvNoEaZNFE7BChoIDYwSQKpZkQRL/TWz/2J8tbtxeVcZiD8roEc6vS2vD8++PVBl903djWf6icb5v0O08Ye19rRmcNQdv4ZvGoPgDGpku8hAeqiOfzDMvPYiXb+D460rZ6CcvCRV/EjxMSUVU10yYKFP7z5blmhLpM6JjA4UF8pPB/IlQB8buQaXcPN+ctP7KSVgGVrCpKDuIN1+iVjuGhVK2hExsJBY2PBjxooQkHkxg5Wk2HAIIOAGN8KljQyYGIHYBMfcXI98URQbiBMclvoSlEODah7auYZrpaXIaw/9rBnC9A0KNarwrRxvnnILWnSrGFvfjO7V3CEO+yCvxwo5Q1Rv85wOsB29hjOHRBqmxPZvdwDg6IskfFAQiXLp18cQAUiiXU4+13vjAN78Bj66ZNOWuT+19M2YYJr0RXoqYQk60v1fpZgeSi1IcEymha836ls6E5G1JVaXczjlwZPyOUZaYlw9goQxyacAHnbptNll1OVK21MilpkiEfw==;ezaT/WjefQtiv8sORPJFCg=="
 ---

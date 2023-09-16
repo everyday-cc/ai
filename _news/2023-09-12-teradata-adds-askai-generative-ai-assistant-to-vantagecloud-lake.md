@@ -7,7 +7,7 @@ originalUrl: "https://www.arnnet.com.au/article/708705/teradata-adds-ask-ai-gene
 webUrl: "https://www.arnnet.com.au/article/708705/teradata-adds-ask-ai-generative-ai-assistant-vantagecloud-lake/?fp=2&fpid=1"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Teradata adds ask.ai generative AI assistant to VantageCloud Lake"
-    excerpt: "Enterprises will be able to use the ask.ai natural language assistant to ask questions about their data from within Teradata’s multicloud analytics platform."
-    publishedDateTime: 2023-09-11T13:00:00Z
-    webUrl: "https://www.infoworld.com/article/3706376/teradata-adds-ask-ai-generative-ai-assistant-to-vantagecloud-lake.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 49
   - title: "Teradata Gives Customers Their Own LLMs with Ask.ai"
     excerpt: "Enterprises that want to train their own custom large language model (LLM) have a new option today with the launch of Teradata’s ask.ai. The analytics"
     publishedDateTime: 2023-09-11T20:57:00Z

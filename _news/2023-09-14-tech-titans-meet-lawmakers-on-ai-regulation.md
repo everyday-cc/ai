@@ -57,15 +57,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Musk, Zuckerberg, Gates: The titans of tech will talk AI at private Capitol summit"
-    excerpt: "This week will feature a series of public hearings on artificial intelligence. But all eyes will be on the closed-door gathering convened by Senate Majority Leader Chuck Schumer."
-    publishedDateTime: 2023-09-11T12:34:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/musk-zuckerberg-gates-ai-congress-meeting-testify-rcna103922"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 41
 
 secured: "B07lNN0z1gqskCK7sQu/V+DlHHrRLr/Kn3XUmR8xU3VFOqb+nXpRnYwKCOSCvnxrl/WxDw+2Lr3uP6pRurWDi/Kahxr8iNvKHmBE1Fo6MnFYSbu3Y1dsFk6agzHMPgGhfZMiLmmN9+QWRd2Oscnq0ODmdFBn+oX6qH3sg2SAL/RZ6P5zJ/mTOyuStT16iNdQdjv5ebSh2q/zf9IqqMKWMLDI46nHGHDRoGlCp9ILiNz2+cN/3oPnvX/yTWcarX2etRVKNuBDCTHq7VknUgMClrX/4u0gf71rRqLPC5zkGKGe7jKx8wTKZn5+cbFBnNWFvifIKwjlnVCVENQPfh1AC82UR9e6Nil4o1et191w2oU=;RTG7qYyU+aXxF6Xp+ZMY2w=="
 ---

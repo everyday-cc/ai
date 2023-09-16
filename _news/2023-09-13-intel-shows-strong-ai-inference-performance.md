@@ -81,17 +81,6 @@ related:
         width: 540
         height: 405
         isCached: true
-  - title: "Artificial intelligence in hiring: risks for employers"
-    excerpt: "As many employers race to embrace artificial intelligence, there are risks to be aware of when it comes to using the technology in hiring."
-    publishedDateTime: 2023-09-11T11:33:00Z
-    webUrl: "https://www.bizjournals.com/nashville/news/2023/09/11/artificial-intelligence-hiring-risks-employers.html"
-    ampWebUrl: "https://www.bizjournals.com/nashville/news/2023/09/11/artificial-intelligence-hiring-risks-employers.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/nashville/news/2023/09/11/artificial-intelligence-hiring-risks-employers.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 39
   - title: "Some startup founders say VC influence is 'debilitating.' Here's why they are turning down outside funding and bootstrapping instead."
     excerpt: "Founders are turning down VC funding and instead boostrapping so they can keep control of their business plans and run lean teams."
     publishedDateTime: 2023-09-14T09:00:00Z
@@ -106,15 +95,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "How AI Can Help Cut Energy Costs While Meeting Ambitious ESG Goals"
-    excerpt: "Implementing AI can help companies slash energy spending and operate sustainably. Tackling these complex challenges by combining AI with human expertise can have an impact far beyond the organizations leading these efforts."
-    publishedDateTime: 2023-09-11T12:59:00Z
-    webUrl: "https://hbr.org/sponsored/2023/09/how-ai-can-help-cut-energy-costs-while-meeting-ambitious-esg-goals"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 17
 
 secured: "5zy5ZtX5U57ccgBwvXbKbw/ZhBwLLY3L5iHFw+fJUD6oVEbUHH5ms2M6y6SW8Z93WcduwGw7HeIcJm/geSDI3OTF8dj/0a9aS4hDv4VR/wioEvK9rbU4SEU9GkFfVPrv6oIPk/LHJC+o+KQyClLh+5vcosXJu2KnQ0Y9t8fRRrJoTTb3/cvAEpOY+B9CiymjP8V0B6z374aoFNFfzFan5kWKFm76Ljxk/24eFa4gzWqJlU6kxzyATssZffzBWZVcetz1b+tpMrFDXAYIomTGasiiJL58d+Ph+Hjfp4AL8aytNcgJmaJCB5W+grNIb6loQDdqBFryL15wE6K/CUEORXHO1lARiJZKB2f9P2XtGYM=;3Di6Zh+hJHsag96d7Zv6ag=="
 ---

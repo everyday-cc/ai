@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2023/09/13/renesas-taps-c
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/09/13/renesas-taps-cadence-for-chipgpt-like-ai-powered-semiconductor-design/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -70,15 +70,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Cadence Design Is Working With Renesas To Build The World’s First LLM Tool For Up-Front Chip Design"
-    excerpt: "Company sees this as an augmentation, not a replacement, for its portfolio of reinforcement learning AI tools that improve productivity of chip design teams."
-    publishedDateTime: 2023-09-11T11:59:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2023/09/11/cadence-design-is-working-with-renesas-to-build-the-worlds-first-llm-tool-for-up-front-chip-design/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 35
 
 secured: "bVs8UlL0uF2qOvNm+4cnrXOgTIgMUJZgG7TKfK4C84WwsDSlC4WBtlaG2n+h5h5QkO+wfPpVp5AJxDxQ7c8dlVz9sZEyvgj8kibT021J0wgSBvZR/Af8Ui3FM8KDXJl93JASY8hvrPV+EF42Yb9lyQX1WzBVZW5bQF5x1jEqfUBaeJmWNWL7qN52tTu/fgdEZdk4YIgc+AD0NqKpsi7LOsh1b+jDw/lR/DHugiJH0Aj1XmZpKKGh4JSSphXRqB/BPyCFAfzb/FTdrgFM8N5o+5jAqHrgQ+/JHO0wKYuqV+fSaJygrt7jNrzFQZ3GsgSST0X/47ytnPx6ujE2Pm+jT1AVcYrUslY0L9l/2lc/kA0=;ugmqWSGfN/XYb+Yt5hCllg=="
 ---

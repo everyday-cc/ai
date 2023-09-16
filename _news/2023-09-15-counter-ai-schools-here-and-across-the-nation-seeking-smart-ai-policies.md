@@ -66,15 +66,6 @@ related:
       name: Phys.org
       domain: phys.org
     quality: 19
-  - title: "Artificial intelligence: Compliance considerations for provider organizations"
-    excerpt: "Artificial intelligence (AI) is nothing new to the healthcare industry, as many organizations and clinicians have utilized such tools in some capacity for many years. Imaging-related AI to support radiologists is not uncommon, to use one example."
-    publishedDateTime: 2023-09-11T11:56:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-compliance-2308492/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 16
 
 secured: "2Of2lUtIBpwbIZ1YdCOrLi23gBmmefwLDsQUaWpW9bwCKl7TD1fRfCx7rQTv+qNVkeJaelNGjC+r6qwuFqnkp2xv7UVcfMY+cCqnkLzk4qulPgIFspgai/YiLAZpvbh2iN7Gyzqsz5gvU2QKD4EB7P82yGZhWVAo/SrL9j6IhSUgzub6rf5LmLG7JP88L7h034FSWrY/IoFOveqk7/yENtUJcEDGsnhALP0n1mCymyi4PGEgOK6Ggcg8Rix0b1KTwFKSyr7JBOlG+HP7uSD+nRfHOJ5xC0IUOnn9Exu2JMuYDgxcprRqzfhAjvArM3d9syDT1/px9Uy/YzJhvZQkBgS9tR7ajslmxCvHGMhOyV0=;EFECgLMdawcwkOipFu+3RQ=="
 ---

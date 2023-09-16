@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Teradata Launches ask.ai, Brings Generative AI Capabilities to VantageCloud Lake"
-    excerpt: "The new natural language interface, now in private preview, delivers the ease of use required to democratize cloud analytics."
-    publishedDateTime: 2023-09-11T13:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230911090555/en/Teradata-Launches-ask.ai-Brings-Generative-AI-Capabilities-to-VantageCloud-Lake"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 14
 
 secured: "72N7e8UBRn0kxznRgSVHUj2ElOsGHgn1quANYZKgCEU4EXUUWDpgqTx/6UvodUMXMZ1pFK4x4/w6paBlJ8MT1xtRySX0yXpl7UUdHSfLKz/XYUkseE45pPwD0xVtGn3dRCB+V1bFMwy7JoZj6WbI/G83JyNwftyVh9gj+k8A+3i2KUWxn8Qpiw7OYR4m8QpKt/TQ4rhHZVhavJ2JduI3X68EzeLaLf48ogQEgMFvhJ8JqjPwVn+II5uwxZXT7zaywTvyCADji4+AhNreua9kDWPP+KVRJ5zGGFCXos9cAB2K1OHHvJdHwQoZddlmNy4vvc1u9aWkTvM4psAZ9qJgbvU0DV/jEisC3iHaXi2aHX4=;W47d8ynQsR3jfuK8YuaMYQ=="
 ---

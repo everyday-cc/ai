@@ -1,29 +1,21 @@
 ---
 category: news
 title: "In closed forum, tech titans to give senators advice on artificial intelligence"
-excerpt: "Senate Majority Leader Chuck Schumer has been talking for several months about accomplishing a potentially impossible task: Passing bipartisan legislation within the next year that both encourages the rapid development of artificial intelligence and"
-publishedDateTime: 2023-09-13T04:05:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/closed-forum-tech-titans-give-senators-advice-artificial-103142205"
-webUrl: "https://abcnews.go.com/Technology/wireStory/closed-forum-tech-titans-give-senators-advice-artificial-103142205"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/closed-forum-tech-titans-give-senators-advice-artificial-103142205"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/closed-forum-tech-titans-give-senators-advice-artificial-103142205"
+excerpt: "Senate Majority Leader Chuck Schumer has been talking for months about accomplishing a potentially impossible task: Passing bipartisan legislation within the next year that both encourages the rapid development of artificial intelligence and also mitigates its biggest risks."
+publishedDateTime: 2023-09-13T06:31:00Z
+originalUrl: "https://lasvegassun.com/news/2023/sep/12/in-closed-forum-tech-titans-to-give-senators-advic/"
+webUrl: "https://lasvegassun.com/news/2023/sep/12/in-closed-forum-tech-titans-to-give-senators-advic/"
 type: article
-quality: 53
+quality: 13
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Las Vegas Sun
+  domain: lasvegassun.com
 
 topics:
   - AI
-
-images:
-  - url: "https://s.abcnews.com/images/US/wirestory_efcfb1067d68ad2f595db7e92167943c_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Elon Musk and Mark Zuckerberg will talk AI rules in Senate forum on Wednesday"
@@ -200,6 +192,20 @@ related:
         width: 660
         height: 400
         isCached: true
+  - title: "These 3 science fiction authors inspired Elon Musk’s creation of SpaceX, fascination with AI, and quest to colonize Mars"
+    excerpt: "We are learning more and more just how much video games, science fiction, and fantasy shaped Elon Musk's worldview—and dreams for the future."
+    publishedDateTime: 2023-09-14T21:41:00Z
+    webUrl: "https://www.aol.com/finance/3-science-fiction-authors-inspired-184050734.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 16
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/CJc3ykrQeipMrb4GQe82yg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04Mjc-/https://media.zenfs.com/en/aol_fortune_385/bf505f01a7548a4727806b335a8a3e2d"
+        width: 1200
+        height: 827
+        isCached: true
   - title: "Congress huddles with tech experts in new push for AI rules: ‘There will be regulation’"
     excerpt: "Senators are meeting with leading Big Tech executives this week as part of a new push to write rules for artificial intelligence focused on limiting danger and safeguarding innovation."
     publishedDateTime: 2023-09-12T19:56:00Z
@@ -219,6 +225,6 @@ related:
       domain: washingtonpost.com
     quality: 9
 
-secured: "oriIGgdDVZirGXH1PJ4tEe7ezKvV2n/gHHQKQSGoDPTwjcIuaRUZhP6V8omC7XuzO5qX1uyGnAG+9wajjSvjOb7CEpq1vJl7t+jgkweZ+nBIrVPOQBnIJ7BzRlowQHKdJhOiG6wvF0mmpm03CFmqu7eFuNX+v+Ny/fTZjW9h8jmTakfHHQU6mHDb3oWXSl9WHXeSHXyQxr3/Q2R7AEbSyRTfRPGhkm6Npr/HJ8t8lZ4Geid2NgImdWaeZGzhaPJG+Rni6LbPu4/WcXfEqzBuKhsGTQtSUzu1qMoTCOG2evoZ/KXouBJjqZoui9jKJM4wRqpOcshHMCtpz+N2QxZPcR+heGYf5SJAwFbXSYErZs+WtbUjaH6KmfS+Qn32SbfGvXEe/vckR5gm85NapOr5qJrlR4UUKk/0qwgr6vJKSAwbG/fSex9I5kPyEy0018IxnLohCF1Lz9B4CNKvp0nVObY5c32uQq90QyVVNekT0jhkhoOaSTB3EVPIbM5FNw6eg7g5wqSD0ou52AOUKCORqA==;qnWWuSSSTqpw6uMpKU7Ekw=="
+secured: "GsPdlqmDfLI3BG0OdCoAMVFnI4oilJWXRCHvvIDWF+esVlaQUOCjFEUDSsVc/SS4JQ69QAENhDZ8vmQem7yjoAxjW1xSA/ZqVfyWeVLud/1PVaKfxzRfvPQrOGDCvGcb/eKVB6jfWwlmYIcNknBr61He9ohtgwk8fMyHzb/6ZmaScYwS24AUKk7V1JgF9A1vy1cpd03iidKQhDqXVbT5c0CiIBAr8ULxfVpbRvnZT8Lr/3DMPKq/eAmW7SjvMsb2s/G0QHefXeXD3RL0kLg+Jr1fpO012KgbuOUvepQ1luRUzGeajaNbiK8WSnC6R6nDqKq12jNnj/Km20BG8oXXG4VoCZXCwifAiaYswg/nImij5QB4I6rpQx/ariK4kk22k8mg+zIcPLnVuguNxf3OP4ywbDkkhVNEz8N1wuFA2CMF5qLjYEqdCGGBG3Qk3Thbk3Aqq7/9WmvyYxfbilpB1nU6mV1z109bA8iFeaaOUq5YJzrA9DW3/OX9jzfOBfXlDfAkUXOsJFelWIENTHa18A==;PJ7bLKyf1nI2rUqeRLvRBg=="
 ---
 

@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "AI chip startup Enfabrica raises $125 million, with backing from Nvidia"
+    excerpt: "But Nvidia's graphics processing unit (GPU) chips face a problem ... \"It's no secret to Nvidia or anybody else out there that in order for AI computing to become truly ubiquitous, the cost ..."
+    publishedDateTime: 2023-09-13T02:22:00Z
+    webUrl: "https://www.reuters.com/technology/ai-chip-startup-enfabrica-raises-125-mln-with-backing-nvidia-2023-09-12/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/5ccws5i9lMfwHWfZpThzWDo6z18=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PC3XN3V5DZJZPELJFOE4NKYHKA.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "AI Chip Startup Enfabrica Raises $125 Million, With Backing From Nvidia"
     excerpt: "(Reuters) - Enfabrica, a Silicon Valley chip startup working on networking chips for artificial intelligence data centers, said on Tuesday that it has raised $125 million in venture capital, with Nvidia joining as a strategic investor."
     publishedDateTime: 2023-09-12T10:26:00Z
@@ -151,15 +165,6 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 20
-  - title: "Nvidia's dominance in AI chips deters funding for startups"
-    excerpt: "Nvidia's supremacy in building computer chips for artificial intelligence has chilled venture funding for would-be rivals, investors said, with the number of U.S. deals this quarter falling 80% from a year ago."
-    publishedDateTime: 2023-09-11T13:05:00Z
-    webUrl: "https://www.aol.com/news/nvidias-dominance-ai-chips-deters-100502653.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 17
 
 secured: "nunm72Yr8vIu6R1uln4075eulgiYXDrH82R2Hnrob3LFujqWqpKVMs+eYXd8cmS72XUZL6V6MHxv137LVtPpfDMOKMGyyXwqwgJDtRBgkIlE6N2B8Wr2rbIjD+lycfMTmMyRBBBrIYw2/ocP/nrA75/CtX2rLJM3Dd/GNKJ5/FgHWgGXawWPteqGfPzFxkUa5XrzISyiBAybIhWmEDhyn+wu8ZeayA+B9xsaJokpNUTSEONTM78jjjT0cYdy8DpSSbq5X5Ori7Emh2sHN5HWwvnQCvGrIcHPyncuF4pUgBSp7n0SDtDqUEoOIDvSIMWT3xmLbubtYm/XWhW3o3QOnEnhjZR9qJekhmHKoP3Q1NQ=;dgYoYo2pRPQg4yJnvMovTQ=="
 ---

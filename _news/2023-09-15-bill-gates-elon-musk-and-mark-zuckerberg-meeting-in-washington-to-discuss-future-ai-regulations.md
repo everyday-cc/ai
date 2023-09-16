@@ -87,22 +87,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "In closed forum, tech titans to give senators advice on artificial intelligence"
-    excerpt: "Senate Majority Leader Chuck Schumer has been talking for several months about accomplishing a potentially impossible task: Passing bipartisan legislation within the next year that both encourages the rapid development of artificial intelligence and"
-    publishedDateTime: 2023-09-13T04:05:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/closed-forum-tech-titans-give-senators-advice-artificial-103142205"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/closed-forum-tech-titans-give-senators-advice-artificial-103142205"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/closed-forum-tech-titans-give-senators-advice-artificial-103142205"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 53
-    images:
-      - url: "https://s.abcnews.com/images/US/wirestory_efcfb1067d68ad2f595db7e92167943c_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Elon Musk, Mark Zuckerberg and Sam Altman talk AI regs in Washington"
     excerpt: "The world’s web and tech leaders met with Congress to discuss the rise of artificial intelligence and the pressing need for its regulation."
     publishedDateTime: 2023-09-14T05:12:00Z
@@ -201,6 +185,29 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "These 3 science fiction authors inspired Elon Musk’s creation of SpaceX, fascination with AI, and quest to colonize Mars"
+    excerpt: "We are learning more and more just how much video games, science fiction, and fantasy shaped Elon Musk's worldview—and dreams for the future."
+    publishedDateTime: 2023-09-14T21:41:00Z
+    webUrl: "https://www.aol.com/finance/3-science-fiction-authors-inspired-184050734.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 16
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/CJc3ykrQeipMrb4GQe82yg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04Mjc-/https://media.zenfs.com/en/aol_fortune_385/bf505f01a7548a4727806b335a8a3e2d"
+        width: 1200
+        height: 827
+        isCached: true
+  - title: "In closed forum, tech titans to give senators advice on artificial intelligence"
+    excerpt: "Senate Majority Leader Chuck Schumer has been talking for months about accomplishing a potentially impossible task: Passing bipartisan legislation within the next year that both encourages the rapid development of artificial intelligence and also mitigates its biggest risks."
+    publishedDateTime: 2023-09-13T06:31:00Z
+    webUrl: "https://lasvegassun.com/news/2023/sep/12/in-closed-forum-tech-titans-to-give-senators-advic/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 13
   - title: "Congress huddles with tech experts in new push for AI rules: ‘There will be regulation’"
     excerpt: "Senators are meeting with leading Big Tech executives this week as part of a new push to write rules for artificial intelligence focused on limiting danger and safeguarding innovation."
     publishedDateTime: 2023-09-12T19:56:00Z

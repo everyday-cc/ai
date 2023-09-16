@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/09/private-ai-su
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/private-ai-summit-with-senate-titans-of-tech-garners-controversy/amp/"
 type: article
 quality: 87
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Musk, Zuckerberg, Gates: The titans of tech will talk AI at private Capitol summit"
-    excerpt: "This week will feature a series of public hearings on artificial intelligence. But all eyes will be on the closed-door gathering convened by Senate Majority Leader Chuck Schumer."
-    publishedDateTime: 2023-09-11T12:34:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/musk-zuckerberg-gates-ai-congress-meeting-testify-rcna103922"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 41
   - title: "Tech Titans Meet Lawmakers On Ai Regulation"
     excerpt: "Top executives from some of the world's largest tech and web companies have reportedly concluded a closed-door meeting with U.S. lawmakers in Washin"
     publishedDateTime: 2023-09-14T08:33:00Z

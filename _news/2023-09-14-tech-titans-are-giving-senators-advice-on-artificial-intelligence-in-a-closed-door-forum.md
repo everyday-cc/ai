@@ -1,27 +1,26 @@
 ---
 category: news
 title: "Tech titans are giving senators advice on artificial intelligence in a closed-door forum"
-excerpt: "\"It's going to be a fascinating group because they have different points of view,\" Schumer said in an interview with The Associated Press before the event. \"Hopefully we can weave it into a little bit of some broad consensus."
-publishedDateTime: 2023-09-13T20:15:00Z
-originalUrl: "https://sentinelcolorado.com/uncategorized/tech-titans-are-giving-senators-advice-on-artificial-intelligence-in-a-closed-door-forum/"
-webUrl: "https://sentinelcolorado.com/uncategorized/tech-titans-are-giving-senators-advice-on-artificial-intelligence-in-a-closed-door-forum/"
+excerpt: "Senate Majority Leader Chuck Schumer has been talking for months about accomplishing a potentially impossible task: passing bipartisan legislation within the next year that encourages the rapid development of artificial intelligence and mitigates its biggest risks."
+publishedDateTime: 2023-09-13T18:28:00Z
+originalUrl: "https://www.chicagotribune.com/nation-world/tech-titans-senators-artifiicial-intelligence-20230913-uacancl5nfbbroed5kpcdq5mey-story.html"
+webUrl: "https://www.chicagotribune.com/nation-world/tech-titans-senators-artifiicial-intelligence-20230913-uacancl5nfbbroed5kpcdq5mey-story.html"
 type: article
-quality: 30
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Sentinel Colorado
-  domain: sentinelcolorado.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
 
 topics:
-  - Facebook AI
   - AI
 
 images:
-  - url: "https://sentinelcolorado.com/wp-content/uploads/2023/09/AP23256017020655-scaled.jpg"
-    width: 2560
-    height: 1707
+  - url: "https://www.chicagotribune.com/resizer/vFnUsBA1w0sBUMvckTOgwa5fEw8=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/VZCWBJHYT4LSPTK3V2V6HHAUNM.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -56,22 +55,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/d4ea5b28fdf0cd75bc8dd9f69f727fdabb9516ec/2023/09/13/d7a94305-a93c-4d75-aaa8-2a2a3a076a46/gettyimages-1295039478.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "AI can now generate CD-quality music from text, and it’s only getting better"
-    excerpt: "If you'll recall, Stability AI is the company that helped fund the creation of Stable Diffusion, a latent diffusion image synthesis model released in August 2022. Not content to limit itself to generating images, the company branched out into audio by backing Harmonai, an AI lab that launched music generator Dance Diffusion in September."
-    publishedDateTime: 2023-09-13T20:59:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/09/ai-can-now-generate-cd-quality-music-from-text-and-its-only-getting-better/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/09/ai-can-now-generate-cd-quality-music-from-text-and-its-only-getting-better/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/ai-can-now-generate-cd-quality-music-from-text-and-its-only-getting-better/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 86
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot_singing_3-800x450.jpg"
-        width: 800
-        height: 450
         isCached: true
   - title: "AI now generates music with CD-quality audio from text, and it’s only getting better"
     excerpt: "If you'll recall, Stability AI is the company that helped fund the creation of Stable Diffusion, a latent diffusion image synthesis model released in August 2022. Not content to limit itself to generating images, the company branched out into audio by backing Harmonai, an AI lab that launched music generator Dance Diffusion in September."
@@ -303,6 +286,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "y+lP6pbk83GHlnVAj2i10XIoq7/+WCsZRix1lagTKy88EtIENB9hgrCP9g5cRIUSPp7qV+4Hlt3WI+4jj07JEs4XJDGndSpZJzMnBGqXoEHlIFU09w4F7vfN3QpmLwJ7MHZjLyREGv9sE1ZfTBrn+ve7Uf3CtrDKiELvIhhdDabRf5ujfINztZHSy2vgNM6+y3pdhZrmk00/CNwUz2Btt8KvzZYbrRfDsQCx0PRLpAh87FBYhCeCc9kG33LhtLIKKmKUOysyHtihbWy+DXyqIAPpgQTIBJqG2v3CC1EHxrD149JpC5/XUw8AcXK+6as4f6mf+9pToHhow968yWHXVA4lwyA/wpLKlCgfQopDeNzHVuJjksh66OMS4bHSDmWDnfYN84nRp1yZkwHsVz8u2tZmr5OGyPKZ5L7x8T3JC+eckLiutNG9oYY/1AxEPzcxrQnK2M7b5pHAZ85TOCcDJyKpDtTLxAaQEcVW97aMOvu2vD/jAJ4/V9Gxg896fKJFdWWeWYAadtK2sH/yRmQmJw==;1Qwdnzx/KoEsFoDYwPx9jw=="
+secured: "okGF9iX1HJdwYD5Lni/8o9OEJbt2mpefyBiu0t8V69qxHmy+1/siRk3PZ/i2diVeo0VMnyGBNQiNHW57PP67v5z1AnM1ZXPdqg9I6eSQS/WKMQ7Z56rwwBtZyK6J5KgRUgNZZOmzSwxMW/hPtrRTK4gt/WgFPWSEuFfa+MCUC7rxvnLDvm8OPtb5lsiXczzf1b1CuM5Ps4WJJkNjGBOY5iid9MZxzAQ3R1HHrEkTaWazbwxfoIyM7r6lzwBKEUjAYLVSZOhIlZt9QW7djwM5gYWOGNp6R1EM9/GIKwtcVJH68MIWIH+aQiZDEWT3UbesJ1lqDN0EOWr6OzfyRhwHfy/hiRHWr74PgvjDuydRCBg=;SQr/UOhq4BisYRVarsuFDA=="
 ---
 

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "AI chip startup Enfabrica raises $125 million, with backing from Nvidia"
+    excerpt: "But Nvidia's graphics processing unit (GPU) chips face a problem ... \"It's no secret to Nvidia or anybody else out there that in order for AI computing to become truly ubiquitous, the cost ..."
+    publishedDateTime: 2023-09-13T02:22:00Z
+    webUrl: "https://www.reuters.com/technology/ai-chip-startup-enfabrica-raises-125-mln-with-backing-nvidia-2023-09-12/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/5ccws5i9lMfwHWfZpThzWDo6z18=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PC3XN3V5DZJZPELJFOE4NKYHKA.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "AI Chip Startup Enfabrica Raises $125 Million, With Backing From Nvidia"
     excerpt: "(Reuters) - Enfabrica, a Silicon Valley chip startup working on networking chips for artificial intelligence data centers, said on Tuesday that it has raised $125 million in venture capital, with Nvidia joining as a strategic investor."
     publishedDateTime: 2023-09-12T10:26:00Z
@@ -156,15 +170,6 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 20
-  - title: "Nvidia's dominance in AI chips deters funding for startups"
-    excerpt: "Nvidia's supremacy in building computer chips for artificial intelligence has chilled venture funding for would-be rivals, investors said, with the number of U.S. deals this quarter falling 80% from a year ago."
-    publishedDateTime: 2023-09-11T13:05:00Z
-    webUrl: "https://www.aol.com/news/nvidias-dominance-ai-chips-deters-100502653.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 17
 
 secured: "SXBUbkQ/oIsjdlpCfmb6e0AxTsa8QUB5qLGPpNehF0/r/ql/ooa8BZia1tqtUUYgszI3aze4sGoU++L8xJbNbv9LfGeYIwaP7e1NUzU5Bn31NGTaDcInx1o7bi5suWGit58XkXkom8ubhwP3/UzlIOSc8o4/0xrJ5oMv1DURbBDe5LSa0a1KkI9a5sUhYO8vRP13SHNMd2PD+TqGFWcHU1CPT5SqkNljMDMPJnw0JMOSwcDmTQxws9kPXkWw+6l/z0cxwGNiXSaNhFV0esPE4IA6zqCZIWGSIUxXpeYzTmU3a70QBpvKQgPWoK1LSg+0540CuJUPgxUegaMTHY6MZQpH1v9IFzj/uwlvOip+vvA0ot/4/gEblI+Kx4MPk3I5UfJjTCPNEC3ytathefgknDLQRGCi/SiwgdqRP2BkA5pfNxcW9L3yKYskMnme2fQj8lzOsrLJJEcPN+Lop9MKCYbOtt2b7obj/xjeMCmWw3Zn87xnMH96ERQ+GsB7Q6F+Xqy0LDWPYOOpRF6NqZSpiQ==;jZIaEBNNW1R4tAhrhqAplw=="
 ---

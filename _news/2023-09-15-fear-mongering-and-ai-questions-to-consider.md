@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/15/fear-m
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/09/15/fear-mongering-and-ai-questions-to-consider/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -71,15 +71,6 @@ related:
       name: Phys.org
       domain: phys.org
     quality: 19
-  - title: "Artificial intelligence: Compliance considerations for provider organizations"
-    excerpt: "Artificial intelligence (AI) is nothing new to the healthcare industry, as many organizations and clinicians have utilized such tools in some capacity for many years. Imaging-related AI to support radiologists is not uncommon, to use one example."
-    publishedDateTime: 2023-09-11T11:56:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-compliance-2308492/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 16
 
 secured: "N9L3xUKXSy0YvEKbkLy2e7Sr3OOu5h39/gINKAAx/ItvDYLHwekeQUq2gBZfd10ogVQ9CLkicjRGOXcj0Gbs/V+zHtk5GT4qDLdo9yMjr6JmPUew1Ln4Ny8fmeK6z4VEhkFEtixRUSj17qJYCgm2t4DMc5OKU+QbcKwBNdXEwzMfIS5q9eZAKydZYb0I66WgN8li3fciSg4Fejw9Vme7A9KjMV6Y+fLe/y4y8bGomZsf/q0LzYWBxMhvD3gBhgn7YiQsna3oW/j3zyuqe+diEfWQYiEErTtLkpuYaOUVpoCEwRnQKzVTUdcZoGFORWkUZsPDwZ//JUvfJi3/T12zAKBfFwjfRmXkfvoGbsrobGlHf9gVoIzroi6gwrGtPzKnGGzrM3KMRNrcU6/OdEPZVMOb1jD3YwYTd0KyPa84hv08NqBNJFsePNjjUCJwe+vddIxZeEtvrls/9MWPwQ3wAqWjq81M6MvsB+xYBhux2kvFlbM1M8SjRD0GHdYqfqtr7wOW3KZLyeS7mNFuLaIaNA==;9hFRMpA2MJRVR0PCrzD6OA=="
 ---

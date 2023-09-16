@@ -2,59 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2023-08-08-ai-readiness-equip-your-team-with-the-skills-they-need-to-leverage-ai.md",
-      "title": "AI Readiness: Equip Your Team With The Skills They Need To Leverage AI",
-      "excerpt": "Leaders in every facet of an organization need to think about how to prepare their teams to get the most out of this cutting-edge technology. Here are two key strategies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/08/08/ai-readiness-equip-your-team-with-the-skills-they-need-to-leverage-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/08/08/ai-readiness-equip-your-team-with-the-skills-they-need-to-leverage-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f74b9824373186fc49d44bb/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/08/08/ai-readiness-equip-your-team-with-the-skills-they-need-to-leverage-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/08/08/ai-readiness-equip-your-team-with-the-skills-they-need-to-leverage-ai/amp/",
-      "publishedDateTime": "2023-08-08T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2023-08-08-speech-and-voice-recognition-technology-market-share-trends-2023-2030-regional-status-and-prospect.md",
       "title": "Speech and Voice Recognition Technology Market Share, Trends | 2023-2030 | Regional Status and Prospect",
       "excerpt": "The Global Speech and Voice Recognition Technology market is anticipated to rise at a considerable rate during the forecast period, between 2023 and 2030. In 2022, the market is growing at a ...",
@@ -1428,6 +1375,49 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-this-report-provides-an-overview-of-the-in-car-speech-recognition-market-covering-the-growth-factors-of-cagr-deployment-of-102-from-2023-to.md",
+      "title": "This report provides an overview of the In-Car Speech Recognition market covering the growth factors of CAGR deployment of 10.2% from 2023 to 2030",
+      "excerpt": "This &ldquo;In-Car Speech Recognition Market\" highlights key external drivers that affect the industry and assesses the current performance and revenue growth of the industry. This report helps to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33392653/this-report-provides-an-overview-of-the-in-car-speech-recognition-market-covering-the-growth-factor",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33392653/this-report-provides-an-overview-of-the-in-car-speech-recognition-market-covering-the-growth-factor",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33392653",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33392653",
+      "publishedDateTime": "2023-07-26T02:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

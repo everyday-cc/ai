@@ -2,6 +2,57 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2023-08-11-california-firefighters-use-ai-to-spot-wildfires.md",
+      "title": "California firefighters use AI to spot wildfires",
+      "excerpt": "California firefighters are using artificial intelligence to help spot wildfires, feeding video from more than 1,000 cameras strategically placed across the state into a machine that alerts first responders when to mobilize. Alex Cohen has more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/idsA$n?now=true",
+      "originalUrl": "https://www.reuters.com/video/watch/idsA$n?now=true",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ajo.prod.reuters.tv/api/v2/img/64d611b0e4b068bf74a564d1-1691750835338?location=LANDSCAPE",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-11T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-11-generative-ai-is-not-a-tool-its-an-employee.md",
       "title": "Generative AI Is Not A Tool; It's An Employee",
       "excerpt": "By taking the time to properly onboard and manage generative AI, you enable it to become a seamless member of your marketing team.",
@@ -1112,58 +1163,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-rasgo-launches-rasgo-ai-a-generative-ai-agent-for-enterprise-data-warehouse-analytics.md",
-      "title": "Rasgo launches Rasgo AI, a generative AI agent for enterprise data warehouse analytics",
-      "excerpt": "Rasgo said its AI employs GPT for “intelligent reasoning,” which enables it to think and act like a business analyst for data warehouses.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/enterprise-analytics/rasgo-launches-rasgo-ai-generative-ai-agent-enterprise-data-warehouse-analytics/",
-      "originalUrl": "https://venturebeat.com/enterprise-analytics/rasgo-launches-rasgo-ai-generative-ai-agent-enterprise-data-warehouse-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/08/rasgo.png?w=1200&strip=all",
-          "width": 1032,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-10T11:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -43,31 +43,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Speech and Voice Recognition Market | New Insight Report Hit Highest Growth Rate by 2030"
-    excerpt: "Global Speech and Voice Recognition Market research report provides facts and figures regarding manufacturer, type such as [Speech Recognition, Voice Recognition] application [Healthcare ..."
-    publishedDateTime: 2023-09-11T12:07:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/34448120/speech-and-voice-recognition-market-new-insight-report-hit-highest-growth-rate-by-2030"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34448120"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34448120"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 35
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Speech and Voice Recognition Technology Market Size 2023 Booming Worldwide by 2031"
-    excerpt: "Global Speech and Voice Recognition Technology market has witnessed a growth from USD million to USD million from 2017 to 2022. With a CAGR of this market is estimated to reach USD million in 2029 ..."
-    publishedDateTime: 2023-09-11T12:08:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/34436720/speech-and-voice-recognition-technology-market-size-2023-booming-worldwide-by-2031"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "KTBKwwVLwco9QIJjlM6+KHGzCZcJifdDeS7C/Ba8F5zNGREvRwJTA0aO+wFT860J7RBu54G9XtEhmthyutKwuf4h8YXZimfnUaD63xexol4Jc/OoRFySHhZYrNPemAK1He/9IternrJlaEpvjtgdDTTnq+Dh4AHpYi4tZ18xQUDKT08RM0jvAjV4qUb4B9r3Ob7E9O6AOw4X5ZJSMmkSCsrurUDi5vSK7UPw0eQ05By40AzqUvNvqNDo1vGoZBDnFp3I7UzL93/INeBpg3ip/XZ1j5wPqCH3fx3372ZN6QKmpucwu3VwPkFvEv2h4v25sT5bpODsLKooen/FpCbSzvAlJ5NrHkknPDWLKBw67QQ=;ojFa+9V+0jIkJzgsNiEpcw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-a
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts/amp/"
 type: article
 quality: 59
-heat: 129
+heat: 109
 published: true
 
 provider:
@@ -73,17 +73,6 @@ related:
         width: 540
         height: 405
         isCached: true
-  - title: "Artificial intelligence in hiring: risks for employers"
-    excerpt: "As many employers race to embrace artificial intelligence, there are risks to be aware of when it comes to using the technology in hiring."
-    publishedDateTime: 2023-09-11T11:33:00Z
-    webUrl: "https://www.bizjournals.com/nashville/news/2023/09/11/artificial-intelligence-hiring-risks-employers.html"
-    ampWebUrl: "https://www.bizjournals.com/nashville/news/2023/09/11/artificial-intelligence-hiring-risks-employers.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/nashville/news/2023/09/11/artificial-intelligence-hiring-risks-employers.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 39
   - title: "Some startup founders say VC influence is 'debilitating.' Here's why they are turning down outside funding and bootstrapping instead."
     excerpt: "Founders are turning down VC funding and instead boostrapping so they can keep control of their business plans and run lean teams."
     publishedDateTime: 2023-09-14T09:00:00Z
@@ -107,15 +96,6 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 19
-  - title: "How AI Can Help Cut Energy Costs While Meeting Ambitious ESG Goals"
-    excerpt: "Implementing AI can help companies slash energy spending and operate sustainably. Tackling these complex challenges by combining AI with human expertise can have an impact far beyond the organizations leading these efforts."
-    publishedDateTime: 2023-09-11T12:59:00Z
-    webUrl: "https://hbr.org/sponsored/2023/09/how-ai-can-help-cut-energy-costs-while-meeting-ambitious-esg-goals"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 17
 
 secured: "7BV+Ms8/GijJ1zcTIK4IiJ1mOX/pgqNnMN0J4Nj8Cj+bMSMWxOGaX/yhbZH9OJ69mLrumlLLj1MWBw6yayxyIndI4XrxdmIIkCeHxI9i/vgMGYKtPfcRFP0vzDJhs6NCdHUg4DkPaY0Hn6aLSw4LKWrxgXAFfK/HxXR6P6ZaSako44WJ0GrnzsKNFb702JA8sYuoZ2fDzUoqXNyKmOchGvva48R7631+ikgYWakPSvvCN7AN6Q9vX8SfPjh3J6sEFl+3cZl4mCDH5EtApviXdIsc+QJyQuSwBvyrQsDz4QORSMAV/J5akUpJ2DFy7P2haskHOyfhbwe9hyQFulH6wKf/EcBkkkzWSPcgKETnTLmnJzG9ujkEG1CclpBeDV4YW3YQkMdVgXP3TNw+2hzit18diL2IxD1T3Vo8aKWX5lgMbJowUdQhMcYtmGpsbuqnvQkdbxUVgaW+Pa5F8V/9beyBp9WGtuQVILLEU6H77uqkuxgfMsgAhW1bG6zCTDVxkFiJUeNNuWfdyfFuoFF6SQ==;z11ey9uXH0EF6rT7y/SRBw=="
 ---
