@@ -41,22 +41,6 @@ related:
         width: 1024
         height: 640
         isCached: true
-  - title: "An outline for teaching responsible use of AI in high schools"
-    excerpt: "The researchers recommend teachers follow the \"Ideas-Connections-Extensions framework\" (ICE) education model when instructing students on interacting with AI writing programs. In this model, students start to learn by grasping foundational ideas and their ..."
-    publishedDateTime: 2023-09-11T17:40:00Z
-    webUrl: "https://phys.org/news/2023-09-outline-responsible-ai-high-schools.html"
-    ampWebUrl: "https://phys.org/news/2023-09-outline-responsible-ai-high-schools.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-outline-responsible-ai-high-schools.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-in-school.jpg"
-        width: 2880
-        height: 1920
-        isCached: true
 
 secured: "Cr+XFr5wkYtUb3uc5pyuF1+H0LX8Z8StElUihiisEA0DmfEPM2YA1eBLtLO/yLGLpnbBvn0AX9v3d4i3rWagAYYJ/uJIdYREgvyCLpE8QmThOeRtnrtjC7ke/jfp9oZMiCT7n3shJJxMp4PbwrbbcCISvAvnkWiN5g7wNbK/zqgTtaYZ9iAq1AXWVLbFaU/svKCfdXYDJdab6OCZudkZX8WczJq22lCFATMD4350p6JD9+wwfSMjs/IPn8VMczadLA24mE487xAzBOTJ5p8KIPge8qWgmqsTysbA5/ep6cka562cTfbhczr7NaCG1tIBPR1BdzMB7DXo7adgFVvG+EnUwsyzaDhCu7wpbx7pq5SsN5S0N0iZjNjwGSj4kN78glg7Pw0w/KNy5pJfvK2BUUq59TteLr8fJoqkq1yxe3ZwCOYi49XQ/Ieswb2/RvgfJ/AOOELN9H7OoSPiU1DGG0Fh3IiLgYyv/LkPRuMG17nMvoVWgJofUrpYWMVbIdH+Q9fiPGKYK9HezmH/AnKikg==;fxZCoy9dP6lyzeVZ1TtrlA=="
 ---

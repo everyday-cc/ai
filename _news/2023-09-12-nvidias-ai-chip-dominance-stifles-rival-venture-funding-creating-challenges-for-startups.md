@@ -69,15 +69,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "AI Chip Startup Enfabrica Raises $125 Million, With Backing From Nvidia"
-    excerpt: "(Reuters) - Enfabrica, a Silicon Valley chip startup working on networking chips for artificial intelligence data centers, said on Tuesday that it has raised $125 million in venture capital, with Nvidia joining as a strategic investor."
-    publishedDateTime: 2023-09-12T10:26:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-09-12/ai-chip-startup-enfabrica-raises-125-million-with-backing-from-nvidia"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
   - title: "Nvidia-Backed AI Chip Networking Startup Enfabrica Lands $125M Series B"
     excerpt: "The deal is the latest example of investors backing the actual hardware, chips and other infrastructure needed for generative AI modeling."
     publishedDateTime: 2023-09-12T16:57:00Z
@@ -91,6 +82,20 @@ related:
       - url: "https://news.crunchbase.com/wp-content/uploads/computer-chip.jpg"
         width: 900
         height: 506
+        isCached: true
+  - title: "AI chip startup Enfabrica raises $125 million, with backing from Nvidia"
+    excerpt: "Enfabrica, a Silicon Valley chip startup working on networking chips for artificial intelligence data centers, said on"
+    publishedDateTime: 2023-09-12T10:26:00Z
+    webUrl: "https://kelo.com/2023/09/12/ai-chip-startup-enfabrica-raises-125-million-with-backing-from-nvidia/"
+    type: article
+    provider:
+      name: KELO
+      domain: kelo.com
+    quality: 54
+    images:
+      - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2023-09/12/2023-09-12T102646Z_1_LYNXMPEJ8B0AM_RTROPTP_3_ANT-AI.JPG"
+        width: 800
+        height: 534
         isCached: true
   - title: "Enfabrica Raises $125M Series B for AI Infrastructure Networking Chips"
     excerpt: "Enfabrica Corporation, a startup building converged networking and memory fabric silicon and software for AI and accelerated computing workloads, today announced its close of a $125 million Series B financing round."

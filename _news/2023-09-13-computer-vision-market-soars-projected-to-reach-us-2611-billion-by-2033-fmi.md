@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Internal Radiation Therapy Market Aims for US$2.1 Billion Milestone with 8.3% CAGR Growth by 2032 | FMI Insights"
-    excerpt: "The internal radiation therapy market had global sales of US$ 892.9 Mn in ... Over the past decade, healthcare sector has been expanding remarkably, following the advent of artificial Intelligence and the Internet of Things integrated medical devices."
-    publishedDateTime: 2023-09-11T13:16:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2023-09-11/internal-radiation-therapy-market-aims-for-us-21-billion-milestone-with-83-cagr-growth-by-2032"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 33
-    images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
-        isCached: true
   - title: "Healthcare Cognitive Computing Market Size is Expected to Reach USD 108.45 Billion by 2028, With 24.78% CAGR | Brandessence Market Research"
     excerpt: "Healthcare Cognitive Computing Market was valued at USD 23.03 Billion in 2021 and expected to reach USD 108.45 Billion by 2028, amplifying with a CAGR of 24.78% over 2021-2028. Elaborating the key trends and dynamics of Healthcare Cognitive Computing Market"
     publishedDateTime: 2023-09-14T17:30:00Z

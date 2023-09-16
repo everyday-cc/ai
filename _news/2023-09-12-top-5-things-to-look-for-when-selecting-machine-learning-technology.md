@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cio.com/article/652002/top-5-things-to-look-for-when-sel
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/652002/top-5-things-to-look-for-when-selecting-machine-learning-technology.html/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: CIO
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "An outline for teaching responsible use of AI in high schools"
-    excerpt: "The researchers recommend teachers follow the \"Ideas-Connections-Extensions framework\" (ICE) education model when instructing students on interacting with AI writing programs. In this model, students start to learn by grasping foundational ideas and their ..."
-    publishedDateTime: 2023-09-11T17:40:00Z
-    webUrl: "https://phys.org/news/2023-09-outline-responsible-ai-high-schools.html"
-    ampWebUrl: "https://phys.org/news/2023-09-outline-responsible-ai-high-schools.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-outline-responsible-ai-high-schools.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-in-school.jpg"
-        width: 2880
-        height: 1920
-        isCached: true
   - title: "Maxeda Technology: utilizing AI technology to optimize chip layout design, enhancing chip design efficiency and performance"
     excerpt: "With the rapid development of various digital innovations such as Generative AI, the demand for high-performance chips in the market has surged dramatically, leading to increased complexity in chip design."
     publishedDateTime: 2023-09-14T07:16:00Z

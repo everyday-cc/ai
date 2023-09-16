@@ -1,26 +1,27 @@
 ---
 category: news
 title: "Tech titans are giving senators advice on artificial intelligence in a closed-door forum"
-excerpt: "Senate Majority Leader Chuck Schumer has been talking for months about accomplishing a potentially impossible task: passing bipartisan legislation within the next year that encourages the rapid development of artificial intelligence and mitigates its biggest risks."
-publishedDateTime: 2023-09-13T18:28:00Z
-originalUrl: "https://www.chicagotribune.com/nation-world/tech-titans-senators-artifiicial-intelligence-20230913-uacancl5nfbbroed5kpcdq5mey-story.html"
-webUrl: "https://www.chicagotribune.com/nation-world/tech-titans-senators-artifiicial-intelligence-20230913-uacancl5nfbbroed5kpcdq5mey-story.html"
+excerpt: "\"It's going to be a fascinating group because they have different points of view,\" Schumer said in an interview with The Associated Press before the event. \"Hopefully we can weave it into a little bit of some broad consensus."
+publishedDateTime: 2023-09-13T20:15:00Z
+originalUrl: "https://sentinelcolorado.com/uncategorized/tech-titans-are-giving-senators-advice-on-artificial-intelligence-in-a-closed-door-forum/"
+webUrl: "https://sentinelcolorado.com/uncategorized/tech-titans-are-giving-senators-advice-on-artificial-intelligence-in-a-closed-door-forum/"
 type: article
-quality: 28
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
+  name: Sentinel Colorado
+  domain: sentinelcolorado.com
 
 topics:
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/vFnUsBA1w0sBUMvckTOgwa5fEw8=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/VZCWBJHYT4LSPTK3V2V6HHAUNM.jpg"
-    width: 1200
-    height: 630
+  - url: "https://sentinelcolorado.com/wp-content/uploads/2023/09/AP23256017020655-scaled.jpg"
+    width: 2560
+    height: 1707
     isCached: true
 
 related:
@@ -175,6 +176,20 @@ related:
       name: BBC
       domain: bbc.com
     quality: 47
+  - title: "An AI reality check"
+    excerpt: "While thousands and thousands of people have been working with artificial intelligence for years ... at AI’s medical applications and drug development — how you can tailor therapy and predict response to treatment. If humans ask the right questions ..."
+    publishedDateTime: 2023-09-11T17:00:00Z
+    webUrl: "https://www.mmm-online.com/home/channel/features/an-ai-reality-check/"
+    type: article
+    provider:
+      name: MM&M
+      domain: mmm-online.com
+    quality: 39
+    images:
+      - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2023/09/MMM_September-2023-_Web-Art0011280-x-900.jpg"
+        width: 1024
+        height: 720
+        isCached: true
   - title: "Softserve Launches Generative Ai Lab"
     excerpt: "Specialized lab expands SoftServe's AI/ML capabilities to accelerate Generative AI value discovery and real-world adoptionSINGAPORE - Media"
     publishedDateTime: 2023-09-12T11:54:00Z
@@ -231,6 +246,15 @@ related:
         width: 640
         height: 488
         isCached: true
+  - title: "Guidelines on artificial intelligence"
+    excerpt: "Artificial intelligence is rapidly evolving and transforming industries, including the media. Here is Rappler's approach to AI. Recognizing the rise of artificial intelligence, Rappler is taking ..."
+    publishedDateTime: 2023-09-12T09:24:00Z
+    webUrl: "https://www.rappler.com/about/guidelines-artificial-intelligence-usage-development/"
+    type: article
+    provider:
+      name: Rappler
+      domain: rappler.com
+    quality: 19
   - title: "Swoop Launches Predictive AI Adherence Targeting"
     excerpt: "Swoop Predictive AI Adherence Targeting uncovers the patients most likely to become non-adherent within the next 30 days for highly precise marketing."
     publishedDateTime: 2023-09-12T16:00:00Z
@@ -286,6 +310,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "okGF9iX1HJdwYD5Lni/8o9OEJbt2mpefyBiu0t8V69qxHmy+1/siRk3PZ/i2diVeo0VMnyGBNQiNHW57PP67v5z1AnM1ZXPdqg9I6eSQS/WKMQ7Z56rwwBtZyK6J5KgRUgNZZOmzSwxMW/hPtrRTK4gt/WgFPWSEuFfa+MCUC7rxvnLDvm8OPtb5lsiXczzf1b1CuM5Ps4WJJkNjGBOY5iid9MZxzAQ3R1HHrEkTaWazbwxfoIyM7r6lzwBKEUjAYLVSZOhIlZt9QW7djwM5gYWOGNp6R1EM9/GIKwtcVJH68MIWIH+aQiZDEWT3UbesJ1lqDN0EOWr6OzfyRhwHfy/hiRHWr74PgvjDuydRCBg=;SQr/UOhq4BisYRVarsuFDA=="
+secured: "cE5W5I5J0zfZ9y7xx6wXgabn6lgGGkLucaTAbSCbyq3jkQBP7DxYydIRVoeFjCWyRghqqNLeB78VgMzTKiWsvMxPGm5QqCe4KDET76gvo2kX6mxZFxQZRucTaLno4fWeoMheRS984bGESxNAAxg5DhiOUPWnEDdZM7Y81bzalk/y11VS1BxCrL5lPNk9J1A6JNRR7nviCKSXpy+VkQlPBsN0+UOi8tXxbDElvnumisXVfzMJsob6gdES7OQGrd3xPlDhmcec/kLlqgZQ8AfIQ0G0dUdWVr8r3sPT+2snIM7tQNr4J2m4RPIAFkXho5u6VDuTmyHjQZFNkl6H2hyAJS4zcBPtooD8IyLYeLNiGdw=;aZPKSgSnCfWeQlSr6V/TKg=="
 ---
 

@@ -39,20 +39,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Bad science: AI used to target kids with disinformation"
-    excerpt: "Examples of conspiracy theories are the existence of electricity-producing pyramids, the denial of human-caused climate change and the existence of aliens. Our analysis shows YouTube recommends these \"bad science\" videos to children alongside legitimate educational content."
-    publishedDateTime: 2023-09-14T11:49:00Z
-    webUrl: "https://www.bbc.co.uk/newsround/av/66809902"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 37
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/20BA/production/_131087380_p0gdhrdj.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "ldq2YsIB2fpk+jCAbBLRuVjWBcG9Ys8apAjnaV5PHdERIJSDTV+cs1IsSV88XqT8uJqsbZT470LDuzGV827FkJ3+KQAVxDf6pQV/jkxcUzIxUQ3/T6h9r7loYqd4EEMvDtjY1ktRAL1sX7Bo5JK5Uce3pepS7VoinpiY+bbexjUpHGK4TtMVr2Wg8S3PX64SsOACnHnQ6Y3nLuh60J0eO/4R/5bN5SUxTtwDJjf6bGIsUrnxfLeT5pGbQWrqjHK09l3FUqXbxqGPD0z4ReFwFSftJcpSeW3buhRF7RDcmWSQ7dL2yrEZ3k0Xa7uqf9E6geNPae1qwQeKx73ezabCGGtrFkDDmTpSfOtAbS/hov0=;rBR94sDAp1iy3gKZM5XM3g=="
 ---

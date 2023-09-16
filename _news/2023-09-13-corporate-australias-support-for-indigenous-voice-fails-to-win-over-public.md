@@ -9,7 +9,7 @@ ampWebUrl: "https://www.aljazeera.com/amp/economy/2023/9/13/corporate-australia-
 cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2023/9/13/corporate-australia-backed-a-voice-on-indigenous-rights-it-now-faces-defeat"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -57,6 +57,17 @@ related:
         width: 1312
         height: 1325
         isCached: true
+  - title: "‘Not easy’: Country’s Voice lesson for Australia"
+    excerpt: "As Australians gear up to have their say on an Indigenous Voice to parliament in a matter of weeks, one country has been reaping the rewards of a similar style model for decades."
+    publishedDateTime: 2023-09-16T06:03:00Z
+    webUrl: "https://www.news.com.au/national/politics/not-easy-countrys-voice-lesson-for-australia/news-story/8cabe1633049d004da09f6ca625d7c63"
+    ampWebUrl: "https://www.news.com.au/national/politics/not-easy-countrys-voice-lesson-for-australia/news-story/8cabe1633049d004da09f6ca625d7c63?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/national/politics/not-easy-countrys-voice-lesson-for-australia/news-story/8cabe1633049d004da09f6ca625d7c63?amp"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 24
 
 secured: "hflV162pyA49VfKoRcxjqpcI01pVyHm5vJTT+T3qvznzxeat3Kz5QABNywkqNt9wacQDDoLOCr5SS9XOMO4qRBvL3XZcRw08tssConhNQwo16TRA5wuTeOy7UvMbTf//dEcpqNPVYG6RvfIqpPp0Ju88h5WzYHMvpzENLsxtQEKP4xSMhgPkhMicvkFPera82FxlzqOu7g0CAKrCfEekanQiFq3nPPlS5NSdHkEvt49DB8xEgHSsEzkhQSO9CmaoX6rJWC/Di9zV3zMapbySrZbZN3M76qCohwi4EFrw72tBPVBgCsv5HzIIeJBBkdJAc3nzegQkSwAa4u+iJ6SDwJg6h7+gaUQGyFt3ZRfsFDU=;zt2ayNZ/mmIEwdyRhQwutQ=="
 ---

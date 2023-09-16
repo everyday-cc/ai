@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/09/11/ai-app-character-ai-is-catching-up
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/11/ai-app-character-ai-is-catching-up-to-chatgpt-in-the-u-s/amp/"
 type: article
 quality: 87
-heat: 307
+heat: 297
 published: true
 
 provider:
@@ -135,22 +135,6 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-09/chat-gpt-diagnosis-jp-230911-f1cc83.jpg"
         width: 3024
         height: 4032
-        isCached: true
-  - title: "A boy saw 17 doctors over 3 years for chronic pain. ChatGPT found the right diagnosis"
-    excerpt: "Alex experienced pain that stopped him from playing with other children but doctors had no answers to why. His frustrated mom asked ChatGPT for help."
-    publishedDateTime: 2023-09-11T14:42:00Z
-    webUrl: "https://www.today.com/health/mom-chatgpt-diagnosis-pain-rcna101843"
-    ampWebUrl: "https://www.today.com/today/amp/rcna101843"
-    cdnAmpWebUrl: "https://www-today-com.cdn.ampproject.org/c/s/www.today.com/today/amp/rcna101843"
-    type: article
-    provider:
-      name: Today
-      domain: today.com
-    quality: 52
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-08/doctors-ChatGPT-2x1-zz-230825-43e31c.jpg"
-        width: 2400
-        height: 1200
         isCached: true
   - title: "Harnessing AI And ChatGPT Technology: The Next Industrial Revolution"
     excerpt: "The future is here—let's embrace it and drive the industrial revolution of tomorrow. And remember: Be Courageous! Be Digital! Be Remarkable!"

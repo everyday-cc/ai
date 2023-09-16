@@ -200,15 +200,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Generative AI in production: Rethinking development and embracing best practices"
-    excerpt: "For apps built on LLMs, the engineering mindset of predictable debugging and software testing and monitoring is suddenly challenged."
-    publishedDateTime: 2023-09-11T13:38:00Z
-    webUrl: "https://venturebeat.com/ai/generative-ai-in-production-rethinking-development-and-embracing-best-practices/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 42
   - title: "6 Generative AI Jobs in India"
     excerpt: "The role aims to contribute to Apple’s generative AI-based developer platform, collaborating with data scientists and software engineers to provide ML solutions for internal use, with a focus on improving the developer experience."
     publishedDateTime: 2023-09-13T07:31:00Z
@@ -271,15 +262,6 @@ related:
         width: 346
         height: 250
         isCached: true
-  - title: "Emagia Introduces GiaGPT: A Groundbreaking Generative AI Solution for Finance Operations"
-    excerpt: "Hyderabad (Telangana) [India], September 11: Today, Emagia, a leading innovator in Autonomous Finance solutions, announced the launch of GiaGPT, their latest Generative AI solution tailored for finance operations executives."
-    publishedDateTime: 2023-09-11T14:14:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20230911/4118006.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 25
   - title: "Netcracker Expands Collaboration with Microsoft to Deliver High-Value Generative AI Solutions to Telecom Operators"
     excerpt: "Netcracker Technology announced today that it has expanded its partnership with Microsoft to support Netcracker's recently launched GenAI Telco Solution, which unlocks the potential of generative AI technology to deliver exceptional business value to the telecom industry."
     publishedDateTime: 2023-09-13T10:12:00Z

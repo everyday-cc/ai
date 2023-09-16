@@ -144,22 +144,6 @@ related:
         width: 3024
         height: 4032
         isCached: true
-  - title: "A boy saw 17 doctors over 3 years for chronic pain. ChatGPT found the right diagnosis"
-    excerpt: "Alex experienced pain that stopped him from playing with other children but doctors had no answers to why. His frustrated mom asked ChatGPT for help."
-    publishedDateTime: 2023-09-11T14:42:00Z
-    webUrl: "https://www.today.com/health/mom-chatgpt-diagnosis-pain-rcna101843"
-    ampWebUrl: "https://www.today.com/today/amp/rcna101843"
-    cdnAmpWebUrl: "https://www-today-com.cdn.ampproject.org/c/s/www.today.com/today/amp/rcna101843"
-    type: article
-    provider:
-      name: Today
-      domain: today.com
-    quality: 52
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-08/doctors-ChatGPT-2x1-zz-230825-43e31c.jpg"
-        width: 2400
-        height: 1200
-        isCached: true
   - title: "Claude Pro vs. ChatGPT Plus: Which AI chatbot is better for you?"
     excerpt: "Claude Pro is a new paid subscription service from AI startup Anthropic and is set to compete directly with OpenAI's ChatGPT Plus."
     publishedDateTime: 2023-09-15T13:00:00Z

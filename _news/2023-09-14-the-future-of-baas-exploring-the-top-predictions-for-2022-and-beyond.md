@@ -78,15 +78,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How To Use AI To Your Business’s Advantage"
-    excerpt: "When incorporated wisely, AI technologies open new horizons for delivering products that stand out on the market and bring unique value to your customers."
-    publishedDateTime: 2023-09-11T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/how-to-use-ai-to-your-businesss-advantage/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "AI Trends In International Business: Insights from Three Leaders"
     excerpt: "Three industry leaders in AI stand out by demonstrating their shared backgrounds and training that led them each to have unparalleled success in AI: Kai-Fu Lee, Harry Shum and Qi Lu."
     publishedDateTime: 2023-09-13T18:52:00Z

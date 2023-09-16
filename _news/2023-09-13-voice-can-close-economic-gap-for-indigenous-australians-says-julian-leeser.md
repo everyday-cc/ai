@@ -61,6 +61,17 @@ related:
         width: 1312
         height: 1325
         isCached: true
+  - title: "‘Not easy’: Country’s Voice lesson for Australia"
+    excerpt: "As Australians gear up to have their say on an Indigenous Voice to parliament in a matter of weeks, one country has been reaping the rewards of a similar style model for decades."
+    publishedDateTime: 2023-09-16T06:03:00Z
+    webUrl: "https://www.news.com.au/national/politics/not-easy-countrys-voice-lesson-for-australia/news-story/8cabe1633049d004da09f6ca625d7c63"
+    ampWebUrl: "https://www.news.com.au/national/politics/not-easy-countrys-voice-lesson-for-australia/news-story/8cabe1633049d004da09f6ca625d7c63?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/national/politics/not-easy-countrys-voice-lesson-for-australia/news-story/8cabe1633049d004da09f6ca625d7c63?amp"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 24
 
 secured: "JZCzz1/gvpGXC2B4rO4bQFOt/vFhuMskOq8HqQmqK4KRzTCDBc9O6lh1QEPEWKmcWSSEA/mkuCNCLc2HSBZDMfUBT2cWzSFGNAhycSVFU0Ppwpdq1adzxKiVduHcnxyhNMfzrLmw6+4YXK0uhtDQfJTcotuDR5XkiJhyfLJAYbYRedDJbSv7r4mYA28wBEqqgIkf7oO7ToXeK78QG2VC7gucDm0LSzbXGg4mYprsLjNI6Cw4GnYo67AAgoOOn7cKSDLLwrak8xMgIlwxRBvmv+Iv/yTDRnRreMDShKVm+UgkKhemGKYOjs4WOzh6cQRjr3IOAeAhcKZldE5RWLblKFRweVNA7aZR/RI/ABmmg5orz334V7w3iSo0cpXX45tf2EahuUuKQJ+Y2E2K862ws29Exyrp5ziWdc0Jl+G1qJ18cjQydBxSpLIZKrTgy5r6V3TPjDwCujBJsbLMxEqoZXV3VJkzrOykOuisoIJ4YaBWoTrsGsEeGFILDaXGXC4iCegN76APpLKmWcVJrFZfYw==;aBdoT8o5/xwr4fOg0tlBVg=="
 ---

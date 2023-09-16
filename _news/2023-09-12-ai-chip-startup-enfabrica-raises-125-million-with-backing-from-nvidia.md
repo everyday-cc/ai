@@ -1,26 +1,28 @@
 ---
 category: news
-title: "AI Chip Startup Enfabrica Raises $125 Million, With Backing From Nvidia"
-excerpt: "(Reuters) - Enfabrica, a Silicon Valley chip startup working on networking chips for artificial intelligence data centers, said on Tuesday that it has raised $125 million in venture capital, with Nvidia joining as a strategic investor."
+title: "AI chip startup Enfabrica raises $125 million, with backing from Nvidia"
+excerpt: "Enfabrica, a Silicon Valley chip startup working on networking chips for artificial intelligence data centers, said on"
 publishedDateTime: 2023-09-12T10:26:00Z
-originalUrl: "https://money.usnews.com/investing/news/articles/2023-09-12/ai-chip-startup-enfabrica-raises-125-million-with-backing-from-nvidia"
-webUrl: "https://money.usnews.com/investing/news/articles/2023-09-12/ai-chip-startup-enfabrica-raises-125-million-with-backing-from-nvidia"
+originalUrl: "https://kelo.com/2023/09/12/ai-chip-startup-enfabrica-raises-125-million-with-backing-from-nvidia/"
+webUrl: "https://kelo.com/2023/09/12/ai-chip-startup-enfabrica-raises-125-million-with-backing-from-nvidia/"
 type: article
-quality: 64
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KELO
+  domain: kelo.com
 
 topics:
-  - AI
   - AI Hardware
+  - AI
+
+images:
+  - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2023-09/12/2023-09-12T102646Z_1_LYNXMPEJ8B0AM_RTROPTP_3_ANT-AI.JPG"
+    width: 800
+    height: 534
+    isCached: true
 
 related:
   - title: "AI chip startup Enfabrica raises $125 mln, with backing from Nvidia"
@@ -170,6 +172,6 @@ related:
       domain: siliconangle.com
     quality: 20
 
-secured: "ORqt+lElsjB4s4zLh7/Yi0V316tJwBrXSgjYsSmZmbSIhY/hNEBudHZUk06YZfBvZFaBvjyvdfthQbwIf9ikwTtmMHqBaXNlPwD0tpU4b/7IqwMebSsByuQ1/IjdVg3b/2OkqPnXhuCdhK9TeCktaaiGvq/oT5NSZV/X+w1Mr8RsjXXXl6Ri0G2wqFZVsu97HqmEieoWuukgmbOUYE3AfeXaIjRTkvUr+KFAV0hh6DMDjawomKIvl7oPB2g7pvWmg1OCp6zvuupDB+Q1OeS5NtB79R1aUWbbee0loQEmZX7LZ5Di7D/U/4AsPHHA8O8s/PVvw089bwG10qJpzbfZS3g83PNo8DfTPACUINNZvISgdWl9WvSVne4klyKUq9+bq0KUlCUHH2CYDbShvjqPT4FmARUqtVwSPkm/r/aRew+/HSiSKP/tHn6oNBYJHcq6pS0LZS7xNZLKcwW1pES3Pr9mJPEFRtoLEqxCbASiiEw6R0RBPayltUKQVG2cJZ7pEbefL6W+lj0q3TmKAfUqAQ==;CGatrNW+QXzg0QqVV0Dr3w=="
+secured: "V0d5E/I7iRWs9KC9sOgqXMgod3QzgvLily4QCanF1nxgfMksszYXaH0uCR9pbCXyq3hTeLYJ77tnni+mMv5272ltATsX+U1VNiPTHfWzYHp2qw1VEsHO6RIG24x1Hwpw/7N7hOOcfxV2vXjY6koq2FuqvbGXQNoqo0IZgNNVbGPPNPyvAAM4Ep4eHE0LyyqbHqmVJtZ3edTVAtIwrKKaBuDl9evEJzVY3KPO7bKxUpHoAmLEg9J0v6F4ZsbguBJO+6I0EpNMT2xNgqbsSslp/obcNvhWaLzkhTnyX8bKmP8KIyOS2LhVoJt3A9c6vy6wRIe40TCcqMAmUyT1dZvHPTjIRCr4z5vYFqwCGyyv02A=;l8HvvXRBhDwAv6uf1Ab6bA=="
 ---
 

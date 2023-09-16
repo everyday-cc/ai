@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/business-news/irs-uses-ai-to-fight-ta
 webUrl: "https://www.entrepreneur.com/business-news/irs-uses-ai-to-fight-tax-evasion-millionaires-dodging-taxes/458884"
 type: article
 quality: 79
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/03dy9aKYyJ9IxDEs7NsiNY7-1.fit_lim.size_1200x630.v1694438424.jpg"
         width: 1120
         height: 630
-        isCached: true
-  - title: "Scientists Are Beginning to Learn the Language of Bats and Bees Using AI"
-    excerpt: "They record sound 24-7 and create oodles of data, which is where artificial intelligence comes in. Researchers can apply natural language processing algorithms like the ones used by Google translate to detect patterns in these recordings and begin to ..."
-    publishedDateTime: 2023-09-11T14:00:00Z
-    webUrl: "https://www.scientificamerican.com/podcast/episode/scientists-are-beginning-to-learn-the-language-of-bats-and-bees-using-ai/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 38
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/DE4595F2-0F18-4036-A1784E999D4D9485.gif"
-        width: 790
-        height: 496
         isCached: true
   - title: "Artificial intelligence among tools IRS will use for enforcement push"
     excerpt: "AI will be part of a new tax-enforcement effort that will target high-income earners, partnerships, and large corporations."

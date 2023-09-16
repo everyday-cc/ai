@@ -43,6 +43,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Speech-To-Text Api Market To Reach Usd 12.1 Billion By 2031: Growth Opportunities, Trends & Industry Analysis"
+    excerpt: "Speech-to-Text API Market Value The speech-to-text (API) is a programming interface that enables the utilization of speech synthesis and"
+    publishedDateTime: 2023-09-16T07:26:00Z
+    webUrl: "https://menafn.com/1107080655/Speech-To-Text-Api-Market-To-Reach-Usd-121-Billion-By-2031-Growth-Opportunities-Trends-Industry-Analysis"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 5
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?818477"
+        width: 444
+        height: 250
+        isCached: true
 
 secured: "KTBKwwVLwco9QIJjlM6+KHGzCZcJifdDeS7C/Ba8F5zNGREvRwJTA0aO+wFT860J7RBu54G9XtEhmthyutKwuf4h8YXZimfnUaD63xexol4Jc/OoRFySHhZYrNPemAK1He/9IternrJlaEpvjtgdDTTnq+Dh4AHpYi4tZ18xQUDKT08RM0jvAjV4qUb4B9r3Ob7E9O6AOw4X5ZJSMmkSCsrurUDi5vSK7UPw0eQ05By40AzqUvNvqNDo1vGoZBDnFp3I7UzL93/INeBpg3ip/XZ1j5wPqCH3fx3372ZN6QKmpucwu3VwPkFvEv2h4v25sT5bpODsLKooen/FpCbSzvAlJ5NrHkknPDWLKBw67QQ=;ojFa+9V+0jIkJzgsNiEpcw=="
 ---

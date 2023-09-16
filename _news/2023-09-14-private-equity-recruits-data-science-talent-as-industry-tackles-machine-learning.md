@@ -42,20 +42,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "TargetRecruit Unveils Copilot: Revolutionizing Artificial Intelligence for the Staffing and Recruiting Industry"
-    excerpt: "Copilot represents a significant milestone in TargetRecruit's commitment to excellence where the power of Artificial Intelligence is propelling staffing and recruiting software into an era of unparalleled efficiency and innovation. As we move forward, we are excited to continue leading the way in recruitment software and artificial intelligence."
-    publishedDateTime: 2023-09-11T14:22:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/09/11/9878148.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
-    images:
-      - url: "https://mma.prnewswire.com/media/2203990/4259906/TargetRecruit_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "Kxiar8v0bujChy+ei4SOdhLk3uBGRBx0sUDeviVJMOMYslisYGUfgr0c0lDMGbiQVjiVCjM1ANMStFAYYhHfFmXuJ3kgO59qTc8TM1Sn0T/cZ9eLpu/fyrIdw0orx4PKoFzW75mliT45Hr01tNDQTg20r5ZyX8LlAOnFvbTMYF5NfHtH9YY0BSoXHrcWVG3SBvrw32Jm9QEXoO4UMyt7kFubt/pHvwva8hdjFU+VDgLlFCQTE5KUnJ9AkZ4nMO9ofHe0D3cRxOTG32ZQcncn4FziETzl67++5i5TrRTCoxiuk8Yhr0asbpDjCHn4o32mfSrlA8GiY5hiSLswdv7dcTeCdycXaD5oIP1DZgZGM5nyaSpKwDex0qXkXeGDhjZ7CLYHAbo49FLvtf1oh2JPlZ3sPUcMkRC3AEW8KLE1H4fjeGcztXxhvmC7Atxc1NBNVDdo1QtfiFPB4anCld5t8qiRW0GddmG1XMr16ylp5GI7wSCQUKRAIqYzPFQjfQ13dwta5b3a658/Q9Pmfi65eA==;59ZuSoBCPd/23jB/iIVk8Q=="
 ---

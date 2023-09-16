@@ -207,15 +207,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Generative AI in production: Rethinking development and embracing best practices"
-    excerpt: "For apps built on LLMs, the engineering mindset of predictable debugging and software testing and monitoring is suddenly challenged."
-    publishedDateTime: 2023-09-11T13:38:00Z
-    webUrl: "https://venturebeat.com/ai/generative-ai-in-production-rethinking-development-and-embracing-best-practices/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 42
   - title: "Generative AI in Manufacturing : A transformational alliance"
     excerpt: "The manufacturing industry in Bharat can attempt to deploy basic AI / ML techniques far more creatively than it does today"
     publishedDateTime: 2023-09-13T05:04:00Z
@@ -264,15 +255,6 @@ related:
         width: 346
         height: 250
         isCached: true
-  - title: "Emagia Introduces GiaGPT: A Groundbreaking Generative AI Solution for Finance Operations"
-    excerpt: "Hyderabad (Telangana) [India], September 11: Today, Emagia, a leading innovator in Autonomous Finance solutions, announced the launch of GiaGPT, their latest Generative AI solution tailored for finance operations executives."
-    publishedDateTime: 2023-09-11T14:14:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20230911/4118006.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 25
   - title: "Adobe generative AI tool Firefly is now generally available"
     excerpt: "The new generative AI image creation and editing tool has been trained on stock images and content in the public domain."
     publishedDateTime: 2023-09-13T09:59:00Z

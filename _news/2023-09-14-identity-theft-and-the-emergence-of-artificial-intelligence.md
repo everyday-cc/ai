@@ -9,7 +9,7 @@ ampWebUrl: "https://www.khon2.com/local-news/identity-theft-and-the-emergence-of
 cdnAmpWebUrl: "https://www-khon2-com.cdn.ampproject.org/c/s/www.khon2.com/local-news/identity-theft-and-the-emergence-of-artificial-intelligence/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "\"The perils of dabbling\": AI and the practice of law"
-    excerpt: "Tony Petruzzi and Helena Guye of Tucker Ellis discuss ethical concerns surrounding the use of AI systems that are especially relevant to the practice of law."
-    publishedDateTime: 2023-09-11T13:30:00Z
-    webUrl: "https://www.reuters.com/legal/legalindustry/perils-dabbling-ai-practice-law-2023-09-11/"
+  - title: "AI and sound - helping firms build their own 'sonic identity'"
+    excerpt: "Amp uses AI to generate all kinds of sounds for companies, from small bursts of noise when an app launches, to the sound of a bank card transaction completing, to longer compositions for things like podcasts and social media videos. This is what he calls a brand's \"sonic identity\"."
+    publishedDateTime: 2023-09-13T23:06:00Z
+    webUrl: "https://www.bbc.co.uk/news/business-66330890"
+    ampWebUrl: "https://www.bbc.co.uk/news/business-66330890.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-66330890.amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
     images:
-      - url: "https://www.reuters.com/resizer/mwi8AscWpC3YIK-8Mgz5f79k1Ro=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YPONJMTZVNLOPJCN6EO5HVPMQM.jpg"
-        width: 1200
-        height: 628
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/16CA3/production/_131074339_index_ai_adverts_976x549.png"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "5y/RiNALwH43W6xrEpsRtnPApddqescmLIQCpZ1Y9cPDde+Z0nS8yUVBiA5kN56ggp26en19kxtGExakcvvCeJakuACykxcTG4/oS4+Zz1bqIkv5MSlIF98TnIBjh1LYLpwlZBQ8SRW3xac3TYH1JT31x9J84933sNg0AGANY0NURRO8pgEUrVqLSn8gi0GYTMmTxIU0EB+B9CQj5xqEpWNbSyI6tuDLpFML8KUarnMYYQBBkHKKebgIUSndmgK9Gl2pS5oP3D2JcYbcK/zXWmnBlJ3zBCNZRBPQbdsIejXpDaMj1sWCzp5ciw2I6iGrdJzUMcnbt885OhXgpeM6Paho8gDY38Kgn7jKTW3OQdi9J1FVlNpXZMrwPxczryMOkVAd6WQEmYC/AcVGuE+jEklCwVXo76iQH/kei4OtZQqbQKv4hXTuistwVARUiMCU6ZFJ4UkqG6p5jbX1O+4cGNfn9vtKpcYQmjdtFcyO77K8iQW2Nb25qmSpXumexJqWJNiZ/WB4B7ByNoak8CzZYQ==;ljRO8ZDCPzIk53aj/2ssGw=="

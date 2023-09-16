@@ -1,28 +1,24 @@
 ---
 category: news
-title: "Less 1:N facial recognition searches, data sharing proposed in Australia gov’t ID bills"
-excerpt: "The Identity Verification Services Bill 2023 would block most of the planned government uses of one-to-many facial recognition."
-publishedDateTime: 2023-09-13T20:09:00Z
-originalUrl: "https://www.biometricupdate.com/202309/less-1n-facial-recognition-searches-data-sharing-proposed-in-australia-govt-id-bills"
-webUrl: "https://www.biometricupdate.com/202309/less-1n-facial-recognition-searches-data-sharing-proposed-in-australia-govt-id-bills"
+title: "‘Not easy’: Country’s Voice lesson for Australia"
+excerpt: "As Australians gear up to have their say on an Indigenous Voice to parliament in a matter of weeks, one country has been reaping the rewards of a similar style model for decades."
+publishedDateTime: 2023-09-16T06:03:00Z
+originalUrl: "https://www.news.com.au/national/politics/not-easy-countrys-voice-lesson-for-australia/news-story/8cabe1633049d004da09f6ca625d7c63"
+webUrl: "https://www.news.com.au/national/politics/not-easy-countrys-voice-lesson-for-australia/news-story/8cabe1633049d004da09f6ca625d7c63"
+ampWebUrl: "https://www.news.com.au/national/politics/not-easy-countrys-voice-lesson-for-australia/news-story/8cabe1633049d004da09f6ca625d7c63?amp"
+cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/national/politics/not-easy-countrys-voice-lesson-for-australia/news-story/8cabe1633049d004da09f6ca625d7c63?amp"
 type: article
-quality: 31
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Biometric Companies
-  domain: biometricupdate.com
+  name: Couriermail
+  domain: news.com.au
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
-
-images:
-  - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/07/10101537/face-biometric-close-up.jpg"
-    width: 1312
-    height: 1325
-    isCached: true
 
 related:
   - title: "Corporate Australia’s support for Indigenous Voice fails to win over public"
@@ -57,18 +53,21 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "‘Not easy’: Country’s Voice lesson for Australia"
-    excerpt: "As Australians gear up to have their say on an Indigenous Voice to parliament in a matter of weeks, one country has been reaping the rewards of a similar style model for decades."
-    publishedDateTime: 2023-09-16T06:03:00Z
-    webUrl: "https://www.news.com.au/national/politics/not-easy-countrys-voice-lesson-for-australia/news-story/8cabe1633049d004da09f6ca625d7c63"
-    ampWebUrl: "https://www.news.com.au/national/politics/not-easy-countrys-voice-lesson-for-australia/news-story/8cabe1633049d004da09f6ca625d7c63?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/national/politics/not-easy-countrys-voice-lesson-for-australia/news-story/8cabe1633049d004da09f6ca625d7c63?amp"
+  - title: "Less 1:N facial recognition searches, data sharing proposed in Australia gov’t ID bills"
+    excerpt: "The Identity Verification Services Bill 2023 would block most of the planned government uses of one-to-many facial recognition."
+    publishedDateTime: 2023-09-13T20:09:00Z
+    webUrl: "https://www.biometricupdate.com/202309/less-1n-facial-recognition-searches-data-sharing-proposed-in-australia-govt-id-bills"
     type: article
     provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 24
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 31
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/07/10101537/face-biometric-close-up.jpg"
+        width: 1312
+        height: 1325
+        isCached: true
 
-secured: "2UPvp+R+zNnKYX3//T2dHZQTm1RiKYSFdLCfU5RVf9qwxZDSQ2pq+MCtPBd/pqk1+vNAWRFoKdcOIf4E48lFUcDRWS6Tp5K0CiKkdTs9p5ruX2SB0h+OhUvNrNdtLDsPUi3Hb8H3PdEPfFTNgP8tBQ/59k/TruXP4LHeXfgP4uBeGzZ42weuPsZqIKqTj9EapGcZK4jzLa0hF/knu2SEkT07i2/4K5JYIrScI9OgZF3Jcb8Ouv0Lp2tCZzgzkQqkRRccNdIP0vqLS7Q/kZBWRWAOCeH7xu6zgThnFEHgeJR6XU1KY6rMEzvxkJagCdsFOtMGs+pWFPZD7vGAE6S3s01ObHnzHd0mecOrQhYpWTAtZIFFlhxzGwrILbArZSfIFo90UihMwxthllTV/4NzTdpKExAoczN3iqL6tJlZCGa+FkY/iwoFTkx9c6Wi6+5R1+4njTkKve6/gghsOWTNNTKjoszLW9YdkKWmBr7kEWGLsrdFyJUl2vDnRElvwTGSrFyxefy47slQGO5ZlGESog==;UrhxLWrM8j8SCPkbB4pNbw=="
+secured: "t4emNjpxqeEPIuOFVpw5nSBdI8/XSuyVH1tvbEKN4bMqfw8ajZwf1m0av2eUWFQSBH76Z1nGaRYdu5L3JSyPYrtjBHzPwfsUowrK195OaGa9G59nPi5ZWUHrT+gxCkfGCxZEPy+adkeEEOCIX9LJrgQ9ocjnlI3VGV7UK62RDyLWL0P+dLM/zrYx5Bq4oE9jXCEjDchyCs8k+qEVxN0ksrfh5hURVYYoW6VW/cLyoj+ZxMEODcQ3Do34Zp5vFCDfNPuaHI66FYcM4ITZtqGsGYzBrwyRVaD6tlQKcGa8p0ermdMsoBOmVCHyk2wBDHOzKg78BOiQIwAWRYJ25UqD5N3dPp/O1wTh5DJi1ltCYOd7DpJr4Q82gIsg5kdSwKpGUePCl7M/8Ee2JYxTRgjdUrz4BtoTUsp9oOzqjiY1AMKtgqwpkQaEB2urF9/l7460Rr8sBg01wXXqkr5po0gC9DWQ4z0j99U4L2rWwMi7zWAn8gcbm1N1AghDwTN5fpvTm03QT1Td4OvuiYjEeaaifg==;42OSOixIArLx8vrHB/wkYA=="
 ---
 

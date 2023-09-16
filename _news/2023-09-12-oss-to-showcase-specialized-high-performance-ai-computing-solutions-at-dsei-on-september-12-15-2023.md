@@ -61,20 +61,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Best Amazon deals in September 2023: Today's best sales"
-    excerpt: "Amazon deals can be found any day of the week. Whether you're shopping for a new MacBook or our favorite pair of headphones, Amazon is renown for offering sitewide sales every day. Remember ..."
-    publishedDateTime: 2023-09-11T14:10:00Z
-    webUrl: "https://www.tomsguide.com/news/best-amazon-deals"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 41
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/HHXzc9LDV6bEXvHVEVqbFY-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "OSS to Showcase Specialized High-Performance AI Computing Solutions at DSEI on September 12-15, 2023"
     excerpt: "One Stop Systems, Inc. (NASDAQ:OSS), a leader in AI Transportable solutions on the edge, will showcase its specialized high-performance AI computing solutions at"
     publishedDateTime: 2023-09-11T16:00:00Z

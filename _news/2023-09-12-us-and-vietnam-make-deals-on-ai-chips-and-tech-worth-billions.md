@@ -7,8 +7,8 @@ originalUrl: "https://cointelegraph.com/news/us-vietnam-make-deals-on-ai-chips-t
 webUrl: "https://cointelegraph.com/news/us-vietnam-make-deals-on-ai-chips-tech"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: CoinTelegraph
@@ -36,20 +36,6 @@ related:
       name: Business Times
       domain: businesstimes.com.sg
     quality: 48
-  - title: "FPT Announces US Investment, Workforce Development for AI and Semiconductor amid Biden's Vietnam Visit"
-    excerpt: "Secondly, FPT seeks investment and support for FPT University's initiatives in training engineers specializing in both semiconductor chip design and AI, aiming to bolster the workforce's capabilities in these critical fields. With AI training being a ..."
-    publishedDateTime: 2023-09-11T15:00:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/fpt-announces-us-investment-workforce-development-for-ai-and-semiconductor-amid-bidens-vietnam-visit/article_77890396-c32e-5afc-8b92-77fd849c973b.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 23
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/7/8c/78cd4f25-1c20-59f4-b1dc-863b72fc899e/64ff29ed3e518.image.jpg?crop=1914%2C1005%2C0%2C38&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "l0RD2OsctO3sCdIVZDT1yvib16Hw7adwdvWrInQ1VMqgSHamu84b913MXSxqHxIFmJpM73/qRSG8cI5Mb4IJdIYX0fMUaLcanoXFrXBfBnzdp48BIPonbIVXCDk1US/aqGcJHJWKnmnARhF3O01LFWSiyrQA/h+ThFoKD+Gn4R2nKByaU5JiGSbB2zs+2nDyhWNsaJrA55UBN2WfIKUD3BH7BWjWnXuYrDRh4BkAlK/om3aSDvEUHdmFmyllmqM93x/zGi9l8QAnDxkpo+WycdhvStLGZ5ZHUGQq7raZIO7ITaGMKsNoVaP8Qp10aOy/iu4hIGAzKxSKr6JCAZWfb4IZOB6nsiAcun7pDMPtZUc=;zkndvr4unGcMO30sZ92mLQ=="
 ---

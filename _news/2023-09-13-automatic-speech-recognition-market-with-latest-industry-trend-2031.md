@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/34523610"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34523610"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Benzinga.com
@@ -42,6 +42,20 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
+        isCached: true
+  - title: "Speech-To-Text Api Market To Reach Usd 12.1 Billion By 2031: Growth Opportunities, Trends & Industry Analysis"
+    excerpt: "Speech-to-Text API Market Value The speech-to-text (API) is a programming interface that enables the utilization of speech synthesis and"
+    publishedDateTime: 2023-09-16T07:26:00Z
+    webUrl: "https://menafn.com/1107080655/Speech-To-Text-Api-Market-To-Reach-Usd-121-Billion-By-2031-Growth-Opportunities-Trends-Industry-Analysis"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 5
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?818477"
+        width: 444
+        height: 250
         isCached: true
 
 secured: "MB6IqSVD4H440D8ziV4YCR/czwY0XcKe+1IH9Oxi/30vhQjJvdY3hCcWdMeFzAmytCSLgHwlqoRTDwYeplR2WwdpvMUHIDu1qJV2oakwL8W8CazbJAghF24O/z0JADStQU3YeJRuOR/wmZJcb5xqnuhrRavB4/dmIFL993w65g/TZz5jJWMVyi0uM9Y0aidz9mhSuK6W5juolhA7u7V0/1pkSrYAGdKXVbdT1fI+Cv5PaawNHDRYC7bbbb5WXU0YZVAt+CzF7vNUjObQcgqOa0Pc6b42W4RxBgjcSFLMevWoR14wS5erNUiNqgRCqBnCia0VrAS6eX4Gia2Idf/iQQEwAVEP9v2q5TzysaWmST8=;ig6ZX4NcVoaxax0SiC3Djw=="

@@ -55,20 +55,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Best Amazon deals in September 2023: Today's best sales"
-    excerpt: "Amazon deals can be found any day of the week. Whether you're shopping for a new MacBook or our favorite pair of headphones, Amazon is renown for offering sitewide sales every day. Remember ..."
-    publishedDateTime: 2023-09-11T14:10:00Z
-    webUrl: "https://www.tomsguide.com/news/best-amazon-deals"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 41
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/HHXzc9LDV6bEXvHVEVqbFY-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Oss To Showcase Specialized High-Performance Ai Computing Solutions At Dsei On September 12-15, 2023"
     excerpt: "In February, won a $1.3 million contract from the U.S. Army for the design, development and prototypes for a vehicle mounted 360-degree situational awareness system using OSS PCIe Gen 4 switched fabric technology and market leading embedded GPU system on modules."
     publishedDateTime: 2023-09-11T17:46:00Z
