@@ -43,20 +43,6 @@ related:
         width: 540
         height: 405
         isCached: true
-  - title: "Can Hong Kong tap the opportunities in autonomous driving?"
-    excerpt: "The Tesla model (self-declared as L2) is based on continuous data ... and traffic signs which are essential for highly automated driving. According to an insider of the Baidu Map, L2 vehicles mainly requires maps for advanced driver assistance systems ..."
-    publishedDateTime: 2023-09-12T03:00:00Z
-    webUrl: "https://www.ejinsight.com/eji/article/id/3561327/20230912-Can-Hong-Kong-tap-the-opportunities-in-autonomous-driving"
-    type: article
-    provider:
-      name: EJ Insight
-      domain: ejinsight.com
-    quality: 24
-    images:
-      - url: "https://static.hkej.com/eji/images/2023/09/12/3561327_0a35042db0cd0f916d764bcfee5123df.jpg"
-        width: 891
-        height: 585
-        isCached: true
 
 secured: "ocT7I4QBwq9BJH6qN1J7mNkk1Jo88VhWZOOLUd7mTZvw98pD75J/TV5szHawKmR5Xl+4LrCrMmjThLFYq24+cbqWMfHpU0Q2goRr1KjVDzhp9b+dEgjs2MzQLC1ppEpUwAguX1tUwsgN3omz5QVahaByD+chiFPL8zR6andPeECLVJpEDCP12SGnLfmmQhPGOnGnfDAxQhU45fCDKHNP7eON2VU1oLZC/GaKItygg7mkPqsjlpki5E0umWjtkCI5vEWnyUlacmKj+YDd2o8U/QEPdelW6HZtnp+ee9zo/yVftnSBMKd3lLmHoPKutOX8oBpKn7JmNA6UUtUt7j+BpBEWEDLCOPr+wTEz6cvviLipycQ0PEkCjEWyI9C/JrjirxD3PuyGgF2bs3zIdeZncLh32o+XD1CUNVHKJTS4eNCMTruB31XO5HtVJfo2uLQLUkUSO7219IKwi4y7notgGYXbqGG/u545wJ7PkQL3HQBjP3E7opD/ec6xYgh5Vyz6qqK7Xurci5Qc3ONplWGizg==;W1BukruRQKzoFg9HYwVvfg=="
 ---

@@ -26,20 +26,6 @@ images:
 
 related:
   - title: "Coming soon: Can AI help us speak to animals?"
-    excerpt: "Some scientists believe that rapid advances in artificial intelligence may also hold the key to decoding ... how the same technology that powers ChatGPT is being applied to research in animal communication. Could we one day learn to ‘speak whale ..."
-    publishedDateTime: 2023-09-12T05:05:00Z
-    webUrl: "https://www.ft.com/content/05f97e74-2af8-4e80-8a15-5ce587ca21c1"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 39
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fnext-video-editor-images.s3.ap-northeast-1.amazonaws.com%2F044665bf-9421-4825-b3dc-d793c232552e?source=next-opengraph&fit=scale-down&width=900"
-        width: 900
-        height: 900
-        isCached: true
-  - title: "Coming soon: Can AI help us speak to animals?"
     excerpt: "Subscribe now to the FT's Tech Tonic podcast: Some scientists believe that rapid advances in artificial intelligence may also hold the ... same technology that powers ChatGPT is being applied to research in animal communication. Could we one day learn ..."
     publishedDateTime: 2023-09-13T04:56:00Z
     webUrl: "https://www.ft.com/content/f9ab25d7-2962-4561-b64b-6b8051396a27"

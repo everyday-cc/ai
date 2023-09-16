@@ -53,20 +53,6 @@ related:
       name: The Robot Report
       domain: therobotreport.com
     quality: 79
-  - title: "AI and HPC chips boost the verification and analysis business"
-    excerpt: "Driven by the AI frenzy, high-performance computing (HPC) chips are becoming pivotal in the semiconductor landscape, spotlighting advanced packaging technologies like CoWoS. Heat dissipation characteristics in HPC chips packaged through advanced techniques are now a focal point,"
-    publishedDateTime: 2023-09-12T03:00:00Z
-    webUrl: "https://www.digitimes.com/news/a20230911PD213/advanced-packaging-ai-analysis-and-verification-lab-hpc.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230911pd213_files/1_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "The Future of BaaS: Exploring the Top Predictions for 2022 and Beyond"
     excerpt: "Welcome to the future of BaaS, where innovation and technology collide to reshape the way businesses operate. As we step into 2022 and beyond, it’s time to unravel the top predictions that will revolutionize this ever-evolving landscape."
     publishedDateTime: 2023-09-14T15:33:00Z

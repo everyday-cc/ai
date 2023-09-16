@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/adobe-firefly-ai-photoshop-illustrator-free-ai
 webUrl: "https://gizmodo.com/adobe-firefly-ai-photoshop-illustrator-free-ai-art-1850833489"
 type: article
 quality: 67
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "The 7 best AI photo editors in 2023 to retouch and elevate your photos"
-    excerpt: "With the power of AI, you no longer need to painstakingly fine-tune your creations. Here are the best AI photo editors available today."
-    publishedDateTime: 2023-09-12T05:04:00Z
-    webUrl: "https://www.androidauthority.com/best-ai-photo-editor-apps-3363313/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 67
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/04/dreamstudio-ai-stock-image.jpg"
-        width: 1919
-        height: 1080
-        isCached: true
 
 secured: "3BOagc4t/DhtErBMFz2sYcy8hD1b7DqxrxMla0tjMgHF2H3OgJjP42CUfzGmL1LVwxZ9O6AV/CX4e3o8zTaEwLpQ/rdf3zTP4n9tJaSdHX+fZQMNRYIEWXayzbaSTKzLC/xNn4jTEViKDy9zjBY7yNZyrSpnnkykIznaK3cxxaPkZcTPsdjL6kLJHcaOrUSyA0tbwrsD6GIhQqoSLnS5JyB7dqX9+7RwsVpcIgN3mCODfl4aqo9FB07cRyPm+I3fRJ7ZaNjThObYUa4k8UW3Dm1OM661ypc4NIT7MN5ftIpqJl9LCxonW/dtmNMQOCdy5bX0RvTBevYUikESMC30RMAlcDicr0SPzAoGnNp9HF+AMn3nJ9+kDcJDycobBPKf4N14vHnXGxAfYljC2KIIsQJsQYX22HCcKlG/rHymJpUAt4y7LB90wGi/fyfroDmZ51eryNpB80cx13ipEik6yVqj+IrBUnKjVlTVWZZLVZ+e2gZNu8GBs7BaY4grBDvKR3GSJIhm3ngIDVF2+xqH/g==;TVWEpynfFafrwtIZ7N3/Eg=="
 ---

@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "AI and HPC chips boost the verification and analysis business"
-    excerpt: "Driven by the AI frenzy, high-performance computing (HPC) chips are becoming pivotal in the semiconductor landscape, spotlighting advanced packaging technologies like CoWoS. Heat dissipation characteristics in HPC chips packaged through advanced techniques are now a focal point,"
-    publishedDateTime: 2023-09-12T03:00:00Z
-    webUrl: "https://www.digitimes.com/news/a20230911PD213/advanced-packaging-ai-analysis-and-verification-lab-hpc.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230911pd213_files/1_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "As generative AI becomes a competitive advantage, how do you land a strategy right for your business?"
     excerpt: "Understanding how generative AI can transform the way your organization operates is crucial as it becomes ubiquitous across industries"
     publishedDateTime: 2023-09-13T13:54:00Z

@@ -71,22 +71,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "California legislative roundup: Travel ban, guns, tuition, self-driving trucks"
-    excerpt: "California may soon lift a ban on state-funded travel to states with anti-LGBTQ+ laws and instead focus on an advertising campaign to bring anti-discrimination messages to red states."
-    publishedDateTime: 2023-09-12T03:47:00Z
-    webUrl: "https://www.marinij.com/2023/09/11/california-lawmakers-vote-to-end-travel-ban-to-states-with-anti-lgbtq-laws/"
-    ampWebUrl: "https://www.marinij.com/2023/09/11/california-lawmakers-vote-to-end-travel-ban-to-states-with-anti-lgbtq-laws/amp/"
-    cdnAmpWebUrl: "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2023/09/11/california-lawmakers-vote-to-end-travel-ban-to-states-with-anti-lgbtq-laws/amp/"
-    type: article
-    provider:
-      name: Marin Independent Journal
-      domain: marinij.com
-    quality: 40
-    images:
-      - url: "https://www.marinij.com/wp-content/uploads/2023/09/SJM-L-ROADSHOW-0803-e1659467854718.jpg?w=1024&h=773"
-        width: 1024
-        height: 772
-        isCached: true
   - title: "California Set to Ban Self-Driving Trucks With No Safety Driver"
     excerpt: "The California Senate has passed a bill that requires autonomous trucks to have a human safety operator behind the wheel at all times while on public roads. Put simply, it's a ban on driverless trucks — a blow to an industry that has already struggled to ..."
     publishedDateTime: 2023-09-14T17:47:00Z

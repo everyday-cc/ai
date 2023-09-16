@@ -1131,7 +1131,7 @@
       "originalUrl": "https://www.reuters.com/technology/ai-chip-startup-enfabrica-raises-125-mln-with-backing-nvidia-2023-09-12/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -1175,15 +1175,15 @@
       ]
     },
     {
-      "path": "_news/2023-09-12-uk-government-tests-frictionless-trade-models-with-ecosystem-of-trust-pilots.md",
-      "title": "UK Government tests frictionless trade models with Ecosystem of Trust pilots",
-      "excerpt": "Novel, digital, risk-based methods for border control can provide higher quality data and could decrease decision-making.\nThe post UK Government tests frictionless trade models with Ecosystem of Trust pilots appeared first on IBM Blog.\n",
+      "path": "_news/2023-09-12-3-reddit-approved-ai-stocks-for-your-buy-list.md",
+      "title": "3 Reddit-Approved AI Stocks for Your Buy-List",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips When it comes to identifying the pulse of contemporary stock market trends,",
       "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/uk-government-tests-frictionless-trade-models-with-ecosystem-of-trust-pilots/",
-      "originalUrl": "https://www.ibm.com/blog/uk-government-tests-frictionless-trade-models-with-ecosystem-of-trust-pilots/",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-reddit-approved-ai-stocks-for-your-buy-list-1032622401",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-reddit-approved-ai-stocks-for-your-buy-list-1032622401",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 71,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1193,11 +1193,11 @@
       "publishedDateTime": "2023-09-12T02:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1213,7 +1213,9 @@
         "news"
       ],
       "topics": [
-        "IBM AI"
+        "Facebook AI",
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

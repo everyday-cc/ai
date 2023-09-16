@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6313588/california-ai-regulation-bill/"
 webUrl: "https://time.com/6313588/california-ai-regulation-bill/"
 type: article
 quality: 67
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -59,22 +59,6 @@ related:
       - url: "https://s.abcnews.com/images/US/wirestory_efcfb1067d68ad2f595db7e92167943c_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "California legislative roundup: Travel ban, guns, tuition, self-driving trucks"
-    excerpt: "California may soon lift a ban on state-funded travel to states with anti-LGBTQ+ laws and instead focus on an advertising campaign to bring anti-discrimination messages to red states."
-    publishedDateTime: 2023-09-12T03:47:00Z
-    webUrl: "https://www.marinij.com/2023/09/11/california-lawmakers-vote-to-end-travel-ban-to-states-with-anti-lgbtq-laws/"
-    ampWebUrl: "https://www.marinij.com/2023/09/11/california-lawmakers-vote-to-end-travel-ban-to-states-with-anti-lgbtq-laws/amp/"
-    cdnAmpWebUrl: "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2023/09/11/california-lawmakers-vote-to-end-travel-ban-to-states-with-anti-lgbtq-laws/amp/"
-    type: article
-    provider:
-      name: Marin Independent Journal
-      domain: marinij.com
-    quality: 40
-    images:
-      - url: "https://www.marinij.com/wp-content/uploads/2023/09/SJM-L-ROADSHOW-0803-e1659467854718.jpg?w=1024&h=773"
-        width: 1024
-        height: 772
         isCached: true
   - title: "California Has a New Bill to Ban Self-Driving Trucks"
     excerpt: "California's Senate has passed a bill that would require the presence of a human safety operator whenever a self-driving truck is operating ... lot of the arguments that surround the rise of artificial intelligence across plenty of other industries."

@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Nvidia’s AI Chip Dominance Stifles Rival Venture Funding, Creating Challenges for Startups"
-    excerpt: "The number of deals plummeted from 23 to just four by the end of August. AI chip startup Mythic, which has accumulated approximately $160 million in funding overall, faced financial difficulties last year, nearly prompting a halt to its operations ..."
-    publishedDateTime: 2023-09-12T04:39:00Z
-    webUrl: "https://infotechlead.com/artificial-intelligence/nvidias-ai-chip-dominance-stifles-rival-venture-funding-creating-challenges-for-startups-80508"
-    ampWebUrl: "https://infotechlead.com/artificial-intelligence/nvidias-ai-chip-dominance-stifles-rival-venture-funding-creating-challenges-for-startups-80508?amp=1"
-    cdnAmpWebUrl: "https://infotechlead-com.cdn.ampproject.org/c/s/infotechlead.com/artificial-intelligence/nvidias-ai-chip-dominance-stifles-rival-venture-funding-creating-challenges-for-startups-80508?amp=1"
-    type: article
-    provider:
-      name: infotechlead
-      domain: infotechlead.com
-    quality: 64
-    images:
-      - url: "https://infotechlead.com/wp-content/uploads/2023/01/NVIDIA-DGX-A100-systems.jpg"
-        width: 640
-        height: 442
-        isCached: true
   - title: "Nvidia-Backed AI Chip Networking Startup Enfabrica Lands $125M Series B"
     excerpt: "The deal is the latest example of investors backing the actual hardware, chips and other infrastructure needed for generative AI modeling."
     publishedDateTime: 2023-09-12T16:57:00Z

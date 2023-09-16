@@ -190,20 +190,6 @@ related:
         width: 6500
         height: 3656
         isCached: true
-  - title: "Tech titans are giving senators advice on artificial intelligence in a closed-door forum"
-    excerpt: "Senate Majority Leader Chuck Schumer has been talking for months about accomplishing a potentially impossible task: passing bipartisan legislation within the next year that encourages the rapid development of artificial intelligence and mitigates its biggest risks."
-    publishedDateTime: 2023-09-13T18:28:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/tech-titans-senators-artifiicial-intelligence-20230913-uacancl5nfbbroed5kpcdq5mey-story.html"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 28
-    images:
-      - url: "https://www.chicagotribune.com/resizer/vFnUsBA1w0sBUMvckTOgwa5fEw8=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/VZCWBJHYT4LSPTK3V2V6HHAUNM.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Guidelines on artificial intelligence"
     excerpt: "Artificial intelligence is rapidly evolving and transforming industries, including the media. Here is Rappler's approach to AI. Recognizing the rise of artificial intelligence, Rappler is taking ..."
     publishedDateTime: 2023-09-12T09:24:00Z
@@ -258,6 +244,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 15
+  - title: "Tech titans are giving senators advice on artificial intelligence in a closed-door forum"
+    excerpt: "\"It's going to be a fascinating group because they have different points of view,\" Schumer said in an interview with The Associated Press before the event. \"Hopefully we can weave it into a little bit of some broad consensus."
+    publishedDateTime: 2023-09-13T20:15:00Z
+    webUrl: "https://sentinelcolorado.com/uncategorized/tech-titans-are-giving-senators-advice-on-artificial-intelligence-in-a-closed-door-forum/"
+    type: article
+    provider:
+      name: Sentinel Colorado
+      domain: sentinelcolorado.com
+    quality: 10
   - title: "Phenom AI Day Agenda Preview: Technical Experts to Demonstrate and Explain AI's Application for Human Resources"
     excerpt: "AI Day agenda published - Phenom experts to demonstrate and explain AI's role for empowering organizations to hire faster, develop better and retain longer, while reaching new levels of efficiency. This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20230913537994/en/"
     publishedDateTime: 2023-09-13T14:17:00Z
@@ -268,13 +263,13 @@ related:
       domain: tmcnet.com
     quality: 0
   - title: "Smartcat, the Essential Language AI Platform for the Global Enterprise, Launches Multilingual Generative AI Content Creator"
-    excerpt: "Smartcat, the essential language AI platform for the enterprise, today announced the release of its multilingual generative AI content creator, which allows each company to use its own proprietary content as the basis for new content development in all languages."
-    publishedDateTime: 2023-09-13T10:13:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/09/13/9879982.htm"
+    excerpt: "As the leader in language AI for the enterprise, Smartcat is the only solution to offer a holistic approach to multilingual content, breaking down traditional barriers of linear translation ..."
+    publishedDateTime: 2023-09-13T11:24:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20230913381142/smartcat-the-essential-language-ai-platform-for-the-global-enterprise-launches-multilingual-generative-ai-content-creator"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Morningstar
+      domain: morningstar.com
     quality: 0
 
 secured: "Jem8aSAjlTiHImX462kapyXYS9v4kw1ZiZQ1HqMwWBof0jr9LmNndYmc2P85oMKYVZDnCKV4s4satErQ9chU+yqxh0B1TBTycJSFHHuhRWimNPOI9muKp+ov9rccKS9s5xBlXrFEG+aWgJc3Y5niTSTzWZ4fuCgkeN2YpeyVeBsei4gKsRas4M22y/l+HAYgCkyMUbwQ0oOOhVSNZzE+kjGaGBW9oKuk1QoWw9vOlvKu5iLFRoUUerfr/1qVy08X57iYGXRlrjSjvyJ0X+bUWBaUBGvBu3jUqbnZUH5rxlrjaRVE97xmcI5h6ROd0jA79hQqXComt3k7ZlH6zn1hbOwlnMOHXaW5qKfrC5lrwfN1dcLU8qam+a/65/+m+FJqaL+ixmjV6IUTk9De6nUN1GwVz44Qw4Wrzo1oSwPuLLglcQj0RM0JBUPhTFTYo5bzJwWJfOGxwwH/X57kBuDHQmUyVRZngus+n/C6p9bYV5XUH0PMUoEvsTn+1Ih7/fFLfaVwNPDmnALIBCfg9RPGtA==;btCUXwqyDpeNFDbAeZ7csw=="

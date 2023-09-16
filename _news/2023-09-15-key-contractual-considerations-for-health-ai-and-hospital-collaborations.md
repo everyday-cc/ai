@@ -206,6 +206,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Shift Opus a UK Based Artificial Intelligence Services Company, Revolutionises Business Operations"
+    excerpt: "Leading the change in business optimisation, Shift Opus has announced its innovative solutions that redefine how companies perceive operational excellence. Offering an amalgamation of AI-driven automation,"
+    publishedDateTime: 2023-09-15T19:21:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/ab34627949/shift-opus-a-uk-based-artificial-intelligence-services-company-revolutionises-business-operations"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34627949"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34627949"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 43
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "6 Generative AI Jobs in India"
     excerpt: "The role aims to contribute to Apple’s generative AI-based developer platform, collaborating with data scientists and software engineers to provide ML solutions for internal use, with a focus on improving the developer experience."
     publishedDateTime: 2023-09-13T07:31:00Z

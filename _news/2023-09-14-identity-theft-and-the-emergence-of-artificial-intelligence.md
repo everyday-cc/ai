@@ -9,8 +9,8 @@ ampWebUrl: "https://www.khon2.com/local-news/identity-theft-and-the-emergence-of
 cdnAmpWebUrl: "https://www-khon2-com.cdn.ampproject.org/c/s/www.khon2.com/local-news/identity-theft-and-the-emergence-of-artificial-intelligence/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: KHON2
@@ -43,6 +43,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Cash Treasury Trading in the Age of AI"
+    excerpt: "In this contributed article, Shankar Narayanan, Head of Trading Research, Quantitative Brokers, discusses how In the era of artificial intelligence, cash treasury trading presents a unique opportunity to integrate new technologies,"
+    publishedDateTime: 2023-09-16T10:00:00Z
+    webUrl: "https://insidebigdata.com/2023/09/16/cash-treasury-trading-in-the-age-of-ai/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 19
 
 secured: "5y/RiNALwH43W6xrEpsRtnPApddqescmLIQCpZ1Y9cPDde+Z0nS8yUVBiA5kN56ggp26en19kxtGExakcvvCeJakuACykxcTG4/oS4+Zz1bqIkv5MSlIF98TnIBjh1LYLpwlZBQ8SRW3xac3TYH1JT31x9J84933sNg0AGANY0NURRO8pgEUrVqLSn8gi0GYTMmTxIU0EB+B9CQj5xqEpWNbSyI6tuDLpFML8KUarnMYYQBBkHKKebgIUSndmgK9Gl2pS5oP3D2JcYbcK/zXWmnBlJ3zBCNZRBPQbdsIejXpDaMj1sWCzp5ciw2I6iGrdJzUMcnbt885OhXgpeM6Paho8gDY38Kgn7jKTW3OQdi9J1FVlNpXZMrwPxczryMOkVAd6WQEmYC/AcVGuE+jEklCwVXo76iQH/kei4OtZQqbQKv4hXTuistwVARUiMCU6ZFJ4UkqG6p5jbX1O+4cGNfn9vtKpcYQmjdtFcyO77K8iQW2Nb25qmSpXumexJqWJNiZ/WB4B7ByNoak8CzZYQ==;ljRO8ZDCPzIk53aj/2ssGw=="
 ---

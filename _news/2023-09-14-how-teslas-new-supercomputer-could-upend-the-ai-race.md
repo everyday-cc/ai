@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/how-teslas-new-sup
 webUrl: "https://markets.businessinsider.com/news/stocks/how-teslas-new-supercomputer-could-upend-the-ai-race-1032631339"
 type: article
 quality: 86
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       name: Wired
       domain: wired.com
     quality: 63
-  - title: "Tesla’s value predicted to boost from new Dojo self-driving supercomputer"
-    excerpt: "Tesla’s Dojo supercomputer only uses video data recordings from Tesla owners’ real-life driving situations to train its machine-learning model and improve its camera-only ‘Tesla Vision’ safety assistance systems. The camera-only Dojo will ditch 300,000-plus lines of code."
-    publishedDateTime: 2023-09-12T04:55:00Z
-    webUrl: "https://www.whichcar.com.au/news/tesla-s-value-predicted-to-boost-from-new-dojo-self-driving-supercomputer"
-    type: article
-    provider:
-      name: whichcar
-      domain: whichcar.com.au
-    quality: 38
-    images:
-      - url: "https://cdn.whichcar.com.au/assets/p_social/b07d09f6/ev-buyers-guide-tesla-model-3-1-interior.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "KBrPKaGjyIrYrLl3Nc/0nDMLS3Q/q7nMRZJFRSvws6ZGRuU/dI4hF9yO4WryvnH3BuhlpCxKqD+LVSaoCF6cSzCQFBb+SAp9VVLRENV9FR7lPguJylkALRmr8DrXSCDlQMgOSG9ztwpcVRCBOo/Oopke+xCK+KSv0BKa6fZCKtnwcPrRQ9dLafwF66LHrvtSx53WxXuvUTnPiOTGp6/eEYxlyUCiy0fDVGVuMeIW9ltdbRnPNEPP/fLskzuKSp72IXrlUBp15pw4bm9j9v/i+4uCfNtItcAzC9su7WiOofLJNsF6HoK0HPaK0O+s8InwFT0NUHfeFe/4UcM8ErZMqUGytmocQEEAYGXSMgR9k/8=;BRa9kabsnPb2PhcgeHEU5w=="
 ---
