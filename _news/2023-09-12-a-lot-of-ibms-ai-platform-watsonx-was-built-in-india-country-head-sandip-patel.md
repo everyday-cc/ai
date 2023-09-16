@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Takes the Reins of Enterprise AI with Watsonx"
-    excerpt: "IBM’s updated AI portfolio, “watsonx,” is an enterprise-ready AI and data platform consisting of three solution stacks: watsonx.ai, wastonx.data, watsonx.governance"
-    publishedDateTime: 2023-09-11T21:04:00Z
-    webUrl: "https://www.forbes.com/sites/stevemcdowell/2023/09/11/ibm-takes-the-reins-of-enterprise-ai-with-watsonx/"
-    ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/09/11/ibm-takes-the-reins-of-enterprise-ai-with-watsonx/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/09/11/ibm-takes-the-reins-of-enterprise-ai-with-watsonx/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 106
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64ff7f160015846d656445cc/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "IBM’s AI platform watsonx largely designed and developed in India, says MD Sandip Patel"
     excerpt: "Sandip Patel, MD, IBM India & South Asia speaks to CNBC-TV18 on the sidelines of IBM's annual flagship event IBM Think."
     publishedDateTime: 2023-09-12T15:34:00Z

@@ -207,20 +207,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Why Japan Is Building Its Own Version of ChatGPT"
-    excerpt: "Some Japanese researchers feel that AI systems trained on foreign languages cannot grasp the intricacies of Japanese language and culture"
-    publishedDateTime: 2023-09-15T14:04:00Z
-    webUrl: "https://www.scientificamerican.com/article/why-japan-is-building-its-own-version-of-chatgpt/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 24
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/2692254C-BF22-4DF9-8E475D823167954E.jpg"
-        width: 790
-        height: 496
-        isCached: true
   - title: "Tackling Loneliness With ChatGPT and Robots"
     excerpt: "Doctors Qi and Wu presented to Neurology Live a survey of the benefits of AI in their June paper, “ChatGPT: A Promising Tool to Combat Social Isolation and Loneliness in Older Adults With Mild Cognitive Impairment."
     publishedDateTime: 2023-09-12T12:39:00Z
@@ -248,6 +234,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 16
+  - title: "Why Japan Is Building Its Own Version of ChatGPT"
+    excerpt: "Some Japanese researchers feel that AI systems trained on foreign languages cannot grasp the intricacies of Japanese language and culture"
+    publishedDateTime: 2023-09-15T14:04:00Z
+    webUrl: "https://www.scientificamerican.com/article/why-japan-is-building-its-own-version-of-chatgpt/?ref=upstract.com"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 4
 
 secured: "GCPQCPmuFpPWxjBsgtBUaWXEEK6gXd+ZczjercDu+/ZYmJNAB72NwLan4q9Fhe0YP+Fb73KKgEcrGJplm7cLLtwuNf265R1qQQjudC7l02TCJrZPZTRbUleN0Vn8dW3FIIsshkgMYJ9SxDVxKvJ6kzKzqgOh42prwywIY9qL8mVofN8wsI+BZnYB54tv1T30qcpLjyRht6C/Me2HFIU9MYxC8Lmqhf7EJ/do6s8YC7ul2/G15kmAQrO+U7N6wqqpCDoObPES1aLH+2kRHben7OHffGPojDaOKxlUV0n2WkwJZeTtyDfhM++4SV7++fQsenl5fNT2AK0c7OaEWESXJ0vRPGcaIgP4snwXDBPisqWX4a4laYcpWjamqi6hK7fSocOC5c+cENtsS6Tc1GuS/yluLoSNE8ZQ3K2KDRW4zDNfxvaTBsVrWY/GD2P+El9NndBCtZGwS7ofKmMDJG9o0/IHnb5t1vwCuxJ2ZuLIvdKMTH15m1e4R/zW5AyRWM/iOdp7VKeFzDkOSu0vFowAQg==;swO2B7DzvZSjxi8MpU+MuQ=="
 ---

@@ -244,6 +244,15 @@ related:
         width: 500
         height: 354
         isCached: true
+  - title: "Stocks like Microsoft offer 'double digit growth' ahead thanks to AI, Wall Street analysts say"
+    excerpt: "Wall Street analysts said this week there's a host of stocks that are positioned to profit from artificial intelligence."
+    publishedDateTime: 2023-09-16T10:23:00Z
+    webUrl: "https://www.cnbc.com/2023/09/16/stocks-like-microsoft-see-double-digit-growth-ahead-thanks-to-ai.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 52
   - title: "Trade Ledger Announces Bank Solution with Microsoft Azure OpenAI Service to Empower Businesses with Faster Access to Working Capital Solutions"
     excerpt: "Trade Ledger announces it will launch a new solution integrating Microsoft Azure OpenAI Service, designed exclusively for Business Owners, CFOs and Financial Directors in small and medium-sized businesses (SMBs)."
     publishedDateTime: 2023-09-14T10:56:00Z

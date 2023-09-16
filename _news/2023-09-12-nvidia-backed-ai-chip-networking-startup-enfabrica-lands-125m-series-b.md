@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Nvidia's dominance in AI chips deters funding for startups"
-    excerpt: "Nvidia's supremacy in building computer chips for artificial intelligence has chilled venture funding for would-be rivals, investors said, with the number of U.S. deals this quarter falling 80% from a year ago."
-    publishedDateTime: 2023-09-11T19:41:00Z
-    webUrl: "https://www.reuters.com/technology/nvidias-dominance-ai-chips-deters-funding-startups-2023-09-11/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://www.reuters.com/resizer/-UyGGYp0SteFkp0PFNvlLucgv4w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CTRUFHZHOFIHZHZRYW54IWHTJ4.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "AI chip startup Enfabrica raises $125 million, with backing from Nvidia"
     excerpt: "But Nvidia's graphics processing unit (GPU) chips face a problem ... \"It's no secret to Nvidia or anybody else out there that in order for AI computing to become truly ubiquitous, the cost ..."
     publishedDateTime: 2023-09-13T02:22:00Z

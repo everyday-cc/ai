@@ -2,19 +2,25 @@
 category: news
 title: "With AI, future of hearing aids might include language translation"
 excerpt: "Sawalich says, \"If somebody falls, it'll text up to three people.\" They can also translate foreign languages. These AI hearing aids recalibrate up to 80 million times an hour, allowing them to ..."
-publishedDateTime: 2023-09-06T04:32:00Z
-originalUrl: "https://www.guampdn.com/news/national/with-ai-future-of-hearing-aids-might-include-language-translation/video_0471ba7b-8f06-505f-b6d0-fe970b47c741.html"
-webUrl: "https://www.guampdn.com/news/national/with-ai-future-of-hearing-aids-might-include-language-translation/video_0471ba7b-8f06-505f-b6d0-fe970b47c741.html"
+publishedDateTime: 2023-09-05T19:25:00Z
+originalUrl: "https://www.gjsentinel.com/news/national/with-ai-future-of-hearing-aids-might-include-language-translation/video_839a89b0-fa74-51fd-b8b2-66ec62e97197.html"
+webUrl: "https://www.gjsentinel.com/news/national/with-ai-future-of-hearing-aids-might-include-language-translation/video_839a89b0-fa74-51fd-b8b2-66ec62e97197.html"
 type: article
 
 provider:
-  name: Pacific Daily News
-  domain: guampdn.com
+  name: The Grand Junction Daily Sentinel
+  domain: gjsentinel.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "vcxIC2s0ZF0bIDbEZfioOxPySQiibRtm0P1ejOd65D5A79EWfDy/RxB6VEHpjFUn6RpR4cCTuZLAlb3QVUJyF2dKKvhi7GtwckwX/fzQU2Unb/CagsJiUxFBmqzf7PF4Ls9Us0LTzLvJyCAwMruDWPPeUJkpTEVDPBXl/utjbKgFyTylfwQaEvpwO0z2pxIXnoSJBnFHHitDzUa61b9OJR1MpfUxOT95tOhhRsGItXTcsaPIfHgr9TS6vnepv2mnB1wKZKEbd6tz4pArsDENLyGf0XWPzqqai9xgcy14wb0M977/rawbdgY8piZMddsjQm/biT4lFcAaWzlIhA8s34eZDnFbxsqSV2HWUl683vU=;HBqMV53wTo5ubvnMIEYj/Q=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/gjsentinel.com/content/tncms/assets/v3/editorial/8/39/839a89b0-fa74-51fd-b8b2-66ec62e97197/64f77e3d81979.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "R3SOYTEiqP7qFvonvi13ZFX0ujUmKjGvA7eCO5kgoWYYBURet8LG1ANKJMVhE0Bnnf9n8GirTy+qi5RpgMQ5p2YqOFCp7PkPwzp4RadfeZnw10uj6JohnkAWLqG/AKfGlZiID1GjPSYmtJsDRkzavTvRvsqgS6X1ZxORiuwM3IhjFmicxvRwRu/ICLZAx/bdtyVMTcIh8x+RSiY2ZRWde5UDdh1dLk8Vbvv2kRYJD2mIOGemAagVQTbva8gM39mLC1GhZ8qKeuWPU8szpcEr5bULjNzMpoLpv3J5sR5ZzObFtnCTMhrYnC5BzPWFgkfAlLrVD0k8TzKP398/7eOXAF5kgPqqC3SN/br8s0u1ih8=;St2dChQF40k6KFKoBKt/Ow=="
 ---
 

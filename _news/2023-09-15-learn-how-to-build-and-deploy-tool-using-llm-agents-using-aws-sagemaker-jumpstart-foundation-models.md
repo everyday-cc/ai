@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/learn-how-to-build-a
 webUrl: "https://aws.amazon.com/blogs/machine-learning/learn-how-to-build-and-deploy-tool-using-llm-agents-using-aws-sagemaker-jumpstart-foundation-models/"
 type: article
 quality: 90
-heat: 120
+heat: 110
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Falcon 180B foundation model from TII is now available via Amazon SageMaker JumpStart"
-    excerpt: "Today, we are excited to announce that the Falcon 180B foundation model developed by Technology Innovation Institute (TII) is available for customers through Amazon SageMaker JumpStart to deploy with one-click for running inference. With a 180-billion-parameter size and trained on a massive 3.5-trillion-token"
-    publishedDateTime: 2023-09-11T19:33:38Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/falcon-180b-foundation-model-from-tii-is-now-available-via-amazon-sagemaker-jumpstart/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 77
   - title: "AWS Unveils Multi-Model Endpoints for PyTorch on SageMaker"
     excerpt: "Subscribe for free. AWS has introduced Multi-Model Endpoints for PyTorch on Amazon SageMaker. This latest development promises to revolutionize the AI landscape, offering users more flexibility ..."
     publishedDateTime: 2023-09-12T14:07:00Z

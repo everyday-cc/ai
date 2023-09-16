@@ -244,6 +244,15 @@ related:
         width: 500
         height: 354
         isCached: true
+  - title: "Stocks like Microsoft offer 'double digit growth' ahead thanks to AI, Wall Street analysts say"
+    excerpt: "Wall Street analysts said this week there's a host of stocks that are positioned to profit from artificial intelligence."
+    publishedDateTime: 2023-09-16T10:23:00Z
+    webUrl: "https://www.cnbc.com/2023/09/16/stocks-like-microsoft-see-double-digit-growth-ahead-thanks-to-ai.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 52
   - title: "Oracle to colocate in Azure data centers under expanded Microsoft partnership"
     excerpt: "Oracle Corp. and Microsoft Corp. are expanding their four-year-old cloud relationship with a deal that will colocate Oracle’s Exadata database-optimized server and Real Application Clusters in Microsoft Azure data centers."
     publishedDateTime: 2023-09-14T22:07:00Z

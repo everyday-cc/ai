@@ -70,6 +70,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How Modern Data Engineering Brings AI, Machine Learning and Data Science to Life"
+    excerpt: "Don’t underestimate the value of artificial intelligence (AI), machine learning (ML) and data science. What once used to be figments of the imagination (like facial recognition, smartphones and driverless cars) are now reality. How did we get here?"
+    publishedDateTime: 2023-09-15T15:42:00Z
+    webUrl: "https://www.dbta.com/DBTA-Downloads/WhitePapers/How-Modern-Data-Engineering-Brings-AI-Machine-Learning-and-Data-Science-to-Life-13035.aspx"
+    type: article
+    provider:
+      name: dbta
+      domain: dbta.com
+    quality: 31
 
 secured: "Bqy4cW2C6GaUUcK7AwDNXWV17zSoBEUaLamJVLEgBfSXDr9BrkCMNt3ZZej4rPswg2hfrZUWX9WPPbeL05HS8pH9mooGX2ZqUV2xuy4+OOl8ehP9SyCgxjiRXHWsNMbsDNFwLY/DO0Txpxd3kdxxj6S5AoXlBJEO3kYMwEVqjpoj+m7cOdrmBP4G3iJTN5G8dHAxywSxrqt+aDr8pqFpG5aGFY8aMGPIkqMJVLZm5CZjRLFV/8GJaQ782g66q7Loh29qChVvXcCU54/AtqmJIMKu6FJ/DVIOW1s/ECVP8341u+2zVCeD2eQlb2KLFWY6A8G01cPmXG/JQ2mA6x2t2K7QDqpUNlIYZGoJIas6csD/QOR9DV+Le2PlZIDj7QsM4jO+ESklmGK7af0qrJadnClgPjeU7YRhjAoBIJDO2Px4AGuyIZNfk4RppgND4i80RYNRAJBbG+kgx9Rd4UHnimpM8FigVcSx/RVdJuJjio645GB/MqA1SXuQ7EcTeBBPldj6b0QME8QNIld+0fqkFg==;TxmF3COlB33XBa4vxJsCVA=="
 ---

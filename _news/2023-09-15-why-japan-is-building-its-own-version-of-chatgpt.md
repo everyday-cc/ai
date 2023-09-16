@@ -3,10 +3,10 @@ category: news
 title: "Why Japan Is Building Its Own Version of ChatGPT"
 excerpt: "Some Japanese researchers feel that AI systems trained on foreign languages cannot grasp the intricacies of Japanese language and culture"
 publishedDateTime: 2023-09-15T14:04:00Z
-originalUrl: "https://www.scientificamerican.com/article/why-japan-is-building-its-own-version-of-chatgpt/"
-webUrl: "https://www.scientificamerican.com/article/why-japan-is-building-its-own-version-of-chatgpt/"
+originalUrl: "https://www.scientificamerican.com/article/why-japan-is-building-its-own-version-of-chatgpt/?ref=upstract.com"
+webUrl: "https://www.scientificamerican.com/article/why-japan-is-building-its-own-version-of-chatgpt/?ref=upstract.com"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
@@ -17,12 +17,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://static.scientificamerican.com/sciam/cache/file/2692254C-BF22-4DF9-8E475D823167954E.jpg"
-    width: 790
-    height: 496
-    isCached: true
 
 related:
   - title: "Extending ChatGPT: Can AI chatbot plugins really change the game?"
@@ -249,6 +243,6 @@ related:
       domain: tmcnet.com
     quality: 16
 
-secured: "Zr8NgXcHJBsy+HyMism1ZOReEuHPUYwm1muXZpbL+1fTHrv+m5vYvH2j53xlw0H8Kd7l/ppDd7wToiKViDj0cziYNA32HKuvhijKudUJQQL8uo02XoUgMDD2P0CSX96lZVchwDOfzKpGU+L2LRCHAPHjF+4HmYawoG7aml9rwY/b+xUAXoo2lBJvcq6mp0GDVpDpEp0BY3z6j/SmU4Y3NYobtKj6Yfm+Wt4iNMpDTBUDO7JTe10AaRU9ipHNo5FEz3UHZ1f7k3rqexK1HGMlb10n/ZArAiDeBkEKo4sAPU3IhpCbySU4n1l/k//eYi2I8X8G72TQtuSwPL6hw9TZIF8t/4il1X06jYVfozdwb/AVgxB5KSTMKx+B8yb/zfbLCuTScBZ3FBdOpo9LsEAjYOsO4PJIZy2HQEtAUsz9S350e37LrCla9rSAypsX2lpkDAJ/GuY0HCpuFOsnlm/de0h0/+stVpwzCCrR26VucXnEJh99HUfHVP1nWVExPxFtkZZzKj99r/i0YKN2lo/ptg==;+cCTVPGlSg1dBO4lyIbBvg=="
+secured: "XqK/9y13ZntnwLAhvGvKo6zvPisNIIwFhQrkbHIc8Grk4VWp44N0HVOvrKQsE6y/UaHF/XXJbZ+VmPpwo7ZxRUAtnlfBMmKqUmoldWeW6mG8z3bAYCzANDkLI99hOadTVJ8y9my+Rw86JSfGKTTrjQZerGC5fFOi0f20zVpZSnWAhqjjrJscEleRZamrdnzeOVrj3yELRtuXYqtzE8YfwPI+dss+NEBSiDE1hwJymAEHfDNCD3x7A75kHJkqCDiZdDZuSQq8xbyVom4SW2x5bDNmiVNcBlzao6pYYdNUpz6Ap7eVat0LpdECSi6+wJFnhzcb9GZxHy+XP4oVBcQGMqgThTVNISmEJuVwFEtOkUPOGtDqRlzCBUqvqm+JGp0uElT9azgpSfbFxfwxfya2DLshGUJ7k6+liDfozQf/DXem3LaP2EifoEf0zxdmtsPaDNvNIJIlHfESwzsbW5JIpTF4WVtzET+MIBA5jNPz+omWVVehLlWqnJdwzHRLHBJJhEgiXmqh8FokZJJRxSAhZA==;XLO4uhMd4od3g8ckLFrZwA=="
 ---
 

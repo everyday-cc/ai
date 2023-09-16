@@ -215,20 +215,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Why Japan Is Building Its Own Version of ChatGPT"
-    excerpt: "Some Japanese researchers feel that AI systems trained on foreign languages cannot grasp the intricacies of Japanese language and culture"
-    publishedDateTime: 2023-09-15T14:04:00Z
-    webUrl: "https://www.scientificamerican.com/article/why-japan-is-building-its-own-version-of-chatgpt/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 24
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/2692254C-BF22-4DF9-8E475D823167954E.jpg"
-        width: 790
-        height: 496
-        isCached: true
   - title: "Gibberish or Genius? Verbal Nonsense Reveals Limitations of AI Chatbots"
     excerpt: "In a new study, researchers tracked how current language models, such as ChatGPT, mistake nonsense sentences as meaningful. Can these AI flaws open new windows on the brain? We have now entered into a"
     publishedDateTime: 2023-09-14T15:16:00Z
@@ -247,6 +233,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 16
+  - title: "Why Japan Is Building Its Own Version of ChatGPT"
+    excerpt: "Some Japanese researchers feel that AI systems trained on foreign languages cannot grasp the intricacies of Japanese language and culture"
+    publishedDateTime: 2023-09-15T14:04:00Z
+    webUrl: "https://www.scientificamerican.com/article/why-japan-is-building-its-own-version-of-chatgpt/?ref=upstract.com"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 4
 
 secured: "U9EsP/DJGEevWB83EYPhr4wlh22kYJH2Oz4Oer1zX8Cz4GGSFKjHRlvVJ5ytDDFG1eyoknKmxtkZZeWsX3E4IP8HWspZTK1URGanblHIRGC8+Sxn/e7nFadbSrPHSHR7C16dbmTzd0+5cm5pWY9iuETn+3Ut3iQBsZ1LWljv+QAi7VMhYpo+YsMBySrDk8sOhpMCdT0dldcYstER/1v1Ig/JmCzduJzRijp7DrUzl888mfEiFl3CHvoaAoxF5P13Dl9CnuaW0fvTWpbH76vEdXqX+wuum8huyuRVcYVzdGl/B1uhSfSQNt6gde09hcGvtZUbaDtMV9YPSEjybtO0ic9Pkn+hP25HOsAM/3kYW24=;cIpvTeHUCoofbVe3NMiwdw=="
 ---

@@ -2,9 +2,9 @@
 category: news
 title: "‘Technology is not something we can hide from students’: How NYC Public Schools invited AI into its classrooms"
 excerpt: "The school district collaborated with Microsoft on a custom AI-powered teaching assistant that can offer real-time feedback and answers."
-publishedDateTime: 2023-09-14T13:01:00Z
-originalUrl: "https://news.microsoft.com/source/features/company-news/how-nyc-public-schools-invited-ai-into-its-classrooms/"
-webUrl: "https://news.microsoft.com/source/features/company-news/how-nyc-public-schools-invited-ai-into-its-classrooms/"
+publishedDateTime: 2023-09-14T15:27:00Z
+originalUrl: "https://news.microsoft.com/source/features/digital-transformation/how-nyc-public-schools-invited-ai-into-its-classrooms/"
+webUrl: "https://news.microsoft.com/source/features/digital-transformation/how-nyc-public-schools-invited-ai-into-its-classrooms/"
 type: article
 quality: 0
 heat: -1
@@ -54,6 +54,6 @@ related:
         height: 580
         isCached: true
 
-secured: "ik5XJepjkvHkX+sTedIAmIpgOdoeD/1/E351bWpCwnB3/KrAJqMH5PcfubA9i7WFUE3ARyZ2inbXc4BkL5SsvHtPM1C4RxmGTGZ7ydXwYQJ3O4QkFOHrWnhQb1YqWWvEmbxr5Ut3ujdTmWYs7z4AD+iWAk1vw1RaaeRO4NKsmUuhadmjOB4kQnPPUN3Nezh4rKUG0rx37aJhAmyJm09CpSzvayCFycyAlCPVw1bOABw5yfibiGS9Za8T4uw8Qfju3mBWOyOJ7/TGLjxNW1EQ6MAqm6AnmyAf7WYpQ5HaiZsmGm/UxEgTBmvXGhDYURrIsiOU2VdfPqym9f5dJzPnNI64LBDbPFrqzZAoRRu/lhKz5ikHFW7hjOg9VvSfzsF3rWDbP/YCgVQqpbJ1kB0/2Dh3ZXWVf/lFTPRrZ6qa/zYPhbH04jcXQHOSwJ7LcEiy63WyobnKnxYCopjSFPb8tkNowqyX9xqPdGco7u9L5OXmhd3wUFJ+vFzw3Xe/bt59vUEIc5izLO+Hozl0m2CpbA==;sae7gdkdp2kEAvbEKMdn5w=="
+secured: "/LjD7HEjwJ0JDejjT7mjq5C3VhFkXqLzcQc1DlKFpCzXRZ+XCAallUF5a3KrM93/ikM7/v1cjdUKRJkRUzpDgpGs5/Fc3uxhcWVELTxb+ZWwx61sqp2/Xlm/87OE/deZw35JItZCVmL3Q87Jv7WTbSZO7xRm9PKtzbS5UobnYJ7ckNJD9EB4/IKo0XLyDf5zoRzFcTYsyZavkpam1Uv0KVjf5pP8e3A+BdradikXUO+m6Jbcc/tC5gZhP5VitJUBipXrExt7/fOnaMTJDl3/k0VdCkmFXTW86HceCz30xwpNxg5bhOIJrLaM+6OUm/2E7mBbrtBkmHxkvE6CaooP3hM7QxZ9CAGq/lbmWyVdWxm4TtFMIC1m4NiH6PHOphgTiV1SU5hgn9wY8t3mlcboYQXxiPDQ24+CevJ2vOTdFeo4OagYeVl1F0RBHBCFXAOm6Co1CNzorm20V5gCbAlWq56LyjC2M82bld1bsJDC4GA/h4y8zhAjWjT65e0IAZosYb2lEROSEsLY8qiP3a8cVw==;Fzrz6TDNFfGeX4DXmuUf+g=="
 ---
 

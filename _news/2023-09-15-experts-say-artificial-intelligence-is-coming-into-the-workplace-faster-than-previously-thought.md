@@ -67,6 +67,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 46
+  - title: "How Modern Data Engineering Brings AI, Machine Learning and Data Science to Life"
+    excerpt: "Don’t underestimate the value of artificial intelligence (AI), machine learning (ML) and data science. What once used to be figments of the imagination (like facial recognition, smartphones and driverless cars) are now reality. How did we get here?"
+    publishedDateTime: 2023-09-15T15:42:00Z
+    webUrl: "https://www.dbta.com/DBTA-Downloads/WhitePapers/How-Modern-Data-Engineering-Brings-AI-Machine-Learning-and-Data-Science-to-Life-13035.aspx"
+    type: article
+    provider:
+      name: dbta
+      domain: dbta.com
+    quality: 31
 
 secured: "DclW7slsII5iKA1ptocVORQgEVt1DVk8rCqEK2lWJDxtfL4A2aTOGd3lz730C2L9owN+s9LmjS8Hk6pR0aE2VDibsBk519jYqlCLNtlj9r/SQHKHInPvErCJ9r70HkCaX85UsUH12/97ZXOIb7S+ElpMJCOZsdGjbQ9iKXXKTDFjil1FVsACtO63A3G9EvEVtgiX0fnXASj9M7NeYxUMn48eP/5eOIMldXbLCVkjdHUaBN+JvSC6NVULv3K/3O32hqvHZgCohL2jN/xbecNEfoGfNHEMmSH1NQNdFoCFOPrFvVtUeDma09L26hoIEg4sMgh0oszVfXX+AHmJqNefsGGQacIQHZcK71+nQSSOBkgzh+/ZY0oy6yMwBvaho2DZ5wUNljXRBr26EcsFOlN2E7IJmXFCmuj5aGgwO8E7Jn2jnXm+Hs0mpAP/OWhh8gX2fon5bCnQonGPdWZqiPKot1Mz1VXDKfiAXVfqzd3uqmJXS90ZUOQLlauTObjyGtYJ+SW7j4/Ky8pxYtc18FPzzQ==;mImPwcLjYLbxupzy08KTlg=="
 ---

@@ -207,20 +207,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Why Japan Is Building Its Own Version of ChatGPT"
-    excerpt: "Some Japanese researchers feel that AI systems trained on foreign languages cannot grasp the intricacies of Japanese language and culture"
-    publishedDateTime: 2023-09-15T14:04:00Z
-    webUrl: "https://www.scientificamerican.com/article/why-japan-is-building-its-own-version-of-chatgpt/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 24
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/2692254C-BF22-4DF9-8E475D823167954E.jpg"
-        width: 790
-        height: 496
-        isCached: true
   - title: "Tackling Loneliness With ChatGPT and Robots"
     excerpt: "Doctors Qi and Wu presented to Neurology Live a survey of the benefits of AI in their June paper, “ChatGPT: A Promising Tool to Combat Social Isolation and Loneliness in Older Adults With Mild Cognitive Impairment."
     publishedDateTime: 2023-09-12T12:39:00Z
@@ -248,7 +234,16 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 16
+  - title: "Why Japan Is Building Its Own Version of ChatGPT"
+    excerpt: "Some Japanese researchers feel that AI systems trained on foreign languages cannot grasp the intricacies of Japanese language and culture"
+    publishedDateTime: 2023-09-15T14:04:00Z
+    webUrl: "https://www.scientificamerican.com/article/why-japan-is-building-its-own-version-of-chatgpt/?ref=upstract.com"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 4
 
-secured: "yGG1vHgJCu1DDYTWhGxaNeRe9p7OnHXewW3tsJiONz6OtJ2ZeODey46uF5RkvhTt2kE6u0jGItRZ/MskLwUQ/LrSJqknFZWOIKh015bq64LtvFUDCI3vUod7Vzsl5STQw6wXz5o0an1uB0QFjQdrNyaxKkHDk4PLLsXy1wDteo/8CmWqSAJyRUIpCcB6TJowHQx3B9PWh0N9gbjMproRpfJ5n4qhaiUT78QgU2kTZQP53WS5jcwBVEoKI3HAAPWVzgx3WHK3TIvF1Pb6XLqxQucHQK967E5O5cXxD1+T4lHNf26BzMrqAIwknrdcMEBwgHIrgpADcKBTyFbk6SKoqzw64ANT08YE/weDEYr6QKo=;y+4pnDAqLMBfZK6eDoSWIw=="
+secured: "uYAtF535fPrZd3EBAZ76wpREO3lnwQlINVP1qU0oSfbAJ6DyIewi3i5T3qJN3mvZS4nTY2Kj08daub/1Vgevj84OuAXSRh+B8wBCzShBkYeVofT9vFMk1oL1bvFAxMK8vZ8my8G1xJ1hYahJaXqFbAHpiWrcbi/Pplt0iOwk0bLZScW+tBgWcN0rnw6jk9V8JXkyC+UtS+K+PHrHnOxL81f6U7BFsu1HGbL2pWI93rCc1/Y8BWk1R+Hv8M/FG2dz9hcMaDO4bBDC0a8aPf7BFMwepffMomT9hD+hvby8C0ErDWb3IZh4wZKJd4NYUYZHfKQDJcI/jpXEJtU0kpU8bs7xWfKxpkCzRMtTYSfrBJMby2A72Sroa7C4G3nxoim/Bff7aeVlJeSrIZdSA3MUIGfBUQ+OFIwdl5DLAoKzb3mjKUk0DUpUjpVN7VH7vJ+C5LMWNQgWkg6WVQ/knBH2cPajtENTu++LzTRYBBwDxBpm59Zpw5zjWHSIHphiYjL7vhTRkaJc8+khR+Q8vx8pNg==;hb2TvRierOmUyaXZZKFY9Q=="
 ---
 

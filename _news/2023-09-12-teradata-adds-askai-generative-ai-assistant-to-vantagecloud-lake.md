@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Teradata Gives Customers Their Own LLMs with Ask.ai"
-    excerpt: "Enterprises that want to train their own custom large language model (LLM) have a new option today with the launch of Teradata’s ask.ai. The analytics"
-    publishedDateTime: 2023-09-11T20:57:00Z
-    webUrl: "https://www.datanami.com/2023/09/11/teradata-gives-customers-their-own-llms-with-ask-ai/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/09/brain_shutterstock_Horoscope.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Teradata brings Generative AI to VantageCloud Lake with ask.ai"
     excerpt: "Teradata is bringing generative AI to VantageCloud Lake with the launch of ask.ai. The solution is being made available only on VantageCloud Lake"
     publishedDateTime: 2023-09-12T12:51:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2023-09-16T08:19:00Z
 originalUrl: "https://www.eurekalert.org/news-releases/1001677"
 webUrl: "https://www.eurekalert.org/news-releases/1001677"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Machine Learning
 
 images:
   - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/69a180ba-52cb-4e9c-af98-d9fcc661e76f/Rendition/thumbnail/Content/Public"

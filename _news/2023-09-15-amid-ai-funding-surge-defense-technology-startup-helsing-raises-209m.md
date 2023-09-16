@@ -42,8 +42,8 @@ related:
         isCached: true
   - title: "‘Technology is not something we can hide from students’: How NYC Public Schools invited AI into its classrooms"
     excerpt: "The school district collaborated with Microsoft on a custom AI-powered teaching assistant that can offer real-time feedback and answers."
-    publishedDateTime: 2023-09-14T13:01:00Z
-    webUrl: "https://news.microsoft.com/source/features/company-news/how-nyc-public-schools-invited-ai-into-its-classrooms/"
+    publishedDateTime: 2023-09-14T15:27:00Z
+    webUrl: "https://news.microsoft.com/source/features/digital-transformation/how-nyc-public-schools-invited-ai-into-its-classrooms/"
     type: article
     provider:
       name: Microsoft

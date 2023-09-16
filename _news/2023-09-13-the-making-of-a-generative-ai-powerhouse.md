@@ -45,20 +45,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Harnessing the Power of AI: A New Era for Banking"
-    excerpt: "In today's banking and fintech landscape, artificial intelligence (AI) is reshaping our industries and redefining the way we conduct business. The banking sector is no exception. Recent headlines, such as Bank of America emphasizing the potential catalysts ..."
-    publishedDateTime: 2023-09-11T22:24:00Z
-    webUrl: "https://www.finextra.com/blogposting/24871/harnessing-the-power-of-ai-a-new-era-for-banking"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 54
-    images:
-      - url: "https://www.finextra.com/finextra-images/visible_pictures/4105db07-3e06-4507-b703-a7ff7a62d957.jpg"
-        width: 500
-        height: 281
-        isCached: true
 
 secured: "2xMmqWEr8GrX6ScECX7V3V9esm3zd+7Q19Hzwmsnqzy+XM1BBWHUb/rzvE7VA2RAx2buHstG09STZjzPpgHCVA04qi+uJ42Vv0sd75th0PHfPe2Z+S3tiuPAhRwk5V8vpNnAFHAYwzGDCjxSHmaD1XmRZO/d+PAFIlrBTim0AhPwzOSRbzDI0ZeJEd2IHaeqGAYXF6DQPWwcaTXY0u9Ce6BD1xXjZiR2XmSMLBGQ2NbAkziipE44WxDNGWL4nrpcGUhqrltdCW4egmEGbfq8zNP0X0bIug0rNXHNsgiLymYkN9M2qlFgdTHhkYP/RQYo/sJXVO4a3gCi2wobR8z87Rv3y5Ei6v4ohsGqdzRgJ9mPfVy18YoypJWDL5A0FImCPayJNwceO3zz6XpG9r36pIh8GI92un49LQdFzBbKR5qU/bRJMlkgUoj/dYjI/jzULySduYXAJVUlF1CTJ3ruW/4imvhi24zkLITM0CTZQQTkcYraAx3YyA0mkvGFKzGwf9JqBmDaJ7Gx4x7Og8zwNg==;hJey3JLDeSfFiD7ZiU1DFw=="
 ---

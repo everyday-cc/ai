@@ -122,15 +122,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "'Sonic DNA' is composed for a finance firm to generate AI-powered branding"
-    excerpt: "This is an example of 'Sonic DNA' which digital agency amp composed for a major financial firm, so that AI could generate multiple musical compositions from it."
-    publishedDateTime: 2023-09-11T19:51:00Z
-    webUrl: "https://www.bbc.com/news/av/business-66781639"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 62
   - title: "Tech titans are giving senators advice on artificial intelligence in a closed-door forum"
     excerpt: "Senate Majority Leader Chuck Schumer convened a meeting of some of the country’s most prominent technology executives to ask them how Congress should do it."
     publishedDateTime: 2023-09-13T14:19:00Z
@@ -156,15 +147,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "AI-generated music used for business branding"
-    excerpt: "This is an example of AI-generated music, created by amp's Sonic Hub tool using 'Sonic DNA', which was composed for a finance client."
-    publishedDateTime: 2023-09-11T19:26:00Z
-    webUrl: "https://www.bbc.com/news/av/business-66781641"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 47
   - title: "Softserve Launches Generative Ai Lab"
     excerpt: "Specialized lab expands SoftServe's AI/ML capabilities to accelerate Generative AI value discovery and real-world adoptionSINGAPORE - Media"
     publishedDateTime: 2023-09-12T11:54:00Z
@@ -207,20 +189,6 @@ related:
         width: 6500
         height: 3656
         isCached: true
-  - title: "How artificial intelligence could scrap humanity’s ability to lie"
-    excerpt: "“Lying tends to have a high negative effect: you feel a lot of guilt, shame or anxiety that you might get caught. And those negative affective words also pop out into your speech when you lie,” Hyde said."
-    publishedDateTime: 2023-09-11T20:21:00Z
-    webUrl: "https://www.boisestate.edu/news/2023/09/11/how-artificial-intelligence-could-scrap-humanitys-ability-to-lie/"
-    type: article
-    provider:
-      name: Boise State University
-      domain: boisestate.edu
-    quality: 37
-    images:
-      - url: "https://wpwww-prod.s3.us-west-2.amazonaws.com/uploads/sites/164/2023/09/report-3183779_640.jpg"
-        width: 640
-        height: 488
-        isCached: true
   - title: "Tech titans are giving senators advice on artificial intelligence in a closed-door forum"
     excerpt: "\"It's going to be a fascinating group because they have different points of view,\" Schumer said in an interview with The Associated Press before the event. \"Hopefully we can weave it into a little bit of some broad consensus."
     publishedDateTime: 2023-09-13T20:15:00Z
@@ -261,6 +229,15 @@ related:
     provider:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
+    quality: 19
+  - title: "Bitcoin is the currency for AI"
+    excerpt: "BITCOIN'S compatibility with AI technologies is driving major institutional investors to increase their exposure to the cryptocurrency, according to the executive at deVere Group, one of the world's largest independent financial advisory,"
+    publishedDateTime: 2023-09-16T13:15:00Z
+    webUrl: "https://www.manilatimes.net/2023/09/17/business/sunday-business-it/bitcoin-is-the-currency-for-ai/1910352"
+    type: article
+    provider:
+      name: manilatimes
+      domain: manilatimes.net
     quality: 19
   - title: "Congress’s week of AI"
     excerpt: "Tech titans, developers and executives descended on Capitol Hill this week for a series of meetings exploring crucial safeguards for AI research and development."

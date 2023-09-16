@@ -41,20 +41,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Svc Invests $5 Million In A Venturesouq Fintech Fund"
-    excerpt: "Maan Eshgi commented:“Fintech continues to be one of the largest, most dynamic and most consequential spheres of innovation in the world. It serves the application of new technologies, including web3, AI, and quantum computing. From a magnitude of impact ..."
-    publishedDateTime: 2023-09-11T20:04:00Z
-    webUrl: "https://menafn.com/1107048324/Svc-Invests-5-Million-In-A-Venturesouq-Fintech-Fund"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?300150"
-        width: 375
-        height: 250
-        isCached: true
   - title: "Saudi Venture Capital invests $5m in VentureSouq FinTech fund"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-09-13T04:35:00Z

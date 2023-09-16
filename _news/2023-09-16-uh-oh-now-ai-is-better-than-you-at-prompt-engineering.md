@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/uh-oh-now-ai-is-better-than
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/uh-oh-now-ai-is-better-than-you-at-prompt-engineering/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -72,6 +72,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How Modern Data Engineering Brings AI, Machine Learning and Data Science to Life"
+    excerpt: "Don’t underestimate the value of artificial intelligence (AI), machine learning (ML) and data science. What once used to be figments of the imagination (like facial recognition, smartphones and driverless cars) are now reality. How did we get here?"
+    publishedDateTime: 2023-09-15T15:42:00Z
+    webUrl: "https://www.dbta.com/DBTA-Downloads/WhitePapers/How-Modern-Data-Engineering-Brings-AI-Machine-Learning-and-Data-Science-to-Life-13035.aspx"
+    type: article
+    provider:
+      name: dbta
+      domain: dbta.com
+    quality: 31
 
 secured: "3hI2pSuWQrGacBE1gu4/6rKCGnNCqzuaN3sWXI7JjdsKidb/RXBjoWUYShSIoNvqR6wBgRdM3QLlRMAOi9VxxH1DCL9hFaVRKHcFuEmGX8N7IBNjWTVRnaUDKgPfK+GYAEDZoENOWrIht+e7aG20pFxTEte7LqvWjeq/VTIqrq6Bb8r/vuaL5gSSkHhzY9rWvOSYbme7r7B8rWalk0AiAIHxa8qDOC+n5/pn96u2IzToL+wGIeBl+1bj9BgGukPIzDctvx62RClkA/3ca5SXcA/9I3aRrOjYwKu0eMeQMz4cebmFu0/NEfSi0kPpVdxI3dzZytyFoJxf0Hk+5q1CUsRoYWMyRXw0Ceuqn7N1F/TFBwtOPwcThGaAp54jo6q5rv8002QEHhYy6IqHR9HnTZUYZAy+wYVdpjYkc0+gPR+iY5+TXPAIq2MD5vcuj0iC+SreBi8UwGoMTxZ9zsiXkktZjqFBIJkfWBR8bVjnzP6HYiKbrtxAmeS4Lc5lOa0GqNpk0ivjZPbAWS6+28GKSQ==;+VbwXM83iRHM17aWR9wqRA=="
 ---
