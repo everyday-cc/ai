@@ -104,7 +104,7 @@
       "originalUrl": "https://techxplore.com/news/2023-09-brain-robust-ai.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -356,7 +356,7 @@
       "originalUrl": "https://www.zdnet.com/article/5-handy-ai-tools-for-school-that-students-teachers-and-parents-can-use-too/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -760,7 +760,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/15/fear-mongering-and-ai-questions-to-consider/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1002,36 +1002,36 @@
       ]
     },
     {
-      "path": "_news/2023-09-15-ai-can-help-screen-for-cancerbut-theres-a-catch.md",
-      "title": "AI can help screen for cancer—but there’s a catch",
-      "excerpt": "In theory, catching cancers earlier should make them easier to treat, saving lives. But that’s not always what the data shows.",
+      "path": "_news/2023-09-15-softbanks-chip-designer-arm-extends-gains-after-65-billion-nasdaq-debut.md",
+      "title": "SoftBank's Chip Designer Arm Extends Gains After $65 Billion Nasdaq Debut",
+      "excerpt": "(Reuters) - Shares of SoftBank's Arm Holdings rose before the bell on Friday, extending gains from a stellar Nasdaq debut that valued the British chip designer at $65 billion, in a relief to the U.S. IPO market facing a drought in listings.",
       "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/09/15/1079499/ai-cancer-screening-overdiagnosis/",
-      "originalUrl": "https://www.technologyreview.com/2023/09/15/1079499/ai-cancer-screening-overdiagnosis/",
+      "webUrl": "https://money.usnews.com/investing/news/articles/2023-09-15/softbanks-chip-designer-arm-extends-gains-after-65-billion-nasdaq-debut",
+      "originalUrl": "https://money.usnews.com/investing/news/articles/2023-09-15/softbanks-chip-designer-arm-extends-gains-after-65-billion-nasdaq-debut",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 73,
       "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/09/AP23167498665748.jpeg?w=3000",
-          "width": 3000,
-          "height": 1687,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/09/15/1079499/ai-cancer-screening-overdiagnosis/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/15/1079499/ai-cancer-screening-overdiagnosis/amp/",
-      "publishedDateTime": "2023-09-15T03:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-15T03:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1040,6 +1040,7 @@
         "news"
       ],
       "topics": [
+        "AI Hardware",
         "AI"
       ]
     },

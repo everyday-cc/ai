@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/5-handy-ai-tools-for-school
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5-handy-ai-tools-for-school-that-students-teachers-and-parents-can-use-too/"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://s.abcnews.com/images/US/back-to-school-rf-gty-ml-230906_1694000485601_hpMain_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "An outline for teaching responsible use of AI in high schools"
-    excerpt: "The researchers recommend teachers follow the \"Ideas-Connections-Extensions framework\" (ICE) education model when instructing students on interacting with AI writing programs. In this model, students start to learn by grasping foundational ideas and their ..."
-    publishedDateTime: 2023-09-11T17:40:00Z
-    webUrl: "https://phys.org/news/2023-09-outline-responsible-ai-high-schools.html"
-    ampWebUrl: "https://phys.org/news/2023-09-outline-responsible-ai-high-schools.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-outline-responsible-ai-high-schools.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-in-school.jpg"
-        width: 2880
-        height: 1920
         isCached: true
   - title: "Governments race to regulate AI tools"
     excerpt: "Rapid advances in artificial intelligence (AI) such as Microsoft-backed OpenAI's ChatGPT are complicating governments' efforts to agree laws governing the use of the technology."

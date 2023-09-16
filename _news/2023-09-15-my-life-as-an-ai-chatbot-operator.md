@@ -219,18 +219,18 @@ related:
         height: 488
         isCached: true
   - title: "Tech titans are giving senators advice on artificial intelligence in a closed-door forum"
-    excerpt: "Senate Majority Leader Chuck Schumer has been talking for months about accomplishing a potentially impossible task: passing bipartisan legislation within the next year that encourages the rapid development of artificial intelligence and mitigates its biggest risks."
-    publishedDateTime: 2023-09-13T18:28:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/tech-titans-senators-artifiicial-intelligence-20230913-uacancl5nfbbroed5kpcdq5mey-story.html"
+    excerpt: "\"It's going to be a fascinating group because they have different points of view,\" Schumer said in an interview with The Associated Press before the event. \"Hopefully we can weave it into a little bit of some broad consensus."
+    publishedDateTime: 2023-09-13T20:15:00Z
+    webUrl: "https://sentinelcolorado.com/uncategorized/tech-titans-are-giving-senators-advice-on-artificial-intelligence-in-a-closed-door-forum/"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 28
+      name: Sentinel Colorado
+      domain: sentinelcolorado.com
+    quality: 30
     images:
-      - url: "https://www.chicagotribune.com/resizer/vFnUsBA1w0sBUMvckTOgwa5fEw8=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/VZCWBJHYT4LSPTK3V2V6HHAUNM.jpg"
-        width: 1200
-        height: 630
+      - url: "https://sentinelcolorado.com/wp-content/uploads/2023/09/AP23256017020655-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
   - title: "Guidelines on artificial intelligence"
     excerpt: "Artificial intelligence is rapidly evolving and transforming industries, including the media. Here is Rappler's approach to AI. Recognizing the rise of artificial intelligence, Rappler is taking ..."
@@ -296,6 +296,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "YSA7jt8TMzi+Mgai/mVuzpWQ6cDiQyftXebKfXuamTXknQyJyA/eE7+lO/Orbw2Fs47pi9OZviugGhXa7c77qwLWCQvWW4guaCxhX1UQpE0rloMWKwtbAJg1CzkGeFW39JpSKmQqpEobs8s2TVS0bf+ItqiZj79qDjfhg7IXbIIR0jcLjM5Z5JTHJph7LHPQur685kUtAsKnpOftD4DlOb+CFCTPXugBklRgcZ80z6OhyNEjAD0M99MOFKQGbPjAWrcdY2C9n2SHE8qAbTs1TQ7lMx7uc0dBpzXkEqkliyPQA7eYs+ft4fOWrG46Dl7jG++3WAECjVXR6Sq1hbLrW/Ul+lSniEH8G5JGTr8XHFc=;fg0uiybbOPd+4lnO9rbhFQ=="
+secured: "dzMTIlsLtDhDTyu4GHuQdXuiwJcgTvpSrjxC1cY+YAXrYiaX3QpCd6iw7tAeGDL5Kge9jvurI8GBnx1Ybe5Sp+cMaFl01Hq7o+P8vD60zVKMKxDzJisF0F0zuhTZtlMNsdc6p2Y/ryHBjSzqIYnKK3/Gt2K+Qd+dfpFg4CqaLWAMfWW4rCA5RtQ0aQ1UR9dEKbbosiX/VuNFzFy8jAytD+0IGc3C4Sd76cDMq5X6zoYwia+3a0tgwTkhaj65dIm2ZpO087bM3OcyjzsozkJm2NdYnoXzCLpJYVMa4SBpYPUYaJ1pZ5ZOZ7e2qKK6n7lEZfRUqZ5LtwWizbZZo2QLXz/dZga/ZCTUP7vW5MztKGtGRLnwniPmYNq08+l8HQERKLe8mCMi0/tEWx4ePvw5o7qfHI6KSsXqZ84mJMXzgWob7eNFOy7JJVR6phs4VEcA1XwVfaP/LEWDURYLBZBlNClH3uwP9YJljNWhhIqDrpYGg4e2VBMhGqJW79M/5nuzyfz5rvDO2tPJ3nJk0nn1eA==;ZKIXd2VcBnq/UK+ruslsZA=="
 ---
 

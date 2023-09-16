@@ -21,20 +21,18 @@ topics:
 
 related:
   - title: "AI model speeds up high-resolution computer vision"
-    excerpt: "An autonomous vehicle must rapidly and accurately recognize objects that it encounters, from an idling delivery truck parked at the corner to a cyclist whizzing toward an approaching intersection."
-    publishedDateTime: 2023-09-12T15:42:00Z
-    webUrl: "https://techxplore.com/news/2023-09-ai-high-resolution-vision.html"
-    ampWebUrl: "https://techxplore.com/news/2023-09-ai-high-resolution-vision.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-ai-high-resolution-vision.amp"
+    excerpt: "Researchers from MIT, the MIT-IBM Watson AI Lab, and elsewhere have developed a more efficient computer vision model that vastly reduces the computational complexity of this task. Their model can ..."
+    publishedDateTime: 2023-09-12T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/1001258"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 76
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 56
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/ai-model-speeds-up-hig.jpg"
-        width: 1280
-        height: 853
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/d147d840-b04a-4a15-a41f-fe5dc9d95bc9/Rendition/low-res/Content/Public"
+        width: 700
+        height: 467
         isCached: true
 
 secured: "viliuGZMaSeZHcfbFxgeGVcfVD9MJ+Xly3nyWE1BjJjGmn6bWf7s7q7Rd0jMF9vrVld380BGvxPL2kvr5nQviYC2vuP6qrQC5rkKbeIjeXABNwG0OE8IqNLkMjShFMnMwFrCHCFX42J3mhBO9lgCNKWq/Xq1LriMOyorCVvMULoS5i/Ddh0jjgieqPmLQ5knn5oVttXC/ajtS0QFtXrPxQRlR/j+JcB92b3nq54WwW+d/iutpZJ+W+XYq/dwgqGJFgNf9VawzIi1GP3gdjmm3t2rVwhas6vtgfRQU2cfeWqRdaWy99CNbrFaG5LpVzUyUzCzQlf+mIeYomUwVxkiUWZU+Fxjo74EZMmQfZkpgxk=;qFlBNverJiqO1ejABvWGLA=="

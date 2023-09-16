@@ -57,15 +57,6 @@ related:
         width: 1260
         height: 630
         isCached: true
-  - title: "Amazon SageMaker Domain in VPC only mode to support SageMaker Studio with auto shutdown Lifecycle Configuration and SageMaker Canvas with Terraform"
-    excerpt: "Amazon SageMaker Domain supports SageMaker machine learning (ML) environments, including SageMaker Studio and SageMaker Canvas. SageMaker Studio is a fully integrated development environment (IDE) that provides a single web-based visual interface where you can access purpose-built tools to perform all"
-    publishedDateTime: 2023-09-11T18:36:37Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-domain-in-vpc-only-mode-to-support-sagemaker-studio-with-auto-shutdown-lifecycle-configuration-and-sagemaker-canvas-with-terraform/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 46
 
 secured: "lEhlFuZp267zNEkdedzDZL8Aox4XEVrCgRhK60rV8n5GsPmGvpcJbgWdSwt7n+E0oir6AcJOb1V1G2+RcWV6iCsyK85cEA8F33R4BBo/zhF+NciLyJ0AWCKztnltyu74LJamnnTKflvICnQQYiu0GHGchxVD48bOZ6CyXWpgPvT0jCN+COTn1MshbPEa5f3cb2lgweRYXV3u7GKEOfm4XWi/qoZhYkTTP37bhPMd6KTG0JWq2yr1YsrbBbJKjtq8V1dCKmswH8hYjkbt86Gj3mOZQ2DKhljsPup0096rikYufi2FA9uSOGnLQOxiX9HP9N8kPOZr/LVJDfZkIWoe5APGOv6Mwnm6B7wTIIFLrWw=;jR4ZESqFq1kAINaPS3WCIg=="
 ---

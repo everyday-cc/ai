@@ -1,29 +1,27 @@
 ---
 category: news
-title: "A boy saw 17 doctors over 3 years for chronic pain. ChatGPT found the diagnosis"
-excerpt: "Alex experienced pain that stopped him from playing with other children but doctors had no answers to why. His frustrated mom asked ChatGPT for help."
-publishedDateTime: 2023-09-12T14:31:00Z
-originalUrl: "https://www.today.com/health/mom-chatgpt-diagnosis-pain-rcna101843"
-webUrl: "https://www.today.com/health/mom-chatgpt-diagnosis-pain-rcna101843"
-ampWebUrl: "https://www.today.com/today/amp/rcna101843"
-cdnAmpWebUrl: "https://www-today-com.cdn.ampproject.org/c/s/www.today.com/today/amp/rcna101843"
+title: "Is Tencent’s ChatGPT rival, Hunyuan, Set to Disrupt the AI Market?"
+excerpt: "Tencent launches Hunyuan designed for natural language processing in Chinese to create a ChatGPT-like chatbot. Will it become a game-changer?"
+publishedDateTime: 2023-09-16T10:08:00Z
+originalUrl: "https://www.techopedia.com/is-tencents-chatgpt-rival-hunyuan-set-to-disrupt-the-ai-market"
+webUrl: "https://www.techopedia.com/is-tencents-chatgpt-rival-hunyuan-set-to-disrupt-the-ai-market"
 type: article
-quality: 55
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Today
-  domain: today.com
+  name: Techopedia
+  domain: techopedia.com
 
 topics:
-  - AI in Healthcare
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-09/chat-gpt-diagnosis-jp-230911-f1cc83.jpg"
-    width: 3024
-    height: 4032
+  - url: "https://www.techopedia.com/wp-content/uploads/2023/09/android_02.png"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -87,6 +85,22 @@ related:
         width: 700
         height: 473
         isCached: true
+  - title: "A boy saw 17 doctors over 3 years for chronic pain. ChatGPT found the diagnosis"
+    excerpt: "Alex experienced pain that stopped him from playing with other children but doctors had no answers to why. His frustrated mom asked ChatGPT for help."
+    publishedDateTime: 2023-09-12T14:31:00Z
+    webUrl: "https://www.today.com/health/mom-chatgpt-diagnosis-pain-rcna101843"
+    ampWebUrl: "https://www.today.com/today/amp/rcna101843"
+    cdnAmpWebUrl: "https://www-today-com.cdn.ampproject.org/c/s/www.today.com/today/amp/rcna101843"
+    type: article
+    provider:
+      name: Today
+      domain: today.com
+    quality: 55
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-09/chat-gpt-diagnosis-jp-230911-f1cc83.jpg"
+        width: 3024
+        height: 4032
+        isCached: true
   - title: "Verbal nonsense reveals limitations of AI chatbots"
     excerpt: "The era of artificial-intelligence chatbots that seem to understand and use language the way we humans do has begun. Under the hood, these chatbots use large language models, a particular kind of neural network."
     publishedDateTime: 2023-09-15T12:22:00Z
@@ -136,20 +150,6 @@ related:
       - url: "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/91a00fbe-7dcc-491f-84bb-38390d7bd605-1694526754103.jpg?fm=png&auto=format"
         width: 3200
         height: 1600
-        isCached: true
-  - title: "Is Tencent’s ChatGPT rival, Hunyuan, Set to Disrupt the AI Market?"
-    excerpt: "Tencent launches Hunyuan designed for natural language processing in Chinese to create a ChatGPT-like chatbot. Will it become a game-changer?"
-    publishedDateTime: 2023-09-16T10:08:00Z
-    webUrl: "https://www.techopedia.com/is-tencents-chatgpt-rival-hunyuan-set-to-disrupt-the-ai-market"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 39
-    images:
-      - url: "https://www.techopedia.com/wp-content/uploads/2023/09/android_02.png"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Dr. ChatGPT: How accurate are the new AI tools with medical capabilities?"
     excerpt: "There are still many questions about how to integrate artificial intelligence into health care systems, however, the race is on: The Mayo Clinic is integrating a chatbot into its system."
@@ -249,6 +249,6 @@ related:
       domain: tmcnet.com
     quality: 16
 
-secured: "ugA2GGLEB+xerWUmzcYJzjiD5oJjextCgWLGnRJyKR4SUmhgTYk/P4upY/AT9vnyqfngcMDEgJMx/GDuO+9BvdxNmzvAHY3cBYJQrZo/zXRs8ZVAINijXLTjsX83+8Bs6o3ot175xQ6kSt4xOqKKx01uInQ/x/PVXfeiSYq0YHCu7rr6+PHqkRgiQFsEFRdUIwfC/GHnuwP3XOlQ3JhLpzlq7z66kECPHaPNtHIFG8YS0uNEWPU4ILhOiS8G3pPxghqOq1XI3uNOLE/5T/UhjxQZBnA9Jo5pSEPXxNSXQyfZC+zqvLKQKDKNb1HQcDyncedU9qDEp1zIcZsbWEn8Nf/aYn+P59pf7Z2Yx/JHXAoJj2RiCx4Z08gvJwjGibPePcZ2t18g2MU5vcIjErJoqyWGin8wsiG5xWmAK0Yh3l5pvZ60oUMtT24tLjr6C3ow63YSc6uz8faj2htzBksEsob/MkjZuQvr07E5QFf/JmmnP2OicSVND2n3mtZ8T2IGyyz/1KCk3+BEIOkjr4jhpQ==;EsKp6bjFzt1CdVpvaejQmw=="
+secured: "yGG1vHgJCu1DDYTWhGxaNeRe9p7OnHXewW3tsJiONz6OtJ2ZeODey46uF5RkvhTt2kE6u0jGItRZ/MskLwUQ/LrSJqknFZWOIKh015bq64LtvFUDCI3vUod7Vzsl5STQw6wXz5o0an1uB0QFjQdrNyaxKkHDk4PLLsXy1wDteo/8CmWqSAJyRUIpCcB6TJowHQx3B9PWh0N9gbjMproRpfJ5n4qhaiUT78QgU2kTZQP53WS5jcwBVEoKI3HAAPWVzgx3WHK3TIvF1Pb6XLqxQucHQK967E5O5cXxD1+T4lHNf26BzMrqAIwknrdcMEBwgHIrgpADcKBTyFbk6SKoqzw64ANT08YE/weDEYr6QKo=;y+4pnDAqLMBfZK6eDoSWIw=="
 ---
 

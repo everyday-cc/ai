@@ -51,15 +51,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Fintech, Health Care, AI & More: Total Wealth Symposium 2024"
-    excerpt: "Director of VIP services John Wilkinson joins The Banyan Edge Podcast to break down what to expect for Banyan Hill's Total Wealth Symposium 2024."
-    publishedDateTime: 2023-09-11T18:04:00Z
-    webUrl: "https://banyanhill.com/fintech-health-care-ai-more-total-wealth-symposium-2024/"
-    type: article
-    provider:
-      name: Banyan Hill Publishing
-      domain: banyanhill.com
-    quality: 19
   - title: "Samunnati joins FinTech finbots.ai to facilitate AI-based credit risk management"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-09-13T11:51:00Z

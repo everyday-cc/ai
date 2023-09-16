@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/accelerate-client-su
 webUrl: "https://aws.amazon.com/blogs/machine-learning/accelerate-client-success-management-through-email-classification-with-hugging-face-on-amazon-sagemaker/"
 type: article
 quality: 88
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 895
         height: 448
         isCached: true
-  - title: "Amazon SageMaker Domain in VPC only mode to support SageMaker Studio with auto shutdown Lifecycle Configuration and SageMaker Canvas with Terraform"
-    excerpt: "Amazon SageMaker Domain supports SageMaker machine learning (ML) environments, including SageMaker Studio and SageMaker Canvas. SageMaker Studio is a fully integrated development environment (IDE) that provides a single web-based visual interface where you can access purpose-built tools to perform all"
-    publishedDateTime: 2023-09-11T18:36:37Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-domain-in-vpc-only-mode-to-support-sagemaker-studio-with-auto-shutdown-lifecycle-configuration-and-sagemaker-canvas-with-terraform/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 46
 
 secured: "/kXfYsBsrA4ekAl0uKrI6WdXOwQf59PBUt/mFZRZXbaOHRvX9/QBmaY5WNYrb6QnW/hN+RzM1w79T4YsnLXBzTauwLctTruZEqjfMmhiWBB6hPtzdXoqPJpR/AzYrJ3DfSNEWx1TJYMNzYejDMX12wCe6qlA9s/kTIFsoDJRbu2vQ2unTX3WdXqT/8S7c5FMlZA9JBoXtw1uBn2AF5P4EhYztXkemNRUDbtd6qwgEf2Y/xGdgTAMQAgodjqsLWhECjJycs81VguVOR9UHxKOLCe13NqtWbciVpvW6ddVCtASciAR/5Nensl8aSOdQopbe68N+zh1iPSyA8hJA73b249Q6nalxszq7Ge+qEb4YFM=;4MYLWq80VEtN9g4uS8VMhQ=="
 ---

@@ -2,6 +2,50 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2023-08-23-the-most-in-demand-ai-skills-and-how-companies-want-to-use-them.md",
+      "title": "The most in-demand AI skills — and how companies want to use them",
+      "excerpt": "“Generative AI was born out of machine learning techniques. People added rule-based systems ... but companies that have their own open AI services, like Microsoft and Azure, also offer online training opportunities.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3705095/the-most-in-demand-ai-skills-and-how-companies-want-to-use-them.html",
+      "originalUrl": "https://www.computerworld.com/article/3705095/the-most-in-demand-ai-skills-and-how-companies-want-to-use-them.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/08/shutterstockthapana_studio-100945002-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3705095/the-most-in-demand-ai-skills-and-how-companies-want-to-use-them.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3705095/the-most-in-demand-ai-skills-and-how-companies-want-to-use-them.amp.html",
+      "publishedDateTime": "2023-08-23T02:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-08-23-gavin-newsom-sides-with-the-robots-in-autonomous-vehicle-debate.md",
       "title": "Gavin Newsom sides with the robots in autonomous vehicle debate",
       "excerpt": "They argue the advent of transformative technologies — from driverless vehicles to automation and artificial intelligence — require policymakers to be proactive on regulations. “They think I ...",
@@ -1092,59 +1136,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-epic-and-microsoft-expand-ai-partnership-to-address-healthcares-most-pressing-needs.md",
-      "title": "Epic and Microsoft expand AI partnership to 'address healthcare's most pressing needs'",
-      "excerpt": "And now, they plan to rapidly deploy dozens of AI-powered solutions within Epic's health systems. The companies aim to address critical healthcare needs like \"workforce burnout to staffing shortages.\" New capabilities powered by Microsoft Azure and its AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/epic-and-microsoft-expand-ai-partnership-to-address-healthcares-most-pressing-needs/",
-      "originalUrl": "https://www.neowin.net/news/epic-and-microsoft-expand-ai-partnership-to-address-healthcares-most-pressing-needs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 213,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neowin.com/news/images/uploaded/2020/12/1607624194_azure_logo_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/epic-and-microsoft-expand-ai-partnership-to-address-healthcares-most-pressing-needs/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/epic-and-microsoft-expand-ai-partnership-to-address-healthcares-most-pressing-needs/",
-      "publishedDateTime": "2023-08-22T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

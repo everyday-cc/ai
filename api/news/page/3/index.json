@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-14-ai-language-models-need-to-shrink-heres-why-smaller-may-be-better.md",
+      "title": "AI language models need to shrink; here’s why smaller may be better",
+      "excerpt": "Large language models (LLMs) used for generative AI tools can consume vast amounts of processor cycles and be costly to use. Smaller, more industry- or business-tailored models can often provide better results tailored to business needs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3706510/ai-language-models-need-to-shrink-heres-why-smaller-may-be-better.html",
+      "originalUrl": "https://www.computerworld.com/article/3706510/ai-language-models-need-to-shrink-heres-why-smaller-may-be-better.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/09/shutterstock-llm-image-100945775-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3706510/ai-language-models-need-to-shrink-heres-why-smaller-may-be-better.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3706510/ai-language-models-need-to-shrink-heres-why-smaller-may-be-better.amp.html",
+      "publishedDateTime": "2023-09-14T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-14-troubling-trend-of-woke-ai-is-a-big-threat-to-free-speech.md",
       "title": "Troubling trend of woke AI is a big threat to free speech",
       "excerpt": "The troubling trend of woke AI is a big threat to free speech. Big Tech’s AI is biased both by employees and the datasets it uses. Result endangers future of American ingenuity.",
@@ -440,6 +484,50 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-14-hottest-gpu-makers-india-playbook.md",
+      "title": "Hottest GPU maker’s India playbook",
+      "excerpt": "Nvidia’s processors power generative AI applications, making it one of the hottest technology firms in the world today. Analysts have predicted its processors to remain in shortage all through 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/companies/news/hottest-gpu-maker-s-india-playbook-11694625393998.html",
+      "originalUrl": "https://www.livemint.com/companies/news/hottest-gpu-maker-s-india-playbook-11694625393998.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.livemint.com/lm-img/img/2023/09/13/600x338/GPU_1694625629914_1694625634445.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/companies/news/hottest-gpu-maker-s-india-playbook/amp-11694625393998.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/hottest-gpu-maker-s-india-playbook/amp-11694625393998.html",
+      "publishedDateTime": "2023-09-13T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -1111,100 +1199,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-stability-ai-gunning-for-a-hit-launches-an-ai-powered-music-generator.md",
-      "title": "Stability AI, gunning for a hit, launches an AI-powered music generator",
-      "excerpt": "A year ago, Stability AI, the London-based startup behind the open source image-generating AI model Stable Diffusion, quietly released Dance Diffusion, a model that can generate songs and sound effects given a text description of the songs and sound effects in question.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/09/13/stability-ai-gunning-for-a-hit-launches-an-ai-powered-music-generator/",
-      "originalUrl": "https://techcrunch.com/2023/09/13/stability-ai-gunning-for-a-hit-launches-an-ai-powered-music-generator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 307,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1352457907.jpg?resize=1200,752",
-          "width": 1200,
-          "height": 752,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/09/13/stability-ai-gunning-for-a-hit-launches-an-ai-powered-music-generator/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/13/stability-ai-gunning-for-a-hit-launches-an-ai-powered-music-generator/amp/",
-      "publishedDateTime": "2023-09-13T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-teslas-driverless-route-to-dominance.md",
-      "title": "Tesla’s (Driverless) Route to Dominance?",
-      "excerpt": "In 2016, Elon Musk promised every Tesla (TSLA) shipped would “have the hardware needed for full self-driving capability at a safety level substantially greater than that of a human driver.” It sounded grand. But who’s fooling who?",
-      "sourceUrl": null,
-      "webUrl": "https://moneymorning.com/2023/09/13/teslas-driverless-course-to-dominance/",
-      "originalUrl": "https://moneymorning.com/2023/09/13/teslas-driverless-course-to-dominance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://moneymorning.com/wp-content/blogs.dir/1/files/2020/12/Tesla-Cell-Phone.jpg",
-          "width": 1200,
-          "height": 774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://moneymorning.com/2023/09/13/teslas-driverless-course-to-dominance/amp/",
-      "cdnAmpWebUrl": "https://moneymorning-com.cdn.ampproject.org/c/s/moneymorning.com/2023/09/13/teslas-driverless-course-to-dominance/amp/",
-      "publishedDateTime": "2023-09-13T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Money Morning",
-        "domain": "moneymorning.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

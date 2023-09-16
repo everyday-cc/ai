@@ -774,6 +774,49 @@
       ]
     },
     {
+      "path": "_news/2023-09-08-guide-to-artificial-intelligence-etfs.md",
+      "title": "Guide to Artificial Intelligence ETFs",
+      "excerpt": "Robots and artificial intelligence (AI) are increasingly gaining precedence in our daily life. The pandemic-driven stay-at-home trend made these more important as we have become more dependent on ...",
+      "sourceUrl": null,
+      "webUrl": "https://247wallst.com/investing/2023/09/07/guide-to-artificial-intelligence-etfs/",
+      "originalUrl": "https://247wallst.com/investing/2023/09/07/guide-to-artificial-intelligence-etfs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://247wallst.com/wp-content/uploads/2019/01/robot_icon.jpg",
+          "width": 1366,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://247wallst.com/investing/2023/09/07/guide-to-artificial-intelligence-etfs/",
+      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/investing/2023/09/07/guide-to-artificial-intelligence-etfs/",
+      "publishedDateTime": "2023-09-08T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "24/7 Wall St",
+        "domain": "247wallst.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-08-miso-robotics-stock-is-an-ipo-coming-soon.md",
       "title": "Miso Robotics Stock: Is an IPO Coming Soon?",
       "excerpt": "The Miso Robotics stock symbol isn't one you'll find on any brokerage app or stock research outlet. Despite its artificial intelligence innovations and robotics progress, the company is not ...",
@@ -912,40 +955,6 @@
         "AI in Robotics",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-guide-to-artificial-intelligence-etfs.md",
-      "title": "Guide to Artificial Intelligence ETFs",
-      "excerpt": "Robots and artificial intelligence (AI) are increasingly gaining precedence in our daily life. The pandemic-driven stay-at-home trend made these more important as we have become more dependent on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/guide-to-artificial-intelligence-etfs-0",
-      "originalUrl": "https://www.nasdaq.com/articles/guide-to-artificial-intelligence-etfs-0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-07T10:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {

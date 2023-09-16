@@ -53,6 +53,57 @@
       ]
     },
     {
+      "path": "_news/2023-09-15-extending-chatgpt-can-ai-chatbot-plugins-really-change-the-game.md",
+      "title": "Extending ChatGPT: Can AI chatbot plugins really change the game?",
+      "excerpt": "I take a deep dive into how powerful ChatGPT and other AI chatbot plugins really are. Can they actually make a difference in your work life and are they even worth it? Read on.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/extending-chatgpt-do-ai-chatbot-plugins-really-change-the-game/",
+      "originalUrl": "https://www.zdnet.com/article/extending-chatgpt-do-ai-chatbot-plugins-really-change-the-game/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 267,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/51fda1c51f88c886678acd9b26995e9a0f04e8d6/2023/08/01/642fa39b-9b6e-44e3-a5c9-39935cca0eaf/chatgpt-app.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/extending-chatgpt-do-ai-chatbot-plugins-really-change-the-game/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/extending-chatgpt-do-ai-chatbot-plugins-really-change-the-game/",
+      "publishedDateTime": "2023-09-14T14:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-15-4-ways-generative-ai-can-stimilate-the-creator-economy.md",
       "title": "4 ways generative AI can stimilate the creator economy",
       "excerpt": "From generating video scripts to creating artwork, artificial intelligence tools are changing how content creators work in a big way.",
@@ -633,7 +684,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/how-teslas-new-supercomputer-could-upend-the-ai-race-1032631339",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -737,7 +788,7 @@
       "originalUrl": "https://www.telecomtv.com/content/digital-platforms-services/ant-group-s-ai-efforts-build-on-its-fintech-heritage-48484/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1141,7 +1192,7 @@
       "originalUrl": "https://semiengineering.com/patterns-and-issues-in-ai-chip-design/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1173,50 +1224,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-14-ai-language-models-need-to-shrink-heres-why-smaller-may-be-better.md",
-      "title": "AI language models need to shrink; here’s why smaller may be better",
-      "excerpt": "Large language models (LLMs) used for generative AI tools can consume vast amounts of processor cycles and be costly to use. Smaller, more industry- or business-tailored models can often provide better results tailored to business needs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3706510/ai-language-models-need-to-shrink-heres-why-smaller-may-be-better.html",
-      "originalUrl": "https://www.computerworld.com/article/3706510/ai-language-models-need-to-shrink-heres-why-smaller-may-be-better.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/09/shutterstock-llm-image-100945775-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3706510/ai-language-models-need-to-shrink-heres-why-smaller-may-be-better.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3706510/ai-language-models-need-to-shrink-heres-why-smaller-may-be-better.amp.html",
-      "publishedDateTime": "2023-09-14T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

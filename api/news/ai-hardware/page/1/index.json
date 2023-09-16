@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-15-softbanks-chip-designer-arm-extends-gains-after-65-billion-nasdaq-debut.md",
+      "title": "SoftBank's Chip Designer Arm Extends Gains After $65 Billion Nasdaq Debut",
+      "excerpt": "(Reuters) - Shares of SoftBank's Arm Holdings rose before the bell on Friday, extending gains from a stellar Nasdaq debut that valued the British chip designer at $65 billion, in a relief to the U.S. IPO market facing a drought in listings.",
+      "sourceUrl": null,
+      "webUrl": "https://money.usnews.com/investing/news/articles/2023-09-15/softbanks-chip-designer-arm-extends-gains-after-65-billion-nasdaq-debut",
+      "originalUrl": "https://money.usnews.com/investing/news/articles/2023-09-15/softbanks-chip-designer-arm-extends-gains-after-65-billion-nasdaq-debut",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-15T03:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-14-how-teslas-new-supercomputer-could-upend-the-ai-race.md",
       "title": "How Tesla’s New Supercomputer Could Upend the AI Race",
       "excerpt": "Custom-Built AI Tech Is on the Rise In fact, every Big Tech firm building AI models that formerly relied on Nvidia are now developing their own custom-built chips. Amazon (AMZN) has developed two chips customized specifically to build AI models on the firm ...",
@@ -10,7 +53,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/how-teslas-new-supercomputer-could-upend-the-ai-race-1032631339",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -63,7 +106,7 @@
       "originalUrl": "https://semiengineering.com/patterns-and-issues-in-ai-chip-design/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -329,6 +372,50 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-14-hottest-gpu-makers-india-playbook.md",
+      "title": "Hottest GPU maker’s India playbook",
+      "excerpt": "Nvidia’s processors power generative AI applications, making it one of the hottest technology firms in the world today. Analysts have predicted its processors to remain in shortage all through 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/companies/news/hottest-gpu-maker-s-india-playbook-11694625393998.html",
+      "originalUrl": "https://www.livemint.com/companies/news/hottest-gpu-maker-s-india-playbook-11694625393998.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.livemint.com/lm-img/img/2023/09/13/600x338/GPU_1694625629914_1694625634445.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/companies/news/hottest-gpu-maker-s-india-playbook/amp-11694625393998.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/hottest-gpu-maker-s-india-playbook/amp-11694625393998.html",
+      "publishedDateTime": "2023-09-13T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -739,7 +826,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/the-3-most-undervalued-ai-chip-stocks-to-buy-in-september-2023",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -751,6 +838,49 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-11-deepx-charts-path-to-a-limitless-open-edge-ai-ecosystem-with-new-ai-dev-kits-that-break-gpu-boundaries.md",
+      "title": "DEEPX Charts Path to a Limitless Open Edge AI Ecosystem with New AI Dev Kits that Break GPU Boundaries",
+      "excerpt": "In addition, DEEPX is forging strategic partnerships with module and IT system OEMs across the globe. These collaborations aim to integrate DEEPX's products into various embedded systems, with plans to expand the range of open-source hardware products compatible with DEEPX's offerings in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/09/11/9878244.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/09/11/9878244.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2206599/DEEPX__M_2_Module_based_Orange_Pi.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-11T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -849,49 +979,6 @@
         "AI Hardware",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-deepx-charts-path-to-a-limitless-open-edge-ai-ecosystem-with-new-ai-dev-kits-that-break-gpu-boundaries.md",
-      "title": "DEEPX Charts Path to a Limitless Open Edge AI Ecosystem with New AI Dev Kits that Break GPU Boundaries",
-      "excerpt": "DEEPX is poised to unveil five cutting-edge technologies, encompassing support for the latest AI algorithms, GPU-level AI precision, unmatched power-to-performance efficiency, comprehensive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20230911cn05419/deepx-charts-path-to-a-limitless-open-edge-ai-ecosystem-with-new-ai-dev-kits-that-break-gpu-boundaries",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20230911cn05419/deepx-charts-path-to-a-limitless-open-edge-ai-ecosystem-with-new-ai-dev-kits-that-break-gpu-boundaries",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2206599/DEEPX__M_2_Module_based_Orange_Pi.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-11T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {
@@ -1317,102 +1404,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-this-week-in-xr-the-ai-copyright-mess-nintendo-back-in-xr-game-text-to-3d-virtual-worlds-by-hiber3d.md",
-      "title": "This Week In XR: The AI Copyright Mess, Nintendo Back In XR Game, Text to 3D Virtual Worlds By Hiber3D",
-      "excerpt": "This may be the venerated Montreal XR Studio's best work yet. Venice Film Festival ‘Seven Ravens’ Mixed Reality Masterpiece Premieres At Venice Film Festival. Award-winning im",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charliefink/2023/09/07/this-week-in-xr-the-ai-copyright-mess-nintendo-back-in-xr-game-text-to-3d-virtual-worlds-by-hiber3d/",
-      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/09/07/this-week-in-xr-the-ai-copyright-mess-nintendo-back-in-xr-game-text-to-3d-virtual-worlds-by-hiber3d/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64fa348969c863d8e51a5631/0x0.jpg?format=jpg&crop=1683,946,x274,y213,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/09/07/this-week-in-xr-the-ai-copyright-mess-nintendo-back-in-xr-game-text-to-3d-virtual-worlds-by-hiber3d/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/09/07/this-week-in-xr-the-ai-copyright-mess-nintendo-back-in-xr-game-text-to-3d-virtual-worlds-by-hiber3d/amp/",
-      "publishedDateTime": "2023-09-07T16:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-enable-pod-based-gpu-metrics-in-amazon-cloudwatch.md",
-      "title": "Enable pod-based GPU metrics in Amazon CloudWatch",
-      "excerpt": "This post details how to set up container-based GPU metrics and provides an example of collecting these metrics from EKS pods.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enable-pod-based-gpu-metrics-in-amazon-cloudwatch/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/enable-pod-based-gpu-metrics-in-amazon-cloudwatch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-07T11:14:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI Hardware"
       ]
     }
   ],

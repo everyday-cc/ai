@@ -2,6 +2,40 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2023-08-28-how-artificial-intelligence-gave-a-paralyzed-woman-her-voice-back.md",
+      "title": "How Artificial Intelligence Gave a Paralyzed Woman Her Voice Back",
+      "excerpt": "At the age of 30, Ann suffered a brainstem stroke that left her severely paralyzed. She lost control of all the muscles in her body and was unable even to breathe. It came on suddenly one afternoon, f",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearscience.com/2023/08/28/how_artificial_intelligence_gave_a_paralyzed_woman_her_voice_back_975671.html",
+      "originalUrl": "https://www.realclearscience.com/2023/08/28/how_artificial_intelligence_gave_a_paralyzed_woman_her_voice_back_975671.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-27T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearScience",
+        "domain": "realclearscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-28-china-gpu-firms-aim-at-ai-chip-orders-in-the-long-term.md",
       "title": "China GPU firms aim at AI chip orders in the long term",
       "excerpt": "Despite Nvidia's whooping 90% share in the high-end AI GPU sector, China-based GPU chip makers are still keen on contracting their customers frequently to improve their products, eyeing to tighten the partnerships in the hopes of gaining their orders in the long term.",
@@ -1026,49 +1060,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-27-facial-recognition-at-welcome-back-concert-raises-concern.md",
-      "title": "Facial recognition at Welcome Back Concert raises concern",
-      "excerpt": "allowing transactions to take place seamlessly through facial recognition. The system boasts its low processing fees, contactless payment format and reduced transaction time. In a statement to the Daily Trojan, PopPay wrote that it is “a paid sponsor of ...",
-      "sourceUrl": null,
-      "webUrl": "https://dailytrojan.com/2023/08/25/poppay-welcome-back/",
-      "originalUrl": "https://dailytrojan.com/2023/08/25/poppay-welcome-back/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dailytrojan.com/wp-content/uploads/2023/08/Screenshot_2023-08-23_at_10.42.40_AM-1030x661.png",
-          "width": 1030,
-          "height": 661,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-26T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Trojan",
-        "domain": "dailytrojan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

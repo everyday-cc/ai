@@ -2,6 +2,40 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2023-08-29-meeranda-the-human-like-ai-is-now-supported-by-the-ovhcloud-startup-program.md",
+      "title": "Meeranda, the Human-Like AI, is Now Supported by the OVHcloud Startup Program",
+      "excerpt": "Meeranda will commence its Seed Funding round by the end of August 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/08/29/9871453.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/08/29/9871453.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-29T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-29-googles-new-a3-gpu-supercomputer-with-nvidia-h100-gpus-will-be-generally-available-next-month.md",
       "title": "Google’s new A3 GPU supercomputer with Nvidia H100 GPUs will be generally available next month",
       "excerpt": "Earlier this year, Google Cloud announced the private preview launch of its H100-powered A3 GPU virtual machines ... given that their focus is on training and serving generative AI models and large language models. When it announced the A3 last year ...",
@@ -1142,58 +1176,6 @@
         "AI Hardware",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-robots-learning-in-multiple-fun-ways-and-getting-more-dextrous.md",
-      "title": "Robots Learning In Multiple Fun Ways And Getting More Dextrous",
-      "excerpt": "Agarwal is also using the term \"artificial physical intelligence\" or API, which might be slightly confusing to people who work with application programming",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/08/28/robots-learning-in-multiple-fun-ways-and-getting-more-dextrous/",
-      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/08/28/robots-learning-in-multiple-fun-ways-and-getting-more-dextrous/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64ecfbe9e9c37dfe813b0612/0x0.jpg?format=jpg&width=1200",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/08/28/robots-learning-in-multiple-fun-ways-and-getting-more-dextrous/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/08/28/robots-learning-in-multiple-fun-ways-and-getting-more-dextrous/amp/",
-      "publishedDateTime": "2023-08-28T12:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

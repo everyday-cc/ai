@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-09-07-softbank-group-backs-former-argo-ai-founders-on-new-self-driving-trucks-startup.md",
+      "title": "Softbank Group backs former Argo AI founders on new self-driving trucks startup",
+      "excerpt": "There’s a new self-driving trucks startup in town. And the faces are familiar. Bryan Salesky, Peter Rander and Brett Browning — the trio behind the now defunct Ford and VW-backed autonomous vehicle startup Argo AI — have formed a new company called ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/09/07/softbank-group-backs-former-argo-ai-founders-on-new-self-driving-trucks-startup/",
+      "originalUrl": "https://techcrunch.com/2023/09/07/softbank-group-backs-former-argo-ai-founders-on-new-self-driving-trucks-startup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/09/FINAL_Stack_Truck_1-1.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/09/07/softbank-group-backs-former-argo-ai-founders-on-new-self-driving-trucks-startup/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/07/softbank-group-backs-former-argo-ai-founders-on-new-self-driving-trucks-startup/amp/",
+      "publishedDateTime": "2023-09-07T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-07-hawaiis-workforce-and-the-emergence-of-artificial-intelligence.md",
       "title": "Hawaiʻi’s workforce and the emergence of artificial intelligence",
       "excerpt": "With restaurants on Oʻahu utilizing AI for service-related work and lots of other businesses utilizing ChapGPT for any number of writing related needs, the emergence of AI in Hawaii is inevitable.",
@@ -1156,49 +1208,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-cloudera-collaborates-with-aws-to-deliver-enterprise-generative-ai-based-solutions.md",
-      "title": "Cloudera collaborates with AWS to deliver enterprise generative AI-based solutions",
-      "excerpt": "According to an official release, Cloudera has chosen AWS to run components of the CDP, including data in motion, data lake house, data warehouse, operational database, AI/machine learning, master data management and end-to-end security.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-cloudera-collaborates-with-aws-to-deliver-enterprise-generative-ai-based-solutions-3235922/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-cloudera-collaborates-with-aws-to-deliver-enterprise-generative-ai-based-solutions-3235922/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-07T125734.136.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-cloudera-collaborates-with-aws-to-deliver-enterprise-generative-ai-based-solutions-3235922/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-cloudera-collaborates-with-aws-to-deliver-enterprise-generative-ai-based-solutions-3235922/lite/",
-      "publishedDateTime": "2023-09-07T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

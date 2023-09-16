@@ -2,6 +2,100 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-09-13-stability-ai-gunning-for-a-hit-launches-an-ai-powered-music-generator.md",
+      "title": "Stability AI, gunning for a hit, launches an AI-powered music generator",
+      "excerpt": "A year ago, Stability AI, the London-based startup behind the open source image-generating AI model Stable Diffusion, quietly released Dance Diffusion, a model that can generate songs and sound effects given a text description of the songs and sound effects in question.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/09/13/stability-ai-gunning-for-a-hit-launches-an-ai-powered-music-generator/",
+      "originalUrl": "https://techcrunch.com/2023/09/13/stability-ai-gunning-for-a-hit-launches-an-ai-powered-music-generator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 307,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1352457907.jpg?resize=1200,752",
+          "width": 1200,
+          "height": 752,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/09/13/stability-ai-gunning-for-a-hit-launches-an-ai-powered-music-generator/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/13/stability-ai-gunning-for-a-hit-launches-an-ai-powered-music-generator/amp/",
+      "publishedDateTime": "2023-09-13T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-13-teslas-driverless-route-to-dominance.md",
+      "title": "Tesla’s (Driverless) Route to Dominance?",
+      "excerpt": "In 2016, Elon Musk promised every Tesla (TSLA) shipped would “have the hardware needed for full self-driving capability at a safety level substantially greater than that of a human driver.” It sounded grand. But who’s fooling who?",
+      "sourceUrl": null,
+      "webUrl": "https://moneymorning.com/2023/09/13/teslas-driverless-course-to-dominance/",
+      "originalUrl": "https://moneymorning.com/2023/09/13/teslas-driverless-course-to-dominance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://moneymorning.com/wp-content/blogs.dir/1/files/2020/12/Tesla-Cell-Phone.jpg",
+          "width": 1200,
+          "height": 774,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://moneymorning.com/2023/09/13/teslas-driverless-course-to-dominance/amp/",
+      "cdnAmpWebUrl": "https://moneymorning-com.cdn.ampproject.org/c/s/moneymorning.com/2023/09/13/teslas-driverless-course-to-dominance/amp/",
+      "publishedDateTime": "2023-09-13T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Money Morning",
+        "domain": "moneymorning.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-13-7-promising-blue-chip-bargains-for-long-term-growth.md",
       "title": "7 Promising Blue-Chip Bargains for Long-Term Growth",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Blue-Chip bargains are a sure way to add value to your portfolio. During high",
@@ -455,7 +549,7 @@
       "originalUrl": "https://www.ibm.com/blog/how-generative-ai-is-revolutionizing-supply-chain-operations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 319,
+      "heat": 309,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1109,110 +1203,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-siri-and-apples-ai-moves.md",
-      "title": "Siri and Apple’s AI Moves",
-      "excerpt": "We’re midway through Apple’s new Watch Series 9 introduction and we’ve heard how Siri has gotten better. The assistant now processes info right on the device and you can ask it about your health data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/livecoverage/apple-iphone-event-2023/card/siri-and-apple-s-ai-moves-MptPFrA2JGuuCuS9RDvY",
-      "originalUrl": "https://www.wsj.com/livecoverage/apple-iphone-event-2023/card/siri-and-apple-s-ai-moves-MptPFrA2JGuuCuS9RDvY",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-850656/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-12T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-with-github-for-data-gableai-wants-to-connect-software-engineers-and-ml-developers.md",
-      "title": "With ‘GitHub for data,’ Gable.ai wants to connect software engineers and ML developers",
-      "excerpt": "Seattle's Gable.ai launched out of stealth today, with $7 million in seed funding, to build the 'GitHub for data.'",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/with-github-for-data-gable-ai-wants-to-connect-software-engineers-and-ml-developers/",
-      "originalUrl": "https://venturebeat.com/ai/with-github-for-data-gable-ai-wants-to-connect-software-engineers-and-ml-developers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/09/Untitled-design-2023-09-11T151420.961.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-12T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

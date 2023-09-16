@@ -7,7 +7,7 @@ originalUrl: "https://semiengineering.com/patterns-and-issues-in-ai-chip-design/
 webUrl: "https://semiengineering.com/patterns-and-issues-in-ai-chip-design/"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -62,15 +62,6 @@ related:
       name: CBS 58 News
       domain: cbs58.com
     quality: 31
-  - title: "AI Deepfakes in Campaigns Are Detectable, But Does It Matter?"
-    excerpt: "Deepfake audio, authentic-sounding but false recordings built from short snippets of a subject talking, have become so realistic that they present painfully obvious potential for underhanded political tactics."
-    publishedDateTime: 2023-09-11T17:42:00Z
-    webUrl: "https://www.govtech.com/artificial-intelligence/ai-deepfakes-in-campaigns-are-detectable-but-does-it-matter"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 19
 
 secured: "NSIjamvHovrVWq59IZk4uXV7kOaJbE0uI7VYjnzzJeGy0svB4LKGnKGhoxXRj2UUVgQNWQk3/n/n6LPtcOtZSSle0Xyk0mTttNG3iBzclB3oKK53lK6R0HkSlBgCQ07FXDPFX8+/E1IOk+NnRg1//xXs/0J8wR0hLEo8lRWzmevgICre9u3ldAlM4o4QotkL+2uiQ2GyL6nFhpumRZAmWa24QGrIvs7FL1ws4eRMl8MMKWb+cvjLIAkmv9OCNLwF7AFGwnFfIpPlL5sggiGiqhibQiNqy7zW1Nhcy5lQ8wxF+MFkiio6JYbMGPXJXwIEF0UDvXAhollqV+w87SOtRJIy+PFcGs9STaXZsXREtPM=;bHsNj/ju+rHTC8yJ2h09xg=="
 ---

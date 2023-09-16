@@ -247,15 +247,6 @@ related:
         width: 500
         height: 338
         isCached: true
-  - title: "5 Cool Chip Solutions For Edge AI"
-    excerpt: "CRN rounds up five cool edge AI solutions from AMD, Axelera AI, Intel, Nvidia and SiMa.ai for the growing number of IoT devices entering the world."
-    publishedDateTime: 2023-09-11T18:33:00Z
-    webUrl: "https://www.crn.com/news/internet-of-things/5-cool-chip-solutions-for-edge-ai"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 34
   - title: "Adobe generative AI tool Firefly is now generally available"
     excerpt: "The new generative AI image creation and editing tool has been trained on stock images and content in the public domain."
     publishedDateTime: 2023-09-13T09:59:00Z

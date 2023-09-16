@@ -41,20 +41,6 @@ related:
         width: 988
         height: 719
         isCached: true
-  - title: "Meta developing an AI model more powerful than LLaMa 2"
-    excerpt: "Meta believes that the new model will be as powerful as GPT-4, OpenAI's most impressive LLM yet. Meta is competing with the likes of Google, OpenAI, Microsoft, and Apple, all in a deep race and a rush to invest their resources and finances in developing the latest artificial intelligence models."
-    publishedDateTime: 2023-09-11T19:03:00Z
-    webUrl: "https://interestingengineering.com/innovation/meta-ai-model-more-powerful-llama-2"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/09/11/image/jpeg/FjZIX0P2fuHnGgDSH6Ie34qgvPiaK5ghlmTAYdzB.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "As the built environment changes, AI and machine learning tell a more complete story"
     excerpt: "AI-supported monitoring of the built environment is transforming communities across the country and around the world. This article will outline some of the key ways that intelligent imaging, data retrieval and AI-driven analysis can provide ongoing benefits like cost and labor savings,"
     publishedDateTime: 2023-09-12T22:41:00Z
@@ -65,6 +51,6 @@ related:
       domain: govexec.com
     quality: 27
 
-secured: "9qhKPz7uBAhKigtMgb0Np7sUr21UrLZ9As9V+1jsl+x7xCbfUckxnNI+TfSSWvrald2Eg+bdihm/8RlwepSiNrBYf8GVVGCn2LUqiOeWtZht816MD0ti8T8ZzcONsP7rj2kUUy7HPIdwv+bsKaPjoV6sLXmWfi+XeylQP2r22edCBeFQR7sz5nGAGv21UFJwq37VeE5soahNgZ7usjCc87NSwL1mViZysdKnxE2VUHk1B0wfWFx9Cq8kZDwJE5HLctUgCQN+UiU1zF8UIkgjWUl8mb3OLrGovBnGGxuVroQ8tktqF99c3jzKO8m+7QKFW87on1hlqDl1X5jb4m5VZQu5tb1XyRWHW8dNzxciRcI=;jUsIWTYS2ync5bKow+mCaQ=="
+secured: "Bx4GMUw63wawmbRbmpSKgu1Qxjlopjwyz0YWocL2Gkj30O8vplxLAq7LEvLeB0T4BqJCVAYxHwry/Ua7e8dwv+5TrwYWtiqk9AVSPfQi5ZeP3NkgIZjG/XnFDTuGrBvkQF3yknEVV0S//qdlm8qTTCpuTGpweQiALeFdR5L7m0YN4HL33/CDPjrUQrBE63dREhmEX5X1EQ9YeMObQU4u1V4vLeK+Qf53dn7bC1u1lTWzV8kFG3YZSLMIkFyCETUZdeQzV0S8hSt15QTy4RlBAD5N/rhr3aF6ML99sijMbEz4h/CP6t/Dt21/VxABhYRs52Bmd1bJ/+ew6ZQunS4PAJpyQlA5xTJQl5QuvtAl+/UqAEDZY4fTc3bVb+2KiQeq1jd+1LWJ4RxJl9rI2pZt2++LweKID188YNXMFxbAQoGzTQlyVMpC0QbBpjt8boyXOq2AdcPSpODxNeOIqQ+GwGzT/Cd1iJrt7MaI5KSaoFY/X/R4LfF8vqNJjWgjzPLtMgzsgsbgyAXyYtPs/dYOBg==;kqfy9Osx/Opw29Vl3o0f/A=="
 ---
 

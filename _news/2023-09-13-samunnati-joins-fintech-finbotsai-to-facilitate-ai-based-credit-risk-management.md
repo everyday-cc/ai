@@ -51,15 +51,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Fintech, Health Care, AI & More: Total Wealth Symposium 2024"
-    excerpt: "Director of VIP services John Wilkinson joins The Banyan Edge Podcast to break down what to expect for Banyan Hill's Total Wealth Symposium 2024."
-    publishedDateTime: 2023-09-11T18:04:00Z
-    webUrl: "https://banyanhill.com/fintech-health-care-ai-more-total-wealth-symposium-2024/"
-    type: article
-    provider:
-      name: Banyan Hill Publishing
-      domain: banyanhill.com
-    quality: 19
   - title: "How the customer experience has been transformed by fintech"
     excerpt: "AI and advanced predictive analytics are by far and away the ... it’s only a matter of time before it’s geared up to deal with more complex queries. Here are some of how fintech is improving customer lives. Finance management tools During these ..."
     publishedDateTime: 2023-09-12T16:32:00Z

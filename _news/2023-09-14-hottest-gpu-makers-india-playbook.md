@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/companies/news/hottest-gpu-maker-s-india-pl
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/hottest-gpu-maker-s-india-playbook/amp-11694625393998.html"
 type: article
 quality: 61
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: Mint
@@ -26,6 +26,24 @@ images:
     width: 600
     height: 338
     isCached: true
+
+related:
+  - title: "Artificial Intelligence To Strengthen Indian Army, Made-In India '4-Legged Robot' To Take On Enemies"
+    excerpt: "At the North Tech Symposium 2023 in Jammu, the Indian Army unveiled groundbreaking artificial intelligence advancements that are reshaping contemporary warfare strategies, and a Multi-utility Legged Equipment (MULE),"
+    publishedDateTime: 2023-09-14T06:42:00Z
+    webUrl: "https://www.timesnownews.com/videos/mirror-now/society/artificial-intelligence-to-strengthen-indian-army-made-in-india-4-legged-robot-to-take-on-enemies-video-103655438"
+    ampWebUrl: "https://www.timesnownews.com/videos/mirror-now/society/artificial-intelligence-to-strengthen-indian-army-made-in-india-4-legged-robot-to-take-on-enemies-video-103655438/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/videos/mirror-now/society/artificial-intelligence-to-strengthen-indian-army-made-in-india-4-legged-robot-to-take-on-enemies-video-103655438/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 59
+    images:
+      - url: "https://static.tnn.in/thumb/msid-103655438,updatedat-1694673751837,width-1280,height-720,resizemode-75/103655438.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "0rzvg9YHcoJB+ZlSXxs5Q9TxnvApB7Of6lzN8uPAnmDHDYEau7whO2MANkJsPy6RIy9s698NVODQNQ6/YdGoo0tn2EwOICHGLBdwT1MghFdVNQioP7WYrXW7zFLlPwH5h2J4Rjbm+MvzPe9xYLY1VDGpZKDe+O47HOomAOCxDxIcbVSr7YN4T1r7UpQAhU9DYTLaHfmDQOmsp8/XasHXCbmLEb2Oa3OoUObk97/l6gUkjZxEjt3lvkWRPztKxm2ddLPqqpKJVQ1D5NuXvD8+6xzMMEYBu1rKv20UfMsdIqDXnGO8m3a/tFJiM/eif9qml4JMTfPVJcWGb/wTx7fb5kv4549EcadgiSoZ2bZeKtHA/ofVQTSQJ1S4VlHtSl5SkSpWQxp1wvSLB1GVDSVo/pliF7ACLqDRifgd4fcuztDVZmFnG8rfgYUT2xgM9qFl5eOW26aZmaNtbPSi01vzqoibyxzYQwW+BI6BU4LbvmS9Z3IixGC9EaChhWlfFXtXmSsSxMKHeXI6UN0zYfrJrQ==;BXHzgX+ccQL8a2KiCKReSg=="
 ---

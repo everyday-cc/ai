@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-09-11-the-7-best-robotics-stocks-to-buy-now-september-2023.md",
+      "title": "The 7 Best Robotics Stocks to Buy Now: September 2023",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips While artificial intelligence stocks have seen a meteoric rise in recent",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/the-7-best-robotics-stocks-to-buy-now-september-2023-1032618318",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-7-best-robotics-stocks-to-buy-now-september-2023-1032618318",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-10T12:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-10-rise-of-the-machine-learningdeep-fakes-could-threaten-our-democracy.md",
       "title": "Rise Of The Machine Learning—Deep Fakes Could Threaten Our Democracy",
       "excerpt": "The threat from AI-generated content is magnified due to the fact that so many Americans now rely on social media as a primary news source",
@@ -1098,40 +1141,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-09-face-recognition-systems-market-with-business-analysis-2023-2031.md",
-      "title": "Face Recognition Systems Market with Business Analysis 2023-2031",
-      "excerpt": "Face Recognition Systems Market Snapshot: In this report analysis, we thoroughly examine the Face Recognition Systems Market by exploring it into different segments, including size, share ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34377140/face-recognition-systems-market-with-business-analysis-2023-2031",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34377140/face-recognition-systems-market-with-business-analysis-2023-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-08T12:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

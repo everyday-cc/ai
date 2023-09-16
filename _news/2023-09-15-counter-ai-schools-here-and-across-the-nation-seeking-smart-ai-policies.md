@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Ecology and artificial intelligence: Stronger together"
-    excerpt: "Many of today's artificial intelligence systems loosely mimic the human brain. In a paper published in Proceedings of the National Academy of Sciences, researchers suggest that another branch of biology—ecology—could inspire a whole new generation of AI to be more powerful,"
-    publishedDateTime: 2023-09-11T19:01:00Z
-    webUrl: "https://phys.org/news/2023-09-ecology-artificial-intelligence-stronger.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 19
 
 secured: "2Of2lUtIBpwbIZ1YdCOrLi23gBmmefwLDsQUaWpW9bwCKl7TD1fRfCx7rQTv+qNVkeJaelNGjC+r6qwuFqnkp2xv7UVcfMY+cCqnkLzk4qulPgIFspgai/YiLAZpvbh2iN7Gyzqsz5gvU2QKD4EB7P82yGZhWVAo/SrL9j6IhSUgzub6rf5LmLG7JP88L7h034FSWrY/IoFOveqk7/yENtUJcEDGsnhALP0n1mCymyi4PGEgOK6Ggcg8Rix0b1KTwFKSyr7JBOlG+HP7uSD+nRfHOJ5xC0IUOnn9Exu2JMuYDgxcprRqzfhAjvArM3d9syDT1/px9Uy/YzJhvZQkBgS9tR7ajslmxCvHGMhOyV0=;EFECgLMdawcwkOipFu+3RQ=="
 ---

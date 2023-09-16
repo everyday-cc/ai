@@ -62,15 +62,6 @@ related:
       name: CBS 58 News
       domain: cbs58.com
     quality: 31
-  - title: "AI Deepfakes in Campaigns Are Detectable, But Does It Matter?"
-    excerpt: "Deepfake audio, authentic-sounding but false recordings built from short snippets of a subject talking, have become so realistic that they present painfully obvious potential for underhanded political tactics."
-    publishedDateTime: 2023-09-11T17:42:00Z
-    webUrl: "https://www.govtech.com/artificial-intelligence/ai-deepfakes-in-campaigns-are-detectable-but-does-it-matter"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 19
 
 secured: "lQd5hTibSone4IQwU98DilTbLZXxRt0Ft/G1vbPxPtvIGMhyVIUHLTwdICU3qOjBAfOEZ0NLfofpvjacJqwOg2mcJEA6D9azen5ug34vFNUqJ7kjG+AaBUWoZaS3jXrMgeFOK3O4O08GRffuu9oxDcq6YRmJJZywnKrUFzn3Uxk2SudraESliG0iQq0uCjMI1+OgT4oGjG0gmOKvIWYI4QL+bg5zWW0WBndFU9QKSfFe+Yfu4/8EAFsPdNzTEl3LfPL1+kWIQpeT8rPo4tsbNrfAW6+45xC82ApBSs5bO1MdrO19ukaDmOpMhdzDxlL7ji2OfzqFuHNUpu/5NsldMDZmV7M5r1LZwJrjfd7BNcM=;/WJ7ZDt7JcY92e+7DaFDYg=="
 ---

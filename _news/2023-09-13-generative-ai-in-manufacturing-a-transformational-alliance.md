@@ -231,15 +231,6 @@ related:
         width: 500
         height: 338
         isCached: true
-  - title: "5 Cool Chip Solutions For Edge AI"
-    excerpt: "CRN rounds up five cool edge AI solutions from AMD, Axelera AI, Intel, Nvidia and SiMa.ai for the growing number of IoT devices entering the world."
-    publishedDateTime: 2023-09-11T18:33:00Z
-    webUrl: "https://www.crn.com/news/internet-of-things/5-cool-chip-solutions-for-edge-ai"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 34
   - title: "Leading The Fintech Revolution: Forms Syntron Presents Generative Ai And Web 3.0 Financial Platforms"
     excerpt: "Empowered by Microsoft, FORMS Syntron unleashes Banking Copilot and FINNOSafe to transform the financial sectorHONG KONG SAR - Media OutReac"
     publishedDateTime: 2023-09-14T09:28:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2023/09/15/1079499/ai-cancer-screen
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/15/1079499/ai-cancer-screening-overdiagnosis/amp/"
 type: article
 quality: 57
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: MIT Technology Review
@@ -35,15 +35,6 @@ related:
       name: The Daily Record (Maryland)
       domain: thedailyrecord.com
     quality: 21
-  - title: "Can We Talk? Artificial Intelligence in the World of Cancer Care"
-    excerpt: "Artificial intelligence platforms, including ChatGPT, offer many benefits, but some experts remain skeptical of the technology’s trustworthiness."
-    publishedDateTime: 2023-09-11T19:01:00Z
-    webUrl: "https://www.curetoday.com/view/can-we-talk-artificial-intelligence-in-the-world-of-cancer-care"
-    type: article
-    provider:
-      name: Cure Today
-      domain: curetoday.com
-    quality: 19
 
 secured: "3NGZcC0IPLsrpvehxHTWrYj/bsyzdI97Z9ZnI5jXz/Se01dLr5Rwkon0vUlx+vI+J6ZWz8U9bYA3yFNu9A3O397iRUm6WHhcAtqo85NAiJhPuBrqecWsQoOJWicFcV8SzSrIgRj487W3DUCiRJxim7NuveT0pqtgDHDkH3mU7/Sl9UKAME259nBhXvGHRddDyO1gQ072BYyuqqPKDRT5DvpGHzVp3HlZMG60EUpe8Oi5Mg1kpz9nj0RCQKXEFdOt4vuD1lnzXAIWQgZwFB+uIab3cMOlNJiG6rgEaqc1qg55neA1RnSt+Pvg3f0zvTqJUI+n03MI4tHrMP3zoi48rOMW8io/sS5RBHZIOgnKHlws9y5lsj5oIE6cbYfD4OeiXcr+7+XoQrxdKj8E9eufggqw0HBaweBPY6ggEjKy4oXu9oeJGWsk2L/tqfOt5JGtFn465hm7ZTPS+kL7S7GhumVtZ2y8ZsyYF6y+DqsWIkSlBdv0b8CdoExln5s+K8eYD3Hy4KwEAteDhGodtawXQQ==;KNzSjctZZs9w0OcCD/RVag=="
 ---

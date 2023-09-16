@@ -2,6 +2,59 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2023-07-30-can-chatgpt-destroy-humanity-if-it-doesnt-understand-the-world.md",
+      "title": "Can ChatGPT Destroy Humanity If It Doesn’t Understand The World?",
+      "excerpt": "The depth of their understanding of the human world is a much more important hurdle than hallucinations for LLM to overcome before they become \"superintelligence.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2023/07/30/can-chatgpt-destroy-humanity-if-it-doesnt-understand-the-world/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2023/07/30/can-chatgpt-destroy-humanity-if-it-doesnt-understand-the-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c2848901b07fcf4316a7fe/0x0.jpg?format=jpg&width=1200",
+          "width": 450,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2023/07/30/can-chatgpt-destroy-humanity-if-it-doesnt-understand-the-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/07/30/can-chatgpt-destroy-humanity-if-it-doesnt-understand-the-world/amp/",
+      "publishedDateTime": "2023-07-30T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-07-30-artificial-intelligence-the-airplane-of-the-brain.md",
       "title": "Artificial intelligence, the airplane of the brain?",
       "excerpt": "The macroeconomic impact of this technology can be significant, accelerating the innovative capacity of society",
@@ -1098,48 +1151,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-walmart-using-ai-to-streamline-organization-what-will-it-mean-for-workers.md",
-      "title": "Walmart using AI to streamline organization – what will it mean for workers?",
-      "excerpt": "Walmart is using artificial intelligence to help streamline their product organization. That raises questions about how workers' jobs could change. NBC News’ Jacob Ward has more details.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/nightly-news/video/walmart-using-ai-to-streamline-organization-what-will-it-mean-for-workers-189519429834",
-      "originalUrl": "https://www.nbcnews.com/nightly-news/video/walmart-using-ai-to-streamline-organization-what-will-it-mean-for-workers-189519429834",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_07/1690586636299_nn_jwa_walmart_embraces_new_tech_230728_1920x1080-4596y2.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo189519429834",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo189519429834",
-      "publishedDateTime": "2023-07-28T16:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

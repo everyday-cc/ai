@@ -2,6 +2,50 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2023-08-30-presentation-translator-lets-you-add-live-subtitles-and-translate-presentations.md",
+      "title": "Presentation Translator lets you add live subtitles and translate presentations",
+      "excerpt": "Presentation Translator is built on Microsoft Translator API and powered by Microsoft Cognitive Services. It actively uses Machine Learning to teach itself from your voice and speech. If you start ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thewindowsclub.com/presentation-translator-powepoint-addon",
+      "originalUrl": "https://www.thewindowsclub.com/presentation-translator-powepoint-addon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thewindowsclub.com/wp-content/uploads/2017/07/PowerPoint-Translator-Windows.jpg",
+          "width": 700,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TWCN Tech News",
+        "domain": "thewindowsclub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-08-30-domo-announces-domoai-to-revolutionize-the-way-businesses-manage-and-deploy-artificial-intelligence.md",
       "title": "Domo Announces Domo.AI to Revolutionize the Way Businesses Manage and Deploy Artificial Intelligence",
       "excerpt": "The Domo platform -- and our architectural approach to Domo.AI -- is purpose-built to deliver on this need for unique data experiences that help businesses overcome real-world challenges and accelerate innovation and growth.",
@@ -1152,40 +1196,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-meeranda-the-human-like-ai-is-now-supported-by-the-ovhcloud-startup-program.md",
-      "title": "Meeranda, the Human-Like AI, is Now Supported by the OVHcloud Startup Program",
-      "excerpt": "Meeranda will commence its Seed Funding round by the end of August 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/08/29/9871453.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/08/29/9871453.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-29T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

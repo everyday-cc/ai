@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI app Character.ai is catching up to ChatGPT in the U.S."
-    excerpt: "That’s notable growth following Character.ai’s May 2023 launch, when the startup shared it had topped 1.7 million installs in its first week. Of course, installs don’t equate to users, much less active ones. In fact, the average mobile app has a 30 ..."
-    publishedDateTime: 2023-09-11T17:35:00Z
-    webUrl: "https://techcrunch.com/2023/09/11/ai-app-character-ai-is-catching-up-to-chatgpt-in-the-u-s/"
-    ampWebUrl: "https://techcrunch.com/2023/09/11/ai-app-character-ai-is-catching-up-to-chatgpt-in-the-u-s/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/11/ai-app-character-ai-is-catching-up-to-chatgpt-in-the-u-s/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/05/characterai-Mobile-App.png?w=1011"
-        width: 1011
-        height: 497
-        isCached: true
   - title: "Extending ChatGPT: Can AI chatbot plugins really change the game?"
     excerpt: "I take a deep dive into how powerful ChatGPT and other AI chatbot plugins really are. Can they actually make a difference in your work life and are they even worth it? Read on."
     publishedDateTime: 2023-09-14T21:03:00Z
@@ -86,22 +70,6 @@ related:
         width: 1400
         height: 900
         isCached: true
-  - title: "Why ChatGPT isn't conscious—but future AI systems might be"
-    excerpt: "Google engineer Blake Lemoine made headlines by claiming the company's LaMDA chatbot had achieved sentience. The software had the conversational ability of a precocious seven-year-old, Lemoine said, and we should assume it possessed a similar awareness of the world."
-    publishedDateTime: 2023-09-12T16:47:00Z
-    webUrl: "https://techxplore.com/news/2023-09-chatgpt-isnt-consciousbut-future-ai.html"
-    ampWebUrl: "https://techxplore.com/news/2023-09-chatgpt-isnt-consciousbut-future-ai.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-chatgpt-isnt-consciousbut-future-ai.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/why-chatgpt-isnt-consc.jpg"
-        width: 1356
-        height: 668
-        isCached: true
   - title: "UGOT modular AI robot kit with support for ChatGPT, Python and more"
     excerpt: "face recognition, and text and object recognition. If the UGOT campaign successfully raises its required pledge goal and production progresses smoothly, worldwide shipping is expected to take place sometime around December 2023. To learn more about the ..."
     publishedDateTime: 2023-09-12T13:38:00Z
@@ -132,6 +100,15 @@ related:
         width: 3024
         height: 4032
         isCached: true
+  - title: "Verbal nonsense reveals limitations of AI chatbots"
+    excerpt: "The era of artificial-intelligence chatbots that seem to understand and use language the way we humans do has begun. Under the hood, these chatbots use large language models, a particular kind of neural network."
+    publishedDateTime: 2023-09-15T12:22:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/09/230914114704.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Harnessing AI And ChatGPT Technology: The Next Industrial Revolution"
     excerpt: "The future is here—let's embrace it and drive the industrial revolution of tomorrow. And remember: Be Courageous! Be Digital! Be Remarkable!"
     publishedDateTime: 2023-09-12T13:16:00Z
@@ -140,6 +117,15 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
+    quality: 47
+  - title: "Tencent Backer Prosus Develops AI Chatbot for Its Companies"
+    excerpt: "Dutch e-commerce investor Prosus NV has developed an artificial intelligence chatbot for its portfolio of companies, as tech businesses increasingly turn to the emerging technology to streamline operations."
+    publishedDateTime: 2023-09-12T13:36:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-09-12/tencent-backer-prosus-develops-ai-chatbot-for-its-companies"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
     quality: 47
   - title: "Claude Pro vs. ChatGPT Plus: Which AI chatbot is better for you?"
     excerpt: "Claude Pro is a new paid subscription service from AI startup Anthropic and is set to compete directly with OpenAI's ChatGPT Plus."
@@ -164,47 +150,19 @@ related:
         width: 3200
         height: 1600
         isCached: true
-  - title: "ChatGPT diagnosis detects disease after 17 doctors failed"
-    excerpt: "A nervous mom figured out her son’s illness from an unlikely source: ChatGPT. Courtney’s four-year-old son, Alex, was experiencing chronic pain, but doctors couldn’t pinpoint the cause. After"
-    publishedDateTime: 2023-09-13T16:04:00Z
-    webUrl: "https://technology.inquirer.net/127967/chatgpt-diagnosis-detects-disease"
+  - title: "Is Tencent’s ChatGPT rival, Hunyuan, Set to Disrupt the AI Market?"
+    excerpt: "Tencent launches Hunyuan designed for natural language processing in Chinese to create a ChatGPT-like chatbot. Will it become a game-changer?"
+    publishedDateTime: 2023-09-16T10:08:00Z
+    webUrl: "https://www.techopedia.com/is-tencents-chatgpt-rival-hunyuan-set-to-disrupt-the-ai-market"
     type: article
     provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
+      name: Techopedia
+      domain: techopedia.com
     quality: 39
     images:
-      - url: "https://technology.inquirer.net/files/2023/09/chatgpt-ai-healthcare.png-620x349.jpg"
-        width: 620
-        height: 349
-        isCached: true
-  - title: "AI technology behind ChatGPT was built in Iowa — with lots of water"
-    excerpt: "In a paper due to be published later this year, Ren's team estimates ChatGPT gulps up 500 milliliters of water — close to what's in a 16-ounce water bottle — every time you as"
-    publishedDateTime: 2023-09-13T22:16:00Z
-    webUrl: "https://omaha.com/news/nation-world/business/ai-technology-for-chatgpt-was-built-in-iowa-with-lots-of-water/article_b0520c57-928d-50a0-b92e-84ec6cb7f532.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/b/05/b0520c57-928d-50a0-b92e-84ec6cb7f532/6500b22e260cb.preview.jpg?crop=1694%2C889%2C42%2C253&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://www.techopedia.com/wp-content/uploads/2023/09/android_02.png"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "ChatGPT alternatives AI21, Falcon 180b, Palm 2 and more"
-    excerpt: "Learn more about ChatGPT alternatives in this quick overview video which provides a look at AI21, Claude 2.0 and more. These AI models can be"
-    publishedDateTime: 2023-09-15T08:07:00Z
-    webUrl: "https://www.geeky-gadgets.com/chatgpt-alternatives/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/ChatGPT-alternatives.jpg"
-        width: 700
-        height: 466
+        height: 600
         isCached: true
   - title: "Dr. ChatGPT: How accurate are the new AI tools with medical capabilities?"
     excerpt: "There are still many questions about how to integrate artificial intelligence into health care systems, however, the race is on: The Mayo Clinic is integrating a chatbot into its system."
@@ -220,15 +178,20 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Druid, a conversational AI platform for enterprises that integrates with ChatGPT, raises $24M"
-    excerpt: "Conversational AI startup Druid has raised $24 million in a Series B round of funding, as it looks to double down on its U.S. growth."
-    publishedDateTime: 2023-09-12T13:08:00Z
-    webUrl: "https://techcrunch.com/2023/09/12/druid-a-conversational-ai-platform-for-enterprises-that-integrates-with-chatgpt-raises-24m/"
+  - title: "Build Intelligent AI Bots That Speak Your Language: Maqsam's AI Conversational Chatbot Unveiled"
+    excerpt: "One of the standout features of Maqsam's AI conversational chatbot is its hyper-local advantage, especially in Arabia. For businesses operating in this diverse and dynamic market, where dialects and cultural nuances vary significantly, Maqsam's AI chatbot provides a localized solution that ensures meaningful interactions with customers."
+    publishedDateTime: 2023-09-13T09:27:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-build-intelligent-ai-bots-that-speak-language-maqsams-/2023/09/13/9879923.htm"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 36
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 27
+    images:
+      - url: "https://mma.prnewswire.com/media/2208602/Maqsam.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Why Japan is building its own version of ChatGPT"
     excerpt: "Some Japanese researchers feel that AI systems trained on foreign languages cannot grasp the intricacies of Japanese language and culture."
     publishedDateTime: 2023-09-14T03:41:00Z
@@ -257,15 +220,6 @@ related:
         width: 790
         height: 496
         isCached: true
-  - title: "Doctors see potential in ChatGPT diagnoses, but questions still remain"
-    excerpt: "With the rise of generative AI, people who once turned to “Dr. Google” to check on medical symptoms are now turning to chatbots. Researchers are urging caution."
-    publishedDateTime: 2023-09-12T13:28:00Z
-    webUrl: "https://www.modernhealthcare.com/digital-health/chatgpt-generative-ai-diagnoses-google-emory-university-mayo-clinic"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 19
   - title: "Tackling Loneliness With ChatGPT and Robots"
     excerpt: "Doctors Qi and Wu presented to Neurology Live a survey of the benefits of AI in their June paper, “ChatGPT: A Promising Tool to Combat Social Isolation and Loneliness in Older Adults With Mild Cognitive Impairment."
     publishedDateTime: 2023-09-12T12:39:00Z
@@ -275,15 +229,24 @@ related:
       name: alleywatch.com
       domain: alleywatch.com
     quality: 19
-  - title: "Artificial intelligence tech behind ChatGPT guzzles Iowa water, researchers say"
-    excerpt: "To keep cool on hot days, data centers need to pump in water — often to a cooling tower outside its warehouse-sized buildings."
-    publishedDateTime: 2023-09-11T18:39:00Z
-    webUrl: "https://www.oregonlive.com/business/2023/09/artificial-intelligence-tech-behind-chatgpt-guzzles-iowa-water-researchers-say.html"
+  - title: "Gibberish or Genius? Verbal Nonsense Reveals Limitations of AI Chatbots"
+    excerpt: "In a new study, researchers tracked how current language models, such as ChatGPT, mistake nonsense sentences as meaningful. Can these AI flaws open new windows on the brain? We have now entered into a"
+    publishedDateTime: 2023-09-14T15:16:00Z
+    webUrl: "https://scitechdaily.com/gibberish-or-genius-verbal-nonsense-reveals-limitations-of-ai-chatbots/"
     type: article
     provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 13
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 19
+  - title: "Wecover Platforms Rebrands as 'Linq', Unveiling an AI Chatbot Revolution"
+    excerpt: "SEOUL, South Korea, Sept. 13, 2023 /PRNewswire/ -- Wecover Platforms, a Boston -based conversational AI startup, is rebranding itself as 'Linq' to spearhead its expansion into the AI chatbot market. Recently, Linq has joined the 2023 Techstars Boston Accelerator program, reaffirming its commitment to advancing the AI chatbot industry."
+    publishedDateTime: 2023-09-13T07:32:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/09/13/9879910.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 16
 
 secured: "MyDpMCeZdpXTC1wWK/W/L8JzhK7/IEpA4akHGFryDQuwL6b38WFJLfpwstj7Sabsq1szWxBRSrMgQitNwi8eX8hx1Bmx1Jl4BDgvVU3jTUx3erXDsxnCqA5aRohTROvulXRpsEXg/C8tXivSNSIw0dOm48wClMTxUBHz7qmQjm2PG1MsTsrqpT0KwycWHLQGB10tvfmTa3elDnqSRJWFVYXpELATkrpCCI9SRT1Jc2fgCHtAbe2E0Eg1+vqEKUfx4kTbIoD68OG+/FHBotJe5k4EmHNWt/yJfu3jPC6S6RaM97mqzlEKRAJpybh8WJaeWcDujoNIRtRD6lRJC3g+LT8NdWFv92ZVS2qSYSBTFAQ=;/+oqwevcF+Ab/vb6e1mUTA=="
 ---

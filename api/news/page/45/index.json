@@ -2,6 +2,51 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2023-08-15-earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales.md",
+      "title": "Earnings preview: Can Nvidia amaze markets with its AI chip sales?",
+      "excerpt": "Nvidia is slated to report its second-quarter earnings after the US markets closing bell on 24 August (APAC time)",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmcmarkets.com/en-nz/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales",
+      "originalUrl": "https://www.cmcmarkets.com/en-nz/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.cmcmarkets.com/images/Nvidia_GettyImages-902419310_1200px_medium.jpg",
+          "width": 768,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmcmarkets.com/en-nz/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales_amp",
+      "cdnAmpWebUrl": "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-nz/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales_amp",
+      "publishedDateTime": "2023-08-14T21:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMC Markets",
+        "domain": "cmcmarkets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-08-15-china-wants-to-regulate-its-artificial-intelligence-sector-without-crushing-it.md",
       "title": "China Wants to Regulate Its Artificial Intelligence Sector Without Crushing It",
       "excerpt": "Beijing issued 24 guidelines that require platform providers to register their services and conduct a security review before they’re brought to market.",
@@ -1092,57 +1137,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-how-to-think-about-ai-a-guide-for-manufacturers.md",
-      "title": "How To Think About AI: A Guide For Manufacturers",
-      "excerpt": "The artificial intelligence revolution has arrived, and it’s here to stay. This long-awaited technology is entering a more mature—and more valuable—stage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ethankarp/2023/08/14/how-to-think-about-ai-a-guide-for-manufacturers/",
-      "originalUrl": "https://www.forbes.com/sites/ethankarp/2023/08/14/how-to-think-about-ai-a-guide-for-manufacturers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64da2b32ff720c51d2b1ea41/0x0.jpg?format=jpg&crop=4732,2661,x132,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ethankarp/2023/08/14/how-to-think-about-ai-a-guide-for-manufacturers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ethankarp/2023/08/14/how-to-think-about-ai-a-guide-for-manufacturers/amp/",
-      "publishedDateTime": "2023-08-14T06:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

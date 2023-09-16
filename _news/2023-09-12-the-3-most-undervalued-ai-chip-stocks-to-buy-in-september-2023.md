@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/articles/the-3-most-undervalued-ai-chip-sto
 webUrl: "https://www.nasdaq.com/articles/the-3-most-undervalued-ai-chip-stocks-to-buy-in-september-2023"
 type: article
 quality: 64
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Oss To Showcase Specialized High-Performance Ai Computing Solutions At Dsei On September 12-15, 2023"
-    excerpt: "In February, won a $1.3 million contract from the U.S. Army for the design, development and prototypes for a vehicle mounted 360-degree situational awareness system using OSS PCIe Gen 4 switched fabric technology and market leading embedded GPU system on modules."
-    publishedDateTime: 2023-09-11T17:46:00Z
-    webUrl: "https://menafn.com/1107046949/Oss-To-Showcase-Specialized-High-Performance-Ai-Computing-Solutions-At-Dsei-On-September-12-15-2023"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?131741"
-        width: 319
-        height: 250
-        isCached: true
   - title: "Kiromic BioPharma Common Stock to Begin Trading on the OTC Pink Sheets on September 14"
     excerpt: "Kiromic BioPharma (NASDAQ: KRBP) (“Kiromic” or the “Company”), a clinical-stage, fully-integrated biotherapeutics company using its proprietary DIAMON"
     publishedDateTime: 2023-09-13T20:35:00Z

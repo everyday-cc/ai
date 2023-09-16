@@ -2,6 +2,58 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2023-09-01-intel-hot-chips-reveal-a-deeper-look-into-xeon-in-2024.md",
+      "title": "Intel Hot Chips Reveal: A Deeper Look Into Xeon In 2024",
+      "excerpt": "VP & Principal Analyst, Datacenter Compute, Matt Kimball, shares his thoughts on Intel's plan to deliver two new server CPUs in 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/08/31/intel-hot-chips-reveal-a-deeper-look-into-xeon-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/08/31/intel-hot-chips-reveal-a-deeper-look-into-xeon-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64f0fd8241a5a34b015d6d4c/0x0.jpg?format=jpg&crop=715,719,x340,y0,safe&width=1200",
+          "width": 715,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/08/31/intel-hot-chips-reveal-a-deeper-look-into-xeon-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/08/31/intel-hot-chips-reveal-a-deeper-look-into-xeon-in-2024/amp/",
+      "publishedDateTime": "2023-08-31T13:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-01-amazon-inks-logistics-deal-with-indias-post-and-railway-services-announces-generative-ai-for-smbs.md",
       "title": "Amazon inks logistics deal with India’s post and railway services, announces generative AI for SMBs",
       "excerpt": "Amazon's march to the Indian market is taking to the rails and the mail. The e-commerce giant today announced new deals with India Post and Indian Amazon has announced its partnerships with India’s state-backed postal system India Post to enable cross-border logistic shipments for businesses in the South Asian market and with railway body Indian Railways to expand logistic shipments domestically.",
@@ -1086,48 +1138,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-decentralized-ai-artificial-intelligence-in-web3.md",
-      "title": "Decentralized AI: Artificial Intelligence in Web3",
-      "excerpt": "Read our article, as here we explore the potential of AI in a decentralized web and how it can be used to redefine online spaces.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cryptonewsz.com/decentralized-ai-artificial-intelligence-in-web3/",
-      "originalUrl": "https://www.cryptonewsz.com/decentralized-ai-artificial-intelligence-in-web3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cryptonewsz.com/wp-content/uploads/2023/08/Decentralized-AI-Artificial-Intelligence-in-Web3.png",
-          "width": 512,
-          "height": 309,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cryptonewsz.com/decentralized-ai-artificial-intelligence-in-web3/amp/",
-      "cdnAmpWebUrl": "https://www-cryptonewsz-com.cdn.ampproject.org/c/s/www.cryptonewsz.com/decentralized-ai-artificial-intelligence-in-web3/amp/",
-      "publishedDateTime": "2023-08-31T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cryptonewsz",
-        "domain": "cryptonewsz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
