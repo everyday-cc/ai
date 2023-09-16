@@ -273,6 +273,15 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Azure: Our AI Platform – Stories – Microsoft"
+    excerpt: "News Center AI is helping organizations solve some of today’s toughest challenges, and businesses are seeking a partner to streamline adoption and rapi"
+    publishedDateTime: 2023-09-16T03:44:00Z
+    webUrl: "https://www.inferse.com/717832/azure-our-ai-platform-stories-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 49
   - title: "Blumenthal-Led Subcommittee to Hear From Microsoft President on Artificial Intelligence"
     excerpt: "Microsoft President Brad Smith and the chief scientist of NVIDIA Corporation are among the witnesses slated to offer testimony on artificial intelligence Tuesday before a Senate subcommittee led by U."
     publishedDateTime: 2023-09-12T09:00:00Z

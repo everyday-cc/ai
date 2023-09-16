@@ -24,59 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "Top 5 AI and Robotics Companies Transforming the Agriculture Sector"
-    excerpt: "In this article, we will look at the top 5 AI and robotics companies transforming the agriculture sector. If you are interested in reading an in-depth industrial analysis along with a more extensive list of the topic, head straight to the the Top 20 AI and Robotics Companies Transforming the Agriculture Sector ."
-    publishedDateTime: 2023-09-11T10:07:00Z
-    webUrl: "https://www.insidermonkey.com/blog/top-5-ai-and-robotics-companies-transforming-the-agriculture-sector-1192684/"
-    ampWebUrl: "https://www.insidermonkey.com/blog/top-5-ai-and-robotics-companies-transforming-the-agriculture-sector-1192684/?amp=1"
-    cdnAmpWebUrl: "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/top-5-ai-and-robotics-companies-transforming-the-agriculture-sector-1192684/?amp=1"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 89
-    images:
-      - url: "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2021/10/11061545/Stocks.jpg?auto=format&expires=1725926400&w=400&h=225&fit=crop"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "15 Years After The Financial Crisis: Data And AI Transformation Efforts Progress Slowly For Many Leading Companies"
-    excerpt: "Activities requiring advanced analytics, machine learning, and artificial intelligence (AI) have been incorporated into the CDO/CDAO mandate."
-    publishedDateTime: 2023-09-13T23:48:00Z
-    webUrl: "https://www.forbes.com/sites/randybean/2023/09/13/15-years-after-the-financial-crisis-data-and-ai-transformation-efforts-progress-slowly-for-many-leading-companies/"
+  - title: "The Amazing Ways Snowflake Uses Generative AI For Synthetic Data And Natural Language Queries"
+    excerpt: "Discover how cloud data giant Snowflake is revolutionizing the use of synthetic data created through generative AI to overcome the challenges of realworld data collection"
+    publishedDateTime: 2023-09-12T06:19:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/09/12/the-amazing-ways-snowflake-uses-generative-ai-for-synthetic-data-and-natural-language-queries/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/09/12/the-amazing-ways-snowflake-uses-generative-ai-for-synthetic-data-and-natural-language-queries/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/09/12/the-amazing-ways-snowflake-uses-generative-ai-for-synthetic-data-and-natural-language-queries/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 47
+    quality: 78
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/650249796bd38da89c9fe77b/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/650002763f0c19e47373b638/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Tech companies using your personal data to train AI"
-    excerpt: "Big tech companies like Google, Meta and Microsoft are accessing your data to teach AI to essentially pretend to be human. Geoffrey Fowler, tech columnist at the Washington Post, joined CBS News to explain how."
-    publishedDateTime: 2023-09-14T20:11:00Z
-    webUrl: "https://www.cbsnews.com/video/how-your-personal-data-can-be-used-to-train-ai/"
+  - title: "Teradata Launches ask.ai, Brings Generative AI Capabilities to VantageCloud Lake"
+    excerpt: "The new natural language interface, now in private preview, delivers the ease of use required to democratize cloud analytics."
+    publishedDateTime: 2023-09-11T13:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230911090555/en/Teradata-Launches-ask.ai-Brings-Generative-AI-Capabilities-to-VantageCloud-Lake"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/14/f9cc8f71-d185-4ad6-8868-3b9d92d1f63f/thumbnail/1200x630/b241d6a4290ba1adbab28687bba2d2aa/cbsn-fusion-how-your-personal-data-can-be-used-to-train-ai-thumbnail-2290873-640x360.jpg?v=6616762727d81e1cb010134e0c556e29"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "As the built environment changes, AI and machine learning tell a more complete story"
-    excerpt: "AI-supported monitoring of the built environment is transforming communities across the country and around the world. This article will outline some of the key ways that intelligent imaging, data retrieval and AI-driven analysis can provide ongoing benefits like cost and labor savings,"
-    publishedDateTime: 2023-09-12T22:41:00Z
-    webUrl: "https://www.govexec.com/assets/built-environment-changes-ai-and-machine-learning-.pdf"
-    type: article
-    provider:
-      name: Government Executive
-      domain: govexec.com
-    quality: 27
+      name: Business Wire
+      domain: businesswire.com
+    quality: 14
 
 secured: "72N7e8UBRn0kxznRgSVHUj2ElOsGHgn1quANYZKgCEU4EXUUWDpgqTx/6UvodUMXMZ1pFK4x4/w6paBlJ8MT1xtRySX0yXpl7UUdHSfLKz/XYUkseE45pPwD0xVtGn3dRCB+V1bFMwy7JoZj6WbI/G83JyNwftyVh9gj+k8A+3i2KUWxn8Qpiw7OYR4m8QpKt/TQ4rhHZVhavJ2JduI3X68EzeLaLf48ogQEgMFvhJ8JqjPwVn+II5uwxZXT7zaywTvyCADji4+AhNreua9kDWPP+KVRJ5zGGFCXos9cAB2K1OHHvJdHwQoZddlmNy4vvc1u9aWkTvM4psAZ9qJgbvU0DV/jEisC3iHaXi2aHX4=;W47d8ynQsR3jfuK8YuaMYQ=="
 ---

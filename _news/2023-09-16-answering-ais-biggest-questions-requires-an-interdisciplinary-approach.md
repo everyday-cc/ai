@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2023/09/15/answering-ais-biggest-questions-requi
 ampWebUrl: "https://techcrunch.com/2023/09/15/answering-ais-biggest-questions-requires-an-interdisciplinary-approach/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/15/answering-ais-biggest-questions-requires-an-interdisciplinary-approach/amp/"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1349363964.jpg?resize=1200,765"
@@ -40,6 +41,6 @@ related:
       domain: thestreet.com
     quality: 17
 
-secured: "rGbwZjjLSRYzIgnb8Oj5gJC5yvnzE8FPemY+sOMLxP+fQiD/ZMwxP+YKkgnyXYjPRkJgbBsqbXiPhnYb3EeUOFyr1gNaMZg+dI1skJq6IJIPOKvo3uhVaOh4I3wCbA2z0a/8/LBuCUHrlQJGi+eM875ueGeV9bXYln6Mt7F951KW85QFNyLVjRGxZz8cZqyp7galJKS83L66Lj6RQM/05/HNQWaheYIg9gemzND+PCX0Ol5eZcKEgS1YPiyMvh7xyIeqIYF219/gb0/ukkrr4+/+ph6E3zsI9ttqjPCM5a1ZbTaVyFC3iayCPap0gFx5dsJS1wUkaelYaHybHeWcQp5HjdB/Vnswe+L9hnakN1I=;lMy5J0ErNcLjRd3wVKiR+A=="
+secured: "jCXvArf0T2UBUWjTK7z0Acl2z5F5+vJDoCNntVEeXJeGyTEA1frMq3BgzDom42wC65L/q3AY/NRyBSCCkk2z5nr5Bmp3m+3IT5ESbldC4wd60JXnCN4Cj+EKH/PFDutg7esZOvxwJuvPmckjIOWOG0Hmf3KgwXE5k6+X/sZCN1r5qL1fcPkn1i1ry64beGK16DFhVBrZuPG8HmVHupdcGZfrAIzaz1bnFYqSyZPkHmIAUeVumBNsaVlqXipoOtlXMQHZZAdp5Ck+1+m/hWrfKn+eN2lI5cEx7IXLuNLXVtK3H0dRDOlN2mmH9S12+YkWNffJ7uXKDB8VN6QOFp33tvME2LHpyXQmlhHOk52Kzv65JMqI4tJqchDVM1VJRY9ZwshXI5mhhUUF4tY080f5bM3+jWY4NH8vRwXCAQQiTQrDGDtVB5fogHELR4ZAnZCI+m2BJhgAj5ugjAS4B0n3hcy1BTCTOl2BvneaKSGY9xYs6huAARgKCziPFump+mmGkecn1DwswRdk1q/cfJrA1A==;EvB2U5RFaQLjk2GaEyL5ww=="
 ---
 

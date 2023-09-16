@@ -43,15 +43,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
-  - title: "AI Chatbots Are Invading Your Local Government—and Making Everyone Nervous"
-    excerpt: "State and local governments in the US are scrambling to harness tools like ChatGPT to unburden their bureaucracies, rushing to write their own rules—and avoid generative AI's many pitfalls."
-    publishedDateTime: 2023-09-11T11:00:00Z
-    webUrl: "https://www.wired.com/story/local-governments-generative-ai/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 45
   - title: "Popping the chatbot hype balloon"
     excerpt: "Understanding how chatbots work and the human labor and data involved can better help evaluate the validity of concerns about them—which although innovative, are hardly the stuff of science fiction."
     publishedDateTime: 2023-09-11T17:01:00Z

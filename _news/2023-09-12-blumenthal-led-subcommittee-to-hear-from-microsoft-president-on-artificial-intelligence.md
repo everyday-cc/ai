@@ -286,6 +286,15 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Azure: Our AI Platform – Stories – Microsoft"
+    excerpt: "News Center AI is helping organizations solve some of today’s toughest challenges, and businesses are seeking a partner to streamline adoption and rapi"
+    publishedDateTime: 2023-09-16T03:44:00Z
+    webUrl: "https://www.inferse.com/717832/azure-our-ai-platform-stories-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 49
   - title: "Tilde and Microsoft Collaborate Towards Inclusive Education With AI Speech-to-Text Technology"
     excerpt: "Tilde, in partnership with Microsoft, aims to advance inclusive education through automatic speech recognition solutions."
     publishedDateTime: 2023-09-12T08:20:00Z

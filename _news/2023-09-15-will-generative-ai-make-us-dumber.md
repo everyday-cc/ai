@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/15/will-gener
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/15/will-generative-ai-make-us-dumber/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Will AI make us crazy?"
-    excerpt: "Add artificial intelligence to that toxic stew—with its ability to ... reminding a patient to take their medication. However, chatbot therapy is not without risks. What if a chatbot “hallucinates” and gives a patient bad medical information or ..."
-    publishedDateTime: 2023-09-11T10:01:00Z
-    webUrl: "https://thebulletin.org/premium/2023-09/will-ai-make-us-crazy/"
-    type: article
-    provider:
-      name: Bulletin of the Atomic Scientists
-      domain: thebulletin.org
-    quality: 39
-    images:
-      - url: "https://thebulletin.org/wp-content/uploads/2023/09/Mask-and-numbers-L.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "4Kin7/wiZhlf1jgspxL/vQYDfzLi5Qbg9nuP597L7wP3R2FIiPtpcpgVygAfVLdk5kF7w9MHairswLv6vYSTRFJ/Xy3oAXs2dDOFzsewAuprOA9J37lZkEvMDRSn2gkW2PMGqEGo0GojKlPeOKKPhDf5YamOCWahAsrdSn3qjJjquLjwbFEad2lxbbo9ty4IoLsOKE/cjHrsfiSeAqDaTncFBqGQxqVOKz8PAIyHnTgjyQNX4WLRt8fH34hGFNzjqMS4UVUSpXNl6Mrf6WuzC++Utg3jZasviKiPbLb9N8AzlfCAirL88y7zG6fszakJD6R0q+yYDHXp5Le5eIitHlyhCNehpkBH8K08alglfCU=;6aVb0fEZidwce8++I11LTQ=="
 ---

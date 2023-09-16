@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-09-brain-robust-ai.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-brain-robust-ai.amp"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "As the built environment changes, AI and machine learning tell a more complete story"
+    excerpt: "AI-supported monitoring of the built environment is transforming communities across the country and around the world. This article will outline some of the key ways that intelligent imaging, data retrieval and AI-driven analysis can provide ongoing benefits like cost and labor savings,"
+    publishedDateTime: 2023-09-12T22:41:00Z
+    webUrl: "https://www.govexec.com/assets/built-environment-changes-ai-and-machine-learning-.pdf"
+    type: article
+    provider:
+      name: Government Executive
+      domain: govexec.com
+    quality: 27
 
 secured: "YQjIPxNtvCNjltu1GzUWZxKEN59j4t83SJR24wA1TkFUYjWsD1ckM25KFU0gPitqGUs+jgDZVWlnGR2ahVOwncrE7SJ6RwRJE806hA9gOwGgz29Wo4l0ExDOkDujYMknl53clzJWdAv+B4umaTb41+S2T8JUK13qut5RER2hyHEsSwDQElxBMXe7AxJXOKPMs1gLUqC5oe/K+6/dciuXQMVZnGBHdmfhy5X7NRgWtILq3iL34WzlZtBc0XmhG9zUi0KM8pXDu4DZ2v/oENHJ7JqWfyxzJLmCII7sPPSIXBGdwyvSpkUFbCL69F1I/dvDNS9LlIxuxJnChZNym6kOb2Ilc2vsNr0HZFv8XpNul1qFpklbV7r7l6QAmdBX4bgRQKSPLOPxdSKe91Rf0eApUEt8U5MGX+dRaP2hv7xBLvlu+APXi+FsIEdmfKLEP6xezLrtu9BEakcaLDJp7EHdJ0DEpxHZsDhAxZfrwHNIWQnozKcssI0+RGRmwo9wLkysx5tdrxYtgEC0qg5UAb1uhA==;K0aES4tpjINbrh8O3ziCTg=="
 ---

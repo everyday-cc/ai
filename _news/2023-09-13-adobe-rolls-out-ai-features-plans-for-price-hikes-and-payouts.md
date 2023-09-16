@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/news/adobe-rolls-ai-features-plans-131521545.h
 webUrl: "https://www.aol.com/news/adobe-rolls-ai-features-plans-131521545.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence and Machine Learning – News and Features"
-    excerpt: "Injury or disease that afflicts a relatively small number of brain cells causes a chain reaction that stops activity across a vast network of neural circuits, according to new research. with the Breaking Science News daily newsletter"
-    publishedDateTime: 2023-09-11T10:00:00Z
-    webUrl: "https://www.technologynetworks.com/genomics/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/131"
-    type: article
-    provider:
-      name: technologynetworks
-      domain: technologynetworks.com
-    quality: 54
-    images:
-      - url: "https://assets.technologynetworks.com/production/static/images/opengraph/og-image.jpg?cb=20230914"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Artificial Intelligence and Machine Learning – News and Features"
     excerpt: "An artificial intelligence (AI) approach based on deep learning convolutional neural network (CNN) could identify nuanced mammographic imaging features specific for recalled but benign (false-positive) mammograms and distinguish such mammograms from those ..."
     publishedDateTime: 2023-09-12T00:42:00Z

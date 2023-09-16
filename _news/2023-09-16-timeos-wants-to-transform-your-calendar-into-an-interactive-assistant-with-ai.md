@@ -6,8 +6,8 @@ publishedDateTime: 2023-09-15T20:09:00Z
 originalUrl: "https://venturebeat.com/business/timeos-wants-to-transform-your-calendar-into-an-interactive-assistant-with-ai/"
 webUrl: "https://venturebeat.com/business/timeos-wants-to-transform-your-calendar-into-an-interactive-assistant-with-ai/"
 type: article
-quality: 64
-heat: 64
+quality: 66
+heat: 66
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_line_art_flat_illustration_minimal_an_hourglass_in_fron_dc15c87e-a750-40e8-8cad-0d5b0920e5dd.png?w=1200&strip=all"

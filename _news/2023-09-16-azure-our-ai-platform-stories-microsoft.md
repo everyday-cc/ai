@@ -1,22 +1,22 @@
 ---
 category: news
-title: "CEOs of Meta, Alphabet, Microsoft and Nvidia set to talk AI with members of Congress"
-excerpt: "Expected to attend are Meta Platforms Inc. CEO Mark Zuckerberg, Alphabet Inc., and Google LLC CEO Sundar Pichai as well as former Google CEO Eric Schmidt."
-publishedDateTime: 2023-09-13T14:37:00Z
-originalUrl: "https://www.bizjournals.com/sanjose/news/2023/09/13/ceos-of-meta-alphabet-microsoft-and-nvidia-set-to.html"
-webUrl: "https://www.bizjournals.com/sanjose/news/2023/09/13/ceos-of-meta-alphabet-microsoft-and-nvidia-set-to.html"
+title: "Azure: Our AI Platform – Stories – Microsoft"
+excerpt: "News Center AI is helping organizations solve some of today’s toughest challenges, and businesses are seeking a partner to streamline adoption and rapi"
+publishedDateTime: 2023-09-16T03:44:00Z
+originalUrl: "https://www.inferse.com/717832/azure-our-ai-platform-stories-microsoft/"
+webUrl: "https://www.inferse.com/717832/azure-our-ai-platform-stories-microsoft/"
 type: article
-quality: 27
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: The Business Journals
-  domain: bizjournals.com
+  name: Inferse
+  domain: inferse.com
 
 topics:
-  - AI
   - Microsoft AI
+  - AI
 
 related:
   - title: "Oracle brings its database infrastructure to Microsoft Azure"
@@ -280,15 +280,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Azure: Our AI Platform – Stories – Microsoft"
-    excerpt: "News Center AI is helping organizations solve some of today’s toughest challenges, and businesses are seeking a partner to streamline adoption and rapi"
-    publishedDateTime: 2023-09-16T03:44:00Z
-    webUrl: "https://www.inferse.com/717832/azure-our-ai-platform-stories-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 49
   - title: "Blumenthal-Led Subcommittee to Hear From Microsoft President on Artificial Intelligence"
     excerpt: "Microsoft President Brad Smith and the chief scientist of NVIDIA Corporation are among the witnesses slated to offer testimony on artificial intelligence Tuesday before a Senate subcommittee led by U."
     publishedDateTime: 2023-09-12T09:00:00Z
@@ -335,6 +326,15 @@ related:
       name: enterprisetalk
       domain: enterprisetalk.com
     quality: 34
+  - title: "CEOs of Meta, Alphabet, Microsoft and Nvidia set to talk AI with members of Congress"
+    excerpt: "Expected to attend are Meta Platforms Inc. CEO Mark Zuckerberg, Alphabet Inc., and Google LLC CEO Sundar Pichai as well as former Google CEO Eric Schmidt."
+    publishedDateTime: 2023-09-13T14:37:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/09/13/ceos-of-meta-alphabet-microsoft-and-nvidia-set-to.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 27
   - title: "Microsoft and Esri to speed up access to Earth-observation data"
     excerpt: "Microsoft also added the Planetary Computer, a platform that combines multi-petabyte global datasets related to biodiversity and climate change with machine-learning tools, to Azure Space. In addition, NASA Langley Research Center, NASA Goddard Space ..."
     publishedDateTime: 2023-09-13T12:30:00Z
@@ -354,6 +354,6 @@ related:
       domain: microsoft.com
     quality: 7
 
-secured: "p8m8/7dC9q/CkjZgjA90JbQGENX5bKjTf6efNgdcXrCAC5PYozKkPIZpc3tYfWghw3QboVxm3Wq99rqBk6MA5bVJ5il+0jTH4Nq7vsqcvZE8ZabeyduFbNnhOg//2hau6FBigH3OSvIsVJPTETXJwtawZiOmDBYWGGTiKjcMYyyAyiowLMlNFZhicapVqZHJd8OomMuhxZSmDuo812ZUXNtYrQ0RvJsuO4ua1fQZukxV0pduzbIjYkiaJK1T3uxETg8S56cIyD4KRO1McVR0BOCS8i1fJ7Zj35/tnQXXFFQvTAy1U8rJWdwdprJd0fG4oRa/FUAN98RCopsfEP5dw4KnJTUxx50EOEp9T3p7T91IF/YFsZAQEDrAV9erVt1evRRpQzWfLYL+vDGP1gIYzaoSaa5QKaVMCLaFHFIk0ZCmTIESpyqHChJln74x5MxFYQkK1NZPnZaIBl4sT1GsIybwoZAOsiXbzRvRafLcNaUAn0ednrx8VIGKGT5VQbyHQ+S+4cZ/M4CiYt51YFKZTw==;i4VQ169dYQOCMTuhJwwWVw=="
+secured: "+xzOPR3CoYPY9CP9f8WgnD65ISDX3vH8j3iMDzC2mOb3XgHJ3OFwTLZlFf1rZBXWlMMnKHrBZ+rJzi8mgpb4cZWj7ncENzAC4vx+w+g1ZeB/6/LNEleXcCACLmCXpCtuuthiXnvpawk/Zs6501ZwKUoOcqjXIlrD426GBI3/khaSh8ZR41pwfYIV5aAye4OAL8kzjOehZCX0dngOcBuZYLmxSNmS343SXtKXVmjcnhu6nJtnYeJNRmxbFP4OLT2O1Dc2oR81BP+wfw4tuwbxPLb3O76rftxlHsu4bS700kWlV228OW/wsfmSmWiZYEXEyEwGdWBmDzUutTm4a9NzPT8kajc7Y6q7LSyKfFZk8hc=;WhEXrjlNrs+KWJlRgOFJ0w=="
 ---
 

@@ -92,20 +92,6 @@ related:
         width: 900
         height: 506
         isCached: true
-  - title: "Intel benefits from Nvidia AI chip shortage"
-    excerpt: "Customers will use any old chip The shortage of Nvidia’s GPUs has customers searching for scrap heap to kickstart makeshift AI projects, and Intel is benefitting from it. During a meeting with financial analysts at the Citi Global Technology Conference this week,"
-    publishedDateTime: 2023-09-11T09:56:00Z
-    webUrl: "https://www.fudzilla.com/news/57569-intel-benefits-from-nvidia-ai-chip-shortage"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/00ca31a2a16d4c95f1cc4d5619f98a35_L.jpg"
-        width: 620
-        height: 436
-        isCached: true
   - title: "AI chip startup Enfabrica raises $125m in venture capital"
     excerpt: "AI chip startup Enfabrica has successfully raised $125 million in venture capital. First reported by Reuters, the company is developing networking chips designed for artificial intelligence (AI) data centers and counts Nvidia as a strategic investor."
     publishedDateTime: 2023-09-13T15:25:00Z

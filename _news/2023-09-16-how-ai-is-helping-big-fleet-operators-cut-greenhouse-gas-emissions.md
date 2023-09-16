@@ -39,22 +39,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
-  - title: "How generative AI changes IT operations"
-    excerpt: "Generative AI can provide valuable analysis and insights to IT operators. But what about data security, reliability, workflow integration, and the conditions needed for successful deployment?"
-    publishedDateTime: 2023-09-11T09:34:00Z
-    webUrl: "https://www.infoworld.com/article/3706370/how-generative-ai-changes-it-operations.html"
-    ampWebUrl: "https://www.infoworld.com/article/3706370/how-generative-ai-changes-it-operations.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706370/how-generative-ai-changes-it-operations.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
-    images:
-      - url: "https://images.idgesg.net/images/article/2018/02/artificial_intelligence_ai_virtual_assistant_machine_learning_autonomous_automation_virtual_reality_vr_digital_mind_brain_thinkstock_892854798-100749920-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Mind the trust gap: Data concerns prompt customer caution over generative AI"
     excerpt: "A general lack of trust in data security and privacy is holding organizations back from going all in with generative artificial intelligence."
     publishedDateTime: 2023-09-14T16:13:00Z

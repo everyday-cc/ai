@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wesh.com/amp/article/facial-recognition-epic-universe/45
 cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/facial-recognition-epic-universe/45145237"
 type: article
 quality: 59
-heat: 80
+heat: 79
 published: true
 
 provider:

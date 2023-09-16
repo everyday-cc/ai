@@ -41,21 +41,21 @@ related:
         width: 1200
         height: 699
         isCached: true
-  - title: "The Future Of Artificial Intelligence: Predictions And Trends"
-    excerpt: "One of the most significant benefits of integrating AI into our digital marketing strategies is the seamless management of campaigns. With this process, we have found AI-powered tools to analyze campaign performance in real time, making instantaneous adjustments to optimize results."
-    publishedDateTime: 2023-09-11T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/09/11/the-future-of-artificial-intelligence-predictions-and-trends/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/09/11/the-future-of-artificial-intelligence-predictions-and-trends/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/09/11/the-future-of-artificial-intelligence-predictions-and-trends/amp/"
+  - title: "You and AI: A look at artificial intelligence in education"
+    excerpt: "A March survey published by bestcolleges.com of 1,000 college students nationwide found that 43% of college students use an Artificial Intelligence application like ChatGPT: a language model built for conversation. Of those, half say they have used AI tools on assignments or exams."
+    publishedDateTime: 2023-09-14T20:25:00Z
+    webUrl: "https://www.nbcchicago.com/news/local/you-and-ai-a-look-at-artificial-intelligence-in-education/3223918/"
+    ampWebUrl: "https://www.nbcchicago.com/news/local/you-and-ai-a-look-at-artificial-intelligence-in-education/3223918/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcchicago-com.cdn.ampproject.org/c/s/www.nbcchicago.com/news/local/you-and-ai-a-look-at-artificial-intelligence-in-education/3223918/?amp=1"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: NBC Chicago
+      domain: nbcchicago.com
     quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/601970d9c8203051a4c3b134/0x0.jpg?format=jpg&width=1200"
+      - url: "https://media.nbcchicago.com/2023/06/107254827-1686557052078-gettyimages-1418934535-robot-control-ui2.jpeg?quality=85&strip=all&resize=1200%2C675"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
   - title: "Ecology and artificial intelligence: Stronger together"
     excerpt: "Many of today's artificial intelligence systems loosely mimic the human brain. In a paper published in Proceedings of the National Academy of Sciences, researchers suggest that another branch of biology—ecology—could inspire a whole new generation of AI to be more powerful,"

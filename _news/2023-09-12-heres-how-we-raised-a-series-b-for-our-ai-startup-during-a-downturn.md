@@ -278,15 +278,6 @@ related:
       name: Nextgov
       domain: nextgov.com
     quality: 19
-  - title: "UK researchers start using AI for air traffic control"
-    excerpt: "UK researchers have produced a computer model of air traffic control in which all flight movements are directed by artificial intelligence rather than human beings. Their “digital twin” representation of airspace over England is the initial output of a £15mn project to determine the role that AI could play in advising and eventually replacing human air traffic controllers."
-    publishedDateTime: 2023-09-11T10:00:00Z
-    webUrl: "https://www.ft.com/content/783a9d91-cce3-4177-bfe0-5438aa3b892a"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
   - title: "Intel Celebrates AI Accessibility and Enables the Next Generation of Innovators"
     excerpt: "About Intel's Role: Intel is committed to bringing AI skills everywhere, regardless of a person's ethnicity, age, gender or background. The AI Global Impact Festival provides opportunities and platforms for future innovators to learn, showcase and celebrate the impact of AI innovations."
     publishedDateTime: 2023-09-14T17:56:00Z

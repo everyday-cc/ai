@@ -20,35 +20,42 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Tesla stock rallies as Morgan Stanley boosts rating, citing AI prowess via ‘Dojo’"
-    excerpt: "Morgan Stanley upgraded Tesla to buy from hold in a note to clients, saying the company's Dojo supercomputer holds \"proprietary technology.\""
-    publishedDateTime: 2023-09-11T09:27:00Z
-    webUrl: "https://www.marketwatch.com/story/tesla-shares-climb-5-8-after-morgan-stanley-upgrades-to-buy-citing-ai-prowess-via-dojo-10b3e7dd?ref=biztoc.com"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/tesla-shares-climb-5-8-after-morgan-stanley-upgrades-to-buy-citing-ai-prowess-via-dojo-10b3e7dd"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tesla-shares-climb-5-8-after-morgan-stanley-upgrades-to-buy-citing-ai-prowess-via-dojo-10b3e7dd"
+  - title: "How Tesla’s New Supercomputer Could Upend the AI Race"
+    excerpt: "Custom-Built AI Tech Is on the Rise In fact, every Big Tech firm building AI models that formerly relied on Nvidia are now developing their own custom-built chips. Amazon (AMZN) has developed two chips customized specifically to build AI models on the firm ..."
+    publishedDateTime: 2023-09-14T15:32:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/how-teslas-new-supercomputer-could-upend-the-ai-race-1032631339"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 99
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 86
     images:
-      - url: "https://images.mktw.net/im-849720/social"
-        width: 1280
-        height: 640
+      - url: "https://investorplace.com/wp-content/uploads/2023/09/nvda-ytd-graph-091423.png"
+        width: 928
+        height: 582
         isCached: true
-  - title: "Tesla stocks rises more than 6% on 'AI mojo'"
-    excerpt: "\"With a highly experienced semiconductor team, Tesla has built a custom AI ASIC chip, that, due to its core function of processing vision-based data for autonomous driving use cases, can operate more efficiently (energy consumption, latency) than the ..."
-    publishedDateTime: 2023-09-11T14:25:00Z
-    webUrl: "https://www.aol.com/finance/tesla-stocks-rises-more-6-140524288.html"
+  - title: "Don't Count on Tesla's Dojo Supercomputer to Jump-Start an AI Revolution"
+    excerpt: "Wall Street analysts predicted Tesla’s Dojo supercomputer could unlock a $500 billion ChatGPT-style breakthrough. Don't take it to the bank."
+    publishedDateTime: 2023-09-14T16:00:00Z
+    webUrl: "https://www.wired.com/story/fast-forward-tesla-dojo-supercomputer-elon-musk-ai-revolution/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 56
+      name: Wired
+      domain: wired.com
+    quality: 63
+  - title: "Tesla’s value predicted to boost from new Dojo self-driving supercomputer"
+    excerpt: "Tesla’s Dojo supercomputer only uses video data recordings from Tesla owners’ real-life driving situations to train its machine-learning model and improve its camera-only ‘Tesla Vision’ safety assistance systems. The camera-only Dojo will ditch 300,000-plus lines of code."
+    publishedDateTime: 2023-09-12T04:55:00Z
+    webUrl: "https://www.whichcar.com.au/news/tesla-s-value-predicted-to-boost-from-new-dojo-self-driving-supercomputer"
+    type: article
+    provider:
+      name: whichcar
+      domain: whichcar.com.au
+    quality: 38
     images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/WzuMg_og2mMMfUC7sU2bkQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/a1dc025b6d083686b4a35c0a8d9671ab"
+      - url: "https://cdn.whichcar.com.au/assets/p_social/b07d09f6/ev-buyers-guide-tesla-model-3-1-interior.jpg"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
 
 secured: "rs2RZmPNJUnYw7MDN4GRaXj2yqfOKE9Tqu6Wk91cs2pzH+sV9MdWlT9sNrR5yQmVMS5Q8YXstuRYGiKEGhNo1q6DKxUJyUhenki8B5lQK6zpMwvHlIByfBe12DunMy+lyLI+0BgfjbHIRR+wD/dUYklsnEw1Clt6YYeozG04c86qS25VygZw5M5sEBphVXErGvn8GEOxWeI8QLlAPQYTDqaMNO3bwF+TZhE7XJZlytUyrBcQhZ0hca+JNg7LFqebWVDzHlfxfhA1KFmpwuHGRFUw9S0hZLdHsthMV57U84C9lbmCu8p4HkLIweC+KYx1UgDwTDJaayo3oG1cfXX9VvC+VS2ZGJnQIDMmCzG9vR8=;tQGXi4mbB9ZHEg+rVa1DWg=="
