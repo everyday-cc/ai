@@ -9,7 +9,7 @@ ampWebUrl: "https://www.oregonlive.com/sports/2023/09/fans-startled-seeing-ai-ro
 cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/sports/2023/09/fans-startled-seeing-ai-robots-at-the-los-angeles-chargers-miami-dolphins-game.html?outputType=amp"
 type: article
 quality: 70
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -71,15 +71,6 @@ related:
         width: 1920
         height: 812
         isCached: true
-  - title: "AI robots went to Dolphins-Chargers game and freaked out everyone"
-    excerpt: "That’s right, among the fans sitting at SoFi Stadium on Sunday to take in the Miami Dolphins game against the Los Angeles Chargers were a bunch of AI robots ... we needed to start 2023 ..."
-    publishedDateTime: 2023-09-12T00:16:00Z
-    webUrl: "https://www.sbnation.com/nfl/2023/9/11/23868498/ai-robots-dolphins-chargers-sofi-stadium"
-    type: article
-    provider:
-      name: SB Nation
-      domain: sbnation.com
-    quality: 34
 
 secured: "p7GeY3k1Zq+pmazO7l1jmSNZ8D2D/z0zMT+9fR/F9pd61522scnm2bYdntF9Ajrnlf0RsLDSQkoyHoQ6ttJCETzXT+ybdIvXsGfKFmNj8vVZGuSAPSP608bfnFk12e/K0pCXMaP6fMLHsQiKUX1s6RSqV4ayKc08lq51DUNddg/j3uzvfH3j6Zo43jcwlXL4T5iQuQ4NZQgyDnr1GoOkO/zdYyh9HVCknZLIH3sa/M5/ZJ1IzeYpDUiKXw0e69nAgCi93AR+XOXeQIYyWf/TT6hcPyvLuCxtHDu1hNqmrbKKWctENdk6S2NDF9TZoZ7AWxxc3jDfh0tjJlGUMWiH5GRJeCbIlKzMHzHRE8wEhhOfGBYlZAiTfckQiG/O3UuX9seC8dzQ72/zzw9RFk/w+6WZUjFc8qVw9+J0b8g2x72SC55G36F5whiLamMYj+4V+1OXJlvBuq2pLO85O2H8ZpmIOPEKL5y+Ir3EhPpAnxwH9QGdp4Ja2bL1vD/QHUKmbDE3+EZeNzF3oC5IO81c7w==;0nswHb4Fa7oSXoyGKlX8/A=="
 ---

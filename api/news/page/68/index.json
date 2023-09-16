@@ -2,6 +2,58 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2023-07-29-aws-ai-powered-video-highlights-feature-introduces-game-changing-world-cup-viewing-experience-for-fans.md",
+      "title": "AWS AI-powered video highlights feature introduces game-changing World Cup viewing experience for fans",
+      "excerpt": "The technology utilizes services from AWS, including Amazon Rekognition. \"This is leveraging computer vision and a lot of other services from AWS to help us develop what they did for the World Cup ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/sports/aws-ai-powered-video-highlights-feature-introduces-game-changing-world-cup-viewing-experience-fans",
+      "originalUrl": "https://www.foxnews.com/sports/aws-ai-powered-video-highlights-feature-introduces-game-changing-world-cup-viewing-experience-fans",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/07/1200/675/Womens-World-Cup.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/sports/aws-ai-powered-video-highlights-feature-introduces-game-changing-world-cup-viewing-experience-fans.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/aws-ai-powered-video-highlights-feature-introduces-game-changing-world-cup-viewing-experience-fans.amp",
+      "publishedDateTime": "2023-07-28T18:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-29-a-year-ago-deepminds-alphafold-ai-changed-the-shape-of-science-but-there-is-more-work-to-do.md",
       "title": "A year ago, DeepMind’s AlphaFold AI changed the shape of science — but there is more work to do",
       "excerpt": "OpenAI’s ChatGPT may have captured the AI zeitgeist last fall, but it was DeepMind’s AlphaFold AI that shook the science world last summer. A year ago, on July 28, 2022, the A",
@@ -1144,49 +1196,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-can-ai-fix-the-us-healthcare-system.md",
-      "title": "Can AI Fix The U.S. Healthcare System?",
-      "excerpt": "John Guttag is a computer scientist and professor at CSAIL and EECS MIT, recognized for his significant contributions to the fields of programming languages and artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/video/6331934380112/can-ai-fix-the-us-healthcare-system/",
-      "originalUrl": "https://www.forbes.com/video/6331934380112/can-ai-fix-the-us-healthcare-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

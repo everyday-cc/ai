@@ -23,17 +23,6 @@ images:
     height: 518
     isCached: true
 
-related:
-  - title: "Artificial Intelligence and Machine Learning – News and Features"
-    excerpt: "An artificial intelligence (AI) approach based on deep learning convolutional neural network (CNN) could identify nuanced mammographic imaging features specific for recalled but benign (false-positive) mammograms and distinguish such mammograms from those ..."
-    publishedDateTime: 2023-09-12T00:42:00Z
-    webUrl: "https://www.technologynetworks.com/genomics/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/218"
-    type: article
-    provider:
-      name: technologynetworks
-      domain: technologynetworks.com
-    quality: 34
-
 secured: "K7Stn2CM1hz0PCfQJoD9rnyEBL0sWssALvD4sdn3iShGMoaswHlCXtMXpIqotilLnQvhOXRf/mHzpmSw0N7Zbj8IQLZGawBKFCRBfnjH4fyUzyDv9ZZlzW/uoadAHTaIMS3TJ0yIZEP7o5oersbuDESa/4jLeKCcj9FMSHedaUJprlt+BCddlQKZphnJJ6+DHPrK/iQHR/Rnhh6RpLH8i0y90Sw/IW5clQnLGCCxmVLocbSo3UcSHOhX/6VIrjqlbM41UvtQbtPNWXBvMn9WfPR19bIE0fhkWT5rqjpqTRmxrlctuZXRGGFAxgpSs5oGMtS6k9Lqy2tNKI4UXNPukajy6SpOVb+PKP5VYwgqlrc=;uokOjp9FgM6k3E0Nj5lHqA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/how-teslas-new-sup
 webUrl: "https://markets.businessinsider.com/news/stocks/how-teslas-new-supercomputer-could-upend-the-ai-race-1032631339"
 type: article
 quality: 86
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla FSD and AI Will Drive Share Price Like Amazon AWS"
+    excerpt: "Amazon AWS are now 70% of the company’s total EBIT ... It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge ..."
+    publishedDateTime: 2023-09-16T15:06:00Z
+    webUrl: "https://www.nextbigfuture.com/2023/09/tesla-fsd-and-ai-will-drive-share-price-like-amazon-aws.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 71
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2023/09/amazontesla.png"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Don't Count on Tesla's Dojo Supercomputer to Jump-Start an AI Revolution"
     excerpt: "Wall Street analysts predicted Tesla’s Dojo supercomputer could unlock a $500 billion ChatGPT-style breakthrough. Don't take it to the bank."
     publishedDateTime: 2023-09-14T16:00:00Z

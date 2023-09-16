@@ -187,18 +187,18 @@ related:
         height: 3656
         isCached: true
   - title: "Tech titans are giving senators advice on artificial intelligence in a closed-door forum"
-    excerpt: "\"It's going to be a fascinating group because they have different points of view,\" Schumer said in an interview with The Associated Press before the event. \"Hopefully we can weave it into a little bit of some broad consensus."
-    publishedDateTime: 2023-09-13T20:15:00Z
-    webUrl: "https://sentinelcolorado.com/uncategorized/tech-titans-are-giving-senators-advice-on-artificial-intelligence-in-a-closed-door-forum/"
+    excerpt: "Senate Majority Leader Chuck Schumer has been talking for months about accomplishing a potentially impossible task: passing bipartisan legislation within the next year that encourages the rapid development of artificial intelligence and mitigates its biggest risks."
+    publishedDateTime: 2023-09-13T18:28:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/tech-titans-senators-artifiicial-intelligence-20230913-uacancl5nfbbroed5kpcdq5mey-story.html"
     type: article
     provider:
-      name: Sentinel Colorado
-      domain: sentinelcolorado.com
-    quality: 30
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 28
     images:
-      - url: "https://sentinelcolorado.com/wp-content/uploads/2023/09/AP23256017020655-scaled.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://www.chicagotribune.com/resizer/vFnUsBA1w0sBUMvckTOgwa5fEw8=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/VZCWBJHYT4LSPTK3V2V6HHAUNM.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Guidelines on artificial intelligence"
     excerpt: "Artificial intelligence is rapidly evolving and transforming industries, including the media. Here is Rappler's approach to AI. Recognizing the rise of artificial intelligence, Rappler is taking ..."

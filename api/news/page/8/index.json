@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-09-11-upping-the-game-on-mind-controlled-robotics.md",
+      "title": "Upping the Game on Mind-Controlled Robotics",
+      "excerpt": "Get rid of the need for implantable electrodes--a focus of University of Minnesota researcher--and medical device assembly workers might mind-control robots performing multiple tasks at the same time. Think the precision of robotics coupled with human ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/rd/upping-game-mind-controlled-robotics",
+      "originalUrl": "https://www.mddionline.com/rd/upping-game-mind-controlled-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/all/themes/penton_subtheme_mddionline/images/logos/share-logo.png",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-10T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-11-move-over-ai-quantum-computing-will-be-the-most-powerful-and-worrying-technology.md",
       "title": "Move over AI, quantum computing will be the most powerful and worrying technology",
       "excerpt": "While short-term projections about quantum computing might be overhyped, the long-term outcomes are likely to be game-changing.",
@@ -1118,40 +1161,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-09-efficient-training-for-artificial-intelligence.md",
-      "title": "Efficient training for artificial intelligence",
-      "excerpt": "The concept is known as neuromorphic computing. Although this sounds similar to artificial neural networks, it in fact has little to do with them as artificial neural networks run on conventional digital computers. This means that the software, or more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mpg.de/20826914/neuromorphic-computer",
-      "originalUrl": "https://www.mpg.de/20826914/neuromorphic-computer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-08T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Max Planck Society",
-        "domain": "www.mpg.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

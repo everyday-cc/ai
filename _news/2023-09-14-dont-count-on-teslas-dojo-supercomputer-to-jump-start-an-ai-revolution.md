@@ -37,6 +37,20 @@ related:
         width: 928
         height: 582
         isCached: true
+  - title: "Tesla FSD and AI Will Drive Share Price Like Amazon AWS"
+    excerpt: "Amazon AWS are now 70% of the company’s total EBIT ... It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge ..."
+    publishedDateTime: 2023-09-16T15:06:00Z
+    webUrl: "https://www.nextbigfuture.com/2023/09/tesla-fsd-and-ai-will-drive-share-price-like-amazon-aws.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 71
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2023/09/amazontesla.png"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Tesla’s value predicted to boost from new Dojo self-driving supercomputer"
     excerpt: "Tesla’s Dojo supercomputer only uses video data recordings from Tesla owners’ real-life driving situations to train its machine-learning model and improve its camera-only ‘Tesla Vision’ safety assistance systems. The camera-only Dojo will ditch 300,000-plus lines of code."
     publishedDateTime: 2023-09-12T04:55:00Z

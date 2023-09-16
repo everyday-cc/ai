@@ -1,27 +1,26 @@
 ---
 category: news
 title: "Tech titans are giving senators advice on artificial intelligence in a closed-door forum"
-excerpt: "\"It's going to be a fascinating group because they have different points of view,\" Schumer said in an interview with The Associated Press before the event. \"Hopefully we can weave it into a little bit of some broad consensus."
-publishedDateTime: 2023-09-13T20:15:00Z
-originalUrl: "https://sentinelcolorado.com/uncategorized/tech-titans-are-giving-senators-advice-on-artificial-intelligence-in-a-closed-door-forum/"
-webUrl: "https://sentinelcolorado.com/uncategorized/tech-titans-are-giving-senators-advice-on-artificial-intelligence-in-a-closed-door-forum/"
+excerpt: "Senate Majority Leader Chuck Schumer has been talking for months about accomplishing a potentially impossible task: passing bipartisan legislation within the next year that encourages the rapid development of artificial intelligence and mitigates its biggest risks."
+publishedDateTime: 2023-09-13T18:28:00Z
+originalUrl: "https://www.chicagotribune.com/nation-world/tech-titans-senators-artifiicial-intelligence-20230913-uacancl5nfbbroed5kpcdq5mey-story.html"
+webUrl: "https://www.chicagotribune.com/nation-world/tech-titans-senators-artifiicial-intelligence-20230913-uacancl5nfbbroed5kpcdq5mey-story.html"
 type: article
-quality: 30
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Sentinel Colorado
-  domain: sentinelcolorado.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
 
 topics:
-  - Facebook AI
   - AI
 
 images:
-  - url: "https://sentinelcolorado.com/wp-content/uploads/2023/09/AP23256017020655-scaled.jpg"
-    width: 2560
-    height: 1707
+  - url: "https://www.chicagotribune.com/resizer/vFnUsBA1w0sBUMvckTOgwa5fEw8=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/VZCWBJHYT4LSPTK3V2V6HHAUNM.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -273,6 +272,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "oJB9V5WPzF7CkBrYSiejoTcIv1crKyw1xYHJqZJ1XX1m/JenIZAXy6q0omsEJ4Jd/gw4ljdbL8SAl/ZACOsuqyi4dRimH0q+ymhiUNq3eSI5jOVFUKLdsgtYiVyiNlRMCgvJDvieTdSJ7zcyT74GYYpRiKWZFNmYCVECSBvjE6WB1AdijRe9Ts44sPEbpXZBijrzV+KDV3Z1VQo1DVkh2+elFSEebDCjDM7LPX9OdlKNNKZTvpTafj2H8I4uw2jEYE4oxpnMdfBpt1vxJwcjTSP6m1sssXMBMljTyfF+GKzXDJ6ZwQndLY3we/5POGp6v+Ga9LT33fqWdKhgaYyjwe5bsWcpxn99UsAe4K29JlI=;pxGacnrV1NuZQeil6Onn7g=="
+secured: "KDw3azOtsIgeBE736IO+PD844YRS0Ux7s+aHWCPgVQ4kA7rOby4UQ3OzBwN/7Ye5g/q3TY45XI3qWZE1TCXXKy98QjTjrJu56toKQyh9eKoaoqURhkHDxEEP/Dj4cGx2/CRKEaobV2x5UHgzH4OpDYRbfFqGZ47SuSfbxc6DMr2hKCpNQhrhZNxNtE9W7INFK/msIUUX9Zbl+swUVO+8oNk50lcwX7cwX4d+Ehx1vBMypGh9tBvHTPoEijxFzteAGtrTaRnvTdlDSYR40zaIqp8b4jCy7fO4Fbx+/U4+ioKwop2xviKczsVHOuba86Ii2p36tVNX1bKmV7kCkXyQV5AVq0VjKNYbCp5yR8bc9IU=;zjGm0fkeki8VGJZ9t+gzjQ=="
 ---
 

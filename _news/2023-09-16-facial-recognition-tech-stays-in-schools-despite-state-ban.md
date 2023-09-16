@@ -53,20 +53,6 @@ related:
         width: 388
         height: 250
         isCached: true
-  - title: "Telangana: Govt schools in State to adopt facial recognition system soon"
-    excerpt: "AI-based system♦ AI-based facial recognition to replace manual attendance in TS schools ♦ Android app eliminates paper register, launch by September end ♦ 26 lakh students in 26,000"
-    publishedDateTime: 2023-09-12T00:45:00Z
-    webUrl: "https://www.thehansindia.com/news/cities/hyderabad/telangana-govt-schools-in-state-to-adopt-facial-recognition-system-soon-821972"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 38
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2023/09/12/1379890-facial-recognition-attendance-management-system.jpg"
-        width: 1200
-        height: 720
-        isCached: true
 
 secured: "BDAQv/tWBgebrRE7ZWbCw+cLgNveU4tY+fPj8q7bTOoK5EzxTBfikjTZe+Jr8NswB+sosXxLIvTq5puaFuQgyM0QG3vvMrtojxQxdT0ViarGvVA8Tdcr0ikTx5XAOG5T3KBWsIuzLC641i8D582rUmZjQiS5iIZWVSRNW0nQDU+2sm2y83SW472+BVsnl0+wgc+t/prbsWf4YurSrBRxxvS6kz9MO1htqb8qKJe8i1YdjPi06Y+s/P4ZoVbOmxAK5BHwFdnezdd+pexFsQ/DqYLdPsbtlgfBOMLlY+lTwoCLzQiPM0MGUbLMjoP8o9/szEaKIBCKTNJMQ5XO8YkK6Nj0sSu8FrvUoQEDKruslnA=;jypgle2RdHGjallmxEQk9A=="
 ---

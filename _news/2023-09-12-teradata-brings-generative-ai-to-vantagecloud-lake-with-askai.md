@@ -7,7 +7,7 @@ originalUrl: "https://www.enterprisetimes.co.uk/2023/09/12/teradata-brings-gener
 webUrl: "https://www.enterprisetimes.co.uk/2023/09/12/teradata-brings-generative-ai-to-vantagecloud-lake-with-ask-ai/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Teradata adds ask.ai generative AI assistant to VantageCloud Lake"
-    excerpt: "Enterprises will be able to use the ask.ai natural language assistant to ask questions about their data from within Teradata’s multicloud analytics platform."
-    publishedDateTime: 2023-09-11T23:32:00Z
-    webUrl: "https://www.arnnet.com.au/article/708705/teradata-adds-ask-ai-generative-ai-assistant-vantagecloud-lake/?fp=2&fpid=1"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 39
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_teradata_1.jpg"
-        width: 504
-        height: 315
-        isCached: true
   - title: "Teradata Launches ask.ai, Brings Generative AI Capabilities to VantageCloud Lake"
     excerpt: "Teradata has announced ask.ai, a new generative AI capability for VantageCloud Lake. The natural language interface is"
     publishedDateTime: 2023-09-12T12:44:00Z

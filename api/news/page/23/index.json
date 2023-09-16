@@ -2,6 +2,49 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2023-08-31-tesla-allowing-no-hands-driving-with-autopilot-for-longer-periods-nhtsa-raises-questions.md",
+      "title": "Tesla allowing no-hands driving with Autopilot for longer periods; NHTSA raises questions",
+      "excerpt": "It opened a formal probe in 2021 and since 2016 has sent investigators to 35 Tesla crashes that may involve partially automated driving systems. At least 17 people have died. Tesla says Autopilot and a more sophisticated \"Full Self-Driving\" system cannot ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/sanfrancisco/news/tesla-autopilot-allowing-no-hands-driving-longer-periods-nhtsa-concerned/",
+      "originalUrl": "https://www.cbsnews.com/sanfrancisco/news/tesla-autopilot-allowing-no-hands-driving-longer-periods-nhtsa-concerned/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/08/30/ed93724c-c66d-4eb1-a3ac-0218c5233b6a/thumbnail/1200x630/d99da16f8c3bff4267a2359a293e6832/ap23213424013169.jpg?v=a8a34dbc23229a263a09ea92e9d5b7dc",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/sanfrancisco/news/tesla-autopilot-allowing-no-hands-driving-longer-periods-nhtsa-concerned/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/tesla-autopilot-allowing-no-hands-driving-longer-periods-nhtsa-concerned/",
+      "publishedDateTime": "2023-08-30T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-30-watch-out-grammarly-google-docs-gets-ai-proofreading.md",
       "title": "Watch out, Grammarly — Google Docs gets AI proofreading",
       "excerpt": "For the $30 monthly fee, enterprise users get advanced AI features in many Workspace apps, including Google Docs, Sheets, Slides, Gmail, Meet, and more. After a slow start, Google is moving quickly with its AI rollout. Google Duet with Proofread launched ...",
@@ -1148,40 +1191,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-08-30-dawn-of-the-driverless-car.md",
-      "title": "Dawn of the Driverless Car",
-      "excerpt": "Horizon explores a world where cars can drive themselves safely and looks into the artificial intelligence required to make it possible. Peering into the implications of a future driverless world ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/programmes/b08wwnwk",
-      "originalUrl": "https://www.bbc.co.uk/programmes/b08wwnwk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-29T17:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],
