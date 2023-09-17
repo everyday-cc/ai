@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 802
         isCached: true
-  - title: "AI Demands A New Kind Of In-The-Job Learning"
-    excerpt: "As AI takes the work world by storm, Learning & Development as usual isn’t going to cut it. Here is what L&D leaders can do about it."
-    publishedDateTime: 2023-09-12T14:43:00Z
-    webUrl: "https://www.forbes.com/sites/allisondulinsalisbury/2023/09/12/ai-demands-a-new-kind-of-in-the-job-learning/"
-    ampWebUrl: "https://www.forbes.com/sites/allisondulinsalisbury/2023/09/12/ai-demands-a-new-kind-of-in-the-job-learning/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/allisondulinsalisbury/2023/09/12/ai-demands-a-new-kind-of-in-the-job-learning/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64ff63bec81f6ac3566445ba/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "The power of data and AI: Transforming industries through collaboration"
     excerpt: "The world is in the midst of a data revolution, and the integration of AI into industries is at the forefront of this transformation. Understanding the data that is being used, its source, representation, structure and format is essential for making AI and generative AI more effective and impactful, according to Day."
     publishedDateTime: 2023-09-13T21:11:00Z

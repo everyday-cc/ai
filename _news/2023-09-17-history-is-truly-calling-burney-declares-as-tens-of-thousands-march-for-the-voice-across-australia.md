@@ -1,32 +1,52 @@
 ---
 category: news
-title: "Corporate Australia’s support for Indigenous Voice fails to win over public"
-excerpt: "Australian businesses’ support for the Voice is doing little to boost the flagging fortunes of the ‘yes’ campaign."
-publishedDateTime: 2023-09-13T05:16:00Z
-originalUrl: "https://www.aljazeera.com/economy/2023/9/13/corporate-australia-backed-a-voice-on-indigenous-rights-it-now-faces-defeat"
-webUrl: "https://www.aljazeera.com/economy/2023/9/13/corporate-australia-backed-a-voice-on-indigenous-rights-it-now-faces-defeat"
-ampWebUrl: "https://www.aljazeera.com/amp/economy/2023/9/13/corporate-australia-backed-a-voice-on-indigenous-rights-it-now-faces-defeat"
-cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2023/9/13/corporate-australia-backed-a-voice-on-indigenous-rights-it-now-faces-defeat"
+title: "‘History is truly calling’, Burney declares as tens of thousands march for the voice across Australia"
+excerpt: "Minister for Indigenous Australians told Melbourne crowd she was almost crying when she saw the turnout for the rallies"
+publishedDateTime: 2023-09-17T06:20:00Z
+originalUrl: "https://www.theguardian.com/australia-news/2023/sep/17/history-is-truly-calling-burney-declares-as-tens-of-thousands-march-for-the-voice-across-australia"
+webUrl: "https://www.theguardian.com/australia-news/2023/sep/17/history-is-truly-calling-burney-declares-as-tens-of-thousands-march-for-the-voice-across-australia"
+ampWebUrl: "https://amp.theguardian.com/australia-news/2023/sep/17/history-is-truly-calling-burney-declares-as-tens-of-thousands-march-for-the-voice-across-australia"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/sep/17/history-is-truly-calling-burney-declares-as-tens-of-thousands-march-for-the-voice-across-australia"
 type: article
-quality: 57
-heat: 117
-published: true
+quality: 29
+heat: -1
+published: false
 
 provider:
-  name: Al Jazeera English
-  domain: aljazeera.com
+  name: The Guardian
+  domain: theguardian.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.aljazeera.com/wp-content/uploads/2023/09/GettyImages-1632671710-1694568922.jpg?resize=1200%2C675"
-    width: 1200
-    height: 675
+  - url: "https://i.guim.co.uk/img/media/290b0236b952387320c10a92de47c322bd3c0e7f/0_0_5500_3302/master/5500.jpg?width=620&quality=85&auto=format&fit=max&s=81b004dcdea093e4e3773c36c4418d13"
+    width: 620
+    height: 372
     isCached: true
 
 related:
+  - title: "Corporate Australia’s support for Indigenous Voice fails to win over public"
+    excerpt: "Australian businesses’ support for the Voice is doing little to boost the flagging fortunes of the ‘yes’ campaign."
+    publishedDateTime: 2023-09-13T05:16:00Z
+    webUrl: "https://www.aljazeera.com/economy/2023/9/13/corporate-australia-backed-a-voice-on-indigenous-rights-it-now-faces-defeat"
+    ampWebUrl: "https://www.aljazeera.com/amp/economy/2023/9/13/corporate-australia-backed-a-voice-on-indigenous-rights-it-now-faces-defeat"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2023/9/13/corporate-australia-backed-a-voice-on-indigenous-rights-it-now-faces-defeat"
+    type: article
+    provider:
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 57
+    images:
+      - url: "https://www.aljazeera.com/wp-content/uploads/2023/09/GettyImages-1632671710-1694568922.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Thousands in Australia rally for struggling indigenous recognition referendum"
     excerpt: "Ahead of Australia’s Voice vote, ‘false information’ swirls among Malaysians But the “Voice to Parliament” proposal appeared on track for defeat, a poll showed last week, the fifth monthly survey in a row to find voters against the change."
     publishedDateTime: 2023-09-17T05:30:00Z
@@ -87,22 +107,6 @@ related:
         width: 1312
         height: 1325
         isCached: true
-  - title: "‘History is truly calling’, Burney declares as tens of thousands march for the voice across Australia"
-    excerpt: "Minister for Indigenous Australians told Melbourne crowd she was almost crying when she saw the turnout for the rallies"
-    publishedDateTime: 2023-09-17T06:20:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2023/sep/17/history-is-truly-calling-burney-declares-as-tens-of-thousands-march-for-the-voice-across-australia"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/sep/17/history-is-truly-calling-burney-declares-as-tens-of-thousands-march-for-the-voice-across-australia"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/sep/17/history-is-truly-calling-burney-declares-as-tens-of-thousands-march-for-the-voice-across-australia"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 29
-    images:
-      - url: "https://i.guim.co.uk/img/media/290b0236b952387320c10a92de47c322bd3c0e7f/0_0_5500_3302/master/5500.jpg?width=620&quality=85&auto=format&fit=max&s=81b004dcdea093e4e3773c36c4418d13"
-        width: 620
-        height: 372
-        isCached: true
   - title: "‘Not easy’: Country’s Voice lesson for Australia"
     excerpt: "As Australians gear up to have their say on an Indigenous Voice to parliament in a matter of weeks, one country has been reaping the rewards of a similar style model for decades."
     publishedDateTime: 2023-09-16T06:03:00Z
@@ -115,6 +119,6 @@ related:
       domain: news.com.au
     quality: 24
 
-secured: "hflV162pyA49VfKoRcxjqpcI01pVyHm5vJTT+T3qvznzxeat3Kz5QABNywkqNt9wacQDDoLOCr5SS9XOMO4qRBvL3XZcRw08tssConhNQwo16TRA5wuTeOy7UvMbTf//dEcpqNPVYG6RvfIqpPp0Ju88h5WzYHMvpzENLsxtQEKP4xSMhgPkhMicvkFPera82FxlzqOu7g0CAKrCfEekanQiFq3nPPlS5NSdHkEvt49DB8xEgHSsEzkhQSO9CmaoX6rJWC/Di9zV3zMapbySrZbZN3M76qCohwi4EFrw72tBPVBgCsv5HzIIeJBBkdJAc3nzegQkSwAa4u+iJ6SDwJg6h7+gaUQGyFt3ZRfsFDU=;zt2ayNZ/mmIEwdyRhQwutQ=="
+secured: "R/gkstVTowC5aIGoS0xftY6fRIMmLMjtUtzhlbUtn182q5EdktX0EsJuS/IYRg7d5EmgT2vkLq+9akaovQRR5cJBGfC81fD8MCgDLzjWNvltF4hJl/2e7Qh8D9aHoHdpCehyHp0RATuy1V0Ghm7X659//KQtfZKeYID4ls9BA4B01a9illz2rn3nmS1ravrmtFBwsq8h4upsFLvufnyHUmrOsCVqJQyRLRysj5huA+Wkqh2d80EjIOjM55NMDJBeepR+K8tT3c8iXMGye5AqQ8YRvrRKrosQB9Q1Y+yDz/s/HnLbrLWWlpQqamAyaoC2UAblmbMoA7njSIG8W6b9HG5/0ZMnirnQrQq3YFk6fVw=;ak9+zVyWNs3mGNxOdThAkw=="
 ---
 

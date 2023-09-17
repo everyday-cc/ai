@@ -40,20 +40,6 @@ related:
         width: 821
         height: 521
         isCached: true
-  - title: "AWS Unveils Multi-Model Endpoints for PyTorch on SageMaker"
-    excerpt: "Subscribe for free. AWS has introduced Multi-Model Endpoints for PyTorch on Amazon SageMaker. This latest development promises to revolutionize the AI landscape, offering users more flexibility ..."
-    publishedDateTime: 2023-09-12T14:07:00Z
-    webUrl: "https://www.infoq.com/news/2023/09/aws-sagemaker-pytorch/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 71
-    images:
-      - url: "https://res.infoq.com/news/2023/09/aws-sagemaker-pytorch/en/headerimage/generatedHeaderImage-1694464185217.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "olaf7Fbipxj46aClAUiHA8Mw+RxEnnlCrJ5zJ9ZjI7oa6tEbA5rhCTgVqQ6Nu0UgabZHpBEQI+9ljluY90syVYvE+vRJWz1QT33b60541BQV+ukVLrnlTEAr9AapW1e3/i5UfhfsXgPdadfaEvecfBgoYqU6qBhrLtmFIje4/hHzwKCYRQSNI3yU76q47auPaog6Wj25EQXHhV+35Cby2hqi02QuDx2oEqS9Ppaw+QRGiblD8qOE7JgHDRNikxlg5E1gXH1Ebu6LGg5OLTHjZj4WPmC/or9UnmMN7Y1mb+13y2A+vtMDZWQafIcAeBw1Y0AYsE7c4epHUJehAC//tV+KieMAWEN0FPLWZjwcWT6wkAOxLncP/ShueJgm8h6P42PN/egDHMOIpRqhAEydtTQGz+SfESj0rX1/HRz05gO0jkOpoZ5GQtdLJ3SmCrXP24hR/B7cSx401oN2q9hDzDLyOMrXMQ6P2pXvrPhcb2XtqcMrOfInWqoMY8+zK56ypnDD0LNgBm2gnxK9WY6GKg==;sChwSJqysZ6oIOXJwXCw3A=="
 ---

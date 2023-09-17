@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 752
         isCached: true
+  - title: "The raw materials for creating AI"
+    excerpt: "Explore the resources and materials that are needed to create AI"
+    publishedDateTime: 2023-09-15T16:14:00Z
+    webUrl: "https://www.businessinsider.com/how-to-create-ai-materials-resources-guide-2023-9"
+    ampWebUrl: "https://www.businessinsider.com/how-to-create-ai-materials-resources-guide-2023-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-create-ai-materials-resources-guide-2023-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
+    images:
+      - url: "https://i.insider.com/64c7a0d5048ff200190de9d2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Businesses need pricing clarity as generative AI services hit the market"
     excerpt: "Transparency around how exactly services are charged will be essential as organizations look to avoid bill shock from consuming generative artificial intelligence tools."
     publishedDateTime: 2023-09-13T16:30:00Z
@@ -90,20 +106,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/4e067f1f8c2abf3b2db1a2f0abfb7929a278ce41/2023/09/14/5df6af52-6068-4bca-a545-2e56805b3c37/waves-gettyimages-184286397.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Here’s how we raised a Series B for our AI startup during a downturn"
-    excerpt: "Not so fast. Already, the headline-grabbing funding rounds for generative AI companies are beginning to slow, and with almost every startup calling itself an “AI company,” it will become more difficult for true AI startups to stand out. For founders ..."
-    publishedDateTime: 2023-09-12T14:30:00Z
-    webUrl: "https://techcrunch.com/2023/09/12/how-we-raised-a-series-b-for-our-ai-startup/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 67
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1054956204.jpg?resize=1200,800"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Stability AI debuts Stable Audio bringing text to audio generation to the masses"
     excerpt: "Stability AI today announced the initial public release of its Stable Audio technology, providing anyone with ability to use simple text prompts to generate short audio clips."
@@ -165,17 +167,17 @@ related:
         isCached: true
   - title: "How scientists are using artificial intelligence"
     excerpt: "Automating and speeding up physical experiments and laboratory work is another area of interest. “Self-driving laboratories” can plan an experiment, execute it using a robotic arm, and then analyse the results. Automation can make discovering new compounds, or finding better ways of making old compounds, up to a thousand times faster."
-    publishedDateTime: 2023-09-13T18:52:00Z
-    webUrl: "https://www.economist.com/science-and-technology/2023/09/13/how-scientists-are-using-artificial-intelligence"
+    publishedDateTime: 2023-09-13T21:52:00Z
+    webUrl: "https://www.aol.com/finance/scientists-using-artificial-intelligence-185204515.html"
     type: article
     provider:
-      name: The Economist
-      domain: economist.com
+      name: AOL
+      domain: aol.com
     quality: 39
     images:
-      - url: "https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/content-assets/images/20230916_STC417.png"
+      - url: "https://media.zenfs.com/en/aol_the_economist_398/bae84b4d519fcdddc9fc85fd84d2acd5"
         width: 608
-        height: 703
+        height: 739
         isCached: true
   - title: "My life as an AI chatbot operator"
     excerpt: "Targeting writing and other humanities programmes was a canny recruiting decision. Aspiring writers and artists tend to be detail-oriented, emotionally astute and experienced in writing dialogue – useful traits to impart to a bot that is meant to emulate humans. And many want work that can complement and sustain creative projects or teaching."

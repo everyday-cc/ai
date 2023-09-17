@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 802
         isCached: true
-  - title: "AI Demands A New Kind Of In-The-Job Learning"
-    excerpt: "As AI takes the work world by storm, Learning & Development as usual isn’t going to cut it. Here is what L&D leaders can do about it."
-    publishedDateTime: 2023-09-12T14:43:00Z
-    webUrl: "https://www.forbes.com/sites/allisondulinsalisbury/2023/09/12/ai-demands-a-new-kind-of-in-the-job-learning/"
-    ampWebUrl: "https://www.forbes.com/sites/allisondulinsalisbury/2023/09/12/ai-demands-a-new-kind-of-in-the-job-learning/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/allisondulinsalisbury/2023/09/12/ai-demands-a-new-kind-of-in-the-job-learning/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64ff63bec81f6ac3566445ba/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "UK Space sector’s need for AI and machine learning experts"
     excerpt: "The UK space sector urgently seeks AI and machine learning experts to capitalise on emerging technologies, according to a recent survey"
     publishedDateTime: 2023-09-13T10:12:00Z

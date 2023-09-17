@@ -91,6 +91,22 @@ related:
         width: 1312
         height: 1325
         isCached: true
+  - title: "‘History is truly calling’, Burney declares as tens of thousands march for the voice across Australia"
+    excerpt: "Minister for Indigenous Australians told Melbourne crowd she was almost crying when she saw the turnout for the rallies"
+    publishedDateTime: 2023-09-17T06:20:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/sep/17/history-is-truly-calling-burney-declares-as-tens-of-thousands-march-for-the-voice-across-australia"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/sep/17/history-is-truly-calling-burney-declares-as-tens-of-thousands-march-for-the-voice-across-australia"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/sep/17/history-is-truly-calling-burney-declares-as-tens-of-thousands-march-for-the-voice-across-australia"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 29
+    images:
+      - url: "https://i.guim.co.uk/img/media/290b0236b952387320c10a92de47c322bd3c0e7f/0_0_5500_3302/master/5500.jpg?width=620&quality=85&auto=format&fit=max&s=81b004dcdea093e4e3773c36c4418d13"
+        width: 620
+        height: 372
+        isCached: true
   - title: "‘Not easy’: Country’s Voice lesson for Australia"
     excerpt: "As Australians gear up to have their say on an Indigenous Voice to parliament in a matter of weeks, one country has been reaping the rewards of a similar style model for decades."
     publishedDateTime: 2023-09-16T06:03:00Z
@@ -103,6 +119,6 @@ related:
       domain: news.com.au
     quality: 24
 
-secured: "JaahKuM/5XNP9IigTSAUEaCA1v1YDbBxf2l1RiNua6jI/Q7Af+wRBlKLfUiZVlpeXjvLwuzEx4SknFxzmJF8hJ9r62T4/sUtPBxwEB4xlZpMUk3wOtyJykYMppUUQI6VL+Ci7NGNFBzLBoKjUX2k8pQWCWdDT4w8wRG2+zjozNZg4bEeUL3r9uzhShJsh+MHU0KYx29crDQGyN+ssn0D2QOpG3aaDwSWxUgnR+nENYlm4qOP/pYWvEs+rbqIruRgL/IkOBL9hS+u7DL0FaNBAT/KmqlR9KfMpurHwU9VAzG/5KmvhFD0wIEaiWjFsEt0MfXZkYyr1EcqdV+/TM11g6q9op0hMNSd17FKvWgd5XQ=;z0wsxsSm7iP6lCZE1/FiFQ=="
+secured: "6ONX22AkLB1gKttkDQhfQ2jf7SYzNhftfv02Qxd3iwhIaVLAEumKGqWEjv1TupiOU1Q4NjpdSqcPORVe81F25WGuQCTn6CIJRkFin28/5VUDKOvcsMrNzZXnHvIb0K/LP1ECqIxocYNzSeKZZ2KOdvWCJd65dYR9D46lNwt8HqoANYcqVdCYtHeyo3x8/IaKb/LNl5GPb2UO2iA4GELInxqW0LqcnbB2UeFBE0L2UekdEhBO5J9hxKwlMaVvsUppTUGW+EzB1y8H0UiuXkvUIXNEJKWaJH5UcLi8a6pmDFdxP2vHj9tpOTYFx0+F81rD6t/Kl4bwoWVlbq5vkraqBfDDw8OY8To2CyPB43H3eXz44I7mv/ooRMqipW5cDffG76vSGodkwVf8AnryL5LgCFhCSC/dyDwi5RIlH1VRRfleUvenQp+t/VAN/ohCU4YLSHH/jA1TDAIoBsdK2jQQaJQliRh9wiqjkxSNkzv8Io85EKClKg+bsCatbEpsMI4t/Bs2fKx0X+EHofgc6JP/YQ==;czbRjvZEHbNGuBaLY1czNQ=="
 ---
 

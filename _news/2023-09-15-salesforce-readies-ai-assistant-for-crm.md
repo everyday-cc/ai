@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3706988/salesforce-readies-ai-assi
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706988/salesforce-readies-ai-assistant-for-crm.amp.html"
 type: article
 quality: 119
-heat: 229
+heat: 209
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6501b86f58ec578e535e700f/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 855
-        isCached: true
-  - title: "Dreamforce 2023: Salesforce Expands Einstein AI and Data Cloud Platform"
-    excerpt: "The Einstein 1 platform links Salesforce CRM data and generative AI. Plus, Trust Layer allows organizations control over their own data."
-    publishedDateTime: 2023-09-12T14:34:00Z
-    webUrl: "https://www.techrepublic.com/article/dreamforce-2023-salesforce-ai-announcement/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/09/tr_09122023-dreamforce-2023-salesforce-ai-announcement.jpg"
-        width: 1400
-        height: 900
         isCached: true
   - title: "Here are the six AI nonprofits Salesforce is backing"
     excerpt: "The list includes Beyond 12, CareerVillage, CodePath, College Possible, Per Scholas and Teacher Development Trust, many education focused."
@@ -158,15 +144,6 @@ related:
         width: 1020
         height: 806
         isCached: true
-  - title: "Salesforce Launches Next Generation of Einstein, Bringing a Conversational AI Assistant to Every CRM Application and Customer Experience"
-    excerpt: "NYSE:CRM) Salesforce Launches Next Generation of Einstein, Bringing a Conversational AI Assistant to Every CRM Application and Customer Experience"
-    publishedDateTime: 2023-09-12T13:44:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2023/09/12/salesforce-launches-next-generation-of-einstein-bringing-a-conversational-ai"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 18
   - title: "Dreamforce 2023 - Salesforce gives $2 million to education non-profits to ensure underserved communities don’t miss out on gen AI benefits"
     excerpt: "Dreamforce 2023 - Salesforce gives $2 million to education non-profits to ensure underserved communities don’t miss out on gen AI benefits Salesforce has selected six non-profits that will share a $2 million fund to develop equitable and trusted generative AI systems in the education sector."
     publishedDateTime: 2023-09-13T12:02:00Z

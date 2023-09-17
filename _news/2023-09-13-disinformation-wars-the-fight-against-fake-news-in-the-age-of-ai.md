@@ -33,6 +33,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "Google’s Gemini AI: Here’s what you should know"
+    excerpt: "Google is introducing its AI model, Gemini, to compete with OpenAI’s GPT-4. Gemini AI, announced by Alphabet CEO Sundar Pichai in May 2023, offers features like content generation, code writing, and more."
+    publishedDateTime: 2023-09-17T06:03:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/googles-gemini-ai-heres-what-you-should-know/article67317670.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/googles-gemini-ai-heres-what-you-should-know/article67317670.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/googles-gemini-ai-heres-what-you-should-know/article67317670.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 39
   - title: "Google Gemini: What We Know So Far"
     excerpt: "What we know so far indicates Gemini could represent a significant advancement in natural language processing. The fusion of DeepMind’s latest AI research with Google’s vast computational resources makes the potential impact challenging to overstate."
     publishedDateTime: 2023-09-15T19:55:00Z

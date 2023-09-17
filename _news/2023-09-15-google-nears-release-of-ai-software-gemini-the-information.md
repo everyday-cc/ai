@@ -22,6 +22,17 @@ topics:
   - AI
 
 related:
+  - title: "Google’s Gemini AI: Here’s what you should know"
+    excerpt: "Google is introducing its AI model, Gemini, to compete with OpenAI’s GPT-4. Gemini AI, announced by Alphabet CEO Sundar Pichai in May 2023, offers features like content generation, code writing, and more."
+    publishedDateTime: 2023-09-17T06:03:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/googles-gemini-ai-heres-what-you-should-know/article67317670.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/googles-gemini-ai-heres-what-you-should-know/article67317670.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/googles-gemini-ai-heres-what-you-should-know/article67317670.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 39
   - title: "Disinformation wars: The fight against fake news in the age of AI"
     excerpt: "Researchers and governments are finally battling back against the deluge of false information online, just as artificial intelligence threatens to supercharge the problem"
     publishedDateTime: 2023-09-12T17:00:00Z

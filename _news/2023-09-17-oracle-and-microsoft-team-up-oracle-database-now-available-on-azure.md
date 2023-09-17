@@ -1,28 +1,27 @@
 ---
 category: news
-title: "AI-powered teaching and learning: Microsoft unleashes new educational tools"
-excerpt: "As classrooms worldwide usher in another academic year, tech giant Microsoft steps forward with its cutting-edge AI-powered solutions to push the boundaries"
-publishedDateTime: 2023-09-13T15:28:00Z
-originalUrl: "https://www.onmsft.com/news/ai-powered-teaching-and-learning-microsoft-unleashes-new-educational-tools/"
-webUrl: "https://www.onmsft.com/news/ai-powered-teaching-and-learning-microsoft-unleashes-new-educational-tools/"
+title: "Oracle and Microsoft team up - Oracle database now available on Azure"
+excerpt: "Microsoft and Oracle expand their partnership to provide Oracle Database@Azure, providing direct access to Oracle database services running on Oracle Cloud Infrastructure, deployed in Microsoft Azure data centres."
+publishedDateTime: 2023-09-17T06:01:00Z
+originalUrl: "https://itwire.com/business-it-news/data/oracle-and-microsoft-team-up-oracle-database-now-available-on-azure.html"
+webUrl: "https://itwire.com/business-it-news/data/oracle-and-microsoft-team-up-oracle-database-now-available-on-azure.html"
 type: article
-quality: 54
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: On MSFT
-  domain: onmsft.com
+  name: ITWire
+  domain: itwire.com
 
 topics:
   - Microsoft AI
   - AI
-  - Natural Language Processing
 
 images:
-  - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2022/08/Windows-Blog-promotes-back-to-school-Windows-11-laptops.jpg"
-    width: 1024
-    height: 768
+  - url: "https://itwire.com/media/k2/items/cache/fa17f821cbdb9c13cd02c32aeac174a6_M.jpg"
+    width: 375
+    height: 293
     isCached: true
 
 related:
@@ -194,20 +193,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Oracle and Microsoft team up - Oracle database now available on Azure"
-    excerpt: "Microsoft and Oracle expand their partnership to provide Oracle Database@Azure, providing direct access to Oracle database services running on Oracle Cloud Infrastructure, deployed in Microsoft Azure data centres."
-    publishedDateTime: 2023-09-17T06:01:00Z
-    webUrl: "https://itwire.com/business-it-news/data/oracle-and-microsoft-team-up-oracle-database-now-available-on-azure.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 69
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/fa17f821cbdb9c13cd02c32aeac174a6_M.jpg"
-        width: 375
-        height: 293
-        isCached: true
   - title: "Everything we're expecting at Microsoft's Surface and AI event next week"
     excerpt: "Microsoft's momentous year may culminate in one of its biggest launch events next week. Here's what we're expecting."
     publishedDateTime: 2023-09-15T18:48:00Z
@@ -230,6 +215,20 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/OrangeServersSmall.jpg"
         width: 647
         height: 450
+        isCached: true
+  - title: "AI-powered teaching and learning: Microsoft unleashes new educational tools"
+    excerpt: "As classrooms worldwide usher in another academic year, tech giant Microsoft steps forward with its cutting-edge AI-powered solutions to push the boundaries"
+    publishedDateTime: 2023-09-13T15:28:00Z
+    webUrl: "https://www.onmsft.com/news/ai-powered-teaching-and-learning-microsoft-unleashes-new-educational-tools/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 54
+    images:
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2022/08/Windows-Blog-promotes-back-to-school-Windows-11-laptops.jpg"
+        width: 1024
+        height: 768
         isCached: true
   - title: "Viaccess-Orca, Microsoft, generative AI partnership"
     excerpt: "Viaccess-Orca (VO), a specialist in providing OTT and TV platforms, content protection, and advanced data solutions, is collaborating with Microsoft on new adva"
@@ -384,6 +383,6 @@ related:
       domain: microsoft.com
     quality: 7
 
-secured: "bh/rsWO7hd1/Z7DvvBTGO1t1R/DGcp+EocmzVFuj0N8pMV+5wlSC7+ExOmQNz62QE9BYe56w5rt0CZTUzD8zBelmGQnWekduuHOiKAjbMs+NcySDthkTLmZf+A148kXfzzBIvRTHxdm6juZUHtQoPnuw1mZeOiMdnG9D1mzHZ8dv4Hn9OgIbrpBJCEgtV/oheZM0LTt84GUyxpvokd0LVuSzfk/VZb7o3SC40+P230FzZPrzStH2VTxv7a/3Z6wIKZlqiKDc08Y05+4ytr3xt/esP3FxN40/pRuBaiAuhMq7Ut2ubeQXQRwmNQKowajxSt1zIRKMEtM3fnKjvQpmxfKjFbqfw2SlszgXyY9OrIHQOIWNATnYYOwablIuUvhUIenhhi9w1Pq6tHA6n+fglS9eGkyRTBt6mZEPFrIwC9Z97yKTLFUFYYzaNqeiNVMlVUfIMGaScT1lL4zt5nbaJMdQe2DIVpQtpzIJ8wlaB0iM30+vF4l06LYw7+/ZcQVufhR3xbDMg9sV456q7ewTcg==;3F4jwW8mocy60EHNRwC7/g=="
+secured: "WCO9JWaBI87JfQT9qED/gtjADAvy2OW3B8WH5qCb3CF4rCyMTiosiGVdZLIuEYPcqp89OaPnHu58e+KssqDTh5wxdGkhkxbfXicaf1umsVE4oVYFtzVtc8Wq9QsZVp4k3Rek5ttrPOih4uVZj446tjdx3u/mfotMug1jykvu/1rsqNwOfHu7uNIzHdpMi7iG0M5aFqUlpgLZXUxCMFARSWd9R8tfNG6sj2JnTIx2L/ARnTmVkVTY5D4zCfIlo9oHMWQw2fo6uaL115pyrQOpZbSWdTTQXrhBDNb0/ocmHs9kFIIQA2Pi6T615PwUTVNZXK5gi2GxAiH0+sOZRTh0f+gQyypMxTfPJVhVny9faGg=;OvOh/vfiFhxeMetPUVz0kA=="
 ---
 

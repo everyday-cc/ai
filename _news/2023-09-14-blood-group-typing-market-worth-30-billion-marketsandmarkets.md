@@ -26,31 +26,6 @@ images:
     height: 1043
     isCached: true
 
-related:
-  - title: "Image-Guided Radiation Therapy Market worth $2.4 billion | MarketsandMarkets"
-    excerpt: "In the near future, the Image-Guided Radiation Therapy (IGRT) industry is poised for remarkable growth and transformation, driven"
-    publishedDateTime: 2023-09-12T14:04:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/image-guided-radiation-therapy-market-worth-2-4-billion--marketsandmarkets-301924164.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 36
-    images:
-      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
-        width: 666
-        height: 350
-        isCached: true
-  - title: "Clinical Decision Support Systems (CDSS) Market worth $2.5 billion | MarketsandMarkets"
-    excerpt: "The Clinical Decision Support Systems (CDSS) industry is poised for remarkable growth in the near future. With rapid advancements in artificial intelligence"
-    publishedDateTime: 2023-09-12T15:03:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-09/60089679-clinical-decision-support-systems-cdss-market-worth-dollar-2-5-billion-marketsandmarkets-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
-
 secured: "kNAkNt3Nyitgun76xyoLHmNQP+3v/FBx1121jDz1ZZ+MFgclAl6IOMU9FcmEwV2iyeccC8SkLk7DbXy37/bAlanrFEHscJEvfH/0ygavTxlmZQRIq6j79f/Iu3VEDBCtBVBnuJAj4Euk2YK4snuHeQ4mGbUfdsZJ/PaZTuSorJp8fatzxtaYMPpHQFjPavUW7Y3ukOuxDi49q6tKUBG25XgneiuFTDMU24J1Q8POyKI1hTC3DYHikWt7tPhBIQSHi11wZgVOLvFFsqFFUcGhDu1Cg0wX19zXDCHWyWgyVH+AAyyd/ALT3k7OM6Rrhb2KeeX/gEzRrSprtgPgvVXnYz+TcPbQtF7GErc22H7mKRg=;/Adg/eyYqx511izqblgHVg=="
 ---
 

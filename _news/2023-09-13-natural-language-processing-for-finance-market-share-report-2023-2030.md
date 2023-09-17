@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/34515154"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34515154"
 type: article
 quality: 76
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -26,24 +26,6 @@ images:
     width: 1043
     height: 1043
     isCached: true
-
-related:
-  - title: "Mobile Speech Recognition Software Market [2023-2030] | Worldwide Size, Share, and Growth"
-    excerpt: "Global Mobile Speech Recognition Software Market (2023-2030) research report provides a detailed evaluation of the market by highlighting information on different aspects which include drivers ..."
-    publishedDateTime: 2023-09-12T14:45:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/34492929/mobile-speech-recognition-software-market-2023-2030-worldwide-size-share-and-growth"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34492929"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34492929"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 50
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
 
 secured: "jsmaQKIyFbvp85oqn9ZHAY+we3cr8UyE4ktTw9ElBlNlB41JE39JaPzLK65dgJcbKGwu11mBmit1+XqBmA9Xv0bkrtrOxAEZGSsvz+icWbgRO5k8UXWXy1eQGi85VYlyRQ0T+QFp69ncdZLDwC+PO+aefwJHNaidlMHR4xBwJ5OmjOWZwiibllEZNmnugVTat6oWmgra5rtAsjYXGt8ndMiPHAxZHDGcrZ3N84RvijMGZEWYHUjrzWt084fFFI35Buw58SbFe2YZxL4/ZM+6FgqEHtyh10ylSToZ7rp8DI+xduQCqwJ/OeWALCfiInaXuEeSXE6F+d9aar1MWVUgLXEp8gfAgKQKBLFLXANx9NE=;Mq4/ggBR3GtaXvgX8IAHpg=="
 ---

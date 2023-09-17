@@ -68,36 +68,6 @@ related:
         width: 1400
         height: 900
         isCached: true
-  - title: "UGOT modular AI robot kit with support for ChatGPT, Python and more"
-    excerpt: "face recognition, and text and object recognition. If the UGOT campaign successfully raises its required pledge goal and production progresses smoothly, worldwide shipping is expected to take place sometime around December 2023. To learn more about the ..."
-    publishedDateTime: 2023-09-12T13:38:00Z
-    webUrl: "https://www.geeky-gadgets.com/modular-ai-robot-kit/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 56
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/modular-AI-robot-kit.jpg"
-        width: 700
-        height: 473
-        isCached: true
-  - title: "A boy saw 17 doctors over 3 years for chronic pain. ChatGPT found the diagnosis"
-    excerpt: "Alex experienced pain that stopped him from playing with other children but doctors had no answers to why. His frustrated mom asked ChatGPT for help."
-    publishedDateTime: 2023-09-12T14:31:00Z
-    webUrl: "https://www.today.com/health/mom-chatgpt-diagnosis-pain-rcna101843"
-    ampWebUrl: "https://www.today.com/today/amp/rcna101843"
-    cdnAmpWebUrl: "https://www-today-com.cdn.ampproject.org/c/s/www.today.com/today/amp/rcna101843"
-    type: article
-    provider:
-      name: Today
-      domain: today.com
-    quality: 55
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-09/chat-gpt-diagnosis-jp-230911-f1cc83.jpg"
-        width: 3024
-        height: 4032
-        isCached: true
   - title: "Verbal nonsense reveals limitations of AI chatbots"
     excerpt: "The era of artificial-intelligence chatbots that seem to understand and use language the way we humans do has begun. Under the hood, these chatbots use large language models, a particular kind of neural network."
     publishedDateTime: 2023-09-15T12:22:00Z
@@ -107,24 +77,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "Harnessing AI And ChatGPT Technology: The Next Industrial Revolution"
-    excerpt: "The future is here—let's embrace it and drive the industrial revolution of tomorrow. And remember: Be Courageous! Be Digital! Be Remarkable!"
-    publishedDateTime: 2023-09-12T13:16:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/12/harnessing-ai-and-chatgpt-technology-the-next-industrial-revolution/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Tencent Backer Prosus Develops AI Chatbot for Its Companies"
-    excerpt: "Dutch e-commerce investor Prosus NV has developed an artificial intelligence chatbot for its portfolio of companies, as tech businesses increasingly turn to the emerging technology to streamline operations."
-    publishedDateTime: 2023-09-12T13:36:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-09-12/tencent-backer-prosus-develops-ai-chatbot-for-its-companies"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
   - title: "AI Miracle: How ChatGPT Cracked a Boy's Chronic Pain Mystery"
     excerpt: "Despite numerous efforts - including an orthodontic intervention to address a narrow palate and a brief foray into physical therapy prompted by concerns ... to the potential harmony between artificial intelligence and human perseverance, uniting in the ..."
     publishedDateTime: 2023-09-12T16:19:00Z

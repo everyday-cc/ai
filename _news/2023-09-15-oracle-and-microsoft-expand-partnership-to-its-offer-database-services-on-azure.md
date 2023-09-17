@@ -179,6 +179,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Oracle and Microsoft team up - Oracle database now available on Azure"
+    excerpt: "Microsoft and Oracle expand their partnership to provide Oracle Database@Azure, providing direct access to Oracle database services running on Oracle Cloud Infrastructure, deployed in Microsoft Azure data centres."
+    publishedDateTime: 2023-09-17T06:01:00Z
+    webUrl: "https://itwire.com/business-it-news/data/oracle-and-microsoft-team-up-oracle-database-now-available-on-azure.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 69
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/fa17f821cbdb9c13cd02c32aeac174a6_M.jpg"
+        width: 375
+        height: 293
+        isCached: true
   - title: "Everything we're expecting at Microsoft's Surface and AI event next week"
     excerpt: "Microsoft's momentous year may culminate in one of its biggest launch events next week. Here's what we're expecting."
     publishedDateTime: 2023-09-15T18:48:00Z

@@ -60,15 +60,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Coca-Cola launches beverage created with the help of artificial intelligence"
-    excerpt: "Coca-Cola Y3000 is the latest flavor to launch under the company’s Creations platform designed to highlight its signature soda while drawing in younger consumers."
-    publishedDateTime: 2023-09-12T13:51:00Z
-    webUrl: "https://www.marketingdive.com/news/soda-artificial-intelligence-AI-coca-cola-launches-beverage-AB-InBev/693376/"
-    type: article
-    provider:
-      name: Marketing Dive
-      domain: marketingdive.com
-    quality: 14
 
 secured: "byeGUDQkiq0T9TLYttF/jX2MvGfm4/KY3MI1wuRu4emNGqbL6oSBOn0NHgPoUhdD7mcSuDXNnzhXQa68st3UIQjUdgVd9w8OD+dsZh2WhOWNRBWyMKT0N6c0m1DUa2YhVf0kVupD7TK1acWU2Kv+TAaVDG0vpiH9wv4NxTk5jRE8QJ5pzuni6m7dz5HxLUCdSxShTlFaTVq230yyasqhyAnvvAocgIGXcwZWShBl2HMBCFTS8T7vtLIP5DwADGnyTRPVbrskUfMZfwkuZOrRKACLcreMcZ0bwtmerZ8/qw2ntbncz/NJjMk3pKupfpwUJ85gaSDRS5puyKEaT5LxVOKsYLSLEIZTdVJiibOfzyg=;/AaI2KR+EHF0kq2U53D3ew=="
 ---

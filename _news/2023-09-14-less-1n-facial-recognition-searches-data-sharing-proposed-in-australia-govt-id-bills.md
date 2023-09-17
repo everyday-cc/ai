@@ -87,6 +87,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "‘History is truly calling’, Burney declares as tens of thousands march for the voice across Australia"
+    excerpt: "Minister for Indigenous Australians told Melbourne crowd she was almost crying when she saw the turnout for the rallies"
+    publishedDateTime: 2023-09-17T06:20:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/sep/17/history-is-truly-calling-burney-declares-as-tens-of-thousands-march-for-the-voice-across-australia"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/sep/17/history-is-truly-calling-burney-declares-as-tens-of-thousands-march-for-the-voice-across-australia"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/sep/17/history-is-truly-calling-burney-declares-as-tens-of-thousands-march-for-the-voice-across-australia"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 29
+    images:
+      - url: "https://i.guim.co.uk/img/media/290b0236b952387320c10a92de47c322bd3c0e7f/0_0_5500_3302/master/5500.jpg?width=620&quality=85&auto=format&fit=max&s=81b004dcdea093e4e3773c36c4418d13"
+        width: 620
+        height: 372
+        isCached: true
   - title: "‘Not easy’: Country’s Voice lesson for Australia"
     excerpt: "As Australians gear up to have their say on an Indigenous Voice to parliament in a matter of weeks, one country has been reaping the rewards of a similar style model for decades."
     publishedDateTime: 2023-09-16T06:03:00Z

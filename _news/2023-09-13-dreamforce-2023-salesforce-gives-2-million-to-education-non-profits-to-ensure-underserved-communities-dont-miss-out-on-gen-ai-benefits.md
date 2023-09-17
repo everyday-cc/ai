@@ -68,20 +68,6 @@ related:
         width: 1200
         height: 855
         isCached: true
-  - title: "Dreamforce 2023: Salesforce Expands Einstein AI and Data Cloud Platform"
-    excerpt: "The Einstein 1 platform links Salesforce CRM data and generative AI. Plus, Trust Layer allows organizations control over their own data."
-    publishedDateTime: 2023-09-12T14:34:00Z
-    webUrl: "https://www.techrepublic.com/article/dreamforce-2023-salesforce-ai-announcement/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/09/tr_09122023-dreamforce-2023-salesforce-ai-announcement.jpg"
-        width: 1400
-        height: 900
-        isCached: true
   - title: "Here are the six AI nonprofits Salesforce is backing"
     excerpt: "The list includes Beyond 12, CareerVillage, CodePath, College Possible, Per Scholas and Teacher Development Trust, many education focused."
     publishedDateTime: 2023-09-14T01:38:00Z
@@ -163,15 +149,6 @@ related:
         width: 1020
         height: 806
         isCached: true
-  - title: "Salesforce Launches Next Generation of Einstein, Bringing a Conversational AI Assistant to Every CRM Application and Customer Experience"
-    excerpt: "NYSE:CRM) Salesforce Launches Next Generation of Einstein, Bringing a Conversational AI Assistant to Every CRM Application and Customer Experience"
-    publishedDateTime: 2023-09-12T13:44:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2023/09/12/salesforce-launches-next-generation-of-einstein-bringing-a-conversational-ai"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 18
 
 secured: "AYPjxPNfExfxugucwdGwCOBuRD0keN9jQ4gESr9AJ5fAUDrsn0HVyS08ChgWVz6KWT9K2eF412rHd3sitamJ9CFsBFT72MtglRHD7ZzgcefYEeDnzKIkreauthT22nfTc8lICZfFHotHhTHiMcUafcQ6KmAX2Q59BSk6up56BagZMdBDXSqPVLIhVdJ+QvwfTWPXAQ7didrn4v8Hv6Zn86ilqYJ1ymkFF+jG+z7sxHqIQwfT7OQSn+d5sLO7Hrq5cfMMn3Wpi9K6qsC2fCJ+Oio5NDD34UDut7SkiM6twDUy9RAwtKiS6HdnOEfroP1bZasBUWmqacbCFlbdpW1/i+XkX3FE4MobKt0lEhhO3JcyBYSml4R8n0PvMnS+v5TNPenvyv5hsXaUOcW9n0zu0eBKUMGgpuM36r2GVqW5OQIwr/90VhoiTu5Ww1JjsLte/aKeDloPPdvAmjcfXpwBjVnFhNCBqbVpunzsSWnyw3TvGfK97V5yB2YFtBzshsfiwVW8ojXHlKyCZjC3MyMJYw==;lwk6JNxVQ9bEuxzqwWutZg=="
 ---
