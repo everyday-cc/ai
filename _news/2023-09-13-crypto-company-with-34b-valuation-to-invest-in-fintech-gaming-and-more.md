@@ -35,20 +35,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "European fintech investment plummets, but more sustainable future lies ahead"
-    excerpt: "Investment in European fintechs has seen a dramatic drop, but a more sustainable sector will result from investment discipline."
-    publishedDateTime: 2023-09-12T06:30:00Z
-    webUrl: "https://www.computerweekly.com/news/366551814/European-fintech-investment-plummets-but-more-sustainable-future-ahead"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 36
-    images:
-      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-120923-cover-500px.jpg"
-        width: 500
-        height: 354
-        isCached: true
   - title: "Saudi Venture Capital invests $5m in VentureSouq FinTech fund"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-09-13T04:35:00Z

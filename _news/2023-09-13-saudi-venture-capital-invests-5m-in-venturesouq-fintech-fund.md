@@ -41,20 +41,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "European fintech investment plummets, but more sustainable future lies ahead"
-    excerpt: "Investment in European fintechs has seen a dramatic drop, but a more sustainable sector will result from investment discipline."
-    publishedDateTime: 2023-09-12T06:30:00Z
-    webUrl: "https://www.computerweekly.com/news/366551814/European-fintech-investment-plummets-but-more-sustainable-future-ahead"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 36
-    images:
-      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-120923-cover-500px.jpg"
-        width: 500
-        height: 354
-        isCached: true
   - title: "Crypto company with $3.4B valuation to invest in fintech, gaming and more"
     excerpt: "The Miami company is launching a new venture division focused on directing funds to early-stage fintech, gaming and web3 infrastructure startups. MoonPay Ventures has already invested in multiple businesses, including California-based Mythical Games and BeatClub, a digital marketplace for the music industry."
     publishedDateTime: 2023-09-13T16:26:00Z

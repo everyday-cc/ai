@@ -52,20 +52,6 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 39
-  - title: "Samunnati Partners with Singapore-headquartered Fintech finbots.ai to Transform Credit Risk Management Using AI"
-    excerpt: "Samunnati, India’s largest agri enterprises, today announced signing an agreement with Singapore-headquartered B2B SaaS FinTech finbotsAI, to transform credit risk management using AI. With this, Samunnati becomes the first Agri Enterprise in India to incorporate advanced AI-based solutions into a key pillar of its business,"
-    publishedDateTime: 2023-09-12T07:08:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/samunnati-partners-singapore-headquartered-fintech-finbotsai-transform"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 19
-    images:
-      - url: "https://financialit.net/sites/default/files/finbots.png"
-        width: 1366
-        height: 768
-        isCached: true
   - title: "Samunnati partners with Singapore-headquartered fintech finbots.ai to transform credit risk management using AI"
     excerpt: "With this, Samunnati becomes the first Agri Enterprise in India to incorporate advanced AI-based solutions into a key pillar of its business, supporting its mission to drive greater financial inclusion for smallholder farmers and agri enterprises. Through this partnership, Samunnati has become the first client of Accel-backed finbotsAI in India."
     publishedDateTime: 2023-09-15T01:48:00Z

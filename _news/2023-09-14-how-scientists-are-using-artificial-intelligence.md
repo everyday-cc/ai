@@ -2,26 +2,26 @@
 category: news
 title: "How scientists are using artificial intelligence"
 excerpt: "Automating and speeding up physical experiments and laboratory work is another area of interest. “Self-driving laboratories” can plan an experiment, execute it using a robotic arm, and then analyse the results. Automation can make discovering new compounds, or finding better ways of making old compounds, up to a thousand times faster."
-publishedDateTime: 2023-09-13T21:52:00Z
-originalUrl: "https://www.aol.com/finance/scientists-using-artificial-intelligence-185204515.html"
-webUrl: "https://www.aol.com/finance/scientists-using-artificial-intelligence-185204515.html"
+publishedDateTime: 2023-09-13T18:52:00Z
+originalUrl: "https://www.economist.com/science-and-technology/2023/09/13/how-scientists-are-using-artificial-intelligence"
+webUrl: "https://www.economist.com/science-and-technology/2023/09/13/how-scientists-are-using-artificial-intelligence"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: The Economist
+  domain: economist.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://media.zenfs.com/en/aol_the_economist_398/bae84b4d519fcdddc9fc85fd84d2acd5"
+  - url: "https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/content-assets/images/20230916_STC417.png"
     width: 608
-    height: 739
+    height: 703
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 733
         isCached: true
 
-secured: "q9CS8maHLNtSrfdXKtqVNAjXCm6g4m4zahS5KmIQWFdZt4R9urRmcVT27MQuCOF0m0ky0mtd0Gkf3ZMjpBQfuA2qQB3K4ZmZxBY4ilnrwiIWXqPouMdBtGUtggL74DcZsYx/+AaUaWNCSL1BsIyHm30xkw2wMBLcMpAawxBUFqBKJQyphQXXJGaF+7g0ZtA3v67BMy0lagHmm6FYop9FLsr5GiyvuXx9RXbAbhhgBJztpChghZm5IrYyYHButmaBzX/Rc3vLrBY4X8Duc/4qaI1I3bnmfye7H6mGnPS9pUhswOkZp+ALNVdxNRiGicFeMNJNMYFWcbrpyTPNszZrJEE0kWZX44y3uwlUprAKGl4=;mjueR23oxwIdkiOqeIDTgQ=="
+secured: "JaWZXryAWZfjM06efRwcsbbf0N+bPzS606VZPnaz9cwEgMGxSESsNEGuUta94tTO5bUO7HyQ6lRqsfmT9Sl6wHPLM4z4sCZm3jDk1f4TGE37mw0JzloX9rSvg8RbMV4m0bYvn5Gg13+H4YTTh8HzFQK5W5Gi0Bijv4JVPdVwPWVYRktV86WUOowhJhrH9GJKUHgjkHt3tbTY95NXv/xeUwBjJS8efszymAS4mBpWJavDE/W7shoKbUFsPvZ10Lcd7k+KzzNFKld1epI6nDIMTy/VgNqpaxjAnxvtuKX87RBJmH8lFpEvEXvaUBZ3ded8CVPpiS12U0IDk0CEy7qEQ5UlDmMnCO8lHEwbjZzR+U4=;KpiKePW6yBLss4zZO+QpgQ=="
 ---
 

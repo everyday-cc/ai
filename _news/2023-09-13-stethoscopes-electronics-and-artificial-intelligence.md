@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "The AI age brings promise and troubles"
+    excerpt: "“If you’re doing a deal, and you’re getting a bunch of representations and warranties, there are different ways that AI events could manifest to impact them.” Mr Willmott thought that we might soon start to see AI exclusions included in insurance ..."
+    publishedDateTime: 2023-09-13T15:57:00Z
+    webUrl: "https://www.royalgazette.com/re-insurance/business/article/20230913/the-ai-age-brings-promise-and-troubles/"
+    type: article
+    provider:
+      name: The Royal Gazette
+      domain: royalgazette.com
+    quality: 37
+    images:
+      - url: "https://imengine.editorial.prod.rgb.navigacloud.com/?uuid=80409c81-d099-5225-9b64-36e4b7ff7646&type=primary&function=cover&source=false&width=800"
+        width: 386
+        height: 386
+        isCached: true
 
 secured: "PCCkyuTPY9ANQRBTw7nkv0bRAu/pN1eRM7GkW9wXJVgGPHW4dnLkn4NhFlvSjiCLB/2ue2Vs814j7dgerobNNgLoHJDiU1PYjgM5M0PB1WrdO6RnztKs+uV5bjKp5u+S67Tz4duer774K41xyor6wT+vrv6Pm/ji2tv37EtdEYpihMCCsRUbX1/xraGglMP9+QHJK0z/KAtEsamOXeCWsNg+7r8AJXoj5ui33tk+1px1rt8M6h2z8JlccSvQZRff4krh2G1epSDteWZZnEMXWtTdXxUw0OOQ9t3VhZk7G3uqiVjkVDR1NlRLnUVc0A3QPv5ViUqueQP6jzcanRMTBqWbRacKfwk+2MMTm9TqBKk=;9dU0yFeGXSP1VpvMfxM8MA=="
 ---

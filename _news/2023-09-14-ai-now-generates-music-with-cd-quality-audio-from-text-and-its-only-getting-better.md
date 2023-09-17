@@ -123,6 +123,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Protect, an AI-powered phone app, is part of a \"public safety reboot\" in the age of AI"
+    excerpt: "CMO and co-founder of Protect Matt Frischer told Fox News Digital he hopes this app will save lives and eventually deter crime."
+    publishedDateTime: 2023-09-16T23:47:00Z
+    webUrl: "https://www.foxnews.com/video/6337296940112"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 59
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/479b2543-f950-4f80-8286-2d387b67cccc/246197ca-db5e-47e1-b514-aa91d644b387/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "Tech titans are giving senators advice on artificial intelligence in a closed-door forum"
     excerpt: "Senate Majority Leader Chuck Schumer convened a meeting of some of the country’s most prominent technology executives to ask them how Congress should do it."
     publishedDateTime: 2023-09-13T14:19:00Z

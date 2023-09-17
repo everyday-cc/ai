@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/12/5-wa
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/12/5-ways-property-managers-can-use-ai-to-improve-their-business/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -22,20 +22,15 @@ topics:
   - AI
 
 related:
-  - title: "5 Uncommon Yet Fascinating Ways AI Can Supercharge Business Productivity"
-    excerpt: "Still, we're only in the nascent period of AI development: Data looking at technology's historical impact on productivity is less promising. The UK's National Institute of Economic and Social Research found a 1.8% drop in the rate of productivity growth ..."
-    publishedDateTime: 2023-09-12T05:38:00Z
-    webUrl: "https://www.entrepreneur.com/en-gb/science-technology/5-uncommon-yet-fascinating-ways-ai-can-supercharge-business/458418"
+  - title: "7 Ways CX Leaders Can Close The AI Trust Gap With Customers"
+    excerpt: "Few can deny the potential of AI to improve customer experiences, but many remain hesitant to trust it. That’s why building customer confidence in AI remains one of the biggest challenges facing CX leaders today."
+    publishedDateTime: 2023-09-15T19:26:00Z
+    webUrl: "https://www.forbes.com/sites/zendesk/2023/09/15/7-ways-cx-leaders-can-close-the-ai-trust-gap-with-customers/"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 68
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1693594057-ai-supercharge-productivity-0923-g1133444047.jpg?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "SNdHCGXLWnUA2iYiXITkKfLb/ZGeOE84zBt0nCAJJQrgrlCq7LTY9OLamBmiHlAX57ZgA2QR8ESi0j4LhELIe65STGG4LN0oRUXXSaSS/2Cm0UJz7Xh8b5sF46gFAUQnOnYKVNal6PY8FMHsfTOVWwy4D7FWziHyrgXmdMmC3Noui59DF6m6+66ymsQ34HtRVblzw0eqFGnZaXIrJrkfNbszT6DuoU+n7o16cVBOlQ2Vp7PrnBEqStqWt+3xD400OeQix+ZRenL3wI6/58aBjE1KZN4rbBqnQLcWg4PtzT4pS9+6dr3Mv7ay5+zizmPlrPldsUBKfkhZn7ScdQ4CzBcXqExxYj2wM8WWQzlliQmGzrO2SFwC55+YTgQByC1GdW5lyD4fqnlPRmUwDctjGniaZXl+HLE9VrabtXe43KIAaHPpGPY0eOvpuXCaNgscEGC6oHoO1/tVDaw/oIDePyWXO1/ymxXb0Q1yqm7u45tq9hZv52Zd1a9EXLZwUcwz6saJ9OtpTt7t2UiBOf/jug==;8TC2qJxhyhwHYum3rphsGQ=="
 ---

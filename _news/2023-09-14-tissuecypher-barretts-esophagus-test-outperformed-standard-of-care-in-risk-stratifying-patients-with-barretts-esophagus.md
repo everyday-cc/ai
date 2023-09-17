@@ -1,23 +1,29 @@
 ---
 category: news
 title: "TissueCypher® Barrett’s Esophagus Test Outperformed Standard of Care in Risk-Stratifying Patients with Barrett’s Esophagus"
-excerpt: "The significant variability in pathology diagnoses of Barrett’s esophagus is compounded by the challenges of effectively predicting which patients among the hundreds of thousands who are diagnosed each year are most likely to progress to advanced forms of the disease and/or cancer,"
+excerpt: "(Nasdaq: CSTL), a company improving health through innovative tests that guide patient care, today announced the publication of data demonstrating that the TissueCypher ® Barrett’s Esophagus test outperformed standard of care pathology review in predicting malignant progression to HGD and EAC in BE patients with an initial diagnosis of LGD."
 publishedDateTime: 2023-09-14T11:00:00Z
-originalUrl: "https://www.valdostadailytimes.com/ap/business/tissuecypher-barrett-s-esophagus-test-outperformed-standard-of-care-in-risk-stratifying-patients-with-barrett/article_0d619af9-5501-5eb2-9006-3d758a59addc.html"
-webUrl: "https://www.valdostadailytimes.com/ap/business/tissuecypher-barrett-s-esophagus-test-outperformed-standard-of-care-in-risk-stratifying-patients-with-barrett/article_0d619af9-5501-5eb2-9006-3d758a59addc.html"
+originalUrl: "https://www.joplinglobe.com/region/national_business/tissuecypher-barrett-s-esophagus-test-outperformed-standard-of-care-in-risk-stratifying-patients-with-barrett/article_406368f7-fe78-52c4-9eb5-52f93fa3a3ef.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/tissuecypher-barrett-s-esophagus-test-outperformed-standard-of-care-in-risk-stratifying-patients-with-barrett/article_406368f7-fe78-52c4-9eb5-52f93fa3a3ef.html"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: The Valdosta Daily Times
-  domain: valdostadailytimes.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "gOCemqqYMsF5+Pn9+whnpWZhNdHlqeqzPmw957IyMBfm3nCTPMeJdlh/FKzAJlXsovx9VKWtQmcemE1kQ0MujhqXCMdyG1iqrfqrzVhqeFb6uzAsVPv17o52dbxgpJVMlyUr7pikt1+fbZUVoaEu8xXt1Bc7hlTUhEt56s2L6e/Q1p63xtoK5fgEPIXKhiBuaHBjHOeoAu7sEJbeqZ9vwvGiMYmdu2IEgz6sF1FAPlKa+Ulof6ShSlUyzuWQmFHG/L9sNeilj4fc6YdLtRbrvIVFMvCPX8/4zTvQBmhFrTnnu+VJnq7R19LI8MQWCq/uKa+3B9moBU5tiMoTP95376akayccwyrM1A8sPIAyUH0=;CYjg6SBER3kDjAmV7eikRA=="
+images:
+  - url: "http://static.cnhionline.com/joplinglobe/jmag/jmag-cover-july-2023.jpg"
+    width: 437
+    height: 563
+    isCached: true
+
+secured: "CDE18XRiQyLVQw2htDgayw1HZogz2srN1hSkeIXXRHoHx7jJom9H4NcTtDyRCaikMSK9BtPRhwlNN3i7T+jKWqVOSf7YHKV80hbCvL4syzliHgjUlsFbG2uvpp4WNdrmyLo0/Lm9e9BklN6yOiZKGqynqoTM+1Be8JA1TkQgQ0kUw6+4mUAa/uSqnoK2gu1d2bggo1lGMrt2Dv2J2mTJVtkDbPYTd3QgwGXJC0/DvHleZxOflM1o80V6spjNBcmFGlRHZx564W7eFN1OI19zyVDBTPYHMAuSDx/gkDAW7ow994emDZpjnCXWtlGmvsKJdn7jOa4wqvCizugkLcnCceewYEH07LDXTwpZOVtlpbo=;M9G/EsJkBRoo9Zd6OVmDrQ=="
 ---
 

@@ -45,6 +45,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Microsoft Copilot vs. Google Duet: battle of the next-gen AI smart assistants"
+    excerpt: "If you’re a regular user of Google’s services and apps, then Duet is likely better for you. If you use Teams and Microsoft Office applications, Copilot is by far the better choice. If we had ..."
+    publishedDateTime: 2023-09-12T18:55:00Z
+    webUrl: "https://www.digitaltrends.com/computing/microsoft-copilot-vs-google-duet/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/microsoft-copilot-vs-google-duet/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-copilot-vs-google-duet/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 101
+    images:
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/03/Microsoft-Copilot-in-Office-apps.jpg?resize=1200%2C630&p=1"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft Surface Laptop Studio 2, Laptop Go 4 Details Leak Ahead of AI Event"
     excerpt: "Some needed upgrades for the two-year-old Surface Laptop Studio seem to be imminent. Microsoft's upcoming special event on Sept. 21 is going to be more of the \"let us tell you about how wonderful our AI is\" that seems to be in this year's marketing playbook,"
     publishedDateTime: 2023-09-15T21:57:00Z
@@ -169,6 +185,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft discount codes for September 2023"
+    excerpt: "Can I get Microsoft 365 for free? Yes, Microsoft 365 has a free version for all of its separate apps. However, you can only use these apps on your web browser and they have limited functionalities ..."
+    publishedDateTime: 2023-09-16T03:56:00Z
+    webUrl: "https://www.techradar.com/coupons/microsoft"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 69
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/pyVpDffJrYez5pSno4oNfj-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Everything we're expecting at Microsoft's Surface and AI event next week"
     excerpt: "Microsoft's momentous year may culminate in one of its biggest launch events next week. Here's what we're expecting."
     publishedDateTime: 2023-09-15T18:48:00Z
@@ -178,6 +208,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 63
+  - title: "Microsoft Adds SMB Security Controls for Windows Insider Program Testers"
+    excerpt: "Microsoft has added Server Message Block security measures for IT pros, which are now available as part of an early Windows preview release."
+    publishedDateTime: 2023-09-15T22:29:00Z
+    webUrl: "https://redmondmag.com/articles/2023/09/15/smb-security-controls-windows-insider-program.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 55
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/OrangeServersSmall.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "AI-powered teaching and learning: Microsoft unleashes new educational tools"
     excerpt: "As classrooms worldwide usher in another academic year, tech giant Microsoft steps forward with its cutting-edge AI-powered solutions to push the boundaries"
     publishedDateTime: 2023-09-13T15:28:00Z
@@ -358,6 +402,15 @@ related:
       name: SpaceNews
       domain: spacenews.com
     quality: 19
+  - title: "Microsoft Says It Will Provide Protection From Copyright Claims To Customers Using its Copilot AI Services"
+    excerpt: "Such protection is applicable specifically for paid versions of Microsoft commercial Copilot services and Bing Chat Enterprise, which includes Microsoft 365 Copilot and GitHub Copilot. The ..."
+    publishedDateTime: 2023-09-12T08:40:00Z
+    webUrl: "https://www.medianama.com/2023/09/223-microsoft-protection-copyright-claimscustomers-copilot-ai-services/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 16
   - title: "Microsoft and Oracle expand partnership to deliver Oracle Database Services on Oracle Cloud Infrastructure in Microsoft Azure"
     excerpt: "Microsoft joins Oracle as the only other hyperscaler to offer Oracle Cloud Infrastructure Database Services to simplify cloud migration, multicloud deployment and management Austin, TX and Redmond, WA — September 14,"
     publishedDateTime: 2023-09-14T20:00:00Z

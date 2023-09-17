@@ -117,20 +117,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "Nvidia’s dominance in AI chips deters funding for start-ups"
-    excerpt: "Nvidia has “indirectly” contributed to overall AI chip fundraising woes, because investors want “home run only type investments with a huge investment, huge return”, Mythic CEO Dave Rick said. Difficult economic conditions have added to the downturn in the cyclical semiconductor industry, Rick said."
-    publishedDateTime: 2023-09-12T06:57:00Z
-    webUrl: "https://techcentral.co.za/nvidias-dominance-ai-chips-start-ups/231421/"
-    type: article
-    provider:
-      name: TechCentral
-      domain: techcentral.co.za
-    quality: 37
-    images:
-      - url: "https://techcentral.co.za/wp-content/uploads/2022/06/nvidia-1500-800-2.jpg"
-        width: 1500
-        height: 800
-        isCached: true
   - title: "Enfabrica raises $125M to scale up GPUs, memory, networks and storage for distributed AI workloads"
     excerpt: "Enfabrica raises $125M to scale up GPUs, memory, networks and storage for distributed AI workloads - SiliconANGLE"
     publishedDateTime: 2023-09-12T13:00:00Z

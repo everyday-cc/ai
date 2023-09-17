@@ -7,7 +7,7 @@ originalUrl: "https://www.theaustralian.com.au/nation/politics/indigenous-voice-
 webUrl: "https://www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-linda-burney-calls-out-vicious-attacks/news-story/03396e19f6fe02df7a1fbce38d6db18d"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-related:
-  - title: "Indigenous voice to parliament: Libs and Nats bolster No campaign, as Yes23 launches new ad"
-    excerpt: "Liberal and Nationals divisions across the country have agreed to co-ordinate resources with the No campaign and boost volunteer stocks, as Yes23 launches a nationwide advertising blitz to claw back voters ahead of the ­October 14 voice referendum."
-    publishedDateTime: 2023-09-15T12:41:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/indigenous/indigenous-voice-to-parliament-libs-and-nats-bolster-no-campaign-as-yes23-launches-new-ad/news-story/a7f886e0cc7607c16d1860a7d82afd60"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 9
 
 secured: "x85NxhPBo2GYknKNgQDB/4teSxk0KxeQ63e7iE0TBLwxRMrn+ZJxY5milBAoDT3R5LpnPVhXwc5JCUWAQHDxwNElRLzqx/SdiCie4bQOkL40IWHgepAwNbYRiNxZs5PNJEDDu/MDiwzJdcq8LxKaC7n/oGvJfT1AAVh67+zWOvV1Us2ljWoQOaauIkFvyGnW3JUncSpnwvyOpM/7cMpQnyJ6GgKD2i4TRjUznAW7RZicJAoPrP5MgnAZralaH8Oub+D5K6zCLcllt0nlnljnG14hlmI/0WGheY0VyhA1YYB+DoWkROyynyi4S1bM9zgiygkNYp0TaULEY0zr+lsfmo8LHj5aLaQDR4plyjls2j2o350mOUx0W/FbqqJdgPYVkQtWnl/e+ENDJvsfLHr8NhgFuXfG9KWYpmKGmOunc9FAs0cr4dMBKS1HwtjgX4C9WFNgNIPrpm8N+u7H5+XZojuABhyIsx6GaHi43Yg4kO+dqnRAU6mSof7ttpF6Y84cEqpRTaGCOAwpzuofzw4kfg==;acPQn/yD3xNnQsRUYd0IOA=="
 ---

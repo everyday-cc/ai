@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/ai-chip-startup-enfabrica-raise
 webUrl: "https://www.reuters.com/technology/ai-chip-startup-enfabrica-raises-125-mln-with-backing-nvidia-2023-09-12/"
 type: article
 quality: 84
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -112,20 +112,6 @@ related:
       - url: "https://techreport.com/wp-content/uploads/2023/09/647748f87f12d.jpeg"
         width: 2000
         height: 1125
-        isCached: true
-  - title: "Nvidia’s dominance in AI chips deters funding for start-ups"
-    excerpt: "Nvidia has “indirectly” contributed to overall AI chip fundraising woes, because investors want “home run only type investments with a huge investment, huge return”, Mythic CEO Dave Rick said. Difficult economic conditions have added to the downturn in the cyclical semiconductor industry, Rick said."
-    publishedDateTime: 2023-09-12T06:57:00Z
-    webUrl: "https://techcentral.co.za/nvidias-dominance-ai-chips-start-ups/231421/"
-    type: article
-    provider:
-      name: TechCentral
-      domain: techcentral.co.za
-    quality: 37
-    images:
-      - url: "https://techcentral.co.za/wp-content/uploads/2022/06/nvidia-1500-800-2.jpg"
-        width: 1500
-        height: 800
         isCached: true
   - title: "Enfabrica Raises $125 Million Series B to Fuel Ramp of AI Infrastructure Networking Chips"
     excerpt: "The oversubscribed $125M Series B round was led by crossover firm Atreides Management, with supporting capital from Series A lead Sutter Hill Ventures, and new capital from IAG Capital, Liberty Global, NVIDIA, Valor Equity Partners, Infinitum and Alumni Ventures."

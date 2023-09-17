@@ -40,6 +40,17 @@ related:
         width: 770
         height: 500
         isCached: true
+  - title: "Ascento rolls out autonomous security patrolling robot with new $4.3m funding round"
+    excerpt: "Labour shortages have affected large parts of the world and various industries.The security industry is also feeling the crunch, with many countries around the world facing a 52% staff shortage"
+    publishedDateTime: 2023-09-13T15:38:00Z
+    webUrl: "https://www.sourcesecurity.com/news/ascento-rolls-autonomous-security-patrolling-robot-co-1694595066-ga-npr.1694596615.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/ascento-rolls-autonomous-security-patrolling-robot-co-1694595066-ga-npr.1694596615.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/ascento-rolls-autonomous-security-patrolling-robot-co-1694595066-ga-npr.1694596615.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 50
 
 secured: "hA6ivqzFS+bJ3jsVbv5jr7PEu69UhVYiEJhgSWK6PE9cVmUbsrsQEPUT5yu1HfMaOWBLOPKVZfY/CFWSikiYH+Luu6v1rtANoEw9JMEo+5hMbZcY8BEoJ6M+hzLtLDKHL2mPKBRnqLLnDfinE6JGocOuLEh1F0SoWnd7iS/biaJsZfQGcaM0nFnaGUDGq5fBu43U64BlvXsobOaJ8MrXRZU/ka0iZ44A0aY6SbUpZZWey0H7tRXrYMnySlYlv1VYGl4YQBDb4Agc3aFcyQxZaISQ0STcC4Qwbl6jIJFPh4LUdrFFE17HZD9gLdEWkAQBo92VYawoujItVRy7AlQr2Xs0ve5MjYBDY3MzyjW62caz1hzOb/Ovp0zUq4QUoQKEMOL6dDgkZE23xud5U7woUUGYcZBcf+Hl6bwHMkjyBfGDLxriADdT4U2CQhfzL3m90bMwztS8ug1maQYcc+WNxTCSIzycCNwV/CR3PsQ6fvJyTpM3ps65hcdpN58BpeS4QSwdW6GETEaPE/JszZa2vA==;XQL+7PD06TFVD6KfnN3jgQ=="
 ---
