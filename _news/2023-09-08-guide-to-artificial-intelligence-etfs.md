@@ -2,27 +2,19 @@
 category: news
 title: "Guide to Artificial Intelligence ETFs"
 excerpt: "Robots and artificial intelligence (AI) are increasingly gaining precedence in our daily life. The pandemic-driven stay-at-home trend made these more important as we have become more dependent on ..."
-publishedDateTime: 2023-09-08T16:21:00Z
-originalUrl: "https://247wallst.com/investing/2023/09/07/guide-to-artificial-intelligence-etfs/"
-webUrl: "https://247wallst.com/investing/2023/09/07/guide-to-artificial-intelligence-etfs/"
-ampWebUrl: "https://247wallst.com/investing/2023/09/07/guide-to-artificial-intelligence-etfs/"
-cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/investing/2023/09/07/guide-to-artificial-intelligence-etfs/"
+publishedDateTime: 2023-09-07T17:14:00Z
+originalUrl: "https://www.nasdaq.com/articles/guide-to-artificial-intelligence-etfs-0"
+webUrl: "https://www.nasdaq.com/articles/guide-to-artificial-intelligence-etfs-0"
 type: article
 
 provider:
-  name: 24/7 Wall St
-  domain: 247wallst.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://247wallst.com/wp-content/uploads/2019/01/robot_icon.jpg"
-    width: 1366
-    height: 768
-    isCached: true
-
-secured: "wfmt6ZV1APgwj70sFVsrLVYAbeDZCP2ilsv94GsfrD3ji000nknpGMZ2KhyFOamBeoRxhGtKOcDl2+j+GsO99JASz4H1Is26I9BEElGs0zKoixeJvzReDBSYEe4Hd6QJtX9ajSDZfgL00oET41sb2i2hywlFEjYsHjuXrN37dn0iPFbxLTxHpip5HHSPoJtLclmZ/EldqzcGZyfLTLVydsnp0jq/bOFGgZluY7G5DMZcN0Fd6iGxl79eXWnlKQWir1hlOnh3/3yCP+swWG5WgO/9La4tVzVs2MBDbKLnTIBwCGb/LLZ6s89AQ3kbdhs6w/Ohp1hX9D+FxQgjy64LlCOasxM8NOmRNOzxYMmOKlk=;l6AFKGaCOgd+VSnmrk0rsg=="
+secured: "LwyYUaFIG0GlNYF9l1Z8psfnt9KqoDe7ux0kmJZ1JsadjYdFcFyp+LhSUXXwBkwaNfbN2bsEiwnkmatVGjoLH27gQKujppyKqzYxqfaY77YfhvzlY00SQkj1ZvegYJhCY6KLRW1jEaaPa7Q9e7SOVGCuhqMYcPhQrhccvfN/aGS6aSu9kxVWcotts+5DobXiimSymzjAltlmwaeDZtvcBzx6CnxOevtDOFqVPp0J/5Z0vzHYr1aOtRnDqxjiwDm3Gf4LqhaEhP9Zg9rvM+4JZtHGL0Q5sKcFXWIb5kMjI69Lenmvhv6jR+klkG7NDR5xJ7ewgEjR5YjF0f79SlcG/RRidOu41hVxXQ0KA5jsaPI=;Hf8StMjn3AJ3dUHprUuS/w=="
 ---
 

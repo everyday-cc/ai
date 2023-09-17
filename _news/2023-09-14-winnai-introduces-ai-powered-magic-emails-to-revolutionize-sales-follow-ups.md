@@ -166,18 +166,18 @@ related:
         height: 463
         isCached: true
   - title: "How scientists are using artificial intelligence"
-    excerpt: "Once the AI spat out its shortlist, the scientists tested them in the lab and identified their antibiotics. If discovering new drugs is like searching for a needle in a haystack, says Regina Barzilay,"
-    publishedDateTime: 2023-09-13T18:52:00Z
-    webUrl: "https://www.economist.com/science-and-technology/2023/09/13/how-scientists-are-using-artificial-intelligence"
+    excerpt: "Automating and speeding up physical experiments and laboratory work is another area of interest. “Self-driving laboratories” can plan an experiment, execute it using a robotic arm, and then analyse the results. Automation can make discovering new compounds, or finding better ways of making old compounds, up to a thousand times faster."
+    publishedDateTime: 2023-09-13T21:52:00Z
+    webUrl: "https://www.aol.com/finance/scientists-using-artificial-intelligence-185204515.html"
     type: article
     provider:
-      name: The Economist
-      domain: economist.com
+      name: AOL
+      domain: aol.com
     quality: 39
     images:
-      - url: "https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/content-assets/images/20230916_STC417.png"
+      - url: "https://media.zenfs.com/en/aol_the_economist_398/bae84b4d519fcdddc9fc85fd84d2acd5"
         width: 608
-        height: 703
+        height: 739
         isCached: true
   - title: "My life as an AI chatbot operator"
     excerpt: "Targeting writing and other humanities programmes was a canny recruiting decision. Aspiring writers and artists tend to be detail-oriented, emotionally astute and experienced in writing dialogue – useful traits to impart to a bot that is meant to emulate humans. And many want work that can complement and sustain creative projects or teaching."

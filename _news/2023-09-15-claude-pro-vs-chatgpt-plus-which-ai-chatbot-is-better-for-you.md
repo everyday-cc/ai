@@ -107,8 +107,8 @@ related:
         isCached: true
   - title: "Build Intelligent AI Bots That Speak Your Language: Maqsam's AI Conversational Chatbot Unveiled"
     excerpt: "One of the standout features of Maqsam's AI conversational chatbot is its hyper-local advantage, especially in Arabia. For businesses operating in this diverse and dynamic market, where dialects and cultural nuances vary significantly, Maqsam's AI chatbot provides a localized solution that ensures meaningful interactions with customers."
-    publishedDateTime: 2023-09-13T09:27:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-build-intelligent-ai-bots-that-speak-language-maqsams-/2023/09/13/9879923.htm"
+    publishedDateTime: 2023-09-13T08:18:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/09/13/9879923.htm"
     type: article
     provider:
       name: TMCnet

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/09/14/oracle-brings-its-database-infrast
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/14/oracle-brings-its-database-infrastructure-to-microsoft-azure/amp/"
 type: article
 quality: 104
-heat: 364
+heat: 354
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Copilot vs. Google Duet: battle of the next-gen AI smart assistants"
-    excerpt: "If you’re a regular user of Google’s services and apps, then Duet is likely better for you. If you use Teams and Microsoft Office applications, Copilot is by far the better choice. If we had ..."
-    publishedDateTime: 2023-09-12T18:55:00Z
-    webUrl: "https://www.digitaltrends.com/computing/microsoft-copilot-vs-google-duet/"
-    ampWebUrl: "https://www.digitaltrends.com/computing/microsoft-copilot-vs-google-duet/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-copilot-vs-google-duet/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 101
-    images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/03/Microsoft-Copilot-in-Office-apps.jpg?resize=1200%2C630&p=1"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft Surface Laptop Studio 2, Laptop Go 4 Details Leak Ahead of AI Event"
     excerpt: "Some needed upgrades for the two-year-old Surface Laptop Studio seem to be imminent. Microsoft's upcoming special event on Sept. 21 is going to be more of the \"let us tell you about how wonderful our AI is\" that seems to be in this year's marketing playbook,"
     publishedDateTime: 2023-09-15T21:57:00Z

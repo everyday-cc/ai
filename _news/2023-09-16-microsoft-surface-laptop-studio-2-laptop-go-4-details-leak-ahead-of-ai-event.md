@@ -46,22 +46,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Microsoft Copilot vs. Google Duet: battle of the next-gen AI smart assistants"
-    excerpt: "If you’re a regular user of Google’s services and apps, then Duet is likely better for you. If you use Teams and Microsoft Office applications, Copilot is by far the better choice. If we had ..."
-    publishedDateTime: 2023-09-12T18:55:00Z
-    webUrl: "https://www.digitaltrends.com/computing/microsoft-copilot-vs-google-duet/"
-    ampWebUrl: "https://www.digitaltrends.com/computing/microsoft-copilot-vs-google-duet/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-copilot-vs-google-duet/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 101
-    images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/03/Microsoft-Copilot-in-Office-apps.jpg?resize=1200%2C630&p=1"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Analysts left Microsoft's AI event feeling even more bullish about the stock"
     excerpt: "Comments from a recent Microsoft event are giving Wall Street more reasons to get bullish on the technology giant."
     publishedDateTime: 2023-09-14T14:02:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://healthitanalytics.com/features/exploring-patient-provider-
 webUrl: "https://healthitanalytics.com/features/exploring-patient-provider-perceptions-of-healthcare-ai"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Analytics
@@ -39,20 +39,6 @@ related:
       - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
         width: 800
         height: 600
-        isCached: true
-  - title: "How Health Tech is Squashing AI Biases and Leveling the Playing Field in Healthcare"
-    excerpt: "By making large amounts of diverse data widely available, healthcare institutions can feel confident about the evaluation, creation, and validation of algorithms as they're transitioned from ideation to use."
-    publishedDateTime: 2023-09-14T21:34:00Z
-    webUrl: "https://medcitynews.com/2023/09/how-health-tech-is-squashing-ai-biases-and-leveling-the-playing-field-in-healthcare/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 48
-    images:
-      - url: "https://medcitynews.com/uploads/2021/12/GettyImages-177052337.jpg"
-        width: 724
-        height: 483
         isCached: true
 
 secured: "Pw0M6X5ACXx0TrTUSyPEbl3v9UI7vcrdA2ErWLnqyPKOSTPL4kri70Z5TPUhsmAUkN8Zgkn5c4w/0HD/O5YuleX+I69CC7WG0pBzQ19OYbjZMA64G+S7/UIR3SCTMRBDyBbgamHJs4f+ZOkTV9EVXBK8yDM1ieXcMxJbbWddv+FBQtsQ2VigvrGlOGKgGFX94lMDW5f3iJRC0cDDS3R/UO9duGr6QtwJJktVCnUuS+4VjLOJAK5tdVYptrnZvLTm/XfXkwqRhiA8A2qBFfep1CCZpoOSZ8MLtcjGdzWaRxQJu6w+xJNEbFOJ8MlL/YupKStKehex7Q4jfkRSO9BHQwYdIited4CR9eECthBGGSHPZh1ccv1AbFcqmFt60NAO6T3E7xH/Vu01TEauDGjov/qH1AIP+o8S/qs0CrQGjU//H4VuA4ftELo+sAyF5iUncJIX/K8ykSLgrL53ibO70bbAh9yJtH7ZgqkKFufcXIq1dmhYV2L9HqLQbfHTQZxqaTlhQ7OdEJuJ5Mgei68cSg==;yTzOhea1Lp77TMw+RddPZg=="

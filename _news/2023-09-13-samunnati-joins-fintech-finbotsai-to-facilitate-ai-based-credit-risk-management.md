@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Union Credit Wins Finovate Award for Top Emerging Fintech Company"
-    excerpt: "Fintech startup recognized for marketplace of trusted lenders ... Union Credit also formed a key partnership with Zest.ai, to allow credit unions to leverage the Zest model to extend fairer and more inclusive credit access to all consumers."
-    publishedDateTime: 2023-09-12T17:32:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/b34498188/union-credit-wins-finovate-award-for-top-emerging-fintech-company"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34498188"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34498188"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
 
 secured: "t6ta6Pt1iOiKtlYj07p+mCPdWL5drXqhUo3C2DLGmY5dSS8WM3mTd0WqhWW84RiB43Yss8UC0sZ6dswvgdu0ej+1YbQdmEvNM9k8nGXbASlNe4Tym9PkmddnhUDfpSFvhz0jVGiRsvJXHiGJ/20IanrH/SuxR9UDzitIYkecWuaeet9UpgbXGykY4egHmil259EHKKc3zCOxm+t8Yj+4oDoKWQlu5OqCvX6rVQwt/7kH/96yh6k+M8z7LayRrtbyBMNYrRH2+HImRR8kW5T3ufMnVl2d4VXGc1Edx5GVYs243pgoP8qixk+fs+30GDh/XXw+ucq3yn4Jni3Jt6zGJLeY2vfLRR5wARiZ0453toV1jEevkW5WlY0GhLVFsVmPKlZNxcNnkN4AChdh/n8WvhuZQKtRfhmvMK7tTAOnw3OuK0SX3KXqyN1S6Gq1YSYUy7ubryNlT9ql5Grqfn9WiZ5k8+gaaAHkIJyYs/lm2Q6im/MTPoRsyBLM/GpTCXse+CBMbtn79PV+T2ed/MC4VA==;d2qgubzjjaGvHmaz4MNkhw=="
 ---

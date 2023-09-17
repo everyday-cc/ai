@@ -39,6 +39,20 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Stethoscopes, Electronics, And Artificial Intelligence"
+    excerpt: "What’s more, since the Hopkins smart stethoscope is a digital instrument, it can serve as input for an artificial intelligence application that automatically analyzes the data for signs of ..."
+    publishedDateTime: 2023-09-13T00:00:00Z
+    webUrl: "https://hackaday.com/2019/02/25/stethoscopes-electronics-and-artificial-intelligence/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 39
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2019/02/smart-stethoscopes-featured.jpg"
+        width: 4350
+        height: 2900
+        isCached: true
 
 secured: "BawF2kZiDsvhxZuO95PAMQpppu+qsT6zn2LSIpFxMPvxw4PHsffghJ+Qi//CkEeNBHGxH98bwk1cUBSIFf2r/bGUnJwF7/Ccs+Q+NXhYQVFTJxHR+44zShFz7PO4wB5tpgVd3rIvMP6iRslblKL5SsPEMBjonL344Me5ctlKdfdTUb6WBRScYXxTHoINx48vn/kWleUL2FvGKl/4/GHkw7YbrO3wbf90/dsSOKvcrNZ8/is/mNL4g+xC8bixbkRP6ytMIHyTAFxH3/BTR4gq/OOpKgK+zdQeZkYe3HX89wNtE6spcMYWo4F/v1WTTpJ8EibE7ZYILkN9qHY5qfryEpp6cbM1Z2pzEmie01Ax5Nk=;AzPlgaBi0LWesn3zaNeNdA=="
 ---

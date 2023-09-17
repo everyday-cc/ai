@@ -19,35 +19,59 @@ topics:
   - AI
 
 related:
-  - title: "Identity theft and the emergence of artificial intelligence"
-    excerpt: "As tech leaders Bill Gates, Elon Musk and Mark Zuckerberg meet in Washington D.C. to discuss the potential future of artificial intelligence, the tools utilizing AI are sweeping the world; but our"
-    publishedDateTime: 2023-09-14T15:29:00Z
-    webUrl: "https://www.khon2.com/local-news/identity-theft-and-the-emergence-of-artificial-intelligence/"
-    ampWebUrl: "https://www.khon2.com/local-news/identity-theft-and-the-emergence-of-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-khon2-com.cdn.ampproject.org/c/s/www.khon2.com/local-news/identity-theft-and-the-emergence-of-artificial-intelligence/amp/"
+  - title: "Banking in the Modern Age: AI, Machine Learning, and Global Evolution"
+    excerpt: "Introduction The global banking industry is undergoing a profound transformation, driven by technological advancements, changing customer expectations, and regulatory developments. In this article, we will explore the current state of the banking industry worldwide,"
+    publishedDateTime: 2023-09-17T09:43:00Z
+    webUrl: "https://techbullion.com/banking-in-the-modern-age-ai-machine-learning-and-global-evolution/"
     type: article
     provider:
-      name: KHON2
-      domain: khon2.com
-    quality: 59
+      name: Impacts
+      domain: techbullion.com
+    quality: 71
     images:
-      - url: "https://www.khon2.com/wp-content/uploads/sites/8/2023/09/GettyImages-1239742765.jpg?w=1280"
-        width: 1280
-        height: 853
+      - url: "https://techbullion.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-17-at-2.42.20-PM.jpeg"
+        width: 739
+        height: 415
         isCached: true
-  - title: "AI and sound - helping firms build their own 'sonic identity'"
-    excerpt: "Amp uses AI to generate all kinds of sounds for companies, from small bursts of noise when an app launches, to the sound of a bank card transaction completing, to longer compositions for things like podcasts and social media videos. This is what he calls a brand's \"sonic identity\"."
-    publishedDateTime: 2023-09-13T23:06:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-66330890"
-    ampWebUrl: "https://www.bbc.co.uk/news/business-66330890.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-66330890.amp"
+  - title: "Robots, regulation and real people: managing AI in the workplace"
+    excerpt: "While touched upon by existing financial, intellectual property and data protection regulation, the rise of generative AI has prompted regulatory bodies to craft bespoke regulation for AI."
+    publishedDateTime: 2023-09-13T08:54:00Z
+    webUrl: "https://www.thebanker.com/Robots-regulation-and-real-people-managing-AI-in-the-workplace-1694591764"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
+      name: The Banker
+      domain: thebanker.com
+    quality: 54
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/16CA3/production/_131074339_index_ai_adverts_976x549.png"
+      - url: "https://www.thebanker.com/var/ezflow_site/storage/images/media/images/ai-in-the-workplace/13076761-1-eng-GB/Ai-in-the-workplace.jpg"
+        width: 3000
+        height: 1687
+        isCached: true
+  - title: "How Health Tech is Squashing AI Biases and Leveling the Playing Field in Healthcare"
+    excerpt: "By making large amounts of diverse data widely available, healthcare institutions can feel confident about the evaluation, creation, and validation of algorithms as they're transitioned from ideation to use."
+    publishedDateTime: 2023-09-14T21:34:00Z
+    webUrl: "https://medcitynews.com/2023/09/how-health-tech-is-squashing-ai-biases-and-leveling-the-playing-field-in-healthcare/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 48
+    images:
+      - url: "https://medcitynews.com/uploads/2021/12/GettyImages-177052337.jpg"
+        width: 724
+        height: 483
+        isCached: true
+  - title: "How AI and Blockchain are Changing the Tax Industry"
+    excerpt: "Like many industries, tax is undergoing an AI and blockchain revolution. But the savvy tax professionals who embrace these technologies--and their clients--will be able to work more efficiently, reduce the risk of errors and concentrate on high-value work."
+    publishedDateTime: 2023-09-14T16:31:00Z
+    webUrl: "https://www.inc.com/inc-masters/how-ai-and-blockchain-are-changing-th.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1322421028_ulnbt4.jpg"
         width: 1024
         height: 576
         isCached: true

@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbctv18.com/healthcare/aiims-delhi-facial-recognition
 webUrl: "https://www.cnbctv18.com/healthcare/aiims-delhi-facial-recognition-attendance-aadhaar-biometric-system-aebas-17793491.htm"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1019
     height: 573
     isCached: true
-
-related:
-  - title: "AIIMS Delhi to implement touch-free facial recognition-based attendance system"
-    excerpt: "The All India Institute of Medical Sciences here said on Tuesday that it would implement a touch-free facial recognition-based and Aadhaar-enabled attendance system for all its employees at the earliest. Issuing a memorandum in accordance with a DOPT order ..."
-    publishedDateTime: 2023-09-12T17:26:00Z
-    webUrl: "https://www.deccanherald.com/india/delhi/aiims-delhi-to-implement-touch-free-facial-recognition-based-attendance-system-2683534"
-    type: article
-    provider:
-      name: Deccan Herald
-      domain: deccanherald.com
-    quality: 50
-    images:
-      - url: "https://images.deccanherald.com/deccanherald%2F2023-09%2F2b0c680c-7560-4eac-9db7-9fbb94013e5f%2Faiimspti_1179421_1673297509_1226655_1686413462_1233814_1688465083.jpg?rect=0%2C27%2C700%2C368&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "4OK1i3mIVgNOVGO9VxoryQIanbPb1eboZDzXwQ+Ae/z7Dru0gS645T5czLlHw6E94oFNh8+a4l3QMoOvrSbJFTete9axOFIhA52eR0fdVMkTHB58t+rcN190dv9zP2foLOI9uYZOr8f0swgqFacY5k11gkhI5nhu1KxVE3WdKA4RaLvgyKiPmyT1g5/yLeUfd/y66cKVqEPADqNHrrRWdoixFAJS6DtsPrmHphutwLdf5Pv3S+3ZPjJna5n41cktoaLqbem/RLrq/PpK71Fuw4qE6n+iBQnoNQbrlkO1lCkRw+K209TBIoPFX5i3bd4RFzDhSva1IV+7PxPyH1auZzkkgC3YFq1lCNgmJdtbz6M6V8Tru72A+tQ7FOqrPpL6JytuOkK6r9s/ddUZ/J+8GqjXsfRckktAh0UXlmAfPgaryxdHwNEouadzWGLQLu3EQJLZIcrsBNm6IXXmhtJPQh7S4wVtt3Z5+1gtILF8O6zd8YpZC31hKLpRXqc9VIqA1aiPSdt93zWeESyTmmK23A==;tCVfrwe0SdZ8wFbLRSPVmg=="
 ---

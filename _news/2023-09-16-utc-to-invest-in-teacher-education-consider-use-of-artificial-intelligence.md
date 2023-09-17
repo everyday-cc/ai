@@ -7,8 +7,8 @@ originalUrl: "https://www.timesfreepress.com/news/2023/sep/15/utc-to-invest-in-t
 webUrl: "https://www.timesfreepress.com/news/2023/sep/15/utc-to-invest-in-teacher-education-consider-ai-tfp/"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: Chattanooga Times Free Press
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "UVA team researches potential benefits of AI in special education"
-    excerpt: "AI is capable of helping students with special needs through the generation of images and clear language, according to Associate Professor Michael Kennedy."
-    publishedDateTime: 2023-09-12T18:37:00Z
-    webUrl: "https://www.nbc29.com/2023/09/12/uva-team-researches-potential-benefits-ai-special-education/"
-    type: article
-    provider:
-      name: NBC29
-      domain: nbc29.com
-    quality: 36
   - title: "The UAW and Other Unions Must Focus More on AI and Automation in Their Negotiations"
     excerpt: "In its negotiations with the Big 3 car companies, the United Auto Workers’ priority is maximizing pay increases for its members. The UAW and many other trade unions should be equally concerned about the impact of AI and automation on jobs and how to prepare their members for this new world."
     publishedDateTime: 2023-09-15T12:05:00Z

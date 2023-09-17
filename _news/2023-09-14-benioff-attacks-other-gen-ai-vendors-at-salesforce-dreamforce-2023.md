@@ -103,20 +103,6 @@ related:
         width: 1322
         height: 940
         isCached: true
-  - title: "Salesforce and AWS Deepen Generative AI Partnership with Harmonized Customer Profile Offerings"
-    excerpt: "Salesforce and Amazon Web Services (AWS) today announced an expanded partnership for new Bring Your Own Lake (BYOL) and Bring Your Own"
-    publishedDateTime: 2023-09-12T17:44:00Z
-    webUrl: "https://www.datanami.com/this-just-in/salesforce-and-aws-deepen-generative-ai-partnership-with-harmonized-customer-profile-offerings/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 42
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/09/aws-salesforce-300x236.png"
-        width: 300
-        height: 236
-        isCached: true
   - title: "Salesforce CEO Marc Benioff says AI models have 'stolen' copyrighted content from media companies"
     excerpt: "Salesforce CEO Marc Benioff discusses ethical concerns and trust issues around generative AI at the company's Dreamforce conference."
     publishedDateTime: 2023-09-15T19:41:00Z

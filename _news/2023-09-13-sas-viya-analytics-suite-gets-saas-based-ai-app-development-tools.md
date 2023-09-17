@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3706378/sas-viya-analytics-suite-g
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706378/sas-viya-analytics-suite-gets-saas-based-ai-app-development-tools.amp.html"
 type: article
 quality: 89
-heat: 129
+heat: 109
 published: true
 
 provider:
@@ -61,24 +61,6 @@ related:
         width: 501
         height: 315
         isCached: true
-  - title: "AI and analytics leader SAS delivers trustworthy generative AI value through industry solutions"
-    excerpt: "SAS expands strategic Microsoft partnership and differentiates in the market with synthetic data, digital twins, large language modelsLAS VEGAS,"
-    publishedDateTime: 2023-09-12T18:24:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-and-analytics-leader-sas-delivers-trustworthy-generative-ai-value-through-industry-solutions-1032624633"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
-  - title: "SAS ups AI features in its analytics and CRM platforms"
-    excerpt: "The company said it’s working with Microsoft Corp. to develop a generative AI integration that combines Microsoft Azure OpenAI with SAS’ enterprise task orchestration and analytics in a product to be previewed in the fourth quarter."
-    publishedDateTime: 2023-09-12T18:26:00Z
-    webUrl: "https://siliconangle.com/2023/09/12/sas-ups-ai-features-analytics-crm-platforms/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
 
 secured: "TEIFCUWidV+QIE9na6rBr4/H6J79nWqLWdiNaawZ7k1Fz9y01Ei/3Um2aCqJBPymvzscTFjomkuGHCdRWi2aCHjcBmalARqw59AvqK5EVPkaFXlR1mKywDCH0NCXNTRqw2dcCvle7WM6R7CUsnGKHbGuzmaQGVII5qliUHxoXxZN4WwI7nE2Zc7/IlYcvzxuSVJoBZzg8mnmXvdNamqYffZCVCJG8uonwMQMQqhvFaHlQ62c6ano4Z22AdHMXrbmRPFGbSEtHnJqcBDcAVwUt2ZPuuOPyUwRJ/uAMUovikelbWBpiPmSMRMRRK6rnCj4Za9rTAKooDO4U07d5IkxxH95IQHFTy2CsEWFqaiyLkk=;2sMFz8MuHdgz6Cd1jxxUOw=="
 ---

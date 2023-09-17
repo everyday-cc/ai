@@ -7,8 +7,8 @@ originalUrl: "https://www.pcworld.com/article/2067182/adobe-fireflys-ai-tools-go
 webUrl: "https://www.pcworld.com/article/2067182/adobe-fireflys-ai-tools-go-live-but-with-a-credit-plan.html"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: PC World
@@ -27,6 +27,17 @@ images:
     width: 1024
     height: 611
     isCached: true
+
+related:
+  - title: "Adobe publicly launches AI tools Firefly, Generative Fill in Creative Cloud overhaul"
+    excerpt: "Adobe announced a major overhaul to its Creative Cloud suite of apps today, integrating AI capabilities across flagship programs like Photoshop, Illustrator, Premiere Pro, and After Effects."
+    publishedDateTime: 2023-09-13T19:17:00Z
+    webUrl: "https://venturebeat.com/ai/adobe-publicly-launches-ai-tools-firefly-generative-fill-in-creative-cloud-overhaul/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 40
 
 secured: "9mcjgW8fN/43PUU97WblrlEDQW44CrnxQg8pcY06SQFE/8HAYjBUvj4CXJKczxLwLpTXtae3DyMq9slfELuzHtEhurvG6TtdbswZVSeF+zpfQN7hW2UW/DFiWtS+00Kc/3cIUCZlIRjxL3XXOjT3Zcu1i0tHE5eGEKltgnNYXlj2vEPul43P1A3UB6F+M3FG4xk7sm4lsA3xg67N9qyxVvv1h0A3HwyRP2b4tiz2oabjnRfR0AjTAvmpa6FTzbT6Q3bC66AolEzea0++04fCYAiMPYYmPAs7Juwa8G7BSrg1OBZiutH1gA18ThcoGXqTGO/1eJYhC74X5S4vKR4g2KrIyrw5/JPFVPMY+5CTBsA=;fje80O76B7Yh8ePzBaA9OQ=="
 ---

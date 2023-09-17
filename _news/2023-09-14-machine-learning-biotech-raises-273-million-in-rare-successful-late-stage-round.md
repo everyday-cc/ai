@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "Nvidia, Amgen back AI-driven drug firm Generate:Biomedicines' $273 mln fundraise"
-    excerpt: "Biomedicines, which uses artificial intelligence (AI) to find new treatments, said on Thursday it has raised $273 million from investors including Nvidia's venture capital arm and Amgen."
-    publishedDateTime: 2023-09-14T16:33:00Z
-    webUrl: "https://www.reuters.com/article/generatebio-funding-idUSL4N3AQ2BO"
+    excerpt: "Biomedicines, which uses artificial intelligence (AI) to find new treatments, said on Thursday it has raised $273 million from investors including Nvidia's venture capital arm and Amgen ."
+    publishedDateTime: 2023-09-14T11:40:00Z
+    webUrl: "https://www.reuters.com/article/generatebio-funding/nvidia-amgen-back-ai-driven-drug-firm-generatebiomedicines-273-mln-fundraise-idUSL4N3AQ2BO"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 64
     images:
-      - url: "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/2VIII4UUOFIAPGOOWT4DO6J5EY.jpg"
-        width: 4966
-        height: 3298
+      - url: "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ZIVGLF76V5ICLLRLGXUINW6DDM.jpg"
+        width: 4590
+        height: 2802
         isCached: true
   - title: "Nvidia, Amgen back AI-driven drug firm Generate:Biomedicines' $273 million fundraise"
     excerpt: "Generate — founded by venture firm Flagship Pioneering, which has incubated biotech companies, most famously Moderna Inc — uses AI to replace trial-and-error drug discovery methods and create novel protein-based therapeutics."

@@ -57,24 +57,6 @@ related:
         width: 1200
         height: 673
         isCached: true
-  - title: "AI and analytics leader SAS delivers trustworthy generative AI value through industry solutions"
-    excerpt: "SAS expands strategic Microsoft partnership and differentiates in the market with synthetic data, digital twins, large language modelsLAS VEGAS,"
-    publishedDateTime: 2023-09-12T18:24:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-and-analytics-leader-sas-delivers-trustworthy-generative-ai-value-through-industry-solutions-1032624633"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
-  - title: "SAS ups AI features in its analytics and CRM platforms"
-    excerpt: "The company said it’s working with Microsoft Corp. to develop a generative AI integration that combines Microsoft Azure OpenAI with SAS’ enterprise task orchestration and analytics in a product to be previewed in the fourth quarter."
-    publishedDateTime: 2023-09-12T18:26:00Z
-    webUrl: "https://siliconangle.com/2023/09/12/sas-ups-ai-features-analytics-crm-platforms/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
 
 secured: "EWp9eTLFUsCGuzVW6BwGEu7z/FfOS0P5ZSO/9RyHRLJ59apvkaOfB5b/BbxhmN3i22jyd99L9a6HaWyGMpBYhqI3dqwA0Z1fTvxRQqGyg/lrV6n3B11lNDY2RrM3eyx5AqtqBBmYG0Jvl8DPyqzaUxxZRXw1qF2qBN6FzzRdr1x1ZLt3FSoJ7NglJ/kP77grd2e0Lvd2ckBrTOSbzAv6KeAW2mam6BIMPX2stolqlZFc/TR7LyWmvta7w3AjqI9UfCpzI9rLBhM069kJy79bopdxV7ieXbfRGNy3ApIU9RRRf3aAN9HWB6B3OGZfdcua18Jc5g3aN6m2Rv2OiL46bCvsWGmbSLh6mDyJKARUOnk=;//wFI6EBPSMVwk0t91Hw3w=="
 ---

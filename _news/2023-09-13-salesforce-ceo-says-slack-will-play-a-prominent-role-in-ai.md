@@ -92,20 +92,6 @@ related:
         width: 1322
         height: 940
         isCached: true
-  - title: "Salesforce and AWS Deepen Generative AI Partnership with Harmonized Customer Profile Offerings"
-    excerpt: "Salesforce and Amazon Web Services (AWS) today announced an expanded partnership for new Bring Your Own Lake (BYOL) and Bring Your Own"
-    publishedDateTime: 2023-09-12T17:44:00Z
-    webUrl: "https://www.datanami.com/this-just-in/salesforce-and-aws-deepen-generative-ai-partnership-with-harmonized-customer-profile-offerings/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 42
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/09/aws-salesforce-300x236.png"
-        width: 300
-        height: 236
-        isCached: true
   - title: "Benioff attacks other Gen AI vendors at Salesforce Dreamforce 2023"
     excerpt: "Salesforce chief executive and co-founder Marc Benioff used his keynote address at the company's Dreamforce 2023 to make bold attacks on other generative AI (GenAI) vendors, accusing them of not taking trust and hallucinations as seriously as his company."
     publishedDateTime: 2023-09-13T19:22:00Z

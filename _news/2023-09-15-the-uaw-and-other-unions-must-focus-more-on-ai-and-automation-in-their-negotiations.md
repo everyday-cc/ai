@@ -32,15 +32,6 @@ related:
         width: 600
         height: 393
         isCached: true
-  - title: "UVA team researches potential benefits of AI in special education"
-    excerpt: "AI is capable of helping students with special needs through the generation of images and clear language, according to Associate Professor Michael Kennedy."
-    publishedDateTime: 2023-09-12T18:37:00Z
-    webUrl: "https://www.nbc29.com/2023/09/12/uva-team-researches-potential-benefits-ai-special-education/"
-    type: article
-    provider:
-      name: NBC29
-      domain: nbc29.com
-    quality: 36
 
 secured: "tC3xHF62PgP5QhNZIQti5CRCOYOg8oKbZ6915L9ZucmJCcRqxnSrlTUmyBBUI/h8jNLPUQg5Cn165fXiOXxXPC3gmQfqGceIsjKlGW3UZ00TIZCeKe6Yi0GdZTDMraMH6B0g4mdMETTk1fmpAaRPuKDnrM4Q0YMLvP5ysDMdA89WtlNz5J15G9J1wS+crDSXgTyxMg5CRTYp6agEPIT63CfERC6MRJX9t3+6qnaF/42qVg5TA5Sge7VG5fdFXDZSUAqTawvp53hwOM5Se8V25Gvj0XYBypC7XqCSLeb0J3Qe84FbvDTMsG8M9f4GZ2y8Bs9EA918eO2jTYMmK+rWE5Cu4px0yVEpRBkv80myCLvT3nuPQJPJx7t09gzd87Ti3dcehrrtVjnwp/CW+SpvrFxnGcuab3MkddyA6fcvGjLMT4jVkQ1Baok96gw+qsrb6AC558rQAlDwviZ2sseqYrLhwPUJ7MI6Rz50NG4S7GomQVHT8H2Mp8V8XwI+LXh2x6/o2qBKQatFnzk25z8HGQ==;RLXpDKU9Ex77UrDqGgdN9A=="
 ---

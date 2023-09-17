@@ -2,9 +2,9 @@
 category: news
 title: "Build Intelligent AI Bots That Speak Your Language: Maqsam's AI Conversational Chatbot Unveiled"
 excerpt: "One of the standout features of Maqsam's AI conversational chatbot is its hyper-local advantage, especially in Arabia. For businesses operating in this diverse and dynamic market, where dialects and cultural nuances vary significantly, Maqsam's AI chatbot provides a localized solution that ensures meaningful interactions with customers."
-publishedDateTime: 2023-09-13T09:27:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-build-intelligent-ai-bots-that-speak-language-maqsams-/2023/09/13/9879923.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-build-intelligent-ai-bots-that-speak-language-maqsams-/2023/09/13/9879923.htm"
+publishedDateTime: 2023-09-13T08:18:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/09/13/9879923.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/09/13/9879923.htm"
 type: article
 quality: 27
 heat: -1
@@ -159,6 +159,6 @@ related:
       domain: scientificamerican.com
     quality: 4
 
-secured: "AYNF4C05UKYRY3M0vbHVGkaxX2TaexqczGFQK/WaLWlxrV2ntsKQrmZgVOuRLx8k8JLulOwO/kSfC39dgry3WVvgaZYsdVahCBLOIbvadc3q1es/Q+5MhpSXaFrMHvREzRYcOrsWv/0hkxY3p+jTvUNyQD65zC2f58/UxDl8OA2z/Mc5WTHm36JKTuTYQP70Y/xOprVEps+dohhhP40TIiHTMZXFmmjFqk+RcuZgQowr+bClrovlXxub6njGDECeSnw40b17xM0UnYmgHC7FTatOClG+IYT4VYy2/gPQF61w5X7EGNwT/xphIGCM3ji6ygOV198Im6Z2u0ryAIdr1vCpmOcMj+KAipS2aZdgAmHP4UoZbohUv7LOf0+viABoLEI1nzp82PoxRc5XH7xKNN2+QfZtLorGnH/nfqa5/URCxqd3Thm/6WtnMemm8f1XtRKAVZGKQ6bbQK5zRuo48cYjGmQjbJxrhpIKz6mqod0PIpxy+QVzXSCyc2mYMkdSNdmCMlYD7UOjnJ1SfrybhQ==;YUvva8GUnFyt8coGaa9lMw=="
+secured: "67gTIxDl6VB25QDrD53HklAXY6Tf5IU7ZcLX28bwtEWr4pJ+VoN82FqLGRxrl2l4/zKeCTic1+/MBILi/rilFOd+1QYeqNsHpU2j9norK+N8jTXp33nDv/UDzsBZ4P24ka7qdOv2ulljYnPbtqp65Z2a7BMA7JqZ3oqE6FnYE4tdsGnkGXLQpXYxedDV4FMTgKiPewshRb4G+zouajU4+PFvs32SVIywi+AC/jpXoI5hTFJLQneJD1FzkclKagcS1GowvLkBQvN6/2RawGEXCWL+EQToWfway/XQxbGPJ9hneGS3XOHFuOZaf6nKOsrLG8J5+BdrmseHP4HOJh/9NXzhJ3rWtMcAfIOmm9WCkTI=;0L9AhWi2nj3ExSioQegEhw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-are
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-are-ai-chips-the-most-important-part-to-sustain-the-ai-landscape-3242586/lite/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.mactech.com/wp-content/uploads/2023/09/Apple-and-AI-1024x699.jpg"
         width: 1024
         height: 699
+        isCached: true
+  - title: "Is This the Most Critical Company in the Artificial Intelligence Supply Chain?"
+    excerpt: "At 32 times trailing earnings, ASML is still above its historical levels and comparatively expensive to the market (which trades at around 25 times earnings). However, with AI likely causing a chip arms race and the company's strong execution, it makes sense that ASML is valued at a premium to the broader market."
+    publishedDateTime: 2023-09-17T11:36:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/markets-news/Motley/20336720/is-this-the-most-critical-company-in-the-artificial-intelligence-supply-chain/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 48
+    images:
+      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/0ec143591b6dc4ba63b2c9751cf259a0/%3Furl%3Dhttps%253a%252f%252fmedia.ycharts.com%252fcharts%252f52aa18da467722045d70ed95ea443176.png%26amp%3Bw%3D700"
+        width: 720
+        height: 449
         isCached: true
 
 secured: "BaE0oN1bg7nJZRfGIlgbglu00veEDmvbXQzLsLOpNoIk9IBLfd9H74u7JjzJqq8p4L9M2c5AmWIlfWbpyCKRTCcEbNhNv9H6a/6YVxGrttmJ81xTceIICaIwWlBHiS9Jx4OiFA02UUHH8PTvsRSifCofDxBjtHJk64ATSTgux9aLUiB66cG4MhTPhApoQy/8Nqfmyl1HNylFFAzRLeF8LyCUAo3C5yXT0VDMpZp1byEbNV3Gl/LRO1Mmo8cZL8OunmgqAaRSrw1gn8lNCJxpfK6zZBRyP7xgCQhlgapLDT7R6Q5PSyMpaBlD9E1F9VdAmgNhuZOe1oSrOPQY/RX61wGJlO2rN42FEe8tWorNHLI=;mXKn6Mx+8KbHpG74Px7hzw=="

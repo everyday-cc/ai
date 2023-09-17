@@ -7,8 +7,8 @@ originalUrl: "https://semiengineering.com/patterns-and-issues-in-ai-chip-design/
 webUrl: "https://semiengineering.com/patterns-and-issues-in-ai-chip-design/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Semiconductor Engineering
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Stethoscopes, Electronics, And Artificial Intelligence"
+    excerpt: "What’s more, since the Hopkins smart stethoscope is a digital instrument, it can serve as input for an artificial intelligence application that automatically analyzes the data for signs of ..."
+    publishedDateTime: 2023-09-13T00:00:00Z
+    webUrl: "https://hackaday.com/2019/02/25/stethoscopes-electronics-and-artificial-intelligence/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 39
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2019/02/smart-stethoscopes-featured.jpg"
+        width: 4350
+        height: 2900
+        isCached: true
   - title: "Why humans can’t trust AI"
     excerpt: "Researchers are working on programming AI to include ethics, but that’s proving challenging. The self-driving car scenario illustrates this issue. How can you ensure that the car’s AI makes decisions that align with human expectations? For example ..."
     publishedDateTime: 2023-09-14T13:30:00Z
