@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "‘Stop falling for weird s—’: Four takeaways from Walter Isaacson’s biography of Elon Musk"
-    excerpt: "Isaacson portrays Musk as a restless genius with a turbulent upbringing on the cusp of launching a new AI company along with his five other companies."
-    publishedDateTime: 2023-09-12T16:57:00Z
-    webUrl: "https://www.eastbaytimes.com/2023/09/12/stop-falling-for-weird-s-four-takeaways-from-walter-isaacsons-biography-of-elon-musk/"
-    ampWebUrl: "https://www.eastbaytimes.com/2023/09/12/stop-falling-for-weird-s-four-takeaways-from-walter-isaacsons-biography-of-elon-musk/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/09/12/stop-falling-for-weird-s-four-takeaways-from-walter-isaacsons-biography-of-elon-musk/amp/"
-    type: article
-    provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 35
-    images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2023/09/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9pbWFnZS0zNTZjZWYxMDhjZGRlMGVlZGVhZDJjNDdjYWE5YjE1NA-L19wYWdlcy9oXzMzZWM5ZDRmZmM1NTZiMmE2OWNmMDdkZDk3OTQ0YTgx.jpg?w=1024&h=576"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Four takeaways from Walter Isaacson’s biography of Elon Musk"
     excerpt: "You’ll never be successful,” Errol Musk in 1989 told his 17-year-old son Elon, who was then preparing to fly from South Africa to Canada to find relatives and a college education."
     publishedDateTime: 2023-09-12T18:06:00Z

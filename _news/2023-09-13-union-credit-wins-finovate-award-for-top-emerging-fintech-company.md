@@ -52,15 +52,6 @@ related:
       name: IBS
       domain: ibsintelligence.com
     quality: 14
-  - title: "How the customer experience has been transformed by fintech"
-    excerpt: "AI and advanced predictive analytics are by far and away the ... it’s only a matter of time before it’s geared up to deal with more complex queries. Here are some of how fintech is improving customer lives. Finance management tools During these ..."
-    publishedDateTime: 2023-09-12T16:32:00Z
-    webUrl: "https://www.finextra.com/blogposting/24877/how-the-customer-experience-has-been-transformed-by-fintech"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "Slf9PiccFL32Izjv34nV3guF9352OPydBfOODl5yR+TQJhXypJIidQ5dL60lDfoPT0kbxaxA1Gfkb0dB4e5ko/l1SyFriHqpSH1PUvDTq6VVlO37wASgia8CXz/XcdjcByUWphq3ErgeXH3ZRIktwNiJriDPvkttbQnELiS/Klh3/1qTWg+y25Zc/+IHOdO60c+63b7U+0eLtEg3z72NjnwaSs3I7btahRJyYeGq6PPmItBMC9fQ3mXKXeHs/QTiMoZkx5iB9mbCnmdOdkN/QflRDgKCkx0gvFw/kghl5gHuV9fR6X258Rh7mxXPl0Z6HEVED3oOWd1sK4F3ORxWA25OkKZZi/QkEYIjkDwxOzA=;qOqm4B0wt3qiNFyUPOh3VQ=="
 ---

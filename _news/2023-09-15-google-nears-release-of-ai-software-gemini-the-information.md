@@ -33,20 +33,6 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 39
-  - title: "Disinformation wars: The fight against fake news in the age of AI"
-    excerpt: "Researchers and governments are finally battling back against the deluge of false information online, just as artificial intelligence threatens to supercharge the problem"
-    publishedDateTime: 2023-09-12T17:00:00Z
-    webUrl: "https://www.newscientist.com/article/mg25934563-200-disinformation-wars-the-fight-against-fake-news-in-the-age-of-ai/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/09/12110607/SEI_171239545.jpg"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "Google Gemini: What We Know So Far"
     excerpt: "What we know so far indicates Gemini could represent a significant advancement in natural language processing. The fusion of DeepMind’s latest AI research with Google’s vast computational resources makes the potential impact challenging to overstate."
     publishedDateTime: 2023-09-15T19:55:00Z

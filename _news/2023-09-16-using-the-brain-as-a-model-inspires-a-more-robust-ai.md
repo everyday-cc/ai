@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-09-brain-robust-ai.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-brain-robust-ai.amp"
 type: article
 quality: 61
-heat: 86
+heat: 87
 published: true
 
 provider:

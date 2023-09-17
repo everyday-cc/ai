@@ -7,7 +7,7 @@ originalUrl: "https://www.axios.com/pro/tech-policy/2023/09/13/schumer-previews-
 webUrl: "https://www.axios.com/pro/tech-policy/2023/09/13/schumer-previews-the-next-ai-forum"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Senators voice skepticism about Leader Schumer's AI summit"
-    excerpt: "These tech billionaires want to lobby Congress behind closed doors with no questions asked. That’s just plain wrong,” said Sen. Elizabeth Warren, D-Mass."
-    publishedDateTime: 2023-09-12T15:35:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/senators-voice-skepticism-leader-schumers-ai-summit-rcna104615"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna104615"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna104615"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 87
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-09/230912-elizabeth-warren-se-1038a-81e91c.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Sen. Schumer’s first AI insight forum focuses on 2024 election, federal regulators"
     excerpt: "More than 65 senators and top tech CEOs debated openness and transparency for AI systems at the first meeting, among other key issues."
     publishedDateTime: 2023-09-15T12:24:00Z

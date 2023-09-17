@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/opinion/team-biden-conga-line-china-woke-ai-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/team-biden-conga-line-china-woke-ai-fox-news-opinion.amp"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/Artificial-Intelligence.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Biden-Harris Administration Takes Action to Ensure Safe and Trustworthy AI Development"
-    excerpt: "President Biden and VP Harris announce plans to limit AI risks and maximize advantages. Top AI companies pledge to develop safe, secure, and trustworthy AI technology."
-    publishedDateTime: 2023-09-12T16:25:00Z
-    webUrl: "https://www.washingtoninformer.com/ai-responsible-development-biden-harris/"
-    type: article
-    provider:
-      name: The Washington Informer
-      domain: washingtoninformer.com
-    quality: 31
-    images:
-      - url: "https://www.washingtoninformer.com/wp-content/uploads/2023/09/pexels-photo-247791.png"
-        width: 1880
-        height: 1032
         isCached: true
 
 secured: "/DM1NOiQHkfqhKFyYoETQaU8wenXN3HQ3DJ1vDH3uRmHmLqARL/W/ASSXkKnOLHmQJ35Xy0G9QDyXnhQO3BcnBB23GbgvVJivf69ommKURtSkiZJZPMFbfQW03P9Ed8dNEz8ST+FLfVo6cJJLMvvWCg1v0ove8fFCvCt8aMQYMzEyX31w+scsHqsxzj/tVLUSG4yftZCAZCs7VC5Qk6P0Hzb9YQaVqUkc+bUCf4288GF/xcaPaF1wR7/BeG7oauCo9Ia9CCn7ySQgSXPL7WwAwd+R6tOPFlp4Yrz8151vpPfl0koI137rDsxEIuIyKYc6yZrbdISYOZGw21587pDRTJBOeWE/2cOQPUXe3AOQ0k=;c36rbL6hMc3vqbE/CScbLQ=="

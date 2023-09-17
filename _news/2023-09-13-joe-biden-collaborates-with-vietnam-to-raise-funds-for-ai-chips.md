@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Biden-Harris Administration Takes Action to Ensure Safe and Trustworthy AI Development"
-    excerpt: "President Biden and VP Harris announce plans to limit AI risks and maximize advantages. Top AI companies pledge to develop safe, secure, and trustworthy AI technology."
-    publishedDateTime: 2023-09-12T16:25:00Z
-    webUrl: "https://www.washingtoninformer.com/ai-responsible-development-biden-harris/"
-    type: article
-    provider:
-      name: The Washington Informer
-      domain: washingtoninformer.com
-    quality: 31
-    images:
-      - url: "https://www.washingtoninformer.com/wp-content/uploads/2023/09/pexels-photo-247791.png"
-        width: 1880
-        height: 1032
-        isCached: true
 
 secured: "bVKgZ6I1NCjT0dM4ezocH5+8AkT6u5QUagSVIqq3pLEsVc6WxEakXek2vKAx9lqJmT5oTae911mnPNTX4Bhxka0MgoPYHnuplN0moURO8bRNWcvZs0guYfAl5kRaR+mnRRKhqtQX87w1uq4y5YKgDukDa/Mbt6v53q/QJD+PfLbSlK8MSpct2hZjjyhHW/gCyKR1X41qZ2BXrzmCx8rFR3/lF7SNVbW+5rcHAizzvcjvR5ncEYCd47EbBcHsN/6TK2UKYM8lPE1VqLs52jfEXKxlqN6sV6ovqSMRmikrOjKG0jehFlbfVu3WrtqUUDs1GXEKBXwUv9Y/wbqwRMRp/JW3a/EfVVyOOEQTHIqOqys=;RP3DMI8gy9xE4KJC2fQGIA=="
 ---

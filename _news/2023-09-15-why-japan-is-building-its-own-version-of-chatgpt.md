@@ -83,20 +83,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "AI Miracle: How ChatGPT Cracked a Boy's Chronic Pain Mystery"
-    excerpt: "Despite numerous efforts - including an orthodontic intervention to address a narrow palate and a brief foray into physical therapy prompted by concerns ... to the potential harmony between artificial intelligence and human perseverance, uniting in the ..."
-    publishedDateTime: 2023-09-12T16:19:00Z
-    webUrl: "https://yourstory.com/2023/09/ai-medical-breakthrough-child-chronic-pain-diagnosis"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 39
-    images:
-      - url: "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/91a00fbe-7dcc-491f-84bb-38390d7bd605-1694526754103.jpg?fm=png&auto=format"
-        width: 3200
-        height: 1600
-        isCached: true
   - title: "Is Tencent’s ChatGPT rival, Hunyuan, Set to Disrupt the AI Market?"
     excerpt: "Tencent launches Hunyuan designed for natural language processing in Chinese to create a ChatGPT-like chatbot. Will it become a game-changer?"
     publishedDateTime: 2023-09-16T10:08:00Z

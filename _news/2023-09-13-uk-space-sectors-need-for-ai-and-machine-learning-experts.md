@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 802
         isCached: true
+  - title: "5 Tips On How To Streamline Decision-Making With AI And ML"
+    excerpt: "Although these methods need refinement overall, the H2O AutoML framework is one of the most mature automated solutions to compare predictive ability and ease of use. Machine learning algorithms can be essential in areas built upon a constant heterogeneous ..."
+    publishedDateTime: 2023-09-15T12:01:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/15/5-tips-on-how-to-streamline-decision-making-with-ai-and-ml/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "The power of data and AI: Transforming industries through collaboration"
     excerpt: "The world is in the midst of a data revolution, and the integration of AI into industries is at the forefront of this transformation. Understanding the data that is being used, its source, representation, structure and format is essential for making AI and generative AI more effective and impactful, according to Day."
     publishedDateTime: 2023-09-13T21:11:00Z

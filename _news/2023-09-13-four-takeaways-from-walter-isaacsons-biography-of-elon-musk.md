@@ -39,22 +39,6 @@ related:
         width: 630
         height: 473
         isCached: true
-  - title: "‘Stop falling for weird s—’: Four takeaways from Walter Isaacson’s biography of Elon Musk"
-    excerpt: "Isaacson portrays Musk as a restless genius with a turbulent upbringing on the cusp of launching a new AI company along with his five other companies."
-    publishedDateTime: 2023-09-12T16:57:00Z
-    webUrl: "https://www.eastbaytimes.com/2023/09/12/stop-falling-for-weird-s-four-takeaways-from-walter-isaacsons-biography-of-elon-musk/"
-    ampWebUrl: "https://www.eastbaytimes.com/2023/09/12/stop-falling-for-weird-s-four-takeaways-from-walter-isaacsons-biography-of-elon-musk/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/09/12/stop-falling-for-weird-s-four-takeaways-from-walter-isaacsons-biography-of-elon-musk/amp/"
-    type: article
-    provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 35
-    images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2023/09/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9pbWFnZS0zNTZjZWYxMDhjZGRlMGVlZGVhZDJjNDdjYWE5YjE1NA-L19wYWdlcy9oXzMzZWM5ZDRmZmM1NTZiMmE2OWNmMDdkZDk3OTQ0YTgx.jpg?w=1024&h=576"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "2VvgA/9OFh/SwBP+lu3xIvNLYE/jj13sDIZGre0wbMvSIMMZBqqTDthYplpH+r+1AG3xaAP+Ap8Aw9I9GtOxINHwL/lI3iOlo19mCCFrcXBgk6pkryib1FWN0Qsx6mfr1d7r4WBkz36asoObAtowWdjWnwf05u/6jSiHMLUAk+/IWV267f+fg6duq/msshl3ZQ3EOTknQqp0MJfu1wU9FEe5pG4o8d0w52fX+FMlyP7oyLMXPlldKaxBSj6MgGUmWWYlIbsqLMqCE1Qccp9oyfJ/m+PaS6ws2524KQ8QNy6uTU3nC1fu5vi3jrgP5PzsLeljRBCR3+djYTtKk/VtE0xjZlTpuxWAvKFc8lJ6+w6y1PrrxfZwSKBY1mmel4eA1fSa43QWqKK+JALN0bHJu53x12NK2v2mtGeHzkv/MYwTV0eYmMIhHqIC9YbRtAsWIEUg7SkucwbKDHdgcrPpkUlwiF6zNimri60gUDrIl//UYBulzndDmeiNhemggupKvrF2ccGXqUCmCG6ebWdgvQ==;sVDHTTh0wNlp7LtJPkr/Vg=="
 ---

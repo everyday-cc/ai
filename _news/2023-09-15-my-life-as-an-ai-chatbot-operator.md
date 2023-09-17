@@ -180,28 +180,19 @@ related:
         height: 463
         isCached: true
   - title: "How scientists are using artificial intelligence"
-    excerpt: "Automating and speeding up physical experiments and laboratory work is another area of interest. “Self-driving laboratories” can plan an experiment, execute it using a robotic arm, and then analyse the results. Automation can make discovering new compounds, or finding better ways of making old compounds, up to a thousand times faster."
-    publishedDateTime: 2023-09-13T21:52:00Z
-    webUrl: "https://www.aol.com/finance/scientists-using-artificial-intelligence-185204515.html"
+    excerpt: "Once the AI spat out its shortlist, the scientists tested them in the lab and identified their antibiotics. If discovering new drugs is like searching for a needle in a haystack, says Regina Barzilay,"
+    publishedDateTime: 2023-09-13T18:52:00Z
+    webUrl: "https://www.economist.com/science-and-technology/2023/09/13/how-scientists-are-using-artificial-intelligence"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
+      name: The Economist
+      domain: economist.com
     quality: 39
     images:
-      - url: "https://media.zenfs.com/en/aol_the_economist_398/bae84b4d519fcdddc9fc85fd84d2acd5"
+      - url: "https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/content-assets/images/20230916_STC417.png"
         width: 608
-        height: 739
+        height: 703
         isCached: true
-  - title: "Swoop Launches Predictive AI Adherence Targeting"
-    excerpt: "Swoop Predictive AI Adherence Targeting uncovers the patients most likely to become non-adherent within the next 30 days for highly precise marketing."
-    publishedDateTime: 2023-09-12T16:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230912349151/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
   - title: "Deduce Raises $9M to Address AI-Generated Identity Fraud"
     excerpt: "Deduce announced $9M in funding led by Freestyle Capital, with additional investment by Foundry and True Ventures."
     publishedDateTime: 2023-09-14T12:02:00Z

@@ -42,6 +42,15 @@ related:
         width: 791
         height: 527
         isCached: true
+  - title: "SQream reels in $45M for its speedy GPU-powered database"
+    excerpt: "SQreamDB provides integrations with Tableau and several other popular BI products. “As generative AI shines a light on the importance of leveraging AI and ML within enterprises, as well as the value of GPUs as part of the analytics process, we have seen ..."
+    publishedDateTime: 2023-09-12T19:25:00Z
+    webUrl: "https://siliconangle.com/2023/09/12/sqream-reels-45m-speedy-gpu-powered-database/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
   - title: "DRUID raises $30M in Series B to boost enterprise productivity with conversational apps and AI"
     excerpt: "Tech - DRUID, a global leader in conversational AI technology, announced today its successful $30 million Series B led by TQ Ventures, with participation from"
     publishedDateTime: 2023-09-14T12:39:00Z

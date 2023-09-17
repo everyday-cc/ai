@@ -53,15 +53,6 @@ related:
         width: 724
         height: 483
         isCached: true
-  - title: "How Artificial Intelligence is Bolstering Impressive Billion Dollar Growth Opportunities in Healthcare Sector"
-    excerpt: "The implementation of AI/ML technologies in enhancing patient care, reducing machine downtime, and minimizing care expenses are some of the driving forces of artificial intelligence (AI) in healthcare market growth."
-    publishedDateTime: 2023-09-12T15:18:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/09/12/9879146.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
 
 secured: "Yf6wbB/9qFuyiaPN72inv/magTHe7mc1RUBXEB/IrdeBMzhfqJbAwl7d5jgLuTSo6ji2/WykaYRa+eDOakZFjfQOo7R3y0uXAUOe6P5pFG9Np/zLJutQ5EJV5HtPZk16+mOqIRHrGiJmnqVI/FyrF7cX65jjW+4ty0uSHBB18F4EnpMS9FSM6ACk9F2ronBb/yUP7VTRAqFL5NukTIJrIiBMGQLFsH2UWw9vCtdSa60hcXiyqWqWQRxrURAqoqXyF0sEve+Ny6eLwo+bbCA1JMmfLkd7JdNB6UMBam/2qaXqKZs03JeKP8JRPlUKeW45wbMe/c7t2Lx1utmBMWQa2yjVBw8FXzEHf2rblKJu0ls=;4c1DHzjX+nhL91s2UMqG4g=="
 ---

@@ -46,20 +46,6 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 39
-  - title: "Disinformation wars: The fight against fake news in the age of AI"
-    excerpt: "Researchers and governments are finally battling back against the deluge of false information online, just as artificial intelligence threatens to supercharge the problem"
-    publishedDateTime: 2023-09-12T17:00:00Z
-    webUrl: "https://www.newscientist.com/article/mg25934563-200-disinformation-wars-the-fight-against-fake-news-in-the-age-of-ai/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/09/12110607/SEI_171239545.jpg"
-        width: 1350
-        height: 900
-        isCached: true
 
 secured: "s02K9lQ4q9reVCHKlukNsExdU9gttG0A6I6Y+5hrJoB2ni8Le/++EuO96S6veMseIwOSN3Mj7+89H/PQ/J8J3oHrcLSpu5kDtB/MZu8BsAIq4W8XvNPiOaMjUy3egGV/6z0MyggdqhKVgQfUnGunKdyqfUJm1zWfjVQqLE9oAUMg4eafXMsV6c1U3QuOGPMUn/ki1no1Dx2k8xUz8Bh2ZDeHXOZMeDXNbM6W/xfEY8uEbYa3RfQd/SXZuvMpdYGNQvq5mvlpH4ipwnhCAUjgZk3V6ccDDOYJNZ+8w08ph7EWA9JI5lZGeCKNrhv4i6SEeRE/87dSZEEQi5ejNdbLe7jQbJgrdwrqee3MEnSLQli/UDaw45VyWusQ8rppKAur81YgBL8xdyRmv+YwwlAHgP9dsnMvEjdEZ+mR32Wbsu3dFxHt2fKw9PqiETKlkKc5qHPWW17FEU3nTSW87OyBRUtHhgXFArqkxbJLlA8gqt3jNUzjbjgfHt3GKpowzBXJw6SvZ7Qwf3n2rn9QsUL/rA==;Oc9S6pilW+0C6prPuK05UQ=="
 ---

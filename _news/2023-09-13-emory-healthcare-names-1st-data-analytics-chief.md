@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/hospital-executive-moves/emo
 webUrl: "https://www.beckershospitalreview.com/hospital-executive-moves/emory-healthcare-names-1st-data-analytics-chief.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,33 +23,6 @@ images:
     width: 800
     height: 600
     isCached: true
-
-related:
-  - title: "SQream calls in $45M to expand its GPU-based big data analytics platform"
-    excerpt: "Israeli data analytics startup SQream made a bet on the potential of GPUs as a cornerstone of enabling the processing and querying of big"
-    publishedDateTime: 2023-09-12T16:30:00Z
-    webUrl: "https://techcrunch.com/2023/09/12/sqream-series-c/"
-    ampWebUrl: "https://techcrunch.com/2023/09/12/sqream-series-c/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/12/sqream-series-c/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 88
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1352189853-1.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "SQream reels in $45M for its speedy GPU-powered database"
-    excerpt: "SQreamDB provides integrations with Tableau and several other popular BI products. “As generative AI shines a light on the importance of leveraging AI and ML within enterprises, as well as the value of GPUs as part of the analytics process, we have seen ..."
-    publishedDateTime: 2023-09-12T19:25:00Z
-    webUrl: "https://siliconangle.com/2023/09/12/sqream-reels-45m-speedy-gpu-powered-database/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
 
 secured: "wbaOesKCpaB2hkGAu+EGTB0yYKtDy63IUN9JYUk0EXGblCYyRCny9TILPiSRKSRBzh4HzFTZhvAYkTRYfcSgI3AjqWtQyIr+b7sluvoMIwGIozYWnnjV0dTxPgZgtuwD591WKJRcQgDd64Vut79RUMa3/0OuB2XQ0DaZkn20Rl5hazdr6U/5qGH492YhBSn5L2BXacLG5M+5Di4r/Zqi17151UwvKv3P1UiXanM7dUKMvMjuGzH6YYlkMvsdpJOFVtL0Eqszg1DAsHK+/zRIfxmP+LqbWsolmAzyP06hIRNdKYwQCZrBFYCJQS9dECWkkaXapHMLiEP6mVpfHQ1oQaj/ICEzcI3goumwFbnw8B8=;sXaKrXLfNmnqe2sWcA84+w=="
 ---

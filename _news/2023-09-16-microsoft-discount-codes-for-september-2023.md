@@ -151,22 +151,6 @@ related:
         width: 1216
         height: 682
         isCached: true
-  - title: "Microsoft president and Nvidia chief scientist to testify in Senate AI hearings"
-    excerpt: "Digital advocacy groups warn Senate judiciary committee that tech companies cannot be trusted to regulate themselves"
-    publishedDateTime: 2023-09-12T15:16:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/sep/12/us-senate-ai-hearings-microsoft-nvidia"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/sep/12/us-senate-ai-hearings-microsoft-nvidia"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/sep/12/us-senate-ai-hearings-microsoft-nvidia"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 70
-    images:
-      - url: "https://i.guim.co.uk/img/media/0f30b18e5ff1e2f87f9a61e36a9be575eb4595d7/0_50_4500_2700/master/4500.jpg?width=620&quality=85&auto=format&fit=max&s=239691079d1750a589b4a728380d2704"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Oracle and Microsoft expand partnership to its offer database services on Azure"
     excerpt: "With this, Microsoft will be the only other hyperscaler to offer Oracle Cloud Infrastructure Database Services. The announcement comes less than a week after Oracle reported slowdown in cloud sales growth making investors question its market competitiveness."
     publishedDateTime: 2023-09-15T07:16:00Z

@@ -39,34 +39,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Nvidia-Backed AI Chip Networking Startup Enfabrica Lands $125M Series B"
-    excerpt: "The deal is the latest example of investors backing the actual hardware, chips and other infrastructure needed for generative AI modeling."
-    publishedDateTime: 2023-09-12T16:57:00Z
-    webUrl: "https://news.crunchbase.com/ai-robotics/enfabrica-ai-networking-chip-startup-funding-nvda/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 56
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/computer-chip.jpg"
-        width: 900
-        height: 506
-        isCached: true
-  - title: "Enfabrica Raises $125M Series B for AI Infrastructure Networking Chips"
-    excerpt: "Enfabrica Corporation, a startup building converged networking and memory fabric silicon and software for AI and accelerated computing workloads, today announced its close of a $125 million Series B financing round."
-    publishedDateTime: 2023-09-12T16:02:00Z
-    webUrl: "https://insidehpc.com/2023/09/enfabrica-raises-125m-series-b-for-ai-infrastructure-networking-chips/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 54
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2023/08/cover.jpg"
-        width: 843
-        height: 394
-        isCached: true
   - title: "AI chip startup Enfabrica raises $125m in venture capital"
     excerpt: "AI chip startup Enfabrica has successfully raised $125 million in venture capital. First reported by Reuters, the company is developing networking chips designed for artificial intelligence (AI) data centers and counts Nvidia as a strategic investor."
     publishedDateTime: 2023-09-13T15:25:00Z
@@ -81,15 +53,6 @@ related:
         width: 786
         height: 412
         isCached: true
-  - title: "Enfabrica Raises $125 Million Series B to Fuel Ramp of AI Infrastructure Networking Chips"
-    excerpt: "The oversubscribed $125M Series B round was led by crossover firm Atreides Management, with supporting capital from Series A lead Sutter Hill Ventures, and new capital from IAG Capital, Liberty Global, NVIDIA, Valor Equity Partners, Infinitum and Alumni Ventures."
-    publishedDateTime: 2023-09-12T16:21:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/09/12/9879381.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 25
 
 secured: "liywLX10l4oUDCf6UaYV+0E3LIJTb1WlLJREoUDM3Aej2HRXUQrHuRyJwN2iAayb9SHmKZ2dqQbtzEfJ9Q9XAFFiLWhqSQv2s/7xpV4P4yqP6KfbFASAj2MrAH3VzaRe1s3rQ/OrTAna5gW6N3TLgAufxYwIGLhfhj+b04wvKfTheQOyFMr6FavtU+SpwoUH7IXcQ1ufboxH1url5PdVFm2x6yNilo3HAmiwyYQvw0MwsHIuPBlZa7MI+AWyr7yqmNdlZx3qMTbbuiixmu1FyDAynf1ajEIi8Rs1hBnVb9Ce+gc0m72sHYHe63HDd4uWCaLMgoF5YBLcWTFMGQpyzbnANKm6A2ArtbPwMaAxnkg0vVgaaKn/SCEkDAb+G6v1jlZccVGh8CddlaIZljvRsKN/I/9Kcg5H6X1QpF3FXv0eXWdvooXUjev6ZNBL5Tv3grCmUsQI0qkIDNPPF/Q7Eyb46kbcUfD29BLSKQwWfjYGNMIa7ZTJnwy3CJhTOTbSLCkS2SxQ4XCZuAwFwzveDg==;Uyijb0VdBgXnHEFhhpOnNg=="
 ---

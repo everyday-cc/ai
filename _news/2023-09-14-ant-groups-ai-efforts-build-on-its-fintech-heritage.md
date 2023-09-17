@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telecomtv.com/content/digital-platforms-services/ant-gro
 cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/digital-platforms-services/ant-group-s-ai-efforts-build-on-its-fintech-heritage-48484/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -52,15 +52,6 @@ related:
       name: IBS
       domain: ibsintelligence.com
     quality: 14
-  - title: "How the customer experience has been transformed by fintech"
-    excerpt: "AI and advanced predictive analytics are by far and away the ... it’s only a matter of time before it’s geared up to deal with more complex queries. Here are some of how fintech is improving customer lives. Finance management tools During these ..."
-    publishedDateTime: 2023-09-12T16:32:00Z
-    webUrl: "https://www.finextra.com/blogposting/24877/how-the-customer-experience-has-been-transformed-by-fintech"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "Q8xBGFacs47boP7G+WCU/ttJEmDZHU8D59i6n3l1m2X9YNN6dVseVjJqCkh0qG2Zsb6P5D+sZYi7q05C7VXGP4/9nIEmr2/Meaa0H518WPQaqgoHb74hMwSJACCIwxyUl4TnpduJShG3/IqeGFitWTAQpZf+kdHpX0XmPQoEgFGr1f3EVKDdg3gbHF4AhR6lRwpple4I+89cKNvpZf3ry3Jn1viGD6uCOQb/oCSpjRW7UDRJbDPZptJCLge2n2T8H3Oxu7YlbMXy4w27FuN7yXOsf1NGI2VYFJomU8Vfr6OI3ei/yPI7rcpiiQ5pEV5gKClHxYs4FKOUjBwMjokM2URSZV2uog0T/baF6kDbmJDlZRuFkvR7PEM76bLs1PA4HlROZfx0oXbpMq+zcWoe19iJia1zOTSDvyeQ/bMakpmO9L0crxnvWRQLTlrhWewE4uFELFpTD6b/WC+pDHHW2Iy/EuXzATx+LKqF5n4gi8fyhyyrJcNrsOzyGquNeAln7f4GqpucwyHVLWZQIqfZjA==;FIvNjNBlHBO+Rdq/uBeVNw=="
 ---

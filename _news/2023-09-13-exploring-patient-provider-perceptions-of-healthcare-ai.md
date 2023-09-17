@@ -7,7 +7,7 @@ originalUrl: "https://healthitanalytics.com/features/exploring-patient-provider-
 webUrl: "https://healthitanalytics.com/features/exploring-patient-provider-perceptions-of-healthcare-ai"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -54,15 +54,6 @@ related:
         width: 724
         height: 483
         isCached: true
-  - title: "How Artificial Intelligence is Bolstering Impressive Billion Dollar Growth Opportunities in Healthcare Sector"
-    excerpt: "The implementation of AI/ML technologies in enhancing patient care, reducing machine downtime, and minimizing care expenses are some of the driving forces of artificial intelligence (AI) in healthcare market growth."
-    publishedDateTime: 2023-09-12T15:18:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/09/12/9879146.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
 
 secured: "Pw0M6X5ACXx0TrTUSyPEbl3v9UI7vcrdA2ErWLnqyPKOSTPL4kri70Z5TPUhsmAUkN8Zgkn5c4w/0HD/O5YuleX+I69CC7WG0pBzQ19OYbjZMA64G+S7/UIR3SCTMRBDyBbgamHJs4f+ZOkTV9EVXBK8yDM1ieXcMxJbbWddv+FBQtsQ2VigvrGlOGKgGFX94lMDW5f3iJRC0cDDS3R/UO9duGr6QtwJJktVCnUuS+4VjLOJAK5tdVYptrnZvLTm/XfXkwqRhiA8A2qBFfep1CCZpoOSZ8MLtcjGdzWaRxQJu6w+xJNEbFOJ8MlL/YupKStKehex7Q4jfkRSO9BHQwYdIited4CR9eECthBGGSHPZh1ccv1AbFcqmFt60NAO6T3E7xH/Vu01TEauDGjov/qH1AIP+o8S/qs0CrQGjU//H4VuA4ftELo+sAyF5iUncJIX/K8ykSLgrL53ibO70bbAh9yJtH7ZgqkKFufcXIq1dmhYV2L9HqLQbfHTQZxqaTlhQ7OdEJuJ5Mgei68cSg==;yTzOhea1Lp77TMw+RddPZg=="
 ---

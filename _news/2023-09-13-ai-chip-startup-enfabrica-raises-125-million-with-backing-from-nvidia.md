@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/ai-chip-startup-enfabrica-raise
 webUrl: "https://www.reuters.com/technology/ai-chip-startup-enfabrica-raises-125-mln-with-backing-nvidia-2023-09-12/"
 type: article
 quality: 84
-heat: 134
+heat: 104
 published: true
 
 provider:
@@ -29,34 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia-Backed AI Chip Networking Startup Enfabrica Lands $125M Series B"
-    excerpt: "The deal is the latest example of investors backing the actual hardware, chips and other infrastructure needed for generative AI modeling."
-    publishedDateTime: 2023-09-12T16:57:00Z
-    webUrl: "https://news.crunchbase.com/ai-robotics/enfabrica-ai-networking-chip-startup-funding-nvda/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 56
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/computer-chip.jpg"
-        width: 900
-        height: 506
-        isCached: true
-  - title: "Enfabrica Raises $125M Series B for AI Infrastructure Networking Chips"
-    excerpt: "Enfabrica Corporation, a startup building converged networking and memory fabric silicon and software for AI and accelerated computing workloads, today announced its close of a $125 million Series B financing round."
-    publishedDateTime: 2023-09-12T16:02:00Z
-    webUrl: "https://insidehpc.com/2023/09/enfabrica-raises-125m-series-b-for-ai-infrastructure-networking-chips/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 54
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2023/08/cover.jpg"
-        width: 843
-        height: 394
-        isCached: true
   - title: "AI chip startup Enfabrica raises $125m in venture capital"
     excerpt: "AI chip startup Enfabrica has successfully raised $125 million in venture capital. First reported by Reuters, the company is developing networking chips designed for artificial intelligence (AI) data centers and counts Nvidia as a strategic investor."
     publishedDateTime: 2023-09-13T15:25:00Z
@@ -85,15 +57,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "Enfabrica Raises $125 Million Series B to Fuel Ramp of AI Infrastructure Networking Chips"
-    excerpt: "The oversubscribed $125M Series B round was led by crossover firm Atreides Management, with supporting capital from Series A lead Sutter Hill Ventures, and new capital from IAG Capital, Liberty Global, NVIDIA, Valor Equity Partners, Infinitum and Alumni Ventures."
-    publishedDateTime: 2023-09-12T16:21:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/09/12/9879381.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 25
 
 secured: "DELtj0LPKRH4GfO0JCwOY++yCovpPgDQRVoPcZy0jwISsihcsMRJaWI2OWpIkI2euMObG9Lb3IaTlJqYg+CfAOdupNywEfaI5ghqtdFladmiGscP4eRXAb61qDsk57Bk13VlsBiPFRdRTLebNulTMpL7xYlq5xyvbeWj3LgskkSgs6EUqD382IFErGu5HUqmRJFKiiJg3UY1g4R4uXUCe2l5lRHRdQROFISYMzpDiqeV06f9qFvFXOIn0zPMhY/bge3sTXp85kqetCGwQPNcXqSyfzwYRI/vQkX4wNipgl2MFKS869+zL5FolALUSwBznzlBi7cxJhMhKJk8pco2Nq8LYO6T2fHuCHlbSMC3eYg=;pQpasuVTUozq4jBca7XRyw=="
 ---
