@@ -2,30 +2,26 @@
 category: news
 title: "Making AI smarter with an artificial, multisensory integrated neuron"
 excerpt: "The feel of a cat's fur can reveal some information, but seeing the feline provides critical details: is it a housecat or a lion? While the sound of fire crackling may be ambiguous, its scent confirms the burning wood."
-publishedDateTime: 2023-09-16T09:27:00Z
-originalUrl: "https://techxplore.com/news/2023-09-ai-smarter-artificial-multisensory-neuron.html"
-webUrl: "https://techxplore.com/news/2023-09-ai-smarter-artificial-multisensory-neuron.html"
-ampWebUrl: "https://techxplore.com/news/2023-09-ai-smarter-artificial-multisensory-neuron.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-ai-smarter-artificial-multisensory-neuron.amp"
+publishedDateTime: 2023-09-15T21:56:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2023/09/230915163314.htm"
+webUrl: "https://www.sciencedaily.com/releases/2023/09/230915163314.htm"
 type: article
-quality: 59
-heat: 59
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/making-ai-smarter-with.jpg"
-    width: 1500
-    height: 1125
-    isCached: true
-
-secured: "uwTMiM3N55IpL6P1aQPv/ipers1ir7W4Htg5QFsr0txpDBcLBT/TxzQ5cLn9yvcOn8Tma687Uzyoe0wvqCzGD9CKpfrhP3vEzlxTR4QbmpcHNtL2Du3lQkmVPBHDRHbLyISswRlcq2nhDWYR9hmUHxXsCSO38fIAYSywxr3XdovwIaQEClDiE3gjDnwgFVZxvssp9WA9s0dri+/WDVrNod27XsvOBgb4pkdoBRri+J0C6P0O+W2Cr0GmXIkbC2NIVl/G/Hg0NNVRlEL35+BFr96DEF/jr3OsfNoXQOBFJS2cu39FwC42ksIdxzLcPpDCuBZEIY+dt2s5Fj0Fm0gVSYYXiPg+5kuS3YHvx+Kbg+ZkVBwATRSIrvOa9ywIq2mQ6k2bPibK5PN8hPmW6wD+VAfLEaYtLQjPakdzLGjusS2BXfzRcb5muxN8FjtAG2GJ9Tx4OV9WAJPaC8mZmkXk9JWivEzXDL4Uo/wo56r7hukSE6UCVFhXYncqaeF8et+e1UDkKVeIkN7DFL2+r8n1Og==;Y5EYnwG5Txl/JRtV60tjCQ=="
+secured: "jcVEzXN7frwcSEPy9zy2hokX0A8J6k2Ir7N1ZY22nheFfQPR4e4K51ilcuPH2mZoxs+I5QKCbJYTYQpQo9rVUD1M6GXIY1pnkc+bfdGh20g6FI0xf/Ct73UGlBP+g1WarZoE+HPryOPgtlwVXGD9JljEXHXYy1F774Unrll+6yXb6Ag58kIKntowA+u1Zs86NX8CGpudqFtrF6ozbsXDgUuTYKIVRrYHNOJ4wjQJRQN7KBGSfViTr9Smh6ZzKpX0If7JwnmaB7lK9DDi9W+EoRNWTS+9Znw7SYbjjUs8r0lGVXolEpOFiou2qDk10uJtwSyI9V9IpBKSQ+wFqArsa/hN25r93yLyREEcC7sEfF0=;ts1+N/C6XuY4Qf0+SGIU0Q=="
 ---
 

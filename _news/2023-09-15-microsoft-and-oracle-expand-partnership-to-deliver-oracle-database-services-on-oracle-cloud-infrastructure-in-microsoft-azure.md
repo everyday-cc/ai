@@ -346,29 +346,6 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 49
-  - title: "Blumenthal-Led Subcommittee to Hear From Microsoft President on Artificial Intelligence"
-    excerpt: "Microsoft President Brad Smith and the chief scientist of NVIDIA Corporation are among the witnesses slated to offer testimony on artificial intelligence Tuesday before a Senate subcommittee led by U."
-    publishedDateTime: 2023-09-12T09:00:00Z
-    webUrl: "https://ctnewsjunkie.com/2023/09/12/blumenthal-led-subcommittee-to-hear-from-microsoft-president-on-artificial-intelligence/"
-    type: article
-    provider:
-      name: CT News Junkie
-      domain: ctnewsjunkie.com
-    quality: 46
-    images:
-      - url: "https://i0.wp.com/ctnewsjunkie.com/wp-content/uploads/2023/09/blumenthalmaroney.jpg?fit=1093%2C654&ssl=1"
-        width: 1093
-        height: 654
-        isCached: true
-  - title: "Tilde and Microsoft Collaborate Towards Inclusive Education With AI Speech-to-Text Technology"
-    excerpt: "Tilde, in partnership with Microsoft, aims to advance inclusive education through automatic speech recognition solutions."
-    publishedDateTime: 2023-09-12T08:20:00Z
-    webUrl: "https://slator.com/tilde-microsoft-collaborate-inclusive-education-ai-speech-to-text-technology/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 42
   - title: "Microsoft and Oracle Expand Partnership to Deliver Oracle Database Services on OCI in Microsoft Azure"
     excerpt: "and best-in-class services of Microsoft Azure, including best-in-class AI services like Azure OpenAI. This combination provides customers with more flexibility regarding where they run their workloads. It also provides a streamlined environment that ..."
     publishedDateTime: 2023-09-15T16:20:00Z
@@ -392,6 +369,15 @@ related:
       name: enterprisetalk
       domain: enterprisetalk.com
     quality: 34
+  - title: "Microsoft outlines framework for building AI apps and copilots … – Microsoft"
+    excerpt: "A copilot is an application that uses modern AI and large language models to assist you with a complex cognitive task – from writing a sales pitch or catching up on a missed meeting to generating images for a presentation or planning a themed dinner party."
+    publishedDateTime: 2023-09-17T01:16:00Z
+    webUrl: "https://www.inferse.com/718980/microsoft-outlines-framework-for-building-ai-apps-and-copilots-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 31
   - title: "CEOs of Meta, Alphabet, Microsoft and Nvidia set to talk AI with members of Congress"
     excerpt: "Expected to attend are Meta Platforms Inc. CEO Mark Zuckerberg, Alphabet Inc., and Google LLC CEO Sundar Pichai as well as former Google CEO Eric Schmidt."
     publishedDateTime: 2023-09-13T14:37:00Z
@@ -410,15 +396,6 @@ related:
       name: SpaceNews
       domain: spacenews.com
     quality: 19
-  - title: "Microsoft Says It Will Provide Protection From Copyright Claims To Customers Using its Copilot AI Services"
-    excerpt: "Such protection is applicable specifically for paid versions of Microsoft commercial Copilot services and Bing Chat Enterprise, which includes Microsoft 365 Copilot and GitHub Copilot. The ..."
-    publishedDateTime: 2023-09-12T08:40:00Z
-    webUrl: "https://www.medianama.com/2023/09/223-microsoft-protection-copyright-claimscustomers-copilot-ai-services/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 16
 
 secured: "3Cp+Ha90qsq0v2riE61gzSZ0S7j801NeJH1JGFGIBgDSmXn+nIbzRoyXVjxU8gfqs1cIzwLiv2KWczbM6ilMwzutznY0V77a8lk+WSsJSrQ6Nl78jSd/hn+CCoyL1fbn0+tcGDbjdJvp/zQ8tBn5idDcOdilcW8xxjrbVU1zUjch55QHR+jRfewGI6dSXdeyJxqWENUNrvDd7kY2uD5ye8888NglwqO1B0Halq+Zqd3hio/4jYlRn3zAc7sk/HD1N5oxcPdpRZutHcguSR/XEwX6C3tD5YW2tY3Np3gU0SXguwaJRzEptaRYAet9glcfNg/EO2Ts9DglAcwkrf+FTHYF22t6Ibf0oJNrqMc5Fco=;fFcgH9XSWMxJcRIeKh+cFw=="
 ---

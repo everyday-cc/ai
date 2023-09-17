@@ -40,22 +40,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "California firefighters use AI to battle wildfires"
-    excerpt: "Neal Driscoll says the AI system for spotting wildfires is already offering a jump on about 40 percent of fires, and he expects it to get more effective. Over the last few years, its application has spread to include areas as diverse as weather forecasting, stock-picking, art and journalism."
-    publishedDateTime: 2023-09-12T08:31:00Z
-    webUrl: "https://phys.org/news/2023-09-california-firefighters-ai-wildfires.html"
-    ampWebUrl: "https://phys.org/news/2023-09-california-firefighters-ai-wildfires.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-california-firefighters-ai-wildfires.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/computers-are-learning.jpg"
-        width: 1280
-        height: 852
-        isCached: true
   - title: "California Has a New Bill to Ban Self-Driving Trucks"
     excerpt: "California's Senate has passed a bill that would require the presence of a human safety operator whenever a self-driving truck is operating ... lot of the arguments that surround the rise of artificial intelligence across plenty of other industries."
     publishedDateTime: 2023-09-13T00:49:00Z

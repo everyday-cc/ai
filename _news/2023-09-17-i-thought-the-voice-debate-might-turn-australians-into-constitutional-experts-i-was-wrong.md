@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Less 1:N facial recognition searches, data sharing proposed in Australia gov’t ID bills"
-excerpt: "The Identity Verification Services Bill 2023 would block most of the planned government uses of one-to-many facial recognition."
-publishedDateTime: 2023-09-13T20:09:00Z
-originalUrl: "https://www.biometricupdate.com/202309/less-1n-facial-recognition-searches-data-sharing-proposed-in-australia-govt-id-bills"
-webUrl: "https://www.biometricupdate.com/202309/less-1n-facial-recognition-searches-data-sharing-proposed-in-australia-govt-id-bills"
+title: "I thought the voice debate might turn Australians into constitutional experts. I was wrong"
+excerpt: "It was when the referendum became partisan that we lost the chance of putting it clearly in its historical context"
+publishedDateTime: 2023-09-16T23:06:00Z
+originalUrl: "https://www.theguardian.com/commentisfree/2023/sep/17/indigenous-voice-to-parliament-referendum-australian-constitution"
+webUrl: "https://www.theguardian.com/commentisfree/2023/sep/17/indigenous-voice-to-parliament-referendum-australian-constitution"
+ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/sep/17/indigenous-voice-to-parliament-referendum-australian-constitution"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/sep/17/indigenous-voice-to-parliament-referendum-australian-constitution"
 type: article
-quality: 31
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Biometric Companies
-  domain: biometricupdate.com
+  name: The Guardian
+  domain: theguardian.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/07/10101537/face-biometric-close-up.jpg"
-    width: 1312
-    height: 1325
+  - url: "https://i.guim.co.uk/img/media/0ebed0c34f80c6e1cb9b83f4aaa855a4844bd750/0_484_8192_4918/master/8192.jpg?width=620&quality=85&auto=format&fit=max&s=391390a23a57074d6594f61577a4ce21"
+    width: 620
+    height: 372
     isCached: true
 
 related:
@@ -57,21 +63,19 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "I thought the voice debate might turn Australians into constitutional experts. I was wrong"
-    excerpt: "It was when the referendum became partisan that we lost the chance of putting it clearly in its historical context"
-    publishedDateTime: 2023-09-16T23:06:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/sep/17/indigenous-voice-to-parliament-referendum-australian-constitution"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/sep/17/indigenous-voice-to-parliament-referendum-australian-constitution"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/sep/17/indigenous-voice-to-parliament-referendum-australian-constitution"
+  - title: "Less 1:N facial recognition searches, data sharing proposed in Australia gov’t ID bills"
+    excerpt: "The Identity Verification Services Bill 2023 would block most of the planned government uses of one-to-many facial recognition."
+    publishedDateTime: 2023-09-13T20:09:00Z
+    webUrl: "https://www.biometricupdate.com/202309/less-1n-facial-recognition-searches-data-sharing-proposed-in-australia-govt-id-bills"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 34
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 31
     images:
-      - url: "https://i.guim.co.uk/img/media/0ebed0c34f80c6e1cb9b83f4aaa855a4844bd750/0_484_8192_4918/master/8192.jpg?width=620&quality=85&auto=format&fit=max&s=391390a23a57074d6594f61577a4ce21"
-        width: 620
-        height: 372
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/07/10101537/face-biometric-close-up.jpg"
+        width: 1312
+        height: 1325
         isCached: true
   - title: "‘Not easy’: Country’s Voice lesson for Australia"
     excerpt: "As Australians gear up to have their say on an Indigenous Voice to parliament in a matter of weeks, one country has been reaping the rewards of a similar style model for decades."
@@ -85,6 +89,6 @@ related:
       domain: news.com.au
     quality: 24
 
-secured: "2UPvp+R+zNnKYX3//T2dHZQTm1RiKYSFdLCfU5RVf9qwxZDSQ2pq+MCtPBd/pqk1+vNAWRFoKdcOIf4E48lFUcDRWS6Tp5K0CiKkdTs9p5ruX2SB0h+OhUvNrNdtLDsPUi3Hb8H3PdEPfFTNgP8tBQ/59k/TruXP4LHeXfgP4uBeGzZ42weuPsZqIKqTj9EapGcZK4jzLa0hF/knu2SEkT07i2/4K5JYIrScI9OgZF3Jcb8Ouv0Lp2tCZzgzkQqkRRccNdIP0vqLS7Q/kZBWRWAOCeH7xu6zgThnFEHgeJR6XU1KY6rMEzvxkJagCdsFOtMGs+pWFPZD7vGAE6S3s01ObHnzHd0mecOrQhYpWTAtZIFFlhxzGwrILbArZSfIFo90UihMwxthllTV/4NzTdpKExAoczN3iqL6tJlZCGa+FkY/iwoFTkx9c6Wi6+5R1+4njTkKve6/gghsOWTNNTKjoszLW9YdkKWmBr7kEWGLsrdFyJUl2vDnRElvwTGSrFyxefy47slQGO5ZlGESog==;UrhxLWrM8j8SCPkbB4pNbw=="
+secured: "o7VWDOQXn+AEfGNUcZEeaPh7Pnxm9xvi798nMv7/gcax+3rxRtdKoEScwf/5bzyRvuAZozHy0GdQaAnj6hAFGHaLnuoLhlg7npygIWCnmc0uR7HIrZ+pSDX0cTpNIKZAJGIMirkjSVtMVZwymDD6nYywjLyfUOXB7dP4sUg4v0tU9LH9rkINrm+2pH89IghkcENChO/Y6zMbqkIdn5DBGNk2OhaInHcBb/RLlC7cz7qz6dfpqK28nqUDKi/yIR4yU4O+/4BaW4E4T+LtgXf3I8a9lmC98XhAA1OG1MmG77uD1/w1sabIjAuTCZxagdcXbel/O5JGEfAjw8wQbXPpog5pPvYWMEuO2+7qtXWEV3o=;x4ChP6I1ifcmR6yKP3Ndng=="
 ---
 

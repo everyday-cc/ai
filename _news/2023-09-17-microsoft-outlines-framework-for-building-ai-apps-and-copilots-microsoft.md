@@ -1,34 +1,22 @@
 ---
 category: news
-title: "Microsoft Copilot vs. Google Duet: battle of the next-gen AI smart assistants"
-excerpt: "If you’re a regular user of Google’s services and apps, then Duet is likely better for you. If you use Teams and Microsoft Office applications, Copilot is by far the better choice. If we had ..."
-publishedDateTime: 2023-09-12T18:55:00Z
-originalUrl: "https://www.digitaltrends.com/computing/microsoft-copilot-vs-google-duet/"
-webUrl: "https://www.digitaltrends.com/computing/microsoft-copilot-vs-google-duet/"
-ampWebUrl: "https://www.digitaltrends.com/computing/microsoft-copilot-vs-google-duet/?amp"
-cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-copilot-vs-google-duet/?amp"
+title: "Microsoft outlines framework for building AI apps and copilots … – Microsoft"
+excerpt: "A copilot is an application that uses modern AI and large language models to assist you with a complex cognitive task – from writing a sales pitch or catching up on a missed meeting to generating images for a presentation or planning a themed dinner party."
+publishedDateTime: 2023-09-17T01:16:00Z
+originalUrl: "https://www.inferse.com/718980/microsoft-outlines-framework-for-building-ai-apps-and-copilots-microsoft/"
+webUrl: "https://www.inferse.com/718980/microsoft-outlines-framework-for-building-ai-apps-and-copilots-microsoft/"
 type: article
-quality: 101
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Digital Trends
-  domain: digitaltrends.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Inferse
+  domain: inferse.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://www.digitaltrends.com/wp-content/uploads/2023/03/Microsoft-Copilot-in-Office-apps.jpg?resize=1200%2C630&p=1"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Oracle brings its database infrastructure to Microsoft Azure"
@@ -46,6 +34,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-528022874.jpg?w=1024"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Microsoft Copilot vs. Google Duet: battle of the next-gen AI smart assistants"
+    excerpt: "If you’re a regular user of Google’s services and apps, then Duet is likely better for you. If you use Teams and Microsoft Office applications, Copilot is by far the better choice. If we had ..."
+    publishedDateTime: 2023-09-12T18:55:00Z
+    webUrl: "https://www.digitaltrends.com/computing/microsoft-copilot-vs-google-duet/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/microsoft-copilot-vs-google-duet/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-copilot-vs-google-duet/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 101
+    images:
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/03/Microsoft-Copilot-in-Office-apps.jpg?resize=1200%2C630&p=1"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Microsoft Surface Laptop Studio 2, Laptop Go 4 Details Leak Ahead of AI Event"
     excerpt: "Some needed upgrades for the two-year-old Surface Laptop Studio seem to be imminent. Microsoft's upcoming special event on Sept. 21 is going to be more of the \"let us tell you about how wonderful our AI is\" that seems to be in this year's marketing playbook,"
@@ -361,15 +365,6 @@ related:
       name: enterprisetalk
       domain: enterprisetalk.com
     quality: 34
-  - title: "Microsoft outlines framework for building AI apps and copilots … – Microsoft"
-    excerpt: "A copilot is an application that uses modern AI and large language models to assist you with a complex cognitive task – from writing a sales pitch or catching up on a missed meeting to generating images for a presentation or planning a themed dinner party."
-    publishedDateTime: 2023-09-17T01:16:00Z
-    webUrl: "https://www.inferse.com/718980/microsoft-outlines-framework-for-building-ai-apps-and-copilots-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 31
   - title: "CEOs of Meta, Alphabet, Microsoft and Nvidia set to talk AI with members of Congress"
     excerpt: "Expected to attend are Meta Platforms Inc. CEO Mark Zuckerberg, Alphabet Inc., and Google LLC CEO Sundar Pichai as well as former Google CEO Eric Schmidt."
     publishedDateTime: 2023-09-13T14:37:00Z
@@ -398,6 +393,6 @@ related:
       domain: microsoft.com
     quality: 7
 
-secured: "+ly7d+oUt+40vZymN16isbq1JQCQ0ofTPR5D98LRItx6UKdjndZoi3CEpeuJ4zuYgoxSmjYWbExT2Mw+j46W4H9seg1fw9/SfqqwMLUKex8RuWgfAFVN51k5GLcxe7PDKTc9arMASx3Nxa9FbhZxHJe3LC6oEqLxokVfN7rd3CbKiKTuvd1f+8o/0KMTTFykgUMZW8ekMJ92PqQGtFOMb2JXuudqdEIMeI7jcECIf3bc7EczRxoqasShmhTcsHnVWjXWTXmVuSln++SuCKsmXXiW7gpiD1S12KHILQB4I7t0NFxkiBy2XGA8Zi6XVetfY2WrAj/xecJWpzKmu1Go0RyYzx1V7ur2b0a6yzUNwEA=;gEqmSp4mhXUScJTMHTf6EA=="
+secured: "LaebK/N8ZvvGMUj1vaa9eVgs2/65SufKXwM8ZD0CQoWLHHCv9rqSyp3YjOp8C9xKi+EBSRXFvpCoavxqOymh063MYaoDYh4jokRIUzuTlzODASkCUcJAcNuFUONiQevRHWsO+v2fI5BwzCqHcI0rEb88ZJEYfqhwrovDeDUuJgSoeSpdYebyZk3vbAwUrtdMDJq6jl8DXoDOahEvzmmKv4VJwTRxsiO9MXW7qvoOrUweXMz8TtFltfNvXoHgmsFstUl1Me3vdKEDHq2/thNugh/OOBaphXUlyVADv9qcQoonH+n3U/4vR1oMMTC3rQKacxFMPFNsfoeYTO6NCJONyzb9Fg+XWb7ZQnhyNjQDaj0=;8Suwm2G/G7SLZdjqoQWUXw=="
 ---
 

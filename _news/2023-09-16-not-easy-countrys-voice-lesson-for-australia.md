@@ -53,6 +53,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "I thought the voice debate might turn Australians into constitutional experts. I was wrong"
+    excerpt: "It was when the referendum became partisan that we lost the chance of putting it clearly in its historical context"
+    publishedDateTime: 2023-09-16T23:06:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2023/sep/17/indigenous-voice-to-parliament-referendum-australian-constitution"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/sep/17/indigenous-voice-to-parliament-referendum-australian-constitution"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/sep/17/indigenous-voice-to-parliament-referendum-australian-constitution"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 34
+    images:
+      - url: "https://i.guim.co.uk/img/media/0ebed0c34f80c6e1cb9b83f4aaa855a4844bd750/0_484_8192_4918/master/8192.jpg?width=620&quality=85&auto=format&fit=max&s=391390a23a57074d6594f61577a4ce21"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Less 1:N facial recognition searches, data sharing proposed in Australia gov’t ID bills"
     excerpt: "The Identity Verification Services Bill 2023 would block most of the planned government uses of one-to-many facial recognition."
     publishedDateTime: 2023-09-13T20:09:00Z
