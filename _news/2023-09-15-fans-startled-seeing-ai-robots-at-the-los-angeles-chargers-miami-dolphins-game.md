@@ -9,7 +9,7 @@ ampWebUrl: "https://www.oregonlive.com/sports/2023/09/fans-startled-seeing-ai-ro
 cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/sports/2023/09/fans-startled-seeing-ai-robots-at-the-los-angeles-chargers-miami-dolphins-game.html?outputType=amp"
 type: article
 quality: 70
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/5tQ6HG-wGA8Bxjt6Nq1RHzmoQuM=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/727FVPCSCFBVLCOKRAI3UECCGE.jpg"
         width: 1440
         height: 810
-        isCached: true
-  - title: "AI robots from The Creator spotted at Chargers game"
-    excerpt: "As part of a promotional stunt for new sci-fi drama The Creator, AI robots were spotted at an LA Chargers game."
-    publishedDateTime: 2023-09-12T10:33:00Z
-    webUrl: "https://www.dexerto.com/tv-movies/the-creator-ai-robots-spotted-at-chargers-game-2289079/"
-    type: article
-    provider:
-      name: Dexerto
-      domain: dexerto.com
-    quality: 54
-    images:
-      - url: "https://editors.dexerto.com/wp-content/uploads/2023/09/12/the-creator-robot-ai.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Video: AI robots with ‘human’ faces seen at NFL game"
     excerpt: "AI robots were featured during the NFL's week one matchup between the Los Angeles Chargers and the Miami Dolphins at SoFi Stadium."

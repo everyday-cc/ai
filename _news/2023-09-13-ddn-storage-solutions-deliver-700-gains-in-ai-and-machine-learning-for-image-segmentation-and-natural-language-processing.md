@@ -42,6 +42,20 @@ related:
         width: 1100
         height: 550
         isCached: true
+  - title: "DDN Shows Strong Results in Inaugural MLPerf AI Storage Benchmark"
+    excerpt: "DDN, a global leader in artificial intelligence (AI) and multi-cloud data management solutions, today announced"
+    publishedDateTime: 2023-09-13T16:47:00Z
+    webUrl: "https://www.datanami.com/this-just-in/ddn-shows-strong-results-in-inaugural-mlperf-ai-storage-benchmark/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/09/datadirect_networks_logo-300x206.jpg"
+        width: 300
+        height: 206
+        isCached: true
 
 secured: "CzZjk3i0ki8W9CEg/oc2fNgshcRBrFRthVNsLne8sbhcQrUzVRgfwIWgOSVYZ/ToyYlm0ZbG7FuiDIcWnGx9zcHAJDUpqOvja/GfD29hF02sziLysKDd5TVydvZbl30AUg0DsadsnOkebL9SDFbA9oS3iFAOum5XHj8YtbVLHv4LoT7kHOSZmsordWrSVMCfRoveWO3V5+AAd9V1drRlg9BTWceqse2nYldNuMS9dqlhQrcVF1kUMcIf+Vv8wlYO+NaJLlqGPaDerrVIgwMIbLRJJKzIGAsLlsI3CauIOJ6JhUjxVKwdop7PK8zgx3sryg8b4I6aXc0CkQLV9Fs1GFbo5DlODLZDA6RzQzM6uaeFQ28El5+HWUjRBLiHzRHs+mBNUFkiys3vAwWZVUSlfRP/AWNrAz0JA8oZZ3gsQy8JJsCpGyHCyedSWQRczbHuAlo3QT87qs2nigwMAE9i/sCdkmdM+cw9LbmfjgB/PZf5DrCAxh0sV0Asrb8IlWtBaV9kn4jur9lKnmMQ3Jig9A==;fjWsZnxGVycXmtzkDHibHg=="
 ---

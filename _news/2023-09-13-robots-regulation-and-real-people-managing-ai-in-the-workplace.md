@@ -7,7 +7,7 @@ originalUrl: "https://www.thebanker.com/Robots-regulation-and-real-people-managi
 webUrl: "https://www.thebanker.com/Robots-regulation-and-real-people-managing-AI-in-the-workplace-1694591764"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 3000
     height: 1687
     isCached: true
+
+related:
+  - title: "Congress huddles with tech experts in new push for AI rules: ‘There will be regulation’"
+    excerpt: "Senators are meeting with leading Big Tech executives this week as part of a new push to write rules for artificial intelligence focused on limiting danger and safeguarding innovation."
+    publishedDateTime: 2023-09-12T19:56:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/sep/12/congress-huddles-tech-experts-new-push-ai-rules-th/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 11
 
 secured: "UwgaDzy4bVroUbI69lmfxo63iiis0rY3sPyriYWFCmUJ3zYP5oRlcYHvAxzpmOQx49VUNInQoh4FXULLdiHNIbZgfeyRE9sBRK8fuuw+SGv5rMp2hEaCyKu9TYFjBOSRWttviZNjTervIS3aHNYb2OnH8x2pTi6Q9dBXZCatwJC0wVp2HPpjBRwwNt1+5xarDfH342piYTk31HR4DcVf1dj4x2oFCDEK5qUtBbMsSkg/9k07AUPJGLcJLta/KF9YvZZ5xDNrXopqnGje+eYfj/tAzkjx2jwy93wguimi2ApxwpWaRr0HlRQUJYTUXwTx7rKTzJenOZH+ybp7FEYx5h9nznDDRSMK2aVPriRpjqF7zO3hTUA811NmNCW96UsXo2FlVqaffh1IM5PhvgoYxqaEpr2DdpXaT1lyu0Y/COVcWrfVBfpSxW84DnWzo5zz9C3cNFbXcz19S9QbL0lT4HpER64KgSFV3XZe9oCiu3y3wNFeHCx3Ya8szzyF1Z7TF/j+sWpDB0f0Nycm3Z3Isw==;SUSS4Wm6R24PXFk1uDIrww=="
 ---

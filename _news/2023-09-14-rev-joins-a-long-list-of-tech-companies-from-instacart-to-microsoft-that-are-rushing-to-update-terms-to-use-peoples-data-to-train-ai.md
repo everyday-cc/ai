@@ -92,22 +92,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Microsoft SMME skills initiative focuses on AI"
-    excerpt: "According to a statement, the tech giant will equip SMMEs for an AI-powered future, setting them on a trajectory of sustainable growth through the Microsoft for Start-ups Founders Hub, which provides entrepreneurs with free technology resources."
-    publishedDateTime: 2023-09-12T09:27:00Z
-    webUrl: "https://www.itweb.co.za/content/8OKdWMDXKJNMbznQ"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/8OKdWMDXKJNMbznQ"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/8OKdWMDXKJNMbznQ"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 74
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2023/09/AI-innovation-2023.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Google AI Head On Data Privacy, GenAI Lead Vs. AWS, Microsoft"
     excerpt: "Moyer, global vice president of Google’s artificial intelligence business ... Moyer was managing director of global financial services at AWS in charge of AWS sales, technical and customer experience teams that supported some of AWS’ largest customers."
     publishedDateTime: 2023-09-13T15:55:00Z

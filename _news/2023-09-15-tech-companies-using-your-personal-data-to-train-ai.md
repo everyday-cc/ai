@@ -23,22 +23,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "White House secures AI safeguard agreements from eight additional tech companies"
-    excerpt: "Eight new-technology companies – including Adobe, IBM, Nvidia, Palantir and Salesforce – are making voluntary commitments on artificial intelligence, a senior Biden administration official told CNN, as the White House looks to safeguard development of the emerging technology while working toward more comprehensive regulation."
-    publishedDateTime: 2023-09-12T10:00:00Z
-    webUrl: "https://ktvz.com/politics/cnn-us-politics/2023/09/12/white-house-secures-ai-safeguard-agreements-from-eight-additional-tech-companies/"
-    type: article
-    provider:
-      name: KTVZ
-      domain: ktvz.com
-    quality: 34
-    images:
-      - url: "https://ktvz.b-cdn.net/2023/08/T6W6K2eT-ktvz-860x484.jpg"
-        width: 860
-        height: 484
-        isCached: true
-
 secured: "I+nBHk84QRcVYYxbpCr0dMlxiNeQNKGa9fOgdqvzprduSCXyIxqc764V6aNZhsrv3hdJh1/gppNNt+0xEaUgcsMY6H8TcomqKhIWgCL5zdoyzN44xgnK8DaLiIb4bWPwq4HM2oFbRs3MoK5VsT4Qscu0Ugi21JoK2oB03Jljhz7tZJAR3rYUZpq60+IgML843jFm2czeHQbqLh4aKg1eNzEKyBHvcUkyb0o/vvPbPACinR8/3Xv+8KVzVmhjJD0t+yHjPB/5ym4oXtNfHWfjUm91Ib3gNxernauwnq1CZY9RkVa4cWyqWI+UMAwZnEUr7l1dpj96wPuHDRoJZimFs7YqNc/8pWNAX6udD4UbL1E=;FFp0A0Elyz8YB4VjWC+ymA=="
 ---
 

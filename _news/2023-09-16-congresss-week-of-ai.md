@@ -194,6 +194,20 @@ related:
         width: 700
         height: 463
         isCached: true
+  - title: "How scientists are using artificial intelligence"
+    excerpt: "Automating and speeding up physical experiments and laboratory work is another area of interest. “Self-driving laboratories” can plan an experiment, execute it using a robotic arm, and then analyse the results. Automation can make discovering new compounds, or finding better ways of making old compounds, up to a thousand times faster."
+    publishedDateTime: 2023-09-13T21:52:00Z
+    webUrl: "https://www.aol.com/finance/scientists-using-artificial-intelligence-185204515.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_the_economist_398/bae84b4d519fcdddc9fc85fd84d2acd5"
+        width: 608
+        height: 739
+        isCached: true
   - title: "My life as an AI chatbot operator"
     excerpt: "Targeting writing and other humanities programmes was a canny recruiting decision. Aspiring writers and artists tend to be detail-oriented, emotionally astute and experienced in writing dialogue – useful traits to impart to a bot that is meant to emulate humans. And many want work that can complement and sustain creative projects or teaching."
     publishedDateTime: 2023-09-15T10:52:00Z
@@ -208,15 +222,6 @@ related:
         width: 6500
         height: 3656
         isCached: true
-  - title: "Guidelines on artificial intelligence"
-    excerpt: "Artificial intelligence is rapidly evolving and transforming industries, including the media. Here is Rappler's approach to AI. Recognizing the rise of artificial intelligence, Rappler is taking ..."
-    publishedDateTime: 2023-09-12T09:24:00Z
-    webUrl: "https://www.rappler.com/about/guidelines-artificial-intelligence-usage-development/"
-    type: article
-    provider:
-      name: Rappler
-      domain: rappler.com
-    quality: 19
   - title: "Swoop Launches Predictive AI Adherence Targeting"
     excerpt: "Swoop Predictive AI Adherence Targeting uncovers the patients most likely to become non-adherent within the next 30 days for highly precise marketing."
     publishedDateTime: 2023-09-12T16:00:00Z

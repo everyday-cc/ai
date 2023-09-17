@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3706988/salesforce-readies-ai-assi
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706988/salesforce-readies-ai-assistant-for-crm.amp.html"
 type: article
 quality: 119
-heat: 269
+heat: 259
 published: true
 
 provider:
@@ -99,22 +99,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2018/02/istock-642810122-e1595440276773.jpg?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Dreamforce 2023 - how to be an AI Pioneer, according to IBM's State of Salesforce study"
-    excerpt: "The State of Salesforce report has a number of recommendations here. Approach generative AI as a team sport. IBM’s CEO research concludes that 55% of stakeholders, including customers, boards of directors, and investors - are urging CEOs to accelerate ..."
-    publishedDateTime: 2023-09-12T11:03:00Z
-    webUrl: "https://diginomica.com/dreamforce-2023-how-be-ai-pioneer-according-ibms-state-salesforce-study"
-    ampWebUrl: "https://diginomica.com/dreamforce-2023-how-be-ai-pioneer-according-ibms-state-salesforce-study?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/dreamforce-2023-how-be-ai-pioneer-according-ibms-state-salesforce-study?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 51
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-09/Screenshot%202023-09-08%20at%2010.27.06.png"
-        width: 874
-        height: 704
         isCached: true
   - title: "Dreamforce 2023 - Salesforce COO Brian Millham on IT budgets, AI investment and loving his job"
     excerpt: "An ideal person to answer that question is Brian Millham, the firm’s Chief Operating Officer and a man who’s been with the company since 1999 when he was employee 13. If anyone’s in a position to comment on how things have changed over the past year, it’s him. His response is refreshingly candid:"

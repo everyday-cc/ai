@@ -43,20 +43,6 @@ related:
         width: 1940
         height: 1195
         isCached: true
-  - title: "AI robots from The Creator spotted at Chargers game"
-    excerpt: "As part of a promotional stunt for new sci-fi drama The Creator, AI robots were spotted at an LA Chargers game."
-    publishedDateTime: 2023-09-12T10:33:00Z
-    webUrl: "https://www.dexerto.com/tv-movies/the-creator-ai-robots-spotted-at-chargers-game-2289079/"
-    type: article
-    provider:
-      name: Dexerto
-      domain: dexerto.com
-    quality: 54
-    images:
-      - url: "https://editors.dexerto.com/wp-content/uploads/2023/09/12/the-creator-robot-ai.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Video: AI robots with ‘human’ faces seen at NFL game"
     excerpt: "AI robots were featured during the NFL's week one matchup between the Los Angeles Chargers and the Miami Dolphins at SoFi Stadium."
     publishedDateTime: 2023-09-13T16:42:00Z

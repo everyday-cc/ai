@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI chip startup Enfabrica raises $125 mln, with backing from Nvidia"
-    excerpt: "Enfabrica, a Silicon Valley chip startup working on networking chips for artificial intelligence data centers, said on Tuesday that it has raised $125 million in venture capital, with Nvidia joining as a strategic investor."
-    publishedDateTime: 2023-09-12T09:26:00Z
-    webUrl: "https://www.reuters.com/technology/ai-chip-startup-enfabrica-raises-125-mln-with-backing-nvidia-2023-09-12/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://www.reuters.com/resizer/5ccws5i9lMfwHWfZpThzWDo6z18=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PC3XN3V5DZJZPELJFOE4NKYHKA.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "AI chip startup Enfabrica raises $125 million, with backing from Nvidia"
     excerpt: "But Nvidia's graphics processing unit (GPU) chips face a problem ... \"It's no secret to Nvidia or anybody else out there that in order for AI computing to become truly ubiquitous, the cost ..."
     publishedDateTime: 2023-09-13T02:22:00Z
@@ -66,20 +52,6 @@ related:
       - url: "https://news.crunchbase.com/wp-content/uploads/computer-chip.jpg"
         width: 900
         height: 506
-        isCached: true
-  - title: "AI chip startup Enfabrica raises $125 million, with backing from Nvidia"
-    excerpt: "Enfabrica, a Silicon Valley chip startup working on networking chips for artificial intelligence data centers, said on"
-    publishedDateTime: 2023-09-12T10:26:00Z
-    webUrl: "https://kelo.com/2023/09/12/ai-chip-startup-enfabrica-raises-125-million-with-backing-from-nvidia/"
-    type: article
-    provider:
-      name: KELO
-      domain: kelo.com
-    quality: 54
-    images:
-      - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2023-09/12/2023-09-12T102646Z_1_LYNXMPEJ8B0AM_RTROPTP_3_ANT-AI.JPG"
-        width: 800
-        height: 534
         isCached: true
   - title: "AI chip startup Enfabrica raises $125m in venture capital"
     excerpt: "AI chip startup Enfabrica has successfully raised $125 million in venture capital. First reported by Reuters, the company is developing networking chips designed for artificial intelligence (AI) data centers and counts Nvidia as a strategic investor."

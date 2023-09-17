@@ -52,6 +52,90 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Elon Musk, Mark Zuckerberg and Sam Altman talk AI regs in Washington"
+    excerpt: "The world’s web and tech leaders met with Congress to discuss the rise of artificial intelligence and the pressing need for its regulation."
+    publishedDateTime: 2023-09-14T05:12:00Z
+    webUrl: "https://cointelegraph.com/news/elon-musk-sam-altman-bill-gates-discusses-ai-with-congress"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 39
+    images:
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDkvNGRkMDAwYWYtODdhZi00MWNiLWJhZDQtY2Y0YjAzNmI2ZDRhLmpwZw==.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Tech leaders including Musk, Zuckerberg call for government action on AI"
+    excerpt: "Meta CEO Mark Zuckerberg, OpenAI CEO Sam Altman, and Microsoft co-founder Bill Gates offered diverging views on the risks of open-source AI research, according to people in the room."
+    publishedDateTime: 2023-09-14T00:13:00Z
+    webUrl: "https://www.pressherald.com/2023/09/13/tech-leaders-discuss-ai-policy-in-closed-door-senate-meeting/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 38
+    images:
+      - url: "https://w2pcms.com/wp-content/uploads/sites/10/2023/09/ai-senate-bg-5d8f1cd2-5269-11ee-9b7a-651fb7f6d786.jpg?w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "'Overwhelming consensus' to regulate AI, says Elon Musk"
+    excerpt: "Top tech leaders, including Elon Musk, Mark Zuckerberg, Sundar Pichai and Bill Gates, met with US lawmakers on Wednesday to discuss AI governance. 'This meeting may go down in history as being very important for the future of civilisation,' Musk said."
+    publishedDateTime: 2023-09-13T23:08:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/world-us-canada-66805038"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 37
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/3466/production/_131041431_p0gdfsjh.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Senate hosts Elon Musk and other tech leaders for AI regulation talks"
+    excerpt: "Senate Majority Leader Chuck Schumer called on the biggest names in tech for a bipartisan forum Wednesday on how lawmakers should approach artificial intelligence. CBS News senior business and tech correspondent Jo Ling Kent has more."
+    publishedDateTime: 2023-09-14T00:49:00Z
+    webUrl: "https://www.cbsnews.com/video/senate-hosts-elon-musk-tech-leaders-ai-regulation/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/14/eacff1ac-9102-4fb3-b092-bc52256724ed/thumbnail/1200x630/aa434577c43d08525c275a123239ce33/cbsn-fusion-what-concerns-major-issues-a-i-regulation-draws-thumbnail-2288760-640x360.jpg?v=b4264bc5922d2f5b2145bedc5a4d101e"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Tech industry leaders endorse regulating artificial intelligence at rare summit in Washington"
+    excerpt: "Senate Majority Leader Chuck Schumer has been talking for several months about accomplishing a potentially impossible task: Passing bipartisan legislation within the next year that both encourages the rapid development of artificial intelligence and"
+    publishedDateTime: 2023-09-13T06:47:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/closed-forum-tech-titans-give-senators-advice-artificial-103142197"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 26
+    images:
+      - url: "https://i.abcnewsfe.com/a/da88065d-e58b-4c71-9de9-c23764279ca6/wirestory_efcfb1067d68ad2f595db7e92167943c_16x9.jpg?w=992"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Bill Gates, Elon Musk and Mark Zuckerberg meeting in Washington to discuss future AI regulations"
+    excerpt: "Spread the loveIn a groundbreaking meeting, three of the world’s most influential tech leaders – Microsoft co-founder Bill Gates, Tesla and SpaceX CEO Elon Musk, and Facebook CEO Mark Zuckerberg – convened in Washington,"
+    publishedDateTime: 2023-09-15T14:20:00Z
+    webUrl: "https://www.thetechedvocate.org/bill-gates-elon-musk-and-mark-zuckerberg-meeting-in-washington-to-discuss-future-ai-regulations/"
+    type: article
+    provider:
+      name: thetechedvocate.org
+      domain: thetechedvocate.org
+    quality: 26
+    images:
+      - url: "https://www.thetechedvocate.org/wp-content/uploads/2019/01/T1-660x400.jpg"
+        width: 660
+        height: 400
+        isCached: true
 
 secured: "0DXQ3rCLcI/OQFvYAPTgQ0oHOVuNcs7WiE12wag3MMnQKQGKupbWLf8pZRKNGtmc8YPAYK5Pbq63HRA6qJV1Pcgrj+sganJTW0TsG2lk7sAjHqXVS4GnXu4d93Pzfr5E5C+4QDT3BIORntIiIHTB1HXUvDEgEXHjtmx7JLLMmRa1yscUMIsV0BBKylvXiC8G2Un008KW+w27wIKzNyOVThl+PFcGu/fwPWSTwYOil7hqEbJTfivGm8kJA72/ogFj3CcZW6QGQ1b2xIZFPUE3iYxF5Q7AqIOYxp2vPyho7tPi025XsK7bq6IeJAztDq3kFzEVxYnz7qLwk5YtUPNCsmpGNha4vuycNFK52xVydWsKsMQZ4/dX5BEydEpRjSxQ3ExPWyPkXEUFcZ0lFnwBky9lkhULSyrmOcjWj1LkHfqYAnQfQoJae8qMQHM4n+sTzePRuQnHL/Iy0jdv3G77dUa4T30Z/gc1RtShjlrevJP566TZlu7sTDaK0bg52/egKmwkBuGlCbI1zX2X2BGATA==;9SgB8sS5CW2QIQlXvAiUxg=="
 ---

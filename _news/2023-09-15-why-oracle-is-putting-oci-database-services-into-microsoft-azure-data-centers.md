@@ -87,22 +87,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Microsoft SMME skills initiative focuses on AI"
-    excerpt: "According to a statement, the tech giant will equip SMMEs for an AI-powered future, setting them on a trajectory of sustainable growth through the Microsoft for Start-ups Founders Hub, which provides entrepreneurs with free technology resources."
-    publishedDateTime: 2023-09-12T09:27:00Z
-    webUrl: "https://www.itweb.co.za/content/8OKdWMDXKJNMbznQ"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/8OKdWMDXKJNMbznQ"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/8OKdWMDXKJNMbznQ"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 74
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2023/09/AI-innovation-2023.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Rev joins a long list of tech companies from Instacart to Microsoft, that are rushing to update terms to use people's data to train AI"
     excerpt: "More companies are quietly giving themselves permission to use consumer data to train generative AI models and tools."
     publishedDateTime: 2023-09-13T21:47:00Z

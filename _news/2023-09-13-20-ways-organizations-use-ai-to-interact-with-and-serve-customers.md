@@ -22,21 +22,19 @@ topics:
   - AI
 
 related:
-  - title: "An interactive platform that explains machine learning models to its users"
-    excerpt: "Machine learning models are now commonly used in various professional fields, while also underpinning the functioning of many smartphone applications, software packages and online services. While most people are exposed to these models and interact with them in some form or the other,"
-    publishedDateTime: 2023-09-12T11:00:00Z
-    webUrl: "https://techxplore.com/news/2023-09-interactive-platform-machine-users.html"
-    ampWebUrl: "https://techxplore.com/news/2023-09-interactive-platform-machine-users.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-interactive-platform-machine-users.amp"
+  - title: "timeOS wants to transform your calendar into an interactive assistant with AI"
+    excerpt: "TimeAI aims to go further, analyzing realtime and historical data from your calendar, emails, and notes to provide key information on demand."
+    publishedDateTime: 2023-09-15T20:09:00Z
+    webUrl: "https://venturebeat.com/business/timeos-wants-to-transform-your-calendar-into-an-interactive-assistant-with-ai/"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 72
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 66
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/an-interactive-platfor.jpg"
-        width: 1280
-        height: 1239
+      - url: "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_line_art_flat_illustration_minimal_an_hourglass_in_fron_dc15c87e-a750-40e8-8cad-0d5b0920e5dd.png?w=1200&strip=all"
+        width: 1200
+        height: 672
         isCached: true
 
 secured: "4UP+5+auxfFQwgcrY0xMAaxRm6MvbcPG1v68QoS6QbdINDgT9/KDzPwaNZfzDcFJ/NHg1lOVugN/sSZbb6piD2kQWL4Y5I8koO2llAMxdCQCqc2ve5gIRgdPJ8f9G+95OpByv+OqZkLjQz7ZEb287ZzXMwDtFilxk8Glu34htjRisnFlcMRw5DtJt0e8Zo1WfkZ1BgLOJSOTCWcCwJqAcaGAI3HGN6TS66V3Fs5lRW9aXET4QPMj/ntng/N/udv0ktyS6H+0ibT5liygJLHzgWyCBkJcZ3dobjQSOAaTJz5mWVYKi7CciRIvSXA6bkRYlguAidr4klr5gnE3DSpxlJFPh+8FiL6wpC9R2qPkvqrYwaB33Cf5iQ3XzgV2Jd1Mffh33q6YdVyWyzSXR1iDL8dhNEi3SSxO9pCd3nDKomA77yWFyEqFHF1IHzwK9nnuKggpKSlGgpsS9NVAD8149nK7AHQHdk69UB0wJax4tw5bn9uY9RLT9BaT6HXFfUd1MqNbVVfm5+6Eft8BIf4HSQ==;e1bPjEuzro3WoeV9FX2HJQ=="

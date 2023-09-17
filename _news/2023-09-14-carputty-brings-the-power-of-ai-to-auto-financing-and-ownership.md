@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Carputty Brings The Power of AI to Auto Financing and Ownership"
-excerpt: "Carputty's AI integrations and enhanced fraud protection is another milestone in the company's ongoing commitment to security, innovation, and customer-centric solutions. By taking decisive action against financial fraud and identity theft, Carputty is spearheading positive change within the automotive finance sector."
-publishedDateTime: 2023-09-14T10:21:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/carputty-brings-the-power-of-ai-to-auto-financing-and-ownership-1032629746"
-webUrl: "https://markets.businessinsider.com/news/stocks/carputty-brings-the-power-of-ai-to-auto-financing-and-ownership-1032629746"
+excerpt: "Carputty the fintech company modernizing auto financing and ownership, announced today the next evolution of its platform. Having set out to re-engineer auto financing and ownership, Carputty has developed AI solutions that deliver a better consumer experience and more objective financing decisions."
+publishedDateTime: 2023-09-14T12:32:00Z
+originalUrl: "https://financialit.net/news/artificial-intelligence/carputty-brings-power-ai-auto-financing-and-ownership"
+webUrl: "https://financialit.net/news/artificial-intelligence/carputty-brings-power-ai-auto-financing-and-ownership"
 type: article
-quality: 49
-heat: 49
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Financial IT
+  domain: financialit.net
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://financialit.net/sites/default/files/carputty.png"
+    width: 1366
+    height: 768
+    isCached: true
 
 related:
   - title: "Why picking the right AI-credit decisioning partner matters"
@@ -38,6 +40,6 @@ related:
         height: 500
         isCached: true
 
-secured: "5UQ6K+xY9+LPER7HARxYkjeqkSYviIcQqY2piYBFM8WVHk/S6f2WUwRQJoah0AJWUPAW9SLHx3I/Mr+LLph0SPNv+ZVvk6ZqQeadGDIIkwlz4MnO9y+iDwvwivQ3gVQgnkWzjj7Fb3X1dM81lbj3/FEQzQJW/ZLhBbmUuBugVy21qD/vpJxcLYPh3ax7vfF8ZjvLev9X6Za0pIE1LEPwtUGMvxEAOC6Y9MmekLyVPbbcdgoJpgT2UZ98SVBbAW2sethtQdjD3L3RpCkJt6ZPkcS0Zed/kHvkRH1iEdvX4FfGGwNnGRGJxpxoaty5K+h32bgJqpLUtgwuQrcjNF4ywDa+gmW/mpDEx01Xwze1ytM=;iQBUkJmi1qLaVPWy0Zr4NA=="
+secured: "dgy0W0+TEBqPKxXAKvgAhGf1oiYLUqebIoTxMN0vO2DUlD4UEL5eJqsjFUckD38npYt0cl1sl8dIT0Oj1dfSsISiCnkMvLzCOIDzXaBfia5KYXDUqFOQVTJKS2i6BkH3jYs9Dt3FsxBVi+8kA0j44tMQk2QdD/soSBC5sHoSsGSzuLhmZhVTGKpH7pZ72vBV8m4ULxz+vmHZsxCYN+qIPzVJVhSN7hyigOkpnZBnLY9Unqe/LYxOLWRJIjOQm/uqoiDba/5+RR8aPx7lAGrVNMOWoSvJwLjilVcN+M/iQTZ9N07az8tQe3X559e/nLY0FOmyqKA6p277yZJo7JUPpBIwXGzo0msQHowsYv9O0cs=;qy5301ywuGcJ/9rTru3Cgw=="
 ---
 

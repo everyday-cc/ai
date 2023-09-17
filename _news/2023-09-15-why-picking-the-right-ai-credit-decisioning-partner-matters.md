@@ -25,14 +25,19 @@ images:
 
 related:
   - title: "Carputty Brings The Power of AI to Auto Financing and Ownership"
-    excerpt: "Carputty's AI integrations and enhanced fraud protection is another milestone in the company's ongoing commitment to security, innovation, and customer-centric solutions. By taking decisive action against financial fraud and identity theft, Carputty is spearheading positive change within the automotive finance sector."
-    publishedDateTime: 2023-09-14T10:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/carputty-brings-the-power-of-ai-to-auto-financing-and-ownership-1032629746"
+    excerpt: "Carputty the fintech company modernizing auto financing and ownership, announced today the next evolution of its platform. Having set out to re-engineer auto financing and ownership, Carputty has developed AI solutions that deliver a better consumer experience and more objective financing decisions."
+    publishedDateTime: 2023-09-14T12:32:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/carputty-brings-power-ai-auto-financing-and-ownership"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
+      name: Financial IT
+      domain: financialit.net
+    quality: 39
+    images:
+      - url: "https://financialit.net/sites/default/files/carputty.png"
+        width: 1366
+        height: 768
+        isCached: true
 
 secured: "rrNZgyiAs59SiXKUpbzMeHi4JD05X2L8kkLS5Nc1J4L5a8TUyaZ7vDKo9ylo7GmZV0FURgtLGhy0m0/zZhyvAeOInsOrlQXr63bJdSHBqyM7TH+HgiiawFpWljYyJUyjsObtkJvSF85eaj2yGWjw9Rq7JjdL+sVu3hJMY9B2fSXvqxcwMSYUIn+ir82egpdEtoD6s7UwUNMtoZJUBTyDYwegpuY01Xa1xOwHMdzOGE66Fbk32uEjWC2JGxNl7xFYUUhGySkhQOvs1g1iqeFwR5qJAXJH8DV1iLzFMB4HGtI7H3C6j0LMH2Iaf1nJ1hq9EQkhFKXol6c4cMhVCrBPepBBLGfdMBKV6ttM1bOH5PU=;vChZOcVGPdxWyYyErLVNuA=="
 ---

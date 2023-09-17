@@ -54,15 +54,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Governments race to regulate AI tools"
-    excerpt: "Rapid advances in artificial intelligence (AI) such as Microsoft-backed OpenAI's ChatGPT are complicating governments' efforts to agree laws governing the use of the technology."
-    publishedDateTime: 2023-09-13T12:30:00Z
-    webUrl: "https://www.reuters.com/technology/governments-race-regulate-ai-tools-2023-09-13/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
 
 secured: "2GBGnbte6mOCT223m+d2llLUiXtvIoB+bYK53Hyv7SUGaooVFIJf1TCBVusKi1v4i+pbYJYUNZSdOOZ3yg5hcPEVpL7QQ8+iqg3i5u5dL0MlqPg5oOW4JyuaZAPXfK0W/w5mmC8YNKbAfMn6Xi2pIxDhXoDPrEzMhvsM7QhPpUrY2p3CgGsLgkod10ri5C/gBlXWxuVUS/O+yhezaxNfXpnursb5RjvS1+3vjlEZGAHI4CjSiHgaeiTxOQ7fJ40Ry3G/eQiWkl+SAJ/JZwbZjIIvV1MFz3Q/J85rRr+gPM2B4D3xKAkgq3ZL9gylsHJufxWH52w9h8gp3i2eINDZX2Rn6OdR3uu5dcSEpCrzfA7dxQAhOSZcySaUq28siPvAZlww1yZcNTW6DZ4UFzBJl8LmrdTyTTlTdZnOLjY5qEAqQGGGhvZvAWpmSzxiaadcHpW7iE0zaeZNspq0/VACUAiTmLChg3BwGgCbHCycj5kxwBa0KNtJXqyJGH+cEoP6lSFKObwVWyR1fmG7B47Sxw==;Zd4VtFutnTd+8ydKfw6TXA=="
 ---

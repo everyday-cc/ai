@@ -173,20 +173,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Artificial intelligence technology behind ChatGPT was built in Iowa"
-    excerpt: "DES MOINES — The cost of building an artificial intelligence product like ChatGPT can be hard to measure. But one thing Microsoft-backed OpenAI needed for its technology was plenty of water, pulled from the watershed of the Raccoon and Des Moines rivers ..."
-    publishedDateTime: 2023-09-12T10:37:00Z
-    webUrl: "https://wcfcourier.com/news/local/business/ai-technology-behind-chatgpt-built-in-iowa/article_a2b003ca-4fea-11ee-8619-0f3ab22ec961.html"
-    type: article
-    provider:
-      name: The Waterloo-Cedar Falls Courier
-      domain: wcfcourier.com
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/wcfcourier.com/content/tncms/assets/v3/editorial/f/7e/f7e6cbf8-4fea-11ee-a85b-836fc70f5c15/64fddb19e051a.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Build Intelligent AI Bots That Speak Your Language: Maqsam's AI Conversational Chatbot Unveiled"
     excerpt: "One of the standout features of Maqsam's AI conversational chatbot is its hyper-local advantage, especially in Arabia. For businesses operating in this diverse and dynamic market, where dialects and cultural nuances vary significantly, Maqsam's AI chatbot provides a localized solution that ensures meaningful interactions with customers."
     publishedDateTime: 2023-09-13T09:27:00Z

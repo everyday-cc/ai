@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "There’s never been a more important time in AI policy"
-    excerpt: "Inside Meta’s AI drama: Internal feuds over compute power Meta is losing top talent left, right, and center over internal feuds about which AI projects are given computing resources. Of the 14 researchers who authored Meta’s LLaMA research paper, more than half have left the company. ( The Information )"
-    publishedDateTime: 2023-09-12T09:33:00Z
-    webUrl: "https://www.technologyreview.com/2023/09/12/1079315/theres-never-been-a-more-important-time-for-ai-policy/"
-    ampWebUrl: "https://www.technologyreview.com/2023/09/12/1079315/theres-never-been-a-more-important-time-for-ai-policy/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/12/1079315/theres-never-been-a-more-important-time-for-ai-policy/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/09/law-ai2.jpeg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
   - title: "How To Stay Afloat In The AI Surge"
     excerpt: "AI isn’t just a fleeting trend – AI is becoming more and more intertwined with our workflows. This rapid evolution offers immense technological benefits but has also introduced considerable challenges,"
     publishedDateTime: 2023-09-12T13:00:00Z

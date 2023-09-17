@@ -24,22 +24,6 @@ images:
     height: 768
     isCached: true
 
-related:
-  - title: "Driverless cars are worse at detecting children and…"
-    excerpt: "The root of the problem appears to be how the images used to train the systems feature more adults and lighter-skinned pedestrians."
-    publishedDateTime: 2023-09-12T11:00:00Z
-    webUrl: "https://insideautonomousvehicles.com/driverless-cars-are-worse-at-detecting-children-and-darker-skinned-pedestrians/"
-    type: article
-    provider:
-      name: insideautonomousvehicles
-      domain: insideautonomousvehicles.com
-    quality: 39
-    images:
-      - url: "https://insideautonomousvehicles.com/wp-content/uploads/2023/09/Artificial_Intelligence__AI__Machine_Learning.jpeg"
-        width: 960
-        height: 768
-        isCached: true
-
 secured: "GDIOxNnjMAHp81REc36ekl2Hbm/wZmSN5Iihsx1MXnp0sQnzI1gZ+061P6hsDumKDsQpw5QJgIQaJLVNoXzybjg1gXnrVldZVOjKGA/8vnLy3BiSyHmMwfH21zCaqfOsSolriKgpvlt2z73Bn5XEuWZhJd/WJ/xvMuPrME8v9WXvVi4gNDe70Ft6F7gbfAdYpCumAgZGlnBjvPJYmKZ69OTrdlqz/QcDWkVXM5gaD9VWeDZp36s4stVhnCmilTPcRP5NLQSxtpRg4iVNp7SDzNhGRaJ2ah9BKySTJDP9HNIN6aLBxgj2H5NNCgoRxDS4NoN3Afkk3TjP90Ndb0ymkPXf4yocfBaP0Yi6O8Im4fo=;iDwpGlY/9GRRg7BWuVpNUw=="
 ---
 
