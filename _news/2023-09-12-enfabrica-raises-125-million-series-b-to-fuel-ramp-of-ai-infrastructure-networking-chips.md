@@ -89,15 +89,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "Enfabrica raises $125M to scale up GPUs, memory, networks and storage for distributed AI workloads"
-    excerpt: "Enfabrica raises $125M to scale up GPUs, memory, networks and storage for distributed AI workloads - SiliconANGLE"
-    publishedDateTime: 2023-09-12T13:00:00Z
-    webUrl: "https://siliconangle.com/2023/09/12/enfabrica-raises-125m-scale-gpus-memory-storage-distributed-ai-workloads/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 20
 
 secured: "nunm72Yr8vIu6R1uln4075eulgiYXDrH82R2Hnrob3LFujqWqpKVMs+eYXd8cmS72XUZL6V6MHxv137LVtPpfDMOKMGyyXwqwgJDtRBgkIlE6N2B8Wr2rbIjD+lycfMTmMyRBBBrIYw2/ocP/nrA75/CtX2rLJM3Dd/GNKJ5/FgHWgGXawWPteqGfPzFxkUa5XrzISyiBAybIhWmEDhyn+wu8ZeayA+B9xsaJokpNUTSEONTM78jjjT0cYdy8DpSSbq5X5Ori7Emh2sHN5HWwvnQCvGrIcHPyncuF4pUgBSp7n0SDtDqUEoOIDvSIMWT3xmLbubtYm/XWhW3o3QOnEnhjZR9qJekhmHKoP3Q1NQ=;dgYoYo2pRPQg4yJnvMovTQ=="
 ---

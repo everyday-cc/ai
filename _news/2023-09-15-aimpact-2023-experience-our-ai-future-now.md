@@ -1,29 +1,27 @@
 ---
 category: news
 title: "AImpact 2023: Experience Our AI Future Now"
-excerpt: "Step Into a New Dimension of AI Learning and Networking, Designed and Orchestrated by an All-Women PowerhouseNEW YORK CITY, N.Y., Sept. 14, 2023 (SEND2PRESS NEWSWIRE) -- Ever wondered what it would be"
-publishedDateTime: 2023-09-14T19:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/09/34592715/aimpact-2023-experience-our-ai-future-now"
-webUrl: "https://www.benzinga.com/pressreleases/23/09/34592715/aimpact-2023-experience-our-ai-future-now"
-ampWebUrl: "https://www.benzinga.com/amp/content/34592715"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34592715"
+excerpt: "AImpact is more than an event-it’s a vision. A vision that sees the future not as AI vs. Humanity, but as AI for Humanity. NEW YORK CITY, N.Y., Sept. 14, 2023 (SEND2PRESS NEWSWIRE) — Ever wondered what it would be like if a tech conference didn’t just talk about the transformative power of Artificial Intelligence,"
+publishedDateTime: 2023-09-14T19:14:00Z
+originalUrl: "https://www.benningtonbanner.com/ap/national/aimpact-2023-experience-our-ai-future-now/article_f56491a3-6fdd-5160-b889-2bacea6bb30f.html"
+webUrl: "https://www.benningtonbanner.com/ap/national/aimpact-2023-experience-our-ai-future-now/article_f56491a3-6fdd-5160-b889-2bacea6bb30f.html"
 type: article
-quality: 59
-heat: 69
+quality: 39
+heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Bennington Banner
+  domain: benningtonbanner.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://bloximages.newyork1.vip.townnews.com/benningtonbanner.com/content/tncms/custom/image/90f2e3da-429a-11ee-98fe-73f3cd906334.png?resize=600%2C315"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -42,6 +40,6 @@ related:
         height: 778
         isCached: true
 
-secured: "AR3acCMmZaZU7otJa81XTzUg+nuu/jPk4oB+ID2tvetKEPxezpuwpb90vxNz88A8yvxsR4CCjy+2uxpruswNlO1p7bfCmZc9GMIvcWAYjeAXeiTZ7nQC7Kw+/xFtQ9K54vRILQcLT3J7kiFGmcvJEiFFPFVVklxodQxhWSYRNiUnK9kuRgos8VXlD5+gWzKNYlADJkUY95znRVhEw+VICB8IUpp6dc+KjhRUphfXtoPwZAki4+TarA+SDwsJBDQiwtqiLGir2UGlaBGY0PzYSOJqFLXOtnihs9RfCfIhHxsBludzPGOV89Eq0z7rlPLMJUq/M5oiKlU2eFl9efKV77VKToDr6x7inp8hP92H6SaciAhTf5l3aVwdvjnt6/67DKe4elJrwvYIGejMR7QsDKGzSYgowqo3ZgJIqL/adQxVdWpebNqP8MHXye4Cc+u9gpMzM5RCNKZRFbv8ZdEDHNf+4fKbeqtLsICQvmFzpo2nV8bKGI6HbujsBTv1xDRaHMl5ENfZQofaLFHdT3yYJw==;Lju7nomXXt6ZQteIj27y7g=="
+secured: "RQeR3uwqNQHOcK8q3S/Uy7xD0JH9FukgkV+TvHCbCY/3bLTnquaGzSqgbio6J0EhaiNX8m5UoOcYOOEoyjtshQwi+b7WRRrMl2bvWLymv8Y2BOqTlXfvni4eVQIQTwvBgvc6lrFprnqZCOW4LqkKzUzyYwPfIsS0FeUb1VCKxtI9eW8XBHfLj53xExkMx4QbVL3+WMYmmnyTO5BligF0aMayntkc6razrlG3y1rDfWgWLEPsZityW4x+y1Twq+So/da0nXStnkxZWsyG+WgJFzM/xJDy80gr6Ud3gYxEonv9kNrhGcwlIcb0L70Oj6QgeM2MPFFQcpZ5AeaSFXjqHqwcsF6mMDA8w0BUjNAOF+I=;l0I+0uHc6aoT1h+smMExlA=="
 ---
 

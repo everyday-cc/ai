@@ -340,15 +340,6 @@ related:
         width: 1893
         height: 767
         isCached: true
-  - title: "Blackstraw Partners with Microsoft to Drive Enterprise-wide AI Adoption"
-    excerpt: "Blackstraw AI announces partnership with Microsoft for its Solutions Partner Designation for Data & AI (Azure) and Digital & App Innovation (Azure)."
-    publishedDateTime: 2023-09-12T12:41:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/blackstraw-partners-with-microsoft-to-drive-enterprise-wide-ai-adoption/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 34
   - title: "CEOs of Meta, Alphabet, Microsoft and Nvidia set to talk AI with members of Congress"
     excerpt: "Expected to attend are Meta Platforms Inc. CEO Mark Zuckerberg, Alphabet Inc., and Google LLC CEO Sundar Pichai as well as former Google CEO Eric Schmidt."
     publishedDateTime: 2023-09-13T14:37:00Z

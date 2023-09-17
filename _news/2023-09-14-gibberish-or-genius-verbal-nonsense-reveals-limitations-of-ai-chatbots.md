@@ -201,15 +201,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Tackling Loneliness With ChatGPT and Robots"
-    excerpt: "Doctors Qi and Wu presented to Neurology Live a survey of the benefits of AI in their June paper, “ChatGPT: A Promising Tool to Combat Social Isolation and Loneliness in Older Adults With Mild Cognitive Impairment."
-    publishedDateTime: 2023-09-12T12:39:00Z
-    webUrl: "https://www.alleywatch.com/2023/09/tackling-loneliness-with-chatgpt-and-robots/"
-    type: article
-    provider:
-      name: alleywatch.com
-      domain: alleywatch.com
-    quality: 19
   - title: "Wecover Platforms Rebrands as 'Linq', Unveiling an AI Chatbot Revolution"
     excerpt: "SEOUL, South Korea, Sept. 13, 2023 /PRNewswire/ -- Wecover Platforms, a Boston -based conversational AI startup, is rebranding itself as 'Linq' to spearhead its expansion into the AI chatbot market. Recently, Linq has joined the 2023 Techstars Boston Accelerator program, reaffirming its commitment to advancing the AI chatbot industry."
     publishedDateTime: 2023-09-13T07:32:00Z

@@ -22,7 +22,7 @@ related:
   - title: "UK start-up Wayve unveils self-driving system that explains its actions"
     excerpt: "Company says use of AI gives vehicle owners more confidence in the technology but accepts model needs ‘more training’"
     publishedDateTime: 2023-09-14T04:00:00Z
-    webUrl: "https://www.ft.com/content/a5a5f2ea-e95f-4358-9f80-d10c5ed90453?trk=public_post_comment-text"
+    webUrl: "https://www.ft.com/content/a5a5f2ea-e95f-4358-9f80-d10c5ed90453"
     type: article
     provider:
       name: The Financial Times

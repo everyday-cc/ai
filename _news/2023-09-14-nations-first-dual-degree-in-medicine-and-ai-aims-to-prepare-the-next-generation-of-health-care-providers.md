@@ -281,15 +281,6 @@ related:
       name: Asia One
       domain: asiaone.com
     quality: 4
-  - title: "Leading Language App ELSA Raises $23M C Round, Launches ELSA AI Tutor to Revolutionize Learning English Using Generative AI"
-    excerpt: "ELSA, the premier company leveraging machine learning and speech recognition technology to teach English, has raised a $23 million Series C funding alongside its launch of ELSA AI Tutor ."
-    publishedDateTime: 2023-09-12T11:38:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/09/12/9878765.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "8qO7Rbci716y2n4xGAJkwE4eGnjpaOVjy1EEhaR215liL1B9EP4j0r6CaB/Xpqpa1vrQYZ+0YXSKc7w1cMetYmeWFOibVFJlr7jg5auKetUtigPkTnbh1nEMshMScMvqc5TqGcjf36+Gomp3E0/poCpVUHJZpTr8IOC4Z7e+SVB/lSfSMd+RlERCgQ0CKGEj/pF0Qz9diAKnHijcr+Eejie4uInqxLZbLXrWshzocOUJuJ8N7Pscol4DtK0vkBTjLAQsRAmUCCZyaJPgg1lN6kJWYPZHTVDgM/U/oFCnx7ub1h3guA/jqwMxotn34yi2IhmRqXR/N67megFpJ/1Futxq2LcNb1al+7X9miOpJ+g4SSClE2K1ZjnQphR5g4g/dKv2SgDqawNmvwurxM9t+B39HRV2AoEwX2mtu0yOqCwNLOIsEwj3/Cr5rcBKnsB/Jeg8Tdf1LQ5W7QlscI3Z5ajLUXeR84BczJf2byL6s0IFHLpVB+Lqa2dglAirWTwo1NIsRMoD3Pn+EaXwGT047g==;lXHzj/x474aP3MWPxIgDaQ=="
 ---

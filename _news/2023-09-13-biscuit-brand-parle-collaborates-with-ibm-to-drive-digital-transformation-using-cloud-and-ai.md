@@ -26,22 +26,6 @@ images:
     height: 765
     isCached: true
 
-related:
-  - title: "Parle Products Collaborates With Ibm To Drive Digital Transformation Using Cloud And Ai"
-    excerpt: "Bengaluru, India, September 12, 2023 -- IBM (NYSE: IBM) today announced the expansion of its collaboration with Parle Products, the largest selling biscuit brand in India, to further the company's digital transformation journey."
-    publishedDateTime: 2023-09-12T11:35:00Z
-    webUrl: "https://menafn.com/1107052400/Parle-Products-Collaborates-With-Ibm-To-Drive-Digital-Transformation-Using-Cloud-And-Ai"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 31
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?132894"
-        width: 309
-        height: 250
-        isCached: true
-
 secured: "C8oqQ2KoGCQXb65BVKt5EuePWuprqMN9Yo21h2EXWT3N/DqlLYmlTi5X8jh8oDT8Zgv3gcK0qOlbIGSprIe8NDHhRsv2cfLXbh46CHof26G8GozLT86z1aH5yr+11VYEsftf2Jbs1IwVAWeB/llGygtM6Fuhgm+tJYAkN31eCGqXtspAdMQ3AK/sKDubWfKeMwKCYm1pvvDUg79aP5lxtVJRDTXUBQaSSlRVyn+9kSfDm+Jf24iQsh0qrzBC3nVlv3oJkQ0mtuoFBLqF5WH95lFWukUNkBPTnWDtX+/v+veQs5yqA/y2A7mhhbHvUuT9aVaBX0keeJ+V15AasmiA/G+kOUTq+VIU74CoSdAi5Wk=;HtaF17dXpMov3sfEdIwo4A=="
 ---
 

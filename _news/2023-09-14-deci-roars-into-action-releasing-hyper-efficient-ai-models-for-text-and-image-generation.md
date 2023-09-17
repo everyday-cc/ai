@@ -22,17 +22,6 @@ topics:
   - Facebook AI
   - AI
 
-related:
-  - title: "AvaWatz Patents FALCON, A New Trust Assessment and Auto-Correction for AI Models and Machine Learning"
-    excerpt: "AvaWatz applied to patent GENIE and introduced the AvaWatz approach to the difficult issue of training data required to train deep learning and machine learning"
-    publishedDateTime: 2023-09-12T12:58:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/09/12/9879161.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
-
 secured: "llB8VOMlFfEXw/oE+GrT7THzXEbnUcmhnT5Fo2tqjG5PHTHlzfcNQbqmT6bk2BNguzTosGIm/pnxKJ2SxQ30NUfHrdbywEjS4dyYIGa2EmMDj6w4TVvJt4O7ZQ5xcz7Ia7IRWTIhrlOoH/T45beQVNtqpt+1klC1OK013jg6HUF+hGm5fFcXzGeMMot76jPgK1CsJAul45ylRihBwEAcPNSEzCulIYHJDy803s8p1uPH1XHMQ35yxAm844mdDsVKPQYOlqgaXOzjvuJB7fnxd3XoUKi7uP/tUZUxQ7OfwhYJbDJxWYKhzbfjvDkCbvmu4xztyOWfDRRTwsMEFu4JGbipXCdJXMB54W63o1PjUOd6nacgQDLqv1tOOPnOpA54ncLmO+zcBveoUzBM7f6DEfrZelyk2wtlURYB9RREOoqyuhvlXJMtt741J2idprjQZhyqu232Z0WjBKlu5rFoUs3cRM6x9LgHPkV/yWyb2IDvAlwMVhcN8jQ8fSRr7dpkNNgFT3DUG0hJoXBHZASPtA==;/ZPps2uAC4oug1HEJSmlHA=="
 ---
 

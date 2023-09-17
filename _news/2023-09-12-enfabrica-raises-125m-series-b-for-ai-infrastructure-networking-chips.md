@@ -90,15 +90,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 25
-  - title: "Enfabrica raises $125M to scale up GPUs, memory, networks and storage for distributed AI workloads"
-    excerpt: "Enfabrica raises $125M to scale up GPUs, memory, networks and storage for distributed AI workloads - SiliconANGLE"
-    publishedDateTime: 2023-09-12T13:00:00Z
-    webUrl: "https://siliconangle.com/2023/09/12/enfabrica-raises-125m-scale-gpus-memory-storage-distributed-ai-workloads/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 20
 
 secured: "MXUMl/OgcWgfw5/S8JIkz+vg3m7i7Ak/HabN2O+AUmvQPyyAZeG+xqSFV4yD/v3ve6UrDo2X+5RdkyywNyZsqPiGfvElXRst73CNshrj/BYrahIsdvNzxIprYllEiq2vEdKjs2zxoz0y9rTPPKSwnHfKMwTYmW3PBlsVgxhYrGPEb0qons28EDcwvVevXbFJk0eauci81or8NAostLt1LlqRmBKlba5m/HnwNOTlzZH9I3p+Vxpzop+lN2hS4rlRYNxU3QQhObyzyJvuVU7ZereJ16+QFlOaifa0VLDbK6sQENWj0oQkvzdaZzgFU3O/I02XI8v2K0nZ6FkLETg8rEtjzGXQ/0Qo7LujXnz28Cw=;mnQdrbf3QI9bLju/hBk37Q=="
 ---

@@ -157,29 +157,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Pilot Trading Launches Innovative AI Signals Only Mode for Traders"
-    excerpt: "- Brokerage Compatibility: The Pilot Trading app in Signals Only Mode, stands independently, allowing you to continue using your preferred brokerage, ensuring a hassle-free and flexible trading experience."
-    publishedDateTime: 2023-09-12T11:54:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/pilot-trading-launches-innovative-ai-signals-only-mode-for-traders-1032622845"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Softserve Launches Generative Ai Lab"
-    excerpt: "Specialized lab expands SoftServe's AI/ML capabilities to accelerate Generative AI value discovery and real-world adoptionSINGAPORE - Media"
-    publishedDateTime: 2023-09-12T11:54:00Z
-    webUrl: "https://menafn.com/1107051285/Softserve-Launches-Generative-Ai-Lab"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?132894"
-        width: 309
-        height: 250
-        isCached: true
   - title: "How does Stable Audio generate AI music and sound effects"
     excerpt: "A new AI sound generator has been released in the form of Stable Audio capable of rendering 95 secs of stereo audio at a 44.1 kHz in seconds"
     publishedDateTime: 2023-09-14T10:13:00Z
@@ -196,17 +173,17 @@ related:
         isCached: true
   - title: "How scientists are using artificial intelligence"
     excerpt: "Automating and speeding up physical experiments and laboratory work is another area of interest. “Self-driving laboratories” can plan an experiment, execute it using a robotic arm, and then analyse the results. Automation can make discovering new compounds, or finding better ways of making old compounds, up to a thousand times faster."
-    publishedDateTime: 2023-09-13T21:52:00Z
-    webUrl: "https://www.aol.com/finance/scientists-using-artificial-intelligence-185204515.html"
+    publishedDateTime: 2023-09-13T18:52:00Z
+    webUrl: "https://www.economist.com/science-and-technology/2023/09/13/how-scientists-are-using-artificial-intelligence"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
+      name: The Economist
+      domain: economist.com
     quality: 39
     images:
-      - url: "https://media.zenfs.com/en/aol_the_economist_398/bae84b4d519fcdddc9fc85fd84d2acd5"
+      - url: "https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/content-assets/images/20230916_STC417.png"
         width: 608
-        height: 739
+        height: 703
         isCached: true
   - title: "My life as an AI chatbot operator"
     excerpt: "Targeting writing and other humanities programmes was a canny recruiting decision. Aspiring writers and artists tend to be detail-oriented, emotionally astute and experienced in writing dialogue – useful traits to impart to a bot that is meant to emulate humans. And many want work that can complement and sustain creative projects or teaching."

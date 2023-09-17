@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How To Stay Afloat In The AI Surge"
-    excerpt: "AI isn’t just a fleeting trend – AI is becoming more and more intertwined with our workflows. This rapid evolution offers immense technological benefits but has also introduced considerable challenges,"
-    publishedDateTime: 2023-09-12T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/esmtberlin/2023/09/12/how-to-stay-afloat-in-the-ai-surge/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
 
 secured: "c+bJsV67gkotDq7uRZnqwYcIgDBXd0DLP1VesntUevUVJE20D1PgraRwD966WrWQ9LA89B9yF5Ei2Y0ju27kQ0wM6R6PL8HUJuFFrl1wxRm/GVE4aEhEJcNdqhFveTlcXEACZG0g8p/qqqKBNTUEce5VjPdOi/q1TT6zZRlimRMM53JtMAm1Cx1oAYR/cYGmT3m1J1JLzHLEJgct0EzgdYPnfEJqe1XcYghdAcaC8X/c9lAFi7MNnY00TW9K1VEL9ggtz504olfUoYvtRhH4axZqA1lYqHxok6FcNqDs6kUHipS5chyTH8nb7iTiMRQcM5z0h+uwCF6vfUTbYM9KjPFGVGxf6TEzOQxrmTA5xaHEVPixI6270XWKLYt/cBnpoCt9d3oJZV42uRte+btPxo1UyoD/wE58GH0ivY6sXJ7cuGPabdafVNlEaLktXt6tV9rYnTcDMVS0GvkxY2Sj8xhyaKwdR1aANLwHzuinHdbuGZuHbW95azLHjSLeWTg6zN0aBRMm3OOF0QRaFBDSOg==;g1ffEgvdeZpX+oDym1hxwg=="
 ---

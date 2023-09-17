@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/ai-chip-startup-enfabrica-raise
 webUrl: "https://www.reuters.com/technology/ai-chip-startup-enfabrica-raises-125-mln-with-backing-nvidia-2023-09-12/"
 type: article
 quality: 84
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -94,15 +94,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 25
-  - title: "Enfabrica raises $125M to scale up GPUs, memory, networks and storage for distributed AI workloads"
-    excerpt: "Enfabrica raises $125M to scale up GPUs, memory, networks and storage for distributed AI workloads - SiliconANGLE"
-    publishedDateTime: 2023-09-12T13:00:00Z
-    webUrl: "https://siliconangle.com/2023/09/12/enfabrica-raises-125m-scale-gpus-memory-storage-distributed-ai-workloads/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 20
 
 secured: "DELtj0LPKRH4GfO0JCwOY++yCovpPgDQRVoPcZy0jwISsihcsMRJaWI2OWpIkI2euMObG9Lb3IaTlJqYg+CfAOdupNywEfaI5ghqtdFladmiGscP4eRXAb61qDsk57Bk13VlsBiPFRdRTLebNulTMpL7xYlq5xyvbeWj3LgskkSgs6EUqD382IFErGu5HUqmRJFKiiJg3UY1g4R4uXUCe2l5lRHRdQROFISYMzpDiqeV06f9qFvFXOIn0zPMhY/bge3sTXp85kqetCGwQPNcXqSyfzwYRI/vQkX4wNipgl2MFKS869+zL5FolALUSwBznzlBi7cxJhMhKJk8pco2Nq8LYO6T2fHuCHlbSMC3eYg=;pQpasuVTUozq4jBca7XRyw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/nauticus-robotics-
 webUrl: "https://markets.businessinsider.com/news/stocks/nauticus-robotics-announces-offshore-service-agreement-with-shell-1032630051"
 type: article
 quality: 64
-heat: 75
+heat: 74
 published: true
 
 provider:

@@ -1,22 +1,20 @@
 ---
 category: news
-title: "I thought the voice debate might turn Australians into constitutional experts. I was wrong"
-excerpt: "It was when the referendum became partisan that we lost the chance of putting it clearly in its historical context"
-publishedDateTime: 2023-09-16T23:06:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2023/sep/17/indigenous-voice-to-parliament-referendum-australian-constitution"
-webUrl: "https://www.theguardian.com/commentisfree/2023/sep/17/indigenous-voice-to-parliament-referendum-australian-constitution"
-ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/sep/17/indigenous-voice-to-parliament-referendum-australian-constitution"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/sep/17/indigenous-voice-to-parliament-referendum-australian-constitution"
+title: "Thousands in Australia rally for struggling indigenous recognition referendum"
+excerpt: "Ahead of Australia’s Voice vote, ‘false information’ swirls among Malaysians But the “Voice to Parliament” proposal appeared on track for defeat, a poll showed last week, the fifth monthly survey in a row to find voters against the change."
+publishedDateTime: 2023-09-17T05:30:00Z
+originalUrl: "https://www.scmp.com/news/asia/australasia/article/3234833/thousands-australia-rally-struggling-indigenous-recognition-referendum"
+webUrl: "https://www.scmp.com/news/asia/australasia/article/3234833/thousands-australia-rally-struggling-indigenous-recognition-referendum"
 type: article
-quality: 34
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: scmp.com
+  domain: scmp.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - AI
 
 images:
-  - url: "https://i.guim.co.uk/img/media/0ebed0c34f80c6e1cb9b83f4aaa855a4844bd750/0_484_8192_4918/master/8192.jpg?width=620&quality=85&auto=format&fit=max&s=391390a23a57074d6594f61577a4ce21"
-    width: 620
-    height: 372
+  - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/09/17/0ab1682a-95f5-4cf4-a5e4-3ffa8bcaf780_21e66872.jpg?itok=TjV6awta&v=1694926190"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -47,20 +45,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Thousands in Australia rally for struggling indigenous recognition referendum"
-    excerpt: "Ahead of Australia’s Voice vote, ‘false information’ swirls among Malaysians But the “Voice to Parliament” proposal appeared on track for defeat, a poll showed last week, the fifth monthly survey in a row to find voters against the change."
-    publishedDateTime: 2023-09-17T05:30:00Z
-    webUrl: "https://www.scmp.com/news/asia/australasia/article/3234833/thousands-australia-rally-struggling-indigenous-recognition-referendum"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 51
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/09/17/0ab1682a-95f5-4cf4-a5e4-3ffa8bcaf780_21e66872.jpg?itok=TjV6awta&v=1694926190"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voice can close economic gap for Indigenous Australians, says Julian Leeser"
     excerpt: "Former Liberal frontbencher supports referendum as a way of getting First Nations people ‘to the same starting line’ as other Australians"
     publishedDateTime: 2023-09-13T09:47:00Z
@@ -74,6 +58,22 @@ related:
     quality: 42
     images:
       - url: "https://i.guim.co.uk/img/media/69081abf77a67b19cd6d3e0d678c8017139bdc52/0_304_4554_2732/master/4554.jpg?width=620&quality=85&auto=format&fit=max&s=a40d80af7771d04731bde722b09a4510"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "I thought the voice debate might turn Australians into constitutional experts. I was wrong"
+    excerpt: "It was when the referendum became partisan that we lost the chance of putting it clearly in its historical context"
+    publishedDateTime: 2023-09-16T23:06:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2023/sep/17/indigenous-voice-to-parliament-referendum-australian-constitution"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/sep/17/indigenous-voice-to-parliament-referendum-australian-constitution"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/sep/17/indigenous-voice-to-parliament-referendum-australian-constitution"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 34
+    images:
+      - url: "https://i.guim.co.uk/img/media/0ebed0c34f80c6e1cb9b83f4aaa855a4844bd750/0_484_8192_4918/master/8192.jpg?width=620&quality=85&auto=format&fit=max&s=391390a23a57074d6594f61577a4ce21"
         width: 620
         height: 372
         isCached: true
@@ -103,6 +103,6 @@ related:
       domain: news.com.au
     quality: 24
 
-secured: "fD2sROZ29316inGYVJ2QLOoJUEjwR9UByEaBZiW95Jb7rmVFOc34DUxsOiXFfGOP4mA/+ealW7FJJSMDrrD/3Nk++0TcOswD9HVVhIgcV/yMv1Q6qIWfFgamT9c5BI1SlsOs6fASLdneNouPL2y17u2FCZztMoM1nq4z59lLKyCpCQ4clNcVOkpHfo5jUqJ6i6B5GX96xD862JGxrEeoEB/2RTuopnlH5Ip6PSyXk/+2nIe3pTzDagGfHfXgJ2JIMRcaSOJHKYg/8GqOtKHgVvyeIVPJG2AobYQZ+rSQOC2Er38dkJfppDYDzEr105OPeDnulCMHrjpIVxVCnHe6godWMw/RgCCugB3aQyHp06/dagAJg5N96mVE/kktcbAy5RJebgvey2pR0SWyfX/pLoB1aT+CsOwtPiWB9eqRIrn7xvV003RtNdtIeUY2bLAVfy9Kpm8vgmXupC/n3WYwkHn4qyD4x/Yrf+FKlD+IYU7dst7+e/5RGJpt6SGzo7JKiwi0nh2c4C+/7vz5ACirfg==;S4heBhYhYNYtmJLz7JlHOw=="
+secured: "JaahKuM/5XNP9IigTSAUEaCA1v1YDbBxf2l1RiNua6jI/Q7Af+wRBlKLfUiZVlpeXjvLwuzEx4SknFxzmJF8hJ9r62T4/sUtPBxwEB4xlZpMUk3wOtyJykYMppUUQI6VL+Ci7NGNFBzLBoKjUX2k8pQWCWdDT4w8wRG2+zjozNZg4bEeUL3r9uzhShJsh+MHU0KYx29crDQGyN+ssn0D2QOpG3aaDwSWxUgnR+nENYlm4qOP/pYWvEs+rbqIruRgL/IkOBL9hS+u7DL0FaNBAT/KmqlR9KfMpurHwU9VAzG/5KmvhFD0wIEaiWjFsEt0MfXZkYyr1EcqdV+/TM11g6q9op0hMNSd17FKvWgd5XQ=;z0wsxsSm7iP6lCZE1/FiFQ=="
 ---
 

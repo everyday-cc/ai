@@ -36,15 +36,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "HiddenLayer raises $50M for its AI-defending cybersecurity tools"
-    excerpt: "HiddenLayer, a security startup focused on protecting AI systems from adversarial attacks, today announced that it raised $50 million in a funding round co-led by M12 and Moore Strategic Ventures with participation from Booz Allen Hamilton, IBM ..."
-    publishedDateTime: 2023-09-12T13:00:00Z
-    webUrl: "https://techcrunch.com/2023/09/12/hiddenlayer-raises-50m-for-its-ai-defending-cybersecurity-tools/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
   - title: "Mobilicom Is Leveraging A First Mover Position To Provide Robust Cybersecurity Solutions To Small-Drone And Antonymous Vehicle Markets ($MOB)"
     excerpt: "Mobilicom Limited (NasdaqCM: MOB) is proving that pioneering a market has its advantages. A result of that, at least for publicly traded companies like MOB, is shown through an increasing share price,"
     publishedDateTime: 2023-09-14T08:55:00Z

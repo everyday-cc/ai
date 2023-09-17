@@ -7,7 +7,7 @@ originalUrl: "https://technical.ly/professional-development/ai-job-future-impact
 webUrl: "https://technical.ly/professional-development/ai-job-future-impact-ey-dan-diasio/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -27,20 +27,18 @@ images:
 
 related:
   - title: "AImpact 2023: Experience Our AI Future Now"
-    excerpt: "Step Into a New Dimension of AI Learning and Networking, Designed and Orchestrated by an All-Women PowerhouseNEW YORK CITY, N.Y., Sept. 14, 2023 (SEND2PRESS NEWSWIRE) -- Ever wondered what it would be"
-    publishedDateTime: 2023-09-14T19:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/34592715/aimpact-2023-experience-our-ai-future-now"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34592715"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34592715"
+    excerpt: "AImpact is more than an event-it’s a vision. A vision that sees the future not as AI vs. Humanity, but as AI for Humanity. NEW YORK CITY, N.Y., Sept. 14, 2023 (SEND2PRESS NEWSWIRE) — Ever wondered what it would be like if a tech conference didn’t just talk about the transformative power of Artificial Intelligence,"
+    publishedDateTime: 2023-09-14T19:14:00Z
+    webUrl: "https://www.benningtonbanner.com/ap/national/aimpact-2023-experience-our-ai-future-now/article_f56491a3-6fdd-5160-b889-2bacea6bb30f.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
+      name: Bennington Banner
+      domain: benningtonbanner.com
+    quality: 39
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://bloximages.newyork1.vip.townnews.com/benningtonbanner.com/content/tncms/custom/image/90f2e3da-429a-11ee-98fe-73f3cd906334.png?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "DxduEUcHonrs3HsMMqHPACcFxQH5Eb6v4Gj+ARo8wKb4O1ptfWN7SS7uKOwOxKJ0cT4uezoiwAQJb9GzgFX3yNZJuijCsN2MBzgZDzFD1bg9Cd0irj7xkqPScmiep4aKyYxc9DjaBXuMWvgWbnnGFeXDJqArGB3pnYKPxK7mWmwSCJSr+/TxiAhIleVyJFGsF4c02I8kOoGHi8GmZEcT8i94IeWYFfg3yn/MjMh2mA5+ZmykrGBnmD3xqmsobSwMd2T2ocpcKGAQ0UHACJVzA1sUnmje6/ntCUWyBmlOXXa5QXh7DlKQuuuFPLamgSmEB/fIvr2MdKy3B/3SeqbPRNabbkuz/BIq/qtBfdLC78s=;As8BokZlmldzmJeyQCqP8A=="

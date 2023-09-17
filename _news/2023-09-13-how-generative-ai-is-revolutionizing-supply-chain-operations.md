@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-generative-ai-is-revolutionizing-supp
 webUrl: "https://www.ibm.com/blog/how-generative-ai-is-revolutionizing-supply-chain-operations/"
 type: article
 quality: 99
-heat: 309
+heat: 299
 published: true
 
 provider:
@@ -285,15 +285,6 @@ related:
       name: University of Texas at San Antonio
       domain: utsa.edu
     quality: 1
-  - title: "Leading Language App ELSA Raises $23M C Round, Launches ELSA AI Tutor to Revolutionize Learning English Using Generative AI"
-    excerpt: "ELSA, the premier company leveraging machine learning and speech recognition technology to teach English, has raised a $23 million Series C funding alongside its launch of ELSA AI Tutor ."
-    publishedDateTime: 2023-09-12T11:38:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/09/12/9878765.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "A0uCuWQ68Vx8P2o/mFAggeC6TJyn3Ni/HZG/qZParqn+hsfQDPDLpGxpM9lTAUj3wrBD79WHoBugytkkS0LYKAnPsIcFj9EECmLoA69mmKiiYqa2BWWLPoc3Kayz7eGpDX0C1X+Lgn2cyGT9g37+BEOxrBWgLgKriAI5LudRBgiegKVJcJvu3VdgofSj7WK3r8u7TlmSvIYLyzlyhk4biiEz6ZhbZy9bIUFMjqsAR4PtTQT9vzmZkPduVvuVTF3speWye8lbRCkj90VzADW6Il5HkDcwKzsuppFdBiMqxWWjCevtl11m3zpa+Q1ukHIcgk4achbFa8XZXcag3Q/75FbUxRQJaWBmt/9aRX5OFg0=;pF8krosUi8pwPy2xBr4s5w=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/extending-chatgpt-do-ai-cha
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/extending-chatgpt-do-ai-chatbot-plugins-really-change-the-game/"
 type: article
 quality: 87
-heat: 257
+heat: 247
 published: true
 
 provider:
@@ -196,15 +196,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Tackling Loneliness With ChatGPT and Robots"
-    excerpt: "Doctors Qi and Wu presented to Neurology Live a survey of the benefits of AI in their June paper, “ChatGPT: A Promising Tool to Combat Social Isolation and Loneliness in Older Adults With Mild Cognitive Impairment."
-    publishedDateTime: 2023-09-12T12:39:00Z
-    webUrl: "https://www.alleywatch.com/2023/09/tackling-loneliness-with-chatgpt-and-robots/"
-    type: article
-    provider:
-      name: alleywatch.com
-      domain: alleywatch.com
-    quality: 19
   - title: "Gibberish or Genius? Verbal Nonsense Reveals Limitations of AI Chatbots"
     excerpt: "In a new study, researchers tracked how current language models, such as ChatGPT, mistake nonsense sentences as meaningful. Can these AI flaws open new windows on the brain? We have now entered into a"
     publishedDateTime: 2023-09-14T15:16:00Z

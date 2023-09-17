@@ -24,17 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Druid, a conversational AI platform for enterprises that integrates with ChatGPT, raises $24M"
-    excerpt: "Conversational AI startup Druid has raised $24 million in a Series B round of funding, as it looks to double down on its U.S. growth."
-    publishedDateTime: 2023-09-12T13:08:00Z
-    webUrl: "https://techcrunch.com/2023/09/12/druid-a-conversational-ai-platform-for-enterprises-that-integrates-with-chatgpt-raises-24m/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 36
-
 secured: "VuzgrVtVkcBwPzAnuA2jV/D0QqwjfCFgwdEmDDqdsauFRHwViqAuloY+5pYxarO4QhslC7MabvOAc1qWfxu5L0OFj0dCEWFQDMtpC0UxZlpA954rPZ1/9lhiOkM5fqFapNQ66Fioi5Mn8NVG/ChgTQL/14GPvDkxAEWd1aacC3C68p916DYxi7g7Jmo+n3uJBiZ922efIzoKX5athisMkp0I0HQ/ZhMBrdb38ptXK3zeJbsmz34LbMYq3hKKh600AcOB/NUvTzEeI/4xp4ZfqJq+yFpN/fiXoKTRJZIKq0ufigMwqxgVKx+PvTyDktOPk82EfiMQ4lRjUv+pkf/xK/kB4fHcifOQt2BASgTAz0A=;6g4r6BDmZ0QbzqMdE9/w3Q=="
 ---
 

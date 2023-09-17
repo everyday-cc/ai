@@ -68,15 +68,6 @@ related:
         width: 1200
         height: 855
         isCached: true
-  - title: "Salesforce introduces new AI assistant, Einstein Copilot, for all its CRM apps"
-    excerpt: "You can bring data in from Databricks and even run Einstein Copilot using a private Einstein instance available on Amazon Sagemaker. All the data is then analyzed and sorted into a visual relationship graph showing lines connecting products, contacts ..."
-    publishedDateTime: 2023-09-12T12:04:00Z
-    webUrl: "https://venturebeat.com/business/salesforce-introduces-new-ai-assistant-einstein-copilot-for-all-its-crm-apps/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 77
   - title: "Dreamforce 2023: Salesforce Expands Einstein AI and Data Cloud Platform"
     excerpt: "The Einstein 1 platform links Salesforce CRM data and generative AI. Plus, Trust Layer allows organizations control over their own data."
     publishedDateTime: 2023-09-12T14:34:00Z
@@ -121,15 +112,6 @@ related:
         width: 1322
         height: 940
         isCached: true
-  - title: "Salesforce embeds conversational AI across the platform with Einstein Copilot"
-    excerpt: "Salesforce introduced Einstein Copilot today, a conversational bot, available on demand across the Salesforce platform."
-    publishedDateTime: 2023-09-12T12:26:00Z
-    webUrl: "https://techcrunch.com/2023/09/12/salesforce-embeds-conversational-ai-across-the-platform-with-einstein-copilot/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 44
   - title: "Salesforce and AWS Deepen Generative AI Partnership with Harmonized Customer Profile Offerings"
     excerpt: "Salesforce and Amazon Web Services (AWS) today announced an expanded partnership for new Bring Your Own Lake (BYOL) and Bring Your Own"
     publishedDateTime: 2023-09-12T17:44:00Z
@@ -190,15 +172,6 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 18
-  - title: "Salesforce to bring AI assistant to all of its applications with Einstein Copilot"
-    excerpt: "Using the Model Builder, Einstein Copilot can support a “bring your own model” sort of integration with LLMs from Anthropic, Cohere Inc., Databricks Inc., Google LLC’s Vertex AI, Amazon Web Services Inc.’s SageMaker and others. “If you’re a ..."
-    publishedDateTime: 2023-09-12T12:22:00Z
-    webUrl: "https://siliconangle.com/2023/09/12/salesforce-bring-ai-assistant-applications-einstein-copilot/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 14
 
 secured: "AYPjxPNfExfxugucwdGwCOBuRD0keN9jQ4gESr9AJ5fAUDrsn0HVyS08ChgWVz6KWT9K2eF412rHd3sitamJ9CFsBFT72MtglRHD7ZzgcefYEeDnzKIkreauthT22nfTc8lICZfFHotHhTHiMcUafcQ6KmAX2Q59BSk6up56BagZMdBDXSqPVLIhVdJ+QvwfTWPXAQ7didrn4v8Hv6Zn86ilqYJ1ymkFF+jG+z7sxHqIQwfT7OQSn+d5sLO7Hrq5cfMMn3Wpi9K6qsC2fCJ+Oio5NDD34UDut7SkiM6twDUy9RAwtKiS6HdnOEfroP1bZasBUWmqacbCFlbdpW1/i+XkX3FE4MobKt0lEhhO3JcyBYSml4R8n0PvMnS+v5TNPenvyv5hsXaUOcW9n0zu0eBKUMGgpuM36r2GVqW5OQIwr/90VhoiTu5Ww1JjsLte/aKeDloPPdvAmjcfXpwBjVnFhNCBqbVpunzsSWnyw3TvGfK97V5yB2YFtBzshsfiwVW8ojXHlKyCZjC3MyMJYw==;lwk6JNxVQ9bEuxzqwWutZg=="
 ---

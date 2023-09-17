@@ -2,26 +2,26 @@
 category: news
 title: "How scientists are using artificial intelligence"
 excerpt: "Automating and speeding up physical experiments and laboratory work is another area of interest. “Self-driving laboratories” can plan an experiment, execute it using a robotic arm, and then analyse the results. Automation can make discovering new compounds, or finding better ways of making old compounds, up to a thousand times faster."
-publishedDateTime: 2023-09-13T21:52:00Z
-originalUrl: "https://www.aol.com/finance/scientists-using-artificial-intelligence-185204515.html"
-webUrl: "https://www.aol.com/finance/scientists-using-artificial-intelligence-185204515.html"
+publishedDateTime: 2023-09-13T18:52:00Z
+originalUrl: "https://www.economist.com/science-and-technology/2023/09/13/how-scientists-are-using-artificial-intelligence"
+webUrl: "https://www.economist.com/science-and-technology/2023/09/13/how-scientists-are-using-artificial-intelligence"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: The Economist
+  domain: economist.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://media.zenfs.com/en/aol_the_economist_398/bae84b4d519fcdddc9fc85fd84d2acd5"
+  - url: "https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/content-assets/images/20230916_STC417.png"
     width: 608
-    height: 739
+    height: 703
     isCached: true
 
 related:
@@ -163,29 +163,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Pilot Trading Launches Innovative AI Signals Only Mode for Traders"
-    excerpt: "- Brokerage Compatibility: The Pilot Trading app in Signals Only Mode, stands independently, allowing you to continue using your preferred brokerage, ensuring a hassle-free and flexible trading experience."
-    publishedDateTime: 2023-09-12T11:54:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/pilot-trading-launches-innovative-ai-signals-only-mode-for-traders-1032622845"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Softserve Launches Generative Ai Lab"
-    excerpt: "Specialized lab expands SoftServe's AI/ML capabilities to accelerate Generative AI value discovery and real-world adoptionSINGAPORE - Media"
-    publishedDateTime: 2023-09-12T11:54:00Z
-    webUrl: "https://menafn.com/1107051285/Softserve-Launches-Generative-Ai-Lab"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?132894"
-        width: 309
-        height: 250
-        isCached: true
   - title: "How does Stable Audio generate AI music and sound effects"
     excerpt: "A new AI sound generator has been released in the form of Stable Audio capable of rendering 95 secs of stereo audio at a 44.1 kHz in seconds"
     publishedDateTime: 2023-09-14T10:13:00Z
@@ -287,6 +264,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "8jsxX2hTEjmPnUqLwZMRL1DhbdD3mE5CEdTgQhahzAxKF5Jz5gR4tiUZhcJuKyT9zs0A4pa5x2vOtUc+5CK1n+Mbzi1ymmigUg4gxLJyPUDIF1ZJ7BfRhKf7wSaa6OwTBP9AR10+PIvphP1q2VzW46wH1MuFhnxQ2Th+fJwA+SVqjmGtr0/lxpoNuzlSGPuF7TXJO7psgimr5dcWdtFrbKXa8j7vcC74KEL6LsrxaWehXovIVVaWgVDY9Xmoveii/uMwz8KBBcERk+qyqH+BfDro8rcnkxRmDJyBhaQuInEbrsVnBqn/OorgaWIXIz5qgpVQnHeoZTyNk2PF7Xz4Hyfe7ykjg42Wa37keDnACm4=;kkTN0HKrOU8FkK+zKHKBoA=="
+secured: "mQEGbYPZC5LDHlvgA9ibqMe2uIWi5jhsQy2BJqyVjas/4MPmaMh7hVFja8/b8G7WC8gckxOp27RmVVCnSXSrrFjgfHwZ05/KZGXkFvz6Trn6CXD/4VnHUdloETZs6guyBPkbyNRH13sMToW4Sy7TmMnUziaGQMsAiWXJnYtrKiGpr8GER0NMRJ6z/g2jjEkyDlDybCUsx5fm75wYLbDFLa/eHxa9UwU+nc4FpXm2H/QBpeCr3XffC88A7bO3BisU+6H/2VQcrmSgWtIULBcGlcYGR6WRHIJYNCCCRq/1U+6202XIcI3a6cugpJ1ERC/chXtTiQXSR0L8NOOcp4taB8pstOJlT1DrBudjRpFRKKQ=;3Im6HcbIwbRO8V4AY/mYQQ=="
 ---
 

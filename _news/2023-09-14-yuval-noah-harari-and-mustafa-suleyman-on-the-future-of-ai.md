@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Q&A with AI expert and DeepMind co-founder Mustafa Suleyman: 'Things are about to be very different'"
-    excerpt: "In a conversation with Yahoo Finance, DeepMind co-founder and AI leader Mustafa Suleyman discussed how AI will dramatically reshape the world in the next decade."
-    publishedDateTime: 2023-09-12T12:47:00Z
-    webUrl: "https://www.aol.com/finance/q-ai-expert-deepmind-co-124814177.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 19
 
 secured: "6CphPRIRI1Kfb/ndlsdZhkufi/9IiWxtG3ZOeoRb3lVI47bWifDRnuGgRMra65d6JP6BxNUhCXsZIFF9XZd5dacvbVLRfVe3WhIFdPaynWOv/v6y6XapQTqdpmdk9OE1K0cQfssEC1CMJMDSuj2ZkqflLHVIXWeqnuWlq9fSpeJ/w8HofK01LQQ+Zq3aGP264Mrbom3Lli1HkkLMByLfPNf06H8McGXav0KMWH0WHS+UW5uFyU7JMpd9HQrk0vkQpAhZyFTjArSasPsGMZusr4tWRz8rqZGE+eAnCfp4W8m2znGEBMBM7GZODMdGbAN7Qb3hHPaHN8g/FmDKM9KOh2i/4b2T5+n/KkHI96IcHXgFkyKgotrBkcvXL5/CwdSRnh753v8nEGUildfst8KX8oOfLgACoWWmgZuQNmL21ag1vXSWYU/2a/smQTRSbEVmrYeMSsB/vXT1PZNy65ve7US7yRPYJvg9I1TqZpNWHO4Yhy0dCy59W6YG+v/fzY8+Ym7PuBsQUkcN7CDL6UESvg==;F2wJzfveSfh8w5p09tCuJw=="
 ---

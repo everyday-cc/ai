@@ -71,15 +71,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Qlik Announces Qlik Staige to Help Organizations Manage Risk, Embrace Complexity and Scale the Impact of AI"
-    excerpt: "Build a trusted data foundation for AI – Qlik helps deliver governed and trusted data to organizations like Airbus and J.B. Hunt. Qlik’s data integration and quality solutions leverage AI to automate data delivery and transformation, reducing complexity, mitigating risk, and enabling data fabrics. Innovations include:"
-    publishedDateTime: 2023-09-12T13:09:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/09/12/9879189.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 1
 
 secured: "8y9W8Lr7JHBYP8QpJgHh8nzgpVsEHVgIHraW7H0UUsIb2Pe9XuGm0LpC9e/PyE9Lyuh6tqmY6n5/tAr712yl4p3XqG9SgQg6jKZ1qrxDEZtFXye8KFsfaDgotUQyiqar/rv7x9Fv7K6t6sDizHZ++wxQZQdxI5fqICxO5Gmu3UStazUjA4ehFNNp7ZSANtqIGQzTBqMZsoXFctwscCxhcPGoeXKeGO1w6GYnGq8a/tPxRzluvarLPmifPdjojX1XC4MgOpsElPoTLNddjr5d7JWywDV9CGbzVUE23Wb+6t5DgAlPEzr2kdNTNSq6AX/fTavOj3ql7ke1ltXudp7+MbwqilkSqs9pegsSveHhPhXZxpLQz5hXktoTg/5p3yalOANSRNJoI3VjLb8xJLRWz09ioGkNechV9chutWGrFDDMg7uhM2CWF0OqFc3siJQaviCHXmvXLztnzjKDtv+/R3GwZ1F81PCe6SKCCS7bSUksy0ecvGMCm0LjVMPCjmnkYkO7rE4pe1PbTZuWKxkqlg==;+VpwxmuOc1jdP7cOPFnTxw=="
 ---

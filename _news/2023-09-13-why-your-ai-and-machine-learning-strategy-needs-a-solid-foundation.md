@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/13/why-your-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/13/why-your-ai-and-machine-learning-strategy-needs-a-solid-foundation/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -75,15 +75,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Qlik Announces Qlik Staige to Help Organizations Manage Risk, Embrace Complexity and Scale the Impact of AI"
-    excerpt: "Build a trusted data foundation for AI – Qlik helps deliver governed and trusted data to organizations like Airbus and J.B. Hunt. Qlik’s data integration and quality solutions leverage AI to automate data delivery and transformation, reducing complexity, mitigating risk, and enabling data fabrics. Innovations include:"
-    publishedDateTime: 2023-09-12T13:09:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/09/12/9879189.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 1
 
 secured: "4gmt/9wvbNBtkTVO/dJCMigHUGNlEUQxfR68oW1QXZrTDpN468y332rIAfgcT2tNATbOWVWq6WuibeMYPFz3RD4fdK3ql0xnncdn2Z1PuNYqi+xMylTiF+T2OKS3XolHhy1eITOQdsD/kzKaRtetXJly6w2/OZ19fsECDUjgXXxwUHLwVBcEVp97h/5ej1O75gWH5w0r+ljko4NkE1IeFzCN98lJp6hP42OuGZAztDxnX7Mg9qpt+wEdpM039oeB121OP/NsoXHcDO5fvZp0j7vl6jxG5haD4uBW7ofpnPTtfoqhwCd6qvTXwfLu7czRfPaj1PtK73VBOrLyNtPMWWuU9CE/aFdc/E42iCaRiQsY/4WOH5twDBgplmzymx1TScGDMTcQtHCqu1ln5rzRSwUYEnKwMI4rI7zD7GUFljB2/j5V73Za01abjeFFeCd9gDmapsvPBm71+0ZN5qGsns97CaKDIBanuVtyeWUzqbmepqcM5j7+vJ2vnOdbpbmoHZjebBAZVWeb5zOlI6HQjQ==;NmnFou+NyHM9EjQLcT+axw=="
 ---

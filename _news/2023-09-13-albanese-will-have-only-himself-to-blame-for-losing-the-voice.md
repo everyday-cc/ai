@@ -24,17 +24,6 @@ images:
     height: 628
     isCached: true
 
-related:
-  - title: "Dutton urges Albanese to abandon the Voice referendum"
-    excerpt: "Mr Dutton also floated the idea of hosting another referendum, focusing on symbolic Indigenous recognition if the Voice fails to pass. Polling suggests the referendum is on track to be defeated in all states except Tasmania. The Opposition leader has ..."
-    publishedDateTime: 2023-09-12T11:12:00Z
-    webUrl: "https://www.theaustralian.com.au/news/dutton-urges-albanese-to-abandon-the-voice-referendum/video/db0d6a4975e01fdcf2edb3e672612f11"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 4
-
 secured: "+SEBO09L6So8yRNKr/IGh7pKjT14oirIbeG2Fd/RbHLVKUfE7hvfdf2Ppnm0SzC5xnQ4PrzZR8Oix9cjN21T1mwaXhMsP0c3TcCuUOeez4IVxM5AsD5FEjITzsIKGPiCipt/oR7o/aeDzaWdpnvT5H1tO432DXX5oDOUi5Ta5UlVllLzzTIKTuiG/7JYAIujoVt9DT6+x9bsx8uY6De5u9hYBTCEjzV8jdd5S/Z1OJnj5u1lqtela/BcwzvxlJaaiGRBoGaxVPdrs5q7iJa7mZttybqNOxA5lr8IrFHJqnOx7ceiWaCh8fUXu/Je6pfIKIHkfp5SW7cMyYGsew3Yof88YtUqtz72sMpgOx5rFr0=;yf+e28Dv2sp5Nlh5UBz9cg=="
 ---
 

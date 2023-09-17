@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-are
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-are-ai-chips-the-most-important-part-to-sustain-the-ai-landscape-3242586/lite/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1024
         height: 699
         isCached: true
-  - title: "How To Stay Afloat In The AI Surge"
-    excerpt: "AI isn’t just a fleeting trend – AI is becoming more and more intertwined with our workflows. This rapid evolution offers immense technological benefits but has also introduced considerable challenges,"
-    publishedDateTime: 2023-09-12T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/esmtberlin/2023/09/12/how-to-stay-afloat-in-the-ai-surge/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
 
 secured: "BaE0oN1bg7nJZRfGIlgbglu00veEDmvbXQzLsLOpNoIk9IBLfd9H74u7JjzJqq8p4L9M2c5AmWIlfWbpyCKRTCcEbNhNv9H6a/6YVxGrttmJ81xTceIICaIwWlBHiS9Jx4OiFA02UUHH8PTvsRSifCofDxBjtHJk64ATSTgux9aLUiB66cG4MhTPhApoQy/8Nqfmyl1HNylFFAzRLeF8LyCUAo3C5yXT0VDMpZp1byEbNV3Gl/LRO1Mmo8cZL8OunmgqAaRSrw1gn8lNCJxpfK6zZBRyP7xgCQhlgapLDT7R6Q5PSyMpaBlD9E1F9VdAmgNhuZOe1oSrOPQY/RX61wGJlO2rN42FEe8tWorNHLI=;mXKn6Mx+8KbHpG74Px7hzw=="
 ---

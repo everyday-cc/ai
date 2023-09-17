@@ -193,15 +193,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Tackling Loneliness With ChatGPT and Robots"
-    excerpt: "Doctors Qi and Wu presented to Neurology Live a survey of the benefits of AI in their June paper, “ChatGPT: A Promising Tool to Combat Social Isolation and Loneliness in Older Adults With Mild Cognitive Impairment."
-    publishedDateTime: 2023-09-12T12:39:00Z
-    webUrl: "https://www.alleywatch.com/2023/09/tackling-loneliness-with-chatgpt-and-robots/"
-    type: article
-    provider:
-      name: alleywatch.com
-      domain: alleywatch.com
-    quality: 19
   - title: "Gibberish or Genius? Verbal Nonsense Reveals Limitations of AI Chatbots"
     excerpt: "In a new study, researchers tracked how current language models, such as ChatGPT, mistake nonsense sentences as meaningful. Can these AI flaws open new windows on the brain? We have now entered into a"
     publishedDateTime: 2023-09-14T15:16:00Z
@@ -230,6 +221,6 @@ related:
       domain: scientificamerican.com
     quality: 4
 
-secured: "JYk/cLfRRFfRqU5QMPR8LZAjJQieE7l1YFrNNs4I77pm0DSqkQpzVbmTYGL1UdNLWHoFAuB2wWtmIuFF6CZGDy3sw5NI2rOJkDLNmgPZmdbGB/+7eXOmdFfEOJHQphjTZeeN7khdgyPBUTBANfXn3f+xoNwLj0n/Gs6fGS7hMV7hq24rpb3gqqAzgJbXXEZMwefdqxrIu2MxfdGt9owjnDdxVdTwMLnm2yAq1wgbJble8EjUpt+MOROiT6pDdVOB2dRSecqhX2zCv7wIPb5nFKNdVreEzVkFH7FZds9ICO+up5ERe0YMTjUulDwYpCnsfkZWBRjIo5oVp3gt6Y0OlQ2qSah9lRNyqsqSH55IVxY=;z8P1cj2iEfaCy8JXAR15Kw=="
+secured: "AYNF4C05UKYRY3M0vbHVGkaxX2TaexqczGFQK/WaLWlxrV2ntsKQrmZgVOuRLx8k8JLulOwO/kSfC39dgry3WVvgaZYsdVahCBLOIbvadc3q1es/Q+5MhpSXaFrMHvREzRYcOrsWv/0hkxY3p+jTvUNyQD65zC2f58/UxDl8OA2z/Mc5WTHm36JKTuTYQP70Y/xOprVEps+dohhhP40TIiHTMZXFmmjFqk+RcuZgQowr+bClrovlXxub6njGDECeSnw40b17xM0UnYmgHC7FTatOClG+IYT4VYy2/gPQF61w5X7EGNwT/xphIGCM3ji6ygOV198Im6Z2u0ryAIdr1vCpmOcMj+KAipS2aZdgAmHP4UoZbohUv7LOf0+viABoLEI1nzp82PoxRc5XH7xKNN2+QfZtLorGnH/nfqa5/URCxqd3Thm/6WtnMemm8f1XtRKAVZGKQ6bbQK5zRuo48cYjGmQjbJxrhpIKz6mqod0PIpxy+QVzXSCyc2mYMkdSNdmCMlYD7UOjnJ1SfrybhQ==;YUvva8GUnFyt8coGaa9lMw=="
 ---
 

@@ -41,15 +41,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "HiddenLayer raises $50M for its AI-defending cybersecurity tools"
-    excerpt: "HiddenLayer, a security startup focused on protecting AI systems from adversarial attacks, today announced that it raised $50 million in a funding round co-led by M12 and Moore Strategic Ventures with participation from Booz Allen Hamilton, IBM ..."
-    publishedDateTime: 2023-09-12T13:00:00Z
-    webUrl: "https://techcrunch.com/2023/09/12/hiddenlayer-raises-50m-for-its-ai-defending-cybersecurity-tools/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
   - title: "The Duality Of AI In Cybersecurity: Risk Factor And Enabler"
     excerpt: "What will define the cybersecurity sector is how we embrace AI, and how we think critically about it to better protect businesses and individuals."
     publishedDateTime: 2023-09-15T13:14:00Z

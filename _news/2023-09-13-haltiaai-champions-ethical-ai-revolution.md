@@ -282,15 +282,6 @@ related:
       name: University of Texas at San Antonio
       domain: utsa.edu
     quality: 1
-  - title: "Leading Language App ELSA Raises $23M C Round, Launches ELSA AI Tutor to Revolutionize Learning English Using Generative AI"
-    excerpt: "ELSA, the premier company leveraging machine learning and speech recognition technology to teach English, has raised a $23 million Series C funding alongside its launch of ELSA AI Tutor ."
-    publishedDateTime: 2023-09-12T11:38:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/09/12/9878765.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "KkMTtYZdvFkQhrLr4Yid00dePJhz/ViZH9macikDMJDHAHH9OAOlzEMN0eZgMzZtsKs747KImCDBGRC7LDPz0GzQPHriyiEotcYHDrGn11EHQ/FwVRgt4L3LDVcZwPNZwWYiCIpccJSqlL2W4RS3eAF8S+B0QLSfckoLTV/hHxJGQFHnPpE131/X8u3OrS+1OfaOAwvYEp+bfKdJ2dsNP2a5NA4hpa/wiKAPBbyWxL7f8iWtf+PtycAA8e6y4Y7VTl4ltUhCYxvvieLHe39WM9Ym9FIblV/rQ1yBfsxaujIs0fK8vhE/2gFiy2w4//rsrsBC3iPDvT7prZ1FxTxwPvmPG7gMWG6wq0JKopqbWoY=;yE1i2IgqpvSmpTizSumgKA=="
 ---

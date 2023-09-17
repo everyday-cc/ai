@@ -9,8 +9,8 @@ ampWebUrl: "https://www.scientificamerican.com/article/without-small-data-ai-in-
 cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/without-small-data-ai-in-health-care-contributes-to-disparities/?amp=true"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Scientific American
@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "OSF HealthCare Increasing Access to Innovative Patient Care with Artificial Intelligence Diagnostic System"
-    excerpt: "Digital Diagnostics, a leading artificial intelligence (AI) diagnostic healthcare company's flagship product, LumineticsCore™ ( formerly IDx-DR), is increasing access to innovative care at OSF HealthCare for people living with diabetes."
-    publishedDateTime: 2023-09-12T13:02:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-osf-healthcare-increasing-access-innovative-patient-care-with-/2023/09/12/9878881.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 16
 
 secured: "9hEyyRRWf1BLLQZRkLUMCRptGyRBxXcguLkpqzyV1Op4erLOax9okRWSVn9kDwumYZOnWIvdgubpJJ+c43jNMDdlNpdEbh9m7p9cRB1nlXZBCeoip85pgKR8c21Zkd2hluWjRjFZ39I10mqnVLr46GvmuGGmUwsss8y8/M6X/2uZKBImSliIZLEwPUIoMRPyz6VIAeHa6Bt4DKD8ZW3++4uBnmrkzhv3Y1G31EmvhFxddbr/1JHFvJvLxUw951wRp81vynMRty7eZGhNvYV478fJYPHmnTuIQE7VrUcYnd1Ej9aEofQheSftkEIDjHTM+80gQJP0OwvUfcXaKXdc6pJSbCdt8Mx0/INL9zjUdxA=;mKHNo3nNSyu4/PgLe+PQfQ=="
 ---

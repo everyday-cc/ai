@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/ascento-launches-nimble-guard-robot
 webUrl: "https://www.therobotreport.com/ascento-launches-nimble-guard-robot-following-a-new-4-3m-funding-round/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ascento announces £4.3million funding for security robots"
-    excerpt: "Robotics startup Ascento has announced a funding round ($4.3m pre-seed ... The Ascento App analyses video and images with AI, integrating with existing video management systems and providing end-to-end encrypted two-way communication."
-    publishedDateTime: 2023-09-12T11:42:00Z
-    webUrl: "https://www.techdigest.tv/2023/09/ascento-announces-4-3million-funding-for-security-robots.html"
-    type: article
-    provider:
-      name: Tech Digest
-      domain: techdigest.tv
-    quality: 56
-    images:
-      - url: "https://www.techdigest.tv/wp-content/uploads/2023/09/0.jpg"
-        width: 480
-        height: 360
-        isCached: true
   - title: "Ascento rolls out autonomous security patrolling robot with new $4.3m funding round"
     excerpt: "Labour shortages have affected large parts of the world and various industries.The security industry is also feeling the crunch, with many countries around the world facing a 52% staff shortage"
     publishedDateTime: 2023-09-13T15:38:00Z

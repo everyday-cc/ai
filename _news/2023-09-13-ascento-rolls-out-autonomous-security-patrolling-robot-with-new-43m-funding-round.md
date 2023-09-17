@@ -36,20 +36,6 @@ related:
         width: 770
         height: 500
         isCached: true
-  - title: "Ascento announces £4.3million funding for security robots"
-    excerpt: "Robotics startup Ascento has announced a funding round ($4.3m pre-seed ... The Ascento App analyses video and images with AI, integrating with existing video management systems and providing end-to-end encrypted two-way communication."
-    publishedDateTime: 2023-09-12T11:42:00Z
-    webUrl: "https://www.techdigest.tv/2023/09/ascento-announces-4-3million-funding-for-security-robots.html"
-    type: article
-    provider:
-      name: Tech Digest
-      domain: techdigest.tv
-    quality: 56
-    images:
-      - url: "https://www.techdigest.tv/wp-content/uploads/2023/09/0.jpg"
-        width: 480
-        height: 360
-        isCached: true
 
 secured: "HlsDi4cyUZLY+f1s7NA72Q4W+U3HxRrr/nEoy7cXpARAePei6CC6F38us2p2FUatK/PNPcWDWY+zFdNFqjyVSkqs/1/FxdLN+lIO9qELwvqLxgqo/aRKi7qECvXYByUXHriISv7Jv+7HmUg1OSfXfNpzvAEAGB+4lMfu9+GiL+0wliobZ7wOth5ZGDYPeiT3zKWuBPYrsW1MLrJVHs9e7sbJ3213CbFNfntmrMA6EVSisUST3Pp82XWDAyF7De0rt+4ovHqy8EJTT6iTcKsWx4AdhsvHvUsl5ltbX1ljXpn21RwsaumL9RBkHDb129h1SHrpi7lPScqGbdbA7ExCX2Ggfby0+VfVVBdX8cenSmc6yxCmeGpZMIn92tMexK3Nel3EKcOjYZrvylbtY+RhiFIG5PxzxQfknLIGxw5Ugw+32LMHV8quC9mfjqS2G93jh64hMsAARCCJ+HKK927IYe3AIaZd3rj/Xk8Nn+jK5G3PV5PCKadQ86TO2fyBXTKFBxhBGApFCRs9OP0pNbgYdA==;+JP5jLnAtGudhFlkaE5c/A=="
 ---

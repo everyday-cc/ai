@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/09/dreamy-ai-gen
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/dreamy-ai-generated-geometric-scenes-mesmerize-social-media-users/amp/"
 type: article
 quality: 87
-heat: 101
+heat: 102
 published: true
 
 provider:
