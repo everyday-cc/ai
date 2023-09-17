@@ -24,45 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "AI Technology Is Now Fixing Smiles"
-    excerpt: "So, for instance, our AI takes in your radiographs, and it points out the radiographic bone loss you have in other diseases, which helps the dentist to not miss it.\" To stay updated with top startup news & investments, sign up for Benzinga's Startup ..."
-    publishedDateTime: 2023-09-12T20:59:00Z
-    webUrl: "https://www.benzinga.com/news/23/09/34506055/ai-technology-is-now-fixing-smiles"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34506055"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34506055"
+  - title: "Defence AI startup Helsing breaks the record for European AI, raising a $223M Series B"
+    excerpt: "Helsing, a ‘Defence AI’ startup backed by Spotify founder Daniel Ek which had previosuly raised €102.5 million, has today pulled in another €209 million ($223 million) in a Series B funding round led by General Catalyst. Swedish heavy industry and ..."
+    publishedDateTime: 2023-09-14T13:05:00Z
+    webUrl: "https://techcrunch.com/2023/09/14/defence-ai-startup-helsing-breaks-the-record-for-european-ai-raising-a-223m-series-b/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 39
+  - title: "AI startup Helsing raises $223 million in Series B funding for defense solutions"
+    excerpt: "European artificial intelligence (AI) defense company Helsing revealed on Thursday, Sept.14, that it secured $223 million (approximately 209 million euros) in Series B funding, with General Catalyst, a venture capital firm, taking the lead. Swedish ..."
+    publishedDateTime: 2023-09-15T11:10:00Z
+    webUrl: "https://cointelegraph.com/news/ai-startup-helsing-raises-223-million-in-series-b-funding-for-defense-solutions"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 32
     images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/Future,Digital,Technology,Cyber,Virtual,Game,Entertainment,Metaverse,,Teenager,Having_0.jpeg?width=1200&height=800&fit=crop"
-        width: 390
-        height: 260
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDkvMjVmOWYxODYtYmU0ZS00MmMyLThiNTItMGNlNTM2MjRiOGE5LmpwZw==.jpg"
+        width: 1160
+        height: 773
         isCached: true
-  - title: "Maxeda Technology: utilizing AI technology to optimize chip layout design, enhancing chip design efficiency and performance"
-    excerpt: "With the rapid development of various digital innovations such as Generative AI, the demand for high-performance chips in the market has surged dramatically, leading to increased complexity in chip design."
-    publishedDateTime: 2023-09-14T07:16:00Z
-    webUrl: "https://www.digitimes.com/news/a20230913PR203/maxeda-technology-press-release.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 28
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230913pr203_files/4_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "‘Technology is not something we can hide from students’: How NYC Public Schools invited AI into its classrooms"
-    excerpt: "The school district collaborated with Microsoft on a custom AI-powered teaching assistant that can offer real-time feedback and answers."
-    publishedDateTime: 2023-09-14T15:27:00Z
-    webUrl: "https://news.microsoft.com/source/features/digital-transformation/how-nyc-public-schools-invited-ai-into-its-classrooms/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 0
 
 secured: "5NTmHDUxc6HBl0rizPHwb/q6DWJDcelQZRym1EB0+l3e3A68rNOFzXSPNoKR2MV9U+f03GvbaoA71RrzIfppUvoNlc+oWub2BNSnWUhORW17mFhECwtbCw126nDXeQjbf1Zpz7qMxXMi0xfuzoBtTmJZZwCrUVnuGRuPWtWssutAwo7y/ZmROdbdtp/xDDx10YB7X+G9JNqFAE6EwbcRAdDs9BHpAB4+eIbIrflEt2uTt8rRBnTXAen7+sRhMyLwna17GGwE2rDVkoimp8YiaPIn38az49KzRpm/DqDBOmPPiI+o2VN8ZTs/jz6c6DgvKspBu++5IlOhXZXu0JrhQPDteGY6lx6OYQlQpHqw6MYiIbWAmgIwUdRD0LIXtMRl6M/7ZxWHHz0TyyRlGQhUzrJ4LG4BHQ9Uos0GXanHj0BtCxPPE4MvujAG3gWWWPFvToUSs4ByMLd5VmWlRMdsmv9KqirHwI+mFRTUdSNZ7tdGXsuk6YpNiHxq8lWvp5pexvzlQqzPqO0WzPpdpXm1Ag==;PuhMXzs2H4hkGGJ7oM6qDA=="
 ---

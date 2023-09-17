@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/09/13/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2023/09/13/how-to-prevent-ai-from-eroding-employees-critical-thinking-skills/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Five ways CISOs are using AI to protect their employees’ digital devices and identities"
-    excerpt: "AI tools are proving effective in identifying anomalies and potential threats in real time, ultimately shutting down breaches."
-    publishedDateTime: 2023-09-12T20:00:00Z
-    webUrl: "https://venturebeat.com/security/five-ways-cisos-are-using-ai-to-protect-their-employees-digital-devices-and-identities/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 59
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/01/fake-e1694548593889.jpg?w=1200&strip=all"
-        width: 1200
-        height: 594
-        isCached: true
 
 secured: "KRGzfpSFh2sJ7VDbOyQXH1Eehzf3Uz8i8CEshwKeY/edX6ESrr4A9N0L1ONNxZuUMlOBP1xaijRjrQmUF7CjRLr/WOGZbhQUwd6oPS5NC++4WjV+JKh3OsTh9Ix9pZAJuiN/OTaYvOV3ZReuWHzKfN5BFm+umbcxL1798Hwm/lqU71lt7GEosdckmLm2SpCenv4CwIC4p51nsIRTkcpZZUNMAkTy1dKZNuUeZUKfuRN+2/lptYK1+zjkq987QOnQIPoLbt9sM6wDnDhDlanUMZlSZxKFRHdpGfw3QOMiGZ8PPnNl8bmKcfErfrm30gUmuRc+Q1KXa5/9FYfhgPHCEUTe0o7AhOQPWW+Sm3TsrJ0=;wDqKuH5B5mLO+7xevAIOrQ=="
 ---

@@ -24,6 +24,17 @@ images:
     height: 1333
     isCached: true
 
+related:
+  - title: "Computer Imaging For Early Detection of Greenhouse Diseases"
+    excerpt: "Adam Greenberg, CEO of IUNU, explains that imaging and AI is really about helping the grower scale how they already know to grow. The idea is to take established processes and equipment from other areas and adapt them to controlled-environment agriculture (CEA), providing a usable tool to the grower."
+    publishedDateTime: 2023-09-17T12:22:00Z
+    webUrl: "https://www.greenhousegrower.com/technology/computer-imaging-for-early-detection-of-greenhouse-diseases/"
+    type: article
+    provider:
+      name: Greenhouse Grower
+      domain: greenhousegrower.com
+    quality: 4
+
 secured: "EBiqww6ERYbVv/WKCiEGTMjxI2W2LJ2kMr8VoDAS1pOqhb7XC7Ibx7Dji27hWYp2PXWAyeQd+wMmqy5QJKz2H/UYz1z2ZkTqnL8of+xlC9c80lvGmDNhwEOHmzv+pFjYujxeiLbxqikfsklRGEFlIj5s1OEFZakg1cSmrcsM3lcxoDPCjsllLlCp9ab7gvC6RIgyq4Wzx/34dlDMVkPnA24OCkdYs4NkUOlainQkulONvYf5Y6+4Tt3EsuQRueLn261Vu5T2ILLkZ3Tk5zFK7nVjh1ZCrt4BCQgnL32o4m5yzPQEDpk6Sr+ZYxQ8nl0POxtqV3QulBUxUaIRqTOAxeaDV8bv8Lta8Z2jP20VPdab68GqP91d/119OwAv1y3MsoKOvnoK/lVOWlGjTNxjsyXdVj0f+v6BrDmMZH1dyy+1dBr+sQCelRk2bPGY987aN2jU8C/bNEQHIw92Rp/xsuMKblqysTqC39HrtYIfRvahFYA0mPjvMEyCZNZaXBDXw9VQ0wHkzlr8PkLon3S4DA==;mRDSAv2z42MJf06NRdu2/A=="
 ---
 

@@ -117,6 +117,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Forget ChatGPT: Facial recognition emerges as AI rulebook’s make-or-break issue"
+    excerpt: "The battle brewing over artificial intelligence in Brussels is about facial recognition. On Wednesday, the European Parliament's plenary passed its version of the Artificial Intelligence Act after two years of wrangling. The text — backed by a coalition ..."
+    publishedDateTime: 2023-09-16T16:24:00Z
+    webUrl: "https://www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/"
+    type: article
+    provider:
+      name: Politico Europe
+      domain: politico.eu
+    quality: 30
   - title: "Why Japan is building its own version of ChatGPT"
     excerpt: "Some Japanese researchers feel that AI systems trained on foreign languages cannot grasp the intricacies of Japanese language and culture."
     publishedDateTime: 2023-09-14T03:41:00Z
@@ -159,6 +168,6 @@ related:
       domain: scientificamerican.com
     quality: 4
 
-secured: "67gTIxDl6VB25QDrD53HklAXY6Tf5IU7ZcLX28bwtEWr4pJ+VoN82FqLGRxrl2l4/zKeCTic1+/MBILi/rilFOd+1QYeqNsHpU2j9norK+N8jTXp33nDv/UDzsBZ4P24ka7qdOv2ulljYnPbtqp65Z2a7BMA7JqZ3oqE6FnYE4tdsGnkGXLQpXYxedDV4FMTgKiPewshRb4G+zouajU4+PFvs32SVIywi+AC/jpXoI5hTFJLQneJD1FzkclKagcS1GowvLkBQvN6/2RawGEXCWL+EQToWfway/XQxbGPJ9hneGS3XOHFuOZaf6nKOsrLG8J5+BdrmseHP4HOJh/9NXzhJ3rWtMcAfIOmm9WCkTI=;0L9AhWi2nj3ExSioQegEhw=="
+secured: "kgmVDkAoPKSBU9PpiSZ3h8MuOPGWGIrFByVYSNNNL+xlBF8zeARwS+Jyhv1Oa+up1XI6w2JTWvnMIpnYGvlFoFeyXxIAYxQ+B9Z1RMz3oRrBdHXB7MjSTft2W9Pfh4fVo/yT56BBZiHgXn43x9zTfl/G2tNMsLhagFT63kC0dBB0U5SMJzCJbXuHnZ96gsoZQhb9uk1OXRiC4h9gdqrC3qlesjAELshjMUyPqgfX5xYkkUa5KbDBH0nRPWn0pUTlXNmb6A28J+XO7YBCG1zxTMvJUaN1Ylu9EJy5AhrXBzBnvW+enGd5h6UiU4nWK8cBOEikb34XQLUelMh/dvmjPoZ77D7cue1ah5ZhGxvx7YS7BSQOfOQ4xbRGvqB7+TaA7EAghndmeYcowTe3xV2xbI8rJKn8/XuWdiC71JV1VR/2naFIsiUbKhZ3a+C3UT7ZU0dWzlCSvZhVY4yMqyBt57nFe2rTsdeNNjnl3a4rmtshXnMMoWDVW0dgXJ15p6rfCsSQpNeepH/a2l4YMU6gog==;9LAZ4vMFQ13Dp9dmlClqkg=="
 ---
 

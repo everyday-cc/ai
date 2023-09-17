@@ -26,6 +26,26 @@ images:
     height: 720
     isCached: true
 
+related:
+  - title: "Indian entrepreneur's UK start-up using AI to transform services"
+    excerpt: "Indian entrepreneur Anuj Gupta's start-up, GreenVan, is attracting global investor interest with its conversational AI software that allows users to b"
+    publishedDateTime: 2023-09-17T12:53:00Z
+    webUrl: "https://timesofindia.indiatimes.com/business/indian-entrepreneurs-uk-start-up-using-ai-to-transform-services/articleshow/103735266.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 17
+  - title: "This UK startup by an Indian entrepreneur uses AI to transform services"
+    excerpt: "Opened for a funding round recently, Anuj Gupta's GreenVan uses a simple WhatsApp interface. It is designed as an 'Amazon of Services' offering that intends to transform the way people book essential tasks online."
+    publishedDateTime: 2023-09-17T13:06:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/startups/this-uk-startup-by-an-indian-entrepreneur-uses-ai-to-transform-services/articleshow/103735479.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 17
+
 secured: "9xa1QX6ZnYtONBwQo57bVpbDfaE/4QjlMtLsI2lQfjig9JLsnCWZHNn3GDIXNE/2tXd2gQGpUlSc53lUsrSz+dhbC9x0ewAqFWNIk3PtZV9JzvEZMthTyK04rjanRC2TYs/CAjuEt6Cd7Mw+Nw+ytIO6YwInw5duGuaUYJY+ZN6n+/Dnp8wNXWHG0WtcwsWS+AYXVg78cOcpS0zAo/DxwOCS1NyKmkANtrR8O6rT4c0Q0HdQIuQGhIt1YQLRUbfTBKwRVw2V3eHp64F/+amtcwDL5F9yvPwYnN0vIrzW9TuP63F2wqJN0dt08lejJvCDhAkaniqss/bPFRh8x01hr2JQRbbHGVGGaj9HODSKJG0=;KH3QSVgTKW9o6ujjO9HhLQ=="
 ---
 

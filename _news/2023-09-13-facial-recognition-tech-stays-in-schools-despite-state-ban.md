@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Marc Bouwer Art Exhibition 'Facial Recognition' Opens In New York City"
-    excerpt: "Marc Bouwer, Painting Waiting to Walk (acrylic on cardboard) (Photo Credit: Rozella Kim Photography) Paintings Kisses Gone (Left, Acryli"
-    publishedDateTime: 2023-09-12T20:30:00Z
-    webUrl: "https://menafn.com/1107056353/Marc-Bouwer-Art-Exhibition-Facial-Recognition-Opens-In-New-York-City"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?802913"
-        width: 388
-        height: 250
-        isCached: true
   - title: "Facial recognition tech stays in schools despite state ban"
     excerpt: "Education groups and school administrators estimate as many as 50 schools could already be using the surveillance technology."
     publishedDateTime: 2023-09-15T19:00:00Z

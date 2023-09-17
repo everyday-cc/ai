@@ -19,15 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "3 AI Chip Stocks to Buy Instead of the Arm IPO"
-    excerpt: "and it has shipped over 250 billion chips to date. Part of the catalyst behind the IPO is to raise cash for investments in artificial intelligence (AI), where Arm hopes to compete with chip design rivals like Nvidia (NVDA). So if you're looking for an ..."
-    publishedDateTime: 2023-09-12T19:16:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-ai-chip-stocks-to-buy-instead-of-the-arm-ipo"
+  - title: "Shares of AI chip designer Arm jump 25% after largest IPO in nearly two years"
+    excerpt: "After a nearly two-year drought in the IPO market, UK-based chip designer Arm made a successful Nasdaq debut on Thursday, finishing the day 25% higher and landing the company with a market cap of around $65 billion."
+    publishedDateTime: 2023-09-14T21:06:00Z
+    webUrl: "https://www.cnn.com/2023/09/14/investing/arm-ipo-nasdaq/index.html"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
+      name: CNN
+      domain: cnn.com
+    quality: 61
+  - title: "Patterns And Issues In AI Chip Design"
+    excerpt: "AI is becoming more than a talking point for chip and system design, taking on increasingly complex tasks that are now competitive requirements in many markets. But the inclusion of AI, along with its machine learning and deep learning subcategories ..."
+    publishedDateTime: 2023-09-14T07:08:00Z
+    webUrl: "https://semiengineering.com/patterns-and-issues-in-ai-chip-design/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 54
+    images:
+      - url: "https://semiengineering.com/wp-content/uploads/AdobeStock_164317986-AI-scaled.jpeg?fit=2560%2C1707&ssl=1"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Shares of AI chip designer Arm jump 10% after largest IPO in nearly two years"
     excerpt: "UK-based chip designer Arm made its Nasdaq debut on Thursday ... After a nearly two-year drought in the IPO market, AI kingmaker Arm started trading in New York on Thursday afternoon with 95.5 million shares under the ticker ‘ARM’ (ARM)."
     publishedDateTime: 2023-09-14T16:42:00Z
@@ -41,34 +55,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wsiltv.com/content/tncms/assets/v3/editorial/d/f5/df5a7bdb-7bc5-53a3-92c1-e751e3b7da3f/650313489846a.image.jpg?crop=1600%2C840%2C0%2C113&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
-        isCached: true
-  - title: "SoftBank seeks AI investments as Son plans deal spree after Arm IPO -FT"
-    excerpt: "SoftBank is looking for deals in artificial intelligence (AI), including a potential investment in OpenAI, after the blockbuster listing of its"
-    publishedDateTime: 2023-09-16T10:42:00Z
-    webUrl: "https://www.shorenewsnetwork.com/2023/09/16/softbank-seeks-ai-investments/"
-    type: article
-    provider:
-      name: shorenewsnetwork
-      domain: shorenewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://www.shorenewsnetwork.com/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2023binary_LYNXMPEJ8F02O-BASEIMAGE.jpg"
-        width: 800
-        height: 537
-        isCached: true
-  - title: "SoftBank's Son plans AI deal spree after Arm IPO - FT"
-    excerpt: "SoftBank's founder and chief executive, Masayoshi Son, is looking to invest tens of billions of dollars in AI, the newspaper said, citing two people familiar with Son's thinking. Son said in June that his tech investing conglomerate planned to shift its stance to \"offence mode\" amid excitement over advances in AI."
-    publishedDateTime: 2023-09-16T14:21:00Z
-    webUrl: "https://www.aol.com/news/softbanks-son-plans-ai-deal-094411236.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/e8613500d14481ee074e773b637de2dd"
-        width: 800
-        height: 537
         isCached: true
   - title: "Arm IPO opens at $56 per share as biggest IPO in 2 years tests AI hype"
     excerpt: "Arm added nearly $10 billion to its market value minutes after its Nasdaq debut Thursday, suggesting investor appetite for the chip designer remains firm after ... \"The Arm IPO will be a test of AI mania (and) although it boasts a different business ..."

@@ -37,15 +37,6 @@ related:
         width: 1228
         height: 690
         isCached: true
-  - title: "Apple shows iPhone 15 models: USB-C, telephoto lens and GPU redesign"
-    excerpt: "At Apple's \"Wonderlust\" event, the latest iPhone 15 was unveiled. The iPhone will feature a USB-C port, as previously speculated. For the Pro models,"
-    publishedDateTime: 2023-09-12T19:21:00Z
-    webUrl: "https://www.techzine.eu/news/devices/111218/apple-shows-iphone-15-models-usb-c-telephoto-lens-and-gpu-redesign/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 19
 
 secured: "rVyLoyLMtb59N65L4xloI49915XYwlgedkb6i0siG7TJBuWImfeWb/6ncp0rVuOdqsM7MlaqsPpUvZg4EHf/ClIMWkUjDL+kPjlaG9SAnKIR6jEXNaXKUdlH2vcozfcqKRhM03Stso/6IWBjbtuxOrGaP8ESkuOmS9CzLXlAISOxErn/w2u9WwkcKhC0Orbu5xgi9InBJDjE5jPAhY3lZjjAsSCDfz9UJmVrK6S+z/iFupB0I2YpkOw44rp1eIpGnwB6R18Km83lVzuzRGKZrJFs0Y73+MKevLLoD/wujSN/74P08LU3SD6OcYy7MyYMGhBaJdrXbQodlZ7+j1/zd13j4uOFZqU8xZJeUngy6xXOONpgX4a58Bc7xQeAGV7QYrJLNiiQ+k9HuzDwXX4zM3hhO2TmCIpsNiJSMavnzqFoDeO4wPA3DcQSLJtXTDBtp6Dsc7uAGkv3tv2Q3kymxzxYkmIFIQdG0WgZAiUDDX+r2h0e3IO3iZm9ewmpT4fbDRTeXmUi79VQkBjfC5CtBg==;OcWdq8H3WZJOTuhZtOeB/Q=="
 ---

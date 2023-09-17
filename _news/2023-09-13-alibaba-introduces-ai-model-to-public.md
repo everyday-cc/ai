@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/tech/ai/alibaba-introduces-ai-model-to-public-
 webUrl: "https://www.wsj.com/tech/ai/alibaba-introduces-ai-model-to-public-bd120c33"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Edo Academy Introduces Artificial Intelligence to Public Service"
+    excerpt: "The John Odigie-Oyegun Public Service Academy (JOOSPA), has in Benin City, declared that artificial intelligence the world over, is transforming the way governments operate and provide services to citizens."
+    publishedDateTime: 2023-09-17T15:01:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2023/09/17/edo-academy-introduces-artificial-intelligence-to-public-service"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2023/09/17/edo-academy-introduces-artificial-intelligence-to-public-service"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/09/17/edo-academy-introduces-artificial-intelligence-to-public-service"
+    type: article
+    provider:
+      name: This Day
+      domain: thisdaylive.com
+    quality: 57
+    images:
+      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/JOOSPA.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Alibaba Opens AI Model Tongyi Qianwen to the Public"
     excerpt: "SHANGHAI (Reuters) - Alibaba said on Wednesday it will open its artificial intelligence model Tongyi Qianwen to the public, in a sign it has gained Chinese regulatory approval to mass-market the model."
     publishedDateTime: 2023-09-13T01:07:00Z

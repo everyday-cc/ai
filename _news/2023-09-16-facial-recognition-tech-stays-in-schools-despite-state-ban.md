@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Marc Bouwer Art Exhibition 'Facial Recognition' Opens In New York City"
-    excerpt: "Marc Bouwer, Painting Waiting to Walk (acrylic on cardboard) (Photo Credit: Rozella Kim Photography) Paintings Kisses Gone (Left, Acryli"
-    publishedDateTime: 2023-09-12T20:30:00Z
-    webUrl: "https://menafn.com/1107056353/Marc-Bouwer-Art-Exhibition-Facial-Recognition-Opens-In-New-York-City"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?802913"
-        width: 388
-        height: 250
-        isCached: true
 
 secured: "BDAQv/tWBgebrRE7ZWbCw+cLgNveU4tY+fPj8q7bTOoK5EzxTBfikjTZe+Jr8NswB+sosXxLIvTq5puaFuQgyM0QG3vvMrtojxQxdT0ViarGvVA8Tdcr0ikTx5XAOG5T3KBWsIuzLC641i8D582rUmZjQiS5iIZWVSRNW0nQDU+2sm2y83SW472+BVsnl0+wgc+t/prbsWf4YurSrBRxxvS6kz9MO1htqb8qKJe8i1YdjPi06Y+s/P4ZoVbOmxAK5BHwFdnezdd+pexFsQ/DqYLdPsbtlgfBOMLlY+lTwoCLzQiPM0MGUbLMjoP8o9/szEaKIBCKTNJMQ5XO8YkK6Nj0sSu8FrvUoQEDKruslnA=;jypgle2RdHGjallmxEQk9A=="
 ---

@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 752
         isCached: true
+  - title: "Google Cloud Is Betting On Gen AI To Drive Sustainability"
+    excerpt: "Gen Ai can play a key role in fostering data transparency across the supply chain, in this article I explain why Google Cloud wants to be at the forefront on this."
+    publishedDateTime: 2023-09-13T17:01:00Z
+    webUrl: "https://www.forbes.com/sites/carolinamilanesi/2023/09/13/google-cloud-is-betting-on-gen-ai-to-drive-sustainability/"
+    ampWebUrl: "https://www.forbes.com/sites/carolinamilanesi/2023/09/13/google-cloud-is-betting-on-gen-ai-to-drive-sustainability/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinamilanesi/2023/09/13/google-cloud-is-betting-on-gen-ai-to-drive-sustainability/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6501e94fcb263d23895e700d/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The raw materials for creating AI"
     excerpt: "Explore the resources and materials that are needed to create AI"
     publishedDateTime: 2023-09-15T16:14:00Z
@@ -257,6 +273,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "SlpPfuBkejJ2YArjpAHR0D4Z2FRmYnf4v7nVlHKuF0/87KxEFfrrWvft63n+YAD3P/J/J6NxpPNnnz1aR6vTJ9XulJ8ZNJftf2C528DZ/xN5hoOG8RIJBtUh++D9w7FLAf7aQNAiKikHlG0yZR7fjVMJDrv9O5sW/7zmdRMK0/CAdJbardWX+1mAYdCvHP7K58OwbSfcp0Un784jHZv2MsHyJ5ETPLHKk4iyIWjDqqTljFYXfTKl95uV8BLBn88jBfETMpOe2SqzbQU831/D/3hNGAIMhiopaPeqLgQl5ZJFvREm5wswYhrGGXGrxp38se3vIk2jGVl+YCRn/0RTRcBUc0XuxDyYdRQDzuLtBF0=;/rOLYAE8QR2lajefnB/8Zg=="
+secured: "1IagvQmWYDoxjN92hwPgPrsmdZKZ7D/bL8Z5KUpCt/ke4NUa4KBCdUVn/XQONf0XGKoclBEXVmJL6TkxckvdirtlbYCTuzFkIKQlxs/SZdWnzlljSfgSlELwcDvdDCaPRhaip7D+W7ikGtLHMvjordAKwtRW8tnHikwSHwVbCZhQvuiMy7VnWtcfZKcfx53WcEnByrTwypnKFvAgVYRObyC43mL9eQ2gngHyV/zhcWaQ8yYRuBWM9PLcD176XH4gSEZpRTUPX8AihZxMmB3qMMBJwWA0RHsH/odITLpT44ciIdJnklQ7LfzUgsnypXb+nHBcVHJXXgK4XHnUpWRiU/Eu6ZEHkEb9h5rKqJn5jp0=;/UX95pCguY+ovjT94+iSZw=="
 ---
 

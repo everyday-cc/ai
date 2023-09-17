@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/extending-chatgpt-do-ai-cha
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/extending-chatgpt-do-ai-chatbot-plugins-really-change-the-game/"
 type: article
 quality: 87
-heat: 197
+heat: 207
 published: true
 
 provider:
@@ -106,6 +106,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Forget ChatGPT: Facial recognition emerges as AI rulebook’s make-or-break issue"
+    excerpt: "The battle brewing over artificial intelligence in Brussels is about facial recognition. On Wednesday, the European Parliament's plenary passed its version of the Artificial Intelligence Act after two years of wrangling. The text — backed by a coalition ..."
+    publishedDateTime: 2023-09-16T16:24:00Z
+    webUrl: "https://www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/"
+    type: article
+    provider:
+      name: Politico Europe
+      domain: politico.eu
+    quality: 30
   - title: "Build Intelligent AI Bots That Speak Your Language: Maqsam's AI Conversational Chatbot Unveiled"
     excerpt: "One of the standout features of Maqsam's AI conversational chatbot is its hyper-local advantage, especially in Arabia. For businesses operating in this diverse and dynamic market, where dialects and cultural nuances vary significantly, Maqsam's AI chatbot provides a localized solution that ensures meaningful interactions with customers."
     publishedDateTime: 2023-09-13T08:18:00Z

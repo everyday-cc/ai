@@ -7,7 +7,7 @@ originalUrl: "https://www.smartcompany.com.au/opinion/artificial-intelligence-sa
 webUrl: "https://www.smartcompany.com.au/opinion/artificial-intelligence-salesforce-dreamforce-trust/"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Salesforce Building Toward Artificial General Intelligence For Business: CEO Marc Benioff"
-    excerpt: "CRM and cloud software pioneer Salesforce is building artificial general intelligence for business, founder, CEO and chairman Marc Benioff said today at the company’s"
-    publishedDateTime: 2023-09-12T19:45:00Z
-    webUrl: "https://www.forbes.com/sites/johnkoetsier/2023/09/12/salesforce-building-toward-artificial-general-intelligence-for-business-ceo-marc-benioff/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 23
 
 secured: "P3CD4Q3yb50eClNgCXeo+S/LY/3DBgYlKm4lzQCpHBfeadlUQfhKuK61SM+pNwb+EWrzVXiaSAHZ0+Faoj+7dCK/GTnEBUExcMHAqHovfkVCvFYJMVx/t71hN4uzGeyAL/r0ggQQzd8JRN5pDKVvmsSOUVvlh7O1skioxRF5Q68GER07we3VBY321XWSBSIkMiad+S/yU9Q3RkSA48oGF4GQf7wKdCIjf/u3RE0yKQ8qDzD7eUQPgjcRV2T0c7bJJALSMUW7TXAhmNGjaf6/U5QR5LVW95BZ5/rXL7cA6211nRaxe24yIILmO0BbtLl/IIkirvZ2hwtP1P/LoR03AFulsnFIL8lnQHWTFPm+viAiJeJUdDqXIz4TsFeAmnrq28q2/S8K0oo7SnLE+m8we3rEI8Per6aMoxkXmX9Zi1bFrn7gC8F76ncSZ5rwmXg7tfedomfd/XWP0NHldJ8VNVgWCHNoY3rZQ5BiMTKiiwSw5CGdiVym6I+JNBStJXCwVJp8Xn6c5BCOZxjnZS426Q==;c70g0hOQ5JkHbvCPrHhkFw=="
 ---

@@ -2,19 +2,19 @@
 category: news
 title: "State laws are putting AI in the driver’s seat"
 excerpt: "Are you riding alongside driverless vehicles in your state? TruckInfo.net analyzed legislation across the U.S. to make sense of the range of laws."
-publishedDateTime: 2023-09-11T15:31:00Z
-originalUrl: "https://www.sacbee.com/news/business/article279208249.html"
-webUrl: "https://www.sacbee.com/news/business/article279208249.html"
+publishedDateTime: 2023-09-11T16:30:00Z
+originalUrl: "https://www.miamiherald.com/news/business/article279208249.html"
+webUrl: "https://www.miamiherald.com/news/business/article279208249.html"
 type: article
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: Miami Herald
+  domain: miamiherald.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "zxILbBNVZAu/xK5hY5Hte2lbGQefwcIWGKKLoySU6jhkXFSdLITN4gQGoTZWWJCZibs321TWtrKqnFCXxxY7ZFpuRMSKSHy1TMWMWODv/pfdvH/yTfsVPucHTrqoW/K1tYSNY/IPAg8/V2/Da6DR5fn76kPSNrZ+tRYGpOvc5f753YofETaNpT8VwqGVB12xlgkHQ1xXiDdzt/r2u0DSWlibJ1X/q7fEyydUW6IG2GolFEra22kSVWa8HizGNjnbdaVfHjk5ooI8QmvKhPNrThSMiCFdSN7TGL5WOP6rpsLpSnWtmhseLVQ7RtE8P5rgcXol4l/xmRvP/OvTD4Toq7KzvcJFZKyz5bUELiDYdZHO9TEn2w0m2CU8YdITGRDnq/KNt8Y6JR60PfML3Ro+JK5N2LzB9Eme9VrECPCQDu2QU1o8phYuG41a7Xg3cDFRy22KmbIj19+HLIT7+WeuaQjETyxFxmgA4AivOtJONc3eH3aWkSA+5KkTQruMPGvLtQdOjUNye8Z3gYy/rUMExw==;BV3Ja8s1FKKcocZ1UfcJhg=="
+secured: "XeuZOyyzRckDzKkGzjp36JIghq4VEOA9F19O9pgyQUjZqWNP3IjBUJjWedgq5TvIGb16MriY54IKC1xeAuq+nFT2J7ETkmJYVYNB01suKHCTpGGtX2vUGTv60buMaCKxDlNIqxelJmfTOE/XDl8DJmq13PBr1LBH8bHYrz1vkLuf4Mv9zFGHJ96ygE2tkbr85fUEQGmiYxr8joVsJkadbEcZYc4o5/o+Zt7wfbNR1FBYfonS3q/k/fZuDOlhM2NCaciXMXq6sD/ojVjwyGN7r9rTQhF/blzrSmmKdgn2CWW2JzkF4dDWzRs1LYJdjcmW52Li2TV9tTgK7Lsd2GWAzXgC4dXG3D/LPBmvBt2MTTy1LgivPuzbOVMM8UcYAuxTKEV46E9WCz5tCrBsUNAC3o67UgGpedROiLOTwZgIciy1cqP9MoJOhgVQDJdm1u1rdUGe6Hydj6BtZX9FUzVbecaAXwvBdI86GQ/sqezoe09VWwYnrqGIjF0dWyKavWyX6li5qdgpj1qs+hGMRs9TzQ==;OKLheBGFpK3e97O2fG260A=="
 ---
 

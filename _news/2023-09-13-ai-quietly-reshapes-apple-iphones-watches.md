@@ -34,15 +34,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 49
-  - title: "Apple shows iPhone 15 models: USB-C, telephoto lens and GPU redesign"
-    excerpt: "At Apple's \"Wonderlust\" event, the latest iPhone 15 was unveiled. The iPhone will feature a USB-C port, as previously speculated. For the Pro models,"
-    publishedDateTime: 2023-09-12T19:21:00Z
-    webUrl: "https://www.techzine.eu/news/devices/111218/apple-shows-iphone-15-models-usb-c-telephoto-lens-and-gpu-redesign/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 19
 
 secured: "P5VaOMagwwNGXG2xf7O0AK/jJf/IwNR3t1xehu5GhFDshYp3T3/u5Hn4fAWzcwlTfj9hT/VvaXxGMDYBB62s/tCXr/fYZC/3OAbNFt7YCkJBK+Y1bsAPPMoXEqU8FSNHOXPcJE+uKz4+Bjf/gP3SSTIozNePB5gLem8b4OOlKpybzksZ5douWm2o2rUkSjyWiJiHcpuFFHRDdu1vSebPNmui6Y33EnkGxxX16hsTZtKfNUVwqeMZE7h9PvJxYXxG8+ioyxqT6WdJKd5Rm9gwB1rE3VzFXz3nAtCqG8t2C5phAUZikxOMFBpCTBulcQA51dGOR58QNWm6HMW5p3n5e9u7tJa09Rb4QlegWXwTebM=;q1IJ08BtjdlZFbDJXSznlQ=="
 ---

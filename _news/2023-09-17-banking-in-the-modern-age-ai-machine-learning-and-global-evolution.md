@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/banking-in-the-modern-age-ai-machine-learn
 webUrl: "https://techbullion.com/banking-in-the-modern-age-ai-machine-learning-and-global-evolution/"
 type: article
 quality: 71
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -77,7 +77,16 @@ related:
       name: insidebigdata.com
       domain: insidebigdata.com
     quality: 19
+  - title: "Gearing up. Quantum computers in the age of artificial intelligence"
+    excerpt: "Quantum computing and artificial intelligence (AI) are symbiotically-related technologies that hold the potential to revolutionise the way we live. Its ability to process vast amounts of data can significantly accelerate AI algorithms, enhance machine ..."
+    publishedDateTime: 2023-09-17T13:06:00Z
+    webUrl: "https://www.thehindubusinessline.com/business-tech/quantum-computers-in-the-age-of-artificial-intelligence/article67311129.ece"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 17
 
-secured: "+FdXlfnjFqRKZOQkoxCIlbOEHcstxbcXJa+HdpWSYugCGSzgpU2Mlci2iycmLg7fLb1FEK5hwx3+Ab2t9B7HXg7R7QBXIfYNkHecEkSjMFoeqb/tSzOcjz2r74LpfFA52OAaRngOAGcTAF5WchbBYzpLPPrWe8E5OM8CznCLWn731gzdvC9hH6SIhZdW5bzNQxNHnxB6KT3znWAu5gqZyqPiFS5sqCINIz5bAeyVeLc7aY4mVY2zJrT7JKYByrR4pkfsde2sAGjKWnHAhHdw5hEnIPBAXRPc2cZNGe0glh4LXuYB9Kd7RSGLpy8hnaieyTb2B7nJ+wgc2lJ/Dh58+JzZSVKK6quXbnf5/WNGumw=;EP6K/b0d3WZsAlIOXg2IiA=="
+secured: "AVOnYI4ZLoQf12O3DRA06rSBOXDsnf+Pg4qp8Q8+lzmOs490H5Yr2VSx5+AvHThIcufaqDVGfJ4+iJ6PuquVvAk9w4GswNSk+Ny4lu+Zfn0U72jypl7Gj2S/QMv6A/TA2yM5PvB7xomxlWWeKPWb/sU5VpueYzVSF3WxPxP/mg3ZW6p3DCzSJeZtXZkLb6M2LjQ/Ln961NF5hBZHPWcQLT/2T8nLQV6XPt7SJeW5LOIP59+jHFIFjBD8TRPAxfP4re/y1BE/ZgiNfVSJHEFrxtkkwhh/drdvBHgu3aYtAMuczok+JCux6SlN8OEPM/B0ssuCs8xPFCkFdCRoiP9pT6qzwe0RW8tbWXc6X1NTZpG4IcoyZLo8ZdyDTrGCM+7AaeOVNKfaJ4G4E/PevWkHNJo52or14IO0KLmhv/sd44gfiI5C+DY+Ehh7oQXG0PP+wrjQjU0vMa1ZGDxveDD03d7VXsVkOYwNdIS58uRfO8QIB/zzGqxbDvtnjHHuuERon1+Zq6RZd9uNk//agLAfqw==;QHz8VublUhdX1RFfyqWD8g=="
 ---
 

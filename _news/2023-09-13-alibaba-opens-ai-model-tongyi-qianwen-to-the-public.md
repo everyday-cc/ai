@@ -36,6 +36,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Edo Academy Introduces Artificial Intelligence to Public Service"
+    excerpt: "The John Odigie-Oyegun Public Service Academy (JOOSPA), has in Benin City, declared that artificial intelligence the world over, is transforming the way governments operate and provide services to citizens."
+    publishedDateTime: 2023-09-17T15:01:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2023/09/17/edo-academy-introduces-artificial-intelligence-to-public-service"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2023/09/17/edo-academy-introduces-artificial-intelligence-to-public-service"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/09/17/edo-academy-introduces-artificial-intelligence-to-public-service"
+    type: article
+    provider:
+      name: This Day
+      domain: thisdaylive.com
+    quality: 57
+    images:
+      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/JOOSPA.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "AuZ5ynXQzkBpRds9HsSKr+S3R4b4d60UBTBk4r+TDlJttcPpruse1wUZbH7qDVEHYvmu3zPtJDGPYkfx7Ev97H4mcdHjbC8pF9S+MBX4mCl4JbtIBsUP4wQfbNbVCJmc+j1mViZ6EiG+klN/jAKe+XKi7zGFtbZf9+7WXWOTrlHgOTaZmauLXqiAx/I4t+Cz5tQh093D/UTtpblna6kDtpEzTkSpABQ0AwWCkCh46Yw6fSsm0zC7XAqza2zRwXmZrDAXrJ6vEmWdgsTzK51htRVo54bx0hGYcuJTBpSc2km2QAo9bBUikInWQDpsakDKYv1A4NzjPl0VjBzoNNwIIIts1Ng2mG5RI7XeKadNjxnDaZzV2jOMUYuQevV3YWaW4d7fPgqTpGW+s6oq+gb3URYLRl9j8VA65S8LLURXUxW+OlEwabeSBOgblgFP07Qqg9nJoaGlPz406ArSG1Nnd4pzcM9WFE39evW1UkKXygZkjcp54lXB2etxOgrNgkIcqnBhABZS3DqZiNs7MuzjWw==;LZguF0uA5fuAcXRGblYuWw=="
 ---
