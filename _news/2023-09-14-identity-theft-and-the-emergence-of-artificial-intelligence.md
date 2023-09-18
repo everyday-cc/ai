@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI and sound - helping firms build their own 'sonic identity'"
-    excerpt: "Amp uses AI to generate all kinds of sounds for companies, from small bursts of noise when an app launches, to the sound of a bank card transaction completing, to longer compositions for things like podcasts and social media videos. This is what he calls a brand's \"sonic identity\"."
-    publishedDateTime: 2023-09-13T23:06:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-66330890"
-    ampWebUrl: "https://www.bbc.co.uk/news/business-66330890.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-66330890.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/16CA3/production/_131074339_index_ai_adverts_976x549.png"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "The tricky ethics of AI in the lab"
     excerpt: "Uuk calls this a misguided approach that will impede efforts to develop AI as a beneficial technology. “Oftentimes, issues that arise in the research space present themselves downstream in the deployment of AI systems,” he says."
     publishedDateTime: 2023-09-18T05:14:00Z
@@ -51,11 +35,25 @@ related:
     provider:
       name: C&EN
       domain: acs.org
-    quality: 54
+    quality: 56
     images:
       - url: "https://s7d1.scene7.com/is/image/CENODS/10131-cover-opener-related?$responsive$&wid=700&qlt=90,0&resMode=sharp2"
         width: 700
         height: 350
+        isCached: true
+  - title: "Alan Turing’s Influence on Artificial Intelligence and the Emergence of Transformers"
+    excerpt: "In today’s world, artificial intelligence (AI) plays an indispensable role in our daily lives. Acknowledging the pioneering minds that paved the way for this transformative technology is of utmost importance."
+    publishedDateTime: 2023-09-18T12:12:00Z
+    webUrl: "https://techbullion.com/alan-turings-influence-on-artificial-intelligence-and-the-emergence-of-transformers/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 36
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/09/Untitled-design-2023-09-18T130507.267.png"
+        width: 800
+        height: 400
         isCached: true
 
 secured: "5y/RiNALwH43W6xrEpsRtnPApddqescmLIQCpZ1Y9cPDde+Z0nS8yUVBiA5kN56ggp26en19kxtGExakcvvCeJakuACykxcTG4/oS4+Zz1bqIkv5MSlIF98TnIBjh1LYLpwlZBQ8SRW3xac3TYH1JT31x9J84933sNg0AGANY0NURRO8pgEUrVqLSn8gi0GYTMmTxIU0EB+B9CQj5xqEpWNbSyI6tuDLpFML8KUarnMYYQBBkHKKebgIUSndmgK9Gl2pS5oP3D2JcYbcK/zXWmnBlJ3zBCNZRBPQbdsIejXpDaMj1sWCzp5ciw2I6iGrdJzUMcnbt885OhXgpeM6Paho8gDY38Kgn7jKTW3OQdi9J1FVlNpXZMrwPxczryMOkVAd6WQEmYC/AcVGuE+jEklCwVXo76iQH/kei4OtZQqbQKv4hXTuistwVARUiMCU6ZFJ4UkqG6p5jbX1O+4cGNfn9vtKpcYQmjdtFcyO77K8iQW2Nb25qmSpXumexJqWJNiZ/WB4B7ByNoak8CzZYQ==;ljRO8ZDCPzIk53aj/2ssGw=="

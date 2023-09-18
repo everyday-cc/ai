@@ -50,6 +50,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Using AI In Cybersecurity: Exploring The Advantages And Risks"
+    excerpt: "Although cybercrime statistics are staggering, organizations fighting cybercrime now have an ally that offers ever-increasing capabilities: artificial intelligence (AI)."
+    publishedDateTime: 2023-09-18T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/using-ai-in-cybersecurity-exploring-the-advantages-and-risks/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "xNXBGmZU6ZZtEtEmBlXqU6r/5AWVOOHYcCmvm7UZUpGrDETnwa+PTtOCuOF44D1RToWjQ7P4AUJkFpOVEIej1Yh1RXOw2CjL2pc2xgG7UqFuIbLWYf6mPls5ci6ErcyriauzGyRc0xBC083vJJXx0iQ+SupqLfxI10ZuuXfQiqsi19gKu3gdHTWODn6vMGm3ZEa/z984lMgCN6o9ZJKS632PYXnolg7ukLTB+sYmNckFU7yora3IBVECDYQG5DYI0nxluVD2yZuWdzbkzswnKiNNj5DdqTtdlxHLVgnoVsvNHu5JbiiHFKwdpa5fSh7UqQuiDDjtZ3BKlaJ0y06c6/ffXtWCxNzpg94+PxkTJPd/MA5LbHnGRq7llB71CWLNoOQOE4oRgJcLFPmqYSTl5C0jqxkjIviryb5qmG5sPMkSvCz/fRKFzG7M91iQWNecfbtucT+kIhIEAHKddn8NeJJUl5jO1RsRUQ9ld5DMkAEJmn/+hiU7140WN2IeRT935srkLpmX5ILJv7O4OL61rA==;zb49CtJjcXZt+FbfnfrMBQ=="
 ---

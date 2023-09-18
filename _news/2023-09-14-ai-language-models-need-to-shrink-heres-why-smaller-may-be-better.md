@@ -8,8 +8,8 @@ webUrl: "https://www.computerworld.com/article/3706510/ai-language-models-need-t
 ampWebUrl: "https://www.computerworld.com/article/3706510/ai-language-models-need-to-shrink-heres-why-smaller-may-be-better.amp.html"
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3706510/ai-language-models-need-to-shrink-heres-why-smaller-may-be-better.amp.html"
 type: article
-quality: 61
-heat: 71
+quality: 63
+heat: 73
 published: true
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI Hardware
   - AI
   - Microsoft AI
+  - Facebook AI
 
 images:
   - url: "https://images.idgesg.net/images/article/2023/09/shutterstock-llm-image-100945775-large.jpg?auto=webp&quality=85,70"

@@ -53,6 +53,20 @@ related:
         width: 1000
         height: 648
         isCached: true
+  - title: "Taking generative AI from experiments to high-impact production"
+    excerpt: "Generative AI has shown proven benefits for organizations. Learn about real-world uses cases, implementation at scale, and driving ROI."
+    publishedDateTime: 2023-09-18T14:34:00Z
+    webUrl: "https://venturebeat.com/ai/taking-generative-ai-from-experiments-to-high-impact-production/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/09/AdobeStock_617926767.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "oSF+Z3x+U8DWdMdnyHCXcbbX+wHytFPHuqYoaBe/Wx8KhFKpOXwI8f7+fWu0MkZ1J63C4ieHpdMbofeEMArXRTsdd0ZHI6iH66To0QNjw02MryGBcjJ/RZY5zepS2JlGioBD4ogwUndsmw0XfJCKUMS/zLWSzTFQ59+N2CCigjaEnSeJqsWbzqVqfyQo2l8xqKOvpnoLRq0mR/Z3yKHz5pKmwTET0DHsImbDGPsmHfV4wViqWM1gwJzYCrNmmjC0nNYEclJyOQ7wN4gK8yEPh3uwMk6SbVei2aEMcRiAdGdUM8TpjxRxNJMuSkjBK/J2NQ9SziswTR7A6OsaG50jATmA5CLcHmZaaG4gevlkor8MFV9EpExPI+oQLUgRn9iD7BhyMyco2MmpE6I4IGj5zroDqQi0SAcoOys78dPUZHr0HWbyKRM6bvbJdBlxPgK/w+SU0oCXCXKnpxnfVybcN7WW9AystanL7Wje/7Jd5L18dR+j1gd3ELcNEHyEWDutVjTdlnrYD/2sCXX0oZBQGQ==;jjxAsnyo7+hYcwwEz5dDVQ=="
 ---

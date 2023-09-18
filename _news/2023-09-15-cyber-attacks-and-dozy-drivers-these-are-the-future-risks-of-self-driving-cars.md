@@ -41,6 +41,20 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Microsoft-backed self-driving car startup Wayve might finally have an answer to the driverless vehicle trust debate"
+    excerpt: "Once the musings of movie makers and authors, self-driving cars are finally beginning to edge into reality. Yet autonomous vehicle (AV) makers have a problem: as exciting as the technology may be, many passengers don't want to put their lives in the ..."
+    publishedDateTime: 2023-09-15T17:54:00Z
+    webUrl: "https://www.aol.com/finance/microsoft-backed-self-driving-car-153624442.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 34
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/DZ.dLTZ_itMvG7HvUqoe.Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Nzc-/https://media.zenfs.com/en/aol_fortune_385/27e2c051011c7366fdffa7b151f52333"
+        width: 1200
+        height: 777
+        isCached: true
   - title: "Cyber attacks and dozy drivers: These are the future risks of self-driving cars"
     excerpt: "A large cyber-terrorist attack targeting the operating systems of many self-driving vehicles simultaneously could cause mass casualties” – that is the alarming scenario presented by MPs after their investigation into autonomous cars on British roads."
     publishedDateTime: 2023-09-17T09:29:00Z
@@ -55,15 +69,6 @@ related:
         width: 1200
         height: 901
         isCached: true
-  - title: "Microsoft-backed self-driving car startup Wayve might finally have an answer to the driverless vehicle trust debate"
-    excerpt: "Once the musings of movie makers and authors, self-driving cars are finally beginning to edge into reality. Yet autonomous vehicle (AV) makers have a problem: as exciting as the technology may be, many passengers don't want to put their lives in the ..."
-    publishedDateTime: 2023-09-15T18:06:00Z
-    webUrl: "https://www.aol.com/finance/microsoft-backed-self-driving-car-153624442.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 14
 
 secured: "yMHhalguMhVGHH2JN2OPQqXwE0TtNvRFyPMbmUE944c42iBlinUJgWF07Dn2u/nNpybTSi5R2x6yLghAl/JrtYRVm1BDN9LrQ82LQIFaZ/3JbVtsnKOuKiUvFh4F5EQ1p+RUZmbZ90lnox1mcAi3hHFw7BsDxxY2kdwhSEsSowRn/A6EmwICqwgw4SjWwfA/dHjQwZ5uzOqOuD9NFNoyvMjDpyyuXG36SuvbI6aYTN8VRhyWlM+9pwWGmWrTMMmZyuA2MGIFWwmZISoUpZCCG+35DuPzB2wvjWXGezmx6/blxNqstALleGqZEYKiIie2lfaB8QuhDYkqwNFT9VpTXIivjie+MPSzadpHCHGlSA1aG2ZCl1BZYQqvqx5iXZCvcPzjzX0pGpQ4Xl1ekHeBXDharnnHcUkZ6dxgMU3Z7MmCc1WVG1s58laJRE/hHIWu2EBwpeFmVe+wxR3RoIk0ylcO2aoelG2buDyg4jZjqt76G4T0EW4d3oaCYi+amRwD8mWD1UdbkGqxOhKafVfLHg==;kQbgSxsh5eUhS4AdT4nd6A=="
 ---

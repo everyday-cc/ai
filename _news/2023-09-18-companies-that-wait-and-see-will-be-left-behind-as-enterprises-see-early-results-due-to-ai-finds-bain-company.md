@@ -33,22 +33,6 @@ related:
         width: 720
         height: 449
         isCached: true
-  - title: "AI has the Potential to Transform Any Supply Chain with the Right Combination of People, Processes, and Technology"
-    excerpt: "We sit down with Ashwin Mittal, CEO, Course5 Intelligence to talk about the digital transformation in India., Technology & Science News, Times Now"
-    publishedDateTime: 2023-09-18T07:27:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/ai-has-the-potential-to-transform-any-supply-chain-with-the-right-combination-of-people-processes-and-technology-article-103751154"
-    ampWebUrl: "https://www.timesnownews.com/technology-science/ai-has-the-potential-to-transform-any-supply-chain-with-the-right-combination-of-people-processes-and-technology-article-103751154/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/ai-has-the-potential-to-transform-any-supply-chain-with-the-right-combination-of-people-processes-and-technology-article-103751154/amp"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 37
-    images:
-      - url: "https://static.tnn.in/thumb/msid-103751154,updatedat-1695022065105,width-1280,height-720,resizemode-75/103751154.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "zrXZElTTjfggRPuxjlOhOl1n4maUL4+ssJYhEBZo8WoHLo7+mt3kY1if1KYknMmQnIfcfqGKfYszsDQJvTBv7YmJQcxrE1t1WSU4sAiYkcprt2HyPsp68EvphbandDv8a2cPDNhq9tBo8FOsq8AFoL4jmhc0WalID2JKXq5i8jB7D0GdVpHbXplNfUrdbaOLJXUP7wHZhpn1Yp1k/YTgBFkxmCcjlr470X39MmTh2Pu/HEhZiNMX3NJLpc6ZtU9eh3pP86VXZR+Dg3jknFWNa+7QjZFqGyR10K/7DVNzj3xFGkIDADCwxxLKGruqeajic3d95IS+Sfl8NI57600sHWrRTqWwT5pESXRTFdcYPsr9FXjIeOf4JsEAwMSkWvWfvAxGoFloknLYLmgJjBHVqFG6hxz2UIGg6Np5L4oq740L9VpSq6ubKgZbf/HHNKrUQ1dJKxqMbW+THsYqzZX3sE8w5e/b5XOzHf9BUfQ8fupN1fZtRHOwBIdsEhaM0AJogneO9+kmpAM1Qb8J2cPBlg==;HAi13UV18DAqmcJ4bm8Dcg=="
 ---

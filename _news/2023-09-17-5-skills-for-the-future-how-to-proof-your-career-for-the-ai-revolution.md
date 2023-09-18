@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rachelwells/2023/09/17/5-skills-for-the
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/09/17/5-skills-for-the-future-how-to-proof-your-career-for-the-ai-revolution/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://technical.ly/wp-content/uploads/2023/09/1rzo9eL5F9cwQ5IzA9rj-4-0w1dg.jpg"
         width: 1024
         height: 778
-        isCached: true
-  - title: "Inside Elon Musk's Struggle for the Future of AI – TIME"
-    excerpt: "Isaacson, a former editor of TIME and an acclaimed biographer of Steve Jobs, Albert Einstein, among others, is the author of the new book Elon Musk A t a conference in 2012, Elon"
-    publishedDateTime: 2023-09-13T20:13:00Z
-    webUrl: "https://www.inferse.com/714412/inside-elon-musks-struggle-for-the-future-of-ai-time/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 39
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/09/wp-header-logo-4283-1920x1280.png"
-        width: 1920
-        height: 1280
         isCached: true
 
 secured: "fr0vHImJEQWnLOPsmUHAacU5bWzNwujFRgQQbih3wKbSc/SHn+j6FU5tSsJ0hCSQUpwrxg3kGDWTAv6XDwEl4sgmtzJCjOOcL0RG2s9002hP8P2dUJ+HWtKYhBl4rpNnO1aP2Rm+F0TuoHhcOuI6WNU9vkZKoxJIpc2SvqzRH9Vzypzinp44FvkrhQf4Z26BGeVwK3TIRyG4ADvdJB0gTeBfQ2+L8LTEe6XAxtW6AjuVIS/fVRhBs1/ZmYh8lov09QY/+WunMskoDuWDUwm/GtudFBkk6Yg//ZF+inru0k7MCw4ikRqTvfR36xrKYLq7ormHghsAiTtVz7KrNuMvdPYjnu9P6xgNFJyIyQhQNMruOm4utn/lkNAGYZfFbw/GcFnMuVqT1pjQiTPmsPQBWh5hvcGNFZpGgcCK5Nf+6k4njVMycHXDSDuo6mPO0amzZ2thKII5hiHg3WG7dutqSKJQKN/7OV5CLdg9YHZLqm+9wYP9O9MTpuVGw/DmYXHK/auk/kPul13G4qDrpkaU0A==;F3a+wXMpqId9iGyjbuXi6g=="

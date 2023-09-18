@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/juliemyerswood/2023/09/14/navigating-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/juliemyerswood/2023/09/14/navigating-the-impacts-of-generative-artificial-intelligence-ai-on-compliance-programs/amp/"
 type: article
 quality: 92
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2016/10/shutterstock_279476240-e1694623197350.jpg?w=1200&strip=all"
         width: 1000
         height: 648
+        isCached: true
+  - title: "Taking generative AI from experiments to high-impact production"
+    excerpt: "Generative AI has shown proven benefits for organizations. Learn about real-world uses cases, implementation at scale, and driving ROI."
+    publishedDateTime: 2023-09-18T14:34:00Z
+    webUrl: "https://venturebeat.com/ai/taking-generative-ai-from-experiments-to-high-impact-production/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/09/AdobeStock_617926767.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Teachers Are Going All In on Generative AI"
     excerpt: "Surveys suggest teachers use generative AI more than students, to create lesson plans or more interesting word problems. Educators say it can save valuable time but must be used carefully."

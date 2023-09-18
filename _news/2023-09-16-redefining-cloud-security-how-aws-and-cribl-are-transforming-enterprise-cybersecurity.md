@@ -35,6 +35,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Using AI In Cybersecurity: Exploring The Advantages And Risks"
+    excerpt: "Although cybercrime statistics are staggering, organizations fighting cybercrime now have an ally that offers ever-increasing capabilities: artificial intelligence (AI)."
+    publishedDateTime: 2023-09-18T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/using-ai-in-cybersecurity-exploring-the-advantages-and-risks/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Mobilicom Is Leveraging A First Mover Position To Provide Robust Cybersecurity Solutions To Small-Drone And Antonymous Vehicle Markets ($MOB)"
     excerpt: "Mobilicom Limited (NasdaqCM: MOB) is proving that pioneering a market has its advantages. A result of that, at least for publicly traded companies like MOB, is shown through an increasing share price,"
     publishedDateTime: 2023-09-14T08:55:00Z

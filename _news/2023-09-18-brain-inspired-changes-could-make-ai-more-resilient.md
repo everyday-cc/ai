@@ -6,7 +6,7 @@ publishedDateTime: 2023-09-18T09:34:00Z
 originalUrl: "https://www.technologynetworks.com/informatics/news/brain-inspired-changes-could-make-ai-more-resilient-378930"
 webUrl: "https://www.technologynetworks.com/informatics/news/brain-inspired-changes-could-make-ai-more-resilient-378930"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Machine Learning
 
 images:
   - url: "https://assets.technologynetworks.com/production/dynamic/images/content/378930/brain-inspired-changes-could-make-ai-more-resilient-378930-640x360.jpg?cb=20230918"
@@ -65,6 +66,6 @@ related:
         height: 218
         isCached: true
 
-secured: "X6132YP9XQtIgEM19GeUlKBJbeZlLWOjttmXXBdcIYh2qSgp3IHjOoxL74VEEPLn9MEvx+ilveGKK522VvgtJQlZT88zFMc4bNZoJrLz8H0oKRu28IyyaYWguISgGGdPcO3KTXkFh9pAZWBRj04HnTgro3japfG6DYojVm9+RKNe960kk5tjWt2+elWqJF2K1lzvNHWj8J1RJ4NFrKcQsYnXeDMH0MRuGZyr1oMz9AEnlBgd3lhx8Nqn7z7QyiRn76Bwcjt1ZfTLsG0GDgYbVzPFPZd/yVt/IVLWVSmySIqQI/7yetKjQ1OwpbUV3upWPT4TCemBT8kduJiz2M0sAmIg2IjYuPsEPoJeOVHKgJY=;dFzUyogcpP07jnzDdWoB1g=="
+secured: "0TXYmhjoljOobYkfo8BqOhJqFh/nKckAanXsgFM0bhMVnB//Hjr9jJcLZgE5avJaa4rOq/K5qB2KsUV6iAfJj6sQpaDYx5sfxxFLSaeHMZclHaYcVSy4N50ty9xFp5xZkXT31LiYy4Y+Y74HJU4j7S47ot0atD+ICvj2Lu82mxZlSK767pTUXkp7LnYuchhHBhndOybMng5cX06lL1PPGOc4P/djovR6V502EAFE8SG5xj1hMDP6ob9EdLtoVMUdf0ZLFGC7LHuMPviswJQFrb+dDrts9q2HCVFq5DreM0JMDcfm+xOG4mJg5P0DfkAiyGTHtXNo+ssyKSQRxZptf/DzO2sabHPkg31jazzn7PpW9IHEmxWmy0gwI1YC/9sv2rf94MeaRTFb5iQEU3hvVokY7MGPsaFaviOgvjP5LB1U7Lr4XFGR2ftpgCBrXmU+bltw5IHzFEP7xJ0mhwqycbpp1d2uYKSaR8Z0lN96Bf3NOuIi4ucNJnfud06gFkwnb0DjXXkwI3OJiSPoy93zYw==;stkH3K98QizSO2owwQt9Dw=="
 ---
 

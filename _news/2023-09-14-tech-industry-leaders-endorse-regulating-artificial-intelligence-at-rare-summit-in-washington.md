@@ -26,38 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk, Mark Zuckerberg, Bill Gates and other tech names head to Washington for a closed-door meeting on policing AI"
-    excerpt: "Some of the biggest tech leaders in the world, like Elon Musk and Mark Zuckerberg, gathered in Washington to discuss ways to potentially police AI."
-    publishedDateTime: 2023-09-13T20:53:00Z
-    webUrl: "https://www.businessinsider.com/how-to-regulate-ai-tech-washington-musk-zuckerberg-gates-altman-2023-9"
-    ampWebUrl: "https://www.businessinsider.com/how-to-regulate-ai-tech-washington-musk-zuckerberg-gates-altman-2023-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-regulate-ai-tech-washington-musk-zuckerberg-gates-altman-2023-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
-    images:
-      - url: "https://i.insider.com/6501f7f8992da60019eba99b?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Top tech leaders and experts convene in Washington for forum on AI safety"
-    excerpt: "Bill Gates, Mark Zuckerberg, Elon Musk, Sundar Pichai and others gathered for ‘one of the most important conversations of the year’"
-    publishedDateTime: 2023-09-13T21:13:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/sep/13/tech-leaders-washington-ai-saferty-forum-elon-musk-zuckerberg-pichai"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/sep/13/tech-leaders-washington-ai-saferty-forum-elon-musk-zuckerberg-pichai"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/sep/13/tech-leaders-washington-ai-saferty-forum-elon-musk-zuckerberg-pichai"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 56
-    images:
-      - url: "https://i.guim.co.uk/img/media/744ecef2f0e77400e54ca14bbfd1f09e01a142e5/0_353_6052_3632/master/6052.jpg?width=620&quality=85&auto=format&fit=max&s=ac941ca885e7881395202455f3fc4c09"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Tech leaders agree on AI regulation but divided on how in Washington forum"
     excerpt: "Bill Gates, Sundar Pichai, Sam Altman and others gathered for ‘one of the most important conversations of the year’"
     publishedDateTime: 2023-09-14T01:14:00Z
@@ -111,34 +79,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Elon Musk and Mark Zuckerberg Snub Each Other at Capitol Hill AI Summit"
-    excerpt: "Tesla CEO and X owner Elon Musk said he would take Meta CEO Mark Zuckerberg on in a cage fight if he is up to it.  pic.twitter.com/aQXRSuIGyy In all the hubbub surrounding Beetlejuice -gate, there’s one question that has gone unasked: How much of the musical’s score,"
-    publishedDateTime: 2023-09-14T05:57:00Z
-    webUrl: "https://www.thedailybeast.com/musk-and-zuckerberg-snubbed-each-other-at-capitol-hill-ai-meeting"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 37
-    images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2182,w_3879,x_0,y_112/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1694659602/2023-09-13T140008Z_1328967948_RC2L73A9YJDK_RTRMADP_3_USA-AI-CONGRESS_jalqic"
-        width: 1480
-        height: 833
-        isCached: true
-  - title: "'Overwhelming consensus' to regulate AI, says Elon Musk"
-    excerpt: "Top tech leaders, including Elon Musk, Mark Zuckerberg, Sundar Pichai and Bill Gates, met with US lawmakers on Wednesday to discuss AI governance. 'This meeting may go down in history as being very important for the future of civilisation,' Musk said."
-    publishedDateTime: 2023-09-13T23:08:00Z
-    webUrl: "https://www.bbc.co.uk/news/av/world-us-canada-66805038"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 37
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/3466/production/_131041431_p0gdfsjh.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Tech leaders hold closed-door meeting with lawmakers on artificial intelligence"
     excerpt: "Tech leaders, including Elon Musk, were on Capitol Hill Wednesday to take part in closed-door meetings with congressional lawmakers on the benefits and dangers that artificial intelligence poses. Jo Ling Kent has details."
     publishedDateTime: 2023-09-13T23:24:00Z
@@ -150,20 +90,6 @@ related:
     quality: 33
     images:
       - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/09/13/33e897a3-896b-4ede-84cc-4268787999ac/thumbnail/1200x630/d200bc2429350f25a71cd2dcd9628b3d/kent.jpg?v=b4264bc5922d2f5b2145bedc5a4d101e"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Musk, Gates, Zuckerberg and other tech leaders meet with senators on AI regulations"
-    excerpt: "Some of the technology world's top leaders met with U.S. senators Wednesday to discuss artificial intelligence regulation, the same week eight companies voluntarily pledged to implement AI safeguards."
-    publishedDateTime: 2023-09-14T16:31:00Z
-    webUrl: "https://www.cbsnews.com/video/tech-leaders-meet-with-senators-on-ai-regulations/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 31
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/14/815ddcc3-a196-42b6-a9d9-663d7d9fcc14/thumbnail/1200x630/de005c834abe02edca0319cf18cc9974/cbsn-fusion-tech-leaders-meet-with-senators-on-ai-regulations-thumbnail-2290233-640x360.jpg?v=b4264bc5922d2f5b2145bedc5a4d101e"
         width: 1200
         height: 630
         isCached: true
@@ -180,20 +106,6 @@ related:
       - url: "https://www.thetechedvocate.org/wp-content/uploads/2019/01/T1-660x400.jpg"
         width: 660
         height: 400
-        isCached: true
-  - title: "As Musk and Zuckerberg visit the Senate to advise on AI policy, Josh Hawley blasts ‘the biggest gathering of monopolists since the Gilded Age’"
-    excerpt: "As Musk and Zuckerberg visit the Senate to advise on AI policy, Josh Hawley blasts ‘the biggest gathering of monopolists since the Gilded Age’ Silicon Valley’s biggest executives went to Washington this week to talk shop with lawmakers as artificial intelligence and its regulation take on an urgent focus on the Hill."
-    publishedDateTime: 2023-09-14T21:30:00Z
-    webUrl: "https://www.aol.com/finance/musk-zuckerberg-visit-senate-advise-183006404.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 3
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/_a5zGktTJI47k9qp4Z3bpQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/56c5f7c611fd9039392d42dfe5f50ff3"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "nIgdI05RjitQHfGbaw8a79sWzfmrlg8lJjC0/ZQK2qodtOm3aK3G80L7Ls4Uhu9+jFZRQuHlWb2EU+sdfveia/YD3EwJkN8mp+TO++vyoOeiV4RjjwKPgueC+sfjxI4N5WKclq+iK+ZBDDJPUGp3c7cur3J9S4qrjFdxAldswAQUdJhecL3pVR24KglWAQe5P+goVhZ6btJzusK91qS4A7WM+RJipxL6+wvfjSP54qIivYFXDSBS557t7cgJALrzKkO+hKvfIm19KOwYHZqkgawTLWpC1OyK+ryqg6IKZ3HFMuJLU7lDsPvzfrZyObJqn48Bh5j67Rw0rNmEj3ZhVQ9r0jxGzdGEMAXbnnw/txoUZU52cjdoU6VRWTudK4gmL958e3R5+pl8o2+hyekYwfzJPJHXxLA7l1sQlIJkNjhntClYkP9+tLklWSMutA+EYxbGZGILMWQMYNFcEMPG8ycXeN8gV6sT+wRm/lUKontKb4FmXYfLm0oQlQpPCnhsigXbdcp6bT9lKSrwxxUnNQ==;QhaGGKLm3uLtIH5qw7zBEQ=="

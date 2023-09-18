@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/owentedford/2023/09/15/what-congress-ca
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/owentedford/2023/09/15/what-congress-can-get-done-on-ai-legislation/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://vir.com.vn/stores/news_dataimages/2023/092023/16/11/in_social/7977210c642e3983f84d71dc1639a5d8.jpg?randTime=1695038684"
         width: 600
         height: 364
-        isCached: true
-  - title: "Congress Is Blowing It When It Comes to AI Regulation"
-    excerpt: "Critics have likened the decision to invite tech CEOs like Elon Musk and Mark Zuckerberg to Capitol Hill to discuss regulating AI as akin to letting “the fox design the henhouse.”"
-    publishedDateTime: 2023-09-13T21:10:00Z
-    webUrl: "https://www.thedailybeast.com/chuck-schumers-ai-summit-is-already-a-bust"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 37
-    images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1694639222/BrowserPreview_tmp_nhuoyv"
-        width: 1480
-        height: 832
         isCached: true
   - title: "As lawmakers eye regulation, AI could reshape Congress itself"
     excerpt: "I understand the fear,” Speaker Kevin McCarthy said at this year’s Congressional Hackathon. But AI is poised to change how the House works."

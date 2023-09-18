@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Don't Count on Tesla's Dojo Supercomputer to Jump-Start an AI Revolution"
+    excerpt: "Wall Street analysts predicted Tesla’s Dojo supercomputer could unlock a $500 billion ChatGPT-style breakthrough. Don't take it to the bank."
+    publishedDateTime: 2023-09-14T16:00:00Z
+    webUrl: "https://www.wired.com/story/fast-forward-tesla-dojo-supercomputer-elon-musk-ai-revolution/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 85
+    images:
+      - url: "https://media.wired.com/photos/65024d2e139c7729ea586427/191:100/w_1280,c_limit/Tesla-Dojo-Supercomputer-Fast-Forward-Business-1297137507.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "Tesla FSD and AI Will Drive Share Price Like Amazon AWS"
     excerpt: "Amazon AWS are now 70% of the company’s total EBIT ... It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge ..."
     publishedDateTime: 2023-09-16T15:06:00Z
@@ -44,15 +58,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Don't Count on Tesla's Dojo Supercomputer to Jump-Start an AI Revolution"
-    excerpt: "Wall Street analysts predicted Tesla’s Dojo supercomputer could unlock a $500 billion ChatGPT-style breakthrough. Don't take it to the bank."
-    publishedDateTime: 2023-09-14T16:00:00Z
-    webUrl: "https://www.wired.com/story/fast-forward-tesla-dojo-supercomputer-elon-musk-ai-revolution/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 63
 
 secured: "KBrPKaGjyIrYrLl3Nc/0nDMLS3Q/q7nMRZJFRSvws6ZGRuU/dI4hF9yO4WryvnH3BuhlpCxKqD+LVSaoCF6cSzCQFBb+SAp9VVLRENV9FR7lPguJylkALRmr8DrXSCDlQMgOSG9ztwpcVRCBOo/Oopke+xCK+KSv0BKa6fZCKtnwcPrRQ9dLafwF66LHrvtSx53WxXuvUTnPiOTGp6/eEYxlyUCiy0fDVGVuMeIW9ltdbRnPNEPP/fLskzuKSp72IXrlUBp15pw4bm9j9v/i+4uCfNtItcAzC9su7WiOofLJNsF6HoK0HPaK0O+s8InwFT0NUHfeFe/4UcM8ErZMqUGytmocQEEAYGXSMgR9k/8=;BRa9kabsnPb2PhcgeHEU5w=="
 ---

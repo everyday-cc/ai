@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-we-can-harness-the-powe
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-we-can-harness-the-power-of-generative-ai-ethically/"
 type: article
 quality: 105
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://images.idgesg.net/images/article/2018/03/crash-test-dummies-100752967-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
+        isCached: true
+  - title: "The Emergence of Ethical Challenges in AI: The Imperative of Navigating the Moral Terrain"
+    excerpt: "We welcome you to the era of Artificial Intelligence (AI), where groundbreaking advancements are rapidly reshaping our world. With AI algorithms making decisions that significantly impact our daily lives,"
+    publishedDateTime: 2023-09-18T13:49:00Z
+    webUrl: "https://techbullion.com/the-emergence-of-ethical-challenges-in-ai-the-imperative-of-navigating-the-moral-terrain/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 45
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/09/Untitled-design-2023-09-18T144800.943.png"
+        width: 800
+        height: 400
         isCached: true
 
 secured: "A50VDTP4HNjgopX2n/h94PNFkrb2qhbSEhdVECw3U5QC51KOsJ1iBGTjBH2vwE/fdWtyil84DohP6vBKS06Mb2ezblFRsAs00TzQ4+QX9W/oC8v9/cSmI7aTamdPTiognTSNKXzu9tJYJildHFc8lqsuwWR5IyB4RQr2nGewE0EUr1TwlmFEVhR6qfYl0mdSs7jy3lfr0SachubUWyulBij3cgx5p76Elrz5MT8qat7uSbT3ofJJ5qFiYbA2smCaaF4z1XsYDPJK8i3vf0x2e4qLzs8p16KRRIp9AswE1vuEdmboZoL+Qy/IvEOrijUq5awgzdZPr6gvdX8ilvzvojn0MMevjwZnWvyHqTY9E/ekpFBvheB3kFU1AEnc7kceW1dzIC/OyeX64XLOLRB8kp5DWGqvJhS9WwzN8nAJFxwGt97+wkbHC0FpC+UKF1u2ezRJemKZtORnqv4hem+YOXpk2F99N5KuEaemjSclRaBuJOsAWM4KSn8kjNyGOrd2I2/nmUeBBYX4EHEFxAzHdQ==;xdwfv0vnLtnOrYHsMWfsPw=="

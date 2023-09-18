@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI can now generate CD-quality music from text, and it’s only getting better"
-    excerpt: "If you'll recall, Stability AI is the company that helped fund the creation of Stable Diffusion, a latent diffusion image synthesis model released in August 2022. Not content to limit itself to generating images, the company branched out into audio by backing Harmonai, an AI lab that launched music generator Dance Diffusion in September."
-    publishedDateTime: 2023-09-13T20:59:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/09/ai-can-now-generate-cd-quality-music-from-text-and-its-only-getting-better/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/09/ai-can-now-generate-cd-quality-music-from-text-and-its-only-getting-better/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/ai-can-now-generate-cd-quality-music-from-text-and-its-only-getting-better/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 86
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot_singing_3-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "How Modern Data Engineering Brings AI, Machine Learning and Data Science to Life"
     excerpt: "Don’t underestimate the value of artificial intelligence (AI), machine learning (ML) and data science. What once used to be figments of the imagination (like facial recognition, smartphones and driverless cars) are now reality. How did we get here?"
     publishedDateTime: 2023-09-15T15:42:00Z

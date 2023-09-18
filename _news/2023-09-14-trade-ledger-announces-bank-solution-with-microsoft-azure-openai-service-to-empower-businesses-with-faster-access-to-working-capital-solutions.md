@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trade Ledger Introduces Bank Solution with Microsoft Azure OpenAI Service"
+    excerpt: "Trade Ledger announces it will launch a new solution integrating Microsoft Azure OpenAI Service designed exclusively for Business Owners."
+    publishedDateTime: 2023-09-18T13:35:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/09/213091-trade-ledger-introduces-bank-solution-with-microsoft-azure-openai-service/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/09/213091-trade-ledger-introduces-bank-solution-with-microsoft-azure-openai-service/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/09/213091-trade-ledger-introduces-bank-solution-with-microsoft-azure-openai-service/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 105
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/10/First-State-Bank-1940-Oil-Ghost-Town-Oklahoma.jpg"
+        width: 1125
+        height: 849
+        isCached: true
   - title: "Oracle brings its database infrastructure to Microsoft Azure"
     excerpt: "Oracle has announced a partnership with Microsoft to bring some of its database infrastructure, including hardware and services, to Azure."
     publishedDateTime: 2023-09-14T23:48:00Z
@@ -84,21 +100,21 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Rev joins a long list of tech companies from Instacart to Microsoft, that are rushing to update terms to use people's data to train AI"
-    excerpt: "More companies are quietly giving themselves permission to use consumer data to train generative AI models and tools."
-    publishedDateTime: 2023-09-13T21:47:00Z
-    webUrl: "https://www.businessinsider.com/tech-updated-terms-to-use-customer-data-to-train-ai-2023-9"
-    ampWebUrl: "https://www.businessinsider.com/tech-updated-terms-to-use-customer-data-to-train-ai-2023-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tech-updated-terms-to-use-customer-data-to-train-ai-2023-9?amp"
+  - title: "Microsoft leaks 38TB of private data via unsecured Azure storage"
+    excerpt: "The Microsoft AI research division accidentally leaked dozens of terabytes of sensitive data while contributing open-source AI learning models to a public GitHub repository."
+    publishedDateTime: 2023-09-18T15:18:00Z
+    webUrl: "https://www.bleepingcomputer.com/news/microsoft/microsoft-leaks-38tb-of-private-data-via-unsecured-azure-storage/"
+    ampWebUrl: "https://www.bleepingcomputer.com/news/microsoft/microsoft-leaks-38tb-of-private-data-via-unsecured-azure-storage/amp/"
+    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/microsoft/microsoft-leaks-38tb-of-private-data-via-unsecured-azure-storage/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
     quality: 74
     images:
-      - url: "https://i.insider.com/6501fe85992da60019ebafa0?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.bleepstatic.com/content/hl-images/2023/06/12/microsoft-azure.jpg"
+        width: 1600
+        height: 800
         isCached: true
   - title: "Microsoft, Oracle deliver direct access to Oracle database services on Azure"
     excerpt: "The hyperscalers are joining forces to help customers fully migrate to the cloud — and place their data closer to Microsoft services to facilitate cloud-native development and AI experimentation."
@@ -185,6 +201,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 63
+  - title: "Microsoft AI researchers accidentally exposed terabytes of internal sensitive data"
+    excerpt: "Microsoft AI researchers accidentally exposed tens of terabytes of sensitive data, including private keys and passwords, while publishing a storage bucket of open-source training data on GitHub. In research shared with TechCrunch, cloud security startup ..."
+    publishedDateTime: 2023-09-18T13:22:00Z
+    webUrl: "https://techcrunch.com/2023/09/18/microsoft-ai-researchers-accidentally-exposed-terabytes-of-internal-sensitive-data/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 58
   - title: "Microsoft Adds SMB Security Controls for Windows Insider Program Testers"
     excerpt: "Microsoft has added Server Message Block security measures for IT pros, which are now available as part of an early Windows preview release."
     publishedDateTime: 2023-09-15T22:29:00Z
@@ -255,29 +280,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Stocks like Microsoft offer 'double digit growth' ahead thanks to AI, Wall Street analysts say"
-    excerpt: "Wall Street analysts said this week there's a host of stocks that are positioned to profit from artificial intelligence."
-    publishedDateTime: 2023-09-16T10:23:00Z
-    webUrl: "https://www.cnbc.com/2023/09/16/stocks-like-microsoft-see-double-digit-growth-ahead-thanks-to-ai.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 52
-  - title: "Oracle to colocate in Azure data centers under expanded Microsoft partnership"
-    excerpt: "Oracle Corp. and Microsoft Corp. are expanding their four-year-old cloud relationship with a deal that will colocate Oracle’s Exadata database-optimized server and Real Application Clusters in Microsoft Azure data centers."
-    publishedDateTime: 2023-09-14T22:07:00Z
-    webUrl: "https://siliconangle.com/2023/09/14/oracle-colocate-azure-data-centers-expanded-microsoft-partnership/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 51
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Nadella-Ellison.jpg"
-        width: 1576
-        height: 837
-        isCached: true
   - title: "Microsoft and Oracle Partner on New 'Oracle Database at Azure' Service Offering"
     excerpt: "Microsoft and Oracle on Thursday announced 'Oracle Database@Azure,' a new collaborative infrastructure-as-a-service effort that lets Oracle database customers more easily tap Azure services."
     publishedDateTime: 2023-09-14T23:34:00Z
@@ -301,6 +303,20 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 49
+  - title: "Oracle and Microsoft strengthen cloud partnership with Oracle Database@Azure launch"
+    excerpt: "Oracle and Microsoft have announced a new service that will allow customers to access Oracle database servers located in Microsoft Azure data centers. Intended to smoothen the cloud transition and give customers more flexibility when it comes to managing their multi-cloud environment,"
+    publishedDateTime: 2023-09-18T14:01:00Z
+    webUrl: "https://www.techcentral.ie/oracle-and-microsoft-strengthen-cloud-partnership-with-oracle-databaseazure-launch/"
+    type: article
+    provider:
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 48
+    images:
+      - url: "https://www.techcentral.ie/wp-content/uploads/2023/09/Microsoft_Oracle.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "Microsoft and Oracle Expand Partnership to Deliver Oracle Database Services on OCI in Microsoft Azure"
     excerpt: "and best-in-class services of Microsoft Azure, including best-in-class AI services like Azure OpenAI. This combination provides customers with more flexibility regarding where they run their workloads. It also provides a streamlined environment that ..."
     publishedDateTime: 2023-09-15T16:20:00Z

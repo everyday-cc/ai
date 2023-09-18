@@ -48,7 +48,12 @@ related:
     provider:
       name: Wired
       domain: wired.com
-    quality: 63
+    quality: 85
+    images:
+      - url: "https://media.wired.com/photos/65024d2e139c7729ea586427/191:100/w_1280,c_limit/Tesla-Dojo-Supercomputer-Fast-Forward-Business-1297137507.jpg"
+        width: 1280
+        height: 670
+        isCached: true
 
 secured: "RCI5i9IsesVCgyeAwNCEQbAKtdiaJzR8OPYPly4o2Jd71c//MCxslk/Kr69aajpTTGSI1jYn5jeSgtcTCn0UEHfFk7VnO+CIwDwBNY2Zau/RM2GByrRRmDNyqnSgNHYVts9c4y25N0XRtkRN+mF3ZO665CC2NFVV+zV7nZaFJaqJxWUMHB9d6Mn5idpzo3ivQ3EpfhHLJTWML5PMAH9tTB4+bh88qYmJ2NkF/sUxd9YBot3UcbFZFeEAhf+po8eDAJpWHGd5el9IdbVfDRymQE72OE6jx5nMV/enkM9KMhh23810JFeUhab1mt/+/5eWE/sJ4qwOePYlI5SeCMf1VjU8T6utX8lNMo/W8P98MiU=;F/W8XZjXG3VKBmO3yBnaiA=="
 ---

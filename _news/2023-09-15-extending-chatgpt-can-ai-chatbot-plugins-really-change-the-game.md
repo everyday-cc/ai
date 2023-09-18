@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/extending-chatgpt-do-ai-cha
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/extending-chatgpt-do-ai-chatbot-plugins-really-change-the-game/"
 type: article
 quality: 87
-heat: 207
+heat: 217
 published: true
 
 provider:
@@ -165,6 +165,15 @@ related:
     provider:
       name: SciTech Daily
       domain: scitechdaily.com
+    quality: 19
+  - title: "46 ChatGPT alternatives and AI tools for teachers"
+    excerpt: "Teachers and those in the education sector might be interested in a new overview guide that provides a wealth of AI tools and alternatives to ChatGPT. The"
+    publishedDateTime: 2023-09-18T12:04:00Z
+    webUrl: "https://www.geeky-gadgets.com/46-chatgpt-alternatives/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
     quality: 19
   - title: "Why Japan Is Building Its Own Version of ChatGPT"
     excerpt: "Some Japanese researchers feel that AI systems trained on foreign languages cannot grasp the intricacies of Japanese language and culture"

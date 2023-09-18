@@ -24,6 +24,17 @@ images:
     height: 1687
     isCached: true
 
+related:
+  - title: "Trinity College developing AI platform to address ethics and compliance in firms"
+    excerpt: "A team of researchers at Trinity College Dublin has secured €365,000 in funding to develop an AI-driven platform to address failings in ethics and compliance."
+    publishedDateTime: 2023-09-18T13:34:00Z
+    webUrl: "https://www.rte.ie/news/business/2023/0918/1405961-tcd-developing-ai-platform-to-address-ethics-in-firms/"
+    type: article
+    provider:
+      name: RTE Online
+      domain: www.rte.ie
+    quality: 29
+
 secured: "ABnQ5751lAuqwPsF/TIzstC3SkoIpbSBgpCG83cd52EzXc3ILjApRgVOA6ck01wvW/WDmak+NCzLsBsk0Adj/XuIsAdJInsHgT681QsgnDZvgMMBN0bzolB239iaH4LbymOaWo3qnqLteQbJDeEkp0PxUDqwFml8Uy//aU99PRAwcgb/sysovh2VTI6go4Cwvo/TvfMgu6WNaxABrXbOrs4ag8aOhSeeqg8YC8h7F55CjFDB+YZb2ojPRq9jsH5BgqgrnzZn7axuAXXkKTg4ZGijQG4HiLyWdrx73nhE8164+So6jlz4owxrDMgnKJonahbtc5R0iCP3+q2WLT0l1TmL6CesZVWdjZZdCcqznRE=;bGDPtmoH2UW247TKCYrMLg=="
 ---
 

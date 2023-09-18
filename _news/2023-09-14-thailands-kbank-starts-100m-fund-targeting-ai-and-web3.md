@@ -9,7 +9,7 @@ ampWebUrl: "https://www.coindesk.com/business/2023/09/14/thailands-kbank-starts-
 cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/business/2023/09/14/thailands-kbank-starts-100m-fund-targeting-ai-and-web3/?outputType=amp"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "KASIKORNBANK Launches KXVC, a $100m Fund for AI, Web3, and Deep Tech Startups"
-    excerpt: "Thailand's digital bank, KASIKORNBANK (KBank), has launched a $100 million flagship fund, KXVC, aimed at fintech startups specializing in AI, Web3, and Deep"
-    publishedDateTime: 2023-09-13T23:09:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/09/212879-kasikornbank-launches-kxvc-a-100m-fund-for-ai-web3-and-deep-tech-startups/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 51
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/11/Money-Dollars-Benjamins-100.jpeg"
-        width: 1280
-        height: 960
-        isCached: true
   - title: "KBTG launches KXVC – a 100 million USD flagship fund targeting global AI, Web3, and Deep Tech startups and funds with potential synergy in APAC"
     excerpt: "KASIKORN Business-Technology Group (KBTG) – a tech arm of KASIKORNBANK (KBank) – launches KXVC – 100 million USD flagship fund targeting AI, Web3, and Deep Tech fintech startups globally with potential synergy in APAC. Asia-Pacific, especially ..."
     publishedDateTime: 2023-09-15T02:10:00Z

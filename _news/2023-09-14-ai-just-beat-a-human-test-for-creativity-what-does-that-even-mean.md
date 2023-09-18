@@ -8,8 +8,8 @@ webUrl: "https://www.technologyreview.com/2023/09/14/1079465/ai-just-beat-a-huma
 ampWebUrl: "https://www.technologyreview.com/2023/09/14/1079465/ai-just-beat-a-human-test-for-creativity-what-does-that-even-mean/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/14/1079465/ai-just-beat-a-human-test-for-creativity-what-does-that-even-mean/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2023/09/divergent-thinking.jpeg?w=3000"

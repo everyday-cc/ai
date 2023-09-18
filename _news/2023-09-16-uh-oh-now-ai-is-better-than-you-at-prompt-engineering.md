@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/uh-oh-now-ai-is-better-than
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/uh-oh-now-ai-is-better-than-you-at-prompt-engineering/"
 type: article
 quality: 89
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI can now generate CD-quality music from text, and it’s only getting better"
-    excerpt: "If you'll recall, Stability AI is the company that helped fund the creation of Stable Diffusion, a latent diffusion image synthesis model released in August 2022. Not content to limit itself to generating images, the company branched out into audio by backing Harmonai, an AI lab that launched music generator Dance Diffusion in September."
-    publishedDateTime: 2023-09-13T20:59:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/09/ai-can-now-generate-cd-quality-music-from-text-and-its-only-getting-better/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/09/ai-can-now-generate-cd-quality-music-from-text-and-its-only-getting-better/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/ai-can-now-generate-cd-quality-music-from-text-and-its-only-getting-better/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 86
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot_singing_3-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Experts say Artificial Intelligence is coming into the workplace faster than previously thought"
     excerpt: "The idea that AI can make work and tasks 100 times faster is appealing, especially for businesses looking to get ahead of competitors."
     publishedDateTime: 2023-09-14T23:08:00Z

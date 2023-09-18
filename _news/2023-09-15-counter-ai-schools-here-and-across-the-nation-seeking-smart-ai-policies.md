@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The power of data and AI: Transforming industries through collaboration"
-    excerpt: "The world is in the midst of a data revolution, and the integration of AI into industries is at the forefront of this transformation. Understanding the data that is being used, its source, representation, structure and format is essential for making AI and generative AI more effective and impactful, according to Day."
-    publishedDateTime: 2023-09-13T21:11:00Z
-    webUrl: "https://siliconangle.com/2023/09/13/power-data-ai-transforming-industries-collaboration-exploresas/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Michael-Glaros-Gavin-Day-SAS-Explore-September-2023.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Key Contractual Considerations for Health AI and Hospital Collaborations"
     excerpt: "If artificial intelligence (AI) is the vehicle that will revolutionize health care, data is the fuel that will propel the revolution. Health AI startups have recognized an unprecedented opportunity to"
     publishedDateTime: 2023-09-14T21:19:00Z

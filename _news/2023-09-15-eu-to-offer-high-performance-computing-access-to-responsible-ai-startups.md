@@ -24,22 +24,70 @@ images:
     isCached: true
 
 related:
-  - title: "EU to let ‘responsible’ AI startups train models on its supercomputers"
-    excerpt: "The European Union has signalled a plan to expand access to its high performance computing (HPC) supercomputers by letting startups use the resource to train AI models. However there’s a catch: Startups wanting to gain access to the EU’s high power compute resource — which currently includes pre-exascale and petascale supercomputers — will need to get with the bloc’s program on AI governance."
-    publishedDateTime: 2023-09-13T21:27:00Z
-    webUrl: "https://techcrunch.com/2023/09/13/eu-supercomputers-for-ai/"
-    ampWebUrl: "https://techcrunch.com/2023/09/13/eu-supercomputers-for-ai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/13/eu-supercomputers-for-ai/amp/"
+  - title: "UK’s competition watchdog drafts principles for ‘responsible’ generative AI"
+    excerpt: "An initial review of generative AI by the UK’s Competition and Markets Authority (CMA) which was announced back in May has concluded with a report containing seven proposed principles to “ensure consumer protection and healthy competition are at the heart of responsible development and use of foundation models” (FMs), as it puts it."
+    publishedDateTime: 2023-09-18T15:17:00Z
+    webUrl: "https://techcrunch.com/2023/09/18/cma-foundation-ai-review/"
+    ampWebUrl: "https://techcrunch.com/2023/09/18/cma-foundation-ai-review/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/18/cma-foundation-ai-review/amp/"
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 87
+    quality: 85
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1136663830.jpg?resize=1200,800"
+      - url: "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1202271610.jpg?resize=1200,900"
         width: 1200
-        height: 800
+        height: 900
         isCached: true
+  - title: "AI boom may not have positive outcome, warns UK competition watchdog"
+    excerpt: "Risks include high prices as well as proliferation of false information, fraud and fake reviews, says CMA"
+    publishedDateTime: 2023-09-18T11:23:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/sep/18/ai-uk-competition-watchdog-cma"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/sep/18/ai-uk-competition-watchdog-cma"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/sep/18/ai-uk-competition-watchdog-cma"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/c747e5c21c843a232689374dbd18440ba8d78d47/0_351_5300_3182/master/5300.jpg?width=620&quality=85&auto=format&fit=max&s=7bc0a608ffb5e08dc84492026722b4f0"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "UK competition regulator lays out artificial intelligence principles"
+    excerpt: "Britain's competition regulator proposed principles to govern new artificial intelligence (AI) models on Monday, including accountability, access and transparency, as it seeks to"
+    publishedDateTime: 2023-09-18T10:39:00Z
+    webUrl: "https://business.inquirer.net/421754/uk-competition-regulator-lays-out-artificial-intelligence-principles"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 37
+    images:
+      - url: "https://business.inquirer.net/files/2023/09/2023-09-18T101515Z_3_LYNXMPEJ8H084_RTROPTP_4_USA-AI-ELECTION-620x413.jpg"
+        width: 620
+        height: 413
+        isCached: true
+  - title: "UK competition regulator lays out new artificial intelligence principles"
+    excerpt: "Britain's competition regulator proposed principles to govern new artificial intelligence (AI) models on Monday, including accountability, access and transparency, as it seeks to foster competitive growth in the fast-moving technology. The Competition and ..."
+    publishedDateTime: 2023-09-18T12:57:00Z
+    webUrl: "https://www.tribuneindia.com/news/world/uk-competition-regulator-lays-out-new-artificial-intelligence-principles-545563"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 16
+  - title: "Vector Institute partners with World Economic Forum on responsible artificial intelligence and ..."
+    excerpt: "Today, the Vector Institute announced a new partnership with the World Economic Forum. Through the collaboration, Vector's President and CEO Tony Gaffney will"
+    publishedDateTime: 2023-09-14T16:26:00Z
+    webUrl: "https://www.bakersfield.com/ap/news/vector-institute-partners-with-world-economic-forum-on-responsible-artificial-intelligence-and/article_c0b0541c-3f8d-5c3f-a04e-28457c7dc93b.html"
+    type: article
+    provider:
+      name: The Bakersfield Californian
+      domain: bakersfield.com
+    quality: 5
 
 secured: "GZXzgFC3LFmZgk8bfr5WH5NNkyQlpRaC289GIybV8DvzQoJHAMGytS9rQUz+67sRnMZZrdM908FwFitBQYSHCkwPfzlpHIiD3F8VY/RGJOCwF06hnYon3NvVVHkpszy2XzanUwViVn65uQlwkDi4DeMTMp61WlbnJA2KAKH+361+VFrKcX/XcDQl0y0O+licBaSyIsUP60Cm31C8M0DKQZP9Bh25oFlyFGbAfSEtIERqph/dMnC3yhVXa8GQ+zxwSXZxh5S/yZNJQ/je5HnK7QeUcL/lEtXFDX0BJQ4wFNP3WYely3uWgllBppoL3MwEXqHEq4Q5YszbhzikLEi/si9yGHlrcrpv2Q9XMhm8/IQ=;F4n30oRG7lyv+2CQfqzwAw=="
 ---

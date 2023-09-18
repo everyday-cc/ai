@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/ubotica-partners-with-ibm-for-one-click-d
 webUrl: "https://www.ibm.com/blog/ubotica-partners-with-ibm-for-one-click-deployment-of-space-ai-applications/"
 type: article
 quality: 97
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Ubotica and IBM bring one-click deployment of AI on board satellites"
-    excerpt: "Ubotica has partnered up with IBM to streamline the use of AI applications on board low-Earth-orbit satellites."
-    publishedDateTime: 2023-09-13T22:05:00Z
-    webUrl: "https://thenextweb.com/news/ubotica-ibm-one-click-deployment-ai-on-board-satellites"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F09%2FUntitled-design-14-8.jpg&signature=612637b66c7d62fd8e9c8397dfacad6e"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "China's AI applications are coming — where it matters for monetization"
     excerpt: "Chinese companies are making announcements about artificial intelligence again – this time about applications."
     publishedDateTime: 2023-09-18T03:08:00Z

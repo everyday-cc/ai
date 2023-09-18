@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://technical.ly/wp-content/uploads/2023/09/google-openai-file-20230830-20-ky08vn.jpeg"

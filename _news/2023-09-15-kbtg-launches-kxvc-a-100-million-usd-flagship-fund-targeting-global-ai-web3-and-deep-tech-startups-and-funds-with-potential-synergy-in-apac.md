@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "KASIKORNBANK Launches KXVC, a $100m Fund for AI, Web3, and Deep Tech Startups"
-    excerpt: "Thailand's digital bank, KASIKORNBANK (KBank), has launched a $100 million flagship fund, KXVC, aimed at fintech startups specializing in AI, Web3, and Deep"
-    publishedDateTime: 2023-09-13T23:09:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/09/212879-kasikornbank-launches-kxvc-a-100m-fund-for-ai-web3-and-deep-tech-startups/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 51
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/11/Money-Dollars-Benjamins-100.jpeg"
-        width: 1280
-        height: 960
-        isCached: true
 
 secured: "wR5rHK4xINXt4Efd+UlNVHMEZbj1yMXufguoeQ1oVsu5yXBl25r7+9a+6bxJlYfuxswbd813z6HFL1ZKNU3ZiO2RQzKrriu8WCd79ToOWqrWZ9aGzpo+X5qDivYccblcKHf8VAcd/fwCzuG8mcYSMsuvoUznza0pryQLsUyW5cHRyC0RB/ouA98RBJgt6btvlL6W23UzhYTUYB9zaNAjYnRurhhuq63gklsMKDIT0GBnByAr6ViEw0b0Dsm4m4z8+cRs6cQnO737oX8apL+OPtkV87YXYcIYJ125j/dA/B1ct4ou8OUNBrdkmvv4RfAcUAmww5FU6CuSegxWM122l4AoeO93KB96xmC9/zi46a1kOMcb/QSyvEaKxLtdr1CZWKgz1b7Scu87Gsm9JCgXPXu24W9VSs3CjbIgfrVi5fC6ajVlP+Syd9dNHXlxHieVI9t8hL7CTE+Kjiou40mZxgMSiaRPKYz1fdCWuKRFCmRR7yqwUhxGHT9YjekCXjZNib9e0JG3hWLxCYDFoHjKBg==;5Ry4WbJgR0DRYzMx/xpfXw=="
 ---

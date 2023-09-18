@@ -60,20 +60,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Benioff attacks other Gen AI vendors at Salesforce Dreamforce 2023"
-    excerpt: "Salesforce chief executive and co-founder Marc Benioff used his keynote address at the company's Dreamforce 2023 to make bold attacks on other generative AI (GenAI) vendors, accusing them of not taking trust and hallucinations as seriously as his company."
-    publishedDateTime: 2023-09-13T19:22:00Z
-    webUrl: "https://www.crn.com.au/news/benioff-attacks-other-gen-ai-vendors-at-salesforce-dreamforce-2023-600229"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/News/Salesforce_einstein-1-copilot-studio.jpeg"
-        width: 611
-        height: 458
-        isCached: true
   - title: "Salesforce CEO Marc Benioff says AI models have 'stolen' copyrighted content from media companies"
     excerpt: "Salesforce CEO Marc Benioff discusses ethical concerns and trust issues around generative AI at the company's Dreamforce conference."
     publishedDateTime: 2023-09-15T19:41:00Z

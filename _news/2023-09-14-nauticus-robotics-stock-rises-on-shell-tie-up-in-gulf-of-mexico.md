@@ -28,6 +28,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
+  - title: "Nauticus Inks Service Deal with Shell to Deploy Autonomous Subsea Robot"
+    excerpt: "Nauticus, a developer of ocean robots and artificial intelligence for autonomous services for offshore industries, said in a news release that the contract has the possibility for future inspection service projects. The contract value was not disclosed."
+    publishedDateTime: 2023-09-18T12:18:00Z
+    webUrl: "https://www.rigzone.com/news/nauticus_inks_service_deal_with_shell_to_deploy_autonomous_subsea_robot-18-sep-2023-174033-article/"
+    type: article
+    provider:
+      name: Rigzone
+      domain: rigzone.com
+    quality: 19
 
 secured: "XlLn6aee1SlP4vaEx3XTE+HDMlsV/jJ84LG3I0LuDV5AjaLYU8xbXj+NjUZzruz/MZKv0PEEbj8gCT/zE8IRhIlCMeRP4z4RMRKoPf+tbo1mbjgwf6FIzISWERrlWeDiXdmODaYIaRrWUlIKsyDc0DJ5Lu+qdUpUDoFKB9sZDwCrX/yRhoUnx1IFP25st5ylUYGp6KRynAWgsnTR23NwaNFGUqrvLbTvVDaXEWLYORAV77fWQ7JI6jn7Aus3qUYvbQSWe94bBzpVSNzzHXCO+IImtTbMud1SZLMH3O1dpmmlyFl/0HjfvF37YKfu4pjslzKg5+hfczK+vqLnn3o0KjCJiK93T2QimI/y9vQof0s=;SSTekaXW1w62NtOP6TfAig=="
 ---

@@ -59,7 +59,7 @@ related:
     provider:
       name: technologynetworks
       domain: technologynetworks.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://assets.technologynetworks.com/production/dynamic/images/content/378930/brain-inspired-changes-could-make-ai-more-resilient-378930-640x360.jpg?cb=20230918"
         width: 640

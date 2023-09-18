@@ -33,6 +33,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 39
+  - title: "Curipod helps teachers make interactive lessons using generative AI. Check out the pitch deck it used to raise $4.6 million in seed funding."
+    excerpt: "Norwegian edtech startup Curipod helps teachers make interactive lessons using generative AI, and just raised seed funding led by Reach Capital."
+    publishedDateTime: 2023-09-14T10:00:00Z
+    webUrl: "https://www.businessinsider.com/pitch-deck-edtech-startup-curipod-raise-seed-funding-2023-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 32
+    images:
+      - url: "https://i.insider.com/6501fccc1afe8f0019e9c530?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "s7+fnBqza/kdmFY6zDFTgY6N6VB/3TXd6KkAu3bzmCrzGs04MDUBGVyG3KagvsqhSvUK4hHrPTk4eDtr5wyKLkGYwOixg8p87zo5ZXLRlQ3aFsF4JPuHv/oRrx3Zs1Xj4ae0JiC7XqwPO6j4kzPHPawO95keGj7GDyd36WVIEbiR/j/gIdpEH57l+l4TW9S4r/mgZo8BxWgv72nKLJNI6qB4ybrVz2QChotlzWig6FFdf4455rrjuOl7SDPUF20wlqiess8T9PCrSLPXEPXQjW5T5dkXINs5gNH2VdXAnHIY/Y4YXNJ/Tl8ECqKVzoSmB4w6IySUKZdvy/HXW6c9I79SES6xgw2TAsmKEMJZtOg57Aa2fpJckFnS4si8s44iTEtTF12fEJYNnuuVdptswJ7bAFe26T00Ye5rhQes11VmnsCkJWvtT0kQmLrDi3RuTe6OHohqYKm1N7SH0EX+TB5RtvFUi1q5elpJYFm4IFKo6vdxxwMuM8cK608LafB+NtgTCYqTflY9wo0M9PWmkA==;McI89EEGXk73kp8ob9CNuQ=="
 ---

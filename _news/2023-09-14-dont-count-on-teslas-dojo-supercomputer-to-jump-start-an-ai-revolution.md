@@ -6,7 +6,7 @@ publishedDateTime: 2023-09-14T16:00:00Z
 originalUrl: "https://www.wired.com/story/fast-forward-tesla-dojo-supercomputer-elon-musk-ai-revolution/"
 webUrl: "https://www.wired.com/story/fast-forward-tesla-dojo-supercomputer-elon-musk-ai-revolution/"
 type: article
-quality: 63
+quality: 85
 heat: -1
 published: false
 
@@ -21,6 +21,13 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Robotics
+
+images:
+  - url: "https://media.wired.com/photos/65024d2e139c7729ea586427/191:100/w_1280,c_limit/Tesla-Dojo-Supercomputer-Fast-Forward-Business-1297137507.jpg"
+    width: 1280
+    height: 670
+    isCached: true
 
 related:
   - title: "How Tesla’s New Supercomputer Could Upend the AI Race"
@@ -52,6 +59,6 @@ related:
         height: 400
         isCached: true
 
-secured: "PxzgJTlRD4vJdKilNU3eSoHH6nhw2XfWbD8BU4LlA3Pa8n7fGH8wf1UQXYpGLXGBmIS/fshwYHsTuhBQaJshAqIiODyj1CzsNyhBXKHYaogVamb17XAOj9pEGwqTKOXGD/FM18jn54MGVKhrZk62t3HXnSOz86IacAcMHAm1guHBRGnA+dP8k+cwFz2PxtUbusLz4YiI7kbBYZVWkg1wZZQEM5W5Hhny8Vzl7nub+TnHehLMWbNcewrnE+Gii+SyW+xDjiFsQsPVkl6m5FjDu7MPFiBr93VCBkILKbmgwj/UFIMtG8h49jbruWqOzj4F5gw1aQmuQuHUV5+ZAkw0obc7+s/+bQOZJHGpYavKWHosgCMgjEZ2uAjTOxMi4pQh4lVFFeBpYKjYS4e05h+LYdpLljbQe8NmaIlxUfUr6FfjYJpiQKIB9ijCSRPdSY6DNRave1zxSJrE3pEdDUOMqazUyexmOHRVM0gOxwl6zlD7n705Qzbg95KajYaz/vEVHNJybrM/IaKwg8SiiL5uDA==;q1fk5CvFxgC00YFVY3YjjQ=="
+secured: "eZ70EN+WbW1qe5T2EAgPec6N6IRs0eQY7oFPEOyyhnbCnr/9d9vD9uRZLCqnaikpYoyo5tCi76hIjHSiW6EglrsHFDZyypRAG+Js0AAMGxkdGZe923e8+LBkqJwzowOBtrRliPXAqpG+1lkcFp7mcqqcspEqWBCS+pM7bjm47NJwmSev+vTHo8jtzP/SpsHt3iO/bRh6LZ4aUl1kjAW7E8islgc/ChEhvjFhjrRUv/xmaTYIIDU5XbSkA21hWkkfbDc57crVjl0Bj+yZFXflHdW2MbKvvFv9hqRIlB226k7+BnpHhXy7IZoFgB9P5Qnm8XU2UkKHtvR9rN52V9PYF5RpDmaSux3p25QRBp+u8d4=;dgD/DBOK2z3LL+eFFwDseg=="
 ---
 

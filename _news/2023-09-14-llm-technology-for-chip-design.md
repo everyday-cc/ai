@@ -7,7 +7,7 @@ originalUrl: "https://semiengineering.com/llm-technology-for-chip-design/"
 webUrl: "https://semiengineering.com/llm-technology-for-chip-design/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Renesas Taps Cadence For ChipGPT-Like AI-Powered Semiconductor Design"
-    excerpt: "Generative AI has once again proven itself capable of alleviating semiconductor design teams from large portions of iterative optimization and verification work."
-    publishedDateTime: 2023-09-13T20:42:00Z
-    webUrl: "https://www.forbes.com/sites/davealtavilla/2023/09/13/renesas-taps-cadence-for-chipgpt-like-ai-powered-semiconductor-design/"
-    ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2023/09/13/renesas-taps-cadence-for-chipgpt-like-ai-powered-semiconductor-design/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/09/13/renesas-taps-cadence-for-chipgpt-like-ai-powered-semiconductor-design/amp/"
+  - title: "Maxeda Technology: utilizing AI technology to optimize chip layout design, enhancing chip design efficiency and performance"
+    excerpt: "With the rapid development of various digital innovations such as Generative AI, the demand for high-performance chips in the market has surged dramatically, leading to increased complexity in chip design."
+    publishedDateTime: 2023-09-14T07:16:00Z
+    webUrl: "https://www.digitimes.com/news/a20230913PR203/maxeda-technology-press-release.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: Digi Times
+      domain: digitimes.com
+    quality: 28
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6501fe561c9dae31705e700f/Renesas-SVP-And-CTO--Shinichi-Yoshioka/960x0.jpg?height=532&width=711&fit=bounds"
-        width: 711
-        height: 532
+      - url: "https://img.digitimes.com/newsshow/20230913pr203_files/4_2b.jpg"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "DfovvNxu+POHzaFADKmVkQoXQhtm0yDsLHDU2hvfi7Y/EOg+OgPrRLOaJssqAmpvBsETRVRHzlnhZFGeNftqo81PT/K1qj2RZIRGueBZ6LwTEaV5UG3d2yJ80NWWYdih9U08xZkaagOvHrxahE8VcHa4CxxpZFfLegoSzjSm/07puznOrYHuMLHypXlU0tEvtF7KW24h7NXuxYCKeCSN/T/f5jRqUq9TISBh9GXy8jNjzxqlLSMIX9eXrqWOm7IWEsLmh5MK78z52tNOW0WFqKHOBfioYHeoNW1yg/P0urL3tzMpYTCtHuSkCYzs1UNBXVuyvzsB5+pNcAMdq7gPvcb1bdpl0wwayPTdWlqsgQQ=;HEdPTsNw+Lna3RcbY3UmhA=="

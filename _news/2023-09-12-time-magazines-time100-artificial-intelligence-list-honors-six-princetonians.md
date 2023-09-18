@@ -17,7 +17,14 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - Facebook AI
 
-secured: "VtiZ60k+7hRLPidecawGQyCYr9ev6MgRuGAV7NdYAjwwQe5FVWFYWEhuSAggo4hyNDjUYTHj75d7b+ycL7+bo9pBLhOU/u3vd1YPrz9bjdOU/F2qWxImABFnfSCKkgnJybvEkIwv0fDiLv6y/r55kXzgkgniCpHOKGbT0gD7e7ya3Z5rDJccj4boiPxwhhoFZVXKFs7uaJBnwmUTc6ywYcSlh1IpzMCVBFnyO4kQdxUrI50tJWIE+eZk7BGjQrOTNlkwLdSxyjqlA80pMurKaVbOu68z1z7fG9sVdXL4CS3BOCfogcMf+iVsLXjbuyqvZYIORxkKVymUZtWxEVjw50ZJ9SqKno/AivMuY0kXJtS+j1y2c28Ni+GP6G46xrYshd5YLv3HmydgL0VdGwBGKwQ4MEhjiUnz36ihd/xCc+AHB3Am/pdYafwzXYpPP5pr414DLSRW283PeiVtMiNO2O0rRJVOiUwOgxLkfvCdzqireUJdhkvxtmTONNjZRCCk2dK5F91plAo02/t92CrYfA==;AbX0sLPK0sJx5PKNS4jnrw=="
+images:
+  - url: "https://www.princeton.edu/sites/default/files/styles/scale_1440/public/images/2023/09/AI100_1920x1080_0.jpg?itok=pGfWta0p"
+    width: 1440
+    height: 810
+    isCached: true
+
+secured: "6ODa+HFSQRZlogK9EBXGNV83HaCnq/5FFKu5gaYVxKg1Lh5C5kQCIoWMsuBZEmCjUNQ4/m1A3/jFhB3s1B6B4WaGt/oodisGhfBMyxuPEo6CHxXCtqllZ50MK0Vs8jjTwjFsgaybhN7LX/1j8BIf10DR2I/28oZDl04gN9XwamBb59fAnuq1liMNjfC67osBxOR7TClW1aMSBufeNifKPmHO4s2nID6KqjW/mhvMbYS6Nmrecu2U2SKXYEzUG0NhsbSKQB6F7yoCGmN3TrTHkhF8ePoK+IcUfpGfdP0Fcf1q7ZkAaUDjBGth9HnarzkRq3VrKJpE0aOMGsDsDeZNbaDgE1tbNWrRdCwbPWppC9E=;SpndGfWcQ9QUt2xSxLx2qg=="
 ---
 

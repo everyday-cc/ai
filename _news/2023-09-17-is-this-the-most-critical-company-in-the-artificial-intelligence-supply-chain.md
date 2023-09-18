@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI has the Potential to Transform Any Supply Chain with the Right Combination of People, Processes, and Technology"
-    excerpt: "We sit down with Ashwin Mittal, CEO, Course5 Intelligence to talk about the digital transformation in India., Technology & Science News, Times Now"
-    publishedDateTime: 2023-09-18T07:27:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/ai-has-the-potential-to-transform-any-supply-chain-with-the-right-combination-of-people-processes-and-technology-article-103751154"
-    ampWebUrl: "https://www.timesnownews.com/technology-science/ai-has-the-potential-to-transform-any-supply-chain-with-the-right-combination-of-people-processes-and-technology-article-103751154/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/ai-has-the-potential-to-transform-any-supply-chain-with-the-right-combination-of-people-processes-and-technology-article-103751154/amp"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 37
-    images:
-      - url: "https://static.tnn.in/thumb/msid-103751154,updatedat-1695022065105,width-1280,height-720,resizemode-75/103751154.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Companies that \"wait and see\" will be left behind as enterprises see early results due to AI, finds Bain & Company"
     excerpt: "As customers introduce AI into their own processes, job roles are expected to change. Engineering, sales and marketing are among the functions most likely to benefit from AI over the next 18 months. Companies will need more engineering talent for AI and ML, particularly with experience building or integrating LLMs."
     publishedDateTime: 2023-09-18T04:12:00Z

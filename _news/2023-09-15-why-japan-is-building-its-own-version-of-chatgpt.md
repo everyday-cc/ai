@@ -171,6 +171,15 @@ related:
       name: SciTech Daily
       domain: scitechdaily.com
     quality: 19
+  - title: "46 ChatGPT alternatives and AI tools for teachers"
+    excerpt: "Teachers and those in the education sector might be interested in a new overview guide that provides a wealth of AI tools and alternatives to ChatGPT. The"
+    publishedDateTime: 2023-09-18T12:04:00Z
+    webUrl: "https://www.geeky-gadgets.com/46-chatgpt-alternatives/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 19
 
 secured: "XqK/9y13ZntnwLAhvGvKo6zvPisNIIwFhQrkbHIc8Grk4VWp44N0HVOvrKQsE6y/UaHF/XXJbZ+VmPpwo7ZxRUAtnlfBMmKqUmoldWeW6mG8z3bAYCzANDkLI99hOadTVJ8y9my+Rw86JSfGKTTrjQZerGC5fFOi0f20zVpZSnWAhqjjrJscEleRZamrdnzeOVrj3yELRtuXYqtzE8YfwPI+dss+NEBSiDE1hwJymAEHfDNCD3x7A75kHJkqCDiZdDZuSQq8xbyVom4SW2x5bDNmiVNcBlzao6pYYdNUpz6Ap7eVat0LpdECSi6+wJFnhzcb9GZxHy+XP4oVBcQGMqgThTVNISmEJuVwFEtOkUPOGtDqRlzCBUqvqm+JGp0uElT9azgpSfbFxfwxfya2DLshGUJ7k6+liDfozQf/DXem3LaP2EifoEf0zxdmtsPaDNvNIJIlHfESwzsbW5JIpTF4WVtzET+MIBA5jNPz+omWVVehLlWqnJdwzHRLHBJJhEgiXmqh8FokZJJRxSAhZA==;XLO4uhMd4od3g8ckLFrZwA=="
 ---

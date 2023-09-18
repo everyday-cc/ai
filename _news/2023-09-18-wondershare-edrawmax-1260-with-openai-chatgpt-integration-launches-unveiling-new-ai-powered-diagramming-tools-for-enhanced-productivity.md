@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/wondershare-edrawm
 webUrl: "https://markets.businessinsider.com/news/stocks/wondershare-edrawmax-12-6-0-with-openai-chatgpt-integration-launches-unveiling-new-ai-powered-diagramming-tools-for-enhanced-productivity-1032636114"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 400
     height: 225
     isCached: true
+
+related:
+  - title: "AAA-ICDR® Launches New Suite of Deposition & Hearing Services, Including AI-Powered Transcription"
+    excerpt: "Cutting-Edge Technology to be Offered Alongside Case Management Services, Domestically & Internationally, for Virtual, Hybrid & In-Person"
+    publishedDateTime: 2023-09-18T13:32:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/aaa-icdr-launches-new-suite-of-deposition-hearing-services-including-ai-powered-transcription-1032637061"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
 
 secured: "xKVI3LX31zcNQN1fJ9b5Ef7nfbRQPtckFTImmXYt7zJyWmr5770jh6CqGbLTie44HpAC23zK/+5ZQexaysYrt9+2f65t/FYm1L4XTLcZ3Bk4WWAXKw2BR1LrkNSYpQnwDD/CiRBqZOCJ9qeto1QX70ojs/O+r+Bz9+701JCdSMvnyxnEVNuwIiwFTA0DFlxS4lSVaMvY6CWOZ3oDelUZ27+k9CyQR8tyc3NEbtJF2PdmBfIScFuaBhGN88nJDmFJX1sifnZekRhSxZnUVVTtZZURSK42ykalIUMIfYi1wruafmBayegOLwRdJYZdv6z17V9ozi6mogJ20CZpmIu7152CA3BRTzR7DoOLVdC+GQQ=;GnO2BF2FLZ+tk9mZdXmEDA=="
 ---

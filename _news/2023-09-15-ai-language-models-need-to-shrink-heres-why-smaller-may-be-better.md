@@ -35,7 +35,7 @@ related:
     provider:
       name: Computerworld
       domain: computerworld.com
-    quality: 61
+    quality: 63
     images:
       - url: "https://images.idgesg.net/images/article/2023/09/shutterstock-llm-image-100945775-large.jpg?auto=webp&quality=85,70"
         width: 1200

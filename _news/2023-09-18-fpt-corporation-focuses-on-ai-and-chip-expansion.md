@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Congress Is Blowing It When It Comes to AI Regulation"
-    excerpt: "Critics have likened the decision to invite tech CEOs like Elon Musk and Mark Zuckerberg to Capitol Hill to discuss regulating AI as akin to letting “the fox design the henhouse.”"
-    publishedDateTime: 2023-09-13T21:10:00Z
-    webUrl: "https://www.thedailybeast.com/chuck-schumers-ai-summit-is-already-a-bust"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 37
-    images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1694639222/BrowserPreview_tmp_nhuoyv"
-        width: 1480
-        height: 832
-        isCached: true
   - title: "As lawmakers eye regulation, AI could reshape Congress itself"
     excerpt: "I understand the fear,” Speaker Kevin McCarthy said at this year’s Congressional Hackathon. But AI is poised to change how the House works."
     publishedDateTime: 2023-09-15T10:11:00Z
@@ -99,6 +85,6 @@ related:
       domain: bizjournals.com
     quality: 12
 
-secured: "/PVYcqsIiXfxaIDeMlF5t1adsUhaVDIvOG0nJJOJbnAGn7urvBpD7/a43S+3uSToa8iqBDg5SzkzyKE92gNs3eOYneSskA8mewh0n19QliE4BFPs63uX9fzrracQZsmTr9pJ5uFTUwWw5Cr7FpacOVWewwcVEt0phoUrMaI6S1qEccIVKZXovQjc/2Gmj1Ap1hE8u+OearCPodozNZ+y8YbItlFZdEupj97eaFYdSFEKFnmssRMg+VzYkVWI5ActuLrn1mfKMbw98byuiq7jbyI4E9BaLjC79990XfAQ91Fi4sBOB4QFkiICr5t2sUtyoh2KRy2I7kqTFiXJNr89QvJt+zo+so8j7FU0/7fbppw=;9wWGmjS07oxc+MVooLm7Vg=="
+secured: "RuOI4FRp4/4r7KxkQwYUM8kt00MX8gMiEF4FqYt2ReDYbvbjAAppXIKHBQj0//EMG+Q2Gf3Giweq0nhqBifAaPF+A/wif4BNGJiBxQVlV5TN/qoIz3aRVDydjg43khHyfMtoeFihEXsskb2X5pWJHtz1hONDOrlhoDwnZXBy6DUGiucoXo+ucMzl3QE1I7CQzGz/CQ5GtMFRih49+wMHmrbTFZ99N7hYyi3TgsNqm1jOQgx6aK5tdT2c6nfs3itC7Ktr3CawMDqiXX9qRoijudWiK4KjkxwF7w7S4D7bl+g+JKNKfwbQdP4jT2FkS2qItg0mGlArELe+Sgve+eitTYfDMQDfqpk+GihUtjbwVsHryPbmOfmSUKdAlLaGIufKvUHQOVeIxNW0nK15Zg05GF+A82DZ7K0IS1Xy6ZHL19AI+bDUklFQdnRGsHex0yxGMLozuvtjoN8D1F5CjZ6h9l+SMfQ6/zwZNCx/JTPtU63i6uVUjNLGL5DzNIA3RONbjwXVIWALv5CjIb5xNEFC5Q==;h4F8OnoJcKu8woSny3FJvA=="
 ---
 

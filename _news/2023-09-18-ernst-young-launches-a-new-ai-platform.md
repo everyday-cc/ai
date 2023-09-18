@@ -9,8 +9,8 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ern
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ernst-young-launches-a-new-ai-platform-3246635/lite/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Financial Express
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "EY announces launch of artificial intelligence platform EY.ai"
+    excerpt: "Tech - The global EY organization announces the launch of EY.ai, a unifying platform that brings together human capabilities and artificial intelligence (AI) to"
+    publishedDateTime: 2023-09-18T15:43:00Z
+    webUrl: "https://business-review.eu/tech/ey-announces-launch-of-artificial-intelligence-platform-ey-ai-251787"
+    type: article
+    provider:
+      name: business-review.eu
+      domain: business-review.eu
+    quality: 54
+    images:
+      - url: "https://business-review.eu/wp-content/uploads/2023/09/Bogdan-Ion-EY-Romania.jpg"
+        width: 1773
+        height: 1182
+        isCached: true
   - title: "EY invests $1.4 billion in AI tech, launches new platform"
     excerpt: "The Big Four company says its new EY.ai platform aims to help organizations adopt AI technologies and will be embedded into existing EY technologies with millions of users."
     publishedDateTime: 2023-09-14T11:24:00Z

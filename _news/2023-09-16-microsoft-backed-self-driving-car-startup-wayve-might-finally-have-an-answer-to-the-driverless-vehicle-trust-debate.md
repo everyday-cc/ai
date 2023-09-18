@@ -2,11 +2,11 @@
 category: news
 title: "Microsoft-backed self-driving car startup Wayve might finally have an answer to the driverless vehicle trust debate"
 excerpt: "Once the musings of movie makers and authors, self-driving cars are finally beginning to edge into reality. Yet autonomous vehicle (AV) makers have a problem: as exciting as the technology may be, many passengers don't want to put their lives in the ..."
-publishedDateTime: 2023-09-15T18:06:00Z
+publishedDateTime: 2023-09-15T17:54:00Z
 originalUrl: "https://www.aol.com/finance/microsoft-backed-self-driving-car-153624442.html"
 webUrl: "https://www.aol.com/finance/microsoft-backed-self-driving-car-153624442.html"
 type: article
-quality: 14
+quality: 34
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ topics:
   - AI in Autos
   - AI
   - Microsoft AI
+
+images:
+  - url: "https://s.yimg.com/ny/api/res/1.2/DZ.dLTZ_itMvG7HvUqoe.Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Nzc-/https://media.zenfs.com/en/aol_fortune_385/27e2c051011c7366fdffa7b151f52333"
+    width: 1200
+    height: 777
+    isCached: true
 
 related:
   - title: "Self-Driving Cars Could Cause ‘Mass Casualties,’ Warns MP"
@@ -65,6 +71,6 @@ related:
         height: 901
         isCached: true
 
-secured: "87vxuy17ytMTSUOakX2Yfvd5JWN1BPi6zxft2XV25uvKIAmXlEnMJbXoDGpFHk1IZOU8l6+8iO8yYaqdx2aB1DG+lFTU88Ix2KYT/yDC+BS2QnEo3J1QzFp8aF6F7ItCtz21KTmPy5LgVuZDhgmewAQIIfCalAL/k+LVwfaB3G3rRFy7fvLQj+2iFVwq7ZscgzkEt96s2nQSvmDwPdwp3twoNGeYYV3J3M8QFK9ZXnSYlUwe+ihFpSwMDcuNOd890Rt+rgScwAmB54yrbusu6pw72Z8vApb62kMAHLlWPSwHYcUYbMVy3z+5LL5BHa0Zo0ayINl/sRIfrPDAaM0AxKWBdB4pp6tnBTJ0hYtb357a56os7MNJNGN1ds7pD4iha8YEyOJQB2vF7JVQ7ezOLw9tKnN/gTMFAxN1Eje1/04xyBm6NDfYzLfTmUEnhse/aWk+tTGXVcAR1RhDN+HO6mYlGkZKBirA9ExO/U17evn3A/VbanC0JmukosGigAswA5usnCvYDviT6OwMJSjAaw==;bpkJM+SMwSwgbCRQg27Qfg=="
+secured: "5b+gGL1YoArPEykiyD98oaeV7G89D/9s5Ya4ACAGUuGGQjfHvKTPztAO2RHVLALX+CGb4vqollSq9Mhu4LScPzYik9B+vV6NS9jIclrIWnVbWsMRmvjeo726miH1PsvBqdKLfuNuC2b8QbvwvBB29JIcF+orHs+VDR7ZK/Im2EvLpHt0Q7ttOT35DxfXvuqUZvBBi3QKw7CpIsNqxC6NOiFqNYC1JoGRy0zkMhXvOv1+EnI7IXMir3mk651yQ4ASqmDbdSa4uPNr9xehpw6U9Txz+cUsJIWfGgdizP7vzysFrdodo1jgc+IeE2SSApCaVm+FzGy+6FEllnBAPiGPEOMvHRBXo+V6qfP2c1DZcfI=;rjy3ARYr3Lr2w+6oZKhuBA=="
 ---
 

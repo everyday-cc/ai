@@ -5,8 +5,6 @@ excerpt: "FORT Robotics, a pioneer in robotic control solutions, announces that 
 publishedDateTime: 2023-09-06T20:14:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/09/n34292136/fort-robotics-endpoint-controller-for-wireless-safety-and-control-of-machines-and-robots-receives-"
 webUrl: "https://www.benzinga.com/pressreleases/23/09/n34292136/fort-robotics-endpoint-controller-for-wireless-safety-and-control-of-machines-and-robots-receives-"
-ampWebUrl: "https://www.benzinga.com/amp/content/34292136"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34292136"
 type: article
 
 provider:
@@ -17,12 +15,6 @@ topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "fw4uE+KKUDl62Fxzj49rn1DwDHyBqLEYMQ9BZNuQTAs1RP0M9/llIe/JWnEpN3o6nSgB3q9C+0ujaS/Z75iP/VT2TuaeVhEEKEVaYazpWIGAj7jF2pmxUotIHgm9wMtGUwNL+8qDt69uxfT3V3YDUHGM+p2Eq/DfWJCtAT7n5MtTHNHTnzC0hUMm1pb7xOdYJyPx09yHo/RsXd5DsHhF+UA5zau4aPGji3efAQUa8JAQwdHJe/cbZpyCzISjxbBlNgYVfW+YG9YFRLn1e1qgCm8WO5haYGiKKPNKOtQ0o3AXit7SpJOj6UznsjSmfJ2f1+wJYE2c0J+ppkDTC/2qcWZOaXDN7TyTHiKunXkG4mQ=;p4K9J3Art3nwyFP41t7nRg=="
+secured: "oSXReVjrvzUM//VAEdnvIflV3COgogEqrePQHpoBCL0q82yyjXjRmNoNtCXKWolIBJDiQuOy4Fsh8thRFi1Jbu5WbYX2Lhi2xnvC2fqdKAWLEmghxkyDLfABdKrNbuEtq0WFGGsf0wdc0BdzNi+7uZ57hihODxCXCDiwEJ2F5ITh1Wy/KF5vXl4jTTWPoMdvt4u7Nx9L2SEEfn0GIqdmwmcvDxmPklCS5xtQ+JqpiG9rGS2vS1ij2YWGPVA278X4RqlUXDLjmMFXzihiNPRUZO6SyrAMY+bTn16tHsDab3FfWJs9VSFQdkR+wc4jML4x+flFo42uQ4t3p9tQxa26XDU2IVWofU1rEcfuA8TAVxw=;Ix+ODo+A37dWqv2Ik+T/gA=="
 ---
 

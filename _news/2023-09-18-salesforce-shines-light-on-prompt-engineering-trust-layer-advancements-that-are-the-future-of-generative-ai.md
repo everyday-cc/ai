@@ -61,20 +61,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Benioff attacks other Gen AI vendors at Salesforce Dreamforce 2023"
-    excerpt: "Salesforce chief executive and co-founder Marc Benioff used his keynote address at the company's Dreamforce 2023 to make bold attacks on other generative AI (GenAI) vendors, accusing them of not taking trust and hallucinations as seriously as his company."
-    publishedDateTime: 2023-09-13T19:22:00Z
-    webUrl: "https://www.crn.com.au/news/benioff-attacks-other-gen-ai-vendors-at-salesforce-dreamforce-2023-600229"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/News/Salesforce_einstein-1-copilot-studio.jpeg"
-        width: 611
-        height: 458
-        isCached: true
   - title: "Salesforce CEO Marc Benioff says AI models have 'stolen' copyrighted content from media companies"
     excerpt: "Salesforce CEO Marc Benioff discusses ethical concerns and trust issues around generative AI at the company's Dreamforce conference."
     publishedDateTime: 2023-09-15T19:41:00Z
@@ -99,6 +85,6 @@ related:
         height: 806
         isCached: true
 
-secured: "hCzHokW+GVYs4uQ4Op6oTTUhwTRb676+1CfMPDAi8FixO2PUZHhKvpre/u058WDh17kA9gPzODq/SAkhead1IvKy6g50IMqpJgDf+0eRdqCUNsXrtiUs5GGp5uYzfegFoJI/iRRBTCdrcihlSoWhSn26dVz/wFkwApuzMRNcxF6yCXqYKNVwK23POiFgfijn44z7VLiJTBEdJaQR3FipLuipfCwbFmImFFl2G7HgKoKByjCOFHdx7Yw+klfRdLorlj80AktIrDkkMNY3lB/oWl/fcQ8P1MZhDRD6kxWkDeIcoI1stB6vtcM20uM6ttBOBenyZptoJsdS3Qq9zw7pTKSakZVFM8eBeqlLqop1CZI=;ZpYa6wfLYUPqd1Wvs5ykRg=="
+secured: "mUolGF5bWhIHFMnxTgvGpp20lOrVZwZLcVfJn6CUuRcUr/RuKZkzDiXQ9a82R+7/+Mn9mpyqgQKkF+TumKL23hPyVI7itk0AEPGmUcW76OT/b2rlVEZm+kVmTRH4MeZIMY+EphFMi29YSbH9pWelYZwk8BIgIGYLpml5EhAXrGGusJQqZJr2GZT5bA7MzXlO7uGhU9zU8QwJh4G5j7/T82JjQB0ExCqedDvOqotNmGAC0/43YuRRAz7Iz+QRH/W26WfisPhsXYZvHpSwbSx2QILSfGEa9tIwybld8RaC78Bl0qj10Tkw2O3j26JWcg6tHSarVVzH3NRRxVUhgD7NBJjf86vSXdAdn1jof6TsN8xztibcJ2nSdmSEiDiAU9CJpNlSv17X84ncUTwipH3Vfvc2dLCdwZx7iAIrp6Q4lMMpI4f9jZCBatJC5IEFtMkgBB6JdEKQ88FTtrcexJYQj+yGEASJnROOGmvpIBkuwi3fKMFzB0XhyW7F0vWs0IoUuxd3jqqrFMOGlrI4o7mK3w==;V4YSHZMbQBRWTJc7prSMsA=="
 ---
 

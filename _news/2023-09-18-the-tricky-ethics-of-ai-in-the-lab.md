@@ -6,7 +6,7 @@ publishedDateTime: 2023-09-18T05:14:00Z
 originalUrl: "https://cen.acs.org/business/informatics/tricky-ethics-AI-lab/101/i31"
 webUrl: "https://cen.acs.org/business/informatics/tricky-ethics-AI-lab/101/i31"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://s7d1.scene7.com/is/image/CENODS/10131-cover-opener-related?$responsive$&wid=700&qlt=90,0&resMode=sharp2"
@@ -41,21 +42,19 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "AI and sound - helping firms build their own 'sonic identity'"
-    excerpt: "Amp uses AI to generate all kinds of sounds for companies, from small bursts of noise when an app launches, to the sound of a bank card transaction completing, to longer compositions for things like podcasts and social media videos. This is what he calls a brand's \"sonic identity\"."
-    publishedDateTime: 2023-09-13T23:06:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-66330890"
-    ampWebUrl: "https://www.bbc.co.uk/news/business-66330890.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-66330890.amp"
+  - title: "Alan Turing’s Influence on Artificial Intelligence and the Emergence of Transformers"
+    excerpt: "In today’s world, artificial intelligence (AI) plays an indispensable role in our daily lives. Acknowledging the pioneering minds that paved the way for this transformative technology is of utmost importance."
+    publishedDateTime: 2023-09-18T12:12:00Z
+    webUrl: "https://techbullion.com/alan-turings-influence-on-artificial-intelligence-and-the-emergence-of-transformers/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
+      name: Impacts
+      domain: techbullion.com
+    quality: 36
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/16CA3/production/_131074339_index_ai_adverts_976x549.png"
-        width: 1024
-        height: 576
+      - url: "https://techbullion.com/wp-content/uploads/2023/09/Untitled-design-2023-09-18T130507.267.png"
+        width: 800
+        height: 400
         isCached: true
 
 secured: "Q5K9VUUntNneb85eyMF7p5fsLMMWVAQUnU2ppniwExfIbBCDy/cyWgBBDx3AmP5a4/xQ8mE3ef+AtmNgVQW/zKfA3zW9Zkgo7koMRMv3jMI2ANy06R6op0uz3sUfSpC4H1Ev0S9bKAIh+pfnZRki2WE8mwmeeCPqNwJv2sNBKYdPBfCXkrCvKyBPLqzSKYZSGWwHjJvd7u4Z+1+8yBOJb+v1rQUaHm/CWRY8pM1d3zTqj+U671+Q7q/6NNVz8J53JgwnUBaG/cQrLdT6iBfyItGA05UMoVN3XUYh3+6ZSmyOMymJ0Uw8eODDnes+DaoRzwhdSXQ5sn4hUPumyIG+yr35Utwzl7niMH+Io//KGcZmAm5QUiKf1Usqjg8m4mqT5M03nM+nAf8+I7v77L+vbsHplD5CPYf3RKkHcm/Ta1k0zj6y+YeX5P06GMDsjFu0d62Lk76UvbRhTkD278cfwaiirGL1GTS82n/18CyrMVerEwJRGYpwdYN8osE4QuACvS+yr+oL/oN/B0Nlkw0T8w==;ECsL3JIGCWI654fnS+EBsA=="
