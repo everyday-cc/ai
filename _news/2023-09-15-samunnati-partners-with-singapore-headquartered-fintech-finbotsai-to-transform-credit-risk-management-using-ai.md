@@ -52,20 +52,6 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 39
-  - title: "Samunnati partners with Singapore-headquartered fintech finbots.ai to transform credit risk management using AI"
-    excerpt: "X, will enable Samunnati to build high quality credit risk scorecards faster, accelerating growth of Agri & SME lending business & driving financial inclusion. SINGAPORE, Sept. 14, 2023 /PRNewswire/ -- Samunnati,"
-    publishedDateTime: 2023-09-14T01:00:00Z
-    webUrl: "https://www.asiaone.com/business/samunnati-partners-singapore-headquartered-fintech-finbotsai-transform-credit-risk"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 19
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Sep2023/pr-newswire_500_4_882.jpg?h=7de12b8a&itok=cOfk-60s"
-        width: 600
-        height: 316
-        isCached: true
 
 secured: "wa+Lv8LRKmzhi7Rouu7uqvsQ/9zOnvsswQ6qoKMhoOaoBufrELKAAScYeA6U1hjY0/od7Ub+eo7IeFMgrmVxcN4Cy0KDbx7N2SZNVDh9Zso5Fuq1FN43misjaUBp2C+8bJmPnuAJjkpjmN2S6HkK6b5p/rUTzyX66ngA/Ej9+0bMJo4FEPADN6ZhV4d4q+XQ5q+zLz5OweQe/iFvgeSXjwi4y83MKd0ltMLuqId6z9A62M0SekfCNJ63crQ/LdFY1LIZbgJ0nLBbbMaRG7LodH6S2uSUX6VVzhuIRnSvGgNt3tJzFU+1lw6u5Uqs1Wwsz+hhuJ+FIX/snd3BILJ83twLF29L6UmzAfD50kZF5i4=;7OITn3xk1wLEuFUYiaEqYg=="
 ---

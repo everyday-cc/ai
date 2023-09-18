@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare Cognitive Computing Market Size is Expected to Reach USD 108.45 Billion by 2028, With 24.78% CAGR | Brandessence Market Research"
-    excerpt: "According to a comprehensive research report by Brandessence Market Research (BMRC), \"Healthcare Cognitive Computing Market Size, Share & Trends Analysis Report By"
-    publishedDateTime: 2023-09-14T14:33:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/n34583752/healthcare-cognitive-computing-market-size-is-expected-to-reach-usd-108-45-billion-by-2028-with-24"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34583752"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34583752"
+  - title: "Ai Chip Market Is Projected To Reach $383.7 Billion By 2032, Growing At A Cagr Of 38.2%"
+    excerpt: "AI Chip MarketAI Chip Market 2032 PORTLAND, OR, UNITED STATES, September 18, 2023/EINPresswire/ -- According to a new report Allied Marke"
+    publishedDateTime: 2023-09-18T17:32:00Z
+    webUrl: "https://menafn.com/1107091393/Ai-Chip-Market-Is-Projected-To-Reach-3837-Billion-By-2032-Growing-At-A-Cagr-Of-382"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 27
+      name: Mena FN
+      domain: menafn.com
+    quality: 46
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Healthcare Cognitive Computing Market Size is Expected to Reach USD 108.45 Billion by 2028, With 24.78% CAGR | Brandessence Market Research"
-    excerpt: "Healthcare Cognitive Computing Market was valued at USD 23.03 Billion in 2021 and expected to reach USD 108.45 Billion by 2028, amplifying with a CAGR of 24.78% over 2021-2028. Elaborating the key trends and dynamics of Healthcare Cognitive Computing Market"
-    publishedDateTime: 2023-09-14T17:30:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/09/14/9881413.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 9
-    images:
-      - url: "https://mma.prnewswire.com/media/1392316/BEMR_Logo.jpg"
-        width: 400
-        height: 400
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?651551"
+        width: 371
+        height: 249
         isCached: true
 
 secured: "EqwKYcE2w3Mp2LQeXhz8ESAFgmNPw+qtivaFnPdCUl6P0Fo79O+vU+Ofc2C2IzeRBtuIgq4pp8fCL8AvqOOEqO+3HaQzWyGDOZcfIFbUdWOJwoLHTCIHR2vgBq6Eh34kemo832kckRDrmJgXLx5cXlF+7X8zUXY260SAu2XFtmngdZXRpsu/cu4YCo2qdd/l6eDU+twWpsTnY5ha/scd6O2FOy0DkkLdgJM6m6jvo/heeRekCWp8v6616cODTu0xuBTiCoQSlaWUBmUoC5pHpOmS/JznqIc4SRxptNEiBh6UsKxgoiqj5HpBjR9N3XZw07GrVU/5VxTfqPnDxTAs/OFa2WUfgVA7hTBxOtriBQk=;k0sEwaIcHpmD71uWOG4nDA=="

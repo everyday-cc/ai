@@ -2,6 +2,126 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2023-08-26-robotics-and-coding-being-taught-at-durbar-high-school.md",
+      "title": "Robotics and Coding being taught at Durbar High School",
+      "excerpt": "Robotics and Coding classes have been launched at the historical Durbar High School, popularly known as Bhanu Secondary School.",
+      "sourceUrl": null,
+      "webUrl": "https://myrepublica.nagariknetwork.com/news/robotics-and-coding-being-taught-at-durbar-high-school/",
+      "originalUrl": "https://myrepublica.nagariknetwork.com/news/robotics-and-coding-being-taught-at-durbar-high-school/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://myrepublica.nagariknetwork.com/uploads/media/DurbarHighSchool_20230826095609.jpg",
+          "width": 1200,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://myrepublica.nagariknetwork.com/amp/robotics-and-coding-being-taught-at-durbar-high-school/",
+      "cdnAmpWebUrl": "https://myrepublica-nagariknetwork-com.cdn.ampproject.org/c/myrepublica.nagariknetwork.com/amp/robotics-and-coding-being-taught-at-durbar-high-school/",
+      "publishedDateTime": "2023-08-25T21:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "myrepublica.nagariknetwork",
+        "domain": "nagariknetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-26-uw-madison-researchers-fool-voice-recognition.md",
+      "title": "UW-Madison researchers fool voice recognition",
+      "excerpt": "The research suggests security systems within voice recognition software aren't as secure as people are made to believe. About 60% of Americans use voice recognition technology on a daily basis ...",
+      "sourceUrl": null,
+      "webUrl": "https://wiscnews.com/uw-madison-researchers-fool-voice-recognition/article_a65c5c77-8fe9-5a6c-b7bd-bf8e7228a492.html",
+      "originalUrl": "https://wiscnews.com/uw-madison-researchers-fool-voice-recognition/article_a65c5c77-8fe9-5a6c-b7bd-bf8e7228a492.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-25T20:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WiscNews",
+        "domain": "wiscnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-26-uw-madison-researchers-fool-voice-recognition-with-pvc-pipes.md",
+      "title": "UW-Madison researchers fool voice recognition with PVC pipes",
+      "excerpt": "The research suggests security systems within voice recognition software aren't as secure as people are made to believe. About 60% of Americans use voice recognition technology on a daily basis ...",
+      "sourceUrl": null,
+      "webUrl": "https://wiscnews.com/uw-madison-researchers-fool-voice-recognition-with-pvc-pipes/article_462055af-67c3-573d-8321-660961b624b8.html",
+      "originalUrl": "https://wiscnews.com/uw-madison-researchers-fool-voice-recognition-with-pvc-pipes/article_462055af-67c3-573d-8321-660961b624b8.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/wiscnews.com/content/tncms/assets/v3/editorial/5/8c/58c57300-6052-5c88-8310-96dce17808b4/64e995e411d49.image.jpg?crop=809%2C425%2C0%2C57&resize=809%2C425&order=crop%2Cresize",
+          "width": 809,
+          "height": 425,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-25T18:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WiscNews",
+        "domain": "wiscnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-26-nvidia-the-chip-maker-that-became-an-ai-superpower.md",
       "title": "Nvidia: The chip maker that became an AI superpower",
       "excerpt": "Nvidia has come to dominate the market for chips used in artificial intelligence (AI) systems. Interest in that sector reached frenzied levels after ChatGPT went public last November, which sent a jolt well beyond the technology industry. From helping with ...",
@@ -1045,144 +1165,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-managing-your-cloud-ecosystems-maintaining-workload-continuity-during-worker-node-upgrades.md",
-      "title": "Managing your cloud ecosystems: Maintaining workload continuity during worker node upgrades",
-      "excerpt": "Planning and managing your cloud ecosystem and environments is critical for reducing production downtime and maintaining a functioning workload.\nThe post Managing your cloud ecosystems: Maintaining workload continuity during worker node upgrades appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/managing-your-cloud-ecosystems-maintaining-workload-continuity-during-worker-node-upgrades/",
-      "originalUrl": "https://www.ibm.com/blog/managing-your-cloud-ecosystems-maintaining-workload-continuity-during-worker-node-upgrades/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-25T06:48:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-in-the-game-of-ai-think-ladders-not-snakes.md",
-      "title": "In The Game Of AI, Think Ladders, Not Snakes",
-      "excerpt": "When we shift from a mindset of AI replacing jobs to AI enhancing jobs, we start to see its true potential. It's not about what we’re losing, but what we’re gaining.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/25/in-the-game-of-ai-think-ladders-not-snakes/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/25/in-the-game-of-ai-think-ladders-not-snakes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64355e00d7bd6767a2eb482e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/25/in-the-game-of-ai-think-ladders-not-snakes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/25/in-the-game-of-ai-think-ladders-not-snakes/amp/",
-      "publishedDateTime": "2023-08-25T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-these-are-the-only-3-machine-learning-stocks-to-consider-in-august-2023.md",
-      "title": "These Are the ONLY 3 Machine Learning Stocks to Consider in August 2023",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Machine learning (ML) is a branch of artificial intelligence (AI) that enables",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/these-are-the-only-3-machine-learning-stocks-to-consider-in-august-2023-1032582703",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/these-are-the-only-3-machine-learning-stocks-to-consider-in-august-2023-1032582703",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-25T06:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

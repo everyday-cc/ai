@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/learn-how-to-build-a
 webUrl: "https://aws.amazon.com/blogs/machine-learning/learn-how-to-build-and-deploy-tool-using-llm-agents-using-aws-sagemaker-jumpstart-foundation-models/"
 type: article
 quality: 90
-heat: 100
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -29,19 +29,47 @@ images:
     isCached: true
 
 related:
-  - title: "AI and Machine Learning Usage up 15.5% Among Marketing Teams, Snowflake Modern Marketing Data Stack Report Finds"
-    excerpt: "Customer adoption of tools or platforms in the Snowflake Data Cloud that power AI & Machine Learning is up 15.5% YoY as marketers begin to explore the potential impact of large language models and generative AI on their work."
-    publishedDateTime: 2023-09-15T17:04:00Z
-    webUrl: "https://www.datanami.com/this-just-in/ai-and-machine-learning-usage-up-15-5-among-marketing-teams-snowflake-modern-marketing-data-stack-report-finds/"
+  - title: "Orchestrate Ray-based machine learning workflows using Amazon SageMaker"
+    excerpt: "Machine learning (ML) is becoming increasingly complex as customers try to solve more and more challenging problems. This complexity often leads to the need for distributed ML, where multiple machines are used to train a single model. Although this enables parallelization of tasks across multiple nodes,"
+    publishedDateTime: 2023-09-18T17:54:56Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/orchestrate-ray-based-machine-learning-workflows-using-amazon-sagemaker/"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 50
+      name: AWS
+      domain: aws.amazon.com
+    quality: 106
     images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
-        width: 1893
-        height: 767
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/11/DBBLOG_15189_image1.jpng_-716x630.png"
+        width: 716
+        height: 630
+        isCached: true
+  - title: "Fine-tune Falcon 7B and other LLMs on Amazon SageMaker with @remote decorator"
+    excerpt: "Today, generative AI models cover a variety of tasks from text summarization, Q&amp;A, and image and video generation. To improve the quality of output, approaches like n-short learning, Prompt engineering, Retrieval Augmented Generation (RAG) and fine tuning are used. Fine-tuning allows you to adjust"
+    publishedDateTime: 2023-09-14T16:53:48Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/fine-tune-falcon-7b-and-other-llms-on-amazon-sagemaker-with-remote-decorator/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 86
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/14/fine-tune-falcon-7b-1260x630.jpg"
+        width: 1260
+        height: 630
+        isCached: true
+  - title: "Designing resilient cities at Arup using Amazon SageMaker geospatial capabilities"
+    excerpt: "This post is co-authored with Richard Alexander and Mark Hallows from Arup. Arup is a global collective of designers, consultants, and experts dedicated to sustainable development. Data underpins Arup consultancy for clients with world-class collection and analysis providing insight to make an impact."
+    publishedDateTime: 2023-09-18T17:52:40Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/designing-resilient-cities-at-arup-using-amazon-sagemaker-geospatial-capabilities/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 84
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/07/ml-11881_visualisation-1100x630.png"
+        width: 1100
+        height: 630
         isCached: true
 
 secured: "BVeKgCSlxkYHtE3OwhV30J+nmH71hSdiYzgTs9tlvuNVAFWoE7Awdx3of7hXtsD0RS1g5rya3cAPMaL18/KeAR4Vx4JCtD2m235LikbNm+rjP5nMrj0jMPOk4mNecY93IfDFWehhJzBh7QRGoyKWPvhbhf32KroyL37ovrb+G4oc1G7A5+Fsd6MWLmxt2nzXbt25CO+ZW9ttH7KDXCGNghMaM6Ba8isM6A4hecP5l+GHdEQZk8sRblv1Erz1TbfrdMfBqG6rCJIVK5bRrcoPf7CcPjiW2naWv3Lt0QpRCWgT549DwBFlc3CwOl6KDwKuil7sJEgiv1jUJJUTmLOUaMXkNH1MIgcQVHt1hNfV3xk=;qYnnf+csXR3JuQkAjEFQxw=="

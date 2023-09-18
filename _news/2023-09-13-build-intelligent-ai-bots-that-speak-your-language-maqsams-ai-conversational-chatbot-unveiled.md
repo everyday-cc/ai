@@ -2,9 +2,9 @@
 category: news
 title: "Build Intelligent AI Bots That Speak Your Language: Maqsam's AI Conversational Chatbot Unveiled"
 excerpt: "One of the standout features of Maqsam's AI conversational chatbot is its hyper-local advantage, especially in Arabia. For businesses operating in this diverse and dynamic market, where dialects and cultural nuances vary significantly, Maqsam's AI chatbot provides a localized solution that ensures meaningful interactions with customers."
-publishedDateTime: 2023-09-13T08:18:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/09/13/9879923.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/09/13/9879923.htm"
+publishedDateTime: 2023-09-13T09:27:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-build-intelligent-ai-bots-that-speak-language-maqsams-/2023/09/13/9879923.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-build-intelligent-ai-bots-that-speak-language-maqsams-/2023/09/13/9879923.htm"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 225
     isCached: true
 
-secured: "aVVNpQW6cvcQvpIRUomizXlxrKNw2UclbkLrcbEk6PbYJppem6wVhQXxRhMWzIx7RfdMuhLDptX+zdof0oanKl8Mv7cRv8g78Dd0aHbrtEq9B2b4UEE4/RmVdDi5HhDwykQauTjpEnoFR4l9oktTdD8+vhkbKJ8QvVU1WE2K04/gz9UpnA1PMEc6pDKhQFICOjXSFWG6/SBG9NtPzXTFqC4/Y0eyAsV3x6f6GKH669iPeuI332jyfqwbgMrxj2tnVsnz4V9vfFv6I9Vu+tVFRl+AF/0F2+2z6gVyaTvwqkCJ8rUNaGv8CQiyS/aEnlaI07j5h2AifFkfpVPt/OTvuND6Paojc2RmdJhY3kHkvyc5N4nmLzrl6Nn0zeTVVhR4U9Q8foHdvI562JfkAzIsyth67CxxVJu4T7B7RW2ovbcITSKP3/dnVRebGRnmhrLklhdpLGcRNVCU5UMtfSTGE4s6uAdEAjOhjm0X48jwdJR4GbDArMF1H8t0Vji8lvdRLdAQFlIPHsosb+wDat9uvg==;pnHbZyoniNWawltrDbCucA=="
+secured: "GfY6J3RD6wA532dcDzCKXIm+o145b0lnBixBd6nSeqrAEx7LGsCkziyxvGtuwOeXhbts85uUVSH+coYOeOr35INtGQQB4W5RfjyoW/p+9O2w208X+M3/dUBb9nMNJSXSMmlmZrYidz7c2kUV+10Q9FDyZDmTMpczQYDa6+0is7zaqv0gHsiApzHJMdIBLPtIDB4yRaETMZ/lPnoEK4uT6uohXogygROgABYYA9tmk3e6VfOEix+JWzBCbgU8dr2+AxameFCoEpL2vyz8N9LtJDfpqF8stW9zd8eGQemoiHjCYesHYX0iwrSdO5pVe0Nn897qnx3J277cA7KsVYvl80/L1Hk8AGrJENi/n1qcHrs=;0UziM1zq6nqfo3LLbPqbnA=="
 ---
 

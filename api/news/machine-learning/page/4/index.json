@@ -2,6 +2,137 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-08-15-majority-of-uk-insurance-executives-investing-in-ai-and-machine-learning.md",
+      "title": "Majority of UK insurance executives investing in AI and machine learning",
+      "excerpt": "Businesses are exploring how they can build trust with existing and potential new clients,' says head of platforms, strategy, operations and venture",
+      "sourceUrl": null,
+      "webUrl": "https://www.insurancetimes.co.uk/news/majority-of-uk-insurance-executives-investing-in-ai-and-machine-learning/1445268.article",
+      "originalUrl": "https://www.insurancetimes.co.uk/news/majority-of-uk-insurance-executives-investing-in-ai-and-machine-learning/1445268.article",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d17mj6xr9uykrr.cloudfront.net/Pictures/1024x536/7/4/4/98744_robothandstackingcoins_418514.jpg",
+          "width": 1024,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-15T02:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insurance Times",
+        "domain": "insurancetimes.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-08-15-the-marketmaster-ai-system-using-machine-learning-to-pick-stocks.md",
+      "title": "The MarketMaster AI System: Using Machine Learning to Pick Stocks",
+      "excerpt": "Fortunately, advances in artificial intelligence now make this possible. This is especially true with machine learning, which creates models that improve with time. It’s how Google’s AlphaGo managed to beat a world champion in 2016. And it’s why ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/the-marketmaster-ai-system-using-machine-learning-to-pick-stocks-1032552884",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-marketmaster-ai-system-using-machine-learning-to-pick-stocks-1032552884",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2023/07/marketmaster-a-vs-f-stocks-bar-chart2.png",
+          "width": 777,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-14T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-15-3-machine-learning-stocks-to-buy-before-the-breakout.md",
+      "title": "3 Machine Learning Stocks to Buy Before the Breakout",
+      "excerpt": "Gabriel Osorio is a former Goldman Sachs and Citigroup employee. He possesses discipline in bottom-up value investing and volatility-based long/short equities trading. The post 3 Machine Learning Stocks to Buy Before the Breakout appeared first on InvestorPlace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-to-buy-before-the-breakout",
+      "originalUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-to-buy-before-the-breakout",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-14T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-08-14-ibm-unveils-an-analog-ai-chip-that-works-like-a-human-brain.md",
       "title": "IBM unveils an analog AI chip that works like a human brain",
       "excerpt": "IBM Research has unveiled an analog AI chip that demonstrates remarkable efficiency and accuracy in performing complex computations.",
@@ -1224,146 +1355,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-08-06-performance-metrics-for-convolutional-neural-network-accelerators.md",
-      "title": "Performance Metrics For Convolutional Neural Network Accelerators",
-      "excerpt": "Attempts at a standardized microbenchmarking suite for convolutional kernels and other common neural network operations have not resulted in widespread adoption. Macrobenchmarks, or benchmarks of full models, are better indicators for system-level ...",
-      "sourceUrl": null,
-      "webUrl": "https://semiengineering.com/performance-metrics-for-convolutional-neural-network-accelerators/",
-      "originalUrl": "https://semiengineering.com/performance-metrics-for-convolutional-neural-network-accelerators/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/semiengineering.com/wp-content/uploads/Flex-Logix_performance-metrics-CNN-table1-lg.png?fit=1313%2C804&ssl=1",
-          "width": 1313,
-          "height": 804,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Semiconductor Engineering",
-        "domain": "semiengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-05-age-of-ai-everything-you-need-to-know-about-artificial-intelligence.md",
-      "title": "Age of AI: Everything you need to know about artificial intelligence",
-      "excerpt": "Artificial intelligence, also called machine learning, is a kind of software system based on neural networks, a technique that was actually pioneered decades ago but very recently has blossomed thanks to powerful new computing resources. AI has enabled ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/04/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/",
-      "originalUrl": "https://techcrunch.com/2023/08/04/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2016/11/wtf_is_ai.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/04/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/04/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-08-04T14:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-ai-and-ml-the-two-biggest-trends-in-robotics-today.md",
-      "title": "AI and ML: The two biggest trends in robotics today",
-      "excerpt": "AI and ML applications for packaging robotics are growing rapidly, helping robots perform tasks more efficiently and eliminating the need for manual programming.",
-      "sourceUrl": null,
-      "webUrl": "https://www.packworld.com/machinery/robotics/article/22866396/ai-and-ml-lead-packaging-robotics-trends",
-      "originalUrl": "https://www.packworld.com/machinery/robotics/article/22866396/ai-and-ml-lead-packaging-robotics-trends",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.packworld.com/files/base/pmmi/all/image/2023/08/DLR_Packaging_Robotics.64caac0985d15.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
-          "width": 1200,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-04T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Packaging World",
-        "domain": "packworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI",
         "Machine Learning"
       ]

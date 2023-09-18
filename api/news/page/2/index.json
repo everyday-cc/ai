@@ -2,6 +2,152 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-17-thousands-in-australia-rally-for-struggling-indigenous-recognition-referendum.md",
+      "title": "Thousands in Australia rally for struggling indigenous recognition referendum",
+      "excerpt": "Ahead of Australia’s Voice vote, ‘false information’ swirls among Malaysians But the “Voice to Parliament” proposal appeared on track for defeat, a poll showed last week, the fifth monthly survey in a row to find voters against the change.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/asia/australasia/article/3234833/thousands-australia-rally-struggling-indigenous-recognition-referendum",
+      "originalUrl": "https://www.scmp.com/news/asia/australasia/article/3234833/thousands-australia-rally-struggling-indigenous-recognition-referendum",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/09/17/0ab1682a-95f5-4cf4-a5e4-3ffa8bcaf780_21e66872.jpg?itok=TjV6awta&v=1694926190",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-16T22:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-17-have-a-heart-we-all-do-actuallyand-ai-might-improve-cardio-care.md",
+      "title": "Have A Heart! We All Do, Actually…And AI Might Improve Cardio Care",
+      "excerpt": "Collin Stultz READY TO POST Back to AI in healthcare – we’ve looked at this from a number of angles, but here in this talk we get sort of a good balance between some",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/09/16/have-a-heart-we-all-do-actuallyand-ai-might-improve-cardio-care/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/09/16/have-a-heart-we-all-do-actuallyand-ai-might-improve-cardio-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6505e4d1b29838747b28ff0d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/09/16/have-a-heart-we-all-do-actuallyand-ai-might-improve-cardio-care/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/09/16/have-a-heart-we-all-do-actuallyand-ai-might-improve-cardio-care/amp/",
+      "publishedDateTime": "2023-09-16T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-16-robots-are-trained-to-help-revive-coral-reefs.md",
+      "title": "Robots are trained to help revive coral reefs",
+      "excerpt": "But once you get in the water, you see all these tropical species of coral and fish.\" Corals are animals called polyps, found mostly in tropical waters. The soft-bodied polyp forms a hard outer shell by extracting calcium carbonate from the sea.",
+      "sourceUrl": null,
+      "webUrl": "https://www.daily-sun.com/post/712752/Robots-are-trained-to-help-revive-coral-reefs",
+      "originalUrl": "https://www.daily-sun.com/post/712752/Robots-are-trained-to-help-revive-coral-reefs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.daily-sun.com/assets/news_images/2023/09/16/Coral.jpg",
+          "width": 976,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.daily-sun.com/amp/post/712752/Robots-are-trained-to-help-revive-coral-reefs",
+      "cdnAmpWebUrl": "https://www-daily--sun-com.cdn.ampproject.org/c/s/www.daily-sun.com/amp/post/712752/Robots-are-trained-to-help-revive-coral-reefs",
+      "publishedDateTime": "2023-09-16T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Sun",
+        "domain": "daily-sun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-16-ai-showdown-part-1-meet-the-contestantschatgpt-claude-bing-and-bard.md",
       "title": "AI Showdown, Part 1: Meet The Contestants—ChatGPT, Claude, Bing, And Bard",
       "excerpt": "In Part 1 of this 3-part AI Showdown series, meet the contenders who battle it out for supremacy over a content marketing use case.",
@@ -112,7 +258,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/09/dreamy-ai-generated-geometric-scenes-mesmerize-social-media-users/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -558,58 +704,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-15-learn-how-to-build-and-deploy-tool-using-llm-agents-using-aws-sagemaker-jumpstart-foundation-models.md",
-      "title": "Learn how to build and deploy tool-using LLM agents using AWS SageMaker JumpStart Foundation Models",
-      "excerpt": "Large language model (LLM) agents are programs that extend the capabilities of standalone LLMs with 1) access to external tools (APIs, functions, webhooks, plugins, and so on), and 2) the ability to plan and execute tasks in a self-directed fashion. Often, LLMs need to interact with other software, databases,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/learn-how-to-build-and-deploy-tool-using-llm-agents-using-aws-sagemaker-jumpstart-foundation-models/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/learn-how-to-build-and-deploy-tool-using-llm-agents-using-aws-sagemaker-jumpstart-foundation-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/31/ML-15042-solution-overview.jpg",
-          "width": 821,
-          "height": 521,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-15T08:24:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     },
     {
@@ -1153,100 +1247,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-15-cyber-ai-the-imperative-to-be-first.md",
-      "title": "Cyber AI: The Imperative To Be First",
-      "excerpt": "Only AI can scale to provide fast analysis of the ever-increasing volumes of data being produced in today’s digital-first economy. AI has the ability to find the needle in the haystack—something that isn’t feasible for humans. AI can quickly see if there have been changes within the environment and surface them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/15/cyber-ai-the-imperative-to-be-first/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/15/cyber-ai-the-imperative-to-be-first/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65034ce6df7c18f7edfdab4d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 837,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/15/cyber-ai-the-imperative-to-be-first/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/15/cyber-ai-the-imperative-to-be-first/amp/",
-      "publishedDateTime": "2023-09-15T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-15-softbanks-chip-designer-arm-extends-gains-after-65-billion-nasdaq-debut.md",
-      "title": "SoftBank's Chip Designer Arm Extends Gains After $65 Billion Nasdaq Debut",
-      "excerpt": "(Reuters) - Shares of SoftBank's Arm Holdings rose before the bell on Friday, extending gains from a stellar Nasdaq debut that valued the British chip designer at $65 billion, in a relief to the U.S. IPO market facing a drought in listings.",
-      "sourceUrl": null,
-      "webUrl": "https://money.usnews.com/investing/news/articles/2023-09-15/softbanks-chip-designer-arm-extends-gains-after-65-billion-nasdaq-debut",
-      "originalUrl": "https://money.usnews.com/investing/news/articles/2023-09-15/softbanks-chip-designer-arm-extends-gains-after-65-billion-nasdaq-debut",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-15T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -19,48 +19,103 @@ topics:
   - AI
 
 related:
-  - title: "New laws needed to tackle safety concerns over self-driving vehicles"
-    excerpt: "Transport Committee calls for new legislation to tackle safety concerns over self-driving vehicles and urges caution about the speed of their deployment."
-    publishedDateTime: 2023-09-14T23:06:00Z
-    webUrl: "https://www.fleetnews.co.uk/news/company-car-tax-and-legislation/2023/09/14/new-laws-needed-to-tackle-safety-concerns-over-self-driving-vehicles"
+  - title: "How real-time machine learning can make the self-driving cars more smart"
+    excerpt: "Real-time machine learning and compression techniques are essential for the advancement of self-driving technology. These techniques enable vehicles to make split-second decisions, such as predicting a pedestrian's movements or adjusting paths for cyclists."
+    publishedDateTime: 2023-09-18T16:59:00Z
+    webUrl: "https://economictimes.indiatimes.com/industry/auto/cars-uvs/how-real-time-machine-learning-can-make-the-self-driving-cars-more-smart/articleshow/103765140.cms"
+    ampWebUrl: "https://m.economictimes.com/industry/auto/cars-uvs/how-real-time-machine-learning-can-make-the-self-driving-cars-more-smart/amp_articleshow/103765140.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/auto/cars-uvs/how-real-time-machine-learning-can-make-the-self-driving-cars-more-smart/amp_articleshow/103765140.cms"
     type: article
     provider:
-      name: Fleet News
-      domain: fleetnews.co.uk
-    quality: 24
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 58
     images:
-      - url: "https://fncdn.blob.core.windows.net/web-clean/1/root/istock-self-driving.jpg"
-        width: 2121
-        height: 1414
-        isCached: true
-  - title: "MPs warn UK risks losing early advantage in self-driving vehicle technology"
-    excerpt: "MPs have urged the government to update self-driving vehicle (SDV) legislation in order to maintain the competitive advantage the UK currently has in the sector."
-    publishedDateTime: 2023-09-15T10:56:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2023/09/mps-warn-uk-risks-losing-early-advantage-in-self-driving-vehicle-technology/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 22
-    images:
-      - url: "https://eandt.theiet.org/media/22377/web-self-drive-conceptual-istock-926550444.jpg?center=0.3511111111111111,0.51&mode=crop&width=1200&height=450&rnd=133392512790000000"
-        width: 1200
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-91232,msid-103765145/the-system-or-algorithm-works-on-deep-reinforcement-learning-drl-a-machine-learning-technique-to-adapt-to-new-conditions-on-the-route-.jpg"
+        width: 600
         height: 450
         isCached: true
-  - title: "techUK welcomes Transport Select Committee’s call to legislate for self-driving vehicles"
-    excerpt: "UK welcomes the House of Commons Transport Select Committee’s call to pass to create the regulatory and legal framework for self-driving vehicles in the UK."
-    publishedDateTime: 2023-09-15T08:40:00Z
-    webUrl: "https://www.techuk.org/resource/techuk-welcomes-transport-select-committee-s-call-to-legislate-for-self-driving-vehicles.html"
+  - title: "Self-Driving Cars Could Cause ‘Mass Casualties,’ Warns MP"
+    excerpt: "Lawmakers in the UK warn that self-driving cars could cause \"mass casualties\" if rolled out without strong new laws. \"Self-driving vehicles are a great British success story in the making, but they co"
+    publishedDateTime: 2023-09-15T15:30:00Z
+    webUrl: "https://techround.co.uk/news/self-driving-cars-could-cause-mass-casualties-warns-mp/"
+    ampWebUrl: "https://techround.co.uk/news/self-driving-cars-could-cause-mass-casualties-warns-mp/amp/"
+    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/self-driving-cars-could-cause-mass-casualties-warns-mp/amp/"
     type: article
     provider:
-      name: techUK
-      domain: techuk.org
-    quality: 15
+      name: TechRound
+      domain: techround.co.uk
+    quality: 44
     images:
-      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/b14e9547-51ed-46d0-921f02f463ebccd3/opengraphimage_83f4e8796336604b59d7216d0ecd81a5_4a7c7e45a350/iStock-1194791782-smaller.jpg"
-        width: 400
-        height: 225
+      - url: "https://techround.co.uk/wp-content/uploads/2023/09/thisisengineering-raeng-GckgQqyHoa4-unsplash-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
+  - title: "With self-driving cars, it's the ethics we have to navigate"
+    excerpt: "The decision to allow self-driving cars may usher in a new era of transportation ... vehicles illustrate many of the ethical questions raised by the impact of artificial intelligence on everyday life. In a time of both misinformation and too much ..."
+    publishedDateTime: 2023-09-17T08:24:00Z
+    webUrl: "https://www.japantimes.co.jp/commentary/2023/09/17/world/self-driving-cars-ai-ethics/"
+    type: article
+    provider:
+      name: ジャパンタイムズ
+      domain: japantimes.co.jp
+    quality: 41
+    images:
+      - url: "https://www.japantimes.co.jp/japantimes/uploads/images/2023/09/17/251977.jpg"
+        width: 1000
+        height: 666
+        isCached: true
+  - title: "Microsoft-backed self-driving car startup Wayve might finally have an answer to the driverless vehicle trust debate"
+    excerpt: "Once the musings of movie makers and authors, self-driving cars are finally beginning to edge into reality. Yet autonomous vehicle (AV) makers have a problem: as exciting as the technology may be, many passengers don't want to put their lives in the ..."
+    publishedDateTime: 2023-09-15T17:54:00Z
+    webUrl: "https://www.aol.com/finance/microsoft-backed-self-driving-car-153624442.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 34
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/DZ.dLTZ_itMvG7HvUqoe.Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Nzc-/https://media.zenfs.com/en/aol_fortune_385/27e2c051011c7366fdffa7b151f52333"
+        width: 1200
+        height: 777
+        isCached: true
+  - title: "Cyber attacks and dozy drivers: These are the future risks of self-driving cars"
+    excerpt: "“A large cyber-terrorist attack targeting the operating systems of many self-driving vehicles simultaneously could cause mass casualties” – that is the alarming scenario presented by MPs after their investigation into autonomous cars on British roads."
+    publishedDateTime: 2023-09-15T05:44:00Z
+    webUrl: "https://www.aol.com/news/cyber-attacks-dozy-drivers-future-054453091.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 20
+    images:
+      - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/2e8980d8b071038aa21b2d32533d574f"
+        width: 1200
+        height: 901
+        isCached: true
+  - title: "Cyber attacks and dozy drivers: These are the future risks of self-driving cars"
+    excerpt: "A large cyber-terrorist attack targeting the operating systems of many self-driving vehicles simultaneously could cause mass casualties” – that is the alarming scenario presented by MPs after their investigation into autonomous cars on British roads."
+    publishedDateTime: 2023-09-17T09:29:00Z
+    webUrl: "https://www.aol.com/cyber-attacks-dozy-drivers-future-054453091.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 20
+    images:
+      - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/2e8980d8b071038aa21b2d32533d574f"
+        width: 1200
+        height: 901
+        isCached: true
+  - title: "Researchers develop algorithm for safer self-driving cars"
+    excerpt: "In a promising development for self-driving car technology, a research team at NYU Tandon School of Engineering has unveiled an algorithm—known as Neurosymbolic Meta-Reinforcement Lookahead Learning (NUMERLA)—that could address the long-standing challenge of adapting to unpredictable real-world scenarios while maintaining safety."
+    publishedDateTime: 2023-09-15T18:12:00Z
+    webUrl: "https://techxplore.com/news/2023-09-algorithm-safer-self-driving-cars.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 4
 
 secured: "4wz1pqzLVSzupApeLhgRQ33CCr7q5Y72PruqFNPVjX27qtw5j0/4/qg66yGyG1HVfXWgFOi+trEhKHK1PIw/z5PSdRPZl9ac39ERo9Uiq7sDcCqiXTW8hgzyAKR2ml//MOWWHrnOrkrCeTGWPl/GRLrEtUcP3lRGMMGfhYRo4thoQA0L/FHjRkkr2jOYalTWuHpafRWzgezl8y1YqacAN7obn6QCWdTkwQQhNM/w3G2ge88fVTv96bp1ey52o+BRwqI7Y6CvMPwWwAHcpbPFEtuDvEwn/AOkoFZlTsv4Ic/TQ5XDBB127HirKbqPhqJfclujsLcjvidu8MhEoL1bj3jmzzUDhfm1ppw34TWUBtA=;xaY+08S/Wmw/F74JT9UEcg=="
 ---

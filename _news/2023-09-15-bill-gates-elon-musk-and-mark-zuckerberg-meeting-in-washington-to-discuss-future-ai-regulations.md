@@ -80,34 +80,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Tech leaders including Musk, Zuckerberg call for government action on AI"
-    excerpt: "Meta CEO Mark Zuckerberg, OpenAI CEO Sam Altman, and Microsoft co-founder Bill Gates offered diverging views on the risks of open-source AI research, according to people in the room."
-    publishedDateTime: 2023-09-14T00:13:00Z
-    webUrl: "https://www.pressherald.com/2023/09/13/tech-leaders-discuss-ai-policy-in-closed-door-senate-meeting/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 38
-    images:
-      - url: "https://w2pcms.com/wp-content/uploads/sites/10/2023/09/ai-senate-bg-5d8f1cd2-5269-11ee-9b7a-651fb7f6d786.jpg?w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Tech leaders hold closed-door meeting with lawmakers on artificial intelligence"
-    excerpt: "Tech leaders, including Elon Musk, were on Capitol Hill Wednesday to take part in closed-door meetings with congressional lawmakers on the benefits and dangers that artificial intelligence poses. Jo Ling Kent has details."
-    publishedDateTime: 2023-09-13T23:24:00Z
-    webUrl: "https://www.cbsnews.com/video/tech-leaders-hold-closed-door-meeting-with-lawmakers-on-artificial-intelligence/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 33
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/09/13/33e897a3-896b-4ede-84cc-4268787999ac/thumbnail/1200x630/d200bc2429350f25a71cd2dcd9628b3d/kent.jpg?v=b4264bc5922d2f5b2145bedc5a4d101e"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "wpMTdD0iyz6D+ox9247N+LvS5V4vDwGwCzYxTZHIPqK6V2iGyHlQgIyKF7YtENxiPjQA0TTz9HpU+7GsKxrBG/xs/+6znrtz028wlIQYi35QvPvZMYW3rJRrz9WDPO9JpBWK3mTFPh5gSqPcwdrG57wi98q+P9B8Rgs8ZVbajkZijcBFjIw9SdgFs6tRvKvpgKzmF2CF7Qfqdbn7Pptef7ZpG7TMH6WsfIzzZrb/Oziza2q3Ldq6XLvgIJ0Xmzsp8+EicnEaEGmnVMk6dQjdwLfE4oF6HaizKLN+8EtxzdHdpc6MesAD4CES+dEudRLfwnGYmQt2qoMDL9/91RVBpmHtHQkwNT1LIqCYzeEqNmgnLW97zJKNZkd6EwjzlD4z6b6WN6RmsSKnn2Yo9MYgNrXLDc8YeFhuraN/LjeXg6Yd4oBqt0xb+eapV9oO3m0eDvH0jOgdF3Mg2p+5tht2ifK8Y8aVVg07F5ZxEVks3oZzAuIsc8xB7PcUp7B54eUCvnQBvOHa9L7f0wuLY/dHEA==;PGYR2IeXx0rS3FWw8rJy2g=="
 ---

@@ -38,20 +38,6 @@ related:
         height: 675
         isCached: true
   - title: "Samunnati partners with Singapore-headquartered fintech finbots.ai to transform credit risk management using AI"
-    excerpt: "X, will enable Samunnati to build high quality credit risk scorecards faster, accelerating growth of Agri & SME lending business & driving financial inclusion. SINGAPORE, Sept. 14, 2023 /PRNewswire/ -- Samunnati,"
-    publishedDateTime: 2023-09-14T01:00:00Z
-    webUrl: "https://www.asiaone.com/business/samunnati-partners-singapore-headquartered-fintech-finbotsai-transform-credit-risk"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 19
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Sep2023/pr-newswire_500_4_882.jpg?h=7de12b8a&itok=cOfk-60s"
-        width: 600
-        height: 316
-        isCached: true
-  - title: "Samunnati partners with Singapore-headquartered fintech finbots.ai to transform credit risk management using AI"
     excerpt: "With this, Samunnati becomes the first Agri Enterprise in India to incorporate advanced AI-based solutions into a key pillar of its business, supporting its mission to drive greater financial inclusion for smallholder farmers and agri enterprises. Through this partnership, Samunnati has become the first client of Accel-backed finbotsAI in India."
     publishedDateTime: 2023-09-15T01:48:00Z
     webUrl: "https://www.digitimes.com/biz/news.asp?feed=2502"

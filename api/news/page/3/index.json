@@ -2,6 +2,100 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-15-cyber-ai-the-imperative-to-be-first.md",
+      "title": "Cyber AI: The Imperative To Be First",
+      "excerpt": "Only AI can scale to provide fast analysis of the ever-increasing volumes of data being produced in today’s digital-first economy. AI has the ability to find the needle in the haystack—something that isn’t feasible for humans. AI can quickly see if there have been changes within the environment and surface them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/15/cyber-ai-the-imperative-to-be-first/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/15/cyber-ai-the-imperative-to-be-first/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65034ce6df7c18f7edfdab4d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 837,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/15/cyber-ai-the-imperative-to-be-first/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/15/cyber-ai-the-imperative-to-be-first/amp/",
+      "publishedDateTime": "2023-09-15T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-15-softbanks-chip-designer-arm-extends-gains-after-65-billion-nasdaq-debut.md",
+      "title": "SoftBank's Chip Designer Arm Extends Gains After $65 Billion Nasdaq Debut",
+      "excerpt": "(Reuters) - Shares of SoftBank's Arm Holdings rose before the bell on Friday, extending gains from a stellar Nasdaq debut that valued the British chip designer at $65 billion, in a relief to the U.S. IPO market facing a drought in listings.",
+      "sourceUrl": null,
+      "webUrl": "https://money.usnews.com/investing/news/articles/2023-09-15/softbanks-chip-designer-arm-extends-gains-after-65-billion-nasdaq-debut",
+      "originalUrl": "https://money.usnews.com/investing/news/articles/2023-09-15/softbanks-chip-designer-arm-extends-gains-after-65-billion-nasdaq-debut",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-15T03:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-15-training-an-arduino-uno-r4-powered-robot-using-machine-learning.md",
       "title": "Training an Arduino UNO R4 powered robot using machine learning",
       "excerpt": "If you are interested in learning more about training robots using machine learning techniques and technologies you might be interested in a new Arduino project to ascertain whether a basic robot could navigate using only LiDAR, as opposed to more resource ...",
@@ -284,7 +378,7 @@
       "originalUrl": "https://www.zdnet.com/article/extending-chatgpt-do-ai-chatbot-plugins-really-change-the-game/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 217,
+      "heat": 227,
       "tags": null,
       "images": [
         {
@@ -847,58 +941,6 @@
       ]
     },
     {
-      "path": "_news/2023-09-14-fine-tune-falcon-7b-and-other-llms-on-amazon-sagemaker-with-remote-decorator.md",
-      "title": "Fine-tune Falcon 7B and other LLMs on Amazon SageMaker with @remote decorator",
-      "excerpt": "Today, generative AI models cover a variety of tasks from text summarization, Q&amp;A, and image and video generation. To improve the quality of output, approaches like n-short learning, Prompt engineering, Retrieval Augmented Generation (RAG) and fine tuning are used. Fine-tuning allows you to adjust",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/fine-tune-falcon-7b-and-other-llms-on-amazon-sagemaker-with-remote-decorator/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/fine-tune-falcon-7b-and-other-llms-on-amazon-sagemaker-with-remote-decorator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/14/fine-tune-falcon-7b-1260x630.jpg",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-14T09:53:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-14-simplify-access-to-internal-information-using-retrieval-augmented-generation-and-langchain-agents.md",
       "title": "Simplify access to internal information using Retrieval Augmented Generation and LangChain Agents",
       "excerpt": "This post takes you through the most common challenges that customers face when searching internal documents, and gives you concrete guidance on how AWS services can be used to create a generative AI conversational bot that makes internal information more useful. Unstructured data accounts for 80% of",
@@ -1062,7 +1104,7 @@
       "originalUrl": "https://www.zdnet.com/article/singapore-arms-firefighters-with-ai-glasses/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1206,49 +1248,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-14-identity-theft-and-the-emergence-of-artificial-intelligence.md",
-      "title": "Identity theft and the emergence of artificial intelligence",
-      "excerpt": "As tech leaders Bill Gates, Elon Musk and Mark Zuckerberg meet in Washington D.C. to discuss the potential future of artificial intelligence, the tools utilizing AI are sweeping the world; but our",
-      "sourceUrl": null,
-      "webUrl": "https://www.khon2.com/local-news/identity-theft-and-the-emergence-of-artificial-intelligence/",
-      "originalUrl": "https://www.khon2.com/local-news/identity-theft-and-the-emergence-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.khon2.com/wp-content/uploads/sites/8/2023/09/GettyImages-1239742765.jpg?w=1280",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.khon2.com/local-news/identity-theft-and-the-emergence-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-khon2-com.cdn.ampproject.org/c/s/www.khon2.com/local-news/identity-theft-and-the-emergence-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-09-14T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KHON2",
-        "domain": "khon2.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

@@ -131,6 +131,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "ChatGPT masquerades as AI but is something much different, researcher says"
+    excerpt: "“This stuff is not artificial intelligence, under any [common] definition of that term, and it’s definitely not artificial general intelligence, but it looks like it,” Bender said."
+    publishedDateTime: 2023-09-18T15:39:00Z
+    webUrl: "https://badgerherald.com/news/2023/09/18/chatgpt-masquerades-as-ai-but-is-something-much-different-researcher-says/"
+    type: article
+    provider:
+      name: Badger Herald
+      domain: badgerherald.com
+    quality: 37
+    images:
+      - url: "https://badgerherald.com/wp-content/uploads/2023/04/IMG_1621-scaled.jpg"
+        width: 2560
+        height: 1920
+        isCached: true
   - title: "Forget ChatGPT: Facial recognition emerges as AI rulebook’s make-or-break issue"
     excerpt: "The battle brewing over artificial intelligence in Brussels is about facial recognition. On Wednesday, the European Parliament's plenary passed its version of the Artificial Intelligence Act after two years of wrangling. The text — backed by a coalition ..."
     publishedDateTime: 2023-09-16T16:24:00Z

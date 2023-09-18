@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "AI Startup Writer Pens $100M Round"
+    excerpt: "Generative AI platform Writer raised $100 million led by Iconiq Growth in a round that values the startup at $500 million."
+    publishedDateTime: 2023-09-18T17:26:00Z
+    webUrl: "https://news.crunchbase.com/ai-robotics/startup-generative-ai-writer-iconiq/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 37
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/Generative_AI_1.jpg"
+        width: 900
+        height: 506
+        isCached: true
 
 secured: "wR5rHK4xINXt4Efd+UlNVHMEZbj1yMXufguoeQ1oVsu5yXBl25r7+9a+6bxJlYfuxswbd813z6HFL1ZKNU3ZiO2RQzKrriu8WCd79ToOWqrWZ9aGzpo+X5qDivYccblcKHf8VAcd/fwCzuG8mcYSMsuvoUznza0pryQLsUyW5cHRyC0RB/ouA98RBJgt6btvlL6W23UzhYTUYB9zaNAjYnRurhhuq63gklsMKDIT0GBnByAr6ViEw0b0Dsm4m4z8+cRs6cQnO737oX8apL+OPtkV87YXYcIYJ125j/dA/B1ct4ou8OUNBrdkmvv4RfAcUAmww5FU6CuSegxWM122l4AoeO93KB96xmC9/zi46a1kOMcb/QSyvEaKxLtdr1CZWKgz1b7Scu87Gsm9JCgXPXu24W9VSs3CjbIgfrVi5fC6ajVlP+Syd9dNHXlxHieVI9t8hL7CTE+Kjiou40mZxgMSiaRPKYz1fdCWuKRFCmRR7yqwUhxGHT9YjekCXjZNib9e0JG3hWLxCYDFoHjKBg==;5Ry4WbJgR0DRYzMx/xpfXw=="
 ---

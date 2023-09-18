@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-08-31-us-bans-sale-of-top-nvidia-and-amd-ai-chips-to-the-middle-east.md",
+      "title": "US bans sale of top Nvidia and AMD AI chips to the Middle East",
+      "excerpt": "Nvidia wrote in a regulatory filing that the US government had informed the company of a licensing requirement for a subset of A100 and H100 products",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/99984-us-bans-sale-top-nvidia-amd-ai-chips.html",
+      "originalUrl": "https://www.techspot.com/news/99984-us-bans-sale-top-nvidia-amd-ai-chips.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/08/2023-08-15-image.jpg",
+          "width": 2100,
+          "height": 1181,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-31T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-31-us-restricts-advanced-nvidia-ai-chips-sales-to-middle-east-taiwanplus-news.md",
       "title": "U.S. Restricts Advanced Nvidia AI Chips Sales to Middle East - TaiwanPlus News",
       "excerpt": "The U.S. has blocked the sale of some Nvidia AI chips from being sold in the Middle East over fears they could be resold to China. The American tech giant",
@@ -1441,58 +1493,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-analysts-see-ai-boosting-marvell-but-warn-of-other-headwinds-for-the-chip-stock.md",
-      "title": "Analysts see AI boosting Marvell, but warn of other headwinds for the chip stock",
-      "excerpt": "But analysts are wondering if it can be enough to counteract challenges elsewhere. The semi stock retreated more than 4% in premarket trading despite slightly exceeding Wall Street expectations in its quarterly report delivered Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/08/25/analysts-see-ai-boosting-marvell-but-warn-of-other-headwinds-for-the-chip-stock.html",
-      "originalUrl": "https://www.cnbc.com/2023/08/25/analysts-see-ai-boosting-marvell-but-warn-of-other-headwinds-for-the-chip-stock.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107247551-1685143839222-Marvell_Santa_Clara_IMG_3241.jpg?v=1692958485&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-25T01:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

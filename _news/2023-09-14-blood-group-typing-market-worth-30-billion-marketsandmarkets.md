@@ -26,6 +26,17 @@ images:
     height: 1043
     isCached: true
 
+related:
+  - title: "Global Digital Marketing Market Analysis Report 2023-2028: Artificial Intelligence and Machine Learning Transform the Future of Digital Marketing"
+    excerpt: "The \"Digital Marketing Market by Digital Channel, End Use Industry, and Region 2023-2028\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2023-09-18T17:04:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/09/18/9882811.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 14
+
 secured: "kNAkNt3Nyitgun76xyoLHmNQP+3v/FBx1121jDz1ZZ+MFgclAl6IOMU9FcmEwV2iyeccC8SkLk7DbXy37/bAlanrFEHscJEvfH/0ygavTxlmZQRIq6j79f/Iu3VEDBCtBVBnuJAj4Euk2YK4snuHeQ4mGbUfdsZJ/PaZTuSorJp8fatzxtaYMPpHQFjPavUW7Y3ukOuxDi49q6tKUBG25XgneiuFTDMU24J1Q8POyKI1hTC3DYHikWt7tPhBIQSHi11wZgVOLvFFsqFFUcGhDu1Cg0wX19zXDCHWyWgyVH+AAyyd/ALT3k7OM6Rrhb2KeeX/gEzRrSprtgPgvVXnYz+TcPbQtF7GErc22H7mKRg=;/Adg/eyYqx511izqblgHVg=="
 ---
 

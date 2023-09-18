@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/redefining-roles-the-transformative-effect
 webUrl: "https://techbullion.com/redefining-roles-the-transformative-effects-of-artificial-intelligence-on-employment/"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "15 Years After The Financial Crisis: Data And AI Transformation Efforts Progress Slowly For Many Leading Companies"
-    excerpt: "Activities requiring advanced analytics, machine learning, and artificial intelligence (AI) have been incorporated into the CDO/CDAO mandate."
-    publishedDateTime: 2023-09-13T23:48:00Z
-    webUrl: "https://www.forbes.com/sites/randybean/2023/09/13/15-years-after-the-financial-crisis-data-and-ai-transformation-efforts-progress-slowly-for-many-leading-companies/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/650249796bd38da89c9fe77b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-
-secured: "eu7fp6BJJomGgnbcea54RHXSSD+oriM+NW/facAcPcaEpVp673+YUJvzrcemUmESZHwUJrVl9xwp9icOMsQBAh5nY9+6k8ud/EZesTZlbIZDoCUAeDjsbVQcpg2vpNdN15gnxM4gEY8aJ+HAV3iScJ/jdYYSq1SXW9CMnEG9Kbe2UVOKb2IKLEXYHs8zrdPXYAfJchz7MErlVmsaQR68B6LxG0qzOj1+ONnmwOt2gGUXGL3hQcscP3VSujHnHxxHteFCry0aZ8jkdQmV4gZoyVk+OwXrVXFB1fUrpvy3FCVuh0V+pjPrObcIkXfKae1PAh4eV5qabh/4spHJ3SI9x5mCnVHWg166FOv5uT/9uW4=;QjaAyAp3KewgquorhEGOsQ=="
+secured: "/2dW2MIcjwJhO4fu5luxzJJzZ3e6O1l7GO5voLGmXK5PorveK9g+/m6MzDUEBQGVeGOv3TbMQsH27FxapS+lPkWdbujETjwyl2BRIGm5LsLqmPZxtpEEn5xLpq2UzQvKXz6FSVMd85KOnFrg6tf6ZlXwmcFNxeYrSMwurispvMxgGlf2Fk0Xz4y8MTDmMvVgcC6GPtEt5sQo9Oy5BRJiIkDovkwzKb2hns/5pZQP0LZIjJ7aJBR8hOx9jI7DNKiM+dHFpW/lMWKSqLMtUO89u6bq5vGh0q1BFM1DQ6uoK1qVjMYKpfuDnHcHvltF4iiGBJbhyEvturgw3HCP8c+rZ7+BmpBOfp50nwB1HE20DxLL7CQG/iWnZ9KDNrObofgUSTAoXWec4LCNsngMIhtjbZXWoJ7yxUs85wBX/2R4OBKr3XdBo6QLsr2PuV/gVV2XsQdebu5rvY6YbRsvWUwvCRvQ957s3LKJ5KFKK/gX7u+Vm9fTtkEn8sZiw/Z8iHP7d8ekcrU5WUPQttN/rabTxg==;DIioFcI5btZOeKYD1Tq8ZA=="
 ---
 

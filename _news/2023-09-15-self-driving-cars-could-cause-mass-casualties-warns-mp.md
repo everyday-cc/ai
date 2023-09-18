@@ -9,7 +9,7 @@ ampWebUrl: "https://techround.co.uk/news/self-driving-cars-could-cause-mass-casu
 cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/self-driving-cars-could-cause-mass-casualties-warns-mp/amp/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,36 @@ images:
     isCached: true
 
 related:
+  - title: "How real-time machine learning can make the self-driving cars more smart"
+    excerpt: "Real-time machine learning and compression techniques are essential for the advancement of self-driving technology. These techniques enable vehicles to make split-second decisions, such as predicting a pedestrian's movements or adjusting paths for cyclists."
+    publishedDateTime: 2023-09-18T16:59:00Z
+    webUrl: "https://economictimes.indiatimes.com/industry/auto/cars-uvs/how-real-time-machine-learning-can-make-the-self-driving-cars-more-smart/articleshow/103765140.cms"
+    ampWebUrl: "https://m.economictimes.com/industry/auto/cars-uvs/how-real-time-machine-learning-can-make-the-self-driving-cars-more-smart/amp_articleshow/103765140.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/auto/cars-uvs/how-real-time-machine-learning-can-make-the-self-driving-cars-more-smart/amp_articleshow/103765140.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 58
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-91232,msid-103765145/the-system-or-algorithm-works-on-deep-reinforcement-learning-drl-a-machine-learning-technique-to-adapt-to-new-conditions-on-the-route-.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "With self-driving cars, it's the ethics we have to navigate"
+    excerpt: "The decision to allow self-driving cars may usher in a new era of transportation ... vehicles illustrate many of the ethical questions raised by the impact of artificial intelligence on everyday life. In a time of both misinformation and too much ..."
+    publishedDateTime: 2023-09-17T08:24:00Z
+    webUrl: "https://www.japantimes.co.jp/commentary/2023/09/17/world/self-driving-cars-ai-ethics/"
+    type: article
+    provider:
+      name: ジャパンタイムズ
+      domain: japantimes.co.jp
+    quality: 41
+    images:
+      - url: "https://www.japantimes.co.jp/japantimes/uploads/images/2023/09/17/251977.jpg"
+        width: 1000
+        height: 666
+        isCached: true
   - title: "Microsoft-backed self-driving car startup Wayve might finally have an answer to the driverless vehicle trust debate"
     excerpt: "Once the musings of movie makers and authors, self-driving cars are finally beginning to edge into reality. Yet autonomous vehicle (AV) makers have a problem: as exciting as the technology may be, many passengers don't want to put their lives in the ..."
     publishedDateTime: 2023-09-15T17:54:00Z
@@ -69,6 +99,24 @@ related:
         width: 1200
         height: 901
         isCached: true
+  - title: "Researchers develop algorithm for safer self-driving cars"
+    excerpt: "In a promising development for self-driving car technology, a research team at NYU Tandon School of Engineering has unveiled an algorithm—known as Neurosymbolic Meta-Reinforcement Lookahead Learning (NUMERLA)—that could address the long-standing challenge of adapting to unpredictable real-world scenarios while maintaining safety."
+    publishedDateTime: 2023-09-15T18:12:00Z
+    webUrl: "https://techxplore.com/news/2023-09-algorithm-safer-self-driving-cars.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 4
+  - title: "New report sets out Government steps to make self-driving cars a reality"
+    excerpt: "Lack of progress has bred public cynicism Small-scale schemes first Self-driving cars not likely for many years Road maintenance and better road markings crucial Changes to driving test and driver education proposed More work needed on legal,"
+    publishedDateTime: 2023-09-15T11:43:00Z
+    webUrl: "https://www.carwow.co.uk/news/7185/report-sets-out-pathway-to-self-driving-cars"
+    type: article
+    provider:
+      name: carwow
+      domain: carwow.co.uk
+    quality: 3
 
 secured: "0vGYG4ay3jPENFP5C51qgLmt+zPXCHoD3OadWlGS51CtALodpHLxRFKcKhWfURp6R4LM1ILR3JXo8GU+CIhulaYNkvxIftHUVj6YaqXBlu40xHAsvdDbGlRNlGA+WWvas/gxRDwuiCk7DupjURHA1BJ2gVpyZ+OLaIWGr1QFvQJYSNJpxvvhAYBzHTQ8Vl+HSUB5/wimey/0DT88q2CAZM0au9IC1bFaaekDjpEM97IoeuPwYYgCw2ykRDbf2oXylyX2BrufGGbTgVf9CkyUM8ePRSTMAYE4F4v5CJrIiOt+iVO9IuZE9/sHBZ6UGSTRLm6KNg996isU/wGwrIHV++/AkC8K9/AtBV0XLfKKdNH/rMWAaA8CiGNC2/yqzpcXVgdUTmsBfmRgaGkvnagXvxqx6pCfrdkFXOmVEvjC5sddUOjzktawTuew/VF6NLXlTyqMFP+hW3jPXO8Miej1hfH+Rh+FUECYLYnWWBkJbJF5ErcxJ2J5WSVfg7387JeqjvmA6LtIQIcI24JOVyrr+Q==;dsbNNVWhhzmR0XrhkfXaoQ=="
 ---

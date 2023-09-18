@@ -2,6 +2,144 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2023-08-25-nvidia-reports-remarkable-growth-in-data-center-business-in-latest-financial-results.md",
+      "title": "NVIDIA Reports Remarkable Growth in Data Center Business in Latest Financial Results",
+      "excerpt": "The company is expected to strategically align its high-end, mid-tier, and entry-level GPU AI accelerator chips with Original Design Manufacturers (ODMs) and Original Equipment Manufacturers (OEMs ...",
+      "sourceUrl": null,
+      "webUrl": "https://infotechlead.com/data-center/nvidia-reports-remarkable-growth-in-data-center-business-in-latest-financial-results-80195",
+      "originalUrl": "https://infotechlead.com/data-center/nvidia-reports-remarkable-growth-in-data-center-business-in-latest-financial-results-80195",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://infotechlead.com/wp-content/uploads/2023/04/Nvidia-RTX-4070-chip.jpg",
+          "width": 640,
+          "height": 436,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://infotechlead.com/data-center/nvidia-reports-remarkable-growth-in-data-center-business-in-latest-financial-results-80195?amp=1",
+      "cdnAmpWebUrl": "https://infotechlead-com.cdn.ampproject.org/c/s/infotechlead.com/data-center/nvidia-reports-remarkable-growth-in-data-center-business-in-latest-financial-results-80195?amp=1",
+      "publishedDateTime": "2023-08-24T11:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "infotechlead",
+        "domain": "infotechlead.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-ai-helps-robots-manipulate-objects-with-their-whole-bodies.md",
+      "title": "AI helps robots manipulate objects with their whole bodies",
+      "excerpt": "Imagine you want to carry a large, heavy box up a flight of stairs. You might spread your fingers out and lift that box with both hands, then hold it on top of your forearms and balance it against your chest,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-08-ai-robots-bodies.html",
+      "originalUrl": "https://techxplore.com/news/2023-08-ai-robots-bodies.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/ai-helps-robots-manipu.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-08-ai-robots-bodies.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-ai-robots-bodies.amp",
+      "publishedDateTime": "2023-08-24T09:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-the-ai-revolution-will-be-powered-by-energy.md",
+      "title": "The AI Revolution Will Be Powered By Energy",
+      "excerpt": "Whether AI produces huge unemployment or a utopia of high value add is yet to be decided but we can be sure there's going to be an exponential increase in energy usage,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/investor/2023/08/24/the-ai-revolution-will-be-powered-by-energy/",
+      "originalUrl": "https://www.forbes.com/sites/investor/2023/08/24/the-ai-revolution-will-be-powered-by-energy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e77dff69fae68fcd3b061c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/investor/2023/08/24/the-ai-revolution-will-be-powered-by-energy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/investor/2023/08/24/the-ai-revolution-will-be-powered-by-energy/amp/",
+      "publishedDateTime": "2023-08-24T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-24-the-myth-of-open-source-ai.md",
       "title": "The Myth of ‘Open Source’ AI",
       "excerpt": "A new analysis shows that “open source” AI tools like Llama 2 are still controlled by big tech companies in a number of ways.",
@@ -1022,135 +1160,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-computer-vision-software-developer-visualcortex-to-exhibit-at-asial-2023-with-axis-communications.md",
-      "title": "Computer vision software developer VisualCortex to exhibit at ASIAL 2023 with Axis Communications",
-      "excerpt": "VisualCortex is offering conference delegates and Axis clients the chance to win a complimentary computer vision Proof-of-Concept (POC). Applicants can follow the link below to su",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/08/24/9869504.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/08/24/9869504.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-23T21:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-north-hills-christian-school-unveils-state-of-the-art-smartlab.md",
-      "title": "North Hills Christian School unveils state-of-the-art SmartLab",
-      "excerpt": "The future of education at North Hills Christian School took a giant leap forward last week with the unveiling of a brand-new SmartLab HQ, a cutting-edge learning facility geared towards enriching the STEM experience for its students.",
-      "sourceUrl": null,
-      "webUrl": "https://www.salisburypost.com/2023/08/24/north-hills-christian-school-unveils-state-of-the-art-smartlab/",
-      "originalUrl": "https://www.salisburypost.com/2023/08/24/north-hills-christian-school-unveils-state-of-the-art-smartlab/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.salisburypost.com/wp-content/uploads/sites/9/2023/09/RCCC-LIVINGSTONE-AGREEMENT-PHOTO-1.jpg?w=400&h=220&crop=1",
-          "width": 400,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-23T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "salisburypost",
-        "domain": "salisburypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-meta-releases-ai-to-translate-dozens-of-languages-using-speech-and-text.md",
-      "title": "Meta Releases AI to Translate Dozens of Languages Using Speech and Text",
-      "excerpt": "Meta took a step towards a universal language translator on Tuesday with the release of its new Seamless M4T AI model, which the company says can quickly and efficiently understand language from ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/meta-releases-seamlessm4t-translation-ai-text-speech-1850761868",
-      "originalUrl": "https://gizmodo.com/meta-releases-seamlessm4t-translation-ai-text-speech-1850761868",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/1e1a0f03db5318c6ee689ba8646ed173.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-23T19:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

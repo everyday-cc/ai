@@ -3,10 +3,10 @@ category: news
 title: "Is AI the Key to Improving Mental Healthcare Accessibility?"
 excerpt: "AI can improve mental health diagnosis, therapy, and treatment, increasing access and personalizing care. AI automation can help address therapist shortages, extend care to more people, and reduce costs. AI can assist people struggling with autism or PTSD, while mitigating biases and enhancing mental healthcare."
 publishedDateTime: 2023-09-13T16:46:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/motivate/202309/is-ai-the-key-to-improving-mental-healthcare-accessibility"
-webUrl: "https://www.psychologytoday.com/us/blog/motivate/202309/is-ai-the-key-to-improving-mental-healthcare-accessibility"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/motivate/202309/is-ai-the-key-to-improving-mental-healthcare-accessibility?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/motivate/202309/is-ai-the-key-to-improving-mental-healthcare-accessibility?amp"
+originalUrl: "https://www.psychologytoday.com/intl/blog/motivate/202309/is-ai-the-key-to-improving-mental-healthcare-accessibility"
+webUrl: "https://www.psychologytoday.com/intl/blog/motivate/202309/is-ai-the-key-to-improving-mental-healthcare-accessibility"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/motivate/202309/is-ai-the-key-to-improving-mental-healthcare-accessibility?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/motivate/202309/is-ai-the-key-to-improving-mental-healthcare-accessibility?amp"
 type: article
 
 provider:
@@ -23,6 +23,6 @@ images:
     height: 800
     isCached: true
 
-secured: "OGIdj2fJlfMMjr9junzbRjH5osQrP+EHhcQEvTubh80adKKilKOo56gK2vqo2mNebMV172g+6retz6rlbGf7waUtxEMPq1Zu+iKLR3Sq1y0euCYjUYz2ZOFfdkvZtQXg7mR3o29Ait1Gk82alSpNA6Z+mVkStMtaBReYABBKQpZWapbFHST45YdUbDVBPrgzXp0QaM5agcoxNacb4jWHHOe4zrdEYrbBy5r5X5rd+G3Ytrpht767x7BApeIls9Nw9Xyeum7AeShxfVJxfjbK3Ih9/amP92jCUNi3LOjqINxPX+mZjFd6+P+2+B+zKcbfkDwMJP8DtD7TNE683AyDtGz0ee7Uw0Dl4JMH5SgY1Jw=;N39BzGyLL/Jh1TFtBdQP4g=="
+secured: "elzpKOJw8E2UoxKdKmb8caunMREjwHrMp4eh5w3qUDG97VhsiUFwsRFJ7x0NsyLSxO3wLJsXCvGoiuBCXEOBV4jpedt/xA45oAtIWiUmArEHEvE9wPPltowmUH3yYdWT0wXMXRFMwld68ZJsAXr3bhjmOTCwkFCfJ2ytQWPY3dcDg/bPDcC0IctScikryrjAyyGp1B/NN/+lJjxUKlm9jgf8QFHGnjojFPec6SQxeP7Svx1KIAKxUKwZHP41vejVuXZVZfOUMNDY5MzQwPD1NoRka//pLvKGOnwjHoAMQD088lWal0Qf+oSieoFtkj5JlkJaoXitiIwtvhN9ZQ6aU5EmaNCymMB26UHPJ5XJDSs=;YqY46UD+q4T+C4YYrFMkkg=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2023-09-18T14:36:00Z
 originalUrl: "https://venturebeat.com/business/todays-ai-is-not-science-its-alchemy-what-that-means-and-why-that-matters-the-ai-beat/"
 webUrl: "https://venturebeat.com/business/todays-ai-is-not-science-its-alchemy-what-that-means-and-why-that-matters-the-ai-beat/"
 type: article
-quality: 55
-heat: 55
+quality: 57
+heat: 57
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_classical_painting_of_an_alchemist_pouring_beakers_of_d_a5933ecd-b61e-43aa-911a-e1dc28e6b2fc-1.png?w=1200&strip=all"

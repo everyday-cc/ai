@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/extending-chatgpt-do-ai-cha
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/extending-chatgpt-do-ai-chatbot-plugins-really-change-the-game/"
 type: article
 quality: 87
-heat: 217
+heat: 227
 published: true
 
 provider:
@@ -119,6 +119,20 @@ related:
       - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2023/09/Chat-GPT-Article-202307181246.jpg"
         width: 620
         height: 372
+        isCached: true
+  - title: "ChatGPT masquerades as AI but is something much different, researcher says"
+    excerpt: "“This stuff is not artificial intelligence, under any [common] definition of that term, and it’s definitely not artificial general intelligence, but it looks like it,” Bender said."
+    publishedDateTime: 2023-09-18T15:39:00Z
+    webUrl: "https://badgerherald.com/news/2023/09/18/chatgpt-masquerades-as-ai-but-is-something-much-different-researcher-says/"
+    type: article
+    provider:
+      name: Badger Herald
+      domain: badgerherald.com
+    quality: 37
+    images:
+      - url: "https://badgerherald.com/wp-content/uploads/2023/04/IMG_1621-scaled.jpg"
+        width: 2560
+        height: 1920
         isCached: true
   - title: "Are AI chatbots more creative than humans? New study reveals surprising results"
     excerpt: "The study published in Scientific Reports compared human and AI chatbot creativity using the alternate uses task (AUT), finding that AI chatbots generally outperformed humans in generating original and logical uses for everyday objects."

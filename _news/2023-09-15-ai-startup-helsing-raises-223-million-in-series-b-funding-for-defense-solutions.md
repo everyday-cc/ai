@@ -33,6 +33,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 39
+  - title: "Amid AI funding surge, defense technology startup Helsing raises €209M"
+    excerpt: "Helsing GmbH, a startup developing artificial intelligence software for the defense sector, today announced that it has raised €209 million in funding."
+    publishedDateTime: 2023-09-14T21:30:00Z
+    webUrl: "https://siliconangle.com/2023/09/14/amid-ai-funding-surge-defense-technology-startup-helsing-raises-e209m/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/unsplash-2.png"
+        width: 1032
+        height: 580
+        isCached: true
   - title: "Curipod helps teachers make interactive lessons using generative AI. Check out the pitch deck it used to raise $4.6 million in seed funding."
     excerpt: "Norwegian edtech startup Curipod helps teachers make interactive lessons using generative AI, and just raised seed funding led by Reach Capital."
     publishedDateTime: 2023-09-14T10:00:00Z

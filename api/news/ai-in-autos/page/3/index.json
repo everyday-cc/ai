@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-08-27-theres-no-such-thing-as-self-driving-cars-not-yet-anyway.md",
+      "title": "There's No Such Thing as Self-Driving Cars, Not Yet Anyway",
+      "excerpt": "But what makes self-driving cars so complicated and tricky to make? And where do we stand in all of this? What in the heck is an autonomous car anyway? A fully autonomous car is a vehicle that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.autoguide.com/auto-news/2020/08/there-s-no-such-thing-as-self-driving-cars-not-yet-anyway.html",
+      "originalUrl": "https://www.autoguide.com/auto-news/2020/08/there-s-no-such-thing-as-self-driving-cars-not-yet-anyway.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-fastly.autoguide.com/media/2023/06/28/13413253/there-s-no-such-thing-as-self-driving-cars-not-yet-anyway.jpg?size=1200x628",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AutoGuide",
+        "domain": "autoguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-26-tesla-is-wrong-single-passenger-cars-should-not-be-focus-for-self-driving.md",
       "title": "Tesla Is Wrong: Single Passenger Cars Should Not Be Focus For Self-Driving",
       "excerpt": "The focus of Tesla FSD is wrong. We shouldn’t be aiming to make single-passenger vehicles autonomous, when there are other areas that will provide greater benefit sooner.",
@@ -1360,51 +1403,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales.md",
-      "title": "Earnings preview: Can Nvidia amaze markets with its AI chip sales?",
-      "excerpt": "Nvidia is slated to report its second-quarter earnings after the US markets closing bell on 24 August (APAC time)",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmcmarkets.com/en-nz/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales",
-      "originalUrl": "https://www.cmcmarkets.com/en-nz/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.cmcmarkets.com/images/Nvidia_GettyImages-902419310_1200px_medium.jpg",
-          "width": 768,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmcmarkets.com/en-nz/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales_amp",
-      "cdnAmpWebUrl": "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-nz/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales_amp",
-      "publishedDateTime": "2023-08-14T21:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMC Markets",
-        "domain": "cmcmarkets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware",
-        "AI in Sales"
       ]
     }
   ],

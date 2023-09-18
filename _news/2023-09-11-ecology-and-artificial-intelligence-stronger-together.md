@@ -1,26 +1,24 @@
 ---
 category: news
-title: "Ecology and artificial intelligence: stronger together"
-excerpt: "Many of today’s artificial intelligence systems loosely mimic the human brain. In a new paper, researchers suggest that another branch of biology — ecology — could inspire a whole new generation of AI to be more powerful,"
+title: "Ecology and artificial intelligence: Stronger together"
+excerpt: "Many of today's artificial intelligence systems loosely mimic the human brain. In a new paper, researchers suggest that another branch of biology -- ecology -- could inspire a whole new generation ..."
 publishedDateTime: 2023-09-11T00:00:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/1000768"
-webUrl: "https://www.eurekalert.org/news-releases/1000768"
+originalUrl: "https://www.sciencedaily.com/releases/2023/09/230911191010.htm"
+webUrl: "https://www.sciencedaily.com/releases/2023/09/230911191010.htm"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
+  - AI in Autos
   - AI
 
-images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/482a6e50-c4e3-47da-8480-e13fa6d9a67d/Rendition/thumbnail/Content/Public"
-    width: 300
-    height: 300
-    isCached: true
-
-secured: "8T9qN45ozVkeiZKS4qscwfybaX9ZXHYqOQyzza1JQomlWBKnLG3qVBHg9ZLSHUEVP/G5oKKv9fy2KuITBanuU49KaRxajp3fOBrH7uOHpNY7sUvFbyEkfXX/EKO5refDNjch4FFU45NzOxq9rLcH88fFWrun/lmy6C0UWVZwh9YpM+FV87EUPamo9GhJYlboD9X6YH4ph5oKIlu3THTHy+hqhCf2V58BZXvKlgFL4BXNhuZWtWA0FJWJFepGqoyw7mXUFVt7+Ha8aPGzbCjrLkbN/ky3KrasAeS7HFtwAOk9PFU239hqUv/9qj1nws2VeLCr4f+qjw44JIAPML9klFhepyCdRAkTRPy9n+q86kQ=;I+7giuPPEWXBqx3bTGtehg=="
+secured: "X7jIL4tco0To2zyc9ebNxtYAWx+eYo49jXS8VyNHYCuTxGzEKu2k6a7cOkU1ZiLARRignSc0yzeMi5LQ1+5Obfy5wEaUz3O5DJ+qxSi6CK8Z+OJBVXBfgQG+Cwtv7zDoe2ivgcv4kE/pMJAyOJvSzW2yKYZy16j4onn47TOQQjz9a+9PpA5L0oXaanXqtqJtsedV3r29wHhB0sexKEdPKly05AggfhMeSnapmsxj0Gt8OpbCq4ZjKRtoTxXqWj7cgBBBdzXY8JhlxbrGbu79XVHt8lG50R3QqZcuZwmfZuEzXVMoYEKIVJwHzN7SEGg9mi8ozGkBxZsQk8Y8IP1qnWTUEgB4XStnv7uZAv7ihBA=;PatlJdExsZiTpCwjeSSrBA=="
 ---
 

@@ -73,6 +73,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Microsoft AI Employee Accidentally Leaks 38TB of Data"
+    excerpt: "A software repository on GitHub dedicated to supplying open-source code and AI models for image recognition was left open to manipulation by bad actors thanks to an insecure URL."
+    publishedDateTime: 2023-09-18T16:59:00Z
+    webUrl: "https://www.pcmag.com/news/microsoft-ai-employee-accidentally-leaks-38tb-of-data"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 84
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/06RB9Pdc5UaBy8fkYpbKaAj-1.fit_lim.size_1200x630.v1695053260.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Microsoft Surface Laptop Studio 2, Laptop Go 4 Details Leak Ahead of AI Event"
     excerpt: "Some needed upgrades for the two-year-old Surface Laptop Studio seem to be imminent. Microsoft's upcoming special event on Sept. 21 is going to be more of the \"let us tell you about how wonderful our AI is\" that seems to be in this year's marketing playbook,"
     publishedDateTime: 2023-09-15T21:57:00Z
@@ -186,6 +200,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 63
+  - title: "Microsoft AI Researchers Accidentally Leak 38TB Of Internal Data Through Azure Storage"
+    excerpt: "It seems that humans are always the weakest link in security, and this instance of information leakage is no different."
+    publishedDateTime: 2023-09-18T17:06:00Z
+    webUrl: "https://hothardware.com/news/microsoft-ai-research-team-accidentally-leaks-38tb-of-internal-data"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 61
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/62576/content/microsoft-ai-research-team-accidentally-leaks-38tb-of-internal-data.jpg"
+        width: 708
+        height: 398
+        isCached: true
   - title: "Microsoft AI researchers accidentally exposed terabytes of internal sensitive data"
     excerpt: "Microsoft AI researchers accidentally exposed tens of terabytes of sensitive data, including private keys and passwords, while publishing a storage bucket of open-source training data on GitHub. In research shared with TechCrunch, cloud security startup ..."
     publishedDateTime: 2023-09-18T13:22:00Z
@@ -358,6 +386,6 @@ related:
       domain: microsoft.com
     quality: 7
 
-secured: "7dRyQs5kG9m8IRkUFXNp3L/WIe1gyvPHdQ0TkSG8hHBucavCD2qX36dBTSUlOsWns7zfGMm0lahRNFcusg/bGkkhB/mDf/75PtGXnutSoCm7BGpIUMtd1G/mVd7ifglSMYzuYWVVBiRzJ1iSxHBK49F4Z71RtGxchudO0Afg6ISn/fLJRq+G6C+HVoVTsq3m5xDdZQ1h248982YGjrJki+wJrqU1JTKDiPlGNP3XfNCoHBf5dUH8fupetz4aW/Y/MvoA418wCLSPGiBW9HQhwgW4vkMDEBaUzZZeWC5YAD0RMYx/QVO5FgmsUb+rLNBamlh9zWvkuaCaB0FDp+TmiTMS2X8WpBEVSXJqBL1b+Ko=;obwDDuDxEhIPRY+VHYFxNw=="
+secured: "4z2ITMiBvj4K3h0AiwTs8kDAxIX5yHNMLfqEpaeeHDLf12vPSKI1Q5BOdCdU++xiTOSE32TaQhlUEdIRmtrEI43SxLmK+p/jbIxbuOqk9iirh1qq3T2DitjiF+WbcGa9rw8YRg9cUiW34eAiOAl8PH4XKE16e9UOR2dvmwnyjkfXa8zvewOomdtUEO3fF+Y1CK/RRCYAs0R+SxphfYuXeLLfkeESDP4wHcVp3qaJ0EDyEi2dlXk48MSvuJOM37/4vVkrUITvVTzmHDLjFN0ZDunwxh1L39vvAKCaH6BVjAHpUvNyIne9+WYY2mG5qflQSIVaNy12eplSgIZC2EEDk9qtvF2fEsZGH9tPaGmCiimCGyz0bO5+lTux2JzdXXVxxBjPFLA3M/RW3nFKdG9Rxzm4fxS4HeQM+RySlv/JPpT3/uDOC/rL1SXoCiC436ocDdiOLtQIXxu1ku5r1r0QnYThgHJjyvZcWDexjuA63lU/z7iuXRmEKlaYmSuc/5I8F1esQvc2NcZXHiLS7eamfw==;ziBsY1maWuANb7ZxPQyE4Q=="
 ---
 

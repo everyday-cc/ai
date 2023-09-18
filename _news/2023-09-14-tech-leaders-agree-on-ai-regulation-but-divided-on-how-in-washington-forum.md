@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/sep/13/tech-leaders-wash
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/sep/13/tech-leaders-washington-ai-saferty-forum-elon-musk-zuckerberg-pichai"
 type: article
 quality: 55
-heat: 115
+heat: 95
 published: true
 
 provider:
@@ -68,34 +68,6 @@ related:
       - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDkvNGRkMDAwYWYtODdhZi00MWNiLWJhZDQtY2Y0YjAzNmI2ZDRhLmpwZw==.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "Tech leaders including Musk, Zuckerberg call for government action on AI"
-    excerpt: "Meta CEO Mark Zuckerberg, OpenAI CEO Sam Altman, and Microsoft co-founder Bill Gates offered diverging views on the risks of open-source AI research, according to people in the room."
-    publishedDateTime: 2023-09-14T00:13:00Z
-    webUrl: "https://www.pressherald.com/2023/09/13/tech-leaders-discuss-ai-policy-in-closed-door-senate-meeting/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 38
-    images:
-      - url: "https://w2pcms.com/wp-content/uploads/sites/10/2023/09/ai-senate-bg-5d8f1cd2-5269-11ee-9b7a-651fb7f6d786.jpg?w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Tech leaders hold closed-door meeting with lawmakers on artificial intelligence"
-    excerpt: "Tech leaders, including Elon Musk, were on Capitol Hill Wednesday to take part in closed-door meetings with congressional lawmakers on the benefits and dangers that artificial intelligence poses. Jo Ling Kent has details."
-    publishedDateTime: 2023-09-13T23:24:00Z
-    webUrl: "https://www.cbsnews.com/video/tech-leaders-hold-closed-door-meeting-with-lawmakers-on-artificial-intelligence/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 33
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/09/13/33e897a3-896b-4ede-84cc-4268787999ac/thumbnail/1200x630/d200bc2429350f25a71cd2dcd9628b3d/kent.jpg?v=b4264bc5922d2f5b2145bedc5a4d101e"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Bill Gates, Elon Musk and Mark Zuckerberg meeting in Washington to discuss future AI regulations"
     excerpt: "Spread the loveIn a groundbreaking meeting, three of the world’s most influential tech leaders – Microsoft co-founder Bill Gates, Tesla and SpaceX CEO Elon Musk, and Facebook CEO Mark Zuckerberg – convened in Washington,"

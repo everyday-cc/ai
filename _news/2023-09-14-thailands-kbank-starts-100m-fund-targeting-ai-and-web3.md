@@ -9,7 +9,7 @@ ampWebUrl: "https://www.coindesk.com/business/2023/09/14/thailands-kbank-starts-
 cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/business/2023/09/14/thailands-kbank-starts-100m-fund-targeting-ai-and-web3/?outputType=amp"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI Startup Writer Pens $100M Round"
+    excerpt: "Generative AI platform Writer raised $100 million led by Iconiq Growth in a round that values the startup at $500 million."
+    publishedDateTime: 2023-09-18T17:26:00Z
+    webUrl: "https://news.crunchbase.com/ai-robotics/startup-generative-ai-writer-iconiq/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 37
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/Generative_AI_1.jpg"
+        width: 900
+        height: 506
+        isCached: true
   - title: "KBTG launches KXVC – a 100 million USD flagship fund targeting global AI, Web3, and Deep Tech startups and funds with potential synergy in APAC"
     excerpt: "KASIKORN Business-Technology Group (KBTG) – a tech arm of KASIKORNBANK (KBank) – launches KXVC – 100 million USD flagship fund targeting AI, Web3, and Deep Tech fintech startups globally with potential synergy in APAC. Asia-Pacific, especially ..."
     publishedDateTime: 2023-09-15T02:10:00Z
