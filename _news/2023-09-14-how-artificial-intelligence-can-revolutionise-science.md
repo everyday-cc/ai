@@ -27,79 +27,49 @@ images:
     isCached: true
 
 related:
-  - title: "Haltia.AI champions ethical AI revolution"
-    excerpt: "Consistent with the UAE leadership’s vision for international impact and technological advancement, Haltia.AI invites companies and institutions worldwide to collaborate. \"The UAE stands as a beacon for global innovation and we aim to contribute to the UAE government’s legacy by spearheading partnerships in the ethical sphere,\" says Talal Thabet."
-    publishedDateTime: 2023-09-13T10:18:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/haltiaai-champions-ethical-ai-revolution-k7ctg65g"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/haltiaai-champions-ethical-ai-revolution-k7ctg65g?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/haltiaai-champions-ethical-ai-revolution-k7ctg65g?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 74
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NzgwZTg3ZWQtOGY5Ny00/0/talal-jpg.jpeg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Banking in the Modern Age: AI, Machine Learning, and Global Evolution"
-    excerpt: "Introduction The global banking industry is undergoing a profound transformation, driven by technological advancements, changing customer expectations, and regulatory developments. In this article, we will explore the current state of the banking industry worldwide,"
-    publishedDateTime: 2023-09-17T09:43:00Z
-    webUrl: "https://techbullion.com/banking-in-the-modern-age-ai-machine-learning-and-global-evolution/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 71
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-17-at-2.42.20-PM.jpeg"
-        width: 739
-        height: 415
-        isCached: true
-  - title: "Shift Opus a UK Based Artificial Intelligence Services Company, Revolutionises Business Operations"
-    excerpt: "Leading the change in business optimisation, Shift Opus has announced its innovative solutions that redefine how companies perceive operational excellence. Offering an amalgamation of AI-driven automation,"
-    publishedDateTime: 2023-09-15T19:21:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/ab34627949/shift-opus-a-uk-based-artificial-intelligence-services-company-revolutionises-business-operations"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34627949"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34627949"
+  - title: "The AI Revolution: Will Artificial Intelligence Shape The Future Of Cannabis Product Design?"
+    excerpt: "The global Artificial Intelligence (AI) market is in the midst of a tremendous growth surge. From a valuation of $387 billion in 2022, it is forecasted to reach a staggering $1.39 trillion by 2029. This meteoric rise is evident from Microsoft Corp. MSFT +1.32% + Free Alerts 's decision to invest a hefty $10 billion for a 49% stake in ChatGPT."
+    publishedDateTime: 2023-09-13T17:10:00Z
+    webUrl: "https://www.benzinga.com/general/biotech/23/09/34506273/the-ai-revolution-will-artificial-intelligence-shape-the-future-of-cannabis-product-design"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34506273"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34506273"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 43
+    quality: 63
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://cdn.benzinga.com/files/images/story/2023/09/12/tyler-casey-f5fyiqgnucm-unsplash.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "India's Infosys signs $1.5 billion contract to leverage AI solutions"
-    excerpt: "Infosys did not name the company nor mention whether it is an existing client. Earlier in the month, U.S. chip maker Nvidia announced AI partnerships with Indian conglomerate Reliance Industries and the Tata group's Tata Consultancy Services to develop ..."
-    publishedDateTime: 2023-09-15T05:11:00Z
-    webUrl: "https://www.aol.com/news/indias-infosys-signs-1-5-044023191.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/b2bad645f2c7efb49959e2237419efef"
-        width: 800
-        height: 543
-        isCached: true
-  - title: "Ai That Matters: International Government Communication Forum 2023 Explores Practical, Ethical Complexities Of Artificial Intelligence"
-    excerpt: "SHARJAH, 13th September, 2023 (WAM) -- A thought-provoking session held on September 13, 2023, during the International Government Communication Forum (IGCF) in Sharjah brought together experts and thought leaders to explore the profound ethical questions raised by artificial intelligence (AI)."
-    publishedDateTime: 2023-09-14T04:53:00Z
-    webUrl: "https://menafn.com/1107065125/Ai-That-Matters-International-Government-Communication-Forum-2023-Explores-Practical-Ethical-Complexities-Of-Artificial-Intelligence"
+  - title: "Leading The Fintech Revolution: Forms Syntron Presents Generative Ai And Web 3.0 Financial Platforms"
+    excerpt: "Empowered by Microsoft, FORMS Syntron unleashes Banking Copilot and FINNOSafe to transform the financial sectorHONG KONG SAR - Media OutReac"
+    publishedDateTime: 2023-09-14T09:28:00Z
+    webUrl: "https://menafn.com/1107066798/Leading-The-Fintech-Revolution-Forms-Syntron-Presents-Generative-Ai-And-Web-30-Financial-Platforms"
     type: article
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 37
+    quality: 26
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?875043"
-        width: 444
-        height: 249
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?777459"
+        width: 346
+        height: 250
+        isCached: true
+  - title: "Repentance and Revolution: A Teaching for Rosh Hashanah"
+    excerpt: "Then I enter Rosh Hashanah services. As the ark is opened, the congregation recites Psalm 24. “Who may ascend the mountain of God? Who may stand in [God’s] holy place? One who has clean hands and a pure heart,"
+    publishedDateTime: 2023-09-15T04:03:00Z
+    webUrl: "https://blogs.timesofisrael.com/repentance-and-revolution-a-teaching-for-rosh-hashanah/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 24
+    images:
+      - url: "https://static.timesofisrael.com/blogs/uploads/2023/09/Screenshot-2023-09-14-213927.png"
+        width: 572
+        height: 373
         isCached: true
 
 secured: "Fa4wjHtLJPKNVMUYU/zwNB7hoxAW3PYhhhadG/v5OaRjzWyrLJ0vIrECSR8JKzBNTrzw9mUDS9kMSFnC/fGENozT+T2YAqKl1D+ZGe5LOY9ojFECr/aotyogvIKnxvxg0FsscbchJh3bSRyIPC2x7+M4Q4tDEok+wv+yVly5IXk9i6wD1IqC6sUmnhJ7CkbZ0Gx61QoDsV0PW/zDrTZbpCL0dUHNRfxQJflJ6oLp/1YoAq09nosJWOZM54EZ9eLg/jSpmoZaCpHWVeVW3vxBcVIR+qn/JqGuOkdelz+s5KXctV0aX+T4G3lFg5K4Ma8D1306+z3W0Cq0c+aXZnUatkUpgh8335HeN5Rkilva1nscObZgm+pynG3vIgpHeSJK/Y1hnOZcsRCe4qdKugammvUsEq6bpRxSZm3N+A+lV28emzihYxV9uELZAr4AyZSXjNUM36jAnus0dhmNpFn5Pk2D3nM3sgLBrl6ZkWFZV0RPUQrkp7GPVzqUdKBMTmnCjlLLQGBCH/jlYxU46J+ZVQ==;9UscOaW/3TkYCrHlTnW0gw=="

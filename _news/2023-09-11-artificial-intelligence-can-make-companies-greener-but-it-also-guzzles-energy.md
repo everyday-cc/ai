@@ -21,7 +21,14 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Healthcare
 
-secured: "H0Rx0b8pMtxtIt5H08Z05+yC5yHkDmGr20gJQhOLJ1KTMQFGxrsxiP1kAjs6ge2JwOChZtX1OJlIoB30YxW5HoybjfwCSoVq86fdpF+T2LYNqQi29FGjVRLtW8jC5e2cvs1xQI6TJbrEgqWRUKrc7QX02C+FAg8JdQSRsO2igiw8vLM/1RxwQ5pN6TeluU7ttav6KkiuRqxDvNTAUtszO4qHcTfeL12B0dOVMJBmKQDgkKwORWRsiYGtj3Cn2p065UFbJvSJy8FBF9FCDgo8izJHum7W8XnJMTHrTtx0Tty7hJR6QAQdY6hZujVvhP30NXmIEE7WpEN8IRQLGqkSSa6IkUJJ4pcpMAhFSHWjTtAo3uM4z+kQ6uzdgzLs0l1hUa92SSal0FdvzKKg5TtOvAe+11M2W4YotEUFSTZaW1tpJSq9GcOnkTBMooicjZ1CwGsh6kQ2In8XsJbZZ3OfuLvGSoUGsW+eg62aZY2f70iC+6vjAXy3qBNnx0i1mA2h2qYLIh2/Y2RWagup/XMfNQ==;Cfui/Uwp0rAzO1hCjkPBGg=="
+images:
+  - url: "https://images.wsj.net/im-849170/social"
+    width: 1280
+    height: 640
+    isCached: true
+
+secured: "bpDLAxIhXx1Q+kz/Sx/igJdKSUA3BneC42j3iOdH0S4nMsBokSVngFFH+Hs9QpXjCDZwd3VHUwgIAx0ym6uQsdf8YI9Z2Tzqwp8rOrgTn1Phm1RU6bJTDVKBqPFP+VtjZ+W5A9/YSoZqxtzI0EBx0mc4GsBLSeI4NDijYAFL+an0Ptbcwb3tymuVahte0Z0kKbIsdl51qk2/S1m08+C3ovwiyIssXi6zsPmRse5UfCqxRlxfI6UngxyiCB6GC8OPFmqCgf9aYTNHSCVmN8UjpAIkE/A+8Pu1HQECsfv47XR2vCvyNpm7vSCYR9eePY4AB3LOsrkdbJM44wGlwIt545KfNmb5dv/aE7M6e3YlkFI=;1JhmWiSPFvDbVxWY/m689w=="
 ---
 

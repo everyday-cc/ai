@@ -40,6 +40,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "The Next Nvidia: 3 AI Stocks That Could Break New Records"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With artificial intelligence protocols requiring a ridiculous amount of"
+    publishedDateTime: 2023-09-16T19:02:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-next-nvidia-3-ai-stocks-that-could-break-new-records-1032634934"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "Kiromic BioPharma Common Stock to Begin Trading on the OTC Pink Sheets on September 14"
     excerpt: "Kiromic BioPharma (NASDAQ: KRBP) (“Kiromic” or the “Company”), a clinical-stage, fully-integrated biotherapeutics company using its proprietary DIAMON"
     publishedDateTime: 2023-09-13T20:35:00Z

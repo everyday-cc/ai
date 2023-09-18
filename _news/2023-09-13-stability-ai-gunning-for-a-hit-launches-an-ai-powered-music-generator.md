@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/09/13/stability-ai-gunning-for-a-hit-lau
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/13/stability-ai-gunning-for-a-hit-launches-an-ai-powered-music-generator/amp/"
 type: article
 quality: 87
-heat: 267
+heat: 277
 published: true
 
 provider:
@@ -139,6 +139,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/479b2543-f950-4f80-8286-2d387b67cccc/246197ca-db5e-47e1-b514-aa91d644b387/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
         width: 1024
         height: 512
+        isCached: true
+  - title: "Ernst & Young launches a new AI platform"
+    excerpt: "Sources revealed that on September 13, 2023, the London-based firm mentioned that it had invested $1.4 billion into AI technologies for its new EY.ai platform. The new platform is expected to help organisations adopt AI. It is believed that the platform is based on EY’s own large language model (LLM), EY AI EYQ, Cointelegraph added."
+    publishedDateTime: 2023-09-18T03:40:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-ernst-young-launches-a-new-ai-platform-3246635/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ernst-young-launches-a-new-ai-platform-3246635/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ernst-young-launches-a-new-ai-platform-3246635/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/My-project-1-2023-07-22T092308.558.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Tech titans are giving senators advice on artificial intelligence in a closed-door forum"
     excerpt: "Senate Majority Leader Chuck Schumer convened a meeting of some of the country’s most prominent technology executives to ask them how Congress should do it."

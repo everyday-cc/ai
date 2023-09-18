@@ -126,20 +126,6 @@ related:
       name: Politico Europe
       domain: politico.eu
     quality: 30
-  - title: "Build Intelligent AI Bots That Speak Your Language: Maqsam's AI Conversational Chatbot Unveiled"
-    excerpt: "One of the standout features of Maqsam's AI conversational chatbot is its hyper-local advantage, especially in Arabia. For businesses operating in this diverse and dynamic market, where dialects and cultural nuances vary significantly, Maqsam's AI chatbot provides a localized solution that ensures meaningful interactions with customers."
-    publishedDateTime: 2023-09-13T09:27:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-build-intelligent-ai-bots-that-speak-language-maqsams-/2023/09/13/9879923.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 27
-    images:
-      - url: "https://mma.prnewswire.com/media/2208602/Maqsam.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Why Japan is building its own version of ChatGPT"
     excerpt: "Some Japanese researchers feel that AI systems trained on foreign languages cannot grasp the intricacies of Japanese language and culture."
     publishedDateTime: 2023-09-14T03:41:00Z
@@ -173,6 +159,6 @@ related:
       domain: scientificamerican.com
     quality: 4
 
-secured: "JLkIwFmJhcP7L7XV9DzTZ6+++rPReq1fshSosPJFwMxLI0dvYOZB9I9nH1K7RrBr5DvutECkGGqKLBaK5H5znaYIIeAn+4XJAbzy8+fOlDfbWH+x7kriCvXvU1kftElVTX6UwHNerKroBi8KOpCGBG3rrNrfam3MpMrU6ainxBpD1K+TDoUg1iF6b1TnlmbV6KW3cRMEgZyWfy3N/id4Uwo6yforhI9K0BJNlaRzAmeSNwF8Wsip4o4SS3GwT7rGRZBlPoZL0jxT+TzWZYTRAU4jG/i1uMyk7D/rFYdKZfg41ARv4EWXjXnkxl4VFAHEPE6vJOirvjOOec2cE5vTYIwTMuV37OKVv9e0rpxkLB0=;/I/rqPqmxU81gcEAfa15nQ=="
+secured: "p2jO4jeABjJd1rUt6gaCV0nndKGYIDH9LxekLG/j0BKMfNfqFiq7tuVxFJv+t1lg56+d3YAcPE0L+fS+90fHg3cG6/lN97o8xQcw6sO7iVuPQEA9su9MxNATpVeAY6pQx5qXJecZ61RBVaDsPGG+T0wwzgVFBOLV4As42eM3jiTDpGooh1bmeKgiI7S2v/iENXZ/YgxZ89jaL4yAdxyXjbkmezqYykwLdgIF5UTHZGFMwZnuT4k5X8iZtpJ2oZRZhaApXgPAQwK1LKZB5z6EQknEdisykms5Y/hT4DN7jstAY/CJFu76VidRwAC+Ra7+oNRLC007mKSsEAO/70NJWiM6aIrwFwBdxeWRdXbJZkAiRNc6cathIoaTQW4/Fj9sJ83f3JnBq56Vv3BdNJORZxP6A9P7ShZMh4RpXf60fLW7DFGNVVOsvEM9uTd7HExIYypuKhcb/WMSq3PB2szspJh6YWWFDnlAYgMWq7GEp6jDkGwD871djJcp0Ids16ObMxHiWWXazoQmo9F5B+rbCQ==;t2fU0Ikee91eiOgQkZhK1A=="
 ---
 

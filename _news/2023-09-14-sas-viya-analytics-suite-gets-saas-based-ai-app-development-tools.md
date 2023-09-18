@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "SAS Viya analytics suite gets SaaS-based AI app development tools"
-    excerpt: "The new offerings will allow enterprises to automate the setup and integration of a cloud-native technology stack to let developers focus on getting AI models and AI-driven applications into production."
-    publishedDateTime: 2023-09-13T10:41:00Z
-    webUrl: "https://www.infoworld.com/article/3706378/sas-viya-analytics-suite-gets-saas-based-ai-app-development-tools.html"
-    ampWebUrl: "https://www.infoworld.com/article/3706378/sas-viya-analytics-suite-gets-saas-based-ai-app-development-tools.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706378/sas-viya-analytics-suite-gets-saas-based-ai-app-development-tools.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/01/shutterstock_1936992907-100936041-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Beyond Text And Images: How Generative AI Enriches Analytics"
     excerpt: "Synthetic data isn’t exactly new: the concept has existed since the 1970s. But synthetic data capabilities have improved dramatically in recent years due to advances in AI and modeling. By 2024, Gartner has predicted that 60% of all data used for developing AI and analytics will be synthetically generated."
     publishedDateTime: 2023-09-14T10:30:00Z
@@ -57,6 +41,45 @@ related:
         width: 1200
         height: 673
         isCached: true
+  - title: "Machine Learning and AI in Algo trading: Predictive analytics for stocks"
+    excerpt: "Gain market edge: AI and ML in an algo trading system can be leveraged to automate some of the laborious repetitive processes that were previously done manually. Additionally, AI systems have the ability to continuously watch the stock market around the clock. As a result of their wider reach, traders gain an added advantage."
+    publishedDateTime: 2023-09-15T11:00:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-machine-learning-and-ai-in-algo-trading-predictive-analytics-for-stocks-3244943/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-machine-learning-and-ai-in-algo-trading-predictive-analytics-for-stocks-3244943/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-machine-learning-and-ai-in-algo-trading-predictive-analytics-for-stocks-3244943/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 73
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-15T162227.384.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Emory Healthcare names 1st data, analytics chief"
+    excerpt: "Joe Depa has been named the inaugural chief data and analytics officer of Emory Healthcare. In this role, he will use data and AI to improve patient outcomes and ease clinician burnout."
+    publishedDateTime: 2023-09-13T14:24:00Z
+    webUrl: "https://www.beckershospitalreview.com/hospital-executive-moves/emory-healthcare-names-1st-data-analytics-chief.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "IntelePeer Announces New AI-Powered Analytics Engine for SmartFlows Platform"
+    excerpt: "IntelePeer, a leading provider of AI-powered communications automation solutions, announced today an extension to its SmartFlows platform, the Call Su"
+    publishedDateTime: 2023-09-14T17:16:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230914883718/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 16
 
 secured: "EWp9eTLFUsCGuzVW6BwGEu7z/FfOS0P5ZSO/9RyHRLJ59apvkaOfB5b/BbxhmN3i22jyd99L9a6HaWyGMpBYhqI3dqwA0Z1fTvxRQqGyg/lrV6n3B11lNDY2RrM3eyx5AqtqBBmYG0Jvl8DPyqzaUxxZRXw1qF2qBN6FzzRdr1x1ZLt3FSoJ7NglJ/kP77grd2e0Lvd2ckBrTOSbzAv6KeAW2mam6BIMPX2stolqlZFc/TR7LyWmvta7w3AjqI9UfCpzI9rLBhM069kJy79bopdxV7ieXbfRGNy3ApIU9RRRf3aAN9HWB6B3OGZfdcua18Jc5g3aN6m2Rv2OiL46bCvsWGmbSLh6mDyJKARUOnk=;//wFI6EBPSMVwk0t91Hw3w=="
 ---

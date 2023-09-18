@@ -149,6 +149,49 @@
       ]
     },
     {
+      "path": "_news/2023-09-01-chinas-baidu-rolls-out-chatgpt-rival-ernie-to-public.md",
+      "title": "China’s Baidu rolls out ChatGPT rival ERNIE to public",
+      "excerpt": "AFP: China’s Baidu has rolled out its ChatGPT rival ERNIE Bot to the public, in a major leap for the country’s tech sector as it aims to cash in on the artificial intelligence gold rush. The Chinese g .",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymirror.lk/business-news/Chinas-Baidu-rolls-out-ChatGPT-rival-ERNIE-to-public/273-266384",
+      "originalUrl": "https://www.dailymirror.lk/business-news/Chinas-Baidu-rolls-out-ChatGPT-rival-ERNIE-to-public/273-266384",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_0a35609f2d.jpg",
+          "width": 550,
+          "height": 310,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymirror.lk/business-news/Chinas-Baidu-rolls-out-ChatGPT-rival-ERNIE-to-public/273-266384",
+      "cdnAmpWebUrl": "https://www-dailymirror-lk.cdn.ampproject.org/c/s/www.dailymirror.lk/business-news/Chinas-Baidu-rolls-out-ChatGPT-rival-ERNIE-to-public/273-266384",
+      "publishedDateTime": "2023-08-31T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Mirror",
+        "domain": "dailymirror.lk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-31-elon-mode-fsd-secret-full-self-driving-mode-leaves-authorities-despairing.md",
       "title": "Elon Mode FSD: Secret Full-Self Driving Mode Leaves Authorities Despairing",
       "excerpt": "Tesla might be about to face the music on its self-driving technology after a secret so-called ‘Elon mode’ that removes a critical safety feature was discovered.",
@@ -1306,49 +1349,6 @@
       "provider": {
         "name": "Just Auto",
         "domain": "just-auto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-baidu-becomes-first-in-china-to-offer-driverless-airport-rides.md",
-      "title": "Baidu Becomes First in China to Offer Driverless Airport Rides",
-      "excerpt": "Baidu has launched driverless airport transportation services in Wuhan, becoming China's first-ever provider of autonomous rides to and from airports. - As the world's largest autonomous driving ride-hailing service provider, Baidu stands as the sole ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/n34045931/baidu-becomes-first-in-china-to-offer-driverless-airport-rides",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/n34045931/baidu-becomes-first-in-china-to-offer-driverless-airport-rides",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34045931",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34045931",
-      "publishedDateTime": "2023-08-25T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -50,20 +50,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "UK Space sector’s need for AI and machine learning experts"
-    excerpt: "The UK space sector urgently seeks AI and machine learning experts to capitalise on emerging technologies, according to a recent survey"
-    publishedDateTime: 2023-09-13T10:12:00Z
-    webUrl: "https://www.openaccessgovernment.org/uk-space-sectors-need-for-ai-and-machine-learning-experts/166317/"
-    type: article
-    provider:
-      name: openaccessgovernment
-      domain: openaccessgovernment.org
-    quality: 54
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/09/iStock-1418045822-scaled.jpg"
-        width: 2000
-        height: 1077
-        isCached: true
 
 secured: "EZUuON/4DbK0EKi7PH1a1l/a/PNN+HJWPOuC+/Zf9JNDmz3raSguhJrVaqSMkIY11C85ppGJFpA3EpfTGPRJEIgOUUsesvgFE72C7UgD0AshQs5LNgeAhfIZ5b77fezPmfbVS8C+MgUNaEXOrDXxoXp/bV24Zk55vNoY45Kj1CXAdZm/CxblpkzT4wFdEvM+PUcD/QzJRSSt4QR3t7oRS0BERia4nQZrvt1kDq3Jibwjl3nc/TXJ1pPAOVm0WBnlyS1tHPIvzL3JMzq4hrM6cgiR9IT6f83ROC9OzmANSDOY4lmyNHBFVkccDFqmhGyww8XuzJH7Crb/8JeRZn77A5pSkBxQSAPpOVwWcFkHcnR4Po/dn9jKBy9qlD9pLrgqSNsNoP558hPbp3de1DwaZhv05kfDEe4DfsgivX/yg2MzEigpG03OnuI1O0YGMDBBfwneImdmnEleVXE+HuS/Mdv+qn383wE5Tkd6GIa5FCM2h98+pQOP35S7m7BroFQ7AHhseJFO86ihkg8txjQW9g==;1OK3stX+6c5wQCRQnbQc6g=="
 ---

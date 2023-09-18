@@ -18,45 +18,71 @@ topics:
   - AI
 
 related:
-  - title: "Navigating the Age of AI: The Role of a New Brain Industry"
-    excerpt: "To harness the benefits of AI and minimize its risks, we outlined an aggressive brain capital industrial strategy in a new research paper from Rice University’s Baker Institute for Public Policy. A mission-oriented approach is an important aspect of our strategy for advancing America’s brain capital."
-    publishedDateTime: 2023-09-15T01:12:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/building-brain-capital/202309/navigating-the-age-of-ai-the-role-of-a-new-brain-industry"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/building-brain-capital/202309/navigating-the-age-of-ai-the-role-of-a-new-brain-industry?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/building-brain-capital/202309/navigating-the-age-of-ai-the-role-of-a-new-brain-industry?amp"
+  - title: "Banking in the Modern Age: AI, Machine Learning, and Global Evolution"
+    excerpt: "Introduction The global banking industry is undergoing a profound transformation, driven by technological advancements, changing customer expectations, and regulatory developments. In this article, we will explore the current state of the banking industry worldwide,"
+    publishedDateTime: 2023-09-17T09:43:00Z
+    webUrl: "https://techbullion.com/banking-in-the-modern-age-ai-machine-learning-and-global-evolution/"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
+      name: Impacts
+      domain: techbullion.com
+    quality: 71
     images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-09/pexels-thisisengineering-3861969.jpg?itok=O7b4XPWg"
-        width: 1528
-        height: 800
+      - url: "https://techbullion.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-17-at-2.42.20-PM.jpeg"
+        width: 739
+        height: 415
         isCached: true
-  - title: "Leadership In The Age Of AI: Harnessing Data For Informed Choices"
-    excerpt: "The evolving landscape of AI, its impact on data-driven decision-making, and the importance of ethical AI practices in the professional realm is creating debate"
-    publishedDateTime: 2023-09-14T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/benjaminlaker/2023/09/14/leadership-in-the-age-of-ai-harnessing-data-for-informed-choices/"
+  - title: "How Health Tech is Squashing AI Biases and Leveling the Playing Field in Healthcare"
+    excerpt: "By making large amounts of diverse data widely available, healthcare institutions can feel confident about the evaluation, creation, and validation of algorithms as they're transitioned from ideation to use."
+    publishedDateTime: 2023-09-14T21:34:00Z
+    webUrl: "https://medcitynews.com/2023/09/how-health-tech-is-squashing-ai-biases-and-leveling-the-playing-field-in-healthcare/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Artificial intelligence: who are the leaders in autonomous delivery management for the consumer industry?"
-    excerpt: "They usually comprise autonomous drones or robots that receive delivery instructions and payloads ... established consumer companies, and up-and-coming start-ups engaged in the development and application of autonomous delivery management."
-    publishedDateTime: 2023-09-15T07:06:00Z
-    webUrl: "https://www.just-food.com/data-insights/innovators-ai-autonomous-delivery-management-consumer/"
-    type: article
-    provider:
-      name: Just-Food
-      domain: just-food.com
-    quality: 22
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 48
     images:
-      - url: "https://www.just-food.com/wp-content/uploads/sites/28/2023/09/Artificial-Intelligence-in-Foodservice-1.jpg"
-        width: 1280
-        height: 720
+      - url: "https://medcitynews.com/uploads/2021/12/GettyImages-177052337.jpg"
+        width: 724
+        height: 483
         isCached: true
+  - title: "How AI and Blockchain are Changing the Tax Industry"
+    excerpt: "Like many industries, tax is undergoing an AI and blockchain revolution. But the savvy tax professionals who embrace these technologies--and their clients--will be able to work more efficiently, reduce the risk of errors and concentrate on high-value work."
+    publishedDateTime: 2023-09-14T16:31:00Z
+    webUrl: "https://www.inc.com/inc-masters/how-ai-and-blockchain-are-changing-th.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1322421028_ulnbt4.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Smart money is on learning about Artificial Intelligence"
+    excerpt: "Sir Tom and Lord Haughey urge assistance for Scottish companies and entrepreneurs to help them better understand Artificial Intelligence (AI)"
+    publishedDateTime: 2023-09-18T03:47:00Z
+    webUrl: "https://www.heraldscotland.com/politics/23794564.smart-money-learning-artificial-intelligence/"
+    type: article
+    provider:
+      name: heraldscotland
+      domain: heraldscotland.com
+    quality: 37
+    images:
+      - url: "https://www.heraldscotland.com/resources/images/14594922/?type=og-image"
+        width: 945
+        height: 630
+        isCached: true
+  - title: "Cash Treasury Trading in the Age of AI"
+    excerpt: "In this contributed article, Shankar Narayanan, Head of Trading Research, Quantitative Brokers, discusses how In the era of artificial intelligence, cash treasury trading presents a unique opportunity to integrate new technologies,"
+    publishedDateTime: 2023-09-16T10:00:00Z
+    webUrl: "https://insidebigdata.com/2023/09/16/cash-treasury-trading-in-the-age-of-ai/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 19
 
 secured: "7itOMA0tlEWrHabK+CdY5N06FzysgpH8a6OfbFfmz1GnlTNRs3wH82kv82Xa3iV4Z3Ooh+AAdPkKwSVHwSHt5wbmRAu0qt4CCjGlacNzMi1ZhQc7/lGXzli2DHRwPbuK4R95G3RVTe1NX2VCHlh1egs7gJj7dzZN/gBJ3I6sTIxzX8xPRI8oEuH7Fj4lg2u57aaajW/LjnrFGEGUIh2URhAgTri+cmoSRUwpqcnXuMKC6dWdXPxEd23XBOw3S995vQNwqjzR2QgJ7WTcpEXFZzQamENNapwUEhC9vzKkEqskQuiRQ95XJzdQh02gD+9kx8UsUCRoZsv3ByFWP9Jh4hxUvzKSzYwRMVL1M6x++xU=;v0cp6uD2HiYlmYZaEVd/MQ=="
 ---

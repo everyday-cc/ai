@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice can close economic gap for Indigenous Australians, says Julian Leeser"
-    excerpt: "Former Liberal frontbencher supports referendum as a way of getting First Nations people ‘to the same starting line’ as other Australians"
-    publishedDateTime: 2023-09-13T09:47:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2023/sep/13/voice-can-close-economic-gap-for-indigenous-australians-says-julian-leeser"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/sep/13/voice-can-close-economic-gap-for-indigenous-australians-says-julian-leeser"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/sep/13/voice-can-close-economic-gap-for-indigenous-australians-says-julian-leeser"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 42
-    images:
-      - url: "https://i.guim.co.uk/img/media/69081abf77a67b19cd6d3e0d678c8017139bdc52/0_304_4554_2732/master/4554.jpg?width=620&quality=85&auto=format&fit=max&s=a40d80af7771d04731bde722b09a4510"
-        width: 620
-        height: 372
-        isCached: true
   - title: "I thought the voice debate might turn Australians into constitutional experts. I was wrong"
     excerpt: "It was when the referendum became partisan that we lost the chance of putting it clearly in its historical context"
     publishedDateTime: 2023-09-16T23:06:00Z
@@ -143,6 +127,6 @@ related:
         height: 382
         isCached: true
 
-secured: "WDYB0vCuXGkGjdbNM6Dyynuauah/w1JmpkOWrbtrhrnMXrH7WKMS44enUmUHrDyzyEvcPP1aKUQpsa4W/h/ZnYkIghXe7Ux4ykFwa6BDcB4v5K3J6uWP1Si4STKfeFbGjGeLHdpXLkm39X83r+9clAHVdy4ZpTchX2WkbM2edwgwcYcXmDgxmQ9VxcTZ4tPJcVFrcNDQThWa1w3z9asGRoZ4qcfIHuXkpbMGCV8GUuMhlM8MeIsDUan5orm1lRCwovurVBYPOp4U5NCaXqr68/xNjElAxrrx3c47TRJNKVhNjFBJyyVUpanv2i6pwSazoZJ7N8A+bWpfKLjUurpkbicS4RHTIdaKelUZ5vZc9FE=;UpraSin25AJ5RntU/6btAw=="
+secured: "vp9QRs8k4HL/1NxZz3BEEHL3fv+AuK/q0jwbWS/o1/gzu+g7MRoo1fkujBWCldawvTpNxki57cyDmA0zlbZY7bdgXbsz13iNja1xB3OwmDaucvYK4u4Kf2LJrDt8tGIuhpmzEB3REXD2pCWqfOeAI0HaNK8YEf8QCzgPxcQhXJs+hGnf28OSibPcgrKwFIrqOWwKi3O0IcmMxfmZqaeYCJDpcpzzrI0jgTvK8wy/1+ztmVb5mQWQuhCAcWyZ2oGIqXvyRcZN2i+hgiug08SD9OZB2GK+pOWQzN8AhAs9QLDhFn5PNdfgQNlnmxm0o2hCkUahBSEDJimmbQDKvQpMFZRfl23eHjkL8DyRIfr5wlTCmYSpcK72DQ4w1CFZja4q34f+tMiiwtCCeu1v9LQsUMnpQHUV+XRE0/N7PVUcIi//1iiDNKEPlJtGxP6Zz1+Ru6yFn+D52Fm+nMwLCDxzL3VFMrxOpcphMBHOYjKfJXqBG42dQiZp//yBb/zX/VKQZr6RS1yfkjvAsOafD4VnXQ==;D1LxOAZgJ82k2NhT7u22eA=="
 ---
 

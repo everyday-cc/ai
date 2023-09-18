@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "AI start-up Beijing Fourth Paradigm among 3 Chinese firms launching Hong Kong IPOs"
+    excerpt: "Beijing Fourth Paradigm, an AI start-up, is aiming to raise up to US$144 million by selling 18.4 million shares in a price range of HK$55.60 to HK$61.16 each, according to its regulatory filings. Three cornerstone investors, headed by New China Capital ..."
+    publishedDateTime: 2023-09-18T01:59:00Z
+    webUrl: "https://www.scmp.com/business/markets/article/3234883/ai-start-beijing-fourth-paradigm-among-3-chinese-firms-launching-hong-kong-ipos"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 61
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/09/18/efbe43ba-b3f0-4250-90a3-fe94e4cbd589_461cc316.jpg?itok=hGHPvqWd&v=1695001542"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "HVWJjDVs4ERksgHYsza6Uu5X0zZtKt25TxOHyxETdEho7RL2+iVeSFSQccadoe7p1Yzus2IGKvbtWgJ/LpMP2rUDSFpY0DKQ5bU9CWzXiLbLEhDehIf9ymn0+2ezXsev3h5t5mb7jffwNgNZIg2s2rpm0MTOSjTujoJb3uuUZNsaXBpIKqzJF8Kt3bg2o4i2Yo4A1Vxc7A5bPSCgl2OiNJiyyvHplMdgMGRS6wlgzzVmXNtWG1S1g44sEXUmIRIgjebxu8iHnYzDE2UMyvuQa1PLfpFUkueIFae5QYxdmB2MdSpD/rF9ZSlIJNEg2WZmjvKnvfsSuFw82alSSgIb2m6asCGTErRRDabnpmFW1b4=;7zgnBzs3ClF5brYVEouVmQ=="
 ---

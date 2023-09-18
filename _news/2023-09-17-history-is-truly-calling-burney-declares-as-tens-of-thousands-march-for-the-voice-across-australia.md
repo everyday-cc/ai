@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice can close economic gap for Indigenous Australians, says Julian Leeser"
-    excerpt: "Former Liberal frontbencher supports referendum as a way of getting First Nations people ‘to the same starting line’ as other Australians"
-    publishedDateTime: 2023-09-13T09:47:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2023/sep/13/voice-can-close-economic-gap-for-indigenous-australians-says-julian-leeser"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/sep/13/voice-can-close-economic-gap-for-indigenous-australians-says-julian-leeser"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/sep/13/voice-can-close-economic-gap-for-indigenous-australians-says-julian-leeser"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 42
-    images:
-      - url: "https://i.guim.co.uk/img/media/69081abf77a67b19cd6d3e0d678c8017139bdc52/0_304_4554_2732/master/4554.jpg?width=620&quality=85&auto=format&fit=max&s=a40d80af7771d04731bde722b09a4510"
-        width: 620
-        height: 372
-        isCached: true
   - title: "I thought the voice debate might turn Australians into constitutional experts. I was wrong"
     excerpt: "It was when the referendum became partisan that we lost the chance of putting it clearly in its historical context"
     publishedDateTime: 2023-09-16T23:06:00Z

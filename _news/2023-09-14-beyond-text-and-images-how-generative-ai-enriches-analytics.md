@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/14/beyond-tex
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/14/beyond-text-and-images-how-generative-ai-enriches-analytics/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 127
+published: true
 
 provider:
   name: Forbes
@@ -30,21 +30,35 @@ images:
     isCached: true
 
 related:
-  - title: "SAS Viya analytics suite gets SaaS-based AI app development tools"
-    excerpt: "The new offerings will allow enterprises to automate the setup and integration of a cloud-native technology stack to let developers focus on getting AI models and AI-driven applications into production."
-    publishedDateTime: 2023-09-13T10:41:00Z
-    webUrl: "https://www.infoworld.com/article/3706378/sas-viya-analytics-suite-gets-saas-based-ai-app-development-tools.html"
-    ampWebUrl: "https://www.infoworld.com/article/3706378/sas-viya-analytics-suite-gets-saas-based-ai-app-development-tools.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706378/sas-viya-analytics-suite-gets-saas-based-ai-app-development-tools.amp.html"
+  - title: "Machine Learning and AI in Algo trading: Predictive analytics for stocks"
+    excerpt: "Gain market edge: AI and ML in an algo trading system can be leveraged to automate some of the laborious repetitive processes that were previously done manually. Additionally, AI systems have the ability to continuously watch the stock market around the clock. As a result of their wider reach, traders gain an added advantage."
+    publishedDateTime: 2023-09-15T11:00:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-machine-learning-and-ai-in-algo-trading-predictive-analytics-for-stocks-3244943/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-machine-learning-and-ai-in-algo-trading-predictive-analytics-for-stocks-3244943/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-machine-learning-and-ai-in-algo-trading-predictive-analytics-for-stocks-3244943/lite/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 73
     images:
-      - url: "https://images.idgesg.net/images/article/2023/01/shutterstock_1936992907-100936041-large.jpg?auto=webp&quality=85,70"
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-15T162227.384.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Emory Healthcare names 1st data, analytics chief"
+    excerpt: "Joe Depa has been named the inaugural chief data and analytics officer of Emory Healthcare. In this role, he will use data and AI to improve patient outcomes and ease clinician burnout."
+    publishedDateTime: 2023-09-13T14:24:00Z
+    webUrl: "https://www.beckershospitalreview.com/hospital-executive-moves/emory-healthcare-names-1st-data-analytics-chief.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
         isCached: true
   - title: "SAS Viya analytics suite gets SaaS-based AI app development tools"
     excerpt: "The new offerings will allow enterprises to automate the setup and integration of a cloud-native technology stack to let developers focus on getting AI models and AI-driven applications into production."
@@ -60,6 +74,15 @@ related:
         width: 501
         height: 315
         isCached: true
+  - title: "IntelePeer Announces New AI-Powered Analytics Engine for SmartFlows Platform"
+    excerpt: "IntelePeer, a leading provider of AI-powered communications automation solutions, announced today an extension to its SmartFlows platform, the Call Su"
+    publishedDateTime: 2023-09-14T17:16:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230914883718/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 16
 
 secured: "5NDSawR9f7J7O6SIPSpypNIY9udbRJZsaKnGIK3cwl6lgD5jCegCyqiY+wr62D2J6AM6QuJ+fJK88uxqVMr7NolsHGaVHtlsSU367W7s5iGXKMWxPSWEmMQWn9Rl2Z9D6/ukSi4BRdXIdAWKDH9BccCRmUGvUzWoRhA9A/hD0He51gDjb8KwrdCaVVjNRxFe+phwwfGrWnOh5933rDhMRKNcwjQe1yGDhrrKY8Hj5mnL8b7OrvBK03aaUfwBhMOia7DQAv8BMhJdrv+I8ZS/vjdlVa7HG/5qK6KOMc2loWrg4X0BSFtyW0M11bvAEblrgyTPQWzBuNYFMmgblYoRuUhg58HNXzwYfaJMNjynn+c=;tNmaKVTdDPyOtiGjBezBbA=="
 ---

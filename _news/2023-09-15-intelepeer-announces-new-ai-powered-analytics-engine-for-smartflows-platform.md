@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Beyond Text And Images: How Generative AI Enriches Analytics"
+    excerpt: "Synthetic data isn’t exactly new: the concept has existed since the 1970s. But synthetic data capabilities have improved dramatically in recent years due to advances in AI and modeling. By 2024, Gartner has predicted that 60% of all data used for developing AI and analytics will be synthetically generated."
+    publishedDateTime: 2023-09-14T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/14/beyond-text-and-images-how-generative-ai-enriches-analytics/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/14/beyond-text-and-images-how-generative-ai-enriches-analytics/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/14/beyond-text-and-images-how-generative-ai-enriches-analytics/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/61d7457f3bc1dea938034ea8/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 673
+        isCached: true
   - title: "Machine Learning and AI in Algo trading: Predictive analytics for stocks"
     excerpt: "Gain market edge: AI and ML in an algo trading system can be leveraged to automate some of the laborious repetitive processes that were previously done manually. Additionally, AI systems have the ability to continuously watch the stock market around the clock. As a result of their wider reach, traders gain an added advantage."
     publishedDateTime: 2023-09-15T11:00:00Z
@@ -35,21 +51,33 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI and cloud computing training: Everything you need to know"
-    excerpt: "Specialised areas such as ethics in AI, bias reduction, and AI governance are also becoming integral parts of comprehensive AI training programs. In Cloud Computing training, understanding various platforms, migration strategies, security protocols ..."
-    publishedDateTime: 2023-09-17T11:50:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-ai-and-cloud-computing-training-everything-you-need-to-know-3246235/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-and-cloud-computing-training-everything-you-need-to-know-3246235/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-and-cloud-computing-training-everything-you-need-to-know-3246235/lite/"
+  - title: "Emory Healthcare names 1st data, analytics chief"
+    excerpt: "Joe Depa has been named the inaugural chief data and analytics officer of Emory Healthcare. In this role, he will use data and AI to improve patient outcomes and ease clinician burnout."
+    publishedDateTime: 2023-09-13T14:24:00Z
+    webUrl: "https://www.beckershospitalreview.com/hospital-executive-moves/emory-healthcare-names-1st-data-analytics-chief.html"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design232.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "SAS Viya analytics suite gets SaaS-based AI app development tools"
+    excerpt: "The new offerings will allow enterprises to automate the setup and integration of a cloud-native technology stack to let developers focus on getting AI models and AI-driven applications into production."
+    publishedDateTime: 2023-09-13T23:36:00Z
+    webUrl: "https://www.reseller.co.nz/article/708743/sas-viya-analytics-suite-gets-saas-based-ai-app-development-tools/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 39
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_s_sas_institute.jpg"
+        width: 501
+        height: 315
         isCached: true
 
 secured: "iL/j0DA9FP88FNdNaQdkXjQSr1Mglw253lDl97l0XF8DEkdBNLizSqE8bjo/AKRubQMBvfWtkZVeUSljnBHdGRi/TJmBv3W+0bqUkhu+fippnvjeM9/PggHmWI0ALO48lDZA3J03ZSUlDjsnFN4NBeBNU5UWXODReOewE6AbUZY6nPSROsT9uS3bPMF+/b6i1ZulKgwQXk4Wlyl6pVnmeqOxivy6ZEmNBy4AE89KWz8y6nHJnNc4Osx6slXCs0QGWuO+XoUS87CxIIaisyBrFjWmko++uHgIppNxlCcg3lvZSTuULqa41O24IOJcCEtafAIUx6bQMUU+fTK0iGNh+YWx6eozNK0SmANYPeO1iknKNnjh8Ex7vjqVvmQOnaxOWtu+WmY4FWq4j4fpXhoijF9doaKinYhCEhDi37tHsAkUI7gn9vr1kdu+MZPfNrC/fyBP/bfl5vhGfdNO+Ed8Pfv7re+OxEH2oH2S5XraPb90VSDeVu/SPckuFXJSK1I1PC6QTMD6Gh8tsk77Eu6ukQ==;KKD6ZxC+rUyh2JzkKVOXcA=="

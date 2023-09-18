@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/baba-jd-bidu-3-ai-
 webUrl: "https://markets.businessinsider.com/news/stocks/baba-jd-bidu-3-ai-savvy-chinese-internet-stocks-analysts-love-1032628816"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu (BIDU) Declined Due to Correction in Chinese Stocks"
-    excerpt: "we remain enthusiastic about Baidu’s longer-term opportunity for revenue growth and margin expansion across internet search, cloud, autonomous driving, artificial intelligence and online video.”"
-    publishedDateTime: 2023-09-13T10:35:00Z
-    webUrl: "https://www.insidermonkey.com/blog/baidu-bidu-declined-due-to-correction-in-chinese-stocks-1193636/"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 39
-    images:
-      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2015/05/shutterstock_171252059.jpg"
-        width: 1000
-        height: 688
-        isCached: true
   - title: "Chinese video game designers experiment with AI"
     excerpt: "Some video game designers see AI as a skill enhancer. The software still needs human input to design characters."
     publishedDateTime: 2023-09-13T13:39:00Z

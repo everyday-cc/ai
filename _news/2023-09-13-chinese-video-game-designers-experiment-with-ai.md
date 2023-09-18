@@ -32,20 +32,6 @@ related:
         width: 1024
         height: 344
         isCached: true
-  - title: "Baidu (BIDU) Declined Due to Correction in Chinese Stocks"
-    excerpt: "we remain enthusiastic about Baidu’s longer-term opportunity for revenue growth and margin expansion across internet search, cloud, autonomous driving, artificial intelligence and online video.”"
-    publishedDateTime: 2023-09-13T10:35:00Z
-    webUrl: "https://www.insidermonkey.com/blog/baidu-bidu-declined-due-to-correction-in-chinese-stocks-1193636/"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 39
-    images:
-      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2015/05/shutterstock_171252059.jpg"
-        width: 1000
-        height: 688
-        isCached: true
 
 secured: "NCoNeGdwS4RSPAxqHIM7Qlw13EGmilRY6dwtPzaY/LIDxlUkBOF/o05nebkAdPVHxqFmQj3+MS8AVHMB0/iZ+1e4/tnRyaeZ1rdGnXpNr1C/da0LH0u7gIy2VvojoKUYVoXF7PWH9CkmDhDEWEItMfzwCKKzRnyZpWx+QW1KoU9y77yzYkYREqRhlPNCEtMCer9limcFBjQGnr42XEKZXjv7kgEhPlcPGChQGPgZtm02zmMDZaxwHA5OsNfEl7etCc5YzwTLwPQTzs+LExIC0t9K4gYTkBnHteJmHSCbvvGLjKN0zin4sZc6r58x9dffWSUmMsvXxG7KtFUyovF2MRH3bHjhS5R9+3EywMJ7kRRvSFmB9cXvtn+d3QTtm5+xhBtT52UVNTmibsD1fPGivHBHFZx19XhI7oVZr6EPegmyCXr0bQXyuKJiYl3aMlw71esPV4c9gsQ/EUB5w7e85hMmb+qIPzOr2gsB8JP3DPmkD8jy+iSQbvdfva0+nzUPbIWk1jyrmP/jC3MEX+kIVw==;VFEKrOi0cdf2Yn4zD1TKSw=="
 ---

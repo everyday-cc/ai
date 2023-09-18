@@ -252,6 +252,20 @@ related:
         width: 500
         height: 354
         isCached: true
+  - title: "Microsoft and Oracle’s secret is out as they announce Oracle Database@Azure"
+    excerpt: "Microsoft and Oracle have announced Oracle Database@Azure, a solution for running Oracle database services on Microsoft Azure, whose hints they dropped a"
+    publishedDateTime: 2023-09-15T13:24:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-and-oracles-secret-is-out-as-they-announce-oracle-databaseazure/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 52
+    images:
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/09/Microsoft-Oracle.png"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Oracle to colocate in Azure data centers under expanded Microsoft partnership"
     excerpt: "Oracle Corp. and Microsoft Corp. are expanding their four-year-old cloud relationship with a deal that will colocate Oracle’s Exadata database-optimized server and Real Application Clusters in Microsoft Azure data centers."
     publishedDateTime: 2023-09-14T22:07:00Z

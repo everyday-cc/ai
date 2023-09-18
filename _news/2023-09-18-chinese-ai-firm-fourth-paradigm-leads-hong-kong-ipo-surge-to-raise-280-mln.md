@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/markets/deals/chinese-ai-firm-fourth-parad
 webUrl: "https://www.reuters.com/markets/deals/chinese-ai-firm-fourth-paradigm-leads-hong-kong-ipo-surge-raise-280-mln-2023-09-18/"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI start-up Beijing Fourth Paradigm among 3 Chinese firms launching Hong Kong IPOs"
+    excerpt: "Beijing Fourth Paradigm, an AI start-up, is aiming to raise up to US$144 million by selling 18.4 million shares in a price range of HK$55.60 to HK$61.16 each, according to its regulatory filings. Three cornerstone investors, headed by New China Capital ..."
+    publishedDateTime: 2023-09-18T01:59:00Z
+    webUrl: "https://www.scmp.com/business/markets/article/3234883/ai-start-beijing-fourth-paradigm-among-3-chinese-firms-launching-hong-kong-ipos"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 61
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/09/18/efbe43ba-b3f0-4250-90a3-fe94e4cbd589_461cc316.jpg?itok=hGHPvqWd&v=1695001542"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Chinese AI firm Fourth Paradigm leads Hong Kong IPO surge to raise $280 million"
     excerpt: "Beijing Fourth Paradigm, an AI startup, is aiming to raise up to $144 million by selling 18.4 million shares in a price range of HK$55.60 to HK$61.16 each, according to its regulatory filings. Three cornerstone investors, headed by New China Capital ..."
     publishedDateTime: 2023-09-18T01:26:00Z

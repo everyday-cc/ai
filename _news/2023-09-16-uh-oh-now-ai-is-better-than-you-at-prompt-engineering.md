@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/uh-oh-now-ai-is-better-than
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/uh-oh-now-ai-is-better-than-you-at-prompt-engineering/"
 type: article
 quality: 89
-heat: 131
+heat: 132
 published: true
 
 provider:

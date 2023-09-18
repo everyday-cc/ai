@@ -7,8 +7,8 @@ originalUrl: "https://techbullion.com/banking-in-the-modern-age-ai-machine-learn
 webUrl: "https://techbullion.com/banking-in-the-modern-age-ai-machine-learning-and-global-evolution/"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 121
+published: true
 
 provider:
   name: Impacts
@@ -26,80 +26,66 @@ images:
     isCached: true
 
 related:
-  - title: "Haltia.AI champions ethical AI revolution"
-    excerpt: "Consistent with the UAE leadership’s vision for international impact and technological advancement, Haltia.AI invites companies and institutions worldwide to collaborate. \"The UAE stands as a beacon for global innovation and we aim to contribute to the UAE government’s legacy by spearheading partnerships in the ethical sphere,\" says Talal Thabet."
-    publishedDateTime: 2023-09-13T10:18:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/haltiaai-champions-ethical-ai-revolution-k7ctg65g"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/haltiaai-champions-ethical-ai-revolution-k7ctg65g?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/haltiaai-champions-ethical-ai-revolution-k7ctg65g?amp=1"
+  - title: "How Health Tech is Squashing AI Biases and Leveling the Playing Field in Healthcare"
+    excerpt: "By making large amounts of diverse data widely available, healthcare institutions can feel confident about the evaluation, creation, and validation of algorithms as they're transitioned from ideation to use."
+    publishedDateTime: 2023-09-14T21:34:00Z
+    webUrl: "https://medcitynews.com/2023/09/how-health-tech-is-squashing-ai-biases-and-leveling-the-playing-field-in-healthcare/"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 74
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 48
     images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NzgwZTg3ZWQtOGY5Ny00/0/talal-jpg.jpeg?f=3%3A2"
-        width: 900
-        height: 600
+      - url: "https://medcitynews.com/uploads/2021/12/GettyImages-177052337.jpg"
+        width: 724
+        height: 483
         isCached: true
-  - title: "How artificial intelligence can revolutionise science"
-    excerpt: "Then, starting in the late 19th century, the establishment of research laboratories, which brought together ideas, people and materials on an industrial scale, gave rise to further innovations such as artificial fertiliser,"
-    publishedDateTime: 2023-09-14T08:33:00Z
-    webUrl: "https://www.economist.com/leaders/2023/09/14/how-artificial-intelligence-can-revolutionise-science"
+  - title: "How AI and Blockchain are Changing the Tax Industry"
+    excerpt: "Like many industries, tax is undergoing an AI and blockchain revolution. But the savvy tax professionals who embrace these technologies--and their clients--will be able to work more efficiently, reduce the risk of errors and concentrate on high-value work."
+    publishedDateTime: 2023-09-14T16:31:00Z
+    webUrl: "https://www.inc.com/inc-masters/how-ai-and-blockchain-are-changing-th.html"
     type: article
     provider:
-      name: The Economist
-      domain: economist.com
-    quality: 43
-    images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230916_LDD002.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Shift Opus a UK Based Artificial Intelligence Services Company, Revolutionises Business Operations"
-    excerpt: "Leading the change in business optimisation, Shift Opus has announced its innovative solutions that redefine how companies perceive operational excellence. Offering an amalgamation of AI-driven automation,"
-    publishedDateTime: 2023-09-15T19:21:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/ab34627949/shift-opus-a-uk-based-artificial-intelligence-services-company-revolutionises-business-operations"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34627949"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34627949"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 43
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "India's Infosys signs $1.5 billion contract to leverage AI solutions"
-    excerpt: "Infosys did not name the company nor mention whether it is an existing client. Earlier in the month, U.S. chip maker Nvidia announced AI partnerships with Indian conglomerate Reliance Industries and the Tata group's Tata Consultancy Services to develop ..."
-    publishedDateTime: 2023-09-15T05:11:00Z
-    webUrl: "https://www.aol.com/news/indias-infosys-signs-1-5-044023191.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/b2bad645f2c7efb49959e2237419efef"
-        width: 800
-        height: 543
-        isCached: true
-  - title: "Ai That Matters: International Government Communication Forum 2023 Explores Practical, Ethical Complexities Of Artificial Intelligence"
-    excerpt: "SHARJAH, 13th September, 2023 (WAM) -- A thought-provoking session held on September 13, 2023, during the International Government Communication Forum (IGCF) in Sharjah brought together experts and thought leaders to explore the profound ethical questions raised by artificial intelligence (AI)."
-    publishedDateTime: 2023-09-14T04:53:00Z
-    webUrl: "https://menafn.com/1107065125/Ai-That-Matters-International-Government-Communication-Forum-2023-Explores-Practical-Ethical-Complexities-Of-Artificial-Intelligence"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
+      name: Inc
+      domain: inc.com
     quality: 37
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?875043"
-        width: 444
-        height: 249
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1322421028_ulnbt4.jpg"
+        width: 1024
+        height: 576
         isCached: true
+  - title: "Smart money is on learning about Artificial Intelligence"
+    excerpt: "Sir Tom and Lord Haughey urge assistance for Scottish companies and entrepreneurs to help them better understand Artificial Intelligence (AI)"
+    publishedDateTime: 2023-09-18T03:47:00Z
+    webUrl: "https://www.heraldscotland.com/politics/23794564.smart-money-learning-artificial-intelligence/"
+    type: article
+    provider:
+      name: heraldscotland
+      domain: heraldscotland.com
+    quality: 37
+    images:
+      - url: "https://www.heraldscotland.com/resources/images/14594922/?type=og-image"
+        width: 945
+        height: 630
+        isCached: true
+  - title: "Cash Treasury Trading in the Age of AI"
+    excerpt: "In this contributed article, Shankar Narayanan, Head of Trading Research, Quantitative Brokers, discusses how In the era of artificial intelligence, cash treasury trading presents a unique opportunity to integrate new technologies,"
+    publishedDateTime: 2023-09-16T10:00:00Z
+    webUrl: "https://insidebigdata.com/2023/09/16/cash-treasury-trading-in-the-age-of-ai/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 19
+  - title: "Gearing up. Quantum computers in the age of artificial intelligence"
+    excerpt: "Quantum computing and artificial intelligence (AI) are symbiotically-related technologies that hold the potential to revolutionise the way we live. Its ability to process vast amounts of data can significantly accelerate AI algorithms, enhance machine ..."
+    publishedDateTime: 2023-09-17T13:06:00Z
+    webUrl: "https://www.thehindubusinessline.com/business-tech/quantum-computers-in-the-age-of-artificial-intelligence/article67311129.ece"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 17
 
 secured: "AVOnYI4ZLoQf12O3DRA06rSBOXDsnf+Pg4qp8Q8+lzmOs490H5Yr2VSx5+AvHThIcufaqDVGfJ4+iJ6PuquVvAk9w4GswNSk+Ny4lu+Zfn0U72jypl7Gj2S/QMv6A/TA2yM5PvB7xomxlWWeKPWb/sU5VpueYzVSF3WxPxP/mg3ZW6p3DCzSJeZtXZkLb6M2LjQ/Ln961NF5hBZHPWcQLT/2T8nLQV6XPt7SJeW5LOIP59+jHFIFjBD8TRPAxfP4re/y1BE/ZgiNfVSJHEFrxtkkwhh/drdvBHgu3aYtAMuczok+JCux6SlN8OEPM/B0ssuCs8xPFCkFdCRoiP9pT6qzwe0RW8tbWXc6X1NTZpG4IcoyZLo8ZdyDTrGCM+7AaeOVNKfaJ4G4E/PevWkHNJo52or14IO0KLmhv/sd44gfiI5C+DY+Ehh7oQXG0PP+wrjQjU0vMa1ZGDxveDD03d7VXsVkOYwNdIS58uRfO8QIB/zzGqxbDvtnjHHuuERon1+Zq6RZd9uNk//agLAfqw==;QHz8VublUhdX1RFfyqWD8g=="
 ---

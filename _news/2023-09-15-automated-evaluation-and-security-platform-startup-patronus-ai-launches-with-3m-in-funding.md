@@ -67,20 +67,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "EY Unveils Fruits of $1.4 Billion Artificial-Intelligence Investment"
-    excerpt: "Consulting firm EY said it recently completed a $1.4 billion investment into artificial intelligence, the latest among a series of peers to make a billion-dollar announcement regarding the rapidly developing technology."
-    publishedDateTime: 2023-09-13T09:59:00Z
-    webUrl: "https://www.wsj.com/articles/ey-unveils-fruits-of-1-4-billion-artificial-intelligence-investment-ab8d5b5a"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 52
-    images:
-      - url: "https://images.wsj.net/im-850738/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "EY invests $1.4 billion in AI tech, launches new platform"
     excerpt: "The Big Four company says its new EY.ai platform aims to help organizations adopt AI technologies and will be embedded into existing EY technologies with millions of users."
     publishedDateTime: 2023-09-14T11:24:00Z

@@ -56,15 +56,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Cash Treasury Trading in the Age of AI"
-    excerpt: "In this contributed article, Shankar Narayanan, Head of Trading Research, Quantitative Brokers, discusses how In the era of artificial intelligence, cash treasury trading presents a unique opportunity to integrate new technologies,"
-    publishedDateTime: 2023-09-16T10:00:00Z
-    webUrl: "https://insidebigdata.com/2023/09/16/cash-treasury-trading-in-the-age-of-ai/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 19
 
 secured: "72N7e8UBRn0kxznRgSVHUj2ElOsGHgn1quANYZKgCEU4EXUUWDpgqTx/6UvodUMXMZ1pFK4x4/w6paBlJ8MT1xtRySX0yXpl7UUdHSfLKz/XYUkseE45pPwD0xVtGn3dRCB+V1bFMwy7JoZj6WbI/G83JyNwftyVh9gj+k8A+3i2KUWxn8Qpiw7OYR4m8QpKt/TQ4rhHZVhavJ2JduI3X68EzeLaLf48ogQEgMFvhJ8JqjPwVn+II5uwxZXT7zaywTvyCADji4+AhNreua9kDWPP+KVRJ5zGGFCXos9cAB2K1OHHvJdHwQoZddlmNy4vvc1u9aWkTvM4psAZ9qJgbvU0DV/jEisC3iHaXi2aHX4=;W47d8ynQsR3jfuK8YuaMYQ=="
 ---

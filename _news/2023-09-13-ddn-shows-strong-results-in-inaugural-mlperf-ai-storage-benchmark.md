@@ -26,20 +26,6 @@ images:
 
 related:
   - title: "DDN Storage Solutions Deliver 700% Gains in AI and Machine Learning for Image Segmentation and Natural Language Processing"
-    excerpt: "DDN ®, the global leader in artificial intelligence (AI) and multi-cloud data management solutions, today announced impressive performance results of its AI storage platform for the inaugural AI storage benchmarks released this week by MLCommons Association."
-    publishedDateTime: 2023-09-13T10:26:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/09/13/9879990.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 49
-    images:
-      - url: "https://mma.prnewswire.com/media/53574/datadirect_networks_logo.jpg"
-        width: 400
-        height: 275
-        isCached: true
-  - title: "DDN Storage Solutions Deliver 700% Gains in AI and Machine Learning for Image Segmentation and Natural Language Processing"
     excerpt: "DDN®, a leader in artificial intelligence (AI) and multi-cloud data management solutions, announced impressive performance results of its AI storage platform for the inaugural AI storage benchmarks released this week by MLCommons Association."
     publishedDateTime: 2023-09-14T10:00:00Z
     webUrl: "https://insidebigdata.com/2023/09/14/ddn-storage-solutions-deliver-700-gains-in-ai-and-machine-learning-for-image-segmentation-and-natural-language-processing/"

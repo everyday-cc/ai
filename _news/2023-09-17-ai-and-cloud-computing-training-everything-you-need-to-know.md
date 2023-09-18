@@ -9,8 +9,8 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-and-cloud-computing-training-everything-you-need-to-know-3246235/lite/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: The Financial Express
@@ -27,31 +27,59 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning and AI in Algo trading: Predictive analytics for stocks"
-    excerpt: "Gain market edge: AI and ML in an algo trading system can be leveraged to automate some of the laborious repetitive processes that were previously done manually. Additionally, AI systems have the ability to continuously watch the stock market around the clock. As a result of their wider reach, traders gain an added advantage."
-    publishedDateTime: 2023-09-15T11:00:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-machine-learning-and-ai-in-algo-trading-predictive-analytics-for-stocks-3244943/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-machine-learning-and-ai-in-algo-trading-predictive-analytics-for-stocks-3244943/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-machine-learning-and-ai-in-algo-trading-predictive-analytics-for-stocks-3244943/lite/"
+  - title: "Employees are increasingly getting 'AI Anxious' — they're worried about falling behind on AI and even pretending to be 'in the know' to colleagues"
+    excerpt: "About 40% of the 29,000 workers surveyed by LinkedIn said they feel overwhelmed about not being able to keep up with new AI developments."
+    publishedDateTime: 2023-09-14T03:52:00Z
+    webUrl: "https://www.businessinsider.com/employees-ai-anxious-falling-behind-pretending-linkedin-survey-chatgpt-2023-9"
+    ampWebUrl: "https://www.businessinsider.com/employees-ai-anxious-falling-behind-pretending-linkedin-survey-chatgpt-2023-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/employees-ai-anxious-falling-behind-pretending-linkedin-survey-chatgpt-2023-9?amp"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 73
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-15T162227.384.jpg"
+      - url: "https://i.insider.com/6502799c1afe8f0019ea1922?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "IntelePeer Announces New AI-Powered Analytics Engine for SmartFlows Platform"
-    excerpt: "IntelePeer, a leading provider of AI-powered communications automation solutions, announced today an extension to its SmartFlows platform, the Call Su"
-    publishedDateTime: 2023-09-14T17:16:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230914883718/en/"
+  - title: "Tech companies using your personal data to train AI"
+    excerpt: "Big tech companies like Google, Meta and Microsoft are accessing your data to teach AI to essentially pretend to be human. Geoffrey Fowler, tech columnist at the Washington Post, joined CBS News to explain how."
+    publishedDateTime: 2023-09-14T20:11:00Z
+    webUrl: "https://www.cbsnews.com/video/how-your-personal-data-can-be-used-to-train-ai/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 16
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/14/f9cc8f71-d185-4ad6-8868-3b9d92d1f63f/thumbnail/1200x630/b241d6a4290ba1adbab28687bba2d2aa/cbsn-fusion-how-your-personal-data-can-be-used-to-train-ai-thumbnail-2290873-640x360.jpg?v=6616762727d81e1cb010134e0c556e29"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Why picking the right AI-credit decisioning partner matters"
+    excerpt: "As financial institutions continue to evaluate AI underwriting solutions to incorporate into their lending strategies, recognizing the distinction between"
+    publishedDateTime: 2023-09-14T17:16:00Z
+    webUrl: "https://www.cuinsight.com/why-picking-the-right-ai-credit-decisioning-partner-matters/"
+    type: article
+    provider:
+      name: CUInsight
+      domain: cuinsight.com
+    quality: 37
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2022/09/bigstock-Futuristic-Robot-Artificial-In-452602145.jpg"
+        width: 1000
+        height: 500
+        isCached: true
+  - title: "‘There is no work to balance’: how shrinking budgets, Covid and AI shook up life in consulting"
+    excerpt: "Now companies from Accenture to EY and McKinsey are slashing thousands of jobs. The valuations of consultancy businesses are falling — one reason EY pulled its Project Everest plan to separate its accounting and consultancy arms — while the industry’s reputation is under attack following scandals such as firms’ misconduct in South Africa."
+    publishedDateTime: 2023-09-18T03:00:00Z
+    webUrl: "https://www.ft.com/content/e3cfa50b-d7ef-4f7c-bf08-c1dd6e457dba"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 5
 
 secured: "9xrYO9LlQPVNb7s/4uJRexmyHiWMLvKAkV4DgTan31ZtTkn0c8dxYhTxGbQm2HeSyIjBCjpSWnC4MQtBNaqYoTD7t4vsQB29gSivvPh4pjTZF/VcS/ii9Fr/WXETPFXZBiD2l9AdzacGAsoVgp/cmXxIlQDs47+zLXMxnSZ5HJVxmaSnAi1AI/rkDeflDY4o372YfvL1a2afHfK19e0YG78S+mCefgr834CD23QHmvToM+mK0SUd6B9PRLWBPz26QLDJCs5WRdg+eaNaIZ0Z42alQU3VC8JAbKD03d25W0ZWJjrhK+9FhehX1+6bjIASjD59LVVIyAa9Kv+9qSG3oqKmeeOwS3EdxN3mpUlieO8=;wL809Q1fzfb7v4m4eLApeQ=="
 ---

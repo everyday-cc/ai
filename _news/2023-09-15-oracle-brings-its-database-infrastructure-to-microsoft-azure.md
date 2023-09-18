@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/09/14/oracle-brings-its-database-infrast
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/14/oracle-brings-its-database-infrastructure-to-microsoft-azure/amp/"
 type: article
 quality: 104
-heat: 354
+heat: 364
 published: true
 
 provider:
@@ -243,6 +243,20 @@ related:
       - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-120923-cover-500px.jpg"
         width: 500
         height: 354
+        isCached: true
+  - title: "Microsoft and Oracle’s secret is out as they announce Oracle Database@Azure"
+    excerpt: "Microsoft and Oracle have announced Oracle Database@Azure, a solution for running Oracle database services on Microsoft Azure, whose hints they dropped a"
+    publishedDateTime: 2023-09-15T13:24:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-and-oracles-secret-is-out-as-they-announce-oracle-databaseazure/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 52
+    images:
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/09/Microsoft-Oracle.png"
+        width: 1024
+        height: 768
         isCached: true
   - title: "Stocks like Microsoft offer 'double digit growth' ahead thanks to AI, Wall Street analysts say"
     excerpt: "Wall Street analysts said this week there's a host of stocks that are positioned to profit from artificial intelligence."

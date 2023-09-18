@@ -140,20 +140,6 @@ related:
       name: Politico Europe
       domain: politico.eu
     quality: 30
-  - title: "Build Intelligent AI Bots That Speak Your Language: Maqsam's AI Conversational Chatbot Unveiled"
-    excerpt: "One of the standout features of Maqsam's AI conversational chatbot is its hyper-local advantage, especially in Arabia. For businesses operating in this diverse and dynamic market, where dialects and cultural nuances vary significantly, Maqsam's AI chatbot provides a localized solution that ensures meaningful interactions with customers."
-    publishedDateTime: 2023-09-13T09:27:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-build-intelligent-ai-bots-that-speak-language-maqsams-/2023/09/13/9879923.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 27
-    images:
-      - url: "https://mma.prnewswire.com/media/2208602/Maqsam.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Gibberish or Genius? Verbal Nonsense Reveals Limitations of AI Chatbots"
     excerpt: "In a new study, researchers tracked how current language models, such as ChatGPT, mistake nonsense sentences as meaningful. Can these AI flaws open new windows on the brain? We have now entered into a"
     publishedDateTime: 2023-09-14T15:16:00Z

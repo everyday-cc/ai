@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 802
         isCached: true
-  - title: "UK Space sector’s need for AI and machine learning experts"
-    excerpt: "The UK space sector urgently seeks AI and machine learning experts to capitalise on emerging technologies, according to a recent survey"
-    publishedDateTime: 2023-09-13T10:12:00Z
-    webUrl: "https://www.openaccessgovernment.org/uk-space-sectors-need-for-ai-and-machine-learning-experts/166317/"
-    type: article
-    provider:
-      name: openaccessgovernment
-      domain: openaccessgovernment.org
-    quality: 54
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/09/iStock-1418045822-scaled.jpg"
-        width: 2000
-        height: 1077
-        isCached: true
   - title: "The power of data and AI: Transforming industries through collaboration"
     excerpt: "The world is in the midst of a data revolution, and the integration of AI into industries is at the forefront of this transformation. Understanding the data that is being used, its source, representation, structure and format is essential for making AI and generative AI more effective and impactful, according to Day."
     publishedDateTime: 2023-09-13T21:11:00Z

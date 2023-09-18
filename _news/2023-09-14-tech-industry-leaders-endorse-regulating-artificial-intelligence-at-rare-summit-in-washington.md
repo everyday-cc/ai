@@ -26,43 +26,101 @@ images:
     isCached: true
 
 related:
-  - title: "Exclusive: California Bill Proposes Regulating AI at State Level"
-    excerpt: "A new bill in California, where many tech companies are based, adds to national and global efforts to regulate AI"
-    publishedDateTime: 2023-09-13T11:00:00Z
-    webUrl: "https://time.com/6313588/california-ai-regulation-bill/"
+  - title: "Tech leaders agree on AI regulation but divided on how in Washington forum"
+    excerpt: "Bill Gates, Sundar Pichai, Sam Altman and others gathered for ‘one of the most important conversations of the year’"
+    publishedDateTime: 2023-09-14T01:14:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/sep/13/tech-leaders-washington-ai-saferty-forum-elon-musk-zuckerberg-pichai?ref=biztoc.com"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/sep/13/tech-leaders-washington-ai-saferty-forum-elon-musk-zuckerberg-pichai"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/sep/13/tech-leaders-washington-ai-saferty-forum-elon-musk-zuckerberg-pichai"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 67
+      name: The Guardian
+      domain: theguardian.com
+    quality: 55
     images:
-      - url: "https://api.time.com/wp-content/uploads/2023/09/GettyImages-1298883331.jpg?quality&#x3D;85"
-        width: 1024
-        height: 683
+      - url: "https://i.guim.co.uk/img/media/744ecef2f0e77400e54ca14bbfd1f09e01a142e5/0_353_6052_3632/master/6052.jpg?width=620&quality=85&auto=format&fit=max&s=ac941ca885e7881395202455f3fc4c09"
+        width: 620
+        height: 372
         isCached: true
-  - title: "California Set to Ban Self-Driving Trucks With No Safety Driver"
-    excerpt: "The California Senate has passed a bill that requires autonomous trucks to have a human safety operator behind the wheel at all times while on public roads. Put simply, it's a ban on driverless trucks — a blow to an industry that has already struggled to ..."
-    publishedDateTime: 2023-09-14T17:47:00Z
-    webUrl: "https://futurism.com/the-byte/california-set-to-ban-self-driving-trucks-with-no-safety-driver"
+  - title: "What Washington should be doing to tackle AI risks"
+    excerpt: "An over-reliance on feedback from industry leaders and choosing to reset the clock on AI policy may benefit tech companies."
+    publishedDateTime: 2023-09-14T20:00:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2023-09-14/what-washington-should-be-doing-to-tackle-ai-risks"
     type: article
     provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 24
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
+  - title: "Elon Musk, Mark Zuckerberg and Sam Altman talk AI regs in Washington"
+    excerpt: "The world’s web and tech leaders met with Congress to discuss the rise of artificial intelligence and the pressing need for its regulation."
+    publishedDateTime: 2023-09-14T05:12:00Z
+    webUrl: "https://cointelegraph.com/news/elon-musk-sam-altman-bill-gates-discusses-ai-with-congress"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 39
     images:
-      - url: "https://wp-assets.futurism.com/2023/09/california-set-to-ban-self-driving-trucks-with-no-safety-driver.jpg"
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDkvNGRkMDAwYWYtODdhZi00MWNiLWJhZDQtY2Y0YjAzNmI2ZDRhLmpwZw==.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Tech leaders including Musk, Zuckerberg call for government action on AI"
+    excerpt: "Meta CEO Mark Zuckerberg, OpenAI CEO Sam Altman, and Microsoft co-founder Bill Gates offered diverging views on the risks of open-source AI research, according to people in the room."
+    publishedDateTime: 2023-09-14T00:13:00Z
+    webUrl: "https://www.pressherald.com/2023/09/13/tech-leaders-discuss-ai-policy-in-closed-door-senate-meeting/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 38
+    images:
+      - url: "https://w2pcms.com/wp-content/uploads/sites/10/2023/09/ai-senate-bg-5d8f1cd2-5269-11ee-9b7a-651fb7f6d786.jpg?w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "'Overwhelming consensus' to regulate AI, says Elon Musk"
+    excerpt: "Top tech leaders, including Elon Musk, Mark Zuckerberg, Sundar Pichai and Bill Gates, met with US lawmakers on Wednesday to discuss AI governance. 'This meeting may go down in history as being very important for the future of civilisation,' Musk said."
+    publishedDateTime: 2023-09-13T23:08:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/world-us-canada-66805038"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 37
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/3466/production/_131041431_p0gdfsjh.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Senate hosts Elon Musk and other tech leaders for AI regulation talks"
+    excerpt: "Senate Majority Leader Chuck Schumer called on the biggest names in tech for a bipartisan forum Wednesday on how lawmakers should approach artificial intelligence. CBS News senior business and tech correspondent Jo Ling Kent has more."
+    publishedDateTime: 2023-09-14T00:49:00Z
+    webUrl: "https://www.cbsnews.com/video/senate-hosts-elon-musk-tech-leaders-ai-regulation/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/14/eacff1ac-9102-4fb3-b092-bc52256724ed/thumbnail/1200x630/aa434577c43d08525c275a123239ce33/cbsn-fusion-what-concerns-major-issues-a-i-regulation-draws-thumbnail-2288760-640x360.jpg?v=b4264bc5922d2f5b2145bedc5a4d101e"
         width: 1200
         height: 630
         isCached: true
-  - title: "Exclusive: From back office to patient diagnostics, AI comes to health care"
-    excerpt: "Artificial intelligence has existed for years, but hospital systems and health care providers are just now getting in on the tech."
-    publishedDateTime: 2023-09-15T11:40:00Z
-    webUrl: "https://www.bizjournals.com/southflorida/news/2023/09/15/ai-in-health-care.html"
+  - title: "Bill Gates, Elon Musk and Mark Zuckerberg meeting in Washington to discuss future AI regulations"
+    excerpt: "Spread the loveIn a groundbreaking meeting, three of the world’s most influential tech leaders – Microsoft co-founder Bill Gates, Tesla and SpaceX CEO Elon Musk, and Facebook CEO Mark Zuckerberg – convened in Washington,"
+    publishedDateTime: 2023-09-15T14:20:00Z
+    webUrl: "https://www.thetechedvocate.org/bill-gates-elon-musk-and-mark-zuckerberg-meeting-in-washington-to-discuss-future-ai-regulations/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
+      name: thetechedvocate.org
+      domain: thetechedvocate.org
+    quality: 26
+    images:
+      - url: "https://www.thetechedvocate.org/wp-content/uploads/2019/01/T1-660x400.jpg"
+        width: 660
+        height: 400
+        isCached: true
 
 secured: "nIgdI05RjitQHfGbaw8a79sWzfmrlg8lJjC0/ZQK2qodtOm3aK3G80L7Ls4Uhu9+jFZRQuHlWb2EU+sdfveia/YD3EwJkN8mp+TO++vyoOeiV4RjjwKPgueC+sfjxI4N5WKclq+iK+ZBDDJPUGp3c7cur3J9S4qrjFdxAldswAQUdJhecL3pVR24KglWAQe5P+goVhZ6btJzusK91qS4A7WM+RJipxL6+wvfjSP54qIivYFXDSBS557t7cgJALrzKkO+hKvfIm19KOwYHZqkgawTLWpC1OyK+ryqg6IKZ3HFMuJLU7lDsPvzfrZyObJqn48Bh5j67Rw0rNmEj3ZhVQ9r0jxGzdGEMAXbnnw/txoUZU52cjdoU6VRWTudK4gmL958e3R5+pl8o2+hyekYwfzJPJHXxLA7l1sQlIJkNjhntClYkP9+tLklWSMutA+EYxbGZGILMWQMYNFcEMPG8ycXeN8gV6sT+wRm/lUKontKb4FmXYfLm0oQlQpPCnhsigXbdcp6bT9lKSrwxxUnNQ==;QhaGGKLm3uLtIH5qw7zBEQ=="
 ---

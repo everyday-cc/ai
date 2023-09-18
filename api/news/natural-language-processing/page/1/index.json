@@ -10,7 +10,7 @@
       "originalUrl": "https://www.scmp.com/news/asia/australasia/article/3234833/thousands-australia-rally-struggling-indigenous-recognition-referendum",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -285,6 +285,49 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-13-build-intelligent-ai-bots-that-speak-your-language-maqsams-ai-conversational-chatbot-unveiled.md",
+      "title": "Build Intelligent AI Bots That Speak Your Language: Maqsam's AI Conversational Chatbot Unveiled",
+      "excerpt": "One of the standout features of Maqsam's AI conversational chatbot is its hyper-local advantage, especially in Arabia. For businesses operating in this diverse and dynamic market, where dialects and cultural nuances vary significantly, Maqsam's AI chatbot provides a localized solution that ensures meaningful interactions with customers.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/09/13/9879923.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/09/13/9879923.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2208602/Maqsam.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-13T01:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1385,63 +1428,6 @@
         "AI",
         "Google AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-artificial-intelligence-transforming-healthcare-cybersecurity-and-communications.md",
-      "title": "Artificial Intelligence: Transforming Healthcare, Cybersecurity, and Communications",
-      "excerpt": "Artificial intelligence (AI) systems aim to reproduce human characteristics and processing power in a machine and outperform human speed and constraints. Machine learning and natural language processing, which are already commonplace in our daily lives ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/chuckbrooks/2023/09/04/artificial-intelligence-transforming-healthcare-cybersecurity-and-communications/",
-      "originalUrl": "https://www.forbes.com/sites/chuckbrooks/2023/09/04/artificial-intelligence-transforming-healthcare-cybersecurity-and-communications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64f654488751487eecb0157e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/chuckbrooks/2023/09/04/artificial-intelligence-transforming-healthcare-cybersecurity-and-communications/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2023/09/04/artificial-intelligence-transforming-healthcare-cybersecurity-and-communications/amp/",
-      "publishedDateTime": "2023-09-04T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare",
-        "Microsoft AI",
-        "AI Ethics",
-        "AI in Robotics",
-        "AI in Autos"
       ]
     }
   ],

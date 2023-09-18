@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-07-26-bmws-valet-parking-test-trades-red-vests-for-remote-driving-rigs.md",
+      "title": "BMW’s valet parking test trades red vests for remote driving rigs",
+      "excerpt": "Part of the autonomous driving dream is the ability to jump out of your vehicle in front of the store, mall, concert hall, or museum and let the car find its own parking while you enjoy life. No more creeping along in garages thinking you found the perfect spot, only to have your delight dashed by the motorcycle you couldn't quite see.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/cars/2023/07/bmws-valet-parking-test-trades-red-vests-for-remote-driving-rigs/",
+      "originalUrl": "https://arstechnica.com/cars/2023/07/bmws-valet-parking-test-trades-red-vests-for-remote-driving-rigs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/Automated-Valet-Parking-002-800x532.jpg",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/cars/2023/07/bmws-valet-parking-test-trades-red-vests-for-remote-driving-rigs/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/07/bmws-valet-parking-test-trades-red-vests-for-remote-driving-rigs/amp/",
+      "publishedDateTime": "2023-07-26T07:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-26-driverless-cars-could-get-ai-powered-heat-vision-for-nighttime-driving.md",
       "title": "Driverless cars could get AI-powered heat vision for nighttime driving",
       "excerpt": "Self-driving vehicles that struggle with recognising objects at night could get a boost from a heat-assisted detection and ranging system",

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/intl/blog/building-brain-capital/202
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/building-brain-capital/202309/navigating-the-age-of-ai-the-role-of-a-new-brain-industry?amp"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -49,15 +49,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Gearing up. Quantum computers in the age of artificial intelligence"
-    excerpt: "Quantum computing and artificial intelligence (AI) are symbiotically-related technologies that hold the potential to revolutionise the way we live. Its ability to process vast amounts of data can significantly accelerate AI algorithms, enhance machine ..."
-    publishedDateTime: 2023-09-17T13:06:00Z
-    webUrl: "https://www.thehindubusinessline.com/business-tech/quantum-computers-in-the-age-of-artificial-intelligence/article67311129.ece"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 17
 
 secured: "+rw8UyLDV4L8aSlWsmsXVWLLCEqf2rnZU+gUJEroO81RwPP4NfvHH2OjHYA7VPeRxwfzg/gZ80PMEOKVSnUBO55alA6J6nv21VlHE28DAG2rsboeouk0fYaZTV1ffqweWLm/EwvAGnHg0/O8WgfUiYMOMhae6HNhUPR1olPjTAjLto5rxWqqA3lF2QyWq3yvSQvKUzwLmLc+L0z93Hkyr+pTcEgtCJqPBQF9MvMP7vBCMJxaid+XKMf48lQnwaJZc45cIvgfAkcd9uKTtqaox6/gYznihWqiv661Is2ZxWBRtdmjRY/SJdGcrOQRQ66Z3vFfhw1PMG27tYFTF/8P7bJevg/N9BUadeR6lTmZiAY=;kvImKGWTnPcXAxlKh5/Rxw=="
 ---

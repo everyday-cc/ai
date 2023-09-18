@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/ey-launches-ai-platform-and-llm-after-1
 webUrl: "https://venturebeat.com/ai/ey-launches-ai-platform-and-llm-after-1-4-billion-investment/"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
         width: 1200
         height: 630
-        isCached: true
-  - title: "EY Unveils Fruits of $1.4 Billion Artificial-Intelligence Investment"
-    excerpt: "Consulting firm EY said it recently completed a $1.4 billion investment into artificial intelligence, the latest among a series of peers to make a billion-dollar announcement regarding the rapidly developing technology."
-    publishedDateTime: 2023-09-13T09:59:00Z
-    webUrl: "https://www.wsj.com/articles/ey-unveils-fruits-of-1-4-billion-artificial-intelligence-investment-ab8d5b5a"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 52
-    images:
-      - url: "https://images.wsj.net/im-850738/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Automated evaluation and security platform startup Patronus AI launches with $3M in funding"
     excerpt: "Automated evaluation and security platform Patronus AI Inc. today launched out of stealth mode and announced that it has raised $3 million in seed funding."

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-mac
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-machine-learning-and-ai-in-algo-trading-predictive-analytics-for-stocks-3244943/lite/"
 type: article
 quality: 73
-heat: 93
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Financial Express
@@ -27,21 +27,49 @@ images:
     isCached: true
 
 related:
-  - title: "AI and cloud computing training: Everything you need to know"
-    excerpt: "Specialised areas such as ethics in AI, bias reduction, and AI governance are also becoming integral parts of comprehensive AI training programs. In Cloud Computing training, understanding various platforms, migration strategies, security protocols ..."
-    publishedDateTime: 2023-09-17T11:50:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-ai-and-cloud-computing-training-everything-you-need-to-know-3246235/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-and-cloud-computing-training-everything-you-need-to-know-3246235/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-and-cloud-computing-training-everything-you-need-to-know-3246235/lite/"
+  - title: "Beyond Text And Images: How Generative AI Enriches Analytics"
+    excerpt: "Synthetic data isn’t exactly new: the concept has existed since the 1970s. But synthetic data capabilities have improved dramatically in recent years due to advances in AI and modeling. By 2024, Gartner has predicted that 60% of all data used for developing AI and analytics will be synthetically generated."
+    publishedDateTime: 2023-09-14T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/14/beyond-text-and-images-how-generative-ai-enriches-analytics/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/14/beyond-text-and-images-how-generative-ai-enriches-analytics/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/14/beyond-text-and-images-how-generative-ai-enriches-analytics/amp/"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design232.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/61d7457f3bc1dea938034ea8/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 675
+        height: 673
+        isCached: true
+  - title: "Emory Healthcare names 1st data, analytics chief"
+    excerpt: "Joe Depa has been named the inaugural chief data and analytics officer of Emory Healthcare. In this role, he will use data and AI to improve patient outcomes and ease clinician burnout."
+    publishedDateTime: 2023-09-13T14:24:00Z
+    webUrl: "https://www.beckershospitalreview.com/hospital-executive-moves/emory-healthcare-names-1st-data-analytics-chief.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "SAS Viya analytics suite gets SaaS-based AI app development tools"
+    excerpt: "The new offerings will allow enterprises to automate the setup and integration of a cloud-native technology stack to let developers focus on getting AI models and AI-driven applications into production."
+    publishedDateTime: 2023-09-13T23:36:00Z
+    webUrl: "https://www.reseller.co.nz/article/708743/sas-viya-analytics-suite-gets-saas-based-ai-app-development-tools/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 39
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_s_sas_institute.jpg"
+        width: 501
+        height: 315
         isCached: true
   - title: "IntelePeer Announces New AI-Powered Analytics Engine for SmartFlows Platform"
     excerpt: "IntelePeer, a leading provider of AI-powered communications automation solutions, announced today an extension to its SmartFlows platform, the Call Su"

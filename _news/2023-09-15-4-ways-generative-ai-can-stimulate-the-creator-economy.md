@@ -61,15 +61,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Adobe generative AI tool Firefly is now generally available"
-    excerpt: "The new generative AI image creation and editing tool has been trained on stock images and content in the public domain."
-    publishedDateTime: 2023-09-13T09:59:00Z
-    webUrl: "https://www.computerworld.com/article/3706648/adobe-generative-ai-tool-firefly-is-now-generally-available.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 17
 
 secured: "p1aD2m8GegYMDzv9VtQBB6lrOVTf+Vpi7Hmv8+VUqzaZFF5skOh3u/NLfADsen9SScGDywsv6bLGZ/20Mh//HfQMirE+JWRRyQIuXPnFi/RfK6YzIZ2hgiFAWGL3vGan0SEmeMnR8/fhlV6+ay1DpER5rHBIWBIEImfbkB2g4anpLMtmuGv7rITMj9uM1+4ZIUdYOasD+67RzrhxkH7XtPN9kELp3VM/cuDzHXbyJUdN7lnhF9ACjUqkKs61JoYFFMGJu8VO8irY7IvE+0F2XEv8cAbAQ6xLqBtvLEXn6kd5i4J1Z4dcGNMNP7u2dghVYkTRrgd4R72QChJ1TSc1+bBiz9TkE6bpoLvsvO804toZTRhFKKrmdqyXvndPKK6GL7o67ePe/TjpBy0fKu+1BkF1U1KNOPW2OHbvWvUrZz4MUDMdAIn9fKQlToQ9N6cLR7wK8q5134/QVBAloZG9VP5olwy4CzSay8k42aKQDe1gu/+kyhhYzTOVqfXObv0xkn7jiOtzFvEKR4pQ6X9J2g==;UrdXcgJfnPFEClXrkAdtrQ=="
 ---

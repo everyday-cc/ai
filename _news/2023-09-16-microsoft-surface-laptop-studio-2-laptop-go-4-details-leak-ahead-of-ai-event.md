@@ -245,6 +245,20 @@ related:
         width: 500
         height: 354
         isCached: true
+  - title: "Microsoft and Oracle’s secret is out as they announce Oracle Database@Azure"
+    excerpt: "Microsoft and Oracle have announced Oracle Database@Azure, a solution for running Oracle database services on Microsoft Azure, whose hints they dropped a"
+    publishedDateTime: 2023-09-15T13:24:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-and-oracles-secret-is-out-as-they-announce-oracle-databaseazure/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 52
+    images:
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/09/Microsoft-Oracle.png"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Stocks like Microsoft offer 'double digit growth' ahead thanks to AI, Wall Street analysts say"
     excerpt: "Wall Street analysts said this week there's a host of stocks that are positioned to profit from artificial intelligence."
     publishedDateTime: 2023-09-16T10:23:00Z

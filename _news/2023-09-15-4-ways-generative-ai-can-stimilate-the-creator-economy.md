@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/4-ways-generative-ai-can-tr
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/4-ways-generative-ai-can-transform-the-creator-economy/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -61,15 +61,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Adobe generative AI tool Firefly is now generally available"
-    excerpt: "The new generative AI image creation and editing tool has been trained on stock images and content in the public domain."
-    publishedDateTime: 2023-09-13T09:59:00Z
-    webUrl: "https://www.computerworld.com/article/3706648/adobe-generative-ai-tool-firefly-is-now-generally-available.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 17
 
 secured: "xShw67WbdF+VpQmSYoPzdS+KL36YaTT+/uG5gGE0HmflAwpfUG9emKTpI1xmjnuFllH3LDi4g8GHCegooqp1/tyRaD7lcKAcN6GMSH4fmHQZ57S1JRJHTSlr01W5KAMDXLNSBYN90odNG0aV5tL8+v+wHVv1du/AK8EAQ30d4RQjwQoI2cjO2WNAaK/Kf2i+WLzb9fCKg6C42NnWUceSYR1cHCHq9Lt9PMVCCQOMDcZIDQXm22BBIUuzmrV9eGyatEU1AC3byOX+Y4ifQ/74teos0Q4cKrhWQMGbq2FDfnafAHTZd2QraCpOO623Y/b6sHACjdgSqzmQkDK2IKpFis5ixkVyZW0tcoKt4MN0DTarEzQOXnz82g20Uia14GOV+FWR50jRow+qN+Zf8RYpzw0hNbQ8gzPRB47rWJVfh1iNdPV5s/5OXrObgq9Gmoda8FRJHszV6Jk5kCcM9222W9jHqCLZwXMKIuyfL1Qfo0/RW5lboz9zDw6Gwu/A0kJOfLhTUuwDENndVTNQFjVFAg==;7A6aOB3nDIzMmwUaqJcobA=="
 ---

@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How artificial intelligence can revolutionise science"
+    excerpt: "Then, starting in the late 19th century, the establishment of research laboratories, which brought together ideas, people and materials on an industrial scale, gave rise to further innovations such as artificial fertiliser,"
+    publishedDateTime: 2023-09-14T08:33:00Z
+    webUrl: "https://www.economist.com/leaders/2023/09/14/how-artificial-intelligence-can-revolutionise-science"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 43
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230916_LDD002.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Repentance and Revolution: A Teaching for Rosh Hashanah"
     excerpt: "Then I enter Rosh Hashanah services. As the ark is opened, the congregation recites Psalm 24. “Who may ascend the mountain of God? Who may stand in [God’s] holy place? One who has clean hands and a pure heart,"
     publishedDateTime: 2023-09-15T04:03:00Z

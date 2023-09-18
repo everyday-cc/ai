@@ -39,20 +39,15 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "How Health Tech is Squashing AI Biases and Leveling the Playing Field in Healthcare"
-    excerpt: "By making large amounts of diverse data widely available, healthcare institutions can feel confident about the evaluation, creation, and validation of algorithms as they're transitioned from ideation to use."
-    publishedDateTime: 2023-09-14T21:34:00Z
-    webUrl: "https://medcitynews.com/2023/09/how-health-tech-is-squashing-ai-biases-and-leveling-the-playing-field-in-healthcare/"
+  - title: "Exclusive: From back office to patient diagnostics, AI comes to health care"
+    excerpt: "Artificial intelligence has existed for years, but hospital systems and health care providers are just now getting in on the tech."
+    publishedDateTime: 2023-09-15T11:40:00Z
+    webUrl: "https://www.bizjournals.com/southflorida/news/2023/09/15/ai-in-health-care.html"
     type: article
     provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 48
-    images:
-      - url: "https://medcitynews.com/uploads/2021/12/GettyImages-177052337.jpg"
-        width: 724
-        height: 483
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "Yf6wbB/9qFuyiaPN72inv/magTHe7mc1RUBXEB/IrdeBMzhfqJbAwl7d5jgLuTSo6ji2/WykaYRa+eDOakZFjfQOo7R3y0uXAUOe6P5pFG9Np/zLJutQ5EJV5HtPZk16+mOqIRHrGiJmnqVI/FyrF7cX65jjW+4ty0uSHBB18F4EnpMS9FSM6ACk9F2ronBb/yUP7VTRAqFL5NukTIJrIiBMGQLFsH2UWw9vCtdSa60hcXiyqWqWQRxrURAqoqXyF0sEve+Ny6eLwo+bbCA1JMmfLkd7JdNB6UMBam/2qaXqKZs03JeKP8JRPlUKeW45wbMe/c7t2Lx1utmBMWQa2yjVBw8FXzEHf2rblKJu0ls=;4c1DHzjX+nhL91s2UMqG4g=="
 ---

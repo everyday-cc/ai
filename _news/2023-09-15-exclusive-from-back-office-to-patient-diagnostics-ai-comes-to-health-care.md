@@ -20,49 +20,33 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Exclusive: California Bill Proposes Regulating AI at State Level"
-    excerpt: "A new bill in California, where many tech companies are based, adds to national and global efforts to regulate AI"
-    publishedDateTime: 2023-09-13T11:00:00Z
-    webUrl: "https://time.com/6313588/california-ai-regulation-bill/"
+  - title: "Exploring Patient, Provider Perceptions of Healthcare AI"
+    excerpt: "Advances in healthcare artificial intelligence have received significant hype, but patients and providers are still cautious of these new technologies."
+    publishedDateTime: 2023-09-13T13:29:00Z
+    webUrl: "https://healthitanalytics.com/features/exploring-patient-provider-perceptions-of-healthcare-ai"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 67
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 56
     images:
-      - url: "https://api.time.com/wp-content/uploads/2023/09/GettyImages-1298883331.jpg?quality&#x3D;85"
-        width: 1024
-        height: 683
+      - url: "https://healthitanalytics.com/images/site/features/_normal/Getty_correct_size_sdoh.png"
+        width: 690
+        height: 400
         isCached: true
-  - title: "Tech industry leaders endorse regulating artificial intelligence at rare summit in Washington"
-    excerpt: "WASHINGTON -- The nation's biggest technology executives on Wednesday loosely endorsed the idea of government regulations for artificial intelligence at an unusual closed-door meeting in the U.S. Senate. But there is little consensus on what regulation would look like, and the political path for legislation is difficult."
-    publishedDateTime: 2023-09-14T01:17:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/closed-forum-tech-titans-give-senators-advice-artificial-103142205"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/closed-forum-tech-titans-give-senators-advice-artificial-103142205"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/closed-forum-tech-titans-give-senators-advice-artificial-103142205"
+  - title: "Healthcare AI adoption hindered by 'switchover disruptions'"
+    excerpt: "The U.S. healthcare industry will struggle to adopt artificial intelligence due to \"switchover disruptions,\" the expensive implementation period for new technologies that can disrupt profitable operations, Harvard Business Review reported Sept. 14."
+    publishedDateTime: 2023-09-14T18:11:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-health/healthcare-ai-adoption-hindered-by-switchover-disruptions.html"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 46
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
     images:
-      - url: "https://s.abcnews.com/images/US/wirestory_efcfb1067d68ad2f595db7e92167943c_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "California Set to Ban Self-Driving Trucks With No Safety Driver"
-    excerpt: "The California Senate has passed a bill that requires autonomous trucks to have a human safety operator behind the wheel at all times while on public roads. Put simply, it's a ban on driverless trucks — a blow to an industry that has already struggled to ..."
-    publishedDateTime: 2023-09-14T17:47:00Z
-    webUrl: "https://futurism.com/the-byte/california-set-to-ban-self-driving-trucks-with-no-safety-driver"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 24
-    images:
-      - url: "https://wp-assets.futurism.com/2023/09/california-set-to-ban-self-driving-trucks-with-no-safety-driver.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "5qHaqd7KWNpk71P8EHKTY0JV/2VhJu9P796h0I1l49ebjsfnT5zF2tIU9DvglAbRNSzFcEiwOV2CUzsoIwg9gZKOrC3r+WBfoOLawHLwnons8+y+9dGmkVMVI6Jx0jZR7tiaR+Y1kRe1w9C9aWby7BRQkCGbwaL4lgGLWBExs3IsOXbepui/wKdtNOf54DOruwp6mWaUaiOF8ZiY2cRLYtDWK1+uOjNUp8uq1Ob6HMix71NX511QHeiG4getF5s9XlKTOQ2fVnjrfXzTPkAL4UOzVc3Xv0qDqyiYEl2rT1iFvGTw91A7pVVNHNe8eoLX4mau9qkz39DUdZuhf+poT0BbJZH8M4as69pDcqqPOuI+BSIE1SK15bgkgBbx3Yy0enNE/NmcjhrmmxDXfmEHuqGaSiDG9BnPRejaEEwV9yz+I3OlKOEYIfOBvaUXS//lpXzRc7MI2GFADsclySQdnnXWJvms0zBfx+U50umfm2W747Z2NHuZ9ww4TLBGsz5SQ1/Op74/mX0mKOnGBXz2sg==;8mNDtuy6PEhlAacQi9o9Mg=="

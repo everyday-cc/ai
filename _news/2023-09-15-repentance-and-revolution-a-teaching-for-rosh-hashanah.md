@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How artificial intelligence can revolutionise science"
+    excerpt: "Then, starting in the late 19th century, the establishment of research laboratories, which brought together ideas, people and materials on an industrial scale, gave rise to further innovations such as artificial fertiliser,"
+    publishedDateTime: 2023-09-14T08:33:00Z
+    webUrl: "https://www.economist.com/leaders/2023/09/14/how-artificial-intelligence-can-revolutionise-science"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 43
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230916_LDD002.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Leading The Fintech Revolution: Forms Syntron Presents Generative Ai And Web 3.0 Financial Platforms"
     excerpt: "Empowered by Microsoft, FORMS Syntron unleashes Banking Copilot and FINNOSafe to transform the financial sectorHONG KONG SAR - Media OutReac"
     publishedDateTime: 2023-09-14T09:28:00Z
