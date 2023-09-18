@@ -2,6 +2,350 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2023-08-09-dhs-says-it-identified-311-new-child-sexual-exploitation-victimsafter-forbes-reports-ai-facial-recognition-push.md",
+      "title": "DHS Says It Identified 311 New Child Sexual Exploitation Victims—After Forbes Reports AI Facial Recognition Push",
+      "excerpt": "Operation Renewed Hope has led to the identification of hundreds of victims who appeared in sexually explicit material online, authorities said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/maryroeloffs/2023/08/09/dhs-says-it-identified-311-new-child-sexual-exploitation-victims-after-forbes-reports-ai-facial-recognition-push/",
+      "originalUrl": "https://www.forbes.com/sites/maryroeloffs/2023/08/09/dhs-says-it-identified-311-new-child-sexual-exploitation-victims-after-forbes-reports-ai-facial-recognition-push/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64d3a50bf4f051e8f0d9d11b/0x0.jpg?format=jpg&crop=1652,930,x0,y85,safe&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/maryroeloffs/2023/08/09/dhs-says-it-identified-311-new-child-sexual-exploitation-victims-after-forbes-reports-ai-facial-recognition-push/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maryroeloffs/2023/08/09/dhs-says-it-identified-311-new-child-sexual-exploitation-victims-after-forbes-reports-ai-facial-recognition-push/amp/",
+      "publishedDateTime": "2023-08-09T08:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-09-lenovo-and-brazilian-innovation-hub-cesar-create-sign-language-translator-for-hearing-people-with-ai.md",
+      "title": "Lenovo And Brazilian Innovation Hub CESAR Create Sign Language “Translator” For Hearing People With AI",
+      "excerpt": "Described as a world-first, the patented AI technology is capable of visually identifying and contextualizing individual gestures",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/angelicamarideoliveira/2023/08/09/lenovo-and-brazilian-innovation-hub-cesar-create-sign-language-translator-for-hearing-people-with-ai/",
+      "originalUrl": "https://www.forbes.com/sites/angelicamarideoliveira/2023/08/09/lenovo-and-brazilian-innovation-hub-cesar-create-sign-language-translator-for-hearing-people-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64d3a9219b7cab76fc0f2e70/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/angelicamarideoliveira/2023/08/09/lenovo-and-brazilian-innovation-hub-cesar-create-sign-language-translator-for-hearing-people-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/angelicamarideoliveira/2023/08/09/lenovo-and-brazilian-innovation-hub-cesar-create-sign-language-translator-for-hearing-people-with-ai/amp/",
+      "publishedDateTime": "2023-08-09T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-09-zoom-is-entangled-in-an-ai-privacy-mess.md",
+      "title": "Zoom is entangled in an AI privacy mess",
+      "excerpt": "The popular video conferencing platform's recent privacy and AI policy changes have exploded in the company's face. Here's what to know.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/zoom-is-entangled-in-an-ai-privacy-mess/",
+      "originalUrl": "https://www.zdnet.com/article/zoom-is-entangled-in-an-ai-privacy-mess/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/91657eac81e8c36e1c301d6dd38c99bb1328705b/2023/08/09/1407d605-d4f8-4813-9858-f1df66c9c5ca/gettyimages-1234804190.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/zoom-is-entangled-in-an-ai-privacy-mess/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/zoom-is-entangled-in-an-ai-privacy-mess/",
+      "publishedDateTime": "2023-08-09T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-09-meta-settles-startups-lawsuit-over-artificial-intelligence-trade-secrets.md",
+      "title": "Meta settles startup's lawsuit over artificial-intelligence trade secrets",
+      "excerpt": "Meta Platforms has settled a lawsuit brought by an artificial-intelligence startup that accused the tech giant of stealing its trade secrets, according to a filing in Boston federal court.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/legal/transactional/meta-settles-startups-lawsuit-over-artificial-intelligence-trade-secrets-2023-08-09/",
+      "originalUrl": "https://www.reuters.com/legal/transactional/meta-settles-startups-lawsuit-over-artificial-intelligence-trade-secrets-2023-08-09/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/VCZbrjHm7zmsuvMPLMmxHXLzT4Q=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/R35EVV22CVN2HE5D3IRXQ5FFQQ.jpg",
+          "width": 728,
+          "height": 381,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-09T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-09-ai-industrial-robotics-bangladesh.md",
+      "title": "AI Industrial Robotics - Bangladesh",
+      "excerpt": "Value in the AI Industrial Robotics market is projected to reach US$25m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.96%, resulting in a market volume of US$70m ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/bangladesh",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/bangladesh",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-09T07:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-09-how-machine-learning-could-aid-compatibility-in-kidney-transplantation.md",
+      "title": "How machine learning could aid compatibility in kidney transplantation",
+      "excerpt": "The United States saw a record 25,487 kidney transplants in 2021, according to the latest annual data report from the Organ Procurement and Transplantation Network and Scientific Registry of Transplant Recipients.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-08-machine-aid-compatibility-kidney-transplantation.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-08-machine-aid-compatibility-kidney-transplantation.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/kidney-transplant.jpg",
+          "width": 2880,
+          "height": 1620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-08-machine-aid-compatibility-kidney-transplantation.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-machine-aid-compatibility-kidney-transplantation.amp",
+      "publishedDateTime": "2023-08-09T07:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-09-how-ai-can-be-a-force-for-good-in-achieving-fair-lending.md",
+      "title": "How AI Can Be A Force For Good In Achieving Fair Lending",
+      "excerpt": "With advances in technology, specifically artificial intelligence, we can now remove the opacity in the financial approval process.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/09/how-ai-can-be-a-force-for-good-in-achieving-fair-lending/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/09/how-ai-can-be-a-force-for-good-in-achieving-fair-lending/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63320f08d9832c486944b11e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/09/how-ai-can-be-a-force-for-good-in-achieving-fair-lending/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/09/how-ai-can-be-a-force-for-good-in-achieving-fair-lending/amp/",
+      "publishedDateTime": "2023-08-09T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-09-nvidia-unveils-rtx-5000-4500-and-4000-ada-workstation-gpus-to-crush-ai-workloads.md",
       "title": "NVIDIA Unveils RTX 5000, 4500 And 4000 Ada Workstation GPUs To Crush AI Workloads",
       "excerpt": "NVIDIA announced the much-anticipated expansion of its workstation graphics card lineup based on Ada Lovelace.",
@@ -804,341 +1148,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/markcperna/2023/08/08/these-3-skills-can-help-everyone-take-advantage-of-the-coming-ai-era/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markcperna/2023/08/08/these-3-skills-can-help-everyone-take-advantage-of-the-coming-ai-era/amp/",
       "publishedDateTime": "2023-08-08T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-09-quizlet-launches-four-generative-ai-powered-tools-to-simplify-studying.md",
-      "title": "Quizlet launches four generative AI-powered tools to simplify studying",
-      "excerpt": "This back-to-school season is unlike any other, thanks to ChatGPT and the ensuing AI tool boom. Here's how Quizlet plans to help students excel now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/quizlet-launches-four-generative-ai-powered-tools-to-simplify-studying/",
-      "originalUrl": "https://www.zdnet.com/article/quizlet-launches-four-generative-ai-powered-tools-to-simplify-studying/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/8c8212795ae9682ff956291b53b9ec0b4d55d24f/2023/08/08/89883840-0000-4379-827e-dd1b889e3f6c/screenshot-2023-08-08-at-3-59-54-pm.png?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/quizlet-launches-four-generative-ai-powered-tools-to-simplify-studying/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/quizlet-launches-four-generative-ai-powered-tools-to-simplify-studying/",
-      "publishedDateTime": "2023-08-08T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-09-nvidias-stock-slips-on-introduction-of-new-ai-data-center-cpugpu-chip.md",
-      "title": "Nvidia's stock slips on introduction of new AI data-center CPU+GPU chip",
-      "excerpt": "Read: Will AI do to Nvidia what the dot-com boom did to Sun Microsystems? Analysts compare current hype to past ones. AMD introduced its MI300X CPU + GPU at its AI product launch in June.",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/marketwatch/20230808877/nvidias-stock-slips-on-introduction-of-new-ai-data-center-cpugpu-chip",
-      "originalUrl": "https://www.morningstar.com/news/marketwatch/20230808877/nvidias-stock-slips-on-introduction-of-new-ai-data-center-cpugpu-chip",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-08T14:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-09-how-to-block-openais-new-ai-training-web-crawler-from-ingesting-your-data.md",
-      "title": "How to block OpenAI's new AI-training web crawler from ingesting your data",
-      "excerpt": "The ChatGPT creator is training the next generation of AI systems, reportedly including GPT-5. One word can stop the crawling.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/how-to-block-openais-new-ai-training-web-crawler-from-ingesting-your-data/",
-      "originalUrl": "https://www.zdnet.com/article/how-to-block-openais-new-ai-training-web-crawler-from-ingesting-your-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/500df0b13f222e5914bb567e7986709eaba3fcb2/2023/08/08/d0960e19-3e08-4733-857c-5854016ad315/openai.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-to-block-openais-new-ai-training-web-crawler-from-ingesting-your-data/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-block-openais-new-ai-training-web-crawler-from-ingesting-your-data/",
-      "publishedDateTime": "2023-08-08T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-08-better-together-ibm-and-microsoft-make-enterprise-wide-transformation-a-reality.md",
-      "title": "Better together: IBM and Microsoft make enterprise-wide transformation a reality",
-      "excerpt": "Providing joint solutions to companies to improve costs, productivity and resilience by accelerating their hybrid cloud and AI journeys.\nThe post Better together: IBM and Microsoft make enterprise-wide transformation a reality appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/better-together-ibm-and-microsoft-make-enterprise-wide-transformation-a-reality/",
-      "originalUrl": "https://www.ibm.com/blog/better-together-ibm-and-microsoft-make-enterprise-wide-transformation-a-reality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-08T14:27:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-09-tech-down-as-ai-enthusiasm-stalls-tech-roundup.md",
-      "title": "Tech Down as AI Enthusiasm Stalls -- Tech Roundup",
-      "excerpt": "Shares of technology companies ticked lower amid as enthusiasm about the rise of artificial-intelligence technology stalled. Nvidia slipped, but remains",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/tech-down-as-ai-enthusiasm-stalls-tech-roundup-db409f",
-      "originalUrl": "https://www.marketwatch.com/story/tech-down-as-ai-enthusiasm-stalls-tech-roundup-db409f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/tech-down-as-ai-enthusiasm-stalls-tech-roundup-db409f",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-down-as-ai-enthusiasm-stalls-tech-roundup-db409f",
-      "publishedDateTime": "2023-08-08T14:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-09-microsoft-azure-ai-adds-gpt-4-and-new-virtual-machines.md",
-      "title": "Microsoft Azure AI Adds GPT-4 and New Virtual Machines",
-      "excerpt": "Microsoft is also working on creating guidelines for red teams working on making sure generative AI is both secure and responsible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/azure-ai-gpt-4-virtual-machines/",
-      "originalUrl": "https://www.techrepublic.com/article/azure-ai-gpt-4-virtual-machines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 391,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/08/tr8823-azure-openai-770x465.jpeg",
-          "width": 770,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-08T13:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-09-dynatrace-beats-earnings-acquires-a-company-and-embraces-generative-ai.md",
-      "title": "Dynatrace Beats Earnings, Acquires A Company And Embraces Generative AI",
-      "excerpt": "Dynatrace beat earnings, announced the acquisition of Rookout, a dev-focused observability start-up, and is bringing new generative AI features to its Davis AI engine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/08/08/dynatrace-beats-earnings-acquires-a-company-and-embraces-generative-ai/",
-      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/08/08/dynatrace-beats-earnings-acquires-a-company-and-embraces-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64d29ea5a96807d4f4b1ea45/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/08/08/dynatrace-beats-earnings-acquires-a-company-and-embraces-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/08/08/dynatrace-beats-earnings-acquires-a-company-and-embraces-generative-ai/amp/",
-      "publishedDateTime": "2023-08-08T13:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

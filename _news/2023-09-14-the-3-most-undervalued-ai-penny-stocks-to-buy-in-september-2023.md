@@ -31,7 +31,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 66
+    quality: 68
   - title: "The 3 Most Undervalued Robotics Stocks to Buy in September 2023"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The technology sector will always be a sector of constant growth and never"
     publishedDateTime: 2023-09-18T11:26:00Z
@@ -95,6 +95,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "Using artificial intelligence to predict heart attacks"
+    excerpt: "Using artificial intelligence, doctors at Lee Health may be able to predict the likelihood that someone will have a heart attack."
+    publishedDateTime: 2023-09-18T19:40:00Z
+    webUrl: "https://winknews.com/2023/09/18/artificial-intelligence-predict-heart-attacks/"
+    type: article
+    provider:
+      name: WINK NEWS
+      domain: winknews.com
+    quality: 37
+    images:
+      - url: "https://winknews.com/wp-content/uploads/2023/09/vlcsnap-2023-09-18-14h59m47s240.png"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "wqOpmltrZjhSWPVLaGV43R5Ktz5G2JtrKO/JEyRjQfzVrx2dhJQGDnsn51uMMq7OxxIgLZ5rfhEqoA2+h6jYrqvgGNx9h/Mn8gUuDKm3kWooEWlqrvS68KJC485yvNYdG7ybte/0HQO6AYqrHWK2Em5Ew8Y8SY8Qy03KN4iz72D2Y7Dt6G64EpGUdHGbzRrjYKMRYg6BqScrLD2LVGujXA5dB06rxZxribtWcoEwwrfwQi5XB8qxuKUP+HFVJfo9PuaXab4ZmRkPRaSa4wdHX5xcX/xYbjSSVZLHL8segJ+BVJkOL+y5w90SJJ2OzM82Cm3UnvG8s7lW3/spIOb5dR17MX49Yi2ayLF3u0g6Y90=;yW9sWyVgNhmGMlNNYDmzcQ=="
 ---

@@ -2,6 +2,126 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-08-06-self-driving-shuttles-headed-to-detroit-select-residents-will-qualify-for-free-rides.md",
+      "title": "Self-driving shuttles headed to Detroit; select residents will qualify for free rides",
+      "excerpt": "A number of Detroit’s older residents and those with disabilities who don’t qualify for paratransit services could have a chance beginning next year to use self-driving shuttles to get to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.freep.com/story/news/local/michigan/detroit/2023/08/04/detroit-self-driving-shuttles-elderly-disabled-residents/70506876007/",
+      "originalUrl": "https://www.freep.com/story/news/local/michigan/detroit/2023/08/04/detroit-self-driving-shuttles-elderly-disabled-residents/70506876007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-05T13:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit Free Press",
+        "domain": "freep.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-05-recalling-a-wild-ride-with-a-robotaxi-named-peaches-as-regulators-mull-san-francisco-expansion-plan.md",
+      "title": "Recalling a wild ride with a robotaxi named Peaches as regulators mull San Francisco expansion plan",
+      "excerpt": "I won’t forget the first time I took a ride in a car without anyone sitting in the driver’s seat. It happened one night last",
+      "sourceUrl": null,
+      "webUrl": "https://mynorthwest.com/3917315/recalling-a-wild-ride-with-a-robotaxi-named-peaches-as-regulators-mull-san-francisco-expansion-plan/",
+      "originalUrl": "https://mynorthwest.com/3917315/recalling-a-wild-ride-with-a-robotaxi-named-peaches-as-regulators-mull-san-francisco-expansion-plan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mynorthwest.com/wp-content/uploads/2018/01/MYNW_Facebookj.jpg",
+          "width": 452,
+          "height": 282,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-05T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyNorthwest.com",
+        "domain": "mynorthwest.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-05-explainer-regulating-artificial-intelligence.md",
+      "title": "Explainer: Regulating Artificial Intelligence",
+      "excerpt": "Cyient announced that it has collaborated with Microsoft to establish \"EnGeneer” Center of Excellence (CoE). The Telecom Regulatory Authority of India (Trai) recently published a set of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/life/technology-explainer-regulating-artificial-intelligence-3200655/",
+      "originalUrl": "https://www.financialexpress.com/life/technology-explainer-regulating-artificial-intelligence-3200655/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/08/1-46.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/life/technology-explainer-regulating-artificial-intelligence-3200655/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-explainer-regulating-artificial-intelligence-3200655/lite/",
+      "publishedDateTime": "2023-08-04T23:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-05-age-of-ai-everything-you-need-to-know-about-artificial-intelligence.md",
       "title": "Age of AI: Everything you need to know about artificial intelligence",
       "excerpt": "Artificial intelligence, also called machine learning, is a kind of software system based on neural networks, a technique that was actually pioneered decades ago but very recently has blossomed thanks to powerful new computing resources. AI has enabled ...",
@@ -1248,127 +1368,6 @@
       "provider": {
         "name": "The Globe and Mail",
         "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-musk-optimistic-on-progress-for-self-driving-robots.md",
-      "title": "Musk optimistic on progress for self-driving, robots",
-      "excerpt": "(AP pic) SAN FRANCISCO: Tesla chief executive Elon Musk on Wednesday set new targets for artificial intelligence products including self-driving software and using humanoid robots in factories ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.freemalaysiatoday.com/category//2023/07/20/musk-optimistic-on-progress-for-self-driving-robots/",
-      "originalUrl": "https://www.freemalaysiatoday.com/category//2023/07/20/musk-optimistic-on-progress-for-self-driving-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T20:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Free Malaysia Today",
-        "domain": "freemalaysiatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-artificial-intelligence-to-help-with-security-at-2024-paris-olympics.md",
-      "title": "Artificial intelligence to help with security at 2024 Paris Olympics",
-      "excerpt": "So, this year, the massive security presence will add a new layer -- one that Silicon Valley is very familiar with: artificial intelligence. Something that’s already launched a fierce debate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcbayarea.com/news/tech/artificial-intelligence-security-at-paris-olympics/3281770/",
-      "originalUrl": "https://www.nbcbayarea.com/news/tech/artificial-intelligence-security-at-paris-olympics/3281770/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcbayarea.com/2023/05/Social-Media-Hacking-Generic_NBC-5-Responds.png?resize=1200%2C675&quality=85&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcbayarea.com/news/tech/artificial-intelligence-security-at-paris-olympics/3281770/?amp=1",
-      "cdnAmpWebUrl": "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/tech/artificial-intelligence-security-at-paris-olympics/3281770/?amp=1",
-      "publishedDateTime": "2023-07-26T18:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC Bay Area",
-        "domain": "nbcbayarea.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-waymo-putting-the-brakes-on-its-autonomous-truck-program.md",
-      "title": "Waymo putting the brakes on its autonomous truck program",
-      "excerpt": "Waymo said it would continue collaboration with DTNA to advance technical development of an autonomous truck platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ccjdigital.com/equipment-controls/article/15543134/waymo-puts-driverless-truck-program-on-hold",
-      "originalUrl": "https://www.ccjdigital.com/equipment-controls/article/15543134/waymo-puts-driverless-truck-program-on-hold",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.ccjdigital.com/files/base/randallreilly/all/image/2023/07/Truck_1.64c1b72e48238.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T17:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CCJ",
-        "domain": "ccjdigital.com",
         "images": null,
         "publishers": null,
         "authors": null

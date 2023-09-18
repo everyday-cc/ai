@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-19-ai-and-machine-learning-can-successfully-diagnose-polycystic-ovary-syndrome.md",
+      "title": "AI and machine learning can successfully diagnose polycystic ovary syndrome",
+      "excerpt": "Artificial intelligence (AI) and machine learning (ML) can effectively detect and diagnose Polycystic Ovary Syndrome (PCOS), which is the most common hormone disorder among women, typically between ages 15 and 45,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-09-ai-machine-successfully-polycystic-ovary.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-09-ai-machine-successfully-polycystic-ovary.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-and-machine-learnin.jpg",
+          "width": 1089,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-09-ai-machine-successfully-polycystic-ovary.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-09-ai-machine-successfully-polycystic-ovary.amp",
+      "publishedDateTime": "2023-09-18T13:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-18-orchestrate-ray-based-machine-learning-workflows-using-amazon-sagemaker.md",
       "title": "Orchestrate Ray-based machine learning workflows using Amazon SageMaker",
       "excerpt": "Machine learning (ML) is becoming increasingly complex as customers try to solve more and more challenging problems. This complexity often leads to the need for distributed ML, where multiple machines are used to train a single model. Although this enables parallelization of tasks across multiple nodes,",
@@ -63,7 +106,7 @@
       "originalUrl": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/how-real-time-machine-learning-can-make-the-self-driving-cars-more-smart/articleshow/103765140.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 130,
       "tags": null,
       "images": [
         {
@@ -94,7 +137,8 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -106,7 +150,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/5-blue-chip-growth-stocks-to-buy-according-to-ai-1032637898",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 158,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -138,7 +182,8 @@
       "topics": [
         "Machine Learning",
         "AI",
-        "AI Hardware"
+        "AI Hardware",
+        "AI in Autos"
       ]
     },
     {
@@ -150,7 +195,7 @@
       "originalUrl": "https://techbullion.com/banking-in-the-modern-age-ai-machine-learning-and-global-evolution/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -1364,59 +1409,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-improving-asset-health-and-grid-resilience-using-machine-learning.md",
-      "title": "Improving asset health and grid resilience using machine learning",
-      "excerpt": "Machine learning (ML) is transforming every industry, process, and business, but the path to success is not always straightforward. In this blog post, we demonstrate how Duke Energy, a Fortune 150 company headquartered in Charlotte, NC., collaborated with the AWS Machine Learning Solutions Lab (MLSL)",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improving-asset-health-and-grid-resilience-using-machine-learning/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improving-asset-health-and-grid-resilience-using-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/08/featured-images-ML-14116-1120x630.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-08T09:27:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

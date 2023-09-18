@@ -59,6 +59,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "10 Machine Learning Blueprints You Should Know for Cybersecurity | FREE download0 0"
+    excerpt: "Claim your complimentary eBook (worth $39.99) before the offer expires on September 27. This book will prepare machine learning practitioners to effectively handle tasks in the challenging yet exciting cybersecurity space. The book begins by helping you ..."
+    publishedDateTime: 2023-09-18T17:02:00Z
+    webUrl: "https://www.neowin.net/sponsored/10-machine-learning-blueprints-you-should-know-for-cybersecurity--free-download/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 43
 
 secured: "xNXBGmZU6ZZtEtEmBlXqU6r/5AWVOOHYcCmvm7UZUpGrDETnwa+PTtOCuOF44D1RToWjQ7P4AUJkFpOVEIej1Yh1RXOw2CjL2pc2xgG7UqFuIbLWYf6mPls5ci6ErcyriauzGyRc0xBC083vJJXx0iQ+SupqLfxI10ZuuXfQiqsi19gKu3gdHTWODn6vMGm3ZEa/z984lMgCN6o9ZJKS632PYXnolg7ukLTB+sYmNckFU7yora3IBVECDYQG5DYI0nxluVD2yZuWdzbkzswnKiNNj5DdqTtdlxHLVgnoVsvNHu5JbiiHFKwdpa5fSh7UqQuiDDjtZ3BKlaJ0y06c6/ffXtWCxNzpg94+PxkTJPd/MA5LbHnGRq7llB71CWLNoOQOE4oRgJcLFPmqYSTl5C0jqxkjIviryb5qmG5sPMkSvCz/fRKFzG7M91iQWNecfbtucT+kIhIEAHKddn8NeJJUl5jO1RsRUQ9ld5DMkAEJmn/+hiU7140WN2IeRT935srkLpmX5ILJv7O4OL61rA==;zb49CtJjcXZt+FbfnfrMBQ=="
 ---

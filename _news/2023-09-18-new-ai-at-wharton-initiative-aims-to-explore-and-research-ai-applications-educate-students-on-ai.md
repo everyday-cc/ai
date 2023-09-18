@@ -34,20 +34,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "Local educators grapple with AI in the classroom"
-    excerpt: "With the new school year underway, and an increased number of students turning to generative AI for help with homework, college applications and simple amusement, local Jewish educators are determining appropriate usage."
-    publishedDateTime: 2023-09-14T02:01:00Z
-    webUrl: "https://jewishchronicle.timesofisrael.com/local-educators-grapple-with-ai-in-the-classroom/"
-    type: article
-    provider:
-      name: jewishchronicle.timesofisrael
-      domain: timesofisrael.com
-    quality: 39
-    images:
-      - url: "https://static.timesofisrael.com/jewishchronicle/uploads/2023/09/iStock-1214297905-1024x640.jpg"
-        width: 1024
-        height: 640
-        isCached: true
 
 secured: "jG9jO4Ov45VODYm+eeU9b7yxLKv2vpYopYKiqCvow4B8G3FNscZB2RER6Y1hNXjeE39576z9IRy89M0VUrWUe0hE11ApxAxL+xI5UiAdCM76j3/1PThdCNLGZcisJ2qZJSKSmkamX2+W7/cx09Nxecn5OJbO6iFaCuyCGX7ynZh5fa72OcxlXgQ6qZzlrng4rVdH3ek/s7lYolyHSJ9wRNK/kODgxO27X4XjsTof1UBeJMyc928yyIs0ex23+lUEvw8GFq8tGDGcEKKsFe9fHTYHWizFOEUnqbKo/WOyNVziSnURQQU1d3F560etmTKBUaxOaAI1DAh/TponP74rdaWi6UAfuTGcr2BlrZ84omOTxbzF3Tqtmlc/pn2C7Bo5wpIT8X+m/DNodIOuau3SzZ3G9H7YDPAEEodHnL5Y54k+94lEc5yJufmO1nHGZI00l3twqtJNMXV3Hz1IUjr5MsoDgwSdVPNBtp06AJuakHBghT7Py2pYl2K8UmmJL0j4Vbuin9srPBPOG9Ouj9PBfg==;JfBhq3P2NIZKZYPevN9vEw=="
 ---

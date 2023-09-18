@@ -28,29 +28,61 @@ images:
     isCached: true
 
 related:
-  - title: "Ubotica partners with IBM for one-click deployment of space AI applications"
-    excerpt: "Learn how space AI leader Ubotica Technologies is using cloud infrastructure and watsonx.ai to simplify the process of running apps onboard satellites.\nThe post Ubotica partners with IBM for one-click deployment of space AI applications appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-09-14T04:01:00Z
-    webUrl: "https://www.ibm.com/blog/ubotica-partners-with-ibm-for-one-click-deployment-of-space-ai-applications/"
+  - title: "The raw materials for creating AI"
+    excerpt: "Explore the resources and materials that are needed to create AI"
+    publishedDateTime: 2023-09-15T16:14:00Z
+    webUrl: "https://www.businessinsider.com/how-to-create-ai-materials-resources-guide-2023-9"
+    ampWebUrl: "https://www.businessinsider.com/how-to-create-ai-materials-resources-guide-2023-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-create-ai-materials-resources-guide-2023-9?amp"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 97
-  - title: "Dublin’s Ubotica to simplify space AI deployment with IBM"
-    excerpt: "Ubotica, now an IBM partner, recently unveiled a hardware platform designed to get AI into orbit through smaller satellites. Irish space-tech company Ubotica has struck a partnership with IBM to use its cloud infrastructure and Watson AI and make deploying ..."
-    publishedDateTime: 2023-09-14T11:17:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/ubotica-ibm-partner-space-ai-applications-startup-satellite-watson"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
     images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/11/Ubotica_Press_Image__-_09_Nov_22_.jpg"
-        width: 800
+      - url: "https://i.insider.com/64c7a0d5048ff200190de9d2?width=1200&format=jpeg"
+        width: 1200
         height: 600
         isCached: true
+  - title: "Five Ways To Use AI For End-Of-The-Year Forecasting"
+    excerpt: "In recent years, artificial intelligence (AI) has emerged as a valuable tool in streamlining and enhancing various business operations, including financial planning. Here are five compelling ways to embrace AI in your end-of-year financial planning."
+    publishedDateTime: 2023-09-18T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/18/five-ways-to-use-ai-for-end-of-the-year-forecasting/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/18/five-ways-to-use-ai-for-end-of-the-year-forecasting/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/09/18/five-ways-to-use-ai-for-end-of-the-year-forecasting/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f6b8b10fc4839cedc3fe5ba/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Why picking the right AI-credit decisioning partner matters"
+    excerpt: "As financial institutions continue to evaluate AI underwriting solutions to incorporate into their lending strategies, recognizing the distinction between"
+    publishedDateTime: 2023-09-14T17:16:00Z
+    webUrl: "https://www.cuinsight.com/why-picking-the-right-ai-credit-decisioning-partner-matters/"
+    type: article
+    provider:
+      name: CUInsight
+      domain: cuinsight.com
+    quality: 37
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2022/09/bigstock-Futuristic-Robot-Artificial-In-452602145.jpg"
+        width: 1000
+        height: 500
+        isCached: true
+  - title: "Bitcoin is the currency for AI"
+    excerpt: "BITCOIN'S compatibility with AI technologies is driving major institutional investors to increase their exposure to the cryptocurrency, according to the executive at deVere Group, one of the world's largest independent financial advisory,"
+    publishedDateTime: 2023-09-16T13:15:00Z
+    webUrl: "https://www.manilatimes.net/2023/09/17/business/sunday-business-it/bitcoin-is-the-currency-for-ai/1910352"
+    type: article
+    provider:
+      name: manilatimes
+      domain: manilatimes.net
+    quality: 19
 
 secured: "RPf18jZI/5k5zEXnjWt1Eh02YfLIUHFttZ5Fr6zOmE4S+Nx13QfLLVMTBVNtgQ/GQlA7TkEOrGEVP9aHXcv6mF4jN1JUy9SPr0zANARyFC7hit3pBzAy+YD/X1JYkBQIj1kJiH2chkCb5oKAV1A1IhYG7FVpXnZVwrljDJI2oeh1S9EZ7qf9FLPX+S0cMO4vuYaxdFGWpDA8ITOHVucPBF5V0c/JwoRw764dLGgsjCbMDAk5X8W7ZLYMss8H+ioBAY38LtYKSGhCsQ19MAn3s+ewBX/70gL+3cOoTS6LllBp4ftTLouGcOm9kI5jLW+FlkxJwcRM/ccu/QwXR6gIHG2qJEgWtUJ+K7UpmVSAQVRxrku77McXkyNy57Eu4hLRNmJbKqTWXxdSDtcVh8l//b6BEJRH94Y3R7mZcCwA7Xjr/mF3Zc4EVzEGVKQPK2ODlBHg+gu+FVjZQhYZLTPeRvzP8AjYDUWCitX8CkemdNpAIlsx+MmlfwmszJ4OPIVj73QcrbqquMxcEq0SN972LA==;F/kxqmFmW/XmTrvvxIupgA=="
 ---

@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Employees are increasingly getting 'AI Anxious' — they're worried about falling behind on AI and even pretending to be 'in the know' to colleagues"
-    excerpt: "About 40% of the 29,000 workers surveyed by LinkedIn said they feel overwhelmed about not being able to keep up with new AI developments."
-    publishedDateTime: 2023-09-14T03:52:00Z
-    webUrl: "https://www.businessinsider.com/employees-ai-anxious-falling-behind-pretending-linkedin-survey-chatgpt-2023-9"
-    ampWebUrl: "https://www.businessinsider.com/employees-ai-anxious-falling-behind-pretending-linkedin-survey-chatgpt-2023-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/employees-ai-anxious-falling-behind-pretending-linkedin-survey-chatgpt-2023-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-    images:
-      - url: "https://i.insider.com/6502799c1afe8f0019ea1922?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "‘There is no work to balance’: how shrinking budgets, Covid and AI shook up life in consulting"
     excerpt: "Now companies from Accenture to EY and McKinsey are slashing thousands of jobs. The valuations of consultancy businesses are falling — one reason EY pulled its Project Everest plan to separate its accounting and consultancy arms — while the industry’s reputation is under attack following scandals such as firms’ misconduct in South Africa."
     publishedDateTime: 2023-09-18T03:00:00Z

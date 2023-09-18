@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-01-marines-overhaul-approach-to-smart-robots-eye-new-military-job.md",
+      "title": "Marines overhaul approach to smart robots, eye new military job",
+      "excerpt": "The Marine Corps has dabbled in drones for a while: It has invested in quadcopters for infantry squads, robotic mules that lug gear, even, earlier in 2023, its first MQ-9 Reaper hunter-killer unmanned aerial vehicle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.defensenews.com/unmanned/2023/08/31/marines-overhaul-approach-to-smart-robots-eye-new-military-job/",
+      "originalUrl": "https://www.defensenews.com/unmanned/2023/08/31/marines-overhaul-approach-to-smart-robots-eye-new-military-job/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.defensenews.com/resizer/E_g2rw1tQutwbTSIqZLQAt0VM1c=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/X6U4TSASWFHXZLRPOOW7TSPMFA.jpg",
+          "width": 1024,
+          "height": 626,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-31T13:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Defense News",
+        "domain": "defensenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-01-new-ai-technology-gives-robot-recognition-skills-a-big-lift.md",
       "title": "New AI technology gives robot recognition skills a big lift",
       "excerpt": "With every push, the robot is learning to recognize the object through a new system developed by a team of UT Dallas computer scientists. The new system allows the robot to push objects multiple times until a sequence of images are collected, which in turn ...",
@@ -1292,49 +1335,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-ai-helps-robots-manipulate-objects-with-their-whole-bodies.md",
-      "title": "AI helps robots manipulate objects with their whole bodies",
-      "excerpt": "Imagine you want to carry a large, heavy box up a flight of stairs. You might spread your fingers out and lift that box with both hands, then hold it on top of your forearms and balance it against your chest,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-08-ai-robots-bodies.html",
-      "originalUrl": "https://techxplore.com/news/2023-08-ai-robots-bodies.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/ai-helps-robots-manipu.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-08-ai-robots-bodies.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-ai-robots-bodies.amp",
-      "publishedDateTime": "2023-08-24T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

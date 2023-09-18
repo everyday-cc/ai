@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-19-oracle-brings-voice-activated-ai-to-healthcare-with-clinical-digital-assistant.md",
+      "title": "Oracle brings voice-activated AI to healthcare with Clinical Digital Assistant",
+      "excerpt": "Oracle today announced a voice-activated, generative AI-powered clinical digital assistant to improve how clinicans deliver care to patients.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/oracle-brings-voice-activated-ai-to-healthcare-with-clinical-digital-assistant/",
+      "originalUrl": "https://venturebeat.com/ai/oracle-brings-voice-activated-ai-to-healthcare-with-clinical-digital-assistant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-18T11:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-09-14-nvidia-amgen-back-ai-driven-drug-firm-generatebiomedicines-273-mln-fundraise.md",
       "title": "Nvidia, Amgen back AI-driven drug firm Generate:Biomedicines' $273 mln fundraise",
       "excerpt": "Biomedicines, which uses artificial intelligence (AI) to find new treatments, said on Thursday it has raised $273 million from investors including Nvidia's venture capital arm and Amgen.",
@@ -111,8 +154,8 @@
       "title": "Is AI the Key to Improving Mental Healthcare Accessibility?",
       "excerpt": "AI can improve mental health diagnosis, therapy, and treatment, increasing access and personalizing care. AI automation can help address therapist shortages, extend care to more people, and reduce costs. AI can assist people struggling with autism or PTSD, while mitigating biases and enhancing mental healthcare.",
       "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/intl/blog/motivate/202309/is-ai-the-key-to-improving-mental-healthcare-accessibility",
-      "originalUrl": "https://www.psychologytoday.com/intl/blog/motivate/202309/is-ai-the-key-to-improving-mental-healthcare-accessibility",
+      "webUrl": "https://www.psychologytoday.com/us/blog/motivate/202309/is-ai-the-key-to-improving-mental-healthcare-accessibility",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/motivate/202309/is-ai-the-key-to-improving-mental-healthcare-accessibility",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -129,8 +172,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/motivate/202309/is-ai-the-key-to-improving-mental-healthcare-accessibility?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/motivate/202309/is-ai-the-key-to-improving-mental-healthcare-accessibility?amp",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/motivate/202309/is-ai-the-key-to-improving-mental-healthcare-accessibility?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/motivate/202309/is-ai-the-key-to-improving-mental-healthcare-accessibility?amp",
       "publishedDateTime": "2023-09-13T09:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1321,49 +1364,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-artificial-intelligence-ai-in-cancer-diagnostics-market-to-surpass-usd-208434-million-by-2032.md",
-      "title": "Artificial Intelligence (AI) in Cancer Diagnostics Market to Surpass USD 2,084.34 Million by 2032",
-      "excerpt": "Ottawa, Aug. 29, 2023 (GLOBE NEWSWIRE) -- The global artificial intelligence (AI) in cancer diagnostics market revenue is projected to reach around USD 1,466.72 million by 2029, a Study published by Towards Healthcare a sister firm of Precedence Research.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/g34095294/artificial-intelligence-ai-in-cancer-diagnostics-market-to-surpass-usd-2-084-34-million-by-2032",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/g34095294/artificial-intelligence-ai-in-cancer-diagnostics-market-to-surpass-usd-2-084-34-million-by-2032",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34095294",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34095294",
-      "publishedDateTime": "2023-08-29T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

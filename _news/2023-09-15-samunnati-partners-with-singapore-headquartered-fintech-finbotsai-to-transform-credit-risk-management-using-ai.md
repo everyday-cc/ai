@@ -41,17 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Samunnati in deal with Singapore firm to use AI for credit risks"
-    excerpt: "Chennai-based agri enterprise Samunnati has partnered with Singapore-based finbotsAI to use AI-based solutions for credit risk management. Samunnati is the first agri enterprise in India to do so, helping to support financial inclusion of smallholder farmers and agri enterprises."
-    publishedDateTime: 2023-09-14T04:10:00Z
-    webUrl: "https://www.thehindubusinessline.com/economy/agri-business/samunnati-in-deal-with-singapore-firm-to-use-ai-for-credit-risks/article67303515.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/economy/agri-business/samunnati-in-deal-with-singapore-firm-to-use-ai-for-credit-risks/article67303515.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/economy/agri-business/samunnati-in-deal-with-singapore-firm-to-use-ai-for-credit-risks/article67303515.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 39
 
 secured: "wa+Lv8LRKmzhi7Rouu7uqvsQ/9zOnvsswQ6qoKMhoOaoBufrELKAAScYeA6U1hjY0/od7Ub+eo7IeFMgrmVxcN4Cy0KDbx7N2SZNVDh9Zso5Fuq1FN43misjaUBp2C+8bJmPnuAJjkpjmN2S6HkK6b5p/rUTzyX66ngA/Ej9+0bMJo4FEPADN6ZhV4d4q+XQ5q+zLz5OweQe/iFvgeSXjwi4y83MKd0ltMLuqId6z9A62M0SekfCNJ63crQ/LdFY1LIZbgJ0nLBbbMaRG7LodH6S2uSUX6VVzhuIRnSvGgNt3tJzFU+1lw6u5Uqs1Wwsz+hhuJ+FIX/snd3BILJ83twLF29L6UmzAfD50kZF5i4=;7OITn3xk1wLEuFUYiaEqYg=="
 ---

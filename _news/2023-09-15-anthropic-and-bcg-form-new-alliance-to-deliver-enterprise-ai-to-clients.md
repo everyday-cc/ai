@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/anthropic-and-bcg-form-new-alliance-to-
 webUrl: "https://venturebeat.com/ai/anthropic-and-bcg-form-new-alliance-to-deliver-enterprise-ai-to-clients/"
 type: article
 quality: 71
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 749
     height: 420
     isCached: true
+
+related:
+  - title: "BCG partners with Anthropic to launch yet another AI consulting initiative"
+    excerpt: "Last week, Anthropic announced its partnership with Boston Consulting Group (BCG) to bring its AI models, including its Claude 2 assistant, to BCG customers."
+    publishedDateTime: 2023-09-18T18:47:00Z
+    webUrl: "https://www.zdnet.com/article/bcg-partners-with-anthropic-to-launch-yet-another-consulting-ai-initiative/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
 
 secured: "eWfai+5Knh285GYNsw858lze9ur3HhXKeda+W5hP9ggiF3g70HAv1cUS5UNminGePBVWHIMYsc+lAMyeQIZVeYkUu39PEFvXkTP2vT3WL5sviaO5YUdiVjqHluudJNLpzBnb8obwUMHyT/P+dmchQilCXVlXFygijGa44cba3c1s/Z1ewq3YVDQsYXShsaFGXW7CnBFQABeiz+Cjw42foTe5/afVhhauzPUqyo6rRyh55E+jjgJWTnJG2sIzKo0pRXcTqToK8lbYcSC7zCyc7Fv6Nq5hIYeBw2MImeVvk03L0t2TZ+XvfKo8CjTL7g3KMQTGj9EmwZGkFeEVC6VH0g/DSLLLlGTnK96xo/f11kGyhVMcmVkb9X8AooDOuUU65mA0wYQQkxwEp0eo0Ur0fh+WI6HlLYWbq28bflDXd8Z5v6pSg2cHdtXlGTV9eLZSP6Ax6F9OC1gU9WFsgjbo7Qc6DeefJ0WcgxJTqU42o3sZ4dPn660fYkw3h0fs85MMhp67922EOwil6XT9E3SWvw==;nhDyXrvAjt90rePuFWzC3g=="
 ---

@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-31-women-are-more-likely-to-be-forced-to-switch-occupations-because-of-ai.md",
+      "title": "Women Are More Likely To Be Forced to Switch Occupations Because of AI",
+      "excerpt": "A new McKinsey study has found not all workers are equally vulnerable to generative AI, and women are more likely to be forced to change jobs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/women-more-likely-forced-switch-occupations-because-of-ai/",
+      "originalUrl": "https://www.techrepublic.com/article/women-more-likely-forced-switch-occupations-because-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/01/tr1923-snap-packages-up-to-date.jpg",
+          "width": 1400,
+          "height": 934,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-30T14:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-08-31-meta-uses-your-facebook-data-to-train-its-ai-heres-how-to-opt-out-sort-of.md",
       "title": "Meta uses your Facebook data to train its AI. Here's how to opt out (sort of)",
       "excerpt": "Meta will use your personal data in its large language model Llama 2. But you can fine-tune what data it can access.",
@@ -1400,58 +1453,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-chart-ai-stocks-enter-correction-territory.md",
-      "title": "CHART: AI stocks enter correction territory",
-      "excerpt": "AI hype drove huge gains among some tech stocks in the first half of 2023. Lately, that has gone into reverse.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-stocks-enter-correction-territory-chart-analysis-2023-8",
-      "originalUrl": "https://www.businessinsider.com/ai-stocks-enter-correction-territory-chart-analysis-2023-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64d434014dd2b50019c27314?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-stocks-enter-correction-territory-chart-analysis-2023-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-stocks-enter-correction-territory-chart-analysis-2023-8?amp",
-      "publishedDateTime": "2023-08-10T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

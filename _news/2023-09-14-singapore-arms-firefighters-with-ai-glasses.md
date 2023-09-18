@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-arms-firefighters
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-arms-firefighters-with-ai-glasses/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Samunnati in deal with Singapore firm to use AI for credit risks"
-    excerpt: "Chennai-based agri enterprise Samunnati has partnered with Singapore-based finbotsAI to use AI-based solutions for credit risk management. Samunnati is the first agri enterprise in India to do so, helping to support financial inclusion of smallholder farmers and agri enterprises."
-    publishedDateTime: 2023-09-14T04:10:00Z
-    webUrl: "https://www.thehindubusinessline.com/economy/agri-business/samunnati-in-deal-with-singapore-firm-to-use-ai-for-credit-risks/article67303515.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/economy/agri-business/samunnati-in-deal-with-singapore-firm-to-use-ai-for-credit-risks/article67303515.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/economy/agri-business/samunnati-in-deal-with-singapore-firm-to-use-ai-for-credit-risks/article67303515.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 39
   - title: "Samunnati partners with Singapore-headquartered fintech finbots.ai to transform credit risk management using AI"
     excerpt: "With this, Samunnati becomes the first Agri Enterprise in India to incorporate advanced AI-based solutions into a key pillar of its business, supporting its mission to drive greater financial inclusion for smallholder farmers and agri enterprises. Through this partnership, Samunnati has become the first client of Accel-backed finbotsAI in India."
     publishedDateTime: 2023-09-15T01:48:00Z

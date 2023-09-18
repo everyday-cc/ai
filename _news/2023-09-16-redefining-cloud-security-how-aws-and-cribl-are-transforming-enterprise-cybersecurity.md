@@ -44,6 +44,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "10 Machine Learning Blueprints You Should Know for Cybersecurity | FREE download0 0"
+    excerpt: "Claim your complimentary eBook (worth $39.99) before the offer expires on September 27. This book will prepare machine learning practitioners to effectively handle tasks in the challenging yet exciting cybersecurity space. The book begins by helping you ..."
+    publishedDateTime: 2023-09-18T17:02:00Z
+    webUrl: "https://www.neowin.net/sponsored/10-machine-learning-blueprints-you-should-know-for-cybersecurity--free-download/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 43
   - title: "Mobilicom Is Leveraging A First Mover Position To Provide Robust Cybersecurity Solutions To Small-Drone And Antonymous Vehicle Markets ($MOB)"
     excerpt: "Mobilicom Limited (NasdaqCM: MOB) is proving that pioneering a market has its advantages. A result of that, at least for publicly traded companies like MOB, is shown through an increasing share price,"
     publishedDateTime: 2023-09-14T08:55:00Z

@@ -162,20 +162,6 @@ related:
       name: Politico Europe
       domain: politico.eu
     quality: 30
-  - title: "Why Japan is building its own version of ChatGPT"
-    excerpt: "Some Japanese researchers feel that AI systems trained on foreign languages cannot grasp the intricacies of Japanese language and culture."
-    publishedDateTime: 2023-09-14T03:41:00Z
-    webUrl: "https://www.nature.com/articles/d41586-023-02868-z"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 24
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-02868-z/d41586-023-02868-z_26031418.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Gibberish or Genius? Verbal Nonsense Reveals Limitations of AI Chatbots"
     excerpt: "In a new study, researchers tracked how current language models, such as ChatGPT, mistake nonsense sentences as meaningful. Can these AI flaws open new windows on the brain? We have now entered into a"
     publishedDateTime: 2023-09-14T15:16:00Z

@@ -41,22 +41,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Indian Army's 'Made In India' Robot To Take On Enemies | Mirror Now Report On Military Powers"
-    excerpt: "In the latest news from Mirror Now, Pradeep Dutta visited Jammu to report on India's new domestically developed robot designed for combat. This innovative robot, proudly made in India, was showcased during the North Tech Symposium 2023 in Jammu on September 12."
-    publishedDateTime: 2023-09-14T01:21:00Z
-    webUrl: "https://www.timesnownews.com/videos/mirror-now/society/indian-armys-made-in-india-robot-to-take-on-enemies-mirror-now-report-on-military-powers-video-103647779"
-    ampWebUrl: "https://www.timesnownews.com/videos/mirror-now/society/indian-armys-made-in-india-robot-to-take-on-enemies-mirror-now-report-on-military-powers-video-103647779/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/videos/mirror-now/society/indian-armys-made-in-india-robot-to-take-on-enemies-mirror-now-report-on-military-powers-video-103647779/amp"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 48
-    images:
-      - url: "https://static.tnn.in/thumb/msid-103647779,updatedat-1694654485270,width-1280,height-720,resizemode-75/103647779.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "India's Infosys signs $1.5 billion contract to leverage AI solutions"
     excerpt: "Infosys did not name the company nor mention whether it is an existing client. Earlier in the month, U.S. chip maker Nvidia announced AI partnerships with Indian conglomerate Reliance Industries and the Tata group's Tata Consultancy Services to develop ..."
     publishedDateTime: 2023-09-15T05:11:00Z

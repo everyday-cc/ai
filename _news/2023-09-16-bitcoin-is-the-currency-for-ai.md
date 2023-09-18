@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "China's AI applications are coming — where it matters for monetization"
+    excerpt: "Chinese companies are making announcements about artificial intelligence again – this time about applications."
+    publishedDateTime: 2023-09-18T03:08:00Z
+    webUrl: "https://www.cnbc.com/2023/09/17/chinas-ai-applications-are-coming-where-it-matters-for-monetization.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 67
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107270651-16891871352023-07-12t065357z_76281055_rc2gx1amogo7_rtrmadp_0_china-regulation-ai.jpeg?v=1694969202&w=1920&h=1080"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Why picking the right AI-credit decisioning partner matters"
     excerpt: "As financial institutions continue to evaluate AI underwriting solutions to incorporate into their lending strategies, recognizing the distinction between"
     publishedDateTime: 2023-09-14T17:16:00Z

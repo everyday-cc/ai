@@ -35,7 +35,7 @@ related:
     provider:
       name: Indiatimes
       domain: indiatimes.com
-    quality: 58
+    quality: 60
     images:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-91232,msid-103765145/the-system-or-algorithm-works-on-deep-reinforcement-learning-drl-a-machine-learning-technique-to-adapt-to-new-conditions-on-the-route-.jpg"
         width: 600

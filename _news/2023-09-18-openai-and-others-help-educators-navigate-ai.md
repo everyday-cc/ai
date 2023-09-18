@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Local educators grapple with AI in the classroom"
-    excerpt: "With the new school year underway, and an increased number of students turning to generative AI for help with homework, college applications and simple amusement, local Jewish educators are determining appropriate usage."
-    publishedDateTime: 2023-09-14T02:01:00Z
-    webUrl: "https://jewishchronicle.timesofisrael.com/local-educators-grapple-with-ai-in-the-classroom/"
-    type: article
-    provider:
-      name: jewishchronicle.timesofisrael
-      domain: timesofisrael.com
-    quality: 39
-    images:
-      - url: "https://static.timesofisrael.com/jewishchronicle/uploads/2023/09/iStock-1214297905-1024x640.jpg"
-        width: 1024
-        height: 640
-        isCached: true
   - title: "New ‘AI at Wharton’ initiative aims to explore and research AI applications, educate students on AI"
     excerpt: "The initiative will give students the opportunity to take advantage of Wharton’s resources to further their understanding of how to use AI and apply it in the business world."
     publishedDateTime: 2023-09-18T00:35:00Z

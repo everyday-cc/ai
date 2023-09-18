@@ -6,7 +6,7 @@ publishedDateTime: 2023-09-18T17:26:00Z
 originalUrl: "https://news.crunchbase.com/ai-robotics/startup-generative-ai-writer-iconiq/"
 webUrl: "https://news.crunchbase.com/ai-robotics/startup-generative-ai-writer-iconiq/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://news.crunchbase.com/wp-content/uploads/Generative_AI_1.jpg"
@@ -55,6 +56,6 @@ related:
         height: 512
         isCached: true
 
-secured: "LAki9Gm06ujIf6iRX6FBz1fTRnyYhYJcSq0GcpYOBRuUWkZG+ldcmT9fNQES7yF9HI48BnlZiiAt/JcbkIdo1ZM/JZMYtlyGd9KXlR8veYG7z1LXpmsJx8hSLROvUD7uO+jIJrk4975T4DMcAwfb8hdKIlOAeXHpk4O+rYIwpmfphwUMD5F1iI/Y6zhgxX2UY+JoGP/edMLXfaq26w83hdQr5IaEz6P2u8wkdSxw8UDfvLKaBasm8+LaeR0fWBo7sCvyHkvaU6wGczClC+UkSgmYRhdejT5GC1SKnwZPwvHSu4Qc9gjs6ZJxuMakh+nhTphhVQCjdoCrSF1+4nHR/oUoInqmtC+aUs8tDxJ6as8=;KAviICOFxBH08U18IPua1Q=="
+secured: "8oCYPRW7Cabi+cmLur1qppIC14H/45gDMWthPHv+KdZ+UjxAe7PZHipNRcCzb9wSmrRO+4zrEkFsMKfODLq43O4gxatcqjqKNkVRX7VkrT1RPi1r+dbLEj9wy77GK+XXLv0y+EQUa6ruO9rrxktnFFmRur7EfLGZpF2ZkVKa0by54895odWwP897CtUuXgRE1h63tp3/gDOoKxHcEZchyEMPQY7E4HE3Ggvg9Id7cjCtABBGvfDEm2gNm3KyS2w2LPYsC5tvw5gzgimo3ftAKQe8LykSGN0ngyA2bE2/EXaCvjSELqkbsBfLh8bgqTbWaOQJGzI2N/Qe8aNica1/yA2mOuktk2PnC8iomXKJpEjwzkt0DSUnUXmbK48dXMLBx8HfrS6pfI5nvfSLePM2oYvEFP4sUQZTQ6n/qZwdS6VYylo81iIt3qm5NMmb/duTpueSSu/P1NB7UVwnxZaVJ0GDhsnLkXZ9QFpAoHyfFfNkiHZO50XfDRYianAspGAX5hlyFEN41gfmjH1uSJk0HA==;QJnxnqp0taQYkvR8x/AB8Q=="
 ---
 

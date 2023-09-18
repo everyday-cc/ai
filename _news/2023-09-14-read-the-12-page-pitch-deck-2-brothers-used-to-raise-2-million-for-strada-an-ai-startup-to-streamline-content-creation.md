@@ -28,15 +28,22 @@ images:
     isCached: true
 
 related:
-  - title: "AI Startup Writer Raises $100 Million to Pen Corporate Content"
-    excerpt: "Writer Inc., a startup that helps businesses write and summarize a wide range of content, has raised $100 million in a deal that values the company at more than $500 million."
-    publishedDateTime: 2023-09-18T12:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-09-18/ai-startup-writer-raises-100-million-to-pen-corporate-content"
+  - title: "Collina Strada Takes On AI Fashion At New York Fashion Week SS24"
+    excerpt: "Apart from the new fashion trends unveiled at NYFW SS24, another notable trend that could potentially take the fashion world by storm is AI fashion."
+    publishedDateTime: 2023-09-18T21:31:00Z
+    webUrl: "https://www.forbes.com/sites/rosecelestin/2023/09/18/collina-strada-takes-on-ai-fashion-at-new-york-fashion-week-ss24/"
+    ampWebUrl: "https://www.forbes.com/sites/rosecelestin/2023/09/18/collina-strada-takes-on-ai-fashion-at-new-york-fashion-week-ss24/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rosecelestin/2023/09/18/collina-strada-takes-on-ai-fashion-at-new-york-fashion-week-ss24/amp/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/650843e139f2f2bd102250ba/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "tacu7lHSw33890cnPjs1ZOJH2r+uGnKsJSE7Lw4D708wF2DvCUbaT/YT8NNhrdYlLfvPpFOVSz00W5avlIEdr91NodsgnQIFWGjFaN1H6PHCKeFLhqJXOa4WZcD1SYZerXYBRiuVYgby8d37OvXroOizhdx9btSzoTsYbh0UWfkJs0rzeIs6K2R3hZQMp73Qsb1ZBlgNR5yuU7RdPh3ZJGfCibbyL3KNvztvVu+VMZ36Qojd8ciZG0hmv9IqjYX9gzx58IJ+uhXmt9BCFgqfD2xsV0adTxY4uGIWO3IeZ2pR/188QaE0K7+ShPeXsfalaqrsT6Y/xgqpvZ4VFCYR4eeztrytS/V0PXvZ0OJ5uhNdoUXzFlTl70bsIJFYzQ7RUrFwWt35KYdf8QKI69kXZHaQbEvGNdx6uJZL0o5cBs10g2xgPW8fgeI/n3v9Xn34VNZ3y6vx4Tfz/6zf2qg9vQ1flIbSyNQbh0/AS2ii7GE/tK5U9T92OA5aplV2MR3fs7RjxPztmMHFxIa/ZCPlDQ==;IeGnMgxEY4ecG1pJ2JqG4Q=="
 ---

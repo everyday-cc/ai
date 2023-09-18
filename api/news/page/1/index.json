@@ -2,6 +2,245 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-19-collina-strada-takes-on-ai-fashion-at-new-york-fashion-week-ss24.md",
+      "title": "Collina Strada Takes On AI Fashion At New York Fashion Week SS24",
+      "excerpt": "Apart from the new fashion trends unveiled at NYFW SS24, another notable trend that could potentially take the fashion world by storm is AI fashion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rosecelestin/2023/09/18/collina-strada-takes-on-ai-fashion-at-new-york-fashion-week-ss24/",
+      "originalUrl": "https://www.forbes.com/sites/rosecelestin/2023/09/18/collina-strada-takes-on-ai-fashion-at-new-york-fashion-week-ss24/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/650843e139f2f2bd102250ba/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rosecelestin/2023/09/18/collina-strada-takes-on-ai-fashion-at-new-york-fashion-week-ss24/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rosecelestin/2023/09/18/collina-strada-takes-on-ai-fashion-at-new-york-fashion-week-ss24/amp/",
+      "publishedDateTime": "2023-09-18T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-chinese-ai-company-on-us-export-blacklist-launches-ipo.md",
+      "title": "Chinese AI Company on U.S. Export Blacklist Launches IPO",
+      "excerpt": "A Chinese artificial-intelligence company on a U.S. export blacklist has started its initial public offering in Hong Kong. Beijing Fourth Paradigm Technology, which offers AI software for businesses,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-09-18-2023/card/chinese-ai-company-on-u-s-export-blacklist-launches-ipo-AI6m9vyBNm7xKKRyPhHA",
+      "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-09-18-2023/card/chinese-ai-company-on-u-s-export-blacklist-launches-ipo-AI6m9vyBNm7xKKRyPhHA",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-853556/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-18T14:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-ai-and-machine-learning-can-successfully-diagnose-polycystic-ovary-syndrome.md",
+      "title": "AI and machine learning can successfully diagnose polycystic ovary syndrome",
+      "excerpt": "Artificial intelligence (AI) and machine learning (ML) can effectively detect and diagnose Polycystic Ovary Syndrome (PCOS), which is the most common hormone disorder among women, typically between ages 15 and 45,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-09-ai-machine-successfully-polycystic-ovary.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-09-ai-machine-successfully-polycystic-ovary.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-and-machine-learnin.jpg",
+          "width": 1089,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-09-ai-machine-successfully-polycystic-ovary.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-09-ai-machine-successfully-polycystic-ovary.amp",
+      "publishedDateTime": "2023-09-18T13:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-writer-raises-100m-to-bring-its-full-stack-ai-model-palmyra-to-more-enterprises.md",
+      "title": "Writer raises $100M to bring its ‘full stack’ AI model Palmyra to more enterprises",
+      "excerpt": "You don't have to be an AI expert to get set up with Writer's LLM Palmyra. The software layers do the heavy lifting, and",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/business/writer-raises-100m-to-bring-its-full-stack-ai-model-palmyra-to-more-enterprises/",
+      "originalUrl": "https://venturebeat.com/business/writer-raises-100m-to-bring-its-full-stack-ai-model-palmyra-to-more-enterprises/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_vector_art_flat_illustration_minimal_a_hand_holding_a_p_919a46af-58dd-4ab3-9a5c-7dc4510bbc9c.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-18T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-oracle-brings-voice-activated-ai-to-healthcare-with-clinical-digital-assistant.md",
+      "title": "Oracle brings voice-activated AI to healthcare with Clinical Digital Assistant",
+      "excerpt": "Oracle today announced a voice-activated, generative AI-powered clinical digital assistant to improve how clinicans deliver care to patients.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/oracle-brings-voice-activated-ai-to-healthcare-with-clinical-digital-assistant/",
+      "originalUrl": "https://venturebeat.com/ai/oracle-brings-voice-activated-ai-to-healthcare-with-clinical-digital-assistant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-18T11:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-09-18-orchestrate-ray-based-machine-learning-workflows-using-amazon-sagemaker.md",
       "title": "Orchestrate Ray-based machine learning workflows using Amazon SageMaker",
       "excerpt": "Machine learning (ML) is becoming increasingly complex as customers try to solve more and more challenging problems. This complexity often leads to the need for distributed ML, where multiple machines are used to train a single model. Although this enables parallelization of tasks across multiple nodes,",
@@ -114,7 +353,7 @@
       "originalUrl": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/how-real-time-machine-learning-can-make-the-self-driving-cars-more-smart/articleshow/103765140.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 130,
       "tags": null,
       "images": [
         {
@@ -145,7 +384,8 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -157,7 +397,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/5-blue-chip-growth-stocks-to-buy-according-to-ai-1032637898",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 158,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -189,7 +429,8 @@
       "topics": [
         "Machine Learning",
         "AI",
-        "AI Hardware"
+        "AI Hardware",
+        "AI in Autos"
       ]
     },
     {
@@ -439,7 +680,7 @@
       "originalUrl": "https://www.crowdfundinsider.com/2023/09/213091-trade-ledger-introduces-bank-solution-with-microsoft-azure-openai-service/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 375,
+      "heat": 435,
       "tags": null,
       "images": [
         {
@@ -716,7 +957,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/18/the-10-most-important-ai-trends-for-2024-everyone-must-be-ready-for-now/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -798,57 +1039,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-18-chinese-ai-firm-fourth-paradigm-leads-hong-kong-ipo-surge-to-raise-280-mln.md",
-      "title": "Chinese AI firm Fourth Paradigm leads Hong Kong IPO surge to raise $280 mln",
-      "excerpt": "Beijing Fourth Paradigm, an AI startup, is aiming to raise up to $144 million by selling 18.4 million shares in a price range of HK$55.60 to HK$61.16 each, according to its regulatory filings. Three cornerstone investors, headed by New China Capital ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/markets/deals/chinese-ai-firm-fourth-paradigm-leads-hong-kong-ipo-surge-raise-280-mln-2023-09-18/",
-      "originalUrl": "https://www.reuters.com/markets/deals/chinese-ai-firm-fourth-paradigm-leads-hong-kong-ipo-surge-raise-280-mln-2023-09-18/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/P7XD2J1IsUdNZnrF_8EiGhKZ6FM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HPK422YTURMPJAYWDM6RWBFX6M.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-17T18:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -990,195 +1180,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-17-5-skills-for-the-future-how-to-proof-your-career-for-the-ai-revolution.md",
-      "title": "5 Skills For The Future: How To Proof Your Career For The AI Revolution",
-      "excerpt": "If you don't get on board and upskill yourself in these five skills, your career will be obsolete. Learn the five essential skills you need to outlast the AI revolution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rachelwells/2023/09/17/5-skills-for-the-future-how-to-proof-your-career-for-the-ai-revolution/",
-      "originalUrl": "https://www.forbes.com/sites/rachelwells/2023/09/17/5-skills-for-the-future-how-to-proof-your-career-for-the-ai-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6507054221636f3caa52ccc9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rachelwells/2023/09/17/5-skills-for-the-future-how-to-proof-your-career-for-the-ai-revolution/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/09/17/5-skills-for-the-future-how-to-proof-your-career-for-the-ai-revolution/amp/",
-      "publishedDateTime": "2023-09-17T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-17-ai-and-cloud-computing-training-everything-you-need-to-know.md",
-      "title": "AI and cloud computing training: Everything you need to know",
-      "excerpt": "Specialised areas such as ethics in AI, bias reduction, and AI governance are also becoming integral parts of comprehensive AI training programs. In Cloud Computing training, understanding various platforms, migration strategies, security protocols ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-ai-and-cloud-computing-training-everything-you-need-to-know-3246235/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-ai-and-cloud-computing-training-everything-you-need-to-know-3246235/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design232.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-ai-and-cloud-computing-training-everything-you-need-to-know-3246235/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-and-cloud-computing-training-everything-you-need-to-know-3246235/lite/",
-      "publishedDateTime": "2023-09-17T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-17-banking-in-the-modern-age-ai-machine-learning-and-global-evolution.md",
-      "title": "Banking in the Modern Age: AI, Machine Learning, and Global Evolution",
-      "excerpt": "Introduction The global banking industry is undergoing a profound transformation, driven by technological advancements, changing customer expectations, and regulatory developments. In this article, we will explore the current state of the banking industry worldwide,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/banking-in-the-modern-age-ai-machine-learning-and-global-evolution/",
-      "originalUrl": "https://techbullion.com/banking-in-the-modern-age-ai-machine-learning-and-global-evolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-17-at-2.42.20-PM.jpeg",
-          "width": 739,
-          "height": 415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-17T02:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-09-17-is-this-artificial-intelligence-ai-stock-worth-buying-following-a-41-dip.md",
-      "title": "Is This Artificial Intelligence (AI) Stock Worth Buying Following a 41% Dip?",
-      "excerpt": "C3.ai expects to report a bigger loss in its fiscal 2024. The AI software specialist is looking to invest more money into generative AI, but its deal activity has plateaued. The stock remains expensive given the growth it's delivering. It looks like the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/09/17/is-this-artificial-intelligence-ai-stock-worth-buy/",
-      "originalUrl": "https://www.fool.com/investing/2023/09/17/is-this-artificial-intelligence-ai-stock-worth-buy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/747509/person-looking-at-charts-on-a-computer-screen.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-17T02:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

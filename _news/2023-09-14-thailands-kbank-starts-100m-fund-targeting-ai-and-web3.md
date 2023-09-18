@@ -35,7 +35,7 @@ related:
     provider:
       name: news.crunchbase
       domain: crunchbase.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://news.crunchbase.com/wp-content/uploads/Generative_AI_1.jpg"
         width: 900

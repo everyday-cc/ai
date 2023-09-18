@@ -205,6 +205,15 @@ related:
         width: 375
         height: 293
         isCached: true
+  - title: "Microsoft AI Researchers Accidentally Exposed Big Cache of Data"
+    excerpt: "Microsoft Corp.’s AI research team accidentally exposed a large cache of private data on the software development platform GitHub, according to new research from a cybersecurity firm."
+    publishedDateTime: 2023-09-18T21:30:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-09-18/microsoft-ai-researchers-accidentally-exposed-big-cache-of-data"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 66
   - title: "Everything we're expecting at Microsoft's Surface and AI event next week"
     excerpt: "Microsoft's momentous year may culminate in one of its biggest launch events next week. Here's what we're expecting."
     publishedDateTime: 2023-09-15T18:48:00Z
@@ -214,6 +223,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 63
+  - title: "Microsoft exposed 38 terabytes of sensitive data while working on AI model"
+    excerpt: "Between July 20, 2020, and June 24, 2023, Microsoft exposed a vast trove of data to the public web through a GitHub public repository. Cloud security"
+    publishedDateTime: 2023-09-18T19:28:00Z
+    webUrl: "https://www.techspot.com/news/100191-microsoft-exposed-38-terabytes-sensitive-data-while-working.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 62
   - title: "Microsoft AI researchers accidentally exposed terabytes of internal sensitive data"
     excerpt: "Microsoft AI researchers accidentally exposed tens of terabytes of sensitive data, including private keys and passwords, while publishing a storage bucket of open-source training data on GitHub. In research shared with TechCrunch, cloud security startup ..."
     publishedDateTime: 2023-09-18T13:22:00Z
@@ -278,6 +296,20 @@ related:
       - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-120923-cover-500px.jpg"
         width: 500
         height: 354
+        isCached: true
+  - title: "Microsoft Azure Data Leak Exposes Dangers of File-Sharing Links"
+    excerpt: "Shared Access Signature (SAS) link exposed a storage bucket with 38TB of private data, including passwords, Teams messages, and the backups of two Microsoft AI research employees' workstations."
+    publishedDateTime: 2023-09-18T21:11:00Z
+    webUrl: "https://www.darkreading.com/cloud/microsoft-azure-data-leak-exposes-dangers-of-file-sharing-links"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 54
+    images:
+      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt125542a64185f789/64d2addbf05519b482702dee/cloudconcept-ScimanSky-alamy.jpg"
+        width: 646
+        height: 430
         isCached: true
   - title: "Microsoft and Oracle’s secret is out as they announce Oracle Database@Azure"
     excerpt: "Microsoft and Oracle have announced Oracle Database@Azure, a solution for running Oracle database services on Microsoft Azure, whose hints they dropped a"
@@ -358,6 +390,33 @@ related:
         width: 1893
         height: 767
         isCached: true
+  - title: "Microsoft AI Research Division Accidentally Leaks 38TB of Internal Data"
+    excerpt: "Microsoft’s artificial intelligence research division accidentally leaked 38TB of internal sensitive data via GitHub, according to a cybersecurity startup. The compromised data includes passwords, access keys, computer backups, and thousands of Microsoft Teams messages."
+    publishedDateTime: 2023-09-18T21:22:00Z
+    webUrl: "https://www.extremetech.com/internet/microsoft-ai-research-division-accidentally-leaks-38tb-of-internal-data"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 34
+  - title: "Microsoft Under Scrutiny After 38TB Data Leaked Via Azure Storage"
+    excerpt: "Researchers have discovered, in July 2020, a misconfigured link exposed approximately 38TB of sensitive Microsoft data."
+    publishedDateTime: 2023-09-18T19:17:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-accidentally-leaked-38tb-of-sensitive-data-report/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 34
+  - title: "Netcracker and Microsoft Bring AI Solutions to Telecom Operators"
+    excerpt: "Netcracker Technology expanded its partnership with Microsoft to support Netcracker's recently launched GenAI Telco Solution."
+    publishedDateTime: 2023-09-18T18:33:00Z
+    webUrl: "https://www.tmcnet.com/voip/news/articles/457129-netcracker-microsoft-bring-ai-solutions-telecom-operators.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
   - title: "Microsoft outlines framework for building AI apps and copilots … – Microsoft"
     excerpt: "A copilot is an application that uses modern AI and large language models to assist you with a complex cognitive task – from writing a sales pitch or catching up on a missed meeting to generating images for a presentation or planning a themed dinner party."
     publishedDateTime: 2023-09-17T01:16:00Z
@@ -386,6 +445,6 @@ related:
       domain: microsoft.com
     quality: 7
 
-secured: "+BpKLCgdHVUFv1ANcH5m4GKHPTDEPCLdsCFScRbFH2R0i05R/tnL9ZfQIusK0RXGL6MQfBCS//5yjH37uLBcGAiD0xXIsQmSMRLIYDa9ldocdegzohK20nMeIwfZgREXsHUMF1I+tMbogcF18PauzgiX+gDIkMpW2s5qcr49DxRAQWlk4fZlg1plwu0lAhAWtr9qIzjlyonshdaUJTqoB81Od8ZvBG21cwKLThE530OrXrVzNWr2gX3g6wSQ23KQP/ZDTnMt2B/vIODVvXmdxuZ5MqYQC7zC++OtqxJc+qTBVhv0NRy6GXynYpQb/M8qojVq/cN1+v+8LfodN7Fx4pnr9+AHlAR+d3+4l7aBKY0=;erZQaSfo6wEpSBDUSyjN/g=="
+secured: "lRkc2fGWJDHVAv4iI1yGXLVLDe4dy+Qxw8mMvm/F4POkWHprTOGAbkDhvdDJqpDuoxGckCtB2AnjtIM4YVvyTSI4LSeFRSMy/iZsWVNTJ59SIH6X11WDvd1BvkftyxGK9cn+b/uKA7d1ixMc9mgor6NZ95QvJMHRXqvPbcE5F1O472HVnHYEAKgbGsf5GGkJYvKHFBnkqXnX6D3z7HXkc3KirbRjRYkRrrEq7NwHl6SR0r24IfMJ+CzzqCkteRJTH5n3X4oSBuZxtdT2c0huxsHYdwiJwmDBO+x8lp/vwsINF0zGPypJRPgnEyvjyUVKMu08lrqw5z0vyB83OUJUylNSjeYiLouuXPjc58FoazQBNTzciPvYtsexnZmU3WKBfFEsyOn5C1x2+ReZEPCqRKCW+oOqMmaU+rD95V2eAwIoNrT4IMrmmaWjPqmL0axRiXXLFndUgOi+1wDkU/sZaPG3bM0ShZxdK9TSPlRb+yHKIFCVyfxK/pzgCQM80H00g9KxddJSTFgtnDQLvvPkAg==;XRZbCo+SVxA3Q9LSZ88ZAw=="
 ---
 

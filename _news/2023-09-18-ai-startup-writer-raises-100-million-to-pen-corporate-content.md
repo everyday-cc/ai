@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-09-18/ai-startup-writ
 webUrl: "https://www.bloomberg.com/news/articles/2023-09-18/ai-startup-writer-raises-100-million-to-pen-corporate-content"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -22,19 +22,19 @@ topics:
   - AI
 
 related:
-  - title: "Read the 12-page pitch deck 2 brothers used to raise $2 million for Strada, an AI startup to streamline content creation"
-    excerpt: "Brothers Michael and Peter Cioni, former Adobe and Netflix execs, raised a pre-seed round for their startup, Strada, which aims to harness AI to simplify and speed up video content production."
-    publishedDateTime: 2023-09-14T11:46:00Z
-    webUrl: "https://www.businessinsider.com/pitch-deck-ai-startup-strada-raised-2m-streamline-content-creation-2023-9"
+  - title: "Writer raises $100M to bring its ‘full stack’ AI model Palmyra to more enterprises"
+    excerpt: "You don't have to be an AI expert to get set up with Writer's LLM Palmyra. The software layers do the heavy lifting, and"
+    publishedDateTime: 2023-09-18T20:10:00Z
+    webUrl: "https://venturebeat.com/business/writer-raises-100m-to-bring-its-full-stack-ai-model-palmyra-to-more-enterprises/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 61
     images:
-      - url: "https://i.insider.com/650226851afe8f0019e9fb30?width=1200&format=jpeg"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_vector_art_flat_illustration_minimal_a_hand_holding_a_p_919a46af-58dd-4ab3-9a5c-7dc4510bbc9c.png?w=1200&strip=all"
         width: 1200
-        height: 600
+        height: 672
         isCached: true
 
 secured: "IqAv5WlK+q+oxM6xjM6X7DjfgOGGTJsma9xdhe4/57PDogLKB8kqFMCI+F23r4dXKBo7JrvXjWWDTo8Azqled3SsaUUY6pf00u4TrF711YoHHJjSazHZaKkIbXsulBD/Ft8TEXynHDm8W5g4TiryofkS7IEfapT8g7nQSXn/1nLQS+9GmAR7Cn/MqTXZdA/xZ0LXcTmAkXYzMZpqqTAu1qokSKY0cPhitD6gVtgEQI8cGaa1HJ+jsbJzDwnJl62qm58xhCvQfqFquaH0qzQxglQFcOBkFThHkc2auQk9S4CE1s8mxpMeg5A+/4aZ5TIaOhZ2ktBfjYjnq+Ywn/62WiOFZFd1+0OMEmUkmVWSQ+Gzqx3+6eTZ8JgWTORf2kr7NZ4lkafWcVLQZYK1mH967H7i04YEy2VychfIR9SSNU5X0JncKqw05PYybvMc9JSXepxyYmhv0gNvviee4airp3/q7s19pqMl9Fmcrhgn2qeZhgIrkRbAQ/Ds/3pZ/kwVeuLN/tEptTES9tcnv5r9hQ==;CfHIr7KEOdXz5sdl1+i+wA=="

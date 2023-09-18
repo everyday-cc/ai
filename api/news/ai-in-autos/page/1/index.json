@@ -2,6 +2,95 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-18-how-real-time-machine-learning-can-make-the-self-driving-cars-more-smart.md",
+      "title": "How real-time machine learning can make the self-driving cars more smart",
+      "excerpt": "Real-time machine learning and compression techniques are essential for the advancement of self-driving technology. These techniques enable vehicles to make split-second decisions, such as predicting a pedestrian's movements or adjusting paths for cyclists.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/how-real-time-machine-learning-can-make-the-self-driving-cars-more-smart/articleshow/103765140.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/how-real-time-machine-learning-can-make-the-self-driving-cars-more-smart/articleshow/103765140.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-91232,msid-103765145/the-system-or-algorithm-works-on-deep-reinforcement-learning-drl-a-machine-learning-technique-to-adapt-to-new-conditions-on-the-route-.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/industry/auto/cars-uvs/how-real-time-machine-learning-can-make-the-self-driving-cars-more-smart/amp_articleshow/103765140.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/auto/cars-uvs/how-real-time-machine-learning-can-make-the-self-driving-cars-more-smart/amp_articleshow/103765140.cms",
+      "publishedDateTime": "2023-09-18T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-09-18-5-blue-chip-growth-stocks-to-buy-according-to-ai.md",
+      "title": "5 Blue-Chip Growth Stocks to Buy According to AI",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips This article is an excerpt from the InvestorPlace Digest newsletter. To get",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/5-blue-chip-growth-stocks-to-buy-according-to-ai-1032637898",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/5-blue-chip-growth-stocks-to-buy-according-to-ai-1032637898",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 158,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-18T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-09-16-using-the-brain-as-a-model-inspires-a-more-robust-ai.md",
       "title": "Using the brain as a model inspires a more robust AI",
       "excerpt": "Most artificially intelligent systems are based on neural networks, algorithms inspired by biological neurons found in the brain. These networks can consist of multiple layers, with inputs coming in one side and outputs going out of the other.",
@@ -651,6 +740,58 @@
       ]
     },
     {
+      "path": "_news/2023-09-09-how-elon-musk-set-tesla-on-a-new-course-for-self-driving.md",
+      "title": "How Elon Musk set Tesla on a new course for self-driving",
+      "excerpt": "The new version he was using, FSD 12, was based on a radical new concept that he believes will not only totally transform autonomous vehicles but also be a quantum leap toward artificial general ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/09/09/ai-for-cars-walter-isaacson-biography-of-elon-musk-excerpt.html",
+      "originalUrl": "https://www.cnbc.com/2023/09/09/ai-for-cars-walter-isaacson-biography-of-elon-musk-excerpt.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107293542-1693349778237-94_Dhaval_Shroff_from_him.png?v=1694260802",
+          "width": 2524,
+          "height": 3366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/09/09/ai-for-cars-walter-isaacson-biography-of-elon-musk-excerpt.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/09/ai-for-cars-walter-isaacson-biography-of-elon-musk-excerpt.html",
+      "publishedDateTime": "2023-09-09T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-08-fareye-recognized-as-leader-in-ai-for-order-management-fulfillment-and-last-mile-delivery-by-idc-innovator-report.md",
       "title": "FarEye Recognized as Leader in AI for Order Management, Fulfillment and Last-Mile Delivery by IDC Innovator Report",
       "excerpt": "FarEye, a leading provider of delivery management solutions, has been named a leader in artificial intelligence (AI) for order management, fulfillment and last-mile delivery by analyst firm IDC. The recognition comes as part of the “IDC Innovators: AI for Order Management,",
@@ -1195,158 +1336,6 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-our-pick-of-the-best-artificial-intelligence-ai-stocks-and-shares.md",
-      "title": "Our Pick Of The Best Artificial Intelligence (AI) Stocks and Shares",
-      "excerpt": "From self-driving cars to surgery-performing robots, artificial intelligence (AI) is helping to transform every part of our lives. And the potential opportunity created by this high-growth ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/uk/advisor/investing/best-artificial-intelligence-ai-stocks-shares/",
-      "originalUrl": "https://www.forbes.com/uk/advisor/investing/best-artificial-intelligence-ai-stocks-shares/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/01/Image-1-e1675170541788.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-05T04:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-artificial-intelligence-transforming-healthcare-cybersecurity-and-communications.md",
-      "title": "Artificial Intelligence: Transforming Healthcare, Cybersecurity, and Communications",
-      "excerpt": "Artificial intelligence (AI) systems aim to reproduce human characteristics and processing power in a machine and outperform human speed and constraints. Machine learning and natural language processing, which are already commonplace in our daily lives ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/chuckbrooks/2023/09/04/artificial-intelligence-transforming-healthcare-cybersecurity-and-communications/",
-      "originalUrl": "https://www.forbes.com/sites/chuckbrooks/2023/09/04/artificial-intelligence-transforming-healthcare-cybersecurity-and-communications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64f654488751487eecb0157e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/chuckbrooks/2023/09/04/artificial-intelligence-transforming-healthcare-cybersecurity-and-communications/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2023/09/04/artificial-intelligence-transforming-healthcare-cybersecurity-and-communications/amp/",
-      "publishedDateTime": "2023-09-04T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare",
-        "Microsoft AI",
-        "AI Ethics",
-        "AI in Robotics",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-labor-day-protest-against-cruise-robotaxis-in-san-francisco.md",
-      "title": "Labor Day protest against Cruise robotaxis in San Francisco",
-      "excerpt": "A Labor Day protest in San Francisco focused on robotaxis and threats from artificial intelligence. Taxi drivers and Muni workers organized by a \"united front committee for labor party\" rallied outside the headquarters of Cruise driverless cars on Bryant Street.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcbayarea.com/news/local/san-francisco/labor-day-protest-robotaxis/3309997/",
-      "originalUrl": "https://www.nbcbayarea.com/news/local/san-francisco/labor-day-protest-robotaxis/3309997/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcbayarea.com/2023/09/robotaxi-protest-0904.jpg?quality=85&strip=all&resize=1200%2C675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcbayarea.com/news/local/san-francisco/labor-day-protest-robotaxis/3309997/?amp=1",
-      "cdnAmpWebUrl": "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/local/san-francisco/labor-day-protest-robotaxis/3309997/?amp=1",
-      "publishedDateTime": "2023-09-04T11:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC Bay Area",
-        "domain": "nbcbayarea.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

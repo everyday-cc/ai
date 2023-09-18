@@ -8,8 +8,8 @@ webUrl: "https://economictimes.indiatimes.com/industry/auto/cars-uvs/how-real-ti
 ampWebUrl: "https://m.economictimes.com/industry/auto/cars-uvs/how-real-time-machine-learning-can-make-the-self-driving-cars-more-smart/amp_articleshow/103765140.cms"
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/auto/cars-uvs/how-real-time-machine-learning-can-make-the-self-driving-cars-more-smart/amp_articleshow/103765140.cms"
 type: article
-quality: 58
-heat: 128
+quality: 60
+heat: 130
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 images:
   - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-91232,msid-103765145/the-system-or-algorithm-works-on-deep-reinforcement-learning-drl-a-machine-learning-technique-to-adapt-to-new-conditions-on-the-route-.jpg"
@@ -118,6 +119,6 @@ related:
       domain: carwow.co.uk
     quality: 3
 
-secured: "iv0VA1oL5C74n6+B7QdwcQAqTl9EI9vxMmkVLtBGQHv9aNzB9QahAiC0Ng6VmMSivWwy0vqMEs4jsIbCN7nR3FvfpRNGQQIfuOnjV8VoxTAVnffeEohH/03hQwq56LMBAcYu5YV0oT0YdZ6YxYZNPFtCXeCzHDc2+U+Ke29ZyZdLljrnleHsL8FZJRYvuG/W7p/+1QTC86F3bFH1mEYjyZsO3fWkaAXKIsFouSLTM+HOaVw9atoX3MAeFebftsGer5ifp9Q0fUW+7ByHMFIugWDjV4Zo1f5WclTUbJXKbOL1BP0OEm/NA8i85hUYY6kcgZ2MbZOvoRRaGfqaQsskbgCK+hfafj+5l/yLwuX6v2I=;gMpk0FMnZnZLOh1+RoJhgg=="
+secured: "cayO5HlXe8w3M3xsMwjU0yIszr423pzqpRpLeCSfzc1Zq5Yuk5lTIYMbuEt4YadCFCZdp+EYzzodcghSvuVXIAwMaUM7vDp76OsLi22oTx5Pylavw9h2murXqPincaFEdCBemiie0B4fjjpTUspGQcnJuCSDQRmSPte4sENrSz5SipT1AcJfX8kGYMh2A/4gs68R+kuAjrdTR6WD031+C4cwxdfb3wXcP/+3VbzhVeAclVyV1sZfjlmUwqBDRRpZNknbLzNBGqed1rdb7Juvp4EFeJxvnGGfW8bSoohApCsF6b9YcjCl5J/VKP8qEprPeEnvMa6MihWlvwcq2NSMvcYT5QJOv+G87qVqhesJNHrIfHBky2397Ky0cJcTVk8uBadeQTdCXZ5Ztig39SVNTUP+eC068x2KsNz7Cl7EAlM5etmklOpIV0+8myQTV/5eAWpV5JJ8QbqZeneFs+WhlAOgRjuT+jsrI+qzggiMKsP6CWHtind8waoK+miMp4M8nUzjnlTkNASYh44Mn5qSTw==;n0K018EcVAtPGaMH8gLdxg=="
 ---
 

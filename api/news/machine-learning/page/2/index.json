@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-08-improving-asset-health-and-grid-resilience-using-machine-learning.md",
+      "title": "Improving asset health and grid resilience using machine learning",
+      "excerpt": "Machine learning (ML) is transforming every industry, process, and business, but the path to success is not always straightforward. In this blog post, we demonstrate how Duke Energy, a Fortune 150 company headquartered in Charlotte, NC., collaborated with the AWS Machine Learning Solutions Lab (MLSL)",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improving-asset-health-and-grid-resilience-using-machine-learning/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improving-asset-health-and-grid-resilience-using-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/08/featured-images-ML-14116-1120x630.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-08T09:27:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-09-08-machine-learning-can-level-the-playing-field-against-match-fixinghelping-regulators-spot-cheating.md",
       "title": "Machine learning can level the playing field against match fixing—helping regulators spot cheating",
       "excerpt": "On the eve of the Rugby World Cup kicking off, there have already been whispers of teams spying on each other. Inevitable gamesmanship, perhaps, but there's no doubt cheating in sport is a problem authorities struggle to combat.",
@@ -1239,50 +1292,6 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Drexel University",
-        "domain": "drexel.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-08-27-masters-ms-in-machine-learning-and-artificial-intelligence.md",
-      "title": "Master’s (MS) in Machine Learning and Artificial Intelligence",
-      "excerpt": "Who is the Master's in Artificial Intelligence and Machine Learning program for? Drexel’s College of Computing & Informatics' Master of Science in Artificial Intelligence and Machine Learning (MSAIML) is designed for students who hold a four-year ...",
-      "sourceUrl": null,
-      "webUrl": "https://drexel.edu/cci/academics/masters-programs/ms-in-artificial-intelligence-machine-learning/",
-      "originalUrl": "https://drexel.edu/cci/academics/masters-programs/ms-in-artificial-intelligence-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://drexel.edu/~/media/Images/now/ui/og-drexel-logo.ashx",
-          "width": 315,
-          "height": 326,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,

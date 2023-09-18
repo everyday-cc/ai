@@ -2,6 +2,158 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-05-our-pick-of-the-best-artificial-intelligence-ai-stocks-and-shares.md",
+      "title": "Our Pick Of The Best Artificial Intelligence (AI) Stocks and Shares",
+      "excerpt": "From self-driving cars to surgery-performing robots, artificial intelligence (AI) is helping to transform every part of our lives. And the potential opportunity created by this high-growth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/uk/advisor/investing/best-artificial-intelligence-ai-stocks-shares/",
+      "originalUrl": "https://www.forbes.com/uk/advisor/investing/best-artificial-intelligence-ai-stocks-shares/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/01/Image-1-e1675170541788.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-05T04:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-05-artificial-intelligence-transforming-healthcare-cybersecurity-and-communications.md",
+      "title": "Artificial Intelligence: Transforming Healthcare, Cybersecurity, and Communications",
+      "excerpt": "Artificial intelligence (AI) systems aim to reproduce human characteristics and processing power in a machine and outperform human speed and constraints. Machine learning and natural language processing, which are already commonplace in our daily lives ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/chuckbrooks/2023/09/04/artificial-intelligence-transforming-healthcare-cybersecurity-and-communications/",
+      "originalUrl": "https://www.forbes.com/sites/chuckbrooks/2023/09/04/artificial-intelligence-transforming-healthcare-cybersecurity-and-communications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64f654488751487eecb0157e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/chuckbrooks/2023/09/04/artificial-intelligence-transforming-healthcare-cybersecurity-and-communications/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2023/09/04/artificial-intelligence-transforming-healthcare-cybersecurity-and-communications/amp/",
+      "publishedDateTime": "2023-09-04T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare",
+        "Microsoft AI",
+        "AI Ethics",
+        "AI in Robotics",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-09-05-labor-day-protest-against-cruise-robotaxis-in-san-francisco.md",
+      "title": "Labor Day protest against Cruise robotaxis in San Francisco",
+      "excerpt": "A Labor Day protest in San Francisco focused on robotaxis and threats from artificial intelligence. Taxi drivers and Muni workers organized by a \"united front committee for labor party\" rallied outside the headquarters of Cruise driverless cars on Bryant Street.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcbayarea.com/news/local/san-francisco/labor-day-protest-robotaxis/3309997/",
+      "originalUrl": "https://www.nbcbayarea.com/news/local/san-francisco/labor-day-protest-robotaxis/3309997/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nbcbayarea.com/2023/09/robotaxi-protest-0904.jpg?quality=85&strip=all&resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcbayarea.com/news/local/san-francisco/labor-day-protest-robotaxis/3309997/?amp=1",
+      "cdnAmpWebUrl": "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/local/san-francisco/labor-day-protest-robotaxis/3309997/?amp=1",
+      "publishedDateTime": "2023-09-04T11:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC Bay Area",
+        "domain": "nbcbayarea.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-03-tesla-drops-the-price-of-its-full-self-driving-beta-software.md",
       "title": "Tesla Drops the Price of Its Full Self-Driving Beta Software",
       "excerpt": "Tesla has dropped the price of its full self-driving beta software. Now instead of $15,000, Tesla owners who want the vehicle’s advanced driver assistance system (ADAS) will pay $12,000, TechCrunch reports. Tesla previously charged $12,000 for the ...",
@@ -1238,128 +1390,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-08-27-self-driving-comes-to-san-francisco.md",
-      "title": "Self Driving Comes To San Francisco",
-      "excerpt": "California regulators vote on allowing self-driving taxis in major cities, presenting a huge market opportunity in the industry. Waymo and Cruise are leading the self-driving market, while Tesla ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4631345-self-driving-comes-to-san-francisco",
-      "originalUrl": "https://seekingalpha.com/article/4631345-self-driving-comes-to-san-francisco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1391088190/image_1391088190.jpg?io=getty-c-w1536",
-          "width": 1536,
-          "height": 1152,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-26T23:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-27-graduate-certificate-in-artificial-intelligence-and-machine-learning.md",
-      "title": "Graduate Certificate in Artificial Intelligence and Machine Learning",
-      "excerpt": "Who is the AI and Machine Learning Certificate program for? Drexel College of Computing & Informatics' Post-Baccalaureate/Graduate Certificate in Artificial Intelligence (AI) and Machine Learning (ML) is designed for recent graduates and professionals who ...",
-      "sourceUrl": null,
-      "webUrl": "https://drexel.edu/cci/academics/certificate-programs/graduate-certificate-in-artificial-intelligence-machine-learning/",
-      "originalUrl": "https://drexel.edu/cci/academics/certificate-programs/graduate-certificate-in-artificial-intelligence-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Drexel University",
-        "domain": "drexel.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-08-27-masters-ms-in-machine-learning-and-artificial-intelligence.md",
-      "title": "Master’s (MS) in Machine Learning and Artificial Intelligence",
-      "excerpt": "Who is the Master's in Artificial Intelligence and Machine Learning program for? Drexel’s College of Computing & Informatics' Master of Science in Artificial Intelligence and Machine Learning (MSAIML) is designed for students who hold a four-year ...",
-      "sourceUrl": null,
-      "webUrl": "https://drexel.edu/cci/academics/masters-programs/ms-in-artificial-intelligence-machine-learning/",
-      "originalUrl": "https://drexel.edu/cci/academics/masters-programs/ms-in-artificial-intelligence-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://drexel.edu/~/media/Images/now/ui/og-drexel-logo.ashx",
-          "width": 315,
-          "height": 326,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Drexel University",
-        "domain": "drexel.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -31,7 +31,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 66
+    quality: 68
   - title: "Missed Out on NVDA and META? 3 More AI Stocks to Buy Before It’s Too Late"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) captured the imagination of investors this year"
     publishedDateTime: 2023-09-18T16:51:00Z
@@ -95,6 +95,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "Using artificial intelligence to predict heart attacks"
+    excerpt: "Using artificial intelligence, doctors at Lee Health may be able to predict the likelihood that someone will have a heart attack."
+    publishedDateTime: 2023-09-18T19:40:00Z
+    webUrl: "https://winknews.com/2023/09/18/artificial-intelligence-predict-heart-attacks/"
+    type: article
+    provider:
+      name: WINK NEWS
+      domain: winknews.com
+    quality: 37
+    images:
+      - url: "https://winknews.com/wp-content/uploads/2023/09/vlcsnap-2023-09-18-14h59m47s240.png"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "T4EackIvCcixwN9jwGiWONTqGt/cXL7sOs5EwVkiPFADs4G41AjgSeletB1cUkkZUgTrbp42/Drq1S6lZRA3usVIZsqc/FOZWiE8gQBpZ1jVL1p3jN8q4pZl8/UxZs8MRQPi78rKUrbgqMtGb+Z9pdVyJNdzHCrdRw7SLyFA03SE78gv7LQ6D08uf49Jd6m5Q1UTqLyKpNmebn9Wyu2iEP0ltUQdYTzq0r2rFzg/xpI8GIL0xq8bTmCJEnRgeUN6MeWGxtn1JO+osnAfUMW4qUVogMchhMz3lJY2pxPyggv20I/YhxJ+XskAWUMGPAJLS9MrODyHMExWMuqseHz+6+M+7LMBtttiizLK08EfeMmOLYQ1u2+ENUhiTGxXxbijjEMQZ1c0/G8RczVzlbvYN2w1L1D7Wl7T4dE73RW8jYoHcMF5/jWxEWcP9N46Xrfum1SPimgtbvKrpCfXiUYkq2xh7R7RzapwfiRNFqu7Dnk8pcBGzd/BwymldCyJQRjeOlEqBETvrMQNjZp4DyzLQQ==;vBJ0MegLMfXGeTWcjTCBzQ=="
 ---

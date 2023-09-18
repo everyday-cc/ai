@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-07-artificial-intelligence-ai-robots-market-size-trend-analysis-2023-2030.md",
+      "title": "Artificial Intelligence (AI) Robots Market Size, Trend, Analysis 2023-2030",
+      "excerpt": "Artificial Intelligence (AI) Robots Market 2023 with 117 Pages Report and enhance with extents shares into sub-counties are covered in this market. Artificial Intelligence (AI) Robots Market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34317861/artificial-intelligence-ai-robots-market-size-trend-analysis-2023-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34317861/artificial-intelligence-ai-robots-market-size-trend-analysis-2023-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34317861",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34317861",
+      "publishedDateTime": "2023-09-07T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-07-keralas-sastra-robotics-to-export-150-robots-to-britain.md",
       "title": "Kerala’s Sastra Robotics to export 150 robots to Britain",
       "excerpt": "Kochi: Sastra Robotics, a startup incubating under Kerala Startup Mission (KSUM), will export 150 robots to Britain following an agreement with one of the top IT companies in the United Kingdom (UK).",
@@ -1324,49 +1367,6 @@
       "provider": {
         "name": "Church Times",
         "domain": "churchtimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-marines-overhaul-approach-to-smart-robots-eye-new-military-job.md",
-      "title": "Marines overhaul approach to smart robots, eye new military job",
-      "excerpt": "The Marine Corps has dabbled in drones for a while: It has invested in quadcopters for infantry squads, robotic mules that lug gear, even, earlier in 2023, its first MQ-9 Reaper hunter-killer unmanned aerial vehicle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.defensenews.com/unmanned/2023/08/31/marines-overhaul-approach-to-smart-robots-eye-new-military-job/",
-      "originalUrl": "https://www.defensenews.com/unmanned/2023/08/31/marines-overhaul-approach-to-smart-robots-eye-new-military-job/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.defensenews.com/resizer/E_g2rw1tQutwbTSIqZLQAt0VM1c=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/X6U4TSASWFHXZLRPOOW7TSPMFA.jpg",
-          "width": 1024,
-          "height": 626,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-31T13:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Defense News",
-        "domain": "defensenews.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/4-ways-generative-ai-can-tr
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/4-ways-generative-ai-can-transform-the-creator-economy/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/5f9ae2a9fdf0fd5f1e0ffee3/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "US State-by-State AI Legislation Snapshot"
+    excerpt: "The Act provides that covered entities using covered algorithms (broadly defined, including machine learning, AI, and natural language processing tools) to collect, process, or transfer data “in a manner that poses a consequential risk of harm ..."
+    publishedDateTime: 2023-09-18T21:01:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/us-state-by-state-ai-legislation-7314466/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 39
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15569_2815.jpg"
+        width: 1200
+        height: 900
         isCached: true
   - title: "The Power of AI for Content Creators: 3 Ways to Enhance Your Work"
     excerpt: "Explore the benefits of using AI in content creation, including idea generation, content enhancement, and accessibility improvements."

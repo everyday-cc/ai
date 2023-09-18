@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "China's AI applications are coming — where it matters for monetization"
+    excerpt: "Chinese companies are making announcements about artificial intelligence again – this time about applications."
+    publishedDateTime: 2023-09-18T03:08:00Z
+    webUrl: "https://www.cnbc.com/2023/09/17/chinas-ai-applications-are-coming-where-it-matters-for-monetization.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 67
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107270651-16891871352023-07-12t065357z_76281055_rc2gx1amogo7_rtrmadp_0_china-regulation-ai.jpeg?v=1694969202&w=1920&h=1080"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Bitcoin is the currency for AI"
     excerpt: "BITCOIN'S compatibility with AI technologies is driving major institutional investors to increase their exposure to the cryptocurrency, according to the executive at deVere Group, one of the world's largest independent financial advisory,"
     publishedDateTime: 2023-09-16T13:15:00Z

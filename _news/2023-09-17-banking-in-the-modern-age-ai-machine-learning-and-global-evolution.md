@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/banking-in-the-modern-age-ai-machine-learn
 webUrl: "https://techbullion.com/banking-in-the-modern-age-ai-machine-learning-and-global-evolution/"
 type: article
 quality: 71
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://medcitynews.com/uploads/2021/12/GettyImages-177052337.jpg"
         width: 724
         height: 483
+        isCached: true
+  - title: "AI Can Revolutionize Mortgage Licensing"
+    excerpt: "Artificial Intelligence (AI) has become a huge topic of conversation and at times, although controversial, a driving force behind transformative changes and the mortgage industry is no exception. Mortgage licensing has evolved over the years but remains a rather manual process."
+    publishedDateTime: 2023-09-18T20:03:00Z
+    webUrl: "https://nationalmortgageprofessional.com/news/ai-can-revolutionize-mortgage-licensing"
+    type: article
+    provider:
+      name: nationalmortgageprofessional.com
+      domain: nationalmortgageprofessional.com
+    quality: 39
+    images:
+      - url: "https://nationalmortgageprofessional.com/sites/default/files/2023-09/iStock-1425210160_WEB.jpg"
+        width: 1000
+        height: 563
         isCached: true
   - title: "How AI and Blockchain are Changing the Tax Industry"
     excerpt: "Like many industries, tax is undergoing an AI and blockchain revolution. But the savvy tax professionals who embrace these technologies--and their clients--will be able to work more efficiently, reduce the risk of errors and concentrate on high-value work."

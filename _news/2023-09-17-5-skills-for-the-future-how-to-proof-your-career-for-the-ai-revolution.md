@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rachelwells/2023/09/17/5-skills-for-the
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/09/17/5-skills-for-the-future-how-to-proof-your-career-for-the-ai-revolution/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "3 AI Stocks to Grab Now for a Lucrative Future"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In the rapidly evolving world of tech stocks, it’s easy to get"
+    publishedDateTime: 2023-09-18T21:17:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-to-grab-now-for-a-lucrative-future-1032638271"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "How artificial intelligence can revolutionise science"
     excerpt: "Then, starting in the late 19th century, the establishment of research laboratories, which brought together ideas, people and materials on an industrial scale, gave rise to further innovations such as artificial fertiliser,"
     publishedDateTime: 2023-09-14T08:33:00Z
@@ -57,6 +66,20 @@ related:
       - url: "https://technical.ly/wp-content/uploads/2023/09/1rzo9eL5F9cwQ5IzA9rj-4-0w1dg.jpg"
         width: 1024
         height: 778
+        isCached: true
+  - title: "A new global map of the AI future"
+    excerpt: "AI’s geography is built around the distribution of “compute,” or raw computing power. The author of 2022’s “ Cloud Empires ” — a book about the power of big tech platforms — Lehdonvirta, 43, has just completed a geographical survey of the world’s largest cloud computing data centers, which he is set to publish later this year."
+    publishedDateTime: 2023-09-18T20:00:00Z
+    webUrl: "https://www.politico.com/newsletters/digital-future-daily/2023/09/18/a-new-global-map-of-the-ai-future-00116580"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 39
+    images:
+      - url: "https://static.politico.com/88/0d/0eb79d4d4af596657b14c1ed22be/dnb-united-states.jpeg"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "fr0vHImJEQWnLOPsmUHAacU5bWzNwujFRgQQbih3wKbSc/SHn+j6FU5tSsJ0hCSQUpwrxg3kGDWTAv6XDwEl4sgmtzJCjOOcL0RG2s9002hP8P2dUJ+HWtKYhBl4rpNnO1aP2Rm+F0TuoHhcOuI6WNU9vkZKoxJIpc2SvqzRH9Vzypzinp44FvkrhQf4Z26BGeVwK3TIRyG4ADvdJB0gTeBfQ2+L8LTEe6XAxtW6AjuVIS/fVRhBs1/ZmYh8lov09QY/+WunMskoDuWDUwm/GtudFBkk6Yg//ZF+inru0k7MCw4ikRqTvfR36xrKYLq7ormHghsAiTtVz7KrNuMvdPYjnu9P6xgNFJyIyQhQNMruOm4utn/lkNAGYZfFbw/GcFnMuVqT1pjQiTPmsPQBWh5hvcGNFZpGgcCK5Nf+6k4njVMycHXDSDuo6mPO0amzZ2thKII5hiHg3WG7dutqSKJQKN/7OV5CLdg9YHZLqm+9wYP9O9MTpuVGw/DmYXHK/auk/kPul13G4qDrpkaU0A==;F3a+wXMpqId9iGyjbuXi6g=="

@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/markets/deals/chinese-ai-firm-fourth-parad
 webUrl: "https://www.reuters.com/markets/deals/chinese-ai-firm-fourth-paradigm-leads-hong-kong-ipo-surge-raise-280-mln-2023-09-18/"
 type: article
 quality: 65
-heat: 88
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Chinese AI Company on U.S. Export Blacklist Launches IPO"
+    excerpt: "A Chinese artificial-intelligence company on a U.S. export blacklist has started its initial public offering in Hong Kong. Beijing Fourth Paradigm Technology, which offers AI software for businesses,"
+    publishedDateTime: 2023-09-18T21:07:00Z
+    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-09-18-2023/card/chinese-ai-company-on-u-s-export-blacklist-launches-ipo-AI6m9vyBNm7xKKRyPhHA"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-853556/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "AI start-up Beijing Fourth Paradigm among 3 Chinese firms launching Hong Kong IPOs"
     excerpt: "Beijing Fourth Paradigm, an AI start-up, is aiming to raise up to US$144 million by selling 18.4 million shares in a price range of HK$55.60 to HK$61.16 each, according to its regulatory filings. Three cornerstone investors, headed by New China Capital ..."
     publishedDateTime: 2023-09-18T01:59:00Z

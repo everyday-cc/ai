@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 673
         isCached: true
+  - title: "3 AI Stocks to Grab Now for a Lucrative Future"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In the rapidly evolving world of tech stocks, it’s easy to get"
+    publishedDateTime: 2023-09-18T21:17:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-to-grab-now-for-a-lucrative-future-1032638271"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "How artificial intelligence can revolutionise science"
     excerpt: "Then, starting in the late 19th century, the establishment of research laboratories, which brought together ideas, people and materials on an industrial scale, gave rise to further innovations such as artificial fertiliser,"
     publishedDateTime: 2023-09-14T08:33:00Z
@@ -55,6 +64,20 @@ related:
       - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230916_LDD002.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "A new global map of the AI future"
+    excerpt: "AI’s geography is built around the distribution of “compute,” or raw computing power. The author of 2022’s “ Cloud Empires ” — a book about the power of big tech platforms — Lehdonvirta, 43, has just completed a geographical survey of the world’s largest cloud computing data centers, which he is set to publish later this year."
+    publishedDateTime: 2023-09-18T20:00:00Z
+    webUrl: "https://www.politico.com/newsletters/digital-future-daily/2023/09/18/a-new-global-map-of-the-ai-future-00116580"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 39
+    images:
+      - url: "https://static.politico.com/88/0d/0eb79d4d4af596657b14c1ed22be/dnb-united-states.jpeg"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "DxduEUcHonrs3HsMMqHPACcFxQH5Eb6v4Gj+ARo8wKb4O1ptfWN7SS7uKOwOxKJ0cT4uezoiwAQJb9GzgFX3yNZJuijCsN2MBzgZDzFD1bg9Cd0irj7xkqPScmiep4aKyYxc9DjaBXuMWvgWbnnGFeXDJqArGB3pnYKPxK7mWmwSCJSr+/TxiAhIleVyJFGsF4c02I8kOoGHi8GmZEcT8i94IeWYFfg3yn/MjMh2mA5+ZmykrGBnmD3xqmsobSwMd2T2ocpcKGAQ0UHACJVzA1sUnmje6/ntCUWyBmlOXXa5QXh7DlKQuuuFPLamgSmEB/fIvr2MdKy3B/3SeqbPRNabbkuz/BIq/qtBfdLC78s=;As8BokZlmldzmJeyQCqP8A=="

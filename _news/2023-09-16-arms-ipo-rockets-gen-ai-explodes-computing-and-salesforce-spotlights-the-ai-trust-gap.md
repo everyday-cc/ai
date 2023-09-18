@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Here are the six AI nonprofits Salesforce is backing"
-    excerpt: "The list includes Beyond 12, CareerVillage, CodePath, College Possible, Per Scholas and Teacher Development Trust, many education focused."
-    publishedDateTime: 2023-09-14T01:38:00Z
-    webUrl: "https://venturebeat.com/ai/here-are-the-six-ai-nonprofits-salesforce-is-backing/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/02/istock-642810122-e1595440276773.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Salesforce CEO Marc Benioff says AI models have 'stolen' copyrighted content from media companies"
     excerpt: "Salesforce CEO Marc Benioff discusses ethical concerns and trust issues around generative AI at the company's Dreamforce conference."
     publishedDateTime: 2023-09-15T19:41:00Z

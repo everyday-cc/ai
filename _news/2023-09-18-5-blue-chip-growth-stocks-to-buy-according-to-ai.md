@@ -6,8 +6,8 @@ publishedDateTime: 2023-09-18T16:14:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/5-blue-chip-growth-stocks-to-buy-according-to-ai-1032637898"
 webUrl: "https://markets.businessinsider.com/news/stocks/5-blue-chip-growth-stocks-to-buy-according-to-ai-1032637898"
 type: article
-quality: 66
-heat: 146
+quality: 68
+heat: 158
 published: true
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - Machine Learning
   - AI
   - AI Hardware
+  - AI in Autos
 
 related:
   - title: "The 3 Most Undervalued Robotics Stocks to Buy in September 2023"
@@ -96,6 +97,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "Using artificial intelligence to predict heart attacks"
+    excerpt: "Using artificial intelligence, doctors at Lee Health may be able to predict the likelihood that someone will have a heart attack."
+    publishedDateTime: 2023-09-18T19:40:00Z
+    webUrl: "https://winknews.com/2023/09/18/artificial-intelligence-predict-heart-attacks/"
+    type: article
+    provider:
+      name: WINK NEWS
+      domain: winknews.com
+    quality: 37
+    images:
+      - url: "https://winknews.com/wp-content/uploads/2023/09/vlcsnap-2023-09-18-14h59m47s240.png"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "EYyegMUiidwcwlb5bobb/qWMycU4N2SGcE1kZyQ+g9FCu9DKH8DXqnfgjD3sXIaqvu/cibnO0cK3FdlLBw9NFF+V0pwZ651hgXOGZWzN1eMTKliehOv1jy/qSFJY7lKfW/+17vQygBIQArnv8eLkeJfNFIcSvUHbrzvOr5pDFy2TnyiOk1bJ0Ec6swHpd49sdp3ObfqMHXlJBsD9h1iK5hGHMrKv2XrVJLLmjHfm+u3Q0D3zjRDTOoAzUQuGYoF3vriF8+AGbx/pftiTHfK/zr35Kf3ECI9BAplqPpR029/DqQvnhx9V4ls3qEsOtml6VxquVKH+lTR0ov56j7uizI/CVUKBpub7j1ub8spnoCQbvCspztbCTMC6BEwY12tbs//XUXX5E7u0nBgiiQTEUTG/Cycpd1o50lkX06cwe/RnQj3fFS4DSqxsh0DnW44YPdYmijsOwCpOkzbvKpGYBBHGJAXdmwEsVGqgLZnPYbZXOIeyVmnGT5Q7JfSoRd7Yai/k1y1Nk3DCEpJS6qvU/w==;MZ11gyYkmclmrwDtz2Qn6Q=="
 ---

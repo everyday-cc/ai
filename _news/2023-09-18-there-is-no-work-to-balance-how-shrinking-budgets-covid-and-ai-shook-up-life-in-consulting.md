@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Employees are increasingly getting 'AI Anxious' — they're worried about falling behind on AI and even pretending to be 'in the know' to colleagues"
-    excerpt: "About 40% of the 29,000 workers surveyed by LinkedIn said they feel overwhelmed about not being able to keep up with new AI developments."
-    publishedDateTime: 2023-09-14T03:52:00Z
-    webUrl: "https://www.businessinsider.com/employees-ai-anxious-falling-behind-pretending-linkedin-survey-chatgpt-2023-9"
-    ampWebUrl: "https://www.businessinsider.com/employees-ai-anxious-falling-behind-pretending-linkedin-survey-chatgpt-2023-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/employees-ai-anxious-falling-behind-pretending-linkedin-survey-chatgpt-2023-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-    images:
-      - url: "https://i.insider.com/6502799c1afe8f0019ea1922?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Tech companies using your personal data to train AI"
     excerpt: "Big tech companies like Google, Meta and Microsoft are accessing your data to teach AI to essentially pretend to be human. Geoffrey Fowler, tech columnist at the Washington Post, joined CBS News to explain how."
     publishedDateTime: 2023-09-14T20:11:00Z

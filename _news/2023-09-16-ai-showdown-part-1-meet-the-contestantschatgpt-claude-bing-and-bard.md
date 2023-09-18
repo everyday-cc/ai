@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/renaegregoire/2023/09/16/ai-showdown-pa
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/renaegregoire/2023/09/16/ai-showdown-part-1-meet-the-contestants-chatgpt-claude-bing-and-bard/amp/"
 type: article
 quality: 86
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "ChatGPT vs. Bing vs. Google Bard: Choosing the Most Helpful AI – Spiceworks News and Insights"
+    excerpt: "In recent years, artificial intelligence has gained immense popularity across various fields. One of the most common areas where AI is utilized is search"
+    publishedDateTime: 2023-09-18T21:33:00Z
+    webUrl: "https://www.inferse.com/721448/chatgpt-vs-bing-vs-google-bard-choosing-the-most-helpful-ai-spiceworks-news-and-insights/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 28
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/09/wp-header-logo-7571.png"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "3yJFkwQFW+TMDg4Pqf5eiIdzEm6oy9dYzUgdrNDFXFaRT47tlquKN+pn5T8SgymIUxUERjKwQk6CcmOBcCBNXZ/w+TgWRaZJfznmfxin+X6t+M0rAeA0z+n7Swth+Jsukesc0m7qyYemifKRWJWcMm3fqzn61VkDyH8i1pzwjLXb7VUHS7Iy1xf4uGR++ZdVWh9lndCsOcNkaGybeffzyeDFeklDjd9qFYBIR5oUWA+6HJR8k5OwNZON/W5SCv89KMHtoIPBSwTF/mY8gSNKEWoP/L6Htk4/uyCHrh48NdRCR/oA3rd9mgRvyuIntGNRB+Yquar9DwCAG+BINKcme4iFyMzQf+BXgqMydP5ds9lsIzKDHrqwhdcxg96vvx4xRUpt825+wGiR325f3fOwmfNZJtpRP9vXLgjVH+4wOAkbYzv31ppnD6pfCuQ1EQtzMT5ER+82W9qF9Vzj/GyF3aqabfq8N1vZ4b9E4ATg7rjZSjoBEy87ZQnBFUX4bJ7nczYYStkzZNVEw8ME04dFqw==;CDo+0JrIDHWYzrtR+f66+g=="
 ---

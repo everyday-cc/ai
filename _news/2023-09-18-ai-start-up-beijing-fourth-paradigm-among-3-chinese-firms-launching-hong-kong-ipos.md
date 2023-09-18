@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Chinese AI Company on U.S. Export Blacklist Launches IPO"
+    excerpt: "A Chinese artificial-intelligence company on a U.S. export blacklist has started its initial public offering in Hong Kong. Beijing Fourth Paradigm Technology, which offers AI software for businesses,"
+    publishedDateTime: 2023-09-18T21:07:00Z
+    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-09-18-2023/card/chinese-ai-company-on-u-s-export-blacklist-launches-ipo-AI6m9vyBNm7xKKRyPhHA"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-853556/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Chinese AI firm Fourth Paradigm leads Hong Kong IPO surge to raise $280 mln"
     excerpt: "Beijing Fourth Paradigm, an AI startup, is aiming to raise up to $144 million by selling 18.4 million shares in a price range of HK$55.60 to HK$61.16 each, according to its regulatory filings. Three cornerstone investors, headed by New China Capital ..."
     publishedDateTime: 2023-09-18T01:14:00Z
