@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Google trials access to Gemini AI over Google Cloud"
+    excerpt: "Gemini is intended to compete with OpenAI’s GPT-4, which is available through Microsoft Azure. Gemini is made up of multiple large ... The company plans to make Gemini available through its Google Cloud Vertex AI service, and will offer access to models ..."
+    publishedDateTime: 2023-09-15T13:40:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/google-trials-access-to-gemini-ai-over-google-cloud/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 19
   - title: "Intel Celebrates AI Accessibility and Enables the Next Generation of Innovators"
     excerpt: "About Intel's Role: Intel is committed to bringing AI skills everywhere, regardless of a person's ethnicity, age, gender or background. The AI Global Impact Festival provides opportunities and platforms for future innovators to learn, showcase and celebrate the impact of AI innovations."
     publishedDateTime: 2023-09-14T17:56:00Z

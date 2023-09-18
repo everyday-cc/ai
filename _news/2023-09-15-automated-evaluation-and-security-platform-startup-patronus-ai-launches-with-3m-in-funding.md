@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/09/14/automated-evaluation-security-
 webUrl: "https://siliconangle.com/2023/09/14/automated-evaluation-security-platform-startup-patronus-ai-launches-3m-funding/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -25,49 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "EY launches AI platform and LLM after $1.4 billion investment"
-    excerpt: "Today professional services leader EY announced the launch of EY.ai, a comprehensive platform to help clients boost AI adoption."
-    publishedDateTime: 2023-09-13T16:23:00Z
-    webUrl: "https://venturebeat.com/ai/ey-launches-ai-platform-and-llm-after-1-4-billion-investment/"
+  - title: "Amid AI funding surge, defense technology startup Helsing raises €209M"
+    excerpt: "Helsing GmbH, a startup developing artificial intelligence software for the defense sector, today announced that it has raised €209 million in funding."
+    publishedDateTime: 2023-09-14T21:30:00Z
+    webUrl: "https://siliconangle.com/2023/09/14/amid-ai-funding-surge-defense-technology-startup-helsing-raises-e209m/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/09/Untitled-design-2023-09-13T115630.104.png?w=1200&strip=all"
-        width: 1200
-        height: 750
-        isCached: true
-  - title: "Ernst & Young launches a new AI platform"
-    excerpt: "Sources revealed that on September 13, 2023, the London-based firm mentioned that it had invested $1.4 billion into AI technologies for its new EY.ai platform. The new platform is expected to help organisations adopt AI. It is believed that the platform is based on EY’s own large language model (LLM), EY AI EYQ, Cointelegraph added."
-    publishedDateTime: 2023-09-18T03:40:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-ernst-young-launches-a-new-ai-platform-3246635/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ernst-young-launches-a-new-ai-platform-3246635/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ernst-young-launches-a-new-ai-platform-3246635/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/My-project-1-2023-07-22T092308.558.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "EY invests $1.4 billion in AI tech, launches new platform"
-    excerpt: "The Big Four company says its new EY.ai platform aims to help organizations adopt AI technologies and will be embedded into existing EY technologies with millions of users."
-    publishedDateTime: 2023-09-14T11:24:00Z
-    webUrl: "https://cointelegraph.com/news/ernst-young-invests-billions-ai-launches-new-platform"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 39
-    images:
-      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDkvNWRjN2Q2ODAtMDAxYy00ZWEwLWE2MTQtY2M5ZTA5YmQ0ZDhiLmpwZw==.jpg"
-        width: 1160
-        height: 773
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/unsplash-2.png"
+        width: 1032
+        height: 580
         isCached: true
 
 secured: "oDQSj4hgLeXGsTC/AE9Qj/88nKZGZWN2uVUBA6pIQshFk8TUQorkUiRims6mNnpQFDLw4/EhbdSHMshFAW7+6xifCn3unX/Vr/OzaU400KsEIvf9Fq2/t+oc8idtI1rvRLDf5lCjJxFq0NfIRVrwDSyTRYIG2eJoBl3s8tqMJYXlXxehYhfOXUS5oTRKmLvJcVL2gZ58MQ0aeFXKyePuYoJg6YrccusKXtXNVpaZU0yFijeFNG1kic218kRdAHSLq6c0n43HKY37eKL60idzQDreDICo8tY/JrkYDcsjPDBAQ0zsLYkhaHXcHSO13smXG2UfvmP6XM9Fv41vFp99JRFBmUNVstDXLCEOdG5bF+TyoQCBCWuKvXtWz1mPc9VVm4X1dnqaf8a6QvpkL7jN8S6x0ahpwh3/cjT4/2e/Jq9upWP0dttW5GOxr/Zwjz0ufe/JJP/LrTGSFs3KwewVVHherf06RQB9JCgqXA7c399g1jyawsL3qs4t8viKFfniYdtHrtCYoB9LWrYK1cPLIQ==;yirlQaoMLvcjbBnW0shLCw=="

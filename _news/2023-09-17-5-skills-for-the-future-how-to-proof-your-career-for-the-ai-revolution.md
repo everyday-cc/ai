@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rachelwells/2023/09/17/5-skills-for-the
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/09/17/5-skills-for-the-future-how-to-proof-your-career-for-the-ai-revolution/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "The AI Revolution: Will Artificial Intelligence Shape The Future Of Cannabis Product Design?"
-    excerpt: "The global Artificial Intelligence (AI) market is in the midst of a tremendous growth surge. From a valuation of $387 billion in 2022, it is forecasted to reach a staggering $1.39 trillion by 2029. This meteoric rise is evident from Microsoft Corp. MSFT +1.32% + Free Alerts 's decision to invest a hefty $10 billion for a 49% stake in ChatGPT."
-    publishedDateTime: 2023-09-13T17:10:00Z
-    webUrl: "https://www.benzinga.com/general/biotech/23/09/34506273/the-ai-revolution-will-artificial-intelligence-shape-the-future-of-cannabis-product-design"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34506273"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34506273"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 63
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/09/12/tyler-casey-f5fyiqgnucm-unsplash.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "How artificial intelligence can revolutionise science"
     excerpt: "Then, starting in the late 19th century, the establishment of research laboratories, which brought together ideas, people and materials on an industrial scale, gave rise to further innovations such as artificial fertiliser,"
     publishedDateTime: 2023-09-14T08:33:00Z

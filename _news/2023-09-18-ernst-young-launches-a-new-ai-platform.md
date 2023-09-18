@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ern
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ernst-young-launches-a-new-ai-platform-3246635/lite/"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,34 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "EY launches AI platform and LLM after $1.4 billion investment"
-    excerpt: "Today professional services leader EY announced the launch of EY.ai, a comprehensive platform to help clients boost AI adoption."
-    publishedDateTime: 2023-09-13T16:23:00Z
-    webUrl: "https://venturebeat.com/ai/ey-launches-ai-platform-and-llm-after-1-4-billion-investment/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/09/Untitled-design-2023-09-13T115630.104.png?w=1200&strip=all"
-        width: 1200
-        height: 750
-        isCached: true
-  - title: "Automated evaluation and security platform startup Patronus AI launches with $3M in funding"
-    excerpt: "Automated evaluation and security platform Patronus AI Inc. today launched out of stealth mode and announced that it has raised $3 million in seed funding."
-    publishedDateTime: 2023-09-15T00:28:00Z
-    webUrl: "https://siliconangle.com/2023/09/14/automated-evaluation-security-platform-startup-patronus-ai-launches-3m-funding/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 44
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/patronusai.jpg"
-        width: 2000
-        height: 1028
-        isCached: true
   - title: "EY invests $1.4 billion in AI tech, launches new platform"
     excerpt: "The Big Four company says its new EY.ai platform aims to help organizations adopt AI technologies and will be embedded into existing EY technologies with millions of users."
     publishedDateTime: 2023-09-14T11:24:00Z

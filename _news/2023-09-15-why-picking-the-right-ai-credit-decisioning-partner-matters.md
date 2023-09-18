@@ -40,19 +40,21 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Final Trailer for Sci-Fi 'The Creator' - Artificial Intelligence vs. Humans"
-    excerpt: "\"They're coming to get me.\" Only a few weeks away now. 20th Century has unveiled the final official trailer for the epic sci-fi spectacular titled The Creator, from director Gareth Edwards. It's still set to open in theaters worldwide a the end of September - here's the first and second trailers (and this A."
-    publishedDateTime: 2023-09-13T15:57:00Z
-    webUrl: "https://www.firstshowing.net/2023/final-trailer-for-sci-fi-the-creator-artificial-intelligence-vs-humans/"
+  - title: "Five Ways To Use AI For End-Of-The-Year Forecasting"
+    excerpt: "In recent years, artificial intelligence (AI) has emerged as a valuable tool in streamlining and enhancing various business operations, including financial planning. Here are five compelling ways to embrace AI in your end-of-year financial planning."
+    publishedDateTime: 2023-09-18T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/18/five-ways-to-use-ai-for-end-of-the-year-forecasting/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/18/five-ways-to-use-ai-for-end-of-the-year-forecasting/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/09/18/five-ways-to-use-ai-for-end-of-the-year-forecasting/amp/"
     type: article
     provider:
-      name: FirstShowing.net
-      domain: firstshowing.net
-    quality: 52
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://media2.firstshowing.net/firstshowing/img15/TheCreatorFinalpostertrailermainTW7.jpg"
-        width: 1382
-        height: 521
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f6b8b10fc4839cedc3fe5ba/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Bitcoin is the currency for AI"
     excerpt: "BITCOIN'S compatibility with AI technologies is driving major institutional investors to increase their exposure to the cryptocurrency, according to the executive at deVere Group, one of the world's largest independent financial advisory,"

@@ -41,6 +41,20 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Cyber attacks and dozy drivers: These are the future risks of self-driving cars"
+    excerpt: "A large cyber-terrorist attack targeting the operating systems of many self-driving vehicles simultaneously could cause mass casualties” – that is the alarming scenario presented by MPs after their investigation into autonomous cars on British roads."
+    publishedDateTime: 2023-09-17T09:29:00Z
+    webUrl: "https://www.aol.com/cyber-attacks-dozy-drivers-future-054453091.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 20
+    images:
+      - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/2e8980d8b071038aa21b2d32533d574f"
+        width: 1200
+        height: 901
+        isCached: true
   - title: "Microsoft-backed self-driving car startup Wayve might finally have an answer to the driverless vehicle trust debate"
     excerpt: "Once the musings of movie makers and authors, self-driving cars are finally beginning to edge into reality. Yet autonomous vehicle (AV) makers have a problem: as exciting as the technology may be, many passengers don't want to put their lives in the ..."
     publishedDateTime: 2023-09-15T18:06:00Z

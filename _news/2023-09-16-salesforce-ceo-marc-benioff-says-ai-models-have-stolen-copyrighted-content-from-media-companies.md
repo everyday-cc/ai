@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Salesforce Shines Light On Prompt Engineering Trust Layer Advancements That Are The Future Of Generative AI"
+    excerpt: "AI Ethics and AI Law also stridently enter into the prompt engineering domain. For example, whatever prompt you opt to compose can directly or inadvertently elicit or foster the potential of generative AI to produce essays and interactions that imbue ..."
+    publishedDateTime: 2023-09-18T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/09/18/salesforce-shines-light-on-prompt-engineering-trust-layer-advancements-that-are-the-future-of-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/09/18/salesforce-shines-light-on-prompt-engineering-trust-layer-advancements-that-are-the-future-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/09/18/salesforce-shines-light-on-prompt-engineering-trust-layer-advancements-that-are-the-future-of-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 71
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65077bde56352254b94789f4/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Here are the six AI nonprofits Salesforce is backing"
     excerpt: "The list includes Beyond 12, CareerVillage, CodePath, College Possible, Per Scholas and Teacher Development Trust, many education focused."
     publishedDateTime: 2023-09-14T01:38:00Z
@@ -51,22 +67,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2018/02/istock-642810122-e1595440276773.jpg?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Dreamforce 2023 - Salesforce COO Brian Millham on IT budgets, AI investment and loving his job"
-    excerpt: "An ideal person to answer that question is Brian Millham, the firm’s Chief Operating Officer and a man who’s been with the company since 1999 when he was employee 13. If anyone’s in a position to comment on how things have changed over the past year, it’s him. His response is refreshingly candid:"
-    publishedDateTime: 2023-09-13T17:37:00Z
-    webUrl: "https://diginomica.com/dreamforce-2023-salesforce-coo-brian-millham-it-budgets-ai-investment-and-loving-his-job"
-    ampWebUrl: "https://diginomica.com/dreamforce-2023-salesforce-coo-brian-millham-it-budgets-ai-investment-and-loving-his-job?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/dreamforce-2023-salesforce-coo-brian-millham-it-budgets-ai-investment-and-loving-his-job?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 47
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-09/Screenshot%202023-09-13%20at%2010.33.58.png"
-        width: 1322
-        height: 940
         isCached: true
   - title: "Benioff attacks other Gen AI vendors at Salesforce Dreamforce 2023"
     excerpt: "Salesforce chief executive and co-founder Marc Benioff used his keynote address at the company's Dreamforce 2023 to make bold attacks on other generative AI (GenAI) vendors, accusing them of not taking trust and hallucinations as seriously as his company."

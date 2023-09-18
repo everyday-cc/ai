@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How To Evaluate Generative AI For The Enterprise"
+    excerpt: "Without the internet, none of this would have been possible, especially with regard to natural language processing. These models were able to train on an incredibly vast corpus of digital text. While this training data made the transformer models as ..."
+    publishedDateTime: 2023-09-18T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/how-to-evaluate-generative-ai-for-the-enterprise/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/how-to-evaluate-generative-ai-for-the-enterprise/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/18/how-to-evaluate-generative-ai-for-the-enterprise/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f9ae2a9fdf0fd5f1e0ffee3/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "MHDVeJ7HEd8ZsLg8eES1taxoAWWt2Noxh3jOBK4jGXc3YthwVZgW66Shp4a/WNB8iaEMWQhbsI3b8xoJ10DIegJYw3QjON2gqnzNmePaIMmX3YstJXIaOcpx3j7vSaRDOpeHTZbwCxU88zRlxzveE0wbT5W6illzgV2tQzUsBvwxft3eswzcNPN37dCg0CL190E0yr/8HiDepl47Td1eXvzLR7ejiTxzq14HKeIX0cQ2njeM0C5qz07ox6du6yxc8vPcuQhk3g6kYytjYD7wvgAt+7K6vTK+sQiyho3AvKBwnO3nSMBCxbgr977a6hrNkRdRpTq/2/m/yrWWzkZywalPoCy+PNU6EPASWDCyppnHLb+sIsIxvpOHB+56HAjWSU0UxtPnTiCsjEz5UwCLqdK/IfbxLhrUmpKllx+4E5G65IIgSXatACmGL+TsOHUV4hfimbP2BnHQ7wOrl60Ne3cSGmFE3X8ieIfp2J4sQt17fWyHNk/zOlWUCU1HqJZzE350fHyq64nJ6YTf8wvuIA==;hFr2+oRuSNgVQ5CGuFpzvw=="
 ---

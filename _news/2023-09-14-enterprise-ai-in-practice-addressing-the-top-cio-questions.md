@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/enterprise-ai-practice-addressing-top-cio-que
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-ai-practice-addressing-top-cio-questions?amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 740
     height: 450
     isCached: true
+
+related:
+  - title: "5 AI Trends in Voice of the Customer Practices"
+    excerpt: "Explore how AI in customer experience is revolutionizing the way companies collect and analyze voice of the customer data, from direct to inferred feedback."
+    publishedDateTime: 2023-09-18T10:00:00Z
+    webUrl: "https://www.cmswire.com/customer-experience/5-ai-trends-in-voice-of-the-customer-practices/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 39
+    images:
+      - url: "https://www.cmswire.com/-/media/d3a034227fc9497faa3b1e0c7ffb1ad8.ashx"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "6ZG01H53Y8rDIbanQXiIAL+UHsOx4D9WiYUYNpzavdc8JHMmT3CdjinjIQBA3r6XruwctwugI75J6idAE6oAd6xrNsrb+um4d6hN4MljIGkCXXKp5aK9/NBRxdJXbVQ1N8p0mb3QMiL3597WGDHZViYAoWhUKUT17fExORcTmoHJw7xd7i0v2FlikVkZhEFUzirM+kze/Po03sTH1BIPvhSjKFZsLfjq6cmSWq+IQuWBbPTI1hoKB7Eh2rpdJUuTa0Llk92rjqsxm1EyU+EcsxbEwLRf3zvGiteSz55YGFpEZQD3pb5CpYXxKt4HnBVwDJF7ECl/87YDmh4TVUOyYPggRtkVg3g4a5oAyVhRYUT/VC+L8+GuQON1AEVrVx6Z8IBr8iInj1BKeElmqrniI3OOixMNybZ9L0rG4MXkstovlOISfdH5gAxBxzTUrK85w1ZlGtmfm3JeLPn6pWUkxo4Sr+6jj/OZHLAIfkX96eGauv/4ry3NcjJkSM/THsdgarUtNoNAs/UXgA/2H1xoBQ==;zOqxsXxp2cD/Z24zqwD2Ow=="
 ---

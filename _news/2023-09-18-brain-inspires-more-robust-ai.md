@@ -54,6 +54,20 @@ related:
         width: 300
         height: 218
         isCached: true
+  - title: "Brain-Inspired Changes Could Make AI More Resilient"
+    excerpt: "AI systems are often built using artificial neural networks (ANN) analogous to those of the brain. Like the brain, ANNs can sometimes get confused, either by accident or by the deliberate actions of a third party."
+    publishedDateTime: 2023-09-18T09:34:00Z
+    webUrl: "https://www.technologynetworks.com/informatics/news/brain-inspired-changes-could-make-ai-more-resilient-378930"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 39
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/378930/brain-inspired-changes-could-make-ai-more-resilient-378930-640x360.jpg?cb=20230918"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "2iNp2/xGYyQysoJzirOOU9T59sugBsHTf3dwyq+cyZ6GmQWY/eWhCLm3h5qbKRK0vf0ho2tqZ07Q8w82Xzb8RyfK3i+jFTDtyVVTR++rUZTmtP44o4AB+a0gNmvbuGRgZvykR/xiXJOXs2NyOjPUJedRwi5ofYlokK0/cjE5HjoEq12XFhhozsoIYb9bcs/a1DTpnCQ9olbGuqjskqQZ7egK8fcnx7E+CkfytqD8oDPZkrJSElHhDLvvElGgWDBof9tf4Vo/NXVx87b4k9wMOSWNsuQix+OEQyZoLYMreh+NZ+SDScuYBOAts0jRiCd1Y3mHkS8YYIS182YVWzv2rMGFxcpHWlTp1Q7XyG+2xOA=;tj18dQYVY1V2HaO2s8V3KQ=="
 ---

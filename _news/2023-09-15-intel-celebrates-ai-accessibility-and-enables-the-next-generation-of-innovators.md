@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Google trials access to Gemini AI over Google Cloud"
+    excerpt: "Gemini is intended to compete with OpenAI’s GPT-4, which is available through Microsoft Azure. Gemini is made up of multiple large ... The company plans to make Gemini available through its Google Cloud Vertex AI service, and will offer access to models ..."
+    publishedDateTime: 2023-09-15T13:40:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/google-trials-access-to-gemini-ai-over-google-cloud/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 19
   - title: "Nation’s first dual degree in medicine and AI aims to prepare the next generation of health care providers"
     excerpt: "AI’s presence can already be found in a variety of areas of the medical field including customized patient treatment plans, robotic surgeries and drug dosage. Additionally, UT Health San Antonio and UTSA have several research programs underway to improve health care diagnostics and treatment with the help of AI."
     publishedDateTime: 2023-09-14T12:35:00Z

@@ -30,6 +30,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "Google Gemini AI starts rolling out to businesses in early access"
+    excerpt: "Google has started rolling out early access to its Google Gemini AI designed to compete with OpenAI and others and capable of accessing all"
+    publishedDateTime: 2023-09-18T11:22:00Z
+    webUrl: "https://www.geeky-gadgets.com/google-gemini-ai-early-access/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 41
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/Google-Gemini-AI.jpg"
+        width: 700
+        height: 466
+        isCached: true
   - title: "Google Gemini: What We Know So Far"
     excerpt: "What we know so far indicates Gemini could represent a significant advancement in natural language processing. The fusion of DeepMind’s latest AI research with Google’s vast computational resources makes the potential impact challenging to overstate."
     publishedDateTime: 2023-09-15T19:55:00Z

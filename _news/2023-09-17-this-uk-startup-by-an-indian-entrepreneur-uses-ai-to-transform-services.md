@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "Artificial Intelligence To Strengthen Indian Army, Made-In India '4-Legged Robot' To Take On Enemies"
+    excerpt: "At the North Tech Symposium 2023 in Jammu, the Indian Army unveiled groundbreaking artificial intelligence advancements that are reshaping contemporary warfare strategies, and a Multi-utility Legged Equipment (MULE),"
+    publishedDateTime: 2023-09-14T06:42:00Z
+    webUrl: "https://www.timesnownews.com/videos/mirror-now/society/artificial-intelligence-to-strengthen-indian-army-made-in-india-4-legged-robot-to-take-on-enemies-video-103655438"
+    ampWebUrl: "https://www.timesnownews.com/videos/mirror-now/society/artificial-intelligence-to-strengthen-indian-army-made-in-india-4-legged-robot-to-take-on-enemies-video-103655438/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/videos/mirror-now/society/artificial-intelligence-to-strengthen-indian-army-made-in-india-4-legged-robot-to-take-on-enemies-video-103655438/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 59
+    images:
+      - url: "https://static.tnn.in/thumb/msid-103655438,updatedat-1694673751837,width-1280,height-720,resizemode-75/103655438.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Indian Army's 'Made In India' Robot To Take On Enemies | Mirror Now Report On Military Powers"
     excerpt: "In the latest news from Mirror Now, Pradeep Dutta visited Jammu to report on India's new domestically developed robot designed for combat. This innovative robot, proudly made in India, was showcased during the North Tech Symposium 2023 in Jammu on September 12."
     publishedDateTime: 2023-09-14T01:21:00Z
@@ -33,6 +49,34 @@ related:
       - url: "https://static.tnn.in/thumb/msid-103647779,updatedat-1694654485270,width-1280,height-720,resizemode-75/103647779.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Bhashini Will Truly Democratise AI in India"
+    excerpt: "Bhashini leverages AI to break language barriers, enabling underserved communities to access government services seamlessly."
+    publishedDateTime: 2023-09-14T10:45:00Z
+    webUrl: "https://analyticsindiamag.com/bhashini-will-truly-democratise-ai-in-india/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/09/bhashini-AI.jpeg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "India's Infosys signs $1.5 billion contract to leverage AI solutions"
+    excerpt: "Infosys did not name the company nor mention whether it is an existing client. Earlier in the month, U.S. chip maker Nvidia announced AI partnerships with Indian conglomerate Reliance Industries and the Tata group's Tata Consultancy Services to develop ..."
+    publishedDateTime: 2023-09-15T05:11:00Z
+    webUrl: "https://www.aol.com/news/indias-infosys-signs-1-5-044023191.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/b2bad645f2c7efb49959e2237419efef"
+        width: 800
+        height: 543
         isCached: true
   - title: "Indian entrepreneur's UK start-up using AI to transform services"
     excerpt: "Indian entrepreneur Anuj Gupta's start-up, GreenVan, is attracting global investor interest with its conversational AI software that allows users to b"

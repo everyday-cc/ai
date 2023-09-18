@@ -50,6 +50,20 @@ related:
         width: 1200
         height: 901
         isCached: true
+  - title: "Cyber attacks and dozy drivers: These are the future risks of self-driving cars"
+    excerpt: "A large cyber-terrorist attack targeting the operating systems of many self-driving vehicles simultaneously could cause mass casualties” – that is the alarming scenario presented by MPs after their investigation into autonomous cars on British roads."
+    publishedDateTime: 2023-09-17T09:29:00Z
+    webUrl: "https://www.aol.com/cyber-attacks-dozy-drivers-future-054453091.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 20
+    images:
+      - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/2e8980d8b071038aa21b2d32533d574f"
+        width: 1200
+        height: 901
+        isCached: true
 
 secured: "87vxuy17ytMTSUOakX2Yfvd5JWN1BPi6zxft2XV25uvKIAmXlEnMJbXoDGpFHk1IZOU8l6+8iO8yYaqdx2aB1DG+lFTU88Ix2KYT/yDC+BS2QnEo3J1QzFp8aF6F7ItCtz21KTmPy5LgVuZDhgmewAQIIfCalAL/k+LVwfaB3G3rRFy7fvLQj+2iFVwq7ZscgzkEt96s2nQSvmDwPdwp3twoNGeYYV3J3M8QFK9ZXnSYlUwe+ihFpSwMDcuNOd890Rt+rgScwAmB54yrbusu6pw72Z8vApb62kMAHLlWPSwHYcUYbMVy3z+5LL5BHa0Zo0ayINl/sRIfrPDAaM0AxKWBdB4pp6tnBTJ0hYtb357a56os7MNJNGN1ds7pD4iha8YEyOJQB2vF7JVQ7ezOLw9tKnN/gTMFAxN1Eje1/04xyBm6NDfYzLfTmUEnhse/aWk+tTGXVcAR1RhDN+HO6mYlGkZKBirA9ExO/U17evn3A/VbanC0JmukosGigAswA5usnCvYDviT6OwMJSjAaw==;bpkJM+SMwSwgbCRQg27Qfg=="
 ---

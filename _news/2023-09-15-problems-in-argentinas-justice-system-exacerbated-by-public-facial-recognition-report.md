@@ -24,17 +24,6 @@ images:
     height: 1366
     isCached: true
 
-related:
-  - title: "Irish police start €10M facial recognition body cam procurement"
-    excerpt: "The public procurement for facial recognition body-worn camera has caused controversy as the country awaits regulation for police use of face scanning software."
-    publishedDateTime: 2023-09-13T18:58:00Z
-    webUrl: "https://www.biometricupdate.com/202309/irish-police-start-e10m-facial-recognition-body-cam-procurement"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 19
-
 secured: "hE95gHzKeZ80GOk4d5U8SZRwGgQcH6H92N5SU58SjM5BomvGZMh2S9HD3DS2HBoqysAvD93juX5T8XLoT2yXFTTpAdP36Q7YPEj1VTshdoRnhzjGWG2JHkurq0LWfR/y8jOVRwgf9HHTz53GrmR3PTrOwqaZ/NEfDrH7xIXbs7cvGgsja1iDqqvfNCpE3YtwAf1bReg/Y22gyJpBKuNyjgU3t4hMI1VNUrTfYJ2uj3A+WJGAYIxoAMYfkK0PhXRdNiXhPyIUO2DaPhmre9JNiz+tfrMW6fpbMs1Ou77TujcVkfIIFqYyp5zLmONOjrQyX6dFulKACqVPu4X2h5+EQuoKR1HiSaRUvv7z08Ba4SB/8AUZ6rgd1K7iR2KUfoR7ouviEjD129sZPw8K/RmNOW1JNb9kUbBfzEEDUu9g5B0PGPT1l1NS0A/TE91x8Av6vSEPlCJMLLzBVzmTuhAOxTrTwqlSW1rrRwvUi5dnmIh35BO9zyWtKsfjfvRBZ0WeTicvCDs4IbsdvUnW8f8/Qw==;KW5dChLITmYGtdRyuWLkYQ=="
 ---
 

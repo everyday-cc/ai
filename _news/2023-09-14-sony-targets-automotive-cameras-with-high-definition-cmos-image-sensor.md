@@ -18,6 +18,17 @@ topics:
   - Computer Vision
   - AI
 
+related:
+  - title: "Sony's new IMX735 automotive sensor boasts \"highest pixel count\""
+    excerpt: "The CMOS sensor boasts the industry's highest pixel count of 17.42 effective megapixels 1,2, according to the firm, giving it the potential to revolutionise the capabilities of automotive camera systems, advancing the cause of safe and secure automated driving."
+    publishedDateTime: 2023-09-18T11:42:00Z
+    webUrl: "https://www.imveurope.com/article/sonys-new-imx735-automotive-sensor-boasts-highest-pixel-count"
+    type: article
+    provider:
+      name: imveurope.com
+      domain: imveurope.com
+    quality: 4
+
 secured: "8A4qvLCA6mnFZooG3iw1agAH1ezVy8+JQh/8sPFCuo/Sp3lGIBLAAVIYvRZPyGFBEJPyh8WGN9tsHG20ocRiQYJa2I86q6piSYnICjdXQJr0+Ca1n1sl4/Ty1skaqHd0onU7zfpJJ0eW9jGJ949sTK8t3x7mmpVbForx2gfqDfCe+UPsCAYJ73EAF7bB+vNFHGeTDOOb0rHHr1S7PNwyRn3N/dlBIkfj1XJx7QpgjRB9uHAWealbhS35RqvhJVsvDDlG0pXfMyngpJzMglYvbAh/MrGYLeRypV9P8WCDU497qs1ZGxbXTwuV2oyN+ZYazUggRkD5F4z1sVITDL3DrfEmETCaziHg1pTe1knI3B/XdnL3Dx3GA4zxEAT5SF5bkTajDdB78+pBoaWnKFrT9wnHAAJMZ089BdF8b/vATCy1fF9e/qKHxGeBoXSv6iX39gw8n8Sm+aQ8mEd0FKReNcoC0dK210CFP4RE7sWiQ1Ua3hQhHQz8kQvl8Yzwl4O6+K4Um62zB8RyAwrMdh5mEA==;oCtmME/VYplTqE3NAy5C+w=="
 ---
 

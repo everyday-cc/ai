@@ -56,19 +56,19 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "In a split Congress, artificial intelligence is one area of agreement"
-    excerpt: "The technology community has, so far, seemed to welcome the opportunity to work with lawmakers on a responsible path forward."
-    publishedDateTime: 2023-09-13T17:51:00Z
-    webUrl: "https://www.kristv.com/in-a-split-congress-artificial-intelligence-is-one-area-of-agreement"
+  - title: "FPT Corporation focuses on AI and chip expansion"
+    excerpt: "Truong Gia Binh, chairman of FPT, expressed confidence in Vietnam's capacity to forge a formidable stance in the AI sector. \"Vietnam, much like FPT, possesses an inherent potential to undergo even more rapid development in the digital technology sector,\" Binh said."
+    publishedDateTime: 2023-09-18T10:04:00Z
+    webUrl: "https://vir.com.vn/fpt-corporation-focuses-on-ai-and-chip-expansion-105229.html"
     type: article
     provider:
-      name: kristv
-      domain: kristv.com
-    quality: 37
+      name: Vietnam Investment Reviev
+      domain: vir.com.vn
+    quality: 54
     images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/e987c95/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1694621389_zis0IZ.jpg"
-        width: 1200
-        height: 630
+      - url: "https://vir.com.vn/stores/news_dataimages/2023/092023/16/11/in_social/7977210c642e3983f84d71dc1639a5d8.jpg?randTime=1695038684"
+        width: 600
+        height: 364
         isCached: true
   - title: "As lawmakers eye regulation, AI could reshape Congress itself"
     excerpt: "I understand the fear,” Speaker Kevin McCarthy said at this year’s Congressional Hackathon. But AI is poised to change how the House works."

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/09/14/oracle-brings-its-database-infrast
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/14/oracle-brings-its-database-infrastructure-to-microsoft-azure/amp/"
 type: article
 quality: 104
-heat: 354
+heat: 344
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Trade Ledger launches bank solution with Microsoft Azure OpenAI"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-09-18T11:16:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/trade-ledger-launches-bank-solution-with-microsoft-azure-openai/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 86
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/06/ibs_TradeLedger.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Microsoft Surface Laptop Studio 2, Laptop Go 4 Details Leak Ahead of AI Event"
     excerpt: "Some needed upgrades for the two-year-old Surface Laptop Studio seem to be imminent. Microsoft's upcoming special event on Sept. 21 is going to be more of the \"let us tell you about how wonderful our AI is\" that seems to be in this year's marketing playbook,"
     publishedDateTime: 2023-09-15T21:57:00Z
@@ -74,20 +88,6 @@ related:
       - url: "https://i.insider.com/6501fe85992da60019ebafa0?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Google AI Head On Data Privacy, GenAI Lead Vs. AWS, Microsoft"
-    excerpt: "Moyer, global vice president of Google’s artificial intelligence business ... Moyer was managing director of global financial services at AWS in charge of AWS sales, technical and customer experience teams that supported some of AWS’ largest customers."
-    publishedDateTime: 2023-09-13T15:55:00Z
-    webUrl: "https://www.crn.com/news/software/google-ai-head-on-data-privacy-genai-lead-vs-aws-microsoft"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 71
-    images:
-      - url: "https://www.crn.com/resources/0285-18f85d37f0c5-7ba70e58e5f1-1000/philip-moyer-google.jpeg"
-        width: 611
-        height: 459
         isCached: true
   - title: "Microsoft, Oracle deliver direct access to Oracle database services on Azure"
     excerpt: "The hyperscalers are joining forces to help customers fully migrate to the cloud — and place their data closer to Microsoft services to facilitate cloud-native development and AI experimentation."
@@ -187,20 +187,6 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/OrangeServersSmall.jpg"
         width: 647
         height: 450
-        isCached: true
-  - title: "AI-powered teaching and learning: Microsoft unleashes new educational tools"
-    excerpt: "As classrooms worldwide usher in another academic year, tech giant Microsoft steps forward with its cutting-edge AI-powered solutions to push the boundaries"
-    publishedDateTime: 2023-09-13T15:28:00Z
-    webUrl: "https://www.onmsft.com/news/ai-powered-teaching-and-learning-microsoft-unleashes-new-educational-tools/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 54
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2022/08/Windows-Blog-promotes-back-to-school-Windows-11-laptops.jpg"
-        width: 1024
-        height: 768
         isCached: true
   - title: "Viaccess-Orca, Microsoft, generative AI partnership"
     excerpt: "Viaccess-Orca (VO), a specialist in providing OTT and TV platforms, content protection, and advanced data solutions, is collaborating with Microsoft on new adva"

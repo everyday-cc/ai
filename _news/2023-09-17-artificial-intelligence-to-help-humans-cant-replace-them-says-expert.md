@@ -47,15 +47,6 @@ related:
       name: Oklahoma's News
       domain: kfor.com
     quality: 19
-  - title: "Why humans can't trust AI: You don't know how it works, what it's going to do or whether it'll serve your interests"
-    excerpt: "Trust relies not only on predictability, but also on normative or ethical motivations. You typically expect people to act not only as you assume they will, but also as they should. Human values are influenced by common experience, and moral reasoning is a dynamic process, shaped by ethical standards and others’ perceptions."
-    publishedDateTime: 2023-09-13T17:03:00Z
-    webUrl: "https://www.timesunion.com/news/article/why-humans-can-t-trust-ai-you-don-t-know-how-it-18363904.php"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 0
 
 secured: "gQ65NskNrIjNXT/SNGLvPmpHunTcAK2AZypiUlL1yW84H49vKU09jgZWa5kpXFPc1Cv9VPHe78eEcOhRocEJm857pMzxzDmzs7Nn4S4eZTSJpZblCypZO0yPwmLUtebMbW9qonY6FNGIRDU6yRwEoWigw07I0cNvD/qEVTR5G0jhyipMkVOX+mTVxBIF72QVzeqFKndbafhRnYuGz0fMoZ/a0i/QjNdt/+ntoxaC6t+5Uy4vSnAds9O77a5aSHq99oP0H0NuL5e6O6fmXHcZZaA8S7eq8jB/GYL/fi4RjhR9kYtj70dU+DuGtbpfnYm3QMdtQJfYXlzs9DLDJ4xCKduqGd3QIwkONWfzQZYOaSo=;OrufcsR4rM993Ga7aD+5ew=="
 ---

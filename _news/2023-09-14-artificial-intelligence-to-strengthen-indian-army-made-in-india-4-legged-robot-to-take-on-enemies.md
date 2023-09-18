@@ -9,8 +9,8 @@ ampWebUrl: "https://www.timesnownews.com/videos/mirror-now/society/artificial-in
 cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/videos/mirror-now/society/artificial-intelligence-to-strengthen-indian-army-made-in-india-4-legged-robot-to-take-on-enemies-video-103655438/amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: timesnownews
@@ -27,22 +27,68 @@ images:
     isCached: true
 
 related:
-  - title: "Hottest GPU maker’s India playbook"
-    excerpt: "Nvidia’s processors power generative AI applications, making it one of the hottest technology firms in the world today. Analysts have predicted its processors to remain in shortage all through 2024."
-    publishedDateTime: 2023-09-13T17:23:00Z
-    webUrl: "https://www.livemint.com/companies/news/hottest-gpu-maker-s-india-playbook-11694625393998.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/hottest-gpu-maker-s-india-playbook/amp-11694625393998.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/hottest-gpu-maker-s-india-playbook/amp-11694625393998.html"
+  - title: "Indian Army's 'Made In India' Robot To Take On Enemies | Mirror Now Report On Military Powers"
+    excerpt: "In the latest news from Mirror Now, Pradeep Dutta visited Jammu to report on India's new domestically developed robot designed for combat. This innovative robot, proudly made in India, was showcased during the North Tech Symposium 2023 in Jammu on September 12."
+    publishedDateTime: 2023-09-14T01:21:00Z
+    webUrl: "https://www.timesnownews.com/videos/mirror-now/society/indian-armys-made-in-india-robot-to-take-on-enemies-mirror-now-report-on-military-powers-video-103647779"
+    ampWebUrl: "https://www.timesnownews.com/videos/mirror-now/society/indian-armys-made-in-india-robot-to-take-on-enemies-mirror-now-report-on-military-powers-video-103647779/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/videos/mirror-now/society/indian-armys-made-in-india-robot-to-take-on-enemies-mirror-now-report-on-military-powers-video-103647779/amp"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 61
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 48
     images:
-      - url: "https://www.livemint.com/lm-img/img/2023/09/13/600x338/GPU_1694625629914_1694625634445.jpg"
-        width: 600
-        height: 338
+      - url: "https://static.tnn.in/thumb/msid-103647779,updatedat-1694654485270,width-1280,height-720,resizemode-75/103647779.jpg"
+        width: 1280
+        height: 720
         isCached: true
+  - title: "Bhashini Will Truly Democratise AI in India"
+    excerpt: "Bhashini leverages AI to break language barriers, enabling underserved communities to access government services seamlessly."
+    publishedDateTime: 2023-09-14T10:45:00Z
+    webUrl: "https://analyticsindiamag.com/bhashini-will-truly-democratise-ai-in-india/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/09/bhashini-AI.jpeg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "India's Infosys signs $1.5 billion contract to leverage AI solutions"
+    excerpt: "Infosys did not name the company nor mention whether it is an existing client. Earlier in the month, U.S. chip maker Nvidia announced AI partnerships with Indian conglomerate Reliance Industries and the Tata group's Tata Consultancy Services to develop ..."
+    publishedDateTime: 2023-09-15T05:11:00Z
+    webUrl: "https://www.aol.com/news/indias-infosys-signs-1-5-044023191.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/b2bad645f2c7efb49959e2237419efef"
+        width: 800
+        height: 543
+        isCached: true
+  - title: "Indian entrepreneur's UK start-up using AI to transform services"
+    excerpt: "Indian entrepreneur Anuj Gupta's start-up, GreenVan, is attracting global investor interest with its conversational AI software that allows users to b"
+    publishedDateTime: 2023-09-17T12:53:00Z
+    webUrl: "https://timesofindia.indiatimes.com/business/indian-entrepreneurs-uk-start-up-using-ai-to-transform-services/articleshow/103735266.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 17
+  - title: "This UK startup by an Indian entrepreneur uses AI to transform services"
+    excerpt: "Opened for a funding round recently, Anuj Gupta's GreenVan uses a simple WhatsApp interface. It is designed as an 'Amazon of Services' offering that intends to transform the way people book essential tasks online."
+    publishedDateTime: 2023-09-17T13:06:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/startups/this-uk-startup-by-an-indian-entrepreneur-uses-ai-to-transform-services/articleshow/103735479.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 17
 
 secured: "wIx/V5iNvImKTxtkCkEg/5Rz+jkDAJhO1AYQWOfsJWwPx/J6SqJHZKVKZnPJHvjkd53Oy4K9xsXgqj4PuFmGuAVVMlilAKbOjqXolcSEtDrkcyych4keHDJXqvJlG7VQ0/Q87jnXioXpEsH/5J2w6rbF+xl6XXhnigxZxWaPDkT2R/xDBOi/q3X8ShGno3ATVz3x4jd/QCoTIzTvh9+6nBPFRpZwfJsojhTTPV4Qtox1/ljDPypz1EIgGrBjon99ugW6YFc21RroS5x4Iq2vH3IbcB+OodG6jEKOxKOvu2jb8cAo1L4+9djJ70UxU0mCC6Y7aG1+Gj8hcT8GRd683JLJ1YfnPI/V3RbxtjcVyz0H9lw6o9S+dEIeJvq1sMy0ujRcHA8yeDKfwW0KBSOF8YZKdES/+DAzsth2zq4q1ibO+U6HDpdNN84pnyj62mHIzTesTAyXF4bynvgKtsUZrSZTZJ4JELRd+/YLJ0fJj5jzktaMRbqvyZEGkkEQEUlUvwu8v1ZmBnvyHP9zO31KZA==;7pAqTR8vkaFYk/womudcjw=="
 ---
