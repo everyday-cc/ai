@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3706988/salesforce-readies-ai-assi
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706988/salesforce-readies-ai-assistant-for-crm.amp.html"
 type: article
 quality: 119
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Is A Game Changer For Recruiting And Retention At Salesforce And Other Companies"
-    excerpt: "AI has become a positive game changer for recruiting, retention, learning and development programs. In an exclusive interview with Salesforce interim chief people officer Nathalie Scardino, she discussed how the cloud computing and social enterprise software-as-a-service provider is leveraging AI for the company and its clients."
-    publishedDateTime: 2023-09-13T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/jackkelly/2023/09/13/how-ai-is-a-game-changer-for-recruiting-and-retention-at-salesforce-and-other-companies/"
-    ampWebUrl: "https://www.forbes.com/sites/jackkelly/2023/09/13/how-ai-is-a-game-changer-for-recruiting-and-retention-at-salesforce-and-other-companies/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2023/09/13/how-ai-is-a-game-changer-for-recruiting-and-retention-at-salesforce-and-other-companies/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 79
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6501b86f58ec578e535e700f/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 855
-        isCached: true
   - title: "Here are the six AI nonprofits Salesforce is backing"
     excerpt: "The list includes Beyond 12, CareerVillage, CodePath, College Possible, Per Scholas and Teacher Development Trust, many education focused."
     publishedDateTime: 2023-09-14T01:38:00Z

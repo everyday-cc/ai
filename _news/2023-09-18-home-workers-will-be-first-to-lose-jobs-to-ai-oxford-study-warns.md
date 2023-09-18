@@ -24,6 +24,22 @@ images:
     height: 300
     isCached: true
 
+related:
+  - title: "Remote employees could be the first to lose jobs to AI, warn Oxford academics"
+    excerpt: "Oxford University academics have issued a stark warning about the impact of artificial intelligence (AI) on remote workers."
+    publishedDateTime: 2023-09-18T07:27:00Z
+    webUrl: "https://hrreview.co.uk/hr-news/future-of-work-hr-news/remote-employees-could-be-the-first-to-lose-jobs-to-ai-warn-oxford-academics/372471"
+    type: article
+    provider:
+      name: HRreview
+      domain: hrreview.co.uk
+    quality: 36
+    images:
+      - url: "https://www.hrreview.co.uk/app/uploads/work-from-home-communications.png"
+        width: 900
+        height: 506
+        isCached: true
+
 secured: "mMujAZk14l1OgGiZbiLx9Rfa0alcz6JmFy+1zKAp5yD1UA+pAuxpqC4sy2B2ZRzH3YHM+HCxouZBipMNCWjoGy61rnxNYjn+8Sj0PKiFsrA9aWGIkxJjRkbDeCmF+clpHkf9c6Giwby01rRbGGV6Q55j6Z9ewtYWkaFcTgw+9GCxwCaiKB1w8vbgIuj8zADUPySFq2/Pz4PtYSk0u2rDQEJdJMHh6qui4Yku0P0BsTOBBNzPgtsQ3apJYy5D86EBJ1R771rT4Ln4+1xd5+CMNbS2Pwy7OnnSDMClnH167Oy/yGt7OleNpvKlVK3V3LQKutYMqlPQ5ilWxJbwudtimJs1vBujso7YhgN1T40eQ0g=;N6QV9U/Ge+5vniY+dF+JfA=="
 ---
 

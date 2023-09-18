@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Healthcare Cognitive Computing Market Size is Expected to Reach USD 108.45 Billion by 2028, With 24.78% CAGR | Brandessence Market Research"
+    excerpt: "Healthcare Cognitive Computing Market was valued at USD 23.03 Billion in 2021 and expected to reach USD 108.45 Billion by 2028, amplifying with a CAGR of 24.78% over 2021-2028. Elaborating the key trends and dynamics of Healthcare Cognitive Computing Market"
+    publishedDateTime: 2023-09-14T17:30:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/09/14/9881413.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
+    images:
+      - url: "https://mma.prnewswire.com/media/1392316/BEMR_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Collaborative Robot Market Size Is Anticipated To Grow Usd 33.95 Billion At A Cagr Of 41.3% By 2031 - Report By Transparency Market Research, Inc."
     excerpt: "North America is expected to account for the highest share of the collaborative robot's market during the forecast period. The market in the region is driven by a strong manufacturing base. The increasing foon automation and robust R&D activities contribute to the growth of the collaborative robot market."
     publishedDateTime: 2023-09-14T11:47:00Z

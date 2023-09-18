@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Pioneering the Evolution: Shifting from Generative to Interactive AI"
+    excerpt: "Mustafa Suleyman envisions AI merging chatbots and task execution, prioritizing ethics through robust regulation for progress"
+    publishedDateTime: 2023-09-18T07:11:00Z
+    webUrl: "https://techstory.in/pioneering-the-evolution-shifting-from-generative-to-interactive-ai/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2023/09/1691002550874.jpg"
+        width: 612
+        height: 255
+        isCached: true
   - title: "Another generational divide: Artificial Intelligence"
     excerpt: "An overwhelming majority of millennials and Gen Z are using artificial i. Conversely, a majority of their older counterparts in the Gen X and the Baby Boomer generations reported not using the new technology."
     publishedDateTime: 2023-09-17T19:00:00Z

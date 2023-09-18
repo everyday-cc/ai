@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Dreamforce 2023 - Supermums aims to train up raft of women AI experts"
-    excerpt: "Looking ahead, Supermums is ensuring it has training and provision across CRM, data and AI. It has appointed an instructor to deliver a CRM analytics course, and is just launching AI provision around that. The company is also looking at introducing training for MuleSoft and Tableau."
-    publishedDateTime: 2023-09-13T13:40:00Z
-    webUrl: "https://diginomica.com/dreamforce-2023-supermums-aims-train-raft-women-ai-experts"
-    ampWebUrl: "https://diginomica.com/dreamforce-2023-supermums-aims-train-raft-women-ai-experts?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/dreamforce-2023-supermums-aims-train-raft-women-ai-experts?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 59
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-09/Screenshot%202023-09-09%20at%2009.15.04.png"
-        width: 672
-        height: 538
-        isCached: true
   - title: "Journey into the heart of Dreamforce, where AI and A-list acts collide"
     excerpt: "With moshing mascots, Matthew McConaughey, and AI aplenty, Salesforce's weeklong extravaganza in San Francisco was a testament to CEO Marc Benioff's instinctive ability to pivot."
     publishedDateTime: 2023-09-15T21:06:00Z

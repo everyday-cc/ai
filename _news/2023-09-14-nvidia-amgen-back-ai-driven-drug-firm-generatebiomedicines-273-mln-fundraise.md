@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Nvidia, Amgen back AI-driven drug firm Generate:Biomedicines' $273 mln fundraise"
-excerpt: "Biomedicines, which uses artificial intelligence (AI) to find new treatments, said on Thursday it has raised $273 million from investors including Nvidia's venture capital arm and Amgen ."
-publishedDateTime: 2023-09-14T11:40:00Z
-originalUrl: "https://www.reuters.com/article/generatebio-funding/nvidia-amgen-back-ai-driven-drug-firm-generatebiomedicines-273-mln-fundraise-idUSL4N3AQ2BO"
-webUrl: "https://www.reuters.com/article/generatebio-funding/nvidia-amgen-back-ai-driven-drug-firm-generatebiomedicines-273-mln-fundraise-idUSL4N3AQ2BO"
+excerpt: "Biomedicines, which uses artificial intelligence (AI) to find new treatments, said on Thursday it has raised $273 million from investors including Nvidia's venture capital arm and Amgen."
+publishedDateTime: 2023-09-14T16:40:00Z
+originalUrl: "https://www.reuters.com/article/generatebio-funding-idUSL4N3AQ2BO"
+webUrl: "https://www.reuters.com/article/generatebio-funding-idUSL4N3AQ2BO"
 type: article
 quality: 64
 heat: 94
@@ -23,9 +23,9 @@ topics:
   - AI
 
 images:
-  - url: "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ZIVGLF76V5ICLLRLGXUINW6DDM.jpg"
-    width: 4590
-    height: 2802
+  - url: "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/GV6NJ4N6ANM2BHU5EL2PEY5AEM.jpg"
+    width: 5472
+    height: 3648
     isCached: true
 
 related:
@@ -67,6 +67,6 @@ related:
       domain: bizjournals.com
     quality: 17
 
-secured: "3nSN1BcSjXbb5bMy5f/s+uxiIp69tlBSZFL+NQZBnmiVlK+xUYs8VU+4twcVxFnLLCQNWsFQ5dWg7b+/f/V8+0SsnVsb5A2gvxL6KJp6mDMXbTQ9xe8SWZTmwNgqhTEGSt+wQGr88z98rZIdDMoF6pr0LQVc3TT47jj4iNoT9T9EMFoVy1MH3XiJqfU/B7oRyU2A6YV4h2l//XBu+o6iY7cDilXQTAc3yEpm/+ofe0KylTTbKLc3z6LnOmB493ey0Sc9m/qtktRkhpnctdzbVQCMSun6ljDZcWtYT35ZMJWTwXT6EMk3NYtor2+bojxSU1iQREEwLt0Cve/lHI/RXzmUgCaAnwZhA7O4QREMgpc=;2Swwjwh0Ys8MNJz3/bw1/w=="
+secured: "5efxlCGYOffeQyzMxFckLkQpiiLNuD4y9Iie0NWLG/Ez10t87NABXRuUSOEmjsBNRXFTtq60zaD0I5KUInLgEUOd6cRGv66LYlcaQY+r1tF8yJZCWmNWo0IcyQi4NsJCCvJ2zHYF8A6/Fx8KQLdIuWRBt2iqZq4fN9ZW9cBpEmfNqIKLHehzc7Eh8bwwuE6Qcc/cOu2PDu9BAOT4g+dNtPkyur5qC5SjQowkqktv15bclBnIZqD6G9iQaVqEj17LtZYN0EeGzEPqHK17xmTzyN3xRVqmMOvdiJKBvz2QHovTv53+6uNTjJk9+KzL/G4U1CRlr0EOlJOA08eOeiphI+GcicfYS3kvETOWiJ5AX+Y=;zqWdYzRxa3rnuihdQiul0g=="
 ---
 

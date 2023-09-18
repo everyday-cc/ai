@@ -41,6 +41,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Healthcare Cognitive Computing Market Size is Expected to Reach USD 108.45 Billion by 2028, With 24.78% CAGR | Brandessence Market Research"
+    excerpt: "Healthcare Cognitive Computing Market was valued at USD 23.03 Billion in 2021 and expected to reach USD 108.45 Billion by 2028, amplifying with a CAGR of 24.78% over 2021-2028. Elaborating the key trends and dynamics of Healthcare Cognitive Computing Market"
+    publishedDateTime: 2023-09-14T17:30:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/09/14/9881413.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
+    images:
+      - url: "https://mma.prnewswire.com/media/1392316/BEMR_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "EqwKYcE2w3Mp2LQeXhz8ESAFgmNPw+qtivaFnPdCUl6P0Fo79O+vU+Ofc2C2IzeRBtuIgq4pp8fCL8AvqOOEqO+3HaQzWyGDOZcfIFbUdWOJwoLHTCIHR2vgBq6Eh34kemo832kckRDrmJgXLx5cXlF+7X8zUXY260SAu2XFtmngdZXRpsu/cu4YCo2qdd/l6eDU+twWpsTnY5ha/scd6O2FOy0DkkLdgJM6m6jvo/heeRekCWp8v6616cODTu0xuBTiCoQSlaWUBmUoC5pHpOmS/JznqIc4SRxptNEiBh6UsKxgoiqj5HpBjR9N3XZw07GrVU/5VxTfqPnDxTAs/OFa2WUfgVA7hTBxOtriBQk=;k0sEwaIcHpmD71uWOG4nDA=="
 ---

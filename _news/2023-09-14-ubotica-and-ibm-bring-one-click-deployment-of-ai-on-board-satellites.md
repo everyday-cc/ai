@@ -38,6 +38,20 @@ related:
       name: IBM
       domain: ibm.com
     quality: 97
+  - title: "China's AI applications are coming — where it matters for monetization"
+    excerpt: "Chinese companies are making announcements about artificial intelligence again – this time about applications."
+    publishedDateTime: 2023-09-18T03:08:00Z
+    webUrl: "https://www.cnbc.com/2023/09/17/chinas-ai-applications-are-coming-where-it-matters-for-monetization.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 67
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107270651-16891871352023-07-12t065357z_76281055_rc2gx1amogo7_rtrmadp_0_china-regulation-ai.jpeg?v=1694969202&w=1920&h=1080"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Dublin’s Ubotica to simplify space AI deployment with IBM"
     excerpt: "Ubotica, now an IBM partner, recently unveiled a hardware platform designed to get AI into orbit through smaller satellites. Irish space-tech company Ubotica has struck a partnership with IBM to use its cloud infrastructure and Watson AI and make deploying ..."
     publishedDateTime: 2023-09-14T11:17:00Z

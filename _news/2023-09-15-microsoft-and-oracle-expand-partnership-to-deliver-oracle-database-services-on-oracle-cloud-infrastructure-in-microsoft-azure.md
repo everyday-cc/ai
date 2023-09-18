@@ -349,15 +349,15 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 31
-  - title: "CEOs of Meta, Alphabet, Microsoft and Nvidia set to talk AI with members of Congress"
-    excerpt: "Expected to attend are Meta Platforms Inc. CEO Mark Zuckerberg, Alphabet Inc., and Google LLC CEO Sundar Pichai as well as former Google CEO Eric Schmidt."
-    publishedDateTime: 2023-09-13T14:37:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/09/13/ceos-of-meta-alphabet-microsoft-and-nvidia-set-to.html"
+  - title: "Microsoft and Oracle Partnered to Provide Database Services in Microsoft Azure"
+    excerpt: "This joint venture is if these two tech giants combine the capabilities of Oracle Database on OCI with the flexibility, security, and up-to-the-mark services of Microsoft Azure including the AI services like AZure OpenAI. As a result, they will come up ..."
+    publishedDateTime: 2023-09-18T07:31:00Z
+    webUrl: "https://www.dqindia.com/microsoft-and-oracle-partnered-to-provide-database-services-in-microsoft-azure/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 27
+      name: Dataquest
+      domain: dqindia.com
+    quality: 30
 
 secured: "3Cp+Ha90qsq0v2riE61gzSZ0S7j801NeJH1JGFGIBgDSmXn+nIbzRoyXVjxU8gfqs1cIzwLiv2KWczbM6ilMwzutznY0V77a8lk+WSsJSrQ6Nl78jSd/hn+CCoyL1fbn0+tcGDbjdJvp/zQ8tBn5idDcOdilcW8xxjrbVU1zUjch55QHR+jRfewGI6dSXdeyJxqWENUNrvDd7kY2uD5ye8888NglwqO1B0Halq+Zqd3hio/4jYlRn3zAc7sk/HD1N5oxcPdpRZutHcguSR/XEwX6C3tD5YW2tY3Np3gU0SXguwaJRzEptaRYAet9glcfNg/EO2Ts9DglAcwkrf+FTHYF22t6Ibf0oJNrqMc5Fco=;fFcgH9XSWMxJcRIeKh+cFw=="
 ---

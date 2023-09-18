@@ -19,18 +19,18 @@ topics:
 
 related:
   - title: "Nvidia, Amgen back AI-driven drug firm Generate:Biomedicines' $273 mln fundraise"
-    excerpt: "Biomedicines, which uses artificial intelligence (AI) to find new treatments, said on Thursday it has raised $273 million from investors including Nvidia's venture capital arm and Amgen ."
-    publishedDateTime: 2023-09-14T11:40:00Z
-    webUrl: "https://www.reuters.com/article/generatebio-funding/nvidia-amgen-back-ai-driven-drug-firm-generatebiomedicines-273-mln-fundraise-idUSL4N3AQ2BO"
+    excerpt: "Biomedicines, which uses artificial intelligence (AI) to find new treatments, said on Thursday it has raised $273 million from investors including Nvidia's venture capital arm and Amgen."
+    publishedDateTime: 2023-09-14T16:40:00Z
+    webUrl: "https://www.reuters.com/article/generatebio-funding-idUSL4N3AQ2BO"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 64
     images:
-      - url: "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ZIVGLF76V5ICLLRLGXUINW6DDM.jpg"
-        width: 4590
-        height: 2802
+      - url: "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/GV6NJ4N6ANM2BHU5EL2PEY5AEM.jpg"
+        width: 5472
+        height: 3648
         isCached: true
   - title: "Machine learning biotech raises $273 million in rare successful late-stage round"
     excerpt: "Biotech startup Generate Biomedicines, which uses AI to find new drugs, raised $273 million in late-stage funding."

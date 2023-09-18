@@ -1,0 +1,71 @@
+---
+category: news
+title: "China's AI applications are coming — where it matters for monetization"
+excerpt: "Chinese companies are making announcements about artificial intelligence again – this time about applications."
+publishedDateTime: 2023-09-18T03:08:00Z
+originalUrl: "https://www.cnbc.com/2023/09/17/chinas-ai-applications-are-coming-where-it-matters-for-monetization.html"
+webUrl: "https://www.cnbc.com/2023/09/17/chinas-ai-applications-are-coming-where-it-matters-for-monetization.html"
+type: article
+quality: 67
+heat: -1
+published: false
+
+provider:
+  name: CNBC
+  domain: cnbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://image.cnbcfm.com/api/v1/image/107270651-16891871352023-07-12t065357z_76281055_rc2gx1amogo7_rtrmadp_0_china-regulation-ai.jpeg?v=1694969202&w=1920&h=1080"
+    width: 1920
+    height: 1080
+    isCached: true
+
+related:
+  - title: "Ubotica partners with IBM for one-click deployment of space AI applications"
+    excerpt: "Learn how space AI leader Ubotica Technologies is using cloud infrastructure and watsonx.ai to simplify the process of running apps onboard satellites.\nThe post Ubotica partners with IBM for one-click deployment of space AI applications appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-09-14T04:01:00Z
+    webUrl: "https://www.ibm.com/blog/ubotica-partners-with-ibm-for-one-click-deployment-of-space-ai-applications/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 97
+  - title: "Ubotica and IBM bring one-click deployment of AI on board satellites"
+    excerpt: "Ubotica has partnered up with IBM to streamline the use of AI applications on board low-Earth-orbit satellites."
+    publishedDateTime: 2023-09-13T22:05:00Z
+    webUrl: "https://thenextweb.com/news/ubotica-ibm-one-click-deployment-ai-on-board-satellites"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F09%2FUntitled-design-14-8.jpg&signature=612637b66c7d62fd8e9c8397dfacad6e"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Dublin’s Ubotica to simplify space AI deployment with IBM"
+    excerpt: "Ubotica, now an IBM partner, recently unveiled a hardware platform designed to get AI into orbit through smaller satellites. Irish space-tech company Ubotica has struck a partnership with IBM to use its cloud infrastructure and Watson AI and make deploying ..."
+    publishedDateTime: 2023-09-14T11:17:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/ubotica-ibm-partner-space-ai-applications-startup-satellite-watson"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/11/Ubotica_Press_Image__-_09_Nov_22_.jpg"
+        width: 800
+        height: 600
+        isCached: true
+
+secured: "19jgR3E88VQe4kago9SA6Lh3ZygYJLoW38BcIL62qpyPZXBV7bJY7CYcAdxkv42n1MS91AyqraR69tJwKY8oqfqUJ7qrnDWn89XVs3LTfb2CbJ7pWECFs2uoJvKLpjHAxJSbSdP3vZKt9cHJ0HnRmgXpaFb9OjPy646RuZFcnNnBQu8dAy6PDTe+aIkxftF9pTcxKZwQmirOCS08Hnf+HK3YEL7qFsXzYqGBF3SfLzConMhSehBve9KEq7Wp1pjmN0UoyQr5SwipztVt76OWDrHyMAkyqx/8lbOI+g+LwirWasCpLTNMJAUFf1A7XiuNJfJWxvqwvvZ1jEJoSmGXXBkqMTLps2wKgOGOPmyzepY=;zDgAfaao4AJnbGBYj1Sqqg=="
+---
+

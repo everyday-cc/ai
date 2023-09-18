@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How AI Is A Game Changer For Recruiting And Retention At Salesforce And Other Companies"
-    excerpt: "AI has become a positive game changer for recruiting, retention, learning and development programs. In an exclusive interview with Salesforce interim chief people officer Nathalie Scardino, she discussed how the cloud computing and social enterprise software-as-a-service provider is leveraging AI for the company and its clients."
-    publishedDateTime: 2023-09-13T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/jackkelly/2023/09/13/how-ai-is-a-game-changer-for-recruiting-and-retention-at-salesforce-and-other-companies/"
-    ampWebUrl: "https://www.forbes.com/sites/jackkelly/2023/09/13/how-ai-is-a-game-changer-for-recruiting-and-retention-at-salesforce-and-other-companies/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2023/09/13/how-ai-is-a-game-changer-for-recruiting-and-retention-at-salesforce-and-other-companies/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 79
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6501b86f58ec578e535e700f/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 855
-        isCached: true
   - title: "Dreamforce 2023 - Salesforce COO Brian Millham on IT budgets, AI investment and loving his job"
     excerpt: "An ideal person to answer that question is Brian Millham, the firm’s Chief Operating Officer and a man who’s been with the company since 1999 when he was employee 13. If anyone’s in a position to comment on how things have changed over the past year, it’s him. His response is refreshingly candid:"
     publishedDateTime: 2023-09-13T17:37:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/finance/journey-heart-dreamforce-where-ai-1806
 webUrl: "https://www.aol.com/finance/journey-heart-dreamforce-where-ai-180623072.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dreamforce 2023 - Supermums aims to train up raft of women AI experts"
-    excerpt: "Looking ahead, Supermums is ensuring it has training and provision across CRM, data and AI. It has appointed an instructor to deliver a CRM analytics course, and is just launching AI provision around that. The company is also looking at introducing training for MuleSoft and Tableau."
-    publishedDateTime: 2023-09-13T13:40:00Z
-    webUrl: "https://diginomica.com/dreamforce-2023-supermums-aims-train-raft-women-ai-experts"
-    ampWebUrl: "https://diginomica.com/dreamforce-2023-supermums-aims-train-raft-women-ai-experts?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/dreamforce-2023-supermums-aims-train-raft-women-ai-experts?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 59
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-09/Screenshot%202023-09-09%20at%2009.15.04.png"
-        width: 672
-        height: 538
-        isCached: true
   - title: "Dreamforce 2023 - A lot of generative AI value actually comes from hallucinations, says OpenAI founder Sam Altman"
     excerpt: "That’s a bold point, but not one that’s likely to assuage the legitimate concerns around ethics and values in relation to generative AI. Altman counters: We want to have the smartest, most capable, most customizable models out there because we so ..."
     publishedDateTime: 2023-09-13T19:52:00Z

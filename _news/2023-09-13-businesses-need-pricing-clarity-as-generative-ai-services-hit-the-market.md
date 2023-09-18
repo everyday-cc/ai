@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/businesses-need-pricing-cla
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/businesses-need-pricing-clarity-as-genai-services-hit-market/"
 type: article
 quality: 86
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "As generative AI becomes a competitive advantage, how do you land a strategy right for your business?"
-    excerpt: "Understanding how generative AI can transform the way your organization operates is crucial as it becomes ubiquitous across industries"
-    publishedDateTime: 2023-09-13T13:54:00Z
-    webUrl: "https://venturebeat.com/ai/as-generative-ai-becomes-a-competitive-advantage-how-do-you-land-a-strategy-right-for-your-business/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 52
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/09/AdobeStock_310133876.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "/FeZI6YaGZ/yxetnl2HMJnLL1WR3cvej/Zz7gndVJS2pUTR2zQvzEFv9mSGb2LOuAxKxl6I5BBdN6kkXfdupmlcgkIv1mFun8suKj7hb7M9DR4kR20GH1GH14hS3cC9f5t1D1MoW8PGJky6L6/IRlmB8lYbmqviBkdDXl951U7j1x3hYZZoaDXD9WPggSoJzmxnuJjFHAFx2o144WM8dEW1wNVICMU1ppgR8QSwSiGhesBwRiyypGJkejeo2JVWcC2E6kc4rso//HAak7w/6Q0LaLNs/U0aAI0pBpRfzUsNySazQv2GlolnCVxm4uQh/3b04xcCqFA1pevdAihIUzRnh+tnzO5LiU2bSrt21Fs2Wdf80QtIgk340U5IjQHmtgezgAR2VVnpsCmvaqTmis0iX5TSbhZMZKZx7SyyE63litbhDb/Gw6l9T9Zsvu4jXOYR/5A0TIYQMLj61fXKu8TTUGG/oSnzeY+p3nmqxTKhaP3ZKv++r1OrIlCx1aEeTvcZB3nmb5JE60LWLlilwZA==;eQlxxQsaAQWq52L2TBhLZw=="
 ---
