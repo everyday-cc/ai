@@ -109,6 +109,20 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "Shadow Minister for Indigenous Australians - Speech - National Press Club"
+    excerpt: "Today is the first time I have addressed the Press Club as the Shadow Minister for Indigenous Australians.It is the second time I have been given the opportunity to address the National Press Club.The first was in November of 2016 when I stood alongside Marcia Langton and Josephine Cashman to address the critical issue of family violence and sexual abuse in Aboriginal communities."
+    publishedDateTime: 2023-09-18T04:44:00Z
+    webUrl: "https://www.liberal.org.au/latest-news/2023/09/18/shadow-minister-indigenous-australians-speech-national-press-club"
+    type: article
+    provider:
+      name: Liberal Party of Australia
+      domain: liberal.org.au
+    quality: 23
+    images:
+      - url: "https://cdn.liberal.org.au/headers/fb66599c50b273f38b0a36c4c8745e34.jpg"
+        width: 1400
+        height: 642
+        isCached: true
   - title: "Voice referendum: Aboriginal traditional owner stands up in front of Australia's National Press Club and declares she opposes the Voice before man yells at her and tells her to ..."
     excerpt: "But these are not promises the Government can make.' “Chapter IX Recognition of Aboriginal and Torres Strait Islander Peoples, 129 Aboriginal and Torres Strait Islander Voice In recognition of Aboriginal and Torres Strait Islander peoples as the First ..."
     publishedDateTime: 2023-09-14T05:57:00Z

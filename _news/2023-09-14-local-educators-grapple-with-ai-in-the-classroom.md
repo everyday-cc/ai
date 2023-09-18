@@ -34,6 +34,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "New ‘AI at Wharton’ initiative aims to explore and research AI applications, educate students on AI"
+    excerpt: "The initiative will give students the opportunity to take advantage of Wharton’s resources to further their understanding of how to use AI and apply it in the business world."
+    publishedDateTime: 2023-09-18T00:35:00Z
+    webUrl: "https://www.thedp.com/article/2023/09/penn-wharton-analytics-new-ai-initiative"
+    type: article
+    provider:
+      name: The Daily Pennsylvanian
+      domain: thedp.com
+    quality: 25
+    images:
+      - url: "https://snworksceo.imgix.net/dpn/094d9138-4ea5-4ea5-b594-14ba37f2e3d3.sized-1000x1000.jpg?w=800"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "2x4y87d0OYDqz5zXHm06dmVOUOp1i1YbPJ7PBiXaovl2QxY6Urkr4qOXhLCCPD78vFJwwpmzR2d+Un6DYPQX+ntyGe18Pfu53rZjNWUyq007ltJ2KXevM1VwvN01/JAdj9Ap+4JpV8wnWiI+yigfX7s/JQxFpbNEW+nyv+gMd2gJH9gVfQMtZ0LgzSYTo8589WGWXc0px+8ObY0tuN1gxoezmOVPXZAo+2Kg5O1KMFRE7oYo8sI01c26kizQeDurtrbBVOMXxhc7jzaYzRQkX9xQa1Tk3hpQuDJ1eIGc/4yFjdIK5SLDE609BO7Fi3v/0mbCzij70YZErfUzEQd/Z1qt7E2mKsYYVsdtZ1Zu2MsIN3Q5iP649kX0KcWNSqdgISDoRS70jdgAQfZUS3Kd1T3DbtbZoM6M34r3Yr6/zpRoLqtVO0Zq5L87iPgLajkQTDljsBSzVo1LqVuX6aoIMR2ExjhZ+VKK7hoJX8Qf0Xn9nosKP7ogI1gcjsstP4leDyk0wag5iS1xZkjv2errSw==;yIeSgeE1Amcjir6CdJZipA=="
 ---

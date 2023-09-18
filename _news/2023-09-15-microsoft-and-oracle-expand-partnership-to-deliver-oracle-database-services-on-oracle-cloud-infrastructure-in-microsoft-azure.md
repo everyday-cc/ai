@@ -358,15 +358,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 27
-  - title: "Microsoft and Esri to speed up access to Earth-observation data"
-    excerpt: "Microsoft also added the Planetary Computer, a platform that combines multi-petabyte global datasets related to biodiversity and climate change with machine-learning tools, to Azure Space. In addition, NASA Langley Research Center, NASA Goddard Space ..."
-    publishedDateTime: 2023-09-13T12:30:00Z
-    webUrl: "https://spacenews.com/microsoft-and-esri-to-speed-up-access-to-earth-observation-data/"
-    type: article
-    provider:
-      name: SpaceNews
-      domain: spacenews.com
-    quality: 19
 
 secured: "3Cp+Ha90qsq0v2riE61gzSZ0S7j801NeJH1JGFGIBgDSmXn+nIbzRoyXVjxU8gfqs1cIzwLiv2KWczbM6ilMwzutznY0V77a8lk+WSsJSrQ6Nl78jSd/hn+CCoyL1fbn0+tcGDbjdJvp/zQ8tBn5idDcOdilcW8xxjrbVU1zUjch55QHR+jRfewGI6dSXdeyJxqWENUNrvDd7kY2uD5ye8888NglwqO1B0Halq+Zqd3hio/4jYlRn3zAc7sk/HD1N5oxcPdpRZutHcguSR/XEwX6C3tD5YW2tY3Np3gU0SXguwaJRzEptaRYAet9glcfNg/EO2Ts9DglAcwkrf+FTHYF22t6Ibf0oJNrqMc5Fco=;fFcgH9XSWMxJcRIeKh+cFw=="
 ---

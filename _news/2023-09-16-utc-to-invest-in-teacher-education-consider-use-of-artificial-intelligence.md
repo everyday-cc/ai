@@ -7,8 +7,8 @@ originalUrl: "https://www.timesfreepress.com/news/2023/sep/15/utc-to-invest-in-t
 webUrl: "https://www.timesfreepress.com/news/2023/sep/15/utc-to-invest-in-teacher-education-consider-ai-tfp/"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: -1
+published: false
 
 provider:
   name: Chattanooga Times Free Press
@@ -25,29 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "New ‘AI at Wharton’ initiative aims to explore and research AI applications, educate students on AI"
-    excerpt: "The initiative will give students the opportunity to take advantage of Wharton’s resources to further their understanding of how to use AI and apply it in the business world."
-    publishedDateTime: 2023-09-18T00:35:00Z
-    webUrl: "https://www.thedp.com/article/2023/09/penn-wharton-analytics-new-ai-initiative"
+  - title: "Concerns over education system’s ability to handle issues of AI misuse"
+    excerpt: "Artificial intelligence (AI) like ChatGPT uses natural language processing to create human-like conversational dialogue. The tool can also be used in writing emails, articles, social media posts and essays on any given topic. The emergence of ChatGPT has ..."
+    publishedDateTime: 2023-09-18T05:51:00Z
+    webUrl: "https://www.citizen.co.za/witness/news/concerns-over-education-systems-ability-to-handle-issues-of-ai-misuse/"
     type: article
     provider:
-      name: The Daily Pennsylvanian
-      domain: thedp.com
-    quality: 25
+      name: The Citizen
+      domain: citizen.co.za
+    quality: 58
     images:
-      - url: "https://snworksceo.imgix.net/dpn/094d9138-4ea5-4ea5-b594-14ba37f2e3d3.sized-1000x1000.jpg?w=800"
-        width: 800
-        height: 533
+      - url: "https://media-witness.citizen.co.za/wp-content/uploads/2023/04/2560px-Computer_lab_1.jpg"
+        width: 2134
+        height: 1200
         isCached: true
-  - title: "The UAW and Other Unions Must Focus More on AI and Automation in Their Negotiations"
-    excerpt: "In its negotiations with the Big 3 car companies, the United Auto Workers’ priority is maximizing pay increases for its members. The UAW and many other trade unions should be equally concerned about the impact of AI and automation on jobs and how to prepare their members for this new world."
-    publishedDateTime: 2023-09-15T12:05:00Z
-    webUrl: "https://hbr.org/2023/09/the-uaw-and-other-unions-must-focus-more-on-ai-and-automation-in-their-negotiations"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 11
 
 secured: "bLB8WCWk0NlhX5cpdlvQjEFkwlzul0/r/syqN05N6brxg7w5k/cHISEm7z/lKzRkLNbKiRPXjIdgE8fE1C2+tuCKBGHB/ud934sz4Mz9POzcwvzBChDXX2UIcTuDeI0RzXb9Vd8Vag6PSf0XzLIc9MzV4SO23w6oymz7JTmtwodKK2GKX87AKpL9aZtsOj9cKuNfyQIEiYyyFwTrTMK3osFsgB/cuu9A284O3YBZ5ZPhCVX3aaLPJejP9ZG05IhSdtBWkTlb4yz6GQImHTNLzsb8jmD7SGs0NABWwPfLuIIDUNGj5U+i600xSSZe/5VA9ULWleZpf81NngHoBkUCzGrpL1tacWR3fBq0825BB36nrTOmn4eOD4qFBxaMMp7G1g2WazzuVj5d/a7G3WGFu+ORdyhY+7NT4NqUT/sGjg80SrazI4Hvojy5PRk0VSvdTWPheejcbC9mJKYThaqgSub5NfEZa/paJi3jUDvPXrGX1xVRXUAJRfY9lMQFmjroDWze3mtckYOmo9ybOApCwA==;fH890P1hjkoPGD/JMwuV8A=="
 ---

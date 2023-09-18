@@ -25,250 +25,153 @@ images:
     isCached: true
 
 related:
-  - title: "Stability AI, gunning for a hit, launches an AI-powered music generator"
-    excerpt: "A year ago, Stability AI, the London-based startup behind the open source image-generating AI model Stable Diffusion, quietly released Dance Diffusion, a model that can generate songs and sound effects given a text description of the songs and sound effects in question."
-    publishedDateTime: 2023-09-13T11:33:00Z
-    webUrl: "https://techcrunch.com/2023/09/13/stability-ai-gunning-for-a-hit-launches-an-ai-powered-music-generator/"
-    ampWebUrl: "https://techcrunch.com/2023/09/13/stability-ai-gunning-for-a-hit-launches-an-ai-powered-music-generator/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/13/stability-ai-gunning-for-a-hit-launches-an-ai-powered-music-generator/amp/"
+  - title: "Extending ChatGPT: Can AI chatbot plugins really change the game?"
+    excerpt: "I take a deep dive into how powerful ChatGPT and other AI chatbot plugins really are. Can they actually make a difference in your work life and are they even worth it? Read on."
+    publishedDateTime: 2023-09-14T21:03:00Z
+    webUrl: "https://www.zdnet.com/article/extending-chatgpt-do-ai-chatbot-plugins-really-change-the-game/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/extending-chatgpt-do-ai-chatbot-plugins-really-change-the-game/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/extending-chatgpt-do-ai-chatbot-plugins-really-change-the-game/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
+      name: ZDNet
+      domain: zdnet.com
     quality: 87
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1352457907.jpg?resize=1200,752"
+      - url: "https://www.zdnet.com/a/img/resize/51fda1c51f88c886678acd9b26995e9a0f04e8d6/2023/08/01/642fa39b-9b6e-44e3-a5c9-39935cca0eaf/chatgpt-app.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 752
+        height: 675
         isCached: true
-  - title: "Google Cloud Is Betting On Gen AI To Drive Sustainability"
-    excerpt: "Gen Ai can play a key role in fostering data transparency across the supply chain, in this article I explain why Google Cloud wants to be at the forefront on this."
-    publishedDateTime: 2023-09-13T17:01:00Z
-    webUrl: "https://www.forbes.com/sites/carolinamilanesi/2023/09/13/google-cloud-is-betting-on-gen-ai-to-drive-sustainability/"
-    ampWebUrl: "https://www.forbes.com/sites/carolinamilanesi/2023/09/13/google-cloud-is-betting-on-gen-ai-to-drive-sustainability/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinamilanesi/2023/09/13/google-cloud-is-betting-on-gen-ai-to-drive-sustainability/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6501e94fcb263d23895e700d/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "The raw materials for creating AI"
-    excerpt: "Explore the resources and materials that are needed to create AI"
-    publishedDateTime: 2023-09-15T16:14:00Z
-    webUrl: "https://www.businessinsider.com/how-to-create-ai-materials-resources-guide-2023-9"
-    ampWebUrl: "https://www.businessinsider.com/how-to-create-ai-materials-resources-guide-2023-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-create-ai-materials-resources-guide-2023-9?amp"
+  - title: "Americans are over generative AI like ChatGPT, but their bosses are just getting started"
+    excerpt: "Many companies and bosses are still firming up their generative-AI plans. Employees will have to wait a bit longer to see if their fears materialize."
+    publishedDateTime: 2023-09-14T16:31:00Z
+    webUrl: "https://www.businessinsider.com/people-are-bored-with-chatgpt-generative-ai-bosses-are-not-2023-9"
+    ampWebUrl: "https://www.businessinsider.com/people-are-bored-with-chatgpt-generative-ai-bosses-are-not-2023-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/people-are-bored-with-chatgpt-generative-ai-bosses-are-not-2023-9?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 87
+    quality: 78
     images:
       - url: "https://i.insider.com/64c7a0d5048ff200190de9d2?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Businesses need pricing clarity as generative AI services hit the market"
-    excerpt: "Transparency around how exactly services are charged will be essential as organizations look to avoid bill shock from consuming generative artificial intelligence tools."
-    publishedDateTime: 2023-09-13T16:30:00Z
-    webUrl: "https://www.zdnet.com/article/businesses-need-pricing-clarity-as-genai-services-hit-market/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/businesses-need-pricing-clarity-as-genai-services-hit-market/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/businesses-need-pricing-clarity-as-genai-services-hit-market/"
+  - title: "10 Best AI Chatbots 2023"
+    excerpt: "Generative AI chatbots are a major step forward in conversational AI. These chatbots are powered by large language models (LLMs) that can generate human-quality text, translate languages, write creative content, and provide informative answers to your ..."
+    publishedDateTime: 2023-09-14T21:55:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/best-ai-chatbots/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 86
+      name: eWeek
+      domain: eweek.com
+    quality: 69
     images:
-      - url: "https://www.zdnet.com/a/img/resize/d4ea5b28fdf0cd75bc8dd9f69f727fdabb9516ec/2023/09/13/d7a94305-a93c-4d75-aaa8-2a2a3a076a46/gettyimages-1295039478.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.eweek.com/wp-content/uploads/2023/09/ew_09142023-best-ai-chatbot.png"
+        width: 1400
+        height: 900
         isCached: true
-  - title: "AI now generates music with CD-quality audio from text, and it’s only getting better"
-    excerpt: "If you'll recall, Stability AI is the company that helped fund the creation of Stable Diffusion, a latent diffusion image synthesis model released in August 2022. Not content to limit itself to generating images, the company branched out into audio by backing Harmonai, an AI lab that launched music generator Dance Diffusion in September."
-    publishedDateTime: 2023-09-13T20:59:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/09/ai-can-now-generate-cd-quality-music-from-text-and-its-only-getting-better/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/09/ai-can-now-generate-cd-quality-music-from-text-and-its-only-getting-better/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/ai-can-now-generate-cd-quality-music-from-text-and-its-only-getting-better/amp/"
+  - title: "Verbal nonsense reveals limitations of AI chatbots"
+    excerpt: "The era of artificial-intelligence chatbots that seem to understand and use language the way we humans do has begun. Under the hood, these chatbots use large language models, a particular kind of neural network."
+    publishedDateTime: 2023-09-15T12:22:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/09/230914114704.htm"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 82
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot_singing_3-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Stability AI just unveiled a text-to-music generator, and you can try it. Here's how"
-    excerpt: "The Stable Audio app uses generative AI techniques to create music, sound effects, and audio up to 90 seconds long based on user prompts."
-    publishedDateTime: 2023-09-14T17:55:00Z
-    webUrl: "https://www.zdnet.com/article/stability-ai-just-unveiled-a-text-to-music-generator-and-you-can-try-it-heres-how/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/stability-ai-just-unveiled-a-text-to-music-generator-and-you-can-try-it-heres-how/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/stability-ai-just-unveiled-a-text-to-music-generator-and-you-can-try-it-heres-how/"
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
+  - title: "Claude Pro vs. ChatGPT Plus: Which AI chatbot is better for you?"
+    excerpt: "Claude Pro is a new paid subscription service from AI startup Anthropic and is set to compete directly with OpenAI's ChatGPT Plus."
+    publishedDateTime: 2023-09-15T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/claude-pro-vs-chatgpt-plus-comparison-which-ai-chatbot-is-better-for-you/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 80
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/4e067f1f8c2abf3b2db1a2f0abfb7929a278ce41/2023/09/14/5df6af52-6068-4bca-a545-2e56805b3c37/waves-gettyimages-184286397.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Winn.AI Introduces AI-Powered \"Magic Emails\" To Revolutionize Sales Follow-Ups"
-    excerpt: "Winn.AI, an Israel-based sales tech startup that helps sales teams win more deals with less hassle through its innovative real-time tracking, capturing, and CRM updating features, introduces Magic Emails,"
-    publishedDateTime: 2023-09-14T00:35:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/ab34558719/winn-ai-introduces-ai-powered-magic-emails-to-revolutionize-sales-follow-ups"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34558719"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34558719"
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "Is Tencent’s ChatGPT rival, Hunyuan, Set to Disrupt the AI Market?"
+    excerpt: "Tencent launches Hunyuan designed for natural language processing in Chinese to create a ChatGPT-like chatbot. Will it become a game-changer?"
+    publishedDateTime: 2023-09-16T10:08:00Z
+    webUrl: "https://www.techopedia.com/is-tencents-chatgpt-rival-hunyuan-set-to-disrupt-the-ai-market"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 70
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Protect, an AI-powered phone app, is part of a \"public safety reboot\" in the age of AI"
-    excerpt: "CMO and co-founder of Protect Matt Frischer told Fox News Digital he hopes this app will save lives and eventually deter crime."
-    publishedDateTime: 2023-09-16T23:47:00Z
-    webUrl: "https://www.foxnews.com/video/6337296940112"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 59
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/479b2543-f950-4f80-8286-2d387b67cccc/246197ca-db5e-47e1-b514-aa91d644b387/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Ernst & Young launches a new AI platform"
-    excerpt: "Sources revealed that on September 13, 2023, the London-based firm mentioned that it had invested $1.4 billion into AI technologies for its new EY.ai platform. The new platform is expected to help organisations adopt AI. It is believed that the platform is based on EY’s own large language model (LLM), EY AI EYQ, Cointelegraph added."
-    publishedDateTime: 2023-09-18T03:40:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-ernst-young-launches-a-new-ai-platform-3246635/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ernst-young-launches-a-new-ai-platform-3246635/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ernst-young-launches-a-new-ai-platform-3246635/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/My-project-1-2023-07-22T092308.558.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Tech titans are giving senators advice on artificial intelligence in a closed-door forum"
-    excerpt: "Senate Majority Leader Chuck Schumer convened a meeting of some of the country’s most prominent technology executives to ask them how Congress should do it."
-    publishedDateTime: 2023-09-13T14:19:00Z
-    webUrl: "https://www.wyomingnewsnow.tv/2023/09/13/tech-titans-are-giving-senators-advice-artificial-intelligence-closed-door-forum/"
-    ampWebUrl: "https://www.wyomingnewsnow.tv/2023/09/13/tech-titans-are-giving-senators-advice-artificial-intelligence-closed-door-forum/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wyomingnewsnow-tv.cdn.ampproject.org/c/s/www.wyomingnewsnow.tv/2023/09/13/tech-titans-are-giving-senators-advice-artificial-intelligence-closed-door-forum/?outputType=amp"
-    type: article
-    provider:
-      name: wyomingnewsnow
-      domain: wyomingnewsnow.tv
-    quality: 50
-    images:
-      - url: "https://gray-kgwn-prod.cdn.arcpublishing.com/resizer/7cdAMr1OmpsfuDwEed0A6oFedDA=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/OQJNV346WBEMLNMZZGUTTTLFH4.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "How does Stable Audio generate AI music and sound effects"
-    excerpt: "A new AI sound generator has been released in the form of Stable Audio capable of rendering 95 secs of stereo audio at a 44.1 kHz in seconds"
-    publishedDateTime: 2023-09-14T10:13:00Z
-    webUrl: "https://www.geeky-gadgets.com/ai-sound-generator/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
+      name: Techopedia
+      domain: techopedia.com
     quality: 39
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/How-does-Stable-Audio-generate-AI-sound.jpg"
-        width: 700
-        height: 463
+      - url: "https://www.techopedia.com/wp-content/uploads/2023/09/android_02.png"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Deduce Raises $9M to Address AI-Generated Identity Fraud"
-    excerpt: "Deduce announced $9M in funding led by Freestyle Capital, with additional investment by Foundry and True Ventures."
-    publishedDateTime: 2023-09-14T12:02:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/09/212894-deduce-raises-9m-to-address-ai-generated-identity-fraud/"
+  - title: "Dr. ChatGPT: How accurate are the new AI tools with medical capabilities?"
+    excerpt: "There are still many questions about how to integrate artificial intelligence into health care systems, however, the race is on: The Mayo Clinic is integrating a chatbot into its system."
+    publishedDateTime: 2023-09-14T15:14:00Z
+    webUrl: "https://www.benefitspro.com/2023/09/14/dr-google-meets-its-match-dr-chatgpt/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
+      name: Benefits Pro
+      domain: benefitspro.com
+    quality: 38
+    images:
+      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2023/09/Chat-GPT-Article-202307181246.jpg"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Are AI chatbots more creative than humans? New study reveals surprising results"
+    excerpt: "The study published in Scientific Reports compared human and AI chatbot creativity using the alternate uses task (AUT), finding that AI chatbots generally outperformed humans in generating original and logical uses for everyday objects."
+    publishedDateTime: 2023-09-18T01:41:00Z
+    webUrl: "https://www.news-medical.net/news/20230917/Are-AI-chatbots-more-creative-than-humans-New-study-reveals-surprising-results.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 35
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_759144_16950011783825327.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Forget ChatGPT: Facial recognition emerges as AI rulebook’s make-or-break issue"
+    excerpt: "The battle brewing over artificial intelligence in Brussels is about facial recognition. On Wednesday, the European Parliament's plenary passed its version of the Artificial Intelligence Act after two years of wrangling. The text — backed by a coalition ..."
+    publishedDateTime: 2023-09-16T16:24:00Z
+    webUrl: "https://www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/"
+    type: article
+    provider:
+      name: Politico Europe
+      domain: politico.eu
+    quality: 30
+  - title: "Why Japan is building its own version of ChatGPT"
+    excerpt: "Some Japanese researchers feel that AI systems trained on foreign languages cannot grasp the intricacies of Japanese language and culture."
+    publishedDateTime: 2023-09-14T03:41:00Z
+    webUrl: "https://www.nature.com/articles/d41586-023-02868-z"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 24
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-02868-z/d41586-023-02868-z_26031418.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Gibberish or Genius? Verbal Nonsense Reveals Limitations of AI Chatbots"
+    excerpt: "In a new study, researchers tracked how current language models, such as ChatGPT, mistake nonsense sentences as meaningful. Can these AI flaws open new windows on the brain? We have now entered into a"
+    publishedDateTime: 2023-09-14T15:16:00Z
+    webUrl: "https://scitechdaily.com/gibberish-or-genius-verbal-nonsense-reveals-limitations-of-ai-chatbots/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
     quality: 19
-  - title: "How scientists are using artificial intelligence"
-    excerpt: "Once the AI spat out its shortlist, the scientists tested them in the lab and identified their antibiotics. If discovering new drugs is like searching for a needle in a haystack, says Regina Barzilay,"
-    publishedDateTime: 2023-09-13T18:52:00Z
-    webUrl: "https://www.economist.com/science-and-technology/2023/09/13/how-scientists-are-using-artificial-intelligence"
+  - title: "Why Japan Is Building Its Own Version of ChatGPT"
+    excerpt: "Some Japanese researchers feel that AI systems trained on foreign languages cannot grasp the intricacies of Japanese language and culture"
+    publishedDateTime: 2023-09-15T14:04:00Z
+    webUrl: "https://www.scientificamerican.com/article/why-japan-is-building-its-own-version-of-chatgpt/?ref=upstract.com"
     type: article
     provider:
-      name: The Economist
-      domain: economist.com
-    quality: 19
-  - title: "Bitcoin is the currency for AI"
-    excerpt: "BITCOIN'S compatibility with AI technologies is driving major institutional investors to increase their exposure to the cryptocurrency, according to the executive at deVere Group, one of the world's largest independent financial advisory,"
-    publishedDateTime: 2023-09-16T13:15:00Z
-    webUrl: "https://www.manilatimes.net/2023/09/17/business/sunday-business-it/bitcoin-is-the-currency-for-ai/1910352"
-    type: article
-    provider:
-      name: manilatimes
-      domain: manilatimes.net
-    quality: 19
-  - title: "Congress’s week of AI"
-    excerpt: "Tech titans, developers and executives descended on Capitol Hill this week for a series of meetings exploring crucial safeguards for AI research and development."
-    publishedDateTime: 2023-09-15T18:09:00Z
-    webUrl: "https://www.nextgov.com/artificial-intelligence/2023/09/congresss-week-ai/390336/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 19
-  - title: "Intel Celebrates AI Accessibility and Enables the Next Generation of Innovators"
-    excerpt: "About Intel's Role: Intel is committed to bringing AI skills everywhere, regardless of a person's ethnicity, age, gender or background. The AI Global Impact Festival provides opportunities and platforms for future innovators to learn, showcase and celebrate the impact of AI innovations."
-    publishedDateTime: 2023-09-14T17:56:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-intel-celebrates-ai-accessibility-enables-next-generation-innovators-/2023/09/14/9881521.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
-  - title: "Tech titans are giving senators advice on artificial intelligence in a closed-door forum"
-    excerpt: "\"It's going to be a fascinating group because they have different points of view,\" Schumer said in an interview with The Associated Press before the event. \"Hopefully we can weave it into a little bit of some broad consensus."
-    publishedDateTime: 2023-09-13T20:15:00Z
-    webUrl: "https://sentinelcolorado.com/uncategorized/tech-titans-are-giving-senators-advice-on-artificial-intelligence-in-a-closed-door-forum/"
-    type: article
-    provider:
-      name: Sentinel Colorado
-      domain: sentinelcolorado.com
-    quality: 10
-  - title: "Phenom AI Day Agenda Preview: Technical Experts to Demonstrate and Explain AI's Application for Human Resources"
-    excerpt: "AI Day agenda published - Phenom experts to demonstrate and explain AI's role for empowering organizations to hire faster, develop better and retain longer, while reaching new levels of efficiency. This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20230913537994/en/"
-    publishedDateTime: 2023-09-13T14:17:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/09/13/9880494.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-  - title: "Smartcat, the Essential Language AI Platform for the Global Enterprise, Launches Multilingual Generative AI Content Creator"
-    excerpt: "As the leader in language AI for the enterprise, Smartcat is the only solution to offer a holistic approach to multilingual content, breaking down traditional barriers of linear translation ..."
-    publishedDateTime: 2023-09-13T11:24:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20230913381142/smartcat-the-essential-language-ai-platform-for-the-global-enterprise-launches-multilingual-generative-ai-content-creator"
-    type: article
-    provider:
-      name: Morningstar
-      domain: morningstar.com
-    quality: 0
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 4
 
 secured: "dzMTIlsLtDhDTyu4GHuQdXuiwJcgTvpSrjxC1cY+YAXrYiaX3QpCd6iw7tAeGDL5Kge9jvurI8GBnx1Ybe5Sp+cMaFl01Hq7o+P8vD60zVKMKxDzJisF0F0zuhTZtlMNsdc6p2Y/ryHBjSzqIYnKK3/Gt2K+Qd+dfpFg4CqaLWAMfWW4rCA5RtQ0aQ1UR9dEKbbosiX/VuNFzFy8jAytD+0IGc3C4Sd76cDMq5X6zoYwia+3a0tgwTkhaj65dIm2ZpO087bM3OcyjzsozkJm2NdYnoXzCLpJYVMa4SBpYPUYaJ1pZ5ZOZ7e2qKK6n7lEZfRUqZ5LtwWizbZZo2QLXz/dZga/ZCTUP7vW5MztKGtGRLnwniPmYNq08+l8HQERKLe8mCMi0/tEWx4ePvw5o7qfHI6KSsXqZ84mJMXzgWob7eNFOy7JJVR6phs4VEcA1XwVfaP/LEWDURYLBZBlNClH3uwP9YJljNWhhIqDrpYGg4e2VBMhGqJW79M/5nuzyfz5rvDO2tPJ3nJk0nn1eA==;ZKIXd2VcBnq/UK+ruslsZA=="
 ---

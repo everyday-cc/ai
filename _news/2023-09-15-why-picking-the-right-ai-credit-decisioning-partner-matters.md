@@ -24,61 +24,45 @@ images:
     isCached: true
 
 related:
-  - title: "AI and cloud computing training: Everything you need to know"
-    excerpt: "Specialised areas such as ethics in AI, bias reduction, and AI governance are also becoming integral parts of comprehensive AI training programs. In Cloud Computing training, understanding various platforms, migration strategies, security protocols ..."
-    publishedDateTime: 2023-09-17T11:50:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-ai-and-cloud-computing-training-everything-you-need-to-know-3246235/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-and-cloud-computing-training-everything-you-need-to-know-3246235/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-and-cloud-computing-training-everything-you-need-to-know-3246235/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design232.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Employees are increasingly getting 'AI Anxious' — they're worried about falling behind on AI and even pretending to be 'in the know' to colleagues"
-    excerpt: "About 40% of the 29,000 workers surveyed by LinkedIn said they feel overwhelmed about not being able to keep up with new AI developments."
-    publishedDateTime: 2023-09-14T03:52:00Z
-    webUrl: "https://www.businessinsider.com/employees-ai-anxious-falling-behind-pretending-linkedin-survey-chatgpt-2023-9"
-    ampWebUrl: "https://www.businessinsider.com/employees-ai-anxious-falling-behind-pretending-linkedin-survey-chatgpt-2023-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/employees-ai-anxious-falling-behind-pretending-linkedin-survey-chatgpt-2023-9?amp"
+  - title: "The raw materials for creating AI"
+    excerpt: "Explore the resources and materials that are needed to create AI"
+    publishedDateTime: 2023-09-15T16:14:00Z
+    webUrl: "https://www.businessinsider.com/how-to-create-ai-materials-resources-guide-2023-9"
+    ampWebUrl: "https://www.businessinsider.com/how-to-create-ai-materials-resources-guide-2023-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-create-ai-materials-resources-guide-2023-9?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 49
+    quality: 87
     images:
-      - url: "https://i.insider.com/6502799c1afe8f0019ea1922?width=1200&format=jpeg"
+      - url: "https://i.insider.com/64c7a0d5048ff200190de9d2?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Tech companies using your personal data to train AI"
-    excerpt: "Big tech companies like Google, Meta and Microsoft are accessing your data to teach AI to essentially pretend to be human. Geoffrey Fowler, tech columnist at the Washington Post, joined CBS News to explain how."
-    publishedDateTime: 2023-09-14T20:11:00Z
-    webUrl: "https://www.cbsnews.com/video/how-your-personal-data-can-be-used-to-train-ai/"
+  - title: "Final Trailer for Sci-Fi 'The Creator' - Artificial Intelligence vs. Humans"
+    excerpt: "\"They're coming to get me.\" Only a few weeks away now. 20th Century has unveiled the final official trailer for the epic sci-fi spectacular titled The Creator, from director Gareth Edwards. It's still set to open in theaters worldwide a the end of September - here's the first and second trailers (and this A."
+    publishedDateTime: 2023-09-13T15:57:00Z
+    webUrl: "https://www.firstshowing.net/2023/final-trailer-for-sci-fi-the-creator-artificial-intelligence-vs-humans/"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
+      name: FirstShowing.net
+      domain: firstshowing.net
+    quality: 52
     images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/14/f9cc8f71-d185-4ad6-8868-3b9d92d1f63f/thumbnail/1200x630/b241d6a4290ba1adbab28687bba2d2aa/cbsn-fusion-how-your-personal-data-can-be-used-to-train-ai-thumbnail-2290873-640x360.jpg?v=6616762727d81e1cb010134e0c556e29"
-        width: 1200
-        height: 630
+      - url: "https://media2.firstshowing.net/firstshowing/img15/TheCreatorFinalpostertrailermainTW7.jpg"
+        width: 1382
+        height: 521
         isCached: true
-  - title: "‘There is no work to balance’: how shrinking budgets, Covid and AI shook up life in consulting"
-    excerpt: "Now companies from Accenture to EY and McKinsey are slashing thousands of jobs. The valuations of consultancy businesses are falling — one reason EY pulled its Project Everest plan to separate its accounting and consultancy arms — while the industry’s reputation is under attack following scandals such as firms’ misconduct in South Africa."
-    publishedDateTime: 2023-09-18T03:00:00Z
-    webUrl: "https://www.ft.com/content/e3cfa50b-d7ef-4f7c-bf08-c1dd6e457dba"
+  - title: "Bitcoin is the currency for AI"
+    excerpt: "BITCOIN'S compatibility with AI technologies is driving major institutional investors to increase their exposure to the cryptocurrency, according to the executive at deVere Group, one of the world's largest independent financial advisory,"
+    publishedDateTime: 2023-09-16T13:15:00Z
+    webUrl: "https://www.manilatimes.net/2023/09/17/business/sunday-business-it/bitcoin-is-the-currency-for-ai/1910352"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 5
+      name: manilatimes
+      domain: manilatimes.net
+    quality: 19
 
 secured: "rrNZgyiAs59SiXKUpbzMeHi4JD05X2L8kkLS5Nc1J4L5a8TUyaZ7vDKo9ylo7GmZV0FURgtLGhy0m0/zZhyvAeOInsOrlQXr63bJdSHBqyM7TH+HgiiawFpWljYyJUyjsObtkJvSF85eaj2yGWjw9Rq7JjdL+sVu3hJMY9B2fSXvqxcwMSYUIn+ir82egpdEtoD6s7UwUNMtoZJUBTyDYwegpuY01Xa1xOwHMdzOGE66Fbk32uEjWC2JGxNl7xFYUUhGySkhQOvs1g1iqeFwR5qJAXJH8DV1iLzFMB4HGtI7H3C6j0LMH2Iaf1nJ1hq9EQkhFKXol6c4cMhVCrBPepBBLGfdMBKV6ttM1bOH5PU=;vChZOcVGPdxWyYyErLVNuA=="
 ---

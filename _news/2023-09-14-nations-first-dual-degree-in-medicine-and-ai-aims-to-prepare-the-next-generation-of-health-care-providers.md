@@ -19,89 +19,31 @@ topics:
   - AI
 
 related:
-  - title: "The Future Of AI In Business: Predictions And How To Prepare"
-    excerpt: "AI has exploded in popularity in 2023. Here are my predictions for what's to come with AI and how your business can prepare."
-    publishedDateTime: 2023-09-13T11:44:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/09/13/the-future-of-ai-in-business-predictions-and-how-to-prepare/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/09/13/the-future-of-ai-in-business-predictions-and-how-to-prepare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/09/13/the-future-of-ai-in-business-predictions-and-how-to-prepare/amp/"
+  - title: "The Next Generation Of Clinical Trials: AI And New Ways To Use Data"
+    excerpt: "With the advent and widespread use of wearable technologies and the adoption of decentralized clinical trials (DCTs) generating millions of data points for trial organizers, there is immense scope for AI to be deployed to generate valuable insights from this data."
+    publishedDateTime: 2023-09-14T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/14/the-next-generation-of-clinical-trials-ai-and-new-ways-to-use-data/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/14/the-next-generation-of-clinical-trials-ai-and-new-ways-to-use-data/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/14/the-next-generation-of-clinical-trials-ai-and-new-ways-to-use-data/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63d3d76c6f41b0b2774c5504/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63c16b7f73a49bc1d8964a41/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 799
+        height: 800
         isCached: true
-  - title: "5 Skills For The Future: How To Proof Your Career For The AI Revolution"
-    excerpt: "If you don't get on board and upskill yourself in these five skills, your career will be obsolete. Learn the five essential skills you need to outlast the AI revolution."
-    publishedDateTime: 2023-09-17T14:21:00Z
-    webUrl: "https://www.forbes.com/sites/rachelwells/2023/09/17/5-skills-for-the-future-how-to-proof-your-career-for-the-ai-revolution/"
-    ampWebUrl: "https://www.forbes.com/sites/rachelwells/2023/09/17/5-skills-for-the-future-how-to-proof-your-career-for-the-ai-revolution/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/09/17/5-skills-for-the-future-how-to-proof-your-career-for-the-ai-revolution/amp/"
+  - title: "Intel Celebrates AI Accessibility and Enables the Next Generation of Innovators"
+    excerpt: "About Intel's Role: Intel is committed to bringing AI skills everywhere, regardless of a person's ethnicity, age, gender or background. The AI Global Impact Festival provides opportunities and platforms for future innovators to learn, showcase and celebrate the impact of AI innovations."
+    publishedDateTime: 2023-09-14T17:56:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-intel-celebrates-ai-accessibility-enables-next-generation-innovators-/2023/09/14/9881521.htm"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6507054221636f3caa52ccc9/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 673
-        isCached: true
-  - title: "How AI Can Revolutionize The Business Banking User Experience"
-    excerpt: "AI is poised to revolutionize the user experience in any field, including for small businesses in Business Banking. By leveraging cutting-edge technologies and advanced data analytics, the integration of AI by banks,"
-    publishedDateTime: 2023-09-13T11:03:00Z
-    webUrl: "https://www.finextra.com/blogposting/24880/how-ai-can-revolutionize-the-business-banking-user-experience"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 54
-    images:
-      - url: "https://www.finextra.com/finextra-images/visible_pictures/8912b45e-e69f-4108-a79d-f6764d2d493e.png"
-        width: 500
-        height: 285
-        isCached: true
-  - title: "As generative AI becomes a competitive advantage, how do you land a strategy right for your business?"
-    excerpt: "Understanding how generative AI can transform the way your organization operates is crucial as it becomes ubiquitous across industries"
-    publishedDateTime: 2023-09-13T13:54:00Z
-    webUrl: "https://venturebeat.com/ai/as-generative-ai-becomes-a-competitive-advantage-how-do-you-land-a-strategy-right-for-your-business/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 52
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/09/AdobeStock_310133876.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The Future of BaaS: Exploring the Top Predictions for 2022 and Beyond"
-    excerpt: "Welcome to the future of BaaS, where innovation and technology collide to reshape the way businesses operate. As we step into 2022 and beyond, it’s time to unravel the top predictions that will revolutionize this ever-evolving landscape."
-    publishedDateTime: 2023-09-14T15:33:00Z
-    webUrl: "https://techbullion.com/the-future-of-baas-exploring-the-top-predictions-for-2022-and-beyond/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 24
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/09/Untitled-design-2023-09-14T162953.867.png"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "AI Trends In International Business: Insights from Three Leaders"
-    excerpt: "Three industry leaders in AI stand out by demonstrating their shared backgrounds and training that led them each to have unparalleled success in AI: Kai-Fu Lee, Harry Shum and Qi Lu."
-    publishedDateTime: 2023-09-13T18:52:00Z
-    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/09/13/ai-trends-in-international-business-insights-from-three-leaders/70844708007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 17
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
 
 secured: "8qO7Rbci716y2n4xGAJkwE4eGnjpaOVjy1EEhaR215liL1B9EP4j0r6CaB/Xpqpa1vrQYZ+0YXSKc7w1cMetYmeWFOibVFJlr7jg5auKetUtigPkTnbh1nEMshMScMvqc5TqGcjf36+Gomp3E0/poCpVUHJZpTr8IOC4Z7e+SVB/lSfSMd+RlERCgQ0CKGEj/pF0Qz9diAKnHijcr+Eejie4uInqxLZbLXrWshzocOUJuJ8N7Pscol4DtK0vkBTjLAQsRAmUCCZyaJPgg1lN6kJWYPZHTVDgM/U/oFCnx7ub1h3guA/jqwMxotn34yi2IhmRqXR/N67megFpJ/1Futxq2LcNb1al+7X9miOpJ+g4SSClE2K1ZjnQphR5g4g/dKv2SgDqawNmvwurxM9t+B39HRV2AoEwX2mtu0yOqCwNLOIsEwj3/Cr5rcBKnsB/Jeg8Tdf1LQ5W7QlscI3Z5ajLUXeR84BczJf2byL6s0IFHLpVB+Lqa2dglAirWTwo1NIsRMoD3Pn+EaXwGT047g==;lXHzj/x474aP3MWPxIgDaQ=="
 ---

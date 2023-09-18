@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/markets/deals/chinese-ai-firm-fourth-parad
 webUrl: "https://www.reuters.com/markets/deals/chinese-ai-firm-fourth-paradigm-leads-hong-kong-ipo-surge-raise-280-mln-2023-09-18/"
 type: article
 quality: 65
-heat: 85
+heat: 87
 published: true
 
 provider:

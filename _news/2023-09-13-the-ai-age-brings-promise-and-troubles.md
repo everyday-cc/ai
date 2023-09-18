@@ -56,6 +56,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "The tricky ethics of AI in the lab"
+    excerpt: "Uuk calls this a misguided approach that will impede efforts to develop AI as a beneficial technology. “Oftentimes, issues that arise in the research space present themselves downstream in the deployment of AI systems,” he says."
+    publishedDateTime: 2023-09-18T05:14:00Z
+    webUrl: "https://cen.acs.org/business/informatics/tricky-ethics-AI-lab/101/i31"
+    type: article
+    provider:
+      name: C&EN
+      domain: acs.org
+    quality: 54
+    images:
+      - url: "https://s7d1.scene7.com/is/image/CENODS/10131-cover-opener-related?$responsive$&wid=700&qlt=90,0&resMode=sharp2"
+        width: 700
+        height: 350
+        isCached: true
 
 secured: "72N7e8UBRn0kxznRgSVHUj2ElOsGHgn1quANYZKgCEU4EXUUWDpgqTx/6UvodUMXMZ1pFK4x4/w6paBlJ8MT1xtRySX0yXpl7UUdHSfLKz/XYUkseE45pPwD0xVtGn3dRCB+V1bFMwy7JoZj6WbI/G83JyNwftyVh9gj+k8A+3i2KUWxn8Qpiw7OYR4m8QpKt/TQ4rhHZVhavJ2JduI3X68EzeLaLf48ogQEgMFvhJ8JqjPwVn+II5uwxZXT7zaywTvyCADji4+AhNreua9kDWPP+KVRJ5zGGFCXos9cAB2K1OHHvJdHwQoZddlmNy4vvc1u9aWkTvM4psAZ9qJgbvU0DV/jEisC3iHaXi2aHX4=;W47d8ynQsR3jfuK8YuaMYQ=="
 ---

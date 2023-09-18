@@ -28,84 +28,22 @@ images:
     isCached: true
 
 related:
-  - title: "The Future Of AI In Business: Predictions And How To Prepare"
-    excerpt: "AI has exploded in popularity in 2023. Here are my predictions for what's to come with AI and how your business can prepare."
-    publishedDateTime: 2023-09-13T11:44:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/09/13/the-future-of-ai-in-business-predictions-and-how-to-prepare/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/09/13/the-future-of-ai-in-business-predictions-and-how-to-prepare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/09/13/the-future-of-ai-in-business-predictions-and-how-to-prepare/amp/"
+  - title: "Businesses need pricing clarity as generative AI services hit the market"
+    excerpt: "Transparency around how exactly services are charged will be essential as organizations look to avoid bill shock from consuming generative artificial intelligence tools."
+    publishedDateTime: 2023-09-13T16:30:00Z
+    webUrl: "https://www.zdnet.com/article/businesses-need-pricing-clarity-as-genai-services-hit-market/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/businesses-need-pricing-clarity-as-genai-services-hit-market/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/businesses-need-pricing-clarity-as-genai-services-hit-market/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: ZDNet
+      domain: zdnet.com
+    quality: 86
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63d3d76c6f41b0b2774c5504/0x0.jpg?format=jpg&width=1200"
+      - url: "https://www.zdnet.com/a/img/resize/d4ea5b28fdf0cd75bc8dd9f69f727fdabb9516ec/2023/09/13/d7a94305-a93c-4d75-aaa8-2a2a3a076a46/gettyimages-1295039478.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 799
+        height: 675
         isCached: true
-  - title: "5 Skills For The Future: How To Proof Your Career For The AI Revolution"
-    excerpt: "If you don't get on board and upskill yourself in these five skills, your career will be obsolete. Learn the five essential skills you need to outlast the AI revolution."
-    publishedDateTime: 2023-09-17T14:21:00Z
-    webUrl: "https://www.forbes.com/sites/rachelwells/2023/09/17/5-skills-for-the-future-how-to-proof-your-career-for-the-ai-revolution/"
-    ampWebUrl: "https://www.forbes.com/sites/rachelwells/2023/09/17/5-skills-for-the-future-how-to-proof-your-career-for-the-ai-revolution/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/09/17/5-skills-for-the-future-how-to-proof-your-career-for-the-ai-revolution/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6507054221636f3caa52ccc9/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 673
-        isCached: true
-  - title: "How AI Can Revolutionize The Business Banking User Experience"
-    excerpt: "AI is poised to revolutionize the user experience in any field, including for small businesses in Business Banking. By leveraging cutting-edge technologies and advanced data analytics, the integration of AI by banks,"
-    publishedDateTime: 2023-09-13T11:03:00Z
-    webUrl: "https://www.finextra.com/blogposting/24880/how-ai-can-revolutionize-the-business-banking-user-experience"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 54
-    images:
-      - url: "https://www.finextra.com/finextra-images/visible_pictures/8912b45e-e69f-4108-a79d-f6764d2d493e.png"
-        width: 500
-        height: 285
-        isCached: true
-  - title: "The Future of BaaS: Exploring the Top Predictions for 2022 and Beyond"
-    excerpt: "Welcome to the future of BaaS, where innovation and technology collide to reshape the way businesses operate. As we step into 2022 and beyond, it’s time to unravel the top predictions that will revolutionize this ever-evolving landscape."
-    publishedDateTime: 2023-09-14T15:33:00Z
-    webUrl: "https://techbullion.com/the-future-of-baas-exploring-the-top-predictions-for-2022-and-beyond/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 24
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/09/Untitled-design-2023-09-14T162953.867.png"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "AI Trends In International Business: Insights from Three Leaders"
-    excerpt: "Three industry leaders in AI stand out by demonstrating their shared backgrounds and training that led them each to have unparalleled success in AI: Kai-Fu Lee, Harry Shum and Qi Lu."
-    publishedDateTime: 2023-09-13T18:52:00Z
-    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/09/13/ai-trends-in-international-business-insights-from-three-leaders/70844708007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 17
-  - title: "Nation’s first dual degree in medicine and AI aims to prepare the next generation of health care providers"
-    excerpt: "AI’s presence can already be found in a variety of areas of the medical field including customized patient treatment plans, robotic surgeries and drug dosage. Additionally, UT Health San Antonio and UTSA have several research programs underway to improve health care diagnostics and treatment with the help of AI."
-    publishedDateTime: 2023-09-14T12:35:00Z
-    webUrl: "https://www.utsa.edu/today/2023/09/story/UTSA-UT-Health-first-dual-degree-in-medicine-and-AI.html"
-    type: article
-    provider:
-      name: University of Texas at San Antonio
-      domain: utsa.edu
-    quality: 1
 
 secured: "F/2OYf55b1laeSE0GdsWbynMf5Oe6JxXy4JiuSQfOI4ErEP/OMt0x6H7oDS/yahVA+dC3xiSVGSSa3z6zNcUMeFHX2MqJ83XEIGBcv+AsL4RoM66yNA1KpxKAnYd0TzxRZxJskv7aEld5XHrXaBqsw+UiRge76v9z1CHlM9nWwc/IJHsvegJZdHvuZ7q2cxlHf1KbjCB+Cx1hfkSYuf32grtrOxn5rg/lh6lRrd2r2wQIRoTpOJRDqWikTPjp6d32Pls9zILzaOfvvFRkRmPnu8EMGv35qSLWHfiHG32qePR5wkGrYkIcJB/CFLv8nZL/fLdz+j8+YuPOhh/fPjEwwxz3IElCLrwPkJu9rMBFQU=;j1cLONVwcw/xUWm5Hjvt9g=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/uh-oh-now-ai-is-better-than
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/uh-oh-now-ai-is-better-than-you-at-prompt-engineering/"
 type: article
 quality: 89
-heat: 132
+heat: 122
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "How Will Large Language Models And Generative AI Impact Data Engineering?"
-    excerpt: "LLMs and Gen AI will play a pivotal role in shaping the data engineering landscape in the coming months and years."
-    publishedDateTime: 2023-09-13T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/13/how-will-large-language-models-and-generative-ai-impact-data-engineering/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 46
   - title: "Experts say Artificial Intelligence is coming into the workplace faster than previously thought"
     excerpt: "The idea that AI can make work and tasks 100 times faster is appealing, especially for businesses looking to get ahead of competitors."
     publishedDateTime: 2023-09-14T23:08:00Z

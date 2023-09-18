@@ -88,6 +88,15 @@ related:
       name: Roll Call
       domain: rollcall.com
     quality: 19
+  - title: "Congress’s week of AI"
+    excerpt: "Tech titans, developers and executives descended on Capitol Hill this week for a series of meetings exploring crucial safeguards for AI research and development."
+    publishedDateTime: 2023-09-15T18:09:00Z
+    webUrl: "https://www.nextgov.com/artificial-intelligence/2023/09/congresss-week-ai/390336/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 19
 
 secured: "t6CyeVRkOKTYBldCByhpSkuv7kQlkvjjNkqZsKWZa1LoCs9A6/RqOnEbErVvvQAhNnPEPi+oLjuvGyPIrzl7AzVZfO4ryPXdbr9lJP1ddrBmaifncIIWrMn5ZEyrkcUz5H3dTbs4hg7R24wn/+DFsSecG8dGxaR0+VZ8tdGfmc/CRBgO/yJfk3qZcuDAyW396AY870hMQbZouopgR86dTs2IWVgLxtoru0jCvySu7xAFMjUVL9dIn9JYdiGJJPL4XOl1EOB1/iRUvrpEwO00pNdPfBZjvvQccoPGgM7SxpfZhROiHHVmkPcoV0YtwE9QNzwUMRxK0wexE2jcsejEclR3nivNxL4b0ybwzykaAtsdHxjML+4mDfOQga6LUpFaEU2yerUgEccCg9tZQUo8fAQqe9EMo0hjPXLmMC4xGLsuoQg36tVRkeBXVoxhmvPgrggm9XtHS0FIROKUyfDeeI8WNh+FiZAdE/pDv9qgEjMR5Wi6UwAx9nlx2KG0o0Ku/CY+aYrkuJ5m+sabXu8e9A==;PBOEvSc+cEJx2XH74VvCYw=="
 ---

@@ -122,6 +122,15 @@ related:
         width: 660
         height: 400
         isCached: true
+  - title: "Tech titans are giving senators advice on artificial intelligence in a closed-door forum"
+    excerpt: "\"It's going to be a fascinating group because they have different points of view,\" Schumer said in an interview with The Associated Press before the event. \"Hopefully we can weave it into a little bit of some broad consensus."
+    publishedDateTime: 2023-09-13T20:15:00Z
+    webUrl: "https://sentinelcolorado.com/uncategorized/tech-titans-are-giving-senators-advice-on-artificial-intelligence-in-a-closed-door-forum/"
+    type: article
+    provider:
+      name: Sentinel Colorado
+      domain: sentinelcolorado.com
+    quality: 10
 
 secured: "PzDkSPSRvqPsa+IcVQwPY/Q8teo36Wkak43DS/rwWo0koeXgeSLLpgrmtPlugi8YzMHKQuKEHLzlgzGerKRIqdGz6t2AdNmF26rJzTZcmkHtXHNt71H8QKmBICy5FxNkQwtl8pPZHdw0bBzTix6eyYRI8NyaycntDAwbiaEosa+bzLh5tp1FtkhLuha0KMQDtQjNT7cY9ZcB/0YJ9WrPs21iF8YNdigZ0AyzlLXjbD5Yb4cEMxKAretPtpfOiD1q6sMSHPJcSJFWo2hH48Q0jK1YH71YhZbhmya7HI6eBtFci78Zay+ahkkLW0TZYD8gGrTqoKhE8Wl1Hj49k4fEForCWmw0K+nWNr0d5DSNybX4VllTXJ7D/W7bIMxeJCg3sBhtNj+wtm7QZV7bxfOhUJdT0O8NNMlL7q9q18K5LDXebaqfB9dadT5KyZeC0bVMpC8ATDFvEjNwHXbc1A8oExJ11I3g+QqT5ujrvlVHJdKZlwm/y60aX2nqYWBOeVRg33BAlhb80qfRxXs6QGmKgg==;EAmqYUqlPK8aVTbACtzNuw=="
 ---

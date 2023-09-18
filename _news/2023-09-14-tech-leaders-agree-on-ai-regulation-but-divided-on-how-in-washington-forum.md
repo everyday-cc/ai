@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/sep/13/tech-leaders-wash
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/sep/13/tech-leaders-washington-ai-saferty-forum-elon-musk-zuckerberg-pichai"
 type: article
 quality: 55
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -125,6 +125,15 @@ related:
         width: 660
         height: 400
         isCached: true
+  - title: "Tech titans are giving senators advice on artificial intelligence in a closed-door forum"
+    excerpt: "\"It's going to be a fascinating group because they have different points of view,\" Schumer said in an interview with The Associated Press before the event. \"Hopefully we can weave it into a little bit of some broad consensus."
+    publishedDateTime: 2023-09-13T20:15:00Z
+    webUrl: "https://sentinelcolorado.com/uncategorized/tech-titans-are-giving-senators-advice-on-artificial-intelligence-in-a-closed-door-forum/"
+    type: article
+    provider:
+      name: Sentinel Colorado
+      domain: sentinelcolorado.com
+    quality: 10
 
 secured: "RlMtlZ+D9Ux3vKqDs6FrkKCzqBabm/ufXCBuhZYJT9xH01sJiIJauz3kBvqgUFLnPnISsJ/FMhNCPNc/vE3+RrS2SJffJXnYQnCz2I38ikiqLqvB29E6qFf7CCPrdSM9M9pTf5HoHJFnt6jJ4kTWNxJfmPL25ZhcysQdpEYlXSsC5yld/Zlz6nN9L+Vmjz8FVsG90aFnR1WNMV5+22QQogpGlbno6rbzRW2V4jQz6S5KCYVyUTifQJqicG/9Ljuvb0k7dzM/EgJeb8cENy9A3ZFSkK+kvcrSEF/xJvArWIsLckKLqJosE09uUjjrbHQRMEOaZTuAwnTSJxNJRKslBzcg0JMa9p9eFlB8d5xL+ZXGJyoLtVbQEWErek5NValkNiWtrpG3wWP0aLoVkrZEGhJ4BItSqWN0I5ciPcAJdxVui0MOTTGFym0Lxsau3ar/R3+APfc+UQuw0Ra63pVSsTgumUKuhlib9MzRKluyO+s0V5sVDSHpe7rHuZUpsMMATGe2jyb5qJKM/Zh4zFBb8g==;LIqN34zxcSM2pcxgY++Qvw=="
 ---

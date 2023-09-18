@@ -9,7 +9,7 @@ ampWebUrl: "https://www.khon2.com/local-news/identity-theft-and-the-emergence-of
 cdnAmpWebUrl: "https://www-khon2-com.cdn.ampproject.org/c/s/www.khon2.com/local-news/identity-theft-and-the-emergence-of-artificial-intelligence/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/16CA3/production/_131074339_index_ai_adverts_976x549.png"
         width: 1024
         height: 576
+        isCached: true
+  - title: "The tricky ethics of AI in the lab"
+    excerpt: "Uuk calls this a misguided approach that will impede efforts to develop AI as a beneficial technology. “Oftentimes, issues that arise in the research space present themselves downstream in the deployment of AI systems,” he says."
+    publishedDateTime: 2023-09-18T05:14:00Z
+    webUrl: "https://cen.acs.org/business/informatics/tricky-ethics-AI-lab/101/i31"
+    type: article
+    provider:
+      name: C&EN
+      domain: acs.org
+    quality: 54
+    images:
+      - url: "https://s7d1.scene7.com/is/image/CENODS/10131-cover-opener-related?$responsive$&wid=700&qlt=90,0&resMode=sharp2"
+        width: 700
+        height: 350
         isCached: true
   - title: "The AI age brings promise and troubles"
     excerpt: "“If you’re doing a deal, and you’re getting a bunch of representations and warranties, there are different ways that AI events could manifest to impact them.” Mr Willmott thought that we might soon start to see AI exclusions included in insurance ..."

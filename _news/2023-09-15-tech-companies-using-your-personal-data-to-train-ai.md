@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Why picking the right AI-credit decisioning partner matters"
-    excerpt: "As financial institutions continue to evaluate AI underwriting solutions to incorporate into their lending strategies, recognizing the distinction between"
-    publishedDateTime: 2023-09-14T17:16:00Z
-    webUrl: "https://www.cuinsight.com/why-picking-the-right-ai-credit-decisioning-partner-matters/"
-    type: article
-    provider:
-      name: CUInsight
-      domain: cuinsight.com
-    quality: 37
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2022/09/bigstock-Futuristic-Robot-Artificial-In-452602145.jpg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "‘There is no work to balance’: how shrinking budgets, Covid and AI shook up life in consulting"
     excerpt: "Now companies from Accenture to EY and McKinsey are slashing thousands of jobs. The valuations of consultancy businesses are falling — one reason EY pulled its Project Everest plan to separate its accounting and consultancy arms — while the industry’s reputation is under attack following scandals such as firms’ misconduct in South Africa."
     publishedDateTime: 2023-09-18T03:00:00Z
@@ -78,7 +64,7 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
-    quality: 5
+    quality: 7
 
 secured: "I+nBHk84QRcVYYxbpCr0dMlxiNeQNKGa9fOgdqvzprduSCXyIxqc764V6aNZhsrv3hdJh1/gppNNt+0xEaUgcsMY6H8TcomqKhIWgCL5zdoyzN44xgnK8DaLiIb4bWPwq4HM2oFbRs3MoK5VsT4Qscu0Ugi21JoK2oB03Jljhz7tZJAR3rYUZpq60+IgML843jFm2czeHQbqLh4aKg1eNzEKyBHvcUkyb0o/vvPbPACinR8/3Xv+8KVzVmhjJD0t+yHjPB/5ym4oXtNfHWfjUm91Ib3gNxernauwnq1CZY9RkVa4cWyqWI+UMAwZnEUr7l1dpj96wPuHDRoJZimFs7YqNc/8pWNAX6udD4UbL1E=;FFp0A0Elyz8YB4VjWC+ymA=="
 ---

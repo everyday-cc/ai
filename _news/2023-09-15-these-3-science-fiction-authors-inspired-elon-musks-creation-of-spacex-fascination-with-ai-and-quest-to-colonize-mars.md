@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/finance/3-science-fiction-authors-inspired-184
 webUrl: "https://www.aol.com/finance/3-science-fiction-authors-inspired-184050734.html"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -26,20 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "Inside Elon Musk's Struggle for the Future of AI – TIME"
-    excerpt: "Isaacson, a former editor of TIME and an acclaimed biographer of Steve Jobs, Albert Einstein, among others, is the author of the new book Elon Musk A t a conference in 2012, Elon"
-    publishedDateTime: 2023-09-13T20:13:00Z
-    webUrl: "https://www.inferse.com/714412/inside-elon-musks-struggle-for-the-future-of-ai-time/"
+  - title: "The UAW and Other Unions Must Focus More on AI and Automation in Their Negotiations"
+    excerpt: "In its negotiations with the Big 3 car companies, the United Auto Workers’ priority is maximizing pay increases for its members. The UAW and many other trade unions should be equally concerned about the impact of AI and automation on jobs and how to prepare their members for this new world."
+    publishedDateTime: 2023-09-15T12:05:00Z
+    webUrl: "https://hbr.org/2023/09/the-uaw-and-other-unions-must-focus-more-on-ai-and-automation-in-their-negotiations"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 39
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/09/wp-header-logo-4283-1920x1280.png"
-        width: 1920
-        height: 1280
-        isCached: true
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 11
 
 secured: "/dYYt09a8Pd8r60T3IV4oOxYxDjZf7sh2kZzvegwHgB3cq75f1l/OaB7h9/OhzoxV0DF3oCGeBs9DTkuOBSLc9tAFfzM9QFlxC0o8Khz2FPfKg7R5m8asK0rz4195InPoSgbpdvNcyOTPjXXysTYyN46qmBW2ig+NA8wRQBQeQ8bzhnyUdQy4XGIxAFF9zbDQcYM010to8lxrXrQa77zd2uZ18/ohnpHJGfYwX9gWjFOrWeGU2EQwBBq10K6lCtZFHsYAJDr7Go5piwhHV8ShcHj0T6Qd38RdwKg2c87Eb4ChhZUT/JFwzIJBI8DDpyGwoKb3NTn3rvyfNpI7XqFtqo2e6a0gd0DYZ4YJTjUId8K3FqZtFpddgYdaOafavc7XZd2NKvA5ASsehcRBtscJ6Vl97UFFjmRKf9HsdYEx9+IUK23eD43pCgZxwtIMKXWSXQoBaYWNYD+YSU+vmtdg2mV2xmEQufnSg12qr7w4lkjAKd70tbv3s7FyN6Ula+zR5oO40DkFLFfCmjV7KzhBg==;qfwcq/Y1ETC+Fe0qpE6apQ=="
 ---

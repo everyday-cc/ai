@@ -97,6 +97,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Tech titans are giving senators advice on artificial intelligence in a closed-door forum"
+    excerpt: "Senate Majority Leader Chuck Schumer convened a meeting of some of the country’s most prominent technology executives to ask them how Congress should do it."
+    publishedDateTime: 2023-09-13T14:19:00Z
+    webUrl: "https://www.wyomingnewsnow.tv/2023/09/13/tech-titans-are-giving-senators-advice-artificial-intelligence-closed-door-forum/"
+    ampWebUrl: "https://www.wyomingnewsnow.tv/2023/09/13/tech-titans-are-giving-senators-advice-artificial-intelligence-closed-door-forum/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wyomingnewsnow-tv.cdn.ampproject.org/c/s/www.wyomingnewsnow.tv/2023/09/13/tech-titans-are-giving-senators-advice-artificial-intelligence-closed-door-forum/?outputType=amp"
+    type: article
+    provider:
+      name: wyomingnewsnow
+      domain: wyomingnewsnow.tv
+    quality: 50
+    images:
+      - url: "https://gray-kgwn-prod.cdn.arcpublishing.com/resizer/7cdAMr1OmpsfuDwEed0A6oFedDA=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/OQJNV346WBEMLNMZZGUTTTLFH4.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Tech leaders hold closed-door meeting with lawmakers on artificial intelligence"
     excerpt: "Tech leaders, including Elon Musk, were on Capitol Hill Wednesday to take part in closed-door meetings with congressional lawmakers on the benefits and dangers that artificial intelligence poses. Jo Ling Kent has details."
     publishedDateTime: 2023-09-13T23:24:00Z

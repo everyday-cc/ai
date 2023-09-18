@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/15/fear-m
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/09/15/fear-mongering-and-ai-questions-to-consider/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://media.nbcchicago.com/2023/06/107254827-1686557052078-gettyimages-1418934535-robot-control-ui2.jpeg?quality=85&strip=all&resize=1200%2C675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "The power of data and AI: Transforming industries through collaboration"
+    excerpt: "The world is in the midst of a data revolution, and the integration of AI into industries is at the forefront of this transformation. Understanding the data that is being used, its source, representation, structure and format is essential for making AI and generative AI more effective and impactful, according to Day."
+    publishedDateTime: 2023-09-13T21:11:00Z
+    webUrl: "https://siliconangle.com/2023/09/13/power-data-ai-transforming-industries-collaboration-exploresas/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Michael-Glaros-Gavin-Day-SAS-Explore-September-2023.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "COUNTER AI: Schools here and across the nation seeking smart AI policies"
     excerpt: "Schools in Aurora and across the country wade through a jungle of thorny issues surrounding artificial intelligence writing applications"

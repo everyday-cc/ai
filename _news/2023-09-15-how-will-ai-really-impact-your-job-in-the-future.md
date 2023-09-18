@@ -7,7 +7,7 @@ originalUrl: "https://technical.ly/professional-development/ai-job-future-impact
 webUrl: "https://technical.ly/professional-development/ai-job-future-impact-ey-dan-diasio/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,65 @@ images:
     isCached: true
 
 related:
-  - title: "AImpact 2023: Experience Our AI Future Now"
-    excerpt: "AImpact is more than an event-it’s a vision. A vision that sees the future not as AI vs. Humanity, but as AI for Humanity. NEW YORK CITY, N.Y., Sept. 14, 2023 (SEND2PRESS NEWSWIRE) — Ever wondered what it would be like if a tech conference didn’t just talk about the transformative power of Artificial Intelligence,"
-    publishedDateTime: 2023-09-14T19:14:00Z
-    webUrl: "https://www.benningtonbanner.com/ap/national/aimpact-2023-experience-our-ai-future-now/article_f56491a3-6fdd-5160-b889-2bacea6bb30f.html"
+  - title: "5 Skills For The Future: How To Proof Your Career For The AI Revolution"
+    excerpt: "If you don't get on board and upskill yourself in these five skills, your career will be obsolete. Learn the five essential skills you need to outlast the AI revolution."
+    publishedDateTime: 2023-09-17T14:21:00Z
+    webUrl: "https://www.forbes.com/sites/rachelwells/2023/09/17/5-skills-for-the-future-how-to-proof-your-career-for-the-ai-revolution/"
+    ampWebUrl: "https://www.forbes.com/sites/rachelwells/2023/09/17/5-skills-for-the-future-how-to-proof-your-career-for-the-ai-revolution/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/09/17/5-skills-for-the-future-how-to-proof-your-career-for-the-ai-revolution/amp/"
     type: article
     provider:
-      name: Bennington Banner
-      domain: benningtonbanner.com
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6507054221636f3caa52ccc9/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 673
+        isCached: true
+  - title: "The AI Revolution: Will Artificial Intelligence Shape The Future Of Cannabis Product Design?"
+    excerpt: "The global Artificial Intelligence (AI) market is in the midst of a tremendous growth surge. From a valuation of $387 billion in 2022, it is forecasted to reach a staggering $1.39 trillion by 2029. This meteoric rise is evident from Microsoft Corp. MSFT +1.32% + Free Alerts 's decision to invest a hefty $10 billion for a 49% stake in ChatGPT."
+    publishedDateTime: 2023-09-13T17:10:00Z
+    webUrl: "https://www.benzinga.com/general/biotech/23/09/34506273/the-ai-revolution-will-artificial-intelligence-shape-the-future-of-cannabis-product-design"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34506273"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34506273"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 63
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/09/12/tyler-casey-f5fyiqgnucm-unsplash.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "How artificial intelligence can revolutionise science"
+    excerpt: "Then, starting in the late 19th century, the establishment of research laboratories, which brought together ideas, people and materials on an industrial scale, gave rise to further innovations such as artificial fertiliser,"
+    publishedDateTime: 2023-09-14T08:33:00Z
+    webUrl: "https://www.economist.com/leaders/2023/09/14/how-artificial-intelligence-can-revolutionise-science"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 43
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230916_LDD002.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Inside Elon Musk's Struggle for the Future of AI – TIME"
+    excerpt: "Isaacson, a former editor of TIME and an acclaimed biographer of Steve Jobs, Albert Einstein, among others, is the author of the new book Elon Musk A t a conference in 2012, Elon"
+    publishedDateTime: 2023-09-13T20:13:00Z
+    webUrl: "https://www.inferse.com/714412/inside-elon-musks-struggle-for-the-future-of-ai-time/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
     quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/benningtonbanner.com/content/tncms/custom/image/90f2e3da-429a-11ee-98fe-73f3cd906334.png?resize=600%2C315"
-        width: 600
-        height: 315
+      - url: "https://www.inferse.com/wp-content/uploads/2023/09/wp-header-logo-4283-1920x1280.png"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "DxduEUcHonrs3HsMMqHPACcFxQH5Eb6v4Gj+ARo8wKb4O1ptfWN7SS7uKOwOxKJ0cT4uezoiwAQJb9GzgFX3yNZJuijCsN2MBzgZDzFD1bg9Cd0irj7xkqPScmiep4aKyYxc9DjaBXuMWvgWbnnGFeXDJqArGB3pnYKPxK7mWmwSCJSr+/TxiAhIleVyJFGsF4c02I8kOoGHi8GmZEcT8i94IeWYFfg3yn/MjMh2mA5+ZmykrGBnmD3xqmsobSwMd2T2ocpcKGAQ0UHACJVzA1sUnmje6/ntCUWyBmlOXXa5QXh7DlKQuuuFPLamgSmEB/fIvr2MdKy3B/3SeqbPRNabbkuz/BIq/qtBfdLC78s=;As8BokZlmldzmJeyQCqP8A=="

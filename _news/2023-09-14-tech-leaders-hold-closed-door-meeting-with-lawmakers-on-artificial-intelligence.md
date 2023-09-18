@@ -102,6 +102,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Tech titans are giving senators advice on artificial intelligence in a closed-door forum"
+    excerpt: "Senate Majority Leader Chuck Schumer convened a meeting of some of the country’s most prominent technology executives to ask them how Congress should do it."
+    publishedDateTime: 2023-09-13T14:19:00Z
+    webUrl: "https://www.wyomingnewsnow.tv/2023/09/13/tech-titans-are-giving-senators-advice-artificial-intelligence-closed-door-forum/"
+    ampWebUrl: "https://www.wyomingnewsnow.tv/2023/09/13/tech-titans-are-giving-senators-advice-artificial-intelligence-closed-door-forum/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wyomingnewsnow-tv.cdn.ampproject.org/c/s/www.wyomingnewsnow.tv/2023/09/13/tech-titans-are-giving-senators-advice-artificial-intelligence-closed-door-forum/?outputType=amp"
+    type: article
+    provider:
+      name: wyomingnewsnow
+      domain: wyomingnewsnow.tv
+    quality: 50
+    images:
+      - url: "https://gray-kgwn-prod.cdn.arcpublishing.com/resizer/7cdAMr1OmpsfuDwEed0A6oFedDA=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/OQJNV346WBEMLNMZZGUTTTLFH4.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Tech CEOs tell Congress that it's time to regulate artificial intelligence"
     excerpt: "The closed-door meeting was attended by 22 guests, including Microsoft CEO Satya Nadella, Microsoft co-founder Bill Gates, Meta CEO Mark Zuckerberg and Alphabet CEO Sundar Pichai as well as 60 senators."
     publishedDateTime: 2023-09-14T18:48:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3706988/salesforce-readies-ai-assi
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706988/salesforce-readies-ai-assistant-for-crm.amp.html"
 type: article
 quality: 119
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -114,15 +114,6 @@ related:
         width: 1020
         height: 806
         isCached: true
-  - title: "Dreamforce 2023 - Salesforce gives $2 million to education non-profits to ensure underserved communities don’t miss out on gen AI benefits"
-    excerpt: "Dreamforce 2023 - Salesforce gives $2 million to education non-profits to ensure underserved communities don’t miss out on gen AI benefits Salesforce has selected six non-profits that will share a $2 million fund to develop equitable and trusted generative AI systems in the education sector."
-    publishedDateTime: 2023-09-13T12:02:00Z
-    webUrl: "https://diginomica.com/dreamforce-2023-salesforce-gives-2-million-education-non-profits-ensure-underserved-communities"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 2
 
 secured: "LsZJzBuBSJStEiLrROdFkbJwkQgzE0jXG+Js4KawXTkUuROUf4wKeGPCqjbHs3jdrRz8D038F1C6jPfvBYORgLai6uXk8+p/HJ53eOfCIjPXAYGZIwjar0s2iPh+LmC/tTlYB6PVloSUMXS+DohaHIc9FIPhDeCMSyqJThvJApQbtUlyfyFyH/H6k3N64QW6xVVHUl6ReFGkJu+2LEbnkE6/aKurQ4OKnqqFEcKnnv0AZmUZ4z51aZf9CkeXkHKGah7H89YDHsmzn9hlWqWrjx8yd81mF6ql8140drvEXf0Kxm14EN0nN97c5r4N3LCZ3A6t9jUuC0Wuy0+R5iodyrGH42yqVSvMcH+s8dFlbCtJ0/ClZKIf7MUkjBZWKYi7J7n1+ZmildF2MmHv0/EJzcCwUHqAr+fRyIj1mqh98UWkebsFJMSz1q+8fIMJXDKcNNvcyr/ebcpThy5lKU3NHgvrTjSeHl04nJmkfLjG0FqOWtihFKfw+7n5B2mZcADGQF46gLvzlredS3emjnKcCw==;y8qt9lqMJmwXGjNgWngRtw=="
 ---

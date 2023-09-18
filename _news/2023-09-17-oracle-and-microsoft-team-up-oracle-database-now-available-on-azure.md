@@ -346,15 +346,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 27
-  - title: "Microsoft and Esri to speed up access to Earth-observation data"
-    excerpt: "Microsoft also added the Planetary Computer, a platform that combines multi-petabyte global datasets related to biodiversity and climate change with machine-learning tools, to Azure Space. In addition, NASA Langley Research Center, NASA Goddard Space ..."
-    publishedDateTime: 2023-09-13T12:30:00Z
-    webUrl: "https://spacenews.com/microsoft-and-esri-to-speed-up-access-to-earth-observation-data/"
-    type: article
-    provider:
-      name: SpaceNews
-      domain: spacenews.com
-    quality: 19
   - title: "Microsoft and Oracle expand partnership to deliver Oracle Database Services on Oracle Cloud Infrastructure in Microsoft Azure"
     excerpt: "Microsoft joins Oracle as the only other hyperscaler to offer Oracle Cloud Infrastructure Database Services to simplify cloud migration, multicloud deployment and management Austin, TX and Redmond, WA — September 14,"
     publishedDateTime: 2023-09-14T20:00:00Z

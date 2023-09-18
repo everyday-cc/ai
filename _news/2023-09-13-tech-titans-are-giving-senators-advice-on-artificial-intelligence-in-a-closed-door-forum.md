@@ -27,248 +27,107 @@ images:
     isCached: true
 
 related:
-  - title: "Stability AI, gunning for a hit, launches an AI-powered music generator"
-    excerpt: "A year ago, Stability AI, the London-based startup behind the open source image-generating AI model Stable Diffusion, quietly released Dance Diffusion, a model that can generate songs and sound effects given a text description of the songs and sound effects in question."
-    publishedDateTime: 2023-09-13T11:33:00Z
-    webUrl: "https://techcrunch.com/2023/09/13/stability-ai-gunning-for-a-hit-launches-an-ai-powered-music-generator/"
-    ampWebUrl: "https://techcrunch.com/2023/09/13/stability-ai-gunning-for-a-hit-launches-an-ai-powered-music-generator/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/13/stability-ai-gunning-for-a-hit-launches-an-ai-powered-music-generator/amp/"
+  - title: "Tech CEOs Descend On Capitol Hill For Closed-Door Artificial Intelligence Meeting"
+    excerpt: "The closed-door forum on Capitol Hill included almost two dozen tech executives, tech advocates, civil rights groups and labor leaders. The guest list featured some of the industry’s biggest names: Meta’s Mark Zuckerberg and X and Tesla’s Elon Musk as well as former Microsoft CEO Bill Gates. All 100 senators were invited; the public was not."
+    publishedDateTime: 2023-09-13T16:04:00Z
+    webUrl: "https://www.huffpost.com/entry/tech-ceos-descend-on-senate-for-closed-door-ai-meeting_n_6501dad6e4b04bad69ec286e"
+    ampWebUrl: "https://www.huffpost.com/entry/tech-ceos-descend-on-senate-for-closed-door-ai-meeting_n_6501dad6e4b04bad69ec286e/amp"
+    cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/tech-ceos-descend-on-senate-for-closed-door-ai-meeting_n_6501dad6e4b04bad69ec286e/amp"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: HuffPost
+      domain: huffpost.com
+    quality: 82
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1352457907.jpg?resize=1200,752"
+      - url: "https://img.huffingtonpost.com/asset/6501db272400005e00477695.jpeg?cache=zgKAa7n3oH&ops=1200_630"
         width: 1200
-        height: 752
+        height: 630
         isCached: true
-  - title: "Google Cloud Is Betting On Gen AI To Drive Sustainability"
-    excerpt: "Gen Ai can play a key role in fostering data transparency across the supply chain, in this article I explain why Google Cloud wants to be at the forefront on this."
-    publishedDateTime: 2023-09-13T17:01:00Z
-    webUrl: "https://www.forbes.com/sites/carolinamilanesi/2023/09/13/google-cloud-is-betting-on-gen-ai-to-drive-sustainability/"
-    ampWebUrl: "https://www.forbes.com/sites/carolinamilanesi/2023/09/13/google-cloud-is-betting-on-gen-ai-to-drive-sustainability/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinamilanesi/2023/09/13/google-cloud-is-betting-on-gen-ai-to-drive-sustainability/amp/"
+  - title: "Elon Musk, Mark Zuckerberg, Bill Gates and other tech leaders in closed Senate session about AI"
+    excerpt: "N.Y., hosted the panel of tech, labor and civil rights leaders as part of the Senate's inaugural \"AI Insight Forum.\""
+    publishedDateTime: 2023-09-13T18:48:00Z
+    webUrl: "https://www.cnbc.com/2023/09/13/musk-zuckerberg-among-tech-leaders-visiting-senate-to-speak-about-ai-.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/09/13/musk-zuckerberg-among-tech-leaders-visiting-senate-to-speak-about-ai-.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/13/musk-zuckerberg-among-tech-leaders-visiting-senate-to-speak-about-ai-.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: CNBC
+      domain: cnbc.com
+    quality: 75
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6501e94fcb263d23895e700d/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://image.cnbcfm.com/api/v1/image/107300100-16946163562023-09-13t142809z_977388899_rc2m73a815je_rtrmadp_0_usa-ai-congress.jpeg?v=1694638090"
+        width: 3500
+        height: 2434
         isCached: true
-  - title: "The raw materials for creating AI"
-    excerpt: "Explore the resources and materials that are needed to create AI"
-    publishedDateTime: 2023-09-15T16:14:00Z
-    webUrl: "https://www.businessinsider.com/how-to-create-ai-materials-resources-guide-2023-9"
-    ampWebUrl: "https://www.businessinsider.com/how-to-create-ai-materials-resources-guide-2023-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-create-ai-materials-resources-guide-2023-9?amp"
+  - title: "AI Regulation Takes Baby Steps on Capitol Hill"
+    excerpt: "Senate Majority Leader Chuck Schumer tried to start simple. “I asked everyone in the room, 'Is government needed to play a role in regulating AI?'” he told reporters after the meeting. “And every single person raised their hands.” The much-hyped ..."
+    publishedDateTime: 2023-09-14T10:04:00Z
+    webUrl: "https://time.com/6313892/ai-congress-regulation-hearings/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 67
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2023/09/congress-sam-altman-artificial-intelligence.jpg?quality&#x3D;85"
+        width: 2400
+        height: 1600
+        isCached: true
+  - title: "Elon Musk, Mark Zuckerberg, Bill Gates and other tech names head to Washington for a closed-door meeting on policing AI"
+    excerpt: "Some of the biggest tech leaders in the world, like Elon Musk and Mark Zuckerberg, gathered in Washington to discuss ways to potentially police AI."
+    publishedDateTime: 2023-09-13T20:53:00Z
+    webUrl: "https://www.businessinsider.com/how-to-regulate-ai-tech-washington-musk-zuckerberg-gates-altman-2023-9"
+    ampWebUrl: "https://www.businessinsider.com/how-to-regulate-ai-tech-washington-musk-zuckerberg-gates-altman-2023-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-regulate-ai-tech-washington-musk-zuckerberg-gates-altman-2023-9?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 87
+    quality: 63
     images:
-      - url: "https://i.insider.com/64c7a0d5048ff200190de9d2?width=1200&format=jpeg"
+      - url: "https://i.insider.com/6501f7f8992da60019eba99b?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Businesses need pricing clarity as generative AI services hit the market"
-    excerpt: "Transparency around how exactly services are charged will be essential as organizations look to avoid bill shock from consuming generative artificial intelligence tools."
-    publishedDateTime: 2023-09-13T16:30:00Z
-    webUrl: "https://www.zdnet.com/article/businesses-need-pricing-clarity-as-genai-services-hit-market/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/businesses-need-pricing-clarity-as-genai-services-hit-market/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/businesses-need-pricing-clarity-as-genai-services-hit-market/"
+  - title: "Top tech leaders and experts convene in Washington for forum on AI safety"
+    excerpt: "Bill Gates, Mark Zuckerberg, Elon Musk, Sundar Pichai and others gathered for ‘one of the most important conversations of the year’"
+    publishedDateTime: 2023-09-13T21:13:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/sep/13/tech-leaders-washington-ai-saferty-forum-elon-musk-zuckerberg-pichai"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/sep/13/tech-leaders-washington-ai-saferty-forum-elon-musk-zuckerberg-pichai"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/sep/13/tech-leaders-washington-ai-saferty-forum-elon-musk-zuckerberg-pichai"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 86
+      name: The Guardian
+      domain: theguardian.com
+    quality: 56
     images:
-      - url: "https://www.zdnet.com/a/img/resize/d4ea5b28fdf0cd75bc8dd9f69f727fdabb9516ec/2023/09/13/d7a94305-a93c-4d75-aaa8-2a2a3a076a46/gettyimages-1295039478.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://i.guim.co.uk/img/media/744ecef2f0e77400e54ca14bbfd1f09e01a142e5/0_353_6052_3632/master/6052.jpg?width=620&quality=85&auto=format&fit=max&s=ac941ca885e7881395202455f3fc4c09"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Tech leaders hold closed-door meeting with lawmakers on artificial intelligence"
+    excerpt: "Tech leaders, including Elon Musk, were on Capitol Hill Wednesday to take part in closed-door meetings with congressional lawmakers on the benefits and dangers that artificial intelligence poses. Jo Ling Kent has details."
+    publishedDateTime: 2023-09-13T23:24:00Z
+    webUrl: "https://www.cbsnews.com/video/tech-leaders-hold-closed-door-meeting-with-lawmakers-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 33
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/09/13/33e897a3-896b-4ede-84cc-4268787999ac/thumbnail/1200x630/d200bc2429350f25a71cd2dcd9628b3d/kent.jpg?v=b4264bc5922d2f5b2145bedc5a4d101e"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "AI now generates music with CD-quality audio from text, and it’s only getting better"
-    excerpt: "If you'll recall, Stability AI is the company that helped fund the creation of Stable Diffusion, a latent diffusion image synthesis model released in August 2022. Not content to limit itself to generating images, the company branched out into audio by backing Harmonai, an AI lab that launched music generator Dance Diffusion in September."
-    publishedDateTime: 2023-09-13T20:59:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/09/ai-can-now-generate-cd-quality-music-from-text-and-its-only-getting-better/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/09/ai-can-now-generate-cd-quality-music-from-text-and-its-only-getting-better/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/ai-can-now-generate-cd-quality-music-from-text-and-its-only-getting-better/amp/"
+  - title: "Tech CEOs tell Congress that it's time to regulate artificial intelligence"
+    excerpt: "The closed-door meeting was attended by 22 guests, including Microsoft CEO Satya Nadella, Microsoft co-founder Bill Gates, Meta CEO Mark Zuckerberg and Alphabet CEO Sundar Pichai as well as 60 senators."
+    publishedDateTime: 2023-09-14T18:48:00Z
+    webUrl: "https://www.bizjournals.com/seattle/news/2023/09/14/artiificial-intelligence-ceos-congress.html"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 82
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot_singing_3-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Stability AI just unveiled a text-to-music generator, and you can try it. Here's how"
-    excerpt: "The Stable Audio app uses generative AI techniques to create music, sound effects, and audio up to 90 seconds long based on user prompts."
-    publishedDateTime: 2023-09-14T17:55:00Z
-    webUrl: "https://www.zdnet.com/article/stability-ai-just-unveiled-a-text-to-music-generator-and-you-can-try-it-heres-how/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/stability-ai-just-unveiled-a-text-to-music-generator-and-you-can-try-it-heres-how/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/stability-ai-just-unveiled-a-text-to-music-generator-and-you-can-try-it-heres-how/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 80
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/4e067f1f8c2abf3b2db1a2f0abfb7929a278ce41/2023/09/14/5df6af52-6068-4bca-a545-2e56805b3c37/waves-gettyimages-184286397.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Winn.AI Introduces AI-Powered \"Magic Emails\" To Revolutionize Sales Follow-Ups"
-    excerpt: "Winn.AI, an Israel-based sales tech startup that helps sales teams win more deals with less hassle through its innovative real-time tracking, capturing, and CRM updating features, introduces Magic Emails,"
-    publishedDateTime: 2023-09-14T00:35:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/ab34558719/winn-ai-introduces-ai-powered-magic-emails-to-revolutionize-sales-follow-ups"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34558719"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34558719"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 70
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Protect, an AI-powered phone app, is part of a \"public safety reboot\" in the age of AI"
-    excerpt: "CMO and co-founder of Protect Matt Frischer told Fox News Digital he hopes this app will save lives and eventually deter crime."
-    publishedDateTime: 2023-09-16T23:47:00Z
-    webUrl: "https://www.foxnews.com/video/6337296940112"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 59
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/479b2543-f950-4f80-8286-2d387b67cccc/246197ca-db5e-47e1-b514-aa91d644b387/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Ernst & Young launches a new AI platform"
-    excerpt: "Sources revealed that on September 13, 2023, the London-based firm mentioned that it had invested $1.4 billion into AI technologies for its new EY.ai platform. The new platform is expected to help organisations adopt AI. It is believed that the platform is based on EY’s own large language model (LLM), EY AI EYQ, Cointelegraph added."
-    publishedDateTime: 2023-09-18T03:40:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-ernst-young-launches-a-new-ai-platform-3246635/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ernst-young-launches-a-new-ai-platform-3246635/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ernst-young-launches-a-new-ai-platform-3246635/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/My-project-1-2023-07-22T092308.558.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How does Stable Audio generate AI music and sound effects"
-    excerpt: "A new AI sound generator has been released in the form of Stable Audio capable of rendering 95 secs of stereo audio at a 44.1 kHz in seconds"
-    publishedDateTime: 2023-09-14T10:13:00Z
-    webUrl: "https://www.geeky-gadgets.com/ai-sound-generator/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/How-does-Stable-Audio-generate-AI-sound.jpg"
-        width: 700
-        height: 463
-        isCached: true
-  - title: "My life as an AI chatbot operator"
-    excerpt: "Targeting writing and other humanities programmes was a canny recruiting decision. Aspiring writers and artists tend to be detail-oriented, emotionally astute and experienced in writing dialogue – useful traits to impart to a bot that is meant to emulate humans. And many want work that can complement and sustain creative projects or teaching."
-    publishedDateTime: 2023-09-15T10:52:00Z
-    webUrl: "https://www.economist.com/1843/2023/09/15/my-life-as-an-ai-chatbot-operator"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 39
-    images:
-      - url: "https://www.economist.com/img/b/6500/3656/90/media-assets/image/1843_20230915_1843_CHATBOT_TEASER.jpg"
-        width: 6500
-        height: 3656
-        isCached: true
-  - title: "Deduce Raises $9M to Address AI-Generated Identity Fraud"
-    excerpt: "Deduce announced $9M in funding led by Freestyle Capital, with additional investment by Foundry and True Ventures."
-    publishedDateTime: 2023-09-14T12:02:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/09/212894-deduce-raises-9m-to-address-ai-generated-identity-fraud/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 19
-  - title: "How scientists are using artificial intelligence"
-    excerpt: "Once the AI spat out its shortlist, the scientists tested them in the lab and identified their antibiotics. If discovering new drugs is like searching for a needle in a haystack, says Regina Barzilay,"
-    publishedDateTime: 2023-09-13T18:52:00Z
-    webUrl: "https://www.economist.com/science-and-technology/2023/09/13/how-scientists-are-using-artificial-intelligence"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 19
-  - title: "Bitcoin is the currency for AI"
-    excerpt: "BITCOIN'S compatibility with AI technologies is driving major institutional investors to increase their exposure to the cryptocurrency, according to the executive at deVere Group, one of the world's largest independent financial advisory,"
-    publishedDateTime: 2023-09-16T13:15:00Z
-    webUrl: "https://www.manilatimes.net/2023/09/17/business/sunday-business-it/bitcoin-is-the-currency-for-ai/1910352"
-    type: article
-    provider:
-      name: manilatimes
-      domain: manilatimes.net
-    quality: 19
-  - title: "Congress’s week of AI"
-    excerpt: "Tech titans, developers and executives descended on Capitol Hill this week for a series of meetings exploring crucial safeguards for AI research and development."
-    publishedDateTime: 2023-09-15T18:09:00Z
-    webUrl: "https://www.nextgov.com/artificial-intelligence/2023/09/congresss-week-ai/390336/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 19
-  - title: "Intel Celebrates AI Accessibility and Enables the Next Generation of Innovators"
-    excerpt: "About Intel's Role: Intel is committed to bringing AI skills everywhere, regardless of a person's ethnicity, age, gender or background. The AI Global Impact Festival provides opportunities and platforms for future innovators to learn, showcase and celebrate the impact of AI innovations."
-    publishedDateTime: 2023-09-14T17:56:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-intel-celebrates-ai-accessibility-enables-next-generation-innovators-/2023/09/14/9881521.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
-  - title: "Tech titans are giving senators advice on artificial intelligence in a closed-door forum"
-    excerpt: "\"It's going to be a fascinating group because they have different points of view,\" Schumer said in an interview with The Associated Press before the event. \"Hopefully we can weave it into a little bit of some broad consensus."
-    publishedDateTime: 2023-09-13T20:15:00Z
-    webUrl: "https://sentinelcolorado.com/uncategorized/tech-titans-are-giving-senators-advice-on-artificial-intelligence-in-a-closed-door-forum/"
-    type: article
-    provider:
-      name: Sentinel Colorado
-      domain: sentinelcolorado.com
-    quality: 10
-  - title: "Phenom AI Day Agenda Preview: Technical Experts to Demonstrate and Explain AI's Application for Human Resources"
-    excerpt: "AI Day agenda published - Phenom experts to demonstrate and explain AI's role for empowering organizations to hire faster, develop better and retain longer, while reaching new levels of efficiency. This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20230913537994/en/"
-    publishedDateTime: 2023-09-13T14:17:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/09/13/9880494.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-  - title: "Smartcat, the Essential Language AI Platform for the Global Enterprise, Launches Multilingual Generative AI Content Creator"
-    excerpt: "As the leader in language AI for the enterprise, Smartcat is the only solution to offer a holistic approach to multilingual content, breaking down traditional barriers of linear translation ..."
-    publishedDateTime: 2023-09-13T11:24:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20230913381142/smartcat-the-essential-language-ai-platform-for-the-global-enterprise-launches-multilingual-generative-ai-content-creator"
-    type: article
-    provider:
-      name: Morningstar
-      domain: morningstar.com
-    quality: 0
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "Y97RRRQKbvQknyrWjRVy3V3JmFWDOy8wuyS8tkcBwRk0aDaLMtC05XVH2XN4BV/5MIcYEON99vhSThTrui/NUt83878T1eJDFujRTXC61aYaUuVXZvqNEzQ5GdzCLTB2SgTyEUqDHaoZYZQzTpPRuyRhdFeQq04JodexY9FZGnfbQ3ubTYYew6rIlvSSyzsYGSEGbF/0buPuYUgwpHDc0q1TekKDDFzaIafEIvex2DyOuevsr9UV6oVFw0kzrNRIq8//39sS0ehiwHhOVdgaofrup/JPLAMfltcSYo8hoQlge7zZVFHKaUvPeb2pq+UQXnd4k7VBy2Q10opcQSY1XlctCgm5rYMe957+44rhoqQ=;sXEhUWaTG9cdEDq68VPE/w=="
 ---

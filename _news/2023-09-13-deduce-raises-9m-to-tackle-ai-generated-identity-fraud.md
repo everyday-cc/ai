@@ -37,6 +37,15 @@ related:
         width: 2560
         height: 1583
         isCached: true
+  - title: "Deduce Raises $9M to Address AI-Generated Identity Fraud"
+    excerpt: "Deduce announced $9M in funding led by Freestyle Capital, with additional investment by Foundry and True Ventures."
+    publishedDateTime: 2023-09-14T12:02:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/09/212894-deduce-raises-9m-to-address-ai-generated-identity-fraud/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 19
 
 secured: "l5vXR5lE6CGsFCgvuFHqFFQe3oX5LU+B6cmsMSptO1CQhzStXnDOourqIMh6c03mXpZ5aO1I/h59BsmlJg/n3dLLXLA8Ox4Zyrkgh/zGzO23RfCzEQ3MD83+soe26maFSN/VExjR6AQWFeX325jT+64zMcjkWFnunC6c0gfX7TT9FJ6/WIDvKRvG6aXKCuOZQAhzoVCZ7DlD1HXOepupEa8ZMK75z6ZD2IqgPLaLaYyzUW/Yy9Bcons2nPU6BvyCu1JmQ5m3tFLNIgEQtMXX0/MANjRjJQlUvNR0GHr0wP1IylHFzL/uniSr1k93Jvuvwmr2bU5jVg+OnZ86SPSl5t+XlpdWJV1TD9H/5D6DLjU=;eVH0Zu/vhh0pLSAp9gIoqg=="
 ---

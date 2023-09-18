@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/fanduel-selects-aws-cloud-pro
 webUrl: "https://www.techrepublic.com/article/fanduel-selects-aws-cloud-provider/"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "FanDuel Selects AWS as Its Strategic Cloud Provider"
-    excerpt: "AWS has proven it can provide a secure and reliable infrastructure that helps scale our business quickly into new and existing markets while meeting important regulatory requirements,” said Shane Sweeney,"
-    publishedDateTime: 2023-09-13T13:00:00Z
-    webUrl: "https://www.bakersfield.com/ap/news/fanduel-selects-aws-as-its-strategic-cloud-provider/article_4e4b9941-8ac0-5313-b682-e4e1e5a2fc43.html"
-    type: article
-    provider:
-      name: The Bakersfield Californian
-      domain: bakersfield.com
-    quality: 19
   - title: "FanDuel Selects AWS as Its Strategic Cloud Provider"
     excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that FanDuel, the leading sports gaming company in the U."
     publishedDateTime: 2023-09-13T17:01:00Z

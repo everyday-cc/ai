@@ -7,7 +7,7 @@ originalUrl: "https://www.benningtonbanner.com/ap/national/aimpact-2023-experien
 webUrl: "https://www.benningtonbanner.com/ap/national/aimpact-2023-experience-our-ai-future-now/article_f56491a3-6fdd-5160-b889-2bacea6bb30f.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "How will AI really impact your job in the future?"
-    excerpt: "\"AI will be at the core of everyone's job,\" said Dan Diasio, a global artificial intelligence consulting leader with EY."
-    publishedDateTime: 2023-09-14T20:41:00Z
-    webUrl: "https://technical.ly/professional-development/ai-job-future-impact-ey-dan-diasio/"
+  - title: "AImpact 2023: Experience Our AI Future Now – Step Into a New Dimension of AI Learning and Networking"
+    excerpt: "With an impressive ensemble of more than 35 of the industry’s leading experts, including Dr. Laura Palmer, a neuroscientist turned AI ethics consultant, and creative visionary, Lauren Wallett, the creator of the world’s first prescriptive AI software ..."
+    publishedDateTime: 2023-09-17T16:40:00Z
+    webUrl: "https://www.record-eagle.com/ap/national/aimpact-2023-experience-our-ai-future-now-step-into-a-new-dimension-of-ai-learning/article_64bfbc4b-eb8b-542e-908d-42806fd90bd2.html"
     type: article
     provider:
-      name: Technical
-      domain: technical.ly
-    quality: 41
-    images:
-      - url: "https://technical.ly/wp-content/uploads/2023/09/1rzo9eL5F9cwQ5IzA9rj-4-0w1dg.jpg"
-        width: 1024
-        height: 778
-        isCached: true
+      name: Traverse City Record-Eagle
+      domain: record-eagle.com
+    quality: 4
 
 secured: "RQeR3uwqNQHOcK8q3S/Uy7xD0JH9FukgkV+TvHCbCY/3bLTnquaGzSqgbio6J0EhaiNX8m5UoOcYOOEoyjtshQwi+b7WRRrMl2bvWLymv8Y2BOqTlXfvni4eVQIQTwvBgvc6lrFprnqZCOW4LqkKzUzyYwPfIsS0FeUb1VCKxtI9eW8XBHfLj53xExkMx4QbVL3+WMYmmnyTO5BligF0aMayntkc6razrlG3y1rDfWgWLEPsZityW4x+y1Twq+So/da0nXStnkxZWsyG+WgJFzM/xJDy80gr6Ud3gYxEonv9kNrhGcwlIcb0L70Oj6QgeM2MPFFQcpZ5AeaSFXjqHqwcsF6mMDA8w0BUjNAOF+I=;l0I+0uHc6aoT1h+smMExlA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/rachelwells/2023/09/17/5-skills-for-the
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/09/17/5-skills-for-the-future-how-to-proof-your-career-for-the-ai-revolution/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 127
+published: true
 
 provider:
   name: Forbes
@@ -30,82 +30,64 @@ images:
     isCached: true
 
 related:
-  - title: "The Future Of AI In Business: Predictions And How To Prepare"
-    excerpt: "AI has exploded in popularity in 2023. Here are my predictions for what's to come with AI and how your business can prepare."
-    publishedDateTime: 2023-09-13T11:44:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/09/13/the-future-of-ai-in-business-predictions-and-how-to-prepare/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/09/13/the-future-of-ai-in-business-predictions-and-how-to-prepare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/09/13/the-future-of-ai-in-business-predictions-and-how-to-prepare/amp/"
+  - title: "The AI Revolution: Will Artificial Intelligence Shape The Future Of Cannabis Product Design?"
+    excerpt: "The global Artificial Intelligence (AI) market is in the midst of a tremendous growth surge. From a valuation of $387 billion in 2022, it is forecasted to reach a staggering $1.39 trillion by 2029. This meteoric rise is evident from Microsoft Corp. MSFT +1.32% + Free Alerts 's decision to invest a hefty $10 billion for a 49% stake in ChatGPT."
+    publishedDateTime: 2023-09-13T17:10:00Z
+    webUrl: "https://www.benzinga.com/general/biotech/23/09/34506273/the-ai-revolution-will-artificial-intelligence-shape-the-future-of-cannabis-product-design"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34506273"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34506273"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 63
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63d3d76c6f41b0b2774c5504/0x0.jpg?format=jpg&width=1200"
+      - url: "https://cdn.benzinga.com/files/images/story/2023/09/12/tyler-casey-f5fyiqgnucm-unsplash.jpg?width=1200&height=800&fit=crop"
         width: 1200
-        height: 799
+        height: 800
         isCached: true
-  - title: "How AI Can Revolutionize The Business Banking User Experience"
-    excerpt: "AI is poised to revolutionize the user experience in any field, including for small businesses in Business Banking. By leveraging cutting-edge technologies and advanced data analytics, the integration of AI by banks,"
-    publishedDateTime: 2023-09-13T11:03:00Z
-    webUrl: "https://www.finextra.com/blogposting/24880/how-ai-can-revolutionize-the-business-banking-user-experience"
+  - title: "How artificial intelligence can revolutionise science"
+    excerpt: "Then, starting in the late 19th century, the establishment of research laboratories, which brought together ideas, people and materials on an industrial scale, gave rise to further innovations such as artificial fertiliser,"
+    publishedDateTime: 2023-09-14T08:33:00Z
+    webUrl: "https://www.economist.com/leaders/2023/09/14/how-artificial-intelligence-can-revolutionise-science"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 54
+      name: The Economist
+      domain: economist.com
+    quality: 43
     images:
-      - url: "https://www.finextra.com/finextra-images/visible_pictures/8912b45e-e69f-4108-a79d-f6764d2d493e.png"
-        width: 500
-        height: 285
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230916_LDD002.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "As generative AI becomes a competitive advantage, how do you land a strategy right for your business?"
-    excerpt: "Understanding how generative AI can transform the way your organization operates is crucial as it becomes ubiquitous across industries"
-    publishedDateTime: 2023-09-13T13:54:00Z
-    webUrl: "https://venturebeat.com/ai/as-generative-ai-becomes-a-competitive-advantage-how-do-you-land-a-strategy-right-for-your-business/"
+  - title: "How will AI really impact your job in the future?"
+    excerpt: "\"AI will be at the core of everyone's job,\" said Dan Diasio, a global artificial intelligence consulting leader with EY."
+    publishedDateTime: 2023-09-14T20:41:00Z
+    webUrl: "https://technical.ly/professional-development/ai-job-future-impact-ey-dan-diasio/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 52
+      name: Technical
+      domain: technical.ly
+    quality: 41
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/09/AdobeStock_310133876.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 675
+      - url: "https://technical.ly/wp-content/uploads/2023/09/1rzo9eL5F9cwQ5IzA9rj-4-0w1dg.jpg"
+        width: 1024
+        height: 778
         isCached: true
-  - title: "The Future of BaaS: Exploring the Top Predictions for 2022 and Beyond"
-    excerpt: "Welcome to the future of BaaS, where innovation and technology collide to reshape the way businesses operate. As we step into 2022 and beyond, it’s time to unravel the top predictions that will revolutionize this ever-evolving landscape."
-    publishedDateTime: 2023-09-14T15:33:00Z
-    webUrl: "https://techbullion.com/the-future-of-baas-exploring-the-top-predictions-for-2022-and-beyond/"
+  - title: "Inside Elon Musk's Struggle for the Future of AI – TIME"
+    excerpt: "Isaacson, a former editor of TIME and an acclaimed biographer of Steve Jobs, Albert Einstein, among others, is the author of the new book Elon Musk A t a conference in 2012, Elon"
+    publishedDateTime: 2023-09-13T20:13:00Z
+    webUrl: "https://www.inferse.com/714412/inside-elon-musks-struggle-for-the-future-of-ai-time/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 24
+      name: Inferse
+      domain: inferse.com
+    quality: 39
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/09/Untitled-design-2023-09-14T162953.867.png"
-        width: 800
-        height: 400
+      - url: "https://www.inferse.com/wp-content/uploads/2023/09/wp-header-logo-4283-1920x1280.png"
+        width: 1920
+        height: 1280
         isCached: true
-  - title: "AI Trends In International Business: Insights from Three Leaders"
-    excerpt: "Three industry leaders in AI stand out by demonstrating their shared backgrounds and training that led them each to have unparalleled success in AI: Kai-Fu Lee, Harry Shum and Qi Lu."
-    publishedDateTime: 2023-09-13T18:52:00Z
-    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/09/13/ai-trends-in-international-business-insights-from-three-leaders/70844708007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 17
-  - title: "Nation’s first dual degree in medicine and AI aims to prepare the next generation of health care providers"
-    excerpt: "AI’s presence can already be found in a variety of areas of the medical field including customized patient treatment plans, robotic surgeries and drug dosage. Additionally, UT Health San Antonio and UTSA have several research programs underway to improve health care diagnostics and treatment with the help of AI."
-    publishedDateTime: 2023-09-14T12:35:00Z
-    webUrl: "https://www.utsa.edu/today/2023/09/story/UTSA-UT-Health-first-dual-degree-in-medicine-and-AI.html"
-    type: article
-    provider:
-      name: University of Texas at San Antonio
-      domain: utsa.edu
-    quality: 1
 
 secured: "fr0vHImJEQWnLOPsmUHAacU5bWzNwujFRgQQbih3wKbSc/SHn+j6FU5tSsJ0hCSQUpwrxg3kGDWTAv6XDwEl4sgmtzJCjOOcL0RG2s9002hP8P2dUJ+HWtKYhBl4rpNnO1aP2Rm+F0TuoHhcOuI6WNU9vkZKoxJIpc2SvqzRH9Vzypzinp44FvkrhQf4Z26BGeVwK3TIRyG4ADvdJB0gTeBfQ2+L8LTEe6XAxtW6AjuVIS/fVRhBs1/ZmYh8lov09QY/+WunMskoDuWDUwm/GtudFBkk6Yg//ZF+inru0k7MCw4ikRqTvfR36xrKYLq7ormHghsAiTtVz7KrNuMvdPYjnu9P6xgNFJyIyQhQNMruOm4utn/lkNAGYZfFbw/GcFnMuVqT1pjQiTPmsPQBWh5hvcGNFZpGgcCK5Nf+6k4njVMycHXDSDuo6mPO0amzZ2thKII5hiHg3WG7dutqSKJQKN/7OV5CLdg9YHZLqm+9wYP9O9MTpuVGw/DmYXHK/auk/kPul13G4qDrpkaU0A==;F3a+wXMpqId9iGyjbuXi6g=="
 ---

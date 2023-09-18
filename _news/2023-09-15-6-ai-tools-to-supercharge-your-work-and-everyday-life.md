@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/6-ai-tools-that-can-superch
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/6-ai-tools-that-can-supercharge-your-everyday-life-and-work/"
 type: article
 quality: 87
-heat: 98
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Governments race to regulate AI tools"
-    excerpt: "Rapid advances in artificial intelligence (AI) such as Microsoft-backed OpenAI's ChatGPT are complicating governments' efforts to agree laws governing the use of the technology."
-    publishedDateTime: 2023-09-13T12:30:00Z
-    webUrl: "https://www.reuters.com/technology/governments-race-regulate-ai-tools-2023-09-13/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
 
 secured: "Bf8TO0df0LM/keBmjtCfi4UASDeH5sV693RzDnmEAXrv0iFgFcnOxqJr15Hta7CldA49W35DjbD/nElWvpHzulkF/VX2RKAhERdH4cyorlw1BfF9pUf6+f8PCscgj/Kf15oaQIL7JyZ6Nka4DerJL8Hn9yum0fM198oZvXvUTk09JtKcYKnHH2b8E6Nt83YNg0XM6wBNZwyrbYXsi5AYIos8uTpfVYxQAqw3TR6IJbasCyNL3pKZ4N0CyMxGAEpLlMy8AOED9NuV3d1KHimNwk4eZUO2Km+WHyQgAgPMkqSsn5bM0UuPWPqEKaU7TcT6U5jhs2g0zEa8Wbr0RNig4AGBCeiZfkNFbDjJHYxB0RBQNVs4SPozW9yrXX79Xc4hssyVygulNmFdm9OzLZQSA1fHjDaCtSup6wXqd6oWCtaMRlF7iuCigOKngU0JYQUspBNfaWYkAHJRD37f7ko7RmbwDAOfsRv22Ai0e8u3qXdlW5Ou2c7G56UsALI2PN0u1u6KGRwNBFTZJ0ZT+PrQdg==;y92ONqqMQujjB3H3Jfm0WA=="
 ---

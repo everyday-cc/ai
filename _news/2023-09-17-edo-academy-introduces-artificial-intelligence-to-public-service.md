@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thisdaylive.com/index.php/2023/09/17/edo-academy-introdu
 cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/09/17/edo-academy-introduces-artificial-intelligence-to-public-service"
 type: article
 quality: 57
-heat: 57
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 800
     height: 600
     isCached: true
+
+related:
+  - title: "Winn.AI Introduces AI-Powered \"Magic Emails\" To Revolutionize Sales Follow-Ups"
+    excerpt: "Winn.AI, an Israel-based sales tech startup that helps sales teams win more deals with less hassle through its innovative real-time tracking, capturing, and CRM updating features, introduces Magic Emails,"
+    publishedDateTime: 2023-09-14T00:35:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/ab34558719/winn-ai-introduces-ai-powered-magic-emails-to-revolutionize-sales-follow-ups"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34558719"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34558719"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 70
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
 secured: "ZF/eXA+zor7bOHWvoi3WnYcx6BOxFbWN49QIUNigpvxcgAM1gJXhDthwIL4ddIx9aUAeKQktlYg+GctjWg7XIoqmaEwtEncTO+u+8UlbhvNTau8OcVII31X87ZcMjKdYu6PmwuFVTBsRzaa0O8ZNxnYe6Mz1SFS8q8EwhpxOto70rI0/wOms6dVR/+x8jA9Y83mvlNXpb1c9csmcfT+I7Bt7NcKOkj8srMj2ro4g2JXonQkszkUiPbxnrC9jjKMFUDqGGPhA1iHX61GxLOBKg/uAJF3GYYN2lCbFOviCN+KzAYRTF/qFWhVlzaTrMNLnIoBxamiYdK8MAvs4YzMEzWhMtnBGJhJu8guQesQDLkbjB7XZwTQDsf7+wi/Llf/wfgsbSKoYh9nP0KQaYxorDkSpQtCUNwIndxO8mDGdNb0HZNqLn572VdwQytaOQTLNQadN+JFd2LegG0DiET3wRCURmyE6/He7dQeshVs4noYai9Q+NjRlmRXc0aqEHvZ/El80+k8sSv+RlPDFYO59SQ==;NKDmOxKJUEDcckEOfICGGg=="
 ---

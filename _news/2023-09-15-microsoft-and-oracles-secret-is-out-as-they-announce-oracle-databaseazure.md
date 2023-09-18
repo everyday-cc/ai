@@ -346,15 +346,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 27
-  - title: "Microsoft and Esri to speed up access to Earth-observation data"
-    excerpt: "Microsoft also added the Planetary Computer, a platform that combines multi-petabyte global datasets related to biodiversity and climate change with machine-learning tools, to Azure Space. In addition, NASA Langley Research Center, NASA Goddard Space ..."
-    publishedDateTime: 2023-09-13T12:30:00Z
-    webUrl: "https://spacenews.com/microsoft-and-esri-to-speed-up-access-to-earth-observation-data/"
-    type: article
-    provider:
-      name: SpaceNews
-      domain: spacenews.com
-    quality: 19
   - title: "Microsoft and Oracle expand partnership to deliver Oracle Database Services on Oracle Cloud Infrastructure in Microsoft Azure"
     excerpt: "Microsoft joins Oracle as the only other hyperscaler to offer Oracle Cloud Infrastructure Database Services to simplify cloud migration, multicloud deployment and management Austin, TX and Redmond, WA — September 14,"
     publishedDateTime: 2023-09-14T20:00:00Z
@@ -365,6 +356,6 @@ related:
       domain: microsoft.com
     quality: 7
 
-secured: "9jv960nC3LJsbIWqRRlSBF43Wj04Riuj05EgwR0+5zKKbwf3TSfuQlxYzyMQYDEX6pwKFlAVFJUcUxl1AtQc002uSz1q5FuaeJRfQNirUcGdpuvNMZHuJ0fgcV4IBDdWctKL63f117mjUj7buTv7R5xGgzuT6JJBxFPdg6AbTpl7+tj7Q5wkaVgEoDDmcgZa7lobiam8nFgn1dX6doUQgRng/lmLNcmfXLMaWmtfsYGt9qZkZuPqwIyEjibx6Yj69Qjz4Cs+5VBRhm92+gL8FmRajnXY3PppWW9WMu+i+U2IJ0diY96wptAlvfzNxPQponjroN/lJ2Z0r8hVk6HviH/U60v1JxHzi6DcrQMG4k0=;PWV109GHxXDefpx1gnLu0w=="
+secured: "iksI7us5oftCuY5K+ymzdupg5BkcDFLi0rl/7tg/+R9x5gAHmDgdI+QLSU/rb6NcqNVGZyJdoBEiiPf+6J4iUWNaQF5/os7tU3zOvIX/S9VOeMj9BfT8T9VVb7cV5UdiJ1uby8fdicZ9ypW+FdRM1jWLMaSqG7roqj3px4129EkLmXMhrUgE2k4hbuEyWOofFNKfxLjQ2NMm8+Icsu3liEBm+NBmxd73niavjWCnmzl2cPe2iV258T8SdV0n27nUskno+fRoKQm4cDNV656nXq31cyP7eAiunh+Oq1svv8CkCSuBYukJWSr+U7ZAKWoVWY8dcjsyDIJlL454kwV8Q8VEAXkSrcZWeAq90bY7iX2usoBtUSxURGE0OZWZhxKZ2rg/rFsvgcyaP0IM2iJIWoIfRLXy8nOjvF9WNhc4sRB1pip6Vq+DNyxKDycRitDuQggY/znJyVtTbTE3HJy0oDYBlib4EGl/R2APzsein8fkQmO0kIBOcbvTsVlGNYWru+vsVy/kuJzmYUcyik2vHg==;weWHyWvZu88yAF6CpllUVA=="
 ---
 

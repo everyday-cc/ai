@@ -18,33 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "UTC to invest in teacher education, consider use of artificial intelligence"
-    excerpt: "UTC is also considering its use of artificial intelligence, Angle said. The university will host two open campus forums later this month on how it should use AI in its instruction, business operations and research."
-    publishedDateTime: 2023-09-15T22:57:00Z
-    webUrl: "https://www.timesfreepress.com/news/2023/sep/15/utc-to-invest-in-teacher-education-consider-ai-tfp/"
+  - title: "These 3 science fiction authors inspired Elon Musk’s creation of SpaceX, fascination with AI, and quest to colonize Mars"
+    excerpt: "We are learning more and more just how much video games, science fiction, and fantasy shaped Elon Musk's worldview—and dreams for the future."
+    publishedDateTime: 2023-09-14T21:41:00Z
+    webUrl: "https://www.aol.com/finance/3-science-fiction-authors-inspired-184050734.html"
     type: article
     provider:
-      name: Chattanooga Times Free Press
-      domain: timesfreepress.com
-    quality: 52
+      name: AOL
+      domain: aol.com
+    quality: 16
     images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/102950134_State-of-the-University-23-3036_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 393
-        isCached: true
-  - title: "New ‘AI at Wharton’ initiative aims to explore and research AI applications, educate students on AI"
-    excerpt: "The initiative will give students the opportunity to take advantage of Wharton’s resources to further their understanding of how to use AI and apply it in the business world."
-    publishedDateTime: 2023-09-18T00:35:00Z
-    webUrl: "https://www.thedp.com/article/2023/09/penn-wharton-analytics-new-ai-initiative"
-    type: article
-    provider:
-      name: The Daily Pennsylvanian
-      domain: thedp.com
-    quality: 25
-    images:
-      - url: "https://snworksceo.imgix.net/dpn/094d9138-4ea5-4ea5-b594-14ba37f2e3d3.sized-1000x1000.jpg?w=800"
-        width: 800
-        height: 533
+      - url: "https://s.yimg.com/ny/api/res/1.2/CJc3ykrQeipMrb4GQe82yg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04Mjc-/https://media.zenfs.com/en/aol_fortune_385/bf505f01a7548a4727806b335a8a3e2d"
+        width: 1200
+        height: 827
         isCached: true
 
 secured: "tC3xHF62PgP5QhNZIQti5CRCOYOg8oKbZ6915L9ZucmJCcRqxnSrlTUmyBBUI/h8jNLPUQg5Cn165fXiOXxXPC3gmQfqGceIsjKlGW3UZ00TIZCeKe6Yi0GdZTDMraMH6B0g4mdMETTk1fmpAaRPuKDnrM4Q0YMLvP5ysDMdA89WtlNz5J15G9J1wS+crDSXgTyxMg5CRTYp6agEPIT63CfERC6MRJX9t3+6qnaF/42qVg5TA5Sge7VG5fdFXDZSUAqTawvp53hwOM5Se8V25Gvj0XYBypC7XqCSLeb0J3Qe84FbvDTMsG8M9f4GZ2y8Bs9EA918eO2jTYMmK+rWE5Cu4px0yVEpRBkv80myCLvT3nuPQJPJx7t09gzd87Ti3dcehrrtVjnwp/CW+SpvrFxnGcuab3MkddyA6fcvGjLMT4jVkQ1Baok96gw+qsrb6AC558rQAlDwviZ2sseqYrLhwPUJ7MI6Rz50NG4S7GomQVHT8H2Mp8V8XwI+LXh2x6/o2qBKQatFnzk25z8HGQ==;RLXpDKU9Ex77UrDqGgdN9A=="

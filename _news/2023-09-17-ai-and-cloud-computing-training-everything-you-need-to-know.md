@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-and-cloud-computing-training-everything-you-need-to-know-3246235/lite/"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Why picking the right AI-credit decisioning partner matters"
-    excerpt: "As financial institutions continue to evaluate AI underwriting solutions to incorporate into their lending strategies, recognizing the distinction between"
-    publishedDateTime: 2023-09-14T17:16:00Z
-    webUrl: "https://www.cuinsight.com/why-picking-the-right-ai-credit-decisioning-partner-matters/"
-    type: article
-    provider:
-      name: CUInsight
-      domain: cuinsight.com
-    quality: 37
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2022/09/bigstock-Futuristic-Robot-Artificial-In-452602145.jpg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "‘There is no work to balance’: how shrinking budgets, Covid and AI shook up life in consulting"
     excerpt: "Now companies from Accenture to EY and McKinsey are slashing thousands of jobs. The valuations of consultancy businesses are falling — one reason EY pulled its Project Everest plan to separate its accounting and consultancy arms — while the industry’s reputation is under attack following scandals such as firms’ misconduct in South Africa."
     publishedDateTime: 2023-09-18T03:00:00Z
@@ -79,7 +65,7 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
-    quality: 5
+    quality: 7
 
 secured: "9xrYO9LlQPVNb7s/4uJRexmyHiWMLvKAkV4DgTan31ZtTkn0c8dxYhTxGbQm2HeSyIjBCjpSWnC4MQtBNaqYoTD7t4vsQB29gSivvPh4pjTZF/VcS/ii9Fr/WXETPFXZBiD2l9AdzacGAsoVgp/cmXxIlQDs47+zLXMxnSZ5HJVxmaSnAi1AI/rkDeflDY4o372YfvL1a2afHfK19e0YG78S+mCefgr834CD23QHmvToM+mK0SUd6B9PRLWBPz26QLDJCs5WRdg+eaNaIZ0Z42alQU3VC8JAbKD03d25W0ZWJjrhK+9FhehX1+6bjIASjD59LVVIyAa9Kv+9qSG3oqKmeeOwS3EdxN3mpUlieO8=;wL809Q1fzfb7v4m4eLApeQ=="
 ---

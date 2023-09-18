@@ -27,15 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "Samunnati joins FinTech finbots.ai to facilitate AI-based credit risk management"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-09-13T11:51:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/samunnati-joins-fintech-finbots-ai-to-facilitate-ai-based-credit-risk-management/"
+  - title: "Leading The Fintech Revolution: Forms Syntron Presents Generative Ai And Web 3.0 Financial Platforms"
+    excerpt: "Empowered by Microsoft, FORMS Syntron unleashes Banking Copilot and FINNOSafe to transform the financial sectorHONG KONG SAR - Media OutReac"
+    publishedDateTime: 2023-09-14T09:28:00Z
+    webUrl: "https://menafn.com/1107066798/Leading-The-Fintech-Revolution-Forms-Syntron-Presents-Generative-Ai-And-Web-30-Financial-Platforms"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 14
+      name: Mena FN
+      domain: menafn.com
+    quality: 26
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?777459"
+        width: 346
+        height: 250
+        isCached: true
 
 secured: "Q8xBGFacs47boP7G+WCU/ttJEmDZHU8D59i6n3l1m2X9YNN6dVseVjJqCkh0qG2Zsb6P5D+sZYi7q05C7VXGP4/9nIEmr2/Meaa0H518WPQaqgoHb74hMwSJACCIwxyUl4TnpduJShG3/IqeGFitWTAQpZf+kdHpX0XmPQoEgFGr1f3EVKDdg3gbHF4AhR6lRwpple4I+89cKNvpZf3ry3Jn1viGD6uCOQb/oCSpjRW7UDRJbDPZptJCLge2n2T8H3Oxu7YlbMXy4w27FuN7yXOsf1NGI2VYFJomU8Vfr6OI3ei/yPI7rcpiiQ5pEV5gKClHxYs4FKOUjBwMjokM2URSZV2uog0T/baF6kDbmJDlZRuFkvR7PEM76bLs1PA4HlROZfx0oXbpMq+zcWoe19iJia1zOTSDvyeQ/bMakpmO9L0crxnvWRQLTlrhWewE4uFELFpTD6b/WC+pDHHW2Iy/EuXzATx+LKqF5n4gi8fyhyyrJcNrsOzyGquNeAln7f4GqpucwyHVLWZQIqfZjA==;FIvNjNBlHBO+Rdq/uBeVNw=="
 ---
